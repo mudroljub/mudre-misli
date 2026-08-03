@@ -57,8 +57,8 @@ body {
 .author-portrait {
   display: block;
   width: 160px;
-  height: 160px;
-  object-fit: cover;
+  max-width: 100%;
+  height: auto;
   border-radius: 8px;
   margin-bottom: 20px;
 }
