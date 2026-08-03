@@ -46,7 +46,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 32. Sokrat (oko 470–399. p.n.e.) ✔
 33. Ksenofont (oko 430–354. p.n.e.) ✔
 34. Eshine (oko 425–350. p.n.e.)
-35. Aristip (oko 435–356. p.n.e.)
+35. Aristip (oko 435–356. p.n.e.) ✔
 36. Euklit Megaranin (oko 435–365. p.n.e.)
 37. Fedón (4. vek p.n.e.)
 38. Kriton (5. vek p.n.e.)
