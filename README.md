@@ -1,5 +1,18 @@
 # Mudre misli (мѫдрыѩ мысли)
 
+## Development
+
+```
+npm run dev
+```
+
+Production build:
+
+```
+npm run build
+npm start
+```
+
 ## Spisak filozofa
 
 Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i mišljenja znamenitih filozofa* (10 knjiga):
@@ -110,29 +123,6 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 ### Epikurejci (4.–3. vek p.n.e.) — Knjiga X
 
 80. Epikur (341–270. p.n.e.)
-
----
-
-## Development
-
-Aplikacija je napisana u TypeScriptu sa uključenim strogim proverama tipova.
-
-```
-npm run dev
-```
-
-Provera tipova:
-
-```
-npm run typecheck
-```
-
-Production build:
-
-```
-npm run build
-npm start
-```
 
 ## TODO
 
