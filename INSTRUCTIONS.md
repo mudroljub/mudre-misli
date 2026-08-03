@@ -176,7 +176,7 @@ Koristiti sledeći prioritet:
 
 Ne koristiti moderne termine ako postoji stariji slovenski ekvivalent.
 
-Koristiti stariju grafiju **ѹ** umesto novije **ꙋ**.
+Koristiti puni digraf ѹ umesto novijeg prostog у, kao i umesto spojene ligature ꙋ.
 
 ## Uputstvo za redakciju teksta
 
