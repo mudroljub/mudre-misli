@@ -139,3 +139,4 @@ npm start
 - dodati zaseban odeljak za anegdote
 - dodati na naslovnu stranicu random citat
 - dodati home link
+- prevod interfejsa na staroslovenski
