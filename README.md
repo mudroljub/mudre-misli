@@ -23,7 +23,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 12. Anaksimander (oko 610–546. p.n.e.) ✔
 13. Anaksimen (oko 585–528. p.n.e.) ✔
 14. Pitagora (oko 570–495. p.n.e.) ✔
-15. Ksenofan (oko 570–475. p.n.e.)
+15. Ksenofan (oko 570–475. p.n.e.) ✔
 16. Heraklit (oko 535–475. p.n.e.)
 17. Parmenid (oko 515–450. p.n.e.)
 18. Zenon iz Eleje (oko 490–430. p.n.e.)
