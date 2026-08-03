@@ -140,18 +140,16 @@ Pravila:
 2. polje `src` ne sme ostati prazno i autor se ne sme dodati kao prazan objekat (`{}`);
 3. koristiti pouzdan izvor slike sa slobodnom licencom, prvenstveno Wikimedia Commons;
 4. proveriti da slika zaista prikazuje traženog autora, naročito kada postoji više istorijskih ličnosti sa istim imenom;
-5. polje `born` je obavezno i sadrži celobrojno polje `year` i logičko polje `approximate`;
+5. polje `born` je obavezno i sadrži `number`;
 6. negativna godina označava vreme pre nove ere, nula je dozvoljena kao granična godina, a pozitivna godina označava novu eru;
-7. kada tačna godina nije poznata, upisati najbolju približnu godinu i postaviti `approximate` na `true`;
-8. kada je poznat samo vek ili raspon, koristiti približnu sredinu procenjenog razdoblja i postaviti `approximate` na `true`;
-9. nakon izmene proveriti da je `data/authors.json` ispravan JSON i da su autori u bočnoj traci hronološki poređani.
+7. nakon izmene proveriti da je `data/authors.json` ispravan JSON i da su autori u bočnoj traci hronološki poređani.
 
 Primer:
 
 ```json
 "Ksenofan": {
   "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenophanes%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=160",
-  "born": { "year": -570, "approximate": true }
+  "born": -570
 }
 ```
 

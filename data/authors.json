@@ -1,90 +1,90 @@
 {
   "Anaksagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaxagoras.png?width=160",
-    "born": { "year": -500, "approximate": true }
+    "born": -500
   },
   "Protagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribera%20-%20Protagoras%2C%201637.jpg?width=160",
-    "born": { "year": -490, "approximate": true }
+    "born": -490
   },
   "Leukip": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca%20Querini%20Stampalia%20-%20Leucippus%20-%20Luca%20Giordano.jpg?width=160",
-    "born": { "year": -480, "approximate": true }
+    "born": -480
   },
   "Demokrit": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribera%20-%20Dem%C3%B3crito%2C%20P001121.jpg?width=320",
-    "born": { "year": -460, "approximate": true }
+    "born": -460
   },
   "Eudoks": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eudoxos%2C%20Sph%C3%A4renmodell.jpg?width=320",
-    "born": { "year": -408, "approximate": true }
+    "born": -408
   },
   "Aristotel": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_Altemps_Inv8575.jpg?width=160",
-    "born": { "year": -384, "approximate": true }
+    "born": -384
   },
   "Sokrat": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Socrates%20Louvre.jpg?width=320",
-    "born": { "year": -470, "approximate": true }
+    "born": -470
   },
   "Ksenofont": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Xenophon.jpg?width=320",
-    "born": { "year": -430, "approximate": true }
+    "born": -430
   },
   "Aristip": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristippus%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=320",
-    "born": { "year": -435, "approximate": true }
+    "born": -435
   },
   "Antisten": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Antisthenes%20%282459020131%29.jpg?width=320",
-    "born": { "year": -446, "approximate": true }
+    "born": -446
   },
   "Platon": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plato%20Silanion%20Musei%20Capitolini%20MC1377.jpg?width=320",
-    "born": { "year": -428, "approximate": true }
+    "born": -428
   },
   "Bijant iz Prijene": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bias_Pio-Clementino_Inv279.jpg?width=160",
-    "born": { "year": -625, "approximate": true }
+    "born": -625
   },
   "Pitagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer_Pythagoras_adjusted.jpg?width=160",
-    "born": { "year": -570, "approximate": true }
+    "born": -570
   },
   "Ksenofan": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenophanes%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=160",
-    "born": { "year": -570, "approximate": true }
+    "born": -570
   },
   "Ksenokrat": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenocrates.jpg?width=160",
-    "born": { "year": -396, "approximate": true }
+    "born": -396
   },
   "Parmenid": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Busto%20di%20Parmenide%20(cropped).jpg?width=160",
-    "born": { "year": -515, "approximate": true }
+    "born": -515
   },
   "Zenon iz Eleje": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Zeno%20van%20Elea%2C%20RP-P-OB-17.264.jpg?width=160",
-    "born": { "year": -490, "approximate": true }
+    "born": -490
   },
   "Empedoklo": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Empedocles.jpg?width=160",
-    "born": { "year": -494, "approximate": true }
+    "born": -494
   },
   "Heraklit": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Heraclitus_of_Ephesius._Wellcome_M0000762.jpg?width=160",
-    "born": { "year": -535, "approximate": true }
+    "born": -535
   },
   "Tales": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thales_of_Miletus.jpg?width=160",
-    "born": { "year": -624, "approximate": true }
+    "born": -624
   },
   "Anaksimander": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximander.jpg?width=160",
-    "born": { "year": -610, "approximate": true }
+    "born": -610
   },
   "Anaksimen": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximenes.jpg?width=160",
-    "born": { "year": -585, "approximate": true }
+    "born": -585
   }
 }

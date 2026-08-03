@@ -17,15 +17,9 @@ export interface QuoteWithId extends Quote {
   _id: number;
 }
 
-// Negativna vrednost označava p. n. e, pozitivna n. e.
-export interface BirthDate {
-  year: number;
-  approximate: boolean;
-}
-
 export interface AuthorMetadata {
   src: string;
-  born: BirthDate;
+  born: number; // Negativna vrednost označava p. n. e, pozitivna n. e.
 }
 
 export type AuthorsData = Record<string, AuthorMetadata>;

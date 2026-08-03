@@ -18,7 +18,7 @@ const quotesData: QuoteWithId[] = quoteInputs.map((entry, index) => ({
 
 const languages = supportedLanguages;
 const authors = Object.keys(authorsData).sort((left, right) => {
-  const yearDifference = authorsData[left].born.year - authorsData[right].born.year;
+  const yearDifference = authorsData[left].born - authorsData[right].born;
   return yearDifference || left.localeCompare(right, 'sr');
 });
 
