@@ -1,3 +1,5 @@
+# Instrukcije za razvoj
+
 - napravi statički sajt generator u next.js na osnovu kolekcije citata u data/quotes.json
 - svaki citat mora imati svoju stranicu na osnovu quote._id
 - svaki autor mora imati svoju stranicu sa svim njegovim citatima
