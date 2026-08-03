@@ -4,7 +4,7 @@ export type EntryType = (typeof entryTypes)[number];
 export const supportedLanguages = ['sl', 'sr', 'en'] as const;
 export type Language = (typeof supportedLanguages)[number];
 
-export interface WisdomEntryInput {
+export interface Quote {
   type: EntryType;
   sr: string;
   sl: string;
@@ -13,15 +13,13 @@ export interface WisdomEntryInput {
   source: string;
 }
 
-export interface WisdomEntry extends WisdomEntryInput {
+export interface QuoteWithId extends Quote {
   _id: number;
 }
 
-// Negativna vrednost označava p. n. e, nula graničnu godinu, a pozitivna n. e.
-export type HistoricalYear = number;
-
+// Negativna vrednost označava p. n. e, pozitivna n. e.
 export interface BirthDate {
-  year: HistoricalYear;
+  year: number;
   approximate: boolean;
 }
 
@@ -31,4 +29,4 @@ export interface AuthorMetadata {
 }
 
 export type AuthorsData = Record<string, AuthorMetadata>;
-export type QuotesByLanguage = Record<Language, WisdomEntry[]>;
+export type QuotesByLanguage = Record<Language, QuoteWithId[]>;

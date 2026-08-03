@@ -5,10 +5,10 @@ import { useState } from 'react';
 import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getTextForLanguage, authorSlugs } from '../lib/data';
-import type { AuthorMetadata, Language, WisdomEntry } from '../types/data';
+import type { AuthorMetadata, Language, QuoteWithId } from '../types/data';
 
 interface QuotePageClientProps {
-  quote: WisdomEntry;
+  quote: QuoteWithId;
   authorMeta?: AuthorMetadata;
 }
 

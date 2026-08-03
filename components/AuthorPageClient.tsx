@@ -5,12 +5,12 @@ import { useState } from 'react';
 import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getTextForLanguage } from '../lib/data';
-import type { AuthorMetadata, Language, WisdomEntry } from '../types/data';
+import type { AuthorMetadata, Language, QuoteWithId } from '../types/data';
 
 interface AuthorPageClientProps {
   author: string;
   authorMeta: AuthorMetadata;
-  authorQuotes: WisdomEntry[];
+  authorQuotes: QuoteWithId[];
 }
 
 export default function AuthorPageClient({

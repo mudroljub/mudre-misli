@@ -5,10 +5,10 @@ import { useState } from 'react';
 import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getTextForLanguage } from '../lib/data';
-import type { Language, WisdomEntry } from '../types/data';
+import type { Language, QuoteWithId } from '../types/data';
 
 interface HomeContentProps {
-  featured: WisdomEntry;
+  featured: QuoteWithId;
 }
 
 export default function HomeContent({ featured }: HomeContentProps) {

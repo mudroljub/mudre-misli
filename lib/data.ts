@@ -5,13 +5,13 @@ import {
   type AuthorsData,
   type Language,
   type QuotesByLanguage,
-  type WisdomEntry,
-  type WisdomEntryInput,
+  type QuoteWithId,
+  type Quote,
 } from '../types/data';
 
 const authorsData: AuthorsData = authorsRaw;
-const quoteInputs = quotesRaw as WisdomEntryInput[];
-const quotesData: WisdomEntry[] = quoteInputs.map((entry, index) => ({
+const quoteInputs = quotesRaw as Quote[];
+const quotesData: QuoteWithId[] = quoteInputs.map((entry, index) => ({
   _id: index + 1,
   ...entry,
 }));
@@ -41,7 +41,7 @@ const authorFromSlug: Record<string, string> = Object.fromEntries(
 const getLanguagePreference = (preferred: string): Language =>
   languages.includes(preferred as Language) ? (preferred as Language) : 'sl';
 
-const getTextForLanguage = (entry: WisdomEntry, language: Language = 'sl'): string => {
+const getTextForLanguage = (entry: QuoteWithId, language: Language = 'sl'): string => {
   if (language === 'sl' && entry.sl) {
     return entry.sl;
   }
