@@ -12,7 +12,7 @@ Radi se **jedan filozof po jedan**, redosledom kojim korisnik zatraži.
 
 Za svakog filozofa potrebno je:
 
-1. izdvojiti sve direktne citate koje Diogen Laertije pripisuje tom filozofu;
+1. izdvojiti sve direktne i prepričane izjave koje Diogen Laertije pripisuje tom filozofu;
 2. izdvojiti sve anegdote koje se odnose na tog filozofa;
 3. jasno razdvojiti citate i anegdote;
 4. prevesti ih na staroslovenski.
@@ -54,13 +54,17 @@ Engleski prevod koristiti kao pomoć pri razumevanju, ali ne kao zamenu za origi
 
 # Citat
 
-Citat je svaka izjava koju Diogen Laertije izričito pripisuje filozofu.
+Citat je svaka izjava ili filozofski stav koji Diogen Laertije pripisuje filozofu, bez obzira na to da li je prenet upravnim ili neupravnim govorom.
 
 Uključiti:
 
 - direktne izreke filozofa;
 - fragmente dela sačuvane kod Diogena;
-- filozofske tvrdnje koje Diogen prenosi kao njihove.
+- filozofske tvrdnje koje Diogen prenosi kao njihove;
+- prepričane izjave i učenja u neupravnom govoru (npr. „Pitagora je govorio da meso ne treba jesti”);
+- sažete prikaze filozofovih gledišta, zabrana, saveta i načela, kada su jasno pripisani tom filozofu.
+
+Kada je stav pouzdano pripisan filozofu i smislen bez okolnog konteksta, poželjno ga je oblikovati kao samostalni aforizam, bez uvodne formule. Kada izvorna ograda, neizvesno pripisivanje ili potreban kontekst zahtevaju neupravni govor, koristiti obrazac „[ime filozofa] je govorio da…”. Ne koristiti oblike „učenje filozofa bilo je…”, „filozof je smatrao…”, „filozof je objašnjavao…” ili „filozof je učio…”. Ograde iz izvora zadržati ispred standardnog obrasca (npr. „Prema jednom predanju, Tales je govorio da…”), kako se parafraza ne bi lažno predstavila kao doslovan navod.
 
 Ne uključivati:
 
