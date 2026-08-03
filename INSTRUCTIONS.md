@@ -184,6 +184,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 ## Terminološki rečnik
 
 - ἀγαθόν → благо
+- ἄγνοια → невѣдѣние
 - αἴσθησις → чꙋвьство
 - αἰτία → вина (alt: начало — kada označava uzrok)
 - αἰών → вѣкъ
