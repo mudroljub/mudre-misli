@@ -170,6 +170,8 @@ Koristiti sledeći prioritet:
 
 Ne koristiti moderne termine ako postoji stariji slovenski ekvivalent.
 
+Koristi stariju grafiju ѹ umesto novije ꙋ.
+
 ## Transkripcija imena
 
 Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema kasnijim tradicionalnim slovenskim oblicima koji menjaju glasovnu vrednost. Primeri:
@@ -273,6 +275,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 - χρόνος → врѣмѧ
 - ψεῦδος → ложь
 - ψυχή → душа
+- στίχος → рѣчь (alt: рядъ, стихъ)
 
 четыри прьвины vs четыри състави
 
