@@ -54,7 +54,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 40. Glaukon (5. vek p.n.e.)
 41. Simija (5. vek p.n.e.)
 42. Kebet (5. vek p.n.e.)
-43. Antisten (oko 446–366. p.n.e.)
+43. Antisten (oko 446–366. p.n.e.) ✔
 44. Stilpon (oko 380–300. p.n.e.)
 45. Menedém Eritrejski (oko 345–261. p.n.e.)
 
