@@ -115,8 +115,16 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 
 ## Development
 
+Aplikacija je napisana u TypeScriptu sa uključenim strogim proverama tipova.
+
 ```
 npm run dev
+```
+
+Provera tipova:
+
+```
+npm run typecheck
 ```
 
 Production build:
