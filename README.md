@@ -20,9 +20,9 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 
 ### Jonska škola i predsokratovci (6.–5. vek p.n.e.) — Knjige II, VIII, IX
 
-12. Anaksimander (oko 610–546. p.n.e.)
-13. Anaksimen (oko 585–528. p.n.e.)
-14. Pitagora (oko 570–495. p.n.e.)
+12. Anaksimander (oko 610–546. p.n.e.) ✔
+13. Anaksimen (oko 585–528. p.n.e.) ✔
+14. Pitagora (oko 570–495. p.n.e.) ✔
 15. Ksenofan (oko 570–475. p.n.e.)
 16. Heraklit (oko 535–475. p.n.e.)
 17. Parmenid (oko 515–450. p.n.e.)
