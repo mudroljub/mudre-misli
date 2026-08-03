@@ -39,7 +39,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 28. Hipas (5. vek p.n.e.)
 29. Demokrit (oko 460–370. p.n.e.) ✔
 30. Arhita (oko 428–347. p.n.e.)
-31. Eudoks (oko 408–355. p.n.e.)
+31. Eudoks (oko 408–355. p.n.e.) ✔
 
 ### Sokrat i sokratovci (5.–4. vek p.n.e.) — Knjige II, VI
 

@@ -216,7 +216,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 - θεός → богъ
 - κακόν → зло
 - καλόν → красно
-- κενόν → празноє
+- κενόν → празноє (alt: празно мѣсто — kada označava prostor)
 - κίνησις → движенье
 - κόσμος → миръ (alt: васєлєна — kada označava celokupni kosmos)
 - λόγος → слово (alt: разумъ, законъ — zavisno od konteksta)
