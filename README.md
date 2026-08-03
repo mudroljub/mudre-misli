@@ -60,7 +60,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 
 ### Platonova akademija (4.–2. vek p.n.e.) — Knjige III, IV
 
-46. Platon (oko 428–348. p.n.e.)
+46. Platon (oko 428–348. p.n.e.) ✔
 47. Speusip (oko 408–338. p.n.e.)
 48. Ksenokrat (oko 396–314. p.n.e.)
 49. Poleman (oko 350–267. p.n.e.)
