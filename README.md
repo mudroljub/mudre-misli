@@ -30,7 +30,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 19. Meliso (5. vek p.n.e.)
 20. Empedoklo (oko 494–434. p.n.e.) ✔
 21. Epiharm (oko 540–443. p.n.e.)
-22. Anaksagora (oko 500–428. p.n.e.)
+22. Anaksagora (oko 500–428. p.n.e.) ✔
 23. Protagora (oko 490–420. p.n.e.)
 24. Levkip (5. vek p.n.e.)
 25. Diogen iz Apolonije (5. vek p.n.e.)
