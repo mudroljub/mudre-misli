@@ -19,6 +19,8 @@ Za svakog filozofa potrebno je:
 
 Ne preskakati nijedan dostupan citat ili anegdotu.
 
+Ne izmišljati citate niti rekonstruisati izgubljene izreke. Uključivati samo ono što Diogen Laertije zaista prenosi ili jasno pripisuje filozofu.
+
 ---
 
 # Izvori
@@ -104,6 +106,7 @@ Svaki zapis mora imati sledeći format:
   "author": "",
   "source": ""
 }
+
 ```
 
 Za anegdote:
@@ -116,15 +119,16 @@ Za anegdote:
   "author": "",
   "source": ""
 }
+
 ```
 
 Polja:
 
-- `type` — tip zapisa (`quote` ili `anecdote`);
-- `sr` — savremeni srpski prevod;
-- `sl` — staroslovenski prevod;
-- `author` — filozof kome pripada citat ili koga opisuje anegdota;
-- `source` — precizan izvor iz Diogena Laertija (knjiga i odeljak).
+* `type` — tip zapisa (`quote` ili `anecdote`);
+* `sr` — savremeni srpski prevod;
+* `sl` — staroslovenski prevod;
+* `author` — filozof kome pripada citat ili koga opisuje anegdota;
+* `source` — precizan izvor iz Diogena Laertija (knjiga i odeljak).
 
 Dodatna polja (`el`, `en` itd.) dodavati samo ako su izričito zatražena.
 
@@ -153,6 +157,8 @@ Primer:
 }
 ```
 
+Vrednost polja `author` mora koristiti standardno srpsko ime filozofa koje se koristi u projektu, nezavisno od oblika u grčkom ili engleskom izvoru.
+
 ---
 
 # Pravila prevođenja na staroslovenski
@@ -170,114 +176,146 @@ Koristiti sledeći prioritet:
 
 Ne koristiti moderne termine ako postoji stariji slovenski ekvivalent.
 
-Koristi stariju grafiju ѹ umesto novije ꙋ.
+Koristiti stariju grafiju **ѹ** umesto novije **ꙋ**.
+
+## Uputstvo za redakciju teksta
+
+Rekonstruisani slovenski tekst treba dosledno da vuče prema praslovenskom fonetskom i gramatičkom stanju.
+
+### Primena prostog slova Є umesto jotiranog Ѥ
+
+* **Pravilo:** Zabranjena je upotreba slova **Ѥ / ѥ**. Umesto njega dosledno pisati prosto **Є / є** (ili **Е / е**).
+* **Početak reči:** Priloge, vlastita imena i sve ostale reči pisati sa prostim početnim **Є** (bez protetskog glasa [j] koji se javlja u mlađem kanonu).
+* *Ispravno:* **Єгда**, **Єгѵпєтъ**, **Ємпєдоклъ**
+* *Neispravno:* **Ѥгда**, **Ѥгѵпєтъ**, **Ѥмпєдоклъ**
+
+
+* **Unutrašnjost reči:** Iza vokala i u nastavcima pisati prosto **є**.
+* *Ispravno:* **своєго**, **ѹчєниємь**, **кратко**
+* *Neispravno:* **своѥго**, **ѹчєниѥмь**
+
+
+
+### Meki poluglas u nastavcima prezenta (-ть)
+
+* **Pravilo:** U 3. licu jednine i množine prezenta pisati meki poluglas **-ть** (prema praslovenskom `*-tь`), a ne tvrdi kanonski poluglas **-тъ**.
+* **Pravilo za glagol *biti*:** Pisati **єсть** sa mekim poluglasom na kraju i prostim **є** na početku.
+* *Ispravno:* **єсть**, **поживєть**, **глаголєть**
+* *Neispravno:* **ѥстъ**, **поживєтъ**
+
+
+
+### Etimološka upotreba nazala (Ѧ i Ѫ)
+
+* **Pravilo:** Strogo čuvati nazalne vokale **Ѧ / ѧ** ($[\tilde{e}]$) i **Ѫ / ѫ** ($[\tilde{o}]$) tamo gde odgovaraju praslovenskim glasovima `*ę` i `*ǫ`.
+* **Razgraničenje ѧ i ꙗ:** Ne mešati mali jus (**ѧ**) i jotirano a (**ꙗ**).
+* Ako koren reči etimološki sadrži nazal, piše se **ѧ** (npr. **памѧть**, **взѧти**).
+* Ako koren sadrži čisto $[ja]$, piše se **ꙗ** (npr. **приꙗтъ**, **ꙗко**).
+
+
 
 ## Transkripcija imena
 
 Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema kasnijim tradicionalnim slovenskim oblicima koji menjaju glasovnu vrednost. Primeri:
 
-- Ἑκαταῖος → Хекатей (ne Гекатей)
-- Ἡράκλειτος → Хераклитъ (ne Ираклитъ)
-
----
+* Ἑκαταῖος → Хекатей (ne Гекатей)
+* Ἡράκλειτος → Хераклитъ (ne Ираклитъ)
 
 ## Terminološki rečnik (staroslovenski, IX vek)
 
-- ἀγαθόν → благо
-- ἄγνοια → невѣдѣниѥ
-- ἀέρας → вѫздꙋхъ
-- αἴσθησις → чꙋвьство
-- αἰτία → вина (alt: причина, начѧло)
-- αἰών → вѣкъ
-- ἀλήθεια → истина
-- ἀνάγκη → нѫжда
-- ἀπαρχή → прьвина (alt: начѧтъкъ)
-- ἄπειρον → безконьчноѥ
-- ἄπειρος → безмѣрьнъ
-- ἀρετή → добродѣтель
-- ἁρμονία → съвръзаниѥ (alt: съгласиѥ)
-- ἀρχή → начѧло
-- ἄτομος → недѣлимъ
-- βίος → животъ
-- βούλησις → хотѣниѥ
-- γένεσις → рожениѥ (alt: бытиѥ)
-- γῆ → землѧ
-- γνωθι σεαυτόν → познѧи себе (alt: познѧи сѧ)
-- γνώμη → познаниѥ (alt: помыслъ)
-- γνώμων → слъньцѣпоказъ
-- γνῶσις → знаниѥ
-- δαίμων → духъ (alt: демонъ)
-- διάνοια → разумѣниѥ
-- δικαιοσύνη → правда
-- δόξα → мьнѣниѥ
-- δουλεία → рабьство
-- δύναμις → сила
-- εἱμαρμένη → сѫдьба
-- ἐλευθερία → волѧ (alt: свобода)
-- ἐλπίς → надѣжда
-- ἕν → єдино
-- ἐνέργεια → дѣиство
-- ἕνωσις → съединениѥ
-- ἐπιστήμη → наꙋка
-- ἔρως → любовь
-- εὐδαιμονία → блаженьство
-- εὐθυμία → благодꙋшиѥ
-- ἡδονή → сластъ
-- ἦθος → нравъ
-- θάνατος → смрьть
-- θεός → богъ
-- θεωρία → зрѣниѥ
-- ἰδέα → видъ (alt: зракъ)
-- ἰσότης → равьность
-- κακόν → зло
-- καλόν → красно (alt: добро — kada znači moralno dobro)
-- κενόν → праздьно (alt: праздьно мѣсто)
-- κίνησις → движениѥ
-- κόσμος → миръ (alt: украшениѥ — izvorno značenje reda/ukrasa)
-- κρᾶσις → смѣшение
-- λόγος → слово (alt: разумъ, рѣчь, законъ)
-- λόγος σπερματικός → словесьно сѣмѧ (alt: сѣмьноѥ слово)
-- λύπη → печаль
-- μεταβολή → прѣмѣнениѥ
-- μέτρον → мѣра
-- μορφή → образъ
-- νεῖκος → вражда
-- νόμος → законъ
-- νοῦς → умъ
-- ὄν → сѫщее
-- οὐσία → сѫщество (alt: естество)
-- πάθος → страданиѥ (alt: страсть)
-- πάντα → всѧ
-- πέρας → прѣдѣлъ
-- πλῆθος → множьство
-- πόλις → градъ
-- πολίτης → градьнинъ
-- πολλοί → мнози
-- πῦρ → огнь
-- Σελήνη → мѣсѧць
-- σοφία → мѫдрость
-- στάσις → стояниѥ (alt: покои)
-- στοιχεῖον → пьрвосъставъ (alt: съставъ)
-- τέλος → коньць (alt: цѣль)
-- τέχνη → художьство
-- τὸ εἶναι → бытиѥ
-- τόπος → мѣсто
-- τύχη → приклꙋчаи (alt: съчастьѥ)
-- ὕδωρ → вода
-- φθορά → тлѣниѥ
-- φιλία → дружьба
-- φιλοσοφία → любомѫдриѥ
-- φιλόσοφος → любомѫдрьць
-- φιλότης → любовь (Empedokleov termin)
-- φόβος → страхъ
-- φρόνησις → благоразꙋмиѥ
-- φύσις → естество
-- χρόνος → врѣмѧ
-- ψεῦδος → ложь
-- ψυχή → душа
-- στίχος → рѣчь (alt: рядъ, стихъ)
-
-четыри прьвины vs четыри състави
+* ἀγαθόν → благо
+* ἄγνοια → невѣдѣниє
+* ἀέρας → вѫздѹхъ
+* αἴσθησις → чѹвьство
+* αἰτία → вина (alt: причина, начѧло)
+* αἰών → вѣкъ
+* ἀλήθεια → истина
+* ἀνάγκη → нѫжда
+* ἀπαρχή → прьвина (alt: начѧтъкъ)
+* ἄπειρον → безконьчноє
+* ἄπειρος → безмѣрьнъ
+* ἀρετή → добродѣтель
+* ἁρμονία → съвръзаниє (alt: съгласиє)
+* ἀρχή → начѧло
+* ἄτομος → недѣлимъ
+* βίος → животъ
+* βούλησις → хотѣниє
+* γένεσις → рожениє (alt: бытиє)
+* γῆ → землѧ
+* γνωθι σεαυτόν → познѧи себе (alt: познѧи сѧ)
+* γνώμη → познаниє (alt: помыслъ)
+* γνώμων → слъньцѣпоказъ
+* γνῶσις → знаниє
+* δαίμων → духъ (alt: демонъ)
+* διάνοια → разумѣниє
+* δικαιοσύνη → правда
+* δόξα → мьнѣниє
+* δουλεία → рабьство
+* δύναμις → сила
+* εἱμαρμένη → сѫдьба
+* ἐλευθερία → волѧ (alt: свобода)
+* ἐλπίς → надѣжда
+* ἕν → єдино
+* ἐνέργεια → дѣиствиє
+* ἕνωσις → съєдинєниє
+* ἐπιστήμη → наѹка
+* ἔρως → любовь
+* εὐδαιμονία → блаженьство
+* εὐθυμία → благодѹшиє
+* ἡδονή → сластъ
+* ἦθος → нравъ
+* θάνατος → смрьть
+* θεός → богъ
+* θεωρία → зрѣниє
+* ἰδέα → видъ (alt: зракъ)
+* ἰσότης → равьность
+* κακόν → зло
+* καλόν → красно (alt: добро — kada znači moralno dobro)
+* κενόν → праздьно (alt: праздьно мѣсто)
+* κίνησις → движениє
+* κόσμος → миръ (alt: украшениє — izvorno značenje reda/ukrasa)
+* κρᾶσις → смѣшениє
+* λόγος → слово (alt: разумъ, рѣчь, законъ)
+* λόγος σπερματικός → словесьно сѣмѧ (alt: сѣмьноє слово)
+* λύπη → печаль
+* μεταβολή → прѣмѣнениє
+* μέτρον → мѣра
+* μορφή → образъ
+* νεῖκος → вражда
+* νόμος → законъ
+* νοῦς → умъ
+* ὄν → сѫщее
+* οὐσία → сѫщество (alt: естество)
+* πάθος → страданиє (alt: страсть)
+* πάντα → всѧ
+* πέρας → прѣдѣлъ
+* πλῆθος → множьство
+* πόλις → градъ
+* πολίτης → градьнинъ
+* πολλοί → мнози
+* πῦρ → огнь
+* Σελήνη → мѣсѧць
+* σοφία → мѫдрость
+* στάσις → стояниє (alt: покои)
+* στίχος → рѣчь (alt: рядъ, стихъ)
+* στοιχεῖον → пьрвосъставъ (alt: съставъ)
+* τέλος → коньць (alt: цѣль)
+* τέχνη → художьство
+* τὸ εἶναι → бытиє
+* τόπος → мѣсто
+* τύχη → приклѹчаи (alt: съчастьє)
+* ὕδωρ → вода
+* φθορά → тлѣниє
+* φιλία → дружьба
+* φιλοσοφία → любомѫдриє
+* φιλόσοφος → любомѫдрьць
+* φιλότης → любовь (Empedokleov termin)
+* φόβος → страхъ
+* φρόνησις → благоразѹмиє
+* φύσις → естество
+* χρόνος → врѣмѧ
+* ψεῦδος → ложь
+* ψυχή → душа
 
 ## Doslednost
 
