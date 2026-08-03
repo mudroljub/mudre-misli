@@ -1,7 +1,6 @@
 import authorsRaw from '../data/authors.json';
 import quotesRaw from '../data/quotes.json';
 import {
-  entryTypes,
   supportedLanguages,
   type AuthorsData,
   type Language,
@@ -10,52 +9,18 @@ import {
   type WisdomEntryInput,
 } from '../types/data';
 
-const isRecord = (value: unknown): value is Record<string, unknown> =>
-  typeof value === 'object' && value !== null && !Array.isArray(value);
-
-function assertWisdomEntryInput(value: unknown): asserts value is WisdomEntryInput {
-  if (!isRecord(value)) {
-    throw new TypeError('Svaki zapis mora biti objekat.');
-  }
-
-  if (!entryTypes.includes(value.type as WisdomEntryInput['type'])) {
-    throw new TypeError(`Nepoznata vrsta zapisa: ${String(value.type)}`);
-  }
-
-  for (const field of ['sr', 'sl', 'author', 'source'] as const) {
-    if (typeof value[field] !== 'string') {
-      throw new TypeError(`Polje "${field}" mora biti tekst.`);
-    }
-  }
-
-  if (value.en !== undefined && typeof value.en !== 'string') {
-    throw new TypeError('Polje "en" mora biti tekst kada postoji.');
-  }
-}
-
-function assertAuthorsData(value: unknown): asserts value is AuthorsData {
-  if (!isRecord(value)) {
-    throw new TypeError('Podaci o autorima moraju biti objekat.');
-  }
-
-  for (const [author, metadata] of Object.entries(value)) {
-    if (!isRecord(metadata) || typeof metadata.src !== 'string' || metadata.src.length === 0) {
-      throw new TypeError(`Autor "${author}" mora imati izvor slike.`);
-    }
-
-  }
-}
-
-assertAuthorsData(authorsRaw);
-
 const authorsData: AuthorsData = authorsRaw;
-const quotesData: WisdomEntry[] = quotesRaw.map((entry, index) => {
-  assertWisdomEntryInput(entry);
-  return { _id: index + 1, ...entry };
-});
+const quoteInputs = quotesRaw as WisdomEntryInput[];
+const quotesData: WisdomEntry[] = quoteInputs.map((entry, index) => ({
+  _id: index + 1,
+  ...entry,
+}));
 
 const languages = supportedLanguages;
-const authors = Object.keys(authorsData);
+const authors = Object.keys(authorsData).sort((left, right) => {
+  const yearDifference = authorsData[left].born.year - authorsData[right].born.year;
+  return yearDifference || left.localeCompare(right, 'sr');
+});
 
 const slugifyAuthor = (author: string): string =>
   author

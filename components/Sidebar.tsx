@@ -1,14 +1,12 @@
 import Link from 'next/link';
-import { authorsData, authorSlugs } from '../lib/data';
+import { authors, authorsData, authorSlugs } from '../lib/data';
 
 export default function Sidebar() {
-  const authorList = Object.keys(authorsData);
-
   return (
     <aside className="sidebar">
       <h1>Mudre misli</h1>
       <nav>
-        {authorList.map((author) => {
+        {authors.map((author) => {
           const metadata = authorsData[author];
           const slug = authorSlugs[author] ?? author;
 
