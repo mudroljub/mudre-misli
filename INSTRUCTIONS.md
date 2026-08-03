@@ -189,6 +189,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 - αἰών → вѣкъ
 - ἀλήθεια → истина
 - ἀνάγκη → нѫжда
+- ἄτομος → недѣлимоє тѣло
 - ἄπειρον → безконьчноє
 - ἀρετή → добродѣтель
 - ἀρχή → начало

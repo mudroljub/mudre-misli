@@ -32,7 +32,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 21. Epiharm (oko 540–443. p.n.e.)
 22. Anaksagora (oko 500–428. p.n.e.) ✔
 23. Protagora (oko 490–420. p.n.e.) ✔
-24. Levkip (5. vek p.n.e.)
+24. Leukip (oko 480–420. p.n.e.) ✔
 25. Diogen iz Apolonije (5. vek p.n.e.)
 26. Alkmeón (5. vek p.n.e.)
 27. Filolaj (oko 470–385. p.n.e.)
