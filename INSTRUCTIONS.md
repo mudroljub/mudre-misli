@@ -182,6 +182,10 @@ Koristiti stariju grafiju **ѹ** umesto novije **ꙋ**.
 
 Rekonstruisani slovenski tekst treba dosledno da vuče prema praslovenskom fonetskom i gramatičkom stanju.
 
+### Zabrana korišćenja slova „я”
+
+Agentima je zabranjeno korišćenje moderne grafeme **Я (я)** u tekstovima na staroslovenskom jeziku, te umesto nje moraju upotrebljavati autentične istorijske oblike **ꙗ** ili **Ѧ (ѧ)**.
+
 ### Primena prostog slova Є umesto jotiranog Ѥ
 
 * **Pravilo:** Zabranjena je upotreba slova **Ѥ / ѥ**. Umesto njega dosledno pisati prosto **Є / є** (ili **Е / е**).
@@ -195,7 +199,6 @@ Rekonstruisani slovenski tekst treba dosledno da vuče prema praslovenskom fonet
 * *Neispravno:* **своѥго**, **ѹчєниѥмь**
 
 
-
 ### Meki poluglas u nastavcima prezenta (-ть)
 
 * **Pravilo:** U 3. licu jednine i množine prezenta pisati meki poluglas **-ть** (prema praslovenskom `*-tь`), a ne tvrdi kanonski poluglas **-тъ**.
@@ -204,14 +207,12 @@ Rekonstruisani slovenski tekst treba dosledno da vuče prema praslovenskom fonet
 * *Neispravno:* **ѥстъ**, **поживєтъ**
 
 
-
 ### Etimološka upotreba nazala (Ѧ i Ѫ)
 
 * **Pravilo:** Strogo čuvati nazalne vokale **Ѧ / ѧ** ($[\tilde{e}]$) i **Ѫ / ѫ** ($[\tilde{o}]$) tamo gde odgovaraju praslovenskim glasovima `*ę` i `*ǫ`.
 * **Razgraničenje ѧ i ꙗ:** Ne mešati mali jus (**ѧ**) i jotirano a (**ꙗ**).
 * Ako koren reči etimološki sadrži nazal, piše se **ѧ** (npr. **памѧть**, **взѧти**).
 * Ako koren sadrži čisto $[ja]$, piše se **ꙗ** (npr. **приꙗтъ**, **ꙗко**).
-
 
 
 ## Transkripcija imena
