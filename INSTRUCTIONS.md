@@ -209,12 +209,14 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 - ἐπιστήμη → вѣдѣние
 - ἔρως → любовь
 - εὐδαιμονία → блаженьство
+- εὐθυμία → благодꙋшиє
 - ἡδονή → сластъ
 - ἦθος → нравъ
 - θάνατος → смрьть
 - θεός → богъ
 - κακόν → зло
 - καλόν → красно
+- κενόν → празноє
 - κίνησις → движенье
 - κόσμος → миръ (alt: васєлєна — kada označava celokupni kosmos)
 - λόγος → слово (alt: разумъ, законъ — zavisno od konteksta)
