@@ -15,7 +15,7 @@ export default function AuthorPageClient({ author, authorMeta, authorQuotes }) {
       <section className="content">
         <LanguageSwitcher currentLang={lang} onChange={setLang} />
         <h2>{author}</h2>
-        {authorMeta.src ? <img src={authorMeta.src} alt={author} /> : null}
+        {authorMeta.src ? <img className="author-portrait" src={authorMeta.src} alt={author} /> : null}
         {authorQuotes.length === 0 ? (
           <p>Nema citata za ovog autora.</p>
         ) : (

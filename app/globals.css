@@ -54,6 +54,15 @@ body {
   font-weight: 700;
 }
 
+.author-portrait {
+  display: block;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
 .quote-card {
   border: 1px solid #ddd;
   padding: 18px;

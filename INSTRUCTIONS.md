@@ -126,6 +126,28 @@ Dodatna polja (`el`, `en` itd.) dodavati samo ako su izričito zatražena.
 
 ---
 
+# Slike autora (obavezno)
+
+Pri svakom dodavanju novog autora u `data/quotes.json` ili `data/anecdotes.json` obavezno istovremeno dodati i njegovu sliku u `data/authors.json`.
+
+Pravila:
+
+1. ključ u `data/authors.json` mora biti potpuno isti kao vrednost polja `author`;
+2. polje `src` ne sme ostati prazno i autor se ne sme dodati kao prazan objekat (`{}`);
+3. koristiti pouzdan izvor slike sa slobodnom licencom, prvenstveno Wikimedia Commons;
+4. proveriti da slika zaista prikazuje traženog autora, naročito kada postoji više istorijskih ličnosti sa istim imenom;
+5. nakon izmene proveriti da je `data/authors.json` ispravan JSON.
+
+Primer:
+
+```json
+"Ksenofan": {
+  "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenophanes%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=160"
+}
+```
+
+---
+
 # Pravila prevođenja na staroslovenski
 
 Polje `sl` predstavlja staroslovenski filozofski prevod.

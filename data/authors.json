@@ -10,18 +10,24 @@
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plotinos.jpg?width=160"
   },
   "Gautama Buddha": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SeatedBuddha.jpg/40px-SeatedBuddha.jpg",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SeatedBuddha.jpg?width=160",
     "common": "Buda",
     "ocs": "Бꙋда"
   },
   "Pitagora": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kapitolinischer_Pythagoras_adjusted.jpg/40px-Kapitolinischer_Pythagoras_adjusted.jpg"
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer_Pythagoras_adjusted.jpg?width=160"
   },
-  "Ksenofan": {},
-  "Parmenid": {},
-  "Zenon iz Eleje": {},
+  "Ksenofan": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenophanes%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=160"
+  },
+  "Parmenid": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Busto%20di%20Parmenide%20(cropped).jpg?width=160"
+  },
+  "Zenon iz Eleje": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Zeno%20van%20Elea%2C%20RP-P-OB-17.264.jpg?width=160"
+  },
   "Heraklit": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heraclitus_of_Ephesius._Wellcome_M0000762.jpg/60px-Heraclitus_of_Ephesius._Wellcome_M0000762.jpg"
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Heraclitus_of_Ephesius._Wellcome_M0000762.jpg?width=160"
   },
   "Tales": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thales_of_Miletus.jpg?width=160"
