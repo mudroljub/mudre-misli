@@ -31,6 +31,21 @@ Koristiti sledeće javno dostupne izvore:
 - Engleski prevod (Robert Drew Hicks, 1925):
   [https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers)
 
+## Lokalna kopija izvora (obavezno)
+
+U ovom repozitorijumu postoji lokalna kopija izvora i ona ima prioritet pri radu.
+
+- Engleski izvor: `data/sources/en/`
+- Grčki izvor: `data/sources/el/`
+- Manifest svih originalno preuzetih stranica: `data/sources/manifest.json`
+- Manifest deduplikovanih grčkih stranica: `data/sources/manifest.el.json`
+
+Pravila upotrebe:
+
+1. Prvo koristiti lokalne fajlove iz `data/sources/`.
+2. Veb izvore koristiti samo za proveru ili osvežavanje kada lokalni fajl nedostaje ili je neispravan.
+3. Kod citiranja izvora u polju `source` i dalje navoditi Diogena po knjizi i odeljku (npr. `I.35`), a ne putanju fajla.
+
 Grčki tekst koristiti za proveru izvornog značenja.
 
 Engleski prevod koristiti kao pomoć pri razumevanju, ali ne kao zamenu za original.

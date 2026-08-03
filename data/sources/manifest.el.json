@@ -1,0 +1,63 @@
+﻿{
+    "downloadedAt":  "2026-08-03T13:45:33",
+    "source":  "greek-deduplicated",
+    "pageCount":  11,
+    "pages":  [
+                  {
+                      "key":  "page_1",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD",
+                      "file":  "data/sources/el/01.html"
+                  },
+                  {
+                      "key":  "page_2",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91",
+                      "file":  "data/sources/el/02.html"
+                  },
+                  {
+                      "key":  "page_3",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92",
+                      "file":  "data/sources/el/03.html"
+                  },
+                  {
+                      "key":  "page_4",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%93",
+                      "file":  "data/sources/el/04.html"
+                  },
+                  {
+                      "key":  "page_5",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94",
+                      "file":  "data/sources/el/05.html"
+                  },
+                  {
+                      "key":  "page_6",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%95",
+                      "file":  "data/sources/el/06.html"
+                  },
+                  {
+                      "key":  "page_7",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4",
+                      "file":  "data/sources/el/07.html"
+                  },
+                  {
+                      "key":  "page_8",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96",
+                      "file":  "data/sources/el/08.html"
+                  },
+                  {
+                      "key":  "page_9",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97",
+                      "file":  "data/sources/el/09.html"
+                  },
+                  {
+                      "key":  "page_10",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98",
+                      "file":  "data/sources/el/10.html"
+                  },
+                  {
+                      "key":  "page_11",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%99",
+                      "file":  "data/sources/el/11.html"
+                  }
+              ]
+}
+

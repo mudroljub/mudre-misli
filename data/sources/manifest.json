@@ -1,0 +1,532 @@
+﻿{
+    "downloadedAt":  "2026-08-03T13:44:44",
+    "english":  [
+                    {
+                        "key":  "index",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers",
+                        "file":  "data/sources/en/index.html"
+                    },
+                    {
+                        "key":  "book_1",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_I",
+                        "file":  "data/sources/en/book_1.html"
+                    },
+                    {
+                        "key":  "book_2",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_II",
+                        "file":  "data/sources/en/book_2.html"
+                    },
+                    {
+                        "key":  "book_3",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_III",
+                        "file":  "data/sources/en/book_3.html"
+                    },
+                    {
+                        "key":  "book_4",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IV",
+                        "file":  "data/sources/en/book_4.html"
+                    },
+                    {
+                        "key":  "book_5",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_V",
+                        "file":  "data/sources/en/book_5.html"
+                    },
+                    {
+                        "key":  "book_6",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI",
+                        "file":  "data/sources/en/book_6.html"
+                    },
+                    {
+                        "key":  "book_7",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII",
+                        "file":  "data/sources/en/book_7.html"
+                    },
+                    {
+                        "key":  "book_8",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VIII",
+                        "file":  "data/sources/en/book_8.html"
+                    },
+                    {
+                        "key":  "book_9",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX",
+                        "file":  "data/sources/en/book_9.html"
+                    },
+                    {
+                        "key":  "book_10",
+                        "url":  "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X",
+                        "file":  "data/sources/en/book_10.html"
+                    }
+                ],
+    "greek":  [
+                  {
+                      "key":  "index",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD",
+                      "file":  "data/sources/el/index.html"
+                  },
+                  {
+                      "key":  "page_1",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91",
+                      "file":  "data/sources/el/01_page_1.html"
+                  },
+                  {
+                      "key":  "page_2",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Προοίμιον",
+                      "file":  "data/sources/el/02_page_2.html"
+                  },
+                  {
+                      "key":  "page_3",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Θαλής",
+                      "file":  "data/sources/el/03_page_3.html"
+                  },
+                  {
+                      "key":  "page_4",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Σόλων",
+                      "file":  "data/sources/el/04_page_4.html"
+                  },
+                  {
+                      "key":  "page_5",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Χίλων",
+                      "file":  "data/sources/el/05_page_5.html"
+                  },
+                  {
+                      "key":  "page_6",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Πιττακός",
+                      "file":  "data/sources/el/06_page_6.html"
+                  },
+                  {
+                      "key":  "page_7",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Βίας",
+                      "file":  "data/sources/el/07_page_7.html"
+                  },
+                  {
+                      "key":  "page_8",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Κλεόβουλος",
+                      "file":  "data/sources/el/08_page_8.html"
+                  },
+                  {
+                      "key":  "page_9",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Περίανδρος",
+                      "file":  "data/sources/el/09_page_9.html"
+                  },
+                  {
+                      "key":  "page_10",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Ανάχαρσις",
+                      "file":  "data/sources/el/10_page_10.html"
+                  },
+                  {
+                      "key":  "page_11",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Μύσων",
+                      "file":  "data/sources/el/11_page_11.html"
+                  },
+                  {
+                      "key":  "page_12",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Επιμενίδης",
+                      "file":  "data/sources/el/12_page_12.html"
+                  },
+                  {
+                      "key":  "page_13",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%91#Φερεκύδης",
+                      "file":  "data/sources/el/13_page_13.html"
+                  },
+                  {
+                      "key":  "page_14",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92",
+                      "file":  "data/sources/el/14_page_14.html"
+                  },
+                  {
+                      "key":  "page_15",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Αναξίμανδρος",
+                      "file":  "data/sources/el/15_page_15.html"
+                  },
+                  {
+                      "key":  "page_16",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Αναξιμένης",
+                      "file":  "data/sources/el/16_page_16.html"
+                  },
+                  {
+                      "key":  "page_17",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Αναξαγόρας",
+                      "file":  "data/sources/el/17_page_17.html"
+                  },
+                  {
+                      "key":  "page_18",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Αρχέλαος",
+                      "file":  "data/sources/el/18_page_18.html"
+                  },
+                  {
+                      "key":  "page_19",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Σωκράτης",
+                      "file":  "data/sources/el/19_page_19.html"
+                  },
+                  {
+                      "key":  "page_20",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Ξενοφών",
+                      "file":  "data/sources/el/20_page_20.html"
+                  },
+                  {
+                      "key":  "page_21",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Αισχίνης",
+                      "file":  "data/sources/el/21_page_21.html"
+                  },
+                  {
+                      "key":  "page_22",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Αρίστιππος",
+                      "file":  "data/sources/el/22_page_22.html"
+                  },
+                  {
+                      "key":  "page_23",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Φαίδων",
+                      "file":  "data/sources/el/23_page_23.html"
+                  },
+                  {
+                      "key":  "page_24",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Ευκλείδης",
+                      "file":  "data/sources/el/24_page_24.html"
+                  },
+                  {
+                      "key":  "page_25",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Στίλπων",
+                      "file":  "data/sources/el/25_page_25.html"
+                  },
+                  {
+                      "key":  "page_26",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Κρίτων",
+                      "file":  "data/sources/el/26_page_26.html"
+                  },
+                  {
+                      "key":  "page_27",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Σίμων",
+                      "file":  "data/sources/el/27_page_27.html"
+                  },
+                  {
+                      "key":  "page_28",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Γλαύκων",
+                      "file":  "data/sources/el/28_page_28.html"
+                  },
+                  {
+                      "key":  "page_29",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Σιμμίας",
+                      "file":  "data/sources/el/29_page_29.html"
+                  },
+                  {
+                      "key":  "page_30",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Κέβης",
+                      "file":  "data/sources/el/30_page_30.html"
+                  },
+                  {
+                      "key":  "page_31",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%92#Μενέδημος",
+                      "file":  "data/sources/el/31_page_31.html"
+                  },
+                  {
+                      "key":  "page_32",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%93",
+                      "file":  "data/sources/el/32_page_32.html"
+                  },
+                  {
+                      "key":  "page_33",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%93#Πλάτων",
+                      "file":  "data/sources/el/33_page_33.html"
+                  },
+                  {
+                      "key":  "page_34",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94",
+                      "file":  "data/sources/el/34_page_34.html"
+                  },
+                  {
+                      "key":  "page_35",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Σπεύσιππος",
+                      "file":  "data/sources/el/35_page_35.html"
+                  },
+                  {
+                      "key":  "page_36",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Ξενοκράτης",
+                      "file":  "data/sources/el/36_page_36.html"
+                  },
+                  {
+                      "key":  "page_37",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Πολέμων",
+                      "file":  "data/sources/el/37_page_37.html"
+                  },
+                  {
+                      "key":  "page_38",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Κράτης",
+                      "file":  "data/sources/el/38_page_38.html"
+                  },
+                  {
+                      "key":  "page_39",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Κράντωρ",
+                      "file":  "data/sources/el/39_page_39.html"
+                  },
+                  {
+                      "key":  "page_40",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Αρκεσίλαος",
+                      "file":  "data/sources/el/40_page_40.html"
+                  },
+                  {
+                      "key":  "page_41",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Βίων",
+                      "file":  "data/sources/el/41_page_41.html"
+                  },
+                  {
+                      "key":  "page_42",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Λακύδης",
+                      "file":  "data/sources/el/42_page_42.html"
+                  },
+                  {
+                      "key":  "page_43",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Καρνεάδης",
+                      "file":  "data/sources/el/43_page_43.html"
+                  },
+                  {
+                      "key":  "page_44",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%94#Κλειτόμαχος",
+                      "file":  "data/sources/el/44_page_44.html"
+                  },
+                  {
+                      "key":  "page_45",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%95",
+                      "file":  "data/sources/el/45_page_45.html"
+                  },
+                  {
+                      "key":  "page_46",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%95#Αριστοτέλης",
+                      "file":  "data/sources/el/46_page_46.html"
+                  },
+                  {
+                      "key":  "page_47",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%95#Θεόφραστος",
+                      "file":  "data/sources/el/47_page_47.html"
+                  },
+                  {
+                      "key":  "page_48",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%95#Στράτων",
+                      "file":  "data/sources/el/48_page_48.html"
+                  },
+                  {
+                      "key":  "page_49",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%95#Λύκων",
+                      "file":  "data/sources/el/49_page_49.html"
+                  },
+                  {
+                      "key":  "page_50",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%95#Δημήτριος",
+                      "file":  "data/sources/el/50_page_50.html"
+                  },
+                  {
+                      "key":  "page_51",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%95#Ηρακλείδης",
+                      "file":  "data/sources/el/51_page_51.html"
+                  },
+                  {
+                      "key":  "page_52",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4",
+                      "file":  "data/sources/el/52_page_52.html"
+                  },
+                  {
+                      "key":  "page_53",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Αντισθένης",
+                      "file":  "data/sources/el/53_page_53.html"
+                  },
+                  {
+                      "key":  "page_54",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Διογένης",
+                      "file":  "data/sources/el/54_page_54.html"
+                  },
+                  {
+                      "key":  "page_55",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Μόνιμος",
+                      "file":  "data/sources/el/55_page_55.html"
+                  },
+                  {
+                      "key":  "page_56",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Ονησίκριτος",
+                      "file":  "data/sources/el/56_page_56.html"
+                  },
+                  {
+                      "key":  "page_57",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Κράτης",
+                      "file":  "data/sources/el/57_page_57.html"
+                  },
+                  {
+                      "key":  "page_58",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Μητροκλής",
+                      "file":  "data/sources/el/58_page_58.html"
+                  },
+                  {
+                      "key":  "page_59",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Ιππαρχία",
+                      "file":  "data/sources/el/59_page_59.html"
+                  },
+                  {
+                      "key":  "page_60",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Μένιππος",
+                      "file":  "data/sources/el/60_page_60.html"
+                  },
+                  {
+                      "key":  "page_61",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%A3%CE%A4#Μενέδημος",
+                      "file":  "data/sources/el/61_page_61.html"
+                  },
+                  {
+                      "key":  "page_62",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96",
+                      "file":  "data/sources/el/62_page_62.html"
+                  },
+                  {
+                      "key":  "page_63",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96#Ζήνων",
+                      "file":  "data/sources/el/63_page_63.html"
+                  },
+                  {
+                      "key":  "page_64",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96#Αρίστων",
+                      "file":  "data/sources/el/64_page_64.html"
+                  },
+                  {
+                      "key":  "page_65",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96#Ήριλλος",
+                      "file":  "data/sources/el/65_page_65.html"
+                  },
+                  {
+                      "key":  "page_66",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96#Διονύσιος",
+                      "file":  "data/sources/el/66_page_66.html"
+                  },
+                  {
+                      "key":  "page_67",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96#Κλεάνθης",
+                      "file":  "data/sources/el/67_page_67.html"
+                  },
+                  {
+                      "key":  "page_68",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96#Σφαίρος",
+                      "file":  "data/sources/el/68_page_68.html"
+                  },
+                  {
+                      "key":  "page_69",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%96#Χρύσιππος",
+                      "file":  "data/sources/el/69_page_69.html"
+                  },
+                  {
+                      "key":  "page_70",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97",
+                      "file":  "data/sources/el/70_page_70.html"
+                  },
+                  {
+                      "key":  "page_71",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97#Πυθαγόρας",
+                      "file":  "data/sources/el/71_page_71.html"
+                  },
+                  {
+                      "key":  "page_72",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97#Εμπεδοκλής",
+                      "file":  "data/sources/el/72_page_72.html"
+                  },
+                  {
+                      "key":  "page_73",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97#Επίχαρμος",
+                      "file":  "data/sources/el/73_page_73.html"
+                  },
+                  {
+                      "key":  "page_74",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97#Αρχύτας",
+                      "file":  "data/sources/el/74_page_74.html"
+                  },
+                  {
+                      "key":  "page_75",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97#Αλκμαίων",
+                      "file":  "data/sources/el/75_page_75.html"
+                  },
+                  {
+                      "key":  "page_76",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97#Ίππασος",
+                      "file":  "data/sources/el/76_page_76.html"
+                  },
+                  {
+                      "key":  "page_77",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97#Φιλόλαος",
+                      "file":  "data/sources/el/77_page_77.html"
+                  },
+                  {
+                      "key":  "page_78",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%97#Εύδοξος",
+                      "file":  "data/sources/el/78_page_78.html"
+                  },
+                  {
+                      "key":  "page_79",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98",
+                      "file":  "data/sources/el/79_page_79.html"
+                  },
+                  {
+                      "key":  "page_80",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Ἡράκλειτος",
+                      "file":  "data/sources/el/80_page_80.html"
+                  },
+                  {
+                      "key":  "page_81",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Ξενοφάνης",
+                      "file":  "data/sources/el/81_page_81.html"
+                  },
+                  {
+                      "key":  "page_82",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Παρμενίδης",
+                      "file":  "data/sources/el/82_page_82.html"
+                  },
+                  {
+                      "key":  "page_83",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Μέλισσος",
+                      "file":  "data/sources/el/83_page_83.html"
+                  },
+                  {
+                      "key":  "page_84",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Ζήνων_Ἐλεάτης",
+                      "file":  "data/sources/el/84_page_84.html"
+                  },
+                  {
+                      "key":  "page_85",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Λεύκιππος",
+                      "file":  "data/sources/el/85_page_85.html"
+                  },
+                  {
+                      "key":  "page_86",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Δημόκριτος",
+                      "file":  "data/sources/el/86_page_86.html"
+                  },
+                  {
+                      "key":  "page_87",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Πρωταγόρας",
+                      "file":  "data/sources/el/87_page_87.html"
+                  },
+                  {
+                      "key":  "page_88",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Διογένης_Ἀπολλωνιάτης",
+                      "file":  "data/sources/el/88_page_88.html"
+                  },
+                  {
+                      "key":  "page_89",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Ἀνάξαρχος",
+                      "file":  "data/sources/el/89_page_89.html"
+                  },
+                  {
+                      "key":  "page_90",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Πύρρων",
+                      "file":  "data/sources/el/90_page_90.html"
+                  },
+                  {
+                      "key":  "page_91",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%98#Τίμων",
+                      "file":  "data/sources/el/91_page_91.html"
+                  },
+                  {
+                      "key":  "page_92",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%99",
+                      "file":  "data/sources/el/92_page_92.html"
+                  },
+                  {
+                      "key":  "page_93",
+                      "url":  "https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD/%CE%99#Ἐπίκουρος",
+                      "file":  "data/sources/el/93_page_93.html"
+                  }
+              ]
+}
