@@ -26,7 +26,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 15. Ksenofan (oko 570–475. p.n.e.) ✔
 16. Heraklit (oko 535–475. p.n.e.) ✔
 17. Parmenid (oko 515–450. p.n.e.) ✔
-18. Zenon iz Eleje (oko 490–430. p.n.e.)
+18. Zenon iz Eleje (oko 490–430. p.n.e.) ✔
 19. Meliso (5. vek p.n.e.)
 20. Empedoklo (oko 494–434. p.n.e.)
 21. Epiharm (oko 540–443. p.n.e.)
