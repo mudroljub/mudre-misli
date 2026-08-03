@@ -1,4 +1,4 @@
-# mudre-misli
+# Mudre misli (мѫдрыѩ мысли)
 
 ## Spisak filozofa
 
