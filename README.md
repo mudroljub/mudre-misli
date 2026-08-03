@@ -44,7 +44,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 ### Sokrat i sokratovci (5.–4. vek p.n.e.) — Knjige II, VI
 
 32. Sokrat (oko 470–399. p.n.e.) ✔
-33. Ksenofont (oko 430–354. p.n.e.)
+33. Ksenofont (oko 430–354. p.n.e.) ✔
 34. Eshine (oko 425–350. p.n.e.)
 35. Aristip (oko 435–356. p.n.e.)
 36. Euklit Megaranin (oko 435–365. p.n.e.)

@@ -23,6 +23,10 @@
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Socrates%20Louvre.jpg?width=320",
     "born": { "year": -470, "approximate": true }
   },
+  "Ksenofont": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Xenophon.jpg?width=320",
+    "born": { "year": -430, "approximate": true }
+  },
   "Bijant iz Prijene": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bias_Pio-Clementino_Inv279.jpg?width=160",
     "born": { "year": -625, "approximate": true }
@@ -30,10 +34,6 @@
   "Plotin": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plotinos.jpg?width=160",
     "born": { "year": 204, "approximate": true }
-  },
-  "Gautama Buddha": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SeatedBuddha.jpg?width=160",
-    "born": { "year": -563, "approximate": true }
   },
   "Pitagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer_Pythagoras_adjusted.jpg?width=160",
