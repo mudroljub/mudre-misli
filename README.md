@@ -62,9 +62,9 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 
 46. Platon (oko 428–348. p.n.e.) ✔
 47. Speusip (oko 408–338. p.n.e.)
-48. Ksenokrat (oko 396–314. p.n.e.)
+48. Ksenokrat (oko 396–314. p.n.e.) ✔
 49. Poleman (oko 350–267. p.n.e.)
-50. Kratéz Atenjanin (4. vek p.n.e.)
+50. Krates Atenjanin (4. vek p.n.e.)
 51. Krantor (oko 335–275. p.n.e.)
 52. Arkesilaos (oko 316–241. p.n.e.)
 53. Bion iz Boristenida (oko 335–245. p.n.e.)
@@ -74,7 +74,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 
 ### Peripatos — Aristotelova škola (4.–3. vek p.n.e.) — Knjiga V
 
-57. Aristotel (384–322. p.n.e.)
+57. Aristotel (384–322. p.n.e.) ✔
 58. Teofrastos (oko 371–287. p.n.e.)
 59. Stratonom iz Lampsaka (oko 335–269. p.n.e.)
 60. Likon (oko 299–225. p.n.e.)
@@ -133,3 +133,9 @@ Production build:
 npm run build
 npm start
 ```
+
+## TODO
+
+- dodati zaseban odeljak za anegdote
+- dodati na naslovnu stranicu random citat
+- dodati home link
