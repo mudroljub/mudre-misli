@@ -1,7 +1,7 @@
 export const entryTypes = ['quote', 'anecdote'] as const;
 export type EntryType = (typeof entryTypes)[number];
 
-export const supportedLanguages = ['sr', 'sl', 'en'] as const;
+export const supportedLanguages = ['sl', 'sr', 'en'] as const;
 export type Language = (typeof supportedLanguages)[number];
 
 export interface WisdomEntryInput {
