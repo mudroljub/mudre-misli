@@ -207,6 +207,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 - τύχη → случаи (alt: сѫдьба — u fatalističkom kontekstu)
 - φθορά → тлѣние
 - φιλία → дружьба
+- φιλόσοφος → любомѫдрьць
 - φόβος → страхъ
 - φρόνησις → благоразумие
 - φύσις → естество
