@@ -7,7 +7,7 @@ import LanguageSwitcher from '@/components/LanguageSwitcher';
 import { getTextForLanguage } from '@/lib/data';
 
 export default function HomeContent({ featured }) {
-  const [lang, setLang] = useState('sr');
+  const [lang, setLang] = useState('sl');
 
   return (
     <main className="page-shell">

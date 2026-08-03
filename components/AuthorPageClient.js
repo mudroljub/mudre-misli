@@ -7,7 +7,7 @@ import LanguageSwitcher from '@/components/LanguageSwitcher';
 import { getTextForLanguage } from '@/lib/data';
 
 export default function AuthorPageClient({ author, authorMeta, authorQuotes }) {
-  const [lang, setLang] = useState('sr');
+  const [lang, setLang] = useState('sl');
 
   return (
     <main className="page-shell">

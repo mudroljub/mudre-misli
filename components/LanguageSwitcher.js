@@ -2,9 +2,9 @@
 
 import { useState } from 'react';
 
-const languages = ['sr', 'ms', 'en'];
+const languages = ['sl', 'sr', 'en'];
 
-export default function LanguageSwitcher({ currentLang = 'sr', onChange }) {
+export default function LanguageSwitcher({ currentLang = 'sl', onChange }) {
   const [selected, setSelected] = useState(currentLang);
 
   const changeLanguage = (lang) => {
