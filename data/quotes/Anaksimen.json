@@ -2,65 +2,30 @@
     {
         "type": "quote",
         "sr": "Kao prvo načelo uzeo je vazduh, odnosno neograničeno.",
-        "sl": "За пьрвоє начѧло положи въздѫхъ, сирѣчь безконьчноѥ.",
+        "sl": "За пьрвоє начѧло положи въздѫхъ, сирѣчь безмѣрьнъ.",
         "author": "Anaksimen",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.3"
     },
     {
         "type": "quote",
         "sr": "Zvezde se okreću oko zemlje, ali ne zalaze ispod nje.",
-        "sl": "Звѣзды крѫжѧть окрьсть землѧ, нъ не исходѧть подъ нею.",
+        "sl": "Звѣзды крѫжѧть окрьсть землѧ, нъ не заходѧть подъ неѭ.",
         "author": "Anaksimen",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.3"
     },
     {
         "type": "anecdote",
         "sr": "Pisao je prostim i nenametljivim jonskim stilom.",
-        "sl": "Писааше простымь и непрѣтворьнымь іоньскымь словомь.",
+        "sl": "Писааше простымь и непрѣтворьнымь іоньскымъ словомь.",
         "author": "Anaksimen",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.3"
     },
     {
-        "type": "quote",
-        "sr": "Tales, sin Examijin, postradao je u dubokoj starosti: izišao je noću sa služavkom da gleda zvezde, pa je, gledajući uvis i zaboravivši gde je, pao niz strminu. Tako su Milećani izgubili svog astronoma. Mi, njegovi učenici, čuvajmo mu uspomenu i neka je čuvaju i naša deca i učenici; neka svaki naš razgovor počinje sećanjem na Talesa.",
-        "sl": "Фалесъ, сынъ Єкзамии, пострада въ глѹбоцѣ старости: изиде нощию съ рабынею зрѣти звѣзды, и, въвысь зрѧ и забꙑвъ кѫдѣ бѣ, паде съ стрьмины. Тако Мілєтѧне лишишасѧ свѡєго звездословьца. Мы же, ѹченици єго, да хранимъ памѧть єго, и да хранять ю чѧда наша и ѹченици; и вьсѧко наше бесѣдованиє да начнетьсѧ помѧнованиємь Фалеса.",
+        "type": "reported",
+        "sr": "Anaksimen je u pismu Talesu napisao da su Milećani izgubili svog zvezdoznanca.",
+        "sl": "Анаксименъ въ послании къ Фалесѹ написа, ꙗко Мілєтѧне лишишасѧ своєго звѣздочѧтца.",
         "author": "Anaksimen",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.4"
-    },
-    {
-        "type": "quote",
-        "sr": "Bio si razboritiji od nas što si otišao sa Sama u Kroton, gde živiš u miru. Sinovi Eakovi neprestano čine zlo, a Milet nikad nije bez tirana. I medijski kralj nam je strahota: dok dajemo danak, još nekako; ali Jonjani su na ivici rata s Medima za zajedničku slobodu, i kad rat izbije, nema nam bezbednosti. Kako onda Anaksimen da proučava nebo pod pretnjom propasti ili ropstva? Ti pak uživaš naklonost Krotonjana i ostalih Helena u Italiji, i učenici ti dolaze čak i sa Sicilije.",
-        "sl": "Разѹмнѣишии бѣ отъ насъ, ꙗко отъ Самоса отиде въ Кротонъ, идеже въ мирѣ живеши. Сынове Єакови непрѣстанно творѧть зло, а Мілєтъ николиже безъ тиранъ єсть. И царь Мидьскыи страхь намъ єсть: дондеже дань даємъ, єще тьрпимо; нъ Іонѧне на краи сѫ брани съ Миды ради общѧ свободы, и єгда брань въстанеть, нѣсть намъ спасєниꙗ. Како же Анѧксименъ да испытаєть небеса, егда погибель или рабьство грозитъ? Ты же благоволениє имаши у Кротонѧнъ и иныхъ Єллиновъ въ Италии, и ѹченици къ тебѣ приходѧть даже отъ Сикелии.",
-        "author": "Anaksimen",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.5"
-    },
-    {
-        "type": "quote",
-        "sr": "Milećani su izgubili svog astronoma.",
-        "sl": "Мілєтѧне лишишасѧ свѡєго звездословьца.",
-        "author": "Anaksimen",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.4"
-    },
-    {
-        "type": "quote",
-        "sr": "Mi, njegovi učenici, čuvajmo uspomenu na Talesa.",
-        "sl": "Мы, ѹченици єго, да хранимъ памѧть о Фалесѣ.",
-        "author": "Anaksimen",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.4"
-    },
-    {
-        "type": "quote",
-        "sr": "Neka svaki naš razgovor počne sećanjem na Talesa.",
-        "sl": "Да вьсѧко наше бесѣдованиє начнетьсѧ помѧнованиємь Фалеса.",
-        "author": "Anaksimen",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.4"
-    },
-    {
-        "type": "quote",
-        "sr": "Bolje si učinio od nas što si otišao sa Sama u Kroton i živiš u miru.",
-        "sl": "Лѹчьше єси сътворилъ паче насъ, ꙗко отъ Самоса отиде въ Кротонъ и въ мирѣ живеши.",
-        "author": "Anaksimen",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.5"
     },
     {
         "type": "quote",
@@ -80,13 +45,6 @@
         "type": "quote",
         "sr": "Kako da proučavam nebesa dok mi prete propast ili ropstvo?",
         "sl": "Како да испытаю небеса, дондеже погибель или рабьство ми грозитъ?",
-        "author": "Anaksimen",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.5"
-    },
-    {
-        "type": "quote",
-        "sr": "Učenici ti dolaze čak i sa Sicilije.",
-        "sl": "Ѹченици къ тебѣ приходѧть даже отъ Сикелии.",
         "author": "Anaksimen",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.5"
     }
