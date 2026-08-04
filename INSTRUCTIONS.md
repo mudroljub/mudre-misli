@@ -227,6 +227,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 * ἀγαθόν - благо
 * ἄγνοια - невѣдѣніє
 * ἀέρας - вѫздѹхъ
+* αἰθήρ - небєсьє
 * αἴσθησις - чѹвьство
 * αἰτία - вина (alt: причина, начѧло)
 * αἰών - вѣкъ
