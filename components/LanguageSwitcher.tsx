@@ -10,7 +10,7 @@ interface LanguageSwitcherProps {
 }
 
 export default function LanguageSwitcher({
-  currentLang = 'sl',
+  currentLang = 'stsl',
   onChange,
 }: LanguageSwitcherProps) {
   const [selected, setSelected] = useState<Language>(currentLang);

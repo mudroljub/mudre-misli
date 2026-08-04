@@ -1,13 +1,13 @@
 export const entryTypes = ['quote', 'reported', 'anecdote', 'bio'] as const;
 export type EntryType = (typeof entryTypes)[number];
 
-export const supportedLanguages = ['sl', 'sr', 'en'] as const;
+export const supportedLanguages = ['stsl', 'sr', 'en'] as const;
 export type Language = (typeof supportedLanguages)[number];
 
 export interface Quote {
   type: EntryType;
   sr: string;
-  sl: string;
+  stsl: string;
   en?: string;
   author: string;
   source: string;

@@ -18,7 +18,7 @@ export default function AuthorPageClient({
   authorMeta,
   authorQuotes,
 }: AuthorPageClientProps) {
-  const [language, setLanguage] = useState<Language>('sl');
+  const [language, setLanguage] = useState<Language>('stsl');
 
   return (
     <main className="page-shell">

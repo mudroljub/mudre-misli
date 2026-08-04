@@ -102,7 +102,7 @@ Svaki zapis mora imati sledeći format:
 {
   "type": "quote",
   "sr": "",
-  "sl": "",
+  "stsl": "",
   "author": "",
   "source": ""
 }
@@ -114,7 +114,7 @@ Za anegdote:
 {
   "type": "anecdote",
   "sr": "",
-  "sl": "",
+  "stsl": "",
   "author": "",
   "source": ""
 }
@@ -128,7 +128,7 @@ Polja:
   - `anecdote` — kratka zgoda sa poentom, često duhovita ili karakteristična
   - `bio` — običan biografski podatak
 * `sr` — savremeni srpski prevod;
-* `sl` — staroslovenski prevod;
+* `stsl` — staroslovenski prevod;
 * `author` — filozof kome pripada citat ili koga opisuje anegdota;
 * `source` — precizan izvor iz Diogena Laertija (knjiga i odeljak).
 
@@ -163,7 +163,7 @@ Vrednost polja `author` mora koristiti standardno srpsko ime filozofa koje se ko
 
 # Pravila prevođenja na staroslovenski
 
-Polje `sl` predstavlja staroslovenski filozofski prevod.
+Polje `stsl` predstavlja staroslovenski filozofski prevod.
 
 Cilj nije doslovna istorijska rekonstrukcija svakodnevnog praslovenskog jezika, već stvaranje mogućeg staroslovenskog filozofskog izraza.
 

@@ -39,23 +39,23 @@ const authorFromSlug: Record<string, string> = Object.fromEntries(
 );
 
 const getLanguagePreference = (preferred: string): Language =>
-  languages.includes(preferred as Language) ? (preferred as Language) : 'sl';
+  languages.includes(preferred as Language) ? (preferred as Language) : 'stsl';
 
-const getTextForLanguage = (entry: QuoteWithId, language: Language = 'sl'): string => {
-  if (language === 'sl' && entry.sl) {
-    return entry.sl;
+const getTextForLanguage = (entry: QuoteWithId, language: Language = 'stsl'): string => {
+  if (language === 'stsl' && entry.stsl) {
+    return entry.stsl;
   }
 
   if (language === 'en' && entry.en) {
     return entry.en;
   }
 
-  return entry.sr || entry.sl || entry.en || '';
+  return entry.sr || entry.stsl || entry.en || '';
 };
 
 const quotesByLanguage: QuotesByLanguage = {
   sr: quotesData.filter((entry) => entry.sr),
-  sl: quotesData.filter((entry) => entry.sl),
+  stsl: quotesData.filter((entry) => entry.stsl),
   en: quotesData.filter((entry) => entry.en || entry.sr),
 };
 

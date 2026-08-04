@@ -12,7 +12,7 @@ interface HomeContentProps {
 }
 
 export default function HomeContent({ featured }: HomeContentProps) {
-  const [language, setLanguage] = useState<Language>('sl');
+  const [language, setLanguage] = useState<Language>('stsl');
 
   return (
     <main className="page-shell">

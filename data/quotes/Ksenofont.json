@@ -2,7 +2,7 @@
     {
         "type": "reported",
         "sr": "Ksenofont je govorio da je priroda odavno osudila na smrt i njegove sudije i njega.",
-        "sl": "Ксенофонтъ глаголаше ꙗко єстество издавьна и сѫдиѩ єго и самого єго на смрьть осѫди.",
+        "stsl": "Ксенофонтъ глаголаше ꙗко єстество издавьна и сѫдиѩ єго и самого єго на смрьть осѫди.",
         "el": "Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.13"
@@ -10,14 +10,14 @@
     {
         "type": "reported",
         "sr": "Ksenofont je govorio da je Sokrat raspravljao samo o etičkim pitanjima.",
-        "sl": "Ксенофонтъ глаголаше, ꙗко Сократъ тъкмо о нравьныхъ вещехъ бесѣдоваше.",
+        "stsl": "Ксенофонтъ глаголаше, ꙗко Сократъ тъкмо о нравьныхъ вещехъ бесѣдоваше.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.45"
     },
     {
         "type": "quote",
         "sr": "Draže mi je da gledam Kliniju nego sve lepe prizore na svetu. Pristao bih da budem slep za sve drugo kada bih samo njega mogao gledati. Mrzim noć i san jer tada ne vidim Kliniju, a danu i suncu sam veoma zahvalan što mi ga pokazuju.",
-        "sl": "Слажде ми єсть на Клиниꙫ зрѣти, нежели на вьсѧ красна видѣниꙗ мира. Слѣпъ быти ко вьсемѹ прочемѹ изволилъ быхъ, аште бы тъкмо єго зрѣти моглъ. Ношти и сна ненавиждꙫ, зане тогда Клиниѩ не виждꙫ, дьни же и слъньцѹ велми благодаренъ єсмь, ꙗко ми єго показѹѥта.",
+        "stsl": "Слажде ми єсть на Клиниꙫ зрѣти, нежели на вьсѧ красна видѣниꙗ мира. Слѣпъ быти ко вьсемѹ прочемѹ изволилъ быхъ, аште бы тъкмо єго зрѣти моглъ. Ношти и сна ненавиждꙫ, зане тогда Клиниѩ не виждꙫ, дьни же и слъньцѹ велми благодаренъ єсмь, ꙗко ми єго показѹѥта.",
         "el": "Νῦν γὰρ ἐγὼ Κλεινίαν ἥδιον μὲν θεῶμαι ἢ τἄλλα πάντα ἐν ἀνθρώποις καλά· τυφλὸς δὲ τῶν ἄλλων πάντων δεξαίμην ἂν ἢ Κλεινίου ἑνὸς ὄντος γενέσθαι· ἄχθομαι δὲ καὶ νυκτὶ καὶ ὕπνῳ, ὅτι ἐκεῖνον οὐχ ὁρῶ· ἡμέρᾳ δὲ καὶ ἡλίῳ τὴν μεγίστην χάριν οἶδα, ὅτι μοι Κλεινίαν ἀναφαίνουσιν.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.49"
@@ -25,7 +25,7 @@
     {
         "type": "quote",
         "sr": "Znao sam da je moj sin smrtan.",
-        "sl": "Вѣдѣхъ, ꙗко сынъ мои смрьтьнъ єсть.",
+        "stsl": "Вѣдѣхъ, ꙗко сынъ мои смрьтьнъ єсть.",
         "el": "Ἤδειν αὐτοὺς θνητοὺς γεννήσας.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.55"
@@ -33,7 +33,7 @@
     {
         "type": "reported",
         "sr": "Ksenofont je govorio da je Antisten najprijatniji među ljudima u razgovoru, a najuzdržaniji u svemu ostalom.",
-        "sl": "Ксенофонтъ глаголаше, ꙗко Антисѳенъ въ бесѣдѣ отъ вьсѣхъ чловѣкъ наиприѧтьнѣишии єсть, въ вьсемь же прочемь наивъздръжьнѣишии.",
+        "stsl": "Ксенофонтъ глаголаше, ꙗко Антисѳенъ въ бесѣдѣ отъ вьсѣхъ чловѣкъ наиприѧтьнѣишии єсть, въ вьсемь же прочемь наивъздръжьнѣишии.",
         "el": "Ὁ δὲ Ξενοφῶν ἥδιστον μὲν εἶναι περὶ τὰς ὁμιλίας φησὶν αὐτόν, ἐγκρατέστατον δὲ περὶ τἄλλα.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.15"
@@ -41,63 +41,63 @@
     {
         "type": "anecdote",
         "sr": "Sokrat je sreo mladog Ksenofonta u uskom prolazu, pregradio mu put štapom i pitao gde se prodaju različite namirnice. Kada je dobio odgovore, pitao je gde ljudi postaju dobri i časni. Zbunjenom Ksenofontu rekao je da pođe za njim i nauči. Ksenofont je tako postao njegov učenik, prvi zabeležio i objavio Sokratove razgovore kao Uspomene i prvi napisao istoriju filozofa.",
-        "sl": "Сократъ младаго Ксенофонта въ тѣсьномь проходѣ срѣте, жезломъ ємѹ пѫть загради и вопрошаше, къдѣ различнаꙗ брашна продаѭть сѧ. Отъвѣты приємъ, вопроси, къдѣ чловѣци добри и чьстьни бываѭть. Съмѫштеномѹ Ксенофонтѹ рече, да по немь идеть и наѹчить сѧ. Тако Ксенофонтъ ѹченикъ єго бысть, пьрвыи Сократовы бесѣды записа и ꙗко Памѧти издаде, и пьрвыи повѣсть о любомѫдрьцихъ написа.",
+        "stsl": "Сократъ младаго Ксенофонта въ тѣсьномь проходѣ срѣте, жезломъ ємѹ пѫть загради и вопрошаше, къдѣ различнаꙗ брашна продаѭть сѧ. Отъвѣты приємъ, вопроси, къдѣ чловѣци добри и чьстьни бываѭть. Съмѫштеномѹ Ксенофонтѹ рече, да по немь идеть и наѹчить сѧ. Тако Ксенофонтъ ѹченикъ єго бысть, пьрвыи Сократовы бесѣды записа и ꙗко Памѧти издаде, и пьрвыи повѣсть о любомѫдрьцихъ написа.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.48"
     },
     {
         "type": "anecdote",
         "sr": "Proksen je iz Sarda pozvao Ksenofonta da stupi u službu Kira. Ksenofont je zatražio Sokratov savet, pa otišao u Delfe; proročište nije pitao treba li da ide, nego kako da ostvari put. Sokrat ga je zbog toga prekorio, ali mu je ipak savetovao da pođe. Ksenofont se pridružio Kirovom pohodu i opisao njegov tok i povratak.",
-        "sl": "Проксенъ отъ Сардъ Ксенофонта призва, да Кѵрѹ послѹжить. Ксенофонтъ Сократова съвѣта възиска и въ Делфы отиде; пророчишта не вопроси, подобаєть ли ємѹ ити, нъ како пѫть съврьшити. Сократъ сего ради єго обличи, нъ пакы съвѣтова ємѹ ити. Ксенофонтъ Кѵровѹ походѹ присовокѹпи сѧ и течение єго и възвраштеніе написа.",
+        "stsl": "Проксенъ отъ Сардъ Ксенофонта призва, да Кѵрѹ послѹжить. Ксенофонтъ Сократова съвѣта възиска и въ Делфы отиде; пророчишта не вопроси, подобаєть ли ємѹ ити, нъ како пѫть съврьшити. Сократъ сего ради єго обличи, нъ пакы съвѣтова ємѹ ити. Ксенофонтъ Кѵровѹ походѹ присовокѹпи сѧ и течение єго и възвраштеніе написа.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.49–50"
     },
     {
         "type": "anecdote",
         "sr": "Tokom Kirovog pohoda Ksenofont je bio u zavadi sa vojskovođom Menonom. Ružio ga je tvrdeći da ima ljubavnika starijeg od sebe, a Apolonida je prekorevao zbog probušenih ušiju.",
-        "sl": "Въ Кѵровѣ походѣ Ксенофонтъ съ воєводою Менономъ въ враждѣ бѣ. Єго рѹгаше, глаголѧ, ꙗко любима имать старѣиша себе, Аполонида же прободеныихъ ѹшии ради ѹкарѧаше.",
+        "stsl": "Въ Кѵровѣ походѣ Ксенофонтъ съ воєводою Менономъ въ враждѣ бѣ. Єго рѹгаше, глаголѧ, ꙗко любима имать старѣиша себе, Аполонида же прободеныихъ ѹшии ради ѹкарѧаше.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.50"
     },
     {
         "type": "anecdote",
         "sr": "Posle pohoda Ksenofont je Kirove vojnike stavio u službu spartanskog kralja Agesilaja, kome je bio veoma odan. Atinjani su ga zbog pristajanja uz Spartu prognali. U Efesu je polovinu svoga novca poverio Artemidinom svešteniku da njime, ako se ne vrati, podigne kip boginji, a drugu polovinu poslao u Delfe kao zavetne darove.",
-        "sl": "По походѣ Ксенофонтъ Кѵровы воѧ въ слѹжбѹ Спартаньскаго царѣ Агесилаꙗ предаде, ємѹже велми прѣданъ бѣ. Атинѧне єго за пристаніє къ Спартѣ изгнаша. Въ Ефесѣ половинꙫ сребра своєго Артемидинѹ жрьцѹ повѣри, да, аште сѧ не възвратить, образъ богыни въздвигнеть, дрѹгѹю же половинꙫ въ Делфы ꙗко обѣтьны дары посла.",
+        "stsl": "По походѣ Ксенофонтъ Кѵровы воѧ въ слѹжбѹ Спартаньскаго царѣ Агесилаꙗ предаде, ємѹже велми прѣданъ бѣ. Атинѧне єго за пристаніє къ Спартѣ изгнаша. Въ Ефесѣ половинꙫ сребра своєго Артемидинѹ жрьцѹ повѣри, да, аште сѧ не възвратить, образъ богыни въздвигнеть, дрѹгѹю же половинꙫ въ Делфы ꙗко обѣтьны дары посла.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.51"
     },
     {
         "type": "anecdote",
         "sr": "Ksenofont se nastanio u Skiluntu sa ženom Filesijom i sinovima. Novcem koji mu je vratio Artemidin sveštenik kupio je imanje uz reku Selinunt i posvetio ga boginji. Onde je lovio, primao prijatelje i bez prekida pisao svoja istorijska dela.",
-        "sl": "Ксенофонтъ въ Скилѹнтѣ съ женою Филесиею и сынми всели сѧ. Сребромъ, єже ємѹ Артемидинъ жрьць възврати, имѣніє при рѣцѣ Селинѹнтѣ кѹпи и богыни посвѧти. Тамо ловлѧаше, дрѹгы приємлѧаше и непрѣстаньно историѩ своѩ писаше.",
+        "stsl": "Ксенофонтъ въ Скилѹнтѣ съ женою Филесиею и сынми всели сѧ. Сребромъ, єже ємѹ Артемидинъ жрьць възврати, имѣніє при рѣцѣ Селинѹнтѣ кѹпи и богыни посвѧти. Тамо ловлѧаше, дрѹгы приємлѧаше и непрѣстаньно историѩ своѩ писаше.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.52"
     },
     {
         "type": "anecdote",
         "sr": "Kada su Eliđani zauzeli Skilunt, Ksenofont je sa sinovima izbegao preko Lepreja u Korint. Pošto je Atina odlučila da pomogne Sparti, poslao je sinove da se bore u njenoj odbrani; oni su prethodno bili obučavani u Sparti.",
-        "sl": "Єгда Елиѧне Скилѹнтъ заѩша, Ксенофонтъ съ сынми чрѣзъ Лепреи въ Коринѳъ избѣже. Понеже Атины Спартѣ помогати рѣшиша, сыны своѩ въ брань за нѭ посла; они же прѣжде въ Спартѣ обѹчени бѣхѫ.",
+        "stsl": "Єгда Елиѧне Скилѹнтъ заѩша, Ксенофонтъ съ сынми чрѣзъ Лепреи въ Коринѳъ избѣже. Понеже Атины Спартѣ помогати рѣшиша, сыны своѩ въ брань за нѭ посла; они же прѣжде въ Спартѣ обѹчени бѣхѫ.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.53–54"
     },
     {
         "type": "anecdote",
         "sr": "Kada su Ksenofontu tokom prinošenja žrtve javili da mu je sin Gril poginuo kod Mantineje, skinuo je venac sa glave. Saznavši zatim da je Gril hrabro poginuo, ponovo ga je stavio. Neki kažu da nije ni zaplakao, nego je rekao da je znao da mu je sin smrtan.",
-        "sl": "Єгда Ксенофонтѹ при жрьтвоприношении възвѣстиша, ꙗко сынъ єго Грилъ при Мантинеи погибе, вѣньць съ главы снѧ. Потомь же, ꙗко Грилъ храбро погибе, ѹвѣдѣвъ, пакы и възложи. Нѣции глаголѭть, ꙗко ни плака, нъ рече, ꙗко вѣдѣаше сына своєго смрьтьна быти.",
+        "stsl": "Єгда Ксенофонтѹ при жрьтвоприношении възвѣстиша, ꙗко сынъ єго Грилъ при Мантинеи погибе, вѣньць съ главы снѧ. Потомь же, ꙗко Грилъ храбро погибе, ѹвѣдѣвъ, пакы и възложи. Нѣции глаголѭть, ꙗко ни плака, нъ рече, ꙗко вѣдѣаше сына своєго смрьтьна быти.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.54–55"
     },
     {
         "type": "anecdote",
         "sr": "Po jednom predanju Ksenofont je proslavio Tukidida objavivši njegovu dotad nepoznatu istoriju, iako ju je mogao prisvojiti. Zbog slasti pripovedanja nazvan je Atičkom muzom. Diogen prenosi i da su Ksenofont i Platon bili ljubomorni jedan na drugoga.",
-        "sl": "По єдиномѹ прѣданию Ксенофонтъ Фѹкидидѹ славꙫ принесе, неизвѣстнѹю дотолѣ историꙫ єго издавъ, аште и могаше ѭ себѣ присвоити. Сладости ради повѣданиꙗ Атиньска Мѹза нареченъ бысть. Диогенъ прѣдаєть и ꙗко Ксенофонтъ и Платонъ дрѹгъ дрѹгѹ завидоваста.",
+        "stsl": "По єдиномѹ прѣданию Ксенофонтъ Фѹкидидѹ славꙫ принесе, неизвѣстнѹю дотолѣ историꙫ єго издавъ, аште и могаше ѭ себѣ присвоити. Сладости ради повѣданиꙗ Атиньска Мѹза нареченъ бысть. Диогенъ прѣдаєть и ꙗко Ксенофонтъ и Платонъ дрѹгъ дрѹгѹ завидоваста.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.57"
     },
     {
         "type": "anecdote",
         "sr": "Ksenofont nije bio prijatelj Aristipu. Zato je u svojim spisima Sokratu pripisao besedu protiv Aristipa u kojoj osuđuje uživanje.",
-        "sl": "Ксенофонтъ Аристипѹ дрѹгъ не бѣ. Сего ради въ своихъ писаниихъ Сократѹ бесѣдꙫ противѹ Аристипа приписа, въ неиже сласть осѹждаєть.",
+        "stsl": "Ксенофонтъ Аристипѹ дрѹгъ не бѣ. Сего ради въ своихъ писаниихъ Сократѹ бесѣдꙫ противѹ Аристипа приписа, въ неиже сласть осѹждаєть.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.65"
     }
