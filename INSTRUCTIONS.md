@@ -1,6 +1,6 @@
 # Uputstvo za AI agente
 
-Pravimo zbirku filozofskih citata i anegdota koje Diogen Laertije prenosi o poznatim filozofima, i prevodimo ih na staroslovenski filozofski jezik iz vremena pre Kirila i Metoda.
+Pravimo zbirku filozofskih citata i anegdota koje Diogen Laertije prenosi o poznatim filozofima, i prevodimo ih na staroslovenski filozofski jezik iz vremena pre Kirila i Metoda (ciljamo 8. vek).
 
 ## Procedura izvlačenja citata
 
@@ -16,8 +16,6 @@ Za svakog filozofa potrebno je:
 Ne preskakati nijedan dostupan citat ili anegdotu.
 
 Ne izmišljati citate niti rekonstruisati izgubljene izreke. Uključivati samo ono što Diogen Laertije zaista prenosi ili jasno pripisuje filozofu.
-
----
 
 # Izvori
 
@@ -48,8 +46,6 @@ Grčki tekst koristiti za proveru izvornog značenja.
 
 Engleski prevod koristiti kao pomoć pri razumevanju, ali ne kao zamenu za original.
 
----
-
 # Citat
 
 Citat je svaka izjava ili filozofski stav koji Diogen Laertije pripisuje filozofu, bez obzira na to da li je prenet upravnim ili neupravnim govorom.
@@ -71,8 +67,6 @@ Ne uključivati:
 - biografske podatke;
 - tuđa mišljenja o filozofu.
 
----
-
 # Anegdota
 
 Anegdota je događaj ili pripovest koja slikovito opisuje filozofa, njegov karakter, način života ili filozofski stav.
@@ -87,7 +81,6 @@ Ne uključivati:
 
 - gole biografske podatke (rođenje, poreklo, roditelji, datumi);
 - obične istorijske činjenice bez filozofskog značaja.
-
 
 # Sprečavanje dupliranja
 
@@ -113,7 +106,6 @@ Svaki zapis mora imati sledeći format:
   "author": "",
   "source": ""
 }
-
 ```
 
 Za anegdote:
@@ -126,20 +118,21 @@ Za anegdote:
   "author": "",
   "source": ""
 }
-
 ```
 
 Polja:
 
-* `type` — tip zapisa (`quote` ili `anecdote`);
+* `type` — tip zapisa, može biti:
+  - `quote` — direktan citat filozofa
+  - `reported` — preneto učenje ili mišljenje filozofa koje Diogen navodi
+  - `anecdote` — kratka zgoda sa poentom, često duhovita ili karakteristična
+  - `bio` — običan biografski podatak
 * `sr` — savremeni srpski prevod;
 * `sl` — staroslovenski prevod;
 * `author` — filozof kome pripada citat ili koga opisuje anegdota;
 * `source` — precizan izvor iz Diogena Laertija (knjiga i odeljak).
 
 Dodatna polja (`el`, `en` itd.) dodavati samo ako su izričito zatražena.
-
----
 
 # Podaci o autorima (obavezno)
 
@@ -298,6 +291,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 * πάντα → всѧ
 * πέρας → прѣдѣлъ
 * πλῆθος → множьство
+* πνεῦμα → дѹхъ (alt: дыхъ, дыханиє)
 * πόλις → градъ
 * πολίτης → градьнинъ
 * πολλοί → мнози
