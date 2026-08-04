@@ -9,6 +9,12 @@ interface LanguageSwitcherProps {
   onChange?: (language: Language) => void;
 }
 
+const languageNames: Record<Language, string> = {
+  stsl: 'Словѣньскъ',
+  sr: 'Српски',
+  el: 'Ελληνικά',
+};
+
 export default function LanguageSwitcher({
   currentLang = 'stsl',
   onChange,
@@ -29,7 +35,7 @@ export default function LanguageSwitcher({
           onClick={() => changeLanguage(language)}
           disabled={selected === language}
         >
-          {language.toUpperCase()}
+          {languageNames[language]}
         </button>
       ))}
     </div>

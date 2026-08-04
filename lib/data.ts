@@ -46,17 +46,17 @@ const getTextForLanguage = (entry: QuoteWithId, language: Language = 'stsl'): st
     return entry.stsl;
   }
 
-  if (language === 'en' && entry.en) {
-    return entry.en;
+  if (language === 'el' && entry.el) {
+    return entry.el;
   }
 
-  return entry.sr || entry.stsl || entry.en || '';
+  return entry.sr || entry.stsl || entry.el || '';
 };
 
 const quotesByLanguage: QuotesByLanguage = {
   sr: quotesData.filter((entry) => entry.sr),
   stsl: quotesData.filter((entry) => entry.stsl),
-  en: quotesData.filter((entry) => entry.en || entry.sr),
+  el: quotesData.filter((entry) => entry.el || entry.sr),
 };
 
 const authorById: AuthorsData = { ...authorsData };
