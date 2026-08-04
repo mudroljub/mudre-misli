@@ -1,10 +1,18 @@
 import Link from 'next/link';
 import { authors, authorsData, authorSlugs } from '../lib/data';
+import { getTranslation } from '../lib/translations';
+import type { Language } from '../types/data';
 
-export default function Sidebar() {
+interface SidebarProps {
+  language: Language;
+}
+
+export default function Sidebar({ language }: SidebarProps) {
+  const t = getTranslation(language);
+
   return (
     <aside className="sidebar">
-      <h1><Link href="/">Mudre misli</Link></h1>
+      <h1><Link href="/">{t.siteTitle}</Link></h1>
       <nav>
         {authors.map((author) => {
           const metadata = authorsData[author];

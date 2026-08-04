@@ -5,6 +5,7 @@ import { useState } from 'react';
 import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getTextForLanguage } from '../lib/data';
+import { getTranslation } from '../lib/translations';
 import type { AuthorMetadata, Language, QuoteWithId } from '../types/data';
 
 interface AuthorPageClientProps {
@@ -19,10 +20,11 @@ export default function AuthorPageClient({
   authorQuotes,
 }: AuthorPageClientProps) {
   const [language, setLanguage] = useState<Language>('stsl');
+  const t = getTranslation(language);
 
   return (
     <main className="page-shell">
-      <Sidebar />
+      <Sidebar language={language} />
       <section className="content">
         <LanguageSwitcher currentLang={language} onChange={setLanguage} />
         <h2>{author}</h2>
@@ -30,12 +32,12 @@ export default function AuthorPageClient({
           <img className="author-portrait" src={authorMeta.src} alt={author} />
         ) : null}
         {authorQuotes.length === 0 ? (
-          <p>Nema citata za ovog autora.</p>
+          <p>{t.noQuotesForAuthor}</p>
         ) : (
           authorQuotes.map((entry) => (
             <div key={entry._id} className="quote-card">
               <p>{getTextForLanguage(entry, language)}</p>
-              <Link href={`/quotes/${entry._id}`}>Otvori citat</Link>
+              <Link href={`/quotes/${entry._id}`}>{t.openQuote}</Link>
             </div>
           ))
         )}
