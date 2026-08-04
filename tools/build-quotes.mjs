@@ -93,6 +93,8 @@ const buildSource = async (source) => {
   return { source: normalized }
 }
 
+// First pass: collect all quotes
+const allQuotes = []
 for (const file of files) {
   const filePath = path.join(inputDir, file)
   const content = JSON.parse(await fs.readFile(filePath, 'utf8'))
@@ -102,13 +104,57 @@ for (const file of files) {
 
   for (const entry of content) {
     const mappedSource = await buildSource(entry.source)
-    quotes.push({
+    allQuotes.push({
       ...entry,
       source: mappedSource.source,
       ...(mappedSource.pointer ? { pointer: mappedSource.pointer } : {}),
     })
   }
 }
+
+// Second pass: add anchors to pointers with collisions
+const byPointer = new Map()
+allQuotes.forEach((quote, index) => {
+  if (quote.pointer && quote.el) {
+    if (!byPointer.has(quote.pointer)) {
+      byPointer.set(quote.pointer, [])
+    }
+    byPointer.get(quote.pointer).push({ quote, index })
+  }
+})
+
+byPointer.forEach((items, basePointer) => {
+  if (items.length > 1) {
+    // Collision detected - add anchors
+    items.forEach(({ quote, index }) => {
+      const text = quote.el
+
+      // Find minimum anchor length for uniqueness
+      let anchor = ''
+      for (let len = 5; len <= Math.min(50, text.length); len++) {
+        const candidate = text.substring(0, len)
+        const matches = items.filter(
+          item => item.quote.el.startsWith(candidate)
+        )
+        if (matches.length === 1) {
+          anchor = candidate
+          break
+        }
+      }
+
+      // Fallback if no unique prefix found
+      if (!anchor) {
+        const match = text.match(/^.{5,30}[·;.]/)
+        anchor = match ? match[0] : text.substring(0, 30)
+      }
+
+      // Add anchor to pointer: file:line#anchor
+      allQuotes[index].pointer = `${basePointer}#${anchor}`
+    })
+  }
+})
+
+quotes.push(...allQuotes)
 
 await fs.writeFile(
   outputFile,
