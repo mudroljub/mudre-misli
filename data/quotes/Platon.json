@@ -12,7 +12,6 @@
         "sr": "More spira sva ljudska zla.",
         "stsl": "Море омываєть вьсѧ чловѣчьскаꙗ зла ·",
         "el": "Θάλασσα κλύζει πάντα τἀνθρώπων κακά.",
-        "author": "Platon",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.6"
     },
     {
@@ -20,7 +19,6 @@
         "sr": "Egipćani su od svih ljudi najumešniji u lečenju.",
         "stsl": "Єгѵптѧне отъ вьсѣхъ чловѣкъ въ врачевании наихѹдожьнѣиши сѫть ·",
         "el": "πάντας ἀνθρώπους Αἰγυπτίους ἰατροὺς εἶναι.",
-        "author": "Platon",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.7"
     },
     {
@@ -672,118 +670,135 @@
         "sr": "Prema atinskom predanju, Ariston je bezuspešno pokušavao da pridobije Periktionu. Kada mu se Apolon javio u snu, ostavio ju je netaknutu do Platonovog rođenja; time je nastala priča o filozofovom božanskom poreklu.",
         "stsl": "По Атиньскомѹ прѣданию · Аристонъ напрасно Периктионѫ придобыти ѹсиливааше сѧ · Єгда ємѹ Аполлонъ въ сънѣ ꙗви сѧ · неприкосновенѫ ю до Платонова рождениꙗ остави · отътѹдѹ повѣсть о божьствьнѣмь родѣ любомѫдрьца бысть ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.2"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.2",
+        "year": -428
     },
     {
         "type": "anecdote",
         "sr": "Platon je samoga sebe po imenu pomenuo samo dvaput. Kada je čitao dijalog O duši, jedino je Aristotel ostao do kraja. Početak Države pronađen je više puta prepravljen, a Zakoni su ostali na voštanim tablicama i prepisao ih je Filip iz Opunta.",
         "stsl": "Платонъ самого себе по имѧни тъкмо двоицею помѧнѫ · Єгда бесѣдꙫ О дѹши чьтѧаше · єдинъ Аристотель до конца оста · Начѧло Града многажды прѣписано обрѣте сѧ · Закони же на воштьныхъ дъскахъ осташа и Филиппъ Опѹнтьскыи ихъ прѣписа ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.37–38"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.37–38",
+        "year": -423
     },
     {
         "type": "anecdote",
         "sr": "Sokrat je sanjao labuda koji mu je na kolenima iznenada dobio perje, odleteo i zapevao milozvučno. Kada mu je sutradan doveden Platon, prepoznao je u njemu labuda iz sna.",
         "stsl": "Сократъ видѣ въ сънѣ лебѧдь · иже на колѣнѹ єго внезапѹ опери сѧ · възлетѣ и сладъкогласьно възпѣ · Єгда на ѹтрии Платона къ немѹ приведоша · въ немь лебѧдь отъ съна позна ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.5"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.5",
+        "year": -418
     },
     {
         "type": "anecdote",
         "sr": "Platon je prvi doneo u Atinu zanemarene Sofronove mime i prema njima oblikovao likove; primerak tih spisa nađen je pod njegovim jastukom.",
         "stsl": "Платонъ пьрвыи забъвеныѩ Софроновы подражаниꙗ въ Атины принесе и по нихъ лица изображаше · списъкъ тѣхъ писании подъ възглавиемъ єго обрѣтенъ бысть ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.18"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.18",
+        "year": -413
     },
     {
         "type": "anecdote",
         "sr": "Platon je nameravao da se takmiči tragedijom, ali je pred Dionisovim pozorištem čuo Sokrata. Spalio je svoje pesme, pozvao boga ognja da mu pomogne i od dvadesete godine postao Sokratov učenik.",
         "stsl": "Платонъ трагедиею състѧзати сѧ хотѣ · нъ прѣдъ Дионисовымъ позориштемъ Сократа ѹслыша · Своѩ пѣсни съжеже · бога огнꙗ на помощь възва и отъ двадесѧтаго лѣта Сократовъ ѹченикъ бысть ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.5–6"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.5–6",
+        "year": -408
     },
     {
         "type": "anecdote",
         "sr": "Posle Sokratove smrti Platon je učio kod Kratila i Hermogena, a zatim putovao u Megaru, Kirenu, Italiju i Egipat. U Egiptu su ga sveštenici izlečili morskom vodom, pa je često navodio stih da more spira sva ljudska zla.",
         "stsl": "По Сократовѣ смрьти Платонъ при Кратѵлѣ и Хермогенѣ ѹчи сѧ · потомь же въ Мегарѫ · Кѵринѫ · Италию и Єгѵпетъ пѫтова · Въ Єгѵптѣ жрьци морьскою водою єго исцѣлиша · тѣмь чѧсто рѣчь навождааше · ꙗко море вьсѧ чловѣчьскаꙗ зла омываєть ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.6–7"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.6–7",
+        "year": -403
     },
     {
         "type": "anecdote",
         "sr": "Na prvom putovanju na Siciliju Platon je Dionisiju rekao da korist vladara nije najviše dobro bez vrline. Tiranin ga je nazvao starcem koji bunca, a Platon njega tiraninom. Predat je spartanskom poslaniku, prodat kao rob na Egini i optužen po zakonu koji je Atinjanima pretio smrću, ali se držao mirno i samouvereno. Anikerid ga je otkupio i odbio da primi povraćaj novca.",
         "stsl": "На пьрвѣмь пѫтовании въ Сикелию Платонъ Дионисию рече · ꙗко польза владꙑкы безъ добродѣтели не єсть вышнее благо · Мѫчитель єго бредѫштимъ старьцемъ нарече · Платонъ же єго мѫчителемъ · Спартаньскомѹ посълѹ прѣданъ бысть · на Єгинѣ ꙗко рабъ проданъ и по законѹ · смрьтию Атинѧномъ грозивъшѹ · обвиненъ · нъ тихъ и надѣжьнъ прѣбысть · Аникеридъ єго искѹпи и възвратъ пѣнѧѕь отъмѣте ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.18–20"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.18–20",
+        "year": -387
     },
     {
         "type": "anecdote",
         "sr": "Platon se vratio na Siciliju da od mlađeg Dionisija zatraži zemlju i naseljenike za ostvarenje svoje države. Obećanje nije ispunjeno; kada je osumnjičen da pomaže oslobođenju ostrva, Arhita mu je izdejstvovao bezbedan povratak. Treći put je bez uspeha pokušao da pomiri Diona i Dionisija.",
         "stsl": "Платонъ пакы въ Сикелию възврати сѧ · да отъ младъшаго Дионисиꙗ землѭ и насельникы къ сътворению своєго града просить · Обѣтъ не съвръши сѧ · єгда въ помощи освобождению острова подозрѣнъ бысть · Архѵта ємѹ безбѣдьнъ възвратъ исходатаиствова · Третицею безъ ѹспѣха Диона и Дионисиꙗ примирити покѹси сѧ ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.21–23"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.21–23",
+        "year": -367
     },
     {
         "type": "anecdote",
         "sr": "Diogen Platonu pripisuje uvođenje rasprave pitanjima i odgovorima, analitičkog rešavanja zadataka i više temeljnih filozofskih naziva, kao i prvo sistematsko proučavanje gramatike.",
         "stsl": "Диогенъ Платонѹ приписѹєть введеніє прѣниꙗ вопросы и отвѣты · разрѣшениꙗ задачь разложеніємъ и многихъ основьныхъ любомѫдрьныхъ имѧнъ · такожде пьрвоє ѹстроєно испытаніє кънижьнаго ꙗзыка ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.24–25"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.24–25",
+        "year": -388
     },
     {
         "type": "anecdote",
         "sr": "Platon i Ksenofont bili su suparnici: obojica su napisala Gozbu, Odbranu Sokratovu i moralne uspomene, dok su se Platonova Država i Ksenofontovo Kiropedija nadmetale u prikazu uređenja i vaspitanja. Platon je Ksenofontovog Kira nazvao izmišljotinom.",
         "stsl": "Платонъ и Ксенофонтъ съпьрници бѣста · оба Пиръ · Сократовѫ Заштитѫ и нравьныѩ памѧти написаста · Платоновъ же Градъ и Ксенофонтово Кѵрово възпитаніє въ изображении ѹстроєниꙗ и възпитаниꙗ състѧзаста сѧ · Платонъ Ксенофонтова Кѵра измышленіємъ нарече ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.34"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.34",
+        "year": -383
     },
     {
         "type": "anecdote",
         "sr": "Kada je Antisten najavio spis o nemogućnosti protivrečenja, Platon ga je pitao kako uopšte može pisati o tome, pokazujući da tvrdnja pobija samu sebe. Antisten je zatim protiv njega napisao dijalog Saton i njih dvojica su ostala zavađena.",
         "stsl": "Єгда Антисѳенъ писаніє о невъзможьности противорѣчениꙗ възвѣсти · Платонъ єго въпроси · како о томь писати можеть · показѹѧ · ꙗко твьрдь самѫ себе побѣждаєть · Антисѳенъ потомь противѹ єго бесѣдꙫ Сатонъ написа · и оба въ враждѣ прѣбыста ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.35"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.35",
+        "year": -378
     },
     {
         "type": "anecdote",
         "sr": "Kada je Platon čitao dijalog Lisid, Sokrat je uzviknuo da mladić o njemu govori mnoštvo laži, jer je u dijalog uneo mnogo toga što Sokrat nikada nije rekao.",
         "stsl": "Єгда Платонъ бесѣдꙫ Лѵсидъ чьтѧаше · Сократъ възгласи · ꙗко юноша множьство лъжи о немь глаголєть · зане въ бесѣдꙫ много того вънесе · єже Сократъ никогда не рече ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.35"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.35",
+        "year": -373
     },
     {
         "type": "anecdote",
         "sr": "Platon je prekinuo čoveka koji se pravdao da se kocka samo za sitnicu: sitnica nije bila ulog, nego navika. Kada se naljutio na roba, zamolio je Ksenokrata da ga kazni, jer nije hteo da kažnjava u gnevu.",
         "stsl": "Платонъ чловѣка · иже сѧ оправдавааше · ꙗко тъкмо на мало костьми играєть · ѹстави · мало не бѣ залогъ · нъ обычаи · Єгда на раба разгнѣва сѧ · Ксенократа проси · да єго накажеть · зане въ гнѣвѣ наказати не хотѣ ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.38–39"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.38–39",
+        "year": -368
     },
     {
         "type": "anecdote",
         "sr": "Platon je jednom brzo sjahao s konja, bojeći se da ga ne zarazi konjska oholost. Pijancima je savetovao ogledalo da vide kako ih pijanstvo izobličava, a osuđivao je i predugo spavanje.",
         "stsl": "Платонъ єдиною скоро съ конѧ съниде · боѧ сѧ · да єго коньска гордость не заразить · Пиꙗнымъ зрьцало съвѣтоваше · да видѧть · како ихъ пиꙗньство безобразить · такожде и прѣдълъгыи сънъ осѫждааше ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.39–40"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.39–40",
+        "year": -363
     },
     {
         "type": "anecdote",
         "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila. Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
         "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ · Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.4–5"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.4–5",
+        "year": -358
     },
     {
         "type": "anecdote",
         "sr": "Kada niko drugi u Atini nije hteo da brani vojskovođu Habriju od smrtne optužbe, Platon je stao uz njega. Na pretnju da ga čeka Sokratova kukuta odgovorio je da se, kao nekada za otadžbinu, sada izlaže opasnosti radi prijatelja.",
         "stsl": "Єгда никтоже инъ въ Атинахъ воєводѫ Хабрию отъ смрьтьнаго обвинениꙗ заштитити хотѣ · Платонъ при немь ста · На грозьбѫ · ꙗко Сократова отрова єго чекаєть · отвѣшта · ꙗко ꙗкоже иногда отьчьства ради · нынѣ дрѹга ради бѣдѣ себе прѣдаєть ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.23–24"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.23–24",
+        "year": -353
     },
     {
         "type": "anecdote",
         "sr": "Platon je umro na svadbenoj gozbi u dubokoj starosti i sahranjen je u Akademiji. U oporuci je oslobodio Artemidu, ostavio četiri kućna roba i izjavio da nikome ništa ne duguje.",
         "stsl": "Платонъ на брачьнѣи трапезѣ въ глѹбоцѣ старости ѹмрѣ и въ Академии погребенъ бысть · Въ завѣштании Артемидѫ свободьнѫ сътвори · четыри домашьны рабы остави и рече · ꙗко никомѹ ничьтоже дължьнъ єсть ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.2–3, 40–43"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.2–3, 40–43",
+        "year": -348
     }
 ]

@@ -21,24 +21,24 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 4. Pitak (Pittacus, c. IV, s. 28) ✅
 5. Bijant (Bias, c. V, s. 32) ✅
 6. Kleobul (Cleobulus, c. VI, s. 40) ✅
-7. Periandar (Periander, c. VII, s. 44)
+7. Periandar (Periander, c. VII, s. 44) ✅
 8. Zoroaster (Zoroastes, c. VIII, s. 46) ✅
-9. Mison (Misosternon, c. IX, s. 52)
+9. Mison (Misosternon, c. IX, s. 52) ✅
 10. Anaksimander (Anaximander, c. IX, s. 48) ✅
-11. Anaharsis (Anacharsis, c. X, s. 48)
-12. Epimenid (Epimenides, c. XII, s. 54)
-13. Ferekid (Pherecides, c. XIII, s. 56)
-14. Homer (Homerus, c. XIV, s. 54)
-15. Likurg (Lycurgus, c. XV, s. 60)
+11. Anaharsis (Anacharsis, c. X, s. 48) ✅
+12. Epimenid (Epimenides, c. XII, s. 54) ✅
+13. Ferekid (Pherecides, c. XIII, s. 56) ✅
+14. Homer (Homerus, c. XIV, s. 54) ✅
+15. Likurg (Lycurgus, c. XV, s. 60) ✅
 
 ### Pitagorejci i jonski filozofi
 
 16. Anaksimen (Anaximenes, c. XVI, s. 54) ✅
-17. Kleant (Cleanthes, c. XVI, s. 106)
-18. Kret (Crates, c. XVII, s. 56)
+17. Kleant (Cleanthes, c. XVI, s. 106) ⚠️ ne postoji u knjizi
+18. Kret (Crates, c. XVII, s. 56) ✅
 19. Pitagora (Pythagoras, c. XVII, s. 72) ✅
 20. Anaksagora (Anaxagoras, c. XVIII, s. 80) ✅
-21. Stilpon (Stilpon, c. XX, s. 88)
+21. Stilpon (Stilpon, c. XX, s. 88) ✅
 
 ### Pesnici i govornici
 
@@ -61,10 +61,10 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 32. Ksenofont (Xenophon, c. XXXII, s. 150) ✅
 33. Antisten (Antisthenes, c. XXXIII, s. 152) ✅
 34. Alkibijad (Alcibiades, c. XXXIV, s. 153) ✅
-35. Eshin (Aeschines, c. XXXV, s. 156)
-36. Euripid (Euripides philosophus, c. XXXVI, s. 158)
+35. Eshin (Aeschines, c. XXXV, s. 156) ✅
+36. Euripid (Euripides philosophus, c. XXXVI, s. 158) ✅
 37. Demosten (Demosthenes, c. XXXVII, s. 166) ✅
-38. Sofokle (Sophocles, c. XXXVIII, s. 168)
+38. Sofokle (Sophocles, c. XXXVIII, s. 168) ✅
 
 ### Državnici i vojskovođe
 

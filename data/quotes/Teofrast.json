@@ -4,14 +4,16 @@
         "sr": "Teofrast je bio iz Eresa; prvo je slušao Alkipa u rodnom gradu, zatim Platona, pa je prešao kod Aristotela. Po Aristotelovom odlasku u Halkidu preuzeo je školu i pred mnoštvom učenika predavao u Atini.",
         "stsl": "Тєофрастъ бѣ отъ Ереса · пьрвѣє слѹшаше Алкиппа въ своемь градѣ · таже Платона · потомь же прѣиде къ Аристотелѹ · По исходѣ єго въ Халкиду самъ школу прїѧть и въ Аѳинахъ великымъ множьствомь ѹченикъ ѹчаше ·",
         "author": "Teofrast",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.36–V.37"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.36–V.37",
+        "year": -371
     },
     {
         "type": "anecdote",
         "sr": "Po Aristotelovoj smrti Teofrast je, posredstvom Demetrija Falerskog, dobio sopstveni vrt.",
         "stsl": "По смрьти Аристотелѣ Тєофрастъ · чрезъ Дємєтрїꙗ Фалерскаго · свой грѧдъ прїѧтъ ·",
         "author": "Teofrast",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.39"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.39",
+        "year": -343
     },
     {
         "type": "quote",
@@ -26,7 +28,8 @@
         "sr": "Kada je Agnonid pokušao da ga tuži za bezbožnost, sam tužilac je skoro bio kažnjen, a Teofrast je, uprkos velikom ugledu, i dalje ostao cenjen u Atini.",
         "stsl": "Єгда Агнонїдъ покѹси сѧ на него за безбожіє · самъ тѫжитель почти казни прїѧтъ · а Тєофрастъ · при великѣмъ оуже славѣ · въ Аѳинахъ и паки чьтень бѣ ·",
         "author": "Teofrast",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.37"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.37",
+        "year": -315
     },
     {
         "type": "quote",
@@ -41,6 +44,7 @@
         "sr": "Po njegovoj smrti svi su Atinjani, u znak poštovanja prema njemu, na nogama pratile njegov pogrebni proces.",
         "stsl": "По смрьти єго · въ честь мужа · вьси Атинѧне ногою погребныи ходъ проводиша ·",
         "author": "Teofrast",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.41"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.41",
+        "year": -287
     }
 ]
