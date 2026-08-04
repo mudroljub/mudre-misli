@@ -17,6 +17,7 @@ export default function QuotePageClient({ quote, authorMeta }: QuotePageClientPr
   const [language, setLanguage] = useState<Language>('stsl');
   const t = getTranslation(language);
   const authorName = getAuthorName(quote.author, language);
+  const sourceLabel = quote.source || '—';
 
   return (
     <main className="page-shell">
@@ -27,7 +28,7 @@ export default function QuotePageClient({ quote, authorMeta }: QuotePageClientPr
           {authorMeta?.src ? <img src={authorMeta.src} alt={authorName} /> : null}
           <h2>{authorName}</h2>
           <p>{getTextForLanguage(quote, language)}</p>
-          <p className="source-line">{t.source}: {quote.source || '—'}</p>
+          <p className="source-line">{t.source}: {sourceLabel}</p>
           <Link href={`/authors/${authorSlugs[quote.author] ?? quote.author}`}>
             {t.viewAllQuotes}
           </Link>

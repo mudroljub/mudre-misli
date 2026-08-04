@@ -118,7 +118,8 @@ Polja:
 * `sr` — savremeni srpski prevod;
 * `stsl` — staroslovenski prevod;
 * `author` — filozof kome pripada citat ili koga opisuje anegdota;
-* `source` — precizan izvor iz Diogena Laertija (knjiga i odeljak).
+* `source` — human-readable izvor (npr. autor + delo + knjiga/odeljak, bez putanje fajla);
+* `pointer` (opciono) — machine-readable pokazivač do tačne linije lokalnog source fajla, format `data/sources/.../NN.txt:linija`.
 
 Dodatna polja (`el`, `en` itd.) dodavati samo ako su izričito zatražena.
 

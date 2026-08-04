@@ -9,7 +9,8 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
-    "build:quotes": "node tools/build-quotes.mjs"
+    "build:quotes": "node tools/build-quotes.mjs",
+    "build:sources": "node tools/build-source-map.mjs"
   },
   "dependencies": {
     "next": "14.2.15",

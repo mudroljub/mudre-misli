@@ -6,13 +6,15 @@ export type Language = (typeof supportedLanguages)[number];
 
 export interface Quote {
   type: QuoteType;
-  // Approximate year within the author's lifetime. Negative values denote BCE.
-  year?: number;
+  year?: number; // approximate year within the author's lifetime
   sr: string;
   stsl: string;
   el?: string;
   author: string;
+  // Human-readable citation (author/work/book.section), intended for UI display.
   source: string;
+  // Machine-readable pointer to exact source line, e.g. data/sources/.../03.txt:67.
+  pointer?: string;
 }
 
 export interface QuoteWithId extends Quote {

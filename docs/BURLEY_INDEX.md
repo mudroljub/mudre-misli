@@ -100,20 +100,20 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 54. Plotin (Plotinus, c. LIX, s. 258) ✅
 55. Hermes Trismegist (Hermes Trismegistus, c. LIX, s. 262) ✅
 56. Ksenokrat (Xenocrates, c. LXI, s. 264) ✅
-57. Antipatar Sidonski (Antipater sidonius, c. LXI, s. 226)
-58. Demetrije (Demetrius, c. LXII, s. 270)
-59. Anaksimen Lampsački (Anaximenes lampascus, c. LXII, s. 273)
-60. Arat (Aratus, c. LXIII, s. 276)
+57. Antipatar Sidonski (Antipater sidonius, c. LXI, s. 226) ✅
+58. Demetrije (Demetrius, c. LXII, s. 270) ✅
+59. Anaksimen Lampsački (Anaximenes lampascus, c. LXII, s. 273) ✅
+60. Arat (Aratus, c. LXIII, s. 276) ✅
 61. Epikur (Epicurus, c. LXIV, s. 272) ✅
-62. Herodot (Herodotus, c. LXV, s. 278)
-63. Kalisten (Callisthenes, c. LXV, s. 278)
-64. Polistrat (Polystratus, c. LXV, s. 278)
-65. Kalimah (Callinachos, c. LXVI, s. 278)
-66. Arkesilao (Archesilaus, c. LXVII, s. 292)
+62. Herodot (Herodotus, c. LXV, s. 278) ✅
+63. Kalisten (Callisthenes, c. LXV, s. 278) ✅
+64. Polistrat (Polystratus, c. LXV, s. 278) ✅
+65. Kalimah (Callinachos, c. LXVI, s. 278) ✅
+66. Arkesilao (Archesilaus, c. LXVII, s. 292) ✅
 67. Teofrast (Theophrastus, c. LXVIII, s. 282) ✅
-68. Karnead (Carneades, c. LXIX, s. 298)
-69. Diodor Kron (Diodorus Cronus, c. LXIX, s. 292)
-70. Ksenofil (Xenophilus, c. LXIX, s. 252)
+68. Karnead (Carneades, c. LXIX, s. 298) ✅
+69. Diodor Kron (Diodorus Cronus, c. LXIX, s. 292) ✅
+70. Ksenofil (Xenophilus, c. LXIX, s. 252) ✅
 71. Polemon (Polemo, c. LXX, s. 292) ✅
 
 ### Helenistički period
