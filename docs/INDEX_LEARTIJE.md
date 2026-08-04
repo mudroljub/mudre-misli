@@ -92,7 +92,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje (10 knjiga).
 
 ### Kinici (4.–3. vek p.n.e.) — Knjiga VI
 
-63. Diogen iz Sinope (Διογένης, oko 412–323. p.n.e.)
+63. Diogen iz Sinope (Διογένης, oko 412–323. p.n.e.) ✅
 64. Monimos (Μόνιμος, 4. vek p.n.e.)
 65. Onesikarit (Ὀνησίκριτος, oko 360–290. p.n.e.)
 66. Kratet iz Tebe (Κράτης, oko 368–288. p.n.e.)
