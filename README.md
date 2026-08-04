@@ -134,3 +134,4 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 - normalizovati imena filozofa da budu ka na sr wiki
 - dodati podatke iz https://books.google.ws/books?id=Oxw1AAAAIAAJ&printsec=frontcover#v=onepage&q&f=false
 - zaminiti . sa · u staroslovenskom tekstu?
+- dodavati bio i dosledno odvojiti tipove
