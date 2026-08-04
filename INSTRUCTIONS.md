@@ -228,7 +228,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 * ἁρμονία - съвръзаніє (alt: съгласиє)
 * ἀρχή - начѧло
 * ἄτομος - недѣлимъ
-* βίος - животъ
+* βίος - житіє (život kao tok života, način života)
 * βούλησις - хотѣніє
 * γένεσις - роженіє (alt: бытиє)
 * γῆ - землѧ
@@ -253,6 +253,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 * ἔρως - любовь
 * εὐδαιμονία - блаженьство
 * εὐθυμία - благодѹшиє
+* ζωή - животъ (život kao stanje živosti, egzistencija)
 * ἡδονή - сластъ
 * ἦθος - нравъ
 * ἥρως - щититель, витѧзь, предци

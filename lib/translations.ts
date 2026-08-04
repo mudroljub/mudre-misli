@@ -13,6 +13,8 @@ export interface Translations {
   returnHome: string;
   noQuotesForAuthor: string;
   openQuote: string;
+  sectionQuotes: string;
+  sectionAnecdotes: string;
 }
 
 export const translations: Record<Language, Translations> = {
@@ -29,6 +31,8 @@ export const translations: Record<Language, Translations> = {
     returnHome: 'Въспѧть въ начѧло',
     noQuotesForAuthor: 'Нѣсть изрѣчєніи сєго любомѫдрьца.',
     openQuote: 'Отъврьзи изрѣчєніє',
+    sectionQuotes: 'Изрѣчєніꙗ',
+    sectionAnecdotes: 'Житіє',
   },
   sr: {
     siteTitle: 'Mudre misli',
@@ -43,6 +47,8 @@ export const translations: Record<Language, Translations> = {
     returnHome: 'Povratak na početnu',
     noQuotesForAuthor: 'Nema citata za ovog autora.',
     openQuote: 'Otvori citat',
+    sectionQuotes: 'Izreke',
+    sectionAnecdotes: 'Život',
   },
   el: {
     siteTitle: 'Σοφαὶ γνῶμαι',
@@ -57,6 +63,8 @@ export const translations: Record<Language, Translations> = {
     returnHome: 'Ἐπιστροφὴ εἰς ἀρχήν',
     noQuotesForAuthor: 'Οὐκ εἰσὶ ρήσεις τοῦ συγγραφέως.',
     openQuote: 'Ἄνοιξον ρῆσιν',
+    sectionQuotes: 'Γνῶμαι',
+    sectionAnecdotes: 'Βίος',
   },
 };
 

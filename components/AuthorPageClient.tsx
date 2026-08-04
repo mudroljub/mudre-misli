@@ -34,14 +34,36 @@ export default function AuthorPageClient({
         ) : null}
         {authorQuotes.length === 0 ? (
           <p>{t.noQuotesForAuthor}</p>
-        ) : (
-          authorQuotes.map((entry) => (
-            <div key={entry._id} className="quote-card">
-              <p>{getTextForLanguage(entry, language)}</p>
-              <Link href={`/quotes/${entry._id}`}>{t.openQuote}</Link>
-            </div>
-          ))
-        )}
+        ) : (() => {
+          const quotesSection = authorQuotes.filter((e) => e.type === 'quote' || e.type === 'reported');
+          const anecdotesSection = authorQuotes.filter((e) => e.type === 'anecdote' || e.type === 'bio');
+          return (
+            <>
+              {anecdotesSection.length > 0 && (
+                <section>
+                  <h3>{t.sectionAnecdotes}</h3>
+                  {anecdotesSection.map((entry) => (
+                    <div key={entry._id} className="quote-card">
+                      <p>{getTextForLanguage(entry, language)}</p>
+                      <Link href={`/quotes/${entry._id}`}>{t.openQuote}</Link>
+                    </div>
+                  ))}
+                </section>
+              )}
+              {quotesSection.length > 0 && (
+                <section>
+                  <h3>{t.sectionQuotes}</h3>
+                  {quotesSection.map((entry) => (
+                    <div key={entry._id} className="quote-card">
+                      <p>{getTextForLanguage(entry, language)}</p>
+                      <Link href={`/quotes/${entry._id}`}>{t.openQuote}</Link>
+                    </div>
+                  ))}
+                </section>
+              )}
+            </>
+          );
+        })()}
       </section>
     </main>
   );
