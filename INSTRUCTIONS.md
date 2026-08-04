@@ -1,12 +1,8 @@
 # Uputstvo za AI agente
 
-## Cilj projekta
+Pravimo zbirku filozofskih citata i anegdota koje Diogen Laertije prenosi o poznatim filozofima, i prevodimo ih na staroslovenski filozofski jezik iz vremena pre Kirila i Metoda.
 
-Projekat se zasniva na obradi javno dostupnog dela:
-
-**Diogen Laertije – Životi i mišljenja znamenitih filozofa**
-
-Cilj je napraviti zbirku svih dostupnih filozofskih citata i anegdota koje Diogen Laertije prenosi o poznatim filozofima, a zatim ih prevesti na staroslovenski filozofski jezik.
+## Procedura izvlačenja citata
 
 Radi se **jedan filozof po jedan**, redosledom kojim korisnik zatraži.
 
@@ -92,7 +88,18 @@ Ne uključivati:
 - gole biografske podatke (rođenje, poreklo, roditelji, datumi);
 - obične istorijske činjenice bez filozofskog značaja.
 
----
+
+# Sprečavanje dupliranja
+
+Pre dodavanja novog zapisa proveriti da li ista izjava ili anegdota već postoji u zbirci.
+
+Ne unositi isti sadržaj više puta u različitim oblicima:
+- direktan citat i parafraza iste izreke;
+- ista izjava kao deo anegdote i kao poseban `quote`;
+- skraćena i proširena verzija istog događaja.
+
+Ako je izjava deo šire priče sa filozofskim ili karakterološkim značajem, čuvati je kao `anecdote`.  
+Ako je samostalna izreka bez konteksta, čuvati je kao `quote`.
 
 # JSON format
 
@@ -233,7 +240,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 * ἀλήθεια → истина
 * ἀνάγκη → нѫжда
 * ἀπαρχή → прьвина (alt: начѧтъкъ)
-* ἄπειρον → безконьчноє
+* ἄπειρον → безмѣрьноє
 * ἄπειρος → безмѣрьнъ
 * ἀρετή → добродѣтель
 * ἁρμονία → съвръзаниє (alt: съгласиє)
