@@ -4,7 +4,7 @@ import { authors, authorsData, authorSlugs } from '../lib/data';
 export default function Sidebar() {
   return (
     <aside className="sidebar">
-      <h1>Mudre misli</h1>
+      <h1><Link href="/">Mudre misli</Link></h1>
       <nav>
         {authors.map((author) => {
           const metadata = authorsData[author];

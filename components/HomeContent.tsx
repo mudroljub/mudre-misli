@@ -19,7 +19,7 @@ export default function HomeContent({ featured }: HomeContentProps) {
       <Sidebar />
       <section className="content">
         <LanguageSwitcher currentLang={language} onChange={setLanguage} />
-        <h2>Najnoviji citat</h2>
+        <h2>Slučajni citat</h2>
         <div className="quote-card">
           <p>{getTextForLanguage(featured, language)}</p>
           <p className="author-line">— {featured.author}</p>
