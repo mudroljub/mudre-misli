@@ -126,6 +126,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 
 ## TODO
 
+- promeniti sl u stsl
 - dodati zaseban odeljak za anegdote
 - dodati na naslovnu stranicu random citat
 - dodati home link
