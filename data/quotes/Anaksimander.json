@@ -1,62 +1,62 @@
 [
-    {
-        "type": "quote",
-        "sr": "Načelo i element bića jeste bezgranično.",
-        "stsl": "Начѧло и пьрвосъставъ сѫщихъ єсть безмѣрьноє.",
-        "el": "ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον.",
-        "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
-    },
-    {
-        "type": "reported",
-        "sr": "Anaksimander je govorio da se pojedinačne stvari menjaju, dok bezgranično ostaje nepromenjeno.",
-        "stsl": "Анаксимандръ глаголаше ꙗко различьнаꙗ вѣщи прѣмѣнѧють сѧ, безмѣрьноє же пребываєть непрѣмѣнно.",
-        "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
-    },
-    {
-        "type": "quote",
-        "sr": "Zemlja je kuglasta i miruje u sredini, jednako udaljena od svega.“",
-        "stsl": "Землѧ єсть кѫгльна и почиваетъ посредѣ, равьно отъ вьсѣхъ странъ отстоѧща.",
-        "el": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
-        "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
-    },
-    {
-        "type": "quote",
-        "sr": "Mesec svetli pozajmljenim svetlom i prima osvetljenje od sunca.",
-        "stsl": "Мѣсѧць свѣтить заѥмлѥмь свѣтомъ и приимаеть просвѣщєніє отъ сльньца.",
-        "el": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
-        "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
-    },
-    {
-        "type": "quote",
-        "sr": "Sunce je veliko kao zemlja i sazdano od najčistije vatre.",
-        "stsl": "Сльньце єсть велико ꙗкоже землѧ и сътворено отъ наичистѣишєго огнѧ.",
-        "el": "τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
-        "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prvi je uveo gnomon i postavio ga u Lakedemonu da obeležava solsticije i ravnodnevice; pravio je i časovnike.",
-        "stsl": "Пьрвъ обрѣте слъньцѣпоказъ и постави и въ Лакедемонѣ, да знаменаѥтъ слъньчьнѣѧ повороты и равноденьѥ; сътвори же и часомѣры.",
-        "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1–II.2"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prvi je nacrtao kartu kopna i mora i načinio nebeski globus.",
-        "stsl": "Пьрвъ начрьта земьлю и море и сътвори небесныи клѫбъ.",
-        "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.2"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Kad su mu se dečaci podsmevali zbog pevanja, rekao je: Onda moram bolje pevati da ugodim dečacima.",
-        "stsl": "Єгда отроци порѹгаахѫ сѧ єго пѣнию, рече: Подобаєть ми лѹчьше пѣти, да ѹгодѫ отрокомъ.",
-        "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.2"
-    }
+  {
+    "type": "quote",
+    "sr": "Načelo i element bića jeste bezgranično.",
+    "stsl": "Начѧло и пьрвосъставъ сѫщихъ єсть безмѣрьноє.",
+    "el": "ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον.",
+    "author": "Anaksimander",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+  },
+  {
+    "type": "reported",
+    "sr": "Anaksimander je govorio da se pojedinačne stvari menjaju, dok bezgranično ostaje nepromenjeno.",
+    "stsl": "Анаксимандръ глаголаше ꙗко различьнаꙗ вѣщи прѣмѣнѧють сѧ, безмѣрьноє же пребываєть непрѣмѣнно.",
+    "author": "Anaksimander",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+  },
+  {
+    "type": "quote",
+    "sr": "Zemlja je kuglasta i miruje u sredini, jednako udaljena od svega.“",
+    "stsl": "Землѧ єсть кѫгльна и почиваетъ посредѣ, равьно отъ вьсѣхъ странъ отстоѧща.",
+    "el": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
+    "author": "Anaksimander",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+  },
+  {
+    "type": "quote",
+    "sr": "Mesec svetli pozajmljenim svetlom i prima osvetljenje od sunca.",
+    "stsl": "Мѣсѧць свѣтить заѥмлѥмь свѣтомъ и приимаеть просвѣщєніє отъ сльньца.",
+    "el": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
+    "author": "Anaksimander",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+  },
+  {
+    "type": "quote",
+    "sr": "Sunce je veliko kao zemlja i sazdano od najčistije vatre.",
+    "stsl": "Сльньце єсть велико ꙗкоже землѧ и сътворено отъ наичистѣишєго огнѧ.",
+    "el": "τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
+    "author": "Anaksimander",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Prvi je uveo gnomon i postavio ga u Lakedemonu da obeležava solsticije i ravnodnevice; pravio je i časovnike.",
+    "stsl": "Пьрвъ обрѣте слъньцѣпоказъ и постави и въ Лакедемонѣ, да знаменаѥтъ слъньчьнѣѧ повороты и равноденьѥ; сътвори же и часомѣры.",
+    "author": "Anaksimander",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1–II.2"
+  },
+  {
+    "type": "bio",
+    "sr": "Prvi je nacrtao kartu kopna i mora i načinio nebeski globus.",
+    "stsl": "Пьрвъ начрьта земьлю и море и сътвори небесныи клѫбъ.",
+    "author": "Anaksimander",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.2"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kad su mu se dečaci podsmevali zbog pevanja, rekao je: Onda moram bolje pevati da ugodim dečacima.",
+    "stsl": "Єгда отроци порѹгаахѫ сѧ єго пѣнию, рече: Подобаєть ми лѹчьше пѣти, да ѹгодѫ отрокомъ.",
+    "author": "Anaksimander",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.2"
+  }
 ]
