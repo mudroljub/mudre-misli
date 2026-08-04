@@ -76,7 +76,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 42. Eudoks (Eudoxus, c. XLII, s. 180) ✅
 43. Demokrit (Democritus, c. XLIIII, s. 160) ✅
-44. Hipokrat (Hippocrates, c. XLV, s. 180)
+44. Hipokrat (Hippocrates, c. XLV, s. 180) ✅
 45. Empedoklo (Empedocles, c. XLVI, s. 186) ✅
 
 ### Eleati i atomisti
