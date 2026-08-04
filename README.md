@@ -128,5 +128,6 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 
 ## TODO
 
+- srediti dokumentaciju (razdvojiti sadržaje izvora sa statusima, rečnik i sl)
 - dodati sirove podatke iz https://upload.wikimedia.org/wikipedia/commons/a/ab/BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf
 - obraditi podatke iz latinskog teksta
