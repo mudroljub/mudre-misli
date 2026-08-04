@@ -266,6 +266,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 * εὐθυμία - благодѹшиє
 * ἡδονή - сластъ
 * ἦθος - нравъ
+* ἥρως - щититель, витѧзь, свѧтии
 * θάνατος - смрьть
 * θεός - богъ
 * θεωρία - зрѣніє
