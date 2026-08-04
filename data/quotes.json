@@ -6,7 +6,7 @@
     "el": "Πάντα χρήματα ἦν ὁμοῦ· εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε.",
     "author": "Anaksagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.6",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:59"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:59#Πάντα"
   },
   {
     "type": "quote",
@@ -177,7 +177,7 @@
     "el": "Τοὺς παῖδας ἐν ᾧ ἂν ἀποθάνῃ μηνὶ κατ' ἔτος παίζειν συγχωρεῖν.",
     "author": "Anaksagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.14",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:90"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:90#Τοὺς "
   },
   {
     "type": "anecdote",
@@ -192,37 +192,41 @@
     "type": "anecdote",
     "sr": "Anaksagora je svoje veliko nasledstvo prepustio rođacima i povukao se iz javnog života da bi istraživao prirodu. Kada su ga optužili da zanemaruje imanje, odgovorio je: ‘Zašto se onda vi ne starate o njemu?’ Na pitanje zar se ne stara o otadžbini, pokazao je prema nebu.",
     "stsl": "Анаксагора велико наслѣдиє своє сродникомъ остави и отъ общаго живота отъстѫпи · да єстество испытѹєть · Єгда єго обвиниша · ꙗко имѣніє небрежеть · отвѣща · Что же вы не печете сѧ о немь · Въпрошенъ · аще о отечьствѣ не печеть сѧ · на небо показа ·",
+    "el": "Οὗτος εὐγενείᾳ καὶ πλούτῳ διαφέρων ἦν, ἀλλὰ καὶ μεγαλοφροσύνῃ, ὅς γε τὰ πατρῷα τοῖς οἰκείοις παρεχώρησε. Αἰτιαθεὶς γὰρ ὑπ’ αὐτῶν ὡς ἀμελῶν, « Τί οὖν, » ἔφη, « οὐχ ὑμεῖς ἐπιμελεῖσθε; » Καὶ τέλος ἀπέστη καὶ περὶ τὴν τῶν φυσικῶν θεωρίαν ἦν, οὐ φροντίζων τῶν πολιτικῶν. Ὅτε καὶ πρὸς τὸν εἰπόντα, « Οὐδέν σοι μέλει τῆς πατρίδος; », « Εὐφήμει, » ἔφη, « ἐμοὶ γὰρ καὶ σφόδρα μέλει τῆς πατρίδος, » Δείξας τὸν οὐρανόν.",
     "author": "Anaksagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.7",
     "year": -486,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:67"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:67#Οὗτος"
   },
   {
     "type": "anecdote",
     "sr": "Pošto je učenju dao Um kao počelo koje uređuje tvar, Anaksagora je i sam dobio nadimak ‘Um’.",
     "stsl": "Понеже въ ѹчєнии ѹмъ начѧломъ · вештество ѹстроѧѭштимъ · положи · и самъ Анаксагора прозваніє Умъ приѧтъ ·",
+    "el": "Οὗτος ἤκουσεν Ἀναξιμένους, καὶ πρῶτος τῇ ὕλῃ νοῦν ἐπέστησεν, ἀρξάμενος οὕτω τοῦ συγγράμματος, ὅ ἐστιν ἡδέως καὶ μεγαλοφρόνως ἡρμηνευμένον· « Πάντα χρήματα ἦν ὁμοῦ· » εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε. Παρὸ καὶ Νοῦς ἐπεκλήθη.",
     "author": "Anaksagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.6",
     "year": -471,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:59"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:59#Οὗτος"
   },
   {
     "type": "anecdote",
     "sr": "Anaksagora je prvi tvrdio da Homerova poezija govori o vrlini i pravdi, a njegov prijatelj Metrodor iz Lampsaka dalje je razvio takvo tumačenje. Pripisuje mu se i prvo objavljivanje knjige sa crtežima.",
     "stsl": "Анаксагора пьрвъ ѹтврьди · ꙗко Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть · дрѹгъ же єго Метродоръ Лампсакьскыи таково тълкованіє далѣє разви · Ємѹ же и пьрвоє изданіє книгы съ начрътании приписѹєть сѧ ·",
+    "el": "Δοκεῖ δὲ πρῶτος, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης· ἐπὶ πλεῖον δὲ προστῆναι τοῦ λόγου Μητρόδωρον τὸν Λαμψακηνόν, γνώριμον ὄντα αὐτοῦ, ὃν καὶ πρῶτον σπουδάσαι τοῦ ποιητοῦ περὶ τὴν φυσικὴν πραγματείαν. Πρῶτος δὲ Ἀναξαγόρας καὶ βιβλίον ἐξέδωκε συγγραφῆς.",
     "author": "Anaksagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.11",
     "year": -457,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:78"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:78#Δοκεῖ"
   },
   {
     "type": "anecdote",
     "sr": "Anaksagori se pripisivalo da je predvideo pad meteorskog kamena kod Egospotama, tvrdeći da će pasti sa Sunca. Kada je došao na Olimpiju, seo je ogrnut ovčjom kožom kao da očekuje kišu; ubrzo je zaista pala.",
     "stsl": "Анаксагорѣ приписѹєть сѧ · ꙗко паденіє небесьнаго камене при Егоспотамѣ прорече · глаголѧ · ꙗко отъ слъньца падеть · Єгда же въ Олимпиѭ прииде · овьчею кожею обложенъ сѣде · ꙗко дъжда чаѧ · въскорѣ же дъждь истиньно паде ·",
+    "el": "Φασὶ δ' αὐτὸν προειπεῖν τὴν περὶ Αἰγὸς ποταμοὺς γενομένην τοῦ λίθου πτῶσιν, ὃν εἶπεν ἐκ τοῦ ἡλίου πεσεῖσθαι. Ὅθεν καὶ Εὐριπίδην, μαθητὴν ὄντα αὐτοῦ, χρυσέαν βῶλον εἰπεῖν τὸν ἥλιον ἐν τῷ Φαέθοντι. Ἀλλὰ καὶ εἰς Ὀλυμπίαν ἐλθόντα ἐν δερματίνῳ καθίσαι, ὡς μέλλοντος ὕσειν· καὶ γενέσθαι.",
     "author": "Anaksagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.10",
     "year": -442,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:76"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:76#Φασὶ "
   },
   {
     "type": "anecdote",
@@ -237,19 +241,21 @@
     "type": "anecdote",
     "sr": "Kada su mu istovremeno javili da je osuđen i da su mu sinovi umrli, Anaksagora je smireno odgovorio da je priroda odavno osudila na smrt i sudije i njega, a da je znao kako su mu deca rođena smrtna. Svoje sinove sahranio je vlastitim rukama.",
     "stsl": "Єгда ємѹ въкѹпѣ възвѣстиша · ꙗко осѫжденъ єсть и сынове єго ѹмрѣша · Анаксагора тихо отвѣща · ꙗко єстество издавьна и сѫдиѩ и єго на смрьть осѫди · и ꙗко вѣдѣаше дѣти своѩ смрьтны рождены · Своима рѫкама сыны своѩ погребе ·",
+    "el": "Ὅτε καὶ ἀμφοτέρων αὐτῷ προσαγγελέντων, τῆς τε καταδίκης καὶ τῆς τῶν παίδων τελευτῆς, εἰπεῖν περὶ μὲν τῆς καταδίκης, ὅτι ἄρα « Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο, » περὶ δὲ τῶν παίδων, ὅτι « Ἤδειν αὐτοὺς θνητοὺς γεννήσας. » Τοῦτον δὲ καὶ θάψαι ταῖς ἰδίαις χερσὶν αὐτοὺς Δημήτριός φησίν ὁ Φαληρεὺς ἐν τῷ Περὶ γήρως.",
     "author": "Anaksagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.13",
     "year": -428,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:88"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:88#Ὅτε κ"
   },
   {
     "type": "anecdote",
     "sr": "Pred smrt u Lampsaku gradski poglavari pitali su Anaksagoru šta želi da učine za njega. Zamolio je da se dečacima svake godine dopusti igra u mesecu njegove smrti. Lampsačani su taj običaj nastavili i posle njegove časne sahrane.",
-    "stsl": "Предъ смрьтию въ Лампсакѣ градьскыи начѧлници вопросиша Анаксагорѹ · что желаєть да сътворѧть ємѹ · Проси · да отрокомъ на всѧко лѣто играти позволѧть въ мѣсѧци смрьти єго · Лампсакѧне обычаи сии и по чьстьнѣмь погребении єго съхраниша ·",
+    "stsl": "Предъ смрьтию въ Лампсакѣ градьскыи начѧлници вопросиша Анаксагорѹ · што желаєть да сътворѧть ємѹ · Проси · да отрокомъ на всѧко лѣто играти позволѧть въ мѣсѧци смрьти єго · Лампсакѧне обычаи сии и по чьстьнѣмь погребении єго съхраниша ·",
+    "el": "Ὅτε καὶ τῶν ἀρχόντων τῆς πόλεως ἀξιούντων τί βούλεται αὐτῷ γενέσθαι, φάναι, « Τοὺς παῖδας ἐν ᾧ ἂν ἀποθάνῃ μηνὶ κατ' ἔτος παίζειν συγχωρεῖν. » Καὶ φυλάττεται τὸ ἔθος καὶ νῦν.",
     "author": "Anaksagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.14–15",
     "year": -428,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:90"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:90#Ὅτε κ"
   },
   {
     "type": "quote",
@@ -264,9 +270,10 @@
     "type": "reported",
     "sr": "Anaksimander je govorio da se pojedinačne stvari menjaju, dok bezgranično ostaje nepromenjeno.",
     "stsl": "Анаксимандръ глаголаше ꙗко различьнаꙗ вѣщи прѣмѣнѧють сѧ · безмѣрьноє же пребываєть непрѣмѣнно ·",
+    "el": "καὶ τὰ μὲν μέρη μεταβάλλειν, τὸ δὲ πᾶν ἀμετάβλητον εἶναι.",
     "author": "Anaksimander",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:3"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#καὶ τ"
   },
   {
     "type": "quote",
@@ -299,10 +306,11 @@
     "type": "anecdote",
     "sr": "Prvi je uveo gnomon i postavio ga u Lakedemonu da obeležava solsticije i ravnodnevice; pravio je i časovnike.",
     "stsl": "Пьрвъ обрѣте слъньцѣпоказъ и постави и въ Лакедемонѣ · да знаменаѥтъ слъньчьнѣѧ повороты и равноденьѥ · сътвори же и часомѣры ·",
+    "el": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τροπάς τε καὶ ἰσημερίας σημαίνοντα· καὶ ὡροσκόπια κατεσκεύασε.",
     "author": "Anaksimander",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1–II.2",
     "year": -610,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:3"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#Εὗρεν"
   },
   {
     "type": "bio",
@@ -316,7 +324,8 @@
   {
     "type": "anecdote",
     "sr": "Kad su mu se dečaci podsmevali zbog pevanja, rekao je: Onda moram bolje pevati da ugodim dečacima.",
-    "stsl": "Єгда отроци порѹгаахѫ сѧ єго пѣнию · рече · Подобаєть ми лѹчьше пѣти · да ѹгодѫ отрокомъ ·",
+    "stsl": "Єгда отроци порѹгаахѫ сѧ єго пѣнію · рече · Подобаєть ми лѹчьше пѣти · да ѹгодѫ отрокомъ ·",
+    "el": "τούτου φασὶν ᾄδοντος καταγελάσαι τὰ παιδάρια, τὸν δὲ μαθόντα φάναι, « βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια. »",
     "author": "Anaksimander",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.2",
     "year": -546,
@@ -353,6 +362,7 @@
     "type": "reported",
     "sr": "Anaksimen je u pismu Talesu napisao da su Milećani izgubili svog zvezdoznanca.",
     "stsl": "Анаксименъ въ послании къ Фалесѹ написа · ꙗко Мілєтѧне лишишасѧ своєго звѣздочѧтца ·",
+    "el": "Θαλῆς Ἐξαμύου ἐπὶ γήρως οὐκ εὔποτμος οἴχεται· εὐφρόνης, ὥσπερ ἐώθει, ἅμα τῇ ἀμφιπόλῳ προϊὼν ἐκ τοῦ αὐλίου τὰ ἄστρα ἐθηεῖτο· καὶ-οὐ γὰρ ἐς μνήμην ἔθετο-θηεύμενος ἐς τὸ κρημνῶδες ἐκβὰς καταπίπτει. Μιλησίοισι μέν νυν ὁ αἰθερολόγος ἐν τοιῷδε κεῖται τέλει.",
     "author": "Anaksimen",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.4",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:25"
@@ -739,9 +749,10 @@
     "type": "reported",
     "sr": "Antisten je ironično govorio da je Anit mudriji od Sokrata.",
     "stsl": "Антисѳенъ посмѣвьно глаголаше · ꙗко Анитъ мѫдрѣиши Сократа єсть ·",
+    "el": "Ποντικοῖς γὰρ νεανίσκοις κατὰ κλέος τοῦ Σωκράτους ἀφιγμένοις περιτυχὼν ἀπήγαγεν αὐτοὺς πρὸς τὸν Ἄνυτον, εἰπὼν ἐν ἤθει σοφώτερον εἶναι τοῦ Σωκράτους.",
     "author": "Antisten",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.10",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:30"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:30#Ποντι"
   },
   {
     "type": "quote",
@@ -981,55 +992,61 @@
     "type": "anecdote",
     "sr": "Antisten nije bio čistog atičkog porekla; majka mu je, prema predanju, bila Tračanka. Kada se istakao u bici kod Tanagre, Sokrat je primetio da ne bi bio tako hrabar da su mu oba roditelja Atinjani. Antisten je ruganje poreklu odbijao podsećanjem da je i majka bogova Frigijka.",
     "stsl": "Антисѳенъ чистаго Атиньскаго рода не бѣ · мати єго · по прѣданию · Ѳракииска бѣ · Єгда въ брани при Танагрѣ прослави сѧ · Сократъ примѣти · ꙗко не былъ бы толико храбръ · аште бы оба родителѧ єго Атинѧнина бѣста · Антисѳенъ рѹганіє родѹ отъмѣтааше · поминаѧ · ꙗко и мати боговъ Фрѵгииска єсть ·",
+    "el": "Ἐλέγετο δ' οὐκ εἶναι ἰθαγενής· ὅθεν καὶ πρὸς τὸν ὀνειδίζοντα εἰπεῖν, « Καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν. » Ἐδόκει γὰρ εἶναι Θρᾴττης μητρός· ὅθεν καὶ ἐν Τανάγρᾳ κατὰ τὴν μάχην εὐδοκιμήσας ἔδωκε λέγειν Σωκράτει ὡς οὐκ ἂν ἐκ δυοῖν Ἀθηναίων οὕτω γεγόνοι γενναῖος.",
     "author": "Antisten",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.1",
     "year": -446,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:3"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:3#Ἐλέγε"
   },
   {
     "type": "anecdote",
     "sr": "Antisten je najpre bio Gorgijin učenik, a zatim se pridružio Sokratu. Svakoga dana je iz Pireja pešačio oko osam kilometara do Atine da ga sluša. Od Sokrata je preuzeo izdržljivost i ravnodušnost prema telesnim tegobama i time započeo kinički način života.",
     "stsl": "Антисѳенъ пьрво Горгиєвъ ѹченикъ бѣ · потомь же къ Сократѹ приста · На вьсѧкъ дьнь отъ Пиреꙗ около осми попришть до Атинъ пѣшь ходѧаше · да єго слѹшаеть · Отъ Сократа тръпѣніє и небреженіє тѣлесьныхъ тѧготъ приѩтъ и тѣмь пъсьскыи образъ живота нача ·",
+    "el": "Οὗτος κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος. Ὕστερον δὲ παρέβαλε Σωκράτει, καὶ τοσοῦτον ὤνατο αὐτοῦ, ὥστε παρῄνει τοῖς μαθηταῖς γενέσθαι αὐτῷ πρὸς Σωκράτην συμμαθητάς. Οἰκῶν τ' ἐν Πειραιεῖ καθ' ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους, παρ' οὗ καὶ τὸ καρτερικὸν λαβὼν καὶ τὸ ἀπαθὲς ζηλώσας κατῆρξε πρῶτος τοῦ κυνισμοῦ.",
     "author": "Antisten",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.2",
     "year": -436,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:8"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:8#Οὗτος"
   },
   {
     "type": "anecdote",
     "sr": "Antisten je nameravao da na Istamskim igrama javno govori o manama i vrlinama Atinjana, Tebanaca i Spartanaca. Kada je video da iz tih gradova pristižu velike gomile ljudi, odustao je od govora.",
     "stsl": "Антисѳенъ на Истмиискыхъ играхъ всенародьно о пороцѣхъ и добродѣтелѣхъ Атинѧнъ · Ѳивѧнъ и Спартѧнъ глаголати хотѣ · Єгда видѣ велика множьства отъ тѣхъ градовъ приходѧшта · отъ бесѣды отъстѫпи ·",
+    "el": "φησὶ δ' Ἕρμιππος ὅτι προείλετο ἐν τῇ τῶν Ἰσθμίων πανηγύρει ψέξαι τε καὶ ἐπαινέσαι Ἀθηναίους, Θηβαίους, Λακεδαιμονίους· εἶτα μέντοι παραιτήσασθαι ἰδόντα πλείους ἐκ τῶν πόλεων ἀφιγμένους.",
     "author": "Antisten",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.2",
     "year": -420,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:8"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:8#φησὶ "
   },
   {
     "type": "anecdote",
     "sr": "Antisten se smatrao odgovornim za Anitovo progonstvo i Meletovo pogubljenje. Mladiće iz Ponta koji su došli zbog Sokratove slave odveo je Anitu i ironično ga predstavio kao mudrijeg od Sokrata; ogorčeni mladići potom su Anita isterali iz grada.",
     "stsl": "Антисѳенъ виновьникомъ Анитова изгнаниꙗ и Мелетова погѹблениꙗ мьнѣаше сѧ · Юношы отъ Понта · Сократовы славы ради пришедъшыѩ · къ Анитѹ приведе и посмѣвьно єго мѫдрѣиша Сократа нарече · разгнѣвании юношы потомь Анита отъ града изгнаша ·",
+    "el": "Αὐτὸς δὲ καὶ Ἀνύτῳ τῆς φυγῆς αἴτιος γενέσθαι δοκεῖ καὶ Μελήτῳ τοῦ θανάτου. Ποντικοῖς γὰρ νεανίσκοις κατὰ κλέος τοῦ Σωκράτους ἀφιγμένοις περιτυχὼν ἀπήγαγεν αὐτοὺς πρὸς τὸν Ἄνυτον, εἰπὼν ἐν ἤθει σοφώτερον εἶναι τοῦ Σωκράτους· ἐφ' ᾧ διαγανακτήσαντας τοὺς περιεστῶτας ἐκδιῶξαι αὐτόν.",
     "author": "Antisten",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.9–10",
     "year": -399,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:26"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:26#Αὐτὸς"
   },
   {
     "type": "anecdote",
     "sr": "Antisten se često rugao Platonovoj oholosti. Pokazao mu je razmetljivog konja kao njegovu sliku, a kada je bolesnom Platonu video posudu sa izbljuvkom, rekao je da vidi žuč, ali ne i oholost. Posle rasprave o nemogućnosti protivrečenja napisao je protiv Platona dijalog Saton i njih dvojica su ostala zavađena.",
     "stsl": "Антисѳенъ чѧсто Платоновои гордости рѹгаше сѧ · Величаваго конѧ ємѹ ꙗко образъ єго показа · єгда же при болѧштемь Платонѣ съсѫдъ съ избльванымъ видѣ · рече · ꙗко жлъчь видить · гордости же не видить · По прѣнии о невъзможьности противорѣчениꙗ противѹ Платона бесѣдꙫ Сатонъ написа · и оба въ враждѣ прѣбыста ·",
+    "el": "Ἔσκωπτέ τε Πλάτωνα ὡς τετυφωμένον. Πομπῆς γοῦν γενομένης ἵππον θεασάμενος φρυακτήν φησι πρὸς τὸν Πλάτωνα, « Ἐδόκεις μοι καὶ σὺ ἵππος ἂν εἶναι λαμπρυντής. » Καί ποτ' ἐλθὼν πρὸς αὐτὸν νοσοῦντα καὶ θεασάμενος λεκάνην ἔνθα ὁ Πλάτων ἐμημέκει ἔφη, « Χολὴν μὲν ὁρῶ ἐνταῦθα, τῦφον δὲ οὐχ ὁρῶ. »",
     "author": "Antisten",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.35; VI.7",
     "year": -392,
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:353"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:353#Ἔσκωπ"
   },
   {
     "type": "anecdote",
     "sr": "Antisten je razgovarao u Kinosargu, vežbalištu po kojem je, prema nekima, kinička škola dobila ime. Prvi je ogrtač presavio nadvoje i zadovoljio se tom jedinom odećom, a nosio je štap i torbu. Zvali su ga jednostavno Pas.",
     "stsl": "Антисѳенъ въ ѹчилишти Кѵносаргѣ бесѣдоваше · отъ него же · по нѣкоторымъ · пъсьскоє ѹчилиште имѧ приѩтъ · Пьрвыи плашть вдвое сложи и тою єдиною одеждою доволєнъ бѣ · жезлъ же и торбꙫ носѧаше · Просто Пьсъ нарицаахѫ єго ·",
+    "el": "Διελέγετο δ' ἐν τῷ Κυνοσάργει γυμνασίῳ μικρὸν ἄπωθεν τῶν πυλῶν· ὅθεν τινὲς καὶ τὴν κυνικὴν ἐντεῦθεν ὀνομασθῆναι. Αὐτός τ' ἐπεκαλεῖτο Ἁπλοκύων. Καὶ πρῶτος ἐδίπλωσε τὸν τρίβωνα, καθά φησι Διοκλῆς, καὶ μόνῳ αὐτῷ ἐχρῆτο· βάκτρον τ' ἀνέλαβε καὶ πήραν.",
     "author": "Antisten",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.13",
     "year": -390,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:38"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:38#Διελέ"
   },
   {
     "type": "anecdote",
@@ -1431,9 +1448,10 @@
     "type": "reported",
     "sr": "Aristip je govorio da ljudi pri kupovini proveravaju da li posuđe dobro zvoni, a život prosuđuju bez ikakvog merila.",
     "stsl": "Аристипъ глаголаше ꙗко чловѣци при кѹповании искѹшаѭть · добро ли съсѫди звѧчѧть · жизнь же безъ мѣрила сѫдѧть ·",
+    "el": "Κατεγίνωσκε τῶν ἀνθρώπων ὡς τὰ σκεύη μὲν ἐν ταῖς ἀγορασίαις κομπούντων, τοὺς δὲ βίους εἰκῆ δοκιμαζόντων.",
     "author": "Aristip",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.78",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:463"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:463#Κατεγ"
   },
   {
     "type": "quote",
@@ -1565,6 +1583,7 @@
     "type": "reported",
     "sr": "Aristip je govorio da je Sokrat gajio najnežniju ljubav prema Alkibijadu.",
     "stsl": "Аристипъ глаголаше · ꙗко Сократъ наинѣжьнѣишꙫ любовь къ Алкивиадѹ имѣаше ·",
+    "el": "οὗ καὶ ἐρασθῆναί φησίν αὐτὸν Ἀρίστιππος ἐν τετάρτῳ Περὶ παλαιᾶς τρυφῆς.",
     "author": "Aristip",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.23",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:166"
@@ -1600,6 +1619,7 @@
     "type": "reported",
     "sr": "Aristip je govorio da je Pausanija bio Empedoklov prisni prijatelj.",
     "stsl": "Аристипъ глаголаше · ꙗко Павсании Ємпедокловъ ближьнии дрѹгъ бѣ ·",
+    "el": "ἦν δ' ὁ Παυσανίας, ὥς φησιν Ἀρίστιππος καὶ Σάτυρος, ἐρώμενος αὐτοῦ.",
     "author": "Aristip",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.60",
     "pointer": "data/sources/diogenes-laertius/el/09.txt:723"
@@ -2168,9 +2188,10 @@
     "type": "reported",
     "sr": "Bijant je govorio da i slučaj mnogima donosi obilje bogatstva.",
     "stsl": "Биантъ глаголаше · ꙗко и слѹчаи многымъ обилиє богатства приносить ·",
+    "el": "Εὐπορίαν δὲ χρημάτων πολλοῖς καὶ διὰ τύχην περιγίνεσθαι.",
     "author": "Bijant",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.86",
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:768"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Εὐπορ"
   },
   {
     "type": "quote",
@@ -2212,19 +2233,21 @@
     "type": "anecdote",
     "sr": "Jednom je putovao brodom s bezbožnim ljudima. Kada je nastala oluja i oni su počeli da dozivaju bogove, Bijant im je rekao: Ćutite, da bogovi ne čuju i ne saznaju da ste i vi na brodu.",
     "stsl": "Єдиною плы на кораблѣ съ нечьстивыми чловѣки · Єгда же бѹрѩ настала єсть и они начашѹ призыва̀ти богы · Биантъ рече имъ · Млъчите · да бози не ѹслышѧть и не ѹвѣдѧть · ꙗко и вы въ корабли єсте ·",
+    "el": "Συμπλέων ποτὲ ἀσεβέσι, χειμαζομένης τῆς νεὼς κἀκείνων τοὺς θεοὺς ἐπικαλουμένων, « Σιγᾶτε, » ἔφη, « μὴ αἴσθωνται ὑμᾶς ἐνθάδε πλέοντας. »",
     "author": "Bijant",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.86",
     "year": -578,
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:768"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Συμπλ"
   },
   {
     "type": "anecdote",
     "sr": "Jedan bezbožan čovek upitao ga je šta je pobožnost. Bijant je ćutao. Kada ga je upitao zašto ćuti, odgovorio je: Ćutim zato što pitaš o onome što te se ne tiče.",
     "stsl": "Нечьстивъ нѣкыи вопроси єго о благочьстии · Биантъ же ѹмлъча · Єгда же тотъ вопроси · почто мълчитъ · отвѣща · Млъчѫ · зане въпрашаєши о томь · єже тебѣ не надлежить ·",
+    "el": "Ἐρωτηθεὶς ὑπὸ ἀσεβοῦς ἀνθρώπου τί ποτέ ἐστιν εὐσέβεια, ἐσίγα. Τοῦ δὲ τὴν αἰτίαν τῆς σιγῆς πυθομένου, « Σιωπῶ, » ἔφη, « ὅτι περὶ τῶν οὐδέν σοι προσηκόντων πυνθάνῃ. »",
     "author": "Bijant",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.86",
     "year": -562,
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:768"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Ἐρωτη"
   },
   {
     "type": "anecdote",
@@ -3300,9 +3323,9 @@
   },
   {
     "type": "quote",
-    "sr": "Bilo bi dobro kada bi se svi odrasli Efesci obesili i grad prepustili golobradim dečacima, zato što su izgnali Hermodora, najboljeg među njima, govoreći: 'Nećemo imati nikoga među nama ko je najbolji; a ako takav postoji, neka ode drugde i druži se sa drugima.'",
-    "stsl": "Добро бы было · аще бы вси мѫжи Ефескиѥ повѣсили сѧ и градъ отдали отрокомъ безбраднымъ · понеже изгнаша Хермодора · лѹчьшаго межи ними · глаголюще · 'Никтоже да бѹдеть межи нами наилѹчшии · аще же таковъ єсть · да идеть инѫдѹ и съ иными пребываєть · ' ·",
-    "el": "ἄξιον Ἐφεσίοις ἡβηδὸν ἀπάγξασθαι πᾶσι καὶ τοῖς ἀνήβοις τὴν πόλιν καταλιπεῖν, οἵτινες Ἑρμόδωρον ἄνδρα ἑωυτῶν ὀνήιστον ἐξέβαλον λέγοντες, Ἡμέων μηδὲ εἷς ὀνήιστος ἔστω· εἰ δέ τις τοιοῦτος, ἄλλῃ τε καὶ μετ' ἄλλων.",
+    "sr": "Bilo bi dobro kada bi se svi odrasli Efesci obesili i grad prepustili golobradim dečacima, zato što su izgnali Hermodora, najboljeg među njima, govoreći: Nećemo imati nikoga među nama ko je najbolji; a ako takav postoji, neka ode drugde i druži se sa drugima.",
+    "stsl": "Добро бы было · аще бы вси мѫжи Ефескиѥ повѣсили сѧ и градъ отдали отрокомъ безбраднымъ · понеже изгнаша Хермодора · лѹчьшаго межи ними · глаголюще · Никтоже да бѹдеть межи нами наилѹчшии · аще же таковъ єсть · да идеть инѫдѹ и съ иными пребываєть ·",
+    "el": "ἄξιον Ἐφεσίοις ἡβηδὸν ἀπάγξασθαι πᾶσι καὶ τοῖς ἀνήβοις τὴν πόλιν καταλιπεῖν, οἵτινες Ἑρμόδωρον ἄνδρα ἑωυτῶν ὀνήιστον ἐξέβαλον λέγοντες, Ἡμέων μηδὲ εἷς ὀνήιστος ἔστω· εἰ δέ τις τοιοῦτος, ἄλλῃ τε καὶ μετ ἄλλων.",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.2",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:5#ἄξιον"
@@ -3320,7 +3343,7 @@
     "type": "quote",
     "sr": "Samoljublje je sveta bolest, a vid lažno čulo.",
     "stsl": "Самомьнѣние єсть свѧтаꙗ болѣзнь · зрѣние же · лъжьное чѹвьство ·",
-    "el": "τήν τ' οἴησιν ἱερὰν νόσον ἔλεγε καὶ τὴν ὅρασιν ψεύδεσθαι.",
+    "el": "τήν τ οἴησιν ἱερὰν νόσον ἔλεγε καὶ τὴν ὅρασιν ψεύδεσθαι.",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.7",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:35#τήν τ"
@@ -3329,7 +3352,7 @@
     "type": "quote",
     "sr": "Svi ljudi na zemlji okrenuli su se od istine i pravde te se, vođeni zlom bezumnošću, predaju pohlepi i žeđi za slavom. Ja pak, zaboravljajući svako zlo, kloneći se opšte zasićenosti koja je u bliskom srodstvu sa zavišću, i gnušajući se sjaja, ne mogu doći u Persiju — zadovoljan malim, kada je to malo po mojoj volji.",
     "stsl": "Вьси чловѣцы на земли отвратишасѧ отъ истины и правды · и злою безѹмиємь водими · предашасѧ лихоимьствѹ и жажди славы · Азъ же · забываѧ вьсꙗко зло · бѣгаѧ общаго насыщеньꙗ · иже зависти сродно єсть · и гнѹшаѧсѧ блистаниꙗ · не могѹ приити въ Персиду · доволенъ малымь · єгда малое то по воли моей єсть ·",
-    "el": "ὁκόσοι τυγχάνουσιν ὄντες ἐπιχθόνιοι τῆς μὲν ἀληθηίης καὶ δικαιοπραγμοσύνης ἀπέχονται, ἀπληστίῃ δὲ καὶ δοξοκοπίῃ προσέχουσι κακῆς ἕνεκα ἀνοίης. ἐγὼ δ' ἀμνηστίην ἔχων πάσης πονηρίης καὶ κόρον φεύγων παντὸς οἰκειούμενον φθόνῳ καὶ διὰ τὸ περιίστασθαι ὑπερηφανίην οὐκ ἂν ἀφικοίμην εἰς Περσῶν χώρην, ὀλίγοις ἀρκεόμενος κατ' ἐμὴν γνώμην.",
+    "el": "ὁκόσοι τυγχάνουσιν ὄντες ἐπιχθόνιοι τῆς μὲν ἀληθηίης καὶ δικαιοπραγμοσύνης ἀπέχονται, ἀπληστίῃ δὲ καὶ δοξοκοπίῃ προσέχουσι κακῆς ἕνεκα ἀνοίης. ἐγὼ δ ἀμνηστίην ἔχων πάσης πονηρίης καὶ κόρον φεύγων παντὸς οἰκειούμενον φθόνῳ καὶ διὰ τὸ περιίστασθαι ὑπερηφανίην οὐκ ἂν ἀφικοίμην εἰς Περσῶν χώρην, ὀλίγοις ἀρκεόμενος κατ ἐμὴν γνώμην.",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.14",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:57"
@@ -3346,7 +3369,7 @@
     "type": "quote",
     "sr": "Sve je sastavljeno od ognja i sve se u oganj razlaže; sve nastaje po sudbini, a bića se usklađuju sukobom suprotnih tokova. Sve je puno duša i božanstava, a Sunce nije veće nego što izgleda.",
     "stsl": "Вьсѧ отъ огнѧ съставлена сѫть и въ огнь разлагаѭть сѧ · вьсѧ по сѫдьбѣ бываѭть · сѫшта же противьныхъ течении съвъзаниемъ съглашаѭть сѧ · Вьсѧ дѹшъ и божьствъ пълна сѫть · слъньце же не велиє єсть · нежели ꙗвлѧєть сѧ ·",
-    "el": "ἐκ πυρὸς τὰ πάντα συνεστάναι καὶ εἰς τοῦτο ἀναλύεσθαι· πάντα δὲ γίνεσθαι καθ' εἱμαρμένην καὶ διὰ τῆς ἐναντιοδρομίας ἡρμόσθαι τὰ ὄντα· καὶ πάντα ψυχῶν εἶναι καὶ δαιμόνων πλήρη. εἴρηκε δὲ καὶ περὶ τῶν ἐν κόσμῳ συνισταμένων πάντων παθῶν, ὅτι τε ὁ ἥλιός ἐστι τὸ μέγεθος οἷος φαίνεται.",
+    "el": "ἐκ πυρὸς τὰ πάντα συνεστάναι καὶ εἰς τοῦτο ἀναλύεσθαι· πάντα δὲ γίνεσθαι καθ εἱμαρμένην καὶ διὰ τῆς ἐναντιοδρομίας ἡρμόσθαι τὰ ὄντα· καὶ πάντα ψυχῶν εἶναι καὶ δαιμόνων πλήρη. εἴρηκε δὲ καὶ περὶ τῶν ἐν κόσμῳ συνισταμένων πάντων παθῶν, ὅτι τε ὁ ἥλιός ἐστι τὸ μέγεθος οἷος φαίνεται.",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.7",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:35#ἐκ πυ"
@@ -3355,7 +3378,7 @@
     "type": "quote",
     "sr": "Oganj je element, a sve stvari razmena su za oganj i nastaju razređivanjem i zgušnjavanjem. Sve nastaje sukobom suprotnosti i celina teče poput reke. Postoji jedan ograničen svet koji se u večnim, sudbinom određenim razdobljima rađa iz ognja i ponovo u oganj vraća.",
     "stsl": "Огнь єсть пьрвосъставъ · вьсѧ же вѣшти мѣна за огнь сѫть и разрѣжденіємъ и съгѫштеніємъ бываѭть · Вьсѧ противьныхъ съпрѣніємъ бываѭть · цѣлое же ꙗко рѣка течеть · Єдинъ прѣдѣльнъ миръ єсть · иже въ вѣчьныхъ · сѫдьбою ѹставленыихъ врѣменѣхъ отъ огнѧ раждаєть сѧ и пакы въ огнь възвраштаєть сѧ ·",
-    "el": "πῦρ εἶναι στοιχεῖον καὶ πυρὸς ἀμοιβὴν τὰ πάντα, ἀραιώσει καὶ πυκνώσει γινόμενα. γίνεσθαί τε πάντα κατ' ἐναντιότητα καὶ ῥεῖν τὰ ὅλα ποταμοῦ δίκην, πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον· γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα· τοῦτο δὲ γίνεσθαι καθ' εἱμαρμένην.",
+    "el": "πῦρ εἶναι στοιχεῖον καὶ πυρὸς ἀμοιβὴν τὰ πάντα, ἀραιώσει καὶ πυκνώσει γινόμενα. γίνεσθαί τε πάντα κατ ἐναντιότητα καὶ ῥεῖν τὰ ὅλα ποταμοῦ δίκην, πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον· γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα· τοῦτο δὲ γίνεσθαι καθ εἱμαρμένην.",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.8",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:37#πῦρ ε"
@@ -3364,7 +3387,7 @@
     "type": "quote",
     "sr": "Među suprotnostima ono što vodi nastanku naziva se ratom i razdorom, a ono što vodi sagorevanju saglasnošću i mirom. Promena je put nagore i nadole kojim svet nastaje.",
     "stsl": "Въ противьныхъ єже къ бытию водить · бранию и раздоромъ нарицаєть сѧ · єже къ съгорѣнию водить · съгласиємъ и миромъ · Прѣмѣна єсть пѫть горѣ и долѣ · имьже миръ бываєть ·",
-    "el": "τὸ μὲν ἐπὶ τὴν γένεσιν ἄγον καλεῖσθαι πόλεμον καὶ ἔριν, τὸ δ' ἐπὶ τὴν ἐκπύρωσιν ὁμολογίαν καὶ εἰρήνην, καὶ τὴν μεταβολὴν ὁδὸν ἄνω κάτω.",
+    "el": "τὸ μὲν ἐπὶ τὴν γένεσιν ἄγον καλεῖσθαι πόλεμον καὶ ἔριν, τὸ δ ἐπὶ τὴν ἐκπύρωσιν ὁμολογίαν καὶ εἰρήνην, καὶ τὴν μεταβολὴν ὁδὸν ἄνω κάτω.",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.8",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:37#τὸ μὲ"
@@ -3373,7 +3396,7 @@
     "type": "quote",
     "sr": "Na putu nadole oganj se zgušnjava u vlagu, vlaga u vodu, a voda u zemlju; na putu nagore zemlja se rastvara u vodu i dalje u ostalo. Isparenja iz mora su svetla i čista, ona iz zemlje tamna; od svetlih se hrani oganj, od tamnih vlaga. Svetla isparenja skupljaju se u nebeskim udubljenjima i obrazuju zvezde.",
     "stsl": "На пѫти долѣ огнь съгѫштаєть сѧ въ влагꙫ · влага въ водꙫ · вода же въ землꙫ · на пѫти горѣ землѧ разливаєть сѧ въ водꙫ и далѣє въ ина · Испарениꙗ отъ морѧ свѣтла и чиста сѫть · отъ земли же темьна · свѣтлыими огнь питаеть сѧ · темьныими же влага · Свѣтла испарениꙗ въ небесьныхъ вглѫблениихъ събираѭть сѧ и звѣзды творѧть ·",
-    "el": "Πυκνούμενον γὰρ τὸ πῦρ ἐξυγραίνεσθαι συνιστάμενόν τε γίνεσθαι ὕδωρ, πηγνύμενον δὲ τὸ ὕδωρ εἰς γῆν τρέπεσθαι· καὶ ταύτην ὁδὸν ἐπὶ τὸ κάτω εἶναι. γίνεσθαι δ' ἀναθυμιάσεις ἀπό τε γῆς καὶ θαλάττης, ἃς μὲν λαμπρὰς καὶ καθαράς, ἃς δὲ σκοτεινάς. αὔξεσθαι δὲ τὸ μὲν πῦρ ὑπὸ τῶν λαμπρῶν, τὸ δὲ ὑγρὸν ὑπὸ τῶν ἑτέρων. εἶναι μέντοι ἐν αὐτῷ σκάφας ἐπεστραμμένας κατὰ κοῖλον πρὸς ἡμᾶς, ἐν αἷς ἀθροιζομένας τὰς λαμπρὰς ἀναθυμιάσεις ἀποτελεῖν φλόγας, ἃς εἶναι τὰ ἄστρα.",
+    "el": "Πυκνούμενον γὰρ τὸ πῦρ ἐξυγραίνεσθαι συνιστάμενόν τε γίνεσθαι ὕδωρ, πηγνύμενον δὲ τὸ ὕδωρ εἰς γῆν τρέπεσθαι· καὶ ταύτην ὁδὸν ἐπὶ τὸ κάτω εἶναι. γίνεσθαι δ ἀναθυμιάσεις ἀπό τε γῆς καὶ θαλάττης, ἃς μὲν λαμπρὰς καὶ καθαράς, ἃς δὲ σκοτεινάς. αὔξεσθαι δὲ τὸ μὲν πῦρ ὑπὸ τῶν λαμπρῶν, τὸ δὲ ὑγρὸν ὑπὸ τῶν ἑτέρων. εἶναι μέντοι ἐν αὐτῷ σκάφας ἐπεστραμμένας κατὰ κοῖλον πρὸς ἡμᾶς, ἐν αἷς ἀθροιζομένας τὰς λαμπρὰς ἀναθυμιάσεις ἀποτελεῖν φλόγας, ἃς εἶναι τὰ ἄστρα.",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.9",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:39"
@@ -3382,7 +3405,7 @@
     "type": "quote",
     "sr": "Sunčev plamen je najsvetliji i najtopliji. Mesec je bliži Zemlji, ali prolazi nečistijom oblašću, dok se Sunce kreće čistom i mirnom oblašću na srazmernoj udaljenosti. Pomračenja nastaju kada se nebeske posude okrenu nagore, a Mesečeve mene kada se njegova posuda postepeno obrće.",
     "stsl": "Слъньчьныи пламень наисвѣтлѣиши и наитеплѣиши єсть · Мѣсѧць Земли ближьша єсть · нъ сквръньнѣиштею областию ходить · слъньце же чистою и тихою областию на съразмѣрьнѣмь отъстоꙗнии движеть сѧ · Помрачениꙗ бываѭть · єгда небесьны сѫды горѣ обратѧть сѧ · лѹньны же прѣмѣны · єгда сѫдъ єѧ помалѹ обраштаєть сѧ ·",
-    "el": "λαμπροτάτην δὲ εἶναι τὴν τοῦ ἡλίου φλόγα καὶ θερμοτάτην. τὸν μέντοι ἥλιον ἐν διαυγεῖ καὶ ἀμιγεῖ κινεῖσθαι καὶ σύμμετρον ἀφ' ἡμῶν ἔχειν διάστημα· ἐκλείπειν τε ἥλιον καὶ σελήνην, ἄνω στρεφομένων τῶν σκαφῶν· τούς τε κατὰ μῆνα τῆς σελήνης σχηματισμοὺς γίνεσθαι στρεφομένης ἐν αὐτῇ κατὰ μικρὸν τῆς σκάφης.",
+    "el": "λαμπροτάτην δὲ εἶναι τὴν τοῦ ἡλίου φλόγα καὶ θερμοτάτην. τὸν μέντοι ἥλιον ἐν διαυγεῖ καὶ ἀμιγεῖ κινεῖσθαι καὶ σύμμετρον ἀφ ἡμῶν ἔχειν διάστημα· ἐκλείπειν τε ἥλιον καὶ σελήνην, ἄνω στρεφομένων τῶν σκαφῶν· τούς τε κατὰ μῆνα τῆς σελήνης σχηματισμοὺς γίνεσθαι στρεφομένης ἐν αὐτῇ κατὰ μικρὸν τῆς σκάφης.",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.10",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:41#λαμπρ"
@@ -3398,8 +3421,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "U mladosti je govorio da ništa ne zna, ali kada je odrastao, tvrdio je da zna sve. Ničiji učenik nije bio, već je izjavio da je 'ispitivao sebe samoga' i od sebe samoga sve naučio.",
-    "stsl": "Въ юности глаголааше · ꙗко ничесо же не вѣсть · нъ єгда одрасте · глаголааше ꙗко вьсе вѣсть · Ничиємѹ же ѹченикъ бысть · нъ исповѣдааше · ꙗко 'самъ себе испытовааше' и самъ отъ себе вьсе ѹвѣдѣ ·",
+    "sr": "U mladosti je govorio da ništa ne zna, ali kada je odrastao, tvrdio je da zna sve. Ničiji učenik nije bio, već je izjavio da je ispitivao sebe samoga i od sebe samoga sve naučio.",
+    "stsl": "Въ юности глаголааше · ꙗко ничесо же не вѣсть · нъ єгда одрасте · глаголааше ꙗко вьсе вѣсть · Ничиємѹ же ѹченикъ бысть · нъ исповѣдааше · ꙗко самъ себе испытовааше и самъ отъ себе вьсе ѹвѣдѣ ·",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.5",
     "year": -535,
@@ -3416,8 +3439,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Heraklit se povukao u hram Artemide i tamo se igrao sa decom. Kada su ga Efesci okružili i pitali šta radi, rekao je: 'Šta se čudite? Zar nije bolje ovo raditi nego učestvovati u vašoj politici?'",
-    "stsl": "Хераклитъ отиде въ храмъ Артемидинъ и тамо играше съ дѣти · Єгда же Ефесѧне окрѫжиша єго и вопрошаахѹ · что творитъ · рече · 'Чемѹ дивите сѧ · Не лѹчше ли сє творити · нежели въ вашемъ гражданьствѣ ѹчаствовати · ' ·",
+    "sr": "Heraklit se povukao u hram Artemide i tamo se igrao sa decom. Kada su ga Efesci okružili i pitali šta radi, rekao je: Šta se čudite? Zar nije bolje ovo raditi nego učestvovati u vašoj politici?",
+    "stsl": "Хераклитъ отиде въ храмъ Артемидинъ и тамо играше съ дѣти · Єгда же Ефесѧне окрѫжиша єго и вопрошаахѹ · что творитъ · рече · Чемѹ дивите сѧ · Не лѹчше ли сє творити · нежели въ вашемъ гражданьствѣ ѹчаствовати ·",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.3",
     "year": -515,
@@ -3434,8 +3457,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Kada su ga pitali zašto ćuti, odgovorio je: 'Da biste vi pričali.'",
-    "stsl": "Єгда вопрошаахѹ єго · почто мълчитъ · отвѣща · 'Да бꙑсте вꙑ глаголали · ' ·",
+    "sr": "Kada su ga pitali zašto ćuti, odgovorio je: Da biste vi pričali.",
+    "stsl": "Єгда вопрошаахѹ єго · почто мълчитъ · отвѣща · Да бꙑсте вꙑ глаголали ·",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.12",
     "year": -495,
@@ -3453,7 +3476,7 @@
   {
     "type": "anecdote",
     "sr": "Kada su lekari pokušavali da ga izleče od vodene bolesti, Heraklit ih je pitao mogu li od poplave napraviti sušu. Pošto nisu razumeli, pokušao je sam da se izleči tako što se zatrpao u kravlju balegu, verujući da će toplota izvući vlagu iz tela.",
-    "stsl": "Єгда врачеве тщахѹ сѧ исцѣлити єго отъ воднꙑꙗ болѣзни · Хераклитъ вопроси ихъ · 'Можете ли отъ потопа сѹшѹ сътворити · ' Не разѹмѣшаще сего · онъ самъ искѹси сѧ исцѣлити · покривъ сѧ кравиимъ навозомъ · мьнѧще · ꙗко теплота изведетъ влагѹ отъ тѣла ·",
+    "stsl": "Єгда врачеве тщахѹ сѧ исцѣлити єго отъ воднꙑꙗ болѣзни · Хераклитъ вопроси ихъ · Можете ли отъ потопа сѹшѹ сътворити ·  Не разѹмѣшаще сего · онъ самъ искѹси сѧ исцѣлити · покривъ сѧ кравиимъ навозомъ · мьнѧще · ꙗко теплота изведетъ влагѹ отъ тѣла ·",
     "author": "Heraklit",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.3",
     "year": -475,
@@ -5039,7 +5062,7 @@
     "el": "Πῶς οὖν σὺ περὶ αὐτοῦ τούτου γράφεις;",
     "author": "Platon",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.35",
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:353"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:353#Πῶς ο"
   },
   {
     "type": "quote",
