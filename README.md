@@ -88,7 +88,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 ### Peripatos — Aristotelova škola (4.–3. vek p.n.e.) — Knjiga V
 
 57. Aristotel (384–322. p.n.e.) ✔
-58. Teofrastos (oko 371–287. p.n.e.)
+58. Teofrastos (oko 371–287. p.n.e.) ✔
 59. Stratonom iz Lampsaka (oko 335–269. p.n.e.)
 60. Likon (oko 299–225. p.n.e.)
 61. Demetrije Falerski (oko 350–280. p.n.e.)
