@@ -80,11 +80,11 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.10"
     },
     {
-        "type": "anecdote",
-        "sr": "Njegovi učenici su pet godina ćutali, samo slušali, pa tek posle provere bili primani da ga vide i da žive u njegovoj blizini.",
-        "stsl": "Ѹченици єго пѧть лѣтъ мълчахѫ · токмо слѹшахѫ · и токмо по испытании приимахѫсѧ видѣти єго и близъ єго жити ·",
+        "type": "bio",
+        "sr": "Hermip pripoveda da je iskopao podzemno prebivalište i odatle primao majčine beleške o događajima, pa se potom pojavio kao da se vratio iz Hada; narod ga je smatrao božanskim.",
+        "stsl": "Хєрмїпъ повѣствѹєть · ꙗко ископа подземно жилище и оттѹдѹ прїимаше записи матєри о събытїихъ · таже ꙗви сѧ ꙗко отъ Ада възвративъсѧ · народъ же божьствена єго мьнѣ ·",
         "author": "Pitagora",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.10"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.41"
     },
     {
         "type": "quote",
@@ -207,18 +207,18 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.35"
     },
     {
+        "type": "anecdote",
+        "sr": "Njegovi učenici su pet godina ćutali, samo slušali, pa tek posle provere bili primani da ga vide i da žive u njegovoj blizini.",
+        "stsl": "Ѹченици єго пѧть лѣтъ мълчахѫ · токмо слѹшахѫ · и токмо по испытании приимахѫсѧ видѣти єго и близъ єго жити ·",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.10"
+    },
+    {
         "type": "bio",
         "sr": "Po jednom predanju, bežeći od progonitelja stigao je do polja boba, ali ga nije hteo pregaziti; radije je prihvatio smrt nego da prekrši svoje učenje.",
         "stsl": "По єдиномѹ прѣданию · бѣжа отъ гонителеи и достиже до полꙗ бобовъ · но не въсхотѣ єго прѣстѫпити · паче смрьть прииде · нежели да прѣстѹпить ѹчєніє своє ·",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.39"
-    },
-    {
-        "type": "bio",
-        "sr": "Hermip pripoveda da je iskopao podzemno prebivalište i odatle primao majčine beleške o događajima, pa se potom pojavio kao da se vratio iz Hada; narod ga je smatrao božanskim.",
-        "stsl": "Хєрмїпъ повѣствѹєть · ꙗко ископа подземно жилище и оттѹдѹ прїимаше записи матєри о събытїихъ · таже ꙗви сѧ ꙗко отъ Ада възвративъсѧ · народъ же божьствена єго мьнѣ ·",
-        "author": "Pitagora",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.41"
     },
     {
         "type": "quote",

@@ -121,13 +121,6 @@
     },
     {
         "type": "anecdote",
-        "sr": "Empedoklo je svete izaslanike počastio žrtvenim volom načinjenim od meda i ječmenog brašna, prinoseći obrednu žrtvu bez ubijanja životinje.",
-        "stsl": "Ємпедоклъ свѧтыѩ послы ѹгости жрьтвьнымъ воломъ отъ меда и єчьменьныѩ мѫкы сътворенымъ · обрѧдьнѹ жрьтвѹ безъ ѹбиєниꙗ животьнаго принесъ ·",
-        "author": "Empedoklo",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.53"
-    },
-    {
-        "type": "anecdote",
         "sr": "Prema Timeju, Empedoklo je bio Pitagorin učenik, ali je zbog prisvajanja učenja isključen iz školskih rasprava. Neant kaže da su pitagorejci, pošto je njihova učenja objavio u pesmi, zabranili da se ona ubuduće predaju pesnicima.",
         "stsl": "По Тимею Ємпедоклъ бѣ ѹченикъ Питагора · нъ ради присвоєниꙗ ѹчєниꙗ отъ школьныхъ бесѣдъ отълѹченъ бысть · Неантъ глаголєть · ꙗко питагорѣи · понеже ѹчєниꙗ ихъ въ пѣнию обнародова · възбраниша къ томѹ пѣснотворьцемъ ѩ прѣдавати ·",
         "author": "Empedoklo",
@@ -135,17 +128,24 @@
     },
     {
         "type": "anecdote",
-        "sr": "Predanja ga povezuju sa Parmenidom, Ksenofanom, Anaksagorom i pitagorejcima: govorilo se da je sledio pitagorejsku uzvišenost života i držanja, a Anaksagorino istraživanje prirode.",
-        "stsl": "Прѣданиꙗ съвѧзѹѭть єго съ Парменидомъ · Ксенофаномъ · Анаксагорою и питагорѣи · глаголаахѹ · ꙗко питагорѣискѹ высотѹ живота и образа послѣдова · Анаксагорино же испытание єстества ·",
-        "author": "Empedoklo",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.55–56"
-    },
-    {
-        "type": "anecdote",
         "sr": "Aristotel je Empedokla smatrao pronalazačem retorike. Bio je lekar i glasovit govornik, a Gorgija iz Leontina bio je njegov učenik.",
         "stsl": "Аристотель Ємпедокла изобрѣтателемъ рѣчьнаго хѹдожьства мьнѧше · Врачь и славьнъ витиꙗ бѣ · Горгиꙗ же Леонтиньскыи ѹченикъ єго бысть ·",
         "author": "Empedoklo",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.57–59"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Empedoklo je svete izaslanike počastio žrtvenim volom načinjenim od meda i ječmenog brašna, prinoseći obrednu žrtvu bez ubijanja životinje.",
+        "stsl": "Ємпедоклъ свѧтыѩ послы ѹгости жрьтвьнымъ воломъ отъ меда и єчьменьныѩ мѫкы сътворенымъ · обрѧдьнѹ жрьтвѹ безъ ѹбиєниꙗ животьнаго принесъ ·",
+        "author": "Empedoklo",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.53"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Predanja ga povezuju sa Parmenidom, Ksenofanom, Anaksagorom i pitagorejcima: govorilo se da je sledio pitagorejsku uzvišenost života i držanja, a Anaksagorino istraživanje prirode.",
+        "stsl": "Прѣданиꙗ съвѧзѹѭть єго съ Парменидомъ · Ксенофаномъ · Анаксагорою и питагорѣи · глаголаахѹ · ꙗко питагорѣискѹ высотѹ живота и образа послѣдова · Анаксагорино же испытание єстества ·",
+        "author": "Empedoklo",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.55–56"
     },
     {
         "type": "anecdote",
@@ -184,13 +184,6 @@
     },
     {
         "type": "anecdote",
-        "sr": "Empedoklo je raspustio oligarhijsko Veće hiljade, nagovorio Akragantince da okončaju stranačke sukobe i neguju političku jednakost, a svojim bogatstvom dao je miraz mnogim siromašnim građankama.",
-        "stsl": "Ємпедоклъ разори олигархиискыи съвѣтъ тꙑсѧшти · Акрагантѧны ѹвѣшта междѹсобьныѩ распрѧ скончати и гражданьскѹ равьность хранити · богатъствомъ же своимъ многымъ ништимъ гражданкамъ приданоє даде ·",
-        "author": "Empedoklo",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.66, 72–73"
-    },
-    {
-        "type": "anecdote",
         "sr": "Kada je smrad reke izazvao kugu u Selinuntu, Empedoklo je o svom trošku doveo dve susedne reke i mešanjem njihovih tokova pročistio vodu. Pošto je pošast prestala, stanovnici su mu se klanjali kao bogu.",
         "stsl": "Єгда смрадъ рѣкы моръ въ Селинѹнтѣ въздвиже · Ємпедоклъ своимъ иждивениемъ двѣ ближнѣи рѣцѣ приведе и съмѣшениемъ токовъ ихъ водѹ очисти · Єгда же пагѹба прѣста · жители ꙗко богѹ ємѹ покланѧахѹ сѧ ·",
         "author": "Empedoklo",
@@ -202,6 +195,13 @@
         "stsl": "Ємпедоклъ ꙗвлꙗаше сѧ въ порфирьнѣи ризѣ · съ златымъ поꙗсомъ · мѣдѣными сандалиꙗми и делфиискымъ лавровымъ вѣнцемъ · слѹгами послѣдованъ и присно торжьственаго образа · Граждане въ семь знамение царьскаго достоиньства видѣахѹ ·",
         "author": "Empedoklo",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.73"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Empedoklo je raspustio oligarhijsko Veće hiljade, nagovorio Akragantince da okončaju stranačke sukobe i neguju političku jednakost, a svojim bogatstvom dao je miraz mnogim siromašnim građankama.",
+        "stsl": "Ємпедоклъ разори олигархиискыи съвѣтъ тꙑсѧшти · Акрагантѧны ѹвѣшта междѹсобьныѩ распрѧ скончати и гражданьскѹ равьность хранити · богатъствомъ же своимъ многымъ ништимъ гражданкамъ приданоє даде ·",
+        "author": "Empedoklo",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.66, 72–73"
     },
     {
         "type": "anecdote",

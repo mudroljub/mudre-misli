@@ -80,13 +80,6 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.72"
     },
     {
-        "type": "anecdote",
-        "sr": "Prema jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
-        "stsl": "По єдиномѹ прѣданию Зенонъ пьрвъ писа бесѣды вопроса и отвѣта · Аристотель же пьрвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
-        "author": "Zenon iz Eleje",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.48"
-    },
-    {
         "type": "bio",
         "sr": "Zenon je bio Parmenidov učenik, usvojeni sin i prisni miljenik.",
         "stsl": "Зенонъ бѣ ѹченикъ Парменида · приєтыи сынъ и възлюбленыи єго ·",
@@ -95,31 +88,17 @@
     },
     {
         "type": "anecdote",
+        "sr": "Prema jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
+        "stsl": "По єдиномѹ прѣданию Зенонъ пьрвъ писа бесѣды вопроса и отвѣта · Аристотель же пьрвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
+        "author": "Zenon iz Eleje",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.48"
+    },
+    {
+        "type": "anecdote",
         "sr": "Aristotel je Zenona smatrao pronalazačem dijalektike, veštine raspravljanja pitanjima i odgovorima.",
         "stsl": "Аристотель мьнѧаше Зенона изобрѣтателемъ вопросоотвѣтьнаго хѹдожьства прѣниꙗ ·",
         "author": "Zenon iz Eleje",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.25"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Zenon je skovao zaveru da obori tiranina Nearha, ili prema drugima Diomedonta, ali je uhvaćen. Ispitivan o saučesnicima i oružju koje je nosio na Liparu, naveo je sve tiraninove prijatelje kako bi ga ostavio bez pristalica. Zatim se pretvarao da želi da mu poveri tajnu, uhvatio ga zubima za uho i nije ga pustio dok nije ubijen; prema drugoj verziji, odgrizao mu je nos.",
-        "stsl": "Зенонъ ѹмысли низложити мѫчителꙗ Неарха · по инѣхъ же Диомедонта · нъ ѧтъ бысть · Испытованъ о съѹмысльницѣхъ и оружии · єже въ Липарѹ ношаше · вьсѣхъ дрѹговъ мѫчителевыхъ имѧнова · да єго безъ помоштьникъ оставитъ · Таже ꙗко таинѹ ємѹ повѣдати хотѧ · ѹхо єго зѹбы ꙗтъ и не пѹсти · дондеже ѹбиєнъ бысть · по иномѹ же сказанию носъ ємѹ отъгрꙑзе ·",
-        "author": "Zenon iz Eleje",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.26–27"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prema Antistenu, kada ga je tiranin upitao ima li još zaverenika, Zenon je odgovorio: ‘Da, ti — prokletstvo grada!’ Potom je okupljenima prekorio kukavičluk, odgrizao vlastiti jezik i ispljunuo ga na tiranina. Građani su se tada ohrabrili i kamenovali tiranina.",
-        "stsl": "По Антисфенѹ · єгда мѫчитель вопроси єго · аще инъ съѹмысльникъ єсть · Зенонъ отвѣща · Ты · проклѧтиє града · Таже предъстоѧштимъ малодѹшиє ихъ обличи · свои ѩзыкъ отъгрꙑзе и на мѫчителꙗ изплева · Граждане же тогда възмогоша и мѫчителꙗ камениемъ побиша ·",
-        "author": "Zenon iz Eleje",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.27"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prema Hermipu, Zenon je bačen u stupu i nasmrt istucan.",
-        "stsl": "По Хермиппѹ Зенонъ въ стѹпѹ въвръженъ и до смрьти истълченъ бысть ·",
-        "author": "Zenon iz Eleje",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.27"
     },
     {
         "type": "anecdote",
@@ -141,5 +120,26 @@
         "stsl": "Єгда хѹлѧахѹ єго · Зенонъ разгнѣва сѧ · Єгда же нѣкыи сего ради ѹкори єго · отвѣща · Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
         "author": "Zenon iz Eleje",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.29"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Zenon je skovao zaveru da obori tiranina Nearha, ili prema drugima Diomedonta, ali je uhvaćen. Ispitivan o saučesnicima i oružju koje je nosio na Liparu, naveo je sve tiraninove prijatelje kako bi ga ostavio bez pristalica. Zatim se pretvarao da želi da mu poveri tajnu, uhvatio ga zubima za uho i nije ga pustio dok nije ubijen; prema drugoj verziji, odgrizao mu je nos.",
+        "stsl": "Зенонъ ѹмысли низложити мѫчителꙗ Неарха · по инѣхъ же Диомедонта · нъ ѧтъ бысть · Испытованъ о съѹмысльницѣхъ и оружии · єже въ Липарѹ ношаше · вьсѣхъ дрѹговъ мѫчителевыхъ имѧнова · да єго безъ помоштьникъ оставитъ · Таже ꙗко таинѹ ємѹ повѣдати хотѧ · ѹхо єго зѹбы ꙗтъ и не пѹсти · дондеже ѹбиєнъ бысть · по иномѹ же сказанию носъ ємѹ отъгрꙑзе ·",
+        "author": "Zenon iz Eleje",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.26–27"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Prema Antistenu, kada ga je tiranin upitao ima li još zaverenika, Zenon je odgovorio: ‘Da, ti — prokletstvo grada!’ Potom je okupljenima prekorio kukavičluk, odgrizao vlastiti jezik i ispljunuo ga na tiranina. Građani su se tada ohrabrili i kamenovali tiranina.",
+        "stsl": "По Антисфенѹ · єгда мѫчитель вопроси єго · аще инъ съѹмысльникъ єсть · Зенонъ отвѣща · Ты · проклѧтиє града · Таже предъстоѧштимъ малодѹшиє ихъ обличи · свои ѩзыкъ отъгрꙑзе и на мѫчителꙗ изплева · Граждане же тогда възмогоша и мѫчителꙗ камениемъ побиша ·",
+        "author": "Zenon iz Eleje",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.27"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Prema Hermipu, Zenon je bačen u stupu i nasmrt istucan.",
+        "stsl": "По Хермиппѹ Зенонъ въ стѹпѹ въвръженъ и до смрьти истълченъ бысть ·",
+        "author": "Zenon iz Eleje",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.27"
     }
 ]

@@ -128,6 +128,13 @@
     },
     {
         "type": "anecdote",
+        "sr": "U mladosti je govorio da ništa ne zna, ali kada je odrastao, tvrdio je da zna sve. Ničiji učenik nije bio, već je izjavio da je 'ispitivao sebe samoga' i od sebe samoga sve naučio.",
+        "stsl": "Въ юности глаголааше · ꙗко ничесо же не вѣсть · нъ єгда одрасте · глаголааше ꙗко вьсе вѣсть · Ничиємѹ же ѹченикъ бысть · нъ исповѣдааше · ꙗко 'самъ себе испытовааше' и самъ отъ себе вьсе ѹвѣдѣ ·",
+        "author": "Heraklit",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.5"
+    },
+    {
+        "type": "anecdote",
         "sr": "Kada su Efesci tražili od Heraklita da im napiše zakone, on je to odbio, rekavši da je njihov ustav već loš i da bi se time ništa ne postiglo.",
         "stsl": "Єгда Ефесѧне просиша Хераклита да имъ законꙑ напишетъ · онъ отрече · рекыи · ѹставъ ихъ и безъ того золъ єсть · и ничто же симъ не бꙑло бы достигнѹто ·",
         "author": "Heraklit",
@@ -156,22 +163,15 @@
     },
     {
         "type": "anecdote",
-        "sr": "Kada su lekari pokušavali da ga izleče od vodene bolesti, Heraklit ih je pitao mogu li od poplave napraviti sušu. Pošto nisu razumeli, pokušao je sam da se izleči tako što se zatrpao u kravlju balegu, verujući da će toplota izvući vlagu iz tela.",
-        "stsl": "Єгда врачеве тщахѹ сѧ исцѣлити єго отъ воднꙑꙗ болѣзни · Хераклитъ вопроси ихъ · 'Можете ли отъ потопа сѹшѹ сътворити · ' Не разѹмѣшаще сего · онъ самъ искѹси сѧ исцѣлити · покривъ сѧ кравиимъ навозомъ · мьнѧще · ꙗко теплота изведетъ влагѹ отъ тѣла ·",
+        "sr": "Napokon je omrzao ljude i lutao po planinama, živeći od trave i bilja. Kada ga je to dovelo do vodene bolesti, vratio se u grad.",
+        "stsl": "Въ концы же возненавидѣ чловѣки и блѹждааше по горахъ · питаѧсѧ травою и зелиємь · Єгда же сие приведе єго до воднꙑꙗ болѣзни · обратисѧ въ градъ ·",
         "author": "Heraklit",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.3"
     },
     {
         "type": "anecdote",
-        "sr": "U mladosti je govorio da ništa ne zna, ali kada je odrastao, tvrdio je da zna sve. Ničiji učenik nije bio, već je izjavio da je 'ispitivao sebe samoga' i od sebe samoga sve naučio.",
-        "stsl": "Въ юности глаголааше · ꙗко ничесо же не вѣсть · нъ єгда одрасте · глаголааше ꙗко вьсе вѣсть · Ничиємѹ же ѹченикъ бысть · нъ исповѣдааше · ꙗко 'самъ себе испытовааше' и самъ отъ себе вьсе ѹвѣдѣ ·",
-        "author": "Heraklit",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.5"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Napokon je omrzao ljude i lutao po planinama, živeći od trave i bilja. Kada ga je to dovelo do vodene bolesti, vratio se u grad.",
-        "stsl": "Въ концы же возненавидѣ чловѣки и блѹждааше по горахъ · питаѧсѧ травою и зелиємь · Єгда же сие приведе єго до воднꙑꙗ болѣзни · обратисѧ въ градъ ·",
+        "sr": "Kada su lekari pokušavali da ga izleče od vodene bolesti, Heraklit ih je pitao mogu li od poplave napraviti sušu. Pošto nisu razumeli, pokušao je sam da se izleči tako što se zatrpao u kravlju balegu, verujući da će toplota izvući vlagu iz tela.",
+        "stsl": "Єгда врачеве тщахѹ сѧ исцѣлити єго отъ воднꙑꙗ болѣзни · Хераклитъ вопроси ихъ · 'Можете ли отъ потопа сѹшѹ сътворити · ' Не разѹмѣшаще сего · онъ самъ искѹси сѧ исцѣлити · покривъ сѧ кравиимъ навозомъ · мьнѧще · ꙗко теплота изведетъ влагѹ отъ тѣла ·",
         "author": "Heraklit",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.3"
     }

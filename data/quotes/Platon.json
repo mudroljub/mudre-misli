@@ -676,10 +676,10 @@
     },
     {
         "type": "anecdote",
-        "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila. Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
-        "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ · Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
+        "sr": "Platon je samoga sebe po imenu pomenuo samo dvaput. Kada je čitao dijalog O duši, jedino je Aristotel ostao do kraja. Početak Države pronađen je više puta prepravljen, a Zakoni su ostali na voštanim tablicama i prepisao ih je Filip iz Opunta.",
+        "stsl": "Платонъ самого себе по имѧни тъкмо двоицею помѧнѫ · Єгда бесѣдꙫ О дѹши чьтѧаше · єдинъ Аристотель до конца оста · Начѧло Града многажды прѣписано обрѣте сѧ · Закони же на воштьныхъ дъскахъ осташа и Филиппъ Опѹнтьскыи ихъ прѣписа ·",
         "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.4–5"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.37–38"
     },
     {
         "type": "anecdote",
@@ -687,6 +687,13 @@
         "stsl": "Сократъ видѣ въ сънѣ лебѧдь · иже на колѣнѹ єго внезапѹ опери сѧ · възлетѣ и сладъкогласьно възпѣ · Єгда на ѹтрии Платона къ немѹ приведоша · въ немь лебѧдь отъ съна позна ·",
         "author": "Platon",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.5"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Platon je prvi doneo u Atinu zanemarene Sofronove mime i prema njima oblikovao likove; primerak tih spisa nađen je pod njegovim jastukom.",
+        "stsl": "Платонъ пьрвыи забъвеныѩ Софроновы подражаниꙗ въ Атины принесе и по нихъ лица изображаше · списъкъ тѣхъ писании подъ възглавиемъ єго обрѣтенъ бысть ·",
+        "author": "Platon",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.18"
     },
     {
         "type": "anecdote",
@@ -704,13 +711,6 @@
     },
     {
         "type": "anecdote",
-        "sr": "Platon je prvi doneo u Atinu zanemarene Sofronove mime i prema njima oblikovao likove; primerak tih spisa nađen je pod njegovim jastukom.",
-        "stsl": "Платонъ пьрвыи забъвеныѩ Софроновы подражаниꙗ въ Атины принесе и по нихъ лица изображаше · списъкъ тѣхъ писании подъ възглавиемъ єго обрѣтенъ бысть ·",
-        "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.18"
-    },
-    {
-        "type": "anecdote",
         "sr": "Na prvom putovanju na Siciliju Platon je Dionisiju rekao da korist vladara nije najviše dobro bez vrline. Tiranin ga je nazvao starcem koji bunca, a Platon njega tiraninom. Predat je spartanskom poslaniku, prodat kao rob na Egini i optužen po zakonu koji je Atinjanima pretio smrću, ali se držao mirno i samouvereno. Anikerid ga je otkupio i odbio da primi povraćaj novca.",
         "stsl": "На пьрвѣмь пѫтовании въ Сикелию Платонъ Дионисию рече · ꙗко польза владꙑкы безъ добродѣтели не єсть вышнее благо · Мѫчитель єго бредѫштимъ старьцемъ нарече · Платонъ же єго мѫчителемъ · Спартаньскомѹ посълѹ прѣданъ бысть · на Єгинѣ ꙗко рабъ проданъ и по законѹ · смрьтию Атинѧномъ грозивъшѹ · обвиненъ · нъ тихъ и надѣжьнъ прѣбысть · Аникеридъ єго искѹпи и възвратъ пѣнѧѕь отъмѣте ·",
         "author": "Platon",
@@ -722,13 +722,6 @@
         "stsl": "Платонъ пакы въ Сикелию възврати сѧ · да отъ младъшаго Дионисиꙗ землѭ и насельникы къ сътворению своєго града просить · Обѣтъ не съвръши сѧ · єгда въ помощи освобождению острова подозрѣнъ бысть · Архѵта ємѹ безбѣдьнъ възвратъ исходатаиствова · Третицею безъ ѹспѣха Диона и Дионисиꙗ примирити покѹси сѧ ·",
         "author": "Platon",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.21–23"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Kada niko drugi u Atini nije hteo da brani vojskovođu Habriju od smrtne optužbe, Platon je stao uz njega. Na pretnju da ga čeka Sokratova kukuta odgovorio je da se, kao nekada za otadžbinu, sada izlaže opasnosti radi prijatelja.",
-        "stsl": "Єгда никтоже инъ въ Атинахъ воєводѫ Хабрию отъ смрьтьнаго обвинениꙗ заштитити хотѣ · Платонъ при немь ста · На грозьбѫ · ꙗко Сократова отрова єго чекаєть · отвѣшта · ꙗко ꙗкоже иногда отьчьства ради · нынѣ дрѹга ради бѣдѣ себе прѣдаєть ·",
-        "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.23–24"
     },
     {
         "type": "anecdote",
@@ -760,13 +753,6 @@
     },
     {
         "type": "anecdote",
-        "sr": "Platon je samoga sebe po imenu pomenuo samo dvaput. Kada je čitao dijalog O duši, jedino je Aristotel ostao do kraja. Početak Države pronađen je više puta prepravljen, a Zakoni su ostali na voštanim tablicama i prepisao ih je Filip iz Opunta.",
-        "stsl": "Платонъ самого себе по имѧни тъкмо двоицею помѧнѫ · Єгда бесѣдꙫ О дѹши чьтѧаше · єдинъ Аристотель до конца оста · Начѧло Града многажды прѣписано обрѣте сѧ · Закони же на воштьныхъ дъскахъ осташа и Филиппъ Опѹнтьскыи ихъ прѣписа ·",
-        "author": "Platon",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.37–38"
-    },
-    {
-        "type": "anecdote",
         "sr": "Platon je prekinuo čoveka koji se pravdao da se kocka samo za sitnicu: sitnica nije bila ulog, nego navika. Kada se naljutio na roba, zamolio je Ksenokrata da ga kazni, jer nije hteo da kažnjava u gnevu.",
         "stsl": "Платонъ чловѣка · иже сѧ оправдавааше · ꙗко тъкмо на мало костьми играєть · ѹстави · мало не бѣ залогъ · нъ обычаи · Єгда на раба разгнѣва сѧ · Ксенократа проси · да єго накажеть · зане въ гнѣвѣ наказати не хотѣ ·",
         "author": "Platon",
@@ -778,6 +764,20 @@
         "stsl": "Платонъ єдиною скоро съ конѧ съниде · боѧ сѧ · да єго коньска гордость не заразить · Пиꙗнымъ зрьцало съвѣтоваше · да видѧть · како ихъ пиꙗньство безобразить · такожде и прѣдълъгыи сънъ осѫждааше ·",
         "author": "Platon",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.39–40"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila. Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
+        "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ · Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
+        "author": "Platon",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.4–5"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Kada niko drugi u Atini nije hteo da brani vojskovođu Habriju od smrtne optužbe, Platon je stao uz njega. Na pretnju da ga čeka Sokratova kukuta odgovorio je da se, kao nekada za otadžbinu, sada izlaže opasnosti radi prijatelja.",
+        "stsl": "Єгда никтоже инъ въ Атинахъ воєводѫ Хабрию отъ смрьтьнаго обвинениꙗ заштитити хотѣ · Платонъ при немь ста · На грозьбѫ · ꙗко Сократова отрова єго чекаєть · отвѣшта · ꙗко ꙗкоже иногда отьчьства ради · нынѣ дрѹга ради бѣдѣ себе прѣдаєть ·",
+        "author": "Platon",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.23–24"
     },
     {
         "type": "anecdote",

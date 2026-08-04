@@ -262,20 +262,6 @@
     },
     {
         "type": "anecdote",
-        "sr": "Optužen za bezbožnost zbog himne Hermiji, Aristotel se povukao iz Atine u Halkidu.",
-        "stsl": "Въ безбожии за пѣснь Хермїи обвиненъ · Аристотель изъ Атинъ въ Халкїдѫ отиде ·",
-        "author": "Aristotel",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.6"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Predanje kaže da je za tu istu parnicu prvi sastavio odbrambeni sudski govor napisan u svoje ime.",
-        "stsl": "Прѣданіє глаголєть · ꙗко къ томѹ же сѫдѹ пьрвыи самъ себѣ писанѹ защитьнѫ рѣчь съчини ·",
-        "author": "Aristotel",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.9"
-    },
-    {
-        "type": "anecdote",
         "sr": "Kada mu je Diogen ponudio suve smokve da ga navede na podsmeh, Aristotel ih je uzeo i našalio se da je Diogen izgubio i smokve i dosetku.",
         "stsl": "Єгда ємѹ Диогенъ сѹхыѩ смоквы подаде · да єго къ порѹганию приведе · Аристотель ихъ прїѧтъ и пошѫти · ꙗко Диогенъ и смоквы и остротѫ погѹби ·",
         "author": "Aristotel",
@@ -287,6 +273,20 @@
         "stsl": "Многорѣчивомѹ · иже єго словесы затопи и въпроси · аще єго ѹтрѹжди · отвѣща · ꙗко єго и не слѹшаше ·",
         "author": "Aristotel",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.20"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Predanje kaže da je za tu istu parnicu prvi sastavio odbrambeni sudski govor napisan u svoje ime.",
+        "stsl": "Прѣданіє глаголєть · ꙗко къ томѹ же сѫдѹ пьрвыи самъ себѣ писанѹ защитьнѫ рѣчь съчини ·",
+        "author": "Aristotel",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.9"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Optužen za bezbožnost zbog himne Hermiji, Aristotel se povukao iz Atine u Halkidu.",
+        "stsl": "Въ безбожии за пѣснь Хермїи обвиненъ · Аристотель изъ Атинъ въ Халкїдѫ отиде ·",
+        "author": "Aristotel",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.6"
     },
     {
         "type": "anecdote",

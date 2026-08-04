@@ -71,6 +71,13 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.18"
     },
     {
+        "type": "bio",
+        "sr": "Ksenofan je, pošto je bio prognan iz domovine, boravio u Zankli i Katani na Siciliji.",
+        "stsl": "Ксенофанъ · изгнанъ бывъ изъ отечьства · пребывааше въ Занкли и Катани Сикелиискѣи ·",
+        "author": "Ksenofan",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.18"
+    },
+    {
         "type": "anecdote",
         "sr": "Kada mu je Empedoklo rekao da je nemoguće pronaći mudrog čoveka, Ksenofan je odgovorio: Prirodno; jer mudar mora biti onaj ko će mudroga poznati.",
         "stsl": "Єгда Ємпедоклъ рече ємѹ · ꙗко обрѣсти мѫдра мѫжа не възможьно єсть · Ксенофанъ отвѣща · По єстествѹ · мѫдръ бо быти подобаєть томѹ · иже мѫдра познаєть ·",
@@ -79,22 +86,15 @@
     },
     {
         "type": "bio",
-        "sr": "Ksenofan je, pošto je bio prognan iz domovine, boravio u Zankli i Katani na Siciliji.",
-        "stsl": "Ксенофанъ · изгнанъ бывъ изъ отечьства · пребывааше въ Занкли и Катани Сикелиискѣи ·",
-        "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.18"
-    },
-    {
-        "type": "bio",
-        "sr": "Ksenofan je, kao i Anaksagora, svojim rukama sahranio svoje sinove.",
-        "stsl": "Ксенофанъ · ꙗкоже Анаксагора · своима рѫкама погребе сыны своѧ ·",
+        "sr": "Prema Favorinu, Ksenofan je bio prodat u ropstvo, a oslobodili su ga pitagorejci Parmenisk i Orestad.",
+        "stsl": "По Фаворинѹ Ксенофанъ проданъ бысть въ рабьство · и свободиша єго питагорѣи Парменискъ и Орестадъ ·",
         "author": "Ksenofan",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.20"
     },
     {
         "type": "bio",
-        "sr": "Prema Favorinu, Ksenofan je bio prodat u ropstvo, a oslobodili su ga pitagorejci Parmenisk i Orestad.",
-        "stsl": "По Фаворинѹ Ксенофанъ проданъ бысть въ рабьство · и свободиша єго питагорѣи Парменискъ и Орестадъ ·",
+        "sr": "Ksenofan je, kao i Anaksagora, svojim rukama sahranio svoje sinove.",
+        "stsl": "Ксенофанъ · ꙗкоже Анаксагора · своима рѫкама погребе сыны своѧ ·",
         "author": "Ksenofan",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.20"
     }

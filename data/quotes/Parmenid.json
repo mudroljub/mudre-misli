@@ -80,13 +80,6 @@
     },
     {
         "type": "anecdote",
-        "sr": "Parmenidu se pripisuje da je prvi prepoznao kako su Večernjača i Zornjača ista zvezda.",
-        "stsl": "Парменидѹ приписѹєть сѧ · ꙗко пьрвъ позна · ꙗко вечернѧꙗ звѣзда и ѹтрьнѧꙗ тожде єсть ·",
-        "author": "Parmenid",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.23"
-    },
-    {
-        "type": "anecdote",
         "sr": "Parmenid je služio svom rodnom gradu kao zakonodavac.",
         "stsl": "Парменидъ послѹжи родномѹ градѹ · законы гражданомъ положивъ ·",
         "author": "Parmenid",
@@ -94,8 +87,8 @@
     },
     {
         "type": "anecdote",
-        "sr": "Favorin Parmenidu pripisuje prvo izlaganje dokaza poznatog kao ‘Ahilej i kornjača’.",
-        "stsl": "Фаворинъ Парменидѹ приписѹєть пьрвоє изложеніє довода · нарицаємаго Ахиллеи и желвь ·",
+        "sr": "Parmenidu se pripisuje da je prvi prepoznao kako su Večernjača i Zornjača ista zvezda.",
+        "stsl": "Парменидѹ приписѹєть сѧ · ꙗко пьрвъ позна · ꙗко вечернѧꙗ звѣзда и ѹтрьнѧꙗ тожде єсть ·",
         "author": "Parmenid",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.23"
     },
@@ -105,6 +98,13 @@
         "stsl": "Зенонъ Елеатъ ѹченикъ Парменида · приєтыи сынъ и възлюбленыи єго бысть ·",
         "author": "Parmenid",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.25"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Favorin Parmenidu pripisuje prvo izlaganje dokaza poznatog kao ‘Ahilej i kornjača’.",
+        "stsl": "Фаворинъ Парменидѹ приписѹєть пьрвоє изложеніє довода · нарицаємаго Ахиллеи и желвь ·",
+        "author": "Parmenid",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.23"
     },
     {
         "type": "reported",

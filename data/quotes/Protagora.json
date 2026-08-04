@@ -65,6 +65,13 @@
     },
     {
         "type": "anecdote",
+        "sr": "Pre nego što je postao učitelj, Protagora je bio nosač. Izumeo je podmetač za rame na kojem se nose tereti, a Demokrit ga je zapazio kada je video koliko je vešto povezao naramak drva i potom ga uzeo za učenika.",
+        "stsl": "Прѣжде нежели ѹчитель бысть · Протагоръ бременоносьць бѣ · Изобрѣте подложеніє на рамо · на немьже бремена носѧть · Демокритъ же видѣ · колико хꙑтро свѧза ношѹ дръвъ · и таже єго въ ѹченика приѧтъ ·",
+        "author": "Protagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.53"
+    },
+    {
+        "type": "anecdote",
         "sr": "Protagora je učio kod Demokrita, držao javna čitanja uz naplatu i sastavio zakone za panhelenski grad Turije.",
         "stsl": "Протагоръ ѹ Демокрита ѹчи сѧ · всенародьна чтениꙗ за мьздѹ творѧше и законы панеллиньскомѹ градѹ Тѹриѧмъ състави ·",
         "author": "Protagora",
@@ -86,31 +93,10 @@
     },
     {
         "type": "anecdote",
-        "sr": "Pre nego što je postao učitelj, Protagora je bio nosač. Izumeo je podmetač za rame na kojem se nose tereti, a Demokrit ga je zapazio kada je video koliko je vešto povezao naramak drva i potom ga uzeo za učenika.",
-        "stsl": "Прѣжде нежели ѹчитель бысть · Протагоръ бременоносьць бѣ · Изобрѣте подложеніє на рамо · на немьже бремена носѧть · Демокритъ же видѣ · колико хꙑтро свѧза ношѹ дръвъ · и таже єго въ ѹченика приѧтъ ·",
-        "author": "Protagora",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.53"
-    },
-    {
-        "type": "anecdote",
         "sr": "Protagora je spis O bogovima prvi put javno pročitao u Atini, prema različitim predanjima u Euripidovoj ili Megaklidovoj kući, odnosno u Likeju preko učenika Arhagore.",
         "stsl": "Протагоръ списание О бозѣхъ пьрвѹю всенародьно прочьте въ Атинахъ · по различьнымъ прѣданиемъ въ домѹ Еврипидовѣ или Мегаклидовѣ · или въ Ликеи гласомъ ѹченика Архагора ·",
         "author": "Protagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.54"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Zbog početka spisa O bogovima Atinjani su Protagoru prognali, a njegove knjige sakupili od vlasnika preko glasnika i javno spalili na trgu.",
-        "stsl": "Ради начѧла списаниꙗ О бозѣхъ Атинѧне Протагора изгнаша · книгы же єго глашатаємъ отъ владѣтелии събраша и всенародьно на тръжишти съжегоша ·",
-        "author": "Protagora",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.52, 54"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prema Filohoru, Protagora je posle progonstva plovio ka Siciliji i stradao kada je brod potonuo. Drugi su govorili da je umro na putu u dubokoj starosti.",
-        "stsl": "По Филохорѹ Протагоръ по изгнании къ Сикилии пловѧше и погибе · єгда корабль потопе · Инии глаголаахѹ · ꙗко на пѫти въ глѹбоцѣ старости ѹмре ·",
-        "author": "Protagora",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.55–56"
     },
     {
         "type": "anecdote",
@@ -125,5 +111,19 @@
         "stsl": "Аристоксенъ и Фаворинъ глаголаахѹ · ꙗко почти вьсѧ Платонова Дръжава вже въ Протагоровыхъ Противословиихъ обрѣтааше сѧ ·",
         "author": "Protagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.37, 57"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Zbog početka spisa O bogovima Atinjani su Protagoru prognali, a njegove knjige sakupili od vlasnika preko glasnika i javno spalili na trgu.",
+        "stsl": "Ради начѧла списаниꙗ О бозѣхъ Атинѧне Протагора изгнаша · книгы же єго глашатаємъ отъ владѣтелии събраша и всенародьно на тръжишти съжегоша ·",
+        "author": "Protagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.52, 54"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Prema Filohoru, Protagora je posle progonstva plovio ka Siciliji i stradao kada je brod potonuo. Drugi su govorili da je umro na putu u dubokoj starosti.",
+        "stsl": "По Филохорѹ Протагоръ по изгнании къ Сикилии пловѧше и погибе · єгда корабль потопе · Инии глаголаахѹ · ꙗко на пѫти въ глѹбоцѣ старости ѹмре ·",
+        "author": "Protagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.55–56"
     }
 ]
