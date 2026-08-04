@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "predev": "npm run build:quotes",
     "dev": "next dev",
+    "prebuild": "npm run build:quotes",
     "build": "next build",
     "start": "next start",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:quotes": "node tools/build-quotes.mjs"
   },
   "dependencies": {
     "next": "14.2.15",

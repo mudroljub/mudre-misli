@@ -1,5 +1,5 @@
 import authorsRaw from '../data/authors.json';
-import quotesRaw from '../data/quotes.json';
+import quotes from '../data/quotes.json';
 import {
   supportedLanguages,
   type AuthorsData,
@@ -10,7 +10,7 @@ import {
 } from '../types/data';
 
 const authorsData: AuthorsData = authorsRaw;
-const quoteInputs = quotesRaw as Quote[];
+const quoteInputs = quotes as Quote[];
 const quotesData: QuoteWithId[] = quoteInputs.map((entry, index) => ({
   _id: index + 1,
   ...entry,
