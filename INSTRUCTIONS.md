@@ -172,7 +172,11 @@ Rekonstruisani slovenski tekst treba dosledno da vuče prema praslovenskom fonet
 
 ### Zabrana korišćenja slova „я”
 
-Agentima je zabranjeno korišćenje moderne grafeme **Я (я)** u tekstovima na staroslovenskom jeziku, te umesto nje moraju upotrebljavati autentične istorijske oblike **ꙗ** ili **Ѧ (ѧ)**.
+Zabranjeno je korišćenje moderne grafeme **Я (я)** u tekstovima na staroslovenskom jeziku, te umesto nje treba upotrebljavati autentične istorijske oblike **ꙗ** ili **Ѧ (ѧ)**.
+
+### Etimološka upotreba ю
+
+Etimološka upotreba Ѭ (ѭ). Kada glas ju potiče od praslovenskog nazalnog jǫ, pisati ѭ, a ne ю. Slovo ю koristiti samo tamo gde je etimološki zaista ju.
 
 ### Primena prostog slova Є umesto jotiranog Ѥ
 
