@@ -26,5 +26,17 @@
     "Plato",
     "Aristotle",
     "and many others"
-  ]
+  ],
+  "extraction_info": {
+    "method": "pdftotext with -layout option",
+    "date": "2026-08-04",
+    "source_pdf": "../../../BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf",
+    "output_file": "latin_text_raw.txt",
+    "status": "raw_text_extracted",
+    "next_steps": [
+      "Clean text (remove Spanish translation and German footnotes)",
+      "Separate by chapters/philosophers",
+      "Create index of philosophers"
+    ]
+  }
 }

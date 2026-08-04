@@ -9,29 +9,64 @@
 Ovo kritičko izdanje objavio je **Hermann Knust** 1886. godine u Tübingenu kao deo edicije *Bibliothek des Litterarischen Vereins in Stuttgart* (br. 177).
 
 **Karakteristike izdanja:**
-- **Paralelni tekst**: Latinski original sa starim španskim prevodom
+- **Paralelni tekst**: Latinski original sa starim španskim prevodom (15-16. vek)
 - **Naučni aparat**: Opsežne fusnote sa referencama na izvore (Diogen Laertije, Plutarh, itd.)
 - **Varijante rukopisa**: Označene kraticama (CRLNADGB, HADGB, itd.)
 
-## Struktura
+## Format podataka
 
-Delo je organizovano po poglavljima, gde svako poglavlje pokriva jednog filozofa:
+### `latin_text_raw.txt`
 
-### Poglavlja (počeci):
+**Sadržaj**: Ceo latinski tekst ekstraovan iz PDF-a pomoću `pdftotext`
 
-- **Cap. I** - Thales (Tales Millesio)
-- **Cap. II** - Solon
-- **Cap. III** - Anaximander (Anaximandro)
-- ...
+**Format**: Plain text, sa očuvanim layout-om (dvostubni format)
 
-## Sadržaj
+**Veličina**: ~2-3 MB (procena)
 
-Za svakog filozofa, Burley obično navodi:
-1. Poreklo i biografske podatke
-2. Filozofske doprinose i učenja
-3. Anegdote i priče
-4. Mudre izreke i maksime
-5. Okolnosti smrti
+**Upotreba**: 
+- Glavni izvor za dalju obradu
+- Sadrži latinski tekst + španski prevod + nemačke fusnote (sve pomiješano)
+- Potrebno dalje filtriranje i čišćenje
+
+### Planirana struktura (TODO)
+
+```
+data/sources/walter-burley/
+├── README.md                    # Ovaj fajl
+├── metadata.json                # Bibliografski podaci
+├── latin_text_raw.txt          # ✅ Sirovi tekst (latinski + španski + fusnote)
+├── latin_text_clean.txt        # ⏳ Samo latinski tekst
+└── chapters/                    # ⏳ Tekst podeljen po filozofima
+    ├── 01_thales.txt
+    ├── 02_solon.txt
+    ├── 03_chilon.txt
+    └── ...
+```
+
+## Kako koristiti
+
+### 1. Čitanje sirovog teksta
+
+```bash
+cat latin_text_raw.txt | less
+```
+
+### 2. Pretraga po filozofu
+
+```bash
+# Pronađi poglavlje o Talesu
+grep -n "Cap. I.*Thales" latin_text_raw.txt
+
+# Pronađi sve reference na Sokrata
+grep -i "socrat" latin_text_raw.txt
+```
+
+### 3. Ekstrakcija pojedinih poglavlja
+
+```bash
+# Ekstraktuj poglavlje I (Thales)
+sed -n '/Cap. I.*Thales/,/Cap. II/p' latin_text_raw.txt > chapters/01_thales.txt
+```
 
 ## Izvori
 
@@ -50,13 +85,6 @@ Ovo delo je bilo:
 - **Uticajno** za širenje znanja o antičkoj filozofiji
 - **Izvor** za mnoge kasnije biografske kompilacije
 
-## Format podataka
-
-U ovom direktorijumu nalaze se:
-- `metadata.json` - Bibliografski podaci
-- `chapters/` - Ekstraktovani tekstovi po poglavljima
-- `philosophers.json` - Indeks filozofa sa referencama
-
 ## Licenca
 
 Ovo delo je u **javnom vlasništvu** (Public Domain). Originalni tekst je iz 14. veka, a izdanje iz 1886. godine.
@@ -67,3 +95,11 @@ Ovo delo je u **javnom vlasništvu** (Public Domain). Originalni tekst je iz 14.
 
 - Knust, Hermann (ed.). *Gualteri Burlaei Liber de Vita et Moribus Philosophorum*. Tübingen: Litterarischer Verein, 1886.
 - Burley, Walter. *De vita et moribus philosophorum*. 14th century.
+
+## TODO
+
+- [x] Ekstraktovati sirovi tekst iz PDF-a
+- [ ] Očistiti tekst (ukloniti španski i fusnote)
+- [ ] Podeliti po poglavljima/filozofima
+- [ ] Kreirati indeks filozofa
+- [ ] Dodati metadata za svakog filozofa
