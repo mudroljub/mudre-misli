@@ -1,0 +1,30 @@
+{
+  "title": "De Vita et Moribus Philosophorum",
+  "title_en": "On the Lives and Customs of the Philosophers",
+  "author": "Walter Burley (Gualterus Burlaeus)",
+  "author_dates": "c. 1275 – 1344/45",
+  "editor": "Hermann Knust",
+  "publisher": "Litterarischer Verein in Stuttgart",
+  "publication_place": "Tübingen",
+  "publication_year": 1886,
+  "series": "Bibliothek des Litterarischen Vereins",
+  "series_number": "CLXXVII (177)",
+  "language": "Latin with Old Spanish translation",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf",
+  "license": "Public Domain (Wikimedia Commons)",
+  "description": "Medieval biographical compendium of ancient philosophers' lives and moral teachings, compiled in the 14th century. This edition presents the Latin text with parallel Old Spanish translation and extensive scholarly notes.",
+  "notes": "This work was one of the most popular biographical collections of ancient philosophers in the Middle Ages, widely read and translated. It covers pre-Socratic philosophers through Hellenistic period.",
+  "format": "Critical edition with parallel Latin-Spanish text and scholarly apparatus",
+  "philosophers_covered": [
+    "Thales",
+    "Solon",
+    "Anaximander",
+    "Anaximenes",
+    "Anaxagoras",
+    "Pythagoras",
+    "Socrates",
+    "Plato",
+    "Aristotle",
+    "and many others"
+  ]
+}

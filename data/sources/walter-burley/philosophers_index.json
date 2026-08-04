@@ -1,0 +1,87 @@
+{
+  "source": "Walter Burley - De Vita et Moribus Philosophorum",
+  "editor": "Hermann Knust (1886)",
+  "total_philosophers": "~130+ (estimated)",
+  "extracted_so_far": 3,
+  "philosophers": [
+    {
+      "chapter": 1,
+      "name_latin": "Thales",
+      "name_spanish": "Tales",
+      "name_english": "Thales of Miletus",
+      "origin": "Miletus (Phoenician nobility)",
+      "category": "Seven Sages of Greece",
+      "period": "Pre-Socratic",
+      "death_age": 78,
+      "file": "01_thales.md",
+      "key_topics": [
+        "astronomy",
+        "geometry",
+        "navigation",
+        "immortality of soul",
+        "first philosopher",
+        "olive press anecdote"
+      ]
+    },
+    {
+      "chapter": 2,
+      "name_latin": "Solon",
+      "name_spanish": "Solón",
+      "name_english": "Solon of Athens",
+      "origin": "Athens",
+      "category": "Seven Sages of Greece",
+      "period": "Archaic",
+      "death_age": "60-80",
+      "file": "02_solon.md",
+      "key_topics": [
+        "lawgiver",
+        "political reform",
+        "tyranny opposition",
+        "meeting with Croesus",
+        "Roman law influence",
+        "social justice"
+      ]
+    },
+    {
+      "chapter": 3,
+      "name_latin": "Chilon",
+      "name_spanish": "Chilón",
+      "name_english": "Chilon of Sparta",
+      "origin": "Lacedaemon (Sparta)",
+      "category": "Seven Sages of Greece",
+      "period": "Archaic",
+      "death_age": "50-60",
+      "file": "03_chilon.md",
+      "key_topics": [
+        "Spartan virtue",
+        "self-control",
+        "moral discipline",
+        "leadership ethics",
+        "control of tongue",
+        "Corinth diplomatic mission"
+      ]
+    }
+  ],
+  "upcoming_chapters": [
+    {
+      "chapter": 4,
+      "name_latin": "Pittacus",
+      "name_spanish": "Pitaco",
+      "category": "Seven Sages of Greece",
+      "status": "to_extract"
+    },
+    {
+      "chapter": 5,
+      "name_latin": "Bias",
+      "name_spanish": "Biante",
+      "category": "Seven Sages of Greece",
+      "status": "to_extract"
+    }
+  ],
+  "notes": [
+    "Each philosopher entry contains: Latin text, Spanish translation, biographical data, anecdotes, philosophical maxims, death circumstances, and source references",
+    "Heavy annotation with manuscript variants (CRLNADGB, HADGB, etc.)",
+    "Primary source: Diogenes Laertius, with references to Plutarch, Valerius Maximus, Cicero, etc.",
+    "The work covers ancient Greek and Roman philosophers, organized chronologically and by school"
+  ]
+}

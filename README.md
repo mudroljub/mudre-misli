@@ -127,9 +127,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 ## TODO
 
 - dodati zaseban odeljak za anegdote
-- prevod interfejsa na staroslovenski
-- normalizovati imena filozofa da budu ka na sr wiki
-- dodati podatke iz https://books.google.ws/books?id=Oxw1AAAAIAAJ&printsec=frontcover#v=onepage&q&f=false
+- dodati podatke iz https://upload.wikimedia.org/wikipedia/commons/a/ab/BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf
 - zaminiti . sa · u staroslovenskom tekstu?
 - dodavati bio i dosledno odvojiti tipove
 - izbaciti slovo я

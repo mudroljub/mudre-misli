@@ -19,28 +19,16 @@ Ne izmišljati citate niti rekonstruisati izgubljene izreke. Uključivati samo o
 
 # Izvori
 
-Koristiti sledeće javno dostupne izvore:
+Kopije javno dostupnih izvora se nalaze u folderu data/sources. Izvori imaju svoje manifeste, npr:
 
-- Grčki original:
-  [https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD](https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CF%8C%CF%86%CF%89%CE%BD)
-
-- Engleski prevod (Robert Drew Hicks, 1925):
-  [https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers)
-
-## Lokalna kopija izvora (obavezno)
-
-U ovom repozitorijumu postoji lokalna kopija izvora i ona ima prioritet pri radu.
-
-- Engleski izvor: `data/sources/en/`
-- Grčki izvor: `data/sources/el/`
-- Manifest svih originalno preuzetih stranica: `data/sources/manifest.json`
-- Manifest deduplikovanih grčkih stranica: `data/sources/manifest.el.json`
+- Manifest svih originalno preuzetih stranica: `data/sources/diogenes-laertius/manifest.json`
+- Manifest deduplikovanih grčkih stranica: `data/sources/diogenes-laertius/manifest.el.json`
 
 Pravila upotrebe:
 
 1. Prvo koristiti lokalne fajlove iz `data/sources/`.
 2. Veb izvore koristiti samo za proveru ili osvežavanje kada lokalni fajl nedostaje ili je neispravan.
-3. Kod citiranja izvora u polju `source` i dalje navoditi Diogena po knjizi i odeljku (npr. `I.35`), a ne putanju fajla.
+3. Kod citiranja izvora u polju `source` navoditi autora, knjigu i odeljak (npr. `I.35`), a ne putanju fajla.
 
 Grčki tekst koristiti za proveru izvornog značenja.
 
