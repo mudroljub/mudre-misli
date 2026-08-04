@@ -32,9 +32,11 @@ export default function QuotePageClient({
           ) : null}
           <h2>{authorName}</h2>
 
-          <p>{getTextForLanguage(quote, language)}</p>
+          <blockquote>{getTextForLanguage(quote, language)}</blockquote>
 
-          {quote.el && <p className="original-quote">{quote.el}</p>}
+          {quote.el && (
+            <blockquote className="original-quote">{quote.el}</blockquote>
+          )}
 
           <p className="source-line">
             {t.source}: {quote.source}

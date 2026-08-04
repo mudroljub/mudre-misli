@@ -202,13 +202,15 @@
         "type": "quote",
         "sr": "Ne kaješ se valjda što su te Tridesetorica previdela?",
         "stsl": "Не каєши ли сѧ · ꙗко тѧ Тридесѧть прѣзрѣша ·",
+        "el": "Ἇρα μήτι σοι μεταμέλει;",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.34"
     },
     {
         "type": "anecdote",
-        "sr": "Kriton je Sokrata izveo iz vajarske radionice i obrazovao ga, zadivljen lepotom njegovog duha. Sokrat je zatim o moralu razgovarao po radionicama i na trgu. Zbog žestine rasprave ljudi su ga ponekad udarali i čupali za kosu, ali je poruge i nasilje podnosio mirno.",
+        "sr": "Kriton je Sokrata izveo iz vajarske radionice i obrazovao ga, zadivljen lepotom njegovog duha. Sokrat je zatim o moralu razgovarao po radionicama i na trgu. Zbog žestine rasprave ljudi su ga ponekad udarali i čupali za kosu, ali je poruge i nasilje podnosao mirno.",
         "stsl": "Критонъ Сократа отъ каменосѣчьскыѧ дѣлательнице изведе и поѹчи єго · красотѣ дѹха єго дивѧ сѧ · Сократъ потомь о нравѣхъ въ дѣлательницахъ и на тръжишти бесѣдовааше · Жестости ради прѣниꙗ чловѣци иногда биꙗхѫ єго и власы тръзаахѫ · онъ же порѫганіє и насилиє тихо тръпѣаше ·",
+        "el": "Κρίτωνα δ' ἀναστῆσαι αὐτὸν ἀπὸ τοῦ ἐργαστηρίου καὶ παιδεῦσαι τῆς κατὰ ψυχὴν χάριτος ἐρασθέντα Δημήτριός φησίν ὁ Βυζάντιος. Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ. Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.20–21",
         "year": -470
@@ -217,6 +219,7 @@
         "type": "quote",
         "sr": "Zar bi više volela da stradam pravedno?",
         "stsl": "Еда паче хотѣла бы єси · да по правдѣ постраждꙫ ·",
+        "el": "Σὺ δ' ἐβούλου δικαίως;",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35"
     },
@@ -224,6 +227,7 @@
         "type": "quote",
         "sr": "Trećeg dana ću umreti.",
         "stsl": "Въ трети дьнь ѹмрѫ ·",
+        "el": "Ἤματί κεν τριτάτῳ Φθίην ἐρίβωλον ἵκοιο.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35"
     },
@@ -231,6 +235,7 @@
         "type": "quote",
         "sr": "Zar je moja odeća dovoljno dobra da u njoj živim, ali nije da u njoj umrem?",
         "stsl": "Еда риза моꙗ довольно добра єсть · да въ неи живѫ · нъ не да въ неи ѹмрѫ ·",
+        "el": "Τί δέ, τὸ ἐμὸν ἱμάτιον ἐμβιῶναι μὲν ἐπιτήδειον, ἐναποθανεῖν δὲ οὐχί;",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35"
     },
@@ -238,6 +243,7 @@
         "type": "quote",
         "sr": "Govori loše o meni jer nikada nije naučio da govori dobro.",
         "stsl": "Зълѣ о мнѣ глаголеть · зане николиже добрѣ глаголати не наѹчи сѧ ·",
+        "el": "Καλῶς γάρ λέγειν οὐκ ἔμαθε.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35"
     },
@@ -245,6 +251,7 @@
         "type": "quote",
         "sr": "Kroz tvoj ogrtač vidim tvoju sujetu.",
         "stsl": "Сквозѣ плашть твои тъштеславиє твоє виждꙫ ·",
+        "el": "Ὁρῶ σου διὰ τοῦ τρίβωνος τὴν κενοδοξίαν.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.36"
     },
@@ -252,6 +259,7 @@
         "type": "quote",
         "sr": "Ne vređa me, jer se njegove reči ne odnose na mene.",
         "stsl": "Не обидить мене · зане словеса єго ко мнѣ не относѧть сѧ ·",
+        "el": "Οὐχί· ἐμοὶ γὰρ οὐ πρόσεστι ταῦτα.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.36"
     },
@@ -259,6 +267,7 @@
         "type": "quote",
         "sr": "Ne treba se protiviti tome da budemo predmet komediografa: ako ismevaju naše mane, koristiće nam; ako ih nemamo, njihove nas reči ne dotiču.",
         "stsl": "Не подобає противити сѧ · да смѣхотворьци о насъ глаголѭть · аште порокы наша осмѣваѭть · на пользꙫ намъ бѹдеть · аште ихъ не имамы · словеса ихъ насъ не касаѭть сѧ ·",
+        "el": "Ἔλεγε δὲ τοῖς κωμικοῖς δεῖν ἐπίτηδες ἑαυτὸν διδόναι· εἰ μὲν γάρ τι τῶν προσόντων λέξειαν, διορθώσονται· εἰ δ' οὔ, οὐδὲν πρὸς ἡμᾶς.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.36"
     },
@@ -266,6 +275,7 @@
         "type": "quote",
         "sr": "Konjanici vole plahovite konje: kada njih ukrote, lako izlaze na kraj sa ostalima. Tako ću i ja, živeći sa Ksantipom, naučiti da se prilagodim svim ljudima.",
         "stsl": "Коньници любѧть плаховиты кони · єгда ихъ ѹкротаѭть · легко съ прочими справлѧѭть сѧ · Тако и азъ · съ Ксантипою живы · всѣмъ чловѣкомъ прилагати сѧ наѹчꙫ ·",
+        "el": "Ἕλεγε συνεῖναι τραχείᾳ γυναικὶ καθάπερ οἱ ἱππικοὶ θυμοειδέσιν ἵπποις. Ἀλλ' ὡς ἐκεῖνοι, φησί, τούτων κρατήσαντες ῥᾳδίως τῶν ἄλλων περιγίνονται, οὕτω κἀγὼ Ξανθίππῃ χρώμενος τοῖς ἄλλοις ἀνθρώποις συμπεριενεχθήσομαι.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.37"
     },
@@ -273,20 +283,23 @@
         "type": "quote",
         "sr": "Beseda je lepa, Lisija, ali meni ne priliči. Zar mi isto tako ne bi bile neprikladne lepa odeća i lepe cipele?",
         "stsl": "Бесѣда красна єсть · Лисиє · нъ мнѣ не подобаєть · Не были ли бы ми такожде неподобьны красна риза и красны сапогы ·",
+        "el": "Καλὸς μὲν ὁ λόγος, ὦ Λυσία, οὐ μὴν ἁρμόττων γ' ἐμοί. Οὐ γὰρ καὶ ἱμάτια καλὰ καὶ ὑποδήματα εἴη ἂν ἐμοὶ ἀνάρμοστα.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.40–41"
     },
     {
-        "type": "reported",
-        "sr": "Prema nekima, Sokrat je sastavio pesmu: „Zdravo, Apolone, gospodaru Dela! Zdravo, Artemido, plemeniti par!” Dionisodor je poricao da je pesma njegova.",
-        "stsl": "По нѣкоторымъ · Сократъ пѣснь състави · Радѹи сѧ · Аполоне · господине Дела · Радѹи сѧ · Артемидо · благородьна двоице · Дионисодоръ отъмѣтааше · ꙗко пѣснь єго єсть ·",
-        "author": "Sokrat",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.42"
+        “type”: “reported”,
+        “sr”: “Prema nekima, Sokrat je sastavio pesmu: „Zdravo, Apolone, gospodaru Dela! Zdravo, Artemido, plemeniti par!” Dionisodor je poricao da je pesma njegova.”,
+        “stsl”: “По нѣкоторымъ · Сократъ пѣснь състави · Радѹи сѧ · Аполоне · господине Дела · Радѹи сѧ · Артемидо · благородьна двоице · Дионисодоръ отъмѣтааше · ꙗко пѣснь єго єсть ·”,
+        “el”: “Ἀλλὰ καὶ παιᾶνα κατά τινας ἐποίησεν, οὗ ἡ ἀρχή· Δήλι' Ἄπολλον χαῖρε, καὶ Ἄρτεμι, παῖδε κλεεινώ. Διονυσόδωρος δέ φησι μὴ εἶναι αὐτοῦ τὸν παιᾶνα.”,
+        “author”: “Sokrat”,
+        “source”: “Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.42”
     },
     {
         "type": "quote",
         "sr": "Ne sudite, Korinćani, o vrlini onako kako sude sudovi.",
         "stsl": "Не сѫдите · Коринѳѧне · о добродѣтели ꙗкоже сѫдишта сѫдѧть ·",
+        "el": "Μὴ κρίνειν ἀρετὴν λαοδίκῳ σοφίῃ.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.42"
     },
@@ -294,6 +307,7 @@
         "type": "quote",
         "sr": "Gde ljudi postaju dobri i časni? Pođi za mnom i naučićeš.",
         "stsl": "Къдѣ чловѣци добри и чьстьни бываѭть · По мнѣ иди и наѹчиши сѧ ·",
+        "el": "Ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι; Ἕπου τοίνυν καὶ μάνθανε.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.48"
     },
@@ -301,6 +315,7 @@
         "type": "quote",
         "sr": "Samo mesarev sin ume da me poštuje.",
         "stsl": "Тъкмо мѧсарьскъ сынъ ѹмѣєть мѧ почитати ·",
+        "el": "Μόνος ἡμᾶς οἶδε τιμᾶν ὁ τοῦ ἀλλαντοποιοῦ.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.60"
     },
@@ -308,13 +323,15 @@
         "type": "quote",
         "sr": "Pozajmljuj od sebe tako što ćeš smanjiti svoje obroke.",
         "stsl": "Отъ себе заимаи · свою пиштꙫ ѹмалѧѧ ·",
+        "el": "Παρ' ἑαυτοῦ δανείζεσθαι τῶν σιτίων ὑφαιροῦντα.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.62"
     },
     {
         "type": "anecdote",
         "sr": "U bici kod Delija Sokrat je spasao Ksenofonta koji je pao s konja, a pri opštem povlačenju mirno je odstupao, osvrćući se i spreman da se brani. Kod Potideje je čitavu noć ostao nepomičan i zaslužio nagradu za hrabrost, ali ju je ustupio Alkibijadu.",
-        "stsl": "Въ брани при Делии Сократъ Ксенофонта · съ конѧ падъшаго · спасе · при обьштемь же отъстѫплении тихо отъхождааше · озираѧ сѧ и готовъ брани сѧ · При Потидеи цѣлꙫ ношть недвижимъ прѣбысть и мъздꙫ храбрости заслѹжи · нъ ѭ Алкивиадѹ ѹстѹпи ·",
+        "stsl": "Въ брани при Делии Сokratъ Ксенофонта · съ конѧ падъшаго · спасе · при обьштемь же отъстѫплении тихо отъхождааше · озираѧ сѧ и готовъ брани сѧ · При Потидеи цѣлꙫ ношть недвижимъ прѣбысть и мъздꙫ храбрости заслѹжи · нъ ѭ Алкивиадѹ ѹстѹпи ·",
+        "el": "Ἐστρατεύσατο γοῦν εἰς Ἀμφίπολιν· καὶ Ξενοφῶντα ἀφ' ἵππου πεσόντα ἐν τῇ κατὰ Δήλιον μάχῃ διέσωσεν ὑπολαβών. Ὅτε καὶ πάντων φευγόντων Ἀθηναίων αὐτὸς ἠρέμα ἀνεχώρει, παρεπιστρεφόμενος ἡσυχῇ καὶ τηρῶν ἀμύνασθαι εἴ τις οἱ ἐπέλθοι. Ἐστρατεύσατο δὲ καὶ εἰς Ποτίδαιαν διὰ θαλάττης. Ὅτε καὶ μεῖναι νυκτὸς ὅλης ἐφ' ἑνὸς σχήματος αὐτόν φασι, καὶ ἀριστεύσαντα αὐτόθι παραχωρῆσαι Ἀλκιβιάδῃ τοῦ ἀριστείου.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.22–23",
         "year": -424
@@ -323,6 +340,7 @@
         "type": "anecdote",
         "sr": "Sokrat nije naplaćivao poučavanje. Odbio je veliko zemljište koje mu je nudio Alkibijad, kao i darove Arhelaja Makedonskog, Skopasa iz Kranona i Euriloha iz Larise, i nije hteo da ode na njihove dvorove. Živeo je toliko umereno i uredno da je u više atinskih epidemija jedini ostajao nezaražen.",
         "stsl": "Сократъ за поѹченіє мъзды не приємлѧаше · Великꙫ землѭ · ѭже Алкивиадъ ємѹ подавааше · отъмѣте · такожде и дары Архелаꙗ Македоньскаго · Скопы Краноньскаго и Еврилоха Ларисьскаго · и на дворы ихъ ити не хотѣаше · Толико мѣрьно и чиньно живѣаше · ꙗко въ многыхъ Атиньскыхъ морахъ єдинъ незараженъ прѣбывааше ·",
+        "el": "Μισθόν τε οὐδένα εἰσεπράξατο. Καί ποτε Ἀλκιβιάδου διδόντος αὐτῷ χώραν μεγάλην ἵνα οἰκοδομήσηται οἰκίαν φάναι· Ὑπερεφρόνησε δὲ καὶ Ἀρχελάου τοῦ Μακεδόνος καὶ Σκόπα τοῦ Κρανωνίου καὶ Εὐρυλόχου τοῦ Λαρισσαίου, μήτε χρήματα προσέμενος παρ' αὐτῶν μήτε παρ' αὐτοὺς ἀπελθών. Εὔτακτός τε ἦν τὴν δίαιταν οὕτως ὥστε πολλάκις Ἀθήνησι λοιμῶν γενομένων μόνος οὐκ ἐνόσησε.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.25",
         "year": -423
@@ -331,6 +349,7 @@
         "type": "anecdote",
         "sr": "Aristip je kao prvi Sokratov učenik koji je naplaćivao poučavanje poslao učitelju dvadeset mina. Sokrat je sav novac vratio, rekavši da mu božanski znak ne dopušta da ga primi.",
         "stsl": "Аристипъ ꙗко пьрвыи Сократовъ ѹченикъ · иже за поѹченіє мъздꙫ приємлѧаше · ѹчителю двадесѧть минъ посла · Сократъ вьсе сребро възврати · рекъ · ꙗко божьє знаменіє не попѹштаєть ємѹ приѧти є ·",
+        "el": "Καί ποτε πέμψας αὐτῷ μνᾶς εἴκοσι παλινδρόμους ἔλαβεν, εἰπόντος Σωκράτους τὸ δαιμόνιον αὐτῷ μὴ ἐπιτρέπειν· ἐδυσχέραινε γὰρ ἐπὶ τούτῳ.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.65",
         "year": -420
@@ -339,6 +358,7 @@
         "type": "anecdote",
         "sr": "Verovalo se da je Sokrat pomagao Euripidu pri sastavljanju drama. Atinski komediografi su ih zbog toga zajedno ismevali, nazivajući Euripida napravom koju je Sokrat zakovao i tvrdeći da mu Sokrat sastavlja zvučne, ali prazne komade.",
         "stsl": "Вѣровааше сѧ · ꙗко Сократъ Еврипидѹ при съставлєнии позоришть помагаше · Атиньстии смѣхотворьци обоихъ сего ради осмѣваахѫ · Еврипида строємъ отъ Сократа съкованымъ нарицаѭште и глаголѭште · ꙗко Сократъ ємѹ гласны · нъ празны творы съставлѧєть ·",
+        "el": "Ἐδόκει δὲ συμποιεῖν Εὐριπίδῃ· ὅθεν Μνησίλοχος οὕτω φησί· Φρύγες ἐστὶ καινὸν δρᾶμα τοῦτ' Εὐριπίδου, ᾧ καὶ Σωκράτης τὰ φρύγαν' ὑποτίθησι. Καὶ πάλιν, Εὐριπίδας σωκρατογόμφους. Καὶ Καλλίας Πεδήταις· (Α.) Τί δὴ σὺ σεμνὴ καὶ φρονεῖς οὕτω μέγα; (Β.) Ἔξεστι γάρ μοι· Σωκράτης γὰρ αἴτιος. Ἀριστοφάνης Νεφέλαις· Εὐριπίδῃ δ' ὁ τὰς τραγῳδίας ποιῶν τὰς περιλαλούσας οὗτός ἐστι, τὰς σοφάς.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.18–19",
         "year": -418
@@ -346,7 +366,8 @@
     {
         "type": "anecdote",
         "sr": "Aristoksen je, nasuprot drugim prikazima Sokratovog siromaštva i besplatnog poučavanja, tvrdio da je Sokrat ulagao novac, trošio kamatu i zatim ponovo davao glavnicu pod kamatu.",
-        "stsl": "Аристоксенъ · противѹ прочимъ повѣстемъ о Сократовѣ ништетьствѣ и безмъздьномъ поѹчении · твьрждааше · ꙗко Сократъ сребро въ прибытъкъ давааше · лихвꙫ истрачааше и потомь главницꙫ пакы на лихвꙫ давааше ·",
+        "stsl": "Аристоксенъ · противѹ прочимъ повѣстемъ о Сократовѣ ништетьствѣ и безмъздьномъ поѹчении · твьрждааше · ꙗko Сократъ сребро въ прибытъкъ давааше · лихвꙫ истрачааше и потомь главницꙫ пакы на лихвꙫ давааше ·",
+        "el": "Φησὶ δ' αὐτὸν Ἀριστόξενος ὁ Σπινθάρου καὶ χρηματίσασθαι. Τιθέντα γοῦν τὸ βαλλόμενον κέρμα ἀθροίζειν· εἶτ' ἀναλώσαντα πάλιν τιθέναι.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.20",
         "year": -416
@@ -355,6 +376,7 @@
         "type": "anecdote",
         "sr": "Sokrat je umeo i da podstakne i da odvrati. Teeteta je razgovorom o znanju nadahnuo, Eutifrona odvratio od tužbe protiv oca, Lisida usmerio vrlini, sina Lamprokla naveo da se postidi gneva prema majci, neiskusnog Glaukona odvratio od politike, a obdarenog Harmida ohrabrio da joj se posveti.",
         "stsl": "Сократъ ѹмѣаше и подъвигнѫти и отъвратити · Теетета бесѣдою о вѣдѣнии въдѹшеви · Евтифрона отъ тѫжбы на отьца отъврати · Лисида къ добродѣтели настави · сына Лампрокла гнѣва къ матери постыдѣти сѧ сътвори · неискѹснаго Главкона отъ градьскыхъ дѣлъ отъврати · даровитаго же Хармида на нѧ ободри ·",
+        "el": "Ἱκανὸς δ' ἀμφότερα ἦν, καὶ προτρέψαι καὶ ἀποτρέψαι. Ὥσπερ τὸν Θεαίτητον περὶ ἐπιστήμης διαλεχθεὶς ἔνθεον ἀπέπεμψε, καθὰ καὶ Πλάτων φησίν. Εὐθύφρονα δὲ τῷ πατρὶ γραψάμενον ξενοκτονίας δίκην περὶ ὁσίου τινὰ διαλεχθεὶς ἀπήγαγε. Καὶ τὸν Λύσιν δὲ ἠθικώτατον ἐποίησα προτρέψας. Ἦν γὰρ ἱκανὸς ἀπὸ τῶν πραγμάτων τοὺς λόγους εὑρίσκειν. Ἐνέτρεψε δὲ καὶ Λαμπροκλέα τὸν υἱὸν τῇ μητρὶ ἀγριαινόμενον, ὥς που καὶ Ξενοφῶν εἴρηκε. Καὶ Γλαύκωνα μὲν τὸν Πλάτωνος ἀδελφὸν θέλοντα πολιτεύεσθαι ἀπέστησε διὰ τὸ ἀπείρως ἔχειν, ὥς φησι Ξενοφῶν· Χαρμίδην δὲ τοὐναντίον ἔχοντα οἰκείως ἐπέστησεν.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.29",
         "year": -412
@@ -363,6 +385,7 @@
         "type": "anecdote",
         "sr": "Da bi u vojskovođi Ifikratu probudio borbeni duh, Sokrat mu je pokazao kako borbeni petlovi brijača Midije prkosno šire krila pred Kalijinim petlovima.",
         "stsl": "Да въ воєводѣ Ификратѣ браньныи дѹхъ възбѹдить · Сократъ ємѹ показа · ꙗко боины пѣтели брадобрѣꙗ Мидиꙗ прѣдъ Калииными пѣтели прѣзрѣньно крилы распростираѭть ·",
+        "el": "Ἐπῆρε δὲ καὶ εἰς φρόνημα Ἰφικράτην τὸν στρατηγόν, δείξας αὐτῷ τοῦ κουρέως Μειδίου ἀλεκτρυόνας ἀντίον τῶν Καλλίου πτερυξαμένους.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.30",
         "year": -408
@@ -371,6 +394,7 @@
         "type": "anecdote",
         "sr": "Fedon je kao ratni zarobljenik bio primoran na ponižavajuće ropstvo. Sokrat je nagovorio Kritona da ga otkupi i tako ga pridobio za filozofiju.",
         "stsl": "Федонъ ꙗко браньныи плѣньникъ на понижаѭште рабьство принѫжденъ бысть · Сократъ Критона ѹвѣшта · да єго искѹпить · и тако къ любомѫдрию єго приведе ·",
+        "el": "Φαίδωνα δὲ δι' αἰχμαλωσίαν ἐπ' οἰκήματος καθήμενον προσέταξε Κρίτωνι λυτρώσασθαι, καὶ φιλόσοφον ἀπειργάσατο.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.31",
         "year": -405
@@ -378,7 +402,8 @@
     {
         "type": "anecdote",
         "sr": "Kada je u Euripidovoj drami čuo stih da vrlinu treba pustiti da luta, Sokrat je ustao i napustio pozorište. Rekao je da je besmisleno dizati uzbunu zbog nestalog roba, a dopuštati da se vrlina tako izgubi.",
-        "stsl": "Єгда въ Еврипидовѣ драмѣ рѣчь ѹслыша · ꙗко добродѣтель пѹстити блѫдити подобає · Сократъ въста и позориште остави · Рече · ꙗко безѹмьно єсть о исчезъшемь рабѣ мѧтежь въздвизати · добродѣтели же тако погыбнѫти попѹштати ·",
+        "stsl": "Єgда въ Еврипидовѣ драмѣ рѣчь ѹслыша · ꙗко добродѣтель пѹстити блѫдити подобає · Сократъ въста и позориште остави · Рече · ꙗко безѹмьно єсть о исчезъшемь рабѣ мѧтежь въздвизати · добродѣтели же тако погыбнѫти попѹштати ·",
+        "el": "Εὐριπίδου δ' ἐν τῇ αὐτοῦ εἰπόντος περὶ ἀρετῆς, Κράτιστον εἰκῆ ταῦτ' ἐᾶν ἀφειμένα, ἀναστὰς ἐξῆλθε, φήσας γελοῖον εἶναι ἀνδράποδον μὲν μὴ εὑρισκόμενον ἀξιοῦν ζητεῖν, ἀρετὴν δ' οὕτως ἐᾶν ἀπολωλέναι.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.33",
         "year": -404
@@ -387,6 +412,7 @@
         "type": "anecdote",
         "sr": "Ksantipa je jednom najpre izgrdila Sokrata, a zatim ga polila vodom. Drugom prilikom mu je na trgu strgla ogrtač, ali je odbio savet prijatelja da joj uzvrati udarac i od njihovog sukoba napravi javnu predstavu.",
         "stsl": "Ксантипа єдиною Сократа пьрво изрѹга · потомь водою поли · Дрѹгою же на тръжишти плашть съ него сътръже · онъ же съвѣтъ дрѹговъ отъмѣте · да єи ѹдаромъ възвратить и отъ прѣниꙗ ихъ всенародьно позорище сътворить ·",
+        "el": "Πρὸς Ξανθίππην πρότερον μὲν λοιδοροῦσαν, ὕστερον δὲ καὶ περιχέασαν αὐτῷ, « Οὐκ ἔλεγον, » εἶπεν, « ὅτι Ξανθίππη βροντῶσα καὶ ὕδωρ ποιήσει; » Ποτὲ αὐτῆς ἐν ἀγορᾷ καὶ θοἰμάτιον περιελομένης συνεβούλευον οἱ γνώριμοι χερσὶν ἀμύνασθαι· « Νὴ Δί', » εἶπεν, « ἵν' ἡμῶν πυκτευόντων ἕκαστος ὑμῶν λέγῃ, εὖ Σώκρατες, εὖ Ξανθίππη; »",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.36–37",
         "year": -403
@@ -395,6 +421,7 @@
         "type": "anecdote",
         "sr": "U starosti je Sokrat naučio da svira liru, jer nije video ništa neprilično u učenju nove veštine. Redovno je i plesao, verujući da takva vežba održava telo zdravim.",
         "stsl": "Въ старости Сократъ на гѹслехъ играти наѹчи сѧ · зане ничтоже неподобьно въ ѹчении новаго хѹдожьства видѣаше · И обычно плѧсааше · вѣрѹѧ · ꙗко таково ѹпражненіє тѣло здраво съхранѧєть ·",
+        "el": "Ἀλλὰ καὶ λυρίζειν ἐμάνθανεν ἤδη γηραιός, μηδὲν λέγων ἄτοπον εἶναι ἅ τις μὴ οἶδεν ἐκμανθάνειν. Ἔτι τε ὠρχεῖτο συνεχές, τῇ τοῦ σώματος εὐεξίᾳ λυσιτελεῖν ἡγούμενος τὴν τοιαύτην γυμνασίαν, ὡς καὶ Ξενοφῶν ἐν Συμποσίῳ φησίν.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.32",
         "year": -402
@@ -403,6 +430,7 @@
         "type": "anecdote",
         "sr": "Aristotel prenosi da je jedan mag iz Sirije došao u Atinu i Sokratu, uz druga zla, prorekao nasilnu smrt.",
         "stsl": "Аристотель прѣдаєть · ꙗко єдинъ влъсвъ отъ Сирии въ Атины приде и Сократѹ · съ прочими зълыми · насильнꙫ смрьть прѣрече ·",
+        "el": "Φησὶ δ' Ἀριστοτέλης μάγον τινὰ ἐλθόντα ἐκ Συρίας εἰς Ἀθήνας τά τε ἄλλα καταγνῶναι τοῦ Σωκράτους καὶ δὴ καὶ βίαιον ἔσεσθαι τὴν τελευτὴν αὐτῷ.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.45",
         "year": -400
@@ -419,6 +447,7 @@
         "type": "anecdote",
         "sr": "Sokrat je odbio naređenje Kritije i Tridesetorice da dovede Leonta sa Salamine na pogubljenje. Jedini je glasao da se deset vojskovođa oslobodi, a kada je sam bio osuđen, odbio je bekstvo iz zatvora i korio prijatelje što oplakuju njegovu sudbinu.",
         "stsl": "Сократъ повелѣніє Критиꙗ и Тридесѧти отъмѣте · да Леонта Саламиньскаго на погѹбленіє приведеть · Єдинъ за освобожденіє десѧти воєводъ гласова · самъ же осѫжденъ бѣжавъство отъ темнице отъмѣте и дрѹгы обличаше · зане сѫдьбꙫ єго оплаковаахѫ ·",
+        "el": "Ἦν δὲ καὶ ἰσχυρογνώμων καὶ δημοκρατικός, ὡς δῆλον ἔκ τε τοῦ μὴ εἶξαι τοῖς περὶ Κριτίαν κελεύουσι Λέοντα τὸν Σαλαμίνιον, ἄνδρα πλούσιον, ἀγαγεῖν πρὸς αὐτοὺς ὥστε ἀπολέσθαι· ἀλλὰ καὶ μόνος ἀποψηφίσασθαι τῶν δέκα στρατηγῶν. Καὶ ἐνὸν αὐτῷ ἀποδρᾶναι τῆς εἱρκτῆς μὴ ἐθελῆσαι· τοῖς τε κλαίουσιν αὐτὸν ἐπιπλῆξαι καὶ τοὺς καλλίστους λόγους ἐκείνους δεδεμένον διαθέσθαι.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.24",
         "year": -399
@@ -435,6 +464,7 @@
         "type": "anecdote",
         "sr": "Sokrat je u zatvoru razgovarao sa prijateljima, a zatim ispio kukutu. Atinjani su se ubrzo pokajali: zatvorili su vežbališta, prognali druge tužioce, Meleta osudili na smrt i Sokratu podigli bronzani kip koji je izradio Lisip.",
         "stsl": "Сократъ въ темници съ дрѹгы бесѣдова · потомь же отровьнꙫ травꙫ испи · Атинѧне скоро покаꙗша сѧ · ѹчилишта тѣлесьна затвориша · прочаꙗ обвинителѧ изгнаша · Мелета на смрьть осѫдиша и Сократѹ мѣдѣнъ образъ · єгоже Лисипъ сътвори · въздвигоша ·",
+        "el": "Καὶ δεθεὶς μετ' οὐ πολλὰς ἡμέρας ἔπιε τὸ κώνειον, πολλὰ καλὰ κἀγαθὰ διαλεχθείς, ἃ Πλάτων ἐν τῷ Φαίδωνί φησιν. Ὁ μὲν οὖν ἐξ ἀνθρώπων ἦν· Ἀθηναῖοι δ' εὐθὺς μετέγνωσαν, ὥστε κλεῖσαι καὶ παλαίστρας καὶ γυμνάσια. Καὶ τοὺς μὲν ἐφυγάδευσαν, Μελήτου δὲ θάνατον κατέγνωσαν. Σωκράτην δὲ χαλκῇ εἰκόνι ἐτίμησαν, ἣν ἔθεσαν ἐν τῷ Πομπείῳ, Λυσίππου ταύτην ἐργασαμένου.",
         "author": "Sokrat",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.42–43",
         "year": -399
