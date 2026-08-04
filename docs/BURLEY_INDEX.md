@@ -2,170 +2,182 @@
 
 Walter Burley (Gualterus Burlaeus, c. 1275–1344/45)
 
-**Izvor**: Inhaltsregister (Table of Contents) sa str. 440-441
-
 Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od najpopularnijih knjiga o antičkim filozofima u srednjem veku.
 
-**Legenda**:
+**Legenda:**
 - ✅ = Ekstraktovano u `data/sources/walter-burley/latin_raw/`
 
-**Napomena**: Lista sadrži ~125 figura, uključujući i ne-filozofe (pesnike, političare, lekare)
+**Organizacija:** Hronološki po redosledu poglavlja (kao u originalnoj knjizi)
 
 ---
 
-## Svi Filozofi u Knjizi (Alfabetski)
+## Svi Filozofi u Knjizi (Hronološki po poglavljima)
 
-### A
+### Rani presokratovci i Sedmorica mudraca
 
-1. **Aeschines** (Eshin) - c. XXXV, s. 156
-2. **Aeschylus** (Eshil) - c. LVI, s. 252
-3. **Aesopus** (Ezop) - c. XXIV, s. 98
-4. **Alcibiades** (Alkibijad) - c. XXXIV, s. 153 - ✅
-5. **Anacharsis** (Anaharsis) - c. X, s. 48
-6. **Anaxagoras** (Anaksagora) - c. XVIII, s. 80 - ✅
-7. **Anaximander** (Anaksimander) - c. IX, s. 48 - ✅
-8. **Anaximenes** (Anaksimen) - c. XVI, s. 54 - ✅
-9. **Anaximenes lampascus** (Anaksimen Lampsački) - c. LXII, s. 273
-10. **Antipater sidonius** (Antipatar Sidonski) - c. LXI, s. 226
-11. **Antisthenes** (Antisten) - c. XXXIII, s. 152 - ✅
-12. **Apollonius** (Apolonije) - c. CXXXII, s. 326
-13. **Apuleius** (Apulej) - c. LVIII, s. 254
-14. **Aratus** (Arat) - c. LXIII, s. 276
-15. **Archesilaus** (Arkesilao) - c. LXVII, s. 292
-16. **Archilochus** (Arhiloh) - c. XLI, s. 86
-17. **Archimedes** (Arhimed) - c. LXXIV, s. 294
-18. **Archytas** (Arhita) - c. XXIII, s. 90 - ✅
-19. **Aristarchus** (Aristarh) - c. LXXIII, s. 308 - ✅
-20. **Aristides** (Aristid) - c. XLI, s. 174
-21. **Aristippus** (Aristip) - c. XXXI, s. 142 - ✅
-22. **Aristoteles** (Aristotel) - c. LIII, s. 224 - ✅
-23. **Athenodorus** (Atenodor) - c. CXII, s. 354
+1. Tales (Thales, c. I, s. 2) ✅
+2. Solon (Solon, c. II, s. 12) ✅
+3. Katon (Cato, c. III, s. 92)
+4. Pitak (Pittacus, c. IV, s. 28) ✅
+5. Bijant (Bias, c. V, s. 32) ✅
+6. Kleobul (Cleobulus, c. VI, s. 40) ✅
+7. Periandar (Periander, c. VII, s. 44)
+8. Zoroaster (Zoroastes, c. VIII, s. 46) ✅
+9. Mison (Misosternon, c. IX, s. 52)
+10. Anaksimander (Anaximander, c. IX, s. 48) ✅
+11. Anaharsis (Anacharsis, c. X, s. 48)
+12. Epimenid (Epimenides, c. XII, s. 54)
+13. Ferekid (Pherecides, c. XIII, s. 56)
+14. Homer (Homerus, c. XIV, s. 54)
+15. Likurg (Lycurgus, c. XV, s. 60)
 
-### B-C
+### Pitagorejci i jonski filozofi
 
-24. **Basilides** (Bazilid) - c. CXXIV, s. 386 - ✅
-25. **Bias** (Bijant) - c. V, s. 32 - ✅
-26. **Callisthenes** (Kalisten) - c. LXV, s. 278
-27. **Callinachos** (Kalimah) - c. LXVI, s. 278
-28. **Cato** (Katon) - c. III, s. 92
-29. **Carneades** (Karnead) - c. LXIX, s. 298
-30. **Chrysippus** (Hrisip) - c. XXIX, s. 102 - ✅
-31. **Claudianus** (Klaudijan) - c. CXXX, s. 392
-32. **Cleanthes** (Kleant) - c. XVI, s. 106
-33. **Cleobulus** (Kleobul) - c. VI, s. 40 - ✅
-34. **Cornelius Gallus** (Kornelije Gal) - c. CIX, s. 360a
-35. **Crates** (Kret) - c. XVII, s. 56
+16. Anaksimen (Anaximenes, c. XVI, s. 54) ✅
+17. Kleant (Cleanthes, c. XVI, s. 106)
+18. Kret (Crates, c. XVII, s. 56)
+19. Pitagora (Pythagoras, c. XVII, s. 72) ✅
+20. Anaksagora (Anaxagoras, c. XVIII, s. 80) ✅
+21. Stilpon (Stilpon, c. XX, s. 88)
 
-### D-E
+### Pesnici i govornici
 
-36. **Demetrius** (Demetrije) - c. LXII, s. 270
-37. **Democritus** (Demokrit) - c. XLIIII, s. 160 - ✅
-38. **Demosthenes** (Demosten) - c. XXXVII, s. 166 - ✅
-39. **Diodorus Cronus** (Diodor Kron) - c. LXIX, s. 292
-40. **Diodorus Siculus** (Diodor Sicilijski) - c. XCII, s. 318
-41. **Diogenes babylonius** (Diogen Vavilonski) - c. XCVI, s. 324
-42. **Diogenes cynicus** (Diogen Kinik) - c. I, s. 197 - ✅
-43. **Empedocles** (Empedoklo) - c. XLVI, s. 186 - ✅
-44. **Ennius** (Enije) - c. LXXXI, s. 306
-45. **Epicurus** (Epikur) - c. LXIV, s. 272 - ✅
-46. **Epimenides** (Epimenid) - c. XII, s. 54
-47. **Eratosthenes** (Eratosten) - c. LXXIII, s. 294 - ✅
-48. **Euclides** (Euklid) - c. XIII, s. 176
-49. **Eudoxus** (Eudoks) - c. XLII, s. 180 - ✅
-50. **Euripides philosophus** (Euripid) - c. XXXVI, s. 158
+22. Arhiloh (Archilochus, c. XLI, s. 86)
+23. Arhita (Archytas, c. XXIII, s. 90) ✅
+24. Ezop (Aesopus, c. XXIV, s. 98)
+25. Simonid (Simonides, c. XXIII, s. 98)
+26. Zenon Stoik (Zeno citieus, c. XXV, s. 94) ✅
+27. Gorgija (Gorgias, c. XXVI, s. 96) ✅
 
-### G-H
+### Sofisti i retori
 
-51. **Galenus** (Galen) - c. CXXII, s. 384
-52. **Gorgias** (Gorgija) - c. XXVI, s. 96 - ✅
-53. **Hecaton** (Hekaton) - c. XC, s. 310
-54. **Hegesiae** (Hegezija) - c. LXXX, s. 306
-55. **Hermes Trismegistus** (Hermes Trismegist) - c. LIX, s. 262 - ✅
-56. **Heraclitus** (Heraklit) - c. XLVIII, s. 188 - ✅
-57. **Herodotus** (Herodot) - c. LXV, s. 278
-58. **Hippocrates** (Hipokrat) - c. XLV, s. 180
-59. **Homerus** (Homer) - c. XIV, s. 54
-60. **Horatius** (Horacije) - c. CX, s. 350
+28. Protagora (Protagoras, c. XXVIII, s. 104) ✅
+29. Hrisip (Chrysippus, c. XXIX, s. 102) ✅
 
-### J-L
+### Sokrat i sokratovci
 
-61. **Julius Celsus** - c. VI, s. 340
-62. **Justinus** - c. CXXVIII, s. 392
-63. **Livius** - c. LXXXVIII, s. 310
-64. **Lucretia** - c. CI, s. 334
-65. **Lycurgus** - c. XV, s. 60
+30. Sokrat (Socrates, c. XXX, s. 108) ✅
+31. Aristip (Aristippus, c. XXXI, s. 142) ✅
+32. Ksenofont (Xenophon, c. XXXII, s. 150) ✅
+33. Antisten (Antisthenes, c. XXXIII, s. 152) ✅
+34. Alkibijad (Alcibiades, c. XXXIV, s. 153) ✅
+35. Eshin (Aeschines, c. XXXV, s. 156)
+36. Euripid (Euripides philosophus, c. XXXVI, s. 158)
+37. Demosten (Demosthenes, c. XXXVII, s. 166) ✅
+38. Sofokle (Sophocles, c. XXXVIII, s. 168)
 
-### M
+### Državnici i vojskovođe
 
-66. **Menander** - c. LXXVI, s. 302
-67. **Mison (Misosternon)** - c. IX, s. 52
-68. **Musonius Planicius** - c. C, s. 333
+39. Perikle (Pericles, c. XXXIX, s. 170)
+40. Temistokle (Themistocles, c. XL, s. 172)
+41. Aristid (Aristides, c. XLI, s. 174)
 
-### O-P
+### Naučnici i matematičari
 
-69. **Ovidius** (Ovidije) - c. CXIII, s. 354
-70. **Pachvius** (Pahvije) - c. LXXXIII, s. 308
-71. **Panaetius** (Panetije) - c. LXXXVIII, s. 308
-72. **Parmenides** (Parmenid) - c. XLIX, s. 192 - ✅
-73. **Periander** (Periandar) - c. VII, s. 44
-74. **Pericles** (Perikle) - c. XXXIX, s. 170
-75. **Phaedon** (Fedon) - c. LV, s. 252
-76. **Pherecides** (Ferekid) - c. XIII, s. 56
-77. **Philemon** (Filemon) - c. LXXVII, s. 302
-78. **Pittacus** (Pitak) - c. IV, s. 28 - ✅
-79. **Plato** (Platon) - c. LII, s. 214 - ✅
-80. **Plinius** (Plinije) - c. CXX, s. 368
-81. **Plotinus** (Plotin) - c. LIX, s. 258 - ✅
-82. **Plotinus Gallius** (Plotin Galski) - c. LXXXVI, s. 308
-83. **Plutarchus** (Plutarh) - c. CXIX, s. 364
-84. **Polemo** (Polemon) - c. LXX, s. 292
-85. **Polystratus** (Polistrat) - c. LXV, s. 278
-86. **Pompeius Trogus** (Pompej Trog) - c. CXVII, s. 392
-87. **Pomponius bononiensis** (Pomponije Bolonjski) - c. CIV, s. 334
-88. **Porcius Cato** (Porcije Katon) - c. XCVI, s. 328
-89. **Porphyrius** (Porfirije) - c. CXIX, s. 392 - ✅
-90. **Posidopius** (Posidonije) - c. LXXIX, s. 310
-91. **Priscianus** (Priscijan) - c. CXXXII, s. 395
-92. **Protagoras** (Protagora) - c. XXVIII, s. 104 - ✅
-93. **Ptolemaeus Philadelphus** (Ptolomej Filadelfa) - c. LXXV, s. 296
-94. **Ptolemaeus Claudius** (Ptolomej Klaudije) - c. CXXI, s. 370
-95. **Pythagoras** (Pitagora) - c. XVII, s. 72 - ✅
+42. Eudoks (Eudoxus, c. XLII, s. 180) ✅
+43. Demokrit (Democritus, c. XLIIII, s. 160) ✅
+44. Hipokrat (Hippocrates, c. XLV, s. 180)
+45. Empedoklo (Empedocles, c. XLVI, s. 186) ✅
 
-### Q-S
+### Eleati i atomisti
 
-96. **Quintilianus** (Kvintilijan) - c. CXVIII, s. 362
-97. **Sallustius** (Salustije) - c. XCIX, s. 332
-98. **Scipio** (Scipion) - c. XCIV, s. 312
-99. **Secundus** (Sekund) - c. CXII, s. 372
-100. **Seneca** (Seneka) - c. CXVII, s. 356
-101. **Simonides** (Simonid) - c. XXIII, s. 98
-102. **Socrates** (Sokrat) - c. XXX, s. 108 - ✅
-103. **Solon** (Solon) - c. II, s. 12 - ✅
-104. **Sophocles** (Sofokle) - c. XXXVIII, s. 168
-105. **Speusippus** (Speusip) - c. LVII, s. 252 - ✅
-106. **Statius Caecilius** (Stacije Cecilije) - c. LXXXIV, s. 308
-107. **Stilpo** (Stilpon) - c. XX, s. 88
-108. **Symachus** (Simah) - c. CXXXI, s. 392
+46. Heraklit (Heraclitus, c. XLVIII, s. 188) ✅
+47. Parmenid (Parmenides, c. XLIX, s. 192) ✅
+47a. Diogen Kinik (Diogenes cynicus, c. XLIX, s. 197) ✅
+47b. Zenon iz Eleje (Zeno Eleates, c. LXXIX, s. 306) ✅
 
-### T
+### Platonova akademija
 
-109. **Terentius** (Terencije) - c. CVII, s. 342
-110. **Thales** (Tales) - c. I, s. 2 - ✅
-111. **Themistocles** (Temistokle) - c. XL, s. 172
-112. **Theophrastus** (Teofrast) - c. LXVIII, s. 282 - ✅
-113. **Tullius Cicero** (Ciceron) - c. XCV, s. 318
-114. **Tyrtaeus Catalus** (Tirtej Katal) - c. LXXII, s. 294
+48. Platon (Plato, c. LII, s. 214) ✅
+49. Aristotel (Aristoteles, c. LIII, s. 224) ✅
+50. Fedon (Phaedon, c. LV, s. 252) ✅
+51. Eshil (Aeschylus, c. LVI, s. 252) ✅
+52. Speusip (Speusippus, c. LVII, s. 252) ✅
+53. Apulej (Apuleius, c. LVIII, s. 254)
 
-### V-Z
+### Neoplatonici i gnostici
 
-115. **Valerius Maximus** (Valerije Maksim) - c. CXV, s. 356
-116. **Varro** (Varon) - c. XCVIII, s. 330
-117. **Vergilius** (Vergilije) - c. CIV, s. 335
-118. **Varius Geminus** (Varije Gemin) - c. CVI, s. 356
-119. **Xenocrates** (Ksenokrat) - c. LXI, s. 264 - ✅
-120. **Xenophilus** (Ksenofil) - c. LXIX, s. 252
-121. **Xenophon** (Ksenofont) - c. XXXII, s. 150 - ✅
-122. **Zeno** (Zenon) - c. CXI, s. 350
-123. **Zeno citieus** (Zenon Stoik) - c. XXV u. LXXVIII, s. 94 u. 304
-124. **Zeno Eleates** (Zenon iz Eleje) - c. LXXIX, s. 306
-125. **Zoroastes** (Zoroaster) - c. VIII, s. 46 - ✅
+54. Plotin (Plotinus, c. LIX, s. 258) ✅
+55. Hermes Trismegist (Hermes Trismegistus, c. LIX, s. 262) ✅
+56. Ksenokrat (Xenocrates, c. LXI, s. 264) ✅
+57. Antipatar Sidonski (Antipater sidonius, c. LXI, s. 226)
+58. Demetrije (Demetrius, c. LXII, s. 270)
+59. Anaksimen Lampsački (Anaximenes lampascus, c. LXII, s. 273)
+60. Arat (Aratus, c. LXIII, s. 276)
+61. Epikur (Epicurus, c. LXIV, s. 272) ✅
+62. Herodot (Herodotus, c. LXV, s. 278)
+63. Kalisten (Callisthenes, c. LXV, s. 278)
+64. Polistrat (Polystratus, c. LXV, s. 278)
+65. Kalimah (Callinachos, c. LXVI, s. 278)
+66. Arkesilao (Archesilaus, c. LXVII, s. 292)
+67. Teofrast (Theophrastus, c. LXVIII, s. 282) ✅
+68. Karnead (Carneades, c. LXIX, s. 298)
+69. Diodor Kron (Diodorus Cronus, c. LXIX, s. 292)
+70. Ksenofil (Xenophilus, c. LXIX, s. 252)
+71. Polemon (Polemo, c. LXX, s. 292) ✅
+
+### Helenistički period
+
+72. Tirtej Katal (Tyrtaeus Catalus, c. LXXII, s. 294)
+73. Aristarh (Aristarchus, c. LXXIII, s. 308) ✅
+74. Eratosten (Eratosthenes, c. LXXIII, s. 294) ✅
+75. Arhimed (Archimedes, c. LXXIV, s. 294) ✅
+76. Ptolomej Filadelfa (Ptolemaeus Philadelphus, c. LXXV, s. 296) ✅
+77. Menander (Menander, c. LXXVI, s. 302)
+78. Filemon (Philemon, c. LXXVII, s. 302)
+79. Zenon Stoik (Zeno citieus, c. LXXVIII, s. 304) ✅
+80. Posidonije (Posidopius, c. LXXIX, s. 310)
+82. Hegezija (Hegesiae, c. LXXX, s. 306)
+83. Enije (Ennius, c. LXXXI, s. 306)
+84. Pahvije (Pachvius, c. LXXXIII, s. 308)
+85. Stacije Cecilije (Statius Caecilius, c. LXXXIV, s. 308)
+86. Plotin Galski (Plotinus Gallius, c. LXXXVI, s. 308)
+87. Livije (Livius, c. LXXXVIII, s. 310)
+88. Panetije (Panaetius, c. LXXXVIII, s. 308)
+89. Hekaton (Hecaton, c. XC, s. 310)
+
+### Rimski period
+
+90. Diodor Sicilijski (Diodorus Siculus, c. XCII, s. 318)
+91. Scipion (Scipio, c. XCIV, s. 312)
+92. Ciceron (Tullius Cicero, c. XCV, s. 318)
+93. Diogen Vavilonski (Diogenes babylonius, c. XCVI, s. 324)
+94. Porcije Katon (Porcius Cato, c. XCVI, s. 328)
+95. Varon (Varro, c. XCVIII, s. 330)
+96. Salustije (Sallustius, c. XCIX, s. 332)
+97. Musonije Planicije (Musonius Planicius, c. C, s. 333)
+98. Lukrecija (Lucretia, c. CI, s. 334)
+99. Vergilije (Vergilius, c. CIV, s. 335)
+100. Pomponije Bolonjski (Pomponius bononiensis, c. CIV, s. 334)
+101. Varije Gemin (Varius Geminus, c. CVI, s. 356)
+102. Terencije (Terentius, c. CVII, s. 342)
+103. Kornelije Gal (Cornelius Gallus, c. CIX, s. 360a)
+104. Horacije (Horatius, c. CX, s. 350)
+105. Zenon (Zeno, c. CXI, s. 350)
+106. Atenodor (Athenodorus, c. CXII, s. 354)
+107. Sekund (Secundus, c. CXII, s. 372)
+108. Ovidije (Ovidius, c. CXIII, s. 354)
+109. Valerije Maksim (Valerius Maximus, c. CXV, s. 356)
+110. Seneka (Seneca, c. CXVII, s. 356)
+111. Pompej Trog (Pompeius Trogus, c. CXVII, s. 392)
+112. Kvintilijan (Quintilianus, c. CXVIII, s. 362)
+113. Plutarh (Plutarchus, c. CXIX, s. 364) ✅
+114. Porfirije (Porphyrius, c. CXIX, s. 392) ✅
+115. Plinije (Plinius, c. CXX, s. 368)
+116. Ptolomej Klaudije (Ptolemaeus Claudius, c. CXXI, s. 370)
+117. Galen (Galenus, c. CXXII, s. 384)
+118. Bazilid (Basilides, c. CXXIV, s. 386) ✅
+119. Justinus (Justinus, c. CXXVIII, s. 392)
+120. Klaudijan (Claudianus, c. CXXX, s. 392)
+121. Simah (Symachus, c. CXXXI, s. 392)
+122. Apolonije (Apollonius, c. CXXXII, s. 326)
+123. Priscijan (Priscianus, c. CXXXII, s. 395)
+124. Julije Celz (Julius Celsus, c. VI, s. 340)
+
+---
+
+**Napomene:**
+- Lista prati originalnu hronološku organizaciju knjige (Cap. I → CXXXII)
+- Neke poglavlja pokrivaju više figura ili se ponavljaju sa različitim brojevima
+- Ukupno ekstrahovano: **42/125 figura** (✅)
+- Fokus na filozofe iz `data/authors.json` (23/25 pokriveno)
