@@ -140,7 +140,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 90. Diodor Sicilijski (Diodorus Siculus, c. XCII, s. 318)
 91. Scipion (Scipio, c. XCIV, s. 312)
-92. Ciceron (Tullius Cicero, c. XCV, s. 318)
+92. Ciceron (Tullius Cicero, c. XCV, s. 318) ✅
 93. Diogen Vavilonski (Diogenes babylonius, c. XCVI, s. 324)
 94. Porcije Katon (Porcius Cato, c. XCVI, s. 328)
 95. Varon (Varro, c. XCVIII, s. 330)
@@ -160,12 +160,12 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 109. Valerije Maksim (Valerius Maximus, c. CXV, s. 356)
 110. Seneka (Seneca, c. CXVII, s. 356) ✅
 111. Pompej Trog (Pompeius Trogus, c. CXVII, s. 392)
-112. Kvintilijan (Quintilianus, c. CXVIII, s. 362)
+112. Kvintilijan (Quintilianus, c. CXVIII, s. 362) ✅
 113. Plutarh (Plutarchus, c. CXIX, s. 364) ✅
 114. Porfirije (Porphyrius, c. CXIX, s. 392) ✅
 115. Plinije (Plinius, c. CXX, s. 368)
 116. Ptolomej Klaudije (Ptolemaeus Claudius, c. CXXI, s. 370)
-117. Galen (Galenus, c. CXXII, s. 384)
+117. Galen (Galenus, c. CXXII, s. 384) ✅
 118. Bazilid (Basilides, c. CXXIV, s. 386) ✅
 119. Justinus (Justinus, c. CXXVIII, s. 392)
 120. Klaudijan (Claudianus, c. CXXX, s. 392)
