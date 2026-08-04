@@ -1,7 +1,7 @@
 export const quoteTypes = ['quote', 'reported', 'anecdote', 'bio'] as const;
 export type QuoteType = (typeof quoteTypes)[number];
 
-export const supportedLanguages = ['stsl', 'sr', 'el'] as const;
+export const supportedLanguages = ['stsl', 'sr'] as const;
 export type Language = (typeof supportedLanguages)[number];
 
 export interface Quote {

@@ -20,4 +20,3 @@ npm start
 - dodati biografske iteme (type: 'bio') za postojeće filozofe
 - obraditi podatke iz latinskog teksta
 - srediti jezičke rute
-- izbaciti iz UI grčki jezik

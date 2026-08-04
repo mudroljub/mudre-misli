@@ -50,22 +50,6 @@ export const translations: Record<Language, Translations> = {
     sectionQuotes: 'Izreke',
     sectionAnecdotes: 'Život',
   },
-  el: {
-    siteTitle: 'Σοφαὶ γνῶμαι',
-    randomQuote: 'Τυχαῖα ρῆσις',
-    quoteDetails: 'Λεπτομέρειες ρήσεως',
-    source: 'Πηγή',
-    backToHome: 'Ἀρχική',
-    viewAllQuotes: 'Πᾶσαι ρήσεις',
-    quotesBy: 'Ρήσεις ὑπό',
-    pageNotFound: 'Σελὶς οὐχ εὑρέθη',
-    pageNotFoundMessage: 'Ἡ σελὶς ἣν ζητεῖς οὐκ ὑπάρχει.',
-    returnHome: 'Ἐπιστροφὴ εἰς ἀρχήν',
-    noQuotesForAuthor: 'Οὐκ εἰσὶ ρήσεις τοῦ συγγραφέως.',
-    openQuote: 'Ἄνοιξον ρῆσιν',
-    sectionQuotes: 'Γνῶμαι',
-    sectionAnecdotes: 'Βίος',
-  },
 };
 
 export function getTranslation(language: Language): Translations {
