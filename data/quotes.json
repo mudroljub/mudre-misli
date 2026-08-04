@@ -3256,50 +3256,78 @@
   },
   {
     "type": "quote",
-    "sr": "Četiri elementa potpuno prelaze jedan u drugi i grade živu, razumnu i kuglastu vaseljenu, sa kuglastom Zemljom u središtu, naseljenom sa svih strana; postoje i antipodi, kojima je naše dole njihovo gore.",
-    "sl": "Четыре състави вьсецѣло єдина въ дрѹгꙫ прѣходѧть и живꙫ, разѹмьнꙫ и крѹглообразнꙫ васєленꙫ съзидаѭть, съ крѹглою Землєю посредѣ, отъвьсѫдѹ населенꙫ; сѫть и противоножьници, имъже наше долѣ єсть горѣ.",
+    "sr": "Četiri stihije potpuno prelaze jedna u drugu i tvore živu, razumnu i okruglu vaseljenu, sa okruglom Zemljom u središtu, naseljenom sa svih strana. Postoje i oni na suprotnoj strani, kojima je naše dole njihovo gore.",
+    "sl": "Четыре стихии вьсецѣло єдина въ дрѹгꙋ прѣмѣнѧѭть сѧ и живꙋ, разумьнꙋ и крѫглꙋ васєленꙋ творѧть, съ крѫглою Землѥю посредѣ, отъвьсѫдѹ населенꙋ. Сѫть и инии на противьнѣи странѣ, имъже наше долѣ єсть горѣ.",
     "author": "Pitagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.25"
   },
   {
     "type": "quote",
-    "sr": "Svetlost i tama, toplo i hladno, suvo i vlažno imaju jednak udeo u vaseljeni. Njihova prevaga stvara godišnja doba, a ravnoteža najbolje vreme; jutro pripada svežini, veče propadanju. Vazduh pri zemlji je nepokretan i nezdrav i sve je u njemu smrtno, dok je najviši vazduh večito pokretan, čist i zdrav i sve je u njemu besmrtno i božansko.",
-    "sl": "Свѣтъ и тьма, теплое и стѹденое, сѹхое и влажное равьнъ дѣлъ въ васєленѣ имѫть. Прѣвъзмогание ихъ лѣтьна врѣмена творить, равьность же наилѹчьшеє врѣмѧ; ѹтро къ свѣжести, вечеръ къ тлѣнию принадлежить. Въздѹхъ при земли недвижимъ и нездравъ, и вьсѧ въ немь съмрьтна сѫть; вышнии же въздѹхъ приснодвижимъ, чистъ и здравъ, и вьсѧ въ немь бесъмрьтна и божьствьна.",
+    "sr": "Svetlost i tama, toplo i hladno, suvo i vlažno imaju jednak udeo u vaseljeni. Njihova prevlast stvara godišnja doba, a ravnoteža najbolje vreme.",
+    "sl": "Свѣтъ и тьма, теплое и стѹденое, сѹхое и влажное равьнъ дѣлъ въ васєленѣ имѫть. Прѣвъзмогание ихъ лѣтьна врѣмена творить, равьность же благо врѣмѧ.",
     "author": "Pitagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.26"
   },
   {
     "type": "quote",
-    "sr": "Sunce, Mesec i ostale zvezde su bogovi jer u njima preovlađuje toplota, uzrok života. Mesec je obasjan Suncem. Bogovi i ljudi su srodni jer čovek učestvuje u toploti, pa se Bog stara o čoveku. Sudbina je uzrok poretka svega, kako celine tako i pojedinosti.",
-    "sl": "Слъньце, мѣсѧць и прочаꙗ звѣзды бози сѫть, зане въ нихъ теплота прѣвъзмогаєть, ꙗже вина живота єсть. Мѣсѧць слъньцемъ освѣштаєть сѧ. Бози и чловѣци сродьни сѫть, зане чловѣкъ теплоты причѧстьнъ; тѣмь Богъ о чловѣцѣ печеть сѧ. Сѫдьба вина єсть чина вьсего, и цѣлаго и частънаго.",
+    "sr": "Jutro pripada svežini, veče propadanju.",
+    "sl": "Ѹтро къ свѣжести, вечеръ къ тлѣнию принадлежить.",
+    "author": "Pitagora",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.26"
+  },
+  {
+    "type": "quote",
+    "sr": "Vazduh pri zemlji je nepokretan i nezdrav i sve je u njemu smrtno, dok je najviši vazduh večito pokretan, čist i zdrav i sve je u njemu besmrtno i božansko.",
+    "sl": "Въздѹхъ при земли недвижимъ и нездравъ, и вьсѧ въ немь съмрьтна сѫть; вышнии же въздѹхъ приснодвижимъ, чистъ и здравъ, и вьсѧ въ немь бесъмрьтнаѧ и божьствьнаѧ.",
+    "author": "Pitagora",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.26"
+  },
+  {
+    "type": "quote",
+    "sr": "Sunce, Mesec i ostale zvezde su bogovi jer u njima preovlađuje toplota, uzrok života. Mesec je obasjan Suncem. Bogovi i ljudi su srodni jer čovek učestvuje u toploti, pa se Bog stara o čoveku.",
+    "sl": "Слъньце, мѣсѧць и прочаꙗ звѣзды бози сѫть, зане въ нихъ теплота прѣвъзмогаєть, ꙗже вина живота єсть. Мѣсѧць слъньцемъ освѣштаєть сѧ. Бози и чловѣци сродьни сѫть, зане чловѣкъ теплоты причѧстьнъ; тѣмь Богъ о чловѣцѣ печеть сѧ.",
     "author": "Pitagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.27"
   },
   {
     "type": "quote",
-    "sr": "Sve što ima udela u toploti živi, pa su i biljke žive; ali nema sve dušu. Duša je odvojeni deo etra, i toplog i hladnog, razlikuje se od života i besmrtna je jer je besmrtno ono od čega se odvojila. Živa bića rađaju se jedna od drugih iz semena; nema samoniklog nastanka iz zemlje.",
-    "sl": "Вьсѧ, ꙗже теплоты причѧстьна сѫть, живѫть, тѣмь и былиꙗ жива сѫть; нъ не вьсѧ дѹшꙫ имѫть. Дѹша отъдѣленъ дѣлъ вышнѧго въздѹха єсть, и тепла и стѹдена, отъ живота различьна и бесъмрьтна, зане бесъмрьтно єсть оно, отъ негоже отъдѣли сѧ. Жива сѫшта єдина отъ дрѹгыихъ изъ сѣмене раждаѭть сѧ; саморождениꙗ отъ земли нѣсть.",
+    "sr": "Sudbina je uzrok poretka svega, kako celine tako i pojedinosti.",
+    "sl": "Сѫдьба вина єсть чина вьсего, и цѣлаго и частънаго.",
+    "author": "Pitagora",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.27"
+  },
+  {
+    "type": "quote",
+    "sr": "Sve što ima udela u toploti živi, pa su zato i biljke žive. Ali nema sve dušu. Duša je odvojeni deo etra, toplote i hladnoće; razlikuje se od života i besmrtna je, jer je besmrtno ono od čega se odvojila.",
+    "sl": "Вьсѧ, ꙗже теплоты причѧстьна сѫть, живѫть, тѣмь и былиꙗ жива сѫть. Нъ не вьсѧ дѹшꙫ имѫть. Дѹша єсть отъдѣленъ дѣлъ єтера, теплоты и стѹдениꙗ; отъ живота различьна єсть и бесъмрьтна, зане бесъмрьтно єсть оно, отъ негоже отъдѣли сѧ.",
     "author": "Pitagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.28"
   },
   {
     "type": "quote",
-    "sr": "Seme je ugrušak mozga sa toplom parom: iz njega u materici nastaju telesni delovi, dok iz unutrašnje pare nastaju duša i čulo. Zametak se oblikuje za oko četrdeset dana, a sazreva prema odnosima sklada za sedam, devet ili najviše deset meseci.",
-    "sl": "Сѣмѧ єсть съгѹстокъ мозга съ теплымъ паромъ: отъ него въ ѹтробѣ тѣлесьны дѣли бываѭть, отъ внѫтрьнѧго же пара дѹша и чѹвьство. Зародъ за около четыредесѧть дьнии образъ приємлеть, съзрѣваєть же по съвръзаниꙗ мѣрамъ за седмь, девѧть или наимнога десѧть мѣсѧць.",
+    "sr": "Živa bića rađaju se jedna od drugih iz semena; nema samorađanja iz zemlje.",
+    "sl": "Жива сѫшта єдина отъ дрѹгыихъ изъ сѣмене раждаѭть сѧ; саморождениꙗ отъ земли нѣсть.",
+    "author": "Pitagora",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.28"
+  },
+  {
+    "type": "quote",
+    "sr": "Seme je kap mozga sa toplom parom. Iz njega u materici nastaju telesni delovi, a iz pare duša i čulnost. Zametak se oblikuje za oko četrdeset dana, a sazreva prema zakonima harmonije za sedam, devet ili najviše deset meseci.",
+    "sl": "Сѣмѧ єсть каплѧ мозга съ теплымъ паромъ. Отъ него въ ѹтробѣ тѣлесьны дѣли бываѭть, отъ пара же дѹша и чѹвьство. Зародъ за около четыредесѧть дьнии образъ приємлеть, съзрѣваєть же по закономъ съгласиꙗ за седмь, девѧть или наимного десѧть мѣсѧць.",
     "author": "Pitagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.28–29"
   },
   {
     "type": "quote",
-    "sr": "Čulo, naročito vid, jeste izuzetno topla para; oči su vrata Sunca. Kada bi para u očima bila hladna, raspršila bi se u dodiru sa sebi sličnim vazduhom; isto načelo važi za sluh i druga čula.",
-    "sl": "Чѹвьство, наипаче зрѣние, єсть нарочито теплъ паръ; очи сѫть врата Слъньца. Аще бы паръ въ очихъ стѹденъ бѣ, при съприкоснѹтии съ подобьнымъ въздѹхомъ разсѣꙗлъ бы сѧ; тоє же начѧло о слѹсѣ и инѣхъ чѹвьствѣхъ дѣиствѹєть.",
+    "sr": "Čulo, naročito vid, jeste izuzetno topla para; oči su vrata Sunca. Kada bi para u očima bila hladna, raspršila bi se u dodiru sa sebi sličnim vazduhom. Isto načelo važi za sluh i druga čula.",
+    "sl": "Чѹвьство, наипаче зрѣние, єсть наитеплѣиши паръ; очи сѫть врата Слъньца. Аще бы паръ въ очихъ стѹденъ бѣ, при прикоснѫтии съ подобьнымъ въздѹхомъ разсѣꙗлъ бы сѧ. То же свойство и о слѹсѣ и инѣхъ чѹвьствѣхъ єсть.",
     "author": "Pitagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.29"
   },
   {
     "type": "quote",
-    "sr": "Um i strast imaju i druge životinje, a razum jedino čovek. Sedište duše pruža se od srca do mozga: strast je u srcu, razum i um u mozgu. Razum je besmrtan, a sve ostalo smrtno; duša se hrani krvlju, a njene moći su nevidljivi dahovi.",
-    "sl": "Умъ и страсть имѫть и ина животнаꙗ, разѹмъ же єдинъ чловѣкъ. Сѣдалище дѹше отъ срьдьца до мозга простирєть сѧ: страсть въ срьдьци, разѹмъ и ѹмъ въ моззѣ. Разѹмъ бесъмрьтенъ, прочаꙗ же съмрьтна; дѹша кръвию питаеть сѧ, силы же єѧ невидими дыханиꙗ сѫть.",
+    "sr": "Um i strast imaju i druge životinje, a razum jedino čovek. Sedište duše pruža se od srca do mozga: strast je u srcu, razum i um u mozgu. Razum je besmrtan, a sve ostalo smrtno. Duša se hrani krvlju, a njene moći su nevidljivi dahovi.",
+    "sl": "Умъ и страсть имѫть и ина животнаꙗ, разѹмъ же єдинъ чловѣкъ. Сѣдалище дѹше отъ срьдьца до мозга простирєть сѧ: страсть въ срьдьци, разѹмъ и ѹмъ въ моззѣ. Разѹмъ бесъмрьтенъ, прочаꙗ же съмрьтна. Дѹша кръвию питаеть сѧ, силы же єѧ невидими дыханиꙗ сѫть.",
     "author": "Pitagora",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.30"
   },
@@ -4940,6 +4968,48 @@
     "sl": "Фалесъ глаголаше, ꙗко сѫдьбѣ за три блага благодарить: ꙗко чловѣкомъ, а не животнымъ роди сѧ; мѫжемъ, а не женою; и Хеллиномъ, а не варваромъ.",
     "author": "Tales",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.33–34"
+  },
+  {
+    "type": "bio",
+    "sr": "Teofrast je bio iz Eresa; prvo je slušao Alkipa u rodnom gradu, zatim Platona, pa je prešao kod Aristotela. Po Aristotelovom odlasku u Halkidu preuzeo je školu i pred mnoštvom učenika predavao u Atini.",
+    "sl": "Тєофрастъ бѣ отъ Ереса; пьрвѣє слѹшаше Алкиппа въ своемь градѣ, таже Платона, потомь же прѣиде къ Аристотелѹ. По исходѣ єго въ Халкиду самъ школу прїѧть и въ Аѳинахъ великымъ множьствомь ѹченикъ ѹчаше.",
+    "author": "Teofrast",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.36–V.37"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada je Agnonid pokušao da ga tuži za bezbožnost, sam tužilac je skoro bio kažnjen, a Teofrast je, uprkos velikom ugledu, i dalje ostao cenjen u Atini.",
+    "sl": "Єгда Агнонїдъ покѹси сѧ на него за безбожіє, самъ тѫжитель почти казни прїѧтъ, а Тєофрастъ, при великѣмъ оуже славѣ, въ Аѳинахъ и паки чьтень бѣ.",
+    "author": "Teofrast",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.37"
+  },
+  {
+    "type": "quote",
+    "sr": "Neobuzdanog konja treba verovati više nego loše sređenoj besedi.",
+    "sl": "Невоздрьжнаго конѧ вѣрнѣє єсть вѣровати, нежели худо съставлѥномѹ слову.",
+    "author": "Teofrast",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.39"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Po Aristotelovoj smrti Teofrast je, posredstvom Demetrija Falerskog, dobio sopstveni vrt.",
+    "sl": "По смрьти Аристотелѣ Тєофрастъ, чрезъ Дємєтрїꙗ Фалерскаго, свой грѧдъ прїѧтъ.",
+    "author": "Teofrast",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.39"
+  },
+  {
+    "type": "quote",
+    "sr": "Ništa drugo osim toga da su mnoge užitke života samo privid; čim počnemo da živimo, eto nas kako umiremo. Nema ništa tako beskorisno kao ljubav prema slavi. Zbogom, i neka vam bude srećno. Ili odbacite moju nauku, koja zahteva mnogo truda, ili se pokažite njenim dostojnim braniteljima, jer ćete steći veliku slavu. U životu je više razočaranja nego koristi. Ali dok više ne mogu da raspravljam o tome šta treba činiti, nastavite s istraživanjem o pravednom životu.",
+    "sl": "Ничтоже ино, токмо сїє, ꙗко мнози сладости живота токмо привидъ сѫть; єгда бо начнемъ жити, се ѹмремъ. Ничтоже тогда тако безполѣзно єсть, ꙗкоже любовь славы. Прощайте, и да бѹдете благополучни. Или ѹчєніє моѥ, єже мьногъ трудъ съвѣтꙋѥть, отъпадите, или достойныхъ защитникъ сего прѣдъставите, зане великую славѫ прїѹмѣте. Въ животѣ болѣє разочарованїѩ, нежели полѣзы. Нъ, понеже болѣє не могу глаголати о томъ, что подобаєть дѣлати, вы Дальше изслѣдѹиꙗте о правомъ житїи.",
+    "author": "Teofrast",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.41"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Po njegovoj smrti svi su Atinjani, u znak poštovanja prema njemu, na nogama pratile njegov pogrebni proces.",
+    "sl": "По смрьти єго, въ честь мужа, вьси Атинѧне ногою погребныи ходъ проводиша.",
+    "author": "Teofrast",
+    "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, V.41"
   },
   {
     "type": "quote",
