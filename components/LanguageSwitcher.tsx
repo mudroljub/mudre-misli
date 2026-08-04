@@ -11,7 +11,7 @@ interface LanguageSwitcherProps {
 
 const languageNames: Record<Language, string> = {
   stsl: 'Словѣньскъ',
-  sr: 'Српски',
+  sr: 'Srpski',
   el: 'Ελληνικά',
 };
 

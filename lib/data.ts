@@ -26,7 +26,7 @@ const slugifyAuthor = (author: string): string =>
   author
     .toLowerCase()
     .normalize('NFKD')
-    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[̀-ͯ]/g, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '') || 'author';
 
@@ -53,6 +53,12 @@ const getTextForLanguage = (entry: QuoteWithId, language: Language = 'stsl'): st
   return entry.sr || entry.stsl || entry.el || '';
 };
 
+const getAuthorName = (author: string, language: Language = 'stsl'): string => {
+  const metadata = authorsData[author];
+  if (!metadata) return author;
+  return metadata[language] || author;
+};
+
 const quotesByLanguage: QuotesByLanguage = {
   sr: quotesData.filter((entry) => entry.sr),
   stsl: quotesData.filter((entry) => entry.stsl),
@@ -72,5 +78,6 @@ export {
   authorFromSlug,
   getLanguagePreference,
   getTextForLanguage,
+  getAuthorName,
   slugifyAuthor,
 };

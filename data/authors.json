@@ -1,94 +1,163 @@
 {
   "Anaksagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaxagoras.png?width=160",
-    "born": -500
+    "born": -500,
+    "sr": "Anaksagora",
+    "stsl": "Анаѯагоръ",
+    "el": "Ἀναξαγόρας"
   },
   "Protagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribera%20-%20Protagoras%2C%201637.jpg?width=160",
-    "born": -490
+    "born": -490,
+    "sr": "Protagora",
+    "stsl": "Протагоръ",
+    "el": "Πρωταγόρας"
   },
   "Leukip": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca%20Querini%20Stampalia%20-%20Leucippus%20-%20Luca%20Giordano.jpg?width=160",
-    "born": -480
+    "born": -480,
+    "sr": "Leukip",
+    "stsl": "Леѹкипъ",
+    "el": "Λεύκιππος"
   },
   "Demokrit": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribera%20-%20Dem%C3%B3crito%2C%20P001121.jpg?width=320",
-    "born": -460
+    "born": -460,
+    "sr": "Demokrit",
+    "stsl": "Демокритъ",
+    "el": "Δημόκριτος"
   },
   "Eudoks": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eudoxos%2C%20Sph%C3%A4renmodell.jpg?width=320",
-    "born": -408
+    "born": -408,
+    "sr": "Eudoks",
+    "stsl": "Еѹдоѯъ",
+    "el": "Εὔδοξος"
   },
   "Aristotel": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_Altemps_Inv8575.jpg?width=160",
-    "born": -384
+    "born": -384,
+    "sr": "Aristotel",
+    "stsl": "Аристотель",
+    "el": "Ἀριστοτέλης"
   },
   "Teofrast": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Theophrastus.jpg?width=160",
-    "born": -371
+    "born": -371,
+    "sr": "Teofrast",
+    "stsl": "Теофрастъ",
+    "el": "Θεόφραστος"
   },
   "Sokrat": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Socrates%20Louvre.jpg?width=320",
-    "born": -470
+    "born": -470,
+    "sr": "Sokrat",
+    "stsl": "Сократъ",
+    "el": "Σωκράτης"
   },
   "Ksenofont": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Xenophon.jpg?width=320",
-    "born": -430
+    "born": -430,
+    "sr": "Ksenofont",
+    "stsl": "Ѯєнофонтъ",
+    "el": "Ξενοφῶν"
   },
   "Aristip": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristippus%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=320",
-    "born": -435
+    "born": -435,
+    "sr": "Aristip",
+    "stsl": "Аристипъ",
+    "el": "Ἀρίστιππος"
   },
   "Antisten": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Antisthenes%20%282459020131%29.jpg?width=320",
-    "born": -446
+    "born": -446,
+    "sr": "Antisten",
+    "stsl": "Антисѳенъ",
+    "el": "Ἀντισθένης"
   },
   "Platon": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plato%20Silanion%20Musei%20Capitolini%20MC1377.jpg?width=320",
-    "born": -428
+    "born": -428,
+    "sr": "Platon",
+    "stsl": "Платонъ",
+    "el": "Πλάτων"
   },
   "Bijant iz Prijene": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bias_Pio-Clementino_Inv279.jpg?width=160",
-    "born": -625
+    "born": -625,
+    "sr": "Bijant iz Prijene",
+    "stsl": "Биѩнтъ отъ Прієны",
+    "el": "Βίας ὁ Πριηνεύς"
   },
   "Pitagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer_Pythagoras_adjusted.jpg?width=160",
-    "born": -570
+    "born": -570,
+    "sr": "Pitagora",
+    "stsl": "Пиѳагоръ",
+    "el": "Πυθαγόρας"
   },
   "Ksenofan": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenophanes%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=160",
-    "born": -570
+    "born": -570,
+    "sr": "Ksenofan",
+    "stsl": "Ѯєнофанъ",
+    "el": "Ξενοφάνης"
   },
   "Ksenokrat": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenocrates.jpg?width=160",
-    "born": -396
+    "born": -396,
+    "sr": "Ksenokrat",
+    "stsl": "Ѯєнократъ",
+    "el": "Ξενοκράτης"
   },
   "Parmenid": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Busto%20di%20Parmenide%20(cropped).jpg?width=160",
-    "born": -515
+    "born": -515,
+    "sr": "Parmenid",
+    "stsl": "Парменидъ",
+    "el": "Παρμενίδης"
   },
   "Zenon iz Eleje": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Zeno%20van%20Elea%2C%20RP-P-OB-17.264.jpg?width=160",
-    "born": -490
+    "born": -490,
+    "sr": "Zenon iz Eleje",
+    "stsl": "Зєнонъ отъ Єлеи",
+    "el": "Ζήνων ὁ Ἐλεάτης"
   },
   "Empedoklo": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Empedocles.jpg?width=160",
-    "born": -494
+    "born": -494,
+    "sr": "Empedoklo",
+    "stsl": "Емпєдоклъ",
+    "el": "Ἐμπεδοκλῆς"
   },
   "Heraklit": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Heraclitus_of_Ephesius._Wellcome_M0000762.jpg?width=160",
-    "born": -535
+    "born": -535,
+    "sr": "Heraklit",
+    "stsl": "Хєраклитъ",
+    "el": "Ἡράκλειτος"
   },
   "Tales": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thales_of_Miletus.jpg?width=160",
-    "born": -624
+    "born": -624,
+    "sr": "Tales",
+    "stsl": "Ѳалєсъ",
+    "el": "Θαλῆς"
   },
   "Anaksimander": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximander.jpg?width=160",
-    "born": -610
+    "born": -610,
+    "sr": "Anaksimander",
+    "stsl": "Анаѯимандръ",
+    "el": "Ἀναξίμανδρος"
   },
   "Anaksimen": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximenes.jpg?width=160",
-    "born": -585
+    "born": -585,
+    "sr": "Anaksimen",
+    "stsl": "Анаѯименъ",
+    "el": "Ἀναξιμένης"
   }
 }

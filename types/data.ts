@@ -20,6 +20,9 @@ export interface QuoteWithId extends Quote {
 export interface AuthorMetadata {
   src: string;
   born: number; // Negativna vrednost označava p. n. e, pozitivna n. e.
+  sr: string;
+  stsl: string;
+  el: string;
 }
 
 export type AuthorsData = Record<string, AuthorMetadata>;

@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
-import { getTextForLanguage } from '../lib/data';
+import { getTextForLanguage, getAuthorName } from '../lib/data';
 import { getTranslation } from '../lib/translations';
 import type { Language, QuoteWithId } from '../types/data';
 
@@ -24,7 +24,7 @@ export default function HomeContent({ featured }: HomeContentProps) {
         <h2>{t.randomQuote}</h2>
         <div className="quote-card">
           <p>{getTextForLanguage(featured, language)}</p>
-          <p className="author-line">— {featured.author}</p>
+          <p className="author-line">— {getAuthorName(featured.author, language)}</p>
           <Link href={`/quotes/${featured._id}`}>{t.quoteDetails}</Link>
         </div>
       </section>

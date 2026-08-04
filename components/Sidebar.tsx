@@ -17,11 +17,12 @@ export default function Sidebar({ language }: SidebarProps) {
         {authors.map((author) => {
           const metadata = authorsData[author];
           const slug = authorSlugs[author] ?? author;
+          const displayName = metadata[language] || author;
 
           return (
             <Link key={author} href={`/authors/${slug}`} className="sidebar-author">
-              {metadata.src ? <img src={metadata.src} alt={author} /> : null}
-              <span>{author}</span>
+              {metadata.src ? <img src={metadata.src} alt={displayName} /> : null}
+              <span>{displayName}</span>
             </Link>
           );
         })}

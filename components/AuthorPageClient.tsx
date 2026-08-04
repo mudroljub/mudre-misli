@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
-import { getTextForLanguage } from '../lib/data';
+import { getTextForLanguage, getAuthorName } from '../lib/data';
 import { getTranslation } from '../lib/translations';
 import type { AuthorMetadata, Language, QuoteWithId } from '../types/data';
 
@@ -21,15 +21,16 @@ export default function AuthorPageClient({
 }: AuthorPageClientProps) {
   const [language, setLanguage] = useState<Language>('stsl');
   const t = getTranslation(language);
+  const authorName = getAuthorName(author, language);
 
   return (
     <main className="page-shell">
       <Sidebar language={language} />
       <section className="content">
         <LanguageSwitcher currentLang={language} onChange={setLanguage} />
-        <h2>{author}</h2>
+        <h2>{authorName}</h2>
         {authorMeta.src ? (
-          <img className="author-portrait" src={authorMeta.src} alt={author} />
+          <img className="author-portrait" src={authorMeta.src} alt={authorName} />
         ) : null}
         {authorQuotes.length === 0 ? (
           <p>{t.noQuotesForAuthor}</p>
