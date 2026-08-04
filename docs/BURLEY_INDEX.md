@@ -158,7 +158,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 107. Sekund (Secundus, c. CXII, s. 372)
 108. Ovidije (Ovidius, c. CXIII, s. 354)
 109. Valerije Maksim (Valerius Maximus, c. CXV, s. 356)
-110. Seneka (Seneca, c. CXVII, s. 356)
+110. Seneka (Seneca, c. CXVII, s. 356) ✅
 111. Pompej Trog (Pompeius Trogus, c. CXVII, s. 392)
 112. Kvintilijan (Quintilianus, c. CXVIII, s. 362)
 113. Plutarh (Plutarchus, c. CXIX, s. 364) ✅
