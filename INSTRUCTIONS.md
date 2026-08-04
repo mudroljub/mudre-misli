@@ -303,6 +303,7 @@ Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema ka
 * στάσις - стояніє (alt: покои)
 * στίχος - рѣчь (alt: рѧдъ, стихъ)
 * στοιχεῖον - пьрвосъставъ (alt: съставъ)
+* τάξις - чинъ (alt: рѧдъ, строи)
 * τέλος - коньць (alt: цѣль)
 * τέχνη - художьство
 * τὸ εἶναι - бытиє
