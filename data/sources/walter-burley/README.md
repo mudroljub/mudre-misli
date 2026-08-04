@@ -91,6 +91,8 @@ Ovo delo je u **javnom vlasništvu** (Public Domain). Originalni tekst je iz 14.
 
 **Izvor**: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/ab/BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf)
 
+**Lokalni PDF**: `data/authors/walter-burley/BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf`
+
 ## Reference
 
 - Knust, Hermann (ed.). *Gualteri Burlaei Liber de Vita et Moribus Philosophorum*. Tübingen: Litterarischer Verein, 1886.

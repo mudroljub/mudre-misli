@@ -28,15 +28,16 @@
     "and many others"
   ],
   "extraction_info": {
-    "method": "pdftotext with -layout option",
+    "method": "Read tool (PDF pages)",
     "date": "2026-08-04",
-    "source_pdf": "../../../BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf",
-    "output_file": "latin_text_raw.txt",
-    "status": "raw_text_extracted",
+    "source_pdf": "../../authors/walter-burley/BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf",
+    "output_directory": "latin_raw/",
+    "status": "42_philosophers_extracted",
+    "philosophers_extracted": 42,
+    "total_philosophers_in_book": "~125",
     "next_steps": [
-      "Clean text (remove Spanish translation and German footnotes)",
-      "Separate by chapters/philosophers",
-      "Create index of philosophers"
+      "Extract remaining philosophers as needed",
+      "Cross-reference with authors.json"
     ]
   }
 }
