@@ -1595,7 +1595,7 @@
     "el": "Πόθεν σοι, λῃστά, ταῦτα;",
     "author": "Aristip",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.62",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:408"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:408#Πόθεν"
   },
   {
     "type": "quote",
@@ -1622,7 +1622,7 @@
     "el": "ἦν δ' ὁ Παυσανίας, ὥς φησιν Ἀρίστιππος καὶ Σάτυρος, ἐρώμενος αὐτοῦ.",
     "author": "Aristip",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.60",
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:723"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:723#ἦν δ'"
   },
   {
     "type": "anecdote",
@@ -2468,6 +2468,7 @@
     "type": "anecdote",
     "sr": "Diogen je govorio da je pravo značenje proroštva o kvarenju novca to da treba preinačiti ljudske običaje i merila vrednosti, a ne kovani novac.",
     "stsl": "Диогенъ глаголаше ꙗко повелѣніє о прѣмѣнѣ номисма значить не мѣдь точию · нъ и обычаи чловѣчьскы и мѣры цѣны прѣмѣнити ·",
+    "el": "τοῦ δὲ συγχωρήσαντος τὸ πολιτικὸν νόμισμα, οὐ συνείς, τὸ κέρμα ἐκιβδήλευσε.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.20",
     "year": -406,
@@ -2476,16 +2477,18 @@
   {
     "type": "anecdote",
     "sr": "Po dolasku u Atinu, Diogen je tražio da sluša Antistena. Iako ga je Antisten odbijao i pretio štapom, Diogen je istrajao i prinudio ga da ga primi među učenike.",
-    "stsl": "Приидѣвъ въ Атины · Диогенъ желаше слѹшати Антисѳена · И аще онъ єго штъпомъ отгонѣаше · Диогенъ прѣбываше и търпѣниємь себє въ ѹченики въведе ·",
+    "stsl": "Приидѣвъ въ Атины · Диогенъ желаше слѹшати Антисѳена · И аште онъ єго штъпомъ отгонѣаше · Диогенъ прѣбываше и търпѣниємь себє въ ѹченики въведе ·",
+    "el": "Γενόμενος δὲ Ἀθήνησιν Ἀντισθένει παρέβαλε. Τοῦ δὲ διωθουμένου διὰ τὸ μηδένα προσίεσθαι, ἐξεβιάζετο τῇ προσεδρίᾳ. Καί ποτε τὴν βακτηρίαν ἐπανατειναμένου αὐτῷ τὴν κεφαλὴν ὑποσχών, « Παῖε, » εἶπεν, « οὐ γὰρ εὑρήσεις οὕτω σκληρὸν ξύλον ᾧ με ἀπείρξεις ἕως ἄν τι φαίνῃ λέγων. »",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.21",
     "year": -399,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:222"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:222#Γενόμ"
   },
   {
     "type": "anecdote",
     "sr": "Gledajući miša koji se lako snalazi, Diogen je učio da se čovek prilagođava okolnostima i da živi jednostavno.",
     "stsl": "Зрѧ мышь скоро приспособлѧѭштѫ сѧ · Диогенъ ѹчаше ꙗко подобаєть чловѣкѹ къ обстоꙗниємъ прилѣплѧти сѧ и просто жити ·",
+    "el": "Μῦν θεασάμενος διατρέχοντα, καθά φησι Θεόφραστος ἐν τῷ Μεγαρικῷ, καὶ μήτε κοίτην ἐπιζητοῦντα μήτε σκότος εὐλαβούμενον ἢ ποθοῦντά τι τῶν δοκούντων ἀπολαυστῶν, πόρον ἐξεῦρε τῆς περιστάσεως.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.22",
     "year": -393,
@@ -2495,15 +2498,17 @@
     "type": "anecdote",
     "sr": "Nakon što je zarobljen i izveden na prodaju, na pitanje šta ume da radi odgovorio je: Da upravljam ljudima, a prodavaču rekao da oglasi ako neko želi da kupi gospodara.",
     "stsl": "Плѣнєнъ бывъ и на продажѫ поставлєнъ · на въпросъ что творити ѹмѣєши · отвѣща · чловѣкы правити · и вѣстникѹ рече да възгласи · аще кто господина кѹпити хоштєть ·",
+    "el": "ἁλοὺς καὶ πωλούμενος ἠρωτήθη τί οἶδε ποιεῖν. Ἀπεκρίνατο, « Ἀνδρῶν ἄρχειν »· καὶ πρὸς τὸν κήρυκα, « Κήρυσσε, » ἔφη, « εἴ τις ἐθέλει δεσπότην αὑτῷ πρίασθαι. »",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.29",
     "year": -387,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:240"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:240#ἁλοὺς"
   },
   {
     "type": "anecdote",
     "sr": "Kada je prodat kao rob, rekao je da treba prodati njega kao gospodara onome kome je potreban gospodar, i tako je završio u kući Ksenijada gde je upravljao domaćinstvom.",
     "stsl": "Єгда проданъ бысть ꙗко рабъ · рече себе продати ꙗко господина томѹ · комѹ господинъ потрѣбенъ єсть · и тако въ домѣ Ксениꙗда домъ строити начѧ ·",
+    "el": "Ἔλεγε τῷ Ξενιάδῃ τῷ πριαμένῳ αὐτόν, δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.74",
     "year": -380,
@@ -2513,15 +2518,17 @@
     "type": "anecdote",
     "sr": "U raskošnoj kući gde mu je domaćin branio da pljune, Diogen je pljunuo domaćinu u lice, rekavši da nije našao gore mesto.",
     "stsl": "Въ домѣ многоцѣньнѣмь · єгда господинъ ємѹ плюнѫти възбрани · Диогенъ въ лице ємѹ плюнѫ · рєкъ ꙗко хѹжа мѣста не обрѣтє ·",
+    "el": "Εἰσαγαγόντος τινὸς αὐτὸν εἰς οἶκον πολυτελῆ καὶ κωλύοντος πτύσαι, ἐπειδὴ ἐχρέμψατο, εἰς τὴν ὄψιν αὐτοῦ ἔπτυσεν, εἰπὼν χείρονα τόπον μὴ εὑρηκέναι.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.32",
     "year": -374,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:250"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:250#Εἰσαγ"
   },
   {
     "type": "anecdote",
     "sr": "Video je dete kako pije iz šaka i bacio svoju čašu, rekavši da ga je dete nadmašilo jednostavnošću.",
     "stsl": "Видѣ отрока пьѭшта изъ длани · и отъврьже чашѫ свою · рекъ ꙗко отрокъ єго простотою прѣвзыде ·",
+    "el": "Θεασάμενός ποτε παιδίον ταῖς χερσὶ πῖνον ἐξέρριψε τῆς πήρας τὴν κοτύλην, εἰπών, « Παιδίον με νενίκηκεν εὐτελείᾳ. »",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.37",
     "year": -367,
@@ -2531,15 +2538,17 @@
     "type": "anecdote",
     "sr": "Kada je Platon odredio čoveka kao dvonožnu životinju bez perja, Diogen je doneo očerupanog petla i rekao: Evo Platonovog čoveka.",
     "stsl": "Єгда Платонъ чловѣка опредѣли ꙗко живоотноє двоѹногоє и безъ перьꙗ · Диогенъ принесє общѹпанънаго пѣтѹха и рече · се Платоновъ чловѣкъ ·",
+    "el": "Πλάτωνος ὁρισαμένου, Ἄνθρωπός ἐστι ζῷον δίπουν ἄπτερον, καὶ εὐδοκιμοῦντος, τίλας ἀλεκτρυόνα εἰσήνεγκεν αὐτὸν εἰς τὴν σχολὴν καί φησιν, « Οὗτός ἐστιν ὁ Πλάτωνος ἄνθρωπος. »",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.40",
     "year": -361,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:280"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:280#Πλάτω"
   },
   {
     "type": "anecdote",
     "sr": "Danju je nosio upaljen fenjer i govorio da traži čoveka.",
     "stsl": "Дьньмь свѣштѫ горѧштѫ носѧше и глаголаше · чловѣка иштѫ ·",
+    "el": "Λύχνον μεθ' ἡμέραν ἅψας, « Ἄνθρωπον, » φησί, « ζητῶ. »",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.41",
     "year": -355,
@@ -2549,42 +2558,47 @@
     "type": "anecdote",
     "sr": "Atinjani su ga voleli: kada je jedan mladić razbio njegov pitos, dečaka su išibali i Diogenu dali drugi.",
     "stsl": "Атинѧне єго люблѧахѫ · єгда отрокъ пифосъ єго разби · отрока бити повелѣша и Диогенѹ дрѹгыи даша ·",
+    "el": "Ἠγαπᾶτο δὲ καὶ πρὸς Ἀθηναίων· μειρακίου γοῦν τὸν πίθον αὐτοῦ συντρίψαντος, τῷ μὲν πληγὰς ἔδοσαν, ἐκείνῳ δὲ ἄλλον παρέσχον.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.43",
     "year": -348,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:286"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:286#Ἠγαπᾶ"
   },
   {
     "type": "anecdote",
     "sr": "Posle Heroneje odveden je Filipu. Na pitanje ko je, odgovorio je: Uhoda tvoje nezasite pohlepe. Zbog toga je bio pušten.",
     "stsl": "По Херонии къ Филиппѹ приведєнъ бысть · на въпросъ кто єси · отвѣща · соглѧдатаи твоєѧ ненасытныѧ жадости · и за сие отпѹштенъ бысть ·",
+    "el": "μετὰ Χαιρώνειαν συλληφθεὶς ἀπήχθη πρὸς Φίλιππον· καὶ ἐρωτηθεὶς τίς εἴη, ἀπεκρίνατο, « Κατάσκοπος τῆς σῆς ἀπληστίας. » Ὅθεν θαυμασθεὶς ἀφείθη.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.43",
     "year": -338,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:286"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:286#μετὰ "
   },
   {
     "type": "anecdote",
     "sr": "Kada je Aleksandar stao pred njega i rekao: Ja sam Aleksandar Veliki, Diogen je odgovorio: A ja Diogen pas.",
     "stsl": "Єгда Алєѯандръ прѣдъ нимь стѧвъ рече · азъ єсмь Алєѯандръ великии · Диогенъ отвѣща · а азъ Диогенъ песь ·",
+    "el": "Ἀλεξάνδρου ποτὲ ἐπιστάντος αὐτῷ καὶ εἰπόντος, « Ἐγώ εἰμι Ἀλέξανδρος ὁ μέγας βασιλεύς, » « Κἀγώ, » φησί, « Διογένης ὁ κύων. »",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.60",
     "year": -336,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:356"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:356#Ἀλεξά"
   },
   {
     "type": "anecdote",
     "sr": "Kad su ga pitali kako želi da bude sahranjen, rekao je: Licem nadole, objašnjavajući da će se uskoro donje okrenuti gore.",
     "stsl": "Єгда въпрошєнъ бысть како хоштєть погрєбєнъ быти · рече · лицємь долѣ · толковаше бо ꙗко въскорѣ долнєє въ горнєє прѣвратитъ сѧ ·",
+    "el": "πυνθανομένου τοῦ Ξενιάδου πῶς αὐτὸν θάψειεν, ἔφη, « Ἐπὶ πρόσωπον »· τοῦ δ' ἐρομένου « Διὰ τί; » « Ὅτι μετ' ὀλίγον, » εἶπε, « μέλλει τὰ κάτω ἀναστρέφεσθαι. »",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.32",
     "year": -329,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:250"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:250#πυνθα"
   },
   {
     "type": "anecdote",
     "sr": "Pred smrt su o njemu kružila različita predanja: da je umro pošto je jeo sirovu hobotnicu, da je namerno zadržao dah, ili da ga je ujela životinja dok je delio hranu psima.",
     "stsl": "О кончини єго разныѩ прѣданиꙗ ходѧахѫ · ꙗко ѹмре по снѣдѣніи сырѣи осмокраки · или ꙗко дыханиє ѹдръжа намѣрьно · или ꙗко звѣрь ѹѧдє єго · єгда псомъ пищѫ дѣлѧше ·",
+    "el": "οἱ μὲν ... πολύποδα φαγόντα ὠμὸν ... τελευτῆσαι· οἱ δὲ τὸ πνεῦμα συγκρατήσαντα",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.76–77",
     "year": -323,
@@ -2597,7 +2611,7 @@
     "el": "Παῖε· οὐ γὰρ εὑρήσεις ξύλον οὕτω σκληρὸν ὃ ἀπώσει με σου, ἕως ἂν οἴωμαί σε τι λέγειν.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.21",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:222"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:222#Παῖε·"
   },
   {
     "type": "quote",
@@ -2696,7 +2710,7 @@
     "el": "Ἀνθρώπους ἐκάλεσα, οὐ καθάρματα.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.32",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:250"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:250#Ἀνθρώ"
   },
   {
     "type": "quote",
@@ -2802,6 +2816,7 @@
     "type": "reported",
     "sr": "Za život su potrebni ili zdrav razum ili omča.",
     "stsl": "Къ животѹ потрѣбенъ єсть или правыи разѹмъ · или връвь ·",
+    "el": "εἰς τὸν βίον παρεσκευάσθαι δεῖν λόγον ἢ βρόχον.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.24",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:230"
@@ -2818,6 +2833,7 @@
     "type": "reported",
     "sr": "Čudio se gramatičarima koji istražuju Odisejeve nevolje, a svoje ne poznaju.",
     "stsl": "Дивлѧаше сѧ книжникомъ · иже Одисеєвы бѣды изыщѫть · своѩхъ же не вѣдѧть ·",
+    "el": "Τούς τε γραμματικοὺς ἐθαύμαζε τὰ μὲν τοῦ Ὀδυσσέως κακὰ ἀναζητοῦντας, τὰ δ' ἴδια ἀγνοοῦντας.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.27",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:236"
@@ -2826,9 +2842,10 @@
     "type": "reported",
     "sr": "Govorio je da ljudi treba da pružaju ruke prijateljima otvorenih prstiju, a ne stisnutih.",
     "stsl": "Глаголаше ꙗко подобаєть прострети рѫцѣ къ дрѹгомъ разгьбеными прьсты · не стиснѫтыми ·",
+    "el": "δεῖν τὰς χεῖρας ἐπὶ τοὺς φίλους ἐκτείνειν μὴ συγκεκαμμένοις τοῖς δακτύλοις.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.29",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:240"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:240#δεῖν "
   },
   {
     "type": "quote",
@@ -2938,6 +2955,7 @@
     "type": "reported",
     "sr": "Istinska vežba ima dva dela, duševni i telesni; nijedan bez drugog ne dovodi do vrline.",
     "stsl": "Истиньнаѧ аскеза двѣ части имать · дѹшьвьнѫ и тѣлєсьнѫ · ни єдина безъ дрѹгыѩ къ добродѣтели не доводить ·",
+    "el": "Διττὴν δ' ἔλεγε εἶναι τὴν ἄσκησιν, τὴν μὲν ψυχικήν, τὴν δὲ σωματικήν· ... Εἶναι δ' ἀτελῆ τὴν ἑτέραν χωρὶς τῆς ἑτέρας",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.70",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:390"
@@ -2946,6 +2964,7 @@
     "type": "reported",
     "sr": "Nijedna životna stvar ne uspeva bez vežbe, a navika preziranja naslada postaje slađa od samih naslada.",
     "stsl": "Ничесоже въ животѣ прѣѹспѣєть безъ ѹпражнениꙗ · и навыкъ презрѣниꙗ сладостеи сладчаи єсть самихъ сладостии ·",
+    "el": "Οὐδέν ... τὸ παράπαν ἐν τῷ βίῳ χωρὶς ἀσκήσεως κατορθοῦσθαι ... αὐτῆς τῆς ἡδονῆς ἡ καταφρόνησις ἡδυτάτη προμελετηθεῖσα",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.71",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:392"
@@ -2954,6 +2973,7 @@
     "type": "reported",
     "sr": "Smatrao je da je jedina prava zajednica ona koja obuhvata sav svet.",
     "stsl": "Єдинѫ правѫ гражданьствѹ мьнѣаше · ѭже вьсь миръ объємлєть ·",
+    "el": "μόνην τε ὀρθὴν πολιτείαν εἶναι τὴν ἐν κόσμῳ.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.72",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:394"
@@ -2973,7 +2993,7 @@
     "el": "ἦν δέ τις ἐν κείνοισιν ἀνὴρ περιώσια εἰδώς, ὃς δὴ μήκιστον πραπίδων ἐκτήσατο πλοῦτον.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.54",
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:645"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:645#ἦν δέ"
   },
   {
     "type": "quote",
@@ -3018,7 +3038,7 @@
     "el": "Ἀκραγαντῖνοι τρυφῶσι μὲν ὡς αὔριον ἀποθανούμενοι, οἰκίας δὲ κατασκευάζονται ὡς πάντα τὸν χρόνον βιωσόμενοι.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.63",
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:768"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:768#Ἀκραγ"
   },
   {
     "type": "quote",
@@ -3027,7 +3047,7 @@
     "el": "ἄκρον ἰατρὸν Ἄκρων' Ἀκραγαντῖνον πατρὸς Ἄκρου κρύπτει κρημνὸς ἄκρος πατρίδος ἀκροτάτης.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.65",
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:793"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:793#ἄκρον"
   },
   {
     "type": "quote",
@@ -3097,15 +3117,17 @@
     "type": "anecdote",
     "sr": "Prema Timeju, Empedoklo je bio Pitagorin učenik, ali je zbog prisvajanja učenja isključen iz školskih rasprava. Neant kaže da su pitagorejci, pošto je njihova učenja objavio u pesmi, zabranili da se ona ubuduće predaju pesnicima.",
     "stsl": "По Тимею Ємпедоклъ бѣ ѹченикъ Питагора · нъ ради присвоєниꙗ ѹчєниꙗ отъ школьныхъ бесѣдъ отълѹченъ бысть · Неантъ глаголєть · ꙗко питагорѣи · понеже ѹчєниꙗ ихъ въ пѣнию обнародова · възбраниша къ томѹ пѣснотворьцемъ ѩ прѣдавати ·",
+    "el": "Ἀκοῦσαι δ' αὐτὸν Πυθαγόρου Τίμαιος διὰ τῆς ἐνάτης ἱστορεῖ, λέγων ὅτι καταγνωσθεὶς ἐπὶ λογοκλοπίᾳ τότε, καθὰ καὶ Πλάτων, τῶν λόγων ἐκωλύθη μετέχειν. Φησὶ δὲ Νεάνθης ὅτι μέχρι Φιλολάου καὶ Ἐμπεδοκλέους ἐκοινώνουν οἱ Πυθαγορικοὶ τῶν λόγων. ἐπεὶ δ' αὐτὸς διὰ τῆς ποιήσεως ἐδημοσίωσεν αὐτά, νόμον ἔθεντο μηδενὶ μεταδώσειν ἐποποιῷ.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.54–55",
     "year": -494,
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:645"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:645#Ἀκοῦσ"
   },
   {
     "type": "anecdote",
     "sr": "Aristotel je Empedokla smatrao pronalazačem retorike. Bio je lekar i glasovit govornik, a Gorgija iz Leontina bio je njegov učenik.",
     "stsl": "Аристотель Ємпедокла изобрѣтателемъ рѣчьнаго хѹдожьства мьнѧше · Врачь и славьнъ витиꙗ бѣ · Горгиꙗ же Леонтиньскыи ѹченикъ єго бысть ·",
+    "el": "Ἀριστοτέλης δ' ἐν τῷ Σοφιστῇ φησι πρῶτον Ἐμπεδοκλέα ῥητορικὴν εὑρεῖν, Ζήνωνα δὲ διαλεκτικήν. Φησὶ δὲ Σάτυρος ἐν τοῖς Βίοις ὅτι καὶ ἰατρὸς ἦν καὶ ῥήτωρ ἄριστος. Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ Τέχνην ἀπολελοιπότα.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.57–59",
     "year": -489,
@@ -3115,6 +3137,7 @@
     "type": "anecdote",
     "sr": "Empedoklo je svete izaslanike počastio žrtvenim volom načinjenim od meda i ječmenog brašna, prinoseći obrednu žrtvu bez ubijanja životinje.",
     "stsl": "Ємпедоклъ свѧтыѩ послы ѹгости жрьтвьнымъ воломъ отъ меда и єчьменьныѩ мѫкы сътворенымъ · обрѧдьнѹ жрьтвѹ безъ ѹбиєниꙗ животьнаго принесъ ·",
+    "el": "ἐγὼ δ' εὗρον ἐν τοῖς Ὑπομνήμασι Φαβωρίνου ὅτι καὶ βοῦν ἔθυσε τοῖς θεωροῖς ὁ Ἐμπεδοκλῆς ἐκ μέλιτος καὶ ἀλφίτων.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.53",
     "year": -484,
@@ -3124,6 +3147,7 @@
     "type": "anecdote",
     "sr": "Predanja ga povezuju sa Parmenidom, Ksenofanom, Anaksagorom i pitagorejcima: govorilo se da je sledio pitagorejsku uzvišenost života i držanja, a Anaksagorino istraživanje prirode.",
     "stsl": "Прѣданиꙗ съвѧзѹѭть єго съ Парменидомъ · Ксенофаномъ · Анаксагорою и питагорѣи · глаголаахѹ · ꙗко питагорѣискѹ высотѹ живота и образа послѣдова · Анаксагорино же испытание єстества ·",
+    "el": "Ὁ δὲ Θεόφραστος Παρμενίδου φησὶ ζηλωτὴν αὐτὸν γενέσθαι καὶ μιμητὴν ἐν τοῖς ποιήμασι. Ἕρμιππος δὲ οὐ Παρμενίδου, Ξενοφάνους δὲ γεγονέναι ζηλωτήν, ᾧ καὶ συνδιατρῖψαι καὶ μιμήσασθαι τὴν ἐποποιίαν· ὕστερον δὲ τοῖς Πυθαγορικοῖς ἐντυχεῖν. Ἀλκιδάμας δ' ἐν τῷ Φυσικῷ φησι κατὰ τοὺς αὐτοὺς χρόνους Ζήνωνα καὶ Ἐμπεδοκλέα ἀκοῦσαι Παρμενίδου, εἶθ' ὕστερον ἀποχωρῆσαι, καὶ τὸν μὲν Ζήνωνα κατ' ἰδίαν φιλοσοφῆσαι, τὸν δὲ Ἀναξαγόρου διακοῦσαι καὶ Πυθαγόρου· καὶ τοῦ μὲν τὴν σεμνότητα ζηλῶσαι τοῦ τε βίου καὶ τοῦ σχήματος, τοῦ δὲ τὴν φυσιολογίαν.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.55–56",
     "year": -479,
@@ -3133,33 +3157,37 @@
     "type": "anecdote",
     "sr": "Kada su etesijski vetrovi pustošili useve, Empedoklo je po uzvišenjima razapeo kožne mehove da uhvate vazdušne struje. Pošto su vetrovi oslabili, prozvan je ‘Zaustavljačem vetrova’.",
     "stsl": "Єгда етесиискыи вѣтри жита погѹблѧахѹ · Ємпедоклъ по высотахъ кожаны мѣхы распростре · да въздѹшьныѩ токы ѹловѧть · Єгда же вѣтри ослабѣша · Вѣтроѹтишитель нареченъ бысть ·",
+    "el": "Φησὶ δὲ καὶ Τίμαιος ἐν τῇ ὀκτωκαιδεκάτῃ κατὰ πολλοὺς τρόπους τεθαυμάσθαι τὸν ἄνδρα. καὶ γὰρ ἐτησίων ποτὲ σφοδρῶς πνευσάντων ὡς τοὺς καρποὺς λυμῆναι, κελεύσας ὄνους ἐκδαρῆναι καὶ ἀσκοὺς ποιῆσαι περὶ τοὺς λόφους καὶ τὰς ἀκρωρείας διέτεινε πρὸς τὸ συλλαβεῖν τὸ πνεῦμα· λήξαντος δὲ κωλυσανέμαν κληθῆναι.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.60",
     "year": -474,
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:723"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:723#Φησὶ "
   },
   {
     "type": "anecdote",
     "sr": "Empedoklo je trideset dana održavao telo žene bez daha i pulsa, a zatim ju je vratio živu. Zbog toga su ga nazivali ne samo lekarom nego i prorokom; prema Hermipu, žena se zvala Panteja i lekari su već bili odustali od nje.",
     "stsl": "Ємпедоклъ тридесѧть дьнии съхрани тѣло жены безъ дыханиꙗ и биєниꙗ жилъ · таже живѹ ѭ възврати · Сего ради не тъкмо врачемъ · нъ и пророкомъ нарицаахѹ єго · по Хермиппѹ жена Пантєꙗ нарицаше сѧ · и врачи вже отъ неѩ отъстѫпили бѣахѹ ·",
+    "el": "Ἡρακλείδης τε ἐν τῷ Περὶ νόσων φησὶ καὶ Παυσανίᾳ ὑφηγήσασθαι αὐτὸν τὰ περὶ τὴν ἄπνουν. τὴν γοῦν ἄπνουν ὁ Ἡρακλείδης φησὶ τοιοῦτόν τι εἶναι, ὡς τριάκοντα ἡμέρας συντηρεῖν ἄπνουν καὶ ἄσφυκτον τὸ σῶμα· ὅθεν εἶπεν αὐτὸν καὶ ἰητρὸν καὶ μάντιν. Ἕρμιππος δέ φησι Πάνθειάν τινα Ἀκραγαντίνην ἀπηλπισμένην ὑπὸ τῶν ἰατρῶν θεραπεῦσαι αὐτὸν καὶ διὰ τοῦτο τὴν θυσίαν ἐπιτελεῖν.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.60–61, 69",
     "year": -469,
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:723"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:723#Ἡρακλ"
   },
   {
     "type": "anecdote",
     "sr": "Empedoklo je odbio ponuđenu kraljevsku vlast jer je više cenio skroman život; Aristotel ga zato opisuje kao pobornika slobode i protivnika svake vlasti.",
     "stsl": "Ємпедоклъ подаваємѹю царскѹю власть отърече · зане смѣреныи животъ паче цѣнѧше · сего ради Аристотель єго поборникомъ свободы и противникомъ всѧкыѩ власти имѧнѹєть ·",
+    "el": "φησὶ δ' αὐτὸν καὶ Ἀριστοτέλης ἐλεύθερον γεγονέναι καὶ πάσης ἀρχῆς ἀλλότριον, εἴ γε τὴν βασιλείαν αὐτῷ διδομένην παρῃτήσατο, καθάπερ Ξάνθος ἐν τοῖς περὶ αὐτοῦ λέγει, τὴν λιτότητα δηλονότι πλέον ἀγαπήσας.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.63",
     "year": -464,
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:768"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:768#φησὶ "
   },
   {
     "type": "anecdote",
     "sr": "Na gozbi jednog magistrata Empedoklo je prepoznao prikriven pokušaj uspostavljanja tiranije: senatski službenik je gostima naredio da piju ili da im vino bude izliveno na glavu. Sledećeg dana Empedoklo je domaćina i službenika izveo pred sud i ishodovao njihovu osudu.",
     "stsl": "На пированию єдиного начѧлника Ємпедоклъ позна таиныи покѹсъ мѫчительскѹ власть поставити · слѹга съвѣта гостемъ повелѣ или пити · или вино на главы ихъ изливати · Наѹтриѥ Ємпедоклъ господина и слѹгѹ предъ сѫдъ изведе и осѫжденіє ихъ исходатаиствова ·",
+    "el": "τὰ δ' αὐτὰ καὶ Τίμαιος εἴρηκε, τὴν αἰτίαν ἅμα παρατιθέμενος τοῦ δημοτικὸν εἶναι τὸν ἄνδρα. φησὶ γὰρ ὅτι κληθεὶς ὑπό τινος τῶν ἀρχόντων ὡς προβαίνοντος τοῦ δείπνου τὸ ποτὸν οὐκ εἰσεφέρετο, τῶν ἄλλων ἡσυχαζόντων, μισοπονήρως διατεθεὶς ἐκέλευσεν εἰσφέρειν· ὁ δὲ κεκληκὼς ἀναμένειν ἔφη τὸν τῆς βουλῆς ὑπηρέτην. ὡς δὲ παρεγένετο, ἐγενήθη συμποσίαρχος, τοῦ κεκληκότος δηλονότι καταστήσαντος, ὃς ὑπεγράφετο τυραννίδος ἀρχήν· ἐκέλευσε γὰρ ἢ πίνειν ἢ καταχεῖσθαι τῆς κεφαλῆς. τότε μὲν οὖν ὁ Ἐμπεδοκλῆς ἡσύχασε· τῇ δὲ ὑστεραίᾳ εἰσαγαγὼν εἰς δικαστήριον ἀπέκτεινε καταδικάσας ἀμφοτέρους τόν τε κλήτορα καὶ τὸν συμποσίαρχον.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.64",
     "year": -459,
@@ -3169,15 +3197,17 @@
     "type": "anecdote",
     "sr": "Kada je lekar Akron zatražio istaknuto mesto za očev spomenik, Empedoklo se usprotivio govoreći o političkoj jednakosti i podrugljivim stihom pokazao koliko bi takva počast bila nadmena.",
     "stsl": "Єгда врачь Акронъ проси нарочито мѣсто памѧтникѹ отьца своєго · Ємпедоклъ противи сѧ · о гражданьстѣи равьности глаголѧ · и рѹгательныѩ рѣчиѩ показа · колико такова чєсть гьрда єсть ·",
+    "el": "Πάλιν δ' Ἄκρωνος τοῦ ἰατροῦ τόπον αἰτοῦντος παρὰ τῆς βουλῆς εἰς κατασκευὴν πατρῴου μνήματος διὰ τὴν ἐν τοῖς ἰατροῖς ἀκρότητα παρελθὼν δ' Ἐμπεδοκλῆς ἐκώλυσε, τά τ' ἄλλα περὶ ἰσότητος διαλεχθεὶς καί τι καὶ τοιοῦτον ἐρωτήσας· τί δ' ἐπιγράψομεν ἐλεγεῖον; ἢ τοῦτο;",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.65",
     "year": -454,
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:793"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:793#Πάλιν"
   },
   {
     "type": "anecdote",
     "sr": "Kada je smrad reke izazvao kugu u Selinuntu, Empedoklo je o svom trošku doveo dve susedne reke i mešanjem njihovih tokova pročistio vodu. Pošto je pošast prestala, stanovnici su mu se klanjali kao bogu.",
     "stsl": "Єгда смрадъ рѣкы моръ въ Селинѹнтѣ въздвиже · Ємпедоклъ своимъ иждивениемъ двѣ ближнѣи рѣцѣ приведе и съмѣшениемъ токовъ ихъ водѹ очисти · Єгда же пагѹба прѣста · жители ꙗко богѹ ємѹ покланѧахѹ сѧ ·",
+    "el": "Διόδωρος δ' ὁ Ἐφέσιος περὶ Ἀναξιμάνδρου γράφων φησὶ ὅτι τοῦτον ἐζηλώκει, τραγικὸν ἀσκῶν τῦφον καὶ σεμνὴν ἀναλαβὼν ἐσθῆτα. τοῖς Σελινουντίοις ἐμπεσόντος λοιμοῦ διὰ τὰς ἀπὸ τοῦ παρακειμένου ποταμοῦ δυσωδίας, ὥστε καὶ αὐτοὺς φθείρεσθαι καὶ τὰς γυναῖκας δυστοκεῖν, ἐπινοῆσαι τὸν Ἐμπεδοκλέα καὶ δύο τινὰς ποταμοὺς τῶν σύνεγγυς ἐπαγαγεῖν ἰδίαις δαπάναις· καὶ καταμίξαντα γλυκῆναι τὰ ῥεύματα. οὕτω δὴ λήξαντος τοῦ λοιμοῦ καὶ τῶν Σελινουντίων εὐωχουμένων ποτὲ παρὰ τῷ ποταμῷ, ἐπιφανῆναι τὸν Ἐμπεδοκλέα· τοὺς δ' ἐξαναστάντας προσκυνεῖν καὶ προσεύχεσθαι καθαπερεὶ θεῷ.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.70",
     "year": -449
@@ -3186,6 +3216,7 @@
     "type": "anecdote",
     "sr": "Empedoklo se pojavljivao u purpurnoj odeći, sa zlatnim pojasom, bronzanim sandalama i delfskim lovorovim vencem, praćen slugama i uvek svečanog držanja. Građani su u tome videli znamenje kraljevskog dostojanstva.",
     "stsl": "Ємпедоклъ ꙗвлꙗаше сѧ въ порфирьнѣи ризѣ · съ златымъ поꙗсомъ · мѣдѣными сандалиꙗми и делфиискымъ лавровымъ вѣнцемъ · слѹгами послѣдованъ и присно торжьственаго образа · Граждане въ семь знамение царьскаго достоиньства видѣахѹ ·",
+    "el": "Ἔτι τε πολλὰς τῶν πολιτίδων ἀπροίκους ὑπαρχούσας αὐτὸν προικίσαι διὰ τὸν παρόντα πλοῦτον· διὸ δὴ πορφύραν τε ἀναλαβεῖν αὐτὸν καὶ στρόφιον ἐπιθέσθαι χρυσοῦν, ὡς Φαβωρῖνος ἐν Ἀπομνημονεύμασιν· ἔτι τ' ἐμβάτας χαλκᾶς καὶ στέμμα Δελφικόν. κόμη τε ἦν αὐτῷ βαθεῖα· καὶ παῖδες ἀκόλουθοι· καὶ αὐτὸς ἀεὶ σκυθρωπὸς ἐφ' ἑνὸς σχήματος ἦν. τοιοῦτος δὴ προῄει, τῶν πολιτῶν ἐντυχόντων καὶ τοῦτ' ἀξιωσάντων οἱονεὶ βασιλείας τινὸς παράσημον.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.73",
     "year": -444
@@ -3194,6 +3225,7 @@
     "type": "anecdote",
     "sr": "Empedoklo je raspustio oligarhijsko Veće hiljade, nagovorio Akragantince da okončaju stranačke sukobe i neguju političku jednakost, a svojim bogatstvom dao je miraz mnogim siromašnim građankama.",
     "stsl": "Ємпедоклъ разори олигархиискыи съвѣтъ тꙑсѧшти · Акрагантѧны ѹвѣшта междѹсобьныѩ распрѧ скончати и гражданьскѹ равьность хранити · богатъствомъ же своимъ многымъ ништимъ гражданкамъ приданоє даде ·",
+    "el": "Ὕστερον δ' ὁ Ἐμπεδοκλῆς καὶ τὸ τῶν χιλίων ἄθροισμα κατέλυσε συνεστὸς ἐπὶ ἔτη τρία, ὥστε οὐ μόνον ἦν τῶν πλουσίων, ἀλλὰ καὶ τῶν τὰ δημοτικὰ φρονούντων. Νεάνθης δ' ὁ Κυζικηνὸς φησι Μέτωνος τελευτήσαντος τυραννίδος ἀρχὴν ὑποφύεσθαι· εἶτα τὸν Ἐμπεδοκλέα πεῖσαι τοὺς Ἀκραγαντίνους παύσασθαι μὲν τῶν στάσεων, ἰσότητα δὲ πολιτικὴν ἀσκεῖν. Ἔτι τε πολλὰς τῶν πολιτίδων ἀπροίκους ὑπαρχούσας αὐτὸν προικίσαι διὰ τὸν παρόντα πλοῦτον.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.66, 72–73",
     "year": -439,
@@ -3203,6 +3235,7 @@
     "type": "anecdote",
     "sr": "O Empedoklovoj smrti kružila su oprečna predanja. Po jednom je noću tajanstveno nestao i proglašen bogom; po drugom se bacio u Etnu, ali je vulkan izbacio jednu njegovu bronzanu sandalu. Drugi su tvrdili da je umro od povrede posle pada iz kola, da se obesio ili da je u starosti pao u more. Timej je odbacivao priču o Etni i smatrao da je umro na Peloponezu.",
     "stsl": "О смрьти Ємпедокловѣ противьна прѣданиꙗ хождаахѹ · По єдиномѹ нощию таиньно исчезе и богомъ нареченъ бысть · по дрѹгомѹ въ Етнѹ сѧ въвръже · нъ огнь єдинѹ мѣдѣнѹ сандалию єго извръже · Инии глаголаахѹ · ꙗко отъ раны по падении съ колесницы ѹмре · или обѣси сѧ · или въ старости въ море паде · Тимеи сказание о Етнѣ отъмѣтааше и мьнѧше єго въ Пелопоннисѣ ѹмрьша ·",
+    "el": "Περὶ δὲ τοῦ θανάτου διάφορός ἐστιν αὐτοῦ λόγος. Ἡρακλείδης μὲν γὰρ τὰ περὶ τῆς ἄπνου διηγησάμενος, ὡς ἐδοξάσθη Ἐμπεδοκλῆς ἀποστείλας τὴν νεκρὰν ἄνθρωπον ζῶσαν, φησὶν ὅτι θυσίαν συνετέλει πρὸς τῷ Πεισιάνακτος ἀγρῷ. ὡς δ' ἡμέρας γενηθείσης ἐξανέστησαν, οὐχ ηὑρέθη μόνος. Ἱππόβοτος δέ φησιν ἐξαναστάντα αὐτὸν ὡδευκέναι ὡς ἐπὶ τὴν Αἴτνην, εἶτα παραγενόμενον ἐπὶ τοὺς κρατῆρας τοῦ πυρὸς ἐναλέσθαι καὶ ἀφανισθῆναι, βουλόμενον τὴν περὶ αὑτοῦ φήμην βεβαιῶσαι ὅτι γεγόνοι θεός, ὕστερον δὲ γνωσθῆναι, ἀναῤῥιπισθείσης αὐτοῦ μιᾶς τῶν κρηπίδων· χαλκᾶς γὰρ εἴθιστο ὑποδεῖσθαι. Δημήτριος δ' ὁ Τροιζήνιος ἐν τῷ Κατὰ σοφιστῶν βιβλίῳ φησὶν αὐτὸν καθ' Ὅμηρον ἁψάμενον βρόχον αἰπὺν ἀφ' ὑψηλοῖο κρανείης αὐχέν' ἀποκρεμάσαι, ψυχὴν δ' Ἀϊδόσδε κατελθεῖν. Ἐν δὲ τῷ προειρημένῳ Τηλαύγους ἐπιστολίῳ λέγεται αὐτὸν εἰς θάλατταν ὑπὸ γήρως ὀλισθόντα τελευτῆσαι. τούτοις δ' ἐναντιοῦται Τίμαιος, ῥητῶς λέγων ὡς ἐξεχώρησεν εἰς Πελοπόννησον καὶ τὸ σύνολον οὐκ ἐπανῆλθεν· ὅθεν αὐτοῦ καὶ τὴν τελευτὴν ἄδηλον εἶναι.",
     "author": "Empedoklo",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.67–74",
     "year": -434
@@ -4851,7 +4884,7 @@
     "el": "Ἥφαιστε, πρόμολ' ὧδε· Πλάτων νύ τι σεῖο χατίζει.",
     "author": "Platon",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.5",
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:14"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:14#Ἥφαισ"
   },
   {
     "type": "quote",
@@ -4859,7 +4892,7 @@
     "stsl": "Море омываєть вьсѧ чловѣчьскаꙗ зла ·",
     "el": "Θάλασσα κλύζει πάντα τἀνθρώπων κακά.",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.6",
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:21"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:21#Θάλασ"
   },
   {
     "type": "quote",
@@ -5605,6 +5638,7 @@
     "type": "anecdote",
     "sr": "Prema atinskom predanju, Ariston je bezuspešno pokušavao da pridobije Periktionu. Kada mu se Apolon javio u snu, ostavio ju je netaknutu do Platonovog rođenja; time je nastala priča o filozofovom božanskom poreklu.",
     "stsl": "По Атиньскомѹ прѣданию · Аристонъ напрасно Периктионѫ придобыти ѹсиливааше сѧ · Єгда ємѹ Аполлонъ въ сънѣ ꙗви сѧ · неприкосновенѫ ю до Платонова рождениꙗ остави · отътѹдѹ повѣсть о божьствьнѣмь родѣ любомѫдрьца бысть ·",
+    "el": "Ἀθήνησιν ἦν λόγος, ὡραίαν οὖσαν τὴν Περικτιόνην βιάζεσθαι τὸν Ἀρίστωνα καὶ μὴ τυγχάνειν· παυόμενόν τε τῆς βίας ἰδεῖν τὴν τοῦ Ἀπόλλωνος ὄψιν· ὅθεν καθαρὰν γάμου φυλάξαι ἕως τῆς ἀποκυήσεως.",
     "author": "Platon",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.2",
     "year": -428,
@@ -5623,46 +5657,51 @@
     "type": "anecdote",
     "sr": "Sokrat je sanjao labuda koji mu je na kolenima iznenada dobio perje, odleteo i zapevao milozvučno. Kada mu je sutradan doveden Platon, prepoznao je u njemu labuda iz sna.",
     "stsl": "Сократъ видѣ въ сънѣ лебѧдь · иже на колѣнѹ єго внезапѹ опери сѧ · възлетѣ и сладъкогласьно възпѣ · Єгда на ѹтрии Платона къ немѹ приведоша · въ немь лебѧдь отъ съна позна ·",
+    "el": "Σωκράτης ὄναρ εἶδε κύκνου νεοττὸν ἐν τοῖς γόνασιν ἔχειν, ὃν καὶ παραχρῆμα πτεροφυήσαντα ἀναπτῆναι ἡδὺ κλάγξαντα· καὶ μεθ' ἡμέραν Πλάτωνα αὐτῷ συστῆναι, τὸν δὲ τοῦτον εἰπεῖν εἶναι τὸν ὄρνιν.",
     "author": "Platon",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.5",
     "year": -418,
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:14"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:14#Σωκρά"
   },
   {
     "type": "anecdote",
     "sr": "Platon je prvi doneo u Atinu zanemarene Sofronove mime i prema njima oblikovao likove; primerak tih spisa nađen je pod njegovim jastukom.",
     "stsl": "Платонъ пьрвыи забъвеныѩ Софроновы подражаниꙗ въ Атины принесе и по нихъ лица изображаше · списъкъ тѣхъ писании подъ възглавиемъ єго обрѣтенъ бысть ·",
+    "el": "Πλάτων καὶ τὰ Σώφρονος τοῦ μιμογράφου βιβλία ἠμελημένα πρῶτος εἰς Ἀθήνας διακομίσαι καὶ ἠθοποιῆσαι πρὸς αὐτόν· ἃ καὶ εὑρεθῆναι ὑπὸ τῇ κεφαλῇ αὐτοῦ.",
     "author": "Platon",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.18",
     "year": -413,
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:150"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:150#Πλάτω"
   },
   {
     "type": "anecdote",
     "sr": "Platon je nameravao da se takmiči tragedijom, ali je pred Dionisovim pozorištem čuo Sokrata. Spalio je svoje pesme, pozvao boga ognja da mu pomogne i od dvadesete godine postao Sokratov učenik.",
     "stsl": "Платонъ трагедиею състѧзати сѧ хотѣ · нъ прѣдъ Дионисовымъ позориштемъ Сократа ѹслыша · Своѩ пѣсни съжеже · бога огнꙗ на помощь възва и отъ двадесѧтаго лѣта Сократовъ ѹченикъ бысть ·",
+    "el": "μέλλων ἀγωνιεῖσθαι τραγῳδίᾳ πρὸ τοῦ Διονυσιακοῦ θεάτρου Σωκράτους ἀκούσας κατέφλεξε τὰ ποιήματα εἰπών· Ἥφαιστε, πρόμολ' ὧδε· Πλάτων νύ τι σεῖο χατίζει. Τοὐντεῦθεν δὴ γεγονώς, φασίν, εἴκοσιν ἔτη διήκουσε Σωκράτους.",
     "author": "Platon",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.5–6",
     "year": -408,
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:14"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:14#μέλλω"
   },
   {
     "type": "anecdote",
     "sr": "Posle Sokratove smrti Platon je učio kod Kratila i Hermogena, a zatim putovao u Megaru, Kirenu, Italiju i Egipat. U Egiptu su ga sveštenici izlečili morskom vodom, pa je često navodio stih da more spira sva ljudska zla.",
     "stsl": "По Сократовѣ смрьти Платонъ при Кратѵлѣ и Хермогенѣ ѹчи сѧ · потомь же въ Мегарѫ · Кѵринѫ · Италию и Єгѵпетъ пѫтова · Въ Єгѵптѣ жрьци морьскою водою єго исцѣлиша · тѣмь чѧсто рѣчь навождааше · ꙗко море вьсѧ чловѣчьскаꙗ зла омываєть ·",
+    "el": "ἐκείνου δ' ἀπελθόντος προσεῖχε Κρατύλῳ τε τῷ Ἡρακλειτείῳ καὶ Ἑρμογένει τῷ τὰ Παρμενίδου φιλοσοφοῦντι. Εἶτα εἰς Μέγαρα πρὸς Εὐκλείδην σὺν καὶ ἄλλοις τισὶ Σωκρατικοῖς ὑπεχώρησεν. Ἔπειτα εἰς Κυρήνην ἀπῆλθε πρὸς Θεόδωρον τὸν μαθηματικόν· κἀκεῖθεν εἰς Ἰταλίαν πρὸς τοὺς Πυθαγορικοὺς Φιλόλαον καὶ Εὔρυτον. Ἔνθεν τε εἰς Αἴγυπτον παρὰ τοὺς προφήτας· οὗ φασι αὐτόθι νοσήσαντα πρὸς τῶν ἱερέων ἀπολυθῆναι τῇ διὰ θαλάττης θεραπείᾳ· ὅθεν που καὶ εἰπεῖν· Θάλασσα κλύζει πάντα τἀνθρώπων κακά.",
     "author": "Platon",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.6–7",
     "year": -403,
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:21"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:21#ἐκείν"
   },
   {
     "type": "anecdote",
     "sr": "Na prvom putovanju na Siciliju Platon je Dionisiju rekao da korist vladara nije najviše dobro bez vrline. Tiranin ga je nazvao starcem koji bunca, a Platon njega tiraninom. Predat je spartanskom poslaniku, prodat kao rob na Egini i optužen po zakonu koji je Atinjanima pretio smrću, ali se držao mirno i samouvereno. Anikerid ga je otkupio i odbio da primi povraćaj novca.",
     "stsl": "На пьрвѣмь пѫтовании въ Сикелию Платонъ Дионисию рече · ꙗко польза владꙑкы безъ добродѣтели не єсть вышнее благо · Мѫчитель єго бредѫштимъ старьцемъ нарече · Платонъ же єго мѫчителемъ · Спартаньскомѹ посълѹ прѣданъ бысть · на Єгинѣ ꙗко рабъ проданъ и по законѹ · смрьтию Атинѧномъ грозивъшѹ · обвиненъ · нъ тихъ и надѣжьнъ прѣбысть · Аникеридъ єго искѹпи и възвратъ пѣнѧѕь отъмѣте ·",
+    "el": "διαλεγόμενος περὶ τυραννίδος καὶ φάσκων ὡς οὐκ ἔστι τοῦτο κρεῖττον ὃ συμφέροι αὐτῷ μόνον εἰ μὴ καὶ ἀρετῇ διαφέροι, προσέκρουσεν αὐτῷ. Ὀργισθεὶς γὰρ « Οἱ λόγοι σου, » φησί, « γεροντιῶσι, » Καὶ ὅς· « Σοῦ δέ γε τυραννιῶσιν. » παρέδωκε δὲ αὐτὸν Πόλλιδι τῷ Λακεδαιμονίῳ ὥστε ἀποδόσθαι. Κἀκεῖνος ἀγαγὼν αὐτὸν εἰς Αἴγιναν ἐπίπρασκεν· Ἔνιοι δέ φασι παραχθῆναι αὐτὸν εἰς τὴν ἐκκλησίαν καὶ τηρούμενον μηδ' ὁτιοῦν φθέγξασθαι, ἑτοίμως δὲ ἐκδέξασθαι τὸ συμβαῖνον. Λυτροῦται δὴ αὐτὸν Ἀννίκερις ὁ Κυρηναῖος. Οἱ δ' εὐθὺς τἀργύριον ἐξέπεμψαν· ὅπερ οὐ προσήκατο.",
     "author": "Platon",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, III.18–20",
     "year": -387,
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:150"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:150#διαλε"
   },
   {
     "type": "anecdote",
@@ -5949,7 +5988,7 @@
     "el": "Καὶ εἰ ὑποδημάτων ἔδει καὶ βύρσαν μοι ἐδίδους ἵν' ἐμαυτῷ ὑποδήματα ποιησαίμην, καταγέλαστος ἂν ἦν λαβών.",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.24",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:168"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:168#Καὶ ε"
   },
   {
     "type": "quote",
@@ -5958,7 +5997,7 @@
     "el": "Πόσων ἐγὼ χρείαν οὐκ ἔχω.",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.25",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:172"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:172#Πόσων"
   },
   {
     "type": "quote",
@@ -6137,7 +6176,8 @@
     "stsl": "Не каєши ли сѧ · ꙗко тѧ Тридесѧть прѣзрѣша ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.34",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:234"
+    "el": "Ἇρα, ἔφη, μήτι σοι μεταμέλει;",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:234#Ἇρα, "
   },
   {
     "type": "anecdote",
@@ -6146,7 +6186,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.20–21",
     "year": -470,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:152"
+    "el": "Κρίτωνα δ' ἀναστῆσαι αὐτὸν ἀπὸ τοῦ ἐργαστηρίου καὶ παιδεῦσαι τῆς κατὰ ψυχὴν χάριτος ἐρασθέντα Δημήτριός φησίν ὁ Βυζάντιος. Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ· Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:152#Κρίτω"
   },
   {
     "type": "quote",
@@ -6154,7 +6195,8 @@
     "stsl": "Еда паче хотѣла бы єси · да по правдѣ постраждꙫ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:237"
+    "el": "Σὺ δέ, ἔφη, δικαίως ἐβούλου;",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:237#Σὺ δέ"
   },
   {
     "type": "quote",
@@ -6162,7 +6204,8 @@
     "stsl": "Въ трети дьнь ѹмрѫ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:237"
+    "el": "Ἤματί κεν τριτάτῳ Φθίην ἐρίβωλον ἵκοιο, πρὸς Αἰσχίνην ἔφη, Εἰς τρίτην ἀποθανοῦμαι.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:237#Ἤματί"
   },
   {
     "type": "quote",
@@ -6170,7 +6213,8 @@
     "stsl": "Еда риза моꙗ довольно добра єсть · да въ неи живѫ · нъ не да въ неи ѹмрѫ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:237"
+    "el": "Τί δέ, ἔφη, τὸ ἐμὸν ἱμάτιον ἐμβιῶναι μὲν ἐπιτήδειον, ἐναποθανεῖν δὲ οὐχί;",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:237#Τί δέ"
   },
   {
     "type": "quote",
@@ -6178,7 +6222,8 @@
     "stsl": "Зълѣ о мнѣ глаголеть · зане николиже добрѣ глаголати не наѹчи сѧ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:237"
+    "el": "Καλῶς γάρ, ἔφη, λέγειν οὐκ ἔμαθε.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:237#Καλῶς"
   },
   {
     "type": "quote",
@@ -6186,7 +6231,8 @@
     "stsl": "Сквозѣ плашть твои тъштеславиє твоє виждꙫ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.36",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:243"
+    "el": "Ὁρῶ σου, ἔφη, διὰ τοῦ τρίβωνος τὴν κενοδοξίαν.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:243#Ὁρῶ σ"
   },
   {
     "type": "quote",
@@ -6194,7 +6240,8 @@
     "stsl": "Не обидить мене · зане словеса єго ко мнѣ не относѧть сѧ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.36",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:243"
+    "el": "Οὐχί, ἔφη· ἐμοὶ γὰρ οὐ πρόσεστι ταῦτα.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:243#Οὐχί,"
   },
   {
     "type": "quote",
@@ -6202,7 +6249,8 @@
     "stsl": "Не подобає противити сѧ · да смѣхотворьци о насъ глаголѭть · аште порокы наша осмѣваѭть · на пользꙫ намъ бѹдеть · аште ихъ не имамы · словеса ихъ насъ не касаѭть сѧ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.36",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:243"
+    "el": "Τοῖς κωμικοῖς δεῖν ἐπίτηδες ἑαυτὸν διδόναι· εἰ μὲν γάρ τι τῶν προσόντων λέξειαν, διορθώσονται· εἰ δ' οὔ, οὐδὲν πρὸς ἡμᾶς.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:243#Τοῖς "
   },
   {
     "type": "quote",
@@ -6210,6 +6258,7 @@
     "stsl": "Коньници любѧть плаховиты кони · єгда ихъ ѹкротаѭть · легко съ прочими справлѧѭть сѧ · Тако и азъ · съ Ксантипою живы · всѣмъ чловѣкомъ прилагати сѧ наѹчꙫ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.37",
+    "el": "Ἀλλ' ὡς ἐκεῖνοι, φησί, τούτων κρατήσαντες ῥᾳδίως τῶν ἄλλων περιγίνονται, οὕτω κἀγὼ Ξανθίππῃ χρώμενος τοῖς ἄλλοις ἀνθρώποις συμπεριενεχθήσομαι.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:245"
   },
   {
@@ -6218,6 +6267,7 @@
     "stsl": "Бесѣда красна єсть · Лисиє · нъ мнѣ не подобаєть · Не были ли бы ми такожде неподобьны красна риза и красны сапогы ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.40–41",
+    "el": "Καλὸς μὲν ὁ λόγος, ὦ Λυσία, οὐ μὴν ἁρμόττων γ' ἐμοί. Οὐ γὰρ καὶ ἱμάτια καλὰ καὶ ὑποδήματα εἴη ἂν ἐμοὶ ἀνάρμοστα.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:257"
   },
   {
@@ -6226,7 +6276,8 @@
     "stsl": "По нѣкоторымъ · Сократъ пѣснь състави · Радѹи сѧ · Аполоне · господине Дела · Радѹи сѧ · Артемидо · благородьна двоице · Дионисодоръ отъмѣтааше · ꙗко пѣснь єго єсть ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.42",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:263"
+    "el": "Ἀλλὰ καὶ παιᾶνα κατά τινας ἐποίησεν, οὗ ἡ ἀρχή· Δήλι' Ἄπολλον χαῖρε, καὶ Ἄρτεμι, παῖδε κλεεινώ. Διονυσόδωρος δέ φησι μὴ εἶναι αὐτοῦ τὸν παιᾶνα.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:263#Ἀλλὰ "
   },
   {
     "type": "quote",
@@ -6234,7 +6285,8 @@
     "stsl": "Не сѫдите · Коринѳѧне · о добродѣтели ꙗкоже сѫдишта сѫдѧть ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.42",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:263"
+    "el": "Μὴ κρίνειν ἀρετὴν λαοδίκῳ σοφίῃ.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:263#Μὴ κρ"
   },
   {
     "type": "quote",
@@ -6242,6 +6294,7 @@
     "stsl": "Къдѣ чловѣци добри и чьстьни бываѭть · По мнѣ иди и наѹчиши сѧ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.48",
+    "el": "Ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι; Ἕπου τοίνυν, φάναι, καὶ μάνθανε.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:313"
   },
   {
@@ -6250,6 +6303,7 @@
     "stsl": "Тъкмо мѧсарьскъ сынъ ѹмѣєть мѧ почитати ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.60",
+    "el": "Μόνος ἡμᾶς οἶδε τιμᾶν ὁ τοῦ ἀλλαντοποιοῦ.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:402"
   },
   {
@@ -6258,7 +6312,8 @@
     "stsl": "Отъ себе заимаи · свою пиштꙫ ѹмалѧѧ ·",
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.62",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:408"
+    "el": "Τιθέντα γοῦν τὸ βαλλόμενον κέρμα ἀθροίζειν· εἶτ' ἀναλώσαντα πάλιν τιθέναι.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:408#Τιθέν"
   },
   {
     "type": "anecdote",
@@ -6267,7 +6322,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.22–23",
     "year": -424,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:162"
+    "el": "Ἐστρατεύσατο γοῦν εἰς Ἀμφίπολιν· καὶ Ξενοφῶντα ἀφ' ἵππου πεσόντα ἐν τῇ κατὰ Δήλιον μάχῃ διέσωσεν ὑπολαβών. Ὅτε καὶ πάντων φευγόντων Ἀθηναίων αὐτὸς ἠρέμα ἀνεχώρει, παρεπιστρεφόμενος ἡσυχῇ καὶ τηρῶν ἀμύνασθαι εἴ τις οἱ ἐπέλθοι.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:162#Ἐστρα"
   },
   {
     "type": "anecdote",
@@ -6276,7 +6332,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.25",
     "year": -423,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:172"
+    "el": "Αὐτάρκης τε ἦν καὶ σεμνός. Καί ποτε Ἀλκιβιάδου, καθά φησί Παμφίλη ἐν τῷ ἑβδόμῳ τῶν Ὑπομνημάτων, διδόντος αὐτῷ χώραν μεγάλην ἵνα οἰκοδομήσηται οἰκίαν φάναι, Καὶ εἰ ὑποδημάτων ἔδει καὶ βύρσαν μοι ἐδίδους ἵν' ἐμαυτῷ ὑποδήματα ποιησαίμην, καταγέλαστος ἂν ἦν λαβών.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:172#Αὐτάρ"
   },
   {
     "type": "anecdote",
@@ -6285,6 +6342,7 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.65",
     "year": -420,
+    "el": "Οὗτος σοφιστεύσας, ὥς φησι Φαινίας ὁ περιπατητικὸς ὁ Ἐρέσιος, πρῶτος τῶν Σωκρατικῶν μισθοὺς εἰσεπράξατο καὶ ἀπέστειλε χρήματα τῷ διδασκάλῳ.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:424"
   },
   {
@@ -6294,6 +6352,7 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.18–19",
     "year": -418,
+    "el": "Ἐδόκει δὲ συμποιεῖν Εὐριπίδῃ· ὅθεν Μνησίλοχος οὕτω φησί· Φρύγες ἐστὶ καινὸν δρᾶμα τοῦτ' Εὐριπίδου, ᾧ καὶ Σωκράτης τὰ φρύγαν' ὑποτίθησι.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:122"
   },
   {
@@ -6303,7 +6362,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.20",
     "year": -416,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:152"
+    "el": "Φησὶ δ' Ἀριστοτέλης δύο γυναῖκας αὐτὸν ἀγαγέσθαι· προτέραν μὲν Ξανθίππην, ἐξ ἧς αὐτῷ γενέσθαι Λαμπροκλέα· δευτέραν δὲ Μυρτώ, τὴν Ἀριστείδου τοῦ δικαίου θυγατέρα.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:152#Φησὶ "
   },
   {
     "type": "anecdote",
@@ -6312,6 +6372,7 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.29",
     "year": -412,
+    "el": "Ἱκανὸς δ' ἀμφότερα ἦν, καὶ προτρέψαι καὶ ἀποτρέψαι. Ὥσπερ τὸν Θεαίτητον περὶ ἐπιστήμης διαλεχθεὶς ἔνθεον ἀπέπεμψε, καθὰ καὶ Πλάτων φησίν.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:215"
   },
   {
@@ -6321,7 +6382,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.30",
     "year": -408,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:218"
+    "el": "Ἐπῆρε δὲ καὶ εἰς φρόνημα Ἰφικράτην τὸν στρατηγόν, δείξας αὐτῷ τοῦ κουρέως Μειδίου ἀλεκτρυόνας ἀντίον τῶν Καλλίου πτερυξαμένους.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:218#Ἐπῆρε"
   },
   {
     "type": "anecdote",
@@ -6330,7 +6392,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.31",
     "year": -405,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:223"
+    "el": "Φαίδωνα δὲ δι' αἰχμαλωσίαν ἐπ' οἰκήματος καθήμενον προσέταξε Κρίτωνι λυτρώσασθαι, καὶ φιλόσοφον ἀπειργάσατο.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:223#Φαίδω"
   },
   {
     "type": "anecdote",
@@ -6339,7 +6402,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.33",
     "year": -404,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:228"
+    "el": "Εὐριπίδου δ' ἐν τῇ αὐτοῦ εἰπόντος περὶ ἀρετῆς, Κράτιστον εἰκῆ ταῦτ' ἐᾶν ἀφειμένα, ἀναστὰς ἐξῆλθε, φήσας γελοῖον εἶναι ἀνδράποδον μὲν μὴ εὑρισκόμενον ἀξιοῦν ζητεῖν, ἀρετὴν δ' οὕτως ἐᾶν ἀπολωλέναι.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:228#Εὐριπ"
   },
   {
     "type": "anecdote",
@@ -6348,7 +6412,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.36–37",
     "year": -403,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:243"
+    "el": "Ξανθίππη πρότερον μὲν λοιδοροῦσαν, ὕστερον δὲ καὶ περιχέασαν αὐτῷ, Οὐκ ἔλεγον, εἶπεν, ὅτι Ξανθίππη βροντῶσα καὶ ὕδωρ ποιήσει;",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:243#Ξανθί"
   },
   {
     "type": "anecdote",
@@ -6357,7 +6422,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.32",
     "year": -402,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:226"
+    "el": "Ἀλλὰ καὶ λυρίζειν ἐμάνθανεν ἤδη γηραιός, μηδὲν λέγων ἄτοπον εἶναι ἅ τις μὴ οἶδεν ἐκμανθάνειν.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:226#Ἀλλὰ "
   },
   {
     "type": "anecdote",
@@ -6366,6 +6432,7 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.45",
     "year": -400,
+    "el": "Φησὶ δ' Ἀριστοτέλης μάγον τινὰ ἐλθόντα ἐκ Συρίας εἰς Ἀθήνας τά τε ἄλλα καταγνῶναι τοῦ Σωκράτους καὶ δὴ καὶ βίαιον ἔσεσθαι τὴν τελευτὴν αὐτῷ.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:289"
   },
   {
@@ -6375,6 +6442,7 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.38–42",
     "year": -399,
+    "el": "Ἀπηνέγκατο μὲν οὖν τὴν γραφὴν ὁ Μέλητος, εἶπε δὲ τὴν δίκην Πολύευκτος· συνέγραψε δὲ τὸν λόγον Πολυκράτης ὁ σοφιστής. Ὁ δ' οὖν κατεδικάσθη διακοσίαις ὀγδοήκοντα μιᾷ πλείοσι ψήφοις τῶν ἀπολυουσῶν.",
     "pointer": "data/sources/diogenes-laertius/el/03.txt:251"
   },
   {
@@ -6384,7 +6452,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.24",
     "year": -399,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:168"
+    "el": "Ἦν δὲ καὶ ἰσχυρογνώμων καὶ δημοκρατικός, ὡς δῆλον ἔκ τε τοῦ μὴ εἶξαι τοῖς περὶ Κριτίαν κελεύουσι Λέοντα τὸν Σαλαμίνιον, ἄνδρα πλούσιον, ἀγαγεῖν πρὸς αὐτοὺς ὥστε ἀπολέσθαι.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:168#Ἦν δὲ"
   },
   {
     "type": "anecdote",
@@ -6393,7 +6462,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.35",
     "year": -399,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:237"
+    "el": "Πρὸς τὸν εἰπόντα, Θάνατόν σου κατέγνωσαν Ἀθηναῖοι, Κἀκείνων, εἶπεν, ἡ φύσις.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:237#Πρὸς "
   },
   {
     "type": "anecdote",
@@ -6402,7 +6472,8 @@
     "author": "Sokrat",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.42–43",
     "year": -399,
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:263"
+    "el": "Δεθεὶς μετ' οὐ πολλὰς ἡμέρας ἔπιε τὸ κώνειον, πολλὰ καλὰ κἀγαθὰ διαλεχθείς, ἃ Πλάτων ἐν τῷ Φαίδωνί φησιν.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:263#Δεθεὶ"
   },
   {
     "type": "anecdote",

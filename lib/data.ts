@@ -46,11 +46,7 @@ const getTextForLanguage = (entry: QuoteWithId, language: Language = 'stsl'): st
     return entry.stsl;
   }
 
-  if (language === 'el' && entry.el) {
-    return entry.el;
-  }
-
-  return entry.sr || entry.stsl || entry.el || '';
+  return entry.sr || '';
 };
 
 const getAuthorName = (author: string, language: Language = 'stsl'): string => {
@@ -62,7 +58,6 @@ const getAuthorName = (author: string, language: Language = 'stsl'): string => {
 const quotesByLanguage: QuotesByLanguage = {
   sr: quotesData.filter((entry) => entry.sr),
   stsl: quotesData.filter((entry) => entry.stsl),
-  el: quotesData.filter((entry) => entry.el || entry.sr),
 };
 
 const authorById: AuthorsData = { ...authorsData };
