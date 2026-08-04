@@ -1,4 +1,4 @@
-export const entryTypes = ['quote', 'anecdote'] as const;
+export const entryTypes = ['quote', 'reported', 'anecdote'] as const;
 export type EntryType = (typeof entryTypes)[number];
 
 export const supportedLanguages = ['sl', 'sr', 'en'] as const;

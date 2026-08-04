@@ -84,37 +84,16 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.88"
     },
     {
-        "type": "quote",
+        "type": "reported",
         "sr": "Bijant je govorio da je Apolon mudar i zato je odbio da primi tronožac namenjen najmudrijem.",
         "sl": "Биантъ глаголаше, ꙗко Аполонъ мѫдръ єсть, и тѣмь триножьца, мѫдрѣишѹмѹ назначенаго, не приѧтъ.",
         "author": "Bijant iz Prijene",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.82"
     },
     {
-        "type": "quote",
-        "sr": "Reci Alijatu od mene neka se hrani lukom — neka plače.",
-        "sl": "Рьци Алиатѹ отъ мене, да лѹкомъ питаеть сѧ — да плачеть.",
-        "author": "Bijant iz Prijene",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.83"
-    },
-    {
-        "type": "quote",
+        "type": "reported",
         "sr": "Bijant je govorio da i slučaj mnogima donosi obilje bogatstva.",
         "sl": "Биантъ глаголаше, ꙗко и слѹчаи многымъ обилиє богатства приносить.",
-        "author": "Bijant iz Prijene",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.86"
-    },
-    {
-        "type": "quote",
-        "sr": "Ćutite, da bogovi ne čuju i ne saznaju da ste i vi na brodu.",
-        "sl": "Млъчите, да бози не ѹслышѧть и не ѹвѣдѧть, ꙗко и вы въ корабли єсте.",
-        "author": "Bijant iz Prijene",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.86"
-    },
-    {
-        "type": "quote",
-        "sr": "Ćutim zato što pitaš o onome što te se ne tiče.",
-        "sl": "Млъчѫ, зане о томь въпрашаєши, єже тебѣ не надлежить.",
         "author": "Bijant iz Prijene",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.86"
     },
@@ -155,15 +134,15 @@
     },
     {
         "type": "anecdote",
-        "sr": "Jednom je putovao brodom s bezbožnim ljudima. Kada je nastala oluja i oni su počeli da dozivaju bogove, Bijant im je rekao: 'Utišajte se — da ne čuju i ne saznaju da ste ovde na brodu.'",
-        "sl": "Єдиною плы на кораблѣ съ нечьстивыми чловѣки. Єгда же бѹрѩ настала єсть и они начашѹ призыва̀ти богы, Биантъ рече имъ: 'ѹмлъчите — да не слышать и не ѹвѣдять, ꙗко вꙑ зде єсте на кораблѣ.'",
+        "sr": "Jednom je putovao brodom s bezbožnim ljudima. Kada je nastala oluja i oni su počeli da dozivaju bogove, Bijant im je rekao: Ćutite, da bogovi ne čuju i ne saznaju da ste i vi na brodu.",
+        "sl": "Єдиною плы на кораблѣ съ нечьстивыми чловѣки. Єгда же бѹрѩ настала єсть и они начашѹ призыва̀ти богы, Биантъ рече имъ: Млъчите, да бози не ѹслышѧть и не ѹвѣдѧть, ꙗко и вы въ корабли єсте.",
         "author": "Bijant iz Prijene",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.86"
     },
     {
         "type": "anecdote",
-        "sr": "Jedan bezbožan čovek upitao ga je šta je pobožnost. Bijant je ćutao. Kada ga je upitao zašto ćuti, odgovorio je: 'Ćutim jer me pitaš o nečemu što te se ne tiče.'",
-        "sl": "Нечьстивъ нѣкыи вопроси єго о благочьстии. Биантъ же ѹмлъча. Єгда же тотъ вопроси, почто мълчитъ, отвѣща: 'Мълчѹ, понеже вопрошаєши мѧ о єже тебе не касаєтъ сѧ.'",
+        "sr": "Jedan bezbožan čovek upitao ga je šta je pobožnost. Bijant je ćutao. Kada ga je upitao zašto ćuti, odgovorio je: Ćutim zato što pitaš o onome što te se ne tiče.",
+        "sl": "Нечьстивъ нѣкыи вопроси єго о благочьстии. Биантъ же ѹмлъча. Єгда же тотъ вопроси, почто мълчитъ, отвѣща: Млъчѫ, зане въпрашаєши о томь, єже тебѣ не надлежить.",
         "author": "Bijant iz Prijene",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, I.86"
     }

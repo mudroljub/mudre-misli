@@ -287,9 +287,9 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.78"
     },
     {
-        "type": "quote",
-        "sr": "Prema predanju koje se pripisuje i Diogenu, Aristip je govorio da ljudi pri kupovini proveravaju da li posuđe dobro zvoni, a život prosuđuju bez ikakvog merila.",
-        "sl": "По прѣданию, єже и Диогенѹ приписѹєть сѧ, Аристипъ глаголаше, ꙗко чловѣци при кѹповании искѹшаѭть, добро ли съсѫди звѧчѧть, жизнь же безъ мѣрила сѫдѧть.",
+        "type": "reported",
+        "sr": "Aristip je govorio da ljudi pri kupovini proveravaju da li posuđe dobro zvoni, a život prosuđuju bez ikakvog merila.",
+        "sl": "Аристипъ глаголаше ꙗко чловѣци при кѹповании искѹшаѭть, добро ли съсѫди звѧчѧть, жизнь же безъ мѣрила сѫдѧть.",
         "author": "Aristip",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.78"
     },
@@ -392,7 +392,7 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.82–83"
     },
     {
-        "type": "quote",
+        "type": "reported",
         "sr": "Aristip je govorio da je Sokrat gajio najnežniju ljubav prema Alkibijadu.",
         "sl": "Аристипъ глаголаше, ꙗко Сократъ наинѣжьнѣишꙫ любовь къ Алкивиадѹ имѣаше.",
         "author": "Aristip",
@@ -420,7 +420,7 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.21"
     },
     {
-        "type": "quote",
+        "type": "reported",
         "sr": "Aristip je govorio da je Pausanija bio Empedoklov prisni prijatelj.",
         "sl": "Аристипъ глаголаше, ꙗко Павсании Ємпедокловъ ближьнии дрѹгъ бѣ.",
         "author": "Aristip",

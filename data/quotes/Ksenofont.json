@@ -1,13 +1,13 @@
 [
     {
-        "type": "quote",
-        "sr": "Prema nekima, Ksenofont je govorio da je priroda odavno osudila na smrt i njegove sudije i njega.",
-        "sl": "По нѣкоторымъ, Ксенофонтъ глаголаше, ꙗко єстество издавьна и сѫдиѩ єго и самого єго на смрьть осѫди.",
+        "type": "reported",
+        "sr": "Ksenofont je govorio da je priroda odavno osudila na smrt i njegove sudije i njega.",
+        "sl": "Ксенофонтъ глаголаше ꙗко єстество издавьна и сѫдиѩ єго и самого єго на смрьть осѫди.",
         "author": "Ksenofont",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.13"
     },
     {
-        "type": "quote",
+        "type": "reported",
         "sr": "Ksenofont je govorio da je Sokrat raspravljao samo o etičkim pitanjima.",
         "sl": "Ксенофонтъ глаголаше, ꙗко Сократъ тъкмо о нравьныхъ вещехъ бесѣдоваше.",
         "author": "Ksenofont",
@@ -28,7 +28,7 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.55"
     },
     {
-        "type": "quote",
+        "type": "reported",
         "sr": "Ksenofont je govorio da je Antisten najprijatniji među ljudima u razgovoru, a najuzdržaniji u svemu ostalom.",
         "sl": "Ксенофонтъ глаголаше, ꙗко Антисѳенъ въ бесѣдѣ отъ вьсѣхъ чловѣкъ наиприѧтьнѣишии єсть, въ вьсемь же прочемь наивъздръжьнѣишии.",
         "author": "Ksenofont",
