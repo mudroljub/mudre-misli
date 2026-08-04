@@ -1,11 +1,11 @@
-export const entryTypes = ['quote', 'reported', 'anecdote', 'bio'] as const;
-export type EntryType = (typeof entryTypes)[number];
+export const quoteTypes = ['quote', 'reported', 'anecdote', 'bio'] as const;
+export type QuoteType = (typeof quoteTypes)[number];
 
 export const supportedLanguages = ['stsl', 'sr', 'el'] as const;
 export type Language = (typeof supportedLanguages)[number];
 
 export interface Quote {
-  type: EntryType;
+  type: QuoteType;
   sr: string;
   stsl: string;
   el?: string;

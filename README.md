@@ -126,8 +126,9 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 
 ## TODO
 
-- dodati zaseban odeljak za anegdote
 - dodati podatke iz https://upload.wikimedia.org/wikipedia/commons/a/ab/BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf
-- zaminiti . sa · u staroslovenskom tekstu?
 - dodavati bio i dosledno odvojiti tipove
+- dodati zaseban odeljak za anegdote
 - izbaciti slovo я
+- zaminiti . sa · u staroslovenskom tekstu? npr:
+    Възлюбиши господа бога своего · вьсѣмь срьдьцемь своимь · и вьсеѭ доушеѭ своеѭ · и вьсеѭ крѣпостиѭ своеѭ · и вьсеѭ мꙑслиѭ своеѭ · и възлюбиши искрьнѣаго своего ꙗко и самъ сѧ ·
