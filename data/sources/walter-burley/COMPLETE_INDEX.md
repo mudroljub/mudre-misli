@@ -14,7 +14,7 @@
 1. **Aeschines** - c. XXXV, s. 156
 2. **Aeschylus** - c. LVI, s. 252
 3. **Aesopus** - c. XXIV, s. 98
-4. **Alcibiades** - c. XXXIV, s. 153
+4. **Alcibiades** - c. XXXIV, s. 153 - ✅
 5. **Anacharsis** - c. X, s. 48
 6. **Anaxagoras** - c. XVIII, s. 80 - ✅
 7. **Anaximander** - c. IX, s. 48 - ✅
@@ -29,7 +29,7 @@
 16. **Archilochus** - c. XLI, s. 86
 17. **Archimedes** - c. LXXIV, s. 294
 18. **Archytas** - c. XXIII, s. 90 - ✅
-19. **Aristarchuu** - c. LXXIII, s. 308
+19. **Aristarchus** - c. LXXIII, s. 308 - ✅
 20. **Aristides** - c. XLI, s. 174
 21. **Aristippus** - c. XXXI, s. 142 - ✅
 22. **Aristoteles** - c. LIII, s. 224 - ✅
@@ -37,13 +37,13 @@
 
 ### B
 
-24. **Basilides** - c. CXXIV, s. 386
+24. **Basilides** - c. CXXIV, s. 386 - ✅
 25. **Bias** - c. V, s. 32 - ✅
 26. **Callisthenes** - c. LXV, s. 278
 27. **Callinachos** - c. LXVI, s. 278
 28. **Cato** - c. III, s. 92
 29. **Carneades** - c. LXIX, s. 298
-30. **Chrysippus** - c. XXIX, s. 102
+30. **Chrysippus** - c. XXIX, s. 102 - ✅
 31. **Claudianus** - c. CXXX, s. 392
 32. **Cleanthes** - c. XVI, s. 106
 
@@ -57,16 +57,16 @@
 
 36. **Demetrius (Demas)** - c. LXII, s. 270
 37. **Democritus** - c. XLIIII, s. 160 - ✅
-38. **Demosthenes** - c. XXXVII, s. 166
+38. **Demosthenes** - c. XXXVII, s. 166 - ✅
 39. **Diodorus (Cronus)** - c. LXIX, s. 292
 40. **Diodorus siculus** - c. XCII, s. 318
 41. **Diogenes babylonius** - c. XCVI, s. 324
-42. **Diogenes cynicus** - c. I, s. 197
+42. **Diogenes cynicus** - c. I, s. 197 - ✅
 43. **Empedocles** - c. XLVI, s. 186 - ✅
 44. **Ennius** - c. LXXXI, s. 306
-45. **Epicurus** - c. LXIV, s. 272
+45. **Epicurus** - c. LXIV, s. 272 - ✅
 46. **Epimenides** - c. XII, s. 54
-47. **Eratosthenes** - c. LXXIII, s. 294
+47. **Eratosthenes** - c. LXXIII, s. 294 - ✅
 48. **Euclides** - c. XIII, s. 176
 49. **Eudoxus** - c. XLII, s. 180 - ✅
 50. **Euripides philosophus** - c. XXXVI, s. 158
@@ -74,10 +74,10 @@
 ### G-H
 
 51. **Galenus** - c. CXXII, s. 384
-52. **Gorgias** - c. XXVI, s. 96
+52. **Gorgias** - c. XXVI, s. 96 - ✅
 53. **Hecaton** - c. XC, s. 310
 54. **Hegesiae** - c. LXXX, s. 306
-55. **Hermes** (Trismegistus) - c. LIX, s. 262
+55. **Hermes** (Trismegistus) - c. LIX, s. 262 - ✅
 56. **Heraclitus** - c. XLVIII, s. 188 - ✅
 57. **Herodotus** - c. LXV, s. 278
 58. **Hippocrates (Ipocras)** - c. XLV, s. 180
@@ -112,7 +112,7 @@
 78. **Pittacus** - c. IV, s. 28 - ✅
 79. **Plato** - c. LII, s. 214 - ✅
 80. **Plinius** - c. CXX, s. 368
-81. **Plotinus** - c. LIX, s. 258
+81. **Plotinus** - c. LIX, s. 258 - ✅
 82. **Plotinus Gallius** - c. LXXXVI, s. 308
 83. **Plutarchus** - c. CXIX, s. 364
 84. **Polemo** - c. LXX, s. 292
@@ -120,7 +120,7 @@
 86. **Pompeius Trogus** - c. CXVII, s. 392
 87. **Pomponius bononiensis** - c. CIV, s. 334
 88. **Porcius Cato, M.** - c. XCVI, s. 328
-89. **Porphyrius** - c. CXIX, s. 392
+89. **Porphyrius** - c. CXIX, s. 392 - ✅
 90. **Posidopius** - c. LXXIX, s. 310
 91. **Priscianus** - c. CXXXII, s. 395
 92. **Protagoras** - c. XXVIII, s. 104 - ✅
@@ -149,7 +149,7 @@
 109. **Terentius** - c. CVII, s. 342
 110. **Thales** - c. I, s. 2 - ✅
 111. **Themistocles** - c. XL, s. 172
-112. **Theophrastus** - c. LXVIII, s. 282
+112. **Theophrastus** - c. LXVIII, s. 282 - ✅
 113. **Tullius Cicero, M.** - c. XCV, s. 318
 114. **Tyrtaeus Catalus** - c. LXXII, s. 294
 
@@ -166,7 +166,3 @@
 123. **Zeno citieus** (Zenon Stoik) - c. XXV u. LXXVIII, s. 94 u. 304
 124. **Zeno Eleates** - c. LXXIX, s. 306
 125. **Zoroastes** - c. VIII, s. 46 - ✅
-
-### Ostali značajni filozofi u knjizi (nisu u authors.json):
-
-- Seneca, Cicero, Epicurus, Plotinus, Porphyrius, Chrysippus, Cleanthes, Diogenes Cynic, Hermes Trismegistus, itd.
