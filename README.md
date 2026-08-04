@@ -22,7 +22,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje u delu *Životi i
 1. Periander (oko 668–584. p.n.e.)
 2. Pittakos (oko 650–570. p.n.e.)
 3. Solon (oko 638–558. p.n.e.)
-4. Bijant iz Prijene (oko 625–540. p.n.e.) ✔
+4. Bijant (oko 625–540. p.n.e.) ✔
 5. Tales (oko 624–546. p.n.e.) ✔
 6. Kleobul (oko 600. p.n.e.)
 7. Hilon (oko 600–520. p.n.e.)
