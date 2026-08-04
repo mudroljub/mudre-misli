@@ -109,3 +109,10 @@ body {
   color: #666;
   font-size: 0.9rem;
 }
+
+.original-quote {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #666;
+  font-style: italic;
+}
