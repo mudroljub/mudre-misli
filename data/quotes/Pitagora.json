@@ -1,8 +1,8 @@
 [
     {
         "type": "quote",
-        "sr": "Ja sam filozof.",
-        "sl": "Азъ єсмь любомѫдрьць.",
+        "sr": "Ja nisam mudar, nego ljubitelj mudrosti.",
+        "sl": "Азъ нѣсмь мѫдръ, но любомѫдрьць.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.8"
     },
@@ -22,8 +22,8 @@
     },
     {
         "type": "quote",
-        "sr": "Pijenje je zamka.",
-        "sl": "Пиѥниє єсть сѣть.",
+        "sr": "Pijenje je stupica.",
+        "sl": "Пиѥніє єсть сѣть.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.9"
     },
@@ -58,7 +58,7 @@
     {
         "type": "quote",
         "sr": "Prijateljima je sve zajedničko.",
-        "sl": "Дрѹгомъ вьсе обьщє єсть.",
+        "sl": "Дрѹзѣмъ вьсе обьщє єсть.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.10"
     },
@@ -77,13 +77,6 @@
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.10"
     },
     {
-        "type": "anecdote",
-        "sr": "Govorilo se da mu je butina bila od zlata i da ga je reka Nessos pozdravila kada ju je prelazio.",
-        "sl": "Глаголахѫ, ꙗко бедро єго злато бѣ, и рѣка Нессъ привѣтъ ємѹ глагола, єгда ю прѣхождѧше.",
-        "author": "Pitagora",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.11"
-    },
-    {
         "type": "quote",
         "sr": "Ne razgorevaj vatru nožem.",
         "sl": "Не разжьжꙑ огнѧ ножемь.",
@@ -93,21 +86,21 @@
     {
         "type": "quote",
         "sr": "Ne prelazi preko jezička vage.",
-        "sl": "Не прѣстѫпи ꙗзꙑка вѣсъ.",
+        "sl": "Не прѣстѫпаи ꙗзыкъ вѣса.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
     },
     {
         "type": "quote",
-        "sr": "Ne jedi svoje srce (ne iscrpljuj se brigama).",
-        "sl": "Не ꙗждь срьдьца своєго (не истощаи сѧ печальми).",
+        "sr": "Ne jedi svoje srce (ne jedi se brigama).",
+        "sl": "Не ꙗждь срьдьца своєго (не снѣдаи сѧ печалию).",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17–VIII.18"
     },
     {
         "type": "quote",
-        "sr": "Kad izlaziš na put, ne osvrći se na granici.",
-        "sl": "Єгда исходиши въ пѫть, не обрьти сѧ на предѣлѣ.",
+        "sr": "Kada pođeš putem, ne okreći se.",
+        "sl": "Єгда исходиши въ пѫть, не обрьти сѧ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
     },
@@ -134,15 +127,15 @@
     },
     {
         "type": "quote",
-        "sr": "Od bogova više časti pripada bogovima nego herojima, a među ljudima najpre roditeljima.",
-        "sl": "Отъ чьсти: богомъ паче, нежели храбромъ; междѹ чловѣкы же пьрвѣє родителємъ.",
+        "sr": "Bogove treba poštovati najpre, heroje posle bogova, a među ljudima roditelje.",
+        "sl": "Богы подобаєть пьрвѣє чьстити, витѧзы послѣ богъ, а междѹ чловѣкы родителѧ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.23"
     },
     {
         "type": "quote",
-        "sr": "Prijatelje ne pretvaraj u neprijatelje, nego neprijatelje u prijatelje.",
-        "sl": "Дрѹгы не твори врагы, но врагы въ дрѹгы прѣтворѧи.",
+        "sr": "Ne čini prijatelje neprijateljima, nego neprijatelje prijateljima.",
+        "sl": "Не твори дрѹгы врагы, но врагы дрѹгы твори.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.23"
     },
@@ -155,8 +148,8 @@
     },
     {
         "type": "quote",
-        "sr": "Načelo svega je monada.",
-        "sl": "Начѧло вьсѣхъ єсть монада.",
+        "sr": "Načelo svega je jedno.",
+        "sl": "Начѧло вьсего єсть єдно.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.25"
     },
@@ -169,50 +162,50 @@
     },
     {
         "type": "quote",
-        "sr": "Vrlina je sklad, kao i zdravlje, svako dobro, pa i sam Bog.",
+        "sr": "Vrlina je sklad; isto tako i zdravlje, svako dobro, pa i sam Bog.",
         "sl": "Добродѣтель єсть съгласиє, тако же и здравиє, и вьсѧко благо, и самъ Богъ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.33"
     },
     {
         "type": "quote",
-        "sr": "Najlepše telo među čvrstim oblicima je sfera, a među ravnim krug.",
-        "sl": "Наикраснѣишє тѣло междѹ твьрдыми видами єсть сфера, а междѹ плоскыми — крѫгъ.",
+        "sr": "Od telesnih oblika najlepša je lopta, a od ravnih krug.",
+        "sl": "Наикраснѣишии отъ тѣлесь єсть лопъта, а отъ плоскыхъ — крѫгъ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.35"
     },
     {
         "type": "quote",
-        "sr": "So treba stavljati na trpezu kao podsetnik na pravo, jer čuva ono što zahvati i potiče od najčistijeg: sunca i mora.",
-        "sl": "Соль подобаєтъ полагати на трапезѣ въ помѧнованиє правды, зане хранить єже обрѧщеть и отъ наичистѣишихъ исходить: отъ сльньца и морѧ.",
+        "sr": "So treba stavljati na trpezu kao podsetnik na pravdu, jer čuva ono što primi i potiče od najčistijeg: sunca i mora.",
+        "sl": "Соль подобаєтъ полагати на трапезѣ въ помѧнованіє правды, зане хранить єже приємлеть и отъ наичистѣишихъ исходить: отъ сльньца и морѧ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.35"
     },
     {
-        "type": "anecdote",
-        "sr": "Po jednom predanju, bežeći od progonitelja stigao je do polja pasulja, ali ga nije hteo pregaziti; radije je prihvatio smrt nego da prekrši svoje učenje.",
-        "sl": "По єдиномѹ прѣданию, бѣжа отъ гонителеи и достиже до поля бобовъ, но не въсхотѣ єго прѣстѫпити; паче смрьть прииде, нежели да прѣстѹпить ѹчєниє своє.",
+        "type": "bio",
+        "sr": "Po jednom predanju, bežeći od progonitelja stigao je do polja boba, ali ga nije hteo pregaziti; radije je prihvatio smrt nego da prekrši svoje učenje.",
+        "sl": "По єдиномѹ прѣданию, бѣжа отъ гонителеи и достиже до поля бобовъ, но не въсхотѣ єго прѣстѫпити; паче смрьть прииде, нежели да прѣстѹпить ѹчєніє своє.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.39"
     },
     {
-        "type": "anecdote",
-        "sr": "Hermip pripoveda da je u Italiji iskopao podzemno prebivalište i odatle primao majčine beleške o događajima, pa se potom pojavio kao da se vratio iz Hada; narod ga je smatrao božanskim.",
-        "sl": "Хєрмїпъ повѣствѹєть, ꙗко въ Италии ископа подземно жилище и оттѹдѹ прїимаше записи матєри о събытїихъ, таже ꙗви сѧ ꙗко отъ Ада възвративъсѧ; народъ же божьствена єго мьнѣ.",
+        "type": "bio",
+        "sr": "Hermip pripoveda da je iskopao podzemno prebivalište i odatle primao majčine beleške o događajima, pa se potom pojavio kao da se vratio iz Hada; narod ga je smatrao božanskim.",
+        "sl": "Хєрмїпъ повѣствѹєть, ꙗко ископа подземно жилище и оттѹдѹ прїимаше записи матєри о събытїихъ, таже ꙗви сѧ ꙗко отъ Ада възвративъсѧ; народъ же божьствена єго мьнѣ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.41"
     },
     {
         "type": "quote",
-        "sr": "Ako i najbolji ljudi napuste svoje gradove, propasti će njihov dobar poredak, a opasnost od Mida će porasti.",
+        "sr": "Ako najbolji ljudi napuste svoje gradove, propasti će njihov dobar poredak, a opasnost od Međana će porasti.",
         "sl": "Аще и наилѹчьшии мѫжи оставѧть грады своꙗ, погибнеть добръ чинъ ихъ, и опасность отъ Мидъ възрастеть.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.49"
     },
     {
         "type": "quote",
-        "sr": "Nije dobro samo neprestano posmatrati nebesa; dolikuje i starati se za otadžbinu.",
-        "sl": "Не добро єсть токмо непрѣстанно испытовати небеса; подобаєтъ и промышлѧти о отечьствѣ.",
+        "sr": "Nije dobro samo posmatrati nebo; dolikuje i starati se za otadžbinu.",
+        "sl": "Не добро єсть токмо зрѣти небо; подобаєтъ и печи сѧ о отечьствѣ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.50"
     },
@@ -225,15 +218,15 @@
     },
     {
         "type": "reported",
-        "sr": "Pitagora je govorio da je njegova duša ranije živela kao Etalid, Euforb, Hermotim i Pir, pamteći svoja iskustva kroz život, smrt i seobe u biljke i životinje.",
-        "sl": "Питагоръ глаголаше, ꙗко дѹша єго прѣжде живѣ ꙗко Еталидъ, Еуфорбъ, Хермотимъ и Пиръ, своꙗ испытаниꙗ сквозѣ животъ, смрьть и прѣселениꙗ въ былиꙗ и животнаꙗ помьнѧшти.",
+        "sr": "Pitagora je govorio da je njegova duša ranije živela u drugim telima i da se seća svojih prethodnih života, smrti i seoba u ljude, biljke i životinje.",
+        "sl": "Питагоръ глаголаше, ꙗко дѹша єго прѣжде живѣ въ инѣхъ тѣлесѣхъ и помьнитъ прѣждьнѧꙗ житїꙗ, смрьти и прѣселениꙗ въ чловѣкы, былиꙗ и животнаꙗ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.4–5"
     },
     {
         "type": "quote",
-        "sr": "Zaklinjem se vazduhom koji dišem i vodom koju pijem: nikada zbog ovoga dela neću podneti ukor.",
-        "sl": "Кълнѫ сѧ въздѹхомъ, имьже дышѫ, и водою, ѭже пиѭ: николи о семь дѣлѣ ѹкора не претерплѭ.",
+        "sr": "Zaklinjem se vazduhom koji dišem i vodom koju pijem: nikada neću podneti pobijanje ovog spisa.",
+        "sl": "Кълнѫ сѧ въздѹхомъ, имьже дышѫ, и водою, юже пиѭ: николи же ѹкорениꙗ сего писаниꙗ не претерплѭ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.6"
     },
@@ -253,27 +246,41 @@
     },
     {
         "type": "quote",
-        "sr": "Žene uz muškarce nose božanska imena: najpre se zovu device, zatim neveste, a potom majke.",
-        "sl": "Жены при мѫжьхъ божьствьна имена носѧть: пьрво дѣвы нарицаѭть сѧ, потомь невѣсты, послѣди матере.",
+        "sr": "Žene prema muškarcima nose božanska imena: najpre se nazivaju device, zatim neveste, a potom majke.",
+        "sl": "Жены при мѫжьхъ божьствьна имѧна носѧть: пьрво дѣвы нарицаѭть сѧ, потомь невѣсты, послѣди матере.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.11"
     },
     {
         "type": "quote",
-        "sr": "Životinje koje sa nama dele povlasticu duše ne treba ubijati, a kamoli jesti; uzdržavanje od životinjske hrane navikava čoveka na jednostavan život, zdravo telo i bistar um.",
-        "sl": "Животнаꙗ, иже съ нами даръ дѹше имѫть, не подобаєть ѹбивати, кольми паче ꙗсти; въздръжаниє отъ животьныѧ пищте чловѣка къ простомѹ житію, здравомѹ тѣлѹ и свѣтлѹ ѹмѹ навычаеть.",
+        "sr": "Životinje koje sa nama dele dar duše ne treba ubijati, a kamoli jesti; uzdržavanje od životinjske hrane navikava čoveka na jednostavan život, zdravo telo i bistar um.",
+        "sl": "Животнаꙗ, иже съ нами даръ дѹше имѫть, не подобаєть ѹбивати, кольми паче ꙗсти; въздръжаніє отъ животьныѧ пищте чловѣка къ простомѹ житію, здравомѹ тѣлѹ и свѣтлѹ ѹмѹ навычаеть.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.13"
     },
     {
         "type": "quote",
-        "sr": "Duša, vezujući se čas za jedno, čas za drugo biće, kruži po nužnom poretku; Večernjača i Zornjača ista su zvezda. Posle dvesta sedam godina provedenih u Adu vratio sam se među žive.",
-        "sl": "Дѹша, то єдиномѹ, то дрѹгомѹ сѫштѹ привезана, по нѫждьнѣмѹ чинѹ крѹжить; вечернѧꙗ и ѹтрьнѧꙗ звѣзда єдина єсть. По двѣстѣхъ и седми лѣтѣхъ въ Адѣ къ живымъ възвратихъ сѧ.",
+        "sr": "Duša, vezujući se čas za jedno, čas za drugo biće, kruži po nužnom poretku.",
+        "sl": "Дѹша, то єдиномѹ то дрѹгомѹ сѫштѹ привезана, по рѧдѹ сѫдьбы крѹжить.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.14"
     },
     {
         "type": "quote",
+        "sr": "Večernjača i Danica ista su zvezda.",
+        "sl": "Вечернѧꙗ и ѹтрьнѧꙗ звѣзда єдина єсть.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.14"
+    },
+    {
+        "type": "quote",
+        "sr": "Posle dvesta sedam godina provedenih u Adu vratih se među žive.",
+        "sl": "По двѣстѣхъ и седми лѣтѣхъ въ Адѣ къ живымъ възвратихъ сѧ.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.14"
+    },
+    {
+        "type": "reported",
         "sr": "Pitagorejci su govorili da nisu sva Pitagorina učenja namenjena svačijim ušima.",
         "sl": "Питагорѧне глаголаахѹ, ꙗко не вьсѧ Питагорова ѹчениꙗ вьсѣмъ слышати подобаєть.",
         "author": "Pitagora",
@@ -281,64 +288,183 @@
     },
     {
         "type": "quote",
-        "sr": "Ne sedi na merici; ne pomaži čoveku da spusti teret, nego da ga podigne; postelju uvek smotaj; ne ureži lik boga u prsten; ne ostavljaj trag lonca u pepelu; ne briši nečistoću bakljom; ne mokri prema suncu; ne idi širokim putem; ne pružaj ruku olako; ne drži lastavice pod krovom ni ptice zakrivljenih kandži; ne staj na odsečenim noktima i vlasima; oštricu okreni od sebe.",
-        "sl": "Не сѣди на мѣрѣ; не помагаи чловѣкѹ бремѧ съложити, нъ възложити; постелѭ всегда съвиваи; образа божиꙗ въ пръстень не врѣзываи; слѣда гръньца въ пепелѣ не оставлѧи; нечистоты свѣштиломъ не отираи; къ слъньцѹ не мочи сѧ; широкымъ пѫтемъ не ходи; рѫкы поспѣшьно не подаваи; ластовицъ подъ кровомъ ни птицъ кривокогътьныхъ не дръжи; на обрѣзаныхъ ногътехъ и власѣхъ не стои; остриє отъ себе обрати.",
+        "sr": "Ne sedi na merici.",
+        "sl": "Не сѣди на мѣрѣ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
     },
     {
         "type": "quote",
-        "sr": "Ne prelazi preko jezička vage znači: ne prekoračuj granice jednakosti i pravde. Ne sedi na merici znači: jednako se staraj za sadašnjost i budućnost.",
-        "sl": "Не прѣстѫпаи мѣрильнаго ꙗзыка значить: не прѣстѫпаи прѣдѣла равьньства и правды. Не сѣди на мѣрѣ значить: равно пеки сѧ о нынѣшьнѣмь и грѧдѫштемь.",
+        "sr": "Ne pomaži čoveku da breme spusti, nego da ga nosi.",
+        "sl": "Не помагаи чловѣкѹ бремѧ съложити, нъ възложити.",
         "author": "Pitagora",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.18"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
     },
     {
         "type": "quote",
-        "sr": "Ne treba jesti barbun ni crnorepku, niti životinjska srca i pasulj; prema nekim izvorima, ni burag ni kokot.",
-        "sl": "Не подобаєть ꙗсти чръвенаго ни чрънохвостаго рыбѹ, ни животьныхъ срьдьць и бобовъ; по нѣкыимъ извѣстии ни чрѣва ни морьскаго кокота.",
+        "sr": "Postelju uvek smotaj.",
+        "sl": "Постелѭ всегда съвиваи.",
         "author": "Pitagora",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.19"
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
     },
     {
         "type": "quote",
-        "sr": "Izbegavaj prejedanje, razuzdanost, pijanstvo, neumeren smeh, pogrdne šale i prostačke priče; nikoga ne kažnjavaj u gnevu. Opomena je ispravljanje. Proriči glasovima i znamenjima, a ne spaljenim žrtvama.",
-        "sl": "Объꙗдениꙗ, распѹстьства, пиꙗньства, безмѣрьнаго смѣха, хѹльныхъ шѹтокъ и сквръныхъ повѣстии бѣгаи; никогоже въ гнѣвѣ наказѹи. Наставлениє єсть исправлениє. Прорицаи гласы и знаменьми, а не съжигаємыими жрьтвами.",
+        "sr": "Nečistoća se svećom ne uklanja.",
+        "sl": "Нечистота свѣщею не очищаеть сѧ.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
+    },
+    {
+        "type": "quote",
+        "sr": "Ne mokri prema suncu.",
+        "sl": "Къ слъньцѹ не мочи сѧ.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
+    },
+    {
+        "type": "quote",
+        "sr": "Ne idi širokim putem.",
+        "sl": "Широкымъ пѫтемъ не ходи.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
+    },
+    {
+        "type": "quote",
+        "sr": "Ne pružaj ruku olako.",
+        "sl": "Рѫкы поспѣшьно не простираи.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
+    },
+    {
+        "type": "quote",
+        "sr": "Ne primaj pod krov lastavice ni ptice grabljivice.",
+        "sl": "Не приимаи подъ кровъ ластовицъ, ни птицъ хыщьныхъ.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
+    },
+    {
+        "type": "quote",
+        "sr": "Ne gazi po odsečenim noktima i kosi.",
+        "sl": "Не настѫпаи по обрѣзаныхъ ногътехъ и власѣхъ.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
+    },
+    {
+        "type": "quote",
+        "sr": "Ne okreći oštricu prema sebi.",
+        "sl": "Не обрашаи остриє къ себѣ.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.17"
+    },
+    {
+        "type": "quote",
+        "sr": "Izbegavaj prejedanje, razuzdanost, pijanstvo, neumeren smeh, pogrdne šale i prostačke priče.",
+        "sl": "Объꙗдениꙗ, распѹстьства, пиꙗньства, безмѣрьнаго смѣха, хѹльныхъ шѹтокъ и скврьныхъ словесъ бѣгаи.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.20"
+    },
+    {
+        "type": "quote",
+        "sr": "Nikoga ne kažnjavaj u gnevu.",
+        "sl": "Никогоже въ гнѣвѣ наказѹи.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.20"
+    },
+    {
+        "type": "quote",
+        "sr": "Opominjanje je ispravljanje.",
+        "sl": "Наставленіє єсть исправленіє.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.20"
+    },
+    {
+        "type": "quote",
+        "sr": "Proriči iz glasova i znamenja, a ne iz spaljenih žrtava.",
+        "sl": "Прорицаи гласы и знаменьми, а не съжигаємыми жрьтвами.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.20"
     },
     {
         "type": "reported",
-        "sr": "Pitagora je govorio da je u Adu video Hesiodovu dušu vezanu za bronzani stub i Homerovu obešenu o drvo među zmijama, kažnjene zbog svojih reči o bogovima, a na mukama i one koji nisu ostali verni supružnicima.",
-        "sl": "Питагоръ глаголаше, ꙗко въ Адѣ видѣ Хесиодову дѹшѹ къ мѣдѣномѹ стълпѹ привезанꙫ и Хомерову на дрѣвѣ посрѣдѣ змии повѣшенꙫ, за словеса о бозѣхъ мѫчимы, тако же и невѣрьныѧ сѫпрѫгомъ.",
+        "sr": "Pitagora je govorio da je u Adu video Hesiodovu dušu privezanu za bronzani stub i Homerovu obešenu o drvo među zmijama, kažnjene zbog svojih reči o bogovima, kao i duše onih koji nisu ostali verni svojim supružnicima.",
+        "sl": "Питагоръ глаголаше, ꙗко въ Адѣ видѣ Хесиодову дѹшѹ къ мѣдѣномѹ стълпѹ привезанѹ и Хомерову на дрѣвѣ посрѣдѣ змии повѣшенѹ, за словеса о бозѣхъ мѫчимы, тако же и дѹши невѣрьныхъ къ сѫпрѫгомъ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.21"
     },
     {
         "type": "quote",
-        "sr": "Bogovima ne prinosi životinjske žrtve; služi samo pred beskrvnim žrtvenikom.",
-        "sl": "Богомъ животьныхъ жрьтвъ не приноси; єдино прѣдъ безкръвьнымъ олтаремъ слѹжи.",
+        "sr": "Bogovima ne prinosi životinjske žrtve; prinosi žrtvu samo pred beskrvnim žrtvenikom.",
+        "sl": "Богомъ животьныхъ жрьтвъ не приноси; токмо прѣдъ безкръвьнымъ жрьтвеникомъ жрьтвѹ приноси.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.22"
     },
     {
         "type": "quote",
-        "sr": "Ništa ne smatraj svojim. Podržavaj zakon i ratuj protiv bezakonja. Ne ubijaj niti oštećuj pitomo drveće ni životinju koja ne škodi čoveku. Ne predaj se neobuzdanom smehu niti nosi namršteno lice. Na putu smenjuj napor i odmor.",
-        "sl": "Ничтоже своє быти мьни. Законъ подръжаваи и противѹ беззаконию борисѧ. Не ѹбиваи ни врѣди кротъкаго дрѣва ни животнаго, єже чловѣкѹ не вредитъ. Не предаваи сѧ безѹзьдьномѹ смѣхѹ ни мрачно лице носи. На пѫти трѹдъ и покои прѣмѣнѧи.",
+        "sr": "Ništa ne smatraj svojim.",
+        "sl": "Ничтоже своє мьни быти.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.23"
     },
     {
         "type": "quote",
-        "sr": "Vežbaj pamćenje; poštuj svako proricanje; pevaj uz liru i himnama iskazuj zahvalnost bogovima i dobrim ljudima. Uzdržavaj se od pasulja, jer je pun daha života, a bez njega stomak je mirniji i snovi blaži.",
-        "sl": "Памѧть ѹпражнѧи; вьсѧко прорицање чьсти; при гѫслѣхъ пои и пѣсньми благодарность богомъ и добрымъ людемъ въздаваи. Отъ бобовъ въздръжи сѧ, зане дыханиꙗ животьнаго пълни сѫть; безъ нихъ же чрѣво мирьнѣє и съни кротъчаиши.",
+        "sr": "Podržavaj zakon i bori se protiv bezakonja.",
+        "sl": "Законъ подръжаваи и противѹ беззаконию борисѧ.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.23"
+    },
+    {
+        "type": "quote",
+        "sr": "Ne ubijaj niti povređuj pitomo drvo ni životinju koja ne škodi čoveku.",
+        "sl": "Не ѹбиваи ни врѣди кротъкаго дрѣва ни животнаго, єже чловѣкѹ не вредитъ.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.23"
+    },
+    {
+        "type": "quote",
+        "sr": "Ne predaj se neobuzdanom smehu niti nosi namršteno lice.",
+        "sl": "Не предаваи сѧ безѹзьдьномѹ смѣхѹ ни мрачно лице носи.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.23"
+    },
+    {
+        "type": "quote",
+        "sr": "Na putu smenjuj napor i odmor.",
+        "sl": "На пѫти трѹдъ и покои прѣмѣнѧи.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.23"
+    },
+    {
+        "type": "quote",
+        "sr": "Vežbaj pamćenje.",
+        "sl": "Памѧть ѹпражнѧи.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.24"
     },
     {
         "type": "quote",
-        "sr": "Iz monade nastaje neodređena dijada kao tvar monadi, koja je uzrok; iz monade i dijade nastaju brojevi, iz brojeva tačke, iz tačaka linije, iz linija ravne figure, iz njih čvrsta tela, a iz tela čulne stvari i četiri elementa: oganj, voda, zemlja i vazduh.",
-        "sl": "Отъ монады бываєть неопредѣлена двоица ꙗко вещество монадѣ, ꙗже вина єсть; отъ монады и двоицы числа, отъ числъ точкы, отъ точькъ чрьты, отъ чрьтъ равьны образи, отъ нихъ твръда тѣлеса, а отъ тѣлесъ чѹвьствьны вѣшти и четыре състави: огнь, вода, землѧ и въздѹхъ.",
+        "sr": "Poštuj svako proricanje.",
+        "sl": "Вьсѧко прорицаніє чьсти.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.24"
+    },
+    {
+        "type": "quote",
+        "sr": "Pevaj uz liru i himnama iskazuj zahvalnost bogovima i dobrim ljudima.",
+        "sl": "При гѫслѣхъ пои и пѣсньми благодареніє богомъ и добрымъ людемъ въздаваи.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.24"
+    },
+    {
+        "type": "quote",
+        "sr": "Uzdržavaj se od boba, jer je pun daha; bez njega je stomak mirniji i snovi prijatniji.",
+        "sl": "Отъ бобовъ въздръжи сѧ, зане дыха пълни сѫть; безъ нихъ же чрѣво мирьнѣє и съни слащи.",
+        "author": "Pitagora",
+        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.24"
+    },
+    {
+        "type": "quote",
+        "sr": "Iz jednine, koja je uzrok, nastaje neodređeno dvojstvo, koje joj je tvar. Iz jednine i dvojstva nastaju brojevi. Iz brojeva tačke, iz tačaka linije, iz linija ravne figure, iz njih čvrsta tela. Iz tela nastaju čulne stvari i četiri elementa: oganj, voda, zemlja i vazduh.",
+        "sl": "Отъ єдиньства, єже вина єсть, бываєть неопредѣлено двоиство, єже єму тварь єсть. Отъ єдиньства и двоиства бываѫть числа. Отъ числъ точкы, отъ точькъ чрьты, отъ чрътъ равьны образи, отъ нихъ твръда тѣлеса. Отъ тѣлесъ бываѫть чѹвьствьны вѣшти и четыре състави: огнь, вода, землѧ и въздѹхъ.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.25"
     },
@@ -408,7 +534,7 @@
     {
         "type": "quote",
         "sr": "Pravo ima snagu zakletve. Ljubav prijatelja jeste saglasnost i jednakost. Bogove i heroje ne treba jednako poštovati: bogove uvek, u čistoj beloj odeći i pobožnoj tišini, a heroje tek od podneva. Očišćenje zahteva pranje, obredno kropljenje i uzdržavanje od oskrnavljenja i životinjske hrane.",
-        "sl": "Правда силꙫ клѧтвы имать. Любовь дрѹговъ єсть съгласиє и равьньство. Богы и витѧзы не равно чьстити подобаєть: богы всегда, въ чистѣ бѣлѣ одежди и благоговѣинѣ млъчании, витѧзы же отъ полѹдьне. Очищениє требѹєть омовениꙗ, окроплениꙗ и въздръжаниꙗ отъ сквръны и животьныѧ пищте.",
+        "sl": "Правда силꙫ клѧтвы имать. Любовь дрѹговъ єсть съгласиє и равьньство. Богы и витѧзы не равно чьстити подобаєть: богы всегда, въ чистѣ бѣлѣ одежди и благоговѣинѣ млъчании, витѧзы же отъ полѹдьне. Очищеніє требѹєть омовениꙗ, окроплениꙗ и въздръжаниꙗ отъ сквръны и животьныѧ пищте.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.33"
     },
@@ -422,7 +548,7 @@
     {
         "type": "quote",
         "sr": "Ne lomi hleb, jer su se prijatelji nekada sastajali nad jednim hlebom i ne treba deliti ono što ih spaja. Starost je nalik svemu što opada, mladost svemu što raste; zdravlje je očuvanje oblika, a bolest njegovo razaranje.",
-        "sl": "Хлѣба не ломи, зане дрѹзи нѣкогда надъ єдинымъ хлѣбомъ събираахѹ сѧ, и не подобаєть раздѣлѧти єже ихъ съединѧєть. Старость подобьна єсть вьсемѹ ѹбываѭштемѹ, юность вьсемѹ растѫштемѹ; здравиє єсть съхранениє образа, недѫгъ же разорениє єго.",
+        "sl": "Хлѣба не ломи, зане дрѹзи нѣкогда надъ єдинымъ хлѣбомъ събираахѹ сѧ, и не подобаєть раздѣлѧти єже ихъ съединѧєть. Старость подобьна єсть вьсемѹ ѹбываѭштемѹ, юность вьсемѹ растѫштемѹ; здравиє єсть съхраненіє образа, недѫгъ же разореніє єго.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.35"
     },
@@ -436,7 +562,7 @@
     {
         "type": "quote",
         "sr": "Javno izlaganje učenja je nedostojno; spise ne predaj nikome izvan kuće.",
-        "sl": "Всенародьно изложениє ѹчении недостоино єсть; писании никомѹ внѣ домѹ не предаваи.",
+        "sl": "Всенародьно изложеніє ѹчении недостоино єсть; писании никомѹ внѣ домѹ не предаваи.",
         "author": "Pitagora",
         "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VIII.42"
     },
