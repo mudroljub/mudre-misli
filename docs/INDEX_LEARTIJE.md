@@ -22,10 +22,10 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje (10 knjiga).
 4. Bijant (Βίας, oko 625–540. p.n.e.) ✅
 5. Tales (Θαλῆς, oko 624–546. p.n.e.) ✅
 6. Kleobul (Κλεόβουλος, oko 600. p.n.e.)
-7. Hilon (Χίλων, oko 600–520. p.n.e.)
+7. Hilon (Χίλων, oko 600–520. p.n.e.) ✅
 8. Anaharsis (Ἀνάχαρσις, oko 600. p.n.e.) ✅
 9. Mizon (Μύσων, 6. vek p.n.e.)
-10. Epimenid (Ἐπιμενίδης, 7.–6. vek p.n.e.)
+10. Epimenid (Ἐπιμενίδης, 7.–6. vek p.n.e.) ✅
 11. Ferekit (Φερεκύδης, oko 580–520. p.n.e.)
 
 ### Jonska škola i predsokratovci (6.–5. vek p.n.e.) — Knjige II, VIII, IX
@@ -66,7 +66,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje (10 knjiga).
 42. Kebet (Κέβης, 5. vek p.n.e.)
 43. Antisten (Ἀντισθένης, oko 446–366. p.n.e.) ✅
 44. Stilpon (Στίλπων, oko 380–300. p.n.e.)
-45. Menedém Eritrejski (Μενέδημος, oko 345–261. p.n.e.)
+45. Menedém Eritrejski (Μενέδημος, oko 345–261. p.n.e.) ✅
 
 ### Platonova akademija (4.–2. vek p.n.e.) — Knjige III, IV
 

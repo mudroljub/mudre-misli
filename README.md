@@ -25,3 +25,4 @@ npm start
 - proveriti sr prevode
 - dodati slike koje fale, prekopirati lokalno, izabrati bolje
 - čistiti redom sadržaj i ručno sređivati godine, brisati smeće i sl.
+- probati da samo najkraća izreka bude većim slovima

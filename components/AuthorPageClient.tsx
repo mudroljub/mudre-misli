@@ -9,7 +9,6 @@ import type { AuthorData, Language, Entry } from "../types/data";
 import QuoteCard from "./QuoteCard";
 import BookLayout from "./BookLayout";
 import styles from "./AuthorPageClient.module.scss";
-import gridStyles from "./EntriesGrid.module.scss";
 
 interface AuthorPageClientProps {
   author: string;
@@ -63,7 +62,7 @@ export default function AuthorPageClient({
           <section className={styles.authorSection}>
             <h3>{t.sectionQuotes}</h3>
 
-            <div className={`${gridStyles.grid} ${gridStyles.alternating}`}>
+            <div className={styles.grid}>
               {quotesSection.map((entry) => (
                 <QuoteCard
                   key={entry._id}

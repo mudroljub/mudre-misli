@@ -326,5 +326,29 @@
     "sr": "Solon",
     "stsl": "Солонъ",
     "originalText": "Σόλων"
+  },
+  "Hilon": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chilon_of_Sparta.jpg?width=160",
+    "born": -600,
+    "died": -520,
+    "sr": "Hilon",
+    "stsl": "Хїлонъ",
+    "originalText": "Χίλων"
+  },
+  "Epimenid": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Epimenides.jpg?width=160",
+    "born": -600,
+    "died": -543,
+    "sr": "Epimenid",
+    "stsl": "Епімєнідъ",
+    "originalText": "Ἐπιμενίδης"
+  },
+  "Menedem": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Menedemus.jpg?width=160",
+    "born": -345,
+    "died": -261,
+    "sr": "Menedém",
+    "stsl": "Мєнєдємъ",
+    "originalText": "Μενέδημος"
   }
 }
