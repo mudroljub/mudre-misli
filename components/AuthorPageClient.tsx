@@ -6,12 +6,12 @@ import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getTextForLanguage, getAuthorName } from '../lib/data';
 import { getTranslation } from '../lib/translations';
-import type { AuthorData, Language, EntryWithId } from '../types/data';
+import type { AuthorData, Language, Entry } from '../types/data';
 
 interface AuthorPageClientProps {
   author: string;
   authorMeta: AuthorData;
-  authorQuotes: EntryWithId[];
+  authorQuotes: Entry[];
 }
 
 export default function AuthorPageClient({

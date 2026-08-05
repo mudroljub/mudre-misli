@@ -20,6 +20,8 @@ export type Language = (typeof supportedLanguages)[number];
  * Common fields shared by all entry types.
  */
 interface BaseEntry {
+    _id: number;
+
   /** Modern Serbian translation (required) */
   sr: string;
 
@@ -61,10 +63,6 @@ interface Saying extends BaseEntry {
 
 export type Entry = LifeEvent | Saying;
 
-export type EntryWithId = Entry & {
-  _id: number;
-};
-
 /**
  * Data about a philosopher/author.
  *
@@ -91,7 +89,7 @@ export interface AuthorData {
 }
 
 export type AuthorsData = Record<string, AuthorData>;
-export type EntriesByLanguage = Record<Language, EntryWithId[]>;
+export type EntriesByLanguage = Record<Language, Entry[]>;
 
 export type SourceData = {
   language: string;

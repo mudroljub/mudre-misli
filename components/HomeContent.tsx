@@ -6,10 +6,10 @@ import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getTextForLanguage, getAuthorName } from '../lib/data';
 import { getTranslation } from '../lib/translations';
-import type { Language, EntryWithId } from '../types/data';
+import type { Language, Entry } from '../types/data';
 
 interface HomeContentProps {
-  featured: EntryWithId;
+  featured: Entry;
 }
 
 export default function HomeContent({ featured }: HomeContentProps) {

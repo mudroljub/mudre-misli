@@ -5,7 +5,7 @@ import {
   type AuthorsData,
   type Language,
   type EntriesByLanguage,
-  type EntryWithId,
+  type Entry,
   SourceData,
 } from '../types/data';
 import sourcesRaw from '../data/sources.json';
@@ -13,7 +13,7 @@ import sourcesRaw from '../data/sources.json';
 const sourcesData: Record<string, SourceData> = sourcesRaw;
 
 const authorsData: AuthorsData = authorsRaw;
-const quotesData: EntryWithId[] = quotes as EntryWithId[];
+const quotesData: Entry[] = quotes as Entry[];
 
 const languages = supportedLanguages;
 const authors = Object.keys(authorsData).sort((left, right) => {
@@ -40,7 +40,7 @@ const authorFromSlug: Record<string, string> = Object.fromEntries(
 const getLanguagePreference = (preferred: string): Language =>
   languages.includes(preferred as Language) ? (preferred as Language) : 'stsl';
 
-const getTextForLanguage = (entry: EntryWithId, language: Language = 'stsl'): string => {
+const getTextForLanguage = (entry: Entry, language: Language = 'stsl'): string => {
   if (language === 'stsl' && entry.stsl) {
     return entry.stsl;
   }
