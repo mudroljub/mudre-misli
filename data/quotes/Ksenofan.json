@@ -5,7 +5,8 @@
         "stsl": "Уже седмь и шєстьдесѧтъ лѣтъ мою мысль по єллиньстѣи земли носѧть · отъ рождениꙗ же моєго до того бѣаше єще два десѧте и пѧть лѣтъ · аще о сихъ истинѹ глаголати вѣмь ·",
         "el": "ἤδη δ' ἑπτά τ' ἔασι καὶ ἑξήκοντ' ἐνιαυτοὶ βληστρίζοντες ἐμὴν φροντίδ' ἀν' Ἑλλάδα γῆν· ἐκ γενετῆς δὲ τότ' ἦσαν ἐείκοσι πέντε τε πρὸς τοῖς, εἴπερ ἐγὼ περὶ τῶνδ' οἶδα λέγειν ἐτύμως.",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.19"
+        "source": "diogenes-laertius",
+        "reference": "IX.19"
     },
     {
         "type": "quote",
@@ -13,7 +14,8 @@
         "stsl": "Облаци бываѭть · єгда испареніє · єже слъньце възносить · възходитъ въ обьимѫщии въздѹхъ ·",
         "el": "τὰ νέφη συνίστασθαι τῆς ἀφ' ἡλίου ἀτμίδος ἀναφερομένης καὶ αἰρούσης αὐτὰ εἰς τὸ περιέχον.",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.19"
+        "source": "diogenes-laertius",
+        "reference": "IX.19"
     },
     {
         "type": "quote",
@@ -21,7 +23,8 @@
         "stsl": "Сѫщьство божиє кѫгльно єсть и ничимь же чловѣкѹ подобьно · Вьсь видить и вьсь слышить · нъ не дышить · Вьсь же ѹмъ и благоразѹмиє и вѣчьнъ єсть ·",
         "el": "οὐσίαν θεοῦ σφαιροειδῆ, μηδὲν ὅμοιον ἔχουσαν ἀνθρώπῳ· ὅλον δὲ ὁρᾶν καὶ ὅλον ἀκούειν, μὴ μέντοι ἀναπνεῖν· σύμπαντά τε εἶναι νοῦν καὶ φρόνησιν καὶ ἀΐδιον.",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.19"
+        "source": "diogenes-laertius",
+        "reference": "IX.19"
     },
     {
         "type": "quote",
@@ -29,7 +32,8 @@
         "stsl": "Вьсѧко бываѭщеє тлѣньно єсть ·",
         "el": "πᾶν τὸ γινόμενον φθαρτόν ἐστι.",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.19"
+        "source": "diogenes-laertius",
+        "reference": "IX.19"
     },
     {
         "type": "quote",
@@ -37,7 +41,8 @@
         "stsl": "Дѹша єсть дыханіє ·",
         "el": "ἡ ψυχὴ πνεῦμα.",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.19"
+        "source": "diogenes-laertius",
+        "reference": "IX.19"
     },
     {
         "type": "quote",
@@ -45,7 +50,8 @@
         "stsl": "Множьство єсть слабѣє отъ ѹма ·",
         "el": "τὰ πολλὰ ἥσσω νοῦ εἶναι.",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.20"
+        "source": "diogenes-laertius",
+        "reference": "IX.20"
     },
     {
         "type": "quote",
@@ -53,7 +59,8 @@
         "stsl": "Съ тираны подобаєть общити сѧ или рѣдьше или приѧтьнѣше ·",
         "el": "τοῖς τυράννοις ἐντυγχάνειν ἢ ὡς ἥκιστα ἢ ὡς ἥδιστα.",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.20"
+        "source": "diogenes-laertius",
+        "reference": "IX.20"
     },
     {
         "type": "quote",
@@ -61,45 +68,51 @@
         "stsl": "Ꙗсно никтоже чловѣкъ видѣ · ни бѹдетъ кто вѣдꙑи о бозѣхъ и о всѣхъ ·",
         "el": "σαφὲς οὔτις ἀνὴρ ἴδεν οὐδέ τις ἔσται εἰδώς.",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.72"
+        "source": "diogenes-laertius",
+        "reference": "IX.72"
     },
     {
         "type": "reported",
         "sr": "Stihovima je grdio Hesioda i Homera zbog njihovih reči o bogovima. Javno je kazivao svoje pesme. Suprotstavljao se učenjima Talesa, Pitagore i Epimenida.",
         "stsl": "Стихы укорьны творѧаше на Хесиода и Хомера ради словесъ ихъ о бозѣхъ · Своѧ же пѣниꙗ самъ предъ людьми глаголааше · Ѹчєниѧмъ Фалеса · Питагора и Епименида противлѧаше сѧ ·",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.18"
+        "source": "diogenes-laertius",
+        "reference": "IX.18"
     },
     {
         "type": "bio",
         "sr": "Ksenofan je, pošto je bio prognan iz domovine, boravio u Zankli i Katani na Siciliji.",
         "stsl": "Ксенофанъ · изгнанъ бывъ изъ отечьства · пребывааше въ Занкли и Катани Сикелиискѣи ·",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.18",
-        "year": -570
+        "source": "diogenes-laertius",
+        "year": -570,
+        "reference": "IX.18"
     },
     {
         "type": "anecdote",
         "sr": "Kada mu je Empedoklo rekao da je nemoguće pronaći mudrog čoveka, Ksenofan je odgovorio: Prirodno; jer mudar mora biti onaj ko će mudroga poznati.",
         "stsl": "Єгда Ємпедоклъ рече ємѹ · ꙗко обрѣсти мѫдра мѫжа не възможьно єсть · Ксенофанъ отвѣща · По єстествѹ · мѫдръ бо быти подобаєть томѹ · иже мѫдра познаєть ·",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.20",
-        "year": -539
+        "source": "diogenes-laertius",
+        "year": -539,
+        "reference": "IX.20"
     },
     {
         "type": "bio",
         "sr": "Prema Favorinu, Ksenofan je bio prodat u ropstvo, a oslobodili su ga pitagorejci Parmenisk i Orestad.",
         "stsl": "По Фаворинѹ Ксенофанъ проданъ бысть въ рабьство · и свободиша єго питагорѣи Парменискъ и Орестадъ ·",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.20",
-        "year": -509
+        "source": "diogenes-laertius",
+        "year": -509,
+        "reference": "IX.20"
     },
     {
         "type": "bio",
         "sr": "Ksenofan je, kao i Anaksagora, svojim rukama sahranio svoje sinove.",
         "stsl": "Ксенофанъ · ꙗкоже Анаксагора · своима рѫкама погребе сыны своѧ ·",
         "author": "Ksenofan",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, IX.20",
-        "year": -478
+        "source": "diogenes-laertius",
+        "year": -478,
+        "reference": "IX.20"
     }
 ]

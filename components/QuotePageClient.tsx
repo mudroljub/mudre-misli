@@ -39,7 +39,7 @@ export default function QuotePageClient({
           )}
 
           <p className="source-line">
-            {t.source}: {getSourceName(quote.source, language)}
+            {t.source}: {getSourceName(quote.source, language)}, {quote.reference}
           </p>
 
           <Link href={`/authors/${authorSlugs[quote.author] ?? quote.author}`}>

@@ -5,7 +5,8 @@
         "stsl": "Начѧло и пьрвосъставъ сѫщихъ єсть безмѣрьноє ·",
         "el": "ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον.",
         "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+        "source": "diogenes-laertius",
+        "reference": "II.1"
     },
     {
         "type": "reported",
@@ -13,7 +14,8 @@
         "stsl": "Анаксимандръ глаголаше ꙗко различьнаꙗ вѣщи прѣмѣнѧють сѧ · безмѣрьноє же пребываєть непрѣмѣнно ·",
         "el": "καὶ τὰ μὲν μέρη μεταβάλλειν, τὸ δὲ πᾶν ἀμετάβλητον εἶναι.",
         "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+        "source": "diogenes-laertius",
+        "reference": "II.1"
     },
     {
         "type": "quote",
@@ -21,7 +23,8 @@
         "stsl": "Землѧ єсть кѫгльна и почиваетъ посредѣ · равьно отъ вьсѣхъ странъ отстоѧща ·",
         "el": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
         "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+        "source": "diogenes-laertius",
+        "reference": "II.1"
     },
     {
         "type": "quote",
@@ -29,7 +32,8 @@
         "stsl": "Мѣсѧць свѣтить заѥмлѥмь свѣтомъ и приимаеть просвѣщєніє отъ сльньца ·",
         "el": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
         "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+        "source": "diogenes-laertius",
+        "reference": "II.1"
     },
     {
         "type": "quote",
@@ -37,7 +41,8 @@
         "stsl": "Сльньце єсть велико ꙗкоже землѧ и сътворено отъ наичистѣишєго огнѧ ·",
         "el": "τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
         "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1"
+        "source": "diogenes-laertius",
+        "reference": "II.1"
     },
     {
         "type": "anecdote",
@@ -45,16 +50,18 @@
         "stsl": "Пьрвъ обрѣте слъньцѣпоказъ и постави и въ Лакедемонѣ · да знаменаѥтъ слъньчьнѣѧ повороты и равноденьѥ · сътвори же и часомѣры ·",
         "el": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τροπάς τε καὶ ἰσημερίας σημαίνοντα· καὶ ὡροσκόπια κατεσκεύασε.",
         "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.1–II.2",
-        "year": -610
+        "source": "diogenes-laertius",
+        "year": -610,
+        "reference": "II.1"
     },
     {
         "type": "bio",
         "sr": "Prvi je nacrtao kartu kopna i mora i načinio nebeski globus.",
         "stsl": "Пьрвъ начрьта земьлю и море и сътвори небесныи клѫбъ ·",
         "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.2",
-        "year": -578
+        "source": "diogenes-laertius",
+        "year": -578,
+        "reference": "II.2"
     },
     {
         "type": "anecdote",
@@ -62,7 +69,8 @@
         "stsl": "Єгда отроци порѹгаахѫ сѧ єго пѣнію · рече · Подобаєть ми лѹчьше пѣти · да ѹгодѫ отрокомъ ·",
         "el": "τούτου φασὶν ᾄδοντος καταγελάσαι τὰ παιδάρια, τὸν δὲ μαθόντα φάναι, « βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια. »",
         "author": "Anaksimander",
-        "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, II.2",
-        "year": -546
+        "source": "diogenes-laertius",
+        "year": -546,
+        "reference": "II.2"
     }
 ]

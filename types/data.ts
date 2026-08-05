@@ -11,8 +11,10 @@ export interface Quote {
   stsl: string;
   el?: string;
   author: string;
-  // Human-readable citation (author/work/book.section), intended for UI display.
+  // Source key identifier (e.g., "diogenes-laertius")
   source: string;
+  // Reference within the source (e.g., "II.21", "VI.40")
+  reference: string;
   // Machine-readable pointer to exact source line, e.g. data/sources/.../03.txt:67.
   pointer?: string;
 }
