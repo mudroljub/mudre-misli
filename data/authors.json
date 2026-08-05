@@ -104,7 +104,7 @@
     "originalText": "Πλάτων"
   },
   "Bijant": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bias_Pio-Clementino_Inv279.jpg?width=160",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bias_Pio-Clementino_Inv279_%28cropped%29.jpg/500px-Bias_Pio-Clementino_Inv279_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "born": -625,
     "died": -546,
     "sr": "Bijant",
@@ -286,5 +286,13 @@
     "sr": "Timon iz Flija",
     "stsl": "Тімонъ отъ Флїѹнта",
     "originalText": "Τίμων ὁ Φλιάσιος"
+  },
+  "Epikur": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Epicurus_bust2.jpg?width=160",
+    "born": -341,
+    "died": -270,
+    "sr": "Epikur",
+    "stsl": "Епікѹръ",
+    "originalText": "Ἐπίκουρος"
   }
 }

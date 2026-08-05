@@ -119,4 +119,4 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje (10 knjiga).
 
 ### Epikurejci (4.–3. vek p.n.e.) — Knjiga X
 
-80. Epikur (Ἐπίκουρος, 341–270. p.n.e.)
+80. Epikur (Ἐπίκουρος, 341–270. p.n.e.) ✅
