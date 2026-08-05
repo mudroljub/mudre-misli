@@ -58,28 +58,22 @@ const loadSectionLineIndex = async (bookNumber) => {
   return lineBySection
 }
 
-const buildSource = async (source) => {
-  const normalized = String(source || '').trim()
-  const marker = 'Diogen Laertije, Životi i mišljenja znamenitih filozofa, '
+const buildPointer = async (reference) => {
+  const normalized = String(reference || '').trim()
 
   if (!normalized) {
-    throw new Error('Quote is missing source text')
+    return null
   }
 
-  if (!normalized.startsWith(marker)) {
-    return { source: normalized }
+  const refMatch = normalized.match(/\b([IVX]+)\.(\d+)/)
+  if (!refMatch) {
+    return null
   }
 
-  const refsRaw = normalized.slice(marker.length)
-  const firstRef = refsRaw.match(/\b([IVX]+)\.(\d+)/)
-  if (!firstRef) {
-    return { source: normalized }
-  }
-
-  const bookNumber = romanToNumber[firstRef[1]]
-  const sectionNumber = Number(firstRef[2])
+  const bookNumber = romanToNumber[refMatch[1]]
+  const sectionNumber = Number(refMatch[2])
   if (!bookNumber || !Number.isFinite(sectionNumber)) {
-    return { source: normalized }
+    return null
   }
 
   const relFile = getElFileForBook(bookNumber)
@@ -87,14 +81,15 @@ const buildSource = async (source) => {
   const line = sectionIndex.get(sectionNumber)
 
   if (line) {
-    return { source: normalized, pointer: `${relFile}:${line}` }
+    return `${relFile}:${line}`
   }
 
-  return { source: normalized }
+  return null
 }
 
 // First pass: collect all quotes
 const allQuotes = []
+let nextId = 1
 for (const file of files) {
   const filePath = path.join(inputDir, file)
   const content = JSON.parse(await fs.readFile(filePath, 'utf8'))
@@ -103,11 +98,11 @@ for (const file of files) {
     throw new Error(`${file} does not contain an array`)
 
   for (const entry of content) {
-    const mappedSource = await buildSource(entry.source)
+    const pointer = await buildPointer(entry.reference)
     allQuotes.push({
+      _id: nextId++,
       ...entry,
-      source: mappedSource.source,
-      ...(mappedSource.pointer ? { pointer: mappedSource.pointer } : {}),
+      ...(pointer ? { pointer } : {}),
     })
   }
 }

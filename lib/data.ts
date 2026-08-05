@@ -6,7 +6,6 @@ import {
   type Language,
   type EntriesByLanguage,
   type EntryWithId,
-  type Entry,
   SourceData,
 } from '../types/data';
 import sourcesRaw from '../data/sources.json';
@@ -14,11 +13,7 @@ import sourcesRaw from '../data/sources.json';
 const sourcesData: Record<string, SourceData> = sourcesRaw;
 
 const authorsData: AuthorsData = authorsRaw;
-const quoteInputs = quotes as Entry[];
-const quotesData: EntryWithId[] = quoteInputs.map((entry, index) => ({
-  _id: index + 1,
-  ...entry,
-}));
+const quotesData: EntryWithId[] = quotes as EntryWithId[];
 
 const languages = supportedLanguages;
 const authors = Object.keys(authorsData).sort((left, right) => {
