@@ -19,7 +19,7 @@
   column-gap: 3rem;
   column-rule: 1px solid $color-border;
 
-  @media (max-width: $breakpoint-mobile) {
+  @media (max-width: 1000px) {
     column-count: 1;
     column-rule: none;
   }

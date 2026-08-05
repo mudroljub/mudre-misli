@@ -31,3 +31,19 @@
     text-decoration: none;
   }
 }
+
+.card {
+  small {
+    font-size: 0.8rem;
+
+    a {
+      color: $color-text-light;
+      text-decoration: none;
+
+      &:hover {
+        color: $color-text;
+        text-decoration: underline;
+      }
+    }
+  }
+}
