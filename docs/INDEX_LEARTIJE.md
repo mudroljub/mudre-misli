@@ -103,19 +103,19 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje (10 knjiga).
 
 ### Stoici (4.–2. vek p.n.e.) — Knjiga VII
 
-70. Zenon iz Kitija (Ζήνων, oko 334–262. p.n.e.)
-71. Aristo iz Hija (Ἀρίστων, 3. vek p.n.e.)
+70. Zenon iz Kitija (Ζήνων, oko 334–262. p.n.e.) ✅
+71. Aristo iz Hija (Ἀρίστων, 3. vek p.n.e.) ✅
 72. Heril (Ἡρίλλος, 3. vek p.n.e.)
 73. Dionizije iz Herakleje (Διονύσιος, oko 328–248. p.n.e.)
-74. Kleant (Κλεάνθης, oko 330–230. p.n.e.)
-75. Sfer (Σφαῖρος, oko 285–210. p.n.e.)
-76. Hrizip (Χρύσιππος, oko 279–206. p.n.e.)
+74. Kleant (Κλεάνθης, oko 330–230. p.n.e.) ✅
+75. Sfer (Σφαῖρος, oko 285–210. p.n.e.) ✅
+76. Hrizip (Χρύσιππος, oko 279–206. p.n.e.) ✅
 
 ### Skeptici (4.–3. vek p.n.e.) — Knjiga IX
 
-77. Anaksarh (Ἀνάξαρχος, oko 380–320. p.n.e.)
-78. Piron (Πύρρων, oko 360–270. p.n.e.)
-79. Timon iz Flija (Τίμων, oko 320–230. p.n.e.)
+77. Anaksarh (Ἀνάξαρχος, oko 380–320. p.n.e.) ✅
+78. Piron (Πύρρων, oko 360–270. p.n.e.) ✅
+79. Timon iz Flija (Τίμων, oko 320–230. p.n.e.) ✅
 
 ### Epikurejci (4.–3. vek p.n.e.) — Knjiga X
 
