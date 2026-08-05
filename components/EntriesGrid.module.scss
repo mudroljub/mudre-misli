@@ -16,4 +16,28 @@
       grid-template-columns: minmax(0, 1fr);
     }
   }
+
+  &.alternating {
+    display: flex;
+    flex-direction: column;
+    gap: $spacing-xl;
+
+    > *:nth-child(odd) {
+      align-self: flex-start;
+      max-width: 70%;
+    }
+
+    > *:nth-child(even) {
+      align-self: flex-end;
+      max-width: 70%;
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+      > *:nth-child(odd),
+      > *:nth-child(even) {
+        align-self: stretch;
+        max-width: 100%;
+      }
+    }
+  }
 }

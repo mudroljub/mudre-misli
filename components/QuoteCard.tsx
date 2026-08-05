@@ -33,7 +33,7 @@ export default function QuoteCard({
         </p>
       )}
 
-      {showSource && <Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link>}
+      {showSource && <small><Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link></small>}
     </div>
   );
 }

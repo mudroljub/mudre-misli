@@ -63,7 +63,7 @@ export default function AuthorPageClient({
           <section className={styles.authorSection}>
             <h3>{t.sectionQuotes}</h3>
 
-            <div className={`${gridStyles.grid} ${gridStyles.single}`}>
+            <div className={`${gridStyles.grid} ${gridStyles.alternating}`}>
               {quotesSection.map((entry) => (
                 <QuoteCard
                   key={entry._id}

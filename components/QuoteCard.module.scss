@@ -2,10 +2,15 @@
 
 .card {
   border: 1px solid $color-border;
-  padding: $spacing-md;
-  background: $color-white;
+  padding: $spacing-lg;
   margin: 0;
   min-width: 0;
+  border-radius: $border-radius-md;
+  background: $color-white;
+
+  p {
+    margin: 0 0 $spacing-sm 0;
+  }
 
   img {
     max-width: 100px;
