@@ -84,67 +84,23 @@ Ako je samostalna izreka bez konteksta, čuvati je kao `quote`.
 
 # JSON format
 
-Svaki zapis mora imati sledeći format:
+Struktura zapisa je definisana u **`types/data.ts`** interfejsu `Quote`.
 
-```json
-{
-  "type": "quote",
-  "sr": "",
-  "stsl": "",
-  "author": "",
-  "source": ""
-}
-```
-
-Za anegdote:
-
-```json
-{
-  "type": "anecdote",
-  "sr": "",
-  "stsl": "",
-  "author": "",
-  "source": ""
-}
-```
-
-Polja:
-
-* `type` — tip zapisa, može biti:
-  - `quote` — direktan citat filozofa
-  - `reported` — preneto učenje ili mišljenje filozofa koje Diogen navodi
-  - `anecdote` — kratka zgoda sa poentom, često duhovita ili karakteristična
-  - `bio` — običan biografski podatak
-* `sr` — savremeni srpski prevod;
-* `stsl` — staroslovenski prevod;
-* `author` — filozof kome pripada citat ili koga opisuje anegdota;
-* `source` — human-readable izvor (npr. autor + delo + knjiga/odeljak, bez putanje fajla);
-* `pointer` (opciono) — machine-readable pokazivač do tačne linije lokalnog source fajla, format `data/sources/.../NN.txt:linija`.
-
-Dodatna polja (`el`, `en` itd.) dodavati samo ako su izričito zatražena.
+Za detaljna objašnjenja svih polja pogledati JSDoc komentare u `types/data.ts`.
 
 # Podaci o autorima (obavezno)
 
-Pri svakom dodavanju novog autora u `data/quotes.json` ili `data/anecdotes.json` obavezno istovremeno dodati njegovu sliku i vreme rođenja u `data/authors.json`.
+Pri svakom dodavanju novog autora u `data/quotes/[Ime_Filozofa].json` obavezno istovremeno dodati njegove podatke u `data/authors.json`.
+
+Struktura podataka o autoru je definisana u **`types/data.ts`** interfejsu `AuthorMetadata`.
 
 Pravila:
 
-1. ključ u `data/authors.json` mora biti potpuno isti kao vrednost polja `author`;
-2. polje `src` ne sme ostati prazno i autor se ne sme dodati kao prazan objekat (`{}`);
-3. koristiti pouzdan izvor slike sa slobodnom licencom, prvenstveno Wikimedia Commons;
-4. proveriti da slika zaista prikazuje traženog autora, naročito kada postoji više istorijskih ličnosti sa istim imenom;
-5. polje `born` je obavezno i sadrži `number`;
-6. negativna godina označava vreme pre nove ere, nula je dozvoljena kao granična godina, a pozitivna godina označava novu eru;
-7. nakon izmene proveriti da je `data/authors.json` ispravan JSON i da su autori u bočnoj traci hronološki poređani.
-
-Primer:
-
-```json
-"Ksenofan": {
-  "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenophanes%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=160",
-  "born": -570
-}
-```
+1. ključ u `data/authors.json` mora biti potpuno isti kao vrednost polja `author` u JSON fajlovima citata;
+2. koristiti pouzdan izvor slike sa slobodnom licencom, prvenstveno Wikimedia Commons;
+3. proveriti da slika zaista prikazuje traženog autora, naročito kada postoji više istorijskih ličnosti sa istim imenom;
+4. negativan broj za `born`/`died` označava p.n.e., pozitivan n.e.;
+5. nakon izmene proveriti da je `data/authors.json` ispravan JSON i da su autori u bočnoj traci hronološki poređani.
 
 Vrednost polja `author` mora koristiti standardno srpsko ime filozofa koje se koristi u projektu, nezavisno od oblika u grčkom ili engleskom izvoru.
 

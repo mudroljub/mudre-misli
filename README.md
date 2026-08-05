@@ -21,3 +21,4 @@ npm start
 - obraditi podatke iz latinskog teksta
 - srediti jezičke rute
 - promeniti tekst za detalje citata kada je bio
+- razdvojiti uputstva na tehnička i jezička (stilska)
