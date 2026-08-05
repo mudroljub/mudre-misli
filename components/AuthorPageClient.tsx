@@ -58,7 +58,7 @@ export default function AuthorPageClient({
           href={`https://en.wikipedia.org/wiki/${author.replace(/ /g, "_")}`}
           target="_blank"
           rel="noopener noreferrer"
-          className={styles.wikipediaLink}
+          className={styles.subtleLink}
           title="Wikipedia"
         >
           Wikipedia

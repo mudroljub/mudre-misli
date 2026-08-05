@@ -30,3 +30,16 @@ $border-radius-full: 50%;
 
 // Transitions
 $transition-fast: 0.2s ease;
+
+// Mixins
+@mixin subtle-link {
+  font-size: 0.8rem;
+  color: $color-text-light;
+  text-decoration: none;
+  transition: color 0.2s;
+
+  &:hover {
+    color: $color-text;
+    text-decoration: underline;
+  }
+}
