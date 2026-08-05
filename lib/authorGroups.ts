@@ -22,7 +22,6 @@ export const authorGroups: AuthorGroup[] = [
       'Pittacus',
       'Solon',
       'Bias of Priene',
-      'Thales',
       'Chilon of Sparta',
       'Anacharsis',
       'Epimenides'
