@@ -7,12 +7,14 @@ interface QuoteCardProps {
   entry: Entry;
   language: Language;
   showAuthor?: boolean;
+  showSource?: boolean;
 }
 
 export default function QuoteCard({
   entry,
   language,
   showAuthor = false,
+  showSource = true,
 }: QuoteCardProps) {
   const t = getTranslation(language);
   const slug = authorSlugs[entry.author];
@@ -30,7 +32,7 @@ export default function QuoteCard({
         </p>
       )}
 
-      <Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link>
+      {showSource && <Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link>}
     </div>
   );
 }

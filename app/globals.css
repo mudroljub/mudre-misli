@@ -63,11 +63,30 @@ body {
   margin-bottom: 20px;
 }
 
+.author-section {
+  margin-top: 2.5rem;
+}
+
+.entries-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.entries-grid--single {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.entries-grid--double {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+}
+
 .quote-card {
   border: 1px solid #ddd;
   padding: 18px;
-  margin: 14px 0;
   background: #fff;
+  margin: 0;
+  min-width: 0;
 }
 
 .quote-card img {
@@ -124,4 +143,18 @@ body {
 
 .plain-link:hover {
   text-decoration: none;
+}
+
+@media (max-width: 800px) {
+  .page-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .entries-grid--double {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .content {
+    padding: 20px;
+  }
 }

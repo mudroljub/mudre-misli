@@ -47,22 +47,35 @@ export default function AuthorPageClient({
         />
 
         {lifeEventsSection.length > 0 && (
-          <section>
+          <section className="author-section">
             <h3>{t.sectionLife}</h3>
 
-            {lifeEventsSection.map((entry) => (
-              <QuoteCard key={entry._id} entry={entry} language={language} />
-            ))}
+            <div className="entries-grid entries-grid--double">
+              {lifeEventsSection.map((entry) => (
+                <QuoteCard
+                  key={entry._id}
+                  entry={entry}
+                  language={language}
+                  showSource={false}
+                />
+              ))}
+            </div>
           </section>
         )}
 
         {quotesSection.length > 0 && (
-          <section>
+          <section className="author-section">
             <h3>{t.sectionQuotes}</h3>
 
-            {quotesSection.map((entry) => (
-              <QuoteCard key={entry._id} entry={entry} language={language} />
-            ))}
+            <div className="entries-grid entries-grid--single">
+              {quotesSection.map((entry) => (
+                <QuoteCard
+                  key={entry._id}
+                  entry={entry}
+                  language={language}
+                />
+              ))}
+            </div>
           </section>
         )}
       </section>
