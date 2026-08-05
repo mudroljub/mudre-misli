@@ -20,6 +20,7 @@ npm start
 
 ## TODO
 
+- proveriti jesu li svi autori u sidebaru
 - prekopirati slike lokalno
 - dodati grad rođenja u author data i prikazivati ga na njegovoj stranici
 - dodati preslovljavanje (vidi svete misli)

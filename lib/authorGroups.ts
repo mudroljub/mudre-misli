@@ -56,7 +56,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'others',
         title: 'Others',
-        authors: ['Heraclitus', 'Empedocles', 'Anaxagoras', 'Protagoras', 'Xenophanes']
+        authors: ['Heraclitus', 'Empedocles', 'Anaxagoras', 'Xenophanes']
       }
     ]
   },
@@ -65,6 +65,11 @@ export const authorGroups: AuthorGroup[] = [
     title: 'Athenian Philosophy',
     period: '5-3. vek p.n.e.',
     subgroups: [
+      {
+        titleKey: 'sophists',
+        title: 'Sophists',
+        authors: ['Protagoras']
+      },
       {
         titleKey: 'socratics',
         title: 'Socratics',

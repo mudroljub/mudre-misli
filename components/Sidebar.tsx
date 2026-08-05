@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 import { authorsData, authorSlugs } from '../lib/data';
 import { authorGroups } from '../lib/authorGroups';
@@ -13,6 +14,7 @@ interface SidebarProps {
 }
 
 export default function Sidebar({ language }: SidebarProps) {
+  const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(true);
   const [expandedGroups, setExpandedGroups] = useState<Set<string>>(
     new Set(['presocratics-6-5. vek p.n.e.'])
@@ -35,9 +37,14 @@ export default function Sidebar({ language }: SidebarProps) {
 
     const slug = authorSlugs[authorKey];
     const displayName = metadata[language] || authorKey;
+    const isActive = pathname === `/authors/${slug}`;
 
     return (
-      <Link key={authorKey} href={`/authors/${slug}`} className={styles.author}>
+      <Link
+        key={authorKey}
+        href={`/authors/${slug}`}
+        className={`${styles.author} ${isActive ? styles.active : ''}`}
+      >
         <span>{displayName}</span>
       </Link>
     );

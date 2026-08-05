@@ -25,6 +25,7 @@ export interface Translations {
     eleatics: string;
     atomists: string;
     others: string;
+    sophists: string;
     socratics: string;
     platonicAcademy: string;
     aristotelianSchool: string;
@@ -61,6 +62,7 @@ export const translations: Record<Language, Translations> = {
       eleatics: 'Єлєатици',
       atomists: 'Атомісти',
       others: 'Іньни',
+      sophists: 'Софісти',
       socratics: 'Сократъ і сократовци',
       platonicAcademy: 'Платонова акадємїꙗ',
       aristotelianSchool: 'Арістотєлова школа',
@@ -95,6 +97,7 @@ export const translations: Record<Language, Translations> = {
       eleatics: 'Elejci',
       atomists: 'Atomisti',
       others: 'Ostali',
+      sophists: 'Sofisti',
       socratics: 'Sokrat i sokratovci',
       platonicAcademy: 'Platonova akademija',
       aristotelianSchool: 'Aristotelova škola',
