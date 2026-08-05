@@ -403,6 +403,7 @@
         "type": "anecdote",
         "sr": "Aristip je iz Kirene došao u Atinu privučen Sokratovom slavom. Prvi je među Sokratovcima naplaćivao poučavanje i slao novac učitelju. Kada je Sokratu poslao dvadeset mina, ovaj ih je vratio, rekavši da mu božanski znak ne dopušta da ih primi.",
         "stsl": "Аристипъ отъ Кирены въ Атины приде · Сократовою славою привлѣченъ · Пьрвыи междѹ Сократовьци за поѹченіє мъздꙫ приємлѧаше и сребро ѹчителю посылааше · Єгда Сократѹ двадесѧть минъ посла · онъ ѩ възврати · рекъ · ꙗко божьє знаменіє не попѹштаєть ємѹ приѧти ѩ ·",
+        "el": "Ἀρίστιππος τὸ μὲν γένος ἦν Κυρηναῖος, ἀφιγμένος δ' Ἀθήναζε κατὰ κλέος Σωκράτους. Οὗτος σοφιστεύσας πρῶτος τῶν Σωκρατικῶν μισθοὺς εἰσεπράξατο καὶ ἀπέστειλε χρήματα τῷ διδασκάλῳ. Καί ποτε πέμψας αὐτῷ μνᾶς εἴκοσι παλινδρόμους ἔλαβεν, εἰπόντος Σωκράτους τὸ δαιμόνιον αὐτῷ μὴ ἐπιτρέπειν.",
         "author": "Aristip",
         "source": "diogenes-laertius",
         "year": -416,
@@ -592,54 +593,60 @@
         "type": "anecdote",
         "sr": "Aristip je umeo da se prilagodi mestu, vremenu i čoveku i da u svakoj prilici odigra odgovarajuću ulogu. Zato je kod Dionisija bio omiljeniji od drugih: svaku okolnost umeo je da okrene u svoju korist.",
         "stsl": "Аристипъ ѹмѣаше къ мѣстѹ · врѣмени и чловѣкѹ приложити сѧ и въ вьсѧкои пригодѣ подобьнꙫ роль сътворити · Сего ради Дионисии єго паче прочиихъ люблѧаше · вьсѧкѹю пригодꙫ въ свою пользꙫ обратити ѹмѣаше ·",
+        "el": "Ἦν δὲ ἱκανὸς ἁρμόσασθαι καὶ τόπῳ καὶ χρόνῳ καὶ προσώπῳ, καὶ πᾶσαν περίστασιν ἁρμοδίως ὑποκρίνασθαι· διὸ καὶ παρὰ Διονυσίῳ τῶν ἄλλων εὐδοκίμει μᾶλλον, ἀεὶ τὸ προσπεσὸν εὖ διατιθέμενος.",
         "author": "Aristip",
         "source": "diogenes-laertius",
-        "year": -405,
+        "year": -390,
         "reference": "II.66"
     },
     {
         "type": "anecdote",
         "sr": "Aristip je sumnjao da su Eshinovi dijalozi izvorni. Kada je Eshin jedan od njih čitao u Megari, Aristip ga je zadirkivao pitanjem odakle mu taj tekst, nazivajući ga lopovom. Ipak, kada je siromašni Eshin stigao na Dionisijev dvor, Aristip ga je podržao i predstavio vladaru.",
         "stsl": "Аристипъ съмнѣвааше сѧ · истиньни ли сѫть Есхиновы бесѣды · Єгда Есхинъ єдинꙫ отъ нихъ въ Мегарѣ чтааше · Аристипъ єго посмѣваше · вопрошѧ отъкѫдѹ ємѹ тъ списъ и разбоиникомъ єго нарицаѧ · Обаче · єгда ништии Есхинъ на Дионисиєвъ дворъ приде · Аристипъ єго подьржа и властителю прѣдъстави ·",
+        "el": "Αἰσχίνου τινὸς τῶν διαλόγων ἀναγινώσκοντος ἐν Μεγάροις καὶ γνωρίσας ὡς Σωκράτους ὄντα τὸν διάλογον, ὃν παρὰ Ξανθίππης Σωκράτους γυναικὸς εἶχεν, ἤρετο πόθεν λῃστὰ σοὶ ταῦτα;",
         "author": "Aristip",
         "source": "diogenes-laertius",
-        "year": -400,
-        "reference": "II.61–62"
+        "year": -395,
+        "reference": "II.60–62"
     },
     {
         "type": "anecdote",
         "sr": "Ksenofont nije bio naklonjen Aristipu, pa je u svojim spisima Sokratu pripisao besedu protiv njega i uživanja. Aristipa su napadali i Teodor u spisu O školama i Platon u dijalogu O duši.",
         "stsl": "Ксенофонтъ къ Аристипѹ благоволениꙗ не имѣаше · тѣмь въ своихъ писаниихъ Сократѹ бесѣдꙫ противѹ єго и сласти приписа · Аристипа и Теодоръ въ писании О ѹчилиштихъ и Платонъ въ бесѣдѣ О дѹши нападоста ·",
+        "el": "Ξενοφῶν τ' εἶχε πρὸς αὐτὸν δυσμενῶς· διὸ καὶ τὸν κατὰ τῆς ἡδονῆς λόγον Σωκράτει κατ' Ἀριστίππου περιτέθεικεν. Οὐ μὴν ἀλλὰ καὶ Θεόδωρος ἐν τῷ Περὶ αἱρέσεων ἐκάκισεν αὐτὸν καὶ Πλάτων ἐν τῷ Περὶ ψυχῆς.",
         "author": "Aristip",
         "source": "diogenes-laertius",
-        "year": -395,
+        "year": -390,
         "reference": "II.65"
     },
     {
         "type": "anecdote",
         "sr": "Kada mu je Dionisije ponudio da izabere jednu od tri bludnice, Aristip je poveo sve tri, podsetivši da Paris nije dobro prošao kada je izabrao jednu. Ipak ih je otpustio čim je stigao do predvorja, pokazujući da ume i da izabere i da prezre.",
         "stsl": "Єгда Дионисии ємѹ єдинꙫ отъ трии блѹдьницъ избрати повелѣ · Аристипъ вьсѧ три поведе · помѧнѹвъ · ꙗко Парисъ не добро обрѣте · єгда єдинꙫ избра · Обаче ѩ при прѣдъдверии отъпѹсти · показавъ · ꙗко ѹмѣєть и избрати и прѣзрѣти ·",
+        "el": "Διονυσίου δέ ποτε τριῶν ἑταιρῶν οὐσῶν μίαν ἐκλέξασθαι κελεύσαντος, τὰς τρεῖς ἀπήγαγεν εἰπών, « Οὐδὲ τῷ Πάριδι συνήνεγκε μίαν προκρῖναι· » ἀπαγαγὼν μέντοι, φασίν, αὐτὰς ἄχρι τοῦ θυρῶνος ἀπέλυσεν. Οὕτως ἦν καὶ ἑλέσθαι καὶ καταφρονῆσαι πολύς.",
         "author": "Aristip",
         "source": "diogenes-laertius",
-        "year": -390,
+        "year": -388,
         "reference": "II.67"
     },
     {
         "type": "anecdote",
         "sr": "Aristip je svojoj kćeri Areti davao najbolje savete i vežbao je da prezire suvišak. Ona je postala njegova učenica i kasnije podučavala svoga sina, Aristipa Mlađeg.",
         "stsl": "Аристипъ дъштери своєи Аретѣ наилѹчьши съвѣты давааше и ѭ ѹпражнѧаше · да излишекъ прѣзираєть · Она ѹченица єго бысть и потомь сына своєго · Аристипа Младшаго · поѹчааше ·",
+        "el": "Τὰ ἄριστα ὑπετίθετο τῇ θυγατρὶ Ἀρήτῃ, συνασκῶν αὐτὴν ὑπεροπτικὴν τοῦ πλείονος εἶναι.",
         "author": "Aristip",
         "source": "diogenes-laertius",
-        "year": -385,
+        "year": -380,
         "reference": "II.72"
     },
     {
         "type": "anecdote",
         "sr": "Aristip je živeo sa bludnicom Laidom. Kada su ga zbog toga korili, odgovarao je da on ima nju, a ne ona njega, i da je najbolje vladati uživanjima bez robovanja njima.",
         "stsl": "Аристипъ съ блѹдьницею Лаидою живѣаше · Єгда сего ради єго ѹкарѧахѫ · отвѣштааше · ꙗко онъ ѭ имать · не она єго · и ꙗко наилѹчьше єсть сластьми владѣти · не работати имъ ·",
+        "el": "Ἐχρῆτο καὶ Λαΐδι τῇ ἑταίρᾳ. Πρὸς οὖν τοὺς μεμφομένους αὐτῷ ἔφη, « Ἔχω [Λαΐδα], ἀλλ' οὐκ ἔχομαι· ἐπεὶ τὸ κρατεῖν καὶ μὴ ἡττᾶσθαι ἡδονῶν ἄριστον, οὐ τὸ μὴ χρῆσθαι. »",
         "author": "Aristip",
         "source": "diogenes-laertius",
-        "year": -380,
+        "year": -375,
         "reference": "II.74–75"
     },
     {

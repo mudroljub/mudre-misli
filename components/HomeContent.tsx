@@ -7,6 +7,7 @@ import LanguageSwitcher from './LanguageSwitcher';
 import { getTextForLanguage, getAuthorName } from '../lib/data';
 import { getTranslation } from '../lib/translations';
 import type { Language, Entry } from '../types/data';
+import QuoteCard from './QuoteCard';
 
 interface HomeContentProps {
   featured: Entry;
@@ -22,11 +23,7 @@ export default function HomeContent({ featured }: HomeContentProps) {
       <section className="content">
         <LanguageSwitcher currentLang={language} onChange={setLanguage} />
         <h2>{t.randomQuote}</h2>
-        <div className="quote-card">
-          <p>{getTextForLanguage(featured, language)}</p>
-          <p className="author-line">— {getAuthorName(featured.author, language)}</p>
-          <Link href={`/quotes/${featured._id}`}>{t.viewSource}</Link>
-        </div>
+        <QuoteCard entry={featured} language={language} showAuthor />
       </section>
     </main>
   );
