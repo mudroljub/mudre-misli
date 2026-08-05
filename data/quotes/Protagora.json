@@ -10,6 +10,56 @@
     "reference": "IX.50"
   },
   {
+    "type": "bio",
+    "year": -480,
+    "sr": "Otkrio ga Demokrit kako nosi drva; postao njegov učenik.",
+    "stsl": "Открыи єго Демокритъ · ꙗко дрова носить · ѹченикъ єго быстъ.",
+    "el": "Τοῦτον Δημόκριτος ἰδὼν ξυλοφοροῦντα προσηγάγετο· καὶ μαθητὴς αὐτοῦ γέγονεν.",
+    "author": "Protagora",
+    "source": "diogenes-laertius",
+    "reference": "IX.53"
+  },
+  {
+    "type": "bio",
+    "year": -460,
+    "sr": "Prvi nazvao se sofistom i uzimao platu za nastavu; prvi poučavao veštu upotrebu govora.",
+    "stsl": "Пьрвыи софистомъ нарече сѧ и платꙋ за наставꙋ приѩтъ · пьрвыи искꙋснѹ ѹпотребꙋ слова поѹчааше.",
+    "el": "Πρῶτος ἑαυτὸν σοφιστὴν προσηγόρευσε καὶ μισθὸν ἀπῄτει ἐπὶ λόγοις· πρῶτός τε περὶ τῆς χρήσεως τῶν λόγων ἐπεξῆλθεν.",
+    "author": "Protagora",
+    "source": "diogenes-laertius",
+    "reference": "IX.52"
+  },
+  {
+    "type": "bio",
+    "year": -450,
+    "sr": "Bio savremenik Sokratov; po nekim izvorima prepisivač Demokrita.",
+    "stsl": "Съвременникъ Сократовъ бѣ · по нѣкїимъ источникомъ преписьникъ Демокритовъ.",
+    "el": "Ἦν δὲ κατὰ Σωκράτη· Εὔπολις δέ φησι Δημοκρίτου γράφειν τὰ συγγράμματα.",
+    "author": "Protagora",
+    "source": "diogenes-laertius",
+    "reference": "IX.50"
+  },
+  {
+    "type": "bio",
+    "year": -440,
+    "sr": "Atinjani progonili ga zbog bezbožnosti zbog knjige O bogovima; knjige spaljene na agori.",
+    "stsl": "Атинꙗне ради безбожиꙗ изгнаша єго ради книги О бозѣхъ · книги на тръжишти съжжены.",
+    "el": "Ἀθηναῖοι δ' αὐτὸν ἐξέβαλον ἀσεβείας ἐγκαλέσαντες διὰ τὸ περὶ θεῶν βιβλίον· ἃ καὶ κατέκαυσαν ἐν τῇ ἀγορᾷ.",
+    "author": "Protagora",
+    "source": "diogenes-laertius",
+    "reference": "IX.52"
+  },
+  {
+    "type": "bio",
+    "year": -411,
+    "sr": "Umro od brodoloma bežeći iz Atine; živeo sedamdeset godina po Hermnipu; devedeset po Apolodoru.",
+    "stsl": "Въ корабленомъ крꙋшении бѣжѧ отъ Атинъ ѹмрѣ · жити седмьдесѧтъ лѣтъ по Херминѹ · девѧносто по Аполлодорѹ.",
+    "el": "Ἀπέθανε δὲ πλέων ἐκ τῆς Ἀττικῆς, περὶ ἔτη γεγονὼς ἑβδομήκοντα· ὡς δέ τινες, ἐνενήκοντα.",
+    "author": "Protagora",
+    "source": "diogenes-laertius",
+    "reference": "IX.56"
+  },
+  {
     "type": "quote",
     "sr": "O svakoj stvari postoje dva govora, suprotstavljena jedan drugome.",
     "stsl": "О всѧкои вешти два слова сѫть · єдино дрѹгомѹ противьна ·",

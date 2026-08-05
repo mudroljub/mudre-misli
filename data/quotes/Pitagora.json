@@ -10,6 +10,76 @@
     "reference": "VIII.1"
   },
   {
+    "type": "bio",
+    "year": -560,
+    "sr": "Slušao Ferekida Sirskog, Anaksimandra i Talesa; po nekim izvorima i egipatske sveštenike.",
+    "stsl": "Ферекида Сѵрскаго · Анаксимандра и Фалеса слꙑшааше · по нѣкїимъ источникомъ и єгѵпетскиѩ жерцы.",
+    "el": "Ἤκουσε δὲ Φερεκύδου τοῦ Συρίου· μετὰ δὲ τὴν τελευτὴν ἐκείνου ἦλθεν εἰς Σάμον· εἶτα ἐπὶ μαθήσει γενόμενος εἰς Αἴγυπτον παρεγένετο. Καὶ γὰρ Θαλοῦ καὶ Ἀναξιμάνδρου ἤκουσεν.",
+    "author": "Pitagora",
+    "source": "diogenes-laertius",
+    "reference": "VIII.2"
+  },
+  {
+    "type": "bio",
+    "year": -540,
+    "sr": "Pobegao od tiranije Polikrata; došao u Italiju i ustanovio zakone za Tarentince.",
+    "stsl": "Отъ тїранїи Поликрата бѣжа · въ Италїю прїиде и законꙑ Тарентїномъ ѹстанови.",
+    "el": "Φυγὼν δὲ τὴν Πολυκράτους τυραννίδα εἰς τὴν Ἰταλίαν ἀπῆρε· καὶ τοῖς Ταραντίνοις νόμους ἔγραψε.",
+    "author": "Pitagora",
+    "source": "diogenes-laertius",
+    "reference": "VIII.3"
+  },
+  {
+    "type": "bio",
+    "year": -530,
+    "sr": "U Krotonu osnova školu; imao više od šest stotina slušalaca.",
+    "stsl": "Въ Кротонѣ ѹчилиште основа · паче шести сотъ слꙑшателевъ имѣаше.",
+    "el": "Διέτριψε δὲ ἐν Κρότωνι τῆς Ἰταλίας· ἔνθα πλεῖστοι ἐγένοντο ἀκροαταί, ὑπὲρ τοὺς ἑξακοσίους.",
+    "author": "Pitagora",
+    "source": "diogenes-laertius",
+    "reference": "VIII.15"
+  },
+  {
+    "type": "bio",
+    "year": -520,
+    "sr": "Prvi upotrebio reč filozofija i nazvao sebe filozofom; pravio razliku između esoteričnih i egzoteričnih učenja.",
+    "stsl": "Пьрвыи слово философїа ѹпотреби и себе философомъ нарече · разлїꙋ междѹ тайнымъ и гласнымъ ѹченїемъ творѧаше.",
+    "el": "Πρῶτος ὠνόμασε φιλοσοφίαν καὶ ἑαυτὸν φιλόσοφον· τὰ δὲ συγγράμματα αὐτοῦ τριττά, ἠθικά, φυσικά, μαθηματικά.",
+    "author": "Pitagora",
+    "source": "diogenes-laertius",
+    "reference": "VIII.8"
+  },
+  {
+    "type": "bio",
+    "year": -510,
+    "sr": "Po Heraklidu iz Ponta učio selidbu duše i pamćenje prošlih života.",
+    "stsl": "По Хераклидѹ отъ Понта селидбꙋ дꙋши и памѧть прошьлыхъ животовъ ѹчааше.",
+    "el": "Ἡρακλείδης δ' ὁ Ποντικὸς ἱστορεῖ περὶ αὐτοῦ ὅτι ἔλεγε περὶ ἑαυτοῦ τοιάδε· εἶναί ποτε Αἰθαλίδην καὶ νομίζεσθαι Ἑρμοῦ.",
+    "author": "Pitagora",
+    "source": "diogenes-laertius",
+    "reference": "VIII.4"
+  },
+  {
+    "type": "bio",
+    "year": -500,
+    "sr": "Napisao tri knjige: o etici, fizici i matematici.",
+    "stsl": "Три книги написа · о нравоѹченїи · єстествословїи и математикѣ.",
+    "el": "Τὰ δὲ συγγράμματα αὐτοῦ τριττά, ἠθικά, φυσικά, μαθηματικά.",
+    "author": "Pitagora",
+    "source": "diogenes-laertius",
+    "reference": "VIII.6"
+  },
+  {
+    "type": "bio",
+    "year": -490,
+    "sr": "Umro u osamdesetoj godini po Hermnipu; devedeset nove godine po Aristoksenu.",
+    "stsl": "Въ осмѣдесѧтѣмь лѣтѣ по Херминѹ ѹмрѣ · девѧносто и девѧти лѣтъ по Аристоксенѹ.",
+    "el": "Καὶ ἀπέθανεν, ὡς μὲν Ἕρμιππος, βιοὺς ἔτη ὀγδοήκοντα· ὡς δὲ Ἀριστόξενος, ἐνενήκοντα.",
+    "author": "Pitagora",
+    "source": "diogenes-laertius",
+    "reference": "VIII.44"
+  },
+  {
     "type": "quote",
     "sr": "Ja nisam mudar, nego ljubitelj mudrosti.",
     "stsl": "Азъ нѣсмь мѫдръ · но любомѫдрьць ·",

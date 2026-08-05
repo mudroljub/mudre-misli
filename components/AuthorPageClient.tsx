@@ -48,7 +48,7 @@ export default function AuthorPageClient({
 
         {lifeEventsSection.length > 0 && (
           <section>
-            <h3>{t.sectionAnecdotes}</h3>
+            <h3>{t.sectionLife}</h3>
 
             {lifeEventsSection.map((entry) => (
               <div key={entry._id} className="quote-card">

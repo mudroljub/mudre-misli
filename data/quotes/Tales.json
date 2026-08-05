@@ -10,6 +10,66 @@
     "reference": "I.22"
   },
   {
+    "type": "bio",
+    "year": -624,
+    "sr": "Sin Eksamija i Kleobuline; po nekim izvorima feničkog porekla od Kadma i Agenora.",
+    "stsl": "Сынъ Ексамїа и Клеобѹлины · по нѣкїимъ источникомъ финичьскаго рода отъ Кадма и Агенора.",
+    "el": "Θαλῆς Ἐξαμύου, μητρὸς δὲ Κλεοβουλίνης, ἐκ τῶν Θηλιδῶν, οἵ εἰσι Φοίνικες, εὐγενέστατοι τῶν ἀπὸ Κάδμου καὶ Ἀγήνορος.",
+    "author": "Tales",
+    "source": "diogenes-laertius",
+    "reference": "I.22"
+  },
+  {
+    "type": "bio",
+    "year": -610,
+    "sr": "Nije imao učitelja; putovao u Egipat gde je boravio sa sveštenicima.",
+    "stsl": "Оучителꙗ не имѣаше · въ Єгѵпетъ пѫтова · идѣже съ жерцы прѣбы.",
+    "el": "Οὐδεὶς δὲ αὐτοῦ καθηγήσατο, πλὴν ὅτι εἰς Αἴγυπτον ἐλθὼν τοῖς ἱερεῦσι συνδιέτριψεν.",
+    "author": "Tales",
+    "source": "diogenes-laertius",
+    "reference": "I.27"
+  },
+  {
+    "type": "bio",
+    "year": -600,
+    "sr": "Po nekima ne ostavio napisana dela; po drugima napisao samo dva spisa: O solsticiju i ravnodnevici.",
+    "stsl": "По нѣкїимъ не остави списаныихъ дѣлъ · по инѣмъ написа два списа · О слънчьнѣмь поворотѣ и равноденьѥ.",
+    "el": "Σύγγραμμα κατέλιπεν οὐδέν· μόνα δύο συνέγραψε, Περὶ τροπῆς καὶ ἰσημερίας.",
+    "author": "Tales",
+    "source": "diogenes-laertius",
+    "reference": "I.23"
+  },
+  {
+    "type": "bio",
+    "year": -590,
+    "sr": "Prvi predvideo pomračenje Sunca i odredio solsticije; otkrio godišnja doba i podelio godinu na 365 dana.",
+    "stsl": "Пьрвыи помрачениє слънца прорече и слънчьнꙑѩ повороты определи · годишнꙗ времена откры и годинꙋ на триста шестьдесѧтъ пѧть дьнии раздѣли.",
+    "el": "Πρῶτος ἡλιακὰς ἐκλείψεις καὶ τροπὰς προειπεῖν· τὴν ἀπὸ τροπῆς ἐπὶ τροπὴν πάροδον εὗρε· τὰς τε ὥρας τοῦ ἐνιαυτοῦ εὑρεῖν καὶ εἰς τριακοσίας ἑξήκοντα πέντε ἡμέρας διελεῖν.",
+    "author": "Tales",
+    "source": "diogenes-laertius",
+    "reference": "I.23-27"
+  },
+  {
+    "type": "bio",
+    "year": -585,
+    "sr": "Prvi upisao pravougli trougao u krug; prvi izmerio piramide pomoću senke.",
+    "stsl": "Пьрвыи правоѹгльныи троѹгольникъ въ крѹгъ вписа · пьрвыи пирамидꙑ помоштию сѣнки измѣри.",
+    "el": "Πρῶτον καταγράψαι κύκλου τὸ τρίγωνον ὀρθογώνιον· τὰς πυραμίδας ἐκμετρῆσαι ἐκ τῆς σκιᾶς.",
+    "author": "Tales",
+    "source": "diogenes-laertius",
+    "reference": "I.24-27"
+  },
+  {
+    "type": "bio",
+    "year": -546,
+    "sr": "Umro u osamdeset osmoj godini gledajući atletske igre; po nekima živeo devedeset godina.",
+    "stsl": "Въ осмѣдесѧтѣи и осмѣи годинѣ ѹмрѣ · атлетьскꙑѩ игры зрѧ · по нѣкїимъ живѧаше девѧносто лѣтъ.",
+    "el": "Ἐτελεύτησε γὰρ ἐτῶν ὢν ἑβδομήκοντα ὀκτώ, ἢ κατὰ Σωσικράτη ἐνενήκοντα· ἀγῶνα θεώμενος γυμνικόν.",
+    "author": "Tales",
+    "source": "diogenes-laertius",
+    "reference": "I.38-39"
+  },
+  {
     "type": "anecdote",
     "sr": "Na pitanje zašto nema dece, odgovarao je da je to iz ljubavi prema deci; kada su ga nagovarali na ženidbu, najpre je rekao 'prerano je', a kasnije 'prekasno je'.",
     "stsl": "На въпросъ почто чѧдъ не имать · отвѣщааше ꙗко отъ любъве къ дѣтемъ · єгда же понѹждаахѫ и къ бракѹ · пьрвоє рече · прѣжде єсть · послѣди же · поздѣ єсть ·",

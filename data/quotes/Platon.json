@@ -1,5 +1,85 @@
 [
     {
+        "type": "bio",
+        "year": -428,
+        "sr": "Rođen u Atini; otac Ariston, majka Periktiona poreklom od Solona; prvobitno ime Aristokle, prozvan Platon zbog širine.",
+        "stsl": "Роди сѧ въ Атинахъ · отьць Аристонъ · мати Периктїона отъ рода Солонова · пьрвоє имѧ Аристоклъ · Платономъ прозванъ ради широты.",
+        "el": "Πλάτων Ἀρίστωνος καὶ Περικτιόνης, ἀπὸ Σόλωνος καταγούσης· Ἀριστοκλῆς μὲν ἐκαλεῖτο, Πλάτων δὲ διὰ τὴν εὐρυθμίαν.",
+        "author": "Platon",
+        "source": "diogenes-laertius",
+        "reference": "III.3-4"
+    },
+    {
+        "type": "bio",
+        "year": -408,
+        "sr": "Dvadeset godina slušao Sokrata, od dvadeset godina.",
+        "stsl": "Двадесѧть лѣтъ Сократꙋ послꙋшааше · отъ двадесѧти лѣтъ.",
+        "el": "Σωκράτους ἤκουσεν ἔτη εἴκοσιν, ἀπὸ εἰκοσαέτους.",
+        "author": "Platon",
+        "source": "diogenes-laertius",
+        "reference": "III.6"
+    },
+    {
+        "type": "bio",
+        "year": -399,
+        "sr": "Po Sokratovoj smrti pošao u Megaru kod Eukleida, zatim u Kirenu, Italiju kod pitagorejaca i Egipat.",
+        "stsl": "По смрьти Сократовѣи иде въ Мегарꙋ къ Еѵклидꙋ · таже въ Кирїнеѭ · Италїѭ къ питагорѣемъ и Єгѵптъ.",
+        "el": "Ἀποθανόντος Σωκράτους παρὰ Εὐκλείδην εἰς Μέγαρα ἀπῆρε σὺν τοῖς ἄλλοις Σωκρατικοῖς. Εἶτα εἰς Κυρήνην παρὰ Θεόδωρον τὸν μαθηματικόν· κἀκεῖθεν εἰς Ἰταλίαν παρὰ Φιλόλαον καὶ Εὔρυτον τοὺς Πυθαγορικούς· κἀκεῖθεν εἰς Αἴγυπτον παρὰ τοὺς προφήτας.",
+        "author": "Platon",
+        "source": "diogenes-laertius",
+        "reference": "III.6"
+    },
+    {
+        "type": "bio",
+        "year": -388,
+        "sr": "Prvi put otišao na Siciliju radi razgledanja ostrva; Dionisije ga prodao u ropstvo na Egini, iskupio ga Anikeris za 20 mina.",
+        "stsl": "Пьрвыи разъ на Сицилїѭ иде ради разглеꙁаниꙗ острова · Дионисїи его въ рабство на Егинѣ продадѣ · искꙋпи єго Аникерисъ за двадесѧтъ минъ.",
+        "el": "Ἦλθεν εἰς Σικελίαν θεωρίας ἕνεκα τῆς νήσου καὶ τῶν κρατήρων· Διονυσίῳ τῷ Ἑρμοκράτους τυράννῳ συνεγένετο· ἀπέδοτο εἰς Αἴγιναν· ἐλυτρώσατο Ἀννίκερις μνῶν εἴκοσι.",
+        "author": "Platon",
+        "source": "diogenes-laertius",
+        "reference": "III.19-20"
+    },
+    {
+        "type": "bio",
+        "year": -387,
+        "sr": "Osnovao Akademiju u šumi gimnasijuma nazvanog po heroju Hekademu.",
+        "stsl": "Академїѭ въ дѹбравѣ гимнасїѭма · по ирою Хекадемꙋ нареченомꙋ · оснꙋ́ва.",
+        "el": "Διέτριβεν ἐν Ἀκαδημίᾳ· ἔστι δὲ γυμνάσιον προάστειον ἀλσῶδες, ὠνομασμένον ἀπό τινος ἥρωος Ἑκαδήμου.",
+        "author": "Platon",
+        "source": "diogenes-laertius",
+        "reference": "III.7"
+    },
+    {
+        "type": "bio",
+        "year": -367,
+        "sr": "Drugi put otišao na Siciliju mlađem Dionisiju; spasao ga Arhita pitagorejac pismom Dionisiju.",
+        "stsl": "Вторꙑи разъ на Сицилїѭ къ младшемꙋ Дионисїю иде · спасе єго Архитъ питагорѣецъ посланїемь къ Дионисїю.",
+        "el": "Δεύτερον εἰς Σικελίαν πρὸς Διονύσιον τὸν νεώτερον· ἐσώθη διὰ Ἀρχύτου τοῦ Πυθαγορικοῦ γράμματι πέμψαντος πρὸς Διονύσιον.",
+        "author": "Platon",
+        "source": "diogenes-laertius",
+        "reference": "III.22"
+    },
+    {
+        "type": "bio",
+        "year": -361,
+        "sr": "Treći put otišao na Siciliju da pomiri Diona i Dionisija; neuspešno se vratio u Atinu.",
+        "stsl": "Третїи разъ на Сицилїѭ иде да примирить Діона и Дионисїа · неѹспѣшно въ Атины възвратитъ сѧ.",
+        "el": "Τρίτον πρὸς Διονύσιον Δίωνα καταλλάξων· μὴ κατορθώσας ἐπανῆλθεν εἰς τὴν πατρίδα.",
+        "author": "Platon",
+        "source": "diogenes-laertius",
+        "reference": "III.23"
+    },
+    {
+        "type": "bio",
+        "year": -347,
+        "sr": "Umro u 81. godini; sahranjen u Akademiji.",
+        "stsl": "Въ осмьдесѧтомъ и пьрвомъ лѣтѣ ѹмрѣ · погребенъ въ Академїи.",
+        "el": "Ἐτελεύτησεν ἐτῶν ὀγδοήκοντα καὶ ἑνός· ἐτάφη ἐν Ἀκαδημίᾳ.",
+        "author": "Platon",
+        "source": "diogenes-laertius",
+        "reference": "III.2"
+    },
+    {
         "type": "quote",
         "sr": "Priđi, bože ognja: Platon te sada treba.",
         "stsl": "Пристѫпи · боже огнꙗ · Платонъ нынѣ тебѣ трѣбѹєть ·",

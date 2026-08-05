@@ -1,5 +1,75 @@
 [
     {
+        "type": "bio",
+        "year": -469,
+        "sr": "Rođen u Atini, iz dema Alopeke; otac Sofronisko kamenorezac, majka Fenareta babica.",
+        "stsl": "Роди сѧ въ Атинахъ · изъ дема Алопекѣ · отьць Софронискъ камьнодѣлатель · мати Фенарета бабица.",
+        "el": "Σωκράτης Σωφρονίσκου μὲν ἦν υἱὸς λιθουργοῦ καὶ Φαιναρέτης μαίας, Ἀθηναῖος, τῶν δήμων Ἀλωπεκῆθεν.",
+        "author": "Sokrat",
+        "source": "diogenes-laertius",
+        "reference": "II.18"
+    },
+    {
+        "type": "bio",
+        "year": -450,
+        "sr": "Učenik Arhelaја prirodnjaka, koji ga je uveo u etičku filozofiju.",
+        "stsl": "Ѹченикъ Архелаꙗ єстьствословца · иже єго въ нравьствьнꙋю философїю введе.",
+        "el": "Ἀρχελάου μαθητής· παρ' οὗ λαβὼν Σωκράτης τὴν ἠθικὴν φιλοσοφίαν.",
+        "author": "Sokrat",
+        "source": "diogenes-laertius",
+        "reference": "II.16"
+    },
+    {
+        "type": "bio",
+        "year": -432,
+        "sr": "Služio u vojsci kod Potideje morem; stajao noć i dan u istoj pozi; odlikovan ali prepustio nagradu Alkibijadu.",
+        "stsl": "Въиньствова при Потидеи морємь · стоꙗаше нощь и дьнь на єдиномь мѣстѣ · ѹвѣнчанъ бысть · нъ наградѹ Алкивїадѹ прѣпѹсти.",
+        "el": "Ἐστράτευσεν εἰς Ποτίδαιαν ναυσί· καὶ ἐπὶ μιᾶς προθέσεως νύκτα καὶ ἡμέραν ἔστη· καὶ τὸ ἀριστεῖον ἀφεῖλεν, ἀλλὰ παρεχώρησεν Ἀλκιβιάδῃ.",
+        "author": "Sokrat",
+        "source": "diogenes-laertius",
+        "reference": "II.22-23"
+    },
+    {
+        "type": "bio",
+        "year": -424,
+        "sr": "U bici kod Delija spasao Ksenofonta kada je pao s konja.",
+        "stsl": "Въ брани при Делїи спасе Ксенофонта · єгда падє съ конꙗ.",
+        "el": "Ἐν δὲ τῇ ἐν Δηλίῳ μάχῃ Ξενοφῶντα πεσόντα ἀπὸ τοῦ ἵππου ἀνείλετο.",
+        "author": "Sokrat",
+        "source": "diogenes-laertius",
+        "reference": "II.22"
+    },
+    {
+        "type": "bio",
+        "year": -422,
+        "sr": "Služio u vojsci kod Amfipolja.",
+        "stsl": "Въиньствова при Амфиполи.",
+        "el": "Ἐστράτευσεν εἰς Ἀμφίπολιν.",
+        "author": "Sokrat",
+        "source": "diogenes-laertius",
+        "reference": "II.22"
+    },
+    {
+        "type": "bio",
+        "year": -405,
+        "sr": "Oženio se Ksantipom koja mu rodila Lamproklea; po nekima uzeo Mirtu, kćer Aristida Pravičnog, bez miraza.",
+        "stsl": "Женитъ сѧ на Ксантиппѣ · ѩже роди Лампроклꙿєа · по нѣкїимъ же ѹзѧ Миртѹ · дъщерь Аристида Правьднаго · безъ мирꙙза.",
+        "el": "Ἐγάμησε Ξανθίππην, ἐξ ἧς Λαμπροκλέα· γῆμαι δὲ καὶ Μυρτὼ τὴν Ἀριστείδου θυγατέρα τοῦ δικαίου ἄπροικον.",
+        "author": "Sokrat",
+        "source": "diogenes-laertius",
+        "reference": "II.26"
+    },
+    {
+        "type": "bio",
+        "year": -399,
+        "sr": "Optužen od Meleta, Anita i Likona; osuđen sa 281 glasom protiv; umro u 70. godini pošto popio otrov kukute.",
+        "stsl": "Обвиненъ отъ Мелета · Анита и Ликона · осꙋжденъ двѣста и осмьдесѧтъ и єдинымь гласомъ · ѹмрѣ въ седмьдесѧтомь лѣтѣ · пивъ отровѹ цикѹтнꙋю.",
+        "el": "Γράψας δὲ αὐτὸν Μέλητος, Ἄνυτος δὲ καὶ Λύκων ὑπεστήρισαν· κατεψηφίσθη διακοσίαις ὀγδοήκοντα μιᾷ ψήφοις· ἐτελεύτησε πιὼν κώνειον ἑβδομηκονταέτης.",
+        "author": "Sokrat",
+        "source": "diogenes-laertius",
+        "reference": "II.38-43"
+    },
+    {
         "type": "quote",
         "sr": "Proučavanje prirode nije naša briga; valja istraživati šta je u kući dobro, a šta zlo.",
         "stsl": "Испытаніє єстества не наша пещаль єсть · подобає испытовати · что въ домѹ благо и что зло ·",

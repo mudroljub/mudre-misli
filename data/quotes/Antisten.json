@@ -1,5 +1,65 @@
 [
     {
+        "type": "bio",
+        "year": -446,
+        "sr": "Rođen u Atini; otac mu bio Atinanin, majka Tračanka.",
+        "stsl": "Родисѧ въ Атинахъ · отьць ємѹ Атинꙗнинъ бѣ · мати же Фракїиска ·",
+        "el": "Ἀντισθένης Ἀθηναῖος, πατρὸς Ἀντισθένους· ἐδόκει γὰρ εἶναι Θρᾴττης μητρός.",
+        "author": "Antisten",
+        "source": "diogenes-laertius",
+        "reference": "VI.1"
+    },
+    {
+        "type": "bio",
+        "year": -440,
+        "sr": "Učenik Gorgije retoričara; kasnije slušao Sokrata.",
+        "stsl": "Оученикъ Горгїи риторовъ · послѣди слꙑшааше Сократа ·",
+        "el": "Κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος. Ὕστερον δὲ παρέβαλε Σωκράτει.",
+        "author": "Antisten",
+        "source": "diogenes-laertius",
+        "reference": "VI.2"
+    },
+    {
+        "type": "bio",
+        "year": -430,
+        "sr": "Stanovao u Pireju; svakodnevno je pešačio četrdeset stadija do Atine da sluša Sokrata.",
+        "stsl": "Въ Пѵреи живѧаше · на вьсѧкъ дьнь четыредесѧть стадїевъ до Атинъ пѣшь ходѧаше · да Сократа слꙑшаеть ·",
+        "el": "Οἰκῶν τ' ἐν Πειραιεῖ καθ' ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους.",
+        "author": "Antisten",
+        "source": "diogenes-laertius",
+        "reference": "VI.2"
+    },
+    {
+        "type": "bio",
+        "year": -390,
+        "sr": "Predavao u vežbalištu Kinosarg; prvi presavio ogrtač nadvoje i nosio samo tu jednu odeću, štap i torbu; zvali su ga Pas.",
+        "stsl": "Въ ѹчилишти Кѵносаргъ поѹчааше · пьрвыи плашть вдвое сложи и тꙋ єдинꙋ одеждꙋ · жезлъ и торбꙋ ношааше · Пьсомъ нарицаахѹ єго ·",
+        "el": "Διελέγετο δ' ἐν τῷ Κυνοσάργει γυμνασίῳ· αὐτός τ' ἐπεκαλεῖτο Ἁπλοκύων. Καὶ πρῶτος ἐδίπλωσε τὸν τρίβωνα, καὶ μόνῳ αὐτῷ ἐχρῆτο· βάκτρον τ' ἀνέλαβε καὶ πήραν.",
+        "author": "Antisten",
+        "source": "diogenes-laertius",
+        "reference": "VI.13"
+    },
+    {
+        "type": "bio",
+        "year": -380,
+        "sr": "Napisao dela u deset svezaka; Teopompo hvali ga kao jedinog Sokratovca dostojnog pohvale.",
+        "stsl": "Дѣла въ десѧти свѧзъкахъ написа · Теопомпъ хвалить єго ꙗко єдиного Сократовьца достоина похвалы ·",
+        "el": "Γεγόνασι δ' αὐτοῦ τόμοι δέκα. Ὁ δὲ Θεόπομπος αὐτὸν τῶν Σωκρατικῶν μόνον ἄξιόν φησιν ἐπαίνου.",
+        "author": "Antisten",
+        "source": "diogenes-laertius",
+        "reference": "VI.15"
+    },
+    {
+        "type": "bio",
+        "year": -366,
+        "sr": "Umro od bolesti; Diogen ga je posetio noseći bodež.",
+        "stsl": "Отъ болѣзни ѹмрѣ · Діогенъ съ ножемъ єго посѣти ·",
+        "el": "Τοῦτον ἀρρωστίᾳ ἐνοχλούμενον Διογένης, παρελθὼν καὶ ἐγχειρίδιον ἔχων.",
+        "author": "Antisten",
+        "source": "diogenes-laertius",
+        "reference": "VI.18"
+    },
+    {
         "type": "quote",
         "sr": "I majka bogova je Frigijka.",
         "stsl": "И мати боговъ Фрѵгииска єсть ·",

@@ -13,7 +13,7 @@ export interface Translations {
   returnHome: string;
   openQuote: string;
   sectionQuotes: string;
-  sectionAnecdotes: string;
+  sectionLife: string;
 }
 
 export const translations: Record<Language, Translations> = {
@@ -28,9 +28,9 @@ export const translations: Record<Language, Translations> = {
     pageNotFound: 'Страница не обрѣтєна',
     pageNotFoundMessage: 'Страница, ѭже ищєши, не обрѣтаєть сѧ.',
     returnHome: 'Въспѧть въ начѧло',
-    openQuote: 'Отъврьзи изрѣчєніє',
+    openQuote: 'Виждь источьникъ',
     sectionQuotes: 'Изрѣчєніꙗ',
-    sectionAnecdotes: 'Житіє',
+    sectionLife: 'Житіє',
   },
   sr: {
     siteTitle: 'Mudre misli',
@@ -43,9 +43,9 @@ export const translations: Record<Language, Translations> = {
     pageNotFound: 'Stranica nije pronađena',
     pageNotFoundMessage: 'Stranica koju tražite ne postoji.',
     returnHome: 'Povratak na početnu',
-    openQuote: 'Otvori citat',
+    openQuote: 'Vidi izvornik',
     sectionQuotes: 'Izreke',
-    sectionAnecdotes: 'Život',
+    sectionLife: 'Život',
   },
 };
 
