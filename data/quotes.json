@@ -2462,7 +2462,8 @@
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.20",
     "year": -412,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:220"
+    "el": "Διογένης Ἱκεσίου τραπεζίτου Σινωπεύς.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:220#Διογέ"
   },
   {
     "type": "anecdote",
@@ -2472,7 +2473,7 @@
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.20",
     "year": -406,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:220"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:220#τοῦ δ"
   },
   {
     "type": "anecdote",
@@ -2532,7 +2533,7 @@
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.37",
     "year": -367,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:266"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:266#Θεασά"
   },
   {
     "type": "anecdote",
@@ -2552,7 +2553,7 @@
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.41",
     "year": -355,
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:282"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:282#Λύχνο"
   },
   {
     "type": "anecdote",
@@ -2620,7 +2621,7 @@
     "el": "Μικρὸν ἀπὸ τοῦ ἡλίου μετάστηθι.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.38",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:268"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:268#Μικρὸ"
   },
   {
     "type": "quote",
@@ -2718,7 +2719,8 @@
     "stsl": "И аще рабъ єсмь · тебѣ мєнє слѹшати подобаєть · и рабѹ врачѹ и рабѹ кормьчїю повиновѫютъ сѧ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.30",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:244"
+    "el": "Δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:244#Δεῖν "
   },
   {
     "type": "quote",
@@ -2726,7 +2728,8 @@
     "stsl": "Аще не быхъ Алєѯандръ · хотѣлъ быхъ быти Диогенъ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.32",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:250"
+    "el": "Εἴπερ Ἀλέξανδρος μὴ ἐγεγόνει, ἐθελῆσαι ἂν Διογένης γενέσθαι.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:250#Εἴπερ"
   },
   {
     "type": "quote",
@@ -2734,6 +2737,7 @@
     "stsl": "Аще въ таинахъ точию посвѧштєни блажени бѫдѫть · тогда Агесилаи и Єпаминонда въ калѣ бѫдѫть · а лѹкавыи въ блажєнъствѣ · єже безѹмно єсть ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.39",
+    "el": "Εἰ Ἀγησίλαος μὲν καὶ Ἐπαμεινώνδας ἐν τῷ βορβόρῳ διάξουσιν, εὐτελεῖς δέ τινες μεμυημένοι ἐν ταῖς μακάρων νήσοις ἔσονται.",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:278"
   },
   {
@@ -2751,7 +2755,8 @@
     "stsl": "Сребролюбиє єсть мати градъ вьсѣхъ золъ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.50",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:306"
+    "el": "Τὴν φιλαργυρίαν εἶπε μητρόπολιν πάντων τῶν κακῶν.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:306#Τὴν φ"
   },
   {
     "type": "quote",
@@ -2768,7 +2773,8 @@
     "stsl": "Недостоиньны глаголѭ не глѹхы и слѣпы · нъ не имѫштиѩ пиры ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.33",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:252"
+    "el": "Ἀναπήρους ἔλεγεν οὐ τοὺς κωφοὺς καὶ τυφλούς, ἀλλὰ τοὺς μὴ ἔχοντας πήραν.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:252#Ἀναπή"
   },
   {
     "type": "quote",
@@ -2776,7 +2782,8 @@
     "stsl": "Ты рабы побѣди · азъ же чловѣкы побѣждаѭ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.33",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:252"
+    "el": "Πρὸς τὸν εἰπόντα, « Πύθια νικῶ ἄνδρας, » « Ἐγὼ μὲν οὖν, » εἶπεν, « ἄνδρας, σὺ δ' ἀνδράποδα. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:252#Πρὸς "
   },
   {
     "type": "quote",
@@ -2784,6 +2791,7 @@
     "stsl": "Єгда къ концѹ приближаєши сѧ · не ѹмедлꙗи · нъ ѹскори ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.34",
+    "el": "Πρὸς τοὺς εἰπόντας, « Γέρων εἶ καὶ λοιπὸν ἄνες, » « Τί δέ, » ἔφη, « εἰ δόλιχον ἔτρεχον, πρὸς τῷ τέλει ἔδει με ἀνεῖναι καὶ μὴ μᾶλλον ἐπιτεῖναι; »",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:254"
   },
   {
@@ -2792,7 +2800,8 @@
     "stsl": "Аще дрѹзи ковы творѧть · что же съ врагы творити ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.68",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:386"
+    "el": "Πρὸς τὸ καταιτιώμενον μειράκιον τὸ πλῆθος τῶν ἐνοχλούντων, « Παῦσαι γάρ, » ἔφη, « καὶ σὺ τὰ δείγματα τοῦ πασχητιῶντος περιφέρων. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:386#Πρὸς "
   },
   {
     "type": "quote",
@@ -2827,7 +2836,8 @@
     "stsl": "Добрыхъ мѫжии нигдѣ не виждѫ · добрыѩ же отрокы въ Лакедемонѣ виждѫ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.27",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:236"
+    "el": "Ἐρωτηθεὶς ποῦ τῆς Ἑλλάδος ἴδοι ἀγαθοὺς ἄνδρας, « Ἄνδρας μέν, » εἶπεν, « οὐδαμοῦ, παῖδας δ' ἐν Λακεδαίμονι. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:236#Ἐρωτη"
   },
   {
     "type": "reported",
@@ -2836,7 +2846,7 @@
     "el": "Τούς τε γραμματικοὺς ἐθαύμαζε τὰ μὲν τοῦ Ὀδυσσέως κακὰ ἀναζητοῦντας, τὰ δ' ἴδια ἀγνοοῦντας.",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.27",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:236"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:236#Τούς "
   },
   {
     "type": "reported",
@@ -2853,7 +2863,8 @@
     "stsl": "Ничесоже разнства како рыбы лежать · и тако продаѭть сѧ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.29",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:240"
+    "el": "Κωλυθεὶς καθίζεσθαι, « Οὐδέν, » ἔφη, « διαφέρει· καὶ γὰρ τοὺς ἰχθῦς ὅπως ἂν κέοιντο πιπράσκεσθαι. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:240#Κωλυθ"
   },
   {
     "type": "quote",
@@ -2861,7 +2872,8 @@
     "stsl": "Кѹпѹѭще горьнць испытаємъ єго · чловѣка же по єдинои видимости приємлемъ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.30",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:244"
+    "el": "Θαυμάζειν τ' ἔφη εἰ χύτραν μὲν καὶ λοπάδα ὠνούμενοι κομποῦμεν· ἄνθρωπον δὲ μόνῃ τῇ ὄψει ἀρκεῖσθαι.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:244#Θαυμά"
   },
   {
     "type": "quote",
@@ -2869,7 +2881,8 @@
     "stsl": "Вьсѧ обща сѫть мѫдрымъ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.37",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:266"
+    "el": "Συνελογίζετο δὲ καὶ οὕτως· τῶν θεῶν ἐστι πάντα· φίλοι δὲ οἱ σοφοὶ τοῖς θεοῖς· κοινὰ δὲ τὰ τῶν φίλων· πάντ' ἄρα ἐστὶ τῶν σοφῶν.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:266#Συνελ"
   },
   {
     "type": "quote",
@@ -2877,7 +2890,8 @@
     "stsl": "Вьсѧ трагьдїинѣ кльтвы на мѧ придошѧ · безъ отечьства єсмь · безъ домѹ · и нищь страньникъ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.38",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:268"
+    "el": "Εἰώθει δὲ λέγειν τὰς τραγικὰς ἀρὰς αὐτῷ συνηντηκέναι· εἶναι γοῦν Ἄπολις, ἄοικος, πατρίδος ἐστερημένος, πτωχός, πλανήτης, βίον ἔχων τοὐφ' ἡμέραν.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:268#Εἰώθε"
   },
   {
     "type": "quote",
@@ -2885,7 +2899,8 @@
     "stsl": "Дерзаите мѫжие · землѭ виждѫ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.38",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:268"
+    "el": "Μακρά τινος ἀναγινώσκοντος καὶ πρὸς τῷ τέλει τοῦ βιβλίου ἄγραφον παραδείξαντος « Θαρρεῖτε, » ἔφη, « ἄνδρες· γῆν ὁρῶ. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:268#Μακρά"
   },
   {
     "type": "quote",
@@ -2893,7 +2908,8 @@
     "stsl": "Лѹчьше єсть быти овьнь Мегарѧнина · неже сынъ єго ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.41",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:282"
+    "el": "Ἐν Μεγάροις ἰδὼν τὰ μὲν πρόβατα τοῖς δέρμασιν ἐσκεπασμένα, τοὺς δὲ παῖδας αὐτῶν γυμνούς, ἔφη, « Λυσιτελέστερόν ἐστι Μεγαρέως εἶναι κριὸν ἢ υἱόν. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:282#Ἐν Με"
   },
   {
     "type": "quote",
@@ -2901,6 +2917,7 @@
     "stsl": "Како не вѣровати ми въ богы · єгда виждѫ богомъ ненавистьна чловѣка ꙗкоже ты ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.42",
+    "el": "Λυσίου τοῦ φαρμακοπώλου πυθομένου εἰ θεοὺς νομίζει, « Πῶς δέ, » εἶπεν, « οὐ νομίζω, ὅπου καὶ σὲ θεοῖς ἐχθρὸν ὑπολαμβάνω; »",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:284"
   },
   {
@@ -2909,6 +2926,7 @@
     "stsl": "Велии тати ведѫть малаго татѧ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.45",
+    "el": "Θεασάμενός ποτε τοὺς ἱερομνήμονας τῶν ταμιῶν τινα φιάλην ὑφῃρημένον ἄγοντας ἔφη, « Οἱ μεγάλοι κλέπται τὸν μικρὸν ἄγουσι. »",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:296"
   },
   {
@@ -2917,6 +2935,7 @@
     "stsl": "Прѣстани знамениꙗ призываниꙗ носити · и не тако стѣснѧть тѧ бѫдѫть ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.47",
+    "el": "Πρὸς τὸ καταιτιώμενον μειράκιον τὸ πλῆθος τῶν ἐνοχλούντων, « Παῦσαι γάρ, » ἔφη, « καὶ σὺ τὰ δείγματα τοῦ πασχητιῶντος περιφέρων. »",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:300"
   },
   {
@@ -2925,7 +2944,8 @@
     "stsl": "Ради изгнанїꙗ любомѫдьръ быхъ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.49",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:304"
+    "el": "Πρός τε τὸν ὀνειδίσαντα αὐτῷ τὴν φυγήν, « Ἀλλὰ τούτου γ' ἕνεκεν, » εἶπεν, « ὦ κακόδαιμον, ἐφιλοσόφησα. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:304#Πρός "
   },
   {
     "type": "quote",
@@ -2933,7 +2953,8 @@
     "stsl": "Синоплѧне мѧ на изгнанїє осѫдишѧ · азъ же ихъ на дома сѣдѣниє ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.49",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:304"
+    "el": "Καὶ πάλιν εἰπόντος τινός, « Σινωπεῖς σου φυγὴν κατέγνωσαν, » « Ἐγὼ δέ γε, » εἶπεν, « ἐκείνων μονήν. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:304#Καὶ π"
   },
   {
     "type": "quote",
@@ -2941,7 +2962,8 @@
     "stsl": "Аще тако ѹтроѹсиша · не тако ѹвечерьꙗлъ бы ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.50",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:306"
+    "el": "Ἄσωτον θεασάμενος ἐν πανδοκείῳ ἐλάας ἐσθίοντ' ἔφη, « Εἰ οὕτως ἠρίστας, οὐκ ἂν οὕτως ἐδείπνεις. »",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:306#Ἄσωτο"
   },
   {
     "type": "quote",
@@ -2949,6 +2971,7 @@
     "stsl": "Наикрасноє въ чловѣцѣхъ єсть дерзновєно слово ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.69",
+    "el": "Τὸν πρὸς χάριν λόγον ἔφη μελιτίνην ἀγχόνην εἶναι.",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:388"
   },
   {
@@ -2984,6 +3007,7 @@
     "stsl": "Дрѹгомъ хощѫштемъ єго искѹпити глаголаше · не кормѧштиє львовъ господѣ сѫть львомъ · нъ льви имъ ·",
     "author": "Diogen iz Sinope",
     "source": "Diogen Laertije, Životi i mišljenja znamenitih filozofa, VI.75",
+    "el": "Πρὸς τοὺς συμβουλεύοντας τὸν ἀποδράντα αὐτοῦ δοῦλον ζητεῖν, « Γελοῖον, » ἔφη, « εἰ Μάνης μὲν χωρὶς Διογένους ζῇ, Διογένης δὲ χωρὶς Μάνου οὐ δύναται. »",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:402"
   },
   {

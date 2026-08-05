@@ -7,7 +7,11 @@ import {
   type QuotesByLanguage,
   type QuoteWithId,
   type Quote,
+  SourceData,
 } from '../types/data';
+import sourcesRaw from '../data/sources.json';
+
+const sourcesData: Record<string, SourceData> = sourcesRaw;
 
 const authorsData: AuthorsData = authorsRaw;
 const quoteInputs = quotes as Quote[];
@@ -55,6 +59,21 @@ const getAuthorName = (author: string, language: Language = 'stsl'): string => {
   return metadata[language] || author;
 };
 
+const getSourceName = (
+  source: string,
+  language: Language = 'stsl'
+): string => {
+  const metadata = sourcesData[source];
+
+  if (!metadata) {
+    return source;
+  }
+
+  return language === 'stsl'
+    ? metadata.stsl
+    : metadata.sr;
+};
+
 const quotesByLanguage: QuotesByLanguage = {
   sr: quotesData.filter((entry) => entry.sr),
   stsl: quotesData.filter((entry) => entry.stsl),
@@ -75,4 +94,6 @@ export {
   getTextForLanguage,
   getAuthorName,
   slugifyAuthor,
+  sourcesData,
+  getSourceName,
 };

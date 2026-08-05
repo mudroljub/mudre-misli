@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useState } from "react";
 import Sidebar from "./Sidebar";
 import LanguageSwitcher from "./LanguageSwitcher";
-import { getTextForLanguage, getAuthorName, authorSlugs } from "../lib/data";
+import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
 import type { AuthorMetadata, Language, QuoteWithId } from "../types/data";
 
@@ -39,7 +39,7 @@ export default function QuotePageClient({
           )}
 
           <p className="source-line">
-            {t.source}: {quote.source}
+            {t.source}: {getSourceName(quote.source, language)}
           </p>
 
           <Link href={`/authors/${authorSlugs[quote.author] ?? quote.author}`}>

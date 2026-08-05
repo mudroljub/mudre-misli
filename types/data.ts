@@ -32,3 +32,10 @@ export interface AuthorMetadata {
 
 export type AuthorsData = Record<string, AuthorMetadata>;
 export type QuotesByLanguage = Record<Language, QuoteWithId[]>;
+
+export type SourceData = {
+  language: string;
+  originalTitle: string;
+  stsl: string;
+  sr: string;
+};
