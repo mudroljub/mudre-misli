@@ -18,7 +18,7 @@ export default function NotFound() {
         <LanguageSwitcher currentLang={language} onChange={setLanguage} />
         <h1>{t.pageNotFound}</h1>
         <p>{t.pageNotFoundMessage}</p>
-        <Link href="/">{t.returnHome}</Link>
+        <Link href="/">{t.goHome}</Link>
       </section>
     </main>
   );

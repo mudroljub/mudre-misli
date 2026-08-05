@@ -5,13 +5,11 @@ export interface Translations {
   randomQuote: string;
   quoteDetails: string;
   source: string;
-  backToHome: string;
-  viewAllQuotes: string;
-  quotesBy: string;
+  returnToAuthor: string;
   pageNotFound: string;
   pageNotFoundMessage: string;
-  returnHome: string;
-  openQuote: string;
+  goHome: string;
+  viewSource: string;
   sectionQuotes: string;
   sectionLife: string;
 }
@@ -22,13 +20,11 @@ export const translations: Record<Language, Translations> = {
     randomQuote: 'Слѹчаиноє изрѣчєніє',
     quoteDetails: 'О изрѣчєніи',
     source: 'Источьникъ',
-    backToHome: 'Въ начѧло',
-    viewAllQuotes: 'Вьсѧ изрѣчєніꙗ',
-    quotesBy: 'Изрѣчєніꙗ',
+    returnToAuthor: 'Въспѧть къ любомѫдрьцю',
     pageNotFound: 'Страница не обрѣтєна',
     pageNotFoundMessage: 'Страница, ѭже ищєши, не обрѣтаєть сѧ.',
-    returnHome: 'Въспѧть въ начѧло',
-    openQuote: 'Виждь источьникъ',
+    goHome: 'Въ начѧло',
+    viewSource: 'Виждь источьникъ',
     sectionQuotes: 'Изрѣчєніꙗ',
     sectionLife: 'Житіє',
   },
@@ -37,13 +33,11 @@ export const translations: Record<Language, Translations> = {
     randomQuote: 'Slučajni citat',
     quoteDetails: 'Detalji citata',
     source: 'Izvor',
-    backToHome: 'Početna',
-    viewAllQuotes: 'Svi citati',
-    quotesBy: 'Citati od',
+    returnToAuthor: 'Nazad filozofu',
     pageNotFound: 'Stranica nije pronađena',
     pageNotFoundMessage: 'Stranica koju tražite ne postoji.',
-    returnHome: 'Povratak na početnu',
-    openQuote: 'Vidi izvornik',
+    goHome: 'Početna',
+    viewSource: 'Vidi izvornik',
     sectionQuotes: 'Izreke',
     sectionLife: 'Život',
   },

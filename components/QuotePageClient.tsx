@@ -43,7 +43,7 @@ export default function QuotePageClient({
           </p>
 
           <Link href={`/authors/${authorSlugs[quote.author] ?? quote.author}`}>
-            {t.viewAllQuotes}
+            {t.returnToAuthor}
           </Link>
         </div>
       </section>

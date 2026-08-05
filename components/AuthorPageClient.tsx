@@ -53,7 +53,7 @@ export default function AuthorPageClient({
             {lifeEventsSection.map((entry) => (
               <div key={entry._id} className="quote-card">
                 <p>{getTextForLanguage(entry, language)}</p>
-                <Link href={`/quotes/${entry._id}`}>{t.openQuote}</Link>
+                <Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link>
               </div>
             ))}
           </section>
@@ -66,7 +66,7 @@ export default function AuthorPageClient({
             {quotesSection.map((entry) => (
               <div key={entry._id} className="quote-card">
                 <p>{getTextForLanguage(entry, language)}</p>
-                <Link href={`/quotes/${entry._id}`}>{t.openQuote}</Link>
+                <Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link>
               </div>
             ))}
           </section>
