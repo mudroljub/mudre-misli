@@ -7,6 +7,7 @@ import LanguageSwitcher from "./LanguageSwitcher";
 import { getTextForLanguage, getAuthorName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
 import type { AuthorData, Language, Entry } from "../types/data";
+import QuoteCard from "./QuoteCard";
 
 interface AuthorPageClientProps {
   author: string;
@@ -51,10 +52,7 @@ export default function AuthorPageClient({
             <h3>{t.sectionLife}</h3>
 
             {lifeEventsSection.map((entry) => (
-              <div key={entry._id} className="quote-card">
-                <p>{getTextForLanguage(entry, language)}</p>
-                <Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link>
-              </div>
+              <QuoteCard key={entry._id} entry={entry} language={language} />
             ))}
           </section>
         )}
@@ -64,10 +62,7 @@ export default function AuthorPageClient({
             <h3>{t.sectionQuotes}</h3>
 
             {quotesSection.map((entry) => (
-              <div key={entry._id} className="quote-card">
-                <p>{getTextForLanguage(entry, language)}</p>
-                <Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link>
-              </div>
+              <QuoteCard key={entry._id} entry={entry} language={language} />
             ))}
           </section>
         )}

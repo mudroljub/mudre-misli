@@ -5,7 +5,7 @@ export interface Translations {
   randomQuote: string;
   quoteDetails: string;
   source: string;
-  returnToAuthor: string;
+  gotoAuthor: string;
   pageNotFound: string;
   pageNotFoundMessage: string;
   goHome: string;
@@ -20,7 +20,7 @@ export const translations: Record<Language, Translations> = {
     randomQuote: 'Слѹчаиноє изрѣчєніє',
     quoteDetails: 'О изрѣчєніи',
     source: 'Источьникъ',
-    returnToAuthor: 'Въспѧть къ любомѫдрьцю',
+    gotoAuthor: 'Kъ любомѫдрьцю',
     pageNotFound: 'Страница не обрѣтєна',
     pageNotFoundMessage: 'Страница, ѭже ищєши, не обрѣтаєть сѧ.',
     goHome: 'Въ начѧло',
@@ -33,7 +33,7 @@ export const translations: Record<Language, Translations> = {
     randomQuote: 'Slučajni citat',
     quoteDetails: 'Detalji citata',
     source: 'Izvor',
-    returnToAuthor: 'Nazad filozofu',
+    gotoAuthor: 'K filozofu',
     pageNotFound: 'Stranica nije pronađena',
     pageNotFoundMessage: 'Stranica koju tražite ne postoji.',
     goHome: 'Početna',

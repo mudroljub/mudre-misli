@@ -25,7 +25,7 @@ export default function HomeContent({ featured }: HomeContentProps) {
         <div className="quote-card">
           <p>{getTextForLanguage(featured, language)}</p>
           <p className="author-line">— {getAuthorName(featured.author, language)}</p>
-          <Link href={`/quotes/${featured._id}`}>{t.quoteDetails}</Link>
+          <Link href={`/quotes/${featured._id}`}>{t.viewSource}</Link>
         </div>
       </section>
     </main>
