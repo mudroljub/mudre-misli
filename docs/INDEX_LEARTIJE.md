@@ -16,14 +16,14 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje (10 knjiga).
 
 ### Sedmorica mudraca i rani mislioci (7.–6. vek p.n.e.) — Knjiga I
 
-1. Periander (Περίανδρος, oko 668–584. p.n.e.)
-2. Pittakos (Πιττακός, oko 650–570. p.n.e.)
-3. Solon (Σόλων, oko 638–558. p.n.e.)
+1. Periander (Περίανδρος, oko 668–584. p.n.e.) ✅
+2. Pittakos (Πιττακός, oko 650–570. p.n.e.) ✅
+3. Solon (Σόλων, oko 638–558. p.n.e.) ✅
 4. Bijant (Βίας, oko 625–540. p.n.e.) ✅
 5. Tales (Θαλῆς, oko 624–546. p.n.e.) ✅
 6. Kleobul (Κλεόβουλος, oko 600. p.n.e.)
 7. Hilon (Χίλων, oko 600–520. p.n.e.)
-8. Anaharsis (Ἀνάχαρσις, oko 600. p.n.e.)
+8. Anaharsis (Ἀνάχαρσις, oko 600. p.n.e.) ✅
 9. Mizon (Μύσων, 6. vek p.n.e.)
 10. Epimenid (Ἐπιμενίδης, 7.–6. vek p.n.e.)
 11. Ferekit (Φερεκύδης, oko 580–520. p.n.e.)

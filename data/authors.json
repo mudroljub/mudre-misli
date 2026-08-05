@@ -120,7 +120,7 @@
     "originalText": "Πυθαγόρας"
   },
   "Ksenofan": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenophanes%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=160",
+    "src": "https://www.psychofuturia.com/wp-content/uploads/2023/07/Xenophanes-Silhouette-%E2%80%93-Ancient-Greek-Philosopher-Overlooking-Mediterranean-Coastline.png",
     "born": -570,
     "died": -478,
     "sr": "Ksenofan",
@@ -168,7 +168,7 @@
     "originalText": "Ἡράκλειτος"
   },
   "Tales": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thales_of_Miletus.jpg?width=160",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Palazzo_medici_riccardi%2C_cortile%2C_lato_O%2C_nicchia_02_su_dis._del_foggini%2C_con_di_s._barnaba_di_giovanni_d%27ambrogio_%281395-96%29_e_testa_nn_pert._di_talete_%28II_sec.%29_3.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "born": -624,
     "died": -546,
     "sr": "Tales",
@@ -176,7 +176,7 @@
     "originalText": "Θαλῆς"
   },
   "Anaksimander": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximander.jpg?width=160",
+    "src": "https://www.worldhistory.org/uploads/images/6161.jpg?v=1784140567-0",
     "born": -610,
     "died": -546,
     "sr": "Anaksimander",
@@ -184,7 +184,7 @@
     "originalText": "Ἀναξίμανδρος"
   },
   "Anaksimen": {
-    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximenes.jpg?width=160",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximenes.jpg?width=260",
     "born": -585,
     "died": -525,
     "sr": "Anaksimen",
@@ -294,5 +294,37 @@
     "sr": "Epikur",
     "stsl": "Епікѹръ",
     "originalText": "Ἐπίκουρος"
+  },
+  "Anaharsis": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anarcharsis.jpg?width=160",
+    "born": -600,
+    "died": -580,
+    "sr": "Anaharsis",
+    "stsl": "Анахарсісъ",
+    "originalText": "Ἀνάχαρσις"
+  },
+  "Periander": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Periander_Pio-Clementino_Inv276.jpg?width=160",
+    "born": -668,
+    "died": -584,
+    "sr": "Periander",
+    "stsl": "Пєріандръ",
+    "originalText": "Περίανδρος"
+  },
+  "Pittakos": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pittacus.jpg?width=160",
+    "born": -650,
+    "died": -570,
+    "sr": "Pittakos",
+    "stsl": "Піттакъ",
+    "originalText": "Πιττακός"
+  },
+  "Solon": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Solon.jpg?width=160",
+    "born": -638,
+    "died": -558,
+    "sr": "Solon",
+    "stsl": "Солонъ",
+    "originalText": "Σόλων"
   }
 }
