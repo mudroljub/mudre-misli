@@ -7,6 +7,11 @@
   margin: 0;
   min-width: 0;
 
+  blockquote {
+    font-size: 1.25rem;
+    line-height: 1.6;
+  }
+
   img {
     max-width: 100px;
     border-radius: $border-radius-md;
