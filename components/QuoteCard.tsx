@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getTextForLanguage, getAuthorName, authorSlugs } from "../lib/data";
 import { getTranslation } from "../lib/translations";
 import type { Entry, Language } from "../types/data";
+import styles from "./QuoteCard.module.scss";
 
 interface QuoteCardProps {
   entry: Entry;
@@ -20,13 +21,13 @@ export default function QuoteCard({
   const slug = authorSlugs[entry.author];
 
   return (
-    <div className="quote-card">
+    <div className={styles.card}>
       <p>{getTextForLanguage(entry, language)}</p>
 
       {showAuthor && (
-        <p className="author-line">
+        <p className={styles.authorLine}>
           —{" "}
-          <Link href={`/authors/${slug}`} className="plain-link">
+          <Link href={`/authors/${slug}`} className={styles.plainLink}>
             {getAuthorName(entry.author, language)}
           </Link>
         </p>

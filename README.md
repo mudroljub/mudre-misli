@@ -15,7 +15,7 @@ npm start
 
 ## TODO
 
-- preimenovati el u sourceText i da bude obavezno
+- preimenovati el u originalText
 - izvući preostale bitne filozofe iz Diogena Leartija
 - mapirati pointer do tačne linije izvora radi lakšeg prevođenja
 - obraditi podatke iz latinskog teksta

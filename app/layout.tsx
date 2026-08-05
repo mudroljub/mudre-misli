@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
-import './globals.css';
+import '../styles/globals.scss';
 
 export const metadata: Metadata = {
   title: 'Mudre misli',

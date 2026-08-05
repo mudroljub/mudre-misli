@@ -1,0 +1,30 @@
+@import '../styles/variables';
+
+.switch {
+  margin-bottom: 20px;
+
+  button {
+    margin-right: $spacing-xs;
+    padding: $spacing-xs ($spacing-xs * 2);
+    border: 2px solid $color-primary;
+    background: $color-white;
+    color: $color-primary;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: $border-radius-sm;
+    transition: background-color $transition-fast, color $transition-fast;
+    min-width: 120px;
+
+    &:hover:not(:disabled) {
+      background: $color-primary;
+      color: $color-white;
+    }
+
+    &:disabled {
+      background: $color-primary;
+      color: $color-white;
+      cursor: default;
+    }
+  }
+}

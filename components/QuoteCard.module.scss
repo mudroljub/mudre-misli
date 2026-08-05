@@ -1,0 +1,28 @@
+@import '../styles/variables';
+
+.card {
+  border: 1px solid $color-border;
+  padding: $spacing-md;
+  background: $color-white;
+  margin: 0;
+  min-width: 0;
+
+  img {
+    max-width: 100px;
+    border-radius: $border-radius-md;
+    margin-bottom: 10px;
+  }
+}
+
+.authorLine {
+  font-weight: 700;
+}
+
+.plainLink {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
+}

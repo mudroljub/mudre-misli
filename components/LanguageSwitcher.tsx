@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { languages } from '../lib/data';
 import type { Language } from '../types/data';
+import styles from './LanguageSwitcher.module.scss';
 
 interface LanguageSwitcherProps {
   currentLang?: Language;
@@ -26,7 +27,7 @@ export default function LanguageSwitcher({
   };
 
   return (
-    <div className="language-switch">
+    <div className={styles.switch}>
       {languages.map((language) => (
         <button
           type="button"

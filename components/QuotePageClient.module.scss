@@ -1,0 +1,27 @@
+@import '../styles/variables';
+
+.card {
+  border: 1px solid $color-border;
+  padding: $spacing-md;
+  background: $color-white;
+  margin: 0;
+  min-width: 0;
+
+  img {
+    max-width: 100px;
+    border-radius: $border-radius-md;
+    margin-bottom: 10px;
+  }
+}
+
+.sourceLine {
+  color: $color-text-light;
+  font-size: $font-size-small;
+}
+
+.originalQuote {
+  margin-top: 1rem;
+  font-size: $font-size-medium;
+  color: $color-text-light;
+  font-style: italic;
+}

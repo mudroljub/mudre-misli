@@ -1,0 +1,22 @@
+@import '../styles/variables';
+
+.content {
+  padding: $spacing-xl;
+
+  @media (max-width: $breakpoint-mobile) {
+    padding: 20px;
+  }
+}
+
+.authorPortrait {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  border-radius: $border-radius-md;
+  margin-bottom: 20px;
+}
+
+.authorSection {
+  margin-top: 2.5rem;
+}

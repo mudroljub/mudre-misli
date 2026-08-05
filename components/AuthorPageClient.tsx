@@ -7,6 +7,8 @@ import { getAuthorName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
 import type { AuthorData, Language, Entry } from "../types/data";
 import QuoteCard from "./QuoteCard";
+import styles from "./AuthorPageClient.module.scss";
+import gridStyles from "./EntriesGrid.module.scss";
 
 interface AuthorPageClientProps {
   author: string;
@@ -35,22 +37,22 @@ export default function AuthorPageClient({
     <main className="page-shell">
       <Sidebar language={language} />
 
-      <section className="content">
+      <section className={styles.content}>
         <LanguageSwitcher currentLang={language} onChange={setLanguage} />
 
         <h2>{authorName}</h2>
 
         <img
-          className="author-portrait"
+          className={styles.authorPortrait}
           src={authorData.src}
           alt={authorName}
         />
 
         {lifeEventsSection.length > 0 && (
-          <section className="author-section">
+          <section className={styles.authorSection}>
             <h3>{t.sectionLife}</h3>
 
-            <div className="entries-grid entries-grid--double">
+            <div className={`${gridStyles.grid} ${gridStyles.double}`}>
               {lifeEventsSection.map((entry) => (
                 <QuoteCard
                   key={entry._id}
@@ -64,10 +66,10 @@ export default function AuthorPageClient({
         )}
 
         {quotesSection.length > 0 && (
-          <section className="author-section">
+          <section className={styles.authorSection}>
             <h3>{t.sectionQuotes}</h3>
 
-            <div className="entries-grid entries-grid--single">
+            <div className={`${gridStyles.grid} ${gridStyles.single}`}>
               {quotesSection.map((entry) => (
                 <QuoteCard
                   key={entry._id}

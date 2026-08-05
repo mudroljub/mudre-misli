@@ -1,0 +1,32 @@
+@import '../styles/variables';
+
+.sidebar {
+  padding: $spacing-lg;
+  background: $color-primary;
+  color: $color-white;
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    gap: $spacing-sm;
+    margin-top: 20px;
+  }
+
+  a {
+    color: $color-white;
+    text-decoration: none;
+  }
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  img {
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+    border-radius: $border-radius-full;
+  }
+}

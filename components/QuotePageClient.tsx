@@ -7,6 +7,7 @@ import LanguageSwitcher from "./LanguageSwitcher";
 import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
 import type { AuthorData, Language, Entry } from "../types/data";
+import styles from "./QuotePageClient.module.scss";
 
 interface QuotePageClientProps {
   quote: Entry;
@@ -26,7 +27,7 @@ export default function QuotePageClient({
       <Sidebar language={language} />
       <section className="content">
         <LanguageSwitcher currentLang={language} onChange={setLanguage} />
-        <div className="quote-card">
+        <div className={styles.card}>
           {authorData?.src ? (
             <img src={authorData.src} alt={authorName} />
           ) : null}
@@ -34,9 +35,9 @@ export default function QuotePageClient({
 
           <blockquote>{getTextForLanguage(quote, language)}</blockquote>
 
-          <blockquote className="original-quote">{quote.el}</blockquote>
+          <blockquote className={styles.originalQuote}>{quote.el}</blockquote>
 
-          <p className="source-line">
+          <p className={styles.sourceLine}>
             <b>{t.source}</b>: {getSourceName(quote.source, language)}, {quote.reference}
           </p>
 
