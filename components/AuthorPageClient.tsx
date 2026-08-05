@@ -6,11 +6,11 @@ import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getTextForLanguage, getAuthorName } from '../lib/data';
 import { getTranslation } from '../lib/translations';
-import type { AuthorMetadata, Language, QuoteWithId } from '../types/data';
+import type { AuthorData, Language, QuoteWithId } from '../types/data';
 
 interface AuthorPageClientProps {
   author: string;
-  authorMeta: AuthorMetadata;
+  authorMeta: AuthorData;
   authorQuotes: QuoteWithId[];
 }
 

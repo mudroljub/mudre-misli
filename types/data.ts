@@ -1,48 +1,35 @@
 /**
- * Valid quote/anecdote types:
+ * Valid entry types:
  * - quote: direktan citat filozofa
+ * - reported: prepričana izreka ili učenje
  * - anecdote: kratka zgoda sa poentom, često duhovita ili karakteristična
  * - bio: običan biografski podatak
- *
- * Note: 'reported' is deprecated and should not be used. Use 'quote' with
- * indirect speech in the text instead.
  */
-export const quoteTypes = ['quote', 'reported', 'anecdote', 'bio'] as const;
-export type QuoteType = (typeof quoteTypes)[number];
+export const entryTypes = ['quote', 'reported', 'anecdote', 'bio'] as const;
+export type EntryType = (typeof entryTypes)[number];
 
 /**
- * Supported display languages:
+ * Supported UI languages:
  * - stsl: staroslovenski
  * - sr: savremeni srpski
- *
- * Note: Greek (el) is stored but not included as a display language.
  */
 export const supportedLanguages = ['stsl', 'sr'] as const;
 export type Language = (typeof supportedLanguages)[number];
 
 /**
- * A quote, anecdote, or biographical note from a philosophical source.
- *
- * All entries must have both Serbian (sr) and Old Church Slavonic (stsl) translations.
- * Greek text (el) is required when available in the source material.
+ * Common fields shared by all entry types.
  */
-export interface Quote {
-  /** Type of entry (see QuoteType documentation above) */
-  type: QuoteType;
-
-  /** Approximate year of the event or statement (negative = BCE, positive = CE) */
-  year?: number;
-
+interface BaseEntry {
   /** Modern Serbian translation (required) */
   sr: string;
 
   /** Old Church Slavonic translation (required) */
   stsl: string;
 
-  /** Greek original from source (required when available in source) */
+  /** Greek original, when present in the source */
   el?: string;
 
-  /** Philosopher to whom the quote/anecdote belongs */
+  /** Philosopher to whom the entry belongs */
   author: string;
 
   /** Source key identifier (e.g., "diogenes-laertius", "aristotle-metaphysics") */
@@ -55,16 +42,35 @@ export interface Quote {
   pointer?: string;
 }
 
-export interface QuoteWithId extends Quote {
-  _id: number;
+/**
+ * Biographical entry or anecdote.
+ * Anecdotes are dated stories about the philosopher.
+ */
+interface LifeEvent extends BaseEntry {
+  type: 'bio' | 'anecdote';
+  /** Year of the event (negative = BCE, positive = CE) - required */
+  year: number;
 }
 
 /**
- * Metadata about a philosopher/author.
- *
- * All fields are required. Years use negative numbers for BCE, positive for CE.
+ * Quote or reported statement.
  */
-export interface AuthorMetadata {
+interface Saying extends BaseEntry {
+  type: 'quote' | 'reported';
+}
+
+export type Entry = LifeEvent | Saying;
+
+export type EntryWithId = Entry & {
+  _id: number;
+};
+
+/**
+ * Data about a philosopher/author.
+ *
+ * Years use negative numbers for BCE, positive for CE.
+ */
+export interface AuthorData {
   /** URL to portrait image (preferably from Wikimedia Commons) */
   src: string;
 
@@ -84,8 +90,8 @@ export interface AuthorMetadata {
   el: string;
 }
 
-export type AuthorsData = Record<string, AuthorMetadata>;
-export type QuotesByLanguage = Record<Language, QuoteWithId[]>;
+export type AuthorsData = Record<string, AuthorData>;
+export type EntriesByLanguage = Record<Language, EntryWithId[]>;
 
 export type SourceData = {
   language: string;

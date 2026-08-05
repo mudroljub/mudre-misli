@@ -15,7 +15,7 @@ npm start
 
 ## TODO
 
-- dodati biografske iteme (type: 'bio') za postojeće filozofe
+- dodaj biografske iteme (type: 'bio') za postojeće filozofe
 - izvući preostale bitne filozofe iz Diogena Leartija
 - mapirati pointer do tačne linije izvora radi lakšeg prevođenja
 - obraditi podatke iz latinskog teksta

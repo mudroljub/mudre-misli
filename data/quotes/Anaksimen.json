@@ -1,65 +1,75 @@
 [
-    {
-        "type": "quote",
-        "sr": "Kao prvo načelo uzeo je vazduh, odnosno neograničeno.",
-        "stsl": "За пьрвоє начѧло положи въздѫхъ · сирѣчь безмѣрьнъ ·",
-        "el": "οὗτος ἀρχὴν ἀέρα εἶπε καὶ τὸ ἄπειρον.",
-        "author": "Anaksimen",
-        "source": "diogenes-laertius",
-        "reference": "II.3"
-    },
-    {
-        "type": "quote",
-        "sr": "Zvezde se okreću oko zemlje, ali ne zalaze ispod nje.",
-        "stsl": "Звѣзды крѫжѧть окрьсть землѧ · нъ не заходѧть подъ неѭ ·",
-        "el": "κινεῖσθαι δὲ τὰ ἄστρα οὐχ ὑπὸ γῆν, ἀλλὰ περὶ γῆν.",
-        "author": "Anaksimen",
-        "source": "diogenes-laertius",
-        "reference": "II.3"
-    },
-    {
-        "type": "bio",
-        "sr": "Pisao je prostim i nenametljivim jonskim stilom.",
-        "stsl": "Писааше простымь и непрѣтворьнымь іоньскымъ словомь ·",
-        "author": "Anaksimen",
-        "source": "diogenes-laertius",
-        "year": -555,
-        "reference": "II.3"
-    },
-    {
-        "type": "reported",
-        "sr": "Anaksimen je u pismu Talesu napisao da su Milećani izgubili svog zvezdoznanca.",
-        "stsl": "Анаксименъ въ послании къ Фалесѹ написа · ꙗко Мілєтѧне лишишасѧ своєго звѣздочѧтца ·",
-        "el": "Θαλῆς Ἐξαμύου ἐπὶ γήρως οὐκ εὔποτμος οἴχεται· εὐφρόνης, ὥσπερ ἐώθει, ἅμα τῇ ἀμφιπόλῳ προϊὼν ἐκ τοῦ αὐλίου τὰ ἄστρα ἐθηεῖτο· καὶ-οὐ γὰρ ἐς μνήμην ἔθετο-θηεύμενος ἐς τὸ κρημνῶδες ἐκβὰς καταπίπτει. Μιλησίοισι μέν νυν ὁ αἰθερολόγος ἐν τοιῷδε κεῖται τέλει.",
-        "author": "Anaksimen",
-        "source": "diogenes-laertius",
-        "reference": "II.4"
-    },
-    {
-        "type": "quote",
-        "sr": "Milet nikada nije bez tirana.",
-        "stsl": "Мілєтъ николиже безъ тиранъ єсть ·",
-        "el": "Μιλησίους οὐκ ἐπιλείπουσι αἰσυμνῆται.",
-        "author": "Anaksimen",
-        "source": "diogenes-laertius",
-        "reference": "II.5"
-    },
-    {
-        "type": "quote",
-        "sr": "Jonjani su pred ratom sa Medima radi zajedničke slobode.",
-        "stsl": "Іонѧне прѣдъ бранью сѫ съ Миды ради общѧ свободы ·",
-        "el": "μέλλουσι δὴ ἀμφὶ τῆς ἐλευθερίης ἁπάντων Ἴωνες Μήδοις κατίστασθαι ἐς πόλεμον.",
-        "author": "Anaksimen",
-        "source": "diogenes-laertius",
-        "reference": "II.5"
-    },
-    {
-        "type": "quote",
-        "sr": "Kako da proučavam nebesa dok mi prete propast ili ropstvo?",
-        "stsl": "Како да испытаю небеса · дондеже погибель или рабьство ми грозитъ ·",
-        "el": "Κῶς ἂν οὖν Ἀναξιμένης ἐν θυμῷ ἔτι ἔχοι αἰθερολογέειν, ἐν δείματι ἐὼν ὀλέθρου ἢ δουλοσύνης;",
-        "author": "Anaksimen",
-        "source": "diogenes-laertius",
-        "reference": "II.5"
-    }
+  {
+    "type": "bio",
+    "year": -585,
+    "sr": "Rođen u Miletu.",
+    "stsl": "Рождєнъ въ Милетѣ.",
+    "el": "Μιλήσιος.",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "reference": "II.3"
+  },
+  {
+    "type": "quote",
+    "sr": "Kao prvo načelo uzeo je vazduh, odnosno neograničeno.",
+    "stsl": "За пьрвоє начѧло положи въздѫхъ · сирѣчь безмѣрьнъ ·",
+    "el": "οὗτος ἀρχὴν ἀέρα εἶπε καὶ τὸ ἄπειρον.",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "reference": "II.3"
+  },
+  {
+    "type": "quote",
+    "sr": "Zvezde se okreću oko zemlje, ali ne zalaze ispod nje.",
+    "stsl": "Звѣзды крѫжѧть окрьсть землѧ · нъ не заходѧть подъ неѭ ·",
+    "el": "κινεῖσθαι δὲ τὰ ἄστρα οὐχ ὑπὸ γῆν, ἀλλὰ περὶ γῆν.",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "reference": "II.3"
+  },
+  {
+    "type": "bio",
+    "sr": "Pisao je prostim i nenametljivim jonskim stilom.",
+    "stsl": "Писааше простымь и непрѣтворьнымь іоньскымъ словомь ·",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "year": -555,
+    "reference": "II.3"
+  },
+  {
+    "type": "reported",
+    "sr": "Anaksimen je u pismu Talesu napisao da su Milećani izgubili svog zvezdoznanca.",
+    "stsl": "Анаксименъ въ послании къ Фалесѹ написа · ꙗко Мілєтѧне лишишасѧ своєго звѣздочѧтца ·",
+    "el": "Θαλῆς Ἐξαμύου ἐπὶ γήρως οὐκ εὔποτμος οἴχεται· εὐφρόνης, ὥσπερ ἐώθει, ἅμα τῇ ἀμφιπόλῳ προϊὼν ἐκ τοῦ αὐλίου τὰ ἄστρα ἐθηεῖτο· καὶ-οὐ γὰρ ἐς μνήμην ἔθετο-θηεύμενος ἐς τὸ κρημνῶδες ἐκβὰς καταπίπτει. Μιλησίοισι μέν νυν ὁ αἰθερολόγος ἐν τοιῷδε κεῖται τέλει.",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "reference": "II.4"
+  },
+  {
+    "type": "quote",
+    "sr": "Milet nikada nije bez tirana.",
+    "stsl": "Мілєтъ николиже безъ тиранъ єсть ·",
+    "el": "Μιλησίους οὐκ ἐπιλείπουσι αἰσυμνῆται.",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "reference": "II.5"
+  },
+  {
+    "type": "quote",
+    "sr": "Jonjani su pred ratom sa Medima radi zajedničke slobode.",
+    "stsl": "Іонѧне прѣдъ бранью сѫ съ Миды ради общѧ свободы ·",
+    "el": "μέλλουσι δὴ ἀμφὶ τῆς ἐλευθερίης ἁπάντων Ἴωνες Μήδοις κατίστασθαι ἐς πόλεμον.",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "reference": "II.5"
+  },
+  {
+    "type": "quote",
+    "sr": "Kako da proučavam nebesa dok mi prete propast ili ropstvo?",
+    "stsl": "Како да испытаю небеса · дондеже погибель или рабьство ми грозитъ ·",
+    "el": "Κῶς ἂν οὖν Ἀναξιμένης ἐν θυμῷ ἔτι ἔχοι αἰθερολογέειν, ἐν δείματι ἐὼν ὀλέθρου ἢ δουλοσύνης;",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "reference": "II.5"
+  }
 ]

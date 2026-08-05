@@ -1,173 +1,183 @@
 [
-    {
-        "type": "quote",
-        "sr": "Hesiod je prvi nazvao nebo vaseljenom i zemlju kuglastom.",
-        "stsl": "Хесиодъ пьрвъ небо васєленою нарече · и землѭ крѹглообразнѹ ·",
-        "el": "ὡς δὲ Ζήνων, Ἡσίοδον τὸν οὐρανὸν πρῶτον ὀνομάσαι κόσμον καὶ τὴν γῆν στρογγύλην.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "VIII.48"
-    },
-    {
-        "type": "quote",
-        "sr": "Biće je jedno.",
-        "stsl": "Сѫщее єдино єсть ·",
-        "el": "τῆς περὶ τοῦ ἑνὸς δόξης τῶν περὶ Παρμενίδην καὶ Ζήνωνα.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.42"
-    },
-    {
-        "type": "quote",
-        "sr": "Da, ti — prokletstvo grada!",
-        "stsl": "Ты · проклѧтиє града ·",
-        "el": "σὺ ὁ τῆς πόλεως ἀλιτήριος.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.27"
-    },
-    {
-        "type": "quote",
-        "sr": "Čudim se vašem kukavičluku: zbog straha od onoga što ja sada trpim robujete tiraninu.",
-        "stsl": "Дивлѭ сѧ вашемѹ малодѹшию · страха ради отъ сихъ · ꙗже азъ нынѣ тьрплѭ · мѫчителю рабьствѹєте ·",
-        "el": "θαυμάζω ὑμῶν τὴν δειλίαν, εἰ τούτων ἕνεκεν ὧν νῦν ἐγὼ ὑπομένω, δουλεύετε τῷ τυράννῳ.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.27"
-    },
-    {
-        "type": "quote",
-        "sr": "Postoje svetovi, ali nema praznog prostora.",
-        "stsl": "Мири сѫть · нъ праздьна мѣста нѣсть ·",
-        "el": "κόσμους εἶναι κενόν τε μὴ εἶναι.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.29"
-    },
-    {
-        "type": "quote",
-        "sr": "Priroda svih stvari nastala je od toplog i hladnog, suvog i vlažnog, koji se menjaju jedno u drugo.",
-        "stsl": "Єстество вьсѣхъ отъ тепла и стѹдени · сѹхоты и влаги бысть · си же єдино въ дрѹгоє прѣмѣнѧютсѧ ·",
-        "el": "γεγενῆσθαι δὲ τὴν τῶν πάντων φύσιν ἐκ θερμοῦ καὶ ψυχροῦ καὶ ξηροῦ καὶ ὑγροῦ, λαμβανόντων αὐτῶν εἰς ἄλληλα τὴν μεταβολήν.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.29"
-    },
-    {
-        "type": "quote",
-        "sr": "Nastanak ljudi potiče od zemlje.",
-        "stsl": "Бытие чловѣкъ отъ землѧ єсть ·",
-        "el": "γένεσίν τε ἀνθρώπων ἐκ γῆς εἶναι.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.29"
-    },
-    {
-        "type": "quote",
-        "sr": "Duša je smeša toplog i hladnog, suvog i vlažnog, sjedinjena tako da nijedan sastojak ne preovlađuje.",
-        "stsl": "Дѹша съмѣшение тепла и стѹдени · сѹхоты и влаги єсть · тако съединеныхъ · ꙗко ни єдино отъ сихъ надъ иными не владѣєть ·",
-        "el": "ψυχὴν κρᾶμα ὑπάρχειν ἐκ τῶν προειρημένων κατὰ μηδενὸς τούτων ἐπικράτησιν.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.29"
-    },
-    {
-        "type": "quote",
-        "sr": "Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.",
-        "stsl": "Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
-        "el": "ἐὰν μὴ λοιδορούμενος προσποιῶμαι, οὐδ' ἐπαινούμενος αἰσθήσομαι.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.29"
-    },
-    {
-        "type": "quote",
-        "sr": "Ono što se kreće ne kreće se ni u mestu u kojem jeste, ni u mestu u kojem nije.",
-        "stsl": "Движѹщеє сѧ не движеть сѧ ни въ мѣстѣ · въ немьже єсть · ни въ немьже нѣсть ·",
-        "el": "τὸ κινούμενον οὔτ' ἐν ᾧ ἐστι τόπῳ κινεῖται οὔτ' ἐν ᾧ μὴ ἔστιν.",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "reference": "IX.72"
-    },
-    {
-        "type": "bio",
-        "sr": "Zenon je bio Parmenidov učenik, usvojeni sin i prisni miljenik.",
-        "stsl": "Зенонъ бѣ ѹченикъ Парменида · приєтыи сынъ и възлюбленыи єго ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -490,
-        "reference": "IX.25"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prema jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
-        "stsl": "По єдиномѹ прѣданию Зенонъ пьрвъ писа бесѣды вопроса и отвѣта · Аристотель же пьрвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -480,
-        "reference": "III.48"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Aristotel je Zenona smatrao pronalazačem dijalektike, veštine raspravljanja pitanjima i odgovorima.",
-        "stsl": "Аристотель мьнѧаше Зенона изобрѣтателемъ вопросоотвѣтьнаго хѹдожьства прѣниꙗ ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -470,
-        "reference": "IX.25"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Zenon je skromnu Eleju pretpostavio sjaju Atine: Atinjane je jedva posećivao i čitav život proveo u domovini.",
-        "stsl": "Зенонъ малѹю Елею паче славы Атиньскыѧ възлюби · Атинѧнъ єдва посѣщааше и вьсь животъ въ отечьствѣ прѣбысть ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -460,
-        "reference": "IX.28"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Diogen Zenonu pripisuje prvo izlaganje dokaza poznatog kao ‘Ahilej i kornjača’, dok ga Favorin pripisuje Parmenidu.",
-        "stsl": "Диогенъ Зенонѹ приписѹєть пьрвоє изложеніє довода · нарицаємаго Ахиллеи и желвь · Фаворинъ же Парменидѹ ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -450,
-        "reference": "IX.29"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Kada su ga vređali, Zenon se razgnevio. Pošto ga je neko zbog toga ukorio, odgovorio je: ‘Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.’",
-        "stsl": "Єгда хѹлѧахѹ єго · Зенонъ разгнѣва сѧ · Єгда же нѣкыи сего ради ѹкори єго · отвѣща · Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -440,
-        "reference": "IX.29"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Zenon je skovao zaveru da obori tiranina Nearha, ili prema drugima Diomedonta, ali je uhvaćen. Ispitivan o saučesnicima i oružju koje je nosio na Liparu, naveo je sve tiraninove prijatelje kako bi ga ostavio bez pristalica. Zatim se pretvarao da želi da mu poveri tajnu, uhvatio ga zubima za uho i nije ga pustio dok nije ubijen; prema drugoj verziji, odgrizao mu je nos.",
-        "stsl": "Зенонъ ѹмысли низложити мѫчителꙗ Неарха · по инѣхъ же Диомедонта · нъ ѧтъ бысть · Испытованъ о съѹмысльницѣхъ и оружии · єже въ Липарѹ ношаше · вьсѣхъ дрѹговъ мѫчителевыхъ имѧнова · да єго безъ помоштьникъ оставитъ · Таже ꙗко таинѹ ємѹ повѣдати хотѧ · ѹхо єго зѹбы ꙗтъ и не пѹсти · дондеже ѹбиєнъ бысть · по иномѹ же сказанию носъ ємѹ отъгрꙑзе ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -430,
-        "reference": "IX.26–27"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prema Antistenu, kada ga je tiranin upitao ima li još zaverenika, Zenon je odgovorio: ‘Da, ti — prokletstvo grada!’ Potom je okupljenima prekorio kukavičluk, odgrizao vlastiti jezik i ispljunuo ga na tiranina. Građani su se tada ohrabrili i kamenovali tiranina.",
-        "stsl": "По Антисфенѹ · єгда мѫчитель вопроси єго · аще инъ съѹмысльникъ єсть · Зенонъ отвѣща · Ты · проклѧтиє града · Таже предъстоѧштимъ малодѹшиє ихъ обличи · свои ѩзыкъ отъгрꙑзе и на мѫчителꙗ изплева · Граждане же тогда възмогоша и мѫчителꙗ камениемъ побиша ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -430,
-        "reference": "IX.27"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prema Hermipu, Zenon je bačen u stupu i nasmrt istucan.",
-        "stsl": "По Хермиппѹ Зенонъ въ стѹпѹ въвръженъ и до смрьти истълченъ бысть ·",
-        "author": "Zenon iz Eleje",
-        "source": "diogenes-laertius",
-        "year": -430,
-        "reference": "IX.27"
-    }
+  {
+    "type": "bio",
+    "year": -490,
+    "sr": "Rođen u Eleji.",
+    "stsl": "Rождєнъ въ Єлєи.",
+    "el": "Ἐλεάτης.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.25"
+  },
+  {
+    "type": "quote",
+    "sr": "Hesiod je prvi nazvao nebo vaseljenom i zemlju kuglastom.",
+    "stsl": "Хесиодъ пьрвъ небо васєленою нарече · и землѭ крѹглообразнѹ ·",
+    "el": "ὡς δὲ Ζήνων, Ἡσίοδον τὸν οὐρανὸν πρῶτον ὀνομάσαι κόσμον καὶ τὴν γῆν στρογγύλην.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "VIII.48"
+  },
+  {
+    "type": "quote",
+    "sr": "Biće je jedno.",
+    "stsl": "Сѫщее єдино єсть ·",
+    "el": "τῆς περὶ τοῦ ἑνὸς δόξης τῶν περὶ Παρμενίδην καὶ Ζήνωνα.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.42"
+  },
+  {
+    "type": "quote",
+    "sr": "Da, ti — prokletstvo grada!",
+    "stsl": "Ты · проклѧтиє града ·",
+    "el": "σὺ ὁ τῆς πόλεως ἀλιτήριος.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.27"
+  },
+  {
+    "type": "quote",
+    "sr": "Čudim se vašem kukavičluku: zbog straha od onoga što ja sada trpim robujete tiraninu.",
+    "stsl": "Дивлѭ сѧ вашемѹ малодѹшию · страха ради отъ сихъ · ꙗже азъ нынѣ тьрплѭ · мѫчителю рабьствѹєте ·",
+    "el": "θαυμάζω ὑμῶν τὴν δειλίαν, εἰ τούτων ἕνεκεν ὧν νῦν ἐγὼ ὑπομένω, δουλεύετε τῷ τυράννῳ.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.27"
+  },
+  {
+    "type": "quote",
+    "sr": "Postoje svetovi, ali nema praznog prostora.",
+    "stsl": "Мири сѫть · нъ праздьна мѣста нѣсть ·",
+    "el": "κόσμους εἶναι κενόν τε μὴ εἶναι.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.29"
+  },
+  {
+    "type": "quote",
+    "sr": "Priroda svih stvari nastala je od toplog i hladnog, suvog i vlažnog, koji se menjaju jedno u drugo.",
+    "stsl": "Єстество вьсѣхъ отъ тепла и стѹдени · сѹхоты и влаги бысть · си же єдино въ дрѹгоє прѣмѣнѧютсѧ ·",
+    "el": "γεγενῆσθαι δὲ τὴν τῶν πάντων φύσιν ἐκ θερμοῦ καὶ ψυχροῦ καὶ ξηροῦ καὶ ὑγροῦ, λαμβανόντων αὐτῶν εἰς ἄλληλα τὴν μεταβολήν.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.29"
+  },
+  {
+    "type": "quote",
+    "sr": "Nastanak ljudi potiče od zemlje.",
+    "stsl": "Бытие чловѣкъ отъ землѧ єсть ·",
+    "el": "γένεσίν τε ἀνθρώπων ἐκ γῆς εἶναι.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.29"
+  },
+  {
+    "type": "quote",
+    "sr": "Duša je smeša toplog i hladnog, suvog i vlažnog, sjedinjena tako da nijedan sastojak ne preovlađuje.",
+    "stsl": "Дѹша съмѣшение тепла и стѹдени · сѹхоты и влаги єсть · тако съединеныхъ · ꙗко ни єдино отъ сихъ надъ иными не владѣєть ·",
+    "el": "ψυχὴν κρᾶμα ὑπάρχειν ἐκ τῶν προειρημένων κατὰ μηδενὸς τούτων ἐπικράτησιν.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.29"
+  },
+  {
+    "type": "quote",
+    "sr": "Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.",
+    "stsl": "Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
+    "el": "ἐὰν μὴ λοιδορούμενος προσποιῶμαι, οὐδ' ἐπαινούμενος αἰσθήσομαι.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.29"
+  },
+  {
+    "type": "quote",
+    "sr": "Ono što se kreće ne kreće se ni u mestu u kojem jeste, ni u mestu u kojem nije.",
+    "stsl": "Движѹщеє сѧ не движеть сѧ ни въ мѣстѣ · въ немьже єсть · ни въ немьже нѣсть ·",
+    "el": "τὸ κινούμενον οὔτ' ἐν ᾧ ἐστι τόπῳ κινεῖται οὔτ' ἐν ᾧ μὴ ἔστιν.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.72"
+  },
+  {
+    "type": "bio",
+    "sr": "Zenon je bio Parmenidov učenik, usvojeni sin i prisni miljenik.",
+    "stsl": "Зенонъ бѣ ѹченикъ Парменида · приєтыи сынъ и възлюбленыи єго ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -490,
+    "reference": "IX.25"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Prema jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
+    "stsl": "По єдиномѹ прѣданию Зенонъ пьрвъ писа бесѣды вопроса и отвѣта · Аристотель же пьрвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -480,
+    "reference": "III.48"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Aristotel je Zenona smatrao pronalazačem dijalektike, veštine raspravljanja pitanjima i odgovorima.",
+    "stsl": "Аристотель мьнѧаше Зенона изобрѣтателемъ вопросоотвѣтьнаго хѹдожьства прѣниꙗ ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -470,
+    "reference": "IX.25"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Zenon je skromnu Eleju pretpostavio sjaju Atine: Atinjane je jedva posećivao i čitav život proveo u domovini.",
+    "stsl": "Зенонъ малѹю Елею паче славы Атиньскыѧ възлюби · Атинѧнъ єдва посѣщааше и вьсь животъ въ отечьствѣ прѣбысть ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -460,
+    "reference": "IX.28"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Diogen Zenonu pripisuje prvo izlaganje dokaza poznatog kao ‘Ahilej i kornjača’, dok ga Favorin pripisuje Parmenidu.",
+    "stsl": "Диогенъ Зенонѹ приписѹєть пьрвоє изложеніє довода · нарицаємаго Ахиллеи и желвь · Фаворинъ же Парменидѹ ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -450,
+    "reference": "IX.29"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada su ga vređali, Zenon se razgnevio. Pošto ga je neko zbog toga ukorio, odgovorio je: ‘Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.’",
+    "stsl": "Єгда хѹлѧахѹ єго · Зенонъ разгнѣва сѧ · Єгда же нѣкыи сего ради ѹкори єго · отвѣща · Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -440,
+    "reference": "IX.29"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Zenon je skovao zaveru da obori tiranina Nearha, ili prema drugima Diomedonta, ali je uhvaćen. Ispitivan o saučesnicima i oružju koje je nosio na Liparu, naveo je sve tiraninove prijatelje kako bi ga ostavio bez pristalica. Zatim se pretvarao da želi da mu poveri tajnu, uhvatio ga zubima za uho i nije ga pustio dok nije ubijen; prema drugoj verziji, odgrizao mu je nos.",
+    "stsl": "Зенонъ ѹмысли низложити мѫчителꙗ Неарха · по инѣхъ же Диомедонта · нъ ѧтъ бысть · Испытованъ о съѹмысльницѣхъ и оружии · єже въ Липарѹ ношаше · вьсѣхъ дрѹговъ мѫчителевыхъ имѧнова · да єго безъ помоштьникъ оставитъ · Таже ꙗко таинѹ ємѹ повѣдати хотѧ · ѹхо єго зѹбы ꙗтъ и не пѹсти · дондеже ѹбиєнъ бысть · по иномѹ же сказанию носъ ємѹ отъгрꙑзе ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -430,
+    "reference": "IX.26–27"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Prema Antistenu, kada ga je tiranin upitao ima li još zaverenika, Zenon je odgovorio: ‘Da, ti — prokletstvo grada!’ Potom je okupljenima prekorio kukavičluk, odgrizao vlastiti jezik i ispljunuo ga na tiranina. Građani su se tada ohrabrili i kamenovali tiranina.",
+    "stsl": "По Антисфенѹ · єгда мѫчитель вопроси єго · аще инъ съѹмысльникъ єсть · Зенонъ отвѣща · Ты · проклѧтиє града · Таже предъстоѧштимъ малодѹшиє ихъ обличи · свои ѩзыкъ отъгрꙑзе и на мѫчителꙗ изплева · Граждане же тогда възмогоша и мѫчителꙗ камениемъ побиша ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -430,
+    "reference": "IX.27"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Prema Hermipu, Zenon je bačen u stupu i nasmrt istucan.",
+    "stsl": "По Хермиппѹ Зенонъ въ стѹпѹ въвръженъ и до смрьти истълченъ бысть ·",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "year": -430,
+    "reference": "IX.27"
+  }
 ]

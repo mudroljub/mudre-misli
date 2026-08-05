@@ -1,260 +1,270 @@
 [
-    {
-        "type": "quote",
-        "sr": "Sve stvari behu zajedno; zatim dođe Um i uredi ih.",
-        "stsl": "Вьсѧ вешти въкѹпѣ бѣахѹ · таже прииде ѹмъ и ѩ ѹстрои ·",
-        "el": "Πάντα χρήματα ἦν ὁμοῦ· εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.6"
-    },
-    {
-        "type": "quote",
-        "sr": "Zašto se onda vi ne starate o njemu?",
-        "stsl": "Что же вы не печете сѧ о немь ·",
-        "el": "Τί οὖν οὐχ ὑμεῖς ἐπιμελεῖσθε;",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.7"
-    },
-    {
-        "type": "quote",
-        "sr": "Ne govori tako; veoma se staram za svoju otadžbinu.",
-        "stsl": "Не глаголи тако · зѣло бо пекѫ сѧ о отечьствѣ моємь ·",
-        "el": "Εὐφήμει· ἐμοὶ γὰρ καὶ σφόδρα μέλει τῆς πατρίδος.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.7"
-    },
-    {
-        "type": "quote",
-        "sr": "Sunce je usijana metalna masa, veća od Peloponeza; na Mesecu postoje prebivališta, brda i jaruge.",
-        "stsl": "Слъньце єсть разжьжена мѣдѣна глыба · вѧшти Пелопонниса · на мѣсѧци же жилишта · хълми и пропасти сѫть ·",
-        "el": "τὸν ἥλιον μύδρον εἶναι διάπυρον καὶ μείζω τῆς Πελοποννήσου· τὴν δὲ σελήνην οἰκήσεις ἔχειν, ἀλλὰ καὶ λόφους καὶ φάραγγας.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.8"
-    },
-    {
-        "type": "quote",
-        "sr": "Počela su istovrsne čestice: kao što je zlato sastavljeno od sitnih zrnaca zlatnog praha, tako je čitava vaseljena sastavljena od sićušnih tela čiji su delovi međusobno istovrsni.",
-        "stsl": "Начѧла сѫть єдинородьныѩ чѧсти · ꙗкоже злато отъ малыхъ зрьнъ златаго праха съставлєно єсть · тако и вьсѧ васєлена отъ малѣишихъ тѣлъ · ихъже чѧсти междѹ собою єдинородьны сѫть · съставлєна єсть ·",
-        "el": "Ἀρχὰς δὲ τὰς ὁμοιομερείας· καθάπερ γὰρ ἐκ τῶν ψηγμάτων λεγομένων τὸν χρυσὸν συνεστάναι, οὕτως ἐκ τῶν ὁμοιομερῶν μικρῶν σωμάτων τὸ πᾶν συγκεκρίσθαι.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.8"
-    },
-    {
-        "type": "quote",
-        "sr": "Um je počelo kretanja. Od tela teška, poput zemlje, zauzimaju donje mesto, a laka, poput ognja, gornje; voda i vazduh nalaze se između. More se sleže nad ravnom zemljom kada Sunce ispari vlagu.",
-        "stsl": "Умъ єсть начѧло движениꙗ · Отъ тѣлъ тѧжька · ꙗкоже землѧ · долънеє мѣсто дръже · легъка же · ꙗкоже огнь · горьнеє · вода и въздѹхъ посредѣ сѫть · Море надъ равною землею осѣдаєть · єгда слъньце влагѹ испарить ·",
-        "el": "Καὶ νοῦν μὲν ἀρχὴν κινήσεως· τῶν δὲ σωμάτων τὰ μὲν βαρέα τὸν κάτω τόπον ὡς τὴν γῆν, τὰ δὲ κοῦφα τὸν ἄνω ἐπισχεῖν ὡς τὸ πῦρ· ὕδωρ δὲ καὶ ἀέρα τὸν μέσον. Οὕτω γὰρ ἐπὶ τῆς γῆς πλατείας οὔσης τὴν θάλασσαν ὑποστῆναι, διατμισθέντων ὑπὸ τοῦ ἡλίου τῶν ὑγρῶν.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.8"
-    },
-    {
-        "type": "quote",
-        "sr": "Zvezde su se isprva kretale po nebu kao po obrtnoj kupoli, tako da je stalno vidljivi pol bio nad vrhom Zemlje; kasnije se pol nagnuo. Mlečni put je odsjaj svetlosti zvezda koje Sunce ne obasjava.",
-        "stsl": "Звѣзды искони по небеси ꙗко по обраштаємѣи банѣ движахѹ сѧ · тако ꙗко присно видимыи полъ надъ връхомъ землѧ бѣ · послѣди же полъ наклони сѧ · Млѣчьнаѧ стьзѧ єсть отраженіє свѣта звѣздъ · ѩже слъньце не освѣштаєть ·",
-        "el": "Τὰ δ' ἄστρα κατ' ἀρχὰς μὲν θολοειδῶς ἐνεχθῆναι, ὥστε κατὰ κορυφὴν τῆς γῆς τὸν ἀεὶ φαινόμενον εἶναι πόλον, ὕστερον δὲ τὴν ἔγκλισιν λαβεῖν. Καὶ τὸν γαλαξίαν ἀνάκλασιν εἶναι φωτὸς τῶν ὑπὸ ἡλίου μὴ καταλαμπομένων ἄστρων.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.9"
-    },
-    {
-        "type": "quote",
-        "sr": "Komete su sastanci planeta koje ispuštaju plamen, a zvezde padalice su iskre izbačene iz vazduha.",
-        "stsl": "Власатицы сѫть събраниꙗ блѫдьныхъ звѣздъ · пламы испѹштаѭштихъ · падаѭшти же звѣзды сѫть искры отъ въздѹха извръжены ·",
-        "el": "Τοὺς δὲ κομήτας σύνοδον πλανητῶν φλόγας ἀφιέντων· τούς τε διᾴττοντας οἷον σπινθῆρας ἀπὸ τοῦ ἀέρος ἀποπάλλεσθαι.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.9"
-    },
-    {
-        "type": "quote",
-        "sr": "Vetrovi nastaju kada Sunčeva toplota razredi vazduh; grom je sudaranje oblaka, munja njihovo silovito trenje, a zemljotres poniranje vazduha u zemlju.",
-        "stsl": "Вѣтри бываѭть · єгда слъньчьна теплота въздѹхъ разрѣдить · громъ єсть съраженіє облакъ · мълниꙗ силъноє трьніє ихъ · трѫсъ же погрѫженіє въздѹха въ землѭ ·",
-        "el": "Ἀνέμους γίγνεσθαι λεπτυνομένου τοῦ ἀέρος ὑπὸ τοῦ ἡλίου. Βροντὰς σύγκρουσιν νεφῶν· ἀστραπὰς ἔκτριψιν νεφῶν· σεισμὸν ὑπονόστησιν ἀέρος εἰς γῆν.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.9"
-    },
-    {
-        "type": "quote",
-        "sr": "Životinje su nastale iz vlage, toplote i zemljane tvari, a potom su se vrste rađale jedna od druge; mužjaci nastaju s desne, a ženke s leve strane.",
-        "stsl": "Животнаѧ быша отъ влаги · теплоты и земьнаго вещества · таже родове єдинъ отъ дрѹгаго раждаахѹ сѧ · мѫжьскыи отъ десныѩ · женьскыи же отъ лѣвыѩ страны бываѭть ·",
-        "el": "Ζῷα γίνεσθαι ἐξ ὑγροῦ καὶ θερμοῦ καὶ γεώδους, ὕστερον δὲ ἐξ ἀλλήλων· καὶ ἄρρενα μὲν ἀπὸ τῶν δεξιῶν, θήλεα δὲ ἀπὸ τῶν ἀριστερῶν.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.9"
-    },
-    {
-        "type": "quote",
-        "sr": "Da — samo ako ne ponestane vremena.",
-        "stsl": "Да · аще тъкмо врѣмене не лишить ·",
-        "el": "Εάν γε ὁ χρόνος μὴ ἐπιλίπῃ.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.10"
-    },
-    {
-        "type": "quote",
-        "sr": "Rodio sam se radi posmatranja Sunca, Meseca i neba.",
-        "stsl": "Родихъ сѧ ради съзерцаниꙗ слъньца · мѣсѧца и небесе ·",
-        "el": "Εἰς θεωρίαν ἡλίου καὶ σελήνης καὶ οὐρανοῦ.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.10"
-    },
-    {
-        "type": "quote",
-        "sr": "Nisam ja ostao bez Atinjana, nego oni bez mene.",
-        "stsl": "Не азъ Атинѧнъ лишихъ сѧ · нъ они мене ·",
-        "el": "Οὐ μὲν οὖν, ἀλλ' ἐκεῖνοι ἐμοῦ.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.10"
-    },
-    {
-        "type": "quote",
-        "sr": "Raskošna grobnica je slika imanja pretvorenog u kamen.",
-        "stsl": "Драгоцѣньныи гробъ єсть образъ имѣниꙗ въ камень прѣтворенаго ·",
-        "el": "Τάφος πολυτελὴς λελιθωμένης ἐστὶν οὐσίας εἴδωλον.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.10"
-    },
-    {
-        "type": "quote",
-        "sr": "Silazak u Ad isti je sa svakog polazišta.",
-        "stsl": "Съ вьсѣхъ мѣстъ съходъ въ Адъ тожде єсть ·",
-        "el": "Πανταχόθεν ὁμοία ἐστὶν ἡ εἰς ᾅδου κατάβασις.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.11"
-    },
-    {
-        "type": "quote",
-        "sr": "Homerova poezija govori o vrlini i pravdi.",
-        "stsl": "Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть ·",
-        "el": "τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.11"
-    },
-    {
-        "type": "quote",
-        "sr": "Čitav nebeski svod sastavljen je od kamenja; drži ga silina kružnog kretanja, a kada bi ona popustila, svod bi pao.",
-        "stsl": "Вьсѧ небесьна тврьдь отъ камениꙗ съставлєна єсть · дръжить ѭ сила крѫжьнаго движениꙗ · и аще бы ослабѣла · тврьдь пала бы ·",
-        "el": "ὅλος ὁ οὐρανὸς ἐκ λίθων συγκέοιτο· τῇ σφοδρᾷ δὲ περιδινήσει συνεστάναι καὶ ἀνεθέντα κατενεχθήσεσθαι.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.12"
-    },
-    {
-        "type": "quote",
-        "sr": "Priroda je odavno osudila na smrt i moje sudije i mene.",
-        "stsl": "Єстество издавьна и сѫдиѩ моѩ и мене на смрьть осѫди ·",
-        "el": "Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.13"
-    },
-    {
-        "type": "quote",
-        "sr": "Znao sam da sam svoju decu rodio smrtnu.",
-        "stsl": "Вѣдѣхъ · ꙗко дѣти своѩ смрьтны родихъ ·",
-        "el": "Ἤδειν αὐτοὺς θνητοὺς γεννήσας.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.13"
-    },
-    {
-        "type": "quote",
-        "sr": "Dopustite dečacima da se svake godine igraju u mesecu u kojem umrem.",
-        "stsl": "Повелите отрокомъ на всѧко лѣто играти въ мѣсѧци · въ немьже ѹмрѫ ·",
-        "el": "Τοὺς παῖδας ἐν ᾧ ἂν ἀποθάνῃ μηνὶ κατ' ἔτος παίζειν συγχωρεῖν.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "reference": "II.14"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Anaksagora je preneo proučavanje prirode iz Jonije u Atinu. Među njegove učenike i sledbenike ubrajani su Perikle, Arhelaj, Euripid i, prema nekim predanjima, Sokrat.",
-        "stsl": "Анаксагора испытание єстества отъ Ионии въ Атины прѣнесе · Междѹ ѹченики и послѣдователи єго причитаахѹ Периклеса · Архелаꙗ · Еврипида и · по нѣкоторымъ прѣданиемъ · Сократа ·",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "year": -500,
-        "reference": "II.12"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Anaksagora je svoje veliko nasledstvo prepustio rođacima i povukao se iz javnog života da bi istraživao prirodu. Kada su ga optužili da zanemaruje imanje, odgovorio je: ‘Zašto se onda vi ne starate o njemu?’ Na pitanje zar se ne stara o otadžbini, pokazao je prema nebu.",
-        "stsl": "Анаксагора велико наслѣдиє своє сродникомъ остави и отъ общаго живота отъстѫпи · да єстество испытѹєть · Єгда єго обвиниша · ꙗко имѣніє небрежеть · отвѣща · Что же вы не печете сѧ о немь · Въпрошенъ · аще о отечьствѣ не печеть сѧ · на небо показа ·",
-        "el": "Οὗτος εὐγενείᾳ καὶ πλούτῳ διαφέρων ἦν, ἀλλὰ καὶ μεγαλοφροσύνῃ, ὅς γε τὰ πατρῷα τοῖς οἰκείοις παρεχώρησε. Αἰτιαθεὶς γὰρ ὑπ’ αὐτῶν ὡς ἀμελῶν, « Τί οὖν, » ἔφη, « οὐχ ὑμεῖς ἐπιμελεῖσθε; » Καὶ τέλος ἀπέστη καὶ περὶ τὴν τῶν φυσικῶν θεωρίαν ἦν, οὐ φροντίζων τῶν πολιτικῶν. Ὅτε καὶ πρὸς τὸν εἰπόντα, « Οὐδέν σοι μέλει τῆς πατρίδος; », « Εὐφήμει, » ἔφη, « ἐμοὶ γὰρ καὶ σφόδρα μέλει τῆς πατρίδος, » Δείξας τὸν οὐρανόν.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "year": -486,
-        "reference": "II.7"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Pošto je učenju dao Um kao počelo koje uređuje tvar, Anaksagora je i sam dobio nadimak ‘Um’.",
-        "stsl": "Понеже въ ѹчєнии ѹмъ начѧломъ · вештество ѹстроѧѭштимъ · положи · и самъ Анаксагора прозваніє Умъ приѧтъ ·",
-        "el": "Οὗτος ἤκουσεν Ἀναξιμένους, καὶ πρῶτος τῇ ὕλῃ νοῦν ἐπέστησεν, ἀρξάμενος οὕτω τοῦ συγγράμματος, ὅ ἐστιν ἡδέως καὶ μεγαλοφρόνως ἡρμηνευμένον· « Πάντα χρήματα ἦν ὁμοῦ· » εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε. Παρὸ καὶ Νοῦς ἐπεκλήθη.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "year": -471,
-        "reference": "II.6"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Anaksagora je prvi tvrdio da Homerova poezija govori o vrlini i pravdi, a njegov prijatelj Metrodor iz Lampsaka dalje je razvio takvo tumačenje. Pripisuje mu se i prvo objavljivanje knjige sa crtežima.",
-        "stsl": "Анаксагора пьрвъ ѹтврьди · ꙗко Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть · дрѹгъ же єго Метродоръ Лампсакьскыи таково тълкованіє далѣє разви · Ємѹ же и пьрвоє изданіє книгы съ начрътании приписѹєть сѧ ·",
-        "el": "Δοκεῖ δὲ πρῶτος, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης· ἐπὶ πλεῖον δὲ προστῆναι τοῦ λόγου Μητρόδωρον τὸν Λαμψακηνόν, γνώριμον ὄντα αὐτοῦ, ὃν καὶ πρῶτον σπουδάσαι τοῦ ποιητοῦ περὶ τὴν φυσικὴν πραγματείαν. Πρῶτος δὲ Ἀναξαγόρας καὶ βιβλίον ἐξέδωκε συγγραφῆς.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "year": -457,
-        "reference": "II.11"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Anaksagori se pripisivalo da je predvideo pad meteorskog kamena kod Egospotama, tvrdeći da će pasti sa Sunca. Kada je došao na Olimpiju, seo je ogrnut ovčjom kožom kao da očekuje kišu; ubrzo je zaista pala.",
-        "stsl": "Анаксагорѣ приписѹєть сѧ · ꙗко паденіє небесьнаго камене при Егоспотамѣ прорече · глаголѧ · ꙗко отъ слъньца падеть · Єгда же въ Олимпиѭ прииде · овьчею кожею обложенъ сѣде · ꙗко дъжда чаѧ · въскорѣ же дъждь истиньно паде ·",
-        "el": "Φασὶ δ' αὐτὸν προειπεῖν τὴν περὶ Αἰγὸς ποταμοὺς γενομένην τοῦ λίθου πτῶσιν, ὃν εἶπεν ἐκ τοῦ ἡλίου πεσεῖσθαι. Ὅθεν καὶ Εὐριπίδην, μαθητὴν ὄντα αὐτοῦ, χρυσέαν βῶλον εἰπεῖν τὸν ἥλιον ἐν τῷ Φαέθοντι. Ἀλλὰ καὶ εἰς Ὀλυμπίαν ἐλθόντα ἐν δερματίνῳ καθίσαι, ὡς μέλλοντος ὕσειν· καὶ γενέσθαι.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "year": -442,
-        "reference": "II.10"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Anaksagora je izveden pred sud zbog bezbožnosti jer je Sunce nazivao usijanom metalnom masom; prema nekim izvorima optužen je i za naklonost Persiji. Perikle ga je branio. Predanja se razilaze: po jednima je kažnjen i prognan, po drugima osuđen na smrt pa oslobođen, a prema Hermipu nakon oslobađanja nije podneo poniženje i oduzeo je sebi život.",
-        "stsl": "Анаксагора предъ сѫдъ изведенъ бысть ради безбожиꙗ · зане слъньце разжьженою мѣдѣною глыбою нарицаше · по нѣкоторымъ же и ради приꙗзни къ Персомъ обвиненъ бысть · Периклесъ защищааше єго · Прѣданиꙗ разногласа сѫть · по єдинѣхъ осѫжденъ и изгнанъ бысть · по дрѹзѣхъ на смрьть осѫжденъ · таже отпѹштенъ · по Хермиппѹ же по отпѹштении срама не прѣтръпѣ и самъ животъ свои сконча ·",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "year": -428,
-        "reference": "II.12–14"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Kada su mu istovremeno javili da je osuđen i da su mu sinovi umrli, Anaksagora je smireno odgovorio da je priroda odavno osudila na smrt i sudije i njega, a da je znao kako su mu deca rođena smrtna. Svoje sinove sahranio je vlastitim rukama.",
-        "stsl": "Єгда ємѹ въкѹпѣ възвѣстиша · ꙗко осѫжденъ єсть и сынове єго ѹмрѣша · Анаксагора тихо отвѣща · ꙗко єстество издавьна и сѫдиѩ и єго на смрьть осѫди · и ꙗко вѣдѣаше дѣти своѩ смрьтны рождены · Своима рѫкама сыны своѩ погребе ·",
-        "el": "Ὅτε καὶ ἀμφοτέρων αὐτῷ προσαγγελέντων, τῆς τε καταδίκης καὶ τῆς τῶν παίδων τελευτῆς, εἰπεῖν περὶ μὲν τῆς καταδίκης, ὅτι ἄρα « Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο, » περὶ δὲ τῶν παίδων, ὅτι « Ἤδειν αὐτοὺς θνητοὺς γεννήσας. » Τοῦτον δὲ καὶ θάψαι ταῖς ἰδίαις χερσὶν αὐτοὺς Δημήτριός φησίν ὁ Φαληρεὺς ἐν τῷ Περὶ γήρως.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "year": -428,
-        "reference": "II.13"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Pred smrt u Lampsaku gradski poglavari pitali su Anaksagoru šta želi da učine za njega. Zamolio je da se dečacima svake godine dopusti igra u mesecu njegove smrti. Lampsačani su taj običaj nastavili i posle njegove časne sahrane.",
-        "stsl": "Предъ смрьтию въ Лампсакѣ градьскыи начѧлници вопросиша Анаксагорѹ · што желаєть да сътворѧть ємѹ · Проси · да отрокомъ на всѧко лѣто играти позволѧть въ мѣсѧци смрьти єго · Лампсакѧне обычаи сии и по чьстьнѣмь погребении єго съхраниша ·",
-        "el": "Ὅτε καὶ τῶν ἀρχόντων τῆς πόλεως ἀξιούντων τί βούλεται αὐτῷ γενέσθαι, φάναι, « Τοὺς παῖδας ἐν ᾧ ἂν ἀποθάνῃ μηνὶ κατ' ἔτος παίζειν συγχωρεῖν. » Καὶ φυλάττεται τὸ ἔθος καὶ νῦν.",
-        "author": "Anaksagora",
-        "source": "diogenes-laertius",
-        "year": -428,
-        "reference": "II.14–15"
-    }
+  {
+    "type": "bio",
+    "year": -500,
+    "sr": "Rođen u Klazomenama.",
+    "stsl": "Рождєнъ въ Клазоменахъ.",
+    "el": "Κλαζομένιος.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.6"
+  },
+  {
+    "type": "quote",
+    "sr": "Sve stvari behu zajedno; zatim dođe Um i uredi ih.",
+    "stsl": "Вьсѧ вешти въкѹпѣ бѣахѹ · таже прииде ѹмъ и ѩ ѹстрои ·",
+    "el": "Πάντα χρήματα ἦν ὁμοῦ· εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.6"
+  },
+  {
+    "type": "quote",
+    "sr": "Zašto se onda vi ne starate o njemu?",
+    "stsl": "Что же вы не печете сѧ о немь ·",
+    "el": "Τί οὖν οὐχ ὑμεῖς ἐπιμελεῖσθε;",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.7"
+  },
+  {
+    "type": "quote",
+    "sr": "Ne govori tako; veoma se staram za svoju otadžbinu.",
+    "stsl": "Не глаголи тако · зѣло бо пекѫ сѧ о отечьствѣ моємь ·",
+    "el": "Εὐφήμει· ἐμοὶ γὰρ καὶ σφόδρα μέλει τῆς πατρίδος.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.7"
+  },
+  {
+    "type": "quote",
+    "sr": "Sunce je usijana metalna masa, veća od Peloponeza; na Mesecu postoje prebivališta, brda i jaruge.",
+    "stsl": "Слъньце єсть разжьжена мѣдѣна глыба · вѧшти Пелопонниса · на мѣсѧци же жилишта · хълми и пропасти сѫть ·",
+    "el": "τὸν ἥλιον μύδρον εἶναι διάπυρον καὶ μείζω τῆς Πελοποννήσου· τὴν δὲ σελήνην οἰκήσεις ἔχειν, ἀλλὰ καὶ λόφους καὶ φάραγγας.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.8"
+  },
+  {
+    "type": "quote",
+    "sr": "Počela su istovrsne čestice: kao što je zlato sastavljeno od sitnih zrnaca zlatnog praha, tako je čitava vaseljena sastavljena od sićušnih tela čiji su delovi međusobno istovrsni.",
+    "stsl": "Начѧла сѫть єдинородьныѩ чѧсти · ꙗкоже злато отъ малыхъ зрьнъ златаго праха съставлєно єсть · тако и вьсѧ васєлена отъ малѣишихъ тѣлъ · ихъже чѧсти междѹ собою єдинородьны сѫть · съставлєна єсть ·",
+    "el": "Ἀρχὰς δὲ τὰς ὁμοιομερείας· καθάπερ γὰρ ἐκ τῶν ψηγμάτων λεγομένων τὸν χρυσὸν συνεστάναι, οὕτως ἐκ τῶν ὁμοιομερῶν μικρῶν σωμάτων τὸ πᾶν συγκεκρίσθαι.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.8"
+  },
+  {
+    "type": "quote",
+    "sr": "Um je počelo kretanja. Od tela teška, poput zemlje, zauzimaju donje mesto, a laka, poput ognja, gornje; voda i vazduh nalaze se između. More se sleže nad ravnom zemljom kada Sunce ispari vlagu.",
+    "stsl": "Умъ єсть начѧло движениꙗ · Отъ тѣлъ тѧжька · ꙗкоже землѧ · долънеє мѣсто дръже · легъка же · ꙗкоже огнь · горьнеє · вода и въздѹхъ посредѣ сѫть · Море надъ равною землею осѣдаєть · єгда слъньце влагѹ испарить ·",
+    "el": "Καὶ νοῦν μὲν ἀρχὴν κινήσεως· τῶν δὲ σωμάτων τὰ μὲν βαρέα τὸν κάτω τόπον ὡς τὴν γῆν, τὰ δὲ κοῦφα τὸν ἄνω ἐπισχεῖν ὡς τὸ πῦρ· ὕδωρ δὲ καὶ ἀέρα τὸν μέσον. Οὕτω γὰρ ἐπὶ τῆς γῆς πλατείας οὔσης τὴν θάλασσαν ὑποστῆναι, διατμισθέντων ὑπὸ τοῦ ἡλίου τῶν ὑγρῶν.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.8"
+  },
+  {
+    "type": "quote",
+    "sr": "Zvezde su se isprva kretale po nebu kao po obrtnoj kupoli, tako da je stalno vidljivi pol bio nad vrhom Zemlje; kasnije se pol nagnuo. Mlečni put je odsjaj svetlosti zvezda koje Sunce ne obasjava.",
+    "stsl": "Звѣзды искони по небеси ꙗко по обраштаємѣи банѣ движахѹ сѧ · тако ꙗко присно видимыи полъ надъ връхомъ землѧ бѣ · послѣди же полъ наклони сѧ · Млѣчьнаѧ стьзѧ єсть отраженіє свѣта звѣздъ · ѩже слъньце не освѣштаєть ·",
+    "el": "Τὰ δ' ἄστρα κατ' ἀρχὰς μὲν θολοειδῶς ἐνεχθῆναι, ὥστε κατὰ κορυφὴν τῆς γῆς τὸν ἀεὶ φαινόμενον εἶναι πόλον, ὕστερον δὲ τὴν ἔγκλισιν λαβεῖν. Καὶ τὸν γαλαξίαν ἀνάκλασιν εἶναι φωτὸς τῶν ὑπὸ ἡλίου μὴ καταλαμπομένων ἄστρων.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.9"
+  },
+  {
+    "type": "quote",
+    "sr": "Komete su sastanci planeta koje ispuštaju plamen, a zvezde padalice su iskre izbačene iz vazduha.",
+    "stsl": "Власатицы сѫть събраниꙗ блѫдьныхъ звѣздъ · пламы испѹштаѭштихъ · падаѭшти же звѣзды сѫть искры отъ въздѹха извръжены ·",
+    "el": "Τοὺς δὲ κομήτας σύνοδον πλανητῶν φλόγας ἀφιέντων· τούς τε διᾴττοντας οἷον σπινθῆρας ἀπὸ τοῦ ἀέρος ἀποπάλλεσθαι.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.9"
+  },
+  {
+    "type": "quote",
+    "sr": "Vetrovi nastaju kada Sunčeva toplota razredi vazduh; grom je sudaranje oblaka, munja njihovo silovito trenje, a zemljotres poniranje vazduha u zemlju.",
+    "stsl": "Вѣтри бываѭть · єгда слъньчьна теплота въздѹхъ разрѣдить · громъ єсть съраженіє облакъ · мълниꙗ силъноє трьніє ихъ · трѫсъ же погрѫженіє въздѹха въ землѭ ·",
+    "el": "Ἀνέμους γίγνεσθαι λεπτυνομένου τοῦ ἀέρος ὑπὸ τοῦ ἡλίου. Βροντὰς σύγκρουσιν νεφῶν· ἀστραπὰς ἔκτριψιν νεφῶν· σεισμὸν ὑπονόστησιν ἀέρος εἰς γῆν.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.9"
+  },
+  {
+    "type": "quote",
+    "sr": "Životinje su nastale iz vlage, toplote i zemljane tvari, a potom su se vrste rađale jedna od druge; mužjaci nastaju s desne, a ženke s leve strane.",
+    "stsl": "Животнаѧ быша отъ влаги · теплоты и земьнаго вещества · таже родове єдинъ отъ дрѹгаго раждаахѹ сѧ · мѫжьскыи отъ десныѩ · женьскыи же отъ лѣвыѩ страны бываѭть ·",
+    "el": "Ζῷα γίνεσθαι ἐξ ὑγροῦ καὶ θερμοῦ καὶ γεώδους, ὕστερον δὲ ἐξ ἀλλήλων· καὶ ἄρρενα μὲν ἀπὸ τῶν δεξιῶν, θήλεα δὲ ἀπὸ τῶν ἀριστερῶν.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.9"
+  },
+  {
+    "type": "quote",
+    "sr": "Da — samo ako ne ponestane vremena.",
+    "stsl": "Да · аще тъкмо врѣмене не лишить ·",
+    "el": "Εάν γε ὁ χρόνος μὴ ἐπιλίπῃ.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.10"
+  },
+  {
+    "type": "quote",
+    "sr": "Rodio sam se radi posmatranja Sunca, Meseca i neba.",
+    "stsl": "Родихъ сѧ ради съзерцаниꙗ слъньца · мѣсѧца и небесе ·",
+    "el": "Εἰς θεωρίαν ἡλίου καὶ σελήνης καὶ οὐρανοῦ.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.10"
+  },
+  {
+    "type": "quote",
+    "sr": "Nisam ja ostao bez Atinjana, nego oni bez mene.",
+    "stsl": "Не азъ Атинѧнъ лишихъ сѧ · нъ они мене ·",
+    "el": "Οὐ μὲν οὖν, ἀλλ' ἐκεῖνοι ἐμοῦ.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.10"
+  },
+  {
+    "type": "quote",
+    "sr": "Raskošna grobnica je slika imanja pretvorenog u kamen.",
+    "stsl": "Драгоцѣньныи гробъ єсть образъ имѣниꙗ въ камень прѣтворенаго ·",
+    "el": "Τάφος πολυτελὴς λελιθωμένης ἐστὶν οὐσίας εἴδωλον.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.10"
+  },
+  {
+    "type": "quote",
+    "sr": "Silazak u Ad isti je sa svakog polazišta.",
+    "stsl": "Съ вьсѣхъ мѣстъ съходъ въ Адъ тожде єсть ·",
+    "el": "Πανταχόθεν ὁμοία ἐστὶν ἡ εἰς ᾅδου κατάβασις.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.11"
+  },
+  {
+    "type": "quote",
+    "sr": "Homerova poezija govori o vrlini i pravdi.",
+    "stsl": "Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть ·",
+    "el": "τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.11"
+  },
+  {
+    "type": "quote",
+    "sr": "Čitav nebeski svod sastavljen je od kamenja; drži ga silina kružnog kretanja, a kada bi ona popustila, svod bi pao.",
+    "stsl": "Вьсѧ небесьна тврьдь отъ камениꙗ съставлєна єсть · дръжить ѭ сила крѫжьнаго движениꙗ · и аще бы ослабѣла · тврьдь пала бы ·",
+    "el": "ὅλος ὁ οὐρανὸς ἐκ λίθων συγκέοιτο· τῇ σφοδρᾷ δὲ περιδινήσει συνεστάναι καὶ ἀνεθέντα κατενεχθήσεσθαι.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.12"
+  },
+  {
+    "type": "quote",
+    "sr": "Priroda je odavno osudila na smrt i moje sudije i mene.",
+    "stsl": "Єстество издавьна и сѫдиѩ моѩ и мене на смрьть осѫди ·",
+    "el": "Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.13"
+  },
+  {
+    "type": "quote",
+    "sr": "Znao sam da sam svoju decu rodio smrtnu.",
+    "stsl": "Вѣдѣхъ · ꙗко дѣти своѩ смрьтны родихъ ·",
+    "el": "Ἤδειν αὐτοὺς θνητοὺς γεννήσας.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.13"
+  },
+  {
+    "type": "quote",
+    "sr": "Dopustite dečacima da se svake godine igraju u mesecu u kojem umrem.",
+    "stsl": "Повелите отрокомъ на всѧко лѣто играти въ мѣсѧци · въ немьже ѹмрѫ ·",
+    "el": "Τοὺς παῖδας ἐν ᾧ ἂν ἀποθάνῃ μηνὶ κατ' ἔτος παίζειν συγχωρεῖν.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.14"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Anaksagora je preneo proučavanje prirode iz Jonije u Atinu. Među njegove učenike i sledbenike ubrajani su Perikle, Arhelaj, Euripid i, prema nekim predanjima, Sokrat.",
+    "stsl": "Анаксагора испытание єстества отъ Ионии въ Атины прѣнесе · Междѹ ѹченики и послѣдователи єго причитаахѹ Периклеса · Архелаꙗ · Еврипида и · по нѣкоторымъ прѣданиемъ · Сократа ·",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "year": -500,
+    "reference": "II.12"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Anaksagora je svoje veliko nasledstvo prepustio rođacima i povukao se iz javnog života da bi istraživao prirodu. Kada su ga optužili da zanemaruje imanje, odgovorio je: ‘Zašto se onda vi ne starate o njemu?’ Na pitanje zar se ne stara o otadžbini, pokazao je prema nebu.",
+    "stsl": "Анаксагора велико наслѣдиє своє сродникомъ остави и отъ общаго живота отъстѫпи · да єстество испытѹєть · Єгда єго обвиниша · ꙗко имѣніє небрежеть · отвѣща · Что же вы не печете сѧ о немь · Въпрошенъ · аще о отечьствѣ не печеть сѧ · на небо показа ·",
+    "el": "Οὗτος εὐγενείᾳ καὶ πλούτῳ διαφέρων ἦν, ἀλλὰ καὶ μεγαλοφροσύνῃ, ὅς γε τὰ πατρῷα τοῖς οἰκείοις παρεχώρησε. Αἰτιαθεὶς γὰρ ὑπ’ αὐτῶν ὡς ἀμελῶν, « Τί οὖν, » ἔφη, « οὐχ ὑμεῖς ἐπιμελεῖσθε; » Καὶ τέλος ἀπέστη καὶ περὶ τὴν τῶν φυσικῶν θεωρίαν ἦν, οὐ φροντίζων τῶν πολιτικῶν. Ὅτε καὶ πρὸς τὸν εἰπόντα, « Οὐδέν σοι μέλει τῆς πατρίδος; », « Εὐφήμει, » ἔφη, « ἐμοὶ γὰρ καὶ σφόδρα μέλει τῆς πατρίδος, » Δείξας τὸν οὐρανόν.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "year": -486,
+    "reference": "II.7"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Pošto je učenju dao Um kao počelo koje uređuje tvar, Anaksagora je i sam dobio nadimak ‘Um’.",
+    "stsl": "Понеже въ ѹчєнии ѹмъ начѧломъ · вештество ѹстроѧѭштимъ · положи · и самъ Анаксагора прозваніє Умъ приѧтъ ·",
+    "el": "Οὗτος ἤκουσεν Ἀναξιμένους, καὶ πρῶτος τῇ ὕλῃ νοῦν ἐπέστησεν, ἀρξάμενος οὕτω τοῦ συγγράμματος, ὅ ἐστιν ἡδέως καὶ μεγαλοφρόνως ἡρμηνευμένον· « Πάντα χρήματα ἦν ὁμοῦ· » εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε. Παρὸ καὶ Νοῦς ἐπεκλήθη.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "year": -471,
+    "reference": "II.6"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Anaksagora je prvi tvrdio da Homerova poezija govori o vrlini i pravdi, a njegov prijatelj Metrodor iz Lampsaka dalje je razvio takvo tumačenje. Pripisuje mu se i prvo objavljivanje knjige sa crtežima.",
+    "stsl": "Анаксагора пьрвъ ѹтврьди · ꙗко Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть · дрѹгъ же єго Метродоръ Лампсакьскыи таково тълкованіє далѣє разви · Ємѹ же и пьрвоє изданіє книгы съ начрътании приписѹєть сѧ ·",
+    "el": "Δοκεῖ δὲ πρῶτος, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης· ἐπὶ πλεῖον δὲ προστῆναι τοῦ λόγου Μητρόδωρον τὸν Λαμψακηνόν, γνώριμον ὄντα αὐτοῦ, ὃν καὶ πρῶτον σπουδάσαι τοῦ ποιητοῦ περὶ τὴν φυσικὴν πραγματείαν. Πρῶτος δὲ Ἀναξαγόρας καὶ βιβλίον ἐξέδωκε συγγραφῆς.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "year": -457,
+    "reference": "II.11"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Anaksagori se pripisivalo da je predvideo pad meteorskog kamena kod Egospotama, tvrdeći da će pasti sa Sunca. Kada je došao na Olimpiju, seo je ogrnut ovčjom kožom kao da očekuje kišu; ubrzo je zaista pala.",
+    "stsl": "Анаксагорѣ приписѹєть сѧ · ꙗко паденіє небесьнаго камене при Егоспотамѣ прорече · глаголѧ · ꙗко отъ слъньца падеть · Єгда же въ Олимпиѭ прииде · овьчею кожею обложенъ сѣде · ꙗко дъжда чаѧ · въскорѣ же дъждь истиньно паде ·",
+    "el": "Φασὶ δ' αὐτὸν προειπεῖν τὴν περὶ Αἰγὸς ποταμοὺς γενομένην τοῦ λίθου πτῶσιν, ὃν εἶπεν ἐκ τοῦ ἡλίου πεσεῖσθαι. Ὅθεν καὶ Εὐριπίδην, μαθητὴν ὄντα αὐτοῦ, χρυσέαν βῶλον εἰπεῖν τὸν ἥλιον ἐν τῷ Φαέθοντι. Ἀλλὰ καὶ εἰς Ὀλυμπίαν ἐλθόντα ἐν δερματίνῳ καθίσαι, ὡς μέλλοντος ὕσειν· καὶ γενέσθαι.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "year": -442,
+    "reference": "II.10"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Anaksagora je izveden pred sud zbog bezbožnosti jer je Sunce nazivao usijanom metalnom masom; prema nekim izvorima optužen je i za naklonost Persiji. Perikle ga je branio. Predanja se razilaze: po jednima je kažnjen i prognan, po drugima osuđen na smrt pa oslobođen, a prema Hermipu nakon oslobađanja nije podneo poniženje i oduzeo je sebi život.",
+    "stsl": "Анаксагора предъ сѫдъ изведенъ бысть ради безбожиꙗ · зане слъньце разжьженою мѣдѣною глыбою нарицаше · по нѣкоторымъ же и ради приꙗзни къ Персомъ обвиненъ бысть · Периклесъ защищааше єго · Прѣданиꙗ разногласа сѫть · по єдинѣхъ осѫжденъ и изгнанъ бысть · по дрѹзѣхъ на смрьть осѫжденъ · таже отпѹштенъ · по Хермиппѹ же по отпѹштении срама не прѣтръпѣ и самъ животъ свои сконча ·",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "year": -428,
+    "reference": "II.12–14"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada su mu istovremeno javili da je osuđen i da su mu sinovi umrli, Anaksagora je smireno odgovorio da je priroda odavno osudila na smrt i sudije i njega, a da je znao kako su mu deca rođena smrtna. Svoje sinove sahranio je vlastitim rukama.",
+    "stsl": "Єгда ємѹ въкѹпѣ възвѣстиша · ꙗко осѫжденъ єсть и сынове єго ѹмрѣша · Анаксагора тихо отвѣща · ꙗко єстество издавьна и сѫдиѩ и єго на смрьть осѫди · и ꙗко вѣдѣаше дѣти своѩ смрьтны рождены · Своима рѫкама сыны своѩ погребе ·",
+    "el": "Ὅτε καὶ ἀμφοτέρων αὐτῷ προσαγγελέντων, τῆς τε καταδίκης καὶ τῆς τῶν παίδων τελευτῆς, εἰπεῖν περὶ μὲν τῆς καταδίκης, ὅτι ἄρα « Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο, » περὶ δὲ τῶν παίδων, ὅτι « Ἤδειν αὐτοὺς θνητοὺς γεννήσας. » Τοῦτον δὲ καὶ θάψαι ταῖς ἰδίαις χερσὶν αὐτοὺς Δημήτριός φησίν ὁ Φαληρεὺς ἐν τῷ Περὶ γήρως.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "year": -428,
+    "reference": "II.13"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Pred smrt u Lampsaku gradski poglavari pitali su Anaksagoru šta želi da učine za njega. Zamolio je da se dečacima svake godine dopusti igra u mesecu njegove smrti. Lampsačani su taj običaj nastavili i posle njegove časne sahrane.",
+    "stsl": "Предъ смрьтию въ Лампсакѣ градьскыи начѧлници вопросиша Анаксагорѹ · што желаєть да сътворѧть ємѹ · Проси · да отрокомъ на всѧко лѣто играти позволѧть въ мѣсѧци смрьти єго · Лампсакѧне обычаи сии и по чьстьнѣмь погребении єго съхраниша ·",
+    "el": "Ὅτε καὶ τῶν ἀρχόντων τῆς πόλεως ἀξιούντων τί βούλεται αὐτῷ γενέσθαι, φάναι, « Τοὺς παῖδας ἐν ᾧ ἂν ἀποθάνῃ μηνὶ κατ' ἔτος παίζειν συγχωρεῖν. » Καὶ φυλάττεται τὸ ἔθος καὶ νῦν.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "year": -428,
+    "reference": "II.14–15"
+  }
 ]

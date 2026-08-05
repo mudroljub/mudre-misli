@@ -1,5 +1,15 @@
 [
   {
+    "type": "bio",
+    "year": -500,
+    "sr": "Rođen u Klazomenama.",
+    "stsl": "Рождєнъ въ Клазоменахъ.",
+    "el": "Κλαζομένιος.",
+    "author": "Anaksagora",
+    "source": "diogenes-laertius",
+    "reference": "II.6"
+  },
+  {
     "type": "quote",
     "sr": "Sve stvari behu zajedno; zatim dođe Um i uredi ih.",
     "stsl": "Вьсѧ вешти въкѹпѣ бѣахѹ · таже прииде ѹмъ и ѩ ѹстрои ·",
@@ -258,6 +268,16 @@
     "reference": "II.14–15"
   },
   {
+    "type": "bio",
+    "year": -610,
+    "sr": "Rođen u Miletu.",
+    "stsl": "Рождєнъ въ Милетѣ.",
+    "el": "Μιλήσιος.",
+    "author": "Anaksimander",
+    "source": "diogenes-laertius",
+    "reference": "II.1"
+  },
+  {
     "type": "quote",
     "sr": "Načelo i element bića jeste bezgranično.",
     "stsl": "Начѧло и пьрвосъставъ сѫщихъ єсть безмѣрьноє ·",
@@ -330,6 +350,16 @@
     "source": "diogenes-laertius",
     "year": -546,
     "reference": "II.2"
+  },
+  {
+    "type": "bio",
+    "year": -585,
+    "sr": "Rođen u Miletu.",
+    "stsl": "Рождєнъ въ Милетѣ.",
+    "el": "Μιλήσιος.",
+    "author": "Anaksimen",
+    "source": "diogenes-laertius",
+    "reference": "II.3"
   },
   {
     "type": "quote",
@@ -2259,6 +2289,16 @@
     "reference": "I.84"
   },
   {
+    "type": "bio",
+    "year": -460,
+    "sr": "Rođen u Abderi.",
+    "stsl": "Рождєнъ въ Абдєрѣ.",
+    "el": "Ἀβδηρίτης.",
+    "author": "Demokrit",
+    "source": "diogenes-laertius",
+    "reference": "IX.34"
+  },
+  {
     "type": "reported",
     "sr": "Demokrit je govorio da Anaksagorova mišljenja o Suncu i Mesecu nisu nova, nego drevna, i da ih je prisvojio.",
     "stsl": "Демокритъ глаголаше · ꙗко Анаксагорова мьнѣниꙗ о слъньци и лѹнѣ не нова · нъ дрѣвьнѧ сѫть · и ꙗко ꙗ присвои ·",
@@ -3011,6 +3051,16 @@
     "reference": "VI.75"
   },
   {
+    "type": "bio",
+    "year": -494,
+    "sr": "Rođen u Akragantu.",
+    "stsl": "Рождєнъ въ Акрагантѣ.",
+    "el": "Ἀκραγαντῖνος.",
+    "author": "Empedoklo",
+    "source": "diogenes-laertius",
+    "reference": "VIII.51"
+  },
+  {
     "type": "quote",
     "sr": "Među njima beše čovek izvanrednog znanja, koji je stekao najveće blago mudrosti.",
     "stsl": "Бѣ же въ нихъ мѫжь прѣизлиха вѣдꙑи · иже наивѧштеє богатъство мѫдрости стѧжа ·",
@@ -3348,6 +3398,16 @@
     "reference": "VIII.90–91"
   },
   {
+    "type": "bio",
+    "year": -535,
+    "sr": "Rođen u Efesu.",
+    "stsl": "Рождєнъ въ Єфєсѣ.",
+    "el": "Ἐφέσιος.",
+    "author": "Heraklit",
+    "source": "diogenes-laertius",
+    "reference": "IX.1"
+  },
+  {
     "type": "quote",
     "sr": "Mnogoznanje ne uči umu; inače bi naučilo Hesioda i Pitagoru, pa takođe Ksenofana i Hekateja.",
     "stsl": "Многовѣдѣніє не ѹчить ѹмѹ · инако бы наѹчило Хесиода и Питагораса · тако же Ксенофана и Хекатеꙗ ·",
@@ -3552,6 +3612,16 @@
     "source": "diogenes-laertius",
     "year": -475,
     "reference": "IX.3"
+  },
+  {
+    "type": "bio",
+    "year": -570,
+    "sr": "Rođen u Kolofonu.",
+    "stsl": "Рождєнъ въ Колофонѣ.",
+    "el": "Κολοφώνιος.",
+    "author": "Ksenofan",
+    "source": "diogenes-laertius",
+    "reference": "IX.18"
   },
   {
     "type": "quote",
@@ -3919,6 +3989,16 @@
     "reference": "IV.14"
   },
   {
+    "type": "bio",
+    "year": -480,
+    "sr": "Rođen u Eleji.",
+    "stsl": "Рождєнъ въ Єлєи.",
+    "el": "Ἐλεάτης.",
+    "author": "Leukip",
+    "source": "diogenes-laertius",
+    "reference": "IX.30"
+  },
+  {
     "type": "quote",
     "sr": "Sveukupnost je neograničena i sve se menja jedno u drugo. Ona se sastoji od punog i praznog, a atomi su prva načela.",
     "stsl": "Вьсецѣлоє безконьчно єсть · и вьсѧ єдина въ дрѹга прѣмѣнѧѭть сѧ · Отъ пълнаго и празднаго състоить · недѣлима же тѣлеса пьрва начѧла сѫть ·",
@@ -3998,6 +4078,16 @@
     "source": "diogenes-laertius",
     "year": -420,
     "reference": "IX.30"
+  },
+  {
+    "type": "bio",
+    "year": -515,
+    "sr": "Rođen u Eleji.",
+    "stsl": "Рождєнъ въ Єлєи.",
+    "el": "Ἐλεάτης.",
+    "author": "Parmenid",
+    "source": "diogenes-laertius",
+    "reference": "IX.21"
   },
   {
     "type": "quote",
@@ -4133,6 +4223,16 @@
     "author": "Parmenid",
     "source": "diogenes-laertius",
     "reference": "IX.23"
+  },
+  {
+    "type": "bio",
+    "year": -570,
+    "sr": "Rođen na Samosu.",
+    "stsl": "Рождєнъ на Самосѣ.",
+    "el": "Σάμιος.",
+    "author": "Pitagora",
+    "source": "diogenes-laertius",
+    "reference": "VIII.1"
   },
   {
     "type": "quote",
@@ -5840,6 +5940,16 @@
     "reference": "III.2–3"
   },
   {
+    "type": "bio",
+    "year": -490,
+    "sr": "Rođen u Abderi.",
+    "stsl": "Рождєнъ въ Абдєрѣ.",
+    "el": "Ἀβδηρίτης.",
+    "author": "Protagora",
+    "source": "diogenes-laertius",
+    "reference": "IX.50"
+  },
+  {
     "type": "quote",
     "sr": "O svakoj stvari postoje dva govora, suprotstavljena jedan drugome.",
     "stsl": "О всѧкои вешти два слова сѫть · єдино дрѹгомѹ противьна ·",
@@ -6522,6 +6632,16 @@
     "reference": "II.42–43"
   },
   {
+    "type": "bio",
+    "year": -624,
+    "sr": "Rođen u Miletu.",
+    "stsl": "Рождєнъ въ Милетѣ.",
+    "el": "Ἰθαγενὴς Μιλήσιος ἦν.",
+    "author": "Tales",
+    "source": "diogenes-laertius",
+    "reference": "I.22"
+  },
+  {
     "type": "anecdote",
     "sr": "Na pitanje zašto nema dece, odgovarao je da je to iz ljubavi prema deci; kada su ga nagovarali na ženidbu, najpre je rekao 'prerano je', a kasnije 'prekasno je'.",
     "stsl": "На въпросъ почто чѧдъ не имать · отвѣщааше ꙗко отъ любъве къ дѣтемъ · єгда же понѹждаахѫ и къ бракѹ · пьрвоє рече · прѣжде єсть · послѣди же · поздѣ єсть ·",
@@ -6934,6 +7054,16 @@
     "source": "diogenes-laertius",
     "year": -287,
     "reference": "V.41"
+  },
+  {
+    "type": "bio",
+    "year": -490,
+    "sr": "Rođen u Eleji.",
+    "stsl": "Rождєнъ въ Єлєи.",
+    "el": "Ἐλεάτης.",
+    "author": "Zenon iz Eleje",
+    "source": "diogenes-laertius",
+    "reference": "IX.25"
   },
   {
     "type": "quote",
