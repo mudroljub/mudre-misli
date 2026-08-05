@@ -35,7 +35,7 @@ export default function QuotePageClient({
 
           <blockquote>{getTextForLanguage(quote, language)}</blockquote>
 
-          <blockquote className={styles.originalQuote}>{quote.el}</blockquote>
+          <blockquote className={styles.originalQuote}>{quote.originalText}</blockquote>
 
           <p className={styles.sourceLine}>
             <b>{t.source}</b>: {getSourceName(quote.source, language)}, {quote.reference}

@@ -25,11 +25,11 @@ interface BaseEntry {
   /** Modern Serbian translation (required) */
   sr: string;
 
-  /** Old Church Slavonic translation (required) */
+  /** Old Slavic/Slavonic translation (required) */
   stsl: string;
 
-  /** Greek original (required) */
-  el: string;
+  /** Original text in Greek or Latin (required) */
+  originalText: string;
 
   /** Philosopher to whom the entry belongs */
   author: string;

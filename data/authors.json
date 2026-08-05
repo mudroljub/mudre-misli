@@ -5,7 +5,7 @@
     "died": -428,
     "sr": "Anaksagora",
     "stsl": "Анаѯагоръ",
-    "el": "Ἀναξαγόρας"
+    "originalText": "Ἀναξαγόρας"
   },
   "Protagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribera%20-%20Protagoras%2C%201637.jpg?width=160",
@@ -13,7 +13,7 @@
     "died": -420,
     "sr": "Protagora",
     "stsl": "Протагоръ",
-    "el": "Πρωταγόρας"
+    "originalText": "Πρωταγόρας"
   },
   "Leukip": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca%20Querini%20Stampalia%20-%20Leucippus%20-%20Luca%20Giordano.jpg?width=160",
@@ -21,7 +21,7 @@
     "died": -420,
     "sr": "Leukip",
     "stsl": "Леѹкипъ",
-    "el": "Λεύκιππος"
+    "originalText": "Λεύκιππος"
   },
   "Demokrit": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribera%20-%20Dem%C3%B3crito%2C%20P001121.jpg?width=320",
@@ -29,7 +29,7 @@
     "died": -370,
     "sr": "Demokrit",
     "stsl": "Демокритъ",
-    "el": "Δημόκριτος"
+    "originalText": "Δημόκριτος"
   },
   "Eudoks": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eudoxos%2C%20Sph%C3%A4renmodell.jpg?width=320",
@@ -37,7 +37,7 @@
     "died": -355,
     "sr": "Eudoks",
     "stsl": "Еѹдоѯъ",
-    "el": "Εὔδοξος"
+    "originalText": "Εὔδοξος"
   },
   "Aristotel": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_Altemps_Inv8575.jpg?width=160",
@@ -45,7 +45,7 @@
     "died": -322,
     "sr": "Aristotel",
     "stsl": "Аристотель",
-    "el": "Ἀριστοτέλης"
+    "originalText": "Ἀριστοτέλης"
   },
   "Teofrast": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Theophrastus.jpg?width=160",
@@ -53,7 +53,7 @@
     "died": -287,
     "sr": "Teofrast",
     "stsl": "Теофрастъ",
-    "el": "Θεόφραστος"
+    "originalText": "Θεόφραστος"
   },
   "Sokrat": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Socrates%20Louvre.jpg?width=320",
@@ -61,7 +61,7 @@
     "died": -399,
     "sr": "Sokrat",
     "stsl": "Сократъ",
-    "el": "Σωκράτης"
+    "originalText": "Σωκράτης"
   },
   "Ksenofont": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Xenophon.jpg?width=320",
@@ -69,7 +69,7 @@
     "died": -354,
     "sr": "Ksenofont",
     "stsl": "Ѯєнофонтъ",
-    "el": "Ξενοφῶν"
+    "originalText": "Ξενοφῶν"
   },
   "Aristip": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristippus%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=320",
@@ -77,7 +77,7 @@
     "died": -356,
     "sr": "Aristip",
     "stsl": "Аристипъ",
-    "el": "Ἀρίστιππος"
+    "originalText": "Ἀρίστιππος"
   },
   "Antisten": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Antisthenes%20%282459020131%29.jpg?width=320",
@@ -85,7 +85,7 @@
     "died": -366,
     "sr": "Antisten",
     "stsl": "Антисѳенъ",
-    "el": "Ἀντισθένης"
+    "originalText": "Ἀντισθένης"
   },
   "Diogen iz Sinope": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Diogenes%20-%20Walters%2037131.jpg?width=160",
@@ -93,7 +93,7 @@
     "died": -323,
     "sr": "Diogen iz Sinope",
     "stsl": "Диогенъ отъ Синопы",
-    "el": "Διογένης ὁ Σινωπεύς"
+    "originalText": "Διογένης ὁ Σινωπεύς"
   },
   "Platon": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plato%20Silanion%20Musei%20Capitolini%20MC1377.jpg?width=320",
@@ -101,7 +101,7 @@
     "died": -348,
     "sr": "Platon",
     "stsl": "Платонъ",
-    "el": "Πλάτων"
+    "originalText": "Πλάτων"
   },
   "Bijant": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bias_Pio-Clementino_Inv279.jpg?width=160",
@@ -109,7 +109,7 @@
     "died": -546,
     "sr": "Bijant",
     "stsl": "Биѩнтъ",
-    "el": "Βίας"
+    "originalText": "Βίας"
   },
   "Pitagora": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer_Pythagoras_adjusted.jpg?width=160",
@@ -117,7 +117,7 @@
     "died": -495,
     "sr": "Pitagora",
     "stsl": "Пиѳагоръ",
-    "el": "Πυθαγόρας"
+    "originalText": "Πυθαγόρας"
   },
   "Ksenofan": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenophanes%20in%20Thomas%20Stanley%20History%20of%20Philosophy.jpg?width=160",
@@ -125,7 +125,7 @@
     "died": -478,
     "sr": "Ksenofan",
     "stsl": "Ѯєнофанъ",
-    "el": "Ξενοφάνης"
+    "originalText": "Ξενοφάνης"
   },
   "Ksenokrat": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Xenocrates.jpg?width=160",
@@ -133,7 +133,7 @@
     "died": -314,
     "sr": "Ksenokrat",
     "stsl": "Ѯєнократъ",
-    "el": "Ξενοκράτης"
+    "originalText": "Ξενοκράτης"
   },
   "Parmenid": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Busto%20di%20Parmenide%20(cropped).jpg?width=160",
@@ -141,7 +141,7 @@
     "died": -450,
     "sr": "Parmenid",
     "stsl": "Парменидъ",
-    "el": "Παρμενίδης"
+    "originalText": "Παρμενίδης"
   },
   "Zenon iz Eleje": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Zeno%20van%20Elea%2C%20RP-P-OB-17.264.jpg?width=160",
@@ -149,7 +149,7 @@
     "died": -430,
     "sr": "Zenon iz Eleje",
     "stsl": "Зєнонъ отъ Єлеи",
-    "el": "Ζήνων ὁ Ἐλεάτης"
+    "originalText": "Ζήνων ὁ Ἐλεάτης"
   },
   "Empedoklo": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Empedocles.jpg?width=160",
@@ -157,7 +157,7 @@
     "died": -434,
     "sr": "Empedoklo",
     "stsl": "Емпєдоклъ",
-    "el": "Ἐμπεδοκλῆς"
+    "originalText": "Ἐμπεδοκλῆς"
   },
   "Heraklit": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Heraclitus_of_Ephesius._Wellcome_M0000762.jpg?width=160",
@@ -165,7 +165,7 @@
     "died": -475,
     "sr": "Heraklit",
     "stsl": "Хєраклитъ",
-    "el": "Ἡράκλειτος"
+    "originalText": "Ἡράκλειτος"
   },
   "Tales": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thales_of_Miletus.jpg?width=160",
@@ -173,7 +173,7 @@
     "died": -546,
     "sr": "Tales",
     "stsl": "Ѳалєсъ",
-    "el": "Θαλῆς"
+    "originalText": "Θαλῆς"
   },
   "Anaksimander": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximander.jpg?width=160",
@@ -181,7 +181,7 @@
     "died": -546,
     "sr": "Anaksimander",
     "stsl": "Анаѯимандръ",
-    "el": "Ἀναξίμανδρος"
+    "originalText": "Ἀναξίμανδρος"
   },
   "Anaksimen": {
     "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anaximenes.jpg?width=160",
@@ -189,6 +189,6 @@
     "died": -525,
     "sr": "Anaksimen",
     "stsl": "Анаѯименъ",
-    "el": "Ἀναξιμένης"
+    "originalText": "Ἀναξιμένης"
   }
 }
