@@ -15,7 +15,6 @@ npm start
 
 ## TODO
 
-- dodati svuda el gde fali
 - preimenovati el u sourceText i da bude obavezno
 - izvući preostale bitne filozofe iz Diogena Leartija
 - mapirati pointer do tačne linije izvora radi lakšeg prevođenja
@@ -25,3 +24,4 @@ npm start
 - fali el kod Bijanta
 - dodati grad rođenja u author data i prikazivati ga na njegovoj stranici
 - dodati preslovljavanje (vidi svete misli)
+- prvo slovo crveno (prvi red crven)
