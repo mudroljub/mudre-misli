@@ -26,7 +26,7 @@ export default function Sidebar({ language }: SidebarProps) {
       </button>
 
       <aside className={`${styles.sidebar} ${isOpen ? styles.open : styles.closed}`}>
-        <h3><Link href="/">{t.siteTitle}</Link></h3>
+        <h2><Link href="/">{t.siteTitle}</Link></h2>
         <nav>
           {authors.map((author) => {
             const metadata = authorsData[author];
