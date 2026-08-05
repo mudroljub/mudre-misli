@@ -16,7 +16,7 @@ export default function Sidebar({ language }: SidebarProps) {
       <nav>
         {authors.map((author) => {
           const metadata = authorsData[author];
-          const slug = authorSlugs[author] ?? author;
+          const slug = authorSlugs[author];
           const displayName = metadata[language] || author;
 
           return (

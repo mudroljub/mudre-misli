@@ -1,10 +1,8 @@
 'use client';
 
-import Link from 'next/link';
 import { useState } from 'react';
 import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
-import { getTextForLanguage, getAuthorName } from '../lib/data';
 import { getTranslation } from '../lib/translations';
 import type { Language, Entry } from '../types/data';
 import QuoteCard from './QuoteCard';

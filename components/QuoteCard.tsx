@@ -1,7 +1,7 @@
-import Link from 'next/link';
-import { getTextForLanguage, getAuthorName } from '../lib/data';
-import { getTranslation } from '../lib/translations';
-import type { Entry, Language } from '../types/data';
+import Link from "next/link";
+import { getTextForLanguage, getAuthorName, authorSlugs } from "../lib/data";
+import { getTranslation } from "../lib/translations";
+import type { Entry, Language } from "../types/data";
 
 interface QuoteCardProps {
   entry: Entry;
@@ -12,19 +12,25 @@ interface QuoteCardProps {
 export default function QuoteCard({
   entry,
   language,
-  showAuthor = false
+  showAuthor = false,
 }: QuoteCardProps) {
   const t = getTranslation(language);
+  const slug = authorSlugs[entry.author];
 
   return (
     <div className="quote-card">
       <p>{getTextForLanguage(entry, language)}</p>
 
-      {showAuthor && <p className="author-line">— {getAuthorName(entry.author, language)}</p>}
+      {showAuthor && (
+        <p className="author-line">
+          —{" "}
+          <Link href={`/authors/${slug}`} className="plain-link">
+            {getAuthorName(entry.author, language)}
+          </Link>
+        </p>
+      )}
 
-      <Link href={`/quotes/${entry._id}`}>
-        {t.viewSource}
-      </Link>
+      <Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link>
     </div>
   );
 }
