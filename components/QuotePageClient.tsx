@@ -6,10 +6,10 @@ import Sidebar from "./Sidebar";
 import LanguageSwitcher from "./LanguageSwitcher";
 import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
-import type { AuthorData, Language, QuoteWithId } from "../types/data";
+import type { AuthorData, Language, EntryWithId } from "../types/data";
 
 interface QuotePageClientProps {
-  quote: QuoteWithId;
+  quote: EntryWithId;
   authorMeta?: AuthorData;
 }
 

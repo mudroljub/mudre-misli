@@ -4,9 +4,9 @@ import {
   supportedLanguages,
   type AuthorsData,
   type Language,
-  type QuotesByLanguage,
-  type QuoteWithId,
-  type Quote,
+  type EntriesByLanguage,
+  type EntryWithId,
+  type Entry,
   SourceData,
 } from '../types/data';
 import sourcesRaw from '../data/sources.json';
@@ -14,8 +14,8 @@ import sourcesRaw from '../data/sources.json';
 const sourcesData: Record<string, SourceData> = sourcesRaw;
 
 const authorsData: AuthorsData = authorsRaw;
-const quoteInputs = quotes as Quote[];
-const quotesData: QuoteWithId[] = quoteInputs.map((entry, index) => ({
+const quoteInputs = quotes as Entry[];
+const quotesData: EntryWithId[] = quoteInputs.map((entry, index) => ({
   _id: index + 1,
   ...entry,
 }));
@@ -45,7 +45,7 @@ const authorFromSlug: Record<string, string> = Object.fromEntries(
 const getLanguagePreference = (preferred: string): Language =>
   languages.includes(preferred as Language) ? (preferred as Language) : 'stsl';
 
-const getTextForLanguage = (entry: QuoteWithId, language: Language = 'stsl'): string => {
+const getTextForLanguage = (entry: EntryWithId, language: Language = 'stsl'): string => {
   if (language === 'stsl' && entry.stsl) {
     return entry.stsl;
   }
@@ -74,7 +74,7 @@ const getSourceName = (
     : metadata.sr;
 };
 
-const quotesByLanguage: QuotesByLanguage = {
+const quotesByLanguage: EntriesByLanguage = {
   sr: quotesData.filter((entry) => entry.sr),
   stsl: quotesData.filter((entry) => entry.stsl),
 };

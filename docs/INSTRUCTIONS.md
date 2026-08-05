@@ -84,8 +84,6 @@ Ako je samostalna izreka bez konteksta, čuvati je kao `quote`.
 
 # JSON format
 
-Struktura zapisa je definisana u **`types/data.ts`** interfejsu `Quote`.
-
 Za detaljna objašnjenja svih polja pogledati JSDoc komentare u `types/data.ts`.
 
 # Podaci o autorima (obavezno)
