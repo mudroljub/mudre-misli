@@ -62,6 +62,7 @@
   align-items: center;
   gap: 10px;
   padding: 8px;
+  padding-left: $spacing-md;
   border-radius: $border-radius-sm;
   transition: background-color $transition-fast;
 
@@ -82,7 +83,7 @@
 }
 
 .group {
-  margin-bottom: $spacing-sm;
+  // No margin between groups
 }
 
 .groupHeader {
@@ -90,16 +91,19 @@
   display: flex;
   align-items: center;
   gap: $spacing-sm;
-  padding: $spacing-sm;
+  padding: 0;
   background: none;
   border: none;
   color: $color-white;
   cursor: pointer;
   text-align: left;
-  border-radius: $border-radius-sm;
   transition: background-color $transition-fast;
 
   &:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+
+  &.expanded {
     background-color: rgba(255, 255, 255, 0.1);
   }
 }
@@ -108,6 +112,7 @@
   flex: 1;
   font-weight: 700;
   font-size: 0.95rem;
+  padding: $spacing-sm;
 }
 
 .groupPeriod {
@@ -120,6 +125,7 @@
   font-weight: 700;
   transition: transform $transition-fast;
   display: inline-block;
+  padding: $spacing-sm;
 
   &.expanded {
     transform: rotate(90deg);

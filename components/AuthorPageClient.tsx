@@ -59,9 +59,9 @@ export default function AuthorPageClient({
           target="_blank"
           rel="noopener noreferrer"
           className={styles.subtleLink}
-          title="Wikipedia"
+          title={t.wikipedia}
         >
-          Wikipedia
+          {t.wikipedia}
         </a>
 
         {lifeEventsSection.length > 0 && (

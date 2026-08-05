@@ -15,6 +15,9 @@ Ne koristiti moderne termine ako postoji stariji slovenski ekvivalent.
 
 Koristiti puni digraf ѹ umesto novijeg prostog у, kao i umesto spojene ligature ꙋ.
 
+Slovo Ї treba izbegavati jer nije postojalo u najranijoj ćirilici. Umesto toga koristiti І. Npr:
+- Арістотєлъ, ne Арїстотєл҄ь.
+
 ## Uputstvo za redakciju teksta
 
 Rekonstruisani slovenski tekst treba dosledno da vuče prema praslovenskom fonetskom i gramatičkom stanju.
@@ -55,13 +58,18 @@ Etimološka upotreba Ѭ (ѭ). Kada glas ju potiče od praslovenskog nazalnog jǫ
 * Ako koren reči etimološki sadrži nazal, piše se **ѧ** (npr. **памѧть**, **взѧти**).
 * Ako koren sadrži čisto $[ja]$, piše se **ꙗ** (npr. **приꙗтъ**, **ꙗко**).
 
-
 ## Transkripcija imena
 
 Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema kasnijim tradicionalnim slovenskim oblicima koji menjaju glasovnu vrednost. Primeri:
 
 * Ἑκαταῖος - Хекатей (ne Гекатей)
 * Ἡράκλειτος - Хераклитъ (ne Ираклитъ)
+
+Koristiti arhaične slovenske grafeme (posebno ѡ umesto о kada odgovara grčkom Ω). Na primer:
+
+* Σωκράτης → Сѡкратъ
+* Πλάτων → Платѡнъ
+* Ἀριστοτέλης → Арістотєль
 
 ## Terminološki rečnik (staroslovenski, VIII vek)
 

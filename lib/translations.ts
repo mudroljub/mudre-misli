@@ -12,6 +12,7 @@ export interface Translations {
   sectionQuotes: string;
   sectionLife: string;
   bce: string;
+  wikipedia: string;
   sidebarGroups: {
     ancientSages: string;
     presocratics: string;
@@ -47,6 +48,7 @@ export const translations: Record<Language, Translations> = {
     sectionQuotes: 'Изрѣчєніꙗ',
     sectionLife: 'Житіє',
     bce: 'п.н.є.',
+    wikipedia: 'Википєдїꙗ',
     sidebarGroups: {
       ancientSages: 'Дрєвьнїи мѫдрьци',
       presocratics: 'Прєдсократовци',
@@ -54,7 +56,7 @@ export const translations: Record<Language, Translations> = {
       hellenisticSchools: 'Хєлєністьскꙑꙗ школꙑ',
     },
     sidebarSubgroups: {
-      ionianSchool: 'Їоньска школа',
+      ionianSchool: 'Іоньска школа',
       pythagoreans: 'Піѳагорєїци',
       eleatics: 'Єлєатици',
       atomists: 'Атомісти',
@@ -80,6 +82,7 @@ export const translations: Record<Language, Translations> = {
     sectionQuotes: 'Izreke',
     sectionLife: 'Život',
     bce: 'p.n.e.',
+    wikipedia: 'Vikipedija',
     sidebarGroups: {
       ancientSages: 'Drevni mudraci',
       presocratics: 'Predsokratovci',

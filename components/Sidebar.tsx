@@ -14,7 +14,9 @@ interface SidebarProps {
 
 export default function Sidebar({ language }: SidebarProps) {
   const [isOpen, setIsOpen] = useState(true);
-  const [expandedGroups, setExpandedGroups] = useState<Set<string>>(new Set());
+  const [expandedGroups, setExpandedGroups] = useState<Set<string>>(
+    new Set(['presocratics-6-5. vek p.n.e.'])
+  );
   const t = getTranslation(language);
 
   const toggleGroup = (groupTitle: string) => {
@@ -36,7 +38,6 @@ export default function Sidebar({ language }: SidebarProps) {
 
     return (
       <Link key={authorKey} href={`/authors/${slug}`} className={styles.author}>
-        {metadata.src ? <img src={metadata.src} alt={displayName} /> : null}
         <span>{displayName}</span>
       </Link>
     );
@@ -63,7 +64,7 @@ export default function Sidebar({ language }: SidebarProps) {
             return (
               <div key={groupKey} className={styles.group}>
                 <button
-                  className={styles.groupHeader}
+                  className={`${styles.groupHeader} ${isExpanded ? styles.expanded : ''}`}
                   onClick={() => toggleGroup(groupKey)}
                 >
                   <span className={styles.groupTitle}>
