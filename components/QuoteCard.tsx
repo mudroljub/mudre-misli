@@ -27,13 +27,13 @@ export default function QuoteCard({
       {showAuthor && (
         <p className={styles.authorLine}>
           —{" "}
-          <Link href={`/authors/${slug}`} className={styles.plainLink}>
+          <Link href={`/authors/${slug}`} className={styles.noLink}>
             {getAuthorName(entry.author, language)}
           </Link>
         </p>
       )}
 
-      {showSource && <small><Link href={`/quotes/${entry._id}`}>{t.viewSource}</Link></small>}
+      {showSource && <Link href={`/quotes/${entry._id}`} className={styles.sourceLink}>{t.source}</Link>}
     </div>
   );
 }

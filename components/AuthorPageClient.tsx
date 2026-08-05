@@ -44,11 +44,25 @@ export default function AuthorPageClient({
 
         <h2>{authorName}</h2>
 
+        {/* <p className={styles.authorDates}>
+          {Math.abs(authorData.born)} – {Math.abs(authorData.died)} {t.bce || "п.н.е."}
+        </p> */}
+
         <img
           className={styles.authorPortrait}
           src={authorData.src}
           alt={authorName}
         />
+
+        <a
+          href={`https://en.wikipedia.org/wiki/${author.replace(/ /g, "_")}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className={styles.wikipediaLink}
+          title="Wikipedia"
+        >
+          Wikipedia
+        </a>
 
         {lifeEventsSection.length > 0 && (
           <section className={styles.authorSection}>

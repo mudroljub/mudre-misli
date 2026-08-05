@@ -9,9 +9,9 @@ export interface Translations {
   pageNotFound: string;
   pageNotFoundMessage: string;
   goHome: string;
-  viewSource: string;
   sectionQuotes: string;
   sectionLife: string;
+  bce: string;
 }
 
 export const translations: Record<Language, Translations> = {
@@ -24,9 +24,9 @@ export const translations: Record<Language, Translations> = {
     pageNotFound: 'Страница не обрѣтєна',
     pageNotFoundMessage: 'Страница, ѭже ищєши, не обрѣтаєть сѧ.',
     goHome: 'Въ начѧло',
-    viewSource: 'Виждь источьникъ',
     sectionQuotes: 'Изрѣчєніꙗ',
     sectionLife: 'Житіє',
+    bce: 'п.н.є.',
   },
   sr: {
     siteTitle: 'Mudre misli',
@@ -37,9 +37,9 @@ export const translations: Record<Language, Translations> = {
     pageNotFound: 'Stranica nije pronađena',
     pageNotFoundMessage: 'Stranica koju tražite ne postoji.',
     goHome: 'Početna',
-    viewSource: 'Vidi izvornik',
     sectionQuotes: 'Izreke',
     sectionLife: 'Život',
+    bce: 'p.n.e.',
   },
 };
 

@@ -8,6 +8,13 @@
   }
 }
 
+.authorDates {
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
+  color: #666;
+  font-size: 0.95em;
+}
+
 .authorPortrait {
   display: block;
   width: 320px;
@@ -24,4 +31,16 @@
 .grid {
   display: grid;
   gap: 14px;
+}
+
+.wikipediaLink {
+  font-size: 0.9em;
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+
+  &:hover {
+    opacity: 1;
+    text-decoration: underline;
+  }
 }
