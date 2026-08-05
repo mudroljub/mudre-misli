@@ -61,11 +61,97 @@
   display: flex;
   align-items: center;
   gap: 10px;
+  padding: 8px;
+  border-radius: $border-radius-sm;
+  transition: background-color $transition-fast;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
 
   img {
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     object-fit: cover;
     border-radius: $border-radius-full;
   }
+
+  span {
+    font-size: 0.9rem;
+  }
+}
+
+.group {
+  margin-bottom: $spacing-sm;
+}
+
+.groupHeader {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: $spacing-sm;
+  padding: $spacing-sm;
+  background: none;
+  border: none;
+  color: $color-white;
+  cursor: pointer;
+  text-align: left;
+  border-radius: $border-radius-sm;
+  transition: background-color $transition-fast;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+}
+
+.groupTitle {
+  flex: 1;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.groupPeriod {
+  font-size: 0.75rem;
+  opacity: 0.7;
+}
+
+.expandIcon {
+  font-size: 1.2rem;
+  font-weight: 700;
+  transition: transform $transition-fast;
+  display: inline-block;
+
+  &.expanded {
+    transform: rotate(90deg);
+  }
+}
+
+.groupContent {
+  padding-left: $spacing-sm;
+  margin-top: $spacing-xs;
+  overflow: hidden;
+  animation: slideDown 0.2s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    max-height: 0;
+  }
+  to {
+    opacity: 1;
+    max-height: 2000px;
+  }
+}
+
+.subgroup {
+  margin-bottom: $spacing-md;
+}
+
+.subgroupTitle {
+  font-size: 0.85rem;
+  font-weight: 600;
+  opacity: 0.8;
+  margin-bottom: $spacing-xs;
+  padding-left: $spacing-sm;
 }

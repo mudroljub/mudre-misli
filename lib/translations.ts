@@ -12,6 +12,26 @@ export interface Translations {
   sectionQuotes: string;
   sectionLife: string;
   bce: string;
+  sidebarGroups: {
+    ancientSages: string;
+    presocratics: string;
+    athenianPhilosophy: string;
+    hellenisticSchools: string;
+  };
+  sidebarSubgroups: {
+    ionianSchool: string;
+    pythagoreans: string;
+    eleatics: string;
+    atomists: string;
+    others: string;
+    socratics: string;
+    platonicAcademy: string;
+    aristotelianSchool: string;
+    cynics: string;
+    stoics: string;
+    skeptics: string;
+    epicureans: string;
+  };
 }
 
 export const translations: Record<Language, Translations> = {
@@ -27,6 +47,26 @@ export const translations: Record<Language, Translations> = {
     sectionQuotes: 'Изрѣчєніꙗ',
     sectionLife: 'Житіє',
     bce: 'п.н.є.',
+    sidebarGroups: {
+      ancientSages: 'Дрєвьнїи мѫдрьци',
+      presocratics: 'Прєдсократовци',
+      athenianPhilosophy: 'Атїньска любомѫдрость',
+      hellenisticSchools: 'Хєлєністьскꙑꙗ школꙑ',
+    },
+    sidebarSubgroups: {
+      ionianSchool: 'Їоньска школа',
+      pythagoreans: 'Піѳагорєїци',
+      eleatics: 'Єлєатици',
+      atomists: 'Атомісти',
+      others: 'Іньни',
+      socratics: 'Сократъ і сократовци',
+      platonicAcademy: 'Платонова акадємїꙗ',
+      aristotelianSchool: 'Арістотєлова школа',
+      cynics: 'Кїници',
+      stoics: 'Стоїци',
+      skeptics: 'Скєптици',
+      epicureans: 'Єпікѹрєїци',
+    },
   },
   sr: {
     siteTitle: 'Mudre misli',
@@ -40,6 +80,26 @@ export const translations: Record<Language, Translations> = {
     sectionQuotes: 'Izreke',
     sectionLife: 'Život',
     bce: 'p.n.e.',
+    sidebarGroups: {
+      ancientSages: 'Drevni mudraci',
+      presocratics: 'Predsokratovci',
+      athenianPhilosophy: 'Atinska filozofija',
+      hellenisticSchools: 'Helenističke škole',
+    },
+    sidebarSubgroups: {
+      ionianSchool: 'Jonska škola',
+      pythagoreans: 'Pitagorejci',
+      eleatics: 'Elejci',
+      atomists: 'Atomisti',
+      others: 'Ostali',
+      socratics: 'Sokrat i sokratovci',
+      platonicAcademy: 'Platonova akademija',
+      aristotelianSchool: 'Aristotelova škola',
+      cynics: 'Kinici',
+      stoics: 'Stoici',
+      skeptics: 'Skeptici',
+      epicureans: 'Epikurejci',
+    },
   },
 };
 

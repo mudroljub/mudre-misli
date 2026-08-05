@@ -1,8 +1,9 @@
 # Mudre misli (мѫдрыѩ мысли)
 
-Домъ Мѫдрости въ Стариградѣ
-Домъ Мѫдрости Блатьнограда
-Училище Мѫдрости въ Охридѣ
+🏛️ Домъ Мѫдрости въ Стариградѣ
+🏛️ Училище Мѫдрости Стариградъ
+🏛️ Училище Мѫдрости Блатьноградъ
+🏛️ Училище Мѫдрости Блатьнограда
 
 ## Development
 
@@ -30,3 +31,37 @@ npm start
 - čistiti redom sadržaj i ručno sređivati godine, brisati smeće i sl.
 - probati da samo najkraća izreka bude većim slovima
 - organizovati Sidebar autore 
+
+# Sidebar
+
+🏛️ Drevni mudraci (7-6. vek p.n.e.)
+    - Periander, Pittacus, Solon...
+
+🏛️ Predsokratovci (6-5. vek p.n.e.)
+  ▸ Jonska škola
+    - Thales, Anaximander, Anaximenes...
+  ▸ Pitagorejci
+    - Pythagoras
+  ▸ Elejci (Parmenid, Zenon)
+  * Atomisti (Leukip, Demokrit)
+  * Heraklit
+  - Empedocles, Anaxagoras...
+
+🏛️ Atinska filozofija (5-3. vek p.n.e.)
+   * Sofisti
+  ▸ Sokrat i sokratovci
+    - Socrates, Xenophon...
+  ▸ Platonova akademija
+    - Plato, Xenocrates
+  ▸ Aristotelova škola
+    - Aristotle, Theophrastus
+
+🏛️ Helenističke škole (4-3. vek p.n.e.)
+  ▸ Kinici
+    - Diogenes, Crates, Hipparchia...
+  ▸ Stoici
+    - Zeno of Citium, Chrysippus...
+  ▸ Skeptici
+    - Pyrrho, Timon
+  ▸ Epikurejci
+    - Epicurus

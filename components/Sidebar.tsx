@@ -2,7 +2,8 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { authors, authorsData, authorSlugs } from '../lib/data';
+import { authorsData, authorSlugs } from '../lib/data';
+import { authorGroups } from '../lib/authorGroups';
 import { getTranslation } from '../lib/translations';
 import type { Language } from '../types/data';
 import styles from './Sidebar.module.scss';
@@ -13,7 +14,33 @@ interface SidebarProps {
 
 export default function Sidebar({ language }: SidebarProps) {
   const [isOpen, setIsOpen] = useState(true);
+  const [expandedGroups, setExpandedGroups] = useState<Set<string>>(new Set());
   const t = getTranslation(language);
+
+  const toggleGroup = (groupTitle: string) => {
+    const newExpanded = new Set(expandedGroups);
+    if (newExpanded.has(groupTitle)) {
+      newExpanded.delete(groupTitle);
+    } else {
+      newExpanded.add(groupTitle);
+    }
+    setExpandedGroups(newExpanded);
+  };
+
+  const renderAuthor = (authorKey: string) => {
+    const metadata = authorsData[authorKey];
+    if (!metadata) return null;
+
+    const slug = authorSlugs[authorKey];
+    const displayName = metadata[language] || authorKey;
+
+    return (
+      <Link key={authorKey} href={`/authors/${slug}`} className={styles.author}>
+        {metadata.src ? <img src={metadata.src} alt={displayName} /> : null}
+        <span>{displayName}</span>
+      </Link>
+    );
+  };
 
   return (
     <>
@@ -28,16 +55,41 @@ export default function Sidebar({ language }: SidebarProps) {
       <aside className={`${styles.sidebar} ${isOpen ? styles.open : styles.closed}`}>
         <h2><Link href="/">{t.siteTitle}</Link></h2>
         <nav>
-          {authors.map((author) => {
-            const metadata = authorsData[author];
-            const slug = authorSlugs[author];
-            const displayName = metadata[language] || author;
+          {authorGroups.map((group) => {
+            const groupKey = `${group.titleKey}-${group.period}`;
+            const isExpanded = expandedGroups.has(groupKey);
+            const groupTitle = (t.sidebarGroups as any)[group.titleKey] || group.title;
 
             return (
-              <Link key={author} href={`/authors/${slug}`} className={styles.author}>
-                {metadata.src ? <img src={metadata.src} alt={displayName} /> : null}
-                <span>{displayName}</span>
-              </Link>
+              <div key={groupKey} className={styles.group}>
+                <button
+                  className={styles.groupHeader}
+                  onClick={() => toggleGroup(groupKey)}
+                >
+                  <span className={styles.groupTitle}>
+                    {groupTitle}
+                  </span>
+                  <span className={`${styles.expandIcon} ${isExpanded ? styles.expanded : ''}`}>›</span>
+                </button>
+
+                {isExpanded && (
+                  <div className={styles.groupContent}>
+                    {group.subgroups ? (
+                      group.subgroups.map((subgroup) => {
+                        const subgroupTitle = (t.sidebarSubgroups as any)[subgroup.titleKey] || subgroup.title;
+                        return (
+                          <div key={subgroup.titleKey} className={styles.subgroup}>
+                            <div className={styles.subgroupTitle}>{subgroupTitle}</div>
+                            {subgroup.authors.map(renderAuthor)}
+                          </div>
+                        );
+                      })
+                    ) : (
+                      group.authors?.map(renderAuthor)
+                    )}
+                  </div>
+                )}
+              </div>
             );
           })}
         </nav>
