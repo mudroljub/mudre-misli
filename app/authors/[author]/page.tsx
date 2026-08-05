@@ -19,13 +19,13 @@ export default function AuthorPage({ params }: AuthorPageProps) {
     notFound();
   }
 
-  const authorMeta = authorsData[author];
+  const authorData = authorsData[author];
 
-  if (!authorMeta) {
+  if (!authorData) {
     notFound();
   }
 
-  const authorQuotes = quotesData.filter((entry) => entry.author === author);
+  const authorEntries = quotesData.filter((entry) => entry.author === author);
 
-  return <AuthorPageClient author={author} authorMeta={authorMeta} authorQuotes={authorQuotes} />;
+  return <AuthorPageClient author={author} authorData={authorData} authorEntries={authorEntries} />;
 }

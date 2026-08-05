@@ -10,12 +10,12 @@ import type { AuthorData, Language, Entry } from "../types/data";
 
 interface QuotePageClientProps {
   quote: Entry;
-  authorMeta?: AuthorData;
+  authorData?: AuthorData;
 }
 
 export default function QuotePageClient({
   quote,
-  authorMeta,
+  authorData,
 }: QuotePageClientProps) {
   const [language, setLanguage] = useState<Language>("stsl");
   const t = getTranslation(language);
@@ -27,8 +27,8 @@ export default function QuotePageClient({
       <section className="content">
         <LanguageSwitcher currentLang={language} onChange={setLanguage} />
         <div className="quote-card">
-          {authorMeta?.src ? (
-            <img src={authorMeta.src} alt={authorName} />
+          {authorData?.src ? (
+            <img src={authorData.src} alt={authorName} />
           ) : null}
           <h2>{authorName}</h2>
 

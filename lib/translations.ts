@@ -11,7 +11,6 @@ export interface Translations {
   pageNotFound: string;
   pageNotFoundMessage: string;
   returnHome: string;
-  noQuotesForAuthor: string;
   openQuote: string;
   sectionQuotes: string;
   sectionAnecdotes: string;
@@ -29,7 +28,6 @@ export const translations: Record<Language, Translations> = {
     pageNotFound: 'Страница не обрѣтєна',
     pageNotFoundMessage: 'Страница, ѭже ищєши, не обрѣтаєть сѧ.',
     returnHome: 'Въспѧть въ начѧло',
-    noQuotesForAuthor: 'Нѣсть изрѣчєніи сєго любомѫдрьца.',
     openQuote: 'Отъврьзи изрѣчєніє',
     sectionQuotes: 'Изрѣчєніꙗ',
     sectionAnecdotes: 'Житіє',
@@ -45,7 +43,6 @@ export const translations: Record<Language, Translations> = {
     pageNotFound: 'Stranica nije pronađena',
     pageNotFoundMessage: 'Stranica koju tražite ne postoji.',
     returnHome: 'Povratak na početnu',
-    noQuotesForAuthor: 'Nema citata za ovog autora.',
     openQuote: 'Otvori citat',
     sectionQuotes: 'Izreke',
     sectionAnecdotes: 'Život',
