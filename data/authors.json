@@ -190,5 +190,37 @@
     "sr": "Anaksimen",
     "stsl": "Анаѯименъ",
     "originalText": "Ἀναξιμένης"
+  },
+  "Monimos": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Diogenes%20-%20Walters%2037131.jpg?width=160",
+    "born": -350,
+    "died": -300,
+    "sr": "Monimos",
+    "stsl": "Монімосъ",
+    "originalText": "Μόνιμος"
+  },
+  "Kratet iz Tebe": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Crates_of_Thebes.png?width=160",
+    "born": -368,
+    "died": -288,
+    "sr": "Kratet iz Tebe",
+    "stsl": "Кратєтъ отъ Тєвъ",
+    "originalText": "Κράτης ὁ Θηβαῖος"
+  },
+  "Metrokle": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Diogenes%20-%20Walters%2037131.jpg?width=160",
+    "born": -340,
+    "died": -280,
+    "sr": "Metrokle",
+    "stsl": "Мєтроклъ",
+    "originalText": "Μητροκλῆς"
+  },
+  "Hiparhija": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hipparchia_of_Maroneia_Cynic.png?width=160",
+    "born": -350,
+    "died": -280,
+    "sr": "Hiparhija",
+    "stsl": "Хіпархїꙗ",
+    "originalText": "Ἱππαρχία"
   }
 }

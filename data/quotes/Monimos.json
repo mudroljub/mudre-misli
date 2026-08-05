@@ -1,0 +1,81 @@
+[
+  {
+    "type": "bio",
+    "year": -350,
+    "sr": "Rođen u Sirakuzi.",
+    "stsl": "Роди сѧ въ Сѷракѹсахъ.",
+    "originalText": "Μόνιμος Συρακόσιος.",
+    "author": "Monimos",
+    "source": "diogenes-laertius",
+    "reference": "VI.82"
+  },
+  {
+    "type": "bio",
+    "year": -340,
+    "sr": "Bio učenik Diogena; sluga korintskog menjača novca.",
+    "stsl": "Бѣ ѹченикъ Діогена · рабъ корінѳьскаго трапезітꙑ.",
+    "originalText": "μαθητὴς μὲν Διογένους, οἰκέτης δέ τινος τραπεζίτου Κορινθίου.",
+    "author": "Monimos",
+    "source": "diogenes-laertius",
+    "reference": "VI.82"
+  },
+  {
+    "type": "anecdote",
+    "year": -335,
+    "sr": "Ksenijad, koji je kupio Diogena, često ga je posećivao i pričao o Diogenovoj vrlini i učenju, i tako je u Monimosa uselio ljubav prema filozofiji. Monimos je tada pretvarao ludilo, bacao novčiće i sav novac sa menjačkog stola, sve dok ga gazda nije oslobodio; odmah je otišao kod Diogena.",
+    "stsl": "Ксеніадъ · ꙇже Діогена кѹпі · часто єго посѣщааше и повѣдааше о Діогеновѣи добродѣтелі и ѹченіи · и тако въ Монімоса всади любовь къ любомѫдрію · Монімосъ же тогда лѹдость притворі · мета́ше пѣнѧѕи и весь срєбрꙑ трапезꙑ · до́ндеже господь єго освободі · а́біе же къ Діогенѹ прі́де.",
+    "originalText": "Πρὸς τοῦτον συνεχὲς ἀφικνούμενος ὁ Ξενιάδης ὁ τὸν Διογένην ἐωνημένος τὴν ἀρετὴν αὐτοῦ καὶ τῶν ἔργων καὶ τῶν λόγων διηγούμενος εἰς ἔρωτα τἀνδρὸς ἐνέβαλε τὸν Μόνιμον. Αὐτίκα γὰρ ἐκεῖνος μανίαν προσποιηθεὶς τό τε κέρμα διερρίπτει καὶ πᾶν τὸ ἐπὶ τῆς τραπέζης ἀργύριον ἕως αὐτὸν ὁ δεσπότης παρῃτήσατο· καὶ ὃς εὐθέως Διογένους ἦν.",
+    "author": "Monimos",
+    "source": "diogenes-laertius",
+    "reference": "VI.82"
+  },
+  {
+    "type": "bio",
+    "year": -330,
+    "sr": "Pratio je i kinika Krata, bavio se sličnim stvarima, tako da ga je gazda gledajući još više smatrao ludim.",
+    "stsl": "Послѣдова же и Крата кѵніка · подобнꙑми дѣлꙑ занімаше сѧ · тако да господь єго зрѧ па́че ємѹ мнѣше бꙑ́ті лѹдѹ.",
+    "originalText": "Παρηκολούθησε δὲ καὶ Κράτητι τῷ κυνικῷ συχνὰ καὶ τῶν ὁμοίων εἴχετο, ὅτε καὶ μᾶλλον ὁρῶν αὐτὸν ὁ δεσπότης ἐδόκει μαίνεσθαι.",
+    "author": "Monimos",
+    "source": "diogenes-laertius",
+    "reference": "VI.82"
+  },
+  {
+    "type": "bio",
+    "year": -320,
+    "sr": "Bio dostojan spomena, tako da ga je i komičar Menander pominjao u svojoj drami.",
+    "stsl": "Бѣ достоінъ спомена · тако да і Менандръ комікъ єго поміна́ше въ своеі драмѣ.",
+    "originalText": "Ἐγένετο δ' ἀνὴρ ἐλλόγιμος, ὡς καὶ Μένανδρον αὐτοῦ τὸν κωμικὸν μεμνῆσθαι.",
+    "author": "Monimos",
+    "source": "diogenes-laertius",
+    "reference": "VI.83"
+  },
+  {
+    "type": "bio",
+    "year": -315,
+    "sr": "Bio vrlo ozbiljan, prezirao slavu a težio istini.",
+    "stsl": "Бѣ ѕѣло́ сѣ́рьезенъ · презіра́ше славѫ а стремі́ше сѧ къ істі́нѣ.",
+    "originalText": "Οὗτος μὲν ἐμβριθέστατος ἐγένετο, ὥστε δόξης μὲν καταφρονεῖν, πρὸς δ' ἀλήθειαν παρορμᾶν.",
+    "author": "Monimos",
+    "source": "diogenes-laertius",
+    "reference": "VI.83"
+  },
+  {
+    "type": "bio",
+    "year": -310,
+    "sr": "Pisao šale pomešane sa skrivenom ozbiljnošću; napisao dve knjige 'O pobudama' i 'Protreptik'.",
+    "stsl": "Пісааше шалꙑ смѣша́нꙑ съ сокрове́нноѭ сѣ́рьезностіѭ · напіса двѣ́ кнігꙑ О побѹ́дахъ і Протрептікъ.",
+    "originalText": "Γέγραφε δὲ παίγνια σπουδῇ λεληθυίᾳ μεμιγμένα καὶ Περὶ ὁρμῶν δύο καὶ Προτρεπτικόν.",
+    "author": "Monimos",
+    "source": "diogenes-laertius",
+    "reference": "VI.83"
+  },
+  {
+    "type": "quote",
+    "sr": "Sve misleće sujeta jest.",
+    "stsl": "Вьсє мꙑслѧщєє сꙋєта єсть.",
+    "originalText": "τὸ γὰρ ὑποληφθὲν τῦφον εἶναι πᾶν.",
+    "author": "Monimos",
+    "source": "diogenes-laertius",
+    "reference": "VI.83"
+  }
+]

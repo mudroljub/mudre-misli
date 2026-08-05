@@ -24,3 +24,5 @@ npm start
 - dodati grad rođenja u author data i prikazivati ga na njegovoj stranici
 - dodati preslovljavanje (vidi svete misli)
 - prvo slovo crveno (prvi red crven)
+- da author ključ bude sa en wiki, lakše za linkovanje i nalaženje slika
+- proveriti sr prevod
