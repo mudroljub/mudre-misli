@@ -4,12 +4,12 @@
     "type": "bio",
     "year": -500,
     "sr": "Rođen u Klazomenama.",
-    "stsl": "Рождєнъ въ Клазоменахъ.",
-    "el": "Κλαζομένιος.",
+    "stsl": "Анаксагора Клазоменꙗнинъ бѣ.",
+    "el": "Ἀναξαγόρας Ἡγησιβούλου ἢ Εὐβούλου, Κλαζομένιος.",
     "author": "Anaksagora",
     "source": "diogenes-laertius",
     "reference": "II.6",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:59#Κλαζο"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:59#Ἀναξα"
   },
   {
     "_id": 2,
@@ -330,12 +330,12 @@
     "type": "bio",
     "year": -610,
     "sr": "Rođen u Miletu.",
-    "stsl": "Рождєнъ въ Милетѣ.",
-    "el": "Μιλήσιος.",
+    "stsl": "Анаксимандръ Праксїады Милетꙗнинъ бѣ.",
+    "el": "Ἀναξίμανδρος Πραξιάδου Μιλήσιος.",
     "author": "Anaksimander",
     "source": "diogenes-laertius",
     "reference": "II.1",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#Μιλήσ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#Ἀναξί"
   },
   {
     "_id": 31,
@@ -432,12 +432,12 @@
     "type": "bio",
     "year": -585,
     "sr": "Rođen u Miletu.",
-    "stsl": "Рождєнъ въ Милетѣ.",
-    "el": "Μιλήσιος.",
+    "stsl": "Анаксименъ Еѷрѷстратовъ Милетꙗнинъ бѣ.",
+    "el": "Ἀναξιμένης Εὐρυστράτου Μιλήσιος.",
     "author": "Anaksimen",
     "source": "diogenes-laertius",
     "reference": "II.3",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:15#Μιλήσ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:15#Ἀναξι"
   },
   {
     "_id": 40,
@@ -2799,12 +2799,12 @@
     "type": "bio",
     "year": -460,
     "sr": "Rođen u Abderi.",
-    "stsl": "Рождєнъ въ Абдєрѣ.",
-    "el": "Ἀβδηρίτης.",
+    "stsl": "Демокритъ Хегесистратовъ Абдерꙗнинъ бѣ.",
+    "el": "Δημόκριτος Ἡγησιστράτου, οἱ δὲ Ἀθηνοκρίτου, τινὲς Δαμασίππου Ἀβδηρίτης.",
     "author": "Demokrit",
     "source": "diogenes-laertius",
     "reference": "IX.34",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:217#Ἀβδηρ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:217#Δημόκ"
   },
   {
     "_id": 255,
@@ -3727,8 +3727,8 @@
     "type": "bio",
     "year": -494,
     "sr": "Rođen u Akragantu.",
-    "stsl": "Рождєнъ въ Акрагантѣ.",
-    "el": "Ἀκραγαντῖνος.",
+    "stsl": "Емпедоклъ Метонова сынъ · Акрагантꙗнинъ бѣ.",
+    "el": "Ἐμπεδοκλῆς, ὥς φησιν Ἱππόβοτος, Μέτωνος ἦν υἱὸς τοῦ Ἐμπεδοκλέους, Ἀκραγαντῖνος.",
     "author": "Empedoklo",
     "source": "diogenes-laertius",
     "reference": "VIII.51",
@@ -4134,12 +4134,12 @@
     "type": "bio",
     "year": -535,
     "sr": "Rođen u Efesu.",
-    "stsl": "Рождєнъ въ Єфєсѣ.",
-    "el": "Ἐφέσιος.",
+    "stsl": "Хераклитъ Блосоновъ Ефесꙗнинъ бѣ.",
+    "el": "Ἡράκλειτος Βλόσωνος ἤ, ὥς τινες, Ἡράκωντος Ἐφέσιος.",
     "author": "Heraklit",
     "source": "diogenes-laertius",
     "reference": "IX.1",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:3#Ἐφέσι"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:3#Ἡράκλ"
   },
   {
     "_id": 375,
@@ -4398,8 +4398,8 @@
     "type": "bio",
     "year": -570,
     "sr": "Rođen u Kolofonu.",
-    "stsl": "Рождєнъ въ Колофонѣ.",
-    "el": "Κολοφώνιος.",
+    "stsl": "Ксенофанъ Дексїовъ Колофонꙗнинъ бѣ.",
+    "el": "Ξενοφάνης Δεξίου ἤ, ὡς Ἀπολλόδωρος, Ὀρθομένους Κολοφώνιος.",
     "author": "Ksenofan",
     "source": "diogenes-laertius",
     "reference": "IX.18",
@@ -4857,12 +4857,12 @@
     "type": "bio",
     "year": -480,
     "sr": "Rođen u Eleji.",
-    "stsl": "Рождєнъ въ Єлєи.",
-    "el": "Ἐλεάτης.",
+    "stsl": "Леѷкиппъ Елеатꙗнинъ бѣ.",
+    "el": "Λεύκιππος Ἐλεάτης, ὡς δέ τινες, Ἀβδηρίτης, κατ' ἐνίους δὲ Μιλήσιος.",
     "author": "Leukip",
     "source": "diogenes-laertius",
     "reference": "IX.30",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#Ἐλεάτ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#Λεύκι"
   },
   {
     "_id": 441,
@@ -4968,12 +4968,12 @@
     "type": "bio",
     "year": -515,
     "sr": "Rođen u Eleji.",
-    "stsl": "Рождєнъ въ Єлєи.",
-    "el": "Ἐλεάτης.",
+    "stsl": "Парменидъ Пѷритовъ Елеатꙗнинъ бѣ.",
+    "el": "Παρμενίδης Πύρητος Ἐλεάτης.",
     "author": "Parmenid",
     "source": "diogenes-laertius",
     "reference": "IX.21",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Ἐλεάτ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Παρμε"
   },
   {
     "_id": 451,
@@ -5145,8 +5145,8 @@
     "type": "bio",
     "year": -570,
     "sr": "Rođen na Samosu.",
-    "stsl": "Рождєнъ на Самосѣ.",
-    "el": "Σάμιος.",
+    "stsl": "Пѷѳагора Мнисарховъ Самїꙗнинъ бѣ.",
+    "el": "Πυθαγόρας Μνησάρχου δακτυλιογλύφου ὥς φησιν Ἕρμιππος, Σάμιος.",
     "author": "Pitagora",
     "source": "diogenes-laertius",
     "reference": "VIII.1",
@@ -7246,8 +7246,8 @@
     "type": "bio",
     "year": -490,
     "sr": "Rođen u Abderi.",
-    "stsl": "Рождєнъ въ Абдєрѣ.",
-    "el": "Ἀβδηρίτης.",
+    "stsl": "Протагора Артемоновъ Абдерꙗнинъ бѣ.",
+    "el": "Πρωταγόρας Ἀρτέμωνος ἤ, ὡς Ἀπολλόδωρος καὶ Δίνων ἐν Περσικῶν εʹ, Μαιανδρίου, Ἀβδηρίτης.",
     "author": "Protagora",
     "source": "diogenes-laertius",
     "reference": "IX.50",
@@ -8088,7 +8088,7 @@
     "type": "bio",
     "year": -624,
     "sr": "Rođen u Miletu.",
-    "stsl": "Рождєнъ въ Милетѣ.",
+    "stsl": "Роди́телꙗнинъ Милетꙗнинъ бѣ.",
     "el": "Ἰθαγενὴς Μιλήσιος ἦν.",
     "author": "Tales",
     "source": "diogenes-laertius",
