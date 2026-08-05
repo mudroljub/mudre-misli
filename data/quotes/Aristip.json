@@ -1,5 +1,45 @@
 [
     {
+        "type": "bio",
+        "year": -435,
+        "sr": "Rođen u Kireni; došao u Atinu privučen glasom o Sokratu.",
+        "stsl": "Роди сѧ въ Киринѣ · прїиде въ Атины привлеченъ славою Сократовою.",
+        "el": "Ἀρίστιππος τὸ μὲν γένος ἦν Κυρηναῖος, ἀφιγμένος δ' Ἀθήναζε κατὰ κλέος Σωκράτους.",
+        "author": "Aristip",
+        "source": "diogenes-laertius",
+        "reference": "II.65"
+    },
+    {
+        "type": "bio",
+        "year": -410,
+        "sr": "Prvi među Sokratovcima uzimao je platu za poduku; poslao novac učitelju Sokratu.",
+        "stsl": "Пьрвыи межи Сократовци платꙋ за наѹкꙋ приимаше · посла сребро ѹчителю Сократѹ.",
+        "el": "Πρῶτος τῶν Σωκρατικῶν μισθοὺς εἰσεπράξατο καὶ ἀπέστειλε χρήματα τῷ διδασκάλῳ.",
+        "author": "Aristip",
+        "source": "diogenes-laertius",
+        "reference": "II.65"
+    },
+    {
+        "type": "bio",
+        "year": -390,
+        "sr": "Boravio kod sirakuskog tiranina Dionisija; cenjen više od ostalih jer se prilagođavao svakoj prilici.",
+        "stsl": "Бываше при тиранѣ Сѵракꙋзьстѣмь Дїонисїи · паче инѣхъ цѣненъ · зане всѧкои прилицѣ приспособлꙗашесѧ.",
+        "el": "Παρὰ Διονυσίῳ τῶν ἄλλων εὐδοκίμει μᾶλλον, ἀεὶ τὸ προσπεσὸν εὖ διατιθέμενος.",
+        "author": "Aristip",
+        "source": "diogenes-laertius",
+        "reference": "II.66"
+    },
+    {
+        "type": "bio",
+        "year": -366,
+        "sr": "Osnivač kirenajske filozofske škole; učio da je cilj života uživanje u sadašnjem trenutku.",
+        "stsl": "Основатель киринеискꙑѩ философскꙑѩ школꙑ · ѹчаше · ꙗко цѣль житїа єсть наслажденїє настоѩщимъ часомъ.",
+        "el": "Κυρηναϊκῆς προέστη Ἀρίστιππος ὁ Κυρηναῖος· ἀπέλαυε μὲν γὰρ ἡδονῆς τῶν παρόντων, οὐκ ἐθήρα δὲ πόνῳ τὴν ἀπόλαυσιν τῶν οὐ παρόντων.",
+        "author": "Aristip",
+        "source": "diogenes-laertius",
+        "reference": "II.19, II.66"
+    },
+    {
         "type": "quote",
         "sr": "Uživaj u onome što je prisutno, a nemoj se mučiti loveći uživanje u onome što nije prisutno.",
         "stsl": "Настоѩштею сластию наслаждаи сѧ · не трѹди же сѧ ловѧ сластъ ненастоѩштихъ вещеи ·",

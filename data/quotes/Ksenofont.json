@@ -1,5 +1,75 @@
 [
     {
+        "type": "bio",
+        "year": -430,
+        "sr": "Ksenofont, sin Grilov, Atinjanin iz dema Erhije; skroman i izuzetno lep.",
+        "stsl": "Ксенофонтъ · Грѵлла сынъ · Атинѧнинъ отъ дема Ерхиискаго · скромьнъ и чрѣзмѣрьно красьнъ бѣ ·",
+        "el": "Ξενοφῶν Γρύλλου μὲν ἦν υἱός, Ἀθηναῖος, τῶν δήμων Ἐρχιεύς· αἰδήμων δὲ καὶ εὐειδέστατος εἰς ὑπερβολήν.",
+        "author": "Ksenofont",
+        "source": "diogenes-laertius",
+        "reference": "II.48"
+    },
+    {
+        "type": "bio",
+        "year": -430,
+        "sr": "Prvi je zabeležio Sokratove razgovore i objavio ih kao Uspomene; prvi je napisao istoriju filozofa.",
+        "stsl": "Пьрвꙑи Сократовы бесѣды записа и ꙗко Памѧти издаде · пьрвыи же повѣсть о любомѫдрьцихъ написа ·",
+        "el": "Καὶ πρῶτος ὑποσημειωσάμενος τὰ λεγόμενα εἰς ἀνθρώπους ἤγαγεν, Ἀπομνημονεύματα ἐπιγράψας. Ἀλλὰ καὶ ἱστορίαν φιλοσόφων πρῶτος ἔγραψε.",
+        "author": "Ksenofont",
+        "source": "diogenes-laertius",
+        "reference": "II.48"
+    },
+    {
+        "type": "bio",
+        "year": -394,
+        "sr": "Nastanio se u Skiluntu sa ženom Filesijom i sinovima Grilom i Diodorom, koje su zvali Dioskuri.",
+        "stsl": "Въ Скилѹнтѣ съ женою Филесиею и сынми Грилломъ и Диодоромъ всели сѧ · иже Диоскѹри нарицахѹ сѧ ·",
+        "el": "Ἦλθεν εἰς Σκιλλοῦντα, χωρίον τῆς Ἠλείας. Εἵπετο δὲ αὐτῷ καὶ γύναιον ὄνομα Φιλησία, καὶ δύο υἱεῖς, Γρύλλος καὶ Διόδωρος, οἳ καὶ Διόσκουροι ἐπεκαλοῦντο.",
+        "author": "Ksenofont",
+        "source": "diogenes-laertius",
+        "reference": "II.52"
+    },
+    {
+        "type": "bio",
+        "year": -394,
+        "sr": "Kupivši imanje kroz koje je tekla reka Selinunt, posvetio ga je Artemidi; onde je lovio, primao prijatelje i pisao svoja dela.",
+        "stsl": "Кѹпивъ имѣніє · имже рѣка Селинѹнтъ течаше · Артемидѣ посвѧти · тамо ловлѧаше · дрѹгы приємлѧаше и дѣла своꙗ писаше ·",
+        "el": "Χωρίον ἐπρίατο καὶ καθιέρωσε τῇ θεῷ, δι' οὗ ποταμὸς ἔρρει Σελινοῦς, ὁμώνυμος τῷ ἐν Ἐφέσῳ. Τοὐντεῦθεν διετέλει κυνηγετῶν καὶ τοὺς φίλους ἑστιῶν καὶ τὰς ἱστορίας συγγράφων.",
+        "author": "Ksenofont",
+        "source": "diogenes-laertius",
+        "reference": "II.52"
+    },
+    {
+        "type": "bio",
+        "year": -394,
+        "sr": "Cveo je četvrte godine 94. olimpijade; sa Kirom je krenuo na pohod godinu dana pre Sokratove smrti.",
+        "stsl": "Цвѣтѧше въ четвьртое лѣто 94-ꙑѩ Олѵмпиады · съ Кѵромъ же на походъ поиде единымъ лѣтомъ прѣжде Сократовꙑѩ смрьти ·",
+        "el": "Ἤκμαζε δὲ κατὰ τὸ τέταρτον ἔτος τῆς τετάρτης καὶ ἐνενηκοστῆς Ὀλυμπιάδος, καὶ ἀναβέβηκε σὺν Κύρῳ ἑνὶ πρότερον ἔτει τῆς Σωκράτους τελευτῆς.",
+        "author": "Ksenofont",
+        "source": "diogenes-laertius",
+        "reference": "II.55"
+    },
+    {
+        "type": "bio",
+        "year": -354,
+        "sr": "Umro je u Korintu u prvoj godini 105. olimpijade, pod arhontom Kalimedom, kada je Filip Amintov postao vladar Makedonije; već duboko star, dobar čovek, ljubitelj konja i lova, stručan vojskovođa, pobožan i reven prinošenju žrtava.",
+        "stsl": "Ѹmpe въ Коринѳѣ въ пьрвое лѣто 105-ꙑѩ Олѵмпиады · при архонтѣ Калимедѣ · єгда Филипъ Аминтовъ Македонїи царемъ бысть · ѹже вельми старъ · мѫжь благъ · конелюбьць и ловець · иꙁкѹсьнъ воєвода · благочьстивъ и ревьнъ жрьтвоприношениихъ ·",
+        "el": "Κατέστρεψε δέ ἔτει πρώτῳ τῆς πέμπτης καὶ ἑκατοστῆς Ὀλυμπιάδος, ἐπὶ ἄρχοντος Καλλιμήδου, ἐφ' οὗ καὶ Φίλιππος ὁ Ἀμύντου Μακεδόνων ἦρξε. Τέθνηκε δ' ἐν Κορίνθῳ, ἤδη δηλαδὴ γηραιὸς ἱκανῶς· ἀνὴρ τά τ' ἄλλα γεγονὼς ἀγαθὸς καὶ δὴ καὶ φίλιππος καὶ φιλοκύνηγος καὶ τακτικός· εὐσεβής τε καὶ φιλοθύτης.",
+        "author": "Ksenofont",
+        "source": "diogenes-laertius",
+        "reference": "II.56"
+    },
+    {
+        "type": "bio",
+        "year": -350,
+        "sr": "Napisao je oko četrdeset knjiga, po različitim podelama.",
+        "stsl": "Написа окрѣстъ четыридесѧть кьнигъ · по различнымъ раздѣлениємъ ·",
+        "el": "Συνέγραψε δὲ βιβλία πρὸς τὰ τετταράκοντα, ἄλλων ἄλλως διαιρούντων.",
+        "author": "Ksenofont",
+        "source": "diogenes-laertius",
+        "reference": "II.56"
+    },
+    {
         "type": "reported",
         "sr": "Ksenofont je govorio da je priroda odavno osudila na smrt i njegove sudije i njega.",
         "stsl": "Ксенофонтъ глаголаше ꙗко єстество издавьна и сѫдиѩ єго и самого єго на смрьть осѫди ·",

@@ -1,5 +1,75 @@
 [
     {
+        "type": "bio",
+        "year": -396,
+        "sr": "Ksenokrat, sin Agathenora iz Halkidona; još kao mladić slušao je Platona i pratio ga na Siciliju.",
+        "stsl": "Ксенократъ · Агаѳенора сынъ · отъ Халкидона · ꙗко юноша слѹшаше Платона и съ нимъ въ Сикилию хожаше ·",
+        "el": "Ξενοκράτης Ἀγαθήνορος Χαλκηδόνιος· οὗτος ἐκ νέου Πλάτωνος ἤκουσεν, ἀλλὰ καὶ εἰς Σικελίαν αὐτῷ συναπεδήμησεν.",
+        "author": "Ksenokrat",
+        "source": "diogenes-laertius",
+        "reference": "IV.6"
+    },
+    {
+        "type": "bio",
+        "year": -380,
+        "sr": "Po naravi spor, pa je Platon, poredivši ga sa Aristotelom, govorio da jednom treba ostruga, a drugom uzda, i neprestano mu savetovao da žrtvuje Gracijama.",
+        "stsl": "По естествѹ медлителенъ · и Платонъ · съ Аристотелемъ и сравлѧѭ · глаголаше · ꙗко єдиномѹ острога трѣбна · дрѹгомѹ же ѹзда · и непрѣстаньно ємѹ съвѣтоваше Грацїамъ жрьтвовати ·",
+        "el": "Ἦν δὲ τὴν φύσιν νωθρός, ὥστε λέγειν τὸν Πλάτωνα συγκρίνοντα αὐτὸν Ἀριστοτέλει, « Τῷ μὲν μύωπος δεῖ, τῷ δὲ χαλινοῦ· » καὶ « Ἐφ' οἷον ἵππον οἷον ὄνον ἀλείφω. » Σεμνὸς δὲ τά τ' ἄλλα Ξενοκράτης καὶ σκυθρωπὸς ἀεί, ὥστε αὐτῷ λέγειν συνεχὲς τὸν Πλάτωνα, « Ξενόκρατες, θῦε ταῖς Χάρισι. »",
+        "author": "Ksenokrat",
+        "source": "diogenes-laertius",
+        "reference": "IV.6"
+    },
+    {
+        "type": "bio",
+        "year": -350,
+        "sr": "Boravio je najvećim delom u Akademiji; kažu da su svi bučni i bezobrazni kada bi trebalo da ode u grad, povlačili se dok je on prolazio.",
+        "stsl": "Въ Академии болшею частїю живѧше · глаголѭть же · ꙗко вьси шѹмни и наглии · єгда бы въ градъ исходити ємѹ подобало · прилежащѹ ємѹ ѹкланѧахѹсѧ ·",
+        "el": "Διῆγέ τ' ἐν Ἀκαδημείᾳ τὰ πλεῖστα· καὶ εἴ ποτε μέλλοι ἐς ἄστυ ἀνιέναι, φασὶ τοὺς θορυβώδεις πάντας καὶ προυνίκους ὑποστέλλειν αὐτοῦ τῇ παρόδῳ.",
+        "author": "Ksenokrat",
+        "source": "diogenes-laertius",
+        "reference": "IV.6"
+    },
+    {
+        "type": "bio",
+        "year": -340,
+        "sr": "Nasleđivao je Speusipa na čelu škole i predvodio je dvadeset pet godina, od arhontstva Lisimahida, u drugoj godini 110. olimpijade.",
+        "stsl": "Спевсипа на чєлѣ школы наслѣдоваше и двадесѧть и пѧть лѣтъ прѣдводѧше · отъ архонтства Лѵсимахидова · въ дрѹгомь лѣтѣ 110-ꙑѩ Олѵмпиады ·",
+        "el": "Διεδέξατο δὲ Σπεύσιππον καὶ ἀφηγήσατο τῆς σχολῆς πέντε καὶ εἴκοσιν ἔτη ἐπὶ Λυσιμαχίδου ἀρξάμενος κατὰ τὸ δεύτερον ἔτος τῆς δεκάτης καὶ ἑκατοστῆς Ὀλυμπιάδος.",
+        "author": "Ksenokrat",
+        "source": "diogenes-laertius",
+        "reference": "IV.14"
+    },
+    {
+        "type": "bio",
+        "year": -330,
+        "sr": "Bio je skromnog karaktera i bez nadmenosti; često je praktikovao vežbe sa samim sobom i izdvajao jedan čas dnevno za tišinu.",
+        "stsl": "Смѣреноꙁра и безъ надмѣнности бѣ · многащи ѹпражненїꙗ съ собою самьмъ творѧше и єдинъ часъ дьньскыи ради тишины изнадѣлѧше ·",
+        "el": "Ἀτυφότατος δὲ ὢν πολλάκις τῆς ἡμέρας ἑαυτῷ ἐμελέτα, καὶ ὥραν μίαν, φασίν, ἀπένεμε σιωπῇ.",
+        "author": "Ksenokrat",
+        "source": "diogenes-laertius",
+        "reference": "IV.11"
+    },
+    {
+        "type": "bio",
+        "year": -320,
+        "sr": "Ostavio je mnoštvo spisa, pesama i pouka.",
+        "stsl": "Множьство писъ · пѣсьнъ и поѹчениихъ остави ·",
+        "el": "Καὶ πλεῖστα ὅσα καταλέλοιπε συγγράμματα καὶ ἔπη καὶ παραινέσεις.",
+        "author": "Ksenokrat",
+        "source": "diogenes-laertius",
+        "reference": "IV.11"
+    },
+    {
+        "type": "bio",
+        "year": -314,
+        "sr": "Umro je noću pošto je pao preko bronzane posude, u dobi od osamdeset dve godine.",
+        "stsl": "Ѹмре нощию · ꙗко о медьнѫ сосѹдинѫ претъче сѧ · въ лѣтѣхъ осмьдесѧтъ и двою ·",
+        "el": "Ἐτελεύτα δὲ νυκτὸς λεκάνῃ προσπταίσας, ἔτος ἤδη γεγονὼς δεύτερον καὶ ὀγδοήκοντα.",
+        "author": "Ksenokrat",
+        "source": "diogenes-laertius",
+        "reference": "IV.14"
+    },
+    {
         "type": "reported",
         "sr": "Ksenokrat je govorio da molilac ne sme biti izdan.",
         "stsl": "Ксенократъ глаголаше · ꙗко молѧи сѧ не подобаєтъ быти прѣданъ ·",

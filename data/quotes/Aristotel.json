@@ -1,5 +1,75 @@
 [
     {
+        "type": "bio",
+        "year": -384,
+        "sr": "Rođen u Stagiri; sin Nikomaha, lekara makedonskog kralja Aminte.",
+        "stsl": "Родисѧ въ Стагирѣ · сынъ Никомаха · врача македоньскаго царꙗ Аминтꙑ.",
+        "el": "Ἀριστοτέλης Νικομάχου καὶ Φαιστίδος Σταγειρίτης· ὁ δὲ Νικόμαχος συνεβίου Ἀμύντᾳ τῷ Μακεδόνων βασιλεῖ ἰατροῦ καὶ φίλου χρείᾳ.",
+        "author": "Aristotel",
+        "source": "diogenes-laertius",
+        "reference": "V.1"
+    },
+    {
+        "type": "bio",
+        "year": -367,
+        "sr": "Došao Platonu u Akademiju u sedamnaestoj godini; boravio dvadeset godina.",
+        "stsl": "Къ Платонꙋ въ Академїю въ седмьнадесѧтѣмь лѣтѣ прїиде · двадесѧтъ лѣтъ прѣбы.",
+        "el": "Παραβαλεῖν δὲ Πλάτωνι καὶ διατρῖψαι παρ' αὐτῷ εἴκοσιν ἔτη, ἑπτακαιδεκέτη συστάντα.",
+        "author": "Aristotel",
+        "source": "diogenes-laertius",
+        "reference": "V.9"
+    },
+    {
+        "type": "bio",
+        "year": -347,
+        "sr": "Napustio Platona još za njegova života; Platon rekao da ga je odbacio kao ždrebac majku.",
+        "stsl": "Платона єштє жива напѹсти · Платонъ рече ꙗко єго отринѹ ꙗкоже жрѣбѧ матерь.",
+        "el": "Ἀπέστη δὲ Πλάτωνος ἔτι περιόντος· ὥστε φασὶν ἐκεῖνον εἰπεῖν, Ἀριστοτέλης ἡμᾶς ἀπελάκτισε καθαπερεὶ τὰ πωλάρια γεννηθέντα τὴν μητέρα.",
+        "author": "Aristotel",
+        "source": "diogenes-laertius",
+        "reference": "V.2"
+    },
+    {
+        "type": "bio",
+        "year": -343,
+        "sr": "Otišao u Makedoniju kod Filipa; primio Aleksandra za učenika; zamolio da obnovi Stagiru.",
+        "stsl": "Въ Македонїю къ Филипꙋ отиде · Александра за ѹченика приѩтъ · проси да Стагирꙋ обнови.",
+        "el": "Ἐντεῦθέν τε γενέσθαι ἐν Μακεδονίᾳ παρὰ Φιλίππῳ καὶ λαβεῖν μαθητὴν παρ' αὐτοῦ τὸν υἱὸν Ἀλέξανδρον, καὶ αἰτῆσαι ἀναστῆσαι αὐτοῦ τὴν πατρίδα κατασκαφεῖσαν ὑπὸ Φιλίππου καὶ τυχεῖν.",
+        "author": "Aristotel",
+        "source": "diogenes-laertius",
+        "reference": "V.4"
+    },
+    {
+        "type": "bio",
+        "year": -335,
+        "sr": "Vratio se u Atinu; predavao u Likeju trinaest godina.",
+        "stsl": "Въ Атинꙑ възврати сѧ · въ Лѵкеи тринадесѧтъ лѣтъ поѹчааше.",
+        "el": "Εἰς δ' Ἀθήνας ἀφικέσθαι καὶ ἐν Λυκείῳ σχολάσαι ἔτη τρία πρὸς τοῖς δέκα.",
+        "author": "Aristotel",
+        "source": "diogenes-laertius",
+        "reference": "V.10"
+    },
+    {
+        "type": "bio",
+        "year": -323,
+        "sr": "Pobegao u Halkidu pošto ga Eurymedon optužio za bezbožnost zbog himne Hermiji.",
+        "stsl": "Въ Халкидꙋ бѣжа · понеже Еѵримедонъ обвини єго въ безбожии ради пѣсни Хермїи.",
+        "el": "Ὑπεξῆλθεν εἰς Χαλκίδα, Εὐρυμέδοντος αὐτὸν τοῦ ἱεροφάντου δίκην ἀσεβείας γραψαμένου, ἐπειδήπερ τὸν ὕμνον ἐποίησεν εἰς τὸν προειρημένον Ἑρμίαν.",
+        "author": "Aristotel",
+        "source": "diogenes-laertius",
+        "reference": "V.5"
+    },
+    {
+        "type": "bio",
+        "year": -322,
+        "sr": "Umro u Halkidi u šezdeset trećoj godini od bolesti; po nekima popio otrov.",
+        "stsl": "Въ Халкидѣ въ шестьдесѧтѣи третїеи годинѣ отъ болѣзни ѹмрѣ · по нѣкїимъ отрѹтꙋ попи.",
+        "el": "Τελευτῆσαι ἐτῶν τριῶν που καὶ ἑξήκοντα νόσῳ· πιὼν ἀκόνιτον ἐτελεύτησεν.",
+        "author": "Aristotel",
+        "source": "diogenes-laertius",
+        "reference": "V.6-10"
+    },
+    {
         "type": "quote",
         "sr": "Bilo bi sramotno ćutati i pustiti Ksenokrata da govori.",
         "stsl": "Срамотно єсть молчати и Ксенократѹ глаголати попѹстити ·",

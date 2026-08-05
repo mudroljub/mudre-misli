@@ -1,5 +1,35 @@
 [
     {
+        "type": "bio",
+        "year": -625,
+        "sr": "Rođen u Prijeni; otac Teutam; jedan od sedam mudraca.",
+        "stsl": "Роди сѧ въ Приѥнѣ · отьць Теѵтамъ · єдинъ отъ седми мѫдрецъ.",
+        "el": "Βίας Τευτάμου Πριηνεύς, προκεκριμένος τῶν ἑπτὰ ὑπὸ Σατύρου.",
+        "author": "Bijant",
+        "source": "diogenes-laertius",
+        "reference": "I.82"
+    },
+    {
+        "type": "bio",
+        "year": -600,
+        "sr": "Vrlo vešt u vođenju pravnih sporova; svoju retoričku snagu koristio je u dobrotvorne svrhe.",
+        "stsl": "Зѣло иꙁкѹсенъ въ веденїи судебныхъ прїи · силꙋ рѣчи своєѩ въ благыѩ цѣли ѹпотреблꙗаше.",
+        "el": "Δίκας δεινότατος γεγονέναι εἰπεῖν. Ἐπ' ἀγαθῷ μέντοι τῇ τῶν λόγων ἰσχύϊ προσεχρῆτο.",
+        "author": "Bijant",
+        "source": "diogenes-laertius",
+        "reference": "I.84"
+    },
+    {
+        "type": "bio",
+        "year": -546,
+        "sr": "Umro u dubokoj starosti; grad ga svečano sahranio.",
+        "stsl": "Во глѹбоцѣи старости преставитъ сѧ · градъ єго торжествьно погребе.",
+        "el": "Ἤδη ὑπέργηρως ὑπάρχων ἐτελεύτα· καὶ αὐτὸν μεγαλοπρεπῶς ἔθαψεν ἡ πόλις.",
+        "author": "Bijant",
+        "source": "diogenes-laertius",
+        "reference": "I.84-85"
+    },
+    {
         "type": "quote",
         "sr": "Stičite naklonost svih građana, u kojoj god državi živeli. Jer to donosi najveću zahvalnost; tvrdoglav duh često izbija s pogubnom silom.",
         "stsl": "Снискѹите благоволение вьсѣхъ гражданъ · въ коємь же градѣ живете · Сие бо приносить наибольшѹю благодарность · своєвольный же дѹхъ часто изходитъ съ погѹбною силою ·",
@@ -137,6 +167,7 @@
         "type": "anecdote",
         "sr": "Bijant je otkupio mesenijske devojke zarobljene u ratu, odgajio ih kao kćeri, dao im miraz i vratio ih očevima u Meseniju.",
         "stsl": "Биантъ откѹпи нѣкыꙗ мессениꙗнски дѣвы въ вои плѣнены · въспита ꙗ ꙗко дъщери своꙗ · даде имъ вѣно и врати ꙗ отьцемъ ихъ въ Мессениꙗнию ·",
+        "el": "Κόρας αἰχμαλώτους λυτρωσάμενον Μεσσηνίας θρέψαι τε ὡς θυγατέρας καὶ προῖκας ἐπιδοῦναι καὶ εἰς τὴν Μεσσήνην ἀποστεῖλαι τοῖς πατράσιν αὐτῶν.",
         "author": "Bijant",
         "source": "diogenes-laertius",
         "year": -625,
@@ -146,6 +177,7 @@
         "type": "anecdote",
         "sr": "Dok je Alijet opsedao Prijen, Bijant je uhranio dva mazga i uterao ih u neprijateljev logor. Kada ih je kralj video u tako dobrom stanju, uvideo je da gradu ne nedostaje hrana i sklopio je mir.",
         "stsl": "Єгда Алиатъ осаждааше Приєнѹ · Биантъ откормилъ двѹ мѹла и вогна ꙗ въ станъ непрїателꙗ · Єгда же царь видѣ ꙗ толь тѹчна · смысли · ꙗко градъ въ довольствии єсть · и рѣши миръ сътворити ·",
+        "el": "Ἀλυάττου πολιορκοῦντος Πριήνην τὸν Βίαντα πιήναντα δύο ἡμιόνους ἐξελάσαι εἰς τὸ στρατόπεδον· τὸν δὲ συνιδόντα καταπλαγῆναι τὸ μέχρι καὶ ἀλόγων διατείνειν αὐτῶν τὴν εὐθένιαν. Καὶ μαθὼν ὁ Ἀλυάττης εἰρήνην ἐσπείσατο πρὸς τοὺς Πριηνέας.",
         "author": "Bijant",
         "source": "diogenes-laertius",
         "year": -609,
@@ -155,6 +187,7 @@
         "type": "anecdote",
         "sr": "Kada je Alijet posle sklopljenog mira pozvao Bijanta k sebi, ovaj je odgovorio glasniku: 'Reci Alijatu neka se hrani lukom' — to jest, neka plače.",
         "stsl": "Єгда Алиатъ по сътвореніємь мирѣ посла посланника по Бианта да приидетъ к немѹ · Биантъ отвѣща · 'Рцы Алиатѹ да питаєтъ сѧ лѹкомъ' · сирѣчь да плачетъ ·",
+        "el": "Θᾶττον δ' αὐτῷ πέμψαντι πρὸς τὸν Βίαντα ἵνα ἥκοι παρ' αὐτόν, « Ἐγὼ δέ, » φησίν, « Ἀλυάττῃ κελεύω κρόμμυα ἐσθίειν. »",
         "author": "Bijant",
         "source": "diogenes-laertius",
         "year": -593,
@@ -183,7 +216,8 @@
     {
         "type": "anecdote",
         "sr": "Bijant je umro u dubokoj starosti braneći svog klijenta na sudu. Završivši govor, naslonio je glavu na naručje svog unuka. Sudije su glasale u korist klijenta, a kada se sud razišao, Bijant je nađen mrtav.",
-        "stsl": "Биантъ ѹмрѣ въ глѹбоцѣй старости · брань клиента своєго на сѹдищи · Скончавъ же рѣчь свою · главѹ наслони на лоно вноѹка своєго · Сѹдии же гласоваша въ пользѹ клиента · и єгда сѹдище разыдесѧ · Биантъ обрѣтенъ бысть мрьтвъ ·",
+        "stsl": "Биантъ ѹмрѣ въ глѹбоцѣй старости · брань клиента своєго на сѹдищи · Скончавъ же рѣчь свою · главѹ наслони на лоно внѹка своєго · Сѹдии же гласоваша въ пользѹ клиента · и єгда сѹдище разыдесѧ · Биантъ обрѣтенъ бысть мрьтвъ ·",
+        "el": "Δίκην γὰρ ὑπέρ τινος λέξας ἤδη ὑπέργηρως ὑπάρχων, μετὰ τὸ καταπαῦσαι τὸν λόγον ἀπέκλινε τὴν κεφαλὴν εἰς τοὺς τοῦ τῆς θυγατρὸς υἱοῦ κόλπους· εἰπόντος δὲ καὶ τοῦ δι' ἐναντίας καὶ τῶν δικαστῶν τὴν ψῆφον ἐνεγκόντων τῷ ὑπὸ τοῦ Βίαντος βοηθουμένῳ, λυθέντος τοῦ δικαστηρίου νεκρὸς ἐν τοῖς κόλποις εὑρέθη.",
         "author": "Bijant",
         "source": "diogenes-laertius",
         "year": -546,

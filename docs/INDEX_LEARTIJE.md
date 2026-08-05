@@ -4,6 +4,7 @@
 
 **Grč.**: Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων  
 **Lat.**: De Vitis, Dogmatibus et Apophthegmatibus Clarorum Philosophorum  
+**Stsl.**: Житиꙗ и мнѣніꙗ именитыхъ любомѫдрьць
 **Srp.**: Живота и мишљења знаменитих философа
 
 ## Spisak filozofa
