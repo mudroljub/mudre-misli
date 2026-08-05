@@ -17,7 +17,7 @@ export default function Sidebar({ language }: SidebarProps) {
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(true);
   const [expandedGroups, setExpandedGroups] = useState<Set<string>>(
-    new Set(['presocratics-6-5. vek p.n.e.'])
+    new Set()
   );
   const t = getTranslation(language);
 

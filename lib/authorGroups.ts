@@ -68,7 +68,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'sophists',
         title: 'Sophists',
-        authors: ['Protagoras']
+        authors: ['Gorgias', 'Protagoras']
       },
       {
         titleKey: 'socratics',

@@ -6,6 +6,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 **Legenda:**
 - ✅ = Ekstraktovano u `data/sources/walter-burley/latin_raw/`
+- ✅✅ = Obrađeno u `data/quotes/` i `data/authors.json`
 
 **Organizacija:** Hronološki po redosledu poglavlja (kao u originalnoj knjizi)
 
@@ -47,12 +48,12 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 24. Ezop (Aesopus, c. XXIV, s. 98)
 25. Simonid (Simonides, c. XXIII, s. 98)
 26. Zenon Stoik (Zeno citieus, c. XXV, s. 94) ✅
-27. Gorgija (Gorgias, c. XXVI, s. 96) ✅
+27. Gorgija (Gorgias, c. XXVI, s. 96) ✅✅
 
 ### Sofisti i retori
 
 28. Protagora (Protagoras, c. XXVIII, s. 104) ✅
-29. Hrisip (Chrysippus, c. XXIX, s. 102) ✅
+29. Hrisip (Chrysippus, c. XXIX, s. 102) ✅✅
 
 ### Sokrat i sokratovci
 
