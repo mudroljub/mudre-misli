@@ -24,12 +24,12 @@
 
     > *:nth-child(odd) {
       align-self: flex-start;
-      max-width: 70%;
+      max-width: 60%;
     }
 
     > *:nth-child(even) {
       align-self: flex-end;
-      max-width: 70%;
+      max-width: 60%;
     }
 
     @media (max-width: $breakpoint-mobile) {
