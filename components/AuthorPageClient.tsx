@@ -7,6 +7,7 @@ import { getAuthorName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
 import type { AuthorData, Language, Entry } from "../types/data";
 import QuoteCard from "./QuoteCard";
+import BookLayout from "./BookLayout";
 import styles from "./AuthorPageClient.module.scss";
 import gridStyles from "./EntriesGrid.module.scss";
 
@@ -29,9 +30,11 @@ export default function AuthorPageClient({
     (entry) => entry.type === "quote" || entry.type === "reported",
   );
 
-  const lifeEventsSection = authorEntries.filter(
-    (entry) => entry.type === "anecdote" || entry.type === "bio",
-  );
+  const lifeEventsSection = authorEntries
+    .filter((entry): entry is Extract<Entry, { type: "anecdote" | "bio" }> =>
+      entry.type === "anecdote" || entry.type === "bio"
+    )
+    .sort((a, b) => a.year - b.year);
 
   return (
     <main className="page-shell">
@@ -52,16 +55,7 @@ export default function AuthorPageClient({
           <section className={styles.authorSection}>
             <h3>{t.sectionLife}</h3>
 
-            <div className={`${gridStyles.grid} ${gridStyles.double}`}>
-              {lifeEventsSection.map((entry) => (
-                <QuoteCard
-                  key={entry._id}
-                  entry={entry}
-                  language={language}
-                  showSource={false}
-                />
-              ))}
-            </div>
+            <BookLayout entries={lifeEventsSection} language={language} />
           </section>
         )}
 

@@ -2,9 +2,11 @@
 
 .switch {
   margin-bottom: 20px;
+  display: flex;
+  justify-content: flex-end;
 
   button {
-    margin-right: $spacing-xs;
+    margin-left: $spacing-xs;
     padding: $spacing-xs ($spacing-xs * 2);
     border: 2px solid $color-primary;
     background: $color-white;
