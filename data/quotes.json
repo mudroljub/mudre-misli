@@ -268,7 +268,7 @@
     "author": "Anaksagora",
     "source": "diogenes-laertius",
     "reference": "II.12",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:84"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:84#ὅλος "
   },
   {
     "_id": 25,
@@ -312,7 +312,8 @@
     "source": "diogenes-laertius",
     "year": -500,
     "reference": "II.12",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:84"
+    "el": "φυσιολογίαν εἰς Ἀθήνας μετήγαγε, πρῶτος βιβλίον ἐνέγραψεν.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:84#φυσιο"
   },
   {
     "_id": 29,
@@ -371,7 +372,8 @@
     "source": "diogenes-laertius",
     "year": -428,
     "reference": "II.12–14",
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:84"
+    "el": "Ἀνεκλήθη δὲ πρὸς τῆς βουλῆς καὶ ἀσεβείας διὰ τὸ τὸν ἥλιον μύδρον διάπυρόν φασκεν εἶναι.",
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:84#Ἀνεκλ"
   },
   {
     "_id": 34,
@@ -1517,6 +1519,7 @@
     "source": "diogenes-laertius",
     "year": -384,
     "reference": "VI.14–15",
+    "el": "Οὗτος ἀπηλγηκυίας μὲν Διογένη πεποίηκεν, ἐγκρατῆ δὲ Κράτητα, καρτερικὸν δὲ Ζήνωνα.",
     "pointer": "data/sources/diogenes-laertius/el/07.txt:40"
   },
   {
@@ -1528,7 +1531,8 @@
     "source": "diogenes-laertius",
     "year": -375,
     "reference": "VI.8",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:24"
+    "el": "Φορῶν δὲ διπλοΐδα ἔστρεφεν αὐτῆς τὸ ἐρρωγὸς πρὸς τὸ ἐμφανές, ὡς καὶ Σωκράτης ἴδοι.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:24#Φορῶν"
   },
   {
     "_id": 137,
@@ -1539,7 +1543,8 @@
     "source": "diogenes-laertius",
     "year": -366,
     "reference": "VI.18–19",
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:176"
+    "el": "Τὸν γοῦν Ἀντισθένην νοσοῦντα Διογένης ἐλθὼν καὶ εἰπών· « Φίλου δεῖ; » ἐγχειριδίου προτείνας.",
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:176#Τὸν γ"
   },
   {
     "_id": 138,
@@ -2427,7 +2432,7 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.2",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:5"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:5#Ἀπέστ"
   },
   {
     "_id": 217,
@@ -2439,7 +2444,7 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.4",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:13"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:13#Ἐντεῦ"
   },
   {
     "_id": 218,
@@ -2475,7 +2480,7 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.6-10",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:31"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:31#Τελευ"
   },
   {
     "_id": 221,
@@ -2738,6 +2743,7 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.28",
+    "el": "Τῆς φιλοσοφίας τὸ μὲν πρακτικὸν εἶναι, τὸ δὲ θεωρητικόν.",
     "pointer": "data/sources/diogenes-laertius/el/06.txt:516"
   },
   {
@@ -2748,7 +2754,8 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.30",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:520"
+    "el": "Τὸ δὲ τέλος εἶναι τῆς ἠθικῆς τὴν κατ' ἀρετὴν ἐνέργειαν ἐν βίῳ τελείῳ.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:520#Τὸ δὲ"
   },
   {
     "_id": 246,
@@ -2758,7 +2765,8 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.30",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:520"
+    "el": "Συνίστασθαί τε τὴν εὐδαιμονίαν ἔκ τε ψυχικῶν ἀγαθῶν καὶ σωματικῶν καὶ ἐκτῶν.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:520#Συνίσ"
   },
   {
     "_id": 247,
@@ -2768,7 +2776,8 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.30",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:520"
+    "el": "Καὶ μὴ ἱκανὴν εἶναι τὴν ἀρετὴν μόνην πρὸς εὐδαιμονίαν ἀλλὰ δεῖσθαι καὶ σωματικῶν ἀγαθῶν καὶ ἐκτός.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:520#Καὶ μ"
   },
   {
     "_id": 248,
@@ -2778,7 +2787,8 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.31",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:522"
+    "el": "Τὴν φιλίαν ἰσότητα εἶναι εὐνοϊκήν.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:522#Τὴν φ"
   },
   {
     "_id": 249,
@@ -2788,7 +2798,8 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.31",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:522"
+    "el": "Τῶν τε βίων τὸν θεωρητικὸν εἶναι προτιμότερον.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:522#Τῶν τ"
   },
   {
     "_id": 250,
@@ -2798,6 +2809,7 @@
     "author": "Aristotel",
     "source": "diogenes-laertius",
     "reference": "V.32–33",
+    "el": "Τὴν ψυχὴν ἐντελέχειαν εἶναι πρώτην σώματος φυσικοῦ ὀργανικοῦ δυνάμει ζωὴν ἔχοντος.",
     "pointer": "data/sources/diogenes-laertius/el/06.txt:526"
   },
   {
@@ -2809,7 +2821,8 @@
     "source": "diogenes-laertius",
     "year": -384,
     "reference": "V.2",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:5"
+    "el": "Πλάτων δ' αὐτὸν λακτίζειν ἔλεγεν ὥσπερ τὰ πῶλα τὰς μητέρας.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:5#Πλάτω"
   },
   {
     "_id": 252,
@@ -2820,7 +2833,8 @@
     "source": "diogenes-laertius",
     "year": -376,
     "reference": "V.2",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:5"
+    "el": "Μεταστὰς δὲ εἰς τὸ Λύκειον περιπατῶν ἐφιλοσόφει μετὰ τῶν μαθητῶν μέχρι ἀλειπτικῆς ὥρας.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:5#Μετασ"
   },
   {
     "_id": 253,
@@ -2831,7 +2845,8 @@
     "source": "diogenes-laertius",
     "year": -368,
     "reference": "V.4",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:13"
+    "el": "Ἀλεξάνδρου γενόμενος διδάσκαλος ᾔτησεν αὐτὸν τὴν Στάγειραν ἀνακτίσαι κατεσκαμμένην.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:13#Ἀλεξά"
   },
   {
     "_id": 254,
@@ -2842,7 +2857,8 @@
     "source": "diogenes-laertius",
     "year": -361,
     "reference": "V.5",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:15"
+    "el": "Καλλισθένους δὲ ἐλευθεριάζοντος πρὸς τὸν Ἀλέξανδρον ἔφη πρὸς αὐτόν· « Ὀψὲ καὶ ταχέως λαλήσεις. »",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:15#Καλλι"
   },
   {
     "_id": 255,
@@ -2853,7 +2869,8 @@
     "source": "diogenes-laertius",
     "year": -353,
     "reference": "V.18",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:192"
+    "el": "Διογένους δὲ ἰσχάδας προτείναντος αὐτῷ καὶ νομίσαντος ὅτι, ἐὰν μὴ λάβῃ, ἐρεῖ τι σκῶμμα, λαβεῖν καὶ μετεωρίσαντα ὥσπερ τὰ παιδία, εἰπεῖν « Μέγας Διογένης », καὶ ἀποδοῦναι.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:192#Διογέ"
   },
   {
     "_id": 256,
@@ -2864,7 +2881,8 @@
     "source": "diogenes-laertius",
     "year": -345,
     "reference": "V.20",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:196"
+    "el": "Πρὸς τὸν πολλὰ εἰπόντα καὶ ἐρόμενον εἰ κεκόφωκεν « Οὐδαμῶς, » ἔφη, « σοῦ γ' ἕνεκα· ὑπ' οὐδενὸς γὰρ φειδοῖ πρὸς τὸ λέγειν κέχρησαι. »",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:196#Πρὸς "
   },
   {
     "_id": 257,
@@ -2875,7 +2893,8 @@
     "source": "diogenes-laertius",
     "year": -337,
     "reference": "V.9",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:85"
+    "el": "Πρῶτόν τε λόγον ἀπολογίας γράψαι ἑαυτῷ ἐν δικαστηρίῳ μέλλοντι χρήσασθαι.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:85#Πρῶτό"
   },
   {
     "_id": 258,
@@ -2886,7 +2905,8 @@
     "source": "diogenes-laertius",
     "year": -330,
     "reference": "V.6",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:31"
+    "el": "Ἀσεβείας δὲ γραφεὶς ἐξεχώρησεν εἰς Χαλκίδα, μεμνημένος τῶν Σωκράτει συμβάντων καὶ οὐκ ἐῶν Ἀθηναίους δὶς εἰς φιλοσοφίαν ἐξαμαρτεῖν.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:31#Ἀσεβε"
   },
   {
     "_id": 259,
@@ -2897,6 +2917,7 @@
     "source": "diogenes-laertius",
     "year": -322,
     "reference": "V.12–16",
+    "el": "Διέθετο δὲ καὶ ὧδε· « Ἔσται μὲν καλῶς· ἐὰν δέ τι συμβαίνῃ, Ἀριστοτέλης τάδε διέθετο. »",
     "pointer": "data/sources/diogenes-laertius/el/06.txt:112"
   },
   {
@@ -5274,7 +5295,8 @@
     "author": "Ksenofan",
     "source": "diogenes-laertius",
     "reference": "IX.18",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:105"
+    "el": "Ἐπιτιμᾷ δὲ καὶ τῷ Ἡσιόδῳ καὶ τῷ Ὁμήρῳ ἐν τοῖς ποιήμασι περὶ τῶν θεῶν.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:105#Ἐπιτι"
   },
   {
     "_id": 469,
@@ -5285,7 +5307,8 @@
     "source": "diogenes-laertius",
     "year": -570,
     "reference": "IX.18",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:105"
+    "el": "Φυγὰς δὲ γενόμενος τῆς πατρίδος διέτριβεν ἐν Ζάγκλῃ τῆς Σικελίας καὶ ἐν Κατάνῃ.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:105#Φυγὰς"
   },
   {
     "_id": 470,
@@ -5296,7 +5319,8 @@
     "source": "diogenes-laertius",
     "year": -539,
     "reference": "IX.20",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:121"
+    "el": "Εἰπόντος δὲ Ἐμπεδοκλέους ὅτι ἀδύνατον εὑρεῖν σοφόν, « Εἰκότως », ἔφη· « δεῖ γὰρ εἶναι σοφὸν τὸν ἐπιγνωσόμενον σοφόν. »",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:121#Εἰπόν"
   },
   {
     "_id": 471,
@@ -5307,7 +5331,8 @@
     "source": "diogenes-laertius",
     "year": -509,
     "reference": "IX.20",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:121"
+    "el": "Φησὶ δὲ Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ αὐτὸν ἀνδραποδισθῆναι, λυθῆναι δὲ ὑπὸ Πυθαγορείων τῶν περὶ Παρμενίσκον καὶ Ὠρέστην.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:121#Φησὶ "
   },
   {
     "_id": 472,
@@ -5318,7 +5343,8 @@
     "source": "diogenes-laertius",
     "year": -478,
     "reference": "IX.20",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:121"
+    "el": "Ταῖς αὑτοῦ χερσὶ θάψαι τοὺς παῖδας καθάπερ Ἀναξαγόρας.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:121#Ταῖς "
   },
   {
     "_id": 473,
@@ -5823,7 +5849,7 @@
     "author": "Leukip",
     "source": "diogenes-laertius",
     "reference": "IX.30",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#Λεύκι"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#Λεύκιππος Ἐλεάτης, ὡς δέ τινες"
   },
   {
     "_id": 516,
@@ -5935,18 +5961,20 @@
     "source": "diogenes-laertius",
     "year": -480,
     "reference": "IX.30",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:207"
+    "el": "Λεύκιππος Ἐλεάτης, ὡς δέ τινες, Ἀβδηρίτης, κατ' ἐνίους δὲ Μιλήσιος.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#Λεύκιππος Ἐλεάτης, ὡς δέ τινες"
   },
   {
     "_id": 526,
     "type": "anecdote",
     "sr": "Diogen ga prikazuje kao prvog koji je postavio atomе za prva načela i time otvorio put Demokritovom razvijanju atomističkog učenja.",
     "stsl": "Диогенъ єго показѹєть ꙗко пьрваго · иже недѣлима тѣлеса за пьрва начѧла положи · и тимь пѫть Демокритовѹ къ распространению атомьскаго ѹчениꙗ отвръзє ·",
+    "el": "πρῶτός τ' ἀτόμους ἀρχὰς ὑπεστήσατο.",
     "author": "Leukip",
     "source": "diogenes-laertius",
     "year": -420,
     "reference": "IX.30",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:207"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#πρῶτό"
   },
   {
     "_id": 527,
@@ -5970,7 +5998,7 @@
     "author": "Parmenid",
     "source": "diogenes-laertius",
     "reference": "IX.21",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Οὗτος"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Οὗτος ἤ"
   },
   {
     "_id": 529,
@@ -6128,7 +6156,8 @@
     "source": "diogenes-laertius",
     "year": -515,
     "reference": "IX.21",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:129"
+    "el": "Οὗτος Ξενοφάνους μὲν ἤκουσεν, οὐ μέντοι ἐζήλωσεν αὐτόν.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Οὗτος Ξ"
   },
   {
     "_id": 543,
@@ -6139,7 +6168,8 @@
     "source": "diogenes-laertius",
     "year": -499,
     "reference": "IX.23",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:150"
+    "el": "Τῇ πατρίδι νόμους ἔθηκε, καθά φησι Σπεύσιππος ἐν τῷ Περὶ φιλοσόφων.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:150#Τῇ πα"
   },
   {
     "_id": 544,
@@ -6150,7 +6180,8 @@
     "source": "diogenes-laertius",
     "year": -482,
     "reference": "IX.23",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:150"
+    "el": "πρῶτός τε ἐπενόησε τὴν γῆν σφαιροειδῆ καὶ ἐν μέσῳ κειμένην.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:150#πρῶτό"
   },
   {
     "_id": 545,
@@ -6161,7 +6192,8 @@
     "source": "diogenes-laertius",
     "year": -466,
     "reference": "IX.25",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:172"
+    "el": "Ζήνων Ἐλεάτης ἤκουσεν μὲν Παρμενίδου· υἱὸν δ' αὐτὸν ἐποιήσατο, καίπερ ὄντα ἐρώμενον, ὥς φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:172#Ζήνων Ἐλεάτης ἤ"
   },
   {
     "_id": 546,
@@ -6172,7 +6204,8 @@
     "source": "diogenes-laertius",
     "year": -450,
     "reference": "IX.23",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:150"
+    "el": "φησὶ δὲ Φαβωρῖνος πρῶτον αὐτὸν ἐπινοῆσαι τὸν Ἀχιλλέα καλούμενον λόγον.",
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:150#φησὶ "
   },
   {
     "_id": 547,
@@ -10064,6 +10097,7 @@
     "source": "diogenes-laertius",
     "year": -371,
     "reference": "V.36",
+    "el": "Θεόφραστος Ἐρέσιος. οὗτος ἤκουσε πρῶτον μὲν Ἀλκίππου τοῦ πολίτου, ἔπειτα Πλάτωνος, μετὰ δὲ Ἀριστοτέλους.",
     "pointer": "data/sources/diogenes-laertius/el/06.txt:540"
   },
   {
@@ -10075,7 +10109,8 @@
     "source": "diogenes-laertius",
     "year": -343,
     "reference": "V.39",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:558"
+    "el": "Μετὰ δὲ τὴν Ἀριστοτέλους τελευτὴν προέστη τῆς σχολῆς διὰ Δημητρίου τοῦ Φαληρέως, ὃν καὶ ἐποιήσατο γνώριμον Ἀριστοτέλει.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:558#Μετὰ "
   },
   {
     "_id": 895,
@@ -10086,7 +10121,7 @@
     "author": "Teofrast",
     "source": "diogenes-laertius",
     "reference": "V.39",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:558"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:558#θᾶττο"
   },
   {
     "_id": 896,
@@ -10097,6 +10132,7 @@
     "source": "diogenes-laertius",
     "year": -315,
     "reference": "V.37",
+    "el": "Ἀσεβείας δ' αὐτὸν ἐπαχθέντα ὑπὸ Ἁγνωνίδου παρ' ὀλίγον μὲν ἀποφυγεῖν, κινδυνεῦσαι δὲ τὸν κατήγορον.",
     "pointer": "data/sources/diogenes-laertius/el/06.txt:544"
   },
   {
@@ -10108,7 +10144,7 @@
     "author": "Teofrast",
     "source": "diogenes-laertius",
     "reference": "V.41",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:577"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:577#πολλὰ"
   },
   {
     "_id": 898,
@@ -10119,7 +10155,8 @@
     "source": "diogenes-laertius",
     "year": -287,
     "reference": "V.41",
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:577"
+    "el": "Πάντες δ' Ἀθηναῖοι, φησὶν Ἀντίγονος, ἐπὶ τῇ προθέσει αὐτοῦ παρῆσαν.",
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:577#Πάντε"
   },
   {
     "_id": 899,
@@ -10253,7 +10290,7 @@
     "year": -490,
     "reference": "IX.25",
     "el": "Ζήνων Ἐλεάτης φύσει μὲν Τελευταγόρου, θέσει δὲ Παρμενίδου· ἐρώμενός τε ἦν αὐτοῦ.",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:172#Ζήνων"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:172#Ζήνων Ἐλεάτης φ"
   },
   {
     "_id": 911,

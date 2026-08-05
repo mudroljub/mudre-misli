@@ -34,12 +34,10 @@ export default function QuotePageClient({
 
           <blockquote>{getTextForLanguage(quote, language)}</blockquote>
 
-          {quote.el && (
-            <blockquote className="original-quote">{quote.el}</blockquote>
-          )}
+          <blockquote className="original-quote">{quote.el}</blockquote>
 
           <p className="source-line">
-            {t.source}: {getSourceName(quote.source, language)}, {quote.reference}
+            <b>{t.source}</b>: {getSourceName(quote.source, language)}, {quote.reference}
           </p>
 
           <Link href={`/authors/${authorSlugs[quote.author] ?? quote.author}`}>

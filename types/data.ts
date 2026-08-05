@@ -28,8 +28,8 @@ interface BaseEntry {
   /** Old Church Slavonic translation (required) */
   stsl: string;
 
-  /** Greek original, when present in the source */
-  el?: string;
+  /** Greek original (required) */
+  el: string;
 
   /** Philosopher to whom the entry belongs */
   author: string;
