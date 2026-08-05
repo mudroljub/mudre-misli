@@ -31,3 +31,4 @@ npm start
 - organizovati Sidebar autore 
 - obraditi podatke iz latinskog teksta
 - srediti jezičke rute
+- dodati filozofski rečnik kao zasebnu stranicu

@@ -1,84 +1,64 @@
-# Pravila prevođenja na staroslovenski
+# Pravila rekonstrukcije slovenskog filozofskog jezika VIII veka
 
-Polje `stsl` predstavlja staroslovenski filozofski prevod.
+Polje `stsl` predstavlja prevod na rekonstruisani slovenski filozofski jezik VIII veka.
 
-Cilj nije doslovna istorijska rekonstrukcija svakodnevnog praslovenskog jezika, već stvaranje mogućeg staroslovenskog filozofskog izraza.
+U ovom projektu termin **"staroslovenski"** koristi se kao skraćen naziv za taj rekonstruisani jezik, osim kada se izričito odnosi na istorijski staroslovenski jezik ili njegove spomenike.
 
-Koristiti sledeći prioritet:
+Cilj nije doslovna rekonstrukcija govornog jezika VIII veka, već stvaranje mogućeg slovenskog filozofskog jezika tog doba.
 
-1. potvrđeni staroslovenski oblici;
-2. stariji slovenski koreni kada nema odgovarajućeg potvrđenog oblika;
-3. crkvenoslovenska filozofska terminologija kada preciznije izražava pojam;
-4. međuslovenski kao poslednja rezerva kada ne postoji odgovarajući stariji izraz.
+Prioritet:
 
-Ne koristiti moderne termine ako postoji stariji slovenski ekvivalent.
+1. potvrđeni staroslovenski oblici domaćih slovenskih reči;
+2. rekonstrukcija prema starijim slovenskim korenima;
+3. crkvenoslovenski termini kada pomažu rekonstrukciji;
+4. međuslovenski kao poslednja rezerva.
 
-Koristiti puni digraf ѹ umesto novijeg prostog у, kao i umesto spojene ligature ꙋ.
+Ne koristiti moderne termine ako postoji odgovarajući stariji slovenski izraz.
 
-Slovo Ї treba izbegavati jer nije postojalo u najranijoj ćirilici. Umesto toga koristiti І. Npr:
-- Арістотєлъ, ne Арїстотєл҄ь.
+## Jezik
 
-## Uputstvo za redakciju teksta
+Rekonstruisati mogući književni slovenski jezik VIII veka, uz očuvanje praslovenske fonologije, morfologije i leksike.
 
-Rekonstruisani slovenski tekst treba dosledno da vuče prema praslovenskom fonetskom i gramatičkom stanju.
+## Grafija
 
-### Zabrana korišćenja slova „я"
+Jezik zapisivati arhaičnom ćirilicom zasnovanom na najranijoj ćiriličnoj tradiciji.
 
-Zabranjeno je korišćenje moderne grafeme **Я (я)** u tekstovima na staroslovenskom jeziku, te umesto nje treba upotrebljavati autentične istorijske oblike **ꙗ** ili **Ѧ (ѧ)**.
+* koristiti ѹ umesto у i ꙋ;
+* koristiti Ꙁ umesto З;
+* koristiti Ѣ;
+* čuvati Ѧ i Ѫ prema etimologiji;
+* koristiti ѭ samo kada potiče od praslovenskog *jǫ*;
+* razlikovati ꙗ (ja) i ѧ (*ę*);
+* koristiti Ѡ samo u grčkim imenima i pozajmljenicama kada odgovara grčkom Ω;
+* koristiti Ѳ, Ѯ, Ѱ i Ѵ u grčkim imenima kada odgovaraju grčkom izvorniku;
+* koristiti završetak -ть u 3. licu prezenta (npr. **єсть**, **глаголєть**).
+* u nastavcima dosledno pisati -ніє, ne -ниє.
 
-### Etimološka upotreba ю
+Izbegavati:
 
-Etimološka upotreba Ѭ (ѭ). Kada glas ju potiče od praslovenskog nazalnog jǫ, pisati ѭ, a ne ю. Slovo ю koristiti samo tamo gde je etimološki zaista ju.
-
-### Primena prostog slova Є umesto jotiranog Ѥ
-
-* **Pravilo:** Zabranjena je upotreba slova **Ѥ / ѥ**. Umesto njega dosledno pisati prosto **Є / є** (ili **Е / е**).
-* **Početak reči:** Priloge, vlastita imena i sve ostale reči pisati sa prostim početnim **Є** (bez protetskog glasa [j] koji se javlja u mlađem kanonu).
-* *Ispravno:* **Єгда**, **Єгѵпєтъ**, **Ємпєдоклъ**
-* *Neispravno:* **Ѥгда**, **Ѥгѵпєтъ**, **Ѥмпєдоклъ**
-
-
-* **Unutrašnjost reči:** Iza vokala i u nastavcima pisati prosto **є**.
-* *Ispravno:* **своєго**, **ѹчєніємь**, **кратко**
-* *Neispravno:* **своѥго**, **ѹчєниѥмь**
-
-
-### Meki poluglas u nastavcima prezenta (-ть)
-
-* **Pravilo:** U 3. licu jednine i množine prezenta pisati meki poluglas **-ть** (prema praslovenskom `*-tь`), a ne tvrdi kanonski poluglas **-тъ**.
-* **Pravilo za glagol *biti*:** Pisati **єсть** sa mekim poluglasom na kraju i prostim **є** na početku.
-* *Ispravno:* **єсть**, **поживєть**, **глаголєть**
-* *Neispravno:* **ѥстъ**, **поживєтъ**
-
-
-### Etimološka upotreba nazala (Ѧ i Ѫ)
-
-* **Pravilo:** Strogo čuvati nazalne vokale **Ѧ / ѧ** ($[\tilde{e}]$) i **Ѫ / ѫ** ($[\tilde{o}]$) tamo gde odgovaraju praslovenskim glasovima `*ę` i `*ǫ`.
-* **Razgraničenje ѧ i ꙗ:** Ne mešati mali jus (**ѧ**) i jotirano a (**ꙗ**).
-* Ako koren reči etimološki sadrži nazal, piše se **ѧ** (npr. **памѧть**, **взѧти**).
-* Ako koren sadrži čisto $[ja]$, piše se **ꙗ** (npr. **приꙗтъ**, **ꙗко**).
+* Ї (koristiti І);
+* Я (koristiti ꙗ ili ѧ prema etimologiji);
+* Ѥ (koristiti Є ili Е);
+* kasnije ukrajinske i moskovske grafijske osobine.
 
 ## Transkripcija imena
 
-Grčka imena i termini se prenose prema izvornom grčkom izgovoru, a ne prema kasnijim tradicionalnim slovenskim oblicima koji menjaju glasovnu vrednost. Primeri:
+Grčka vlastita imena prenositi prema grčkom izvorniku, a ne prema kasnijim tradicionalnim slovenskim oblicima.
 
-* Ἑκαταῖος - Хекатей (ne Гекатей)
-* Ἡράκλειτος - Хераклитъ (ne Ираклитъ)
+Primeri:
 
-Koristiti arhaične slovenske grafeme (posebno ѡ umesto о kada odgovara grčkom Ω). Na primer:
-
+* Ἑκαταῖος → Хекатей
+* Ἡράκλειτος → Хераклитъ
 * Σωκράτης → Сѡкратъ
 * Πλάτων → Платѡнъ
 * Ἀριστοτέλης → Арістотєль
 
-## Terminološki rečnik (staroslovenski, VIII vek)
+## Prevođenje grčkih filozofskih termina
 
-Pogledati [RECNIK.md](RECNIK.md)
+Koristiti [RECNIK.md](RECNIK.md).
 
 ## Doslednost
 
 Ne menjati terminologiju bez razloga.
 
-Isti grčki filozofski pojam treba prevoditi istim staroslovenskim terminom kroz ceo korpus, osim kada bi takav prevod promenio stvarno filozofsko značenje.
-
-Ako postoji višeznačnost, koristiti postojeću alternativu iz rečnika.
+Isti grčki filozofski pojam prevoditi istim staroslovenskim terminom kroz ceo korpus, osim kada bi to promenilo njegovo filozofsko značenje.
