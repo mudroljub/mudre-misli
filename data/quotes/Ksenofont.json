@@ -52,9 +52,29 @@
     {
         "type": "bio",
         "year": -354,
-        "sr": "Umro je u Korintu u prvoj godini 105. olimpijade, pod arhontom Kalimedom, kada je Filip Amintov postao vladar Makedonije; već duboko star, dobar čovek, ljubitelj konja i lova, stručan vojskovođa, pobožan i reven prinošenju žrtava.",
-        "stsl": "Ѹmpe въ Коринѳѣ въ пьрвое лѣто 105-ꙑѩ Олѵмпиады · при архонтѣ Калимедѣ · єгда Филипъ Аминтовъ Македонїи царемъ бысть · ѹже вельми старъ · мѫжь благъ · конелюбьць и ловець · иꙁкѹсьнъ воєвода · благочьстивъ и ревьнъ жрьтвоприношениихъ ·",
-        "originalText": "Κατέστρεψε δέ ἔτει πρώτῳ τῆς πέμπτης καὶ ἑκατοστῆς Ὀλυμπιάδος, ἐπὶ ἄρχοντος Καλλιμήδου, ἐφ' οὗ καὶ Φίλιππος ὁ Ἀμύντου Μακεδόνων ἦρξε. Τέθνηκε δ' ἐν Κορίνθῳ, ἤδη δηλαδὴ γηραιὸς ἱκανῶς· ἀνὴρ τά τ' ἄλλα γεγονὼς ἀγαθὸς καὶ δὴ καὶ φίλιππος καὶ φιλοκύνηγος καὶ τακτικός· εὐσεβής τε καὶ φιλοθύτης.",
+        "sr": "Umro je u Korintu u prvoj godini 105. olimpijade, pod arhontom Kalimedom, kada je Filip Amintov postao vladar Makedonije, već duboko star.",
+        "stsl": "Ѹmpe въ Коринѳѣ въ пьрвое лѣто 105-ꙑѩ Олѵмпиады · при архонтѣ Калимедѣ · єgда Филипъ Аминтовъ Македонїи царемъ бысть · ѹже вельми старъ ·",
+        "originalText": "Κατέστρεψε δέ ἔτει πρώτῳ τῆς πέμπτης καὶ ἑκατοστῆς Ὀλυμπιάδος, ἐπὶ ἄρχοντος Καλλιμήδου, ἐφ' οὗ καὶ Φίλιππος ὁ Ἀμύντου Μακεδόνων ἦρξε. Τέθνηκε δ' ἐν Κορίνθῳ, ἤδη δηλαδὴ γηραιὸς ἱκανῶς.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "reference": "II.56"
+    },
+    {
+        "type": "bio",
+        "year": -360,
+        "sr": "Bio je dobar čovek, ljubitelj konja i lova, stručan vojskovođa.",
+        "stsl": "Бѣашє мѫжь благъ · конелюбьць и ловець · иꙁкѹсьнъ воєвода ·",
+        "originalText": "ἀνὴρ τά τ' ἄλλα γεγονὼς ἀγαθὸς καὶ δὴ καὶ φίλιππος καὶ φιλοκύνηγος καὶ τακτικός.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "reference": "II.56"
+    },
+    {
+        "type": "bio",
+        "year": -360,
+        "sr": "Bio je pobožan i reven prinošenju žrtava.",
+        "stsl": "Бѣашє благочьстивъ и ревьнъ жрьтвоприношениихъ ·",
+        "originalText": "εὐσεβής τε καὶ φιλοθύτης.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
         "reference": "II.56"
@@ -81,7 +101,7 @@
     {
         "type": "reported",
         "sr": "Ksenofont je govorio da je Sokrat raspravljao samo o etičkim pitanjima.",
-        "stsl": "Ксенофонтъ глаголаше · ꙗко Сократъ тъкмо о нравьныхъ вещехъ бесѣдоваше ·",
+        "stsl": "Ксенофонтъ глаголаше · ꙗko Сократъ тъкмо о нравьныхъ вещехъ бесѣдоваше ·",
         "originalText": "Ξενοφῶν καίτοι περὶ μόνων τῶν ἠθικῶν ποιεῖσθαι τοὺς λόγους αὐτὸν εἰπών.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
@@ -108,7 +128,7 @@
     {
         "type": "reported",
         "sr": "Ksenofont je govorio da je Antisten najprijatniji među ljudima u razgovoru, a najuzdržaniji u svemu ostalom.",
-        "stsl": "Ксенофонтъ глаголаше · ꙗко Антисѳенъ въ бесѣдѣ отъ вьсѣхъ чловѣкъ наиприѧтьнѣишии єсть · въ вьсемь же прочемь наивъздръжьнѣишии ·",
+        "stsl": "Ксенофонтъ глаголаше · ꙗko Антисѳенъ въ бесѣдѣ отъ вьсѣхъ чловѣкъ наиприѧтьнѣишии єсть · въ вьсемь же прочемь наивъздръжьнѣишии ·",
         "originalText": "Ὁ δὲ Ξενοφῶν ἥδιστον μὲν εἶναι περὶ τὰς ὁμιλίας φησὶν αὐτόν, ἐγκρατέστατον δὲ περὶ τἄλλα.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
@@ -116,9 +136,9 @@
     },
     {
         "type": "anecdote",
-        "sr": "Sokrat je sreo mladog Ksenofonta u uskom prolazu, pregradio mu put štapom i pitao gde se prodaju različite namirnice. Kada je dobio odgovore, pitao je gde ljudi postaju dobri i časni. Zbunjenom Ksenofontu rekao je da pođe za njim i nauči. Ksenofont je tako postao njegov učenik, prvi zabeležio i objavio Sokratove razgovore kao Uspomene i prvi napisao istoriju filozofa.",
-        "stsl": "Сократъ младаго Ксенофонта въ тѣсьномь проходѣ срѣте · жезломъ ємѹ пѫть загради и вопрошаше · къдѣ различнаꙗ брашна продаѭть сѧ · Отъвѣты приємъ вопроси · къдѣ чловѣци добри и чьстьни бываѭть · Съмѫштеномѹ Ксенофонтѹ рече · да по немь идеть и наѹчить сѧ · Тако Ксенофонтъ ѹченикъ єго бысть · пьрвыи Сократовы бесѣды записа и ꙗко Памѧти издаде · и пьрвыи повѣсть о любомѫдрьцихъ написа ·",
-        "originalText": "Τούτῳ δὲ ἐν στενωπῷ φασιν ἀπαντήσαντα Σωκράτην διατεῖναι τὴν βακτηρίαν καὶ κωλύειν παριέναι, πυνθανόμενον ποῦ πιπράσκοιτο τῶν προσφερομένων ἕκαστον· ἀποκριναμένου δὲ πάλιν πυθέσθαι ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι· ἀπορήσαντος δέ, « Ἕπου τοίνυν, » φάναι, « καὶ μάνθανε. » Καὶ τοὐντεῦθεν ἀκροατὴς Σωκράτους ἦν. Καὶ πρῶτος ὑποσημειωσάμενος τὰ λεγόμενα εἰς ἀνθρώπους ἤγαγεν, Ἀπομνημονεύματα ἐπιγράψας. Ἀλλὰ καὶ ἱστορίαν φιλοσόφων πρῶτος ἔγραψε.",
+        "sr": "Sokrat je sreo mladog Ksenofonta u uskom prolazu i pregradio mu put štapom.",
+        "stsl": "Сократъ младаго Ксенофонта въ тѣсьномь проходѣ срѣте и жезломъ ємѹ пѫть загради ·",
+        "originalText": "Τούτῳ δὲ ἐν στενωπῷ φασιν ἀπαντήσαντα Σωκράτην διατεῖναι τὴν βακτηρίαν καὶ κωλύειν παριέναι.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
         "year": -430,
@@ -126,18 +146,68 @@
     },
     {
         "type": "anecdote",
-        "sr": "Proksen je iz Sarda pozvao Ksenofonta da stupi u službu Kira. Ksenofont je zatražio Sokratov savet, pa otišao u Delfe; proročište nije pitao treba li da ide, nego kako da ostvari put. Sokrat ga je zbog toga prekorio, ali mu je ipak savetovao da pođe. Ksenofont se pridružio Kirovom pohodu i opisao njegov tok i povratak.",
-        "stsl": "Проксенъ отъ Сардъ Ксенофонта призва · да Кѵрѹ послѹжить · Ксенофонтъ Сократова съвѣта възиска и въ Делфы отиде · пророчишта не вопроси · подобаєть ли ємѹ ити · нъ како пѫть съврьшити · Сократъ сего ради єго обличи · нъ пакы съвѣтова ємѹ ити · Ксенофонтъ Кѵровѹ походѹ присовокѹпи сѧ и течение єго и възвраштеніе написа ·",
-        "originalText": "Κύρῳ δὲ φίλος ἐγένετο τοῦτον τὸν τρόπον. Ἦν αὐτῷ συνήθης Πρόξενος ὄνομα, φίλος δὲ Κύρῳ. Οὗτος ἐν Σάρδεσι διατρίβων παρὰ τῷ Κύρῳ ἔπεμψεν εἰς Ἀθήνας ἐπιστολὴν Ξενοφῶντι, καλῶν αὐτὸν ἵνα γένηται Κύρῳ φίλος. Ὁ δὲ τὴν ἐπιστολὴν δεικνύει Σωκράτει. Καὶ ὃς ἀπέστειλεν αὐτὸν εἰς Δελφοὺς χρησόμενον τῷ θεῷ. Πείθεται Ξενοφῶν· ἥκει παρὰ τὸν θεόν· πυνθάνει οὐχὶ εἰ χρὴ ἀπιέναι πρὸς Κῦρον, ἀλλ' ὅπως· ἐφ' ᾧ καὶ Σωκράτης αὐτὸν ᾐτιάσατο μέν, συνεβούλευσε δὲ ἐξελθεῖν. Καὶ ὃς γίνεται παρὰ Κύρῳ. Τὰ μὲν οὖν ἄλλα τὰ κατὰ τὴν ἀνάβασιν γενόμενα καὶ τὴν κάθοδον ἱκανῶς αὐτὸς ἡμῖν διηγεῖται.",
+        "sr": "Pitao ga je gde se prodaju različite namirnice. Kada je dobio odgovore, pitao je gde ljudi postaju dobri i časni.",
+        "stsl": "Вопрошаше · къдѣ различнаꙗ брашна продаѭть сѧ · Отъвѣты приємъ вопроси · къдѣ чловѣци добри и чьстьни бываѭть ·",
+        "originalText": "πυνθανόμενον ποῦ πιπράσκοιτο τῶν προσφερομένων ἕκαστον· ἀποκριναμένου δὲ πάλιν πυθέσθαι ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -430,
+        "reference": "II.48"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Zbunjenom Ksenofontu rekao je da pođe za njim i nauči. Ksenofont je tako postao njegov učenik.",
+        "stsl": "Съмѫштеномѹ Ксенофонтѹ рече · да по немь идеть и наѹчить сѧ · Тако Ксенофонтъ ѹченикъ єго бысть ·",
+        "originalText": "ἀπορήσαντος δέ, « Ἕπου τοίνυν, » φάναι, « καὶ μάνθανε. » Καὶ τοὐντεῦθεν ἀκροατὴς Σωκράτους ἦν.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -430,
+        "reference": "II.48"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Proksen je iz Sarda pozvao Ksenofonta da stupi u službu Kira.",
+        "stsl": "Проксенъ отъ Сардъ Ксенофонта призва · да Кѵрѹ послѹжить ·",
+        "originalText": "Ἦν αὐτῷ συνήθης Πρόξενος ὄνομα, φίλος δὲ Κύρῳ. Οὗτος ἐν Σάρδεσι διατρίβων παρὰ τῷ Κύρῳ ἔπεμψεν εἰς Ἀθήνας ἐπιστολὴν Ξενοφῶντι, καλῶν αὐτὸν ἵνα γένηται Κύρῳ φίλος.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
         "year": -401,
-        "reference": "II.49–50"
+        "reference": "II.49"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Ksenofont je zatražio Sokratov savet, pa otišao u Delfe; proročište nije pitao treba li da ide, nego kako da ostvari put.",
+        "stsl": "Ксенофонтъ Сократова съвѣта възиска и въ Делфы отиде · пророчишта не вопроси · подобаєть ли ємѹ ити · нъ како пѫть съврьшити ·",
+        "originalText": "Ὁ δὲ τὴν ἐπιστολὴν δεικνύει Σωκράτει. Καὶ ὃς ἀπέστειλεν αὐτὸν εἰς Δελφοὺς χρησόμενον τῷ θεῷ. Πείθεται Ξενοφῶν· ἥκει παρὰ τὸν θεόν· πυνθάνει οὐχὶ εἰ χρὴ ἀπιέναι πρὸς Κῦρον, ἀλλ' ὅπως.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -401,
+        "reference": "II.49"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Sokrat ga je zbog toga prekorio, ali mu je ipak savetovao da pođe.",
+        "stsl": "Сократъ сего ради єго обличи · нъ пакы съвѣтова ємѹ ити ·",
+        "originalText": "ἐφ' ᾧ καὶ Σωκράτης αὐτὸν ᾐτιάσατο μέν, συνεβούλευσε δὲ ἐξελθεῖν.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -401,
+        "reference": "II.50"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Ksenofont se pridružio Kirovom pohodu i opisao njegov tok i povratak.",
+        "stsl": "Ксенофонтъ Кѵровѹ походѹ присовокѹпи сѧ и течение єго и възвраштеніе написа ·",
+        "originalText": "Καὶ ὃς γίνεται παρὰ Κύρῳ. Τὰ μὲν οὖν ἄλλα τὰ κατὰ τὴν ἀνάβασιν γενόμενα καὶ τὴν κάθοδον ἱκανῶς αὐτὸς ἡμῖν διηγεῖται.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -401,
+        "reference": "II.50"
     },
     {
         "type": "anecdote",
         "sr": "Tokom Kirovog pohoda Ksenofont je bio u zavadi sa vojskovođom Menonom. Ružio ga je tvrdeći da ima ljubavnika starijeg od sebe, a Apolonida je prekorevao zbog probušenih ušiju.",
-        "stsl": "Въ Кѵровѣ походѣ Ксенофонтъ съ воєводою Менономъ въ враждѣ бѣ · Єго рѹгаше · глаголѧ · ꙗко любима имать старѣиша себе · Аполонида же прободеныихъ ѹшии ради ѹкарѧаше ·",
+        "stsl": "Въ Кѵровѣ походѣ Ксенофонтъ съ воєводою Менономъ въ враждѣ бѣ · Єго рѹгаше · глаголѧ · ꙗko любима имать старѣиша себе · Аполонида же прободеныихъ ѹшии ради ѹкарѧаше ·",
         "originalText": "Ἐχθρῶς δὲ διέκειτο πρὸς Μένωνα τὸν Φαρσάλιον, παρὰ τὸν χρόνον τῆς ἀναβάσεως τὸν ξεναγόν· ὅτε καὶ λοιδορῶν αὐτόν φησιν αὑτοῦ μείζοσι κεχρῆσθαι παιδικοῖς. Ἀλλὰ καὶ Ἀπολλωνίδῃ τινὶ ὀνειδίζει τετρῆσθαι τὰ ὦτα.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
@@ -146,9 +216,29 @@
     },
     {
         "type": "anecdote",
-        "sr": "Posle pohoda Ksenofont je Kirove vojnike stavio u službu spartanskog kralja Agesilaja, kome je bio veoma odan. Atinjani su ga zbog pristajanja uz Spartu prognali. U Efesu je polovinu svoga novca poverio Artemidinom svešteniku da njime, ako se ne vrati, podigne kip boginji, a drugu polovinu poslao u Delfe kao zavetne darove.",
-        "stsl": "По походѣ Ксенофонтъ Кѵровы воѧ въ слѹжбѹ Спартаньскаго царѣ Агесилаꙗ предаде · ємѹже велми прѣданъ бѣ · Атинѧне єго за пристаніє къ Спартѣ изгнаша · Въ Ефесѣ половинꙫ сребра своєго Артемидинѹ жрьцѹ повѣри · да · аште сѧ не възвратить · образъ богыни въздвигнеть · дрѹгѹю же половинꙫ въ Делфы ꙗко обѣтьны дары посла ·",
-        "originalText": "Μετὰ δὲ τήν τ' ἀνάβασιν ἧκεν εἰς Ἀσίαν πρὸς Ἀγησίλαον τὸν Λακεδαιμονίων βασιλέα, μισθοῦ τοὺς Κύρου στρατιώτας αὐτῷ παρασχών· φίλος τ' ἦν εἰς ὑπερβολήν. Παρ' ὃν καιρὸν ἐπὶ Λακωνισμῷ φυγὴν ὑπ' Ἀθηναίων κατεγνώσθη. Γενόμενος δ' ἐν Ἐφέσῳ καὶ χρυσίον ἔχων, τὸ μὲν ἥμισυ Μεγαβύζῳ δίδωσι τῷ τῆς Ἀρτέμιδος ἱερεῖ φυλάττειν ἕως ἂν ἐπανέλθοι· εἰ δὲ μή, ἄγαλμα ποιησάμενον ἀναθεῖναι τῇ θεῷ· τοῦ δὲ ἡμίσεος ἔπεμψεν εἰς Δελφοὺς ἀναθήματα.",
+        "sr": "Posle pohoda Ksenofont je Kirove vojnike stavio u službu spartanskog kralja Agesilaja, kome je bio veoma odan.",
+        "stsl": "По походѣ Ксенофонтъ Кѵровы воѧ въ слѹжбѹ Спартаньскаго царѣ Агесилаꙗ предаде · ємѹже велми прѣданъ бѣ ·",
+        "originalText": "Μετὰ δὲ τήν τ' ἀνάβασιν ἧκεν εἰς Ἀσίαν πρὸς Ἀγησίλαον τὸν Λακεδαιμονίων βασιλέα, μισθοῦ τοὺς Κύρου στρατιώτας αὐτῷ παρασχών· φίλος τ' ἦν εἰς ὑπερβολήν.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -396,
+        "reference": "II.51"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Atinjani su ga zbog pristajanja uz Spartu prognali.",
+        "stsl": "Атинѧне єго за пристаніє къ Спартѣ изгнаша ·",
+        "originalText": "Παρ' ὃν καιρὸν ἐπὶ Λακωνισμῷ φυγὴν ὑπ' Ἀθηναίων κατεγνώσθη.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -396,
+        "reference": "II.51"
+    },
+    {
+        "type": "anecdote",
+        "sr": "U Efesu je polovinu svoga novca poverio Artemidinom svešteniku da njime, ako se ne vrati, podigne kip boginji, a drugu polovinu poslao u Delfe kao zavetne darove.",
+        "stsl": "Въ Ефесѣ половинꙫ сребра своєго Артемидинѹ жрьцѹ повѣри · да · аште сѧ не възвратить · образъ богыни въздвигнеть · дрѹгѹю же половинꙫ въ Делфы ꙗко обѣтьны дары посла ·",
+        "originalText": "Γενόμενος δ' ἐν Ἐφέσῳ καὶ χρυσίον ἔχων, τὸ μὲν ἥμισυ Μεγαβύζῳ δίδωσι τῷ τῆς Ἀρτέμιδος ἱερεῖ φυλάττειν ἕως ἂν ἐπανέλθοι· εἰ δὲ μή, ἄγαλμα ποιησάμενον ἀναθεῖναι τῇ θεῷ· τοῦ δὲ ἡμίσεος ἔπεμψεν εἰς Δελφοὺς ἀναθήματα.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
         "year": -396,
@@ -166,28 +256,58 @@
     },
     {
         "type": "anecdote",
-        "sr": "Kada su Eliđani zauzeli Skilunt, Ksenofont je sa sinovima izbegao preko Lepreja u Korint. Pošto je Atina odlučila da pomogne Sparti, poslao je sinove da se bore u njenoj odbrani; oni su prethodno bili obučavani u Sparti.",
-        "stsl": "Єgda Елиѧне Скилѹнтъ заѩша · Ксенофонтъ съ сынми чрѣзъ Лепреи въ Коринѳъ избѣже · Понеже Атины Спартѣ помогати рѣшиша · сыны своѩ въ брань за нѭ посла · они же прѣжде въ Спартѣ обѹчени бѣхѫ ·",
-        "originalText": "Ἠλείους τε στρατευσαμένους εἰς τὸν Σκιλλοῦντα ἐξελεῖν τὸ χωρίον. Ὅτε καὶ τοὺς υἱέας αὐτοῦ εἰς Λέπρεον ὑπεξελθεῖν, καὶ αὐτὸν Ξενοφῶντα κἀκεῖθεν σὺν αὐτοῖς εἰς Κόρινθον διασωθῆναι καὶ αὐτόθι κατοικῆσαι. Ἑν τούτῳ δὲ ψηφισαμένων Ἀθηναίων βοηθεῖν Λακεδαιμονίοις ἔπεμψε τοὺς παῖδας εἰς τὰς Ἀθήνας στρατευσομένους ὑπὲρ τῶν Λακεδαιμονίων. Καὶ γὰρ ἐπεπαίδευντο αὐτόθι ἐν τῇ Σπάρτῃ.",
+        "sr": "Kada su Eliđani zauzeli Skilunt, Ksenofont je sa sinovima izbegao preko Lepreja u Korint.",
+        "stsl": "Єgda Елиѧне Скилѹнтъ заѩша · Ксенофонтъ съ сынми чрѣзъ Лепреи въ Коринѳъ избѣже ·",
+        "originalText": "Ἠλείους τε στρατευσαμένους εἰς τὸν Σκιλλοῦντα ἐξελεῖν τὸ χωρίον. Ὅτε καὶ τοὺς υἱέας αὐτοῦ εἰς Λέπρεον ὑπεξελθεῖν, καὶ αὐτὸν Ξενοφῶντα κἀκεῖθεν σὺν αὐτοῖς εἰς Κόρινθον διασωθῆναι καὶ αὐτόθι κατοικῆσαι.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
         "year": -371,
-        "reference": "II.53–54"
+        "reference": "II.53"
     },
     {
         "type": "anecdote",
-        "sr": "Kada su Ksenofontu tokom prinošenja žrtve javili da mu je sin Gril poginuo kod Mantineje, skinuo je venac sa glave. Saznavši zatim da je Gril hrabro poginuo, ponovo ga je stavio. Neki kažu da nije ni zaplakao, nego je rekao da je znao da mu je sin smrtan.",
-        "stsl": "Єгда Ксенофонтѹ при жрьтвоприношении възвѣстиша · ꙗко сынъ єго Грилъ при Мантинеи погибе · вѣньць съ главы снѧ · Потомь же · ꙗко Грилъ храбро погибе · ѹвѣдѣвъ · пакы и възложи · Нѣции глаголѭть · ꙗко ни плака · нъ рече · ꙗко вѣдѣаше сына своєго смрьтьна быти ·",
-        "originalText": "Ὁ δὲ Γρύλλος τεταγμένος κατὰ τοὺς ἱππέας - ἦν δὲ ἡ μάχη περὶ Μαντίνειαν - ἰσχυρῶς ἀγωνισάμενος ἐτελεύτησεν. Τηνικαῦτα δὴ καὶ τὸν Ξενοφῶντά φασι θύειν ἐστεμμένον· ἀπαγγελθέντος δ' αὐτῷ τοῦ θανάτου ἀποστεφανώσασθαι· ἔπειτα μαθόντα ὅτι γενναίως, πάλιν ἐπιθέσθαι τὸν στέφανον. Ἔνιοι δὲ οὐδὲ δακρῦσαί φασιν αὐτόν· ἀλλὰ γὰρ εἰπεῖν, « ᾜδειν θνητὸν γεγεννηκώς. »",
+        "sr": "Pošto je Atina odlučila da pomogne Sparti, poslao je sinove da se bore u njenoj odbrani; oni su prethodno bili obučavani u Sparti.",
+        "stsl": "Понеже Атины Спартѣ помогати рѣшиша · сыны своѩ въ брань за нѭ посла · они же прѣжде въ Спартѣ обѹчени бѣхѫ ·",
+        "originalText": "Ἑν τούτῳ δὲ ψηφισαμένων Ἀθηναίων βοηθεῖν Λακεδαιμονίοις ἔπεμψε τοὺς παῖδας εἰς τὰς Ἀθήνας στρατευσομένους ὑπὲρ τῶν Λακεδαιμονίων. Καὶ γὰρ ἐπεπαίδευντο αὐτόθι ἐν τῇ Σπάρτῃ.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -371,
+        "reference": "II.54"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Kada su Ksenofontu tokom prinošenja žrtve javili da mu je sin Gril poginuo kod Mantineje, skinuo je venac sa glave.",
+        "stsl": "Єгда Ксенофонтѹ при жрьтвоприношении възвѣстиша · ꙗko сынъ єго Грилъ при Мантинеи погибе · вѣньць съ главы снѧ ·",
+        "originalText": "Ὁ δὲ Γρύλλος τεταγμένος κατὰ τοὺς ἱππέας - ἦν δὲ ἡ μάχη περὶ Μαντίνειαν - ἰσχυρῶς ἀγωνισάμενος ἐτελεύτησεν. Τηνικαῦτα δὴ καὶ τὸν Ξενοφῶντά φασι θύειν ἐστεμμένον· ἀπαγγελθέντος δ' αὐτῷ τοῦ θανάτου ἀποστεφανώσασθαι.",
         "author": "Xenophon",
         "source": "diogenes-laertius",
         "year": -362,
-        "reference": "II.54–55"
+        "reference": "II.54-55"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Saznavši zatim da je Gril hrabro poginuo, ponovo ga je stavio.",
+        "stsl": "Потомь же · ꙗko Грилъ храбро погибе · ѹвѣдѣвъ · пакы и възложи ·",
+        "originalText": "ἔπειτα μαθόντα ὅτι γενναίως, πάλιν ἐπιθέσθαι τὸν στέφανον.",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -362,
+        "reference": "II.55"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Neki kažu da nije ni zaplakao, nego je rekao da je znao da mu je sin smrtan.",
+        "stsl": "Нѣции глаголѭть · ꙗko ни плака · нъ рече · ꙗko вѣдѣаше сына своєго смрьтьна быти ·",
+        "originalText": "Ἔνιοι δὲ οὐδὲ δακρῦσαί φασιν αὐτόν· ἀλλὰ γὰρ εἰπεῖν, « ᾜδειν θνητὸν γεγεννηκώς. »",
+        "author": "Xenophon",
+        "source": "diogenes-laertius",
+        "year": -362,
+        "reference": "II.55"
     },
     {
         "type": "anecdote",
         "sr": "Po jednom predanju Ksenofont je proslavio Tukidida objavivši njegovu dotad nepoznatu istoriju, iako ju je mogao prisvojiti. Zbog slasti pripovedanja nazvan je Atičkom muzom. Diogen prenosi i da su Ksenofont i Platon bili ljubomorni jedan na drugoga.",
-        "stsl": "По єдиномѹ прѣданию Ксенофонтъ Фѹкидидѹ славꙫ принесе · неизвѣстнѹю дотолѣ историꙫ єго издавъ · аште и могаше ѭ себѣ присвоити · Сладости ради повѣданиꙗ Атиньска Мѹза нареченъ бысть · Диогенъ прѣдаєть и ꙗко Ксенофонтъ и Платонъ дрѹгъ дрѹгѹ завидоваста ·",
+        "stsl": "По єдиномѹ прѣданию Ксенофонтъ Фѹкидидѹ славꙫ принесе · неизвѣстнѹю дотолѣ историꙫ єго издавъ · аште и могаше ѭ себѣ присвоити · Сладости ради повѣданиꙗ Атиньска Мѹза нареченъ бысть · Диогенъ прѣдаєть и ꙗko Ксенофонтъ и Платонъ дрѹгъ дрѹгѹ завидоваста ·",
         "originalText": "Λέγεται δ' ὅτι καὶ τὰ Θουκυδίδου βιβλία λανθάνοντα ὑφελέσθαι δυνάμενος αὐτὸς εἰς δόξαν ἤγαγεν. Ἐκαλεῖτο δὲ καὶ Ἀττικὴ Μοῦσα γλυκύτητι τῆς ἑρμηνείας· ὅθεν καὶ πρὸς ἀλλήλους ζηλοτύπως εἶχον αὐτός τε καὶ Πλάτων.",
         "author": "Xenophon",
         "source": "diogenes-laertius",

@@ -2,9 +2,19 @@
   {
     "type": "bio",
     "year": -330,
-    "sr": "Kleant, sin Fanija, iz Asa. Prvo je bio bokser. Došavši u Atinu sa četiri drahme i pridruživši se Zenonu, filozofirao je veoma plemenito i ostao pri istim učenjima.",
-    "stsl": "Клєантъ · сынъ Фаніа · отъ Аса · Прѣждє бѣ боксєръ · Прїшєдъ въ Аѳинꙑ съ чєтꙑри драхмꙑ і прїлѣпивъ сѧ Зєнонѹ · любомѫдрствоваашє плємєньно і оста при тѣхъждє ѹчєнїихъ.",
-    "originalText": "Κλεάνθης Φανίου Ἄσσιος. Οὗτος πρῶτον ἦν πύκτης. Ἀφικόμενος δ' εἰς Ἀθήνας τέσσαρας ἔχων δραχμάς καὶ Ζήνωνι παραβαλὼν ἐφιλοσόφησε γενναιότατα καὶ ἐπὶ τῶν αὐτῶν ἔμεινε δογμάτων.",
+    "sr": "Kleant, sin Fanija, iz Asa. Prvo je bio bokser.",
+    "stsl": "Клєантъ · сынъ Фаніа · отъ Аса · Прѣждє бѣ боксєръ.",
+    "originalText": "Κλεάνθης Φανίου Ἄσσιος. Οὗτος πρῶτον ἦν πύκτης.",
+    "author": "Cleanthes",
+    "source": "diogenes-laertius",
+    "reference": "VII.168"
+  },
+  {
+    "type": "bio",
+    "year": -310,
+    "sr": "Došavši u Atinu sa četiri drahme i pridruživši se Zenonu, filozofirao je veoma plemenito i ostao pri istim učenjima.",
+    "stsl": "Прїшєдъ въ Аѳинꙑ съ чєтꙑри драхмꙑ і прїлѣпивъ сѧ Зєнонѹ · любомѫдрствоваашє плємєньно і оста при тѣхъждє ѹчєнїихъ.",
+    "originalText": "Ἀφικόμενος δ' εἰς Ἀθήνας τέσσαρας ἔχων δραχμάς καὶ Ζήνωνι παραβαλὼν ἐφιλοσόφησε γενναιότατα καὶ ἐπὶ τῶν αὐτῶν ἔμεινε δογμάτων.",
     "author": "Cleanthes",
     "source": "diogenes-laertius",
     "reference": "VII.168"
