@@ -2,9 +2,49 @@
   {
     "type": "bio",
     "year": -650,
-    "sr": "Pittakos sin Hiradija, Mitilenanin. Duris kaže da mu je otac bio Trakijanac. Ovaj sa Alkejevom braćom sruši Melanhra tiranina Lesbosa. I o zemlji Ahilejidskoj boreći se Atinjani i Mitilenjanini, sam strateg beše, a Atinjanima Frinon pankratijast olimpijski pobednik. Složi se da se dvoboju sa njim bori; i mrežu držeći pod štitom tajno obavi Frinona, i ubivši sačuva mesto.",
-    "stsl": "Піттакъ сынъ Хїрадїїнъ · Мїтїлєнꙗнїнъ · Дѹрісъ глаголєть ꙗko ємѹ ѡтєцъ бѣ Тракїꙗнїнъ · Сєі съ Алкєєвоѭ вратїѭ сьрѹшї Мєланхра тѵрана Лєсвоса · І ѡ ꙁємлі Ахілєіскѣи борꙗ сѧ Аѳінꙗномъ і Мїтїлєнꙗномъ · самъ стратїгъ бѣашє · а Аѳінꙗномъ Фріонъ пакратїастъ ѡлѵмпїискаго повѣдїтєлꙗ · Сложї сѧ да сѧ дъвоворємь съ нїмь ворїть · і мрєжѫ дрьжꙗ подъ щїтомь таино ѡваві Фріона · і ѹбївъ сахранї мѣсто.",
-    "originalText": "Πιττακὸς Ὑρραδίου Μυτιληναῖος. Φησὶ δὲ Δοῦρις τὸν πατέρα αὐτοῦ Θρᾷκα εἶναι. Οὗτος μετὰ τῶν Ἀλκαίου γενόμενος ἀδελφῶν Μέλαγχρον καθεῖλε τὸν τῆς Λέσβου τύραννον· καὶ περὶ τῆς Ἀχιλείτιδος χώρας μαχομένων Ἀθηναίων καὶ Μυτιληναίων ἐστρατήγει μὲν αὐτός, Ἀθηναίων δὲ Φρύνων παγκρατιαστὴς Ὀλυμπιονίκης. Συνέθετο δὴ μονομαχῆσαι πρὸς αὐτόν· καὶ δίκτυον ἔχων ὑπὸ τὴν ἀσπίδα λαθραίως περιέβαλε τὸν Φρύνωνα, καὶ κτείνας ἀνεσώσατο τὸ χωρίον.",
+    "sr": "Pitak sin Hiradija, Mitilenanin. Duris kaže da mu je otac bio Trakijanac.",
+    "stsl": "Піттакъ сынъ Хїрадїїнъ · Мїтїлєнꙗнїнъ · Дѹрісъ глаголєть ꙗko ємѹ ѡтєцъ бѣ Тракїꙗнїнъ.",
+    "originalText": "Πιττακὸς Ὑρραδίου Μυτιληναῖος. Φησὶ δὲ Δοῦρις τὸν πατέρα αὐτοῦ Θρᾷκα εἶναι.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.74"
+  },
+  {
+    "type": "bio",
+    "year": -640,
+    "sr": "Sa Alkejevom braćom sruši Melanhra tiranina Lesbosa.",
+    "stsl": "Съ Алкєєвоѭ вратїѭ сьрѹшї Мєланхра тѵрана Лєсвоса.",
+    "originalText": "Οὗτος μετὰ τῶν Ἀλκαίου γενόμενος ἀδελφῶν Μέλαγχρον καθεῖλε τὸν τῆς Λέσβου τύραννον.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.74"
+  },
+  {
+    "type": "bio",
+    "year": -635,
+    "sr": "U ratu za Ahilejidsku zemlju Atinjani se borili protiv Mitilenjana. Pitak je bio strateg Mitilenjana, a Atinjanima je predvodio Frinon, pankratijast i olimpijski pobednik.",
+    "stsl": "Въ ратѣ ꙁа Ахілєіскѫ ꙁємлѭ Аѳінꙗнє борїшѧ сѧ противъ Мїтїлєнꙗнъ · Піттакъ бѣашє стратїгъ Мїтїлєнꙗнъ · а Аѳінꙗномъ прєдводїтъ Фріонъ · панкратїастъ і ѡлѵмпїискїи повѣдїтєль.",
+    "originalText": "Καὶ περὶ τῆς Ἀχιλείτιδος χώρας μαχομένων Ἀθηναίων καὶ Μυτιληναίων ἐστρατήγει μὲν αὐτός, Ἀθηναίων δὲ Φρύνων παγκρατιαστὴς Ὀλυμπιονίκης.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.74"
+  },
+  {
+    "type": "bio",
+    "year": -635.1,
+    "sr": "Složio se da se u dvoboju bori sa Frinonom.",
+    "stsl": "Сложїша сѧ да сѧ въ двовою борїть съ Фріономъ.",
+    "originalText": "Συνέθετο δὴ μονομαχῆσαι πρὸς αὐτόν.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.74"
+  },
+  {
+    "type": "bio",
+    "year": -635.2,
+    "sr": "Držeći mrežu skrivenu pod štitom, tajno je obmotao Frinona i ubio ga, sačuvavši tako mesto.",
+    "stsl": "Дрьжꙗ мрєжѫ скрівєнѫ подъ щїтомъ · таино ѡвмотѧ Фріона і ѹбї єго · сахранївъ тако мѣсто.",
+    "originalText": "καὶ δίκτυον ἔχων ὑπὸ τὴν ἀσπίδα λαθραίως περιέβαλε τὸν Φρύνωνα, καὶ κτείνας ἀνεσώσατο τὸ χωρίον.",
     "author": "Pittacus",
     "source": "diogenes-laertius",
     "reference": "II.74"
@@ -12,9 +52,59 @@
   {
     "type": "bio",
     "year": -600,
-    "sr": "Tada Pittakosa silno poštovahu Mitilenjanin i vlast mu poveriše. On pak deset godina držeći i u red dovedavši politeju, položi vlast, i deset proživе drugu. I zemlju mu dodeliše Mitilenjanini; on pak kao svetu predade, koja sada Pittakejeva zove se. Sosikrat kaže da malo odrezavši reče da polovica svega više jest. Ali i od Kreza koji mu novce davaše ne prihvati, rekavši da ima čega hteo, dvostruko: jer bezdetnoga brata umrloga nasleo bijaše.",
-    "stsl": "Тогда Піттакоса сїльно поштоваахѫ Мїтїлєнꙗнє і власть ємѹ повѣрїшѧ · Онъ жє дєсѧть лѣтъ дрьжꙗ і въ рѧдъ доводꙗ полїтєїѭ · положї власть · і дєсѧть проꙁіє дрѹгѫ · І ꙁємлѭ ємѹ дадѫшѧ Мїтїлєнꙗнє · онъ жє свѧтѫ прєда · ꙗжє нꙑнꙗ Піттакєєва ꙁовєть сѧ · Сосїкратъ глаголєть ꙗko мало ѡтрѣꙁавъ рєчє ꙗko половіца всєго вєщє єсть · Нъ і отъ Крєꙁа їжє ємѹ монііти дааашє нє прїємь · рєкъ ꙗko їма чєго хотѣлъ двоистро · ꙗко вєꙁчєдьна врата ѹмрьла наслѣдова бѣашє.",
-    "originalText": "Τότε δ' οὖν τὸν Πιττακὸν ἰσχυρῶς ἐτίμησαν οἱ Μυτιληναῖοι, καὶ τὴν ἀρχὴν ἐνεχείρισαν αὐτῷ. Ὁ δὲ δέκα ἔτη κατασχὼν καὶ εἰς τάξιν ἀγαγὼν τὸ πολίτευμα, κατέθετο τὴν ἀρχήν, καὶ δέκα ἐπεβίω ἄλλα. Καὶ χώραν αὐτῷ ἀπένειμαν οἱ Μυτιληναῖοι· ὁ δὲ ἱερὰν ἀνῆκεν, ἥτις νῦν Πιττάκειος καλεῖται. Σωσικράτης δέ φησιν ὅτι ὀλίγον ἀποτεμόμενος ἔφη τὸ ἥμισυ τοῦ παντὸς πλεῖον εἶναι. Ἀλλὰ καὶ Κροίσου διδόντος χρήματα οὐκ ἐδέξατο, εἰπὼν ἔχειν ὧν ἐβούλετο διπλάσια· ἄπαιδος γὰρ τἀδελφοῦ τελευτήσαντος κεκληρονομηκέναι.",
+    "sr": "Tada Pitaka silno poštovahu Mitilenjanini i vlast mu poveriše.",
+    "stsl": "Тогда Піттакоса сїльно поштоваахѫ Мїтїлєнꙗнє і власть ємѹ повѣрїшѧ.",
+    "originalText": "Τότε δ' οὖν τὸν Πιττακὸν ἰσχυρῶς ἐτίμησαν οἱ Μυτιληναῖοι, καὶ τὴν ἀρχὴν ἐνεχείρισαν αὐτῷ.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.75"
+  },
+  {
+    "type": "bio",
+    "year": -590,
+    "sr": "Deset godina držeći vlast i u red dovedavši politeju, položio je vlast.",
+    "stsl": "Дєсѧть лѣтъ дрьжꙗ власть і въ рѧдъ доводꙗ полїтєїѭ · положї власть.",
+    "originalText": "Ὁ δὲ δέκα ἔτη κατασχὼν καὶ εἰς τάξιν ἀγαγὼν τὸ πολίτευμα, κατέθετο τὴν ἀρχήν.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.75"
+  },
+  {
+    "type": "bio",
+    "year": -590,
+    "sr": "Proživeo je još deset godina nakon abdikacije.",
+    "stsl": "Проꙁіє єщє дєсѧть лѣтъ по ѡтрєчєніи.",
+    "originalText": "καὶ δέκα ἐπεβίω ἄλλα.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.75"
+  },
+  {
+    "type": "bio",
+    "year": -590,
+    "sr": "Mitilenjani mu dodeliše zemlju, a on je proglasi svetom; sada se naziva Pitakejeva.",
+    "stsl": "Мїтїлєнꙗнє ємѹ дадѫшѧ ꙁємлѭ · онъ жє свѧтѫ прогласї · нꙑнꙗ Піттакєєва наꙁꙑваєть сѧ.",
+    "originalText": "Καὶ χώραν αὐτῷ ἀπένειμαν οἱ Μυτιληναῖοι· ὁ δὲ ἱερὰν ἀνῆκεν, ἥτις νῦν Πιττάκειος καλεῖται.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.75"
+  },
+  {
+    "type": "bio",
+    "year": -590,
+    "sr": "Sosikrat kaže da je od te zemlje malo odrezao, rekavši da je polovina celine bolja od cele.",
+    "stsl": "Сосїкратъ глаголєть ꙗko отъ тоꙗ ꙁємлꙗ мало ѡтрѣꙁа · рєкъ ꙗko половіца цѣлїнꙑ лѹчьша єсть отъ цѣлѣи.",
+    "originalText": "Σωσικράτης δέ φησιν ὅτι ὀλίγον ἀποτεμόμενος ἔφη τὸ ἥμισυ τοῦ παντὸς πλεῖον εἶναι.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.75"
+  },
+  {
+    "type": "bio",
+    "year": -585,
+    "sr": "Nije prihvatio novac koji mu je Krez nudio, rekavši da već ima dvostruko više nego što želi, jer je nasledio svog brata koji je umro bez dece.",
+    "stsl": "Нъ і отъ Крєꙁа їжє ємѹ монііти дааашє нє прїємь · рєкъ ꙗko їма чєго хотѣлъ двоистро · ꙗко вєꙁчєдьна врата ѹмрьла наслѣдова бѣашє.",
+    "originalText": "Ἀλλὰ καὶ Κροίσου διδόντος χρήματα οὐκ ἐδέξατο, εἰπὼν ἔχειν ὧν ἐβούλετο διπλάσια· ἄπαιδος γὰρ τἀδελφοῦ τελευτήσαντος κεκληρονομηκέναι.",
     "author": "Pittacus",
     "source": "diogenes-laertius",
     "reference": "II.75"
@@ -151,10 +241,20 @@
   },
   {
     "type": "bio",
+    "year": -610,
+    "sr": "Procvetao je oko četrdeset druge olimpijade.",
+    "stsl": "Процвѣталъ єсть ѡколо чєтꙑрідєсѧтъ вторꙑꙗ ѡлѵмпїадꙑ.",
+    "originalText": "Ἤκμαζε μὲν οὖν περὶ τὴν τεσσαρακοστὴν δευτέραν Ὀλυμπιάδα.",
+    "author": "Pittacus",
+    "source": "diogenes-laertius",
+    "reference": "II.79"
+  },
+  {
+    "type": "bio",
     "year": -570,
-    "sr": "Procvetao je oko četrdeset druge olimpijade; umro je za Aristomena trećoj godini pedeset druge olimpijade, proživevši preko sedamdeset godina, već star.",
-    "stsl": "Процвѣталъ єсть ѡколо чєтꙑрідєсѧтъ вторꙑꙗ ѡлѵмпїадꙑ · ѹмрѣ ꙁа Арістомєна трєтїєи годїнѣ пєдєсѧтъ вторꙑꙗ ѡлѵмпїадꙑ · проꙁївъ прєко сєдмъдєсѧтъ годїнъ · ѹжє старъ.",
-    "originalText": "Ἤκμαζε μὲν οὖν περὶ τὴν τεσσαρακοστὴν δευτέραν Ὀλυμπιάδα· ἐτελεύτησε δ' ἐπὶ Ἀριστομένους τῷ τρίτῳ ἔτει τῆς πεντηκοστῆς δευτέρας Ὀλυμπιάδος, βιοὺς ὑπὲρ ἔτη ἑβδομήκοντα, ἤδη γηραιός.",
+    "sr": "Umro je za Aristomena, u trećoj godini pedeset druge olimpijade, proživevši preko sedamdeset godina.",
+    "stsl": "Ѹмрѣ ꙁа Арістомєна · въ трєтїєи годїнѣ пєдєсѧтъ вторꙑꙗ ѡлѵмпїадꙑ · проꙁївъ прєко сєдмъдєсѧтъ годїнъ.",
+    "originalText": "ἐτελεύτησε δ' ἐπὶ Ἀριστομένους τῷ τρίτῳ ἔτει τῆς πεντηκοστῆς δευτέρας Ὀλυμπιάδος, βιοὺς ὑπὲρ ἔτη ἑβδομήκοντα, ἤδη γηραιός.",
     "author": "Pittacus",
     "source": "diogenes-laertius",
     "reference": "II.79"

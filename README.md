@@ -20,8 +20,6 @@ npm start
 
 ## TODO
 
-- dodati grad rođenja u author data i prikazivati ga na njegovoj stranici?
-- dodati preslovljavanje (vidi svete misli)
 - prvo slovo crveno (prvi red crven)
 - proveriti sr prevode
 - dodati slike koje fale, prekopirati lokalno, izabrati bolje
@@ -32,3 +30,4 @@ npm start
 - srediti jezičke rute
 - dodati filozofski rečnik kao zasebnu stranicu
 - prekopirati slike lokalno
+- dodati preslovljavanje (vidi svete misli)

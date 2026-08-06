@@ -33,6 +33,18 @@
 
   &:first-child {
     margin-top: 0;
+
+    &::first-letter {
+      font-size: 3em;
+      line-height: 0.8;
+      float: left;
+      margin-right: 0.1em;
+      color: #c41e3a;
+    }
+
+    &::first-line {
+      color: #c41e3a;
+    }
   }
 
   @media (max-width: $breakpoint-mobile) {

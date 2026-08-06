@@ -40,14 +40,64 @@
         "reference": "VI.29-31"
     },
     {
-        "type": "bio",
-        "sr": "Susret sa Aleksandrom Velikim u Korintu; zamolio ga da mu ne stoji na suncu.",
-        "stsl": "Съ Александромъ Великимъ въ Коринѳѣ срѣте сѧ · проси єго да мꙋ не стои на слънци.",
+        "type": "anecdote",
+        "sr": "Kada je Aleksandar stao pred njega i rekao: Ja sam Aleksandar Veliki, Diogen je odgovorio: A ja Diogen pas.",
+        "stsl": "Єгда Алєѯандръ прѣдъ нимь стѧвъ рече · азъ єсмь Алєѯандръ великии · Диогенъ отвѣща · а азъ Диогенъ песь.",
         "author": "Diogenes",
         "source": "diogenes-laertius",
-        "year": -336,
-        "originalText": "Ἀλεξάνδρου ποτὲ ἐπιστάντος αὐτῷ καὶ εἰπόντος· Ἀποσκότησόν μου.",
+        "year": -336.1,
+        "originalText": "Ἀλεξάνδρου ποτὲ ἐπιστάντος αὐτῷ καὶ εἰπόντος, « Ἐγώ εἰμι Ἀλέξανδρος ὁ μέγας βασιλεύς, » « Κἀγώ, » φησί, « Διογένης ὁ κύων. »",
+        "reference": "VI.60"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Aleksandar mu priđe i reče: Ne bojiš li se mene? Diogen odgovori: Šta si ti, dobro ili zlo? Aleksandar reče: Dobro. Diogen reče: Ko se plaši dobra?",
+        "stsl": "Алєѯандръ къ немѹ приидє и рече · не боиши ли сѧ мене · Диогенъ отвѣща · что єси ты · добро или зло · Алєѯандръ рече · добро · Диогенъ рече · кто добра боить сѧ.",
+        "author": "Diogenes",
+        "source": "diogenes-laertius",
+        "year": -336.2,
+        "originalText": "Πρὸς Ἀλέξανδρον ἐπιστάντα καὶ εἰπόντα, « Οὐ φοβῇ με; », « Τί γάρ, » εἶπεν, « εἶ; Ἀγαθὸν ἢ κακόν; » Τοῦ δὲ εἰπόντος, « Ἀγαθόν, » « Τίς οὖν, » εἶπε, « Τὸ ἀγαθὸν φοβεῖται; »",
+        "reference": "VI.68"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Dok se sunčao u Kraneju, Aleksandar mu prišao i rekao: Zatraži od mene što hoćeš. Diogen odgovori: Makni mi se sa sunca.",
+        "stsl": "Єгда слъньчаше сѧ въ Кранеи · Алєѯандръ приидє къ немѹ и рече · проси мене што хоштеши · Диогенъ отвѣща · отъстѫпи ми отъ слъньца.",
+        "author": "Diogenes",
+        "source": "diogenes-laertius",
+        "year": -336.3,
+        "originalText": "Ἐν τῷ Κρανείῳ ἡλιουμένῳ αὐτῷ Ἀλέξανδρος ἐπιστάς φησιν, « Αἴτησόν με ὃ θέλεις. » Καὶ ὅς, « Ἀποσκότησόν μου, » φησί.",
         "reference": "VI.38"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Kada je rekao da će se uskoro donje okrenuti gore, mislio je na to što Makedonci, koji su bili skromni, postaju moćni.",
+        "stsl": "Єгда рече ꙗko въскорѣ долнєє въ горнєє прѣвратить сѧ · мыслѧаше о Македонцехъ · иже скромьни бывъше · могѫштии бываѭть.",
+        "author": "Diogenes",
+        "source": "diogenes-laertius",
+        "year": -337,
+        "originalText": "μέλλει τὰ κάτω ἀναστρέφεσθαι· τοῦτο δὲ διὰ τὸ ἐπικρατεῖν ἤδη τοὺς Μακεδόνας ἢ ἐκ ταπεινῶν ὑψηλοὺς γίνεσθαι.",
+        "reference": "VI.32"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Kada su Atinjani glasali da Aleksandar bude Dioniz, Diogen reče: I mene učinite Sarapisom.",
+        "stsl": "Єгда Атинѧне гласоваша да Алєѯандръ Дионисъ бѫдєть · Диогенъ рече · и мене Сарапіомъ сътворите.",
+        "author": "Diogenes",
+        "source": "diogenes-laertius",
+        "year": -334,
+        "originalText": "Ψηφισαμένων Ἀθηναίων Ἀλέξανδρον Διόνυσον, « Κἀμέ, » ἔφη, « Σάραπιν ποιήσατε. »",
+        "reference": "VI.63"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Aleksandar ga upita da li želi da mu obnovi rodnu Sinopu. Diogen odgovori: A zašto? Možda će je drugi Aleksandar ponovo porušiti.",
+        "stsl": "Алєѯандръ єго въпроси · да ли хоштєть да емѹ роднѫѭ Синопѫ обнови · Диогенъ отвѣща · а почто · можєбитъ инъ Алєѯандръ паки ѭ разорить.",
+        "author": "Diogenes",
+        "source": "diogenes-laertius",
+        "year": -333,
+        "originalText": "Πρὸς Ἀλέξανδρον πυθόμενον εἰ βούλεται αὐτοῦ τὴν πατρίδα ἀνορθωθῆναι, ἔφη, « Καὶ τί δεῖ; πάλιν γὰρ ἴσως Ἀλέξανδρος ἄλλος αὐτὴν κατασκάψει. »",
+        "reference": "VI.93"
     },
     {
         "type": "bio",
@@ -168,16 +218,6 @@
         "source": "diogenes-laertius",
         "year": -338,
         "reference": "VI.43"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Kada je Aleksandar stao pred njega i rekao: Ja sam Aleksandar Veliki, Diogen je odgovorio: A ja Diogen pas.",
-        "stsl": "Єгда Алєѯандръ прѣдъ нимь стѧвъ рече · азъ єсмь Алєѯандръ великии · Диогенъ отвѣща · а азъ Диогенъ песь ·",
-        "originalText": "Ἀλεξάνδρου ποτὲ ἐπιστάντος αὐτῷ καὶ εἰπόντος, « Ἐγώ εἰμι Ἀλέξανδρος ὁ μέγας βασιλεύς, » « Κἀγώ, » φησί, « Διογένης ὁ κύων. »",
-        "author": "Diogenes",
-        "source": "diogenes-laertius",
-        "year": -336,
-        "reference": "VI.60"
     },
     {
         "type": "anecdote",
