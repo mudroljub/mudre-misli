@@ -69,14 +69,14 @@ export type Entry = LifeEvent | Saying;
  * Years use negative numbers for BCE, positive for CE.
  */
 export interface AuthorData {
-  /** URL to portrait image (preferably from Wikimedia Commons) */
-  src: string;
-
   /** Year of birth (negative = BCE, positive = CE) */
   born: number;
 
   /** Year of death (negative = BCE, positive = CE) */
   died: number;
+
+  /** URL to portrait image (possible from Wikimedia Commons) */
+  src?: string;
 
   /** Place of birth (ancient city name in original Greek/Latin) */
   birthplace?: string;

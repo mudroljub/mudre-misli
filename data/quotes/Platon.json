@@ -394,8 +394,8 @@
   },
   {
     "type": "quote",
-    "sr": "Mudrost je, u posebnom smislu, znanje umnih i istinski postojećih stvari, boga i duše odvojene od tela; a ljubomudrije je čežnja za tom božanskom mudrošću.",
-    "stsl": "Мѫдрость · въ особьнѣмь смыслѣ · вѣдѣние ѹмьныхъ и истиньно сѫштихъ вештии · бога и дѹша отъ тѣла отъдѣльны єсть · любомѫдрие же желаніє сеи божьствьныѩ мѫдрости ·",
+    "sr": "Mudrost je, u posebnom smislu, nauka umnih i istinski postojećih stvari, boga i duše odvojene od tela; a ljubomudrije je čežnja za tom božanskom mudrošću.",
+    "stsl": "Мѫдрость · въ особьнѣмь смыслѣ · наѹка ѹмьныхъ и истиньно сѫштихъ вештии · бога и дѹша отъ тѣла отъдѣльны єсть · любомѫдрие же желаніє сеи божьствьныѩ мѫдрости ·",
     "originalText": "σοφίαν εἶναι τὴν τῶν θείων καὶ ἀνθρωπίνων ἐπιστήμην· φιλοσοφίαν δὲ ἔφεσιν σοφίας.",
     "author": "Plato",
     "source": "diogenes-laertius",
@@ -449,7 +449,7 @@
   {
     "type": "quote",
     "sr": "Tvar prima četiri oblika: oganj je piramida, vazduh osmoplošnik, voda dvadesetoplošnik, a zemlja kocka; zemlja se ne pretvara u druge sastojke.",
-    "stsl": "Вешть четыри образы приємлєть · огнь четворостѣньникъ єсть · въздѹхъ осмостѣньникъ · вода двадесѧтостѣньникъ · землꙗ же коцка · землꙗ въ ина начѧла не прѣлагаєть сѧ ·",
+    "stsl": "Сѫштьство четыри образы приємлєть · огнь четворостѣньникъ єсть · въздѹхъ осмостѣньникъ · вода двадесѧтостѣньникъ · землꙗ же коцка · землꙗ въ ина начѧла не прѣлагаєть сѧ ·",
     "author": "Plato",
     "source": "diogenes-laertius",
     "reference": "III.70",
@@ -484,8 +484,8 @@
   },
   {
     "type": "quote",
-    "sr": "Svet je živ i u sebi sadrži bogove, krilata bića, vodene životinje i zemaljska bića.",
-    "stsl": "Миръ живъ єсть и въ себѣ богы · крилатыѩ животы · водьныѩ животнаꙗ и земьнаꙗ сѫшта имать ·",
+    "sr": "Stroj je živ i u sebi sadrži bogove, krilata bića, vodene životinje i zemaljska bića.",
+    "stsl": "Строи живъ єсть и въ себѣ богы · крилатыѩ животы · водьныѩ животнаꙗ и земьнаꙗ сѫшта имать ·",
     "author": "Plato",
     "source": "diogenes-laertius",
     "reference": "III.74",
@@ -610,8 +610,8 @@
   },
   {
     "type": "quote",
-    "sr": "Znanje je teorijsko, praktično ili stvaralačko: prvo saznaje, drugo deluje, a treće proizvodi.",
-    "stsl": "Вѣдѣние зритьно · дѣꙗтелььно или творьно єсть · пьрво познаєть · дрѹго дѣєть · третие творить ·",
+    "sr": "Nauka je teorijska, praktična ili stvaralačka: prva saznaje, druga deluje, a treća proizvodi.",
+    "stsl": "Наѹка зритьна · дѣꙗтельна или творьна єсть · пьрва познаєть · дрѹга дѣєть · третꙗ творить ·",
     "author": "Plato",
     "source": "diogenes-laertius",
     "reference": "III.84",
@@ -718,8 +718,8 @@
   },
   {
     "type": "quote",
-    "sr": "Korist se drugome daje novcem, ličnom pomoći, znanjem ili govorom.",
-    "stsl": "Польза дрѹгомѹ пѣнѧѕемъ · своимъ слѹжениемъ · вѣдѣніємъ или словомъ даєть сѧ ·",
+    "sr": "Korist se drugome daje novcem, ličnom pomoći, naukama ili govorom.",
+    "stsl": "Польза дрѹгомѹ пѣнѧѕємъ · своимъ слѹжениємъ · наѹками или словомъ даєть сѧ ·",
     "author": "Plato",
     "source": "diogenes-laertius",
     "reference": "III.95–96",
@@ -949,13 +949,33 @@
   },
   {
     "type": "anecdote",
-    "sr": "Platon se vratio na Siciliju da od mlađeg Dionisija zatraži zemlju i naseljenike za ostvarenje svoje države. Obećanje nije ispunjeno; kada je osumnjičen da pomaže oslobođenju ostrva, Arhita mu je izdejstvovao bezbedan povratak. Treći put je bez uspeha pokušao da pomiri Diona i Dionisija.",
-    "stsl": "Платонъ пакы въ Сикелию възврати сѧ · да отъ младъшаго Дионисиꙗ землѭ и насельникы къ сътворению своєго града просить · Обѣтъ не съвръши сѧ · єгда въ помощи освобождению острова подозрѣнъ бысть · Архѵта ємѹ безбѣдьнъ възвратъ исходатаиствова · Третицею безъ ѹспѣха Диона и Дионисиꙗ примирити покѹси сѧ ·",
+    "sr": "Platon se vratio na Siciliju da od mlađeg Dionisija zatraži zemlju i naseljenike za ostvarenje svoje države. Obećanje nije ispunjeno.",
+    "stsl": "Платонъ пакы въ Сикелию възврати сѧ · да отъ младъшаго Дионисиꙗ землѭ и насельникы къ сътворению своєго града просить · Обѣтъ не съвръши сѧ.",
     "author": "Plato",
     "source": "diogenes-laertius",
     "year": -367,
-    "reference": "III.21–23",
+    "reference": "III.21",
     "originalText": "Ἀφικόμενος δὲ πάλιν ἐπὶ τὸν νεώτερον Διονύσιον ᾐτεῖτο χώραν καὶ ἀνθρώπους οἳ κατὰ τὴν πολιτείαν αὐτοῦ βιώσονται· ὁ δὲ ὑποστὰς οὐκ ἐπλήρωσεν."
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada je osumnjičen da pomaže oslobođenju ostrva, Arhita mu je izdejstvovao bezbedan povratak.",
+    "stsl": "Єгда въ помощи освобождению острова подозрѣнъ бысть · Архѵта ємѹ безбѣдьнъ възвратъ исходатаиствова.",
+    "author": "Plato",
+    "source": "diogenes-laertius",
+    "year": -366,
+    "reference": "III.22",
+    "originalText": "ὑποπτευθεὶς δὲ συνεπιτίθεσθαι τῇ νήσῳ."
+  },
+  {
+    "type": "anecdote",
+    "sr": "Treći put je bez uspeha pokušao da pomiri Diona i Dionisija.",
+    "stsl": "Третицею безъ ѹспѣха Диона и Дионисиꙗ примирити покѹси сѧ.",
+    "author": "Plato",
+    "source": "diogenes-laertius",
+    "year": -361,
+    "reference": "III.23",
+    "originalText": "τρίτον ἐλθὼν ἐπειρᾶτο καταλλάξαι Δίωνα καὶ Διονύσιον."
   },
   {
     "type": "anecdote",

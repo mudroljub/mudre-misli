@@ -160,8 +160,8 @@
     },
     {
         "type": "quote",
-        "sr": "Postoji samo jedno dobro — znanje, i samo jedno zlo — neznanje. Bogatstvo i plemenito poreklo ne donose dostojanstvo, nego pre zlo.",
-        "stsl": "Єдино благо єсть · вѣдѣніє · и єдино зло · невѣдѣніє · Богатьство и благородиє достоиньства не приносѧть · нъ паче зло ·",
+        "sr": "Postoji samo jedno dobro — nauka, i samo jedno zlo — neukost. Bogatstvo i plemenito poreklo ne donose dostojanstvo, nego pre zlo.",
+        "stsl": "Єдино благо єсть · наѹка · и єдино зло · неѹченіє · Богатьство и благородиє достоиньства не приносѧть · нъ паче зло ·",
         "originalText": "Ἓν μόνον ἀγαθὸν εἶναι, τὴν ἐπιστήμην, καὶ ἓν μόνον κακόν, τὴν ἀμαθίαν· πλοῦτον δὲ καὶ εὐγένειαν οὐδὲν σεμνὸν ἔχειν, πᾶν δὲ τοὐναντίον κακόν.",
         "author": "Socrates",
         "source": "diogenes-laertius",
@@ -460,12 +460,32 @@
     },
     {
         "type": "anecdote",
-        "sr": "Sokrat nije naplaćivao poučavanje. Odbio je veliko zemljište koje mu je nudio Alkibijad, kao i darove Arhelaja Makedonskog, Skopasa iz Kranona i Euriloha iz Larise, i nije hteo da ode na njihove dvorove. Živeo je toliko umereno i uredno da je u više atinskih epidemija jedini ostajao nezaražen.",
-        "stsl": "Сократъ за поѹченіє мъзды не приємлѧаше · Великꙫ землѭ · ѭже Алкивиадъ ємѹ подавааше · отъмѣте · такожде и дары Архелаꙗ Македоньскаго · Скопы Краноньскаго и Еврилоха Ларисьскаго · и на дворы ихъ ити не хотѣаше · Толико мѣрьно и чиньно живѣаше · ꙗко въ многыхъ Атиньскыхъ морахъ єдинъ незараженъ прѣбывааше ·",
+        "sr": "Sokrat nije naplaćivao poučavanje.",
+        "stsl": "Сократъ за поѹченіє мъзды не приємлѧаше.",
+        "author": "Socrates",
+        "source": "diogenes-laertius",
+        "year": -430,
+        "originalText": "Αὐτάρκης τε ἦν καὶ σεμνός.",
+        "reference": "II.25"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Odbio je veliko zemljište koje mu je nudio Alkibijad, kao i darove Arhelaja Makedonskog, Skopasa iz Kranona i Euriloha iz Larise. Nije hteo da ode na njihove dvorove.",
+        "stsl": "Великꙫ землѭ · ѭже Алкивиадъ ємѹ подавааше · отъмѣте · такожде и дары Архелаꙗ Македоньскаго · Скопы Краноньскаго и Еврилоха Ларисьскаго · На дворы ихъ ити не хотѣаше.",
         "author": "Socrates",
         "source": "diogenes-laertius",
         "year": -423,
-        "originalText": "Αὐτάρκης τε ἦν καὶ σεμνός. Καί ποτε Ἀλκιβιάδου, καθά φησί Παμφίλη ἐν τῷ ἑβδόμῳ τῶν Ὑπομνημάτων, διδόντος αὐτῷ χώραν μεγάλην ἵνα οἰκοδομήσηται οἰκίαν φάναι, Καὶ εἰ ὑποδημάτων ἔδει καὶ βύρσαν μοι ἐδίδους ἵν' ἐμαυτῷ ὑποδήματα ποιησαίμην, καταγέλαστος ἂν ἦν λαβών.",
+        "originalText": "Καί ποτε Ἀλκιβιάδου, καθά φησί Παμφίλη ἐν τῷ ἑβδόμῳ τῶν Ὑπομνημάτων, διδόντος αὐτῷ χώραν μεγάλην ἵνα οἰκοδομήσηται οἰκίαν φάναι, Καὶ εἰ ὑποδημάτων ἔδει καὶ βύρσαν μοι ἐδίδους ἵν' ἐμαυτῷ ὑποδήματα ποιησαίμην, καταγέλαστος ἂν ἦν λαβών.",
+        "reference": "II.25"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Živeo je toliko umereno i uredno da je u više atinskih epidemija jedini ostajao nezaražen.",
+        "stsl": "Толико мѣрьно и чиньно живѣаше · ꙗко въ многыхъ Атиньскыхъ морахъ єдинъ незараженъ прѣбывааше.",
+        "author": "Socrates",
+        "source": "diogenes-laertius",
+        "year": -430,
+        "originalText": "Αὐτάρκης τε ἦν καὶ σεμνός.",
         "reference": "II.25"
     },
     {
@@ -500,8 +520,8 @@
     },
     {
         "type": "anecdote",
-        "sr": "Sokrat je umeo i da podstakne i da odvrati. Teeteta je razgovorom o znanju nadahnuo, Eutifrona odvratio od tužbe protiv oca, Lisida usmerio vrlini, sina Lamprokla naveo da se postidi gneva prema majci, neiskusnog Glaukona odvratio od politike, a obdarenog Harmida ohrabrio da joj se posveti.",
-        "stsl": "Сократъ ѹмѣаше и подъвигнѫти и отъвратити · Теетета бесѣдою о вѣдѣнии въдѹшеви · Евтифрона отъ тѫжбы на отьца отъврати · Лисида къ добродѣтели настави · сына Лампрокла гнѣва къ матери постыдѣти сѧ сътвори · неискѹснаго Главкона отъ градьскыхъ дѣлъ отъврати · даровитаго же Хармида на нѧ ободри ·",
+        "sr": "Sokrat je umeo i da podstakne i da odvrati. Teeteta je razgovorom o nauci nadahnuo, Eutifrona odvratio od tužbe protiv oca, Lisida usmerio vrlini, sina Lamprokla naveo da se postidi gneva prema majci, neiskusnog Glaukona odvratio od politike, a obdarenog Harmida ohrabrio da joj se posveti.",
+        "stsl": "Сократъ ѹмѣаше и подъвигнѫти и отъвратити · Теетета бесѣдою о наѹцѣ въдѹшеви · Евтифрона отъ тѫжбы на отьца отъврати · Лисида къ добродѣтели настави · сына Лампрокла гнѣва къ матери постыдѣти сѧ сътвори · неискѹснаго Главкона отъ градьскыхъ дѣлъ отъврати · даровитаго же Хармида на нѧ ободри ·",
         "author": "Socrates",
         "source": "diogenes-laertius",
         "year": -412,

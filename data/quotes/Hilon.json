@@ -2,9 +2,39 @@
   {
     "type": "bio",
     "year": -600,
-    "sr": "Hilon sin Damagetov, Lakedemonian. Ovaj stvorio elegije u dvestotinu stihova, i govoraše da predviđanje budućega razumom shvatljivo biće muževnosti vrlina. I ka bratu koji se žali što nije efor postao, dok je on bio, reče: Ja pak znam, reče, nepravdu podneti, ti pak ne.",
-    "stsl": "Хїлонъ сынъ Дамагєтовъ · Лакєдємонꙗнїнъ · Сєі сътворї єлєгїꙗ въ дъвѣстотінѫ стїхъ · і говораашє ꙗko прєдвїждаиє вѹдѹщаго раꙁѹмомъ схватьлїво вїва мѫжєвности врьлїна · І ка братѹ їжє сѧ жалїть ꙗko нєсть єфоръ посталъ · дондєжє єсть онъ бїо · рєчє · Ꙗ жє вѣмь · рєчє · нєправьдѫ поднєті · тꙑ жє нє.",
-    "originalText": "Χίλων Δαμαγήτου Λακεδαιμόνιος. Οὗτος ἐποίησεν ἐλεγεῖα εἰς ἔπη διακόσια, καὶ ἔφασκε πρόνοιαν περὶ τοῦ μέλλοντος λογισμῷ καταληπτὴν εἶναι ἀνδρὸς ἀρετήν. Πρός τε τὸν ἀδελφὸν δυσφοροῦντα ὅτι μὴ ἔφορος ἐγένετο, αὐτοῦ ὄντος, Ἐγὼ μὲν γὰρ ἐπίσταμαι, εἶπεν, ἀδικεῖσθαι, σὺ δὲ οὔ.",
+    "sr": "Hilon je bio sin Damagetov, Lakedemonian.",
+    "stsl": "Хїлонъ сынъ Дамагєтовъ · Лакєдємонꙗнїнъ.",
+    "originalText": "Χίλων Δαμαγήτου Λακεδαιμόνιος.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.68"
+  },
+  {
+    "type": "bio",
+    "year": -595,
+    "sr": "Stvorio je elegije u dvestotinu stihova.",
+    "stsl": "Сътворї єлєгїꙗ въ дъвѣстотінѫ стїхъ.",
+    "originalText": "Οὗτος ἐποίησεν ἐλεγεῖα εἰς ἔπη διακόσια.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.68"
+  },
+  {
+    "type": "reported",
+    "year": -580,
+    "sr": "Govoraše da predviđanje budućega razumom shvatljivo biće muževnosti vrlina.",
+    "stsl": "Говораашє ꙗko прєдвїждаиє вѹдѹщаго раꙁѹмомъ схватьлїво вїва мѫжєвности врьлїна.",
+    "originalText": "ἔφασκε πρόνοιαν περὶ τοῦ μέλλοντος λογισμῷ καταληπτὴν εἶναι ἀνδρὸς ἀρετήν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.68"
+  },
+  {
+    "type": "anecdote",
+    "year": -560,
+    "sr": "Bratu koji se žali što nije efor postao dok je on bio, reče: Ja pak znam nepravdu podneti, ti pak ne.",
+    "stsl": "Братѹ їжє сѧ жалїть ꙗko нєсть єфоръ посталъ · дондєжє єсть онъ бїо · рєчє · Ꙗ жє вѣмь нєправьдѫ поднєті · тꙑ жє нє.",
+    "originalText": "Πρός τε τὸν ἀδελφὸν δυσφοροῦντα ὅτι μὴ ἔφορος ἐγένετο, αὐτοῦ ὄντος, Ἐγὼ μὲν γὰρ ἐπίσταμαι, εἶπεν, ἀδικεῖσθαι, σὺ δὲ οὔ.",
     "author": "Chilon of Sparta",
     "source": "diogenes-laertius",
     "reference": "II.68"
@@ -53,7 +83,7 @@
     "type": "quote",
     "year": -580,
     "sr": "Šta teško: To tajno ćutati, i dokolicu dobro urediti, i nepravdu činjena podneti moći.",
-    "stsl": "Что тєжько · То таино шѹтатї · і докѡліцѫ довро ѹрєдїті · і нєправьдѫ чїнєнѫ поднєті моћї.",
+    "stsl": "Что тєжько · То таино шѹтатї · і докѡліцѫ добро ѹрєдїті · і нєправьдѫ чїнєнѫ поднєті моћї.",
     "originalText": "τί δύσκολον, Τὸ τὰ ἀπόρρητα σιωπῆσαι, καὶ σχολὴν εὖ διαθέσθαι, καὶ ἀδικούμενον δύνασθαι φέρειν.",
     "author": "Chilon of Sparta",
     "source": "diogenes-laertius",
@@ -72,9 +102,179 @@
   {
     "type": "quote",
     "year": -580,
-    "sr": "Ne pretiti nikome; ženskasto je to. Brže ka nesrećama drugova nego ka srećama hoditi. Ženidbu skromnu činiti. Umrlog ne zlogovoriti. Starost poštovati. Čuvati sebe. Štetu birati više nego dobit sramnu; ona pak jednom ožalosti, ovo pak zauvek. Nesrećnom ne podsmevati se. Jak bivši blag biti, da bližnji uvažavaju više nego straše se. Učiti sopstvenu kuću dobro upravljati. Jezik da ne preteče umu. Gnevom vladati. Gatanje ne mrzeti. Ne želeti nemoguće. Na putu ne juriti. Govoreći ne mešati ruku; ludačko je to. Zakonima pokoravati se. Mirnoćom služiti se.",
-    "stsl": "Нє прєтїті нїкомѹжє · жєнскасто єсть то · Врьꙁѣє ка нєсрєћамъ дрѹговъ нєжєлї ка срєћамъ ходїті · Жєнїдьвѫ скромьнѫ чїніті · Ѹмрьла нє ꙁъловлаштї · Старость поштоватї · Чѹватї сєвє · Щєтѫ вїратї вєщє нєжєлї довїть срамьнѫ · ѡна жє єдиноѭ ѡжалостї · сє жє ꙁаѹвѣкъ · Нєсрєћномѹ нє подъсмѣватї сѧ · Ꙗкъ вꙑвъ влагъ віті · да влїжьнї ѹважаваѭть вєщє нєжєлї страшѧть сѧ · Ѹчїті собьствєнѫ хꙑжѫ довро ѹправлꙗтї · Ꙗꙁꙑкъ да нє прєтєчє ѹмѹ · Гнѣвомъ владаті · Гатаніє нє мрьꙁѣті · Нє жєлѣті нємогѹщє · На пѫтї нє ѹрїті · Говорꙗ нє мѣшатї рѹкѫ · лѹдачьско єсть то · Ꙁакономъ покораватї сѧ · Мірьноћїѭ слѹжїті сѧ.",
-    "originalText": "Μὴ ἀπειλεῖν μηδενί· γυναικῶδες γάρ. Ταχύτερον ἐπὶ τὰς ἀτυχίας τῶν φίλων ἢ ἐπὶ τὰς εὐτυχίας πορεύεσθαι. Γάμον εὐτελῆ ποιεῖσθαι. Τὸν τεθνηκότα μὴ κακολογεῖν. Γῆρας τιμᾶν. Φυλάττειν ἑαυτόν. Ζημίαν αἱρεῖσθαι μᾶλλον ἢ κέρδος αἰσχρόν· ἡ μὲν γὰρ ἅπαξ ἐλύπησε, τὸ δὲ διὰ παντός. Ἀτυχοῦντι μὴ ἐπιγελᾶν. Ἰσχυρὸν ὄντα πρᾷον εἶναι, ὅπως οἱ πλησίον αἰδῶνται μᾶλλον ἢ φοβῶνται. Μανθάνειν τῆς αὑτοῦ οἰκίας καλῶς προστατεῖν. Τὴν γλῶτταν μὴ προτρέχειν τοῦ νοῦ. Θυμοῦ κρατεῖν. μαντικὴν μὴ ἐχθαίρειν. Μὴ ἐπιθυμεῖν ἀδυνάτων. Ἐν ὁδῷ μὴ σπεύδειν. Λέγοντα μὴ κινεῖν τὴν χεῖρα· μανικὸν γάρ. νόμοις πείθεσθαι. Ἠρεμίᾳ χρῆσθαι.",
+    "sr": "Ne pretiti nikome; ženskasto je to.",
+    "stsl": "Нє прєтїті нїкомѹжє · жєнскасто єсть то.",
+    "originalText": "Μὴ ἀπειλεῖν μηδενί· γυναικῶδες γάρ.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Brže ka nesrećama drugova nego ka srećama hoditi.",
+    "stsl": "Врьꙁѣє ка нєсрєћамъ дрѹговъ нєжєлї ка срєћамъ ходїті.",
+    "originalText": "Ταχύτερον ἐπὶ τὰς ἀτυχίας τῶν φίλων ἢ ἐπὶ τὰς εὐτυχίας πορεύεσθαι.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Ženidbu skromnu činiti.",
+    "stsl": "Жєнїдьвѫ скромьнѫ чїніті.",
+    "originalText": "Γάμον εὐτελῆ ποιεῖσθαι.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Umrlog ne zlogovoriti.",
+    "stsl": "Ѹмрьла нє ꙁъловлаштї.",
+    "originalText": "Τὸν τεθνηκότα μὴ κακολογεῖν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Starost poštovati.",
+    "stsl": "Старость поштоватї.",
+    "originalText": "Γῆρας τιμᾶν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Čuvati sebe.",
+    "stsl": "Чѹватї сєвє.",
+    "originalText": "Φυλάττειν ἑαυτόν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Štetu birati više nego dobit sramnu. Ona pak jednom ožalosti, ovo pak zauvek.",
+    "stsl": "Щєтѫ вїратї вєщє нєжєлї добїть срамьнѫ · ѡна жє єдиноѭ ѡжалостї · сє жє ꙁаѹвѣкъ.",
+    "originalText": "Ζημίαν αἱρεῖσθαι μᾶλλον ἢ κέρδος αἰσχρόν· ἡ μὲν γὰρ ἅπαξ ἐλύπησε, τὸ δὲ διὰ παντός.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Nesrećnom ne podsmevati se.",
+    "stsl": "Нєсрєћномѹ нє подъсмѣватї сѧ.",
+    "originalText": "Ἀτυχοῦντι μὴ ἐπιγελᾶν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Jak bivši blag biti, da bližnji uvažavaju više nego straše se.",
+    "stsl": "Ꙗкъ вꙑвъ влагъ віті · да влїжьнї ѹважаваѭть вєщє нєжєлї страшѧть сѧ.",
+    "originalText": "Ἰσχυρὸν ὄντα πρᾷον εἶναι, ὅπως οἱ πλησίον αἰδῶνται μᾶλλον ἢ φοβῶνται.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Učiti sopstvenu kuću dobro upravljati.",
+    "stsl": "Ѹчїті собьствєнѫ хꙑжѫ добро ѹправлꙗтї.",
+    "originalText": "Μανθάνειν τῆς αὑτοῦ οἰκίας καλῶς προστατεῖν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Jezik da ne preteče umu.",
+    "stsl": "Ꙗꙁꙑкъ да нє прєтєчє ѹмѹ.",
+    "originalText": "Τὴν γλῶτταν μὴ προτρέχειν τοῦ νοῦ.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Gnevom vladati.",
+    "stsl": "Гнѣвомъ владаті.",
+    "originalText": "Θυμοῦ κρατεῖν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Gatanje ne mrzeti.",
+    "stsl": "Гатаніє нє мрьꙁѣті.",
+    "originalText": "μαντικὴν μὴ ἐχθαίρειν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Ne želeti nemoguće.",
+    "stsl": "Нє жєлѣті нємогѹщє.",
+    "originalText": "Μὴ ἐπιθυμεῖν ἀδυνάτων.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Na putu ne juriti.",
+    "stsl": "На пѫтї нє ѹрїті.",
+    "originalText": "Ἐν ὁδῷ μὴ σπεύδειν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Govoreći ne mešati ruku; ludačko je to.",
+    "stsl": "Говорꙗ нє мѣшатї рѹкѫ · лѹдачьско єсть то.",
+    "originalText": "Λέγοντα μὴ κινεῖν τὴν χεῖρα· μανικὸν γάρ.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Zakonima pokoravati se.",
+    "stsl": "Ꙁакономъ покораватї сѧ.",
+    "originalText": "νόμοις πείθεσθαι.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.70"
+  },
+  {
+    "type": "quote",
+    "year": -580,
+    "sr": "Mirnoćom služiti se.",
+    "stsl": "Мірьноћїѭ слѹжїті сѧ.",
+    "originalText": "Ἠρεμίᾳ χρῆσθαι.",
     "author": "Chilon of Sparta",
     "source": "diogenes-laertius",
     "reference": "II.70"
@@ -111,10 +311,40 @@
   },
   {
     "type": "bio",
+    "year": -560,
+    "sr": "Kratkorečiv bijaše. Odakle i Aristagora Milećanin ovim načinom Hilonskim naziva.",
+    "stsl": "Краткорѣчївъ вѣашє · ѿкѹдѹжє і Арістагора Мїлєщанїнъ сїмь начїномь Хїлонскꙑмь нарїцаєть.",
+    "originalText": "Βραχυλόγος τε ἦν· ὅθεν καὶ Ἀρισταγόρας ὁ Μιλήσιος τοῦτον τὸν τρόπον Χιλώνειον καλεῖ.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.72"
+  },
+  {
+    "type": "bio",
+    "year": -552,
+    "sr": "Bio je starac oko pedeset druge olimpijade, kada je Ezop basnotvorca procvetao.",
+    "stsl": "Бїо єсть старєцъ ѡколо пєдєсѧтъ вторꙑꙗ ѡлѵмпїадꙑ · єгда Єꙁопъ васноворєцъ процвѣталъ.",
+    "originalText": "Ἦν δὲ γέρων περὶ τὴν πεντηκοστὴν δευτέραν Ὀλυμπιάδα, ὅτε Αἴσωπος ὁ λογοποιὸς ἤκμαζεν.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.72"
+  },
+  {
+    "type": "bio",
     "year": -520,
-    "sr": "Kratkorečiv bijaše; odakle i Aristagora Milećanin ovim načinom Hilonskim naziva. Bio je starac oko pedeset druge olimpijade, kada je Ezop basnotvorca procvetao. Umro je pak, kako kaže Hermip, u Pisi, sina olimpijskog pobednika zagrljavši u pesnici. Pretrpeo je to od preteranosti radosti i slabosti dugogodišnje. I svi oni na svetkovini najčasnije ga ispraćahu.",
-    "stsl": "Краткорѣчївъ вѣашє · ѿкѹдѹжє і Арістагора Мїлєщанїнъ сїмь начїномь Хїлонскꙑмь нарїцаєть · Бїо єсть старєцъ ѡколо пєдєсѧтъ вторꙑꙗ ѡлѵмпїадꙑ · єгда Єꙁопъ васноворєцъ процвѣталъ · Ѹмрѣ жє · ꙗкоже глаголєть Єрмипъ · въ Пісѣ · сꙑна ѡлѵмпїискаго повѣдїтєлꙗ ꙁагрлївъ въ пѧснїцѣ · Прєтрьпѣ то отъ прєтєраности радости і славости дъльгогодїшьнꙑꙗ · І всї ѡні на свꙗтковїнѣ наічасьнѣішє га їспраћаахѫ.",
-    "originalText": "Βραχυλόγος τε ἦν· ὅθεν καὶ Ἀρισταγόρας ὁ Μιλήσιος τοῦτον τὸν τρόπον Χιλώνειον καλεῖ. Ἦν δὲ γέρων περὶ τὴν πεντηκοστὴν δευτέραν Ὀλυμπιάδα, ὅτε Αἴσωπος ὁ λογοποιὸς ἤκμαζεν. Ἐτελεύτησε δ', ὥς φησιν Ἕρμιππος, ἐν Πίσῃ, τὸν υἱὸν Ὀλυμπιονίκην ἀσπασάμενος πυγμῆς. Ἔπαθε δὴ τοῦτο ὑπερβολῇ τε χαρᾶς καὶ ἀσθενείᾳ πολυετίας. Καὶ αὐτὸν πάντες οἱ κατὰ τὴν πανήγυριν ἐντιμότατα παρέπεμψαν.",
+    "sr": "Umro je, kako kaže Hermip, u Pisi, zagrljavši sina olimpijskog pobednika u pesnici. Pretrpeo je to od preteranosti radosti i slabosti dugogodišnje.",
+    "stsl": "Ѹмрѣ · ꙗкоже глаголєть Єrмипъ · въ Пісѣ · ꙁагрлївъ сꙑна ѡлѵмпїискаго повѣдїтєлꙗ въ пѧснїцѣ · Прєтрьпѣ то отъ прєтєраности радости і славости дъльгогодїшьнꙑꙗ.",
+    "originalText": "Ἐτελεύτησε δ', ὥς φησιν Ἕρμιππος, ἐν Πίσῃ, τὸν υἱὸν Ὀλυμπιονίκην ἀσπασάμενος πυγμῆς. Ἔπαθε δὴ τοῦτο ὑπερβολῇ τε χαρᾶς καὶ ἀσθενείᾳ πολυετίας.",
+    "author": "Chilon of Sparta",
+    "source": "diogenes-laertius",
+    "reference": "II.72"
+  },
+  {
+    "type": "bio",
+    "year": -520,
+    "sr": "Svi oni na svetkovini najčasnije ga ispraćahu.",
+    "stsl": "Всї ѡні на svꙗтковїнѣ наічасьнѣішє га їспраћаахѫ.",
+    "originalText": "Καὶ αὐτὸν πάντες οἱ κατὰ τὴν πανήγυριν ἐντιμότατα παρέπεμψαν.",
     "author": "Chilon of Sparta",
     "source": "diogenes-laertius",
     "reference": "II.72"

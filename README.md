@@ -20,7 +20,7 @@ npm start
 
 ## TODO
 
-- prvo slovo crveno (prvi red crven)
+- prekopirati slike lokalno
 - proveriti sr prevode
 - dodati slike koje fale, prekopirati lokalno, izabrati bolje
 - čistiti redom sadržaj i ručno sređivati godine, brisati smeće i sl.
@@ -29,6 +29,5 @@ npm start
 - obraditi podatke iz latinskog teksta
 - srediti jezičke rute
 - dodati filozofski rečnik kao zasebnu stranicu
-- prekopirati slike lokalno
 - dodati preslovljavanje (vidi svete misli)
 - čistka (posebno Platon)

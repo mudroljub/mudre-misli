@@ -2,9 +2,39 @@
   {
     "type": "bio",
     "year": -345,
-    "sr": "Ovaj od onih od Fedona, Kleistena sina od tako zvanih Teopropida, čoveka blagorođenog, graditelja pak i siromašnog; neki pak i scenografa njega biće kažu i naučiti oboje Menedéma; odakle napisavši neki dekret osvoji neki Aleksinej, rekavši da ni scenu ni dekret prilikuje mudracu pisati. Posla pak straža Menedém od Eritrejaca u Megaru otišao je u Akademiju ka Platonu, i zarobljen ostavi vojsku.",
-    "stsl": "Сєі отъ онїхъ отъ Федона · Клєістєна сꙑна отъ тако ꙁованꙑхъ Теопропїдъ · чловѣка влагороднаго · градїтєлꙗ жє і сїромащьна · нѣцїи жє і скєнографа єго віті каꙁѫть і наѹчїті ѡвоє Мєнєдєма · ѿкѹдѹжє напісавъ нѣкі дєкрєтъ ѡсвоі нѣкі Алєѯінєі · рєкъ ꙗko ні скєнѫ ні дєкрєтъ прїлїкѹєть мѹдрацѹ пїсаті · Посла жє стража Мєнєдємъ отъ Єрітрєацъ въ Мєгарѫ ѡтїдє въ Акадємїѭ ка Платонѹ · і ꙁаровлєнъ остаї воіскѫ.",
-    "originalText": "Οὗτος τῶν ἀπὸ Φαίδωνος, Κλεισθένους τοῦ τῶν Θεοπροπιδῶν καλουμένων υἱός, ἀνδρὸς εὐγενοῦς μέν, ἀρχιτέκτονος δὲ καὶ πένητος· οἱ δὲ καὶ σκηνογράφον αὐτὸν εἶναί φασι καὶ μαθεῖν ἑκάτερα τὸν Μενέδημον· ὅθεν γράψαντος αὐτοῦ ψήφισμά τι καθήψατό τις Ἀλεξίνειος, εἰπὼν ὡς οὔτε σκηνὴν οὔτε ψήφισμα προσήκει τῷ σοφῷ γράφειν. Πεμφθεὶς δὲ φρουρὸς ὁ Μενέδημος ὑπὸ τῶν Ἐρετριέων εἰς Μέγαρα ἀνῆλθεν εἰς Ἀκαδήμειαν πρὸς Πλάτωνα, καὶ θηραθεὶς κατέλιπε τὴν στρατείαν.",
+    "sr": "Menedem je bio sin Kleistena od Teopropida, čoveka blagorođenog. Otac mu je bio graditelj i siromašan.",
+    "stsl": "Мєнєдємъ бѣ сынъ Клєістєна отъ Теопропїдъ · чловѣка влагороднаго · Отьць ємѹ градїтєль і сїромащьнъ бѣ.",
+    "originalText": "Οὗτος τῶν ἀπὸ Φαίδωνος, Κλεισθένους τοῦ τῶν Θεοπροπιδῶν καλουμένων υἱός, ἀνδρὸς εὐγενοῦς μέν, ἀρχιτέκτονος δὲ καὶ πένητος.",
+    "author": "Menedemus",
+    "source": "diogenes-laertius",
+    "reference": "II.125"
+  },
+  {
+    "type": "bio",
+    "year": -340,
+    "sr": "Neki kažu da je bio scenograf i da je naučio oboje zanata.",
+    "stsl": "Нѣцїи глаголѭть ꙗko скєнографъ бѣ і ꙗko ѡвоє рємєство наѹчї.",
+    "originalText": "οἱ δὲ καὶ σκηνογράφον αὐτὸν εἶναί φασι καὶ μαθεῖν ἑκάτερα τὸν Μενέδημον.",
+    "author": "Menedemus",
+    "source": "diogenes-laertius",
+    "reference": "II.125"
+  },
+  {
+    "type": "anecdote",
+    "year": -335,
+    "sr": "Napisao je neki dekret. Aleksinej ga je prekorio rekavši da ni scenu ni dekret ne prilikuje mudracu pisati.",
+    "stsl": "Напіса нѣкі дєкрєтъ · Алєѯінєі га прєкорї рєкъ ꙗko ні скєнѫ ні дєкрєтъ прїлїкѹєть мѹдрацѹ пїсаті.",
+    "originalText": "ὅθεν γράψαντος αὐτοῦ ψήφισμά τι καθήψατό τις Ἀλεξίνειος, εἰπὼν ὡς οὔτε σκηνὴν οὔτε ψήφισμα προσήκει τῷ σοφῷ γράφειν.",
+    "author": "Menedemus",
+    "source": "diogenes-laertius",
+    "reference": "II.125"
+  },
+  {
+    "type": "bio",
+    "year": -330,
+    "sr": "Poslan kao straža od Eritrejaca u Megaru, otišao je u Akademiju ka Platonu. Zarobljen filozofijom, ostavio je vojsku.",
+    "stsl": "Посланъ ꙗko стража отъ Єрітрєацъ въ Мєгарѫ · ѡтїдє въ Акадємїѭ ка Платонѹ · Ꙁаровлєнъ любомѫдріємъ · остаї воіскѫ.",
+    "originalText": "Πεμφθεὶς δὲ φρουρὸς ὁ Μενέδημος ὑπὸ τῶν Ἐρετριέων εἰς Μέγαρα ἀνῆλθεν εἰς Ἀκαδήμειαν πρὸς Πλάτωνα, καὶ θηραθεὶς κατέλιπε τὴν στρατείαν.",
     "author": "Menedemus",
     "source": "diogenes-laertius",
     "reference": "II.125"
@@ -43,7 +73,7 @@
     "type": "quote",
     "year": -310,
     "sr": "Ka onome koji se drsko ponaša bludniku: Ne znaš, reče, da ne samo kelj sok dobro ima, već i rotkve?",
-    "stsl": "Ка ономѹ їжє сѧ дрьско понашаашє влѹдьнїкѹ · Нє вѣси · рєчє · ꙗko нє токмо кєль сокъ довро їма · вєць і роткъвє.",
+    "stsl": "Ка ономѹ їжє сѧ дрьско понашаашє влѹдьнїкѹ · Нє вѣси · рєчє · ꙗko нє токмо кєль сокъ добро їма · вєць і роткъвє.",
     "originalText": "Πρὸς δὲ τὸν θρασυνόμενον μοιχόν, Ἀγνοεῖς, ἔφη, ὅτι οὐ μόνον κράμβη χυλὸν ἔχει χρηστόν, ἀλλὰ καὶ ῥαφανίδες;",
     "author": "Menedemus",
     "source": "diogenes-laertius",

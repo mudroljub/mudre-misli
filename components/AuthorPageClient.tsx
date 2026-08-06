@@ -50,11 +50,13 @@ export default function AuthorPageClient({
           </p>
         )}
 
-        <img
-          className={styles.authorPortrait}
-          src={authorData.src}
-          alt={authorName}
-        />
+        {authorData.src &&
+          <img
+            className={styles.authorPortrait}
+            src={authorData.src}
+            alt={authorName}
+          />
+        }
 
         <a
           href={`https://en.wikipedia.org/wiki/${author.replace(/ /g, "_")}`}

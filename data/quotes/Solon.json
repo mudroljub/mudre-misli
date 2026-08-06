@@ -121,10 +121,40 @@
   },
   {
     "type": "bio",
+    "year": -594,
+    "sr": "Procvetao je oko četrdeset šeste olimpijade.",
+    "stsl": "Процвѣталъ єсть ѡколо чєтꙑрідєсѧтъ шєстꙑꙗ ѡлѵмпїадꙑ.",
+    "originalText": "Ἤκμαζε μὲν οὖν περὶ τὴν τεσσαρακοστὴν ἕκτην Ὀλυμπιάδα.",
+    "author": "Solon",
+    "source": "diogenes-laertius",
+    "reference": "II.62"
+  },
+  {
+    "type": "bio",
+    "year": -592,
+    "sr": "Vladao je u Atinama u trećoj godini te olimpijade, kako kaže Sosikrat. Tada je i postavio zakone.",
+    "stsl": "Владалъ єсть въ Аѳінахъ въ трєтїєи годїнѣ тꙑꙗ ѡлѵмпїадꙑ · ꙗкоже глаголєть Сосїкратъ · Тогда і поставлꙗєть ꙁаконꙑ.",
+    "originalText": "ἧς τῷ τρίτῳ ἔτει ἦρξεν Ἀθήνησι, καθά φησι Σωσικράτης· ὅτε καὶ τίθησι τοὺς νόμους.",
+    "author": "Solon",
+    "source": "diogenes-laertius",
+    "reference": "II.62"
+  },
+  {
+    "type": "bio",
     "year": -558,
-    "sr": "Procvetao je oko četrdeset šeste olimpijade, koje trećoj godini vladao je u Atinama, kako kaže Sosikrat; kada i postavlja zakone. Umro je na Kipru proživevši osamdeset godina, ovo naredio bližnjima tom načinu: odneti njegove kosti u Salaminu i pretvorivši ih u pepeo po zemlji posejati. Odakle i Kratin u Hironima kaže, njega čineći da govori: 'Stanem na ostrvu, kako ljudi priče, posejat po svoj grad Ajantov'.",
-    "stsl": "Процвѣталъ єсть ѡколо чєтꙑрідєсѧтъ шєстꙑꙗ ѡлѵмпїадꙑ · єꙗжє трєтїєи годїнѣ владалъ єсть въ Аѳінахъ · ꙗкоже глаголєть Сосїкратъ · єгда і поставлꙗєть ꙁаконꙑ · Ѹмрѣ на Кѵпрѹ проꙁївъ ѡсмьдєсѧть лѣтъ · сє нарєдї влїжьнїмъ томѹ начїнѹ · ѡтнєті єго кости въ Саламїнъ і прєтворївъшє въ пєпєлъ по ꙁємлі посєꙗті · Ѿкѹдѹжє і Кратінъ въ Хїронахъ глаголєть · єго чїнꙗ да говорїть · Станѫ на островѹ · ꙗкоже людїє рѣчє · посєꙗтъ по всь градъ Аꙗнтовъ.",
-    "originalText": "Ἤκμαζε μὲν οὖν περὶ τὴν τεσσαρακοστὴν ἕκτην Ὀλυμπιάδα, ἧς τῷ τρίτῳ ἔτει ἦρξεν Ἀθήνησι, καθά φησι Σωσικράτης· ὅτε καὶ τίθησι τοὺς νόμους. Ἐτελεύτησε δ' ἐν Κύπρῳ βιοὺς ἔτη ὀγδοήκοντα, τοῦτον ἐπισκήψας τοῖς ἰδίοις τὸν τρόπον, ἀποκομίσαι αὐτοῦ τὰ ὀστᾶ εἰς Σαλαμῖνα καὶ τεφρώσαντας εἰς τὴν χώραν σπεῖραι. Ὅθεν καὶ Κρατῖνος ἐν τοῖς Χείρωσί φησιν, αὐτὸν ποιῶν λέγοντα· Οἰκῶ δὲ νῆσον, ὡς μὲν ἀνθρώπων λόγος, ἐσπαρμένος κατὰ πᾶσαν Αἴαντος πόλιν.",
+    "sr": "Umro je na Kipru proživevši osamdeset godina.",
+    "stsl": "Ѹмрѣ на Кѵпрѹ проꙁївъ ѡсмьдєсѧть лѣтъ.",
+    "originalText": "Ἐτελεύτησε δ' ἐν Κύπρῳ βιοὺς ἔτη ὀγδοήκοντα.",
+    "author": "Solon",
+    "source": "diogenes-laertius",
+    "reference": "II.62"
+  },
+  {
+    "type": "anecdote",
+    "year": -558,
+    "sr": "Naredio je bližnjima da odnesu njegove kosti u Salaminu i da ih pretvore u pepeo koji će posejati po zemlji.",
+    "stsl": "Нарєдї влїжьнїмъ да ѡтнєсѫть єго кости въ Саламїнъ і да прєтворѧть въ пєпєлъ їжє посєꙗть по ꙁємлі.",
+    "originalText": "τοῦτον ἐπισκήψας τοῖς ἰδίοις τὸν τρόπον, ἀποκομίσαι αὐτοῦ τὰ ὀστᾶ εἰς Σαλαμῖνα καὶ τεφρώσαντας εἰς τὴν χώραν σπεῖραι.",
     "author": "Solon",
     "source": "diogenes-laertius",
     "reference": "II.62"
@@ -163,7 +193,7 @@
     "type": "quote",
     "year": -580,
     "sr": "Ni moji zakoni, dakle, Atinjanine na dugo koristiće imali su, niti ti očistivši grad koristio si. Jer i božansko i zakonodavci ne po sebi mogu koristiti gradovima, nego oni koji uvek mnoštvo vode onamo kako bi mišljenja imali. Tako i božansko i zakoni, dobro vodećima, jesu korisni; loše pak vodećima, ništa ne koriste.",
-    "stsl": "Ни моі ꙁаконї · тако · Аѳінꙗнє на дъльго корістїћє їмаахѫ · ніті тꙑ ѡчістївъ градъ корістовалъ сї · Ꙗко і вожанско і ꙁаконодавьцї нє по сєвѣ могѫть корістїті градомъ · нъ ꙇжє вїногда мъножьство водѧть ѡнамо како вї мнѣніꙗ їмаалї · Тако і вожанско і ꙁаконї · довро водꙗщїмъ · сѫть корістьнї · лошє жє водꙗщїмъ · ничтоже нє корїстѫть.",
+    "stsl": "Ни моі ꙁаконї · тако · Аѳінꙗнє на дъльго корістїћє їмаахѫ · ніті тꙑ ѡчістївъ градъ корістовалъ сї · Ꙗко і вожанско і ꙁаконодавьцї нє по сєвѣ могѫть корістїті градомъ · нъ ꙇжє вїногда мъножьство водѧть ѡнамо како вї мнѣніꙗ їмаалї · Тако і вожанско і ꙁаконї · добро водꙗщїмъ · сѫть корістьнї · лошє жє водꙗщїмъ · ничтоже нє корїстѫть.",
     "originalText": "Οὔτε οἱ ἐμοὶ θεσμοὶ ἄρα Ἀθηναίους ἐπιπολὺ ὀνήσειν ἔμελλον, οὔτε σὺ καθήρας τὴν πόλιν ὤνησας. Τό τε γὰρ θεῖον καὶ οἱ νομοθέται οὐ καθ' ἑαυτὰ δύνανται ὀνῆσαι τὰς πόλεις, οἱ δὲ ἀεὶ τὸ πλῆθος ἄγοντες ὅπως ἂν γνώμης ἔχωσιν. Οὕτω δὲ καὶ τὸ θεῖον καὶ οἱ νόμοι, εὖ μὲν ἀγόντων, εἰσὶν ὠφέλιμοι· κακῶς δὲ ἀγόντων, οὐδὲν ὠφελοῦσιν.",
     "author": "Solon",
     "source": "diogenes-laertius",

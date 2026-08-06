@@ -107,6 +107,8 @@ Jedan entry treba da sadrži jedan kratak pasus:
 * po mogućnosti jedan do dva reda u knjižnom prikazu;
 * bez naknadno dodatih događaja koji pripadaju drugom vremenu ili temi.
 
+**Rečenica je najmanja celina za odvajanje.** Ako je rečenica preduga, može se dodati tačka umesto zareza gde ima smisla.
+
 Ako se tekst može prirodno podeliti bez gubitka smisla, podeliti ga u više entrija.
 
 ## Povezani događaji
