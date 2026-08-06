@@ -1,23 +1,42 @@
 # Pointer Format Dokumentacija
 
+> **VAŽNO**: Pointeri se **NE čuvaju u source JSON fajlovima** (`data/quotes/*.json`).  
+> Oni se **automatski generišu tokom build procesa** (`node tools/build-quotes.mjs`)  
+> i nalaze se samo u finalnom `data/quotes.json` fajlu.
+
 ## Format
 
-Pointer precizno locira izvorni grčki tekst citata u Diogenovim knjigama:
+Pointer precizno locira izvorni tekst citata u source fajlovima.
+
+Format zavisi od izvora:
 
 ```
 file:line#anchor
 ```
 
-### Primeri:
+### Podržani izvori:
 
-**Bez anchor-a** (jedinstveni citat u odeljku):
+**1. Diogenes Laertius** (`source: "diogenes-laertius"`)
 ```
 "pointer": "data/sources/diogenes-laertius/el/03.txt:59"
+"pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"  (sa anchorom)
 ```
 
-**Sa anchor-om** (više citata iz istog odeljka):
+**2. Walter Burley** (`source: "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXVI"`)
 ```
-"pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"
+"pointer": "data/sources/walter-burley/latin_raw/gorgias.txt:1"
+```
+
+### Kako dodati novi izvor:
+
+Dodaj builder funkciju u `tools/build-quotes.mjs`:
+
+```javascript
+pointerBuilders['novi-izvor'] = async (reference, author) => {
+  // Parsiraj reference format specifičan za ovaj izvor
+  // Pronađi odgovarajući fajl
+  // Vrati "file:line" ili null
+}
 ```
 
 ## Komponente
@@ -106,6 +125,30 @@ Agent:
 **Preciznost:**
 - Pointer + anchor → tačnost na ±2 linije
 - Bez anchor-a → tačnost na ±7 linija (ceo odeljak)
+
+## Kako proveriti pointere
+
+```bash
+# 1. Build-uj quotes.json iz source fajlova
+node tools/build-quotes.mjs
+
+# 2. Proveri koliko citata ima pointer
+grep -c '"pointer"' data/quotes.json
+
+# 3. Proveri primere
+grep '"pointer"' data/quotes.json | head -10
+
+# 4. Nađi citate bez pointera (nemaju validan reference)
+grep -L '"pointer"' data/quotes.json
+```
+
+**Očekivani rezultat**: ~98% citata ima pointer.
+
+**Trenutna statistika** (avgust 2026):
+- **1248/1273 (98.0%)** citata ima pointer
+- **Diogenes Laertius**: 1229 citata sa pointerom
+- **Walter Burley**: 19 citata sa pointerom
+- **Bez pointera**: 25 citata (uglavnom reference sa rasponom kao "VIII.67–74")
 
 ## Generisanje
 

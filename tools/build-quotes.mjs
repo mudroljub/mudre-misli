@@ -58,30 +58,67 @@ const loadSectionLineIndex = async (bookNumber) => {
   return lineBySection
 }
 
-const buildPointer = async (reference) => {
-  const normalized = String(reference || '').trim()
+// Pointer builders for different sources
+const pointerBuilders = {
+  'diogenes-laertius': async (reference) => {
+    const normalized = String(reference || '').trim()
+    if (!normalized) return null
 
-  if (!normalized) {
+    const refMatch = normalized.match(/\b([IVX]+)\.(\d+)/)
+    if (!refMatch) return null
+
+    const bookNumber = romanToNumber[refMatch[1]]
+    const sectionNumber = Number(refMatch[2])
+    if (!bookNumber || !Number.isFinite(sectionNumber)) return null
+
+    const relFile = getElFileForBook(bookNumber)
+    const sectionIndex = await loadSectionLineIndex(bookNumber)
+    const line = sectionIndex.get(sectionNumber)
+
+    if (line) {
+      return `${relFile}:${line}`
+    }
     return null
+  },
+
+  'walter-burley': async (reference, author) => {
+    const normalized = String(reference || '').trim()
+    if (!normalized) return null
+
+    // Match "Cap. XXVI" or "XXVI" from reference
+    const refMatch = normalized.match(/\b([IVX]+)\b/)
+    if (!refMatch) return null
+
+    // Use author name to find the file
+    if (!author) return null
+
+    // Normalize author name to filename (e.g., "Gorgias" -> "gorgias.txt")
+    const filename = author.toLowerCase().replace(/\s+/g, '_') + '.txt'
+    const relFile = `data/sources/walter-burley/latin_raw/${filename}`
+
+    // Check if file exists
+    const absFile = path.join(rootDir, relFile)
+    try {
+      await fs.access(absFile)
+      // Walter Burley files are small, pointer is just the file
+      return `${relFile}:1`
+    } catch {
+      return null
+    }
+  }
+}
+
+const buildPointer = async (source, reference, author) => {
+  // Extract base source key (e.g., "diogenes-laertius" from "diogenes-laertius")
+  const sourceKey = String(source || '').split(',')[0].trim()
+
+  // Try to match known source patterns
+  if (sourceKey === 'diogenes-laertius') {
+    return pointerBuilders['diogenes-laertius'](reference)
   }
 
-  const refMatch = normalized.match(/\b([IVX]+)\.(\d+)/)
-  if (!refMatch) {
-    return null
-  }
-
-  const bookNumber = romanToNumber[refMatch[1]]
-  const sectionNumber = Number(refMatch[2])
-  if (!bookNumber || !Number.isFinite(sectionNumber)) {
-    return null
-  }
-
-  const relFile = getElFileForBook(bookNumber)
-  const sectionIndex = await loadSectionLineIndex(bookNumber)
-  const line = sectionIndex.get(sectionNumber)
-
-  if (line) {
-    return `${relFile}:${line}`
+  if (sourceKey.includes('Walter Burley')) {
+    return pointerBuilders['walter-burley'](reference, author)
   }
 
   return null
@@ -98,7 +135,7 @@ for (const file of files) {
     throw new Error(`${file} does not contain an array`)
 
   for (const entry of content) {
-    const pointer = await buildPointer(entry.reference)
+    const pointer = await buildPointer(entry.source, entry.reference, entry.author)
     allQuotes.push({
       _id: nextId++,
       ...entry,
