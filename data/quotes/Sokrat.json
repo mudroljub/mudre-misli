@@ -304,13 +304,33 @@
     },
     {
         "type": "anecdote",
-        "sr": "Kriton je Sokrata izveo iz vajarske radionice i obrazovao ga, zadivljen lepotom njegovog duha. Sokrat je zatim o moralu razgovarao po radionicama i na trgu. Zbog žestine rasprave ljudi su ga ponekad udarali i čupali za kosu, ali je poruge i nasilje podnosio mirno.",
-        "stsl": "Критонъ Сократа отъ каменосѣчьскыѧ дѣлательнице изведе и поѹчи єго · красотѣ дѹха єго дивѧ сѧ · Сократъ потомь о нравѣхъ въ дѣлательницахъ и на тръжишти бесѣдовааше · Жестости ради прѣниꙗ чловѣци иногда биꙗхѫ єго и власы тръзаахѫ · онъ же порѫганіє и насилиє тихо тръпѣаше ·",
+        "sr": "Kriton je Sokrata izveo iz vajarske radionice i obrazovao ga, zadivljen lepotom njegovog duha.",
+        "stsl": "Критонъ Сократа отъ каменосѣчьскыѧ дѣлательнице изведе и поѹчи єго · красотѣ дѹха єго дивѧ сѧ.",
         "author": "Socrates",
         "source": "diogenes-laertius",
-        "year": -470,
-        "originalText": "Κρίτωνα δ' ἀναστῆσαι αὐτὸν ἀπὸ τοῦ ἐργαστηρίου καὶ παιδεῦσαι τῆς κατὰ ψυχὴν χάριτος ἐρασθέντα Δημήτριός φησίν ὁ Βυζάντιος. Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ· Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως.",
-        "reference": "II.20–21"
+        "year": -465,
+        "originalText": "Κρίτωνα δ' ἀναστῆσαι αὐτὸν ἀπὸ τοῦ ἐργαστηρίου καὶ παιδεῦσαι τῆς κατὰ ψυχὴν χάριτος ἐρασθέντα Δημήτριός φησίν ὁ Βυζάντιος.",
+        "reference": "II.20"
+    },
+    {
+        "type": "bio",
+        "sr": "O moralu je razgovarao po radionicama i na trgu.",
+        "stsl": "О нравѣхъ въ дѣлательницахъ и на тръжишти бесѣдовааше.",
+        "author": "Socrates",
+        "source": "diogenes-laertius",
+        "year": -455,
+        "originalText": "Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ.",
+        "reference": "II.21"
+    },
+    {
+        "type": "anecdote",
+        "sr": "Zbog žestine rasprave ljudi su ga ponekad udarali i čupali za kosu, ali je poruge i nasilje podnosio mirno.",
+        "stsl": "Жестости ради прѣниꙗ чловѣци иногда биꙗхѫ єго и власы тръзаахѫ · онъ же порѫганіє и насилиє тихо тръпѣаше.",
+        "author": "Socrates",
+        "source": "diogenes-laertius",
+        "year": -440,
+        "originalText": "Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως.",
+        "reference": "II.21"
     },
     {
         "type": "quote",
@@ -437,16 +457,6 @@
         "source": "diogenes-laertius",
         "originalText": "Τιθέντα γοῦν τὸ βαλλόμενον κέρμα ἀθροίζειν· εἶτ' ἀναλώσαντα πάλιν τιθέναι.",
         "reference": "II.62"
-    },
-    {
-        "type": "anecdote",
-        "sr": "U bici kod Delija Sokrat je spasao Ksenofonta koji je pao s konja, a pri opštem povlačenju mirno je odstupao, osvrćući se i spreman da se brani. Kod Potideje je čitavu noć ostao nepomičan i zaslužio nagradu za hrabrost, ali ju je ustupio Alkibijadu.",
-        "stsl": "Въ брани при Делии Сократъ Ксенофонта · съ конѧ падъшаго · спасе · при обьштемь же отъстѫплении тихо отъхождааше · озираѧ сѧ и готовъ брани сѧ · При Потидеи цѣлꙫ ношть недвижимъ прѣбысть и мъздꙫ храбрости заслѹжи · нъ ѭ Алкивиадѹ ѹстѹпи ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -424,
-        "originalText": "Ἐστρατεύσατο γοῦν εἰς Ἀμφίπολιν· καὶ Ξενοφῶντα ἀφ' ἵππου πεσόντα ἐν τῇ κατὰ Δήλιον μάχῃ διέσωσεν ὑπολαβών. Ὅτε καὶ πάντων φευγόντων Ἀθηναίων αὐτὸς ἠρέμα ἀνεχώρει, παρεπιστρεφόμενος ἡσυχῇ καὶ τηρῶν ἀμύνασθαι εἴ τις οἱ ἐπέλθοι.",
-        "reference": "II.22–23"
     },
     {
         "type": "anecdote",
