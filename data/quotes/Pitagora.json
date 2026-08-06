@@ -873,5 +873,51 @@
     "author": "Pythagoras",
     "source": "diogenes-laertius",
     "reference": "VIII.48"
+  },
+  {
+    "type": "bio",
+    "year": -530,
+    "sr": "Dve grane filozofije nastale: jonska od Anaksimandra, italska od Pitagore koji u Italiji filozofirao.",
+    "stsl": "Двѣ вѣтви любомѫдриꙗ бꙑстѣ · їонскаꙗ отъ Анаксимандра · италскаꙗ отъ Пѷѳагорꙑ иже въ Италїи любомѫдрьствова ·",
+    "originalText": "Φιλοσοφίας δὲ δύο γεγόνασιν ἀρχαί, ἥ τε ἀπὸ Ἀναξιμάνδρου καὶ ἡ ἀπὸ Πυθαγόρου· Πυθαγόρου δὲ Φερεκύδης καθηγήσατο. ἡ δὲ Ἰταλικὴ ἀπὸ Πυθαγόρου, ὅτι τὰ πλεῖστα κατὰ τὴν Ἰταλίαν ἐφιλοσόφησεν.",
+    "author": "Pythagoras",
+    "source": "diogenes-laertius",
+    "reference": "I.13"
+  },
+  {
+    "type": "reported",
+    "sr": "Heraklit reče: mnogoučenost ne uči razum - inače bi naučila Hesioda, Pitagoru, Ksenofana i Hekateja.",
+    "stsl": "Хераклитъ рече · многоѹчение разѹма не ѹчитъ · иначе бꙑ наѹчило Хесїода · Пѷѳагорѫ · Ксенофана и Хекатеа ·",
+    "originalText": "πολυμαθίη νόον οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην, αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον.",
+    "author": ["Pythagoras", "Heraclitus"],
+    "source": "diogenes-laertius",
+    "reference": "IX.1"
+  },
+  {
+    "type": "reported",
+    "sr": "Ksenofan se suprotstavio Talesu i Pitagori u učenju.",
+    "stsl": "Ксенофанъ Фалесѹ и Пѷѳагорѣ въ ѹченїи противи сѧ ·",
+    "originalText": "ἀντιδοξάσαι τε λέγεται Θαλῇ καὶ Πυθαγόρᾳ.",
+    "author": ["Pythagoras", "Xenophanes"],
+    "source": "diogenes-laertius",
+    "reference": "IX.20"
+  },
+  {
+    "type": "reported",
+    "sr": "Po Favorinu Parmenid prvi otkrio da su Večernjača i Danica ista zvezda; drugi to pripisuju Pitagori.",
+    "stsl": "По Фаворинѹ Парменидъ прьвъ откръі · ꙗко вечернѧꙗ и дьница тожде звѣзда єсть · инии же то Пѷѳагорѣ приписѹѭть ·",
+    "originalText": "δοκεῖ πρῶτος πεφωρακέναι τὸν αὐτὸν εἶναι Ἕσπερον καὶ Φωσφόρον, ὥς φησι Φαβωρῖνος ἐν πέμπτῳ Ἀπομνημονευμάτων· οἱ δὲ Πυθαγόραν·",
+    "author": ["Pythagoras", "Parmenides"],
+    "source": "diogenes-laertius",
+    "reference": "IX.23"
+  },
+  {
+    "type": "reported",
+    "sr": "Demokrit sledilac pitagorejaca beše; Pitagoru spominje sa divljenjem u svom delu, mogao ga je slušati da vremena nisu bila protivna.",
+    "stsl": "Демокритъ послѣдователь пѷѳагореѩнъ бѣ · Пѷѳагорѫ съ дивлениємъ въ дѣлѣ своємь споминаєтъ · Могълъ би єго и слꙑшати · аште врѣмена не бꙑстѣ противна ·",
+    "originalText": "δοκεῖ δέ, φησὶν ὁ Θράσυλλος, ζηλωτὴς γεγονέναι τῶν Πυθαγορικῶν· ἀλλὰ καὶ αὐτοῦ Πυθαγόρου μέμνηται, θαυμάζων αὐτὸν ἐν τῷ ὁμωνύμῳ συγγράμματι. πάντα δὲ δοκεῖν παρὰ τούτου λαβεῖν καὶ αὐτοῦ δ' ἂν ἀκηκοέναι εἰ μὴ τὰ τῶν χρόνων ἐμάχετο.",
+    "author": ["Pythagoras", "Democritus"],
+    "source": "diogenes-laertius",
+    "reference": "IX.38"
   }
 ]
