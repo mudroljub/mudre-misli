@@ -91,7 +91,7 @@
 | κενόν             | праздьно *(alt: праздьно мѣсто)*      | praznina                        |
 | κίνησις           | движеніє                              | kretanje                        |
 | κοινός            | общь                                  | opšti                           |
-| κόσμος            | строи, ѹкрасъ (izuzeno миръ)          | stroj, ukras (izuzetno svemir)  |
+| κόσμος            | строи                                 | ustroj                          |
 | κρᾶσις            | смѣшеніє                              | mešanje                         |
 | κρίνω             | лѫчити                                | odlučiti                        |
 | κρίσις            | лѫченіє                               | odlučene, odluka                |
@@ -157,3 +157,5 @@
 | χρόνος            | врѣмѧ                                 | vreme                           |
 | ψεῦδος            | ложь                                  | laž                             |
 | ψυχή              | дѹша                                  | duša                            |
+| παιδεία           | възпитаніє                            | vaspitanje, odgoj               |
+| ζῷον              | животно                               | životinja, živo biće            |

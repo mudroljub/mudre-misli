@@ -1,8 +1,8 @@
-# UPUTSTVO ZA AGENTE: Podela i datiranje entrija
+# UPUTSTVO ZA AGENTE: Podela i datiranje unosa
 
-## Tipovi entrija
+## Tipovi unosa
 
-Postoje četiri tipa entrija:
+Postoje četiri tipa unosa:
 
 ### `bio`
 
@@ -69,7 +69,7 @@ Sledeća pravila važe **isključivo** za `bio` i `anecdote` entrije.
 2. Svaki entry mora imati svoju godinu.
 3. Godina služi prvenstveno za pravilno hronološko sortiranje, ne za istorijsku preciznost.
 4. Logički nerazdvojive celine ostaju u jednom entry-ju.
-5. Nepovezani događaji razdvajaju se u više entrija.
+5. Nepovezani događaji razdvajaju se u više unosa.
 
 ---
 
@@ -176,7 +176,7 @@ Prioritet određivanja godine je:
 
 ## Povezani događaji
 
-Više entrija može imati istu godinu kada predstavljaju različite delove istog događaja.
+Više unosa može imati istu godinu kada predstavljaju različite delove istog događaja.
 
 ```json
 {
