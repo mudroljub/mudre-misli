@@ -1,4 +1,4 @@
-# Staroslovenski filozofski rečnik (jezik iz VIII veka)
+# Izvorni slovenski filozofski rečnik
 
 | Grčki             | Staroslovenski                        | Srpski                          |
 | ----------------- | ------------------------------------- | ------------------------------- |
@@ -17,7 +17,7 @@
 | ἄπειρον           | безмѣрьноє *(alt: безконьчноє)*       | bezgranično                     |
 | ἄπειρος           | безмѣрьнъ *(alt: безконьчьнъ)*        | bezgraničan                     |
 | ἀρετή             | добродѣтель                           | vrlina                          |
-| ἁρμονία           | складъ *(alt: съвръзаніє, съгласиє)*  | sklad                           |
+| ἁρμονία           | складъ                                | sklad                           |
 | ἀρχή              | начѧло                                | počelo, načelo                  |
 | ἄτομος            | недѣлимъ                              | nedeljiv                        |
 | βίος              | житіє                                 | život, življenje                |
@@ -31,6 +31,11 @@
 | γνῶσις            | знаніє                                | znanje                          |
 | γνωστός           | знанъ                                 | znan, spoznatljiv               |
 | δαίμων            | дѹхъ *(alt: демонъ)*                  | daimon, duh                     |
+| διακρίνω          | разлѫчити                             | razlučiti                       |
+| διάκρισις         | разлѫченіє                            | razlučenje                      |
+| διαλέγομαι        | разговаривати                         | razgovarati                     |
+| διαλεκτική        | разговорьство                         | razgovorstvo                    |
+| διάλογος          | разговоръ                             | razgovor                        |
 | διάνοια           | разѹмѣніє                             | razumevanje                     |
 | δικαιοσύνη        | правда                                | pravednost                      |
 | δόξα              | мьнѣніє                               | mišljenje                       |
@@ -70,9 +75,11 @@
 | κίνησις           | движеніє                              | kretanje                        |
 | κόσμος            | миръ *(alt: ѹкрашеніє)*               | kosmos, svet                    |
 | κρᾶσις            | смѣшеніє                              | mešavina                        |
-| λογικός           | словесьнъ                             | razuman, logičan                |
-| λογισμός          | словьствіє *(alt: разѹмъ, словьство)* | rasuđivanje                     |
-| λόγος             | слово *(alt: словесіє)*               | slovo, slovesnost               |
+| κρίνω             | лѫчити                                | odlučiti                        |
+| κρίσις            | лѫченіє                               | odlučene, odluka                |
+| λογικός           | словесьнъ                             | slovesan                        |
+| λογισμός          | словеніє                              | slovenje                        |
+| λόγος             | слово                                 | slovo, sloves                   |
 | λόγος σπερματικός | словесьно сѣмѧ *(alt: сѣмьноє слово)* | slovesno seme                   |
 | λύπη              | печаль                                | tuga                            |
 | μεταβολή          | прѣмѣненіє                            | promena                         |
@@ -90,7 +97,9 @@
 | πάντα             | всѧ                                   | sve                             |
 | πέρας             | прѣдѣлъ                               | granica                         |
 | πλῆθος            | множьство                             | mnoštvo                         |
-| πνεῦμα            | дѹхъ *(alt: дыхъ, дыханіє)*           | duh                             |
+| πνεῦμα            | дѹхъ *(alt: дъхъ)*                    | duh (alt: dah)                  |
+| πνέω              | дъхати                                | duvati, disati                  |
+| πνοή              | дъханіє                               | dah, disanje                    |
 | πόλις             | градъ                                 | grad, polis                     |
 | πολίτης           | градьнинъ                             | građanin                        |
 | πολλοί            | мнози                                 | mnogi                           |
@@ -102,7 +111,10 @@
 | στοιχεῖον         | съставъ                               | element                         |
 | τάξις             | чинъ *(alt: рѧдъ, строи)*             | poredak                         |
 | τέλος             | коньць *(alt: цѣль)*                  | kraj, cilj                      |
+| τέχνη             | вѣштина                               | veština                         |
 | τέχνη             | хѹдожьство                            | veština, umeće                  |
+| τεχνικός          | вѣштнъ                                | vešt                            |
+| τεχνίτης          | вѣштникъ, вѣштница                    | veštak, veštica                 |
 | τὸ εἶναι          | бытиє                                 | bitije, bivstvovanje            |
 | τόπος             | мѣсто                                 | mesto                           |
 | τύχη              | приклѹчаи *(alt: съчастьє)*           | sreća, slučaj                   |
@@ -110,8 +122,8 @@
 | ὕλη               | тварь *(alt: вещь)*                   | tvar *(alt: stvar)*             |
 | φθορά             | тлѣніє                                | propadanje                      |
 | φιλία             | дрѹжьба                               | prijateljstvo                   |
-| φιλοσοφία         | любомѫдриє                            | filozofija                      |
-| φιλόσοφος         | любомѫдрьць                           | filozof                         |
+| φιλοσοφία         | любомѫдриє                            | filozofija, mudroljublje        |
+| φιλόσοφος         | любомѫдрьць                           | filozof, mudroljub              |
 | φιλότης           | любовь                                | ljubav (Empedoklov termin)      |
 | φόβος             | страхъ                                | strah                           |
 | φρένες            | разборъ                               | razum, razbor                   |
