@@ -654,13 +654,23 @@
     "reference": "VI.104"
   },
   {
-    "type": "anecdote",
-    "sr": "Antisten nije bio čistog atičkog porekla; majka mu je, prema predanju, bila Tračanka. Kada se istakao u bici kod Tanagre, Sokrat je primetio da ne bi bio tako hrabar da su mu oba roditelja Atinjani. Antisten je ruganje poreklu odbijao podsećanjem da je i majka bogova Frigijka.",
-    "stsl": "Антисѳенъ чистаго Атиньскаго рода не бѣ · мати єго · по прѣданию · Ѳракииска бѣ · Єгда въ брани при Танагрѣ прослави сѧ · Сократъ примѣти · ꙗко не былъ бы толико храбръ · аште бы оба родителѧ єго Атинѧнина бѣста · Антисѳенъ рѹганіє родѹ отъмѣтааше · поминаѧ · ꙗко и мати боговъ Фрѵгииска єсть ·",
-    "originalText": "Ἐλέγετο δ' οὐκ εἶναι ἰθαγενής· ὅθεν καὶ πρὸς τὸν ὀνειδίζοντα εἰπεῖν, « Καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν. » Ἐδόκει γὰρ εἶναι Θρᾴττης μητρός· ὅθεν καὶ ἐν Τανάγρᾳ κατὰ τὴν μάχην εὐδοκιμήσας ἔδωκε λέγειν Σωκράτει ὡς οὐκ ἂν ἐκ δυοῖν Ἀθηναίων οὕτω γεγόνοι γενναῖος.",
+    "type": "bio",
+    "sr": "Antisten nije bio čistog atičkog porekla; majka mu je, prema predanju, bila Tračanka. Ruganje poreklu odbijao je podsećanjem da je i majka bogova Frigijka.",
+    "stsl": "Антисѳенъ чистаго Атиньскаго рода не бѣ · мати єго · по прѣданию · Ѳракииска бѣ · Рѹганіє родѹ отъмѣтааше · поминаѧ · ꙗко и мати боговъ Фрѵгииска єсть ·",
+    "originalText": "Ἐλέγετο δ' οὐκ εἶναι ἰθαγενής· ὅθεν καὶ πρὸς τὸν ὀνειδίζοντα εἰπεῖν, « Καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν. » Ἐδόκει γὰρ εἶναι Θρᾴττης μητρός.",
     "author": "Antisthenes",
     "source": "diogenes-laertius",
     "year": -446,
+    "reference": "VI.1"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada se istakao u bici kod Tanagre, Sokrat je primetio da ne bi bio tako hrabar da su mu oba roditelja Atinjani.",
+    "stsl": "Єгда въ брани при Танагрѣ прослави сѧ · Сократъ примѣти · ꙗко не былъ бы толико храбръ · аште бы оба родителѧ єго Атинѧнина бѣста ·",
+    "originalText": "ὅθεν καὶ ἐν Τανάγρᾳ κατὰ τὴν μάχην εὐδοκιμήσας ἔδωκε λέγειν Σωκράτει ὡς οὐκ ἂν ἐκ δυοῖν Ἀθηναίων οὕτω γεγόνοι γενναῖος.",
+    "author": "Antisthenes",
+    "source": "diogenes-laertius",
+    "year": -426,
     "reference": "VI.1"
   },
   {
@@ -695,12 +705,32 @@
   },
   {
     "type": "anecdote",
-    "sr": "Antisten se često rugao Platonovoj oholosti. Pokazao mu je razmetljivog konja kao njegovu sliku, a kada je bolesnom Platonu video posudu sa izbljuvkom, rekao je da vidi žuč, ali ne i oholost. Posle rasprave o nemogućnosti protivrečenja napisao je protiv Platona dijalog Saton i njih dvojica su ostala zavađena.",
-    "stsl": "Антисѳенъ чѧсто Платоновои гордости рѹгаше сѧ · Величаваго конѧ ємѹ ꙗко образъ єго показа · єгда же при болѧштемь Платонѣ съсѫдъ съ избльванымъ видѣ · рече · ꙗко жлъчь видить · гордости же не видить · По прѣнии о невъзможьности противорѣчениꙗ противѹ Платона бесѣдꙫ Сатонъ написа · и оба въ враждѣ прѣбыста ·",
-    "originalText": "Ἔσκωπτέ τε Πλάτωνα ὡς τετυφωμένον. Πομπῆς γοῦν γενομένης ἵππον θεασάμενος φρυακτήν φησι πρὸς τὸν Πλάτωνα, « Ἐδόκεις μοι καὶ σὺ ἵππος ἂν εἶναι λαμπρυντής. » Καί ποτ' ἐλθὼν πρὸς αὐτὸν νοσοῦντα καὶ θεασάμενος λεκάνην ἔνθα ὁ Πλάτων ἐμημέκει ἔφη, « Χολὴν μὲν ὁρῶ ἐνταῦθα, τῦφον δὲ οὐχ ὁρῶ. »",
+    "sr": "Antisten se često rugao Platonovoj oholosti. Pokazao mu je razmetljivog konja kao njegovu sliku.",
+    "stsl": "Антисѳенъ чѧсто Платоновои гордости рѹгаше сѧ · Величаваго конѧ ємѹ ꙗко образъ єго показа ·",
+    "originalText": "Ἔσκωπτέ τε Πλάτωνα ὡς τετυφωμένον. Πομπῆς γοῦν γενομένης ἵππον θεασάμενος φρυακτήν φησι πρὸς τὸν Πλάτωνα, « Ἐδόκεις μοι καὶ σὺ ἵππος ἂν εἶναι λαμπρυντής. »",
     "author": "Antisthenes",
     "source": "diogenes-laertius",
     "year": -392,
+    "reference": "III.35"
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada je bolesnom Platonu video posudu sa izbljuvkom, rekao je da vidi žuč, ali ne i oholost.",
+    "stsl": "Єгда же при болѧштемь Платонѣ съсѫдъ съ избльванымъ видѣ · рече · ꙗко жлъчь видить · гордости же не видить ·",
+    "originalText": "Καί ποτ' ἐλθὼν πρὸς αὐτὸν νοσοῦντα καὶ θεασάμενος λεκάνην ἔνθα ὁ Πλάτων ἐμημέκει ἔφη, « Χολὴν μὲν ὁρῶ ἐνταῦθα, τῦφον δὲ οὐχ ὁρῶ. »",
+    "author": "Antisthenes",
+    "source": "diogenes-laertius",
+    "year": -390,
+    "reference": "III.35"
+  },
+  {
+    "type": "bio",
+    "sr": "Posle rasprave o nemogućnosti protivrečenja napisao je protiv Platona dijalog Saton i njih dvojica su ostala zavađena.",
+    "stsl": "По прѣнии о невъзможьности противорѣчениꙗ противѹ Платона бесѣдꙫ Сатонъ написа · и оба въ враждѣ прѣбыста ·",
+    "originalText": "Διαφερομένου δ' αὐτοῦ πρὸς τὸν Πλάτωνα περὶ τῶν ἀντιλεγομένων, συνέγραψε διάλογον Σάθωνα.",
+    "author": "Antisthenes",
+    "source": "diogenes-laertius",
+    "year": -388,
     "reference": "III.35"
   },
   {

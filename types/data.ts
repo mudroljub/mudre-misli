@@ -48,7 +48,7 @@ interface BaseEntry {
  * Biographical entry or anecdote.
  * Anecdotes are dated stories about the philosopher.
  */
-interface LifeEvent extends BaseEntry {
+export interface LifeEvent extends BaseEntry {
   type: 'bio' | 'anecdote';
   /** Year of the event (negative = BCE, positive = CE) - required */
   year: number;
@@ -57,7 +57,7 @@ interface LifeEvent extends BaseEntry {
 /**
  * Quote or reported statement.
  */
-interface Saying extends BaseEntry {
+export interface Saying extends BaseEntry {
   type: 'quote' | 'reported';
 }
 

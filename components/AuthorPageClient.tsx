@@ -5,7 +5,7 @@ import Sidebar from "./Sidebar";
 import LanguageSwitcher from "./LanguageSwitcher";
 import { getAuthorName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
-import type { AuthorData, Language, Entry } from "../types/data";
+import type { AuthorData, Language, Entry, LifeEvent, Saying } from "../types/data";
 import QuoteCard from "./QuoteCard";
 import BookLayout from "./BookLayout";
 import styles from "./AuthorPageClient.module.scss";
@@ -26,11 +26,12 @@ export default function AuthorPageClient({
   const authorName = getAuthorName(author, language);
 
   const quotesSection = authorEntries.filter(
-    (entry) => entry.type === "quote" || entry.type === "reported",
+    (entry): entry is Saying =>
+      entry.type === "quote" || entry.type === "reported",
   );
 
   const lifeEventsSection = authorEntries
-    .filter((entry): entry is Extract<Entry, { type: "anecdote" | "bio" }> =>
+    .filter((entry): entry is LifeEvent =>
       entry.type === "anecdote" || entry.type === "bio"
     )
     .sort((a, b) => a.year - b.year);
