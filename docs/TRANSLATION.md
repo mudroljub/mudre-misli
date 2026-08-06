@@ -41,6 +41,8 @@ Izbegavati:
 * Ѥ (koristiti Є ili Е);
 * kasnije ukrajinske i moskovske grafijske osobine.
 
+Staroslovenski je bez znakova interpunkcije, osim srednje tačke · koja menja sve ostale znake (.,;:) 
+
 ## Transkripcija imena
 
 Grčka vlastita imena prenositi prema grčkom izvorniku, a ne prema kasnijim tradicionalnim slovenskim oblicima.
@@ -54,6 +56,8 @@ Primeri:
 * Ἀριστοτέλης → Арістотєль
 
 ## Prevođenje grčkih filozofskih termina
+
+Osnovni prevodilački princip je: jedna grčka porodica → jedna slovenska porodica → jedan srpski koren. 
 
 Koristiti [RECNIK.md](RECNIK.md).
 
