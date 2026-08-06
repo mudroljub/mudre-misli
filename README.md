@@ -31,3 +31,4 @@ npm start
 - dodati filozofski rečnik kao zasebnu stranicu
 - prekopirati slike lokalno
 - dodati preslovljavanje (vidi svete misli)
+- čistka (posebno Platon)
