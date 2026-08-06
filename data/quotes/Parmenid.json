@@ -2,9 +2,9 @@
   {
     "type": "bio",
     "year": -515,
-    "sr": "Rođen u Eleji.",
-    "stsl": "Парменидъ Пѷритовъ Елеатꙗнинъ бѣ.",
-    "originalText": "Παρμενίδης Πύρητος Ἐλεάτης.",
+    "sr": "Rođen u Eleji, sin Pireta; bio je uglednog roda i velikog bogatstva.",
+    "stsl": "Родисѧ въ Елеи · сынъ Пѷрита · отъ славьна рода и велика богатъства бѣ.",
+    "originalText": "Παρμενίδης Πύρητος Ἐλεάτης· γενόμενος δὲ γένους λαμπροῦ καὶ πλούτου.",
     "author": "Parmenides",
     "source": "diogenes-laertius",
     "reference": "IX.21"
@@ -42,9 +42,9 @@
   {
     "type": "bio",
     "year": -490,
-    "sr": "Prvi u poeziji upotrebio Ksenofanov mereni stih; napisao filozofsku poemu O prirodi.",
-    "stsl": "Пьрвыи въ поезїи Ксенофановъ мѣрении стихъ ѹпотреби · философскꙋ поемꙋ О єстествѣ написа.",
-    "originalText": "Πρῶτος δὲ τὸ Ξενοφάνους μέτρον εἰς ποίησιν μετήνεγκεν· ἐποίησε δὲ ποίημα, Περὶ φύσεως.",
+    "sr": "Pisao je stihovima, kao Hesiod, Ksenofan i Empedoklo; prvi u poeziji upotrebio Ksenofanov mereni stih i napisao filozofsku poemu O prirodi.",
+    "stsl": "Стихи писааше · ꙗкоже Хесїодъ · Ксенофанъ и Емпедоклъ · Пьрвыи въ поезїи Ксенофановъ мѣрении стихъ ѹпотреби · философскꙋ поемꙋ О єстествѣ написа.",
+    "originalText": "ἐποίησε δὲ ποίημα, Περὶ φύσεως, καθάπερ Ἡσίοδος καὶ Ξενοφάνης καὶ Ἐμπεδοκλῆς. Πρῶτος δὲ τὸ Ξενοφάνους μέτρον εἰς ποίησιν μετήνεγκεν.",
     "author": "Parmenides",
     "source": "diogenes-laertius",
     "reference": "IX.22"
@@ -79,9 +79,9 @@
   },
   {
     "type": "quote",
-    "sr": "Nastanak ljudi potekao je najpre od sunca; toplota i hladnoća su ono od čega je sve sastavljeno.",
-    "stsl": "Бытие чловѣкъ пьрво отъ слъньца бысть · теплота же и стѹдень сѫть · отъ нихъже вьсѧ съставлєна сѫть ·",
-    "originalText": "γένεσίν τ' ἀνθρώπων ἐξ ἡλίου πρῶτον γενέσθαι· αὐτὸν δὲ ὑπάρχειν τὸ θερμὸν καὶ τὸ ψυχρόν, ἐξ ὧν τὰ πάντα συνεστάναι.",
+    "sr": "Nastanak ljudi potekao je najpre od sunca; toplota i hladnoća su ono od čega je sve sastavljeno, i te sile prevazilaze samo sunce.",
+    "stsl": "Бытие чловѣкъ пьрво отъ слъньца бысть · теплота же и стѹдень сѫть · отъ нихъже вьсѧ съставлєна сѫть · и сиє силє прѣвъзходѧть само слъньце ·",
+    "originalText": "γένεσίν τ' ἀνθρώπων ἐξ ἡλίου πρῶτον γενέσθαι· αὐτὸν δὲ ὑπάρχειν τὸ θερμὸν καὶ τὸ ψυχρόν, ἐξ ὧν τὰ πάντα συνεστάναι, καὶ ταῦτα ὑπερέχειν αὐτοῦ τοῦ ἡλίου.",
     "author": "Parmenides",
     "source": "diogenes-laertius",
     "reference": "IX.22"
@@ -195,6 +195,24 @@
     "sr": "Prema jednom predanju, Parmenid je govorio da su Večernjača i Zornjača ista zvezda.",
     "stsl": "По єдиномѹ прѣданию · Парменидъ глаголаше · ꙗко вечернѧꙗ и ѹтрьнѧꙗ звѣзда єдина єсть ·",
     "originalText": "τὸν αὐτὸν εἶναι Ἕσπερον καὶ Φωσφόρον.",
+    "author": "Parmenides",
+    "source": "diogenes-laertius",
+    "reference": "IX.23"
+  },
+  {
+    "type": "reported",
+    "sr": "Platon je o njemu napisao dijalog 'Parmenid ili O idejama'.",
+    "stsl": "Платонъ о немь бесѣдѹ написа · Парменидъ или О идеахъ ·",
+    "originalText": "Περὶ τούτου καὶ Πλάτων διάλογον ἔγραψε, τὸν ἐπιγραφόμενον Παρμενίδην ἢ Περὶ ἰδεῶν.",
+    "author": "Parmenides",
+    "source": "diogenes-laertius",
+    "reference": "IX.23"
+  },
+  {
+    "type": "quote",
+    "sr": "Timon ga hvali ovako: Velikodušni Parmenid, ne različitih mišljenja, koji umesto varke mašte unese misao.",
+    "stsl": "Тимонъ єго хвалить сице · Великодѹшныи Парменидъ · не различныхъ мьнѣнїи · иже вмѣсто прѣлѣсти мечтꙑ мысль ѹнесе ·",
+    "originalText": "Τίμων δὲ οὕτως αὐτὸν ἐπαινεῖ· τοῦ θ' ὑψηγόρου ἠδ' οὐ πολυπλάγκτου Παρμενίδεω, ὃς ἀντὶ φαντασμοσύνης ἐνόησε νόημα.",
     "author": "Parmenides",
     "source": "diogenes-laertius",
     "reference": "IX.23"

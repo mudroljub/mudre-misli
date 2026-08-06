@@ -42,9 +42,19 @@
   {
     "type": "bio",
     "year": -460,
-    "sr": "Napisao tragedije i spis o medicini; Gorgija bio njegov učenik.",
-    "stsl": "Трагедїи и списъ о врачеванїи написа · Горгїа ѹченикъ єго бѣ.",
-    "originalText": "Ἀριστοτέλης μὲν γὰρ τραγῳδίας αὐτοῦ γενέσθαι τριάκοντά φησι· καὶ ἰατρικὸν σύγγραμμα· Γοργίαν δὲ τὸν ῥήτορα ἀκοῦσαί φασιν αὐτοῦ.",
+    "sr": "Napisao tragedije (po Aristotelu trideset), spis o medicini i himnu Apolonu.",
+    "stsl": "Трагедїи написа · по Аристотелю тридесѧть · списъ о врачеванїи и хвалꙋ Аполлонѹ.",
+    "originalText": "Ἀριστοτέλης μὲν γὰρ τραγῳδίας αὐτοῦ γενέσθαι τριάκοντά φησι· καὶ ἰατρικὸν σύγγραμμα.",
+    "author": "Empedocles",
+    "source": "diogenes-laertius",
+    "reference": "VIII.58"
+  },
+  {
+    "type": "bio",
+    "year": -460,
+    "sr": "Gorgija iz Leontina bio njegov učenik.",
+    "stsl": "Горгїа Леонтиискыи ѹченикъ єго бѣ.",
+    "originalText": "Γοργίαν δὲ τὸν ῥήτορα τὸν Λεοντῖνον ἀκοῦσαί φασιν αὐτοῦ.",
     "author": "Empedocles",
     "source": "diogenes-laertius",
     "reference": "VIII.58"

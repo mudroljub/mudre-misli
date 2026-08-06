@@ -2,8 +2,8 @@
   {
     "type": "bio",
     "year": -480,
-    "sr": "Rođen u Eleji.",
-    "stsl": "Леѷкиппъ Елеатꙗнинъ бѣ.",
+    "sr": "Leukip; po jednim izvorima iz Eleje, po drugima iz Abdere, a po nekima iz Mileta.",
+    "stsl": "Леѷкиппъ · по єдинѣмъ источникомъ отъ Єлеꙗ · по дрѹгымъ отъ Абдерꙑ · по нѣкїимъ же отъ Милета ·",
     "originalText": "Λεύκιππος Ἐλεάτης, ὡς δέ τινες, Ἀβδηρίτης, κατ' ἐνίους δὲ Μιλήσιος.",
     "author": "Leucippus",
     "source": "diogenes-laertius",
@@ -67,8 +67,10 @@
   },
   {
     "type": "quote",
-    "sr": "Zemlja je nalik bubnju i stabilno lebdi, vrteći se oko središta. Sunčeva putanja je najudaljenija, Mesečeva najbliža Zemlji, a putanje ostalih nebeskih tela leže između. Zvezde se pale od brzine kretanja; Sunce raspaljuju i zvezde, dok Mesec prima malo ognja.",
-    "stsl": "Землѧ ꙗко бѫбьнъ єсть и твръдо носить сѧ · окрьсть срѣды врътѧшти сѧ · Слъньчьныи пѫть наидальнѣиши · лѹньныи же къ Земли наиближьши єсть · пѫти прочиихъ небесьныхъ тѣлесъ посредѣ лежѧть · Звѣзды быстротою движениꙗ възгараѭть сѧ · слъньце и звѣзды распалѧѭть · мѣсѧць же мало огнѧ приємлеть ·",
+    "sr": "Zemlja je nalik bubnju i stabilno lebdi, vrteći se oko središta. Sunčeva putanja je najudaljenija, Mesečeva najbliža Zemlji, a putanje ostalih nebeskih tela leže između. Zvezde se pale od brzine kretanja; Sunce raspaljuju i zvezde, a Mesec prima samo malo ognja jer je tek delimično zapaljiv.",
+    "stsl": "Землѧ ꙗко бѫбьнъ єсть и твръдо носить сѧ · окрьсть срѣды врътѧшти сѧ · Слъньчьныи пѫть наидальнѣиши · лѹньныи же къ Земли наиближьши єсть · пѫти прочиихъ небесьныхъ тѣлесъ посредѣ лежѧть · Звѣзды быстротою движениꙗ възгараѭть сѧ · слъньце и звѣзды распалѧѭть · мѣсѧць же мало огнѧ приємлеть · токмо къ части заж
+
+игателєнъ бывъ ·",
     "originalText": "τὴν γῆν ὀχεῖσθαι περὶ τὸ μέσον δινουμένην· σχῆμά τ' αὐτῆς τυμπανῶδες εἶναι. Εἶναι δὲ τὸν τοῦ ἡλίου κύκλον ἐξώτατον, τὸν δὲ τῆς σελήνης προσγειότατον, τῶν ἄλλων μεταξὺ τούτων ὄντων. καὶ πάντα μὲν τὰ ἄστρα πυροῦσθαι διὰ τὸ τάχος τῆς φορᾶς, τὸν δ' ἥλιον καὶ ὑπὸ τῶν ἀστέρων ἐκπυροῦσθαι· τὴν δὲ σελήνην τοῦ πυρὸς ὀλίγον μεταλαμβάνειν.",
     "author": "Leucippus",
     "source": "diogenes-laertius",
@@ -85,9 +87,9 @@
   },
   {
     "type": "quote",
-    "sr": "Kao što stroj nastaje, tako raste, opada i propada po izvesnoj nužnosti.",
-    "stsl": "Ꙗкоже строи бываєть · тако растеть · ѹбываєть и тлѣєть по нѣкоєи нѫжди ·",
-    "originalText": "εἶναί τε ὥσπερ γενέσεις κόσμου, οὕτω καὶ αὐξήσεις καὶ φθίσεις καὶ φθοράς, κατά τινα ἀνάγκην.",
+    "sr": "Kao što stroj nastaje, tako raste, opada i propada po izvesnoj nužnosti; prirodu te nužnosti nije naveo.",
+    "stsl": "Ꙗкоже строи бываєть · тако растеть · ѹбываєть и тлѣєть по нѣкоєи нѫжди · єстества жє тоꙗ нѫжды не изрече ·",
+    "originalText": "εἶναί τε ὥσπερ γενέσεις κόσμου, οὕτω καὶ αὐξήσεις καὶ φθίσεις καὶ φθοράς, κατά τινα ἀνάγκην· ἥντινα δὲ οὐ διασαφεῖ.",
     "author": "Leucippus",
     "source": "diogenes-laertius",
     "reference": "IX.33"

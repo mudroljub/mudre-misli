@@ -1,72 +1,67 @@
 /**
- * Valid entry types:
- * - quote: direktan citat filozofa
- * - reported: prepričana izreka ili učenje
- * - anecdote: kratka zgoda sa poentom, često duhovita ili karakteristična
- * - bio: običan biografski podatak
+ * Supported entry types.
  */
-export const entryTypes = ['quote', 'reported', 'anecdote', 'bio'] as const;
-export type EntryType = (typeof entryTypes)[number];
+export const entryTypes = ["quote", "reported", "anecdote", "bio"] as const;
 
 /**
- * Supported UI languages:
- * - stsl: staroslovenski
- * - sr: savremeni srpski
+ * Supported UI languages.
  */
-export const supportedLanguages = ['stsl', 'sr'] as const;
+export const supportedLanguages = ["stsl", "sr"] as const;
 export type Language = (typeof supportedLanguages)[number];
 
 /**
- * Common fields shared by all entry types.
+ * Common fields shared by all entries.
  */
 interface BaseEntry {
-    _id: number;
+  /** Unique entry identifier */
+  _id: number;
 
-  /** Modern Serbian translation (required) */
+  /** Modern Serbian translation */
   sr: string;
 
-  /** Old Slavic/Slavonic translation (required) */
+  /** Old Church Slavonic translation */
   stsl: string;
 
-  /** Original text in Greek or Latin (required) */
+  /** Original Greek or Latin text */
   originalText: string;
 
   /** Philosopher to whom the entry belongs */
   author: string;
 
-  /** Source key identifier (e.g., "diogenes-laertius", "aristotle-metaphysics") */
+  /** Source key (e.g. "diogenes-laertius") */
   source: string;
 
-  /** Reference within the source (e.g., "II.21", "VI.40", "Book I, Chapter 3") */
+  /** Reference within the source (e.g. "II.21") */
   reference: string;
 
-  /** Machine-readable pointer to exact source line, e.g. data/sources/.../03.txt:67 */
+  /** Machine-readable pointer to the exact source location */
   pointer?: string;
 }
 
 /**
- * Biographical entry or anecdote.
- * Anecdotes are dated stories about the philosopher.
+ * Biographical event or dated anecdote.
  */
 export interface LifeEvent extends BaseEntry {
-  type: 'bio' | 'anecdote';
-  /** Year of the event (negative = BCE, positive = CE) - required */
+  type: "bio" | "anecdote";
+
+  /** Year of the event (negative = BCE, positive = CE) */
   year: number;
 }
 
 /**
- * Quote or reported statement.
+ * Direct quotation or reported teaching.
  */
 export interface Saying extends BaseEntry {
-  type: 'quote' | 'reported';
+  type: "quote" | "reported";
 }
 
+/**
+ * Any entry in the database.
+ */
 export type Entry = LifeEvent | Saying;
 
 /**
- * Data about a philosopher/author.
- *
- * Years use negative numbers for BCE, positive for CE.
+ * Data about a philosopher.
  */
 export interface AuthorData {
   /** Year of birth (negative = BCE, positive = CE) */
@@ -75,22 +70,22 @@ export interface AuthorData {
   /** Year of death (negative = BCE, positive = CE) */
   died: number;
 
-  /** URL to portrait image (possible from Wikimedia Commons) */
+  /** Portrait URL */
   src?: string;
 
-  /** Place of birth (ancient city name in original Greek/Latin) */
+  /** Ancient birthplace */
   birthplace?: string;
 
-  /** Name in ancient Greek */
+  /** Name in the original language */
   originalText: string;
 }
 
 export type AuthorsData = Record<string, AuthorData>;
 export type EntriesByLanguage = Record<Language, Entry[]>;
 
-export type SourceData = {
+export interface SourceData {
   language: string;
   originalTitle: string;
   stsl: string;
   sr: string;
-};
+}

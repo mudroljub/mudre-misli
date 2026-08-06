@@ -2,12 +2,62 @@
   {
     "type": "bio",
     "year": -483,
-    "sr": "Gorgija, filozof iz Leontina, bio je slavan u Atini. Bio je veoma mudar i učitelj Izokrata.",
-    "stsl": "Горгїꙗ · любомѫдрьць отъ Леонтіна · бѣ слаѡнъ въ Атїньсцѣмь градѣ. Бѣ прємѫдръ ꙁѣло і ѹчітель Їсократа.",
+    "sr": "Rođen u Leontinu; bio učenik Empedokla iz Akraganta i izvanredan govornik koji je živeo sto devet godina.",
+    "stsl": "Родисѧ въ Леонтинѣ · ѹченикъ Емпедокла отъ Акраганта бѣ · пръсвѣтьлъ витїꙗ · живѣ сто и девѧть лѣтъ.",
+    "originalText": "Γοργίαν δὲ τὸν ῥήτορα τὸν Λεοντῖνον ἀκοῦσαί φασιν αὐτοῦ, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ βιώσαντα ἔτη ἑκατὸν ἐννέα.",
+    "author": "Gorgias",
+    "source": "diogenes-laertius",
+    "reference": "VIII.58"
+  },
+  {
+    "type": "bio",
+    "year": -483,
+    "sr": "Bio je slavan u Atini i učitelj Izokrata.",
+    "stsl": "Слаѡнъ въ Атинахъ бѣ · ѹчітель Їсократа бѣ.",
     "originalText": "Gorgias, philosophus, leontinus, Athenis claruit. Hic sapientissimus fuit et magister Isocratis.",
     "author": "Gorgias",
     "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXVI",
     "reference": "XXVI"
+  },
+  {
+    "type": "bio",
+    "year": -460,
+    "sr": "Bio je lekar i izvanredan retor; napisao Umetnost govorništva.",
+    "stsl": "Врачь и пръсвѣтьлъ риторъ бѣ · Искꙋство риторства написа.",
+    "originalText": "ἰατρὸς ἦν καὶ ῥήτωρ ἄριστος. Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ Τέχνην ἀπολελοιπότα.",
+    "author": "Gorgias",
+    "source": "diogenes-laertius",
+    "reference": "VIII.59"
+  },
+  {
+    "type": "bio",
+    "year": -445,
+    "sr": "Antisthenes Atenski, osnivač kiničke škole, isprva je slušao Gorgiju i od njega preuzeo retorički stil.",
+    "stsl": "Антиѳенъ Атѣньскыи · основатель киньскыѩ школы · пьрво слꙋшааше Горгїю и отъ него риторьскыи образъ приѩтъ.",
+    "originalText": "Οὗτος κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος· ὅθεν τὸ ῥητορικὸν εἶδος ἐν τοῖς διαλόγοις ἐπιφέρει.",
+    "author": "Gorgias",
+    "source": "diogenes-laertius",
+    "reference": "VI.1"
+  },
+  {
+    "type": "bio",
+    "year": -440,
+    "sr": "Eshines Sokratovac bio njegov blizak imitator u retoričkom stilu.",
+    "stsl": "Есхинъ Сократикъ близъкъ подражатель риторьскаго єго стилꙗ бѣ.",
+    "originalText": "Μιμητής ἐστι τοῦ Γοργίου τοῦ Λεοντίνου.",
+    "author": "Gorgias",
+    "source": "diogenes-laertius",
+    "reference": "II.63"
+  },
+  {
+    "type": "bio",
+    "year": -435,
+    "sr": "Prokseno Beotijski, prijatelj Kira Mlađeg, bio njegov učenik.",
+    "stsl": "Проксенъ Беотїискыи · дрꙋгъ Кира Младшаго · ѹченикъ єго бѣ.",
+    "originalText": "Πρόξενος Βοιώτιος, Γοργίου μαθητὴς τοῦ Λεοντίνου.",
+    "author": "Gorgias",
+    "source": "diogenes-laertius",
+    "reference": "II.50"
   },
   {
     "type": "anecdote",
@@ -18,5 +68,15 @@
     "author": "Gorgias",
     "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXVI (ex Valerio Maximo III, III, Ext. 2)",
     "reference": "XXVI"
+  },
+  {
+    "type": "anecdote",
+    "year": -455,
+    "sr": "Satyros u Životopisima kaže da je Gorgija prisustvovao magijskim radnjama Empedoklovim.",
+    "stsl": "Сатѵръ въ Жїтїахъ глаголєть · ꙗко Горгїа волшебьствомъ Емпєдокловꙋ прїсѫтьствова.",
+    "originalText": "τοῦτόν φησιν ὁ Σάτυρος λέγειν ὡς αὐτὸς παρείη τῷ Ἐμπεδοκλεῖ γοητεύοντι.",
+    "author": "Gorgias",
+    "source": "diogenes-laertius",
+    "reference": "VIII.59"
   }
 ]

@@ -1,64 +1,9 @@
 {
-  "generatedAt": "2026-08-04T18:39:22.635Z",
+  "generatedAt": "2026-08-06T00:00:00.000Z",
   "sourceRoot": "data/sources/diogenes-laertius",
   "format": "clean-text",
-  "fileCount": 22,
+  "fileCount": 11,
   "files": [
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_1.txt",
-      "chars": 102904
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_10.txt",
-      "chars": 135566
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_2.txt",
-      "chars": 118438
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_3.txt",
-      "chars": 83060
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_4.txt",
-      "chars": 55022
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_5.txt",
-      "chars": 78837
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_6.txt",
-      "chars": 86791
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_7.txt",
-      "chars": 170608
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_8.txt",
-      "chars": 73485
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/book_9.txt",
-      "chars": 101246
-    },
-    {
-      "lang": "en",
-      "file": "data/sources/diogenes-laertius/en/index.txt",
-      "chars": 759
-    },
     {
       "lang": "el",
       "file": "data/sources/diogenes-laertius/el/01.txt",

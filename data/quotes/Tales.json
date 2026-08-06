@@ -22,12 +22,22 @@
   {
     "type": "bio",
     "year": -610,
-    "sr": "Nije imao učitelja; putovao u Egipat gde je boravio sa sveštenicima.",
-    "stsl": "Оучителꙗ не имѣаше · въ Єгѵпетъ пѫтова · идѣже съ жерцы прѣбы.",
+    "sr": "Nije imao učitelja; putovao u Egipat gde je boravio sa sveštenicima i učio geometriju.",
+    "stsl": "Оучителꙗ не имѣаше · въ Єгѵпетъ пѫтова · идѣже съ жерцы прѣбы и геометрїи ѹчи сѧ.",
     "originalText": "Οὐδεὶς δὲ αὐτοῦ καθηγήσατο, πλὴν ὅτι εἰς Αἴγυπτον ἐλθὼν τοῖς ἱερεῦσι συνδιέτριψεν.",
     "author": "Thales",
     "source": "diogenes-laertius",
     "reference": "I.27"
+  },
+  {
+    "type": "bio",
+    "year": -600,
+    "sr": "Anaksimander bio njegov učenik i naslednik; on je osnovao jonsku filozofsku školu.",
+    "stsl": "Анаксимандръ ѹченикъ и наслѣдникъ єго бѣ · онъ їоньскꙋю любомѫдрьнꙋю школꙋ основа.",
+    "originalText": "Ἀναξίμανδρος δὲ διάδοχος αὐτοῦ γέγονεν· πρῶτος δὲ τὸ Ἰωνικὸν ἐφιλοσόφησεν.",
+    "author": "Thales",
+    "source": "diogenes-laertius",
+    "reference": "I.13"
   },
   {
     "type": "bio",
@@ -128,6 +138,15 @@
     "year": -559,
     "reference": "I.34",
     "originalText": "Λέγεται δ' ἀγόμενος ὑπὸ γραὸς ἐκ τῆς οἰκίας, ἵνα τὰ ἄστρα κατανοήσῃ, εἰς βόθρον ἐμπεσεῖν καὶ αὐτῷ ἀνοιμώξαντι φάναι τὴν γραῦν· \"σὺ γάρ, ὦ Θαλῆ, τὰ ἐν ποσὶν οὐ δυνάμενος ἰδεῖν τὰ ἐπὶ τοῦ οὐρανοῦ οἴει γνώσεσθαι;\""
+  },
+  {
+    "type": "reported",
+    "sr": "Tales je govorio da je zahvalan sudbini za tri stvari: što je rođen kao čovek a ne životinja, kao muškarac a ne žena, i kao Helen a ne varvarin.",
+    "stsl": "Фалесъ глаголаше · ꙗко сѫдьбѣ за три блага благодарить · ꙗко чловѣкомъ а не животнымъ роди сѧ · мѫжемъ а не женою · и Хеллиномъ а не варваромъ ·",
+    "originalText": "Τριῶν τούτων ἕνεκα χάριν ἔχειν τῇ Τύχῃ· πρῶτον μὲν ὅτι ἄνθρωπος ἐγενόμην καὶ οὐ θηρίον, εἶτα ὅτι ἀνὴρ καὶ οὐ γυνή, τρίτον ὅτι Ἕλλην καὶ οὐ βάρβαρος.",
+    "author": "Thales",
+    "source": "diogenes-laertius",
+    "reference": "I.33"
   },
   {
     "type": "anecdote",

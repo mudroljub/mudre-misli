@@ -31,3 +31,6 @@ npm start
 - dodati filozofski rečnik kao zasebnu stranicu
 - dodati preslovljavanje (vidi svete misli)
 - čistka (posebno Platon)
+
+izvori citata i fragmenata:
+https://eulogikon.org/affiliations/presocratic
