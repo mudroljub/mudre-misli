@@ -43,12 +43,20 @@ const loadSectionLineIndex = async (bookNumber) => {
   const lineBySection = new Map()
 
   for (let index = 0; index < lines.length; index += 1) {
-    const match = lines[index].match(/^\s*(\d+)[\s.]/)
-    if (!match) {
+    const line = lines[index].trim()
+
+    // Skip empty lines and lines that don't start with a digit
+    if (!line || !/^\d/.test(line)) {
       continue
     }
 
-    const section = Number(match[1])
+    // Extract leading digits as section number
+    const digits = line.match(/^\d+/)
+    if (!digits) {
+      continue
+    }
+
+    const section = Number(digits[0])
     if (!lineBySection.has(section)) {
       lineBySection.set(section, index + 1)
     }
