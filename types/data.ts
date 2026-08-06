@@ -78,14 +78,11 @@ export interface AuthorData {
   /** Year of death (negative = BCE, positive = CE) */
   died: number;
 
-  /** Name in modern Serbian */
-  sr: string;
-
-  /** Name in Old Church Slavonic */
-  stsl: string;
+  /** Place of birth (ancient city name in original Greek/Latin) */
+  birthplace?: string;
 
   /** Name in ancient Greek */
-  el: string;
+  originalText: string;
 }
 
 export type AuthorsData = Record<string, AuthorData>;

@@ -44,9 +44,11 @@ export default function AuthorPageClient({
 
         <h2>{authorName}</h2>
 
-        {/* <p className={styles.authorDates}>
-          {Math.abs(authorData.born)} – {Math.abs(authorData.died)} {t.bce || "п.н.е."}
-        </p> */}
+        {authorData.birthplace && (
+          <p className={styles.birthplace}>
+            {t.cities[authorData.birthplace as keyof typeof t.cities] || authorData.birthplace}
+          </p>
+        )}
 
         <img
           className={styles.authorPortrait}

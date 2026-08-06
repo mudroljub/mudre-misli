@@ -36,7 +36,7 @@ export default function Sidebar({ language }: SidebarProps) {
     if (!metadata) return null;
 
     const slug = authorSlugs[authorKey];
-    const displayName = metadata[language] || authorKey;
+    const displayName = t.philosophers[authorKey as keyof typeof t.philosophers] || authorKey;
     const isActive = pathname === `/authors/${slug}`;
 
     return (

@@ -9,6 +9,7 @@ import {
   SourceData,
 } from '../types/data';
 import sourcesRaw from '../data/sources.json';
+import { getTranslation } from './translations';
 
 const sourcesData: Record<string, SourceData> = sourcesRaw;
 
@@ -49,9 +50,8 @@ const getTextForLanguage = (entry: Entry, language: Language = 'stsl'): string =
 };
 
 const getAuthorName = (author: string, language: Language = 'stsl'): string => {
-  const metadata = authorsData[author];
-  if (!metadata) return author;
-  return metadata[language] || author;
+  const t = getTranslation(language);
+  return t.philosophers[author as keyof typeof t.philosophers] || author;
 };
 
 const getSourceName = (
