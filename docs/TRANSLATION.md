@@ -57,12 +57,12 @@ Primeri:
 
 ## Prevođenje grčkih filozofskih termina
 
-Osnovni prevodilački princip je: jedna grčka porodica → jedna slovenska porodica → jedan srpski koren. 
-
 Koristiti [RECNIK.md](RECNIK.md).
 
-## Doslednost
+Osnovni prevodilački princip je: jedna grčka porodica → jedna slovenska porodica → jedan srpski koren. 
 
-Ne menjati terminologiju bez razloga.
+Npr. sve što počinje na διά* mora početi na раз*.
+
+## Doslednost
 
 Isti grčki filozofski pojam prevoditi istim staroslovenskim terminom kroz ceo korpus, osim kada bi to promenilo njegovo filozofsko značenje.
