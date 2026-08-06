@@ -25,8 +25,8 @@ interface BaseEntry {
   /** Original Greek or Latin text */
   originalText: string;
 
-  /** Philosopher to whom the entry belongs */
-  author: string;
+  /** Philosopher(s) to whom the entry belongs. Multiple authors for shared entries (e.g., teacher-student relationships). */
+  author: string | string[];
 
   /** Source key (e.g. "diogenes-laertius") */
   source: string;

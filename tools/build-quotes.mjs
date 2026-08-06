@@ -143,12 +143,18 @@ for (const file of files) {
     throw new Error(`${file} does not contain an array`)
 
   for (const entry of content) {
-    const pointer = await buildPointer(entry.source, entry.reference, entry.author)
-    allQuotes.push({
-      _id: nextId++,
-      ...entry,
-      ...(pointer ? { pointer } : {}),
-    })
+    // Handle multi-author entries: expand to one entry per author
+    const authors = Array.isArray(entry.author) ? entry.author : [entry.author]
+
+    for (const author of authors) {
+      const pointer = await buildPointer(entry.source, entry.reference, author)
+      allQuotes.push({
+        _id: nextId++,
+        ...entry,
+        author, // Override with single author
+        ...(pointer ? { pointer } : {}),
+      })
+    }
   }
 }
 

@@ -101,13 +101,13 @@
   },
   {
     "type": "bio",
-    "sr": "Zenon je bio Parmenidov učenik, usvojeni sin i prisni miljenik.",
-    "stsl": "Зенонъ бѣ ѹченикъ Парменида · приєтыи сынъ и възлюбленыи єго ·",
-    "author": "Zeno of Elea",
+    "sr": "Zenon Elejski bio učenik Parmenida, usvojeni sin i prisni miljenik.",
+    "stsl": "Зенонъ Елеатъ ѹченикъ Парменида · приєтыи сынъ и възлюбленыи єго бысть ·",
+    "author": ["Zeno of Elea", "Parmenides"],
     "source": "diogenes-laertius",
     "year": -490,
     "reference": "IX.25",
-    "originalText": "Ζήνων Ἐλεάτης φύσει μὲν Τελευταγόρου, θέσει δὲ Παρμενίδου· ἐρώμενός τε ἦν αὐτοῦ."
+    "originalText": "Ζήνων Ἐλεάτης ἤκουσεν μὲν Παρμενίδου· υἱὸν δ' αὐτὸν ἐποιήσατο, καίπερ ὄντα ἐρώμενον, ὥς φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ."
   },
   {
     "type": "bio",

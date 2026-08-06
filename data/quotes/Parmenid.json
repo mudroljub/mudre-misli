@@ -50,16 +50,6 @@
     "reference": "IX.22"
   },
   {
-    "type": "bio",
-    "year": -480,
-    "sr": "Zenon Elejski bio njegov učenik i ljubavnik.",
-    "stsl": "Зенонъ Елеатꙗнинъ ѹченикъ и любовникъ єго бѣ.",
-    "originalText": "Ἤκουσε δ' αὐτοῦ Ζήνων ὁ Ἐλεάτης καὶ ἐρώμενος ἦν.",
-    "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.25"
-  },
-  {
     "type": "quote",
     "sr": "Zemlja je kuglasta i leži u središtu vaseljene.",
     "stsl": "Землѧ єсть крѹглообразна и лежить посредѣ васєлены ·",
@@ -169,16 +159,6 @@
     "year": -482,
     "reference": "IX.23",
     "originalText": "πρῶτός τε ἐπενόησε τὴν γῆν σφαιροειδῆ καὶ ἐν μέσῳ κειμένην."
-  },
-  {
-    "type": "bio",
-    "sr": "Zenon iz Eleje bio je Parmenidov učenik, usvojeni sin i prisni miljenik.",
-    "stsl": "Зенонъ Елеатъ ѹченикъ Парменида · приєтыи сынъ и възлюбленыи єго бысть ·",
-    "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "year": -466,
-    "reference": "IX.25",
-    "originalText": "Ζήνων Ἐλεάτης ἤκουσεν μὲν Παρμενίδου· υἱὸν δ' αὐτὸν ἐποιήσατο, καίπερ ὄντα ἐρώμενον, ὥς φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ."
   },
   {
     "type": "anecdote",
