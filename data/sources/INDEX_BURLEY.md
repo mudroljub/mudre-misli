@@ -242,8 +242,8 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 **Status**: ✅✓  
 **Atomista iz Abdere**
 
-### Cap. XLIV - [nepoznato]
-**Status**: ⏳
+### Cap. XLIV - [nedostaje u rukopisu]
+**Status**: —
 
 ### Cap. XLV - Hippocrates (Hipokrat)
 **Strana**: 180  
@@ -255,8 +255,8 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 **Status**: ✅✅  
 **Presokratovac iz Akraganta**
 
-### Cap. XLVII - [verovatno Empedocles nastavak]
-**Status**: ⏳
+### Cap. XLVII - [nedostaje u rukopisu]
+**Status**: —
 
 ### Cap. XLVIII - Heraclitus (Heraklit)
 **Strana**: 188  
@@ -273,8 +273,8 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 **Status**: ✅✅  
 **Kinik, "Pas"**
 
-### Cap. LI - [nepoznato]
-**Status**: ⏳
+### Cap. LI - [nedostaje u rukopisu]
+**Status**: —
 
 ### Cap. LII - Plato (Platon)
 **Strana**: 214  
@@ -286,8 +286,8 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 **Status**: ✅  
 **Osnivač Liceja**
 
-### Cap. LIV - [nepoznato]
-**Status**: ⏳
+### Cap. LIV - [nedostaje u rukopisu]
+**Status**: —
 
 ### Cap. LV - Phaedo (Fedon)
 **Strana**: 252  
