@@ -11,18 +11,19 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 **Legenda:**
 - ✅ = Ekstraktovano u `data/sources/walter-burley/latin_raw/`
-- ✅✅ = Obrađeno u `data/quotes/` i `data/authors.json`
+- ✅✅ = Integrisano u `data/quotes/` (dodati novi podaci)
+- ✅✓ = Analizirano, nema novih podataka
 - ⏳ = Za ekstrakciju
 
 **Organizacija:** Hronološki po redosledu poglavlja (kao u originalnoj knjizi)
 
 ---
 
-## Status ekstrakcije (2026-08-04)
+## Status ekstrakcije (2026-08-07)
 
 **Ukupno**: ~125 figura  
 **Ekstraktovano**: 42 figura (33.6%)  
-**Integrisano u projekat**: 23/25 filozofa iz `data/authors.json`
+**Integrisano**: 2 filozofa (5 novih zapisa)
 
 ---
 
@@ -30,7 +31,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Rani presokratovci i Sedmorica mudraca
 
-1. Tales (Thales, c. I, s. 2) ✅
+1. Tales (Thales, c. I, s. 2) ✅✓
 2. Solon (Solon, c. II, s. 12) ✅
 3. Katon (Cato, c. III, s. 92)
 4. Pitak (Pittacus, c. IV, s. 28) ✅
@@ -39,7 +40,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 7. Periandar (Periander, c. VII, s. 44) ✅
 8. Zoroaster (Zoroastes, c. VIII, s. 46) ✅
 9. Mison (Misosternon, c. IX, s. 52) ✅
-10. Anaksimander (Anaximander, c. IX, s. 48) ✅
+10. Anaksimander (Anaximander, c. IX, s. 48) ✅✓
 11. Anaharsis (Anacharsis, c. X, s. 48) ✅
 12. Epimenid (Epimenides, c. XII, s. 54) ✅
 13. Ferekid (Pherecides, c. XIII, s. 56) ✅
@@ -48,11 +49,11 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Pitagorejci i jonski filozofi
 
-16. Anaksimen (Anaximenes, c. XVI, s. 54) ✅
+16. Anaksimen (Anaximenes, c. XVI, s. 54) ✅✓
 17. Kleant (Cleanthes, c. XVI, s. 106) ⚠️ ne postoji u knjizi
 18. Kret (Crates, c. XVII, s. 56) ✅
-19. Pitagora (Pythagoras, c. XVII, s. 72) ✅
-20. Anaksagora (Anaxagoras, c. XVIII, s. 80) ✅
+19. Pitagora (Pythagoras, c. XVII, s. 72) ✅✓
+20. Anaksagora (Anaxagoras, c. XVIII, s. 80) ✅✓
 21. Stilpon (Stilpon, c. XX, s. 88) ✅
 
 ### Pesnici i govornici
@@ -66,7 +67,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Sofisti i retori
 
-28. Protagora (Protagoras, c. XXVIII, s. 104) ✅
+28. Protagora (Protagoras, c. XXVIII, s. 104) ✅✓
 29. Hrisip (Chrysippus, c. XXIX, s. 102) ✅✅
 
 ### Sokrat i sokratovci
@@ -75,6 +76,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 31. Aristip (Aristippus, c. XXXI, s. 142) ✅
 32. Ksenofont (Xenophon, c. XXXII, s. 150) ✅
 33. Antisten (Antisthenes, c. XXXIII, s. 152) ✅
+33a. Diogen Kinik (Diogenes cynicus, c. XLIX, s. 197) ✅✓
 34. Alkibijad (Alcibiades, c. XXXIV, s. 153) ✅
 35. Eshin (Aeschines, c. XXXV, s. 156) ✅
 36. Euripid (Euripides philosophus, c. XXXVI, s. 158) ✅
@@ -90,16 +92,15 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 ### Naučnici i matematičari
 
 42. Eudoks (Eudoxus, c. XLII, s. 180) ✅
-43. Demokrit (Democritus, c. XLIIII, s. 160) ✅
+43. Demokrit (Democritus, c. XLIIII, s. 160) ✅✓
 44. Hipokrat (Hippocrates, c. XLV, s. 180) ✅
-45. Empedoklo (Empedocles, c. XLVI, s. 186) ✅
+45. Empedoklo (Empedocles, c. XLVI, s. 186) ✅✅
 
 ### Eleati i atomisti
 
-46. Heraklit (Heraclitus, c. XLVIII, s. 188) ✅
-47. Parmenid (Parmenides, c. XLIX, s. 192) ✅
-47a. Diogen Kinik (Diogenes cynicus, c. XLIX, s. 197) ✅
-47b. Zenon iz Eleje (Zeno Eleates, c. LXXIX, s. 306) ✅
+46. Heraklit (Heraclitus, c. XLVIII, s. 188) ✅✅
+47. Parmenid (Parmenides, c. XLIX, s. 192) ✅✓
+47b. Zenon iz Eleje (Zeno Eleates, c. LXXIX, s. 306) ✅✓
 
 ### Platonova akademija
 
