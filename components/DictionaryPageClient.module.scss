@@ -1,0 +1,61 @@
+@import '../styles/shared';
+
+.dictionary {
+  max-width: 1000px;
+  overflow-x: auto;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: $color-white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+    thead {
+      background: $color-primary;
+      color: $color-white;
+
+      th {
+        padding: $spacing-sm $spacing-md;
+        text-align: left;
+        font-weight: 600;
+        font-size: 14px;
+      }
+    }
+
+    tbody {
+      tr {
+        border-bottom: 1px solid $color-border;
+
+        &:hover {
+          background: rgba($color-primary, 0.02);
+        }
+
+        &:last-child {
+          border-bottom: none;
+        }
+      }
+
+      td {
+        padding: $spacing-xs $spacing-md;
+        font-size: 15px;
+        vertical-align: top;
+
+        &.greek {
+          font-family: 'Times New Roman', serif;
+          color: $color-text-light;
+          min-width: 150px;
+        }
+
+        &.stsl {
+          font-family: $font-family-base;
+          min-width: 250px;
+        }
+
+        &.sr {
+          color: $color-text-light;
+          min-width: 200px;
+        }
+      }
+    }
+  }
+}

@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Sidebar from "./Sidebar";
-import LanguageSwitcher from "./LanguageSwitcher";
+import Header from "./Header";
 import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
 import type { AuthorData, Language, Entry } from "../types/data";
@@ -27,7 +27,7 @@ export default function QuotePageClient({
     <main className="page-shell">
       <Sidebar language={language} />
       <section className="content">
-        <LanguageSwitcher currentLang={language} />
+        <Header language={language} />
         <div className={styles.card}>
           {authorData?.src ? (
             <img src={authorData.src} alt={authorName} />

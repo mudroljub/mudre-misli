@@ -1,0 +1,27 @@
+@import '../styles/shared';
+
+.navigation {
+  display: flex;
+  gap: $spacing-sm;
+  font-size: 13px;
+
+  a {
+    padding: 2px 6px;
+    color: rgba($color-text, 0.6);
+    text-decoration: none;
+    font-weight: 400;
+    border-bottom: 1px solid transparent;
+    transition: color $transition-fast, border-color $transition-fast;
+
+    &:hover {
+      color: $color-text;
+      border-bottom-color: rgba($color-text, 0.3);
+    }
+
+    &.active {
+      color: $color-text;
+      border-bottom-color: $color-text;
+      font-weight: 500;
+    }
+  }
+}

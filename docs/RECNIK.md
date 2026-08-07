@@ -76,6 +76,7 @@
 | εὐδαιμονία        | блаженьство                           | blaženstvo, sreća               |
 | εὐθυμία           | благодѹшиє                            | spokojstvo duha                 |
 | ζωή               | животъ                                | život (životnost, egzistencija) |
+| ζῷον              | животно                               | živo biće, životinja            |
 | ἡδονή             | сластъ                                | zadovoljstvo                    |
 | ἦθος              | нравъ                                 | karakter, narav                 |
 | ἥρως              | витѧзь *(alt: щититель)*              | heroj                           |
@@ -117,6 +118,7 @@
 | ὄντα / τὰ ὄντα    | сѫщаѧ                                 | bića                            |
 | οὐσία             | сѫщьство, имѣніє                      | suština, imovina                |
 | πάθος             | страданіє *(alt: страсть)*            | strast, trpljenje               |
+| παιδεία           | възпитаніє                            | vaspitanje, odgoj               |
 | πάντα             | всѧ                                   | sve                             |
 | πέρας             | прѣдѣлъ                               | granica                         |
 | πλῆθος            | множьство                             | mnoštvo                         |
@@ -157,5 +159,3 @@
 | χρόνος            | врѣмѧ                                 | vreme                           |
 | ψεῦδος            | ложь                                  | laž                             |
 | ψυχή              | дѹша                                  | duša                            |
-| παιδεία           | възпитаніє                            | vaspitanje, odgoj               |
-| ζῷον              | животно                               | životinja, živo biće            |

@@ -1,7 +1,7 @@
 "use client";
 
 import Sidebar from "./Sidebar";
-import LanguageSwitcher from "./LanguageSwitcher";
+import Header from "./Header";
 import { getAuthorName } from "../lib/data";
 import { getTranslation } from "../lib/translations";
 import type { AuthorData, Language, Entry, LifeEvent, Saying } from "../types/data";
@@ -53,7 +53,7 @@ export default function AuthorPageClient({
       <Sidebar language={language} />
 
       <section className={styles.content}>
-        <LanguageSwitcher currentLang={language} />
+        <Header language={language} />
 
         <h2>{authorName}</h2>
 

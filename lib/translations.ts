@@ -14,6 +14,10 @@ export interface Translations {
   sectionOthersAbout: string;
   bce: string;
   wikipedia: string;
+  navHome: string;
+  navPhilosophers: string;
+  navDictionary: string;
+  navAbout: string;
   sidebarGroups: {
     ancientSages: string;
     presocratics: string;
@@ -134,6 +138,10 @@ export const translations: Record<Language, Translations> = {
     sectionOthersAbout: 'Споминаниꙗ',
     bce: 'п.н.є.',
     wikipedia: 'Википєдїꙗ',
+    navHome: 'Начѧло',
+    navPhilosophers: 'Филосоѳи',
+    navDictionary: 'Рєчьникъ',
+    navAbout: 'О дѣлѣ',
     sidebarGroups: {
       ancientSages: 'Дрєвьнїи мѫдрьци',
       presocratics: 'Прєдсократовци',
@@ -252,6 +260,10 @@ export const translations: Record<Language, Translations> = {
     sectionOthersAbout: 'Spominjanja',
     bce: 'p.n.e.',
     wikipedia: 'Vikipedija',
+    navHome: 'Početna',
+    navPhilosophers: 'Filozofi',
+    navDictionary: 'Rečnik',
+    navAbout: 'O projektu',
     sidebarGroups: {
       ancientSages: 'Drevni mudraci',
       presocratics: 'Predsokratovci',
