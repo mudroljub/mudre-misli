@@ -2,9 +2,37 @@
   {
     "type": "bio",
     "year": -638,
-    "sr": "Solon sin Ekseketidov, od Atine, iz dema Salamina. Prvi je trideseti dan prošlog meseca i novi mesec nazvao. I prvi sabiranje devetoricu arhonata načinio za to da saberu se, kako kaže Apoliodor u drugoj knjizi O zakonodavcima.",
-    "stsl": "Солонъ · сꙑнъ Єѯєкєтідовъ · ѿ Аѳінъ · ѿ дєма Саламіна. Пръвъ трідєсѧтъ дьнь прошьдьшаго мѣсєца новꙑмъ мѣсєцємъ нарєчє. І пръвъ съвокѹплєнїє дєвѧтерицѫ архонтовъ сътвори · ꙁа то да съвѣтъ сътворѧть сѧ · ꙗкоже глаголєть Аполлїодоръ въ дрѹгѣи книꙁѣ Ѡ ꙁаконодавьцѣхъ.",
-    "originalText": "Πρῶτος δὲ Σόλων τὴν τριακάδα ἔνην καὶ νέαν ἐκάλεσεν. Καὶ πρῶτος τὴν συναγωγὴν τῶν ἐννέα ἀρχόντων ἐποίησεν εἰς τὸ συνειπεῖν, ὡς Ἀπολλόδωρός φησιν ἐν δευτέρῳ Περὶ νομοθετῶν.",
+    "sr": "Solon, sin Ekseketidov, rođen je u Atini, iz dema Salamina.",
+    "stsl": "Солонъ · сꙑнъ Єѯєкєтідовъ · родї сѧ въ Аѳінахъ · ѿ дєма Саламіна.",
+    "originalText": "Σόλων Ἐξηκεστίδου, Ἀθηναῖος, ἐκ δήμου Σαλαμῖνος.",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.58"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -600,
+    "sr": "Prvi je trideseti dan prošlog meseca novim mesecom nazvao.",
+    "stsl": "Пръвъ трідєсѧтъ дьнь прошьдьшаго мѣсєца новꙑмъ мѣсєцємъ нарєчє.",
+    "originalText": "Πρῶτος δὲ Σόλων τὴν τριακάδα ἔνην καὶ νέαν ἐκάλεσεν.",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.58"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -595,
+    "sr": "Prvi je načinio sabiranje devetoricu arhonata, kako kaže Apoliodor u drugoj knjizi O zakonodavcima.",
+    "stsl": "Пръвъ съвокѹплєнїє дєвѧтерицѫ архонтовъ сътвори · ꙗкоже глаголєть Аполлїодоръ въ дрѹгѣи knjiꙁѣ Ѡ ꙁаконодавьцѣхъ.",
+    "originalText": "Καὶ πρῶτος τὴν συναγωγὴν τῶν ἐννέα ἀρχόντων ἐποίησεν εἰς τὸ συνειπεῖν, ὡς Ἀπολλόδωρός φησιν ἐν δευτέρῳ Περὶ νομοθετῶν.",
     "author": "Solon",
     "sources": [
       {
@@ -15,10 +43,9 @@
   },
   {
     "type": "quote",
-    "year": -600,
-    "sr": "Govaraše da reč biva odraz dela. A cara onog najjačeg snagom.",
-    "stsl": "Глаголаашє жє · ꙗко слово ѥсть ѡбраꙁъ дѣлъ · а царь · наісїльнѣишїи силою.",
-    "originalText": "Ἔλεγε δὲ τὸν μὲν λόγον εἴδωλον εἶναι τῶν ἔργων· βασιλέα δὲ τὸν ἰσχυρότατον τῇ δυνάμει.",
+    "sr": "Reč je odraz dela.",
+    "stsl": "Слово ѥсть ѡбраꙁъ дѣлъ.",
+    "originalText": "τὸν μὲν λόγον εἴδωλον εἶναι τῶν ἔργων·",
     "author": "Solon",
     "sources": [
       {
@@ -29,7 +56,19 @@
   },
   {
     "type": "quote",
-    "year": -600,
+    "sr": "Car je onaj koji je najjači snagom.",
+    "stsl": "Царь ѥсть наісїльнѣишїи силою.",
+    "originalText": "βασιλέα δὲ τὸν ἰσχυρότατον τῇ δυνάμει.",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.58"
+      }
+    ]
+  },
+  {
+    "type": "quote",
     "sr": "Zakone paučini sličnima; jer i one, ako zapadne nešto lako i slabo, drže; ako pak veće, kidaju i odlaze.",
     "stsl": "Ꙁаконꙑ жє паѹчинѣ подобьнꙑ · ꙗко и ѡнꙑ · ащє падєть въ нѧ нѣчто лєгъко и нємоћьно · дрьжать · ащє жє вєлїко · прѣрѣꙁавъшє ѿходѧть.",
     "originalText": "Τοὺς δὲ νόμους τοῖς ἀραχνίοις ὁμοίους· καὶ γὰρ ἐκεῖνα, ἐὰν μὲν ἐμπέσῃ τι κοῦφον καὶ ἀσθενές, στέγειν· ἐὰν δὲ μεῖζον, διακόψαν οἴχεσθαι.",
@@ -43,7 +82,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "Kazao je da se reč pečati tišinom, a tišina trenutkom.",
     "stsl": "Рєчє · ꙗко слово печатаѥть сѧ мълчанїємъ · а мълчанїє врѣмєнємъ.",
     "originalText": "Ἔφασκέ τε σφραγίζεσθαι τὸν μὲν λόγον σιγῇ, τὴν δὲ σιγὴν καιρῷ.",
@@ -57,7 +95,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "Govaraše da oni koji u tiranina mogu slični biće kamenčićima na računicama. I jer od njih svaki ponekad više označuje, ponekad manje; i njih tiranini ponekad svakog velikog vode i sjajnog, ponekad bez časti.",
     "stsl": "Глаголаашє жє · ꙗко ѥжє при тѵранохъ могѫть · подобьни сѫть камєнїцѧмъ на раꙁчїслѣнїихъ. Ибо и ѿ нїхъ кождъ иногда болѥ знаменѹѥть · иногда жє мєньшє. Тако и тѵрани · иногда кождого вєлїка и свѣтла творѧть · иногда жє бєꙁъ чьсти.",
     "originalText": "Ἔλεγε δὲ τοὺς παρὰ τοῖς τυράννοις δυναμένους παραπλησίους εἶναι ταῖς ψήφοις ταῖς ἐπὶ τῶν λογισμῶν. Καὶ γὰρ ἐκείνων ἑκάστην ποτὲ μὲν πλείω σημαίνειν, ποτὲ δὲ ἥττω· καὶ τούτων τοὺς τυράννους ποτὲ μὲν ἕκαστον μέγαν ἄγειν καὶ λαμπρόν, ποτὲ δὲ ἄτιμον.",
@@ -71,7 +108,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "Upitan zašto za očeubicu zakon nije postavio, reče: Zbog toga što očajavah.",
     "stsl": "Въпрошєнъ · ꙁашто ѡтъцѹѹбїицѧ ꙁаконъ нє положї · рєчє · Радї того · ꙗко ѹнїчтожїхъ сѧ надєждѫ.",
     "originalText": "Ἐρωτηθεὶς διὰ τί κατὰ πατροκτόνου νόμον οὐκ ἔθηκε, Διὰ τὸ ἀπελπίσαι, εἶπεν.",
@@ -85,7 +121,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "Kako najmanje bi grešili ljudi? Ako podjednako, reče, bi teretili onima činjenim nepravdu koji nisu činjena nepravda.",
     "stsl": "Како наімєньшє сѧ людїє нєправьдѧтъ · рєчє · Ащє подѡбьно ѡбременѧли бꙑ ѡбиженꙑхъ тїи · иже нє сѫть ѡбижєнї.",
     "originalText": "Πῶς τε ἥκιστ' ἂν ἀδικοῖεν οἱ ἄνθρωποι, Εἰ ὁμοίως, ἔφη, ἄχθοιντο τοῖς ἀδικουμένοις οἱ μὴ ἀδικούμενοι.",
@@ -99,7 +134,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "I da sitost od bogatstva rađaše se, a drskost od sitosti.",
     "stsl": "И ꙗко сꙑтость ѿ богатьства раждаѥть сѧ · а гордость ѿ сꙑтости.",
     "originalText": "Καὶ τὸν μὲν κόρον ὑπὸ τοῦ πλούτου γεννᾶσθαι, τὴν δὲ ὕβριν ὑπὸ τοῦ κόρου.",
@@ -112,11 +146,25 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "bio",
     "year": -600,
-    "sr": "Hteo je da Atinjanini dane po mesecu vode. I Tespida koči tragedije da uči, jer beskorisna beše laž.",
-    "stsl": "Хотѣ Аѳінѧнꙑ дьни по мѣсѧцѹ водїтї. И Теспїда възбрани трагедїѩ ѹчїтї · ꙗко непотрѣбна ѥсть лъжь.",
-    "originalText": "Ἠξίωσέ τε Ἀθηναίους τὰς ἡμέρας κατὰ σελήνην ἄγειν. Καὶ Θέσπιν ἐκώλυσε τραγῳδίας διδάσκειν, ὡς ἀνωφελῆ τὴν ψευδολογίαν.",
+    "sr": "Hteo je da Atinjanini dane po mesecu vode.",
+    "stsl": "Хотѣ Аѳінѧнꙑ дьни по мѣсѧцѹ водїтї.",
+    "originalText": "Ἠξίωσέ τε Ἀθηναίους τὰς ἡμέρας κατὰ σελήνην ἄγειν.",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.59"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -600,
+    "sr": "Tespida je koči tragedije da uči, jer beskorisna beše laž.",
+    "stsl": "Теспїда възбрани трагедїѩ ѹчїтї · ꙗко непотрѣбна ѥсть лъжь.",
+    "originalText": "Καὶ Θέσπιν ἐκώλυσε τραγῳδίας διδάσκειν, ὡς ἀνωφελῆ τὴν ψευδολογίαν.",
     "author": "Solon",
     "sources": [
       {
@@ -127,7 +175,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "Ljudima savetovo, kako kaže Apoliodor u knjizi O filozofskim školama, ovo: Blagost nad zakletvom pouzdaniju imaj. Ne laži. Ozbiljno upražnjavaj. Prijatelje ne brzo steci; koje stečeš ne odvrgavaj. Vladaj prvo naučivši da se vlada. Savetuj ne najprijatnija, ali najbolja. Um vođu čini. Sa zlima ne opštuj. Bogove poštuj, roditelje uvažavaj.",
     "stsl": "Людємъ жє съвѣтъ даваашє · ꙗкоже глаголєть Аполлїодоръ въ книꙁѣ Ѡ любомѫдрьскꙑхъ ѥрєсѣхъ · сїцє. Доброѥ жєтїѥ кълтвꙑ вѣрьнѣѥ имѣи. Нє лъжи. Съвръшєнъ дѣла упражнѧи. Дрѹгꙑ нєскоро стѧжи · а иже стѧжєши · нє ѿвьръзи. Владаи · пръвѣѥ наѹчівъ сѧ владаѥмѹ бꙑтї. Съвѣтѹи нє ꙗже сѫть прїꙗтнѣиша · нъ ꙗже сѫть наілѹчьша. Ѹмъ водїтєлѧ сътвори. Съ злꙑми нє ѡбщї сѧ. Богоу почьсть ѿдаваи · родїтєлѥ срамї сѧ.",
     "originalText": "Τοῖς τε ἀνθρώποις συνεβούλευσεν, ὥς φησιν Ἀπολλόδωρος ἐν τῷ Περὶ τῶν φιλοσόφων αἱρέσεων, τάδε· καλοκἀγαθίαν ὅρκου πιστοτέραν ἔχε. Μὴ ψεύδου. Τὰ σπουδαῖα μελέτα. Φίλους μὴ ταχὺ κτῶ· οὓς δ' ἂν κτήσῃ μὴ ἀποδοκίμαζε. Ἄρχε πρῶτον μαθὼν ἄρχεσθαι. Συμβούλευε μὴ τὰ ἥδιστα, ἀλλὰ τὰ ἄριστα. Νοῦν ἡγεμόνα ποιοῦ. Μὴ κακοῖς ὁμίλει. θεοὺς τίμα, γονέας αἰδοῦ.",
@@ -155,7 +202,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "Čuvajući se čoveka svakog, vidi da ne sakrivenu držeći mržnju u srcu, sa vedrim govori licem, a jezik mu dvoličan iz crne pameti odgovara.",
     "stsl": "Пазѧ сѧ кождого чловѣка · блюдї · да нє таѥнъ имѣѥ мрьꙁость въ срьдци · свѣтлꙑмъ лицємъ къ тєбѣ нє глаголєть · а ꙗꙁꙑкъ єго двоѹмьнъ ѿ чрьнꙑꙗ мꙑслї отвѣщаѥть.",
     "originalText": "Πεφυλαγμένος ἄνδρα ἕκαστον, ὅρα μὴ κρυπτὸν ἔχων ἔχθος κραδίῃ, φαιδρῷ προσεννέπῃ προσώπῳ, γλῶσσα δέ οἱ διχόμυθος ἐκ μελαίνης φρενὸς γεγωνῇ.",
@@ -184,9 +230,23 @@
   {
     "type": "bio",
     "year": -592,
-    "sr": "Vladao je u Atinama u trećoj godini te olimpijade, kako kaže Sosikrat. Tada je i postavio zakone.",
-    "stsl": "Владѣ въ Аѳінахъ въ трєтїє лѣто тꙑѩ ѡлѵмпїадꙑ · ꙗкоже глаголєть Сосїкратъ · ѿгда и ꙁаконꙑ положї.",
-    "originalText": "ἧς τῷ τρίτῳ ἔτει ἦρξεν Ἀθήνησι, καθά φησι Σωσικράτης· ὅτε καὶ τίθησι τοὺς νόμους.",
+    "sr": "Vladao je u Atinama u trećoj godini četrdeset šeste olimpijade, kako kaže Sosikrat.",
+    "stsl": "Владѣ въ Аѳінахъ въ трєтїє лѣто чєтꙑрїдєсѧтъ шєстꙑѩ ѡлѵмпїадꙑ · ꙗкоже глаголєть Сосїкратъ.",
+    "originalText": "ἧς τῷ τρίτῳ ἔτει ἦρξεν Ἀθήνησι, καθά φησι Σωσικράτης·",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.62"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -592,
+    "sr": "Tada je postavio zakone.",
+    "stsl": "Тогда ꙁаконꙑ положї.",
+    "originalText": "ὅτε καὶ τίθησι τοὺς νόμους.",
     "author": "Solon",
     "sources": [
       {
@@ -239,7 +299,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "Izreka njegova: Ništa suviše.",
     "stsl": "Іꙁрєчє жє · Нїчьто сѹвьше.",
     "originalText": "Ἀπεφθέγξατο δέ, φασί, Μηδὲν ἄγαν.",
@@ -253,7 +312,6 @@
   },
   {
     "type": "quote",
-    "year": -600,
     "sr": "Javljaš mi da mnogi tebi urotu kuju. Ti pak ako namerevaš sve sa puta ukloniti, ne bi stigao. Uradiće urotu neki i od onih neosumnjičenih, jedan strahujući za sobom, drugi pak tebe osudivši, jer ne biva ništa što ne plašiš se; i bi gradu uslugu položio otkrivši, ako ne bi sumnjiv bio. Najbolje pak držati se po strani, da se opravdaš od optužbe. Ako pak svakako treba da tiranišeš, brinuti kako tuđu snagu veću imati ćeš od onih u gradu, i niko neće više tebi opasan biti, niti ti ikoga sa puta ubirati.",
     "stsl": "Възвѣщаѥши ми · ꙗко мъноꙁї тєбѣ ѹсѣдѫ творѧть. Тꙑ жє ащє хощєши всѣхъ ѿ пѫти ѹстранїтї · нє ѹспѣѥши. Ѹсѣдѹ бо сътворїтъ нѣкъто и ѿ нєподозрѣваѥмꙑхъ · ѥдинъ боя сѧ ꙁа сєбє · дрѹгꙑи жє ѡ тебе ѹсѫдївъ · ꙗко нѣсть ничьсо · ѥго жє нє боїши сѧ. И градѹ бꙑ ѹслѹгѫ сътворїлъ · ѡткрꙑвъ єго · ащє нєподозрѣнъ бꙑ. Наілѹчьшє жє ѿстѹпїтї · да ѿ ѡбвїнєнїꙗ ѡсвободїши сѧ. Ащє жє вьсѧко тѵраньствоватї подобаѥть · попечї сѧ · како чѹжѧѭ снагѫ болѣѭ имѣтї бѹдєши · нєжєлї сѫть въ градѣ · и нїкто болѣ нє бѹдєть тєбѣ страшєнъ · нї тꙑ кѡго ѿ пѫти ѹстранѧи.",
     "originalText": "Ἐπαγγέλλεις ἐμὶν πολλούς τοι ἐπιβουλεύειν. Σὺ δὲ εἰ μὲν μέλλεις ἐκποδὼν ἅπαντας ποιήσεσθαι, οὐκ ἂν φθάνοις. Ἐπιβουλεύσειε δ' ἄν τις καὶ τῶν ἀνυπόπτων, ὁ μὲν δεδιὼς περὶ αὑτῷ, ὁ δὲ σοῦ καταγνούς, οὐκ ἔσθ' ὅ τι οὐκ ὀρρωδοῦντος· κἂν τῇ πόλει χάριν κατάθοιτο ἐξευρών, ἢν μὴ ὕποπτος εἴης. Ἄριστον μὲν οὖν ἀπέχεσθαι, ἵνα τῆς αἰτίας ἀπαλλαγῇς. Εἰ δὲ πάντως τυραννητέον, φροντίζειν ὅπως τὴν ἀλλοδαπὴν δύναμιν πλείονα ἕξεις τῶν ἐν τῇ πόλει, καὶ οὐδεὶς ἔτι τοι δεινός, μηδὲ σὺ ἐκποδών τινα ποιοῦ.",
@@ -267,7 +325,6 @@
   },
   {
     "type": "quote",
-    "year": -580,
     "sr": "Ni moji zakoni, dakle, Atinjanine na dugo koristiće imali su, niti ti očistivši grad koristio si. Jer i božansko i zakonodavci ne po sebi mogu koristiti gradovima, nego oni koji uvek mnoštvo vode onamo kako bi mišljenja imali. Tako i božansko i zakoni, dobro vodećima, jesu korisni; loše pak vodećima, ništa ne koriste.",
     "stsl": "Ни мої ꙁаконꙑ · ѹбо · Аѳінѧнꙑ на дъльго ѡблагодѣѥтї нє имѣахѫ · нї тꙑ · ѡчїстївъ градъ · ѡблагодѣѥлъ ѥси. Ибо и божьствьноѥ · и ꙁаконодавьци · нє сами по сєбѣ могѫтъ градꙑ ѡблагодѣѥтї · нъ тїи иже присно мъножьство водѧтъ · како бꙑ мꙑсль имѣлї. Тако жє и божьствьноѥ и ꙁаконꙑ · добрѣ водѧщїмъ · сѫть полєꙁьнї · злѣ жє водѧщїмъ · ничьто нє ѹспѣваѭтъ.",
     "originalText": "Οὔτε οἱ ἐμοὶ θεσμοὶ ἄρα Ἀθηναίους ἐπιπολὺ ὀνήσειν ἔμελλον, οὔτε σὺ καθήρας τὴν πόλιν ὤνησας. Τό τε γὰρ θεῖον καὶ οἱ νομοθέται οὐ καθ' ἑαυτὰ δύνανται ὀνῆσαι τὰς πόλεις, οἱ δὲ ἀεὶ τὸ πλῆθος ἄγοντες ὅπως ἂν γνώμης ἔχωσιν. Οὕτω δὲ καὶ τὸ θεῖον καὶ οἱ νόμοι, εὖ μὲν ἀγόντων, εἰσὶν ὠφέλιμοι· κακῶς δὲ ἀγόντων, οὐδὲν ὠφελοῦσιν.",
@@ -281,7 +338,6 @@
   },
   {
     "type": "quote",
-    "year": -580,
     "sr": "Ni moji bolji nisu i što sam ja zakonodao. Oni pak povereći opšte škodili su, koji nisu bili prepreka Pejsistrata da napadne tiranidu. Ni ja unapred govoreći verovao sam bio. On pak verovodniji laskajući Atinjanima od mene istinu govoreći.",
     "stsl": "Ни сѫть мої лѹчьшї · ни єже азъ ꙁаконоположїхъ. Ѡни жє · ѡставлѧѭще ѡбьщеѥ · ѡбидѣхѫ · иже нє бꙑшѧ прѣпѧтїѥмъ Пєїсїстратѹ на тѵраньство ѹстремїтї сѧ. Нї азъ · прѣдъглаголѧ · вѣрьнъ бѣхъ. Ѡнъ жє вѣрьнѣишї бѣ · ласкаꙗ Аѳінѧнꙑ · мънѣ истїна глаголѭщѹ.",
     "originalText": "Οὐδ' οἱ ἐμοὶ ἀμείνους εἰσὶ καὶ ὅσα ἐγὼ ἐνομοθέτησα. Οἱ δ' ἐπιτρέποντες τὸ ξυνὸν ἔβλαπτον, οἳ οὐκ ἐγένοντο ἐμποδὼν Πεισιστράτῳ ἐπιθέσθαι τυραννίδι. Οὐδ' ἐγὼ προλέγων πιστὸς ἦν. Ἐκεῖνος δὲ πιστότερος κολακεύων Ἀθηναίους ἐμοῦ ἀληθεύοντος.",
@@ -295,7 +351,6 @@
   },
   {
     "type": "quote",
-    "year": -560,
     "sr": "Verujem da ništa zlo od tebe pretrpeti neću. Jer i pre tiranije prijatelj tebi bio sam, i sada nisam više različit nego neko drugi od Atinjana kome ne dopadaše se tiranija. Bilo pak da pod jednim vladati bolje biva njima, bilo da narodski se vladaju, neka veruju čime svako sudi. I tebe kažem svih tiranina biti najboljeg. Vraćati se pak meni u Atinu ne valjano vidim, da mi neko ne prebacuje, što dodevši Atinjanima ravnopravnost, i mogavši sam tiranisati ne odlučivši se, sada vrativši se dopao bih se onome što ti činiš.",
     "stsl": "Вѣрѹѭ ꙗко ничьсо злъно ѿ тєбє нє прїимѹ. Ибо и прѣдъ тѵраньствомъ дрѹгъ тєвѣ бѣхъ · и нꙑнѣ нѣсмь болѣ различьнъ · нъ ꙗко и дрѹгъ нѣкъто ѿ прочїихъ Аѳінѧнъ · иже нє любїтъ тѵраньства. Ащє ѹбо подъ ѥдїнимъ властвоватї лѹчьшє ѥсть їмъ · ащє ли народомъ владѣти сѧ · нєка вѣрѹѥть кождъ · ꙗкоже разѹмѣѥть. И тєбє глаголѭ · ꙗко всѣхъ тѵрановъ наілѹчьшїи ѥси. Възвратїтї сѧ жє мьнѣ въ Аѳінꙑ нє добро видїтъ сѧ · да мѧ нѣкъто нє ѡбличїть · ꙗко давъ Аѳінѧномъ равьноправїѥ · и могѫ самъ тѵраньствоватї · нє восхотѣвъ · нꙑнѣ възвратївъ сѧ · ѹгодїлъ бꙑхъ томѹ · ѥже тꙑ творїши.",
     "originalText": "Πιστεύω μηδὲν κακὸν ἐκ σοῦ πείσεσθαι. Καὶ γὰρ πρὸ τῆς τυραννίδος φίλος σοὶ ἦν, καὶ νῦν οὐ μᾶλλον διάφορος ἢ τῶν ἄλλων τις Ἀθηναίων ὅτῳ μὴ ἀρέσκει τυραννίς. Εἴτε δὲ ὑφ' ἑνὸς ἄρχεσθαι ἄμεινον αὐτοῖς, εἴτε δὴ δημοκρατεῖσθαι, πεπείσθω ᾗ ἑκάτερος γιγνώσκει. Καὶ σὲ φημὶ πάντων τυράννων εἶναι βέλτιστον. Ἐπανήκειν δέ μοι Ἀθήναζε οὐ καλῶς ἔχον ὁρῶ, μή μέ τις μέμψηται, εἰ διαθεὶς Ἀθηναίοις ἰσοπολιτείαν, καὶ παρὸν τυραννεῖν αὐτὸς οὐκ ἀξιώσας, νῦν ἐπανελθὼν ἀρεσκοίμην οἷς σὺ πράσσεις.",
@@ -309,7 +364,6 @@
   },
   {
     "type": "quote",
-    "year": -560,
     "sr": "Divim ti se za pristojnost prema nama; i tako mi Atinom, ako mi nije bilo važnije živeti u narodovlašću, primio bih više stanovanje imati u tvojoj vladavini nego u Atini, dok nasilno vladaše Pejsistrat. Ali i prijatniji nama život gde svima pravda i jednakost. Doći ću pak svakako ka tebi, žureći ti gost postati.",
     "stsl": "Дївлѭ сѧ тєбѣ ꙁа любєꙁность къ намъ · и кълѧнѫ сѧ Аѳїноѭ · ащє ми нє бѣ прѣдъ вьсѣмъ жїтї въ народовластї · прїѩлъ бꙑхъ болѥ прѣбꙑванїѥ въ твоєи царьствѣ · нєжє въ Аѳінахъ · насїльствѹѭщѹ Пєїсїстратѹ. Нъ и прїꙗтнѣишї намъ жївотъ ѥсть · идѣжє всѣмъ правьда и равьно. Прїидѫ ѹбо къ тєбѣ · поспѣшаѭ да бѹдѫ тєбѣ гость.",
     "originalText": "Ἄγαμαί σε τῆς περὶ ἡμᾶς φιλοφροσύνης· καὶ νὴ τὴν Ἀθηνᾶν, εἰ μὴ περὶ παντός μοι ἦν οἰκεῖν ἐν δημοκρατίᾳ, ἐδεξάμην ἂν μᾶλλον τὴν δίαιταν ἔχειν ἐν τῇ παρὰ σοὶ βασιλείᾳ ἢ Ἀθήνησι, τυραννοῦντος βιαίως Πεισιστράτου. Ἀλλὰ καὶ ἡδίων ἡμῖν ἡ βιοτὴ ἔνθα πᾶσι τὰ δίκαια καὶ ἴσα. Ἀφίξομαι δ' οὖν παρὰ σέ, σπεύδων τοι ξένος γενέσθαι.",
