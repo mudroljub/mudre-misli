@@ -116,7 +116,6 @@ export interface Translations {
     'Timon of Phlius': string;
     Epicurus: string;
     Anacharsis: string;
-    Periander: string;
     Pittacus: string;
     Solon: string;
     'Chilon of Sparta': string;
@@ -242,7 +241,6 @@ export const translations: Record<Language, Translations> = {
       'Timon of Phlius': 'Тімонъ отъ Флїѹнта',
       Epicurus: 'Епікѹръ',
       Anacharsis: 'Анахарсісъ',
-      Periander: 'Пєріандръ',
       Pittacus: 'Піттакъ',
       Solon: 'Солонъ',
       'Chilon of Sparta': 'Хїлонъ',
@@ -366,7 +364,6 @@ export const translations: Record<Language, Translations> = {
       'Timon of Phlius': 'Timon iz Flija',
       Epicurus: 'Epikur',
       Anacharsis: 'Anaharsis',
-      Periander: 'Periander',
       Pittacus: 'Pitak',
       Solon: 'Solon',
       'Chilon of Sparta': 'Hilon',

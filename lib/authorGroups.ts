@@ -18,7 +18,6 @@ export const authorGroups: AuthorGroup[] = [
     title: 'Ancient Sages',
     period: '7-6. vek p.n.e.',
     authors: [
-      'Periander',
       'Pittacus',
       'Solon',
       'Bias of Priene',

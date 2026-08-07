@@ -31,7 +31,7 @@
     "type": "bio",
     "year": -546,
     "sr": "Živeo za vreme pada Sarda; umro u šezdeset trećoj olimpijadi.",
-    "stsl": "Жити за времени паденіѧ Сардъ · оумрѣ въ шестьдесѧтѣи третїеи олимпїадѣ ·",
+    "stsl": "Живъ бѣ въ врѣмѧ паденіѧ Сардъ · оумрѣ въ шестьдесѧтѣи третїеи олимпїадѣ ·",
     "originalText": "Καὶ γεγένηται μέν, καθά φησίν Ἀπολλόδωρος, περὶ τὴν Σάρδεων ἅλωσιν, ἐτελεύτησε δὲ τῇ ἑξηκοστῇ τρίτῃ Ὀλυμπιάδι.",
     "author": "Anaximenes",
     "sources": [
@@ -42,9 +42,9 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "reported",
     "sr": "Kao prvo načelo uzeo je vazduh, odnosno neograničeno.",
-    "stsl": "За пьрвоє начѧло положи въздѫхъ · сирѣчь безмѣрьнъ ·",
+    "stsl": "За пьрвоє начѧло положи въздѫхъ · сърѣчь безмѣрьнъ ·",
     "originalText": "οὗτος ἀρχὴν ἀέρα εἶπε καὶ τὸ ἄπειρον.",
     "author": "Anaximenes",
     "sources": [
@@ -97,7 +97,7 @@
   {
     "type": "quote",
     "sr": "Milet nikada nije bez tirana.",
-    "stsl": "Мілєтъ николиже безъ тиранъ ·",
+    "stsl": "Мілєтъ николи же безъ тиранъ ·",
     "originalText": "Μιλησίους οὐκ ἐπιλείπουσι αἰσυμνῆται.",
     "author": "Anaximenes",
     "sources": [
@@ -123,7 +123,7 @@
   {
     "type": "quote",
     "sr": "Kako da proučavam nebesa dok mi prete propast ili ropstvo?",
-    "stsl": "Како да испытаю небеса · дондеже погибель или рабьство ми грозитъ ·",
+    "stsl": "Како да испытаю небеса · донде же погибель или рабьство ми грозитъ ·",
     "originalText": "Κῶς ἂν οὖν Ἀναξιμένης ἐν θυμῷ ἔτι ἔχοι αἰθερολογέειν, ἐν δείματι ἐὼν ὀλέθρου ἢ δουλοσύνης;",
     "author": "Anaximenes",
     "sources": [
