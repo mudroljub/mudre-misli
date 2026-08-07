@@ -99,6 +99,137 @@
   },
   {
     "type": "anecdote",
+    "sr": "Kada ga je slepi udario štapom, Diogen mu reče: Ukloni svoje oko - nazivajući štap okom.",
+    "stsl": "Єгда слѣпыи оудари єго жезломъ · Диогенъ рече · отъстави око твоє · жезлъ окомъ нарицаꙗ.",
+    "author": "Diogenes",
+    "year": -360,
+    "originalText": "quidam cecus pro greidienis cum baculo offenderet ut ad eum Diogenes: Tolle ab te oculum tuum, baculo eius appellans",
+    "la": "quidam cecus pro greidienis cum baculo offenderet ut ad eum Diogenes: Tolle ab te oculum tuum, baculo eius appellans",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Dok je prao kupus u Sirakuzi, Aristip mu reče: Da si hteo da laskаš Dionisiju, ne bi morao prati kupus. Diogen odgovori: A da si ti hteo da pereš kupus, ne bi morao laskati Dionisiju.",
+    "stsl": "Єгда кѫпѹсъ въ Сѷракѹзахъ ꙋмꙑваше · Аристипъ рече · аште бꙑ лагодꙑню Диони́сїю · не бꙑ тѧ кѫпꙋсъ ꙋмꙑвати подобало · Диогенъ отвѣшта · аште бꙑ тꙑ кѫпꙋсъ ꙋмꙑвати · не бꙑ тѧ Диони́сїю лагодити подобало.",
+    "author": "Diogenes",
+    "year": -355,
+    "originalText": "levanti olera in Siracusa dixit Aristippus: Si Dionysium adulare velles pauper non esses. Cui ille ait: Si bonam mortem tradens esses velles Dionysium non esse",
+    "la": "levanti olera in Siracusa dixit Aristippus: Si Dionysium adulare velles pauper non esses. Cui ille ait: Si bonam mortem tradens esses velles Dionysium non esse",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Dok je predavao učenicima o gnevu, drski mladić ga ispljunuo. Upitan da li će se naljutiti, Diogen reče: Ne ljutim se, ali sumnjam da li bi trebalo da se ljutim.",
+    "stsl": "Єгда ѹченикомъ о гнѣвѣ поѹчааше · дрьзыи юноша плюнѹ на нь · вопрошенъ аште лютить сѧ · Диогенъ рече · не лютѭ сѧ · нъ съмнѣваѭ сѧ аште подобаєть ми лютити сѧ.",
+    "author": "Diogenes",
+    "year": -355,
+    "originalText": "Cum Diogenes de innereret contra discipulis suis dolescens quidam protervus, ipsum temptando, si irascebitur, narravit spuendo",
+    "la": "Cum Diogenes de innereret contra discipulis suis dolescens quidam protervus, ipsum temptando, si irascebitur, narravit spuendo",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Dok je raspravljao sa Lentulom, ovaj mu pljunuo u lice. Diogen mirno odgovori: Potvđujem, Lentule, pred svima da greše oni koji kažu da nemaš usta.",
+    "stsl": "Єгда съ Лентоломъ бесѣдова · онъ плюнѹ на лице єго · Диогенъ мирьно отвѣшта · оутвръждаѭ · Лентоле · прѣдъ вьсѣми · ꙗко погрѣшаѭтъ рекѫште · ꙗко оустъ не имаши.",
+    "author": "Diogenes",
+    "year": -350,
+    "originalText": "dum ageret causam Lentulus senatus, attulit ei alapa faciem. Cui Diogenes quieta mente dixit: Affirmarbo, o Lentule, coram omnibus falli eos qui te negant os habere",
+    "la": "dum ageret causam Lentulus senatus, attulit ei alapa faciem. Cui Diogenes quieta mente dixit: Affirmarbo, o Lentule, coram omnibus falli eos qui te negant os habere",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Videći lepog mladića dobrog karaktera, reče: Dobrota njegove duše daje veliku lepotu njegovom licu.",
+    "stsl": "Видѣвъ краснаго юношѹ добраго нрава рече · доброта дѹшѧ єго велию красотѫ лицѹ єго даєть.",
+    "author": "Diogenes",
+    "originalText": "cum vidisset iuvenem honestum novum, facie sit: Animo illius bonitas dat multum pulchritudinis faciei eius",
+    "la": "cum vidisset iuvenem honestum novum, facie sit: Animo illius bonitas dat multum pulchritudinis faciei eius",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Videći lepog čoveka sa lošim moralom, reče: O kako dobar stan, a loš gost!",
+    "stsl": "Видѣвъ краснаго чловѣка зълꙑхъ обꙑчаєвъ рече · о како добръ домъ · а зълъ гость.",
+    "author": "Diogenes",
+    "originalText": "O quam bona domus et malus hospes",
+    "la": "O quam bona domus et malus hospes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Videći nekog neuka kako sedi na kamenu, reče: Kamen sedi na kamenu.",
+    "stsl": "Видѣвъ нѣкоєго неѹча на камени сѣдѧшта рече · камꙑ на камени сѣдить.",
+    "author": "Diogenes",
+    "originalText": "videns quendam idiotam sedentem super lapidem ait: Lapis sedit super lapidem",
+    "la": "videns quendam idiotam sedentem super lapidem ait: Lapis sedit super lapidem",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada je noću lopov pokušao ukrasti njegov novčanik, Diogen mu ga ponudi: Uzmi, uzmi, da nas obojica možeš pustiti da spavamo.",
+    "stsl": "Єгда ношьтїѭ татъ покꙋшаше сѧ мошьнꙋ єго оукрасти · Диогенъ подаде ємѹ · възьми възьми · да обоꙗ пѹстиши насъ спати.",
+    "author": "Diogenes",
+    "year": -350,
+    "originalText": "nocte fur sacculum cum numuis subtrahere conaretur... Tolle, tolle, ut facias utroque dormire",
+    "la": "nocte fur sacculum cum numuis subtrahere conaretur... Tolle, tolle, ut facias utroque dormire",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Na pitanje zašto izbegava ljude, odgovori: Loše zbog njihovog lošeg života, a dobre jer žive sa lošima.",
+    "stsl": "Въпрошенъ почто бѣгаєть отъ чловѣкъ отвѣшта · зълꙑꙗ ради зълаго ихъ живота · добрꙑꙗ же · зане съ зълꙑими живѫтъ.",
+    "author": "Diogenes",
+    "originalText": "Interrogatus cur homines abhorrerent nec vellet cum eis vivere, ait: Malos enim propter previtam ignem vitam, bonos vero quia cum malis vivunt",
+    "la": "Interrogatus cur homines abhorrerent nec vellet cum eis vivere, ait: Malos enim propter previtam ignem vitam, bonos vero quia cum malis vivunt",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
     "sr": "Kada je rekao da će se uskoro donje okrenuti gore, mislio je na to što Makedonci, koji su bili skromni, postaju moćni.",
     "stsl": "Єгда рече ꙗko въскорѣ долнєє въ горнєє прѣвратить сѧ · мыслѧаше о Македонцехъ · иже скромьни бывъше · могѫштии бываѭть.",
     "author": "Diogenes",

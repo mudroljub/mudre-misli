@@ -23,7 +23,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 **Ukupno**: ~130 poglavlja (neki filozofi imaju više poglavlja)  
 **Ekstraktovano**: 42 figura (32%)  
-**Integrisano**: 2 filozofa (5 novih zapisa: Heraklit 1, Empedoklo 4)
+**Integrisano**: 3 filozofa (14 novih zapisa: Heraklit 1, Empedoklo 4, Diogen 9)
 
 ---
 
@@ -270,7 +270,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. L - Diogenes Cynicus (Diogen Kinik)
 **Strana**: 197  
-**Status**: ✅✓  
+**Status**: ✅✅  
 **Kinik, "Pas"**
 
 ### Cap. LI - [nepoznato]
