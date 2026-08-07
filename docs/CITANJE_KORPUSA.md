@@ -6,13 +6,14 @@ Iz lokalnog korpusa staroslovenskih tekstova izdvojiti najbolje primere za rekon
 
 Ne praviti običan indeks pojavljivanja reči.
 
-Cilj je napraviti mali, kvalitetan jezički korpus koji pokazuje:
+Cilj je napraviti mali, kvalitetan korpus koji pokazuje:
 
 - kako staroslovenski izražava apstraktne pojmove;
 - kako prevodi grčke filozofske i teološke termine;
 - kako gradi filozofsku rečenicu;
 - kako tvori apstraktne imenice;
-- kako izražava definicije i argumente.
+- kako izražava definicije, poređenja i argumente;
+- koje postojeće slovenske reči mogu nositi filozofsko značenje.
 
 ---
 
@@ -32,11 +33,9 @@ data\sources\corpus
 
 Izvori se dele na dve grupe.
 
-## A. Filozofski i apstraktni jezik
+# A. Filozofski i apstraktni jezik
 
-Ovi tekstovi imaju najveći prioritet.
-
-### 1. Разуми на елинские философи.txt
+## 1. Разуми на елинские философи.txt
 
 Prioritet: ★★★★★
 
@@ -44,7 +43,7 @@ Glavni izvor za:
 
 - grčke filozofske pojmove;
 - prevod antičkih termina;
-- jezik o mudrosti i znanju.
+- moralnu i metafizičku terminologiju.
 
 Posebno tražiti:
 
@@ -53,11 +52,12 @@ Posebno tražiti:
 - душа
 - природа
 - начало
-- бытие
+- быти
 - разумъ
+- добродѣтель
 
 
-### 2. Прогласъ.txt
+## 2. Прогласъ.txt
 
 Prioritet: ★★★★★
 
@@ -70,13 +70,14 @@ Glavni izvor za:
 Posebno tražiti:
 
 - слово
+- словеса
 - писание
 - языкъ
 - разумъ
-- знание
+- познание
 
 
-### 3. О письменьхъ.txt
+## 3. О письменьхъ.txt
 
 Prioritet: ★★★★★
 
@@ -84,10 +85,11 @@ Glavni izvor za:
 
 - pojam jezika;
 - znak i značenje;
-- odnos glasa i slova.
+- odnos glasa i slova;
+- čoveka kao razumno biće.
 
 
-### 4. Пчела.txt / Бьчела.txt
+## 4. Пчела.txt / Бьчела.txt
 
 Prioritet: ★★★★☆
 
@@ -95,22 +97,27 @@ Glavni izvor za:
 
 - mudrosne iskaze;
 - definicije;
-- filozofske obrasce.
+- filozofske obrasce;
+- moralne pojmove.
 
 Posebno tražiti konstrukcije:
 
 ```
 
 X єсть Y
+
 X подобьно Y
+
+X не есть Y
 
 ```
 
+
 ---
 
-## B. Prevodilački i jezički uzor
+# B. Prevodilački i jezički uzor
 
-### 5. Suprasliensis
+## 5. Suprasliensis
 
 Prioritet: ★★★★★
 
@@ -120,11 +127,10 @@ Koristiti za:
 
 - apstraktne imenice;
 - prevod grčkih pojmova;
-- složene rečenice.
+- složene sintaktičke konstrukcije.
 
----
 
-### 6. Sava
+## 6. Sava
 
 Prioritet: ★★★★☆
 
@@ -134,21 +140,18 @@ Koristiti za:
 - prevodilački stil.
 
 
----
-
-### 7. Vita Constantini
+## 7. Vita Constantini
 
 Prioritet: ★★★★☆
 
 Koristiti za:
 
 - rasprave o jeziku;
-- odnos znanja i vere;
-- filozofski stil.
+- filozofiju i obrazovanje;
+- definiciju filozofije.
 
----
 
-### 8. Marianus
+## 8. Marianus
 
 Prioritet: ★★★★☆
 
@@ -158,21 +161,17 @@ Koristiti za:
 - najstariji književni sloj.
 
 
----
-
-### 9. Zographensis
+## 9. Zographensis
 
 Prioritet: ★★★★☆
 
 Koristiti za:
 
-- poređenje arhaičnih oblika;
-- grafiju.
+- arhaične oblike;
+- poređenje grafije.
 
 
----
-
-### 10. Assemanius
+## 10. Assemanius
 
 Prioritet: ★★★☆☆
 
@@ -183,11 +182,22 @@ Koristiti za:
 
 ---
 
-# Šta izdvajati
+# Kategorije izdvajanja
 
-Tražiti primere koji pokazuju filozofsku ili apstraktnu upotrebu.
+Svaki primer svrstati u jednu ili više kategorija:
 
-Ne tražiti samo pojavljivanje reči.
+```
+
+01 Ontologija
+02 Saznanje i razum
+03 Jezik i logos
+04 Psihologija
+05 Etika
+06 Teologija
+07 Čovek i društvo
+08 Književnost i obrazovanje
+
+```
 
 ---
 
@@ -198,6 +208,7 @@ Ne tražiti samo pojavljivanje reči.
 Grčki:
 
 - εἶναι
+- τὸ ὄν
 - οὐσία
 - φύσις
 
@@ -207,6 +218,7 @@ Slovenski:
 - быти
 - сѫщьство
 - єстьство
+- природа
 
 
 ---
@@ -218,6 +230,7 @@ Grčki:
 - νοῦς
 - διάνοια
 - φρόνησις
+- λογισμός
 
 Slovenski:
 
@@ -225,6 +238,25 @@ Slovenski:
 - разумъ
 - размꙑслъ
 - помыслъ
+
+
+Terminološka razlika:
+
+```
+
+умъ
+
+unutrašnja misaona sposobnost
+grčki: νοῦς
+
+разумъ
+
+razumevanje, rasuđivanje, objašnjenje
+grčki: διάνοια
+
+```
+
+Ne izjednačavati automatski ova dva termina.
 
 
 ---
@@ -240,11 +272,12 @@ Slovenski:
 - слово
 - словеса
 
+
 Posebno izdvojiti:
 
 - слово kao govor;
 - слово kao razum;
-- слово kao ontološki pojam.
+- слово kao božanski ili ontološki princip.
 
 
 ---
@@ -261,6 +294,20 @@ Slovenski:
 - знати
 - вѣдѣти
 - разумѣти
+- познати
+
+
+Razlikovati:
+
+```
+
+знати
+opšte znanje
+
+познати
+lična ili neposredna spoznaja
+
+```
 
 
 ---
@@ -302,6 +349,53 @@ Slovenski:
 
 - начѧло
 - причина
+- вина
+
+
+---
+
+## Priroda
+
+Grčki:
+
+- φύσις
+
+Slovenski:
+
+- природа
+- єстьство
+
+
+---
+
+## Oblik i obraz
+
+Grčki:
+
+- μορφή
+- εἶδος
+
+Slovenski:
+
+- образъ
+- подобие
+- видъ
+
+
+---
+
+## Delovanje
+
+Grčki:
+
+- ἔργον
+- δύναμις
+
+Slovenski:
+
+- дѣло
+- творити
+- сила
 
 
 ---
@@ -322,11 +416,13 @@ X єсть Y
 
 2. Rečenice sa apstraktnim imenicama.
 
-3. Rečenice koje predstavljaju prevod grčkog filozofskog izraza.
+3. Rečenice koje jasno prevode grčki filozofski pojam.
 
-4. Rečenice koje pokazuju tvorbu novih slovenskih pojmova.
+4. Rečenice koje pokazuju tvorbu slovenskih apstraktnih termina.
 
-5. Rečenice koje mogu služiti kao obrazac za novi filozofski prevod.
+5. Rečenice koje mogu služiti kao model za novi filozofski prevod.
+
+6. Rečenice gde obična slovenska reč dobija filozofsko značenje.
 
 
 ---
@@ -340,7 +436,7 @@ Ne izdvajati:
 - ponavljanja istih formula;
 - lična imena;
 - liturgijske formule bez jezičkog značaja;
-- slučajne pojave reči bez filozofskog značenja.
+- slučajne pojave reči bez apstraktnog značenja.
 
 
 ---
@@ -360,12 +456,12 @@ Sačuvati:
 - ꙗ
 - ѭ
 
-
 Ukloniti samo:
 
 - brojeve redova;
 - tehničke oznake izdanja;
 - nepotrebne prelome.
+
 
 ---
 
@@ -375,7 +471,7 @@ Napraviti fajl:
 
 ```
 
-language/PRIMERИ.md
+language/ПРИМЕРИ.md
 
 ````
 
@@ -384,30 +480,44 @@ Format:
 ```md
 # слово
 
+Kategorija:
+03 Jezik i logos
+
 Grčki pojam:
 λόγος
 
 Izvor:
 Прогласъ
 
+Status:
+[ДОМАЋИ ТЕРМИН]
+
 Tekst:
 
 ...
 
 Zašto je važan:
+
 Primer apstraktne upotrebe reči слово.
 
 ---
 
-# истина
+# разумъ
+
+Kategorija:
+02 Saznanje i razum
 
 Grčki:
-ἀλήθεια
+διάνοια
 
 Izvor:
-Suprasliensis
+О письменьхъ
+
+Status:
+[PREVODILAČKI UZOR]
 
 Tekst:
+
 ...
 
 Napomena:
@@ -416,31 +526,39 @@ Napomena:
 
 ---
 
+# Oznake
+
+Koristiti sledeće oznake:
+
+## [DOMAĆI TERMIN]
+
+Slovenska reč potvrđena u staroslovenskom korpusu.
+
+## [PREVODILAČKI UZOR]
+
+Primer koji pokazuje kako slovenski prevodi grčki apstraktni pojam.
+
+## [POZAJMLJENICA]
+
+Grčka ili druga strana reč preneta u slovenski.
+
+## [FILOZOFSKA UPOTREBA]
+
+Obična slovenska reč koja u kontekstu dobija filozofsko značenje.
+
+## [REKONSTRUKCIJA]
+
+Novi termin napravljen za filozofski jezik.
+
+Ne mešati ova tri nivoa.
+
+---
+
 # Količina
 
 Ne praviti više od:
 
 * 10–20 primera po pojmu;
-* ukupno 200–300 primera.
+* ukupno 200–300 najboljih primera.
 
 Kvalitet je važniji od količine.
-
----
-
-# Oznake
-
-Razlikovati:
-
-[POTVRĐENO]
-
-Primer direktno iz staroslovenskog korpusa.
-
-[PREVODILAČKI UZOR]
-
-Primer koji pokazuje način prevođenja grčkog apstraktnog pojma.
-
-[REKONSTRUKCIJA]
-
-Novi termin napravljen za filozofski jezik.
-
-Ne mešati ova tri nivoa.
