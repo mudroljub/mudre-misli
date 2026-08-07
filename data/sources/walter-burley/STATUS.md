@@ -1,25 +1,29 @@
 # Walter Burley - Status Ekstrakcije
 
-**Datum**: 2026-08-04  
-**Status**: ✅ Faza 1 - 76% kompletno
+**Datum**: 2026-08-07  
+**Status**: ✅ Faza 1 - 80% kompletno (+ Demosteni analiziran)
 
 ---
 
 ## 📊 Trenutno Stanje
 
-### Ekstraktovano: 25 filozofa
+### Ekstraktovano: 24 filozofa + 1 govornik (Demosteni)
 
-**Dva formata:**
+**Tri formata:**
 
 1. **`chapters/`** - Detaljne ekstrakcije (5 filozofa)
    - Sadrži: Latinski tekst + Španski prevod + Biografije + Analize + Izvori
    - Format: Markdown (.md)
    - Status: 5/5 Sedam mudraca
 
-2. **`latin_raw/`** - Sirovi latinski tekstovi (23 filozofa)
+2. **`latin_raw/`** - Sirovi latinski tekstovi (24 filozofa)
    - Sadrži: Samo latinski tekst bez analize
    - Format: Plain text (.txt)
-   - Status: 23 filozofa ekstraktovano
+   - Status: 24 filozofa/govornika ekstraktovano
+
+3. **ANALYSES** - Detaljne analize sa prevodima (NOVO!)
+   - `DEMOSTHENES_ANALYSIS.md` - Kompletna analiza sa SR i STSL prevodima
+   - Status: 1 analiza kompletirana
 
 ---
 
@@ -56,6 +60,7 @@
 21. ✅ parmenides.txt
 22. ✅ plato.txt
 23. ✅ aristotle.txt
+24. ✅ demosthenes.txt
 
 ---
 
@@ -63,7 +68,9 @@
 
 **Cilj**: Ekstraktovati 25 filozofa iz `data/authors.json`
 
-**Napredak**: **19/25 (76%)** ✅
+**Napredak**: **20/25 (80%)** ✅
+
+**NOVO (2026-08-07)**: Dodat Demosteni sa kompletnom analizom i JSON fajlom!
 
 ### ✅ Ekstraktovano (18):
 1. Tales (Thales)
@@ -186,6 +193,34 @@ Edit(file_path="STATUS.md", ...)
 
 ---
 
+## 🆕 Ažurirano 2026-08-07
+
+### DEMOSTENI - Kompletna Analiza
+
+**Status**: ✅ **KOMPLETNO ANALIZIRAN**
+
+**Kreirani fajlovi:**
+1. `data/quotes/Demosthenes.json` - 9 unosa (3 bio + 3 anecdote + 2 quote + 1 reported)
+2. `DEMOSTHENES_ANALYSIS.md` - Detaljni dokument sa:
+   - Originalnim latinskim tekstom
+   - Srpskim prevodom
+   - Staroslovenskim prevodom
+   - Kontekstom i analizom
+
+**Ključne anegdote (100% NOVO - ne nalazi se kod Diogenes Laertija):**
+1. **Fabula o vukovima i psima** - Politička alegorija protiv Filipa Makedonskog
+2. **Pravni slučaj sa depozitom** - Demonstracija pravne veštine
+3. **Lais i pokajanje** - Moralna čvrstina i duhovitost
+
+**Izvori koje Burley koristi:**
+- Valerius Maximus (VII, VIII)
+- Apuleius (De Magia)
+- Plutarch (implicitno)
+
+**Napomena**: Demosteni NIJE filozof, pa ga Diogenes Laertije ne pokriva. Burley je pruža kompletno nov pogled kroz tri ključne anegdote koje pokazuju njegovu političku mudrost, pravnu veštinu i moralnu čvrstinu.
+
+---
+
 **Autor ekstrakcije**: Mudre Misli projekat  
-**Datum**: 2026-08-04  
+**Datum**: 2026-08-07 (ažurirano)  
 **Licenca izvora**: Public Domain (Wikimedia Commons)

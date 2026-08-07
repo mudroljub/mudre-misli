@@ -376,8 +376,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Kada su Ksenofontu tokom prinošenja žrtve javili da mu je sin Gril poginuo kod Mantineje, skinuo je venac sa glave.",
-    "stsl": "Єгда Ксенофонтѹ при жрьтвоприношении възвѣстиша · ꙗko сынъ єго Грилъ при Мантинеи погибе · вѣньць съ главы снѧ ·",
+    "sr": "Kada su Ksenofontu tokom prinošenja žrtve javili da mu je sin Gril poginuo kod Mantineje, skinuo je venac sa glave. Nije prekinuo prinošenje žrtve bogovima, već se zadovoljio samo skidanjem venca.",
+    "stsl": "Єгда Ксенофонтѹ при жрьтвоприношении възвѣстиша · ꙗko сынъ єго Грилъ при Мантинеи погибе · вѣньць съ главы снѧ · Не прѣкиде жрьтвоприношениꙗ богомъ · нъ вѣньца тъкмо снѧтиємъ довольнъ бысть ·",
     "originalText": "Ὁ δὲ Γρύλλος τεταγμένος κατὰ τοὺς ἱππέας - ἦν δὲ ἡ μάχη περὶ Μαντίνειαν - ἰσχυρῶς ἀγωνισάμενος ἐτελεύτησεν. Τηνικαῦτα δὴ καὶ τὸν Ξενοφῶντά φασι θύειν ἐστεμμένον· ἀπαγγελθέντος δ' αὐτῷ τοῦ θανάτου ἀποστεφανώσασθαι.",
     "author": "Xenophon",
     "year": -362,
@@ -390,8 +390,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Saznavši zatim da je Gril hrabro poginuo, ponovo ga je stavio.",
-    "stsl": "Потомь же · ꙗko Грилъ храбро погибе · ѹвѣдѣвъ · пакы и възложи ·",
+    "sr": "Saznavši zatim da je Gril hrabro poginuo, hvaleći bogove ponovo ga je stavio.",
+    "stsl": "Потомь же · ꙗko Грилъ храбро погибе · ѹвѣдѣвъ · богы хвалѧ · пакы и възложи ·",
     "originalText": "ἔπειτα μαθόντα ὅτι γενναίως, πάλιν ἐπιθέσθαι τὸν στέφανον.",
     "author": "Xenophon",
     "year": -362,
@@ -441,6 +441,20 @@
       {
         "name": "diogenes-laertius",
         "reference": "II.65"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kada mu je neko bio podmukao, rekao je: Ti si svoje znanje posvetio podmuklavosti, ja sam, sa savešću kao svedokom, naučio da prezirem podmukle reči.",
+    "stsl": "Єгда нѣкто ємѹ лѹкавъ бѣ · рече · Ты ѹмѣние своє лѹкавьствѹ посвѧтилъ єси · азъ же · съвѣсти свидѣтельствѹѭщи · наѹчихъ сѧ лѹкавыѩ словеса презирати ·",
+    "originalText": "Cum quidam ei maledicentem se experiret, Tu studium tuum ad maledicendum dedisti, ego vero, consciencia teste, didici maledicta contemnere.",
+    "la": "Cum quidam ei maledicentem se experiret, Tu studium tuum ad maledicendum dedisti, ego vero, consciencia teste, didici maledicta contemnere.",
+    "author": "Xenophon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXXII (citing Aulus Gellius)"
       }
     ]
   }

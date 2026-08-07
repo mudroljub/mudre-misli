@@ -20,20 +20,13 @@ npm start
 
 ## TODO
 
-- proveriti previše rasečene i besmislene rečenice, koje su deo šire anegdote.
-- srediti izvore jer je obisan eng
-- dodati nove izvore
-- proveriti sr prevode na osnovu rečnika
-- dodati slike koje fale, prekopirati lokalno, izabrati bolje
-- čistiti redom sadržaj i ručno sređivati godine, brisati smeće i sl.
-- probati da samo najkraća izreka bude većim slovima
-- organizovati Sidebar autore 
-- obraditi podatke iz latinskog teksta
-- srediti jezičke rute
+- napravi zasebne jezičke rute. trenutno menjanje jezika radi, ali sr i stsl se prikazuju na istoj ruti.
 - dodati filozofski rečnik kao zasebnu stranicu
 - dodati preslovljavanje (vidi svete misli)
 - čistka (posebno Platon)
 - UI: različitim stilovima označavati vrste unosa
+- proveriti previše rasečene i besmislene rečenice, koje su deo šire anegdote.
+- proveriti sr prevode na osnovu rečnika
 
 ## Izvori
 

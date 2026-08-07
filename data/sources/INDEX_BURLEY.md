@@ -22,8 +22,8 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 ## Status ekstrakcije (2026-08-07)
 
 **Ukupno**: ~130 poglavlja (neki filozofi imaju više poglavlja)  
-**Ekstraktovano**: 43 figura (33%)  
-**Integrisano**: 7 filozofa (27 novih zapisa: Heraklit 1, Empedoklo 4, Diogen 9, Epikur 4, Antisten 3, Kratet 1, Zenon 5)
+**Ekstraktovano**: 44 figura (34%)  
+**Integrisano**: 10 figura (42 nova zapisa: Heraklit 1, Empedoklo 4, Diogen 9, Epikur 4, Antisten 3, Kratet 1, Zenon 5, Bijant 4, Ksenofont 1+proširenja, Demosteni 9, **Alkibijad 1**)
 
 ---
 
@@ -51,7 +51,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. V - Bias (Bijant)
 **Strana**: 32  
-**Status**: ✅  
+**Status**: ✅✅  
 **Iz Prijene, Sedam mudraca**
 
 ### Cap. VI - Cleobulus (Kleobul)
@@ -179,12 +179,12 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. XXXI - Aristippus (Aristip)
 **Strana**: 142  
-**Status**: ✅  
+**Status**: ✅✓  
 **Osnivač kirenaičke škole**
 
 ### Cap. XXXII - Xenophon (Ksenofont)
 **Strana**: 150  
-**Status**: ✅  
+**Status**: ✅✅  
 **Atinski istoričar i filozof**
 
 ### Cap. XXXIII - Antisthenes (Antisten)
@@ -194,8 +194,9 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. XXXIV - Alcibiades (Alkibijad)
 **Strana**: 153  
-**Status**: ✅  
-**Atinski državnik**
+**Status**: ✅✅  
+**Atinski državnik**  
+**NOVO**: 1 anegdota dodata u `data/quotes/Socrates.json` (Sokrat dovodi Alkibijada do suza)
 
 ### Cap. XXXV - Aeschines (Eshin)
 **Strana**: 156  
@@ -208,9 +209,10 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 **Tragični pesnik**
 
 ### Cap. XXXVII - Demosthenes (Demosten)
-**Strana**: 166  
-**Status**: ✅  
-**Atinski govornik**
+**Strana**: 160-163  
+**Status**: ✅✅  
+**Atinski govornik**  
+**NOVO**: 9 unosa (3 anegdote koje se NE NALAZE u Diog. Laertiju: fabula o vukovima i Filipu, pravni slučaj, Lais)
 
 ### Cap. XXXVIII - Sophocles (Sofokle)
 **Strana**: 168  
@@ -667,35 +669,32 @@ Svako ekstraktovano poglavlje sadrži:
 
 ---
 
-## Sledeći koraci
-
-### Prioriteti za integraciju:
-
-**VISOK** - Novi podaci pronađeni:
-- Diogen Kinik (8-10 novih anegdota za integraciju)
-
-**SREDNJI** - Za analizu:
-- Sokrat
-- Platon
-- Aristotel
-- Epikur
-- Seneka
-
-**NIZAK** - Već analizirani bez novih podataka:
-- Tales, Anaksimander, Anaksimen, Anaksagora, Pitagora
-- Demokrit, Parmenid, Zenon iz Eleje
-- Protagora
-
-### Strategija:
-
-Fokus na filozofe koji imaju najvi še ekstra materijala u srednjovekovnoj tradiciji i koji su relevantni za projekat.
-
----
-
 **Napomene:**
 - Redosled prati originalne Cap. I-CXXXII kako se pojavljuju u Knust izdanju (1886)
 - Neki kapituli pokrivaju više figura
 - Brojevi strana su iz originalnog izdanja
 - Neki kapituli nedostaju ili su nekompletni u ekstraktovanim fajlovima
 
-**Poslednji update**: 2026-08-07
+---
+
+## 🆕 Novosti (2026-08-07)
+
+### DEMOSTENI - Kompletna analiza ✅
+
+**Kreirano:**
+- `data/quotes/Demosthenes.json` (9 unosa)
+- `data/sources/walter-burley/DEMOSTHENES_ANALYSIS.md` (detaljni dokument)
+
+**Ključne karakteristike:**
+- Tri anegdote koje se **NE NALAZE** kod Diogenes Laertija (koji ne pokriva Demostena jer nije filozof)
+- Fabula o vukovima i psima - politička alegorija protiv Filipa Makedonskog
+- Pravni slučaj sa depozitom - demonstracija pravne veštine  
+- Anegdota sa Lais - moralna čvrstina i duhovitost
+- Srpski i staroslovenski prevodi svih tekstova
+- Izvori: Valerius Maximus, Apuleius
+
+**Značaj**: Walter Burley pruža **potpuno novu perspektivu** na Demostena kroz njegovu političku mudrost, pravnu genialnost i moralnu čvrstinu - materijal koji ne postoji nigde drugde u projektu.
+
+---
+
+**Poslednji update**: 2026-08-07 (Demosteni integrisan)

@@ -319,5 +319,61 @@
         "reference": "I.84"
       }
     ]
+  },
+  {
+    "type": "quote",
+    "sr": "Upitan šta je najbolje u ovom životu, odgovorio je: Um uvek svestan svoje ispravnosti.",
+    "stsl": "Вопрошенъ Биантъ · что єсть благо наибольшеє въ сємь животѣ · рече · Оумъ всегда сознающїи правость свою ·",
+    "originalText": "Interrogatus Bias quid sit in hac vita optimum, ait: Mens sibi semper rectitudinis conscia.",
+    "la": "Interrogatus Bias quid sit in hac vita optimum, ait: Mens sibi semper rectitudinis conscia.",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. V"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Prijatelja smatraj slavom svog života.",
+    "stsl": "Дрѹга своєго мьни славою живота твоєго ·",
+    "originalText": "Amici vitam tuam reputa gloriam.",
+    "la": "Amici vitam tuam reputa gloriam.",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. V"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Brzina čini dobročinstvo zahvalnijim.",
+    "stsl": "Скорость сотвораєтъ благодѣꙗніє благодарнѣише ·",
+    "originalText": "Celeritas beneficium gratias facit.",
+    "la": "Celeritas beneficium gratias facit.",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. V"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -600,
+    "sr": "Živeo u vreme judejskog kralja Sedekije; napisao 2000 stihova; po smrti mu posvećen hram.",
+    "stsl": "Живꙗаше во времѧ цара иꙋдейска Седекїи · написа два тысѧщѹ стихъ · по кончинѣ же єго посвѧщенъ бысть храмъ ·",
+    "originalText": "Vixit tempore Zedechia, regis Judae; scripsit duobus milibus carminibus res utiles; post mortem templum ei dedicatum est.",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. V"
+      }
+    ]
   }
 ]
