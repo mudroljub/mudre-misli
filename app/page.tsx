@@ -1,13 +1,5 @@
-import { quotesData } from '../lib/data';
-import HomeContent from '../components/HomeContent';
+import { redirect } from 'next/navigation';
 
-export default function HomePage() {
-  const randomIndex = Math.floor(Math.random() * quotesData.length);
-  const featured = quotesData[randomIndex];
-
-  if (!featured) {
-    return <main className="content">Nema dostupnih citata.</main>;
-  }
-
-  return <HomeContent featured={featured} />;
+export default function RootPage() {
+  redirect('/stsl');
 }

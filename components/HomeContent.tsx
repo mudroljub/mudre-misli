@@ -1,6 +1,5 @@
 'use client';
 
-import { useState } from 'react';
 import Sidebar from './Sidebar';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getTranslation } from '../lib/translations';
@@ -9,17 +8,17 @@ import QuoteCard from './QuoteCard';
 
 interface HomeContentProps {
   featured: Entry;
+  language: Language;
 }
 
-export default function HomeContent({ featured }: HomeContentProps) {
-  const [language, setLanguage] = useState<Language>('stsl');
+export default function HomeContent({ featured, language }: HomeContentProps) {
   const t = getTranslation(language);
 
   return (
     <main className="page-shell">
       <Sidebar language={language} />
       <section className="content">
-        <LanguageSwitcher currentLang={language} onChange={setLanguage} />
+        <LanguageSwitcher currentLang={language} />
         <h2>{t.randomQuote}</h2>
         <QuoteCard entry={featured} language={language} showAuthor />
       </section>

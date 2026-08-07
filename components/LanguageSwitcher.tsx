@@ -1,13 +1,13 @@
 'use client';
 
-import { useState } from 'react';
+import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { languages } from '../lib/data';
 import type { Language } from '../types/data';
 import styles from './LanguageSwitcher.module.scss';
 
 interface LanguageSwitcherProps {
-  currentLang?: Language;
-  onChange?: (language: Language) => void;
+  currentLang: Language;
 }
 
 const languageNames: Record<Language, string> = {
@@ -15,28 +15,33 @@ const languageNames: Record<Language, string> = {
   sr: 'Srpski',
 };
 
-export default function LanguageSwitcher({
-  currentLang = 'stsl',
-  onChange,
-}: LanguageSwitcherProps) {
-  const [selected, setSelected] = useState<Language>(currentLang);
+export default function LanguageSwitcher({ currentLang }: LanguageSwitcherProps) {
+  const pathname = usePathname();
 
-  const changeLanguage = (language: Language): void => {
-    setSelected(language);
-    onChange?.(language);
+  const getPathForLanguage = (language: Language): string => {
+    // Extract path segments after the language code
+    const segments = pathname.split('/').filter(Boolean);
+
+    // If current path starts with a language code, replace it
+    if (segments.length > 0 && languages.includes(segments[0] as Language)) {
+      segments[0] = language;
+      return `/${segments.join('/')}`;
+    }
+
+    // Otherwise prepend the language
+    return `/${language}${pathname === '/' ? '' : pathname}`;
   };
 
   return (
     <div className={styles.switch}>
       {languages.map((language) => (
-        <button
-          type="button"
+        <Link
           key={language}
-          onClick={() => changeLanguage(language)}
-          disabled={selected === language}
+          href={getPathForLanguage(language)}
+          className={currentLang === language ? styles.active : ''}
         >
           {languageNames[language]}
-        </button>
+        </Link>
       ))}
     </div>
   );

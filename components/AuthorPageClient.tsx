@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from "react";
 import Sidebar from "./Sidebar";
 import LanguageSwitcher from "./LanguageSwitcher";
 import { getAuthorName } from "../lib/data";
@@ -14,14 +13,15 @@ interface AuthorPageClientProps {
   author: string;
   authorData: AuthorData;
   authorEntries: Entry[];
+  language: Language;
 }
 
 export default function AuthorPageClient({
   author,
   authorData,
   authorEntries,
+  language,
 }: AuthorPageClientProps) {
-  const [language, setLanguage] = useState<Language>("stsl");
   const t = getTranslation(language);
   const authorName = getAuthorName(author, language);
 
@@ -53,7 +53,7 @@ export default function AuthorPageClient({
       <Sidebar language={language} />
 
       <section className={styles.content}>
-        <LanguageSwitcher currentLang={language} onChange={setLanguage} />
+        <LanguageSwitcher currentLang={language} />
 
         <h2>{authorName}</h2>
 

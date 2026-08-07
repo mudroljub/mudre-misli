@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
 import Sidebar from "./Sidebar";
 import LanguageSwitcher from "./LanguageSwitcher";
 import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName } from "../lib/data";
@@ -12,13 +11,14 @@ import styles from "./QuotePageClient.module.scss";
 interface QuotePageClientProps {
   quote: Entry;
   authorData?: AuthorData;
+  language: Language;
 }
 
 export default function QuotePageClient({
   quote,
   authorData,
+  language,
 }: QuotePageClientProps) {
-  const [language, setLanguage] = useState<Language>("stsl");
   const t = getTranslation(language);
   const authorKey = Array.isArray(quote.author) ? quote.author[0] : quote.author;
   const authorName = getAuthorName(authorKey, language);
@@ -27,7 +27,7 @@ export default function QuotePageClient({
     <main className="page-shell">
       <Sidebar language={language} />
       <section className="content">
-        <LanguageSwitcher currentLang={language} onChange={setLanguage} />
+        <LanguageSwitcher currentLang={language} />
         <div className={styles.card}>
           {authorData?.src ? (
             <img src={authorData.src} alt={authorName} />
@@ -48,7 +48,7 @@ export default function QuotePageClient({
             ))}
           </p>
 
-          <Link href={`/authors/${authorSlugs[authorKey] ?? authorKey}`}>
+          <Link href={`/${language}/authors/${authorSlugs[authorKey] ?? authorKey}`}>
             {t.gotoAuthor}
           </Link>
         </div>

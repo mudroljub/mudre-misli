@@ -37,12 +37,12 @@ export default function Sidebar({ language }: SidebarProps) {
 
     const slug = authorSlugs[authorKey];
     const displayName = t.philosophers[authorKey as keyof typeof t.philosophers] || authorKey;
-    const isActive = pathname === `/authors/${slug}`;
+    const isActive = pathname === `/${language}/authors/${slug}`;
 
     return (
       <Link
         key={authorKey}
-        href={`/authors/${slug}`}
+        href={`/${language}/authors/${slug}`}
         className={`${styles.author} ${isActive ? styles.active : ''}`}
       >
         <span>{displayName}</span>
@@ -61,7 +61,7 @@ export default function Sidebar({ language }: SidebarProps) {
       </button>
 
       <aside className={`${styles.sidebar} ${isOpen ? styles.open : styles.closed}`}>
-        <h2><Link href="/">{t.siteTitle}</Link></h2>
+        <h2><Link href={`/${language}`}>{t.siteTitle}</Link></h2>
         <nav>
           {authorGroups.map((group) => {
             const groupKey = `${group.titleKey}-${group.period}`;
