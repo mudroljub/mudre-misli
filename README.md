@@ -20,7 +20,6 @@ npm start
 
 ## TODO
 
-- dodati filozofski rečnik kao zasebnu stranicu
 - dodati preslovljavanje (vidi svete misli)
 - čistka (posebno Platon)
 - UI: različitim stilovima označavati vrste unosa

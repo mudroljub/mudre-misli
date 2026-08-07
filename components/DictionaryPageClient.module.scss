@@ -26,8 +26,12 @@
       tr {
         border-bottom: 1px solid $color-border;
 
+        &:nth-child(even) {
+          background: rgba(0, 0, 0, 0.02);
+        }
+
         &:hover {
-          background: rgba($color-primary, 0.02);
+          background: rgba($color-primary, 0.05);
         }
 
         &:last-child {
@@ -39,21 +43,11 @@
         padding: $spacing-xs $spacing-md;
         font-size: 15px;
         vertical-align: top;
+        color: $color-text;
 
         &.greek {
-          font-family: 'Times New Roman', serif;
+          width: 25%;
           color: $color-text-light;
-          min-width: 150px;
-        }
-
-        &.stsl {
-          font-family: $font-family-base;
-          min-width: 250px;
-        }
-
-        &.sr {
-          color: $color-text-light;
-          min-width: 200px;
         }
       }
     }
