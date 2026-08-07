@@ -64,7 +64,7 @@
 | ἐλευθερία         | волѧ *(alt: свобода)*                 | sloboda                         |
 | ἐλπίς             | надѣжда                               | nada                            |
 | ἕν                | єдно *(alt: єдино)*                   | jedno                           |
-| ἐνέργεια          | дѣиствиє                              | delatnost, energija             |
+| ἐνέργεια          | дѣиствиє                              | dejstvo                         |
 | ἔννοια            | мыслъ, мꙑшлениѥ                      | мисао, мишљење                   |
 | ἕνωσις            | съєдинєніє                            | sjedinjenje                     |
 | ἐπίσταμαι         | наѹчити сѧ                            | naučiti se                      |
@@ -72,19 +72,19 @@
 | ἐπιστήμη          | наѹка                                 | nauka, nauk                     |
 | ἐπιστήμων         | наѹчьникъ                             | naučnik                         |
 | ἐπιστητός         | наѹчимо                               | naučivo                         |
-| ἔρως              | любовь                                | erotska ljubav                  |
-| εὐδαιμονία        | блаженьство                           | blaženstvo, sreća               |
-| εὐθυμία           | благодѹшиє                            | spokojstvo duha                 |
-| ζωή               | животъ                                | život (životnost, egzistencija) |
+| ἔρως              | любовь                                | ljubav                          |
+| εὐδαιμονία        | блаженьство                           | blaženstvo                      |
+| εὐθυμία           | благодѹшиє                            | blagodušje                      |
+| ζωή               | животъ                                | život                           |
 | ζῷον              | животно                               | živo biće, životinja            |
 | ἡδονή             | сластъ                                | zadovoljstvo                    |
-| ἦθος              | нравъ                                 | karakter, narav                 |
-| ἥρως              | витѧзь *(alt: щититель)*              | heroj                           |
+| ἦθος              | нравъ                                 | narav                           |
+| ἥρως              | витѧзь *(alt: щититель)*              | junak                           |
 | θάνατος           | смрьть                                | smrt                            |
 | θεός              | богъ                                  | bog                             |
 | θέσις             | ставъ                                 | stav                            |
-| θεωρία            | зрѣніє                                | posmatranje, teorija            |
-| ἰδέα              | видъ                                  | ideja, oblik                    |
+| θεωρία            | зрѣніє                                | motrenje                        |
+| ἰδέα              | видъ                                  | lik                             |
 | ἴδιος             | свои                                  | svoj                            |
 | ἰσότης            | равьность                             | jednakost                       |
 | κακόν             | зло                                   | zlo                             |
@@ -101,10 +101,10 @@
 | λόγος             | слово                                 | slovo, sloves                   |
 | λόγος σπερματικός | словесьно сѣмѧ *(alt: сѣмьноє слово)* | slovesno seme                   |
 | λύπη              | печаль                                | tuga                            |
-| μανία             | безумьѥ                               | безумље                         |
+| μανία             | безумьѥ                               | bezumlje                        |
 | μεταβολή          | прѣмѣненіє                            | promena                         |
 | μέτρον            | мѣра                                  | mera                            |
-| μονάς             | єдиница *(alt: єдно, єдиньство)*      | monada                          |
+| μονάς             | єдиница *(alt: єдно, єдиньство)*      | jedinica (alt: jedno)           |
 | μορφή             | образъ                                | oblik                           |
 | νεῖκος            | вражда                                | razdor                          |
 | νοέω              | поѩти                                 | pojmiti                         |
@@ -117,15 +117,15 @@
 | ὄν / τὸ ὄν        | сѫщее                                 | biće                            |
 | ὄντα / τὰ ὄντα    | сѫщаѧ                                 | bića                            |
 | οὐσία             | сѫщьство (alt: имѣніє)                | suština (alt: imovina)          |
-| πάθος             | страданіє *(alt: страсть)*            | strast, trpljenje               |
+| πάθος             | страданіє *(alt: страсть)*            | strast (alt: stradanje)         |
 | παιδεία           | възпитаніє                            | vaspitanje, odgoj               |
 | πάντα             | всѧ                                   | sve                             |
-| πέρας             | прѣдѣлъ                               | granica                         |
+| πέρας             | прѣдѣлъ                               | međa                            |
 | πλῆθος            | множьство                             | mnoštvo                         |
 | πνεῦμα            | дѹхъ *(alt: дъхъ)*                    | duh (alt: dah)                  |
 | πνέω              | дъхати                                | duvati, disati                  |
 | πνοή              | дъханіє                               | dah, disanje                    |
-| πόλις             | градъ                                 | grad, polis                     |
+| πόλις             | градъ                                 | grad                            |
 | πολίτης           | градьнинъ                             | građanin                        |
 | πολλοί            | мнози                                 | mnogi                           |
 | πρᾶξις            | дѣло                                  | delo                            |
@@ -134,23 +134,23 @@
 | σοφία             | мѫдрость                              | mudrost                         |
 | στάσις            | стояніє *(alt: покои)*                | mirovanje                       |
 | στίχος            | рѣчь *(alt: рѧдъ, стихъ)*             | stih                            |
-| στοιχεῖον         | съставъ                               | element                         |
+| στοιχεῖον         | съставъ                               | sastojak                        |
 | σῶμα              | тѣло                                  | telo                            |
 | τάξις             | чинъ *(alt: рѧдъ, строи)*             | poredak                         |
-| τέλος             | коньць *(alt: цѣль)*                  | kraj, cilj                      |
+| τέλος             | коньць *(alt: съвьршениѥ)*            | svršetak                        |
 | τέχνη             | вѣштина                               | veština                         |
 | τεχνικός          | вѣштнъ                                | vešt                            |
 | τεχνίτης          | вѣштникъ, вѣштница                    | veštak, veštica                 |
-| τὸ εἶναι          | бытиє                                 | bitije, bivstvovanje            |
+| τὸ εἶναι          | бытиє                                 | bitije, bivanje                 |
 | τόπος             | мѣсто                                 | mesto                           |
-| τύχη              | приклѹчаи *(alt: съчастьє)*           | sreća, slučaj                   |
+| τύχη              | приклѹчаи *(alt: съчастьє)*           | slučaj                          |
 | ὕδωρ              | вода                                  | voda                            |
 | ὕλη               | тварь *(alt: вещь)*                   | tvar *(alt: stvar)*             |
 | φθορά             | тлѣніє                                | propadanje                      |
 | φιλία             | дрѹжьба                               | prijateljstvo                   |
-| φιλοσοφία         | любомѫдриє                            | filozofija, mudroljublje        |
-| φιλόσοφος         | любомѫдрьць                           | filozof, mudroljub              |
-| φιλότης           | любовь                                | ljubav (Empedoklov termin)      |
+| φιλοσοφία         | любомѫдриє                            | mudroljublje (alt. filozofija)  |
+| φιλόσοφος         | любомѫдрьць                           | mudroljub (alt. filozof)        |
+| φιλότης           | любовь                                | ljubav                          |
 | φόβος             | страхъ                                | strah                           |
 | φρόνησις          | разборъ                               | razbor, razboritost             |
 | φρόνιμος          | разборьнъ                             | razborit                        |
