@@ -124,5 +124,65 @@
         "reference": "X.22"
       }
     ]
+  },
+  {
+    "type": "quote",
+    "year": -300,
+    "sr": "Osuđuje svaku muku i bol, proglašavajući umerenu prezirivom, a veliku ne dugotrajnom.",
+    "stsl": "Ѡсѫждаєть всѧкѫѭ мѫкѫ і воль · проглашаꙗ ѹмѣрєнѫѭ прєꙁривоѭ · а вєликѫѭ нє дълготраинѫѭ.",
+    "originalText": "omnem cruciatum doloremque dampnat, modicum quidem contempibilem pronunciando, magnum vero non diuturnum",
+    "la": "omnem cruciatum doloremque dampnat, modicum quidem contempibilem pronunciando, magnum vero non diuturnum",
+    "author": "Epicurus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. LXIV"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "year": -300,
+    "sr": "Treba retko uživati u bračnim radostima jer mnoge neprijatnosti su pomešane sa brakom.",
+    "stsl": "Подоваитъ рѣдко наслаждатисѧ врачьнꙑми радостьми · ꙗko мноꙃи нєприꙗтьности сѫть помѣшанꙑ съ вракомъ.",
+    "originalText": "utendi raro incunda coniugia quia multa incommoda admixta sunt nupciis",
+    "la": "utendi raro incunda coniugia quia multa incommoda admixta sunt nupciis",
+    "author": "Epicurus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. LXIV"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "year": -300,
+    "sr": "Bogatstva i počasti i telesno zdravlje i ostalo što donosi razlike nisu ni dobra ni zla, nego kao postavljeni u sredini, upotrebom i ishodom postaju ili dobri ili zli.",
+    "stsl": "Вогатьства і почьсти і тѣлєсьно ꙁдравиє і прочєє єжє приноситъ раꙁличиꙗ нє сѫть ни вльга ни ꙁьла · нъ ꙗко поставлєни въ срѣдинѣ · ѹпотрєвлєниємь і їсходомь постаѭть ли вльꙃи ли ꙁьли.",
+    "originalText": "divicie et honores et corporum sanitates et cetera que differencias parant namus nec bona nec mala aunt, sed velut in meditullo posita, usi et eventu vel bona vel mala aunt",
+    "la": "divicie et honores et corporum sanitates et cetera que differencias parant namus nec bona nec mala aunt, sed velut in meditullo posita, usi et eventu vel bona vel mala aunt",
+    "author": "Epicurus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. LXIV"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "year": -300,
+    "sr": "Žene su smeštene na granici između dobrih i loših stvari. Teško je pak uzdahnuvši doći u sumnju da li će dobru ili lošu uzeti.",
+    "stsl": "Жєнꙑ сѫть помѣщєнꙑ на граници мєждѹ вльгꙑми і лошими вєщьми · Тѧжько єсть жє въꙁдохънѫвъ прїити въ сѫмънѣниє ли добрѫѭ ли лошѫѭ поꙗти.",
+    "originalText": "uxores [sitae] in bonorum maliorumque confinio. Grave est autem suspirati venire in dubium utrum bonam vel malam ducturus sit.",
+    "la": "uxores [sitae] in bonorum maliorumque confinio. Grave est autem suspirati venire in dubium utrum bonam vel malam ducturus sit.",
+    "author": "Epicurus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. LXIV"
+      }
+    ]
   }
 ]

@@ -1108,5 +1108,50 @@
         "reference": "VI.18–19"
       }
     ]
+  },
+  {
+    "type": "anecdote",
+    "year": -430,
+    "sr": "Pošto je slavno učio retoriku i pokazao veštinu govora i svojim učenicima, rekao im je: 'Odlazite. Potražite sebi učitelja. Ja sam već pronašao svog.' I odmah prodao ono što je imao i javno podelio, ne zadržavši ništa osim jednog ogrtača.",
+    "stsl": "По томь ꙗко славьно риторикѹ поѹчааше и показа ѹмѣниє глаголаниꙗ и своимъ ѹченикомъ · рече їмъ · Отъходитє · Потражитє сєбѣ ѹчителѧ · Азъ вєжє обрѣтохъ своєго · И абиє продадє то · єже имꙗашє · и всєнародьно раꙁдали · нє ѹдръжавъ ничтожє кромѣ єдиного плашта.",
+    "originalText": "cum gloriose rhetoricum docuisset et adviseisset decere dicti et discipulos suos: Abite. Magistrum vobis querite. Ego eum iam repperi. Statimque vendidit que habebat et publice distributis, nichil sibi nisi unum palliolium reservavit.",
+    "la": "cum gloriose rhetoricum docuisset et adviseisset decere dicti et discipulos suos: Abite. Magistrum vobis querite. Ego eum iam repperi. Statimque vendidit que habebat et publice distributis, nichil sibi nisi unum palliolium reservavit.",
+    "author": "Antisthenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXXIII (citing Hieronymus, Ad Jovinianum II)"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "year": -420,
+    "sr": "Kada mu je neko rekao: 'Ovaj te je proklinjao', odgovorio je: 'Ne umanjuje mene, već onoga ko u sebi prepoznaje ono što govori.'",
+    "stsl": "Єгда ємѹ нѣкто рече · Сєи тѧ проклє · отвѣшта · Нє ѹманѧєть менє · нъ онаго · ꙇжє въ сєбѣ познаваєть то · єже глаголєть.",
+    "originalText": "Cui dam dicenti sibi: Hic maledixit tibi, ille ait: Non michi detrahit, sed illi qui in se hoc quod dicit agnosci.",
+    "la": "Cui dam dicenti sibi: Hic maledixit tibi, ille ait: Non michi detrahit, sed illi qui in se hoc quod dicit agnosci.",
+    "author": "Antisthenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXXIII (citing Hieronymus, Ad Jovinianum II)"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "year": -420,
+    "sr": "Kada mu je drugi rekao: 'O tebi ljudi govore rđavo', odgovorio je: 'To se dešava zato što je deo višeg čoveka to trpeti, a nižeg to činiti.'",
+    "stsl": "Єgда ємѹ дрѹгыи рече · О тєбѣ чловѣци ꙁьло глаголѭть · отвѣшта · То бываєть · зане єсть чѧсть вышааго чловѣка то тръпѣти · а нижааго то творити.",
+    "originalText": "Alteri dicenti: De te homine male loquuntur, ait: Hoc fit, quia plus perioria persone est hoc pati, inferioris hoc facere.",
+    "la": "Alteri dicenti: De te homine male loquuntur, ait: Hoc fit, quia plus perioria persone est hoc pati, inferioris hoc facere.",
+    "author": "Antisthenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXXIII (citing Hieronymus, Ad Jovinianum II)"
+      }
+    ]
   }
 ]

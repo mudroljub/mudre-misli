@@ -238,5 +238,77 @@
         "reference": "VII.28"
       }
     ]
+  },
+  {
+    "type": "quote",
+    "year": -280,
+    "sr": "Sreća mi nalaže da slobodnije filozofiram.",
+    "stsl": "Срєща налагаєть ми да свободнѣишє філософїрѫ.",
+    "originalText": "Iubet me fortuna expeditius philosophari",
+    "la": "Iubet me fortuna expeditius philosophari",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXV (citing Seneca, De Tranquillitate Animi)"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "year": -280,
+    "sr": "Pošto ste vas dvoje sami, kako vas jedna kuća može sadržati, brbljivce?",
+    "stsl": "Понєжє єста ваꙇ двоє самї · како ваꙇ єдьна хꙑжа можєть съдрьжати · брьбливьцї?",
+    "originalText": "Cum duo soli estis, quo modo capit vos una domus loquaeos?",
+    "la": "Cum duo soli estis, quo modo capit vos una domus loquaeos?",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXV"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Neka bude pokopan kod tebe govor koji si sam čuo.",
+    "stsl": "Да бѫдєть погрєбєнъ ѹ тєбє словѡ єжє самъ слꙑшалъ єсі.",
+    "originalText": "Sepultus sit apud te sermo quem solus audieris",
+    "la": "Sepultus sit apud te sermo quem solus audieris",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXV"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Prepoznaj laskavog čoveka koji govori pitko kao svoju zamku.",
+    "stsl": "Познаі льстїваго чловѣка їжє глаголєть слаткѡ ꙗko своѭ ꙁамкѫ.",
+    "originalText": "Malum hominem blande loquentem agnosce tuum laqueum esse",
+    "la": "Malum hominem blande loquentem agnosce tuum laqueum esse",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXV"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ako želiš biti sa mnom, slušaj me posvećenim ušima.",
+    "stsl": "Ащє жєлѣєши бꙑти съ мъноѭ · слѹшаі мѧ посвѧщєнꙑми ѹшима.",
+    "originalText": "Si cupis quare mecum sis, me audires auribus sacris",
+    "la": "Si cupis quare mecum sis, me audires auribus sacris",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXV"
+      }
+    ]
   }
 ]

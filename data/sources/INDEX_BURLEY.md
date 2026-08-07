@@ -22,8 +22,8 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 ## Status ekstrakcije (2026-08-07)
 
 **Ukupno**: ~130 poglavlja (neki filozofi imaju više poglavlja)  
-**Ekstraktovano**: 42 figura (32%)  
-**Integrisano**: 3 filozofa (14 novih zapisa: Heraklit 1, Empedoklo 4, Diogen 9)
+**Ekstraktovano**: 43 figura (33%)  
+**Integrisano**: 7 filozofa (27 novih zapisa: Heraklit 1, Empedoklo 4, Diogen 9, Epikur 4, Antisten 3, Kratet 1, Zenon 5)
 
 ---
 
@@ -121,7 +121,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. XIX - Crates (Kret)
 **Strana**: 56  
-**Status**: ✅  
+**Status**: ✅✅  
 **Kinik**
 
 ### Cap. XX - Stilpo (Stilpon)
@@ -151,7 +151,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. XXV - Zeno Citieus (Zenon iz Kitijuma)
 **Strana**: 94  
-**Status**: ✅  
+**Status**: ✅✅  
 **Osnivač stoicizma**
 
 ### Cap. XXVI - Gorgias (Gorgija)
@@ -189,7 +189,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. XXXIII - Antisthenes (Antisten)
 **Strana**: 152  
-**Status**: ✅  
+**Status**: ✅✅  
 **Osnivač kinizma**
 
 ### Cap. XXXIV - Alcibiades (Alkibijad)
@@ -336,7 +336,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. LXIV - Epicurus (Epikur)
 **Strana**: 272  
-**Status**: ✅  
+**Status**: ✅✅  
 **Osnivač epikurejske škole**
 
 ### Cap. LXV - Herodotus (Herodot)

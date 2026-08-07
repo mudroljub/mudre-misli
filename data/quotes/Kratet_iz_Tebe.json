@@ -212,5 +212,20 @@
         "reference": "VI.93"
       }
     ]
+  },
+  {
+    "type": "anecdote",
+    "year": -340,
+    "sr": "Bacio veliko breme zlata u more govoreći: 'Idite, najgore bogatstvo. Pre ću ja vas potopiti nego što ćete vi mene.' Nije verovao da može istovremeno imati vrline i bogatstvo.",
+    "stsl": "Въврьже велико бремѧ ꙁлата въ море глаголѧ · Ідѣте · наигорьшее богатьство · Прѣждє васъ потоплѭ нежели вы менє потопите · Не вѣроваше бо ꙗko можеть вькупѣ имѣти добродѣтель и богатьство.",
+    "originalText": "magnum pondus auri in mare proiecit dicens: Abite, divicias pessime. Eigo pocius vos mergam quam ipse mergar a vobis. Non enim putavit se simul virtutes et divicias possidere posse.",
+    "la": "magnum pondus auri in mare proiecit dicens: Abite, divicias pessime. Eigo pocius vos mergam quam ipse mergar a vobis. Non enim putavit se simul virtutes et divicias possidere posse.",
+    "author": "Crates of Thebes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XIX (citing Hieronymus, Ep. XVIII)"
+      }
+    ]
   }
 ]
