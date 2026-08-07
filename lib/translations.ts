@@ -11,6 +11,7 @@ export interface Translations {
   goHome: string;
   sectionQuotes: string;
   sectionLife: string;
+  sectionOthersAbout: string;
   bce: string;
   wikipedia: string;
   sidebarGroups: {
@@ -130,6 +131,7 @@ export const translations: Record<Language, Translations> = {
     goHome: 'Въ начѧло',
     sectionQuotes: 'Изрѣчєніꙗ',
     sectionLife: 'Житіє',
+    sectionOthersAbout: 'Споминаниꙗ',
     bce: 'п.н.є.',
     wikipedia: 'Википєдїꙗ',
     sidebarGroups: {
@@ -247,6 +249,7 @@ export const translations: Record<Language, Translations> = {
     goHome: 'Početna',
     sectionQuotes: 'Izreke',
     sectionLife: 'Život',
+    sectionOthersAbout: 'Spominjanja',
     bce: 'p.n.e.',
     wikipedia: 'Vikipedija',
     sidebarGroups: {

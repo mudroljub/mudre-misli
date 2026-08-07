@@ -25,9 +25,21 @@ export default function AuthorPageClient({
   const t = getTranslation(language);
   const authorName = getAuthorName(author, language);
 
+  // Separate own quotes from cross-references
+  // Simple rule: multiple authors = cross-reference (goes to "Spominjanja")
+  const isCrossReference = (entry: Entry) => {
+    const authors = Array.isArray(entry.author) ? entry.author : [entry.author];
+    return authors.length > 1;
+  };
+
   const quotesSection = authorEntries.filter(
     (entry): entry is Saying =>
-      entry.type === "quote" || entry.type === "reported",
+      (entry.type === "quote" || entry.type === "reported") && !isCrossReference(entry),
+  );
+
+  const crossReferencesSection = authorEntries.filter(
+    (entry): entry is Saying =>
+      (entry.type === "quote" || entry.type === "reported") && isCrossReference(entry),
   );
 
   const lifeEventsSection = authorEntries
@@ -83,6 +95,22 @@ export default function AuthorPageClient({
 
             <div className={styles.grid}>
               {quotesSection.map((entry) => (
+                <QuoteCard
+                  key={entry._id}
+                  entry={entry}
+                  language={language}
+                />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {crossReferencesSection.length > 0 && (
+          <section className={styles.authorSection}>
+            <h3>{t.sectionOthersAbout}</h3>
+
+            <div className={styles.grid}>
+              {crossReferencesSection.map((entry) => (
                 <QuoteCard
                   key={entry._id}
                   entry={entry}
