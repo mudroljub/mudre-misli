@@ -25,6 +25,8 @@ const romanToNumber = {
   VIII: 8,
   IX: 9,
   X: 10,
+  XI: 11,
+  XII: 12,
 }
 const sourceIndexCache = new Map()
 
@@ -172,7 +174,7 @@ for (const file of files) {
 // Second pass: add anchors to pointers with collisions
 const byPointer = new Map()
 allQuotes.forEach((quote, index) => {
-  if (quote.pointer && quote.el) {
+  if (quote.pointer && quote.originalText) {
     if (!byPointer.has(quote.pointer)) {
       byPointer.set(quote.pointer, [])
     }
@@ -184,14 +186,14 @@ byPointer.forEach((items, basePointer) => {
   if (items.length > 1) {
     // Collision detected - add anchors
     items.forEach(({ quote, index }) => {
-      const text = quote.el
+      const text = quote.originalText
 
       // Find minimum anchor length for uniqueness
       let anchor = ''
       for (let len = 5; len <= Math.min(50, text.length); len++) {
         const candidate = text.substring(0, len)
         const matches = items.filter(
-          item => item.quote.el.startsWith(candidate)
+          item => item.quote.originalText.startsWith(candidate)
         )
         if (matches.length === 1) {
           anchor = candidate
