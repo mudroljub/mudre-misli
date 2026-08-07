@@ -43,6 +43,31 @@ Izbegavati:
 
 Staroslovenski je bez znakova interpunkcije, osim srednje tačke · koja menja sve ostale znake (.,;:) 
 
+## Ritam i duh staroslovenske rečenice
+
+Najvažnije: slediti duh i ritam stare slovenske rečenice, ne samo pravila grafije i terminologije.
+
+Staroslovenska filozofska rečenica je:
+
+* **Kratka i težinska** — izbegavati suvišne reči
+* **Ritmična** — prirodan slovenski red reči, ne grčka konstrukcija
+* **Partikule umesto veznika** — "бо" umesto "ꙗко" za kauzalnost
+* **Minimalan glagol "biti"** — koristiti "єсть" samo kada je neophodno za smisao
+* **Bez sufiksa pojačavanja** — umesto "наи-" koristiti prosto "велиіи", "мѫдро"
+
+Primeri dobrog ritma:
+
+* ❌ Наиборзо єсть ѹмъ · ꙗко вьсѹдѹ тькъно течєть ·
+* ✅ Борзъ ѹмъ · чрєꙁъ вьсѧ бо прѣтечєть ·
+
+* ❌ Отъ вьсѣхъ сѫщиихъ наистарьши єсть Богъ · ꙗко нерожденъ єсть ·
+* ✅ Прьвѣи вьсѣхъ сѫщиихъ Богъ · нерожденъ бо єсть ·
+
+* ❌ Начѧло же вьсѣмь вода поставлѧєть ·
+* ✅ Начѧло вьсѣмь вода ·
+
+Reč treba da zvuči kao prava staroslovenska filosofska izreka iz VIII veka, ne kao mehanički prenos grčke strukture.
+
 ## Transkripcija imena
 
 Grčka vlastita imena prenositi prema grčkom izvorniku, a ne prema kasnijim tradicionalnim slovenskim oblicima.
