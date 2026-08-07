@@ -1,547 +1,196 @@
 {
-  "source": "hermann-diels-fragmente-der-vorsokratiker-1912",
-  "band": 1,
-  "totalLines": 27351,
+  "source": "Internet Archive b24869673",
+  "title": "Die Fragmente der Vorsokratiker, griechisch und deutsch",
+  "edition": "1. Auflage, 1903",
+  "ocr": "Tesseract 5.1.0 (2022) with Greek support (-l deu+grc)",
+  "ocrQuality": "Excellent - clean Unicode Greek text",
+  "totalLines": 44337,
+  "totalPhilosophers": 54,
+  "philosophersWithFragments": 16,
+  "extracted": 16,
+  "notes": "All 16 philosophers with B. FRAGMENTE sections extracted from 1903 edition with clean OCR.",
   "philosophers": [
-    {
-      "number": "1",
-      "name": "Thales",
-      "nameDe": "Thales",
-      "startLine": 513,
-      "endLine": 1364,
-      "page": 1,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "2",
-      "name": "Anaximander",
-      "nameDe": "Anaximandros",
-      "startLine": 1365,
-      "endLine": 1893,
-      "page": 14,
-      "hasFragmente": false,
-      "notes": ""
-    },
     {
       "number": "3",
       "name": "Anaximenes",
       "nameDe": "Anaximenes",
-      "startLine": 1894,
-      "endLine": 2267,
-      "page": 22,
+      "startLine": 1743,
+      "endLine": 2023,
+      "totalLines": 281,
       "hasFragmente": true,
-      "notes": ""
-    },
-    {
-      "number": "4",
-      "name": "Pythagoras",
-      "nameDe": "Pythagoras",
-      "startLine": 2268,
-      "endLine": 2717,
-      "page": 27,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "5",
-      "name": "Cercops",
-      "nameDe": "Kerkops",
-      "startLine": 2718,
-      "endLine": 2731,
-      "page": 35,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "6",
-      "name": "Petron",
-      "nameDe": "Petron",
-      "startLine": 2732,
-      "endLine": 2747,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "7",
-      "name": "Brotinos",
-      "nameDe": "Brotinos",
-      "startLine": 2748,
-      "endLine": 2799,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "8",
-      "name": "Hippasos",
-      "nameDe": "Hippasos",
-      "startLine": 2800,
-      "endLine": 3079,
-      "page": 36,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "9",
-      "name": "Kalliphon und Demokedes",
-      "nameDe": "Kalliphon und Demokedes",
-      "startLine": 3080,
-      "endLine": 3117,
-      "page": 39,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "10",
-      "name": "Parmiskos",
-      "nameDe": "Parmiskos",
-      "startLine": 3118,
-      "endLine": 3153,
-      "page": 41,
-      "hasFragmente": false,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/03-Anaximenes.txt"
     },
     {
       "number": "11",
       "name": "Xenophanes",
       "nameDe": "Xenophanes",
-      "startLine": 3154,
-      "endLine": 4771,
-      "page": 42,
+      "startLine": 2736,
+      "endLine": 4100,
+      "totalLines": 1365,
       "hasFragmente": true,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/11-Xenophanes.txt",
+      "inProject": true
     },
     {
       "number": "12",
       "name": "Heraclitus",
       "nameDe": "Herakleitos",
-      "startLine": 4772,
-      "endLine": 7586,
-      "page": 67,
+      "startLine": 4101,
+      "endLine": 6509,
+      "totalLines": 2409,
       "hasFragmente": true,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/12-Heraclitus.txt",
+      "inProject": true
     },
     {
       "number": "13",
-      "name": "Epicharmus",
+      "name": "Epicharmos",
       "nameDe": "Epicharmos",
-      "startLine": 7587,
-      "endLine": 8711,
-      "page": 113,
+      "startLine": 6510,
+      "endLine": 7427,
+      "totalLines": 918,
       "hasFragmente": true,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/13-Epicharmos.txt"
     },
     {
       "number": "14",
       "name": "Alcmaeon",
       "nameDe": "Alkmaion",
-      "startLine": 8712,
-      "endLine": 9063,
-      "page": 131,
+      "startLine": 7428,
+      "endLine": 7748,
+      "totalLines": 321,
       "hasFragmente": true,
-      "notes": ""
-    },
-    {
-      "number": "15",
-      "name": "Ikkos",
-      "nameDe": "Ikkos",
-      "startLine": 9064,
-      "endLine": 9094,
-      "page": 137,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "16",
-      "name": "Paron",
-      "nameDe": "Paron",
-      "startLine": 9095,
-      "endLine": 9107,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "17",
-      "name": "Ameinias",
-      "nameDe": "Ameinias",
-      "startLine": 9108,
-      "endLine": 9121,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/14-Alcmaeon.txt"
     },
     {
       "number": "18",
       "name": "Parmenides",
       "nameDe": "Parmenides",
-      "startLine": 9122,
-      "endLine": 10756,
-      "page": 138,
+      "startLine": 7749,
+      "endLine": 9013,
+      "totalLines": 1265,
       "hasFragmente": true,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/18-Parmenides.txt",
+      "inProject": true
     },
     {
       "number": "19",
       "name": "Zeno",
       "nameDe": "Zenon",
-      "startLine": 10757,
-      "endLine": 11436,
-      "page": 165,
+      "startLine": 9014,
+      "endLine": 9589,
+      "totalLines": 576,
       "hasFragmente": true,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/19-Zeno.txt",
+      "inProject": true
     },
     {
       "number": "20",
       "name": "Melissus",
       "nameDe": "Melissos",
-      "startLine": 11437,
-      "endLine": 12508,
-      "page": 176,
+      "startLine": 9590,
+      "endLine": 10672,
+      "totalLines": 1083,
       "hasFragmente": true,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/20-Melissus.txt"
     },
     {
       "number": "21",
       "name": "Empedocles",
       "nameDe": "Empedokles",
-      "startLine": 12509,
-      "endLine": 18025,
-      "page": 193,
+      "startLine": 10673,
+      "endLine": 15411,
+      "totalLines": 4739,
       "hasFragmente": true,
-      "notes": ""
-    },
-    {
-      "number": "22",
-      "name": "Menestor",
-      "nameDe": "Menestor",
-      "startLine": 18026,
-      "endLine": 18094,
-      "page": 283,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "23",
-      "name": "Xuthus",
-      "nameDe": "Xuthos",
-      "startLine": 18095,
-      "endLine": 18105,
-      "page": 284,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "24",
-      "name": "Boidas",
-      "nameDe": "Boidas",
-      "startLine": 18106,
-      "endLine": 18134,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/21-Empedocles.txt",
+      "inProject": true
     },
     {
       "number": "25",
-      "name": "Ion of Chios",
+      "name": "Ion_of_Chios",
       "nameDe": "Ion von Chios",
-      "startLine": 18135,
-      "endLine": 18333,
-      "page": 285,
+      "startLine": 15495,
+      "endLine": 15711,
+      "totalLines": 217,
       "hasFragmente": true,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/25-Ion_of_Chios.txt"
     },
     {
       "number": "26",
       "name": "Hippon",
       "nameDe": "Hippon",
-      "startLine": 18334,
-      "endLine": 18615,
-      "page": 288,
+      "startLine": 15712,
+      "endLine": 15997,
+      "totalLines": 286,
       "hasFragmente": true,
-      "notes": ""
-    },
-    {
-      "number": "27",
-      "name": "Phaleas und Hippodamos",
-      "nameDe": "Phaleas und Hippodamos",
-      "startLine": 18616,
-      "endLine": 18706,
-      "page": 293,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "28",
-      "name": "Polykleitos",
-      "nameDe": "Polykleitos",
-      "startLine": 18707,
-      "endLine": 18850,
-      "page": 294,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "29",
-      "name": "Oinopides",
-      "nameDe": "Oinopides",
-      "startLine": 18851,
-      "endLine": 18980,
-      "page": 296,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "30",
-      "name": "Hippokrates von Chios. Aischylos",
-      "nameDe": "Hippokrates von Chios. Aischylos",
-      "startLine": 18981,
-      "endLine": 19100,
-      "page": 298,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "31",
-      "name": "Theodoros",
-      "nameDe": "Theodoros",
-      "startLine": 19101,
-      "endLine": 19114,
-      "page": 300,
-      "hasFragmente": false,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/26-Hippon.txt"
     },
     {
       "number": "32",
       "name": "Philolaus",
       "nameDe": "Philolaos",
-      "startLine": 19115,
-      "endLine": 20296,
-      "page": 301,
+      "startLine": 16486,
+      "endLine": 17636,
+      "totalLines": 1151,
       "hasFragmente": true,
-      "notes": ""
-    },
-    {
-      "number": "33",
-      "name": "Eurytus",
-      "nameDe": "Eurytos",
-      "startLine": 20297,
-      "endLine": 20320,
-      "page": 320,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "34",
-      "name": "Archippos. Lysis. Opsimos",
-      "nameDe": "Archippos. Lysis. Opsimos",
-      "startLine": 20321,
-      "endLine": 20368,
-      "page": 321,
-      "hasFragmente": false,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/32-Philolaus.txt"
     },
     {
       "number": "35",
       "name": "Archytas",
       "nameDe": "Archytas",
-      "startLine": 20369,
-      "endLine": 21436,
-      "page": 322,
+      "startLine": 17760,
+      "endLine": 18690,
+      "totalLines": 931,
       "hasFragmente": true,
-      "notes": ""
-    },
-    {
-      "number": "35a",
-      "name": "Ocellus",
-      "nameDe": "Okkelos",
-      "startLine": 21437,
-      "endLine": 21491,
-      "page": 338,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "36",
-      "name": "Timaeus",
-      "nameDe": "Timaios",
-      "startLine": 21492,
-      "endLine": 21535,
-      "page": 339,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "37",
-      "name": "Hicetas",
-      "nameDe": "Hiketas",
-      "startLine": 21536,
-      "endLine": 21548,
-      "page": 340,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "38",
-      "name": "Ecphantus",
-      "nameDe": "Ekphantos",
-      "startLine": 21549,
-      "endLine": 21595,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "39",
-      "name": "Xenophilus",
-      "nameDe": "Xenophilos",
-      "startLine": 21596,
-      "endLine": 21620,
-      "page": 341,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "40",
-      "name": "Diocles, Echecrates, Polymnastus, Phanton, Arion",
-      "nameDe": "Diokles. Echekrates. Polymnastos. Phanton. Arion",
-      "startLine": 21621,
-      "endLine": 21646,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "41",
-      "name": "Prorus, Amyclas, Cleinias",
-      "nameDe": "Proros. Amyklas. Kleinias",
-      "startLine": 21647,
-      "endLine": 21683,
-      "page": 342,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "42",
-      "name": "Damon and Phintias",
-      "nameDe": "Dämon und Phintias",
-      "startLine": 21684,
-      "endLine": 21709,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "43",
-      "name": "Simus, Myonides, Euphranor",
-      "nameDe": "Simos. Myonides. Euphranor",
-      "startLine": 21710,
-      "endLine": 21729,
-      "page": 343,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "44",
-      "name": "Lycon",
-      "nameDe": "Lykon",
-      "startLine": 21730,
-      "endLine": 21773,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "45",
-      "name": "Pythagorean School",
-      "nameDe": "Pythagoreische Schule",
-      "startLine": 21774,
-      "endLine": 23727,
-      "page": 344,
-      "hasFragmente": false,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/35-Archytas.txt"
     },
     {
       "number": "46",
       "name": "Anaxagoras",
       "nameDe": "Anaxagoras",
-      "startLine": 23728,
-      "endLine": 25875,
-      "page": 375,
+      "startLine": 20989,
+      "endLine": 23295,
+      "totalLines": 2307,
       "hasFragmente": true,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/46-Anaxagoras.txt",
+      "inProject": true
     },
     {
       "number": "47",
       "name": "Archelaus",
       "nameDe": "Archelaos",
-      "startLine": 25876,
-      "endLine": 26122,
-      "page": 410,
+      "startLine": 23296,
+      "endLine": 23774,
+      "totalLines": 479,
       "hasFragmente": true,
-      "notes": ""
-    },
-    {
-      "number": "48",
-      "name": "Metrodorus of Lampsacus",
-      "nameDe": "Metrodoros von Lampsakos",
-      "startLine": 26123,
-      "endLine": 26176,
-      "page": 414,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "49",
-      "name": "Clidemus",
-      "nameDe": "Kleidemos",
-      "startLine": 26177,
-      "endLine": 26221,
-      "page": 415,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "50",
-      "name": "Idaeus",
-      "nameDe": "Idaios",
-      "startLine": 26222,
-      "endLine": 26276,
-      "page": null,
-      "hasFragmente": false,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/47-Archelaus.txt"
     },
     {
       "number": "51",
-      "name": "Diogenes of Apollonia",
+      "name": "Diogenes_of_Apollonia",
       "nameDe": "Diogenes von Apollonia",
-      "startLine": 26277,
-      "endLine": 27218,
-      "page": 416,
+      "startLine": 23775,
+      "endLine": 24674,
+      "totalLines": 900,
       "hasFragmente": true,
-      "notes": ""
-    },
-    {
-      "number": "52",
-      "name": "Cratylus",
-      "nameDe": "Kratylos",
-      "startLine": 27219,
-      "endLine": 27293,
-      "page": 432,
-      "hasFragmente": false,
-      "notes": ""
-    },
-    {
-      "number": "53",
-      "name": "Antisthenes the Heraclitean",
-      "nameDe": "Antisthenes der Herakliteer",
-      "startLine": 27294,
-      "endLine": 27351,
-      "page": 434,
-      "hasFragmente": false,
-      "notes": ""
+      "extracted": true,
+      "extractedFile": "philosophers/51-Diogenes_of_Apollonia.txt"
     }
   ]
 }

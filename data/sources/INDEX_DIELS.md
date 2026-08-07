@@ -8,18 +8,35 @@ Hermann Diels (1848–1922)
 
 Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje za proučavanje ranih grčkih mislilaca.
 
-**Izdanje**: 3. Auflage, 1912  
-**Izvor**: Internet Archive, OCR plain text export
+**Izdanje**: 1. Auflage, 1903  
+**Izvor**: Internet Archive b24869673, Tesseract 5.1.0 OCR (2022)
+
+---
+
+## OCR kvalitet
+
+**✅ VELIKI NAPREDAK** - Zamenjen stari korumpiran OCR (1912) sa novim čistim:
+
+**Prethodno (1912 izdanje)**:
+- ⚠️ Teške greške: `'HpaKXeixoi;` umesto `Ἡράκλειτος`
+- ⚠️ Mešavina Latin/Greek karaktera: `BXöawvo<;` umesto `Βλόσωνος`
+- ❌ Neupotreljiv za fragmente
+
+**Sada (1903 izdanje, OCR 2022)**:
+- ✅ Čist Unicode grčki tekst: `Ἡράκλειτος Βλύσωνος`
+- ✅ OCR parametri: `-l deu+grc` (nemački + grčki)
+- ✅ OCR detected lang: `el` (Greek) sa 100% confidence
+- ✅ Upotrebljiv za autentične fragmente!
 
 ---
 
 ## Struktura
 
 **Fajlovi:**
-- `band1.txt` (1.6M, 27,351 linija) - Glavni tom sa tekstovima
-- `band2.txt` (1.2M, 44,946 linija) - Word Index
-- `manifest.json` - Mapiranje svih 54 filozofa sa tačnim linijama
-- `philosophers/` - Ekstraktovani pojedinačni fajlovi (16 filozofa sa fragmentima)
+- `band1.txt` (2.6M, 44,337 linija) - Glavni tom, 1903 izdanje, čist OCR
+- `band2.txt` (1.2M, 44,946 linija) - Word Index (1912, manji prioritet)
+- `manifest.json` - Mapiranje filozofa sa tačnim linijama (u razvoju)
+- `philosophers/` - Ekstraktovani pojedinačni fajlovi (1 od 16 sa fragmentima)
 
 **Organizacija svakog filozofa:**
 - **A. LEBEN UND LEHRE** - Život i učenje (sekundarne reference iz antičkih izvora)
@@ -30,9 +47,9 @@ Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje 
 ## Legenda
 
 **Status ekstrakcije:**
-- ✅ = Ekstraktovano u `philosophers/` fajl
+- ✅ = Ekstraktovano u `philosophers/` fajl sa čistim OCR-om
 - 📄 = U band1.txt ali samo A. LEBEN (bez B. FRAGMENTE)
-- ⏳ = U band1.txt SA fragmentima, ali nije još ekstraktovano
+- ⏳ = U band1.txt SA fragmentima, treba ekstraktovati sa novim OCR-om
 
 **Status obrade:**
 - 🎯 = Imamo u `data/quotes/` (presek sa projektom)
@@ -53,9 +70,8 @@ Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje 
 2. **Anaximander** 📄  
    Linije 1365–1893 (s. 14) - BEZ fragmenata
 
-3. **Anaximenes** ✅  
-   Linije 1894–2267 (s. 22) - SA fragmentima  
-   Diels: `03-Anaximenes.txt` (374 linija)
+3. **Anaximenes** ⏳  
+   SA fragmentima - treba ekstraktovati sa novim OCR-om
 
 ### Pitagorejci
 
@@ -83,23 +99,20 @@ Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje 
 
 ### Ksenofan i eleati
 
-11. **Xenophanes** ✅ 🎯  
-    Linije 3154–4771 (s. 42) - SA fragmentima  
-    Diels: `11-Xenophanes.txt` (1,618 linija)  
+11. **Xenophanes** ⏳ 🎯  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om  
     Naš fajl: `data/quotes/Ksenofan.json`
 
-12. **Heraclitus** ✅ 🎯  
-    Linije 4772–7586 (s. 67) - SA fragmentima  
-    Diels: `12-Heraclitus.txt` (2,815 linija) — Najveći fajl!  
+12. **Heraclitus** ✅ 🎯 🧹  
+    Linije 4101–6509 - SA fragmentima  
+    Diels: `philosophers/12-Heraclitus.txt` (2,409 linija)  
     Naš fajl: `data/quotes/Heraklit.json`
 
-13. **Epicharmus** ✅  
-    Linije 7587–8711 (s. 113) - SA fragmentima  
-    Diels: `13-Epicharmus.txt` (1,125 linija)
+13. **Epicharmus** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
-14. **Alcmaeon** ✅  
-    Linije 8712–9063 (s. 131) - SA fragmentima  
-    Diels: `14-Alcmaeon.txt` (352 linija)
+14. **Alcmaeon** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
 15. **Ikkos** 📄  
     Linije 9064–9094 (s. 137) - BEZ fragmenata
@@ -110,25 +123,21 @@ Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje 
 17. **Ameinias** 📄  
     Linije 9108–9121 - BEZ fragmenata
 
-18. **Parmenides** ✅ 🎯  
-    Linije 9122–10756 (s. 138) - SA fragmentima  
-    Diels: `18-Parmenides.txt` (1,635 linija)  
+18. **Parmenides** ⏳ 🎯  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om  
     Naš fajl: `data/quotes/Parmenid.json`
 
-19. **Zeno** ✅ 🎯  
-    Linije 10757–11436 (s. 165) - SA fragmentima  
-    Diels: `19-Zeno.txt` (680 linija)  
+19. **Zeno** ⏳ 🎯  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om  
     Naš fajl: `data/quotes/Zenon_iz_Eleje.json`
 
-20. **Melissus** ✅  
-    Linije 11437–12508 (s. 176) - SA fragmentima  
-    Diels: `20-Melissus.txt` (1,072 linija)
+20. **Melissus** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
 ### Empedoklo i pluralisti
 
-21. **Empedocles** ✅ 🎯  
-    Linije 12509–18025 (s. 193) - SA fragmentima  
-    Diels: `21-Empedocles.txt` (5,517 linija) — Najveći po linijama!  
+21. **Empedocles** ⏳ 🎯  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om  
     Naš fajl: `data/quotes/Empedoklo.json`
 
 22. **Menestor** 📄  
@@ -140,13 +149,11 @@ Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje 
 24. **Boidas** 📄  
     Linije 18106–18134 - BEZ fragmenata
 
-25. **Ion of Chios** ✅  
-    Linije 18135–18333 (s. 285) - SA fragmentima  
-    Diels: `25-Ion_of_Chios.txt` (199 linija)
+25. **Ion of Chios** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
-26. **Hippon** ✅  
-    Linije 18334–18615 (s. 288) - SA fragmentima  
-    Diels: `26-Hippon.txt` (282 linija)
+26. **Hippon** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
 27. **Phaleas und Hippodamos** 📄  
     Linije 18616–18706 (s. 293) - BEZ fragmenata
@@ -165,19 +172,17 @@ Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje 
 
 ### Kasniji pitagorejci
 
-32. **Philolaus** ✅  
-    Linije 19115–20296 (s. 301) - SA fragmentima  
-    Diels: `32-Philolaus.txt` (1,182 linija)
+32. **Philolaus** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
 33. **Eurytus** 📄  
-    Linije 20297–20320 (s. 320) - BEZ fragmenata
+    BEZ fragmenata
 
 34. **Archippos. Lysis. Opsimos** 📄  
-    Linije 20321–20368 (s. 321) - BEZ fragmenata
+    BEZ fragmenata
 
-35. **Archytas** ✅  
-    Linije 20369–21436 (s. 322) - SA fragmentima  
-    Diels: `35-Archytas.txt` (1,068 linija)
+35. **Archytas** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
 35a. **Ocellus** 📄  
      Linije 21437–21491 (s. 338) - BEZ fragmenata
@@ -214,27 +219,24 @@ Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje 
 
 ### Anaksagora i nus filozofija
 
-46. **Anaxagoras** ✅ 🎯  
-    Lininje 23728–25875 (s. 375) - SA fragmentima  
-    Diels: `46-Anaxagoras.txt` (2,148 linija)  
+46. **Anaxagoras** ⏳ 🎯  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om  
     Naš fajl: `data/quotes/Anaksagora.json`
 
-47. **Archelaus** ✅  
-    Linije 25876–26122 (s. 410) - SA fragmentima  
-    Diels: `47-Archelaus.txt` (247 linija)
+47. **Archelaus** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
 48. **Metrodorus of Lampsacus** 📄  
-    Lininje 26123–26176 (s. 414) - BEZ fragmenata
+    BEZ fragmenata
 
 49. **Clidemus** 📄  
-    Linije 26177–26221 (s. 415) - BEZ fragmenata
+    BEZ fragmenata
 
 50. **Idaeus** 📄  
-    Linije 26222–26276 - BEZ fragmenata
+    BEZ fragmenata
 
-51. **Diogenes of Apollonia** ✅  
-    Linije 26277–27218 (s. 416) - SA fragmentima  
-    Diels: `51-Diogenes_of_Apollonia.txt` (942 linija)
+51. **Diogenes of Apollonia** ⏳  
+    SA fragmentima - treba ekstraktovati sa novim OCR-om
 
 ### Ostali
 
