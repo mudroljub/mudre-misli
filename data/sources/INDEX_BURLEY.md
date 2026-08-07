@@ -15,180 +15,624 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 - ✅✓ = Analizirano, nema novih podataka
 - ⏳ = Za ekstrakciju
 
-**Organizacija:** Hronološki po redosledu poglavlja (kao u originalnoj knjizi)
+**Organizacija**: Hronološki po redosledu poglavlja (Cap. I-CXXXII) kako se pojavljuju u originalnoj knjizi
 
 ---
 
 ## Status ekstrakcije (2026-08-07)
 
-**Ukupno**: ~125 figura  
-**Ekstraktovano**: 42 figura (33.6%)  
-**Integrisano**: 2 filozofa (5 novih zapisa)
+**Ukupno**: ~130 poglavlja (neki filozofi imaju više poglavlja)  
+**Ekstraktovano**: 42 figura (32%)  
+**Integrisano**: 2 filozofa (5 novih zapisa: Heraklit 1, Empedoklo 4)
 
 ---
 
-## Svi Filozofi u Knjizi (Hronološki po poglavljima)
+## Svi Filozofi - Hronološki redosled poglavlja
 
-### Rani presokratovci i Sedmorica mudraca
+### Cap. I - Thales (Tales)
+**Strana**: 2  
+**Status**: ✅✓  
+**Presokratovac, Milećanin, Sedam mudraca**
 
-1. Tales (Thales, c. I, s. 2) ✅✓
-2. Solon (Solon, c. II, s. 12) ✅
-3. Katon (Cato, c. III, s. 92)
-4. Pitak (Pittacus, c. IV, s. 28) ✅
-5. Bijant (Bias, c. V, s. 32) ✅
-6. Kleobul (Cleobulus, c. VI, s. 40) ✅
-7. Periandar (Periander, c. VII, s. 44) ✅
-8. Zoroaster (Zoroastes, c. VIII, s. 46) ✅
-9. Mison (Misosternon, c. IX, s. 52) ✅
-10. Anaksimander (Anaximander, c. IX, s. 48) ✅✓
-11. Anaharsis (Anacharsis, c. X, s. 48) ✅
-12. Epimenid (Epimenides, c. XII, s. 54) ✅
-13. Ferekid (Pherecides, c. XIII, s. 56) ✅
-14. Homer (Homerus, c. XIV, s. 54) ✅
-15. Likurg (Lycurgus, c. XV, s. 60) ✅
+### Cap. II - Solon
+**Strana**: 12  
+**Status**: ✅  
+**Atinski zakonodavac, Sedam mudraca**
 
-### Pitagorejci i jonski filozofi
+### Cap. III - Chilon (Hilon)
+**Strana**: 20  
+**Status**: ✅  
+**Spartanski efor, Sedam mudraca**
 
-16. Anaksimen (Anaximenes, c. XVI, s. 54) ✅✓
-17. Kleant (Cleanthes, c. XVI, s. 106) ⚠️ ne postoji u knjizi
-18. Kret (Crates, c. XVII, s. 56) ✅
-19. Pitagora (Pythagoras, c. XVII, s. 72) ✅✓
-20. Anaksagora (Anaxagoras, c. XVIII, s. 80) ✅✓
-21. Stilpon (Stilpon, c. XX, s. 88) ✅
+### Cap. IV - Pittacus (Pitak)
+**Strana**: 28  
+**Status**: ✅  
+**Mitilenska tirаn, Sedam mudraca**
 
-### Pesnici i govornici
+### Cap. V - Bias (Bijant)
+**Strana**: 32  
+**Status**: ✅  
+**Iz Prijene, Sedam mudraca**
 
-22. Arhiloh (Archilochus, c. XLI, s. 86)
-23. Arhita (Archytas, c. XXIII, s. 90) ✅
-24. Ezop (Aesopus, c. XXIV, s. 98)
-25. Simonid (Simonides, c. XXIII, s. 98)
-26. Zenon Stoik (Zeno citieus, c. XXV, s. 94) ✅
-27. Gorgija (Gorgias, c. XXVI, s. 96) ✅✅
+### Cap. VI - Cleobulus (Kleobul)
+**Strana**: 40  
+**Status**: ✅  
+**Lindijski tiranin, Sedam mudraca**
 
-### Sofisti i retori
+### Cap. VII - Periander (Periandar)
+**Strana**: 44  
+**Status**: ✅  
+**Korintski tiranin, Sedam mudraca**
 
-28. Protagora (Protagoras, c. XXVIII, s. 104) ✅✓
-29. Hrisip (Chrysippus, c. XXIX, s. 102) ✅✅
+### Cap. VIII - Zoroaster (Zaratustra)
+**Strana**: 46  
+**Status**: ✅  
+**Persijski mudrac**
 
-### Sokrat i sokratovci
+### Cap. IX - Anaximander (Anaksimander)
+**Strana**: 48  
+**Status**: ✅✓  
+**Presokratovac, Milećanin**
 
-30. Sokrat (Socrates, c. XXX, s. 108) ✅
-31. Aristip (Aristippus, c. XXXI, s. 142) ✅
-32. Ksenofont (Xenophon, c. XXXII, s. 150) ✅
-33. Antisten (Antisthenes, c. XXXIII, s. 152) ✅
-33a. Diogen Kinik (Diogenes cynicus, c. XLIX, s. 197) ✅✓
-34. Alkibijad (Alcibiades, c. XXXIV, s. 153) ✅
-35. Eshin (Aeschines, c. XXXV, s. 156) ✅
-36. Euripid (Euripides philosophus, c. XXXVI, s. 158) ✅
-37. Demosten (Demosthenes, c. XXXVII, s. 166) ✅
-38. Sofokle (Sophocles, c. XXXVIII, s. 168) ✅
+### Cap. X - Anacharsis (Anaharsis)
+**Strana**: 48  
+**Status**: ✅  
+**Skitski filozof**
 
-### Državnici i vojskovođe
+### Cap. XI - Myson (Mison)
+**Strana**: 52  
+**Status**: ✅  
+**Iz Hene**
 
-39. Perikle (Pericles, c. XXXIX, s. 170)
-40. Temistokle (Themistocles, c. XL, s. 172)
-41. Aristid (Aristides, c. XLI, s. 174)
+### Cap. XII - Epimenides (Epimenid)
+**Strana**: 54  
+**Status**: ✅  
+**Kritski pesnik-prorok**
 
-### Naučnici i matematičari
+### Cap. XIII - Pherecydes (Ferekid)
+**Strana**: 56  
+**Status**: ✅  
+**Sa Sirosa**
 
-42. Eudoks (Eudoxus, c. XLII, s. 180) ✅
-43. Demokrit (Democritus, c. XLIIII, s. 160) ✅✓
-44. Hipokrat (Hippocrates, c. XLV, s. 180) ✅
-45. Empedoklo (Empedocles, c. XLVI, s. 186) ✅✅
+### Cap. XIV - Homerus (Homer)
+**Strana**: 54  
+**Status**: ✅  
+**Epski pesnik**
 
-### Eleati i atomisti
+### Cap. XV - Lycurgus (Likurg)
+**Strana**: 60  
+**Status**: ✅  
+**Spartanski zakonodavac**
 
-46. Heraklit (Heraclitus, c. XLVIII, s. 188) ✅✅
-47. Parmenid (Parmenides, c. XLIX, s. 192) ✅✓
-47b. Zenon iz Eleje (Zeno Eleates, c. LXXIX, s. 306) ✅✓
+### Cap. XVI - Anaximenes (Anaksimen)
+**Strana**: 54  
+**Status**: ✅✓  
+**Presokratovac, Milećanin**
 
-### Platonova akademija
+### Cap. XVII - Pythagoras (Pitagora)
+**Strana**: 72  
+**Status**: ✅✓  
+**Iz Samosa, osnivač pitagorejske škole**
 
-48. Platon (Plato, c. LII, s. 214) ✅
-49. Aristotel (Aristoteles, c. LIII, s. 224) ✅
-50. Fedon (Phaedon, c. LV, s. 252) ✅
-51. Eshil (Aeschylus, c. LVI, s. 252) ✅
-52. Speusip (Speusippus, c. LVII, s. 252) ✅
-53. Apulej (Apuleius, c. LVIII, s. 254)
+### Cap. XVIII - Anaxagoras (Anaksagora)
+**Strana**: 80  
+**Status**: ✅✓  
+**Presokratovac, iz Klazomena**
 
-### Neoplatonici i gnostici
+### Cap. XIX - Crates (Kret)
+**Strana**: 56  
+**Status**: ✅  
+**Kinik**
 
-54. Plotin (Plotinus, c. LIX, s. 258) ✅
-55. Hermes Trismegist (Hermes Trismegistus, c. LIX, s. 262) ✅
-56. Ksenokrat (Xenocrates, c. LXI, s. 264) ✅
-57. Antipatar Sidonski (Antipater sidonius, c. LXI, s. 226) ✅
-58. Demetrije (Demetrius, c. LXII, s. 270) ✅
-59. Anaksimen Lampsački (Anaximenes lampascus, c. LXII, s. 273) ✅
-60. Arat (Aratus, c. LXIII, s. 276) ✅
-61. Epikur (Epicurus, c. LXIV, s. 272) ✅
-62. Herodot (Herodotus, c. LXV, s. 278) ✅
-63. Kalisten (Callisthenes, c. LXV, s. 278) ✅
-64. Polistrat (Polystratus, c. LXV, s. 278) ✅
-65. Kalimah (Callinachos, c. LXVI, s. 278) ✅
-66. Arkesilao (Archesilaus, c. LXVII, s. 292) ✅
-67. Teofrast (Theophrastus, c. LXVIII, s. 282) ✅
-68. Karnead (Carneades, c. LXIX, s. 298) ✅
-69. Diodor Kron (Diodorus Cronus, c. LXIX, s. 292) ✅
-70. Ksenofil (Xenophilus, c. LXIX, s. 252) ✅
-71. Polemon (Polemo, c. LXX, s. 292) ✅
+### Cap. XX - Stilpo (Stilpon)
+**Strana**: 88  
+**Status**: ✅  
+**Megarejac**
 
-### Helenistički period
+### Cap. XXI - Archytas (Arhita)
+**Strana**: 90  
+**Status**: ✅  
+**Pitagorejac iz Tarenta**
 
-72. Tirtej Katal (Tyrtaeus Catalus, c. LXXII, s. 294)
-73. Aristarh (Aristarchus, c. LXXIII, s. 308) ✅
-74. Eratosten (Eratosthenes, c. LXXIII, s. 294) ✅
-75. Arhimed (Archimedes, c. LXXIV, s. 294) ✅
-76. Ptolomej Filadelfa (Ptolemaeus Philadelphus, c. LXXV, s. 296) ✅
-77. Menander (Menander, c. LXXVI, s. 302)
-78. Filemon (Philemon, c. LXXVII, s. 302)
-79. Zenon Stoik (Zeno citieus, c. LXXVIII, s. 304) ✅
-80. Posidonije (Posidopius, c. LXXIX, s. 310)
-82. Hegezija (Hegesiae, c. LXXX, s. 306)
-83. Enije (Ennius, c. LXXXI, s. 306)
-84. Pahvije (Pachvius, c. LXXXIII, s. 308)
-85. Stacije Cecilije (Statius Caecilius, c. LXXXIV, s. 308)
-86. Plotin Galski (Plotinus Gallius, c. LXXXVI, s. 308)
-87. Livije (Livius, c. LXXXVIII, s. 310)
-88. Panetije (Panaetius, c. LXXXVIII, s. 308)
-89. Hekaton (Hecaton, c. XC, s. 310)
+### Cap. XXII - Simonides (Simonid)
+**Strana**: 98  
+**Status**: ⏳  
+**Lirski pesnik**
 
-### Rimski period
+### Cap. XXIII - Archilochus (Arhiloh)
+**Strana**: 86  
+**Status**: ⏳  
+**Jampski pesnik**
 
-90. Diodor Sicilijski (Diodorus Siculus, c. XCII, s. 318)
-91. Scipion (Scipio, c. XCIV, s. 312)
-92. Ciceron (Tullius Cicero, c. XCV, s. 318) ✅
-93. Diogen Vavilonski (Diogenes babylonius, c. XCVI, s. 324)
-94. Porcije Katon (Porcius Cato, c. XCVI, s. 328)
-95. Varon (Varro, c. XCVIII, s. 330)
-96. Salustije (Sallustius, c. XCIX, s. 332)
-97. Musonije Planicije (Musonius Planicius, c. C, s. 333)
-98. Lukrecija (Lucretia, c. CI, s. 334)
-99. Vergilije (Vergilius, c. CIV, s. 335)
-100. Pomponije Bolonjski (Pomponius bononiensis, c. CIV, s. 334)
-101. Varije Gemin (Varius Geminus, c. CVI, s. 356)
-102. Terencije (Terentius, c. CVII, s. 342)
-103. Kornelije Gal (Cornelius Gallus, c. CIX, s. 360a)
-104. Horacije (Horatius, c. CX, s. 350)
-105. Zenon (Zeno, c. CXI, s. 350)
-106. Atenodor (Athenodorus, c. CXII, s. 354)
-107. Sekund (Secundus, c. CXII, s. 372)
-108. Ovidije (Ovidius, c. CXIII, s. 354)
-109. Valerije Maksim (Valerius Maximus, c. CXV, s. 356)
-110. Seneka (Seneca, c. CXVII, s. 356) ✅
-111. Pompej Trog (Pompeius Trogus, c. CXVII, s. 392)
-112. Kvintilijan (Quintilianus, c. CXVIII, s. 362) ✅
-113. Plutarh (Plutarchus, c. CXIX, s. 364) ✅
-114. Porfirije (Porphyrius, c. CXIX, s. 392) ✅
-115. Plinije (Plinius, c. CXX, s. 368)
-116. Ptolomej Klaudije (Ptolemaeus Claudius, c. CXXI, s. 370)
-117. Galen (Galenus, c. CXXII, s. 384) ✅
-118. Bazilid (Basilides, c. CXXIV, s. 386) ✅
-119. Justinus (Justinus, c. CXXVIII, s. 392)
-120. Klaudijan (Claudianus, c. CXXX, s. 392)
-121. Simah (Symachus, c. CXXXI, s. 392)
-122. Apolonije (Apollonius, c. CXXXII, s. 326)
-123. Priscijan (Priscianus, c. CXXXII, s. 395)
-124. Julije Celz (Julius Celsus, c. VI, s. 340)
+### Cap. XXIV - Aesopus (Ezop)
+**Strana**: 98  
+**Status**: ⏳  
+**Fabulist**
+
+### Cap. XXV - Zeno Citieus (Zenon iz Kitijuma)
+**Strana**: 94  
+**Status**: ✅  
+**Osnivač stoicizma**
+
+### Cap. XXVI - Gorgias (Gorgija)
+**Strana**: 96  
+**Status**: ✅✅  
+**Sofist iz Leontina**
+
+### Cap. XXVII - [nepoznato]
+**Status**: ⏳
+
+### Cap. XXVIII - Protagoras (Protagora)
+**Strana**: 104  
+**Status**: ✅✓  
+**Sofist iz Abdere**
+
+### Cap. XXIX - Chrysippus (Hrisip)
+**Strana**: 102  
+**Status**: ✅✅  
+**Stoik**
+
+### Cap. XXX - Socrates (Sokrat)
+**Strana**: 108  
+**Status**: ✅  
+**Atinski filozof**
+
+### Cap. XXXI - Aristippus (Aristip)
+**Strana**: 142  
+**Status**: ✅  
+**Osnivač kirenaičke škole**
+
+### Cap. XXXII - Xenophon (Ksenofont)
+**Strana**: 150  
+**Status**: ✅  
+**Atinski istoričar i filozof**
+
+### Cap. XXXIII - Antisthenes (Antisten)
+**Strana**: 152  
+**Status**: ✅  
+**Osnivač kinizma**
+
+### Cap. XXXIV - Alcibiades (Alkibijad)
+**Strana**: 153  
+**Status**: ✅  
+**Atinski državnik**
+
+### Cap. XXXV - Aeschines (Eshin)
+**Strana**: 156  
+**Status**: ✅  
+**Sokratovac**
+
+### Cap. XXXVI - Euripides (Euripid)
+**Strana**: 158  
+**Status**: ✅  
+**Tragični pesnik**
+
+### Cap. XXXVII - Demosthenes (Demosten)
+**Strana**: 166  
+**Status**: ✅  
+**Atinski govornik**
+
+### Cap. XXXVIII - Sophocles (Sofokle)
+**Strana**: 168  
+**Status**: ✅  
+**Tragični pesnik**
+
+### Cap. XXXIX - Pericles (Perikle)
+**Strana**: 170  
+**Status**: ⏳  
+**Atinski državnik**
+
+### Cap. XL - Themistocles (Temistokle)
+**Strana**: 172  
+**Status**: ⏳  
+**Atinski strateg**
+
+### Cap. XLI - Aristides (Aristid)
+**Strana**: 174  
+**Status**: ⏳  
+**Atinski strateg "Pravedni"**
+
+### Cap. XLII - Eudoxus (Eudoks)
+**Strana**: 180  
+**Status**: ✅  
+**Astronom i matematičar**
+
+### Cap. XLIII - Democritus (Demokrit)
+**Strana**: 160  
+**Status**: ✅✓  
+**Atomista iz Abdere**
+
+### Cap. XLIV - [nepoznato]
+**Status**: ⏳
+
+### Cap. XLV - Hippocrates (Hipokrat)
+**Strana**: 180  
+**Status**: ✅  
+**Lekar**
+
+### Cap. XLVI - Empedocles (Empedoklo)
+**Strana**: 186  
+**Status**: ✅✅  
+**Presokratovac iz Akraganta**
+
+### Cap. XLVII - [verovatno Empedocles nastavak]
+**Status**: ⏳
+
+### Cap. XLVIII - Heraclitus (Heraklit)
+**Strana**: 188  
+**Status**: ✅✅  
+**Iz Efesa, "Mračni"**
+
+### Cap. XLIX - Parmenides (Parmenid)
+**Strana**: 192  
+**Status**: ✅✓  
+**Eleata**
+
+### Cap. L - Diogenes Cynicus (Diogen Kinik)
+**Strana**: 197  
+**Status**: ✅✓  
+**Kinik, "Pas"**
+
+### Cap. LI - [nepoznato]
+**Status**: ⏳
+
+### Cap. LII - Plato (Platon)
+**Strana**: 214  
+**Status**: ✅  
+**Osnivač Akademije**
+
+### Cap. LIII - Aristoteles (Aristotel)
+**Strana**: 224  
+**Status**: ✅  
+**Osnivač Liceja**
+
+### Cap. LIV - [nepoznato]
+**Status**: ⏳
+
+### Cap. LV - Phaedo (Fedon)
+**Strana**: 252  
+**Status**: ✅  
+**Elidski filozof, sokratovac**
+
+### Cap. LVI - Aeschylus (Eshil)
+**Strana**: 252  
+**Status**: ✅  
+**Tragični pesnik**
+
+### Cap. LVII - Speusippus (Speusip)
+**Strana**: 252  
+**Status**: ✅  
+**Platonov naslednik u Akademiji**
+
+### Cap. LVIII - Apuleius (Apulej)
+**Strana**: 254  
+**Status**: ⏳  
+**Rimski platoničar**
+
+### Cap. LIX - Plotinus (Plotin)
+**Strana**: 258  
+**Status**: ✅  
+**Neoplatoničar**
+
+### Cap. LIX (nastavak) - Hermes Trismegistus
+**Strana**: 262  
+**Status**: ✅  
+**Hermetička tradicija**
+
+### Cap. LXI - Xenocrates (Ksenokrat)
+**Strana**: 264  
+**Status**: ✅  
+**Platonovac**
+
+### Cap. LXII - Demetrius Phalereus (Demetrije Falerski)
+**Strana**: 270  
+**Status**: ✅  
+**Peripatetiк**
+
+### Cap. LXIII - Aratus (Arat)
+**Strana**: 276  
+**Status**: ✅  
+**Astronom-pesnik**
+
+### Cap. LXIV - Epicurus (Epikur)
+**Strana**: 272  
+**Status**: ✅  
+**Osnivač epikurejske škole**
+
+### Cap. LXV - Herodotus (Herodot)
+**Strana**: 278  
+**Status**: ✅  
+**Istoričar**
+
+### Cap. LXVI - Callimachus (Kalimah)
+**Strana**: 278  
+**Status**: ✅  
+**Aleksandrijski pesnik**
+
+### Cap. LXVII - Arcesilaus (Arkesilao)
+**Strana**: 292  
+**Status**: ✅  
+**Skeptik, Srednja akademija**
+
+### Cap. LXVIII - Theophrastus (Teofrast)
+**Strana**: 282  
+**Status**: ✅  
+**Aristotelov naslednik**
+
+### Cap. LXIX - Carneades (Karnead)
+**Strana**: 298  
+**Status**: ✅  
+**Skeptik, Nova akademija**
+
+### Cap. LXX - Polemo (Polemon)
+**Strana**: 292  
+**Status**: ✅  
+**Platonovac**
+
+### Cap. LXXI - [nepoznato]
+**Status**: ⏳
+
+### Cap. LXXII - Tyrtaeus (Tirtej)
+**Strana**: 294  
+**Status**: ⏳  
+**Spartanski pesnik**
+
+### Cap. LXXIII - Aristarchus (Aristarh)
+**Strana**: 308  
+**Status**: ✅  
+**Aleksandrijski filolog**
+
+### Cap. LXXIV - Archimedes (Arhimed)
+**Strana**: 294  
+**Status**: ✅  
+**Matematičar, fizičar**
+
+### Cap. LXXV - Ptolemaeus Philadelphus (Ptolomej II)
+**Strana**: 296  
+**Status**: ✅  
+**Egipatski vladar, pokrovitelj nauke**
+
+### Cap. LXXVI - Menander (Menandar)
+**Strana**: 302  
+**Status**: ⏳  
+**Komediograf**
+
+### Cap. LXXVII - Philemon (Filemon)
+**Strana**: 302  
+**Status**: ⏳  
+**Komediograf**
+
+### Cap. LXXVIII - Zeno Citieus (Zenon) [duplikat]
+**Strana**: 304  
+**Status**: ✅  
+**Stoik - verovatno duplikat Cap. XXV**
+
+### Cap. LXXIX - Zeno Eleates (Zenon iz Eleje)
+**Strana**: 306  
+**Status**: ✅✓  
+**Eleata, Zenonovi paradoksi**
+
+### Cap. LXXX - Hegesias (Hegezija)
+**Strana**: 306  
+**Status**: ⏳  
+**Kirenaičar "Peithánatos"**
+
+### Cap. LXXXI - Ennius (Enije)
+**Strana**: 306  
+**Status**: ⏳  
+**Rimski pesnik**
+
+### Cap. LXXXII - [nepoznato]
+**Status**: ⏳
+
+### Cap. LXXXIII - Pacuvius (Pahvije)
+**Strana**: 308  
+**Status**: ⏳  
+**Rimski tragičar**
+
+### Cap. LXXXIV - Statius Caecilius
+**Strana**: 308  
+**Status**: ⏳  
+**Rimski komediograf**
+
+### Cap. LXXXV - [nepoznato]
+**Status**: ⏳
+
+### Cap. LXXXVI - Plotinus Gallus
+**Strana**: 308  
+**Status**: ⏳  
+**Rimski filozof (ne mešati sa Cap. LIX)**
+
+### Cap. LXXXVII - [nepoznato]
+**Status**: ⏳
+
+### Cap. LXXXVIII - Livius / Panaetius
+**Strana**: 310 / 308  
+**Status**: ⏳  
+**Rimski istoričar / Stoik**
+
+### Cap. LXXXIX - [nepoznato]
+**Status**: ⏳
+
+### Cap. XC - Hecaton (Hekaton)
+**Strana**: 310  
+**Status**: ⏳  
+**Stoik**
+
+### Cap. XCI - [nepoznato]
+**Status**: ⏳
+
+### Cap. XCII - Diodorus Siculus (Diodor Sicilijski)
+**Strana**: 318  
+**Status**: ⏳  
+**Grčki istoričar**
+
+### Cap. XCIII - [nepoznato]
+**Status**: ⏳
+
+### Cap. XCIV - Scipio (Scipion)
+**Strana**: 312  
+**Status**: ⏳  
+**Rimski vojskovođa**
+
+### Cap. XCV - Tullius Cicero (Ciceron)
+**Strana**: 318  
+**Status**: ✅  
+**Rimski filozof i govornik**
+
+### Cap. XCVI - Diogenes Babylonius / Cato (Diogen Vavilonski / Katon)
+**Strana**: 324 / 328  
+**Status**: ⏳  
+**Stoik / Rimski državnik**
+
+### Cap. XCVII - [nepoznato]
+**Status**: ⏳
+
+### Cap. XCVIII - Varro (Varon)
+**Strana**: 330  
+**Status**: ⏳  
+**Rimski učenjak**
+
+### Cap. XCIX - Sallustius (Salustije)
+**Strana**: 332  
+**Status**: ⏳  
+**Rimski istoričar**
+
+### Cap. C - Musonius Rufus
+**Strana**: 333  
+**Status**: ⏳  
+**Stoik**
+
+### Cap. CI - Lucretius (Lukrecije)
+**Strana**: 334  
+**Status**: ⏳  
+**Rimski epikurejac-pesnik**
+
+### Cap. CII - [nepoznato]
+**Status**: ⏳
+
+### Cap. CIII - [nepoznato]
+**Status**: ⏳
+
+### Cap. CIV - Vergilius / Pomponius (Vergilije / Pomponije)
+**Strana**: 335 / 334  
+**Status**: ⏳  
+**Rimski pesnik / Pravnik**
+
+### Cap. CV - [nepoznato]
+**Status**: ⏳
+
+### Cap. CVI - Varius Geminus (Varije)
+**Strana**: 356  
+**Status**: ⏳  
+**Rimski pesnik**
+
+### Cap. CVII - Terentius (Terencije)
+**Strana**: 342  
+**Status**: ⏳  
+**Rimski komediograf**
+
+### Cap. CVIII - [nepoznato]
+**Status**: ⏳
+
+### Cap. CIX - Cornelius Gallus (Kornelije Gal)
+**Strana**: 360a  
+**Status**: ⏳  
+**Rimski pesnik**
+
+### Cap. CX - Horatius (Horacije)
+**Strana**: 350  
+**Status**: ⏳  
+**Rimski pesnik**
+
+### Cap. CXI - Zeno [treći?]
+**Strana**: 350  
+**Status**: ⏳
+
+### Cap. CXII - Athenodorus / Secundus (Atenodor / Sekund)
+**Strana**: 354 / 372  
+**Status**: ⏳  
+**Stoik / "Ćutljivi"**
+
+### Cap. CXIII - Ovidius (Ovidije)
+**Strana**: 354  
+**Status**: ⏳  
+**Rimski pesnik**
+
+### Cap. CXIV - [nepoznato]
+**Status**: ⏳
+
+### Cap. CXV - Valerius Maximus (Valerije Maksim)
+**Strana**: 356  
+**Status**: ⏳  
+**Rimski pisac**
+
+### Cap. CXVI - [nepoznato]
+**Status**: ⏳
+
+### Cap. CXVII - Seneca / Pompeius Trogus (Seneka / Pompej Trog)
+**Strana**: 356 / 392  
+**Status**: ✅ / ⏳  
+**Stoik / Istoričar**
+
+### Cap. CXVIII - Quintilianus (Kvintilijan)
+**Strana**: 362  
+**Status**: ✅  
+**Rimski retor**
+
+### Cap. CXIX - Plutarchus / Porphyrius (Plutarh / Porfirije)
+**Strana**: 364 / 392  
+**Status**: ✅ / ✅  
+**Biograf / Neoplatoničar**
+
+### Cap. CXX - Plinius (Plinije)
+**Strana**: 368  
+**Status**: ⏳  
+**Rimski enciklopedista**
+
+### Cap. CXXI - Ptolemaeus Claudius (Klaudije Ptolomej)
+**Strana**: 370  
+**Status**: ⏳  
+**Astronom**
+
+### Cap. CXXII - Galenus (Galen)
+**Strana**: 384  
+**Status**: ✅  
+**Lekar**
+
+### Cap. CXXIII - [nepoznato]
+**Status**: ⏳
+
+### Cap. CXXIV - Basilides (Bazilid)
+**Strana**: 386  
+**Status**: ✅  
+**Gnostik**
+
+### Cap. CXXV-CXXVII - [nepoznato]
+**Status**: ⏳
+
+### Cap. CXXVIII - Justinus (Justin)
+**Strana**: 392  
+**Status**: ⏳  
+**Istoričar**
+
+### Cap. CXXIX - [nepoznato]
+**Status**: ⏳
+
+### Cap. CXXX - Claudianus (Klaudijan)
+**Strana**: 392  
+**Status**: ⏳  
+**Kasnoantički pesnik**
+
+### Cap. CXXXI - Symmachus (Simah)
+**Strana**: 392  
+**Status**: ⏳  
+**Rimski senator i govornik**
+
+### Cap. CXXXII - Apollonius / Priscianus (Apolonije / Priscijan)
+**Strana**: 326 / 395  
+**Status**: ⏳  
+**Filozof / Gramatičar**
 
 ---
 
@@ -197,80 +641,61 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 Svako ekstraktovano poglavlje sadrži:
 
 1. **Latinski originalni tekst** - Fragmenti kako ih je Burley napisao
-2. **Španski prevod** - Paralelni starokastiljanski prevod (15-16. vek)
-3. **Strukturisani sadržaj:**
+2. **Strukturisani sadržaj:**
    - Biografija (poreklo, porodica, grad)
-   - Političke i vojne aktivnosti
    - Filozofske maksime i izreke
    - Anegdote i priče
    - Dijalozi (Interrogatus - pitanja i odgovori)
-   - Smrt (okolnosti, starost, mesto)
-4. **Izvori i reference** - Diogen Laertije, Plutarh, varijante u rukopisima
-5. **Značaj i tumačenje** - Uloga filozofa, ključne teme, paralele
+3. **Izvori i reference** - Diogen Laertije, Seneka, Valerijus Maksimus, Avgustin, varijante u rukopisima
+4. **Nemačke editorske beleške** - Kritički aparat Hermanna Knusta (1886)
 
 ---
 
 ## Metodologija
 
 ### Proces:
-1. Čitanje PDF-a po sekcijama (20 strana odjednom)
-2. Identifikacija poglavlja (Cap. I, Cap. II, itd.)
-3. Ekstrakcija tekstova (latinski + španski)
-4. Strukturiranje sadržaja (Markdown format)
-5. Dodavanje konteksta (tumačenja, značaj)
+1. Ekstrakcija latinskog teksta iz PDF-a
+2. Identifikacija poglavlja (Cap. I-CXXXII)
+3. Strukturiranje sadržaja (Markdown format)
+4. Poređenje sa postojećim podacima u `data/quotes/`
 
 ### Izazovi:
 - Veličina dokumenta: 400+ strana, 13.8MB
-- OCR kvalitet: ponekad težak za čitanje
-- Fušnote: opsežan naučni aparat na nemačkom
-- Rukopisne varijacije: mnoge CRLN/HADGB varijante
+- OCR kvalitet: Google Books skenirana izdanja
+- Nemačke fušnote: opsežan naučni aparat
+- Duplikati: neki filozofi imaju više poglavlja
 
 ---
 
 ## Sledeći koraci
 
-### Prioriteti:
+### Prioriteti za integraciju:
 
-**Prioritet 1** - Završiti Sedam mudraca (još 2)
-- ⏳ Cleobulus
-- ⏳ Periander
+**VISOK** - Novi podaci pronađeni:
+- Diogen Kinik (8-10 novih anegdota za integraciju)
 
-**Prioritet 2** - Glavni presokratovci
-- ⏳ Anaximander
-- ⏳ Heraclitus  
-- ⏳ Democritus
+**SREDNJI** - Za analizu:
+- Sokrat
+- Platon
+- Aristotel
+- Epikur
+- Seneka
 
-**Prioritet 3** - Klasični period
-- ⏳ Socrates
-- ⏳ Plato
-- ⏳ Aristotle
-
-**Prioritet 4** - Stoici i kinici
-- ⏳ Diogenes Cynic
-- ⏳ Glavni stoici
+**NIZAK** - Već analizirani bez novih podataka:
+- Tales, Anaksimander, Anaksimen, Anaksagora, Pitagora
+- Demokrit, Parmenid, Zenon iz Eleje
+- Protagora
 
 ### Strategija:
 
-**Selektivna ekstrakcija** - fokus na 50-60 najvažnijih filozofa (~80% najcitiranijih) sa ~20% truda, umesto svih 125+ figura.
-
----
-
-## Upotreba u projektu
-
-Ekstraktovani podaci se koriste za:
-1. Bazu podataka citata - izreke i maksime
-2. Biografske stranice - život filozofa
-3. Poređenja izvora - Burley vs Diogen Laertije
-4. Srednjovekovnu recepciju - kako je 14. vek razumeo antiku
-5. Nastavne materijale - anegdote i priče
-
-**Format konverzije**: Markdown → JSON (API) / HTML (web) / SQL (baza)
+Fokus na filozofe koji imaju najvi še ekstra materijala u srednjovekovnoj tradiciji i koji su relevantni za projekat.
 
 ---
 
 **Napomene:**
-- Lista prati originalnu hronološku organizaciju knjige (Cap. I → CXXXII)
-- Neke poglavlja pokrivaju više figura ili se ponavljaju sa različitim brojevima
-- Fokus na filozofe iz `data/authors.json` (23/25 pokriveno)
+- Redosled prati originalne Cap. I-CXXXII kako se pojavljuju u Knust izdanju (1886)
+- Neki kapituli pokrivaju više figura
+- Brojevi strana su iz originalnog izdanja
+- Neki kapituli nedostaju ili su nekompletni u ekstraktovanim fajlovima
 
-**Poslednji update**: 2026-08-04
+**Poslednji update**: 2026-08-07
