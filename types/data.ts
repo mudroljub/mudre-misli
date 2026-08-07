@@ -10,6 +10,20 @@ export const supportedLanguages = ["stsl", "sr"] as const;
 export type Language = (typeof supportedLanguages)[number];
 
 /**
+ * Source reference object.
+ */
+export interface SourceReference {
+  /** Source key (e.g. "diogenes-laertius", "hermann-diels") */
+  name: string;
+
+  /** Reference within the source (e.g. "II.21", "B.8") */
+  reference: string | null;
+
+  /** Machine-readable pointer to the exact source location */
+  pointer?: string;
+}
+
+/**
  * Common fields shared by all entries.
  */
 interface BaseEntry {
@@ -28,13 +42,10 @@ interface BaseEntry {
   /** Philosopher(s) to whom the entry belongs. Multiple authors for shared entries (e.g., teacher-student relationships). */
   author: string | string[];
 
-  /** Source key (e.g. "diogenes-laertius") */
-  source: string;
+  /** Array of source references (primary source is first) */
+  sources: SourceReference[];
 
-  /** Reference within the source (e.g. "II.21") */
-  reference: string;
-
-  /** Machine-readable pointer to the exact source location */
+  /** Machine-readable pointer to the primary source location (from sources[0]) */
   pointer?: string;
 }
 

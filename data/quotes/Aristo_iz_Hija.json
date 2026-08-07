@@ -6,8 +6,12 @@
     "stsl": "Арістонъ отъ Хїа · нарїцаємꙑи Лꙑсꙑи · прозъванъ Сірєна · Рєчє ꙗко єсть цѣль жіті равнодѹшьно къ вєщємь мєждѹ доблєстїѭ і порокомь · нє оставлꙗѭщє никакоѩ разлїкꙑ въ нїхъ · нъ къ всѣмъ єдїнако ѡтносꙗщє сѧ.",
     "originalText": "Ἀρίστων ὁ Χῖος ὁ Φάλανθος ἐπικαλούμενος Σειρήν. Τέλος ἔφησεν εἶναι τὸ ἀδιαφόρως ἔχοντα ζῆν πρὸς τὰ μεταξὺ ἀρετῆς καὶ κακίας μηδ' ἡντινοῦν ἐν αὐτοῖς παραλλαγὴν ἀπολείποντα, ἀλλ' ἐπίσης ἐπὶ πάντων ἔχοντα.",
     "author": "Aristo of Chios",
-    "source": "diogenes-laertius",
-    "reference": "VII.160"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.160"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -15,8 +19,12 @@
     "stsl": "Мѫдрєць подобьнъ єсть добромѹ глѹмцѹ · ꙇжє · ащє ли прїємєть чінъ Тєрсіта или Агамємнона · глѹмить кождѹ приклонно.",
     "originalText": "εἶναι γὰρ ὅμοιον τὸν σοφὸν τῷ ἀγαθῷ ὑποκριτῇ, ὃς ἄν τε Θερσίτου ἄν τε Ἀγαμέμνονος πρόσωπον ἀναλάβῃ, ἑκάτερον ὑποκρίνεται προσηκόντως.",
     "author": "Aristo of Chios",
-    "source": "diogenes-laertius",
-    "reference": "VII.160"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.160"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -24,8 +32,12 @@
     "stsl": "Ѿвръгаашє фѵсікѫ і логікѫ · глаголꙗ ꙗко пръваꙗ вꙑшє насъ · а вътораꙗ ничтоже къ намъ · токмо єѳіка къ намъ.",
     "originalText": "Τόν τε φυσικὸν τόπον καὶ τὸν λογικὸν ἀνῄρει, λέγων τὸν μὲν εἶναι ὑπὲρ ἡμᾶς, τὸν δ' οὐδὲν πρὸς ἡμᾶς, μόνον δὲ τὸν ἠθικὸν εἶναι πρὸς ἡμᾶς.",
     "author": "Aristo of Chios",
-    "source": "diogenes-laertius",
-    "reference": "VII.160"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.160"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -33,8 +45,12 @@
     "stsl": "Діалєктїчьскїи бєсѣдꙑ подобьнꙑ сѫть паѹчїнамъ · ꙗжє · ащє і їзглєдаєть ꙗко показꙋѭть нѣкакѫ хѫдожьство · бєскорісьнꙑ сѫть.",
     "originalText": "Ἐοικέναι δὲ τοὺς διαλεκτικοὺς λόγους τοῖς ἀραχνίοις, ἃ καίτοι δοκοῦντα τεχνικόν τι ἐμφαίνειν, ἄχρηστά ἐστιν.",
     "author": "Aristo of Chios",
-    "source": "diogenes-laertius",
-    "reference": "VII.161"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.161"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -43,8 +59,12 @@
     "stsl": "Противлꙗашє сѧ Аркєсілаовѹ ѹчєнїю · Єдиноѭ вїдѣвъ тѣлєсно ѹрода бꙑка ꙇжє імать матєрїцѫ · рєчє · Горє · дано бꙑстъ Аркєсілаѹ ѡрѫдїє противѹ ѡчєвїдьности.",
     "originalText": "Ἀπετείνετο δὲ πρὸς Ἀρκεσίλαον· ὅτε θεασάμενος ταῦρον τερατώδη μήτραν ἔχοντα, οἴμοι, ἔφη, δέδοται Ἀρκεσιλάῳ ἐπιχείρημα κατὰ τῆς ἐναργείας.",
     "author": "Aristo of Chios",
-    "source": "diogenes-laertius",
-    "reference": "VII.162"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.162"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -52,8 +72,12 @@
     "stsl": "Єда нє вїдїши чловѣка ꙇжє сєдить близъ тєбє.",
     "originalText": "ἆρ' οὐδὲ τὸν πλησίον σου καθήμενον ὁρᾷς;",
     "author": "Aristo of Chios",
-    "source": "diogenes-laertius",
-    "reference": "VII.163"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.163"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -61,8 +85,12 @@
     "stsl": "Кто тѧ ослѣпи · кто ти ѹзѧ свѣтлость свѣщї.",
     "originalText": "τίς σ' ἐτύφλωσεν, τίς ἀφείλετο λαμπάδος αὐγάς;",
     "author": "Aristo of Chios",
-    "source": "diogenes-laertius",
-    "reference": "VII.163"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.163"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -71,7 +99,11 @@
     "stsl": "Прїча єсть ꙗко · бꙑвъ лꙑсъ · їзгорѣ на слънцѹ і тако ѹмрѣ.",
     "originalText": "Τοῦτον λόγος φαλακρὸν ὄντα ἐγκαυθῆναι ὑπὸ ἡλίου καὶ ὧδε τελευτῆσαι.",
     "author": "Aristo of Chios",
-    "source": "diogenes-laertius",
-    "reference": "VII.164"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.164"
+      }
+    ]
   }
 ]

@@ -113,20 +113,30 @@ const pointerBuilders = {
     } catch {
       return null
     }
+  },
+
+  'hermann-diels': async (reference) => {
+    // TODO: Implement when Diels fragments are integrated
+    // Format: B.8, A.1, etc.
+    return null
   }
 }
 
-const buildPointer = async (source, reference, author) => {
-  // Extract base source key (e.g., "diogenes-laertius" from "diogenes-laertius")
-  const sourceKey = String(source || '').split(',')[0].trim()
+const buildPointer = async (sourceObj, author) => {
+  // Extract source name
+  const sourceName = sourceObj.name
 
   // Try to match known source patterns
-  if (sourceKey === 'diogenes-laertius') {
-    return pointerBuilders['diogenes-laertius'](reference)
+  if (sourceName === 'diogenes-laertius') {
+    return pointerBuilders['diogenes-laertius'](sourceObj.reference)
   }
 
-  if (sourceKey.includes('Walter Burley')) {
-    return pointerBuilders['walter-burley'](reference, author)
+  if (sourceName.includes('Walter Burley')) {
+    return pointerBuilders['walter-burley'](sourceObj.reference, author)
+  }
+
+  if (sourceName === 'hermann-diels') {
+    return pointerBuilders['hermann-diels'](sourceObj.reference)
   }
 
   return null
@@ -147,7 +157,10 @@ for (const file of files) {
     const authors = Array.isArray(entry.author) ? entry.author : [entry.author]
 
     for (const author of authors) {
-      const pointer = await buildPointer(entry.source, entry.reference, author)
+      // Build pointer from primary source (first in sources array)
+      const primarySource = entry.sources?.[0]
+      const pointer = primarySource ? await buildPointer(primarySource, author) : null
+
       allQuotes.push({
         _id: nextId++,
         ...entry,

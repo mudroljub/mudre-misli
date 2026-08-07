@@ -4,11 +4,44 @@
 > Oni se **automatski generišu tokom build procesa** (`node tools/build-quotes.mjs`)  
 > i nalaze se samo u finalnom `data/quotes.json` fajlu.
 
-## Format
+## Format (Verzija 2.0 - Sources Array)
 
-Pointer precizno locira izvorni tekst citata u source fajlovima.
+Od verzije 2.0, citati koriste **sources array** umesto pojedinačnih `source`/`reference` polja.
 
-Format zavisi od izvora:
+### Struktura u source JSON fajlovima:
+
+```json
+{
+  "sr": "Tekst citata...",
+  "originalText": "...",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "IX.1"
+    },
+    {
+      "name": "hermann-diels",
+      "reference": "B.8"
+    }
+  ]
+}
+```
+
+**Multi-source primena**: Prvi izvor u nizu je primarni (npr. originalni fragment), dodatni izvori su cross-reference.
+
+### Struktura u finalnom quotes.json:
+
+```json
+{
+  "sr": "Tekst citata...",
+  "sources": [...],
+  "pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"
+}
+```
+
+**Napomena**: `pointer` se generiše iz **prvog izvora** u `sources` nizu.
+
+## Pointer format
 
 ```
 file:line#anchor
@@ -16,25 +49,55 @@ file:line#anchor
 
 ### Podržani izvori:
 
-**1. Diogenes Laertius** (`source: "diogenes-laertius"`)
+**1. Diogenes Laertius** (`name: "diogenes-laertius"`)
+```json
+{
+  "name": "diogenes-laertius",
+  "reference": "IX.1"
+}
 ```
-"pointer": "data/sources/diogenes-laertius/el/03.txt:59"
+
+Generisani pointer:
+```
+"pointer": "data/sources/diogenes-laertius/el/09.txt:185"
 "pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"  (sa anchorom)
 ```
 
-**2. Walter Burley** (`source: "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXVI"`)
+**2. Walter Burley** (`name: "Walter Burley, De Vita et Moribus..."`)
+```json
+{
+  "name": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXVI",
+  "reference": "1"
+}
+```
+
+Generisani pointer:
 ```
 "pointer": "data/sources/walter-burley/latin_raw/gorgias.txt:1"
 ```
+
+**3. Hermann Diels** (`name: "hermann-diels"`)
+```json
+{
+  "name": "hermann-diels",
+  "reference": "B.8"
+}
+```
+
+**Reference format**: Diels-Kranz brojevi (DK system)
+- `A.1`, `A.2`, ... = Leben und Lehre (sekundarne reference)
+- `B.1`, `B.8`, ... = Fragmente (autentični tekstovi filozof)
+
+*Status*: Pointer generisanje za Diels je u razvoju (TODO).
 
 ### Kako dodati novi izvor:
 
 Dodaj builder funkciju u `tools/build-quotes.mjs`:
 
 ```javascript
-pointerBuilders['novi-izvor'] = async (reference, author) => {
+pointerBuilders['novi-izvor'] = async (reference) => {
   // Parsiraj reference format specifičan za ovaj izvor
-  // Pronađi odgovarajući fajl
+  // Pronađi odgovarajući fajl u data/sources/
   // Vrati "file:line" ili null
 }
 ```
@@ -93,12 +156,18 @@ async function findQuoteInSource(quote) {
 }
 ```
 
-### Primer iz podataka:
+### Primer iz podataka (nova struktura):
 
 ```json
 {
   "sr": "Ne razgorevaj vatru nožem.",
-  "el": "πῦρ μαχαίρᾳ μὴ σκαλεύειν.",
+  "originalText": "πῦρ μαχαίρᾳ μὴ σκαλεύειν.",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VIII.17"
+    }
+  ],
   "pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"
 }
 ```

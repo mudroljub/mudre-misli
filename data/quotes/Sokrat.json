@@ -1,631 +1,899 @@
 [
-    {
-        "type": "bio",
-        "year": -469,
-        "sr": "Rođen u Atini, iz dema Alopeke; otac Sofronisko kamenorezac, majka Fenareta babica.",
-        "stsl": "Роди сѧ въ Атинахъ · изъ дема Алопекѣ · отьць Софронискъ камьнодѣлатель · мати Фенарета бабица.",
-        "originalText": "Σωκράτης Σωφρονίσκου μὲν ἦν υἱὸς λιθουργοῦ καὶ Φαιναρέτης μαίας, Ἀθηναῖος, τῶν δήμων Ἀλωπεκῆθεν.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+  {
+    "type": "bio",
+    "year": -469,
+    "sr": "Rođen u Atini, iz dema Alopeke; otac Sofronisko kamenorezac, majka Fenareta babica.",
+    "stsl": "Роди сѧ въ Атинахъ · изъ дема Алопекѣ · отьць Софронискъ камьнодѣлатель · мати Фенарета бабица.",
+    "originalText": "Σωκράτης Σωφρονίσκου μὲν ἦν υἱὸς λιθουργοῦ καὶ Φαιναρέτης μαίας, Ἀθηναῖος, τῶν δήμων Ἀλωπεκῆθεν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.18"
-    },
-    {
-        "type": "bio",
-        "year": -450,
-        "sr": "Učenik Arhelaја prirodnjaka, koji ga je uveo u etičku filozofiju.",
-        "stsl": "Ѹченикъ Архелаꙗ єстьствословца · иже єго въ нравьствьнꙋю философїю введе.",
-        "originalText": "Ἀρχελάου μαθητής· παρ' οὗ λαβὼν Σωκράτης τὴν ἠθικὴν φιλοσοφίαν.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -450,
+    "sr": "Učenik Arhelaја prirodnjaka, koji ga je uveo u etičku filozofiju.",
+    "stsl": "Ѹченикъ Архелаꙗ єстьствословца · иже єго въ нравьствьнꙋю философїю введе.",
+    "originalText": "Ἀρχελάου μαθητής· παρ' οὗ λαβὼν Σωκράτης τὴν ἠθικὴν φιλοσοφίαν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.16"
-    },
-    {
-        "type": "bio",
-        "year": -432,
-        "sr": "Služio u vojsci kod Potideje morem; stajao noć i dan u istoj pozi; odlikovan ali prepustio nagradu Alkibijadu.",
-        "stsl": "Въиньствова при Потидеи морємь · стоꙗаше нощь и дьнь на єдиномь мѣстѣ · ѹвѣнчанъ бысть · нъ наградѹ Алкивїадѹ прѣпѹсти.",
-        "originalText": "Ἐστράτευσεν εἰς Ποτίδαιαν ναυσί· καὶ ἐπὶ μιᾶς προθέσεως νύκτα καὶ ἡμέραν ἔστη· καὶ τὸ ἀριστεῖον ἀφεῖλεν, ἀλλὰ παρεχώρησεν Ἀλκιβιάδῃ.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -432,
+    "sr": "Služio u vojsci kod Potideje morem; stajao noć i dan u istoj pozi; odlikovan ali prepustio nagradu Alkibijadu.",
+    "stsl": "Въиньствова при Потидеи морємь · стоꙗаше нощь и дьнь на єдиномь мѣстѣ · ѹвѣнчанъ бысть · нъ наградѹ Алкивїадѹ прѣпѹсти.",
+    "originalText": "Ἐστράτευσεν εἰς Ποτίδαιαν ναυσί· καὶ ἐπὶ μιᾶς προθέσεως νύκτα καὶ ἡμέραν ἔστη· καὶ τὸ ἀριστεῖον ἀφεῖλεν, ἀλλὰ παρεχώρησεν Ἀλκιβιάδῃ.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.22-23"
-    },
-    {
-        "type": "bio",
-        "year": -424,
-        "sr": "U bici kod Delija spasao Ksenofonta kada je pao s konja.",
-        "stsl": "Въ брани при Делїи спасе Ксенофонта · єгда падє съ конꙗ.",
-        "originalText": "Ἐν δὲ τῇ ἐν Δηλίῳ μάχῃ Ξενοφῶντα πεσόντα ἀπὸ τοῦ ἵππου ἀνείλετο.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -424,
+    "sr": "U bici kod Delija spasao Ksenofonta kada je pao s konja.",
+    "stsl": "Въ брани при Делїи спасе Ксенофонта · єгда падє съ конꙗ.",
+    "originalText": "Ἐν δὲ τῇ ἐν Δηλίῳ μάχῃ Ξενοφῶντα πεσόντα ἀπὸ τοῦ ἵππου ἀνείλετο.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.22"
-    },
-    {
-        "type": "bio",
-        "year": -422,
-        "sr": "Služio u vojsci kod Amfipolja.",
-        "stsl": "Въиньствова при Амфиполи.",
-        "originalText": "Ἐστράτευσεν εἰς Ἀμφίπολιν.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -422,
+    "sr": "Služio u vojsci kod Amfipolja.",
+    "stsl": "Въиньствова при Амфиполи.",
+    "originalText": "Ἐστράτευσεν εἰς Ἀμφίπολιν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.22"
-    },
-    {
-        "type": "bio",
-        "year": -405,
-        "sr": "Oženio se Ksantipom koja mu rodila Lamproklea; po nekima uzeo Mirtu, kćer Aristida Pravičnog, bez miraza.",
-        "stsl": "Женитъ сѧ на Ксантиппѣ · ѩже роди Лампроклꙿєа · по нѣкїимъ же ѹзѧ Миртѹ · дъщерь Аристида Правьднаго · безъ мирꙙза.",
-        "originalText": "Ἐγάμησε Ξανθίππην, ἐξ ἧς Λαμπροκλέα· γῆμαι δὲ καὶ Μυρτὼ τὴν Ἀριστείδου θυγατέρα τοῦ δικαίου ἄπροικον.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -405,
+    "sr": "Oženio se Ksantipom koja mu rodila Lamproklea; po nekima uzeo Mirtu, kćer Aristida Pravičnog, bez miraza.",
+    "stsl": "Женитъ сѧ на Ксантиппѣ · ѩже роди Лампроклꙿєа · по нѣкїимъ же ѹзѧ Миртѹ · дъщерь Аристида Правьднаго · безъ мирꙙза.",
+    "originalText": "Ἐγάμησε Ξανθίππην, ἐξ ἧς Λαμπροκλέα· γῆμαι δὲ καὶ Μυρτὼ τὴν Ἀριστείδου θυγατέρα τοῦ δικαίου ἄπροικον.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.26"
-    },
-    {
-        "type": "bio",
-        "year": -399,
-        "sr": "Optužen od Meleta, Anita i Likona; osuđen sa 281 glasom protiv; umro u 70. godini pošto popio otrov kukute.",
-        "stsl": "Обвиненъ отъ Мелета · Анита и Ликона · осꙋжденъ двѣста и осмьдесѧтъ и єдинымь гласомъ · ѹмрѣ въ седмьдесѧтомь лѣтѣ · пивъ отровѹ цикѹтнꙋю.",
-        "originalText": "Γράψας δὲ αὐτὸν Μέλητος, Ἄνυτος δὲ καὶ Λύκων ὑπεστήρισαν· κατεψηφίσθη διακοσίαις ὀγδοήκοντα μιᾷ ψήφοις· ἐτελεύτησε πιὼν κώνειον ἑβδομηκονταέτης.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -399,
+    "sr": "Optužen od Meleta, Anita i Likona; osuđen sa 281 glasom protiv; umro u 70. godini pošto popio otrov kukute.",
+    "stsl": "Обвиненъ отъ Мелета · Анита и Ликона · осꙋжденъ двѣста и осмьдесѧтъ и єдинымь гласомъ · ѹмрѣ въ седмьдесѧтомь лѣтѣ · пивъ отровѹ цикѹтнꙋю.",
+    "originalText": "Γράψας δὲ αὐτὸν Μέλητος, Ἄνυτος δὲ καὶ Λύκων ὑπεστήρισαν· κατεψηφίσθη διακοσίαις ὀγδοήκοντα μιᾷ ψήφοις· ἐτελεύτησε πιὼν κώνειον ἑβδομηκονταέτης.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.38-43"
-    },
-    {
-        "type": "quote",
-        "sr": "Proučavanje prirode nije naša briga; valja istraživati šta je u kući dobro, a šta zlo.",
-        "stsl": "Испытаніє єстества не наша пещаль єсть · подобає испытовати · что въ домѹ благо и что зло ·",
-        "originalText": "Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ· κἀκεῖνα δὲ φάσκειν ζητεῖν, ὅττι τοι ἐν μεγάροισι κακόν τ' ἀγαθόν τε τέτυκται.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Proučavanje prirode nije naša briga; valja istraživati šta je u kući dobro, a šta zlo.",
+    "stsl": "Испытаніє єстества не наша пещаль єсть · подобає испытовати · что въ домѹ благо и что зло ·",
+    "originalText": "Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ· κἀκεῖνα δὲ φάσκειν ζητεῖν, ὅττι τοι ἐν μεγάροισι κακόν τ' ἀγαθόν τε τέτυκται.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.21"
-    },
-    {
-        "type": "quote",
-        "sr": "Ako bi me magarac šutnuo, zar bih ga zbog toga tužio?",
-        "stsl": "Аште бы мѧ осьлъ ритнѫлъ · того ли ради на нь сѫдъ въздвиглъ быхъ ·",
-        "originalText": "Εἰ δέ με ὄνος ἐλάκτισε, δίκην ἂν αὐτῷ ἐλάγχανον;",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ako bi me magarac šutnuo, zar bih ga zbog toga tužio?",
+    "stsl": "Аште бы мѧ осьлъ ритнѫлъ · того ли ради на нь сѫдъ въздвиглъ быхъ ·",
+    "originalText": "Εἰ δέ με ὄνος ἐλάκτισε, δίκην ἂν αὐτῷ ἐλάγχανον;",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.21"
-    },
-    {
-        "type": "quote",
-        "sr": "Ono što razumem u Heraklitovoj knjizi izvrsno je, a verujem da je takvo i ono što ne razumem; ali potreban je delski ronilac da bi joj se doprlo do dna.",
-        "stsl": "Єже въ Хераклитовѣ книзѣ разѹмѣѭ · прѣизрѧдьно єсть · вѣрѹѭ же · ꙗко и єже не разѹмѣѭ таково єсть · нъ Дельскъ водолазъ подобає · да до дъна єѧ достигнеть ·",
-        "originalText": "Ἃ μὲν συνῆκα, γενναῖα· οἶμαι δὲ καὶ ἃ μὴ συνῆκα· πλὴν Δηλίου γέ τινος δεῖται κολυμβητοῦ.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ono što razumem u Heraklitovoj knjizi izvrsno je, a verujem da je takvo i ono što ne razumem; ali potreban je delski ronilac da bi joj se doprlo do dna.",
+    "stsl": "Єже въ Хераклитовѣ книзѣ разѹмѣѭ · прѣизрѧдьно єсть · вѣрѹѭ же · ꙗко и єже не разѹмѣѭ таково єсть · нъ Дельскъ водолазъ подобає · да до дъна єѧ достигнеть ·",
+    "originalText": "Ἃ μὲν συνῆκα, γενναῖα· οἶμαι δὲ καὶ ἃ μὴ συνῆκα· πλὴν Δηλίου γέ τινος δεῖται κολυμβητοῦ.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.22"
-    },
-    {
-        "type": "quote",
-        "sr": "Cilj rasprave nije oduzeti sagovorniku njegovo mišljenje, nego pokušati saznati istinu.",
-        "stsl": "Цѣль прѣниꙗ не єсть отъѧти събесѣдьникѹ мьнѣніє єго · нъ покѹсити сѧ истинѹ вѣдѣти ·",
-        "originalText": "Φιλονεικότερον συνεζήτει τοῖς προσδιαλεγομένοις, οὐχ ὥστε ἀφελέσθαι τὴν δόξαν αὐτούς, ἀλλ' ὥστε τὸ ἀληθὲς ἐκμαθεῖν πειρᾶσθαι.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Cilj rasprave nije oduzeti sagovorniku njegovo mišljenje, nego pokušati saznati istinu.",
+    "stsl": "Цѣль прѣниꙗ не єсть отъѧти събесѣдьникѹ мьнѣніє єго · нъ покѹсити сѧ истинѹ вѣдѣти ·",
+    "originalText": "Φιλονεικότερον συνεζήτει τοῖς προσδιαλεγομένοις, οὐχ ὥστε ἀφελέσθαι τὴν δόξαν αὐτούς, ἀλλ' ὥστε τὸ ἀληθὲς ἐκμαθεῖν πειρᾶσθαι.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.22"
-    },
-    {
-        "type": "quote",
-        "sr": "Kada bi mi trebale cipele, a ti mi ponudio čitavu kožu da od nje napravim par, zar ne bi bilo smešno da je uzmem?",
-        "stsl": "Аште бы ми сапогы трѣбовали сѧ · ты же цѣлꙫ кожꙫ на двои сапогъ подалъ бы · не смѣшьно ли бы было да ѭ приимꙫ ·",
-        "originalText": "Καὶ εἰ ὑποδημάτων ἔδει καὶ βύρσαν μοι ἐδίδους ἵν' ἐμαυτῷ ὑποδήματα ποιησαίμην, καταγέλαστος ἂν ἦν λαβών.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kada bi mi trebale cipele, a ti mi ponudio čitavu kožu da od nje napravim par, zar ne bi bilo smešno da je uzmem?",
+    "stsl": "Аште бы ми сапогы трѣбовали сѧ · ты же цѣлꙫ кожꙫ на двои сапогъ подалъ бы · не смѣшьно ли бы было да ѭ приимꙫ ·",
+    "originalText": "Καὶ εἰ ὑποδημάτων ἔδει καὶ βύρσαν μοι ἐδίδους ἵν' ἐμαυτῷ ὑποδήματα ποιησαίμην, καταγέλαστος ἂν ἦν λαβών.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.24"
-    },
-    {
-        "type": "quote",
-        "sr": "Koliko je mnogo stvari bez kojih mogu!",
-        "stsl": "Колико многа сѫть · ихъже не трѣбѹѭ ·",
-        "originalText": "Πόσων ἐγὼ χρείαν οὐκ ἔχω.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Koliko je mnogo stvari bez kojih mogu!",
+    "stsl": "Колико многа сѫть · ихъже не трѣбѹѭ ·",
+    "originalText": "Πόσων ἐγὼ χρείαν οὐκ ἔχω.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.25"
-    },
-    {
-        "type": "quote",
-        "sr": "Najviše uživam u hrani kojoj treba najmanje začina i u piću posle kojeg najmanje žudim za drugim pićem. Bogovima sam najbliži po tome što imam najmanje potreba.",
-        "stsl": "Наипаче сластъ имамъ въ ꙗди · єиже наимьнѣ приправы подобає · и въ питии · по немьже наимьнѣ дрѹгаго питиꙗ желаѭ · Богомъ наиближьши єсмь тѣмь · ꙗко наимьнѣ потрѣбъ имамъ ·",
-        "originalText": "Ἥδιστα ἐσθίων ἥκιστα ὄψου προσδεῖσθαι· καὶ ἥδιστα πίνων ἥκιστα τὸ μὴ παρὸν ποτὸν ἀναμένειν· καὶ ἐλαχίστων δεόμενος ἔγγιστα εἶναι θεῶν.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Najviše uživam u hrani kojoj treba najmanje začina i u piću posle kojeg najmanje žudim za drugim pićem. Bogovima sam najbliži po tome što imam najmanje potreba.",
+    "stsl": "Наипаче сластъ имамъ въ ꙗди · єиже наимьнѣ приправы подобає · и въ питии · по немьже наимьнѣ дрѹгаго питиꙗ желаѭ · Богомъ наиближьши єсмь тѣмь · ꙗко наимьнѣ потрѣбъ имамъ ·",
+    "originalText": "Ἥδιστα ἐσθίων ἥκιστα ὄψου προσδεῖσθαι· καὶ ἥδιστα πίνων ἥκιστα τὸ μὴ παρὸν ποτὸν ἀναμένειν· καὶ ἐλαχίστων δεόμενος ἔγγιστα εἶναι θεῶν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.27"
-    },
-    {
-        "type": "quote",
-        "sr": "Čudno je što čovek tačno zna koliko ovaca ima, a ne ume da imenuje svoje prijatelje niti da kaže koliko ih je; tako ih malo ceni.",
-        "stsl": "Дивьно єсть · ꙗко чловѣкъ точно вѣсть · колико овьць имать · дрѹгы же своꙗ имѧновати ни числа ихъ рещи не можеть · тако мало ихъ цѣнить ·",
-        "originalText": "Θαῦμα τὸ μὲν ἕκαστον εἰπεῖν ἂν ῥᾳδίως ὅσα ἔχει, φίλους δ' οὐκ ἂν ὀνομάσαι ὁπόσους κέκτηται· οὕτως ὀλιγώρως ἔχειν περὶ αὐτούς.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Čudno je što čovek tačno zna koliko ovaca ima, a ne ume da imenuje svoje prijatelje niti da kaže koliko ih je; tako ih malo ceni.",
+    "stsl": "Дивьно єсть · ꙗко чловѣкъ точно вѣсть · колико овьць имать · дрѹгы же своꙗ имѧновати ни числа ихъ рещи не можеть · тако мало ихъ цѣнить ·",
+    "originalText": "Θαῦμα τὸ μὲν ἕκαστον εἰπεῖν ἂν ῥᾳδίως ὅσα ἔχει, φίλους δ' οὐκ ἂν ὀνομάσαι ὁπόσους κέκτηται· οὕτως ὀλιγώρως ἔχειν περὶ αὐτούς.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.30"
-    },
-    {
-        "type": "quote",
-        "sr": "Sa sofistima ćeš umeti, Euklide, ali sa ljudima nikako.",
-        "stsl": "Съ мѹдрьникы ѹмѣти бѹдеши · Евклиде · съ чловѣкы же никакоже ·",
-        "originalText": "Ὦ Εὐκλείδη, σοφισταῖς μὲν δυνήσῃ χρῆσθαι, ἀνθρώποις δὲ οὐδαμῶς.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Sa sofistima ćeš umeti, Euklide, ali sa ljudima nikako.",
+    "stsl": "Съ мѹдрьникы ѹмѣти бѹдеши · Евклиде · съ чловѣкы же никакоже ·",
+    "originalText": "Ὦ Εὐκλείδη, σοφισταῖς μὲν δυνήσῃ χρῆσθαι, ἀνθρώποις δὲ οὐδαμῶς.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.30"
-    },
-    {
-        "type": "quote",
-        "sr": "Dokolica je najbolje imanje.",
-        "stsl": "Праздноє врѣмѧ наилѹчьше имѣніє єсть ·",
-        "originalText": "Ἐπῄνει σχολὴν ὡς κάλλιστον κτημάτων.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Dokolica je najbolje imanje.",
+    "stsl": "Праздноє врѣмѧ наилѹчьше имѣніє єсть ·",
+    "originalText": "Ἐπῄνει σχολὴν ὡς κάλλιστον κτημάτων.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.31"
-    },
-    {
-        "type": "quote",
-        "sr": "Postoji samo jedno dobro — nauka, i samo jedno zlo — neukost. Bogatstvo i plemenito poreklo ne donose dostojanstvo, nego pre zlo.",
-        "stsl": "Єдино благо єсть наѹка и єдино зло неѹченіє · Богатьство и благородиє достоиньства не приносѧть · нъ паче зло ·",
-        "originalText": "Ἓν μόνον ἀγαθὸν εἶναι, τὴν ἐπιστήμην, καὶ ἓν μόνον κακόν, τὴν ἀμαθίαν· πλοῦτον δὲ καὶ εὐγένειαν οὐδὲν σεμνὸν ἔχειν, πᾶν δὲ τοὐναντίον κακόν.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Postoji samo jedno dobro — nauka, i samo jedno zlo — neukost. Bogatstvo i plemenito poreklo ne donose dostojanstvo, nego pre zlo.",
+    "stsl": "Єдино благо єсть наѹка и єдино зло неѹченіє · Богатьство и благородиє достоиньства не приносѧть · нъ паче зло ·",
+    "originalText": "Ἓν μόνον ἀγαθὸν εἶναι, τὴν ἐπιστήμην, καὶ ἓν μόνον κακόν, τὴν ἀμαθίαν· πλοῦτον δὲ καὶ εὐγένειαν οὐδὲν σεμνὸν ἔχειν, πᾶν δὲ τοὐναντίον κακόν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.31"
-    },
-    {
-        "type": "quote",
-        "sr": "Zar si očekivao da se tako plemenit čovek rodi od dvoje Atinjana?",
-        "stsl": "Еда чаꙗлъ єси · да толико благородьнъ мѫжь отъ двою Атинѧнинѹ родить сѧ ·",
-        "originalText": "Σὺ δ' ᾤου, οὕτως ἂν γενναῖον ἐκ δυεῖν Ἀθηναίων γενέσθαι;",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Zar si očekivao da se tako plemenit čovek rodi od dvoje Atinjana?",
+    "stsl": "Еда чаꙗлъ єси · да толико благородьнъ мѫжь отъ двою Атинѧнинѹ родить сѧ ·",
+    "originalText": "Σὺ δ' ᾤου, οὕτως ἂν γενναῖον ἐκ δυεῖν Ἀθηναίων γενέσθαι;",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.31"
-    },
-    {
-        "type": "quote",
-        "sr": "Božanski znak unapred me upozorava na ono što dolazi.",
-        "stsl": "Божьє знаменіє напрѣдъ мѧ о грѧдѹштемь прѣдѹпрѣждаєть ·",
-        "originalText": "Προσημαίνειν τὸ δαιμόνιον τὰ μέλλοντα αὐτῷ.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Božanski znak unapred me upozorava na ono što dolazi.",
+    "stsl": "Божьє знаменіє напрѣдъ мѧ о грѧдѹштемь прѣдѹпрѣждаєть ·",
+    "originalText": "Προσημαίνειν τὸ δαιμόνιον τὰ μέλλοντα αὐτῷ.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.32"
-    },
-    {
-        "type": "quote",
-        "sr": "Dobar početak nije mala prednost, ali sitnica preteže na vagi.",
-        "stsl": "Добро начѧло не мала польза єсть · нъ мала вешь мѣрило прѣкланѧєть ·",
-        "originalText": "Τό τε εὖ ἄρχεσθαι μικρὸν μὲν μὴ εἶναι, παρὰ μικρὸν δέ.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Dobar početak nije mala prednost, ali sitnica preteže na vagi.",
+    "stsl": "Добро начѧло не мала польза єсть · нъ мала вешь мѣрило прѣкланѧєть ·",
+    "originalText": "Τό τε εὖ ἄρχεσθαι μικρὸν μὲν μὴ εἶναι, παρὰ μικρὸν δέ.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.32"
-    },
-    {
-        "type": "quote",
-        "sr": "Znam samo to da ništa ne znam.",
-        "stsl": "Тъкмо то вѣмь · ꙗко ничтоже вѣмь ·",
-        "originalText": "Εἰδέναι μὲν μηδὲν πλὴν αὐτὸ τοῦτο.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Znam samo to da ništa ne znam.",
+    "stsl": "Тъкмо то вѣмь · ꙗко ничтоже вѣмь ·",
+    "originalText": "Εἰδέναι μὲν μηδὲν πλὴν αὐτὸ τοῦτο.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.32"
-    },
-    {
-        "type": "quote",
-        "sr": "Kada ljudi skupo plaćaju voće koje je prerano sazrelo, moraju izgubiti nadu da će ono sazreti u pravo vreme.",
-        "stsl": "Єгда чловѣци дорого плодъ прѣжде врѣмене съзрѣвъшии плаштꙫть · надѣждꙫ погѹбити имъ подобає · ꙗко въ право врѣмѧ съзрѣєть ·",
-        "originalText": "Τούς τε τὰ ἀώρια πολλοῦ ἐωνημένους ἀπογινώσκειν ἔλεγεν εἰς τὰς ὥρας ἐλθεῖν.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kada ljudi skupo plaćaju voće koje je prerano sazrelo, moraju izgubiti nadu da će ono sazreti u pravo vreme.",
+    "stsl": "Єгда чловѣци дорого плодъ прѣжде врѣмене съзрѣвъшии плаштꙫть · надѣждꙫ погѹбити имъ подобає · ꙗко въ право врѣмѧ съзрѣєть ·",
+    "originalText": "Τούς τε τὰ ἀώρια πολλοῦ ἐωνημένους ἀπογινώσκειν ἔλεγεν εἰς τὰς ὥρας ἐλθεῖν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.32"
-    },
-    {
-        "type": "quote",
-        "sr": "Vrlina mladog čoveka sastoji se u tome da ni u čemu ne preteruje.",
-        "stsl": "Добродѣтель юношы въ томь єсть · да ни въ чемь мѣрꙫ прѣходить ·",
-        "originalText": "Τὸ μηδὲν ἄγαν.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Vrlina mladog čoveka sastoji se u tome da ni u čemu ne preteruje.",
+    "stsl": "Добродѣтель юношы въ томь єсть · да ни въ чемь мѣрꙫ прѣходить ·",
+    "originalText": "Τὸ μηδὲν ἄγαν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.32"
-    },
-    {
-        "type": "quote",
-        "sr": "Geometriju treba učiti dotle dok čovek ne bude umeo da izmeri zemlju koju stiče ili ustupa.",
-        "stsl": "Землемѣрію до толѣ ѹчити сѧ подобає · дондеже чловѣкъ землѭ · ѭже приємлеть или отдаєть · измѣрити ѹмѣти бѹдеть ·",
-        "originalText": "Δεῖν γεωμετρεῖν μέχρι ἄν τις μέτρῳ δύνηται γῆν παραλαβεῖν καὶ παραδοῦναι.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Geometriju treba učiti dotle dok čovek ne bude umeo da izmeri zemlju koju stiče ili ustupa.",
+    "stsl": "Землемѣрію до толѣ ѹчити сѧ подобає · дондеже чловѣкъ землѭ · ѭже приємлеть или отдаєть · измѣрити ѹмѣти бѹдеть ·",
+    "originalText": "Δεῖν γεωμετρεῖν μέχρι ἄν τις μέτρῳ δύνηται γῆν παραλαβεῖν καὶ παραδοῦναι.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.32"
-    },
-    {
-        "type": "quote",
-        "sr": "Oženio se ili ne, kajaćeš se.",
-        "stsl": "Ожени сѧ или не ожени · раскаꙗти сѧ бѹдеши ·",
-        "originalText": "Ὃ ἂν αὐτῶν ποιήσῃς, μεταγνώσῃ.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Oženio se ili ne, kajaćeš se.",
+    "stsl": "Ожени сѧ или не ожени · раскаꙗти сѧ бѹдеши ·",
+    "originalText": "Ὃ ἂν αὐτῶν ποιήσῃς, μεταγνώσῃ.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.33"
-    },
-    {
-        "type": "quote",
-        "sr": "Vajari se trude da kamen učine savršenim likom čoveka, a ne trude se oko sebe da ne ostanu samo kamenje umesto ljudi.",
-        "stsl": "Каменосѣчьци тързаѭть · да камень съвръшенъ образъ чловѣка сътворѧть · о себѣ же не тързаѭть · да не прѣбѫдѫть камени вмѣсто чловѣкъ ·",
-        "originalText": "Θαυμάζειν τῶν τὰς λιθίνας εἰκόνας κατασκευαζομένων τοῦ μὲν λίθου προνοεῖν ὅπως ὁμοιότατος ἔσται, αὑτῶν δ' ἀμελεῖν, ὡς μὴ ὁμοίους τῷ λίθῳ φαίνεσθαι.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Vajari se trude da kamen učine savršenim likom čoveka, a ne trude se oko sebe da ne ostanu samo kamenje umesto ljudi.",
+    "stsl": "Каменосѣчьци тързаѭть · да камень съвръшенъ образъ чловѣка сътворѧть · о себѣ же не тързаѭть · да не прѣбѫдѫть камени вмѣсто чловѣкъ ·",
+    "originalText": "Θαυμάζειν τῶν τὰς λιθίνας εἰκόνας κατασκευαζομένων τοῦ μὲν λίθου προνοεῖν ὅπως ὁμοιότατος ἔσται, αὑτῶν δ' ἀμελεῖν, ὡς μὴ ὁμοίους τῷ λίθῳ φαίνεσθαι.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.33"
-    },
-    {
-        "type": "quote",
-        "sr": "Mladi treba neprestano da se ogledaju: lepi, da bi im i ponašanje bilo lepo; ružni, da bi obrazovanjem prikrili nedostatke.",
-        "stsl": "Юнымъ непрѣстаньно въ зрьцало зрѣти подобає · краснымъ · да и нравъ ихъ красенъ бѹдеть · некраснымъ · да поѹченіємъ недостатъкы покрыѭть ·",
-        "originalText": "Τοὺς νέους συνεχὲς κατοπτρίζεσθαι, ἵν' εἰ μὲν καλοὶ εἶεν, ἄξιοι γίγνοιντο· εἰ δ' αἰσχροί, παιδείᾳ τὴν δυσείδειαν ἐπικαλύπτοιεν.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Mladi treba neprestano da se ogledaju: lepi, da bi im i ponašanje bilo lepo; ružni, da bi obrazovanjem prikrili nedostatke.",
+    "stsl": "Юнымъ непрѣстаньно въ зрьцало зрѣти подобає · краснымъ · да и нравъ ихъ красенъ бѹдеть · некраснымъ · да поѹченіємъ недостатъкы покрыѭть ·",
+    "originalText": "Τοὺς νέους συνεχὲς κατοπτρίζεσθαι, ἵν' εἰ μὲν καλοὶ εἶεν, ἄξιοι γίγνοιντο· εἰ δ' αἰσχροί, παιδείᾳ τὴν δυσείδειαν ἐπικαλύπτοιεν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.33"
-    },
-    {
-        "type": "quote",
-        "sr": "Ako su gosti razumni, podneće skromnu večeru; ako su bezvredni, nećemo se zbog njih uznemiravati.",
-        "stsl": "Аште гости разѹмьни сѫть · скръмнꙫ вечерѭ прѣтръпѧть · аште ли ничтожьни · о нихъ не възмѫтимъ сѧ ·",
-        "originalText": "Θάρρει· εἰ μὲν γὰρ εἶεν μέτριοι, συμπεριενεχθεῖεν ἄν· εἰ δὲ φαῦλοι, ἡμῖν αὐτῶν οὐδὲν μελήσει.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ako su gosti razumni, podneće skromnu večeru; ako su bezvredni, nećemo se zbog njih uznemiravati.",
+    "stsl": "Аште гости разѹмьни сѫть · скръмнꙫ вечерѭ прѣтръпѧть · аште ли ничтожьни · о нихъ не възмѫтимъ сѧ ·",
+    "originalText": "Θάρρει· εἰ μὲν γὰρ εἶεν μέτριοι, συμπεριενεχθεῖεν ἄν· εἰ δὲ φαῦλοι, ἡμῖν αὐτῶν οὐδὲν μελήσει.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.34"
-    },
-    {
-        "type": "quote",
-        "sr": "Drugi ljudi žive da bi jeli; ja jedem da bih živeo.",
-        "stsl": "Прочии чловѣци живѫть · да ꙗдѧть · азъ ꙗмь · да живѫ ·",
-        "originalText": "Τοὺς μὲν ἄλλους ἀνθρώπους ζῆν ἵν' ἐσθίοιεν· αὐτὸν δὲ ἐσθίειν ἵνα ζῴη.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Drugi ljudi žive da bi jeli; ja jedem da bih živeo.",
+    "stsl": "Прочии чловѣци живѫть · да ꙗдѧть · азъ ꙗмь · да живѫ ·",
+    "originalText": "Τοὺς μὲν ἄλλους ἀνθρώπους ζῆν ἵν' ἐσθίοιεν· αὐτὸν δὲ ἐσθίειν ἵνα ζῴη.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.34"
-    },
-    {
-        "type": "quote",
-        "sr": "Ko odbacuje jedan lažan novčić, a čitavu gomilu takvih prima kao pravu, postupa kao onaj ko se obazire na sud bezvredne gomile.",
-        "stsl": "Иже єдинъ лъжьнъ пѣнѧзь отъмѣтаєть · цѣлѹ же громадꙫ таковыхъ ꙗко истинꙫ приємлеть · подобьнъ єсть томѹ · иже сѫда ничтожьна множьства боить сѧ ·",
-        "originalText": "Πρὸς τὸ οὐκ ἀξιόλογον πλῆθος ἔφασκεν ὅμοιον εἴ τις τετράδραχμον ἓν ἀποδοκιμάζων τὸν ἐκ τῶν τοιούτων σωρὸν ὡς δόκιμον ἀποδέχοιτο.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ko odbacuje jedan lažan novčić, a čitavu gomilu takvih prima kao pravu, postupa kao onaj ko se obazire na sud bezvredne gomile.",
+    "stsl": "Иже єдинъ лъжьнъ пѣнѧзь отъмѣтаєть · цѣлѹ же громадꙫ таковыхъ ꙗко истинꙫ приємлеть · подобьнъ єсть томѹ · иже сѫда ничтожьна множьства боить сѧ ·",
+    "originalText": "Πρὸς τὸ οὐκ ἀξιόλογον πλῆθος ἔφασκεν ὅμοιον εἴ τις τετράδραχμον ἓν ἀποδοκιμάζων τὸν ἐκ τῶν τοιούτων σωρὸν ὡς δόκιμον ἀποδέχοιτο.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.34"
-    },
-    {
-        "type": "quote",
-        "sr": "Zar ne vidiš da mi, nudeći sebe, daješ najveći dar?",
-        "stsl": "Не видиши ли · ꙗко ми · себе подаѧ · наивеликыи даръ даєши ·",
-        "originalText": "Ἆρ' οὖν, εἶπεν, οὐκ αἰσθάνῃ τὰ μέγιστά μοι διδούς;",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Zar ne vidiš da mi, nudeći sebe, daješ najveći dar?",
+    "stsl": "Не видиши ли · ꙗко ми · себе подаѧ · наивеликыи даръ даєши ·",
+    "originalText": "Ἆρ' οὖν, εἶπεν, οὐκ αἰσθάνῃ τὰ μέγιστά μοι διδούς;",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.34"
-    },
-    {
-        "type": "quote",
-        "sr": "Ne kaješ se valjda što su te Tridesetorica previdela?",
-        "stsl": "Не каєши ли сѧ · ꙗко тѧ Тридесѧть прѣзрѣша ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Ἇρα, ἔφη, μήτι σοι μεταμέλει;",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne kaješ se valjda što su te Tridesetorica previdela?",
+    "stsl": "Не каєши ли сѧ · ꙗко тѧ Тридесѧть прѣзрѣша ·",
+    "author": "Socrates",
+    "originalText": "Ἇρα, ἔφη, μήτι σοι μεταμέλει;",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.34"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Kriton je Sokrata izveo iz vajarske radionice i obrazovao ga, zadivljen lepotom njegovog duha.",
-        "stsl": "Критонъ Сократа отъ каменосѣчьскыѧ дѣлательнице изведе и поѹчи єго · красотѣ дѹха єго дивѧ сѧ.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -465,
-        "originalText": "Κρίτωνα δ' ἀναστῆσαι αὐτὸν ἀπὸ τοῦ ἐργαστηρίου καὶ παιδεῦσαι τῆς κατὰ ψυχὴν χάριτος ἐρασθέντα Δημήτριός φησίν ὁ Βυζάντιος.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kriton je Sokrata izveo iz vajarske radionice i obrazovao ga, zadivljen lepotom njegovog duha.",
+    "stsl": "Критонъ Сократа отъ каменосѣчьскыѧ дѣлательнице изведе и поѹчи єго · красотѣ дѹха єго дивѧ сѧ.",
+    "author": "Socrates",
+    "year": -465,
+    "originalText": "Κρίτωνα δ' ἀναστῆσαι αὐτὸν ἀπὸ τοῦ ἐργαστηρίου καὶ παιδεῦσαι τῆς κατὰ ψυχὴν χάριτος ἐρασθέντα Δημήτριός φησίν ὁ Βυζάντιος.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.20"
-    },
-    {
-        "type": "bio",
-        "sr": "O moralu je razgovarao po radionicama i na trgu.",
-        "stsl": "О нравѣхъ въ дѣлательницахъ и на тръжишти бесѣдовааше.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -455,
-        "originalText": "Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ.",
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "sr": "O moralu je razgovarao po radionicama i na trgu.",
+    "stsl": "О нравѣхъ въ дѣлательницахъ и на тръжишти бесѣдовааше.",
+    "author": "Socrates",
+    "year": -455,
+    "originalText": "Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.21"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Zbog žestine rasprave ljudi su ga ponekad udarali i čupali za kosu, ali je poruge i nasilje podnosio mirno.",
-        "stsl": "Жестости ради прѣниꙗ чловѣци иногда биꙗхѫ єго и власы тръзаахѫ · онъ же порѫганіє и насилиє тихо тръпѣаше.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -440,
-        "originalText": "Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Zbog žestine rasprave ljudi su ga ponekad udarali i čupali za kosu, ali je poruge i nasilje podnosio mirno.",
+    "stsl": "Жестости ради прѣниꙗ чловѣци иногда биꙗхѫ єго и власы тръзаахѫ · онъ же порѫганіє и насилиє тихо тръпѣаше.",
+    "author": "Socrates",
+    "year": -440,
+    "originalText": "Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.21"
-    },
-    {
-        "type": "quote",
-        "sr": "Zar bi više volela da stradam pravedno?",
-        "stsl": "Еда паче хотѣла бы єси · да по правдѣ постраждꙫ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Σὺ δέ, ἔφη, δικαίως ἐβούλου;",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Zar bi više volela da stradam pravedno?",
+    "stsl": "Еда паче хотѣла бы єси · да по правдѣ постраждꙫ ·",
+    "author": "Socrates",
+    "originalText": "Σὺ δέ, ἔφη, δικαίως ἐβούλου;",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.35"
-    },
-    {
-        "type": "quote",
-        "sr": "Trećeg dana ću umreti.",
-        "stsl": "Въ трети дьнь ѹмрѫ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Ἤματί κεν τριτάτῳ Φθίην ἐρίβωλον ἵκοιο, πρὸς Αἰσχίνην ἔφη, Εἰς τρίτην ἀποθανοῦμαι.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Trećeg dana ću umreti.",
+    "stsl": "Въ трети дьнь ѹмрѫ ·",
+    "author": "Socrates",
+    "originalText": "Ἤματί κεν τριτάτῳ Φθίην ἐρίβωλον ἵκοιο, πρὸς Αἰσχίνην ἔφη, Εἰς τρίτην ἀποθανοῦμαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.35"
-    },
-    {
-        "type": "quote",
-        "sr": "Zar je moja odeća dovoljno dobra da u njoj živim, ali nije da u njoj umrem?",
-        "stsl": "Еда риза моꙗ довольно добра єсть · да въ неи живѫ · нъ не да въ неи ѹмрѫ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Τί δέ, ἔφη, τὸ ἐμὸν ἱμάτιον ἐμβιῶναι μὲν ἐπιτήδειον, ἐναποθανεῖν δὲ οὐχί;",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Zar je moja odeća dovoljno dobra da u njoj živim, ali nije da u njoj umrem?",
+    "stsl": "Еда риза моꙗ довольно добра єсть · да въ неи живѫ · нъ не да въ неи ѹмрѫ ·",
+    "author": "Socrates",
+    "originalText": "Τί δέ, ἔφη, τὸ ἐμὸν ἱμάτιον ἐμβιῶναι μὲν ἐπιτήδειον, ἐναποθανεῖν δὲ οὐχί;",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.35"
-    },
-    {
-        "type": "quote",
-        "sr": "Govori loše o meni jer nikada nije naučio da govori dobro.",
-        "stsl": "Зълѣ о мнѣ глаголеть · зане николиже добрѣ глаголати не наѹчи сѧ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Καλῶς γάρ, ἔφη, λέγειν οὐκ ἔμαθε.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Govori loše o meni jer nikada nije naučio da govori dobro.",
+    "stsl": "Зълѣ о мнѣ глаголеть · зане николиже добрѣ глаголати не наѹчи сѧ ·",
+    "author": "Socrates",
+    "originalText": "Καλῶς γάρ, ἔφη, λέγειν οὐκ ἔμαθε.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.35"
-    },
-    {
-        "type": "quote",
-        "sr": "Kroz tvoj ogrtač vidim tvoju sujetu.",
-        "stsl": "Сквозѣ плашть твои тъштеславиє твоє виждꙫ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Ὁρῶ σου, ἔφη, διὰ τοῦ τρίβωνος τὴν κενοδοξίαν.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kroz tvoj ogrtač vidim tvoju sujetu.",
+    "stsl": "Сквозѣ плашть твои тъштеславиє твоє виждꙫ ·",
+    "author": "Socrates",
+    "originalText": "Ὁρῶ σου, ἔφη, διὰ τοῦ τρίβωνος τὴν κενοδοξίαν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.36"
-    },
-    {
-        "type": "quote",
-        "sr": "Ne vređa me, jer se njegove reči ne odnose na mene.",
-        "stsl": "Не обидить мене · зане словеса єго ко мнѣ не относѧть сѧ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Οὐχί, ἔφη· ἐμοὶ γὰρ οὐ πρόσεστι ταῦτα.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne vređa me, jer se njegove reči ne odnose na mene.",
+    "stsl": "Не обидить мене · зане словеса єго ко мнѣ не относѧть сѧ ·",
+    "author": "Socrates",
+    "originalText": "Οὐχί, ἔφη· ἐμοὶ γὰρ οὐ πρόσεστι ταῦτα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.36"
-    },
-    {
-        "type": "quote",
-        "sr": "Ne treba se protiviti tome da budemo predmet komediografa: ako ismevaju naše mane, koristiće nam; ako ih nemamo, njihove nas reči ne dotiču.",
-        "stsl": "Не подобає противити сѧ · да смѣхотворьци о насъ глаголѭть · аште порокы наша осмѣваѭть · на пользꙫ намъ бѹдеть · аште ихъ не имамы · словеса ихъ насъ не касаѭть сѧ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Τοῖς κωμικοῖς δεῖν ἐπίτηδες ἑαυτὸν διδόναι· εἰ μὲν γάρ τι τῶν προσόντων λέξειαν, διορθώσονται· εἰ δ' οὔ, οὐδὲν πρὸς ἡμᾶς.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne treba se protiviti tome da budemo predmet komediografa: ako ismevaju naše mane, koristiće nam; ako ih nemamo, njihove nas reči ne dotiču.",
+    "stsl": "Не подобає противити сѧ · да смѣхотворьци о насъ глаголѭть · аште порокы наша осмѣваѭть · на пользꙫ намъ бѹдеть · аште ихъ не имамы · словеса ихъ насъ не касаѭть сѧ ·",
+    "author": "Socrates",
+    "originalText": "Τοῖς κωμικοῖς δεῖν ἐπίτηδες ἑαυτὸν διδόναι· εἰ μὲν γάρ τι τῶν προσόντων λέξειαν, διορθώσονται· εἰ δ' οὔ, οὐδὲν πρὸς ἡμᾶς.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.36"
-    },
-    {
-        "type": "quote",
-        "sr": "Konjanici vole plahovite konje: kada njih ukrote, lako izlaze na kraj sa ostalima. Tako ću i ja, živeći sa Ksantipom, naučiti da se prilagodim svim ljudima.",
-        "stsl": "Коньници любѧть плаховиты кони · єгда ихъ ѹкротаѭть · легко съ прочими справлѧѭть сѧ · Тако и азъ · съ Ксантипою живы · всѣмъ чловѣкомъ прилагати сѧ наѹчꙫ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Ἀλλ' ὡς ἐκεῖνοι, φησί, τούτων κρατήσαντες ῥᾳδίως τῶν ἄλλων περιγίνονται, οὕτω κἀγὼ Ξανθίππῃ χρώμενος τοῖς ἄλλοις ἀνθρώποις συμπεριενεχθήσομαι.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Konjanici vole plahovite konje: kada njih ukrote, lako izlaze na kraj sa ostalima. Tako ću i ja, živeći sa Ksantipom, naučiti da se prilagodim svim ljudima.",
+    "stsl": "Коньници любѧть плаховиты кони · єгда ихъ ѹкротаѭть · легко съ прочими справлѧѭть сѧ · Тако и азъ · съ Ксантипою живы · всѣмъ чловѣкомъ прилагати сѧ наѹчꙫ ·",
+    "author": "Socrates",
+    "originalText": "Ἀλλ' ὡς ἐκεῖνοι, φησί, τούτων κρατήσαντες ῥᾳδίως τῶν ἄλλων περιγίνονται, οὕτω κἀγὼ Ξανθίππῃ χρώμενος τοῖς ἄλλοις ἀνθρώποις συμπεριενεχθήσομαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.37"
-    },
-    {
-        "type": "quote",
-        "sr": "Beseda je lepa, Lisija, ali meni ne priliči. Zar mi isto tako ne bi bile neprikladne lepa odeća i lepe cipele?",
-        "stsl": "Бесѣда красна єсть · Лисиє · нъ мнѣ не подобаєть · Не были ли бы ми такожде неподобьны красна риза и красны сапогы ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Καλὸς μὲν ὁ λόγος, ὦ Λυσία, οὐ μὴν ἁρμόττων γ' ἐμοί. Οὐ γὰρ καὶ ἱμάτια καλὰ καὶ ὑποδήματα εἴη ἂν ἐμοὶ ἀνάρμοστα.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Beseda je lepa, Lisija, ali meni ne priliči. Zar mi isto tako ne bi bile neprikladne lepa odeća i lepe cipele?",
+    "stsl": "Бесѣда красна єсть · Лисиє · нъ мнѣ не подобаєть · Не были ли бы ми такожде неподобьны красна риза и красны сапогы ·",
+    "author": "Socrates",
+    "originalText": "Καλὸς μὲν ὁ λόγος, ὦ Λυσία, οὐ μὴν ἁρμόττων γ' ἐμοί. Οὐ γὰρ καὶ ἱμάτια καλὰ καὶ ὑποδήματα εἴη ἂν ἐμοὶ ἀνάρμοστα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.40–41"
-    },
-    {
-        "type": "reported",
-        "sr": "Prema nekima, Sokrat je sastavio pesmu: „Zdravo, Apolone, gospodaru Dela! Zdravo, Artemido, plemeniti par!” Dionisodor je poricao da je pesma njegova.",
-        "stsl": "По нѣкоторымъ · Сократъ пѣснь състави · Радѹи сѧ · Аполоне · господине Дела · Радѹи сѧ · Артемидо · благородьна двоице · Дионисодоръ отъмѣтааше · ꙗко пѣснь єго єсть ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Ἀλλὰ καὶ παιᾶνα κατά τινας ἐποίησεν, οὗ ἡ ἀρχή· Δήλι' Ἄπολλον χαῖρε, καὶ Ἄρτεμι, παῖδε κλεεινώ. Διονυσόδωρος δέ φησι μὴ εἶναι αὐτοῦ τὸν παιᾶνα.",
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Prema nekima, Sokrat je sastavio pesmu: „Zdravo, Apolone, gospodaru Dela! Zdravo, Artemido, plemeniti par!” Dionisodor je poricao da je pesma njegova.",
+    "stsl": "По нѣкоторымъ · Сократъ пѣснь състави · Радѹи сѧ · Аполоне · господине Дела · Радѹи сѧ · Артемидо · благородьна двоице · Дионисодоръ отъмѣтааше · ꙗко пѣснь єго єсть ·",
+    "author": "Socrates",
+    "originalText": "Ἀλλὰ καὶ παιᾶνα κατά τινας ἐποίησεν, οὗ ἡ ἀρχή· Δήλι' Ἄπολλον χαῖρε, καὶ Ἄρτεμι, παῖδε κλεεινώ. Διονυσόδωρος δέ φησι μὴ εἶναι αὐτοῦ τὸν παιᾶνα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.42"
-    },
-    {
-        "type": "quote",
-        "sr": "Ne sudite, Korinćani, o vrlini onako kako sude sudovi.",
-        "stsl": "Не сѫдите · Коринѳѧне · о добродѣтели ꙗкоже сѫдишта сѫдѧть ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Μὴ κρίνειν ἀρετὴν λαοδίκῳ σοφίῃ.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne sudite, Korinćani, o vrlini onako kako sude sudovi.",
+    "stsl": "Не сѫдите · Коринѳѧне · о добродѣтели ꙗкоже сѫдишта сѫдѧть ·",
+    "author": "Socrates",
+    "originalText": "Μὴ κρίνειν ἀρετὴν λαοδίκῳ σοφίῃ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.42"
-    },
-    {
-        "type": "quote",
-        "sr": "Gde ljudi postaju dobri i časni? Pođi za mnom i naučićeš.",
-        "stsl": "Къдѣ чловѣци добри и чьстьни бываѭть · По мнѣ иди и наѹчиши сѧ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι; Ἕπου τοίνυν, φάναι, καὶ μάνθανε.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Gde ljudi postaju dobri i časni? Pođi za mnom i naučićeš.",
+    "stsl": "Къдѣ чловѣци добри и чьстьни бываѭть · По мнѣ иди и наѹчиши сѧ ·",
+    "author": "Socrates",
+    "originalText": "Ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι; Ἕπου τοίνυν, φάναι, καὶ μάνθανε.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.48"
-    },
-    {
-        "type": "quote",
-        "sr": "Samo mesarev sin ume da me poštuje.",
-        "stsl": "Тъкмо мѧсарьскъ сынъ ѹмѣєть мѧ почитати ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Μόνος ἡμᾶς οἶδε τιμᾶν ὁ τοῦ ἀλλαντοποιοῦ.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Samo mesarev sin ume da me poštuje.",
+    "stsl": "Тъкмо мѧсарьскъ сынъ ѹмѣєть мѧ почитати ·",
+    "author": "Socrates",
+    "originalText": "Μόνος ἡμᾶς οἶδε τιμᾶν ὁ τοῦ ἀλλαντοποιοῦ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.60"
-    },
-    {
-        "type": "quote",
-        "sr": "Pozajmljuj od sebe tako što ćeš smanjiti svoje obroke.",
-        "stsl": "Отъ себе заимаи · свою пиштꙫ ѹмалѧѧ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "originalText": "Τιθέντα γοῦν τὸ βαλλόμενον κέρμα ἀθροίζειν· εἶτ' ἀναλώσαντα πάλιν τιθέναι.",
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Pozajmljuj od sebe tako što ćeš smanjiti svoje obroke.",
+    "stsl": "Отъ себе заимаи · свою пиштꙫ ѹмалѧѧ ·",
+    "author": "Socrates",
+    "originalText": "Τιθέντα γοῦν τὸ βαλλόμενον κέρμα ἀθροίζειν· εἶτ' ἀναλώσαντα πάλιν τιθέναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.62"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Sokrat nije naplaćivao poučavanje.",
-        "stsl": "Сократъ за поѹченіє мъзды не приємлѧаше.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -430,
-        "originalText": "Αὐτάρκης τε ἦν καὶ σεμνός.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Sokrat nije naplaćivao poučavanje.",
+    "stsl": "Сократъ за поѹченіє мъзды не приємлѧаше.",
+    "author": "Socrates",
+    "year": -430,
+    "originalText": "Αὐτάρκης τε ἦν καὶ σεμνός.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.25"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Odbio je veliko zemljište koje mu je nudio Alkibijad, kao i darove Arhelaja Makedonskog, Skopasa iz Kranona i Euriloha iz Larise. Nije hteo da ode na njihove dvorove.",
-        "stsl": "Великꙫ землѭ · ѭже Алкивиадъ ємѹ подавааше · отъмѣте · такожде и дары Архелаꙗ Македоньскаго · Скопы Краноньскаго и Еврилоха Ларисьскаго · На дворы ихъ ити не хотѣаше.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -423,
-        "originalText": "Καί ποτε Ἀλκιβιάδου, καθά φησί Παμφίλη ἐν τῷ ἑβδόμῳ τῶν Ὑπομνημάτων, διδόντος αὐτῷ χώραν μεγάλην ἵνα οἰκοδομήσηται οἰκίαν φάναι, Καὶ εἰ ὑποδημάτων ἔδει καὶ βύρσαν μοι ἐδίδους ἵν' ἐμαυτῷ ὑποδήματα ποιησαίμην, καταγέλαστος ἂν ἦν λαβών.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Odbio je veliko zemljište koje mu je nudio Alkibijad, kao i darove Arhelaja Makedonskog, Skopasa iz Kranona i Euriloha iz Larise. Nije hteo da ode na njihove dvorove.",
+    "stsl": "Великꙫ землѭ · ѭже Алкивиадъ ємѹ подавааше · отъмѣте · такожде и дары Архелаꙗ Македоньскаго · Скопы Краноньскаго и Еврилоха Ларисьскаго · На дворы ихъ ити не хотѣаше.",
+    "author": "Socrates",
+    "year": -423,
+    "originalText": "Καί ποτε Ἀλκιβιάδου, καθά φησί Παμφίλη ἐν τῷ ἑβδόμῳ τῶν Ὑπομνημάτων, διδόντος αὐτῷ χώραν μεγάλην ἵνα οἰκοδομήσηται οἰκίαν φάναι, Καὶ εἰ ὑποδημάτων ἔδει καὶ βύρσαν μοι ἐδίδους ἵν' ἐμαυτῷ ὑποδήματα ποιησαίμην, καταγέλαστος ἂν ἦν λαβών.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.25"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Živeo je toliko umereno i uredno da je u više atinskih epidemija jedini ostajao nezaražen.",
-        "stsl": "Толико мѣрьно и чиньно живѣаше · ꙗко въ многыхъ Атиньскыхъ морахъ єдинъ незараженъ прѣбывааше.",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -430,
-        "originalText": "Αὐτάρκης τε ἦν καὶ σεμνός.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Živeo je toliko umereno i uredno da je u više atinskih epidemija jedini ostajao nezaražen.",
+    "stsl": "Толико мѣрьно и чиньно живѣаше · ꙗко въ многыхъ Атиньскыхъ морахъ єдинъ незараженъ прѣбывааше.",
+    "author": "Socrates",
+    "year": -430,
+    "originalText": "Αὐτάρκης τε ἦν καὶ σεμνός.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.25"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Aristip je kao prvi Sokratov učenik koji je naplaćivao poučavanje poslao učitelju dvadeset mina. Sokrat je sav novac vratio, rekavši da mu božanski znak ne dopušta da ga primi.",
-        "stsl": "Аристипъ ꙗко пьрвыи Сократовъ ѹченикъ · иже за поѹченіє мъздꙫ приємлѧаше · ѹчителю двадесѧть минъ посла · Сократъ вьсе сребро възврати · рекъ · ꙗко божьє знаменіє не попѹштаєть ємѹ приѧти є ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -420,
-        "originalText": "Οὗτος σοφιστεύσας, ὥς φησι Φαινίας ὁ περιπατητικὸς ὁ Ἐρέσιος, πρῶτος τῶν Σωκρατικῶν μισθοὺς εἰσεπράξατο καὶ ἀπέστειλε χρήματα τῷ διδασκάλῳ.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Aristip je kao prvi Sokratov učenik koji je naplaćivao poučavanje poslao učitelju dvadeset mina. Sokrat je sav novac vratio, rekavši da mu božanski znak ne dopušta da ga primi.",
+    "stsl": "Аристипъ ꙗко пьрвыи Сократовъ ѹченикъ · иже за поѹченіє мъздꙫ приємлѧаше · ѹчителю двадесѧть минъ посла · Сократъ вьсе сребро възврати · рекъ · ꙗко божьє знаменіє не попѹштаєть ємѹ приѧти є ·",
+    "author": "Socrates",
+    "year": -420,
+    "originalText": "Οὗτος σοφιστεύσας, ὥς φησι Φαινίας ὁ περιπατητικὸς ὁ Ἐρέσιος, πρῶτος τῶν Σωκρατικῶν μισθοὺς εἰσεπράξατο καὶ ἀπέστειλε χρήματα τῷ διδασκάλῳ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.65"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Verovalo se da je Sokrat pomagao Euripidu pri sastavljanju drama. Atinski komediografi su ih zbog toga zajedno ismevali, nazivajući Euripida napravom koju je Sokrat zakovao i tvrdeći da mu Sokrat sastavlja zvučne, ali prazne komade.",
-        "stsl": "Вѣровааше сѧ · ꙗко Сократъ Еврипидѹ при съставлєнии позоришть помагаше · Атиньстии смѣхотворьци обоихъ сего ради осмѣваахѫ · Еврипида строємъ отъ Сократа съкованымъ нарицаѭште и глаголѭште · ꙗко Сократъ ємѹ гласны · нъ празны творы съставлѧєть ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -418,
-        "originalText": "Ἐδόκει δὲ συμποιεῖν Εὐριπίδῃ· ὅθεν Μνησίλοχος οὕτω φησί· Φρύγες ἐστὶ καινὸν δρᾶμα τοῦτ' Εὐριπίδου, ᾧ καὶ Σωκράτης τὰ φρύγαν' ὑποτίθησι.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Verovalo se da je Sokrat pomagao Euripidu pri sastavljanju drama. Atinski komediografi su ih zbog toga zajedno ismevali, nazivajući Euripida napravom koju je Sokrat zakovao i tvrdeći da mu Sokrat sastavlja zvučne, ali prazne komade.",
+    "stsl": "Вѣровааше сѧ · ꙗко Сократъ Еврипидѹ при съставлєнии позоришть помагаше · Атиньстии смѣхотворьци обоихъ сего ради осмѣваахѫ · Еврипида строємъ отъ Сократа съкованымъ нарицаѭште и глаголѭште · ꙗко Сократъ ємѹ гласны · нъ празны творы съставлѧєть ·",
+    "author": "Socrates",
+    "year": -418,
+    "originalText": "Ἐδόκει δὲ συμποιεῖν Εὐριπίδῃ· ὅθεν Μνησίλοχος οὕτω φησί· Φρύγες ἐστὶ καινὸν δρᾶμα τοῦτ' Εὐριπίδου, ᾧ καὶ Σωκράτης τὰ φρύγαν' ὑποτίθησι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.18–19"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Aristoksen je, nasuprot drugim prikazima Sokratovog siromaštva i besplatnog poučavanja, tvrdio da je Sokrat ulagao novac, trošio kamatu i zatim ponovo davao glavnicu pod kamatu.",
-        "stsl": "Аристоксенъ · противѹ прочимъ повѣстемъ о Сократовѣ ништетьствѣ и безмъздьномъ поѹчении · твьрждааше · ꙗко Сократъ сребро въ прибытъкъ давааше · лихвꙫ истрачааше и потомь главницꙫ пакы на лихвꙫ давааше ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -416,
-        "originalText": "Φησὶ δ' Ἀριστοτέλης δύο γυναῖκας αὐτὸν ἀγαγέσθαι· προτέραν μὲν Ξανθίππην, ἐξ ἧς αὐτῷ γενέσθαι Λαμπροκλέα· δευτέραν δὲ Μυρτώ, τὴν Ἀριστείδου τοῦ δικαίου θυγατέρα.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Aristoksen je, nasuprot drugim prikazima Sokratovog siromaštva i besplatnog poučavanja, tvrdio da je Sokrat ulagao novac, trošio kamatu i zatim ponovo davao glavnicu pod kamatu.",
+    "stsl": "Аристоксенъ · противѹ прочимъ повѣстемъ о Сократовѣ ништетьствѣ и безмъздьномъ поѹчении · твьрждааше · ꙗко Сократъ сребро въ прибытъкъ давааше · лихвꙫ истрачааше и потомь главницꙫ пакы на лихвꙫ давааше ·",
+    "author": "Socrates",
+    "year": -416,
+    "originalText": "Φησὶ δ' Ἀριστοτέλης δύο γυναῖκας αὐτὸν ἀγαγέσθαι· προτέραν μὲν Ξανθίππην, ἐξ ἧς αὐτῷ γενέσθαι Λαμπροκλέα· δευτέραν δὲ Μυρτώ, τὴν Ἀριστείδου τοῦ δικαίου θυγατέρα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.20"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Sokrat je umeo i da podstakne i da odvrati. Teeteta je razgovorom o nauci nadahnuo, Eutifrona odvratio od tužbe protiv oca, Lisida usmerio vrlini, sina Lamprokla naveo da se postidi gneva prema majci, neiskusnog Glaukona odvratio od politike, a obdarenog Harmida ohrabrio da joj se posveti.",
-        "stsl": "Сократъ ѹмѣаше и подъвигнѫти и отъвратити · Теетета бесѣдою о наѹцѣ въдѹшеви · Евтифрона отъ тѫжбы на отьца отъврати · Лисида къ добродѣтели настави · сына Лампрокла гнѣва къ матери постыдѣти сѧ сътвори · неискѹснаго Главкона отъ градьскыхъ дѣлъ отъврати · даровитаго же Хармида на нѧ ободри ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -412,
-        "originalText": "Ἱκανὸς δ' ἀμφότερα ἦν, καὶ προτρέψαι καὶ ἀποτρέψαι. Ὥσπερ τὸν Θεαίτητον περὶ ἐπιστήμης διαλεχθεὶς ἔνθεον ἀπέπεμψε, καθὰ καὶ Πλάτων φησίν.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Sokrat je umeo i da podstakne i da odvrati. Teeteta je razgovorom o nauci nadahnuo, Eutifrona odvratio od tužbe protiv oca, Lisida usmerio vrlini, sina Lamprokla naveo da se postidi gneva prema majci, neiskusnog Glaukona odvratio od politike, a obdarenog Harmida ohrabrio da joj se posveti.",
+    "stsl": "Сократъ ѹмѣаше и подъвигнѫти и отъвратити · Теетета бесѣдою о наѹцѣ въдѹшеви · Евтифрона отъ тѫжбы на отьца отъврати · Лисида къ добродѣтели настави · сына Лампрокла гнѣва къ матери постыдѣти сѧ сътвори · неискѹснаго Главкона отъ градьскыхъ дѣлъ отъврати · даровитаго же Хармида на нѧ ободри ·",
+    "author": "Socrates",
+    "year": -412,
+    "originalText": "Ἱκανὸς δ' ἀμφότερα ἦν, καὶ προτρέψαι καὶ ἀποτρέψαι. Ὥσπερ τὸν Θεαίτητον περὶ ἐπιστήμης διαλεχθεὶς ἔνθεον ἀπέπεμψε, καθὰ καὶ Πλάτων φησίν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.29"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Da bi u vojskovođi Ifikratu probudio borbeni duh, Sokrat mu je pokazao kako borbeni petlovi brijača Midije prkosno šire krila pred Kalijinim petlovima.",
-        "stsl": "Да въ воєводѣ Ификратѣ браньныи дѹхъ възбѹдить · Сократъ ємѹ показа · ꙗко боины пѣтели брадобрѣꙗ Мидиꙗ прѣдъ Калииными пѣтели прѣзрѣньно крилы распростираѭть ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -408,
-        "originalText": "Ἐπῆρε δὲ καὶ εἰς φρόνημα Ἰφικράτην τὸν στρατηγόν, δείξας αὐτῷ τοῦ κουρέως Μειδίου ἀλεκτρυόνας ἀντίον τῶν Καλλίου πτερυξαμένους.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Da bi u vojskovođi Ifikratu probudio borbeni duh, Sokrat mu je pokazao kako borbeni petlovi brijača Midije prkosno šire krila pred Kalijinim petlovima.",
+    "stsl": "Да въ воєводѣ Ификратѣ браньныи дѹхъ възбѹдить · Сократъ ємѹ показа · ꙗко боины пѣтели брадобрѣꙗ Мидиꙗ прѣдъ Калииными пѣтели прѣзрѣньно крилы распростираѭть ·",
+    "author": "Socrates",
+    "year": -408,
+    "originalText": "Ἐπῆρε δὲ καὶ εἰς φρόνημα Ἰφικράτην τὸν στρατηγόν, δείξας αὐτῷ τοῦ κουρέως Μειδίου ἀλεκτρυόνας ἀντίον τῶν Καλλίου πτερυξαμένους.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.30"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Fedon je kao ratni zarobljenik bio primoran na ponižavajuće ropstvo. Sokrat je nagovorio Kritona da ga otkupi i tako ga pridobio za filozofiju.",
-        "stsl": "Федонъ ꙗко браньныи плѣньникъ на понижаѭште рабьство принѫжденъ бысть · Сократъ Критона ѹвѣшта · да єго искѹпить · и тако къ любомѫдрию єго приведе ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -405,
-        "originalText": "Φαίδωνα δὲ δι' αἰχμαλωσίαν ἐπ' οἰκήματος καθήμενον προσέταξε Κρίτωνι λυτρώσασθαι, καὶ φιλόσοφον ἀπειργάσατο.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Fedon je kao ratni zarobljenik bio primoran na ponižavajuće ropstvo. Sokrat je nagovorio Kritona da ga otkupi i tako ga pridobio za filozofiju.",
+    "stsl": "Федонъ ꙗко браньныи плѣньникъ на понижаѭште рабьство принѫжденъ бысть · Сократъ Критона ѹвѣшта · да єго искѹпить · и тако къ любомѫдрию єго приведе ·",
+    "author": "Socrates",
+    "year": -405,
+    "originalText": "Φαίδωνα δὲ δι' αἰχμαλωσίαν ἐπ' οἰκήματος καθήμενον προσέταξε Κρίτωνι λυτρώσασθαι, καὶ φιλόσοφον ἀπειργάσατο.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.31"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Kada je u Euripidovoj drami čuo stih da vrlinu treba pustiti da luta, Sokrat je ustao i napustio pozorište. Rekao je da je besmisleno dizati uzbunu zbog nestalog roba, a dopuštati da se vrlina tako izgubi.",
-        "stsl": "Єгда въ Еврипидовѣ драмѣ рѣчь ѹслыша · ꙗко добродѣтель пѹстити блѫдити подобає · Сократъ въста и позориште остави · Рече · ꙗко безѹмьно єсть о исчезъшемь рабѣ мѧтежь въздвизати · добродѣтели же тако погыбнѫти попѹштати ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -404,
-        "originalText": "Εὐριπίδου δ' ἐν τῇ αὐτοῦ εἰπόντος περὶ ἀρετῆς, Κράτιστον εἰκῆ ταῦτ' ἐᾶν ἀφειμένα, ἀναστὰς ἐξῆλθε, φήσας γελοῖον εἶναι ἀνδράποδον μὲν μὴ εὑρισκόμενον ἀξιοῦν ζητεῖν, ἀρετὴν δ' οὕτως ἐᾶν ἀπολωλέναι.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada je u Euripidovoj drami čuo stih da vrlinu treba pustiti da luta, Sokrat je ustao i napustio pozorište. Rekao je da je besmisleno dizati uzbunu zbog nestalog roba, a dopuštati da se vrlina tako izgubi.",
+    "stsl": "Єгда въ Еврипидовѣ драмѣ рѣчь ѹслыша · ꙗко добродѣтель пѹстити блѫдити подобає · Сократъ въста и позориште остави · Рече · ꙗко безѹмьно єсть о исчезъшемь рабѣ мѧтежь въздвизати · добродѣтели же тако погыбнѫти попѹштати ·",
+    "author": "Socrates",
+    "year": -404,
+    "originalText": "Εὐριπίδου δ' ἐν τῇ αὐτοῦ εἰπόντος περὶ ἀρετῆς, Κράτιστον εἰκῆ ταῦτ' ἐᾶν ἀφειμένα, ἀναστὰς ἐξῆλθε, φήσας γελοῖον εἶναι ἀνδράποδον μὲν μὴ εὑρισκόμενον ἀξιοῦν ζητεῖν, ἀρετὴν δ' οὕτως ἐᾶν ἀπολωλέναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.33"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Ksantipa je jednom najpre izgrdila Sokrata, a zatim ga polila vodom. Drugom prilikom mu je na trgu strgla ogrtač, ali je odbio savet prijatelja da joj uzvrati udarac i od njihovog sukoba napravi javnu predstavu.",
-        "stsl": "Ксантипа єдиною Сократа пьрво изрѹга · потомь водою поли · Дрѹгою же на тръжишти плашть съ него сътръже · онъ же съвѣтъ дрѹговъ отъмѣте · да єи ѹдаромъ възвратить и отъ прѣниꙗ ихъ всенародьно позорище сътворить ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -403,
-        "originalText": "Ξανθίππη πρότερον μὲν λοιδοροῦσαν, ὕστερον δὲ καὶ περιχέασαν αὐτῷ, Οὐκ ἔλεγον, εἶπεν, ὅτι Ξανθίππη βροντῶσα καὶ ὕδωρ ποιήσει;",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Ksantipa je jednom najpre izgrdila Sokrata, a zatim ga polila vodom. Drugom prilikom mu je na trgu strgla ogrtač, ali je odbio savet prijatelja da joj uzvrati udarac i od njihovog sukoba napravi javnu predstavu.",
+    "stsl": "Ксантипа єдиною Сократа пьрво изрѹга · потомь водою поли · Дрѹгою же на тръжишти плашть съ него сътръже · онъ же съвѣтъ дрѹговъ отъмѣте · да єи ѹдаромъ възвратить и отъ прѣниꙗ ихъ всенародьно позорище сътворить ·",
+    "author": "Socrates",
+    "year": -403,
+    "originalText": "Ξανθίππη πρότερον μὲν λοιδοροῦσαν, ὕστερον δὲ καὶ περιχέασαν αὐτῷ, Οὐκ ἔλεγον, εἶπεν, ὅτι Ξανθίππη βροντῶσα καὶ ὕδωρ ποιήσει;",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.36–37"
-    },
-    {
-        "type": "anecdote",
-        "sr": "U starosti je Sokrat naučio da svira liru, jer nije video ništa neprilično u učenju nove veštine. Redovno je i plesao, verujući da takva vežba održava telo zdravim.",
-        "stsl": "Въ старости Сократъ на гѹслехъ играти наѹчи сѧ · зане ничтоже неподобьно въ ѹчении новаго хѹдожьства видѣаше · И обычно плѧсааше · вѣрѹѧ · ꙗко таково ѹпражненіє тѣло здраво съхранѧєть ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -402,
-        "originalText": "Ἀλλὰ καὶ λυρίζειν ἐμάνθανεν ἤδη γηραιός, μηδὲν λέγων ἄτοπον εἶναι ἅ τις μὴ οἶδεν ἐκμανθάνειν.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "U starosti je Sokrat naučio da svira liru, jer nije video ništa neprilično u učenju nove veštine. Redovno je i plesao, verujući da takva vežba održava telo zdravim.",
+    "stsl": "Въ старости Сократъ на гѹслехъ играти наѹчи сѧ · зане ничтоже неподобьно въ ѹчении новаго хѹдожьства видѣаше · И обычно плѧсааше · вѣрѹѧ · ꙗко таково ѹпражненіє тѣло здраво съхранѧєть ·",
+    "author": "Socrates",
+    "year": -402,
+    "originalText": "Ἀλλὰ καὶ λυρίζειν ἐμάνθανεν ἤδη γηραιός, μηδὲν λέγων ἄτοπον εἶναι ἅ τις μὴ οἶδεν ἐκμανθάνειν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.32"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Aristotel prenosi da je jedan mag iz Sirije došao u Atinu i Sokratu, uz druga zla, prorekao nasilnu smrt.",
-        "stsl": "Аристотель прѣдаєть · ꙗко єдинъ влъсвъ отъ Сирии въ Атины приде и Сократѹ · съ прочими зълыми · насильнꙫ смрьть прѣрече ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -400,
-        "originalText": "Φησὶ δ' Ἀριστοτέλης μάγον τινὰ ἐλθόντα ἐκ Συρίας εἰς Ἀθήνας τά τε ἄλλα καταγνῶναι τοῦ Σωκράτους καὶ δὴ καὶ βίαιον ἔσεσθαι τὴν τελευτὴν αὐτῷ.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Aristotel prenosi da je jedan mag iz Sirije došao u Atinu i Sokratu, uz druga zla, prorekao nasilnu smrt.",
+    "stsl": "Аристотель прѣдаєть · ꙗко єдинъ влъсвъ отъ Сирии въ Атины приде и Сократѹ · съ прочими зълыми · насильнꙫ смрьть прѣрече ·",
+    "author": "Socrates",
+    "year": -400,
+    "originalText": "Φησὶ δ' Ἀριστοτέλης μάγον τινὰ ἐλθόντα ἐκ Συρίας εἰς Ἀθήνας τά τε ἄλλα καταγνῶναι τοῦ Σωκράτους καὶ δὴ καὶ βίαιον ἔσεσθαι τὴν τελευτὴν αὐτῷ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.45"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Melet je optužio Sokrata da ne priznaje gradske bogove, uvodi nova božanstva i kvari omladinu. Sokrat je odbio Lisijinu sudsku odbranu kao sebi neprikladnu. Proglašen je krivim, predložio je da ga grad nagradi javnim izdržavanjem i potom je osuđen na smrt.",
-        "stsl": "Мелетъ Сократа обвини · ꙗко градьскыхъ боговъ не исповѣдаєть · нова божьства въвождѹєть и юность развраштаєть · Сократъ Лисиину сѫдьнѹю заштитꙫ ꙗко себѣ неподобьнꙫ отъмѣте · Виновьнъ нареченъ · прѣдложи да градъ всенародьнымъ питаніємъ єго наградить · и потомь на смрьть осѫжденъ бысть ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -399,
-        "originalText": "Ἀπηνέγκατο μὲν οὖν τὴν γραφὴν ὁ Μέλητος, εἶπε δὲ τὴν δίκην Πολύευκτος· συνέγραψε δὲ τὸν λόγον Πολυκράτης ὁ σοφιστής. Ὁ δ' οὖν κατεδικάσθη διακοσίαις ὀγδοήκοντα μιᾷ πλείοσι ψήφοις τῶν ἀπολυουσῶν.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Melet je optužio Sokrata da ne priznaje gradske bogove, uvodi nova božanstva i kvari omladinu. Sokrat je odbio Lisijinu sudsku odbranu kao sebi neprikladnu. Proglašen je krivim, predložio je da ga grad nagradi javnim izdržavanjem i potom je osuđen na smrt.",
+    "stsl": "Мелетъ Сократа обвини · ꙗко градьскыхъ боговъ не исповѣдаєть · нова божьства въвождѹєть и юность развраштаєть · Сократъ Лисиину сѫдьнѹю заштитꙫ ꙗко себѣ неподобьнꙫ отъмѣте · Виновьнъ нареченъ · прѣдложи да градъ всенародьнымъ питаніємъ єго наградить · и потомь на смрьть осѫжденъ бысть ·",
+    "author": "Socrates",
+    "year": -399,
+    "originalText": "Ἀπηνέγκατο μὲν οὖν τὴν γραφὴν ὁ Μέλητος, εἶπε δὲ τὴν δίκην Πολύευκτος· συνέγραψε δὲ τὸν λόγον Πολυκράτης ὁ σοφιστής. Ὁ δ' οὖν κατεδικάσθη διακοσίαις ὀγδοήκοντα μιᾷ πλείοσι ψήφοις τῶν ἀπολυουσῶν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.38–42"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Sokrat je odbio naređenje Kritije i Tridesetorice da dovede Leonta sa Salamine na pogubljenje. Jedini je glasao da se deset vojskovođa oslobodi, a kada je sam bio osuđen, odbio je bekstvo iz zatvora i korio prijatelje što oplakuju njegovu sudbinu.",
-        "stsl": "Сократъ повелѣніє Критиꙗ и Тридесѧти отъмѣте · да Леонта Саламиньскаго на погѹбленіє приведеть · Єдинъ за освобожденіє десѧти воєводъ гласова · самъ же осѫжденъ бѣжавъство отъ темнице отъмѣте и дрѹгы обличаше · зане сѫдьбꙫ єго оплаковаахѫ ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -399,
-        "originalText": "Ἦν δὲ καὶ ἰσχυρογνώμων καὶ δημοκρατικός, ὡς δῆλον ἔκ τε τοῦ μὴ εἶξαι τοῖς περὶ Κριτίαν κελεύουσι Λέοντα τὸν Σαλαμίνιον, ἄνδρα πλούσιον, ἀγαγεῖν πρὸς αὐτοὺς ὥστε ἀπολέσθαι.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Sokrat je odbio naređenje Kritije i Tridesetorice da dovede Leonta sa Salamine na pogubljenje. Jedini je glasao da se deset vojskovođa oslobodi, a kada je sam bio osuđen, odbio je bekstvo iz zatvora i korio prijatelje što oplakuju njegovu sudbinu.",
+    "stsl": "Сократъ повелѣніє Критиꙗ и Тридесѧти отъмѣте · да Леонта Саламиньскаго на погѹбленіє приведеть · Єдинъ за освобожденіє десѧти воєводъ гласова · самъ же осѫжденъ бѣжавъство отъ темнице отъмѣте и дрѹгы обличаше · зане сѫдьбꙫ єго оплаковаахѫ ·",
+    "author": "Socrates",
+    "year": -399,
+    "originalText": "Ἦν δὲ καὶ ἰσχυρογνώμων καὶ δημοκρατικός, ὡς δῆλον ἔκ τε τοῦ μὴ εἶξαι τοῖς περὶ Κριτίαν κελεύουσι Λέοντα τὸν Σαλαμίνιον, ἄνδρα πλούσιον, ἀγαγεῖν πρὸς αὐτοὺς ὥστε ἀπολέσθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.24"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Prema jednom predanju, Sokrat je čoveku koji mu je rekao da su ga Atinjani osudili na smrt odgovorio: „I njih je priroda osudila.”",
-        "stsl": "По єдиномѹ прѣданию · Сократъ чловѣкѹ · иже рече · ꙗко Атинѧне єго на смрьть осѫдиша · отъвѣшта · Ихъ же єстество осѫди ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -399,
-        "originalText": "Πρὸς τὸν εἰπόντα, Θάνατόν σου κατέγνωσαν Ἀθηναῖοι, Κἀκείνων, εἶπεν, ἡ φύσις.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Prema jednom predanju, Sokrat je čoveku koji mu je rekao da su ga Atinjani osudili na smrt odgovorio: „I njih je priroda osudila.”",
+    "stsl": "По єдиномѹ прѣданию · Сократъ чловѣкѹ · иже рече · ꙗко Атинѧне єго на смрьть осѫдиша · отъвѣшта · Ихъ же єстество осѫди ·",
+    "author": "Socrates",
+    "year": -399,
+    "originalText": "Πρὸς τὸν εἰπόντα, Θάνατόν σου κατέγνωσαν Ἀθηναῖοι, Κἀκείνων, εἶπεν, ἡ φύσις.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.35"
-    },
-    {
-        "type": "anecdote",
-        "sr": "Sokrat je u zatvoru razgovarao sa prijateljima, a zatim ispio kukutu. Atinjani su se ubrzo pokajali: zatvorili su vežbališta, prognali druge tužioce, Meleta osudili na smrt i Sokratu podigli bronzani kip koji je izradio Lisip.",
-        "stsl": "Сократъ въ темници съ дрѹгы бесѣдова · потомь же отровьнꙫ травꙫ испи · Атинѧне скоро покаꙗша сѧ · ѹчилишта тѣлесьна затвориша · прочаꙗ обвинителѧ изгнаша · Мелета на смрьть осѫдиша и Сократѹ мѣдѣнъ образъ · єгоже Лисипъ сътвори · въздвигоша ·",
-        "author": "Socrates",
-        "source": "diogenes-laertius",
-        "year": -399,
-        "originalText": "Δεθεὶς μετ' οὐ πολλὰς ἡμέρας ἔπιε τὸ κώνειον, πολλὰ καλὰ κἀγαθὰ διαλεχθείς, ἃ Πλάτων ἐν τῷ Φαίδωνί φησιν.",
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Sokrat je u zatvoru razgovarao sa prijateljima, a zatim ispio kukutu. Atinjani su se ubrzo pokajali: zatvorili su vežbališta, prognali druge tužioce, Meleta osudili na smrt i Sokratu podigli bronzani kip koji je izradio Lisip.",
+    "stsl": "Сократъ въ темници съ дрѹгы бесѣдова · потомь же отровьнꙫ травꙫ испи · Атинѧне скоро покаꙗша сѧ · ѹчилишта тѣлесьна затвориша · прочаꙗ обвинителѧ изгнаша · Мелета на смрьть осѫдиша и Сократѹ мѣдѣнъ образъ · єгоже Лисипъ сътвори · въздвигоша ·",
+    "author": "Socrates",
+    "year": -399,
+    "originalText": "Δεθεὶς μετ' οὐ πολλὰς ἡμέρας ἔπιε τὸ κώνειον, πολλὰ καλὰ κἀγαθὰ διαλεχθείς, ἃ Πλάτων ἐν τῷ Φαίδωνί φησιν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
         "reference": "II.42–43"
-    }
+      }
+    ]
+  }
 ]

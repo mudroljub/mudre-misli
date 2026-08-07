@@ -6,8 +6,12 @@
     "stsl": "Родисѧ въ Елеи · сынъ Пѷрита · отъ славьна рода и велика богатъства бѣ.",
     "originalText": "Παρμενίδης Πύρητος Ἐλεάτης· γενόμενος δὲ γένους λαμπροῦ καὶ πλούτου.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.21"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Ксенофана слꙑшааше · ѹченикъ питагорѣевца Амеинїа · ѹбогаго но благороднаго чловѣка · бѣ.",
     "originalText": "Οὗτος ἤκουσε Ξενοφάνους· μᾶλλον δὲ Ἀμεινίᾳ τῷ Πυθαγορείῳ προσέσχηκε, πένητι μὲν ὄντι, σπουδαίῳ δὲ ἀνδρί.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.21"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,8 +34,12 @@
     "stsl": "Амеинїю по смрьти свѧтилиште съгради · привръженѣи къ немѹ нежели Ксенофанѹ бѣ.",
     "originalText": "Ὃν καὶ μετελθόντα ἡρῷον κατεσκεύασεν· ἐκείνῳ μᾶλλον ἢ Ξενοφάνει προσχὼν ἀγωγῆς.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.21"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -36,8 +48,12 @@
     "stsl": "Процвѣташе въ шестьдесѧтѣи девѧтѣи олимпїадѣ · законꙑ Елеѩномъ дадѣ.",
     "originalText": "Ἤκμαζε δὲ κατὰ τὴν ἐνάτην καὶ ἑξηκοστὴν Ὀλυμπιάδα. Νόμους τε τῇ πατρίδι ἔγραψεν.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.23"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -46,8 +62,12 @@
     "stsl": "Стихи писааше · ꙗкоже Хесїодъ · Ксенофанъ и Емпедоклъ · Пьрвыи въ поезїи Ксенофановъ мѣрении стихъ ѹпотреби · философскꙋ поемꙋ О єстествѣ написа.",
     "originalText": "ἐποίησε δὲ ποίημα, Περὶ φύσεως, καθάπερ Ἡσίοδος καὶ Ξενοφάνης καὶ Ἐμπεδοκλῆς. Πρῶτος δὲ τὸ Ξενοφάνους μέτρον εἰς ποίησιν μετήνεγκεν.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -55,8 +75,12 @@
     "stsl": "Землѧ єсть крѹглообразна и лежить посредѣ васєлены ·",
     "originalText": "τὴν γῆν ἀπέφαινε σφαιροειδῆ καὶ ἐν μέσῳ κεῖσθαι.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.21"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -64,8 +88,12 @@
     "stsl": "Двѣ начѧла сѫть огнь и землѧ · огнь чинъ творьца имать · землѧ же чинъ вещества ·",
     "originalText": "δύο τε εἶναι στοιχεῖα, πῦρ καὶ γῆν, καὶ τὸ μὲν δημιουργοῦ τάξιν ἔχειν, τὴν δ' ὕλης.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.21"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -73,8 +101,12 @@
     "stsl": "Бытие чловѣкъ пьрво отъ слъньца бысть · теплота же и стѹдень сѫть · отъ нихъже вьсѧ съставлєна сѫть · и сиє силє прѣвъзходѧть само слъньце ·",
     "originalText": "γένεσίν τ' ἀνθρώπων ἐξ ἡλίου πρῶτον γενέσθαι· αὐτὸν δὲ ὑπάρχειν τὸ θερμὸν καὶ τὸ ψυχρόν, ἐξ ὧν τὰ πάντα συνεστάναι, καὶ ταῦτα ὑπερέχειν αὐτοῦ τοῦ ἡλίου.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -82,8 +114,12 @@
     "stsl": "Дѹша и ѹмъ єдино сѫть ·",
     "originalText": "τὴν ψυχὴν καὶ τὸν νοῦν ταὐτὸν εἶναι.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -91,8 +127,12 @@
     "stsl": "Любомѫдрие двоє єсть · єдино по истинѣ · дрѹгоє по мьнѣнию ·",
     "originalText": "δισσήν τε ἔφη τὴν φιλοσοφίαν, τὴν μὲν κατὰ ἀλήθειαν, τὴν δὲ κατὰ δόξαν.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -100,8 +140,12 @@
     "stsl": "Подобаєть тебѣ всѧ ѹвѣдѣти · и непоколѣбимо срьдьце окрѫглыѧ истины · и мьнѣниꙗ смрьтныхъ · въ нихъже нѣсть вѣры истинныѧ ·",
     "originalText": "χρεὼ δέ σε πάντα πυθέσθαι ἠμὲν Ἀληθείης εὐκυκλέος ἀτρεμὲς ἦτορ, ἠδὲ βροτῶν δόξας, ταῖς οὐκ ἔνι πίστις ἀληθής.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -109,8 +153,12 @@
     "stsl": "Мѣрило єсть словесіє · чѹвьства же не извѣстна сѫть ·",
     "originalText": "κριτήριον δὲ τὸν λόγον εἶπε· τάς τε αἰσθήσεις μὴ ἀκριβεῖς ὑπάρχειν.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -118,8 +166,12 @@
     "stsl": "Да не понѹдить тебе многолѣтьныи обычаи по семѹ пѫти ходити · безцѣльнымъ окомъ · шумьнымъ слѹхомъ и ѩзыкомъ правити сѧ · нъ разѹмомъ сѫди о многопрѣрѣкаємомь доводѣ ·",
     "originalText": "μηδέ σ' ἔθος πολύπερον ὁδὸν κατὰ τήνδε βιάσθω νωμᾶν ἄσκοπον ὄμμα καὶ ἠχήεσσαν ἀκουὴν καὶ γλῶσσαν, κρῖναι δὲ λόγῳ πολύδηριν ἔλεγχον.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -127,48 +179,68 @@
     "stsl": "Сѫщее єдино єсть ·",
     "originalText": "ἓν τὸ ὄν ἐστιν.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.42"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.42"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Iako je slušao Ksenofana, Parmenid nije sledio njegovo učenje. Više se priklonio pitagorejcu Amejniji, siromašnom ali plemenitom čoveku; posle njegove smrti podigao mu je svetilište, a upravo ga je Amejnija podstakao da se posveti tihom životu proučavanja.",
     "stsl": "Аще и Ксенофана слѹша · Парменидъ ѹчєнию єго не послѣдова · Паче же прилѣпи сѧ питагорѣю Амеинии · мѫжѹ ништѹ · нъ благѹ · по смрьти єго свѧтилище ємѹ въздвиже · и самъ Амеиниꙗ настави єго къ тихомѹ житію ѹчєниꙗ ·",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
     "year": -515,
-    "reference": "IX.21",
-    "originalText": "Οὗτος Ξενοφάνους μὲν ἤκουσεν, οὐ μέντοι ἐζήλωσεν αὐτόν."
+    "originalText": "Οὗτος Ξενοφάνους μὲν ἤκουσεν, οὐ μέντοι ἐζήλωσεν αὐτόν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.21"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Parmenid je služio svom rodnom gradu kao zakonodavac.",
     "stsl": "Парменидъ послѹжи родномѹ градѹ · законы гражданомъ положивъ ·",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
     "year": -499,
-    "reference": "IX.23",
-    "originalText": "Τῇ πατρίδι νόμους ἔθηκε, καθά φησι Σπεύσιππος ἐν τῷ Περὶ φιλοσόφων."
+    "originalText": "Τῇ πατρίδι νόμους ἔθηκε, καθά φησι Σπεύσιππος ἐν τῷ Περὶ φιλοσόφων.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.23"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Parmenidu se pripisuje da je prvi prepoznao kako su Večernjača i Zornjača ista zvezda.",
     "stsl": "Парменидѹ приписѹєть сѧ · ꙗко пьрвъ позна · ꙗко вечернѧꙗ звѣзда и ѹтрьнѧꙗ тожде єсть ·",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
     "year": -482,
-    "reference": "IX.23",
-    "originalText": "πρῶτός τε ἐπενόησε τὴν γῆν σφαιροειδῆ καὶ ἐν μέσῳ κειμένην."
+    "originalText": "πρῶτός τε ἐπενόησε τὴν γῆν σφαιροειδῆ καὶ ἐν μέσῳ κειμένην.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.23"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Favorin Parmenidu pripisuje prvo izlaganje dokaza poznatog kao ‘Ahilej i kornjača’.",
     "stsl": "Фаворинъ Парменидѹ приписѹєть пьрвоє изложеніє довода · нарицаємаго Ахиллеи и желвь ·",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
     "year": -450,
-    "reference": "IX.23",
-    "originalText": "φησὶ δὲ Φαβωρῖνος πρῶτον αὐτὸν ἐπινοῆσαι τὸν Ἀχιλλέα καλούμενον λόγον."
+    "originalText": "φησὶ δὲ Φαβωρῖνος πρῶτον αὐτὸν ἐπινοῆσαι τὸν Ἀχιλλέα καλούμενον λόγον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.23"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -176,8 +248,12 @@
     "stsl": "По єдиномѹ прѣданию · Парменидъ глаголаше · ꙗко вечернѧꙗ и ѹтрьнѧꙗ звѣзда єдина єсть ·",
     "originalText": "τὸν αὐτὸν εἶναι Ἕσπερον καὶ Φωσφόρον.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.23"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -185,8 +261,12 @@
     "stsl": "Платонъ о немь бесѣдѹ написа · Парменидъ или О идеахъ ·",
     "originalText": "Περὶ τούτου καὶ Πλάτων διάλογον ἔγραψε, τὸν ἐπιγραφόμενον Παρμενίδην ἢ Περὶ ἰδεῶν.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -194,7 +274,11 @@
     "stsl": "Тимонъ єго хвалить сице · Великодѹшныи Парменидъ · не различныхъ мьнѣнїи · иже вмѣсто прѣлѣсти мечтꙑ мысль ѹнесе ·",
     "originalText": "Τίμων δὲ οὕτως αὐτὸν ἐπαινεῖ· τοῦ θ' ὑψηγόρου ἠδ' οὐ πολυπλάγκτου Παρμενίδεω, ὃς ἀντὶ φαντασμοσύνης ἐνόησε νόημα.",
     "author": "Parmenides",
-    "source": "diogenes-laertius",
-    "reference": "IX.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.23"
+      }
+    ]
   }
 ]

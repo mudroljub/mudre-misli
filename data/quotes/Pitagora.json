@@ -6,8 +6,12 @@
     "stsl": "Пѷѳагора Мнисарховъ Самїꙗнинъ бѣ.",
     "originalText": "Πυθαγόρας Μνησάρχου δακτυλιογλύφου ὥς φησιν Ἕρμιππος, Σάμιος.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.1"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Ферекида Сѵрскаго · Анаксимандра и Фалеса слꙑшааше · по нѣкїимъ источникомъ и єгѵпетскиѩ жерцы.",
     "originalText": "Ἤκουσε δὲ Φερεκύδου τοῦ Συρίου· μετὰ δὲ τὴν τελευτὴν ἐκείνου ἦλθεν εἰς Σάμον· εἶτα ἐπὶ μαθήσει γενόμενος εἰς Αἴγυπτον παρεγένετο. Καὶ γὰρ Θαλοῦ καὶ Ἀναξιμάνδρου ἤκουσεν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.2"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,8 +34,12 @@
     "stsl": "Отъ тїранїи Поликрата бѣжа · въ Италїю прїиде и законꙑ Тарентїномъ ѹстанови.",
     "originalText": "Φυγὼν δὲ τὴν Πολυκράτους τυραννίδα εἰς τὴν Ἰταλίαν ἀπῆρε· καὶ τοῖς Ταραντίνοις νόμους ἔγραψε.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.3"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -36,8 +48,12 @@
     "stsl": "Въ Кротонѣ ѹчилиште основа · паче шести сотъ слꙑшателевъ имѣаше.",
     "originalText": "Διέτριψε δὲ ἐν Κρότωνι τῆς Ἰταλίας· ἔνθα πλεῖστοι ἐγένοντο ἀκροαταί, ὑπὲρ τοὺς ἑξακοσίους.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.15"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.15"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -46,8 +62,12 @@
     "stsl": "Пьрвыи слово философїа ѹпотреби и себе философомъ нарече · разлїꙋ междѹ тайнымъ и гласнымъ ѹченїемъ творѧаше.",
     "originalText": "Πρῶτος ὠνόμασε φιλοσοφίαν καὶ ἑαυτὸν φιλόσοφον· τὰ δὲ συγγράμματα αὐτοῦ τριττά, ἠθικά, φυσικά, μαθηματικά.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.8"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -56,8 +76,12 @@
     "stsl": "По Хераклидѹ отъ Понта селидбꙋ дꙋши и памѧть прошьлыхъ животовъ ѹчааше.",
     "originalText": "Ἡρακλείδης δ' ὁ Ποντικὸς ἱστορεῖ περὶ αὐτοῦ ὅτι ἔλεγε περὶ ἑαυτοῦ τοιάδε· εἶναί ποτε Αἰθαλίδην καὶ νομίζεσθαι Ἑρμοῦ.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.4"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -66,8 +90,12 @@
     "stsl": "Три книги написа · о нравоѹченїи · єстествословїи и математикѣ.",
     "originalText": "Τὰ δὲ συγγράμματα αὐτοῦ τριττά, ἠθικά, φυσικά, μαθηματικά.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.6"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -76,8 +104,12 @@
     "stsl": "Въ осмѣдесѧтѣмь лѣтѣ по Херминѹ ѹмрѣ · девѧтьдесѧтъ и девѧти лѣтъ по Аристоксенѹ.",
     "originalText": "Καὶ ἀπέθανεν, ὡς μὲν Ἕρμιππος, βιοὺς ἔτη ὀγδοήκοντα· ὡς δὲ Ἀριστόξενος, ἐνενήκοντα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.44"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.44"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -85,8 +117,12 @@
     "stsl": "Азъ нѣсмь мѫдръ · но любомѫдрьць ·",
     "originalText": "ἐρωτηθέντα ὑπὸ Λέοντος τοῦ Φλιασίων τυράννου τίς εἴη, φιλόσοφος εἰπεῖν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.8"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -94,8 +130,12 @@
     "stsl": "Животъ єсть ꙗко велика свѧтьба · овии приходѧть състѧзати сѧ · инии торговати · а лѹчьшии зрѣти ·",
     "originalText": "τὸν βίον ἐοικέναι πανηγύρει· ὡς οὖν εἰς ταύτην οἱ μὲν ἀγωνιούμενοι, οἱ δὲ κατ' ἐμπορίαν, οἱ δέ γε βέλτιστοι ἔρχονται θεαταί.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.8"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -103,8 +143,12 @@
     "stsl": "Не моли сѧ за себє · зане не вѣси · что ти въистинѫ на пользѫ єсть ·",
     "originalText": "οὐκ ἐᾷ εὔχεσθαι ὑπὲρ αὑτῶν διὰ τὸ μὴ εἰδέναι τὸ συμφέρον.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.9"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -112,8 +156,12 @@
     "stsl": "Пиѥніє єсть сѣть ·",
     "originalText": "τὴν μέθην ἓν ἀνθ' ἑνὸς βλάβην καλεῖ.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.9"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -121,8 +169,12 @@
     "stsl": "Ни въ ꙗдении · ни въ питии не подобаєтъ прѣстѫпати мѣрѫ ·",
     "originalText": "πλησμονὴν πᾶσαν ἀποδοκιμάζει, λέγων μὴ παραβαίνειν μήτε τῶν ποτῶν μήτε τῶν σιτίων μηδένα τὴν συμμετρίαν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.9"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -130,8 +182,12 @@
     "stsl": "За любъныѩ сладости дрьжи сѧ зимы · лѣтомь въздьржисѧ ·",
     "originalText": "Ἀφροδίσια χειμῶνος ποιέεσθαι, μὴ θέρεος· φθινοπώρου δὲ καὶ ἦρος κουφότερα, βαρέα δὲ πᾶσαν ὥρην καὶ ἐς ὑγιείην οὐκ ἀγαθά.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.9"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -139,8 +195,12 @@
     "stsl": "Съ женою съвокѹплѧи сѧ · єгда хощеши ѹтратити силѫ · юже имаши ·",
     "originalText": "ἐρωτηθέντα πότε δεῖ πλησιάζειν εἰπεῖν· ὅταν βούλῃ γενέσθαι αὑτοῦ ἀσθενέστερος.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.9"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -148,8 +208,12 @@
     "stsl": "Животъ чловѣчь имать четыри врѣмена · двѣдесѧть лѣтъ дѣтѧ · двѣдесѧть ѫноша · двѣдесѧть мѫжь зрѣлыи · двѣдесѧть старьць ·",
     "originalText": "Διαιρεῖται δὲ καὶ τὸν τοῦ ἀνθρώπου βίον οὕτως· Παῖς εἴκοσι ἔτεα, νεηνίσκος εἴκοσι, νεηνίης εἴκοσι, γέρων εἴκοσι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -157,8 +221,12 @@
     "stsl": "Дрѹзѣмъ вьсе обьщє єсть ·",
     "originalText": "κοινὰ τὰ φίλων εἶναι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -166,18 +234,26 @@
     "stsl": "Дрѹжьба єсть равьньство ·",
     "originalText": "φιλίαν ἰσότητα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.10"
+      }
+    ]
   },
   {
     "type": "bio",
     "sr": "Hermip pripoveda da je iskopao podzemno prebivalište i odatle primao majčine beleške o događajima, pa se potom pojavio kao da se vratio iz Hada; narod ga je smatrao božanskim.",
     "stsl": "Хєрмїпъ повѣствѹєть · ꙗко ископа подземно жилище и оттѹдѹ прїимаше записи матєри о събытїихъ · таже ꙗви сѧ ꙗко отъ Ада възвративъсѧ · народъ же божьствена єго мьнѣ ·",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
     "year": -570,
-    "reference": "VIII.41",
-    "originalText": "Λέγει γὰρ ὡς γενόμενος ἐν Ἰταλίᾳ κατὰ γῆς οἰκίσκον ποιήσαι καὶ τῇ μητρὶ ἐντείλαιτο τὰ γινόμενα εἰς δέλτον γράφειν σημειουμένην καὶ τὸν χρόνον, ἔπειτα καθιέναι αὐτῷ ἔστ' ἂν ἀνέλθῃ. τὸν δὲ Πυθαγόραν μετὰ χρόνον ἀνελθεῖν ἰσχνὸν καὶ κατεσκελετευμένον· εἰσελθόντα τ' εἰς τὴν ἐκκλησίαν φάσκειν ὡς ἀφῖκται ἐξ ᾅδου."
+    "originalText": "Λέγει γὰρ ὡς γενόμενος ἐν Ἰταλίᾳ κατὰ γῆς οἰκίσκον ποιήσαι καὶ τῇ μητρὶ ἐντείλαιτο τὰ γινόμενα εἰς δέλτον γράφειν σημειουμένην καὶ τὸν χρόνον, ἔπειτα καθιέναι αὐτῷ ἔστ' ἂν ἀνέλθῃ. τὸν δὲ Πυθαγόραν μετὰ χρόνον ἀνελθεῖν ἰσχνὸν καὶ κατεσκελετευμένον· εἰσελθόντα τ' εἰς τὴν ἐκκλησίαν φάσκειν ὡς ἀφῖκται ἐξ ᾅδου.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.41"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -185,8 +261,12 @@
     "stsl": "Не разжьжꙑ огнѧ ножемь ·",
     "originalText": "πῦρ μαχαίρᾳ μὴ σκαλεύειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -194,8 +274,12 @@
     "stsl": "Не прѣстѫпаи ꙗзыкъ вѣса ·",
     "originalText": "ζυγὸν μὴ ὑπερβαίνειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -203,8 +287,12 @@
     "stsl": "Не ꙗждь срьдьца своєго (не снѣдаи сѧ печалию) ·",
     "originalText": "καρδίην μὴ ἐσθίειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -212,8 +300,12 @@
     "stsl": "Єгда исходиши въ пѫть · не обрьти сѧ ·",
     "originalText": "ἀποδημοῦντα ἐπὶ τοῖς ὅροις ἀνεπιστρεπτεῖν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -221,8 +313,12 @@
     "stsl": "Внидѧ въ домъ · въпроси себє · кѫдѣ прѣстѫпихъ · что сътворихъ · что оставихъ недѣлано ·",
     "originalText": "πῆ παρέβην; τί δ' ἔρεξα; τί μοι δέον οὐκ ἐτελέσθη;",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -230,8 +326,12 @@
     "stsl": "Не призываи богы въ свѣдѣтєли · подвизаи сѧ · да слово твоє само вѣрно бѹдеть ·",
     "originalText": "μηδ' ὀμνύναι θεούς· ἀσκεῖν γὰρ αὑτὸν δεῖν ἀξιόπιστον παρέχειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -239,8 +339,12 @@
     "stsl": "Чьти старѣишѧ · єже по врѣмени пьрвѣє · болии имать правъ на чьсть ·",
     "originalText": "τούς τε πρεσβυτέρους τιμᾶν, τὸ προηγούμενον τῷ χρόνῳ τιμιώτερον ἡγουμένους.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -248,8 +352,12 @@
     "stsl": "Богы подобаєть пьрвѣє чьстити · витѧзы послѣ богъ · а междѹ чловѣкы родителѧ ·",
     "originalText": "τιμὰς θεοῖς δεῖν νομίζειν καὶ ἥρωσι μὴ τὰς ἴσας, ἀλλὰ θεοῖς μὲν ἀεὶ μετ' εὐφημίας λευχειμονοῦντας καὶ ἁγνεύοντας, ἥρωσι δ' ἀπὸ μέσου ἡμέρας.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -257,8 +365,12 @@
     "stsl": "Не твори дрѹгы врагы · но врагы дрѹгы твори ·",
     "originalText": "ἀλλήλοις θ' ὁμιλεῖν, ὡς τοὺς μὲν φίλους ἐχθροὺς μὴ ποιῆσαι, τοὺς δ' ἐχθροὺς φίλους ἐργάσασθαι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -266,8 +378,12 @@
     "stsl": "Въ гнѣвѣ ѹдрьживаи рѫкѫ и ѩзꙑкъ ·",
     "originalText": "ὀργιζόμενος τ' οὔτε οἰκέτην ἐκόλαζεν οὔτ' ἐλεύθερον οὐδένα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -275,8 +391,12 @@
     "stsl": "Начѧло вьсего єсть єдно ·",
     "originalText": "ἀόριστον δυάδα ὡς ἂν ὕλην τῇ μονάδι αἰτίῳ ὄντι ὑποστῆναι· ἐκ δὲ τῆς μονάδος καὶ τῆς ἀορίστου δυάδος τοὺς ἀριθμούς.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.25"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.25"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -284,8 +404,12 @@
     "stsl": "Дѹша чловѣча три части имать · ѹмъ · разборъ · и страсть ·",
     "originalText": "Τὴν δ' ἀνθρώπου ψυχὴν διῃρῆσθαι τριχῆ, εἴς τε νοῦν καὶ φρένας καὶ θυμόν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.30"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.30"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -293,8 +417,12 @@
     "stsl": "Добродѣтель єсть складъ · тако же и здравиє и вьсѧко благо и самъ Богъ · того ради и всѧ по складѹ съставлена сѫть ·",
     "originalText": "τήν τ' ἀρετὴν ἁρμονίαν εἶναι καὶ τὴν ὑγίειαν καὶ τὸ ἀγαθὸν ἅπαν καὶ τὸν θεόν· διὸ καὶ καθ' ἁρμονίαν συνεστάναι τὰ ὅλα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.33"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.33"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -302,8 +430,12 @@
     "stsl": "Наикраснѣишии отъ тѣлесь єсть лопъта · а отъ плоскыхъ · крѫгъ ·",
     "originalText": "Καὶ τῶν σχημάτων τὸ κάλλιστον σφαῖραν εἶναι τῶν στερεῶν, τῶν δ' ἐπιπέδων κύκλον.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.35"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.35"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -311,28 +443,40 @@
     "stsl": "Соль подобаєтъ полагати на трапезѣ въ помѧнованіє правды · зане хранить єже приємлеть и отъ наичистѣишихъ исходить · отъ сльньца и морѧ ·",
     "originalText": "περὶ τῶν ἁλῶν, ὅτι δεῖ παρατίθεσθαι πρὸς ὑπόμνησιν τοῦ δικαίου· οἱ γὰρ ἅλες πᾶν σώζουσιν ὅ τι ἂν παραλάβωσι καὶ γεγόνασιν ἐκ τῶν καθαρωτάτων ὕδατος καὶ θαλάσσης.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.35"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.35"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Njegovi učenici su pet godina ćutali, samo slušali, pa tek posle provere bili primani da ga vide i da žive u njegovoj blizini.",
     "stsl": "Ѹченици єго пѧть лѣтъ мълчахѫ · токмо слѹшахѫ · и токмо по испытании приимахѫсѧ видѣти єго и близъ єго жити ·",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
     "year": -532,
-    "reference": "VIII.10",
-    "originalText": "Πενταετίαν θ' ἡσύχαζον, μόνον τῶν λόγων κατακούοντες καὶ οὐδέπω Πυθαγόραν ὁρῶντες εἰς ὃ δοκιμασθεῖεν· τοὐντεῦθεν δ' ἐγίνοντο τῆς οἰκίας αὐτοῦ καὶ τῆς ὄψεως μετεῖχον."
+    "originalText": "Πενταετίαν θ' ἡσύχαζον, μόνον τῶν λόγων κατακούοντες καὶ οὐδέπω Πυθαγόραν ὁρῶντες εἰς ὃ δοκιμασθεῖεν· τοὐντεῦθεν δ' ἐγίνοντο τῆς οἰκίας αὐτοῦ καὶ τῆς ὄψεως μετεῖχον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.10"
+      }
+    ]
   },
   {
     "type": "bio",
     "sr": "Po jednom predanju, bežeći od progonitelja stigao je do polja boba, ali ga nije hteo pregaziti; radije je prihvatio smrt nego da prekrši svoje učenje.",
     "stsl": "По єдиномѹ прѣданию · бѣжа отъ гонителеи и достиже до полꙗ бобовъ · но не въсхотѣ єго прѣстѫпити · паче смрьть прииде · нежели да прѣстѹпить ѹчєніє своє ·",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
     "year": -495,
-    "reference": "VIII.39",
-    "originalText": "Τροπῆς δὲ γενομένης περικάμπτοντα αὐτὸν τὴν τῶν κυάμων χώραν ὑπὸ τῶν Συρακουσίων ἀναιρεθῆναι."
+    "originalText": "Τροπῆς δὲ γενομένης περικάμπτοντα αὐτὸν τὴν τῶν κυάμων χώραν ὑπὸ τῶν Συρακουσίων ἀναιρεθῆναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.39"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -340,8 +484,12 @@
     "stsl": "Аще же наилѹчьшии мѫжи оставѧтъ грады своѧ · погибнетъ добръ строи ихъ · и опасность отъ Мидъ възрастеть ·",
     "originalText": "εἰ δὲ ὑμεῖς οἱ ὀνήιστοι τὰς πόλιας ἐκλείψετε, ἀπὸ μὲν αὐτέων ὁ κόσμος αἱρεθήσεται, ἐπικινδυνότερα δ' αὐτῇσι τὰ ἐκ Μήδων.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.49"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.49"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -349,8 +497,12 @@
     "stsl": "Не добро єсть токмо зрѣти небо · подобаєтъ и печи сѧ о отечьствѣ ·",
     "originalText": "οὔτε δὲ αἰεὶ καλὸν αἰθερολογίη μελεδωνόν τε εἶναι τῇ πατρίδι κάλλιον.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.50"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.50"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -358,17 +510,25 @@
     "stsl": "Ни єдинъ чловѣкъ мѫдръ не єсть · єдинъ Богъ мѫдръ єсть ·",
     "originalText": "μηδένα γὰρ εἶναι σοφὸν [ἄνθρωπον] ἀλλ' ἢ θεόν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "I.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.12"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Pitagora je govorio da je njegova duša ranije živela u drugim telima i da se seća svojih prethodnih života, smrti i seoba u ljude, biljke i životinje.",
     "stsl": "Питагоръ глаголаше · ꙗко дѹша єго прѣжде живѣ въ инѣхъ тѣлесѣхъ и помьнитъ прѣждьнѧꙗ житїꙗ · смрьти и прѣселениꙗ въ чловѣкы · былиꙗ и животнаꙗ ·",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.4–5",
-    "originalText": "Ἡρακλείδης ὁ Ποντικὸς περὶ αὑτοῦ τάδε λέγειν, ὡς εἴη ποτὲ γεγονὼς Αἰθαλίδης καὶ Ἑρμοῦ υἱὸς νομισθείη. Ἐν μὲν οὖν τῇ ζωῇ πάντων διαμνημονεῦσαι, ἐπεὶ δὲ ἀποθάνοι τηρῆσαι τὴν αὐτὴν μνήμην. Χρόνῳ δ' ὕστερον εἰς Εὔφορβον ἐλθεῖν καὶ ὑπὸ Μενέλεω τρωθῆναι. Μεταβῆναι τὴν ψυχὴν αὐτοῦ εἰς Ἑρμότιμον. Γενέσθαι Πύῤῥον τὸν Δήλιον ἁλιέα. Γενέσθαι Πυθαγόραν καὶ πάντων τῶν εἰρημένων μεμνῆσθαι."
+    "originalText": "Ἡρακλείδης ὁ Ποντικὸς περὶ αὑτοῦ τάδε λέγειν, ὡς εἴη ποτὲ γεγονὼς Αἰθαλίδης καὶ Ἑρμοῦ υἱὸς νομισθείη. Ἐν μὲν οὖν τῇ ζωῇ πάντων διαμνημονεῦσαι, ἐπεὶ δὲ ἀποθάνοι τηρῆσαι τὴν αὐτὴν μνήμην. Χρόνῳ δ' ὕστερον εἰς Εὔφορβον ἐλθεῖν καὶ ὑπὸ Μενέλεω τρωθῆναι. Μεταβῆναι τὴν ψυχὴν αὐτοῦ εἰς Ἑρμότιμον. Γενέσθαι Πύῤῥον τὸν Δήλιον ἁλιέα. Γενέσθαι Πυθαγόραν καὶ πάντων τῶν εἰρημένων μεμνῆσθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.4–5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -376,8 +536,12 @@
     "stsl": "Кълнѫ сѧ въздѹхомъ · имьже дышѫ · и водою · юже пиѭ · николи же ѹкорениꙗ сего писаниꙗ не претерплѭ ·",
     "originalText": "οὐ μὰ τὸν ἀέρα τὸν ἀναπνέω, οὐ μὰ τὸ ὕδωρ τὸ πίνω, οὔ κοτ' οἴσω ψόγον περὶ τοῦ λόγου τοῦδε.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.6"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -385,8 +549,12 @@
     "stsl": "Юноши · пристѫпите и въ млъчании почьтите вьсѧ словеса моꙗ ·",
     "originalText": "ὦ νέοι, ἀλλὰ σέβεσθε μεθ' ἡσυχίας τάδε πάντα·",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.7"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.7"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -394,8 +562,12 @@
     "stsl": "Не бѫди бесрамьнъ ни прѣдъ єдинымъ чловѣкомъ ·",
     "originalText": "Μὴ ἀνααίδευ μηδενί.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.8"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -403,8 +575,12 @@
     "stsl": "Жены при мѫжьхъ божьствьна имѧна носѧть · пьрво дѣвы нарицаѭть сѧ · потомь невѣсты · послѣди матере ·",
     "originalText": "τὰς συνοικούσας ἀνδράσι θεῶν ἔχειν ὀνόματα, Κόρας, Νύμφας, εἶτα Μητέρας καλουμένας.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.11"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.11"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -412,8 +588,12 @@
     "stsl": "Животнаꙗ · иже съ нами даръ дѹше имѫть · не подобаєть ѹбивати · кольми паче ꙗсти · въздръжаніє отъ животьныѧ пищте чловѣка къ простомѹ житію · здравомѹ тѣлѹ и свѣтлѹ ѹмѹ навычаеть ·",
     "originalText": "τὸ φονεύειν ἀπαγορεύειν, μὴ ὅτι γε ἅπτεσθαι τῶν ζῴων κοινὸν δίκαιον ἡμῖν ἐχόντων ψυχῆς· τὸ δ' ἀληθὲς τῶν ἐμψύχων ἀπηγόρευεν ἅπτεσθαι συνασκῶν καὶ συνεθίζων εἰς εὐκολίαν βίου τοὺς ἀνθρώπους, ὥστε εὐπορίστους αὐτοῖς εἶναι τὰς τροφὰς ἄπυρα προσφερομένοις καὶ λιτὸν ὕδωρ πίνουσιν· ἐντεῦθεν γὰρ καὶ σώματος ὑγίειαν καὶ ψυχῆς ὀξύτητα περιγίνεσθαι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.13"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.13"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -421,8 +601,12 @@
     "stsl": "Дѹша · то въ єдино то въ дрѹго животно преходѧщи · крѫгъ нѫжды обращаєть ·",
     "originalText": "Πρῶτόν τέ φασι τοῦτον ἀποφῆναι τὴν ψυχὴν κύκλον ἀνάγκης ἀμείβουσαν ἄλλοτ' ἄλλοις ἐνδεῖσθαι ζῴοις.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.14"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.14"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -430,8 +614,12 @@
     "stsl": "Вечернѧꙗ и ѹтрьнѧꙗ звѣзда єдина єсть ·",
     "originalText": "πρῶτόν τε Ἕσπερον καὶ Φωσφόρον τὸν αὐτὸν εἰπεῖν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.14"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.14"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -439,17 +627,25 @@
     "stsl": "По двѣстѣхъ и седми лѣтѣхъ въ Адѣ къ живымъ възвратихъ сѧ ·",
     "originalText": "ἐν τῇ γραφῇ φησι δι' ἑπτὰ καὶ διηκοσίων ἐτέων ἐξ ἀΐδεω παραγεγενῆσθαι ἐς ἀνθρώπους.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.14"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.14"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Pitagorejci su govorili da nisu sva Pitagorina učenja namenjena svačijim ušima.",
     "stsl": "Питагорѧне глаголаахѹ · ꙗко не вьсѧ Питагорова ѹчениꙗ вьсѣмъ слышати подобаєть ·",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.15",
-    "originalText": "Μέχρι δὲ Φιλολάου οὐκ ἦν τι γνῶναι Πυθαγόρειον δόγμα· οὗτος δὲ μόνος ἐξήνεγκε τὰ διαβόητα τρία βιβλία."
+    "originalText": "Μέχρι δὲ Φιλολάου οὐκ ἦν τι γνῶναι Πυθαγόρειον δόγμα· οὗτος δὲ μόνος ἐξήνεγκε τὰ διαβόητα τρία βιβλία.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.15"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -457,8 +653,12 @@
     "stsl": "Не сѣди на мѣрѣ ·",
     "originalText": "ἐπὶ χοίνικος μὴ καθίζειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -466,8 +666,12 @@
     "stsl": "Не помагаи чловѣкѹ бремѧ съложити · нъ възложити ·",
     "originalText": "φορτίον συγκαθαιρεῖν καὶ μὴ συνεπιτιθέναι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -475,8 +679,12 @@
     "stsl": "Постелѭ всегда съвиваи ·",
     "originalText": "τὰ στρώματα ἀεὶ συνδεδεμένα ἔχειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -484,8 +692,12 @@
     "stsl": "Нечистота свѣщею не очищаеть сѧ ·",
     "originalText": "δᾳδίῳ εἰς θᾶκον μὴ ὀμόργνυσθαι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -493,8 +705,12 @@
     "stsl": "Къ слъньцѹ не мочи сѧ ·",
     "originalText": "πρὸς ἥλιον τετραμμένον. μὴ ὀμίχειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -502,8 +718,12 @@
     "stsl": "Широкымъ пѫтемъ не ходи ·",
     "originalText": "ἐκτὸς λεωφόρου μὴ βαδίζειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -511,8 +731,12 @@
     "stsl": "Рѫкы поспѣшьно не простираи ·",
     "originalText": "μὴ ῥᾳδίως δεξιὰν ἐμβάλλειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -520,8 +744,12 @@
     "stsl": "Не приимаи подъ кровъ ластовицъ · ни птицъ хыщьныхъ ·",
     "originalText": "ὁμωροφίους χελιδόνας μὴ ἔχειν, γαμψώνυχα μὴ τρέφειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -529,8 +757,12 @@
     "stsl": "Не настѫпаи по обрѣзаныхъ ногътехъ и власѣхъ ·",
     "originalText": "ἀπονυχίσμασι καὶ κουραῖς μὴ ἐπουρεῖν μηδὲ ἐφίστασθαι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -538,8 +770,12 @@
     "stsl": "Не обрашаи остриє къ себѣ ·",
     "originalText": "ὀξεῖαν μάχαιραν ἀποστρέφειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -547,8 +783,12 @@
     "stsl": "Объꙗдениꙗ · распѹстьства · пиꙗньства · безмѣрьнаго смѣха · хѹльныхъ шѹтокъ и скврьныхъ словесъ бѣгаи ·",
     "originalText": "οὐδεπώποτε ἐγνώσθη οὔτε διαχωρῶν οὔτε ἀφροδισιάζων οὔτε μεθυσθείς. ἀπείχετο καταγέλωτος καὶ πάσης ἀρεσκείας οἷον σκωμμάτων καὶ διηγημάτων φορτικῶν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.20"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.20"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -556,8 +796,12 @@
     "stsl": "Никогоже въ гнѣвѣ наказѹи ·",
     "originalText": "ὀργιζόμενος τ' οὔτε οἰκέτην ἐκόλαζεν οὔτ' ἐλεύθερον οὐδένα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.20"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.20"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -565,8 +809,12 @@
     "stsl": "Наставленіє єсть исправленіє ·",
     "originalText": "ἐκάλει δὲ τὸ νουθετεῖν πελαργᾶν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.20"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.20"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -574,17 +822,25 @@
     "stsl": "Прорицаи гласы и знаменьми · а не съжигаємыми жрьтвами ·",
     "originalText": "μαντικῇ τ' ἐχρῆτο τῇ διὰ τῶν κληδόνων τε καὶ οἰωνῶν, ἥκιστα δὲ τῇ διὰ τῶν ἐμπύρων.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.20"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.20"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Pitagora je govorio da je u Adu video Hesiodovu dušu privezanu za bronzani stub i Homerovu obešenu o drvo među zmijama, kažnjene zbog svojih reči o bogovima, kao i duše onih koji nisu ostali verni svojim supružnicima.",
     "stsl": "Питагоръ глаголаше · ꙗко въ Адѣ видѣ Хесиодову дѹшѹ къ мѣдѣномѹ стълпѹ привезанѹ и Хомерову на дрѣвѣ посрѣдѣ змии повѣшенѹ · за словеса о бозѣхъ мѫчимы · тако же и дѹши невѣрьныхъ къ сѫпрѫгомъ ·",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.21",
-    "originalText": "Φησὶ δ' Ἱερώνυμος κατελθόντα αὐτὸν εἰς ᾅδου τὴν μὲν Ἡσιόδου ψυχὴν ἰδεῖν πρὸς κίονι χαλκῷ δεδεμένην καὶ τρίζουσαν, τὴν δ' Ὁμήρου κρεμαμένην ἀπὸ δένδρου καὶ ὄφεις περὶ αὐτὴν ἀνθ' ὧν εἶπον περὶ θεῶν."
+    "originalText": "Φησὶ δ' Ἱερώνυμος κατελθόντα αὐτὸν εἰς ᾅδου τὴν μὲν Ἡσιόδου ψυχὴν ἰδεῖν πρὸς κίονι χαλκῷ δεδεμένην καὶ τρίζουσαν, τὴν δ' Ὁμήρου κρεμαμένην ἀπὸ δένδρου καὶ ὄφεις περὶ αὐτὴν ἀνθ' ὧν εἶπον περὶ θεῶν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.21"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -592,8 +848,12 @@
     "stsl": "Богомъ животьныхъ жрьтвъ не приноси · токмо прѣдъ безкръвьнымъ жрьтвеникомъ жрьтвѹ приноси ·",
     "originalText": "θυσίαις τε ἐχρῆτο ἀψύχοις.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.22"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -601,8 +861,12 @@
     "stsl": "Ничтоже своє мьни быти ·",
     "originalText": "ἴδιόν τε μηδὲν ἡγεῖσθαι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -610,8 +874,12 @@
     "stsl": "Законъ подръжаваи и противѹ беззаконию борисѧ ·",
     "originalText": "νόμῳ βοηθεῖν, ἀνομίᾳ πολεμεῖν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -619,8 +887,12 @@
     "stsl": "Не ѹбиваи ни врѣди кротъкаго дрѣва ни животнаго · єже чловѣкѹ не вредитъ ·",
     "originalText": "φυτὸν ἥμερον μήτε φθίνειν μήτε σίνεσθαι, ἀλλὰ μηδὲ ζῷον ὃ μὴ βλάπτει ἀνθρώπους.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -628,8 +900,12 @@
     "stsl": "Не предаваи сѧ безѹзьдьномѹ смѣхѹ ни мрачно лице носи ·",
     "originalText": "αἰδῶ καὶ εὐλάβειαν εἶναι μήτε γέλωτι κατέχεσθαι μήτε σκυθρωπάζειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -637,8 +913,12 @@
     "stsl": "На пѫти трѹдъ и покои прѣмѣнѧи ·",
     "originalText": "ὁδοιπορίης ἄνεσιν καὶ ἐπίτασιν ποιεῖσθαι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -646,8 +926,12 @@
     "stsl": "Памѧть ѹпражнѧи ·",
     "originalText": "μνήμην ἀσκεῖν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.24"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.24"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -655,8 +939,12 @@
     "stsl": "Вьсѧко прорицаніє чьсти ·",
     "originalText": "μαντικὴν πᾶσαν τιμᾶν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.24"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.24"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -664,8 +952,12 @@
     "stsl": "При гѫслѣхъ пои и пѣсньми благодареніє богомъ и добрымъ людемъ въздаваи ·",
     "originalText": "ᾠδαῖς χρῆσθαι πρὸς λύραν ὕμνῳ τε θεῶν καὶ ἀνδρῶν ἀγαθῶν εὔλογον χάριν ἔχειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.24"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.24"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -673,8 +965,12 @@
     "stsl": "Отъ бобовъ въздръжи сѧ · зане дыха пълни сѫть · безъ нихъ же чрѣво мирьнѣє и съни слащи ·",
     "originalText": "τῶν δὲ κυάμων ἀπέχεσθαι διὰ τὸ πνευματώδεις ὄντας μάλιστα μετέχειν τοῦ ψυχικοῦ· καὶ ἄλλως κοσμιωτέρας ἀπεργάζεσθαι μὴ παραληφθέντας τὰς γαστέρας· καὶ διὰ τοῦτο καὶ τὰς καθ' ὕπνους φαντασίας λείας καὶ ἀταράχους ἀποτελεῖν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.24"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.24"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -682,8 +978,12 @@
     "stsl": "Отъ єдиньства · єже вина єсть · бываєть неопредѣлено двоиство · єже єму тварь єсть · Отъ єдиньства и двоиства бываѫть числа · Отъ числъ точкы · отъ точькъ чрьты · отъ чрътъ равьны образи · отъ нихъ твръда тѣлеса · Отъ тѣлесъ бываѫть чѹвьствьны вѣшти и четыре състави · огнь · вода · землѧ и въздѹхъ ·",
     "originalText": "ἀρχὴν μὲν τῶν ἁπάντων μονάδα· ἐκ δὲ τῆς μονάδος ἀόριστον δυάδα ὡς ἂν ὕλην τῇ μονάδι αἰτίῳ ὄντι ὑποστῆναι· ἐκ δὲ τῆς μονάδος καὶ τῆς ἀορίστου δυάδος τοὺς ἀριθμούς· ἐκ δὲ τῶν ἀριθμῶν τὰ σημεῖα· ἐκ δὲ τούτων τὰς γραμμάς, ἐξ ὧν τὰ ἐπίπεδα σχήματα· ἐκ δὲ τῶν ἐπιπέδων τὰ στερεὰ σχήματα· ἐκ δὲ τούτων τὰ αἰσθητὰ σώματα, ὧν καὶ τὰ στοιχεῖα εἶναι τέτταρα, πῦρ, ὕδωρ, γῆν, ἀέρα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.25"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.25"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -691,8 +991,12 @@
     "stsl": "Четыре стихии вьсецѣло єдина въ дрѹгꙋ прѣмѣнѧѭть сѧ и живъ · разумьнъ и крѫглъ строи творѧть · съ крѫглою Землѥю посредѣ · отъвьсѫдѹ населенꙋ · Сѫть и инии на przeciwьнѣи странѣ · имъже наше долѣ єсть горѣ ·",
     "originalText": "μεταβάλλειν δὲ καὶ τρέπεσθαι δι' ὅλων, καὶ γίνεσθαι ἐξ αὐτῶν κόσμον ἔμψυχον, νοερόν, σφαιροειδῆ, μέσην περιέχοντα τὴν γῆν καὶ αὐτὴν σφαιροειδῆ καὶ περιοικουμένην. εἶναι δὲ καὶ ἀντίποδας καὶ τὰ ἡμῖν κάτω ἐκείνοις ἄνω.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.25"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.25"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -700,8 +1004,12 @@
     "stsl": "Свѣтъ и тьма · теплое и стѹденое · сѹхое и влажное равьнъ дѣлъ въ строи имѫть · Прѣвъзмогание ихъ лѣтьна врѣмена творить · равьность же благо врѣмѧ ·",
     "originalText": "ἰσόμοιρά τ' εἶναι ἐν τῷ κόσμῳ φῶς καὶ σκότος, καὶ θερμὸν καὶ ψυχρόν, καὶ ξηρὸν καὶ ὑγρόν· ὧν κατ' ἐπικράτειαν θερμοῦ μὲν θέρος γίνεσθαι, ψυχροῦ δὲ χειμῶνα· ἐὰν δὲ ἰσομοιρῇ, τὰ κάλλιστα εἶναι τοῦ ἔτους.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.26"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.26"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -709,8 +1017,12 @@
     "stsl": "Ѹтро къ свѣжести · вечеръ къ тлѣнию принадлежить ·",
     "originalText": "ἀλλὰ καὶ τῆς ἡμέρας θάλλειν μὲν τὴν ἕω, φθίνειν δὲ τὴν ἑσπέραν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.26"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.26"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -718,8 +1030,12 @@
     "stsl": "Въздѹхъ при земли недвижимъ и нездравъ · и вьсѧ въ немь съмрьтна сѫть · вышнии же въздѹхъ приснодвижимъ · чистъ и здравъ · и вьсѧ въ немь бесъмрьтнаѧ и божьствьнаѧ ·",
     "originalText": "τόν τε περὶ τὴν γῆν ἀέρα ἄσειστον καὶ νοσερὸν καὶ τὰ ἐν αὐτῷ πάντα θνητά· τὸν δὲ ἀνωτάτω ἀεικίνητόν τ' εἶναι καὶ καθαρὸν καὶ ὑγιᾶ καὶ πάντα τὰ ἐν αὐτῷ ἀθάνατα καὶ διὰ τοῦτο θεῖα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.26"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.26"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -727,8 +1043,12 @@
     "stsl": "Слъньце · мѣсѧць и прочаꙗ звѣзды бози сѫть · зане въ нихъ теплота прѣвъзмогаєть · ꙗже вина живота єсть · Мѣсѧць слъньцемъ освѣштаєть сѧ · Бози и чловѣци сродьни сѫть · зане чловѣкъ теплоты причѧстьнъ · тѣмь Богъ о чловѣцѣ печеть сѧ ·",
     "originalText": "ἥλιόν τε καὶ σελήνην καὶ τοὺς ἄλλους ἀστέρας εἶναι θεούς· ἐπικρατεῖ γὰρ τὸ θερμὸν ἐν αὐτοῖς, ὅπερ ἐστὶ ζωῆς αἴτιον. τήν τε σελήνην λάμπεσθαι ὑφ' ἡλίου. καὶ ἀνθρώπων εἶναι πρὸς θεοὺς συγγένειαν, κατὰ τὸ μετέχειν ἄνθρωπον θερμοῦ· διὸ καὶ προνοεῖσθαι τὸν θεὸν ἡμῶν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.27"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.27"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -736,8 +1056,12 @@
     "stsl": "Сѫдьба причина єсть чина вьсего · и цѣлаго и частънаго ·",
     "originalText": "εἱμαρμένην τε τῶν ὅλων καὶ κατὰ μέρος αἰτίαν εἶναι τῆς διοικήσεως.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.27"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.27"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -745,8 +1069,12 @@
     "stsl": "Вьсѧ · ꙗже теплоты причѧстьна сѫть · живѫть · тѣмь и былиꙗ жива сѫть · Нъ не вьсѧ дѹшꙫ имѫть · Дѹша єсть отъдѣленъ дѣлъ єтера · теплоты и стѹдениꙗ · отъ живота различьна єсть и бесъмрьтна · зане бесъмрьтно єсть оно · отъ негоже отъдѣли сѧ ·",
     "originalText": "ζῆν μὲν πάνθ' ὅσα μετέχει τοῦ θερμοῦ· διὸ καὶ τὰ φυτὰ ζῷα εἶναι· ψυχὴν μέντοι μὴ ἔχειν πάντα. εἶναι δὲ τὴν ψυχὴν ἀπόσπασμα αἰθέρος καὶ τοῦ θερμοῦ καὶ τοῦ ψυχροῦ. τῷ συμμετέχειν ψυχροῦ αἰθέρος διαφέρειν ψυχὴν ζωῆς· ἀθάνατόν τ' εἶναι αὐτήν, ἐπειδήπερ καὶ τὸ ἀφ' οὗ ἀπέσπασται ἀθάνατόν ἐστι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.28"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.28"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -754,8 +1082,12 @@
     "stsl": "Жива сѫшта єдина отъ дрѹгыихъ изъ сѣмене раждаѭть сѧ · саморождениꙗ отъ земли нѣсть ·",
     "originalText": "τὰ δὲ ζῷα γεννᾶσθαι ἐξ ἀλλήλων ἀπὸ σπερμάτων, τὴν δ' ἐκ γῆς γένεσιν ἀδύνατον ὑφίστασθαι.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.28"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.28"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -763,8 +1095,12 @@
     "stsl": "Сѣмѧ єсть каплѧ мозга, содержаща въ себѣ теплъ паръ. Егда въ ѹтробѫ вьнидеть, отъ мозга истѣчають сокъ и влага и кровь, отъ нихъ же бываѭть плъть, жилы, кости, власи и всє тѣло; отъ пара же дѹша и чѹвьство. Зачѧтоє же прьвѣє въ четыредесѧть дьнии образъ приємлеть, по мѣрамъ же склада въ седмь или девѧть или наиболѣе въ десѧть мѣсѧць съвръшается и рождаєть сѧ младенецъ.",
     "originalText": "τὸ δὲ σπέρμα εἶναι σταγόνα ἐγκεφάλου περιέχουσαν ἐν ἑαυτῇ ἀτμὸν θερμόν· ταύτην δὲ προσφερομένην τῇ μήτρᾳ ἀπὸ μὲν τοῦ ἐγκεφάλου ἰχῶρα καὶ ὑγρὸν καὶ αἷμα προΐεσθαι, ἐξ ὧν σάρκας τε καὶ νεῦρα καὶ ὀστᾶ καὶ τρίχας καὶ τὸ ὅλον συνίστασθαι σῶμα· ἀπὸ δὲ τοῦ ἀτμοῦ ψυχὴν καὶ αἴσθησιν. μορφοῦσθαι δὲ τὸ μὲν πρῶτον παγὲν ἐν ἡμέραις τεσσαράκοντα, κατὰ δὲ τοὺς τῆς ἁρμονίας λόγους ἐν ἑπτὰ ἢ ἐννέα ἢ δέκα τὸ πλεῖστον μησὶ τελειωθὲν ἀποκυΐσκεσθαι τὸ βρέφος.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.28–29"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.28–29"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -772,8 +1108,12 @@
     "stsl": "Чѹвьство · наипаче зрѣние · єсть наитеплѣиши паръ · очи сѫть врата Слъньца · Аще бы паръ въ очихъ стѹденъ бѣ · при прикоснѫтии съ подобьнымъ въздѹхомъ разсѣꙗлъ бы сѧ · То же свойство и о слѹсѣ и инѣхъ чѹвьствѣхъ єсть ·",
     "originalText": "τήν τ' αἴσθησιν κοινῶς καὶ κατ' εἶδος τὴν ὅρασιν ἀτμόν τιν' ἄγαν εἶναι θερμόν. καὶ διὰ τοῦτον λέγεται δι' ἀέρος ὁρᾶν καὶ δι' ὕδατος· ἀντερείδεσθαι γὰρ τὸ θερμὸν ἐπὶ τοῦ ψυχροῦ. ἐπεί τοι εἰ ψυχρὸς ἦν ὁ ἐν τοῖς ὄμμασιν ἀτμός, διειστήκει ἂν πρὸς τὸν ὅμοιον ἀέρα· νῦν δὲ ἔστιν ἐν οἷς ἡλίου πύλας καλεῖ τοὺς ὀφθαλμούς. τὰ δ' αὐτὰ καὶ περὶ τῆς ἀκοῆς καὶ τῶν λοιπῶν αἰσθήσεων δογματίζειν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.29"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.29"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -781,8 +1121,12 @@
     "stsl": "Ѹмъ и страсть имѫть и ина животнаꙗ · разборъ же єдинъ чловѣкъ имать · Сѣдалище дѹше отъ срьдьца до мозга простирєть сѧ · страсть въ срьдьци · разборъ и ѹмъ въ моззѣ · Разборьноє бесъмрьтно · прочаꙗ же съмрьтна · Дѹша кръвию питаєть сѧ · словесиꙗ же дѹше сѫть невидими вѣтри · Она же и словесиꙗ єѧ невидима сѫть · ꙗкоже и небєсьє невидимо єсть ·",
     "originalText": "Τὴν δ' ἀνθρώπου ψυχὴν διῃρῆσθαι τριχῆ, εἴς τε νοῦν καὶ φρένας καὶ θυμόν. νοῦν μὲν οὖν καὶ θυμὸν εἶναι καὶ ἐν τοῖς ἄλλοις ζῴοις, φρένας δὲ μόνον ἐν ἀνθρώπῳ. εἶναι δὲ τὴν ἀρχὴν τῆς ψυχῆς ἀπὸ καρδίας μέχρις ἐγκεφάλου· καὶ τὸ μὲν ἐν τῇ καρδίᾳ μέρος αὐτῆς ὑπάρχειν θυμόν, φρένας δὲ καὶ νοῦν τὰ ἐν τῷ ἐγκεφάλῳ· σταγόνας δ' εἶναι ἀπὸ τούτων τὰς αἰσθήσεις. καὶ τὸ μὲν φρόνιμον ἀθάνατον, τὰ δὲ λοιπὰ θνητά. τρέφεσθαί τε τὴν ψυχὴν ἀπὸ τοῦ αἵματος· τοὺς δὲ λόγους ψυχῆς ἀνέμους εἶναι. ἀόρατόν τ' εἶναι αὐτὴν καὶ τοὺς λόγους, ἐπεὶ καὶ ὁ αἰθὴρ ἀόρατος.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.30"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.30"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -790,8 +1134,12 @@
     "stsl": "Жилы · кръвьны сѫды и тетивы връзи дѹше сѫть · єгда дѹша крѣпка и въ себѣ събрана єсть · мысли и дѣла връзи єѧ бываѭть · По исходѣ изъ тѣла въ въздѹсѣ блѹдить · Хермесъ дѹшы водить · чистыѧ въ вышнѭю область възводить · нечистыѧ же Еринии нераздрѣшимыими оковы вѧжѫть ·",
     "originalText": "δεσμά τ' εἶναι τῆς ψυχῆς τὰς φλέβας καὶ τὰς ἀρτηρίας καὶ τὰ νεῦρα· ὅταν δ' ἰσχύῃ καὶ καθ' αὑτὴν γενομένη ἠρεμῇ, δεσμὰ γίνεσθαι αὐτῆς τοὺς λόγους καὶ τὰ ἔργα. ἐκριφθεῖσάν τ' αὐτὴν ἐπὶ γῆς πλάζεσθαι ἐν τῷ ἀέρι ὁμοίαν τῷ σώματι. τὸν δ' Ἑρμῆν ταμίαν εἶναι τῶν ψυχῶν καὶ διὰ τοῦτο πομπαῖον λέγεσθαι καὶ πυλαῖον καὶ χθόνιον, ἐπειδήπερ οὗτος καὶ εἰσπέμπει ἀπὸ τῶν σωμάτων τὰς ψυχὰς ἀπό τε γῆς καὶ ἐκ θαλάττης· καὶ ἄγεσθαι μὲν τὰς καθαρὰς ἐπὶ τὸν ὕψιστον, τὰς δ' ἀκαθάρτους μήτ' ἐκείναις πελάζειν μήτ' ἀλλήλαις, δεῖσθαι δ' ἐν ἀῤῥήκτοις δεσμοῖς ὑπ' Ἐρινύων.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.31"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.31"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -799,8 +1147,12 @@
     "stsl": "Вьсь въздѹхъ дѹшъ пълнъ єсть · дѹхами или щитители нарицаємыихъ · они чловѣкомъ и животнымъ съны и знамениꙗ грѧдѫщихъ болѣзни и здравиꙗ посылаѭть ·",
     "originalText": "εἶναί τε πάντα τὸν ἀέρα ψυχῶν ἔμπλεων· καὶ ταύτας δαίμονάς τε καὶ ἥρωας ὀνομάζεσθαι· καὶ ὑπὸ τούτων πέμπεσθαι ἀνθρώποις τούς τ' ὀνείρους καὶ τὰ σημεῖα νόσους τε, καὶ οὐ μόνον ἀνθρώποις ἀλλὰ καὶ προβάτοις καὶ τοῖς ἄλλοις κτήνεσιν· εἴς τε τούτους γίνεσθαι τούς τε καθαρμοὺς καὶ ἀποτροπιασμοὺς μαντικήν τε πᾶσαν καὶ κληδόνας καὶ τὰ ὅμοια.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.32"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.32"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -808,8 +1160,12 @@
     "stsl": "Наиважьнѣє оумѣние чловѣчьскаго житїꙗ єсть дѹшѫ къ благѹ или злѹ устроити · блажени сѫть · иже добрѫ дѹшѫ сътѧжѫть ·",
     "originalText": "μέγιστον δέ φησιν τῶν ἐν ἀνθρώποις εἶναι τὴν ψυχὴν πεῖσαι ἐπὶ τὸ ἀγαθὸν ἢ ἐπὶ τὸ κακόν. εὐδαιμονεῖν τ' ἀνθρώπους ὅταν ἀγαθὴ ψυχὴ προσγένηται, μηδέποτε δ' ἠρεμεῖν μηδὲ τὸν αὐτὸν ῥόον κρατεῖν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.32"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.32"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -817,8 +1173,12 @@
     "stsl": "Дрѹжьба дрѹговъ єсть съгласиє и равьньство ·",
     "originalText": "φιλίαν τ' εἶναι ἐναρμόνιον ἰσότητα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.33"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.33"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -826,8 +1186,12 @@
     "stsl": "Богы и свѧтии не равно чьстити подобаєть · богы всегда · въ чистѣ бѣлѣ одежди и благоговѣиномъ млъчании · свѧтыѧ же отъ полѹ дьне ·",
     "originalText": "τιμὰς θεοῖς δεῖν νομίζειν καὶ ἥρωσι μὴ τὰς ἴσας, ἀλλὰ θεοῖς μὲν ἀεὶ μετ' εὐφημίας λευχειμονοῦντας καὶ ἁγνεύοντας, ἥρωσι δ' ἀπὸ μέσου ἡμέρας.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.33"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.33"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -835,8 +1199,12 @@
     "stsl": "Очищеніє требѹєть омовеніꙗ · окропленіꙗ и въздръжаніꙗ отъ скврънь и ѧдениꙗ имѫщихъ дѹшѫ ·",
     "originalText": "τὴν δ' ἁγνείαν εἶναι διὰ καθαρμῶν καὶ λουτρῶν καὶ περιῤῥαντηρίων καὶ διὰ τοῦ αὐτὸν καθαρεύειν ἀπό τε κήδους καὶ λεχοῦς καὶ μιάσματος παντὸς καὶ ἀπέχεσθαι βρωτῶν θνησειδίων τε κρεῶν καὶ τριγλῶν καὶ μελανούρων καὶ ᾠῶν καὶ τῶν ᾠοτόκων ζῴων καὶ κυάμων καὶ τῶν ἄλλων ὧν παρακελεύονται καὶ οἱ τὰς τελετὰς ἐν τοῖς ἱεροῖς ἐπιτελοῦντες.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.33"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.33"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -844,8 +1212,12 @@
     "stsl": "Старость подобьна єсть вьсемѹ ѹбываѭштемѹ · юность вьсемѹ растѫштемѹ · Здравиє єсть съхраненіє образа · недѫгъ же разореніє єго ·",
     "originalText": "γῆρας καὶ πᾶν τὸ μειούμενον ὅμοιον· καὶ αὔξην καὶ νεότητα ταὐτόν· ὑγίειαν τὴν τοῦ εἴδους διαμονήν, νόσον τὴν τούτου φθοράν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.35"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.35"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -853,8 +1225,12 @@
     "stsl": "Слъньчьныи лѹчь сквозѣ небєсьє хладьно и тлъсто до глѫбинъ проникаєть и тѣмь всѧ оживлѧєть ·",
     "originalText": "ἀπὸ τοῦ ἡλίου ἀκτῖνα διὰ τοῦ αἰθέρος τοῦ τε ψυχροῦ καὶ παχέος· ταύτην δὲ τὴν ἀκτῖνα καὶ εἰς τὰ βένθη δύεσθαι καὶ διὰ τοῦτο ζωοποιεῖν πάντα.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.27"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.27"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -862,8 +1238,12 @@
     "stsl": "Всенародьно любомѫдрьствовати недостоино єсть · писанїѧ никомѹ внѣ домѹ не предаваи ·",
     "originalText": "τὺ καὶ δαμοσίᾳ φιλοσοφέν, ὅπερ ἀπαξίωσε Πυθαγόρας· μηδενὶ τῶν ἐκτὸς τᾶς οἰκίας παραδιδόμεν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.42"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.42"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -871,8 +1251,12 @@
     "stsl": "Питагоръ прьвъ небо строємъ нарече и ꙗко Землѧ єсть крѹгла ·",
     "originalText": "ἀλλὰ μὴν καὶ τὸν οὐρανὸν πρῶτον ὀνομάσαι κόσμον καὶ τὴν γῆν στρογγύλην, ὡς δὲ Θεόφραστος Παρμενίδην, ὡς δὲ Ζήνων Ἡσίοδον.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "VIII.48"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.48"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -881,43 +1265,75 @@
     "stsl": "Двѣ вѣтви любомѫдриꙗ бꙑстѣ · їонскаꙗ отъ Анаксимандра · италскаꙗ отъ Пѷѳагорꙑ иже въ Италїи любомѫдрьствова ·",
     "originalText": "Φιλοσοφίας δὲ δύο γεγόνασιν ἀρχαί, ἥ τε ἀπὸ Ἀναξιμάνδρου καὶ ἡ ἀπὸ Πυθαγόρου· Πυθαγόρου δὲ Φερεκύδης καθηγήσατο. ἡ δὲ Ἰταλικὴ ἀπὸ Πυθαγόρου, ὅτι τὰ πλεῖστα κατὰ τὴν Ἰταλίαν ἐφιλοσόφησεν.",
     "author": "Pythagoras",
-    "source": "diogenes-laertius",
-    "reference": "I.13"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.13"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Heraklit reče: mnogoučenost ne uči razum - inače bi naučila Hesioda, Pitagoru, Ksenofana i Hekateja.",
     "stsl": "Хераклитъ рече · многоѹчение разѹма не ѹчитъ · иначе бꙑ наѹчило Хесїода · Пѷѳагорѫ · Ксенофана и Хекатеа ·",
     "originalText": "πολυμαθίη νόον οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην, αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον.",
-    "author": ["Pythagoras", "Heraclitus"],
-    "source": "diogenes-laertius",
-    "reference": "IX.1"
+    "author": [
+      "Pythagoras",
+      "Heraclitus"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.1"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Ksenofan se suprotstavio Talesu i Pitagori u učenju.",
     "stsl": "Ксенофанъ Фалесѹ и Пѷѳагорѣ въ ѹченїи противи сѧ ·",
     "originalText": "ἀντιδοξάσαι τε λέγεται Θαλῇ καὶ Πυθαγόρᾳ.",
-    "author": ["Pythagoras", "Xenophanes"],
-    "source": "diogenes-laertius",
-    "reference": "IX.20"
+    "author": [
+      "Pythagoras",
+      "Xenophanes"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.20"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Po Favorinu Parmenid prvi otkrio da su Večernjača i Danica ista zvezda; drugi to pripisuju Pitagori.",
     "stsl": "По Фаворинѹ Парменидъ прьвъ откръі · ꙗко вечернѧꙗ и дьница тожде звѣзда єсть · инии же то Пѷѳагорѣ приписѹѭть ·",
     "originalText": "δοκεῖ πρῶτος πεφωρακέναι τὸν αὐτὸν εἶναι Ἕσπερον καὶ Φωσφόρον, ὥς φησι Φαβωρῖνος ἐν πέμπτῳ Ἀπομνημονευμάτων· οἱ δὲ Πυθαγόραν·",
-    "author": ["Pythagoras", "Parmenides"],
-    "source": "diogenes-laertius",
-    "reference": "IX.23"
+    "author": [
+      "Pythagoras",
+      "Parmenides"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.23"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Demokrit sledilac pitagorejaca beše; Pitagoru spominje sa divljenjem u svom delu, mogao ga je slušati da vremena nisu bila protivna.",
     "stsl": "Демокритъ послѣдователь пѷѳагореѩнъ бѣ · Пѷѳагорѫ съ дивлениємъ въ дѣлѣ своємь споминаєтъ · Могълъ би єго и слꙑшати · аште врѣмена не бꙑстѣ противна ·",
     "originalText": "δοκεῖ δέ, φησὶν ὁ Θράσυλλος, ζηλωτὴς γεγονέναι τῶν Πυθαγορικῶν· ἀλλὰ καὶ αὐτοῦ Πυθαγόρου μέμνηται, θαυμάζων αὐτὸν ἐν τῷ ὁμωνύμῳ συγγράμματι. πάντα δὲ δοκεῖν παρὰ τούτου λαβεῖν καὶ αὐτοῦ δ' ἂν ἀκηκοέναι εἰ μὴ τὰ τῶν χρόνων ἐμάχετο.",
-    "author": ["Pythagoras", "Democritus"],
-    "source": "diogenes-laertius",
-    "reference": "IX.38"
+    "author": [
+      "Pythagoras",
+      "Democritus"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.38"
+      }
+    ]
   }
 ]

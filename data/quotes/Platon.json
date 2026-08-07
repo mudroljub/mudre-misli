@@ -6,8 +6,12 @@
     "stsl": "Роди сѧ въ Атинахъ · отьць Аристонъ · мати Периктїона отъ рода Солонова · пьрвоє имѧ Аристоклъ · Платономъ прозванъ ради широты.",
     "originalText": "Πλάτων Ἀρίστωνος καὶ Περικτιόνης, ἀπὸ Σόλωνος καταγούσης· Ἀριστοκλῆς μὲν ἐκαλεῖτο, Πλάτων δὲ διὰ τὴν εὐρυθμίαν.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.3-4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.3-4"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Двадесѧть лѣтъ Сократꙋ послꙋшааше · отъ двадесѧти лѣтъ.",
     "originalText": "Σωκράτους ἤκουσεν ἔτη εἴκοσιν, ἀπὸ εἰκοσαέτους.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.6"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,19 +34,27 @@
     "stsl": "По смрьти Сократовѣи иде въ Мегарꙋ къ Еѵклидꙋ · таже въ Кирїнеѭ · Италїѭ къ питагорѣемъ и Єгѵптъ.",
     "originalText": "Ἀποθανόντος Σωκράτους παρὰ Εὐκλείδην εἰς Μέγαρα ἀπῆρε σὺν τοῖς ἄλλοις Σωκρατικοῖς. Εἶτα εἰς Κυρήνην παρὰ Θεόδωρον τὸν μαθηματικόν· κἀκεῖθεν εἰς Ἰταλίαν παρὰ Φιλόλαον καὶ Εὔρυτον τοὺς Πυθαγορικούς· κἀκεῖθεν εἰς Αἴγυπτον παρὰ τοὺς προφήτας.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.6"
+      }
+    ]
   },
-    {
+  {
     "type": "anecdote",
     "sr": "Na Egini je prodat kao rob. Otkupio ga je Kirenjanin Anikerid za dvadeset mina. Kada su mu odmah poslali novac, nije ga primio.",
     "stsl": "На Єгинѣ ꙗко рабъ проданъ бысть. Искѹпи же єго Аникеридъ Кѵринѧнинъ за двадесѧть минъ. И єгда ємѹ абиє пѣнѧѕи послаша · не приѧтъ ихъ.",
     "originalText": "Κἀκεῖνος ἀγαγὼν αὐτὸν εἰς Αἴγιναν ἐπίπρασκεν· Λυτροῦται δὴ αὐτὸν Ἀννίκερις ὁ Κυρηναῖος μνῶν εἴκοσι. Οἱ δ' εὐθὺς τἀργύριον ἐξέπεμψαν· ὅπερ οὐ προσήκατο.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -386,
-    "reference": "III.19–20"
-    },
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.19–20"
+      }
+    ]
+  },
   {
     "type": "bio",
     "year": -387,
@@ -46,8 +62,12 @@
     "stsl": "Академїѭ въ дѹбравѣ гимнасїѭма · по ирою Хекадемꙋ нареченомꙋ · оснꙋ́ва.",
     "originalText": "Διέτριβεν ἐν Ἀκαδημίᾳ· ἔστι δὲ γυμνάσιον προάστειον ἀλσῶδες, ὠνομασμένον ἀπό τινος ἥρωος Ἑκαδήμου.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.7"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.7"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -56,8 +76,12 @@
     "stsl": "Вторꙑи разъ на Сицилїѭ къ младшемꙋ Дионисїю иде · спасе єго Архитъ питагорѣецъ посланїемь къ Дионисїю.",
     "originalText": "Δεύτερον εἰς Σικελίαν πρὸς Διονύσιον τὸν νεώτερον· ἐσώθη διὰ Ἀρχύτου τοῦ Πυθαγορικοῦ γράμματι πέμψαντος πρὸς Διονύσιον.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.22"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.22"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -66,8 +90,12 @@
     "stsl": "Третїи разъ на Сицилїѭ иде да примирить Діона и Дионисїа · неѹспѣшно въ Атины възвратитъ сѧ.",
     "originalText": "Τρίτον πρὸς Διονύσιον Δίωνα καταλλάξων· μὴ κατορθώσας ἐπανῆλθεν εἰς τὴν πατρίδα.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.23"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -76,8 +104,12 @@
     "stsl": "Въ осмьдесѧтомъ и пьрвомъ лѣтѣ ѹмрѣ · погребенъ въ Академїи.",
     "originalText": "Ἐτελεύτησεν ἐτῶν ὀγδοήκοντα καὶ ἑνός· ἐτάφη ἐν Ἀκαδημίᾳ.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.2"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -85,24 +117,36 @@
     "stsl": "Пристѫпи · боже огнꙗ · Платонъ нынѣ тебѣ трѣбѹєть ·",
     "originalText": "Ἥφαιστε, πρόμολ' ὧδε· Πλάτων νύ τι σεῖο χατίζει.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.5"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "More spira sva ljudska zla.",
     "stsl": "Море омываєть вьсѧ чловѣчьскаꙗ зла ·",
     "originalText": "Θάλασσα κλύζει πάντα τἀνθρώπων κακά.",
-    "source": "diogenes-laertius",
-    "reference": "III.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.6"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Egipćani su od svih ljudi najumešniji u lečenju.",
     "stsl": "Єгѵптѧне отъ вьсѣхъ чловѣкъ въ врачевании наихѹдожьнѣиши сѫть ·",
     "originalText": "πάντας ἀνθρώπους Αἰγυπτίους ἰατροὺς εἶναι.",
-    "source": "diogenes-laertius",
-    "reference": "III.7"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.7"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -110,8 +154,12 @@
     "stsl": "Прѣдъметъ чѹвьства никогда тождь по каковьствѹ ни множьствѹ не прѣбываєть · нъ присно течеть и прѣмѣнѧєть сѧ · ємѹ бытиє бываєть · сѫщее же никогда ·",
     "originalText": "αἰσθητὸν μὲν εἶναι τὸ μηδέποτε ἐν τῷ ποιῷ μηδὲ ποσῷ διαμένον ἀλλ' ἀεὶ ῥέον καὶ μεταβάλλον· Ταῦτα δ' ἐστὶν ὧν ἀεὶ γένεσις, οὐσία δὲ μηδέποτε πέφυκε.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.9–10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.9–10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -119,8 +167,12 @@
     "stsl": "Прѣдъметъ ѹма твръдъ · вѣчьнъ и присно себѣ равьнъ єсть ·",
     "originalText": "Νοητὸν δὲ ἐξ οὗ μηθὲν ἀπογίνεται μηδὲ προσγίνεται. Τοῦτο δ' ἐστὶν ἡ τῶν ἀιδίων φύσις, ἣν ὁμοίαν τε καὶ τὴν αὐτὴν ἀεὶ συμβέβηκεν εἶναι.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -128,8 +180,12 @@
     "stsl": "Образы вѣчьни · ѹмьни и непрѣмѣньни первообразы сѫть · особьныѩ вешти ихъ имѧна носѧть · зане въ нихъ причѧстьни сѫть и подобѧть имъ ꙗко изображениꙗ своимъ первообразомъ ·",
     "originalText": "ἔστι δὲ τῶν εἰδῶν ἓν ἕκαστον ἀίδιόν τε καὶ νόημα καὶ πρὸς τούτοις ἀπαθές. Διὸ καί φησιν ἐν τῇ φύσει τὰς ἰδέας ἑστάναι καθάπερ παραδείγματα, τὰ δ' ἄλλα ταύταις ἐοικέναι τούτων ὁμοιώματα καθεστῶτα.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.12–13"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.12–13"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -137,8 +193,12 @@
     "stsl": "Памѧть показѹєть · ꙗко образы сѫть · она бо о твръдѣмь и прѣбываѭштемь єсть · прѣбываѭшти же тъкмо образы сѫть ·",
     "originalText": "εἴπερ ἐστὶ μνήμη, τὰς ἰδέας ἐν τοῖς οὖσιν ὑπάρχειν διὰ τὸ τὴν μνήμην ἠρεμοῦντός τινος καὶ μένοντος εἶναι· μένειν δὲ οὐδὲν ἕτερον ἢ τὰς ἰδέας.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.15"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.15"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -146,8 +206,12 @@
     "stsl": "Животнаꙗ прѣбываѭть · зане по естествѹ подобиє · пиштꙫ и своихъ сродьникъ распознаѭть ·",
     "originalText": "νῦν δὲ μνημονεύει τῆς ὁμοιότητός τε καὶ τροφῆς, ὁποία τις ἐστὶν αὐτοῖς, ἐνδεικνύμενα διότι πᾶσι τοῖς ζῴοις ἔμφυτός ἐστιν ἡ τῆς ἰδέας θεωρία.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.15"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.15"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -155,26 +219,38 @@
     "stsl": "Польза самого владꙑкы не єсть наилѣпша мѣра власти · аште владꙑка и добродѣтелию не прѣвъсходить ·",
     "originalText": "ὡς οὐκ ἔστι τοῦτο κρεῖττον ὃ συμφέροι αὐτῷ μόνον εἰ μὴ καὶ ἀρετῇ διαφέροι.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.18"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.18"
+      }
+    ]
   },
-    {
+  {
     "type": "anecdote",
     "sr": "Na prvom putovanju na Siciliju Platon je razgovarao s Dionisijem o tiraniji i rekao da vlast nije dobra samo zato što koristi vladaru, nego samo ako se vladar odlikuje vrlinom. Dionisije se naljutio i rekao: Tvoje reči mirišu na starca. Platon mu je odgovorio: A tvoje odaju da si tiranin. Dionisije ga je zato predao Spartancu Polidu da ga proda kao roba.",
     "stsl": "На пьрвѣмь пѫтовании въ Сикелию Платонъ съ Дионисиємь о мѫчительствѣ бесѣдоваше и рече · ꙗко власть не єсть благо тъкмо зане владꙑцѣ пользѹєть · нъ аште и добродѣтелию прѣвъсходить · Дионисии разгнѣва сѧ и рече · Твоꙗ словеса старьчьска сѫть · Платонъ же отвѣшта · А твоꙗ словеса мѫчителя показѹѭть · И того ради предаде єго Полидꙋ Лакедемонѧнинѹ · да ꙗко раба продасть.",
     "originalText": "διαλεγόμενος περὶ τυραννίδος καὶ φάσκων ὡς οὐκ ἔστι τοῦτο κρεῖττον ὃ συμφέροι αὐτῷ μόνον εἰ μὴ καὶ ἀρετῇ διαφέροι, προσέκρουσεν αὐτῷ. Ὀργισθεὶς γὰρ· «Οἱ λόγοι σου γεροντιῶσι.» Καὶ ὅς· «Σοῦ δέ γε τυραννιῶσιν.» παρέδωκε δὲ αὐτὸν Πόλλιδι τῷ Λακεδαιμονίῳ ὥστε ἀποδόσθαι.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.18–19"
-    },
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.18–19"
+      }
+    ]
+  },
   {
     "type": "quote",
     "sr": "Čestit čovek ne misli da mu preti velika opasnost.",
     "stsl": "Добрыи мѫжь не мьнить велицѣ бѣдѣ себѣ грозити ·",
     "originalText": "οὐδὲν δεινὸν οἴεσθαι πείσεσθαι ἀνὴρ ἀγαθός.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.19"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.19"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -182,8 +258,12 @@
     "stsl": "Не имамъ толика праздьства · да Дионисиꙗ въ своихъ помыслѣхъ дръжимъ ·",
     "originalText": "μὴ τοσαύτην αὐτῷ σχολὴν εἶναι ὥστε Διονυσίου μεμνῆσθαι.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.21"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -191,8 +271,12 @@
     "stsl": "Не дамъ законъ тѣмъ · иже равьньство имѣниꙗ отъмѣтаѭть ·",
     "originalText": "μαθὼν ἴσον ἔχειν οὐ θέλοντας οὐκ ἐπορεύθη.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.23"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.23"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -200,8 +284,12 @@
     "stsl": "Ꙗкоже отьчьствѹ слѹжѧ бѣдамъ себе прѣдавахъ · тако нынѣ дрѹжьбы дълга ради имъ сѧ прѣдамъ ·",
     "originalText": "Καὶ ὅτε ὑπὲρ τῆς πατρίδος ἐστρατευόμην, ὑπέμενον τοὺς κινδύνους, καὶ νῦν ὑπὲρ τοῦ καθήκοντος διὰ φίλον ὑπομενῶ.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.24"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.24"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -209,8 +297,12 @@
     "stsl": "Ѕвѣзды зриши · Ѕвѣздане · о · да быхъ небо былъ и тысѫштею очию тебе зрѣлъ ·",
     "originalText": "Ἀστέρας εἰσαθρεῖς Ἀστὴρ ἐμός· εἴθε γενοίμην οὐρανός, ὡς πολλοῖς ὄμμασιν εἰς σὲ βλέπω.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.29"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.29"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -218,8 +310,12 @@
     "stsl": "Нѣкогда въ живыхъ ꙗко Дьница сиꙗлъ єси · нынѣ въ мрътвыхъ ꙗко Вечерьница сиꙗєши ·",
     "originalText": "Ἀστὴρ πρὶν μὲν ἔλαμπες ἐνὶ ζῳοῖσιν Ἑῷος, νῦν δὲ θανὼν λάμπεις Ἕσπερος ἐν φθιμένοις.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.29"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.29"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -227,8 +323,12 @@
     "stsl": "Мои животъ отъ рождениꙗ сльзы постигнѫша · твои же · Дионе · свѣтлыѩ чьсти и величаиша слава · Нынѣ въ широцѣи отьчьствѣ почиваєши · ты · иже ми ѹмъ любовию смѫтилъ єси ·",
     "originalText": "Δάκρυα μὲν Ἑκάβῃ τε καὶ Ἰλιάδεσσι γυναιξὶ Μοῖραι ἐπέκλωσαν δὴ τότε γεινομέναις, σοὶ δέ, Δίων, ῥέξαντι καλῶν ἐπινίκιον ἔργων δαίμονες εὐρείας ἐλπίδας ἐξέχεαν. Κεῖσαι δ' εὐρυχόρῳ ἐν πατρίδι τίμιος ἀστοῖς, ὦ ἐμὸν ἐκμήνας θυμὸν ἔρωτι Δίων.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.30"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.30"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -236,8 +336,12 @@
     "stsl": "Єгда тъкмо рѣхъ · ꙗко Алексисъ красенъ · вьси къ немѹ възрѣша · Почто · срьдьце моє · псомъ кость показѹєши · Не покаꙗхомъ ли сѧ и Федра ради ·",
     "originalText": "Νῦν, ὅτε μηδὲν Ἄλεξις ὅσον μόνον εἶφ' ὅτι καλός, ὦπται καὶ πάντῃ πᾶς τις ἐπιστρέφεται. Θυμέ, τί μηνύεις κυσὶν ὀστέον; Εἶτ' ἀνιήσεις ὕστερον; οὐχ οὕτω Φαῖδρον ἀπωλέσαμεν;",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.31"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.31"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -245,8 +349,12 @@
     "stsl": "Имамъ Археанассѫ Колофоньскѫ · на єѩ морштинахъ горька любовь таить сѧ · Злострадьни бѣсте вы · иже єѩ при пьрвѣмь плавании срѣтосте · сквозѣ каковъ огнь проидосте ·",
     "originalText": "Ἀρχεάνασσαν ἔχω τὴν ἐκ Κολοφῶνος ἑταίραν, ἧς καὶ ἐπὶ ῥυτίδων ἕζετο δριμὺς ἔρως. Ἆ δειλοὶ νεότητος ἀπαντήσαντες ἐκείνης πρωτοπλόου, δι' ὅσης ἤλθετε πυρκαϊῆς.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.31"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.31"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -254,8 +362,12 @@
     "stsl": "Агаѳона цѣлѹѧ · дѹша ми до ѹстъ прииде · бѣднаꙗ поиде · ꙗко да въ нь прѣидеть ·",
     "originalText": "Τὴν ψυχὴν Ἀγάθωνα φιλῶν ἐπὶ χείλεσιν εἶχον· ἦλθε γὰρ ἡ τλήμων ὡς διαβησομένη.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.32"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.32"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -263,8 +375,12 @@
     "stsl": "Азъ ꙗблъко єсмь · мечеть мѧ любѧи тѧ · Съгласи сѧ · Ксантиппо · и ты и азъ ѹвѧдаєвѣ ·",
     "originalText": "Μῆλον ἐγώ. βάλλει με φιλῶν σέ τις· ἀλλ' ἐπίνευσον, Ξανθίππη· κἀγὼ καὶ σὺ μαραινόμεθα.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.32"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.32"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -272,8 +388,12 @@
     "stsl": "Мы Єретриꙗне отъ Євбеи єсмы и при Сѹсѣ лежимъ · ѹвы · колико далече отъ отьчьства ·",
     "originalText": "Εὐβοίης γένος εἰμὲν Ἐρετρικόν, ἄγχι δὲ Σούσων κείμεθα· φεῦ, γαίης ὅσσον ἀφ' ἡμετέρης.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.32"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.32"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -281,8 +401,12 @@
     "stsl": "Кѵприда Мѹсамъ рече · чтите Афродитѫ · или Єрота на вы посълѭ · Мѹсы отвѣшташа · Аресѹ то глаголи · къ намъ отрочѧ сє никогда не приходить ·",
     "originalText": "Ἁ Κύπρις Μούσαισι· «Κοράσια, τὰν Ἀφροδίταν τιμᾶτ' ἢ τὸν Ἔρωτ' ὔμμιν ἐφοπλίσομαι.» Αἱ Μοῦσαι ποτὶ Κύπριν· «Ἄρει τὰ στωμύλα ταῦτα· ἡμῖν οὐ πέτεται τοῦτο τὸ παιδάριον.»",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.33"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.33"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -290,8 +414,12 @@
     "stsl": "Чловѣкъ злато обрѣте и вьрвь остави · иже злато погѹби · єго не обрѣте · нъ вьрвь обрѣте и ѹдави сѧ ·",
     "originalText": "Χρυσὸν ἀνὴρ εὑρὼν ἔλιπεν βρόχον· αὐτὰρ ὁ χρυσὸν ὃν λίπεν οὐχ εὑρὼν ἧψεν ὃν εὗρε βρόχον.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.33"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.33"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -299,8 +427,12 @@
     "stsl": "Како можеши писати · ꙗко противорѣченіє невъзможьно єсть ·",
     "originalText": "Πῶς οὖν σὺ περὶ αὐτοῦ τούτου γράφεις;",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.35"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.35"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -308,8 +440,12 @@
     "stsl": "Обычаи костьми играти не мала вешь єсть ·",
     "originalText": "Ἀλλὰ τό γ' ἔθος οὐ μικρόν.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.38"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.38"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -317,8 +453,12 @@
     "stsl": "Пьрвѣє имѧ стѧжи · потомь и житие приимеши ·",
     "originalText": "Ὀνόματος δεῖ τυχεῖν πρῶτον, εἶτα πολλὰ ἔσται.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.38"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.38"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -326,8 +466,12 @@
     "stsl": "Накажи єго ты · зане азъ гнѣвьнъ єсмь ·",
     "originalText": "μαστιγῶσαι τὸν παῖδα· αὐτὸν γὰρ μὴ δύνασθαι διὰ τὸ ὠργίσθαι.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.38"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.38"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -335,8 +479,12 @@
     "stsl": "Билъ быхъ тѧ · аште гнѣвьнъ не быхъ ·",
     "originalText": "Μεμαστίγωσο ἄν, εἰ μὴ ὠργιζόμην.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.38"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.38"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -344,8 +492,12 @@
     "stsl": "Пиꙗнымъ въ зрьцало зрѣти подобаєть · тако ѹвѣдѧть таковаго срама бѣжати ·",
     "originalText": "τοῖς μεθύουσι συνεβούλευε κατοπτρίζεσθαι· ἀποστήσεσθαι γὰρ τῆς τοιαύτης ἀσχημοσύνης.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.39"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.39"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -353,8 +505,12 @@
     "stsl": "Безмѣрьно питие нигдѣ не подобаєть · развѣ на праздьницѣ бога вина ·",
     "originalText": "Πίνειν δ' εἰς μέθην οὐδαμοῦ πρέπον ἔλεγε πλὴν ἐν ταῖς ἑορταῖς τοῦ καὶ τὸν οἶνον δόντος θεοῦ.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.39"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.39"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -362,8 +518,12 @@
     "stsl": "Никтоже спѧи ни на что же годьнъ єсть ·",
     "originalText": "Κοιμώμενος οὐδεὶς οὐδενὸς ἄξιος.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.39"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.39"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -371,8 +531,12 @@
     "stsl": "Истинѫ глаголати приꙗтьнѣишии отъ вьсѣхъ гласъ єсть ·",
     "originalText": "εἶναί τε ἥδιον τῶν ἀκουσμάτων τὴν ἀλήθειαν.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.39–40"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.39–40"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -380,8 +544,12 @@
     "stsl": "Истина начѧло вьсѧкаго блага богомъ и чловѣкомъ єсть · Иже хоштеть благъ и блаженъ быти · отъ начѧла єѩ причѧстьникъ да бѫдеть · да колико възможьно дълго ꙗко вѣры достоиныи живеть ·",
     "originalText": "ἀλήθεια γάρ, ὦ ξεῖνε, καλὸν καὶ μόνιμον· πείθειν δὲ αὐτῇ οὐ ῥᾴδιον.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.40"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.40"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -389,8 +557,12 @@
     "stsl": "Наилѣпъша памѧть єсть · ꙗже въ срьдьцихъ дрѹгъ или въ кънигахъ прѣбываєть ·",
     "originalText": "ἠξίου μνημόσυνον αὑτοῦ λείπεσθαι ἢ ἐν φίλοις ἢ ἐν βιβλίοις.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.40"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.40"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -398,8 +570,12 @@
     "stsl": "Мѫдрость · въ особьнѣмь смыслѣ · наѹка ѹмьныхъ и истиньно сѫштихъ вештии · бога и дѹша отъ тѣла отъдѣльны єсть · любомѫдрие же желаніє сеи божьствьныѩ мѫдрости ·",
     "originalText": "σοφίαν εἶναι τὴν τῶν θείων καὶ ἀνθρωπίνων ἐπιστήμην· φιλοσοφίαν δὲ ἔφεσιν σοφίας.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.63"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.63"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -407,485 +583,701 @@
     "stsl": "Образъ и видъ · родъ · первообразъ · начѧло и вина нарицаєть сѧ ·",
     "originalText": "ἰδέαν δὲ καλεῖσθαι καὶ εἶδος καὶ γένος καὶ παράδειγμα καὶ ἀρχὴν καὶ αἴτιον.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.64"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.64"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Čulne stvari istovremeno postoje i ne postoje: nastaju, ali se neprestano menjaju. Oblik nije ni u kretanju ni u mirovanju; isti je sebi, a ipak je i jedan i mnoštven.",
     "stsl": "Чѹвьствьныѩ вешти кѹпьно сѫть и не сѫть · бываѭть · нъ непрѣстаньно прѣмѣнѧѭть сѧ · Образъ ни въ движении ни въ покои єсть · тождь себѣ єсть · обаче и єдинъ и многъ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.64",
-    "originalText": "Τὸ γοῦν αἰσθητὸν καὶ ὂν καλεῖ καὶ μὴ ὄν· ὂν μὲν διὰ τὸ γένεσιν αὐτοῦ εἶναι, μὴ ὂν δὲ διὰ τὴν συνεχῆ μεταβολήν."
+    "originalText": "Τὸ γοῦν αἰσθητὸν καὶ ὂν καλεῖ καὶ μὴ ὄν· ὂν μὲν διὰ τὸ γένεσιν αὐτοῦ εἶναι, μὴ ὂν δὲ διὰ τὴν συνεχῆ μεταβολήν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.64"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Duša je besmrtna, prelazi u mnoga tela, sama sebe pokreće i ima tri dela: razumni u glavi, srčani u srcu i željni kod pupka i jetre.",
     "stsl": "Дѹша бесмрьтьна єсть · въ многа тѣлеса прѣходить · сама сѧ движеть и три чѧсти имать · разѹмьнѹ въ главѣ · ꙗростьнѹ въ срьдьци и жадьнѹ при пѫпѣ и єтрицѣ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.67",
-    "originalText": "Ἀθάνατον ἔλεγε τὴν ψυχὴν καὶ πολλὰ μεταμφιεννυμένην σώματα"
+    "originalText": "Ἀθάνατον ἔλεγε τὴν ψυχὴν καὶ πολλὰ μεταμφιεννυμένην σώματα",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.67"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Broj je počelo duše, a geometrijska veličina počelo tela.",
     "stsl": "Число начѧло дѹши єсть · геомѣтрииска же величина начѧло тѣла ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.67",
-    "originalText": "Ἀρχήν τε ἔχειν ἀριθμητικήν, τὸ δὲ σῶμα γεωμετρικήν"
+    "originalText": "Ἀρχήν τε ἔχειν ἀριθμητικήν, τὸ δὲ σῶμα γεωμετρικήν",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.67"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Dva su sveopšta počela: bog i tvar. Bog je um i uzrok, a tvar je bezoblična i neograničena; bog je uređuje i iz nereda stvara poredak.",
     "stsl": "Два вьсеобьшта начѧла сѫть · богъ и вешть · Богъ ѹмъ и вина єсть · вешть же безобразьна и безконьчна · богъ ю ѹстроꙗєть и отъ нестроєниꙗ чинъ творить ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.69",
-    "originalText": "Δύο δὲ τῶν πάντων ἀπέφηνεν ἀρχάς, θεὸν καὶ ὕλην, ὃν καὶ νοῦν προσαγορεύει καὶ αἴτιον. Εἶναι δὲ τὴν ὕλην ἀσχημάτιστον καὶ ἄπειρον, ἐξ ἧς γίνεσθαι τὰ συγκρίματα."
+    "originalText": "Δύο δὲ τῶν πάντων ἀπέφηνεν ἀρχάς, θεὸν καὶ ὕλην, ὃν καὶ νοῦν προσαγορεύει καὶ αἴτιον. Εἶναι δὲ τὴν ὕλην ἀσχημάτιστον καὶ ἄπειρον, ἐξ ἧς γίνεσθαι τὰ συγκρίματα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.69"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Tvar prima četiri oblika: oganj je piramida, vazduh osmoplošnik, voda dvadesetoplošnik, a zemlja kocka; zemlja se ne pretvara u druge sastojke.",
     "stsl": "Сѫштьство четыри образы приємлєть · огнь четворостѣньникъ єсть · въздѹхъ осмостѣньникъ · вода двадесѧтостѣньникъ · землꙗ же коцка · землꙗ въ ина начѧла не прѣлагаєть сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.70",
-    "originalText": "Τραπέσθαι δὲ τὴν οὐσίαν ταύτην εἰς τὰ τέτταρα στοιχεῖα, πῦρ, ὕδωρ, ἀέρα, γῆν. Μόνην δὲ τὴν γῆν ἀμετάβολον εἶναί φησι, νομίζων αἰτίαν τὴν τῶν σχημάτων διαφορὰν ἐξ ὧν σύγκειται. πυρὸς μὲν γὰρ εἶναι στοιχεῖον πυραμίδα, ἀέρος τὸ ὀκτάεδρον, ὕδατος τὸ εἰκοσάεδρον, γῆς δὲ κύβον."
+    "originalText": "Τραπέσθαι δὲ τὴν οὐσίαν ταύτην εἰς τὰ τέτταρα στοιχεῖα, πῦρ, ὕδωρ, ἀέρα, γῆν. Μόνην δὲ τὴν γῆν ἀμετάβολον εἶναί φησι, νομίζων αἰτίαν τὴν τῶν σχημάτων διαφορὰν ἐξ ὧν σύγκειται. πυρὸς μὲν γὰρ εἶναι στοιχεῖον πυραμίδα, ἀέρος τὸ ὀκτάεδρον, ὕδατος τὸ εἰκοσάεδρον, γῆς δὲ κύβον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.70"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Sastojci sveta nemaju nepomično odvojena mesta, jer ih kružno kretanje vaseljene potresa, sabija i razdvaja.",
     "stsl": "Начѧла мира недвижьно раздѣльныхъ мѣстъ не имѫть · зане ихъ крѹжьноє движенье васєлєныѩ потрѧсаєть · съгнѣтаєть и раздѣлѧєть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.71",
-    "originalText": "Οὐ διακεκρίσθαι δ' εἰς τοὺς οἰκείους τόπους ἕκαστον, ὅτι ἡ περιφορὰ σφίγγουσα καὶ πρὸς τὸν μέσον συνάγουσα συγκρίνει τὰ μικρά, τὰ δὲ διακρίνει, τὰ μεγάλα."
+    "originalText": "Οὐ διακεκρίσθαι δ' εἰς τοὺς οἰκείους τόπους ἕκαστον, ὅτι ἡ περιφορὰ σφίγγουσα καὶ πρὸς τὸν μέσον συνάγουσα συγκρίνει τὰ μικρά, τὰ δὲ διακρίνει, τὰ μεγάλα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.71"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Bog je stvorio jedan čulan, živ i loptast svet od četiri sastojka. Potpun je, nema organe jer mu ništa spolja nije potrebno, i nepropadljiv je jer dobro ne nanosi štetu.",
     "stsl": "Богъ єдинъ чѹвьствьнъ · живъ и крѹгълъ миръ отъ четыри начѧлъ сътвори · Съвьршенъ єсть · ѹдъ не имать · зане ничьтоже извънѫ ємѹ трѣбѣ · и нетлѣньнъ єсть · зане благо врѣда не творить ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.71–72",
-    "originalText": "Κόσμον τε εἶναι ἕνα γεννητόν, ἐπειδὴ καὶ αἰσθητός ἐστιν ὑπὸ θεοῦ κατεσκευασμένος· ἔμψυχόν τε εἶναι διὰ τὸ κρεῖττον εἶναι τοῦ ἀψύχου τὸ ἔμψυχον. Σφαιροειδῆ δὲ διὰ τὸ καὶ τὸν γεννήσαντα τοιοῦτον ἔχειν σχῆμα."
+    "originalText": "Κόσμον τε εἶναι ἕνα γεννητόν, ἐπειδὴ καὶ αἰσθητός ἐστιν ὑπὸ θεοῦ κατεσκευασμένος· ἔμψυχόν τε εἶναι διὰ τὸ κρεῖττον εἶναι τοῦ ἀψύχου τὸ ἔμψυχον. Σφαιροειδῆ δὲ διὰ τὸ καὶ τὸν γεννήσαντα τοιοῦτον ἔχειν σχῆμα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.71–72"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Vreme je slika večnosti; nastalo je zajedno sa svetom, a Sunce, Mesec i planete služe njegovom stvaranju i merenju.",
     "stsl": "Врѣмѧ образъ вѣка єсть · съ миромъ кѹпьно бысть · слъньце же · мѣсѧць и блѫдьныѩ ѕвѣзды єго творению и мѣрѣ слѹжѧть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.73–74",
-    "originalText": "Χρόνον τε γενέσθαι εἰκόνα τοῦ ἀιδίου. Κἀκεῖνον μὲν ἀεὶ μένειν, τὴν δὲ τοῦ οὐρανοῦ φορὰν χρόνον εἶναι. Πρὸς δὲ χρόνου γένεσιν ἥλιον καὶ σελήνην καὶ τὰ πλανώμενα γενέσθαι."
+    "originalText": "Χρόνον τε γενέσθαι εἰκόνα τοῦ ἀιδίου. Κἀκεῖνον μὲν ἀεὶ μένειν, τὴν δὲ τοῦ οὐρανοῦ φορὰν χρόνον εἶναι. Πρὸς δὲ χρόνου γένεσιν ἥλιον καὶ σελήνην καὶ τὰ πλανώμενα γενέσθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.73–74"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Svet je živ. Da bi bio savršen, postao je sličan umnom biću i u sebi ima bogove, krilate životinje, vodena i zemaljska bića.",
     "stsl": "Строи живъ єсть · да съврьшенъ бѹдетъ бывъ подобьнъ ѹмьномѹ животномѹ · въ себѣ имать богы · крилатаѧ животнаꙗ · водьнаꙗ и земьнаꙗ сѫща.",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.74",
-    "originalText": "Ἵνα δὲ ὁ κόσμος τελειωθῇ γενόμενος ὁμοίως τῷ νοητῷ ζῴῳ, τὴν τῶν ἄλλων ζῴων γενέσθαι φύσιν. Θεοὺς μὲν οὖν ἔχειν τὸ πολὺ πυρίνους· εἶναι δὲ τρία γένη τἆλλα, πτηνόν, ἔνυδρον, πεζόν."
+    "originalText": "Ἵνα δὲ ὁ κόσμος τελειωθῇ γενόμενος ὁμοίως τῷ νοητῷ ζῴῳ, τὴν τῶν ἄλλων ζῴων γενέσθαι φύσιν. Θεοὺς μὲν οὖν ἔχειν τὸ πολὺ πυρίνους· εἶναι δὲ τρία γένη τἆλλα, πτηνόν, ἔνυδρον, πεζόν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.74"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Zemlja je najstarije nebesko božanstvo; nalazi se u sredini i kreće se oko središta.",
     "stsl": "Землꙗ наистарѣишее небесьноє божьство єсть · посредѣ стоить и около срѣды движеть сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.75",
-    "originalText": "Γῆν δὲ πρεσβυτάτην μὲν εἶναι τῶν ἐν τῷ οὐρανῷ θεῶν· γενέσθαι δὲ ὡς δημιούργημα νύκτα καὶ ἡμέραν ποιεῖν· οὖσαν δ' ἐπὶ τοῦ μέσου κινεῖσθαι περὶ τὸ μέσον."
+    "originalText": "Γῆν δὲ πρεσβυτάτην μὲν εἶναι τῶν ἐν τῷ οὐρανῷ θεῶν· γενέσθαι δὲ ὡς δημιούργημα νύκτα καὶ ἡμέραν ποιεῖν· οὖσαν δ' ἐπὶ τοῦ μέσου κινεῖσθαι περὶ τὸ μέσον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.75"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Neki uzroci deluju po razumu, a drugi po nuždi.",
     "stsl": "Нѣкыѩ причины по разѹмѹ дѣиствѹѭть · дрѹгыѩ же по нѫжди ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.75",
-    "originalText": "Ἐπεὶ δ' αἰτίαι εἰσὶ δύο, τὰ μὲν διὰ νοῦ εἶναι, τὰ δ' ἐξ ἀναγκαίας αἰτίας, φησί, λεκτέον."
+    "originalText": "Ἐπεὶ δ' αἰτίαι εἰσὶ δύο, τὰ μὲν διὰ νοῦ εἶναι, τὰ δ' ἐξ ἀναγκαίας αἰτίας, φησί, λεκτέον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.75"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Bog i duša su bestelesni, a oblici su uzroci i počela postojanja pojedinačnih stvari.",
     "stsl": "Богъ и дѹша безтѣлесьна сѫта · образы же причины и начѧла бытиꙗ особьныхъ вештии сѫть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.77",
-    "originalText": "Δοκεῖ δ' αὐτῷ τὸν θεὸν ὡς καὶ τὴν ψυχὴν ἀσώματον εἶναι· οὕτω γὰρ μάλιστα φθορᾶς καὶ πάθους ἀνεπίδεκτον ὑπάρχειν. Τὰς δὲ ἰδέας ὑφίσταται, καθὰ καὶ προείρηται, αἰτίας τινὰς καὶ ἀρχὰς τοῦ τοιαῦτ' εἶναι τὰ φύσει συνεστῶτα, οἷάπερ ἐστὶν αὐτά."
+    "originalText": "Δοκεῖ δ' αὐτῷ τὸν θεὸν ὡς καὶ τὴν ψυχὴν ἀσώματον εἶναι· οὕτω γὰρ μάλιστα φθορᾶς καὶ πάθους ἀνεπίδεκτον ὑπάρχειν. Τὰς δὲ ἰδέας ὑφίσταται, καθὰ καὶ προείρηται, αἰτίας τινὰς καὶ ἀρχὰς τοῦ τοιαῦτ' εἶναι τὰ φύσει συνεστῶτα, οἷάπερ ἐστὶν αὐτά.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.77"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Krajnji cilj je upodobljavanje bogu.",
     "stsl": "Коньчнаꙗ цѣль єсть богоѹподобленіє ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.78",
-    "originalText": "Τέλος μὲν εἶναι τὴν ἐξομοίωσιν τῷ θεῷ."
+    "originalText": "Τέλος μὲν εἶναι τὴν ἐξομοίωσιν τῷ θεῷ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.78"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Vrlina je sama dovoljna za sreću; telesna i spoljašnja dobra samo su njena oruđa, pa mudar čovek ostaje srećan i bez njih.",
     "stsl": "Добродѣтель сама къ блаженьствѹ довъльна єсть · тѣлесьнаꙗ и вьнѣшьнаꙗ блага тъкмо єѩ орѫдиꙗ сѫть · тѣмь мѫдрыи и безъ нихъ блаженъ прѣбываєть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.78",
-    "originalText": "Τὴν δ' ἀρετὴν αὐτάρκη μὲν εἶναι πρὸς εὐδαιμονίαν. Ὀργάνων δὲ προσδεῖσθαι τῶν περὶ σῶμα πλεονεκτημάτων, ἰσχύος, ὑγιείας, εὐαισθησίας, τῶν ὁμοίων."
+    "originalText": "Τὴν δ' ἀρετὴν αὐτάρκη μὲν εἶναι πρὸς εὐδαιμονίαν. Ὀργάνων δὲ προσδεῖσθαι τῶν περὶ σῶμα πλεονεκτημάτων, ἰσχύος, ὑγιείας, εὐαισθησίας, τῶν ὁμοίων.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.78"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Mudar čovek će učestvovati u javnim poslovima, sklapati brak, pokoravati se zakonima i davati ih, osim ako je narod krajnje iskvaren.",
     "stsl": "Мѫдрыи въ градьскыхъ дѣлѣхъ ѹчѧствовати · бракъ сътворити · закономъ повинѹти сѧ и законы дати имать · развѣ аште людие до конца развраштьни сѫть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.78",
-    "originalText": "Πολιτεύεσθαι αὖ καὶ γαμήσειν καὶ τοὺς κειμένους νόμους οὐ παραβήσεσθαι· ἐκ δὲ τῶν ἐνδεχομένων καὶ νομοθετήσειν τῇ ἑαυτοῦ πατρίδι, ἐὰν μὴ τέλεον εὐπαραίτητα ὁρᾷ τὰ πράγματα ἐν ὑπερβαλλούσῃ διαφορᾷ δήμου."
+    "originalText": "Πολιτεύεσθαι αὖ καὶ γαμήσειν καὶ τοὺς κειμένους νόμους οὐ παραβήσεσθαι· ἐκ δὲ τῶν ἐνδεχομένων καὶ νομοθετήσειν τῇ ἑαυτοῦ πατρίδι, ἐὰν μὴ τέλεον εὐπαραίτητα ὁρᾷ τὰ πράγματα ἐν ὑπερβαλλούσῃ διαφορᾷ δήμου.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.78"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Bogovi nadziru ljudski život, a postoje i bića između bogova i ljudi.",
     "stsl": "Бози чловѣчьскыи животъ надзираѭть · сѫть же и сѫшта междѹ богы и чловѣкы ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.79",
-    "originalText": "Οἴεται δὲ καὶ θεοὺς ἐφορᾶν τὰ ἀνθρώπινα καὶ δαίμονας εἶναι."
+    "originalText": "Οἴεται δὲ καὶ θεοὺς ἐφορᾶν τὰ ἀνθρώπινα καὶ δαίμονας εἶναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.79"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Dobro je povezano s hvale vrednim, razumnim, korisnim, prikladnim i skladnim s prirodom.",
     "stsl": "Благо съ хвалимымъ · разѹмьнымъ · пользьнымъ · подобьнымъ и естествѹ съгласьнымъ съвръзано єсть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.79",
-    "originalText": "Ἔννοιάν τε καλοῦ πρῶτος ἀπεφήνατο τὴν ἐχομένην τοῦ ἐπαινετοῦ καὶ λογικοῦ καὶ χρησίμου καὶ πρέποντος καὶ ἁρμόττοντος."
+    "originalText": "Ἔννοιάν τε καλοῦ πρῶτος ἀπεφήνατο τὴν ἐχομένην τοῦ ἐπαινετοῦ καὶ λογικοῦ καὶ χρησίμου καὶ πρέποντος καὶ ἁρμόττοντος.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.79"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Pravednost je božji zakon; priče o kaznama posle smrti služe da odvraćaju zle, jer niko ne zna šta ih zaista čeka.",
     "stsl": "Правда законъ божии єсть · повѣсти о мѫкахъ по смрьти злыхъ отъвраштаѭть · зане никтоже вѣсть · что ихъ истиньно чекаєть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.79",
-    "originalText": "Ἐν δὲ τοῖς διαλόγοις καὶ τὴν δικαιοσύνην θεοῦ νόμον ὑπελάμβανεν ὡς ἰσχυροτέραν προτρέψαι τὰ δίκαια πράττειν, ἵνα μὴ καὶ μετὰ θάνατον δίκας ὑπόσχοιεν οἱ κακοῦργοι."
+    "originalText": "Ἐν δὲ τοῖς διαλόγοις καὶ τὴν δικαιοσύνην θεοῦ νόμον ὑπελάμβανεν ὡς ἰσχυροτέραν προτρέψαι τὰ δίκαια πράττειν, ἵνα μὴ καὶ μετὰ θάνατον δίκας ὑπόσχοιεν οἱ κακοῦργοι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.79"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Dobra su umna, telesna i spoljašnja: razboritost i pravednost pripadaju umu, lepota i zdravlje telu, a prijatelji i blagostanje spoljašnjim dobrima.",
     "stsl": "Блага ѹмьна · тѣлесьна и вьнѣшьна сѫть · благоразѹмие и правда ѹмѹ · красота и здравие тѣлѹ · дрѹзи же и благосъстоꙗние вьнѣшьнимъ благомъ принадлежѧть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.80",
-    "originalText": "Τῶν ἀγαθῶν ἐστι τὰ μὲν ἐν ψυχῇ, τὰ δὲ ἐν σώματι, τὰ δὲ ἐκτός· οἷον ἡ μὲν δικαιοσύνη καὶ ἡ φρόνησις καὶ ἡ ἀνδρεία καὶ ἡ σωφροσύνη καὶ τὰ τοιαῦτα ἐν ψυχῇ· τὸ δὲ κάλλος καὶ ἡ εὐεξία καὶ ἡ ὑγίεια καὶ ἡ ἰσχὺς ἐν σώματι· οἱ δὲ φίλοι καὶ ἡ τῆς πατρίδος εὐδαιμονία καὶ ὁ πλοῦτος ἐν τοῖς ἐκτός."
+    "originalText": "Τῶν ἀγαθῶν ἐστι τὰ μὲν ἐν ψυχῇ, τὰ δὲ ἐν σώματι, τὰ δὲ ἐκτός· οἷον ἡ μὲν δικαιοσύνη καὶ ἡ φρόνησις καὶ ἡ ἀνδρεία καὶ ἡ σωφροσύνη καὶ τὰ τοιαῦτα ἐν ψυχῇ· τὸ δὲ κάλλος καὶ ἡ εὐεξία καὶ ἡ ὑγίεια καὶ ἡ ἰσχὺς ἐν σώματι· οἱ δὲ φίλοι καὶ ἡ τῆς πατρίδος εὐδαιμονία καὶ ὁ πλοῦτος ἐν τοῖς ἐκτός.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.80"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Prijateljstvo je prirodno, društveno ili gostinsko: roditelja prema potomstvu, ljudi po zajednici i domaćina prema gostu.",
     "stsl": "Дрѹжьба естествьна · обьштна или гостьна єсть · родителѧ къ чѧдомъ · чловѣкъ по обьштению и господина къ гостю ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.81",
-    "originalText": "Τῆς φιλίας τρία εἴδη· ἡ μὲν γὰρ αὐτῆς ἐστι φυσική, ἡ δὲ ἑταιρική, ἡ δὲ ξενική"
+    "originalText": "Τῆς φιλίας τρία εἴδη· ἡ μὲν γὰρ αὐτῆς ἐστι φυσική, ἡ δὲ ἑταιρική, ἡ δὲ ξενική",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.81"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Pet je oblika vlasti: narodna vlast, vlast najboljih, vlast malobrojnih, kraljevstvo i tiranija.",
     "stsl": "Пѧть образъ власти сѫть · власть людьска · власть лѣпшихъ · власть малыхъ · царьство и мѫчительство ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.82–83",
-    "originalText": "Τῆς πολιτείας ἐστὶν εἴδη πέντε· τὸ μὲν γὰρ αὐτῆς ἐστι δημοκρατικόν, ἄλλο δὲ ἀριστοκρατικόν, τρίτον δὲ ὀλιγαρχικόν, τέταρτον βασιλικόν, πέμπτον τυραννικόν."
+    "originalText": "Τῆς πολιτείας ἐστὶν εἴδη πέντε· τὸ μὲν γὰρ αὐτῆς ἐστι δημοκρατικόν, ἄλλο δὲ ἀριστοκρατικόν, τρίτον δὲ ὀλιγαρχικόν, τέταρτον βασιλικόν, πέμπτον τυραννικόν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.82–83"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Pravednost se iskazuje prema bogovima, ljudima i umrlima: žrtvama i svetinjama, ugovorima i vraćanjem pozajmljenog, te grobovima i pogrebnim običajima.",
     "stsl": "Правда къ богомъ · чловѣкомъ и ѹмрьшимъ творить сѧ · жрьтвами и свѧтынѧми · съвѣты и възвраштеніємъ заєтаго · гробами же и погребьными обычаи ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.83",
-    "originalText": "Τῆς δὲ δικαιοσύνης ἐστὶν εἴδη τρία· ἡ μὲν γὰρ αὐτῆς ἐστι περὶ θεούς, ἡ δὲ περὶ ἀνθρώπους, ἡ δὲ περὶ τοὺς ἀποιχομένους."
+    "originalText": "Τῆς δὲ δικαιοσύνης ἐστὶν εἴδη τρία· ἡ μὲν γὰρ αὐτῆς ἐστι περὶ θεούς, ἡ δὲ περὶ ἀνθρώπους, ἡ δὲ περὶ τοὺς ἀποιχομένους.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.83"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Nauka je teorijska, praktična ili stvaralačka: prva saznaje, druga deluje, a treća proizvodi.",
     "stsl": "Наѹка зритьна · дѣꙗтельна или творьна єсть · пьрва познаєть · дрѹга дѣєть · третꙗ творить ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.84",
-    "originalText": "Τῆς ἐπιστήμης εἴδη ἐστὶ τρία· τὸ μὲν γάρ ἐστι πρακτικόν, τὸ δὲ ποιητικόν, τὸ δὲ θεωρητικόν."
+    "originalText": "Τῆς ἐπιστήμης εἴδη ἐστὶ τρία· τὸ μὲν γάρ ἐστι πρακτικόν, τὸ δὲ ποιητικόν, τὸ δὲ θεωρητικόν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.84"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Lečenje se vrši lekovima, zasecanjem, spaljivanjem, ishranom ili vežbanjem.",
     "stsl": "Врачеваніє лѣкы · рѣзаниемъ · жжениемъ · пиштею или ѹпражнениемъ творить сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.85",
-    "originalText": "Τῆς ἰατρικῆς ἐστιν εἴδη πέντε· ἡ μὲν φαρμακευτική, ἡ δὲ χειρουργική, ἡ δὲ διαιτητική, ἡ δὲ νοσογνωμονική, ἡ δὲ βοηθητική."
+    "originalText": "Τῆς ἰατρικῆς ἐστιν εἴδη πέντε· ἡ μὲν φαρμακευτική, ἡ δὲ χειρουργική, ἡ δὲ διαιτητική, ἡ δὲ νοσογνωμονική, ἡ δὲ βοηθητική.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.85"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Zakon je pisan ili nepisan; nepisani zakon čine običaji i ono što se po prirodnoj nuždi jednako poštuje svuda.",
     "stsl": "Законъ писанъ или неписанъ єсть · неписаныи законъ обычаи и то · єже по естествьнѣи нѫжди повьсꙫдѹ равно блюдеть сѧ · съставлѧѭть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.86",
-    "originalText": "Νόμου διαιρέσεις δύο· ὁ μὲν γὰρ αὐτοῦ γεγραμμένος, ὁ δὲ ἄγραφος."
+    "originalText": "Νόμου διαιρέσεις δύο· ὁ μὲν γὰρ αὐτοῦ γεγραμμένος, ὁ δὲ ἄγραφος.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.86"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Govor može biti politički, besednički, razgovorni, dijalektički ili stručni.",
     "stsl": "Слово можеть быти градьско · вѣштииско · бесѣдьно · прѣпирьно или хѹдожьно ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.87",
-    "originalText": "Ὁ λόγος διαιρεῖται εἰς πέντε, ὧν εἷς μέν ἐστιν ὃν οἱ πολιτευόμενοι λέγουσιν ἐν ταῖς ἐκκλησίαις, ὃς καλεῖται πολιτικός."
+    "originalText": "Ὁ λόγος διαιρεῖται εἰς πέντε, ὧν εἷς μέν ἐστιν ὃν οἱ πολιτευόμενοι λέγουσιν ἐν ταῖς ἐκκλησίαις, ὃς καλεῖται πολιτικός.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.87"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Muzika se izvodi ustima, rukama ili i jednim i drugim.",
     "stsl": "Мѹзыка ѹсты · рѫками или обоимъ творить сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.88",
-    "originalText": "Ἡ μουσικὴ εἰς τρία διαιρεῖται· ἔστι γὰρ ἡ μὲν διὰ τοῦ στόματος μόνον, οἷον ἡ ᾠδή· δεύτερον δὲ διὰ τοῦ στόματος καὶ τῶν χειρῶν, οἷον ἡ κιθαρῳδία· τρίτον ἀπὸ τῶν χειρῶν μόνον, οἷον κιθαριστική."
+    "originalText": "Ἡ μουσικὴ εἰς τρία διαιρεῖται· ἔστι γὰρ ἡ μὲν διὰ τοῦ στόματος μόνον, οἷον ἡ ᾠδή· δεύτερον δὲ διὰ τοῦ στόματος καὶ τῶν χειρῶν, οἷον ἡ κιθαρῳδία· τρίτον ἀπὸ τῶν χειρῶν μόνον, οἷον κιθαριστική.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.88"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Plemenitost potiče od čestitih predaka, moćnih predaka, slavnih predaka ili od sopstvene plemenitosti duha; ova poslednja je najviša.",
     "stsl": "Благородьство отъ добрыхъ прѣдъкъ · сильныхъ прѣдъкъ · славьныхъ прѣдъкъ или отъ своєго благородиꙗ дѹха бываєть · послѣдьнее выше вьсѣхъ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.88–89",
-    "originalText": "Διαιρεῖται δὲ ἡ εὐγένεια εἰς εἴδη τέτταρα. Ἓν μέν, ἐὰν ὦσιν οἱ πρόγονοι καλοὶ κἀγαθοὶ καὶ δίκαιοι, τοὺς ἐκ τούτων γεγεννημένους εὐγενεῖς φασιν εἶναι."
+    "originalText": "Διαιρεῖται δὲ ἡ εὐγένεια εἰς εἴδη τέτταρα. Ἓν μέν, ἐὰν ὦσιν οἱ πρόγονοι καλοὶ κἀγαθοὶ καὶ δίκαιοι, τοὺς ἐκ τούτων γεγεννημένους εὐγενεῖς φασιν εἶναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.88–89"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Lepo je ono što je dostojno hvale, korisno ili blagotvorno.",
     "stsl": "Красно єсть єже хвалы достоино · пользьно или благотворьно єсть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.89",
-    "originalText": "Τὸ κάλλος διαιρεῖται εἰς τρία· ἓν μὲν γὰρ αὐτοῦ ἐστιν ἐπαινετόν, οἷον ἡ διὰ τῆς ὄψεως εὐμορφία· ἄλλο δὲ χρηστικόν."
+    "originalText": "Τὸ κάλλος διαιρεῖται εἰς τρία· ἓν μὲν γὰρ αὐτοῦ ἐστιν ἐπαινετόν, οἷον ἡ διὰ τῆς ὄψεως εὐμορφία· ἄλλο δὲ χρηστικόν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.89"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Duša ima razumni, željni i srčani deo.",
     "stsl": "Дѹша разѹмьнꙫ · жадьнꙫ и ꙗростьнꙫ чѧсть имать ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.90",
-    "originalText": "Ἡ ψυχὴ διαιρεῖται εἰς τρία· τὸ μὲν γὰρ αὐτῆς ἐστι λογιστικόν, τὸ δὲ ἐπιθυμητικόν, τὸ δὲ θυμικόν."
+    "originalText": "Ἡ ψυχὴ διαιρεῖται εἰς τρία· τὸ μὲν γὰρ αὐτῆς ἐστι λογιστικόν, τὸ δὲ ἐπιθυμητικόν, τὸ δὲ θυμικόν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.90"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Četiri su vrline: razboritost, pravednost, hrabrost i umerenost.",
     "stsl": "Четыри добродѣтели сѫть · благоразѹмие · правда · храбрость и въздръжаніє ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.90–91",
-    "originalText": "Τῆς τελείας ἀρετῆς εἴδη τέτταρα· ἓν μὲν φρόνησις, ἓν δὲ δικαιοσύνη, ἄλλο δ' ἀνδρεία, τέταρτον σωφροσύνη."
+    "originalText": "Τῆς τελείας ἀρετῆς εἴδη τέτταρα· ἓν μὲν φρόνησις, ἓν δὲ δικαιοσύνη, ἄλλο δ' ἀνδρεία, τέταρτον σωφροσύνη.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.90–91"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Vlada se po zakonu, prirodi, običaju, rođenju ili sili.",
     "stsl": "Владаєть сѧ по законѹ · естествѹ · обычаю · рождению или силѣ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.91–92",
-    "originalText": "Ἡ ἀρχὴ διαιρεῖται εἰς μέρη πέντε· ἓν μὲν εἰς τὸ κατὰ νόμον, ἓν δὲ εἰς τὸ κατὰ φύσιν, ἓν δὲ εἰς τὸ κατὰ ἔθος, τέταρτον εἰς τὸ κατὰ γένος, πέμπτον δὲ κατὰ βίαν."
+    "originalText": "Ἡ ἀρχὴ διαιρεῖται εἰς μέρη πέντε· ἓν μὲν εἰς τὸ κατὰ νόμον, ἓν δὲ εἰς τὸ κατὰ φύσιν, ἓν δὲ εἰς τὸ κατὰ ἔθος, τέταρτον εἰς τὸ κατὰ γένος, πέμπτον δὲ κατὰ βίαν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.91–92"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Šest je vrsta besedništva: pohvala, pokuda, nagovaranje, odvraćanje, optužba i odbrana.",
     "stsl": "Шєсть видовъ вѣштииства сѫть · хвала · хѹла · ѹвѣштаваніє · отъвраштеніє · обвиненіє и заштита ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.93–94",
-    "originalText": "Τῆς ῥητορείας εἴδη ἐστὶν ἕξ· ὅταν μὲν γὰρ κελεύωσι πολεμεῖν ἢ συμμαχεῖν πρός τινα, καλεῖται τὸ τοιοῦτον εἶδος προτροπή."
+    "originalText": "Τῆς ῥητορείας εἴδη ἐστὶν ἕξ· ὅταν μὲν γὰρ κελεύωσι πολεμεῖν ἢ συμμαχεῖν πρός τινα, καλεῖται τὸ τοιοῦτον εἶδος προτροπή.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.93–94"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Uspešan govor govori o pravoj stvari, u pravoj meri, pravim slušaocima i u pravo vreme.",
     "stsl": "ѹспѣшьно слово о подобьнѣи вешти · въ подобьнѣи мѣрѣ · подобьнымъ слѹшателемъ и въ подобьно врѣмѧ глаголєть сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.94–95",
-    "originalText": "Τὸ ὀρθῶς λέγειν διαιρεῖται εἰς τέτταρα· ἓν μὲν ἃ δεῖ λέγειν, ἓν δὲ ὅσα δεῖ λέγειν, τρίτον πρὸς οὓς δεῖ λέγειν, τέταρτον δὲ πηνίκα λέγειν δεῖ."
+    "originalText": "Τὸ ὀρθῶς λέγειν διαιρεῖται εἰς τέτταρα· ἓν μὲν ἃ δεῖ λέγειν, ἓν δὲ ὅσα δεῖ λέγειν, τρίτον πρὸς οὓς δεῖ λέγειν, τέταρτον δὲ πηνίκα λέγειν δεῖ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.94–95"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Korist se drugome daje novcem, ličnom pomoći, naukama ili govorom.",
     "stsl": "Польза дрѹгомѹ пѣнѧѕємъ · своимъ слѹжениємъ · наѹками или словомъ даєть сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.95–96",
-    "originalText": "Ἡ εὐεργεσία διαιρεῖται εἰς τέτταρα· ἢ γὰρ χρήμασιν ἢ σώμασιν ἢ ταῖς ἐπιστήμαις ἢ τοῖς λόγοις."
+    "originalText": "Ἡ εὐεργεσία διαιρεῖται εἰς τέτταρα· ἢ γὰρ χρήμασιν ἢ σώμασιν ἢ ταῖς ἐπιστήμαις ἢ τοῖς λόγοις.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.95–96"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Stvari se dovršavaju zakonom, prirodom, umećem ili slučajem.",
     "stsl": "Вешти съвьршаѭть сѧ закономъ · естествомъ · хѹдожьствомъ или слѹчаємъ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.96–97",
-    "originalText": "Διαιρεῖται τὸ τέλος τῶν πραγμάτων εἰς τέτταρα εἴδη· ἓν μὲν κατὰ νόμον τέλος τὰ πράγματα λαμβάνει, ὅταν ψήφισμα γένηται καὶ τοῦθ' ὁ νόμος τελέσῃ· κατὰ φύσιν δὲ τέλος τὰ πράγματα λαμβάνει, ἥ τε ἡμέρα καὶ ὁ ἐνιαυτὸς καὶ αἱ ὧραι. Κατὰ τέχνην δὲ τέλος τὰ πράγματα λαμβάνει, οἷον ἡ οἰκοδομική."
+    "originalText": "Διαιρεῖται τὸ τέλος τῶν πραγμάτων εἰς τέτταρα εἴδη· ἓν μὲν κατὰ νόμον τέλος τὰ πράγματα λαμβάνει, ὅταν ψήφισμα γένηται καὶ τοῦθ' ὁ νόμος τελέσῃ· κατὰ φύσιν δὲ τέλος τὰ πράγματα λαμβάνει, ἥ τε ἡμέρα καὶ ὁ ἐνιαυτὸς καὶ αἱ ὧραι. Κατὰ τέχνην δὲ τέλος τὰ πράγματα λαμβάνει, οἷον ἡ οἰκοδομική.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.96–97"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Moć pripada umu, telu, vojsci i sredstvima, ili sposobnosti da se deluje i trpi delovanje.",
     "stsl": "Сила ѹмѹ · тѣлѹ · воиньствѹ и имѣнию · или можению дѣꙗти и дѣꙗніє приємати принадлежить ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.97",
-    "originalText": "Ἡ δύναμις διαιρεῖται εἰς τέτταρα εἴδη· ἓν μὲν ὃ δυνάμεθα τῇ διανοίᾳ, λογίζεσθαι καὶ ὑπονοεῖν· ἕτερον δὲ τῷ σώματι, οἷον πορεύεσθαι καὶ διδόναι καὶ λαμβάνειν καὶ τὰ τοιαῦτα· τρίτον ὃ δυνάμεθα πλήθει στρατιωτῶν καὶ χρημάτων."
+    "originalText": "Ἡ δύναμις διαιρεῖται εἰς τέτταρα εἴδη· ἓν μὲν ὃ δυνάμεθα τῇ διανοίᾳ, λογίζεσθαι καὶ ὑπονοεῖν· ἕτερον δὲ τῷ σώματι, οἷον πορεύεσθαι καὶ διδόναι καὶ λαμβάνειν καὶ τὰ τοιαῦτα· τρίτον ὃ δυνάμεθα πλήθει στρατιωτῶν καὶ χρημάτων.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.97"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Čovekoljublje se pokazuje srdačnim pozdravom, pomaganjem nevoljnima i gostoljubivošću.",
     "stsl": "Чловѣколюбиє срьдьчьнымъ цѣлованіємъ · помоштю бѣдьнымъ и гостьлюбиємъ показѹєть сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.98",
-    "originalText": "Τῆς φιλανθρωπίας ἐστὶν εἴδη τρία· ἓν μὲν διὰ τῆς προσηγορίας γινόμενον, οἷον ἐν οἷς τινες τὸν ἐντυχόντα πάντα προσαγορεύουσι καὶ τὴν δεξιὰν ἐμβάλλοντες χαιρετίζουσιν. Ἄλλο εἶδος, ὅταν τις βοηθητικὸς ᾖ παντὶ τῷ ἀτυχοῦντι."
+    "originalText": "Τῆς φιλανθρωπίας ἐστὶν εἴδη τρία· ἓν μὲν διὰ τῆς προσηγορίας γινόμενον, οἷον ἐν οἷς τινες τὸν ἐντυχόντα πάντα προσαγορεύουσι καὶ τὴν δεξιὰν ἐμβάλλοντες χαιρετίζουσιν. Ἄλλο εἶδος, ὅταν τις βοηθητικὸς ᾖ παντὶ τῷ ἀτυχοῦντι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.98"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Sreću čine dobro rasuđivanje, zdrava čula i telo, uspeh u poduhvatima, dobar glas i dovoljno sredstava za život i pomaganje prijateljima.",
     "stsl": "Блаженьство добро разсѫжденіє · здрава чѹвьства и тѣло · ѹспѣхъ въ дѣлѣхъ · добра слава и довъльно имѣние къ животѹ и помощи дрѹгомъ съставлѧѭть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.98–99",
-    "originalText": "Ἡ εὐδαιμονία διαιρεῖται εἰς πέντε μέρη· ἡ μὲν γὰρ αὐτῆς ἐστιν εὐβουλία, ἕτερον δὲ εὐαισθησία καὶ ὑγίεια τοῦ σώματος, τρίτον εὐτυχία ἐν ταῖς πράξεσι, τέταρτον εὐδοξία παρὰ τοῖς ἀνθρώποις, πέμπτον εὐπορία χρημάτων καὶ τῶν εἰς τὸν βίον χρησίμων."
+    "originalText": "Ἡ εὐδαιμονία διαιρεῖται εἰς πέντε μέρη· ἡ μὲν γὰρ αὐτῆς ἐστιν εὐβουλία, ἕτερον δὲ εὐαισθησία καὶ ὑγίεια τοῦ σώματος, τρίτον εὐτυχία ἐν ταῖς πράξεσι, τέταρτον εὐδοξία παρὰ τοῖς ἀνθρώποις, πέμπτον εὐπορία χρημάτων καὶ τῶν εἰς τὸν βίον χρησίμων.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.98–99"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Umeća su proizvodna, preobražavajuća ili upotrebna.",
     "stsl": "Хѹдожьства творьна · прѣобразѹѭшта или ѹпотрѣбьна сѫть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.100",
-    "originalText": "Αἱ τέχναι εἰς τρία διαιροῦνται· ἡ μὲν πρώτη, ἡ δὲ δευτέρα, ἡ δὲ τρίτη. Πρώτη μὲν οὖν ἡ μεταλλευτικὴ καὶ ὑλοτομική· παρασκευαστικαὶ γάρ εἰσιν. Ἡ δὲ χαλκευτικὴ καὶ ἡ τεκτονικὴ μετασχηματιστικαί εἰσιν."
+    "originalText": "Αἱ τέχναι εἰς τρία διαιροῦνται· ἡ μὲν πρώτη, ἡ δὲ δευτέρα, ἡ δὲ τρίτη. Πρώτη μὲν οὖν ἡ μεταλλευτικὴ καὶ ὑλοτομική· παρασκευαστικαὶ γάρ εἰσιν. Ἡ δὲ χαλκευτικὴ καὶ ἡ τεκτονικὴ μετασχηματιστικαί εἰσιν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.100"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Dobro se nalazi u dobrom čoveku, samoj vrlini, onome što koristi telu i korisnim umećima.",
     "stsl": "Благо въ добрѣмь чловѣцѣ · въ самои добродѣтели · въ тѣлѹ пользьнѣмь и въ пользьныхъ хѹдожьствахъ обрѣтаєть сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.101",
-    "originalText": "Τὸ ἀγαθὸν εἰς τέτταρα γένη διαιρεῖται· ὧν ἓν μὲν λέγομεν εἶναι τὸν τὴν ἀρετὴν ἔχοντα ἰδίᾳ ἀγαθόν· ἄλλο δὲ αὐτὴν τὴν ἀρετὴν καὶ τὴν δικαιοσύνην λέγομεν ἀγαθὸν εἶναι· τρίτον δέ, οἷον σιτία καὶ γυμνάσια τὰ πρόσφορα καὶ φάρμακα."
+    "originalText": "Τὸ ἀγαθὸν εἰς τέτταρα γένη διαιρεῖται· ὧν ἓν μὲν λέγομεν εἶναι τὸν τὴν ἀρετὴν ἔχοντα ἰδίᾳ ἀγαθόν· ἄλλο δὲ αὐτὴν τὴν ἀρετὴν καὶ τὴν δικαιοσύνην λέγομεν ἀγαθὸν εἶναι· τρίτον δέ, οἷον σιτία καὶ γυμνάσια τὰ πρόσφορα καὶ φάρμακα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.101"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Sve je ili dobro, ili zlo, ili ravnodušno: zlo uvek škodi, dobro mu je suprotno, a ravnodušno čas koristi, čas škodi ili ne čini nijedno.",
     "stsl": "Вьсѧко или благо · или зло · или безразличьно єсть · зло присно врѣдить · благо ємѹ противьно єсть · безразличьно же иногда пользѹєть · иногда врѣдить или ни єдино творить ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.102",
-    "originalText": "Τῶν ὄντων τὰ μέν ἐστι κακά, τὰ δὲ ἀγαθά, τὰ δὲ οὐδέτερα. Τούτων κακὰ μὲν ταῦτα λέγομεν, τὰ δυνάμενα βλάπτειν ἀεί, οἷον ἀκρισίαν καὶ ἀφροσύνην καὶ ἀδικίαν καὶ τὰ τοιαῦτα· τὰ δὲ τούτοις ἐναντία ἀγαθά ἐστι."
+    "originalText": "Τῶν ὄντων τὰ μέν ἐστι κακά, τὰ δὲ ἀγαθά, τὰ δὲ οὐδέτερα. Τούτων κακὰ μὲν ταῦτα λέγομεν, τὰ δυνάμενα βλάπτειν ἀεί, οἷον ἀκρισίαν καὶ ἀφροσύνην καὶ ἀδικίαν καὶ τὰ τοιαῦτα· τὰ δὲ τούτοις ἐναντία ἀγαθά ἐστι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.102"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Dobra državna uređenost postoji kada su zakoni dobri, kada se zakoni poštuju ili kada se i bez zakona dobro živi po valjanim običajima.",
     "stsl": "Добро градьско ѹстроєніє бываєть · єгда закони добри сѫть · єгда закони блюдѫть сѧ или єгда и безъ законъ по добрымъ обычаємъ добрѣ живеть сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.103",
-    "originalText": "Εὐνομία διαιρεῖται εἰς τρία· ἓν μέν, ἐὰν ὦσιν οἱ νόμοι σπουδαῖοι, εὐνομίαν φαμὲν εἶναι· ἕτερον δέ, ἐὰν τοῖς κειμένοις νόμοις ἐμμένωσιν οἱ πολῖται, καὶ τοῦτό φαμεν εὐνομίαν εἶναι· τρίτον δέ, ἐὰν μὴ ὄντων [τῶν] νόμων κατὰ ἔθη καὶ ἐπιτηδεύματα χρηστῶς πολιτεύωνται."
+    "originalText": "Εὐνομία διαιρεῖται εἰς τρία· ἓν μέν, ἐὰν ὦσιν οἱ νόμοι σπουδαῖοι, εὐνομίαν φαμὲν εἶναι· ἕτερον δέ, ἐὰν τοῖς κειμένοις νόμοις ἐμμένωσιν οἱ πολῖται, καὶ τοῦτό φαμεν εὐνομίαν εἶναι· τρίτον δέ, ἐὰν μὴ ὄντων [τῶν] νόμων κατὰ ἔθη καὶ ἐπιτηδεύματα χρηστῶς πολιτεύωνται.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.103"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Država je loše uređena kada su zakoni loši, kada se ne poštuju ili kada zakona nema.",
     "stsl": "Градъ злѣ ѹстроєнъ єсть · єгда закони зли сѫть · єгда не блюдѫть сѧ или єгда законъ нѣсть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.103–104",
-    "originalText": "Διαιρεῖται ἡ ἀνομία εἰς τρία· ὧν ἓν μέν ἐστιν, ἐὰν ὦσιν οἱ νόμοι μοχθηροὶ καὶ πρὸς ξένους καὶ πρὸς πολίτας· ἕτερον δέ, ἐὰν τοῖς ὑπάρχουσι μὴ πείθωνται· ἄλλο δέ, ἐὰν ὅλως μηδεὶς ᾖ νόμος."
+    "originalText": "Διαιρεῖται ἡ ἀνομία εἰς τρία· ὧν ἓν μέν ἐστιν, ἐὰν ὦσιν οἱ νόμοι μοχθηροὶ καὶ πρὸς ξένους καὶ πρὸς πολίτας· ἕτερον δέ, ἐὰν τοῖς ὑπάρχουσι μὴ πείθωνται· ἄλλο δέ, ἐὰν ὅλως μηδεὶς ᾖ νόμος.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.103–104"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Suprotnosti stoje kao dobro prema zlu, zlo prema zlu ili kao dve međusobno suprotne ravnodušne stvari.",
     "stsl": "Противьнаꙗ стоѧть ꙗко благо противѹ злѹ · зло противѹ злѹ или ꙗко двѣ междѹ собою противьны безразличьны вешти ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.104–105",
-    "originalText": "Τὰ ἐναντία διαιρεῖται εἰς τρία· οἷον ἀγαθὰ κακοῖς ἐναντία φαμὲν εἶναι, ὡς τὴν δικαιοσύνην τῇ ἀδικίᾳ καὶ τὴν φρόνησιν τῇ ἀφροσύνῃ καὶ τὰ τοιαῦτα. Κακὰ δὲ κακοῖς ἐναντία ἐστίν."
+    "originalText": "Τὰ ἐναντία διαιρεῖται εἰς τρία· οἷον ἀγαθὰ κακοῖς ἐναντία φαμὲν εἶναι, ὡς τὴν δικαιοσύνην τῇ ἀδικίᾳ καὶ τὴν φρόνησιν τῇ ἀφροσύνῃ καὶ τὰ τοιαῦτα. Κακὰ δὲ κακοῖς ἐναντία ἐστίν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.104–105"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Neka dobra možemo imati isključivo, u nekima možemo učestvovati, a neka treba samo da postoje.",
     "stsl": "Нѣкаꙗ блага можємъ особьно имѣти · нѣкымъ причѧстьни быти · нѣкымъ же тъкмо быти подобаєть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.105",
-    "originalText": "Τῶν ἀγαθῶν γένη ἐστὶ τρία· τὰ μὲν γάρ ἐστιν ἑκτά, τὰ δὲ μεθεκτά, τὰ δὲ ὑπαρκτά. Τὰ μὲν οὖν ἑκτά ἐστιν, ὅσα ἐνδέχεται ἔχειν, οἷον ἡ δικαιοσύνη καὶ ἡ ὑγίεια."
+    "originalText": "Τῶν ἀγαθῶν γένη ἐστὶ τρία· τὰ μὲν γάρ ἐστιν ἑκτά, τὰ δὲ μεθεκτά, τὰ δὲ ὑπαρκτά. Τὰ μὲν οὖν ἑκτά ἐστιν, ὅσα ἐνδέχεται ἔχειν, οἷον ἡ δικαιοσύνη καὶ ἡ ὑγίεια.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.105"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Savet se izvodi iz prošlosti, sadašnjosti ili budućnosti.",
     "stsl": "Съвѣтъ отъ минѹвъшаго · настоѧштаго или бѫдѫштаго выводить сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.106",
-    "originalText": "Ἡ συμβουλία διαιρεῖται εἰς τρία· ἔστι γὰρ αὐτῆς ἓν μὲν ἐκ τῶν παροιχομένων χρόνων λαμβανόμενον, ἓν δὲ ἐκ τῶν μελλόντων, ἓν δὲ ἐκ τῶν ἐνεστώτων."
+    "originalText": "Ἡ συμβουλία διαιρεῖται εἰς τρία· ἔστι γὰρ αὐτῆς ἓν μὲν ἐκ τῶν παροιχομένων χρόνων λαμβανόμενον, ἓν δὲ ἐκ τῶν μελλόντων, ἓν δὲ ἐκ τῶν ἐνεστώτων.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.106"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Glas je živ ili neživ; živi glas je razgovetan kod ljudi, a nerazgovetan kod životinja.",
     "stsl": "Гласъ живъ или неживъ єсть · живыи гласъ въ чловѣцѣхъ разѹмьнъ · въ животьныхъ же неразѹмьнъ єсть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.107",
-    "originalText": "Ἡ φωνὴ διαιρεῖται εἰς δύο· ἓν μὲν αὐτῆς ἐστιν ἔμψυχον, ἓν δὲ ἄψυχον. Ἔμψυχον μὲν ἡ τῶν ζῴων φωνή, ἄψυχον δὲ φθόγγοι καὶ ἦχοι."
+    "originalText": "Ἡ φωνὴ διαιρεῖται εἰς δύο· ἓν μὲν αὐτῆς ἐστιν ἔμψυχον, ἓν δὲ ἄψυχον. Ἔμψυχον μὲν ἡ τῶν ζῴων φωνή, ἄψυχον δὲ φθόγγοι καὶ ἦχοι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.107"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Sve postojeće je deljivo ili nedeljivo; deljivo se sastoji od jednakih ili nejednakih delova.",
     "stsl": "Вьсѧко сѫщее дѣлимо или недѣлимо єсть · дѣлимоє отъ подобьныхъ или неподобьныхъ чѧстии състоить ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.107–108",
-    "originalText": "Τῶν ὄντων ἐστὶ τὰ μὲν μεριστά, τὰ δὲ ἀμέριστα. Τούτων δὲ τῶν μεριστῶν τὰ μὲν ὁμοιομερῆ, τὰ δὲ ἀνομοιομερῆ."
+    "originalText": "Τῶν ὄντων ἐστὶ τὰ μὲν μεριστά, τὰ δὲ ἀμέριστα. Τούτων δὲ τῶν μεριστῶν τὰ μὲν ὁμοιομερῆ, τὰ δὲ ἀνομοιομερῆ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.107–108"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Od postojećih stvari jedne postoje samostalno, a druge samo u odnosu prema nečemu.",
     "stsl": "Отъ сѫштихъ вештии єдины самостоꙗтельно сѫть · дрѹгыѩ же тъкмо къ нѣчесомѹ относѧть сѧ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.108–109",
-    "originalText": "Τῶν ὄντων τὰ μέν ἐστι καθ' ἑαυτά, τὰ δὲ πρός τι λέγεται. Τὰ μὲν οὖν καθ' ἑαυτὰ λεγόμενά ἐστιν ὅσα ἐν τῇ ἑρμηνείᾳ μηδενὸς προσδεῖται· ταῦτα δ' ἂν εἴη οἷον ἄνθρωπος, ἵππος καὶ τἆλλα ζῷα."
+    "originalText": "Τῶν ὄντων τὰ μέν ἐστι καθ' ἑαυτά, τὰ δὲ πρός τι λέγεται. Τὰ μὲν οὖν καθ' ἑαυτὰ λεγόμενά ἐστιν ὅσα ἐν τῇ ἑρμηνείᾳ μηδενὸς προσδεῖται· ταῦτα δ' ἂν εἴη οἷον ἄνθρωπος, ἵππος καὶ τἆλλα ζῷα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.108–109"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Bacam ti jabuku; ako želiš da me voliš, primi je. Ako ne želiš, uzmi je ipak i pogledaj kako je svaka lepota kratkoga veka.",
     "stsl": "Мечѫ ти ꙗблъко · аште хоштеши мѧ любити · приими є · Аште ли не хоштеши · обаче възьми є и виждь · како вьсѧка красота кратъка вѣка єсть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.32",
-    "originalText": "Βάλλω τοι τὸ μῆλον· σὺ δ' εἰ μὲν ἑκών με φιλεῖς, δέξο καὶ σῆς κοινώνησον ἁβότητος· εἰ δ' ἃ μὴ βούλομαι νοεῖς, καὶ τοῦτ' ἄρ' ὅμως λαβὲ καὶ σκέψαι τῆς καλλονῆς ὅσον ὀλιγοχρόνιον."
+    "originalText": "Βάλλω τοι τὸ μῆλον· σὺ δ' εἰ μὲν ἑκών με φιλεῖς, δέξο καὶ σῆς κοινώνησον ἁβότητος· εἰ δ' ἃ μὴ βούλομαι νοεῖς, καὶ τοῦτ' ἄρ' ὅμως λαβὲ καὶ σκέψαι τῆς καλλονῆς ὅσον ὀλιγοχρόνιον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.32"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Ksenofontova priča o Kirovom vaspitanju je izmišljena, jer Kir nije bio onakav kakvim ga ona opisuje.",
     "stsl": "Ксенофонтово сказаніє о Кѵровѣ възпитании измышленно єсть · зане Кѵръ не бѣ таковъ · ꙗкоже єго оно описѹєть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.34",
-    "originalText": "Ἐν τοῖς Νόμοις ὁ Πλάτων πλάσμα φησὶν εἶναι τὴν παιδείαν αὐτοῦ· μὴ γὰρ εἶναι Κῦρον τοιοῦτον."
+    "originalText": "Ἐν τοῖς Νόμοις ὁ Πλάτων πλάσμα φησὶν εἶναι τὴν παιδείαν αὐτοῦ· μὴ γὰρ εἶναι Κῦρον τοιοῦτον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.34"
+      }
+    ]
   },
   {
     "type": "quote",
     "sr": "Istina je lepa i trajna, ali je ljude teško u nju uveriti.",
     "stsl": "Истина красна и прѣбываѭшта єсть · нъ чловѣкы трѹдьно въ нѭ ѹвѣрити ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
-    "reference": "III.40",
-    "originalText": "Καλὸν μὲν ἡ ἀλήθεια, ὦ ξένε, καὶ μόνιμον· ἔοικε μὴν οὐ ῥᾴδιον <εἶναι> πείθειν."
+    "originalText": "Καλὸν μὲν ἡ ἀλήθεια, ὦ ξένε, καὶ μόνιμον· ἔοικε μὴν οὐ ῥᾴδιον <εἶναι> πείθειν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.40"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -893,19 +1285,27 @@
     "stsl": "По Атиньскомѹ прѣданию · Аристонъ напрасно Периктионѫ придобыти ѹсиливааше сѧ · Єгда ємѹ Аполлонъ въ сънѣ ꙗви сѧ · неприкосновенѫ ю до Платонова рождениꙗ остави · отътѹдѹ повѣсть о божьствьнѣмь родѣ любомѫдрьца бысть ·",
     "originalText": "Ἀθήνησιν ἦν λόγος, ὡραίαν οὖσαν τὴν Περικτιόνην βιάζεσθαι τὸν Ἀρίστωνα καὶ μὴ τυγχάνειν· παυόμενόν τε τῆς βίας ἰδεῖν τὴν τοῦ Ἀπόλλωνος ὄψιν· ὅθεν καθαρὰν γάμου φυλάξαι ἕως τῆς ἀποκυήσεως.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -428,
-    "reference": "III.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.2"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Platon je samoga sebe po imenu pomenuo samo dvaput. Kada je čitao dijalog O duši, jedino je Aristotel ostao do kraja. Početak Države pronađen je više puta prepravljen, a Zakoni su ostali na voštanim tablicama i prepisao ih je Filip iz Opunta.",
     "stsl": "Платонъ самого себе по имѧни тъкмо двоицею помѧнѫ · Єгда бесѣдꙫ О дѹши чьтѧаше · єдинъ Аристотель до конца оста · Начѧло Града многажды прѣписано обрѣте сѧ · Закони же на воштьныхъ дъскахъ осташа и Филиппъ Опѹнтьскыи ихъ прѣписа ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -423,
-    "reference": "III.37–38",
-    "originalText": "Ἑαυτοῦ τε Πλάτων οὐδαμόθι τῶν ἑαυτοῦ συγγραμμάτων μνήμην πεποίηται ὅτι μὴ ἐν τῷ Περὶ ψυχῆς καὶ Ἀπολογίᾳ. Λόγος δὲ πρῶτον γράψαι αὐτὸν τὸν Φαῖδρον."
+    "originalText": "Ἑαυτοῦ τε Πλάτων οὐδαμόθι τῶν ἑαυτοῦ συγγραμμάτων μνήμην πεποίηται ὅτι μὴ ἐν τῷ Περὶ ψυχῆς καὶ Ἀπολογίᾳ. Λόγος δὲ πρῶτον γράψαι αὐτὸν τὸν Φαῖδρον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.37–38"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -913,9 +1313,13 @@
     "stsl": "Сократъ видѣ въ сънѣ лебѧдь · иже на колѣнѹ єго внезапѹ опери сѧ · възлетѣ и сладъкогласьно възпѣ · Єгда на ѹтрии Платона къ немѹ приведоша · въ немь лебѧдь отъ съна позна ·",
     "originalText": "Σωκράτης ὄναρ εἶδε κύκνου νεοττὸν ἐν τοῖς γόνασιν ἔχειν, ὃν καὶ παραχρῆμα πτεροφυήσαντα ἀναπτῆναι ἡδὺ κλάγξαντα· καὶ μεθ' ἡμέραν Πλάτωνα αὐτῷ συστῆναι, τὸν δὲ τοῦτον εἰπεῖν εἶναι τὸν ὄρνιν.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -418,
-    "reference": "III.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.5"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -923,9 +1327,13 @@
     "stsl": "Платонъ пьрвыи забъвеныѩ Софроновы подражаниꙗ въ Атины принесе и по нихъ лица изображаше · списъкъ тѣхъ писании подъ възглавиемъ єго обрѣтенъ бысть ·",
     "originalText": "Πλάτων καὶ τὰ Σώφρονος τοῦ μιμογράφου βιβλία ἠμελημένα πρῶτος εἰς Ἀθήνας διακομίσαι καὶ ἠθοποιῆσαι πρὸς αὐτόν· ἃ καὶ εὑρεθῆναι ὑπὸ τῇ κεφαλῇ αὐτοῦ.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -413,
-    "reference": "III.18"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.18"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -933,9 +1341,13 @@
     "stsl": "Платонъ трагедиею състѧзати сѧ хотѣ · нъ прѣдъ Дионисовымъ позориштемъ Сократа ѹслыша · Своѩ пѣсни съжеже · бога огнꙗ на помощь възва и отъ двадесѧтаго лѣта Сократовъ ѹченикъ бысть ·",
     "originalText": "μέλλων ἀγωνιεῖσθαι τραγῳδίᾳ πρὸ τοῦ Διονυσιακοῦ θεάτρου Σωκράτους ἀκούσας κατέφλεξε τὰ ποιήματα εἰπών· Ἥφαιστε, πρόμολ' ὧδε· Πλάτων νύ τι σεῖο χατίζει. Τοὐντεῦθεν δὴ γεγονώς, φασίν, εἴκοσιν ἔτη διήκουσε Σωκράτους.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -408,
-    "reference": "III.5–6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.5–6"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -943,128 +1355,180 @@
     "stsl": "По Сократовѣ смрьти Платонъ при Кратѵлѣ и Хермогенѣ ѹчи сѧ · потомь же въ Мегарѫ · Кѵринѫ · Италию и Єгѵпетъ пѫтова · Въ Єгѵптѣ жрьци морьскою водою єго исцѣлиша · тѣмь чѧсто рѣчь навождааше · ꙗко море вьсѧ чловѣчьскаꙗ зла омываєть ·",
     "originalText": "ἐκείνου δ' ἀπελθόντος προσεῖχε Κρατύλῳ τε τῷ Ἡρακλειτείῳ καὶ Ἑρμογένει τῷ τὰ Παρμενίδου φιλοσοφοῦντι. Εἶτα εἰς Μέγαρα πρὸς Εὐκλείδην σὺν καὶ ἄλλοις τισὶ Σωκρατικοῖς ὑπεχώρησεν. Ἔπειτα εἰς Κυρήνην ἀπῆλθε πρὸς Θεόδωρον τὸν μαθηματικόν· κἀκεῖθεν εἰς Ἰταλίαν πρὸς τοὺς Πυθαγορικοὺς Φιλόλαον καὶ Εὔρυτον. Ἔνθεν τε εἰς Αἴγυπτον παρὰ τοὺς προφήτας· οὗ φασι αὐτόθι νοσήσαντα πρὸς τῶν ἱερέων ἀπολυθῆναι τῇ διὰ θαλάττης θεραπείᾳ· ὅθεν που καὶ εἰπεῖν· Θάλασσα κλύζει πάντα τἀνθρώπων κακά.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -403,
-    "reference": "III.6–7"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.6–7"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Platon se vratio na Siciliju da od mlađeg Dionisija zatraži zemlju i naseljenike za ostvarenje svoje države. Obećanje nije ispunjeno.",
     "stsl": "Платонъ пакы въ Сикелию възврати сѧ · да отъ младъшаго Дионисиꙗ землѭ и насельникы къ сътворению своєго града просить · Обѣтъ не съвръши сѧ.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -367,
-    "reference": "III.21",
-    "originalText": "Ἀφικόμενος δὲ πάλιν ἐπὶ τὸν νεώτερον Διονύσιον ᾐτεῖτο χώραν καὶ ἀνθρώπους οἳ κατὰ τὴν πολιτείαν αὐτοῦ βιώσονται· ὁ δὲ ὑποστὰς οὐκ ἐπλήρωσεν."
+    "originalText": "Ἀφικόμενος δὲ πάλιν ἐπὶ τὸν νεώτερον Διονύσιον ᾐτεῖτο χώραν καὶ ἀνθρώπους οἳ κατὰ τὴν πολιτείαν αὐτοῦ βιώσονται· ὁ δὲ ὑποστὰς οὐκ ἐπλήρωσεν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.21"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada je osumnjičen da pomaže oslobođenju ostrva, Arhita mu je izdejstvovao bezbedan povratak.",
     "stsl": "Єгда въ помощи освобождению острова подозрѣнъ бысть · Архѵта ємѹ безбѣдьнъ възвратъ исходатаиствова.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -366,
-    "reference": "III.22",
-    "originalText": "ὑποπτευθεὶς δὲ συνεπιτίθεσθαι τῇ νήσῳ."
+    "originalText": "ὑποπτευθεὶς δὲ συνεπιτίθεσθαι τῇ νήσῳ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.22"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Treći put je bez uspeha pokušao da pomiri Diona i Dionisija.",
     "stsl": "Третицею безъ ѹспѣха Диона и Дионисиꙗ примирити покѹси сѧ.",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -361,
-    "reference": "III.23",
-    "originalText": "τρίτον ἐλθὼν ἐπειρᾶτο καταλλάξαι Δίωνα καὶ Διονύσιον."
+    "originalText": "τρίτον ἐλθὼν ἐπειρᾶτο καταλλάξαι Δίωνα καὶ Διονύσιον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.23"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Diogen Platonu pripisuje uvođenje rasprave pitanjima i odgovorima, analitičkog rešavanja zadataka i više temeljnih filozofskih naziva, kao i prvo sistematsko proučavanje gramatike.",
     "stsl": "Диогенъ Платонѹ приписѹєть введеніє прѣниꙗ вопросы и отвѣты · разрѣшениꙗ задачь разложеніємъ и многихъ основьныхъ любомѫдрьныхъ имѧнъ · такожде пьрвоє ѹстроєно испытаніє кънижьнаго ꙗзыка ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -388,
-    "reference": "III.24–25",
-    "originalText": "Διαλεκτικὴν δὲ πρῶτον εἰσηγήσασθαι Πλάτωνα, ὡς Φαβωρῖνός φησιν ἐν Παντοδαπῇ ἱστορίᾳ."
+    "originalText": "Διαλεκτικὴν δὲ πρῶτον εἰσηγήσασθαι Πλάτωνα, ὡς Φαβωρῖνός φησιν ἐν Παντοδαπῇ ἱστορίᾳ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.24–25"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Platon i Ksenofont bili su suparnici: obojica su napisala Gozbu, Odbranu Sokratovu i moralne uspomene, dok su se Platonova Država i Ksenofontovo Kiropedija nadmetale u prikazu uređenja i vaspitanja. Platon je Ksenofontovog Kira nazvao izmišljotinom.",
     "stsl": "Платонъ и Ксенофонтъ съпьрници бѣста · оба Пиръ · Сократовѫ Заштитѫ и нравьныѩ памѧти написаста · Платоновъ же Градъ и Ксенофонтово Кѵрово възпитаніє въ изображении ѹстроєниꙗ и възпитаниꙗ състѧзаста сѧ · Платонъ Ксенофонтова Кѵра измышленіємъ нарече ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -383,
-    "reference": "III.34",
-    "originalText": "Ἔοικε δὲ καὶ Ξενοφῶν πρὸς αὐτὸν ἔχειν οὐκ εὐμενῶς. ὥσπερ γοῦν διαφιλονεικοῦντες τὰ ὅμοια γεγράφασι, Συμπόσιον, Σωκράτους ἀπολογίαν, τὰ ἠθικὰ ἀπομνημονεύματα."
+    "originalText": "Ἔοικε δὲ καὶ Ξενοφῶν πρὸς αὐτὸν ἔχειν οὐκ εὐμενῶς. ὥσπερ γοῦν διαφιλονεικοῦντες τὰ ὅμοια γεγράφασι, Συμπόσιον, Σωκράτους ἀπολογίαν, τὰ ἠθικὰ ἀπομνημονεύματα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.34"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada je Antisten najavio spis o nemogućnosti protivrečenja, Platon ga je pitao kako uopšte može pisati o tome, pokazujući da tvrdnja pobija samu sebe. Antisten je zatim protiv njega napisao dijalog Saton i njih dvojica su ostala zavađena.",
     "stsl": "Єгда Антисѳенъ писаніє о невъзможьности противорѣчениꙗ възвѣсти · Платонъ єго въпроси · како о томь писати можеть · показѹѧ · ꙗко твьрдь самѫ себе побѣждаєть · Антисѳенъ потомь противѹ єго бесѣдꙫ Сатонъ написа · и оба въ враждѣ прѣбыста ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -378,
-    "reference": "III.35",
-    "originalText": "Λέγεται δ' ὅτι καὶ Ἀντισθένης μέλλων ἀναγινώσκειν τι τῶν γεγραμμένων αὐτῷ παρεκάλεσεν αὐτὸν παρατυχεῖν. Καὶ πυθομένῳ τί μέλλει ἀναγινώσκειν, εἶπεν ὅτι περὶ τοῦ μὴ εἶναι ἀντιλέγειν· τοῦ δ' εἰπόντος· « Πῶς οὖν σὺ περὶ αὐτοῦ τούτου γράφεις; »"
+    "originalText": "Λέγεται δ' ὅτι καὶ Ἀντισθένης μέλλων ἀναγινώσκειν τι τῶν γεγραμμένων αὐτῷ παρεκάλεσεν αὐτὸν παρατυχεῖν. Καὶ πυθομένῳ τί μέλλει ἀναγινώσκειν, εἶπεν ὅτι περὶ τοῦ μὴ εἶναι ἀντιλέγειν· τοῦ δ' εἰπόντος· « Πῶς οὖν σὺ περὶ αὐτοῦ τούτου γράφεις; »",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.35"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada je Platon čitao dijalog Lisid, Sokrat je uzviknuo da mladić o njemu govori mnoštvo laži, jer je u dijalog uneo mnogo toga što Sokrat nikada nije rekao.",
     "stsl": "Єгда Платонъ бесѣдꙫ Лѵсидъ чьтѧаше · Сократъ възгласи · ꙗко юноша множьство лъжи о немь глаголєть · зане въ бесѣдꙫ много того вънесе · єже Сократъ никогда не рече ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -373,
-    "reference": "III.35",
-    "originalText": "Φασὶ δὲ καὶ Σωκράτην ἀκούσαντα τὸν Λύσιν ἀναγιγνώσκοντος Πλάτωνος, « Ἡράκλεις, » εἰπεῖν, « ὡς πολλά μου καταψεύδεθ' ὁ νεανίσκος. »"
+    "originalText": "Φασὶ δὲ καὶ Σωκράτην ἀκούσαντα τὸν Λύσιν ἀναγιγνώσκοντος Πλάτωνος, « Ἡράκλεις, » εἰπεῖν, « ὡς πολλά μου καταψεύδεθ' ὁ νεανίσκος. »",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.35"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Platon je prekinuo čoveka koji se pravdao da se kocka samo za sitnicu: sitnica nije bila ulog, nego navika. Kada se naljutio na roba, zamolio je Ksenokrata da ga kazni, jer nije hteo da kažnjava u gnevu.",
     "stsl": "Платонъ чловѣка · иже сѧ оправдавааше · ꙗко тъкмо на мало костьми играєть · ѹстави · мало не бѣ залогъ · нъ обычаи · Єгда на раба разгнѣва сѧ · Ксенократа проси · да єго накажеть · зане въ гнѣвѣ наказати не хотѣ ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -368,
-    "reference": "III.38–39",
-    "originalText": "Ὁ γοῦν Πλάτων λέγεται θεασάμενός τινα κυβεύοντα αἰτιάσασθαι· τοῦ δὲ εἰπόντος ὡς ἐπὶ μικροῖς, « Ἀλλὰ τό γ' ἔθος, » εἰπεῖν, « οὐ μικρόν. » Ἐφ' ἵππου καθίσας εὐθέως κατέβη φήσας εὐλαβεῖσθαι μὴ ἱπποτυφίᾳ ληφθῇ."
+    "originalText": "Ὁ γοῦν Πλάτων λέγεται θεασάμενός τινα κυβεύοντα αἰτιάσασθαι· τοῦ δὲ εἰπόντος ὡς ἐπὶ μικροῖς, « Ἀλλὰ τό γ' ἔθος, » εἰπεῖν, « οὐ μικρόν. » Ἐφ' ἵππου καθίσας εὐθέως κατέβη φήσας εὐλαβεῖσθαι μὴ ἱπποτυφίᾳ ληφθῇ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.38–39"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Platon je jednom brzo sjahao s konja, bojeći se da ga ne zarazi konjska oholost. Pijancima je savetovao ogledalo da vide kako ih pijanstvo izobličava, a osuđivao je i predugo spavanje.",
     "stsl": "Платонъ єдиною скоро съ конѧ съниде · боѧ сѧ · да єго коньска гордость не заразить · Пиꙗнымъ зрьцало съвѣтоваше · да видѧть · како ихъ пиꙗньство безобразить · такожде и прѣдълъгыи сънъ осѫждааше ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -363,
-    "reference": "III.39–40",
-    "originalText": "Ἐφ' ἵππου καθίσας εὐθέως κατέβη φήσας εὐλαβεῖσθαι μὴ ἱπποτυφίᾳ ληφθῇ. τοῖς μεθύουσι συνεβούλευε κατοπτρίζεσθαι· ἀποστήσεσθαι γὰρ τῆς τοιαύτης ἀσχημοσύνης. Καὶ τὸ πολλὰ δὲ καθεύδειν ἀπήρεσκεν αὐτῷ."
+    "originalText": "Ἐφ' ἵππου καθίσας εὐθέως κατέβη φήσας εὐλαβεῖσθαι μὴ ἱπποτυφίᾳ ληφθῇ. τοῖς μεθύουσι συνεβούλευε κατοπτρίζεσθαι· ἀποστήσεσθαι γὰρ τῆς τοιαύτης ἀσχημοσύνης. Καὶ τὸ πολλὰ δὲ καθεύδειν ἀπήρεσκεν αὐτῷ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.39–40"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila. Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
     "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ · Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -358,
-    "reference": "III.4–5",
-    "originalText": "Ἐγυμνάσατο δὲ παρὰ Ἀρίστωνι τῷ Ἀργείῳ παλαιστῇ· ἀφ' οὗ καὶ Πλάτων διὰ τὴν εὐεξίαν μετωνομάσθη, πρότερον Ἀριστοκλῆς ἀπὸ τοῦ πάππου καλούμενος."
+    "originalText": "Ἐγυμνάσατο δὲ παρὰ Ἀρίστωνι τῷ Ἀργείῳ παλαιστῇ· ἀφ' οὗ καὶ Πλάτων διὰ τὴν εὐεξίαν μετωνομάσθη, πρότερον Ἀριστοκλῆς ἀπὸ τοῦ πάππου καλούμενος.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.4–5"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada niko drugi u Atini nije hteo da brani vojskovođu Habriju od smrtne optužbe, Platon je stao uz njega. Na pretnju da ga čeka Sokratova kukuta odgovorio je da se, kao nekada za otadžbinu, sada izlaže opasnosti radi prijatelja.",
     "stsl": "Єгда никтоже инъ въ Атинахъ воєводѫ Хабрию отъ смрьтьнаго обвинениꙗ заштитити хотѣ · Платонъ при немь ста · На грозьбѫ · ꙗко Сократова отрова єго чекаєть · отвѣшта · ꙗко ꙗкоже иногда отьчьства ради · нынѣ дрѹга ради бѣдѣ себе прѣдаєть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -353,
-    "reference": "III.23–24",
-    "originalText": "Μόνος δὲ τῶν ἐν Ἀθήναις παρρησιασάμενος ὑπὲρ Χαβρίου τοῦ στρατηγοῦ κρινομένου. Ὡς δ' εἰσῄει μετ' αὐτοῦ εἰς τὸ δικαστήριον διά τινος ἀναβαθμοῦ, ἔφη τις τῶν συκοφαντῶν Ἀριστογείτων, « Οὐκ οἶσθα ὅτι ἤδη τὸ Σωκρατικὸν πέπωκας κώνειον; » ὁ δέ· « Ὑπὲρ μὲν τῆς πατρίδος τοὺς κινδύνους ἤνεγκον ἑκών, ὑπὲρ δὲ φίλου ἀνέξομαι. »"
+    "originalText": "Μόνος δὲ τῶν ἐν Ἀθήναις παρρησιασάμενος ὑπὲρ Χαβρίου τοῦ στρατηγοῦ κρινομένου. Ὡς δ' εἰσῄει μετ' αὐτοῦ εἰς τὸ δικαστήριον διά τινος ἀναβαθμοῦ, ἔφη τις τῶν συκοφαντῶν Ἀριστογείτων, « Οὐκ οἶσθα ὅτι ἤδη τὸ Σωκρατικὸν πέπωκας κώνειον; » ὁ δέ· « Ὑπὲρ μὲν τῆς πατρίδος τοὺς κινδύνους ἤνεγκον ἑκών, ὑπὲρ δὲ φίλου ἀνέξομαι. »",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.23–24"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Platon je umro na svadbenoj gozbi u dubokoj starosti i sahranjen je u Akademiji. U oporuci je oslobodio Artemidu, ostavio četiri kućna roba i izjavio da nikome ništa ne duguje.",
     "stsl": "Платонъ на брачьнѣи трапезѣ въ глѹбоцѣ старости ѹмрѣ и въ Академии погребенъ бысть · Въ завѣштании Артемидѫ свободьнѫ сътвори · четыри домашьны рабы остави и рече · ꙗко никомѹ ничьтоже дължьнъ єсть ·",
     "author": "Plato",
-    "source": "diogenes-laertius",
     "year": -348,
-    "reference": "III.2–3",
-    "originalText": "Τελευτᾷ δὲ - ὥς φησιν Ἕρμιππος ἐν γάμοις δειπνῶν - τῷ πρώτῳ ἔτει τῆς ὀγδόης καὶ ἑκατοστῆς Ὀλυμπιάδος, βιοὺς ἔτος ἓν πρὸς τοῖς ὀγδοήκοντα."
+    "originalText": "Τελευτᾷ δὲ - ὥς φησιν Ἕρμιππος ἐν γάμοις δειπνῶν - τῷ πρώτῳ ἔτει τῆς ὀγδόης καὶ ἑκατοστῆς Ὀλυμπιάδος, βιοὺς ἔτος ἓν πρὸς τοῖς ὀγδοήκοντα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.2–3"
+      }
+    ]
   }
 ]

@@ -5,8 +5,12 @@
     "stsl": "Евдоксъ глаголаше · ꙗко влъсви два начѧла исповѣдаѭть · благыи дѹхъ · єгоже Зевсомъ или Оромаздомъ нарицаѭть · и зълыи дѹхъ · єгоже Аидомъ или Ариманіємъ нарицаѭть ·",
     "originalText": "δύο κατ' αὐτοὺς εἶναι ἀρχάς, ἀγαθὸν δαίμονα καὶ κακὸν δαίμονα· καὶ τῷ μὲν ὄνομα εἶναι Ζεὺς καὶ Ὠρομάσδης, τῷ δὲ Ἅιδης καὶ Ἀρειμάνιος.",
     "author": "Eudoxus",
-    "source": "diogenes-laertius",
-    "reference": "I.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.8"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -14,67 +18,95 @@
     "stsl": "Сластъ єсть благо ·",
     "originalText": "ἡδονὴν λέγειν τὸ ἀγαθόν.",
     "author": "Eudoxus",
-    "source": "diogenes-laertius",
-    "reference": "VIII.88"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.88"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada mu je bilo oko dvadeset tri godine, Eudoks je živeo oskudno, ali ga je glas Sokratovih sledbenika privukao u Atinu. Stanovao je u Pireju i svakog dana odlazio u grad da sluša predavanja, a zatim se vraćao u luku.",
     "stsl": "Єгда около двадесѧти и трьхъ лѣтъ имѣаше · Евдоксъ въ скѫдости живѣаше · нъ слава Сократовыхъ послѣдователеи въ Атины єго привлѣче · Въ Пиреи живѣаше и всѧкъ дьнь въ градъ на поѹчениꙗ хождааше · потомь же въ пристанище възвраштааше сѧ ·",
     "author": "Eudoxus",
-    "source": "diogenes-laertius",
     "year": -408,
-    "reference": "VIII.86–87",
-    "originalText": "Γενόμενον γὰρ ἐτῶν τριῶν που καὶ εἴκοσι καὶ στενῶς διακείμενον κατὰ κλέος τῶν Σωκρατικῶν εἰς Ἀθήνας ἀπᾶραι σὺν Θεομέδοντι τῷ ἰατρῷ, τρεφόμενον ὑπ' αὐτοῦ. καταχθέντα δ' εἰς τὸν Πειραιᾶ ὁσημέραι ἀνιέναι Ἀθήναζε καὶ ἀκούσαντα τῶν σοφιστῶν αὐτόθι ὑποστρέφειν. δύο δὴ μῆνας διατρίψαντα οἴκαδ' ἐπανελθεῖν."
+    "originalText": "Γενόμενον γὰρ ἐτῶν τριῶν που καὶ εἴκοσι καὶ στενῶς διακείμενον κατὰ κλέος τῶν Σωκρατικῶν εἰς Ἀθήνας ἀπᾶραι σὺν Θεομέδοντι τῷ ἰατρῷ, τρεφόμενον ὑπ' αὐτοῦ. καταχθέντα δ' εἰς τὸν Πειραιᾶ ὁσημέραι ἀνιέναι Ἀθήναζε καὶ ἀκούσαντα τῶν σοφιστῶν αὐτόθι ὑποστρέφειν. δύο δὴ μῆνας διατρίψαντα οἴκαδ' ἐπανελθεῖν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.86–87"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Uz pomoć prijatelja Eudoks je otišao u Egipat i među tamošnjim sveštenicima proveo godinu i četiri meseca, obrijanih obrva i brade. Potom je predavao u Kiziku i Propontidi, posetio Mausolov dvor i najzad se vratio u Atinu sa mnogim učenicima; neki su tvrdili da je time želeo da ozlojedi Platona, koji ga je ranije zanemario.",
     "stsl": "Помоштию дрѹговъ Евдоксъ въ Егѵпетъ иде и междѹ тамошними жерци єдино лѣто и четыри мѣсѧци прѣбысть · обръви и брадꙫ обрѣꙗнъ · Потомь въ Кизикѣ и Пропонтидѣ поѹчааше · Маѵсоловъ дворъ посѣти и наконецъ съ многыми ѹченики въ Атины възврати сѧ · нѣции глаголаахѫ · ꙗко симь Платона озлобити хотѣ · иже єго прѣжде прѣзрѣ ·",
     "author": "Eudoxus",
-    "source": "diogenes-laertius",
     "year": -397,
-    "reference": "VIII.87–88",
-    "originalText": "Πρὸς τῶν φίλων ἐρανισθέντα εἰς Αἴγυπτον ἀπᾶραι μετὰ Χρυσίππου τοῦ ἰατροῦ, συστατικὰς φέροντα παρ' Ἀγησιλάου πρὸς Νεκτάναβιν· τὸν δὲ τοῖς ἱερεῦσιν αὐτὸν συστῆσαι."
+    "originalText": "Πρὸς τῶν φίλων ἐρανισθέντα εἰς Αἴγυπτον ἀπᾶραι μετὰ Χρυσίππου τοῦ ἰατροῦ, συστατικὰς φέροντα παρ' Ἀγησιλάου πρὸς Νεκτάναβιν· τὸν δὲ τοῖς ἱερεῦσιν αὐτὸν συστῆσαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.87–88"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada je Platon priredio gozbu sa mnogo zvanica, Eudoks je predložio da se ležajevi rasporede u polukrug.",
     "stsl": "Єгда Платонъ пиръ съ многыми зъваными сътвори · Евдоксъ ложа полѹкрѹгомъ поставити прѣдложи ·",
     "author": "Eudoxus",
-    "source": "diogenes-laertius",
     "year": -387,
-    "reference": "VIII.88",
-    "originalText": "Τινὲς δέ φασι καὶ συμπόσιον ἔχοντι τῷ Πλάτωνι αὐτὸν τὴν ἡμικύκλιον κατάκλισιν, πολλῶν ὄντων, εἰσηγήσασθαι."
+    "originalText": "Τινὲς δέ φασι καὶ συμπόσιον ἔχοντι τῷ Πλάτωνι αὐτὸν τὴν ἡμικύκλιον κατάκλισιν, πολλῶν ὄντων, εἰσηγήσασθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.88"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Eudoks je u Knidu dočekan sa velikim počastima i sastavio je zakone za svoje sugrađane. Proslavio se i astronomskim i geometrijskim delima, a pripisuje mu se otkriće svojstava krivih linija.",
     "stsl": "Евдоксъ въ Книдѣ съ великою чьстию приѧтъ бысть и законы своимъ гражданомъ състави · Прослави сѧ и звѣздочьтьными и землемѣрьными списании · ємѹ же и обрѣтеніє своиствъ кривыихъ чрътъ приписѹєть сѧ ·",
     "author": "Eudoxus",
-    "source": "diogenes-laertius",
     "year": -376,
-    "reference": "VIII.88",
-    "originalText": "Ἀπεδέχθη δὴ ἐν τῇ πατρίδι μεγαλοτίμως ὡς τό γε περὶ αὐτοῦ ψήφισμα γενόμενον δηλοῖ. γράψας τοῖς ἰδίοις πολίταις νόμους."
+    "originalText": "Ἀπεδέχθη δὴ ἐν τῇ πατρίδι μεγαλοτίμως ὡς τό γε περὶ αὐτοῦ ψήφισμα γενόμενον δηλοῖ. γράψας τοῖς ἰδίοις πολίταις νόμους.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.88"
+      }
+    ]
   },
   {
     "type": "bio",
     "sr": "Zbog izuzetnog ugleda Eudoksa su igrom reči nazivali Endoks — Slavni.",
     "stsl": "Великыѧ славы ради Евдокса игрѫ словесъ Ендоксомъ · сирѣчь Славьнымъ · нарицаахѫ ·",
     "author": "Eudoxus",
-    "source": "diogenes-laertius",
     "year": -366,
-    "reference": "VIII.91",
-    "originalText": "Ἔνδοξον οὖν αὐτὸν ἀλλ' ὀλιγοχρόνιον ἔφασαν οἱ ἱερεῖς ἔσεσθαι."
+    "originalText": "Ἔνδοξον οὖν αὐτὸν ἀλλ' ὀλιγοχρόνιον ἔφασαν οἱ ἱερεῖς ἔσεσθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.91"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Dok je Eudoks boravio u Egiptu kod Honufisa iz Heliopolja, sveti bik Apis liznuo mu je ogrtač. Sveštenici su iz toga prorekli da će biti slavan, ali kratkovečan; umro je u pedeset trećoj godini.",
     "stsl": "Єгда Евдоксъ въ Егѵптѣ ѹ Хонѹфиса Хелиопольскаго прѣбывааше · свѧтыи волъ Аписъ ризꙫ єго полиза · Жерци отъ сего прѣрекоша · ꙗко славьнъ · нъ краткоживотьнъ бѹдеть · въ пѧтьдесѧть третиємъ лѣтѣ ѹмрѣ ·",
     "author": "Eudoxus",
-    "source": "diogenes-laertius",
     "year": -355,
-    "reference": "VIII.90–91",
-    "originalText": "Ὅτε δὲ συνεγένετο ἐν Αἰγύπτῳ Χονούφιδι τῷ Ἡλιουπολίτῃ, ὁ Ἆπις αὐτοῦ θοἰμάτιον περιελιχμήσατο. ἔνδοξον οὖν αὐτὸν ἀλλ' ὀλιγοχρόνιον ἔφασαν οἱ ἱερεῖς ἔσεσθαι."
+    "originalText": "Ὅτε δὲ συνεγένετο ἐν Αἰγύπτῳ Χονούφιδι τῷ Ἡλιουπολίτῃ, ὁ Ἆπις αὐτοῦ θοἰμάτιον περιελιχμήσατο. ἔνδοξον οὖν αὐτὸν ἀλλ' ὀλιγοχρόνιον ἔφασαν οἱ ἱερεῖς ἔσεσθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.90–91"
+      }
+    ]
   }
 ]

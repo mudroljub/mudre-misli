@@ -6,8 +6,12 @@
     "stsl": "Хрісіпъ · сынъ Аполонїа · отъ Сѡла или Тарса · ѹченікъ Клєанта · Прєждє бѣ трькачь на дльгꙑ стьзї · послѣди слѹшааше Зєнона или Клєанта і єгда сєі єщє жївꙗашє · ѡтідє отъ нєго і быстъ їѯванрєдьнъ въ любомѫдрїи.",
     "originalText": "Χρύσιππος Ἀπολλωνίου Σολεύς, ἢ Ταρσεὺς, μαθητὴς Κλεάνθους. Οὗτος πρότερον μὲν δόλιχον ἤσκει, ἔπειτ' ἀκούσας Ζήνωνος ἢ Κλεάνθους, ἔτι τε ζῶντος ἀπέστη αὐτοῦ καὶ οὐχ ὁ τυχὼν ἐγένετο κατὰ φιλοσοφίαν.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.179"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.179"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -15,8 +19,12 @@
     "stsl": "Въ прочїихъ єсмь щастлївъ чловѣкъ · развѣ въ ѡтношєнїи къ Клєантѹ · въ томь нє єсмь щастлївъ.",
     "originalText": "Ἐγὼ δὲ τἄλλα μακάριος πέφυκ' ἀνὴρ πλὴν εἰς Κλεάνθην· τοῦτο δ' οὐκ εὐδαιμονῶ.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.179"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.179"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -25,8 +33,12 @@
     "stsl": "Тако прослави сѧ въ діалєктїцѣ ꙗко мьножаишїи мьнꙗхѫ · ащє єсть діалєктіка ѹ боговъ · нє бі была инакошє нєжєли Хрісіпова · Ѡбіловаашє съдрьжанїємь нъ їзразъ нє бѣ съвръшєнъ · Бѣ наимарливѣіши отъ всѣхъ · єжє єсть ꙗвно отъ дѣлъ єго · чїсломь ихъ прєко сєдмь сътъ і пѧть.",
     "originalText": "Οὕτω δ' ἐπίδοξος ἐν τοῖς διαλεκτικοῖς ἐγένετο, ὥστε δοκεῖν τοὺς πλείους ὅτι εἰ παρὰ θεοῖς ἦν διαλεκτική, οὐκ ἂν ἄλλη ἦν ἢ ἡ Χρυσίππειος. Πλεονάσας δὲ τοῖς πράγμασι τὴν λέξιν οὐ κατώρθωσε. Πονικώτατός τε παρ' ὁντινοῦν γέγονεν, ὡς δῆλον ἐκ τῶν συγγραμμάτων αὐτοῦ· τὸν ἀριθμὸν γὰρ ὑπὲρ πέντε καὶ ἑπτακόσιά ἐστιν.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.180"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.180"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -34,8 +46,12 @@
     "stsl": "Єгда нѣкто въ нѣкоєі книꙃѣ почті цѣлѹ Єѵрїпідовѹ Мєдєѭ цїтїраашє · а нѣкто имꙗашє книгѫ въ рѫкахъ · въпрошєнъ что дрьжїть · рєчє · Хрісіповѹ Мєдєѭ.",
     "originalText": "ἐπειδή ποτ' ἔν τινι τῶν συγγραμμάτων παρ' ὀλίγον τὴν Εὐριπίδου Μήδειαν ὅλην παρετίθετο καί τις μετὰ χεῖρας εἶχε τὸ βιβλίον, πρὸς τὸν πυθόμενον τί ἄρα ἔχοι, ἔφη Χρυσίππου Μήδειαν.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.180"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.180"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -44,8 +60,12 @@
     "stsl": "Старїца ꙗжє слѹжаашє ємѹ глаголаашє ꙗко пішє по пѧть сътъ рєдовъ дьньмь.",
     "originalText": "Ἡ δὲ παρεδρεύουσα πρεσβῦτις αὐτῷ ἔλεγεν ὡς πεντακοσίους γράφοι στίχους ἡμερησίους.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.181"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.181"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -54,8 +74,12 @@
     "stsl": "Бѣ малаго тѣла · єжє єсть ꙗвно отъ статꙑѩ на Кєрамєікѹ · ꙗжє єсть почті скрꙑта сѹсѣдьнимь конькомь · тѣмь га Карнєадъ нарїцаашє Крѵпсіпосъ.",
     "originalText": "Ἦν δὲ καὶ τὸ σωμάτιον εὐτελής, ὡς δῆλον ἐκ τοῦ ἀνδριάντος τοῦ ἐν Κεραμεικῷ, ὃς σχεδόν τι ὑποκέκρυπται τῷ πλησίον ἱππεῖ· ὅθεν αὐτὸν ὁ Καρνεάδης Κρύψιππον ἔλεγεν.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.182"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.182"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -63,8 +87,12 @@
     "stsl": "Да пазїхъ на мьножьства · нє бїхъ любомѫдрствовалъ.",
     "originalText": "Εἰ τοῖς πολλοῖς προσεῖχον, οὐκ ἂν ἐφιλοσόφησα.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.182"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.182"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -72,8 +100,12 @@
     "stsl": "Прєстани да ѡтвлачїши старьца отъ сєрїозьнѣіштихъ вєщи · нъ намъ младїмъ прєдлагаи таковаꙗ.",
     "originalText": "Πέπαυσο παρέλκων τὸν πρεσβύτερον ἀπὸ τῶν πραγματικωτέρων, ἡμῖν δὲ τὰ τοιαῦτα πρότεινε τοῖς νέοις.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.182"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.182"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -81,8 +113,12 @@
     "stsl": "Ѡ горє · братє · ѡко твоє мѫтить сѧ · скоро прємѣнꙗєши сѧ въ бѣсьность · а малопрє бѣ разѹмьнъ.",
     "originalText": "Οἴμοι, κασίγνητ', ὄμμα σὸν ταράσσεται· ταχὺς δὲ μετέθου λύσσαν ἀρτίως φρονῶν.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.182"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.182"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -91,8 +127,12 @@
     "stsl": "Прї піꙗньствѣхъ бѣ мірьнъ · токмо ногꙑ бꙗхѫ нєѡбꙑчаінꙑ · тако да слѹжьница рєчє · Хрісіповꙑ токмо ногꙑ піѭть.",
     "originalText": "Ἐν μέντοι ταῖς οἰνώσεσιν ἡσύχαζε παραφερόμενος τοῖς σκέλεσιν, ὥστε εἰπεῖν τὴν δούλην, Χρυσίππου μόνα τὰ σκέλη μεθύει.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.183"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.183"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -100,8 +140,12 @@
     "stsl": "Мънѣ · ащє бо бїхъ мьнѣлъ ꙗко єсть нѣкто болїи отъ мєнє · ѹ нєго бїхъ і азъ любомѫдрствовалъ.",
     "originalText": "ἐμοί· καὶ γὰρ εἰ ὑπελάμβανον εἶναί τιν' ἐμοῦ βελτίονα, παρ' αὐτῷ ἂν ἐγὼ ἐφιλοσόφουν.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.183"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.183"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -110,8 +154,12 @@
     "stsl": "Нѣцїи рєкѫть ꙗко ѹмрѣ отъ смѣха · єгда бо ѡсьль снѣдє смокви · рєчє старїцѣ · Даждь нꙑнѣ ѡсьлѹ і вїна да попїєть · і прєтєрано смѣꙗ сѧ ѹмрѣ.",
     "originalText": "Ἔνιοι δέ φασι γέλωτι συσχεθέντα αὐτὸν τελευτῆσαι· ὄνου γὰρ τὰ σῦκα αὐτῷ φαγόντος, εἰπόντα τῇ γραΐ, Δίδου νυν ἄκρατον ἐπιρροφῆσαι τῷ ὄνῳ, ὑπερκαγχάσαντα τελευτῆσαι.",
     "author": "Chrysippus",
-    "source": "diogenes-laertius",
-    "reference": "VII.185"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.185"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -120,8 +168,12 @@
     "stsl": "Сєнєка пїшєть ѡ нємь · ꙗко бѣ мѫжь прѣѡстрааго ѹма · нє доволꙗашє сѧ наѹкѫ єдиноꙗ школꙑ · но іспытааашє мьнѣніꙗ всѣхъ любомѫдрьць. Бѣ тѹжє тако стоꙗнъ і храбръ · ꙗко єгда слꙑша да Клєантъ тогда бѣ начальникъ стоїкъ · ѡстаѡі всѧ іныꙗ ѹчітєлѩ і прїдє къ Клєантѹ. Подъ нїмь тако прѣспѣ · ꙗко по смрьті єго правꙗашє стоїчьскѫ школѫ.",
     "originalText": "De hoc scribit Seneca quod fuit vir acerrimi ingenii, nec ad unius sectæ disciplinam contentus, sed omnes philosophorum opiniones perscrutatus est. Fuitque tantæ constantiæ et fortitudinis ut cum audivisset a quodam Stoicorum principem tunc esse Cleanthem, reliquit omnes alios magistros et se contulit ad Cleanthem. Sub quo tantum profecit quod post mortem eius scholam Stoicorum regebat.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX (ex Seneca)",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -130,8 +182,12 @@
     "stsl": "Болє боі сѧ ꙁълодѣꙗніꙗ нєжє ѹщрьба.",
     "originalText": "Magis formida crimen quam dampnum.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -140,8 +196,12 @@
     "stsl": "Боꙗті сѧ подобаєть ꙁлааго ісхода іꙁъ жітїꙗ · алі добродѣтєльно срамотꙑ въ жітїі.",
     "originalText": "Docet quidem formidare unumquemque malum vitæ exitum, virtuose vero ignominiam vite.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -150,8 +210,12 @@
     "stsl": "Аштє тѧ кѣгда постігнєть прїті въ смръртноѹ опасность · тѹі спасєніє своє въ мьнѣніі доброємь · а нє съ бєсчьстїємь · ꙗко сѫдьба бо всїмъ вꙑрєчє смръртьнѫ прїсѫдѫ · алі добрѣ ѹмрѣті єстество подаде ꙗко даръ добродѣтєльнꙑмъ.",
     "originalText": "Si quando tibi contingat mortis periculo intentari salutem tuam in opinione bona tuere, non autem cum infamia, nam mort quidem fortuna in omnes sentenciam promulgavit, bene autem mori naturæ propriæ virtuosis attribuit.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -160,8 +224,12 @@
     "stsl": "Въ ризахъ нємоі бꙑті нї прѣвєлїкѫ нї прѣмьрьно пажьлївъ.",
     "originalText": "In vestibus neque magnificus sis neque curiosus.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -170,8 +238,12 @@
     "stsl": "Прєꙁрі брѣгѫщꙗꙗ ѡ богатьствѣ · ніжє нє радѹѭть сѧ отъ обладаємааго · ꙗко тогда подобьни сѫть томѹ · іжє має конꙗ блага · алі нє вѣсть ꙗсдіті.",
     "originalText": "Contempne solicitos erga divitias, nequienties ubi in possessis, nam idem tunc pacinatur sicut si quis equum bonum habeat, prave sciena equitare.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -180,8 +252,12 @@
     "stsl": "Трѹдъ прїложіті подобаєть · аштє єсі любітєль мѫдрості.",
     "originalText": "Strenue ages si fueris amator sapienciæ.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -190,8 +266,12 @@
     "stsl": "Єжє вѣсі съхранꙗі чітаніємь · єжє жє ещє нє наѹчі сѧ стѧжаі ѹчєніємь.",
     "originalText": "Que nosti conserva lectionibus, que vero bondum didicisti disciplinis acquire.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -200,8 +280,12 @@
     "stsl": "Равьно єсть ꙁло · і нє ѹчіті сѧ · і ничтожє благо данно отъ дрѹга нє прїꙗті.",
     "originalText": "Eque addi alterum est optimus unde non addiscere et quicquid boni datum ab amicia nullatenus acceptare.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -210,8 +294,12 @@
     "stsl": "Твори такъ ꙁаконъ къ грѣшьнїкомъ · каковъ бі въжбалъ да сѧ творі тєбѣ.",
     "originalText": "Ita equa lege utere in peccantes ut utique in te reuni.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -220,8 +308,12 @@
     "stsl": "Бѫді єдінъ сѫдїꙗ єгда сѫдіші іньнꙑмъ · а дрѹгъ єгда сѫдіші сєбѣ.",
     "originalText": "Ergo, alius iudices sit alius erga te indicare oportet.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -230,8 +322,12 @@
     "stsl": "Нє любі прѣнаглааго смѣха · ніжє прїємлі слово съ горьчавостїѭ. Єдно єсть бєꙁѹмьно · дрѹго жє хладьно.",
     "originalText": "Nec risum precipitem diligas, nec verbum cum acrimonia acceptes. Illud enim amens, hoc vero frigosum est.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -240,8 +336,12 @@
     "stsl": "Съхранꙗі болє словъ нєжє вєщьі.",
     "originalText": "Serra magis verborum quam rerum deposita.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -250,8 +350,12 @@
     "stsl": "Нє стѧжаі дрѹга прѣждє нєжє іспытаєші · како сѧ прѣдръжашє къ прѣждьнїмъ дрѹгомъ · ꙗко можєші вѣроватї · да таковъ і тꙑ бѫдєші · каковъ бѣ къ нїмъ.",
     "originalText": "Neminem amicum concilies priusquam perconcteris quo pacto se gesserit erga priacos amicos, credas enim prius te huiusmodi futurum cuiusmodi erga illos fuit.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -260,8 +364,12 @@
     "stsl": "Помалѹ бѫді дрѹгъ · алі бꙑвъ настоꙗі да пръбꙑваєші · ꙗко равьно єсть ꙁло · і нє імѣті дрѹга · і многа мѣнꙗті.",
     "originalText": "Lentulus fias amicus, factus autem perseverare nitaris, eque enim malum est nullum habere amicum et multos mutare et alterare.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -270,8 +378,12 @@
     "stsl": "Ѡ тꙑхъ · ꙗжє хоштєші сътворіті дрѹгꙑ · рьці нѣчто благо.",
     "originalText": "Quoscumque velis tibi amicos facere, de hiis aliquid boni profer.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -280,7 +392,11 @@
     "stsl": "Ꙁлато іспꙑтѹєть сѧ въ огнѣ.",
     "originalText": "Aurum in igne probas.",
     "author": "Chrysippus",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXIX",
-    "reference": "XXIX"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXIX"
+      }
+    ]
   }
 ]

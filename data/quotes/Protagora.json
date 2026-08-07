@@ -6,8 +6,12 @@
     "stsl": "Протагора Артемоновъ Абдерꙗнинъ бѣ.",
     "originalText": "Πρωταγόρας Ἀρτέμωνος ἤ, ὡς Ἀπολλόδωρος καὶ Δίνων ἐν Περσικῶν εʹ, Μαιανδρίου, Ἀβδηρίτης.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.50"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.50"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Открыи єго Демокритъ · ꙗко дрова носить · ѹченикъ єго быстъ.",
     "originalText": "Τοῦτον Δημόκριτος ἰδὼν ξυλοφοροῦντα προσηγάγετο· καὶ μαθητὴς αὐτοῦ γέγονεν.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.53"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.53"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,8 +34,12 @@
     "stsl": "Пьрвыи софистомъ нарече сѧ и платꙋ за наставꙋ приѩтъ · пьрвыи искꙋснѹ ѹпотребꙋ слова поѹчааше.",
     "originalText": "Πρῶτος ἑαυτὸν σοφιστὴν προσηγόρευσε καὶ μισθὸν ἀπῄτει ἐπὶ λόγοις· πρῶτός τε περὶ τῆς χρήσεως τῶν λόγων ἐπεξῆλθεν.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.52"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.52"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -36,8 +48,12 @@
     "stsl": "Съвременникъ Сократовъ бѣ · по нѣкїимъ источникомъ преписьникъ Демокритовъ.",
     "originalText": "Ἦν δὲ κατὰ Σωκράτη· Εὔπολις δέ φησι Δημοκρίτου γράφειν τὰ συγγράμματα.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.50"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.50"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -46,8 +62,12 @@
     "stsl": "Атинꙗне ради безбожиꙗ изгнаша єго ради книги О бозѣхъ · книги на тръжишти съжжены.",
     "originalText": "Ἀθηναῖοι δ' αὐτὸν ἐξέβαλον ἀσεβείας ἐγκαλέσαντες διὰ τὸ περὶ θεῶν βιβλίον· ἃ καὶ κατέκαυσαν ἐν τῇ ἀγορᾷ.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.52"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.52"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -56,8 +76,12 @@
     "stsl": "Въ корабленомъ крꙋшении бѣжѧ отъ Атинъ ѹмрѣ · жити седмьдесѧтъ лѣтъ по Херминѹ · девѧтьдесѧтъ по Аполлодорѹ.",
     "originalText": "Ἀπέθανε δὲ πλέων ἐκ τῆς Ἀττικῆς, περὶ ἔτη γεγονὼς ἑβδομήκοντα· ὡς δέ τινες, ἐνενήκοντα.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.56"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.56"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -65,8 +89,12 @@
     "stsl": "О всѧкои вешти два слова сѫть · єдино дрѹгомѹ противьна ·",
     "originalText": "δύο λόγους εἶναι περὶ παντὸς πράγματος ἀντικειμένους ἀλλήλοις",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.51"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.51"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -74,8 +102,12 @@
     "stsl": "Чловѣкъ єсть мѣра вьсѣхъ вештии · сѫштихъ · ꙗко сѫть · и несѫштихъ · ꙗко не сѫть ·",
     "originalText": "πάντων χρημάτων μέτρον ἄνθρωπος, τῶν μὲν ὄντων ὡς ἔστιν, τῶν δὲ οὐκ ὄντων ὡς οὐκ ἔστιν",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.51"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.51"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -83,8 +115,12 @@
     "stsl": "Дѹша ничтоже єсть развѣ чѹвьствъ ·",
     "originalText": "μηδὲν εἶναι ψυχὴν παρὰ τὰς αἰσθήσεις",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.51"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.51"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -92,8 +128,12 @@
     "stsl": "Вьсѧ истинна сѫть ·",
     "originalText": "πάντα εἶναι ἀληθῆ",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.51"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.51"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -101,8 +141,12 @@
     "stsl": "О бозѣхъ не могѫ вѣдѣти ни ꙗко сѫть · ни ꙗко не сѫть · многа бо прѣпѧтьствѹѭтъ вѣдѣнию · и неꙗвьность вешти · и кратъкъ животъ чловѣчь ·",
     "originalText": "περὶ μὲν θεῶν οὐκ ἔχω εἰδέναι οὔθ' ὡς εἰσίν, οὔθ' ὡς οὐκ εἰσίν· πολλὰ γὰρ τὰ κωλύοντα εἰδέναι, ἥ τ' ἀδηλότης καὶ βραχὺς ὢν ὁ βίος τοῦ ἀνθρώπου",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.51–52"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.51–52"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -110,8 +154,12 @@
     "stsl": "Противословити невозможно єсть ·",
     "originalText": "οὐκ ἔστιν ἀντιλέγειν",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.53"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.53"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -119,8 +167,12 @@
     "stsl": "Четꙑри основьна образа слова сѫть · желаніє · въпросъ · отвѣтъ и повелѣніє ·",
     "originalText": "διεῖλέ τε τὸν λόγον πρῶτος εἰς τέτταρα· εὐχωλήν, ἐρώτησιν, ἀπόκρισιν, ἐντολήν",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.53–54"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.53–54"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -128,8 +180,12 @@
     "stsl": "Аще азъ прю противѹ тебѣ побѣждѫ · мьздѹ приѧти ми подобаєть · зане азъ побѣдихъ · аще ты побѣдиши · приѧти ми ѭ подобаєть · зане ты побѣдилъ єси ·",
     "originalText": "ἐγὼ μὲν ἂν νικήσω, ὅτι ἐγὼ ἐνίκησα, λαβεῖν με δεῖ· ἐὰν δὲ σύ, ὅτι σύ",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
-    "reference": "IX.56"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.56"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -137,9 +193,13 @@
     "stsl": "Прѣжде нежели ѹчитель бысть · Протагоръ бременоносьць бѣ · Изобрѣте подложеніє на рамо · на немьже бремена носѧть · Демокритъ же видѣ · колико хꙑтро свѧза ношѹ дръвъ · и таже єго въ ѹченика приѧтъ ·",
     "originalText": "Πρῶτος τὴν καλουμένην τύλην, ἐφ' ἧς τὰ φορτία βαστάζουσιν, εὗρεν· φορμοφόρος γὰρ ἦν. καὶ τοῦτον τὸν τρόπον ἤρθη πρὸς Δημοκρίτου ξύλα δεδεκὼς ὀφθείς.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -470,
-    "reference": "IX.53"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.53"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -147,9 +207,13 @@
     "stsl": "Протагоръ ѹ Демокрита ѹчи сѧ · всенародьна чтениꙗ за мьздѹ творѧше и законы панеллиньскомѹ градѹ Тѹриѧмъ състави ·",
     "originalText": "Διήκουσε δ' ὁ Πρωταγόρας Δημοκρίτου. Οὗτος καὶ Πρόδικος ὁ Κεῖος λόγους ἀναγινώσκοντες ἠρανίζοντο. Ἡρακλείδης ὁ Ποντικὸς ἐν τοῖς Περὶ νόμων φησὶν Θουρίοις νόμους γράψαι φησὶν αὐτόν.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -460,
-    "reference": "IX.50"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.50"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -157,9 +221,13 @@
     "stsl": "Протагоръ пьрвъ по чинѹ два противьна слова о всѧкомь въпросѣ съставлѧше · състѧзаниꙗ въ прѣнии творѧше и показа · како всѧко положено ѹтвръжденіє нападати и опровергати · Диогенъ ємѹ и пьрвоє ѹпотрѣбленіє образа бесѣды · послѣди сократичьскымъ нареченаго · приписѹєть ·",
     "originalText": "Καὶ πρῶτος ἔφη δύο λόγους εἶναι περὶ παντὸς πράγματος ἀντικειμένους ἀλλήλοις· οἷς καὶ συνηρώτα, πρῶτος τοῦτο πράξας. Καὶ λόγων ἀγῶνας ἐποιήσατο καὶ σοφίσματα τοῖς πραγματολογοῦσι προσήγαγε. Οὗτος καὶ τὸ Σωκρατικὸν εἶδος τῶν λόγων πρῶτος ἐκίνησε.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -450,
-    "reference": "IX.51–53"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.51–53"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -167,9 +235,13 @@
     "stsl": "Протагоръ пьрвъ глагольна врѣмена различи · силѹ подобьнаго часа изложи и основьныѩ образы слова раздѣли ·",
     "originalText": "Πρῶτος μέρη χρόνου διώρισε καὶ καιροῦ δύναμιν ἐξέθετο. Διεῖλέ τε τὸν λόγον πρῶτος εἰς τέτταρα· εὐχωλήν, ἐρώτησιν, ἀπόκρισιν, ἐντολήν.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -455,
-    "reference": "IX.52–54"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.52–54"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -177,57 +249,84 @@
     "stsl": "Протагоръ списание О бозѣхъ пьрвѹю всенародьно прочьте въ Атинахъ · по различьнымъ прѣданиемъ въ домѹ Еврипидовѣ или Мегаклидовѣ · или въ Ликеи гласомъ ѹченика Архагора ·",
     "originalText": "Πρῶτον δὲ τῶν λόγων ἑαυτοῦ ἀνέγνω τὸν Περὶ θεῶν, οὗ τὴν ἀρχὴν ἄνω παρεθέμεθα· ἀνέγνω δ' Ἀθήνησιν ἐν τῇ Εὐριπίδου οἰκίᾳ ἤ, ὥς τινες, ἐν τῇ Μεγακλείδου· ἄλλοι ἐν Λυκείῳ, μαθητοῦ τὴν φωνὴν αὐτῷ χρήσαντος Ἀρχαγόρου τοῦ Θεοδότου.",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -432,
-    "reference": "IX.54"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.54"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada je Protagora zatražio honorar od učenika Euatla, ovaj je odgovorio da još nije dobio nijednu parnicu. Protagora ga je tužio uz obrazloženje da će mu honorar pripasti u oba ishoda: ako dobije spor, po sudskoj presudi; ako ga izgubi, zato što je Euatlo tada dobio svoju prvu parnicu.",
     "stsl": "Єгда Протагоръ мьздѹ отъ ѹченика Еватла възиска · онъ отвѣща · ꙗко ни єдины прѧ єште не побѣди · Протагоръ єго на сѫдъ приведе · глаголѧ · ꙗко мьзда въ обою исходѹ ємѹ достанеть · аще прю побѣдить · по сѫдьнѣмѹ рѣшению · аще погѹбить · зане Еватлъ тогда пьрвѹю прю своѭ побѣдилъ бѹдеть ·",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -446,
-    "reference": "IX.56",
-    "originalText": "Λέγεται δέ ποτ' αὐτὸν ἀπαιτοῦντα τὸν μισθὸν Εὔαθλον τὸν μαθητήν, ἐκείνου εἰπόντος, \"ἀλλ' οὐδέπω νίκην νενίκηκα,\" εἰπεῖν, \"ἀλλ' ἐγὼ μὲν ἂν νικήσω, ὅτι ἐγὼ ἐνίκησα, λαβεῖν με δεῖ· ἐὰν δὲ σύ, ὅτι σύ.\""
+    "originalText": "Λέγεται δέ ποτ' αὐτὸν ἀπαιτοῦντα τὸν μισθὸν Εὔαθλον τὸν μαθητήν, ἐκείνου εἰπόντος, \"ἀλλ' οὐδέπω νίκην νενίκηκα,\" εἰπεῖν, \"ἀλλ' ἐγὼ μὲν ἂν νικήσω, ὅτι ἐγὼ ἐνίκησα, λαβεῖν με δεῖ· ἐὰν δὲ σύ, ὅτι σύ.\"",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.56"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Aristoksen i Favorin tvrdili su da se gotovo čitava Platonova Država već nalazila u Protagorinim Protivgovorima.",
     "stsl": "Аристоксенъ и Фаворинъ глаголаахѹ · ꙗко почти вьсѧ Платонова Дръжава вже въ Протагоровыхъ Противословиихъ обрѣтааше сѧ ·",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -437,
-    "reference": "III.37",
-    "originalText": "Ἀριστόξενος δὲ ἐν τρίτῳ Περὶ μουσικῆς καὶ Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὰ πλεῖστα αὐτῆς ἐν τοῖς Πρωταγόρου Ἀντιλογικοῖς φασιν εἶναι."
+    "originalText": "Ἀριστόξενος δὲ ἐν τρίτῳ Περὶ μουσικῆς καὶ Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὰ πλεῖστα αὐτῆς ἐν τοῖς Πρωταγόρου Ἀντιλογικοῖς φασιν εἶναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.37"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Zbog početka spisa O bogovima Atinjani su Protagoru prognali, a njegove knjige sakupili od vlasnika preko glasnika i javno spalili na trgu.",
     "stsl": "Ради начѧла списаниꙗ О бозѣхъ Атинѧне Протагора изгнаша · книгы же єго глашатаємъ отъ владѣтелии събраша и всенародьно на тръжишти съжегоша ·",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -429,
-    "reference": "IX.52",
-    "originalText": "Διὰ ταύτην δὲ τὴν ἀρχὴν τοῦ συγγράμματος ἐξεβλήθη πρὸς Ἀθηναίων· καὶ τὰ βιβλία αὐτοῦ κατέκαυσαν ἐν τῇ ἀγορᾷ, ὑπὸ κήρυκι ἀναλεξάμενοι παρ' ἑκάστου τῶν κεκτημένων."
+    "originalText": "Διὰ ταύτην δὲ τὴν ἀρχὴν τοῦ συγγράμματος ἐξεβλήθη πρὸς Ἀθηναίων· καὶ τὰ βιβλία αὐτοῦ κατέκαυσαν ἐν τῇ ἀγορᾷ, ὑπὸ κήρυκι ἀναλεξάμενοι παρ' ἑκάστου τῶν κεκτημένων.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.52"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Prema Filohoru, Protagora je posle progonstva plovio ka Siciliji i stradao kada je brod potonuo. Drugi su govorili da je umro na putu u dubokoj starosti.",
     "stsl": "По Филохорѹ Протагоръ по изгнании къ Сикилии пловѧше и погибе · єгда корабль потопе · Инии глаголаахѹ · ꙗко на пѫти въ глѹбоцѣ старости ѹмре ·",
     "author": "Protagoras",
-    "source": "diogenes-laertius",
     "year": -420,
-    "reference": "IX.55–56",
-    "originalText": "Φησὶ δὲ Φιλόχορος, πλέοντος αὐτοῦ εἰς Σικελίαν, τὴν ναῦν καταποντωθῆναι."
+    "originalText": "Φησὶ δὲ Φιλόχορος, πλέοντος αὐτοῦ εἰς Σικελίαν, τὴν ναῦν καταποντωθῆναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.55–56"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Epikur Protagoru nazivao nosačem drva, prepisivačem Demokrita i seoskim učiteljem gramatike.",
     "stsl": "Епикѹръ Протагора дрьвоносьцемъ нарицааше · преписателемъ Демокритовымъ и сельскымъ ѹчителемъ грамматикꙑ ·",
     "originalText": "φορμοφόρον τε Πρωταγόραν καὶ γραφέα Δημοκρίτου καὶ ἐν κώμαις γράμματα διδάσκειν·",
-    "author": ["Protagoras", "Epicurus"],
-    "source": "diogenes-laertius",
-    "reference": "X.8"
+    "author": [
+      "Protagoras",
+      "Epicurus"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "X.8"
+      }
+    ]
   }
 ]

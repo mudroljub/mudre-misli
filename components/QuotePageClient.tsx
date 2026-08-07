@@ -39,7 +39,13 @@ export default function QuotePageClient({
           <blockquote className={styles.originalQuote}>{quote.originalText}</blockquote>
 
           <p className={styles.sourceLine}>
-            <b>{t.source}</b>: {getSourceName(quote.source, language)}, {quote.reference}
+            <b>{t.source}</b>: {quote.sources.map((src, idx) => (
+              <span key={idx}>
+                {idx > 0 && "; "}
+                {getSourceName(src.name, language)}
+                {src.reference && `, ${src.reference}`}
+              </span>
+            ))}
           </p>
 
           <Link href={`/authors/${authorSlugs[authorKey] ?? authorKey}`}>

@@ -6,8 +6,12 @@
     "stsl": "Родисѧ въ Леонтинѣ · ѹченикъ Емпедокла отъ Акраганта бѣ · пръсвѣтьлъ витїꙗ · живѣ сто и девѧть лѣтъ.",
     "originalText": "Γοργίαν δὲ τὸν ῥήτορα τὸν Λεοντῖνον ἀκοῦσαί φασιν αὐτοῦ, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ βιώσαντα ἔτη ἑκατὸν ἐννέα.",
     "author": "Gorgias",
-    "source": "diogenes-laertius",
-    "reference": "VIII.58"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.58"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Слаѡнъ въ Атинахъ бѣ · ѹчітель Їсократа бѣ.",
     "originalText": "Gorgias, philosophus, leontinus, Athenis claruit. Hic sapientissimus fuit et magister Isocratis.",
     "author": "Gorgias",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXVI",
-    "reference": "XXVI"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXVI"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,8 +34,12 @@
     "stsl": "Врачь и пръсвѣтьлъ риторъ бѣ · Искꙋство риторства написа.",
     "originalText": "ἰατρὸς ἦν καὶ ῥήτωρ ἄριστος. Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ Τέχνην ἀπολελοιπότα.",
     "author": "Gorgias",
-    "source": "diogenes-laertius",
-    "reference": "VIII.59"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.59"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -36,8 +48,12 @@
     "stsl": "Антиѳенъ Атѣньскыи · основатель киньскыѩ школы · пьрво слꙋшааше Горгїю и отъ него риторьскыи образъ приѩтъ.",
     "originalText": "Οὗτος κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος· ὅθεν τὸ ῥητορικὸν εἶδος ἐν τοῖς διαλόγοις ἐπιφέρει.",
     "author": "Gorgias",
-    "source": "diogenes-laertius",
-    "reference": "VI.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.1"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -46,8 +62,12 @@
     "stsl": "Есхинъ Сократикъ близъкъ подражатель риторьскаго єго стилꙗ бѣ.",
     "originalText": "Μιμητής ἐστι τοῦ Γοργίου τοῦ Λεοντίνου.",
     "author": "Gorgias",
-    "source": "diogenes-laertius",
-    "reference": "II.63"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.63"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -56,8 +76,12 @@
     "stsl": "Проксенъ Беотїискыи · дрꙋгъ Кира Младшаго · ѹченикъ єго бѣ.",
     "originalText": "Πρόξενος Βοιώτιος, Γοργίου μαθητὴς τοῦ Λεοντίνου.",
     "author": "Gorgias",
-    "source": "diogenes-laertius",
-    "reference": "II.50"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.50"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -66,8 +90,12 @@
     "stsl": "Валєрїи повѣствѹєть въ пръвѣи книꙁѣ ѡ нємь · ꙗко родѧшє сѧ въ раць матєрѣ своєѩ · ꙗко бо нєсѹ тѣло жєны · вънєѕапѹ слꙑша сѧ ꙁъвѹкъ дѣтѧ.",
     "originalText": "Narrat Valerius libro primo de ipso quod in matris feretro siti natus, nam dum mulieris cadaver efferretur subito infantis vagitus auditus est.",
     "author": "Gorgias",
-    "source": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXVI (ex Valerio Maximo III, III, Ext. 2)",
-    "reference": "XXVI"
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XXVI"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -76,7 +104,11 @@
     "stsl": "Сатѵръ въ Жїтїахъ глаголєть · ꙗко Горгїа волшебьствомъ Емпєдокловꙋ прїсѫтьствова.",
     "originalText": "τοῦτόν φησιν ὁ Σάτυρος λέγειν ὡς αὐτὸς παρείη τῷ Ἐμπεδοκλεῖ γοητεύοντι.",
     "author": "Gorgias",
-    "source": "diogenes-laertius",
-    "reference": "VIII.59"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.59"
+      }
+    ]
   }
 ]

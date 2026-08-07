@@ -6,8 +6,12 @@
     "stsl": "Родисѧ въ Стагирѣ · сынъ Никомаха · врача македоньскаго царꙗ Аминтꙑ.",
     "originalText": "Ἀριστοτέλης Νικομάχου καὶ Φαιστίδος Σταγειρίτης· ὁ δὲ Νικόμαχος συνεβίου Ἀμύντᾳ τῷ Μακεδόνων βασιλεῖ ἰατροῦ καὶ φίλου χρείᾳ.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.1"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Къ Платонꙋ въ Академїю въ седмьнадесѧтѣмь лѣтѣ прїиде · двадесѧтъ лѣтъ прѣбы.",
     "originalText": "Παραβαλεῖν δὲ Πλάτωνι καὶ διατρῖψαι παρ' αὐτῷ εἴκοσιν ἔτη, ἑπτακαιδεκέτη συστάντα.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.9"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,8 +34,12 @@
     "stsl": "Платона єштє жива напѹсти · Платонъ рече ꙗко єго отринѹ ꙗкоже жрѣбѧ матерь.",
     "originalText": "Ἀπέστη δὲ Πλάτωνος ἔτι περιόντος· ὥστε φασὶν ἐκεῖνον εἰπεῖν, Ἀριστοτέλης ἡμᾶς ἀπελάκτισε καθαπερεὶ τὰ πωλάρια γεννηθέντα τὴν μητέρα.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.2"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -36,8 +48,12 @@
     "stsl": "Въ Македонїю къ Филипꙋ отиде · Александра за ѹченика приѩтъ · проси да Стагирꙋ обнови.",
     "originalText": "Ἐντεῦθέν τε γενέσθαι ἐν Μακεδονίᾳ παρὰ Φιλίππῳ καὶ λαβεῖν μαθητὴν παρ' αὐτοῦ τὸν υἱὸν Ἀλέξανδρον, καὶ αἰτῆσαι ἀναστῆσαι αὐτοῦ τὴν πατρίδα κατασκαφεῖσαν ὑπὸ Φιλίππου καὶ τυχεῖν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.4"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -46,8 +62,12 @@
     "stsl": "Въ Атинꙑ възврати сѧ · въ Лѵкеи тринадесѧтъ лѣтъ поѹчааше.",
     "originalText": "Εἰς δ' Ἀθήνας ἀφικέσθαι καὶ ἐν Λυκείῳ σχολάσαι ἔτη τρία πρὸς τοῖς δέκα.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.10"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -56,8 +76,12 @@
     "stsl": "Въ Халкидꙋ бѣжа · понеже Еѵримедонъ обвини єго въ безбожии ради пѣсни Хермїи.",
     "originalText": "Ὑπεξῆλθεν εἰς Χαλκίδα, Εὐρυμέδοντος αὐτὸν τοῦ ἱεροφάντου δίκην ἀσεβείας γραψαμένου, ἐπειδήπερ τὸν ὕμνον ἐποίησεν εἰς τὸν προειρημένον Ἑρμίαν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.5"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -66,8 +90,12 @@
     "stsl": "Въ Халкидѣ въ шестьдесѧтѣи третїеи годинѣ отъ болѣзни ѹмрѣ · по нѣкїимъ отрѹтꙋ попи.",
     "originalText": "Τελευτῆσαι ἐτῶν τριῶν που καὶ ἑξήκοντα νόσῳ· πιὼν ἀκόνιτον ἐτελεύτησεν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.6-10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.6-10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -75,8 +103,12 @@
     "stsl": "Срамотно єсть молчати и Ксенократѹ глаголати попѹстити ·",
     "originalText": "Αἰσχρὸν σιωπᾶν, Ξενοκράτη δ' ἐᾶν λέγειν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -84,8 +116,12 @@
     "stsl": "Кратъкъ животъ имаши · чѧдо · по словесемь · ѩже глаголеши ·",
     "originalText": "Ὠκύμορος δή μοι, τέκος, ἔσσεαι, οἷ' ἀγορεύεις.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -93,8 +129,12 @@
     "stsl": "Крѹша при крѹшѣ старѣєть и смокъвь при смокъви ·",
     "originalText": "Ὄγχνη ἐπ' ὄγχνῃ γηράσκει, σῦκον δ' ἐπὶ σύκῳ.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.9"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -102,8 +142,12 @@
     "stsl": "Лъжєцы сїє стѧжаютъ · єгда истинѫ глаголѭть · никтоже имъ вѣрѫ ємлеть ·",
     "originalText": "Ὅταν λέγωσιν ἀλήθειαν, μὴ πιστεύεσθαι.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -111,8 +155,12 @@
     "stsl": "Не нравъ єго жалихъ · нъ самого чловѣка ·",
     "originalText": "Οὐ τὸν τρόπον, ἀλλὰ τὸν ἄνθρωπον ἠλέησα.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -120,8 +168,12 @@
     "stsl": "Ꙗкоже око свѣтъ отъ въздѹха прїемлеть · тако и дѹша отъ мѣрословиѩ свѣтъ прїемлеть ·",
     "originalText": "Ὡς ἡ μὲν ὅρασις ἀπὸ τοῦ περιέχοντος ἀέρος λαμβάνει τὸ φῶς, ἡ δὲ ψυχὴ ἀπὸ τῶν μαθημάτων.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -129,8 +181,12 @@
     "stsl": "Атинѧне пшеницѫ и законы обрѣтоша · нъ пшеницѫ ѹпотрѣблѧютъ · законы же не творѧть ·",
     "originalText": "Πυροὺς μὲν εὑρόντας τοὺς Ἀθηναίους ὠφελεῖσθαι, νόμοις δὲ μή.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.17"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.17"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -138,8 +194,12 @@
     "stsl": "Корени наказаниѩ горьци сѫть · плодъ же єго сладъкъ ·",
     "originalText": "Τῆς παιδείας τὰς μὲν ῥίζας εἶναι πικράς, τὸν δὲ καρπὸν γλυκύν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.18"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.18"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -147,8 +207,12 @@
     "stsl": "Наи скоро старѣєть благодарьство ·",
     "originalText": "Τί γηράσκει ταχύ; χάρις.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.18"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.18"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -156,8 +220,12 @@
     "stsl": "Надѣжда єсть бдѧщь сънъ ·",
     "originalText": "Ἐγρηγορότος ἐνύπνιον.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.18"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.18"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -165,8 +233,12 @@
     "stsl": "Къ наказанию нѫждьно єсть єстєствьно дарование · ѹченіє и непрѣстаньноє ѹпражненіє ·",
     "originalText": "Τριῶν δεῖν παιδείᾳ, φύσεως, μαθήσεως, ἀσκήσεως.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.18"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.18"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -174,8 +246,12 @@
     "stsl": "Да и биєть мѧ · тъкмо да въ моє отьсѫтъствиє то творить ·",
     "originalText": "Ἀπόντα με καὶ μαστιγούτω.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.18"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.18"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -183,8 +259,12 @@
     "stsl": "Наказани отъ ненаказаныхъ тако разньствѫѭть · ѩкоже живи отъ мрътвыхъ ·",
     "originalText": "ὅσῳ οἱ ζῶντες τῶν τεθνεώτων.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.19"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.19"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -192,8 +272,12 @@
     "stsl": "Възпитаніє єсть строи въ благоденьствии и прибѣжище въ напасти ·",
     "originalText": "Ἡ παιδεία κόσμος ἐν ταῖς εὐτυχίαις, καταφυγὴ δὲ ἐν ταῖς ἀτυχίαις.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.19"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.19"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -201,8 +285,12 @@
     "stsl": "Ѹчителѥ болшиѭ чьсть достоини сѫть паче родителѥи · сии животъ дають · они же добръ животъ ·",
     "originalText": "Τους παιδεύσαντας ἐντιμοτέρους εἶναι τῶν γεννησάντων· τοὺς μὲν γὰρ τὸ ζῆν, τοὺς δὲ τὸ καλῶς ζῆν παρασχέσθαι.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.19"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.19"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -210,8 +298,12 @@
     "stsl": "Не то важно · отъ коєго єси великаго града · нъ аще достоинъ єси великыѩ отьчьства ·",
     "originalText": "Οὐ τοῦτο δεῖ σκοπεῖν, ἀλλ' ὅστις μεγάλης πατρίδος ἄξιός ἐστιν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.19"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.19"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -219,8 +311,12 @@
     "stsl": "Дрѹгъ єсть єдина дѹша · въ двою тѣлѹ прѣбывающи ·",
     "originalText": "Μία ψυχὴ δύο σώμασιν ἐνοικοῦσα.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.20"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.20"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -228,8 +324,12 @@
     "stsl": "Єже ми любомѫдриє даде · сїє єсть · безъ повелѣниѩ творю · єже инии страхомъ законьнымъ творѧть ·",
     "originalText": "Τὸ ἀνεπιτάκτως ποιεῖν ἅ τινες διὰ τὸν ἀπὸ τῶν νόμων φόβον ποιοῦσιν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.20"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.20"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -237,8 +337,12 @@
     "stsl": "Ѹченицы прѣспѣваютъ · єгда крѣпко на прѣдъстоꙗщѧ напираютъ · а не ждѫть заднихъ ·",
     "originalText": "ἐὰν τοὺς προέχοντας διώκοντες τοὺς ὑστεροῦντας μὴ ἀναμένωσι.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.20"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.20"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -246,8 +350,12 @@
     "stsl": "Дрѹгомъ подобаєть творити · єже хощемъ · да и тии намъ творѧть ·",
     "originalText": "ὡς ἂν εὐξαίμεθα αὐτοὺς ἡμῖν προσφέρεσθαι.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.21"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -255,8 +363,12 @@
     "stsl": "Правда єсть добродѣтель дѹши · раздѣлѧющи по достоиньствѹ ·",
     "originalText": "ἀρετὴν ψυχῆς διανεμητικὴν τοῦ κατ' ἀξίαν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.21"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -264,8 +376,12 @@
     "stsl": "Наказаніє єсть наилѹчьша приправѧ къ старости ·",
     "originalText": "Κάλλιστον ἐφόδιον τῷ γήρᾳ τὴν παιδείαν.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.21"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -273,160 +389,228 @@
     "stsl": "Иже многы дрѹгы имать · истинаго дрѹга не имать ·",
     "originalText": "Ὧ φίλοι οὐδεὶς φίλος.",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.21"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.21"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Aristotel je govorio da se filozofija deli na praktičnu i teorijsku.",
     "stsl": "Аристотель глаголаше · ꙗко любомѫдриє на дѣлатєльноє и зрьтєльноє раздѣлѧєтъ сѧ ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.28",
-    "originalText": "Τῆς φιλοσοφίας τὸ μὲν πρακτικὸν εἶναι, τὸ δὲ θεωρητικόν."
+    "originalText": "Τῆς φιλοσοφίας τὸ μὲν πρακτικὸν εἶναι, τὸ δὲ θεωρητικόν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.28"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Aristotel je govorio da je cilj etike delatna vrlina u dovršenom životu.",
     "stsl": "Аристотель глаголаше · ꙗко цѣль нравьнаго любомѫдриѩ єсть дѣлатєльна добродѣтель въ съврьшенѣмь животѣ ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.30",
-    "originalText": "Τὸ δὲ τέλος εἶναι τῆς ἠθικῆς τὴν κατ' ἀρετὴν ἐνέργειαν ἐν βίῳ τελείῳ."
+    "originalText": "Τὸ δὲ τέλος εἶναι τῆς ἠθικῆς τὴν κατ' ἀρετὴν ἐνέργειαν ἐν βίῳ τελείῳ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.30"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Aristotel je govorio da se sreća sastoji od dobara duše, tela i spoljašnjih dobara.",
     "stsl": "Аристотель глаголаше · ꙗко блаженьство състоитъ отъ благъ дѹши · тѣла и вънѣшнихъ благъ ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.30",
-    "originalText": "Συνίστασθαί τε τὴν εὐδαιμονίαν ἔκ τε ψυχικῶν ἀγαθῶν καὶ σωματικῶν καὶ ἐκτῶν."
+    "originalText": "Συνίστασθαί τε τὴν εὐδαιμονίαν ἔκ τε ψυχικῶν ἀγαθῶν καὶ σωματικῶν καὶ ἐκτῶν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.30"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Aristotel je govorio da sama vrlina nije dovoljna za sreću ako nedostaju telesna i spoljašnja dobra.",
     "stsl": "Аристотель глаголаше · ꙗко сама добродѣтель не довлѣєть къ блаженьствѹ · аще тѣлєсныѩ и вънѣшнѧ блага оскѹдѣваютъ ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.30",
-    "originalText": "Καὶ μὴ ἱκανὴν εἶναι τὴν ἀρετὴν μόνην πρὸς εὐδαιμονίαν ἀλλὰ δεῖσθαι καὶ σωματικῶν ἀγαθῶν καὶ ἐκτός."
+    "originalText": "Καὶ μὴ ἱκανὴν εἶναι τὴν ἀρετὴν μόνην πρὸς εὐδαιμονίαν ἀλλὰ δεῖσθαι καὶ σωματικῶν ἀγαθῶν καὶ ἐκτός.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.30"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Aristotel je govorio da je prijateljstvo jednakost uzajamne dobrovolje.",
     "stsl": "Аристотель глаголаше · ꙗко дрѹжьба єсть равьньство взаимьнаго благоволениѩ ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.31",
-    "originalText": "Τὴν φιλίαν ἰσότητα εἶναι εὐνοϊκήν."
+    "originalText": "Τὴν φιλίαν ἰσότητα εἶναι εὐνοϊκήν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.31"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Aristotel je govorio da među načinima života prvenstvo pripada posmatračkom, a ne životu uživanja.",
     "stsl": "Аристотель глаголаше · ꙗко междѹ образьми живота прѣдьньство имать зрьтєльныи · а не сластьнолюбьныи ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.31",
-    "originalText": "Τῶν τε βίων τὸν θεωρητικὸν εἶναι προτιμότερον."
+    "originalText": "Τῶν τε βίων τὸν θεωρητικὸν εἶναι προτιμότερον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.31"
+      }
+    ]
   },
   {
     "type": "reported",
     "sr": "Aristotel je govorio da je duša prva ostvarenost prirodnog organskog tela koje u mogućnosti ima život.",
     "stsl": "Аристотель глаголаше · ꙗко дѹша єсть пьрва энтелехїѧ єстєствьнаго органьскаго тѣла · животъ въ възможьности имѹща ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
-    "reference": "V.32–33",
-    "originalText": "Τὴν ψυχὴν ἐντελέχειαν εἶναι πρώτην σώματος φυσικοῦ ὀργανικοῦ δυνάμει ζωὴν ἔχοντος."
+    "originalText": "Τὴν ψυχὴν ἐντελέχειαν εἶναι πρώτην σώματος φυσικοῦ ὀργανικοῦ δυνάμει ζωὴν ἔχοντος.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.32–33"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Platon je govorio da ga Aristotel odbacuje kao što ždrebe udara majku koja ga je okotila.",
     "stsl": "Платонъ глаголаше · ꙗко Аристотель єго отрицаєть · ꙗкоже жребѧ мати · ѩже єго роди · ногами бїєть ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -384,
-    "reference": "V.2",
-    "originalText": "Πλάτων δ' αὐτὸν λακτίζειν ἔλεγεν ὥσπερ τὰ πῶλα τὰς μητέρας."
+    "originalText": "Πλάτων δ' αὐτὸν λακτίζειν ἔλεγεν ὥσπερ τὰ πῶλα τὰς μητέρας.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.2"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada je napustio Akademiju, Aristotel je u Likeju šetajući sa učenicima raspravljao o filozofiji, pa su njega i školu po tome zvali peripatetičkim.",
     "stsl": "Єгда Академию остави · Аристотель въ Ликеи ходѧ съ ѹченики о любомѫдрии прѣнїє творѧше · и по томь и самъ и школа перипатєтичьскы наречени быша ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -376,
-    "reference": "V.2",
-    "originalText": "Μεταστὰς δὲ εἰς τὸ Λύκειον περιπατῶν ἐφιλοσόφει μετὰ τῶν μαθητῶν μέχρι ἀλειπτικῆς ὥρας."
+    "originalText": "Μεταστὰς δὲ εἰς τὸ Λύκειον περιπατῶν ἐφιλοσόφει μετὰ τῶν μαθητῶν μέχρι ἀλειπτικῆς ὥρας.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.2"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Aristotel je bio učitelj Aleksandra, isposlovao je obnovu razorenog Stagira i dao zakone njegovim stanovnicima.",
     "stsl": "Аристотель ѹчитель Александровъ бысть · създаніє разорєнаго Стагиры исходатаиствова и законы єго жителємъ даде ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -368,
-    "reference": "V.4",
-    "originalText": "Ἀλεξάνδρου γενόμενος διδάσκαλος ᾔτησεν αὐτὸν τὴν Στάγειραν ἀνακτίσαι κατεσκαμμένην."
+    "originalText": "Ἀλεξάνδρου γενόμενος διδάσκαλος ᾔτησεν αὐτὸν τὴν Στάγειραν ἀνακτίσαι κατεσκαμμένην.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.4"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada je Kalisten slobodnije govorio Aleksandru, Aristotel ga je upozorio stihom da će kratko živeti; ubrzo je Kalisten završio tragično.",
     "stsl": "Єгда Каллѵсѳєнъ свободьнѣ къ Алєѯандрѹ глаголаашє · Аристотєль рѣчиѩ ѥго прѣдостєрєжє · ꙗко кратъко поживєтъ · въскорѣ Каллѵсѳєнъ лютѫ коньчинѫ приꙗтъ ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -361,
-    "reference": "V.5",
-    "originalText": "Καλλισθένους δὲ ἐλευθεριάζοντος πρὸς τὸν Ἀλέξανδρον ἔφη πρὸς αὐτόν· « Ὀψὲ καὶ ταχέως λαλήσεις. »"
+    "originalText": "Καλλισθένους δὲ ἐλευθεριάζοντος πρὸς τὸν Ἀλέξανδρον ἔφη πρὸς αὐτόν· « Ὀψὲ καὶ ταχέως λαλήσεις. »",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.5"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Kada mu je Diogen ponudio suve smokve da ga navede na podsmeh, Aristotel ih je uzeo i našalio se da je Diogen izgubio i smokve i dosetku.",
     "stsl": "Єгда ємѹ Диогенъ сѹхыѩ смоквы подаде · да єго къ порѹганию приведе · Аристотель ихъ прїѧтъ и пошѫти · ꙗко Диогенъ и смоквы и остротѫ погѹби ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -353,
-    "reference": "V.18",
-    "originalText": "Διογένους δὲ ἰσχάδας προτείναντος αὐτῷ καὶ νομίσαντος ὅτι, ἐὰν μὴ λάβῃ, ἐρεῖ τι σκῶμμα, λαβεῖν καὶ μετεωρίσαντα ὥσπερ τὰ παιδία, εἰπεῖν « Μέγας Διογένης », καὶ ἀποδοῦναι."
+    "originalText": "Διογένους δὲ ἰσχάδας προτείναντος αὐτῷ καὶ νομίσαντος ὅτι, ἐὰν μὴ λάβῃ, ἐρεῖ τι σκῶμμα, λαβεῖν καὶ μετεωρίσαντα ὥσπερ τὰ παιδία, εἰπεῖν « Μέγας Διογένης », καὶ ἀποδοῦναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.18"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Brbljivcu koji ga je zatrpao rečima i pitao da li ga je zamorio odgovorio je da ga nije ni slušao.",
     "stsl": "Многорѣчивомѹ · иже єго словесы затопи и въпроси · аще єго ѹтрѹжди · отвѣща · ꙗко єго и не слѹшаше ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -345,
-    "reference": "V.20",
-    "originalText": "Πρὸς τὸν πολλὰ εἰπόντα καὶ ἐρόμενον εἰ κεκόφωκεν « Οὐδαμῶς, » ἔφη, « σοῦ γ' ἕνεκα· ὑπ' οὐδενὸς γὰρ φειδοῖ πρὸς τὸ λέγειν κέχρησαι. »"
+    "originalText": "Πρὸς τὸν πολλὰ εἰπόντα καὶ ἐρόμενον εἰ κεκόφωκεν « Οὐδαμῶς, » ἔφη, « σοῦ γ' ἕνεκα· ὑπ' οὐδενὸς γὰρ φειδοῖ πρὸς τὸ λέγειν κέχρησαι. »",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.20"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Predanje kaže da je za tu istu parnicu prvi sastavio odbrambeni sudski govor napisan u svoje ime.",
     "stsl": "Прѣданіє глаголєть · ꙗко къ томѹ же сѫдѹ пьрвыи самъ себѣ писанѹ защитьнѫ рѣчь съчини ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -337,
-    "reference": "V.9",
-    "originalText": "Πρῶτόν τε λόγον ἀπολογίας γράψαι ἑαυτῷ ἐν δικαστηρίῳ μέλλοντι χρήσασθαι."
+    "originalText": "Πρῶτόν τε λόγον ἀπολογίας γράψαι ἑαυτῷ ἐν δικαστηρίῳ μέλλοντι χρήσασθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.9"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Optužen za bezbožnost zbog himne Hermiji, Aristotel se povukao iz Atine u Halkidu.",
     "stsl": "Въ безбожии за пѣснь Хермїи обвиненъ · Аристотель изъ Атинъ въ Халкїдѫ отиде ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -330,
-    "reference": "V.6",
-    "originalText": "Ἀσεβείας δὲ γραφεὶς ἐξεχώρησεν εἰς Χαλκίδα, μεμνημένος τῶν Σωκράτει συμβάντων καὶ οὐκ ἐῶν Ἀθηναίους δὶς εἰς φιλοσοφίαν ἐξαμαρτεῖν."
+    "originalText": "Ἀσεβείας δὲ γραφεὶς ἐξεχώρησεν εἰς Χαλκίδα, μεμνημένος τῶν Σωκράτει συμβάντων καὶ οὐκ ἐῶν Ἀθηναίους δὶς εἰς φιλοσοφίαν ἐξαμαρτεῖν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.6"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Aristotel je u oporuci naložio brigu o deci, oslobađanje više robova i da njegove kosti budu položene uz kosti Pitijade, po njenoj želji.",
     "stsl": "Аристотель въ завѣштании заповѣда о дѣцѣхъ попечєніє · мнозѣхъ рабовъ освобождєніє и да кости єго при костехъ Пѵѳїады положени бѫдѫть · по єѧ воли ·",
     "author": "Aristotle",
-    "source": "diogenes-laertius",
     "year": -322,
-    "reference": "V.12–16",
-    "originalText": "Διέθετο δὲ καὶ ὧδε· « Ἔσται μὲν καλῶς· ἐὰν δέ τι συμβαίνῃ, Ἀριστοτέλης τάδε διέθετο. »"
+    "originalText": "Διέθετο δὲ καὶ ὧδε· « Ἔσται μὲν καλῶς· ἐὰν δέ τι συμβαίνῃ, Ἀριστοτέλης τάδε διέθετο. »",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.12–16"
+      }
+    ]
   }
 ]

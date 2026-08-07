@@ -6,8 +6,12 @@
     "stsl": "Родисѧ въ Атинахъ · отьць ємѹ Атинꙗнинъ бѣ · мати же Фракїиска ·",
     "originalText": "Ἀντισθένης Ἀθηναῖος, πατρὸς Ἀντισθένους· ἐδόκει γὰρ εἶναι Θρᾴττης μητρός.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.1"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Оученикъ Горгїи риторовъ · послѣди слꙑшааше Сократа ·",
     "originalText": "Κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος. Ὕστερον δὲ παρέβαλε Σωκράτει.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.2"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,8 +34,12 @@
     "stsl": "Въ Пѵреи живѧаше · на вьсѧкъ дьнь четыредесѧть стадїевъ до Атинъ пѣшь ходѧаше · да Сократа слꙑшаеть ·",
     "originalText": "Οἰκῶν τ' ἐν Πειραιεῖ καθ' ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.2"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -36,8 +48,12 @@
     "stsl": "Въ ѹчилишти Кѵносаргъ поѹчааше · пьрвыи плашть вдвое сложи и тꙋ єдинꙋ одеждꙋ · жезлъ и торбꙋ ношааше · Пьсомъ нарицаахѹ єго ·",
     "originalText": "Διελέγετο δ' ἐν τῷ Κυνοσάργει γυμνασίῳ· αὐτός τ' ἐπεκαλεῖτο Ἁπλοκύων. Καὶ πρῶτος ἐδίπλωσε τὸν τρίβωνα, καὶ μόνῳ αὐτῷ ἐχρῆτο· βάκτρον τ' ἀνέλαβε καὶ πήραν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.13"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.13"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -46,8 +62,12 @@
     "stsl": "Дѣла въ десѧти свѧзъкахъ написа · Теопомпъ хвалить єго ꙗко єдиного Сократовьца достоина похвалы ·",
     "originalText": "Γεγόνασι δ' αὐτοῦ τόμοι δέκα. Ὁ δὲ Θεόπομπος αὐτὸν τῶν Σωκρατικῶν μόνον ἄξιόν φησιν ἐπαίνου.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.15"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.15"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -56,8 +76,12 @@
     "stsl": "Отъ болѣзни ѹмрѣ · Діогенъ съ ножемъ єго посѣти ·",
     "originalText": "Τοῦτον ἀρρωστίᾳ ἐνοχλούμενον Διογένης, παρελθὼν καὶ ἐγχειρίδιον ἔχων.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.18"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.18"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -65,8 +89,12 @@
     "stsl": "И мати боговъ Фрѵгииска єсть ·",
     "originalText": "Καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.1"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -74,8 +102,12 @@
     "stsl": "Атинѧне тѣмь · ꙗко глаголѭть сѧ отъ своєѩ землѩ рожденными · не благородьнѣиши сѫть пѹжевъ и бескрилыхъ прѹговъ ·",
     "originalText": "τοὺς Ἀθηναίους ... ἔλεγε μηδὲν εἶναι κοχλιῶν καὶ ἀττελέβων εὐγενεστέρους.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.1"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -83,8 +115,12 @@
     "stsl": "Антисѳенъ ѹченикомъ своимъ съвѣтова · да съ нимь въкѹпѣ Сократовы ѹченици бѫдѫть ·",
     "originalText": "παρῄνει τοῖς μαθηταῖς γενέσθαι αὐτῷ πρὸς Σωκράτην συμμαθητάς.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.2"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -92,8 +128,12 @@
     "stsl": "Болѣзнь добро єсть · ꙗкоже Хераклъ и Киръ показѹєта ·",
     "originalText": "ὁ πόνος ἀγαθὸν συνέστησε διὰ τοῦ μεγάλου Ἡρακλέους καὶ τοῦ Κύρου.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.2"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -101,8 +141,12 @@
     "stsl": "Изреченіє єсть то · єже показѹєть · что вещь єсть или бѣ ·",
     "originalText": "Λόγος ἐστὶν ὁ τὸ τί ἦν ἢ ἔστι δηλῶν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -110,8 +154,12 @@
     "stsl": "Паче бы безѹмьнъ быти изволилъ · нежели сластъ оштѹтити ·",
     "originalText": "Μανείην μᾶλλον ἢ ἡσθείην.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -119,8 +167,12 @@
     "stsl": "Подобаєть любити жены · ꙗже благодарьны быти ѹмѣѭть ·",
     "originalText": "Χρὴ τοιαύταις πλησιάζειν γυναιξὶν αἳ χάριν εἴσονται.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -128,8 +180,12 @@
     "stsl": "Аште ѹмъ имаши · прииди съ новою книгою · новымъ писаломъ и новыми дъштицами ·",
     "originalText": "Βιβλαρίου καινοῦ καὶ γραφείου καινοῦ καὶ πινακιδίου καινοῦ.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -137,8 +193,12 @@
     "stsl": "Аште красною женою ожениши сѧ · не тъкмо твоѩ бѹдеть · аште грѫбою ожениши сѧ · дорого заплатиши ·",
     "originalText": "Ἂν μὲν καλήν, ἕξεις κοινήν, ἂν δὲ αἰσχράν, ἕξεις ποινήν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -146,8 +206,12 @@
     "stsl": "Царьскоє достоꙗніє єсть добро творити и зъла словеса о себѣ слѹшати ·",
     "originalText": "Βασιλικόν ... καλῶς ποιοῦντα κακῶς ἀκούειν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -155,8 +219,12 @@
     "stsl": "Аште посвѧштении въ обрѧды многа блага въ Адѣ приємлѭть · почто жрьць не ѹмреть ·",
     "originalText": "Τί οὖν οὐκ ἀποθνήσκεις;",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.4"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -164,8 +232,12 @@
     "stsl": "Родителѧ моѩ не оба борьца бѣста · обаче азъ борьць єсмь ·",
     "originalText": "Οὐδὲ γὰρ ἐκ δύο παλαιστικῶν, ἀλλὰ παλαιστικός εἰμι.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.4"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -173,8 +245,12 @@
     "stsl": "Мало ѹченикъ имамъ · зане сребрьнымъ жезломъ ѩ изгонѭ ·",
     "originalText": "Ὅτι ἀργυρέᾳ αὐτοὺς ἐκβάλλω ῥάβδῳ.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.4"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -182,8 +258,12 @@
     "stsl": "И лѣкарє грѫби къ своимъ болѧштимъ сѫть ·",
     "originalText": "Καὶ οἱ ἰατροί τοῖς κάμνουσιν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.4"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -191,8 +271,12 @@
     "stsl": "Окаꙗнниче · каковы бѣды за єдинъ оболъ избѣшти моглъ єси ·",
     "originalText": "Ὡς δυστυχής· πηλίκον κίνδυνον ὀβολοῦ διαφυγεῖν ἐδύνασο.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.4"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -200,8 +284,12 @@
     "stsl": "Лѹчьше въпасти междѹ враны · нежели междѹ ласкателє · пьрвии тѧ мрьтва пожираѭть · дрѹзии же жива ·",
     "originalText": "Κρεῖττον ... εἰς κόρακας ἢ εἰς κόλακας ἐμπεσεῖν· οἱ μὲν γὰρ νεκρούς, οἱ δὲ ζῶντας ἐσθίουσιν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.4"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -209,8 +297,12 @@
     "stsl": "Връхъ чловѣчьскаго блаженьства єсть съчастьнѹ ѹмрѣти ·",
     "originalText": "Εὐτυχοῦντα ἀποθανεῖν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -218,8 +310,12 @@
     "stsl": "Памѧти подобаше ти въ ѹмъ свои вписати · не на хартии ·",
     "originalText": "Ἔδει ... ἐν τῇ ψυχῇ αὐτὰ καὶ μὴ ἐν τοῖς χαρτίοις καταγράφειν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -227,8 +323,12 @@
     "stsl": "Ꙗкоже ръжа желѣзо поꙗдаєть · тако завистьливыѩ своѩ страсть поꙗдаєть ·",
     "originalText": "Ὥσπερ ὑπὸ τοῦ ἰοῦ τὸν σίδηρον, οὕτως ... τοὺς φθονεροὺς ὑπὸ τοῦ ἰδίου ἤθους κατεσθίεσθαι.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -236,8 +336,12 @@
     "stsl": "Иже бесмрьтиꙗ хоштеть · благочьстьно и правьдьно жити подобаєть ·",
     "originalText": "Τοὺς βουλομένους ἀθανάτους εἶναι ... εὐσεβῶς καὶ δικαίως ζῆν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -245,8 +349,12 @@
     "stsl": "Дръжавы погыбаѭть · єгда добрыхъ чловѣкъ отъ зълыхъ различити не ѹмѣѭть ·",
     "originalText": "Τότ' ... τὰς πόλεις ἀπόλλυσθαι, ὅταν μὴ δύνωνται τοὺς φαύλους ἀπὸ τῶν σπουδαίων διακρίνειν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -254,8 +362,12 @@
     "stsl": "Єгда ми зълии чловѣци плещѹть лютѣ боѭ сѧ ꙗко нѣчто погрѣшьно сътворихъ ·",
     "originalText": "Ἐπαινούμενός ποτε ὑπὸ πονηρῶν ... ἀγωνιῶ μή τι κακὸν εἴργασμαι.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -263,8 +375,12 @@
     "stsl": "Єгда братиꙗ съгласьна сѫть · ни єдина твръдь не єсть крѣпка ꙗкоже обьштии животъ ихъ ·",
     "originalText": "Ὁμονοούντων ἀδελφῶν συμβίωσιν παντὸς ἔφη τείχους ἰσχυροτέραν εἶναι.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -272,8 +388,12 @@
     "stsl": "На пѫть то понести подобаєть · єже и по разбиении кораблѧ съ тобою плыветь ·",
     "originalText": "Τοιαῦτ' ἔφη δεῖν ἐφόδια ποιεῖσθαι ἃ καὶ ναυαγήσαντι συγκολυμβήσει.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -281,8 +401,12 @@
     "stsl": "Лѣкарє при болѧштихъ прѣбываѭть · сами же огньнице не приємлѭть ·",
     "originalText": "Καὶ οἱ ἰατροί ... μετὰ τῶν νοσούντων εἰσίν, ἀλλ' οὐ πυρέττουσιν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.6"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -290,8 +414,12 @@
     "stsl": "Дивьно єсть · ꙗко отъ жита плѣвєлъ отъимаємъ и отъ воискы неспособьныѩ · зълыѩ же чловѣкы отъ градьскыѩ слѹжьбы не отълѹчаємъ ·",
     "originalText": "Ἄτοπον ... τοῦ μὲν σίτου τὰς αἴρας ἐκλέγειν ... ἐν δὲ πολιτείᾳ τοὺς πονηροὺς μὴ παραιτεῖσθαι.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.6"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -299,8 +427,12 @@
     "stsl": "Отъ любомѫдриꙗ приѧхъ силѹ съ собою бесѣдовати ·",
     "originalText": "Τὸ δύνασθαι ἑαυτῷ ὁμιλεῖν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.6"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -308,8 +440,12 @@
     "stsl": "Аште хоштеши да поѭ · съпровождаи мѧ на свирѣли ·",
     "originalText": "Σύ μοι αὔλησον.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.6"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -317,8 +453,12 @@
     "stsl": "Плашть свои вдвое сложи ·",
     "originalText": "Διογένει ... πτύξαι προσέταξε θοἰμάτιον.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.6"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.6"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -326,8 +466,12 @@
     "stsl": "Наипотребьнѣє єсть наѹчити сѧ · како отъ погрѣшьно наѹченаго освободити сѧ ·",
     "originalText": "Τὸ περιαιρεῖν ... τὸ ἀπομανθάνειν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.7"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.7"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -335,8 +479,12 @@
     "stsl": "Клеветꙫ подобаєть храбрѣє камениꙗ тръпѣти ·",
     "originalText": "κακῶς ἀκούοντας καρτερεῖν μᾶλλον ἢ εἰ λίθοις τις βάλλοιτο.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.7"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.7"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -344,8 +492,12 @@
     "stsl": "Платоне · мнить ми сѧ · ꙗко таковыи гордыи и величавыи конь былъ бы єси ·",
     "originalText": "Ἐδόκεις μοι καὶ σὺ ἵππος ἂν εἶναι λαμπρυντής.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.7"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.7"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -353,8 +505,12 @@
     "stsl": "Жлъчь виждꙫ · гордости же не виждꙫ ·",
     "originalText": "Χολὴν μὲν ὁρῶ ἐνταῦθα, τῦφον δὲ οὐχ ὁρῶ.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.7"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.7"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -362,8 +518,12 @@
     "stsl": "Аште осли гласованіємъ кони быти не могѫть · како чловѣци безъ вьсѧкаго обѹчениꙗ гласованіємъ воєводы бываѭть ·",
     "originalText": "καὶ στρατηγοί ... γίνονται παρ' ὑμῖν μηδὲν μαθόντες, μόνον δὲ χειροτονηθέντες.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.8"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -371,8 +531,12 @@
     "stsl": "Мнози мѧ хвалѧть · Каково зло сътворихъ ·",
     "originalText": "Τί γάρ ... κακὸν πεποίηκα;",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.8"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -380,8 +544,12 @@
     "stsl": "Отъ вѣдѫштихъ подобаєть ти наѹчити сѧ · кыѩ своѩ порокы избѣгати имаши ·",
     "originalText": "εἰ τὰ κακὰ ἃ ἔχεις ὅτι φευκτά ἐστι μάθοις παρὰ τῶν εἰδότων.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.8"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -389,8 +557,12 @@
     "stsl": "Да сынове враговъ твоихъ въ роскоши живѫть ·",
     "originalText": "Ἐχθρῶν παῖδες ... τρυφήσειαν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.8"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.8"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -398,8 +570,12 @@
     "stsl": "Аште бы мѣдь красотою своєю гордила сѧ · не стыдиши ли сѧ · ꙗко тоижде вещи ꙗкоже бездѹшьна вещь радѹєши сѧ ·",
     "originalText": "εἰ φωνὴν λάβοι ὁ χαλκός ... ἐπὶ κάλλει ... Οὐκ αἰσχύνῃ οὖν ... τὰ ὅμοια γεγηθὼς ἀψύχῳ;",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.9"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -407,8 +583,12 @@
     "stsl": "Юноша за мѫкꙫ заплатить · єгда корабль єго съланыхъ рыбъ пълнъ приидеть ·",
     "originalText": "Ὁ νεανίσκος δώσει ἐὰν τὸ πλοῖον αὐτοῦ τῶν ταρίχων ἀφίκηται.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.9"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.9"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -416,8 +596,12 @@
     "stsl": "Антисѳенъ посмѣвьно глаголаше · ꙗко Анитъ мѫдрѣиши Сократа єсть ·",
     "originalText": "Ποντικοῖς γὰρ νεανίσκοις κατὰ κλέος τοῦ Σωκράτους ἀφιγμένοις περιτυχὼν ἀπήγαγεν αὐτοὺς πρὸς τὸν Ἄνυτον, εἰπὼν ἐν ἤθει σοφώτερον εἶναι τοῦ Σωκράτους.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -425,8 +609,12 @@
     "stsl": "Аште мѫжь роскошно одѣꙗныѩ жены конѧ и орѫжиє имать · да ѹкрашеніє єѩ оставитъ · зане є заштитити можеть · аште же не имать · да є съ неѩ съвлѣчеть ·",
     "originalText": "εἰ μὲν ἔχοι ταῦτα, ἐᾶν τρυφᾶν ... εἰ δὲ μή, περιαιρεῖν τὸν κόσμον.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -434,8 +622,12 @@
     "stsl": "Добродѣтели наѹчити сѧ можно єсть · и єдиною стѧжана погѹбити сѧ не можеть ·",
     "originalText": "Διδακτὴν ἀπεδείκνυε τὴν ἀρετήν ... καὶ ἀναπόβλητον ὑπάρχειν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -443,8 +635,12 @@
     "stsl": "Благородьство тъкмо добродѣтельнымъ чловѣкомъ принадлежить ·",
     "originalText": "τοὺς αὐτοὺς εὐγενεῖς τοὺς καὶ ἐναρέτους.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.10"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -452,8 +648,12 @@
     "stsl": "Добродѣтель сама доволна єсть къ съчастию и тъкмо Сократовы силы трѣбѹєть ·",
     "originalText": "αὐτάρκη δὲ τὴν ἀρετὴν πρὸς εὐδαιμονίαν, μηδενὸς προσδεομένην ὅτι μὴ Σωκρατικῆς ἰσχύος.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.11"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.11"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -461,8 +661,12 @@
     "stsl": "Добродѣтель въ дѣлѣхъ състоить и множьства словесъ ни наѹчениꙗ не трѣбѹєть ·",
     "originalText": "Τήν τ' ἀρετὴν τῶν ἔργων εἶναι, μήτε λόγων πλείστων δεομένην μήτε μαθημάτων.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.11"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.11"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -470,8 +674,12 @@
     "stsl": "Мѫдрьць самодоволєнъ єсть · зане вьсѧ блага прочиихъ чловѣкъ єго сѫть ·",
     "originalText": "Αὐτάρκη τ' εἶναι τὸν σοφόν· πάντα γὰρ αὐτοῦ εἶναι τὰ τῶν ἄλλων.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.11"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.11"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -479,8 +687,12 @@
     "stsl": "Зъла слава добро єсть и болѣзни подобна ·",
     "originalText": "Τήν τ' ἀδοξίαν ἀγαθὸν καὶ ἴσον τῷ πόνῳ.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.11"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.11"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -488,8 +700,12 @@
     "stsl": "Мѫдрьць въ градьскыхъ дѣлѣхъ не ѹстановлеными законы править сѧ · нъ закономъ добродѣтели ·",
     "originalText": "τὸν σοφὸν οὐ κατὰ τοὺς κειμένους νόμους πολιτεύσεσθαι, ἀλλὰ κατὰ τὸν τῆς ἀρετῆς.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.11"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.11"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -497,8 +713,12 @@
     "stsl": "Мѫдрьць наикраснѣишєю женою оженить сѧ · да чѧда имать ·",
     "originalText": "Γαμήσειν ... ταῖς εὐφυεστάταις συνιόντα γυναιξί.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.11"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.11"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -506,8 +726,12 @@
     "stsl": "Мѫдрьць любве не прѣзрить · зане тъкмо онъ вѣсть · кто достоꙗнъ єсть любимъ быти ·",
     "originalText": "μόνον γὰρ εἰδέναι τὸν σοφὸν τίνων χρὴ ἐρᾶν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.11"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.11"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -515,8 +739,12 @@
     "stsl": "Мѫдрьцѹ ничтоже чюжде ни невъзможьно єсть ·",
     "originalText": "Τῷ σοφῷ ξένον οὐδὲν οὐδ' ἄπορον.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -524,8 +752,12 @@
     "stsl": "Добрыи чловѣкъ любви достоꙗнъ єсть ·",
     "originalText": "Ἀξιέραστος ὁ ἀγαθός.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -533,8 +765,12 @@
     "stsl": "Достоиныи чловѣци дрѹзи сѫть ·",
     "originalText": "οἱ σπουδαῖοι φίλοι.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -542,8 +778,12 @@
     "stsl": "Въ съюзьникы приємли чловѣкы · иже въкѹпѣ храбри и правьдьни сѫть ·",
     "originalText": "συμμάχους ποιεῖσθαι τοὺς εὐψύχους ἅμα καὶ δικαίους.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -551,8 +791,12 @@
     "stsl": "Добродѣтель орѫжиє єсть · єже отъѧти сѧ не можеть ·",
     "originalText": "ἀναφαίρετον ὅπλον ἡ ἀρετή.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -560,8 +804,12 @@
     "stsl": "Лѹчьше съ малою чѧстию добрыхъ противѹ вьсѣхъ зълыхъ брати сѧ · нежели съ множьствомъ зълыхъ противѹ малоѩ чѧсти добрыхъ ·",
     "originalText": "κρεῖττόν ἐστι μετ' ὀλίγων ἀγαθῶν πρὸς ἅπαντας τοὺς κακοὺς ἢ μετὰ πολλῶν κακῶν πρὸς ὀλίγους ἀγαθοὺς μάχεσθαι.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -569,8 +817,12 @@
     "stsl": "На врагы внимаи · зане они пьрвии погрѣшениꙗ твоѩ открываѭть ·",
     "originalText": "Προσέχειν τοῖς ἐχθροῖς· πρῶτοι γὰρ τῶν ἁμαρτημάτων αἰσθάνονται.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -578,8 +830,12 @@
     "stsl": "Чьстьнаго чловѣка паче сродьника цѣни ·",
     "originalText": "Τὸν δίκαιον περὶ πλείονος ποιεῖσθαι τοῦ συγγενοῦς.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -587,8 +843,12 @@
     "stsl": "Добродѣтель въ женѣ и мѫжи єдина єсть ·",
     "originalText": "ἀνδρὸς καὶ γυναικὸς ἡ αὐτὴ ἀρετή.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -596,8 +856,12 @@
     "stsl": "Добра дѣла красна сѫть · зъла же грѫба ·",
     "originalText": "τἀγαθὰ καλά, τὰ κακὰ αἰσχρά.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -605,8 +869,12 @@
     "stsl": "Вьсѧкѹ зълобꙫ чюждꙫ и страньнꙫ мьни ·",
     "originalText": "τὰ πονηρὰ νόμιζε πάντα ξενικά.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.12"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.12"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -614,8 +882,12 @@
     "stsl": "Мѫдрость наинадѣжьнѣиша твръдь єсть · никогда не разорѧєть сѧ ни прѣдана быти можеть ·",
     "originalText": "Τεῖχος ἀσφαλέστατον φρόνησιν· μήτε γὰρ καταρρεῖν μήτε προδίδοσθαι.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.13"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.13"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -623,8 +895,12 @@
     "stsl": "Заштитьны стѣны въ своихъ необоримыхъ разсѫждениихъ зиждити подобаєть ·",
     "originalText": "Τείχη κατασκευαστέον ἐν τοῖς αὑτῶν ἀναλώτοις λογισμοῖς.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.13"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.13"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -632,8 +908,12 @@
     "stsl": "Освобождениꙗ отъ болѣзни просихъ · не отъ живота ·",
     "originalText": "Τῶν πόνων ... οὐ τοῦ ζῆν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.18–19"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.18–19"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -641,8 +921,12 @@
     "stsl": "Разѹмьнымъ чловѣкомъ кънижьнаꙗ словеса ѹчити не подобаєть · да ихъ чюждии помыслы не развратѧть ·",
     "originalText": "Γράμματα ... μὴ μανθάνειν ... ἵνα μὴ διαστρέφοιντο τοῖς ἀλλοτρίοις.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.103–104"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.103–104"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -650,8 +934,12 @@
     "stsl": "Коньчнаꙗ цѣль єсть животъ съгласьнъ добродѣтели ·",
     "originalText": "τέλος εἶναι τὸ κατ' ἀρετὴν ζῆν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
-    "reference": "VI.104"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.104"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -659,9 +947,13 @@
     "stsl": "Антисѳенъ чистаго Атиньскаго рода не бѣ · мати єго · по прѣданию · Ѳракииска бѣ · Рѹганіє родѹ отъмѣтааше · поминаѧ · ꙗко и мати боговъ Фрѵгииска єсть ·",
     "originalText": "Ἐλέγετο δ' οὐκ εἶναι ἰθαγενής· ὅθεν καὶ πρὸς τὸν ὀνειδίζοντα εἰπεῖν, « Καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν. » Ἐδόκει γὰρ εἶναι Θρᾴττης μητρός.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -446,
-    "reference": "VI.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.1"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -669,9 +961,13 @@
     "stsl": "Єгда въ брани при Танагрѣ прослави сѧ · Сократъ примѣти · ꙗко не былъ бы толико храбръ · аште бы оба родителѧ єго Атинѧнина бѣста ·",
     "originalText": "ὅθεν καὶ ἐν Τανάγρᾳ κατὰ τὴν μάχην εὐδοκιμήσας ἔδωκε λέγειν Σωκράτει ὡς οὐκ ἂν ἐκ δυοῖν Ἀθηναίων οὕτω γεγόνοι γενναῖος.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -426,
-    "reference": "VI.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.1"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -679,9 +975,13 @@
     "stsl": "Антисѳенъ пьрво Горгиєвъ ѹченикъ бѣ · потомь же къ Сократѹ приста · На вьсѧкъ дьнь отъ Пиреꙗ около осми попришть до Атинъ пѣшь ходѧаше · да єго слѹшаеть · Отъ Сократа тръпѣніє и небреженіє тѣлесьныхъ тѧготъ приѩтъ и тѣмь пъсьскыи образъ живота нача ·",
     "originalText": "Οὗτος κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος. Ὕστερον δὲ παρέβαλε Σωκράτει, καὶ τοσοῦτον ὤνατο αὐτοῦ, ὥστε παρῄνει τοῖς μαθηταῖς γενέσθαι αὐτῷ πρὸς Σωκράτην συμμαθητάς. Οἰκῶν τ' ἐν Πειραιεῖ καθ' ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους, παρ' οὗ καὶ τὸ καρτερικὸν λαβὼν καὶ τὸ ἀπαθὲς ζηλώσας κατῆρξε πρῶτος τοῦ κυνισμοῦ.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -436,
-    "reference": "VI.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.2"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -689,9 +989,13 @@
     "stsl": "Антисѳенъ на Истмиискыхъ играхъ всенародьно о пороцѣхъ и добродѣтелѣхъ Атинѧнъ · Ѳивѧнъ и Спартѧнъ глаголати хотѣ · Єгда видѣ велика множьства отъ тѣхъ градовъ приходѧшта · отъ бесѣды отъстѫпи ·",
     "originalText": "φησὶ δ' Ἕρμιππος ὅτι προείλετο ἐν τῇ τῶν Ἰσθμίων πανηγύρει ψέξαι τε καὶ ἐπαινέσαι Ἀθηναίους, Θηβαίους, Λακεδαιμονίους· εἶτα μέντοι παραιτήσασθαι ἰδόντα πλείους ἐκ τῶν πόλεων ἀφιγμένους.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -420,
-    "reference": "VI.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.2"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -699,9 +1003,13 @@
     "stsl": "Антисѳенъ виновьникомъ Анитова изгнаниꙗ и Мелетова погѹблениꙗ мьнѣаше сѧ · Юношы отъ Понта · Сократовы славы ради пришедъшыѩ · къ Анитѹ приведе и посмѣвьно єго мѫдрѣиша Сократа нарече · разгнѣвании юношы потомь Анита отъ града изгнаша ·",
     "originalText": "Αὐτὸς δὲ καὶ Ἀνύτῳ τῆς φυγῆς αἴτιος γενέσθαι δοκεῖ καὶ Μελήτῳ τοῦ θανάτου. Ποντικοῖς γὰρ νεανίσκοις κατὰ κλέος τοῦ Σωκράτους ἀφιγμένοις περιτυχὼν ἀπήγαγεν αὐτοὺς πρὸς τὸν Ἄνυτον, εἰπὼν ἐν ἤθει σοφώτερον εἶναι τοῦ Σωκράτους· ἐφ' ᾧ διαγανακτήσαντας τοὺς περιεστῶτας ἐκδιῶξαι αὐτόν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -399,
-    "reference": "VI.9–10"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.9–10"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -709,9 +1017,13 @@
     "stsl": "Антисѳенъ чѧсто Платоновои гордости рѹгаше сѧ · Величаваго конѧ ємѹ ꙗко образъ єго показа ·",
     "originalText": "Ἔσκωπτέ τε Πλάτωνα ὡς τετυφωμένον. Πομπῆς γοῦν γενομένης ἵππον θεασάμενος φρυακτήν φησι πρὸς τὸν Πλάτωνα, « Ἐδόκεις μοι καὶ σὺ ἵππος ἂν εἶναι λαμπρυντής. »",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -392,
-    "reference": "III.35"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.35"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -719,9 +1031,13 @@
     "stsl": "Єгда же при болѧштемь Платонѣ съсѫдъ съ избльванымъ видѣ · рече · ꙗко жлъчь видить · гордости же не видить ·",
     "originalText": "Καί ποτ' ἐλθὼν πρὸς αὐτὸν νοσοῦντα καὶ θεασάμενος λεκάνην ἔνθα ὁ Πλάτων ἐμημέκει ἔφη, « Χολὴν μὲν ὁρῶ ἐνταῦθα, τῦφον δὲ οὐχ ὁρῶ. »",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -390,
-    "reference": "III.35"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.35"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -729,9 +1045,13 @@
     "stsl": "По прѣнии о невъзможьности противорѣчениꙗ противѹ Платона бесѣдꙫ Сатонъ написа · и оба въ враждѣ прѣбыста ·",
     "originalText": "Διαφερομένου δ' αὐτοῦ πρὸς τὸν Πλάτωνα περὶ τῶν ἀντιλεγομένων, συνέγραψε διάλογον Σάθωνα.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -388,
-    "reference": "III.35"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.35"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -739,38 +1059,54 @@
     "stsl": "Антисѳенъ въ ѹчилишти Кѵносаргѣ бесѣдоваше · отъ него же · по нѣкоторымъ · пъсьскоє ѹчилиште имѧ приѩтъ · Пьрвыи плашть вдвое сложи и тою єдиною одеждою доволєнъ бѣ · жезлъ же и торбꙫ носѧаше · Просто Пьсъ нарицаахѫ єго ·",
     "originalText": "Διελέγετο δ' ἐν τῷ Κυνοσάργει γυμνασίῳ μικρὸν ἄπωθεν τῶν πυλῶν· ὅθεν τινὲς καὶ τὴν κυνικὴν ἐντεῦθεν ὀνομασθῆναι. Αὐτός τ' ἐπεκαλεῖτο Ἁπλοκύων. Καὶ πρῶτος ἐδίπλωσε τὸν τρίβωνα, καθά φησι Διοκλῆς, καὶ μόνῳ αὐτῷ ἐχρῆτο· βάκτρον τ' ἀνέλαβε καὶ πήραν.",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -390,
-    "reference": "VI.13"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.13"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Antisten je podstakao Diogenovu ravnodušnost, Kratetovu uzdržanost i Zenonovu izdržljivost i tako položio temelje njihove filozofske zajednice. Teopomp je od svih Sokratovaca hvalio samo njega, tvrdeći da prijatnim razgovorom može pridobiti svakoga.",
     "stsl": "Антисѳенъ Диогеново небреженіє · Кратетово въздръжаніє и Зеноново тръпѣніє възбѹди и тако основаніє ихъ любомѫдрьнаго обьштества положи · Теопомпъ отъ вьсѣхъ Сократовьцевъ тъкмо єго хвалѧаше · твьрдѧ · ꙗко приѧтьною бесѣдою вьсѧкаго придобѹдетъ ·",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -384,
-    "reference": "VI.14–15",
-    "originalText": "Οὗτος ἀπηλγηκυίας μὲν Διογένη πεποίηκεν, ἐγκρατῆ δὲ Κράτητα, καρτερικὸν δὲ Ζήνωνα."
+    "originalText": "Οὗτος ἀπηλγηκυίας μὲν Διογένη πεποίηκεν, ἐγκρατῆ δὲ Κράτητα, καρτερικὸν δὲ Ζήνωνα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.14–15"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Antisten je jednom okrenuo pocepani deo ogrtača tako da ga svi vide. Sokrat mu je rekao da kroz ogrtač vidi kako proviruje njegova žudnja za slavom.",
     "stsl": "Антисѳенъ єдиною раздрътыи краи плашта тако обрати · да єго вьси видѧть · Сократъ ємѹ рече · ꙗко сквозѣ плашть видить желаніє славы єго выглѧдаѭште ·",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -375,
-    "reference": "VI.8",
-    "originalText": "Φορῶν δὲ διπλοΐδα ἔστρεφεν αὐτῆς τὸ ἐρρωγὸς πρὸς τὸ ἐμφανές, ὡς καὶ Σωκράτης ἴδοι."
+    "originalText": "Φορῶν δὲ διπλοΐδα ἔστρεφεν αὐτῆς τὸ ἐρρωγὸς πρὸς τὸ ἐμφανές, ὡς καὶ Σωκράτης ἴδοι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.8"
+      }
+    ]
   },
   {
     "type": "anecdote",
     "sr": "Dok je Antisten umirao od bolesti, Diogen ga je posetio noseći bodež. Na Antistenovo pitanje ko će ga osloboditi bolova, Diogen je pokazao bodež; Antisten je odgovorio da je tražio oslobođenje od bolova, a ne od života.",
     "stsl": "Єгда Антисѳенъ отъ болѣзни ѹмирааше · Диогенъ съ ножемъ єго посѣти · На Антисѳеновъ вопросъ · кто єго отъ болѣзни освободить · Диогенъ ножь показа · Антисѳенъ отвѣща · ꙗко освобождениꙗ отъ болѣзни проси · не отъ живота ·",
     "author": "Antisthenes",
-    "source": "diogenes-laertius",
     "year": -366,
-    "reference": "VI.18–19",
-    "originalText": "Τὸν γοῦν Ἀντισθένην νοσοῦντα Διογένης ἐλθὼν καὶ εἰπών· « Φίλου δεῖ; » ἐγχειριδίου προτείνας."
+    "originalText": "Τὸν γοῦν Ἀντισθένην νοσοῦντα Διογένης ἐλθὼν καὶ εἰπών· « Φίλου δεῖ; » ἐγχειριδίου προτείνας.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.18–19"
+      }
+    ]
   }
 ]

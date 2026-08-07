@@ -6,8 +6,12 @@
     "stsl": "Анаксимандръ Праксїады Милетꙗнинъ бѣ.",
     "originalText": "Ἀναξίμανδρος Πραξιάδου Μιλήσιος.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
-    "reference": "II.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Оученикъ Фалесовъ.",
     "originalText": "Θαλοῦ μὲν γὰρ Ἀναξίμανδρος.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
-    "reference": "I.14"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.14"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,8 +34,12 @@
     "stsl": "Во второмъ лѣтѣ пѧтьдесѧтыѩ и осмыѩ олимпїады шестьдесѧть четыри лѣта имѣаше и вскорѣ потомь оумрѣ · процвѣташе за временъ Поликрата тꙋранна Самоса.",
     "originalText": "Καί φησίν αὐτὸν ἐν τοῖς Χρονικοῖς τῷ δευτέρῳ ἔτει τῆς πεντηκοστῆς ὀγδόης Ὀλυμπιάδος ἐτῶν εἶναι ἑξήκοντα τεττάρων καὶ μετ' ὀλίγον τελευτῆσαι ἀκμάσαντά πη μάλιστα κατὰ Πολυκράτην τὸν Σάμου τύραννον.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
-    "reference": "II.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.2"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -35,8 +47,12 @@
     "stsl": "Начѧло и съставъ сѫщихъ єсть безмѣрьноє ·",
     "originalText": "ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
-    "reference": "II.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -44,8 +60,12 @@
     "stsl": "Анаксимандръ глаголаше ꙗко различьнаꙗ вѣщи прѣмѣнѧють сѧ · безмѣрьноє же пребываєть непрѣмѣнно ·",
     "originalText": "καὶ τὰ μὲν μέρη μεταβάλλειν, τὸ δὲ πᾶν ἀμετάβλητον εἶναι.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
-    "reference": "II.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -53,8 +73,12 @@
     "stsl": "Землѧ єсть кѫгльна и почиваетъ посредѣ · равьно отъ вьсѣхъ странъ отстоѧща ·",
     "originalText": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
-    "reference": "II.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -62,8 +86,12 @@
     "stsl": "Мѣсѧць свѣтить заѥмлѥмь свѣтомъ и приимаеть просвѣщєніє отъ сльньца ·",
     "originalText": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
-    "reference": "II.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -71,8 +99,12 @@
     "stsl": "Сльньце єсть велико ꙗкоже землѧ и сътворено отъ наичистѣишєго огнѧ ·",
     "originalText": "τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
-    "reference": "II.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -80,19 +112,27 @@
     "stsl": "Пьрвъ обрѣте слъньцѣпоказъ и постави и въ Лакедемонѣ · да знаменаѥтъ слъньчьнѣѧ повороты и равноденьѥ · сътвори же и часомѣры ·",
     "originalText": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τροπάς τε καὶ ἰσημερίας σημαίνοντα· καὶ ὡροσκόπια κατεσκεύασε.",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
     "year": -610,
-    "reference": "II.1"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
   },
   {
     "type": "bio",
     "sr": "Prvi je nacrtao kartu kopna i mora i načinio nebeski globus.",
     "stsl": "Пьрвъ начрьта земьлю и море и сътвори небесныи клѫбъ ·",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
     "year": -578,
-    "reference": "II.2",
-    "originalText": "Καὶ γῆς καὶ θαλάσσης περίμετρον πρῶτος ἔγραψεν, ἀλλὰ καὶ σφαῖραν κατεσκεύασε."
+    "originalText": "Καὶ γῆς καὶ θαλάσσης περίμετρον πρῶτος ἔγραψεν, ἀλλὰ καὶ σφαῖραν κατεσκεύασε.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.2"
+      }
+    ]
   },
   {
     "type": "anecdote",
@@ -100,8 +140,12 @@
     "stsl": "Єгда отроци порѹгаахѫ сѧ єго пѣнію · рече · Подобаєть ми лѹчьше пѣти · да ѹгодѫ отрокомъ ·",
     "originalText": "τούτου φασὶν ᾄδοντος καταγελάσαι τὰ παιδάρια, τὸν δὲ μαθόντα φάναι, « βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια. »",
     "author": "Anaximander",
-    "source": "diogenes-laertius",
     "year": -546,
-    "reference": "II.2"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.2"
+      }
+    ]
   }
 ]

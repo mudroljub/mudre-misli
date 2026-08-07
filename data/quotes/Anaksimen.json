@@ -6,8 +6,12 @@
     "stsl": "Анаксименъ Еѷрѷстратовъ Милетꙗнинъ бѣ.",
     "originalText": "Ἀναξιμένης Εὐρυστράτου Μιλήσιος.",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -16,8 +20,12 @@
     "stsl": "Оученикъ Анаксимандровъ · нѣции же глаголѭтъ ꙗко Парменида слꙑшааше.",
     "originalText": "Ἤκουσεν Ἀναξιμάνδρου. ἔνιοι δὲ καὶ Παρμενίδου φασὶν ἀκοῦσαι αὐτόν.",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
   },
   {
     "type": "bio",
@@ -26,8 +34,12 @@
     "stsl": "Жити за времени падениꙗ Сардъ · оумрѣ въ шестьдесѧтѣи третїеи олимпїадѣ.",
     "originalText": "Καὶ γεγένηται μέν, καθά φησίν Ἀπολλόδωρος, περὶ τὴν Σάρδεων ἅλωσιν, ἐτελεύτησε δὲ τῇ ἑξηκοστῇ τρίτῃ Ὀλυμπιάδι.",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -35,8 +47,12 @@
     "stsl": "За пьрвоє начѧло положи въздѫхъ · сирѣчь безмѣрьнъ ·",
     "originalText": "οὗτος ἀρχὴν ἀέρα εἶπε καὶ τὸ ἄπειρον.",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -44,18 +60,26 @@
     "stsl": "Звѣзды крѫжѧть окрьсть землѧ · нъ не заходѧть подъ неѭ ·",
     "originalText": "κινεῖσθαι δὲ τὰ ἄστρα οὐχ ὑπὸ γῆν, ἀλλὰ περὶ γῆν.",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.3"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
   },
   {
     "type": "bio",
     "sr": "Pisao je prostim i nenametljivim jonskim stilom.",
     "stsl": "Писааше простымь и непрѣтворьнымь іоньскымъ словомь ·",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
     "year": -555,
-    "reference": "II.3",
-    "originalText": "Ἐχρήσατο δὲ λέξει Ἰάδι ἁπλῇ καὶ ἀπερίττῳ."
+    "originalText": "Ἐχρήσατο δὲ λέξει Ἰάδι ἁπλῇ καὶ ἀπερίττῳ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
   },
   {
     "type": "reported",
@@ -63,8 +87,12 @@
     "stsl": "Анаксименъ въ послании къ Фалесѹ написа · ꙗко Мілєтѧне лишишасѧ своєго звѣздочѧтца ·",
     "originalText": "Θαλῆς Ἐξαμύου ἐπὶ γήρως οὐκ εὔποτμος οἴχεται· εὐφρόνης, ὥσπερ ἐώθει, ἅμα τῇ ἀμφιπόλῳ προϊὼν ἐκ τοῦ αὐλίου τὰ ἄστρα ἐθηεῖτο· καὶ-οὐ γὰρ ἐς μνήμην ἔθετο-θηεύμενος ἐς τὸ κρημνῶδες ἐκβὰς καταπίπτει. Μιλησίοισι μέν νυν ὁ αἰθερολόγος ἐν τοιῷδε κεῖται τέλει.",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.4"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.4"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -72,8 +100,12 @@
     "stsl": "Мілєтъ николиже безъ тиранъ єсть ·",
     "originalText": "Μιλησίους οὐκ ἐπιλείπουσι αἰσυμνῆται.",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -81,8 +113,12 @@
     "stsl": "Іонѧне прѣдъ бранью сѫ съ Миды ради общѧ свободы ·",
     "originalText": "μέλλουσι δὴ ἀμφὶ τῆς ἐλευθερίης ἁπάντων Ἴωνες Μήδοις κατίστασθαι ἐς πόλεμον.",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.5"
+      }
+    ]
   },
   {
     "type": "quote",
@@ -90,7 +126,11 @@
     "stsl": "Како да испытаю небеса · дондеже погибель или рабьство ми грозитъ ·",
     "originalText": "Κῶς ἂν οὖν Ἀναξιμένης ἐν θυμῷ ἔτι ἔχοι αἰθερολογέειν, ἐν δείματι ἐὼν ὀλέθρου ἢ δουλοσύνης;",
     "author": "Anaximenes",
-    "source": "diogenes-laertius",
-    "reference": "II.5"
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.5"
+      }
+    ]
   }
 ]
