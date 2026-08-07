@@ -4,22 +4,50 @@
 
 Iz lokalnog korpusa staroslovenskih tekstova izdvojiti najbolje primere za rekonstrukciju slovenskog filozofskog jezika.
 
-Ne praviti običan indeks pojavljivanja reči.
+Ne praviti indeks pojavljivanja reči.
 
 Cilj je napraviti mali, kvalitetan korpus koji pokazuje:
 
 - kako staroslovenski izražava apstraktne pojmove;
-- kako prevodi grčke filozofske i teološke termine;
-- kako gradi filozofsku rečenicu;
+- kako gradi filozofsku i apstraktnu rečenicu;
 - kako tvori apstraktne imenice;
-- kako izražava definicije, poređenja i argumente;
-- koje postojeće slovenske reči mogu nositi filozofsko značenje.
+- kako koristi domaće slovenske reči za izražavanje mišljenja;
+- kako oblikuje definicije, poređenja i argumente.
+
+---
+
+# Važno ograničenje
+
+Korpus sadrži samo staroslovenske tekstove.
+
+Nema grčkih paralelnih tekstova.
+
+Zato:
+
+- ne određivati grčki originalni termin;
+- ne nagađati prevodilačke parove;
+- ne pisati "λόγος → слово" bez dokaza;
+- ne zaključivati poreklo termina samo na osnovu značenja.
+
+Ako je moguća veza sa grčkim filozofskim pojmom, ona se može navesti samo kao napomena:
+
+```
+
+Moguća kasnija interpretacija:
+...
+
+Pouzdanost:
+niska / srednja / visoka
+
+```
+
+Glavni zadatak je analiza slovenskog jezika.
 
 ---
 
 # Izvori
 
-Korpus se nalazi lokalno:
+Korpus se nalazi:
 
 ```
 
@@ -31,147 +59,119 @@ data\sources\corpus
 
 # Hijerarhija izvora
 
-Izvori se dele na dve grupe.
+## A. Filozofski i apstraktni tekstovi
 
-# A. Filozofski i apstraktni jezik
-
-## 1. Разуми на елинские философи.txt
+### Разуми на елинские философи.txt
 
 Prioritet: ★★★★★
 
-Glavni izvor za:
+Tražiti:
 
-- grčke filozofske pojmove;
-- prevod antičkih termina;
-- moralnu i metafizičku terminologiju.
-
-Posebno tražiti:
-
-- философъ
 - мѫдрость
-- душа
-- природа
-- начало
-- быти
+- философъ
+- умъ
 - разумъ
+- душа
 - добродѣтель
+- начало
 
 
-## 2. Прогласъ.txt
+### Прогласъ.txt
 
 Prioritet: ★★★★★
 
-Glavni izvor za:
-
-- filozofiju jezika;
-- odnos slova, reči i smisla;
-- apstraktni govor.
-
-Posebno tražiti:
+Tražiti:
 
 - слово
 - словеса
 - писание
-- языкъ
+- буквы
 - разумъ
-- познание
+- душа
+- знати
 
 
-## 3. О письменьхъ.txt
+### О письменьхъ.txt
 
 Prioritet: ★★★★★
 
-Glavni izvor za:
+Tražiti:
 
-- pojam jezika;
-- znak i značenje;
-- odnos glasa i slova;
-- čoveka kao razumno biće.
+- слово
+- писание
+- языкъ
+- разумъ
+- человекъ
+- знание
 
 
-## 4. Пчела.txt / Бьчела.txt
+### Пчела.txt / Бьчела.txt
 
 Prioritet: ★★★★☆
 
-Glavni izvor za:
+Tražiti:
 
-- mudrosne iskaze;
 - definicije;
-- filozofske obrasce;
-- moralne pojmove.
-
-Posebno tražiti konstrukcije:
-
-```
-
-X єсть Y
-
-X подобьно Y
-
-X не есть Y
-
-```
+- moralne pojmove;
+- filozofske izreke.
 
 
 ---
 
-# B. Prevodilački i jezički uzor
+## B. Prevodilački i jezički uzor
 
-## 5. Suprasliensis
+### Suprasliensis
 
 Prioritet: ★★★★★
-
-Najvažniji prevodilački izvor.
 
 Koristiti za:
 
 - apstraktne imenice;
-- prevod grčkih pojmova;
-- složene sintaktičke konstrukcije.
+- složene rečenice;
+- razvijenu sintaksu.
 
 
-## 6. Sava
-
-Prioritet: ★★★★☆
-
-Koristiti za:
-
-- razvijene apstraktne konstrukcije;
-- prevodilački stil.
-
-
-## 7. Vita Constantini
+### Sava
 
 Prioritet: ★★★★☆
 
 Koristiti za:
 
-- rasprave o jeziku;
-- filozofiju i obrazovanje;
-- definiciju filozofije.
+- razvijeni književni stil.
 
 
-## 8. Marianus
+### Vita Constantini
+
+Prioritet: ★★★★☆
+
+Koristiti za:
+
+- filozofski govor;
+- jezik obrazovanja;
+- pojam filozofa.
+
+
+### Marianus
 
 Prioritet: ★★★★☆
 
 Koristiti za:
 
 - osnovnu sintaksu;
-- najstariji književni sloj.
+- najstariji sloj.
 
 
-## 9. Zographensis
+### Zographensis
 
 Prioritet: ★★★★☆
 
 Koristiti za:
 
 - arhaične oblike;
-- poređenje grafije.
+- grafiju.
 
 
-## 10. Assemanius
+### Assemanius
 
 Prioritet: ★★★☆☆
 
@@ -182,220 +182,112 @@ Koristiti za:
 
 ---
 
-# Kategorije izdvajanja
+# Oblasti izdvajanja
 
-Svaki primer svrstati u jednu ili više kategorija:
+Svaki primer označiti jednom ili više oblasti:
 
 ```
 
-01 Ontologija
-02 Saznanje i razum
-03 Jezik i logos
-04 Psihologija
-05 Etika
-06 Teologija
-07 Čovek i društvo
-08 Književnost i obrazovanje
+01 Biće i postojanje
+
+02 Um, razum i mišljenje
+
+03 Jezik, reč i pismo
+
+04 Znanje i učenje
+
+05 Mudrost i filozofija
+
+06 Duša i čovek
+
+07 Etika i vrlina
+
+08 Istina i spoznaja
+
+09 Zakon, pravda i društvo
+
+10 Bog i duhovni pojmovi
 
 ```
 
 ---
 
-# Ključni pojmovi
+# Termini koje posebno pratiti
 
 ## Biće i postojanje
 
-Grčki:
-
-- εἶναι
-- τὸ ὄν
-- οὐσία
-- φύσις
-
-Slovenski:
-
 - єсть
 - быти
+- бытие
 - сѫщьство
 - єстьство
 - природа
 
 
----
-
 ## Um i mišljenje
-
-Grčki:
-
-- νοῦς
-- διάνοια
-- φρόνησις
-- λογισμός
-
-Slovenski:
 
 - умъ
 - разумъ
 - размꙑслъ
 - помыслъ
+- мыслити
+- разумѣти
 
 
-Terminološka razlika:
-
-```
-
-умъ
-
-unutrašnja misaona sposobnost
-grčki: νοῦς
-
-разумъ
-
-razumevanje, rasuđivanje, objašnjenje
-grčki: διάνοια
-
-```
-
-Ne izjednačavati automatski ova dva termina.
-
-
----
-
-## Reč i logos
-
-Grčki:
-
-- λόγος
-
-Slovenski:
+## Jezik i reč
 
 - слово
 - словеса
+- рече
+- глаголати
+- языкъ
+- писание
+- буква
 
-
-Posebno izdvojiti:
-
-- слово kao govor;
-- слово kao razum;
-- слово kao božanski ili ontološki princip.
-
-
----
 
 ## Znanje
 
-Grčki:
-
-- γνῶσις
-- γινώσκειν
-
-Slovenski:
-
 - знати
 - вѣдѣти
-- разумѣти
 - познати
+- разумѣти
+- учити
 
-
-Razlikovati:
-
-```
-
-знати
-opšte znanje
-
-познати
-lična ili neposredna spoznaja
-
-```
-
-
----
 
 ## Mudrost
 
-Grčki:
-
-- σοφία
-
-Slovenski:
-
 - мѫдрость
+- мудръ
 
-
----
 
 ## Istina
 
-Grčki:
-
-- ἀλήθεια
-
-Slovenski:
-
 - истина
+- истиньнъ
 
 
----
+## Početak
 
-## Početak i uzrok
-
-Grčki:
-
-- ἀρχή
-- αἰτία
-
-Slovenski:
-
+- начало
 - начѧло
-- причина
-- вина
 
 
----
+## Čovek
 
-## Priroda
-
-Grčki:
-
-- φύσις
-
-Slovenski:
-
-- природа
-- єстьство
+- чловѣкъ
+- душа
+- срьдьце
+- умъ
 
 
----
+## Etika
 
-## Oblik i obraz
-
-Grčki:
-
-- μορφή
-- εἶδος
-
-Slovenski:
-
-- образъ
-- подобие
-- видъ
-
-
----
-
-## Delovanje
-
-Grčki:
-
-- ἔργον
-- δύναμις
-
-Slovenski:
-
-- дѣло
-- творити
-- сила
+- добро
+- зло
+- добродѣтель
+- правда
+- любовь
+- крѣпость
 
 
 ---
@@ -406,7 +298,7 @@ Ne izdvajati svaku pojavu.
 
 Prednost imaju:
 
-1. Definicijske rečenice:
+1. Definicijske konstrukcije:
 
 ```
 
@@ -414,38 +306,51 @@ X єсть Y
 
 ```
 
-2. Rečenice sa apstraktnim imenicama.
+2. Rečenice koje objašnjavaju pojam.
 
-3. Rečenice koje jasno prevode grčki filozofski pojam.
+3. Rečenice sa apstraktnim imenicama.
 
-4. Rečenice koje pokazuju tvorbu slovenskih apstraktnih termina.
+4. Poređenja:
 
-5. Rečenice koje mogu služiti kao model za novi filozofski prevod.
+```
 
-6. Rečenice gde obična slovenska reč dobija filozofsko značenje.
+X подобьно Y
+X яко Y
 
+```
+
+5. Suprotnosti:
+
+```
+
+X и Y
+добро / зло
+разумъ / неразумие
+
+```
+
+6. Rečenice koje pokazuju promenu značenja obične reči u apstraktan pojam.
 
 ---
 
-# Izbegavati
+# Ne izdvajati
 
-Ne izdvajati:
+Ne uključivati:
 
-- obične narativne delove;
+- obične narativne rečenice;
 - genealogije;
-- ponavljanja istih formula;
-- lična imena;
-- liturgijske formule bez jezičkog značaja;
-- slučajne pojave reči bez apstraktnog značenja.
-
+- spiskove imena;
+- ponavljane formule;
+- čisto liturgijske delove bez jezičkog značaja;
+- izolovane reči bez konteksta.
 
 ---
 
 # Obrada teksta
 
-Korpus koristi staru ćirilsku Unicode transkripciju.
+Sačuvati originalnu grafiju.
 
-Ne modernizovati grafiju.
+Ne modernizovati.
 
 Sačuvati:
 
@@ -460,14 +365,13 @@ Ukloniti samo:
 
 - brojeve redova;
 - tehničke oznake izdanja;
-- nepotrebne prelome.
-
+- višestruke prelome.
 
 ---
 
 # Izlaz
 
-Napraviti fajl:
+Napraviti:
 
 ```
 
@@ -480,85 +384,62 @@ Format:
 ```md
 # слово
 
-Kategorija:
-03 Jezik i logos
+Oblast:
 
-Grčki pojam:
-λόγος
+03 Jezik, reč i pismo
+
+Status:
+
+[ПОТВРЂЕНО]
 
 Izvor:
+
 Прогласъ
 
-Status:
-[ДОМАЋИ ТЕРМИН]
-
 Tekst:
 
 ...
 
-Zašto je važan:
+Značenje u kontekstu:
 
-Primer apstraktne upotrebe reči слово.
+Reč koja označava govor, poruku ili apstraktni sadržaj.
 
----
+Zašto je važno:
 
-# разумъ
-
-Kategorija:
-02 Saznanje i razum
-
-Grčki:
-διάνοια
-
-Izvor:
-О письменьхъ
-
-Status:
-[PREVODILAČKI UZOR]
-
-Tekst:
-
-...
-
-Napomena:
-...
+Primer gde obična slovenska reč dobija šire duhovno značenje.
 ````
 
 ---
 
-# Oznake
+# Statusi
 
-Koristiti sledeće oznake:
+Koristiti:
 
-## [DOMAĆI TERMIN]
+## [ПОТВРЂЕНО]
 
-Slovenska reč potvrđena u staroslovenskom korpusu.
+Direktan primer iz staroslovenskog korpusa.
 
-## [PREVODILAČKI UZOR]
+## [ФИЛОЗОФСКА УПОТРЕБА]
 
-Primer koji pokazuje kako slovenski prevodi grčki apstraktni pojam.
+Obična reč koja u kontekstu ima apstraktno značenje.
 
-## [POZAJMLJENICA]
+## [АПСТРАКТНИ ТЕРМИН]
 
-Grčka ili druga strana reč preneta u slovenski.
+Reč koja već funkcioniše kao pojam.
 
-## [FILOZOFSKA UPOTREBA]
+## [РЕКОНСТРУКЦИЈА]
 
-Obična slovenska reč koja u kontekstu dobija filozofsko značenje.
+Novi termin napravljen za savremeni filozofski jezik.
 
-## [REKONSTRUKCIJA]
-
-Novi termin napravljen za filozofski jezik.
-
-Ne mešati ova tri nivoa.
+Ne mešati potvrđene i rekonstruisane termine.
 
 ---
 
 # Količina
 
-Ne praviti više od:
+Cilj:
 
-* 10–20 primera po pojmu;
-* ukupno 200–300 najboljih primera.
+* 10–20 najboljih primera po oblasti;
+* ukupno 200–300 primera.
 
-Kvalitet je važniji od količine.
+Bolje je imati mali broj jasnih primera nego veliki broj ponavljanja.
