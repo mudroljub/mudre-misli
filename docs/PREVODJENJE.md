@@ -45,28 +45,30 @@ Staroslovenski je bez znakova interpunkcije, osim srednje tačke · koja menja s
 
 ## Ritam i duh staroslovenske rečenice
 
-Najvažnije: slediti duh i ritam stare slovenske rečenice, ne samo pravila grafije i terminologije.
+Najvažnije: slediti duh i ritam stare slovenske rečenice, ne samo grafiju i terminologiju.
 
 Staroslovenska filozofska rečenica je:
 
-* **Kratka i težinska** — izbegavati suvišne reči
-* **Ritmična** — prirodan slovenski red reči, ne grčka konstrukcija
-* **Partikule umesto veznika** — "бо" umesto "ꙗко" za kauzalnost
-* **Minimalan glagol "biti"** — koristiti "єсть" samo kada je neophodno za smisao
-* **Bez sufiksa pojačavanja** — umesto "наи-" koristiti prosto "велиіи", "мѫдро"
+- **Kratka i težinska** — bez suvišnih reči
+- **Ritmična** — prirodan slovenski red reči, ne grčka konstrukcija
+- **Sažeta** — prednost imaju imenice i jake tvrdnje
+- **Partikule umesto veznika** — "бо", "же", "убо" gde prirodno odgovara
+- **Minimalan glagol "biti"** — "єсть" samo kada je potrebno
+- **Bez mehaničkog "наи-"** — superlative prevoditi prirodno
+- **Ne prevoditi reč po reč** — prvo razumeti misao, zatim oblikovati slovensku rečenicu
 
 Primeri dobrog ritma:
 
-* ❌ Наиборзо єсть ѹмъ · ꙗко вьсѹдѹ тькъно течєть ·
-* ✅ Борзъ ѹмъ · чрєꙁъ вьсѧ бо прѣтечєть ·
+❌ Наиборзо єсть ѹмъ · ꙗко вьсѹдѹ тькъно течєть ·  
+✅ Борзъ ѹмъ · чрєꙁъ вьсѧ бо прѣтечєть ·
 
-* ❌ Отъ вьсѣхъ сѫщиихъ наистарьши єсть Богъ · ꙗко нерожденъ єсть ·
-* ✅ Прьвѣи вьсѣхъ сѫщиихъ Богъ · нерожденъ бо єсть ·
+❌ Отъ вьсѣхъ сѫщиихъ наистарьши єсть Богъ · ꙗко нерожденъ єсть ·  
+✅ Старѣишии вьсѣхъ сѫщихъ Богъ · нерожденъ бо єсть ·
 
-* ❌ Начѧло же вьсѣмь вода поставлѧєть ·
-* ✅ Начѧло вьсѣмь вода ·
+❌ Начѧло же вьсѣмь вода поставлѧєть ·  
+✅ Начѧло вьсѣмь вода ·
 
-Reč treba da zvuči kao prava staroslovenska filosofska izreka iz VIII veka, ne kao mehanički prenos grčke strukture.
+Reč treba da zvuči kao prava staroslovenska filosofska izreka, ne kao mehanički prenos grčke strukture.
 
 ## Transkripcija imena
 
