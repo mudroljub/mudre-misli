@@ -25,6 +25,91 @@ npm start
 - proveriti previše rasečene i besmislene rečenice, koje su deo šire anegdote.
 - proveriti sr prevode na osnovu rečnika
 
+## Poboljšanje prevoda
+
+1. Napravi precizan grčko → staroslovenski rečnik
+
+* ne samo prevod, nego značenje i kontekst
+* npr. λόγος kod Heraklita ≠ automatski samo „слово”
+
+2. Dodaj napomene uz problematične termine
+
+* dozvoljeni prevodi
+* zabranjeni prevodi
+* razlika između filozofskog i biblijskog značenja
+
+Primer:
+
+```
+νοῦς
+→ умъ
+ne koristiti: разумъ
+napomena: misaona moć, intelekt
+```
+
+3. Odvoji slojeve jezika
+
+* staroslovenski (9–10. vek)
+* kasniji crkvenoslovenski
+* moderni srpski
+
+Ne dozvoliti da kasniji oblici uđu automatski.
+
+4. Koristi Bibliju za stil i gramatiku, ne za filozofsku terminologiju
+
+* Biblija daje prirodan staroslovenski izraz
+* filozofi zahtevaju poseban rečnik
+
+5. Napravi mali skup uzornih prevoda
+
+* 100–500 najboljih primera
+* grčki original + tvoj idealni staroslovenski prevod
+* model mnogo bolje imitira konkretan stil
+
+6. Radi prevod u dva prolaza
+   Prvo:
+
+* analiza grčkog
+* značenje termina
+
+Drugo:
+
+* konačan staroslovenski prevod
+
+7. Uvedi proveru konzistentnosti
+   Isti grčki termin treba uglavnom isto prevoditi:
+
+```
+νοῦς → умъ
+διάνοια → размꙑслъ
+φύσις → єстьство
+```
+
+osim kada kontekst zahteva promenu.
+
+8. Daj modelu jasna pravila epohe
+   Na primer:
+
+* koristi starije oblike
+* izbegavaj kasnije crkvenoslovenske inovacije
+* izbegavaj moderne naučne termine
+
+9. Proveravaj morfologiju
+   Posle prevoda proveriti:
+
+* padeže
+* glagolske oblike
+* slaganje prideva i imenica
+* upotrebu jerova
+
+10. Ne trenirati model kao prvi korak
+    Za tvoj slučaj je korisnije:
+
+* dobar rečnik
+* pravila
+* primeri
+* automatsko ubacivanje konteksta
+
 ## Izvori
 
 Online izvori:

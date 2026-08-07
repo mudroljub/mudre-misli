@@ -57,12 +57,25 @@ Primeri:
 
 ## Prevođenje grčkih filozofskih termina
 
-Koristiti [RECNIK.md](RECNIK.md).
+Osnovni prevodilački princip je: čuvati zajednički koren. Isti grčki koren → isti slovenski koren. Npr. sve što sadrži `γεν` mora sadržati `род`. Slično, sve što počinje na `διά*` mora početi na `раз*`. Primer:
 
-Osnovni prevodilački princip je: jedna grčka porodica → jedna slovenska porodica → jedan srpski koren. 
-
-Npr. sve što počinje na διά* mora početi na раз*.
-
-## Doslednost
+κρίνω → лѫчити
+κρίσις → лѫченіє
+διακρίνω → разлѫчити
+διάκρισις → разлѫченіє
 
 Isti grčki filozofski pojam prevoditi istim staroslovenskim terminom kroz ceo korpus, osim kada bi to promenilo njegovo filozofsko značenje.
+
+Ne preuzimati automatski biblijske ili patrističke prevode grčkih termina. Izbegavati poznate grčke i latinske filozofske termine, cilj je koristiti izvorne slovenske reči. 
+
+логос, атомъ, субстанција, енергія, категорија...
+
+Koristiti jezičke oblike prirodne za staroslovenski. Ne kopirati grčki red reči ako narušava slovensku konstrukciju.
+
+## Rečnik
+
+Koristiti [RECNIK.md](RECNIK.md).
+
+## Ostalo
+
+Polje `stsl` sadrži samo prevod. Objašnjenja, alternative i napomene idu van prevoda.
