@@ -8,33 +8,33 @@
 
 ## Status ekstrakcije
 
-### ✅ Ekstraktovano (1/16)
+### ✅ Ekstraktovano i parsovano (6/16)
 
-| # | Filozof | Fajl | Linije | Status |
-|---|---------|------|--------|--------|
-| 12 | Heraclitus (Herakleitos) | `philosophers/12-Heraclitus.txt` | 4101-6509 (2,409) | ✅ Verifikovano |
+| # | Filozof | TXT Fajl | Fragmenti | Status |
+|---|---------|----------|-----------|--------|
+| 11 | Xenophanes | `philosophers/11-Xenophanes.txt` | 36 | ✅ |
+| 12 | Heraclitus | `philosophers/12-Heraclitus.txt` | 38 | ✅ |
+| 18 | Parmenides | `philosophers/18-Parmenides.txt` | 17 | ✅ |
+| 19 | Zeno | `philosophers/19-Zeno.txt` | 3 | ⚠️ Poseban format |
+| 21 | Empedocles | `philosophers/21-Empedocles.txt` | 140 | ✅ |
+| 46 | Anaxagoras | `philosophers/46-Anaxagoras.txt` | 22 | ✅ |
 
-### ⏳ Za ekstrakciju (15/16)
+**Ukupno: 256 fragmenata parsovano**
+
+### ⏳ Za ekstrakciju (10/16)
 
 Filozofi sa B. FRAGMENTE sekcijom koji čekaju ekstrakciju:
 
 1. **3** - Anaximenes
-2. **11** - Xenophanes (🎯 u projektu)
-3. **13** - Epicharmos
-4. **14** - Alcmaeon
-5. **18** - Parmenides (🎯 u projektu)
-6. **19** - Zeno (🎯 u projektu)
-7. **20** - Melissus
-8. **21** - Empedocles (🎯 u projektu)
-9. **25** - Ion of Chios
-10. **26** - Hippon
-11. **32** - Philolaus
-12. **35** - Archytas
-13. **46** - Anaxagoras (🎯 u projektu)
-14. **47** - Archelaus
-15. **51** - Diogenes of Apollonia
-
-**🎯 = Imamo u data/quotes/** (6 filozofa sa presekom)
+2. **13** - Epicharmos
+3. **14** - Alcmaeon
+4. **20** - Melissus
+5. **25** - Ion of Chios
+6. **26** - Hippon
+7. **32** - Philolaus
+8. **35** - Archytas
+9. **47** - Archelaus
+10. **51** - Diogenes of Apollonia
 
 ---
 

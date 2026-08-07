@@ -24,6 +24,23 @@ export interface SourceReference {
 }
 
 /**
+ * Textual variant from an alternative source.
+ */
+export interface TextVariant {
+  /** Source name for this variant (must match a name in sources array) */
+  source: string;
+
+  /** Alternative Greek/Latin text */
+  text: string;
+
+  /** Brief description of difference (optional) */
+  diff?: string;
+
+  /** Additional note about this variant (optional) */
+  note?: string;
+}
+
+/**
  * Common fields shared by all entries.
  */
 interface BaseEntry {
@@ -36,7 +53,7 @@ interface BaseEntry {
   /** Old Church Slavonic translation */
   stsl: string;
 
-  /** Original Greek or Latin text */
+  /** Original Greek or Latin text (from primary source - sources[0]) */
   originalText: string;
 
   /** Philosopher(s) to whom the entry belongs. Multiple authors for shared entries (e.g., teacher-student relationships). */
@@ -47,6 +64,9 @@ interface BaseEntry {
 
   /** Machine-readable pointer to the primary source location (from sources[0]) */
   pointer?: string;
+
+  /** Textual variants from alternative sources (only if text differs) */
+  textVariants?: TextVariant[];
 }
 
 /**
