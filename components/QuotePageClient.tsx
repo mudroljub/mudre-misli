@@ -4,7 +4,7 @@ import Link from "next/link";
 import Sidebar from "./Sidebar";
 import Header from "./Header";
 import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName } from "../lib/data";
-import { getTranslation } from "../lib/translations";
+import { useTranslations } from "../lib/useTranslations";
 import type { AuthorData, Language, Entry } from "../types/data";
 import styles from "./QuotePageClient.module.scss";
 
@@ -19,9 +19,9 @@ export default function QuotePageClient({
   authorData,
   language,
 }: QuotePageClientProps) {
-  const t = getTranslation(language);
+  const { t, transliterate } = useTranslations(language);
   const authorKey = Array.isArray(quote.author) ? quote.author[0] : quote.author;
-  const authorName = getAuthorName(authorKey, language);
+  const authorName = transliterate(getAuthorName(authorKey, language));
 
   return (
     <main className="page-shell">
@@ -34,7 +34,7 @@ export default function QuotePageClient({
           ) : null}
           <h2>{authorName}</h2>
 
-          <blockquote>{getTextForLanguage(quote, language)}</blockquote>
+          <blockquote>{transliterate(getTextForLanguage(quote, language))}</blockquote>
 
           <blockquote className={styles.originalQuote}>{quote.originalText}</blockquote>
 
@@ -42,7 +42,7 @@ export default function QuotePageClient({
             <b>{t.source}</b>: {quote.sources.map((src, idx) => (
               <span key={idx}>
                 {idx > 0 && "; "}
-                {getSourceName(src.name, language)}
+                {transliterate(getSourceName(src.name, language))}
                 {src.reference && `, ${src.reference}`}
               </span>
             ))}

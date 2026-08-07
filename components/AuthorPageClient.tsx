@@ -3,7 +3,7 @@
 import Sidebar from "./Sidebar";
 import Header from "./Header";
 import { getAuthorName } from "../lib/data";
-import { getTranslation } from "../lib/translations";
+import { useTranslations } from "../lib/useTranslations";
 import type { AuthorData, Language, Entry, LifeEvent, Saying } from "../types/data";
 import QuoteCard from "./QuoteCard";
 import BookLayout from "./BookLayout";
@@ -22,8 +22,8 @@ export default function AuthorPageClient({
   authorEntries,
   language,
 }: AuthorPageClientProps) {
-  const t = getTranslation(language);
-  const authorName = getAuthorName(author, language);
+  const { t, transliterate } = useTranslations(language);
+  const authorName = transliterate(getAuthorName(author, language));
 
   // Separate own quotes from cross-references
   // Simple rule: multiple authors = cross-reference (goes to "Spominjanja")

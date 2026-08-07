@@ -1,0 +1,81 @@
+@import '../styles/shared';
+
+.groups {
+  max-width: 1200px;
+}
+
+.group {
+  margin-bottom: $spacing-xl;
+
+  h3 {
+    color: $color-primary;
+    font-size: 1.5rem;
+    margin-bottom: $spacing-md;
+    border-bottom: 2px solid $color-primary;
+    padding-bottom: $spacing-xs;
+  }
+}
+
+.subgroups {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-lg;
+}
+
+.subgroup {
+  h4 {
+    color: $color-text;
+    font-size: 1.1rem;
+    margin-bottom: $spacing-sm;
+    font-weight: 500;
+  }
+}
+
+.authors {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: $spacing-md;
+}
+
+.authorCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: $spacing-md;
+  background: $color-white;
+  border-radius: $border-radius-md;
+  text-decoration: none;
+  color: $color-text;
+  transition: all $transition-fast;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  img, .placeholder {
+    width: 120px;
+    height: 120px;
+    border-radius: $border-radius-full;
+    object-fit: cover;
+    margin-bottom: $spacing-sm;
+    border: 3px solid $color-border;
+  }
+
+  .placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e5e5e5;
+    color: $color-text-light;
+    font-size: 3rem;
+    font-weight: 600;
+  }
+
+  span {
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+}

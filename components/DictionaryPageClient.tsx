@@ -2,7 +2,7 @@
 
 import Sidebar from './Sidebar';
 import Header from './Header';
-import { getTranslation } from '../lib/translations';
+import { useTranslations } from '../lib/useTranslations';
 import type { Language } from '../types/data';
 import styles from './DictionaryPageClient.module.scss';
 
@@ -53,7 +53,7 @@ function parseMarkdown(text: string) {
 }
 
 export default function DictionaryPageClient({ language, content }: DictionaryPageClientProps) {
-  const t = getTranslation(language);
+  const { t } = useTranslations(language);
 
   // Parse markdown table into array of rows
   const lines = content.split('\n');

@@ -18,6 +18,8 @@ export interface Translations {
   navPhilosophers: string;
   navDictionary: string;
   navAbout: string;
+  scriptCyr: string;
+  scriptLat: string;
   sidebarGroups: {
     ancientSages: string;
     presocratics: string;
@@ -142,6 +144,8 @@ export const translations: Record<Language, Translations> = {
     navPhilosophers: 'Филосоѳи',
     navDictionary: 'Рєчьникъ',
     navAbout: 'О дѣлѣ',
+    scriptCyr: 'Кѷрилица',
+    scriptLat: 'Латиница',
     sidebarGroups: {
       ancientSages: 'Дрєвьнїи мѫдрьци',
       presocratics: 'Прєдсократовци',
@@ -264,6 +268,8 @@ export const translations: Record<Language, Translations> = {
     navPhilosophers: 'Filozofi',
     navDictionary: 'Rečnik',
     navAbout: 'O projektu',
+    scriptCyr: 'Ћирилица',
+    scriptLat: 'Latinica',
     sidebarGroups: {
       ancientSages: 'Drevni mudraci',
       presocratics: 'Predsokratovci',

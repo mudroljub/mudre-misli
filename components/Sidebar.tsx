@@ -5,7 +5,7 @@ import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 import { authorsData, authorSlugs } from '../lib/data';
 import { authorGroups } from '../lib/authorGroups';
-import { getTranslation } from '../lib/translations';
+import { useTranslations } from '../lib/useTranslations';
 import type { Language } from '../types/data';
 import styles from './Sidebar.module.scss';
 
@@ -19,7 +19,7 @@ export default function Sidebar({ language }: SidebarProps) {
   const [expandedGroups, setExpandedGroups] = useState<Set<string>>(
     new Set()
   );
-  const t = getTranslation(language);
+  const { t, transliterate } = useTranslations(language);
 
   const toggleGroup = (groupTitle: string) => {
     const newExpanded = new Set(expandedGroups);
@@ -45,7 +45,7 @@ export default function Sidebar({ language }: SidebarProps) {
         href={`/${language}/authors/${slug}`}
         className={`${styles.author} ${isActive ? styles.active : ''}`}
       >
-        <span>{displayName}</span>
+        <span>{transliterate(displayName)}</span>
       </Link>
     );
   };

@@ -20,7 +20,6 @@ npm start
 
 ## TODO
 
-- dodati preslovljavanje (vidi svete misli)
 - čistka (posebno Platon)
 - UI: različitim stilovima označavati vrste unosa
 - proveriti previše rasečene i besmislene rečenice, koje su deo šire anegdote.

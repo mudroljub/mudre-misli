@@ -2,7 +2,7 @@
 
 import Sidebar from './Sidebar';
 import Header from './Header';
-import { getTranslation } from '../lib/translations';
+import { useTranslations } from '../lib/useTranslations';
 import type { Language, Entry } from '../types/data';
 import QuoteCard from './QuoteCard';
 
@@ -12,7 +12,7 @@ interface HomeContentProps {
 }
 
 export default function HomeContent({ featured, language }: HomeContentProps) {
-  const t = getTranslation(language);
+  const { t } = useTranslations(language);
 
   return (
     <main className="page-shell">

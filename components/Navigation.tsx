@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { getTranslation } from '../lib/translations';
+import { useTranslations } from '../lib/useTranslations';
 import type { Language } from '../types/data';
 import styles from './Navigation.module.scss';
 
@@ -12,7 +12,7 @@ interface NavigationProps {
 
 export default function Navigation({ language }: NavigationProps) {
   const pathname = usePathname();
-  const t = getTranslation(language);
+  const { t } = useTranslations(language);
 
   const navItems = [
     { href: `/${language}`, label: t.navHome },
