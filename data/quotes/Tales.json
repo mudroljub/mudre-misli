@@ -640,19 +640,6 @@
   },
   {
     "type": "reported",
-    "sr": "Tales je govorio da je zahvalan sudbini za tri dobra: što je rođen kao čovek, a ne životinja; kao muškarac, a ne žena; i kao Helen, a ne varvarin.",
-    "stsl": "Фалесъ глаголаше ꙗко сѫдьбѣ за три блага благодарить · ꙗко чловѣкомъ а не животнымъ роди сѧ · мѫжемъ а не женою · и Хеллиномъ а не варваромъ ·",
-    "originalText": "Τριῶν τούτων ἕνεκα χάριν ἔχειν τῇ Τύχῃ· πρῶτον μὲν ὅτι ἄνθρωπος ἐγενόμην καὶ οὐ θηρίον, εἶτα ὅτι ἀνὴρ καὶ οὐ γυνή, τρίτον ὅτι Ἕλλην καὶ οὐ βάρβαρος.",
-    "author": "Thales",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.33–34"
-      }
-    ]
-  },
-  {
-    "type": "reported",
     "sr": "Herodot, Duris i Demokrit svedoče da je Tales po poreklu Feničanin iz roda Kadma i Agenora.",
     "stsl": "Херодотъ · Дѹрисъ и Демокритъ свѣдѣтельствѹѭтъ · ꙗко Фалесъ отъ Финїчанъ · отъ племене Кадма и Агенора ·",
     "originalText": "Ἦν τοίνυν ὁ Θαλῆς, ὡς μὲν Ἡρόδοτος καὶ Δοῦρις καὶ Δημόκριτός φασι, πατρὸς μὲν Ἐξαμύου, μητρὸς δὲ Κλεοβουλίνης, ἐκ τῶν Θηλιδῶν, οἵ εἰσι Φοίνικες, εὐγενέστατοι τῶν ἀπὸ Κάδμου καὶ Ἀγήνορος.",
@@ -681,23 +668,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "I.23"
-      }
-    ]
-  },
-  {
-    "type": "reported",
-    "sr": "Ksenofan se suprotstavio Talesu i Pitagori u učenju.",
-    "stsl": "Ксенофанъ Фалесѹ и Пѷѳагорѣ въ ѹченїи противи сѧ ·",
-    "originalText": "ἀντιδοξάσαι τε λέγεται Θαλῇ καὶ Πυθαγόρᾳ.",
-    "author": [
-      "Thales",
-      "Xenophanes",
-      "Pythagoras"
-    ],
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.20"
       }
     ]
   }

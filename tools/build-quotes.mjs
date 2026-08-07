@@ -153,21 +153,19 @@ for (const file of files) {
     throw new Error(`${file} does not contain an array`)
 
   for (const entry of content) {
-    // Handle multi-author entries: expand to one entry per author
-    const authors = Array.isArray(entry.author) ? entry.author : [entry.author]
+    // Keep author as-is (array or single value)
+    const author = Array.isArray(entry.author) ? entry.author[0] : entry.author
 
-    for (const author of authors) {
-      // Build pointer from primary source (first in sources array)
-      const primarySource = entry.sources?.[0]
-      const pointer = primarySource ? await buildPointer(primarySource, author) : null
+    // Build pointer from primary source (first in sources array)
+    const primarySource = entry.sources?.[0]
+    const pointer = primarySource ? await buildPointer(primarySource, author) : null
 
-      allQuotes.push({
-        _id: nextId++,
-        ...entry,
-        author, // Override with single author
-        ...(pointer ? { pointer } : {}),
-      })
-    }
+    allQuotes.push({
+      _id: nextId++,
+      ...entry,
+      // Preserve original author structure (don't explode multi-author entries)
+      ...(pointer ? { pointer } : {}),
+    })
   }
 }
 

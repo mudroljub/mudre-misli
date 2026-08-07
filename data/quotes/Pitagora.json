@@ -792,19 +792,6 @@
   },
   {
     "type": "quote",
-    "sr": "Nikoga ne kažnjavaj u gnevu.",
-    "stsl": "Никогоже въ гнѣвѣ наказѹи ·",
-    "originalText": "ὀργιζόμενος τ' οὔτε οἰκέτην ἐκόλαζεν οὔτ' ἐλεύθερον οὐδένα.",
-    "author": "Pythagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.20"
-      }
-    ]
-  },
-  {
-    "type": "quote",
     "sr": "Opominjanje je ispravljanje.",
     "stsl": "Наставленіє єсть исправленіє ·",
     "originalText": "ἐκάλει δὲ τὸ νουθετεῖν πελαργᾶν.",
@@ -1182,19 +1169,6 @@
   },
   {
     "type": "quote",
-    "sr": "Bogove i heroje ne treba jednako poštovati: bogove uvek, u čistoj beloj odeći i pobožnoj tišini, a heroje tek od pola dana.",
-    "stsl": "Богы и свѧтии не равно чьстити подобаєть · богы всегда · въ чистѣ бѣлѣ одежди и благоговѣиномъ млъчании · свѧтыѧ же отъ полѹ дьне ·",
-    "originalText": "τιμὰς θεοῖς δεῖν νομίζειν καὶ ἥρωσι μὴ τὰς ἴσας, ἀλλὰ θεοῖς μὲν ἀεὶ μετ' εὐφημίας λευχειμονοῦντας καὶ ἁγνεύοντας, ἥρωσι δ' ἀπὸ μέσου ἡμέρας.",
-    "author": "Pythagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.33"
-      }
-    ]
-  },
-  {
-    "type": "quote",
     "sr": "Očišćenje zahteva pranje, obredno kropljenje i uzdržavanje od oskrnavljenja i jedenja duševnih bića.",
     "stsl": "Очищеніє требѹєть омовеніꙗ · окропленіꙗ и въздръжаніꙗ отъ скврънь и ѧдениꙗ имѫщихъ дѹшѫ ·",
     "originalText": "τὴν δ' ἁγνείαν εἶναι διὰ καθαρμῶν καὶ λουτρῶν καὶ περιῤῥαντηρίων καὶ διὰ τοῦ αὐτὸν καθαρεύειν ἀπό τε κήδους καὶ λεχοῦς καὶ μιάσματος παντὸς καὶ ἀπέχεσθαι βρωτῶν θνησειδίων τε κρεῶν καὶ τριγλῶν καὶ μελανούρων καὶ ᾠῶν καὶ τῶν ᾠοτόκων ζῴων καὶ κυάμων καὶ τῶν ἄλλων ὧν παρακελεύονται καὶ οἱ τὰς τελετὰς ἐν τοῖς ἱεροῖς ἐπιτελοῦντες.",
@@ -1269,22 +1243,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "I.13"
-      }
-    ]
-  },
-  {
-    "type": "reported",
-    "sr": "Heraklit reče: mnogoučenost ne uči razum - inače bi naučila Hesioda, Pitagoru, Ksenofana i Hekateja.",
-    "stsl": "Хераклитъ рече · многоѹчение разѹма не ѹчитъ · иначе бꙑ наѹчило Хесїода · Пѷѳагорѫ · Ксенофана и Хекатеа ·",
-    "originalText": "πολυμαθίη νόον οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην, αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον.",
-    "author": [
-      "Pythagoras",
-      "Heraclitus"
-    ],
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.1"
       }
     ]
   },

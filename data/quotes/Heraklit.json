@@ -321,20 +321,6 @@
   },
   {
     "type": "anecdote",
-    "sr": "U mladosti je govorio da ništa ne zna, ali kada je odrastao, tvrdio je da zna sve. Ničiji učenik nije bio, već je izjavio da je ispitivao sebe samoga i od sebe samoga sve naučio.",
-    "stsl": "Въ юности глаголааше · ꙗко ничесо же не вѣсть · нъ єгда одрасте · глаголааше ꙗко вьсе вѣсть · Ничиємѹ же ѹченикъ бысть · нъ исповѣдааше · ꙗко самъ себе испытовааше и самъ отъ себе вьсе ѹвѣдѣ ·",
-    "author": "Heraclitus",
-    "year": -535,
-    "originalText": "Γέγονε δὲ θαυμάσιος ἐκ παίδων, ὅτε καὶ νέος ὢν ἔφασκε μηδὲν εἰδέναι, τέλειος μέντοι γενόμενος πάντα ἐγνωκέναι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.5"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
     "sr": "Kada su Efesci tražili od Heraklita da im napiše zakone, on je to odbio, rekavši da je njihov ustav već loš i da bi se time ništa ne postiglo.",
     "stsl": "Єгда Ефесѧне просиша Хераклита да имъ законꙑ напишетъ · онъ отрече · рекыи · ѹставъ ихъ и безъ того золъ єсть · и ничто же симъ не бꙑло бы достигнѹто ·",
     "author": "Heraclitus",
@@ -419,23 +405,6 @@
   },
   {
     "type": "reported",
-    "sr": "Heraklit i Demokrit svedoče o Talesu kao astronomu koji je predvideo pomračenja Sunca i ravnodnevice.",
-    "stsl": "Хераклитъ и Демокритъ свѣдѣтельствѹѭтъ о Фалесѣ · ꙗкоже астрономѣ иже помрачениꙗ и равьнодьньствиꙗ прѣдвидѣ ·",
-    "originalText": "Μαρτυρεῖ δ' αὐτῷ καὶ Ἡράκλειτος καὶ Δημόκριτος.",
-    "author": [
-      "Heraclitus",
-      "Thales",
-      "Democritus"
-    ],
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.23"
-      }
-    ]
-  },
-  {
-    "type": "reported",
     "sr": "Platon spaja učenja: čulno po Heraklitu, umno po Pitagori, političko po Sokratu.",
     "stsl": "Платонъ ѹчениꙗ съставлѧєтъ · чѹвьствьно по Хераклитѹ · ѹмьно по Пѷѳагорѣ · политичьско по Сократѹ ·",
     "originalText": "Μίξιν τε ἐποιήσατο τῶν τε Ἡρακλειτείων λόγων καὶ Πυθαγορικῶν καὶ Σωκρατικῶν· τὰ μὲν γὰρ αἰσθητὰ καθ' Ἡράκλειτον, τὰ δὲ νοητὰ κατὰ Πυθαγόραν, τὰ δὲ πολιτικὰ κατὰ Σωκράτην ἐφιλοσόφει.",
@@ -449,22 +418,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "III.8"
-      }
-    ]
-  },
-  {
-    "type": "reported",
-    "sr": "Epikur Heraklita nazivao mešač, Demokrita Lerokrit (budala), Protagoru prepisivač.",
-    "stsl": "Епикѹръ Хераклита мѣшателемъ нарицааше · Демокрита Леро критъ (бѹдала) · Протагорѫ преписателемъ ·",
-    "originalText": "Ἡράκλειτόν τε κυκητὴν καὶ Δημόκριτον Ληρόκριτον καὶ Ἀντίδωρον Σαννίδωρον·",
-    "author": [
-      "Heraclitus",
-      "Epicurus"
-    ],
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "X.8"
       }
     ]
   }

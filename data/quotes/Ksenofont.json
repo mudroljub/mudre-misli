@@ -127,19 +127,6 @@
   },
   {
     "type": "reported",
-    "sr": "Ksenofont je govorio da je priroda odavno osudila na smrt i njegove sudije i njega.",
-    "stsl": "Ксенофонтъ глаголаше ꙗко єстество издавьна и сѫдиѩ єго и самого єго на смрьть осѫди ·",
-    "originalText": "Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο.",
-    "author": "Xenophon",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.13"
-      }
-    ]
-  },
-  {
-    "type": "reported",
     "sr": "Ksenofont je govorio da je Sokrat raspravljao samo o etičkim pitanjima.",
     "stsl": "Ксенофонтъ глаголаше · ꙗko Сократъ тъкмо о нравьныхъ вещехъ бесѣдоваше ·",
     "originalText": "Ξενοφῶν καίτοι περὶ μόνων τῶν ἠθικῶν ποιεῖσθαι τοὺς λόγους αὐτὸν εἰπών.",
@@ -161,19 +148,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "II.49"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Znao sam da je moj sin smrtan.",
-    "stsl": "Вѣдѣхъ · ꙗко сынъ мои смрьтьнъ єсть ·",
-    "originalText": "Ἤδειν αὐτοὺς θνητοὺς γεννήσας.",
-    "author": "Xenophon",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.55"
       }
     ]
   },
