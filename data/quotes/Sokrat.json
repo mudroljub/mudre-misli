@@ -111,10 +111,12 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Ako bi me magarac šutnuo, zar bih ga zbog toga tužio?",
-    "stsl": "Аште бы мѧ осьлъ ритнѫлъ · того ли ради на нь сѫдъ въздвиглъ быхъ ·",
-    "originalText": "Εἰ δέ με ὄνος ἐλάκτισε, δίκην ἂν αὐτῷ ἐλάγχανον;",
+    "type": "anecdote",
+    "sr": "Često je u raspravama primao udarce i čupan za kosu, i najčešće ismevan sa prezirom. Sve je to podnosio strpljivo. Zato kada ga je neko šutnuo, a on to podnео, neko se čudio, pa je rekao: Ako bi me magarac šutnuo, zar bih ga zbog toga tužio?",
+    "stsl": "Многожьды въ прѣнїихъ бываꙗше избиваємъ и за власы влѣкомъ · и паче всего посмѣиваємъ съ презрѣниємъ · и вьсѧ сиꙗ терпѣливьно ношааше · Тѣмьже и єгда нѣкто єго ритнѫ · а онъ понесе · инъ же дивлѧаше сѧ · рече · Аште бы мѧ осьлъ ритнѫлъ · того ли ради на нь сѫдъ въздвиглъ быхъ ·",
+    "originalText": "Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως. Ὅθεν καὶ λακτισθέντα, ἐπειδὴ ἠνέσχετο, τινὸς θαυμάσαντος, εἰπεῖν, « Εἰ δέ με ὄνος ἐλάκτισε, δίκην ἂν αὐτῷ ἐλάγχανον; »",
+    "author": "Socrates",
+    "year": -420,
     "sources": [
       {
         "name": "diogenes-laertius",

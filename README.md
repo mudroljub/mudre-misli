@@ -20,6 +20,7 @@ npm start
 
 ## TODO
 
+- proveriti previše rasečene i besmislene rečenice, koje su deo šire anegdote.
 - srediti izvore jer je obisan eng
 - dodati nove izvore
 - proveriti sr prevode na osnovu rečnika
