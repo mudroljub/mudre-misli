@@ -25,7 +25,9 @@ export default function AuthorPage({ params }: AuthorPageProps) {
     notFound();
   }
 
-  const authorEntries = quotesData.filter((entry) => entry.author === author);
+  const authorEntries = quotesData.filter((entry) =>
+    Array.isArray(entry.author) ? entry.author.includes(author) : entry.author === author
+  );
 
   return <AuthorPageClient author={author} authorData={authorData} authorEntries={authorEntries} />;
 }

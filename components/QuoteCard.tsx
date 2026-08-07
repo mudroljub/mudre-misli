@@ -18,7 +18,8 @@ export default function QuoteCard({
   showSource = true,
 }: QuoteCardProps) {
   const t = getTranslation(language);
-  const slug = authorSlugs[entry.author];
+  const authorName = Array.isArray(entry.author) ? entry.author[0] : entry.author;
+  const slug = authorSlugs[authorName];
 
   return (
     <div className={styles.card}>
@@ -28,7 +29,7 @@ export default function QuoteCard({
         <p className={styles.authorLine}>
           —{" "}
           <Link href={`/authors/${slug}`} className={styles.noLink}>
-            {getAuthorName(entry.author, language)}
+            {getAuthorName(authorName, language)}
           </Link>
         </p>
       )}

@@ -454,5 +454,32 @@
     "author": "Thales",
     "source": "diogenes-laertius",
     "reference": "I.33–34"
+  },
+  {
+    "type": "reported",
+    "sr": "Herodot, Duris i Demokrit svedoče da je Tales po poreklu Feničanin iz roda Kadma i Agenora.",
+    "stsl": "Херодотъ · Дѹрисъ и Демокритъ свѣдѣтельствѹѭтъ · ꙗко Фалесъ отъ Финїчанъ · отъ племене Кадма и Агенора ·",
+    "originalText": "Ἦν τοίνυν ὁ Θαλῆς, ὡς μὲν Ἡρόδοτος καὶ Δοῦρις καὶ Δημόκριτός φασι, πατρὸς μὲν Ἐξαμύου, μητρὸς δὲ Κλεοβουλίνης, ἐκ τῶν Θηλιδῶν, οἵ εἰσι Φοίνικες, εὐγενέστατοι τῶν ἀπὸ Κάδμου καὶ Ἀγήνορος.",
+    "author": ["Thales", "Democritus"],
+    "source": "diogenes-laertius",
+    "reference": "I.22"
+  },
+  {
+    "type": "reported",
+    "sr": "Heraklit i Demokrit svedoče o Talesu kao astronomu koji je predvideo pomračenja Sunca i ravnodnevice.",
+    "stsl": "Хераклитъ и Демокритъ свѣдѣтельствѹѭтъ о Фалесѣ · ꙗкоже астрономѣ иже помрачениꙗ и равьнодьньствиꙗ прѣдвидѣ ·",
+    "originalText": "Μαρτυρεῖ δ' αὐτῷ καὶ Ἡράκλειτος καὶ Δημόκριτος.",
+    "author": ["Thales", "Democritus", "Heraclitus"],
+    "source": "diogenes-laertius",
+    "reference": "I.23"
+  },
+  {
+    "type": "reported",
+    "sr": "Ksenofan se suprotstavio Talesu i Pitagori u učenju.",
+    "stsl": "Ксенофанъ Фалесѹ и Пѷѳагорѣ въ ѹченїи противи сѧ ·",
+    "originalText": "ἀντιδοξάσαι τε λέγεται Θαλῇ καὶ Πυθαγόρᾳ.",
+    "author": ["Thales", "Xenophanes", "Pythagoras"],
+    "source": "diogenes-laertius",
+    "reference": "IX.20"
   }
 ]

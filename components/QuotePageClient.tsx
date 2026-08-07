@@ -20,7 +20,8 @@ export default function QuotePageClient({
 }: QuotePageClientProps) {
   const [language, setLanguage] = useState<Language>("stsl");
   const t = getTranslation(language);
-  const authorName = getAuthorName(quote.author, language);
+  const authorKey = Array.isArray(quote.author) ? quote.author[0] : quote.author;
+  const authorName = getAuthorName(authorKey, language);
 
   return (
     <main className="page-shell">
@@ -41,7 +42,7 @@ export default function QuotePageClient({
             <b>{t.source}</b>: {getSourceName(quote.source, language)}, {quote.reference}
           </p>
 
-          <Link href={`/authors/${authorSlugs[quote.author] ?? quote.author}`}>
+          <Link href={`/authors/${authorSlugs[authorKey] ?? authorKey}`}>
             {t.gotoAuthor}
           </Link>
         </div>

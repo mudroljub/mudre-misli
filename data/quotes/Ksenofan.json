@@ -189,5 +189,23 @@
     "year": -478,
     "reference": "IX.20",
     "originalText": "Ταῖς αὑτοῦ χερσὶ θάψαι τοὺς παῖδας καθάπερ Ἀναξαγόρας."
+  },
+  {
+    "type": "reported",
+    "sr": "Heraklit reče: mnogoznanje ne uči umu, jer bi naučilo Hesioda i Pitagoru, a zatim i Ksenofana i Hekateja.",
+    "stsl": "Хераклитъ рече · многозна́ніє не ѹчитъ ѹма · ибо наѹчило бы Хесїода и Питагору · таже и Ксенофана и Хекатеа ·",
+    "originalText": "πολυμαθίη νόον οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην, αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον.",
+    "author": ["Xenophanes", "Heraclitus"],
+    "source": "diogenes-laertius",
+    "reference": "IX.1"
+  },
+  {
+    "type": "reported",
+    "sr": "Parmenid je slušao Ksenofana, ali nije sledio njegovo učenje.",
+    "stsl": "Парменидъ Ксенофана слꙑша · но ѹченїю єго не послѣдова.",
+    "originalText": "Οὗτος ἤκουσε Ξενοφάνους, οὐ μέντοι ἐζήλωσεν αὐτόν.",
+    "author": ["Xenophanes", "Parmenides"],
+    "source": "diogenes-laertius",
+    "reference": "IX.21"
   }
 ]

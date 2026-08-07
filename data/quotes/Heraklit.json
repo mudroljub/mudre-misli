@@ -292,5 +292,32 @@
     "year": -475,
     "reference": "IX.3",
     "originalText": "Καὶ μέντοι καὶ διὰ τοῦτο περιτραπεὶς εἰς ὕδερον κατῆλθεν εἰς ἄστυ καὶ τῶν ἰατρῶν αἰνιγματωδῶς ἐπυνθάνετο εἰ δύναιντο ἐξ ἐπομβρίας αὐχμὸν ποιῆσαι· τῶν δὲ μὴ συνιέντων, αὑτὸν εἰς βούστασιν κατορύξας τῇ τῶν βολίτων ἀλέᾳ ἤλπισεν ἐξατμισθήσεσθαι."
+  },
+  {
+    "type": "reported",
+    "sr": "Heraklit i Demokrit svedoče o Talesu kao astronomu koji je predvideo pomračenja Sunca i ravnodnevice.",
+    "stsl": "Хераклитъ и Демокритъ свѣдѣтельствѹѭтъ о Фалесѣ · ꙗкоже астрономѣ иже помрачениꙗ и равьнодьньствиꙗ прѣдвидѣ ·",
+    "originalText": "Μαρτυρεῖ δ' αὐτῷ καὶ Ἡράκλειτος καὶ Δημόκριτος.",
+    "author": ["Heraclitus", "Thales", "Democritus"],
+    "source": "diogenes-laertius",
+    "reference": "I.23"
+  },
+  {
+    "type": "reported",
+    "sr": "Platon spaja učenja: čulno po Heraklitu, umno po Pitagori, političko po Sokratu.",
+    "stsl": "Платонъ ѹчениꙗ съставлѧєтъ · чѹвьствьно по Хераклитѹ · ѹмьно по Пѷѳагорѣ · политичьско по Сократѹ ·",
+    "originalText": "Μίξιν τε ἐποιήσατο τῶν τε Ἡρακλειτείων λόγων καὶ Πυθαγορικῶν καὶ Σωκρατικῶν· τὰ μὲν γὰρ αἰσθητὰ καθ' Ἡράκλειτον, τὰ δὲ νοητὰ κατὰ Πυθαγόραν, τὰ δὲ πολιτικὰ κατὰ Σωκράτην ἐφιλοσόφει.",
+    "author": ["Heraclitus", "Plato", "Pythagoras", "Socrates"],
+    "source": "diogenes-laertius",
+    "reference": "III.8"
+  },
+  {
+    "type": "reported",
+    "sr": "Epikur Heraklita nazivao mešač, Demokrita Lerokrit (budala), Protagoru prepisivač.",
+    "stsl": "Епикѹръ Хераклита мѣшателемъ нарицааше · Демокрита Леро критъ (бѹдала) · Протагорѫ преписателемъ ·",
+    "originalText": "Ἡράκλειτόν τε κυκητὴν καὶ Δημόκριτον Ληρόκριτον καὶ Ἀντίδωρον Σαννίδωρον·",
+    "author": ["Heraclitus", "Epicurus"],
+    "source": "diogenes-laertius",
+    "reference": "X.8"
   }
 ]

@@ -20,7 +20,8 @@ export default function QuotePage({ params }: QuotePageProps) {
     notFound();
   }
 
-  const authorData = authorsData[quote.author];
+  const authorName = Array.isArray(quote.author) ? quote.author[0] : quote.author;
+  const authorData = authorsData[authorName];
 
   return <QuotePageClient quote={quote} authorData={authorData} />;
 }

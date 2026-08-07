@@ -333,5 +333,32 @@
     "source": "diogenes-laertius",
     "year": -434,
     "reference": "VIII.67–74"
+  },
+  {
+    "type": "reported",
+    "sr": "Parmenid je filozofirao kroz poeziju, kao Hesiod, Ksenofan i Empedoklo.",
+    "stsl": "Парменидъ философствова чрѣзъ поезію · ꙗкоже Хесїодъ · Ксенофанъ и Емпедоклъ ·",
+    "originalText": "Καὶ αὐτὸς δὲ διὰ ποιημάτων φιλοσοφεῖ, καθάπερ Ἡσίοδός τε καὶ Ξενοφάνης καὶ Ἐμπεδοκλῆς.",
+    "author": ["Empedocles", "Parmenides"],
+    "source": "diogenes-laertius",
+    "reference": "IX.22"
+  },
+  {
+    "type": "reported",
+    "sr": "Aristotel reče: Zenon iznađe dijalektiku, kao što Empedoklo iznađe retoriku.",
+    "stsl": "Аристотель рече · Зєнонъ изобрѣте дїалектикѹ · ꙗкоже Емпедоклъ изобрѣте рѣчьное хѹдожьство ·",
+    "originalText": "Ἀριστοτέλης εὑρετὴν αὐτὸν γενέσθαι διαλεκτικῆς, ὥσπερ Ἐμπεδοκλέα ῥητορικῆς.",
+    "author": ["Empedocles", "Zeno of Elea"],
+    "source": "diogenes-laertius",
+    "reference": "IX.25"
+  },
+  {
+    "type": "quote",
+    "sr": "Tako ljudima nisu ove stvari vidljive, ni čuljive, niti umom obuhvatljive.",
+    "stsl": "Тако чловѣкомъ не сѫть сиꙗ видимаꙗ · ни слꙑшимаꙗ · ни ѹмомъ обьꙗтельнаꙗ ·",
+    "originalText": "οὕτως οὔτ' ἐπιδερκτὰ τάδ' ἀνδράσιν οὔτ' ἐπακουστὰ οὔτε νόῳ περιληπτά·",
+    "author": "Empedocles",
+    "source": "diogenes-laertius",
+    "reference": "IX.73"
   }
 ]

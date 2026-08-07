@@ -328,5 +328,33 @@
     "source": "diogenes-laertius",
     "year": -428,
     "reference": "II.14–15"
+  },
+  {
+    "type": "bio",
+    "sr": "Ksenofan je, kao i Anaksagora, svojim rukama sahranio svoje sinove.",
+    "stsl": "Ксенофанъ · ꙗкоже Анаксагора · своима рѫкама погребе сыны своѧ ·",
+    "originalText": "Ταῖς αὑτοῦ χερσὶ θάψαι τοὺς παῖδας καθάπερ Ἀναξαγόρας.",
+    "author": ["Anaxagoras", "Xenophanes"],
+    "source": "diogenes-laertius",
+    "year": -478,
+    "reference": "IX.20"
+  },
+  {
+    "type": "reported",
+    "sr": "Demokrit je po nekima slušao Anaksagoru, mlađi od njega četrdeset godina. Favorin kaže da Demokrit tvrdio kako Anaksagorina učenja o Suncu i Mesecu nisu njegova nego stara, te ih je Anaksagora prisvoji i ukrao. Demokrit je osuđivao Anaksagorin um i njegovo uređenje sveta, neprijateljski raspoložen prema njemu jer ga ovaj nije prihvatio.",
+    "stsl": "Демокритъ по нѣкїимъ Анаксагорѹ слꙑша · младꙑи отъ него четꙑредесѧтъ лѣтъ · Фаворинъ глаголєть · ꙗко Демокритъ твръдѧаше · ꙗко Анаксагорина ѹчєниꙗ о слъньци и мѣсѧци не сѫть єго · нъ стара · и ꙗ Анаксагора присвои и ѹкраде · Демокритъ же осѫждааше Анаксагоринъ ѹмъ и ѹстроєниє мира · непрїꙗзньнѣ къ немѹ расположенъ · зане єго сеи не приѧтъ ·",
+    "originalText": "Λευκίππῳ παρέβαλε καὶ Ἀναξαγόρᾳ κατά τινας, ἔτεσιν ὢν αὐτοῦ νεώτερος τετταράκοντα. Φαβωρῖνος δέ φησιν ἐν Παντοδαπῇ ἱστορίᾳ λέγειν Δημόκριτον περὶ Ἀναξαγόρου ὡς οὐκ εἴησαν αὐτοῦ αἱ δόξαι αἵ τε περὶ ἡλίου καὶ σελήνης, ἀλλὰ ἀρχαῖαι, τὸν δ' ὑφῃρῆσθαι. διασύρειν τε αὐτοῦ τὰ περὶ τῆς διακοσμήσεως καὶ τοῦ νοῦ, ἐχθρῶς ἔχοντα πρὸς αὐτὸν ὅτι δὴ μὴ προσήκατο αὐτόν.",
+    "author": ["Anaxagoras", "Democritus"],
+    "source": "diogenes-laertius",
+    "reference": "IX.34"
+  },
+  {
+    "type": "reported",
+    "sr": "Epikur je najviše cenio od starih filozofa Anaksagoru, iako mu se u nekima protivio.",
+    "stsl": "Епікѹръ наипаче цѣнѧше отъ ꙁѣдавънихъ философъ Анаксагорѹ · аште и въ нѣкїихъ противлꙗаше сѧ ємѹ ·",
+    "originalText": "Μάλιστα δ' ἀπεδέχετο, φησὶ Διοκλῆς, τῶν ἀρχαίων Ἀναξαγόραν, καίτοι ἔν τισιν ἀντειρηκὼς αὐτῷ.",
+    "author": ["Anaxagoras", "Epicurus"],
+    "source": "diogenes-laertius",
+    "reference": "X.13"
   }
 ]
