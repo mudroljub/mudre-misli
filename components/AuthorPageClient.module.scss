@@ -8,6 +8,10 @@
   }
 }
 
+.authorName {
+  margin-bottom: 0;
+}
+
 .authorDates {
   margin-top: -0.5rem;
   margin-bottom: 1.5rem;
@@ -18,6 +22,7 @@
 .birthplace {
   color: $color-text-light;
   margin-bottom: $spacing-md;
+  margin-top: $spacing-xs;
 }
 
 .authorPortrait {
@@ -26,7 +31,7 @@
   max-width: 100%;
   height: auto;
   border-radius: $border-radius-md;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .authorSection {

@@ -25,8 +25,6 @@ export default function AuthorPageClient({
   const { t, transliterate } = useTranslations(language);
   const authorName = transliterate(getAuthorName(author, language));
 
-  // Separate own quotes from cross-references
-  // Simple rule: multiple authors = cross-reference (goes to "Spominjanja")
   const isCrossReference = (entry: Entry) => {
     const authors = Array.isArray(entry.author) ? entry.author : [entry.author];
     return authors.length > 1;
@@ -55,7 +53,7 @@ export default function AuthorPageClient({
       <section className={styles.content}>
         <Header language={language} />
 
-        <h2>{authorName}</h2>
+        <h2 className={styles.authorName}>{authorName}</h2>
 
         {authorData.birthplace && (
           <p className={styles.birthplace}>

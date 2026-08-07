@@ -24,6 +24,9 @@ npm start
 - čistka (posebno Platon)
 - proveriti previše rasečene i besmislene rečenice, koje su deo šire anegdote.
 - proveriti sr prevode na osnovu rečnika
+- dodaj tagove i stranice za tagove. klik na pojam u rečniku vodi ka upotrebi tog pojma.
+- dodaj link ka vikipediji da bude knjiga pored imena filozofa
+- prikaži godinu rođenja i smrti na strani autora
 
 ## Poboljšanje prevoda
 
