@@ -378,6 +378,21 @@
   },
   {
     "type": "anecdote",
+    "sr": "Prema Boetiju, Empedoklo je toliko poznavao umetnost pevanja da je, kada je jedan besan mladić napao kralja zbog toga što je otac mladićev osuđen na osnovu njegove optužbe, Empedoklo tako nežno pevao da je smirио mladićev gnev.",
+    "stsl": "По Боетїю · Емпедоклъ толико пѣснопѣніе вѣдѣаше · ꙗко єгда єдинъ ꙗрыи юноша нападе на царѧ · занеже отьць єго осѫждень бысть єго вины ради · Емпедоклъ тако нѣжьно пѣваше · ꙗко юношинъ гнѣвъ ѹтоли ·",
+    "originalText": "Hic, ut ait Boecius in prologo de arte musica, adeo noverat ex musica artein canendi quod, cum rege hospites invenit quidam furibundus invaderet eo quod patrem eius accusacione dampnasset. Ipse Empedocles adeo miti canendi modo dicitur inflexisse quod adolescentis iracundiam temperavit.",
+    "la": "Hic, ut ait Boecius in prologo de arte musica, adeo noverat ex musica artein canendi quod, cum rege hospites invenit quidam furibundus invaderet eo quod patrem eius accusacione dampnasset. Ipse Empedocles adeo miti canendi modo dicitur inflexisse quod adolescentis iracundiam temperavit.",
+    "author": "Empedocles",
+    "year": -465,
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XLVII"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
     "sr": "Empedoklo je odbio ponuđenu kraljevsku vlast jer je više cenio skroman život; Aristotel ga zato opisuje kao pobornika slobode i protivnika svake vlasti.",
     "stsl": "Ємпедоклъ подаваємѹю царскѹю власть отърече · зане смѣреныи животъ паче цѣнѧше · сего ради Аристотель єго поборникомъ свободы и противникомъ всѧкыѩ власти имѧнѹєть ·",
     "originalText": "φησὶ δ' αὐτὸν καὶ Ἀριστοτέλης ἐλεύθερον γεγονέναι καὶ πάσης ἀρχῆς ἀλλότριον, εἴ γε τὴν βασιλείαν αὐτῷ διδομένην παρῃτήσατο, καθάπερ Ξάνθος ἐν τοῖς περὶ αὐτοῦ λέγει, τὴν λιτότητα δηλονότι πλέον ἀγαπήσας.",
@@ -516,6 +531,48 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.73"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Tri su najvažnije stvari u celoj raznolikosti bića: prezir pokretnog bogatstva, težnja ka budućoj sreći i prosvetljenje uma.",
+    "stsl": "Три сѫть наивѧштьшаꙗ въ всеи разноличьности бытїꙗ · презрѣніє движимаго богатьства · стремленіе къ бѫдѫштеи щастью и просвѣштеніе ѹма ·",
+    "originalText": "Tria sunt in tota rerum varietate precipua, scil. mobilis affluencio contemptus, future felicitatis appetitus et mentis illustracio.",
+    "la": "Tria sunt in tota rerum varietate precipua, scilicet mobilis affluencio contemptus, future felicitatis appetitus et mentis illustracio.",
+    "author": "Empedocles",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XLVII"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kada je Empedoklo upitan zašto živi, odgovorio je: Da gledam zvezde. Oduzmi nebo, i ja nisam ništa.",
+    "stsl": "Єгда Емпедоклъ вопрошенъ бысть · почто живеши · отвѣшта · Да на звѣзды взираѭ · Отъими небо · и азъ нисмь ничтоже ·",
+    "originalText": "Interrogatus Empedocles, ut ait Bernhardus Silvestris, cur viverct: «Ut astra,» ait, «inspiciam. Celum subtrahie, nullus ero.»",
+    "la": "Interrogatus Empedocles cur viveret: «Ut astra» ait «inspiciam. Celum subtrahie, nullus ero.»",
+    "author": "Empedocles",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XLVII"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Bog je sfera čiji je centar svuda, a obim nigde.",
+    "stsl": "Богъ єсть сфера · єꙗже центръ вьсꙋдѣ · окрѫжность же нигдѣже ·",
+    "originalText": "Deus est spera cuius centrum est ubique et circunferencia nusquam.",
+    "la": "Deus est spera cuius centrum est ubique et circumferencia nusquam.",
+    "author": "Empedocles",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XLVII"
       }
     ]
   }

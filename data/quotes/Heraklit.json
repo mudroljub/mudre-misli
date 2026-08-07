@@ -165,6 +165,20 @@
   },
   {
     "type": "quote",
+    "sr": "Jedan dan jednak je svima.",
+    "stsl": "Єдинъ дьнь равьнъ вьсѣмъ єсть.",
+    "originalText": "Unus dies par omni est.",
+    "la": "Unus dies par omni est.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XLVII"
+      }
+    ]
+  },
+  {
+    "type": "quote",
     "sr": "Narod treba da se bori za zakon kao za gradske zidine.",
     "stsl": "Подобаєть людемъ ратовати за законъ ꙗко за градьскыѧ стѣны ·",
     "originalText": "μάχεσθαι χρὴ τὸν δῆμον ὑπὲρ τοῦ νόμου ὅκως ὑπὲρ τείχεος.",
