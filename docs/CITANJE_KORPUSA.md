@@ -1,4 +1,4 @@
-# Zadatak: izdvajanje staroslovenskih jezičkih primera iz korpusa
+# Zadatak: izdvajanje staroslovenskih jezičkih i filozofskih primera iz korpusa
 
 ## Cilj
 
@@ -7,10 +7,12 @@ Iz lokalnog korpusa staroslovenskih tekstova izdvojiti najbolje primere za rekon
 Ne praviti običan indeks pojavljivanja reči.
 
 Cilj je napraviti mali, kvalitetan jezički korpus koji pokazuje:
+
 - kako staroslovenski izražava apstraktne pojmove;
 - kako prevodi grčke filozofske i teološke termine;
-- kako gradi rečenicu;
-- kako tvori apstraktne imenice.
+- kako gradi filozofsku rečenicu;
+- kako tvori apstraktne imenice;
+- kako izražava definicije i argumente.
 
 ---
 
@@ -21,113 +23,286 @@ Korpus se nalazi lokalno:
 ```
 
 data\sources\corpus
-├── marianus
-├── zographensis
-├── assemanius
-├── sava
-└── suprasliensis
 
 ```
 
-Prioritet izvora:
+---
 
-1. Suprasliensis — filozofski i apstraktni izrazi
-2. Sava — složen prevodilački jezik
-3. Marianus — osnovna sintaksa i najstariji sloj
-4. Zographensis — poređenje arhaičnih oblika
-5. Assemanius — leksičke varijante
+# Hijerarhija izvora
+
+Izvori se dele na dve grupe.
+
+## A. Filozofski i apstraktni jezik
+
+Ovi tekstovi imaju najveći prioritet.
+
+### 1. Разуми на елинские философи.txt
+
+Prioritet: ★★★★★
+
+Glavni izvor za:
+
+- grčke filozofske pojmove;
+- prevod antičkih termina;
+- jezik o mudrosti i znanju.
+
+Posebno tražiti:
+
+- философъ
+- мѫдрость
+- душа
+- природа
+- начало
+- бытие
+- разумъ
+
+
+### 2. Прогласъ.txt
+
+Prioritet: ★★★★★
+
+Glavni izvor za:
+
+- filozofiju jezika;
+- odnos slova, reči i smisla;
+- apstraktni govor.
+
+Posebno tražiti:
+
+- слово
+- писание
+- языкъ
+- разумъ
+- знание
+
+
+### 3. О письменьхъ.txt
+
+Prioritet: ★★★★★
+
+Glavni izvor za:
+
+- pojam jezika;
+- znak i značenje;
+- odnos glasa i slova.
+
+
+### 4. Пчела.txt / Бьчела.txt
+
+Prioritet: ★★★★☆
+
+Glavni izvor za:
+
+- mudrosne iskaze;
+- definicije;
+- filozofske obrasce.
+
+Posebno tražiti konstrukcije:
+
+```
+
+X єсть Y
+X подобьно Y
+
+```
+
+---
+
+## B. Prevodilački i jezički uzor
+
+### 5. Suprasliensis
+
+Prioritet: ★★★★★
+
+Najvažniji prevodilački izvor.
+
+Koristiti za:
+
+- apstraktne imenice;
+- prevod grčkih pojmova;
+- složene rečenice.
+
+---
+
+### 6. Sava
+
+Prioritet: ★★★★☆
+
+Koristiti za:
+
+- razvijene apstraktne konstrukcije;
+- prevodilački stil.
+
+
+---
+
+### 7. Vita Constantini
+
+Prioritet: ★★★★☆
+
+Koristiti za:
+
+- rasprave o jeziku;
+- odnos znanja i vere;
+- filozofski stil.
+
+---
+
+### 8. Marianus
+
+Prioritet: ★★★★☆
+
+Koristiti za:
+
+- osnovnu sintaksu;
+- najstariji književni sloj.
+
+
+---
+
+### 9. Zographensis
+
+Prioritet: ★★★★☆
+
+Koristiti za:
+
+- poređenje arhaičnih oblika;
+- grafiju.
+
+
+---
+
+### 10. Assemanius
+
+Prioritet: ★★★☆☆
+
+Koristiti za:
+
+- leksičke varijante.
+
 
 ---
 
 # Šta izdvajati
 
-Tražiti primere koji sadrže ili objašnjavaju sledeće pojmove:
+Tražiti primere koji pokazuju filozofsku ili apstraktnu upotrebu.
+
+Ne tražiti samo pojavljivanje reči.
+
+---
+
+# Ključni pojmovi
 
 ## Biće i postojanje
 
 Grčki:
+
 - εἶναι
 - οὐσία
 - φύσις
 
 Slovenski:
+
 - єсть
 - быти
 - сѫщьство
 - єстьство
+
 
 ---
 
 ## Um i mišljenje
 
 Grčki:
+
 - νοῦς
 - διάνοια
 - φρόνησις
 
 Slovenski:
+
 - умъ
 - разумъ
 - размꙑслъ
 - помыслъ
 
+
 ---
 
-## Reč i razum
+## Reč i logos
 
 Grčki:
+
 - λόγος
 
 Slovenski:
+
 - слово
 - словеса
 
-Posebno izdvojiti primere gde слово ima apstraktno ili ontološko značenje.
+Posebno izdvojiti:
+
+- слово kao govor;
+- слово kao razum;
+- слово kao ontološki pojam.
+
 
 ---
 
 ## Znanje
 
 Grčki:
+
 - γνῶσις
 - γινώσκειν
 
 Slovenski:
+
 - знати
 - вѣдѣти
 - разумѣти
+
 
 ---
 
 ## Mudrost
 
 Grčki:
+
 - σοφία
 
 Slovenski:
+
 - мѫдрость
+
 
 ---
 
 ## Istina
 
 Grčki:
+
 - ἀλήθεια
 
 Slovenski:
+
 - истина
+
 
 ---
 
-## Uzročnost i početak
+## Početak i uzrok
 
 Grčki:
+
 - ἀρχή
 - αἰτία
 
 Slovenski:
+
 - начѧло
 - причина
+
 
 ---
 
@@ -137,9 +312,7 @@ Ne izdvajati svaku pojavu.
 
 Prednost imaju:
 
-1. Definicijske rečenice
-
-Primer:
+1. Definicijske rečenice:
 
 ```
 
@@ -149,9 +322,12 @@ X єсть Y
 
 2. Rečenice sa apstraktnim imenicama.
 
-3. Konstrukcije koje mogu poslužiti kao model filozofskog izraza.
+3. Rečenice koje predstavljaju prevod grčkog filozofskog izraza.
 
-4. Rečenice koje jasno pokazuju značenje termina.
+4. Rečenice koje pokazuju tvorbu novih slovenskih pojmova.
+
+5. Rečenice koje mogu služiti kao obrazac za novi filozofski prevod.
+
 
 ---
 
@@ -159,11 +335,13 @@ X єсть Y
 
 Ne izdvajati:
 
-- obične biblijske naracije;
+- obične narativne delove;
 - genealogije;
 - ponavljanja istih formula;
 - lična imena;
-- tehničke liturgijske formule bez jezičkog značaja.
+- liturgijske formule bez jezičkog značaja;
+- slučajne pojave reči bez filozofskog značenja.
+
 
 ---
 
@@ -171,7 +349,7 @@ Ne izdvajati:
 
 Korpus koristi staru ćirilsku Unicode transkripciju.
 
-Ne menjati originalni tekst.
+Ne modernizovati grafiju.
 
 Sačuvati:
 
@@ -182,13 +360,12 @@ Sačuvati:
 - ꙗ
 - ѭ
 
+
 Ukloniti samo:
 
 - brojeve redova;
 - tehničke oznake izdanja;
 - nepotrebne prelome.
-
-Ne modernizovati grafiju.
 
 ---
 
@@ -198,7 +375,7 @@ Napraviti fajl:
 
 ```
 
-language/PRIMERI.md
+language/PRIMERИ.md
 
 ````
 
@@ -211,12 +388,11 @@ Grčki pojam:
 λόγος
 
 Izvor:
-Marianus
+Прогласъ
 
 Tekst:
 
-Въ началѣ бѣ Слово ·
-и Слово бѣ къ Богу
+...
 
 Zašto je važan:
 Primer apstraktne upotrebe reči слово.
@@ -245,20 +421,26 @@ Napomena:
 Ne praviti više od:
 
 * 10–20 primera po pojmu;
-* ukupno oko 200–300 primera.
+* ukupno 200–300 primera.
 
 Kvalitet je važniji od količine.
 
 ---
 
-# Važno
+# Oznake
 
 Razlikovati:
 
 [POTVRĐENO]
+
 Primer direktno iz staroslovenskog korpusa.
 
+[PREVODILAČKI UZOR]
+
+Primer koji pokazuje način prevođenja grčkog apstraktnog pojma.
+
 [REKONSTRUKCIJA]
+
 Novi termin napravljen za filozofski jezik.
 
-Ne mešati ova dva nivoa.
+Ne mešati ova tri nivoa.

@@ -1,127 +1,196 @@
-# Staroslovenski korpus za rekonstrukciju filozofskog jezika
+# Korpus za rekonstrukciju slovenskog filozofskog jezika
 
-## Svrha
+## A. Direktni filozofski izvori ⭐⭐⭐⭐⭐
 
-Ovaj korpus služi kao jezički uzor za rekonstrukciju mogućeg slovenskog filozofskog registra ranog srednjeg veka.
+### Разуми на елинские философи.txt
+Prioritet: najviši
 
-Korpus se koristi za:
-- fonologiju
-- morfologiju
-- sintaksu
-- tvorbu reči
-- prevodilačke obrasce sa grčkog
+Svrha:
+- grčki filozofski pojmovi u slovenskom obliku
+- termini:
+  - философъ
+  - мѫдрость
+  - душа
+  - природа
+  - начало
+  - быти
+  - разумъ
 
-Ne koristi se kao direktan izvor filozofske terminologije, već kao model jezika.
-
----
-
-# Hijerarhija izvora
-
-Izvori nisu jednako autoritativni.
-
-## 1. Najstariji jezički sloj
-
-### Codex Marianus
-
-Fajl: marianus
-
-Uloga:
-- osnovni model jezika
-- najstarija sintaksa
-- glagolske konstrukcije
-- upotreba padeža
-
-Prioritet:
-★★★★★
+Ovo je najvažniji novi dodatak.
 
 ---
 
-### Codex Zographensis
+### Прогласъ.txt
+Prioritet: najviši
 
-Fajl: zographensis.txt
+Svrha:
+- filozofija jezika
+- odnos slova, reči i smisla
+- obrazac apstraktnog argumentovanja
 
+Ključni termini:
+- слово
+- писание
+- разумъ
+- языкъ
+- учение
 
-Uloga:
-- poređenje sa Marianusom
-- arhaična grafija
-- fonološke osobine
-
-Prioritet:
-★★★★★
 
 ---
 
-### Codex Assemanianus
+### О письменьхъ.txt
+Prioritet: najviši
 
-Fajl: assemanius.txt
+Svrha:
+- metajezik
+- govor o jeziku
+- pojam znaka i značenja
 
+Ključni termini:
+- буква
+- гласъ
+- слово
+- разумѣти
 
-Uloga:
-- leksičke varijante
-- liturgijski jezik
-- prevodilačke konstrukcije
-
-Prioritet:
-★★★★☆
 
 ---
 
-# 2. Apstraktni prevodilački sloj
+## B. Mudrosna književnost ⭐⭐⭐⭐
 
-## Savina knjiga
+### Пчела.txt
+Prioritet: visok
 
-Fajl: sava.txt
+Svrha:
+- kratke filozofske izreke
+- definicije
+- moralna filozofija
 
+Odličan izvor za obrasce:
 
-Uloga:
-- složenije rečenice
-- apstraktne imenice
-- prevod grčkog teološkog mišljenja
+```
 
-Prioritet:
-★★★★☆
+X есть Y
+X подобьно Y
+мудрость есть...
 
-Napomena:
-Koristiti kao pomoć za apstraktni izraz, ali ne kao jedini uzor za najstariju fazu.
-
----
-
-## Codex Suprasliensis
-
-Fajl: suprasliensis.txt
-
-
-Uloga:
-- najvažniji izvor za složen grčki apstraktni jezik
-- način prevođenja filozofskih i teoloških pojmova
-- tvorba slovenskih apstraktnih imenica
-
-Prioritet:
-★★★★★ za filozofski stil
+````
 
 ---
 
-# Pravilo korišćenja
+### Бьчела.txt
+Prioritet: proveriti
 
-Kada se rekonstruiše filozofski tekst:
+Verovatno druga verzija / varijanta Pčele.
 
-1. Oblik reči proveriti prema Marianusu i Zographensisu.
-2. Ako termin nije potvrđen, proveriti Savu i Suprasliensis.
-3. Ako termin ne postoji, napraviti rekonstrukciju prema slovenskim tvorbenim obrascima.
-4. Ne uvoditi kasnije crkvenoslovenske ili moderne termine bez opravdanja.
+Koristiti za poređenje.
+
 
 ---
 
-# Obeležavanje primera
+## C. Hrišćanski filozofski sloj ⭐⭐⭐⭐
 
-Svaki primer mora imati oznaku:
+### Vita_Constantini.txt
 
-[POTVRĐENO]
-Primer iz kodeksa.
+Veoma važno.
 
-[PREVODILAČKI UZOR]
-Kasniji ili složeniji prevodilački primer.
+Sadrži:
+- rasprave sa Grcima
+- jezik i obrazovanje
+- odnos vere i razuma
 
-[REKONSTRUKCIJA]
-Novi termin napravljen za filozofski jezik.
+Ključni termini:
+- разумъ
+- философъ
+- писание
+- слово
 
+
+### Beseda na eres.txt
+
+Svrha:
+- teološka argumentacija
+- apstraktni pojmovi
+
+Koristan za:
+- истина
+- разумъ
+- естество
+
+
+---
+
+## D. Osnovni staroslovenski jezički sloj ⭐⭐⭐
+
+### marianus.txt
+### zographensis
+### assemanius.txt
+
+Svrha:
+- gramatika
+- sintaksa
+- najstariji oblici
+
+Ne koristiti kao glavni izvor filozofskih termina.
+
+
+---
+
+## E. Prevodilački sloj ⭐⭐⭐⭐
+
+### suprasliensis.txt
+### sava.txt
+
+Svrha:
+- kako slovenski prevodilac prenosi grčki apstraktni jezik
+
+Vrlo važni za:
+- οὐσία
+- φύσις
+- λόγος
+- διάνοια
+- γνώσις
+
+
+---
+
+## F. Posebni izvori
+
+### Фисилогъ.txt
+
+Koristan za:
+- природа
+- свойство
+- символičko mišljenje
+
+
+### Слово о плъкоу Игоревѣ.txt
+
+Manje važan za filozofiju.
+
+Koristan za:
+- stil
+- poetiku
+- poređenje kasnijeg jezika
+
+---
+
+Moj prioritet za agenta bih sada promenio ovako:
+
+```json
+{
+  "philosophical_priority": [
+    "Разуми на елинские философи.txt",
+    "Прогласъ.txt",
+    "О письменьхъ.txt",
+    "Пчела.txt",
+    "Vita_Constantini.txt",
+    "suprasliensis.txt",
+    "sava.txt"
+  ],
+
+  "language_priority": [
+    "marianus.txt",
+    "zographensis",
+    "assemanius.txt"
+  ]
+}
