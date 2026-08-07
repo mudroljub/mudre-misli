@@ -4,11 +4,25 @@ Walter Burley (Gualterus Burlaeus, c. 1275–1344/45)
 
 Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od najpopularnijih knjiga o antičkim filozofima u srednjem veku.
 
+**Izvor**: Hermann Knust (1886), Wikimedia Commons  
+**Format**: PDF, 400+ strana, 13.8MB  
+**OCR**: Google Books digitalizacija  
+**Licenca**: Javno vlasništvo
+
 **Legenda:**
 - ✅ = Ekstraktovano u `data/sources/walter-burley/latin_raw/`
 - ✅✅ = Obrađeno u `data/quotes/` i `data/authors.json`
+- ⏳ = Za ekstrakciju
 
 **Organizacija:** Hronološki po redosledu poglavlja (kao u originalnoj knjizi)
+
+---
+
+## Status ekstrakcije (2026-08-04)
+
+**Ukupno**: ~125 figura  
+**Ekstraktovano**: 42 figura (33.6%)  
+**Integrisano u projekat**: 23/25 filozofa iz `data/authors.json`
 
 ---
 
@@ -177,8 +191,85 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ---
 
+## Format ekstrakcije
+
+Svako ekstraktovano poglavlje sadrži:
+
+1. **Latinski originalni tekst** - Fragmenti kako ih je Burley napisao
+2. **Španski prevod** - Paralelni starokastiljanski prevod (15-16. vek)
+3. **Strukturisani sadržaj:**
+   - Biografija (poreklo, porodica, grad)
+   - Političke i vojne aktivnosti
+   - Filozofske maksime i izreke
+   - Anegdote i priče
+   - Dijalozi (Interrogatus - pitanja i odgovori)
+   - Smrt (okolnosti, starost, mesto)
+4. **Izvori i reference** - Diogen Laertije, Plutarh, varijante u rukopisima
+5. **Značaj i tumačenje** - Uloga filozofa, ključne teme, paralele
+
+---
+
+## Metodologija
+
+### Proces:
+1. Čitanje PDF-a po sekcijama (20 strana odjednom)
+2. Identifikacija poglavlja (Cap. I, Cap. II, itd.)
+3. Ekstrakcija tekstova (latinski + španski)
+4. Strukturiranje sadržaja (Markdown format)
+5. Dodavanje konteksta (tumačenja, značaj)
+
+### Izazovi:
+- Veličina dokumenta: 400+ strana, 13.8MB
+- OCR kvalitet: ponekad težak za čitanje
+- Fušnote: opsežan naučni aparat na nemačkom
+- Rukopisne varijacije: mnoge CRLN/HADGB varijante
+
+---
+
+## Sledeći koraci
+
+### Prioriteti:
+
+**Prioritet 1** - Završiti Sedam mudraca (još 2)
+- ⏳ Cleobulus
+- ⏳ Periander
+
+**Prioritet 2** - Glavni presokratovci
+- ⏳ Anaximander
+- ⏳ Heraclitus  
+- ⏳ Democritus
+
+**Prioritet 3** - Klasični period
+- ⏳ Socrates
+- ⏳ Plato
+- ⏳ Aristotle
+
+**Prioritet 4** - Stoici i kinici
+- ⏳ Diogenes Cynic
+- ⏳ Glavni stoici
+
+### Strategija:
+
+**Selektivna ekstrakcija** - fokus na 50-60 najvažnijih filozofa (~80% najcitiranijih) sa ~20% truda, umesto svih 125+ figura.
+
+---
+
+## Upotreba u projektu
+
+Ekstraktovani podaci se koriste za:
+1. Bazu podataka citata - izreke i maksime
+2. Biografske stranice - život filozofa
+3. Poređenja izvora - Burley vs Diogen Laertije
+4. Srednjovekovnu recepciju - kako je 14. vek razumeo antiku
+5. Nastavne materijale - anegdote i priče
+
+**Format konverzije**: Markdown → JSON (API) / HTML (web) / SQL (baza)
+
+---
+
 **Napomene:**
 - Lista prati originalnu hronološku organizaciju knjige (Cap. I → CXXXII)
 - Neke poglavlja pokrivaju više figura ili se ponavljaju sa različitim brojevima
-- Ukupno ekstrahovano: **42/125 figura** (✅)
 - Fokus na filozofe iz `data/authors.json` (23/25 pokriveno)
+
+**Poslednji update**: 2026-08-04
