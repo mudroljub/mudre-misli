@@ -20,8 +20,8 @@ npm start
 
 ## TODO
 
+- UI: različitim stilovima označi različite vrste unosa
 - čistka (posebno Platon)
-- UI: različitim stilovima označavati vrste unosa
 - proveriti previše rasečene i besmislene rečenice, koje su deo šire anegdote.
 - proveriti sr prevode na osnovu rečnika
 

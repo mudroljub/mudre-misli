@@ -36,3 +36,15 @@
   @include subtle-link;
   float: right;
 }
+
+// Type styles
+.quote {
+  padding-left: $spacing-xl;
+  margin-left: $spacing-md;
+}
+
+.reported {
+  padding-right: $spacing-xl;
+  margin-right: $spacing-md;
+  text-align: right;
+}

@@ -26,7 +26,7 @@ export default function QuoteCard({
   const text = transliterate(getTextForLanguage(entry, language));
 
   return (
-    <div className={styles.card}>
+    <div className={`${styles.card} ${styles[entry.type]}`}>
       <p>{text}</p>
 
       {showAuthor && (
