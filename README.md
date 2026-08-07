@@ -20,7 +20,6 @@ npm start
 
 ## TODO
 
-- nazvati kanonski json fajlove autora
 - proveriti previše rasečene i besmislene rečenice, koje su deo šire anegdote.
 - srediti izvore jer je obisan eng
 - dodati nove izvore
