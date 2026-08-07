@@ -38,7 +38,7 @@
 | γιγνώσκω          | познати                               | poznati, spoznati               |
 | γνωθι σεαυτόν     | познѧи себе *(alt: познѧи сѧ)*        | poznaj sebe                     |
 | γνώμη             | знамѧ *(alt: сѫдъ, промыслъ)*         | znamen *(alt: sud, promisao)*   |
-| γνώμων            | знатель                               | znalac                          |
+| γνώμων            | съльньцекаꙁатель                      | sunčanik                        |
 | γνῶσις            | знаніє                                | znanje                          |
 | γνωστός           | знанъ                                 | znan, saznatljiv                |
 | γονεύς            | родитель                              | roditelj                        |

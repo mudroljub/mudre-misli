@@ -2,6 +2,7 @@
   {
     "type": "bio",
     "year": -610,
+    "sr": "Anaksimander, sin Praksijada, Milećanin.",
     "stsl": "Анаксимандръ Праксїады Милетꙗнинъ ·",
     "originalText": "Ἀναξίμανδρος Πραξιάδου Μιλήσιος.",
     "author": "Anaximander",
@@ -15,6 +16,7 @@
   {
     "type": "bio",
     "year": -610,
+    "sr": "Talesov učenik Anaksimander.",
     "stsl": "Фалесовъ бо ѹченикъ Анаксимандръ ·",
     "originalText": "Θαλοῦ μὲν γὰρ Ἀναξίμανδρος.",
     "author": "Anaximander",
@@ -28,6 +30,7 @@
   {
     "type": "bio",
     "year": -546,
+    "sr": "Kaže se da je u Letopisima navedeno kako je u drugoj godini pedeset osme olimpijade imao šezdeset četiri godine, i ubrzo zatim preminuo, cvetavši najviše za vreme Polikrata, tiranina Samosa.",
     "stsl": "Глаголєть же ꙗко въ Лѣтописьцихъ · во второмъ лѣтѣ пѧтьдесѧтыѩ и осмыѩ Ѡлѵмпїады бѣ шестьдесѧть четыри лѣта · и вскорѣ потомь прѣстави сѧ · процвѣтѧвъ паче вьсего при Поликратѣ тѹраннѣ Самьсцѣмь ·",
     "originalText": "Καί φησίν αὐτὸν ἐν τοῖς Χρονικοῖς τῷ δευτέρῳ ἔτει τῆς πεντηκοστῆς ὀγδόης Ὀλυμπιάδος ἐτῶν εἶναι ἑξήκοντα τεττάρων καὶ μετ' ὀλίγον τελευτῆσαι ἀκμάσαντά πη μάλιστα κατὰ Πολυκράτην τὸν Σάμου τύραννον.",
     "author": "Anaximander",
@@ -40,6 +43,7 @@
   },
   {
     "type": "quote",
+    "sr": "Počelo i sastojak je bezgranično.",
     "stsl": "Начѧло и съставъ безмѣрьноє ·",
     "originalText": "ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον.",
     "author": "Anaximander",
@@ -52,6 +56,7 @@
   },
   {
     "type": "reported",
+    "sr": "Delovi se menjaju, celina ostaje nepromenjena.",
     "stsl": "Чѧсти прѣмѣнѧѭть сѧ · вьсѧ же непрѣмѣнно ·",
     "originalText": "καὶ τὰ μὲν μέρη μεταβάλλειν, τὸ δὲ πᾶν ἀμετάβλητον εἶναι.",
     "author": "Anaximander",
@@ -64,6 +69,7 @@
   },
   {
     "type": "quote",
+    "sr": "Zemlja leži u središtu, zauzimajući središnje mesto, i kuglasta je.",
     "stsl": "Посредѣ ꙁємлꙗ лежить · срѣдищьно мѣсто имѫщи · кѫгльна сѫщи ·",
     "originalText": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
     "author": "Anaximander",
@@ -76,6 +82,7 @@
   },
   {
     "type": "quote",
+    "sr": "Mesec je lažnosvetao, jer se od Sunca prosvetljava.",
     "stsl": "Мѣсѧць лъжесвѣтенъ · ѿ съльньца бо просвѣщаєть сѧ ·",
     "originalText": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
     "author": "Anaximander",
@@ -88,6 +95,7 @@
   },
   {
     "type": "quote",
+    "sr": "Sunce nije manje od Zemlje, i prečista je vatra.",
     "stsl": "Съльньце не меньше ꙁємлѧ · прѣчистъ же огнь ·",
     "originalText": "τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
     "author": "Anaximander",
@@ -100,7 +108,8 @@
   },
   {
     "type": "anecdote",
-    "stsl": "Обрѣте же и ꙁнатель първъ · и постави на сѣноловищихъ въ Лакедемонѣ · ꙗкоже глаголєть Фаворинъ въ Различьнѣмь повѣсти · ꙁнаменаѭща повратꙑ и равноденьѥ · и часомѣры сътвори ·",
+    "sr": "Prvi je otkrio sunčanik i postavio ga na sunčanicima u Lakedemonu, kako kaže Favorin u Različnoj povesti, da obeležava obrate i ravnodnevice; načinio je i časomere.",
+    "stsl": "Обрѣте же и съльньчьникъ първъ · и постави на сѣноловищихъ въ Лакедемонѣ · ꙗкоже глаголєть Фаворинъ въ Різличьнѣмь повѣсти · ꙁнаменаѭща повратꙑ и равноденьѥ · и часомѣры сътвори ·",
     "originalText": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τροπάς τε καὶ ἰσημερίας σημαίνοντα· καὶ ὡροσκόπια κατεσκεύασε.",
     "author": "Anaximander",
     "year": -610,
@@ -115,6 +124,7 @@
     "type": "bio",
     "author": "Anaximander",
     "year": -578,
+    "sr": "Prvi je nacrtao obim zemlje i mora, i načinio kuglu.",
     "stsl": "И ꙁємлѧ и морѧ обимѣръ първъ начрьта · кѫгъ же сътвори ·",
     "originalText": "Καὶ γῆς καὶ θαλάσσης περίμετρον πρῶτος ἔγραψεν, ἀλλὰ καὶ σφαῖραν κατεσκεύασε.",
     "sources": [
@@ -126,6 +136,7 @@
   },
   {
     "type": "anecdote",
+    "sr": "Kažu da su mu se dečaci podsmevali kad je pevao, a on, razumevši, reče: Bolje nam onda pevati zbog dečaka.",
     "stsl": "Сего глаголѭтъ пѣѭща посмѣꙗхѹ сѧ отрокꙑ · онъ же разѹмѣвъ рече · Лѹче ѹбо намъ пѣти рада отрокъ ·",
     "originalText": "τούτου φασὶν ᾄδοντος καταγελάσαι τὰ παιδάρια, τὸν δὲ μαθόντα φάναι, « βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια. »",
     "author": "Anaximander",
