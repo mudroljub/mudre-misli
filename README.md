@@ -28,7 +28,6 @@ npm start
 - dodaj link ka vikipediji da bude knjiga pored imena filozofa
 - prikaži godinu rođenja i smrti na strani autora
 - dodaj 7 grčkih mudraca iz latinskog
-- dodaj writing entryTypes, prikaži u UI kao zaseban odeljak na dnu. 
 
 ## Poboljšanje prevoda
 

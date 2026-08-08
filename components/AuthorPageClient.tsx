@@ -4,7 +4,7 @@ import Sidebar from "./Sidebar";
 import Header from "./Header";
 import { getAuthorName } from "../lib/data";
 import { useTranslations } from "../lib/useTranslations";
-import type { AuthorData, Language, Entry, LifeEvent, Saying } from "../types/data";
+import type { AuthorData, Language, Entry, LifeEvent, Saying, Writing } from "../types/data";
 import QuoteCard from "./QuoteCard";
 import BookLayout from "./BookLayout";
 import styles from "./AuthorPageClient.module.scss";
@@ -45,6 +45,10 @@ export default function AuthorPageClient({
       entry.type === "anecdote" || entry.type === "bio"
     )
     .sort((a, b) => a.year - b.year);
+
+  const writingsSection = authorEntries.filter(
+    (entry): entry is Writing => entry.type === "writing" && !isCrossReference(entry)
+  );
 
   return (
     <main className="page-shell">
@@ -109,6 +113,22 @@ export default function AuthorPageClient({
 
             <div className={styles.grid}>
               {crossReferencesSection.map((entry) => (
+                <QuoteCard
+                  key={entry._id}
+                  entry={entry}
+                  language={language}
+                />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {writingsSection.length > 0 && (
+          <section className={styles.authorSection}>
+            <h3>{t.sectionWritings}</h3>
+
+            <div className={styles.grid}>
+              {writingsSection.map((entry) => (
                 <QuoteCard
                   key={entry._id}
                   entry={entry}

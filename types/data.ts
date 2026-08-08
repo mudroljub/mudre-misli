@@ -1,7 +1,7 @@
 /**
  * Supported entry types.
  */
-export const entryTypes = ["quote", "reported", "anecdote", "bio"] as const;
+export const entryTypes = ["quote", "reported", "anecdote", "bio", "writing"] as const;
 
 /**
  * Supported UI languages.
@@ -87,9 +87,16 @@ export interface Saying extends BaseEntry {
 }
 
 /**
+ * Written work (book, treatise, poem).
+ */
+export interface Writing extends BaseEntry {
+  type: "writing";
+}
+
+/**
  * Any entry in the database.
  */
-export type Entry = LifeEvent | Saying;
+export type Entry = LifeEvent | Saying | Writing;
 
 /**
  * Data about a philosopher.

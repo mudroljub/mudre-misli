@@ -12,6 +12,7 @@ export interface Translations {
   sectionQuotes: string;
   sectionLife: string;
   sectionOthersAbout: string;
+  sectionWritings: string;
   bce: string;
   wikipedia: string;
   navHome: string;
@@ -137,6 +138,7 @@ export const translations: Record<Language, Translations> = {
     sectionQuotes: 'Изрѣчєніꙗ',
     sectionLife: 'Житіє',
     sectionOthersAbout: 'Споминаниꙗ',
+    sectionWritings: 'Дѣла',
     bce: 'п.н.є.',
     wikipedia: 'Википєдїꙗ',
     navHome: 'Начѧло',
@@ -260,6 +262,7 @@ export const translations: Record<Language, Translations> = {
     sectionQuotes: 'Izreke',
     sectionLife: 'Život',
     sectionOthersAbout: 'Spominjanja',
+    sectionWritings: 'Dela',
     bce: 'p.n.e.',
     wikipedia: 'Vikipedija',
     navHome: 'Početna',
