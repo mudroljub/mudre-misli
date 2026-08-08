@@ -10077,6 +10077,7 @@
     "_id": 655,
     "type": "bio",
     "year": -535,
+    "sr": "Heraklit, sin Blosonov ili, kako neki kažu, Herakontov, iz Efesa.",
     "stsl": "Хераклитъ сꙑнъ Блѡсѡна · или ꙗкоже нѣціи Херакѡна · Єфесіанинъ ·",
     "originalText": "Ἡράκλειτος Βλόσωνος ἤ, ὥς τινες, Ἡράκωντος Ἐφέσιος.",
     "author": "Heraclitus",
@@ -10092,6 +10093,7 @@
     "_id": 656,
     "type": "bio",
     "year": -535,
+    "sr": "Kraljevstvo je prepustio bratu.",
     "stsl": "Цѣсарьство прѣдаде братѹ ·",
     "originalText": "Τὴν βασιλείαν παρῆκε τῷ ἀδελφῷ.",
     "author": "Heraclitus",
@@ -10107,6 +10109,7 @@
     "_id": 657,
     "type": "bio",
     "year": -504,
+    "sr": "Procvetao je za vreme šezdeset devete olimpijade.",
     "stsl": "Процвѣтѧше въ девѧтѣ и шестьдесѧтѣ Ѡлѵмпіадѣ ·",
     "originalText": "Ἤκμαζε δὲ κατὰ τὴν ἐνάτην καὶ ἑξηκοστὴν Ὀλυμπιάδα.",
     "author": "Heraclitus",
@@ -10122,6 +10125,7 @@
     "_id": 658,
     "type": "bio",
     "year": -500,
+    "sr": "Nije slušao nikoga, već je rekao da je ispitivao samoga sebe i naučio sve od samoga sebe.",
     "stsl": "Послоуша никогоже · самъ же себе рече испꙑтати · и научити сѧ вьсемѹ ѿ себе самого ·",
     "originalText": "Ἤκουσέ τ' οὐδενός, αὑτὸν δὲ ἔφη διζήσασθαι καὶ μαθεῖν πάντα παρ' ἑαυτοῦ.",
     "author": "Heraclitus",
@@ -10137,6 +10141,7 @@
     "_id": 659,
     "type": "bio",
     "year": -490,
+    "sr": "Pozvan od građana da postavi zakone, nije pristao, jer je grad već bio u vlasti pokvarene državne vlasti.",
     "stsl": "Ꙁъванъ гражданꙑ ꙁаконꙑ поставити · не покори сѧ · ꙗко лѹкавомѹ гражданьствѹ ѹже дръжимъ градъ бѣ ·",
     "originalText": "Κληθεὶς ὑπὸ τῶν πολιτῶν νόμους θέσθαι οὐ προσέσχεν διὰ τὸ πολιτείᾳ πονηρᾷ ἤδη κρατεῖσθαι τὴν πόλιν.",
     "author": "Heraclitus",
@@ -10151,6 +10156,7 @@
   {
     "_id": 660,
     "type": "writing",
+    "sr": "Napisao je knjigu O prirodi i položio je u hram Artemide; pisao je veoma tmurno.",
     "stsl": "Написа книгѫ Ѡ естествѣ · положи въ храмъ Артемидинъ · тьмьно же паче написа ·",
     "originalText": "Συνέγραψε βιβλίον Περὶ φύσεως· κατέθετο εἰς τὸ τῆς Ἀρτέμιδος ἱερόν· ἐσκοτωμένως μᾶλλον ἔγραψεν.",
     "author": "Heraclitus",
@@ -10166,6 +10172,7 @@
     "_id": 661,
     "type": "bio",
     "year": -480,
+    "sr": "Kralj Darije Histasp mu je poslao pismo da dođe u Persiju; on je odbio.",
     "stsl": "Цѣсарь Даріи Гѵстаспѣвъ посъла къ немѹ прити въ Перси · онъ же ѡтъврьже сѧ ·",
     "originalText": "Βασιλεὺς Δαρεῖος Ὑστάσπου ἐπέστειλεν αὐτῷ ἐλθεῖν εἰς Πέρσας· ὁ δὲ ἠξίωσεν παραιτήσασθαι.",
     "author": "Heraclitus",
@@ -10181,6 +10188,7 @@
     "_id": 662,
     "type": "bio",
     "year": -475,
+    "sr": "Umro je u šezdesetoj godini života, obuzet vodeničavom bolešću.",
     "stsl": "Ѹмьрѣ въ шестьдесѧть лѣтъ · водьнѫѭ болѣꙁньѭ одержимъ ·",
     "originalText": "Ἐτελεύτησε βιοὺς ἔτη ἑξήκοντα· ἐς ὕδερον ἐμπεσών.",
     "author": "Heraclitus",
@@ -10195,6 +10203,7 @@
   {
     "_id": 663,
     "type": "quote",
+    "sr": "Mnogoučenost ne uči umu; inače bi naučila Hesioda i Pitagoru, takođe i Ksenofana i Hekateja.",
     "stsl": "Многоученіє ѹма не наѹчить · Ісіода бо наѹчило бꙑ и Пѵѳагора · такоже и Ѯенофана и Хєкатєа ·",
     "originalText": "πολυμαθίη νόον οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην, αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον.",
     "author": "Heraclitus",
@@ -10209,6 +10218,7 @@
   {
     "_id": 664,
     "type": "quote",
+    "sr": "Jedno je mudro: poznavati znamen koji upravlja svim kroz sve.",
     "stsl": "Єдино мѫдро · вѣдѣти знамѧ · ꙗко править вьсѧ чрєꙁъ вьсѧ ·",
     "originalText": "ἓν τὸ σοφόν, ἐπίστασθαι γνώμην, ὁτέη ἐκυβέρνησε πάντα διὰ πάντων.",
     "author": "Heraclitus",
@@ -10223,6 +10233,7 @@
   {
     "_id": 665,
     "type": "quote",
+    "sr": "Homera treba isključiti iz nadmetanja i izbičevati, takođe i Arhiloha.",
     "stsl": "Ѡмира ѿвръштꙙ ѿ борьбъ и бити · такоже и Архілоха ·",
     "originalText": "τόν τε Ὅμηρον ἄξιον ἐκβάλλεσθαι ἐκ τῶν ἀγώνων καὶ ῥαπίζεσθαι, καὶ Ἀρχίλοχον ὁμοίως.",
     "author": "Heraclitus",
@@ -10237,6 +10248,7 @@
   {
     "_id": 666,
     "type": "quote",
+    "sr": "Oholost treba gasiti više nego požar.",
     "stsl": "Гръдꙑнѭ подобаєть гасити паче нежели пожаръ ·",
     "originalText": "ὕβριν χρὴ σβεννύναι μᾶλλον ἢ πυρκαϊήν.",
     "author": "Heraclitus",
@@ -10251,6 +10263,7 @@
   {
     "_id": 667,
     "type": "quote",
+    "sr": "Jedan dan ravan je svima.",
     "stsl": "Єдинъ дьнь равенъ вьсѣмь ·",
     "originalText": "Unus dies par omni est.",
     "la": "Unus dies par omni est.",
@@ -10265,6 +10278,7 @@
   {
     "_id": 668,
     "type": "quote",
+    "sr": "Narod treba da se bori za zakon kao za bedeme.",
     "stsl": "Борити сѧ подобаєть народѹ ꙁа ꙁаконъ ꙗко ꙁа стѣнѫ ·",
     "originalText": "μάχεσθαι χρὴ τὸν δῆμον ὑπὲρ τοῦ νόμου ὅκως ὑπὲρ τείχεος.",
     "author": "Heraclitus",
@@ -10279,6 +10293,7 @@
   {
     "_id": 669,
     "type": "quote",
+    "sr": "Zaslužuju Efežani da se svi odrasli obese, a maloletnima da prepuste grad, jer su isterali Hermodora, najkorisnijeg čoveka među sobom, govoreći: Neka niko među nama ne bude najbolji; ako pak bude takav, neka ode drugde i kod drugih.",
     "stsl": "Достоить Єфесіаномъ вьсѣмъ въꙁрастьнꙑимъ повѣсити сѧ · а недорослꙑимъ градъ ѡставити · иже Єрмодора мѫжа полѣꙁнѣишаго ѿвръгошѧ глаголѭште · Да никтоже въ насъ лѹчьши бѫдєть · ащє ли же такъ бѫдєть · ѿидеть инамо и съ иными ·",
     "originalText": "ἄξιον Ἐφεσίοις ἡβηδὸν ἀπάγξασθαι πᾶσι καὶ τοῖς ἀνήβοις τὴν πόλιν καταλιπεῖν, οἵτινες Ἑρμόδωρον ἄνδρα ἑωυτῶν ὀνήιστον ἐξέβαλον λέγοντες, Ἡμέων μηδὲ εἷς ὀνήιστος ἔστω· εἰ δέ τις τοιοῦτος, ἄλλῃ τε καὶ μετ ἄλλων.",
     "author": "Heraclitus",
@@ -10293,6 +10308,7 @@
   {
     "_id": 670,
     "type": "quote",
+    "sr": "Granice duše nećeš naći ni polazeći svim putevima; tako duboko slovo ima.",
     "stsl": "Дѹшѧ краꙗ не обрѧштеши идꙑи · вьсѭ исходѧ стьꙁѫ · тако глѫбоко слово имать ·",
     "originalText": "ψυχῆς πείρατα ἰὼν οὐκ ἂν ἐξεύροιο, πᾶσαν ἐπιπορευόμενος ὁδόν· οὕτω βαθὺν λόγον ἔχει.",
     "author": "Heraclitus",
@@ -10307,6 +10323,7 @@
   {
     "_id": 671,
     "type": "quote",
+    "sr": "Mnjenje zvao je svetom bolešću, a vid lažljivim.",
     "stsl": "Мьнѣніє ꙁваше свѧтѫѭ болѣꙁньѭ · а ꙁрѣніє лъжѭщимь ·",
     "originalText": "τήν τ οἴησιν ἱερὰν νόσον ἔλεγε καὶ τὴν ὅρασιν ψεύδεσθαι.",
     "author": "Heraclitus",
@@ -10330,6 +10347,7 @@
         "reference": "IX.14"
       }
     ],
+    "sr": "Koliko god ih biva na zemlji, lišavaju se istine i pravde, a priklanjaju se nezasitnosti i slavoljublju zbog zlog bezumlja. Ja pak, zaboravljajući svako lukavstvo i bežeći od sitosti koja se odeva zavisću i oholosti, ne bih stigao u zemlju Persijaca, dovoljne mi male stvari po mom razumu.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:57#ὁκόσο"
   },
   {
@@ -10344,6 +10362,7 @@
         "reference": "IX.5"
       }
     ],
+    "sr": "Bio je čudesan od detinjstva; mlad je govorio da ništa ne zna, a savršen postajući sve je spoznao.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:23#Γέγον"
   },
   {
@@ -10358,6 +10377,7 @@
         "reference": "IX.7"
       }
     ],
+    "sr": "Iz vatre se sve sastavlja i u nju se rastvara; sve se dešava po sudbi i kroz suprotno kretanje usklađuje se biće; sve je puno duša i duhova. Govorio je i o svim strastima koje se zbivaju u svetu, i da je Sunce ono što je njegovo veličanstvo kako se vidi.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:35#ἐκ πυ"
   },
   {
@@ -10372,6 +10392,7 @@
         "reference": "IX.8"
       }
     ],
+    "sr": "Vatra je sastojak i promenom vatre sve postaje, retkom i gustom. Sve se dešava po suprotnosti i sve teče poput reke; sve je ograničeno i svet je jedan. Rađa se iz vatre i opet se zapaćuje u ciklusima izmenično čitavo večnost; to se dešava po sudbi.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:37#πῦρ ε"
   },
   {
@@ -10386,6 +10407,7 @@
         "reference": "IX.8"
       }
     ],
+    "sr": "Ono što vodi ka rođenju zove se ratom i svadom, a ono ka zapaljenju saglasnošću i mirom; promena je put gore dole.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:37#τὸ μὲ"
   },
   {
@@ -10400,6 +10422,7 @@
         "reference": "IX.9"
       }
     ],
+    "sr": "Vatra se zgušćava i vlažni; skupljajući se postaje voda; voda se stvrđujući pretvara u zemlju; to je put dole. Isparenja se dižu od zemlje i mora, jedni svetli i čisti, drugi tamni. Vatra se umnožava od svetlih, vlaga od tamnih. U njemu su posude okrenute udubljenjima ka nama; u njima se sakupljaju svetla isparenja i stvaraju plamen; to su zvezde.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:39"
   },
   {
@@ -10414,6 +10437,7 @@
         "reference": "IX.10"
       }
     ],
+    "sr": "Najsvetliji je plamen sunčev i najtopliji; Sunce se kreće kroz jasni i nesmešani prostor i umereno je udaljeno od nas. Pomračuju se Sunce i Mesec kada se posude okrenu na gore. Mesečeve promene tokom meseca nastaju dok se posuda malo po malo okreće.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:41#λαμπρ"
   },
   {
@@ -10428,6 +10452,7 @@
         "reference": "IX.10–11"
       }
     ],
+    "sr": "Svetlo isparenje zapaljeno u krugu sunčevom čini dan, a suprotno kada prevlada stvara noć; od svetloga toplo se umnožavajući čini leto, od tamnog vlaga koju izobilje stvara zimu.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:41#τὴν μ"
   },
   {
@@ -10443,6 +10468,7 @@
         "reference": "IX.2"
       }
     ],
+    "sr": "Zamoljen da postavi zakone, odbio je, jer je grad već bio pokvarenom državom vladan.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:5#Ἀξιού"
   },
   {
@@ -10458,6 +10484,7 @@
         "reference": "IX.3"
       }
     ],
+    "sr": "Povukao se u hram Artemide i s decom igrao je u kosti; kada su ga opkolili Efežani, rekao je: Čemu se čudite, lukavci? Nije li bolje ovo činiti nego s vama se upravljati gradom?",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Ἀναχω"
   },
   {
@@ -10473,6 +10500,7 @@
         "reference": "IX.13"
       }
     ],
+    "sr": "Kralj Darije Histasp želi učestvovati u tvom učenju i helenskoj prosvećenosti. Dođi brzo pred moje lice i kraljevski dom.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:53"
   },
   {
@@ -10488,6 +10516,7 @@
         "reference": "IX.12"
       }
     ],
+    "sr": "Kažu da ga je neko upitao zašto ćuti, a on je rekao: Da vi besedit.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:47"
   },
   {
@@ -10503,6 +10532,7 @@
         "reference": "IX.3"
       }
     ],
+    "sr": "Najzad, zamrzevši ljude i otišavši u planine živeo je, hraneći se travom i biljem.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Καὶ τ"
   },
   {
@@ -10518,6 +10548,7 @@
         "reference": "IX.3"
       }
     ],
+    "sr": "I zbog toga pao je u vodeničavu bolest i sišao je u grad; kod lekara zagonetno je pitao mogu li od kiše suvu napraviti. Kada ga nisu razumeli, zakopao se u stajku za stoku i nadao se da će ispariti pomoću toplote gnoja.",
     "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Καὶ μ"
   },
   {
@@ -10537,6 +10568,7 @@
         "reference": "III.8"
       }
     ],
+    "sr": "Napravio je mešavinu Heraklitovih, Pitagorinih i Sokratovih učenja. Čulno je po Heraklitu, umno po Pitagori, državno po Sokratu filozofirao.",
     "pointer": "data/sources/diogenes-laertius/el/04.txt:37"
   },
   {

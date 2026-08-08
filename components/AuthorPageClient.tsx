@@ -57,7 +57,12 @@ export default function AuthorPageClient({
       <section className={styles.content}>
         <Header language={language} />
 
-        <h2 className={styles.authorName}>{authorName}</h2>
+        <h2 className={styles.authorName}>
+          {authorName}{" "}
+          <span className={styles.authorDates}>
+            ({authorData.born < 0 ? `${Math.abs(authorData.born)} BCE` : authorData.born} – {authorData.died < 0 ? `${Math.abs(authorData.died)} BCE` : authorData.died})
+          </span>
+        </h2>
 
         {authorData.birthplace && (
           <p className={styles.birthplace}>

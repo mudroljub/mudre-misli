@@ -9,20 +9,20 @@
 }
 
 .authorName {
-  margin-bottom: 0;
+  margin-bottom: $spacing-xs;
 }
 
 .authorDates {
-  margin-top: -0.5rem;
-  margin-bottom: 1.5rem;
   color: #666;
-  font-size: 0.95em;
+  font-size: 0.6em;
+  font-weight: normal;
 }
 
 .birthplace {
-  color: $color-text-light;
+  color: #666;
+  font-size: 1.2rem;
   margin-bottom: $spacing-md;
-  margin-top: $spacing-xs;
+  margin-top: 0;
 }
 
 .authorPortrait {
