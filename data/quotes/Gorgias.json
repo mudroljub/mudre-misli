@@ -29,10 +29,22 @@
   },
   {
     "type": "bio",
-    "year": -460,
-    "sr": "Bio je lekar i izvanredan retor; napisao Umetnost govorništva.",
-    "stsl": "Врачь и пръсвѣтьлъ риторъ бѣ · Искꙋство риторства написа.",
-    "originalText": "ἰατρὸς ἦν καὶ ῥήτωρ ἄριστος. Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ Τέχνην ἀπολελοιπότα.",
+    "sr": "Bio je lekar i izvanredan retor.",
+    "stsl": "Лѣкарь і превъꙁходьнъ ріторъ бѣ ·",
+    "originalText": "ἰατρὸς ἦν καὶ ῥήτωρ ἄριστος.",
+    "author": "Gorgias",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.59"
+      }
+    ]
+  },
+  {
+    "type": "writing",
+    "sr": "Napisao Umetnost govorništva.",
+    "stsl": "Іскѹство глаголаніꙗ написа ·",
+    "originalText": "Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ Τέχνην ἀπολελοιπότα.",
     "author": "Gorgias",
     "sources": [
       {

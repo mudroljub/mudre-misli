@@ -56,11 +56,23 @@
     ]
   },
   {
+    "type": "writing",
+    "sr": "Napisao dela u deset svezaka.",
+    "stsl": "Дѣла въ десѧті свѧзъкахъ написа ·",
+    "originalText": "Γεγόνασι δ' αὐτοῦ τόμοι δέκα.",
+    "author": "Antisthenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.15"
+      }
+    ]
+  },
+  {
     "type": "bio",
-    "year": -380,
-    "sr": "Napisao dela u deset svezaka; Teopompo hvali ga kao jedinog Sokratovca dostojnog pohvale.",
-    "stsl": "Дѣла въ десѧти свѧзъкахъ написа · Теопомпъ хвалить єго ꙗко єдиного Сократовьца достоина похвалы ·",
-    "originalText": "Γεγόνασι δ' αὐτοῦ τόμοι δέκα. Ὁ δὲ Θεόπομπος αὐτὸν τῶν Σωκρατικῶν μόνον ἄξιόν φησιν ἐπαίνου.",
+    "sr": "Teopompo hvali ga kao jedinog Sokratovca dostojnog pohvale.",
+    "stsl": "Теопомпъ хвалить єго ꙗko єдіного Сократовьца достоіна похвалы ·",
+    "originalText": "Ὁ δὲ Θεόπομπος αὐτὸν τῶν Σωκρατικῶν μόνον ἄξιόν φησιν ἐπαίνου.",
     "author": "Antisthenes",
     "sources": [
       {
@@ -1040,12 +1052,25 @@
     ]
   },
   {
-    "type": "bio",
-    "sr": "Posle rasprave o nemogućnosti protivrečenja napisao je protiv Platona dijalog Saton i njih dvojica su ostala zavađena.",
-    "stsl": "По прѣнии о невъзможьности противорѣчениꙗ противѹ Платона бесѣдꙫ Сатонъ написа · и оба въ враждѣ прѣбыста ·",
-    "originalText": "Διαφερομένου δ' αὐτοῦ πρὸς τὸν Πλάτωνα περὶ τῶν ἀντιλεγομένων, συνέγραψε διάλογον Σάθωνα.",
+    "type": "writing",
+    "sr": "Napisao je protiv Platona dijalog Saton.",
+    "stsl": "Противѹ Платона бесѣдꙫ Сатонъ написа ·",
+    "originalText": "συνέγραψε διάλογον Σάθωνα.",
     "author": "Antisthenes",
-    "year": -388,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.35"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -390,
+    "sr": "Nakon rasprave sa Platonom o nemogućnosti protivrečenja njih dvojica su ostala zavađena.",
+    "stsl": "По прѣнії съ Платономъ о невъзможьності противорѣченіꙗ оба въ враждѣ прѣбыста ·",
+    "originalText": "Διαφερομένου δ' αὐτοῦ πρὸς τὸν Πλάτωνα περὶ τῶν ἀντιλεγομένων.",
+    "author": "Antisthenes",
     "sources": [
       {
         "name": "diogenes-laertius",

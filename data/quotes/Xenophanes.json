@@ -57,10 +57,23 @@
   },
   {
     "type": "bio",
-    "year": -500,
-    "sr": "Cvetao u šezdesetoj olimpijadi; napisao epe, elegije i jambe protiv Hesioda i Homera.",
-    "stsl": "Процвѣташе въ шестьдесѧтѣи олимпіадѣ · епꙑ · елегіи и ѩмбꙑ противѹ Хесіода и Хомера написа.",
-    "originalText": "Ἤκμαζε δὲ κατὰ τὴν ἑξηκοστὴν Ὀλυμπιάδα· ἔγραψεν ἐν ἔπεσι καὶ ἐλεγείας καὶ ἰάμβους καθ' Ἡσιόδου καὶ Ὁμήρου.",
+    "year": -540,
+    "sr": "Cvetao u šezdesetoj olimpijadi.",
+    "stsl": "Цвѣтааше въ шєстьдєсѧтоі олѵмпїадѣ ·",
+    "originalText": "γεγονὼς ἐπὶ τῆς ἑξηκοστῆς Ὀλυμπιάδος.",
+    "author": "Xenophanes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.18"
+      }
+    ]
+  },
+  {
+    "type": "writing",
+    "sr": "Napisao epe, elegije i jambe protiv Hesioda i Homera.",
+    "stsl": "Напіса єпꙑ · єлєгіі і іамвы противѹ Хєсіода і Хомєра ·",
+    "originalText": "γέγραφεν ἔπη τε καὶ ἐλεγείας καὶ ἰάμβους καθ' Ἡσιόδου τε καὶ Ὁμήρου.",
     "author": "Xenophanes",
     "sources": [
       {
