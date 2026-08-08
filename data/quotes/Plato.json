@@ -2,7 +2,7 @@
   {
     "type": "bio",
     "year": -428,
-    "sr": "Rođen u Atini; otac Ariston, majka Periktiona poreklom od Solona; prvobitno ime Aristokle, prozvan Platon zbog širine.",
+    "sr": "Rođen u Atini; otac Ariston, majka Periktiona poreklom od Solona.",
     "stsl": "Роди сѧ въ Атинахъ · отьць Аристонъ · мати Периктіона отъ рода Солонова · пьрвоє имѧ Аристоклъ · Платономъ прозванъ ради широты.",
     "originalText": "Πλάτων Ἀρίστωνος καὶ Περικτιόνης, ἀπὸ Σόλωνος καταγούσης· Ἀριστοκλῆς μὲν ἐκαλεῖτο, Πλάτων δὲ διὰ τὴν εὐρυθμίαν.",
     "author": "Plato",
@@ -1258,19 +1258,6 @@
   },
   {
     "type": "quote",
-    "sr": "Ksenofontova priča o Kirovom vaspitanju je izmišljena, jer Kir nije bio onakav kakvim ga ona opisuje.",
-    "stsl": "Ксенофонтово сказаніє о Кѵровѣ възпитании измышленно єсть · зане Кѵръ не бѣ таковъ · ꙗкоже єго оно описѹєть ·",
-    "author": "Plato",
-    "originalText": "Ἐν τοῖς Νόμοις ὁ Πλάτων πλάσμα φησὶν εἶναι τὴν παιδείαν αὐτοῦ· μὴ γὰρ εἶναι Κῦρον τοιοῦτον.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.34"
-      }
-    ]
-  },
-  {
-    "type": "quote",
     "sr": "Istina je lepa i trajna, ali je ljude teško u nju uveriti.",
     "stsl": "Истина красна и прѣбываѭшта єсть · нъ чловѣкы трѹдьно въ нѭ ѹвѣрити ·",
     "author": "Plato",
@@ -1505,7 +1492,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "reported",
     "sr": "Pijancima je savetovao ogledalo da vide kako ih pijanstvo izobličava, a osuđivao je i predugo spavanje.",
     "stsl": "Пиꙗнымъ зрьцало съвѣтоваше · да видѧть · како ихъ пиꙗньство безобразить · такожде и прѣдълъгыи сънъ осѫждааше ·",
     "author": "Plato",
@@ -1522,7 +1509,7 @@
     "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila.",
     "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ ·",
     "author": "Plato",
-    "year": -408,
+    "year": -427,
     "originalText": "Ἐγυμνάσατο δὲ παρὰ Ἀρίστωνι τῷ Ἀργείῳ παλαιστῇ· ἀφ' οὗ καὶ Πλάτων διὰ τὴν εὐεξίαν μετωνομάσθη, πρότερον Ἀριστοκλῆς ἀπὸ τοῦ πάππου καλούμενος. Ἔνιοι δὲ διὰ τὴν πλατύτητα τῆς ἑρμηνείας οὕτως ὀνομασθῆναι· ἢ ὅτι πλατὺς ἦν τὸ μέτωπον.",
     "sources": [
       {
