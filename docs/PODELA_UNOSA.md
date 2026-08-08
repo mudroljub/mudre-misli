@@ -1,4 +1,4 @@
-# UPUTSTVO ZA AGENTE: Podela i datiranje unosa
+# UPUTSTVO ZA AGENTE: Podela unosa
 
 ## Podela unosa
 
@@ -317,71 +317,6 @@ Ako je podatak o poreklu veoma kratak i nema samostalnu vrednost, može ostati u
 
 ---
 
-# Datiranje
-
-Svaki `bio` i `anecdote` entry mora imati svoju godinu.
-
-Ako tačna godina nije poznata, proceniti je prema:
-
-* uzrastu osobe;
-* redosledu događaja;
-* istorijskom kontekstu;
-* trajanju vlasti, putovanja ili službe;
-* olimpijadama;
-* vladarima;
-* ratovima;
-* drugim datiranim događajima.
-
-Procena mora biti istorijski moguća i hronološki dosledna.
-
-Godina prvenstveno služi sortiranju.
-
-Ne izmišljati prividnu istorijsku preciznost.
-
-Ako događaj traje više godina, `year` predstavlja najkorisniju tačku za njegovo postavljanje na vremensku liniju.
-
-Na primer:
-
-```json
-{
-  "type": "bio",
-  "year": -600,
-  "sr": "Oko 600. godine p. n. e. preuzeo je vlast u Mitileni."
-},
-{
-  "type": "bio",
-  "year": -595,
-  "sr": "Tokom desetogodišnje vladavine uredio je grad."
-},
-{
-  "type": "bio",
-  "year": -590,
-  "sr": "Oko 590. godine p. n. e. povukao se sa vlasti."
-}
-```
-
-Srednja godina ne tvrdi nužno da se uređivanje grada dogodilo baš 595. godine. Ona omogućava približno hronološko pozicioniranje događaja unutar perioda vladavine.
-
----
-
-# Decimalni redosled
-
-Ako više zasebnih događaja pripada istoj godini i njihov redosled je poznat, koristiti decimalni deo:
-
-```text
--336.1
--336.2
--336.3
-```
-
-Decimalni deo označava samo redosled.
-
-Ne predstavlja precizniji datum.
-
-Ne koristiti decimalne vrednosti samo zato što je jedna priča podeljena na više rečenica.
-
----
-
 # `originalText`
 
 Svaki entry treba da sadrži samo deo `originalText` koji odgovara njegovom sadržaju.
@@ -419,7 +354,6 @@ Kada postoji dilema:
 3. Ne izmišljati informacije radi njihove samostalnosti.
 4. Ne razbijati nedeljiv događaj na njegove sitne korake.
 5. Anegdote čuvati kao priče.
-6. Godine koristiti za hronološko sortiranje, ne za prividnu preciznost.
 
 Najkraće:
 
@@ -436,14 +370,11 @@ Najkraće:
 Pre završetka proveriti:
 
 * [ ] Da li je izabran odgovarajući tip?
-* [ ] Ima li svaki `bio` i `anecdote` godinu?
 * [ ] Jesu li samostalne biografske činjenice izdvojene?
 * [ ] Može li svaki `bio` entry biti razumljiv bez prethodnog entry-ja?
 * [ ] Jesu li zavisne formulacije poput "tada", "za to vreme", "posle toga", "njega" i "to" po potrebi razjašnjene?
-* [ ] Je li pri razjašnjavanju korišćen samo kontekst koji već postoji u izvoru?
 * [ ] Jesu li pojedinačni koraci nedeljivog događaja ostali zajedno?
 * [ ] Jesu li anegdote sačuvane kao zaokružene priče?
 * [ ] Jesu li rođenje i smrt zasebni?
-* [ ] Jesu li procenjene godine hronološki moguće?
 * [ ] Prati li `originalText` podelu sadržaja?
 * [ ] Jesu li `quote` i `reported` ostali zaokružene misli?
