@@ -245,64 +245,47 @@ const sortedQuotes = allQuotes.map(entry => {
   return chronologicalEntries[chronologicalIndex++]
 })
 
-// Second pass: add anchors to pointers with collisions
 const byPointer = new Map()
 
-sortedQuotes.forEach((quote, index) => {
-  if (quote.pointer && quote.originalText) {
-    if (!byPointer.has(quote.pointer)) {
-      byPointer.set(quote.pointer, [])
-    }
+for (const quote of sortedQuotes) {
+  if (!quote.pointer || !quote.originalText) continue
 
-    byPointer.get(quote.pointer).push({
-      quote,
-      index,
-    })
-  }
-})
+  const items = byPointer.get(quote.pointer) ?? []
+  items.push(quote)
+  byPointer.set(quote.pointer, items)
+}
 
-byPointer.forEach((items, basePointer) => {
-  if (items.length <= 1) {
-    return
-  }
+for (const [basePointer, items] of byPointer) {
+  if (items.length < 2) continue
 
-  items.forEach(({ quote, index }) => {
+  for (const quote of items) {
     const text = quote.originalText
-
-    // Find minimum anchor length for uniqueness
     let anchor = ''
 
-    for (
-      let len = 5;
-      len <= Math.min(50, text.length);
-      len += 1
-    ) {
-      const candidate = text.substring(0, len)
+    for (let len = 5; len <= Math.min(50, text.length); len += 1) {
+      const candidate = text.slice(0, len)
 
-      const matches = items.filter(item =>
-        item.quote.originalText.startsWith(candidate)
-      )
-
-      if (matches.length === 1) {
+      if (
+        items.every(
+          item =>
+            item === quote ||
+            !item.originalText.startsWith(candidate),
+        )
+      ) {
         anchor = candidate
         break
       }
     }
 
-    // Fallback if no unique prefix found
     if (!anchor) {
-      const match = text.match(/^.{5,30}[·;.]/)
-
-      anchor = match
-        ? match[0]
-        : text.substring(0, 30)
+      anchor =
+        text.match(/^.{5,30}[·;.]/)?.[0] ??
+        text.slice(0, 30)
     }
 
-    // Add anchor to pointer: file:line#anchor
-    sortedQuotes[index].pointer =
-      `${basePointer}#${anchor}`
-  })
-})
+    quote.pointer = `${basePointer}#${anchor}`
+  }
+}
 
 quotes.push(...sortedQuotes)
 
