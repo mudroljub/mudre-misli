@@ -1,6 +1,6 @@
 # UPUTSTVO ZA AGENTE: Podela i datiranje unosa
 
-## Glavno pravilo
+## Podela unosa
 
 Biografski tekst treba podeliti na **što manje samostalne činjenice ili događaje**, ali svaki izdvojeni entry mora biti razumljiv kada se čita potpuno samostalno.
 
