@@ -58,7 +58,10 @@
   }
 
   &.anecdote {
-    font-style: italic;
+    // Umesto kurziva koji loše izgleda sa staroslovenskim
+    padding-left: 1em;
+    border-left: 3px solid rgba(196, 30, 58, 0.3);
+    opacity: 0.85;
   }
 
   &.quote {
