@@ -4,7 +4,6 @@ import { fileURLToPath } from 'node:url'
 import { greekTerms } from './greek-terms.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
-
 const rootDir = path.resolve(__dirname, '..')
 
 const inputDir = path.join(rootDir, 'data/quotes')
@@ -13,8 +12,6 @@ const outputFile = path.join(rootDir, 'data/quotes.json')
 const files = (await fs.readdir(inputDir))
   .filter(file => file.endsWith('.json'))
   .sort()
-
-const quotes = []
 
 const romanToNumber = {
   I: 1,
@@ -50,16 +47,10 @@ const loadSectionLineIndex = async bookNumber => {
   for (let index = 0; index < lines.length; index += 1) {
     const line = lines[index].trim()
 
-    // Skip empty lines and lines that don't start with a digit
-    if (!line || !/^\d/.test(line)) {
-      continue
-    }
+    if (!line || !/^\d/.test(line)) continue
 
-    // Extract leading digits as section number
     const digits = line.match(/^\d+/)
-    if (!digits) {
-      continue
-    }
+    if (!digits) continue
 
     const section = Number(digits[0])
 
@@ -73,7 +64,6 @@ const loadSectionLineIndex = async bookNumber => {
   return lineBySection
 }
 
-// Pointer builders for different sources
 const pointerBuilders = {
   'diogenes-laertius': async reference => {
     const normalized = String(reference || '').trim()
@@ -93,66 +83,38 @@ const pointerBuilders = {
     const sectionIndex = await loadSectionLineIndex(bookNumber)
     const line = sectionIndex.get(sectionNumber)
 
-    if (line) {
-      return `${relFile}:${line}`
-    }
-
-    return null
+    return line ? `${relFile}:${line}` : null
   },
 
   'walter-burley': async (reference, author) => {
     const normalized = String(reference || '').trim()
-    if (!normalized) return null
+    if (!normalized || !/\b([IVX]+)\b/.test(normalized) || !author) {
+      return null
+    }
 
-    // Match "Cap. XXVI" or "XXVI" from reference
-    const refMatch = normalized.match(/\b([IVX]+)\b/)
-    if (!refMatch) return null
-
-    // Use author name to find the file
-    if (!author) return null
-
-    // Normalize author name to filename
     const filename = author.toLowerCase().replace(/\s+/g, '_') + '.txt'
     const relFile = `data/sources/walter-burley/latin_raw/${filename}`
 
-    const absFile = path.join(rootDir, relFile)
-
     try {
-      await fs.access(absFile)
-
-      // Walter Burley files are small, pointer is just the file
+      await fs.access(path.join(rootDir, relFile))
       return `${relFile}:1`
     } catch {
       return null
     }
   },
 
-  'hermann-diels': async reference => {
+  'hermann-diels': async () => {
     // TODO: Implement when Diels fragments are integrated
-    // Format: B.8, A.1, etc.
     return null
   },
 }
 
 const buildPointer = async (sourceObj, author) => {
-  const sourceName = sourceObj.name
+  const builder = pointerBuilders[sourceObj.name]
 
-  if (sourceName === 'diogenes-laertius') {
-    return pointerBuilders['diogenes-laertius'](sourceObj.reference)
-  }
-
-  if (sourceName === 'walter-burley') {
-    return pointerBuilders['walter-burley'](
-      sourceObj.reference,
-      author,
-    )
-  }
-
-  if (sourceName === 'hermann-diels') {
-    return pointerBuilders['hermann-diels'](sourceObj.reference)
-  }
-
-  return null
+  return builder
+    ? builder(sourceObj.reference, author)
+    : null
 }
 
 /**
@@ -166,20 +128,19 @@ const detectTags = originalText => {
   const detectedTags = new Set()
 
   for (const term of greekTerms) {
-    const hasMatch = term.forms.some(form =>
-      originalText.includes(form)
-    )
-
-    if (hasMatch) {
+    if (term.forms.some(form => originalText.includes(form))) {
       detectedTags.add(term.tag)
     }
   }
 
-  return Array.from(detectedTags).sort()
+  return [...detectedTags].sort()
 }
 
-// First pass: collect all quotes
 const allQuotes = []
+const chronologicalEntries = []
+const chronologicalIndexes = []
+const byPointer = new Map()
+
 let nextId = 1
 
 for (const file of files) {
@@ -193,68 +154,61 @@ for (const file of files) {
   }
 
   for (const entry of content) {
-    // Keep author as-is (array or single value)
     const author = Array.isArray(entry.author)
       ? entry.author[0]
       : entry.author
 
-    // Build pointer from primary source
     const primarySource = entry.sources?.[0]
     const pointer = primarySource
       ? await buildPointer(primarySource, author)
       : null
 
-    // Detect tags only for quote and reported types
     const tags =
       entry.type === 'quote' || entry.type === 'reported'
         ? detectTags(entry.originalText)
         : undefined
 
-    allQuotes.push({
+    const quote = {
       _id: nextId++,
       ...entry,
       ...(pointer ? { pointer } : {}),
       ...(tags?.length ? { tags } : {}),
-    })
+    }
+
+    const index = allQuotes.length
+
+    allQuotes.push(quote)
+
+    if (entry.type === 'anecdote' || entry.type === 'bio') {
+      chronologicalEntries.push(quote)
+      chronologicalIndexes.push(index)
+    }
+
+    if (pointer && entry.originalText) {
+      const items = byPointer.get(pointer)
+
+      if (items) {
+        items.push(quote)
+      } else {
+        byPointer.set(pointer, [quote])
+      }
+    }
   }
 }
 
-// Sort only bio and anecdote entries while preserving all other positions
-const chronologicalEntries = allQuotes
-  .filter(
-    entry =>
-      entry.type === 'anecdote' ||
-      entry.type === 'bio',
-  )
-  .sort(
-    (a, b) =>
-      (a.year ?? Infinity) -
-      (b.year ?? Infinity),
-  )
+// Sort only bio and anecdote entries
+chronologicalEntries.sort(
+  (a, b) =>
+    (a.year ?? Infinity) -
+    (b.year ?? Infinity),
+)
 
-let chronologicalIndex = 0
-
-const sortedQuotes = allQuotes.map(entry => {
-  if (
-    entry.type !== 'anecdote' &&
-    entry.type !== 'bio'
-  ) {
-    return entry
-  }
-
-  return chronologicalEntries[chronologicalIndex++]
-})
-
-const byPointer = new Map()
-
-for (const quote of sortedQuotes) {
-  if (!quote.pointer || !quote.originalText) continue
-
-  const items = byPointer.get(quote.pointer) ?? []
-  items.push(quote)
-  byPointer.set(quote.pointer, items)
+// Put them back into their original slots
+for (let i = 0; i < chronologicalIndexes.length; i += 1) {
+  allQuotes[chronologicalIndexes[i]] = chronologicalEntries[i]
 }
 
+// Add anchors only where pointers collide
 for (const [basePointer, items] of byPointer) {
   if (items.length < 2) continue
 
@@ -287,14 +241,12 @@ for (const [basePointer, items] of byPointer) {
   }
 }
 
-quotes.push(...sortedQuotes)
-
 await fs.writeFile(
   outputFile,
-  JSON.stringify(quotes, null, 2),
+  JSON.stringify(allQuotes, null, 2),
   'utf8',
 )
 
 console.log(
-  `Generated ${outputFile} (${quotes.length} quotes)`,
+  `Generated ${outputFile} (${allQuotes.length} quotes)`,
 )
