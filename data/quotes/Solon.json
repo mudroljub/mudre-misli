@@ -15,6 +15,111 @@
   },
   {
     "type": "bio",
+    "year": -590,
+    "sr": "Ovaj je Atinjana dao najodličnije zakone koje su potom Rimljani preuzeli od Atinjana. Mnogim dobrima ih je obdario i dugo vremena ih je svojom razboritošću oslobađao od ropstva i tiranije.",
+    "stsl": "Сєі Аѳінѧномъ ꙁаконꙑ наілѣпшїꙗ дастъ · ꙗжє потомъ Рїмлѧнє прїѧша ѿ Аѳінѧнъ · Мъногꙑмї доврꙑ іхъ одарїлъ · і дълго врємѧ іхъ своємь раꙁѹмомъ ѿ равства і тїраніꙗ свовождаашє ·",
+    "originalText": "Hic atheniensibus leges optimas condidit quas postmodum romani ab atheniensibus acceperunt: multisque beneficiis eas contulit et multo tempore eos sua prudencia a servitute et tyrannide liberavit.",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. II"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Upitan šta je reč, odgovori: \"Slika dela.\"",
+    "stsl": "Въпрошєнъ что єсть слово · рєчє · Овраꙁъ дѣлъ ·",
+    "originalText": "Interrogatus: 'Quid est verbum?' Respondit: 'Imago operum.'",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. II"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Upitan čime se učvršćuje reč, odgovori: \"Ćutanjem.\"",
+    "stsl": "Въпрошєнъ чїмь сѧ ѹтврьждаєть слово · рєчє · Мълчаніємь ·",
+    "originalText": "Interrogatus: 'Quo firmatur verbum?' Respondit: 'Silencio.'",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. II"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Upitan čime se učvršćuje ćutanje, odgovori: \"Vremenom.\"",
+    "stsl": "Въпрошєнъ чїмь сѧ ѹтврьждаєть мълчанїє · рєчє · Врємєнємь ·",
+    "originalText": "Interrogatus: 'Quo firmatur silencium?' Respondit: 'Tempore.'",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. II"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Upitan šta je kralj, odgovori: \"Snažna vlast.\"",
+    "stsl": "Въпрошєнъ что єсть царь · рєчє · Крѣпка власть ·",
+    "originalText": "Interrogatus: 'Quid est rex?' Respondit: 'Fortis potestas.'",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. II"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada je na nekom mestu mnogi govorili a Solon ćutao, Periandar ga upita da li zbog oskudice reči ili zato što je budala ćuti. On reče: \"Nijedna budala ne može ćutati.\"",
+    "stsl": "Єгда на нѣкомь мѣстѣ мноꙃї глаголааховꙑ · а Солонъ мълчаашє · Пєрїандръ га въпросї ащє раді нєдостатъка словєсъ лї ащє раді вєꙁоумїꙗ мълчїть · Онъ рєчє · Нї єдїна вєꙁоумъ нє можєть мълчаті ·",
+    "originalText": "Cum in loco quodam, multis loquentibus, Solon non loquebatur erat si Periandro, utrum propter verborum inopiam ant, quia stultus esset, taceret. Qui ait: 'Nemo stultus tacere potest.'",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. II"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Upitan kakav treba da bude vladar naroda, odgovori: \"Vladar naroda treba prvo da ispravi sebe pa onda narod. Inače će biti kao onaj koji krivim kukama pokušava ispraviti krivu senku, ili krivim štapom želi učiniti da senka bude prava.\"",
+    "stsl": "Въпрошєнъ какъ подоваєть вꙑті владарь народа · рєчє · Владарь народа подоваєть прѣждє їсправїті севє · потомь народъ · Аще лї нѣ · вѹдєть ꙗко оно іжє крївꙑмї кѹкамї покоушаєть сѧ правїті крївѫѭ сѣнь · лї крївꙑмь жьзломь жєлаєть да вꙑ сѣнь права ·",
+    "originalText": "Interrogatus qualis debcat esse populi rector, ait: 'Populi rector prius se quam populum rectificare debet, alioquin erit sicut is, qui unco curvam, curvam rectificare conatur, aliqua virga curva, umbram faciens, recta fiate.'",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. II"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Upitan šta je oštrije od mača, odgovori: \"Pogrešan gnev čoveka.\"",
+    "stsl": "Въпрошєнъ что єсть ѻстрѣішє мєча · рєчє · Нєправїлънъ гнѣвъ чловѣка ·",
+    "originalText": "Interrogatus quid seucrius gladio, ait: 'Prava ira hominis.'",
+    "author": "Solon",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. II"
+      }
+    ]
+  },
+  {
+    "type": "bio",
     "year": -600,
     "sr": "Prvi je trideseti dan prethodnog meseca nazvao mladim i novim mesecom.",
     "stsl": "Пръвъ трідєсѧтъ дьнь прошьдьшаго мѣсєца новꙑмъ мѣсєцємъ нарєчє.",

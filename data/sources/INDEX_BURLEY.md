@@ -36,18 +36,21 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. II - Solon
 **Strana**: 12  
-**Status**: ✅  
-**Atinski zakonodavac, Sedam mudraca**
+**Status**: ✅✅  
+**Atinski zakonodavac, Sedam mudraca**  
+**NOVO**: 8 unosa (bio o zakonima koje su Rimljani preuzeli, 4 filozofska dijaloga, anegdota sa Periandrom, 2 izreke o vladaru i gnevu)
 
 ### Cap. III - Chilon (Hilon)
 **Strana**: 20  
-**Status**: ✅  
-**Spartanski efor, Sedam mudraca**
+**Status**: ✅✅  
+**Spartanski efor, Sedam mudraca**  
+**NOVO**: 1 anegdota (odbio savez sa Korintom zbog kockara)
 
 ### Cap. IV - Pittacus (Pitak)
 **Strana**: 28  
-**Status**: ✅  
-**Mitilenska tirаn, Sedam mudraca**
+**Status**: ✅✅  
+**Mitilenska tirаn, Sedam mudraca**  
+**NOVO**: 1 anegdota (dvoboj sa Phrinonom koristeći skrivenu mrežu)
 
 ### Cap. V - Bias (Bijant)
 **Strana**: 32  
@@ -56,8 +59,9 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. VI - Cleobulus (Kleobul)
 **Strana**: 40  
-**Status**: ✅  
-**Lindijski tiranin, Sedam mudraca**
+**Status**: ✅✅  
+**Lindijski tiranin, Sedam mudraca**  
+**NOVO**: 6 unosa (bio o Kleobulusu, bio o kćerki Kleobulini, zagonetka o godini, 3 maksime)
 
 ### Cap. VII - Periander (Periandar)
 **Strana**: 44  
@@ -66,8 +70,9 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. VIII - Zoroaster (Zaratustra)
 **Strana**: 46  
-**Status**: ✅  
-**Persijski mudrac**
+**Status**: ✅✅  
+**Persijski mudrac**  
+**NOVO**: 5 unosa (bio - car Baktrijanaca, anegdota o prvom smehu, bio o 100,000 stihova, bio - Demokrit proširio magiju, bio - vreme Tare)
 
 ### Cap. IX - Anaximander (Anaksimander)
 **Strana**: 48  
@@ -76,8 +81,9 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. X - Anacharsis (Anaharsis)
 **Strana**: 48  
-**Status**: ✅  
-**Skitski filozof**
+**Status**: ✅✅  
+**Skitski filozof**  
+**NOVO**: 1 unos (bio o uzdržljivosti od mesa i luksuza)
 
 ### Cap. XI - Myson (Mison)
 **Strana**: 52  
@@ -91,18 +97,21 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. XIII - Pherecydes (Ferekid)
 **Strana**: 56  
-**Status**: ✅  
-**Sa Sirosa**
+**Status**: ✅✅  
+**Sa Sirosa**  
+**NOVO**: 5 unosa (bio - učenik Pitakusov, bio - pisao o bogovima, 2 anegdote o proročanstvima, anegdota sa Pitagorom)
 
 ### Cap. XIV - Homerus (Homer)
 **Strana**: 54  
 **Status**: ✅  
-**Epski pesnik**
+**Epski pesnik**  
+**NOVO**: 4 unosa (bio - vreme Savla, anegdota - držan za ludog, anegdota o smrtnoj zagonetki ribara)
 
 ### Cap. XV - Lycurgus (Likurg)
 **Strana**: 60  
-**Status**: ✅  
-**Spartanski zakonodavac**
+**Status**: ✅✅  
+**Spartanski zakonodavac**  
+**NOVO**: 1 unos (bio - zakonodavac ubijen od sugrađana)
 
 ### Cap. XVI - Anaximenes (Anaksimen)
 **Strana**: 54  

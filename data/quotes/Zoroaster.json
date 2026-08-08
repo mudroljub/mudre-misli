@@ -1,0 +1,73 @@
+[
+  {
+    "type": "bio",
+    "year": -1800,
+    "sr": "Zoroastar, filozof, kako piše Isidor u Etimologijama, bio je car Baktrijanaca, koga je Nin, car Asiraca, ubio u ratu.",
+    "stsl": "Ꙁоростръ · філософъ · ꙗкожє пїшєть Ісідоръ въ Єтімологїахъ · вѣ царь Бактрїꙗнъ · єгожє Нінъ · царь Асірьскъ · ѹвї въ вранї ·",
+    "originalText": "Zoroastes, philosophus, ut scribit Isidorus ethimologiarum VIII, rex bactranorum extitit fuit, quem Ninus, assiriorum rex, bello interfecit.",
+    "author": "Zoroaster",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VIII"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "O njemu piše Solin u knjizi O čudesima sveta: Kad se rodio, prvi plač ga je, zbog mleka, osećao do šezdeset drugog dana. Tako znamo da je jedini istog dana i smejao se kada je rođen, naime Zoroastar.",
+    "stsl": "Ѡ нємь пїшєть Солїнъ въ кънїꙁѣ Ѡ чѹдєсахъ свѣта · Раждаꙗ сѧ · пръвъ плачь · млѣка ради · чѹствова до ѯ҃в дьнє · Тако вѣмъ ꙗко єдінъ тогожє дьнє і смѣꙗ сѧ · єгда раждєнъ вꙑстъ · Ꙁоростръ ·",
+    "originalText": "De quo scribit Solinus in libro de mirabilibus mundi: nascentem eum, prima vagitus, lactis causa sensus defertur in .LXII. diem. Itaque unicum novimus eodem die et sisse quo erat natus, scil. Zoroastem.",
+    "author": "Zoroaster",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VIII"
+      },
+      {
+        "name": "solinus",
+        "reference": "De mirabilibus mundi"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "sr": "On je bio prvi među magovima. O njemu Aristotel kaže da su njegova dela od sto hiljada stihova potvrđena ocenama pergamenata.",
+    "stsl": "Онъ пръвъ магъ вꙑстъ · Ѡ нємь Арістотєль глаголєть ꙗко дѣла єго ѿ сто тꙑсѧщь стїхъ сѫть сѹдꙑ пєргамєнтъ ·",
+    "originalText": "Hic primus magorum extitit. De quo Aristotiles in quo vestes centum milia versuum ab ipso condita iudiciis volumnium ejus declarantur.",
+    "author": "Zoroaster",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VIII"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "sr": "Tu magijsku veštinu je nakon mnogo vekova proširio Demokrit.",
+    "stsl": "Сѫ магїскѫѭ вєщїнѫ по мъноꙁѣхъ вѣцѣхъ расшїрї Дємокрїтъ ·",
+    "originalText": "Hanc autem magicam artem post multa secula Democritus ampliavit.",
+    "author": "Zoroaster",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VIII"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -1900,
+    "sr": "Cvao je Zoroastar u vreme Tare, oca Avramovog.",
+    "stsl": "Цвѣтаашє Ꙁоростръ въ врємѧ Тарꙑ · отьца Аврамлꙗ ·",
+    "originalText": "Claruit autem Zoroastes tempore Thare, patris Abrahum.",
+    "author": "Zoroaster",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VIII"
+      }
+    ]
+  }
+]
