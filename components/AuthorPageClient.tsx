@@ -60,7 +60,7 @@ export default function AuthorPageClient({
         <h2 className={styles.authorName}>
           {authorName}{" "}
           <span className={styles.authorDates}>
-            ({authorData.born < 0 ? `${Math.abs(authorData.born)} BCE` : authorData.born} – {authorData.died < 0 ? `${Math.abs(authorData.died)} BCE` : authorData.died})
+            ({authorData.born < 0 ? `${Math.abs(authorData.born)} ${t.bce}` : authorData.born} – {authorData.died < 0 ? `${Math.abs(authorData.died)} ${t.bce}` : authorData.died})
           </span>
         </h2>
 
