@@ -9565,7 +9565,7 @@
   },
   {
     "_id": 622,
-    "type": "anecdote",
+    "type": "bio",
     "year": -573.8,
     "sr": "Atinjanima tada obuzetim kugom Pitija proreče da očiste grad. Zato poslaše lađu i Nikiju, sina Nikeratova, na Krit, pozivajući Epimenida.",
     "stsl": "Аѳінѧномъ морѡмъ одрьжімомъ · Пѵѳіꙗ прорєчє каѳаріті градъ · Послашѧ коравь і Нікіѭ въ Кріть · ꙁовѫщє Епімєніда.",
@@ -9577,15 +9577,15 @@
         "reference": "II.110"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:666#Ὅθεν "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:666#Ὅθεν κ"
   },
   {
     "_id": 623,
     "type": "anecdote",
     "year": -573.6,
-    "sr": "On, došavši u četrdeset šestu olimpijadu, očisti njihov grad i zaustavi tu kugu ovako: uzevši crne i bele ovce, odvede ih na Areov breg. Odatle ih pusti da idu kuda hoće, naredivši pratiocima da tamo gde bi koja legla žrtvuju odgovarajućem bogu.",
-    "stsl": "Прішєдъ въ ѻлімпіадѫ м҃ѕ · очісті градъ і прѣкраті моръ сіцє · Вꙁємъ овьцѧ чрьнꙑ і вѣлꙑ · прівєдє на врьхъ Арєовъ · Отънѫдѫ ѻсті ѩ іті кѫдє хощѧть · повєлѣвъ спѫтьнікомъ · ідєжє котораꙗ лѧжєть · жрьтвѹ творіті подовьнѹ вогѹ.",
-    "originalText": "Καὶ ὃς ἐλθὼν Ὀλυμπιάδι τεσσαρακοστῇ ἕκτῃ ἐκάθηρεν αὐτῶν τὴν πόλιν καὶ ἔπαυσε τὸν λοιμὸν τοῦτον τὸν τρόπον. Λαβὼν πρόβατα μελανά τε καὶ λευκὰ ἤγαγε πρὸς τὸν Ἄρειον πάγον. Κἀκεῖθεν εἴασεν ἰέναι οἷ βούλοιντο, προστάξας τοῖς ἀκολούθοις ἔνθα ἂν κατακλίνοι αὐτῶν ἕκαστον, θύειν τῷ προσήκοντι θεῷ.",
+    "sr": "On, došavši u četrdeset šestu olimpijadu, očisti njihov grad i zaustavi tu kugu ovako: uzevši crne i bele ovce, odvede ih na Areov breg. Odatle ih pusti da idu kuda hoće, naredivši pratiocima da tamo gde bi koja legla žrtvuju odgovarajućem bogu. I tako prestade zlo.",
+    "stsl": "Прішєдъ въ ѻлімпіадѫ м҃ѕ · очісті градъ і прѣкраті моръ сіцє · Вꙁємъ овьцѧ чрьнꙑ і вѣлꙑ · прівєдє на врьхъ Арєовъ · Отънѫдѫ ѻсті ѩ іті кѫдє хощѧть · повєлѣвъ спѫтьнікомъ · ідєжє котораꙗ лѧжєть · жрьтвѹ творіті подовьнѹ богѹ · Тако прєста ꙁъло ·",
+    "originalText": "Καὶ ὃς ἐλθὼν Ὀλυμπιάδι τεσσαρακοστῇ ἕκτῃ ἐκάθηρεν αὐτῶν τὴν πόλιν καὶ ἔπαυσε τὸν λοιμὸν τοῦτον τὸν τρόπον. Λαβὼν πρόβατα μελανά τε καὶ λευκὰ ἤγαγε πρὸς τὸν Ἄρειον πάγον. Κἀκεῖθεν εἴασεν ἰέναι οἷ βούλοιντο, προστάξας τοῖς ἀκολούθοις ἔνθα ἂν κατακλίνοι αὐτῶν ἕκαστον, θύειν τῷ προσήκοντι θεῷ. καὶ οὕτω λῆξαι τὸ κακόν.",
     "author": "Epimenides",
     "sources": [
       {
@@ -9597,11 +9597,11 @@
   },
   {
     "_id": 624,
-    "type": "anecdote",
+    "type": "bio",
     "year": -573.4,
-    "sr": "I tako prestade zlo. Zato se još i sada po atinskim demima mogu naći bezimeni žrtvenici, kao spomen na tada izvršeno iskupljenje.",
-    "stsl": "Тако прєста ꙁъло · Донꙑнꙗ можьно ѻврѣсті по дємомъ олътарꙑ вєꙁімєнꙑ · въ памѧть очіщєніꙗ.",
-    "originalText": "καὶ οὕτω λῆξαι τὸ κακόν. Ὅθεν ἔτι καὶ νῦν ἔστιν εὑρεῖν κατὰ τοὺς δήμους τῶν Ἀθηναίων βωμοὺς ἀνωνύμους, ὑπόμνημα τῆς τότε γενομένης ἐξιλάσεως.",
+    "sr": "Zato se još i sada po atinskim demima mogu naći bezimeni žrtvenici, kao spomen na tada izvršeno iskupljenje.",
+    "stsl": "Донꙑнꙗ можьно ѻврѣсті по дємомъ олътарꙑ вєꙁімєнꙑ · въ памѧть очіщєніꙗ.",
+    "originalText": "Ὅθεν ἔτι καὶ νῦν ἔστιν εὑρεῖν κατὰ τοὺς δήμους τῶν Ἀθηναίων βωμοὺς ἀνωνύμους, ὑπόμνημα τῆς τότε γενομένης ἐξιλάσεως.",
     "author": "Epimenides",
     "sources": [
       {
@@ -9609,11 +9609,11 @@
         "reference": "II.110"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:666#καὶ ο"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:666#Ὅθεν ἔ"
   },
   {
     "_id": 625,
-    "type": "anecdote",
+    "type": "bio",
     "year": -573.2,
     "sr": "Neki pak kažu da je uzrok kuge bio Kilonov greh i da je njegovo uklanjanje značilo oslobođenje; zbog toga su umrla dva mladića, Kratin i Ktesibije, i nesreća je bila razrešena.",
     "stsl": "Нѣці глаголѭть · Кѵлоново скврьньство вѣ причіна морѹ · ѻтложєніє ѥго ѻсвовожденіє ꙁнамєноваашє · раді того дъва ѹноша · Кратінъ і Ктєсівіꙗ · ѹмрѣшѧ · і вѣда раꙁрѣші сѧ.",
@@ -9739,7 +9739,7 @@
   {
     "_id": 633,
     "type": "bio",
-    "year": -585,
+    "year": -574,
     "sr": "Kaže se da je prvi očistio kuće i polja i osnovao svetilišta.",
     "stsl": "Глаголѧть жє і пръвъ домꙑ і агроусꙑ каѳаріті і ієра ідрꙋсаті.",
     "originalText": "Λέγεται δὲ καὶ πρῶτος οἰκίας καὶ ἀγροὺς καθῆραι καὶ ἱερὰ ἱδρύσασθαι.",
@@ -9755,7 +9755,7 @@
   {
     "_id": 634,
     "type": "bio",
-    "year": -569,
+    "year": -575,
     "sr": "Neki pak kažu da nije spavao, nego da je neko vreme lutao baveći se sečenjem korenja.",
     "stsl": "Нѣці жє глаголѭть · ꙗko нє спа · нъ врѣмѧ нѣкоє страньствова · ѡ ріꙁотоміи трѹдѧ сѧ.",
     "originalText": "Εἰσὶ δ' οἳ μὴ κοιμηθῆναι αὐτὸν λέγουσιν, ἀλλὰ χρόνον τινὰ ἐκπατῆσαι ἀσχολούμενον περὶ ῥιζοτομίαν.",
