@@ -1,0 +1,85 @@
+[
+  {
+    "type": "bio",
+    "year": -600,
+    "sr": "Kleobul Lindijski, filozof, jedan od sedam mudraca Helade, cvao u vreme Cedekije, cara judejskog.",
+    "stsl": "Клєѡвѹлъ Ліндїіскъ · філософъ · єдінъ ѿ сєдмїхъ мѫдрьцъ Єлладꙑ · цвѣтааше въ врємѧ Цєдєкїꙗ · цара їѹдєіскаго ·",
+    "originalText": "Cleobulus, philosophus, lidius, unus de septem sapientibus Grecie, claruit tempore Zedechie, regis Judee.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VI"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "sr": "Njegova kćerka Kleobulina bila je pronalazačica zagonetki i heksametarskih stihova.",
+    "stsl": "Дъщї єго Клєѡвѹліна вѣ нахѡдьцѧ аіні́гматъ і єѯамєтрьскꙑхъ стїхъ ·",
+    "originalText": "Cuius filia Cleobu[in]a inventrix enigmatum eusmdemque forum fuit.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VI"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Zagonetka Kleobulinine, kako kaže Laertije: Jedan otac ima dvanaest sinova, od kojih svaki ima trideset raznolikih potomaka, jer su jedni beli a drugi crni. Besmrtni su, ali se propadaju i nestaju. To je godina kao otac dvanaest meseci, a trideset dana svakog meseca su unuci; crni i beli su noći i dani. Godine su besmrtne, ali propadaju i nestaju jer dani prolaze.",
+    "stsl": "Аініґма Клєѡвѹліна · ꙗкожє глаголєть Лаєртїі · Єдінъ ѻтьць і҃в сꙑновъ імать · іхъ жє кождо і҃л ѿраслъ раꙁнолїчънꙑхъ · ѻвї во вѣлї · ѻвї чрьнї · Бєсъмрьтьнї сѫть · нъ раꙁрѹшаѭть сѧ і ѹвꙑдаѭть · То лѣто єсть ѻтьць в҃і мѣсѧць · а҃л днїї кождо мѣсѧца ѿраслї · чрьнї і вѣлї нощь і дьнь · Лѣта вєсъмрьтьна · нъ раꙁрѹшаѭть сѧ і ѹвꙑдаѭть · ꙗко днїє прєхождѫть ·",
+    "originalText": "Huius Cleobu[in]e enigma fuit, ut ait Laercius: unus pater, filii XII, horum cuilibet nati [sunt] XXX [bis] difformes, nam quidm horum sunt albe, quidam vero nigre. Sunt immortales autem cum sint corrumpuntur omnes et deficiunt. Est autem annus XII mensium pater etc.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VI"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.91"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Čini dobro prijatelju da bi postao još više prijatelj.",
+    "stsl": "Творї довро дрѹгѹ · да вѫдєть паче дрѹгъ ·",
+    "originalText": "Amico benefac ut amicior fiat.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VI"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Od neprijatelja nastoj da napraviš prijatelja.",
+    "stsl": "Ѿ врага старї сѧ сътворїті дрѹга ·",
+    "originalText": "Inimicum vero amicum facere stude.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VI"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Više se treba čuvati zavisti prijatelja nego zamki neprijatelja.",
+    "stsl": "Паче подоваєть вєрєщї сѧ ꙁавісті дрѹгъ · нєжєлї ловꙑ врагъ ·",
+    "originalText": "Magis enim amicorum invidiam quam inimicorum insidias cavere debemus.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VI"
+      }
+    ]
+  }
+]
