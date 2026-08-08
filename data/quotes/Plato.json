@@ -230,6 +230,7 @@
   },
   {
     "type": "anecdote",
+    "year": -388,
     "sr": "Na prvom putovanju na Siciliju Platon je razgovarao s Dionisijem o tiraniji i rekao da vlast nije dobra samo zato što koristi vladaru, nego samo ako se vladar odlikuje vrlinom. Dionisije se naljutio i rekao: Tvoje reči mirišu na starca. Platon mu je odgovorio: A tvoje odaju da si tiranin. Dionisije ga je zato predao Spartancu Polidu da ga proda kao roba.",
     "stsl": "На пьрвѣмь пѫтовании въ Сикелию Платонъ съ Дионисиємь о мѫчительствѣ бесѣдоваше и рече · ꙗко власть не єсть благо тъкмо зане владꙑцѣ пользѹєть · нъ аште и добродѣтелию прѣвъсходить · Дионисии разгнѣва сѧ и рече · Твоꙗ словеса старьчьска сѫть · Платонъ же отвѣшта · А твоꙗ словеса мѫчителя показѹѭть · И того ради предаде єго Полидꙋ Лакедемонѧнинѹ · да ꙗко раба продасть.",
     "originalText": "διαλεγόμενος περὶ τυραννίδος καὶ φάσκων ὡς οὐκ ἔστι τοῦτο κρεῖττον ὃ συμφέροι αὐτῷ μόνον εἰ μὴ καὶ ἀρετῇ διαφέροι, προσέκρουσεν αὐτῷ. Ὀργισθεὶς γὰρ· «Οἱ λόγοι σου γεροντιῶσι.» Καὶ ὅς· «Σοῦ δέ γε τυραννιῶσιν.» παρέδωκε δὲ αὐτὸν Πόλλιδι τῷ Λακεδαιμονίῳ ὥστε ἀποδόσθαι.",
@@ -1297,15 +1298,41 @@
   },
   {
     "type": "anecdote",
-    "sr": "Platon je samoga sebe po imenu pomenuo samo dvaput. Kada je čitao dijalog O duši, jedino je Aristotel ostao do kraja. Početak Države pronađen je više puta prepravljen, a Zakoni su ostali na voštanim tablicama i prepisao ih je Filip iz Opunta.",
-    "stsl": "Платонъ самого себе по имѧни тъкмо двоицею помѧнѫ · Єгда бесѣдꙫ О дѹши чьтѧаше · єдинъ Аристотель до конца оста · Начѧло Града многажды прѣписано обрѣте сѧ · Закони же на воштьныхъ дъскахъ осташа и Филиппъ Опѹнтьскыи ихъ прѣписа ·",
+    "sr": "Kada je čitao dijalog O duši, jedino je Aristotel ostao do kraja.",
+    "stsl": "Єгда бесѣдꙫ О дѹши чьтѧаше · єдинъ Аристотель до конца оста ·",
     "author": "Plato",
-    "year": -423,
-    "originalText": "Ἑαυτοῦ τε Πλάτων οὐδαμόθι τῶν ἑαυτοῦ συγγραμμάτων μνήμην πεποίηται ὅτι μὴ ἐν τῷ Περὶ ψυχῆς καὶ Ἀπολογίᾳ. Λόγος δὲ πρῶτον γράψαι αὐτὸν τὸν Φαῖδρον.",
+    "year": -372,
+    "originalText": "Τοῦτον μόνον παραμεῖναι Πλάτωνι Φαβωρῖνός πού φησιν ἀναγινώσκοντι τὸν Περὶ ψυχῆς, τοὺς δ' ἄλλους ἀναστῆναι πάντας.",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "III.37–38"
+        "reference": "III.37"
+      }
+    ]
+  },
+  {
+    "type": "writing",
+    "sr": "Početak Države pronađen je više puta prepravljen, a Zakoni su ostali na voštanim tablicama i prepisao ih je Filip iz Opunta.",
+    "stsl": "Начѧло Града многажды прѣписано обрѣте сѧ · Закони же на воштьныхъ дъскахъ осташа и Филиппъ Опѹнтьскыи ихъ прѣписа ·",
+    "author": "Plato",
+    "originalText": "Εὐφορίων δὲ καὶ Παναίτιος εἰρήκασι πολλάκις ἐστραμμένην εὑρῆσθαι τὴν ἀρχὴν τῆς Πολιτείας. Ἔνιοί τε φασὶν ὅτι Φίλιππος ὁ Ὀπούντιος τοὺς Νόμους αὐτοῦ μετέγραψεν ὄντας ἐν κηρῷ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.37"
+      }
+    ]
+  },
+  {
+    "type": "writing",
+    "sr": "Priča je da je prvi napisao Fedru.",
+    "stsl": "Речь єсть ꙗко прьвꙑи Федра написа ·",
+    "author": "Plato",
+    "originalText": "Λόγος δὲ πρῶτον γράψαι αὐτὸν τὸν Φαῖδρον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.38"
       }
     ]
   },
@@ -1367,43 +1394,15 @@
   },
   {
     "type": "anecdote",
-    "sr": "Platon se vratio na Siciliju da od mlađeg Dionisija zatraži zemlju i naseljenike za ostvarenje svoje države. Obećanje nije ispunjeno.",
-    "stsl": "Платонъ пакы въ Сикелию възврати сѧ · да отъ младъшаго Дионисиꙗ землѭ и насельникы къ сътворению своєго града просить · Обѣтъ не съвръши сѧ.",
+    "sr": "Platon se vratio na Siciliju da od mlađeg Dionisija zatraži zemlju i naseljenike za ostvarenje svoje države. Obećanje nije ispunjeno. Kada je osumnjičen da nagovara Diona i Teodostu na oslobođenje ostrva, pitagorejac Arhita mu je pismom Dionisiju izdejstvovao bezbedan povratak.",
+    "stsl": "Платонъ пакы въ Сикелию възврати сѧ · да отъ младъшаго Дионисиꙗ землѭ и насельникы къ сътворению своєго града просить · Обѣтъ не съвръши сѧ · Єгда подозрѣнъ бысть · ꙗко Диона и Теодостꙋ на освобождениє острова подстрекаєть · Архѵта питагорѣецъ посланиємь къ Дионисию ємѹ безбѣдьнъ възвратъ исходатаиствова ·",
     "author": "Plato",
-    "year": -367,
-    "originalText": "Ἀφικόμενος δὲ πάλιν ἐπὶ τὸν νεώτερον Διονύσιον ᾐτεῖτο χώραν καὶ ἀνθρώπους οἳ κατὰ τὴν πολιτείαν αὐτοῦ βιώσονται· ὁ δὲ ὑποστὰς οὐκ ἐπλήρωσεν.",
+    "year": -366,
+    "originalText": "Δεύτερον πρὸς τὸν νεώτερον ἧκε Διονύσιον αἰτῶν γῆν καὶ ἀνθρώπους τοὺς κατὰ τὴν πολιτείαν αὐτοῦ ζησομένους· ὁ δὲ καίπερ ὑποσχόμενος οὐκ ἐποίησεν. Ἔνιοι δέ φασι καὶ κινδυνεῦσαι αὐτὸν ὡς ἀναπείθοντα Δίωνα καὶ Θεοδόταν ἐπὶ τῇ τῆς νήσου ἐλευθερίᾳ· ὅτε καὶ Ἀρχύτας αὐτὸν ὁ Πυθαγορικὸς γράψας ἐπιστολὴν πρὸς Διονύσιον παρῃτήσατο καὶ διεσώσατο εἰς Ἀθήνας.",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "III.21"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
-    "sr": "Kada je osumnjičen da pomaže oslobođenju ostrva, Arhita mu je izdejstvovao bezbedan povratak.",
-    "stsl": "Єгда въ помощи освобождению острова подозрѣнъ бысть · Архѵта ємѹ безбѣдьнъ възвратъ исходатаиствова.",
-    "author": "Plato",
-    "year": -366,
-    "originalText": "ὑποπτευθεὶς δὲ συνεπιτίθεσθαι τῇ νήσῳ.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.22"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
-    "sr": "Treći put je bez uspeha pokušao da pomiri Diona i Dionisija.",
-    "stsl": "Третицею безъ ѹспѣха Диона и Дионисиꙗ примирити покѹси сѧ.",
-    "author": "Plato",
-    "year": -361,
-    "originalText": "τρίτον ἐλθὼν ἐπειρᾶτο καταλλάξαι Δίωνα καὶ Διονύσιον.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.23"
       }
     ]
   },
@@ -1464,26 +1463,53 @@
     ]
   },
   {
-    "type": "anecdote",
-    "sr": "Platon je prekinuo čoveka koji se pravdao da se kocka samo za sitnicu: sitnica nije bila ulog, nego navika. Kada se naljutio na roba, zamolio je Ksenokrata da ga kazni, jer nije hteo da kažnjava u gnevu.",
-    "stsl": "Платонъ чловѣка · иже сѧ оправдавааше · ꙗко тъкмо на мало костьми играєть · ѹстави · мало не бѣ залогъ · нъ обычаи · Єгда на раба разгнѣва сѧ · Ксенократа проси · да єго накажеть · зане въ гнѣвѣ наказати не хотѣ ·",
+    "type": "reported",
+    "sr": "Platon je prekinuo čoveka koji se pravdao da se kocka samo za sitnicu: sitnica nije bila ulog, nego navika.",
+    "stsl": "Платонъ чловѣка · иже сѧ оправдавааше · ꙗко тъкмо на мало костьми играєть · ѹстави · мало не бѣ залогъ · нъ обычаи ·",
     "author": "Plato",
     "year": -368,
-    "originalText": "Ὁ γοῦν Πλάτων λέγεται θεασάμενός τινα κυβεύοντα αἰτιάσασθαι· τοῦ δὲ εἰπόντος ὡς ἐπὶ μικροῖς, « Ἀλλὰ τό γ' ἔθος, » εἰπεῖν, « οὐ μικρόν. » Ἐφ' ἵππου καθίσας εὐθέως κατέβη φήσας εὐλαβεῖσθαι μὴ ἱπποτυφίᾳ ληφθῇ.",
+    "originalText": "Ὁ γοῦν Πλάτων λέγεται θεασάμενός τινα κυβεύοντα αἰτιάσασθαι· τοῦ δὲ εἰπόντος ὡς ἐπὶ μικροῖς, « Ἀλλὰ τό γ' ἔθος, » εἰπεῖν, « οὐ μικρόν. »",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "III.38–39"
+        "reference": "III.38"
       }
     ]
   },
   {
     "type": "anecdote",
-    "sr": "Platon je jednom brzo sjahao s konja, bojeći se da ga ne zarazi konjska oholost. Pijancima je savetovao ogledalo da vide kako ih pijanstvo izobličava, a osuđivao je i predugo spavanje.",
-    "stsl": "Платонъ єдиною скоро съ конѧ съниде · боѧ сѧ · да єго коньска гордость не заразить · Пиꙗнымъ зрьцало съвѣтоваше · да видѧть · како ихъ пиꙗньство безобразить · такожде и прѣдълъгыи сънъ осѫждааше ·",
+    "sr": "Kada se naljutio na roba, zamolio je Ksenokrata da ga kazni, jer nije hteo da kažnjava u gnevu.",
+    "stsl": "Єгда на раба разгнѣва сѧ · Ксенократа проси · да єго накажеть · зане въ гнѣвѣ наказати не хотѣ ·",
+    "author": "Plato",
+    "year": -368,
+    "originalText": "Εἰσελθόντος ποτὲ Ξενοκράτους εἶπε μαστιγῶσαι τὸν παῖδα· αὐτὸν γὰρ μὴ δύνασθαι διὰ τὸ ὠργίσθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.38"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Platon je jednom brzo sjahao s konja, bojeći se da ga ne zarazi konjska oholost.",
+    "stsl": "Платонъ єдиною скоро съ конѧ съниде · боѧ сѧ · да єго коньска гордость не заразить ·",
     "author": "Plato",
     "year": -363,
-    "originalText": "Ἐφ' ἵππου καθίσας εὐθέως κατέβη φήσας εὐλαβεῖσθαι μὴ ἱπποτυφίᾳ ληφθῇ. τοῖς μεθύουσι συνεβούλευε κατοπτρίζεσθαι· ἀποστήσεσθαι γὰρ τῆς τοιαύτης ἀσχημοσύνης. Καὶ τὸ πολλὰ δὲ καθεύδειν ἀπήρεσκεν αὐτῷ.",
+    "originalText": "Ἐφ' ἵππου καθίσας εὐθέως κατέβη φήσας εὐλαβεῖσθαι μὴ ἱπποτυφίᾳ ληφθῇ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.39"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Pijancima je savetovao ogledalo da vide kako ih pijanstvo izobličava, a osuđivao je i predugo spavanje.",
+    "stsl": "Пиꙗнымъ зрьцало съвѣтоваше · да видѧть · како ихъ пиꙗньство безобразить · такожде и прѣдълъгыи сънъ осѫждааше ·",
+    "author": "Plato",
+    "originalText": "τοῖς μεθύουσι συνεβούλευε κατοπτρίζεσθαι· ἀποστήσεσθαι γὰρ τῆς τοιαύτης ἀσχημοσύνης. Καὶ τὸ πολλὰ δὲ καθεύδειν ἀπήρεσκεν αὐτῷ.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -1493,15 +1519,29 @@
   },
   {
     "type": "anecdote",
-    "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila. Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
-    "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ · Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
+    "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila.",
+    "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ ·",
     "author": "Plato",
-    "year": -358,
-    "originalText": "Ἐγυμνάσατο δὲ παρὰ Ἀρίστωνι τῷ Ἀργείῳ παλαιστῇ· ἀφ' οὗ καὶ Πλάτων διὰ τὴν εὐεξίαν μετωνομάσθη, πρότερον Ἀριστοκλῆς ἀπὸ τοῦ πάππου καλούμενος.",
+    "year": -408,
+    "originalText": "Ἐγυμνάσατο δὲ παρὰ Ἀρίστωνι τῷ Ἀργείῳ παλαιστῇ· ἀφ' οὗ καὶ Πλάτων διὰ τὴν εὐεξίαν μετωνομάσθη, πρότερον Ἀριστοκλῆς ἀπὸ τοῦ πάππου καλούμενος. Ἔνιοι δὲ διὰ τὴν πλατύτητα τῆς ἑρμηνείας οὕτως ὀνομασθῆναι· ἢ ὅτι πλατὺς ἦν τὸ μέτωπον.",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "III.4–5"
+        "reference": "III.4"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
+    "stsl": "Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
+    "author": "Plato",
+    "year": -408,
+    "originalText": "Εἰσὶ δ' οἳ καὶ παλαῖσαί φασιν αὐτὸν Ἰσθμοῖ, καὶ γραφικῆς ἐπιμεληθῆναι καὶ ποιήματα γράψαι, πρῶτον μὲν διθυράμβους, ἔπειτα καὶ μέλη καὶ τραγῳδίας.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.5"
       }
     ]
   },

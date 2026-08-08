@@ -1,6 +1,6 @@
 'use client';
 
-import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import { createContext, useContext, useState, ReactNode } from 'react';
 import type { Script } from '../lib/transliterate';
 
 interface ScriptContextType {
@@ -11,7 +11,7 @@ interface ScriptContextType {
 const ScriptContext = createContext<ScriptContextType | undefined>(undefined);
 
 export function ScriptProvider({ children }: { children: ReactNode }) {
-  const [script, setScript] = useState<Script>('cyr');
+  const [script, setScript] = useState<Script>('lat');
 
   return (
     <ScriptContext.Provider value={{ script, setScript }}>
