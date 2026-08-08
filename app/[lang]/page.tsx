@@ -21,8 +21,9 @@ export default function LangPage({ params }: LangPageProps) {
     redirect('/stsl');
   }
 
-  const randomIndex = Math.floor(Math.random() * quotesData.length);
-  const featured = quotesData[randomIndex];
+  // Use first quote for static generation (deterministic)
+  // Client-side randomization happens in HomeContent component
+  const featured = quotesData[0];
 
   if (!featured) {
     return <main className="content">Nema dostupnih citata.</main>;
