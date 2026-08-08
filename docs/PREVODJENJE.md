@@ -23,25 +23,47 @@ Rekonstruisati mogući književni slovenski jezik VIII veka, uz očuvanje praslo
 
 Jezik zapisivati arhaičnom ćirilicom zasnovanom na najranijoj ćiriličnoj tradiciji.
 
-* koristiti ѹ umesto у i ꙋ;
-* koristiti Ꙁ umesto З;
-* koristiti Ѣ;
-* čuvati Ѧ i Ѫ prema etimologiji;
-* koristiti ѭ samo kada potiče od praslovenskog *jǫ*;
-* razlikovati ꙗ (ja) i ѧ (*ę*);
-* koristiti Ѡ samo u grčkim imenima i pozajmljenicama kada odgovara grčkom Ω;
-* koristiti Ѳ, Ѯ, Ѱ i Ѵ u grčkim imenima kada odgovaraju grčkom izvorniku;
-* koristiti završetak -ть u 3. licu prezenta (npr. **єсть**, **глаголєть**).
-* u nastavcima dosledno pisati -ніє, ne -ниє.
+### Osnovna pravila
 
-Izbegavati:
+* **ѹ** umesto у i ꙋ (uvek ѹ)
+* **Ꙁ** umesto З (zemlja sa repom)
+* **Ѣ** uvek koristiti gde etimološki pripada (jat)
+* **Ѧ** i **Ѫ** čuvati prema etimologiji (nosni samoglasnici)
+* **ѭ** samo kada potiče od praslovenskog *jǫ* (mali jus jotirani)
+* **ꙗ** (ja) i **ѧ** (*ę*) razlikovati prema etimologiji
+* **-ть** završetak u 3. licu prezenta (npr. **єсть**, **глаголєть**)
+* **-ніє** u nastavcima, ne -ниє (dosledno -ніє)
 
-* Ї (koristiti І);
-* Я (koristiti ꙗ ili ѧ prema etimologiji);
-* Ѥ (koristiti Є ili Е);
-* kasnije ukrajinske i moskovske grafijske osobine.
+### Grčka slova (samo u grčkim imenima)
 
-Staroslovenski je bez znakova interpunkcije, osim srednje tačke · koja menja sve ostale znake (.,;:) 
+Ova slova koristiti **SAMO** u grčkim vlastitim imenima i pozajmljenicama kada odgovaraju grčkom izvorniku:
+
+* **Ѡ** (omega) - samo kada odgovara grčkom Ω (npr. Сѡкратъ, Платѡнъ)
+* **Ѳ** (fita) - kada odgovara grčkom Θ (npr. Ѳалесъ)
+* **Ѯ** (ksi) - kada odgovara grčkom Ξ (npr. Анаѯїмандръ → Анаѯімандръ)
+* **Ѱ** (psi) - kada odgovara grčkom Ψ
+* **Ѵ** (ižica) - kada odgovara grčkom Υ
+
+**Važno:** U običnim slovenskim rečima koristiti:
+- **о** umesto Ѡ (npr. "О прѣвратѣ", ne "Ѡ прѣвратѣ")
+- **ф** umesto Ѳ u slovenskim rečima
+- **і** ili **и** prema etimologiji
+
+### Uglavnom izbegavati
+
+Ova slova su **kasnija** i ne pripadaju arhaičnoj staroslovenskoj grafiji:
+
+* **Ї** i **ї** → uvek koristiti **І** i **і** (i deseterično bez tačaka)
+* **Я** → koristiti **ꙗ** ili **ѧ** prema etimologiji (nikad Я)
+* ne koristiti **Ѥ** na početku reči → koristiti **Є** ili **Е**
+* Ukrajinske osobine (її, йо, є kao je)
+* Moskovske osobine (ё, й)
+
+### Interpunkcija
+
+Staroslovenski je bez znakova interpunkcije, osim **srednje tačke ·** koja menja sve ostale znake (.,;:)
+
+**Važno:** Svaka rečenica završava se sa · (srednja tačka), ne sa običnom tačkom 
 
 ### Pisanje odvojeno
 
@@ -53,7 +75,7 @@ Primjeri: `неже ли` umjesto `нежели`, `тако же` umjesto `та�
 
 ## Ritam i duh staroslovenske rečenice
 
-Najvažnije: slediti duh i ritam stare slovenske rečenice, ne samo grafiju i terminologiju.
+**Najvažnije:** Slediti duh i ritam stare slovenske rečenice, ne samo grafiju i terminologiju.
 
 Staroslovenska filozofska rečenica je:
 
@@ -65,16 +87,26 @@ Staroslovenska filozofska rečenica je:
 - **Bez mehaničkog "наи-"** — superlative prevoditi prirodno
 - **Ne prevoditi reč po reč** — prvo razumeti misao, zatim oblikovati slovensku rečenicu
 
-Primeri dobrog ritma:
+### Primeri dobrog ritma
 
 ❌ Наиборзо єсть ѹмъ · ꙗко вьсѹдѹ тькъно течєть ·  
 ✅ Борзъ ѹмъ · чрєꙁъ вьсѧ бо прѣтечєть ·
 
 ❌ Отъ вьсѣхъ сѫщиихъ наистарьши єсть Богъ · ꙗко нерожденъ єсть ·  
-✅ Старѣишии вьсѣхъ сѫщихъ Богъ · нерожденъ бо єсть ·
+✅ Старѣи вьсѣхъ сѫщиихъ Богъ · нерожденъ бо єсть ·
 
 ❌ Начѧло же вьсѣмь вода поставлѧєть ·  
 ✅ Начѧло вьсѣмь вода ·
+
+### Kako formirati superlative
+
+Umesto mehaničkog dodavanja "наи-", koristiti prirodnije konstrukcije:
+
+- **"наилѣпши"** → **"лѣпши вьсѣхъ"** ili prosto **"лѣпши"**
+- **"наисилънѣиши"** → **"силънѣиши"** ili **"крѣпъчаиши"**
+- **"наимѫдрѣиши"** → **"мѫдрѣиши вьсѣхъ"**
+
+**Pravilo:** Ako zvuči prirodno bez "наи-", ne dodavaj ga.
 
 Reč treba da zvuči kao prava staroslovenska filosofska izreka, ne kao mehanički prenos grčke strukture.
 
@@ -107,9 +139,66 @@ Ne preuzimati automatski biblijske ili patrističke prevode grčkih termina. Izb
 
 Koristiti jezičke oblike prirodne za staroslovenski. Ne kopirati grčki red reči ako narušava slovensku konstrukciju.
 
+## Česte greške i kako ih izbeći
+
+### 1. Pogrešna upotreba Ѡ (omega)
+
+❌ **POGREŠNO:** Ѡ градѣ · Ѡ прѣвратѣ · Ѡбраꙁъ  
+✅ **ISPRAVNO:** О градѣ · О прѣвратѣ · Образъ
+
+**Zapamti:** Ѡ koristiti **SAMO** u grčkim imenima: Сѡкратъ, Платѡнъ
+
+### 2. Upotreba Ї umesto І
+
+❌ **POGREŠNO:** Їѡньско · мїтїленꙗнїнъ  
+✅ **ISPRAVNO:** Іоньско · митиленꙗнинъ
+
+**Zapamti:** Nikad ne koristiti Ї ili ї - uvek samo І ili і
+
+### 3. Mehanički "наи-" prefiksi
+
+❌ **POGREŠNO:** наилѣпшїꙗ · наісїльнѣишїи  
+✅ **ISPRAVNO:** лѣпшїꙗ вьсѣхъ · силънѣиши
+
+**Zapamti:** Superlative formirati prirodno, bez mehaničkog "наи-"
+
+### 4. Latinski termini umesto slovenskih
+
+❌ **POGREŠNO:** алєаторꙑ (aleator)  
+✅ **ISPRAVNO:** коцкарьци
+
+**Zapamti:** Tražiti slovenske termine, ne koristiti latinske pozajmljenice
+
+### 5. Nekonzistentnost u imenima
+
+❌ **POGREŠNO:** Піттак → Піттакова → Піттакъ  
+✅ **ISPRAVNO:** Питтакъ → Питтакова → Питтакъ
+
+**Zapamti:** Održavati konzistentnost kroz ceo tekst
+
+### 6. Zaboravljanje srednje tačke
+
+❌ **POGREŠNO:** Мѫдрость єсть благо.  
+✅ **ISPRAVNO:** Мѫдрость єсть благо ·
+
+**Zapamti:** Svaka rečenica završava se sa · (srednja tačka)
+
 ## Rečnik
 
 Koristiti [RECNIK.md](RECNIK.md).
+
+## Provera pre finalizacije
+
+Pre nego što završiš prevod, proveri sledeće:
+
+1. ✅ Nema Ї ili ї (samo І i і)
+2. ✅ Ѡ samo u grčkim imenima (Сѡкратъ, Платѡнъ)
+3. ✅ Sve rečenice završavaju se sa ·
+4. ✅ Superlative bez mehaničkog "наи-"
+5. ✅ Nema latinskih termina (aleator, etc.)
+6. ✅ Konzistentnost u imenima kroz tekst
+7. ✅ Partikule (бо, же, убо) gde prirodno odgovaraju
+8. ✅ Kratke, sažete rečenice
 
 ## Ostalo
 
