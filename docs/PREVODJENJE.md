@@ -43,6 +43,14 @@ Izbegavati:
 
 Staroslovenski je bez znakova interpunkcije, osim srednje tačke · koja menja sve ostale znake (.,;:) 
 
+### Pisanje odvojeno
+
+U staroslovenskom prevodu prednost daj starijem, analitičkom pisanju. Kasnije srasle oblike, naročito one nastale spajanjem čestica, piši odvojeno kada je gramatički opravdano.
+
+Primjeri: `неже ли` umjesto `нежели`, `тако же` umjesto `такоже`, `тѣмь же` umjesto `тѣмже`, `егда же` umjesto `егдаже`, `аще ли` umjesto `ащели`.
+
+Čestice `же`, `бо`, `ли`, `убо` i slične ne spajaj automatski s prethodnom riječju. Ne rastavljaj riječi proizvoljno: odvojeno pisanje treba odgovarati starijoj gramatičkoj strukturi.
+
 ## Ritam i duh staroslovenske rečenice
 
 Najvažnije: slediti duh i ritam stare slovenske rečenice, ne samo grafiju i terminologiju.
