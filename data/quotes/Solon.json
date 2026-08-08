@@ -3,7 +3,7 @@
     "type": "bio",
     "year": -638,
     "sr": "Solon, sin Eksekestidov, Atinjanin je iz dema Salamine.",
-    "stsl": "Солонъ · сꙑнъ Єѯєкєтідовъ · родї сѧ въ Аѳінахъ · ѿ дєма Саламіна.",
+    "stsl": "Солонъ · сꙑнъ Єѯєкєстідовъ · роди сѧ въ Аѳінахъ · ѿ дєма Саламіна ·",
     "originalText": "Σόλων Ἐξηκεστίδου, Ἀθηναῖος, ἐκ δήμου Σαλαμῖνος.",
     "author": "Solon",
     "sources": [
@@ -30,7 +30,7 @@
   {
     "type": "quote",
     "sr": "Upitan šta je reč, odgovori: \"Slika dela.\"",
-    "stsl": "Въпрошєнъ что єсть слово · рєчє · Овраꙁъ дѣлъ ·",
+    "stsl": "Въпрошєнъ что єсть слово · рєчє · Образъ дѣлъ ·",
     "originalText": "Interrogatus: 'Quid est verbum?' Respondit: 'Imago operum.'",
     "author": "Solon",
     "sources": [
@@ -95,7 +95,7 @@
   {
     "type": "quote",
     "sr": "Upitan kakav treba da bude vladar naroda, odgovori: \"Vladar naroda treba prvo da ispravi sebe pa onda narod. Inače će biti kao onaj koji krivim kukama pokušava ispraviti krivu senku, ili krivim štapom želi učiniti da senka bude prava.\"",
-    "stsl": "Въпрошєнъ какъ подоваєть вꙑті владарь народа · рєчє · Владарь народа подоваєть прѣждє їсправїті севє · потомь народъ · Аще лї нѣ · вѹдєть ꙗко оно іжє крївꙑмї кѹкамї покоушаєть сѧ правїті крївѫѭ сѣнь · лї крївꙑмь жьзломь жєлаєть да вꙑ сѣнь права ·",
+    "stsl": "Въпрошєнъ какъ подобаєть бꙑти владарь народа · рєчє · Владарь народа подобаєть прѣждє исправити себє · потомь народъ · Аще ли нѣ · бѹдєть ꙗко онъ иже крївꙑми кѹками покоушаєть сѧ правити крївѹѭ сѣнь · ли крївꙑмь жьꙁломь жєлаєть да бѹдє сѣнь права ·",
     "originalText": "Interrogatus qualis debcat esse populi rector, ait: 'Populi rector prius se quam populum rectificare debet, alioquin erit sicut is, qui unco curvam, curvam rectificare conatur, aliqua virga curva, umbram faciens, recta fiate.'",
     "author": "Solon",
     "sources": [
@@ -136,7 +136,7 @@
     "type": "bio",
     "year": -595,
     "sr": "Prvi je ustanovio zajedničko zasedanje devetorice arhonata, kako kaže Apolodor u drugoj knjizi O zakonodavcima.",
-    "stsl": "Пръвъ съвокѹплєнїє дєвѧтерицѫ архонтовъ сътвори · ꙗкоже глаголєть Аполлїодоръ въ дрѹгѣи knjiꙁѣ Ѡ ꙁаконодавьцѣхъ.",
+    "stsl": "Пръвъ съвокѹплєнїє дєвѧтерицѫ архонтовъ сътвори · ꙗкоже глаголєть Аполлиодоръ въ дрѹгѣи книꙁѣ О ꙁаконодавьцѣхъ ·",
     "originalText": "Καὶ πρῶτος τὴν συναγωγὴν τῶν ἐννέα ἀρχόντων ἐποίησεν εἰς τὸ συνειπεῖν, ὡς Ἀπολλόδωρός φησιν ἐν δευτέρῳ Περὶ νομοθετῶν.",
     "author": "Solon",
     "sources": [
@@ -162,7 +162,7 @@
   {
     "type": "quote",
     "sr": "Kralj je onaj koji je najjači po snazi.",
-    "stsl": "Царь ѥсть наісїльнѣишїи силою.",
+    "stsl": "Царь ѥсть силънѣиши силоѭ ·",
     "originalText": "βασιλέα δὲ τὸν ἰσχυρότατον τῇ δυνάμει.",
     "author": "Solon",
     "sources": [
@@ -281,7 +281,7 @@
   {
     "type": "quote",
     "sr": "Ljude je savetovao, kako kaže Apolodor u knjizi O filozofskim školama, ovako: Dobrotu i plemenitost smatraj pouzdanijom od zakletve. Ne laži. Ozbiljno se bavi ozbiljnim stvarima. Ne stičи prijatelje brzo; a one koje stekneš ne odbacuj. Vladaj tek pošto najpre naučiš da se pokoravaš. Savetuj ne ono što je najprijatnije, nego ono što je najbolje. Um učini vođom. Ne druži se sa zlima. Poštuj bogove, a roditelje se boj i poštuj.",
-    "stsl": "Людємъ жє съвѣтъ даваашє · ꙗкоже глаголєть Аполлїодоръ въ книꙁѣ Ѡ любомѫдрьскꙑхъ ѥрєсѣхъ · сїцє. Доброѥ жєтїѥ кълтвꙑ вѣрьнѣѥ имѣи. Нє лъжи. Съвръшєнъ дѣла упражнѧи. Дрѹгꙑ нєскоро стѧжи · а иже стѧжєши · нє ѿвьръзи. Владаи · пръвѣѥ наѹчівъ сѧ владаѥмѹ бꙑтї. Съвѣтѹи нє ꙗже сѫть прїꙗтнѣиша · нъ ꙗже сѫть наілѹчьша. Ѹмъ водїтєлѧ сътвори. Съ злꙑми нє ѡбщї сѧ. Богоу почьсть ѿдаваи · родїтєлѥ срамї сѧ.",
+    "stsl": "Людємъ же съвѣтъ даваашє · ꙗкоже глаголєть Аполлиодоръ въ книꙁѣ О любомѫдрьскꙑхъ ѥрєсѣхъ · сицє · Добро жєтиє кълтвꙑ вѣрьнѣє имѣи · Нє лъжи · Съвръшєнъ дѣла упражнѧи · Дрѹгꙑ нєскоро стѧжи · а иже стѧжєши · нє отвьрꙁи · Владаи · пръвѣє наѹчивъ сѧ владаємѹ бꙑти · Съвѣтѹи нє ꙗже сѫть приꙗтнѣиша · нъ ꙗже сѫть лѹчьша вьсѣхъ · Ѹмъ водитєлꙗ сътвори · Съ ꙁлꙑми нє общи сѧ · Богѹ почьсть отдаваи · родитєлє срами сѧ ·",
     "originalText": "Τοῖς τε ἀνθρώποις συνεβούλευσεν, ὥς φησιν Ἀπολλόδωρος ἐν τῷ Περὶ τῶν φιλοσόφων αἱρέσεων, τάδε· καλοκἀγαθίαν ὅρκου πιστοτέραν ἔχε. Μὴ ψεύδου. Τὰ σπουδαῖα μελέτα. Φίλους μὴ ταχὺ κτῶ· οὓς δ' ἂν κτήσῃ μὴ ἀποδοκίμαζε. Ἄρχε πρῶτον μαθὼν ἄρχεσθαι. Συμβούλευε μὴ τὰ ἥδιστα, ἀλλὰ τὰ ἄριστα. Νοῦν ἡγεμόνα ποιοῦ. Μὴ κακοῖς ὁμίλει. θεοὺς τίμα, γονέας αἰδοῦ.",
     "author": "Solon",
     "sources": [
@@ -444,7 +444,7 @@
   {
     "type": "quote",
     "sr": "Nisu ni oni koji su bolji od mene, niti je bolje ono što sam ja zakonodao. Oni koji su prepustili opštu stvar naudili su joj, jer nisu sprečili Pejsistrata da nasrne na tiraniju. Ni ja, koji sam unapred govorio, nisam bio uverljiv. On je pak bio uverljiviji laskajući Atinjanima nego ja govoreći istinu.",
-    "stsl": "Ни сѫть мої лѹчьшї · ни єже азъ ꙁаконоположїхъ. Ѡни жє · ѡставлѧѭще ѡбьщеѥ · ѡбидѣхѫ · иже нє бꙑшѧ прѣпѧтїѥмъ Пєїсїстратѹ на тѵраньство ѹстремїтї сѧ. Нї азъ · прѣдъглаголѧ · вѣрьнъ бѣхъ. Ѡнъ жє вѣрьнѣишї бѣ · ласкаꙗ Аѳінѧнꙑ · мънѣ истїна глаголѭщѹ.",
+    "stsl": "Ни сѫть мои лѹчьши · ни єже азъ ꙁаконоположихъ · Они же · оставлѧѭще общєє · обидѣхѫ · иже нє бꙑшѧ прѣпѧтиємь Пєисистратѹ на тѵраньство ѹстремити сѧ · Ни азъ · прѣдъглаголѧ · вѣрьнъ бѣхъ · Онъ же вѣрьнѣиши бѣ · ласкаꙗ Аѳинѧнꙑ · мънѣ истинѫ глаголѭщѹ ·",
     "originalText": "Οὐδ' οἱ ἐμοὶ ἀμείνους εἰσὶ καὶ ὅσα ἐγὼ ἐνομοθέτησα. Οἱ δ' ἐπιτρέποντες τὸ ξυνὸν ἔβλαπτον, οἳ οὐκ ἐγένοντο ἐμποδὼν Πεισιστράτῳ ἐπιθέσθαι τυραννίδι. Οὐδ' ἐγὼ προλέγων πιστὸς ἦν. Ἐκεῖνος δὲ πιστότερος κολακεύων Ἀθηναίους ἐμοῦ ἀληθεύοντος.",
     "author": "Solon",
     "sources": [

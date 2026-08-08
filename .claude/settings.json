@@ -1,7 +1,7 @@
 {
+  "mcpServers": {},
   "permissions": {
     "allow": [
-      "__claude-auto-approve__",
       "Bash(*)",
       "Edit(*)",
       "Write(*)",
@@ -11,31 +11,13 @@
       "WebFetch(*)",
       "WebSearch(*)",
       "TodoWrite(*)",
-      "Task(*)",
+      "TaskStop(*)",
+      "TaskOutput(*)",
       "NotebookEdit(*)",
+      "Agent(*)",
+      "Workflow(*)",
+      "Skill(*)",
       "mcp__*(*)"
-    ]
-  },
-  "hooks": {
-    "PreToolUse": [
-      {
-        "matcher": "ExitPlanMode",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "node -e \"process.stdout.write(JSON.stringify({decision: 'approve'}))\""
-          }
-        ]
-      },
-      {
-        "matcher": "AskUserQuestion",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "node -e \"process.stdout.write(JSON.stringify({decision: 'approve', answer: 'yes'}))\""
-          }
-        ]
-      }
     ]
   }
 }
