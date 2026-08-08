@@ -2,8 +2,8 @@
   {
     "type": "bio",
     "year": -600,
-    "sr": "Hilon je bio sin Damagetov, Lakedemonian.",
-    "stsl": "Хїлонъ сынъ Дамагєтовъ · Лакєдємонꙗнїнъ.",
+    "sr": "Hilon, sin Damagetov, Lakedemonjanin.",
+    "stsl": "Хїлонъ · сынъ Дамагетовъ · Лакедемонѧнинъ.",
     "originalText": "Χίλων Δαμαγήτου Λακεδαιμόνιος.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -16,8 +16,8 @@
   {
     "type": "bio",
     "year": -595,
-    "sr": "Stvorio je elegije u dvestotinu stihova.",
-    "stsl": "Сътворї єлєгїꙗ въ дъвѣстотінѫ стїхъ.",
+    "sr": "On je sastavio elegije u dvjesta stihova.",
+    "stsl": "Сътвори єлегїꙗ въ двѣсти стихъ.",
     "originalText": "Οὗτος ἐποίησεν ἐλεγεῖα εἰς ἔπη διακόσια.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -29,8 +29,8 @@
   },
   {
     "type": "reported",
-    "sr": "Govoraše da predviđanje budućega razumom shvatljivo biće muževnosti vrlina.",
-    "stsl": "Говораашє ꙗko прєдвїждаиє вѹдѹщаго раꙁѹмомъ схватьлїво вїва мѫжєвности врьлїна.",
+    "sr": "Govorio je da je predviđanje budućnosti dostižno rasuđivanjem i da je vrlina muža.",
+    "stsl": "Глаголаше ꙗко прѣдвидѣніє будущаго разѹмомъ постизимо єсть · иже мѫжа добродѣтель єсть.",
     "originalText": "ἔφασκε πρόνοιαν περὶ τοῦ μέλλοντος λογισμῷ καταληπτὴν εἶναι ἀνδρὸς ἀρετήν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -43,8 +43,8 @@
   {
     "type": "anecdote",
     "year": -560,
-    "sr": "Bratu koji se žali što nije efor postao dok je on bio, reče: Ja pak znam nepravdu podneti, ti pak ne.",
-    "stsl": "Братѹ їжє сѧ жалїть ꙗko нєсть єфоръ посталъ · дондєжє єсть онъ бїо · рєчє · Ꙗ жє вѣмь нєправьдѫ поднєті · тꙑ жє нє.",
+    "sr": "Bratu koji je bio nezadovoljan što nije postao efor dok je Hilon bio efor, reče: „Ja, naime, znam podnositi nepravdu, a ti ne znaš.“",
+    "stsl": "Братѹ же · негодовавъшѹ ꙗко не бысть єфоръ · єгда онъ єсть · рече · Ꙗ бо вѣмъ неправдѹ терпѣти · ты же не.",
     "originalText": "Πρός τε τὸν ἀδελφὸν δυσφοροῦντα ὅτι μὴ ἔφορος ἐγένετο, αὐτοῦ ὄντος, Ἐγὼ μὲν γὰρ ἐπίσταμαι, εἶπεν, ἀδικεῖσθαι, σὺ δὲ οὔ.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -58,7 +58,7 @@
     "type": "bio",
     "year": -556,
     "sr": "Bio je efor oko pedeset šeste olimpijade.",
-    "stsl": "Бїо єсть єфоръ ѡколо пєдєсѧтъ шєстꙑꙗ ѡлѵмпїадꙑ.",
+    "stsl": "Бѣ же єфоръ около пѧдесѧтъ шестоѧ олимпїадꙑ.",
     "originalText": "Γέγονε δὲ ἔφορος κατὰ τὴν πεντηκοστὴν ἕκτην Ὀλυμπιάδα.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -71,8 +71,8 @@
   {
     "type": "bio",
     "year": -556,
-    "sr": "Pamfila kaže da je to bilo oko šeste olimpijade, i da je prvi efor postao za Eutidema, kako kaže Sosikrat.",
-    "stsl": "Памфїла глаголєть ꙗko то бѣ ѡколо шєстꙑꙗ ѡлѵмпїадꙑ · і ꙗko пръвъ єфоръ посталъ ꙁа Єѹѳідєма · ꙗкоже глаголєть Сосїкратъ.",
+    "sr": "Pamfila kaže da je to bilo oko šeste olimpijade i da je prvi postao efor za Eutidema, kako kaže Sosikrat.",
+    "stsl": "Памфила же глаголеть ꙗко при шестоѧ олимпїадѣ · и пръвъ єфоръ бысть при Єѵѳидемѣ · ꙗкоже глаголеть Сосикратъ.",
     "originalText": "Παμφίλη δέ φησι κατὰ τὴν ἕκτην, καὶ πρῶτον ἔφορον γενέσθαι ἐπὶ Εὐθυδήμου, ὥς φησι Σωσικράτης.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -85,8 +85,8 @@
   {
     "type": "bio",
     "year": -556,
-    "sr": "Prvi je predložio da se efore pridruže carevima; Satir pak kaže da je to učinio Likurg.",
-    "stsl": "Пръвъ прєдложї да єфорꙑ царємъ прїдрѹжѧть · Сатѵръ жє глаголєть ꙗko то Лѵкѹргъ сътворї.",
+    "sr": "Prvi je predložio da se efori postave uz kraljeve; Satir pak kaže da je to učinio Likurg.",
+    "stsl": "И пръвъ предложи єфорꙑ къ царемъ припрѧгати · Сатиръ же Ликѹрга глаголеть.",
     "originalText": "Καὶ πρῶτος εἰσηγήσατο ἐφόρους τοῖς βασιλεῦσι παραζευγνύναι· Σάτυρος δὲ Λυκοῦργον.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -99,8 +99,8 @@
   {
     "type": "anecdote",
     "year": -580,
-    "sr": "Ovaj, kako kaže Herodot u prvoj, Hipokratu žrtvujućem na Olimpijadi, kada su kotlovi sami od sebe proključali, savetovo ili da se ne ženi, ili, ako ima ženu, da je otpusti i decu da se odrekne.",
-    "stsl": "Сєі · ꙗкоже глаголєть Хєродотъ въ пръвѣи · Хїпократѹ жрьтвѹѭщємѹ на Ѡлѵмпїадѣ · єгда котлї самї отъ сєвє проклѹкашѧ · совѣтово лї да сѧ нє жєнїть · лї · ащє їма жєнѫ · да ѭ ѡтпѹстїть і чєда да сѧ ѡдрєчєть.",
+    "sr": "Ovaj je, kako kaže Herodot u prvoj knjizi, dok je Hipokrat prinosio žrtvu u Olimpiji i dok su kotlovi sami od sebe proključali, savjetovao da se ili ne ženi ili, ako ima ženu, da je otpusti i odrekne se djece.",
+    "stsl": "Сеи же · ꙗкоже глаголеть Херодотъ въ пръвѣи · єгда Хипократъ жрѣаше въ Олимпїи · котломъ самѣмъ отъ себе прокипѣвъшимъ · совѣтова или не женити сѧ · или · аще женѹ имать · отпѹстити ю и отъ чадъ отрещи сѧ.",
     "originalText": "Οὗτος, ὥς φησιν Ἡρόδοτος ἐν τῇ πρώτῃ, Ἱπποκράτει θυομένῳ ἐν Ὀλυμπίᾳ, τῶν λεβήτων αὐτομάτων ζεσάντων, συνεβούλευσεν ἢ μὴ γῆμαι, ἤ, εἰ ἔχοι γυναῖκα, ἐκπέμψαι καὶ παῖδας ἀπείπασθαι.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -113,8 +113,8 @@
   {
     "type": "anecdote",
     "year": -580,
-    "sr": "Kažu da je i od Ezopa pitao, Zevs šta biće radeći; on pak reče: Visoka snižujući, a niska uzvisujući.",
-    "stsl": "Каꙁѫть ꙗko єсть і отъ Єꙁопа пїталъ · Ꙁєвсъ что вїва радꙗ · онъ жє рєчє · Вїсока снїжѹꙗ · а нїска ѹꙁвїсѹꙗ.",
+    "sr": "Kažu da je i Ezopa pitao šta Zevs radi; a on reče: „Visoko ponižava, a nisko uzvisuje.“",
+    "stsl": "Глаголѭтъ же ꙗко и Єзопа вопроси · что Зевсъ творить · онъ же рече · Високаѧ смѣрѧетъ · низкаѧ же възвышаетъ.",
     "originalText": "Φασὶ δ' αὐτὸν καὶ Αἰσώπου πυθέσθαι, ὁ Ζεὺς τί εἴη ποιῶν· τὸν δὲ φάναι, Τὰ μὲν ὑψηλὰ ταπεινοῦν, τὰ δὲ ταπεινὰ ὑψοῦν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -126,8 +126,8 @@
   },
   {
     "type": "quote",
-    "sr": "Upitan čime se razlikuju obrazovani od neobrazovanih, reče: Dobrim nadanjima.",
-    "stsl": "Въпрошєнъ чїмь сѧ раꙁлїкѹѭть ѡвраꙁованї отъ нєѡвраꙁованїхъ · рєчє · Довърꙑмь наданїмъ.",
+    "sr": "Upitan po čemu se obrazovani razlikuju od neobrazovanih, reče: „Po dobrim nadama.“",
+    "stsl": "Въпросивъшѹ єго чимь сѧ различаѭтъ научени отъ ненавченыхъ · рече · Добрꙑми надѣждами.",
     "originalText": "Ἐρωτηθεὶς τίνι διαφέρουσιν οἱ πεπαιδευμένοι τῶν ἀπαιδεύτων, ἔφη, Ἐλπίσιν ἀγαθοῖς.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -139,8 +139,8 @@
   },
   {
     "type": "quote",
-    "sr": "Šta je teško? Tajnu ćutati, dokolicu dobro urediti, i nepravdu podneti.",
-    "stsl": "Что тꙗжько · Таинѫ шѹтаті · докѡліцѫ добро ѹрєдїті · і нєправьдѫ понєсті.",
+    "sr": "Šta je teško? Ćutati o tajnama, dobro urediti dokolicu i moći podnijeti nepravdu.",
+    "stsl": "Что тѧжько · Таина мълчати · и доколицѧ добрѣ устроити · и неправдѹ терпѣти.",
     "originalText": "τί δύσκολον, Τὸ τὰ ἀπόρρητα σιωπῆσαι, καὶ σχολὴν εὖ διαθέσθαι, καὶ ἀδικούμενον δύνασθαι φέρειν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -152,8 +152,8 @@
   },
   {
     "type": "quote",
-    "sr": "Jezika vladati, naročito na piru.",
-    "stsl": "Ꙗꙁꙑка владаті · нарочїто на пїрѹ.",
+    "sr": "Vladati jezikom, naročito na gozbi.",
+    "stsl": "Ꙗзꙑкомъ владѣти · наипаче же на пирѣ.",
     "originalText": "γλώττης κρατεῖν, καὶ μάλιστα ἐν συμποσίῳ.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -165,8 +165,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne zlogovoriti bližnje; ako pak ne, čućeš na čemu ćeš se rastužiti.",
-    "stsl": "Не ꙁлословїті ближьнꙗ · ащє жє не · чѹєші на чємь бѹдєші сѧ растѹжїті.",
+    "sr": "Ne klevetati bližnje; inače ćeš čuti ono zbog čega ćeš se rastužiti.",
+    "stsl": "Не злословити ближьнѧго · аще ли нѣ · услышиши · о немьже печаловати сѧ бѫдеши.",
     "originalText": "Μὴ κακολογεῖν τοὺς πλησίον· εἰ δὲ μή, ἀκούσεσθαι ἐφ' οἷς λυπήσεσθαι.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -178,8 +178,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne pretiti nikome; ženskasto je to.",
-    "stsl": "Нє прєтїті нїкомѹжє · жєнскасто єсть то.",
+    "sr": "Nikome ne prijetiti; jer je to ženskasto.",
+    "stsl": "Не прѣтити никомуже · женско бо єсть.",
     "originalText": "Μὴ ἀπειλεῖν μηδενί· γυναικῶδες γάρ.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -191,8 +191,8 @@
   },
   {
     "type": "quote",
-    "sr": "Brže ka nesrećama drugova nego ka srećama hoditi.",
-    "stsl": "Врьꙁѣє ка нєсрєћамъ дрѹговъ нєжєлї ка срєћамъ ходїті.",
+    "sr": "Brže ići u nevolje prijatelja nego u njihovu sreću.",
+    "stsl": "Скорѣе къ бѣдамъ дрѹгъ ходити · нежели къ счастїю ихъ.",
     "originalText": "Ταχύτερον ἐπὶ τὰς ἀτυχίας τῶν φίλων ἢ ἐπὶ τὰς εὐτυχίας πορεύεσθαι.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -204,8 +204,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ženidbu skromnu činiti.",
-    "stsl": "Жєнїдьвѫ скромьнѫ чїніті.",
+    "sr": "Sklapati skroman brak.",
+    "stsl": "Бракъ скромьнъ творити.",
     "originalText": "Γάμον εὐτελῆ ποιεῖσθαι.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -217,8 +217,8 @@
   },
   {
     "type": "quote",
-    "sr": "Umrlog ne zlogovoriti.",
-    "stsl": "Ѹмрьла нє ꙁъловлаштї.",
+    "sr": "O mrtvome ne govoriti zlo.",
+    "stsl": "О мрътвѣмъ не злословити.",
     "originalText": "Τὸν τεθνηκότα μὴ κακολογεῖν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -230,8 +230,8 @@
   },
   {
     "type": "quote",
-    "sr": "Starost poštovati.",
-    "stsl": "Старость поштоватї.",
+    "sr": "Poštovati starost.",
+    "stsl": "Старость почитати.",
     "originalText": "Γῆρας τιμᾶν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -244,7 +244,7 @@
   {
     "type": "quote",
     "sr": "Čuvati sebe.",
-    "stsl": "Чѹватї сєвє.",
+    "stsl": "Себе блюсти.",
     "originalText": "Φυλάττειν ἑαυτόν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -256,8 +256,8 @@
   },
   {
     "type": "quote",
-    "sr": "Štetu birati više nego sramnu dobit: ona ožalosti jednom, ova zauvek.",
-    "stsl": "Щєтѫ біраті вєштє нєжєлї срамьнѫ добїть · ѡна ѡжалостї єдиноѭ · ова ꙁаѹвѣкъ.",
+    "sr": "Birati štetu prije nego sramnu dobit; ona rastužuje jednom, a ova zauvijek.",
+    "stsl": "Щетѹ избирати паче нежели срамьнъ прибꙑтъкъ · она бо единъ кратъ опечали · а сеи на вѣкъ.",
     "originalText": "Ζημίαν αἱρεῖσθαι μᾶλλον ἢ κέρδος αἰσχρόν· ἡ μὲν γὰρ ἅπαξ ἐλύπησε, τὸ δὲ διὰ παντός.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -269,8 +269,8 @@
   },
   {
     "type": "quote",
-    "sr": "Nesrećnom ne podsmevati se.",
-    "stsl": "Нєсрєћномѹ нє подъсмѣватї сѧ.",
+    "sr": "Ne podsmijevati se nesrećnome.",
+    "stsl": "Нещастьнѣмѹ не посмѣхати сѧ.",
     "originalText": "Ἀτυχοῦντι μὴ ἐπιγελᾶν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -282,8 +282,8 @@
   },
   {
     "type": "quote",
-    "sr": "Jak bivši blag biti, da bližnji uvažavaju više nego straše se.",
-    "stsl": "Ꙗкъ вꙑвъ влагъ віті · да влїжьнї ѹважаваѭть вєщє нєжєлї страшѧть сѧ.",
+    "sr": "Budući snažan, biti blag, da te bližnji više poštuju nego što te se boje.",
+    "stsl": "Силънъ сѫ · кротъкъ бѫди · да ближьнїи болѣе сѧ тебѣ боѩтъ.",
     "originalText": "Ἰσχυρὸν ὄντα πρᾷον εἶναι, ὅπως οἱ πλησίον αἰδῶνται μᾶλλον ἢ φοβῶνται.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -295,8 +295,8 @@
   },
   {
     "type": "quote",
-    "sr": "Učiti sopstvenu kuću dobro upravljati.",
-    "stsl": "Ѹчїті собьствєнѫ хꙑжѫ добро ѹправлꙗтї.",
+    "sr": "Učiti kako dobro upravljati sopstvenom kućom.",
+    "stsl": "Учити сѧ своєѭ хижиноѭ добрѣ управляти.",
     "originalText": "Μανθάνειν τῆς αὑτοῦ οἰκίας καλῶς προστατεῖν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -308,8 +308,8 @@
   },
   {
     "type": "quote",
-    "sr": "Jezik da ne preteče umu.",
-    "stsl": "Ꙗꙁꙑкъ да нє прєтєчє ѹмѹ.",
+    "sr": "Da jezik ne pretiče um.",
+    "stsl": "Ꙗзꙑкѹ не прѣтечи ѹма.",
     "originalText": "Τὴν γλῶτταν μὴ προτρέχειν τοῦ νοῦ.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -321,8 +321,8 @@
   },
   {
     "type": "quote",
-    "sr": "Gnevom vladati.",
-    "stsl": "Гнѣвомъ владаті.",
+    "sr": "Vladati gnjevom.",
+    "stsl": "Гнѣвомъ владѣти.",
     "originalText": "Θυμοῦ κρατεῖν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -334,8 +334,8 @@
   },
   {
     "type": "quote",
-    "sr": "Gatanje ne mrzeti.",
-    "stsl": "Гатаніє нє мрьꙁѣті.",
+    "sr": "Ne mrziti gatanje.",
+    "stsl": "Вѣщаніѧ не ненавидѣти.",
     "originalText": "μαντικὴν μὴ ἐχθαίρειν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -347,8 +347,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne želeti nemoguće.",
-    "stsl": "Нє жєлѣті нємогѹщє.",
+    "sr": "Ne željeti ono što je nemoguće.",
+    "stsl": "Не желати невъзможьнаго.",
     "originalText": "Μὴ ἐπιθυμεῖν ἀδυνάτων.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -360,8 +360,8 @@
   },
   {
     "type": "quote",
-    "sr": "Na putu ne juriti.",
-    "stsl": "На пѫтї нє ѹрїті.",
+    "sr": "Na putu ne žuriti.",
+    "stsl": "На пѫти не спѣшити.",
     "originalText": "Ἐν ὁδῷ μὴ σπεύδειν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -373,8 +373,8 @@
   },
   {
     "type": "quote",
-    "sr": "Govoreći ne mešati ruku; ludačko je to.",
-    "stsl": "Говорꙗ нє мѣшатї рѹкѫ · лѹдачьско єсть то.",
+    "sr": "Dok govoriš, ne pokretati ruku; jer je to ludački.",
+    "stsl": "Глаголѧ · не двигати рѫкоѭ · безѹмьно бо єсть.",
     "originalText": "Λέγοντα μὴ κινεῖν τὴν χεῖρα· μανικὸν γάρ.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -386,8 +386,8 @@
   },
   {
     "type": "quote",
-    "sr": "Zakonima pokoravati se.",
-    "stsl": "Ꙁакономъ покораватї сѧ.",
+    "sr": "Pokoravati se zakonima.",
+    "stsl": "Закономъ покарѧти сѧ.",
     "originalText": "νόμοις πείθεσθαι.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -399,8 +399,8 @@
   },
   {
     "type": "quote",
-    "sr": "Mirnoćom služiti se.",
-    "stsl": "Мірьноћїѭ слѹжїті сѧ.",
+    "sr": "Služiti se mirnoćom.",
+    "stsl": "Тишиноѭ ползовати сѧ.",
     "originalText": "Ἠρεμίᾳ χρῆσθαι.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -412,8 +412,8 @@
   },
   {
     "type": "quote",
-    "sr": "Od pevanih njegova naročito proslavljeno je ovo: Na kamenim brusitvama zlato se ispituje, dajući očevidan dokaz; na zlatu pak ljudi dobrih i zlih um dao je ispitivanje.",
-    "stsl": "Отъ пѣванꙑхъ єго нарочїто прославлєно єсть сє · На камєнїхъ врѹсїтвахъ ꙁлато сѧ їспїтѹєть · даꙗ ѡчєвїданъ докаꙁъ · на ꙁлатѣ жє людїи довърꙑхъ і ꙁълꙑхъ ѹмъ да їспїтованїє.",
+    "sr": "Od njegovih pjesama naročito je proslavljeno ovo: „Na kamenim brusovima zlato se ispituje, dajući jasan dokaz; a na zlatu se umom ispituju dobri i zli ljudi.“",
+    "stsl": "Отъ пѣснь єго сє наипаче прослави · На каменыхъ точилахъ злато испꙑтаѥтъ сѧ · даѧвъ явно искѹсъ · на златѣ же добрꙑхъ и злꙑхъ мѫжъ ѹмъ испꙑтъ даѥть.",
     "originalText": "Ἐν <μὲν> λιθίναις ἀκόναις ὁ χρυσὸς ἐξετάζεται, διδοὺς βάσανον φανεράν· ἐν δὲ χρυσῷ ἀνδρῶν ἀγαθῶν τε κακῶν τε νοῦς ἔδωκ' ἔλεγχον.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -426,8 +426,8 @@
   {
     "type": "anecdote",
     "year": -540,
-    "sr": "Kažu da je jednom već star bivši rekao da ništa ne zna za sebe nezakonito u životu; kolebajući se pak oko jednog. Sudivši nekad drugu pravdu sam po zakonu, a druga ubedi da presudi za njega, da oba i zakon i druga sačuva.",
-    "stsl": "Каꙁѫть ꙗko єсть єдиноѭ ѹжє старъ вꙑвъ рєкалъ ꙗko ничтоже нє вѣсть ꙁа сєвє нєꙁаконьно въ жівотѣ · колєваꙗ сѧ жє ѡколо єдїного · Сѹдївъ нѣкогда дрѹгѹ правьдѫ самъ по ꙁаконѹ · а дрѹга ѹвѣдї да прєсѹдї ꙁа нєго · да ѡва і ꙁаконъ і дрѹга сахранї.",
+    "sr": "Kažu da je jednom, već star, rekao da nije svjestan nijednog protivzakonitog djela u svom životu, osim što je oko jednog bio u nedoumici. Naime, jednom je sudio u sporu prijatelja: sam je presudio prema zakonu, a prijatelja je nagovorio da presudi protiv njega, kako bi sačuvao i zakon i prijatelja.",
+    "stsl": "Глаголѭтъ же ꙗко нѣкогда старъ ѹже сѫ · рече ꙗко ничьсоже безаконьнаго себѣ не вѣсть въ животѣ · единого же ради сѫмнѣваше сѧ. Нѣкогда бо сѫдѧ дрѹгѹ своемѹ · самъ по законѹ сѫди · дрѹга же своего ѹбѣди противъ себѣ сѫдити · да обѣ съхранитъ · и законъ и дрѹга.",
     "originalText": "Φασὶ δ' αὐτόν ποτε γηραιὸν ἤδη ὄντα εἰπεῖν ὡς οὐδὲν συνειδείη ἄνομον ἑαυτῷ ἐν τῷ βίῳ· διστάζειν δὲ περὶ ἑνός. Κρίνων γάρ ποτε φίλῳ δίκην αὐτὸς μὲν κατὰ τὸν νόμον, τὸν δὲ φίλον πείσειεν ἀποδικάσαι αὐτοῦ, ἵνα ἀμφότερα καὶ τὸν νόμον καὶ τὸν φίλον τηρήσαι.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -439,8 +439,8 @@
   },
   {
     "type": "quote",
-    "sr": "Najslavniji pak naročito kod Helena postao je rekavši unapred o Kitiri ostrvu Lakonskom. Razumevši prirodu njenu, reče: Kamo da se nije rodilo, ili rođeno potonulo.",
-    "stsl": "Наїславьнѣішїі жє нарочїто ѹ Єлінъ посталъ єсть рєкъ ѹнапрїєдъ ѡ Кїѳїрѣ островѹ Лаконскомь · Раꙁѹмѣвъ прїродѫ ѭ · рєчє · Камо да сѧ нєсть родїло · лї родєно потонѹло.",
+    "sr": "Naročito je postao slavan među Helenima zato što je unaprijed govorio o ostrvu Kitiri, Lakonskom. Pošto je shvatio njegovu prirodu, reče: „Da se nije rodilo, ili, rođeno, da je potonulo.“",
+    "stsl": "Прослави сѧ же наипаче въ Еллинѣхъ · прѣдрекъ о Кѵтирѣ · островѣ Лаконьстѣмъ. Разѹмѣвъ бо єго природу · рече · О да не бы родило сѧ · или родивъ сѧ да бѣ потонѹло.",
     "originalText": "Ἐνδοξότατος δὲ μάλιστα παρὰ τοῖς Ἕλλησιν ἐγένετο προειπὼν περὶ Κυθήρων τῆς νήσου τῆς Λακωνικῆς. Καταμαθὼν γὰρ τὴν φύσιν αὐτῆς, Εἴθε, ἔφη, μὴ ἐγεγόνει, ἢ γενομένη κατεβυθίσθη.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -453,8 +453,8 @@
   {
     "type": "bio",
     "year": -560,
-    "sr": "Bio je kratkorečiv.",
-    "stsl": "Краткорѣчївъ бѣ.",
+    "sr": "Bio je kratkorječit.",
+    "stsl": "Краткорѣчивъ же бѣ.",
     "originalText": "Βραχυλόγος τε ἦν·",
     "author": "Chilon of Sparta",
     "sources": [
@@ -467,8 +467,8 @@
   {
     "type": "bio",
     "year": -560,
-    "sr": "Aristagora Milećanin ovu vrstu govora naziva 'hilonskim načinom'.",
-    "stsl": "Арістагора Мїлєтьскꙑі сїі начїнъ глаголѧ 'Хїлоньскꙑмь' нарїцаєть.",
+    "sr": "Zato i Aristagora Milećanin ovaj način naziva „hilonskim“.",
+    "stsl": "Тѣмьже и Арїстагоръ Милетьскъ сеи начинъ Хилоновъ наричеть.",
     "originalText": "ὅθεν καὶ Ἀρισταγόρας ὁ Μιλήσιος τοῦτον τὸν τρόπον Χιλώνειον καλεῖ.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -481,8 +481,8 @@
   {
     "type": "bio",
     "year": -552,
-    "sr": "Bio je starac oko pedeset druge olimpijade, kada je Ezop basnotvorca procvetao.",
-    "stsl": "Бїо єсть старєцъ ѡколо пєдєсѧтъ вторꙑꙗ ѡлѵмпїадꙑ · єгда Єꙁопъ васноворєцъ процвѣталъ.",
+    "sr": "Bio je starac oko pedeset druge olimpijade, kada je Ezop, tvorac basni, bio u cvatu.",
+    "stsl": "Бѣ же старъ около пѧдесѧтъ второѧ олимпїадꙑ · єгда Єзопъ баснотворьць цвѣтѧше.",
     "originalText": "Ἦν δὲ γέρων περὶ τὴν πεντηκοστὴν δευτέραν Ὀλυμπιάδα, ὅτε Αἴσωπος ὁ λογοποιὸς ἤκμαζεν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -495,8 +495,8 @@
   {
     "type": "bio",
     "year": -520,
-    "sr": "Umro je u Pisi, zagrljavši sina olimpijskog pobednika u pesnici, kako kaže Hermip.",
-    "stsl": "Ѹмрѣ въ Пісѣ · ꙁагрлївъ сꙑна ѡлѵмпїискаго повѣдїтєлꙗ въ пѧснїцѣ · ꙗкоже глаголєть Єrмипъ.",
+    "sr": "Umro je u Pisi, zagrlivši sina, pobjednika u Olimpiji, pesnicom, kako kaže Hermip.",
+    "stsl": "Умрѣ же · ꙗкоже глаголеть Єрмипъ · въ Писѣ · обьѧвъ сина своего Олимпїискаго побѣдителѧ пѫчьною.",
     "originalText": "Ἐτελεύτησε δ', ὥς φησιν Ἕρμιππος, ἐν Πίσῃ, τὸν υἱὸν Ὀλυμπιονίκην ἀσπασάμενος πυγμῆς.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -509,8 +509,8 @@
   {
     "type": "bio",
     "year": -520,
-    "sr": "Preminuo je od preterane radosti i slabosti zbog starosti.",
-    "stsl": "Прєїдє отъ прєтєраноѩ радости і нємоћи старости.",
+    "sr": "To mu se dogodilo zbog prevelike radosti i slabosti usljed duboke starosti.",
+    "stsl": "Се же пострада прѣизлишествомъ радости и немощью многолѣтьства.",
     "originalText": "Ἔπαθε δὴ τοῦτο ὑπερβολῇ τε χαρᾶς καὶ ἀσθενείᾳ πολυετίας.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -523,8 +523,8 @@
   {
     "type": "bio",
     "year": -520,
-    "sr": "Svi oni na svetkovini najčasnije ga ispraćahu.",
-    "stsl": "Всї ѡні на svꙗтковїнѣ наічасьнѣішє га їспраћаахѫ.",
+    "sr": "Svi koji su bili na svetkovini ispratiše ga s najvećim počastima.",
+    "stsl": "И вси сущии на праздницѣ съ наивеликимъ почьтенїемъ проводиша его.",
     "originalText": "Καὶ αὐτὸν πάντες οἱ κατὰ τὴν πανήγυριν ἐντιμότατα παρέπεμψαν.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -536,8 +536,8 @@
   },
   {
     "type": "quote",
-    "sr": "Na njegovoj statui ispisano je: Ovog čuvenog u oružju Sparta Hilona izrodila, koji od sedmorice mudrih prvi je po mudrosti.",
-    "stsl": "На єго статѹї їспїсано єсть · Сєго чѹвьна въ ѡрѫжїи Спарта Хїлона їꙁродї · їжє отъ сєдморїцє мѹдрꙑхъ пръвъ єсть по мѹдрости.",
+    "sr": "Na njegovoj statui bilo je ispisano: „Ovoga Hilona, ovenčanog oružjem, Sparta je rodila; od sedmorice mudrih prvi je bio mudrošću.“",
+    "stsl": "На статуи єго написано бѣ · Сего Хилона · оружїемъ вѣнчанаѧ Спарта роди · иже отъ седми мѫдрьць пръвъ бѣ мѫдростиѭ.",
     "originalText": "τόνδε δοριστέφανος Σπάρτα Χίλων' ἐφύτευσεν, ὃς τῶν ἑπτὰ σοφῶν πρῶτος ἔφυ σοφίᾳ.",
     "author": "Chilon of Sparta",
     "sources": [
@@ -549,8 +549,8 @@
   },
   {
     "type": "quote",
-    "sr": "Izreka njegova: Jemstvo, a propast blizu.",
-    "stsl": "Іꙁрєка єго · Ємьство · а пропасть влїꙁѹ.",
+    "sr": "Njegova izreka: „Jemstvo — a propast je blizu.“",
+    "stsl": "Изреченіє єго · Порѫка · а погꙑбєль близъ.",
     "originalText": "Ἐγγύα, πάρα δ' ἄτα.",
     "author": "Chilon of Sparta",
     "sources": [
