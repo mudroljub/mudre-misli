@@ -146,8 +146,8 @@ export const translations: Record<Language, Translations> = {
     scriptCyr: 'Кѷрилица',
     scriptLat: 'Латиница',
     sidebarGroups: {
-      ancientSages: 'Дрєвьнїи мѫдрьци',
-      presocratics: 'Прєдсократовци',
+      ancientSages: 'Седмь мѫдрьцѧ',
+      presocratics: 'Прѣдъсократовьци',
       athenianPhilosophy: 'Атїньска любомѫдрость',
       hellenisticSchools: 'Хєлєністьскꙑꙗ школꙑ',
     },
@@ -269,7 +269,7 @@ export const translations: Record<Language, Translations> = {
     scriptCyr: 'Ћирилица',
     scriptLat: 'Latinica',
     sidebarGroups: {
-      ancientSages: 'Drevni mudraci',
+      ancientSages: 'Sedam mudraca',
       presocratics: 'Predsokratovci',
       athenianPhilosophy: 'Atinska filozofija',
       hellenisticSchools: 'Helenističke škole',
