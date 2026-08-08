@@ -23,6 +23,7 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 **Ukupno**: ~130 poglavlja (neki filozofi imaju više poglavlja)  
 **Ekstraktovano**: 44 figura (34%)  
+**Analizirano**: 11 figura (42 nova zapisa + 1 analiza bez novih podataka)  
 **Integrisano**: 10 figura (42 nova zapisa: Heraklit 1, Empedoklo 4, Diogen 9, Epikur 4, Antisten 3, Kratet 1, Zenon 5, Bijant 4, Ksenofont 1+proširenja, Demosteni 9, **Alkibijad 1**)
 
 ---
@@ -92,8 +93,9 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. XII - Epimenides (Epimenid)
 **Strana**: 54  
-**Status**: ✅  
-**Kritski pesnik-prorok**
+**Status**: ✅✓  
+**Kritski pesnik-prorok**  
+**Sadržaj**: Anegdota o spavanju 75 godina (ne 57 kao kod Diogena), očišćenje Atine od kuge sa crnim i belim ovcama. Nema podataka o delima/spisima.
 
 ### Cap. XIII - Pherecydes (Ferekid)
 **Strana**: 56  
