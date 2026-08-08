@@ -13,21 +13,8 @@ const ScriptContext = createContext<ScriptContextType | undefined>(undefined);
 export function ScriptProvider({ children }: { children: ReactNode }) {
   const [script, setScript] = useState<Script>('cyr');
 
-  useEffect(() => {
-    // Load from localStorage on mount
-    const saved = localStorage.getItem('script');
-    if (saved === 'lat' || saved === 'cyr') {
-      setScript(saved);
-    }
-  }, []);
-
-  const handleSetScript = (newScript: Script) => {
-    setScript(newScript);
-    localStorage.setItem('script', newScript);
-  };
-
   return (
-    <ScriptContext.Provider value={{ script, setScript: handleSetScript }}>
+    <ScriptContext.Provider value={{ script, setScript }}>
       {children}
     </ScriptContext.Provider>
   );
