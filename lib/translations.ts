@@ -139,7 +139,7 @@ export const translations: Record<Language, Translations> = {
     sectionLife: 'Житіє',
     sectionOthersAbout: 'Споминаниꙗ',
     sectionWritings: 'Дѣла',
-    bce: 'п.н.є.',
+    bce: 'п.р.х.',
     wikipedia: 'Википєдїꙗ',
     navHome: 'Начѧло',
     navPhilosophers: 'Филосоѳи',
