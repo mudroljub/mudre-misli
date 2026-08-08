@@ -334,67 +334,16 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Kako možeš pisati da protivrečenje nije moguće?",
-    "stsl": "Како можеши писати · ꙗко противорѣченіє невъзможьно єсть ·",
-    "originalText": "Πῶς οὖν σὺ περὶ αὐτοῦ τούτου γράφεις;",
+    "type": "anecdote",
+    "sr": "Jednom je robu rekao: Išibao bih te da nisam ljut.",
+    "stsl": "Єдиною рабꙋ рече · Билъ быхъ тѧ · аште гнѣвьнъ не быхъ ·",
+    "originalText": "Ἀλλὰ καὶ πρός τινα τῶν παίδων, « Μεμαστίγωσο ἄν, » εἶπεν, « εἰ μὴ ὠργιζόμην. »",
     "author": "Plato",
+    "year": -368,
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "III.35"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Navika kockanja nije sitnica.",
-    "stsl": "Обычаи костьми играти не мала вешь єсть ·",
-    "originalText": "Ἀλλὰ τό γ' ἔθος οὐ μικρόν.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.38"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Najpre steci ime, a zatim ćeš dobiti i životopis.",
-    "stsl": "Пьрвѣє имѧ стѧжи · потомь и житие приимеши ·",
-    "originalText": "Ὀνόματος δεῖ τυχεῖν πρῶτον, εἶτα πολλὰ ἔσται.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.38"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Kazni ga ti, jer sam ja ljut.",
-    "stsl": "Накажи єго ты · зане азъ гнѣвьнъ єсмь ·",
-    "originalText": "μαστιγῶσαι τὸν παῖδα· αὐτὸν γὰρ μὴ δύνασθαι διὰ τὸ ὠργίσθαι.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.38"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Išibao bih te da nisam ljut.",
-    "stsl": "Билъ быхъ тѧ · аште гнѣвьнъ не быхъ ·",
-    "originalText": "Μεμαστίγωσο ἄν, εἰ μὴ ὠργιζόμην.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.38"
+        "reference": "III.39"
       }
     ]
   },
@@ -1345,19 +1294,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "III.39"
-      }
-    ]
-  },
-  {
-    "type": "reported",
-    "sr": "Pijancima je savetovao ogledalo da vide kako ih pijanstvo izobličava, a osuđivao je i predugo spavanje.",
-    "stsl": "Пиꙗнымъ зрьцало съвѣтоваше · да видѧть · како ихъ пиꙗньство безобразить · такожде и прѣдълъгыи сънъ осѫждааше ·",
-    "author": "Plato",
-    "originalText": "τοῖς μεθύουσι συνεβούλευε κατοπτρίζεσθαι· ἀποστήσεσθαι γὰρ τῆς τοιαύτης ἀσχημοσύνης. Καὶ τὸ πολλὰ δὲ καθεύδειν ἀπήρεσκεν αὐτῷ.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.39–40"
       }
     ]
   },
