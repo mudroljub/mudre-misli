@@ -2,9 +2,23 @@
   {
     "type": "bio",
     "year": -625,
-    "sr": "Rođen u Prijeni; otac Teutam; jedan od sedam mudraca.",
-    "stsl": "Роди сѧ въ Приѥнѣ · отьць Теѵтамъ · єдинъ отъ седми мѫдрецъ ·",
-    "originalText": "Βίας Τευτάμου Πριηνεύς, προκεκριμένος τῶν ἑπτὰ ὑπὸ Σατύρου.",
+    "sr": "Bijant, sin Teutamov, rođen u Prijeni.",
+    "stsl": "Биантъ · сынъ Теѵтамовъ · роди сѧ въ Приѥнѣ.",
+    "originalText": "Βίας Τευτάμου Πριηνεύς.",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.82"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -600,
+    "sr": "Računan među sedam mudraca.",
+    "stsl": "Єдинъ отъ седми мѫдрьцъ бѣ.",
+    "originalText": "προκεκριμένος τῶν ἑπτὰ ὑπὸ Σατύρου.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -30,9 +44,23 @@
   {
     "type": "bio",
     "year": -546,
-    "sr": "Umro u dubokoj starosti; grad ga svečano sahranio.",
-    "stsl": "Умрѣ въ прѣстарѣлѣ старости · градъ же его велми погребе ·",
-    "originalText": "Ἤδη ὑπέργηρως ὑπάρχων ἐτελεύτα· καὶ αὐτὸν μεγαλοπρεπῶς ἔθαψεν ἡ πόλις.",
+    "sr": "Umro u dubokoj starosti.",
+    "stsl": "Умрѣ въ прѣстарѣлѣ старости.",
+    "originalText": "Ἤδη ὑπέργηρως ὑπάρχων ἐτελεύτα·",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.84-85"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -546,
+    "sr": "Grad ga je svečano sahranio.",
+    "stsl": "Градъ же его въ великои чести погребе.",
+    "originalText": "καὶ αὐτὸν μεγαλοπρεπῶς ἔθαψεν ἡ πόλις.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -147,9 +175,9 @@
   },
   {
     "type": "quote",
-    "sr": "Meri život kao da ćeš živeti i kratko i dugo. Voli prijatelje kao da ćeš ih jednog dana mrzeti — jer su većinom loši.",
-    "stsl": "Мѣри животъ · ꙗко и длъго и мало врѣмѧ жити имаши · Люби дрѹгы · ꙗко ненавидѣти имѧ имаши · мнози бо сѫть зли ·",
-    "originalText": "Ἔλεγε τὸν βίον οὕτω μετρεῖν ὡς καὶ πολὺν καὶ ὀλίγον χρόνον βιωσομένους, καὶ φιλεῖν ὡς μισήσοντας· τοὺς γὰρ πλείστους εἶναι κακούς.",
+    "sr": "Meri život kao da ćeš živeti i kratko i dugo.",
+    "stsl": "Мѣри животъ · ꙗко и длъго и мало врѣмѧ жити имаши.",
+    "originalText": "Ἔλεγε τὸν βίον οὕτω μετρεῖν ὡς καὶ πολὺν καὶ ὀλίγον χρόνον βιωσομένους,",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -160,9 +188,35 @@
   },
   {
     "type": "quote",
-    "sr": "Budi spor u preuzimanju posla, ali kada jednom počneš, ustrajan u njemu. Ne budi brzog govora — to je znak bezumlja.",
-    "stsl": "Медлѧ начьни дѣло · єже же пріимеши · твьрдѣ дрьжи · Не скоро глаголи · безѹмиѥ бо показѹєть ·",
-    "originalText": "Βραδέως ἐγχείρει τοῖς πραττομένοις· ὃ δ' ἂν ἕλῃ, βεβαίως τηρῶν διάμενε. Μὴ ταχὺ λάλει· μανίαν γὰρ ἐμφαίνει.",
+    "sr": "Voli prijatelje kao da ćeš ih jednog dana mrzeti — jer su većinom loši.",
+    "stsl": "Люби дрѹгы · ꙗко ненавидѣти имѧ имаши · мнози бо сѫть зли.",
+    "originalText": "καὶ φιλεῖν ὡς μισήσοντας· τοὺς γὰρ πλείστους εἶναι κακούς.",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.87"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Budi spor u preuzimanju posla, ali kada jednom počneš, ustrajan u njemu.",
+    "stsl": "Медлѧ начьни дѣло · єже же пріимеши · твьрдѣ дрьжи.",
+    "originalText": "Βραδέως ἐγχείρει τοῖς πραττομένοις· ὃ δ' ἂν ἕλῃ, βεβαίως τηρῶν διάμενε.",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.87"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne budi brzog govora — to je znak bezumlja.",
+    "stsl": "Не скоро глаголи · безѹмиѥ бо показѹєть.",
+    "originalText": "Μὴ ταχὺ λάλει· μανίαν γὰρ ἐμφαίνει.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -365,9 +419,37 @@
   {
     "type": "bio",
     "year": -600,
-    "sr": "Živeo u vreme judejskog kralja Sedekije; napisao 2000 stihova; po smrti mu posvećen hram.",
-    "stsl": "Живѣ въ врѣмѧ Седекіи · цара Іѹдеиска · написа двѣ тисѧщи рѣчи · по смрьти же єго храмъ посвѧщенъ бысть ·",
-    "originalText": "Vixit tempore Zedechia, regis Judae; scripsit duobus milibus carminibus res utiles; post mortem templum ei dedicatum est.",
+    "sr": "Živeo u vreme judejskog kralja Sedekije.",
+    "stsl": "Живѣ въ врѣмѧ Седекіи · цара Іудеискаго.",
+    "originalText": "Vixit tempore Zedechia, regis Judae;",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. V"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -580,
+    "sr": "Napisao je 2000 stihova o korisnim stvarima.",
+    "stsl": "Написа двѣ тисѧщи рѣчи о полѣзьныхъ вещахъ.",
+    "originalText": "scripsit duobus milibus carminibus res utiles;",
+    "author": "Bias of Priene",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. V"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -546,
+    "sr": "Posle smrti mu je bio posvećen hram.",
+    "stsl": "По смрьти храмъ єму посвѧщенъ бысть.",
+    "originalText": "post mortem templum ei dedicatum est.",
     "author": "Bias of Priene",
     "sources": [
       {
