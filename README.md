@@ -26,6 +26,7 @@ npm start
 - dodaj tagove i stranice za tagove. klik na pojam u rečniku vodi ka upotrebi tog pojma.
 - dodaj link ka vikipediji da bude knjiga pored imena filozofa
 - prikaži godinu rođenja i smrti na strani autora
+- pamtiti izbor ćir-latinica u local storage
 
 ## Izvori
 
