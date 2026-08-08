@@ -67,6 +67,9 @@ interface BaseEntry {
 
   /** Textual variants from alternative sources (only if text differs) */
   textVariants?: TextVariant[];
+
+  /** Philosophical terms detected in originalText (Greek terms in nominative form) */
+  tags?: string[];
 }
 
 /**
@@ -122,6 +125,7 @@ export type AuthorsData = Record<string, AuthorData>;
 export type EntriesByLanguage = Record<Language, Entry[]>;
 
 export interface SourceData {
+  author: string;
   language: string;
   originalTitle: string;
   stsl: string;

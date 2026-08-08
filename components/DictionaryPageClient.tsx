@@ -1,8 +1,10 @@
 'use client';
 
+import Link from 'next/link';
 import Sidebar from './Sidebar';
 import Header from './Header';
 import { useTranslations } from '../lib/useTranslations';
+import { quotesData } from '../lib/data';
 import type { Language } from '../types/data';
 import styles from './DictionaryPageClient.module.scss';
 
@@ -55,10 +57,15 @@ function parseMarkdown(text: string) {
 export default function DictionaryPageClient({ language, content }: DictionaryPageClientProps) {
   const { t } = useTranslations(language);
 
-  // Parse markdown table into array of rows
-  const lines = content.split('\n');
-  const tableStart = lines.findIndex(line => line.startsWith('| Grčki'));
+  // Collect all tags that exist in quotes
+  const allTags = new Set<string>();
+  for (const entry of quotesData) {
+    if (entry.tags) {
+      entry.tags.forEach(tag => allTags.add(tag));
+    }
+  }
 
+  // Parse markdown table into array of rows
   // Remove HTML comments
   let cleanedContent = content;
   cleanedContent = cleanedContent.replace(/<!--[\s\S]*?-->/g, '');
@@ -95,31 +102,46 @@ export default function DictionaryPageClient({ language, content }: DictionaryPa
               </tr>
             </thead>
             <tbody>
-              {entries.map((entry, idx) => (
-                <tr key={idx}>
-                  <td className={styles.greek}>
-                    {parseMarkdown(entry.greek).map((part, i) => (
-                      part.bold ? <strong key={i}>{part.text}</strong> :
-                      part.italic ? <em key={i}>{part.text}</em> :
-                      <span key={i}>{part.text}</span>
-                    ))}
-                  </td>
-                  <td className={styles.stsl}>
-                    {parseMarkdown(entry.stsl).map((part, i) => (
-                      part.bold ? <strong key={i}>{part.text}</strong> :
-                      part.italic ? <em key={i}>{part.text}</em> :
-                      <span key={i}>{part.text}</span>
-                    ))}
-                  </td>
-                  <td className={styles.sr}>
-                    {parseMarkdown(entry.sr).map((part, i) => (
-                      part.bold ? <strong key={i}>{part.text}</strong> :
-                      part.italic ? <em key={i}>{part.text}</em> :
-                      <span key={i}>{part.text}</span>
-                    ))}
-                  </td>
-                </tr>
-              ))}
+              {entries.map((entry, idx) => {
+                // Check if this Greek term has a tag
+                const hasTag = allTags.has(entry.greek);
+
+                return (
+                  <tr key={idx}>
+                    <td className={styles.greek}>
+                      {hasTag ? (
+                        <Link href={`/${language}/tags/${encodeURIComponent(entry.greek)}`} className={styles.tagLink}>
+                          {parseMarkdown(entry.greek).map((part, i) => (
+                            part.bold ? <strong key={i}>{part.text}</strong> :
+                            part.italic ? <em key={i}>{part.text}</em> :
+                            <span key={i}>{part.text}</span>
+                          ))}
+                        </Link>
+                      ) : (
+                        parseMarkdown(entry.greek).map((part, i) => (
+                          part.bold ? <strong key={i}>{part.text}</strong> :
+                          part.italic ? <em key={i}>{part.text}</em> :
+                          <span key={i}>{part.text}</span>
+                        ))
+                      )}
+                    </td>
+                    <td className={styles.stsl}>
+                      {parseMarkdown(entry.stsl).map((part, i) => (
+                        part.bold ? <strong key={i}>{part.text}</strong> :
+                        part.italic ? <em key={i}>{part.text}</em> :
+                        <span key={i}>{part.text}</span>
+                      ))}
+                    </td>
+                    <td className={styles.sr}>
+                      {parseMarkdown(entry.sr).map((part, i) => (
+                        part.bold ? <strong key={i}>{part.text}</strong> :
+                        part.italic ? <em key={i}>{part.text}</em> :
+                        <span key={i}>{part.text}</span>
+                      ))}
+                    </td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>

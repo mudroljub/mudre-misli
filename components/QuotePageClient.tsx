@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Sidebar from "./Sidebar";
 import Header from "./Header";
-import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName } from "../lib/data";
+import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../lib/data";
 import { useTranslations } from "../lib/useTranslations";
 import type { AuthorData, Language, Entry } from "../types/data";
 import styles from "./QuotePageClient.module.scss";
@@ -42,7 +42,7 @@ export default function QuotePageClient({
             <b>{t.source}</b>: {quote.sources.map((src, idx) => (
               <span key={idx}>
                 {idx > 0 && "; "}
-                {transliterate(getSourceName(src.name, language))}
+                {getSourceAuthor(src.name)}, {transliterate(getSourceName(src.name, language))}
                 {src.reference && `, ${src.reference}`}
               </span>
             ))}

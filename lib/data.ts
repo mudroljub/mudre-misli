@@ -69,6 +69,16 @@ const getSourceName = (
     : metadata.sr;
 };
 
+const getSourceOriginalTitle = (source: string): string => {
+  const metadata = sourcesData[source];
+  return metadata?.originalTitle || source;
+};
+
+const getSourceAuthor = (source: string): string => {
+  const metadata = sourcesData[source];
+  return metadata?.author || '';
+};
+
 const quotesByLanguage: EntriesByLanguage = {
   sr: quotesData.filter((entry) => entry.sr),
   stsl: quotesData.filter((entry) => entry.stsl),
@@ -91,4 +101,6 @@ export {
   slugifyAuthor,
   sourcesData,
   getSourceName,
+  getSourceOriginalTitle,
+  getSourceAuthor,
 };

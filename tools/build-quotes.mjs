@@ -1,6 +1,7 @@
 import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { greekTerms } from './greek-terms.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
@@ -144,6 +145,28 @@ const buildPointer = async (sourceObj, author) => {
   return null
 }
 
+/**
+ * Detect Greek philosophical terms in originalText and return tags
+ * @param {string} originalText - Greek text to analyze
+ * @returns {string[]} - Array of detected term tags (nominative form)
+ */
+const detectTags = (originalText) => {
+  if (!originalText) return []
+
+  const detectedTags = new Set()
+
+  for (const term of greekTerms) {
+    // Check if any form of this term appears in the text
+    const hasMatch = term.forms.some(form => originalText.includes(form))
+
+    if (hasMatch) {
+      detectedTags.add(term.tag)
+    }
+  }
+
+  return Array.from(detectedTags).sort()
+}
+
 // First pass: collect all quotes
 const allQuotes = []
 let nextId = 1
@@ -162,11 +185,17 @@ for (const file of files) {
     const primarySource = entry.sources?.[0]
     const pointer = primarySource ? await buildPointer(primarySource, author) : null
 
+    // Detect tags only for quote and reported types
+    const tags = (entry.type === 'quote' || entry.type === 'reported')
+      ? detectTags(entry.originalText)
+      : undefined
+
     allQuotes.push({
       _id: nextId++,
       ...entry,
       // Preserve original author structure (don't explode multi-author entries)
       ...(pointer ? { pointer } : {}),
+      ...(tags && tags.length > 0 ? { tags } : {}),
     })
   }
 }

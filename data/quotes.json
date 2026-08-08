@@ -59,7 +59,10 @@
         "reference": "II.103"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:626#τὴν ἄ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:626#τὴν ἄ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 5,
@@ -74,7 +77,10 @@
         "reference": "II.103"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:626#Ἐρωτη"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:626#Ἐρωτη",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 6,
@@ -104,7 +110,10 @@
         "reference": "II.103"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:626#Μαθὼν"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:626#Μαθὼν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 8,
@@ -134,7 +143,10 @@
         "reference": "II.104"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:632#Ἐρωτηθεὶς ε"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:632#Ἐρωτηθεὶς ε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 10,
@@ -164,7 +176,10 @@
         "reference": "II.104"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:632#Ἐρωτηθεὶς π"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:632#Ἐρωτηθεὶς π",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 12,
@@ -179,7 +194,10 @@
         "reference": "II.104"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:632#Ὀνειδ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:632#Ὀνειδ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 13,
@@ -194,7 +212,10 @@
         "reference": "II.105"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:636#Ἑρωτη"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:636#Ἑρωτη",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 14,
@@ -209,7 +230,10 @@
         "reference": "II.105"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:636#Κρεῖτ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:636#Κρεῖτ",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 15,
@@ -253,7 +277,10 @@
         "reference": "II.105"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:636#Ὑπὸ μ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:636#Ὑπὸ μ",
+    "tags": [
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 18,
@@ -380,7 +407,11 @@
         "reference": "II.6"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:59#Πάντα"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:59#Πάντα",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 26,
@@ -425,7 +456,10 @@
         "reference": "II.8"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:71#τὸν ἥ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:71#τὸν ἥ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 29,
@@ -455,7 +489,12 @@
         "reference": "II.8"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:71#Καὶ ν"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:71#Καὶ ν",
+    "tags": [
+      "νοῦς",
+      "πῦρ",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 31,
@@ -470,7 +509,10 @@
         "reference": "II.9"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:73#Τὰ δ'"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:73#Τὰ δ'",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 32,
@@ -545,7 +587,10 @@
         "reference": "II.10"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:76#Εἰς θ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:76#Εἰς θ",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 37,
@@ -605,7 +650,10 @@
         "reference": "II.11"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:78#τὴν Ὁ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:78#τὴν Ὁ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 41,
@@ -635,7 +683,10 @@
         "reference": "II.13"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:88#Κἀκεί"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:88#Κἀκεί",
+    "tags": [
+      "φύσις"
+    ]
   },
   {
     "_id": 43,
@@ -811,7 +862,10 @@
         "reference": "IX.34"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:217#Λευκί"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:217#Λευκί",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 54,
@@ -829,7 +883,10 @@
         "reference": "X.13"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/11.txt:52"
+    "pointer": "data/sources/diogenes-laertius/el/11.txt:52",
+    "tags": [
+      "ἀρχή"
+    ]
   },
   {
     "_id": 55,
@@ -1004,7 +1061,10 @@
         "reference": "II.1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#ἀρχὴν"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#ἀρχὴν",
+    "tags": [
+      "ἄπειρον"
+    ]
   },
   {
     "_id": 66,
@@ -1019,7 +1079,10 @@
         "reference": "II.1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#καὶ τ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#καὶ τ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 67,
@@ -1034,7 +1097,10 @@
         "reference": "II.1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#μέσην"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#μέσην",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 68,
@@ -1064,7 +1130,10 @@
         "reference": "II.1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#τὸν ἥ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:3#τὸν ἥ",
+    "tags": [
+      "πῦρ"
+    ]
   },
   {
     "_id": 70,
@@ -1175,7 +1244,11 @@
         "reference": "II.3"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:15#οὗτος"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:15#οὗτος",
+    "tags": [
+      "εἶναι",
+      "ἄπειρον"
+    ]
   },
   {
     "_id": 77,
@@ -1221,7 +1294,10 @@
         "reference": "II.4"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:25"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:25",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 80,
@@ -1391,7 +1467,10 @@
         "reference": "VI.1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:3#Καὶ ἡ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:3#Καὶ ἡ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 91,
@@ -1406,7 +1485,10 @@
         "reference": "VI.1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:3#τοὺς "
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:3#τοὺς ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 92,
@@ -1451,7 +1533,11 @@
         "reference": "VI.3"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:12#Λόγος"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:12#Λόγος",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
     "_id": 95,
@@ -1496,7 +1582,10 @@
         "reference": "VI.3"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:12#Βιβλα"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:12#Βιβλα",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 98,
@@ -1646,7 +1735,10 @@
         "reference": "VI.5"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:16#Ἔδει "
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:16#Ἔδει ",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 108,
@@ -1676,7 +1768,10 @@
         "reference": "VI.5"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:16#Τοὺς "
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:16#Τοὺς ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 110,
@@ -1721,7 +1816,10 @@
         "reference": "VI.5"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:16#Ὁμονο"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:16#Ὁμονο",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 113,
@@ -1751,7 +1849,10 @@
         "reference": "VI.6"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:18#Καὶ ο"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:18#Καὶ ο",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 115,
@@ -1856,7 +1957,10 @@
         "reference": "VI.7"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:20#Ἐδόκε"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:20#Ἐδόκε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 122,
@@ -1976,7 +2080,10 @@
         "reference": "VI.10"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:30#Ποντι"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:30#Ποντι",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 130,
@@ -1991,7 +2098,10 @@
         "reference": "VI.10"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:30#εἰ μὲ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:30#εἰ μὲ",
+    "tags": [
+      "κόσμος"
+    ]
   },
   {
     "_id": 131,
@@ -2051,7 +2161,11 @@
         "reference": "VI.11"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:34#Τήν τ' ἀρ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:34#Τήν τ' ἀρ",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
     "_id": 135,
@@ -2066,7 +2180,10 @@
         "reference": "VI.11"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:34#Αὐτάρ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:34#Αὐτάρ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 136,
@@ -2246,7 +2363,10 @@
         "reference": "VI.12"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:36#Τὸν δ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:36#Τὸν δ",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 148,
@@ -2366,7 +2486,10 @@
         "reference": "VI.104"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:712#τέλος"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:712#τέλος",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 156,
@@ -2730,7 +2853,10 @@
         "reference": "II.67"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:433#Οὐδὲ "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:433#Οὐδὲ ",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 179,
@@ -2790,7 +2916,10 @@
         "reference": "II.68"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:436#Εἰ το"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:436#Εἰ το",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 183,
@@ -2895,7 +3024,10 @@
         "reference": "II.70"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:445#Ἄμειν"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:445#Ἄμειν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 190,
@@ -2940,7 +3072,10 @@
         "reference": "II.71"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:447#Οὐ γὰ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:447#Οὐ γὰ",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 193,
@@ -2970,7 +3105,11 @@
         "reference": "II.71"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:447#Τοῦτο"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:447#Τοῦτο",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
     "_id": 195,
@@ -2985,7 +3124,10 @@
         "reference": "II.72"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:450#ὑπερο"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:450#ὑπερο",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 196,
@@ -3195,7 +3337,10 @@
         "reference": "II.75"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:457#Οὐκ ε"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:457#Οὐκ ε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 210,
@@ -3376,7 +3521,10 @@
         "reference": "II.79"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:474#τοὺς "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:474#τοὺς ",
+    "tags": [
+      "σοφία"
+    ]
   },
   {
     "_id": 222,
@@ -3406,7 +3554,10 @@
         "reference": "II.80"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:477#πρὸς "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:477#πρὸς ",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 224,
@@ -3451,7 +3602,10 @@
         "reference": "II.81"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:480#Καὶ τ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:480#Καὶ τ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 227,
@@ -3481,7 +3635,10 @@
         "reference": "II.81"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:480#Οὗ ἕν"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:480#Οὗ ἕν",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 229,
@@ -3586,7 +3743,10 @@
         "reference": "VIII.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:226#Πυθαγ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:226#Πυθαγ",
+    "tags": [
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 236,
@@ -3601,7 +3761,10 @@
         "reference": "VIII.60"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:723#ἦν δ'"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:723#ἦν δ'",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 237,
@@ -3808,7 +3971,10 @@
         "reference": "VII.160"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:693#εἶναι"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:693#εἶναι",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 250,
@@ -3823,7 +3989,10 @@
         "reference": "VII.160"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:693#Τόν τ"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:693#Τόν τ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 251,
@@ -3838,7 +4007,11 @@
         "reference": "VII.161"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:699"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:699",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
     "_id": 252,
@@ -4072,7 +4245,10 @@
         "reference": "V.17"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:190#Ὅταν "
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:190#Ὅταν ",
+    "tags": [
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 267,
@@ -4132,7 +4308,10 @@
         "reference": "V.18"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:192#Τῆς π"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:192#Τῆς π",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 271,
@@ -4177,7 +4356,10 @@
         "reference": "V.18"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:192#Τριῶν"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:192#Τριῶν",
+    "tags": [
+      "φύσις"
+    ]
   },
   {
     "_id": 274,
@@ -4222,7 +4404,10 @@
         "reference": "V.19"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:194#Ἡ παι"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:194#Ἡ παι",
+    "tags": [
+      "κόσμος"
+    ]
   },
   {
     "_id": 277,
@@ -4237,7 +4422,10 @@
         "reference": "V.19"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:194#Τους "
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:194#Τους ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 278,
@@ -4252,7 +4440,10 @@
         "reference": "V.19"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:194#Οὐ το"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:194#Οὐ το",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 279,
@@ -4267,7 +4458,10 @@
         "reference": "V.20"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:196#Μία ψ"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:196#Μία ψ",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 280,
@@ -4327,7 +4521,10 @@
         "reference": "V.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:198#ἀρετὴ"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:198#ἀρετὴ",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 284,
@@ -4372,7 +4569,11 @@
         "reference": "V.28"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:516"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:516",
+    "tags": [
+      "εἶναι",
+      "σοφία"
+    ]
   },
   {
     "_id": 287,
@@ -4387,7 +4588,10 @@
         "reference": "V.30"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:520#Τὸ δὲ"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:520#Τὸ δὲ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 288,
@@ -4417,7 +4621,10 @@
         "reference": "V.30"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:520#Καὶ μ"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:520#Καὶ μ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 290,
@@ -4432,7 +4639,10 @@
         "reference": "V.31"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:522#Τὴν φ"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:522#Τὴν φ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 291,
@@ -4447,7 +4657,10 @@
         "reference": "V.31"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:522#Τῶν τ"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:522#Τῶν τ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 292,
@@ -4462,7 +4675,10 @@
         "reference": "V.32–33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:526"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:526",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 293,
@@ -4716,7 +4932,11 @@
         "reference": "I.86"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Τὸ μὲ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Τὸ μὲ",
+    "tags": [
+      "φύσις",
+      "ψυχή"
+    ]
   },
   {
     "_id": 309,
@@ -4731,7 +4951,10 @@
         "reference": "I.86"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Ἀτυχῆ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Ἀτυχῆ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 310,
@@ -4746,7 +4969,10 @@
         "reference": "I.86"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Νόσον"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Νόσον",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 311,
@@ -4761,7 +4987,10 @@
         "reference": "I.86"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Ἀλλοτ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:768#Ἀλλοτ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 312,
@@ -4836,7 +5065,10 @@
         "reference": "I.87"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:770#καὶ φ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:770#καὶ φ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 317,
@@ -4881,7 +5113,11 @@
         "reference": "I.88"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:772#Φρόνη"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:772#Φρόνη",
+    "tags": [
+      "εἶναι",
+      "σοφία"
+    ]
   },
   {
     "_id": 320,
@@ -4911,7 +5147,10 @@
         "reference": "I.82"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:726#Καὶ ὁ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:726#Καὶ ὁ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 322,
@@ -5187,7 +5426,10 @@
         "reference": "II.68"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:436#ἔφασκ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:436#ἔφασκ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 340,
@@ -5448,7 +5690,10 @@
         "reference": "II.70"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:445#Ζημία"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:445#Ζημία",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 357,
@@ -5478,7 +5723,10 @@
         "reference": "II.70"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:445#Ἰσχυρ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:445#Ἰσχυρ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 359,
@@ -5508,7 +5756,10 @@
         "reference": "II.70"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:445#Τὴν γ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:445#Τὴν γ",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 361,
@@ -5628,7 +5879,10 @@
         "reference": "II.71"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:447#Ἐν <μ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:447#Ἐν <μ",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 369,
@@ -5659,7 +5913,10 @@
         "reference": "II.72"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:450#Ἐνδοξ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:450#Ἐνδοξ",
+    "tags": [
+      "φύσις"
+    ]
   },
   {
     "_id": 371,
@@ -5770,7 +6027,10 @@
         "reference": "II.73"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:452#τόνδε"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:452#τόνδε",
+    "tags": [
+      "σοφία"
+    ]
   },
   {
     "_id": 378,
@@ -5847,7 +6107,10 @@
         "reference": "VII.180"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:1051#ἐπειδ"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:1051#ἐπειδ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 383,
@@ -5955,7 +6218,10 @@
         "reference": "VII.183"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:1062#ἐμοί·"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:1062#ἐμοί·",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 390,
@@ -6305,7 +6571,11 @@
         "reference": "VII.169"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:825"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:825",
+    "tags": [
+      "σοφία",
+      "ἕν"
+    ]
   },
   {
     "_id": 413,
@@ -6350,7 +6620,10 @@
         "reference": "VII.171"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:835#Πολλά"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:835#Πολλά",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 416,
@@ -6365,7 +6638,10 @@
         "reference": "VII.171"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:835#Παῦσα"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:835#Παῦσα",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 417,
@@ -6655,7 +6931,10 @@
         "reference": "VI.86"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:548#ἐκ φι"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:548#ἐκ φι",
+    "tags": [
+      "σοφία"
+    ]
   },
   {
     "_id": 436,
@@ -6733,7 +7012,10 @@
         "reference": "VI.89"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:586"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:586",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 441,
@@ -6748,7 +7030,10 @@
         "reference": "VI.92"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:600#μέχρι"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:600#μέχρι",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 442,
@@ -6763,7 +7048,10 @@
         "reference": "VI.92"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:600#Ἐρήμο"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:600#Ἐρήμο",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 443,
@@ -6809,7 +7097,10 @@
         "reference": "VI.93"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:606#Ἔχειν"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:606#Ἔχειν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 446,
@@ -7013,7 +7304,10 @@
         "reference": "IX.37"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:225"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:225",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 459,
@@ -7028,7 +7322,11 @@
         "reference": "IX.44"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#ἀρχὰς"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#ἀρχὰς",
+    "tags": [
+      "εἶναι",
+      "ἄτομος"
+    ]
   },
   {
     "_id": 460,
@@ -7043,7 +7341,12 @@
         "reference": "IX.44"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#ἀπείρ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#ἀπείρ",
+    "tags": [
+      "εἶναι",
+      "κόσμος",
+      "ἄπειρον"
+    ]
   },
   {
     "_id": 461,
@@ -7058,7 +7361,10 @@
         "reference": "IX.44"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#μηδέν"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#μηδέν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 462,
@@ -7073,7 +7379,14 @@
         "reference": "IX.44"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#τὰς ἀ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#τὰς ἀ",
+    "tags": [
+      "εἶναι",
+      "πῦρ",
+      "ἄπειρον",
+      "ἄτομος",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 463,
@@ -7088,7 +7401,11 @@
         "reference": "IX.44"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#τὸν τ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:261#τὸν τ",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 464,
@@ -7133,7 +7450,11 @@
         "reference": "IX.45"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:263#τέλος"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:263#τέλος",
+    "tags": [
+      "εἶναι",
+      "ἕν"
+    ]
   },
   {
     "_id": 467,
@@ -7163,7 +7484,10 @@
         "reference": "IX.72"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:598#ἐτεῇ "
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:598#ἐτεῇ ",
+    "tags": [
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 469,
@@ -7178,7 +7502,10 @@
         "reference": "IX.106"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:734"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:734",
+    "tags": [
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 470,
@@ -8042,7 +8369,10 @@
         "reference": "VI.63"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:364#Κοσμο"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:364#Κοσμο",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 524,
@@ -8102,7 +8432,10 @@
         "reference": "VI.68"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:386#Εἰ δὲ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:386#Εἰ δὲ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 528,
@@ -8117,7 +8450,10 @@
         "reference": "VI.68"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:386#Ἡ παι"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:386#Ἡ παι",
+    "tags": [
+      "κόσμος"
+    ]
   },
   {
     "_id": 529,
@@ -8222,7 +8558,10 @@
         "reference": "VI.39"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:278"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:278",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 536,
@@ -8252,7 +8591,10 @@
         "reference": "VI.50"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:306#Τὴν φ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:306#Τὴν φ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 538,
@@ -8297,7 +8639,10 @@
         "reference": "VI.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:252#Πρὸς "
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:252#Πρὸς ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 541,
@@ -8312,7 +8657,10 @@
         "reference": "VI.34"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:254"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:254",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 542,
@@ -8372,7 +8720,10 @@
         "reference": "VI.24"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:230"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:230",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 546,
@@ -8387,7 +8738,10 @@
         "reference": "VI.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:236#Ἐρωτη"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:236#Ἐρωτη",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 547,
@@ -8477,7 +8831,10 @@
         "reference": "VI.38"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:268#Εἰώθε"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:268#Εἰώθε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 553,
@@ -8507,7 +8864,10 @@
         "reference": "VI.41"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:282#Ἐν Με"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:282#Ἐν Με",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 555,
@@ -8522,7 +8882,10 @@
         "reference": "VI.42"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:284"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:284",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 556,
@@ -8552,7 +8915,11 @@
         "reference": "VI.49"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:304#Πρός "
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:304#Πρός ",
+    "tags": [
+      "εἶναι",
+      "ἕν"
+    ]
   },
   {
     "_id": 558,
@@ -8567,7 +8934,10 @@
         "reference": "VI.49"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:304#Καὶ π"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:304#Καὶ π",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 559,
@@ -8597,7 +8967,11 @@
         "reference": "VI.69"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:388"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:388",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
     "_id": 561,
@@ -8612,7 +8986,10 @@
         "reference": "VI.70"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:390"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:390",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 562,
@@ -8642,7 +9019,11 @@
         "reference": "VI.72"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:394"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:394",
+    "tags": [
+      "εἶναι",
+      "κόσμος"
+    ]
   },
   {
     "_id": 564,
@@ -8783,7 +9164,10 @@
         "reference": "VIII.54"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:645#ἦν δέ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:645#ἦν δέ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 573,
@@ -8798,7 +9182,10 @@
         "reference": "VIII.59"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:697#φάρμα"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:697#φάρμα",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 574,
@@ -8888,7 +9275,12 @@
         "reference": "VIII.76"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:938#στοιχ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:938#στοιχ",
+    "tags": [
+      "εἶναι",
+      "πῦρ",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 580,
@@ -8918,7 +9310,11 @@
         "reference": "VIII.76"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:938#Δία μ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:938#Δία μ",
+    "tags": [
+      "πῦρ",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 582,
@@ -9457,7 +9853,10 @@
         "reference": "X.22"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/11.txt:92"
+    "pointer": "data/sources/diogenes-laertius/el/11.txt:92",
+    "tags": [
+      "σοφία"
+    ]
   },
   {
     "_id": 616,
@@ -9805,7 +10204,10 @@
         "reference": "II.113"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:709"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:709",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 638,
@@ -9820,7 +10222,11 @@
         "reference": "I.8"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:67"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:67",
+    "tags": [
+      "εἶναι",
+      "ἀρχή"
+    ]
   },
   {
     "_id": 639,
@@ -10213,7 +10619,10 @@
         "reference": "IX.1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:3#πολυμ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:3#πολυμ",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 664,
@@ -10303,7 +10712,10 @@
         "reference": "IX.2"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:5#ἄξιον"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:5#ἄξιον",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 670,
@@ -10318,7 +10730,11 @@
         "reference": "IX.7"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:35#ψυχῆς"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:35#ψυχῆς",
+    "tags": [
+      "λόγος",
+      "ψυχή"
+    ]
   },
   {
     "_id": 671,
@@ -10348,7 +10764,11 @@
       }
     ],
     "sr": "Koliko god ih biva na zemlji, lišavaju se istine i pravde, a priklanjaju se nezasitnosti i slavoljublju zbog zlog bezumlja. Ja pak, zaboravljajući svako lukavstvo i bežeći od sitosti koja se odeva zavisću i oholosti, ne bih stigao u zemlju Persijaca, dovoljne mi male stvari po mom razumu.",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:57#ὁκόσο"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:57#ὁκόσο",
+    "tags": [
+      "εἶναι",
+      "ἕν"
+    ]
   },
   {
     "_id": 673,
@@ -10378,7 +10798,13 @@
       }
     ],
     "sr": "Iz vatre se sve sastavlja i u nju se rastvara; sve se dešava po sudbi i kroz suprotno kretanje usklađuje se biće; sve je puno duša i duhova. Govorio je i o svim strastima koje se zbivaju u svetu, i da je Sunce ono što je njegovo veličanstvo kako se vidi.",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:35#ἐκ πυ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:35#ἐκ πυ",
+    "tags": [
+      "εἶναι",
+      "κόσμος",
+      "ψυχή",
+      "ἕν"
+    ]
   },
   {
     "_id": 675,
@@ -10393,7 +10819,13 @@
       }
     ],
     "sr": "Vatra je sastojak i promenom vatre sve postaje, retkom i gustom. Sve se dešava po suprotnosti i sve teče poput reke; sve je ograničeno i svet je jedan. Rađa se iz vatre i opet se zapaćuje u ciklusima izmenično čitavo večnost; to se dešava po sudbi.",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:37#πῦρ ε"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:37#πῦρ ε",
+    "tags": [
+      "εἶναι",
+      "κόσμος",
+      "πῦρ",
+      "ἕν"
+    ]
   },
   {
     "_id": 676,
@@ -10423,7 +10855,12 @@
       }
     ],
     "sr": "Vatra se zgušćava i vlažni; skupljajući se postaje voda; voda se stvrđujući pretvara u zemlju; to je put dole. Isparenja se dižu od zemlje i mora, jedni svetli i čisti, drugi tamni. Vatra se umnožava od svetlih, vlaga od tamnih. U njemu su posude okrenute udubljenjima ka nama; u njima se sakupljaju svetla isparenja i stvaraju plamen; to su zvezde.",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:39"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:39",
+    "tags": [
+      "εἶναι",
+      "πῦρ",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 678,
@@ -10438,7 +10875,10 @@
       }
     ],
     "sr": "Najsvetliji je plamen sunčev i najtopliji; Sunce se kreće kroz jasni i nesmešani prostor i umereno je udaljeno od nas. Pomračuju se Sunce i Mesec kada se posude okrenu na gore. Mesečeve promene tokom meseca nastaju dok se posuda malo po malo okreće.",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:41#λαμπρ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:41#λαμπρ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 679,
@@ -10453,7 +10893,11 @@
       }
     ],
     "sr": "Svetlo isparenje zapaljeno u krugu sunčevom čini dan, a suprotno kada prevlada stvara noć; od svetloga toplo se umnožavajući čini leto, od tamnog vlaga koju izobilje stvara zimu.",
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:41#τὴν μ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:41#τὴν μ",
+    "tags": [
+      "νοῦς",
+      "ἕν"
+    ]
   },
   {
     "_id": 680,
@@ -10569,7 +11013,10 @@
       }
     ],
     "sr": "Napravio je mešavinu Heraklitovih, Pitagorinih i Sokratovih učenja. Čulno je po Heraklitu, umno po Pitagori, državno po Sokratu filozofirao.",
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:37"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:37",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 687,
@@ -10632,7 +11079,10 @@
         "reference": "VI.98"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:644"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:644",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 691,
@@ -10695,7 +11145,12 @@
         "reference": "IX.30–31"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#ἤρεσκ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#ἤρεσκ",
+    "tags": [
+      "εἶναι",
+      "ἄπειρον",
+      "ἄτομος"
+    ]
   },
   {
     "_id": 695,
@@ -10710,7 +11165,12 @@
         "reference": "IX.31"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:209#τούτο"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:209#τούτο",
+    "tags": [
+      "εἶναι",
+      "κόσμος",
+      "ἄπειρον"
+    ]
   },
   {
     "_id": 696,
@@ -10725,7 +11185,11 @@
         "reference": "IX.31"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:209#φέρεσ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:209#φέρεσ",
+    "tags": [
+      "ἄπειρον",
+      "ἕν"
+    ]
   },
   {
     "_id": 697,
@@ -10740,7 +11204,11 @@
         "reference": "IX.32"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:211"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:211",
+    "tags": [
+      "εἶναι",
+      "φύσις"
+    ]
   },
   {
     "_id": 698,
@@ -10755,7 +11223,10 @@
         "reference": "IX.30"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#τὴν γ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:207#τὴν γ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 699,
@@ -10770,7 +11241,10 @@
         "reference": "IX.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:213#τὴν δ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:213#τὴν δ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 700,
@@ -10785,7 +11259,11 @@
         "reference": "IX.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:213#εἶναί"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:213#εἶναί",
+    "tags": [
+      "εἶναι",
+      "κόσμος"
+    ]
   },
   {
     "_id": 701,
@@ -11056,7 +11534,10 @@
         "reference": "II.128"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:969#Ἀντιγ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:969#Ἀντιγ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 718,
@@ -11088,7 +11569,10 @@
         "reference": "II.128"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:969#Πρὸς δὲ τὸν π"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:969#Πρὸς δὲ τὸν π",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 720,
@@ -11373,7 +11857,10 @@
         "reference": "VI.83"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:502#τὸ γὰ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:502#τὸ γὰ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 738,
@@ -11482,7 +11969,11 @@
         "reference": "IX.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#δύο τ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#δύο τ",
+    "tags": [
+      "εἶναι",
+      "πῦρ"
+    ]
   },
   {
     "_id": 745,
@@ -11512,7 +12003,11 @@
         "reference": "IX.22"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:133#τὴν ψ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:133#τὴν ψ",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 747,
@@ -11527,7 +12022,11 @@
         "reference": "IX.22"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:133#δισσή"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:133#δισσή",
+    "tags": [
+      "σοφία",
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 748,
@@ -11557,7 +12056,11 @@
         "reference": "IX.22"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:133#κριτή"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:133#κριτή",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
     "_id": 750,
@@ -11572,7 +12075,10 @@
         "reference": "IX.22"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:133#μηδέ "
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:133#μηδέ ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 751,
@@ -11587,7 +12093,10 @@
         "reference": "IX.42"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:243#ἓν τὸ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:243#ἓν τὸ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 752,
@@ -11666,7 +12175,10 @@
         "reference": "IX.23"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:150#τὸν α"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:150#τὸν α",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 757,
@@ -11962,7 +12474,11 @@
         "reference": "II.76"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:459#Νόμου"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:459#Νόμου",
+    "tags": [
+      "εἶναι",
+      "ἕν"
+    ]
   },
   {
     "_id": 776,
@@ -11978,7 +12494,10 @@
         "reference": "II.76"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:459#Εἶπέ "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:459#Εἶπέ ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 777,
@@ -12122,7 +12641,10 @@
         "reference": "II.78"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:463#Ἀτυχί"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:463#Ἀτυχί",
+    "tags": [
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 786,
@@ -12375,7 +12897,10 @@
         "reference": "III.7"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:25#πάντα"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:25#πάντα",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 802,
@@ -12390,7 +12915,10 @@
         "reference": "III.9–10"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:41"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:41",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 803,
@@ -12405,7 +12933,11 @@
         "reference": "III.10"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:46"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:46",
+    "tags": [
+      "εἶναι",
+      "φύσις"
+    ]
   },
   {
     "_id": 804,
@@ -12420,7 +12952,10 @@
         "reference": "III.12–13"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:84"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:84",
+    "tags": [
+      "φύσις"
+    ]
   },
   {
     "_id": 805,
@@ -12435,7 +12970,10 @@
         "reference": "III.15"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:110#εἴπερ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:110#εἴπερ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 806,
@@ -12450,7 +12988,10 @@
         "reference": "III.15"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:110#νῦν δ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:110#νῦν δ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 807,
@@ -12510,7 +13051,10 @@
         "reference": "III.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:157#μὴ το"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:157#μὴ το",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 811,
@@ -12600,7 +13144,10 @@
         "reference": "III.31"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:287#Νῦν, "
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:287#Νῦν, ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 817,
@@ -12630,7 +13177,10 @@
         "reference": "III.32"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:307#Τὴν ψ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:307#Τὴν ψ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 819,
@@ -12735,7 +13285,10 @@
         "reference": "III.38"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:359#Ὀνόμα"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:359#Ὀνόμα",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 826,
@@ -12825,7 +13378,11 @@
         "reference": "III.39–40"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:363#εἶναί"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:363#εἶναί",
+    "tags": [
+      "εἶναι",
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 832,
@@ -12840,7 +13397,10 @@
         "reference": "III.40"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:365#ἀλήθε"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:365#ἀλήθε",
+    "tags": [
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 833,
@@ -12870,7 +13430,11 @@
         "reference": "III.63"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:505"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:505",
+    "tags": [
+      "εἶναι",
+      "σοφία"
+    ]
   },
   {
     "_id": 835,
@@ -12885,7 +13449,10 @@
         "reference": "III.64"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:513#ἰδέαν"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:513#ἰδέαν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 836,
@@ -12900,7 +13467,10 @@
         "reference": "III.64"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:513#Τὸ γο"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:513#Τὸ γο",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 837,
@@ -12930,7 +13500,10 @@
         "reference": "III.67"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:520#Ἀρχήν"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:520#Ἀρχήν",
+    "tags": [
+      "ἀρχή"
+    ]
   },
   {
     "_id": 839,
@@ -12945,7 +13518,13 @@
         "reference": "III.69"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:524"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:524",
+    "tags": [
+      "εἶναι",
+      "νοῦς",
+      "ἀρχή",
+      "ἄπειρον"
+    ]
   },
   {
     "_id": 840,
@@ -12960,7 +13539,12 @@
         "reference": "III.70"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:526"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:526",
+    "tags": [
+      "εἶναι",
+      "πῦρ",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 841,
@@ -12990,7 +13574,12 @@
         "reference": "III.71–72"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:528#Κόσμο"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:528#Κόσμο",
+    "tags": [
+      "εἶναι",
+      "κόσμος",
+      "ἕν"
+    ]
   },
   {
     "_id": 843,
@@ -13005,7 +13594,11 @@
         "reference": "III.73–74"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:533"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:533",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 844,
@@ -13020,7 +13613,13 @@
         "reference": "III.74"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:536"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:536",
+    "tags": [
+      "εἶναι",
+      "κόσμος",
+      "πῦρ",
+      "φύσις"
+    ]
   },
   {
     "_id": 845,
@@ -13035,7 +13634,11 @@
         "reference": "III.75"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:538#Γῆν δ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:538#Γῆν δ",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 846,
@@ -13050,7 +13653,11 @@
         "reference": "III.75"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:538#Ἐπεὶ "
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:538#Ἐπεὶ ",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 847,
@@ -13065,7 +13672,11 @@
         "reference": "III.77"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:542"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:542",
+    "tags": [
+      "εἶναι",
+      "φύσις"
+    ]
   },
   {
     "_id": 848,
@@ -13080,7 +13691,10 @@
         "reference": "III.78"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:544#Τέλος"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:544#Τέλος",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 849,
@@ -13095,7 +13709,10 @@
         "reference": "III.78"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:544#Τὴν δ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:544#Τὴν δ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 850,
@@ -13125,7 +13742,10 @@
         "reference": "III.79"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:546#Οἴετα"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:546#Οἴετα",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 852,
@@ -13155,7 +13775,10 @@
         "reference": "III.79"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:546#Ἐν δὲ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:546#Ἐν δὲ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 854,
@@ -13170,7 +13793,10 @@
         "reference": "III.80"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:549"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:549",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 855,
@@ -13245,7 +13871,10 @@
         "reference": "III.85"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:561"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:561",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 860,
@@ -13275,7 +13904,12 @@
         "reference": "III.87"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:566"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:566",
+    "tags": [
+      "εἶναι",
+      "λόγος",
+      "ἕν"
+    ]
   },
   {
     "_id": 862,
@@ -13305,7 +13939,10 @@
         "reference": "III.88–89"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:568#Διαιρ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:568#Διαιρ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 864,
@@ -13320,7 +13957,10 @@
         "reference": "III.89"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:571"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:571",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 865,
@@ -13365,7 +14005,10 @@
         "reference": "III.91–92"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:576"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:576",
+    "tags": [
+      "φύσις"
+    ]
   },
   {
     "_id": 868,
@@ -13380,7 +14023,10 @@
         "reference": "III.93–94"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:580"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:580",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 869,
@@ -13410,7 +14056,10 @@
         "reference": "III.95–96"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:585"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:585",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 871,
@@ -13425,7 +14074,10 @@
         "reference": "III.96–97"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:588"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:588",
+    "tags": [
+      "φύσις"
+    ]
   },
   {
     "_id": 872,
@@ -13455,7 +14107,10 @@
         "reference": "III.98"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:594#Τῆς φ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:594#Τῆς φ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 874,
@@ -13470,7 +14125,10 @@
         "reference": "III.98–99"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:594#Ἡ εὐδ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:594#Ἡ εὐδ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 875,
@@ -13500,7 +14158,10 @@
         "reference": "III.101"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:601"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:601",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 877,
@@ -13515,7 +14176,10 @@
         "reference": "III.102"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:603"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:603",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 878,
@@ -13530,7 +14194,11 @@
         "reference": "III.103"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:605#Εὐνομ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:605#Εὐνομ",
+    "tags": [
+      "εἶναι",
+      "ἕν"
+    ]
   },
   {
     "_id": 879,
@@ -13545,7 +14213,11 @@
         "reference": "III.103–104"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:605#Διαιρ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:605#Διαιρ",
+    "tags": [
+      "εἶναι",
+      "ἕν"
+    ]
   },
   {
     "_id": 880,
@@ -13560,7 +14232,10 @@
         "reference": "III.104–105"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:607"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:607",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 881,
@@ -13575,7 +14250,10 @@
         "reference": "III.105"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:610"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:610",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 882,
@@ -13605,7 +14283,10 @@
         "reference": "III.107"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:615#Ἡ φων"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:615#Ἡ φων",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 884,
@@ -13620,7 +14301,10 @@
         "reference": "III.107–108"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:615#Τῶν ὄ"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:615#Τῶν ὄ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 885,
@@ -13635,7 +14319,10 @@
         "reference": "III.108–109"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:618"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:618",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 886,
@@ -13665,7 +14352,10 @@
         "reference": "III.34"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:351#Ἐν το"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:351#Ἐν το",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 888,
@@ -13680,7 +14370,11 @@
         "reference": "III.40"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:365#Καλὸν"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:365#Καλὸν",
+    "tags": [
+      "εἶναι",
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 889,
@@ -14079,7 +14773,11 @@
         "reference": "IX.51"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#δύο λ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#δύο λ",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
     "_id": 914,
@@ -14094,7 +14792,10 @@
         "reference": "IX.51"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#πάντω"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#πάντω",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 915,
@@ -14109,7 +14810,10 @@
         "reference": "IX.51"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#μηδὲν"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#μηδὲν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 916,
@@ -14124,7 +14828,10 @@
         "reference": "IX.51"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#πάντα"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#πάντα",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 917,
@@ -14139,7 +14846,10 @@
         "reference": "IX.51–52"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#περὶ "
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:433#περὶ ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 918,
@@ -14169,7 +14879,10 @@
         "reference": "IX.53–54"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:441#διεῖλ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:441#διεῖλ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 920,
@@ -14378,7 +15091,11 @@
         "reference": "IX.61"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:525#οὐδὲν"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:525#οὐδὲν",
+    "tags": [
+      "εἶναι",
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 933,
@@ -14410,7 +15127,10 @@
         "reference": "IX.64"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:534#μελετ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:534#μελετ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 935,
@@ -14474,7 +15194,10 @@
         "reference": "IX.66"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:556#χαλεπ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:556#χαλεπ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 939,
@@ -14752,7 +15475,10 @@
         "reference": "VIII.10"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:102#κοινὰ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:102#κοινὰ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 957,
@@ -14798,7 +15524,10 @@
         "reference": "VIII.17"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ",
+    "tags": [
+      "πῦρ"
+    ]
   },
   {
     "_id": 960,
@@ -14903,7 +15632,11 @@
         "reference": "VIII.23"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:246#τιμὰς"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:246#τιμὰς",
+    "tags": [
+      "νοῦς",
+      "ἕν"
+    ]
   },
   {
     "_id": 967,
@@ -14948,7 +15681,10 @@
         "reference": "VIII.25"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:263#ἀόρισ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:263#ἀόρισ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 970,
@@ -14963,7 +15699,10 @@
         "reference": "VIII.30"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:314#Τὴν δ' ἀνθρώπου ψυχὴν διῃρῆσθα"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:314#Τὴν δ' ἀνθρώπου ψυχὴν διῃρῆσθα",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 971,
@@ -14978,7 +15717,11 @@
         "reference": "VIII.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:342#τήν τ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:342#τήν τ",
+    "tags": [
+      "εἶναι",
+      "ἁρμονία"
+    ]
   },
   {
     "_id": 972,
@@ -14993,7 +15736,10 @@
         "reference": "VIII.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:369#Καὶ τ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:369#Καὶ τ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 973,
@@ -15008,7 +15754,10 @@
         "reference": "VIII.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:369#περὶ "
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:369#περὶ ",
+    "tags": [
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 974,
@@ -15055,7 +15804,10 @@
         "reference": "VIII.49"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:577"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:577",
+    "tags": [
+      "κόσμος"
+    ]
   },
   {
     "_id": 977,
@@ -15070,7 +15822,10 @@
         "reference": "VIII.50"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:596"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:596",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 978,
@@ -15085,7 +15840,10 @@
         "reference": "I.12"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:82"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:82",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 979,
@@ -15115,7 +15873,11 @@
         "reference": "VIII.6"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:55#οὐ μὰ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:55#οὐ μὰ",
+    "tags": [
+      "λόγος",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 981,
@@ -15160,7 +15922,10 @@
         "reference": "VIII.11"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:115"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:115",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 984,
@@ -15175,7 +15940,12 @@
         "reference": "VIII.13"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:142"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:142",
+    "tags": [
+      "εἶναι",
+      "ψυχή",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 985,
@@ -15235,7 +16005,10 @@
         "reference": "VIII.15"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:167#Μέχρι"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:167#Μέχρι",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 989,
@@ -15445,7 +16218,10 @@
         "reference": "VIII.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:226#Φησὶ "
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:226#Φησὶ ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1003,
@@ -15520,7 +16296,10 @@
         "reference": "VIII.23"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:246#αἰδῶ "
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:246#αἰδῶ ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1008,
@@ -15595,7 +16374,10 @@
         "reference": "VIII.24"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:254#τῶν δ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:254#τῶν δ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1013,
@@ -15610,7 +16392,12 @@
         "reference": "VIII.25"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:263#ἀρχὴν"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:263#ἀρχὴν",
+    "tags": [
+      "εἶναι",
+      "πῦρ",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 1014,
@@ -15625,7 +16412,11 @@
         "reference": "VIII.25"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:263#μεταβ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:263#μεταβ",
+    "tags": [
+      "εἶναι",
+      "κόσμος"
+    ]
   },
   {
     "_id": 1015,
@@ -15640,7 +16431,11 @@
         "reference": "VIII.26"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:272#ἰσόμο"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:272#ἰσόμο",
+    "tags": [
+      "εἶναι",
+      "κόσμος"
+    ]
   },
   {
     "_id": 1016,
@@ -15670,7 +16465,10 @@
         "reference": "VIII.26"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:272#τόν τ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:272#τόν τ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1018,
@@ -15685,7 +16483,10 @@
         "reference": "VIII.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:281#ἥλιόν"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:281#ἥλιόν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1019,
@@ -15700,7 +16501,10 @@
         "reference": "VIII.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:281#εἱμαρ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:281#εἱμαρ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1020,
@@ -15715,7 +16519,10 @@
         "reference": "VIII.28"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:290#ζῆν μ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:290#ζῆν μ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1021,
@@ -15745,7 +16552,12 @@
         "reference": "VIII.28–29"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:290#τὸ δὲ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:290#τὸ δὲ",
+    "tags": [
+      "εἶναι",
+      "λόγος",
+      "ἁρμονία"
+    ]
   },
   {
     "_id": 1023,
@@ -15760,7 +16572,11 @@
         "reference": "VIII.29"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:301"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:301",
+    "tags": [
+      "εἶναι",
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 1024,
@@ -15775,7 +16591,13 @@
         "reference": "VIII.30"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:314#Τὴν δ' ἀνθρώπου ψυχὴν διῃρῆσθα"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:314#Τὴν δ' ἀνθρώπου ψυχὴν διῃρῆσθα",
+    "tags": [
+      "εἶναι",
+      "λόγος",
+      "νοῦς",
+      "ψυχή"
+    ]
   },
   {
     "_id": 1025,
@@ -15790,7 +16612,13 @@
         "reference": "VIII.31"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:323"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:323",
+    "tags": [
+      "εἶναι",
+      "λόγος",
+      "ψυχή",
+      "ἕν"
+    ]
   },
   {
     "_id": 1026,
@@ -15805,7 +16633,11 @@
         "reference": "VIII.32"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:332#εἶναί"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:332#εἶναί",
+    "tags": [
+      "εἶναι",
+      "ψυχή"
+    ]
   },
   {
     "_id": 1027,
@@ -15820,7 +16652,10 @@
         "reference": "VIII.32"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:332#μέγισ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:332#μέγισ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1028,
@@ -15835,7 +16670,10 @@
         "reference": "VIII.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:342#φιλία"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:342#φιλία",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1029,
@@ -15850,7 +16688,10 @@
         "reference": "VIII.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:342#τὴν δ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:342#τὴν δ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1030,
@@ -15910,7 +16751,10 @@
         "reference": "VIII.48"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:560#ἀλλὰ "
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:560#ἀλλὰ ",
+    "tags": [
+      "κόσμος"
+    ]
   },
   {
     "_id": 1034,
@@ -15962,7 +16806,10 @@
         "reference": "IX.23"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:150#δοκεῖ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:150#δοκεῖ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1037,
@@ -16107,7 +16954,10 @@
         "reference": "II.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:156#Γνόντα δὲ τὴν φυσικὴν θεωρίαν "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:156#Γνόντα δὲ τὴν φυσικὴν θεωρίαν ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1046,
@@ -16168,7 +17018,10 @@
         "reference": "II.24"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:168#Καὶ ε"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:168#Καὶ ε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1050,
@@ -16198,7 +17051,10 @@
         "reference": "II.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:183"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:183",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1052,
@@ -16258,7 +17114,10 @@
         "reference": "II.31"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:223#Ἓν μό"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:223#Ἓν μό",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1056,
@@ -16303,7 +17162,10 @@
         "reference": "II.32"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:226#Τό τε"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:226#Τό τε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1059,
@@ -16393,7 +17255,10 @@
         "reference": "II.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:228#Θαυμά"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:228#Θαυμά",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1065,
@@ -16408,7 +17273,10 @@
         "reference": "II.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:228#Τοὺς "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:228#Τοὺς ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1066,
@@ -16423,7 +17291,10 @@
         "reference": "II.34"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:234#Θάρρε"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:234#Θάρρε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1067,
@@ -16468,7 +17339,10 @@
         "reference": "II.34"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:234#Ἆρ' ο"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:234#Ἆρ' ο",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1070,
@@ -16561,7 +17435,10 @@
         "reference": "II.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:237#Ἤματί"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:237#Ἤματί",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 1076,
@@ -16666,7 +17543,10 @@
         "reference": "II.40–41"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:257"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:257",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 1083,
@@ -16681,7 +17561,11 @@
         "reference": "II.42"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:263#Ἀλλὰ "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:263#Ἀλλὰ ",
+    "tags": [
+      "εἶναι",
+      "ἀρχή"
+    ]
   },
   {
     "_id": 1084,
@@ -16741,7 +17625,10 @@
         "reference": "II.62"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:408#Τιθέν"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:408#Τιθέν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1088,
@@ -17188,7 +18075,11 @@
         "reference": "II.58"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:376#τὸν μ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:376#τὸν μ",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
     "_id": 1117,
@@ -17233,7 +18124,10 @@
         "reference": "II.58"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:376#Ἔφασκ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:376#Ἔφασκ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 1120,
@@ -17248,7 +18142,10 @@
         "reference": "II.59"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:396#Ἔλεγε"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:396#Ἔλεγε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1121,
@@ -17263,7 +18160,10 @@
         "reference": "II.59"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:396#Ἐρωτη"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:396#Ἐρωτη",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1122,
@@ -17340,7 +18240,10 @@
         "reference": "II.60"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:402#Τοῖς "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:402#Τοῖς ",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 1127,
@@ -17512,7 +18415,10 @@
         "reference": "II.64-65"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:418#Οὔτε "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:418#Οὔτε ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1138,
@@ -17527,7 +18433,10 @@
         "reference": "II.65"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:424#Οὐδ' "
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:424#Οὐδ' ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1139,
@@ -17542,7 +18451,10 @@
         "reference": "II.66-67"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:427#Πιστε"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:427#Πιστε",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1140,
@@ -17557,7 +18469,11 @@
         "reference": "II.67"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:433#Ἄγαμα"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:433#Ἄγαμα",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 1141,
@@ -17604,7 +18520,10 @@
         "reference": "VII.177"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:977#Πρὸς "
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:977#Πρὸς ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1144,
@@ -17841,7 +18760,11 @@
         "reference": "I.33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:175"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:175",
+    "tags": [
+      "εἶναι",
+      "ἕν"
+    ]
   },
   {
     "_id": 1159,
@@ -17887,7 +18810,10 @@
         "reference": "I.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:203#ἕν τι"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:203#ἕν τι",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 1162,
@@ -17902,7 +18828,10 @@
         "reference": "I.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:203#Πρεσβ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:203#Πρεσβ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1163,
@@ -17917,7 +18846,10 @@
         "reference": "I.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:203#Κάλλι"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:203#Κάλλι",
+    "tags": [
+      "κόσμος"
+    ]
   },
   {
     "_id": 1164,
@@ -17947,7 +18879,10 @@
         "reference": "I.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:203#Τάχισ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:203#Τάχισ",
+    "tags": [
+      "νοῦς"
+    ]
   },
   {
     "_id": 1166,
@@ -18007,7 +18942,10 @@
         "reference": "I.36"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:229#Ἡ νύξ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:229#Ἡ νύξ",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 1170,
@@ -18157,7 +19095,10 @@
         "reference": "I.37"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:237#Ὁ τὸ "
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:237#Ὁ τὸ ",
+    "tags": [
+      "φύσις"
+    ]
   },
   {
     "_id": 1180,
@@ -18187,7 +19128,10 @@
         "reference": "I.37"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:237#Μὴ τὴ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:237#Μὴ τὴ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1182,
@@ -18217,7 +19161,10 @@
         "reference": "I.37"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:237#Μηδὲ "
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:237#Μηδὲ ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 1184,
@@ -18247,7 +19194,10 @@
         "reference": "I.23"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:114#Περὶ "
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:114#Περὶ ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1186,
@@ -18262,7 +19212,10 @@
         "reference": "I.24"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:122#Πρῶτον ε"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:122#Πρῶτον ε",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1187,
@@ -18292,7 +19245,10 @@
         "reference": "I.24"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:122#Καὶ τ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:122#Καὶ τ",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1189,
@@ -18307,7 +19263,10 @@
         "reference": "I.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:137#Ἀρχὴν"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:137#Ἀρχὴν",
+    "tags": [
+      "ὕδωρ"
+    ]
   },
   {
     "_id": 1190,
@@ -18322,7 +19281,10 @@
         "reference": "I.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:137#Τὸν κ"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:137#Τὸν κ",
+    "tags": [
+      "κόσμος"
+    ]
   },
   {
     "_id": 1191,
@@ -18337,7 +19299,10 @@
         "reference": "I.37"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/02.txt:237#Τὸν Ν"
+    "pointer": "data/sources/diogenes-laertius/el/02.txt:237#Τὸν Ν",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1192,
@@ -18421,7 +19386,10 @@
         "reference": "V.39"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:558#θᾶττο"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:558#θᾶττο",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 1197,
@@ -18452,7 +19420,10 @@
         "reference": "V.41"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/06.txt:577#πολλὰ"
+    "pointer": "data/sources/diogenes-laertius/el/06.txt:577#πολλὰ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 1199,
@@ -18548,7 +19519,10 @@
         "reference": "IX.113"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:758#εἰ το"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:758#εἰ το",
+    "tags": [
+      "ἀρχή"
+    ]
   },
   {
     "_id": 1205,
@@ -18596,7 +19570,10 @@
         "reference": "IX.114"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:760#τί δ'"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:760#τί δ'",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1208,
@@ -18785,7 +19762,10 @@
         "reference": "IV.10"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/05.txt:133#Πορεύ"
+    "pointer": "data/sources/diogenes-laertius/el/05.txt:133#Πορεύ",
+    "tags": [
+      "σοφία"
+    ]
   },
   {
     "_id": 1220,
@@ -18815,7 +19795,10 @@
         "reference": "IV.9"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/05.txt:123#τοὺς "
+    "pointer": "data/sources/diogenes-laertius/el/05.txt:123#τοὺς ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 1222,
@@ -19068,7 +20051,10 @@
         "reference": "IX.19"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:111#ἤδη δ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:111#ἤδη δ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1238,
@@ -19098,7 +20084,11 @@
         "reference": "IX.19"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:111#οὐσία"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:111#οὐσία",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 1240,
@@ -19143,7 +20133,11 @@
         "reference": "IX.20"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:121#τὰ πο"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:121#τὰ πο",
+    "tags": [
+      "εἶναι",
+      "νοῦς"
+    ]
   },
   {
     "_id": 1243,
@@ -19173,7 +20167,10 @@
         "reference": "IX.72"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:598#σαφὲς"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:598#σαφὲς",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1245,
@@ -19427,7 +20424,10 @@
         "reference": "II.45"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:289#Ξενοφ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:289#Ξενοφ",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 1261,
@@ -19442,7 +20442,10 @@
         "reference": "II.49"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:318#Νῦν γ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:318#Νῦν γ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1262,
@@ -19457,7 +20460,10 @@
         "reference": "VI.15"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:54#Ὁ δὲ Ξ"
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:54#Ὁ δὲ Ξ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1263,
@@ -19947,7 +20953,10 @@
         "reference": "VII.17"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:116#Καὶ τ"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:116#Καὶ τ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1294,
@@ -19977,7 +20986,12 @@
         "reference": "VII.18"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:118#Ἔφασκ"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:118#Ἔφασκ",
+    "tags": [
+      "εἶναι",
+      "λόγος",
+      "νοῦς"
+    ]
   },
   {
     "_id": 1296,
@@ -20007,7 +21021,10 @@
         "reference": "VII.23"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:132#Τὸ κά"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:132#Τὸ κά",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1298,
@@ -20022,7 +21039,10 @@
         "reference": "VII.23"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:132#Διὰ τ"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:132#Διὰ τ",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 1299,
@@ -20037,7 +21057,10 @@
         "reference": "VII.26"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:142#Καὶ ο"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:142#Καὶ ο",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1300,
@@ -20052,7 +21075,10 @@
         "reference": "VII.26"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:142#Κρεῖτ"
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:142#Κρεῖτ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1301,
@@ -20176,7 +21202,10 @@
         "reference": "VIII.48"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:560#ὡς δὲ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:560#ὡς δὲ",
+    "tags": [
+      "κόσμος"
+    ]
   },
   {
     "_id": 1309,
@@ -20221,7 +21250,10 @@
         "reference": "IX.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:185#θαυμά"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:185#θαυμά",
+    "tags": [
+      "ἕν"
+    ]
   },
   {
     "_id": 1312,
@@ -20236,7 +21268,11 @@
         "reference": "IX.29"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#κόσμο"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#κόσμο",
+    "tags": [
+      "εἶναι",
+      "κόσμος"
+    ]
   },
   {
     "_id": 1313,
@@ -20251,7 +21287,10 @@
         "reference": "IX.29"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#γεγεν"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#γεγεν",
+    "tags": [
+      "φύσις"
+    ]
   },
   {
     "_id": 1314,
@@ -20266,7 +21305,10 @@
         "reference": "IX.29"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#γένεσ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#γένεσ",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1315,

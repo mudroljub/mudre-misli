@@ -23,8 +23,7 @@ npm start
 - počisti sadržaj, neki fajlovi su predugi i puni smeća (posebno Platon)
 - proveri svuda previše rasečene i besmislene unose, koje su deo šire anegdote.
 - proveriti sr prevode na osnovu rečnika
-- dodaj tagove i stranice za tagove. klik na pojam u rečniku vodi ka upotrebi tog pojma.
-- dodaj link ka vikipediji da bude knjiga pored imena filozofa
+- napravi sistem tagova. dodaj na entry tags niz stringova. idi redom kroz pojmove u RECNIK.md. za svaki pojam, dodaj tag u tipove quote i reported. potom napravi stranicu za svaki tag. klik na pojam u rečniku vodi ka upotrebi tog pojma.
 
 ## Izvori
 
