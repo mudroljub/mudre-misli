@@ -41,20 +41,6 @@
 .grid {
   display: grid;
   gap: 14px;
-
-  // Chat-like layout for quotes on author page
-  > div:global(.quote) {
-    margin-left: 0;
-    margin-right: auto;
-    max-width: 85%;
-  }
-
-  > div:global(.reported) {
-    margin-right: 0;
-    margin-left: auto;
-    max-width: 85%;
-    text-align: right;
-  }
 }
 
 .subtleLink {

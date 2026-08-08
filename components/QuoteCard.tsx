@@ -11,6 +11,7 @@ interface QuoteCardProps {
   language: Language;
   showAuthor?: boolean;
   showSource?: boolean;
+  className?: string;
 }
 
 export default function QuoteCard({
@@ -18,6 +19,7 @@ export default function QuoteCard({
   language,
   showAuthor = false,
   showSource = true,
+  className = '',
 }: QuoteCardProps) {
   const { t, transliterate } = useTranslations(language);
   const authorName = Array.isArray(entry.author) ? entry.author[0] : entry.author;
@@ -26,7 +28,7 @@ export default function QuoteCard({
   const text = transliterate(getTextForLanguage(entry, language));
 
   return (
-    <div className={`${styles.card} ${styles[entry.type]}`}>
+    <div className={`${styles.card} ${styles[entry.type]} ${className}`}>
       <p>{text}</p>
 
       {showAuthor && (
