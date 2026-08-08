@@ -187,19 +187,9 @@ Koristiti jezičke oblike prirodne za staroslovenski. Ne kopirati grčki red re�
 
 Koristiti [RECNIK.md](RECNIK.md).
 
-## Provera pre finalizacije
+# Pravila prevođenja na srpski
 
-Pre nego što završiš prevod, proveri sledeće:
-
-1. ✅ Nema Ї ili ї (samo І i і)
-2. ✅ Ѡ samo u grčkim imenima (Сѡкратъ, Платѡнъ)
-3. ✅ Sve rečenice završavaju se sa ·
-4. ✅ Superlative bez mehaničkog "наи-"
-5. ✅ Nema latinskih termina (aleator, etc.)
-6. ✅ Konzistentnost u imenima kroz tekst
-7. ✅ Partikule (бо, же, убо) gde prirodno odgovaraju
-8. ✅ Kratke, sažete rečenice
-
-## Ostalo
-
-Polje `stsl` sadrži samo prevod. Objašnjenja, alternative i napomene idu van prevoda.
+- prevoditi direktno sa grčkog
+- koristiti [RECNIK.md](RECNIK.md)
+- izbegavati navodnike u tekstu kad god je to moguće. 
+Solon je govorio: "Dobar budi." -> Solon je govorio: Dobar budi.
