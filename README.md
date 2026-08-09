@@ -20,10 +20,11 @@ npm start
 
 ## TODO
 
-- ne setovati default script inicijalno nego prikazivati stranicu kakva jeste. ako to nije moguće, onda default kir za stsl i lat za sr.
-- počisti sadržaj, neki fajlovi su predugi i puni smeća (posebno Platon)
-- proveri svuda previše rasečene i besmislene unose, koje su deo šire anegdote.
-- proveriti sr prevode na osnovu rečnika
+- proveri svuda previše rasečene i besmislene unose, koje su deo šire anegdote
+- dodavanje novih fragmenata - Diels (prvo ručno počistiti predsokratovce)
+PROVERA PREVODA:
+- poboljšati stsl prevode - ukloniti duh novijeg crkvenoslovenskog, vratiti arhaični slovenski ritam
+- proveriti sr prevode
 
 ## Izvori
 

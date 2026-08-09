@@ -4,14 +4,14 @@ import { createContext, useContext, useState, ReactNode } from 'react';
 import type { Script } from '../lib/transliterate';
 
 interface ScriptContextType {
-  script: Script;
+  script: Script | null;
   setScript: (script: Script) => void;
 }
 
 const ScriptContext = createContext<ScriptContextType | undefined>(undefined);
 
 export function ScriptProvider({ children }: { children: ReactNode }) {
-  const [script, setScript] = useState<Script>('lat');
+  const [script, setScript] = useState<Script | null>(null);
 
   return (
     <ScriptContext.Provider value={{ script, setScript }}>

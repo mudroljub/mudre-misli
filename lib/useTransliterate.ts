@@ -6,6 +6,11 @@ export function useTransliterate(language: Language) {
   const { script } = useScript();
 
   return (text: string): string => {
+    // If no script selected, return text as-is (sr in Latin, stsl in Cyrillic)
+    if (script === null) {
+      return text;
+    }
+
     const lang = language === 'sr' ? 'sr' : 'stsl';
 
     // For Serbian: data is in Latin, convert to Cyrillic first, then optionally back to Latin
