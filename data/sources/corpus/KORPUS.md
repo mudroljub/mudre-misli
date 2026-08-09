@@ -57,7 +57,7 @@ Ključni termini:
 
 ## B. Mudrosna književnost ⭐⭐⭐⭐
 
-### Пчела.txt
+### Пчела.txt i Бьчела.txt
 Prioritet: visok
 
 Svrha:
