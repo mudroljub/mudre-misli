@@ -1083,7 +1083,7 @@
     "stsl": "Сократъ видѣ въ сънѣ лебѧдь · иже на колѣнѹ єго внезапѹ опери сѧ · възлетѣ и сладъкогласьно възпѣ · Єгда на ѹтрии Платона къ немѹ приведоша · въ немь лебѧдь отъ съна позна ·",
     "originalText": "Σωκράτης ὄναρ εἶδε κύκνου νεοττὸν ἐν τοῖς γόνασιν ἔχειν, ὃν καὶ παραχρῆμα πτεροφυήσαντα ἀναπτῆναι ἡδὺ κλάγξαντα· καὶ μεθ' ἡμέραν Πλάτωνα αὐτῷ συστῆναι, τὸν δὲ τοῦτον εἰπεῖν εἶναι τὸν ὄρνιν.",
     "author": "Plato",
-    "year": -418,
+    "year": -408,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -1092,12 +1092,12 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Platon je prvi doneo u Atinu zanemarene Sofronove mime i prema njima oblikovao likove; primerak tih spisa nađen je pod njegovim jastukom.",
     "stsl": "Платонъ пьрвыи забъвеныѩ Софроновы подражаниꙗ въ Атины принесе и по нихъ лица изображаше · списъкъ тѣхъ писании подъ възглавиемъ єго обрѣтенъ бысть ·",
     "originalText": "Πλάτων καὶ τὰ Σώφρονος τοῦ μιμογράφου βιβλία ἠμελημένα πρῶτος εἰς Ἀθήνας διακομίσαι καὶ ἠθοποιῆσαι πρὸς αὐτόν· ἃ καὶ εὑρεθῆναι ὑπὸ τῇ κεφαλῇ αὐτοῦ.",
     "author": "Plato",
-    "year": -413,
+    "year": -386,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -1120,7 +1120,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Posle Sokratove smrti Platon je učio kod Kratila i Hermogena, a zatim putovao u Megaru, Kirenu, Italiju i Egipat. U Egiptu su ga sveštenici izlečili morskom vodom, pa je često navodio stih da more spira sva ljudska zla.",
     "stsl": "По Сократовѣ смрьти Платонъ при Кратѵлѣ и Хермогенѣ ѹчи сѧ · потомь же въ Мегарѫ · Кѵринѫ · Италию и Єгѵпетъ пѫтова · Въ Єгѵптѣ жрьци морьскою водою єго исцѣлиша · тѣмь чѧсто рѣчь навождааше · ꙗко море вьсѧ чловѣчьскаꙗ зла омываєть ·",
     "originalText": "ἐκείνου δ' ἀπελθόντος προσεῖχε Κρατύλῳ τε τῷ Ἡρακλειτείῳ καὶ Ἑρμογένει τῷ τὰ Παρμενίδου φιλοσοφοῦντι. Εἶτα εἰς Μέγαρα πρὸς Εὐκλείδην σὺν καὶ ἄλλοις τισὶ Σωκρατικοῖς ὑπεχώρησεν. Ἔπειτα εἰς Κυρήνην ἀπῆλθε πρὸς Θεόδωρον τὸν μαθηματικόν· κἀκεῖθεν εἰς Ἰταλίαν πρὸς τοὺς Πυθαγορικοὺς Φιλόλαον καὶ Εὔρυτον. Ἔνθεν τε εἰς Αἴγυπτον παρὰ τοὺς προφήτας· οὗ φασι αὐτόθι νοσήσαντα πρὸς τῶν ἱερέων ἀπολυθῆναι τῇ διὰ θαλάττης θεραπείᾳ· ὅθεν που καὶ εἰπεῖν· Θάλασσα κλύζει πάντα τἀνθρώπων κακά.",
@@ -1148,11 +1148,10 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "writing",
     "sr": "Diogen Platonu pripisuje uvođenje rasprave pitanjima i odgovorima, analitičkog rešavanja zadataka i više temeljnih filozofskih naziva, kao i prvo sistematsko proučavanje gramatike.",
     "stsl": "Диогенъ Платонѹ приписѹєть введеніє прѣниꙗ вопросы и отвѣты · разрѣшениꙗ задачь разложеніємъ и многихъ основьныхъ любомѫдрьныхъ имѧнъ · такожде пьрвоє ѹстроєно испытаніє кънижьнаго ꙗзыка ·",
     "author": "Plato",
-    "year": -388,
     "originalText": "Διαλεκτικὴν δὲ πρῶτον εἰσηγήσασθαι Πλάτωνα, ὡς Φαβωρῖνός φησιν ἐν Παντοδαπῇ ἱστορίᾳ.",
     "sources": [
       {
@@ -1246,7 +1245,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila.",
     "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ ·",
     "author": "Plato",
@@ -1260,11 +1259,11 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
     "stsl": "Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
     "author": "Plato",
-    "year": -408,
+    "year": -409,
     "originalText": "Εἰσὶ δ' οἳ καὶ παλαῖσαί φασιν αὐτὸν Ἰσθμοῖ, καὶ γραφικῆς ἐπιμεληθῆναι καὶ ποιήματα γράψαι, πρῶτον μὲν διθυράμβους, ἔπειτα καὶ μέλη καὶ τραγῳδίας.",
     "sources": [
       {

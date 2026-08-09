@@ -10442,7 +10442,7 @@
   },
   {
     "_id": 885,
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Platonovo prvobitno ime bilo je Aristokle. Nadimak Platon povezivan je s njegovom snažnom građom, širinom čela ili širinom stila.",
     "stsl": "Платоново пьрво имѧ Аристоклъ бѣ · Прозваніє Платонъ съ крѣпъкимъ тѣломъ · широкымъ челомъ или шириною слова съвръзоваше сѧ ·",
     "author": "Plato",
@@ -10957,22 +10957,6 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:424#Οὗτος"
   },
   {
-    "_id": 873,
-    "type": "anecdote",
-    "sr": "Sokrat je sanjao labuda koji mu je na kolenima iznenada dobio perje, odleteo i zapevao milozvučno. Kada mu je sutradan doveden Platon, prepoznao je u njemu labuda iz sna.",
-    "stsl": "Сократъ видѣ въ сънѣ лебѧдь · иже на колѣнѹ єго внезапѹ опери сѧ · възлетѣ и сладъкогласьно възпѣ · Єгда на ѹтрии Платона къ немѹ приведоша · въ немь лебѧдь отъ съна позна ·",
-    "originalText": "Σωκράτης ὄναρ εἶδε κύκνου νεοττὸν ἐν τοῖς γόνασιν ἔχειν, ὃν καὶ παραχρῆμα πτεροφυήσαντα ἀναπτῆναι ἡδὺ κλάγξαντα· καὶ μεθ' ἡμέραν Πλάτωνα αὐτῷ συστῆναι, τὸν δὲ τοῦτον εἰπεῖν εἶναι τὸν ὄρνιν.",
-    "author": "Plato",
-    "year": -418,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.5"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:14#Σωκρά"
-  },
-  {
     "_id": 1073,
     "type": "anecdote",
     "sr": "Verovalo se da je Sokrat pomagao Euripidu pri sastavljanju drama. Atinski komediografi su ih zbog toga zajedno ismevali, nazivajući Euripida napravom koju je Sokrat zakovao i tvrdeći da mu Sokrat sastavlja zvučne, ali prazne komade.",
@@ -11021,6 +11005,22 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:152#Φησὶ "
   },
   {
+    "_id": 488,
+    "type": "bio",
+    "sr": "Diogen je rođen u Sinopi, kao sin bankara Hikesija.",
+    "stsl": "Диогенъ въ Синопѣ роди сѧ · сынъ трапезитѣ Хикесиꙗ ·",
+    "author": "Diogenes",
+    "year": -412,
+    "originalText": "Διογένης Ἱκεσίου τραπεζίτου Σινωπεύς.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.20"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:220#Διογέ"
+  },
+  {
     "_id": 686,
     "type": "reported",
     "stsl": "Смѣшєниє сътвори словєсъ Хєраклитовꙑихъ и Пѵѳагоровъ и Сѡкратовъ · Чѹвьствьнаꙗ бо по Хєраклитѹ · разѹмьнаꙗ же по Пѵѳагорѹ · гражданьскаꙗ же по Сѡкратѹ любомѫдрьствоваше ·",
@@ -11044,38 +11044,6 @@
     ]
   },
   {
-    "_id": 874,
-    "type": "anecdote",
-    "sr": "Platon je prvi doneo u Atinu zanemarene Sofronove mime i prema njima oblikovao likove; primerak tih spisa nađen je pod njegovim jastukom.",
-    "stsl": "Платонъ пьрвыи забъвеныѩ Софроновы подражаниꙗ въ Атины принесе и по нихъ лица изображаше · списъкъ тѣхъ писании подъ възглавиемъ єго обрѣтенъ бысть ·",
-    "originalText": "Πλάτων καὶ τὰ Σώφρονος τοῦ μιμογράφου βιβλία ἠμελημένα πρῶτος εἰς Ἀθήνας διακομίσαι καὶ ἠθοποιῆσαι πρὸς αὐτόν· ἃ καὶ εὑρεθῆναι ὑπὸ τῇ κεφαλῇ αὐτοῦ.",
-    "author": "Plato",
-    "year": -413,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.18"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:150#Πλάτω"
-  },
-  {
-    "_id": 488,
-    "type": "bio",
-    "sr": "Diogen je rođen u Sinopi, kao sin bankara Hikesija.",
-    "stsl": "Диогенъ въ Синопѣ роди сѧ · сынъ трапезитѣ Хикесиꙗ ·",
-    "author": "Diogenes",
-    "year": -412,
-    "originalText": "Διογένης Ἱκεσίου τραπεζίτου Σινωπεύς.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.20"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:220#Διογέ"
-  },
-  {
     "_id": 1075,
     "type": "anecdote",
     "sr": "Sokrat je umeo i da podstakne i da odvrati. Teeteta je razgovorom o nauci nadahnuo, Eutifrona odvratio od tužbe protiv oca, Lisida usmerio vrlini, sina Lamprokla naveo da se postidi gneva prema majci, neiskusnog Glaukona odvratio od politike, a obdarenog Harmida ohrabrio da joj se posveti.",
@@ -11090,24 +11058,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/03.txt:215"
-  },
-  {
-    "_id": 690,
-    "type": "quote",
-    "sr": "Ja sam, Teodore; ali nemoj misliti da sam loše odlučila o sebi ako vreme koje sam imala da trošim na tkalačkim stanovima upotrebih za obrazovanje.",
-    "stsl": "Азъ єсмь · Теѡдорє · нъ нє мьни ꙗко лошє рѣшихъ ѡ сєбѣ · ащє врємѧ єжє імѣахъ трошити на станѣхъ ѹпотрєбихъ за ѹчєніє.",
-    "originalText": "Ἐγώ, φησίν, εἰμί, Θεόδωρε· ἀλλὰ μὴ κακῶς σοι δοκῶ βεβουλεῦσθαι περὶ αὑτῆς, εἰ, τὸν χρόνον ὃν ἔμελλον ἱστοῖς προσαναλώσειν, τοῦτον εἰς παιδείαν κατεχρησάμην;",
-    "author": "Hipparchia",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.98"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:644",
-    "tags": [
-      "εἶναι"
-    ]
   },
   {
     "_id": 173,
@@ -11142,6 +11092,24 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:231#Κατελ"
   },
   {
+    "_id": 690,
+    "type": "quote",
+    "sr": "Ja sam, Teodore; ali nemoj misliti da sam loše odlučila o sebi ako vreme koje sam imala da trošim na tkalačkim stanovima upotrebih za obrazovanje.",
+    "stsl": "Азъ єсмь · Теѡдорє · нъ нє мьни ꙗко лошє рѣшихъ ѡ сєбѣ · ащє врємѧ єжє імѣахъ трошити на станѣхъ ѹпотрєбихъ за ѹчєніє.",
+    "originalText": "Ἐγώ, φησίν, εἰμί, Θεόδωρε· ἀλλὰ μὴ κακῶς σοι δοκῶ βεβουλεῦσθαι περὶ αὑτῆς, εἰ, τὸν χρόνον ὃν ἔμελλον ἱστοῖς προσαναλώσειν, τοῦτον εἰς παιδείαν κατεχρησάμην;",
+    "author": "Hipparchia",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.98"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:644",
+    "tags": [
+      "εἶναι"
+    ]
+  },
+  {
     "_id": 474,
     "type": "anecdote",
     "sr": "Devojku koja je pratila Hipokrata Demokrit je prvog dana pozdravio rečima: „Zdravo, devojko”, a sledećeg: „Zdravo, ženo.” Predanje kaže da je tokom noći izgubila nevinost.",
@@ -11156,6 +11124,38 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/10.txt:243#Ἀλλὰ "
+  },
+  {
+    "_id": 886,
+    "type": "bio",
+    "sr": "Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
+    "stsl": "Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
+    "author": "Plato",
+    "year": -409,
+    "originalText": "Εἰσὶ δ' οἳ καὶ παλαῖσαί φασιν αὐτὸν Ἰσθμοῖ, καὶ γραφικῆς ἐπιμεληθῆναι καὶ ποιήματα γράψαι, πρῶτον μὲν διθυράμβους, ἔπειτα καὶ μέλη καὶ τραγῳδίας.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.5"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:14#Εἰσὶ "
+  },
+  {
+    "_id": 640,
+    "type": "anecdote",
+    "sr": "Kada mu je bilo oko dvadeset tri godine, Eudoks je živeo oskudno, ali ga je glas Sokratovih sledbenika privukao u Atinu. Stanovao je u Pireju i svakog dana odlazio u grad da sluša predavanja, a zatim se vraćao u luku.",
+    "stsl": "Єгда около двадесѧти и трьхъ лѣтъ имѣаше · Евдоксъ въ скѫдости живѣаше · нъ слава Сократовыхъ послѣдователеи въ Атины єго привлѣче · Въ Пиреи живѣаше и всѧкъ дьнь въ градъ на поѹчениꙗ хождааше · потомь же въ пристанище възвраштааше сѧ ·",
+    "author": "Eudoxus",
+    "year": -408,
+    "originalText": "Γενόμενον γὰρ ἐτῶν τριῶν που καὶ εἴκοσι καὶ στενῶς διακείμενον κατὰ κλέος τῶν Σωκρατικῶν εἰς Ἀθήνας ἀπᾶραι σὺν Θεομέδοντι τῷ ἰατρῷ, τρεφόμενον ὑπ' αὐτοῦ. καταχθέντα δ' εἰς τὸν Πειραιᾶ ὁσημέραι ἀνιέναι Ἀθήναζε καὶ ἀκούσαντα τῶν σοφιστῶν αὐτόθι ὑποστρέφειν. δύο δὴ μῆνας διατρίψαντα οἴκαδ' ἐπανελθεῖν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.86–87"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:1105"
   },
   {
     "_id": 694,
@@ -11291,22 +11291,6 @@
     ]
   },
   {
-    "_id": 640,
-    "type": "anecdote",
-    "sr": "Kada mu je bilo oko dvadeset tri godine, Eudoks je živeo oskudno, ali ga je glas Sokratovih sledbenika privukao u Atinu. Stanovao je u Pireju i svakog dana odlazio u grad da sluša predavanja, a zatim se vraćao u luku.",
-    "stsl": "Єгда около двадесѧти и трьхъ лѣтъ имѣаше · Евдоксъ въ скѫдости живѣаше · нъ слава Сократовыхъ послѣдователеи въ Атины єго привлѣче · Въ Пиреи живѣаше и всѧкъ дьнь въ градъ на поѹчениꙗ хождааше · потомь же въ пристанище възвраштааше сѧ ·",
-    "author": "Eudoxus",
-    "year": -408,
-    "originalText": "Γενόμενον γὰρ ἐτῶν τριῶν που καὶ εἴκοσι καὶ στενῶς διακείμενον κατὰ κλέος τῶν Σωκρατικῶν εἰς Ἀθήνας ἀπᾶραι σὺν Θεομέδοντι τῷ ἰατρῷ, τρεφόμενον ὑπ' αὐτοῦ. καταχθέντα δ' εἰς τὸν Πειραιᾶ ὁσημέραι ἀνιέναι Ἀθήναζε καὶ ἀκούσαντα τῶν σοφιστῶν αὐτόθι ὑποστρέφειν. δύο δὴ μῆνας διατρίψαντα οἴκαδ' ἐπανελθεῖν.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.86–87"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:1105"
-  },
-  {
     "_id": 792,
     "type": "bio",
     "year": -408,
@@ -11323,6 +11307,22 @@
     "pointer": "data/sources/diogenes-laertius/el/04.txt:21#Σωκρά"
   },
   {
+    "_id": 873,
+    "type": "anecdote",
+    "sr": "Sokrat je sanjao labuda koji mu je na kolenima iznenada dobio perje, odleteo i zapevao milozvučno. Kada mu je sutradan doveden Platon, prepoznao je u njemu labuda iz sna.",
+    "stsl": "Сократъ видѣ въ сънѣ лебѧдь · иже на колѣнѹ єго внезапѹ опери сѧ · възлетѣ и сладъкогласьно възпѣ · Єгда на ѹтрии Платона къ немѹ приведоша · въ немь лебѧдь отъ съна позна ·",
+    "originalText": "Σωκράτης ὄναρ εἶδε κύκνου νεοττὸν ἐν τοῖς γόνασιν ἔχειν, ὃν καὶ παραχρῆμα πτεροφυήσαντα ἀναπτῆναι ἡδὺ κλάγξαντα· καὶ μεθ' ἡμέραν Πλάτωνα αὐτῷ συστῆναι, τὸν δὲ τοῦτον εἰπεῖν εἶναι τὸν ὄρνιν.",
+    "author": "Plato",
+    "year": -408,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.5"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:14#Σωκρά"
+  },
+  {
     "_id": 875,
     "type": "anecdote",
     "sr": "Platon je nameravao da se takmiči tragedijom, ali je pred Dionisovim pozorištem čuo Sokrata. Spalio je svoje pesme, pozvao boga ognja da mu pomogne i od dvadesete godine postao Sokratov učenik.",
@@ -11337,22 +11337,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/04.txt:14#μέλλω"
-  },
-  {
-    "_id": 886,
-    "type": "anecdote",
-    "sr": "Vežbao je rvanje, nastupio na Istamskim igrama, slikao i pisao ditirambe, lirske pesme i tragedije.",
-    "stsl": "Въ борѣнии ѹпражнѧаше сѧ · на Истмиискыхъ играхъ състѧза сѧ · писаше образы · пѣсни и позориштнаꙗ дѣла ·",
-    "author": "Plato",
-    "year": -408,
-    "originalText": "Εἰσὶ δ' οἳ καὶ παλαῖσαί φασιν αὐτὸν Ἰσθμοῖ, καὶ γραφικῆς ἐπιμεληθῆναι καὶ ποιήματα γράψαι, πρῶτον μὲν διθυράμβους, ἔπειτα καὶ μέλη καὶ τραγῳδίας.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.5"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:14#Εἰσὶ "
   },
   {
     "_id": 1076,
@@ -11436,7 +11420,7 @@
   },
   {
     "_id": 876,
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Posle Sokratove smrti Platon je učio kod Kratila i Hermogena, a zatim putovao u Megaru, Kirenu, Italiju i Egipat. U Egiptu su ga sveštenici izlečili morskom vodom, pa je često navodio stih da more spira sva ljudska zla.",
     "stsl": "По Сократовѣ смрьти Платонъ при Кратѵлѣ и Хермогенѣ ѹчи сѧ · потомь же въ Мегарѫ · Кѵринѫ · Италию и Єгѵпетъ пѫтова · Въ Єгѵптѣ жрьци морьскою водою єго исцѣлиша · тѣмь чѧсто рѣчь навождааше · ꙗко море вьсѧ чловѣчьскаꙗ зла омываєть ·",
     "originalText": "ἐκείνου δ' ἀπελθόντος προσεῖχε Κρατύλῳ τε τῷ Ἡρακλειτείῳ καὶ Ἑρμογένει τῷ τὰ Παρμενίδου φιλοσοφοῦντι. Εἶτα εἰς Μέγαρα πρὸς Εὐκλείδην σὺν καὶ ἄλλοις τισὶ Σωκρατικοῖς ὑπεχώρησεν. Ἔπειτα εἰς Κυρήνην ἀπῆλθε πρὸς Θεόδωρον τὸν μαθηματικόν· κἀκεῖθεν εἰς Ἰταλίαν πρὸς τοὺς Πυθαγορικοὺς Φιλόλαον καὶ Εὔρυτον. Ἔνθεν τε εἰς Αἴγυπτον παρὰ τοὺς προφήτας· οὗ φασι αὐτόθι νοσήσαντα πρὸς τῶν ἱερέων ἀπολυθῆναι τῇ διὰ θαλάττης θεραπείᾳ· ὅθεν που καὶ εἰπεῖν· Θάλασσα κλύζει πάντα τἀνθρώπων κακά.",
@@ -11513,6 +11497,22 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/03.txt:318#Ὁ δὲ "
+  },
+  {
+    "_id": 1250,
+    "type": "anecdote",
+    "sr": "Sokrat ga je zbog toga prekorio, ali mu je ipak savetovao da pođe.",
+    "stsl": "Сократъ сего ради єго обличи · нъ пакы съвѣтова ємѹ ити ·",
+    "originalText": "ἐφ' ᾧ καὶ Σωκράτης αὐτὸν ᾐτιάσατο μέν, συνεβούλευσε δὲ ἐξελθεῖν.",
+    "author": "Xenophon",
+    "year": -401,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.50"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:322#ἐφ' ᾧ"
   },
   {
     "_id": 715,
@@ -11617,22 +11617,6 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:971#Πρὸς "
   },
   {
-    "_id": 1250,
-    "type": "anecdote",
-    "sr": "Sokrat ga je zbog toga prekorio, ali mu je ipak savetovao da pođe.",
-    "stsl": "Сократъ сего ради єго обличи · нъ пакы съвѣтова ємѹ ити ·",
-    "originalText": "ἐφ' ᾧ καὶ Σωκράτης αὐτὸν ᾐτιάσατο μέν, συνεβούλευσε δὲ ἐξελθεῖν.",
-    "author": "Xenophon",
-    "year": -401,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.50"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:322#ἐφ' ᾧ"
-  },
-  {
     "_id": 1251,
     "type": "anecdote",
     "sr": "Ksenofont se pridružio Kirovom pohodu i opisao njegov tok i povratak.",
@@ -11729,21 +11713,6 @@
     "pointer": "data/sources/diogenes-laertius/el/07.txt:26#Αὐτὸς"
   },
   {
-    "_id": 728,
-    "type": "quote",
-    "sr": "Ovo su slike podzemnih snova.",
-    "stsl": "Сє сѫть образи подзємьныхъ сънъ.",
-    "originalText": "Τάδ' ἔστ' ὀνείρων νερτέρων φαντάσματα.",
-    "author": "Metrocles",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.95"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:622#Τάδ' "
-  },
-  {
     "_id": 509,
     "type": "anecdote",
     "sr": "Po dolasku u Atinu, Diogen je tražio da sluša Antistena. Iako ga je Antisten odbijao i pretio štapom, Diogen je istrajao i prinudio ga da ga primi među učenike.",
@@ -11758,6 +11727,21 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/07.txt:222#Γενόμ"
+  },
+  {
+    "_id": 728,
+    "type": "quote",
+    "sr": "Ovo su slike podzemnih snova.",
+    "stsl": "Сє сѫть образи подзємьныхъ сънъ.",
+    "originalText": "Τάδ' ἔστ' ὀνείρων νερτέρων φαντάσματα.",
+    "author": "Metrocles",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.95"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:622#Τάδ' "
   },
   {
     "_id": 793,
@@ -11856,6 +11840,22 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:263#Δεθεὶ"
   },
   {
+    "_id": 641,
+    "type": "anecdote",
+    "sr": "Uz pomoć prijatelja Eudoks je otišao u Egipat i među tamošnjim sveštenicima proveo godinu i četiri meseca, obrijanih obrva i brade. Potom je predavao u Kiziku i Propontidi, posetio Mausolov dvor i najzad se vratio u Atinu sa mnogim učenicima; neki su tvrdili da je time želeo da ozlojedi Platona, koji ga je ranije zanemario.",
+    "stsl": "Помоштию дрѹговъ Евдоксъ въ Егѵпетъ иде и междѹ тамошними жерци єдино лѣто и четыри мѣсѧци прѣбысть · обръви и брадꙫ обрѣꙗнъ · Потомь въ Кизикѣ и Пропонтидѣ поѹчааше · Маѵсоловъ дворъ посѣти и наконецъ съ многыми ѹченики въ Атины възврати сѧ · нѣции глаголаахѫ · ꙗко симь Платона озлобити хотѣ · иже єго прѣжде прѣзрѣ ·",
+    "author": "Eudoxus",
+    "year": -397,
+    "originalText": "Πρὸς τῶν φίλων ἐρανισθέντα εἰς Αἴγυπτον ἀπᾶραι μετὰ Χρυσίππου τοῦ ἰατροῦ, συστατικὰς φέροντα παρ' Ἀγησιλάου πρὸς Νεκτάναβιν· τὸν δὲ τοῖς ἱερεῦσιν αὐτὸν συστῆσαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.87–88"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:1115"
+  },
+  {
     "_id": 736,
     "type": "writing",
     "sr": "Pisao šale pomešane sa skrivenom ozbiljnošću; napisao dve knjige 'O pobudama' i 'Protreptik'.",
@@ -11887,22 +11887,6 @@
     "tags": [
       "εἶναι"
     ]
-  },
-  {
-    "_id": 641,
-    "type": "anecdote",
-    "sr": "Uz pomoć prijatelja Eudoks je otišao u Egipat i među tamošnjim sveštenicima proveo godinu i četiri meseca, obrijanih obrva i brade. Potom je predavao u Kiziku i Propontidi, posetio Mausolov dvor i najzad se vratio u Atinu sa mnogim učenicima; neki su tvrdili da je time želeo da ozlojedi Platona, koji ga je ranije zanemario.",
-    "stsl": "Помоштию дрѹговъ Евдоксъ въ Егѵпетъ иде и междѹ тамошними жерци єдино лѣто и четыри мѣсѧци прѣбысть · обръви и брадꙫ обрѣꙗнъ · Потомь въ Кизикѣ и Пропонтидѣ поѹчааше · Маѵсоловъ дворъ посѣти и наконецъ съ многыми ѹченики въ Атины възврати сѧ · нѣции глаголаахѫ · ꙗко симь Платона озлобити хотѣ · иже єго прѣжде прѣзрѣ ·",
-    "author": "Eudoxus",
-    "year": -397,
-    "originalText": "Πρὸς τῶν φίλων ἐρανισθέντα εἰς Αἴγυπτον ἀπᾶραι μετὰ Χρυσίππου τοῦ ἰατροῦ, συστατικὰς φέροντα παρ' Ἀγησιλάου πρὸς Νεκτάναβιν· τὸν δὲ τοῖς ἱερεῦσιν αὐτὸν συστῆσαι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.87–88"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:1115"
   },
   {
     "_id": 475,
@@ -11951,6 +11935,22 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/03.txt:324#Μετὰ "
+  },
+  {
+    "_id": 1254,
+    "type": "anecdote",
+    "sr": "Atinjani su ga zbog pristajanja uz Spartu prognali.",
+    "stsl": "Атинѧне єго за пристаніє къ Спартѣ изгнаша ·",
+    "originalText": "Παρ' ὃν καιρὸν ἐπὶ Λακωνισμῷ φυγὴν ὑπ' Ἀθηναίων κατεγνώσθη.",
+    "author": "Xenophon",
+    "year": -396,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.51"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:324#Παρ' "
   },
   {
     "_id": 742,
@@ -12125,22 +12125,6 @@
     ]
   },
   {
-    "_id": 1254,
-    "type": "anecdote",
-    "sr": "Atinjani su ga zbog pristajanja uz Spartu prognali.",
-    "stsl": "Атинѧне єго за пристаніє къ Спартѣ изгнаша ·",
-    "originalText": "Παρ' ὃν καιρὸν ἐπὶ Λακωνισμῷ φυγὴν ὑπ' Ἀθηναίων κατεγνώσθη.",
-    "author": "Xenophon",
-    "year": -396,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.51"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:324#Παρ' "
-  },
-  {
     "_id": 1255,
     "type": "anecdote",
     "sr": "U Efesu je polovinu svoga novca poverio Artemidinom svešteniku da njime, ako se ne vrati, podigne kip boginji, a drugu polovinu poslao u Delfe kao zavetne darove.",
@@ -12189,6 +12173,22 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:326#Ἦλθεν"
   },
   {
+    "_id": 1236,
+    "type": "bio",
+    "year": -394,
+    "sr": "Kupivši imanje kroz koje je tekla reka Selinunt, posvetio ga je Artemidi; onde je lovio, primao prijatelje i pisao svoja dela.",
+    "stsl": "Кѹпивъ имѣніє · имже рѣка Селинѹнтъ течаше · Артемидѣ посвѧти · тамо ловлѧаше · дрѹгы приємлѧаше и дѣла своꙗ писаше ·",
+    "originalText": "Χωρίον ἐπρίατο καὶ καθιέρωσε τῇ θεῷ, δι' οὗ ποταμὸς ἔρρει Σελινοῦς, ὁμώνυμος τῷ ἐν Ἐφέσῳ. Τοὐντεῦθεν διετέλει κυνηγετῶν καὶ τοὺς φίλους ἑστιῶν καὶ τὰς ἱστορίας συγγράφων.",
+    "author": "Xenophon",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.52"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:326#Χωρίο"
+  },
+  {
     "_id": 756,
     "type": "reported",
     "sr": "Prema jednom predanju, Parmenid je govorio da su Večernjača i Zornjača ista zvezda.",
@@ -12235,22 +12235,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/10.txt:150#Τίμων"
-  },
-  {
-    "_id": 1236,
-    "type": "bio",
-    "year": -394,
-    "sr": "Kupivši imanje kroz koje je tekla reka Selinunt, posvetio ga je Artemidi; onde je lovio, primao prijatelje i pisao svoja dela.",
-    "stsl": "Кѹпивъ имѣніє · имже рѣка Селинѹнтъ течаше · Артемидѣ посвѧти · тамо ловлѧаше · дрѹгы приємлѧаше и дѣла своꙗ писаше ·",
-    "originalText": "Χωρίον ἐπρίατο καὶ καθιέρωσε τῇ θεῷ, δι' οὗ ποταμὸς ἔρρει Σελινοῦς, ὁμώνυμος τῷ ἐν Ἐφέσῳ. Τοὐντεῦθεν διετέλει κυνηγετῶν καὶ τοὺς φίλους ἑστιῶν καὶ τὰς ἱστορίας συγγράφων.",
-    "author": "Xenophon",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.52"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:326#Χωρίο"
   },
   {
     "_id": 1237,
@@ -12493,6 +12477,22 @@
     "pointer": "data/sources/diogenes-laertius/el/04.txt:150#διαλε"
   },
   {
+    "_id": 511,
+    "type": "anecdote",
+    "sr": "Nakon što je zarobljen i izveden na prodaju, na pitanje šta ume da radi odgovorio je: Da upravljam ljudima, a prodavaču rekao da oglasi ako neko želi da kupi gospodara.",
+    "stsl": "Плѣнєнъ бывъ и на продажѫ поставлєнъ · на въпросъ что творити ѹмѣєши · отвѣща · чловѣкы правити · и вѣстникѹ рече да възгласи · аще кто господина кѹпити хоштєть ·",
+    "originalText": "ἁλοὺς καὶ πωλούμενος ἠρωτήθη τί οἶδε ποιεῖν. Ἀπεκρίνατο, « Ἀνδρῶν ἄρχειν »· καὶ πρὸς τὸν κήρυκα, « Κήρυσσε, » ἔφη, « εἴ τις ἐθέλει δεσπότην αὑτῷ πρίασθαι. »",
+    "author": "Diogenes",
+    "year": -387,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.29"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:240#ἁλοὺς"
+  },
+  {
     "_id": 775,
     "type": "reported",
     "year": -600,
@@ -12695,36 +12695,36 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:463#Ἔχοντ"
   },
   {
-    "_id": 878,
+    "_id": 642,
     "type": "anecdote",
-    "sr": "Diogen Platonu pripisuje uvođenje rasprave pitanjima i odgovorima, analitičkog rešavanja zadataka i više temeljnih filozofskih naziva, kao i prvo sistematsko proučavanje gramatike.",
-    "stsl": "Диогенъ Платонѹ приписѹєть введеніє прѣниꙗ вопросы и отвѣты · разрѣшениꙗ задачь разложеніємъ и многихъ основьныхъ любомѫдрьныхъ имѧнъ · такожде пьрвоє ѹстроєно испытаніє кънижьнаго ꙗзыка ·",
-    "author": "Plato",
-    "year": -388,
-    "originalText": "Διαλεκτικὴν δὲ πρῶτον εἰσηγήσασθαι Πλάτωνα, ὡς Φαβωρῖνός φησιν ἐν Παντοδαπῇ ἱστορίᾳ.",
+    "sr": "Kada je Platon priredio gozbu sa mnogo zvanica, Eudoks je predložio da se ležajevi rasporede u polukrug.",
+    "stsl": "Єгда Платонъ пиръ съ многыми зъваными сътвори · Евдоксъ ложа полѹкрѹгомъ поставити прѣдложи ·",
+    "author": "Eudoxus",
+    "year": -387,
+    "originalText": "Τινὲς δέ φασι καὶ συμπόσιον ἔχοντι τῷ Πλάτωνι αὐτὸν τὴν ἡμικύκλιον κατάκλισιν, πολλῶν ὄντων, εἰσηγήσασθαι.",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "III.24–25"
+        "reference": "VIII.88"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:189#Διαλε"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:1125#Τινὲς"
   },
   {
-    "_id": 511,
-    "type": "anecdote",
-    "sr": "Nakon što je zarobljen i izveden na prodaju, na pitanje šta ume da radi odgovorio je: Da upravljam ljudima, a prodavaču rekao da oglasi ako neko želi da kupi gospodara.",
-    "stsl": "Плѣнєнъ бывъ и на продажѫ поставлєнъ · на въпросъ что творити ѹмѣєши · отвѣща · чловѣкы правити · и вѣстникѹ рече да възгласи · аще кто господина кѹпити хоштєть ·",
-    "originalText": "ἁλοὺς καὶ πωλούμενος ἠρωτήθη τί οἶδε ποιεῖν. Ἀπεκρίνατο, « Ἀνδρῶν ἄρχειν »· καὶ πρὸς τὸν κήρυκα, « Κήρυσσε, » ἔφη, « εἴ τις ἐθέλει δεσπότην αὑτῷ πρίασθαι. »",
-    "author": "Diogenes",
+    "_id": 795,
+    "type": "bio",
     "year": -387,
+    "sr": "Osnovao Akademiju u šumi gimnasijuma nazvanog po heroju Hekademu.",
+    "stsl": "Академіѭ въ дѹбравѣ гимнасіѭма · по ирою Хекадемꙋ нареченомꙋ · оснꙋ́ва ·",
+    "originalText": "Διέτριβεν ἐν Ἀκαδημίᾳ· ἔστι δὲ γυμνάσιον προάστειον ἀλσῶδες, ὠνομασμένον ἀπό τινος ἥρωος Ἑκαδήμου.",
+    "author": "Plato",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VI.29"
+        "reference": "III.7"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:240#ἁλοὺς"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:25"
   },
   {
     "_id": 789,
@@ -12759,38 +12759,6 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:480#Κέλεα"
   },
   {
-    "_id": 642,
-    "type": "anecdote",
-    "sr": "Kada je Platon priredio gozbu sa mnogo zvanica, Eudoks je predložio da se ležajevi rasporede u polukrug.",
-    "stsl": "Єгда Платонъ пиръ съ многыми зъваными сътвори · Евдоксъ ложа полѹкрѹгомъ поставити прѣдложи ·",
-    "author": "Eudoxus",
-    "year": -387,
-    "originalText": "Τινὲς δέ φασι καὶ συμπόσιον ἔχοντι τῷ Πλάτωνι αὐτὸν τὴν ἡμικύκλιον κατάκλισιν, πολλῶν ὄντων, εἰσηγήσασθαι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.88"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:1125#Τινὲς"
-  },
-  {
-    "_id": 795,
-    "type": "bio",
-    "year": -387,
-    "sr": "Osnovao Akademiju u šumi gimnasijuma nazvanog po heroju Hekademu.",
-    "stsl": "Академіѭ въ дѹбравѣ гимнасіѭма · по ирою Хекадемꙋ нареченомꙋ · оснꙋ́ва ·",
-    "originalText": "Διέτριβεν ἐν Ἀκαδημίᾳ· ἔστι δὲ γυμνάσιον προάστειον ἀλσῶδες, ὠνομασμένον ἀπό τινος ἥρωος Ἑκαδήμου.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.7"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:25"
-  },
-  {
     "_id": 794,
     "type": "anecdote",
     "sr": "Na Egini je prodat kao rob. Otkupio ga je Kirenjanin Anikerid za dvadeset mina. Kada su mu odmah poslali novac, nije ga primio.",
@@ -12805,6 +12773,22 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/04.txt:153#Κἀκεῖ"
+  },
+  {
+    "_id": 874,
+    "type": "bio",
+    "sr": "Platon je prvi doneo u Atinu zanemarene Sofronove mime i prema njima oblikovao likove; primerak tih spisa nađen je pod njegovim jastukom.",
+    "stsl": "Платонъ пьрвыи забъвеныѩ Софроновы подражаниꙗ въ Атины принесе и по нихъ лица изображаше · списъкъ тѣхъ писании подъ възглавиемъ єго обрѣтенъ бысть ·",
+    "originalText": "Πλάτων καὶ τὰ Σώφρονος τοῦ μιμογράφου βιβλία ἠμελημένα πρῶτος εἰς Ἀθήνας διακομίσαι καὶ ἠθοποιῆσαι πρὸς αὐτόν· ἃ καὶ εὑρεθῆναι ὑπὸ τῇ κεφαλῇ αὐτοῦ.",
+    "author": "Plato",
+    "year": -386,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.18"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:150#Πλάτω"
   },
   {
     "_id": 166,
@@ -12887,6 +12871,22 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:247"
   },
   {
+    "_id": 879,
+    "type": "anecdote",
+    "sr": "Platon i Ksenofont bili su suparnici: obojica su napisala Gozbu, Odbranu Sokratovu i moralne uspomene, dok su se Platonova Država i Ksenofontovo Kiropedija nadmetale u prikazu uređenja i vaspitanja. Platon je Ksenofontovog Kira nazvao izmišljotinom.",
+    "stsl": "Платонъ и Ксенофонтъ съпьрници бѣста · оба Пиръ · Сократовѫ Заштитѫ и нравьныѩ памѧти написаста · Платоновъ же Градъ и Ксенофонтово Кѵрово възпитаніє въ изображении ѹстроєниꙗ и възпитаниꙗ състѧзаста сѧ · Платонъ Ксенофонтова Кѵра измышленіємъ нарече ·",
+    "author": "Plato",
+    "year": -383,
+    "originalText": "Ἔοικε δὲ καὶ Ξενοφῶν πρὸς αὐτὸν ἔχειν οὐκ εὐμενῶς. ὥσπερ γοῦν διαφιλονεικοῦντες τὰ ὅμοια γεγράφασι, Συμπόσιον, Σωκράτους ἀπολογίαν, τὰ ἠθικὰ ἀπομνημονεύματα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.34"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:351"
+  },
+  {
     "_id": 799,
     "type": "quote",
     "sr": "More spira sva ljudska zla.",
@@ -12904,7 +12904,7 @@
   {
     "_id": 800,
     "type": "quote",
-    "sr": "Predmet čula nikada ne ostaje isti po kakvoći ni količini, nego neprestano teče i menja se: njemu pripada postajanje, a nikada biće.",
+    "sr": "Čulno je ono što nikad ne ostaje isto po kakvoći niti količini, već uvek teče i menja se: ove stvari stalno nastaju, ali biće im nikad ne pripada.",
     "stsl": "Прѣдъметъ чѹвьства никогда тождь по каковьствѹ ни множьствѹ не прѣбываєть · нъ присно течеть и прѣмѣнѧєть сѧ · ємѹ бытиє бываєть · сѫщее же никогда ·",
     "originalText": "αἰσθητὸν μὲν εἶναι τὸ μηδέποτε ἐν τῷ ποιῷ μηδὲ ποσῷ διαμένον ἀλλ' ἀεὶ ῥέον καὶ μεταβάλλον· Ταῦτα δ' ἐστὶν ὧν ἀεὶ γένεσις, οὐσία δὲ μηδέποτε πέφυκε.",
     "author": "Plato",
@@ -12922,7 +12922,7 @@
   {
     "_id": 801,
     "type": "quote",
-    "sr": "Predmet uma je postojan, večan i uvek sebi jednak.",
+    "sr": "Umno je ono od čega ništa ne odlazi niti dolazi. To je priroda večnih stvari, kojoj je uvek suđeno da bude ista i sebi jednaka.",
     "stsl": "Прѣдъметъ ѹма твръдъ · вѣчьнъ и присно себѣ равьнъ єсть ·",
     "originalText": "Νοητὸν δὲ ἐξ οὗ μηθὲν ἀπογίνεται μηδὲ προσγίνεται. Τοῦτο δ' ἐστὶν ἡ τῶν ἀιδίων φύσις, ἣν ὁμοίαν τε καὶ τὴν αὐτὴν ἀεὶ συμβέβηκεν εἶναι.",
     "author": "Plato",
@@ -12941,7 +12941,7 @@
   {
     "_id": 802,
     "type": "quote",
-    "sr": "Oblici su večni, umni i nepromenljivi uzori; pojedinačne stvari nose njihova imena jer u njima učestvuju i liče na njih kao slike na svoje uzore.",
+    "sr": "Svaki oblik je večan, umna misao i nesklona patnji. Zato kaže da oblici stoje u prirodi kao uzori, a sve ostalo liči na njih kao njihove slike.",
     "stsl": "Образы вѣчьни · ѹмьни и непрѣмѣньни первообразы сѫть · особьныѩ вешти ихъ имѧна носѧть · зане въ нихъ причѧстьни сѫть и подобѧть имъ ꙗко изображениꙗ своимъ первообразомъ ·",
     "originalText": "ἔστι δὲ τῶν εἰδῶν ἓν ἕκαστον ἀίδιόν τε καὶ νόημα καὶ πρὸς τούτοις ἀπαθές. Διὸ καί φησιν ἐν τῇ φύσει τὰς ἰδέας ἑστάναι καθάπερ παραδείγματα, τὰ δ' ἄλλα ταύταις ἐοικέναι τούτων ὁμοιώματα καθεστῶτα.",
     "author": "Plato",
@@ -12959,7 +12959,7 @@
   {
     "_id": 803,
     "type": "quote",
-    "sr": "Pamćenje pokazuje da postoje oblici: ono se odnosi na nešto postojano i trajno, a trajni su samo oblici.",
+    "sr": "Ako postoji sećanje, oblici moraju biti među stvarima koje jesu, jer sećanje zavisi od nečeg što miruje i ostaje, a ništa drugo ne ostaje osim oblika.",
     "stsl": "Памѧть показѹєть · ꙗко образы сѫть · она бо о твръдѣмь и прѣбываѭштемь єсть · прѣбываѭшти же тъкмо образы сѫть ·",
     "originalText": "εἴπερ ἐστὶ μνήμη, τὰς ἰδέας ἐν τοῖς οὖσιν ὑπάρχειν διὰ τὸ τὴν μνήμην ἠρεμοῦντός τινος καὶ μένοντος εἶναι· μένειν δὲ οὐδὲν ἕτερον ἢ τὰς ἰδέας.",
     "author": "Plato",
@@ -12977,7 +12977,7 @@
   {
     "_id": 804,
     "type": "quote",
-    "sr": "Životinje opstaju jer prirodno raspoznaju sličnost, hranu i pripadnike svoje vrste.",
+    "sr": "Životinje pamte sličnost i kakva im je hrana, pokazujući time da je svim živim bićima urođeno posmatranje oblika.",
     "stsl": "Животнаꙗ прѣбываѭть · зане по естествѹ подобиє · пиштꙫ и своихъ сродьникъ распознаѭть ·",
     "originalText": "νῦν δὲ μνημονεύει τῆς ὁμοιότητός τε καὶ τροφῆς, ὁποία τις ἐστὶν αὐτοῖς, ἐνδεικνύμενα διότι πᾶσι τοῖς ζῴοις ἔμφυτός ἐστιν ἡ τῆς ἰδέας θεωρία.",
     "author": "Plato",
@@ -12995,7 +12995,7 @@
   {
     "_id": 805,
     "type": "quote",
-    "sr": "Korist samog vladara nije najbolje merilo vlasti ako se vladar ujedno ne odlikuje vrlinom.",
+    "sr": "Nije najbolje ono što koristi samo vladaru, osim ako se on odlikuje i vrlinom.",
     "stsl": "Польза самого владꙑкы не єсть наилѣпша мѣра власти · аште владꙑка и добродѣтелию не прѣвъсходить ·",
     "originalText": "ὡς οὐκ ἔστι τοῦτο κρεῖττον ὃ συμφέροι αὐτῷ μόνον εἰ μὴ καὶ ἀρετῇ διαφέροι.",
     "author": "Plato",
@@ -13006,133 +13006,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/04.txt:150#ὡς οὐ"
-  },
-  {
-    "_id": 879,
-    "type": "anecdote",
-    "sr": "Platon i Ksenofont bili su suparnici: obojica su napisala Gozbu, Odbranu Sokratovu i moralne uspomene, dok su se Platonova Država i Ksenofontovo Kiropedija nadmetale u prikazu uređenja i vaspitanja. Platon je Ksenofontovog Kira nazvao izmišljotinom.",
-    "stsl": "Платонъ и Ксенофонтъ съпьрници бѣста · оба Пиръ · Сократовѫ Заштитѫ и нравьныѩ памѧти написаста · Платоновъ же Градъ и Ксенофонтово Кѵрово възпитаніє въ изображении ѹстроєниꙗ и възпитаниꙗ състѧзаста сѧ · Платонъ Ксенофонтова Кѵра измышленіємъ нарече ·",
-    "author": "Plato",
-    "year": -383,
-    "originalText": "Ἔοικε δὲ καὶ Ξενοφῶν πρὸς αὐτὸν ἔχειν οὐκ εὐμενῶς. ὥσπερ γοῦν διαφιλονεικοῦντες τὰ ὅμοια γεγράφασι, Συμπόσιον, Σωκράτους ἀπολογίαν, τὰ ἠθικὰ ἀπομνημονεύματα.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.34"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:351"
-  },
-  {
-    "_id": 807,
-    "type": "quote",
-    "sr": "Čestit čovek ne misli da mu preti velika opasnost.",
-    "stsl": "Добрыи мѫжь не мьнить велицѣ бѣдѣ себѣ грозити ·",
-    "originalText": "οὐδὲν δεινὸν οἴεσθαι πείσεσθαι ἀνὴρ ἀγαθός.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.19"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:153#οὐδὲν"
-  },
-  {
-    "_id": 808,
-    "type": "quote",
-    "sr": "Nemam toliko dokolice da bih Dionisija držao u svojim mislima.",
-    "stsl": "Не имамъ толика праздьства · да Дионисиꙗ въ своихъ помыслѣхъ дръжимъ ·",
-    "originalText": "μὴ τοσαύτην αὐτῷ σχολὴν εἶναι ὥστε Διονυσίου μεμνῆσθαι.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.21"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:157#μὴ το",
-    "tags": [
-      "εἶναι"
-    ]
-  },
-  {
-    "_id": 809,
-    "type": "quote",
-    "sr": "Neću dati zakone onima koji odbijaju jednakost imovine.",
-    "stsl": "Не дамъ законъ тѣмъ · иже равьньство имѣниꙗ отъмѣтаѭть ·",
-    "originalText": "μαθὼν ἴσον ἔχειν οὐ θέλοντας οὐκ ἐπορεύθη.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.23"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:187#μαθὼν"
-  },
-  {
-    "_id": 810,
-    "type": "quote",
-    "sr": "Kao što sam se izlagao opasnostima služeći otadžbini, tako ću im se sada izložiti radi dužnosti prema prijatelju.",
-    "stsl": "Ꙗкоже отьчьствѹ слѹжѧ бѣдамъ себе прѣдавахъ · тако нынѣ дрѹжьбы дълга ради имъ сѧ прѣдамъ ·",
-    "originalText": "Καὶ ὅτε ὑπὲρ τῆς πατρίδος ἐστρατευόμην, ὑπέμενον τοὺς κινδύνους, καὶ νῦν ὑπὲρ τοῦ καθήκοντος διὰ φίλον ὑπομενῶ.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.24"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:189#Καὶ ὅ"
-  },
-  {
-    "_id": 811,
-    "type": "quote",
-    "sr": "Imam Arheanasu iz Kolofona, na čijim se borama krije gorka ljubav. Nesrećni ste bili vi koji ste je susreli dok je prvi put plovila: kroz kakvu ste vatru prošli!",
-    "stsl": "Имамъ Археанассѫ Колофоньскѫ · на єѩ морштинахъ горька любовь таить сѧ · Злострадьни бѣсте вы · иже єѩ при пьрвѣмь плавании срѣтосте · сквозѣ каковъ огнь проидосте ·",
-    "originalText": "Ἀρχεάνασσαν ἔχω τὴν ἐκ Κολοφῶνος ἑταίραν, ἧς καὶ ἐπὶ ῥυτίδων ἕζετο δριμὺς ἔρως. Ἆ δειλοὶ νεότητος ἀπαντήσαντες ἐκείνης πρωτοπλόου, δι' ὅσης ἤλθετε πυρκαϊῆς.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.31"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:287"
-  },
-  {
-    "_id": 812,
-    "type": "quote",
-    "sr": "Ljubeći Agatona, duša mi dođe do usana; jadnica je pošla kao da će preći u njega.",
-    "stsl": "Агаѳона цѣлѹѧ · дѹша ми до ѹстъ прииде · бѣднаꙗ поиде · ꙗко да въ нь прѣидеть ·",
-    "originalText": "Τὴν ψυχὴν Ἀγάθωνα φιλῶν ἐπὶ χείλεσιν εἶχον· ἦλθε γὰρ ἡ τλήμων ὡς διαβησομένη.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.32"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:307",
-    "tags": [
-      "εἶναι"
-    ]
-  },
-  {
-    "_id": 813,
-    "type": "quote",
-    "sr": "Čovek je našao zlato i ostavio uže; onaj koji je zlato izgubio nije ga našao, ali je našao uže i obesio se.",
-    "stsl": "Чловѣкъ злато обрѣте и вьрвь остави · иже злато погѹби · єго не обрѣте · нъ вьрвь обрѣте и ѹдави сѧ ·",
-    "originalText": "Χρυσὸν ἀνὴρ εὑρὼν ἔλιπεν βρόχον· αὐτὰρ ὁ χρυσὸν ὃν λίπεν οὐχ εὑρὼν ἧψεν ὃν εὗρε βρόχον.",
-    "author": "Plato",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.33"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:329"
   },
   {
     "_id": 55,
@@ -13151,9 +13024,136 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:503#Ἀνάξα"
   },
   {
+    "_id": 807,
+    "type": "quote",
+    "sr": "Dobar čovek ne misli da će ga snaći nešto strašno.",
+    "stsl": "Добрыи мѫжь не мьнить велицѣ бѣдѣ себѣ грозити ·",
+    "originalText": "οὐδὲν δεινὸν οἴεσθαι πείσεσθαι ἀνὴρ ἀγαθός.",
+    "author": "Plato",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.19"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:153#οὐδὲν"
+  },
+  {
+    "_id": 808,
+    "type": "quote",
+    "sr": "Nemam toliko vremena da bih se sećao Dionisija.",
+    "stsl": "Не имамъ толика праздьства · да Дионисиꙗ въ своихъ помыслѣхъ дръжимъ ·",
+    "originalText": "μὴ τοσαύτην αὐτῷ σχολὴν εἶναι ὥστε Διονυσίου μεμνῆσθαι.",
+    "author": "Plato",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.21"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:157#μὴ το",
+    "tags": [
+      "εἶναι"
+    ]
+  },
+  {
+    "_id": 809,
+    "type": "quote",
+    "sr": "Saznавši da ne žele da imaju jednako, nije otišao.",
+    "stsl": "Не дамъ законъ тѣмъ · иже равьньство имѣниꙗ отъмѣтаѭть ·",
+    "originalText": "μαθὼν ἴσον ἔχειν οὐ θέλοντας οὐκ ἐπορεύθη.",
+    "author": "Plato",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.23"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:187#μαθὼν"
+  },
+  {
+    "_id": 810,
+    "type": "quote",
+    "sr": "I kada sam ratovao za otadžbinu, podnosio sam opasnosti, a sada ću ih podnositi zbog dužnosti prema prijatelju.",
+    "stsl": "Ꙗкоже отьчьствѹ слѹжѧ бѣдамъ себе прѣдавахъ · тако нынѣ дрѹжьбы дълга ради имъ сѧ прѣдамъ ·",
+    "originalText": "Καὶ ὅτε ὑπὲρ τῆς πατρίδος ἐστρατευόμην, ὑπέμενον τοὺς κινδύνους, καὶ νῦν ὑπὲρ τοῦ καθήκοντος διὰ φίλον ὑπομενῶ.",
+    "author": "Plato",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.24"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:189#Καὶ ὅ"
+  },
+  {
+    "_id": 811,
+    "type": "quote",
+    "sr": "Imam Arheanasu kolofonsku kurtizanu, čak joj na borama sedi oštra ljubav. O jadnici, koji ste naleteli na njenu prvu mladost - kroz kakav ste oganj prošli!",
+    "stsl": "Имамъ Археанассѫ Колофоньскѫ · на єѩ морштинахъ горька любовь таить сѧ · Злострадьни бѣсте вы · иже єѩ при пьрвѣмь плавании срѣтосте · сквозѣ каковъ огнь проидосте ·",
+    "originalText": "Ἀρχεάνασσαν ἔχω τὴν ἐκ Κολοφῶνος ἑταίραν, ἧς καὶ ἐπὶ ῥυτίδων ἕζετο δριμὺς ἔρως. Ἆ δειλοὶ νεότητος ἀπαντήσαντες ἐκείνης πρωτοπλόου, δι' ὅσης ἤλθετε πυρκαϊῆς.",
+    "author": "Plato",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.31"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:287"
+  },
+  {
+    "_id": 812,
+    "type": "quote",
+    "sr": "Ljubeći Agatona, dušu sam imao na usnama: jadnica je došla kao da će preći u njega.",
+    "stsl": "Агаѳона цѣлѹѧ · дѹша ми до ѹстъ прииде · бѣднаꙗ поиде · ꙗко да въ нь прѣидеть ·",
+    "originalText": "Τὴν ψυχὴν Ἀγάθωνα φιλῶν ἐπὶ χείλεσιν εἶχον· ἦλθε γὰρ ἡ τλήμων ὡς διαβησομένη.",
+    "author": "Plato",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.32"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:307",
+    "tags": [
+      "εἶναι"
+    ]
+  },
+  {
+    "_id": 813,
+    "type": "quote",
+    "sr": "Čovek našao zlato, ostavio omču; a onaj koji je ostavio zlato i nije ga našao, vezao omču što je našao.",
+    "stsl": "Чловѣкъ злато обрѣте и вьрвь остави · иже злато погѹби · єго не обрѣте · нъ вьрвь обрѣте и ѹдави сѧ ·",
+    "originalText": "Χρυσὸν ἀνὴρ εὑρὼν ἔλιπεν βρόχον· αὐτὰρ ὁ χρυσὸν ὃν λίπεν οὐχ εὑρὼν ἧψεν ὃν εὗρε βρόχον.",
+    "author": "Plato",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.33"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:329"
+  },
+  {
+    "_id": 241,
+    "type": "anecdote",
+    "sr": "Aristip je svojoj kćeri Areti davao najbolje savete i vežbao je da prezire suvišak. Ona je postala njegova učenica i kasnije podučavala svoga sina, Aristipa Mlađeg.",
+    "stsl": "Аристипъ дъштери своєи Аретѣ наилѹчьши съвѣты давааше и ѭ ѹпражнѧаше · да излишекъ прѣзираєть · Она ѹченица єго бысть и потомь сына своєго · Аристипа Младшаго · поѹчааше ·",
+    "originalText": "Τὰ ἄριστα ὑπετίθετο τῇ θυγατρὶ Ἀρήτῃ, συνασκῶν αὐτὴν ὑπεροπτικὴν τοῦ πλείονος εἶναι.",
+    "author": "Aristippus",
+    "year": -380,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.72"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:450#Τὰ ἄρ"
+  },
+  {
     "_id": 815,
     "type": "quote",
-    "sr": "Pijani ljudi treba da se ogledaju: tako će naučiti da izbegavaju takvo sramoćenje.",
+    "sr": "Pijanima je savetovao da se gledaju u ogledalo: tako će odustati od takve ružnoće.",
     "stsl": "Пиꙗнымъ въ зрьцало зрѣти подобаєть · тако ѹвѣдѧть таковаго срама бѣжати ·",
     "originalText": "τοῖς μεθύουσι συνεβούλευε κατοπτρίζεσθαι· ἀποστήσεσθαι γὰρ τῆς τοιαύτης ἀσχημοσύνης.",
     "author": "Plato",
@@ -13202,7 +13202,7 @@
   {
     "_id": 818,
     "type": "quote",
-    "sr": "Istina je početak svakog dobra bogovima i ljudima. Ko želi da bude srećan i blažen neka je od početka njen učesnik, da bi što duže živeo kao čovek dostojan poverenja.",
+    "sr": "Istina je lepa i trajna, ali ljude teško u nju uveriti.",
     "stsl": "Истина начѧло вьсѧкаго блага богомъ и чловѣкомъ єсть · Иже хоштеть благъ и блаженъ быти · отъ начѧла єѩ причѧстьникъ да бѫдеть · да колико възможьно дълго ꙗко вѣры достоиныи живеть ·",
     "originalText": "ἀλήθεια γάρ, ὦ ξεῖνε, καλὸν καὶ μόνιμον· πείθειν δὲ αὐτῇ οὐ ῥᾴδιον.",
     "author": "Plato",
@@ -13235,7 +13235,7 @@
   {
     "_id": 820,
     "type": "quote",
-    "sr": "Mudrost je, u posebnom smislu, nauka umnih i istinski postojećih stvari, boga i duše odvojene od tela; a ljubomudrije je čežnja za tom božanskom mudrošću.",
+    "sr": "Mudrost je nauka božanskih i ljudskih stvari, a ljubomudrije čežnja za mudrošću.",
     "stsl": "Мѫдрость · въ особьнѣмь смыслѣ · наѹка ѹмьныхъ и истиньно сѫштихъ вештии · бога и дѹша отъ тѣла отъдѣльны єсть · любомѫдрие же желаніє сеи божьствьныѩ мѫдрости ·",
     "originalText": "σοφίαν εἶναι τὴν τῶν θείων καὶ ἀνθρωπίνων ἐπιστήμην· φιλοσοφίαν δὲ ἔφεσιν σοφίας.",
     "author": "Plato",
@@ -13272,7 +13272,7 @@
   {
     "_id": 822,
     "type": "quote",
-    "sr": "Čulne stvari istovremeno postoje i ne postoje: nastaju, ali se neprestano menjaju. Oblik nije ni u kretanju ni u mirovanju; isti je sebi, a ipak je i jedan i mnoštven.",
+    "sr": "Čulne stvari zove i postojećim i nepostojećim: postojećim zbog nastajanja, nepostojećim zbog stalnog menjanja.",
     "stsl": "Чѹвьствьныѩ вешти кѹпьно сѫть и не сѫть · бываѭть · нъ непрѣстаньно прѣмѣнѧѭть сѧ · Образъ ни въ движении ни въ покои єсть · тождь себѣ єсть · обаче и єдинъ и многъ ·",
     "author": "Plato",
     "originalText": "Τὸ γοῦν αἰσθητὸν καὶ ὂν καλεῖ καὶ μὴ ὄν· ὂν μὲν διὰ τὸ γένεσιν αὐτοῦ εἶναι, μὴ ὂν δὲ διὰ τὴν συνεχῆ μεταβολήν.",
@@ -14094,22 +14094,6 @@
     ]
   },
   {
-    "_id": 241,
-    "type": "anecdote",
-    "sr": "Aristip je svojoj kćeri Areti davao najbolje savete i vežbao je da prezire suvišak. Ona je postala njegova učenica i kasnije podučavala svoga sina, Aristipa Mlađeg.",
-    "stsl": "Аристипъ дъштери своєи Аретѣ наилѹчьши съвѣты давааше и ѭ ѹпражнѧаше · да излишекъ прѣзираєть · Она ѹченица єго бысть и потомь сына своєго · Аристипа Младшаго · поѹчааше ·",
-    "originalText": "Τὰ ἄριστα ὑπετίθετο τῇ θυγατρὶ Ἀρήτῃ, συνασκῶν αὐτὴν ὑπεροπτικὴν τοῦ πλείονος εἶναι.",
-    "author": "Aristippus",
-    "year": -380,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.72"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:450#Τὰ ἄρ"
-  },
-  {
     "_id": 490,
     "type": "bio",
     "sr": "Živeo u velikoj glinenoj posudi u Atini; posedovao samo ogrtač, torbu i štap.",
@@ -14124,6 +14108,22 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/07.txt:226#Πίθον"
+  },
+  {
+    "_id": 512,
+    "type": "anecdote",
+    "sr": "Kada je prodat kao rob, rekao je da treba prodati njega kao gospodara onome kome je potreban gospodar, i tako je završio u kući Ksenijada gde je upravljao domaćinstvom.",
+    "stsl": "Єгда проданъ бысть ꙗко рабъ · рече себе продати ꙗко господина томѹ · комѹ господинъ потрѣбенъ єсть · и тако въ домѣ Ксениꙗда домъ строити начѧ ·",
+    "originalText": "Ἔλεγε τῷ Ξενιάδῃ τῷ πριαμένῳ αὐτόν, δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
+    "author": "Diogenes",
+    "year": -380,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.74"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:398"
   },
   {
     "_id": 871,
@@ -14154,22 +14154,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/04.txt:359#Λόγος"
-  },
-  {
-    "_id": 512,
-    "type": "anecdote",
-    "sr": "Kada je prodat kao rob, rekao je da treba prodati njega kao gospodara onome kome je potreban gospodar, i tako je završio u kući Ksenijada gde je upravljao domaćinstvom.",
-    "stsl": "Єгда проданъ бысть ꙗко рабъ · рече себе продати ꙗко господина томѹ · комѹ господинъ потрѣбенъ єсть · и тако въ домѣ Ксениꙗда домъ строити начѧ ·",
-    "originalText": "Ἔλεγε τῷ Ξενιάδῃ τῷ πριαμένῳ αὐτόν, δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
-    "author": "Diogenes",
-    "year": -380,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.74"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:398"
   },
   {
     "_id": 1193,
@@ -14250,6 +14234,21 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/09.txt:1125#Ἀπεδέ"
+  },
+  {
+    "_id": 878,
+    "type": "writing",
+    "sr": "Diogen Platonu pripisuje uvođenje rasprave pitanjima i odgovorima, analitičkog rešavanja zadataka i više temeljnih filozofskih naziva, kao i prvo sistematsko proučavanje gramatike.",
+    "stsl": "Диогенъ Платонѹ приписѹєть введеніє прѣниꙗ вопросы и отвѣты · разрѣшениꙗ задачь разложеніємъ и многихъ основьныхъ любомѫдрьныхъ имѧнъ · такожде пьрвоє ѹстроєно испытаніє кънижьнаго ꙗзыка ·",
+    "author": "Plato",
+    "originalText": "Διαλεκτικὴν δὲ πρῶτον εἰσηγήσασθαι Πλάτωνα, ὡς Φαβωρῖνός φησιν ἐν Παντοδαπῇ ἱστορίᾳ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.24–25"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:189#Διαλε"
   },
   {
     "_id": 167,

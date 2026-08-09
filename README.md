@@ -20,6 +20,7 @@ npm start
 
 ## TODO
 
+- ne setovati default script inicijalno nego prikazivati stranicu kakva jeste. ako to nije moguće, onda default kir za stsl i lat za sr.
 - počisti sadržaj, neki fajlovi su predugi i puni smeća (posebno Platon)
 - proveri svuda previše rasečene i besmislene unose, koje su deo šire anegdote.
 - proveriti sr prevode na osnovu rečnika
