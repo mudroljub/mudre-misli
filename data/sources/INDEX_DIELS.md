@@ -37,7 +37,7 @@ Kritička edicija fragmenata predsokratovskih filozofa, osnovno naučno izdanje 
 | # | Filozof | TXT Fajl | Fragmenti | Status |
 |---|---------|----------|-----------|--------|
 | 11 | Xenophanes | `philosophers/11-Xenophanes.txt` | 36 | ✅ |
-| 12 | Heraclitus | `philosophers/12-Heraclitus.txt` | 38 | ✅ |
+| 12 | Heraclitus | `philosophers/12-Heraclitus.txt` | 38 | ✅ 💾 |
 | 18 | Parmenides | `philosophers/18-Parmenides.txt` | 17 | ✅ |
 | 19 | Zeno | `philosophers/19-Zeno.txt` | 3 | ⚠️ Poseban format |
 | 21 | Empedocles | `philosophers/21-Empedocles.txt` | 140 | ✅ |
@@ -135,10 +135,11 @@ Filozofi sa B. FRAGMENTE sekcijom koji čekaju ekstrakciju:
     SA fragmentima - treba ekstraktovati sa novim OCR-om  
     Naš fajl: `data/quotes/Ksenofan.json`
 
-12. **Heraclitus** ✅ 🎯 🧹  
+12. **Heraclitus** ✅ 🎯 🧹 💾 ✍️  
     Linije 4101–6509 - SA fragmentima  
     Diels: `philosophers/12-Heraclitus.txt` (2,409 linija)  
-    Naš fajl: `data/quotes/Heraklit.json`
+    Naš fajl: `data/quotes/Heraclitus.json` (77 entries)  
+    **Integrisano:** 45 B-fragmenata (2026-08-09)
 
 13. **Epicharmus** ⏳  
     SA fragmentima - treba ekstraktovati sa novim OCR-om
