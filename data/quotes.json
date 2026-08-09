@@ -10901,8 +10901,8 @@
   {
     "_id": 679,
     "type": "quote",
-    "stsl": "Огнь стихіꙗ · прѣмѣнѫ же огнѧ вьсѧ · рѣдѣниємь и ѫтꙑштєниємь · Вьсѧ же по протъивностѣмь бꙑваѭть · и течєть рѣцѣ подобьно · Єдинъ мирь · ограниченъ · Рождаєть сѧ отъ огнѧ · и паки въ огнь прѣтворѧєть сѧ · по обꙑходѹ · прѣмѣнѧѭште вьсь вѣкъ · Сіє же по сѫдьбѣ ·",
-    "sr": "Vatra je stihija; promenom vatre sve nastaje, razređivanjem i zgušnjavanjem. Sve nastaje po suprotnostima i sve teče poput reke. Sve je ograničeno i postoji jedan svet. Rađa se iz vatre i ponovo se pretvara u vatru, po određenim razdobljima, menjajući se kroz čitav vek. A to se događa po sudbini.",
+    "stsl": "Огнь съставъ · прѣмѣнѫ же огнѧ вьсѧ · рѣдѣниємь и ѫтꙑштєниємь · Вьсѧ же по протъивностѣмь бꙑваѭть · и течєть рѣцѣ подобьно · Єдинъ мирь · ограниченъ · Рождаєть сѧ отъ огнѧ · и паки въ огнь прѣтворѧєть сѧ · по обꙑходѹ · прѣмѣнѧѭште вьсь вѣкъ · Сіє же по сѫдьбѣ ·",
+    "sr": "Vatra je sastav; promenom vatre sve nastaje, razređivanjem i zgušnjavanjem. Sve nastaje po suprotnostima i sve teče poput reke. Sve je ograničeno i postoji jedan svet. Rađa se iz vatre i ponovo se pretvara u vatru, po određenim razdobljima, menjajući se kroz čitav vek. A to se događa po sudbini.",
     "originalText": "πῦρ εἶναι στοιχεῖον καὶ πυρὸς ἀμοιβὴν τὰ πάντα, ἀραιώσει καὶ πυκνώσει γινόμενα. γίνεσθαί τε πάντα κατ ἐναντιότητα καὶ ῥεῖν τὰ ὅλα ποταμοῦ δίκην, πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον· γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα· τοῦτο δὲ γίνεσθαι καθ εἱμαρμένην.",
     "author": "Heraclitus",
     "sources": [
@@ -13916,7 +13916,7 @@
       }
     ],
     "stsl": "Два начѧла вьсѣмъ сѫть · Богъ и тварь · Его же и ѹмомъ нарицаєтъ и винꙋ · Тварь же беꙁобраꙁьна и беꙁмѣрьна · Отъ неѩже съставꙑ бꙑваѭтъ ·",
-    "sr": "Dva načela svemu postavio, boga i tvar, koga i umom naziva i uzrokom. Tvar je bezoblična i bezgranična, iz koje nastaju spojevi.",
+    "sr": "Dva načela svemu postavio, boga i tvar, koga i umom naziva i uzrokom. Tvar je bezoblična i bezgranična, iz koje nastaju sastavi.",
     "pointer": "data/sources/diogenes-laertius/el/04.txt:524",
     "tags": [
       "εἶναι",
@@ -13937,7 +13937,7 @@
       }
     ],
     "stsl": "Прѣмѣнити же сѧ сѫщьствꙋ симѹ въ четꙑри составꙑ · огнь · водѹ · въꙁдѹхъ · ꙁемлѭ · Єдинѫ же ꙁемлѭ непрѣмѣньнѫ бꙑти · мьнѧ винѫ равьности образовъ · иꙁъ нихъже съставлѧєтъ сѧ · Огнѧ бо составъ четворостѣньникъ · въꙁдѹха осмостѣньникъ · водꙑ двадесѧтостѣньникъ · ꙁемлѧ же коцка ·",
-    "sr": "Pretvoriti se ovoj supstanci u četiri sastojka: vatru, vodu, vazduh, zemlju. Samo je zemlja nepromenjiva, verujući uzrokom razliku oblika od kojih se sastoji. Vatre sastojak je piramida, vazduha osmostrana, vode dvadesetostrana, zemlje kocka.",
+    "sr": "Pretvoriti se ovoj supstanci u četiri sastava: vatru, vodu, vazduh, zemlju. Samo je zemlja nepromenjiva, verujući uzrokom razliku oblika od kojih se sastoji. Vatre sastav je piramida, vazduha osmostrana, vode dvadesetostrana, zemlje kocka.",
     "pointer": "data/sources/diogenes-laertius/el/04.txt:526",
     "tags": [
       "εἶναι",
@@ -19329,7 +19329,7 @@
     "_id": 1192,
     "type": "quote",
     "sr": "Stroj je živ i pun božanstava.",
-    "stsl": "Строи живъ · дѹховъ полнъ ·",
+    "stsl": "Строи живъ · божьствъ полнъ ·",
     "originalText": "Τὸν κόσμον ἔμψυχον καὶ δαιμόνων πλήρη.",
     "author": "Thales",
     "sources": [
