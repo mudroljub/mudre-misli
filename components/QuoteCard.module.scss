@@ -37,22 +37,7 @@
   float: right;
 }
 
-// Type styles - chat-like layout
 .quote {
-  padding-left: $spacing-xl;
-  margin-left: 0;
-  margin-right: auto;
-  max-width: 85%;
-  border-left: 3px solid $color-border;
+  border-left: 4px solid $color-border;
   background: lighten($color-border, 18%);
-}
-
-.reported {
-  padding-right: $spacing-xl;
-  margin-right: 0;
-  margin-left: auto;
-  max-width: 85%;
-  text-align: right;
-  border-right: 3px solid darken($color-border, 10%);
-  background: lighten($color-border, 15%);
 }

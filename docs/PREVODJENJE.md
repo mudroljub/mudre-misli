@@ -193,4 +193,5 @@ Koristiti [RECNIK.md](RECNIK.md).
 - koristiti [RECNIK.md](RECNIK.md)
 - izbegavati navodnike u tekstu kad god je to moguće. 
 Solon je govorio: "Dobar budi." -> Solon je govorio: Dobar budi.
-- izbegavati oblike: "ne može da podnese" -> koristi "ne može podneti" (infinitiv) kad je prirodno
+- umesto oblika "Od svega što postoji" koristiti "Od svega postojećeg" kad je prirodno
+- umesto oblika "ne može da podnese" koristi "ne može podneti" (infinitiv) kad je prirodno

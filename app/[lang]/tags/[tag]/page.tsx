@@ -65,10 +65,6 @@ export default function TagPage({ params }: TagPageProps) {
           {tag}
         </h2>
 
-        <p className={styles.count}>
-          {taggedEntries.length} {taggedEntries.length === 1 ? 'citat' : 'citata'}
-        </p>
-
         <div className={styles.grid}>
           {taggedEntries.map((entry) => (
             <QuoteCard
@@ -76,7 +72,6 @@ export default function TagPage({ params }: TagPageProps) {
               entry={entry}
               language={lang}
               showAuthor={true}
-              className={styles.alignLeft}
             />
           ))}
         </div>
