@@ -10,7 +10,8 @@
         "name": "diogenes-laertius",
         "reference": "III.3-4"
       }
-    ]
+    ],
+    "sr": "Platon sin Aristona i Periktione, koja potiče od Solona. Zvao se Aristokle, a Platon prozvan zbog svoje širine."
   },
   {
     "type": "bio",
@@ -23,7 +24,8 @@
         "name": "diogenes-laertius",
         "reference": "III.6"
       }
-    ]
+    ],
+    "sr": "Sokrata slušao dvadeset godina, od dvadesete godine."
   },
   {
     "type": "bio",
@@ -36,7 +38,8 @@
         "reference": "III.6"
       }
     ],
-    "stsl": "По Сѡкратовѣ смрьти къ Еѵклидꙋ въ Мегарѫ иде съ инѣми Сѡкратици · таже въ Кѵринѫ къ Ѳеѡдорꙋ математикꙋ · оттѫдѹ въ Италию къ Филолаѹ и Еѵритꙋ питагорѣискꙑимъ · оттѫдѹ въ Єгѵптъ къ прорѡкомъ ·"
+    "stsl": "По Сѡкратовѣ смрьти къ Еѵклидꙋ въ Мегарѫ иде съ инѣми Сѡкратици · таже въ Кѵринѫ къ Ѳеѡдорꙋ математикꙋ · оттѫдѹ въ Италию къ Филолаѹ и Еѵритꙋ питагорѣискꙑимъ · оттѫдѹ въ Єгѵптъ къ прорѡкомъ ·",
+    "sr": "Po Sokratovoj smrti otišao u Megaru kod Eukleida sa drugim sokratovcima. Zatim u Kirenu kod matematičara Teodora, odatle u Italiju kod pitagorejaca Filolaја i Eurita, odatle u Egipat kod proroka."
   },
   {
     "type": "anecdote",
@@ -49,7 +52,8 @@
         "reference": "III.19–20"
       }
     ],
-    "stsl": "На Єгинѣ ꙗкоже рабъ проданъ бꙑстъ · Искѹпи же его Аникеридъ Кѵринѣанинъ за двадесѧть минъ · Єгда же абиє сребро послаша · не приѩтъ его ·"
+    "stsl": "На Єгинѣ ꙗкоже рабъ проданъ бꙑстъ · Искѹпи же его Аникеридъ Кѵринѣанинъ за двадесѧть минъ · Єгда же абиє сребро послаша · не приѩтъ его ·",
+    "sr": "Na Egini prodat kao rob. Otkupio ga Kirenejac Anikerid za dvadeset mina. Kada su odmah poslali novac, nije ga primio."
   },
   {
     "type": "bio",
@@ -62,7 +66,8 @@
         "reference": "III.7"
       }
     ],
-    "stsl": "Въ Академїи прѣбꙑваше · єсть же гимнасїи за градомъ · дѹбравьнъ · отъ нѣкоего витѧꙁѧ Хекадема нареченъ ·"
+    "stsl": "Въ Академїи прѣбꙑваше · єсть же гимнасїи за градомъ · дѹбравьнъ · отъ нѣкоего витѧꙁѧ Хекадема нареченъ ·",
+    "sr": "Boraveo u Akademiji. To je gradski gimnasijum bogat šumom, nazvan po nekom junaku Hekademu."
   },
   {
     "type": "bio",
@@ -75,7 +80,8 @@
         "reference": "III.23"
       }
     ],
-    "stsl": "Третїице къ Дїонѵсїѹ иде Дїона примирити · не ѹспѣвъ же въ отьчьство възврати сѧ ·"
+    "stsl": "Третїице къ Дїонѵсїѹ иде Дїона примирити · не ѹспѣвъ же въ отьчьство възврати сѧ ·",
+    "sr": "Treći put otišao kod Dionisija da pomiri Diona. Ne uspevši, vratio se u otadžbinu."
   },
   {
     "type": "bio",
@@ -88,7 +94,8 @@
         "reference": "III.2"
       }
     ],
-    "stsl": "Прѣстави сѧ лѣтъ осмьдесѧтъ и єдино имꙑ · погребенъ въ Академїи ·"
+    "stsl": "Прѣстави сѧ лѣтъ осмьдесѧтъ и єдино имꙑ · погребенъ въ Академїи ·",
+    "sr": "Umro u osamdeset prvoj godini. Sahranjen u Akademiji."
   },
   {
     "type": "quote",
@@ -100,7 +107,8 @@
         "reference": "III.9–10"
       }
     ],
-    "stsl": "Чѹвьствьно никогда же тождь по каковьствѹ ни множьствѹ не прѣбꙑваєтъ · нъ присно течетъ и прѣмѣнѧєтъ сѧ · Симъ бꙑтїє бꙑваєтъ · сѫщее же никогда же не бꙑваєтъ ·"
+    "stsl": "Чѹвьствьно никогда же тождь по каковьствѹ ни множьствѹ не прѣбꙑваєтъ · нъ присно течетъ и прѣмѣнѧєтъ сѧ · Симъ бꙑтїє бꙑваєтъ · сѫщее же никогда же не бꙑваєтъ ·",
+    "sr": "Čulno je ono što nikada ne ostaje isto po kakvoći ni količini, već uvek teče i menja se. Ovome biće postaje, ali suština mu nikada ne pripada."
   },
   {
     "type": "quote",
@@ -112,7 +120,8 @@
         "reference": "III.10"
       }
     ],
-    "stsl": "Поимно єже отъ него ничто же не отходитъ ни приходитъ · То єсть естество вѣчьнꙑихъ · єже равьно и тожде присно бꙑти ·"
+    "stsl": "Поимно єже отъ него ничто же не отходитъ ни приходитъ · То єсть естество вѣчьнꙑихъ · єже равьно и тожде присно бꙑти ·",
+    "sr": "Umno je ono od čega ništa ne odlazi niti dolazi. To je priroda večnih stvari, kojoj pripada da bude uvek ista i sebi jednaka."
   },
   {
     "type": "quote",
@@ -124,7 +133,8 @@
         "reference": "III.12–13"
       }
     ],
-    "stsl": "Вьсѧкъ видъ вѣченъ · поимъ · безстрастенъ · Того ради въ естествѣ видꙑ стоѧтъ ꙗкоже первообраꙁи · прочаꙗ же симъ подобѧть сѧ ꙗкоже подобиꙗ ·"
+    "stsl": "Вьсѧкъ видъ вѣченъ · поимъ · безстрастенъ · Того ради въ естествѣ видꙑ стоѧтъ ꙗкоже первообраꙁи · прочаꙗ же симъ подобѧть сѧ ꙗкоже подобиꙗ ·",
+    "sr": "Svaki oblik je večan, umna misao i nesklona patnji. Zato kaže da oblici u prirodi stoje kao uzori, a ostalo im je slično kao odrazi."
   },
   {
     "type": "quote",
@@ -136,7 +146,8 @@
         "reference": "III.15"
       }
     ],
-    "stsl": "Аште памѧть єсть · видꙑ въ сѫщихъ быти · памѧть бо о покоищемь нѣчесомь и прѣбꙑваѭщемь єсть · прѣбꙑваєтъ же ничто же ино · развѣ видꙑ ·"
+    "stsl": "Аште памѧть єсть · видꙑ въ сѫщихъ быти · памѧть бо о покоищемь нѣчесомь и прѣбꙑваѭщемь єсть · прѣбꙑваєтъ же ничто же ино · развѣ видꙑ ·",
+    "sr": "Ako postoji sećanje, oblici moraju biti među bićima, jer je sećanje o nečemu što miruje i ostaje, a ništa drugo ne ostaje osim oblika."
   },
   {
     "type": "quote",
@@ -148,7 +159,8 @@
         "reference": "III.15"
       }
     ],
-    "stsl": "Нꙑнѣ же животнаꙗ помьнѧтъ подобиꙗ и ꙗковаꙗ имъ пища · показѹѭще ꙗко вьсѣмъ животьнꙑмъ вродьно єсть видовъ ꙁрѣніє ·"
+    "stsl": "Нꙑнѣ же животнаꙗ помьнѧтъ подобиꙗ и ꙗковаꙗ имъ пища · показѹѭще ꙗко вьсѣмъ животьнꙑмъ вродьно єсть видовъ ꙁрѣніє ·",
+    "sr": "Životinje sada pamte sličnost i kakva im je hrana, pokazujući time da je svim životinjama urođeno posmatranje oblika."
   },
   {
     "type": "anecdote",
@@ -161,7 +173,8 @@
         "reference": "III.18–19"
       }
     ],
-    "stsl": "О мѫчительствѣ разговараѩ и глаголѧ ꙗко власть не благо єсть · єже томꙋ єдиномꙋ пользѹєтъ · аште и добродѣтелїѭ не прѣвъсходитъ · раꙁгнѣва его · Гнѣвомь же речетъ · Твоꙗ словеса старьчьскаꙗ сѫтъ · Онъ же речетъ · А твоꙗ мѫчительскаꙗ · И прѣдастъ его Полидꙋ Лакедемонѧнинꙋ да продастъ ·"
+    "stsl": "О мѫчительствѣ разговараѩ и глаголѧ ꙗко власть не благо єсть · єже томꙋ єдиномꙋ пользѹєтъ · аште и добродѣтелїѭ не прѣвъсходитъ · раꙁгнѣва его · Гнѣвомь же речетъ · Твоꙗ словеса старьчьскаꙗ сѫтъ · Онъ же речетъ · А твоꙗ мѫчительскаꙗ · И прѣдастъ его Полидꙋ Лакедемонѧнинꙋ да продастъ ·",
+    "sr": "Razgovarajući o tiraniji i tvrdeći da vlast nije dobra ako samo tiraninu koristi, ukoliko se i vrlinom ne odlikuje, uvredeo ga je. Razbesnivši se reče: Tvoje reči mirišu na starca. Ovaj odgovori: A tvoje govore da si tiranin. I predade ga Lakađanininu Polidu da ga proda."
   },
   {
     "type": "quote",
@@ -173,7 +186,8 @@
         "reference": "III.21"
       }
     ],
-    "stsl": "Не имамъ толико праꙁдьства · да Дїонѵсїѧ въ помꙑслѣхъ дрьжѫ ·"
+    "stsl": "Не имамъ толико праꙁдьства · да Дїонѵсїѧ въ помꙑслѣхъ дрьжѫ ·",
+    "sr": "Nemam toliko slobodnog vremena da bih Dionisija pamtio."
   },
   {
     "type": "quote",
@@ -185,7 +199,8 @@
         "reference": "III.24"
       }
     ],
-    "stsl": "И єгда ꙁа отьчьство воєвахъ · бѣдꙑ подъѩхъ · и нꙑнѣ ꙁа подобаѭщее дрѹгꙋ ради подъимѫ ·"
+    "stsl": "И єгда ꙁа отьчьство воєвахъ · бѣдꙑ подъѩхъ · и нꙑнѣ ꙁа подобаѭщее дрѹгꙋ ради подъимѫ ·",
+    "sr": "I kada sam za otadžbinu ratovao, podnosio sam opasnosti, i sada ću ih podnositi zbog dužnosti prema prijatelju."
   },
   {
     "type": "quote",
@@ -197,7 +212,8 @@
         "reference": "III.33"
       }
     ],
-    "stsl": "Мѫжь ꙁлато обрѣтъ · вьрвь остави · Иже же ꙁлата не обрѣте · єже остави · вьрвь обрѣтъ и ѹдави сѧ ·"
+    "stsl": "Мѫжь ꙁлато обрѣтъ · вьрвь остави · Иже же ꙁлата не обрѣте · єже остави · вьрвь обрѣтъ и ѹдави сѧ ·",
+    "sr": "Čovek našavši zlato ostavio omču. A onaj koji nije našao zlato što je ostavio, vezao omču koju je našao i obesio se."
   },
   {
     "type": "anecdote",
@@ -210,7 +226,8 @@
         "reference": "III.39"
       }
     ],
-    "stsl": "Билъ быхъ тѧ · аште не гнѣвивъ быхъ ·"
+    "stsl": "Билъ быхъ тѧ · аште не гнѣвивъ быхъ ·",
+    "sr": "Išibao bih te da nisam ljut."
   },
   {
     "type": "reported",
@@ -222,7 +239,8 @@
         "reference": "III.39"
       }
     ],
-    "stsl": "Пїѧнымъ въ ꙁрьцало ꙁрѣти подобаєтъ · тако сего срама отстѫпити ·"
+    "stsl": "Пїѧнымъ въ ꙁрьцало ꙁрѣти подобаєтъ · тако сего срама отстѫпити ·",
+    "sr": "Pijanima savetovao da se gledaju u ogledalo, tako će odustati od takve ružnoće."
   },
   {
     "type": "quote",
@@ -234,7 +252,8 @@
         "reference": "III.39–40"
       }
     ],
-    "stsl": "Слаждьше вьсѣхъ слꙑшанїи истина єсть ·"
+    "stsl": "Слаждьше вьсѣхъ слꙑшанїи истина єсть ·",
+    "sr": "Od svega što se čuje najprijatnije je istina."
   },
   {
     "type": "quote",
@@ -246,7 +265,8 @@
         "reference": "III.40"
       }
     ],
-    "stsl": "Красьно истина · гостю · и прѣбꙑваѭще · нъ ѹвѣрити въ нѭ не легъко ·"
+    "stsl": "Красьно истина · гостю · и прѣбꙑваѭще · нъ ѹвѣрити въ нѭ не легъко ·",
+    "sr": "Istina je, gostine, lepa i trajna, ali je ljude teško uveriti u nju."
   },
   {
     "type": "quote",
@@ -258,7 +278,8 @@
         "reference": "III.40"
       }
     ],
-    "stsl": "Хотѣ памѧть о себѣ оставити · или въ дрѹꙁѣхъ или въ кънигахъ ·"
+    "stsl": "Хотѣ памѧть о себѣ оставити · или въ дрѹꙁѣхъ или въ кънигахъ ·",
+    "sr": "Hteo je ostaviti uspomenu o sebi ili kod prijatelja ili u knjigama."
   },
   {
     "type": "quote",
@@ -270,7 +291,8 @@
         "reference": "III.63"
       }
     ],
-    "stsl": "Мѫдрость наѹка божиихъ и чловѣчьскꙑихъ вещии · любомѫдрїє же желаніє мѫдрости ·"
+    "stsl": "Мѫдрость наѹка божиихъ и чловѣчьскꙑихъ вещии · любомѫдрїє же желаніє мѫдрости ·",
+    "sr": "Mudrost je nauka o božanskim i ljudskim stvarima, a mudroljublje težnja za mudrošću."
   },
   {
     "type": "quote",
@@ -282,7 +304,8 @@
         "reference": "III.64"
       }
     ],
-    "stsl": "Видъ и образъ · и родъ · и первообраꙁъ · и начѧло · и вина нарицаєтъ сѧ ·"
+    "stsl": "Видъ и образъ · и родъ · и первообраꙁъ · и начѧло · и вина нарицаєтъ сѧ ·",
+    "sr": "Oblik se naziva i vidom i rodom i uzorom i načelom i uzrokom."
   },
   {
     "type": "quote",
@@ -294,7 +317,8 @@
         "reference": "III.64"
       }
     ],
-    "stsl": "Чѹвьствьно и сѫщее нарицаєтъ и не сѫщее · Сѫщее ꙁанѣ рожденїє емꙋ · не сѫщее же ꙁанѣ непрѣстаннаꙗ прѣмѣна ·"
+    "stsl": "Чѹвьствьно и сѫщее нарицаєтъ и не сѫщее · Сѫщее ꙁанѣ рожденїє емꙋ · не сѫщее же ꙁанѣ непрѣстаннаꙗ прѣмѣна ·",
+    "sr": "Čulno naziva i bićem i nebićem: bićem zbog toga što postaje, nebićem zbog neprestane promene."
   },
   {
     "type": "quote",
@@ -306,7 +330,8 @@
         "reference": "III.67"
       }
     ],
-    "stsl": "Беꙁсмрьтьнѫ речетъ дѹшѫ · и въ многаꙗ тѣлеса прѣоблачаєтъ сѧ ·"
+    "stsl": "Беꙁсмрьтьнѫ речетъ дѹшѫ · и въ многаꙗ тѣлеса прѣоблачаєтъ сѧ ·",
+    "sr": "Besmrtnom nazivao dušu i da se oblači u mnoga tela."
   },
   {
     "type": "quote",
@@ -318,7 +343,8 @@
         "reference": "III.67"
       }
     ],
-    "stsl": "Начѧло имѣти числьно · тѣло же мѣрьно ·"
+    "stsl": "Начѧло имѣти числьно · тѣло же мѣрьно ·",
+    "sr": "Načelo imati brojevno, a telo geometrijsko."
   },
   {
     "type": "quote",
@@ -330,7 +356,8 @@
         "reference": "III.69"
       }
     ],
-    "stsl": "Два начѧла вьсѣмъ сѫть · Богъ и тварь · Его же и ѹмомъ нарицаєтъ и винꙋ · Тварь же беꙁобраꙁьна и беꙁмѣрьна · отъ неѩже съставꙑ бꙑваѭтъ ·"
+    "stsl": "Два начѧла вьсѣмъ сѫть · Богъ и тварь · Его же и ѹмомъ нарицаєтъ и винꙋ · Тварь же беꙁобраꙁьна и беꙁмѣрьна · отъ неѩже съставꙑ бꙑваѭтъ ·",
+    "sr": "Dva načela svemu postavio, boga i tvar, koga i umom naziva i uzrokom. Tvar je bezoblična i bezgranična, iz koje nastaju spojevi."
   },
   {
     "type": "quote",
@@ -342,7 +369,8 @@
         "reference": "III.70"
       }
     ],
-    "stsl": "Прѣмѣнити же сѧ сѫщьствꙋ симѹ въ четꙑри составꙑ · огнь · водѹ · въꙁдѹхъ · ꙁемлѭ · Єдинѫ же ꙁемлѭ непрѣмѣньнѫ бꙑти · мьнѧ винѫ равьности образовъ · иꙁъ нихъже съставлѧєтъ сѧ · Огнѧ бо составъ четворостѣньникъ · въꙁдѹха осмостѣньникъ · водꙑ двадесѧтостѣньникъ · ꙁемлѧ же коцка ·"
+    "stsl": "Прѣмѣнити же сѧ сѫщьствꙋ симѹ въ четꙑри составꙑ · огнь · водѹ · въꙁдѹхъ · ꙁемлѭ · Єдинѫ же ꙁемлѭ непрѣмѣньнѫ бꙑти · мьнѧ винѫ равьности образовъ · иꙁъ нихъже съставлѧєтъ сѧ · Огнѧ бо составъ четворостѣньникъ · въꙁдѹха осмостѣньникъ · водꙑ двадесѧтостѣньникъ · ꙁемлѧ же коцка ·",
+    "sr": "Pretvoriti se ovoj supstanci u četiri sastojka: vatru, vodu, vazduh, zemlju. Samo je zemlja nepromenjiva, verujući uzrokom razliku oblika od kojih se sastoji. Vatre sastojak je piramida, vazduha osmostrana, vode dvadesetostrana, zemlje kocka."
   },
   {
     "type": "quote",
@@ -354,7 +382,8 @@
         "reference": "III.71"
       }
     ],
-    "stsl": "Не раꙁдѣлени сѫтъ въ своꙗ мѣста · ꙗко крѫжьноє движеніє съжимаѩ и къ срѣдѣ съводѧ · малаꙗ съставлѧєтъ · великаꙗ же раꙁдѣлѧєтъ ·"
+    "stsl": "Не раꙁдѣлени сѫтъ въ своꙗ мѣста · ꙗко крѫжьноє движеніє съжимаѩ и къ срѣдѣ съводѧ · малаꙗ съставлѧєтъ · великаꙗ же раꙁдѣлѧєтъ ·",
+    "sr": "Nisu razdvojeni na svoja mesta, jer kružno kretanje stišćući i ka središtu sažimajući spaja mala, a razdvaja velika."
   },
   {
     "type": "quote",
@@ -366,7 +395,8 @@
         "reference": "III.71–72"
       }
     ],
-    "stsl": "Строи єдинъ бꙑти роженъ · понеже чѹвьственъ бꙑстъ · отъ Бога сътворенъ · Одѹшевленъ же бꙑти · ꙁанѣ лѹчьше одѹшевленоє беꙁдѹшьнаго · Окрѫглъ же ꙁанѣ и сътворивꙑи таковъ образъ имать ·"
+    "stsl": "Строи єдинъ бꙑти роженъ · понеже чѹвьственъ бꙑстъ · отъ Бога сътворенъ · Одѹшевленъ же бꙑти · ꙁанѣ лѹчьше одѹшевленоє беꙁдѹшьнаго · Окрѫглъ же ꙁанѣ и сътворивꙑи таковъ образъ имать ·",
+    "sr": "Svet je jedan rođen, pošto je i čulan, od boga stvoren. Oduševljen je, jer je oduševljeno bolje od bezdušnog. Sferoidan je, jer i stvoritelj takav oblik ima."
   },
   {
     "type": "quote",
@@ -378,7 +408,8 @@
         "reference": "III.73–74"
       }
     ],
-    "stsl": "Врѣмѧ же образъ вѣка бꙑти · И онъ присно прѣбꙑваєтъ · небесе же теченіє врѣмѧ єсть · Къ врѣмени же рожденїѹ слъньце и мѣсѧць и блѫдьнꙑꙗ ꙁвѣꙁдꙑ бꙑшѧ ·"
+    "stsl": "Врѣмѧ же образъ вѣка бꙑти · И онъ присно прѣбꙑваєтъ · небесе же теченіє врѣмѧ єсть · Къ врѣмени же рожденїѹ слъньце и мѣсѧць и блѫдьнꙑꙗ ꙁвѣꙁдꙑ бꙑшѧ ·",
+    "sr": "Vreme je slika večnosti. Ono uvek ostaje, a kretanje neba je vreme. Za nastanak vremena sunce i mesec i lutajuće zvezde postadoše."
   },
   {
     "type": "quote",
@@ -390,7 +421,8 @@
         "reference": "III.74"
       }
     ],
-    "stsl": "Да съврьшитъ сѧ строи · бꙑвъ подобенъ поимомꙋ животномꙋ · инѣхъ животьнꙑхъ естество бꙑти · Богꙑ же мьножае огньнꙑ · Три же родꙑ прочаꙗ · крилатое · водьное · пѣшее ·"
+    "stsl": "Да съврьшитъ сѧ строи · бꙑвъ подобенъ поимомꙋ животномꙋ · инѣхъ животьнꙑхъ естество бꙑти · Богꙑ же мьножае огньнꙑ · Три же родꙑ прочаꙗ · крилатое · водьное · пѣшее ·",
+    "sr": "Da se svet usavrši postajući sličan umnom živom biću, postade priroda drugih živih bića. Bogovi su većinom vatreni. Tri su roda ostalih: krilato, vodno, pešačko."
   },
   {
     "type": "quote",
@@ -402,7 +434,8 @@
         "reference": "III.75"
       }
     ],
-    "stsl": "Ꙁемлѧ старѣи небесьнꙑихъ боговъ · Сътворена же бꙑти да нощь и дьнь творитъ · На срѣдѣ же сѫщи · о срѣдѣ движетъ сѧ ·"
+    "stsl": "Ꙁемлѧ старѣи небесьнꙑихъ боговъ · Сътворена же бꙑти да нощь и дьнь творитъ · На срѣдѣ же сѫщи · о срѣдѣ движетъ сѧ ·",
+    "sr": "Zemlja je najstarija nebeskih bogova. Postala je kao tvorevina da čini noć i dan. Boravišući u središtu, kreće se oko središta."
   },
   {
     "type": "quote",
@@ -414,7 +447,8 @@
         "reference": "III.77"
       }
     ],
-    "stsl": "Мьнитъ же емꙋ Бога ꙗкоже и дѹшѫ беꙁтѣлесьна бꙑти · тако бо паче тлѣниꙗ и страданиꙗ не приємлѭща · Видꙑ же поставлѧєтъ · ꙗкоже прѣдъреченъ бꙑстъ · винꙑ нѣкꙑꙗ и начѧла · да таковꙑ бꙑваѭтъ естествомь сѫщаꙗ · каковꙑ сѫтъ ·"
+    "stsl": "Мьнитъ же емꙋ Бога ꙗкоже и дѹшѫ беꙁтѣлесьна бꙑти · тако бо паче тлѣниꙗ и страданиꙗ не приємлѭща · Видꙑ же поставлѧєтъ · ꙗкоже прѣдъреченъ бꙑстъ · винꙑ нѣкꙑꙗ и начѧла · да таковꙑ бꙑваѭтъ естествомь сѫщаꙗ · каковꙑ сѫтъ ·",
+    "sr": "Čini mu se da su bog kao i duša bestelesni, jer tako najviše ne prima propadanja i patnje. Oblike postavlja, kao što je već rečeno, kao neke uzroke i načela da bi takva bivala postojeća po prirodi, kakva i jesu."
   },
   {
     "type": "quote",
@@ -426,7 +460,8 @@
         "reference": "III.78"
       }
     ],
-    "stsl": "Коньць богоѹподоблениє єсть ·"
+    "stsl": "Коньць богоѹподоблениє єсть ·",
+    "sr": "Cilj je upodobljavanje bogu."
   },
   {
     "type": "quote",
@@ -438,7 +473,8 @@
         "reference": "III.78"
       }
     ],
-    "stsl": "Добродѣтель самодовъльна къ блаженьствꙋ · Орѫдїи же потрѣбовати тѣлесьнꙑихъ благъ · крѣпости · ꙁдравиꙗ · чѹвьства благаго · подобьнꙑихъ ·"
+    "stsl": "Добродѣтель самодовъльна къ блаженьствꙋ · Орѫдїи же потрѣбовати тѣлесьнꙑихъ благъ · крѣпости · ꙁдравиꙗ · чѹвьства благаго · подобьнꙑихъ ·",
+    "sr": "Vrlina je sama dovoljna za blaženstvo. Potrebna su joj oruđa u telesnim dobrima: snaga, zdravlje, dobro čulo i slično."
   },
   {
     "type": "quote",
@@ -450,7 +486,8 @@
         "reference": "III.78"
       }
     ],
-    "stsl": "Градьствовати же и женити сѧ · и законꙑ положенꙑꙗ не прѣстѫпати · Иꙁъ могѫщихъ же и ꙁаконꙑ дати отьчьствꙋ своемꙋ · аште не съвръшено неподобьнꙑ видитъ дѣла въ прѣмьножьствѣ людьстѣмь ·"
+    "stsl": "Градьствовати же и женити сѧ · и законꙑ положенꙑꙗ не прѣстѫпати · Иꙁъ могѫщихъ же и ꙁаконꙑ дати отьчьствꙋ своемꙋ · аште не съвръшено неподобьнꙑ видитъ дѣла въ прѣмьножьствѣ людьстѣмь ·",
+    "sr": "Baviti se državom i ženiti se i postavljene zakone ne prestupati. Od mogućeg i zakonodaviti svojoj otadžbini, ako ne vidi poslove potpuno neprihvatljivim u krajnjem razdoru naroda."
   },
   {
     "type": "quote",
@@ -462,7 +499,8 @@
         "reference": "III.79"
       }
     ],
-    "stsl": "Мꙑслъ красьнаго първъ показа · ѩже дрьжитъ сѧ хвалимаго · и словесьнаго · и пользьнаго · и подобаѭщаго · и съгласьнаго ·"
+    "stsl": "Мꙑслъ красьнаго първъ показа · ѩже дрьжитъ сѧ хвалимаго · и словесьнаго · и пользьнаго · и подобаѭщаго · и съгласьнаго ·",
+    "sr": "Pojam lepog prvi je pokazao kao ono što obuhvata hvalno i razumno i korisno i prikladno i skladno."
   },
   {
     "type": "quote",
@@ -474,7 +512,8 @@
         "reference": "III.79"
       }
     ],
-    "stsl": "Въ бесѣдахъ же правдѹ божии ꙁаконъ мьнѣше · ꙗко крѣпъчаиши наставити правдьнаꙗ творити · да не и по смрьти кꙗꙁнь приимѫтъ ꙁълотворѧщеи ·"
+    "stsl": "Въ бесѣдахъ же правдѹ божии ꙁаконъ мьнѣше · ꙗко крѣпъчаиши наставити правдьнаꙗ творити · да не и по смрьти кꙗꙁнь приимѫтъ ꙁълотворѧщеи ·",
+    "sr": "U razgovorima pravednost smatrao božjim zakonom kao najjaču da podstiče činjenje pravde, da ne bi ni posle smrti kaznu primili zločinci."
   },
   {
     "type": "quote",
@@ -486,7 +525,8 @@
         "reference": "III.80"
       }
     ],
-    "stsl": "Благъ сѫтъ · ова въ дѹши · ова въ тѣлѣ · ова вънѣ · Правда и раꙁборъ и мѫжьство и цѣломѫдриє въ дѹши · Красота же и благорастворениє и ꙁдравиє и крѣпость въ тѣлѣ · Дрѹꙁи же и отьчьства благоденьствиє и богатьство вънѣ ·"
+    "stsl": "Благъ сѫтъ · ова въ дѹши · ова въ тѣлѣ · ова вънѣ · Правда и раꙁборъ и мѫжьство и цѣломѫдриє въ дѹши · Красота же и благорастворениє и ꙁдравиє и крѣпость въ тѣлѣ · Дрѹꙁи же и отьчьства благоденьствиє и богатьство вънѣ ·",
+    "sr": "Dobra su: neka u duši, neka u telu, neka spolja. Pravednost i razboritost i hrabrost i uzdržljivost u duši. Lepota i dobra građa i zdravlje i snaga u telu. Prijatelji i blaženstvo otadžbine i bogatstvo spolja."
   },
   {
     "type": "quote",
@@ -498,7 +538,8 @@
         "reference": "III.83"
       }
     ],
-    "stsl": "Правдꙑ видꙑ три сѫтъ · Єдинъ къ богомъ · другꙑи къ чловѣкомъ · третїи къ отъшедъшимъ ·"
+    "stsl": "Правдꙑ видꙑ три сѫтъ · Єдинъ къ богомъ · другꙑи къ чловѣкомъ · третїи къ отъшедъшимъ ·",
+    "sr": "Pravednosti su tri vida. Prvi prema bogovima, drugi prema ljudima, treći prema preminulima."
   },
   {
     "type": "quote",
@@ -510,7 +551,8 @@
         "reference": "III.88–89"
       }
     ],
-    "stsl": "Раꙁдѣлѧєтъ сѧ благородьство на четꙑри видꙑ · Єдинъ · аште прѣдъци добри и благи и праведьни · таковꙑихъ родъ благороденъ нарицаємъ ·"
+    "stsl": "Раꙁдѣлѧєтъ сѧ благородьство на четꙑри видꙑ · Єдинъ · аште прѣдъци добри и благи и праведьни · таковꙑихъ родъ благороденъ нарицаємъ ·",
+    "sr": "Deli se plemenitost na četiri vida. Prvi, ako su preci dobri i plemeniti i pravedni, njihove potomke nazivamo plemenitima."
   },
   {
     "type": "quote",
@@ -522,7 +564,8 @@
         "reference": "III.89"
       }
     ],
-    "stsl": "Красота раꙁдѣлѧєтъ сѧ на три · Єдино бо єѩ хвалимо · ꙗкоже ꙁрѣниємь благообраꙁиє · Другоє же потрѣбьно ·"
+    "stsl": "Красота раꙁдѣлѧєтъ сѧ на три · Єдино бо єѩ хвалимо · ꙗкоже ꙁрѣниємь благообраꙁиє · Другоє же потрѣбьно ·",
+    "sr": "Lepota se deli na tri. Jedan njen vid je hvalan, kao što je vidljiva lepota. Drugi je koristan."
   },
   {
     "type": "quote",
@@ -534,7 +577,8 @@
         "reference": "III.95–96"
       }
     ],
-    "stsl": "Благотворениє раꙁдѣлѧєтъ сѧ на четꙑри · Или бо имѣниємь или тѣлесꙑ или наѹками или словесꙑ ·"
+    "stsl": "Благотворениє раꙁдѣлѧєтъ сѧ на четꙑри · Или бо имѣниємь или тѣлесꙑ или наѹками или словесꙑ ·",
+    "sr": "Dobročinstvo se deli na četiri: ili novcem ili telom ili znanjima ili rečima."
   },
   {
     "type": "quote",
@@ -546,7 +590,8 @@
         "reference": "III.96–97"
       }
     ],
-    "stsl": "Раꙁдѣлѧєтъ сѧ коньць дѣлъ на четꙑри видꙑ · Єдинъ по ꙁаконꙋ коньць дѣла приємлѭтъ · єгда ѹставъ бѫдетъ · и то ꙁаконъ съврьшитъ · По естествꙋ же коньць дѣла приємлѭтъ · дьнь и лѣто и врѣмена · По вѣштинѣ же коньць дѣла приємлѭтъ · ꙗкоже домостроениє ·"
+    "stsl": "Раꙁдѣлѧєтъ сѧ коньць дѣлъ на четꙑри видꙑ · Єдинъ по ꙁаконꙋ коньць дѣла приємлѭтъ · єгда ѹставъ бѫдетъ · и то ꙁаконъ съврьшитъ · По естествꙋ же коньць дѣла приємлѭтъ · дьнь и лѣто и врѣмена · По вѣштинѣ же коньць дѣла приємлѭтъ · ꙗкоже домостроениє ·",
+    "sr": "Deli se svršetak dela na četiri vida. Prvi: po zakonu svršetak dela prima, kada se donese odluka i to zakon izvrši. Po prirodi svršetak dela prima dan i godina i godišnja doba. Po veštini svršetak dela prima, kao što je graditeljstvo."
   },
   {
     "type": "quote",
@@ -558,7 +603,8 @@
         "reference": "III.98"
       }
     ],
-    "stsl": "Чловѣколюбиꙗ видꙑ три сѫтъ · Єдинъ чрѣꙁъ привѣтъ бꙑваѩи · ꙗкоже нѣции вьсѧкаго срѣтаѭщаго привѣтствꙋѭтъ и дѣсницѫ даѭще цѣлꙋѭтъ · Другꙑи видъ · єгда нѣкто помощьникъ вьсѧкомꙋ бѣдьствꙋѭщемꙋ ·"
+    "stsl": "Чловѣколюбиꙗ видꙑ три сѫтъ · Єдинъ чрѣꙁъ привѣтъ бꙑваѩи · ꙗкоже нѣции вьсѧкаго срѣтаѭщаго привѣтствꙋѭтъ и дѣсницѫ даѭще цѣлꙋѭтъ · Другꙑи видъ · єгда нѣкто помощьникъ вьсѧкомꙋ бѣдьствꙋѭщемꙋ ·",
+    "sr": "Čovekoljublja su tri vida. Prvi nastaje pozdravom, kao što neki pozdravljaju svakog susretnutog i desnicu pružajući ljube ga. Drugi vid, kada je neko pomoćnik svakom nevolniku."
   },
   {
     "type": "quote",
@@ -570,7 +616,8 @@
         "reference": "III.98–99"
       }
     ],
-    "stsl": "Блаженьство раꙁдѣлѧєтъ сѧ на пѧть чѧстии · Єдина бо єго благосъвѣтованиє · Другаꙗ благочѹвьствиє и ꙁдравиє тѣлесе · Третїꙗ благослѹчиє въ дѣлѣхъ · Четвръта благославиє въ чловѣцѣхъ · Пѧтаꙗ благостоꙗниє имѣниꙗ и потрѣбьнꙑихъ къ животꙋ ·"
+    "stsl": "Блаженьство раꙁдѣлѧєтъ сѧ на пѧть чѧстии · Єдина бо єго благосъвѣтованиє · Другаꙗ благочѹвьствиє и ꙁдравиє тѣлесе · Третїꙗ благослѹчиє въ дѣлѣхъ · Четвръта благославиє въ чловѣцѣхъ · Пѧтаꙗ благостоꙗниє имѣниꙗ и потрѣбьнꙑихъ къ животꙋ ·",
+    "sr": "Blaženstvo se deli na pet delova. Prvi je dobro savetovanje. Drugi dobro čulo i zdravlje tela. Treće je dobra sreća u delima. Četvrta dobra slava među ljudima. Peta dosta novca i potrebnog za život."
   },
   {
     "type": "quote",
@@ -582,7 +629,8 @@
         "reference": "III.101"
       }
     ],
-    "stsl": "Благо раꙁдѣлѧєтъ сѧ на четꙑри родꙑ · Єдинъ нарицаємъ добродѣтель имѫщаго особьно блага · Другое самѫ добродѣтель и правдѹ благо нарицаємъ · Третїє же ꙗкоже брашьна и ѹпражнениꙗ пригодьнаꙗ и врачьства ·"
+    "stsl": "Благо раꙁдѣлѧєтъ сѧ на четꙑри родꙑ · Єдинъ нарицаємъ добродѣтель имѫщаго особьно блага · Другое самѫ добродѣтель и правдѹ благо нарицаємъ · Третїє же ꙗкоже брашьна и ѹпражнениꙗ пригодьнаꙗ и врачьства ·",
+    "sr": "Dobro se deli na četiri roda. Prvi nazivamo onoga ko vrlinu ima kao pojedinačno dobro. Drugo samu vrlinu i pravednost dobrom nazivamo. Treće kao što su hrana i vežbe prikladne i lekovi."
   },
   {
     "type": "quote",
@@ -594,7 +642,8 @@
         "reference": "III.102"
       }
     ],
-    "stsl": "Сѫщихъ ова ꙁълаꙗ · ова благаꙗ · ова ни едино · Сихъ ꙁълаꙗ сиꙗ нарицаємъ · могѫщаꙗ врѣдити присно · ꙗкоже неѹмѣриє и беꙁоумиє и неправда и подобьнаꙗ · Симъ же противьнаꙗ благаꙗ сѫтъ ·"
+    "stsl": "Сѫщихъ ова ꙁълаꙗ · ова благаꙗ · ова ни едино · Сихъ ꙁълаꙗ сиꙗ нарицаємъ · могѫщаꙗ врѣдити присно · ꙗкоже неѹмѣриє и беꙁоумиє и неправда и подобьнаꙗ · Симъ же противьнаꙗ благаꙗ сѫтъ ·",
+    "sr": "Među bićima neka su zla, neka dobra, neka nijedno. Od ovih zla ova nazivamo: ona što mogu škoditi uvek, kao što su neumernost i bezumlje i nepravda i slično. Ovim suprotno dobra su."
   },
   {
     "type": "quote",
@@ -606,7 +655,8 @@
         "reference": "III.103"
       }
     ],
-    "stsl": "Благоꙁакониє раꙁдѣлѧєтъ сѧ на три · Єдино · аште бѫдѫтъ ꙁакони добри · благоꙁакониє нарицаємъ · Другоє · аште положенꙑмъ ꙁакономъ вѣрьни сѫтъ градьѧне · и се благоꙁакониє нарицаємъ · Третїє · аште не сѫщихъ ꙁаконъ по обꙑчаємъ и дѣломъ добрѣ градьствꙋѭтъ ·"
+    "stsl": "Благоꙁакониє раꙁдѣлѧєтъ сѧ на три · Єдино · аште бѫдѫтъ ꙁакони добри · благоꙁакониє нарицаємъ · Другоє · аште положенꙑмъ ꙁакономъ вѣрьни сѫтъ градьѧне · и се благоꙁакониє нарицаємъ · Третїє · аште не сѫщихъ ꙁаконъ по обꙑчаємъ и дѣломъ добрѣ градьствꙋѭтъ ·",
+    "sr": "Dobra zakonitost se deli na tri. Prvo, ako su zakoni dobri, dobrom zakonitošću nazivamo. Drugo, ako se državljani drže postavljenih zakona, i to nazivamo dobrom zakonitošću. Treće, ako bez zakona po običajima i delima dobro se upravljaju."
   },
   {
     "type": "quote",
@@ -618,7 +668,8 @@
         "reference": "III.105"
       }
     ],
-    "stsl": "Благъ родꙑ три сѫтъ · Ова бо имѣтиваꙗ · ова причѧстиваꙗ · ова бꙑтиваꙗ · Имѣтиваꙗ ѹбо сѫтъ · єлика вьꙁможьно имѣти · ꙗкоже правда и ꙁдравиє ·"
+    "stsl": "Благъ родꙑ три сѫтъ · Ова бо имѣтиваꙗ · ова причѧстиваꙗ · ова бꙑтиваꙗ · Имѣтиваꙗ ѹбо сѫтъ · єлика вьꙁможьно имѣти · ꙗкоже правда и ꙁдравиє ·",
+    "sr": "Dobara su tri roda: neka imajuća, neka pričesna, neka bivajuća. Imajuća su ona što je moguće imati, kao što su pravednost i zdravlje."
   },
   {
     "type": "quote",
@@ -630,7 +681,8 @@
         "reference": "III.108–109"
       }
     ],
-    "stsl": "Сѫщихъ ова по себѣ · ова къ нѣчесомꙋ глаголѭтъ сѧ · По себѣ ѹбо глаголемаꙗ сѫтъ · єлика въ сказꙋ ничесоже трѣбꙋѭтъ · Сиꙗ же бꙑшѧ би ꙗкоже чловѣкъ · конь · и прочаꙗ животьнаꙗ ·"
+    "stsl": "Сѫщихъ ова по себѣ · ова къ нѣчесомꙋ глаголѭтъ сѧ · По себѣ ѹбо глаголемаꙗ сѫтъ · єлика въ сказꙋ ничесоже трѣбꙋѭтъ · Сиꙗ же бꙑшѧ би ꙗкоже чловѣкъ · конь · и прочаꙗ животьнаꙗ ·",
+    "sr": "Među bićima neka su po sebi, neka u odnosu prema nečem govore se. Po sebi govorena su ona što u objašnjenju ničega ne traže. To bi bilo kao što je čovek, konj i ostale životinje."
   },
   {
     "type": "quote",
@@ -642,7 +694,8 @@
         "reference": "III.40"
       }
     ],
-    "stsl": "Красьна истина · гостю · и прѣбꙑваѭщи · Подобаєтъ же не легъко ѹвѣрѧти ·"
+    "stsl": "Красьна истина · гостю · и прѣбꙑваѭщи · Подобаєтъ же не легъко ѹвѣрѧти ·",
+    "sr": "Lepa je istina, gostine, i trajna. Čini se da nije lako uveriti."
   },
   {
     "type": "anecdote",
@@ -655,7 +708,8 @@
         "reference": "III.2"
       }
     ],
-    "stsl": "Бꙑстъ въ Атинахъ словесе · ꙗко красьнѫ сѫщѫ Периктїонѫ силоваше Арістонъ и не възможе · Преставъшꙋ же отъ силꙑ видѣ Аполлона обраꙁъ · Оттѫдѹ чистѫ брака съхрани до рождениꙗ ·"
+    "stsl": "Бꙑстъ въ Атинахъ словесе · ꙗко красьнѫ сѫщѫ Периктїонѫ силоваше Арістонъ и не възможе · Преставъшꙋ же отъ силꙑ видѣ Аполлона обраꙁъ · Оттѫдѹ чистѫ брака съхрани до рождениꙗ ·",
+    "sr": "Postojala je u Atini priča kako je Ariston pokušavao silovati lepu Periktione i nije uspeo. Prestajući od sile video je Apolonov lik. Otuda je čistu od braka sačuvao do porođaja."
   },
   {
     "type": "anecdote",
@@ -668,7 +722,8 @@
         "reference": "III.37"
       }
     ],
-    "stsl": "Сего єдиного остати Платонꙋ Фаворинъ нѣкако глаголетъ · чьтѫщꙋ О дѹши · прочимъ же вьсѣмъ въстати ·"
+    "stsl": "Сего єдиного остати Платонꙋ Фаворинъ нѣкако глаголетъ · чьтѫщꙋ О дѹши · прочимъ же вьсѣмъ въстати ·",
+    "sr": "Samo je ovaj ostao kod Platona, kako negde kaže Favorin, kada je čitao O duši, a ostali su svi ustali."
   },
   {
     "type": "works",
@@ -680,7 +735,8 @@
         "reference": "III.37"
       }
     ],
-    "stsl": "Еѵфорїонъ же и Панетїе рекошѧ многажды прѣписано обрѣтено бꙑти начѧло Дрьжавꙑ · Нѣции же глаголѭтъ ꙗко Филиппъ Опѹнтьскꙑи Ꙁаконꙑ его прѣписа · сѫщꙗ на воску ·"
+    "stsl": "Еѵфорїонъ же и Панетїе рекошѧ многажды прѣписано обрѣтено бꙑти начѧло Дрьжавꙑ · Нѣции же глаголѭтъ ꙗко Филиппъ Опѹнтьскꙑи Ꙁаконꙑ его прѣписа · сѫщꙗ на воску ·",
+    "sr": "Euforion i Panejcije kažu da je mnogo puta prepisano pronađeno početak Države. Neki kažu da je Filip iz Opunta njegove Zakone prepisao sa voska."
   },
   {
     "type": "works",
@@ -692,7 +748,8 @@
         "reference": "III.38"
       }
     ],
-    "stsl": "Речь же пръвое написати Федра ·"
+    "stsl": "Речь же пръвое написати Федра ·",
+    "sr": "Priča je da je prvi napisao Fedra."
   },
   {
     "type": "anecdote",
@@ -705,7 +762,8 @@
         "reference": "III.5"
       }
     ],
-    "stsl": "Сѡкратъ въ сънѣ видѣ лебѧдѧ птѣнѧ на колѣнѹ имѣꙗ · иже абиє перие пріимъ възлетѣ сладъко въꙁгласивъ · И по дьни Платона къ немꙋ привести · Онъ же рече се бꙑти птица ·"
+    "stsl": "Сѡкратъ въ сънѣ видѣ лебѧдѧ птѣнѧ на колѣнѹ имѣꙗ · иже абиє перие пріимъ възлетѣ сладъко въꙁгласивъ · И по дьни Платона къ немꙋ привести · Онъ же рече се бꙑти птица ·",
+    "sr": "Sokrat u snu video mladog labuda na kolenima, koji je odmah operivši se uzleteo slatko zazvučavši. I po danu Platon mu bio doveden. On reče da je to ptica."
   },
   {
     "type": "bio",
@@ -718,7 +776,8 @@
         "reference": "III.18"
       }
     ],
-    "stsl": "Платонъ и Софрона мимописьца кънигꙑ неꙁанимаемꙑꙗ první въ Атинꙑ принесе · и нравꙑ по нихъ изобраꙁи · Ꙗже и обрѣтени бꙑшѧ подъ главоѭ его ·"
+    "stsl": "Платонъ и Софрона мимописьца кънигꙑ неꙁанимаемꙑꙗ první въ Атинꙑ принесе · и нравꙑ по нихъ изобраꙁи · Ꙗже и обрѣтени бꙑшѧ подъ главоѭ его ·",
+    "sr": "Platon je i Sofronove mimografa knjige zanemarene prvi u Atinu doneo i likove po njima oblikovao. One su pronađene pod njegovom glavom."
   },
   {
     "type": "anecdote",
@@ -731,7 +790,8 @@
         "reference": "III.5–6"
       }
     ],
-    "stsl": "Хотѧ състѧꙁати сѧ трагедиєѭ прѣдъ Дїонѵсїискимъ позориштемь · Сѡкрата ѹслꙑшавъ · съжеже поеꙁниꙗ рекъ · Хефесте · прїиди сѣмо · Платонъ нꙑнѣ тебе трѣбѹєтъ · Оттѫдѹ двадесѧть лѣтъ сꙑ бꙑвъ · слꙋшаше Сѡкрата ·"
+    "stsl": "Хотѧ състѧꙁати сѧ трагедиєѭ прѣдъ Дїонѵсїискимъ позориштемь · Сѡкрата ѹслꙑшавъ · съжеже поеꙁниꙗ рекъ · Хефесте · прїиди сѣмо · Платонъ нꙑнѣ тебе трѣбѹєтъ · Оттѫдѹ двадесѧть лѣтъ сꙑ бꙑвъ · слꙋшаше Сѡкрата ·",
+    "sr": "Nameravajući da se takmiči tragedijom pred Dionisovim pozorištem, čuvši Sokrata spali pesme rekavši: Hefeste, dođi ovamo, Platon sada tebe treba. Odatle dvadeset godina bivši slušao je Sokrata."
   },
   {
     "type": "bio",
@@ -744,7 +804,8 @@
         "reference": "III.6–7"
       }
     ],
-    "stsl": "Оногда отъшедъша прилѣꙁе Кратѵлꙋ Хераклитовꙋ и Хермогенꙋ Парменидова любомѫдрѹѭщꙋ · Таже въ Мегарѫ къ Еѵклидꙋ съ инѣми Сѡкратици отъиде · Потомъ въ Кѵринѫ къ Ѳеѡдорꙋ математикꙋ · Оттѫдѹ въ Италїѭ къ питагорѣискꙑмъ Филолаѹ и Еѵритꙋ · Оттѫдѹ въ Єгѵптъ къ прорѡкомъ · Идеже глаголѭтъ тамо болѧ отъ жрѣць морьскꙑмь врачеваниємь исцѣленꙋ бꙑти · Оттѫдѹ рещи · Море омꙑваєтъ вьсѧ чловѣчьскаꙗ ꙁълаꙗ ·"
+    "stsl": "Оногда отъшедъша прилѣꙁе Кратѵлꙋ Хераклитовꙋ и Хермогенꙋ Парменидова любомѫдрѹѭщꙋ · Таже въ Мегарѫ къ Еѵклидꙋ съ инѣми Сѡкратици отъиде · Потомъ въ Кѵринѫ къ Ѳеѡдорꙋ математикꙋ · Оттѫдѹ въ Италїѭ къ питагорѣискꙑмъ Филолаѹ и Еѵритꙋ · Оттѫдѹ въ Єгѵптъ къ прорѡкомъ · Идеже глаголѭтъ тамо болѧ отъ жрѣць морьскꙑмь врачеваниємь исцѣленꙋ бꙑти · Оттѫдѹ рещи · Море омꙑваєтъ вьсѧ чловѣчьскаꙗ ꙁълаꙗ ·",
+    "sr": "Pošto je ovaj otišao, prišao je Kratilu Heraklitovcu i Hermogenu što filozofira po Parmenidu. Zatim je u Megaru kod Eukleida sa drugim sokratovcima otišao. Potom u Kirenu kod matematičara Teodora. Odatle u Italiju kod pitagorejaca Filolaja i Eurita. Odatle u Egipat kod proroka. Gde kažu da je onaj bolestan bio od sveštenika oslobođen lekovanjem morem. Odatle reći: More ispira sva ljudska zla."
   },
   {
     "type": "bio",
@@ -757,7 +818,8 @@
         "reference": "III.21"
       }
     ],
-    "stsl": "Вторицеѭ къ младъшѹмꙋ Дїонѵсїѹ приде · просѧ ꙁемлѭ и чловѣкꙑ · иже по дрьжавѣ его живѫще бꙑшѧ би · Онъ же обѣщавъ не сътвори · Нѣции же глаголѭтъ и въ бѣдѣ бꙑти · ꙗко Дїона и Ѳеѡдотѹ наѹчаше къ острова свободѣ · Єгда и Архѵта питагорѣискꙑи писавъ къ Дїонѵсїѹ проси и съпасе въ Атинꙑ ·"
+    "stsl": "Вторицеѭ къ младъшѹмꙋ Дїонѵсїѹ приде · просѧ ꙁемлѭ и чловѣкꙑ · иже по дрьжавѣ его живѫще бꙑшѧ би · Онъ же обѣщавъ не сътвори · Нѣции же глаголѭтъ и въ бѣдѣ бꙑти · ꙗко Дїона и Ѳеѡдотѹ наѹчаше къ острова свободѣ · Єгда и Архѵта питагорѣискꙑи писавъ къ Дїонѵсїѹ проси и съпасе въ Атинꙑ ·",
+    "sr": "Drugi put kod mlađeg Dionisija došao je tražeći zemlju i ljude koji bi po njegovoj državi živeli. Onaj obećavši nije učinio. Neki kažu da je i bio u opasnosti kao što je Diona i Teodotu nagovarao na slobodu ostrva. Kada i Arhita pitagorejac pišući Dionisiju zamolio ga je i spasao u Atinu."
   },
   {
     "type": "works",
@@ -769,7 +831,8 @@
         "reference": "III.24–25"
       }
     ],
-    "stsl": "Разговорьство první ввести Платонъ · ꙗкоже Фаворинъ глаголетъ въ Различьнѣи повѣсти ·"
+    "stsl": "Разговорьство první ввести Платонъ · ꙗкоже Фаворинъ глаголетъ въ Различьнѣи повѣсти ·",
+    "sr": "Razgovorstvo prvi je uveo Platon, kao što Favorin kaže u Raznolikoj istoriji."
   },
   {
     "type": "anecdote",
@@ -782,7 +845,8 @@
         "reference": "III.34"
       }
     ],
-    "stsl": "Подобаєтъ же и Ѯенофонтъ къ немꙋ не благонамѣренъ имѣти сѧ · Ꙗкоже състѧꙁаѭщи сѧ подобьнаꙗ написашѧ · Пиръ · Сѡкрата защитѫ · нравьнꙑꙗ воспоминаниꙗ ·"
+    "stsl": "Подобаєтъ же и Ѯенофонтъ къ немꙋ не благонамѣренъ имѣти сѧ · Ꙗкоже състѧꙁаѭщи сѧ подобьнаꙗ написашѧ · Пиръ · Сѡкрата защитѫ · нравьнꙑꙗ воспоминаниꙗ ·",
+    "sr": "Izgleda da je i Ksenofont prema njemu bio neprijateljski raspoložen. Kao što se takmiče napisali su slično: Gozbu, Sokratovu odbranu, moralna sećanja."
   },
   {
     "type": "anecdote",
@@ -795,7 +859,8 @@
         "reference": "III.35"
       }
     ],
-    "stsl": "Глаголетъ сѧ же и Антїсѳенъ хотѧ чести нѣчто отъ написаньнꙑихъ емꙋ · призъва и присѫтьствовати · И въпрошенꙋ что хощетъ чести · рече ꙗко о томъ не бꙑти противословиѭ · Рекъшꙋ же · Како ѹбо тꙑ о семь пишеши ·"
+    "stsl": "Глаголетъ сѧ же и Антїсѳенъ хотѧ чести нѣчто отъ написаньнꙑихъ емꙋ · призъва и присѫтьствовати · И въпрошенꙋ что хощетъ чести · рече ꙗко о томъ не бꙑти противословиѭ · Рекъшꙋ же · Како ѹбо тꙑ о семь пишеши ·",
+    "sr": "Kaže se da je i Antisten nameravajući da čita nešto od napisanog kod njega pozvao ga da prisustvuje. I upitanom šta namerava da čita, reče da o tome da ne postoji protivrečenje. Rekavši: Kako dakle ti o tome pišeš."
   },
   {
     "type": "bio",
@@ -808,7 +873,8 @@
         "reference": "III.35"
       }
     ],
-    "stsl": "Глаголѭтъ же и Сѡкрата слꙑшавъша Лѵсїида чьтѫща Платона · Хераклие рещи · колико мене младꙑи ложьно глаголетъ ·"
+    "stsl": "Глаголѭтъ же и Сѡкрата слꙑшавъша Лѵсїида чьтѫща Платона · Хераклие рещи · колико мене младꙑи ложьно глаголетъ ·",
+    "sr": "Kažu da je i Sokrat čuvši Lizida kako Platon čita rekao: Po Herakle, koliko mladić laže o meni."
   },
   {
     "type": "reported",
@@ -821,7 +887,8 @@
         "reference": "III.38"
       }
     ],
-    "stsl": "Платонъ ѹбо глаголетъ видѣвъ нѣкоего коцкаѭща ѹкорити · Рекъшꙋ же ꙗко о малѣхъ · Нъ обꙑчаи рече не малъ ·"
+    "stsl": "Платонъ ѹбо глаголетъ видѣвъ нѣкоего коцкаѭща ѹкорити · Рекъшꙋ же ꙗко о малѣхъ · Нъ обꙑчаи рече не малъ ·",
+    "sr": "Platon, kaže se, videći nekog kako kocka, ukorio ga. Rekavšem da je o malim, Navika reče nije mala."
   },
   {
     "type": "anecdote",
@@ -834,7 +901,8 @@
         "reference": "III.38"
       }
     ],
-    "stsl": "Вънидъшꙋ некогда Ѯенократꙋ рече бити отрока · самъ бо не можетъ ꙁанѣ гнѣвивъ ·"
+    "stsl": "Вънидъшꙋ некогда Ѯенократꙋ рече бити отрока · самъ бо не можетъ ꙁанѣ гнѣвивъ ·",
+    "sr": "Ušavši nekad Ksenokrat, rekao mu je da tuče dečaka, sam jer ne može zbog toga što je ljut."
   },
   {
     "type": "anecdote",
@@ -847,7 +915,8 @@
         "reference": "III.39"
       }
     ],
-    "stsl": "На конь сѣдъ · абиє съниде рекъ опасати сѧ да не коньскꙑмъ величиємь приимет сѧ ·"
+    "stsl": "На конь сѣдъ · абиє съниде рекъ опасати сѧ да не коньскꙑмъ величиємь приимет сѧ ·",
+    "sr": "Sevši na konja, odmah je sišao rekavši da se plaši da ga ne obuzme konjska oholost."
   },
   {
     "type": "bio",
@@ -860,7 +929,8 @@
         "reference": "III.4"
       }
     ],
-    "stsl": "Єдинъ прѣдъ вьсѣми въ Атинахъ дрьꙁнѫвъ ꙁа Хаврїѧ воєводѹ сѫдима · Єгда же въхождаше съ нимъ въ сѫдиште нѣкꙑмъ вхожениємь · рече нѣкто отъ ложесловѧщихъ Арістогитонъ · Не вѣси ли ꙗко юже Сѡкратовѹ кѹкѹтѹ испилъ еси · Онъ же · Ꙁа отьчьство бѣдꙑ подъѩхъ волѧ · ꙁа дрѹга же подъимѫ ·"
+    "stsl": "Єдинъ прѣдъ вьсѣми въ Атинахъ дрьꙁнѫвъ ꙁа Хаврїѧ воєводѹ сѫдима · Єгда же въхождаше съ нимъ въ сѫдиште нѣкꙑмъ вхожениємь · рече нѣкто отъ ложесловѧщихъ Арістогитонъ · Не вѣси ли ꙗко юже Сѡкратовѹ кѹкѹтѹ испилъ еси · Онъ же · Ꙁа отьчьство бѣдꙑ подъѩхъ волѧ · ꙁа дрѹга же подъимѫ ·",
+    "sr": "Jedini među svima u Atini usuđujući se za vojskovođu Habrija suđenog. Kada je ulazio s njim u sudnicu nekim ulazom, reče neki od sicofanata Aristogiton: Ne znaš li da si već popio sokratovsku kukutu? Onaj: Za otadžbinu opasnosti prenosio sam voljno, za prijatelja ću podneti."
   },
   {
     "type": "bio",
@@ -873,7 +943,8 @@
         "reference": "III.5"
       }
     ],
-    "stsl": "Прѣстави же · ꙗкоже Херміппъ глаголетъ · на гостьбѣ трапезоваꙗ · първое лѣто осмꙑѩ и съто олѵмпїадꙑ · проживъ лѣто єдино надъ осмьдесѧтиѭ ·"
+    "stsl": "Прѣстави же · ꙗкоже Херміппъ глаголетъ · на гостьбѣ трапезоваꙗ · първое лѣто осмꙑѩ и съто олѵмпїадꙑ · проживъ лѣто єдино надъ осмьдесѧтиѭ ·",
+    "sr": "Umro je, kako Hermip kaže, na gozbi trapezirajući, u prvoj godini sto osme olimpijade, proživevši godinu preko osamdeset."
   },
   {
     "type": "anecdote",
@@ -886,7 +957,8 @@
         "reference": "III.23–24"
       }
     ],
-    "stsl": "Прѣстави же · ꙗкоже Херміппъ глаголетъ · на гостьбѣ трапезоваꙗ · първое лѣто осмꙑѩ и съто олѵмпїадꙑ · проживъ лѣто єдино надъ осмьдесѧтиѭ ·"
+    "stsl": "Прѣстави же · ꙗкоже Херміппъ глаголетъ · на гостьбѣ трапезоваꙗ · първое лѣто осмꙑѩ и съто олѵмпїадꙑ · проживъ лѣто єдино надъ осмьдесѧтиѭ ·",
+    "sr": "Umro je, kako Hermip kaže, na gozbi trapezirajući, u prvoj godini sto osme olimpijade, proživevši godinu preko osamdeset."
   },
   {
     "type": "anecdote",
@@ -899,6 +971,7 @@
         "reference": "III.2–3"
       }
     ],
-    "stsl": "Прѣстави же · ꙗкоже Херміппъ глаголетъ · на гостьбѣ трапезоваꙗ · първое лѣто осмꙑѩ и съто олѵмпїадꙑ · проживъ лѣто єдино надъ осмьдесѧтиѭ ·"
+    "stsl": "Прѣстави же · ꙗкоже Херміппъ глаголетъ · на гостьбѣ трапезоваꙗ · първое лѣто осмꙑѩ и съто олѵмпїадꙑ · проживъ лѣто єдино надъ осмьдесѧтиѭ ·",
+    "sr": "Umro je, kako Hermip kaže, na gozbi trapezirajući, u prvoj godini sto osme olimpijade, proživevši godinu preko osamdeset."
   }
 ]
