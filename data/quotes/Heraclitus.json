@@ -15,7 +15,7 @@
   },
   {
     "type": "bio",
-    "year": -530,
+    "year": -519,
     "stsl": "Власть прѣдаде братѹ ·",
     "sr": "Vlast predade bratu.",
     "originalText": "Τὴν βασιλείαν παρῆκε τῷ ἀδελφῷ.",
@@ -24,6 +24,20 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.1"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -520,
+    "author": "Heraclitus",
+    "stsl": "Бꙑсть дивенъ отъ отърочѧства · млаꙁъ бо глаголѧше ничесоже вѣдѣти · съвръшенъ же бꙑвъ вьсѧ поꙁнати ·",
+    "sr": "Od detinjstva je bio izuzetan; kao mladić govorio je da ništa ne zna, a kada je sazreo, da je sve spoznao.",
+    "originalText": "Γέγονε δὲ θαυμάσιος ἐκ παίδων, ὅτε καὶ νέος ὢν ἔφασκε μηδὲν εἰδέναι, τέλειος μέντοι γενόμενος πάντα ἐγνωκέναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.5"
       }
     ]
   },
@@ -304,22 +318,9 @@
     ]
   },
   {
-    "type": "reported",
-    "author": "Heraclitus",
-    "stsl": "Бꙑсть дивенъ отъ отърочѧства · млаꙁъ бо глаголѧше ничесоже вѣдѣти · съвръшенъ же бꙑвъ вьсѧ поꙁнати ·",
-    "sr": "Od detinjstva je bio izuzetan; kao mladić govorio je da ništa ne zna, a kada je sazreo, da je sve spoznao.",
-    "originalText": "Γέγονε δὲ θαυμάσιος ἐκ παίδων, ὅτε καὶ νέος ὢν ἔφασκε μηδὲν εἰδέναι, τέλειος μέντοι γενόμενος πάντα ἐγνωκέναι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.5"
-      }
-    ]
-  },
-  {
     "type": "quote",
-    "stsl": "Отъ огнѧ вьсѧ съставлѧѭть сѧ · и въ не разрѣшаѭть сѧ · Вьсѧ же по сѫдьбѣ бꙑваѭть · и протъивотъечєниємь слагаѭть сѧ · Дѹшь бо и бѣсовъ исплънена сѫть вьсѧ · Рєче же · ꙗко съльнце велико єсть ꙗкоже видимо ·",
-    "sr": "Iz vatre sve nastaje i u nju se razrešava. Sve se događa po sudbini i kroz suprotstavljanje se slažu bića. Sve je puno duša i demona. Rekao je i o svemu što nastaje u svetu i o svim strastima, kao i da je Sunce po veličini takvo kakvim se vidi.",
+    "stsl": "Отъ огнѧ вьсѧ съставлѧѭть сѧ · и въ не разрѣшаѭть сѧ · Вьсѧ же по сѫдьбѣ бꙑваѭть · и протъивотъечєниємь слагаѭть сѧ · Дѹшь бо и дѹховъ исплънена сѫть вьсѧ · Рєче же · ꙗко съльнце велико єсть ꙗкоже видимо ·",
+    "sr": "Iz vatre sve nastaje i u nju se razrešava. Sve se događa po sudbini i kroz suprotstavljanje se slažu bića. Sve je puno duša i duhova. Rekao je i o svemu što nastaje u svetu i o svim strastima, kao i da je Sunce po veličini takvo kakvim se vidi.",
     "originalText": "ἐκ πυρὸς τὰ πάντα συνεστάναι καὶ εἰς τοῦτο ἀναλύεσθαι· πάντα δὲ γίνεσθαι καθ εἱμαρμένην καὶ διὰ τῆς ἐναντιοδρομίας ἡρμόσθαι τὰ ὄντα· καὶ πάντα ψυχῶν εἶναι καὶ δαιμόνων πλήρη. εἴρηκε δὲ καὶ περὶ τῶν ἐν κόσμῳ συνισταμένων πάντων παθῶν, ὅτι τε ὁ ἥλιός ἐστι τὸ μέγεθος οἷος φαίνεται.",
     "author": "Heraclitus",
     "sources": [
@@ -451,8 +452,9 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "bio",
     "author": "Heraclitus",
+    "year": -475,
     "stsl": "Єрмипъ глаголєть · рєщи емѹ врачємъ · можеши ли чрѣва изнѹривъ водѹ исходити · Отъвръгъшимъ же сѧ · положити себе на съльнце · и велѣти отърокомъ гноємь покрꙑвати · Тако напрѧжено на вътории дьнь скончати сѧ · и погрєбънѹ бꙑти на торжишти ·",
     "sr": "Hermip kaže: rekao je lekarima može li creva isprazni i vodu izvuče. Pošto oni to odbiše, położio se na sunce i naredio deci da ga pokrivaju balegom. Tako napet, drugog dana preminuo, i bio sahranjen na trgu.",
     "originalText": "Ἕρμιππος δέ φησι λέγειν αὐτὸν τοῖς ἰατροῖς εἴ τις δύναται ἔντερα κεινώσας ὑγρὸν ἐξερᾶσαι· ἀπειπόντων δέ, θεῖναι αὑτὸν εἰς τὸν ἥλιον καὶ κελεύειν τοὺς παῖδας βολίτοις καταπλάττειν· οὕτω δὴ κατατεινόμενον δευτεραῖον τελευτῆσαι καὶ θαφθῆναι ἐν τῇ ἀγορᾷ.",
@@ -464,8 +466,9 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "bio",
     "author": "Heraclitus",
+    "year": -475,
     "stsl": "Неанѳъ Кузикиискъ глаголєть · не могъшѹ емѹ отъторгнѫти гноѩ · остати · и прѣображєниємь неразѹмѣнѹ псобраꙁнѹ стати ·",
     "sr": "Neanth Kyzikinos kaže: pošto nije mogao da odvoji balegu, ostao je, i zbog preobražaja bio nepoznat i postao hrana psima.",
     "originalText": "Νεάνθης δ' ὁ Κυζικηνός φησι μὴ δυνηθέντα αὐτὸν ἀποσπάσαι τὰ βόλιτα μεῖναι καὶ διὰ τὴν μεταβολὴν ἀγνοηθέντα κυνόβρωτον γενέσθαι.",

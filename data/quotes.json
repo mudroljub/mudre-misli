@@ -5889,22 +5889,6 @@
     ]
   },
   {
-    "_id": 656,
-    "type": "bio",
-    "year": -530,
-    "stsl": "Власть прѣдаде братѹ ·",
-    "sr": "Vlast predade bratu.",
-    "originalText": "Τὴν βασιλείαν παρῆκε τῷ ἀδελφῷ.",
-    "author": "Heraclitus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.1"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:3#Τὴν β"
-  },
-  {
     "_id": 945,
     "type": "bio",
     "year": -530,
@@ -5953,6 +5937,22 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:105#Ἤκουσ"
   },
   {
+    "_id": 374,
+    "type": "bio",
+    "year": -520,
+    "sr": "Umro je u Pisi, zagrlivši sina, pobjednika u Olimpiji, pesnicom, kako kaže Hermip.",
+    "stsl": "Умрѣ же · ꙗкоже глаголеть Єрмипъ · въ Писѣ · обьѧвъ сина своего Олимпіискаго побѣдителѧ пѫчьною.",
+    "originalText": "Ἐτελεύτησε δ', ὥς φησιν Ἕρμιππος, ἐν Πίσῃ, τὸν υἱὸν Ὀλυμπιονίκην ἀσπασάμενος πυγμῆς.",
+    "author": "Chilon of Sparta",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.72"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:450#Ἐτελε"
+  },
+  {
     "_id": 373,
     "type": "quote",
     "sr": "Naročito je postao slavan među Helenima zato što je unaprijed govorio o ostrvu Kitiri, Lakonskom. Pošto je shvatio njegovu prirodu, reče: \"Da se nije rodilo, ili, rođeno, da je potonulo.\"",
@@ -5969,22 +5969,6 @@
     "tags": [
       "φύσις"
     ]
-  },
-  {
-    "_id": 374,
-    "type": "bio",
-    "year": -520,
-    "sr": "Umro je u Pisi, zagrlivši sina, pobjednika u Olimpiji, pesnicom, kako kaže Hermip.",
-    "stsl": "Умрѣ же · ꙗкоже глаголеть Єрмипъ · въ Писѣ · обьѧвъ сина своего Олимпіискаго побѣдителѧ пѫчьною.",
-    "originalText": "Ἐτελεύτησε δ', ὥς φησιν Ἕρμιππος, ἐν Πίσῃ, τὸν υἱὸν Ὀλυμπιονίκην ἀσπασάμενος πυγμῆς.",
-    "author": "Chilon of Sparta",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.72"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:450#Ἐτελε"
   },
   {
     "_id": 375,
@@ -6017,6 +6001,22 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/03.txt:450#Καὶ α"
+  },
+  {
+    "_id": 656,
+    "type": "bio",
+    "year": -520,
+    "author": "Heraclitus",
+    "stsl": "Бꙑсть дивенъ отъ отърочѧства · млаꙁъ бо глаголѧше ничесоже вѣдѣти · съвръшенъ же бꙑвъ вьсѧ поꙁнати ·",
+    "sr": "Od detinjstva je bio izuzetan; kao mladić govorio je da ništa ne zna, a kada je sazreo, da je sve spoznao.",
+    "originalText": "Γέγονε δὲ θαυμάσιος ἐκ παίδων, ὅτε καὶ νέος ὢν ἔφασκε μηδὲν εἰδέναι, τέλειος μέντοι γενόμενος πάντα ἐγνωκέναι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.5"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:23#Γέγον"
   },
   {
     "_id": 377,
@@ -6083,20 +6083,20 @@
     "pointer": "data/sources/diogenes-laertius/el/08.txt:1045#Ἐγὼ δ"
   },
   {
-    "_id": 684,
-    "type": "anecdote",
+    "_id": 657,
+    "type": "bio",
+    "year": -519,
+    "stsl": "Власть прѣдаде братѹ ·",
+    "sr": "Vlast predade bratu.",
+    "originalText": "Τὴν βασιλείαν παρῆκε τῷ ἀδελφῷ.",
     "author": "Heraclitus",
-    "year": -515,
-    "stsl": "Отъшьдъ въ храмъ Артемидинъ съ отърокꙑ играѧше въ кости · объстоѧвъшимъ же емѹ Єфесіаномъ · рече · Чєсо о лѹкавіи дивите сѧ · Не ли лѹче сіє творити нежели съ вами гражданьствовати ·",
-    "sr": "Povukavši se u Artemidin hram, igrao se s dečacima kockicama. Kada su ga Efežani opkolili, reče: „Zašto se, najgori, čudite? Zar nije bolje ovo činiti nego sa vama upravljati gradom?“",
-    "originalText": "Ἀναχωρήσας δ' εἰς τὸ ἱερὸν τῆς Ἀρτέμιδος μετὰ τῶν παίδων ἠστραγάλιζε· περιστάντων δ' αὐτὸν τῶν Ἐφεσίων, \"τί, ὦ κάκιστοι, θαυμάζετε;\", εἶπεν· \"ἢ οὐ κρεῖττον τοῦτο ποιεῖν ἢ μεθ' ὑμῶν πολιτεύεσθαι;\"",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "IX.3"
+        "reference": "IX.1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Ἀναχω"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:3#Τὴν β"
   },
   {
     "_id": 382,
@@ -6117,6 +6117,22 @@
     ]
   },
   {
+    "_id": 684,
+    "type": "anecdote",
+    "author": "Heraclitus",
+    "year": -515,
+    "stsl": "Отъшьдъ въ храмъ Артемидинъ съ отърокꙑ играѧше въ кости · объстоѧвъшимъ же емѹ Єфесіаномъ · рече · Чєсо о лѹкавіи дивите сѧ · Не ли лѹче сіє творити нежели съ вами гражданьствовати ·",
+    "sr": "Povukavši se u Artemidin hram, igrao se s dečacima kockicama. Kada su ga Efežani opkolili, reče: „Zašto se, najgori, čudite? Zar nije bolje ovo činiti nego sa vama upravljati gradom?“",
+    "originalText": "Ἀναχωρήσας δ' εἰς τὸ ἱερὸν τῆς Ἀρτέμιδος μετὰ τῶν παίδων ἠστραγάλιζε· περιστάντων δ' αὐτὸν τῶν Ἐφεσίων, \"τί, ὦ κάκιστοι, θαυμάζετε;\", εἶπεν· \"ἢ οὐ κρεῖττον τοῦτο ποιεῖν ἢ μεθ' ὑμῶν πολιτεύεσθαι;\"",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.3"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Ἀναχω"
+  },
+  {
     "_id": 783,
     "type": "bio",
     "year": -515,
@@ -6131,22 +6147,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Παρμε"
-  },
-  {
-    "_id": 797,
-    "type": "anecdote",
-    "sr": "Iako je slušao Ksenofana, Parmenid nije sledio njegovo učenje. Više se priklonio pitagorejcu Amejniji, siromašnom ali plemenitom čoveku; posle njegove smrti podigao mu je svetilište, a upravo ga je Amejnija podstakao da se posveti tihom životu proučavanja.",
-    "stsl": "Аще и Ксенофана слѹша · Парменидъ ѹчєнию єго не послѣдова · Паче же прилѣпи сѧ питагорѣю Амеинии · мѫжѹ ништѹ · нъ благѹ · по смрьти єго свѧтилище ємѹ въздвиже · и самъ Амеиниꙗ настави єго къ тихомѹ житію ѹчєниꙗ ·",
-    "author": "Parmenides",
-    "year": -515,
-    "originalText": "Οὗτος Ξενοφάνους μὲν ἤκουσεν, οὐ μέντοι ἐζήλωσεν αὐτόν.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.21"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Οὗτος Ξ"
   },
   {
     "_id": 385,
@@ -6194,20 +6194,20 @@
     "pointer": "data/sources/diogenes-laertius/el/08.txt:1056#Οἴμοι"
   },
   {
-    "_id": 784,
-    "type": "bio",
-    "year": -510,
-    "sr": "Slušao Ksenofana; bio učenik pitagorejca Ameinija, siromašnog ali plemenitog čoveka.",
-    "stsl": "Ксенофана слꙑшааше · ѹченикъ питагорѣевца Амеиніа · ѹбогаго но благороднаго чловѣка · бѣ.",
-    "originalText": "Οὗτος ἤκουσε Ξενοφάνους· μᾶλλον δὲ Ἀμεινίᾳ τῷ Πυθαγορείῳ προσέσχηκε, πένητι μὲν ὄντι, σπουδαίῳ δὲ ἀνδρί.",
+    "_id": 797,
+    "type": "anecdote",
+    "sr": "Iako je slušao Ksenofana, Parmenid nije sledio njegovo učenje. Više se priklonio pitagorejcu Amejniji, siromašnom ali plemenitom čoveku; posle njegove smrti podigao mu je svetilište, a upravo ga je Amejnija podstakao da se posveti tihom životu proučavanja.",
+    "stsl": "Аще и Ксенофана слѹша · Парменидъ ѹчєнию єго не послѣдова · Паче же прилѣпи сѧ питагорѣю Амеинии · мѫжѹ ништѹ · нъ благѹ · по смрьти єго свѧтилище ємѹ въздвиже · и самъ Амеиниꙗ настави єго къ тихомѹ житію ѹчєниꙗ ·",
     "author": "Parmenides",
+    "year": -515,
+    "originalText": "Οὗτος Ξενοφάνους μὲν ἤκουσεν, οὐ μέντοι ἐζήλωσεν αὐτόν.",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "IX.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Οὗτος ἤκουσε Ξενοφάνους·"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Οὗτος Ξ"
   },
   {
     "_id": 389,
@@ -6402,20 +6402,20 @@
     "pointer": "data/sources/walter-burley/latin_raw/chrysippus.txt:1#Aurum"
   },
   {
-    "_id": 947,
+    "_id": 784,
     "type": "bio",
     "year": -510,
-    "sr": "Po Heraklidu iz Ponta učio selidbu duše i pamćenje prošlih života.",
-    "stsl": "По Хераклидѹ отъ Понта селидбꙋ дꙋши и памѧть прошьлыхъ животъовъ ѹчааше.",
-    "originalText": "Ἡρακλείδης δ' ὁ Ποντικὸς ἱστορεῖ περὶ αὐτοῦ ὅτι ἔλεγε περὶ ἑαυτοῦ τοιάδε· εἶναί ποτε Αἰθαλίδην καὶ νομίζεσθαι Ἑρμοῦ.",
-    "author": "Pythagoras",
+    "sr": "Slušao Ksenofana; bio učenik pitagorejca Ameinija, siromašnog ali plemenitog čoveka.",
+    "stsl": "Ксенофана слꙑшааше · ѹченикъ питагорѣевца Амеиніа · ѹбогаго но благороднаго чловѣка · бѣ.",
+    "originalText": "Οὗτος ἤκουσε Ξενοφάνους· μᾶλλον δὲ Ἀμεινίᾳ τῷ Πυθαγορείῳ προσέσχηκε, πένητι μὲν ὄντι, σπουδαίῳ δὲ ἀνδρί.",
+    "author": "Parmenides",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VIII.4"
+        "reference": "IX.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:32#Ἡρακλείδης δ"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Οὗτος ἤκουσε Ξενοφάνους·"
   },
   {
     "_id": 402,
@@ -6500,6 +6500,22 @@
     "pointer": "data/sources/walter-burley/latin_raw/chrysippus.txt:1#Quosc"
   },
   {
+    "_id": 947,
+    "type": "bio",
+    "year": -510,
+    "sr": "Po Heraklidu iz Ponta učio selidbu duše i pamćenje prošlih života.",
+    "stsl": "По Хераклидѹ отъ Понта селидбꙋ дꙋши и памѧть прошьлыхъ животъовъ ѹчааше.",
+    "originalText": "Ἡρακλείδης δ' ὁ Ποντικὸς ἱστορεῖ περὶ αὐτοῦ ὅτι ἔλεγε περὶ ἑαυτοῦ τοιάδε· εἶναί ποτε Αἰθαλίδην καὶ νομίζεσθαι Ἑρμοῦ.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.4"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:32#Ἡρακλείδης δ"
+  },
+  {
     "_id": 1250,
     "type": "bio",
     "sr": "Prema Favorinu, Ksenofan je bio prodat u ropstvo, a oslobodili su ga pitagorejci Parmenisk i Orestad.",
@@ -6516,7 +6532,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:121#Φησὶ "
   },
   {
-    "_id": 657,
+    "_id": 658,
     "type": "bio",
     "year": -505,
     "stsl": "Ꙁъванъ гражданꙑ ꙁаконꙑ поставити · не покори сѧ · ꙗко лѹкавомѹ гражданьствѹ ѹже дръжимъ градъ бѣ ·",
@@ -6532,7 +6548,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:5#Κληθε"
   },
   {
-    "_id": 658,
+    "_id": 659,
     "type": "bio",
     "year": -505,
     "stsl": "Цѣсарь Даріи Гѵстаспѣвъ посъла къ немѹ прити въ Перси · Онъ же отъврьже сѧ · рєкъ ꙗко малꙑмъ довольнꙑи по своємѹ разѹмѹ ·",
@@ -6548,7 +6564,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:57#Βασιλ"
   },
   {
-    "_id": 659,
+    "_id": 660,
     "type": "anecdote",
     "author": "Heraclitus",
     "year": -505,
@@ -6562,22 +6578,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/10.txt:53"
-  },
-  {
-    "_id": 660,
-    "type": "anecdote",
-    "author": "Heraclitus",
-    "year": -505,
-    "stsl": "Отъвѣшта Даріѹ · Єлици на ꙁемли сѫть · истинꙑ лишаѭть сѧ · а несꙑтости прилѣпѧѭть сѧ · Аꙁъ же бѣгаѭ сꙑтости завистьѭ и гръдꙑнѭ одѣваємꙑꙗ · Не бꙑхъ иль въ Персꙑ · малꙑмъ довольнꙑи по моємѹ разѹмѹ ·",
-    "sr": "Odgovori Dariju: „Koliko ih god ima na zemlji, klone se istine, a priklanjaju se nezasitosti i taštini. Ja, bežeći od svake rđavosti i sitosti, koju prati zavist i nadmenost, ne bih otišao u zemlju Persijanaca, zadovoljan malim po svom razumu.“",
-    "originalText": "ὁκόσοι τυγχάνουσιν ὄντες ἐπιχθόνιοι τῆς μὲν ἀληθηίης καὶ δικαιοπραγμοσύνης ἀπέχονται, ἀπληστίῃ δὲ καὶ δοξοκοπίῃ προσέχουσι κακῆς ἕνεκα ἀνοίης. ἐγὼ δ ἀμνηστίην ἔχων πάσης πονηρίης καὶ κόρον φεύγων παντὸς οἰκειούμενον φθόνῳ καὶ διὰ τὸ περιίστασθαι ὑπερηφανίην οὐκ ἂν ἀφικοίμην εἰς Περσῶν χώρην, ὀλίγοις ἐρκεόμενος κατ ἐμὴν γνώμην.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.14"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:57#ὁκόσο"
   },
   {
     "_id": 412,
@@ -6711,6 +6711,22 @@
   },
   {
     "_id": 661,
+    "type": "anecdote",
+    "author": "Heraclitus",
+    "year": -505,
+    "stsl": "Отъвѣшта Даріѹ · Єлици на ꙁемли сѫть · истинꙑ лишаѭть сѧ · а несꙑтости прилѣпѧѭть сѧ · Аꙁъ же бѣгаѭ сꙑтости завистьѭ и гръдꙑнѭ одѣваємꙑꙗ · Не бꙑхъ иль въ Персꙑ · малꙑмъ довольнꙑи по моємѹ разѹмѹ ·",
+    "sr": "Odgovori Dariju: „Koliko ih god ima na zemlji, klone se istine, a priklanjaju se nezasitosti i taštini. Ja, bežeći od svake rđavosti i sitosti, koju prati zavist i nadmenost, ne bih otišao u zemlju Persijanaca, zadovoljan malim po svom razumu.“",
+    "originalText": "ὁκόσοι τυγχάνουσιν ὄντες ἐπιχθόνιοι τῆς μὲν ἀληθηίης καὶ δικαιοπραγμοσύνης ἀπέχονται, ἀπληστίῃ δὲ καὶ δοξοκοπίῃ προσέχουσι κακῆς ἕνεκα ἀνοίης. ἐγὼ δ ἀμνηστίην ἔχων πάσης πονηρίης καὶ κόρον φεύγων παντὸς οἰκειούμενον φθόνῳ καὶ διὰ τὸ περιίστασθαι ὑπερηφανίην οὐκ ἂν ἀφικοίμην εἰς Περσῶν χώρην, ὀλίγοις ἐρκεόμενος κατ ἐμὴν γνώμην.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.14"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:57#ὁκόσο"
+  },
+  {
+    "_id": 662,
     "type": "bio",
     "year": -504,
     "stsl": "Процвѣтѧше въ девѧтѣ и шестьдесѧтѣ Олѵмпіадѣ ·",
@@ -6790,7 +6806,7 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:84#φυσιο"
   },
   {
-    "_id": 662,
+    "_id": 663,
     "type": "bio",
     "year": -500,
     "stsl": "Послоуша никогоже · самъ же себе рече испꙑтати · и научити сѧ вьсемѹ отъ себе самого ·",
@@ -6804,22 +6820,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/10.txt:23#Ἤκουσ"
-  },
-  {
-    "_id": 786,
-    "type": "bio",
-    "year": -500,
-    "sr": "Ameiniju nakon smrti sagradio svetilište; privrženiji njemu nego Ksenofanu.",
-    "stsl": "Амеинію по смрьти свѧтилиште съгради · привръженѣи къ немѹ нежели Ксенофанѹ бѣ.",
-    "originalText": "Ὃν καὶ μετελθόντα ἡρῷον κατεσκεύασεν· ἐκείνῳ μᾶλλον ἢ Ξενοφάνει προσχὼν ἀγωγῆς.",
-    "author": "Parmenides",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.21"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Ὃν κα"
   },
   {
     "_id": 427,
@@ -6867,6 +6867,22 @@
     "pointer": "data/sources/walter-burley/latin_raw/cleobulus.txt:1#Magis"
   },
   {
+    "_id": 786,
+    "type": "bio",
+    "year": -500,
+    "sr": "Ameiniju nakon smrti sagradio svetilište; privrženiji njemu nego Ksenofanu.",
+    "stsl": "Амеинію по смрьти свѧтилиште съгради · привръженѣи къ немѹ нежели Ксенофанѹ бѣ.",
+    "originalText": "Ὃν καὶ μετελθόντα ἡρῷον κατεσκεύασεν· ἐκείνῳ μᾶλλον ἢ Ξενοφάνει προσχὼν ἀγωγῆς.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.21"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:129#Ὃν κα"
+  },
+  {
     "_id": 798,
     "type": "anecdote",
     "sr": "Parmenid je služio svom rodnom gradu kao zakonodavac.",
@@ -6881,22 +6897,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/10.txt:150#Τῇ πα"
-  },
-  {
-    "_id": 685,
-    "type": "anecdote",
-    "author": "Heraclitus",
-    "year": -495,
-    "stsl": "Глаголѭтъ же ꙗко въпрошенъ почьто мълчить · рече · Да вꙑ беседѹєте ·",
-    "sr": "Kažu da je, kada su ga upitali zašto ćuti, odgovorio: „Da biste vi govorili.“",
-    "originalText": "Φασὶ δ' αὐτὸν ἐρωτηθέντα διὰ τί σιωπᾷ, φάναι \"ἵν' ὑμεῖς λαλῆτε.\"",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.12"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:47"
   },
   {
     "_id": 432,
@@ -6977,6 +6977,22 @@
     "pointer": "data/sources/diogenes-laertius/el/07.txt:548#Ἔρωτα"
   },
   {
+    "_id": 685,
+    "type": "anecdote",
+    "author": "Heraclitus",
+    "year": -495,
+    "stsl": "Глаголѭтъ же ꙗко въпрошенъ почьто мълчить · рече · Да вꙑ беседѹєте ·",
+    "sr": "Kažu da je, kada su ga upitali zašto ćuti, odgovorio: „Da biste vi govorili.“",
+    "originalText": "Φασὶ δ' αὐτὸν ἐρωτηθέντα διὰ τί σιωπᾷ, φάναι \"ἵν' ὑμεῖς λαλῆτε.\"",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.12"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:47"
+  },
+  {
     "_id": 949,
     "type": "bio",
     "year": -495,
@@ -7007,22 +7023,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/09.txt:434"
-  },
-  {
-    "_id": 565,
-    "type": "bio",
-    "year": -494,
-    "sr": "Rođen u Akragantu.",
-    "stsl": "Емпедоклъ Метонова сынъ · Акрагантꙗнинъ бѣ.",
-    "originalText": "Ἐμπεδοκλῆς, ὥς φησιν Ἱππόβοτος, Μέτωνος ἦν υἱὸς τοῦ Ἐμπεδοκλέους, Ἀκραγαντῖνος.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.51"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:610#Ἐμπεδ"
   },
   {
     "_id": 440,
@@ -7079,12 +7079,12 @@
     ]
   },
   {
-    "_id": 566,
+    "_id": 565,
     "type": "bio",
     "year": -494,
-    "sr": "Deda mu pobedio na trci konja u olimpijadi; otac Meton ili Eksenetos.",
-    "stsl": "Дѣдъ єго на конскои гонитвѣ въ олимпіадѣ побѣди · Отъьць Метонъ или Ексенетъ.",
-    "originalText": "Ὁ δὲ πάππος αὐτοῦ κέλητι νενικηκὼς ἐν Ὀλυμπίᾳ· πατρὸς δὲ ὄντος Μέτωνος ἢ κατά τινας Ἐξαινέτου.",
+    "sr": "Rođen u Akragantu.",
+    "stsl": "Емпедоклъ Метонова сынъ · Акрагантꙗнинъ бѣ.",
+    "originalText": "Ἐμπεδοκλῆς, ὥς φησιν Ἱππόβοτος, Μέτωνος ἦν υἱὸς τοῦ Ἐμπεδοκλέους, Ἀκραγαντῖνος.",
     "author": "Empedocles",
     "sources": [
       {
@@ -7092,7 +7092,7 @@
         "reference": "VIII.51"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:610#Ὁ δὲ "
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:610#Ἐμπεδ"
   },
   {
     "_id": 444,
@@ -7126,6 +7126,22 @@
     "tags": [
       "εἶναι"
     ]
+  },
+  {
+    "_id": 566,
+    "type": "bio",
+    "year": -494,
+    "sr": "Deda mu pobedio na trci konja u olimpijadi; otac Meton ili Eksenetos.",
+    "stsl": "Дѣдъ єго на конскои гонитвѣ въ олимпіадѣ побѣди · Отъьць Метонъ или Ексенетъ.",
+    "originalText": "Ὁ δὲ πάππος αὐτοῦ κέλητι νενικηκὼς ἐν Ὀλυμπίᾳ· πατρὸς δὲ ὄντος Μέτωνος ἢ κατά τινας Ἐξαινέτου.",
+    "author": "Empedocles",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.51"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:610#Ὁ δὲ "
   },
   {
     "_id": 587,
@@ -7195,6 +7211,21 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:172#Ζήνων"
   },
   {
+    "_id": 451,
+    "type": "works",
+    "sr": "Napisao spis Mali poredak sveta 730 godina posle pada Troje.",
+    "stsl": "Списа Малыи порѧдокъ міра седмь сотъ и тридесѧть лѣтъ по падении Троꙗ написа.",
+    "originalText": "Τὸν Μικρὸν διάκοσμον συντετάχθαι αὐτῷ ἑπτακοσίῳ τριακοστῷ ἔτει μετὰ Ἰλίου ἅλωσιν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.41"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:241#Τὸν Μ"
+  },
+  {
     "_id": 588,
     "type": "anecdote",
     "sr": "Aristotel je Empedokla smatrao pronalazačem retorike. Bio je lekar i glasovit govornik, a Gorgija iz Leontina bio je njegov učenik.",
@@ -7209,21 +7240,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/09.txt:683"
-  },
-  {
-    "_id": 451,
-    "type": "works",
-    "sr": "Napisao spis Mali poredak sveta 730 godina posle pada Troje.",
-    "stsl": "Списа Малыи порѧдокъ міра седмь сотъ и тридесѧть лѣтъ по падении Троꙗ написа.",
-    "originalText": "Τὸν Μικρὸν διάκοσμον συντετάχθαι αὐτῷ ἑπτακοσίῳ τριακοστῷ ἔτει μετὰ Ἰλίου ἅλωσιν.",
-    "author": "Democritus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.41"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:241#Τὸν Μ"
   },
   {
     "_id": 46,
@@ -7272,22 +7288,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/09.txt:636"
-  },
-  {
-    "_id": 646,
-    "type": "bio",
-    "year": -483,
-    "sr": "Rođen u Leontinu; bio učenik Empedokla iz Akraganta i izvanredan govornik koji je živeo sto devet godina.",
-    "stsl": "Родисѧ въ Леонтинѣ · ѹченикъ Емпедокла отъ Акраганта бѣ · пръсвѣтьлъ витіꙗ · живѣ сто и девѧть лѣтъ.",
-    "originalText": "Γοργίαν δὲ τὸν ῥήτορα τὸν Λεοντῖνον ἀκοῦσαί φασιν αὐτοῦ, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ βιώσαντα ἔτη ἑκατὸν ἐννέα.",
-    "author": "Gorgias",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.58"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:691#Γοργίαν δὲ τὸν ῥήτορα τὸν Λεον"
   },
   {
     "_id": 456,
@@ -7536,6 +7536,22 @@
     ]
   },
   {
+    "_id": 646,
+    "type": "bio",
+    "year": -483,
+    "sr": "Rođen u Leontinu; bio učenik Empedokla iz Akraganta i izvanredan govornik koji je živeo sto devet godina.",
+    "stsl": "Родисѧ въ Леонтинѣ · ѹченикъ Емпедокла отъ Акраганта бѣ · пръсвѣтьлъ витіꙗ · живѣ сто и девѧть лѣтъ.",
+    "originalText": "Γοργίαν δὲ τὸν ῥήτορα τὸν Λεοντῖνον ἀκοῦσαί φασιν αὐτοῦ, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ βιώσαντα ἔτη ἑκατὸν ἐννέα.",
+    "author": "Gorgias",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.58"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:691#Γοργίαν δὲ τὸν ῥήτορα τὸν Λεον"
+  },
+  {
     "_id": 647,
     "type": "bio",
     "year": -483,
@@ -7648,22 +7664,6 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:441#Τοῦτο"
   },
   {
-    "_id": 1321,
-    "type": "anecdote",
-    "sr": "Prema jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
-    "stsl": "По єдиномѹ прѣданию Зенонъ пьрвъ писа бесѣды вопроса и отъвѣта · Аристотъель же пьрвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
-    "author": "Zeno of Elea",
-    "year": -480,
-    "originalText": "Διαλόγων πρῶτος γράψαι, ὡς ἔνιοί φασιν. Ἀριστοτέλης δέ φησιν Ἀλεξαμενὸν τὸν Στυρίτην ἢ Τήϊον.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.48"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:473"
-  },
-  {
     "_id": 478,
     "type": "reported",
     "sr": "Epikur Demokrita nazivao Lerokrit (budala), Heraklita mešač, Protagoru prepisivač Demokrita.",
@@ -7680,6 +7680,22 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/11.txt:28#Ἡράκλ"
+  },
+  {
+    "_id": 1321,
+    "type": "anecdote",
+    "sr": "Prema jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
+    "stsl": "По єдиномѹ прѣданию Зенонъ пьрвъ писа бесѣды вопроса и отъвѣта · Аристотъель же пьрвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
+    "author": "Zeno of Elea",
+    "year": -480,
+    "originalText": "Διαλόγων πρῶτος γράψαι, ὡς ἔνιοί φασιν. Ἀριστοτέλης δέ φησιν Ἀλεξαμενὸν τὸν Στυρίτην ἢ Τήϊον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.48"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:473"
   },
   {
     "_id": 590,
@@ -7730,7 +7746,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:121#Ταῖς "
   },
   {
-    "_id": 664,
+    "_id": 665,
     "type": "bio",
     "year": -475,
     "stsl": "Ѹмьрѣ въ шестьдесѧть лѣтъ · водьнѫѭ болѣꙁньѭ одержимъ ·",
@@ -7762,6 +7778,68 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Καὶ μ"
   },
   {
+    "_id": 485,
+    "type": "quote",
+    "sr": "Ne mogu da ispunim što tražite, jer ne mogu da vratim novac ako zakon kaže da mogu samo ako ste obojica zajedno.",
+    "stsl": "Не могѫ исправити · єгоже требѹѥте · понеже не могѫ възвратити сребро · аще законъ глаголетъ · ꙗко могѫ тъкмо аще оба вкѹпѣ придѫть ·",
+    "originalText": "Non puedo faser aquesto fasta que tu compannero venga conbigo pannero, pues, apara que das boes? Que ya sabeys que tal ley fue puesta entre vosotros que al uno sya el otro non podiese ser dado.",
+    "author": "Demosthenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXXVII"
+      }
+    ],
+    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1#Non p"
+  },
+  {
+    "_id": 688,
+    "type": "bio",
+    "author": "Heraclitus",
+    "year": -475,
+    "stsl": "Єрмипъ глаголєть · рєщи емѹ врачємъ · можеши ли чрѣва изнѹривъ водѹ исходити · Отъвръгъшимъ же сѧ · положити себе на съльнце · и велѣти отърокомъ гноємь покрꙑвати · Тако напрѧжено на вътории дьнь скончати сѧ · и погрєбънѹ бꙑти на торжишти ·",
+    "sr": "Hermip kaže: rekao je lekarima može li creva isprazni i vodu izvuče. Pošto oni to odbiše, położio se na sunce i naredio deci da ga pokrivaju balegom. Tako napet, drugog dana preminuo, i bio sahranjen na trgu.",
+    "originalText": "Ἕρμιππος δέ φησι λέγειν αὐτὸν τοῖς ἰατροῖς εἴ τις δύναται ἔντερα κεινώσας ὑγρὸν ἐξερᾶσαι· ἀπειπόντων δέ, θεῖναι αὑτὸν εἰς τὸν ἥλιον καὶ κελεύειν τοὺς παῖδας βολίτοις καταπλάττειν· οὕτω δὴ κατατεινόμενον δευτεραῖον τελευτῆσαι καὶ θαφθῆναι ἐν τῇ ἀγορᾷ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.3"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Ἕρμιπ"
+  },
+  {
+    "_id": 487,
+    "type": "quote",
+    "sr": "Ne kupujem pokajanje za tako veliku cenu.",
+    "stsl": "Не кѹплѭ покаꙗние за толикꙋ цѣнꙋ ·",
+    "originalText": "Ego penitere fami et emo.",
+    "author": "Demosthenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXXVII"
+      }
+    ],
+    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1#Ego p"
+  },
+  {
+    "_id": 689,
+    "type": "bio",
+    "author": "Heraclitus",
+    "year": -475,
+    "stsl": "Неанѳъ Кузикиискъ глаголєть · не могъшѹ емѹ отъторгнѫти гноѩ · остати · и прѣображєниємь неразѹмѣнѹ псобраꙁнѹ стати ·",
+    "sr": "Neanth Kyzikinos kaže: pošto nije mogao da odvoji balegu, ostao je, i zbog preobražaja bio nepoznat i postao hrana psima.",
+    "originalText": "Νεάνθης δ' ὁ Κυζικηνός φησι μὴ δυνηθέντα αὐτὸν ἀποσπάσαι τὰ βόλιτα μεῖναι καὶ διὰ τὴν μεταβολὴν ἀγνοηθέντα κυνόβρωτον γενέσθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.3"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Νεάνθ"
+  },
+  {
     "_id": 591,
     "type": "anecdote",
     "sr": "Kada su etesijski vetrovi pustošili useve, Empedoklo je po uzvišenjima razapeo kožne mehove da uhvate vazdušne struje. Pošto su vetrovi oslabili, prozvan je ‘Zaustavljačem vetrova’.",
@@ -7778,21 +7856,6 @@
     "pointer": "data/sources/diogenes-laertius/el/09.txt:723#Φησὶ "
   },
   {
-    "_id": 485,
-    "type": "quote",
-    "sr": "Ne mogu da ispunim što tražite, jer ne mogu da vratim novac ako zakon kaže da mogu samo ako ste obojica zajedno.",
-    "stsl": "Не могѫ исправити · єгоже требѹѥте · понеже не могѫ възвратити сребро · аще законъ глаголетъ · ꙗко могѫ тъкмо аще оба вкѹпѣ придѫть ·",
-    "originalText": "Non puedo faser aquesto fasta que tu compannero venga conbigo pannero, pues, apara que das boes? Que ya sabeys que tal ley fue puesta entre vosotros que al uno sya el otro non podiese ser dado.",
-    "author": "Demosthenes",
-    "sources": [
-      {
-        "name": "walter-burley",
-        "reference": "Cap. XXXVII"
-      }
-    ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1#Non p"
-  },
-  {
     "_id": 47,
     "type": "anecdote",
     "sr": "Pošto je učenju dao Um kao počelo koje uređuje tvar, Anaksagora je i sam dobio nadimak ‘Um’.",
@@ -7807,21 +7870,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/03.txt:59#Οὗτος ἤκουσεν Ἀναξιμένους,"
-  },
-  {
-    "_id": 487,
-    "type": "quote",
-    "sr": "Ne kupujem pokajanje za tako veliku cenu.",
-    "stsl": "Не кѹплѭ покаꙗние за толикꙋ цѣнꙋ ·",
-    "originalText": "Ego penitere fami et emo.",
-    "author": "Demosthenes",
-    "sources": [
-      {
-        "name": "walter-burley",
-        "reference": "Cap. XXXVII"
-      }
-    ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1#Ego p"
   },
   {
     "_id": 568,
@@ -8112,54 +8160,6 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:187#Τὴν π"
   },
   {
-    "_id": 595,
-    "type": "anecdote",
-    "sr": "Timej takođe navodi razlog zašto je Empedoklo bio za narodnu vlast. Na gozbu ga je pozvao jedan od magistrata. Kako je gozba odmicala, piće nije stizalo, a drugi ćutali, Empedoklo je, mrzeći nepravdu, naredio da se donese. Domaćin je rekao da čeka službenika veća. Kada je ovaj došao, domaćin ga postavi za vođu gozbe, što pokazivaše na početak tiranije: on naredi da gosti piju ili da im vino poliju na glave. Empedoklo tada oćuta, ali sledećeg dana ih izvede pred sud i osudivši pogubi obojicu — i domaćina i vođu gozbe.",
-    "stsl": "Тимаи же приложи причинѹ почто Ємпедоклъ народьнѫѭ власть любѧше · Званъ бывъ отъ єдиного отъ старѣишинъ · егда пированіє продолжаше сѧ питіє не приношаше сѧ · инымъ мълчѧщимъ · ненавидѧ злѹ повелѣ внѥсти · звавъ же рече чькати слѹжителя съвѣта · єгда же пріиде бысть пироводьць · Отъ звавъшаго єго поставленъ · иже показоваше начѧло мѫчительства · повелѣ бо или пити · или на главы ихъ вино изливати · тогда же Ємпедоклъ смълча · наѹтріє же въведъ оба предъ сѫдъ · осѫдивъ погуби и звавъшаго и пироводьца ·",
-    "originalText": "τὰ δ' αὐτὰ καὶ Τίμαιος εἴρηκε, τὴν αἰτίαν ἅμα παρατιθέμενος τοῦ δημοτικὸν εἶναι τὸν ἄνδρα. φησὶ γὰρ ὅτι κληθεὶς ὑπό τινος τῶν ἀρχόντων ὡς προβαίνοντος τοῦ δείπνου τὸ ποτὸν οὐκ εἰσεφέρετο, τῶν ἄλλων ἡσυχαζόντων, μισοπονήρως διατεθεὶς ἐκέλευσεν εἰσφέρειν· ὁ δὲ κεκληκὼς ἀναμένειν ἔφη τὸν τῆς βουλῆς ὑπηρέτην. ὡς δὲ παρεγένετο, ἐγενήθη συμποσίαρχος, τοῦ κεκληκότος δηλονότι καταστήσαντος, ὃς ὑπεγράφετο τυραννίδος ἀρχήν· ἐκέλευσε γὰρ ἢ πίνειν ἢ καταχεῖσθαι τῆς κεφαλῆς. τότε μὲν οὖν ὁ Ἐμπεδοκλῆς ἡσύχασε· τῇ δὲ ὑστεραίᾳ εἰσαγαγὼν εἰς δικαστήριον ἀπέκτεινε καταδικάσας ἀμφοτέρους τόν τε κλήτορα καὶ τὸν συμποσίαρχον.",
-    "author": "Empedocles",
-    "year": -459,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.64"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:780"
-  },
-  {
-    "_id": 48,
-    "type": "anecdote",
-    "sr": "Anaksagora je prvi tvrdio da Homerova poezija govori o vrlini i pravdi, a njegov prijatelj Metrodor iz Lampsaka dalje je razvio takvo tumačenje. Pripisuje mu se i prvo objavljivanje knjige sa crtežima.",
-    "stsl": "Анаксагора пьрвъ ѹтврьди · ꙗко Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть · дрѹгъ же єго Метродоръ Лампсакьскыи таково тълкованіє далѣє разви · Ємѹ же и пьрвоє изданіє книгы съ начрътании приписѹєть сѧ ·",
-    "originalText": "Δοκεῖ δὲ πρῶτος, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης· ἐπὶ πλεῖον δὲ προστῆναι τοῦ λόγου Μητρόδωρον τὸν Λαμψακηνόν, γνώριμον ὄντα αὐτοῦ, ὃν καὶ πρῶτον σπουδάσαι τοῦ ποιητοῦ περὶ τὴν φυσικὴν πραγματείαν. Πρῶτος δὲ Ἀναξαγόρας καὶ βιβλίον ἐξέδωκε συγγραφῆς.",
-    "author": "Anaxagoras",
-    "year": -457,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.11"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:78#Δοκεῖ"
-  },
-  {
-    "_id": 22,
-    "type": "bio",
-    "year": -455,
-    "sr": "Učenik mu bio Euripid.",
-    "stsl": "Оученикъ ємѹ бѣ Еврипидъ.",
-    "originalText": "Εὐριπίδην, μαθητὴν ὄντα αὐτοῦ.",
-    "author": "Anaxagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.10"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:76#Εὐριπ"
-  },
-  {
     "_id": 509,
     "type": "quote",
     "sr": "Videći lepog mladića dobrog karaktera, reče: Dobrota njegove duše daje veliku lepotu njegovom licu.",
@@ -8205,20 +8205,20 @@
     ]
   },
   {
-    "_id": 651,
+    "_id": 595,
     "type": "anecdote",
-    "year": -455,
-    "sr": "Satyros u Životopisima kaže da je Gorgija prisustvovao magijskim radnjama Empedoklovim.",
-    "stsl": "Сатѵръ въ Жітіахъ глаголєть · ꙗко Горгіа волшебьствомъ Емпєдокловꙋ прісѫтьствова.",
-    "originalText": "τοῦτόν φησιν ὁ Σάτυρος λέγειν ὡς αὐτὸς παρείη τῷ Ἐμπεδοκλεῖ γοητεύοντι.",
-    "author": "Gorgias",
+    "sr": "Timej takođe navodi razlog zašto je Empedoklo bio za narodnu vlast. Na gozbu ga je pozvao jedan od magistrata. Kako je gozba odmicala, piće nije stizalo, a drugi ćutali, Empedoklo je, mrzeći nepravdu, naredio da se donese. Domaćin je rekao da čeka službenika veća. Kada je ovaj došao, domaćin ga postavi za vođu gozbe, što pokazivaše na početak tiranije: on naredi da gosti piju ili da im vino poliju na glave. Empedoklo tada oćuta, ali sledećeg dana ih izvede pred sud i osudivši pogubi obojicu — i domaćina i vođu gozbe.",
+    "stsl": "Тимаи же приложи причинѹ почто Ємпедоклъ народьнѫѭ власть любѧше · Званъ бывъ отъ єдиного отъ старѣишинъ · егда пированіє продолжаше сѧ питіє не приношаше сѧ · инымъ мълчѧщимъ · ненавидѧ злѹ повелѣ внѥсти · звавъ же рече чькати слѹжителя съвѣта · єгда же пріиде бысть пироводьць · Отъ звавъшаго єго поставленъ · иже показоваше начѧло мѫчительства · повелѣ бо или пити · или на главы ихъ вино изливати · тогда же Ємпедоклъ смълча · наѹтріє же въведъ оба предъ сѫдъ · осѫдивъ погуби и звавъшаго и пироводьца ·",
+    "originalText": "τὰ δ' αὐτὰ καὶ Τίμαιος εἴρηκε, τὴν αἰτίαν ἅμα παρατιθέμενος τοῦ δημοτικὸν εἶναι τὸν ἄνδρα. φησὶ γὰρ ὅτι κληθεὶς ὑπό τινος τῶν ἀρχόντων ὡς προβαίνοντος τοῦ δείπνου τὸ ποτὸν οὐκ εἰσεφέρετο, τῶν ἄλλων ἡσυχαζόντων, μισοπονήρως διατεθεὶς ἐκέλευσεν εἰσφέρειν· ὁ δὲ κεκληκὼς ἀναμένειν ἔφη τὸν τῆς βουλῆς ὑπηρέτην. ὡς δὲ παρεγένετο, ἐγενήθη συμποσίαρχος, τοῦ κεκληκότος δηλονότι καταστήσαντος, ὃς ὑπεγράφετο τυραννίδος ἀρχήν· ἐκέλευσε γὰρ ἢ πίνειν ἢ καταχεῖσθαι τῆς κεφαλῆς. τότε μὲν οὖν ὁ Ἐμπεδοκλῆς ἡσύχασε· τῇ δὲ ὑστεραίᾳ εἰσαγαγὼν εἰς δικαστήριον ἀπέκτεινε καταδικάσας ἀμφοτέρους τόν τε κλήτορα καὶ τὸν συμποσίαρχον.",
+    "author": "Empedocles",
+    "year": -459,
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VIII.59"
+        "reference": "VIII.64"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:697#τοῦτό"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:780"
   },
   {
     "_id": 513,
@@ -8234,6 +8234,54 @@
         "reference": "Cap. L"
       }
     ]
+  },
+  {
+    "_id": 48,
+    "type": "anecdote",
+    "sr": "Anaksagora je prvi tvrdio da Homerova poezija govori o vrlini i pravdi, a njegov prijatelj Metrodor iz Lampsaka dalje je razvio takvo tumačenje. Pripisuje mu se i prvo objavljivanje knjige sa crtežima.",
+    "stsl": "Анаксагора пьрвъ ѹтврьди · ꙗко Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть · дрѹгъ же єго Метродоръ Лампсакьскыи таково тълкованіє далѣє разви · Ємѹ же и пьрвоє изданіє книгы съ начрътании приписѹєть сѧ ·",
+    "originalText": "Δοκεῖ δὲ πρῶτος, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης· ἐπὶ πλεῖον δὲ προστῆναι τοῦ λόγου Μητρόδωρον τὸν Λαμψακηνόν, γνώριμον ὄντα αὐτοῦ, ὃν καὶ πρῶτον σπουδάσαι τοῦ ποιητοῦ περὶ τὴν φυσικὴν πραγματείαν. Πρῶτος δὲ Ἀναξαγόρας καὶ βιβλίον ἐξέδωκε συγγραφῆς.",
+    "author": "Anaxagoras",
+    "year": -457,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.11"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:78#Δοκεῖ"
+  },
+  {
+    "_id": 22,
+    "type": "bio",
+    "year": -455,
+    "sr": "Učenik mu bio Euripid.",
+    "stsl": "Оученикъ ємѹ бѣ Еврипидъ.",
+    "originalText": "Εὐριπίδην, μαθητὴν ὄντα αὐτοῦ.",
+    "author": "Anaxagoras",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.10"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:76#Εὐριπ"
+  },
+  {
+    "_id": 651,
+    "type": "anecdote",
+    "year": -455,
+    "sr": "Satyros u Životopisima kaže da je Gorgija prisustvovao magijskim radnjama Empedoklovim.",
+    "stsl": "Сатѵръ въ Жітіахъ глаголєть · ꙗко Горгіа волшебьствомъ Емпєдокловꙋ прісѫтьствова.",
+    "originalText": "τοῦτόν φησιν ὁ Σάτυρος λέγειν ὡς αὐτὸς παρείη τῷ Ἐμπεδοκλεῖ γοητεύοντι.",
+    "author": "Gorgias",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.59"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:697#τοῦτό"
   },
   {
     "_id": 925,
@@ -8298,54 +8346,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/03.txt:78#Πρῶτο"
-  },
-  {
-    "_id": 449,
-    "type": "bio",
-    "year": -450,
-    "sr": "Učenik Leukipa; po nekima, slušao Anaksagoru, četrdeset godina mlađi od njega.",
-    "stsl": "Оученикъ Леѵкіппа · по нѣкіимъ · Анаксагорꙋ слꙑшааше · четыредесѧтъ лѣтъ мьнии отъ него.",
-    "originalText": "Ὕστερον δὲ Λευκίππου γίνεται· οἱ δέ φασι καὶ Ἀναξαγόρου, τεσσαράκοντα ἔτη νεώτερος αὐτοῦ ὤν.",
-    "author": "Democritus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.34"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:217#Ὕστερον δὲ Λευκίππο"
-  },
-  {
-    "_id": 470,
-    "type": "anecdote",
-    "sr": "Demokrit je radi učenja putovao u Egipat, gde je od sveštenika učio geometriju, u Persiju kod Haldejaca i do Crvenog mora, a prema nekim predanjima i u Indiju i Etiopiju. Za putovanja je izabrao svoj deo nasledstva u novcu i potrošio više od sto talenata.",
-    "stsl": "Демокритъ ѹчениꙗ ради пꙫтешествова въ Егѵпетъ · идѣже отъ жерцевъ землемѣрию ѹчи сѧ · въ Персиѭ къ Халдѣємъ и до Чръмнаго морѧ · по нѣкотъорымъ же прѣданиемъ и въ Индиѭ и Еѳиопиѭ · На пꙫтешествиꙗ свои дѣлъ наслѣдиꙗ въ сребрѣ избра и паче ста талантъ истрати ·",
-    "originalText": "Φησὶ δὲ Δημήτριος ἐν Ὁμωνύμοις καὶ Ἀντισθένης ἐν Διαδοχαῖς ἀποδημῆσαι αὐτὸν καὶ εἰς Αἴγυπτον πρὸς τοὺς ἱερέας γεωμετρίαν μαθησόμενον καὶ πρὸς Χαλδαίους εἰς τὴν Περσίδα καὶ εἰς τὴν Ἐρυθρὰν θάλασσαν γενέσθαι. τοῖς τε γυμνοσοφισταῖς φασί τινες συμμῖξαι αὐτὸν ἐν Ἰνδίᾳ καὶ εἰς Αἰθιοπίαν ἐλθεῖν. ὁ δὲ Δημήτριος ὑπὲρ ἑκατὸν τάλαντά φησιν εἶναι αὐτῷ τὸ μέρος, ἃ πάντα καταναλῶσαι.",
-    "author": "Democritus",
-    "year": -450,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.35–36"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:219"
-  },
-  {
-    "_id": 738,
-    "type": "bio",
-    "year": -450,
-    "sr": "Demokrit kasnije postao njegov učenik.",
-    "stsl": "Демокритъ послѣди ѹченикъ єго быстъ.",
-    "originalText": "Ὕστερον δὲ Λευκίππῳ παρέβαλε Δημόκριτος.",
-    "author": "Leucippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.34"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:217#Ὕστερον δὲ Λευκίππῳ"
   },
   {
     "_id": 521,
@@ -9062,6 +9062,54 @@
     "pointer": "data/sources/diogenes-laertius/el/07.txt:402"
   },
   {
+    "_id": 449,
+    "type": "bio",
+    "year": -450,
+    "sr": "Učenik Leukipa; po nekima, slušao Anaksagoru, četrdeset godina mlađi od njega.",
+    "stsl": "Оученикъ Леѵкіппа · по нѣкіимъ · Анаксагорꙋ слꙑшааше · четыредесѧтъ лѣтъ мьнии отъ него.",
+    "originalText": "Ὕστερον δὲ Λευκίππου γίνεται· οἱ δέ φασι καὶ Ἀναξαγόρου, τεσσαράκοντα ἔτη νεώτερος αὐτοῦ ὤν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.34"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:217#Ὕστερον δὲ Λευκίππο"
+  },
+  {
+    "_id": 470,
+    "type": "anecdote",
+    "sr": "Demokrit je radi učenja putovao u Egipat, gde je od sveštenika učio geometriju, u Persiju kod Haldejaca i do Crvenog mora, a prema nekim predanjima i u Indiju i Etiopiju. Za putovanja je izabrao svoj deo nasledstva u novcu i potrošio više od sto talenata.",
+    "stsl": "Демокритъ ѹчениꙗ ради пꙫтешествова въ Егѵпетъ · идѣже отъ жерцевъ землемѣрию ѹчи сѧ · въ Персиѭ къ Халдѣємъ и до Чръмнаго морѧ · по нѣкотъорымъ же прѣданиемъ и въ Индиѭ и Еѳиопиѭ · На пꙫтешествиꙗ свои дѣлъ наслѣдиꙗ въ сребрѣ избра и паче ста талантъ истрати ·",
+    "originalText": "Φησὶ δὲ Δημήτριος ἐν Ὁμωνύμοις καὶ Ἀντισθένης ἐν Διαδοχαῖς ἀποδημῆσαι αὐτὸν καὶ εἰς Αἴγυπτον πρὸς τοὺς ἱερέας γεωμετρίαν μαθησόμενον καὶ πρὸς Χαλδαίους εἰς τὴν Περσίδα καὶ εἰς τὴν Ἐρυθρὰν θάλασσαν γενέσθαι. τοῖς τε γυμνοσοφισταῖς φασί τινες συμμῖξαι αὐτὸν ἐν Ἰνδίᾳ καὶ εἰς Αἰθιοπίαν ἐλθεῖν. ὁ δὲ Δημήτριος ὑπὲρ ἑκατὸν τάλαντά φησιν εἶναι αὐτῷ τὸ μέρος, ἃ πάντα καταναλῶσαι.",
+    "author": "Democritus",
+    "year": -450,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.35–36"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:219"
+  },
+  {
+    "_id": 738,
+    "type": "bio",
+    "year": -450,
+    "sr": "Demokrit kasnije postao njegov učenik.",
+    "stsl": "Демокритъ послѣди ѹченикъ єго быстъ.",
+    "originalText": "Ὕστερον δὲ Λευκίππῳ παρέβαλε Δημόκριτος.",
+    "author": "Leucippus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.34"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:217#Ὕστερον δὲ Λευκίππῳ"
+  },
+  {
     "_id": 800,
     "type": "anecdote",
     "sr": "Favorin Parmenidu pripisuje prvo izlaganje dokaza poznatog kao ‘Ahilej i kornjača’.",
@@ -9076,6 +9124,21 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/10.txt:150#φησὶ "
+  },
+  {
+    "_id": 569,
+    "type": "works",
+    "sr": "Napisao tragedije (po Aristotelu trideset), spis o medicini i himnu Apolonu.",
+    "stsl": "Трагедіи написа · по Аристотъелю тридесѧть · списъ о врачеваніи и хвалꙋ Аполлонѹ.",
+    "originalText": "Ἀριστοτέλης μὲν γὰρ τραγῳδίας αὐτοῦ γενέσθαι τριάκοντά φησι· καὶ ἰατρικὸν σύγγραμμα.",
+    "author": "Empedocles",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.58"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:691#Ἀριστ"
   },
   {
     "_id": 912,
@@ -9108,69 +9171,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/10.txt:433#Καὶ π"
-  },
-  {
-    "_id": 1041,
-    "type": "bio",
-    "year": -450,
-    "sr": "Učenik Arhelaја prirodnjaka, koji ga je uveo u etičku filozofiju.",
-    "stsl": "Ѹченикъ Архелаꙗ єстьствословца · иже єго въ нравьствьнꙋю философію введе.",
-    "originalText": "Ἀρχελάου μαθητής· παρ' οὗ λαβὼν Σωκράτης τὴν ἠθικὴν φιλοσοφίαν.",
-    "author": "Socrates",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.16"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:114"
-  },
-  {
-    "_id": 569,
-    "type": "works",
-    "sr": "Napisao tragedije (po Aristotelu trideset), spis o medicini i himnu Apolonu.",
-    "stsl": "Трагедіи написа · по Аристотъелю тридесѧть · списъ о врачеваніи и хвалꙋ Аполлонѹ.",
-    "originalText": "Ἀριστοτέλης μὲν γὰρ τραγῳδίας αὐτοῦ γενέσθαι τριάκοντά φησι· καὶ ἰατρικὸν σύγγραμμα.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.58"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:691#Ἀριστ"
-  },
-  {
-    "_id": 1325,
-    "type": "bio",
-    "sr": "Prvi izložio dokaz poznat kao 'Ahilej i kornjača' po Diogenu; po Favorinu to je bio Parmenid.",
-    "stsl": "Пьрвыи довѣдъ · нарицаємыи Ахиллеи и желвь · изложи по Діогенꙋ · по Фаворинꙋ же то Парменидъ.",
-    "author": "Zeno of Elea",
-    "year": -450,
-    "originalText": "Ζήνωνα πρῶτον τὸν Ἀχιλλέα λόγον ἠρώτησε· Φαβωρῖνος δέ φησι Παρμενίδην.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.29"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#Ζήνων"
-  },
-  {
-    "_id": 597,
-    "type": "anecdote",
-    "sr": "Kada je smrad reke izazvao kugu u Selinuntu, Empedoklo je o svom trošku doveo dve susedne reke i mešanjem njihovih tokova pročistio vodu. Pošto je pošast prestala, stanovnici su mu se klanjali kao bogu.",
-    "stsl": "Єгда смрадъ рѣкы моръ въ Селинѹнтѣ въздвиже · Ємпедоклъ своимъ иждивениемъ двѣ ближнѣи рѣцѣ приведе и съмѣшениемъ токовъ ихъ водѹ очисти · Єгда же пагѹба прѣста · жители ꙗко богѹ ємѹ покланѧахѹ сѧ ·",
-    "originalText": "Διόδωρος δ' ὁ Ἐφέσιος περὶ Ἀναξιμάνδρου γράφων φησὶ ὅτι τοῦτον ἐζηλώκει, τραγικὸν ἀσκῶν τῦφον καὶ σεμνὴν ἀναλαβὼν ἐσθῆτα. τοῖς Σελινουντίοις ἐμπεσόντος λοιμοῦ διὰ τὰς ἀπὸ τοῦ παρακειμένου ποταμοῦ δυσωδίας, ὥστε καὶ αὐτοὺς φθείρεσθαι καὶ τὰς γυναῖκας δυστοκεῖν, ἐπινοῆσαι τὸν Ἐμπεδοκλέα καὶ δύο τινὰς ποταμοὺς τῶν σύνεγγυς ἐπαγαγεῖν ἰδίαις δαπάναις· καὶ καταμίξαντα γλυκῆναι τὰ ῥεύματα. οὕτω δὴ λήξαντος τοῦ λοιμοῦ καὶ τῶν Σελινουντίων εὐωχουμένων ποτὲ παρὰ τῷ ποταμῷ, ἐπιφανῆναι τὸν Ἐμπεδοκλέα· τοὺς δ' ἐξαναστάντας προσκυνεῖν καὶ προσεύχεσθαι καθαπερεὶ θεῷ.",
-    "author": "Empedocles",
-    "year": -449,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.70"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:857"
   },
   {
     "_id": 572,
@@ -9413,6 +9413,54 @@
     "pointer": "data/sources/diogenes-laertius/el/09.txt:955#ἤδη γ"
   },
   {
+    "_id": 1041,
+    "type": "bio",
+    "year": -450,
+    "sr": "Učenik Arhelaја prirodnjaka, koji ga je uveo u etičku filozofiju.",
+    "stsl": "Ѹченикъ Архелаꙗ єстьствословца · иже єго въ нравьствьнꙋю философію введе.",
+    "originalText": "Ἀρχελάου μαθητής· παρ' οὗ λαβὼν Σωκράτης τὴν ἠθικὴν φιλοσοφίαν.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.16"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:114"
+  },
+  {
+    "_id": 1325,
+    "type": "bio",
+    "sr": "Prvi izložio dokaz poznat kao 'Ahilej i kornjača' po Diogenu; po Favorinu to je bio Parmenid.",
+    "stsl": "Пьрвыи довѣдъ · нарицаємыи Ахиллеи и желвь · изложи по Діогенꙋ · по Фаворинꙋ же то Парменидъ.",
+    "author": "Zeno of Elea",
+    "year": -450,
+    "originalText": "Ζήνωνα πρῶτον τὸν Ἀχιλλέα λόγον ἠρώτησε· Φαβωρῖνος δέ φησι Παρμενίδην.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.29"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#Ζήνων"
+  },
+  {
+    "_id": 597,
+    "type": "anecdote",
+    "sr": "Kada je smrad reke izazvao kugu u Selinuntu, Empedoklo je o svom trošku doveo dve susedne reke i mešanjem njihovih tokova pročistio vodu. Pošto je pošast prestala, stanovnici su mu se klanjali kao bogu.",
+    "stsl": "Єгда смрадъ рѣкы моръ въ Селинѹнтѣ въздвиже · Ємпедоклъ своимъ иждивениемъ двѣ ближнѣи рѣцѣ приведе и съмѣшениемъ токовъ ихъ водѹ очисти · Єгда же пагѹба прѣста · жители ꙗко богѹ ємѹ покланѧахѹ сѧ ·",
+    "originalText": "Διόδωρος δ' ὁ Ἐφέσιος περὶ Ἀναξιμάνδρου γράφων φησὶ ὅτι τοῦτον ἐζηλώκει, τραγικὸν ἀσκῶν τῦφον καὶ σεμνὴν ἀναλαβὼν ἐσθῆτα. τοῖς Σελινουντίοις ἐμπεσόντος λοιμοῦ διὰ τὰς ἀπὸ τοῦ παρακειμένου ποταμοῦ δυσωδίας, ὥστε καὶ αὐτοὺς φθείρεσθαι καὶ τὰς γυναῖκας δυστοκεῖν, ἐπινοῆσαι τὸν Ἐμπεδοκλέα καὶ δύο τινὰς ποταμοὺς τῶν σύνεγγυς ἐπαγαγεῖν ἰδίαις δαπάναις· καὶ καταμίξαντα γλυκῆναι τὰ ῥεύματα. οὕτω δὴ λήξαντος τοῦ λοιμοῦ καὶ τῶν Σελινουντίων εὐωχουμένων ποτὲ παρὰ τῷ ποταμῷ, ἐπιφανῆναι τὸν Ἐμπεδοκλέα· τοὺς δ' ἐξαναστάντας προσκυνεῖν καὶ προσεύχεσθαι καθαπερεὶ θεῷ.",
+    "author": "Empedocles",
+    "year": -449,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.70"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:857"
+  },
+  {
     "_id": 83,
     "type": "bio",
     "year": -446,
@@ -9589,54 +9637,6 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:435#Ἀθηνα"
   },
   {
-    "_id": 1076,
-    "type": "anecdote",
-    "sr": "Zbog žestine rasprave ljudi su ga ponekad udarali i čupali za kosu, ali je poruge i nasilje podnosio mirno.",
-    "stsl": "Жестости ради прѣниꙗ чловѣци иногда биꙗхѫ єго и власы тръзаахѫ · онъ же порѫганіє и насилиє тихо тръпѣаше.",
-    "author": "Socrates",
-    "year": -440,
-    "originalText": "Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.21"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:156#Πολλάκις δὲ βιαιότερον ἐν ταῖς"
-  },
-  {
-    "_id": 1326,
-    "type": "anecdote",
-    "sr": "Kada su ga vređali, Zenon se razgnevio. Pošto ga je neko zbog toga ukorio, odgovorio je: ‘Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.’",
-    "stsl": "Єгда хѹлѧахѹ єго · Зенонъ разгнѣва сѧ · Єгда же нѣкыи сего ради ѹкори єго · Отъвѣща · Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
-    "author": "Zeno of Elea",
-    "year": -440,
-    "originalText": "Λοιδορούμενον ἀγανακτῆσαι· αἰτιασαμένου δέ τινος, φάναι· \"ἐὰν μὴ λοιδορούμενος προσποιῶμαι, οὐδ' ἐπαινούμενος αἰσθήσομαι.\"",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.29"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#Λοιδο"
-  },
-  {
-    "_id": 599,
-    "type": "anecdote",
-    "sr": "Empedoklo je raspustio oligarhijsko Veće hiljade, nagovorio Akragantince da okončaju stranačke sukobe i neguju političku jednakost, a svojim bogatstvom dao je miraz mnogim siromašnim građankama.",
-    "stsl": "Ємпедоклъ разори олигархиискыи съвѣтъ тꙑсѧшти · Акрагантѧны ѹвѣшта междѹсобьныѩ распрѧ скончати и гражданьскѹ равьность хранити · богатъствомъ же своимъ многымъ ништимъ гражданкамъ приданоє даде ·",
-    "originalText": "Ὕστερον δ' ὁ Ἐμπεδοκλῆς καὶ τὸ τῶν χιλίων ἄθροισμα κατέλυσε συνεστὸς ἐπὶ ἔτη τρία, ὥστε οὐ μόνον ἦν τῶν πλουσίων, ἀλλὰ καὶ τῶν τὰ δημοτικὰ φρονούντων. Νεάνθης δ' ὁ Κυζικηνὸς φησι Μέτωνος τελευτήσαντος τυραννίδος ἀρχὴν ὑποφύεσθαι· εἶτα τὸν Ἐμπεδοκλέα πεῖσαι τοὺς Ἀκραγαντίνους παύσασθαι μὲν τῶν στάσεων, ἰσότητα δὲ πολιτικὴν ἀσκεῖν. Ἔτι τε πολλὰς τῶν πολιτίδων ἀπροίκους ὑπαρχούσας αὐτὸν προικίσαι διὰ τὸν παρόντα πλοῦτον.",
-    "author": "Empedocles",
-    "year": -439,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.66"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:809"
-  },
-  {
     "_id": 601,
     "type": "reported",
     "sr": "Parmenid je filozofirao kroz poeziju, kao Hesiod, Ksenofan i Empedoklo.",
@@ -9733,52 +9733,52 @@
     ]
   },
   {
-    "_id": 928,
+    "_id": 1076,
     "type": "anecdote",
-    "sr": "Aristoksen i Favorin tvrdili su da se gotovo čitava Platonova Država već nalazila u Protagorinim Protivgovorima.",
-    "stsl": "Аристоксенъ и Фаворинъ глаголаахѹ · ꙗко почти вьсѧ Платонова Дръжава вже въ Протъагоровыхъ Протъивословиихъ обрѣтааше сѧ ·",
-    "author": "Protagoras",
-    "year": -437,
-    "originalText": "Ἀριστόξενος δὲ ἐν τρίτῳ Περὶ μουσικῆς καὶ Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὰ πλεῖστα αὐτῆς ἐν τοῖς Πρωταγόρου Ἀντιλογικοῖς φασιν εἶναι.",
+    "sr": "Zbog žestine rasprave ljudi su ga ponekad udarali i čupali za kosu, ali je poruge i nasilje podnosio mirno.",
+    "stsl": "Жестости ради прѣниꙗ чловѣци иногда биꙗхѫ єго и власы тръзаахѫ · онъ же порѫганіє и насилиє тихо тръпѣаше.",
+    "author": "Socrates",
+    "year": -440,
+    "originalText": "Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως.",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "III.37"
+        "reference": "II.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:357#Ἀριστ"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:156#Πολλάκις δὲ βιαιότερον ἐν ταῖς"
   },
   {
-    "_id": 85,
+    "_id": 1326,
     "type": "anecdote",
-    "sr": "Antisten je najpre bio Gorgijin učenik, a zatim se pridružio Sokratu. Svakoga dana je iz Pireja pešačio oko osam kilometara do Atine da ga sluša. Od Sokrata je preuzeo izdržljivost i ravnodušnost prema telesnim tegobama i time započeo kinički način života.",
-    "stsl": "Антисѳенъ пьрво Горгиєвъ ѹченикъ бѣ · потъомь же къ Сократѹ приста · На вьсѧкъ дьнь отъ Пиреꙗ около осми попришть до Атинъ пѣшь ходѧаше · да єго слѹшаеть · Отъ Сократа тръпѣніє и небреженіє тѣлесьныхъ тѧготъ приѩтъ и тѣмь пъсьскыи образъ животъа нача ·",
-    "originalText": "Οὗτος κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος. Ὕστερον δὲ παρέβαλε Σωκράτει, καὶ τοσοῦτον ὤνατο αὐτοῦ, ὥστε παρῄνει τοῖς μαθηταῖς γενέσθαι αὐτῷ πρὸς Σωκράτην συμμαθητάς. Οἰκῶν τ' ἐν Πειραιεῖ καθ' ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους, παρ' οὗ καὶ τὸ καρτερικὸν λαβὼν καὶ τὸ ἀπαθὲς ζηλώσας κατῆρξε πρῶτος τοῦ κυνισμοῦ.",
-    "author": "Antisthenes",
-    "year": -436,
+    "sr": "Kada su ga vređali, Zenon se razgnevio. Pošto ga je neko zbog toga ukorio, odgovorio je: ‘Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.’",
+    "stsl": "Єгда хѹлѧахѹ єго · Зенонъ разгнѣва сѧ · Єгда же нѣкыи сего ради ѹкори єго · Отъвѣща · Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
+    "author": "Zeno of Elea",
+    "year": -440,
+    "originalText": "Λοιδορούμενον ἀγανακτῆσαι· αἰτιασαμένου δέ τινος, φάναι· \"ἐὰν μὴ λοιδορούμενος προσποιῶμαι, οὐδ' ἐπαινούμενος αἰσθήσομαι.\"",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VI.2"
+        "reference": "IX.29"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/07.txt:8#Οὗτος"
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#Λοιδο"
   },
   {
-    "_id": 172,
-    "type": "bio",
-    "year": -435,
-    "sr": "Rođen u Kireni; došao u Atinu privučen glasom o Sokratu.",
-    "stsl": "Роди сѧ въ Киринѣ · пріиде въ Атины привлеченъ славою Сократовою.",
-    "originalText": "Ἀρίστιππος τὸ μὲν γένος ἦν Κυρηναῖος, ἀφιγμένος δ' Ἀθήναζε κατὰ κλέος Σωκράτους.",
-    "author": "Aristippus",
+    "_id": 599,
+    "type": "anecdote",
+    "sr": "Empedoklo je raspustio oligarhijsko Veće hiljade, nagovorio Akragantince da okončaju stranačke sukobe i neguju političku jednakost, a svojim bogatstvom dao je miraz mnogim siromašnim građankama.",
+    "stsl": "Ємпедоклъ разори олигархиискыи съвѣтъ тꙑсѧшти · Акрагантѧны ѹвѣшта междѹсобьныѩ распрѧ скончати и гражданьскѹ равьность хранити · богатъствомъ же своимъ многымъ ништимъ гражданкамъ приданоє даде ·",
+    "originalText": "Ὕστερον δ' ὁ Ἐμπεδοκλῆς καὶ τὸ τῶν χιλίων ἄθροισμα κατέλυσε συνεστὸς ἐπὶ ἔτη τρία, ὥστε οὐ μόνον ἦν τῶν πλουσίων, ἀλλὰ καὶ τῶν τὰ δημοτικὰ φρονούντων. Νεάνθης δ' ὁ Κυζικηνὸς φησι Μέτωνος τελευτήσαντος τυραννίδος ἀρχὴν ὑποφύεσθαι· εἶτα τὸν Ἐμπεδοκλέα πεῖσαι τοὺς Ἀκραγαντίνους παύσασθαι μὲν τῶν στάσεων, ἰσότητα δὲ πολιτικὴν ἀσκεῖν. Ἔτι τε πολλὰς τῶν πολιτίδων ἀπροίκους ὑπαρχούσας αὐτὸν προικίσαι διὰ τὸν παρόντα πλοῦτον.",
+    "author": "Empedocles",
+    "year": -439,
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "II.65"
+        "reference": "VIII.66"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:424#Ἀρίστιππος τὸ μὲν γένος ἦν Κυρ"
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:809"
   },
   {
     "_id": 610,
@@ -9893,20 +9893,20 @@
     "pointer": "data/sources/diogenes-laertius/el/11.txt:34#πέμψο"
   },
   {
-    "_id": 654,
-    "type": "bio",
-    "year": -435,
-    "sr": "Prokseno Beotijski, prijatelj Kira Mlađeg, bio njegov učenik.",
-    "stsl": "Проксенъ Беотъіискыи · дрꙋгъ Кира Младшаго · ѹченикъ єго бѣ.",
-    "originalText": "Πρόξενος Βοιώτιος, Γοργίου μαθητὴς τοῦ Λεοντίνου.",
-    "author": "Gorgias",
+    "_id": 928,
+    "type": "anecdote",
+    "sr": "Aristoksen i Favorin tvrdili su da se gotovo čitava Platonova Država već nalazila u Protagorinim Protivgovorima.",
+    "stsl": "Аристоксенъ и Фаворинъ глаголаахѹ · ꙗко почти вьсѧ Платонова Дръжава вже въ Протъагоровыхъ Протъивословиихъ обрѣтааше сѧ ·",
+    "author": "Protagoras",
+    "year": -437,
+    "originalText": "Ἀριστόξενος δὲ ἐν τρίτῳ Περὶ μουσικῆς καὶ Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὰ πλεῖστα αὐτῆς ἐν τοῖς Πρωταγόρου Ἀντιλογικοῖς φασιν εἶναι.",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "II.50"
+        "reference": "III.37"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:322#Πρόξε"
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:357#Ἀριστ"
   },
   {
     "_id": 618,
@@ -9942,6 +9942,54 @@
     "tags": [
       "σοφία"
     ]
+  },
+  {
+    "_id": 85,
+    "type": "anecdote",
+    "sr": "Antisten je najpre bio Gorgijin učenik, a zatim se pridružio Sokratu. Svakoga dana je iz Pireja pešačio oko osam kilometara do Atine da ga sluša. Od Sokrata je preuzeo izdržljivost i ravnodušnost prema telesnim tegobama i time započeo kinički način života.",
+    "stsl": "Антисѳенъ пьрво Горгиєвъ ѹченикъ бѣ · потъомь же къ Сократѹ приста · На вьсѧкъ дьнь отъ Пиреꙗ около осми попришть до Атинъ пѣшь ходѧаше · да єго слѹшаеть · Отъ Сократа тръпѣніє и небреженіє тѣлесьныхъ тѧготъ приѩтъ и тѣмь пъсьскыи образъ животъа нача ·",
+    "originalText": "Οὗτος κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος. Ὕστερον δὲ παρέβαλε Σωκράτει, καὶ τοσοῦτον ὤνατο αὐτοῦ, ὥστε παρῄνει τοῖς μαθηταῖς γενέσθαι αὐτῷ πρὸς Σωκράτην συμμαθητάς. Οἰκῶν τ' ἐν Πειραιεῖ καθ' ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους, παρ' οὗ καὶ τὸ καρτερικὸν λαβὼν καὶ τὸ ἀπαθὲς ζηλώσας κατῆρξε πρῶτος τοῦ κυνισμοῦ.",
+    "author": "Antisthenes",
+    "year": -436,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.2"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/07.txt:8#Οὗτος"
+  },
+  {
+    "_id": 172,
+    "type": "bio",
+    "year": -435,
+    "sr": "Rođen u Kireni; došao u Atinu privučen glasom o Sokratu.",
+    "stsl": "Роди сѧ въ Киринѣ · пріиде въ Атины привлеченъ славою Сократовою.",
+    "originalText": "Ἀρίστιππος τὸ μὲν γένος ἦν Κυρηναῖος, ἀφιγμένος δ' Ἀθήναζε κατὰ κλέος Σωκράτους.",
+    "author": "Aristippus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.65"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:424#Ἀρίστιππος τὸ μὲν γένος ἦν Κυρ"
+  },
+  {
+    "_id": 654,
+    "type": "bio",
+    "year": -435,
+    "sr": "Prokseno Beotijski, prijatelj Kira Mlađeg, bio njegov učenik.",
+    "stsl": "Проксенъ Беотъіискыи · дрꙋгъ Кира Младшаго · ѹченикъ єго бѣ.",
+    "originalText": "Πρόξενος Βοιώτιος, Γοργίου μαθητὴς τοῦ Λεοντίνου.",
+    "author": "Gorgias",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.50"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:322#Πρόξε"
   },
   {
     "_id": 571,
@@ -10105,54 +10153,6 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:313#Ξενοφ"
   },
   {
-    "_id": 1255,
-    "type": "anecdote",
-    "sr": "Sokrat je sreo mladog Ksenofonta u uskom prolazu i pregradio mu put štapom.",
-    "stsl": "Сократъ младаго Ксенофонта въ тѣсьномь проходѣ срѣте и жезломъ ємѹ пѫть загради ·",
-    "originalText": "Τούτῳ δὲ ἐν στενωπῷ φασιν ἀπαντήσαντα Σωκράτην διατεῖναι τὴν βακτηρίαν καὶ κωλύειν παριέναι.",
-    "author": "Xenophon",
-    "year": -430,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.48"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:313#Τούτῳ"
-  },
-  {
-    "_id": 1256,
-    "type": "anecdote",
-    "sr": "Pitao ga je gde se prodaju različite namirnice. Kada je dobio odgovore, pitao je gde ljudi postaju dobri i časni.",
-    "stsl": "Вопрошаше · къдѣ различнаꙗ брашна продаѭть сѧ · Отъвѣты приємъ вопроси · къдѣ чловѣци добри и чьстьни бываѭть ·",
-    "originalText": "πυνθανόμενον ποῦ πιπράσκοιτο τῶν προσφερομένων ἕκαστον· ἀποκριναμένου δὲ πάλιν πυθέσθαι ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι.",
-    "author": "Xenophon",
-    "year": -430,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.48"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:313#πυνθα"
-  },
-  {
-    "_id": 1257,
-    "type": "anecdote",
-    "sr": "Zbunjenom Ksenofontu rekao je da pođe za njim i nauči. Ksenofont je tako postao njegov učenik.",
-    "stsl": "Съмѫштеномѹ Ксенофонтѹ рече · да по немь идеть и наѹчить сѧ · Тако Ксенофонтъ ѹченикъ єго бысть ·",
-    "originalText": "ἀπορήσαντος δέ, « Ἕπου τοίνυν, » φάναι, « καὶ μάνθανε. » Καὶ τοὐντεῦθεν ἀκροατὴς Σωκράτους ἦν.",
-    "author": "Xenophon",
-    "year": -430,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.48"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:313#ἀπορή"
-  },
-  {
     "_id": 633,
     "type": "works",
     "sr": "Napisao je Rođenje Kureta i Koribanata i Bogorođenje, pet hiljada stihova.",
@@ -10198,20 +10198,20 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:691#Συνέγ"
   },
   {
-    "_id": 1327,
-    "type": "bio",
-    "sr": "Ubijen zbog zavere protiv tiranina Nearha ili Diomedonta; odgrizao jezik i ispljunuo na tiranina.",
-    "stsl": "Ѹбиєнъ бысть ради съмꙑсла протъивѹ мѫчителю Неарха или Діомедонта · ѩзыкъ отъгрꙑзе и на мѫчителꙗ изплева.",
-    "author": "Zeno of Elea",
+    "_id": 1255,
+    "type": "anecdote",
+    "sr": "Sokrat je sreo mladog Ksenofonta u uskom prolazu i pregradio mu put štapom.",
+    "stsl": "Сократъ младаго Ксенофонта въ тѣсьномь проходѣ срѣте и жезломъ ємѹ пѫть загради ·",
+    "originalText": "Τούτῳ δὲ ἐν στενωπῷ φασιν ἀπαντήσαντα Σωκράτην διατεῖναι τὴν βακτηρίαν καὶ κωλύειν παριέναι.",
+    "author": "Xenophon",
     "year": -430,
-    "originalText": "Ἐπιβουλεύσας τυραννοκτονῆσαι Νέαρχον· ἢ Διομέδοντα· τὴν γλῶτταν ἀποδακὼν ἐνέπτυσε τῷ τυράννῳ.",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "IX.26-27"
+        "reference": "II.48"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:183#Ἐπιβο"
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:313#Τούτῳ"
   },
   {
     "_id": 637,
@@ -10264,6 +10264,54 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/09.txt:1125#ἡδονὴ"
+  },
+  {
+    "_id": 1256,
+    "type": "anecdote",
+    "sr": "Pitao ga je gde se prodaju različite namirnice. Kada je dobio odgovore, pitao je gde ljudi postaju dobri i časni.",
+    "stsl": "Вопрошаше · къдѣ различнаꙗ брашна продаѭть сѧ · Отъвѣты приємъ вопроси · къдѣ чловѣци добри и чьстьни бываѭть ·",
+    "originalText": "πυνθανόμενον ποῦ πιπράσκοιτο τῶν προσφερομένων ἕκαστον· ἀποκριναμένου δὲ πάλιν πυθέσθαι ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι.",
+    "author": "Xenophon",
+    "year": -430,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.48"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:313#πυνθα"
+  },
+  {
+    "_id": 1257,
+    "type": "anecdote",
+    "sr": "Zbunjenom Ksenofontu rekao je da pođe za njim i nauči. Ksenofont je tako postao njegov učenik.",
+    "stsl": "Съмѫштеномѹ Ксенофонтѹ рече · да по немь идеть и наѹчить сѧ · Тако Ксенофонтъ ѹченикъ єго бысть ·",
+    "originalText": "ἀπορήσαντος δέ, « Ἕπου τοίνυν, » φάναι, « καὶ μάνθανε. » Καὶ τοὐντεῦθεν ἀκροατὴς Σωκράτους ἦν.",
+    "author": "Xenophon",
+    "year": -430,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.48"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:313#ἀπορή"
+  },
+  {
+    "_id": 1327,
+    "type": "bio",
+    "sr": "Ubijen zbog zavere protiv tiranina Nearha ili Diomedonta; odgrizao jezik i ispljunuo na tiranina.",
+    "stsl": "Ѹбиєнъ бысть ради съмꙑсла протъивѹ мѫчителю Неарха или Діомедонта · ѩзыкъ отъгрꙑзе и на мѫчителꙗ изплева.",
+    "author": "Zeno of Elea",
+    "year": -430,
+    "originalText": "Ἐπιβουλεύσας τυραννοκτονῆσαι Νέαρχον· ἢ Διομέδοντα· τὴν γλῶτταν ἀποδακὼν ἐνέπτυσε τῷ τυράννῳ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.26-27"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:183#Ἐπιβο"
   },
   {
     "_id": 1328,
@@ -10362,6 +10410,21 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:84#Ἀνεκλ"
   },
   {
+    "_id": 649,
+    "type": "works",
+    "sr": "Napisao Umetnost govorništva.",
+    "stsl": "Іскѹство глаголаніꙗ написа ·",
+    "originalText": "Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ Τέχνην ἀπολελοιπότα.",
+    "author": "Gorgias",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.59"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/09.txt:697#Γοργί"
+  },
+  {
     "_id": 51,
     "type": "anecdote",
     "sr": "Kada su mu istovremeno javili da je osuđen i da su mu sinovi umrli, Anaksagora je smireno odgovorio da je priroda odavno osudila na smrt i sudije i njega, a da je znao kako su mu deca rođena smrtna. Svoje sinove sahranio je vlastitim rukama.",
@@ -10408,21 +10471,6 @@
     ],
     "sr": "Platon sin Aristona i Periktione, koja potiče od Solona. Zvao se Aristokle, a Platon prozvan zbog svoje širine.",
     "pointer": "data/sources/diogenes-laertius/el/04.txt:9"
-  },
-  {
-    "_id": 649,
-    "type": "works",
-    "sr": "Napisao Umetnost govorništva.",
-    "stsl": "Іскѹство глаголаніꙗ написа ·",
-    "originalText": "Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ Τέχνην ἀπολελοιπότα.",
-    "author": "Gorgias",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.59"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/09.txt:697#Γοργί"
   },
   {
     "_id": 890,
@@ -10601,6 +10649,21 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:477#Ἀπέθα"
   },
   {
+    "_id": 664,
+    "type": "works",
+    "stsl": "Написа книгѫ О естествѣ · положи въ храмъ Артемидинъ · тьмьно же паче написа ·",
+    "sr": "Napisao je knjigu O prirodi; položio ju je u Artemidin hram; pisao je, pak, više mračno nego jasno.",
+    "originalText": "Συνέγραψε βιβλίον Περὶ φύσεως· κατέθετο εἰς τὸ τῆς Ἀρτέμιδος ἱερόν· ἐσκοτωμένως μᾶλλον ἔγραψεν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.5-6"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:23#Συνέγ"
+  },
+  {
     "_id": 931,
     "type": "anecdote",
     "sr": "Prema Filohoru, Protagora je posle progonstva plovio ka Siciliji i stradao kada je brod potonuo. Drugi su govorili da je umro na putu u dubokoj starosti.",
@@ -10617,54 +10680,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:447"
   },
   {
-    "_id": 1049,
-    "type": "anecdote",
-    "sr": "Često je u raspravama primao udarce i čupan za kosu, i najčešće ismevan sa prezirom. Sve je to podnosio strpljivo. Zato kada ga je neko šutnuo, a on to podnео, neko se čudio, pa je rekao: Ako bi me magarac šutnuo, zar bih ga zbog toga tužio?",
-    "stsl": "Многожьды въ прѣніихъ бываꙗше избиваємъ и за власы влѣкомъ · и паче всего посмѣиваємъ съ презрѣниємъ · и вьсѧ сиꙗ терпѣливьно ношааше · Тѣмьже и єгда нѣкто єго ритнѫ · а онъ понесе · инъ же дивлѧаше сѧ · рече · Аште бы мѧ осьлъ ритнѫлъ · того ли ради на нь сѫдъ въздвиглъ быхъ ·",
-    "originalText": "Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως. Ὅθεν καὶ λακτισθέντα, ἐπειδὴ ἠνέσχετο, τινὸς θαυμάσαντος, εἰπεῖν, « Εἰ δέ με ὄνος ἐλάκτισε, δίκην ἂν αὐτῷ ἐλάγχανον; »",
-    "author": "Socrates",
-    "year": -420,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.21"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:156#Πολλάκις δὲ βιαιότερον ἐν ταῖς"
-  },
-  {
-    "_id": 663,
-    "type": "works",
-    "stsl": "Написа книгѫ О естествѣ · положи въ храмъ Артемидинъ · тьмьно же паче написа ·",
-    "sr": "Napisao je knjigu O prirodi; položio ju je u Artemidin hram; pisao je, pak, više mračno nego jasno.",
-    "originalText": "Συνέγραψε βιβλίον Περὶ φύσεως· κατέθετο εἰς τὸ τῆς Ἀρτέμιδος ἱερόν· ἐσκοτωμένως μᾶλλον ἔγραψεν.",
-    "author": "Heraclitus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.5-6"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:23#Συνέγ"
-  },
-  {
-    "_id": 1093,
-    "type": "anecdote",
-    "sr": "Aristip je kao prvi Sokratov učenik koji je naplaćivao poučavanje poslao učitelju dvadeset mina. Sokrat je sav novac vratio, rekavši da mu božanski znak ne dopušta da ga primi.",
-    "stsl": "Аристипъ ꙗко пьрвыи Сократовъ ѹченикъ · иже за поѹченіє мъздꙫ приємлѧаше · ѹчителю двадесѧть минъ посла · Сократъ вьсе сребро възврати · рекъ · ꙗко божьє знаменіє не попѹштаєть ємѹ приѧти є ·",
-    "author": "Socrates",
-    "year": -420,
-    "originalText": "Οὗτος σοφιστεύσας, ὥς φησι Φαινίας ὁ περιπατητικὸς ὁ Ἐρέσιος, πρῶτος τῶν Σωκρατικῶν μισθοὺς εἰσεπράξατο καὶ ἀπέστειλε χρήματα τῷ διδασκάλῳ.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.65"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/03.txt:424#Οὗτος"
-  },
-  {
-    "_id": 665,
+    "_id": 666,
     "type": "quote",
     "stsl": "Не мене нъ слово послоушавъше · мѫдро съглашати ꙗко вьсѧ єдно ·",
     "sr": "Ne mene, nego slovo poslušavši, mudro je složiti se da je sve jedno.",
@@ -10682,7 +10698,7 @@
     ]
   },
   {
-    "_id": 666,
+    "_id": 667,
     "type": "quote",
     "stsl": "Вѣдѣти подобаєть · ратъ обьштъ · правда же сваръ · вьсѧ по сварѣ и нѫждѣ бꙑваѭть ·",
     "sr": "Treba znati: rat je opšti, pravda je razdor, a sve nastaje kroz razdor i nuždu.",
@@ -10696,7 +10712,7 @@
     ]
   },
   {
-    "_id": 667,
+    "_id": 668,
     "type": "quote",
     "stsl": "Съвꙑпѧ цѣлоє и нецѣлоє · съходѧштеє сѧ и расходѧштеє сѧ · Отъ вьсѣхъ єдино · и отъ єдиного вьсѧ ·",
     "sr": "Spojevi: celo i necelo, spajajuće i razdvajajuće, saglasno i nesaglasno; i iz svega jedno, i iz jednog sve.",
@@ -10710,7 +10726,7 @@
     ]
   },
   {
-    "_id": 668,
+    "_id": 669,
     "type": "quote",
     "stsl": "Многоученіє ѹма не наѹчить · Єсіода бо бꙑ наѹчило и Пѷѳагорꙋ · пакꙑ же Ꙁєнофана и Єкатаіа ·",
     "sr": "Mnogoučenje ne uči umu. Jerbo Hesioda bi naučilo i Pitagoru, te Ksenofana i Hekateja.",
@@ -10732,7 +10748,7 @@
     ]
   },
   {
-    "_id": 669,
+    "_id": 670,
     "type": "quote",
     "stsl": "Єдино мѫдро · наѹчити сѧ знамѧ · иже вьсѧ чрєꙁъ вьсѧ править ·",
     "sr": "Jedno je mudro: naučiti znamen koji sve kroz sve upravlja.",
@@ -10751,7 +10767,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:3#ἓν τὸ"
   },
   {
-    "_id": 670,
+    "_id": 671,
     "type": "quote",
     "stsl": "Омира отъвръштѧ отъ борьбъ и бити · такоже и Архілоха ·",
     "sr": "Homera treba izbaciti iz takmičenja i išibati, a isto tako i Arhilaha.",
@@ -10766,7 +10782,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:3#τόν τ"
   },
   {
-    "_id": 671,
+    "_id": 672,
     "type": "quote",
     "stsl": "Гръдꙑнѭ подобаєть гасити паче нежели пожаръ ·",
     "sr": "Gordost treba gasiti pre nego požar.",
@@ -10781,7 +10797,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:5#ὕβριν"
   },
   {
-    "_id": 672,
+    "_id": 673,
     "type": "quote",
     "stsl": "Єдинъ дьнь равенъ вьсѣмь ·",
     "sr": "Jedan dan jednak je svima.",
@@ -10796,7 +10812,7 @@
     ]
   },
   {
-    "_id": 673,
+    "_id": 674,
     "type": "quote",
     "stsl": "Борити сѧ подобаєть народѹ ꙁа ꙁаконъ ꙗко ꙁа стѣнѫ ·",
     "sr": "Narod treba da se bori za zakon kao za zidine.",
@@ -10811,7 +10827,7 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:5#μάχεσ"
   },
   {
-    "_id": 674,
+    "_id": 675,
     "type": "quote",
     "stsl": "Достоить Єфесіаномъ вьсѣмъ въꙁрастьнꙑимъ повѣсити сѧ · а недорослꙑимъ градъ оставити · иже Єрмодора мѫжа полѣꙁнѣишаго отъвръгошѧ глаголѭште · Да никтоже въ насъ лѹчьши бѫдєть · ащє ли же такъ бѫдєть · Отъидеть инамо и съ иными ·",
     "sr": "Efežanima bi dolikovalo da se svi odrasli obese, a maloletni da napuste grad, jer su iz njega izgnali Hermodora, svog najkorisnijeg čoveka, govoreći: „Neka niko među nama ne bude najbolji; a ako neko takav bude, neka ode drugde i među druge.“",
@@ -10829,7 +10845,7 @@
     ]
   },
   {
-    "_id": 675,
+    "_id": 676,
     "type": "quote",
     "stsl": "Дѹшѧ краꙗ ходѧ не обрѧщеши · вьсѧкъ пѫть проходѧ · толь глѫбоко бо слово єѧ ·",
     "sr": "Kraja duši nećeš naći, makar prošao svakim putem - toliko je duboko slovo njeno.",
@@ -10848,7 +10864,7 @@
     ]
   },
   {
-    "_id": 676,
+    "_id": 677,
     "type": "reported",
     "stsl": "Мьнѣніє ꙁваше свѧтѫѭ болѣꙁньѭ · а ꙁрѣніє лъжѭщимь ·",
     "sr": "Mnenje je nazivao svetom bolešću, a viđenje lažljivim.",
@@ -10863,25 +10879,10 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:35#τήν τ"
   },
   {
-    "_id": 677,
-    "type": "reported",
-    "author": "Heraclitus",
-    "stsl": "Бꙑсть дивенъ отъ отърочѧства · млаꙁъ бо глаголѧше ничесоже вѣдѣти · съвръшенъ же бꙑвъ вьсѧ поꙁнати ·",
-    "sr": "Od detinjstva je bio izuzetan; kao mladić govorio je da ništa ne zna, a kada je sazreo, da je sve spoznao.",
-    "originalText": "Γέγονε δὲ θαυμάσιος ἐκ παίδων, ὅτε καὶ νέος ὢν ἔφασκε μηδὲν εἰδέναι, τέλειος μέντοι γενόμενος πάντα ἐγνωκέναι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.5"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:23#Γέγον"
-  },
-  {
     "_id": 678,
     "type": "quote",
-    "stsl": "Отъ огнѧ вьсѧ съставлѧѭть сѧ · и въ не разрѣшаѭть сѧ · Вьсѧ же по сѫдьбѣ бꙑваѭть · и протъивотъечєниємь слагаѭть сѧ · Дѹшь бо и бѣсовъ исплънена сѫть вьсѧ · Рєче же · ꙗко съльнце велико єсть ꙗкоже видимо ·",
-    "sr": "Iz vatre sve nastaje i u nju se razrešava. Sve se događa po sudbini i kroz suprotstavljanje se slažu bića. Sve je puno duša i demona. Rekao je i o svemu što nastaje u svetu i o svim strastima, kao i da je Sunce po veličini takvo kakvim se vidi.",
+    "stsl": "Отъ огнѧ вьсѧ съставлѧѭть сѧ · и въ не разрѣшаѭть сѧ · Вьсѧ же по сѫдьбѣ бꙑваѭть · и протъивотъечєниємь слагаѭть сѧ · Дѹшь бо и дѹховъ исплънена сѫть вьсѧ · Рєче же · ꙗко съльнце велико єсть ꙗкоже видимо ·",
+    "sr": "Iz vatre sve nastaje i u nju se razrešava. Sve se događa po sudbini i kroz suprotstavljanje se slažu bića. Sve je puno duša i duhova. Rekao je i o svemu što nastaje u svetu i o svim strastima, kao i da je Sunce po veličini takvo kakvim se vidi.",
     "originalText": "ἐκ πυρὸς τὰ πάντα συνεστάναι καὶ εἰς τοῦτο ἀναλύεσθαι· πάντα δὲ γίνεσθαι καθ εἱμαρμένην καὶ διὰ τῆς ἐναντιοδρομίας ἡρμόσθαι τὰ ὄντα· καὶ πάντα ψυχῶν εἶναι καὶ δαιμόνων πλήρη. εἴρηκε δὲ καὶ περὶ τῶν ἐν κόσμῳ συνισταμένων πάντων παθῶν, ὅτι τε ὁ ἥλιός ἐστι τὸ μέγεθος οἷος φαίνεται.",
     "author": "Heraclitus",
     "sources": [
@@ -10992,6 +10993,38 @@
     ]
   },
   {
+    "_id": 1049,
+    "type": "anecdote",
+    "sr": "Često je u raspravama primao udarce i čupan za kosu, i najčešće ismevan sa prezirom. Sve je to podnosio strpljivo. Zato kada ga je neko šutnuo, a on to podnео, neko se čudio, pa je rekao: Ako bi me magarac šutnuo, zar bih ga zbog toga tužio?",
+    "stsl": "Многожьды въ прѣніихъ бываꙗше избиваємъ и за власы влѣкомъ · и паче всего посмѣиваємъ съ презрѣниємъ · и вьсѧ сиꙗ терпѣливьно ношааше · Тѣмьже и єгда нѣкто єго ритнѫ · а онъ понесе · инъ же дивлѧаше сѧ · рече · Аште бы мѧ осьлъ ритнѫлъ · того ли ради на нь сѫдъ въздвиглъ быхъ ·",
+    "originalText": "Πολλάκις δὲ βιαιότερον ἐν ταῖς ζητήσεσι διαλεγόμενον κονδυλίζεσθαι καὶ παρατίλλεσθαι, τὸ πλέον τε γελᾶσθαι καταφρονούμενον· καὶ πάντα ταῦτα φέρειν ἀνεξικάκως. Ὅθεν καὶ λακτισθέντα, ἐπειδὴ ἠνέσχετο, τινὸς θαυμάσαντος, εἰπεῖν, « Εἰ δέ με ὄνος ἐλάκτισε, δίκην ἂν αὐτῷ ἐλάγχανον; »",
+    "author": "Socrates",
+    "year": -420,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.21"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:156#Πολλάκις δὲ βιαιότερον ἐν ταῖς"
+  },
+  {
+    "_id": 1093,
+    "type": "anecdote",
+    "sr": "Aristip je kao prvi Sokratov učenik koji je naplaćivao poučavanje poslao učitelju dvadeset mina. Sokrat je sav novac vratio, rekavši da mu božanski znak ne dopušta da ga primi.",
+    "stsl": "Аристипъ ꙗко пьрвыи Сократовъ ѹченикъ · иже за поѹченіє мъздꙫ приємлѧаше · ѹчителю двадесѧть минъ посла · Сократъ вьсе сребро възврати · рекъ · ꙗко божьє знаменіє не попѹштаєть ємѹ приѧти є ·",
+    "author": "Socrates",
+    "year": -420,
+    "originalText": "Οὗτος σοφιστεύσας, ὥς φησι Φαινίας ὁ περιπατητικὸς ὁ Ἐρέσιος, πρῶτος τῶν Σωκρατικῶν μισθοὺς εἰσεπράξατο καὶ ἀπέστειλε χρήματα τῷ διδασκάλῳ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.65"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/03.txt:424#Οὗτος"
+  },
+  {
     "_id": 1094,
     "type": "anecdote",
     "sr": "Verovalo se da je Sokrat pomagao Euripidu pri sastavljanju drama. Atinski komediografi su ih zbog toga zajedno ismevali, nazivajući Euripida napravom koju je Sokrat zakovao i tvrdeći da mu Sokrat sastavlja zvučne, ali prazne komade.",
@@ -11054,36 +11087,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/07.txt:220#Διογέ"
-  },
-  {
-    "_id": 688,
-    "type": "reported",
-    "author": "Heraclitus",
-    "stsl": "Єрмипъ глаголєть · рєщи емѹ врачємъ · можеши ли чрѣва изнѹривъ водѹ исходити · Отъвръгъшимъ же сѧ · положити себе на съльнце · и велѣти отърокомъ гноємь покрꙑвати · Тако напрѧжено на вътории дьнь скончати сѧ · и погрєбънѹ бꙑти на торжишти ·",
-    "sr": "Hermip kaže: rekao je lekarima može li creva isprazni i vodu izvuče. Pošto oni to odbiše, położio se na sunce i naredio deci da ga pokrivaju balegom. Tako napet, drugog dana preminuo, i bio sahranjen na trgu.",
-    "originalText": "Ἕρμιππος δέ φησι λέγειν αὐτὸν τοῖς ἰατροῖς εἴ τις δύναται ἔντερα κεινώσας ὑγρὸν ἐξερᾶσαι· ἀπειπόντων δέ, θεῖναι αὑτὸν εἰς τὸν ἥλιον καὶ κελεύειν τοὺς παῖδας βολίτοις καταπλάττειν· οὕτω δὴ κατατεινόμενον δευτεραῖον τελευτῆσαι καὶ θαφθῆναι ἐν τῇ ἀγορᾷ.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.3"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Ἕρμιπ"
-  },
-  {
-    "_id": 689,
-    "type": "reported",
-    "author": "Heraclitus",
-    "stsl": "Неанѳъ Кузикиискъ глаголєть · не могъшѹ емѹ отъторгнѫти гноѩ · остати · и прѣображєниємь неразѹмѣнѹ псобраꙁнѹ стати ·",
-    "sr": "Neanth Kyzikinos kaže: pošto nije mogao da odvoji balegu, ostao je, i zbog preobražaja bio nepoznat i postao hrana psima.",
-    "originalText": "Νεάνθης δ' ὁ Κυζικηνός φησι μὴ δυνηθέντα αὐτὸν ἀποσπάσαι τὰ βόλιτα μεῖναι καὶ διὰ τὴν μεταβολὴν ἀγνοηθέντα κυνόβρωτον γενέσθαι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.3"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:7#Νεάνθ"
   },
   {
     "_id": 690,
