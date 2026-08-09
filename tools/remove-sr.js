@@ -3,14 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// Get author name from command line argument
-const authorName = process.argv[2];
-
-if (!authorName) {
-  console.error('Usage: node remove-sr.js <AuthorName>');
-  console.error('Example: node remove-sr.js Heraclitus');
-  process.exit(1);
-}
+const authorName = 'Heraclitus'
 
 const filePath = path.join(__dirname, '..', 'data', 'quotes', `${authorName}.json`);
 
