@@ -20,11 +20,12 @@ npm start
 
 ## TODO
 
-- kod predsokratovaca ima skraćenih reported ili anecdote unosa koji su predstavljeni kao quote. prioritet je da to pronađeš i popraviš.
-- dodavanje novih fragmenata - Diels (prvo ručno počistiti predsokratovce)
+SADRŽAJ:
+- ručno počistiti predsokratovce
+- dodavanje novih fragmenata - Diels
 UI:
 - malo uvući reported izreke na stranici autora
-PROVERA PREVODA:
+PREVOD:
 - poboljšati stsl prevode - ukloniti duh novijeg crkvenoslovenskog, vratiti arhaični slovenski ritam
 - proveriti sr prevode
 

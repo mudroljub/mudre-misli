@@ -138,9 +138,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Došao sam u Atinu i niko me nije poznavao.",
-    "stsl": "Придохъ въ Атины · и никтоже мене позна ·",
+    "type": "reported",
+    "sr": "Demokrit je govorio: Došao sam u Atinu i niko me nije poznavao.",
+    "stsl": "Демокритъ глаголаше · Придохъ въ Атины · и никтоже мене позна ·",
     "originalText": "ἦλθον γάρ, φησίν, εἰς Ἀθήνας καὶ οὔτις με ἔγνωκεν.",
     "author": "Democritus",
     "sources": [
