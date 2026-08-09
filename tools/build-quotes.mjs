@@ -153,6 +153,21 @@ for (const file of files) {
     throw new Error(`${file} does not contain an array`)
   }
 
+  // Sort entries within each file first
+  // Entries with 'year' field: sort by year
+  // Other entries: maintain original order
+  content.sort((a, b) => {
+    const hasYearA = 'year' in a && typeof a.year === 'number'
+    const hasYearB = 'year' in b && typeof b.year === 'number'
+
+    if (hasYearA && hasYearB) {
+      return a.year - b.year
+    }
+
+    // Keep entries without year in original order
+    return 0
+  })
+
   for (const entry of content) {
     const author = Array.isArray(entry.author)
       ? entry.author[0]
@@ -240,6 +255,8 @@ for (const [basePointer, items] of byPointer) {
     quote.pointer = `${basePointer}#${anchor}`
   }
 }
+
+// No global sorting needed - each author's entries are already sorted within their file
 
 await fs.writeFile(
   outputFile,

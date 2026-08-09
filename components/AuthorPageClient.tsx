@@ -41,10 +41,8 @@ export default function AuthorPageClient({
   );
 
   const lifeEventsSection = authorEntries
-    .filter((entry): entry is LifeEvent =>
-      entry.type === "anecdote" || entry.type === "bio"
-    )
-    .sort((a, b) => a.year - b.year);
+    .filter((entry): entry is LifeEvent => entry.type === "anecdote" || entry.type === "bio"
+    );
 
   const works = authorEntries.filter(
     (entry): entry is Writing => entry.type === "works" && !isCrossReference(entry)
