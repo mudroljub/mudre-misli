@@ -121,7 +121,7 @@
 | πάθος             | страданіє *(alt: страсть)*            | strast (alt: stradanje)         |
 | παιδεία           | възпитаніє                            | vaspitanje, odgoj               |
 | πάντα             | всѧ                                   | sve                             |
-| πέρας             | прѣдѣлъ                               | međa                            |
+| πέρας             | краи                                  | kraj, granica                   |
 | πλῆθος            | множьство                             | mnoštvo                         |
 | πνεῦμα            | дѹхъ *(alt: дъхъ)*                    | duh (alt: dah)                  |
 | πνέω              | дъхати                                | duvati, disati                  |
