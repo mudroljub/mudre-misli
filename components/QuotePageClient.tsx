@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import classNames from "classnames";
 import Sidebar from "./Sidebar";
 import Header from "./Header";
 import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../lib/data";
@@ -40,13 +41,17 @@ export default function QuotePageClient({
           )}
 
           {quote.stsl && (
-            <blockquote className={`${styles.stslQuote} ${language === 'stsl' ? styles.selectedQuote : ''}`}>
+            <blockquote className={classNames(styles.stslQuote, {
+              [styles.selectedQuote]: language === 'stsl'
+            })}>
               {transliterateStsl(quote.stsl)}
             </blockquote>
           )}
 
           {quote.sr && (
-            <blockquote className={`${styles.srQuote} ${language === 'sr' ? styles.selectedQuote : ''}`}>
+            <blockquote className={classNames(styles.srQuote, {
+              [styles.selectedQuote]: language === 'sr'
+            })}>
               {transliterateSr(quote.sr)}
             </blockquote>
           )}
@@ -61,7 +66,7 @@ export default function QuotePageClient({
             ))}
           </p>
 
-          <Link href={`/${language}/authors/${authorSlugs[authorKey] ?? authorKey}`}>
+          <Link href={`/${language}/authors/${authorSlugs[authorKey] ?? authorKey}`} className={styles.authorLink}>
             {t.gotoAuthor}
           </Link>
         </div>

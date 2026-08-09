@@ -1,5 +1,6 @@
 'use client';
 
+import classNames from "classnames";
 import { getTextForLanguage } from "../lib/data";
 import { useTransliterate } from "../lib/useTransliterate";
 import type { Entry, Language } from "../types/data";
@@ -19,7 +20,7 @@ export default function BookLayout({ entries, language }: BookLayoutProps) {
         {entries.map((entry) => (
           <p
             key={entry._id}
-            className={`${styles.entry} ${styles[entry.type]}`}
+            className={classNames(styles.entry, styles[entry.type])}
           >
             {transliterate(getTextForLanguage(entry, language))}
           </p>

@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
+import classNames from 'classnames';
 import { authorsData, authorSlugs } from '../lib/data';
 import { authorGroups } from '../lib/authorGroups';
 import { useTranslations } from '../lib/useTranslations';
@@ -43,7 +44,9 @@ export default function Sidebar({ language }: SidebarProps) {
       <Link
         key={authorKey}
         href={`/${language}/authors/${slug}`}
-        className={`${styles.author} ${isActive ? styles.active : ''}`}
+        className={classNames(styles.author, {
+          [styles.active]: isActive
+        })}
       >
         <span>{transliterate(displayName)}</span>
       </Link>
@@ -60,7 +63,10 @@ export default function Sidebar({ language }: SidebarProps) {
         {isOpen ? '×' : '☰'}
       </button>
 
-      <aside className={`${styles.sidebar} ${isOpen ? styles.open : styles.closed}`}>
+      <aside className={classNames(styles.sidebar, {
+        [styles.open]: isOpen,
+        [styles.closed]: !isOpen
+      })}>
         <h2><Link href={`/${language}`}>{t.siteTitle}</Link></h2>
         <nav>
           {authorGroups.map((group) => {
@@ -71,13 +77,17 @@ export default function Sidebar({ language }: SidebarProps) {
             return (
               <div key={groupKey} className={styles.group}>
                 <button
-                  className={`${styles.groupHeader} ${isExpanded ? styles.expanded : ''}`}
+                  className={classNames(styles.groupHeader, {
+                    [styles.expanded]: isExpanded
+                  })}
                   onClick={() => toggleGroup(groupKey)}
                 >
                   <span className={styles.groupTitle}>
                     {groupTitle}
                   </span>
-                  <span className={`${styles.expandIcon} ${isExpanded ? styles.expanded : ''}`}>›</span>
+                  <span className={classNames(styles.expandIcon, {
+                    [styles.expanded]: isExpanded
+                  })}>›</span>
                 </button>
 
                 {isExpanded && (

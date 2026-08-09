@@ -1,6 +1,7 @@
 'use client';
 
 import Link from "next/link";
+import classNames from "classnames";
 import { getTextForLanguage, getAuthorName, authorSlugs } from "../lib/data";
 import { useTranslations } from "../lib/useTranslations";
 import type { Entry, Language } from "../types/data";
@@ -28,7 +29,7 @@ export default function QuoteCard({
   const text = transliterate(getTextForLanguage(entry, language));
 
   return (
-    <div className={`${styles.card} ${styles[entry.type]} ${className}`}>
+    <div className={classNames(styles.card, styles[entry.type], className)}>
       <p>{text}</p>
 
       {showAuthor && (

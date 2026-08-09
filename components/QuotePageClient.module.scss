@@ -21,7 +21,6 @@
 
 .sourceLine {
   color: $color-text-light;
-  font-size: $font-size-small;
 }
 
 .originalTitle {
@@ -65,4 +64,9 @@
 .srQuote.selectedQuote {
   font-size: 1.5rem;
   font-weight: 500;
+}
+
+.authorLink {
+  margin-top: 1rem;
+  display: inline-block;
 }
