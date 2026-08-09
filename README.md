@@ -23,6 +23,8 @@ npm start
 SADRŽAJ:
 - ručno počistiti predsokratovce
 - dodavanje novih fragmenata - Diels
+    - Početi sa Heraklitom (6h, brz win) → testirati Strategiju 
+    - nastaviti sa Empedoklom.
 UI:
 - 
 PREVOD:
