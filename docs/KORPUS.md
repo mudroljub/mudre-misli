@@ -1,8 +1,11 @@
 # Korpus za rekonstrukciju slovenskog filozofskog jezika
 
+Svi tekstualni izvori nalaze se u: `../data/sources/corpus/`
+
 ## A. Direktni filozofski izvori ⭐⭐⭐⭐⭐
 
 ### Разуми на елинские философи.txt
+Putanja: `../data/sources/corpus/Разуми на елинските философи.txt`
 Prioritet: najviši
 
 Svrha:
@@ -21,6 +24,8 @@ Ovo je najvažniji novi dodatak.
 ---
 
 ### Прогласъ.txt
+Putanja: `../data/sources/corpus/Прогласъ.txt`
+
 Prioritet: najviši
 
 Svrha:
@@ -39,6 +44,8 @@ Ključni termini:
 ---
 
 ### О письменьхъ.txt
+Putanja: `../data/sources/corpus/О письменьхъ.txt`
+
 Prioritet: najviši
 
 Svrha:
@@ -58,6 +65,8 @@ Ključni termini:
 ## B. Mudrosna književnost ⭐⭐⭐⭐
 
 ### Пчела.txt i Бьчела.txt
+Putanja: `../data/sources/corpus/Пчела.txt` i `../data/sources/corpus/Бьчела.txt`
+
 Prioritet: visok
 
 Svrha:
@@ -77,19 +86,12 @@ X подобьно Y
 
 ---
 
-### Бьчела.txt
-Prioritet: proveriti
-
-Verovatno druga verzija / varijanta Pčele.
-
-Koristiti za poređenje.
-
-
 ---
 
 ## C. Hrišćanski filozofski sloj ⭐⭐⭐⭐
 
 ### Vita_Constantini.txt
+Putanja: `../data/sources/corpus/Vita_Constantini.txt`
 
 Veoma važno.
 
@@ -106,6 +108,7 @@ Ključni termini:
 
 
 ### Beseda na eres.txt
+Putanja: `../data/sources/corpus/Beseda na eres.txt`
 
 Svrha:
 - teološka argumentacija
@@ -121,9 +124,11 @@ Koristan za:
 
 ## D. Osnovni staroslovenski jezički sloj ⭐⭐⭐
 
-### marianus.txt
-### zographensis
-### assemanius.txt
+### marianus.txt, zographensis, assemanius.txt
+Putanja: 
+- `../data/sources/corpus/marianus.txt`
+- `../data/sources/corpus/zographensis`
+- `../data/sources/corpus/assemanius.txt`
 
 Svrha:
 - gramatika
@@ -137,8 +142,10 @@ Ne koristiti kao glavni izvor filozofskih termina.
 
 ## E. Prevodilački sloj ⭐⭐⭐⭐
 
-### suprasliensis.txt
-### sava.txt
+### suprasliensis.txt, sava.txt
+Putanja:
+- `../data/sources/corpus/suprasliensis.txt`
+- `../data/sources/corpus/sava.txt`
 
 Svrha:
 - kako slovenski prevodilac prenosi grčki apstraktni jezik
@@ -156,6 +163,7 @@ Vrlo važni za:
 ## F. Posebni izvori
 
 ### Фисилогъ.txt
+Putanja: `../data/sources/corpus/Фисилогъ.txt`
 
 Koristan za:
 - природа
@@ -164,6 +172,7 @@ Koristan za:
 
 
 ### Слово о плъкоу Игоревѣ.txt
+Putanja: `../data/sources/corpus/Слово о плъкоу Игоревѣ.txt`
 
 Manje važan za filozofiju.
 
