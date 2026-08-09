@@ -5,6 +5,7 @@ import Sidebar from "./Sidebar";
 import Header from "./Header";
 import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../lib/data";
 import { useTranslations } from "../lib/useTranslations";
+import { useTransliterate } from "../lib/useTransliterate";
 import type { AuthorData, Language, Entry } from "../types/data";
 import styles from "./QuotePageClient.module.scss";
 
@@ -20,6 +21,8 @@ export default function QuotePageClient({
   language,
 }: QuotePageClientProps) {
   const { t, transliterate } = useTranslations(language);
+  const transliterateStsl = useTransliterate('stsl');
+  const transliterateSr = useTransliterate('sr');
   const authorKey = Array.isArray(quote.author) ? quote.author[0] : quote.author;
   const authorName = transliterate(getAuthorName(authorKey, language));
 
@@ -29,16 +32,24 @@ export default function QuotePageClient({
       <section className="content">
         <Header language={language} />
         <div className={styles.card}>
-          {authorData?.src ? (
-            <img src={authorData.src} alt={authorName} />
-          ) : null}
+          {authorData?.src && <img src={authorData.src} alt={authorName} />}
           <h2>{authorName}</h2>
 
-          <blockquote className={styles.originalQuote}>{quote.originalText}</blockquote>
+          {quote.originalText && (
+            <blockquote className={styles.originalQuote}>{quote.originalText}</blockquote>
+          )}
 
-          <blockquote className={styles.stslQuote}>{transliterate(quote.stsl)}</blockquote>
+          {quote.stsl && (
+            <blockquote className={`${styles.stslQuote} ${language === 'stsl' ? styles.selectedQuote : ''}`}>
+              {transliterateStsl(quote.stsl)}
+            </blockquote>
+          )}
 
-          <blockquote className={styles.srQuote}>{quote.sr}</blockquote>
+          {quote.sr && (
+            <blockquote className={`${styles.srQuote} ${language === 'sr' ? styles.selectedQuote : ''}`}>
+              {transliterateSr(quote.sr)}
+            </blockquote>
+          )}
 
           <p className={styles.sourceLine}>
             <b>{t.source}</b>: {quote.sources.map((src, idx) => (

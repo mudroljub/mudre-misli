@@ -29,6 +29,9 @@ Jezik zapisivati arhaičnom ćirilicom zasnovanom na najranijoj ćiriličnoj tra
 * **Ꙁ** umesto З (zemlja sa repom)
 * **Ѣ** uvek koristiti gde etimološki pripada (jat)
 * **Ѧ** i **Ѫ** čuvati prema etimologiji (nosni samoglasnici)
+  - **Ѧ** (mali jus, U+0467) za praslovenski *ę* (nosno e)
+  - **Ѫ** (veliki jus, U+046A) za praslovenski *ǫ* (nosno o)
+  - **Ne koristiti ꙙ** (zatvoreni mali jus, U+A659) - uvek pisati **ѧ**
 * **ѭ** samo kada potiče od praslovenskog *jǫ* (mali jus jotirani)
 * **ꙗ** (ja) i **ѧ** (*ę*) razlikovati prema etimologiji
 * **-ть** završetak u 3. licu prezenta (npr. **єсть**, **глаголєть**)
