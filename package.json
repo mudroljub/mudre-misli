@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "predev": "npm run build:quotes",
-    "dev": "next dev",
+    "dev": "npm run dev:watch",
+    "dev:watch": "npm-run-all --parallel dev:next dev:quotes",
+    "dev:next": "next dev",
+    "dev:quotes": "chokidar \"data/quotes/**/*.json\" -c \"npm run build:quotes\"",
     "prebuild": "npm run build:quotes",
     "build": "next build",
     "start": "next start",
@@ -23,6 +26,8 @@
     "@types/node": "20.16.1",
     "@types/react": "18.3.5",
     "@types/react-dom": "18.3.0",
+    "chokidar-cli": "^3.0.0",
+    "npm-run-all": "^4.1.5",
     "typescript": "5.6.3"
   }
 }

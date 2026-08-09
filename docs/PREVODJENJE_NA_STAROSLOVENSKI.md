@@ -37,20 +37,24 @@ Jezik zapisivati arhaičnom ćirilicom zasnovanom na najranijoj ćiriličnoj tra
 * **-ть** završetak u 3. licu prezenta (npr. **єсть**, **глаголєть**)
 * **-ніє** u nastavcima, ne -ниє (dosledno -ніє)
 
-### Grčka slova (samo u grčkim imenima)
+### Grčka slova (samo u ličnim imenima)
 
-Ova slova koristiti **SAMO** u grčkim vlastitim imenima i pozajmljenicama kada odgovaraju grčkom izvorniku:
+Ova slova koristiti **SAMO** u grčkim ličnim imenima kada odgovaraju grčkom izvorniku:
 
-* **Ѡ** (omega) - samo kada odgovara grčkom Ω (npr. Сѡкратъ, Платѡнъ)
+* **Ѡ** (omega) - samo kada odgovara grčkom Ω (npr. Сѡкратъ, Платѡнъ, Блѡсѡна)
 * **Ѳ** (fita) - kada odgovara grčkom Θ (npr. Ѳалесъ)
-* **Ѯ** (ksi) - kada odgovara grčkom Ξ (npr. Анаѯїмандръ → Анаѯімандръ)
+* **Ѯ** (ksi) - kada odgovara grčkom Ξ (npr. Анаѯімандръ)
 * **Ѱ** (psi) - kada odgovara grčkom Ψ
 * **Ѵ** (ižica) - kada odgovara grčkom Υ
 
-**Važno:** U običnim slovenskim rečima koristiti:
-- **о** umesto Ѡ (npr. "О прѣвратѣ", ne "Ѡ прѣвратѣ")
-- **ф** umesto Ѳ u slovenskim rečima
+**VAŽNO PRAVILO:** Grčka slova koristiti **ISKLJUČIVO** u ličnim imenima. U svim slovenskim rečima (uključujući glagole, imenice, predloge) koristiti obične slovenske grafeme:
+
+- **о** umesto Ѡ/ѡ (npr. "о прѣвратѣ", "оставити", "огнь", "ограниченъ")
+- **отъ** umesto Ѿ/ѿ ligature - pisati rastavljeno sa jerom (npr. "отъвѣшта", "отъ огнѧ", "отъврьже", "отъшьдъ")
+- **ф** umesto Ѳ/ѳ u slovenskim rečima
 - **і** ili **и** prema etimologiji
+
+Ne postoje grčke tuđice u ovom projektu - sve reči su slovenske osim ličnih imena.
 
 ### Uglavnom izbegavati
 
@@ -146,10 +150,13 @@ Koristiti jezičke oblike prirodne za staroslovenski. Ne kopirati grčki red re�
 
 ### 1. Pogrešna upotreba Ѡ (omega)
 
-❌ **POGREŠNO:** Ѡ градѣ · Ѡ прѣвратѣ · Ѡбраꙁъ  
-✅ **ISPRAVNO:** О градѣ · О прѣвратѣ · Образъ
+❌ **POGREŠNO:** Ѡ градѣ · ѡставити · ѡгнь · ѡдолѣвъше  
+✅ **ISPRAVNO:** О градѣ · оставити · огнь · одолѣвъше
 
-**Zapamti:** Ѡ koristiti **SAMO** u grčkim imenima: Сѡкратъ, Платѡнъ
+❌ **POGREŠNO:** отъврьже (glagol sa о)  
+✅ **ISPRAVNO:** отъврьже (samo ako nije u kontekstu imena)
+
+**Zapamti:** Ѡ/ѡ koristiti **ISKLJUČIVO** u ličnim imenima: Сѡкратъ, Платѡнъ, Блѡсѡна. SVE slovenske reči koriste обично **о**.
 
 ### 2. Upotreba Ї umesto І
 
