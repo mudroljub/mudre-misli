@@ -24,7 +24,7 @@ SADRŽAJ:
 - ručno počistiti predsokratovce
 - dodavanje novih fragmenata - Diels
 UI:
-- malo uvući reported izreke na stranici autora
+- 
 PREVOD:
 - poboljšati stsl prevode - ukloniti duh novijeg crkvenoslovenskog, vratiti arhaični slovenski ritam
 - proveriti sr prevode

@@ -41,3 +41,9 @@
   border-left: 4px solid $color-border;
   background: lighten($color-border, 18%);
 }
+
+.reported {
+  border-left: 4px solid $color-border;
+  background: lighten($color-border, 18%);
+  margin-left: $spacing-lg;
+}
