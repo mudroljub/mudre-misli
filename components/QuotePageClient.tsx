@@ -34,9 +34,11 @@ export default function QuotePageClient({
           ) : null}
           <h2>{authorName}</h2>
 
-          <blockquote>{transliterate(getTextForLanguage(quote, language))}</blockquote>
-
           <blockquote className={styles.originalQuote}>{quote.originalText}</blockquote>
+
+          <blockquote className={styles.stslQuote}>{transliterate(quote.stsl)}</blockquote>
+
+          <blockquote className={styles.srQuote}>{quote.sr}</blockquote>
 
           <p className={styles.sourceLine}>
             <b>{t.source}</b>: {quote.sources.map((src, idx) => (

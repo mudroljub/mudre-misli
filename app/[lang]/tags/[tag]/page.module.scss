@@ -1,10 +1,10 @@
 @import '../../../../styles/shared';
 
 .content {
-  padding: $spacing-xl;
+  padding: 20px;
 
-  @media (max-width: $breakpoint-mobile) {
-    padding: 20px;
+  @media (min-width: $breakpoint-mobile) {
+    padding: $spacing-xl;
   }
 }
 

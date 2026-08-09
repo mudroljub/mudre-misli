@@ -30,8 +30,29 @@
 }
 
 .originalQuote {
-  margin-top: 1rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
   font-size: $font-size-medium;
   color: $color-text-light;
   font-style: italic;
+  background: rgba(0, 0, 0, 0.02);
+  border-left: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+.stslQuote {
+  padding: 1rem;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.7);
+  background: rgba(196, 30, 58, 0.03);
+  border-left: 3px solid rgba(196, 30, 58, 0.3);
+}
+
+.srQuote {
+  padding: 1rem;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  background: rgba(0, 0, 0, 0.02);
+  border-left: 3px solid rgba(0, 0, 0, 0.15);
 }
