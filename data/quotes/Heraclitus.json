@@ -179,27 +179,35 @@
   },
   {
     "type": "quote",
-    "stsl": "Многоученіє ѹма не наѹчить · Ісіода бо наѹчило бꙑ и Пѵѳагора · такоже и Ѯенофана и Хєкатєа ·",
-    "sr": "Mnogoznanje ne uči umu. Jer bi naučilo Hesioda, Pitagoru, a zatim i Ksenofana i Hekateja.",
-    "originalText": "πολυμαθίη νόον οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην, αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον.",
+    "stsl": "Многоученіє ѹма не наѹчить · Єсіода бо бꙑ наѹчило и Пѷѳагорꙋ · пакꙑ же Ꙁєнофана и Єкатаіа ·",
+    "sr": "Mnogoznanje ne uči umu. Hesioda bi naučilo i Pitagoru, takođe Ksenofana i Hekateja.",
+    "originalText": "πολυμαθίη νόον ἔχειν οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην αὖτίς τε Ξενοφάνεα καὶ Ἑκαταῖον.",
     "author": "Heraclitus",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "IX.1"
+      },
+      {
+        "name": "diels-kranz",
+        "reference": "B.40"
       }
     ]
   },
   {
     "type": "quote",
-    "stsl": "Єдино мѫдро · вѣдѣти знамѧ · ꙗко править вьсѧ чрєꙁъ вьсѧ ·",
-    "sr": "Jedno je mudro: znati promisao po kojoj upravlja svime kroz sve.",
+    "stsl": "Єдино мѫдро · наѹчити сѧ знамѧ · ꙗкоже вьсѧ чрєꙁъ вьсѧ строи ·",
+    "sr": "Jedno je mudro: naučiti znamen, kako sve kroz sve upravlja.",
     "originalText": "ἓν τὸ σοφόν, ἐπίστασθαι γνώμην, ὁτέη ἐκυβέρνησε πάντα διὰ πάντων.",
     "author": "Heraclitus",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "IX.1"
+      },
+      {
+        "name": "diels-kranz",
+        "reference": "B.41"
       }
     ]
   },
@@ -964,32 +972,6 @@
       {
         "name": "diels-kranz",
         "reference": "B.37"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "stsl": "Множьство наѹченіѧ ѹма имѣти не наѹчаєть · Єсіода бо бꙑ наѹчило и Пѷѳагорꙋ · пакꙑ же Ꙁєнофана и Єкатаіа ·",
-    "sr": "Mnoštvo naučenosti ne uči um imati. Hesioda bi naučila i Pitagoru, opet pak Ksenofana i Hekateја.",
-    "originalText": "πολυμαθίη νόον ἔχειν οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην αὖτίς τε Ξενοφάνεα καὶ Ἑκαταῖον.",
-    "author": "Heraclitus",
-    "sources": [
-      {
-        "name": "diels-kranz",
-        "reference": "B.40"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "stsl": "Єдино єсть то мѫдроє · ꙁнати ꙁнамѧ · ꙗкоже вьсѧ чрєꙁъ вьсѧ строи ·",
-    "sr": "Jedno je to mudro: poznati znamen, kako sve kroz sve upravlja.",
-    "originalText": "ἓν τὸ σοφόν, ἐπίστασθαι γνώμην, ᾗ ἐκυβέρνησε πάντα διὰ πάντων.",
-    "author": "Heraclitus",
-    "sources": [
-      {
-        "name": "diels-kranz",
-        "reference": "B.41"
       }
     ]
   },
