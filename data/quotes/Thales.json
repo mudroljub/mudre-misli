@@ -248,8 +248,8 @@
   },
   {
     "type": "quote",
-    "sr": "Od svega što postoji najstariji je Bog, jer je nerođen.",
-    "stsl": "Старѣи вьсѣхъ сѫщиихъ Богъ · нерожденъ бо єсть ·",
+    "sr": "Najstariji od svega je Bog, jer je nerođen.",
+    "stsl": "Старѣи вьсѣхъ сѫщиихъ Богъ · нерожденъ бо ·",
     "originalText": "Πρεσβύτατον τῶν ὄντων θεός· ἀγένητον γάρ.",
     "author": "Thales",
     "sources": [
@@ -262,7 +262,7 @@
   {
     "type": "quote",
     "sr": "Najlepši je ustroj, jer je delo Božje.",
-    "stsl": "Красьнѣиши строи · дѣло бо Божиє ·",
+    "stsl": "Красьнѣи вьсѣхъ Строи · дѣло бо Божиє ·",
     "originalText": "Κάλλιστον κόσμος· ποίημα γὰρ θεοῦ.",
     "author": "Thales",
     "sources": [
@@ -275,7 +275,7 @@
   {
     "type": "quote",
     "sr": "Najveći je prostor, jer sve obuhvata.",
-    "stsl": "Веліи мѣсто · вьсѧ бо вмѣщаєть ·",
+    "stsl": "Вєщє вьсѣхъ мѣсто · вьсѧ бо вмѣщаєть ·",
     "originalText": "Μέγιστον τόπος· ἅπαντα γὰρ χωρεῖ.",
     "author": "Thales",
     "sources": [
@@ -287,8 +287,8 @@
   },
   {
     "type": "quote",
-    "sr": "Najbrži je um, jer svuda hitno stiže.",
-    "stsl": "Борзъ ѹмъ · чрєꙁъ вьсѧ бо прѣтечєть ·",
+    "sr": "Najbrži je um, jer kroz sve protiče.",
+    "stsl": "Борꙁѣи вьсѣхъ ѹмъ · чрєꙁъ вьсѧ бо прѣтечєть ·",
     "originalText": "Τάχιστον νοῦς· διὰ παντὸς γὰρ τρέχει.",
     "author": "Thales",
     "sources": [
@@ -301,7 +301,7 @@
   {
     "type": "quote",
     "sr": "Najjača je nužda, jer svime vlada.",
-    "stsl": "Крѣпъка нѫжда · вьсѣмь бо владѣєть ·",
+    "stsl": "Крѣплѣи вьсѣхъ нѫжда · вьсѣмь бо владѣєть ·",
     "originalText": "Ἰσχυρότατον ἀνάγκη· κρατεῖ γὰρ πάντων.",
     "author": "Thales",
     "sources": [
@@ -314,7 +314,7 @@
   {
     "type": "quote",
     "sr": "Najmudrije je vreme, jer sve razotkriva.",
-    "stsl": "Мѫдро врѣмѧ · вьсѧ бо ѡбрѣтаєть ·",
+    "stsl": "Мѫдрѣє вьсѣхъ врѣмѧ · вьсѧ бо ѡбрѣтаєть ·",
     "originalText": "Σοφώτατον χρόνος· ἀνευρίσκει γὰρ πάντα.",
     "author": "Thales",
     "sources": [
@@ -377,10 +377,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Najteže je upoznati samoga sebe.",
-    "stsl": "Тѧжько самъ себе познати ·",
-    "originalText": "Τὸ ἑαυτὸν γνῶναι.",
+    "type": "reported",
+    "sr": "Upitan šta je najteže, reče: Upoznati samoga sebe.",
+    "stsl": "Въпрошєнъ што тѧжє · рєчє · Самъ себе познати ·",
+    "originalText": "Ἐρωτηθεὶς τί δύσκολον, ἔφη, « Τὸ ἑαυτὸν γνῶναι· »",
     "author": "Thales",
     "sources": [
       {
@@ -390,10 +390,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Najlakše je savetovati drugoga.",
-    "stsl": "Легъко инѹ поѹчити ·",
-    "originalText": "Τὸ ἄλλῳ ὑποθέσθαι.",
+    "type": "reported",
+    "sr": "Upitan šta je najlakše, reče: Savetovati drugoga.",
+    "stsl": "Въпрошєнъ што легъшє · рєчє · Инѹ поѹчити ·",
+    "originalText": "Τί δὲ εὔκολον, « Τὸ ἄλλῳ ὑποθέσθαι· »",
     "author": "Thales",
     "sources": [
       {
@@ -403,10 +403,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Najprijatniji je uspeh.",
-    "stsl": "Слаждьше съпѣханіє ·",
-    "originalText": "Τὸ ἐπιτυγχάνειν.",
+    "type": "reported",
+    "sr": "Upitan šta je najprijatnije, reče: Uspeh.",
+    "stsl": "Въпрошєнъ што слаждє · рєчє · Съпѣханіє ·",
+    "originalText": "Τί ἥδιστον, « Τὸ ἐπιτυγχάνειν· »",
     "author": "Thales",
     "sources": [
       {
@@ -416,10 +416,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Božansko je ono što nema ni početka ni kraja.",
-    "stsl": "Божьствьно · єже ни начѧла ни коньца имать ·",
-    "originalText": "Τὸ μήτε ἀρχὴν ἔχον μήτε τελευτήν.",
+    "type": "reported",
+    "sr": "Upitan šta je božansko, reče: Ono što nema ni početka ni kraja.",
+    "stsl": "Въпрошєнъ что божьствьно · рєчє · Єже ни начѧла ни коньца имать ·",
+    "originalText": "Τί τὸ θεῖον, « Τὸ μήτε ἀρχὴν ἔχον μήτε τελευτήν. »",
     "author": "Thales",
     "sources": [
       {
@@ -429,10 +429,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Najčudnije što sam video jeste ostareli tiranin.",
-    "stsl": "Дивьнѣи видѣхъ мѫчительꙗ старьца ·",
-    "originalText": "Γέροντα τύραννον.",
+    "type": "reported",
+    "sr": "Upitan šta je najčudnije što je video, reče: Ostarelog tirana.",
+    "stsl": "Въпрошєнъ што дивьнѣє видѣ · рєчє · Мѫчительꙗ старьца ·",
+    "originalText": "Τί δύσκολον εἴη τεθεαμένος ἔφη, « Γέροντα τύραννον. »",
     "author": "Thales",
     "sources": [
       {
@@ -442,10 +442,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Nedaću će čovek najlakše podneti ako vidi neprijatelje u gorem stanju.",
-    "stsl": "Легъко недачѫ понєсєть · аште врагꙑ въ горьшемь видить ·",
-    "originalText": "Εἰ τοὺς ἐχθροὺς χεῖρον πράσσοντας βλέποι.",
+    "type": "reported",
+    "sr": "Upitan kako najlakše podneti nedaću, reče: Ako vidi neprijatelje u gorem stanju.",
+    "stsl": "Въпрошєнъ како легъшє недачѫ понести · рєчє · Аште врагꙑ въ горьшемь видить ·",
+    "originalText": "Πῶς ἄν τις ἀτυχίαν ῥᾷστα φέροι, « Εἰ τοὺς ἐχθροὺς χεῖρον πράσσοντας βλέποι· »",
     "author": "Thales",
     "sources": [
       {
@@ -455,10 +455,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Najbolje i najpravednije živimo kada ne činimo ono što kod drugih kudimo.",
-    "stsl": "Аште єже инꙑмь ѹкорѧємь · самі не творимь ·",
-    "originalText": "Ἐὰν ἃ τοῖς ἄλλοις ἐπιτιμῶμεν, αὐτοὶ μὴ δρῶμεν.",
+    "type": "reported",
+    "sr": "Upitan kako najbolje i najpravednije živeti, reče: Ako ne činimo ono što kod drugih kudimo.",
+    "stsl": "Въпрошєнъ како лѹчшє і праведьнѣє жити · рєчє · Аште єже инꙑмь ѹкорѧємь самі не творимь ·",
+    "originalText": "Πῶς ἂν ἄριστα καὶ δικαιότατα βιώσαιμεν, « Ἐὰν ἃ τοῖς ἄλλοις ἐπιτιμῶμεν, αὐτοὶ μὴ δρῶμεν· »",
     "author": "Thales",
     "sources": [
       {

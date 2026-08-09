@@ -20,8 +20,10 @@ npm start
 
 ## TODO
 
-- proveri svuda previše rasečene i besmislene unose, koje su deo šire anegdote
+- kod predsokratovaca ima skraćenih reported ili anecdote unosa koji su predstavljeni kao quote. prioritet je da to pronađeš i popraviš.
 - dodavanje novih fragmenata - Diels (prvo ručno počistiti predsokratovce)
+UI:
+- malo uvući reported izreke na stranici autora
 PROVERA PREVODA:
 - poboljšati stsl prevode - ukloniti duh novijeg crkvenoslovenskog, vratiti arhaični slovenski ritam
 - proveriti sr prevode
