@@ -4,7 +4,7 @@
 
 Svaki `bio` i `anecdote` entry mora imati svoju godinu.
 
-Tipovi `quote` i `reported` **ne smeju** imati polje `year`.
+Tipovi `quote`, `reported` i `works` **nemaju** polje `year`.
 
 ---
 
@@ -12,9 +12,9 @@ Tipovi `quote` i `reported` **ne smeju** imati polje `year`.
 
 Godina prvenstveno služi **sortiranju unosa na vremenskoj liniji**.
 
-Ne treba izmišljati prividnu istorijsku preciznost.
+Prvo treba datirati poznate događaje (ratove, olimpijade i sl), a potom preostalu biografiju.
 
-Godina ne tvrdi nužno da se događaj dogodio upravo te godine, već označava najprikladniju tačku za njegovo pozicioniranje na vremenskoj liniji.
+Ne treba izmišljati prividnu istorijsku preciznost. Godina ne tvrdi nužno da se događaj dogodio upravo te godine, već označava najprikladniju tačku za njegovo pozicioniranje na vremenskoj liniji.
 
 ---
 
@@ -41,7 +41,7 @@ Procena mora biti istorijski moguća i hronološki dosledna.
 
 Svaki filozof ima polja `born` i `died` koja definišu minimalne i maksimalne godine njegovog života.
 
-**Ni jedan unos ne sme imati godinu van ovog opsega.**
+**Ni jedan biografski unos ne sme imati godinu van ovog opsega.** Izuzetak su posthumni događaji.
 
 ### Primer
 
