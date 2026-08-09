@@ -46,8 +46,8 @@ export default function AuthorPageClient({
     )
     .sort((a, b) => a.year - b.year);
 
-  const writingsSection = authorEntries.filter(
-    (entry): entry is Writing => entry.type === "writing" && !isCrossReference(entry)
+  const works = authorEntries.filter(
+    (entry): entry is Writing => entry.type === "works" && !isCrossReference(entry)
   );
 
   return (
@@ -112,12 +112,12 @@ export default function AuthorPageClient({
           </section>
         )}
 
-        {crossReferencesSection.length > 0 && (
+        {works.length > 0 && (
           <section className={styles.authorSection}>
-            <h3>{t.sectionOthersAbout}</h3>
+            <h3>{t.sectionWritings}</h3>
 
             <div className={styles.grid}>
-              {crossReferencesSection.map((entry) => (
+              {works.map((entry) => (
                 <QuoteCard
                   key={entry._id}
                   entry={entry}
@@ -128,12 +128,12 @@ export default function AuthorPageClient({
           </section>
         )}
 
-        {writingsSection.length > 0 && (
+        {crossReferencesSection.length > 0 && (
           <section className={styles.authorSection}>
-            <h3>{t.sectionWritings}</h3>
+            <h3>{t.sectionOthersAbout}</h3>
 
             <div className={styles.grid}>
-              {writingsSection.map((entry) => (
+              {crossReferencesSection.map((entry) => (
                 <QuoteCard
                   key={entry._id}
                   entry={entry}

@@ -70,7 +70,7 @@
     ]
   },
   {
-    "type": "writing",
+    "type": "works",
     "sr": "Napisao je knjigu O prirodi i položio je u hram Artemide; pisao je veoma tmurno.",
     "stsl": "Написа книгѫ Ѡ естествѣ · положи въ храмъ Артемидинъ · тьмьно же паче написа ·",
     "originalText": "Συνέγραψε βιβλίον Περὶ φύσεως· κατέθετο εἰς τὸ τῆς Ἀρτέμιδος ἱερόν· ἐσκοτωμένως μᾶλλον ἔγραψεν.",
@@ -418,7 +418,7 @@
   },
   {
     "type": "reported",
-    "stsl": "Смѣшєниє сътвори словєсъ Хєраклитовꙑихъ и Пѵѳагоровъ и Сѡкратовъ · Чѹвьствьнаꙗ бо по Хєраклитѹ · разѹмьнаꙗ же по Пѵѳагорѹ · гражданьскаꙗ же по Сѡкратѹ любомѫдрьствоваше ·",
+    "stsl": "Платонъ смѣшєниє сътвори словєсъ Хєраклитовꙑихъ и Пѵѳагоровъ и Сѡкратовъ · Чѹвьствьнаꙗ бо по Хєраклитѹ · разѹмьнаꙗ же по Пѵѳагорѹ · гражданьскаꙗ же по Сѡкратѹ любомѫдрьствоваше ·",
     "originalText": "Μίξιν τε ἐποιήσατο τῶν τε Ἡρακλειτείων λόγων καὶ Πυθαγορικῶν καὶ Σωκρατικῶν· τὰ μὲν γὰρ αἰσθητὰ καθ' Ἡράκλειτον, τὰ δὲ νοητὰ κατὰ Πυθαγόραν, τὰ δὲ πολιτικὰ κατὰ Σωκράτην ἐφιλοσόφει.",
     "author": [
       "Heraclitus",
@@ -432,6 +432,6 @@
         "reference": "III.8"
       }
     ],
-    "sr": "Napravio je mešavinu Heraklitovih, Pitagorinih i Sokratovih učenja. Čulno je po Heraklitu, umno po Pitagori, državno po Sokratu filozofirao."
+    "sr": "Platon je napravio mešavinu Heraklitovih, Pitagorinih i Sokratovih učenja. Čulnim po Heraklitu, umnim po Pitagori, državnim po Sokratu filozofirao je."
   }
 ]
