@@ -185,8 +185,12 @@ Koristiti jezi훾ke oblike prirodne za staroslovenski. Ne kopirati gr훾ki red re�
 
 ## Staroslovenski korpus
 
-Vidi [KORPUS.md](KORPUS.md).
+Vidi [KORPUS.md](KORPUS.md) za katalog izvornih tekstova.
 
 ## Re훾nik
 
-Koristiti [RECNIK.md](RECNIK.md).
+Koristiti [RECNIK.md](RECNIK.md) za filozofsku terminologiju.
+
+## Primeri iz korpusa
+
+Vidi [PRIMERI.md](PRIMERI.md) za 56 autenti훾nih primera filozofskih termina u kontekstu sa gr훾kim paralelama i kategorizacijom po oblastima (ontologija, saznanje, jezik, psihologija, etika, teologija).
