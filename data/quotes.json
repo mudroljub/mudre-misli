@@ -1052,8 +1052,8 @@
   {
     "_id": 65,
     "type": "quote",
-    "sr": "Počelo i sastojak je bezgranično.",
-    "stsl": "Начѧло и съставъ безмѣрьноє ·",
+    "sr": "Počelo i prvina je bezgranično.",
+    "stsl": "Начѧло и първина безмѣрьноє ·",
     "originalText": "ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον.",
     "author": "Anaximander",
     "sources": [
@@ -1064,6 +1064,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/el/03.txt:3#ἀρχὴν",
     "tags": [
+      "στοιχεῖον",
       "ἄπειρον"
     ]
   },
@@ -9300,6 +9301,7 @@
     "tags": [
       "εἶναι",
       "πῦρ",
+      "στοιχεῖον",
       "ὕδωρ"
     ]
   },
@@ -10901,8 +10903,8 @@
   {
     "_id": 679,
     "type": "quote",
-    "stsl": "Огнь съставъ · прѣмѣнѫ же огнѧ вьсѧ · рѣдѣниємь и ѫтꙑштєниємь · Вьсѧ же по протъивностѣмь бꙑваѭть · и течєть рѣцѣ подобьно · Єдинъ мирь · ограниченъ · Рождаєть сѧ отъ огнѧ · и паки въ огнь прѣтворѧєть сѧ · по обꙑходѹ · прѣмѣнѧѭште вьсь вѣкъ · Сіє же по сѫдьбѣ ·",
-    "sr": "Vatra je sastav; promenom vatre sve nastaje, razređivanjem i zgušnjavanjem. Sve nastaje po suprotnostima i sve teče poput reke. Sve je ograničeno i postoji jedan svet. Rađa se iz vatre i ponovo se pretvara u vatru, po određenim razdobljima, menjajući se kroz čitav vek. A to se događa po sudbini.",
+    "stsl": "Огнь първина · прѣмѣнѫ же огнѧ вьсѧ · рѣдѣниємь и ѫтꙑштєниємь · Вьсѧ же по протъивностѣмь бꙑваѭть · и течєть рѣцѣ подобьно · Єдинъ мирь · ограниченъ · Рождаєть сѧ отъ огнѧ · и паки въ огнь прѣтворѧєть сѧ · по обꙑходѹ · прѣмѣнѧѭште вьсь вѣкъ · Сіє же по сѫдьбѣ ·",
+    "sr": "Vatra je prvina; promenom vatre sve nastaje, razređivanjem i zgušnjavanjem. Sve nastaje po suprotnostima i sve teče poput reke. Sve je ograničeno i postoji jedan svet. Rađa se iz vatre i ponovo se pretvara u vatru, po određenim razdobljima, menjajući se kroz čitav vek. A to se događa po sudbini.",
     "originalText": "πῦρ εἶναι στοιχεῖον καὶ πυρὸς ἀμοιβὴν τὰ πάντα, ἀραιώσει καὶ πυκνώσει γινόμενα. γίνεσθαί τε πάντα κατ ἐναντιότητα καὶ ῥεῖν τὰ ὅλα ποταμοῦ δίκην, πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον· γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα· τοῦτο δὲ γίνεσθαι καθ εἱμαρμένην.",
     "author": "Heraclitus",
     "sources": [
@@ -10916,6 +10918,7 @@
       "εἶναι",
       "κόσμος",
       "πῦρ",
+      "στοιχεῖον",
       "ἕν"
     ]
   },
@@ -12690,7 +12693,8 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:129#δύο τ",
     "tags": [
       "εἶναι",
-      "πῦρ"
+      "πῦρ",
+      "στοιχεῖον"
     ]
   },
   {
@@ -13915,8 +13919,8 @@
         "reference": "III.69"
       }
     ],
-    "stsl": "Два начѧла вьсѣмъ сѫть · Богъ и тварь · Его же и ѹмомъ нарицаєтъ и винꙋ · Тварь же беꙁобраꙁьна и беꙁмѣрьна · Отъ неѩже съставꙑ бꙑваѭтъ ·",
-    "sr": "Dva načela svemu postavio, boga i tvar, koga i umom naziva i uzrokom. Tvar je bezoblična i bezgranična, iz koje nastaju sastavi.",
+    "stsl": "Два начѧла вьсѣмъ сѫть · Богъ и тварь · Его же и ѹмомъ нарицаєтъ и винꙋ · Тварь же беꙁобраꙁьна и беꙁмѣрьна · Отъ неѩже първинꙑ бꙑваѭтъ ·",
+    "sr": "Dva načela svemu postavio, boga i tvar, koga i umom naziva i uzrokom. Tvar je bezoblična i bezgranična, iz koje nastaju prvine.",
     "pointer": "data/sources/diogenes-laertius/el/04.txt:524",
     "tags": [
       "εἶναι",
@@ -13936,12 +13940,13 @@
         "reference": "III.70"
       }
     ],
-    "stsl": "Прѣмѣнити же сѧ сѫщьствꙋ симѹ въ четꙑри составꙑ · огнь · водѹ · въꙁдѹхъ · ꙁемлѭ · Єдинѫ же ꙁемлѭ непрѣмѣньнѫ бꙑти · мьнѧ винѫ равьности образовъ · иꙁъ нихъже съставлѧєтъ сѧ · Огнѧ бо составъ четворостѣньникъ · въꙁдѹха осмостѣньникъ · водꙑ двадесѧтостѣньникъ · ꙁемлѧ же коцка ·",
-    "sr": "Pretvoriti se ovoj supstanci u četiri sastava: vatru, vodu, vazduh, zemlju. Samo je zemlja nepromenjiva, verujući uzrokom razliku oblika od kojih se sastoji. Vatre sastav je piramida, vazduha osmostrana, vode dvadesetostrana, zemlje kocka.",
+    "stsl": "Прѣмѣнити же сѧ сѫщьствꙋ симѹ въ четꙑри първинꙑ · огнь · водѹ · въꙁдѹхъ · ꙁемлѭ · Єдинѫ же ꙁемлѭ непрѣмѣньнѫ бꙑти · мьнѧ винѫ равьности образовъ · иꙁъ нихъже съставлѧєтъ сѧ · Огнѧ бо първина четворостѣньникъ · въꙁдѹха осмостѣньникъ · водꙑ двадесѧтостѣньникъ · ꙁемлѧ же коцка ·",
+    "sr": "Pretvoriti se ovoj supstanci u četiri prvine: vatru, vodu, vazduh, zemlju. Samo je zemlja nepromenjiva, verujući uzrokom razliku oblika od kojih se sastoji. Vatre prvina je piramida, vazduha osmostrana, vode dvadesetostrana, zemlje kocka.",
     "pointer": "data/sources/diogenes-laertius/el/04.txt:526",
     "tags": [
       "εἶναι",
       "πῦρ",
+      "στοιχεῖον",
       "ὕδωρ"
     ]
   },
@@ -16430,6 +16435,7 @@
     "tags": [
       "εἶναι",
       "πῦρ",
+      "στοιχεῖον",
       "ὕδωρ"
     ]
   },
