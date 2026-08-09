@@ -7,6 +7,7 @@ import Header from "./Header";
 import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../lib/data";
 import { useTranslations } from "../lib/useTranslations";
 import { useTransliterate } from "../lib/useTransliterate";
+import { greekToLatin, isGreek } from "../lib/greekToLatin";
 import type { AuthorData, Language, Entry } from "../types/data";
 import styles from "./QuotePageClient.module.scss";
 
@@ -37,7 +38,12 @@ export default function QuotePageClient({
           <h2>{authorName}</h2>
 
           {quote.originalText && (
-            <blockquote className={styles.originalQuote}>{quote.originalText}</blockquote>
+            <blockquote className={styles.originalQuote}>
+              <div>{quote.originalText}</div>
+              {isGreek(quote.originalText) && (
+                <div className={styles.greekLatin}>{greekToLatin(quote.originalText)}</div>
+              )}
+            </blockquote>
           )}
 
           {quote.stsl && (
