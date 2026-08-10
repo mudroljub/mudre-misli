@@ -2,11 +2,12 @@
 
 import Sidebar from "./Sidebar";
 import Header from "./Header";
-import { getAuthorName } from "../lib/data";
+import { getAuthorName, placesData } from "../lib/data";
 import { useTranslations } from "../lib/useTranslations";
 import type { AuthorData, Language, Entry, LifeEvent, Saying, Writing } from "../types/data";
 import QuoteCard from "./QuoteCard";
 import BookLayout from "./BookLayout";
+import BirthplaceMap from "./BirthplaceMap";
 import styles from "./AuthorPageClient.module.scss";
 
 interface AuthorPageClientProps {
@@ -24,6 +25,12 @@ export default function AuthorPageClient({
 }: AuthorPageClientProps) {
   const { t, transliterate } = useTranslations(language);
   const authorName = transliterate(getAuthorName(author, language));
+  const birthplaceName = authorData.birthplace
+    ? t.cities[authorData.birthplace as keyof typeof t.cities] || authorData.birthplace
+    : null;
+  const birthplaceCoordinates = authorData.birthplace
+    ? placesData[authorData.birthplace]
+    : null;
 
   const isCrossReference = (entry: Entry) => {
     const authors = Array.isArray(entry.author) ? entry.author : [entry.author];
@@ -55,36 +62,45 @@ export default function AuthorPageClient({
       <section className={styles.content}>
         <Header language={language} />
 
-        <h2 className={styles.authorName}>
-          {authorName}{" "}
-          <span className={styles.authorDates}>
-            ({authorData.born < 0 ? `${Math.abs(authorData.born)} ${t.bce}` : authorData.born} – {authorData.died < 0 ? `${Math.abs(authorData.died)} ${t.bce}` : authorData.died})
-          </span>
-        </h2>
+        <div className={styles.authorOverview}>
+          <h2 className={styles.authorName}>
+            {authorName}{" "}
+            <span className={styles.authorDates}>
+              ({authorData.born < 0 ? `${Math.abs(authorData.born)} ${t.bce}` : authorData.born} – {authorData.died < 0 ? `${Math.abs(authorData.died)} ${t.bce}` : authorData.died})
+            </span>
+          </h2>
 
-        {authorData.birthplace && (
-          <p className={styles.birthplace}>
-            {t.cities[authorData.birthplace as keyof typeof t.cities] || authorData.birthplace}
-          </p>
-        )}
+          {birthplaceName && birthplaceCoordinates && (
+            <p className={styles.birthplaceName}>{birthplaceName}</p>
+          )}
 
-        {authorData.src &&
-          <img
-            className={styles.authorPortrait}
-            src={authorData.src}
-            alt={authorName}
-          />
-        }
+          <div className={styles.portraitColumn}>
+            {authorData.src && (
+              <img
+                className={styles.authorPortrait}
+                src={authorData.src}
+                alt={authorName}
+              />
+            )}
 
-        <a
-          href={`https://en.wikipedia.org/wiki/${author.replace(/ /g, "_")}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={styles.subtleLink}
-          title={t.wikipedia}
-        >
-          {t.wikipedia}
-        </a>
+            <a
+              href={`https://en.wikipedia.org/wiki/${author.replace(/ /g, "_")}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.subtleLink}
+              title={t.wikipedia}
+            >
+              {t.wikipedia}
+            </a>
+          </div>
+
+          {birthplaceName && birthplaceCoordinates && (
+            <BirthplaceMap
+              coordinates={birthplaceCoordinates}
+              placeName={birthplaceName}
+            />
+          )}
+        </div>
 
         {lifeEventsSection.length > 0 && (
           <section className={styles.authorSection}>

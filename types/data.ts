@@ -122,6 +122,14 @@ export interface AuthorData {
 }
 
 export type AuthorsData = Record<string, AuthorData>;
+
+export interface PlaceCoordinates {
+  lat: number;
+  long: number;
+}
+
+export type PlacesData = Record<string, PlaceCoordinates>;
+
 export type EntriesByLanguage = Record<Language, Entry[]>;
 
 export interface SourceData {

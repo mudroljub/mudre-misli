@@ -1,8 +1,10 @@
 import authorsRaw from '../data/authors.json';
+import placesRaw from '../data/places.json';
 import quotes from '../data/quotes.json';
 import {
   supportedLanguages,
   type AuthorsData,
+  type PlacesData,
   type Language,
   type EntriesByLanguage,
   type Entry,
@@ -14,6 +16,7 @@ import { getTranslation } from './translations';
 const sourcesData: Record<string, SourceData> = sourcesRaw;
 
 const authorsData: AuthorsData = authorsRaw;
+const placesData: PlacesData = placesRaw;
 const quotesData: Entry[] = quotes as Entry[];
 
 const languages = supportedLanguages;
@@ -88,6 +91,7 @@ const authorById: AuthorsData = { ...authorsData };
 
 export {
   authorsData,
+  placesData,
   authorById,
   quotesData,
   quotesByLanguage,

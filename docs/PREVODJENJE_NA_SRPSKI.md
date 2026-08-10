@@ -9,4 +9,8 @@ Solon je govorio: "Dobar budi." -> Solon je govorio: Dobar budi.
 
 ## Rečnik
 
-Koristiti [RECNIK.md](RECNIK.md).
+Koristi [RECNIK.md](RECNIK.md).
+
+## Primeri dobrih prevoda
+
+Vidi [PRIMERI.md](PRIMERI.md)

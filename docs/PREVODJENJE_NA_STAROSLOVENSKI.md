@@ -317,3 +317,7 @@ Vidi [KORPUS.md](KORPUS.md) za katalog izvornih tekstova.
 Već utvrđene termine koristiti dosledno.
 
 Kada se donese nova terminološka odluka, prvo je uneti u rečnik, a zatim je primenjivati kroz prevode.
+
+## Primeri dobrih prevoda
+
+Vidi [PRIMERI.md](PRIMERI.md)

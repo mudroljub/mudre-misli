@@ -9,7 +9,9 @@
 }
 
 .authorName {
-  margin-bottom: $spacing-sm;
+  grid-area: name;
+  align-self: baseline;
+  margin: 0;
 }
 
 .authorDates {
@@ -18,11 +20,41 @@
   font-weight: normal;
 }
 
-.birthplace {
-  color: #666;
-  font-size: 1.2rem;
-  margin-bottom: $spacing-md;
-  margin-top: 0;
+.birthplaceName {
+  grid-area: place;
+  align-self: baseline;
+  margin: 0;
+  color: #55452f;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.authorOverview {
+  display: grid;
+  grid-template-columns: minmax(0, 320px) minmax(0, 520px);
+  grid-template-areas:
+    'name place'
+    'portrait map';
+  column-gap: $spacing-lg;
+  row-gap: $spacing-md;
+  align-items: start;
+  justify-content: space-between;
+  margin-bottom: $spacing-lg;
+
+  @media (max-width: $breakpoint-mobile) {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      'name'
+      'portrait'
+      'place'
+      'map';
+    gap: $spacing-md;
+  }
+}
+
+.portraitColumn {
+  grid-area: portrait;
+  min-width: 0;
 }
 
 .authorPortrait {

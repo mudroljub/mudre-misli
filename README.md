@@ -26,7 +26,7 @@ SADRŽAJ:
     - Početi sa Heraklitom (6h, brz win) → testirati Strategiju 
     - nastaviti sa Empedoklom.
 UI:
-- 
+- dodati mapu sa gradom rođenja na stranicu autora
 PREVOD:
 - poboljšati stsl prevode - ukloniti duh novijeg crkvenoslovenskog, vratiti arhaični slovenski ritam
 - proveriti sr prevode
