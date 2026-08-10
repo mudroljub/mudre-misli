@@ -7,7 +7,7 @@ import styles from './ScriptSwitcher.module.scss';
 
 interface ScriptSwitcherProps {
   language: Language;
-  currentScript: Script;
+  currentScript: Script | null;
   onScriptChange: (script: Script) => void;
 }
 

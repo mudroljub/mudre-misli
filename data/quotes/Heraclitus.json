@@ -332,7 +332,7 @@
   },
   {
     "type": "quote",
-    "stsl": "Огнь първина и вьсѧ мѣна огнѧ єсть · рѣдѣніємь и ѫтꙑштєниємь бꙑваѭть ·",
+    "stsl": "Огнь първина и вьсѧ мѣна огнѧ єсть · размꙑканиємь и съмꙑканиємь бꙑваѭть ·",
     "sr": "Oganj je prvina, i sve je mena ognja, bivajući razmicanjem i tiskanjem.",
     "originalText": "πῦρ εἶναι στοιχεῖον καὶ πυρὸς ἀμοιβὴν τὰ πάντα, ἀραιώσει καὶ πυκνώσει γινόμενα.",
     "author": "Heraclitus",
@@ -345,8 +345,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Вьсѧ по противьности бꙑваѭть и ꙗко рѣка текѫть ·",
-    "sr": "Sve biva po suprotnosti i teče poput reke.",
+    "stsl": "Вьсѧ по противьности родѧть сѧ и ꙗко рѣка текѫть ·",
+    "sr": "Sve se po suprotnosti rađa i teče poput reke.",
     "originalText": "γίνεσθαί τε πάντα κατ᾽ ἐναντιότητα καὶ ῥεῖν τὰ ὅλα ποταμοῦ δίκην.",
     "author": "Heraclitus",
     "sources": [
@@ -358,8 +358,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Вьсе коньць имать · Єдинъ миръ єсть ·",
-    "sr": "Sve ima kraj. Jedan je svet.",
+    "stsl": "Вьсе коньць имать и єдинъ миръ єсть ·",
+    "sr": "Sve ima kraj i jedan je svet.",
     "originalText": "πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον·",
     "author": "Heraclitus",
     "sources": [
@@ -381,7 +381,7 @@
         "reference": "IX.8"
       }
     ]
-  }
+  },
   {
     "type": "quote",
     "stsl": "То ѧже къ рожденію веꙁєть · ꙁовєть сѧ братиꙗ и свѧрь · а то ѧже къ въогнѭ · єдиномꙑслиє и миръ · прѣмѣна же стьꙁа горѣ долѹ ·",

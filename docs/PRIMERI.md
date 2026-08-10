@@ -16,3 +16,7 @@ Jedno je mudro: naučiti se znamenu što svime kroz sve upravlja.
 Гръдꙑнѭ гасити паче нежели пожаръ ·
 Gordost treba gasiti pre nego požar.
 
+γίνεσθαί τε πάντα κατ᾽ ἐναντιότητα καὶ ῥεῖν τὰ ὅλα ποταμοῦ δίκην.
+Вьсѧ по противьности родѧть сѧ и ꙗко рѣка текѫть ·
+Sve se po suprotnosti rađa i teče poput reke.
+

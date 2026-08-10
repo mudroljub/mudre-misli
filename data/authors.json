@@ -35,6 +35,7 @@
     "birthplace": "Abdera"
   },
   "Eudoxus": {
+    "src": "/images/authors/unknown-greek-philosopher.jpg",
     "born": -408,
     "died": -355,
     "originalText": "Εὔδοξος",
@@ -188,12 +189,14 @@
     "birthplace": "Thebes"
   },
   "Metrocles": {
+    "src": "/images/authors/unknown-greek-philosopher.jpg",
     "born": -340,
     "died": -280,
     "originalText": "Μητροκλῆς",
     "birthplace": "Maroneia"
   },
   "Hipparchia": {
+    "src": "/images/authors/unknown-greek-philosopher.jpg",
     "born": -350,
     "died": -280,
     "originalText": "Ἱππαρχία",
@@ -221,6 +224,7 @@
     "birthplace": "Soli"
   },
   "Aristo of Chios": {
+    "src": "/images/authors/unknown-greek-philosopher.jpg",
     "born": -300,
     "died": -250,
     "originalText": "Ἀρίστων ὁ Χῖος",
@@ -234,6 +238,7 @@
     "birthplace": "Borysthenes"
   },
   "Anaxarchus": {
+    "src": "/images/authors/unknown-greek-philosopher.jpg",
     "born": -380,
     "died": -320,
     "originalText": "Ἀνάξαρχος",
@@ -296,6 +301,7 @@
     "birthplace": "Cnossos"
   },
   "Menedemus": {
+    "src": "/images/authors/unknown-greek-philosopher.jpg",
     "born": -345,
     "died": -261,
     "originalText": "Μενέδημος",

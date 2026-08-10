@@ -31,7 +31,7 @@
 
 .authorOverview {
   display: grid;
-  grid-template-columns: minmax(0, 320px) minmax(0, 520px);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-template-areas:
     'name place'
     'portrait map';
