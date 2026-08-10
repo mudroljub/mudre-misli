@@ -2,6 +2,7 @@
 
 .navigation {
   display: flex;
+  flex-wrap: wrap;
   gap: $spacing-sm;
   font-size: 13px;
 
@@ -24,4 +25,5 @@
       font-weight: 500;
     }
   }
+
 }

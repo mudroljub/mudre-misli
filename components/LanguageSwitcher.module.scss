@@ -2,10 +2,10 @@
 
 .switch {
   display: flex;
+  gap: $spacing-xs;
   justify-content: flex-end;
 
   a {
-    margin-left: $spacing-xs;
     padding: $spacing-xs ($spacing-xs * 2);
     border: 2px solid $color-primary;
     background: $color-white;
@@ -15,7 +15,7 @@
     font-weight: 600;
     border-radius: $border-radius-sm;
     transition: background-color $transition-fast, color $transition-fast;
-    min-width: 120px;
+    min-width: 0;
     text-decoration: none;
     text-align: center;
     display: inline-block;
@@ -29,6 +29,12 @@
       background: $color-primary;
       color: $color-white;
       cursor: default;
+    }
+  }
+
+  @media (min-width: $breakpoint-mobile) {
+    a {
+      min-width: 120px;
     }
   }
 }
