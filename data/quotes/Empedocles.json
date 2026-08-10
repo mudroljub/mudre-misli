@@ -29,7 +29,7 @@
   },
   {
     "type": "bio",
-    "year": -480,
+    "year": -474,
     "sr": "Po Favorinu slušao Pitagoru; po Aristotelu rival Parmenida i Ksenofana u poeziji.",
     "stsl": "По Фаворинѹ Питагорꙋ слꙑшааше · по Аристотъелю съперникъ Парменида и Ксенофана въ поезіи бѣ.",
     "originalText": "Φαβωρῖνος μὲν γὰρ ἐν Παντοδαπῇ ἱστορίᾳ Πυθαγόρου γενέσθαι αὐτὸν ἀκουστήν· Ἀριστοτέλης δ' ἐν τῷ Σοφιστῇ ζηλωτὴν γενέσθαι Παρμενίδου καὶ ἔτι μᾶλλον Ξενοφάνους.",
@@ -43,7 +43,7 @@
   },
   {
     "type": "bio",
-    "year": -470,
+    "year": -443,
     "sr": "Cvetao u osamdeset četvrtoj olimpijadi; branitelj demokratije i odbijač carstva.",
     "stsl": "Процвѣташе въ осмѣдесѧтѣи четврътѣи олимпіадѣ · заштитникъ народоправства и отъказникъ царства.",
     "originalText": "Ἤκμαζε δὲ κατὰ τὴν τετάρτην καὶ ὀγδοηκοστὴν Ὀλυμπιάδα· ἐπολιτεύετό τε δημοκρατικῶς· τὴν δὲ βασιλείαν προσφερομένην αὐτῷ παρῃτήσατο.",
@@ -292,12 +292,12 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Prema Timeju, Empedoklo je bio Pitagorin učenik, ali je zbog prisvajanja učenja isključen iz školskih rasprava. Neant kaže da su pitagorejci, pošto je njihova učenja objavio u pesmi, zabranili da se ona ubuduće predaju pesnicima.",
     "stsl": "По Тимею Ємпедоклъ бѣ ѹченикъ Питагора · нъ ради присвоєниꙗ ѹчєниꙗ отъ школьныхъ бесѣдъ отълѹченъ бысть · Неантъ глаголєть · ꙗко питагорѣи · понеже ѹчєниꙗ ихъ въ пѣнию обнародова · възбраниша къ томѹ пѣснотъворьцемъ ѩ прѣдавати ·",
     "originalText": "Ἀκοῦσαι δ' αὐτὸν Πυθαγόρου Τίμαιος διὰ τῆς ἐνάτης ἱστορεῖ, λέγων ὅτι καταγνωσθεὶς ἐπὶ λογοκλοπίᾳ τότε, καθὰ καὶ Πλάτων, τῶν λόγων ἐκωλύθη μετέχειν. Φησὶ δὲ Νεάνθης ὅτι μέχρι Φιλολάου καὶ Ἐμπεδοκλέους ἐκοινώνουν οἱ Πυθαγορικοὶ τῶν λόγων. ἐπεὶ δ' αὐτὸς διὰ τῆς ποιήσεως ἐδημοσίωσεν αὐτά, νόμον ἔθεντο μηδενὶ μεταδώσειν ἐποποιῷ.",
     "author": "Empedocles",
-    "year": -494,
+    "year": -474,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -306,12 +306,12 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Aristotel je Empedokla smatrao pronalazačem retorike. Bio je lekar i glasovit govornik, a Gorgija iz Leontina bio je njegov učenik.",
     "stsl": "Аристотъель Ємпедокла изобрѣтателемъ рѣчьнаго хѹдожьства мьнѧше · Врачь и славьнъ витиꙗ бѣ · Горгиꙗ же Леонтиньскыи ѹченикъ єго бысть ·",
     "originalText": "Ἀριστοτέλης δ' ἐν τῷ Σοφιστῇ φησι πρῶτον Ἐμπεδοκλέα ῥητορικὴν εὑρεῖν, Ζήνωνα δὲ διαλεκτικήν. Φησὶ δὲ Σάτυρος ἐν τοῖς Βίοις ὅτι καὶ ἰατρὸς ἦν καὶ ῥήτωρ ἄριστος. Γοργίαν γοῦν τὸν Λεοντῖνον αὐτοῦ γενέσθαι μαθητήν, ἄνδρα ὑπερέχοντα ἐν ῥητορικῇ καὶ Τέχνην ἀπολελοιπότα.",
     "author": "Empedocles",
-    "year": -489,
+    "year": -460,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -325,7 +325,7 @@
     "stsl": "Ємпедоклъ свѧтыѩ послы ѹгости жрьтвьнымъ воломъ отъ меда и єчьменьныѩ мѫкы сътворенымъ · обрѧдьнѹ жрьтвѹ безъ ѹбиєниꙗ животъьнаго принесъ ·",
     "originalText": "ἐγὼ δ' εὗρον ἐν τοῖς Ὑπομνήμασι Φαβωρίνου ὅτι καὶ βοῦν ἔθυσε τοῖς θεωροῖς ὁ Ἐμπεδοκλῆς ἐκ μέλιτος καὶ ἀλφίτων.",
     "author": "Empedocles",
-    "year": -484,
+    "year": -470,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -334,12 +334,12 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Predanja ga povezuju sa Parmenidom, Ksenofanom, Anaksagorom i pitagorejcima: govorilo se da je sledio pitagorejsku uzvišenost života i držanja, a Anaksagorino istraživanje prirode.",
     "stsl": "Прѣданиꙗ съвѧзѹѭть єго съ Парменидомъ · Ксенофаномъ · Анаксагорою и питагорѣи · глаголаахѹ · ꙗко питагорѣискѹ высотъѹ животъа и образа послѣдова · Анаксагорино же испытание єстества ·",
     "originalText": "Ὁ δὲ Θεόφραστος Παρμενίδου φησὶ ζηλωτὴν αὐτὸν γενέσθαι καὶ μιμητὴν ἐν τοῖς ποιήμασι. Ἕρμιππος δὲ οὐ Παρμενίδου, Ξενοφάνους δὲ γεγονέναι ζηλωτήν, ᾧ καὶ συνδιατρῖψαι καὶ μιμήσασθαι τὴν ἐποποιίαν· ὕστερον δὲ τοῖς Πυθαγορικοῖς ἐντυχεῖν. Ἀλκιδάμας δ' ἐν τῷ Φυσικῷ φησι κατὰ τοὺς αὐτοὺς χρόνους Ζήνωνα καὶ Ἐμπεδοκλέα ἀκοῦσαι Παρμενίδου, εἶθ' ὕστερον ἀποχωρῆσαι, καὶ τὸν μὲν Ζήνωνα κατ' ἰδίαν φιλοσοφῆσαι, τὸν δὲ Ἀναξαγόρου διακοῦσαι καὶ Πυθαγόρου· καὶ τοῦ μὲν τὴν σεμνότητα ζηλῶσαι τοῦ τε βίου καὶ τοῦ σχήματος, τοῦ δὲ τὴν φυσιολογίαν.",
     "author": "Empedocles",
-    "year": -479,
+    "year": -470,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -377,7 +377,7 @@
   },
   {
     "type": "anecdote",
-    "sr": "Prema Boetiju, Empedoklo je toliko poznavao umetnost pevanja da je, kada je jedan besan mladić napao kralja zbog toga što je otac mladićev osuđen na osnovu njegove optužbe, Empedoklo tako nežno pevao da je smirио mladićev gnev.",
+    "sr": "Prema Boetiju, Empedoklo je toliko poznavao umetnost pevanja da je, kada je jedan besan mladić napao kralja zbog toga što je otac mladićev osuđen na osnovu njegove optužbe, Empedoklo tako nežno pevao da je smirio mladićev gnev.",
     "stsl": "По Боетію · Емпедоклъ толико пѣснопѣніе вѣдѣаше · ꙗко єгда єдинъ ꙗрыи юноша нападе на царѧ · занеже отъьць єго осѫждень бысть єго вины ради · Емпедоклъ тако нѣжьно пѣваше · ꙗко юношинъ гнѣвъ ѹтоли ·",
     "originalText": "Hic, ut ait Boecius in prologo de arte musica, adeo noverat ex musica artein canendi quod, cum rege hospites invenit quidam furibundus invaderet eo quod patrem eius accusacione dampnasset. Ipse Empedocles adeo miti canendi modo dicitur inflexisse quod adolescentis iracundiam temperavit.",
     "la": "Hic, ut ait Boecius in prologo de arte musica, adeo noverat ex musica artein canendi quod, cum rege hospites invenit quidam furibundus invaderet eo quod patrem eius accusacione dampnasset. Ipse Empedocles adeo miti canendi modo dicitur inflexisse quod adolescentis iracundiam temperavit.",
@@ -391,7 +391,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Empedoklo je odbio ponuđenu kraljevsku vlast jer je više cenio skroman život; Aristotel ga zato opisuje kao pobornika slobode i protivnika svake vlasti.",
     "stsl": "Ємпедоклъ подаваємѹю царскѹю власть отърече · зане смѣреныи животъ паче цѣнѧше · сего ради Аристотъель єго поборникомъ свободы и протъивникомъ всѧкыѩ власти имѧнѹєть ·",
     "originalText": "φησὶ δ' αὐτὸν καὶ Ἀριστοτέλης ἐλεύθερον γεγονέναι καὶ πάσης ἀρχῆς ἀλλότριον, εἴ γε τὴν βασιλείαν αὐτῷ διδομένην παρῃτήσατο, καθάπερ Ξάνθος ἐν τοῖς περὶ αὐτοῦ λέγει, τὴν λιτότητα δηλονότι πλέον ἀγαπήσας.",
@@ -447,7 +447,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Empedoklo se pojavljivao u purpurnoj odeći, sa zlatnim pojasom, bronzanim sandalama i delfskim lovorovim vencem, praćen slugama i uvek svečanog držanja. Građani su u tome videli znamenje kraljevskog dostojanstva.",
     "stsl": "Ємпедоклъ ꙗвлꙗаше сѧ въ порфирьнѣи ризѣ · съ златымъ поꙗсомъ · мѣдѣными сандалиꙗми и делфиискымъ лавровымъ вѣнцемъ · слѹгами послѣдованъ и присно торжьственаго образа · Граждане въ семь знамение царьскаго достоиньства видѣахѹ ·",
     "originalText": "Ἔτι τε πολλὰς τῶν πολιτίδων ἀπροίκους ὑπαρχούσας αὐτὸν προικίσαι διὰ τὸν παρόντα πλοῦτον· διὸ δὴ πορφύραν τε ἀναλαβεῖν αὐτὸν καὶ στρόφιον ἐπιθέσθαι χρυσοῦν, ὡς Φαβωρῖνος ἐν Ἀπομνημονεύμασιν· ἔτι τ' ἐμβάτας χαλκᾶς καὶ στέμμα Δελφικόν. κόμη τε ἦν αὐτῷ βαθεῖα· καὶ παῖδες ἀκόλουθοι· καὶ αὐτὸς ἀεὶ σκυθρωπὸς ἐφ' ἑνὸς σχήματος ἦν. τοιοῦτος δὴ προῄει, τῶν πολιτῶν ἐντυχόντων καὶ τοῦτ' ἀξιωσάντων οἱονεὶ βασιλείας τινὸς παράσημον.",
@@ -461,7 +461,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Empedoklo je raspustio oligarhijsko Veće hiljade, nagovorio Akragantince da okončaju stranačke sukobe i neguju političku jednakost, a svojim bogatstvom dao je miraz mnogim siromašnim građankama.",
     "stsl": "Ємпедоклъ разори олигархиискыи съвѣтъ тꙑсѧшти · Акрагантѧны ѹвѣшта междѹсобьныѩ распрѧ скончати и гражданьскѹ равьность хранити · богатъствомъ же своимъ многымъ ништимъ гражданкамъ приданоє даде ·",
     "originalText": "Ὕστερον δ' ὁ Ἐμπεδοκλῆς καὶ τὸ τῶν χιλίων ἄθροισμα κατέλυσε συνεστὸς ἐπὶ ἔτη τρία, ὥστε οὐ μόνον ἦν τῶν πλουσίων, ἀλλὰ καὶ τῶν τὰ δημοτικὰ φρονούντων. Νεάνθης δ' ὁ Κυζικηνὸς φησι Μέτωνος τελευτήσαντος τυραννίδος ἀρχὴν ὑποφύεσθαι· εἶτα τὸν Ἐμπεδοκλέα πεῖσαι τοὺς Ἀκραγαντίνους παύσασθαι μὲν τῶν στάσεων, ἰσότητα δὲ πολιτικὴν ἀσκεῖν. Ἔτι τε πολλὰς τῶν πολιτίδων ἀπροίκους ὑπαρχούσας αὐτὸν προικίσαι διὰ τὸν παρόντα πλοῦτον.",
@@ -475,7 +475,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "O Empedoklovoj smrti kružila su oprečna predanja. Po jednom je noću tajanstveno nestao i proglašen bogom; po drugom se bacio u Etnu, ali je vulkan izbacio jednu njegovu bronzanu sandalu. Drugi su tvrdili da je umro od povrede posle pada iz kola, da se obesio ili da je u starosti pao u more. Timej je odbacivao priču o Etni i smatrao da je umro na Peloponezu.",
     "stsl": "О смрьти Ємпедокловѣ протъивьна прѣданиꙗ хождаахѹ · По єдиномѹ нощию таиньно исчезе и богомъ нареченъ бысть · по дрѹгомѹ въ Етнѹ сѧ въвръже · нъ огнь єдинѹ мѣдѣнѹ сандалию єго извръже · Инии глаголаахѹ · ꙗко отъ раны по падении съ колесницы ѹмре · или обѣси сѧ · или въ старости въ море паде · Тимеи сказание о Етнѣ отъмѣтааше и мьнѧше єго въ Пелопоннисѣ ѹмрьша ·",
     "originalText": "Περὶ δὲ τοῦ θανάτου διάφορός ἐστιν αὐτοῦ λόγος. Ἡρακλείδης μὲν γὰρ τὰ περὶ τῆς ἄπνου διηγησάμενος, ὡς ἐδοξάσθη Ἐμπεδοκλῆς ἀποστείλας τὴν νεκρὰν ἄνθρωπον ζῶσαν, φησὶν ὅτι θυσίαν συνετέλει πρὸς τῷ Πεισιάνακτος ἀγρῷ. ὡς δ' ἡμέρας γενηθείσης ἐξανέστησαν, οὐχ ηὑρέθη μόνος. Ἱππόβοτος δέ φησιν ἐξαναστάντα αὐτὸν ὡδευκέναι ὡς ἐπὶ τὴν Αἴτνην, εἶτα παραγενόμενον ἐπὶ τοὺς κρατῆρας τοῦ πυρὸς ἐναλέσθαι καὶ ἀφανισθῆναι, βουλόμενον τὴν περὶ αὑτοῦ φήμην βεβαιῶσαι ὅτι γεγόνοι θεός, ὕστερον δὲ γνωσθῆναι, ἀναῤῥιπισθείσης αὐτοῦ μιᾶς τῶν κρηπίδων· χαλκᾶς γὰρ εἴθιστο ὑποδεῖσθαι. Δημήτριος δ' ὁ Τροιζήνιος ἐν τῷ Κατὰ σοφιστῶν βιβλίῳ φησὶν αὐτὸν καθ' Ὅμηρον ἁψάμενον βρόχον αἰπὺν ἀφ' ὑψηλοῖο κρανείης αὐχέν' ἀποκρεμάσαι, ψυχὴν δ' Ἀϊδόσδε κατελθεῖν. Ἐν δὲ τῷ προειρημένῳ Τηλαύγους ἐπιστολίῳ λέγεται αὐτὸν εἰς θάλατταν ὑπὸ γήρως ὀλισθόντα τελευτῆσαι. τούτοις δ' ἐναντιοῦται Τίμαιος, ῥητῶς λέγων ὡς ἐξεχώρησεν εἰς Πελοπόννησον καὶ τὸ σύνολον οὐκ ἐπανῆλθεν· ὅθεν αὐτοῦ καὶ τὴν τελευτὴν ἄδηλον εἶναι.",

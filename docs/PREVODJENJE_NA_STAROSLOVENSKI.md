@@ -223,6 +223,12 @@ ako se pojam može izraziti odgovarajućom slovenskom rečju ili istorijski mogu
 
 Koristiti jezičke oblike prirodne za staroslovenski. Ne kopirati grčki red reči ako narušava slovensku konstrukciju.
 
+## Princip jedan na jedan
+
+`jedna grčka reč → jedna staroslovenska reč → jedna srpska reč`
+
+Ne koristiti sinonime ili opisne prevode ako je prevod jednom rečju moguć. Srodne grčke reči prevoditi odgovarajućom slovenskom porodicom reči.
+
 ## Uloga staroslovenskog korpusa
 
 Korpus je jedan od glavnih instrumenata rekonstrukcije, ali nije konačni autoritet za izbor filozofskog termina.

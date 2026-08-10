@@ -61,3 +61,15 @@ Ako tvrdiš da je određeni oblik istorijski potvrđen, potvrdi ga u korpusu ili
 Za gramatičke oblike i konstrukcije poštuj `docs/GRAMATIKA.md`. Ako gramatika još ne propisuje konkretan slučaj, istraži istorijski korpus i praslovenski sistem pre donošenja nove projektne norme.
 
 Ne menjaj generisane fajlove ako postoji izvorni fajl iz kojeg se generišu.
+
+## Dozvole i Git
+
+Sve bezbedne radnje u okviru ovog projekta — čitanje, pretraga, izmene izvornih
+fajlova, pokretanje lokalnih alata, provera tipova, testovi i build — izvršavaj
+bez prethodnog traženja dozvole kada su potrebne za korisnikov zahtev.
+
+Ne pokreći nijednu `git` komandu. Zabrana važi i za komande koje samo čitaju
+stanje repozitorijuma, kao što su `git status`, `git diff`, `git log` i
+`git show`, kao i za sve komande koje menjaju repozitorijum ili komuniciraju sa
+udaljenim repozitorijumom. Ne traži odobrenje za Git: koristi druge alate za
+čitanje i proveru fajlova, a radnje koje zahtevaju Git prepusti korisniku.

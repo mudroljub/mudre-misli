@@ -1,0 +1,8 @@
+# Project-local Codex permissions.
+# Run ordinary in-scope project work automatically. Git commands are forbidden
+# by the explicit project rule in AGENTS.md.
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+[sandbox_workspace_write]
+network_access = true
