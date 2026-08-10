@@ -549,8 +549,8 @@
   {
     "_id": 34,
     "type": "quote",
-    "sr": "Životinje su nastale iz vlage, toplote i zemljane tvari, a potom su se vrste rađale jedna od druge; mužjaci nastaju s desne, a ženke s leve strane.",
-    "stsl": "Животънаѧ быша отъ влаги · теплотъы и земьнаго вещества · таже родове єдинъ отъ дрѹгаго раждаахѹ сѧ · мѫжьскыи отъ десныѩ · женьскыи же отъ лѣвыѩ страны бываѭть ·",
+    "sr": "Životinje se rađaju iz vlage, toplote i zemljane tvari, a potom su se vrste rađale jedna od druge; mužjaci nastaju s desne, a ženke s leve strane.",
+    "stsl": "Животънаѧ родѧть сѧ отъ влаги · теплотъы и земьнаго вещества · таже родове єдинъ отъ дрѹгаго раждаахѹ сѧ · мѫжьскыи отъ десныѩ · женьскыи же отъ лѣвыѩ страны бываѭть ·",
     "originalText": "Ζῷα γίνεσθαι ἐξ ὑγροῦ καὶ θερμοῦ καὶ γεώδους, ὕστερον δὲ ἐξ ἀλλήλων· καὶ ἄρρενα μὲν ἀπὸ τῶν δεξιῶν, θήλεα δὲ ἀπὸ τῶν ἀριστερῶν.",
     "author": "Anaxagoras",
     "sources": [
@@ -7380,8 +7380,8 @@
   {
     "_id": 461,
     "type": "quote",
-    "sr": "Ništa ne nastaje iz nebića niti propada u nebiće.",
-    "stsl": "Ничтоже отъ несѫштаго бываєть · ни въ несѫштеє тлѣєть ·",
+    "sr": "Ništa se ne rađa iz nebića niti propada u nebiće.",
+    "stsl": "Ничтоже отъ несѫштаго не родить сѧ · ни въ несѫштеє тлѣєть ·",
     "originalText": "μηδέν τε ἐκ τοῦ μὴ ὄντος γίνεσθαι μηδὲ εἰς τὸ μὴ ὂν φθείρεσθαι.",
     "author": "Democritus",
     "sources": [
@@ -10903,8 +10903,8 @@
   {
     "_id": 679,
     "type": "quote",
-    "stsl": "Огнь първина и вьсѧ мѣна огнѧ єсть · размꙑканиємь и съмꙑканиємь бꙑваѭть ·",
-    "sr": "Oganj je prvina, i sve je mena ognja, bivajući razmicanjem i tiskanjem.",
+    "stsl": "Огнь първина и вьсѧ мѣна огнѧ · рѣдѣниємь и гѫстѣниємь раждаѭть сѧ ·",
+    "sr": "Oganj je prvina i sve je mena ognja, nastajući razređivanjem i zgušnjavanjem.",
     "originalText": "πῦρ εἶναι στοιχεῖον καὶ πυρὸς ἀμοιβὴν τὰ πάντα, ἀραιώσει καὶ πυκνώσει γινόμενα.",
     "author": "Heraclitus",
     "sources": [
@@ -10958,8 +10958,8 @@
   {
     "_id": 682,
     "type": "quote",
-    "stsl": "Миръ раждаєть сѧ отъ огнѧ и пакꙑ въ огнь прѣтворѧєть сѧ · по нѣкꙑихъ обходѣхъ прѣмѣнно вьсь вѣкъ · Сіє же по сѫдьбѣ бꙑваєть ·",
-    "sr": "Svet se rađa iz ognja i ponovo se u oganj pretvara, po određenim obhodima, naizmenično sav vek. Ovo po sudbini biva.",
+    "stsl": "Миръ из огнѧ раждаєть сѧ и пакꙑ съгораєть · по коловратѣхъ прѣмѣнно вьсь вѣкъ · Сіє же по сѫдьбѣ бꙑваєть ·",
+    "sr": "Svet se iz ognja rađa i ponovo sagoreva, po kolovratu, naizmenično sav vek. Ovo po sudbini biva.",
     "originalText": "γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα· τοῦτο δὲ γίνεσθαι καθ᾽ εἱμαρμένην.",
     "author": "Heraclitus",
     "sources": [

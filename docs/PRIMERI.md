@@ -20,3 +20,6 @@ Gordost treba gasiti pre nego požar.
 Вьсѧ по противьности родѧть сѧ и ꙗко рѣка текѫть ·
 Sve se po suprotnosti rađa i teče poput reke.
 
+πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον·
+Вьсе коньць имать и єдинъ миръ єсть ·
+Sve ima kraj i jedan je svet.
