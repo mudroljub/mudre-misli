@@ -167,8 +167,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Вѣдѣти подобаєть · ратъ обьштъ · правда же сваръ · вьсѧ по сварѣ и нѫждѣ бꙑваѭть ·",
-    "sr": "Treba znati: rat je opšti, pravda je razdor, a sve nastaje kroz razdor i nuždu.",
+    "stsl": "Вѣдѣти подобаєть · ратъ обьштъ · правда же сваръ · вьсѧ по сварѣ и нѫждѣ родѧть сѧ ·",
+    "sr": "Treba znati: rat je opšti, pravda je razdor, a sve se rađa kroz razdor i nuždu.",
     "originalText": "εἰδέναι δὲ χρὴ τὸν πόλεμον ἐόντα ξυνόν, καὶ δίκην ἔριν, καὶ γινόμενα πάντα κατ᾽ ἔριν καὶ χρεώμενα.",
     "author": "Heraclitus",
     "sources": [
@@ -319,9 +319,22 @@
   },
   {
     "type": "quote",
-    "stsl": "Отъ огнѧ вьсѧ съставаѭть и въ нь пакꙑ разлагаѭть сѧ · Вьсѧ же по сѫдьбѣ бꙑваѭть и сѫщаꙗ прѣвратомь слагаѭть сѧ · Вьсѧ же дѹшъ и божьствъ пълна сѫть ·",
-    "sr": "Sve je sastavljeno od vatre i u nju se ponovo razlaže. Sve biva po sudbini, a bića se preobratom usklađuju. Sve je puno duša i božanstava.",
-    "originalText": "ἐκ πυρὸς τὰ πάντα συνεστάναι καὶ εἰς τοῦτο ἀναλύεσθαι· πάντα δὲ γίνεσθαι καθ εἱμαρμένην καὶ διὰ τῆς ἐναντιοδρομίας ἡρμόσθαι τὰ ὄντα· καὶ πάντα ψυχῶν εἶναι καὶ δαιμόνων πλήρη.",
+    "stsl": "Из огнѧ вьсѧ съставаѭть и въ нь разлагаѭть сѧ · Вьсѧ же по сѫдьбѣ родѧть сѧ и сѫщаꙗ прѣвратомь складаѭть сѧ ·",
+    "sr": "Sve se iz ognja sastavlja i u njega razlaže. Sve se rađa po sudbini i bića se preobratom usklađuju.",
+    "originalText": "ἐκ πυρὸς τὰ πάντα συνεστάναι καὶ εἰς τοῦτο ἀναλύεσθαι· πάντα δὲ γίνεσθαι καθ εἱμαρμένην καὶ διὰ τῆς ἐναντιοδρομίας ἡρμόσθαι τὰ ὄντα.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.7"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "stsl": "Вьсѧ дѹшъ и божьствъ пълна сѫть ·",
+    "sr": "Sve je puno duša i božanstava.",
+    "originalText": "καὶ πάντα ψυχῶν εἶναι καὶ δαιμόνων πλήρη.",
     "author": "Heraclitus",
     "sources": [
       {
@@ -371,8 +384,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Миръ из огнѧ раждаєть сѧ и пакꙑ съгораєть · по коловратѣхъ прѣмѣнно вьсь вѣкъ · Сіє же по сѫдьбѣ бꙑваєть ·",
-    "sr": "Svet se iz ognja rađa i ponovo sagoreva, po kolovratu, naizmenično sav vek. Ovo po sudbini biva.",
+    "stsl": "Миръ из огнѧ раждаєть сѧ и пакꙑ съгораєть по коловратѹ мѣною вьсь вѣкъ · Се же по сѫдьбѣ родить сѧ ·",
+    "sr": "Svet se iz ognja rađa i ponovo sagoreva, po kolovratu, na smenu sav vek. Ovo se po sudbini rađa.",
     "originalText": "γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα· τοῦτο δὲ γίνεσθαι καθ᾽ εἱμαρμένην.",
     "author": "Heraclitus",
     "sources": [
@@ -521,7 +534,7 @@
   {
     "type": "reported",
     "author": "Heraclitus",
-    "stsl": "Аристонъ же въ О Хєраклитѣ глаголєть · и водєнѫѭ болѣꙁнь исцѣлѣнѹ бꙑти · ѹмрѣти же инѣѭ болѣꙁниѭ · Сіє же и Іппоботъ рєчє ·",
+    "stsl": "Аристонъ же въ О Хєраклитѣ глаголєть · и водєнѫѭ болѣꙁнь исцѣлѣнѹ бꙑти · ѹмрѣти же инѣѭ болѣꙁниѭ · Сє же и Іппоботъ рєчє ·",
     "sr": "Ariston u spisu O Heraklitu kaže: i vodena bolest bila izlečena, ali je umro od druge bolesti. Isto tako i Hippobot kaže.",
     "originalText": "λέγειν τε Ἀρίστωνα ἐν τῷ Περὶ Ἡρακλείτου καὶ τὸν ὕδερον αὐτὸν θεραπευθῆναι, ἀποθανεῖν δ' ἄλλῃ νόσῳ. τοῦτο δὲ καὶ Ἱππόβοτός φησι.",
     "sources": [
@@ -642,8 +655,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Раꙁьнствꙋѭщєє съходить сѧ · изъ протъивьнꙑхъ краснѣишии складъ · вьсѧ по вражьдѣ бꙑваѭть ·",
-    "sr": "Različno se sjedinjuje, iz suprotnosti najlepši sklad, i sve nastaje kroz razdor.",
+    "stsl": "Раꙁьнствꙋѭщєє съходить сѧ · изъ протъивьнꙑхъ краснѣишии складъ · вьсѧ по вражьдѣ родѧть сѧ ·",
+    "sr": "Različno se sjedinjuje, iz suprotnosti najlepši sklad, i sve se rađa kroz razdor.",
     "originalText": "τὸ ἀντίξουν συμφέρον καὶ ἐκ τῶν διαφερόντων καλλίστην ἁρμονίαν καὶ πάντα κατ᾽ ἔριν γίνεσθαι.",
     "author": "Heraclitus",
     "sources": [

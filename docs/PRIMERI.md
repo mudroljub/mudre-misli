@@ -23,3 +23,8 @@ Sve se po suprotnosti rađa i teče poput reke.
 πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον·
 Вьсе коньць имать и єдинъ миръ єсть ·
 Sve ima kraj i jedan je svet.
+
+μάχεσθαι χρὴ τὸν δῆμον ὑπὲρ τοῦ νόμου ὅκως ὑπὲρ τείχεος.
+Борити сѧ подобаєть народѹ ꙁа ꙁаконъ ꙗко ꙁа стѣнѫ ·
+Narod treba da se bori za zakon kao za zidine.
+
