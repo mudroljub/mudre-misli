@@ -461,7 +461,7 @@ Parmenides je **APSOLUTNI PRIORITET #2** (nakon Empedokla) za Diels integraciju 
 ## REFERENCE
 
 - **Naša baza**: data/quotes/Parmenides.json (21 entries)
-- **Diels fragmenti**: data/sources/hermann-diels/philosophers/18-Parmenides-fragments.json (17 B fragmenata)
+- **Dilsov izvorni tekst**: data/sources/hermann-diels/philosophers/18-Parmenides.txt
 - **Glavni izvor za našu bazu**: Diogenes Laertius IX.21-23
 - **Glavni izvori za Diels**: Simplicius (Physics), Plato (Parmenides), Proclus, Plutarch
 - **Standardna edicija**: Diels-Kranz (DK) 28

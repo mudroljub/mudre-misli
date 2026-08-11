@@ -474,7 +474,7 @@ Pored Aristotela, paradokse opisuju:
 ## REFERENCE
 
 - **Naša baza**: data/quotes/Zeno of Elea.json (22 entries)
-- **Diels B fragmenti**: data/sources/hermann-diels/philosophers/19-Zeno-fragments.json (3 B fragmenta + 1 sažetak)
+- **Dilsov izvorni tekst**: data/sources/hermann-diels/philosophers/19-Zeno.txt
 - **Glavni izvor za našu bazu**: Diogenes Laertius IX.25-29
 - **Glavni izvori za paradokse**: Aristotel Fizika Z 9 (DK 29 A 25-28), Simplicius Fizika komentari
 - **Standardna edicija**: Diels-Kranz (DK) 29

@@ -332,7 +332,7 @@ Empedokle je **apsolutni prioritet** za Diels integraciju jer:
 ## REFERENCE
 
 - **Naša baza**: data/quotes/Empedocles.json (42 entries)
-- **Diels fragmenti**: data/sources/hermann-diels/philosophers/21-Empedocles-fragments.json (140 B fragmenata)
+- **Dilsov izvorni tekst**: data/sources/hermann-diels/philosophers/21-Empedocles.txt
 - **Glavni izvor za našu bazu**: Diogenes Laertius VIII.51-77
 - **Glavni izvori za Diels**: Simplicius (Phys., De Caelo), Plutarch, Sextus Empiricus, Aristotle
 - **Standardna edicija**: Diels-Kranz (DK) 31

@@ -107,14 +107,14 @@ Sledeći kandidati za Strategiju 4 implementaciju:
 | Broj | Filozof | Diels fajl | B fragmenti | Status u našoj bazi |
 |------|---------|-----------|-------------|---------------------|
 | 03 | Anaximenes | 03-Anaximenes.txt | ? | 10 entries |
-| 11 | Xenophanes | 11-Xenophanes-fragments.json | 38 | 22 entries |
-| 12 | **Heraclitus** | 12-Heraclitus-fragments.json | **126** | 32 entries |
-| 18 | Parmenides | 18-Parmenides-fragments.json | 19 | 21 entries |
-| 19 | Zeno | 19-Zeno-fragments.json | 4 | 22 entries |
-| 21 | Empedocles | 21-Empedocles-fragments.json | 161 | 42 entries |
-| 46 | Anaxagoras | 46-Anaxagoras-fragments.json | 23 | 37 entries |
+| 11 | Xenophanes | 11-Xenophanes.txt | — | 22 entries |
+| 12 | **Heraclitus** | 12-Heraclitus.txt | B.1–137 | 32 entries |
+| 18 | Parmenides | 18-Parmenides.txt | — | 21 entries |
+| 19 | Zeno | 19-Zeno.txt | — | 22 entries |
+| 21 | Empedocles | 21-Empedocles.txt | — | 42 entries |
+| 46 | Anaxagoras | 46-Anaxagoras.txt | — | 37 entries |
 
-**Prioritet**: Heraclitus (126 B fragmenata, 32 entries u bazi → najveći potencijal za proširenje)
+**Prioritet**: Heraklitov izvorni tekst je izdvojen, ali automatsko parsiranje oznaka fragmenata zahteva pouzdaniji postupak.
 
 ---
 

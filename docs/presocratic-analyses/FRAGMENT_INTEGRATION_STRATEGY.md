@@ -22,9 +22,9 @@
 
 ### Novi podaci (Hermann Diels)
 - **Tip**: Primarne reference ("šta je filozof SAM napisao")
-- **Status**: 39+ fragmenata parsirano, nisu integrisani
+- **Status**: Dilsove reference su integrisane u citate; automatski indeks fragmenata uklonjen je kao nepouzdan
 - **Format**: DK sistem (B.1, B.2... = autentični fragmenti)
-- **Fajl**: `data/sources/hermann-diels/philosophers/12-Heraclitus-fragments.json`
+- **Izvorni fajl**: `data/sources/hermann-diels/philosophers/12-Heraclitus.txt`
 
 ---
 
