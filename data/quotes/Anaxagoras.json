@@ -15,7 +15,7 @@
   },
   {
     "type": "bio",
-    "year": -500,
+    "year": -480,
     "sr": "Učenik Anaksimena.",
     "stsl": "Оученикъ Анаксименовъ.",
     "originalText": "Οὗτος ἤκουσεν Ἀναξιμένους.",
@@ -43,9 +43,9 @@
   },
   {
     "type": "bio",
-    "year": -460,
-    "sr": "Započeo je filozofiranje u Atini pod arhontom Kalijem, u dvadesetoj godini života, i tamo proveo trideset godina.",
-    "stsl": "Начѧтъ философовати въ Атинахъ при архонтѣ Калліи · въ двадесѧтомъ лѣтѣ житіа · и тамо тридесѧть лѣтъ пребы.",
+    "year": -456,
+    "sr": "Prema Demetriju Falerskom, započeo je filozofiranje u Atini pod arhontom Kalijem, u dvadesetoj godini života, i tamo proveo trideset godina.",
+    "stsl": "По Деметріи Фалерскомь · начѧтъ любомѫдрьствовати въ Атинахъ при архонтѣ Калліи · въ двадесѧтомь лѣтѣ житіꙗ · и тамо тридесѧть лѣтъ прѣбыстъ ·",
     "originalText": "Ἤρξατο δὲ φιλοσοφεῖν Ἀθήνησιν ἐπὶ Καλλίου, ἐτῶν εἴκοσιν ὤν, ὥς φησί Δημήτριος ὁ Φαληρεὺς ἐν τῇ τῶν Ἀρχόντων ἀναγραφῇ, ἔνθα καί φασιν αὐτὸν ἐτῶν διατρῖψαι τριάκοντα.",
     "author": "Anaxagoras",
     "sources": [
@@ -358,11 +358,11 @@
     ]
   },
   {
-    "type": "anecdote",
-    "sr": "Anaksagora je preneo proučavanje prirode iz Jonije u Atinu. Među njegove učenike i sledbenike ubrajani su Perikle, Arhelaj, Euripid i, prema nekim predanjima, Sokrat.",
-    "stsl": "Анаксагора испытание єстества отъ Ионии въ Атины прѣнесе · Междѹ ѹченики и послѣдователи єго причитаахѹ Периклеса · Архелаꙗ · Еврипида и · по нѣкотъорымъ прѣданиемъ · Сократа ·",
+    "type": "bio",
+    "sr": "Anaksagora je preneo proučavanje prirode iz Jonije u Atinu.",
+    "stsl": "Анаксагора испꙑтаніє єстества отъ Іоніи въ Атины прѣнесе ·",
     "author": "Anaxagoras",
-    "year": -500,
+    "year": -456,
     "originalText": "φυσιολογίαν εἰς Ἀθήνας μετήγαγε, πρῶτος βιβλίον ἐνέγραψεν.",
     "sources": [
       {
@@ -419,7 +419,7 @@
     "stsl": "Анаксагорѣ приписѹєть сѧ · ꙗко паденіє небесьнаго камене при Егоспотъамѣ прорече · глаголѧ · ꙗко отъ слъньца падеть · Єгда же въ Олимпиѭ прииде · овьчею кожею обложенъ сѣде · ꙗко дъжда чаѧ · въскорѣ же дъждь истиньно паде ·",
     "originalText": "Φασὶ δ' αὐτὸν προειπεῖν τὴν περὶ Αἰγὸς ποταμοὺς γενομένην τοῦ λίθου πτῶσιν, ὃν εἶπεν ἐκ τοῦ ἡλίου πεσεῖσθαι. Ὅθεν καὶ Εὐριπίδην, μαθητὴν ὄντα αὐτοῦ, χρυσέαν βῶλον εἰπεῖν τὸν ἥλιον ἐν τῷ Φαέθοντι. Ἀλλὰ καὶ εἰς Ὀλυμπίαν ἐλθόντα ἐν δερματίνῳ καθίσαι, ὡς μέλλοντος ὕσειν· καὶ γενέσθαι.",
     "author": "Anaxagoras",
-    "year": -442,
+    "year": -467,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -432,7 +432,7 @@
     "sr": "Anaksagora je izveden pred sud zbog bezbožnosti jer je Sunce nazivao usijanom metalnom masom; prema nekim izvorima optužen je i za naklonost Persiji. Perikle ga je branio. Predanja se razilaze: po jednima je kažnjen i prognan, po drugima osuđen na smrt pa oslobođen, a prema Hermipu nakon oslobađanja nije podneo poniženje i oduzeo je sebi život.",
     "stsl": "Анаксагора предъ сѫдъ изведенъ бысть ради безбожиꙗ · зане слъньце разжьженою мѣдѣною глыбою нарицаше · по нѣкотъорымъ же и ради приꙗзни къ Персомъ обвиненъ бысть · Периклесъ защищааше єго · Прѣданиꙗ разногласа сѫть · по єдинѣхъ осѫжденъ и изгнанъ бысть · по дрѹзѣхъ на смрьть осѫжденъ · таже отъпѹштенъ · по Хермиппѹ же по отъпѹштении срама не прѣтръпѣ и самъ животъ свои сконча ·",
     "author": "Anaxagoras",
-    "year": -428,
+    "year": -433,
     "originalText": "Ἀνεκλήθη δὲ πρὸς τῆς βουλῆς καὶ ἀσεβείας διὰ τὸ τὸν ἥλιον μύδρον διάπυρόν φασκεν εἶναι.",
     "sources": [
       {
@@ -447,7 +447,7 @@
     "stsl": "Єгда ємѹ въкѹпѣ възвѣстиша · ꙗко осѫжденъ єсть и сынове єго ѹмрѣша · Анаксагора тихо отъвѣща · ꙗко єстество издавьна и сѫдиѩ и єго на смрьть осѫди · и ꙗко вѣдѣаше дѣти своѩ смрьтны рождены · Своима рѫкама сыны своѩ погребе ·",
     "originalText": "Ὅτε καὶ ἀμφοτέρων αὐτῷ προσαγγελέντων, τῆς τε καταδίκης καὶ τῆς τῶν παίδων τελευτῆς, εἰπεῖν περὶ μὲν τῆς καταδίκης, ὅτι ἄρα « Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο, » περὶ δὲ τῶν παίδων, ὅτι « Ἤδειν αὐτοὺς θνητοὺς γεννήσας. » Τοῦτον δὲ καὶ θάψαι ταῖς ἰδίαις χερσὶν αὐτοὺς Δημήτριός φησίν ὁ Φαληρεὺς ἐν τῷ Περὶ γήρως.",
     "author": "Anaxagoras",
-    "year": -428,
+    "year": -433,
     "sources": [
       {
         "name": "diogenes-laertius",

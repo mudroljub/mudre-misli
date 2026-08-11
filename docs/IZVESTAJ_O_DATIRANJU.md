@@ -31,7 +31,6 @@ Ovo je izveštaj za ispravke, ne izmena podataka. Oznaka **uredno** znači da ni
 
 | Filozof | Redni broj unosa | Tip | Kratak opis |
 |---|---:|---|---|
-| Anaharsid | 16 | `bio` | uzdržljivost u jelu i osuda raskoši |
 | Antisten | 6 | `bio` | Teopompova pohvala |
 | Kleobul | 2, 3 | `bio`, `anecdote` | Kleobulina; zagonetka |
 | Gorgija | 3 | `bio` | lekar i retor |
@@ -44,7 +43,7 @@ Prema `docs/DATIRANJE.md`, `quote`, `reported` i `works` nemaju `year`.
 
 | Filozof | Broj takvih unosa | Napomena |
 |---|---:|---|
-| Anaksarh | 3 | Sva tri su kontekstualne epizode; verovatno najpre proveriti da li treba da budu `anecdote`. |
+| Anaksarh | 0 | Dva duplirana citata uklonjena su jer već postoje u anegdotama; gozba kod Aleksandra pretipizirana je u `anecdote`. |
 | Antisten | 2 | Pitanje i odgovor u narativnom okviru; proveriti tip pre uklanjanja godine. |
 | Hrisip | 16 | Samostalne izreke; godine treba ukloniti. |
 | Epikur | 9 | Učenja i izreke; godine treba ukloniti. |
@@ -58,11 +57,12 @@ Prema `docs/DATIRANJE.md`, `quote`, `reported` i `works` nemaju `year`.
 
 ### Anaksagora — kritično
 
-- Unos 2, „Učenik Anaksimena“, datiran je u godinu Anaksagorinog rođenja (-500). Po sadašnjim metapodacima Anaksimen je umro -525, pre Anaksagorinog rođenja. To se ne može rešiti samo pomeranjem godine: treba označiti nepouzdano predanje ili preispitati prihvaćenu hronologiju.
-- Unos 28 stavlja prenošenje proučavanja prirode u Atinu i čitav krug učenika u -500, godinu rođenja. Treba ga pomeriti u zrelo doba i verovatno pretipizirati iz `anecdote` u `bio`.
+- Unos 2, „Učenik Anaksimena“, smešten je u Anaksagorinu mladost (-480), kada prema projektnom opsegu ima oko dvadeset godina. Time je uređena Anaksagorina vremenska linija, ali ostaje spoljašnja nesaglasnost sa projektnim datumom Anaksimenove smrti (-525); Diogenova tvrdnja se uprkos tome čuva bez ograde.
+- Unos 28 je pretipiziran u `bio`, sveden na sadržaj koji zaista postoji u pripadajućem grčkom tekstu i pomeren na -456.
 - Unos 3 kaže da je imao dvadeset godina pri Kserksovom prelasku preko Helesponta i stoji na -480; to je saglasno rođenju -500.
-- Unos 4 kaže da je u „dvadesetoj godini života“ počeo da filozofira u Atini, ali stoji na -460, kada bi prema metapodacima imao oko četrdeset godina. Tekst, godina i `born` ne mogu svi biti tačni.
-- Sud, smrt sinova, poslednja želja i smrt grupisani su u -428. To je moguća završna sekvenca, ali godinu suđenja treba zasebno proveriti umesto automatskog vezivanja za godinu smrti.
+- Unos 4 je vezan za Kalijino arhontstvo -456 i sada izričito čuva Demetrijevo pripisivanje. Navod o dvadesetoj godini ostaje izvorna protivrečnost sa opsegom -500–-428.
+- Predviđanje pada meteorskog kamena kod Egospotama pomereno je sa -442 na istorijski potvrđenu godinu pada -467.
+- Suđenje i neposredno povezana vest o smrti sinova pomereni su na približno -433; poslednja želja i smrt u Lampsaku ostaju u -428.
 
 ### Anaksimandar — visoki prioritet
 
@@ -100,10 +100,11 @@ Prema `docs/DATIRANJE.md`, `quote`, `reported` i `works` nemaju `year`.
 - Unos 30, žalost za detetom, vezan je za -558 samo zato što je to godina Solonove smrti. Tekst ne tvrdi da se događaj zbio pred njegovu smrt; dati mu razumnu raniju procenu.
 - Zakonodavstvo je raspoređeno na -592 i -590, uz vrhunac -594. To nije formalno nemoguće, ali više unosa opisuje isti zakonodavni period i treba ih uskladiti oko jedne proverene hronološke tačke, bez privida višestrukih zasebnih zakonodavstava.
 
-### Anaharsid — srednji prioritet
+### Anaharsid — uređeno prema Diogenovom predanju
 
-- Unosu 16 nedostaje godina.
-- Opseg -600 do -580 daje svega dvadeset godina života, a susret sa Solonom i smrt smešteni su u taj uzak period. Čak i ako je reč o projektnom približenju, `born` verovatno predstavlja floruit ili grubu procenu, ne stvarnu godinu rođenja. Pre detaljnog raspoređivanja proveriti metapodatke.
+- Usvojen je projektni životni opseg -620–-580, koji omogućava Diogenov dolazak u Atinu tokom 47. olimpijade.
+- Susret sa Solonom ostaje u -592, podatak o uzdržljivosti smešten je približno u -590, a povratak i smrt u -580.
+- Ovaj raspored prati unutrašnju hronologiju Diogenovog narativa; savremena istorijska rekonstrukcija smatra susret sa Solonom legendarnim i Anaharsida smešta kasnije u 6. vek p. n. e.
 
 ### Pitagora — napomena, ne greška
 
@@ -127,9 +128,9 @@ Za sledeće autore nije moguće sprovesti obaveznu proveru `born`–`died`, jer 
 
 | Filozof | Status | Nalaz / sledeći korak |
 |---|---|---|
-| Anaharsid | dorada | Jedna godina nedostaje; proveriti neuobičajeno kratak životni opseg. |
+| Anaharsid | uređeno datiranje | Usvojen je Diogenov projektni opseg -620–-580; svi obavezni unosi imaju godinu. |
 | Anaksagora | kritično | Godina rođenja korišćena za učeništvo i atinsku delatnost; sukob s Anaksimenom i sopstvenim uzrastom. |
-| Anaksarh | dorada tipova | Tri `quote` unosa imaju godinu; verovatno su anegdotske epizode. |
+| Anaksarh | uređeno | Uklonjena su dva duplikata, a gozba kod Aleksandra pravilno je označena kao anegdota. |
 | Anaksimandar | kritično | Učeništvo i sunčanik pogrešno stavljeni u godinu rođenja. |
 | Anaksimen | kritično | Učeništvo u godini rođenja; Parmenidova veza nemoguća po metapodacima. |
 | Antisten | dorada | Jedan `bio` bez godine; dva `quote` unosa sa godinom i mogućim pogrešnim tipom. |

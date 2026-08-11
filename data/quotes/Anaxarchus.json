@@ -14,30 +14,16 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -330,
-    "sr": "O caru, sve je raskošno; ali nedostaje još samo glava nekog satrapa da bude poslužena.",
-    "stsl": "О царю · всє єсть раскошьно · нъ нє достаєть єщє токмо глава нѣкоєго сатрапа да бѫдєть послѹжєна.",
-    "originalText": "ὦ βασιλεῦ, πάντα πολυτελῶς· ἔδει δὲ λοιπὸν κεφαλὴν σατράπου τινὸς παρατεθεῖσθαι.",
+    "sr": "Na Aleksandrovoj gozbi car ga je upitao šta misli o večeri. Anaksarh je, ciljajući na Nikokreonta, odgovorio: O care, sve je raskošno; nedostaje još samo glava nekog satrapa da bude poslužena.",
+    "stsl": "На пирѹ Алеѯандровѣ царь въпроси єго · что о вечери мьнить · Анаѯархъ же · Нікокреонта ꙁнаменѹѩ · отъвѣшта · О царю · вьсѧ роскошьна сѫть · єдино еще требѹѥть · да глава нѣкоѥго сатрапа предложена бѫдеть ·",
+    "originalText": "καί ποτ' ἐν συμποσίῳ τοῦ Ἀλεξάνδρου ἐρωτήσαντος αὐτὸν τί ἄρα δοκεῖ τὸ δεῖπνον, εἰπεῖν φασιν, \"ὦ βασιλεῦ, πάντα πολυτελῶς· ἔδει δὲ λοιπὸν κεφαλὴν σατράπου τινὸς παρατεθεῖσθαι·\" ἀπορρίπτων πρὸς τὸν Νικοκρέοντα.",
     "author": "Anaxarchus",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "IX.58"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "year": -320,
-    "sr": "Tuci Anaksarhovu kesu, Anaksarha ne tuceš.",
-    "stsl": "Біи Анаѯарховѫ кєсѫ · Анаѯарха нє біи.",
-    "originalText": "πτίσσε τὸν Ἀναξάρχου θύλακον, Ἀνάξαρχον δὲ οὐ πτίσσεις.",
-    "author": "Anaxarchus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.59"
       }
     ]
   },
@@ -61,20 +47,6 @@
     "sr": "Zbog nepokolebljivosti i lakoće života zvan je Blagočestnim. Bio je sposoban da veoma lako razumije.",
     "stsl": "Ради нєпокольбимости і лєгкости житіꙗ нарєчєнъ бꙑстъ Благочѧстьнъ · Бѣ способьнъ да вєльми лєгко разѹмѣваєть ·",
     "originalText": "Οὗτος διὰ τὴν ἀπάθειαν καὶ εὐκολίαν τοῦ βίου Εὐδαιμονικὸς ἐκαλεῖτο· καὶ ἦν ἐκ τοῦ ῥᾴστου δυνατὸς σωφρονίζειν.",
-    "author": "Anaxarchus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.60"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "year": -330,
-    "sr": "Ovo je krv, a ne ihor kakav teče blaženima bogovima.",
-    "stsl": "Сє єсть крьвь · а нє іхоръ каковъ тєчєть бльжєнꙑмъ боговомъ.",
-    "originalText": "τουτὶ μὲν αἷμα καὶ οὐκ ἰχὼρ οἷός πέρ τε ῥέει μακάρεσσι θεοῖσι.",
     "author": "Anaxarchus",
     "sources": [
       {
