@@ -114,7 +114,7 @@ Sledeći fajlovi zahtevaju punu proveru odeljka, jer raspored referenci pokazuje
 
 ## Fajlovi bez samostalnog Diogenovog životopisa
 
-Gorgija, Demosten i Likurg nemaju zasebno poglavlje među Diogenovim životopisima u lokalnom tekstu. Oni se mogu pojaviti u tuđim poglavljima, ali se njihova potpunost ne može proveravati kao kontinuiran odeljak. Za njih treba pretražiti sva pojavljivanja imena u deset knjiga i uključiti samo ono što Diogen zaista prenosi o njima.
+Gorgija i Demosten nemaju zasebno poglavlje među Diogenovim životopisima u lokalnom tekstu. Oni se mogu pojaviti u tuđim poglavljima, ali se njihova potpunost ne može proveravati kao kontinuiran odeljak. Za njih treba pretražiti sva pojavljivanja imena u deset knjiga i uključiti samo ono što Diogen zaista prenosi o njima.
 
 Zoroaster se javlja u proemijumu (I.1–11) u okviru rasprave o persijskim magima. Treba odvojiti:
 

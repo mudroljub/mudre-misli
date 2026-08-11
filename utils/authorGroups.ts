@@ -25,7 +25,8 @@ export const authorGroups: AuthorGroup[] = [
       'Cleobulina',
       'Chilon of Sparta',
       'Anacharsis',
-      'Epimenides'
+      'Epimenides',
+      'Pherecydes'
     ]
   },
   {

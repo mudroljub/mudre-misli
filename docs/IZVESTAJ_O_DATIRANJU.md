@@ -20,7 +20,7 @@ Ovo je izveštaj za ispravke, ne izmena podataka. Oznaka **uredno** znači da ni
 - Provereno je 46 fajlova.
 - Trinaest unosa tipa `bio` ili `anecdote` nema obavezno polje `year`.
 - Šezdeset unosa tipa `quote` ili `reported` pogrešno ima `year`.
-- Pet autora nema zapis u `authors.json`: Cleobulus, Demosthenes, Lycurgus, Pherecydes i Zoroaster.
+- Jedan autor nema zapis u `authors.json`: Zoroaster. Kleobul, Demosten i Ferekid su u međuvremenu dodati, dok je Likurg uklonjen iz zbirke.
 - Ksenofan ima jedan nedozvoljen datum izvan životnog opsega.
 - Pitagorin unos iz 450. p. n. e. takođe je izvan njegovog života, ali ispravno opisuje posthumno objavljivanje Filolajevih knjiga.
 - Najozbiljniji sadržinski problemi nalaze se kod Anaksagore, Anaksimandra, Anaksimena, Gorgije, Ksenofana i Ksenofonta: događaji iz zrelog života postavljeni su u godinu rođenja ili se povezane ličnosti hronološki ne preklapaju.
@@ -35,7 +35,6 @@ Ovo je izveštaj za ispravke, ne izmena podataka. Oznaka **uredno** znači da ni
 | Antisten | 6 | `bio` | Teopompova pohvala |
 | Kleobul | 2, 3 | `bio`, `anecdote` | Kleobulina; zagonetka |
 | Gorgija | 3 | `bio` | lekar i retor |
-| Ferekid | 2–5 | `bio`, `anecdote` | dela, proročanstva i bolest |
 | Solon | 7 | `anecdote` | razgovor s Perijandrom o ćutanju |
 | Zoroaster | 2–4 | `anecdote`, `bio` | rođenje, prvi mag i posthumni uticaj na Demokrita |
 
@@ -119,10 +118,9 @@ Prema `docs/DATIRANJE.md`, `quote`, `reported` i `works` nemaju `year`.
 
 Za sledeće autore nije moguće sprovesti obaveznu proveru `born`–`died`, jer ih nema u `authors.json`:
 
-- **Cleobulus** — dva unosa bez godine; postojeća -600 izgleda kao floruit, ne potvrđena godina rođenja.
-- **Demosthenes** — svi obavezni unosi imaju godinu, ali opseg nije moguće proveriti.
-- **Lycurgus** — jedini unos ima godinu, ali nema metapodataka; kod polulegendarne ličnosti treba unapred odrediti projektnu hronološku konvenciju.
-- **Pherecydes** — četiri od pet unosa nemaju godinu; prvo dodati životni opseg, pa rasporediti događaje.
+- **Cleobulus** — dodat je projektni životni opseg -630–-560; dva unosa još nemaju godinu.
+- **Demosthenes** — dodat je opseg -384–-322; početni biografski unos o njegovoj atinskoj slavi pomeren je iz godine rođenja u -355.
+- **Pherecydes** — dodat je projektni opseg -580–-520, a svih pet postojećih unosa je datirano unutar njega.
 - **Zoroaster** — postoje veoma udaljene legendarne godine i posthumna veza sa Demokritom; bez jasno izabrane projektne hronologije ne treba dopunjavati godine napamet.
 
 ## Pregled po filozofima
@@ -145,7 +143,7 @@ Za sledeće autore nije moguće sprovesti obaveznu proveru `born`–`died`, jer 
 | Kleobul | blokirano metapodacima | Nema `authors.json`; dva unosa nemaju godinu. |
 | Kratet iz Tebe | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
 | Demokrit | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Demosten | nepotpuna provera | Datumi formalno postoje, ali autor nema životni opseg u `authors.json`. |
+| Demosten | uređeno datiranje | Dodat je životni opseg -384–-322; atinska slava više nije smeštena u godinu rođenja. |
 | Diogen | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
 | Empedokle | uredno | Nema formalnih grešaka; procenjene godine ostaju u životnom opsegu. |
 | Epikur | formalna greška | Devet citata ima nedozvoljene godine. |
@@ -154,12 +152,11 @@ Za sledeće autore nije moguće sprovesti obaveznu proveru `born`–`died`, jer 
 | Gorgija | kritično | Zrela delatnost smeštena u godinu rođenja; jedan `bio` bez godine. |
 | Hiparhija | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
 | Leukip | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Likurg | nepotpuna provera | Nema životni opseg; potrebna posebna konvencija za polulegendarnu hronologiju. |
 | Menedem | dorada tipova | Šest citata ima godinu; mnogo procena je sabijeno u -310 i zahteva prirodniju raspodelu. |
 | Metrokl | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
 | Monim | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
 | Parmenid | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Ferekid | blokirano metapodacima | Nema životni opseg; četiri unosa nemaju godinu. |
+| Ferekid | uredno datiranje | Dodat je životni opseg -580–-520; svih pet postojećih unosa ima godinu u tom opsegu. |
 | Pitak | dorada tipova | Četrnaest `quote`/`reported` unosa ima godinu; razdvojiti izreke od anegdotskih razgovora. |
 | Protagora | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
 | Piron | formalna greška | Četiri `quote`/`reported` unosa imaju godinu; pre uklanjanja proveriti jedan po jedan tip. |

@@ -76,6 +76,7 @@ export interface Translations {
     Sparta: string;
     Cnossos: string;
     Eretria: string;
+    Syros: string;
   };
   philosophers: {
     Anaxagoras: string;
@@ -121,6 +122,7 @@ export interface Translations {
     Solon: string;
     'Chilon of Sparta': string;
     Epimenides: string;
+    Pherecydes: string;
     Menedemus: string;
     Cleobulus: string;
     Cleobulina: string;
@@ -204,6 +206,7 @@ export const translations: Record<Language, Translations> = {
       Sparta: 'Спарта',
       Cnossos: 'Кносъ',
       Eretria: 'Єрєтріꙗ',
+      Syros: 'Сѵросъ',
     },
     philosophers: {
       Anaxagoras: 'Анаѯагоръ',
@@ -249,6 +252,7 @@ export const translations: Record<Language, Translations> = {
       Solon: 'Солонъ',
       'Chilon of Sparta': 'Хїлонъ',
       Epimenides: 'Епімєнідъ',
+      Pherecydes: 'Фєрєкідъ',
       Menedemus: 'Мєнєдємъ',
       Cleobulus: 'Клєовѹлъ',
       Cleobulina: 'Клєовѹліна',
@@ -330,6 +334,7 @@ export const translations: Record<Language, Translations> = {
       Sparta: 'Sparta',
       Cnossos: 'Knosos',
       Eretria: 'Eretrija',
+      Syros: 'Siros',
     },
     philosophers: {
       Anaxagoras: 'Anaksagora',
@@ -375,6 +380,7 @@ export const translations: Record<Language, Translations> = {
       Solon: 'Solon',
       'Chilon of Sparta': 'Hilon',
       Epimenides: 'Epimenid',
+      Pherecydes: 'Ferekid',
       Menedemus: 'Menedém',
       Cleobulus: 'Kleobul',
       Cleobulina: 'Kleobulina',

@@ -15,6 +15,7 @@
   },
   {
     "type": "bio",
+    "year": -550,
     "sr": "On je, kako kaže Laertije, pisao o bogovima i prirodi.",
     "stsl": "Онъ · ꙗкожє глаголєть Лаєртіі · пісаашє о воꙁѣхъ і о єстьствѣ ·",
     "originalText": "Hic, ut ait Laercius, de dijs et natura scripsit.",
@@ -32,6 +33,7 @@
   },
   {
     "type": "anecdote",
+    "year": -545,
     "sr": "Dok je šetao uz morsku obalu, video je brod koji stiže u spokojstvu i proreče da će se potopiti ne dugo zatim. I pred njegovim očima se potopilo.",
     "stsl": "Ходѧ подъ морьскоѭ овалоѭ · відѣ коравь іжє пріходіть въ тішінѣ · і прорєчє ꙗко потъопіть сѧ нє по мъноꙁѣ врємєні · І прєдъ очіма єго потъопі сѧ ·",
     "originalText": "Nam dum secus litus maris ambularet et videret navem in tranquillitate pervenerant, et quod submergeretur non post multum tempus. Et pre oculis eius submersa est.",
@@ -45,6 +47,7 @@
   },
   {
     "type": "anecdote",
+    "year": -544,
     "sr": "Kada je popio vodu izvučenu iz bunara, proreče da će trećeg dana biti zemljotres. I dogodilo se.",
     "stsl": "Півъ водѫ ꙁьчрьпанѫѭ отъ кладѧꙁѧ · прорєчє ꙗko трєтіꙗго дьнє вѹдєть трѫсъ ꙁємлѣ · І вꙑстъ ·",
     "originalText": "Idem dum haustam aquam de puteo bibisset predixit quod die tercia terremotus fieret. Et factum est.",
@@ -58,6 +61,7 @@
   },
   {
     "type": "anecdote",
+    "year": -520,
     "sr": "Kada je bio obuzet starošću i bolešću iscrpljen, upitan od Pitagore kako mu je, pruživši prst reče: \"Telo...\"",
     "stsl": "Єгда вꙑстъ старостіѭ овладѣнъ і нємощіѭ ісчрьпанъ · въпрошєнъ отъ Пѵѳагорꙑ како єстъ · простьрь прьстъ рєчє · Тѣло ·",
     "originalText": "Hic senio gravaretur et infirmitate consumptus esset, interrogatus a Pytagora qualiter illi esset, extendens digitum ait: 'Corpore'",
@@ -66,6 +70,45 @@
       {
         "name": "walter-burley",
         "reference": "Cap. XIII"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne cenite ni zlato ni srebro.",
+    "stsl": "Ни злато чьтѣте ни сребро ·",
+    "originalText": "μήτε χρυσὸν τιμᾶν μήτε ἄργυρον.",
+    "author": "Pherecydes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.117"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Bogovi trpezu zovu čuvarkom žrtvenih darova.",
+    "stsl": "Бози трапезѫ хранителємь жрьтвьнꙑхъ даровъ зовѫть ·",
+    "originalText": "οἱ θεοὶ τὴν τράπεζαν θυωρὸν καλοῦσιν.",
+    "author": "Pherecydes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.119"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Nebo, vreme i tlo behu oduvek. tlo dobi ime zemlja, pošto mu nebo dade zemlju na dar.",
+    "stsl": "Небо и врѣмѧ и тьло искони бѣахѫ · тьлу же имѧ землѧ бысть · понеже єму небо землѭ въ даръ дасть ·",
+    "originalText": "Ζὰς μὲν καὶ Χρόνος ἦσαν ἀεὶ καὶ Χθονίη· Χθονίῃ δὲ ὄνομα ἐγένετο Γῆ ἐπειδὴ αὐτῇ Ζὰς γῆν γέρας διδοῖ.",
+    "author": "Pherecydes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.119"
       }
     ]
   }

@@ -48,6 +48,13 @@
     "originalText": "Ἀριστοτέλης",
     "birthplace": "Stagira"
   },
+  "Demosthenes": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -384,
+    "died": -322,
+    "originalText": "Δημοσθένης",
+    "birthplace": "Athens"
+  },
   "Theophrastus": {
     "src": "/images/authors/Theophrastus.jpg",
     "born": -371,
@@ -313,6 +320,13 @@
     "died": -543,
     "originalText": "Ἐπιμενίδης",
     "birthplace": "Cnossos"
+  },
+  "Pherecydes": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -580,
+    "died": -520,
+    "originalText": "Φερεκύδης",
+    "birthplace": "Syros"
   },
   "Menedemus": {
     "src": "/images/authors/unknown-author.svg",
