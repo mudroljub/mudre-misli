@@ -8,8 +8,8 @@
   },
   "Gorgias": {
     "src": "/images/authors/Gorgia_di_Leontini.png",
-    "born": -485,
-    "died": -380,
+    "born": -483,
+    "died": -375,
     "originalText": "Γοργίας",
     "birthplace": "Leontinoi"
   },
@@ -29,7 +29,7 @@
   },
   "Democritus": {
     "src": "/images/authors/Unknown_greek_pushkin.jpg",
-    "born": -460,
+    "born": -465,
     "died": -370,
     "originalText": "Δημόκριτος",
     "birthplace": "Abdera"
@@ -148,7 +148,7 @@
   },
   "Parmenides": {
     "src": "/images/authors/Busto_di_Parmenide_(cropped).jpg",
-    "born": -515,
+    "born": -530,
     "died": -450,
     "originalText": "Παρμενίδης",
     "birthplace": "Elea"
@@ -232,8 +232,8 @@
   },
   "Cleanthes": {
     "src": "/images/authors/Cleanthes_from_L._Annaei_Senecae_philosophi_Opera,_1605,_title_page_detail.png",
-    "born": -330,
-    "died": -232,
+    "born": -320,
+    "died": -231,
     "originalText": "Κλεάνθης",
     "birthplace": "Assos"
   },
@@ -324,13 +324,13 @@
   "Pherecydes": {
     "src": "/images/authors/unknown-author.svg",
     "born": -580,
-    "died": -520,
+    "died": -540,
     "originalText": "Φερεκύδης",
     "birthplace": "Syros"
   },
   "Menedemus": {
     "src": "/images/authors/unknown-author.svg",
-    "born": -345,
+    "born": -340,
     "died": -261,
     "originalText": "Μενέδημος",
     "birthplace": "Eretria"

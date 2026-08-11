@@ -19,11 +19,11 @@ const files = (await fs.readdir(inputDir))
 
 const sourceResolvers = createSourceResolvers(rootDir)
 
-const buildPointer = async (sourceObj, author) => {
+const buildPointer = async (sourceObj, author, originalText) => {
   const resolver = sourceResolvers[sourceObj.name]
 
   return resolver
-    ? resolver(sourceObj.reference, author)
+    ? resolver(sourceObj.reference, author, originalText)
     : null
 }
 
@@ -110,7 +110,7 @@ for (const file of files) {
 
     const primarySource = entry.sources?.[0]
     const pointer = primarySource
-      ? await buildPointer(primarySource, author)
+      ? await buildPointer(primarySource, author, entry.originalText)
       : null
 
     const tags =
@@ -161,6 +161,7 @@ for (let i = 0; i < chronologicalIndexes.length; i += 1) {
 // Add anchors only where pointers collide
 for (const [basePointer, items] of byPointer) {
   if (items.length < 2) continue
+  if (!basePointer.startsWith('data/sources/diogenes-laertius/')) continue
 
   for (const quote of items) {
     const text = quote.originalText
@@ -188,6 +189,87 @@ for (const [basePointer, items] of byPointer) {
     }
 
     quote.pointer = `${basePointer}#${anchor}`
+  }
+}
+
+// Every generated local pointer must resolve to an existing file and line.
+// When several entries share the same source location, the generated anchor
+// must also occur in the target source text.
+const pointerFileCache = new Map()
+
+for (const quote of allQuotes) {
+  if (!quote.pointer) continue
+
+  const [fileAndLine, anchor] = quote.pointer.split('#', 2)
+  const pointerMatch = fileAndLine.match(/^(.*):(\d+)$/)
+
+  if (!pointerMatch) {
+    throw new Error(`Quote ${quote._id} has invalid pointer "${quote.pointer}"`)
+  }
+
+  const [, relFile, lineText] = pointerMatch
+  let content = pointerFileCache.get(relFile)
+
+  if (content === undefined) {
+    content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
+    pointerFileCache.set(relFile, content)
+  }
+
+  const line = Number(lineText)
+  const lines = content.split(/\r?\n/)
+  const lineCount = lines.length
+
+  if (!Number.isInteger(line) || line < 1 || line > lineCount) {
+    throw new Error(
+      `Quote ${quote._id} points to missing line ${lineText} in "${relFile}"`,
+    )
+  }
+
+  let sectionEnd = line
+
+  while (
+    sectionEnd < lines.length &&
+    !/^\d+\s/.test(lines[sectionEnd].trim())
+  ) {
+    sectionEnd += 1
+  }
+
+  const sectionContent = lines.slice(line - 1, sectionEnd).join('\n')
+  const normalizedSectionContent = sectionContent.normalize('NFC')
+
+  if (
+    anchor &&
+    !sectionContent.includes(anchor) &&
+    !normalizedSectionContent.includes(anchor.normalize('NFC'))
+  ) {
+    const lowerContent = sectionContent.toLocaleLowerCase('el')
+    const lowerAnchor = anchor.toLocaleLowerCase('el')
+    let anchorIndex = lowerContent.indexOf(lowerAnchor)
+    let anchorLength = anchor.length
+
+    if (anchorIndex < 0) {
+      const tokens = quote.originalText
+        .match(/[\p{L}\p{M}]+/gu)
+        ?.filter(token => token.length >= 5)
+        .sort((a, b) => b.length - a.length) ?? []
+
+      for (const token of tokens) {
+        anchorIndex = lowerContent.indexOf(token.toLocaleLowerCase('el'))
+
+        if (anchorIndex >= 0) {
+          anchorLength = token.length
+          break
+        }
+      }
+    }
+
+    if (anchorIndex < 0) {
+      quote.pointer = fileAndLine
+      continue
+    }
+
+    const exactAnchor = sectionContent.slice(anchorIndex, anchorIndex + anchorLength)
+    quote.pointer = `${fileAndLine}#${exactAnchor}`
   }
 }
 

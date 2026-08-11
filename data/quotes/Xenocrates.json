@@ -126,9 +126,10 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Ksenokrat je govorio da molilac ne sme biti izdan.",
-    "stsl": "Ксенократъ глаголаше · ꙗко молѧи сѧ не подобаєтъ быти прѣданъ ·",
+    "type": "anecdote",
+    "year": -340,
+    "sr": "Kada je vrabac, bežeći pred jastrebom, uleteo Ksenokratu u nedra, on ga je pomilovao i pustio, rekavši da molilac ne sme biti izdan.",
+    "stsl": "Єгда врабии · отъ ꙗстрѧба бѣжа · Ксенократѹ въ нѣдра вълетѣ · онъ єго поглади и отпѹсти · рекъ · ꙗко молѧи сѧ не подобаєть быти прѣданъ ·",
     "originalText": "Στρουθίου δέ ποτε διωκομένου ὑπὸ ἱέρακος καὶ εἰσπηδήσαντος εἰς τοὺς κόλπους αὐτοῦ, καταψήσας μεθῆκεν, εἰπὼν τὸν ἱκέτην δεῖν μὴ ἐκδιδόναι.",
     "author": "Xenocrates",
     "sources": [
@@ -139,9 +140,10 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Ksenokrat je govorio da tragedija ne udostojava odgovorom podsmeh komedije.",
-    "stsl": "Ксенократъ глаголаше · ꙗко трагедіѧ не изволѧєть отъвѣтомъ порѹганию комедіи ·",
+    "type": "anecdote",
+    "year": -340,
+    "sr": "Kada mu se Bion podsmevao, Ksenokrat nije hteo da odgovori: ni tragedija, reče, ne udostojava odgovorom podsmeh komedije.",
+    "stsl": "Єгда ємѹ Бионъ рѫгааше сѧ · Ксенократъ не въсхотѣ отъвѣштати · Ни трагедіѧ бо · рече · порѹганиє комедіѩ отъвѣта сподоблѧєть ·",
     "originalText": "Σκωπτόμενος ὑπὸ Βίωνος οὐκ ἔφη αὐτῷ ἀποκρινεῖσθαι· μηδὲ γὰρ τὴν τραγῳδίαν ὑπὸ τῆς κωμῳδίας σκωπτομένην ἀποκρίσεως ἀξιοῦν.",
     "author": "Xenocrates",
     "sources": [
@@ -165,10 +167,11 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Niko neće dotaći ovu glavu dok pre toga ne odseče moju.",
-    "stsl": "Никтоже сѧ главы тоꙗ коснеть · дондеже мою прѣжде не отъсѣчеть ·",
-    "originalText": "Οὐκ ἄν γε τὶς πρότερον τούτου.",
+    "type": "anecdote",
+    "year": -367,
+    "sr": "Kada je Dionisije zapretio Platonu da će mu neko odseći glavu, prisutni Ksenokrat pokaza svoj vrat i reče: „Neće pre ovoga.“",
+    "stsl": "Єгда Дионисии Платонѹ прѣти · ꙗко нѣкто ємѹ главѫ отъсѣчеть · Ксенократъ · тѹ сꙑи · свои вꙑѭ показа и рече · Не прѣжде сеѩ ·",
+    "originalText": "Εἰπόντος δὲ Διονυσίου πρὸς Πλάτωνα ὡς ἀφαιρήσει τις αὐτοῦ τὸν τράχηλον, παρὼν οὗτος καὶ δείξας τὸν ἴδιον, «Οὐκ ἄν γε,» ἔφη, «τὶς πρότερον τούτου.»",
     "author": "Xenocrates",
     "sources": [
       {
@@ -191,10 +194,11 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Ko je pravedan, neće jesti ni piti pre nego što otkupi svoje saputnike i ugleda ih licem u lice.",
-    "stsl": "Иже праведенъ єсть · не ꙗсть ни пьеть · дондеже искѹпить своихъ съпѫтникъ и лицемь къ лицѹ ихъ ѹзрить ·",
-    "originalText": "Ὦ Κίρκη, τίς γάρ κεν ἀνήρ, ὃς ἐναίσιμος εἴη, πρὶν τλαίη πάσσασθαι ἐδητύος ἠδὲ ποτῆτος πρὶν λύσασθ' ἑτάρους καὶ ἐν ὀφθαλμοῖσιν ἰδέσθαι;",
+    "type": "anecdote",
+    "year": -322,
+    "sr": "Kada ga je Antipatar, kome je došao kao poslanik radi zarobljenih Atinjana, pozvao na gozbu, Ksenokrat mu je naveo Odisejeve reči Kirki: „Ko bi pravedan okusio jela ili pića pre nego što oslobodi svoje saputnike i ugleda ih licem u lice?“ Antipatar je pogodnost navoda odobrio i odmah ih pustio.",
+    "stsl": "Єгда Ксенократа · посла ради плѣненыхъ Атинѧнъ къ Антипатрѹ пришедъша · на пиръ позва · онъ Одисеова словеса къ Киркѣ приведе · Кыи правьдьнъ мѫжь брашъна или питиꙗ вкѹсить · прѣжде нежели дрѹгы развѧжеть и лицемь къ лицѹ ꙗ видить · Антипатръ же пригодьность словесъ похвали и абиє ихъ отпѹсти ·",
+    "originalText": "Ἀλλὰ καὶ πρεσβεύων πρὸς Ἀντίπατρον περὶ αἰχμαλώτων Ἀθηναίων κατὰ τὸν Λαμιακὸν πόλεμον, καὶ κληθεὶς ἐπὶ δεῖπνον πρὸς αὐτὸν προηνέγκατο ταυτί· «Ὦ Κίρκη, τίς γάρ κεν ἀνήρ, ὃς ἐναίσιμος εἴη, πρὶν τλαίη πάσσασθαι ἐδητύος ἠδὲ ποτῆτος πρὶν λύσασθ' ἑτάρους καὶ ἐν ὀφθαλμοῖσιν ἰδέσθαι;» καὶ τὸν ἀποδεξάμενον τὴν εὐστοχίαν εὐθὺς ἀνεῖναι.",
     "author": "Xenocrates",
     "sources": [
       {
@@ -270,6 +274,62 @@
       {
         "name": "diogenes-laertius",
         "reference": "IV.14"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "year": -350,
+    "sr": "Prema drugom predanju, učenici su uz Ksenokrata položili heteru Laisu, ali je on bio toliko uzdržljiv da je odolevao i čestim rezovima i spaljivanju oko stidnih delova.",
+    "stsl": "По иномѹ прѣданию · ѹченици хетерѫ Лаидѫ при Ксенократѣ положишѧ · онъ же толико въздрьжьнъ бѣ · ꙗко и чѧстыимъ рѣзаньємъ и жженьємъ около срамьныихъ ѹдъ тръпѣаше ·",
+    "originalText": "Ἔνιοι δὲ Λαΐδα φασὶ παρακατακλῖναι αὐτῷ τοὺς μαθητάς· τὸν δὲ οὕτως εἶναι ἐγκρατῆ ὥστε καὶ τομὰς καὶ καύσεις πολλάκις ὑπομεῖναι περὶ τὸ αἰδοῖον.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.7"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "year": -322,
+    "sr": "Nije prihvatio dar koji mu je poslao Antipatar.",
+    "stsl": "Дара · иже ємѹ Антипатръ посла · не приѧть ·",
+    "originalText": "Ἀλλὰ καὶ <τὸ> ὑπ' Ἀντιπάτρου πεμφθὲν μὴ προσέσθαι, ὥς φησι Μυρωνιανὸς ἐν Ὁμοίοις.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.8"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "year": -340,
+    "sr": "Kada je na prazniku Vrčeva dobio zlatni venac kao nagradu u ispijanju vina, izlazeći ga je položio na kip Hermesa, gde je obično ostavljao i vence od cveća.",
+    "stsl": "Єгда на праздьникѣ Кѹвъ златъ вѣньць ꙗко мздѫ питиꙗ вина приѧть · исходѧ положи и на истѹканъ Ермиинъ · идеже обычно и цвѣтьны вѣньцѧ полагааше ·",
+    "originalText": "Καὶ χρυσῷ στεφάνῳ τιμηθέντα ἐπάθλῳ πολυποσίας τοῖς Χουσὶ παρὰ Διονυσίῳ ἐξιόντα θεῖναι πρὸς τὸν ἱδρυμένον Ἑρμῆν, ἔνθαπερ τιθέναι καὶ τοὺς ἀνθινοὺς εἰώθει.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.8"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "year": -322,
+    "sr": "Kada je Antipatar došao u Atinu i pozdravio ga, Ksenokrat mu nije uzvratio pozdrav dok nije dovršio izlaganje koje je držao.",
+    "stsl": "Єгда Антипатръ въ Атины прииде и Ксенократа цѣлова · онъ ємѹ не отъвѣшта · дондеже слово · єже глаголаше · не съврьши ·",
+    "originalText": "Φασὶ καὶ Ἀντιπάτρου ποτὲ ἐλθόντος εἰς Ἀθήνας καὶ ἀσπασαμένου αὐτόν, μὴ πρότερον ἀντιπροσαγορεῦσαι πρὶν ἢ τὸν λόγον ὃν ἔλεγε διαπεράνασθαι.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.11"
       }
     ]
   }

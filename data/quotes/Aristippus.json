@@ -1,34 +1,6 @@
 [
   {
     "type": "bio",
-    "year": -435,
-    "sr": "Aristip je bio iz Kirene.",
-    "stsl": "Аристиппъ отъ Киринꙑ бѣ ·",
-    "originalText": "Ἀρίστιππος τὸ μὲν γένος ἦν Κυρηναῖος.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.65"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -390,
-    "sr": "Boravio kod sirakuskog tiranina Dionisija; cenjen više od ostalih jer se prilagođavao svakoj prilici.",
-    "stsl": "Бываше при тиранѣ Сѵракꙋзьстѣмь Діонисіи · паче инѣхъ цѣненъ · зане всѧкои прилицѣ приспособлꙗашесѧ.",
-    "originalText": "Παρὰ Διονυσίῳ τῶν ἄλλων εὐδοκίμει μᾶλλον, ἀεὶ τὸ προσπεσὸν εὖ διατιθέμενος.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.66"
-      }
-    ]
-  },
-  {
-    "type": "bio",
     "year": -366,
     "sr": "Aristip Kirenjanin predvodio je kirenajsku školu.",
     "stsl": "Кѵрєнаискѫ школѫ Аристипъ Кѵрєнаꙗнинъ прѣдводи ·",
@@ -64,19 +36,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "II.66"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Paris nije dobro prošao kada je jednoj od tri žene dao prednost.",
-    "stsl": "Парисъ не добро обрѣте · єгда єдинѹ отъ трии женъ прѣдпочте ·",
-    "originalText": "Οὐδὲ τῷ Πάριδι συνήνεγκε μίαν προκρῖναι.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.67"
       }
     ]
   },
@@ -290,19 +249,6 @@
   },
   {
     "type": "quote",
-    "sr": "Ne žudi za suviškom.",
-    "stsl": "Не желаи излишка ·",
-    "originalText": "ὑπεροπτικὴν τοῦ πλείονος εἶναι.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.72"
-      }
-    ]
-  },
-  {
-    "type": "quote",
     "sr": "Obrazovan sin makar u pozorištu neće sedeti kao kamen na kamenu.",
     "stsl": "Наѹченъ сынъ понѣ въ позоришти не сѧдеть ꙗко камень на камени ·",
     "originalText": "ἐν γοῦν τῷ θεάτρῳ οὐ καθεδήσεται λίθος ἐπὶ λίθῳ.",
@@ -446,19 +392,6 @@
   },
   {
     "type": "quote",
-    "sr": "Ja imam Laidu, ali ona nema mene. Najbolje nije uzdržavati se od uživanja, nego vladati njime i ne dopustiti da ono ovlada nama.",
-    "stsl": "Азъ Лаидꙫ имамъ · нъ она мене не имать · Лѹчьше єсть не отъ сласти въздръжати сѧ · нъ сластию владѣти и не попѹстити єи нами владѣти ·",
-    "originalText": "Ἔχω [Λαΐδα], ἀλλ' οὐκ ἔχομαι· ... τὸ κρατεῖν καὶ μὴ ἡττᾶσθαι ἡδονῶν ἄριστον.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.75"
-      }
-    ]
-  },
-  {
-    "type": "quote",
     "sr": "Da si ovo mogao kupiti za tri obola, kupio bi ga i ti. Nisam, dakle, ja ljubitelj uživanja, nego si ti ljubitelj novca.",
     "stsl": "Аште бы сє за три оболы кѹпити моглъ · кѹпилъ бы єси и ты · Не азъ ѹбо сластъ люблѭ · нъ ты сребро любиши ·",
     "originalText": "Σὺ δ' οὐκ ἄν ... τριωβόλου ταῦτ' ἐπρίω; ... Οὐκέτι τοίνυν ... φιλήδονος ἐγώ, ἀλλὰ σὺ φιλάργυρος.",
@@ -580,19 +513,6 @@
     "sr": "Nisam ja kriv što sam pao pred Dionisijeve noge; kriv je Dionisije što su mu uši na nogama.",
     "stsl": "Не азъ виновьнъ єсмь · ꙗко къ ногама Дионисиєвымъ падохъ · Дионисии виновьнъ єсть · зане ѹши єго на ногахъ сѫть ·",
     "originalText": "Οὐκ ἐγώ αἴτιος, ἀλλὰ Διονύσιος ὁ ἐν τοῖς ποσὶ τὰς ἀκοὰς ἔχων.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.79"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Kada bih mogao biti vedriji nego sada, kada treba da razgovaram sa Artafernom?",
-    "stsl": "Къгда моглъ быхъ бодрѣиши быти · нежели нынѣ · єгда съ Артаферномъ бесѣдовати имамъ ·",
-    "originalText": "Πότε γάρ ... θαρρήσαιμι ἂν μᾶλλον ἢ νῦν, ὅτε μέλλω Ἀρταφέρνῃ διαλέξεσθαι;",
     "author": "Aristippus",
     "sources": [
       {
@@ -728,19 +648,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "II.82"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Zar se nećemo pomiriti i prestati da govorimo budalaštine? Ili ćeš čekati da nas neko pomiri uz pehar? Upamti da sam ja, premda stariji, prvi prišao tebi.",
-    "stsl": "Не примирима ли сѧ и не прѣстанема ли празнаꙗ глаголати · Или ждеши · дондеже насъ кто при чаши примирить · Помьни · ꙗко азъ · аште и старѣи · пьрвыи къ тебѣ придохъ ·",
-    "originalText": "Οὐ διαλλαχθησόμεθα, οὐ παυσόμεθα ληροῦντες ... Mνημόνευε ... Ὅτι σοι πρότερος πρεσβύτης ὢν προσῆλθον.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.82–83"
       }
     ]
   },

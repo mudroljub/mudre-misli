@@ -20,16 +20,7 @@ npm start
 
 ## TODO
 
-SADRŽAJ:
-- ručno počistiti predsokratovce
-- dodavanje novih fragmenata - Diels
-    - Heraklit dodat 
-    - nastaviti sa Empedoklom.
-- id citata da bude nešto trajno, ne index koji se menja. možda iskoristiti pointer
-UI:
-PREVOD:
-- poboljšati stsl prevode - ukloniti duh novijeg crkvenoslovenskog, vratiti arhaični slovenski ritam
-- proveriti sr prevode
+Aktuelni redosled poslova i otvorene odluke nalaze se u [TODO.md](TODO.md).
 
 ## Izvori
 

@@ -1,7 +1,7 @@
 [
   {
     "type": "bio",
-    "year": -345,
+    "year": -340,
     "sr": "Menedem je bio sin Kleistena od Teopropida, čoveka blagorođenog. Otac mu je bio graditelj i siromašan.",
     "stsl": "Мєнєдємъ бѣ сынъ Клєістєна отъ Теопропідъ · чловѣка влагороднаго · Отъьць ємѹ градітєль і сіромащьнъ бѣ.",
     "originalText": "Οὗτος τῶν ἀπὸ Φαίδωνος, Κλεισθένους τοῦ τῶν Θεοπροπιδῶν καλουμένων υἱός, ἀνδρὸς εὐγενοῦς μέν, ἀρχιτέκτονος δὲ καὶ πένητος.",
@@ -15,7 +15,7 @@
   },
   {
     "type": "bio",
-    "year": -340,
+    "year": -325,
     "sr": "Neki kažu da je bio scenograf i da je naučio oboje zanata.",
     "stsl": "Нѣціи глаголѭть ꙗko скєнографъ бѣ і ꙗko овоє рємєство наѹчі.",
     "originalText": "οἱ δὲ καὶ σκηνογράφον αὐτὸν εἶναί φασι καὶ μαθεῖν ἑκάτερα τὸν Μενέδημον.",
@@ -29,7 +29,7 @@
   },
   {
     "type": "anecdote",
-    "year": -335,
+    "year": -324,
     "sr": "Napisao je neki dekret. Aleksinej ga je prekorio rekavši da ni scenu ni dekret ne prilikuje mudracu pisati.",
     "stsl": "Напіса нѣкі дєкрєтъ · Алєѯінєі га прєкорі рєкъ ꙗko ні скєнѫ ні дєкрєтъ прілікѹєть мѹдрацѹ пісаті.",
     "originalText": "ὅθεν γράψαντος αὐτοῦ ψήφισμά τι καθήψατό τις Ἀλεξίνειος, εἰπὼν ὡς οὔτε σκηνὴν οὔτε ψήφισμα προσήκει τῷ σοφῷ γράφειν.",
@@ -43,7 +43,7 @@
   },
   {
     "type": "bio",
-    "year": -330,
+    "year": -319,
     "sr": "Poslan kao straža od Eritrejaca u Megaru, otišao je u Akademiju ka Platonu. Zarobljen filozofijom, ostavio je vojsku.",
     "stsl": "Посланъ ꙗko стража отъ Єрітрєацъ въ Мєгарѫ · Отъідє въ Акадєміѭ ка Платонѹ · Ꙁаровлєнъ любомѫдріємъ · остаі воіскѫ.",
     "originalText": "Πεμφθεὶς δὲ φρουρὸς ὁ Μενέδημος ὑπὸ τῶν Ἐρετριέων εἰς Μέγαρα ἀνῆλθεν εἰς Ἀκαδήμειαν πρὸς Πλάτωνα, καὶ θηραθεὶς κατέλιπε τὴν στρατείαν.",
@@ -57,7 +57,7 @@
   },
   {
     "type": "bio",
-    "year": -326,
+    "year": -322,
     "sr": "Asklepijad Flijasijski privukao ga je u Megaru ka Stilponu, gde su obojica slušali.",
     "stsl": "Аскльпіадъ Фліасіискі прівѹка га въ Мєгарѫ ка Стілпонѹ · гдѣ овоіца слѹшаастє.",
     "originalText": "Ἀσκληπιάδου δὲ τοῦ Φλιασίου περισπάσαντος αὐτὸν ἐγένετο ἐν Μεγάροις παρὰ Στίλπωνα, οὗπερ ἀμφότεροι διήκουσαν.",
@@ -71,7 +71,7 @@
   },
   {
     "type": "bio",
-    "year": -324,
+    "year": -320,
     "sr": "Odatle otplovio je u Elidu i pridružio se Anhipilu i Moshu, onima od Fedona.",
     "stsl": "Отътѹдѹжє отъплові въ Єлідѫ і прідрѹжі сѧ Анхіпілѹ і Мосхѹ · онімъ отъ Федона.",
     "originalText": "κἀντεῦθεν πλεύσαντες εἰς Ἦλιν Ἀγχιπύλῳ καὶ Μόσχῳ τοῖς ἀπὸ Φαίδωνος παρέβαλον.",
@@ -294,9 +294,158 @@
     ]
   },
   {
+    "type": "anecdote",
+    "year": -315,
+    "sr": "Dok su Menedem i Asklepijad kao siromasi pomagali zidaru, Asklepijad je nag na krovu nosio blato, a Menedem bi se sakrio kad god bi video da neko dolazi.",
+    "stsl": "Єгда Менедемъ и Асклепиадъ нища съ зидаремъ зидааста · Асклепиадъ нагъ на кровѣ калъ носѧаше · Менедемъ же · єгда кого грѧдѫшта видѣ · скрывааше сѧ ·",
+    "originalText": "τὸ πρότερον τέκτονι συνοικοδομοῦντες αὐτός τε καὶ ὁ Ἀσκληπιάδης, ὁ μὲν Ἀσκληπιάδης ἐφαίνετο γυμνὸς ἐπὶ τοῦ τέγους τὸν πηλὸν παραφέρων, ὁ δὲ εἴ τιν' ἴδοι ἐρχόμενον, παρεκρύπτετο.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.131" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -300,
+    "sr": "Pošto je ne znajući jeo odbačeno meso u krčmi, Menedemu je pozlilo kada je saznao šta je pojeo. Asklepijad ga je prekorio da mu nije naškodilo meso, nego pomisao o njemu.",
+    "stsl": "Єгда Менедемъ не вѣдѧ въ гостинници отъвьржено мѧсо ꙗде · ѹзнавъ что ꙗде · блѣдъ бысть и мѫти сѧ · Асклепиадъ же єго ѹкори · ꙗко не мѧсо ємѹ врѣди · нъ мыслъ о немь ·",
+    "originalText": "Σὺν γοῦν Ἀσκληπιάδῃ κατ' ἄγνοιαν ἐν πανδοκείῳ ποτὲ κρεάτων ῥιπτουμένων φαγών, ἐπειδὴ μάθοι, ἐναυτία τε καὶ ὠχρία ἕως Ἀσκληπιάδης ἐπετίμησεν αὐτῷ ὡς οὐδὲν ἠνώχλησεν αὐτὸν τὰ κρέα, ἀλλ' ἡ περὶ τούτων ὑπόνοια.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.132" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -295,
+    "sr": "Menedem je bio toliko zabrinut za ugled da je, prinoseći tamjan u javnoj službi, promašio kadionicu. Kada ga je Kratet obilazio i ismevao zbog bavljenja politikom, naredio je da ga zatvore; Kratet ga je i iz zatvora zadirkivao nazivajući ga Agamemnonom i Hegesipolom.",
+    "stsl": "Менедемъ толико славы печааше сѧ · ꙗко въ градьскои слѹжбѣ ливанъ полагаѧ кадильницѫ промаши · Єгда же Кратетъ єго политикы ради рѹгаѧ обхождааше · повелѣ єго въ темьницѫ въврѣшти · Кратетъ же и отътѫдѹ єго дразнѧаше · Агамемнономъ и Хегесиполемъ нарицаѧ ·",
+    "originalText": "Ἐπεὶ δ' ἥψατο τῆς πολιτείας, οὕτως ἦν ἀγωνιάτης ὥστε καὶ τὸν λιβανωτὸν τιθεὶς διήμαρτε τοῦ θυμιατηρίου. Καί ποτε Κράτητος περιισταμένου αὐτὸν καὶ καθαπτομένου εἰς τὸ ὅτι πολιτεύεται, ἐκέλευσέ τισιν εἰς τὸ δεσμωτήριον αὐτὸν ἐμβαλεῖν· τὸν δὲ μηδὲν ἧττον τηρεῖν παριόντα καὶ ὑπερκύπτοντα Ἀγαμεμνόνειόν τε καὶ Ἡγησίπολιν ἀποκαλεῖν.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.131" }]
+  },
+  {
+    "type": "bio",
+    "year": -280,
+    "sr": "I u starosti je bio čvrst poput atlete, preplanuo, krupan i naviknut na napor, a stasom skladan.",
+    "stsl": "И въ старости твръдъ ꙗко борьць бѣ · загорѣлъ · тѹчьнъ и трѹдомъ навꙑкълъ · възрастомъ же складьнъ ·",
+    "originalText": "Κατά τε τὴν ἕξιν τὴν σωματικὴν ἤδη καὶ πρεσβύτης ὑπάρχων οὐδὲν ἧττον ἀθλητοῦ στερεός τε καὶ ἐπικεκαυμένος τὸ εἶδος, πίων τε καὶ τετριμμένος· τὸ δὲ μέγεθος σύμμετρος.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.132" }]
+  },
+  {
+    "type": "bio",
+    "year": -290,
+    "sr": "Bio je gostoljubiv i zbog nezdravog vazduha u Eritreji često je priređivao gozbe na kojima su učestvovali pesnici i muzičari.",
+    "stsl": "Гостелюбивъ бѣ · и нездравиѩ ради Еритреи часто пиры творѧаше · на нихъже пѣвьци и мѹсики бѣахѹ ·",
+    "originalText": "Ἦν δὲ καὶ φιλυπόδοχος καὶ διὰ τὸ νοσῶδες τῆς Ἐρετρίας πλείω συνάγων συμπόσια· ἐν οἷς καὶ ποιητῶν καὶ μουσικῶν.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.133" }]
+  },
+  {
+    "type": "reported",
+    "sr": "Prezirao je Platonove i Ksenokratove sledbenike i Kirenjanina Paraibata, a divio se Stilponu; upitan o Stilponu rekao je samo da je slobodouman.",
+    "stsl": "Платоновыхъ и Ксенократовыхъ ѹченикъ и Параивата Кѵрениꙗнина прѣзирааше · Стилпонѹ же дивлѧаше сѧ · въпрошенъ о немь · тъкмо рече · Свободомысльнъ єсть ·",
+    "originalText": "Τῶν δὲ διδασκάλων τοὺς περὶ Πλάτωνα καὶ Ξενοκράτην, ἔτι τε Παραιβάτην τὸν Κυρηναῖον κατεφρόνει, Στίλπωνα δ' ἐτεθαυμάκει· καί ποτε ἐρωτηθεὶς περὶ αὐτοῦ ἄλλο μὲν οὐδὲν εἶπε πλὴν ὅτι ἐλευθέριος.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.134" }]
+  },
+  {
+    "type": "reported",
+    "sr": "Menedem je odbacivao odrične iskaze i prihvatao potvrdne, a među njima proste; složene i povezane iskaze odbacivao je.",
+    "stsl": "Менедемъ отрицательна ѹтвръждениꙗ отъмѣтааше · положительна же приємлѧаше · отъ нихъ проста · сложена же и съвѧзана отъмѣтааше ·",
+    "originalText": "Ἀνῄρει δέ, φασί, καὶ τὰ ἀποφατικὰ τῶν ἀξιωμάτων, καταφατικὰ τιθείς· καὶ τούτων τὰ ἁπλᾶ προσδεχόμενος τὰ οὐχ ἁπλᾶ ἀνῄρει, λέγω δὲ συνημμένα καὶ συμπεπλεγμένα.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.135" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -285,
+    "sr": "Kada ga je Aleksin upitao da li je prestao tući oca, Menedem je odgovorio: Niti sam ga tukao niti sam prestao. Aleksin je tražio da dvosmislenost razreši sa da ili ne, a Menedem mu reče da je smešno slediti njegova pravila kad im se može usprotiviti već na pragu.",
+    "stsl": "Єгда єго Алексинъ въпроси · Прѣста ли отъца бити · Менедемъ отъвѣща · Ни бихъ ни прѣстахъ · Алексинѹ же повелѣваѭштѹ · да двоѭмыслиє словомъ да или нѣ разрѣшить · рече · Смѣшьно єсть вашимъ закономъ послѣдовати · єгда имъ ѹже на вратѣхъ противѹстати мощьно ·",
+    "originalText": "Ἀλεξίνου ποτὲ ἐρωτήσαντος εἰ πέπαυται τὸν πατέρα τύπτων, «Ἀλλ' οὔτε ἔτυπτον,» φάναι, «οὔτε πέπαυμαι.» Πάλιν τ' ἐκείνου λέγοντος ὡς ἐχρῆν εἰπόντα ναί ἢ οὔ λῦσαι τὴν ἀμφιβολίαν, «Γελοῖον,» εἶπε, «τοῖς ὑμετέροις νόμοις ἀκολουθεῖν, ἐξὸν ἐν πύλαις ἀντιβῆναι.»",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.135" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Mnogo je veće dobro želeti ono što treba nego postići sve što želiš.",
+    "stsl": "Много вѧште добро єсть · желати єже подобаєть · нежели вьсѧ желанаꙗ полѹчити ·",
+    "originalText": "Πολὺ δὲ μεῖζον τὸ ἐπιθυμεῖν ὧν δεῖ.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.136" }]
+  },
+  {
+    "type": "works",
+    "sr": "Prema Antigonu iz Karista, Menedem ništa nije napisao niti sastavio i nije se čvrsto držao nijednog učenja.",
+    "stsl": "По Антигонѹ Каристьскомѹ · Менедемъ ничтоже написа ни състави · ни єдиного ѹчениѩ твръдо дръжааше сѧ ·",
+    "originalText": "Φησὶ δ' Ἀντίγονος ὁ Καρύστιος γράψαι αὐτὸν μηδὲν μηδὲ συντάξαι, ὥστε μηδ' ἐπὶ δόγματός τινος στηρίζειν.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.136" }]
+  },
+  {
+    "type": "bio",
+    "year": -290,
+    "sr": "Menedem i Asklepijad bili su nerazdvojni prijatelji i živeli su veoma skromno. Menedem je sa ženom iz Oropa imao tri kćeri; Hiponik Makedonac dao mu je dve hiljade drahmi za njihove udaje.",
+    "stsl": "Менедемъ и Асклепиадъ неразлѫчна дрѹга бѣаста и вельми скромьно живѣаста · Менедемъ отъ жены Оропиꙗнкꙑ три дъштери имѣаше · Хипоникъ Македонѧнинъ двѣ тысѫшти драхмъ на бракъ ихъ ємѹ дасть ·",
+    "originalText": "Φίλος τε ἦν μάλιστα, ὡς δῆλον ἐκ τῆς πρὸς Ἀσκληπιάδην συμπνοίας, οὐδέν τι διαφερούσης τῆς Πυλάδου φιλοστοργίας. Ἦσαν δὲ τρεῖς, καθά φησιν Ἡρακλείδης, ἐξ Ὠρωπίας αὐτῷ γυναικὸς γεγεννημέναι. Ἱππόνικος Μενεδήμῳ εἰς ἔκδοσιν τῶν θυγατέρων δισχιλίας δραχμάς.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.137–138" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -280,
+    "sr": "Posle Asklepijadove smrti njegov nekadašnji ljubimac došao je s mladićima pred Menedemova vrata, ali ga mladići nisu puštali unutra. Menedem naredi da ga prime, rekavši da mu Asklepijad otvara vrata čak i pod zemljom.",
+    "stsl": "По Асклепиадовѣ смрьти · бывъшии любьзникъ єго съ ѹношами къ Менедемовымъ дверемъ приде · ѹноши же єго не въпѹштаахѹ · Менедемъ повелѣ єго приѧти · глаголѧ · Асклепиадъ ми и подъ землею сꙑ двери отъвьрзаєть ·",
+    "originalText": "μετὰ χρόνον ἐλθόντος ἐπὶ κῶμον ἐρωμένου τοῦ Ἀσκληπιάδου καὶ τῶν νεανίσκων ἀποκλειόντων αὐτόν, ὁ Μενέδημος ἐκέλευσεν εἰσδέξασθαι, εἰπὼν ὅτι Ἀσκληπιάδης αὐτῷ καὶ κατὰ γῆς ὢν τὰς θύρας ἀνοίγει.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.138" }]
+  },
+  {
+    "type": "bio",
+    "year": -275,
+    "sr": "Kao eritrejski državni savetnik Menedem je više puta oslobađao otadžbinu od tirana dovodeći Demetrija, a kod Antigona je nastojao da izdejstvuje obnovu eritrejske slobode.",
+    "stsl": "Ꙗко Еритреи градьскыи съвѣтьникъ · Менедемъ многажды отъ тиранъ отъечьство свободѧаше · Димитриѩ приводѧ · при Антигонѣ же Еритреискѫ свободѫ възвратити искааше ·",
+    "originalText": "πρόβουλον γενόμενον τῶν Ἐρετριέων πολλάκις ἐλευθερῶσαι τὴν πατρίδα ἀπὸ τῶν τυράννων ἐπαγόμενον Δημήτριον· φοιτᾶν τε πρὸς τὸν Ἀντίγονον καὶ βούλεσθαι ἐλευθερῶσαι τὴν πατρίδα.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.143" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -261,
+    "sr": "Kada Antigon nije pristao da oslobodi Eritreju, Menedem je od malodušnosti sedam dana odbijao hranu i umro. Slično su pripovedali Herakleid i Antigon iz Karista.",
+    "stsl": "Єгда Антигонъ Еритреѭ свободити не съгласи сѧ · Менедемъ отъ ѹниниѩ седмь дьнии не ꙗде и ѹмрѣ · Сице Хераклидъ и Антигонъ Каристьскыи повѣдааста ·",
+    "originalText": "τοῦ δὲ μὴ εἴκοντος ὑπ' ἀθυμίας ἀσιτήσαντα ἑπτὰ ἡμέρας τὸν βίον μεταλλάξαι. Τὰ ὅμοια τούτῳ καὶ Ἀντίγονος ὁ Καρύστιος ἱστορεῖ.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.143" }]
+  },
+  {
+    "type": "bio",
+    "year": -285,
+    "sr": "Menedemove gozbe bile su skromne: gosti su dolazili već siti, leti se ležalo na rogožinama, zimi na ovčijim kožama, čaša je bila mala, a za poslasticu su služili mahunarke ili sezonsko voće.",
+    "stsl": "Менедемовы пиры скромьни бѣахѹ · гости насыштеніи прихождаахѹ · лѣтѣ на рогозинахъ · зимѣ на овьчихъ кожахъ лежаахѹ · чаша мала бѣ · на сладъкъ коньць бобъ или врѣменьныи плодъ давааше сѧ ·",
+    "originalText": "Τὰ δὲ συμπόσια τοῦτον ἐποιεῖτο τὸν τρόπον· προηρίστα μετὰ δυοῖν ἢ τριῶν ἕως βραδέως ἦν τῆς ἡμέρας· ἔπειτά τις ἐκάλει τοὺς παραγενομένους καὶ αὐτοὺς ἤδη δεδειπνηκότας. Ἦν δὲ τοῦ μὲν θέρους ψίαθος ἐπὶ τῶν κλινῶν, τοῦ δὲ χειμῶνος κώδιον· τό τε περιαγόμενον ποτήριον οὐ μεῖζον ἦν κοτυλιαίου· τράγημα θέρμος ἢ κύαμος, ἔστι δ' ὅτε καὶ τῶν ὡρίων ἄπιος ἢ ῥοιὰ ἢ ὦχροι ἢ νὴ Δί' ἰσχάδες.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.139" }]
+  },
+  {
+    "type": "bio",
+    "year": -280,
+    "sr": "Menedem je odlučno zastupao Orop pred Demetrijem. Antigon ga je voleo i javno se nazivao njegovim učenikom, a Menedem mu je posle pobede kod Lisimahije sastavio jednostavan i uzdržan dekret.",
+    "stsl": "Менедемъ за Оропъ прѣдъ Димитриємъ твръдо посольствоваше · Антигонъ же єго люблѧаше и ꙗвѣ ѹченикомъ єго нарицааше сѧ · Менедемъ ємѹ по побѣдѣ при Лѵсимахии простъ и въздрьжанъ ѹставъ състави ·",
+    "originalText": "Δοκεῖ δ' ἐμβριθέστατα πρεσβεῦσαι πρὸς Δημήτριον ὑπὲρ τοῦ Ὠρωποῦ. Ἠγάπα δὲ αὐτὸν καὶ Ἀντίγονος καὶ μαθητὴν ἀνεκήρυττεν αὑτόν. Καὶ ἡνίκα ἐνίκα τοὺς βαρβάρους περὶ Λυσιμαχίαν, γράφει ψήφισμα αὐτῷ Μενέδημος ἁπλοῦν τε καὶ ἀκόλακον.",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.141–142" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -270,
+    "sr": "Menedem je bio otvoreni neprijatelj Perseju, za koga se govorilo da je kod Antigona sprečio obnovu eritrejske demokratije. Jednom ga je za trpezom pobio u raspravi i rekao: Filozof jeste, ali je čovek najgori od svih koji postoje i koji će postojati.",
+    "stsl": "Менедемъ Персею ꙗвьнъ врагъ бѣ · о немьже глаголахѹ · ꙗко при Антигонѣ Еритреискѫ народьнѫ власть възвратити възбрани · Єдиною же при трѧпезѣ єго въ словесѣхъ побѣди и рече · Любомѫдрьць ѹбо єсть · мѫжь же отъ вьсѣхъ сѫштихъ и бѫдѫштихъ зълѣиши ·",
+    "originalText": "Μόνῳ δὲ Περσαίῳ διαπρύσιον εἶχε πόλεμον· ἐδόκει γὰρ Ἀντιγόνου βουλομένου τὴν δημοκρατίαν ἀποκαταστῆσαι τοῖς Ἐρετριεῦσι χάριν Μενεδήμου κωλῦσαι. Διὸ καί ποτε παρὰ πότον ὁ Μενέδημος ἐλέγξας αὐτὸν ἐν λόγοις τά τε ἄλλα ἔφη καὶ δὴ καί, «Φιλόσοφος μέντοι οὗτος, ἀνὴρ δὲ καὶ τῶν ὄντων καὶ τῶν γενησομένων κάκιστος.»",
+    "author": "Menedemus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.143–144" }]
+  },
+  {
     "type": "bio",
     "year": -261,
-    "sr": "Umro je, po Herakleidu, sedamdeset četvrtu godinu proživevši.",
+    "sr": "Prema Herakleidu, Menedem je umro u sedamdeset četvrtoj godini.",
     "stsl": "Ѹмрѣ · по Хєраклідѹ · сєдмъдєсѧтѫ чєтврьтѫ годінѫ проꙁівъшє.",
     "originalText": "Ἐτελεύτα δὲ κατὰ τὸν Ἡρακλείδην τέταρτον καὶ ἑβδομηκοστὸν ἔτος βιούς.",
     "author": "Menedemus",

@@ -92,6 +92,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.54"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.129"
       }
     ]
   },
@@ -105,6 +109,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.59"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.111"
       }
     ]
   },
@@ -118,6 +126,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.61"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.1"
       }
     ]
   },
@@ -144,6 +156,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.62"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.112"
       }
     ]
   },
@@ -196,6 +212,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.76"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.6"
       }
     ]
   },
@@ -222,6 +242,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.76"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.17"
       }
     ]
   },
@@ -235,6 +259,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.76"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.17"
       }
     ]
   },
@@ -274,6 +302,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.77"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.117"
       }
     ]
   },
@@ -516,6 +548,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.73"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.2"
       }
     ]
   },
@@ -560,5 +596,135 @@
         "reference": "Cap. XLVII"
       }
     ]
+  },
+  {
+    "type": "bio",
+    "year": -464,
+    "sr": "Satir kaže da je Empedokle bio Eksenetov sin i da je i sam imao sina Ekseneta. Favorin navodi da je imao brata Kalikratida, dok ga Telaug naziva Arhinomovim sinom.",
+    "stsl": "Сатиръ глаголєть ꙗко Ємпедоклъ Ексенетовъ сынъ бѣ и самъ сына Ексенета имѣ · Фаворинъ брата єго Каликратида именѹєть · Телаѹгъ же Арxиномовымъ сыномъ єго нарицаєть ·",
+    "originalText": "Σάτυρος δ' ἐν τοῖς Βίοις φησὶν ὅτι Ἐμπεδοκλῆς υἱὸς μὲν ἦν Ἐξαινέτου, κατέλιπε δὲ καὶ αὐτὸς υἱὸν Ἐξαίνετον ... ἐν τοῖς Ὑπομνήμασι Φαβωρίνου ... ἀδελφὸν ἔσχε Καλλικρατίδην. Τηλαύγης ... φησι τὸν Ἐμπεδοκλέα Ἀρχινόμου εἶναι υἱόν.",
+    "author": "Empedocles",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.53" }]
+  },
+  {
+    "type": "works",
+    "sr": "Empedoklo je napisao i Prelazak Kserksov i uvodnu pesmu Apolonu. Njegova sestra — ili kći, prema Hijeronimu — kasnije ih je spalila: uvodnu pesmu nehotice, a Persijsku pesmu namerno, jer je ostala nedovršena.",
+    "stsl": "Ємпедоклъ и Прѣходъ Ксерксовъ и прѣдъпѣниє Аполонѹ написа · Сестра єго · или дъшти по Гиеронимѹ · потомь ѩ съжьже · прѣдъпѣниє нехотѧшти · Персьскѫ же пѣснь волеѭ · зане несъвьршена оста ·",
+    "originalText": "γράψαντος αὐτοῦ καὶ ἄλλα ποιήματα τήν τε τοῦ Ξέρξου διάβασιν καὶ προοίμιον εἰς Ἀπόλλωνα, ταῦθ' ὕστερον κατέκαυσεν ἀδελφή τις αὐτοῦ (ἢ θυγάτηρ, ὥς φησιν Ἱερώνυμος), τὸ μὲν προοίμιον ἄκουσα, τὰ δὲ Περσικὰ βουληθεῖσα διὰ τὸ ἀτελείωτα εἶναι.",
+    "author": "Empedocles",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.57–58" }]
+  },
+  {
+    "type": "bio",
+    "year": -460,
+    "sr": "Aristip i Satir kažu da je Pausanija bio Empedoklov voljeni učenik. Njemu je posvetio delo O prirodi i poučio ga o ženi bez daha.",
+    "stsl": "Аристипъ и Сатиръ глаголѭть ꙗко Павсанїа Ємпедокловъ любимъ ѹченикъ бѣ · Ємѹ дѣло О єстествѣ посвѧти и о женѣ безъ дъха єго наѹчи ·",
+    "originalText": "Ἡρακλείδης τε ἐν τῷ Περὶ νόσων φησὶ καὶ Παυσανίᾳ ὑφηγήσασθαι αὐτὸν τὰ περὶ τὴν ἄπνουν. ἦν δ' ὁ Παυσανίας, ὥς φησιν Ἀρίστιππος καὶ Σάτυρος, ἐρώμενος αὐτοῦ, ᾧ δὴ καὶ τὰ Περὶ φύσεως προσπεφώνηκεν.",
+    "author": "Empedocles",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.60" }]
+  },
+  {
+    "type": "works",
+    "sr": "Rapsod Kleomen kazivao je Empedoklova Očišćenja na Olimpijskim igrama.",
+    "stsl": "Пѣвьць Клеоменъ Ємпедоклова Очищениꙗ на Олимпиискыихъ играхъ сказоваше ·",
+    "originalText": "Αὐτοὺς δὲ τούτους τοὺς Καθαρμοὺς ἐν Ὀλυμπίασι ῥαψῳδῆσαι λέγεται Κλεομένη τὸν ῥαψῳδόν.",
+    "author": "Empedocles",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.63" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Jer lepo je i dvaput kazati ono što treba.",
+    "stsl": "Красно бо и двашти рещи · єже подобаєть ·",
+    "originalText": "καὶ δὶς γάρ, ὃ δεῖ, καλόν ἐστιν ἐνισπεῖν.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.25" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Zaplakah i zakukah kada ugledah nenaviklo mesto.",
+    "stsl": "Плакахъ и рыдахъ · єгда непривычьно мѣсто видѣхъ ·",
+    "originalText": "κλαῦσά τε καὶ κώκυσα ἰδὼν ἀσυνήθεα χῶρον.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.118" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Avaj, avaj, bedni rode smrtnika, nesrećni: iz takvih svađa i jecaja rodiste se.",
+    "stsl": "О горе · о бѣдьнъ роде смрьтныхъ · о несъчастьнъ · Изъ таковыхъ ратии и стонании родисте сѧ ·",
+    "originalText": "ὢ πόποι, ὢ δειλὸν θνητῶν γένος, ὢ δυσάνολβον, τοίων ἔκ τ' ἐρίδων ἔκ τε στοναχῶν ἐγένεσθε.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.124" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Lude! Misli im ne sežu daleko: nadaju se da se rodi ono čega pre nije bilo, ili da nešto umre i sasvim propadne.",
+    "stsl": "Безѹмьни · не далече бо мысли ихъ досѧзаѭть · Надѣѭть сѧ да родить сѧ єже прѣжде не бѣ · или да что ѹмреть и вьсѣмь погыбнеть ·",
+    "originalText": "νήπιοι· οὐ γάρ σφιν δολιχόφρονές εἰσι μέριμναι, οἳ δὴ γίγνεσθαι πάρος οὐκ ἐὸν ἐλπίζουσιν ἤ τι καταθνήισκειν τε καὶ ἐξόλλυσθαι ἁπάντηι.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.11" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Nemoguće je da se nešto rodi iz onoga čega nema, a da biće propadne neizvodljivo je i nečuveno; jer uvek će biti, ma gde ga ko postavio.",
+    "stsl": "Невъзможьно бо єсть родити сѧ изъ несѫштаго · сѫштемѹ же погыбнѫти несъвьршимо и неслꙑшано · Вьсегда бо бѫдеть · къдѣже кто є поставитъ ·",
+    "originalText": "ἔκ τε γὰρ οὐδάμ' ἐόντος ἀμήχανόν ἐστι γενέσθαι καί τ' ἐὸν ἐξαπολέσθαι ἀνήνυστον καὶ ἄπυστον· αἰεὶ γὰρ τῆι γ' ἔσται, ὅπηι κέ τις αἰὲν ἐρείδῃ.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.12" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Mudar čovek ne bi u svom umu ovako sudio: da jesu samo dok žive ono što zovu životom i dok ih snalazi zlo i dobro, a da pre nego što se smrtnici sklope i pošto se rastave nisu ništa.",
+    "stsl": "Не сѫдилъ бы мѫдръ мѫжь ѹмомъ тако · ꙗко сѫть тъкмо дондеже живѫть еже житїемъ нарицаѭть · и дондеже зло и добро имъ прилѹчаєть сѧ · прѣжде же съставлениꙗ смрьтныхъ и по разложенїи ничтоже сѫть ·",
+    "originalText": "οὐκ ἂν ἀνὴρ τοιαῦτα σοφὸς φρεσὶ μαντεύσαιτο, ὡς ὄφρα μέν τε βιῶσι, τὸ δὴ βίοτον καλέουσι, τόφρα μὲν οὖν εἰσίν, καί σφιν πάρα δειλὰ καὶ ἐσθλά, πρὶν δὲ πάγεν τε βροτοὶ καὶ ἐπεὶ λύθεν, οὐδὲν ἄρ' εἰσιν.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.15" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Jer kao što su bili i pre, tako će i biti; nikada, mislim, beskrajno vreme neće ostati bez njih oboje.",
+    "stsl": "Ꙗкоже бо прѣжде бѣста · тако и бѫдета · Никогда · мьнѭ · безмѣрьныи вѣкъ отъ обоихъ сихъ не испраздьнить сѧ ·",
+    "originalText": "ἧι γὰρ καὶ πάρος ἔσκε, καὶ ἔσσεται, οὐδέ ποτ', οἴω, τούτων ἀμφοτέρων κενεώσεται ἄσπετος αἰών.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.16" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Nijedan deo svega nije prazan ni suvišan.",
+    "stsl": "Ничтоже отъ вьсего праздьно ни лишьно єсть ·",
+    "originalText": "οὐδέ τι τοῦ παντὸς κενεὸν πέλει οὐδὲ περισσόν.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.13" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Od svega ništa nije prazno; odakle bi mu onda išta pridošlo?",
+    "stsl": "Отъ вьсего ничтоже праздьно · откѫдѹ ѹбо что пришло бы ·",
+    "originalText": "τοῦ παντὸς δ' οὐδὲν κενεόν· πόθεν οὖν τί κ' ἐπέλθοι;",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.14" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Iz njegovih leđa ne niču dve grane, ni noge, ni brza kolena, ni rodni udovi; beše samo Sfera, odasvud jednaka sebi.",
+    "stsl": "Отъ хребьта єго не растѫть двѣ вѣтви · ни ногы · ни быстри колѣни · ни родьни ѹди · Нъ лопъта бѣ · отъвьсѫдѹ равьна себѣ ·",
+    "originalText": "οὐ γὰρ ἀπὸ νώτοιο δύο κλάδοι ἀΐσσονται, οὐ πόδες, οὐ θοὰ γοῦνα, οὐ μήδεα γεννήεντα, ἀλλὰ σφαῖρος ἔην καὶ πάντοθεν ἶσος ἑαυτῷ.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.29" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Mnogi ognjevi gore pod zemljom.",
+    "stsl": "Мънози огни подъ землею горѧть ·",
+    "originalText": "πολλὰ δ' ἔνερθε οὔδεος πυρὰ καίεται.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.52" }]
+  },
+  {
+    "type": "quote",
+    "sr": "More je znoj zemlje.",
+    "stsl": "Море потъ землѧ ·",
+    "originalText": "ἱδρῶτα τῆς γῆς θάλασσαν.",
+    "author": "Empedocles",
+    "sources": [{ "name": "hermann-diels", "reference": "B.55" }]
   }
 ]

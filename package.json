@@ -12,6 +12,8 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
+    "validate:data": "node tools/validate-data.mjs",
+    "prebuild:quotes": "npm run validate:data",
     "build:quotes": "node tools/build-quotes.mjs",
     "build:sources": "node tools/build-source-map.mjs"
   },

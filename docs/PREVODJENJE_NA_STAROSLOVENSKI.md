@@ -170,48 +170,46 @@ Korpus, etimološki rečnici, praslovenske rekonstrukcije i drugi izvori mogu sl
 
 Ako postoji razlog da se postojeći unos u rečniku promeni, prvo razmotriti promenu samog rečnika, a zatim dosledno primeniti novu odluku na prevode.
 
-### Čuvanje porodica reči
+### Čuvanje mreže reči
 
-Osnovni prevodilački princip je: čuvati zajednički koren.
+Jezik je mreža znanja: značenje nije samo u pojedinačnim rečima nego i u vezama među njima. Zato prevod treba, gde je moguće, da sačuva korene, srodstva i razlike među pojmovnim porodicama.
+
+Osnovni princip:
+
+`grčka mreža reči → slovenska mreža reči`
 
 Isti grčki koren → isti slovenski koren.
 
-Na primer, sve što sadrži `γεν` treba, gde semantika dopušta, povezivati sa slovenskim `род`.
-
-Slično, grčko `διά-` treba, gde predstavlja razdvajanje ili razlučivanje, sistematski predstavljati slovenskim `раз-`.
+Različite grčke porodice → različite slovenske porodice, kada slovenski ima sredstva da sačuva razliku.
 
 Primer:
 
-κρίνω → лѫчити
-κρίσις → лѫченіє
-διακρίνω → разлѫчити
-διάκρισις → разлѫченіє
+`κρίνω → лѫчити`
+`κρίσις → лѫченіє`
+`διακρίνω → разлѫчити`
+`διάκρισις → разлѫченіє`
 
-Cilj nije samo pronaći prevod pojedinačne reči, već izgraditi dosledne slovenske porodice filozofskih termina.
+Primer dveju porodica:
 
-Ako je jedan član porodice istorijski potvrđen, a drugi nije, dozvoljeno je rekonstruisati nepotvrđeni član prema istom slovenskom tvorbenom obrascu kada je takva tvorba istorijski moguća.
+`θελ- ↔ хот-`
+`βουλ- ↔ вол-`
 
-Isti grčki filozofski pojam prevoditi istim staroslovenskim terminom kroz ceo korpus, osim kada bi to promenilo njegovo filozofsko značenje.
+Pre usvajanja novog termina proveriti njegovu grčku porodicu, odgovarajuće slovenske korene, staroslovenski korpus, praslovenski i međuslovenski.
+
+Ako je jedan član slovenske porodice potvrđen, a drugi nije, dozvoljeno ga je rekonstruisati po istorijski mogućem tvorbenom obrascu.
+
+Prednost ima dosledan pojmovni sistem nad izolovanim prevodom pojedinačne reči.
 
 ### Rekonstrukcija novih termina
 
 Ako termin ne postoji u `RECNIK.md`:
 
-1. utvrditi tačno značenje grčkog termina u datom kontekstu;
-2. proveriti srodne grčke termine i njihove prevode u `RECNIK.md`;
-3. proveriti postoji li odgovarajući oblik ili koren u staroslovenskom korpusu;
-4. proveriti praslovenski koren i rekonstruisane praslovenske oblike;
-5. proveriti istorijske slovenske tvorbene obrasce;
-6. prema tim podacima predložiti slovenski filozofski termin;
-7. proveriti uklapa li se novi termin u postojeće porodice reči u rečniku.
+1. utvrditi značenje i grčku korensku porodicu;
+2. proveriti odgovarajuću slovensku porodicu u staroslovenskom, praslovenskom i međuslovenskom;
+3. proveriti istorijske tvorbene obrasce;
+4. izabrati ili rekonstruisati termin koji se najbolje uklapa u sistem rečnika.
 
-Prednost ima sistemski dobar termin nad izolovanim rešenjem.
-
-Istorijska potvrda je **plus**, ali nije presudna.
-
-Praslovenska rekonstrukcija je takođe **plus**, naročito kada pokazuje da su koren i značenje postojali pre nastanka staroslovenske pismenosti.
-
-Najvažnije je da konačni oblik bude istorijski moguć, slovenski i dosledan terminološkom sistemu projekta.
+Istorijska potvrda je prednost, ali nije uslov. Najvažnije je da oblik bude istorijski moguć, slovenski i sistemski dosledan.
 
 Ne preuzimati automatski biblijske ili patrističke prevode grčkih termina.
 
@@ -319,6 +317,8 @@ Vidi [KORPUS.md](KORPUS.md) za katalog izvornih tekstova.
 Već utvrđene termine koristiti dosledno.
 
 Kada se donese nova terminološka odluka, prvo je uneti u rečnik, a zatim je primenjivati kroz prevode.
+
+Vidi još [BIBLIJSKI_RECNIK.md](BIBLIJSKI_RECNIK.md) kao primer ranijih prevoda.
 
 ## Primeri dobrih prevoda
 

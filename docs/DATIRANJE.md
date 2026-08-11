@@ -33,6 +33,12 @@ Ako tačna godina nije poznata, proceniti je prema:
 
 Procena mora biti istorijski moguća i hronološki dosledna.
 
+Ako postoje dve razumne približne godine, a nijedna nema jasnu prednost, koristiti
+sredinu između njih. Sredina je praktična projektna procena za vremensku liniju,
+ne tvrdnja da je događaj pouzdano nastupio upravo te godine. Ovo pravilo ne
+primenjivati kada su predanja suštinski nespojiva ili bi srednja godina stvorila
+novu istorijsku nemogućnost.
+
 ---
 
 ## Opseg života iz `authors.json`
@@ -41,7 +47,10 @@ Procena mora biti istorijski moguća i hronološki dosledna.
 
 Svaki filozof ima polja `born` i `died` koja definišu minimalne i maksimalne godine njegovog života.
 
-**Ni jedan biografski unos ne sme imati godinu van ovog opsega.** Izuzetak su posthumni događaji.
+**Ni jedan biografski unos ne sme imati godinu van ovog opsega.** Izuzeci su
+posthumni događaji i unosi čiji stvarni nosilac nije autor nego njegov predak ili
+potomak. Takvi unosi mogu stajati pre rođenja ili posle smrti autora kada je to
+potrebno za ispravnu hronologiju porodičnog događaja.
 
 ### Primer
 

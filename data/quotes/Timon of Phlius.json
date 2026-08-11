@@ -99,8 +99,8 @@
   },
   {
     "type": "quote",
-    "sr": "Što dolazite ovamo, gde smo mi slobodni?",
-    "stsl": "Чєсо ради пріходитє сѣмо · идѣжє ємꙑ своводьни.",
+    "sr": "Šta ti radiš ovde, gde smo mi slobodni?",
+    "stsl": "Что тꙑ сѣмо пришелъ єси · идеже мы свободьни ·",
     "originalText": "τί σὺ δεῦρο, ἔνθαπερ ἡμεῖς οἱ ἐλεύθεροι;",
     "author": "Timon of Phlius",
     "sources": [
@@ -111,10 +111,11 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Zašto se ne čudiš što nas troje imamo četiri oka?",
-    "stsl": "Почто сѧ нє чѹдіши ꙗко насъ троє имамꙑ чєтꙑри очи.",
-    "originalText": "τί δ' οὐ θαυμάζεις ὅτι τρεῖς ὄντες τέτταρας ἔχομεν ὀφθαλμούς;",
+    "type": "anecdote",
+    "year": -260,
+    "sr": "Timon je bio jednook, kao i njegov učenik Dioskurid. Kada se neki čovek zdravih očiju svemu čudio, Timon ga upita: „Zašto se ne čudiš što nas trojica imamo četiri oka?“",
+    "stsl": "Тимонъ єдиноокъ бѣ · такожде и ѹченикъ єго Диоскоридъ · Єгда нѣкыи здравы очи имыи вьсемѹ чѹждааше сѧ · Тимонъ єго въпроси · Почто сѧ не чѹдиши · ꙗко насъ троє четꙑри очи имамы ·",
+    "originalText": "εἰώθει δὲ καὶ παίζειν τοιαῦτα. πρὸς οὖν τὸν θαυμάζοντα πάντα ἔφη, «τί δ' οὐ θαυμάζεις ὅτι τρεῖς ὄντες τέτταρας ἔχομεν ὀφθαλμούς;» ἦν δ' αὐτός τε ἑτερόφθαλμος καὶ ὁ Διοσκουρίδης μαθητὴς αὐτοῦ, καὶ ὁ πρὸς ὃν ἔλεγεν ὑγιής.",
     "author": "Timon of Phlius",
     "sources": [
       {
@@ -124,10 +125,11 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Da vidim vas otvorenih i smejem se.",
-    "stsl": "Да відімъ васъ отъворєнꙑхъ і смѣѭ сѧ.",
-    "originalText": "ἵν' ὑμᾶς ἀναπεπταμένους ὁρῶν γελῶ.",
+    "type": "anecdote",
+    "year": -260,
+    "sr": "Upitan jednom od Arkesilaja zašto je došao iz Tebe, rekao je: 'Da vidim vas otvorenih i smejem se.'",
+    "stsl": "Въпрошєнъ єдиноѭ отъ Аркєсілаа почто пріідє отъ Тєвꙑ · рєчє · Да відімъ васъ отъворєнꙑхъ і смѣѭ сѧ.",
+    "originalText": "ἐρωτηθεὶς δέ ποτε ὑπὸ τοῦ Ἀρκεσιλάου διὰ τί παρείη ἐκ Θηβῶν, ἔφη, ἵν' ὑμᾶς ἀναπεπταμένους ὁρῶν γελῶ.",
     "author": "Timon of Phlius",
     "sources": [
       {
@@ -137,11 +139,94 @@
     ]
   },
   {
+    "type": "bio",
+    "year": -280,
+    "sr": "Starijeg sina nazvao je Ksant, naučio ga lekarstvu i ostavio ga za naslednika svoga načina života. Ksant je bio znamenit čovek.",
+    "stsl": "Старѣишаго сына Ксантомъ нарече · врачьствѹ єго наѹчи и наслѣдьника своего жития остави · Ксантъ же знаменьнъ чловѣкъ бѣ ·",
+    "originalText": "ὧν τὸν μὲν πρεσβύτερον Ξάνθον ἐκάλεσε καὶ ἰατρικὴν ἐδίδαξε καὶ διάδοχον τοῦ βίου κατέλιπεν. ὁ δ' ἐλλόγιμος ἦν, ὡς καὶ Σωτίων ἐν τῷ ἑνδεκάτῳ φησίν.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.109–110"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -280,
+    "sr": "Poznavali su ga kralj Antigon i Ptolemej Filadelf, kako sam svedoči u svojim jambima.",
+    "stsl": "Знааста єго цѣсарь Антигонъ и Птолемеи Филаделфъ · ꙗкоже самъ въ своихъ иамбѣхъ свѣдѣтельствѹєть ·",
+    "originalText": "ἐγνώσθη δὲ καὶ Ἀντιγόνῳ τῷ βασιλεῖ καὶ Πτολεμαίῳ τῷ Φιλαδέλφῳ, ὡς αὐτὸς ἐν τοῖς ἰάμβοις αὑτῷ μαρτυρεῖ.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.110"
+      }
+    ]
+  },
+  {
+    "type": "works",
+    "sr": "Timonova tri dela zvana Sile ismevaju sve dogmatičare parodirajući ih iz skeptičkog ugla. Prvo je pripovedano u jednom glasu, a drugo i treće imaju oblik razgovora u kojem Timon ispituje Ksenofana iz Kolofona: druga knjiga govori o starijim, treća o poznijim misliocima. Prva knjiga počinje stihom: „Kazujte mi sada, svi vi mnogodelni sofisti.“",
+    "stsl": "Три Тимонова дѣла · Силы нарицаєма · вьсѧ догматикы скептичьскы рѫгаѭть и въ подобиихъ осмѣваѭть · Пръво єдиногласъно сказано · дрѹго же и третиє разговоръ имата · въ нѣмь Тимонъ Ксенофана Колофоньскаго о вьсѣхъ въпрашаєть · Дрѹга книга о старѣишиихъ · третиꙗ о познѣишиихъ любомѫдрьцѣхъ глаголєть · Пръва же симь стихомъ начинаєть сѧ · Скажите ми нынѣ · елици мъногодѣльни софисти есте ·",
+    "originalText": "τῶν δὲ Σίλλων τρία ἐστίν, ἐν οἷς ὡς ἂν σκεπτικὸς ὢν πάντας λοιδορεῖ καὶ σιλλαίνει τοὺς δογματικοὺς ἐν παρῳδίας εἴδει. ὧν τὸ μὲν πρῶτον αὐτοδιήγητον ἔχει τὴν ἑρμηνείαν, τὸ δὲ δεύτερον καὶ τρίτον ἐν διαλόγου σχήματι. φαίνεται γοῦν ἀνακρίνων Ξενοφάνην τὸν Κολοφώνιον περὶ ἑκάστων, ὁ δ' αὐτῷ διηγούμενός ἐστι· καὶ ἐν μὲν τῷ δευτέρῳ περὶ τῶν ἀρχαιοτέρων, ἐν δὲ τῷ τρίτῳ περὶ τῶν ὑστέρων· ὅθεν δὴ αὐτῷ τινες καὶ Ἐπίλογον ἐπέγραψαν. τὸ δὲ πρῶτον ταὐτὰ περιέχει πράγματα, πλὴν ὅτι μονοπρόσωπός ἐστιν ἡ ποίησις· ἀρχὴ δ' αὐτῷ ἥδε, ἔσπετε νῦν μοι ὅσοι πολυπράγμονές ἐστε σοφισταί.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.111–112"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -230,
+    "sr": "Umro je blizu devedesete godine. Bio je jednook i sam je sebe nazivao Kiklopom.",
+    "stsl": "Близъ девѧтидесѧти лѣтъ ѹмре · Єдиноокъ бѣ и самъ себе Киклопомъ нарицааше ·",
+    "originalText": "Ἐτελεύτησε δ' ἐγγὺς ἐτῶν ἐνενήκοντα, ὥς φησιν ὁ Ἀντίγονος καὶ Σωτίων ἐν τῷ ἑνδεκάτῳ. τοῦτον ἐγὼ καὶ ἑτερόφθαλμον ἤκουσα, ἐπεὶ καὶ αὐτὸς αὑτὸν Κύκλωπα ἐκάλει.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.112"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -260,
+    "sr": "Bio je oštar u mišljenju i poruzi, voleo je književnost, pisao pesnicima priče i zajedno s njima sastavljao drame; Aleksandru i Homeru davao je svoje tragedije. Buka sluškinja i pasa nije ga ometala, jer se trudio da ostane miran.",
+    "stsl": "Остръ бѣ въ мышлении и рѫгании · писмолюбьнъ · пѣснотворьцемъ басьни писааше и съ ними драмы съставлѧаше · Александрѹ и Хомерѹ своѩ трагедиѩ давааше · Шѹмъ рабынь и пъсъ ємѹ не прѣпинааше · зане тишинѫ хранити тъштааше сѧ ·",
+    "originalText": "Ἦν δὲ καὶ ὀξὺς νοῆσαι καὶ διαμυκτηρίσαι· φιλογράμματός τε καὶ τοῖς ποιηταῖς μύθους γράψαι ἱκανὸς καὶ δράματα συνδιατιθέναι. μετεδίδου δὲ τῶν τραγῳδιῶν Ἀλεξάνδρῳ καὶ Ὁμήρῳ. θορυβούμενός θ' ὑπὸ τῶν θεραπαινῶν καὶ κυνῶν ἐποίει μηδέν, σπουδάζων περὶ τὸ ἠρεμάζειν.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.113"
+      }
+    ]
+  },
+  {
     "type": "anecdote",
     "year": -260,
-    "sr": "Upitan jednom od Arkesilaja zašto je došao iz Tebe, rekao je: 'Da vidim vas otvorenih i smejem se.'",
-    "stsl": "Въпрошєнъ єдиноѭ отъ Аркєсілаа почто пріідє отъ Тєвꙑ · рєчє · Да відімъ васъ отъворєнꙑхъ і смѣѭ сѧ.",
-    "originalText": "ἐρωτηθεὶς δέ ποτε ὑπὸ τοῦ Ἀρκεσιλάου διὰ τί παρείη ἐκ Θηβῶν, ἔφη, ἵν' ὑμᾶς ἀναπεπταμένους ὁρῶν γελῶ.",
+    "sr": "Pesme su mu ležale razbacane, ponekad napola izjedene. Dok bi retoru Zopiru nešto čitao, smotavao je rukopis i nastavljao prema onome što mu je dolazilo; stigavši do polovine, pronašao bi odlomak koji dotad nije znao. Toliko je bio nehajan, ali i tako tečan da se nije zadržavao ni na ručku.",
+    "stsl": "Пѣсни єго несъбраны лежаахѫ · овогда до полѹ изѣдены · Риторѹ Зопирѹ нѣчто чьтꙑ · свивааше писаниє и по приходѧштемѹ глаголаше · до полѹ дошедъ · отърꙑвъкъ · єгоже дотолѣ не вѣдѣаше · обрѣтааше · Толико небрѣжьнъ бѣ · въкѹпѣ же толико рѣчистъ · ꙗко ни на обѣдѣ коснѣаше ·",
+    "originalText": "εἰκῇ τε αὐτῷ ἔκειτο τὰ ποιήματα, ἐνίοτε ἡμίβρωτα· ὥστε καὶ Ζωπύρῳ τῷ ῥήτορι ἀναγινώσκοντά τι ἐπιτυλίττειν καὶ κατὰ τὸ ἐπελθὸν διεξιέναι· ἐλθόντα τ' ἐφ' ἡμισείας, οὕτως εὑρεῖν τὸ ἀπόσπασμα τέως ἀγνοοῦντα. τοσοῦτον ἦν ἀδιάφορος. ἀλλὰ καὶ εὔρους, ὡς μηδ' ἀριστᾶν συγχρονεῖν.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.113–114"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -250,
+    "sr": "Prema Menodotu nije imao naslednika, pa je skeptički pravac zamro dok ga nije obnovio Ptolemej iz Kirene. Prema Hipobotu i Sotionu, slušali su ga Dioskurid Kipranin, Nikoloh Rođanin, Eufranor iz Seleukije i Prail iz Troade.",
+    "stsl": "По Менодотѹ наслѣдьника не имѣаше · тѣмь скептичьскыи пѫть прѣста · дондеже єго Птолемеи Кириньскыи не обнови · По Иппоботѹ же и Сотионѹ слѹшаахѫ єго Диоскоридъ Кѵпрьскыи · Николохъ Родьскыи · Еѹфраноръ Селеѹкиискъ и Праилъ Троадьскыи ·",
+    "originalText": "Τούτου διάδοχος, ὡς μὲν Μηνόδοτός φησι, γέγονεν οὐδείς, ἀλλὰ διέλιπεν ἡ ἀγωγὴ ἕως αὐτὴν Πτολεμαῖος ὁ Κυρηναῖος ἀνεκτήσατο. ὡς δ' Ἱππόβοτός φησι καὶ Σωτίων, διήκουσαν αὐτοῦ Διοσκουρίδης Κύπριος καὶ Νικόλοχος Ῥόδιος καὶ Εὐφράνωρ Σελευκεὺς Πραΰλους τ' ἀπὸ Τρωάδος.",
     "author": "Timon of Phlius",
     "sources": [
       {

@@ -17,7 +17,7 @@ Pri proceni su razlikovani:
 
 ## Potvrđeno nepotpuni fajlovi
 
-### Kleobul — ozbiljno nepotpun
+### Kleobul — dopunjen
 
 Postojeći fajl koristi Diogena samo za zagonetku iz I.91; ostali unosi potiču od Valtera Burlija. Kleobulovo poglavlje kod Diogena obuhvata I.89–93.
 
@@ -28,9 +28,9 @@ Nedostaje ili nije povezano s Diogenom:
 - pismo Solonu iz I.93;
 - provera da li se Burlijeve izreke podudaraju sa I.92, kako se isti sadržaj ne bi duplirao.
 
-Zaključak: najpre ekstraktovati I.89–93 kao celinu, pa spojiti podudarne Burlijeve unose.
+Zaključak: I.89–93 je dopunjen 11. avgusta 2026. Dodati su biografski podaci, pripisana dela, propušteni savet, smrt i pismo Solonu; podudarne Burlijeve izreke povezane su sa Diogenom bez pravljenja duplikata.
 
-### Ferekid — ozbiljno nepotpun
+### Ferekid — dopunjen
 
 Od Diogena je neposredno naveden samo I.116, dok poglavlje traje do I.122. Nekoliko Burlijevih anegdota verovatno potiče iz istog predanja, ali nema odgovarajuću referencu na Diogena.
 
@@ -42,9 +42,9 @@ Treba proveriti i dopuniti:
 - pismo Talesu i pripisano učenje/delo;
 - epitaf i ostala predanja iz I.118–122, uz izbegavanje dupliranja Burlijevih verzija.
 
-Zaključak: postojeći sadržaj nije dovoljan da bi se Ferekid smatrao obrađenim prema Diogenu.
+Zaključak: I.116–122 je dopunjen 11. avgusta 2026. Povezane su Burlijeve verzije proročanstava sa Diogenom, dodat je pad Mesene, san o zlatu i srebru, predanje o ratu Efesa i Magnezije, različite smrti, olimpijada, heliotrop i celo pismo Talesu. Prekinuta Burlijeva anegdota „Telo…“ zamenjena je potpunim grčkim oblikom „Po koži se vidi“.
 
-### Piron — ozbiljno nepotpun
+### Piron — dopunjen
 
 Postojeći fajl pokriva samo IX.61, 62, 64, 66 i 68. Lični život i anegdote nastavljaju se najmanje kroz IX.67, a zatim sledi veliki prikaz skeptičke tradicije.
 
@@ -58,15 +58,17 @@ Potvrđeno nedostaju lične epizode i podaci iz IX.63–67, između ostalog:
 - epizode u kojima se razgnevio na sestru ili prijatelja i objašnjavao koliko je teško sasvim odbaciti ljudsku prirodu;
 - dodatne državne počasti i svedočanstva učenika.
 
-IX.69–108 uglavnom izlaže kasniji skepticizam, moduse i argumente skeptika. Taj deo ne treba automatski pripisati Pironu. Potrebna je zasebna odluka šta je izričito Pironovo, a šta pripada školi ili kasnijim autorima.
+IX.63–68 dopunjen je 11. avgusta 2026. Dodati su Enesidemovo suprotno svedočanstvo, siromaštvo i slikarski rad, povlačenje u samoću, Anaksarh u bari, život sa sestrom, epizode sa psom i ranom i podatak o starosti. Izdvojene replike uklonjene su tamo gde su već sačuvane u potpunim anegdotama.
 
-### Menedem — ozbiljno nepotpun
+IX.69–108 uglavnom izlaže kasniji skepticizam, moduse i argumente skeptika i nije automatski pripisan Pironu.
+
+### Menedem — dopunjen
 
 Postojeći Diogenovi izvori uglavnom pokrivaju II.125–130 i završetak II.144, dok Menedemovo poglavlje traje kroz II.144. Središnji deo II.131–143 sadrži veliki broj karakteroloških i razgovornih epizoda.
 
-Zaključak: potrebna je potpuna nova ekstrakcija II.125–144 i poređenje sa postojećim unosima. Posebno treba paziti jer su neki sadašnji `quote` unosi zapravo anegdotski razgovori.
+Zaključak: II.125–144 je ponovo obrađen 11. avgusta 2026. Dodati su karakter, javni život, logička učenja, gostoprimstvo, prijateljstvo sa Asklepijadom, politička delatnost, sukob sa Persejem i predanje o smrti; razgovorne epizode sačuvane su kao anegdote.
 
-### Teofrast — delimično nepotpun
+### Teofrast — dopunjen
 
 Postojeći fajl dobro zahvata nekoliko najvažnijih mesta iz V.36–41, ali preskače deo biografskog i karakterološkog materijala.
 
@@ -78,23 +80,106 @@ Nedostaje ili je previše sažeto:
 - dodatni podaci o njegovom načinu predavanja i držanju;
 - testament iz V.51–57, ako se u projektu čuvaju biografski važni delovi testamenta.
 
-V.42–50 je pretežno katalog dela. Njega ne treba pretvarati u niz citata, ali se može sažeti kao `works` ako projekat želi potpunu bibliografsku pokrivenost.
+V.36–57 je dopunjen 11. avgusta 2026. Dodati su poreklo, karakter, učenici, progonstvo i povratak, promena imena, Aristotelov sud, izreke, starost i biografski važne odredbe testamenta. V.42–50 ostavljen je kao katalog u izvoru i nije pretvoren u niz sadržajno praznih citata.
 
-### Epikur — veoma ozbiljno nepotpun
+### Epikur — završeno
 
-Postojeći fajl ima samo trinaest unosa i dotiče mali deo X.1–22. Deseta knjiga je sačuvala velike delove Epikurovih sopstvenih spisa.
+Biografski deo X.1–22 dopunjen je, a pisma Pitoklu X.84–116 i Menoikeju
+X.122–135 i svih 40 *Glavnih misli* X.139–154 preneti su kao celovita dela.
+Pismo Herodotu X.35–83 takođe je preneto kao celovito delo, uz izdvajanje
+Diogenovih uredničkih umetaka iz teksta poslanice. Fajl sada ima 25 unosa.
+Po odluci projekta, sačuvane poslanice i *Glavne misli* ostaju celoviti
+`works` unosi, bez atomizovanja.
 
-Nedostaje najmanje:
+### Ksenokrat — završeno
 
-- veliki deo biografije, sporova, učenika i predanja o smrti iz X.3–22;
-- Pismo Herodotu iz X.35–83;
-- Pismo Pitoklu iz X.84–116;
-- Pismo Menoikeju iz X.121–135;
-- Glavne misli iz X.139–154.
+Odeljak IV.6–15 upoređen je s postojećim unosima. Dopunjena su predanja o
+Laisi, odbijenom Antipatrovom daru, vencu sa praznika Vrčeva i susretu s
+Antipatrom; vraćen je pripovedni kontekst odbrane Platona i poslanstva za
+atinske zarobljenike. Epizode s vrapcem i Bionom pretipizirane su u anegdote.
+Katalog spisa IV.11–14, Diogenov epigram o smrti i popis drugih ljudi istog
+imena nisu pretvarani u Ksenokratove citate.
 
-Ovo nisu samo Diogenovi komentari: veliki deo je neposredni Epikurov tekst i prema projektnim pravilima predstavlja obavezni citatni materijal. Duge poslanice treba atomizovati po samostalnim učenjima, ali bez cepanja tesno povezanih argumenata na besmislene rečenice.
+### Timon — završeno
 
-Zaključak: Epikur je trenutno najnepotpuniji od postojećih velikih filozofskih fajlova.
+Odeljak IX.109–116 proveren je u celini. Dodati su podaci o sinu Ksantu,
+poznanstvu s vladarima, ustrojstvu *Sila*, početnom stihu tog dela, smrti,
+jednookosti, književnom radu, neurednim rukopisima i neposrednim učenicima.
+Vraćen je kontekst šali o četiri oka, a kraći duplikat odgovora Arkesilaju je
+uklonjen. Kasnija učenička loza iz IX.116 nije pripisana Timonu kao njegovo
+učenje; dve tekstualne nedoumice izdvojene su u `OTVORENE_DILEME.md`.
+
+### Zenon iz Kitija — završeno
+
+Odeljak VII.1–38 proveren je kao celina i dopunjen biografskim podacima,
+pismom Antigonu, atinskim dekretom, anegdotama, izrekama i učenicima. U
+doktrinarnom delu VII.39–160 dodati su samo stavovi koje tekst imenom pripisuje
+Zenonu. Opšti stoički pregled nije automatski proglašen njegovim učenjem.
+Katalog spisa, tuđi epigrami i spisak imenjaka ostavljeni su u izvoru.
+
+### Hrisip — završeno
+
+Odeljak VII.179–202 proveren je u celini. Dopunjeni su podatak o oduzetom
+očinskom imanju, rad u Akademiji, druga verzija smrti, odnos prema vladarima,
+sestrići i javna škola u Likeju. Preneto je šest sofizama iz VII.186–187,
+sporni stavovi iz VII.188 uz izričitu ogradu da ih prenose kritičari i sačuvani
+odlomak iz druge knjige *O životu i sticanju*. Opsežni katalog dela od VII.189
+do VII.202 ostavljen je u izvoru.
+
+### Ksenofont — završeno
+
+Odeljak II.48–59 upoređen je s postojećim unosima. Nisu nađeni doslovni
+duplikati: uzastopni unosi pripadaju različitim etapama istih pripovesti.
+Dopunjeni su spartansko pravo gostoprimstva i imanje, Filopidin dar,
+Diodorov povratak iz Mantineje i Ksenofontov povratak iz progonstva. Katalog
+dela, Diogenovi epigrami i spisak imenjaka nisu pretvarani u citate. Nesaglasna
+datiranja zrelosti iz II.55 i II.59 zabeležena su u `OTVORENE_DILEME.md`.
+
+### Aristip — završeno
+
+Aristipov životopis II.65–83 proveren je odeljak po odeljak. Sadržajni navodi
+su već bili potpuni, ali je sedam poenti bilo udvojeno kao kratak citat i kao
+celovita anegdota; zadržane su potpunije pripovesti. II.84–85 sadrže kataloge i
+protivrečna predanja o njegovim spisima, pa nisu atomizovani. Ranije navedeni
+opseg do II.104 obuhvata i druge predstavnike kirenske škole, ne Aristipa.
+
+### Diogen iz Sinope — završeno
+
+Odeljak VI.20–81 ponovo je proveren po odeljcima. Dopunjene su samostalne
+izreke i anegdote koje su ranije nestale pri sažimanju, naročito iz VI.23–28,
+VI.35–48 i VI.51–73. Kraća i duža verzija odgovora o ismevanju spojene su u
+jedan unos sa obe reference, a sažeti zapis o smrti uklopljen je u celovito
+predanje. Burlijevoj priči o pranju povrća dodat je grčki tekst i Diogenova
+referenca. VI.80 je katalog spisa, a VI.81 spisak imenjaka, pa nisu pretvarani
+u Diogenove citate. Fajl sada ima 140 unosa.
+
+### Pitagora — završeno
+
+Odeljak VIII.1–50 proveren je po referencama i sadržaju. Dopunjeni su
+matematički i muzički rad, tumačenje simboličnih zabrana, svakodnevna ishrana i
+odeća, Aristotelova tumačenja zabrane boba, Ksenofanovo svedočenje o duši u
+psu, tri predanja o smrti i podatak o sinu Telaugu. VIII.37–38 su komičarske
+poruge, VIII.45 Diogenovi epigrami, a VIII.46–47 naslednici škole i drugi ljudi
+istog imena; zato nisu predstavljeni kao Pitagorine reči. Fajl sada ima 103
+unosa.
+
+### Empedokle — završeno
+
+Odeljak VIII.51–77 proveren je u celini. Postojeći fajl već je dobro pokrivao
+politički rad, predanja o učenju, medicinske podvige, fragmente i različite
+verzije smrti. Dopunjeni su protivrečni porodični podaci, sudbina pesama o
+Kserksu i Apolonu, odnos s Pausanijom i izvođenje *Očišćenja* u Olimpiji.
+Nesklad lokalnog izdanja i postojećeg grčkog navoda o broju tragedija zabeležen
+je u `OTVORENE_DILEME.md`. Fajl sada ima 45 unosa.
+
+### Gorgija i Demosten — završeno
+
+Sva pojavljivanja njihovih grčkih imena pretražena su kroz deset lokalnih
+knjiga. Gorgijini sadržajni navodi već su bili pokriveni; ostala pojavljivanja
+su imena Platonovog dijaloga i naslovi tuđih spisa. Demostenu su dodati podaci
+da je slušao Eubulida i Platona, godina i mesto smrti, kao i dve anegdote sa
+Diogenom iz Sinope. Te anegdote su neutralno preformulisane i označene kao
+deljeni unosi za oba autora.
 
 ## Visok rizik od dodatnih propusta
 
@@ -102,27 +187,10 @@ Sledeći fajlovi zahtevaju punu proveru odeljka, jer raspored referenci pokazuje
 
 | Filozof | Diogenov odeljak | Razlog za prioritet |
 |---|---|---|
-| Ksenokrat | IV.6–15 | Nedostaju reference na IV.12–13 i 15; mogući biografski i anegdotski propusti. |
-| Zenon iz Kitija | VII.1–160 | Postojeći fajl pokriva mali deo biografije, a ostatak knjige zahteva razdvajanje Zenonovih stavova od opšte stoičke doktrine. |
-| Hrisip | VII.179–202 | Postojeći materijal ne pokriva čitav završetak poglavlja; odvojiti izreke, biografiju i katalog dela. |
-| Timon | IX.109–116 | Nedostaju najmanje odeljci 111 i 116; proveriti da li sadrže samostalne stihove ili biografski važne epizode. |
-| Ksenofont | II.48–59 | Postoje duplikati, ali nije sigurno da su svi događaji iz poglavlja sačuvani. Deduplikacija i provera potpunosti moraju ići zajedno. |
-| Aristip | II.65–104 | Veliko poglavlje s mnogo anegdota; broj unosa je velik, ali sama količina ne dokazuje potpunost. |
-| Diogen iz Sinope | VI.20–81 | Mnogo anegdota je sažeto ili spojeno; proveriti gubitak samostalnih poenti pri spajanju. |
-| Pitagora | VIII.1–50 | Pokrivenost je velika, ali izvori su mešani; proveriti da li mesta bez Diogenove reference već postoje preko drugog izvora ili stvarno nedostaju. |
-| Empedokle | VIII.51–77 | Slično Pitagori: veliki deo postoji, ali treba sistematsko poređenje po odeljcima nakon sređivanja tipova. |
 
 ## Fajlovi bez samostalnog Diogenovog životopisa
 
 Gorgija i Demosten nemaju zasebno poglavlje među Diogenovim životopisima u lokalnom tekstu. Oni se mogu pojaviti u tuđim poglavljima, ali se njihova potpunost ne može proveravati kao kontinuiran odeljak. Za njih treba pretražiti sva pojavljivanja imena u deset knjiga i uključiti samo ono što Diogen zaista prenosi o njima.
-
-Zoroaster se javlja u proemijumu (I.1–11) u okviru rasprave o persijskim magima. Treba odvojiti:
-
-- ono što je izričito rečeno o Zoroastru;
-- opšta učenja maga;
-- mnogo kasnija predanja o uticaju na grčke filozofe.
-
-Opšta učenja maga ne treba automatski pretvarati u Zoroasterove citate.
 
 ## Šta se ne sme automatski dodavati
 
@@ -138,8 +206,6 @@ Opšta učenja maga ne treba automatski pretvarati u Zoroasterove citate.
 3. Piron — jasne propuštene anegdote.
 4. Menedem — veliki blok propuštenih razgovora.
 5. Teofrast — dopuna biografije i odluka o delima/testamentu.
-6. Epikur — poseban veći posao atomizacije sačuvanih pisama i Glavnih misli.
-7. Zatim Ksenokrat, Timon, Zenon iz Kitija i Hrisip.
-8. Na kraju revizija već obimnih fajlova: Aristip, Diogen, Pitagora i Empedokle.
+6. Gorgija i Demosten — pretraga kroz svih deset knjiga.
 
 Tek posle pojedinačne semantičke provere treba menjati JSON. Automatsko poređenje brojeva odeljaka služi za pronalaženje kandidata, ali nije dovoljno za odluku šta se unosi.

@@ -1,6 +1,24 @@
 [
   {
     "type": "bio",
+    "year": -630,
+    "sr": "Kleobul, sin Evagorin, bio je iz Linda; prema Durisu bio je Karijac, a neki su njegov rod izvodili od Herakla.",
+    "stsl": "Клеовѹлъ Евагоровъ отъ Линда бѣ · по Дѹрисѹ Каръ · инии же родъ єго отъ Херакла изводѧхѹ ·",
+    "originalText": "Κλεόβουλος Εὐαγόρου Λίνδιος, ὡς δὲ Δοῦρις, Κάρ· ἔνιοι δὲ εἰς Ἡρακλέα ἀναφέρειν τὸ γένος αὐτόν.",
+    "author": "Cleobulus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.89" }]
+  },
+  {
+    "type": "bio",
+    "year": -610,
+    "sr": "Isticao se snagom i lepotom i učestvovao u egipatskoj filozofiji.",
+    "stsl": "Силою и красотою отличаше сѧ · и егѵпетьскыѩ философиѩ причѧстьникъ бѣ ·",
+    "originalText": "ῥώμῃ δὲ καὶ κάλλει διαφέρειν, μετασχεῖν τε τῆς ἐν Αἰγύπτῳ φιλοσοφίας.",
+    "author": "Cleobulus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.89" }]
+  },
+  {
+    "type": "bio",
     "year": -600,
     "sr": "Kleobul Lindijski, filozof, jedan od sedam mudraca Helade, cvao u vreme Cedekije, cara judejskog.",
     "stsl": "Клєовѹлъ Ліндііскъ · філософъ · єдінъ отъ сєдміхъ мѫдрьцъ Єлладꙑ · цвѣтааше въ врємѧ Цєдєкіꙗ · цара іѹдєіскаго ·",
@@ -10,10 +28,6 @@
       {
         "name": "walter-burley",
         "reference": "Cap. VI"
-      },
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.91"
       }
     ]
   },
@@ -31,9 +45,34 @@
       },
       {
         "name": "diogenes-laertius",
-        "reference": "I.91"
+        "reference": "I.89"
       }
     ]
+  },
+  {
+    "type": "bio",
+    "year": -590,
+    "sr": "Obnovio je Atenin hram u Lindu, koji je podigao Danaj.",
+    "stsl": "Аѳининъ храмъ въ Линдѣ · єгоже Данаи създа · обнови ·",
+    "originalText": "Ἀλλὰ καὶ τὸ ἱερὸν τῆς Ἀθηνᾶς ἀνανεώσασθαι αὐτὸν κτισθὲν ὑπὸ Δαναοῦ.",
+    "author": "Cleobulus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.89" }]
+  },
+  {
+    "type": "works",
+    "sr": "Sastavio je pesme i zagonetke u tri hiljade stihova.",
+    "stsl": "Пѣниѩ и загадъкы въ трьхъ тысѫштахъ стихъ сътвори ·",
+    "originalText": "Οὗτος ἐποίησεν ᾄσματα καὶ γρίφους εἰς ἔπη τρισχίλια.",
+    "author": "Cleobulus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.89" }]
+  },
+  {
+    "type": "works",
+    "sr": "Neki su Kleobulu pripisivali natpis na Midinom grobu: Bronzana sam devojka i ležim na Midinom grobu. Dok voda teče i visoko drveće lista, dok izlazeće Sunce sija i svetli Mesec, dok reke teku i more zapljuskuje, ovde ću ostati na ovom mnogo oplakanom grobu i prolaznicima kazivati da je Mida ovde sahranjen.",
+    "stsl": "Инии Клеовѹлѹ писмѧ на Мидовѣ гробѣ приписовахѹ · Мѣдѣна дѣва єсмь · на Мидовѣ гробѣ лежѫ · Дондеже вода течеть и высока дрѣва листвѧть · въсходѧште слъньце сиѩєть и свѣтълъ мѣсѧць · рѣкы текѫть и море плещеть · здѣ на многооплаканѣмь гробѣ прѣбѫдѫ · мимоходѧштимъ повѣдаѭшти · ꙗко Мида здѣ погребенъ ·",
+    "originalText": "Χαλκῆ παρθένος εἰμί, Μίδα δ' ἐπὶ σήματι κεῖμαι. Ἔστ' ἂν ὕδωρ τε νάῃ καὶ δένδρεα μακρὰ τεθήλῃ, Ἠέλιός τ' ἀνιὼν λάμπῃ, λαμπρά τε σελήνη, καὶ ποταμοί γε ῥέωσιν, ἀνακλύζῃ δὲ θάλασσα, αὐτοῦ τῇδε μένουσα πολυκλαύτῳ ἐπὶ τύμβῳ, ἀγγελέω παριοῦσι, Μίδας ὅτι τῇδε τέθαπται.",
+    "author": "Cleobulus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.89–90" }]
   },
   {
     "type": "works",
@@ -62,6 +101,10 @@
       {
         "name": "walter-burley",
         "reference": "Cap. VI"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.91"
       }
     ]
   },
@@ -75,23 +118,27 @@
       {
         "name": "walter-burley",
         "reference": "Cap. VI"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.91"
       }
     ]
   },
   {
     "type": "quote",
-    "sr": "Više se treba čuvati zavisti prijatelja nego zamki neprijatelja.",
-    "stsl": "Паче подоваєть вєрєщі сѧ ꙁавісті дрѹгъ · неже ли ловꙑ врагъ ·",
-    "originalText": "Magis enim amicorum invidiam quam inimicorum insidias cavere debemus.",
+    "sr": "Čuvaj se prekora prijatelja i zamke neprijatelja.",
+    "stsl": "Блюди сѧ дрѹжьнѧ прѣкора и вражиѩ замкꙑ ·",
+    "originalText": "Φυλάσσεσθαι γὰρ τῶν μὲν φίλων τὸν ψόγον, τῶν δὲ ἐχθρῶν τὴν ἐπιβουλήν.",
     "author": "Cleobulus",
     "sources": [
       {
-        "name": "walter-burley",
-        "reference": "Cap. VI"
-      },
-      {
         "name": "diogenes-laertius",
         "reference": "I.92"
+      },
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VI"
       }
     ]
   },
@@ -354,5 +401,30 @@
         "reference": "I.93"
       }
     ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne kažnjavaj slugu dok je pijan, jer će izgledati da si i sam pijan.",
+    "stsl": "Слѹгѫ піѧна не казни · да не мьнимъ бѫдеши піѧнъ ·",
+    "originalText": "Οἰκέτην πάροινον μὴ κολάζειν, δοκεῖν γὰρ παροινεῖν.",
+    "author": "Cleobulus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.92" }]
+  },
+  {
+    "type": "bio",
+    "year": -560,
+    "sr": "Umro je u starosti od sedamdeset godina.",
+    "stsl": "Ѹмрѣ старъ · седмьдесѧтъ лѣтъ поживъ ·",
+    "originalText": "Ἐτελεύτησε δὲ γηραιός, ἔτη βιοὺς ἑβδομήκοντα.",
+    "author": "Cleobulus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.93" }]
+  },
+  {
+    "type": "works",
+    "sr": "Kleobul Solonu: Imaš mnogo prijatelja i domova posvuda; ali rekao bih da će demokratski Lind biti najprikladniji dom Solonu. Ostrvo je na pučini, pa se onde ne bi imao čega bojati od Pizistrata. A prijatelji će ti dolaziti sa svih strana.",
+    "stsl": "Клеовѹлъ Солонѹ · Много дрѹгъ и домовъ повьсѫдѹ имаши · азъ же глаголѭ · ꙗко Линдъ народомъ правимъ Солонѹ подобьнѣиши домъ бѫдеть · Островъ въ мори єсть · идѣже живѫшти ничтоже отъ Писистрата боѧти сѧ имаши · Дрѹзи же отъ вьсѫдѹ къ тебѣ придѫть ·",
+    "originalText": "Κλεόβουλος Σόλωνι. Πολλοὶ μέν τιν ἔασιν ἕταροι καὶ οἶκος πάντη· φαμὶ δὲ ἐγὼν ποτανεστάταν ἐσεῖσθαι Σόλωνι τὰν Λίνδον δαμοκρατεομέναν. Καὶ ἁ νᾶσος πελαγία, ἔνθα οἰκέοντι οὐδὲν δεινὸν ἐκ Πεισιστράτω. Καὶ τοὶ ἕταροι δὲ ἑκάστοθεν πὰρ τὺ βασοῦνται.",
+    "author": "Cleobulus",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.93" }]
   }
 ]

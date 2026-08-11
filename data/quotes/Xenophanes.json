@@ -28,16 +28,15 @@
     ]
   },
   {
-    "type": "bio",
-    "year": -540,
-    "sr": "Učestvovao u osnivanju Eleje u Italiji.",
-    "stsl": "Въ основаніи Елеи въ Италіи ѹчествова.",
-    "originalText": "Ἦν δὲ καὶ ἐν τῇ εἰς Ἐλέαν τῆς Ἰταλίας ἀποικίᾳ.",
+    "type": "works",
+    "sr": "Spevao je dve hiljade stihova o osnivanju Kolofona i naseljavanju Eleje u Italiji.",
+    "stsl": "О основаніи Колофона и населеніи Елеи въ Италїи двѣ тꙑсѫщи стихъ сътвори ·",
+    "originalText": "Ἐποίησε δὲ καὶ Κολοφῶνος κτίσιν καὶ τὸν εἰς Ἐλέαν τῆς Ἰταλίας ἀποικισμὸν ἔπη δισχίλια.",
     "author": "Xenophanes",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "IX.18"
+        "reference": "IX.20"
       }
     ]
   },
@@ -60,12 +59,12 @@
     "year": -540,
     "sr": "Cvetao u šezdesetoj olimpijadi.",
     "stsl": "Цвѣтааше въ шєстьдєсѧтоі олѵмпїадѣ ·",
-    "originalText": "γεγονὼς ἐπὶ τῆς ἑξηκοστῆς Ὀλυμπιάδος.",
+    "originalText": "καὶ ἤκμαζε κατὰ τὴν ἑξηκοστὴν Ὀλυμπιάδα.",
     "author": "Xenophanes",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "IX.18"
+        "reference": "IX.20"
       }
     ]
   },
@@ -218,7 +217,7 @@
     "sr": "Kada mu je Empedoklo rekao da je nemoguće pronaći mudrog čoveka, Ksenofan je odgovorio: Prirodno; jer mudar mora biti onaj ko će mudroga poznati.",
     "stsl": "Єгда Ємпедоклъ рече ємѹ · ꙗко обрѣсти мѫдра мѫжа не възможьно єсть · Ксенофанъ отъвѣща · По єстествѹ · мѫдръ бо быти подобаєть томѹ · иже мѫдра познаєть ·",
     "author": "Xenophanes",
-    "year": -539,
+    "year": -478,
     "originalText": "Εἰπόντος δὲ Ἐμπεδοκλέους ὅτι ἀδύνατον εὑρεῖν σοφόν, « Εἰκότως », ἔφη· « δεῖ γὰρ εἶναι σοφὸν τὸν ἐπιγνωσόμενον σοφόν. »",
     "sources": [
       {

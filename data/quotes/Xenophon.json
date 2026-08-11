@@ -427,5 +427,41 @@
         "reference": "Cap. XXXII (citing Aulus Gellius)"
       }
     ]
+  },
+  {
+    "type": "bio",
+    "year": -390,
+    "sr": "Spartanci su Ksenofontu dodelili pravo javnog gostoprimstva, a prema Dinarhu i kuću i imanje u Skiluntu.",
+    "stsl": "Спартѧне Ксенофонтѹ гостеприимьно право дашѧ · по Динархѹ же и домъ и имѣниє въ Скилѹнтѣ ·",
+    "originalText": "Καὶ αὐτῷ προξενίαν ἔδοσαν οἱ Λακεδαιμόνιοι. Φησὶ δ' ὁ Δείναρχος ὅτι καὶ οἰκίαν καὶ ἀγρὸν αὐτῷ ἔδοσαν Λακεδαιμόνιοι.",
+    "author": "Xenophon",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.51-52" }]
+  },
+  {
+    "type": "bio",
+    "year": -385,
+    "sr": "Spartanac Filopida poslao je Ksenofontu na dar zarobljenike iz Dardana, a on je s njima postupio kako je hteo.",
+    "stsl": "Спартѧнинъ Филопида Ксенофонтѹ въ даръ плѣньникы из Дардана посъла · онъ же съ ними ꙗкоже хотѣ сътвори ·",
+    "originalText": "Ἀλλὰ καὶ Φυλοπίδαν τὸν Σπαρτιάτην φασὶν αὐτῷ πέμψαι αὐτόθι δωρεὰν ἀνδράποδα αἰχμάλωτα ἐκ Δαρδάνου· καὶ τὸν διαθέσθαι αὐτὰ ὡς ἠβούλετο·",
+    "author": "Xenophon",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.53" }]
+  },
+  {
+    "type": "bio",
+    "year": -362,
+    "sr": "Ksenofontov sin Diodor vratio se živ iz bitke kod Mantineje, ne učinivši ništa znamenito. Dobio je sina kome je dao ime poginulog brata Grila.",
+    "stsl": "Ксенофонтовъ сынъ Диодоръ из битвы при Мантинеи живъ възврати сѧ · ничтоже ꙁнаменито сътворивъ · Потомь роди сына · ємѹже имѧ погꙑбъшаго брата Грила нарече ·",
+    "originalText": "Ὁ μὲν οὖν Διόδωρος οὐδὲν ἐπιφανὲς πράξας ἐκ τῆς μάχης ἀνασώζεται, καὶ αὐτῷ υἱὸς ὁμώνυμος γίνεται τἀδελφῷ.",
+    "author": "Xenophon",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.54" }]
+  },
+  {
+    "type": "bio",
+    "year": -365,
+    "sr": "Istros kaže da je Ksenofont prognan Eubulovim dekretom i da se vratio drugim dekretom istog predlagača.",
+    "stsl": "Истръ глаголєть ꙗко Ксенофонтъ Евѹловымъ поставомъ изгънанъ бысть · и дрѹгꙑимъ того же поставомъ възврати сѧ ·",
+    "originalText": "Ἴστρος φησὶν αὐτὸν φυγεῖν κατὰ ψήφισμα Εὐβούλου, καὶ κατελθεῖν κατὰ ψήφισμα τοῦ αὐτοῦ.",
+    "author": "Xenophon",
+    "sources": [{ "name": "diogenes-laertius", "reference": "II.59" }]
   }
 ]

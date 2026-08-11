@@ -10,12 +10,15 @@
       {
         "name": "walter-burley",
         "reference": "Cap. XIII"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.116"
       }
     ]
   },
   {
-    "type": "bio",
-    "year": -550,
+    "type": "works",
     "sr": "On je, kako kaže Laertije, pisao o bogovima i prirodi.",
     "stsl": "Онъ · ꙗкожє глаголєть Лаєртіі · пісаашє о воꙁѣхъ і о єстьствѣ ·",
     "originalText": "Hic, ut ait Laercius, de dijs et natura scripsit.",
@@ -42,6 +45,10 @@
       {
         "name": "walter-burley",
         "reference": "Cap. XIII"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.116"
       }
     ]
   },
@@ -56,17 +63,25 @@
       {
         "name": "walter-burley",
         "reference": "Cap. XIII"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.116"
       }
     ]
   },
   {
     "type": "anecdote",
-    "year": -520,
-    "sr": "Kada je bio obuzet starošću i bolešću iscrpljen, upitan od Pitagore kako mu je, pruživši prst reče: \"Telo...\"",
-    "stsl": "Єгда вꙑстъ старостіѭ овладѣнъ і нємощіѭ ісчрьпанъ · въпрошєнъ отъ Пѵѳагорꙑ како єстъ · простьрь прьстъ рєчє · Тѣло ·",
-    "originalText": "Hic senio gravaretur et infirmitate consumptus esset, interrogatus a Pytagora qualiter illi esset, extendens digitum ait: 'Corpore'",
+    "year": -540,
+    "sr": "Kada je Ferekid oboleo od vaški, Pitagora je došao i upitao ga kako mu je. Ferekid je kroz vrata pružio prst i rekao: Po koži se vidi.",
+    "stsl": "Єгда Ферекѵдъ въшьми разболѣ сѧ · Пѵѳагора приде и въпроси како ємѹ єсть · Ферекѵдъ же сквозѣ двери пръстъ простре и рече · По кожи ꙗвѣ ·",
+    "originalText": "Οἱ δὲ φθειριάσαντα τὸν βίον τελευτῆσαι· ὅτε καὶ Πυθαγόρου παραγενομένου καὶ πυνθανομένου πῶς διακέοιτο, διαβαλόντα τῆς θύρας τὸν δάκτυλον εἰπεῖν, «Χροῒ δῆλα.»",
     "author": "Pherecydes",
     "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.118"
+      },
       {
         "name": "walter-burley",
         "reference": "Cap. XIII"
@@ -74,17 +89,49 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Ne cenite ni zlato ni srebro.",
-    "stsl": "Ни злато чьтѣте ни сребро ·",
-    "originalText": "μήτε χρυσὸν τιμᾶν μήτε ἄργυρον.",
+    "type": "anecdote",
+    "year": -544,
+    "sr": "Vraćajući se iz Olimpije u Mesenu, Ferekid je savetovao domaćinu Perilaju da se sa porodicom iseli. Perilaj ga nije poslušao, a Mesena je potom osvojena.",
+    "stsl": "Отъ Олимпиѩ въ Мессенѫ идѧ · Ферекѵдъ гостинникѹ Перилаѭ съвѣтова · да съ сродьникꙑ иселить сѧ · Онъ же не послѹша · Мессена же плѣнена бысть ·",
+    "originalText": "Ἀνιόντα τε ἐξ Ὀλυμπίας εἰς Μεσσήνην τῷ ξένῳ Περιλάῳ συμβουλεῦσαι ἐξοικῆσαι μετὰ τῶν οἰκείων· καὶ τὸν μὴ πεισθῆναι, Μεσσήνην δὲ ἑαλωκέναι.",
     "author": "Pherecydes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.117"
-      }
-    ]
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.116" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -543,
+    "sr": "Ferekid je Lakedemonjanima rekao da ne cene ni zlato ni srebro. Tvrdilo se da mu je to u snu naložio Herakle, koji je iste noći kraljevima zapovedio da slušaju Ferekida; drugi su ovu priču pripisivali Pitagori.",
+    "stsl": "Ферекѵдъ Лакедемонѧномъ рече · Ни злато чьтѣте ни сребро · Глаголахѹ · ꙗко Хераклъ ємѹ во сънѣ сіє повелѣ · и въ тѫ же нощь царємъ повелѣ Ферекѵда послѹшати · Инии же сіє Пѵѳагорѣ приписовахѹ ·",
+    "originalText": "Καὶ Λακεδαιμονίοις εἰπεῖν μήτε χρυσὸν τιμᾶν μήτε ἄργυρον, ὥς φησι Θεόπομπος ἐν Θαυμασίοις· προστάξαι δὲ αὐτῷ ὄναρ τοῦτο τὸν Ἡρακλέα, ὃν καὶ τῆς αὐτῆς νυκτὸς τοῖς βασιλεῦσι κελεῦσαι Φερεκύδῃ πείθεσθαι. Ἔνιοι δὲ Πυθαγόρᾳ περιάπτουσι ταῦτα.",
+    "author": "Pherecydes",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.117" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -540,
+    "sr": "Za vreme rata Efesa i Magnezije Ferekid je, želeći pobedu Efežanima, zamolio prolaznika iz Efesa da ga za noge odvuče na magnezijsku zemlju i poruči sugrađanima da ga posle pobede onde sahrane. Efežani su sutradan pobedili, a Ferekida, koji je u međuvremenu umro, sahranili su onde uz velike počasti.",
+    "stsl": "Єгда Ефесъ съ Магнесиєю ратоваше · Ферекѵдъ Ефесиѩномъ побѣдѫ желаѧ · мимоходѧштаго Ефесиѩнина моли · да єго за нозѣ въ Магнесиискѫ землѭ повлечеть и гражданомъ повѣсть · да по побѣдѣ тамо єго погребѫть · Ефесиѩне же на ѹтрѣ побѣдиша · Ферекѵда ѹмръша тамо погребоша и велико почтоша ·",
+    "originalText": "Φησὶ δ' Ἕρμιππος πολέμου συνεστῶτος Ἐφεσίοις καὶ Μάγνησι βουλόμενον τοὺς Ἐφεσίους νικῆσαι πυθέσθαι τινὸς παριόντος πόθεν εἴη, τοῦ δ' εἰπόντος «Ἐξ Ἐφέσου,» «Ἕλκυσόν με τοίνυν,» ἔφη, «τῶν σκελῶν καὶ θὲς εἰς τὴν τῶν Μαγνήτων χώραν, καὶ ἀπάγγειλόν σου τοῖς πολίταις μετὰ τὸ νικῆσαι αὐτόθι με θάψαι.» Ὁ μὲν οὖν ἀπήγγειλεν· οἱ δὲ μετὰ μίαν ἐπελθόντες κρατοῦσι τῶν Μαγνήτων, καὶ τόν τε Φερεκύδην μεταλλάξαντα θάπτουσιν αὐτόθι καὶ μεγαλοπρεπῶς τιμῶσιν.",
+    "author": "Pherecydes",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.117–118" }]
+  },
+  {
+    "type": "bio",
+    "year": -540,
+    "sr": "Prema drugom predanju, Ferekid se u Delfima bacio sa Korikijske gore.",
+    "stsl": "По иномѹ прѣданиѭ · Ферекѵдъ въ Делфѣхъ съ Корѵкиискꙑѩ горꙑ низвръже сѧ ·",
+    "originalText": "Ἔνιοι δέ φασιν ἐλθόντα εἰς Δελφοὺς ἀπὸ τοῦ Κωρυκίου ὄρους αὑτὸν δισκῆσαι.",
+    "author": "Pherecydes",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.118" }]
+  },
+  {
+    "type": "bio",
+    "year": -540,
+    "sr": "Prema Aristoksenu, Ferekid je umro od bolesti, a Pitagora ga je sahranio na Delu.",
+    "stsl": "По Аристоксенѹ · Ферекѵдъ отъ болѣзни ѹмрѣ · Пѵѳагора же єго на Делѣ погребе ·",
+    "originalText": "Ἀριστόξενος δ' ἐν τῷ Περὶ Πυθαγόρου καὶ τῶν γνωρίμων αὐτοῦ φησι νοσήσαντα αὐτὸν ὑπὸ Πυθαγόρου ταφῆναι ἐν Δήλῳ.",
+    "author": "Pherecydes",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.118" }]
   },
   {
     "type": "quote",
@@ -111,5 +158,30 @@
         "reference": "I.119"
       }
     ]
+  },
+  {
+    "type": "bio",
+    "year": -543,
+    "sr": "Ferekid je bio na glasu u pedeset devetoj olimpijadi.",
+    "stsl": "Ферекѵдъ въ пѧтьдесѧть девѧтѣи олимпїадѣ славьнъ бѣ ·",
+    "originalText": "Γέγονε δὲ κατὰ τὴν πεντηκοστὴν καὶ ἐνάτην Ὀλυμπιάδα.",
+    "author": "Pherecydes",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.121" }]
+  },
+  {
+    "type": "works",
+    "sr": "Na ostrvu Siros čuvao se Ferekidov heliotrop.",
+    "stsl": "На островѣ Сѵрѣ Ферекѵдовъ слъньцевратъ хранѧаше сѧ ·",
+    "originalText": "Σώζεται δὲ καὶ ἡλιοτρόπιον ἐν Σύρῳ τῇ νήσῳ.",
+    "author": "Pherecydes",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.119" }]
+  },
+  {
+    "type": "works",
+    "sr": "Ferekid Talesu: Srećno umri kada ti dođe suđeni čas. Bolest me je obuzela pošto sam primio tvoje pismo. Sav sam pun vaški i trese me groznica. Naložio sam ukućanima da ti, kada me sahrane, donesu moj spis. Ako ga ti i ostali mudraci odobrite, objavi ga; ako ga ne odobrite, nemoj. Ni meni još nije po volji. U njemu nema potpune izvesnosti i ne tvrdim da znam istinu; iznosim samo ono što čovek može domisliti govoreći o bogovima. Ostalo treba razabrati, jer sve kazujem u zagonetkama. Kako me je bolest sve više pritiskala, nisam puštao unutra ni lekare ni prijatelje. Kada su stajali pred vratima i pitali kako mi je, pružio sam prst kroz ključaonicu da im pokažem koliko sam izjedan bolešću i rekao da sutradan dođu na Ferekidovu sahranu.",
+    "stsl": "Ферекѵдъ Ѳалесѹ · Добрѣ ѹмри · єгда ти сѫжденъ часъ придеть · Болѣзнь мѧ обѧтъ · по приѧтии твоєго писаниѩ · Вьсь въшьми изѣденъ єсмь и огнь мѧ трѧсеть · Домашьнимъ повелѣхъ · да по погребении моємь списъ мои тебѣ принесѫть · Аще ты и прочии мѫдрьци єго одобрите · ꙗви и · аще ли не одобрите · не ꙗви · Ни мнѣ бо єште ѹгодьнъ єсть · Нѣсть въ немь съвръшеноѩ извѣстьности · ни истинѫ вѣдѣти обѣштаваѭ · тъкмо елико о бозѣхъ глаголѧ помꙑслити мощьно єсть повѣдаѭ · Прочаꙗ подобаєть разѹмѣти · вьсѧ бо загадъками глаголѭ · Болѣзни же паче належѧшти · ни врача ни дрѹга въпѹштаахъ · Стоѧштимъ же прѣдъ дверьми и въпрашаѭштимъ како ми єсть · пръстъ сквозѣ ключьнѫ скважинѫ прострѣхъ · да покажѫ колико болѣзнию изѣденъ єсмь · и рѣхъ · на ѹтрѣ на Ферекѵдово погребениє придѣте ·",
+    "originalText": "Φερεκύδης Θαλῇ. Εὖ θνήσκοις ὅταν τοι τὸ χρεὼν ἥκῃ. Νοῦσός με καταλελάβηκε δεδεγμένον τὰ παρὰ σέο γράμματα. Φθειρῶν ἔθυον πᾶς καί με εἶχεν ἠπίαλος. Ἐπέσκηψα δ' ὦν τοῖσιν οἰκιήτῃσιν, ἐπήν με καταθάψωσιν, ἐς σὲ τὴν γραφὴν ἐνέγκαι. Σὺ δὲ ἢν δοκιμώσῃς σὺν τοῖς ἄλλοις σοφοῖς, οὕτω μιν φῆνον· ἢν δὲ οὐ δοκιμώσητε, μὴ φήνῃς. Ἐμοὶ μὲν γὰρ οὔκω ἥνδανεν. Ἔστι δὲ οὐκ ἀτρεκηίη πρηγμάτων οὐδ' ὑπίσχομαι τἀληθὲς εἰδέναι· ἅσσα δ' ἂν ἐπιλέγῃ θεολογέων· τὰ ἄλλα χρὴ νοέειν· ἅπαντα γὰρ αἰνίσσομαι. Τῇ δὲ νούσῳ πιεζόμενος ἐπὶ μᾶλλον οὔτε τῶν τινα ἰητρῶν οὔτε τοὺς ἑταίρους ἐσιέμην· προσεστεῶσι δὲ τῇ θύρῃ καὶ εἰρομένοις ὁκοῖόν τι εἴη, διεὶς δάκτυλον ἐκ τῆς κληίθρης ἔδειξ' ἂν ὡς ἔθυον τοῦ κακοῦ. Καὶ προεῖπα αὐτοῖσι ἥκειν ἐς τὴν ὑστεραίην ἐπὶ τὰς Φερεκύδεω ταφάς.",
+    "author": "Pherecydes",
+    "sources": [{ "name": "diogenes-laertius", "reference": "I.121–122" }]
   }
 ]

@@ -29,7 +29,7 @@
   },
   {
     "type": "bio",
-    "year": -545,
+    "year": -539,
     "sr": "Posle Ferekidove smrti vratio se na Samos, a zatim otišao u Egipat radi učenja.",
     "stsl": "По Ферекидовѣ съмрьти въ Самосъ възврати сѧ · таже въ Єгѵпетъ ѹчениꙗ ради отиде ·",
     "originalText": "μετὰ δὲ τὴν τελευτὴν ἐκείνου ἦλθεν εἰς Σάμον· εἶτα ἐπὶ μαθήσει γενόμενος εἰς Αἴγυπτον παρεγένετο.",
@@ -43,7 +43,7 @@
   },
   {
     "type": "bio",
-    "year": -540,
+    "year": -530,
     "sr": "Bežeći od Polikratove tiranije otišao je u Italiju.",
     "stsl": "Отъ Поликратова мѫчительства бѣжа и въ Италію отиде ·",
     "originalText": "Φυγὼν δὲ τὴν Πολυκράτους τυραννίδα εἰς τὴν Ἰταλίαν ἀπῆρε.",
@@ -57,7 +57,7 @@
   },
   {
     "type": "bio",
-    "year": -535,
+    "year": -529,
     "sr": "Tarentincima je napisao zakone.",
     "stsl": "Тарентиномъ законы написа ·",
     "originalText": "καὶ τοῖς Ταραντίνοις νόμους ἔγραψε.",
@@ -71,7 +71,7 @@
   },
   {
     "type": "bio",
-    "year": -530,
+    "year": -528,
     "sr": "Boravio je u Krotonu u Italiji, gde je imao više od šest stotina slušalaca.",
     "stsl": "Въ Кротонѣ Италіискѣмь прѣбывааше · идѣже паче шести сотъ слѹшателевъ имѣаше ·",
     "originalText": "Διέτριψε δὲ ἐν Κρότωνι τῆς Ἰταλίας· ἔνθα πλεῖστοι ἐγένοντο ἀκροαταί, ὑπὲρ τοὺς ἑξακοσίους.",
@@ -1282,5 +1282,66 @@
         "reference": "IX.38"
       }
     ]
+  },
+  {
+    "type": "bio",
+    "year": -530,
+    "sr": "Pitagora se naročito bavio aritmetičkim vidom matematike i pronašao monohord. Nije zanemario ni medicinu. Apolodor računar kaže da je prineo stotinu volova kada je otkrio odnos stranica pravouglog trougla.",
+    "stsl": "Питагоръ наипаче числьнꙑимь видомь мѣрьства занимааше сѧ и єдинострѹнꙫ обрѣте · Ни лѣчьствомъ не небрѣже · Аполодоръ числьникъ глаголєть ꙗко сто воловъ пожрѣ · єгда правѫѭ мѣрѫ странъ правокѫтьнаго трикѫтьника обрѣте ·",
+    "originalText": "Μάλιστα δὲ σχολάσαι τὸν Πυθαγόραν περὶ τὸ ἀριθμητικὸν εἶδος αὐτῆς· τόν τε κανόνα τὸν ἐκ μιᾶς χορδῆς εὑρεῖν. οὐκ ἠμέλησε δ' οὐδ' ἰατρικῆς. φησὶ δ' Ἀπολλόδωρος ὁ λογιστικὸς ἑκατόμβην θῦσαι αὐτόν, εὑρόντα ὅτι τοῦ τριγώνου ὀρθογωνίου ἡ ὑποτείνουσα πλευρὰ ἴσον δύναται ταῖς περιεχούσαις.",
+    "author": "Pythagoras",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.12" }]
+  },
+  {
+    "type": "reported",
+    "sr": "Pitagorine zabrane tumačene su ovako: ne razgrći vatru mačem — ne raspaljuj gnev moćnika; ne prekoračuj jaram — ne prekoračuj jednakost i pravdu; ne sedi na meri žita — brini i za sutrašnji dan; ne jedi srce — ne izjedi dušu brigom i tugom; odlazeći na put ne osvrći se — napuštajući život ne žudi za njim niti se daj povući ovdašnjim uživanjima.",
+    "stsl": "Питагоровы запрѣты тако тълковахѫ сѧ · Не разгребаи огнѧ мечемь · не разжьзаи гнѣва силныхъ · Не прѣстѫпаи ꙗрьма · не прѣстѫпаи равьности и правды · Не сѣди на мѣрѣ жита · и о ѹтрѣшьнемь дьни пещи сѧ · Не ꙗждь срьдьца · не снѣдаи дѹшы печалию и тѫгоѭ · На пѫть исходѧ не обраштаи сѧ · животъ оставлꙗѩ не желаи єго и не влеци сѧ овъдѣшьныими сластьми ·",
+    "originalText": "Τὸ μὲν πῦρ μαχαίρᾳ μὴ σκαλεύειν δυναστῶν ὀργὴν καὶ οἰδοῦντα θυμὸν μὴ κινεῖν. τὸ δὲ ζυγὸν μὴ ὑπερβαίνειν, τουτέστι τὸ ἴσον καὶ δίκαιον μὴ ὑπερβαίνειν. ἐπί τε χοίνικος μὴ καθίζειν ἐν ἴσῳ τῷ φροντίδα ποιεῖσθαι καὶ τοῦ μέλλοντος ... διὰ τοῦ καρδίαν μὴ ἐσθίειν ... μὴ τὴν ψυχὴν ἀνίαις καὶ λύπαις κατατήκειν. διὰ δὲ τοῦ εἰς ἀποδημίαν βαδίζοντα μὴ ἐπιστρέφεσθαι ... μὴ ἐπιθυμητικῶς ἔχειν τοῦ ζῆν.",
+    "author": "Pythagoras",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.18" }]
+  },
+  {
+    "type": "bio",
+    "year": -530,
+    "sr": "Neki kažu da se Pitagora hranio samo medom ili saćem i hlebom, da danju nije pio vino, da je najčešće jeo kuvano ili sirovo povrće, a morske životinje retko. Odeća i vunena posteljina bile su mu bele i čiste.",
+    "stsl": "Нѣци глаголѭть ꙗко Питагоръ тъкъмо медомъ или сътомъ и хлѣбомъ питаше сѧ · дьнемь вина не пиꙗше · наичѧште варено или сыро былиє ꙗдааше · морьскаꙗ же животьнаꙗ рѣдъко · Ризы и вълньна постелꙗ бѣлы и чисты ємѹ бѣахѫ ·",
+    "originalText": "Αὐτὸν δ' ἀρκεῖσθαι μέλιτι μόνῳ φασί τινες ἢ κηρίῳ ἢ ἄρτῳ, οἴνου δὲ μεθ' ἡμέραν μὴ γεύεσθαι· ὄψῳ τε τὰ πολλὰ λαχάνοις ἑφθοῖς τε καὶ ὠμοῖς, τοῖς δὲ θαλαττίοις σπανίως. στολὴ δ' αὐτῷ λευκή, καθαρά, καὶ στρώματα λευκὰ ἐξ ἐρίων.",
+    "author": "Pythagoras",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.19" }]
+  },
+  {
+    "type": "reported",
+    "sr": "Aristotel prenosi više tumačenja Pitagorine zabrane boba: sličan je polnim organima ili vratima Hada, jedini je bez kolena, kvari, nalik je prirodi svega ili pripada oligarhiji jer se njime glasa.",
+    "stsl": "Аристотель множа тълкованиꙗ Питагорова запрѣта бобовъ прѣдаєть · подобьни сѫть ѹдомъ родьнымъ или вратомъ Ада · єдини безъ колѣна сѫть · тлѧть · естествѹ вьсего подобьни сѫть · или старѣишиньствѹ принадлежаѭть · имиже бо жрѣбъ метаѭть ·",
+    "originalText": "Φησὶ δ' Ἀριστοτέλης ἐν τῷ Περὶ τῶν Πυθαγορείων παραγγέλλειν αὐτὸν ἀπέχεσθαι τῶν κυάμων ἤτοι ὅτι αἰδοίοις εἰσὶν ὅμοιοι ἢ ὅτι Ἅιδου πύλαις ... ἀγόνατον γὰρ μόνον· ἢ ὅτι φθείρει ἢ ὅτι τῇ τοῦ ὅλου φύσει ὅμοιον ἢ ὅτι ὀλιγαρχικόν· κληροῦνται γοῦν αὐτοῖς.",
+    "author": "Pythagoras",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.34" }]
+  },
+  {
+    "type": "anecdote",
+    "year": -530,
+    "sr": "Ksenofan svedoči da je Pitagora, prolazeći pored čoveka koji je tukao psa, sažalio životinju i rekao: „Prestani, ne udaraj ga; u njemu je duša moga prijatelja, koju sam prepoznao čim sam čuo glas.“",
+    "stsl": "Ксенофанъ свѣдѣтельствѹєть ꙗко Питагоръ · мимо чловѣка пъса биѭшта проходѧ · животьно помилова и рече · Прѣстани · не би єго · въ немь бо дѹша дрѹга моєго єсть · ѭже познахъ · абиє гласъ слꙑшахъ ·",
+    "originalText": "Καί ποτέ μιν στυφελιζομένου σκύλακος παριόντα φασὶν ἐποικτῖραι καὶ τόδε φάσθαι ἔπος· «παῦσαι μηδὲ ῥάπιζ', ἐπεὶ ἦ φίλου ἀνέρος ἐστὶ ψυχή, τὴν ἔγνων φθεγξαμένης ἀΐων.»",
+    "author": "Pythagoras",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.36" }]
+  },
+  {
+    "type": "bio",
+    "sr": "Dikearh kaže da se Pitagora sklonio u hram Muza u Metapontu i umro posle četrdeset dana bez hrane. Heraklid prenosi da se posle Ferekidove sahrane vratio u Italiju, izbegao Kilonovu gozbu i u Metapontu se izgladneo jer više nije želeo da živi. Hermip pak kaže da je poginuo boreći se na strani Akraganta, pošto se u begu zaustavio pred poljem boba.",
+    "stsl": "Дикеархъ глаголєть ꙗко Питагоръ въ храмъ Мѹсъ въ Метапонтѣ прибѣже и по четꙑридесѧти дьньхъ безъ пиштѧ ѹмрѣ · Гераклидъ прѣдаєть ꙗко по Ферекидовѣ погребении въ Италиѭ възврати сѧ · Килоновѫ трѧпезѫ избѣже и въ Метапонтѣ гладомъ ѹмрѣ · понеже далѣє жити не хотѣ · Гермипъ же глаголєть ꙗко на странѣ Акраганта борѧ сѧ погꙑбе · єгда въ бѣгѹ прѣдъ полемь бобовъ ста ·",
+    "originalText": "Φησὶ δὲ Δικαίαρχος τὸν Πυθαγόραν ἀποθανεῖν καταφυγόντα εἰς τὸ ἐν Μεταποντίῳ ἱερὸν τῶν Μουσῶν, τετταράκοντ' ἡμέρας ἀσιτήσαντα. Ἡρακλείδης δέ φησιν ... εἰς Μεταπόντιον ὑπεξελθεῖν κἀκεῖ τὸν βίον καταστρέψαι ἀσιτίᾳ, μὴ βουλόμενον περαιτέρω ζῆν. Ἕρμιππος δέ φησι ... περικάμπτοντα αὐτὸν τὴν τῶν κυάμων χώραν ὑπὸ τῶν Συρακουσίων ἀναιρεθῆναι.",
+    "author": "Pythagoras",
+    "year": -495,
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.40" }]
+  },
+  {
+    "type": "bio",
+    "year": -520,
+    "sr": "Pitagora i Teana imali su sina Telauga, koji je nasledio oca i, prema nekima, bio Empedoklov učitelj. Nije sačuvan nijedan Telaugov spis.",
+    "stsl": "Питагоръ и Теано сына Телаѹга имѣаста · иже отьцѹ наслѣди и по нѣкꙑимъ Емпедоклѹ ѹчитель бѣ · Ни єдино Телаѹгово писаниє съхрани сѧ ·",
+    "originalText": "Ἦν καὶ Τηλαύγης υἱὸς αὐτοῖς, ὃς καὶ διεδέξατο τὸν πατέρα καὶ κατά τινας Ἐμπεδοκλέους καθηγήσατο ... σύγγραμμα δὲ φέρεται τοῦ Τηλαύγους οὐδέν.",
+    "author": "Pythagoras",
+    "sources": [{ "name": "diogenes-laertius", "reference": "VIII.43" }]
   }
 ]

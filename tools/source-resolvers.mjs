@@ -47,28 +47,64 @@ const createDiogenesLaertiusResolver = rootDir => {
       }
     }
 
-    sourceIndexCache.set(bookNumber, lineBySection)
+    const sourceIndex = { lineBySection, lines }
+    sourceIndexCache.set(bookNumber, sourceIndex)
 
-    return lineBySection
+    return sourceIndex
   }
 
-  return async reference => {
+  return async (reference, _author, originalText) => {
     const normalized = String(reference || '').trim()
     if (!normalized) return null
 
-    const refMatch = normalized.match(/\b([IVX]+)\.(\d+)/)
+    const refMatch = normalized.match(/\b([IVX]+)\.(\d+)(?:[–-](\d+))?/)
     if (!refMatch) return null
 
     const bookNumber = romanToNumber[refMatch[1]]
     const sectionNumber = Number(refMatch[2])
+    const endSectionNumber = Number(refMatch[3] ?? refMatch[2])
 
     if (!bookNumber || !Number.isFinite(sectionNumber)) {
       return null
     }
 
     const relFile = getDiogenesElFileForBook(bookNumber)
-    const sectionIndex = await loadSectionLineIndex(bookNumber)
-    const line = sectionIndex.get(sectionNumber)
+    const { lineBySection, lines } = await loadSectionLineIndex(bookNumber)
+    let selectedSection = sectionNumber
+
+    if (endSectionNumber > sectionNumber && originalText) {
+      const tokens = String(originalText)
+        .match(/[\p{L}\p{M}]+/gu)
+        ?.filter(token => token.length >= 5)
+        .map(token => token.normalize('NFC').toLocaleLowerCase('el')) ?? []
+      let bestScore = -1
+
+      for (let section = sectionNumber; section <= endSectionNumber; section += 1) {
+        const startLine = lineBySection.get(section)
+        if (!startLine) continue
+
+        const nextLines = [...lineBySection.entries()]
+          .filter(([number]) => number > section)
+          .map(([, line]) => line)
+        const endLine = nextLines.length ? Math.min(...nextLines) - 1 : lines.length
+        const sectionText = lines
+          .slice(startLine - 1, endLine)
+          .join('\n')
+          .normalize('NFC')
+          .toLocaleLowerCase('el')
+        const score = tokens.reduce(
+          (sum, token) => sum + (sectionText.includes(token) ? 1 : 0),
+          0,
+        )
+
+        if (score > bestScore) {
+          bestScore = score
+          selectedSection = section
+        }
+      }
+    }
+
+    const line = lineBySection.get(selectedSection)
 
     return line ? `${relFile}:${line}` : null
   }

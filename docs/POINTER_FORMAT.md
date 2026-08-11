@@ -63,11 +63,11 @@ Generisani pointer:
 "pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"  (sa anchorom)
 ```
 
-**2. Walter Burley** (`name: "Walter Burley, De Vita et Moribus..."`)
+**2. Walter Burley** (`name: "walter-burley"`)
 ```json
 {
-  "name": "Walter Burley, De Vita et Moribus Philosophorum, Cap. XXVI",
-  "reference": "1"
+  "name": "walter-burley",
+  "reference": "Cap. XXVI"
 }
 ```
 
@@ -108,12 +108,18 @@ pointerBuilders['novi-izvor'] = async (reference) => {
 |-----|------|--------|
 | `file` | Putanja do grčkog izvora | `data/sources/diogenes-laertius/el/03.txt` |
 | `line` | Linija gde počinje odeljak | `185` |
-| `anchor` | Prvih 5-9 karaktera grčkog teksta citata | `πῦρ μ` |
+| `anchor` | Provereni jedinstveni deo grčkog teksta citata | `πῦρ μ` |
 
 ## Kada postoji anchor?
 
-- **51% citata** ima anchor - oni koji dele odeljak sa drugim citatima
-- **49% citata** nema anchor - jedinstveni su u svom odeljku
+Anchor se dodaje samo Diogenovim navodima koji dele isti odeljak sa drugim
+unosima i kada se izabrani deo teksta zaista nalazi u tom odeljku. Razlike u
+veličini slova i Unicode normalizaciji usklađuju se sa oblikom iz izvora. Ako je
+`originalText` parafraza ili varijanta bez dovoljnog tekstualnog preseka,
+pointer ostaje na nivou odeljka bez lažnog anchora.
+
+Burleyjevi lokalni OCR fajlovi nisu svuda potpuni niti dovoljno stabilni za
+tekstualne anchore. Njihovi pointeri zato vode na fajl poglavlja, bez anchora.
 
 ## Upotreba za agente
 
@@ -214,19 +220,23 @@ grep -L '"pointer"' data/quotes.json
 **Očekivani rezultat**: ~98% citata ima pointer.
 
 **Trenutna statistika** (avgust 2026):
-- **1312/1358 (96,6%)** citata ima pointer
-- **Diogenes Laertius**: 1223/1223 primarna navoda sa pointerom
-- **Walter Burley**: 89/89 primarnih navoda sa lokalnim poglavljem i pointerom
-- **Bez pointera**: 46 citata iz izvora za koje namerno nema lokalnog resolvera (Hermann Diels 43, Plutarh 2, *Dissoi Logoi* 1)
+- **1523/1581 (96,3%)** unosa ima pointer
+- **Diogen Laertije**: 1441/1441 primarni navod sa pointerom
+- **Walter Burley**: 82/82 primarna navoda sa lokalnim poglavljem i pointerom
+- **1211** Diogenovih pointera ima provereni anchor
+- **Bez pointera**: 58 unosa iz izvora za koje namerno nema lokalnog resolvera
+  (Hermann Diels 55, Plutarh 2, *Dissoi Logoi* 1)
 
 ## Generisanje
 
 Anchori se automatski generišu u `tools/build-quotes.mjs`:
 
 1. Grupiše citate po `file:line`
-2. Ako više citata deli istu lokaciju → detektuje koliziju
-3. Za svaki citat nalazi minimalni jedinstveni prefix iz `quote.el`
-4. Dodaje `#anchor` na pointer
+2. Ako više Diogenovih citata deli istu lokaciju → detektuje koliziju
+3. Za svaki citat nalazi minimalni jedinstveni deo iz `originalText`
+4. Proverava da deo zaista postoji u ciljnom odeljku i preuzima njegov tačan
+   Unicode oblik iz izvora
+5. Dodaje `#anchor`; ako nema pouzdanog preseka, ostavlja samo `file:line`
 
 **Algoritam:**
 ```javascript
@@ -245,7 +255,7 @@ for (let len = 5; len <= 50; len++) {
 ✅ **Precizno** - anchor razrešava 58% kolizija  
 ✅ **Kompaktno** - sve informacije u jednom string-u  
 ✅ **Parsibilno** - jednostavni split na `#` i `:`  
-✅ **Robust** - anchor je substring stvarnog teksta  
+✅ **Robust** - svaki sačuvani anchor je substring stvarnog izvornog odeljka  
 ✅ **Automatsko** - generiše se iz postojećih podataka
 
 ## Backward kompatibilnost
