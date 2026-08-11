@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T08:59:51.660Z",
+  "generatedAt": "2026-08-11T09:31:03.079Z",
   "sourceRoot": "data/sources",
   "totalQuotes": 1362,
   "totalQuoteFiles": 50,
-  "totalUniqueSources": 10,
+  "totalUniqueSources": 7,
   "items": [
     {
       "source": "diogenes-laertius",
@@ -1201,22 +1201,6 @@
       "books": []
     },
     {
-      "source": "valerius-maximus",
-      "count": 3,
-      "authors": [
-        "Demosthenes"
-      ],
-      "references": [
-        "VII",
-        "VII, III, Ext. 5",
-        "VIII"
-      ],
-      "work": null,
-      "refsRaw": null,
-      "refs": [],
-      "books": []
-    },
-    {
       "source": "plutarch",
       "count": 2,
       "authors": [
@@ -1225,20 +1209,6 @@
       "references": [
         "Moralia 150E",
         "Moralia 150F"
-      ],
-      "work": null,
-      "refsRaw": null,
-      "refs": [],
-      "books": []
-    },
-    {
-      "source": "apuleius",
-      "count": 1,
-      "authors": [
-        "Demosthenes"
-      ],
-      "references": [
-        "De Magia"
       ],
       "work": null,
       "refsRaw": null,
@@ -1281,20 +1251,6 @@
       ],
       "references": [
         "3.11"
-      ],
-      "work": null,
-      "refsRaw": null,
-      "refs": [],
-      "books": []
-    },
-    {
-      "source": "solinus",
-      "count": 1,
-      "authors": [
-        "Zoroaster"
-      ],
-      "references": [
-        "De mirabilibus mundi"
       ],
       "work": null,
       "refsRaw": null,

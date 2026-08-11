@@ -2,118 +2,28 @@ import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { greekTerms } from './greek-terms.js'
+import { createSourceResolvers } from './source-resolvers.mjs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const rootDir = path.resolve(__dirname, '..')
 
 const inputDir = path.join(rootDir, 'data/quotes')
 const outputFile = path.join(rootDir, 'data/quotes.json')
+const sourcesFile = path.join(rootDir, 'data/sources.json')
+
+const sourceRegistry = JSON.parse(await fs.readFile(sourcesFile, 'utf8'))
 
 const files = (await fs.readdir(inputDir))
   .filter(file => file.endsWith('.json'))
   .sort()
 
-const romanToNumber = {
-  I: 1,
-  II: 2,
-  III: 3,
-  IV: 4,
-  V: 5,
-  VI: 6,
-  VII: 7,
-  VIII: 8,
-  IX: 9,
-  X: 10,
-  XI: 11,
-  XII: 12,
-}
-
-const sourceIndexCache = new Map()
-
-const getElFileForBook = bookNumber =>
-  `data/sources/diogenes-laertius/el/${String(bookNumber + 1).padStart(2, '0')}.txt`
-
-const loadSectionLineIndex = async bookNumber => {
-  if (sourceIndexCache.has(bookNumber)) {
-    return sourceIndexCache.get(bookNumber)
-  }
-
-  const relFile = getElFileForBook(bookNumber)
-  const absFile = path.join(rootDir, relFile)
-  const content = await fs.readFile(absFile, 'utf8')
-  const lines = content.split(/\r?\n/)
-  const lineBySection = new Map()
-
-  for (let index = 0; index < lines.length; index += 1) {
-    const line = lines[index].trim()
-
-    if (!line || !/^\d/.test(line)) continue
-
-    const digits = line.match(/^\d+/)
-    if (!digits) continue
-
-    const section = Number(digits[0])
-
-    if (!lineBySection.has(section)) {
-      lineBySection.set(section, index + 1)
-    }
-  }
-
-  sourceIndexCache.set(bookNumber, lineBySection)
-
-  return lineBySection
-}
-
-const pointerBuilders = {
-  'diogenes-laertius': async reference => {
-    const normalized = String(reference || '').trim()
-    if (!normalized) return null
-
-    const refMatch = normalized.match(/\b([IVX]+)\.(\d+)/)
-    if (!refMatch) return null
-
-    const bookNumber = romanToNumber[refMatch[1]]
-    const sectionNumber = Number(refMatch[2])
-
-    if (!bookNumber || !Number.isFinite(sectionNumber)) {
-      return null
-    }
-
-    const relFile = getElFileForBook(bookNumber)
-    const sectionIndex = await loadSectionLineIndex(bookNumber)
-    const line = sectionIndex.get(sectionNumber)
-
-    return line ? `${relFile}:${line}` : null
-  },
-
-  'walter-burley': async (reference, author) => {
-    const normalized = String(reference || '').trim()
-    if (!normalized || !/\b([IVX]+)\b/.test(normalized) || !author) {
-      return null
-    }
-
-    const filename = author.toLowerCase().replace(/\s+/g, '_') + '.txt'
-    const relFile = `data/sources/walter-burley/latin_raw/${filename}`
-
-    try {
-      await fs.access(path.join(rootDir, relFile))
-      return `${relFile}:1`
-    } catch {
-      return null
-    }
-  },
-
-  'hermann-diels': async () => {
-    // TODO: Implement when Diels fragments are integrated
-    return null
-  },
-}
+const sourceResolvers = createSourceResolvers(rootDir)
 
 const buildPointer = async (sourceObj, author) => {
-  const builder = pointerBuilders[sourceObj.name]
+  const resolver = sourceResolvers[sourceObj.name]
 
-  return builder
-    ? builder(sourceObj.reference, author)
+  return resolver
+    ? resolver(sourceObj.reference, author)
     : null
 }
 
@@ -168,7 +78,32 @@ for (const file of files) {
     return 0
   })
 
-  for (const entry of content) {
+  for (const [entryIndex, entry] of content.entries()) {
+    if (!Array.isArray(entry.sources) || entry.sources.length === 0) {
+      throw new Error(`${file} entry ${entryIndex + 1} has no sources`)
+    }
+
+    for (const source of entry.sources) {
+      const sourceName = String(source?.name || '').trim()
+      const reference = String(source?.reference || '').trim()
+
+      if (!sourceName) {
+        throw new Error(`${file} entry ${entryIndex + 1} has a source without a name`)
+      }
+
+      if (!sourceRegistry[sourceName]) {
+        throw new Error(
+          `${file} entry ${entryIndex + 1} uses unknown source "${sourceName}"`,
+        )
+      }
+
+      if (!reference) {
+        throw new Error(
+          `${file} entry ${entryIndex + 1} has no reference for source "${sourceName}"`,
+        )
+      }
+    }
+
     const author = Array.isArray(entry.author)
       ? entry.author[0]
       : entry.author
