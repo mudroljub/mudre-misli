@@ -1,6 +1,6 @@
 import { redirect } from 'next/navigation';
 import { supportedLanguages } from '../../types/data';
-import { quotesData } from '../../lib/data';
+import { quotesData } from '../../utils/data';
 import HomeContent from '../../components/HomeContent';
 import type { Language } from '../../types/data';
 

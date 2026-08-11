@@ -3,8 +3,8 @@
 import Link from 'next/link';
 import Sidebar from './Sidebar';
 import Header from './Header';
-import { useTranslations } from '../lib/useTranslations';
-import { quotesData } from '../lib/data';
+import { useTranslations } from '../utils/useTranslations';
+import { quotesData } from '../utils/data';
 import type { Language } from '../types/data';
 import styles from './DictionaryPageClient.module.scss';
 

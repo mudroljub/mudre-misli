@@ -2,8 +2,8 @@
 
 import Sidebar from "./Sidebar";
 import Header from "./Header";
-import { getAuthorName, placesData } from "../lib/data";
-import { useTranslations } from "../lib/useTranslations";
+import { getAuthorName, placesData } from "../utils/data";
+import { useTranslations } from "../utils/useTranslations";
 import type { AuthorData, Language, Entry, LifeEvent, Saying, Writing } from "../types/data";
 import QuoteCard from "./QuoteCard";
 import BookLayout from "./BookLayout";

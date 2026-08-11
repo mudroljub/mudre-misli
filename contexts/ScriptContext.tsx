@@ -1,7 +1,7 @@
 'use client';
 
 import { createContext, useContext, useState, ReactNode } from 'react';
-import type { Script } from '../lib/transliterate';
+import type { Script } from '../utils/transliterate';
 
 interface ScriptContextType {
   script: Script | null;

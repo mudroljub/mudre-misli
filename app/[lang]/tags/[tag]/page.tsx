@@ -1,6 +1,6 @@
 import { notFound, redirect } from 'next/navigation';
 import { supportedLanguages } from '../../../../types/data';
-import { quotesData } from '../../../../lib/data';
+import { quotesData } from '../../../../utils/data';
 import QuoteCard from '../../../../components/QuoteCard';
 import Sidebar from '../../../../components/Sidebar';
 import Header from '../../../../components/Header';

@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { useTranslations } from '../lib/useTranslations';
+import { useTranslations } from '../utils/useTranslations';
 import type { Language } from '../types/data';
 import styles from './Navigation.module.scss';
 

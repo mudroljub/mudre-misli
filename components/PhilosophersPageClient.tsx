@@ -3,9 +3,9 @@
 import Link from 'next/link';
 import Sidebar from './Sidebar';
 import Header from './Header';
-import { authorsData, authorSlugs } from '../lib/data';
-import { authorGroups } from '../lib/authorGroups';
-import { useTranslations } from '../lib/useTranslations';
+import { authorsData, authorSlugs } from '../utils/data';
+import { authorGroups } from '../utils/authorGroups';
+import { useTranslations } from '../utils/useTranslations';
 import type { Language } from '../types/data';
 import styles from './PhilosophersPageClient.module.scss';
 

@@ -30,10 +30,10 @@
   "extraction_info": {
     "method": "Read tool (PDF pages)",
     "date": "2026-08-04",
-    "source_pdf": "../../authors/walter-burley/BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf",
+    "source_pdf": "BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf",
     "output_directory": "latin_raw/",
-    "status": "42_philosophers_extracted",
-    "philosophers_extracted": 42,
+    "status": "77_texts_extracted",
+    "texts_extracted": 77,
     "total_philosophers_in_book": "~125",
     "next_steps": [
       "Extract remaining philosophers as needed",

@@ -4,10 +4,10 @@ import Link from "next/link";
 import classNames from "classnames";
 import Sidebar from "./Sidebar";
 import Header from "./Header";
-import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../lib/data";
-import { useTranslations } from "../lib/useTranslations";
-import { useTransliterate } from "../lib/useTransliterate";
-import { greekToLatin, isGreek } from "../lib/greekToLatin";
+import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../utils/data";
+import { useTranslations } from "../utils/useTranslations";
+import { useTransliterate } from "../utils/useTransliterate";
+import { greekToLatin, isGreek } from "../utils/greekToLatin";
 import type { AuthorData, Language, Entry } from "../types/data";
 import styles from "./QuotePageClient.module.scss";
 

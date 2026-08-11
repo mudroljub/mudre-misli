@@ -1,7 +1,7 @@
 'use client';
 
 import { ReactNode } from 'react';
-import { useTransliterate } from '../lib/useTransliterate';
+import { useTransliterate } from '../utils/useTransliterate';
 import type { Language } from '../types/data';
 
 interface TProps {

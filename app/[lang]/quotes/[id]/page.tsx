@@ -1,6 +1,6 @@
 import { notFound, redirect } from 'next/navigation';
 import { supportedLanguages } from '../../../../types/data';
-import { authorsData, quotesData } from '../../../../lib/data';
+import { authorsData, quotesData } from '../../../../utils/data';
 import QuotePageClient from '../../../../components/QuotePageClient';
 import type { Language } from '../../../../types/data';
 

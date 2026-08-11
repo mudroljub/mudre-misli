@@ -3,8 +3,8 @@
 import { useState, useEffect } from 'react';
 import Sidebar from './Sidebar';
 import Header from './Header';
-import { useTranslations } from '../lib/useTranslations';
-import { quotesData } from '../lib/data';
+import { useTranslations } from '../utils/useTranslations';
+import { quotesData } from '../utils/data';
 import type { Language, Entry } from '../types/data';
 import QuoteCard from './QuoteCard';
 

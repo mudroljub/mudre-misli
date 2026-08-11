@@ -2,8 +2,8 @@
 
 import Link from "next/link";
 import classNames from "classnames";
-import { getTextForLanguage, getAuthorName, authorSlugs } from "../lib/data";
-import { useTranslations } from "../lib/useTranslations";
+import { getTextForLanguage, getAuthorName, authorSlugs } from "../utils/data";
+import { useTranslations } from "../utils/useTranslations";
 import type { Entry, Language } from "../types/data";
 import styles from "./QuoteCard.module.scss";
 

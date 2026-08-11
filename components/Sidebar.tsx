@@ -4,9 +4,9 @@ import { useState } from 'react';
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 import classNames from 'classnames';
-import { authorsData, authorSlugs } from '../lib/data';
-import { authorGroups } from '../lib/authorGroups';
-import { useTranslations } from '../lib/useTranslations';
+import { authorsData, authorSlugs } from '../utils/data';
+import { authorGroups } from '../utils/authorGroups';
+import { useTranslations } from '../utils/useTranslations';
 import type { Language } from '../types/data';
 import styles from './Sidebar.module.scss';
 

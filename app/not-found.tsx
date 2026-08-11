@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import Sidebar from '../components/Sidebar';
 import Header from '../components/Header';
-import { getTranslation } from '../lib/translations';
+import { getTranslation } from '../utils/translations';
 
 export default function NotFound() {
   const language = 'stsl';

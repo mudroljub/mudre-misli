@@ -1,8 +1,8 @@
 'use client';
 
-import { getTranslation } from '../lib/translations';
+import { getTranslation } from '../utils/translations';
 import type { Language } from '../types/data';
-import type { Script } from '../lib/transliterate';
+import type { Script } from '../utils/transliterate';
 import styles from './ScriptSwitcher.module.scss';
 
 interface ScriptSwitcherProps {

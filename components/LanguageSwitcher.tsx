@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { languages } from '../lib/data';
+import { languages } from '../utils/data';
 import type { Language } from '../types/data';
 import styles from './LanguageSwitcher.module.scss';
 

@@ -1,7 +1,7 @@
 import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { greekTerms } from './greek-terms.js'
+import { greekTerms } from './greek-terms.mjs'
 import { createSourceResolvers } from './source-resolvers.mjs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
