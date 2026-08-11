@@ -202,12 +202,26 @@
     ]
   },
   {
-    "type": "anecdote",
-    "sr": "Protagora je učio kod Demokrita, držao javna čitanja uz naplatu i sastavio zakone za panhelenski grad Turije.",
-    "stsl": "Протъагоръ ѹ Демокрита ѹчи сѧ · всенародьна чтениꙗ за мьздѹ творѧше и законы панеллиньскомѹ градѹ Тѹриѧмъ състави ·",
-    "originalText": "Διήκουσε δ' ὁ Πρωταγόρας Δημοκρίτου. Οὗτος καὶ Πρόδικος ὁ Κεῖος λόγους ἀναγινώσκοντες ἠρανίζοντο. Ἡρακλείδης ὁ Ποντικὸς ἐν τοῖς Περὶ νόμων φησὶν Θουρίοις νόμους γράψαι φησὶν αὐτόν.",
+    "type": "bio",
+    "sr": "Protagora i Prodik sa Keja javnim čitanjima prikupljali su priloge.",
+    "stsl": "Протъагоръ и Продикъ Кєосскъ · словеса чтѫщє · мьздѫ събирааста ·",
+    "originalText": "Οὗτος καὶ Πρόδικος ὁ Κεῖος λόγους ἀναγινώσκοντες ἠρανίζοντο.",
     "author": "Protagoras",
-    "year": -460,
+    "year": -450,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.50"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "sr": "Prema Heraklidu Pontskom, sastavio je zakone za Turije.",
+    "stsl": "По Єраклідѹ Понтъскомѹ · законы Тѹриꙗмъ състави ·",
+    "originalText": "Ἡρακλείδης ὁ Ποντικὸς ἐν τοῖς Περὶ νόμων φησὶν Θουρίοις νόμους γράψαι φησὶν αὐτόν.",
+    "author": "Protagoras",
+    "year": -444,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -286,7 +300,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Zbog početka spisa O bogovima Atinjani su Protagoru prognali, a njegove knjige sakupili od vlasnika preko glasnika i javno spalili na trgu.",
     "stsl": "Ради начѧла списаниꙗ О бозѣхъ Атинѧне Протъагора изгнаша · книгы же єго глашатаємъ отъ владѣтелии събраша и всенародьно на тръжишти съжегоша ·",
     "author": "Protagoras",

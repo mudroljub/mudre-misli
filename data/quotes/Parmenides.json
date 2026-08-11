@@ -15,7 +15,7 @@
   },
   {
     "type": "bio",
-    "year": -510,
+    "year": -500,
     "sr": "Slušao Ksenofana; bio učenik pitagorejca Ameinija, siromašnog ali plemenitog čoveka.",
     "stsl": "Ксенофана слꙑшааше · ѹченикъ питагорѣевца Амеиніа · ѹбогаго но благороднаго чловѣка · бѣ.",
     "originalText": "Οὗτος ἤκουσε Ξενοφάνους· μᾶλλον δὲ Ἀμεινίᾳ τῷ Πυθαγορείῳ προσέσχηκε, πένητι μὲν ὄντι, σπουδαίῳ δὲ ἀνδρί.",
@@ -29,7 +29,7 @@
   },
   {
     "type": "bio",
-    "year": -500,
+    "year": -490,
     "sr": "Ameiniju nakon smrti sagradio svetilište; privrženiji njemu nego Ksenofanu.",
     "stsl": "Амеинію по смрьти свѧтилиште съгради · привръженѣи къ немѹ нежели Ксенофанѹ бѣ.",
     "originalText": "Ὃν καὶ μετελθόντα ἡρῷον κατεσκεύασεν· ἐκείνῳ μᾶλλον ἢ Ξενοφάνει προσχὼν ἀγωγῆς.",
@@ -186,21 +186,7 @@
     ]
   },
   {
-    "type": "anecdote",
-    "sr": "Iako je slušao Ksenofana, Parmenid nije sledio njegovo učenje. Više se priklonio pitagorejcu Amejniji, siromašnom ali plemenitom čoveku; posle njegove smrti podigao mu je svetilište, a upravo ga je Amejnija podstakao da se posveti tihom životu proučavanja.",
-    "stsl": "Аще и Ксенофана слѹша · Парменидъ ѹчєнию єго не послѣдова · Паче же прилѣпи сѧ питагорѣю Амеинии · мѫжѹ ништѹ · нъ благѹ · по смрьти єго свѧтилище ємѹ въздвиже · и самъ Амеиниꙗ настави єго къ тихомѹ житію ѹчєниꙗ ·",
-    "author": "Parmenides",
-    "year": -515,
-    "originalText": "Οὗτος Ξενοφάνους μὲν ἤκουσεν, οὐ μέντοι ἐζήλωσεν αὐτόν.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.21"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Parmenid je služio svom rodnom gradu kao zakonodavac.",
     "stsl": "Парменидъ послѹжи родномѹ градѹ · законы гражданомъ положивъ ·",
     "author": "Parmenides",
@@ -214,11 +200,10 @@
     ]
   },
   {
-    "type": "anecdote",
-    "sr": "Parmenidu se pripisuje da je prvi prepoznao kako su Večernjača i Zornjača ista zvezda.",
-    "stsl": "Парменидѹ приписѹєть сѧ · ꙗко пьрвъ позна · ꙗко вечернѧꙗ звѣзда и ѹтрьнѧꙗ тожде єсть ·",
+    "type": "reported",
+    "sr": "Parmenidu se pripisuje da je prvi zamislio Zemlju kao loptastu i smeštenu u sredini.",
+    "stsl": "Парменидѹ приписѹєть сѧ · ꙗко пьрвъ землѭ окрѫглѫ и посрѣдѣ лежѫштѫ помꙑсли ·",
     "author": "Parmenides",
-    "year": -482,
     "originalText": "πρῶτός τε ἐπενόησε τὴν γῆν σφαιροειδῆ καὶ ἐν μέσῳ κειμένην.",
     "sources": [
       {
@@ -228,11 +213,10 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "reported",
     "sr": "Favorin Parmenidu pripisuje prvo izlaganje dokaza poznatog kao ‘Ahilej i kornjača’.",
     "stsl": "Фаворинъ Парменидѹ приписѹєть пьрвоє изложеніє довода · нарицаємаго Ахиллеи и желвь ·",
     "author": "Parmenides",
-    "year": -450,
     "originalText": "φησὶ δὲ Φαβωρῖνος πρῶτον αὐτὸν ἐπινοῆσαι τὸν Ἀχιλλέα καλούμενον λόγον.",
     "sources": [
       {

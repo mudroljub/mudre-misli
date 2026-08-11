@@ -2,9 +2,9 @@
   {
     "type": "bio",
     "year": -396,
-    "sr": "Ksenokrat, sin Agathenora iz Halkidona; još kao mladić slušao je Platona i pratio ga na Siciliju.",
-    "stsl": "Ксенократъ · Агаѳенора сынъ · Отъ Халкидона · ꙗко юноша слѹшаше Платона и съ нимъ въ Сикилию хожаше ·",
-    "originalText": "Ξενοκράτης Ἀγαθήνορος Χαλκηδόνιος· οὗτος ἐκ νέου Πλάτωνος ἤκουσεν, ἀλλὰ καὶ εἰς Σικελίαν αὐτῷ συναπεδήμησεν.",
+    "sr": "Ksenokrat, sin Agatenorov, bio je iz Halkidona.",
+    "stsl": "Ксенократъ · Агаѳеноровъ сынъ · отъ Халкидона бѣ ·",
+    "originalText": "Ξενοκράτης Ἀγαθήνορος Χαλκηδόνιος.",
     "author": "Xenocrates",
     "sources": [
       {
@@ -15,7 +15,35 @@
   },
   {
     "type": "bio",
-    "year": -380,
+    "year": -376,
+    "sr": "Još kao mladić slušao je Platona.",
+    "stsl": "Єште юноша сꙑи · Платона слѹшааше ·",
+    "originalText": "οὗτος ἐκ νέου Πλάτωνος ἤκουσεν.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.6"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -361,
+    "sr": "Pratio je Platona na Siciliju.",
+    "stsl": "Платонѹ въ Сикилиѭ съпѫтьствова ·",
+    "originalText": "ἀλλὰ καὶ εἰς Σικελίαν αὐτῷ συναπεδήμησεν.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.6"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "year": -365,
     "sr": "Po naravi spor, pa je Platon, poredivši ga sa Aristotelom, govorio da jednom treba ostruga, a drugom uzda, i neprestano mu savetovao da žrtvuje Gracijama.",
     "stsl": "По естествѹ медлителенъ · и Платонъ · съ Аристотъелемъ и сравлѧѭ · глаголаше · ꙗко єдиномѹ острога трѣбна · дрѹгомѹ же ѹзда · и непрѣстаньно ємѹ съвѣтоваше Граціамъ жрьтвовати ·",
     "originalText": "Ἦν δὲ τὴν φύσιν νωθρός, ὥστε λέγειν τὸν Πλάτωνα συγκρίνοντα αὐτὸν Ἀριστοτέλει, « Τῷ μὲν μύωπος δεῖ, τῷ δὲ χαλινοῦ· » καὶ « Ἐφ' οἷον ἵππον οἷον ὄνον ἀλείφω. » Σεμνὸς δὲ τά τ' ἄλλα Ξενοκράτης καὶ σκυθρωπὸς ἀεί, ὥστε αὐτῷ λέγειν συνεχὲς τὸν Πλάτωνα, « Ξενόκρατες, θῦε ταῖς Χάρισι. »",
@@ -43,7 +71,7 @@
   },
   {
     "type": "bio",
-    "year": -340,
+    "year": -339,
     "sr": "Nasleđivao je Speusipa na čelu škole i predvodio je dvadeset pet godina, od arhontstva Lisimahida, u drugoj godini 110. olimpijade.",
     "stsl": "Спевсипа на чєлѣ школы наслѣдоваше и двадесѧть и пѧть лѣтъ прѣдводѧше · Отъ архонтства Лѵсимахидова · въ дрѹгомь лѣтѣ 110-ꙑѩ Олѵмпиады ·",
     "originalText": "Διεδέξατο δὲ Σπεύσιππον καὶ ἀφηγήσατο τῆς σχολῆς πέντε καὶ εἴκοσιν ἔτη ἐπὶ Λυσιμαχίδου ἀρξάμενος κατὰ τὸ δεύτερον ἔτος τῆς δεκάτης καὶ ἑκατοστῆς Ὀλυμπιάδος.",
@@ -172,20 +200,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "IV.9"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
-    "sr": "Platon je poredeći Ksenokrata i Aristotela govorio da jednom treba ostruga, a drugom uzda, pa je Ksenokrata podsticao da žrtvuje Gracijama.",
-    "stsl": "Платонъ · Ксенократа и Аристотъелѧ съпоставлѧѭ · глаголаше · ꙗко єдиномѹ острога трѣбна · иномѹ же ѹзда · и Ксенократа жрьтвы Граціамъ творити понѹждааше ·",
-    "originalText": "Ἦν δὲ τὴν φύσιν νωθρός, ὥστε λέγειν τὸν Πλάτωνα συγκρίνοντα αὐτὸν Ἀριστοτέλει, « Τῷ μὲν μύωπος δεῖ, τῷ δὲ χαλινοῦ· » Σεμνὸς δὲ τά τ' ἄλλα Ξενοκράτης καὶ σκυθρωπὸς ἀεί, ὥστε αὐτῷ λέγειν συνεχὲς τὸν Πλάτωνα, « Ξενόκρατες, θῦε ταῖς Χάρισι. »",
-    "author": "Xenocrates",
-    "year": -380,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IV.6"
       }
     ]
   },

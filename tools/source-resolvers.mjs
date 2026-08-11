@@ -74,14 +74,27 @@ const createDiogenesLaertiusResolver = rootDir => {
   }
 }
 
+const walterBurleyAuthorFiles = {
+  'Bias of Priene': 'bias',
+  'Chilon of Sparta': 'chilon',
+  'Crates of Thebes': 'crates',
+  Diogenes: 'diogenes_cynicus',
+  Pherecydes: 'pherecides',
+  'Zeno of Citium': 'zeno_citieus',
+  'Zeno of Elea': 'zeno_eleates',
+}
+
 const createWalterBurleyResolver = rootDir =>
   async (reference, author) => {
     const normalized = String(reference || '').trim()
-    if (!normalized || !/\b([IVX]+)\b/.test(normalized) || !author) {
+    if (!normalized || !/\b[MDCLXVI]+\b/.test(normalized) || !author) {
       return null
     }
 
-    const filename = author.toLowerCase().replace(/\s+/g, '_') + '.txt'
+    const basename =
+      walterBurleyAuthorFiles[author] ??
+      author.toLowerCase().replace(/\s+/g, '_')
+    const filename = `${basename}.txt`
     const relFile = `data/sources/walter-burley/latin_raw/${filename}`
 
     try {

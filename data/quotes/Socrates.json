@@ -437,11 +437,11 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Kriton je Sokrata izveo iz vajarske radionice i obrazovao ga, zadivljen lepotom njegovog duha.",
     "stsl": "Критонъ Сократа отъ каменосѣчьскыѧ дѣлательнице изведе и поѹчи єго · красотъѣ дѹха єго дивѧ сѧ.",
     "author": "Socrates",
-    "year": -465,
+    "year": -450,
     "originalText": "Κρίτωνα δ' ἀναστῆσαι αὐτὸν ἀπὸ τοῦ ἐργαστηρίου καὶ παιδεῦσαι τῆς κατὰ ψυχὴν χάριτος ἐρασθέντα Δημήτριός φησίν ὁ Βυζάντιος.",
     "sources": [
       {
@@ -455,7 +455,7 @@
     "sr": "O moralu je razgovarao po radionicama i na trgu.",
     "stsl": "О нравѣхъ въ дѣлательницахъ и на тръжишти бесѣдовааше.",
     "author": "Socrates",
-    "year": -455,
+    "year": -440,
     "originalText": "Γνόντα δὲ τὴν φυσικὴν θεωρίαν μηδὲν εἶναι πρὸς ἡμᾶς, τὰ ἠθικὰ φιλοσοφεῖν ἐπί τε τῶν ἐργαστηρίων καὶ ἐν τῇ ἀγορᾷ.",
     "sources": [
       {
@@ -749,7 +749,7 @@
     "sr": "Da bi u vojskovođi Ifikratu probudio borbeni duh, Sokrat mu je pokazao kako borbeni petlovi brijača Midije prkosno šire krila pred Kalijinim petlovima.",
     "stsl": "Да въ воєводѣ Ификратѣ браньныи дѹхъ възбѹдить · Сократъ ємѹ показа · ꙗко боины пѣтели брадобрѣꙗ Мидиꙗ прѣдъ Калииными пѣтели прѣзрѣньно крилы распростираѭть ·",
     "author": "Socrates",
-    "year": -408,
+    "year": -400,
     "originalText": "Ἐπῆρε δὲ καὶ εἰς φρόνημα Ἰφικράτην τὸν στρατηγόν, δείξας αὐτῷ τοῦ κουρέως Μειδίου ἀλεκτρυόνας ἀντίον τῶν Καλλίου πτερυξαμένους.",
     "sources": [
       {
@@ -844,11 +844,39 @@
   },
   {
     "type": "anecdote",
-    "sr": "Sokrat je odbio naređenje Kritije i Tridesetorice da dovede Leonta sa Salamine na pogubljenje. Jedini je glasao da se deset vojskovođa oslobodi, a kada je sam bio osuđen, odbio je bekstvo iz zatvora i korio prijatelje što oplakuju njegovu sudbinu.",
-    "stsl": "Сократъ повелѣніє Критиꙗ и Тридесѧти отъмѣте · да Леонта Саламиньскаго на погѹбленіє приведеть · Єдинъ за освобожденіє десѧти воєводъ гласова · самъ же осѫжденъ бѣжавъство отъ темнице отъмѣте и дрѹгы обличаше · зане сѫдьбꙫ єго оплаковаахѫ ·",
+    "sr": "Sokrat je odbio naređenje Kritije i Tridesetorice da dovede bogatog Leonta sa Salamine na pogubljenje.",
+    "stsl": "Сократъ повелѣние Критии и Тридесѧти отъмѣте · да богатаго Леонта Саламиньскаго къ нимъ на погѹбление приведеть ·",
+    "author": "Socrates",
+    "year": -404,
+    "originalText": "Ἦν δὲ καὶ ἰσχυρογνώμων καὶ δημοκρατικός, ὡς δῆλον ἔκ τε τοῦ μὴ εἶξαι τοῖς περὶ Κριτίαν κελεύουσι Λέοντα τὸν Σαλαμίνιον, ἄνδρα πλούσιον, ἀγαγεῖν πρὸς αὐτοὺς ὥστε ἀπολέσθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.24"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Jedini je glasao protiv osude desetorice vojskovođa.",
+    "stsl": "Єдинъ противѹ осѫждению десѧти воєводъ гласова ·",
+    "author": "Socrates",
+    "year": -406,
+    "originalText": "ἀλλὰ καὶ μόνος ἀποψηφίσασθαι τῶν δέκα στρατηγῶν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.24"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "sr": "Kada je sam bio osuđen, nije hteo da pobegne iz zatvora; korio je one koji su ga oplakivali i u okovima je vodio svoje najlepše razgovore.",
+    "stsl": "Самъ же осѫжденъ · отъ темнице бѣжати не въсхотѣ · плачѫштиимъ о немь прѣти и въ ѫзахъ краснѣишѧ словеса бесѣдова ·",
     "author": "Socrates",
     "year": -399,
-    "originalText": "Ἦν δὲ καὶ ἰσχυρογνώμων καὶ δημοκρατικός, ὡς δῆλον ἔκ τε τοῦ μὴ εἶξαι τοῖς περὶ Κριτίαν κελεύουσι Λέοντα τὸν Σαλαμίνιον, ἄνδρα πλούσιον, ἀγαγεῖν πρὸς αὐτοὺς ὥστε ἀπολέσθαι.",
+    "originalText": "Καὶ ἐνὸν αὐτῷ ἀποδρᾶναι τῆς εἱρκτῆς μὴ ἐθελῆσαι· τοῖς τε κλαίουσιν αὐτὸν ἐπιπλῆξαι καὶ τοὺς καλλίστους λόγους ἐκείνους δεδεμένον διαθέσθαι.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -888,7 +916,7 @@
     "type": "anecdote",
     "sr": "Pošto se Alkibijad smatrao srećnim jer je bio bogat, lep i rečit, Sokrat je raspravljao s njim i pokazao koliko je ništavan, jer je svojim razlozima tako uzburkao njegovu dušu da ga je primorao na plač.",
     "stsl": "Понеже себе блаженнымъ мнѣаше · ꙗко богатъ · красенъ и рѣчивъ бѣ · Сократъ съ нимь прѣше и показа · колико ничтоженъ єсть · зане своими словесы душꙋ єго тако возмꙋти · ꙗко въ плачь єго въведе ·",
-    "la": "Cum se beatum putaret quia dives, pulcher et eloquens erat, Socrates cum eo disputavit et demonstravit quam pusillus esset quoniam fatere necesse est animam cum suis racionibus eius animum exagitavit ut ipsum flere coegeret.",
+    "originalText": "Cum se beatum putaret quia dives, pulcher et eloquens erat, Socrates cum eo disputavit et demonstravit quam pusillus esset quoniam fatere necesse est animam cum suis racionibus eius animum exagitavit ut ipsum flere coegeret.",
     "author": "Socrates",
     "year": -430,
     "sources": [

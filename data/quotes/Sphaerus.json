@@ -2,9 +2,23 @@
   {
     "type": "bio",
     "year": -285,
-    "sr": "Sfer Bosporanac, slušao je Zenona i Kleanta nakon Zenonove smrti. Napredovavši dovoljno u razgovorima, otišao je u Aleksandriju kod Ptolemeja Filopatora.",
-    "stsl": "Сфєръ Воспорьскꙑи · слѹшааше Зєнона і Клєанта по Зєноновѣ съмрьти · Наапрєдовавъ довольно въ бєсѣдахъ · Отъідє въ Алеѯандріѭ къ Птолємєю Філопаторѹ.",
-    "originalText": "Σφαῖρος ὁ Βοσποριανός, ὃς προκοπὴν ἱκανὴν περιποιησάμενος λόγων εἰς Ἀλεξάνδρειαν ἀπῄει πρὸς Πτολεμαῖον τὸν Φιλοπάτορα.",
+    "sr": "Sfer je bio iz Bospora.",
+    "stsl": "Сферъ отъ Воспора бѣ ·",
+    "originalText": "Σφαῖρος ὁ Βοσποριανός.",
+    "author": "Sphaerus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.177"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -220,
+    "sr": "Pošto je dovoljno uznapredovao u raspravama, otišao je u Aleksandriju kod Ptolemeja Filopatora.",
+    "stsl": "Довольно въ бесѣдахъ преѹспѣвъ · въ Александриѭ къ Птолемеѭ Филопаторѹ отъиде ·",
+    "originalText": "ὃς προκοπὴν ἱκανὴν περιποιησάμενος λόγων εἰς Ἀλεξάνδρειαν ἀπῄει πρὸς Πτολεμαῖον τὸν Φιλοπάτορα.",
     "author": "Sphaerus",
     "sources": [
       {

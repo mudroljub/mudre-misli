@@ -2,23 +2,9 @@
   {
     "type": "bio",
     "year": -435,
-    "sr": "Rođen u Kireni; došao u Atinu privučen glasom o Sokratu.",
-    "stsl": "Роди сѧ въ Киринѣ · пріиде въ Атины привлеченъ славою Сократовою.",
-    "originalText": "Ἀρίστιππος τὸ μὲν γένος ἦν Κυρηναῖος, ἀφιγμένος δ' Ἀθήναζε κατὰ κλέος Σωκράτους.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.65"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -410,
-    "sr": "Prvi među Sokratovcima uzimao je platu za poduku; poslao novac učitelju Sokratu.",
-    "stsl": "Пьрвыи межи Сократовци платꙋ за наѹкꙋ приимаше · посла сребро ѹчителю Сократѹ.",
-    "originalText": "Πρῶτος τῶν Σωκρατικῶν μισθοὺς εἰσεπράξατο καὶ ἀπέστειλε χρήματα τῷ διδασκάλῳ.",
+    "sr": "Aristip je bio iz Kirene.",
+    "stsl": "Аристиппъ отъ Киринꙑ бѣ ·",
+    "originalText": "Ἀρίστιππος τὸ μὲν γένος ἦν Κυρηναῖος.",
     "author": "Aristippus",
     "sources": [
       {
@@ -44,14 +30,14 @@
   {
     "type": "bio",
     "year": -366,
-    "sr": "Osnivač kirenajske filozofske škole; učio da je cilj života uživanje u sadašnjem trenutku.",
-    "stsl": "Основатель киринеискꙑѩ философскꙑѩ школꙑ · ѹчаше · ꙗко цѣль житіа єсть сласть настоѩщимъ часомъ.",
-    "originalText": "Κυρηναϊκῆς προέστη Ἀρίστιππος ὁ Κυρηναῖος· ἀπέλαυε μὲν γὰρ ἡδονῆς τῶν παρόντων, οὐκ ἐθήρα δὲ πόνῳ τὴν ἀπόλαυσιν τῶν οὐ παρόντων.",
+    "sr": "Aristip Kirenjanin predvodio je kirenajsku školu.",
+    "stsl": "Кѵрєнаискѫ школѫ Аристипъ Кѵрєнаꙗнинъ прѣдводи ·",
+    "originalText": "Κυρηναϊκῆς προέστη Ἀρίστιππος ὁ Κυρηναῖος.",
     "author": "Aristippus",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "II.19, II.66"
+        "reference": "II.19"
       }
     ]
   },
@@ -551,19 +537,6 @@
   },
   {
     "type": "quote",
-    "sr": "Bolje je da novac propadne zbog Aristipa nego da Aristip propadne zbog novca.",
-    "stsl": "Лѹчьше сребрѹ Аристипа ради погыбнѫти · нежели Аристипѹ сребра ради погыбнѫти ·",
-    "originalText": "ἄμεινον ταῦτα δι' Ἀρίστιππον ἢ διὰ ταῦτα Ἀρίστιππον ἀπολέσθαι.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.77"
-      }
-    ]
-  },
-  {
-    "type": "quote",
     "sr": "Došao sam da podelim ono što imam i primim ono što nemam.",
     "stsl": "Придохъ · да подѣлѭ єже имамъ и приимꙫ єже не имамъ ·",
     "originalText": "ἐπὶ τὸ μεταδώσειν ὧν ἔχει καὶ μεταλήψεσθαι ὧν μὴ ἔχει.",
@@ -594,19 +567,6 @@
     "sr": "Aristip je govorio da ljudi pri kupovini proveravaju da li posuđe dobro zvoni, a život prosuđuju bez ikakvog merila.",
     "stsl": "Аристипъ глаголаше ꙗко чловѣци при кѹповании искѹшаѭть · добро ли съсѫди звѧчѧть · жизнь же безъ мѣрила сѫдѧть ·",
     "originalText": "Κατεγίνωσκε τῶν ἀνθρώπων ὡς τὰ σκεύη μὲν ἐν ταῖς ἀγορασίαις κομπούντων, τοὺς δὲ βίους εἰκῆ δοκιμαζόντων.",
-    "author": "Aristippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.78"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Ni usred bahanalija čedna žena neće se pokvariti.",
-    "stsl": "И посредѣ виньнаго бѣсованиꙗ цѣломѫдрьна жена не развратитъ сѧ ·",
-    "originalText": "Καὶ γὰρ ἐν βακχεύμασιν οὖσ' ἥ γε σώφρων οὐ διαφθαρήσεται.",
     "author": "Aristippus",
     "sources": [
       {

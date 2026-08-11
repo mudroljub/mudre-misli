@@ -1,61 +1,5 @@
 [
   {
-    "type": "bio",
-    "year": -446,
-    "sr": "Rođen u Atini; otac mu bio Atinanin, majka Tračanka.",
-    "stsl": "Родисѧ въ Атинахъ · Отъьць ємѹ Атинꙗнинъ бѣ · мати же Фракіиска ·",
-    "originalText": "Ἀντισθένης Ἀθηναῖος, πατρὸς Ἀντισθένους· ἐδόκει γὰρ εἶναι Θρᾴττης μητρός.",
-    "author": "Antisthenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.1"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -440,
-    "sr": "Učenik Gorgije retoričara; kasnije slušao Sokrata.",
-    "stsl": "Оученикъ Горгіи риторовъ · послѣди слꙑшааше Сократа ·",
-    "originalText": "Κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος. Ὕστερον δὲ παρέβαλε Σωκράτει.",
-    "author": "Antisthenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.2"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -430,
-    "sr": "Stanovao u Pireju; svakodnevno je pešačio četrdeset stadija do Atine da sluša Sokrata.",
-    "stsl": "Въ Пѵреи живѧаше · на вьсѧкъ дьнь четыредесѧть стадіевъ до Атинъ пѣшь ходѧаше · да Сократа слꙑшаеть ·",
-    "originalText": "Οἰκῶν τ' ἐν Πειραιεῖ καθ' ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους.",
-    "author": "Antisthenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.2"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -390,
-    "sr": "Predavao u vežbalištu Kinosarg; prvi presavio ogrtač nadvoje i nosio samo tu jednu odeću, štap i torbu; zvali su ga Pas.",
-    "stsl": "Въ ѹчилишти Кѵносаргъ поѹчааше · пьрвыи плашть вдвое сложи и тꙋ єдинꙋ одеждꙋ · жезлъ и торбꙋ ношааше · Пьсомъ нарицаахѹ єго ·",
-    "originalText": "Διελέγετο δ' ἐν τῷ Κυνοσάργει γυμνασίῳ· αὐτός τ' ἐπεκαλεῖτο Ἁπλοκύων. Καὶ πρῶτος ἐδίπλωσε τὸν τρίβωνα, καὶ μόνῳ αὐτῷ ἐχρῆτο· βάκτρον τ' ἀνέλαβε καὶ πήραν.",
-    "author": "Antisthenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.13"
-      }
-    ]
-  },
-  {
     "type": "works",
     "sr": "Napisao dela u deset svezaka.",
     "stsl": "Дѣла въ десѧті свѧзъкахъ написа ·",
@@ -65,33 +9,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "VI.15"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "sr": "Teopompo hvali ga kao jedinog Sokratovca dostojnog pohvale.",
-    "stsl": "Теопомпъ хвалить єго ꙗko єдіного Сократовьца достоіна похвалы ·",
-    "originalText": "Ὁ δὲ Θεόπομπος αὐτὸν τῶν Σωκρατικῶν μόνον ἄξιόν φησιν ἐπαίνου.",
-    "author": "Antisthenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.15"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -366,
-    "sr": "Umro od bolesti; Diogen ga je posetio noseći bodež.",
-    "stsl": "Отъ болѣзни ѹмрѣ · Діогенъ съ ножемъ єго посѣти ·",
-    "originalText": "Τοῦτον ἀρρωστίᾳ ἐνοχλούμενον Διογένης, παρελθὼν καὶ ἐγχειρίδιον ἔχων.",
-    "author": "Antisthenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.18"
       }
     ]
   },
@@ -916,19 +833,6 @@
   },
   {
     "type": "quote",
-    "sr": "Tražio sam oslobođenje od bolova, a ne od života.",
-    "stsl": "Освобождениꙗ отъ болѣзни просихъ · не отъ животъа ·",
-    "originalText": "Τῶν πόνων ... οὐ τοῦ ζῆν.",
-    "author": "Antisthenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.18–19"
-      }
-    ]
-  },
-  {
-    "type": "quote",
     "sr": "Razboriti ljudi ne treba da izučavaju književnost kako ih tuđe misli ne bi iskvarile.",
     "stsl": "Разѹмьнымъ чловѣкомъ кънижьнаꙗ словеса ѹчити не подобаєть · да ихъ чюждии помыслы не развратѧть ·",
     "originalText": "Γράμματα ... μὴ μανθάνειν ... ἵνα μὴ διαστρέφοιντο τοῖς ἀλλοτρίοις.",
@@ -955,9 +859,9 @@
   },
   {
     "type": "bio",
-    "sr": "Antisten nije bio čistog atičkog porekla; majka mu je, prema predanju, bila Tračanka. Ruganje poreklu odbijao je podsećanjem da je i majka bogova Frigijka.",
-    "stsl": "Антисѳенъ чистаго Атиньскаго рода не бѣ · мати єго · по прѣданию · Ѳракииска бѣ · Рѹганіє родѹ отъмѣтааше · поминаѧ · ꙗко и мати боговъ Фрѵгииска єсть ·",
-    "originalText": "Ἐλέγετο δ' οὐκ εἶναι ἰθαγενής· ὅθεν καὶ πρὸς τὸν ὀνειδίζοντα εἰπεῖν, « Καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν. » Ἐδόκει γὰρ εἶναι Θρᾴττης μητρός.",
+    "sr": "Antisten Atinjanin bio je sin Antistenov. Nije bio čistog atičkog porekla; majka mu je, prema predanju, bila Tračanka. Ruganje poreklu odbijao je podsećanjem da je i majka bogova Frigijka.",
+    "stsl": "Антисѳенъ Атинꙗнинъ · сынъ Антисѳеновъ · чистаго Атиньскаго рода не бѣ · мати єго · по прѣданию · Ѳракииска бѣ · Рѹганіє родѹ отъмѣтааше · поминаѧ · ꙗко и мати боговъ Фрѵгииска єсть ·",
+    "originalText": "Ἀντισθένης Ἀθηναῖος, πατρὸς Ἀντισθένους. Ἐλέγετο δ' οὐκ εἶναι ἰθαγενής· ὅθεν καὶ πρὸς τὸν ὀνειδίζοντα εἰπεῖν, « Καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν. » Ἐδόκει γὰρ εἶναι Θρᾴττης μητρός.",
     "author": "Antisthenes",
     "year": -446,
     "sources": [
@@ -987,7 +891,7 @@
     "stsl": "Антисѳенъ пьрво Горгиєвъ ѹченикъ бѣ · потъомь же къ Сократѹ приста · На вьсѧкъ дьнь отъ Пиреꙗ около осми попришть до Атинъ пѣшь ходѧаше · да єго слѹшаеть · Отъ Сократа тръпѣніє и небреженіє тѣлесьныхъ тѧготъ приѩтъ и тѣмь пъсьскыи образъ животъа нача ·",
     "originalText": "Οὗτος κατ' ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος. Ὕστερον δὲ παρέβαλε Σωκράτει, καὶ τοσοῦτον ὤνατο αὐτοῦ, ὥστε παρῄνει τοῖς μαθηταῖς γενέσθαι αὐτῷ πρὸς Σωκράτην συμμαθητάς. Οἰκῶν τ' ἐν Πειραιεῖ καθ' ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους, παρ' οὗ καὶ τὸ καρτερικὸν λαβὼν καὶ τὸ ἀπαθὲς ζηλώσας κατῆρξε πρῶτος τοῦ κυνισμοῦ.",
     "author": "Antisthenes",
-    "year": -436,
+    "year": -426,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -1098,7 +1002,7 @@
     "stsl": "Антисѳенъ Диогеново небреженіє · Кратетово въздръжаніє и Зеноново тръпѣніє възбѹди и тако основаніє ихъ любомѫдрьнаго обьштества положи · Теопомпъ отъ вьсѣхъ Сократовьцевъ тъкмо єго хвалѧаше · твьрдѧ · ꙗко приѧтьною бесѣдою вьсѧкаго придобѹдетъ ·",
     "author": "Antisthenes",
     "year": -384,
-    "originalText": "Οὗτος ἀπηλγηκυίας μὲν Διογένη πεποίηκεν, ἐγκρατῆ δὲ Κράτητα, καρτερικὸν δὲ Ζήνωνα.",
+    "originalText": "Οὗτος ἀπηλγηκυίας μὲν Διογένη πεποίηκεν, ἐγκρατῆ δὲ Κράτητα, καρτερικὸν δὲ Ζήνωνα. Τοῦτον μόνον ἐκ πάντων Σωκρατικῶν Θεόπομπος ἐπαινεῖ καί φησι δεινόν τ' εἶναι καὶ δι' ὁμιλίας ἐμμελοῦς ὑπαγαγέσθαι πάνθ' ὁντινοῦν.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -1150,7 +1054,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -420,
     "sr": "Kada mu je neko rekao: 'Ovaj te je proklinjao', odgovorio je: 'Ne umanjuje mene, već onoga ko u sebi prepoznaje ono što govori.'",
     "stsl": "Єгда ємѹ нѣкто рече · Сєи тѧ проклє · Отъвѣшта · Нє ѹманѧєть менє · нъ онаго · ꙇжє въ сєбѣ познаваєть то · єже глаголєть.",
@@ -1165,7 +1069,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -420,
     "sr": "Kada mu je drugi rekao: 'O tebi ljudi govore rđavo', odgovorio je: 'To se dešava zato što je deo višeg čoveka to trpeti, a nižeg to činiti.'",
     "stsl": "Єgда ємѹ дрѹгыи рече · О тєбѣ чловѣци ꙁьло глаголѭть · Отъвѣшта · То бываєть · зане єсть чѧсть вышааго чловѣка то тръпѣти · а нижааго то творити.",

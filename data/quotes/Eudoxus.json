@@ -30,7 +30,7 @@
     "sr": "Kada mu je bilo oko dvadeset tri godine, Eudoks je živeo oskudno, ali ga je glas Sokratovih sledbenika privukao u Atinu. Stanovao je u Pireju i svakog dana odlazio u grad da sluša predavanja, a zatim se vraćao u luku.",
     "stsl": "Єгда около двадесѧти и трьхъ лѣтъ имѣаше · Евдоксъ въ скѫдости живѣаше · нъ слава Сократовыхъ послѣдователеи въ Атины єго привлѣче · Въ Пиреи живѣаше и всѧкъ дьнь въ градъ на поѹчениꙗ хождааше · потъомь же въ пристанище възвраштааше сѧ ·",
     "author": "Eudoxus",
-    "year": -408,
+    "year": -385,
     "originalText": "Γενόμενον γὰρ ἐτῶν τριῶν που καὶ εἴκοσι καὶ στενῶς διακείμενον κατὰ κλέος τῶν Σωκρατικῶν εἰς Ἀθήνας ἀπᾶραι σὺν Θεομέδοντι τῷ ἰατρῷ, τρεφόμενον ὑπ' αὐτοῦ. καταχθέντα δ' εἰς τὸν Πειραιᾶ ὁσημέραι ἀνιέναι Ἀθήναζε καὶ ἀκούσαντα τῶν σοφιστῶν αὐτόθι ὑποστρέφειν. δύο δὴ μῆνας διατρίψαντα οἴκαδ' ἐπανελθεῖν.",
     "sources": [
       {
@@ -44,7 +44,7 @@
     "sr": "Uz pomoć prijatelja Eudoks je otišao u Egipat i među tamošnjim sveštenicima proveo godinu i četiri meseca, obrijanih obrva i brade. Potom je predavao u Kiziku i Propontidi, posetio Mausolov dvor i najzad se vratio u Atinu sa mnogim učenicima; neki su tvrdili da je time želeo da ozlojedi Platona, koji ga je ranije zanemario.",
     "stsl": "Помоштию дрѹговъ Евдоксъ въ Егѵпетъ иде и междѹ тамошними жерци єдино лѣто и четыри мѣсѧци прѣбысть · обръви и брадꙫ обрѣꙗнъ · Потъомь въ Кизикѣ и Пропонтидѣ поѹчааше · Маѵсоловъ дворъ посѣти и наконецъ съ многыми ѹченики въ Атины възврати сѧ · нѣции глаголаахѫ · ꙗко симь Платона озлобити хотъѣ · иже єго прѣжде прѣзрѣ ·",
     "author": "Eudoxus",
-    "year": -397,
+    "year": -384,
     "originalText": "Πρὸς τῶν φίλων ἐρανισθέντα εἰς Αἴγυπτον ἀπᾶραι μετὰ Χρυσίππου τοῦ ἰατροῦ, συστατικὰς φέροντα παρ' Ἀγησιλάου πρὸς Νεκτάναβιν· τὸν δὲ τοῖς ἱερεῦσιν αὐτὸν συστῆσαι.",
     "sources": [
       {
@@ -97,15 +97,29 @@
   },
   {
     "type": "anecdote",
-    "sr": "Dok je Eudoks boravio u Egiptu kod Honufisa iz Heliopolja, sveti bik Apis liznuo mu je ogrtač. Sveštenici su iz toga prorekli da će biti slavan, ali kratkovečan; umro je u pedeset trećoj godini.",
-    "stsl": "Єгда Евдоксъ въ Егѵптѣ ѹ Хонѹфиса Хелиопольскаго прѣбывааше · свѧтыи волъ Аписъ ризꙫ єго полиза · Жерци отъ сего прѣрекоша · ꙗко славьнъ · нъ краткоживотъьнъ бѹдеть · въ пѧтьдесѧть третиємъ лѣтѣ ѹмрѣ ·",
+    "sr": "Dok je Eudoks boravio u Egiptu kod Honufisa iz Heliopolja, sveti bik Apis liznuo mu je ogrtač. Sveštenici su iz toga prorekli da će biti slavan, ali kratkovečan.",
+    "stsl": "Єгда Евдоксъ въ Егѵптѣ ѹ Хонѹфиса Хелиопольскаго прѣбывааше · свѧтыи волъ Аписъ ризꙫ єго полиза · Жерци отъ сего прѣрекоша · ꙗко славьнъ · нъ краткоживотъьнъ бѹдеть ·",
     "author": "Eudoxus",
-    "year": -355,
+    "year": -384,
     "originalText": "Ὅτε δὲ συνεγένετο ἐν Αἰγύπτῳ Χονούφιδι τῷ Ἡλιουπολίτῃ, ὁ Ἆπις αὐτοῦ θοἰμάτιον περιελιχμήσατο. ἔνδοξον οὖν αὐτὸν ἀλλ' ὀλιγοχρόνιον ἔφασαν οἱ ἱερεῖς ἔσεσθαι.",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "VIII.90–91"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "sr": "Umro je u pedeset trećoj godini.",
+    "stsl": "Въ третиємь и пѧтьдесѧтѣмь лѣтѣ ѹмрѣ ·",
+    "author": "Eudoxus",
+    "year": -355,
+    "originalText": "ἐτελεύτησε δὲ τρίτον ἄγων καὶ πεντηκοστὸν ἔτος.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.90"
       }
     ]
   }

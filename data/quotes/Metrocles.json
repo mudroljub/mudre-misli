@@ -2,9 +2,23 @@
   {
     "type": "bio",
     "year": -340,
-    "sr": "Brat Hiparhije; prethodno slušao Teofrasta Peripatetika.",
-    "stsl": "Братъ Хіпархіꙗ · прєжде слѹшааше Теофраста пєріпатєтіка.",
-    "originalText": "Μητροκλῆς, ἀδελφὸς Ἱππαρχίας, ὃς πρότερον ἀκούων Θεοφράστου τοῦ περιπατητικοῦ.",
+    "sr": "Metrokl je bio brat Hiparhije.",
+    "stsl": "Метроклъ братъ Хипархии бѣ ·",
+    "originalText": "Μητροκλῆς, ἀδελφὸς Ἱππαρχίας.",
+    "author": "Metrocles",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.94"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -320,
+    "sr": "Najpre je slušao Teofrasta Peripatetika.",
+    "stsl": "Пьрвѣє Теофраста Перипатетика слѹшааше ·",
+    "originalText": "ὃς πρότερον ἀκούων Θεοφράστου τοῦ περιπατητικοῦ.",
     "author": "Metrocles",
     "sources": [
       {
@@ -15,7 +29,7 @@
   },
   {
     "type": "anecdote",
-    "year": -330,
+    "year": -315,
     "sr": "Jednom prilikom vežbajući govor, nečujno je ispustio vetar te je od sramote ostao zaključan kod kuće, nameravajući da se izgladni. Kratet je saznao za to, došao je kod njega, posavali jeo grašak, i uveravao ga rečima da nije učinio ništa loše; bilo bi čudo da nije isustio vetare prema prirodi. Konačno, ispuštajući sam vetar, ohrabrio ga je, utešivši ga sličnošću dela. Od tada je slušao Krata i postao sposoban u filozof iji.",
     "stsl": "Єдиноѭ прілікоѭ вєжбаꙗ говоръ · нєчѹино испѹсти вѣтръ тѣмьже отъ срама оста заключєнъ дома · намѣравлꙗꙗ да сѧ ізгладни · Кратєтъ вѣдѣ то · прііде къ нємѹ · нарочито снѣдъ вовъ · ѹвѣрꙗваашє го словєсꙑ ꙗко нє ѹчини ничтоже зло · чѹдо бо би било ащє нє испѹщашє вѣтрꙑ по єстьствѹ · Наконьць испѹщаꙗ самъ вѣтръ · ѹкрѣпи го · ѹтѣшивъ подобіємь дѣла · Отъ тогда слѹшааше Крата и быстъ способьнъ въ любомѫдріи.",
     "originalText": "τοσοῦτον διέφθαρτο ὥστε ποτὲ μελετῶν καὶ μεταξύ πως ἀποπαρδὼν ὑπ' ἀθυμίας οἴκοι κατάκλειστος ἦν, ἀποκαρτερεῖν βουλόμενος. Μαθὼν δὴ ὁ Κράτης εἰσῆλθε πρὸς αὐτὸν παρακληθεὶς καὶ θέρμους ἐπίτηδες βεβρωκὼς ἔπειθε μὲν αὐτὸν καὶ διὰ τῶν λόγων μηδὲν φαῦλον πεποιηκέναι· τέρας γὰρ ἂν γεγονέναι εἰ μὴ καὶ τὰ πνεύματα κατὰ φύσιν ἀπεκρίνετο· τέλος δὲ καὶ ἀποπαρδὼν ἀνέρρωσεν αὐτόν, ἀφ' ὁμοιότητος τῶν ἔργων παραμυθησάμενος. Τοὐντεῦθεν ἤκουεν αὐτοῦ καὶ ἐγένετο ἀνὴρ ἱκανὸς ἐν φιλοσοφίᾳ.",

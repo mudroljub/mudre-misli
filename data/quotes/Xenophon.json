@@ -28,35 +28,7 @@
   },
   {
     "type": "bio",
-    "year": -394,
-    "sr": "Nastanio se u Skiluntu sa ženom Filesijom i sinovima Grilom i Diodorom, koje su zvali Dioskuri.",
-    "stsl": "Въ Скилѹнтѣ съ женою Филесиею и сынми Грилломъ и Диодоромъ всели сѧ · иже Диоскѹри нарицахѹ сѧ ·",
-    "originalText": "Ἦλθεν εἰς Σκιλλοῦντα, χωρίον τῆς Ἠλείας. Εἵπετο δὲ αὐτῷ καὶ γύναιον ὄνομα Φιλησία, καὶ δύο υἱεῖς, Γρύλλος καὶ Διόδωρος, οἳ καὶ Διόσκουροι ἐπεκαλοῦντο.",
-    "author": "Xenophon",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.52"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -394,
-    "sr": "Kupivši imanje kroz koje je tekla reka Selinunt, posvetio ga je Artemidi; onde je lovio, primao prijatelje i pisao svoja dela.",
-    "stsl": "Кѹпивъ имѣніє · имже рѣка Селинѹнтъ течаше · Артемидѣ посвѧти · тамо ловлѧаше · дрѹгы приємлѧаше и дѣла своꙗ писаше ·",
-    "originalText": "Χωρίον ἐπρίατο καὶ καθιέρωσε τῇ θεῷ, δι' οὗ ποταμὸς ἔρρει Σελινοῦς, ὁμώνυμος τῷ ἐν Ἐφέσῳ. Τοὐντεῦθεν διετέλει κυνηγετῶν καὶ τοὺς φίλους ἑστιῶν καὶ τὰς ἱστορίας συγγράφων.",
-    "author": "Xenophon",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.52"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -394,
+    "year": -401,
     "sr": "Cveo je četvrte godine 94. olimpijade; sa Kirom je krenuo na pohod godinu dana pre Sokratove smrti.",
     "stsl": "Цвѣтѧше въ четвьртое лѣто 94-ꙑѩ Олѵмпиады · съ Кѵромъ же на походъ поиде единымъ лѣтомъ прѣжде Сократовꙑѩ смрьти ·",
     "originalText": "Ἤκμαζε δὲ κατὰ τὸ τέταρτον ἔτος τῆς τετάρτης καὶ ἐνενηκοστῆς Ὀλυμπιάδος, καὶ ἀναβέβηκε σὺν Κύρῳ ἑνὶ πρότερον ἔτει τῆς Σωκράτους τελευτῆς.",
@@ -168,7 +140,7 @@
     "stsl": "Сократъ младаго Ксенофонта въ тѣсьномь проходѣ срѣте и жезломъ ємѹ пѫть загради ·",
     "originalText": "Τούτῳ δὲ ἐν στενωπῷ φασιν ἀπαντήσαντα Σωκράτην διατεῖναι τὴν βακτηρίαν καὶ κωλύειν παριέναι.",
     "author": "Xenophon",
-    "year": -430,
+    "year": -410,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -182,7 +154,7 @@
     "stsl": "Вопрошаше · къдѣ различнаꙗ брашна продаѭть сѧ · Отъвѣты приємъ вопроси · къдѣ чловѣци добри и чьстьни бываѭть ·",
     "originalText": "πυνθανόμενον ποῦ πιπράσκοιτο τῶν προσφερομένων ἕκαστον· ἀποκριναμένου δὲ πάλιν πυθέσθαι ποῦ δὲ καλοὶ κἀγαθοὶ γίνονται ἄνθρωποι.",
     "author": "Xenophon",
-    "year": -430,
+    "year": -410,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -196,7 +168,7 @@
     "stsl": "Съмѫштеномѹ Ксенофонтѹ рече · да по немь идеть и наѹчить сѧ · Тако Ксенофонтъ ѹченикъ єго бысть ·",
     "originalText": "ἀπορήσαντος δέ, « Ἕπου τοίνυν, » φάναι, « καὶ μάνθανε. » Καὶ τοὐντεῦθεν ἀκροατὴς Σωκράτους ἦν.",
     "author": "Xenophon",
-    "year": -430,
+    "year": -410,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -247,7 +219,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Ksenofont se pridružio Kirovom pohodu i opisao njegov tok i povratak.",
     "stsl": "Ксенофонтъ Кѵровѹ походѹ присовокѹпи сѧ и течение єго и възвраштеніе написа ·",
     "originalText": "Καὶ ὃς γίνεται παρὰ Κύρῳ. Τὰ μὲν οὖν ἄλλα τὰ κατὰ τὴν ἀνάβασιν γενόμενα καὶ τὴν κάθοδον ἱκανῶς αὐτὸς ἡμῖν διηγεῖται.",
@@ -261,7 +233,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Tokom Kirovog pohoda Ksenofont je bio u zavadi sa vojskovođom Menonom. Ružio ga je tvrdeći da ima ljubavnika starijeg od sebe, a Apolonida je prekorevao zbog probušenih ušiju.",
     "stsl": "Въ Кѵровѣ походѣ Ксенофонтъ съ воєводою Менономъ въ враждѣ бѣ · Єго рѹгаше · глаголѧ · ꙗko любима имать старѣиша себе · Аполонида же прободеныихъ ѹшии ради ѹкарѧаше ·",
     "originalText": "Ἐχθρῶς δὲ διέκειτο πρὸς Μένωνα τὸν Φαρσάλιον, παρὰ τὸν χρόνον τῆς ἀναβάσεως τὸν ξεναγόν· ὅτε καὶ λοιδορῶν αὐτόν φησιν αὑτοῦ μείζοσι κεχρῆσθαι παιδικοῖς. Ἀλλὰ καὶ Ἀπολλωνίδῃ τινὶ ὀνειδίζει τετρῆσθαι τὰ ὦτα.",
@@ -275,7 +247,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Posle pohoda Ksenofont je Kirove vojnike stavio u službu spartanskog kralja Agesilaja, kome je bio veoma odan.",
     "stsl": "По походѣ Ксенофонтъ Кѵровы воѧ въ слѹжбѹ Спартаньскаго царѣ Агесилаꙗ предаде · ємѹже велми прѣданъ бѣ ·",
     "originalText": "Μετὰ δὲ τήν τ' ἀνάβασιν ἧκεν εἰς Ἀσίαν πρὸς Ἀγησίλαον τὸν Λακεδαιμονίων βασιλέα, μισθοῦ τοὺς Κύρου στρατιώτας αὐτῷ παρασχών· φίλος τ' ἦν εἰς ὑπερβολήν.",
@@ -289,7 +261,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Atinjani su ga zbog pristajanja uz Spartu prognali.",
     "stsl": "Атинѧне єго за пристаніє къ Спартѣ изгнаша ·",
     "originalText": "Παρ' ὃν καιρὸν ἐπὶ Λακωνισμῷ φυγὴν ὑπ' Ἀθηναίων κατεγνώσθη.",
@@ -303,7 +275,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "U Efesu je polovinu svoga novca poverio Artemidinom svešteniku da njime, ako se ne vrati, podigne kip boginji, a drugu polovinu poslao u Delfe kao zavetne darove.",
     "stsl": "Въ Ефесѣ половинꙫ сребра своєго Артемидинѹ жрьцѹ повѣри · да · аште сѧ не възвратить · образъ богыни въздвигнеть · дрѹгѹю же половинꙫ въ Делфы ꙗко обѣтьны дары посла ·",
     "originalText": "Γενόμενος δ' ἐν Ἐφέσῳ καὶ χρυσίον ἔχων, τὸ μὲν ἥμισυ Μεγαβύζῳ δίδωσι τῷ τῆς Ἀρτέμιδος ἱερεῖ φυλάττειν ἕως ἂν ἐπανέλθοι· εἰ δὲ μή, ἄγαλμα ποιησάμενον ἀναθεῖναι τῇ θεῷ· τοῦ δὲ ἡμίσεος ἔπεμψεν εἰς Δελφοὺς ἀναθήματα.",

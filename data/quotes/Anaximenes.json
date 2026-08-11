@@ -15,7 +15,7 @@
   },
   {
     "type": "bio",
-    "year": -585,
+    "year": -565,
     "sr": "Učenik Anaksimandra; neki kažu da je slušao i Parmenida.",
     "stsl": "Оученикъ Анаксимандровъ · нѣции же глаголѭтъ ꙗко Парменида слꙑша ·",
     "originalText": "Ἤκουσεν Ἀναξιμάνδρου. ἔνιοι δὲ καὶ Παρμενίδου φασὶν ἀκοῦσαι αὐτόν.",
@@ -30,9 +30,23 @@
   {
     "type": "bio",
     "year": -546,
-    "sr": "Živeo za vreme pada Sarda; umro u šezdeset trećoj olimpijadi.",
-    "stsl": "Живъ бѣ въ врѣмѧ паденіѧ Сардъ · оумрѣ въ шестьдесѧтѣи третіеи олимпіадѣ ·",
-    "originalText": "Καὶ γεγένηται μέν, καθά φησίν Ἀπολλόδωρος, περὶ τὴν Σάρδεων ἅλωσιν, ἐτελεύτησε δὲ τῇ ἑξηκοστῇ τρίτῃ Ὀλυμπιάδι.",
+    "sr": "Živeo je u vreme pada Sarda.",
+    "stsl": "Живъ бѣ въ врѣмѧ паденіꙗ Сардъ ·",
+    "originalText": "Καὶ γεγένηται μέν, καθά φησίν Ἀπολλόδωρος, περὶ τὴν Σάρδεων ἅλωσιν.",
+    "author": "Anaximenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -525,
+    "sr": "Umro je u šezdeset trećoj olimpijadi.",
+    "stsl": "Оумрѣ въ шестьдесѧтѣи третіеи олимпіадѣ ·",
+    "originalText": "ἐτελεύτησε δὲ τῇ ἑξηκοστῇ τρίτῃ Ὀλυμπιάδι.",
     "author": "Anaximenes",
     "sources": [
       {

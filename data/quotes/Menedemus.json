@@ -168,7 +168,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -310,
     "sr": "Ka onome koji se drsko ponaša bludniku: Ne znaš, reče, da ne samo kelj sok dobro ima, već i rotkve?",
     "stsl": "Ка ономѹ іжє сѧ дрьско понашаашє влѹдьнікѹ · Нє вѣси · рєчє · ꙗko нє токмо кєль сокъ добро іма · вєць і ротъкъвє.",
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -310,
     "sr": "Ka mlađem koji vikao: Razmotri, reče, da li šta iza držeći ne znaš.",
     "stsl": "Ка младішємѹ іжє вікашє · Раꙁмотърі · рєчє · ащє лі што ꙁадъ дрьжꙗ нє вѣси.",
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -300,
     "sr": "Antigona savetujućeg da li na pijanku dođe, šuteći o drugom samo naredi javiti da carev sin jest.",
     "stsl": "Антігона совѣтѹѭщаго ащє лі на піꙗнкѫ пріідє · шѹтꙗщє о дрѹгомь токмо нарєді ꙗвіті ꙗko царєвъ сынъ єсть.",
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -310,
     "sr": "Ka beskrupolnom koji nešto njemu pripovedao bezsuvisleno, upita da li polje ima; rekavši da i veoma mnoga imanja: Hajde onda, reče, i onih se staraji, da ne dogodi se tebi i ta uništiti i duhovitog samoukapnika izgubiti.",
     "stsl": "Ка вєсъкрѹпѹлномѹ іжє нѣшто ємѹ пріповѣдалъ вєꙁъсѹвісльно · ѹпіта ащє лі полє іма · рєкъ ꙗko і вєльмі мъногꙑ імꙗніꙗ · Хаідє тогда · рєчє · і оніхъ сѧ стараі · да нє догоді сѧ тєвѣ і та ѹніштіті і дѹховітаго самоѹкапьніка іꙁгѹвіті.",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -310,
     "sr": "Ka onom koji pita da li se ozbiljni ženi, reče: Ja li tebi ozbiljan činim se ili ne? Rekavši pak da jeste: Ja onda, reče, oženio sam se.",
     "stsl": "Ка ономѹ іжє пітаєть ащє лі сѧ овꙁірьні жєніть · рєчє · Ꙗ лі тєвѣ овꙁірьнъ чінімь сѧ лі нє · Рєкъ жє ꙗko єсть · Ꙗ тогда · рєчє · ожєніхъ сѧ.",
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "anecdote",
     "year": -310,
     "sr": "Ka onome koji rekao da mnoga su dobra upita koliko brojno i da li misli više od sto.",
     "stsl": "Ка ономѹ іжє рєкалъ ꙗko мъногꙑ сѫть доврꙑ ѹпіта коліко вроіно і ащє лі місліть вєщє отъ сто.",
@@ -257,20 +257,6 @@
     "sr": "Ne mogavši onih koji zovu na večeru nečiju odstraniti raskoš, pozvan jednom ništa ne reče; šuteći pak ga opomnuo je samo masline primivši.",
     "stsl": "Нє могавъ оніхъ іжє ꙁовѫть на вєчєрѭ нѣчіѭ одстраніті раскощь · поꙁванъ єдиноѭ ничтоже нє рєчє · шѹтꙗ жє га опомонѹ єсть токмо маслінꙑ пріємівъ.",
     "originalText": "Μὴ δυνάμενος δὲ τῶν καλούντων ἐπὶ δεῖπνόν τινος περιελεῖν τὴν πολυτέλειαν, κληθείς ποτε οὐδὲν μὲν εἶπε· σιωπῶν δ' αὐτὸν ἐνουθέτησε μόνας ἐλαίας προσενεγκάμενος.",
-    "author": "Menedemus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.129"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
-    "year": -300,
-    "sr": "Zbog tog slobodošćivog malo i riziko trpio je na Kipru kod Nikokreonta sa Asklepijadom drugom.",
-    "stsl": "Раді того световодощаваго мало і ріꙁіко трьпѣ на Кѵпрѹ ѹ Нікокрєонта съ Аскльпіадомь дрѹгомь.",
-    "originalText": "Διὰ οὖν δὴ τὸ παρρησιαστικὸν τοῦτο μικροῦ καὶ ἐκινδύνευσεν ἐν Κύπρῳ παρὰ Νικοκρέοντι σὺν Ἀσκληπιάδῃ τῷ φίλῳ.",
     "author": "Menedemus",
     "sources": [
       {

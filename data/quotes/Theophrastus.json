@@ -1,11 +1,11 @@
 [
   {
     "type": "bio",
-    "sr": "Teofrast je bio iz Eresa; prvo je slušao Alkipa u rodnom gradu, zatim Platona, pa je prešao kod Aristotela. Po Aristotelovom odlasku u Halkidu preuzeo je školu i pred mnoštvom učenika predavao u Atini.",
-    "stsl": "Тєофрастъ бѣ отъ Ереса · пьрвѣє слѹшаше Алкиппа въ своемь градѣ · таже Платона · потъомь же прѣиде къ Аристотъелѹ · По исходѣ єго въ Халкиду самъ школу пріѧть и въ Аѳинахъ великымъ множьствомь ѹченикъ ѹчаше ·",
+    "sr": "Teofrast je bio iz Eresa.",
+    "stsl": "Тєофрастъ бѣ отъ Ереса ·",
     "author": "Theophrastus",
     "year": -371,
-    "originalText": "Θεόφραστος Ἐρέσιος. οὗτος ἤκουσε πρῶτον μὲν Ἀλκίππου τοῦ πολίτου, ἔπειτα Πλάτωνος, μετὰ δὲ Ἀριστοτέλους.",
+    "originalText": "Θεόφραστος Μελάντα Ἐρέσιος κναφέως υἱός.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -14,12 +14,40 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
+    "sr": "Najpre je slušao svoga sugrađanina Alkipa u zavičaju, zatim Platona, pa je prešao kod Aristotela.",
+    "stsl": "Пьрвѣє слѹшаше Алкиппа съгражданина въ своемь градѣ · таже Платона · потъомь же прѣиде къ Аристотъелѹ ·",
+    "author": "Theophrastus",
+    "year": -350,
+    "originalText": "Οὗτος πρῶτον μὲν ἤκουσεν Ἀλκίππου τοῦ πολίτου ἐν τῇ πατρίδι, εἶτ' ἀκούσας Πλάτωνος μετέστη πρὸς Ἀριστοτέλην.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.36"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "sr": "Kada se Aristotel povukao u Halkidu, Teofrast ga je nasledio na čelu škole u 114. olimpijadi.",
+    "stsl": "Єгда Аристотъель въ Халкидѫ отъиде · Тєофрастъ єго въ школѣ наслѣди въ сто и четвьртоє на десѧте олимпиадѣ ·",
+    "author": "Theophrastus",
+    "year": -322,
+    "originalText": "κἀκείνου εἰς Χαλκίδα ὑποχωρήσαντος αὐτὸς διεδέξατο τὴν σχολὴν Ὀλυμπιάδι τετάρτῃ καὶ δεκάτῃ καὶ ἑκατοστῇ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.36"
+      }
+    ]
+  },
+  {
+    "type": "bio",
     "sr": "Po Aristotelovoj smrti Teofrast je, posredstvom Demetrija Falerskog, dobio sopstveni vrt.",
     "stsl": "По смрьти Аристотъелѣ Тєофрастъ · чрезъ Дємєтріꙗ Фалерскаго · свой грѧдъ пріѧтъ ·",
     "author": "Theophrastus",
-    "year": -343,
-    "originalText": "Μετὰ δὲ τὴν Ἀριστοτέλους τελευτὴν προέστη τῆς σχολῆς διὰ Δημητρίου τοῦ Φαληρέως, ὃν καὶ ἐποιήσατο γνώριμον Ἀριστοτέλει.",
+    "year": -322,
+    "originalText": "Λέγεται δ' αὐτὸν καὶ ἴδιον κῆπον σχεῖν μετὰ τὴν Ἀριστοτέλους τελευτήν, Δημητρίου τοῦ Φαληρέως, ὃς ἦν καὶ γνώριμος αὐτῷ, τοῦτο συμπράξαντος.",
     "sources": [
       {
         "name": "diogenes-laertius",

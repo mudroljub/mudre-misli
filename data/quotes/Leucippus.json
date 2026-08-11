@@ -133,12 +133,11 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "reported",
     "sr": "Diogen ga prikazuje kao prvog koji je postavio atomе za prva načela i time otvorio put Demokritovom razvijanju atomističkog učenja.",
     "stsl": "Диогенъ єго показѹєть ꙗко пьрваго · иже недѣлима тѣлеса за пьрва начѧла положи · и тимь пѫть Демокритовѹ къ распространению атомьскаго ѹчениꙗ отъвръзє ·",
     "originalText": "πρῶτός τ' ἀτόμους ἀρχὰς ὑπεστήσατο.",
     "author": "Leucippus",
-    "year": -420,
     "sources": [
       {
         "name": "diogenes-laertius",

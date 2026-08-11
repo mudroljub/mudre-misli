@@ -2,9 +2,23 @@
   {
     "type": "bio",
     "year": -330,
-    "sr": "Kleant, sin Fanija, iz Asa. Prvo je bio bokser.",
-    "stsl": "Клєантъ · сынъ Фаніа · Отъ Аса · Прѣждє бѣ боксєръ.",
-    "originalText": "Κλεάνθης Φανίου Ἄσσιος. Οὗτος πρῶτον ἦν πύκτης.",
+    "sr": "Kleant, sin Fanijin, bio je iz Asa.",
+    "stsl": "Клеантъ · сынъ Фаниинъ · отъ Аса бѣ ·",
+    "originalText": "Κλεάνθης Φανίου Ἄσσιος.",
+    "author": "Cleanthes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.168"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -310,
+    "sr": "U mladosti je bio bokser.",
+    "stsl": "Въ юности пѧстьникъ бѣ ·",
+    "originalText": "Οὗτος πρῶτον ἦν πύκτης.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -189,10 +203,24 @@
   },
   {
     "type": "bio",
-    "year": -232,
-    "sr": "Kažu da je pisao na crep i goveđe lopatice ono što je čuo od Zenona, jer nije imao novca da kupi papir. Takav kakav je bio, uspeo je, iako je bilo mnogo drugih dostojnih Zenonovih učenika, da nasle li školu.",
-    "stsl": "Рєкѫть ꙗко пісааше на чрєпꙑ і говєжди лопатіцє єжє слꙑшааше отъ Зєнона · нє імꙗашє бо срєбра да кѹпить папѵръ · Таковъ ꙗковъ бѣ · ѹспѣ · ащє і бѣахѫ множаише иніи достоини Зєнонові ѹчєниці · да наслѣдить школѫ.",
-    "originalText": "Τοῦτόν φασιν εἰς ὄστρακα καὶ βοῶν ὠμοπλάτας γράφειν ἅπερ ἤκουε παρὰ τοῦ Ζήνωνος, ἀπορίᾳ κερμάτων ὥστε ὠνήσασθαι χαρτία. Τοιοῦτος δ' ὢν ἐξίσχυσε, πολλῶν καὶ ἄλλων ὄντων ἀξιολόγων Ζήνωνος μαθητῶν, αὐτὸς διαδέξασθαι τὴν σχολήν.",
+    "year": -280,
+    "sr": "Kažu da je ono što je slušao od Zenona zapisivao na crepovima i goveđim lopaticama, jer nije imao novca da kupi papirus.",
+    "stsl": "Глаголѭть · ꙗко єже отъ Зенона слѹшааше · на чрѣпѣхъ и говѧждиихъ лопатахъ писааше · сребра бо не имѣаше да папиръ кѹпить ·",
+    "originalText": "Τοῦτόν φασιν εἰς ὄστρακα καὶ βοῶν ὠμοπλάτας γράφειν ἅπερ ἤκουε παρὰ τοῦ Ζήνωνος, ἀπορίᾳ κερμάτων ὥστε ὠνήσασθαι χαρτία.",
+    "author": "Cleanthes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.174"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -262,
+    "sr": "Iako je među Zenonovim učenicima bilo mnogo drugih uglednih ljudi, upravo je Kleant uspeo da nasledi školu.",
+    "stsl": "Аште и мнози инии славьни Зенонови ѹченици бѣахѫ · самъ Клеантъ школѫ наслѣдити възможе ·",
+    "originalText": "Τοιοῦτος δ' ὢν ἐξίσχυσε, πολλῶν καὶ ἄλλων ὄντων ἀξιολόγων Ζήνωνος μαθητῶν, αὐτὸς διαδέξασθαι τὴν σχολήν.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -204,8 +232,8 @@
   {
     "type": "anecdote",
     "year": -232,
-    "sr": "Umro je ovako: obolelo mu je desni i Zenost je preporučio da se suzdrži od hrane; dva dana posle toga osećao se bolje, ali lekari su mu rekli da nastavi tako. Poslušao je i umro u starosti od oko devedeset i devet godina.",
-    "stsl": "Ѹмрѣ сіцє · заболѣстъ ємѹ дєсно і ѹчєніці прєпорѫчишѧ да сѧ въздрьжить отъ ꙗді · два дьнє послѣ того чѹствоваашє сѧ боліє · нъ лѣкарі рєкошѧ ємѹ да продльжить тако · Послѹша і ѹмрѣ въ старості отъ ꙗко дєвѧтьдєсѧтъ і дєвѧтъ лѣтъ.",
+    "sr": "Umro je ovako: obolele su mu desni i lekari su mu preporučili da se uzdrži od hrane. Posle dva dana osećao se bolje i lekari su mu dopustili da se vrati uobičajenoj hrani, ali on nije hteo; nastavio je da gladuje i umro sa oko osamdeset godina.",
+    "stsl": "Ѹмрѣ сице · Десни ємѹ разболѣшѧ сѧ и лѣкари съвѣтовашѧ да сѧ отъ ꙗди въздрьжить · Дъва дьни прѣбывъ · лѹче сѧ чѹвьствоваше · и лѣкари ємѹ обычьнѫ пищѫ допѹстишѧ · онъ же не въсхотѣ · безъ пищи прѣбываѩ · отъ жития изиде · около осмьдесѧти лѣтъ имы ·",
     "originalText": "Ἐτελεύτα δὲ τοῦτον τὸν τρόπον. Οὐλίτιδος αὐτῷ γενομένης, οἱ ἰατροὶ παρῄνουν ἀσιτῆσαι. Διημερεύσας οὖν καὶ βέλτιον ἔχων, ὡς οἱ ἰατροὶ ἐπέτρεπον τῇ συνήθει τροφῇ χρῆσθαι, οὐκ ἠθέλησεν, ἀλλ' ἀσίτως τελέσας ἐξῆλθεν τοῦ βίου περί που ἐτῶν ὀγδοήκοντα γεγονώς.",
     "author": "Cleanthes",
     "sources": [

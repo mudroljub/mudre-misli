@@ -214,10 +214,10 @@ grep -L '"pointer"' data/quotes.json
 **Očekivani rezultat**: ~98% citata ima pointer.
 
 **Trenutna statistika** (avgust 2026):
-- **1248/1273 (98.0%)** citata ima pointer
-- **Diogenes Laertius**: 1229 citata sa pointerom
-- **Walter Burley**: 19 citata sa pointerom
-- **Bez pointera**: 25 citata (uglavnom reference sa rasponom kao "VIII.67–74")
+- **1312/1358 (96,6%)** citata ima pointer
+- **Diogenes Laertius**: 1223/1223 primarna navoda sa pointerom
+- **Walter Burley**: 89/89 primarnih navoda sa lokalnim poglavljem i pointerom
+- **Bez pointera**: 46 citata iz izvora za koje namerno nema lokalnog resolvera (Hermann Diels 43, Plutarh 2, *Dissoi Logoi* 1)
 
 ## Generisanje
 

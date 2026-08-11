@@ -15,7 +15,7 @@
   },
   {
     "type": "bio",
-    "year": -570,
+    "year": -545,
     "sr": "Prognan iz zavičaja; živeo u Zankleu i Katani na Siciliji.",
     "stsl": "Изгнанъ отъ отъечьства · въ Занклѣи и Катанѣ на Сициліи живѧаше.",
     "originalText": "Ἐκπεσὼν τῆς πατρίδος διέτριψεν ἐν Ζάγκλῃ τῆς Σικελίας καὶ Κατάνῃ.",
@@ -93,20 +93,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.18-19"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -470,
-    "sr": "Po Favorinu, prodat kao rob i oslobođen od pitagorejaca Parmeniška i Orestada; vlastim rukama sahranio svoje sinove.",
-    "stsl": "По Фаворинѹ · проданъ ꙗко рабъ и освобожденъ отъ питагорѣевъ Пармениска и Орестада · властныими рѫками сыновъ своихъ погребе.",
-    "originalText": "Πεπρᾶσθαι δέ φησι Φαβωρῖνος καὶ λυθῆναι ὑπὸ τῶν Πυθαγορείων Παρμενίσκου καὶ Ὀρεστάδου· θάψαι δὲ ταῖς ἰδίαις χερσὶ τοὺς υἱεῖς αὐτόν.",
-    "author": "Xenophanes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.20"
       }
     ]
   },
@@ -220,20 +206,6 @@
     "stsl": "Стихы укорьны творѧаше на Хесиода и Хомера ради словесъ ихъ о бозѣхъ · Своѧ же пѣниꙗ самъ предъ людьми глаголааше · Ѹчєниѧмъ Фалеса · Питагора и Епименида протъивлѧаше сѧ ·",
     "author": "Xenophanes",
     "originalText": "Ἐπιτιμᾷ δὲ καὶ τῷ Ἡσιόδῳ καὶ τῷ Ὁμήρῳ ἐν τοῖς ποιήμασι περὶ τῶν θεῶν.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.18"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "sr": "Ksenofan je, pošto je bio prognan iz domovine, boravio u Zankli i Katani na Siciliji.",
-    "stsl": "Ксенофанъ · изгнанъ бывъ изъ отъечьства · пребывааше въ Занкли и Катани Сикелиискѣи ·",
-    "author": "Xenophanes",
-    "year": -570,
-    "originalText": "Φυγὰς δὲ γενόμενος τῆς πατρίδος διέτριβεν ἐν Ζάγκλῃ τῆς Σικελίας καὶ ἐν Κατάνῃ.",
     "sources": [
       {
         "name": "diogenes-laertius",

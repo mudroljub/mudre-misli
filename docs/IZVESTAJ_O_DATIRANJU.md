@@ -1,185 +1,134 @@
 # Izveštaj o datiranju unosa po filozofima
 
-Datum provere: 11. avgust 2026.
+Datum poslednje provere: 11. avgust 2026.
 
-## Obuhvat i metod
+## Obuhvat i pravila
 
-Provereni su svi pojedinačni fajlovi u `data/quotes/`, osim Talesa, Heraklita i Platona, koji su već sređeni. Provera je obuhvatila:
+Provereno je 46 autorskih fajlova, odnosno svi fajlovi u `data/quotes/` osim Talesa, Heraklita i Platona, koji su ranije izdvojeni kao već sređeni. Provera prati `docs/DATIRANJE.md`:
 
-1. formalna pravila iz `docs/DATIRANJE.md`;
-2. usklađenost godina sa opsegom `born`–`died` iz `data/authors.json`;
-3. prirodan raspored događaja kroz život;
-4. unutrašnju saglasnost događaja, ličnosti, olimpijada i vladara;
-5. preterano grupisanje procenjenih godina i lažnu preciznost;
-6. duplikate koji stvaraju različita datiranja istog događaja.
+- `bio` i `anecdote` moraju imati `year`;
+- `quote`, `reported` i `works` ne smeju imati `year`;
+- datum mora biti u životnom opsegu autora, osim kada tekst izričito opisuje posthumni događaj;
+- procenjena godina treba da označava stvarno životno razdoblje, a ne da se automatski izjednači sa rođenjem ili smrću.
 
-Ovo je izveštaj za ispravke, ne izmena podataka. Oznaka **uredno** znači da nisu pronađene očigledne greške prema sadašnjim projektnim podacima; ne znači da je svaka procenjena godina istorijski dokaziva.
+## Trenutno stanje
 
-## Sažetak
+- Svi obuhvaćeni `quote`, `reported` i `works` unosi sada su bez polja `year`.
+- Jedini preostali nedozvoljeni `year` nalazi se kod Platona, koji nije deo ove provere.
+- Među obuhvaćenim autorima nedostaje godina samo trima Zoroasterovim unosima.
+- Jedini datum izvan životnog opsega jeste Pitagorin posthumni unos iz -450, koji pravilno govori o Filolajevom objavljivanju pitagorejskih knjiga.
+- Generator izvora, generator 1.358 citata, provera TypeScript tipova i puna produkcijska izgradnja prolaze; statički su generisane 2.854 stranice.
+- Izgrađeno je 1.312 lokalnih pointera: svih 1.223 primarnih navoda iz Diogena Laertija i svih 89 iz lokalno sačuvanih Burleyjevih poglavlja; svaki ciljni fajl i broj reda postoje.
 
-- Provereno je 46 fajlova.
-- Trinaest unosa tipa `bio` ili `anecdote` nema obavezno polje `year`.
-- Šezdeset unosa tipa `quote` ili `reported` pogrešno ima `year`.
-- Jedan autor nema zapis u `authors.json`: Zoroaster. Kleobul, Demosten i Ferekid su u međuvremenu dodati, dok je Likurg uklonjen iz zbirke.
-- Ksenofan ima jedan nedozvoljen datum izvan životnog opsega.
-- Pitagorin unos iz 450. p. n. e. takođe je izvan njegovog života, ali ispravno opisuje posthumno objavljivanje Filolajevih knjiga.
-- Najozbiljniji sadržinski problemi nalaze se kod Anaksagore, Anaksimandra, Anaksimena, Gorgije, Ksenofana i Ksenofonta: događaji iz zrelog života postavljeni su u godinu rođenja ili se povezane ličnosti hronološki ne preklapaju.
+## Završene sigurne ispravke
 
-## Formalne greške
+### Formalna pravila i tipovi
 
-### Obavezna godina nedostaje
+- Uklonjene su nedozvoljene godine sa 49 samostalnih izreka i učenja: Hrisip 16, Epikur 9, Pitak 14, Piron 4, Timon 4 i Zenon iz Kitija 2.
+- Šest Menedemovih kratkih razgovornih scena pretipizirano je iz `quote` u `anecdote`, uz zadržavanje godina.
+- Pitakovo odbijanje Krezovog novca i Platonovo poređenje Ksenokrata sa Aristotelom pretipizirani su iz `bio` u `anecdote`, uz zadržavanje godina.
+- Epikurov složeni unos X.11 razdvojen je na datirani biografski podatak o skromnom životu zajednice i zaseban `reported` stav protiv zajedničke imovine, bez godine.
+- Kratetov zavet novca deci i Epikurova pripovest o smrti u kadi sa poslednjim savetom prijateljima pretipizirani su iz `bio` u `anecdote`.
+- Aristotelovo povlačenje u Halkidu i odredbe oporuke, Gorgijino prisustvo Empedoklovim radnjama, Protagorino progonstvo, Kritonovo obrazovanje Sokrata i pet Ksenofontovih životnih podataka pretipizirani su iz `anecdote` u `bio`.
+- Parmenidov unos IX.23 ispravljen je prema grčkom tekstu: ne govori o istovetnosti Večernjače i Zornjače, nego o loptastoj Zemlji smeštenoj u sredini; označen je kao `reported` bez godine.
+- Grčki tekst Diogenove anegdote o tri predanja njegove smrti dopunjen je varijantom ujeda pri deljenju hobotnice psima, koju su prevodi već sadržali; izostavljena pesma sada je jasno označena uglastom elipsom.
+- Dva Antistenova razgovorna unosa iz Burleyja i Anaksarhova gozba kod Aleksandra ranije su pretipizirani u anegdote.
+- Uklonjeni su nedatirani Antistenov sažetak Teopompove pohvale i nekoliko njegovih kraćih biografskih sažetaka koji su već bili sadržani u potpunijim unosima.
+- Kleobulov podatak o Kleobulini smešten je u -600, saglasno njenom zasebnom biografskom unosu.
 
-| Filozof | Redni broj unosa | Tip | Kratak opis |
-|---|---:|---|---|
-| Antisten | 6 | `bio` | Teopompova pohvala |
-| Kleobul | 2, 3 | `bio`, `anecdote` | Kleobulina; zagonetka |
-| Gorgija | 3 | `bio` | lekar i retor |
-| Solon | 7 | `anecdote` | razgovor s Perijandrom o ćutanju |
-| Zoroaster | 2–4 | `anecdote`, `bio` | rođenje, prvi mag i posthumni uticaj na Demokrita |
+### Datiranje i razdvajanje
 
-### Godina stoji na tipu koji je ne sme imati
+- Anaharsid je uređen prema unutrašnjoj hronologiji Diogenovog predanja i projektnom opsegu -620–-580.
+- Anaksagorino učeništvo smešteno je u mladost, dolazak u Atinu i prenos prirodne filozofije u -456, meteorit kod Egospotama u -467, a suđenje približno u -433.
+- Napuštanje porodičnog imanja i povlačenje proučavanju prirode pomereno je iz Anaksagorine četrnaeste godine (`-486`) u odraslo doba (`-470`).
+- Anaksimandrovo učeništvo kod Talesa i rad sa sunčanikom više nisu u godini rođenja.
+- Anaksimenovo učeništvo smešteno je u mladost, a pad Sarda i njegova smrt razdvojeni su na -546 i -525.
+- Gorgijino učeništvo, govornička delatnost, atinska slava, učiteljstvo Izokratu i podatak o dugovečnosti razdvojeni su u zasebne događaje.
+- Demostenova atinska slava pomerena je iz godine rođenja u -355.
+- Teofrastov složeni početni unos razdvojen je na poreklo (-371), školovanje (-350), preuzimanje škole (-322) i sticanje vrta posle Aristotelove smrti (-322). Grčki tekst o vrtu vraćen je prema Diogenu V.39.
+- Eudoksov prvi boravak u Atini smešten je u -385, prema izričito navedenoj 23. godini života. Put u Egipat i priča o Apisu slede u -384, dok je smrt u 53. godini izdvojena u -355.
+- Aristotelova anegdota o Platonovom poređenju sa ždrebetom pomerena je iz godine rođenja u zrelo akademijsko razdoblje (-350).
+- Aristotelovo učiteljstvo Aleksandru i molba za obnovu Stagire pomereni su sa nemoguće `-368` na `-343`; unos je pretipiziran u `bio`, a nepotvrđeno davanje zakona uklonjeno iz prevoda prema grčkom V.4.
+- Aristotelova peripatetička nastava u Likeju pomerena je sa `-376` na godinu osnivanja škole (`-335`) i označena kao `bio`; upozorenje Kalistenu pomereno je sa `-361` na poslednje godine Kalistenovog pohoda sa Aleksandrom (`-327`).
+- Aristotelovo povlačenje u Halkidu zbog optužbe za bezbožnost pomereno je sa `-330` na `-323`, posle Aleksandrove smrti i zatvaranja njegovog atinskog razdoblja.
+- Antistenovo pridruživanje Sokratu smešteno je u -426, posle Gorgijinog dolaska u Atinu; uklonjeni su kraći duplikati istog toka.
+- Aristipovo poreklo iz Kirene odvojeno je od potpunijeg unosa o dolasku u Atinu zbog Sokratovog glasa (-416); dva kraća duplikata dolaska i naplaćivanja poduke uklonjena su.
+- Aristipov spojeni navod `II.19, II.66` razdvojen je bez parsiranja zareza: datirani biografski unos sada sadrži samo predvođenje kirenajske škole iz II.19, dok je učenje o sadašnjem uživanju već sačuvano kao zaseban nedatirani citat II.66.
+- Anaksarhov složeni početak razdvojen je na poreklo (-380), učeničku liniju (-350) i vrhunac u 110. olimpijadi (-340).
+- Sferovo poreklo odvojeno je od odlaska Ptolemeju Filopatoru u Aleksandriju (-220); uklonjena je tvrdnja o učiteljima koje pripadajući grčki odlomak ne sadrži.
+- Ksenokratovo poreklo odvojeno je od slušanja Platona u mladosti (-376) i puta sa njim na Siciliju (-361).
+- Platonovo poređenje Ksenokrata sa Aristotelom pomereno je sa `-380`, kada je Aristotel imao četiri godine, u zajedničko akademijsko razdoblje (`-365`); drugi gotovo doslovan unos IV.6 je uklonjen.
+- Timonov početni životopis razdvojen je na poreklo (-320), odlazak Stilponu (-300) i kasniji boravak kod Pirona (-290).
+- Zenonovo učeništvo kod Parmenida pomereno je iz godine rođenja u mladost (-470). Tri navoda o prvenstvu u dijalektici, dijalozima i dokazu pretipizirana su u `reported`, a kraći duplikati života u Eleji i smrti uklonjeni.
+- Kod Parmenida je uklonjen prošireni duplikat čiji srpski i staroslovenski tekst nisu odgovarali sačuvanom grčkom odlomku; učeništvo i podizanje svetilišta raspoređeni su u -500 i -490.
+- Epikurovo poreklo i odrastanje na Samosu odvojeni su od izričito datovanog dolaska u Atinu u osamnaestoj godini (-323).
+- Kleantovo poreklo odvojeno je od mladalačkog bavljenja boksom (-310), a Metroklovo srodstvo sa Hiparhijom od slušanja Teofrasta (-320).
+- Aristonovo poreklo i nadimci odvojeni su od učenja o ravnodušnosti; učenje je pravilno označeno kao `reported` bez godine.
+- Hrisipovo poreklo odvojeno je od mladalačkog trčanja (-260) i kasnijeg odvajanja od Kleanta (-250).
+- Pironov početni unos razdvojen je na poreklo (-360), slikarski poziv (-340), put sa Anaksarhom do Indije (-327) i zaseban preneti filozofski stav bez godine.
+- Bijantova priča o mesenijskim devojkama i Anaksimandrova anegdota o pevanju uklonjene su iz godine rođenja ili smrti i smeštene u odraslo doba.
+- Demokritovo školovanje kod maga i Haldejaca pomereno je iz same godine rođenja u projektnu godinu detinjstva (-450); istorijska teškoća predanja o Kserksu ostaje zasebna dilema.
+- Demokritova velika obrazovna putovanja pomerena su sa `-450`, kada bi imao deset godina, na `-440`, uz već datirano preuzimanje nasledstva kojim ih je finansirao.
+- Metroklov prelazak od Teofrastove škole Kratu pomeren je sa -330 na -315, posle već datovanog slušanja Teofrasta (-320).
+- Kritonovo izvođenje Sokrata iz vajarske radionice i njegovo obrazovanje pomereno je sa Sokratove pete godine na ranu odraslost (-450).
+- Sokratova anegdota sa Ifikratom pomerena je sa `-408`, kada bi budući vojskovođa imao oko deset godina, na poslednje Sokratove godine (`-400`).
+- Sokratovi razgovori o moralu po radionicama i trgu pomereni su iz petnaeste godine (`-455`) u odraslo razdoblje (`-440`).
+- Protagorin složeni unos IX.50 razdvojen je na javna čitanja sa Prodikom (-450) i sastavljanje zakona za Turije oko osnivanja grada (-444); ponovljeno učeništvo kod Demokrita ostalo je samo u potpunijoj anegdoti IX.53.
+- Leukipovo prvenstvo u atomizmu pretipizirano je iz anegdote u `reported` i ostavljeno bez godine.
+- Kleantovo siromašno zapisivanje Zenonovih predavanja (-280) odvojeno je od nasleđivanja škole posle Zenonove smrti (-262). Podatak o smrti vraćen je grčkom tekstu: oko osamdeset, a ne devedeset devet godina.
+- Sokratov složeni unos iz Diogena II.24 razdvojen je na glasanje o vojskovođama (-406), odbijanje naređenja Tridesetorice (-404) i odbijanje bekstva iz tamnice (-399); svaki deo sada ima odgovarajući grčki tekst.
+- Favorinovo pripisivanje dokaza „Ahilej i kornjača“ Parmenidu označeno je kao `reported` bez proizvoljne godine.
+- Solonov razgovor sa Perijandrom dobio je projektnu godinu zrelog doba (-590), a žalost za detetom pomerena je iz godine smrti u -580.
+- Ispravljeni su preračuni iz olimpijada: Anaksimandar, druga godina 58. olimpijade (-547); Hilon kao starac oko 52. olimpijade (-570); Epimenidova povezana sekvenca očišćenja Atine u 46. olimpijadi (-596.8 do -596.2); Ksenokrat, druga godina 110. olimpijade (-339); Ksenofont, četvrta godina 94. olimpijade (-401).
+- Solonovo upravljanje Atinom u trećoj godini 46. olimpijade ispravljeno je sa -592 na -594.
+- Burleyjev složeni Hrisipov unos razdvojen je na pristupanje Kleantu (-260) i preuzimanje stoičke škole posle Kleantove smrti (-232).
+- Ispravljeno je 130 kanonskih pokazivača kod Solona, Hilona, Pitaka, Anaharsida i Epimenida: odlomci I.58–I.113 pripadaju prvoj, a ne drugoj knjizi Diogena Laertija. Pointeri su potom ponovo uspešno izgrađeni.
+- Ujednačen je i Walter Burley format u 21 pokazivaču kod Hrisipa i Gorgije: rimski broj poglavlja sada svuda ima oblik `Cap. XXIX`, odnosno `Cap. XXVI`.
+- Jedini preostali latinski izvorni tekst pod nestandardnim poljem `la` (Sokrat–Alkibijad, Burley XXXIV) premešten je u zajedničko polje `originalText`.
+- Burleyjev resolver proširen je na sve rimske cifre i na kanonske alias-e autora čiji lokalni fajl ima istorijski oblik imena (`bias`, `diogenes_cynicus`, `pherecides`, `zeno_citieus` i dr.); time i tih 36 lokalno dostupnih navoda ponovo dobija pointer.
 
-Prema `docs/DATIRANJE.md`, `quote`, `reported` i `works` nemaju `year`.
+### Duplikati
 
-| Filozof | Broj takvih unosa | Napomena |
-|---|---:|---|
-| Anaksarh | 0 | Dva duplirana citata uklonjena su jer već postoje u anegdotama; gozba kod Aleksandra pretipizirana je u `anecdote`. |
-| Antisten | 2 | Pitanje i odgovor u narativnom okviru; proveriti tip pre uklanjanja godine. |
-| Hrisip | 16 | Samostalne izreke; godine treba ukloniti. |
-| Epikur | 9 | Učenja i izreke; godine treba ukloniti. |
-| Menedem | 6 | Većinom kratke epizode; potrebna provera `quote` naspram `anecdote`. |
-| Pitak | 14 | Mešavina izreka, prenesenih stavova i razgovora; rešavati pojedinačno. |
-| Piron | 4 | Uglavnom učenja i izreke; ukloniti godinu osim ako se unos proširi u anegdotu. |
-| Timon | 4 | Razgovorne epizode; proveriti tip. |
-| Zenon iz Kitija | 2 | Kontekstualne izreke; proveriti tip. |
+- Kod Anaksarha su uklonjena dva samostalna citata već sadržana u anegdotama.
+- Kod Ksenofana su uklonjeni duplikati progonstva i zbirni unos koji je ponavljao prodaju u ropstvo i sahranu sinova. Progonstvo je pomereno u odraslo doba (-545).
+- Kod Ksenofonta su uklonjena dva kraća duplikata naseljavanja i života u Skiluntu; sačuvani su potpuniji unosi. Susret sa Sokratom pomeren je iz godine rođenja u mladost (-410).
+- Kod Antistena su sačuvani potpuniji biografski i anegdotski unosi, a kraći sažeci istih mesta iz Diogena uklonjeni.
+- Kod Menedema je uklonjen kratki uvod o opasnosti kod Nikokreonta, jer ga naredni unos prenosi kao potpunu anegdotu iz istog odlomka.
+- Kod Bijanta je uklonjen kratki sažetak smrti u dubokoj starosti, već u celini sadržan u anegdoti o njegovoj smrti na sudu; zaseban podatak o gradskoj sahrani je sačuvan.
+- Kod Pitaka su dve verzije dvoboja sa Frinonom spojene u potpuniji Diogenov unos; Burley je sačuvan kao drugi izvor umesto kao kraći duplikat sa drugom godinom.
+- Kod Demokrita je uklonjen zbirni duplikat povratka, čitanja *Velikog poretka sveta*, počasti i sahrane, jer su isti događaji već sačuvani u preciznije podeljenim unosima IX.39 i IX.40.
+- Kod Aristotela su dva unosa o učiteljstvu Aleksandru i obnovi Stagire spojena; potpuniji V.2 zadržava V.4 kao drugi izvor.
+- Uklonjene su kratke izreke već doslovno sadržane u potpunim anegdotama iz istog odlomka kod Antistena, Aristipa, Demostena, Timona i Zenona iz Eleje.
+- Anaksagorin zbirni navod II.11 o Homeru, Metrodoru i prvom objavljivanju knjige označen je kao `reported` bez proizvoljne godine; kraći duplikat o Homeru je uklonjen.
+- Kod Empedokla je uklonjen kratki podatak o Gorgijinom učeništvu već sadržan u potpunijem unosu VIII.57–59.
+- Pitakova životna sekvenca potom je usklađena sa istorijskim sidrima i Diogenovim trajanjem: dvoboj sa Frinonom (-607), preuzimanje vlasti (-590), abdikacija posle deset godina (-580) i još deset godina života do -570.
+- Pitakovo obaranje Melanhra sa Alkejevom braćom pomereno je sa `-640` na približno `-612`, u potvrđeni raspon 612–609. p. n. e.
+- Hiparhijina odluka da živi sa Kratom pomerena je iz desete godine života na `-330`, a njena javna filozofska delatnost na `-325`, saglasno uobičajenom datiranju njenog procvata oko 325. p. n. e.
 
-## Hronološki i sadržinski problemi
+## Sačuvane dileme
 
-### Anaksagora — kritično
+Ove slučajeve ne treba automatski rešavati bez odluke o projektnom modelu:
 
-- Unos 2, „Učenik Anaksimena“, smešten je u Anaksagorinu mladost (-480), kada prema projektnom opsegu ima oko dvadeset godina. Time je uređena Anaksagorina vremenska linija, ali ostaje spoljašnja nesaglasnost sa projektnim datumom Anaksimenove smrti (-525); Diogenova tvrdnja se uprkos tome čuva bez ograde.
-- Unos 28 je pretipiziran u `bio`, sveden na sadržaj koji zaista postoji u pripadajućem grčkom tekstu i pomeren na -456.
-- Unos 3 kaže da je imao dvadeset godina pri Kserksovom prelasku preko Helesponta i stoji na -480; to je saglasno rođenju -500.
-- Unos 4 je vezan za Kalijino arhontstvo -456 i sada izričito čuva Demetrijevo pripisivanje. Navod o dvadesetoj godini ostaje izvorna protivrečnost sa opsegom -500–-428.
-- Predviđanje pada meteorskog kamena kod Egospotama pomereno je sa -442 na istorijski potvrđenu godinu pada -467.
-- Suđenje i neposredno povezana vest o smrti sinova pomereni su na približno -433; poslednja želja i smrt u Lampsaku ostaju u -428.
+1. **Anaksimen i Parmenid** — Diogen tvrdi da je Anaksimen slušao Parmenida, ali se njihovi sadašnji životni opsezi ne preklapaju. Po korisnikovoj odluci tvrdnja ostaje i smeštena je u Anaksimenovu mladost.
+2. **Anaksagorina dvadeseta godina** — jedan izvor je vezuje za Kserksov prelazak -480, a Demetrije Falerski za Kalijino arhontstvo -456. Obe atribucije su sačuvane kao izvorna protivrečnost.
+3. **Ksenofan i Empedokle** — razgovor je moguć samo uz vrlo kasnog Ksenofana i veoma mladog Empedokla; postojeća godina -539 je svakako nemoguća, ali nova godina zavisi od prihvaćene životne hronologije.
+4. **Gorgijinih 109 godina** — Diogenov preneti podatak ne poklapa se potpuno sa projektnim opsegom -485–-380; navod je sačuvan kao navod, bez prilagođavanja opsega.
+5. **Zoroaster** — nema zapis u `authors.json`; tri životna ili posthumna predanja ne treba datirati dok se ne izabere projektna hronologija.
+6. **Demokrit i Kserksovi magi** — predanje o magima koje je Kserks ostavio njegovom ocu prethodi projektnom rođenju Demokrita; godina se ne može popraviti bez odluke o tome da li menjati opseg ili označiti legendu.
+7. **Pitagorin posthumni unos** — godina -450 ostaje izvan njegovog života jer je nosilac događaja Filolaj; može se dodatno izdvojiti iz Pitagorine lične vremenske linije ako prikaz bude zahtevao strogo životne događaje.
+8. **Parmenidova hronologija** — Diogen ga smešta na vrhunac u 69. olimpijadi (-504), što se teško slaže sa projektnim rođenjem -515 i kasnijim učeničkim tokom. Izvorno sidro je sačuvano, ali opseg ili tumačenje `ἤκμαζε` zahtevaju odluku.
+9. **Kleantova starost** — Diogenov grčki tekst kaže da je umro sa oko osamdeset godina, dok projektni opseg -330–-232 daje približno devedeset osam. Prevod je usklađen sa izvorom, ali životni opseg ostaje za odluku.
+10. **Ksenofontova smrt** — Diogen je vezuje za prvu godinu 105. olimpijade, arhonta Kalimeda i Filipovo stupanje na vlast, dakle približno -360/-359, dok projektni opseg i postojeći unos koriste -354. Potrebna je odluka da li prednost ima izvorno sidro ili savremeni približni datum smrti.
+11. **Menedemova starost** — projektni opseg -345–-261 daje približno osamdeset četiri godine, dok sačuvani unos po Herakleidu kaže sedamdeset četiri. Treba proveriti godinu rođenja pre menjanja opsega.
+12. **Sokrat i Ksenofont kod Delija** — Diogen II.22 kaže da je Sokrat u bici -424 spasao Ksenofonta koji je pao s konja, ali projektni Ksenofontov opseg počinje -430. Tekst izvora je sačuvan; atribucija ili datum Ksenofontovog rođenja zahtevaju proveru.
+13. **Demokritova smrt** — projektni opseg i dva unosa koriste -370, dok anegdota o toplim hlebovima iz IX.43 ima -383. Pošto antička predanja daju različite starosti i hronologije, datum nije automatski izjednačen bez odluke koja se računica prihvata.
+14. **Epimenidov san** — doslovno predanje o snu od pedeset sedam godina ne može se smestiti u projektni opseg -600–-543 niti uskladiti sa očišćenjem Atine oko -596. Anegdota ostaje približno datirana, ali ne predstavlja pouzdanu hronološku tačku.
+15. **Pitagorina starost** — projektni opseg -570–-495 daje oko sedamdeset pet godina, dok Diogen prenosi Hermipovih osamdeset i Aristoksenovih devedeset. Izvorne varijante su sačuvane, a opseg nije automatski menjan.
+16. **Pitagora posle Ferekidove smrti** — Diogen kaže da se Pitagora tek posle Ferekidove smrti vratio na Samos i potom otišao u Egipat. Trenutni Pitagorin datum -545 prethodi projektnom Ferekidovom kraju -520, dok pomeranje posle -520 remeti postojeći redosled Pitagorinih putovanja; potrebna je odluka o prihvaćenoj hronologiji.
+17. **Protagora i Demokrit** — predanje da je Demokrit prepoznao Protagoru kao nosača i uzeo ga za učenika ne slaže se sa projektnim opsezima: Protagora počinje -490, a Demokrit -460, dok je događaj trenutno u -470. Tekst ostaje kao predanje, a datum i opsezi zahtevaju zajedničku odluku.
+18. **Diogenov rani život** — izgnanstvo iz Sinope (`-400`), dolazak Antistenu (`-399`) i tumačenje proroštva (`-406`) u projektu padaju u Diogenovu šestu do trinaestu godinu, dok savremene rekonstrukcije njegov dolazak u Atinu smeštaju veoma različito, od oko 390. do posle Antistenove smrti. Bez izbora rekonstrukcije datumi nisu automatski pomerani.
+19. **Menedemova mladost** — scenografski zanat, dekret i odlazak iz vojske u Akademiju trenutno su u njegovoj petoj, desetoj i petnaestoj godini. Redosled je izvorno jasan, ali apsolutne godine nisu; potrebno je zajednički pomeriti čitavu ranu sekvencu, ne pojedinačne stavke.
 
-### Anaksimandar — visoki prioritet
+## Zaključak ove provere
 
-- Unos 2 ga već u godini rođenja (-610) predstavlja kao Talesovog učenika. Pomeriti u mladost.
-- Unos 9 otkriće i postavljanje sunčanika datira u -610. To je delo odraslog čoveka i treba ga pomeriti u zrelo doba; po sadržaju je `bio`, ne `anecdote`.
-- Unos 1, identitet i poreklo, može ostati uz godinu rođenja.
-
-### Anaksimen — visoki prioritet
-
-- Unos 2 stavlja učeništvo kod Anaksimandra u godinu rođenja (-585); treba ga pomeriti u mladost.
-- Isti unos prenosi da je slušao Parmenida. Prema `authors.json`, Parmenid je rođen -515, deset godina posle Anaksimenove smrti (-525). To je hronološki nemoguće u sadašnjem modelu i mora ostati jasno označeno kao sporno predanje ili biti odvojeno od pouzdanije biografije.
-
-### Gorgija — visoki prioritet
-
-- Unos 1 u -483 spaja rođenje, učeništvo kod Empedokla, govorništvo i životni vek. Samo rođenje pripada toj godini; unos treba razdvojiti.
-- Unos 2 stavlja Gorgijinu atinsku slavu i učiteljstvo Izokratu u godinu rođenja. Pomeriti u zrelo doba.
-- Unos 8, legenda o rođenju u kovčegu, pravilno pripada rođenju.
-- Unosu 3 nedostaje godina.
-
-### Ksenofan — kritično
-
-- Unosi 2 i 18 dupliraju progonstvo i boravak u Zankli i Katani, oba u godini rođenja (-570). Zadržati jedan unos i pomeriti ga u odraslo doba.
-- Unos 8 je datiran -470, osam godina posle smrti navedene u `authors.json`. Pritom delimično duplira unos 20 iz -509 i unos 21 o sahrani sinova. Ukloniti duplikat i sačuvati događaje odvojeno samo ako imaju različite izvore ili smisao.
-- Razgovor sa Empedoklom u -539 prethodi Empedoklovom rođenju (-494). Njihovi životni opsezi preklapaju se svega približno šesnaest godina, dok je Ksenofan već veoma star; predanje treba označiti kao hronološki problematično, ne samo proizvoljno pomeriti.
-
-### Ksenofont — visoki prioritet
-
-- Unosi 13–15, susret mladog Ksenofonta sa Sokratom i početak učeništva, stoje u godini Ksenofontovog rođenja (-430). Pomeriti ih u mladost, približno oko -410, uz proveru izvora.
-- Unosi 3–4 i 24–25 dupliraju naseljavanje u Skiluntu, imanje i pisanje, svi u -394. Deduplikacija treba da prethodi konačnom datiranju.
-- Opšte karakterne osobine u unosima 7–8 veštački su vezane za -360. Kao `bio` moraju imati godinu, ali tekst treba predstaviti kao osobinu zrelog/dotrajalog života ili ga spojiti sa prikladnijim biografskim unosom, da godina ne izgleda kao datum nastanka osobine.
-
-### Solon — srednji prioritet
-
-- Unosu 7 nedostaje godina; razgovor s Perijandrom može se približno smestiti u Solonovo zrelo doba, ali tek nakon provere redosleda među pričama o sedmorici mudraca.
-- Unos 30, žalost za detetom, vezan je za -558 samo zato što je to godina Solonove smrti. Tekst ne tvrdi da se događaj zbio pred njegovu smrt; dati mu razumnu raniju procenu.
-- Zakonodavstvo je raspoređeno na -592 i -590, uz vrhunac -594. To nije formalno nemoguće, ali više unosa opisuje isti zakonodavni period i treba ih uskladiti oko jedne proverene hronološke tačke, bez privida višestrukih zasebnih zakonodavstava.
-
-### Anaharsid — uređeno prema Diogenovom predanju
-
-- Usvojen je projektni životni opseg -620–-580, koji omogućava Diogenov dolazak u Atinu tokom 47. olimpijade.
-- Susret sa Solonom ostaje u -592, podatak o uzdržljivosti smešten je približno u -590, a povratak i smrt u -580.
-- Ovaj raspored prati unutrašnju hronologiju Diogenovog narativa; savremena istorijska rekonstrukcija smatra susret sa Solonom legendarnim i Anaharsida smešta kasnije u 6. vek p. n. e.
-
-### Pitagora — napomena, ne greška
-
-- Unos 47 iz -450 nalazi se posle Pitagorine smrti, ali govori o Filolajevom kasnijem objavljivanju pitagorejskih knjiga. To je dozvoljeni posthumni događaj. Preporučljivo je da formulacija izričito zadrži Filolaja kao nosioca događaja, kako vremenska linija ne bi delovala kao produženje Pitagorinog života.
-
-### Teofrast — sigurna greška
-
-- Unos 2 kaže da je Teofrast preuzeo školu „po Aristotelovoj smrti“, ali je datiran -343. Aristotel je prema `authors.json` umro -322, pa je događaj postavljen dvadeset jednu godinu prerano. Treba ga smestiti posle -322; tradicionalno preuzimanje Likeja pripada približno toj godini.
-- Isti unos dodaje da je tada, posredstvom Demetrija Falerskog, dobio vrt. Izvorni tekst i prevod treba ponovo razdvojiti: preuzimanje škole i sticanje vrta nisu nužno isti događaj niti ista godina.
-
-## Autori bez životnog opsega
-
-Za sledeće autore nije moguće sprovesti obaveznu proveru `born`–`died`, jer ih nema u `authors.json`:
-
-- **Cleobulus** — dodat je projektni životni opseg -630–-560; dva unosa još nemaju godinu.
-- **Demosthenes** — dodat je opseg -384–-322; početni biografski unos o njegovoj atinskoj slavi pomeren je iz godine rođenja u -355.
-- **Pherecydes** — dodat je projektni opseg -580–-520, a svih pet postojećih unosa je datirano unutar njega.
-- **Zoroaster** — postoje veoma udaljene legendarne godine i posthumna veza sa Demokritom; bez jasno izabrane projektne hronologije ne treba dopunjavati godine napamet.
-
-## Pregled po filozofima
-
-| Filozof | Status | Nalaz / sledeći korak |
-|---|---|---|
-| Anaharsid | uređeno datiranje | Usvojen je Diogenov projektni opseg -620–-580; svi obavezni unosi imaju godinu. |
-| Anaksagora | kritično | Godina rođenja korišćena za učeništvo i atinsku delatnost; sukob s Anaksimenom i sopstvenim uzrastom. |
-| Anaksarh | uređeno | Uklonjena su dva duplikata, a gozba kod Aleksandra pravilno je označena kao anegdota. |
-| Anaksimandar | kritično | Učeništvo i sunčanik pogrešno stavljeni u godinu rođenja. |
-| Anaksimen | kritično | Učeništvo u godini rođenja; Parmenidova veza nemoguća po metapodacima. |
-| Antisten | dorada | Jedan `bio` bez godine; dva `quote` unosa sa godinom i mogućim pogrešnim tipom. |
-| Aristip | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Ariston sa Hiosa | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Aristotel | uredno | Datumi su u životnom opsegu i nema očiglednog pogrešnog redosleda. |
-| Bijant iz Prijene | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Hilon iz Sparte | uglavnom uredno | Formalno uredno; navode o olimpijadama i eforatu vredi proveriti pri izvornoj reviziji. |
-| Hrisip | formalna greška | Šesnaest citata ima nedozvoljenu godinu -250. |
-| Kleant | uredno | Datumi su u opsegu i prirodno raspoređeni. |
-| Kleobul | blokirano metapodacima | Nema `authors.json`; dva unosa nemaju godinu. |
-| Kratet iz Tebe | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Demokrit | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Demosten | uređeno datiranje | Dodat je životni opseg -384–-322; atinska slava više nije smeštena u godinu rođenja. |
-| Diogen | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Empedokle | uredno | Nema formalnih grešaka; procenjene godine ostaju u životnom opsegu. |
-| Epikur | formalna greška | Devet citata ima nedozvoljene godine. |
-| Epimenid | uredno | Datumi su formalno uredni i u projektnom opsegu; legendarna hronologija je već približna. |
-| Eudoks | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Gorgija | kritično | Zrela delatnost smeštena u godinu rođenja; jedan `bio` bez godine. |
-| Hiparhija | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Leukip | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Menedem | dorada tipova | Šest citata ima godinu; mnogo procena je sabijeno u -310 i zahteva prirodniju raspodelu. |
-| Metrokl | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Monim | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Parmenid | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Ferekid | uredno datiranje | Dodat je životni opseg -580–-520; svih pet postojećih unosa ima godinu u tom opsegu. |
-| Pitak | dorada tipova | Četrnaest `quote`/`reported` unosa ima godinu; razdvojiti izreke od anegdotskih razgovora. |
-| Protagora | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Piron | formalna greška | Četiri `quote`/`reported` unosa imaju godinu; pre uklanjanja proveriti jedan po jedan tip. |
-| Pitagora | uredno uz napomenu | Posthumni unos -450 je opravdan Filolajem. |
-| Sokrat | uredno | Datumi su u životnom opsegu i završna sekvenca je dosledna. |
-| Solon | dorada | Jedna anegdota bez godine; događaj o detetu i zakonodavni period treba prerasporediti/proveriti. |
-| Sfer | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Teofrast | kritično | Preuzimanje škole „posle Aristotelove smrti“ pogrešno je datirano -343, pre Aristotelove smrti -322. |
-| Timon iz Flijunta | dorada tipova | Četiri citata imaju godinu i delom izgledaju kao anegdotski razgovori. |
-| Ksenokrat | uredno | Nema formalnih ni očiglednih unutrašnjih hronoloških grešaka. |
-| Ksenofan | kritično | Duplikati, događaji u godini rođenja, jedan datum posle smrti i nemoguć razgovor s nerođenim Empedoklom. |
-| Ksenofont | kritično | Sokratov učenik u godini rođenja; duplirano naseljavanje u Skiluntu. |
-| Zenon iz Kitija | dorada tipova | Dva citata imaju godinu; proveriti da li su zapravo anegdote. |
-| Zenon iz Eleje | uredno | Datumi su u opsegu; alternativna predanja o smrti opravdano dele završnu godinu. |
-| Zoroaster | blokirano metapodacima | Nema životni opseg; tri unosa bez godine i mešanje životnih i posthumnih predanja. |
-
-## Predloženi redosled rada
-
-1. Dodati nedostajuće autore i njihove projektne životne opsege u `authors.json`.
-2. Ispraviti očigledne godine rođenja korišćene za zrele događaje: Anaksagora, Anaksimandar, Anaksimen, Gorgija, Ksenofan i Ksenofont.
-3. Rešiti hronološki nemoguća predanja: Anaksagora–Anaksimen, Anaksimen–Parmenid i Ksenofan–Empedokle.
-4. Dodeliti 13 nedostajućih godina.
-5. Pregledati tipove 60 unosa sa nedozvoljenim `year`; ukloniti godinu sa pravih citata, a narativne epizode pretipizirati u `anecdote` i zadržati razumno datiranje.
-6. Deduplikovati Ksenofana i Ksenofonta pre finog raspoređivanja godina.
-7. Tek zatim proveriti procenjene godine prema lokalnim izvornim odeljcima i istorijskim sidrima.
+Posle ponovljenog pregleda graničnih godina, starosti, olimpijada, istorijskih savremenika, tipova i duplikata nisu ostale nove sigurne ispravke. Dalje menjanje datuma zahteva odluke o 19 gore navedenih predajnih i projektnih nesaglasnosti; njih ne treba rešavati pojedinačnim približavanjem godina.

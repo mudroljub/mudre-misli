@@ -119,19 +119,6 @@
   },
   {
     "type": "quote",
-    "sr": "Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.",
-    "stsl": "Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
-    "originalText": "ἐὰν μὴ λοιδορούμενος προσποιῶμαι, οὐδ' ἐπαινούμενος αἰσθήσομαι.",
-    "author": "Zeno of Elea",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.29"
-      }
-    ]
-  },
-  {
-    "type": "quote",
     "sr": "Ono što se kreće ne kreće se ni u mestu u kojem jeste, ni u mestu u kojem nije.",
     "stsl": "Движѹщеє сѧ не движеть сѧ ни въ мѣстѣ · въ немьже єсть · ни въ немьже нѣсть ·",
     "originalText": "τὸ κινούμενον οὔτ' ἐν ᾧ ἐστι τόπῳ κινεῖται οὔτ' ἐν ᾧ μὴ ἔστιν.",
@@ -151,7 +138,7 @@
       "Zeno of Elea",
       "Parmenides"
     ],
-    "year": -490,
+    "year": -470,
     "originalText": "Ζήνων Ἐλεάτης ἤκουσεν μὲν Παρμενίδου· υἱὸν δ' αὐτὸν ἐποιήσατο, καίπερ ὄντα ἐρώμενον, ὥς φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ.",
     "sources": [
       {
@@ -161,11 +148,10 @@
     ]
   },
   {
-    "type": "bio",
+    "type": "reported",
     "sr": "Aristotel ga smatrao pronalazačem dijalektike, veštine raspravljanja pitanjima i odgovorima.",
     "stsl": "Аристотъель мьнѧаше єго изобрѣтателемъ діалектикꙑ · хѹдожьства прѣниꙗ въпросꙑ и отъвѣтꙑ.",
     "author": "Zeno of Elea",
-    "year": -470,
     "originalText": "Ἀριστοτέλης δ' αὐτὸν διαλεκτικῆς εὑρετὴν ἀποφαίνει.",
     "sources": [
       {
@@ -175,25 +161,10 @@
     ]
   },
   {
-    "type": "bio",
-    "sr": "Ostao u Eleji čitav život; retko posećivao Atinu.",
-    "stsl": "Въ Елеи вьсь животъ прѣбы · рѣдко Атинꙑ посѣштааше.",
-    "author": "Zeno of Elea",
-    "year": -460,
-    "originalText": "Σπανίως ἐφοίτα εἰς τὰς Ἀθήνας· ἐν τῇ πατρίδι διέτριβεν.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.28"
-      }
-    ]
-  },
-  {
-    "type": "bio",
+    "type": "reported",
     "sr": "Prvi izložio dokaz poznat kao 'Ahilej i kornjača' po Diogenu; po Favorinu to je bio Parmenid.",
     "stsl": "Пьрвыи довѣдъ · нарицаємыи Ахиллеи и желвь · изложи по Діогенꙋ · по Фаворинꙋ же то Парменидъ.",
     "author": "Zeno of Elea",
-    "year": -450,
     "originalText": "Ζήνωνα πρῶτον τὸν Ἀχιλλέα λόγον ἠρώτησε· Φαβωρῖνος δέ φησι Παρμενίδην.",
     "sources": [
       {
@@ -203,25 +174,10 @@
     ]
   },
   {
-    "type": "bio",
-    "sr": "Ubijen zbog zavere protiv tiranina Nearha ili Diomedonta; odgrizao jezik i ispljunuo na tiranina.",
-    "stsl": "Ѹбиєнъ бысть ради съмꙑсла протъивѹ мѫчителю Неарха или Діомедонта · ѩзыкъ отъгрꙑзе и на мѫчителꙗ изплева.",
-    "author": "Zeno of Elea",
-    "year": -430,
-    "originalText": "Ἐπιβουλεύσας τυραννοκτονῆσαι Νέαρχον· ἢ Διομέδοντα· τὴν γλῶτταν ἀποδακὼν ἐνέπτυσε τῷ τυράννῳ.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.26-27"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
+    "type": "reported",
     "sr": "Prema jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
     "stsl": "По єдиномѹ прѣданию Зенонъ пьрвъ писа бесѣды вопроса и отъвѣта · Аристотъель же пьрвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
     "author": "Zeno of Elea",
-    "year": -480,
     "originalText": "Διαλόγων πρῶτος γράψαι, ὡς ἔνιοί φασιν. Ἀριστοτέλης δέ φησιν Ἀλεξαμενὸν τὸν Στυρίτην ἢ Τήϊον.",
     "sources": [
       {

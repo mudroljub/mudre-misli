@@ -2,9 +2,37 @@
   {
     "type": "bio",
     "year": -360,
-    "sr": "Piron iz Elide, sin Pleistarhov. Prethodno je bio slikar, slušao je Brisona, sina Stilponovog, potom Anaksarha, prateći ga svuda, tako da je bio sa gimnosofistima u Indiji i sa magima. Odatle je izgleda najplemenitije filozofirao, uvodeći oblik nesaznatljivosti i suzdržanja od suda.",
-    "stsl": "Пѵронъ отъ Єліда · сынъ Плєістарховъ · Прєждє бѣ слікарь · слѹшааше Врѵсона сꙑна Стілпонова · послѣди Анаѯарха · слѣдꙋꙗ га вьсѭдѹ · тако да бѣ съ гѵмнософістꙑ въ Індіи і съ магі · Отъ того ізглєда наиплємєнитѣишє любомѫдрствоваашє · вводꙗ образъ нєсъзнатьливости і въздрьжаніꙗ отъ сѫда.",
-    "originalText": "Πύρρων Ἠλεῖος Πλειστάρχου μὲν ἦν υἱός. πρότερον ἦν ζωγράφος, καὶ ἤκουσε Βρύσωνος τοῦ Στίλπωνος, εἶτ' Ἀναξάρχου, ξυνακολουθῶν πανταχοῦ, ὡς καὶ τοῖς γυμνοσοφισταῖς ἐν Ἰνδίᾳ συμμῖξαι καὶ τοῖς Μάγοις. ὅθεν γενναιότατα δοκεῖ φιλοσοφῆσαι, τὸ τῆς ἀκαταληψίας καὶ ἐποχῆς εἶδος εἰσαγαγών.",
+    "sr": "Piron iz Elide bio je sin Pleistarhov.",
+    "stsl": "Пиронъ отъ Елидꙑ · сынъ Плеистарховъ бѣ ·",
+    "originalText": "Πύρρων Ἠλεῖος Πλειστάρχου μὲν ἦν υἱός.",
+    "author": "Pyrrho",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.61"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -340,
+    "sr": "Najpre je bio slikar.",
+    "stsl": "Пьрвѣє живописьць бѣ ·",
+    "originalText": "πρότερον ἦν ζωγράφος.",
+    "author": "Pyrrho",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.61"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -327,
+    "sr": "Slušao je Brisona, Stilponovog sina, a zatim Anaksarha, koga je svuda pratio, susrevši se i sa gimnosofistima u Indiji i sa magima.",
+    "stsl": "Брисона · Стилпонова сына · слѹшааше · потомь же Анаксарха · ємѹ всюдѹ послѣдѹѩ · тако и съ гимнософисты въ Индии и съ магы съвъкѹпи сѧ ·",
+    "originalText": "καὶ ἤκουσε Βρύσωνος τοῦ Στίλπωνος, εἶτ' Ἀναξάρχου, ξυνακολουθῶν πανταχοῦ, ὡς καὶ τοῖς γυμνοσοφισταῖς ἐν Ἰνδίᾳ συμμῖξαι καὶ τοῖς Μάγοις.",
     "author": "Pyrrho",
     "sources": [
       {
@@ -15,7 +43,19 @@
   },
   {
     "type": "reported",
-    "year": -330,
+    "sr": "Iz tog iskustva, čini se, proistekao je njegov uzvišen način filozofiranja: uveo je nesaznatljivost i uzdržavanje od suda.",
+    "stsl": "Отъ сего искѹса · ꙗкоже видитъ сѧ · възвышенъ образъ любомѫдрия єго произиде · несъзнатьливость и въздрьжание отъ сѫда въведе ·",
+    "originalText": "ὅθεν γενναιότατα δοκεῖ φιλοσοφῆσαι, τὸ τῆς ἀκαταληψίας καὶ ἐποχῆς εἶδος εἰσαγαγών.",
+    "author": "Pyrrho",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.61"
+      }
+    ]
+  },
+  {
+    "type": "reported",
     "sr": "Govorio je da ništa nije ni lepo ni ružno, ni pravedno ni nepravedno; i slično o svemu, da ništa ne postoji po istini, već ljudi sve čine po zakonu i običaju; jer svaka stvar nije ništa više ovo nego ono.",
     "stsl": "Глаголаашє ꙗко ничтоже нєсть ни лѣпо ни грозьно · ни правьдьно ни нєправьдьно · і подобьно о всємь · ꙗко ничтоже нє сѫщєствѹєть по істинѣ · нъ чловѣци всє творѧть по законѹ і обꙑчаю · нє бо єсть вєщь ничтоже паче сє нєжєли оно.",
     "originalText": "οὐδὲν γὰρ ἔφασκεν οὔτε καλὸν οὔτ' αἰσχρὸν οὔτε δίκαιον οὔτ' ἄδικον· καὶ ὁμοίως ἐπὶ πάντων μηδὲν εἶναι τῇ ἀληθείᾳ, νόμῳ δὲ καὶ ἔθει πάντα τοὺς ἀνθρώπους πράττειν· οὐ γὰρ μᾶλλον τόδε ἢ τόδε εἶναι ἕκαστον.",
@@ -43,7 +83,6 @@
   },
   {
     "type": "quote",
-    "year": -320,
     "sr": "Vežbam da budem dobar.",
     "stsl": "Въжбамъ да бѫдѫ довръ.",
     "originalText": "μελετᾶν χρηστὸς εἶναι.",
@@ -85,7 +124,6 @@
   },
   {
     "type": "quote",
-    "year": -320,
     "sr": "Nije na ženi pokazivanje ravnodušnosti.",
     "stsl": "Нє є на жєнѣ показꙑваніє равнодѹшіꙗ.",
     "originalText": "οὐκ ἐν γυναίῳ ἡ ἐπίδειξις τῆς ἀδιαφορίας.",
@@ -99,7 +137,6 @@
   },
   {
     "type": "quote",
-    "year": -320,
     "sr": "Teško je potpuno se osloboditi čoveka; ali treba se boriti koliko je moguće, prvo delima prema stvarima, a ako ne, barem rečima.",
     "stsl": "Тєжко єсть потъпѹно сѧ освободити чловѣка · нъ подобаєть сѧ боріті єлико є можьно · пръво дѣлꙑ къ вєщємь · ащє жє ни · ꙗко бꙑ словєсꙑ.",
     "originalText": "χαλεπὸν εἴη ὁλοσχερῶς ἐκδῦναι τὸν ἄνθρωπον· διαγωνίζεσθαι δ' ὡς οἷόν τε πρῶτον μὲν τοῖς ἔργοις πρὸς τὰ πράγματα, εἰ δὲ μή, τῷ γε λόγῳ.",

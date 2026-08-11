@@ -2,9 +2,37 @@
   {
     "type": "bio",
     "year": -279,
-    "sr": "Hrizip, sin Apolonija, iz Sola ili Tarsa, učenik Kleanta. Prethodno je bio trkač na duge staze, potom je slušao Zenona ili Kleanta i dok je ovaj još živeo, otišao je od njega i postao izvanredan u filozofiji.",
-    "stsl": "Хрісіпъ · сынъ Аполоніа · Отъ Сола или Тарса · ѹченікъ Клєанта · Прєждє бѣ трькачь на дльгꙑ стьзі · послѣди слѹшааше Зєнона или Клєанта і єгда сєі єщє жівꙗашє · Отъідє отъ нєго і быстъ іѯванрєдьнъ въ любомѫдріи.",
-    "originalText": "Χρύσιππος Ἀπολλωνίου Σολεύς, ἢ Ταρσεὺς, μαθητὴς Κλεάνθους. Οὗτος πρότερον μὲν δόλιχον ἤσκει, ἔπειτ' ἀκούσας Ζήνωνος ἢ Κλεάνθους, ἔτι τε ζῶντος ἀπέστη αὐτοῦ καὶ οὐχ ὁ τυχὼν ἐγένετο κατὰ φιλοσοφίαν.",
+    "sr": "Hrisip, sin Apolonijev, bio je iz Sola ili Tarsa.",
+    "stsl": "Хрисипъ · сынъ Аполониевъ · отъ Сола или Тарса бѣ ·",
+    "originalText": "Χρύσιππος Ἀπολλωνίου Σολεύς, ἢ Ταρσεὺς.",
+    "author": "Chrysippus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.179"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -260,
+    "sr": "U mladosti je vežbao trčanje na duge staze.",
+    "stsl": "Въ юности на дългѹ стьзѹ тръчание упражнꙗаше ·",
+    "originalText": "Οὗτος πρότερον μὲν δόλιχον ἤσκει.",
+    "author": "Chrysippus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.179"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -250,
+    "sr": "Slušao je Zenona ili Kleanta. Još za Kleantova života odvojio se od njega i postao izvanredan u filozofiji.",
+    "stsl": "Зенона или Клеанта слѹшааше · Єште Клеантѹ живѹ сѹштѹ · отъ него отъиде и изрѧдьнъ въ любомѫдрии бысть ·",
+    "originalText": "μαθητὴς Κλεάνθους. ἔπειτ' ἀκούσας Ζήνωνος ἢ Κλεάνθους, ἔτι τε ζῶντος ἀπέστη αὐτοῦ καὶ οὐχ ὁ τυχὼν ἐγένετο κατὰ φιλοσοφίαν.",
     "author": "Chrysippus",
     "sources": [
       {
@@ -164,20 +192,33 @@
   {
     "type": "bio",
     "year": -260,
-    "sr": "Seneka piše o njemu da je bio čovek najoštrije inteligencije, nije se zadovoljio naukom jedne škole, već je istraživao mišljenja svih filozofa. Bio je tako postojan i hrabar da je, kada je čuo da je Kleant tada vođa stoika, napustio sve druge učitelje i prišao Kleantu. Pod njim je toliko napredovao da je posle njegove smrti upravljao stoičkom školom.",
-    "stsl": "Сєнєка пішєть о нємь · ꙗко бѣ мѫжь прѣострааго ѹма · нє доволꙗашє сѧ наѹкѫ єдиноꙗ школꙑ · но іспытааашє мьнѣніꙗ всѣхъ любомѫдрьць. Бѣ тѹжє тако стоꙗнъ і храбръ · ꙗко єгда слꙑша да Клєантъ тогда бѣ начальникъ стоікъ · остаоі всѧ іныꙗ ѹчітєлѩ і прідє къ Клєантѹ. Подъ німь тако прѣспѣ · ꙗко по смрьті єго правꙗашє стоічьскѫ школѫ.",
-    "originalText": "De hoc scribit Seneca quod fuit vir acerrimi ingenii, nec ad unius sectæ disciplinam contentus, sed omnes philosophorum opiniones perscrutatus est. Fuitque tantæ constantiæ et fortitudinis ut cum audivisset a quodam Stoicorum principem tunc esse Cleanthem, reliquit omnes alios magistros et se contulit ad Cleanthem. Sub quo tantum profecit quod post mortem eius scholam Stoicorum regebat.",
+    "sr": "Seneka piše da je bio čovek veoma oštra uma: nije se zadovoljio učenjem jedne škole, nego je istraživao mišljenja svih filozofa. Kada je čuo da je Kleant tada na čelu stoika, napustio je druge učitelje i prišao njemu.",
+    "stsl": "Сенека пишеть · ꙗко мѫжь прѣостра ѹма бѣ · не ѹчениемь єдиноѩ школꙑ доволꙗаше сѧ · нъ мьнѣния вьсѣхъ любомѫдрьць испытааше · Єгда слꙑша · ꙗко Клеантъ тогда стоикомъ начальствѹєть · иныѩ ѹчителѩ остави и къ немѹ приста ·",
+    "originalText": "De hoc scribit Seneca quod fuit vir acerrimi ingenii, nec ad unius sectæ disciplinam contentus, sed omnes philosophorum opiniones perscrutatus est. Fuitque tantæ constantiæ et fortitudinis ut cum audivisset a quodam Stoicorum principem tunc esse Cleanthem, reliquit omnes alios magistros et se contulit ad Cleanthem.",
     "author": "Chrysippus",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -232,
+    "sr": "Pod Kleantom je toliko napredovao da je posle njegove smrti preuzeo upravljanje stoičkom školom.",
+    "stsl": "Подъ Клеантомь тако прѣѹспѣ · ꙗко по смрьти єго стоичьскоѭ школоѭ правити нача ·",
+    "originalText": "Sub quo tantum profecit quod post mortem eius scholam Stoicorum regebat.",
+    "author": "Chrysippus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Više se boj zločina nego štete.",
     "stsl": "Болє боі сѧ ꙁълодѣꙗніꙗ нєжє ѹщрьба.",
     "originalText": "Magis formida crimen quam dampnum.",
@@ -185,13 +226,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Treba se plašiti lošeg izlaska iz života, ali vrlinski sramote u životu.",
     "stsl": "Боꙗті сѧ подобаєть ꙁлааго ісхода іꙁъ жітіꙗ · алі добродѣтєльно срамотъꙑ въ жітіі.",
     "originalText": "Docet quidem formidare unumquemque malum vitæ exitum, virtuose vero ignominiam vite.",
@@ -199,13 +239,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Ako ti se ikada dogodi da budeš u smrtnoj opasnosti, čuvaj svoj spas u dobrom mišljenju, a ne sa sramotom, jer sudbina je svima izrekla smrtnu presudu, ali dobro umreti priroda je dala kao dar vrlim ljudima.",
     "stsl": "Аштє тѧ кѣгда постігнєть пріті въ смръртноѹ опасность · тѹі спасєніє своє въ мьнѣніі доброємь · а нє съ бєсчьстіємь · ꙗко сѫдьба бо всімъ вꙑрєчє смръртьнѫ прісѫдѫ · алі добрѣ ѹмрѣті єстество подаде ꙗко даръ добродѣтєльнꙑмъ.",
     "originalText": "Si quando tibi contingat mortis periculo intentari salutem tuam in opinione bona tuere, non autem cum infamia, nam mort quidem fortuna in omnes sentenciam promulgavit, bene autem mori naturæ propriæ virtuosis attribuit.",
@@ -213,13 +252,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "U odeći nemoj biti ni raskošan ni preterano pažljiv.",
     "stsl": "Въ ризахъ нємоі бꙑті ні прѣвєлікѫ ні прѣмьрьно пажьлівъ.",
     "originalText": "In vestibus neque magnificus sis neque curiosus.",
@@ -227,13 +265,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Preziri one koji su zabrinuti zbog bogatstva koji ne uživaju u onome što poseduju, jer se tada ponašaju kao onaj ko ima dobrog konja, ali ne zna da jaše.",
     "stsl": "Прєꙁрі брѣгѫщꙗꙗ о богатьствѣ · ніжє нє радѹѭть сѧ отъ обладаємааго · ꙗко тогда подобьни сѫть томѹ · іжє має конꙗ блага · алі нє вѣсть ꙗсдіті.",
     "originalText": "Contempne solicitos erga divitias, nequienties ubi in possessis, nam idem tunc pacinatur sicut si quis equum bonum habeat, prave sciena equitare.",
@@ -241,13 +278,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Treba se truditi ako si ljubitelj mudrosti.",
     "stsl": "Трѹдъ пріложіті подобаєть · аштє єсі любітєль мѫдрості.",
     "originalText": "Strenue ages si fueris amator sapienciæ.",
@@ -255,13 +291,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Ono što znaš čuvaj kroz čitanje, a ono što još nisi naučio stekni kroz učenje.",
     "stsl": "Єжє вѣсі съхранꙗі чітаніємь · єжє жє ещє нє наѹчі сѧ стѧжаі ѹчєніємь.",
     "originalText": "Que nosti conserva lectionibus, que vero bondum didicisti disciplinis acquire.",
@@ -269,13 +304,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Jednako je loše i ne učiti i ništa dobro dato od prijatelja ne primiti.",
     "stsl": "Равьно єсть ꙁло · і нє ѹчіті сѧ · і ничтожє благо данно отъ дрѹга нє пріꙗті.",
     "originalText": "Eque addi alterum est optimus unde non addiscere et quicquid boni datum ab amicia nullatenus acceptare.",
@@ -283,13 +317,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Koristi takav zakon prema greš nicima kakav bi želeo da se primeni na tebe.",
     "stsl": "Твори такъ ꙁаконъ къ грѣшьнікомъ · каковъ бі въжбалъ да сѧ творі тєбѣ.",
     "originalText": "Ita equa lege utere in peccantes ut utique in te reuni.",
@@ -297,13 +330,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Budi jedan sudija kada sudiš drugima, a drugi kada sudiš sebi.",
     "stsl": "Бѫді єдінъ сѫдіꙗ єгда сѫдіші іньнꙑмъ · а дрѹгъ єгда сѫдіші сєбѣ.",
     "originalText": "Ergo, alius iudices sit alius erga te indicare oportet.",
@@ -311,13 +343,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Ne voli nenamernu smeh, niti primaj reč sa ogorčenošću. Jedno je bezumno, drugo hladno.",
     "stsl": "Нє любі прѣнаглааго смѣха · ніжє пріємлі слово съ горьчавостіѭ. Єдно єсть бєꙁѹмьно · дрѹго жє хладьно.",
     "originalText": "Nec risum precipitem diligas, nec verbum cum acrimonia acceptes. Illud enim amens, hoc vero frigosum est.",
@@ -325,13 +356,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Čuvaj više reči nego stvari.",
     "stsl": "Съхранꙗі болє словъ нєжє вєщьі.",
     "originalText": "Serra magis verborum quam rerum deposita.",
@@ -339,13 +369,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Ne stekni prijatelja pre nego što ispitaš kako se ponašao prema prethodnim prijateljima, jer možeš verovati da ćeš takav i ti biti kakav je bio prema njima.",
     "stsl": "Нє стѧжаі дрѹга прѣждє нєжє іспытаєші · како сѧ прѣдръжашє къ прѣждьнімъ дрѹгомъ · ꙗко можєші вѣроваті · да таковъ і тꙑ бѫдєші · каковъ бѣ къ німъ.",
     "originalText": "Neminem amicum concilies priusquam perconcteris quo pacto se gesserit erga priacos amicos, credas enim prius te huiusmodi futurum cuiusmodi erga illos fuit.",
@@ -353,13 +382,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Polako postani prijatelj, ali kada to postaneš, nastoj da ostaješ, jer jednako je loše i ne imati prijatelja i mnogo ih menjati.",
     "stsl": "Помалѹ бѫді дрѹгъ · алі бꙑвъ настоꙗі да пръбꙑваєші · ꙗко равьно єсть ꙁло · і нє імѣті дрѹга · і многа мѣнꙗті.",
     "originalText": "Lentulus fias amicus, factus autem perseverare nitaris, eque enim malum est nullum habere amicum et multos mutare et alterare.",
@@ -367,13 +395,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "O onima koje želiš da učiniš prijateljima, reci nešto dobro.",
     "stsl": "О тꙑхъ · ꙗжє хоштєші сътворіті дрѹгꙑ · рьці нѣчто благо.",
     "originalText": "Quoscumque velis tibi amicos facere, de hiis aliquid boni profer.",
@@ -381,13 +408,12 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   },
   {
     "type": "quote",
-    "year": -250,
     "sr": "Zlato se proverava u vatri.",
     "stsl": "Ꙁлато іспꙑтѹєть сѧ въ огнѣ.",
     "originalText": "Aurum in igne probas.",
@@ -395,7 +421,7 @@
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "XXIX"
+        "reference": "Cap. XXIX"
       }
     ]
   }

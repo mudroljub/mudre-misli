@@ -109,7 +109,9 @@ Primeri: `неже ли` umesto `нежели`, `тако же` umesto `тако
 
 ## Ritam i duh staroslovenske rečenice
 
-**Najvažnije:** Slediti duh i ritam stare slovenske rečenice, ne samo grafiju i terminologiju.
+Najvažnije: Slediti duh i ritam stare slovenske rečenice, ne samo grafiju i terminologiju.
+
+Za završno sažimanje i oblikovanje prevoda primenjivati postupak iz [KLESANJE_PREVODA.md](KLESANJE_PREVODA.md).
 
 Staroslovenska filozofska rečenica je:
 
@@ -320,4 +322,6 @@ Kada se donese nova terminološka odluka, prvo je uneti u rečnik, a zatim je pr
 
 ## Primeri dobrih prevoda
 
-Vidi [PRIMERI.md](PRIMERI.md)
+Za uzore kratke, prirodne i sažete staroslovenske rečenice koristiti [isus.json](data/sources/corpus/isus.json).
+
+Za primere naših prevoda vidi [PRIMERI.md](PRIMERI.md)

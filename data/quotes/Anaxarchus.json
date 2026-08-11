@@ -2,9 +2,37 @@
   {
     "type": "bio",
     "year": -380,
-    "sr": "Anaksarh iz Abdere. Slušao je Diogena iz Smirne, a ovaj Metrodora sa Hija koji je govorio da ne zna čak ni to da ništa ne zna. Bio je sa Aleksandrom i procvetao za vreme stodесете olimpijade. Imao je neprijatelja Nikokteonta, tiranina Kipra.",
-    "stsl": "Анаѯархъ отъ Авдєрꙑ · Слѹшааше Діогєна отъ Смѵрнꙑ · а сєі Мєтродора отъ Хіа ꙇжє глаголаашє ꙗко нє вѣсть паче ни то ꙗко ничтоже вѣсть · Бѣ съ Алеѯандромь і процвѣтє за врємѧ стотъꙑѩ дєсѧтꙑѩ олѵмпіадꙑ · Імꙗашє нєприꙗтєлꙗ Нікокреонта · тѵранна Кѵпра.",
-    "originalText": "Ἀνάξαρχος Ἀβδηρίτης. οὗτος ἤκουσε Διογένους τοῦ Σμυρναίου· ὁ δὲ Μητροδώρου τοῦ Χίου, ὃς ἔλεγε μηδ' αὐτὸ τοῦτ' εἰδέναι ὅτι οὐδὲν οἶδε. ὁ δ' οὖν Ἀνάξαρχος καὶ Ἀλεξάνδρῳ συνῆν καὶ ἤκμαζε κατὰ τὴν δεκάτην καὶ ἑκατοστὴν Ὀλυμπιάδα καὶ εἶχεν ἐχθρὸν Νικοκρέοντα τὸν Κύπρου τύραννον.",
+    "sr": "Anaksarh je bio iz Abdere.",
+    "stsl": "Анаѯархъ отъ Авдерꙑ бѣ ·",
+    "originalText": "Ἀνάξαρχος Ἀβδηρίτης.",
+    "author": "Anaxarchus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.58"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -350,
+    "sr": "Slušao je Diogena iz Smirne, a ovaj Metrodora sa Hija, koji je govorio da ne zna čak ni to da ništa ne zna.",
+    "stsl": "Диогена отъ Смирнꙑ слѹшааше · сеи же Метрoдора отъ Хиа · иже глаголааше ꙗко ни сего не вѣсть · ꙗко ничтоже вѣсть ·",
+    "originalText": "οὗτος ἤκουσε Διογένους τοῦ Σμυρναίου· ὁ δὲ Μητροδώρου τοῦ Χίου, ὃς ἔλεγε μηδ' αὐτὸ τοῦτ' εἰδέναι ὅτι οὐδὲν οἶδε.",
+    "author": "Anaxarchus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.58"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -340,
+    "sr": "Bio je uz Aleksandra i bio na vrhuncu u 110. olimpijadi; neprijatelj mu je bio Nikokreont, tiranin Kipra.",
+    "stsl": "Съ Александромь бѣ и въ сто и десѧтѣи олимпиадѣ процвѣте · Неприꙗтель же ємѹ бѣ Никокреонтъ · тиранъ Кипра ·",
+    "originalText": "ὁ δ' οὖν Ἀνάξαρχος καὶ Ἀλεξάνδρῳ συνῆν καὶ ἤκμαζε κατὰ τὴν δεκάτην καὶ ἑκατοστὴν Ὀλυμπιάδα καὶ εἶχεν ἐχθρὸν Νικοκρέοντα τὸν Κύπρου τύραννον.",
     "author": "Anaxarchus",
     "sources": [
       {

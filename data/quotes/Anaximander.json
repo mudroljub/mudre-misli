@@ -15,7 +15,7 @@
   },
   {
     "type": "bio",
-    "year": -610,
+    "year": -590,
     "sr": "Talesov učenik Anaksimander.",
     "stsl": "Фалесовъ бо ѹченикъ Анаксимандръ ·",
     "originalText": "Θαλοῦ μὲν γὰρ Ἀναξίμανδρος.",
@@ -29,7 +29,7 @@
   },
   {
     "type": "bio",
-    "year": -546,
+    "year": -547,
     "sr": "Kaže se da je u Letopisima navedeno kako je u drugoj godini pedeset osme olimpijade imao šezdeset četiri godine, i ubrzo zatim preminuo, cvetavši najviše za vreme Polikrata, tiranina Samosa.",
     "stsl": "Глаголєть же ꙗко въ Лѣтописьцихъ · во второмъ лѣтѣ пѧтьдесѧтыѩ и осмыѩ Ѡлѵмпіады бѣ шестьдесѧть четыри лѣта · и вскорѣ потъомь прѣстави сѧ · процвѣтѧвъ паче вьсего при Поликратѣ тѹраннѣ Самьсцѣмь ·",
     "originalText": "Καί φησίν αὐτὸν ἐν τοῖς Χρονικοῖς τῷ δευτέρῳ ἔτει τῆς πεντηκοστῆς ὀγδόης Ὀλυμπιάδος ἐτῶν εἶναι ἑξήκοντα τεττάρων καὶ μετ' ὀλίγον τελευτῆσαι ἀκμάσαντά πη μάλιστα κατὰ Πολυκράτην τὸν Σάμου τύραννον.",
@@ -107,12 +107,12 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Prvi je otkrio sunčanik i postavio ga na sunčanicima u Lakedemonu, kako kaže Favorin u Različnoj povesti, da obeležava obrate i ravnodnevice; načinio je i časomere.",
     "stsl": "Обрѣте же и съльньчьникъ първъ · и постави на сѣноловищихъ въ Лакедемонѣ · ꙗкоже глаголєть Фаворинъ въ Різличьнѣмь повѣсти · ꙁнаменаѭща повратꙑ и равноденьѥ · и часомѣры сътвори ·",
     "originalText": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τροπάς τε καὶ ἰσημερίας σημαίνοντα· καὶ ὡροσκόπια κατεσκεύασε.",
     "author": "Anaximander",
-    "year": -610,
+    "year": -575,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -140,7 +140,7 @@
     "stsl": "Сего глаголѭтъ пѣѭща посмѣꙗхѹ сѧ отърокꙑ · онъ же разѹмѣвъ рече · Лѹче ѹбо намъ пѣти рада отърокъ ·",
     "originalText": "τούτου φασὶν ᾄδοντος καταγελάσαι τὰ παιδάρια, τὸν δὲ μαθόντα φάναι, « βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια. »",
     "author": "Anaximander",
-    "year": -546,
+    "year": -560,
     "sources": [
       {
         "name": "diogenes-laertius",

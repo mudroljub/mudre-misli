@@ -38,6 +38,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "V.2"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.4"
       }
     ]
   },
@@ -492,7 +496,7 @@
     "sr": "Platon je govorio da ga Aristotel odbacuje kao što ždrebe udara majku koja ga je okotila.",
     "stsl": "Платонъ глаголаше · ꙗко Аристотъель єго отърицаєть · ꙗкоже жребѧ мати · ѩже єго роди · ногами бієть ·",
     "author": "Aristotle",
-    "year": -384,
+    "year": -350,
     "originalText": "Πλάτων δ' αὐτὸν λακτίζειν ἔλεγεν ὥσπερ τὰ πῶλα τὰς μητέρας.",
     "sources": [
       {
@@ -502,11 +506,11 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Kada je napustio Akademiju, Aristotel je u Likeju šetajući sa učenicima raspravljao o filozofiji, pa su njega i školu po tome zvali peripatetičkim.",
     "stsl": "Єгда Академию остави · Аристотъель въ Ликеи ходѧ съ ѹченики о любомѫдрии прѣніє творѧше · и по томь и самъ и школа перипатєтичьскы наречени быша ·",
     "author": "Aristotle",
-    "year": -376,
+    "year": -335,
     "originalText": "Μεταστὰς δὲ εἰς τὸ Λύκειον περιπατῶν ἐφιλοσόφει μετὰ τῶν μαθητῶν μέχρι ἀλειπτικῆς ὥρας.",
     "sources": [
       {
@@ -517,24 +521,10 @@
   },
   {
     "type": "anecdote",
-    "sr": "Aristotel je bio učitelj Aleksandra, isposlovao je obnovu razorenog Stagira i dao zakone njegovim stanovnicima.",
-    "stsl": "Аристотъель ѹчитель Александровъ бысть · създаніє разорєнаго Стагиры исходатаиствова и законы єго жителємъ даде ·",
-    "author": "Aristotle",
-    "year": -368,
-    "originalText": "Ἀλεξάνδρου γενόμενος διδάσκαλος ᾔτησεν αὐτὸν τὴν Στάγειραν ἀνακτίσαι κατεσκαμμένην.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.4"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
     "sr": "Kada je Kalisten slobodnije govorio Aleksandru, Aristotel ga je upozorio stihom da će kratko živeti; ubrzo je Kalisten završio tragično.",
     "stsl": "Єгда Каллѵсѳєнъ свободьнѣ къ Алєѯандрѹ глаголаашє · Аристотъєль рѣчиѩ ѥго прѣдостєрєжє · ꙗко кратъко поживєтъ · въскорѣ Каллѵсѳєнъ лютѫ коньчинѫ приꙗтъ ·",
     "author": "Aristotle",
-    "year": -361,
+    "year": -327,
     "originalText": "Καλλισθένους δὲ ἐλευθεριάζοντος πρὸς τὸν Ἀλέξανδρον ἔφη πρὸς αὐτόν· « Ὀψὲ καὶ ταχέως λαλήσεις. »",
     "sources": [
       {
@@ -586,11 +576,11 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Optužen za bezbožnost zbog himne Hermiji, Aristotel se povukao iz Atine u Halkidu.",
     "stsl": "Въ безбожии за пѣснь Херміи обвиненъ · Аристотъель изъ Атинъ въ Халкідѫ отъиде ·",
     "author": "Aristotle",
-    "year": -330,
+    "year": -323,
     "originalText": "Ἀσεβείας δὲ γραφεὶς ἐξεχώρησεν εἰς Χαλκίδα, μεμνημένος τῶν Σωκράτει συμβάντων καὶ οὐκ ἐῶν Ἀθηναίους δὶς εἰς φιλοσοφίαν ἐξαμαρτεῖν.",
     "sources": [
       {
@@ -600,7 +590,7 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Aristotel je u oporuci naložio brigu o deci, oslobađanje više robova i da njegove kosti budu položene uz kosti Pitijade, po njenoj želji.",
     "stsl": "Аристотъель въ завѣштании заповѣда о дѣцѣхъ попечєніє · мнозѣхъ рабовъ освобождєніє и да кости єго при костехъ Пѵѳіады положени бѫдѫть · по єѧ воли ·",
     "author": "Aristotle",

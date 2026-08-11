@@ -2,9 +2,37 @@
   {
     "type": "bio",
     "year": -320,
-    "sr": "Timon, sin Timarhov, iz Fliunta. Mlad je bio napušten i igrao, potom osudivši to otputovao u Megaru kod Stilpona. S njim proboravivši vratio se kući i oženio se. Zatim otputovao kod Pirona u Elidu sa ženom i tamo boravio dok mu se nisu rodila deca.",
-    "stsl": "Тімонъ · сынъ Тімарховъ · Отъ Фліѹнта · Младъ бѣ напѹщєнъ і іграашє · послѣди осѹдивъ то отъпѫтова въ Мєгарѹ къ Стілпонѹ · Съ нимь поборавивъ въꙁвраті сѧ домѹ і ожєні сѧ · Потъомь отъпѫтова къ Пѵронѹ въ Єліда съ жєноѭ і тамо боравꙗашє до́ндєжє ємѹ сѧ родишѧ чѧда.",
-    "originalText": "Τίμωνα εἶναι πατρὸς μὲν Τιμάρχου, Φλιάσιον δὲ τὸ γένος· νέον δὲ καταλειφθέντα χορεύειν, ἔπειτα καταγνόντα ἀποδημῆσαι εἰς Μέγαρα πρὸς Στίλπωνα· κἀκείνῳ συνδιατρίψαντα αὖθις ἐπανελθεῖν οἴκαδε καὶ γῆμαι. εἶτα πρὸς Πύρρωνα εἰς Ἦλιν ἀποδημῆσαι μετὰ τῆς γυναικὸς κἀκεῖ διατρίβειν ἕως αὐτῷ παῖδες ἐγένοντο.",
+    "sr": "Timon, sin Timarhov, bio je iz Fliunta.",
+    "stsl": "Тимонъ · сынъ Тимарховъ · отъ Флиѹнта бѣ ·",
+    "originalText": "Τίμωνα εἶναι πατρὸς μὲν Τιμάρχου, Φλιάσιον δὲ τὸ γένος.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.109"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -300,
+    "sr": "Ostavši mlad bez roditelja, bio je igrač; zatim je napustio taj život i otišao u Megaru kod Stilpona.",
+    "stsl": "Младъ безъ родителю оставъ · играць бѣ · потомь же сего жития отъвръгъ сѧ и въ Мегарѫ къ Стилпонѹ отъиде ·",
+    "originalText": "νέον δὲ καταλειφθέντα χορεύειν, ἔπειτα καταγνόντα ἀποδημῆσαι εἰς Μέγαρα πρὸς Στίλπωνα.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.109"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -290,
+    "sr": "Pošto je boravio kod Stilpona, vratio se kući i oženio. Potom je sa ženom otišao Pironu u Elidu i tamo ostao dok mu se nisu rodila deca.",
+    "stsl": "Ѹ Стилпона прѣбывъ · домѹ сѧ възврати и ожени сѧ · Потомь съ женоѭ къ Пиронѹ въ Елидѫ отъиде и тамо прѣбысть · дондеже ємѹ чѧда родишѧ сѧ ·",
+    "originalText": "κἀκείνῳ συνδιατρίψαντα αὖθις ἐπανελθεῖν οἴκαδε καὶ γῆμαι. εἶτα πρὸς Πύρρωνα εἰς Ἦλιν ἀποδημῆσαι μετὰ τῆς γυναικὸς κἀκεῖ διατρίβειν ἕως αὐτῷ παῖδες ἐγένοντο.",
     "author": "Timon of Phlius",
     "sources": [
       {
@@ -56,20 +84,6 @@
     ]
   },
   {
-    "type": "quote",
-    "year": -280,
-    "sr": "Ako bi nailazio na stare prepise, a ne na već ispravljene.",
-    "stsl": "Ащє бі наілазілъ на старꙑꙗ прєпісꙑ · а нє на южє ісправлєнꙑꙗ.",
-    "originalText": "εἰ τοῖς ἀρχαίοις ἀντιγράφοις ἐντυγχάνοι καὶ μὴ τοῖς ἤδη διωρθωμένοις.",
-    "author": "Timon of Phlius",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.113"
-      }
-    ]
-  },
-  {
     "type": "anecdote",
     "year": -270,
     "sr": "Kažu da je Arato upitao ga kako bi sigurno stekao Homerovu poeziju, a on rekao je: 'Ako bi nailazio na stare prepise, a ne na već ispravljene.'",
@@ -85,7 +99,6 @@
   },
   {
     "type": "quote",
-    "year": -270,
     "sr": "Što dolazite ovamo, gde smo mi slobodni?",
     "stsl": "Чєсо ради пріходитє сѣмо · идѣжє ємꙑ своводьни.",
     "originalText": "τί σὺ δεῦρο, ἔνθαπερ ἡμεῖς οἱ ἐλεύθεροι;",
@@ -99,7 +112,6 @@
   },
   {
     "type": "quote",
-    "year": -270,
     "sr": "Zašto se ne čudiš što nas troje imamo četiri oka?",
     "stsl": "Почто сѧ нє чѹдіши ꙗко насъ троє имамꙑ чєтꙑри очи.",
     "originalText": "τί δ' οὐ θαυμάζεις ὅτι τρεῖς ὄντες τέτταρας ἔχομεν ὀφθαλμούς;",
@@ -113,7 +125,6 @@
   },
   {
     "type": "quote",
-    "year": -260,
     "sr": "Da vidim vas otvorenih i smejem se.",
     "stsl": "Да відімъ васъ отъворєнꙑхъ і смѣѭ сѧ.",
     "originalText": "ἵν' ὑμᾶς ἀναπεπταμένους ὁρῶν γελῶ.",

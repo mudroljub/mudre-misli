@@ -2,9 +2,22 @@
   {
     "type": "bio",
     "year": -300,
-    "sr": "Aristo iz Hija, zvan Ćelavi, prozvan Sirena. Rekao je da je cilj živeti ravnodušno prema stvarima između vrline i poroka, ne ostavljajući nikakvu razliku među njima, već se prema svima jednako odnositi.",
-    "stsl": "Арістонъ отъ Хіа · наріцаємꙑи Лꙑсꙑи · прозъванъ Сірєна · Рєчє ꙗко єсть цѣль жіті равнодѹшьно къ вєщємь мєждѹ доблєстіѭ і порокомь · нє оставлꙗѭщє никакоѩ разлікꙑ въ ніхъ · нъ къ всѣмъ єдінако отъносꙗщє сѧ.",
-    "originalText": "Ἀρίστων ὁ Χῖος ὁ Φάλανθος ἐπικαλούμενος Σειρήν. Τέλος ἔφησεν εἶναι τὸ ἀδιαφόρως ἔχοντα ζῆν πρὸς τὰ μεταξὺ ἀρετῆς καὶ κακίας μηδ' ἡντινοῦν ἐν αὐτοῖς παραλλαγὴν ἀπολείποντα, ἀλλ' ἐπίσης ἐπὶ πάντων ἔχοντα.",
+    "sr": "Ariston sa Hiosa, zvan Ćelavi, imao je nadimak Sirena.",
+    "stsl": "Аристонъ отъ Хиа · нарицаемыи Лысꙑи · прозъванъ Сирена ·",
+    "originalText": "Ἀρίστων ὁ Χῖος ὁ Φάλανθος ἐπικαλούμενος Σειρήν.",
+    "author": "Aristo of Chios",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.160"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Cilj je živeti ravnodušno prema stvarima između vrline i poroka, ne praveći među njima nikakvu razliku, već se prema svima jednako odnositi.",
+    "stsl": "Цѣль єсть равнодѹшьно жити къ вещемъ междѹ добродѣтелиѭ и порокомь · никако различие въ нихъ творѧште · нъ къ всѣмъ єдинако сѧ относеще ·",
+    "originalText": "Τέλος ἔφησεν εἶναι τὸ ἀδιαφόρως ἔχοντα ζῆν πρὸς τὰ μεταξὺ ἀρετῆς καὶ κακίας μηδ' ἡντινοῦν ἐν αὐτοῖς παραλλαγὴν ἀπολείποντα, ἀλλ' ἐπίσης ἐπὶ πάντων ἔχοντα.",
     "author": "Aristo of Chios",
     "sources": [
       {
