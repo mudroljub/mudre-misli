@@ -384,7 +384,7 @@
   },
   {
     "type": "quote",
-    "stsl": "Миръ из огнѧ раждаєть сѧ и пакꙑ съгораєть по коловратѹ мѣною вьсь вѣкъ · Се же по сѫдьбѣ родить сѧ ·",
+    "stsl": "Миръ из огнѧ раждаєть сѧ и пакꙑ съгораєть · по коловратѹ мѣною вьсь вѣкъ · Се же по сѫдьбѣ родить сѧ ·",
     "sr": "Svet se iz ognja rađa i ponovo sagoreva, po kolovratu, na smenu sav vek. Ovo se po sudbini rađa.",
     "originalText": "γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα· τοῦτο δὲ γίνεσθαι καθ᾽ εἱμαρμένην.",
     "author": "Heraclitus",
@@ -397,8 +397,8 @@
   },
   {
     "type": "quote",
-    "stsl": "То ѧже къ рожденію веꙁєть · ꙁовєть сѧ братиꙗ и свѧрь · а то ѧже къ въогнѭ · єдиномꙑслиє и миръ · прѣмѣна же стьꙁа горѣ долѹ ·",
-    "sr": "Ono što vodi ka rođenju naziva se ratom i svađom, a ono što vodi ka sagorevanju naziva se saglasjem i mirom; promena je put gore-dole.",
+    "stsl": "Къ рожденьѭ ведѫщее борьба и рать нарицаєть сѧ · къ съгорѣниѭ же съгласиє и миръ · прѣмѣна же пѫть горѣ и долѣ ·",
+    "sr": "Ono što vodi rađanju naziva se borba i rat, a sagorevanju saglasje i mir; promena je put na gore i na dole.",
     "originalText": "τὸ μὲν ἐπὶ τὴν γένεσιν ἄγον καλεῖσθαι πόλεμον καὶ ἔριν, τὸ δ ἐπὲ τὴν ἐκπύρωσιν ὁμολογίαν καὶ εἰρήνην, καὶ τὴν μεταβολὴν ὁδὸν ἄνω κάτω.",
     "author": "Heraclitus",
     "sources": [
@@ -409,18 +409,31 @@
     ]
   },
   {
-    "type": "quote",
-    "stsl": "Ѫтꙑштѧєть сѧ бо огнь · ѹвлажнѧєть сѧ · съставлѧѧ же сѧ бꙑваєть вода · ствръдьшѧѭштѧ же водѣ въ ꙁємлѭ прѣтворѧєть сѧ · сіꙗ стьꙁа долѹ · Бꙑваѭть же испарѣниꙗ отъ ꙁємлѧ и морѧ · ова свѣтъла и чистаꙗ · ова же тьмьна · Множить же сѧ огнь отъ свѣтълꙑихъ · мокрѫѭ же отъ тьмьнꙑихъ · Сѫть же въ немь ладіꙗ обръштенꙑ въглѫбленьнꙑимъ къ намъ · въ нихже събираѭтъ сѧ свѣтълаꙗ испарѣниꙗ · сътворѧѭтъ пламѧ · ꙗже сѫть ꙁвѣꙁдꙑ ·",
-    "sr": "Vatra se zgušnjava, pa se ovlažuje i, sastavljajući se, postaje voda; kada se voda stvrdne, pretvara se u zemlju. To je put nadole. Isparenja nastaju i iz zemlje i iz mora: neka svetla i čista, a neka tamna. Vatra raste od svetlih, a vlaga od tamnih. U njoj postoje lađe okrenute prema nama svojim udubljenjem; u njima se skupljaju svetla isparenja i stvaraju plamenove, koji su zvezde.",
-    "originalText": "Πυκνούμενον γὰρ τὸ πῦρ ἐξυγραίνεσθαι συνιστάμενόν τε γίνεσθαι ὕδωρ, πηγνύμενον δὲ τὸ ὕδωρ εἰς γῆν τρέπεσθαι· καὶ ταύτην ὁδὸν ἐπὶ τὸ κάτω εἶναι. γίνεσθαι δ ἀναθυμιάσεις ἀπό τε γῆς καὶ θαλάττης, ἃς μὲν λαμπρὰς καὶ καθαράς, ἃς δὲ σκοτεινάς. αὔξεσθαι δὲ τὸ μὲν πῦρ ὑπὸ τῶν λαμπρῶν, τὸ δὲ ὑγρὸν ὑπὸ τῶν ἑτέρων. εἶναι μέντοι ἐν αὐτῷ σκάφας ἐπεστραμμένας κατὰ κοῖλον πρὸς ἡμᾶς, ἐν αἷς ἀθροιζομένας τὰς λαμπρὰς ἀναθυμιάσεις ἀποτελεῖν φλόγας, ἃς εἶναι τὰ ἄστρα.",
-    "author": "Heraclitus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.9"
-      }
-    ]
-  },
+  "type": "quote",
+  "stsl": "Огнь бо гѫстѣєть и ѹвлажнѧєть · събиꙗѩ сѧ водѫ раждаєть · ствръдьшѧѭштѧ же водѣ въ ꙁємлѭ прѣтворѧєть сѧ · се стьꙁа долѹ ·",
+  "sr": "Oganj se zgušnjava i vlaži, sabijajući se rađa vodu. Kada se voda stvrdne, pretvara se u zemlju. To je put nadole.",
+  "originalText": "Πυκνούμενον γὰρ τὸ πῦρ ἐξυγραίνεσθαι συνιστάμενόν τε γίνεσθαι ὕδωρ, πηγνύμενον δὲ τὸ ὕδωρ εἰς γῆν τρέπεσθαι· καὶ ταύτην ὁδὸν ἐπὶ τὸ κάτω εἶναι.",
+  "author": "Heraclitus",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "IX.9"
+    }
+  ]
+},
+{
+  "type": "quote",
+  "stsl": "Парꙑ же из ꙁємлѧ и морѧ родѧть сѧ · овꙑ свѣтълꙑ и чистꙑ · овꙑ же тьмьнꙑ · Множить же сѧ огнь отъ свѣтълꙑихъ · мокрѫѭ же отъ тьмьнꙑихъ · Сѫть же въ немь ладіꙗ обръштенꙑ въглѫбленьнꙑимъ къ намъ · въ нихже събираѭтъ сѧ свѣтълаꙗ испарѣниꙗ · сътворѧѭтъ пламѧ · ꙗже сѫть ꙁвѣꙁдꙑ ·",
+  "sr": "Isparenja se iz zemlje i mora rađaju: neka svetla i čista, a neka tamna. Vatra raste od svetlih, a vlaga od tamnih. U njoj postoje lađe okrenute prema nama svojim udubljenjem; u njima se skupljaju svetla isparenja i stvaraju plamenove, koji su zvezde.",
+  "originalText": "γίνεσθαι δ ἀναθυμιάσεις ἀπό τε γῆς καὶ θαλάττης, ἃς μὲν λαμπρὰς καὶ καθαράς, ἃς δὲ σκοτεινάς. αὔξεσθαι δὲ τὸ μὲν πῦρ ὑπὸ τῶν λαμπρῶν, τὸ δὲ ὑγρὸν ὑπὸ τῶν ἑτέρων. εἶναι μέντοι ἐν αὐτῷ σκάφας ἐπεστραμμένας κατὰ κοῖλον πρὸς ἡμᾶς, ἐν αἷς ἀθροιζομένας τὰς λαμπρὰς ἀναθυμιάσεις ἀποτελεῖν φλόγας, ἃς εἶναι τὰ ἄστρα.",
+  "author": "Heraclitus",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "IX.9"
+    }
+  ]
+},
   {
     "type": "quote",
     "stsl": "Свѣтълѣиши же пламѧ съльньчьна · и теплѣиши · Съльнце же въ ꙗснѣ и несмѣшенѣ движєть сѧ · и мѣрьно отъ насъ растоꙗниє имать · Затмѣваѭть же сѧ съльнце и мѣсѧць · горѣ обръштаѭштимь сѧ ладіамъ · Мѣсѧчьнꙑꙗ же обраꙁꙑ по мѣсѧцѹ бꙑваѭтъ · обръштаѭштеи сѧ въ неи мало по малѹ ладиѣ ·",
@@ -532,7 +545,8 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "bio",
+    "year": -475,
     "author": "Heraclitus",
     "stsl": "Аристонъ же въ О Хєраклитѣ глаголєть · и водєнѫѭ болѣꙁнь исцѣлѣнѹ бꙑти · ѹмрѣти же инѣѭ болѣꙁниѭ · Сє же и Іппоботъ рєчє ·",
     "sr": "Ariston u spisu O Heraklitu kaže: i vodena bolest bila izlečena, ali je umro od druge bolesti. Isto tako i Hippobot kaže.",
@@ -604,7 +618,7 @@
   {
     "type": "quote",
     "stsl": "Аще бо блаженьство въ тѣлесьнꙑхь сластьхъ · воли блажени бꙑхомь звали · егда бобꙑ обрѣтаѭть ꙗсти ·",
-    "sr": "Ako bi sreća bila u telesnim uživanjima, morali bismo volove smatriti srećnim kada nađu bobove da jedu.",
+    "sr": "Ako bi sreća bila u telesnim uživanjima, morali bismo volove smatriti srećnim kada nađu bob da jedu.",
     "originalText": "εἰ Felicitas esset in delectationibus corporis, boves felices diceremus, cum inveniant orobum ad comedendum.",
     "author": "Heraclitus",
     "sources": [

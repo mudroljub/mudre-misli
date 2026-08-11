@@ -10,6 +10,10 @@
       {
         "name": "walter-burley",
         "reference": "Cap. VI"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.91"
       }
     ]
   },
@@ -23,13 +27,17 @@
       {
         "name": "walter-burley",
         "reference": "Cap. VI"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.91"
       }
     ]
   },
   {
-    "type": "anecdote",
-    "sr": "Zagonetka Kleobulinine, kako kaže Laertije: Jedan otac ima dvanaest sinova, od kojih svaki ima trideset raznolikih potomaka, jer su jedni beli a drugi crni. Besmrtni su, ali se propadaju i nestaju. To je godina kao otac dvanaest meseci, a trideset dana svakog meseca su unuci; crni i beli su noći i dani. Godine su besmrtne, ali propadaju i nestaju jer dani prolaze.",
-    "stsl": "Аинігма Клєовѹліна · ꙗкоже глаголєть Лаєртіи · Єдинъ ѻтьць в҃і сꙑновъ имать · ихъ же кождо л҃ отъраслъ раꙁноличънꙑхъ · ѻви бо бѣли · ѻви чрьни · Бєсъмрьтьни сѫть · нъ раꙁрѹшаѭть сѧ и ѹвꙑдаѭть · То лѣто єсть ѻтьць в҃і мѣсѧць · л҃ дніи кождо мѣсѧца отърасли · чрьни и бѣли нощь и дьнь · Лѣта бєсъмрьтьна · нъ раꙁрѹшаѭть сѧ и ѹвꙑдаѭть · ꙗко дніє прєходѧть ·",
+    "type": "works",
+    "sr": "Zagonetka pripisivana Kleobulini, koju Diogen prenosi među Kleobulovim zagonetkama: Jedan otac ima dvanaestoro dece, a svako od njih po dvaput tridesetoro potomaka različita lika: jedni su beli, a drugi crni. Premda su besmrtni, svi nestaju. Rešenje je godina: otac je godina, deca su dvanaest meseci, a njihovi potomci dani i noći.",
+    "stsl": "Аинігма Клєовѹлінѣ приписана · ѭже Діогєнъ въ Клєовѹловыхъ аинігматѣхъ приносить · Єдинъ ѻтьць в҃і дѣтіи имать · ихъ же кождо дващи л҃ отъраслъ раꙁноличънꙑхъ · ѻви бо бѣли · ѻви чрьни · Бєсъмрьтьни сѫть · нъ вьси исчезаѭть · Отъвѣтъ єсть лѣто · ѻтьць єсть лѣто · дѣти в҃і мѣсѧць · отърасли же ихъ дніє и нощи ·",
     "originalText": "Huius Cleobu[in]e enigma fuit, ut ait Laercius: unus pater, filii XII, horum cuilibet nati [sunt] XXX [bis] difformes, nam quidm horum sunt albe, quidam vero nigre. Sunt immortales autem cum sint corrumpuntur omnes et deficiunt. Est autem annus XII mensium pater etc.",
     "author": "Cleobulus",
     "sources": [
@@ -79,6 +87,270 @@
       {
         "name": "walter-burley",
         "reference": "Cap. VI"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Neukost i mnoštvo reči preovlađuju među smrtnicima; ali pravi čas će biti dovoljan. Misli nešto valjano; ne budi tašt i nezahvalan.",
+    "stsl": "Неѹченїе и множьство словесъ прѣобладаѭть въ смрьтныхъ · Нъ врѣмѧ довлѣєть · Помꙑшлѧи добро · Не бѫди сѹєтьнъ ни неблагодарьнъ ·",
+    "originalText": "Ἀμουσία τὸ πλέον μέρος ἐν βροτοῖσι λόγων τε πλῆθος· ἀλλ' ὁ καιρὸς ἀρκέσει. Φρόνει τι κεδνόν· μὴ μάταιος ἄχαρις γινέσθω.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.91"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Kćeri treba udavati kao devojke po godinama, a kao žene po razboritosti; time je pokazivao da i devojke treba vaspitavati.",
+    "stsl": "Дъщери подобаєть съчетавати · дѣвꙑ възрастомъ · женꙑ же разборомъ · Симь показовааше ꙗко и дѣвꙑ подобаєть възпитавати ·",
+    "originalText": "Ἔφη δὲ δεῖν συνοικίζειν τὰς θυγατέρας, παρθένους μὲν τὴν ἡλικίαν τὸ δὲ φρονεῖν γυναῖκας· ὑποδεικνὺς ὅτι δεῖ παιδεύεσθαι καὶ τὰς παρθένους.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.91"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kada izlaziš iz kuće, najpre se zapitaj šta nameravaš učiniti; a kada se vratiš, zapitaj se šta si učinio.",
+    "stsl": "Єгда исходиши из домѹ · прѣжде въпроси себе что хощеши сътворити · Єгда же възвратиши сѧ · въпроси себе что сътвори ·",
+    "originalText": "Καὶ ὅταν τις ἐξίῃ τῆς οἰκίας, ζητείτω πρότερον τί μέλλει πράσσειν· καὶ ὅταν εἰσέλθῃ πάλιν, ζητείτω τί ἔπραξε.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Dobro vežbaj telo.",
+    "stsl": "Добрѣ тѣло въжбаи ·",
+    "originalText": "εὖ τὸ σῶμα ἀσκεῖν",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Više voli slušati nego govoriti.",
+    "stsl": "Паче люби слѹшати нежели глаголати ·",
+    "originalText": "φιλήκοον εἶναι μᾶλλον ἢ φιλόλαλον",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Više voli učiti nego ostati neuk.",
+    "stsl": "Паче люби ѹчити сѧ нежели неѹченъ быти ·",
+    "originalText": "φιλομαθῆ μᾶλλον ἢ ἀμαθῆ",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Neka ti je jezik blagoglagoljiv.",
+    "stsl": "Да ти єсть ѩзꙑкъ благоглагольнъ ·",
+    "originalText": "γλῶσσαν εὔφημον ἴσχειν",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Budi svoj vrlini, a tuđ poroku.",
+    "stsl": "Добродѣтели свои бѫди · зълобѣ же чюжьдь ·",
+    "originalText": "ἀρετῆς οἰκεῖον εἶναι, κακίας ἀλλότριον",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kloni se nepravde.",
+    "stsl": "Бѣгаи неправьдꙑ ·",
+    "originalText": "ἀδικίαν φεύγειν",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Gradu savetuj ono što je najbolje.",
+    "stsl": "Градѹ наилѣпшаꙗ съвѣтѹи ·",
+    "originalText": "πόλει τὰ βέλτιστα συμβουλεύειν",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Gospodari zadovoljstvom.",
+    "stsl": "Сласти обладаи ·",
+    "originalText": "ἡδονῆς κρατεῖν",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ništa ne čini silom.",
+    "stsl": "Ничтоже силою твори ·",
+    "originalText": "βίᾳ μηδὲν πράττειν",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Vaspitavaj decu.",
+    "stsl": "Дѣти възпитаваи ·",
+    "originalText": "τέκνα παιδεύειν",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Okončaj neprijateljstvo.",
+    "stsl": "Враждѫ раздрѣшаи ·",
+    "originalText": "ἐχθρὰν διαλύειν",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Pred drugima ne laskaj ženi niti se s njom svađaj; prvo pokazuje ludost, a drugo bezumlje.",
+    "stsl": "Прѣдъ чюждими женѣ ни ласкаи ни свари сѧ съ неѭ · Ово бо безѹмиє · оно же неистовьство знамєнѹєть ·",
+    "originalText": "Γυναικὶ μὴ φιλοφρονεῖσθαι, μηδὲ μάχεσθαι, ἀλλοτρίων παρόντων· τὸ μὲν γὰρ ἄνοιαν, τὸ δὲ μανίαν σημαίνει.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ženi se među sebi jednakima; uzmeš li ženu iz uglednije porodice, steći ćeš gospodare u njenim srodnicima.",
+    "stsl": "Жени сѧ отъ равьныхъ · Аще бо отъ вѧщьшихъ женѫ поимеши · господѧ стѧжеши въ сродьницѣхъ єѩ ·",
+    "originalText": "Γαμεῖν ἐκ τῶν ὁμοίων· ἂν γὰρ ἐκ τῶν κρειττόνων λάβῃς, φησί, δεσπότας κτήσῃ τοὺς συγγενέας.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.92"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne smej se onima kojima se rugaju, jer će te omrznuti.",
+    "stsl": "Не смѣи сѧ порѹгаємꙑмъ · възненавидѧть бо тѧ ·",
+    "originalText": "Μὴ ἐπιγελᾶν τοῖς σκωπτομένοις· ἀπεχθήσεσθαι γὰρ τούτοις.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.93"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "U blagostanju ne budi ohol; u oskudici ne budi ponižen.",
+    "stsl": "Въ благопоспѣшениі не бѫди гордъ · въ оскѫдѣниі не бѫди ѹниженъ ·",
+    "originalText": "Εὐτυχῶν μὴ ἴσθι ὑπερήφανος· ἀπορήσας μὴ ταπεινοῦ.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.93"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Nauči podnositi promene slučaja plemenito.",
+    "stsl": "Наѹчи сѧ прѣмѣнꙑ приклѹчаꙗ племєнито носити ·",
+    "originalText": "Τὰς μεταβολὰς τῆς τύχης γενναίως ἐπίστασο φέρειν.",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.93"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Mera je najbolja.",
+    "stsl": "Мѣра єсть наилѣпшаꙗ ·",
+    "originalText": "μέτρον ἄριστον",
+    "author": "Cleobulus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.93"
       }
     ]
   }

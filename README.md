@@ -25,6 +25,7 @@ SADRŽAJ:
 - dodavanje novih fragmenata - Diels
     - Heraklit dodat 
     - nastaviti sa Empedoklom.
+- id citata da bude nešto trajno, ne index koji se menja. možda iskoristiti pointer
 UI:
 PREVOD:
 - poboljšati stsl prevode - ukloniti duh novijeg crkvenoslovenskog, vratiti arhaični slovenski ritam

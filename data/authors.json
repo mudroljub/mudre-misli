@@ -35,7 +35,7 @@
     "birthplace": "Abdera"
   },
   "Eudoxus": {
-    "src": "/images/authors/unknown-greek-philosopher.jpg",
+    "src": "/images/authors/unknown-author.svg",
     "born": -408,
     "died": -355,
     "originalText": "Εὔδοξος",
@@ -96,6 +96,20 @@
     "died": -348,
     "originalText": "Πλάτων",
     "birthplace": "Athens"
+  },
+  "Cleobulus": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -630,
+    "died": -560,
+    "originalText": "Κλεόβουλος",
+    "birthplace": "Lindos"
+  },
+  "Cleobulina": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -610,
+    "died": -550,
+    "originalText": "Κλεοβουλίνη",
+    "birthplace": "Lindos"
   },
   "Bias of Priene": {
     "src": "/images/authors/Bias_of_Priene.jpg",
@@ -189,14 +203,14 @@
     "birthplace": "Thebes"
   },
   "Metrocles": {
-    "src": "/images/authors/unknown-greek-philosopher.jpg",
+    "src": "/images/authors/unknown-author.svg",
     "born": -340,
     "died": -280,
     "originalText": "Μητροκλῆς",
     "birthplace": "Maroneia"
   },
   "Hipparchia": {
-    "src": "/images/authors/unknown-greek-philosopher.jpg",
+    "src": "/images/authors/unknown-author.svg",
     "born": -350,
     "died": -280,
     "originalText": "Ἱππαρχία",
@@ -224,7 +238,7 @@
     "birthplace": "Soli"
   },
   "Aristo of Chios": {
-    "src": "/images/authors/unknown-greek-philosopher.jpg",
+    "src": "/images/authors/unknown-author.svg",
     "born": -300,
     "died": -250,
     "originalText": "Ἀρίστων ὁ Χῖος",
@@ -238,7 +252,7 @@
     "birthplace": "Borysthenes"
   },
   "Anaxarchus": {
-    "src": "/images/authors/unknown-greek-philosopher.jpg",
+    "src": "/images/authors/unknown-author.svg",
     "born": -380,
     "died": -320,
     "originalText": "Ἀνάξαρχος",
@@ -301,7 +315,7 @@
     "birthplace": "Cnossos"
   },
   "Menedemus": {
-    "src": "/images/authors/unknown-greek-philosopher.jpg",
+    "src": "/images/authors/unknown-author.svg",
     "born": -345,
     "died": -261,
     "originalText": "Μενέδημος",

@@ -2,8 +2,8 @@
 
 ## ANALIZA I: Duh i arhaičnost jezika
 
-**Datum analize:** 9. avgust 2026.  
-**Analizirano:** 10 ključnih filozofa (po 2-5 reprezentativnih primera svaki)  
+**Datum analize:** 11. avgust 2026.  
+**Analizirano:** 10 ključnih filozofa (Pitagora ponovo pregledan u celini; za ostale po 2-5 reprezentativnih primera)  
 **Kriterij:** Da li prevod liči na **stari slovenski jezik VIII veka** ili na **noviji crkvenoslovenski jezik**?
 
 ---
@@ -36,7 +36,7 @@
 |---------|--------------|-------------------|------------------|
 | **Thales** | 50 | **ARHAIČAN** ⭐⭐⭐⭐⭐ | Ponegde višak **єсть**; ali ritam odličan |
 | **Anaximander** | 11 | **ARHAIČAN** ⭐⭐⭐⭐⭐ | Minimalan materijal; kvalitetno |
-| **Pythagoras** | 98 | **MEŠOVIT** ⚠️ | Duga biblijsko-patrološka sintaksa; preopširan |
+| **Pythagoras** | 96 | **ARHAIČAN** ⭐⭐⭐⭐ | Doksografski opisi su ponegde nužno dugi; ritam, terminologija i grafija ujednačeni |
 | **Heraclitus** | 32 | **ARHAIČAN** ⭐⭐⭐⭐ | Ponegde složeno; ali uglavnom odlično |
 | **Democritus** | 32 | **ARHAIČAN** ⭐⭐⭐⭐⭐ | Kratko, precizno, prirodno |
 | **Socrates** | 67 | **ARHAIČAN** ⭐⭐⭐⭐ | Uglavnom prirodno; poneki složeniji obrti |
@@ -127,37 +127,31 @@
 
 ---
 
-### NAJGORI PRIMERI (Crkvenoslovenski stil)
+### RANIJE PROBLEMATIČNI PRIMERI
 
-#### 1. **Pythagoras** — Dugačak opis procesa rađanja
+#### 1. **Pythagoras** — Opis procesa rađanja (**ispravljeno**)
 
-**stsl (preopširan):**  
-**Сѣмѧ єсть каплѧ мозга, содержаща въ себѣ теплъ паръ. Егда въ ѹтробѫ вьнидеть, отъ мозга истѣчають сокъ и влага и кровь, отъ нихъ же бываѭть плъть, жилы, кости, власи и всє тѣло; отъ пара же дѹша и чѹвьство. Зачѧтоє же прьвѣє въ четыредесѧть дьнии образъ приємлеть, по мѣрамъ же склада въ седмь или девѧть или наиболѣе въ десѧть мѣсѧць съвръшается и рождаєть сѧ младенецъ.**
+**Sadašnji stsl:**  
+**Сѣмѧ каплѧ мозга · въ немь теплъ паръ · Єгда въ ѹтробѫ вьнидеть · отъ мозга истекѫть сокъ · влага и кръвь · Отъ нихъ съставлѧѭть сѧ плъть · жилы · кости · власи и вьсе тѣло · Отъ пара же дѹша и чѹвьство · Зачѧтоє въ четыредесѧть дьнии образъ приємлеть · По мѣрахъ же склада въ седмь · девѧть или наиболѣе десѧть мѣсѧць съвръшаєть сѧ · таже младенецъ родить сѧ ·**
 
-**Problemi:**
-- ❌ Preopširan — više medicinsko-biblijski stil nego staroslovenski filozofski
-- ❌ Mnogo **єсть** (2 puta u jednoj rečenici)
-- ❌ Grčki sintaksni obrazac (participi, zavisne rečenice)
-- ❌ Nije težinsko — previše informacija najednom
-
-**Trebalo bi:**  
-Podeliti na kraće tvrdnje, saženije konstrukcije.
+**Šta je popravljeno:**
+- ✅ Jedna grčka perioda razložena je srednjim tačkama na kratke težinske iskaze
+- ✅ Uklonjeni su suvišni oblici **єсть**
+- ✅ Participi i duga zavisna konstrukcija zamenjeni su finitnim slovenskim rečenicama
+- ✅ Sačuvan je sav medicinski sadržaj izvornika bez biblijsko-patrološkog ritma
 
 ---
 
-#### 2. **Heraclitus** — Opisivanje kosmogonskih procesa
+#### 2. **Pythagoras** — Opisivanje kosmosa (**ispravljeno**)
 
-**stsl (preteško):**  
-**Четыре стихии вьсецѣло єдина въ дрѹгꙋ прѣмѣнѧѭть сѧ и живъ · разумьнъ и окрѫглъ строи творѧть · съ окрѫглою Землѥю посредѣ · отъвьсѫдѹ населенꙋ · Сѫть же и инии на противьнѣи странѣ · имъже наше долѣ єсть горѣ ·**
+**Sadašnji stsl:**  
+**Четыре първинꙑ вьсецѣло єдина въ дрѹгѫ прѣмѣнѧѭть сѧ · и отъ нихъ живъ · разѹмьнъ и окрѫглъ строи родить сѧ · съ окрѫглою Землѥю посредѣ · отъвьсѫдѹ населенѫ · Сѫть и инии на противьнѣи странѣ · имъже наше долѣ єсть горѣ ·**
 
-**Problemi:**
-- ❌ Predugačko (jedna rečenica opisuje ceo svet!)
-- ❌ Preopširno **єсть** na kraju nakon već kompleksne konstrukcije
-- ❌ Participski oblici preopterećuju rečenicu
-- ❌ Nedostaje partikula **бо** ili **же** koja bi olakšala ritam
-
-**Trebalo bi:**  
-Razbiti na 3-4 rečenice sa jasnim partikularnim vezama.
+**Šta je popravljeno:**
+- ✅ Rečničko **първинꙑ** zamenilo je grčku tuđicu **стихии**
+- ✅ Kosmološki niz razložen je u kratke ritmičke celine
+- ✅ Uklonjen je suvišni završni oblik **єсть**
+- ✅ Ispravljeni su neslovenski i nedosledni grafijski oblici
 
 ---
 
@@ -220,7 +214,7 @@ Particippi i zavisne rečenice prenete kao grčka konstrukcija umesto prirodnog 
 Kopiranje složenih biblijskih ili patroloških struktura umesto prostih slovenskih.
 
 **Primeri:**  
-Pitagora (opis rađanja), Heraklit (opis kosmosa) — previše detalja u jednoj rečenici.
+Raniji Pitagorini opisi rađanja i kosmosa bili su preopterećeni; sada su razloženi srednjim tačkama na kraće iskaze.
 
 ---
 
@@ -253,13 +247,14 @@ Svaki prevod uporediti sa autentičnim primerima iz korpusa (Proglas, Vita Const
 - **Thales**, **Democritus**, **Heraclitus**, **Socrates**, **Aristotle** ⭐⭐⭐⭐⭐
 
 **Problematični prevodi (noviji crkvenoslovenski stil):**
-- **Pythagoras** (preopširno, biblijsko-patrološki) ⚠️
 - **Plato** (previše termina, grčka sintaksa) ⚠️
 
+**Temeljno pregledan i popravljen:**
+- **Pythagoras** — sadržaj usklađen sa grčkim izvornikom; terminologija, grafija i ritam ujednačeni ⭐⭐⭐⭐
+
 **Prioritetna korekcija:**
-1. Pythagoras — skratiti dugačke rečenice
-2. Plato — pojednostaviti filozofske termine
-3. Svi filozofi — ukloniti suvišno **єсть** i mehaničko **наи-**
+1. Plato — pojednostaviti filozofske termine
+2. Svi preostali filozofi — ukloniti suvišno **єсть** i mehaničko **наи-**
 
 ---
 

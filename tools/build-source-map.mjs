@@ -27,6 +27,7 @@ const files = (await fs.readdir(quotesDir))
 
 const totalBySource = new Map();
 const authorsBySource = new Map();
+const referencesBySource = new Map();
 let totalQuotes = 0;
 
 for (const file of files) {
@@ -39,26 +40,40 @@ for (const file of files) {
 
   for (const entry of content) {
     totalQuotes += 1;
-    const source = String(entry.source || '').trim();
-    if (!source) {
-      continue;
-    }
+    const sources = Array.isArray(entry.sources) ? entry.sources : [];
+    const authors = Array.isArray(entry.author)
+      ? entry.author
+      : entry.author
+        ? [entry.author]
+        : [];
 
-    totalBySource.set(source, (totalBySource.get(source) || 0) + 1);
+    for (const sourceEntry of sources) {
+      const source = String(sourceEntry?.name || '').trim();
+      if (!source) continue;
 
-    if (!authorsBySource.has(source)) {
-      authorsBySource.set(source, new Set());
-    }
+      totalBySource.set(source, (totalBySource.get(source) || 0) + 1);
 
-    if (entry.author) {
-      authorsBySource.get(source).add(entry.author);
+      if (!authorsBySource.has(source)) {
+        authorsBySource.set(source, new Set());
+      }
+
+      for (const author of authors) {
+        authorsBySource.get(source).add(author);
+      }
+
+      const reference = String(sourceEntry?.reference || '').trim();
+      if (reference) {
+        if (!referencesBySource.has(source)) {
+          referencesBySource.set(source, new Set());
+        }
+        referencesBySource.get(source).add(reference);
+      }
     }
   }
 }
 
-const parseDiogenRefs = (source) => {
-  const marker = 'Diogen Laertije, Životi i mišljenja znamenitih filozofa, ';
-  if (!source.startsWith(marker)) {
+const parseDiogenRefs = (source, references) => {
+  if (source !== 'diogenes-laertius') {
     return {
       work: null,
       refsRaw: null,
@@ -67,11 +82,8 @@ const parseDiogenRefs = (source) => {
     };
   }
 
-  const refsRaw = source.slice(marker.length).trim();
-  const refs = refsRaw
-    .split(';')
-    .map((part) => part.trim())
-    .filter(Boolean);
+  const refs = [...references];
+  const refsRaw = refs.join('; ');
 
   const books = new Set();
   const bookRegex = /\b([IVX]+)\./g;
@@ -94,7 +106,8 @@ const parseDiogenRefs = (source) => {
 
 const sourceMap = [...totalBySource.entries()]
   .map(([source, count]) => {
-    const parsed = parseDiogenRefs(source);
+    const references = referencesBySource.get(source) || new Set();
+    const parsed = parseDiogenRefs(source, references);
 
     return {
       source,
@@ -102,6 +115,7 @@ const sourceMap = [...totalBySource.entries()]
       authors: [...(authorsBySource.get(source) || [])].sort((a, b) =>
         a.localeCompare(b, 'sr')
       ),
+      references: [...references].sort((a, b) => a.localeCompare(b, 'sr')),
       work: parsed.work,
       refsRaw: parsed.refsRaw,
       refs: parsed.refs,

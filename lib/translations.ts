@@ -122,6 +122,8 @@ export interface Translations {
     'Chilon of Sparta': string;
     Epimenides: string;
     Menedemus: string;
+    Cleobulus: string;
+    Cleobulina: string;
   };
 }
 
@@ -148,7 +150,7 @@ export const translations: Record<Language, Translations> = {
     scriptCyr: 'Кѷрилица',
     scriptLat: 'Латиница',
     sidebarGroups: {
-      ancientSages: 'Седмь мѫдрьцѧ',
+      ancientSages: 'Дрѣвьнꙗ мѫдрость',
       presocratics: 'Прѣдъ-Сократови',
       athenianPhilosophy: 'Атїньска любомѫдрость',
       hellenisticSchools: 'Єллиньскъ школꙑ',
@@ -248,6 +250,8 @@ export const translations: Record<Language, Translations> = {
       'Chilon of Sparta': 'Хїлонъ',
       Epimenides: 'Епімєнідъ',
       Menedemus: 'Мєнєдємъ',
+      Cleobulus: 'Клєовѹлъ',
+      Cleobulina: 'Клєовѹліна',
     },
   },
   sr: {
@@ -272,7 +276,7 @@ export const translations: Record<Language, Translations> = {
     scriptCyr: 'Ћирилица',
     scriptLat: 'Latinica',
     sidebarGroups: {
-      ancientSages: 'Sedam mudraca',
+      ancientSages: 'Drevna mudrost',
       presocratics: 'Predsokratovci',
       athenianPhilosophy: 'Atinska filozofija',
       hellenisticSchools: 'Helenističke škole',
@@ -372,6 +376,8 @@ export const translations: Record<Language, Translations> = {
       'Chilon of Sparta': 'Hilon',
       Epimenides: 'Epimenid',
       Menedemus: 'Menedém',
+      Cleobulus: 'Kleobul',
+      Cleobulina: 'Kleobulina',
     },
   },
 };

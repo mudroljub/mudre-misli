@@ -15,12 +15,14 @@ export interface AuthorGroup {
 export const authorGroups: AuthorGroup[] = [
   {
     titleKey: 'ancientSages',
-    title: 'Ancient Sages',
+    title: 'Ancient Wisdom',
     period: '7-6. vek p.n.e.',
     authors: [
       'Pittacus',
       'Solon',
       'Bias of Priene',
+      'Cleobulus',
+      'Cleobulina',
       'Chilon of Sparta',
       'Anacharsis',
       'Epimenides'

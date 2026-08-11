@@ -2,8 +2,8 @@
   {
     "type": "bio",
     "year": -570,
-    "sr": "Rođen na Samosu.",
-    "stsl": "Пѷѳагора Мнисарховъ Саміꙗнинъ бѣ.",
+    "sr": "Pitagora, sin prstenoresca Mnesarha, bio je Samljanin.",
+    "stsl": "Пѷѳагора · Мнисарха прьстенетворьца сынъ · Саміꙗнинъ бѣ ·",
     "originalText": "Πυθαγόρας Μνησάρχου δακτυλιογλύφου ὥς φησιν Ἕρμιππος, Σάμιος.",
     "author": "Pythagoras",
     "sources": [
@@ -15,10 +15,24 @@
   },
   {
     "type": "bio",
-    "year": -560,
-    "sr": "Slušao Ferekida Sirskog, Anaksimandra i Talesa; po nekim izvorima i egipatske sveštenike.",
-    "stsl": "Ферекида Сѵрскаго · Анаксимандра и Фалеса слꙑшааше · по нѣкіимъ источникомъ и єгѵпетскиѩ жерцы.",
-    "originalText": "Ἤκουσε δὲ Φερεκύδου τοῦ Συρίου· μετὰ δὲ τὴν τελευτὴν ἐκείνου ἦλθεν εἰς Σάμον· εἶτα ἐπὶ μαθήσει γενόμενος εἰς Αἴγυπτον παρεγένετο. Καὶ γὰρ Θαλοῦ καὶ Ἀναξιμάνδρου ἤκουσεν.",
+    "year": -550,
+    "sr": "Slušao je Ferekida Sirskog, Talesa i Anaksimandra.",
+    "stsl": "Ферекида Сѵрскаго · Фалеса и Анаксимандра слꙑшааше ·",
+    "originalText": "Ἤκουσε δὲ Φερεκύδου τοῦ Συρίου. Καὶ γὰρ Θαλοῦ καὶ Ἀναξιμάνδρου ἤκουσεν.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.2"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -545,
+    "sr": "Posle Ferekidove smrti vratio se na Samos, a zatim otišao u Egipat radi učenja.",
+    "stsl": "По Ферекидовѣ съмрьти въ Самосъ възврати сѧ · таже въ Єгѵпетъ ѹчениꙗ ради отиде ·",
+    "originalText": "μετὰ δὲ τὴν τελευτὴν ἐκείνου ἦλθεν εἰς Σάμον· εἶτα ἐπὶ μαθήσει γενόμενος εἰς Αἴγυπτον παρεγένετο.",
     "author": "Pythagoras",
     "sources": [
       {
@@ -30,9 +44,23 @@
   {
     "type": "bio",
     "year": -540,
-    "sr": "Pobegao od tiranije Polikrata; došao u Italiju i ustanovio zakone za Tarentince.",
-    "stsl": "Отъ тіраніи Поликрата бѣжа · въ Италію пріиде и законꙑ Тарентіномъ ѹстанови.",
-    "originalText": "Φυγὼν δὲ τὴν Πολυκράτους τυραννίδα εἰς τὴν Ἰταλίαν ἀπῆρε· καὶ τοῖς Ταραντίνοις νόμους ἔγραψε.",
+    "sr": "Bežeći od Polikratove tiranije otišao je u Italiju.",
+    "stsl": "Отъ Поликратова мѫчительства бѣжа и въ Италію отиде ·",
+    "originalText": "Φυγὼν δὲ τὴν Πολυκράτους τυραννίδα εἰς τὴν Ἰταλίαν ἀπῆρε.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.3"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -535,
+    "sr": "Tarentincima je napisao zakone.",
+    "stsl": "Тарентиномъ законы написа ·",
+    "originalText": "καὶ τοῖς Ταραντίνοις νόμους ἔγραψε.",
     "author": "Pythagoras",
     "sources": [
       {
@@ -44,8 +72,8 @@
   {
     "type": "bio",
     "year": -530,
-    "sr": "U Krotonu osnova školu; imao više od šest stotina slušalaca.",
-    "stsl": "Въ Кротъонѣ ѹчилиште основа · паче шести сотъ слꙑшателевъ имѣаше.",
+    "sr": "Boravio je u Krotonu u Italiji, gde je imao više od šest stotina slušalaca.",
+    "stsl": "Въ Кротонѣ Италіискѣмь прѣбывааше · идѣже паче шести сотъ слѹшателевъ имѣаше ·",
     "originalText": "Διέτριψε δὲ ἐν Κρότωνι τῆς Ἰταλίας· ἔνθα πλεῖστοι ἐγένοντο ἀκροαταί, ὑπὲρ τοὺς ἑξακοσίους.",
     "author": "Pythagoras",
     "sources": [
@@ -58,9 +86,9 @@
   {
     "type": "bio",
     "year": -520,
-    "sr": "Prvi upotrebio reč filozofija i nazvao sebe filozofom; pravio razliku između esoteričnih i egzoteričnih učenja.",
-    "stsl": "Пьрвыи слово философіа ѹпотъреби и себе философомъ нарече · разліꙋ междѹ тайнымъ и гласнымъ ѹченіемъ творѧаше.",
-    "originalText": "Πρῶτος ὠνόμασε φιλοσοφίαν καὶ ἑαυτὸν φιλόσοφον· τὰ δὲ συγγράμματα αὐτοῦ τριττά, ἠθικά, φυσικά, μαθηματικά.",
+    "sr": "Prvi je upotrebio reč filozofija i sebe nazvao filozofom.",
+    "stsl": "Прьвъ любомѫдриє нарече и себе любомѫдрьцемъ ·",
+    "originalText": "Πρῶτος ὠνόμασε φιλοσοφίαν καὶ ἑαυτὸν φιλόσοφον.",
     "author": "Pythagoras",
     "sources": [
       {
@@ -70,23 +98,9 @@
     ]
   },
   {
-    "type": "bio",
-    "year": -510,
-    "sr": "Po Heraklidu iz Ponta učio selidbu duše i pamćenje prošlih života.",
-    "stsl": "По Хераклидѹ отъ Понта селидбꙋ дꙋши и памѧть прошьлыхъ животъовъ ѹчааше.",
-    "originalText": "Ἡρακλείδης δ' ὁ Ποντικὸς ἱστορεῖ περὶ αὐτοῦ ὅτι ἔλεγε περὶ ἑαυτοῦ τοιάδε· εἶναί ποτε Αἰθαλίδην καὶ νομίζεσθαι Ἑρμοῦ.",
-    "author": "Pythagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.4"
-      }
-    ]
-  },
-  {
     "type": "works",
     "sr": "Napisao tri knjige: o etici, fizici i matematici.",
-    "stsl": "Три книги написа · о нравоѹченіи · єстествословіи и математикѣ.",
+    "stsl": "Три книгы написа · о нравѣ · єстествѣ и числѣхъ ·",
     "originalText": "Τὰ δὲ συγγράμματα αὐτοῦ τριττά, ἠθικά, φυσικά, μαθηματικά.",
     "author": "Pythagoras",
     "sources": [
@@ -99,8 +113,8 @@
   {
     "type": "bio",
     "year": -495,
-    "sr": "Umro u osamdesetoj godini po Hermnipu; devedeset nove godine po Aristoksenu.",
-    "stsl": "Въ осмѣдесѧтѣмь лѣтѣ по Херминѹ ѹмрѣ · девѧтьдесѧтъ и девѧти лѣтъ по Аристоксенѹ.",
+    "sr": "Po Hermipu umro je u osamdesetoj godini, a po Aristoksenu u devedesetoj.",
+    "stsl": "По Хермиппѹ въ осмьдесѧтѣмь лѣтѣ ѹмрѣ · по Аристоксєнѹ же въ девѧтьдесѧтѣмь ·",
     "originalText": "Καὶ ἀπέθανεν, ὡς μὲν Ἕρμιππος, βιοὺς ἔτη ὀγδοήκοντα· ὡς δὲ Ἀριστόξενος, ἐνενήκοντα.",
     "author": "Pythagoras",
     "sources": [
@@ -111,9 +125,10 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Upitan od strane Leonta, tiranina Flijasa, ko je, reče: Ljubitelj mudrosti.",
-    "stsl": "Въпрошєнъ отъ Леонта тѹрана Фліасꙑнъ кто єсть · рєчє · Любомѫдрьць ·",
+    "type": "anecdote",
+    "year": -520,
+    "sr": "Kada ga je Leont, tiranin Flijunta, upitao ko je, odgovorio je: Mudroljub.",
+    "stsl": "Въпрошєнъ отъ Леонта · властелина Флиѹнтьска · къто єсть · отъвѣшта · Любомѫдрьць ·",
     "originalText": "ἐρωτηθέντα ὑπὸ Λέοντος τοῦ Φλιασίων τυράννου τίς εἴη, φιλόσοφος εἰπεῖν.",
     "author": "Pythagoras",
     "sources": [
@@ -126,7 +141,7 @@
   {
     "type": "quote",
     "sr": "Život je kao velika svetkovina: jedni dolaze da se takmiče, drugi da trguju, a najbolji da posmatraju.",
-    "stsl": "Животъ єсть ꙗко велика свѧтьба · овии приходѧть състѧзати сѧ · инии торговати · а лѹчьшии зрѣти ·",
+    "stsl": "Житіє великомѹ съборѹ подобьно · овии приходѧть сътѧзати сѧ · инии кѹплѭ творити · лѹчьшии же зрѣти ·",
     "originalText": "τὸν βίον ἐοικέναι πανηγύρει· ὡς οὖν εἰς ταύτην οἱ μὲν ἀγωνιούμενοι, οἱ δὲ κατ' ἐμπορίαν, οἱ δέ γε βέλτιστοι ἔρχονται θεαταί.",
     "author": "Pythagoras",
     "sources": [
@@ -151,8 +166,8 @@
   },
   {
     "type": "quote",
-    "sr": "Pijenje je stupica.",
-    "stsl": "Пиѥніє єсть сѣть ·",
+    "sr": "Pijanstvo je isto što i propast.",
+    "stsl": "Пьꙗньство пагѹбѣ равно єсть ·",
     "originalText": "τὴν μέθην ἓν ἀνθ' ἑνὸς βλάβην καλεῖ.",
     "author": "Pythagoras",
     "sources": [
@@ -177,8 +192,8 @@
   },
   {
     "type": "quote",
-    "sr": "Za ljubavne užitke drži se zime; leti se uzdržavaj.",
-    "stsl": "За любъныѩ сладости дрьжи сѧ зимы · лѣтомь въздьржисѧ ·",
+    "sr": "Ljubavnim užicima predaj se zimi, ne leti; u jesen i proleće umereno, jer su u svako doba teški i nisu dobri za zdravlje.",
+    "stsl": "Любъвьнымъ сластемъ зимѣ прѣдаваи сѧ · не лѣтѣ · въ єсень же и веснѫ мѣрьно · въ вьсѧко бо врѣмѧ тѧжькы сѫть и здравию не добры ·",
     "originalText": "Ἀφροδίσια χειμῶνος ποιέεσθαι, μὴ θέρεος· φθινοπώρου δὲ καὶ ἦρος κουφότερα, βαρέα δὲ πᾶσαν ὥρην καὶ ἐς ὑγιείην οὐκ ἀγαθά.",
     "author": "Pythagoras",
     "sources": [
@@ -189,7 +204,8 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "anecdote",
+    "year": -519,
     "sr": "Upitan kada treba biti sa ženom, reče: Kada želiš postati slabiji nego što jesi.",
     "stsl": "Въпрошєнъ когда подобаєть съ женою быти · рєчє · Єгда хощеши малосильнѣи стати неже єси ·",
     "originalText": "ἐρωτηθέντα πότε δεῖ πλησιάζειν εἰπεῖν· ὅταν βούλῃ γενέσθαι αὑτοῦ ἀσθενέστερος.",
@@ -228,25 +244,12 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Prijateljstvo je jednakost.",
-    "stsl": "Дрѹжьба єсть равьньство ·",
-    "originalText": "φιλίαν ἰσότητα.",
+    "type": "anecdote",
+    "sr": "Hermip pripoveda da je Pitagora u Italiji načinio podzemno prebivalište i naložio majci da beleži događaje i vreme, pa da mu zapise spušta dok se ne vrati. Posle nekog vremena izašao je mršav i iscrpljen, ušao u skupštinu i rekao da se vratio iz Hada. Čitao je okupljenima šta se dogodilo; oni su plakali i naricali i poverovali da je božansko biće.",
+    "stsl": "Хермиппъ повѣствѹєть · ꙗко Пѷѳагоръ въ Италіи подъзємьно жилиште сътвори · матери же повелѣ събꙑтиꙗ и врѣмѧ писати и книгы къ немѹ низъпѹштати · дондеже възидеть · По нѣкоємь врѣмени възиде · хѹдъ и изнемоглъ · въ съборъ въниде и рече · изъ Ада възвратихъ сѧ · И прочита имъ бывъшаꙗ · они же плакахѫ и рыдаахѫ · и божьство нѣкоє єго быти вѣровашѧ ·",
     "author": "Pythagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.10"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "sr": "Hermip pripoveda da je iskopao podzemno prebivalište i odatle primao majčine beleške o događajima, pa se potom pojavio kao da se vratio iz Hada; narod ga je smatrao božanskim.",
-    "stsl": "Хєрміпъ повѣствѹєть · ꙗко ископа подземно жилище и отътѹдѹ пріимаше записи матєри о събытіихъ · таже ꙗви сѧ ꙗко отъ Ада възвративъсѧ · народъ же божьствена єго мьнѣ ·",
-    "author": "Pythagoras",
-    "year": -570,
-    "originalText": "Λέγει γὰρ ὡς γενόμενος ἐν Ἰταλίᾳ κατὰ γῆς οἰκίσκον ποιήσαι καὶ τῇ μητρὶ ἐντείλαιτο τὰ γινόμενα εἰς δέλτον γράφειν σημειουμένην καὶ τὸν χρόνον, ἔπειτα καθιέναι αὐτῷ ἔστ' ἂν ἀνέλθῃ. τὸν δὲ Πυθαγόραν μετὰ χρόνον ἀνελθεῖν ἰσχνὸν καὶ κατεσκελετευμένον· εἰσελθόντα τ' εἰς τὴν ἐκκλησίαν φάσκειν ὡς ἀφῖκται ἐξ ᾅδου.",
+    "year": -515,
+    "originalText": "Λέγει γὰρ ὡς γενόμενος ἐν Ἰταλίᾳ κατὰ γῆς οἰκίσκον ποιήσαι καὶ τῇ μητρὶ ἐντείλαιτο τὰ γινόμενα εἰς δέλτον γράφειν σημειουμένην καὶ τὸν χρόνον, ἔπειτα καθιέναι αὐτῷ ἔστ' ἂν ἀνέλθῃ. τὸν δὲ Πυθαγόραν μετὰ χρόνον ἀνελθεῖν ἰσχνὸν καὶ κατεσκελετευμένον· εἰσελθόντα τ' εἰς τὴν ἐκκλησίαν φάσκειν ὡς ἀφῖκται ἐξ ᾅδου· καὶ δὴ καὶ ἀνεγίνωσκεν αὐτοῖς τὰ συμβεβηκότα. οἱ δὲ σαινόμενοι τοῖς λεγομένοις ἐδάκρυόν τε καὶ ᾤμωζον καὶ ἐπίστευον εἶναι τὸν Πυθαγόραν θεῖόν τινα.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -335,7 +338,7 @@
   {
     "type": "quote",
     "sr": "Poštuj starije: ono što je po vremenu prvo ima veće pravo na čast.",
-    "stsl": "Чьти старѣишѧ · єже по врѣмени пьрвѣє · болии имать правъ на чьсть ·",
+    "stsl": "Чьти старѣишѧ · єже бо врѣменемь прѣжде · чьстьнѣє єсть ·",
     "originalText": "τούς τε πρεσβυτέρους τιμᾶν, τὸ προηγούμενον τῷ χρόνῳ τιμιώτερον ἡγουμένους.",
     "author": "Pythagoras",
     "sources": [
@@ -347,8 +350,8 @@
   },
   {
     "type": "quote",
-    "sr": "Bogove treba poštovati najpre, heroje posle bogova, a među ljudima roditelje.",
-    "stsl": "Богы подобаєть пьрвѣє чьстити · витѧзы послѣ богъ · а междѹ чловѣкы родителѧ ·",
+    "sr": "Bogovima i junacima ne ukazuj jednake počasti: bogove uvek poštuj dobrim rečima, u beloj odeći i čist, a junake od podneva.",
+    "stsl": "Богомъ и витѧꙁемъ не равьнѫ чьсть въздаваи · богы вьсегда добрыми словесы · въ бѣлѣи риꙁѣ и чистъ чьти · витѧꙁы же отъ полѹдьне ·",
     "originalText": "τιμὰς θεοῖς δεῖν νομίζειν καὶ ἥρωσι μὴ τὰς ἴσας, ἀλλὰ θεοῖς μὲν ἀεὶ μετ' εὐφημίας λευχειμονοῦντας καὶ ἁγνεύοντας, ἥρωσι δ' ἀπὸ μέσου ἡμέρας.",
     "author": "Pythagoras",
     "sources": [
@@ -372,28 +375,16 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "U gnevu obuzdavaj ruku i jezik.",
-    "stsl": "Въ гнѣвѣ ѹдрьживаи рѫкѫ и ѩзꙑкъ ·",
+    "type": "bio",
+    "year": -520,
+    "sr": "Kada bi se razgnevio, nije kažnjavao ni slugu ni slobodnog čoveka.",
+    "stsl": "Єгда разгнѣвааше сѧ · ни раба ни свободьна чловѣка не мѫчааше ·",
     "originalText": "ὀργιζόμενος τ' οὔτε οἰκέτην ἐκόλαζεν οὔτ' ἐλεύθερον οὐδένα.",
     "author": "Pythagoras",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "VIII.23"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Načelo svega je jedno.",
-    "stsl": "Начѧло вьсего єсть єдно ·",
-    "originalText": "ἀόριστον δυάδα ὡς ἂν ὕλην τῇ μονάδι αἰτίῳ ὄντι ὑποστῆναι· ἐκ δὲ τῆς μονάδος καὶ τῆς ἀορίστου δυάδος τοὺς ἀριθμούς.",
-    "author": "Pythagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.25"
       }
     ]
   },
@@ -425,8 +416,8 @@
   },
   {
     "type": "quote",
-    "sr": "Od telesnih oblika najlepša je lopta, a od ravnih krug.",
-    "stsl": "Красьнѣиши отъ тѣлесь лопъта · а отъ плоскыхъ крѫгъ ·",
+    "sr": "Od prostornih oblika najlepša je lopta, a od ravnih krug.",
+    "stsl": "Отъ твръдыхъ образъ красьнѣиша лопъта · отъ равьныхъ же крѫгъ ·",
     "originalText": "Καὶ τῶν σχημάτων τὸ κάλλιστον σφαῖραν εἶναι τῶν στερεῶν, τῶν δ' ἐπιπέδων κύκλον.",
     "author": "Pythagoras",
     "sources": [
@@ -438,8 +429,8 @@
   },
   {
     "type": "quote",
-    "sr": "So treba stavljati na trpezu kao podsetnik na pravdu, jer čuva ono što primi i potiče od najčistijeg: sunca i mora.",
-    "stsl": "Соль подобаєтъ полагати на трапезѣ въ помѧнованіє правды · зане хранить єже приємлеть и отъ наичистѣишихъ исходить · Отъ сльньца и морѧ ·",
+    "sr": "So treba stavljati na trpezu kao podsetnik na pravdu, jer čuva sve što primi i potiče od onoga što je najčistije: vode i mora.",
+    "stsl": "Соль на трапеꙁѣ полагаи въ поминъ правды · вьсе бо хранить · єже приємлеть · и отъ чистѣишиихъ исходить · отъ воды и морѧ ·",
     "originalText": "περὶ τῶν ἁλῶν, ὅτι δεῖ παρατίθεσθαι πρὸς ὑπόμνησιν τοῦ δικαίου· οἱ γὰρ ἅλες πᾶν σώζουσιν ὅ τι ἂν παραλάβωσι καὶ γεγόνασιν ἐκ τῶν καθαρωτάτων ὕδατος καὶ θαλάσσης.",
     "author": "Pythagoras",
     "sources": [
@@ -450,11 +441,11 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Njegovi učenici su pet godina ćutali, samo slušali, pa tek posle provere bili primani da ga vide i da žive u njegovoj blizini.",
     "stsl": "Ѹченици єго пѧть лѣтъ мълчахѫ · токмо слѹшахѫ · и токмо по испытании приимахѫсѧ видѣти єго и близъ єго жити ·",
     "author": "Pythagoras",
-    "year": -532,
+    "year": -525,
     "originalText": "Πενταετίαν θ' ἡσύχαζον, μόνον τῶν λόγων κατακούοντες καὶ οὐδέπω Πυθαγόραν ὁρῶντες εἰς ὃ δοκιμασθεῖεν· τοὐντεῦθεν δ' ἐγίνοντο τῆς οἰκίας αὐτοῦ καὶ τῆς ὄψεως μετεῖχον.",
     "sources": [
       {
@@ -464,12 +455,12 @@
     ]
   },
   {
-    "type": "bio",
-    "sr": "Po jednom predanju, bežeći od progonitelja stigao je do polja boba, ali ga nije hteo pregaziti; radije je prihvatio smrt nego da prekrši svoje učenje.",
-    "stsl": "По єдиномѹ прѣданию · бѣжа отъ гонителеи и достиже до полꙗ бобовъ · но не въсхотъѣ єго прѣстѫпити · паче смрьть прииде · нежели да прѣстѹпить ѹчєніє своє ·",
+    "type": "anecdote",
+    "sr": "Bežeći od progonitelja stigao je do polja boba i zastao da ga ne bi pregazio, rekavši da bi radije bio uhvaćen nego gazio bob i radije ubijen nego progovorio; tako su ga progonitelji posekli.",
+    "stsl": "Отъ гонителеи бѣжа и до полꙗ бобовъ достиже · тѹ ста · да ихъ не попереть · рече бо · лѹчьше ѹловленѹ быти · неже бобы попрати · и лѹчьше ѹбиєнѹ быти · неже проглаголати · тако гонителє сѣкошѧ єго ·",
     "author": "Pythagoras",
     "year": -495,
-    "originalText": "Τροπῆς δὲ γενομένης περικάμπτοντα αὐτὸν τὴν τῶν κυάμων χώραν ὑπὸ τῶν Συρακουσίων ἀναιρεθῆναι.",
+    "originalText": "τὸν δὴ Πυθαγόραν καταληφθῆναι διεξιόντα· καὶ πρός τινι χωρίῳ γενόμενος πλήρει κυάμων, ἵνα μὴ διέρχοιτο αὐτόθι ἔστη, εἰπὼν ἁλῶναι ἂν μᾶλλον ἢ πατῆσαι, ἀναιρεθῆναι δὲ κρεῖττον ἢ λαλῆσαι· καὶ ὧδε πρὸς τῶν διωκόντων ἀποσφαγῆναι.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -480,7 +471,7 @@
   {
     "type": "quote",
     "sr": "Ako najbolji ljudi napuste svoje gradove, propasti će njihov dobar ustroj, a opasnost od Međana će porasti.",
-    "stsl": "Аще же наилѹчьшии мѫжи оставѧтъ грады своѧ · погибнетъ добръ строи ихъ · и опасность отъ Мидъ възрастеть ·",
+    "stsl": "Аще же лѹчьшии мѫжи оставѧтъ грады своѧ · погибнеть добръ строи ихъ · и бѣда отъ Мидъ възрастеть ·",
     "originalText": "εἰ δὲ ὑμεῖς οἱ ὀνήιστοι τὰς πόλιας ἐκλείψετε, ἀπὸ μὲν αὐτέων ὁ κόσμος αἱρεθήσεται, ἐπικινδυνότερα δ' αὐτῇσι τὰ ἐκ Μήδων.",
     "author": "Pythagoras",
     "sources": [
@@ -518,8 +509,8 @@
   },
   {
     "type": "reported",
-    "sr": "Pitagora je govorio da je njegova duša ranije živela u drugim telima i da se seća svojih prethodnih života, smrti i seoba u ljude, biljke i životinje.",
-    "stsl": "Питагоръ глаголаше · ꙗко дѹша єго прѣжде живѣ въ инѣхъ тѣлесѣхъ и помьнитъ прѣждьнѧꙗ житіꙗ · смрьти и прѣселениꙗ въ чловѣкы · былиꙗ и животънаꙗ ·",
+    "sr": "Prema Heraklidu Pontskom, Pitagora je govorio da je nekada bio Etalid, smatran Hermesovim sinom, i da je sačuvao pamćenje i posle smrti. Potom je bio Euforb, koga je ranio Menelaj; njegova duša prešla je u Hermotima, zatim je bio delski ribar Pir, a naposletku Pitagora, koji se svega toga sećao.",
+    "stsl": "По Хераклидѹ Понтьскомѹ Пѷѳагоръ глаголаше · ꙗко нѣкогда Еталидъ бѣ и Хермесовъ сынъ мьнѣаше сѧ · памѧть же и по съмрьти съхрани · Таже Еѹфорбъ бысть · єгоже Менелаи ѹꙗзви · дѹша же єго въ Хермотима прѣиде · потомь Пиръ · Делиискъ рыбарь · бысть · напослѣдъкъ же Пѷѳагоръ · и вьсѣхъ сихъ помьнѣаше ·",
     "author": "Pythagoras",
     "originalText": "Ἡρακλείδης ὁ Ποντικὸς περὶ αὑτοῦ τάδε λέγειν, ὡς εἴη ποτὲ γεγονὼς Αἰθαλίδης καὶ Ἑρμοῦ υἱὸς νομισθείη. Ἐν μὲν οὖν τῇ ζωῇ πάντων διαμνημονεῦσαι, ἐπεὶ δὲ ἀποθάνοι τηρῆσαι τὴν αὐτὴν μνήμην. Χρόνῳ δ' ὕστερον εἰς Εὔφορβον ἐλθεῖν καὶ ὑπὸ Μενέλεω τρωθῆναι. Μεταβῆναι τὴν ψυχὴν αὐτοῦ εἰς Ἑρμότιμον. Γενέσθαι Πύῤῥον τὸν Δήλιον ἁλιέα. Γενέσθαι Πυθαγόραν καὶ πάντων τῶν εἰρημένων μεμνῆσθαι.",
     "sources": [
@@ -531,8 +522,8 @@
   },
   {
     "type": "quote",
-    "sr": "Zaklinjem se vazduhom koji dišem i vodom koju pijem: nikada neću podneti pobijanje ovog spisa.",
-    "stsl": "Кълнѫ сѧ въздѹхомъ · имьже дышѫ · и водою · юже пиѭ · николи же ѹкорениꙗ сего писаниꙗ не претерплѭ ·",
+    "sr": "Zaklinjem se vazduhom koji dišem i vodom koju pijem: nikada neću podneti pokudu ove besede.",
+    "stsl": "Кълнѫ сѧ въздѹхомъ · имьже дышѫ · и водою · юже пиѭ · николи же ѹкорениꙗ сего слова не прѣтръплѭ ·",
     "originalText": "οὐ μὰ τὸν ἀέρα τὸν ἀναπνέω, οὐ μὰ τὸ ὕδωρ τὸ πίνω, οὔ κοτ' οἴσω ψόγον περὶ τοῦ λόγου τοῦδε.",
     "author": "Pythagoras",
     "sources": [
@@ -544,8 +535,8 @@
   },
   {
     "type": "quote",
-    "sr": "Mladići, pristupite i u tišini poštujte sve ove moje reči.",
-    "stsl": "Юноши · пристѫпите и въ млъчании почьтите вьсѧ словеса моꙗ ·",
+    "sr": "Mladići, u tišini poštujte sve ovo.",
+    "stsl": "Юношы · въ млъчании чьтите вьсѧ си ·",
     "originalText": "ὦ νέοι, ἀλλὰ σέβεσθε μεθ' ἡσυχίας τάδε πάντα·",
     "author": "Pythagoras",
     "sources": [
@@ -583,8 +574,8 @@
   },
   {
     "type": "quote",
-    "sr": "Životinje koje sa nama dele dar duše ne treba ubijati, a kamoli jesti; uzdržavanje od životinjske hrane navikava čoveka na jednostavan život, zdravo telo i bistar um.",
-    "stsl": "Животънаꙗ · иже съ нами даръ дѹше имѫть · не подобаєть ѹбивати · кольми паче ꙗсти · въздръжаніє отъ животъьныѧ пищте чловѣка къ простомѹ житію · здравомѹ тѣлѹ и свѣтлѹ ѹмѹ навычаеть ·",
+    "sr": "Ne treba ubijati, pa ni dirati životinje koje sa nama dele pravo duše. Uzdržavanje od svega što ima dušu navikava ljude na lak život, hranu koja se može jesti bez vatre i prostu vodu; odatle dolaze zdravlje tela i bistrina duše.",
+    "stsl": "Не подобаєть ѹбивати · ни коснѫти сѧ животъныхъ · ꙗже съ нами обьштѫ правдѫ дѹше имѫть · Въздръжаніє отъ вьсего одѹшевлена чловѣкы къ легъкомѹ житію навычаеть · да пищтѫ безъ огнѧ ꙗдѧть и простѫ водѫ пиѭть · отъ сего здравиє тѣлѹ и острость дѹши бываєть ·",
     "originalText": "τὸ φονεύειν ἀπαγορεύειν, μὴ ὅτι γε ἅπτεσθαι τῶν ζῴων κοινὸν δίκαιον ἡμῖν ἐχόντων ψυχῆς· τὸ δ' ἀληθὲς τῶν ἐμψύχων ἀπηγόρευεν ἅπτεσθαι συνασκῶν καὶ συνεθίζων εἰς εὐκολίαν βίου τοὺς ἀνθρώπους, ὥστε εὐπορίστους αὐτοῖς εἶναι τὰς τροφὰς ἄπυρα προσφερομένοις καὶ λιτὸν ὕδωρ πίνουσιν· ἐντεῦθεν γὰρ καὶ σώματος ὑγίειαν καὶ ψυχῆς ὀξύτητα περιγίνεσθαι.",
     "author": "Pythagoras",
     "sources": [
@@ -596,8 +587,8 @@
   },
   {
     "type": "quote",
-    "sr": "Duša, prelazeći čas u jedno, čas u drugo živo biće, krug nužde obrće.",
-    "stsl": "Дѹша · то въ єдино то въ дрѹго животъно преходѧщи · крѫгъ нѫжды обращаєть ·",
+    "sr": "Duša prolazi krugom nužde, ulazeći čas u jedno, čas u drugo živo biće.",
+    "stsl": "Дѹша крѫгомъ нѫжды ходить · то въ єдино · то въ дрѹго животъно въходѧшти ·",
     "originalText": "Πρῶτόν τέ φασι τοῦτον ἀποφῆναι τὴν ψυχὴν κύκλον ἀνάγκης ἀμείβουσαν ἄλλοτ' ἄλλοις ἐνδεῖσθαι ζῴοις.",
     "author": "Pythagoras",
     "sources": [
@@ -608,22 +599,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Večernjača i Danica ista su zvezda.",
-    "stsl": "Вечернѧꙗ и ѹтрьнѧꙗ звѣзда єдина єсть ·",
-    "originalText": "πρῶτόν τε Ἕσπερον καὶ Φωσφόρον τὸν αὐτὸν εἰπεῖν.",
-    "author": "Pythagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.14"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Posle dvesta sedam godina provedenih u Adu vratih se među žive.",
-    "stsl": "По двѣстѣхъ и седми лѣтѣхъ въ Адѣ къ живымъ възвратихъ сѧ ·",
+    "type": "reported",
+    "sr": "U spisu se kaže da se posle dvesta sedam godina provedenih u Adu vratio među ljude.",
+    "stsl": "Въ писании глаголано єсть · ꙗко по двѣстѣхъ и седми лѣтѣхъ въ Адѣ къ чловѣкомъ възврати сѧ ·",
     "originalText": "ἐν τῇ γραφῇ φησι δι' ἑπτὰ καὶ διηκοσίων ἐτέων ἐξ ἀΐδεω παραγεγενῆσθαι ἐς ἀνθρώπους.",
     "author": "Pythagoras",
     "sources": [
@@ -634,9 +612,10 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Pitagorejci su govorili da nisu sva Pitagorina učenja namenjena svačijim ušima.",
-    "stsl": "Питагорѧне глаголаахѹ · ꙗко не вьсѧ Питагорова ѹчениꙗ вьсѣмъ слышати подобаєть ·",
+    "type": "bio",
+    "year": -450,
+    "sr": "Sve do Filolaja nije bilo moguće upoznati nijedno pitagorejsko učenje; on je prvi objavio čuvene tri knjige.",
+    "stsl": "До Филолаꙗ ни єдиного питагорѣискаго ѹчениꙗ познати не бѣ лѣзѣ · тъ прьвъ славьныѧ три книгы изнесе ·",
     "author": "Pythagoras",
     "originalText": "Μέχρι δὲ Φιλολάου οὐκ ἦν τι γνῶναι Πυθαγόρειον δόγμα· οὗτος δὲ μόνος ἐξήνεγκε τὰ διαβόητα τρία βιβλία.",
     "sources": [
@@ -661,8 +640,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne pomaži čoveku da breme spusti, nego da ga nosi.",
-    "stsl": "Не помагаи чловѣкѹ бремѧ съложити · нъ възложити ·",
+    "sr": "Pomaži čoveku da breme spusti, a ne da ga natovari.",
+    "stsl": "Помагаи чловѣкѹ бремѧ съложити · не же възложити ·",
     "originalText": "φορτίον συγκαθαιρεῖν καὶ μὴ συνεπιτιθέναι.",
     "author": "Pythagoras",
     "sources": [
@@ -687,8 +666,8 @@
   },
   {
     "type": "quote",
-    "sr": "Nečistoća se svećom ne uklanja.",
-    "stsl": "Нечистотъа свѣщею не очищаеть сѧ ·",
+    "sr": "Ne briši sedište bakljom.",
+    "stsl": "Не отираи сѣдалища горѧштимь дрѣвомь ·",
     "originalText": "δᾳδίῳ εἰς θᾶκον μὴ ὀμόργνυσθαι.",
     "author": "Pythagoras",
     "sources": [
@@ -752,8 +731,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne gazi po odsečenim noktima i kosi.",
-    "stsl": "Не настѫпаи по обрѣзаныхъ ногътехъ и власѣхъ ·",
+    "sr": "Ne mokri niti staj na odsečene nokte i kosu.",
+    "stsl": "На обрѣꙁаны ногъты и власы не мочи сѧ · ни настѫпаи ·",
     "originalText": "ἀπονυχίσμασι καὶ κουραῖς μὴ ἐπουρεῖν μηδὲ ἐφίστασθαι.",
     "author": "Pythagoras",
     "sources": [
@@ -777,9 +756,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Izbegavaj prejedanje, razuzdanost, pijanstvo, neumeren smeh, pogrdne šale i prostačke priče.",
-    "stsl": "Объꙗдениꙗ · распѹстьства · пиꙗньства · безмѣрьнаго смѣха · хѹльныхъ шѹтокъ и скврьныхъ словесъ бѣгаи ·",
+    "type": "bio",
+    "year": -520,
+    "sr": "Nikada ga nisu videli dok je vršio nuždu, bio sa ženom ili pijan. Uzdržavao se od smeha i svakog ulagivanja, poput podrugljivih šala i prostačkih priča.",
+    "stsl": "Николиже єго видѣшѧ · ни исходѧшта на потрѣбѫ · ни съ женою бываѭшта · ни пиꙗна · Отъ смѣха же и вьсего ѹгождениꙗ въздръжааше сѧ · отъ рѫгательнаго глѹмлениꙗ и скврьныхъ повѣстии ·",
     "originalText": "οὐδεπώποτε ἐγνώσθη οὔτε διαχωρῶν οὔτε ἀφροδισιάζων οὔτε μεθυσθείς. ἀπείχετο καταγέλωτος καὶ πάσης ἀρεσκείας οἷον σκωμμάτων καὶ διηγημάτων φορτικῶν.",
     "author": "Pythagoras",
     "sources": [
@@ -803,9 +783,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Proriči iz glasova i znamenja, a ne iz spaljenih žrtava.",
-    "stsl": "Прорицаи гласы и знаменьми · а не съжигаємыми жрьтвами ·",
+    "type": "bio",
+    "year": -520,
+    "sr": "Proricao je pomoću glasova i ptica, a veoma retko pomoću spaljenih žrtava.",
+    "stsl": "По гласѣхъ и птицахъ прорицаше · по съжигаємыхъ же жрьтвахъ вельми рѣдъко ·",
     "originalText": "μαντικῇ τ' ἐχρῆτο τῇ διὰ τῶν κληδόνων τε καὶ οἰωνῶν, ἥκιστα δὲ τῇ διὰ τῶν ἐμπύρων.",
     "author": "Pythagoras",
     "sources": [
@@ -816,11 +797,12 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Pitagora je govorio da je u Adu video Hesiodovu dušu privezanu za bronzani stub i Homerovu obešenu o drvo među zmijama, kažnjene zbog svojih reči o bogovima, kao i duše onih koji nisu ostali verni svojim supružnicima.",
-    "stsl": "Питагоръ глаголаше · ꙗко въ Адѣ видѣ Хесиодову дѹшѹ къ мѣдѣномѹ стълпѹ привезанѹ и Хомерову на дрѣвѣ посрѣдѣ змии повѣшенѹ · за словеса о бозѣхъ мѫчимы · тако же и дѹши невѣрьныхъ къ сѫпрѫгомъ ·",
+    "type": "anecdote",
+    "year": -510,
+    "sr": "Prema Jeronimu, Pitagora je sišao u Had i video Hesiodovu dušu privezanu za bronzani stub, a Homerovu obešenu o drvo među zmijama, kažnjene zbog onoga što su govorili o bogovima. Kažnjeni su bili i oni koji nisu hteli biti sa svojim ženama.",
+    "stsl": "По Иеронимѹ Пѷѳагоръ въ Адъ съниде · тамо Хесиодовѹ дѹшѫ къ мѣдѣномѹ стълпѹ привезанѫ видѣ · Хомеровѹ же на дрѣвѣ посрѣдѣ змии повѣшенѫ · за словеса о бозѣхъ мѫчимы бѣахѫ · Мѫчимы же бѣахѫ и не хотѧштеи съ своими женами быти ·",
     "author": "Pythagoras",
-    "originalText": "Φησὶ δ' Ἱερώνυμος κατελθόντα αὐτὸν εἰς ᾅδου τὴν μὲν Ἡσιόδου ψυχὴν ἰδεῖν πρὸς κίονι χαλκῷ δεδεμένην καὶ τρίζουσαν, τὴν δ' Ὁμήρου κρεμαμένην ἀπὸ δένδρου καὶ ὄφεις περὶ αὐτὴν ἀνθ' ὧν εἶπον περὶ θεῶν.",
+    "originalText": "Φησὶ δ' Ἱερώνυμος κατελθόντα αὐτὸν εἰς ᾅδου τὴν μὲν Ἡσιόδου ψυχὴν ἰδεῖν πρὸς κίονι χαλκῷ δεδεμένην καὶ τρίζουσαν, τὴν δ' Ὁμήρου κρεμαμένην ἀπὸ δένδρου καὶ ὄφεις περὶ αὐτὴν ἀνθ' ὧν εἶπον περὶ θεῶν, κολαζομένους δὲ καὶ τοὺς μὴ θέλοντας συνεῖναι ταῖς ἑαυτῶν γυναιξί.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -830,8 +812,8 @@
   },
   {
     "type": "quote",
-    "sr": "Bogovima ne prinosi životinjske žrtve; prinosi žrtvu samo pred beskrvnim žrtvenikom.",
-    "stsl": "Богомъ животъьныхъ жрьтвъ не приноси · токмо прѣдъ безкръвьнымъ жрьтвеникомъ жрьтвѹ приноси ·",
+    "sr": "Prinosi samo nežive žrtvene darove.",
+    "stsl": "Токмо неодѹшевлены дары въ жрьтвѫ приноси ·",
     "originalText": "θυσίαις τε ἐχρῆτο ἀψύχοις.",
     "author": "Pythagoras",
     "sources": [
@@ -857,7 +839,7 @@
   {
     "type": "quote",
     "sr": "Podržavaj zakon i bori se protiv bezakonja.",
-    "stsl": "Законъ подръжаваи и протъивѹ беззаконию борисѧ ·",
+    "stsl": "Законови помагаи · съ беззакониємь же бори сѧ ·",
     "originalText": "νόμῳ βοηθεῖν, ἀνομίᾳ πολεμεῖν.",
     "author": "Pythagoras",
     "sources": [
@@ -869,8 +851,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne ubijaj niti povređuj pitomo drvo ni životinju koja ne škodi čoveku.",
-    "stsl": "Не ѹбиваи ни врѣди кротъкаго дрѣва ни животънаго · єже чловѣкѹ не вредитъ ·",
+    "sr": "Ne uništavaj niti povređuj pitomu biljku, niti životinju koja ne škodi ljudima.",
+    "stsl": "Не гѹби ни врѣди кротъкаго былиꙗ · ни животънаго · єже чловѣкомъ не вредитъ ·",
     "originalText": "φυτὸν ἥμερον μήτε φθίνειν μήτε σίνεσθαι, ἀλλὰ μηδὲ ζῷον ὃ μὴ βλάπτει ἀνθρώπους.",
     "author": "Pythagoras",
     "sources": [
@@ -882,8 +864,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne predaj se neobuzdanom smehu niti nosi namršteno lice.",
-    "stsl": "Не предаваи сѧ безѹзьдьномѹ смѣхѹ ни мрачно лице носи ·",
+    "sr": "Čuvaj stid i obazrivost: ne predaj se smehu niti budi namršten.",
+    "stsl": "Стыдъ и блюденіє храни · ни смѣхѹ прѣдаваи сѧ · ни мраченъ бѫди ·",
     "originalText": "αἰδῶ καὶ εὐλάβειαν εἶναι μήτε γέλωτι κατέχεσθαι μήτε σκυθρωπάζειν.",
     "author": "Pythagoras",
     "sources": [
@@ -947,8 +929,8 @@
   },
   {
     "type": "quote",
-    "sr": "Uzdržavaj se od boba, jer je pun daha; bez njega je stomak mirniji i snovi prijatniji.",
-    "stsl": "Отъ бобовъ въздръжи сѧ · зане дыха пълни сѫть · безъ нихъ же чрѣво мирьнѣє и съни слащи ·",
+    "sr": "Uzdržavaj se od boba, jer je pun daha i najviše učestvuje u duševnom. Bez njega stomak je uredniji, a snovi glatki i nemutni.",
+    "stsl": "Отъ бобовъ въздръжи сѧ · дъха бо пълни сѫть и дѹшевьномѹ наипаче причѧстьни · безъ нихъ же чрѣво строинѣє · съни гладки и немѫтьни ·",
     "originalText": "τῶν δὲ κυάμων ἀπέχεσθαι διὰ τὸ πνευματώδεις ὄντας μάλιστα μετέχειν τοῦ ψυχικοῦ· καὶ ἄλλως κοσμιωτέρας ἀπεργάζεσθαι μὴ παραληφθέντας τὰς γαστέρας· καὶ διὰ τοῦτο καὶ τὰς καθ' ὕπνους φαντασίας λείας καὶ ἀταράχους ἀποτελεῖν.",
     "author": "Pythagoras",
     "sources": [
@@ -960,8 +942,8 @@
   },
   {
     "type": "quote",
-    "sr": "Iz jednine, koja je uzrok, nastaje neodređeno dvojstvo, koje joj je tvar. Iz jednine i dvojstva nastaju brojevi. Iz brojeva tačke, iz tačaka linije, iz linija ravne figure, iz njih čvrsta tela. Iz tela nastaju čulne stvari i četiri elementa: oganj, voda, zemlja i vazduh.",
-    "stsl": "Отъ єдиньства · єже вина єсть · бываєть неопредѣлено двоиство · єже єму тварь єсть · Отъ єдиньства и двоиства бываѫть числа · Отъ числъ точкы · Отъ точькъ чрьты · Отъ чрътъ равьны образи · Отъ нихъ твръда тѣлеса · Отъ тѣлесъ бываѫть чѹвьствьны вѣшти и четыре състави · огнь · вода · землѧ и въздѹхъ ·",
+    "sr": "Počelo svega je jedinica. Iz jedinice, koja je uzrok, nastaje neodređeno dvojstvo kao njena tvar. Iz jedinice i dvojstva nastaju brojevi; iz brojeva tačke, iz tačaka linije, iz linija ravni likovi, iz njih čvrsti likovi, a iz njih čulna tela i četiri prvine: oganj, voda, zemlja i vazduh.",
+    "stsl": "Начѧло вьсѣмь єдиница · Отъ єдиницѧ · ꙗже причина єсть · бываєть безмѣрьно двоиство · ꙗко тварь єѩ · Отъ єдиницѧ и двоиства бываѭть числа · отъ числъ точькы · отъ точькъ чрьты · отъ чрътъ равьни образи · отъ нихъ твръди образи · отъ сихъ же чѹвьствьна тѣлеса и четыре първинꙑ · огнь · вода · землѧ и въздѹхъ ·",
     "originalText": "ἀρχὴν μὲν τῶν ἁπάντων μονάδα· ἐκ δὲ τῆς μονάδος ἀόριστον δυάδα ὡς ἂν ὕλην τῇ μονάδι αἰτίῳ ὄντι ὑποστῆναι· ἐκ δὲ τῆς μονάδος καὶ τῆς ἀορίστου δυάδος τοὺς ἀριθμούς· ἐκ δὲ τῶν ἀριθμῶν τὰ σημεῖα· ἐκ δὲ τούτων τὰς γραμμάς, ἐξ ὧν τὰ ἐπίπεδα σχήματα· ἐκ δὲ τῶν ἐπιπέδων τὰ στερεὰ σχήματα· ἐκ δὲ τούτων τὰ αἰσθητὰ σώματα, ὧν καὶ τὰ στοιχεῖα εἶναι τέτταρα, πῦρ, ὕδωρ, γῆν, ἀέρα.",
     "author": "Pythagoras",
     "sources": [
@@ -974,7 +956,7 @@
   {
     "type": "quote",
     "sr": "Četiri prvine potpuno prelaze jedna u drugu i iz njih se rađa živ, razuman i okrugao stroj, sa okruglom Zemljom u središtu, naseljenom sa svih strana. Postoje i oni na suprotnoj strani, kojima je naše dole njihovo gore.",
-    "stsl": "Четыре първинꙑ вьсецѣло єдина въ дрѹгꙋ прѣмѣнѧѭть сѧ и отъ нихъ живъ · разумьнъ и окрѫглъ строи родить сѧ · съ окрѫглою Землѥю посредѣ · Отъвьсѫдѹ населенꙋ · Сѫть и инии на przeciwьнѣи странѣ · имъже наше долѣ єсть горѣ ·",
+    "stsl": "Четыре първинꙑ вьсецѣло єдина въ дрѹгѫ прѣмѣнѧѭть сѧ · и отъ нихъ живъ · разѹмьнъ и окрѫглъ строи родить сѧ · съ окрѫглою Землѥю посредѣ · отъвьсѫдѹ населенѫ · Сѫть и инии на противьнѣи странѣ · имъже наше долѣ єсть горѣ ·",
     "originalText": "μεταβάλλειν δὲ καὶ τρέπεσθαι δι' ὅλων, καὶ γίνεσθαι ἐξ αὐτῶν κόσμον ἔμψυχον, νοερόν, σφαιροειδῆ, μέσην περιέχοντα τὴν γῆν καὶ αὐτὴν σφαιροειδῆ καὶ περιοικουμένην. εἶναι δὲ καὶ ἀντίποδας καὶ τὰ ἡμῖν κάτω ἐκείνοις ἄνω.",
     "author": "Pythagoras",
     "sources": [
@@ -986,8 +968,8 @@
   },
   {
     "type": "quote",
-    "sr": "Svetlost i tama, toplo i hladno, suvo i vlažno imaju jednak udeo u stroju. Njihova prevlast stvara godišnja doba, a ravnoteža najbolje vreme.",
-    "stsl": "Свѣтъ и тьма · теплое и стѹденое · сѹхое и влажное равьнъ дѣлъ въ строи имѫть · Прѣвъзмогание ихъ лѣтьна врѣмена творить · равьность же благо врѣмѧ ·",
+    "sr": "Svetlost i tama, toplo i hladno, suvo i vlažno imaju jednak udeo u stroju. Kada preovlada toplota, nastaje leto, a kada preovlada hladnoća, zima; kada su izjednačene, nastaje najlepše doba godine.",
+    "stsl": "Свѣтъ и тьма · теплоє и стѹденоє · сѹхоє и влажноє равьнъ дѣлъ въ строи имѫть · Єгда теплота прѣвъзмогнеть · лѣто бываєть · єгда стѹдень · ꙁима · єгда же равьнѣ сѫть · красно врѣмѧ лѣта бываєть ·",
     "originalText": "ἰσόμοιρά τ' εἶναι ἐν τῷ κόσμῳ φῶς καὶ σκότος, καὶ θερμὸν καὶ ψυχρόν, καὶ ξηρὸν καὶ ὑγρόν· ὧν κατ' ἐπικράτειαν θερμοῦ μὲν θέρος γίνεσθαι, ψυχροῦ δὲ χειμῶνα· ἐὰν δὲ ἰσομοιρῇ, τὰ κάλλιστα εἶναι τοῦ ἔτους.",
     "author": "Pythagoras",
     "sources": [
@@ -999,8 +981,8 @@
   },
   {
     "type": "quote",
-    "sr": "Jutro pripada svežini, veče propadanju.",
-    "stsl": "Ѹтро къ свѣжести · вечеръ къ тлѣнию принадлежить ·",
+    "sr": "Jutro cveta, a veče vene.",
+    "stsl": "Ѹтро цвьтеть · вечеръ же ѹбываєть ·",
     "originalText": "ἀλλὰ καὶ τῆς ἡμέρας θάλλειν μὲν τὴν ἕω, φθίνειν δὲ τὴν ἑσπέραν.",
     "author": "Pythagoras",
     "sources": [
@@ -1026,7 +1008,7 @@
   {
     "type": "quote",
     "sr": "Sunce, Mesec i ostale zvezde su bogovi jer u njima preovlađuje toplota, uzrok života. Mesec je obasjan Suncem. Bogovi i ljudi su srodni jer čovek učestvuje u toploti, pa se Bog stara o čoveku.",
-    "stsl": "Слъньце · мѣсѧць и прочаꙗ звѣзды бози сѫть · зане въ нихъ теплотъа прѣвъзмогаєть · ꙗже вина животъа єсть · Мѣсѧць слъньцемъ освѣштаєть сѧ · Бози и чловѣци сродьни сѫть · зане чловѣкъ теплотъы причѧстьнъ · тѣмь Богъ о чловѣцѣ печеть сѧ ·",
+    "stsl": "Слъньце · мѣсѧць и прочаꙗ звѣзды бози сѫть · въ нихъ бо теплота прѣвъзмогаєть · ꙗже причина живота єсть · Мѣсѧць слъньцемъ освѣштаєть сѧ · Бози и чловѣци сродьни сѫть · чловѣкъ бо теплотꙑ причѧстьнъ · тѣмь Богъ о чловѣцѣ печеть сѧ ·",
     "originalText": "ἥλιόν τε καὶ σελήνην καὶ τοὺς ἄλλους ἀστέρας εἶναι θεούς· ἐπικρατεῖ γὰρ τὸ θερμὸν ἐν αὐτοῖς, ὅπερ ἐστὶ ζωῆς αἴτιον. τήν τε σελήνην λάμπεσθαι ὑφ' ἡλίου. καὶ ἀνθρώπων εἶναι πρὸς θεοὺς συγγένειαν, κατὰ τὸ μετέχειν ἄνθρωπον θερμοῦ· διὸ καὶ προνοεῖσθαι τὸν θεὸν ἡμῶν.",
     "author": "Pythagoras",
     "sources": [
@@ -1038,8 +1020,8 @@
   },
   {
     "type": "quote",
-    "sr": "Sudbina je uzrok poretka svega, kako celine tako i pojedinosti.",
-    "stsl": "Сѫдьба причина єсть чина вьсего · и цѣлаго и частънаго ·",
+    "sr": "Sudbina je uzrok ustrojenja svega, kako celine tako i svakog njenog dela.",
+    "stsl": "Сѫдьба причина строєниꙗ вьсего · и цѣлаго и вьсакого дѣла єго ·",
     "originalText": "εἱμαρμένην τε τῶν ὅλων καὶ κατὰ μέρος αἰτίαν εἶναι τῆς διοικήσεως.",
     "author": "Pythagoras",
     "sources": [
@@ -1051,8 +1033,8 @@
   },
   {
     "type": "quote",
-    "sr": "Sve što ima udela u toploti živi, pa su zato i biljke žive. Ali nema sve dušu. Duša je odvojeni deo etra, toplote i hladnoće; razlikuje se od života i besmrtna je, jer je besmrtno ono od čega se odvojila.",
-    "stsl": "Вьсѧ · ꙗже теплотъы причѧстьна сѫть · живѫть · тѣмь и былиꙗ жива сѫть · Нъ не вьсѧ дѹшꙫ имѫть · Дѹша єсть отъдѣленъ дѣлъ єтера · теплотъы и стѹдениꙗ · Отъ животъа различьна єсть и бесъмрьтна · зане бесъмрьтно єсть оно · Отъ негоже отъдѣли сѧ ·",
+    "sr": "Sve što ima udela u toploti živi, pa su zato i biljke žive. Ali nema sve dušu. Duša je odvojeni deo nebesja, toplote i hladnoće; od života se razlikuje time što učestvuje u hladnom nebesju. Besmrtna je jer je besmrtno ono od čega se odvojila.",
+    "stsl": "Вьсѧ · ꙗже теплотꙑ причѧстьна сѫть · живѫть · тѣмь и былиꙗ жива сѫть · Нъ не вьсѧ дѹшѫ имѫть · Дѹша отъдѣленъ дѣлъ небєсьꙗ · теплотꙑ и стѹдениꙗ · Отъ живота тѣмь различьна єсть · ꙗко стѹденомѹ небєсью причѧстьна · Бесъмрьтна же єсть · бесъмрьтно бо оно · отъ негоже отъдѣли сѧ ·",
     "originalText": "ζῆν μὲν πάνθ' ὅσα μετέχει τοῦ θερμοῦ· διὸ καὶ τὰ φυτὰ ζῷα εἶναι· ψυχὴν μέντοι μὴ ἔχειν πάντα. εἶναι δὲ τὴν ψυχὴν ἀπόσπασμα αἰθέρος καὶ τοῦ θερμοῦ καὶ τοῦ ψυχροῦ. τῷ συμμετέχειν ψυχροῦ αἰθέρος διαφέρειν ψυχὴν ζωῆς· ἀθάνατόν τ' εἶναι αὐτήν, ἐπειδήπερ καὶ τὸ ἀφ' οὗ ἀπέσπασται ἀθάνατόν ἐστι.",
     "author": "Pythagoras",
     "sources": [
@@ -1077,8 +1059,8 @@
   },
   {
     "type": "quote",
-    "sr": "Seme je kap mozga koja u sebi sadrži toplu paru. Kada dospe u matericu, iz mozga se izlučuju sok, vlaga i krv, od kojih nastaju meso, živci, kosti, kosa i celo telo; a od pare duša i čulnost. Zametak se najpre oblikuje za četrdeset dana, a prema odnosima sklada dovršava se za sedam, devet ili najviše deset meseci i tada se rađa dete.",
-    "stsl": "Сѣмѧ єсть каплѧ мозга, содержаща въ себѣ теплъ паръ. Егда въ ѹтробѫ вьнидеть, отъ мозга истѣчають сокъ и влага и кровь, отъ нихъ же бываѭть плъть, жилы, кости, власи и всє тѣло; отъ пара же дѹша и чѹвьство. Зачѧтоє же прьвѣє въ четыредесѧть дьнии образъ приємлеть, по мѣрамъ же склада въ седмь или девѧть или наиболѣе въ десѧть мѣсѧць съвръшается и рождаєть сѧ младенецъ.",
+    "sr": "Seme je kap mozga i u sebi nosi toplu paru. Kada dospe u matericu, iz mozga ističu sok, vlaga i krv. Od njih se sastavljaju meso, živci, kosti, kosa i celo telo, a od pare duša i čuvstvo. Zametak dobija oblik za četrdeset dana. Po merama sklada dovršava se za sedam, devet ili najviše deset meseci; potom se rađa dete.",
+    "stsl": "Сѣмѧ каплѧ мозга · въ немь теплъ паръ · Єгда въ ѹтробѫ вьнидеть · отъ мозга истекѫть сокъ · влага и кръвь · Отъ нихъ съставлѧѭть сѧ плъть · жилы · кости · власи и вьсе тѣло · Отъ пара же дѹша и чѹвьство · Зачѧтоє въ четыредесѧть дьнии образъ приємлеть · По мѣрахъ же склада въ седмь · девѧть или наиболѣе десѧть мѣсѧць съвръшаєть сѧ · таже младенецъ родить сѧ ·",
     "originalText": "τὸ δὲ σπέρμα εἶναι σταγόνα ἐγκεφάλου περιέχουσαν ἐν ἑαυτῇ ἀτμὸν θερμόν· ταύτην δὲ προσφερομένην τῇ μήτρᾳ ἀπὸ μὲν τοῦ ἐγκεφάλου ἰχῶρα καὶ ὑγρὸν καὶ αἷμα προΐεσθαι, ἐξ ὧν σάρκας τε καὶ νεῦρα καὶ ὀστᾶ καὶ τρίχας καὶ τὸ ὅλον συνίστασθαι σῶμα· ἀπὸ δὲ τοῦ ἀτμοῦ ψυχὴν καὶ αἴσθησιν. μορφοῦσθαι δὲ τὸ μὲν πρῶτον παγὲν ἐν ἡμέραις τεσσαράκοντα, κατὰ δὲ τοὺς τῆς ἁρμονίας λόγους ἐν ἑπτὰ ἢ ἐννέα ἢ δέκα τὸ πλεῖστον μησὶ τελειωθὲν ἀποκυΐσκεσθαι τὸ βρέφος.",
     "author": "Pythagoras",
     "sources": [
@@ -1090,8 +1072,8 @@
   },
   {
     "type": "quote",
-    "sr": "Čulo, naročito vid, jeste izuzetno topla para; oči su vrata Sunca. Kada bi para u očima bila hladna, raspršila bi se u dodiru sa sebi sličnim vazduhom. Isto načelo važi za sluh i druga čula.",
-    "stsl": "Чѹвьство · наипаче зрѣние · єсть наитеплѣиши паръ · очи сѫть врата Слъньца · Аще бы паръ въ очихъ стѹденъ бѣ · при прикоснѫтии съ подобьнымъ въздѹхомъ разсѣꙗлъ бы сѧ · То же свойство и о слѹсѣ и инѣхъ чѹвьствѣхъ єсть ·",
+    "sr": "Čuvstvo uopšte, a posebno vid, jeste veoma topla para; oči su vrata Sunca. Kada bi para u očima bila hladna, raspršila bi se u dodiru sa sebi sličnim vazduhom. Isto načelo važi za sluh i druga čuvstva.",
+    "stsl": "Чѹвьство въобще · наипаче же зрѣніє · зѣло теплъ паръ єсть · очи сѫть врата Слъньца · Аще бы паръ въ очихъ стѹденъ бѣ · при прикоснѫтіи съ подобьнымъ въздѹхомъ разсѣꙗлъ бы сѧ · То же и о слѹсѣ и инѣхъ чѹвьствѣхъ єсть ·",
     "originalText": "τήν τ' αἴσθησιν κοινῶς καὶ κατ' εἶδος τὴν ὅρασιν ἀτμόν τιν' ἄγαν εἶναι θερμόν. καὶ διὰ τοῦτον λέγεται δι' ἀέρος ὁρᾶν καὶ δι' ὕδατος· ἀντερείδεσθαι γὰρ τὸ θερμὸν ἐπὶ τοῦ ψυχροῦ. ἐπεί τοι εἰ ψυχρὸς ἦν ὁ ἐν τοῖς ὄμμασιν ἀτμός, διειστήκει ἂν πρὸς τὸν ὅμοιον ἀέρα· νῦν δὲ ἔστιν ἐν οἷς ἡλίου πύλας καλεῖ τοὺς ὀφθαλμούς. τὰ δ' αὐτὰ καὶ περὶ τῆς ἀκοῆς καὶ τῶν λοιπῶν αἰσθήσεων δογματίζειν.",
     "author": "Pythagoras",
     "sources": [
@@ -1103,9 +1085,9 @@
   },
   {
     "type": "quote",
-    "sr": "Um i strast imaju i druge životinje, a razbor jedino čovek. Sedište duše pruža se od srca do mozga: strast je u srcu, a razbor i um u mozgu. Ono što je razborito besmrtno je, a sve ostalo smrtno. Duša se hrani krvlju, a njene reči su nevidljivi vetrovi. I duša i njene reči nevidljive su, kao i etar.",
-    "stsl": "Ѹмъ и страсть имѫть и ина животънаꙗ · разборъ же єдинъ чловѣкъ имать · Сѣдалище дѹше отъ срьдьца до мозга простирєть сѧ · страсть въ срьдьци · разборъ и ѹмъ въ моззѣ · Разборьноє бесъмрьтно · прочаꙗ же съмрьтна · Дѹша кръвию питаєть сѧ · словесиꙗ же дѹше сѫть невидими вѣтри · Она же и словесиꙗ єѧ невидима сѫть · ꙗкоже и небєсьє невидимо єсть ·",
-    "originalText": "Τὴν δ' ἀνθρώπου ψυχὴν διῃρῆσθαι τριχῆ, εἴς τε νοῦν καὶ φρένας καὶ θυμόν. νοῦν μὲν οὖν καὶ θυμὸν εἶναι καὶ ἐν τοῖς ἄλλοις ζῴοις, φρένας δὲ μόνον ἐν ἀνθρώπῳ. εἶναι δὲ τὴν ἀρχὴν τῆς ψυχῆς ἀπὸ καρδίας μέχρις ἐγκεφάλου· καὶ τὸ μὲν ἐν τῇ καρδίᾳ μέρος αὐτῆς ὑπάρχειν θυμόν, φρένας δὲ καὶ νοῦν τὰ ἐν τῷ ἐγκεφάλῳ· σταγόνας δ' εἶναι ἀπὸ τούτων τὰς αἰσθήσεις. καὶ τὸ μὲν φρόνιμον ἀθάνατον, τὰ δὲ λοιπὰ θνητά. τρέφεσθαί τε τὴν ψυχὴν ἀπὸ τοῦ αἵματος· τοὺς δὲ λόγους ψυχῆς ἀνέμους εἶναι. ἀόρατόν τ' εἶναι αὐτὴν καὶ τοὺς λόγους, ἐπεὶ καὶ ὁ αἰθὴρ ἀόρατος.",
+    "sr": "Um i strast imaju i druge životinje, a razbor jedino čovek. Sedište duše pruža se od srca do mozga: strast je u srcu, a razbor i um u mozgu; čuvstva su njihove kapi. Ono što je razborito besmrtno je, a sve ostalo smrtno. Duša se hrani krvlju, a njene reči su nevidljivi vetrovi. I duša i njene reči nevidljive su, kao i etar.",
+    "stsl": "Ѹмъ и страсть имѫть и ина животънаꙗ · разборъ же єдинъ чловѣкъ имать · Сѣдалище дѹше отъ срьдьца до мозга простирєть сѧ · страсть въ срьдьци · разборъ и ѹмъ въ моззѣ · Чѹвьства же каплѩ отъ сихъ сѫть · Разборьноє бесъмрьтно · прочаꙗ же съмрьтна · Дѹша кръвию питаєть сѧ · словесиꙗ же дѹше сѫть невидими вѣтри · Она же и словесиꙗ єѧ невидима сѫть · ꙗкоже и небєсьє невидимо єсть ·",
+    "originalText": "νοῦν μὲν οὖν καὶ θυμὸν εἶναι καὶ ἐν τοῖς ἄλλοις ζῴοις, φρένας δὲ μόνον ἐν ἀνθρώπῳ. εἶναι δὲ τὴν ἀρχὴν τῆς ψυχῆς ἀπὸ καρδίας μέχρις ἐγκεφάλου· καὶ τὸ μὲν ἐν τῇ καρδίᾳ μέρος αὐτῆς ὑπάρχειν θυμόν, φρένας δὲ καὶ νοῦν τὰ ἐν τῷ ἐγκεφάλῳ· σταγόνας δ' εἶναι ἀπὸ τούτων τὰς αἰσθήσεις. καὶ τὸ μὲν φρόνιμον ἀθάνατον, τὰ δὲ λοιπὰ θνητά. τρέφεσθαί τε τὴν ψυχὴν ἀπὸ τοῦ αἵματος· τοὺς δὲ λόγους ψυχῆς ἀνέμους εἶναι. ἀόρατόν τ' εἶναι αὐτὴν καὶ τοὺς λόγους, ἐπεὶ καὶ ὁ αἰθὴρ ἀόρατος.",
     "author": "Pythagoras",
     "sources": [
       {
@@ -1116,8 +1098,8 @@
   },
   {
     "type": "quote",
-    "sr": "Vene, arterije i tetive veze su duše; kada je duša snažna i sabrana u sebi, njene veze postaju misli i dela. Po izlasku iz tela luta vazduhom. Hermes vodi duše: čiste uznosi u najvišu oblast, a nečiste Erinije vezuju neraskidivim okovima.",
-    "stsl": "Жилы · кръвьны сѫды и тетивы връзи дѹше сѫть · єгда дѹша крѣпка и въ себѣ събрана єсть · мысли и дѣла връзи єѧ бываѭть · По исходѣ изъ тѣла въ въздѹсѣ блѹдить · Хермесъ дѹшы водить · чистыѧ въ вышнѭю область възводить · нечистыѧ же Еринии нераздрѣшимыими оковы вѧжѫть ·",
+    "sr": "Vene, arterije i tetive veze su duše; kada je duša snažna, odvojena i mirna, njene reči i dela postaju joj veze. Po izlasku iz tela luta zemljom kroz vazduh, nalik telu. Hermes je upravitelj duša, zato se naziva pratiocem, vratarom i podzemnim: on šalje duše iz tela na zemlji i moru. Čiste vodi u najvišu oblast, dok se nečiste ne mogu približiti ni njima ni jedna drugoj, nego ih Erinije vezuju neraskidivim okovima.",
+    "stsl": "Жилы · кръвьни сѫди и тетивы връзи дѹше сѫть · Єгда же дѹша крѣпка · отъдѣлена и покоина єсть · словеса и дѣла връзи єи бываѭть · По исходѣ изъ тѣла по земли въ въздѹсѣ блѹдить · тѣлѹ подобьна · Хермесъ дѹшъ правитель єсть · тѣмь пѫтьникъ · вратарь и подъзємьныи нарицаєть сѧ · тъ бо дѹшы изъ тѣлесъ на земли и въ мори посылаєть · Чистыѧ въ вышнѭю область водить · нечистыѧ же ни къ нимъ ни єдина къ дрѹꙁѣи пристѫпити не могѫть · Еринии бо ѩ нераздрѣшимыими оковы вѧжѫть ·",
     "originalText": "δεσμά τ' εἶναι τῆς ψυχῆς τὰς φλέβας καὶ τὰς ἀρτηρίας καὶ τὰ νεῦρα· ὅταν δ' ἰσχύῃ καὶ καθ' αὑτὴν γενομένη ἠρεμῇ, δεσμὰ γίνεσθαι αὐτῆς τοὺς λόγους καὶ τὰ ἔργα. ἐκριφθεῖσάν τ' αὐτὴν ἐπὶ γῆς πλάζεσθαι ἐν τῷ ἀέρι ὁμοίαν τῷ σώματι. τὸν δ' Ἑρμῆν ταμίαν εἶναι τῶν ψυχῶν καὶ διὰ τοῦτο πομπαῖον λέγεσθαι καὶ πυλαῖον καὶ χθόνιον, ἐπειδήπερ οὗτος καὶ εἰσπέμπει ἀπὸ τῶν σωμάτων τὰς ψυχὰς ἀπό τε γῆς καὶ ἐκ θαλάττης· καὶ ἄγεσθαι μὲν τὰς καθαρὰς ἐπὶ τὸν ὕψιστον, τὰς δ' ἀκαθάρτους μήτ' ἐκείναις πελάζειν μήτ' ἀλλήλαις, δεῖσθαι δ' ἐν ἀῤῥήκτοις δεσμοῖς ὑπ' Ἐρινύων.",
     "author": "Pythagoras",
     "sources": [
@@ -1129,8 +1111,8 @@
   },
   {
     "type": "quote",
-    "sr": "Sav vazduh pun je duša, nazvanih duhovima ili herojima; one ljudima i životinjama šalju snove i znake buduće bolesti i zdravlja.",
-    "stsl": "Вьсь въздѹхъ дѹшъ пълнъ єсть · дѹхами или щитители нарицаємыихъ · они чловѣкомъ и животънымъ съны и знамениꙗ грѧдѫщихъ болѣзни и здравиꙗ посылаѭть ·",
+    "sr": "Sav vazduh pun je duša, nazvanih božanstvima ili junacima; one ljudima i životinjama šalju snove i znake buduće bolesti i zdravlja. Njima su namenjeni obredi očišćenja i odvraćanja zla, sva proricanja, znamenja i slično.",
+    "stsl": "Вьсь въздѹхъ дѹшъ пълнъ єсть · божьствы или витѧзи нарицаємыхъ · они чловѣкомъ и животънымъ съны и ꙁнамениꙗ грѧдѫштихъ болѣꙁни и здравиꙗ посылаѭть · Къ нимъ же очищеніꙗ и отъврашеніꙗ · вьсѣ гаданиꙗ · ꙁнамениꙗ и подобьнаꙗ творѧть сѧ ·",
     "originalText": "εἶναί τε πάντα τὸν ἀέρα ψυχῶν ἔμπλεων· καὶ ταύτας δαίμονάς τε καὶ ἥρωας ὀνομάζεσθαι· καὶ ὑπὸ τούτων πέμπεσθαι ἀνθρώποις τούς τ' ὀνείρους καὶ τὰ σημεῖα νόσους τε, καὶ οὐ μόνον ἀνθρώποις ἀλλὰ καὶ προβάτοις καὶ τοῖς ἄλλοις κτήνεσιν· εἴς τε τούτους γίνεσθαι τούς τε καθαρμοὺς καὶ ἀποτροπιασμοὺς μαντικήν τε πᾶσαν καὶ κληδόνας καὶ τὰ ὅμοια.",
     "author": "Pythagoras",
     "sources": [
@@ -1142,8 +1124,8 @@
   },
   {
     "type": "quote",
-    "sr": "Najveće umeće života jeste urediti dušu za dobro ili zlo; ljudi blagočeste kada steknu dobru dušu.",
-    "stsl": "Наиважьнѣє оумѣние чловѣчьскаго житіꙗ єсть дѹшѫ къ благѹ или злѹ устроити · чловѣци благочѧстѧть · егда добрѫ дѹшѫ сътѧжѫть ·",
+    "sr": "Najveće među ljudskim stvarima jeste privoliti dušu na dobro ili zlo; ljudi blagočeste kada steknu dobru dušu. Duša nikada ne miruje niti zadržava isti tok.",
+    "stsl": "Вѧште вьсѣхъ чловѣчьскыхъ дѣлъ дѹшѫ къ благѹ или злѹ приволити · чловѣци благочѧстѧть · єгда добрѫ дѹшѫ сътѧжѫть · Дѹша николиже не покоить сѧ · ни тождь токъ дрьжить ·",
     "originalText": "μέγιστον δέ φησιν τῶν ἐν ἀνθρώποις εἶναι τὴν ψυχὴν πεῖσαι ἐπὶ τὸ ἀγαθὸν ἢ ἐπὶ τὸ κακόν. εὐδαιμονεῖν τ' ἀνθρώπους ὅταν ἀγαθὴ ψυχὴ προσγένηται, μηδέποτε δ' ἠρεμεῖν μηδὲ τὸν αὐτὸν ῥόον κρατεῖν.",
     "author": "Pythagoras",
     "sources": [
@@ -1157,9 +1139,13 @@
     "type": "quote",
     "sr": "Prijateljstvo jeste saglasnost i jednakost.",
     "stsl": "Дрѹжьба дрѹговъ єсть съгласиє и равьньство ·",
-    "originalText": "φιλίαν τ' εἶναι ἐναρμόνιον ἰσότητα.",
+    "originalText": "φιλίαν ἰσότητα. φιλίαν τ' εἶναι ἐναρμόνιον ἰσότητα.",
     "author": "Pythagoras",
     "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.10"
+      },
       {
         "name": "diogenes-laertius",
         "reference": "VIII.33"
@@ -1168,8 +1154,8 @@
   },
   {
     "type": "quote",
-    "sr": "Očišćenje zahteva pranje, obredno kropljenje i uzdržavanje od oskrnavljenja i jedenja duševnih bića.",
-    "stsl": "Очищеніє требѹєть омовеніꙗ · окропленіꙗ и въздръжаніꙗ отъ скврънь и ѧдениꙗ имѫщихъ дѹшѫ ·",
+    "sr": "Čistota se postiže očišćenjima, kupanjem i obrednim kropljenjem, čuvanjem od žalosti, porođaja i svakog oskrnavljenja, kao i uzdržavanjem od mesa uginulih životinja, cipla, crnorepke, jaja, životinja koje nose jaja, boba i svega što zabranjuju vršioci svetih obreda.",
+    "stsl": "Чистота очищеніи · омовеніи и окропленіи бываєть · и блюденіємь отъ плача · рождениꙗ и вьсакыѧ скврьны · Въздръжати же сѧ подобаєть отъ мѧса ѹмръшихъ животъныхъ · чрьвеныѧ рыбы · чрьнохвостыѧ · ꙗицъ · ꙗицеродьныхъ животъныхъ · бобовъ и вьсего · єже свѧтыѧ обрѧды творѧштеи възбранѧѭть ·",
     "originalText": "τὴν δ' ἁγνείαν εἶναι διὰ καθαρμῶν καὶ λουτρῶν καὶ περιῤῥαντηρίων καὶ διὰ τοῦ αὐτὸν καθαρεύειν ἀπό τε κήδους καὶ λεχοῦς καὶ μιάσματος παντὸς καὶ ἀπέχεσθαι βρωτῶν θνησειδίων τε κρεῶν καὶ τριγλῶν καὶ μελανούρων καὶ ᾠῶν καὶ τῶν ᾠοτόκων ζῴων καὶ κυάμων καὶ τῶν ἄλλων ὧν παρακελεύονται καὶ οἱ τὰς τελετὰς ἐν τοῖς ἱεροῖς ἐπιτελοῦντες.",
     "author": "Pythagoras",
     "sources": [
@@ -1206,9 +1192,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Nedostojno je javno filozofirati; spise ne predaj nikome izvan kuće.",
-    "stsl": "Всенародьно любомѫдрьствовати недостоино єсть · писаніѧ никомѹ внѣ домѹ не предаваи ·",
+    "type": "reported",
+    "sr": "Pitagora je javno filozofiranje smatrao nedostojnim i naložio da se spisi ne predaju nikome izvan kuće.",
+    "stsl": "Пѷѳагоръ всенародьно любомѫдрьствовати недостоино мьнѣаше · писаниꙗ же никомѹ внѣ домѹ не прѣдавати повелѣ ·",
     "originalText": "τὺ καὶ δαμοσίᾳ φιλοσοφέν, ὅπερ ἀπαξίωσε Πυθαγόρας· μηδενὶ τῶν ἐκτὸς τᾶς οἰκίας παραδιδόμεν.",
     "author": "Pythagoras",
     "sources": [
@@ -1220,8 +1206,8 @@
   },
   {
     "type": "reported",
-    "sr": "Pitagora je prvi nazvao nebo strojem i rekao da je Zemlja okrugla.",
-    "stsl": "Питагоръ прьвъ небо строємъ нарече и ꙗко Землѧ єсть крѹгла ·",
+    "sr": "Pitagori se pripisuje da je prvi nazvao nebo strojem i Zemlju okruglom; Teofrast to pripisuje Parmenidu, a Zenon Hesiodu.",
+    "stsl": "Пѷѳагорѣ приписѹѭть · ꙗко прьвъ небо строємъ нарече и Землѭ окрѫглѫ · Феофрастъ же то Парменидѹ · Зенонъ Хесиодѹ приписѹєть ·",
     "originalText": "ἀλλὰ μὴν καὶ τὸν οὐρανὸν πρῶτον ὀνομάσαι κόσμον καὶ τὴν γῆν στρογγύλην, ὡς δὲ Θεόφραστος Παρμενίδην, ὡς δὲ Ζήνων Ἡσίοδον.",
     "author": "Pythagoras",
     "sources": [
@@ -1234,9 +1220,9 @@
   {
     "type": "bio",
     "year": -530,
-    "sr": "Dve grane filozofije nastale: jonska od Anaksimandra, italska od Pitagore koji u Italiji filozofirao.",
+    "sr": "Nastale su dve grane filozofije: jonska od Anaksimandra i italska od Pitagore, koji je najvećim delom filozofirao u Italiji.",
     "stsl": "Двѣ вѣтви любомѫдриꙗ бꙑстѣ · іонскаꙗ отъ Анаксимандра · италскаꙗ отъ Пѷѳагорꙑ иже въ Италіи любомѫдрьствова ·",
-    "originalText": "Φιλοσοφίας δὲ δύο γεγόνασιν ἀρχαί, ἥ τε ἀπὸ Ἀναξιμάνδρου καὶ ἡ ἀπὸ Πυθαγόρου· Πυθαγόρου δὲ Φερεκύδης καθηγήσατο. ἡ δὲ Ἰταλικὴ ἀπὸ Πυθαγόρου, ὅτι τὰ πλεῖστα κατὰ τὴν Ἰταλίαν ἐφιλοσόφησεν.",
+    "originalText": "Φιλοσοφίας δὲ δύο γεγόνασιν ἀρχαί, ἥ τε ἀπὸ Ἀναξιμάνδρου καὶ ἡ ἀπὸ Πυθαγόρου· ἡ δὲ Ἰταλικὴ ἀπὸ Πυθαγόρου, ὅτι τὰ πλεῖστα κατὰ τὴν Ἰταλίαν ἐφιλοσόφησεν.",
     "author": "Pythagoras",
     "sources": [
       {
@@ -1263,14 +1249,18 @@
   },
   {
     "type": "reported",
-    "sr": "Po Favorinu Parmenid prvi otkrio da su Večernjača i Danica ista zvezda; drugi to pripisuju Pitagori.",
-    "stsl": "По Фаворинѹ Парменидъ прьвъ отъкръі · ꙗко вечернѧꙗ и дьница тожде звѣзда єсть · инии же то Пѷѳагорѣ приписѹѭть ·",
-    "originalText": "δοκεῖ πρῶτος πεφωρακέναι τὸν αὐτὸν εἶναι Ἕσπερον καὶ Φωσφόρον, ὥς φησι Φαβωρῖνος ἐν πέμπτῳ Ἀπομνημονευμάτων· οἱ δὲ Πυθαγόραν·",
+    "sr": "Pitagori se pripisuje da je prvi rekao da su Večernjača i Danica ista zvezda; Favorin to otkriće pripisuje Parmenidu.",
+    "stsl": "Пѷѳагорѣ приписѹѭть · ꙗко прьвъ рече вечернѭю и дьницѫ тожде звѣздѫ быти · Фаворинъ же то отъкрытиє Парменидѹ приписѹєть ·",
+    "originalText": "πρῶτόν τε Ἕσπερον καὶ Φωσφόρον τὸν αὐτὸν εἰπεῖν. δοκεῖ πρῶτος πεφωρακέναι τὸν αὐτὸν εἶναι Ἕσπερον καὶ Φωσφόρον, ὥς φησι Φαβωρῖνος ἐν πέμπτῳ Ἀπομνημονευμάτων· οἱ δὲ Πυθαγόραν·",
     "author": [
       "Pythagoras",
       "Parmenides"
     ],
     "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.14"
+      },
       {
         "name": "diogenes-laertius",
         "reference": "IX.23"
@@ -1279,8 +1269,8 @@
   },
   {
     "type": "reported",
-    "sr": "Demokrit sledilac pitagorejaca beše; Pitagoru spominje sa divljenjem u svom delu, mogao ga je slušati da vremena nisu bila protivna.",
-    "stsl": "Демокритъ послѣдователь пѷѳагореѩнъ бѣ · Пѷѳагорѫ съ дивлениємъ въ дѣлѣ своємь споминаєтъ · Могълъ би єго и слꙑшати · аште врѣмена не бꙑстѣ протъивна ·",
+    "sr": "Prema Trasillu, Demokrit je sledio pitagorejce i u istoimenom spisu sa divljenjem pominjao Pitagoru. Izgleda da je sve preuzeo od njega i mogao bi ga i slušati da se tome ne protive godine.",
+    "stsl": "По Трасѵллѹ Демокритъ питагорѣємъ послѣдова · Пѷѳагорѫ же съ дивленіємь въ єдиноименьнѣмь писании поминаєть · Вьсѧ отъ него приѧти мьнить сѧ · могълъ бы єго и слꙑшати · аште бы врѣмена не противила сѧ ·",
     "originalText": "δοκεῖ δέ, φησὶν ὁ Θράσυλλος, ζηλωτὴς γεγονέναι τῶν Πυθαγορικῶν· ἀλλὰ καὶ αὐτοῦ Πυθαγόρου μέμνηται, θαυμάζων αὐτὸν ἐν τῷ ὁμωνύμῳ συγγράμματι. πάντα δὲ δοκεῖν παρὰ τούτου λαβεῖν καὶ αὐτοῦ δ' ἂν ἀκηκοέναι εἰ μὴ τὰ τῶν χρόνων ἐμάχετο.",
     "author": [
       "Pythagoras",

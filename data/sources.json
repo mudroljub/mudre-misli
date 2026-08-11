@@ -19,5 +19,33 @@
     "originalTitle": "Die Fragmente der Vorsokratiker",
     "stsl": "Фрагменты прѣдсократїковъ",
     "sr": "Fragmenti predsokratovaca"
+  },
+  "plutarch": {
+    "author": "Plutarch",
+    "language": "grc",
+    "originalTitle": "Ἑπτὰ σοφῶν συμπόσιον",
+    "stsl": "Пиръ седми мѫдрьць",
+    "sr": "Gozba sedmorice mudraca"
+  },
+  "aristotle": {
+    "author": "Aristotle",
+    "language": "grc",
+    "originalTitle": "Ῥητορική",
+    "stsl": "Рѣчьство",
+    "sr": "Retorika"
+  },
+  "athenaeus": {
+    "author": "Athenaeus",
+    "language": "grc",
+    "originalTitle": "Δειπνοσοφισταί",
+    "stsl": "Пиръ мѫдрьць",
+    "sr": "Gozba mudraca"
+  },
+  "dissoi-logoi": {
+    "author": "Anonymous",
+    "language": "grc",
+    "originalTitle": "Δισσοὶ λόγοι",
+    "stsl": "Двои словеси",
+    "sr": "Dvostruki govori"
   }
 }

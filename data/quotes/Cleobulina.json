@@ -1,0 +1,63 @@
+[
+  {
+    "type": "bio",
+    "year": -600,
+    "sr": "Kleobulina iz Linda bila je Kleobulova kći i sastavljala je zagonetke u heksametru.",
+    "stsl": "Клєовѹліна отъ Лінда · дъщи Клєовѹлова · аинігмꙑ въ єѯамєтрѣ съставлꙗаше ·",
+    "originalText": "Γενέσθαι τε αὐτῷ θυγατέρα Κλεοβουλίνην, αἰνιγμάτων ἑξαμέτρων ποιήτριαν",
+    "author": "Cleobulina",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.89"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Videh čoveka kako vatrom priljubljuje bronzu uz čoveka, tako čvrsto da ih čini iste krvi.",
+    "stsl": "Мѫжа видѣхъ · огньмь мѣдь къ мѫжѹ прилѣплѧѭшта · тако крѣпъко ꙗко єдинѹ кръвь има творити ·",
+    "originalText": "ἄνδρ᾽ εἶδον πυρὶ χαλκὸν ἐπ᾽ ἀνέρι κολλήσαντα, οὕτω συγκόλλως ὥστε σύναιμα ποιεῖν.",
+    "author": "Cleobulina",
+    "sources": [
+      {
+        "name": "plutarch",
+        "reference": "Moralia 150E"
+      },
+      {
+        "name": "aristotle",
+        "reference": "Rhetoric III.2, 1405a"
+      },
+      {
+        "name": "athenaeus",
+        "reference": "X.452b"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Videh čoveka kako krade i obmanjuje silom, a učiniti to silom beše najpravednije.",
+    "stsl": "Мѫжа видѣхъ крадѫшта и прѣльщаѭшта силоѭ · и силоѭ то сътворити правьдьнѣише бѣ ·",
+    "originalText": "ἄνδρ᾽ εἶδον κλέπτοντα καὶ ἐξαπατῶντα βιαίως, καὶ τὸ βίᾳ ῥέξαι τοῦτο δικαιότατον.",
+    "author": "Cleobulina",
+    "sources": [
+      {
+        "name": "dissoi-logoi",
+        "reference": "3.11"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Mrtav magarac udari me po uhu rožnatom cevanicom.",
+    "stsl": "Мрьтвъ осьлъ рогатоѭ голѣніѭ ѹхо ми ѹдари ·",
+    "originalText": "κνήμῃ νεκρὸς ὄνος με κερασφόρῳ οὖας ἔκρουσεν.",
+    "author": "Cleobulina",
+    "sources": [
+      {
+        "name": "plutarch",
+        "reference": "Moralia 150F"
+      }
+    ]
+  }
+]
