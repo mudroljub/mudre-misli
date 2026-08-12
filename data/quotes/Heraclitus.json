@@ -669,8 +669,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Раꙁьнствꙋѭщєє съходить сѧ · изъ протъивьнꙑхъ краснѣишии складъ · вьсѧ по вражьдѣ родѧть сѧ ·",
-    "sr": "Različno se sjedinjuje, iz suprotnosti najlepši sklad, i sve se rađa kroz razdor.",
+    "stsl": "Противьнаꙗ съходѧть сѧ · изъ раꙁьнствꙋѭщиихъ краснѣишии складъ · вьсѧ по вражьдѣ родѧть сѧ ·",
+    "sr": "Suprotnosti se sjedinjuju, iz različitosti nastaje najlepši sklad, i sve se rađa kroz razdor.",
     "originalText": "τὸ ἀντίξουν συμφέρον καὶ ἐκ τῶν διαφερόντων καλλίστην ἁρμονίαν καὶ πάντα κατ᾽ ἔριν γίνεσθαι.",
     "author": "Heraclitus",
     "sources": [
@@ -682,8 +682,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Осьли сѣчкѹ паче ꙁлата изъбраали би ·",
-    "sr": "Magarci bi sekanje radije birali nego zlato.",
+    "stsl": "Осьли сѣно паче ꙁлата изъбрали бꙑ ·",
+    "sr": "Magarci bi radije izabrali seno nego zlato.",
     "originalText": "ὄνους σύρματ᾽ ἂν ἑλέσθαι μᾶλλον ἢ χρυσόν.",
     "author": "Heraclitus",
     "sources": [
@@ -708,9 +708,22 @@
   },
   {
     "type": "quote",
-    "stsl": "Въ рѣкѹ тѹждѹ вьходѧщимь ина и ина вода прїтечєть · Дѹшѧ же отъ влагъ испарѧѭть сѧ ·",
-    "sr": "Onima što ulaze u istu reku doliva nova i nova voda. I duše isparavaju iz vlažnog.",
-    "originalText": "ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ· καὶ ψυχαὶ δὲ ἀπὸ τῶν ὑγρῶν ἀναθυμιῶνται.",
+    "stsl": "Въ рѣкѹ тѹждѹ вьходѧщимъ ина и ина вода притечеть ·",
+    "sr": "Onima koji ulaze u istu reku pritiče nova i nova voda.",
+    "originalText": "ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.12"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "stsl": "Дѹшѧ же отъ влагъ испарѧѭть ·",
+    "sr": "Duše isparavaju iz vlažnog.",
+    "originalText": "καὶ ψυχαὶ δὲ ἀπὸ τῶν ὑγρῶν ἀναθυμιῶνται.",
     "author": "Heraclitus",
     "sources": [
       {
@@ -733,10 +746,10 @@
     ]
   },
   {
-    "type": "quote",
-    "stsl": "Комѹ прорицаєть Єфеѹскии · Ношьникомь · волхвомь · бакхамь · мѣнадамь · въвѧꙁанꙑмь · Тѣмь грозить по смрьти · тѣмь прорицаєть огнь · Егда людьскꙑимь чиномь непосвѧщено посвѧщаѭть сѧ ·",
-    "sr": "Kome prorokuje Efeški? Noćonoškama, čarobnjacima, bakantima, menadama i posvećenima. Njima preti posle smrti, njima prorokuje vatru. Jer nepobožno se posvećuju kako je običaj među ljudima.",
-    "originalText": "νυκτιπόλοις, μάγοις, βάκχοις, λήναις, μύσταις· τούτοις ἀπειλεῖ τὰ μετὰ θάνατον, τούτοις μαντεύεται τὸ πῦρ. τὰ γὰρ νομιζόμενα κατ᾽ ἀνθρώπους μυστήρια ἀνιερωστὶ μυοῦνται.",
+    "type": "reported",
+    "stsl": "[Комѹ же пророкѹѥть Хераклитъ Ефесьскꙑи?] Нощьникомъ · влъхвомъ · вакхомъ · ленамъ · таиникомъ · [Тѣмь грозить по смрьти · тѣмь огнь пророкѹѥть ·] Таиньства [бо] людьскаꙗ несвѧто посвѧщаѭть ·",
+    "sr": "[Kome prorokuje Heraklit Efežanin?] Noćnicima, vračevima, bakhantima, lenama i posvećenicima. [Njima preti onim što dolazi posle smrti; njima prorokuje vatru.] [Jer] tajne ljudske nesveto posvećuju.",
+    "originalText": "[τίσι δὴ μαντεύεται Ἡ. ὁ Ἐφέσιος;] νυκτιπόλοις, μάγοις, βάκχοις, λήναις, μύσταις· [τούτοις ἀπειλεῖ τὰ μετὰ θάνατον, τούτοις μαντεύεται τὸ πῦρ·] τὰ [γὰρ] νομιζόμενα κατ᾽ ἀνθρώπους μυστήρια ἀνιερωστὶ μυεῦνται.",
     "author": "Heraclitus",
     "sources": [
       {
@@ -747,8 +760,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Аще бо не Дионисѹ поводъ творѣахѫ и срамьнѹ пѣснь пѣахѫ · бесрамнѣе бꙑ дѣло · Самъ же Аидъ и Дионисъ комѹже безѹмьствѹѭть ·",
-    "sr": "Jer kad ne bi Dionisu procesiju vodili i sramnu pesmu pevali, najsramnije bi delo bilo. Ali isti je Hades i Dionis, kome besne.",
+    "stsl": "Аще бо не Дионисѹ ходъ творѧть и пѣснь въ честь срамнаго ѹда поѭть · бесрамьнѣишаꙗ бы творили · Адъ же и Дионисъ тъжьде богъ єсть · єгоже ради неистовьствѹѭть и обрядꙑ творѧть ·",
+    "sr": "Da ne priređuju povorku Dionisu i ne pevaju pesmu u čast polnog uda, činili bi nešto krajnje bestidno. Ali Had i Dionis su jedan te isti bog, zbog koga padaju u zanos i vrše obrede.",
     "originalText": "εἰ μὴ γὰρ Διονύσῳ πομπὴν ἐποιοῦντο καὶ ὕμνεον ᾆσμα αἰδοίοισιν, ἀναιδέστατα εἴργαστ᾽ ἄν. ὡυτὸς δὲ Ἅιδης καὶ Διόνυσος, ὅτεῳ μαίνονται καὶ ληναΐζουσι.",
     "author": "Heraclitus",
     "sources": [
@@ -760,7 +773,7 @@
   },
   {
     "type": "quote",
-    "stsl": "То не заходѧщеє како би кто сокрꙑлъ ·",
+    "stsl": "Како можетъ кто съкрꙑти не заходѧщее николиже ·",
     "sr": "Kako može neko sakriti ono što nikada ne zalazi?",
     "originalText": "τὸ μὴ δῦνόν ποτε πῶς ἄν τις λάθοι;",
     "author": "Heraclitus",
@@ -773,8 +786,8 @@
   },
   {
     "type": "quote",
-    "stsl": "Не мьнѧть сѧ мнози таково ꙗкоже имь приѫдеть · ни наѹчивъше сѧ ꙁнаѭть · себѣ же мьнѧть ·",
-    "sr": "Ne misle mnogi takvo kakvo im dolazi, niti naučivši se znaju, ali sebi misle.",
+    "stsl": "Мноꙁи бо не раꙁѹмѣѭть ꙗже срѣтаѭть · ни наѹчивъше сѧ познаѭть · себѣ же мьнѧть сѧ ·",
+    "sr": "Mnogi ne razumeju ono sa čim se susreću, niti to poznaju kada nauče, a sami sebi se čine.",
     "originalText": "οὐ γὰρ φρονέουσι τοιαῦτα οἱ πολλοί, ὁκοίοις ἐγκυρεῦσιν, οὐδὲ μαθόντες γινώσκουσιν, ἑωυτοῖσι δὲ δοκέουσι.",
     "author": "Heraclitus",
     "sources": [

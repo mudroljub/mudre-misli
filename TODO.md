@@ -89,6 +89,7 @@ Detalji i obrazloženja: `docs/IZVESTAJ_O_POTPUNOSTI_DIOGENA.md`.
   `data/sources/INDEX_DIELS.md` i stare analize sa sadašnjim stanjem izvora;
   indeks sada opisuje 16 postojećih tekstualnih isečaka, uklonjene izvedene
   JSON fajlove i ograničenja OCR-a, a stare analize su označene kao istorijske.
+- [ ] Pronaći fragment kod Diogena Leartija gde Heraklit govori o veličini sunca, i dodati ga.
 
 ## 3. Kvalitet prevoda
 
@@ -183,6 +184,7 @@ zasebno isklesati staroslovenski i srpski prevod prema
   nakon svake promene zajedničkog layouta.
 - [ ] Dodati vizuelne regresione ili bar dokumentovane ručne provere za uske i
   široke ekrane.
+- [ ] Dodati greekToLatin(quote.originalText) na stranicu recnik
 
 ## Redosled narednih paketa rada
 
