@@ -156,25 +156,7 @@ zasebno isklesati staroslovenski i srpski prevod prema
 - [ ] Doraditi `data/sources/source-map.json` samo kroz
   `npm run build:sources`; ne menjati generisani fajl ručno.
 
-## 7. Automatizovane provere
-
-- [ ] Uvesti jednu komandu, na primer `npm run validate:data`, koja proverava:
-  - ispravnost svih JSON fajlova;
-  - postojanje autora u `data/authors.json`;
-  - obavezna polja i dozvoljene tipove;
-  - pravila za `year` prema tipu;
-  - kanonska imena izvora i format reference;
-  - duplikate stabilnih ID-jeva;
-  - validnost lokalnih pointera;
-  - sumnjive potpune duplikate teksta.
-- [x] Uvedena je početna komanda `npm run validate:data`: tvrdo proverava JSON,
-  autore, obavezna polja, tipove, pravila za godine, izvore i reference, a
-  moguće potpune duplikate prijavljuje kao upozorenja.
-- [x] Dodati ovu proveru pre `build:quotes` ili kao deo produkcijskog builda;
-  `prebuild:quotes` sada automatski pokreće `validate:data`.
-- [x] Puna produkcijska izgradnja prolazi; generisano je 2.938 statičkih stranica.
-
-## 8. UI i prikaz sadržaja
+## 7. UI i prikaz sadržaja
 
 - [ ] Proveriti prikaz veoma dugih `works` unosa, naročito Epikurovih pisama:
   čitljivost, sidra, navigaciju unutar dela i ponašanje na telefonu.

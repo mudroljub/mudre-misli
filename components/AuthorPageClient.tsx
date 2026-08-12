@@ -4,7 +4,15 @@ import Sidebar from "./Sidebar";
 import Header from "./Header";
 import { getAuthorName, placesData } from "../utils/data";
 import { useTranslations } from "../utils/useTranslations";
-import type { AuthorData, Language, Entry, LifeEvent, Saying, Writing } from "../types/data";
+import type {
+  AuthorData,
+  Language,
+  Entry,
+  LifeEvent,
+  Saying,
+  Writing,
+  Letter,
+} from "../types/data";
 import QuoteCard from "./QuoteCard";
 import BookLayout from "./BookLayout";
 import BirthplaceMap from "./BirthplaceMap";
@@ -47,12 +55,16 @@ export default function AuthorPageClient({
       (entry.type === "quote" || entry.type === "reported") && isCrossReference(entry),
   );
 
-  const lifeEventsSection = authorEntries
-    .filter((entry): entry is LifeEvent => entry.type === "anecdote" || entry.type === "bio"
-    );
+  const lifeEventsSection = authorEntries.filter(
+    (entry): entry is LifeEvent => entry.type === "anecdote" || entry.type === "bio",
+  );
 
   const works = authorEntries.filter(
-    (entry): entry is Writing => entry.type === "works" && !isCrossReference(entry)
+    (entry): entry is Writing => entry.type === "works" && !isCrossReference(entry),
+  );
+
+  const letters = authorEntries.filter(
+    (entry): entry is Letter => entry.type === "letter" && !isCrossReference(entry),
   );
 
   return (
@@ -66,7 +78,15 @@ export default function AuthorPageClient({
           <h2 className={styles.authorName}>
             {authorName}{" "}
             <span className={styles.authorDates}>
-              ({authorData.born < 0 ? `${Math.abs(authorData.born)} ${t.bce}` : authorData.born} – {authorData.died < 0 ? `${Math.abs(authorData.died)} ${t.bce}` : authorData.died})
+              (
+              {authorData.born < 0
+                ? `${Math.abs(authorData.born)} ${t.bce}`
+                : authorData.born}{" "}
+              –{" "}
+              {authorData.died < 0
+                ? `${Math.abs(authorData.died)} ${t.bce}`
+                : authorData.died}
+              )
             </span>
           </h2>
 
@@ -148,6 +168,22 @@ export default function AuthorPageClient({
 
             <div className={styles.grid}>
               {crossReferencesSection.map((entry) => (
+                <QuoteCard
+                  key={entry._id}
+                  entry={entry}
+                  language={language}
+                />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {letters.length > 0 && (
+          <section className={styles.authorSection}>
+            <h3>{t.sectionLetters}</h3>
+
+            <div className={styles.grid}>
+              {letters.map((entry) => (
                 <QuoteCard
                   key={entry._id}
                   entry={entry}

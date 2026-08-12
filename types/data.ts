@@ -1,26 +1,33 @@
 /**
  * Supported entry types.
  */
-export const entryTypes = ["quote", "reported", "anecdote", "bio", "works"] as const;
+export const entryTypes = [
+  "quote",
+  "reported",
+  "anecdote",
+  "bio",
+  "works",
+  "letter",
+] as const
 
 /**
  * Supported UI languages.
  */
-export const supportedLanguages = ["stsl", "sr"] as const;
-export type Language = (typeof supportedLanguages)[number];
+export const supportedLanguages = ["stsl", "sr"] as const
+export type Language = (typeof supportedLanguages)[number]
 
 /**
  * Source reference object.
  */
 export interface SourceReference {
   /** Source key (e.g. "diogenes-laertius", "hermann-diels") */
-  name: string;
+  name: string
 
   /** Reference within the source (e.g. "II.21", "B.8") */
-  reference: string | null;
+  reference: string | null
 
   /** Machine-readable pointer to the exact source location */
-  pointer?: string;
+  pointer?: string
 }
 
 /**
@@ -28,16 +35,16 @@ export interface SourceReference {
  */
 export interface TextVariant {
   /** Source name for this variant (must match a name in sources array) */
-  source: string;
+  source: string
 
   /** Alternative Greek/Latin text */
-  text: string;
+  text: string
 
   /** Brief description of difference (optional) */
-  diff?: string;
+  diff?: string
 
   /** Additional note about this variant (optional) */
-  note?: string;
+  note?: string
 }
 
 /**
@@ -45,97 +52,104 @@ export interface TextVariant {
  */
 interface BaseEntry {
   /** Unique entry identifier */
-  _id: number;
+  _id: number
 
   /** Modern Serbian translation */
-  sr: string;
+  sr: string
 
   /** Old Church Slavonic translation */
-  stsl: string;
+  stsl: string
 
   /** Original Greek or Latin text (from primary source - sources[0]) */
-  originalText: string;
+  originalText: string
 
   /** Philosopher(s) to whom the entry belongs. Multiple authors for shared entries (e.g., teacher-student relationships). */
-  author: string | string[];
+  author: string | string[]
 
   /** Array of source references (primary source is first) */
-  sources: SourceReference[];
+  sources: SourceReference[]
 
   /** Machine-readable pointer to the primary source location (from sources[0]) */
-  pointer?: string;
+  pointer?: string
 
   /** Textual variants from alternative sources (only if text differs) */
-  textVariants?: TextVariant[];
+  textVariants?: TextVariant[]
 
   /** Philosophical terms detected in originalText (Greek terms in nominative form) */
-  tags?: string[];
+  tags?: string[]
 }
 
 /**
  * Biographical event or dated anecdote.
  */
 export interface LifeEvent extends BaseEntry {
-  type: "bio" | "anecdote";
+  type: "bio" | "anecdote"
 
   /** Year of the event (negative = BCE, positive = CE) */
-  year: number;
+  year: number
 }
 
 /**
  * Direct quotation or reported teaching.
  */
 export interface Saying extends BaseEntry {
-  type: "quote" | "reported";
+  type: "quote" | "reported"
 }
 
 /**
  * Written work (book, treatise, poem).
  */
 export interface Writing extends BaseEntry {
-  type: "works";
+  type: "works"
+}
+
+/**
+ * Letter attributed to a philosopher.
+ */
+export interface Letter extends BaseEntry {
+  type: "letter"
 }
 
 /**
  * Any entry in the database.
  */
-export type Entry = LifeEvent | Saying | Writing;
+export type Entry = LifeEvent | Saying | Writing | Letter
 
 /**
  * Data about a philosopher.
  */
 export interface AuthorData {
   /** Year of birth (negative = BCE, positive = CE) */
-  born: number;
+  born: number
 
   /** Year of death (negative = BCE, positive = CE) */
-  died: number;
+  died: number
 
   /** Portrait URL */
-  src?: string;
+  src?: string
 
   /** Ancient birthplace */
-  birthplace?: string;
+  birthplace?: string
 
   /** Name in the original language */
-  originalText: string;
+  originalText: string
 }
 
-export type AuthorsData = Record<string, AuthorData>;
+export type AuthorsData = Record<string, AuthorData>
 
 export interface PlaceCoordinates {
-  lat: number;
-  long: number;
+  lat: number
+  long: number
 }
 
-export type PlacesData = Record<string, PlaceCoordinates>;
+export type PlacesData = Record<string, PlaceCoordinates>
 
-export type EntriesByLanguage = Record<Language, Entry[]>;
+export type EntriesByLanguage = Record<Language, Entry[]>
 
 export interface SourceData {
-  author: string;
-  language: string;
-  originalTitle: string;
-  stsl: string;
-  sr: string;
+  author: string
+  language: string
+  originalTitle: string
+  stsl: string
+  sr: string
 }
