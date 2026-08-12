@@ -2,12 +2,12 @@
  * Supported entry types.
  */
 export const entryTypes = [
-  "quote",
-  "reported",
-  "anecdote",
-  "bio",
-  "works",
-  "letter",
+  "quote", /* Direktne reči autora, bez pripovedačkog okvira */
+  "reported", /* Autorova izreka, odgovor ili mišljenje preneto posredno (npr. "govorio je", "upitan je odgovorio", "rekao je da") */
+  "bio", /* Podatak o životu autora (rođen, radio, živeo, umro...); uključuje i ono što drugi izvori tvrde o autoru */
+  "anecdote", /* Poučna ili zabavna epizoda iz života, ako je običan podatak onda bio */
+  "works", /* Pominjanje, opis ili nabrajanje dela koja je autor napisao */
+  "letter", /* Celo pismo ili duži odlomak pisma */
 ] as const
 
 /**

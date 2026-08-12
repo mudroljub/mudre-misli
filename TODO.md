@@ -166,7 +166,9 @@ zasebno isklesati staroslovenski i srpski prevod prema
   nakon svake promene zajedničkog layouta.
 - [ ] Dodati vizuelne regresione ili bar dokumentovane ručne provere za uske i
   široke ekrane.
-- [ ] Dodati greekToLatin(quote.originalText) na stranicu recnik
+- [ ] Dodati greekToLatin(quote.originalText) na stranicu recnik ako je moguće
+- [ ] Da prikaz pisama (ima kod Solona) bude pregledniji, možda u jednom redu
+- [ ] Naznačiti tip quote velikim ukrasnim navodnicima
 
 ## Redosled narednih paketa rada
 

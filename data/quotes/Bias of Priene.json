@@ -3,7 +3,7 @@
     "type": "bio",
     "year": -625,
     "sr": "Bijant, sin Teutamov, iz Prijene.",
-    "stsl": "Биантъ · сынъ Теѵтамовъ · роди сѧ въ Приѥнѣ.",
+    "stsl": "Биантъ · сꙑнъ Теѵтамовъ · Приѥнꙗнинъ ·",
     "originalText": "Βίας Τευτάμου Πριηνεύς.",
     "author": "Bias of Priene",
     "sources": [
@@ -14,10 +14,10 @@
     ]
   },
   {
+    "year": -550,
     "type": "bio",
-    "year": -600,
-    "sr": "Satir ga je uvrstio među sedam mudraca.",
-    "stsl": "Єдинъ отъ седми мѫдрьцъ бѣ.",
+    "sr": "Satir ga je stavljao na prvo mesto među Sedmoricom mudraca.",
+    "stsl": "Сатиръ же єго пръвѣиша седми мѫдрьцъ мьнѣаше ·",
     "originalText": "προκεκριμένος τῶν ἑπτὰ ὑπὸ Σατύρου.",
     "author": "Bias of Priene",
     "sources": [
@@ -29,9 +29,9 @@
   },
   {
     "type": "bio",
-    "year": -600,
-    "sr": "Bio je veoma vešt u vođenju parnica; ipak, snagu svojih govora koristio je za dobro.",
-    "stsl": "Зѣло вѣштъ бѣ въ веденіи сѫдъ · силѹ же словесъ своѥхъ на добро ѹпотъреблѧаше ·",
+    "year": -575,
+    "sr": "Bio je izvanredno vešt u parnicama; snagu svojih reči koristio je za dobro.",
+    "stsl": "Зѣло вѣштъ бѣ въ сѫдѣхъ · силѫ же словесъ своихъ на добро ѹпотрѣблѧаше ·",
     "originalText": "Δίκας δεινότατος γεγονέναι εἰπεῖν. Ἐπ' ἀγαθῷ μέντοι τῇ τῶν λόγων ἰσχύϊ προσεχρῆτο.",
     "author": "Bias of Priene",
     "sources": [
@@ -43,9 +43,9 @@
   },
   {
     "type": "bio",
-    "year": -546,
+    "year": -546.6,
     "sr": "Grad ga je sahranio s velikim počastima.",
-    "stsl": "Градъ же его въ великои чести погребе.",
+    "stsl": "Градъ же єго съ великоѭ чьстиѭ погребе ·",
     "originalText": "καὶ αὐτὸν μεγαλοπρεπῶς ἔθαψεν ἡ πόλις.",
     "author": "Bias of Priene",
     "sources": [
@@ -57,8 +57,8 @@
   },
   {
     "type": "quote",
-    "sr": "Budi mio svim građanima, u kojem god gradu živio; jer to donosi najveću zahvalnost, dok je drzak način često izazivao pogubne posledice.",
-    "stsl": "Угодите всѣмъ гражданомъ · въ коємьжде градѣ живете · Се бо множьшѹю благодарность имѣеть · своєволенъ же нравъ многашьды съ пагѹбою възходить ·",
+    "sr": "Budi u dobrim odnosima sa svim građanima, u kojem god gradu živeo; to donosi najveću naklonost, dok svojeglavost često vodi u propast.",
+    "stsl": "Угоди всѣмъ градьниномъ · въ коємь же градѣ живеши · Се бо множьшѫ благодать приносить · своєволенъ же нравъ многажды пагѹбѫ приносить ·",
     "originalText": "Ἀρέσκε πᾶσι τοῖς πολίταις, ἐν ᾧ ἂν πόλει οἰκῆτε· τοῦτο γὰρ πλείστην χάριν ἔχει, ὁ δὲ αὐθαδὴς τρόπος πολλάκι βλαβερὰν ἐξέλαμψεν ἄταν.",
     "author": "Bias of Priene",
     "sources": [
@@ -70,8 +70,8 @@
   },
   {
     "type": "quote",
-    "sr": "Biti snažan delo je prirode; ali moći govoriti o onome što je korisno otadžbini jeste svojstvo duše i razboritosti.",
-    "stsl": "Крѣпость въ чловѣцѣ родить єстьство · а рещи словомъ польꙁѹ отъьчьства · се дѣло дѹше и раꙁбора ·",
+    "sr": "Snaga je delo prirode; ali moći govoriti ono što koristi otadžbini svojstvo je duše i razboritosti.",
+    "stsl": "Крѣпость дѣло природꙑ · рещи же могѫщѹ полезьнаꙗ отьчьствѹ · своє дѹши и разборьности ·",
     "originalText": "Τὸ μὲν ἰσχυρὸν γενέσθαι τῆς φύσεως ἔργον· τὸ δὲ λέγειν δύνασθαι τὰ συμφέροντα τῇ πατρίδι ψυχῆς ἴδιον καὶ φρονήσεως.",
     "author": "Bias of Priene",
     "sources": [
@@ -83,8 +83,8 @@
   },
   {
     "type": "quote",
-    "sr": "Nesrećan je onaj ko ne može da podnese nesreću.",
-    "stsl": "Нещастенъ єсть иже не може нещастьѥ понести ·",
+    "sr": "Nesrećan je onaj ko ne može podneti nesreću.",
+    "stsl": "Несрѣтьнъ єсть иже несрѣтьꙗ не можетъ понести ·",
     "originalText": "Ἀτυχῆ εἶναι τὸν ἀτυχίαν μὴ φέροντα.",
     "author": "Bias of Priene",
     "sources": [
@@ -96,8 +96,8 @@
   },
   {
     "type": "quote",
-    "sr": "Bolest duše je žudeti za onim što je nemoguće.",
-    "stsl": "Болѣзнь дѹше · недостижимое любити ·",
+    "sr": "Bolest duše je žudeti za nemogućim.",
+    "stsl": "Болѣзнь дѹши · немощьнаꙗ любити ·",
     "originalText": "Νόσον ψυχῆς τὸ τῶν ἀδυνάτων ἐρᾶν.",
     "author": "Bias of Priene",
     "sources": [
@@ -109,8 +109,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne pamtiti tuđe nesreće.",
-    "stsl": "Чѹждихъ нещастьѥмъ не памѧтати ·",
+    "sr": "Tuđa zla ne pamti.",
+    "stsl": "Чѹждаꙗ зла не памѧтаи ·",
     "originalText": "Ἀλλοτρίων δὲ κακῶν ἀμνημόνευτον εἶναι.",
     "author": "Bias of Priene",
     "sources": [
@@ -121,10 +121,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Šta je teško? Dostojanstveno podneti promenu na gore.",
-    "stsl": "Что єсть тѧжько · на горшее прѣмѣненіє доблѣстно понести ·",
-    "originalText": "Τὴν ἐπὶ τὸ χεῖρον μεταβολὴν εὐγενῶς ἐνεγκεῖν.",
+    "type": "reported",
+    "sr": "Upitan šta je teško, odgovori: Dostojanstveno podneti promenu na gore.",
+    "stsl": "Въпрошенъ что тѧжько · рече · На горьшеє прѣмѣненіє доброродьно понести ·",
+    "originalText": "Ἐρωτηθεὶς τί δυσχερές, «τὴν ἐπὶ τὸ χεῖρον,» ἔφη, «μεταβολὴν εὐγενῶς ἐνεγκεῖν.»",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -134,10 +134,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Šta je ljudima slatko? Nada.",
-    "stsl": "Что сладъко чловѣкомъ · надѣжда ·",
-    "originalText": "Τί γλυκὺ ἀνθρώποις; Ἐλπίς.",
+    "type": "reported",
+    "sr": "Upitan šta je ljudima slatko, odgovori: Nada.",
+    "stsl": "Въпрошенъ что сладъко чловѣкомъ · рече · Надѣжда ·",
+    "originalText": "Ἐρωτηθεὶς τί γλυκὺ ἀνθρώποις, «ἐλπίς,» ἔφη.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -147,9 +147,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Radije bih sudio u sporu između neprijatelja nego između prijatelja; jer bih među prijateljima jednog svakako pretvorio u neprijatelja, a među neprijateljima jednog u prijatelja.",
-    "stsl": "Охотънѣишє межи врагы распрю сѫдилъ быхъ нежели межи дрѹгы · Межи дрѹгы бо єдиного въ врага обрѣлъ быхъ · межи врагы же єдиного въ дрѹга ·",
+    "type": "reported",
+    "sr": "Govorio je da bi radije sudio u sporu između neprijatelja nego između prijatelja; jer bi među prijateljima jednog svakako pretvorio u neprijatelja, a među neprijateljima jednog u prijatelja.",
+    "stsl": "Глаголааше · ꙗко охотънѣише межи врагы распрѭ сѫдилъ бꙑ · неже ли межи дрѹгы · Межи дрѹгы бо єдиного въ врага имѣлъ бꙑ · межи врагы же єдиного въ дрѹга ·",
     "originalText": "Ἥδιον ἔλεγε δικάζειν μεταξὺ ἐχθρῶν ἢ φίλων· τῶν μὲν γὰρ φίλων πάντως ἐχθρὸν ἔσεσθαι τὸν ἕτερον, τῶν δὲ ἐχθρῶν τὸν ἕτερον φίλον.",
     "author": "Bias of Priene",
     "sources": [
@@ -160,10 +160,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Meri život tako kao da ćeš živeti i dugo i kratko vreme.",
-    "stsl": "Мѣри житіѥ · ꙗко и длъго и мало врѣмѧ жити имаши.",
-    "originalText": "Ἔλεγε τὸν βίον οὕτω μετρεῖν ὡς καὶ πολὺν καὶ ὀλίγον χρόνον βιωσομένους,",
+    "type": "reported",
+    "sr": "Govorio je: Meri život kao da ćeš živeti i dugo i kratko; prijatelje voli kao da ćeš ih jednom zamrzeti, jer je većina ljudi loša.",
+    "stsl": "Глаголааше · Житіє тако мѣри · ꙗко и долго и мало врѣмѧ жити имаши · дрѹгꙑ же люби · ꙗко нѣкогда ненавидѣти имаши · мнози бо чловѣци зли сѫть ·",
+    "originalText": "Ἔλεγε τὸν βίον οὕτω μετρεῖν ὡς καὶ πολὺν καὶ ὀλίγον χρόνον βιωσομένους, καὶ φιλεῖν ὡς μισήσοντας· τοὺς γὰρ πλείστους εἶναι κακούς.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -174,21 +174,8 @@
   },
   {
     "type": "quote",
-    "sr": "Voli prijatelje kao da ćeš ih zamrzeti; jer su većina ljudi loši.",
-    "stsl": "Люби дрѹгы · ꙗко ненавидѣти имѧ имаши · мнози бо сѫть зли.",
-    "originalText": "καὶ φιλεῖν ὡς μισήσοντας· τοὺς γὰρ πλείστους εἶναι κακούς.",
-    "author": "Bias of Priene",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.87"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Polako pristupaj poslovima; a ono što izabereš, čvrsto i istrajno obavljaj.",
-    "stsl": "Медлѧ начьни дѣло · єже же пріимеши · твьрдѣ дрьжи.",
+    "sr": "Polako pristupaj poslovima; a ono što izabereš, čvrsto drži i istraj u tome.",
+    "stsl": "Медлѧ начьни дѣло · єже же избереши · твьрдо дрьжи и въ немь прѣбꙑваи ·",
     "originalText": "Βραδέως ἐγχείρει τοῖς πραττομένοις· ὃ δ' ἂν ἕλῃ, βεβαίως τηρῶν διάμενε.",
     "author": "Bias of Priene",
     "sources": [
@@ -200,8 +187,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne govori brzopleto; jer to odaje ludilo.",
-    "stsl": "Не скоро глаголи · безѹмиѥ бо показѹєть.",
+    "sr": "Ne govori brzopleto; jer to pokazuje bezumlje.",
+    "stsl": "Не скоро глаголи · безѹмьѥ бо ꙗвлꙗєть ·",
     "originalText": "Μὴ ταχὺ λάλει· μανίαν γὰρ ἐμφαίνει.",
     "author": "Bias of Priene",
     "sources": [
@@ -213,9 +200,9 @@
   },
   {
     "type": "quote",
-    "sr": "Voli razboritost. Govori o bogovima kao o onima koji postoje. Ne hvali nedostojnog čoveka zbog njegovog bogatstva. Uzmi ono što želiš ubeđivanjem, a ne silom. Šta god dobro učiniš, pripiši bogovima. Mudrost uzmi kao opskrbu za put od mladosti do starosti, jer je ona pouzdanija od svega drugog.",
-    "stsl": "Люби раꙁборъ · о боꙁѣхъ глаголи ꙗко сѫть · Недостоина чловѣка не хвали ради богатьства · Увѣривъ приими · не насилѹѭ · Что добро твориши · богомъ въꙁдаждь · Мѫдрость ꙗко потърѣбь на пѫть пріими отъ ѭности до старости · твьрдѣиша бо єсть отъ всѣхъ ·",
-    "originalText": "Φρόνησιν ἀγάπα. Περὶ θεῶν λέγε ὡς εἰσίν. Ἀνάξιον ἄνδρα μὴ ἐπαίνει διὰ πλοῦτον. Πείσας λαβέ, μὴ βιασάμενος. Ὅ τι ἂν ἀγαθὸν πράττῃς, εἰς θεοὺς ἀνάπεμπε. Ἐφόδιον ἀπὸ νεότητος εἰς γῆρας ἀναλάμβανε σοφίαν.",
+    "sr": "Voli razboritost. Govori o bogovima kao o onima koji postoje. Ne hvali nedostojnog čoveka zbog bogatstva. Uzmi ono što želiš ubeđivanjem, a ne silom. Šta god dobro učiniš, pripiši bogovima. Mudrost uzmi kao opskrbu za put od mladosti do starosti, jer je pouzdanija od svega drugog što posedujemo.",
+    "stsl": "Люби разборьность · О бозѣхъ глаголи ꙗко сѫть · Недостоина чловѣка не хвали ради богатьства · Увѣривъ приими · не насилѹѭ · Что добро твориши · богомъ въздаждь · Мѫдрость ꙗко потребѫ на пѫть приими отъ ѭности до старости · твьрдѣиша бо єсть прочихъ стѧжании ·",
+    "originalText": "Φρόνησιν ἀγάπα. Περὶ θεῶν λέγε ὡς εἰσίν. Ἀνάξιον ἄνδρα μὴ ἐπαίνει διὰ πλοῦτον. Πείσας λαβέ, μὴ βιασάμενος. Ὅ τι ἂν ἀγαθὸν πράττῃς, εἰς θεοὺς ἀνάπεμπε. Ἐφόδιον ἀπὸ νεότητος εἰς γῆρας ἀναλάμβανε σοφίαν· βεβαιότερον γὰρ τοῦτο τῶν ἄλλων κτημάτων.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -238,9 +225,9 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Bijant je, videvši tronožac, rekao da je Apolon mudar i zato ga nije prihvatio.",
-    "stsl": "Биантъ видѣвъ рече · Аполонъ мѫдръ єсть · и триножьца не пріѧ ·",
+    "type": "anecdote",
+    "sr": "Kada mu je poslat tronožac namenjen najmudrijem, Bijant ga je video i rekao da je Apolon mudar, pa ga nije prihvatio.",
+    "stsl": "Єгда ємѹ триножьць посланъ бꙑсть · иже мѫдрѣишемѹ нареченъ бѣ · Биантъ видѣвъ рече · Аполонъ мѫдръ єсть · и триножьца не приѧ ·",
     "author": "Bias of Priene",
     "originalText": "Καὶ ὁ Βίας ἰδὼν ἔφη τὸν Ἀπόλλω σοφὸν εἶναι, οὐδὲ προσήκατο.",
     "sources": [
@@ -248,12 +235,13 @@
         "name": "diogenes-laertius",
         "reference": "I.82"
       }
-    ]
+    ],
+    "year": -580
   },
   {
     "type": "reported",
-    "sr": "Bijant je govorio da mnogi obilje novca stiču i zahvaljujući sreći.",
-    "stsl": "Биантъ глаголаше · ꙗко и приклѹчаи многымъ богатство приносить ·",
+    "sr": "Bijant je govorio da mnogima i slučaj donosi obilje novca.",
+    "stsl": "Биантъ глаголааше · ꙗко и приклѹчаи многымъ обиліє богатства приносить ·",
     "author": "Bias of Priene",
     "originalText": "Εὐπορίαν δὲ χρημάτων πολλοῖς καὶ διὰ τύχην περιγίνεσθαι.",
     "sources": [
@@ -264,10 +252,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Čineći šta čovek uživa? Stičući dobitak.",
-    "stsl": "Что творѧ чловѣкъ веселить сѧ · Пріобрѣтаѧ ·",
-    "originalText": "Τί ποιῶν ἄνθρωπος τέρπεται; Κερδαίνων.",
+    "type": "reported",
+    "sr": "Upitan šta čoveku pričinjava zadovoljstvo, odgovori: Sticanje dobitka.",
+    "stsl": "Въпрошенъ что творѧ чловѣкъ веселить сѧ · рече · Приобрѣтаѧ ·",
+    "originalText": "Ἐρωτηθεὶς τί ποιῶν ἄνθρωπος τέρπεται, ἔφη, «κερδαίνων.»",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -277,12 +265,12 @@
     ]
   },
   {
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Bijant je otkupio mesenijske devojke zarobljene u ratu, odgajio ih kao kćeri, dao im miraz i poslao ih njihovim očevima u Mesenu.",
-    "stsl": "Биантъ дѣвы мессеньскыꙗ плѣненыꙗ отъ вои выкупивъ · възпита ꙗ ꙗко дъщери · вѣно же имъ давъ · Отъьцемъ ихъ въ Мессеньскѹю посла ·",
+    "stsl": "Биантъ дѣвꙑ мессеньскꙑѧ · въ рати плѣненꙑѧ · искѹпи · възпита ѧ ꙗко дъщери · вѣно имъ давъ · отьцемъ ихъ въ Мессенѫ посла ·",
     "originalText": "Κόρας αἰχμαλώτους λυτρωσάμενον Μεσσηνίας θρέψαι τε ὡς θυγατέρας καὶ προῖκας ἐπιδοῦναι καὶ εἰς τὴν Μεσσήνην ἀποστεῖλαι τοῖς πατράσιν αὐτῶν.",
     "author": "Bias of Priene",
-    "year": -590,
+    "year": -585,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -292,11 +280,11 @@
   },
   {
     "type": "anecdote",
-    "sr": "Dok je Alijet opsedao Prijenu, Bijant je ugojio dva mazga i isterao ih u neprijateljski logor. Kada ih je Alijet ugledao, začudio se što takvo obilje dopire čak i do nerazumnih životinja. Saznavši da gradu ne nedostaje hrane, sklopio je mir s Prijenjanima.",
-    "stsl": "Алиатъ осаждаѧ Приѥнѹ · Биантъ два мѹла отъкормивъ въ станъ непріѧтельскъ вогна · Царь же видѣвъ ꙗ толь тѹчна · диви сѧ · ꙗко и безсловеснымъ толь изобильство · И разумѣвъ градѹ пищѣ не скѹдѣти · миръ съ Приѥнѣи сътвори ·",
-    "originalText": "Ἀλυάττου πολιορκοῦντος Πριήνην τὸν Βίαντα πιήναντα δύο ἡμιόνους ἐξελάσαι εἰς τὸ στρατόπεδον· τὸν δὲ συνιδόντα καταπλαγῆναι τὸ μέχρι καὶ ἀλόγων διατείνειν αὐτῶν τὴν εὐθένιαν. Καὶ μαθὼν ὁ Ἀλυάττης εἰρήνην ἐσπείσατο πρὸς τοὺς Πριηνέας.",
+    "sr": "Dok je Alijet opsedao Prijenu, Bijant je ugojio dve mazge i isterao ih u neprijateljski logor. Kada ih je kralj ugledao, začudio se što blagostanje građana dopire čak i do njihovih životinja. Odlučio je da pregovara; Bijant je zatim nasuo gomile peska, odozgo ih prekrio žitom i pokazao ih Alijetovom glasniku. Kada je Alijet to saznao, sklopio je mir s Prijenjanima.",
+    "stsl": "Алиатѹ Приѥнѫ осаждаѭщѹ · Биантъ два мѹла отъкормлъ въ станъ непріѧтельскъ изгна · Царь же видѣвъ ѧ толь тѹчна · диви сѧ · ꙗко и до безсловеснꙑхъ благоденьствіє градьникъ простираєть сѧ · И миръ творити помꙑсли · Биантъ же пѣсъкъ въ стогꙑ насꙑпа · и сверху жито положи · и посълѹ Алиатовѹ показа · Се ѹвѣдѣвъ Алиатъ · миръ съ Приѥнꙗны сътвори ·",
+    "originalText": "Ἀλυάττου πολιορκοῦντος Πριήνην τὸν Βίαντα πιήναντα δύο ἡμιόνους ἐξελάσαι εἰς τὸ στρατόπεδον· τὸν δὲ συνιδόντα καταπλαγῆναι τὸ μέχρι καὶ ἀλόγων διατείνειν αὐτῶν τὴν εὐθένιαν. Καὶ βουλόμενον σπείσασθαι πέμψαι κατάσκοπον· τὸν δὲ Βίαντα σωροὺς ἄμμου ποιήσαντα καὶ σῖτον ἐπιβαλόντα δεῖξαι τῷ πεμφθέντι. Καὶ μαθὼν ὁ Ἀλυάττης εἰρήνην ἐσπείσατο πρὸς τοὺς Πριηνέας.",
     "author": "Bias of Priene",
-    "year": -609,
+    "year": -570.8,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -306,11 +294,11 @@
   },
   {
     "type": "anecdote",
-    "sr": "Kada je Alijet, posle sklopljenog mira, poslao po Bijanta da dođe k njemu, Bijant je odgovorio: „Neka Alijet jede luk“ — to jest, neka plače.",
-    "stsl": "Алиатъ по мирѣ посла по Бианта · да къ немѹ пріидеть · Биантъ отъвѣща · Ръци Алиатѹ да лѹкомъ питаѥть сѧ · сирѣчь да плачеть ·",
+    "sr": "Kada je Alijet ubrzo potom poslao po Bijanta da dođe k njemu, Bijant odgovori: Reci Alijetu da jede luk — to jest, da plače.",
+    "stsl": "Алиатъ же въскорѣ посла по Бианта · да къ немѹ пріидеть · Биантъ отъвѣща · Рьци Алиатѹ да лѹкъ ꙗсть · сирѣчь да плачеть ·",
     "originalText": "Θᾶττον δ' αὐτῷ πέμψαντι πρὸς τὸν Βίαντα ἵνα ἥκοι παρ' αὐτόν, « Ἐγὼ δέ, » φησίν, « Ἀλυάττῃ κελεύω κρόμμυα ἐσθίειν. »",
     "author": "Bias of Priene",
-    "year": -593,
+    "year": -570.6,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -324,7 +312,7 @@
     "stsl": "Единожды плывѧ съ нечьстивыми чловѣкы · бѹри же бывъши · и тѣмъ богы призывающимъ · Биантъ рече · Млъчите · да не ѹслышѧть васъ бози · ни ѹвѣдѧть ꙗко здѣ плывете ·",
     "originalText": "Συμπλέων ποτὲ ἀσεβέσι, χειμαζομένης τῆς νεὼς κἀκείνων τοὺς θεοὺς ἐπικαλουμένων, « Σιγᾶτε, » ἔφη, « μὴ αἴσθωνται ὑμᾶς ἐνθάδε πλέοντας. »",
     "author": "Bias of Priene",
-    "year": -578,
+    "year": -560,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -334,11 +322,11 @@
   },
   {
     "type": "anecdote",
-    "sr": "Jedan bezbožnik upitao ga je šta je pobožnost. Bijant je ćutao. Kada ga je čovek upitao zašto ćuti, Bijant je odgovorio: „Ćutim zato što pitaš o onome što ti nije svojstveno.“",
-    "stsl": "Нѣкыи нечьстивъ чловѣкъ вопроси его · что єсть благочьстьѥ · Биантъ же мълча · Онъ же вопроси о причинѣ мълчаніѧ · Биантъ рече · Млъчѹ · ꙗко о томъ питаєши · єже тебѣ не прилѣжить ·",
+    "sr": "Jedan bezbožnik upitao ga je šta je pobožnost. Bijant je ćutao. Kada ga je čovek upitao zašto ćuti, odgovorio je: Ćutim zato što pitaš o onome što te se ne tiče.",
+    "stsl": "Нѣкꙑи нечьстивъ чловѣкъ въпроси єго · что єсть благочьстіє · Биантъ же мълча · Онъ же въпроси почьто мълчить · Биантъ рече · Млъчѫ · ꙗко о томъ питаєши · єже тебѣ не прилѣжить ·",
     "originalText": "Ἐρωτηθεὶς ὑπὸ ἀσεβοῦς ἀνθρώπου τί ποτέ ἐστιν εὐσέβεια, ἐσίγα. Τοῦ δὲ τὴν αἰτίαν τῆς σιγῆς πυθομένου, « Σιωπῶ, » ἔφη, « ὅτι περὶ τῶν οὐδέν σοι προσηκόντων πυνθάνῃ. »",
     "author": "Bias of Priene",
-    "year": -562,
+    "year": -555,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -348,11 +336,11 @@
   },
   {
     "type": "anecdote",
-    "sr": "Bijant je, već veoma star, umro dok je na sudu branio nekoga. Pošto je završio govor, spustio je glavu u krilo svog unuka. Kada je i protivnička strana završila svoj govor i sudije glasale u korist čoveka kojeg je Bijant branio, sud je raspušten i Bijant je pronađen mrtav u unukovom krilu.",
-    "stsl": "Биантъ умрѣ въ прѣстарѣлѣ старости · сѫдѧ за нѣкого · Рѣчь скончавъ · главѹ свою на лонѣ внука своєго положи · Сѹдии же протъивьному отъвѣщавъшѹ · гласъ въ полъзѹ того понесоша · и разыдѹ сѧ сѹдищѹ · мрьтвъ обрѣтенъ бысть на лонѣ ·",
+    "sr": "Bijant je, već veoma star, umro dok je na sudu branio nekoga. Kada je završio govor, spustio je glavu u krilo svog unuka. Pošto je i protivnička strana završila govor, a sudije presudile u korist čoveka kojeg je Bijant branio, sud je raspušten i Bijant je pronađen mrtav u unukovom krilu.",
+    "stsl": "Биантъ · ѹже прѣстарѣлъ сꙑ · за нѣкого на сѫдѣ глаголааше · Рѣчь скончавъ · главѫ своѭ на лоно внука своєго положи · Противьнѹ же рѣчь скончавъшѹ · и сѫдиꙗмъ въ полъзѫ того сѫдивъшимъ · сѫдищѹ разидъшѹ сѧ · Биантъ мрьтвъ на лонѣ внука обрѣтенъ бꙑсть ·",
     "originalText": "Δίκην γὰρ ὑπέρ τινος λέξας ἤδη ὑπέργηρως ὑπάρχων, μετὰ τὸ καταπαῦσαι τὸν λόγον ἀπέκλινε τὴν κεφαλὴν εἰς τοὺς τοῦ τῆς θυγατρὸς υἱοῦ κόλπους· εἰπόντος δὲ καὶ τοῦ δι' ἐναντίας καὶ τῶν δικαστῶν τὴν ψῆφον ἐνεγκόντων τῷ ὑπὸ τοῦ Βίαντος βοηθουμένῳ, λυθέντος τοῦ δικαστηρίου νεκρὸς ἐν τοῖς κόλποις εὑρέθη.",
     "author": "Bias of Priene",
-    "year": -546,
+    "year": -546.8,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -361,11 +349,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Upitan šta je najbolje u ovom životu, Bijant je odgovorio: „Um koji je uvek svestan svoje ispravnosti.“",
-    "stsl": "Вопрошенъ Биантъ · что благо наиболѣе въ сѹщемь животъѣ · рече · Ѹмъ себѣ всегда правость свою вѣдѧ ·",
+    "type": "reported",
+    "sr": "Upitan šta je najbolje u ovom životu, Bijant odgovori: Um koji je uvek svestan svoje ispravnosti.",
+    "stsl": "Въпрошенъ Биантъ · что благо вьсѣхъ въ семь житіи · рече · Ѹмъ · всегда своѩ правостꙑ вѣдѧ ·",
     "originalText": "Interrogatus Bias quid sit in hac vita optimum, ait: Mens sibi semper rectitudinis conscia.",
-    "la": "Interrogatus Bias quid sit in hac vita optimum, ait: Mens sibi semper rectitudinis conscia.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -376,10 +363,9 @@
   },
   {
     "type": "quote",
-    "sr": "Prijatelja smatraj slavom svog života.",
-    "stsl": "Дрѹга мьни славою животъа своєго ·",
+    "sr": "Život svog prijatelja smatraj svojom slavom.",
+    "stsl": "Житіє дрѹга своєго мьни славоѭ своѥѭ ·",
     "originalText": "Amici vitam tuam reputa gloriam.",
-    "la": "Amici vitam tuam reputa gloriam.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -390,10 +376,9 @@
   },
   {
     "type": "quote",
-    "sr": "Brzina čini dobročinstvo zahvalnijim.",
-    "stsl": "Борзость благодѣѧніє благодарнѣише творить ·",
+    "sr": "Brzina dobročinstvo čini prijatnijim.",
+    "stsl": "Борзость благодѣꙗніє приꙗтнѣише творить ·",
     "originalText": "Celeritas beneficium gratias facit.",
-    "la": "Celeritas beneficium gratias facit.",
     "author": "Bias of Priene",
     "sources": [
       {
@@ -404,9 +389,9 @@
   },
   {
     "type": "bio",
-    "year": -600,
-    "sr": "Živeo je u vreme Sedekije, kralja Jude.",
-    "stsl": "Живѣ въ врѣмѧ Седекіи · цара Іудеискаго.",
+    "year": -590,
+    "sr": "Živeo je u vreme Sedekije, kralja Judeje.",
+    "stsl": "Живѣ въ врѣмѧ Седекіи · цара Іудєискаго ·",
     "originalText": "Vixit tempore Zedechia, regis Judae;",
     "author": "Bias of Priene",
     "sources": [
@@ -418,8 +403,8 @@
   },
   {
     "type": "works",
-    "sr": "Napisao je dve hiljade stihova o korisnim stvarima.",
-    "stsl": "Написа двѣ тисѧщи рѣчи о полѣзьныхъ вещахъ.",
+    "sr": "Napisao je dve hiljade redaka o korisnim stvarima.",
+    "stsl": "Написа двѣ тисѧщи рѧдъкъ о полѣзнꙑхъ вещахъ ·",
     "originalText": "scripsit duobus milibus carminibus res utiles;",
     "author": "Bias of Priene",
     "sources": [
@@ -431,9 +416,9 @@
   },
   {
     "type": "bio",
-    "year": -546,
-    "sr": "Posle smrti njemu je bio posvećen hram.",
-    "stsl": "По смрьти храмъ єму посвѧщенъ бысть.",
+    "year": -545,
+    "sr": "Posle smrti posvećen mu je hram.",
+    "stsl": "По смрьти храмъ ємѹ посвѧщенъ бꙑсть ·",
     "originalText": "post mortem templum ei dedicatum est.",
     "author": "Bias of Priene",
     "sources": [

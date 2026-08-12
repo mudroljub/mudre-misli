@@ -1,9 +1,51 @@
 [
   {
+    "type": "bio",
+    "year": -620,
+    "sr": "Anaharsis Skit bio je sin Gnura i brat Kadouida, skitskog kralja; majka mu je bila Helenka, pa je govorio oba jezika.",
+    "stsl": "Анахарсісъ Скѵѳъ · сꙑнъ Гноѹровъ · братъ Кадѹіда цара Скѵѳьскаго · мати же єго отъ Єллинъ бѣ · тѣмь же дъвоѩꙁꙑчьнъ бѣ ·",
+    "originalText": "Ἀνάχαρσις ὁ Σκύθης Γνούρου μὲν ἦν υἱός, ἀδελφὸς δὲ Καδουίδα τοῦ Σκυθῶν βασιλέως, μητρὸς δὲ Ἑλληνίδος· διὸ καὶ δίγλωττος ἦν.",
+    "author": "Anacharsis",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.101"
+      }
+    ]
+  },
+  {
     "type": "works",
-    "sr": "Anaharsis Skit, sin Gnourov, brat Kadouida cara skitskog, majke Helenke; zbog toga je bio dvojezičan. Napisao je o običajima kod Skita i kod Helena o jednostavnosti života i o ratnim stvarima osam stotina stihova. Dao je i povod poslovici zbog toga što je bio smeo u govoru, izraz 'skitska reč'.",
-    "stsl": "Анахарсісъ Скѵѳъ · сꙑнъ Гноѹровъ · братъ Кадѹіда цара скѵѳьскаго · матєрє Єлінкꙑ · раді того вѣ дъвоꙗꙁꙑчьнъ · Сь сътворі о обꙑчаихъ ѹ Скѵтъ і ѹ Єлінъ · въ єѹтєліѭ житіꙗ і въ ратьнꙑꙗ вєщи · ѻсмь сътъ стіхъ · Параскє жє і аформѫ пароміꙗ · раді того ꙗко вѣ парісіастъ · рѣчь отъ Скѵѳъ ·",
-    "originalText": "Ἀνάχαρσις ὁ Σκύθης Γνούρου μὲν ἦν υἱός, ἀδελφὸς δὲ Καδουίδα τοῦ Σκυθῶν βασιλέως, μητρὸς δὲ Ἑλληνίδος· διὸ καὶ δίγλωττος ἦν. Οὗτος ἐποίησε τῶν τε παρὰ τοῖς Σκύθαις νομίμων καὶ τῶν παρὰ τοῖς Ἕλλησιν εἰς εὐτέλειαν βίου καὶ τὰ κατὰ πόλεμον ἔπη ὀκτακόσια. Παρέσχε δὲ καὶ ἀφορμὴν παροιμίας διὰ τὸ παρρησιαστὴς εἶναι, τὴν ἀπὸ Σκυθῶν ῥῆσιν.",
+    "sr": "Sastavio je osam stotina redaka o običajima Skita i Helena, o jednostavnom životu i ratnim stvarima.",
+    "stsl": "Сътвори осмь сътъ рѧдъкъ о обꙑчаихъ Скѵѳъ и Єллинъ · о простотѣ житіꙗ и ратьнꙑхъ дѣлѣхъ ·",
+    "originalText": "Οὗτος ἐποίησε τῶν τε παρὰ τοῖς Σκύθαις νομίμων καὶ τῶν παρὰ τοῖς Ἕλλησιν εἰς εὐτέλειαν βίου καὶ τὰ κατὰ πόλεμον ἔπη ὀκτακόσια.",
+    "author": "Anacharsis",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.101"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -587,
+    "sr": "Zbog njegove otvorenosti u govoru nastala je i poslovica skitska reč.",
+    "stsl": "Ради дерꙁновєньнаго глаголаніꙗ отъ єго и притъча бꙑсть · Скѵѳьска рѣчь ·",
+    "originalText": "Παρέσχε δὲ καὶ ἀφορμὴν παροιμίας διὰ τὸ παρρησιαστὴς εἶναι, τὴν ἀπὸ Σκυθῶν ῥῆσιν.",
+    "author": "Anacharsis",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.101"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -592,
+    "sr": "Sosikrat kaže da je Anaharsis došao u Atinu oko četrdeset sedme olimpijade, za arhonta Eukrata.",
+    "stsl": "Сосікратъ глаголєть ꙗко Анахарсісъ въ Аѳінꙑ пріиде около чєтꙑрьдесѧть седмꙑѩ олимпіадꙑ · при владарѣ Еѵкратѣ ·",
+    "originalText": "Λέγει δὲ αὐτὸν Σωσικράτης ἐλθεῖν εἰς Ἀθηνᾶς κατὰ τὴν τεσσαρακοστὴν ἑβδόμην Ὀλυμπιάδα ἐπὶ ἄρχοντος Εὐκράτους.",
     "author": "Anacharsis",
     "sources": [
       {
@@ -14,9 +56,9 @@
   },
   {
     "type": "anecdote",
-    "year": -592,
-    "sr": "Hermip kaže da došavši do kuće Solonove, jednom od slugu naredio da javi da je tu Anaharsis i da želi da ga vidi, i da postane gost, ako je moguće. Sluga javivši, Solon mu naloži da mu kaže da u svojim vlastim otadžbinama gosте pravе. Tada Anaharsis promislivši reče da je on sada u njegovoj otadžbini i da mu priliči da pravi goste. On se zadivih tom spremnosti, uvede ga i naјvećim ga prijateljem učini.",
-    "stsl": "Єрміпъ жє глаголєть · къ домѹ Солонѹ прішєдъ · єдномѹ отъ слѹгъ повєлѣ ꙗвіті ꙗко пріідє Анахарсісъ і вѫдєть га відѣті · і кѹєнікъ · ащє можьно · вꙑті сѧ · Слѹга жє ꙗві · Солонъ жє повєлѣ рєщі ємѹ · ꙗко въ своіхъ отъьчьствііхъ кѹєнікꙑ творѧть · Тогда Анахарсісъ помꙑслі · рєчє ꙗко нꙑнꙗ въ отъьчьствіи єсть єго · і прікладно єстъ ємѹ кѹєнікꙑ творіті · Онъ жє ѹдівлѣнъ вꙑстъ готъовостіѭ · въвєдє га і наівєщаішімъ га дрѹгомъ сътворі ·",
+    "year": -591.9,
+    "sr": "Hermip kaže da je, došavši pred Solonovu kuću, rekao jednom sluzi da javi kako je stigao Anaharsis i želi da vidi Solona i, ako je moguće, postane njegov gost. Solon mu je poručio da se gostoprimstvo pruža u sopstvenoj otadžbini. Anaharsis mu odgovori: Ali ti si sada u svojoj otadžbini, pa je na tebi da me primiš kao gosta. Zadivljen njegovom dovitljivošću, Solon ga je uveo i učinio svojim najvećim prijateljem.",
+    "stsl": "Єрміпъ же глаголєть · къ домѹ Солоновѹ пришедъ · єдиномѹ отъ слѹгъ повелѣ ꙗвити ꙗко пріиде Анахарсісъ и хощеть Солона видѣти · и аще можьно гость ємѹ бꙑти · Солонъ же повелѣ отъвѣштати ємѹ · ꙗко гостеприимьство въ своемь отьчьствіи творить сѧ · Анахарсісъ же рече · Нꙑнѣ тꙑ въ своемь отьчьствіи єси · тебѣ ѹбо подобаѥть мене гостемь приѩти · Солонъ же подививъ сѧ готовости єго · въведе и дрѹга вельми възлюби ·",
     "originalText": "Ἕρμιππος δὲ πρὸς τὴν Σόλωνος οἰκίαν ἀφικόμενον τῶν θεραπόντων τινὶ κελεῦσαι μηνῦσαι ὅτι παρείη πρὸς αὐτὸν Ἀνάχαρσις καὶ βούλοιτο αὐτὸν θεάσασθαι, ξένος τε, εἰ οἷόν τε, γενέσθαι. Καὶ ὁ θεράπων εἰσαγγείλας ἐκελεύσθη ὑπὸ τοῦ Σόλωνος εἰπεῖν αὐτῷ, ὅτιπερ ἐν ταῖς ἰδίαις πατρίσι ξένους ποιοῦνται. Ἔνθεν ὁ Ἀνάχαρσις ἑλὼν ἔφη νῦν αὐτὸν ἐν τῇ πατρίδι εἶναι καὶ προσήκειν αὐτῷ ξένους ποιεῖσθαι. Ὁ δὲ καταπλαγεὶς τὴν ἑτοιμότητα εἰσέφρησεν αὐτὸν καὶ μέγιστον φίλον ἐποιήσατο.",
     "author": "Anacharsis",
     "sources": [
@@ -27,23 +69,51 @@
     ]
   },
   {
-    "type": "anecdote",
-    "year": -580,
-    "sr": "Nakon vremena dolazeći u Skitiju i čineći se da ruši običaje otadžbine, mnogo se dajući u helenizovanje, postrелјen loveći od brata umire, rekavši da je kroz reč iz Helade spasen, a kroz zavist u svojoj propao. Neki kažu da obrеdе helenske vršeći bio je ubijen.",
-    "stsl": "По врємєни жє прішєдъ въ Скѵѳіѭ · і мънꙑмъ рѹшіті номіма отъьчьствіꙗ · мъного вꙑ въ єліниꙁованіи · тоѯєвьѳъ вꙑ въ кѹнігєсіи отъ врата · сконьча сѧ · рєкъ ꙗко чрєꙁъ слово отъ Єлада спасє сѧ · чрєꙁъ жє фѳоносъ въ своєи погꙑвє · Нѣціи жє глаголѭть ꙗко тєлєтꙑ єлінскꙑꙗ сътворѧ вꙑстъ ѹвієнъ ·",
-    "originalText": "Μετὰ χρόνον δὲ παραγενόμενος εἰς τὴν Σκυθίαν καὶ δοκῶν τὰ νόμιμα παραλύειν τῆς πατρίδος πολὺς ὢν ἐν τῷ ἑλληνίζειν, τοξευθεὶς ἐν κυνηγεσίῳ πρὸς τἀδελφοῦ τελευτᾷ, εἰπὼν διὰ μὲν τὸν λόγον ἐκ τῆς Ἑλλάδος σωθῆναι, διὰ δὲ τὸν φθόνον ἐν τῇ οἰκείᾳ ἀπολέσθαι. Ἔνιοι δὲ τελετὰς Ἑλληνικὰς ἐπιτελοῦντα διαχρησθῆναι.",
+    "type": "bio",
+    "year": -581,
+    "sr": "Posle nekog vremena vratio se u Skitiju.",
+    "stsl": "По врѣмени же възврати сѧ въ Скѵѳіѭ ·",
+    "originalText": "Μετὰ χρόνον δὲ παραγενόμενος εἰς τὴν Σκυθίαν",
     "author": "Anacharsis",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "I.102"
+        "reference": "I.103"
       }
     ]
   },
   {
-    "type": "quote",
-    "sr": "Lozu reče tri groždа nositi: prvi zadovoljstva, drugi pijanstva, treći neprijatnosti.",
-    "stsl": "Лоꙁѫ рєчє трі гроꙁда носіті · пръвъ слашті · вторъ мєѳꙑ · трєтіи нєсладости ·",
+    "type": "anecdote",
+    "year": -580,
+    "sr": "Zbog svoje velike privrženosti helenskim običajima smatralo se da ruši domaće zakone, pa ga je brat u lovu ustrelio. Umirući je rekao: „Reč me je sačuvala u Heladi, a zavist me je pogubila u otadžbini.“",
+    "stsl": "Понеже Єллиньскꙑихъ обꙑчаи вельми дрьжаше сѧ · мьнѣахѫ єго отьчьскꙑꙗ законꙑ раꙁорѧти · Братъ же єго на ловѣ стрѣлоѭ ѹдари · и ѹмираꙗ рече · Словомъ въ Єлладѣ съхранѣнъ бꙑхъ · ꙁавистиѭ же въ своемь погꙑбохъ ·",
+    "originalText": "καὶ δοκῶν τὰ νόμιμα παραλύειν τῆς πατρίδος πολὺς ὢν ἐν τῷ ἑλληνίζειν, τοξευθεὶς ἐν κυνηγεσίῳ πρὸς τἀδελφοῦ τελευτᾷ, εἰπὼν διὰ μὲν τὸν λόγον ἐκ τῆς Ἑλλάδος σωθῆναι, διὰ δὲ τὸν φθόνον ἐν τῇ οἰκείᾳ ἀπολέσθαι.",
+    "author": "Anacharsis",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.103"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -579,
+    "sr": "Neki kažu da je ubijen dok je vršio helenske obrede.",
+    "stsl": "Инии же глаголѭть ꙗко Єллиньскꙑѩ обрядꙑ творѧ ѹбиєнъ бꙑсть ·",
+    "originalText": "Ἔνιοι δὲ τελετὰς Ἑλληνικὰς ἐπιτελοῦντα διαχρησθῆναι.",
+    "author": "Anacharsis",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.103"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Za lozu je govorio da nosi tri grozda: prvi zadovoljstva, drugi pijanstva, treći gađenja.",
+    "stsl": "О лозѣ глаголааше ꙗко три гроꙁда носить · пръвъ сласти · вторъ пиꙗньства · третіи мрьꙁости ·",
     "originalText": "τὴν ἄμπελον εἶπε τρεῖς φέρειν βότρυς· τὸν πρῶτον ἡδονῆς· τὸν δεύτερον μέθης· τὸν τρίτον ἀηδίας.",
     "author": "Anacharsis",
     "sources": [
@@ -54,9 +124,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Upitan kako ne bi neko postao pijanica, reče: Ako bi pred očima imao neskladnosti pijanih.",
-    "stsl": "Въпрошєнъ како нє вꙑ нѣкто філопотъ · рєчє · Ащє прєдъ ѻчіма імꙑ нєскладьнꙑꙗ піѭщіхъ ·",
+    "type": "reported",
+    "sr": "Upitan kako čovek može izbeći da postane pijanica, odgovori: Ako pred očima ima ružno ponašanje pijanaca.",
+    "stsl": "Въпрошенъ како кто пиꙗница не бѫдеть · рече · Аще прѣдъ очима имать срамъ пиꙗнꙑхъ ·",
     "originalText": "Ἐρωτηθεὶς πῶς οὐκ ἂν γένοιτό τις φιλοπότης, Εἰ πρὸ ὀφθαλμῶν, εἶπεν, ἔχοι τὰς τῶν μεθυόντων ἀσχημοσύνας.",
     "author": "Anacharsis",
     "sources": [
@@ -67,9 +137,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Čuditi se kako Heleni zakonodavstvujući protiv onih koji uvređuju, atletičare poštuju za to što udaraju jedni druge.",
-    "stsl": "Ѳаѹмаꙁє како Єліни ꙁаконодатєльствѹѭщє на ѹврѣждаѭщѧꙗ · атлєтꙑ чьстѧть раді того ꙗko тѹпѧть дрѹгъ дрѹга ·",
+    "type": "reported",
+    "sr": "Govorio je da se čudi što Heleni kažnjavaju nasilnike, a takmičare časte zato što se međusobno udaraju.",
+    "stsl": "Глаголааше ꙗко дивить сѧ · почьто Єллини обидьникꙑ каꙁнѧть · борьцѧ же чьтѧть ꙗко дрѹгъ дрѹга биѭть ·",
     "originalText": "Θαυμάζειν τε ἔλεγε πῶς οἱ Ἕλληνες νομοθετοῦντες κατὰ τῶν ὑβριζόντων, τοὺς ἀθλητὰς τιμῶσιν ἐπὶ τῷ τύπτειν ἀλλήλους.",
     "author": "Anacharsis",
     "sources": [
@@ -80,9 +150,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Saznаvši da četiri prsta jest debljina lađe, toliko reče oni koji plove od smrti biti udaljeni.",
-    "stsl": "Наѹкꙑ сѧ ꙗko чєтꙑрє прьсті сѫть товща корава · толіko рєчє пловѫщѧꙗ отъ съмрьті отъіматі ·",
+    "type": "reported",
+    "sr": "Kada je saznao da je brodska oplata debela četiri prsta, rekao je da su putnici toliko udaljeni od smrti.",
+    "stsl": "Ѹвѣдѣвъ ꙗко дъска корабьна чєтꙑри прьстꙑ дебела єсть · рече · Толико пловѫштеи отъ съмрьти отъстоѧть ·",
     "originalText": "Μαθὼν τέτταρας δακτύλους εἶναι τὸ πάχος τῆς νεώς, τοσοῦτον ἔφη τοῦ θανάτου τοὺς πλέοντας ἀπέχειν.",
     "author": "Anacharsis",
     "sources": [
@@ -93,9 +163,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Ulje bezumlja lek nazvaše zbog toga što se pomazujući atletičari bese jedni na druge.",
-    "stsl": "Єлєі маніꙗ фармаконъ глаголааше · раді того ꙗko сѧ помаꙁѹѭщє атлєті вѣсѧхѫ дрѹгъ на дрѹга ·",
+    "type": "reported",
+    "sr": "Ulje je nazivao sredstvom za ludilo, jer se takmičari, kad se njime namažu, pomame jedni na druge.",
+    "stsl": "Масло безѹмьно зелие нарицааше · помаꙁавъше сѧ бо борьци дрѹгъ на дрѹга неистовьствѹѭть ·",
     "originalText": "Τὸ ἔλαιον μανίας φάρμακον ἔλεγε διὰ τὸ ἀλειφομένους τοὺς ἀθλητὰς ἐπιμαίνεσθαι ἀλλήλοις.",
     "author": "Anacharsis",
     "sources": [
@@ -106,9 +176,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Upitan da li su u Skitima frule, reče: Ali ni lozе.",
-    "stsl": "Въпрошєнъ ащє сѫть въ Скѵтахъ аѹлі · рєчє · Нъ ни лоꙁє ·",
+    "type": "reported",
+    "sr": "Upitan ima li u Skitiji frula, odgovori: Nema ni vinove loze.",
+    "stsl": "Въпрошенъ аще въ Скѵѳіи свирѣли сѫть · рече · Ни лоꙁꙑ нѣсть ·",
     "originalText": "Ἐρωτηθεὶς εἰ εἰσὶν ἐν Σκύθαις αὐλοί, εἶπεν, Ἀλλ' οὐδὲ ἄμπελοι.",
     "author": "Anacharsis",
     "sources": [
@@ -119,9 +189,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Upitan koja lađa je najbezbednija, reče: Ona izvučena na suvo.",
-    "stsl": "Въпрошєнъ коі корвь вєꙁопасьнѣіша · рєчє · Нєнєолькємєнаа ·",
+    "type": "reported",
+    "sr": "Upitan koji su brodovi najbezbedniji, odgovori: Oni izvučeni na kopno.",
+    "stsl": "Въпрошенъ котерꙑи корабли беꙁбѣдьнѣиши сѫть · рече · На сѹхо иꙁвлечени ·",
     "originalText": "Ἐρωτηθεὶς τίνα τῶν πλοίων εἰσὶν ἀσφαλέστερα, ἔφη, Τὰ νενεωλκημένα.",
     "author": "Anacharsis",
     "sources": [
@@ -132,9 +202,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Upitan kojih je više, živih ili mrtvih, reče: Dakle one koji plove, gde ih stavljаš?",
-    "stsl": "Въпрошєнъ котъєрꙑꙗ плѣіша сѫть · жівѫщіі лі мрътвіі · рєчє · Тако жє пловѫщѧꙗ · кѫдє поставлꙗєші ·",
+    "type": "reported",
+    "sr": "Upitan kojih ima više, živih ili mrtvih, odgovori: A gde ubrajaš one koji plove morem?",
+    "stsl": "Въпрошенъ котерꙑихъ множє · живꙑихъ ли мрьтвꙑихъ · рече · Пловѫштѧꙗ же кѫдѣ полагаєши ·",
     "originalText": "Ἐρωτηθεὶς πότεροι πλείους εἰσίν, οἱ ζῶντες ἢ οἱ νεκροί, ἔφη, Τοὺς οὖν πλέοντας ποῦ τίθης;",
     "author": "Anacharsis",
     "sources": [
@@ -145,9 +215,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Oneiđizan od Atinanina da je Skit, reče: Ali mene sramota otadžbina, ti pak otadžbine.",
-    "stsl": "Ѻнєіδіꙁомъ отъ Атіканіна ꙗko Скѵѳъ єсть · рєчє · Нъ мєнє ѻнєідосъ отъьчьствіє · тꙑ жє отъьчьствіꙗ ·",
+    "type": "reported",
+    "sr": "Kada mu je jedan Atinjanin prebacivao što je Skit, odgovori: Meni je sramota moja otadžbina, a ti si sramota svojoj otadžbini.",
+    "stsl": "Отъ Аѳінꙗнина ѹкорѧємъ ꙗко Скѵѳъ єсть · рече · Мнѣ отьчьство срамъ єсть · тꙑ же отьчьствѹ срамъ єси ·",
     "originalText": "Ὀνειδιζόμενος ὑπὸ Ἀττικοῦ ὅτι Σκύθης ἐστίν, ἔφη, Ἀλλ' ἐμοῦ μὲν ὄνειδος ἡ πατρίς, σὺ δὲ τῆς πατρίδος.",
     "author": "Anacharsis",
     "sources": [
@@ -158,9 +228,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Upitan šta je u ljudima i dobro i loše, reče: Jezik.",
-    "stsl": "Въпрошєнъ что єсть въ чловѣцѣхъ і добро і ꙁъло · рєчє · Ꙗꙁꙑкъ ·",
+    "type": "reported",
+    "sr": "Upitan šta je među ljudima i dobro i zlo, odgovori: Jezik.",
+    "stsl": "Въпрошенъ что въ чловѣцѣхъ и добро и ꙁъло єсть · рече · Ꙗꙁꙑкъ ·",
     "originalText": "Ἑρωτηθεὶς τί ἐστιν ἐν ἀνθρώποις ἀγαθόν τε καὶ φαῦλον, ἔφη, Γλῶσσα.",
     "author": "Anacharsis",
     "sources": [
@@ -171,9 +241,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Bolje je reče imati jednog prijatelja mnogo vrednog nego mnoge ni za šta vredne.",
-    "stsl": "Анахарсісъ рече · лѹче єдинъ дрѹгъ достоинъ множьства · неже ли множьство недостоиныхъ ·",
+    "type": "reported",
+    "sr": "Govorio je da je bolje imati jednog prijatelja velike vrednosti nego mnogo bezvrednih.",
+    "stsl": "Глаголааше ꙗко лѹчьше єдиного дрѹга много достоина имѣти · неже ли многꙑ ничьсоже достоинꙑ ·",
     "originalText": "Κρεῖττον ἔλεγεν ἕνα φίλον ἔχειν πολλοῦ ἄξιον ἢ πολλοὺς μηδενὸς ἀξίους.",
     "author": "Anacharsis",
     "sources": [
@@ -184,9 +254,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Trg reče određeno mesto za to da se međusobno varaju i koriste.",
-    "stsl": "Агорѫ рєчє орісмєнъ топосъ да сѧ дрѹгъ дрѹга апатаѭть і плєѻнєктѣѭть ·",
+    "type": "reported",
+    "sr": "Trg je nazivao određenim mestom na kojem ljudi jedni druge varaju i zakidaju.",
+    "stsl": "Тръгъ наречено мѣсто глаголааше · идѣже людие дрѹгъ дрѹга прѣльщаѭть и обидѧть ·",
     "originalText": "Τὴν ἀγορὰν ὡρισμένον ἔφη τόπον εἰς τὸ ἀλλήλους ἀπατᾶν καὶ πλεονεκτεῖν.",
     "author": "Anacharsis",
     "sources": [
@@ -199,8 +269,8 @@
   {
     "type": "bio",
     "year": -590,
-    "sr": "Bio je veoma napredан u uzdržljivosti od mesa i u odvraćanju ljudi od poroka luksuza, stomaka i proždrljivosti.",
-    "stsl": "Вѣ ꙃѣло прѣспѣвъ въ въꙁдрьжаніи отъ мѧсъ · і въ отъвраштаваꙗ чловѣкꙑ отъ ꙁлобꙑ роскоші · утробꙑ і прожрьлівості ·",
+    "sr": "Isticao se uzdržavanjem od mesa i odvraćanjem ljudi od poroka razvrata, ugađanja stomaku i proždrljivosti.",
+    "stsl": "Въꙁдрьжаніємъ отъ мѧсъ вельми славьнъ бѣ · и людии отъ блуда · чрѣвоѹгодіꙗ и прожрьливости отъвраштааше ·",
     "originalText": "Anacarsis fuit muy adelantado en la continencia de non comer carnes y en devallar a los onbres los vicios de la luxuria y del vientre y de la gula.",
     "author": "Anacharsis",
     "sources": [
@@ -211,9 +281,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Od mladića na piru uvređen reče: Mladiću, ako mlad bivši vino ne nosiš, star postavši vodu ćеš nositi.",
-    "stsl": "Отъ мєіракіꙗ на пірѹ ѹврѣждєнъ рєчє · Мєіракіѥ · ащє ѹнъ сꙑ віно нє носіші · старъ вꙑвъ водѫ носіші ·",
+    "type": "anecdote",
+    "sr": "Na gozbi ga je jedan mladić uvredio. Anaharsis mu reče: Mladiću, ako sada, dok si mlad, ne možeš podneti vino, kad ostariš nosićeš vodu.",
+    "stsl": "На пирѣ юноша нѣкꙑи єго ѹкори · Анахарсісъ же рече · Юноше · аще нꙑнѣ ѹнъ сꙑ вина не можеши понести · старъ бꙑвъ водѫ носити бѫдеши ·",
     "originalText": "Ὑπὸ μειρακίου παρὰ πότον ὑβρισθεὶς ἔφη, Μειράκιον, ἐὰν νέος ὢν τὸν οἶνον οὐ φέρῃς, γέρων γενόμενος ὕδωρ οἴσεις.",
     "author": "Anacharsis",
     "sources": [
@@ -221,6 +291,7 @@
         "name": "diogenes-laertius",
         "reference": "I.105"
       }
-    ]
+    ],
+    "year": -588
   }
 ]
