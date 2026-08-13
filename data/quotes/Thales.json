@@ -30,8 +30,8 @@
   {
     "type": "bio",
     "year": -610,
-    "sr": "Nije imao učitelja; putovao u Egipat gde je boravio sa sveštenicima i učio geometriju.",
-    "stsl": "Никъто же его не наѹчи · тъкъмо ꙗко въ Єгѵптъ пришедъ съ жрьці пребꙑваше ·",
+    "sr": "Nije imao učitelja; otišao je u Egipat, gde je boravio sa sveštenicima.",
+    "stsl": "Оучителꙗ не имѣ · тъкъмо въ Єгѵптъ пришедъ съ жрьци пребꙑваше ·",
     "originalText": "Οὐδεὶς δὲ αὐτοῦ καθηγήσατο, πλὴν ὅτι εἰς Αἴγυπτον ἐλθὼν τοῖς ἱερεῦσι συνδιέτριψεν.",
     "author": "Thales",
     "sources": [
@@ -99,7 +99,7 @@
   {
     "type": "bio",
     "year": -546,
-    "sr": "Umro u osamdeset osmoj godini gledajući atletske igre; po nekima živeo devedeset godina.",
+    "sr": "Umro je u sedamdeset osmoj godini gledajući atletske igre; po Sosikratu, živeo je devedeset godina.",
     "stsl": "Прѣстави сѧ лѣтъ седмьдесѧть и осмь имѣꙗ · или по Сосикратѹ девѧть десѧтъ · борьбꙑ ꙁьрѧ ·",
     "originalText": "Ἐτελεύτησε γὰρ ἐτῶν ὢν ἑβδομήκοντα ὀκτώ, ἢ κατὰ Σωσικράτη ἐνενήκοντα· ἀγῶνα θεώμενος γυμνικόν.",
     "author": "Thales",
@@ -111,9 +111,9 @@
     ]
   },
   {
-    "type": "anecdote",
-    "sr": "Na pitanje zašto nema dece, odgovarao je da je to iz ljubavi prema deci; kada su ga nagovarali na ženidbu, najpre je rekao 'prerano je', a kasnije 'prekasno je'.",
-    "stsl": "Вьпрошенъ почто чѧдъ не имать · рече любови ради къ чѧдомъ ·",
+    "type": "reported",
+    "sr": "Upitan zašto nema dece, odgovorio je: Iz ljubavi prema deci.",
+    "stsl": "Въпрошенъ почто чѧдъ не имать · рече · Любови ради къ чѧдомъ ·",
     "author": "Thales",
     "year": -624,
     "originalText": "Ὅτε καὶ ἐρωτηθέντα διὰ τί οὐ τεκνοποιεῖ, διὰ φιλοτεκνίαν εἰπεῖν.",
@@ -276,7 +276,7 @@
   {
     "type": "quote",
     "sr": "Najveći je prostor, jer sve obuhvata.",
-    "stsl": "Вєщє вьсѣхъ мѣсто · вьсѧ бо вмѣщаєть ·",
+    "stsl": "Величаишє вьсѣхъ мѣсто · вьсѧ бо вмѣщаєть ·",
     "originalText": "Μέγιστον τόπος· ἅπαντα γὰρ χωρεῖ.",
     "author": "Thales",
     "sources": [
@@ -315,7 +315,7 @@
   {
     "type": "quote",
     "sr": "Najmudrije je vreme, jer sve razotkriva.",
-    "stsl": "Мѫдрѣє вьсѣхъ врѣмѧ · вьсѧ бо обрѣтаєть ·",
+    "stsl": "Мѫдрѣє вьсѣхъ врѣмѧ · вьсѧ бо ꙗвлꙗєть ·",
     "originalText": "Σοφώτατον χρόνος· ἀνευρίσκει γὰρ πάντα.",
     "author": "Thales",
     "sources": [
@@ -352,10 +352,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Ni zlo delo, ni zla misao ne mogu se sakriti od bogova.",
-    "stsl": "Ни ꙁълодѣѩніє ни ꙁълꙑ помꙑслъ не ѹтаить сѧ отъ боговъ ·",
-    "originalText": "Ἀλλ' οὐδὲ διανοούμενος.",
+    "type": "reported",
+    "sr": "Upitan može li čovek koji čini nepravdu ostati skriven od bogova, odgovorio je: Ne može ni onaj koji je samo namerava.",
+    "stsl": "Въпрошенъ аще чловѣкъ неправдѫ творѧ отъ боговъ ѹтаити сѧ можеть · рече · Ни помꙑшлꙗѧи ·",
+    "originalText": "Ἠρώτησέ τις αὐτὸν εἰ λάθοι θεοὺς ἄνθρωπος ἀδικῶν· «Ἀλλ' οὐδὲ διανοούμενος,» ἔφη.",
     "author": "Thales",
     "sources": [
       {
@@ -365,10 +365,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Krivokletstvo nije gore od preljube.",
-    "stsl": "Не горьши прѣлюбодѣаньꙗ кривѣ клѧтва ·",
-    "originalText": "Οὐ χεῖρον μοιχείας ἐπιορκία.",
+    "type": "reported",
+    "sr": "Kada ga je preljubnik upitao može li se zakleti da nije počinio preljubu, odgovorio je: Krivokletstvo nije ništa bolje od preljube.",
+    "stsl": "Прѣлюбодѣи въпроси · аще можеть клѧти сѧ ꙗко не прѣлюбодѣꙗ · рече · Кривоклѧтва не лѹчьши прѣлюбодѣꙗ ·",
+    "originalText": "Πρὸς τὸν μοιχὸν ἐρόμενον εἰ ὀμόσαι μὴ μεμοιχευκέναι, «Οὐ χεῖρον,» ἔφη, «μοιχείας ἐπιορκία.»",
     "author": "Thales",
     "sources": [
       {
@@ -470,8 +470,8 @@
   },
   {
     "type": "quote",
-    "sr": "Srećan je onaj ko ima zdravo telo, domišljat um i pitomu narav.",
-    "stsl": "Щасливъ · иже тѣло здраво · дѹшѫ разборьнѫ · естество ѹчьливо имать ·",
+    "sr": "Srećan je onaj ko ima zdravo telo, sposobnu dušu i pitomu narav.",
+    "stsl": "Съчастьнъ · иже тѣло здраво · дѹшѫ способьнѫ · естество ѹчьливо имать ·",
     "originalText": "Ὁ τὸ μὲν σῶμα ὑγιής, τὴν δὲ ψυχὴν εὔπορος, τὴν δὲ φύσιν εὐπαίδευτος.",
     "author": "Thales",
     "sources": [
@@ -522,8 +522,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne dopusti da te prazne reči okrenu protiv onih koji su ti poverili svoje poverenje.",
-    "stsl": "Не даждь да тѧ слово обратить протъивѹ тѣхъ иже вѣрѫ съ тобоѭ имѣли сѹть ·",
+    "sr": "Ne dopusti da te tuđe reči okrenu protiv onih s kojima te vezuje poverenje.",
+    "stsl": "Не даждь словѹ обратити тѧ противѹ тѣхъ · съ нимиже вѣрѫ имаши ·",
     "originalText": "Μηδὲ διαβαλλέτω σε λόγος πρὸς τοὺς πίστεως κεκοινωνηκότας.",
     "author": "Thales",
     "sources": [
@@ -586,7 +586,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "reported",
     "sr": "I nežive stvari imaju dušu, što pokazuju magnet i ćilibar.",
     "stsl": "И бездѹшьнꙑѩ вєщи дѹшѫ имѫть · знамєниємь отъ камене магнитьска и отъ илєктра ·",
     "originalText": "Καὶ τοῖς ἀψύχοις μεταδιδόναι ψυχάς, τεκμαιρόμενον ἐκ τῆς λίθου τῆς μαγνήτιδος καὶ τοῦ ἠλέκτρου.",
@@ -599,7 +599,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "reported",
     "sr": "Voda je prvobitno načelo svega.",
     "stsl": "Начѧло вьсѣмь вода ·",
     "originalText": "Ἀρχὴν δὲ τῶν πάντων ὕδωρ ὑπεστήσατο.",
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "reported",
     "sr": "Stroj je živ i pun božanstava.",
     "stsl": "Строи живъ · божьствъ полнъ ·",
     "originalText": "Τὸν κόσμον ἔμψυχον καὶ δαιμόνων πλήρη.",
@@ -625,7 +625,7 @@
     ]
   },
   {
-    "type": "quote",
+    "type": "reported",
     "sr": "Nil se izliva zbog etesijskih vetrova, koji duvaju nasuprot njegovu toku i potiskuju vodu uzvodno.",
     "stsl": "Нилъ разливаєть сѧ · вѣтрꙑ лѣтьнꙑ протъивѹ точениѭ дѹхѫть · и водѫ възгонѧть ·",
     "originalText": "Τὸν Νεῖλον πληθύειν ἀνακοπτομένων τῶν ῥευμάτων ὑπὸ τῶν ἐτησίων ἐναντίων ὄντων.",
@@ -651,9 +651,9 @@
     ]
   },
   {
-    "type": "mention",
-    "sr": "Heraklit i Demokrit svedoče o Talesu kao astronomu koji je predvideo pomračenja Sunca i ravnodnevice.",
-    "stsl": "По нѣкꙑимъ първъ ꙁвѣꙁдочетиємь занѧ сѧ и съльньчьнꙑ затмѣниꙗ и прѣвратꙑ прѣдърече · ꙗкоже глаголєть Еѵдимъ · тѣмьже и Ѯенофанъ и Херодотъ дивѧть сѧ · свѣдьтельствѹєть же о немь и Хераклитъ и Демокритъ ·",
+    "type": "bio",
+    "sr": "Po nekima je Tales prvi proučavao zvezde i predvideo pomračenja Sunca i solsticije, kako kaže Eudem. Zbog toga mu se dive Ksenofan i Herodot, a o njemu svedoče i Heraklit i Demokrit.",
+    "stsl": "По нѣкꙑимъ Ѳалесъ пръвъ звѣздочетіємъ занѧ сѧ · и съльньчьна затмѣниꙗ и прѣвратꙑ прѣдърече · ꙗкоже Еѵдимъ глаголеть · тѣмьже и Ксенофанъ и Херодотъ дивѧть сѧ · свѣдѣтельствѹѭть же о немь и Хераклитъ и Демокритъ ·",
     "originalText": "Δοκεῖ δὲ κατά τινας πρῶτος ἀστρολογῆσαι καὶ ἡλιακὰς ἐκλείψεις καὶ τροπὰς προειπεῖν, ὥς φησιν Εὔδημος ἐν τῇ Περὶ τῶν ἀστρολογουμένων ἱστορίᾳ· ὅθεν αὐτὸν καὶ Ξενοφάνης καὶ Ἡρόδοτος θαυμάζει. Μαρτυρεῖ δ' αὐτῷ καὶ Ἡράκλειτος καὶ Δημόκριτος.",
     "author": [
       "Thales",
@@ -664,6 +664,20 @@
       {
         "name": "diogenes-laertius",
         "reference": "I.23"
+      }
+    ]
+  },
+  {
+    "type": "anecdote",
+    "year": -600,
+    "sr": "Kada ga majka kao mladića nagovaraše na ženidbu, odgovaraše: Još nije vreme. Kada ga pak u starosti ponovo nagovaraše, odgovori: Više nije vreme.",
+    "stsl": "Єгда мати єго ѹна сѫшта на женитьвѫ понѫждааше · рече · Єште не врѣмѧ · Потомъ же старѣишѹ ємѹ бꙑвъшѹ · пакꙑ понѫждааше · онъ же рече · Ѹже не врѣмѧ ·",
+    "originalText": "Φασὶ δὲ καὶ τῆς μητρὸς αὐτὸν πρὸς γάμον παραινούσης, νέον μὲν ὄντα λέγειν, «Οὔπω καιρός,» προβεβηκότα δὲ τὴν ἡλικίαν καὶ πάλιν ἐγκειμένης, «Οὐκέτι καιρός.»",
+    "author": "Thales",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.26"
       }
     ]
   }

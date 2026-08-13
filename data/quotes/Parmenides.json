@@ -70,8 +70,8 @@
   },
   {
     "type": "quote",
-    "sr": "Zemlja je kuglasta i leži u središtu vaseljene.",
-    "stsl": "Землѧ єсть крѹглообразна и лежить посредѣ васєлены ·",
+    "sr": "Zemlja je okrugla i leži u središtu.",
+    "stsl": "Землѧ окрѫгла єсть и лежить посредѣ ·",
     "originalText": "τὴν γῆν ἀπέφαινε σφαιροειδῆ καὶ ἐν μέσῳ κεῖσθαι.",
     "author": "Parmenides",
     "sources": [
@@ -83,8 +83,8 @@
   },
   {
     "type": "quote",
-    "sr": "Dva elementa su oganj i zemlja: oganj ima ulogu tvorca, a zemlja ulogu tvari.",
-    "stsl": "Двѣ начѧла сѫть огнь и землѧ · огнь чинъ творьца имать · землѧ же чинъ вещества ·",
+    "sr": "Dve prvine su oganj i zemlja: oganj ima čin tvorca, a zemlja čin tvari.",
+    "stsl": "Двѣ първинѣ сѫть огнь и землѧ · огнь чинъ творьца имать · землѧ же чинъ вещества ·",
     "originalText": "δύο τε εἶναι στοιχεῖα, πῦρ καὶ γῆν, καὶ τὸ μὲν δημιουργοῦ τάξιν ἔχειν, τὴν δ' ὕλης.",
     "author": "Parmenides",
     "sources": [
@@ -122,8 +122,8 @@
   },
   {
     "type": "quote",
-    "sr": "Filozofija je dvojaka: jedna se bavi istinom, a druga mnenjem.",
-    "stsl": "Любомѫдрие двоє єсть · єдино по истинѣ · дрѹгоє по мьнѣнию ·",
+    "sr": "Ljubomudrije je dvojako: jedno po istini, drugo po mnenju.",
+    "stsl": "Любомѫдриє двоє єсть · єдино по истинѣ · дрѹгоє по мьнѣнию ·",
     "originalText": "δισσήν τε ἔφη τὴν φιλοσοφίαν, τὴν μὲν κατὰ ἀλήθειαν, τὴν δὲ κατὰ δόξαν.",
     "author": "Parmenides",
     "sources": [
@@ -148,8 +148,8 @@
   },
   {
     "type": "quote",
-    "sr": "Merilo je razum, a čula nisu pouzdana.",
-    "stsl": "Мѣрило єсть словесіє · чѹвьства же не извѣстна сѫть ·",
+    "sr": "Merilo je slovo, a čula nisu pouzdana.",
+    "stsl": "Мѣрило єсть слово · чѹвьства же не извѣстна сѫть ·",
     "originalText": "κριτήριον δὲ τὸν λόγον εἶπε· τάς τε αἰσθήσεις μὴ ἀκριβεῖς ὑπάρχειν.",
     "author": "Parmenides",
     "sources": [
@@ -161,8 +161,8 @@
   },
   {
     "type": "quote",
-    "sr": "Neka te dugotrajna navika ne prisili da pođeš ovim putem, upravljajući se besciljnim okom, odjekujućim sluhom i jezikom; već razumom presudi o mnogospornom dokazu.",
-    "stsl": "Да не понѹдить тебе многолѣтьныи обычаи по семѹ пѫти ходити · безцѣльнымъ окомъ · шумьнымъ слѹхомъ и ѩзыкомъ правити сѧ · нъ разѹмомъ сѫди о многопрѣрѣкаємомь доводѣ ·",
+    "sr": "Neka te dugotrajna navika ne prisili da pođeš ovim putem, vodeći se besciljnim okom, odjekujućim sluhom i jezikom; nego slovom odluči o mnogospornom dokazu.",
+    "stsl": "Да не понѹдить тѧ многолѣтьныи обꙑчаи по семѹ пѫти ходити · безцѣльнымъ окомъ · шумьнымъ слѹхомъ и ѩꙁꙑкомъ водимѹ · нъ словомъ лѫчи многопрѣрѣкаємꙑи доводъ ·",
     "originalText": "μηδέ σ' ἔθος πολύπερον ὁδὸν κατὰ τήνδε βιάσθω νωμᾶν ἄσκοπον ὄμμα καὶ ἠχήεσσαν ἀκουὴν καὶ γλῶσσαν, κρῖναι δὲ λόγῳ πολύδηριν ἔλεγχον.",
     "author": "Parmenides",
     "sources": [
@@ -261,6 +261,279 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.23"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Dođi, ja ću ti kazati; a ti saslušaj i primi kazivanje: samo su dva puta istraživanja koja se mogu pojmiti. Jedan: jeste i ne može ne biti; to je put uverenja, jer istinu prati. Drugi: nije i mora ne biti; taj ti je put, velim, sasvim nesaznatljiv. Jer ne-biće ne možeš ni poznati ni iskazati.",
+    "stsl": "Пріиди · азъ ти рекѫ · тꙑ же послѹшаи и повѣсть приими · Дъва бо тъкмо пѫти испытаніꙗ сѫть поѩти · Єдинъ · єсть и не можеть не быти · се пѫть ѹвѣреніꙗ · истинѣ бо послѣдѹєть · Дрѹгъ же · нѣсть и по нѫжди не быти · сеи ти пѫть глаголѭ вьсецѣло непознанъ · Не сѫщее бо ни познати можеши · ни изрещи ·",
+    "originalText": "εἰ δ᾽ ἄγ᾽ ἐγὼν ἐρέω, κόμισαι δὲ σὺ μῦθον ἀκούσας, αἵπερ ὁδοὶ μοῦναι διζήσιός εἰσι νοῆσαι· ἡ μὲν ὅπως ἔστιν τε καὶ ὡς οὐκ ἔστι μὴ εἶναι, πειθοῦς ἐστι κέλευθος (ἀληθείῃ γὰρ ὀπηδεῖ), ἡ δ᾽ ὡς οὐκ ἔστιν τε καὶ ὡς χρεών ἐστι μὴ εἶναι, τὴν δή τοι φράζω παναπευθέα ἔμμεν ἀταρπόν· οὔτε γὰρ ἂν γνοίης τό γε μὴ ἐὸν (οὐ γὰρ ἀνυστόν) οὔτε φράσαις.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 2"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Isto je pojmiti i biti.",
+    "stsl": "Тожде єсть поѩти и быти ·",
+    "originalText": "τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 3"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Umom gledaj odsutno kao pouzdano prisutno. Jer biće nećeš odvojiti od bića, ni kada se po ustroju svuda rasipa, ni kada se sabira.",
+    "stsl": "Ѹмомъ ꙁри отъсѫщее ꙗко извѣстьно присѫщее · Сѫщее бо отъ сѫщаго не отълѫчиши · ни по строю вьсѫдѹ расѣваѥмо · ни събираѥмо ·",
+    "originalText": "λεῦσσε δ᾽ ὅμως ἀπεόντα νόῳ παρεόντα βεβαίως· οὐ γὰρ ἀποτμήξει τὸ ἐὸν τοῦ ἐόντος ἔχεσθαι οὔτε σκιδνάμενον πάντῃ πάντως κατὰ κόσμον οὔτε συνιστάμενον.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 4"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Svejedno mi je odakle počnem; jer tamo ću se opet vratiti.",
+    "stsl": "Єдино ми отъкѫдѹ начьнѫ · тѹ бо пакꙑ възвраштѫ сѧ ·",
+    "originalText": "ξυνὸν δέ μοί ἐστιν, ὁππόθεν ἄρξωμαι· τόθι γὰρ πάλιν ἵξομαι αὖθις.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 5"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Treba govoriti i pojmiti: biće jeste. Jer biti jeste, a ništa nije. To ti nalažem da razmotriš. Od tog prvog puta istraživanja odvraćam te, a potom i od onoga kojim lutaju smrtnici što ništa ne znaju, dvoglavi. Nemoć u njihovim grudima vodi lutajući um; nose se gluhi i slepi ujedno, zapanjeni, nerazborit rod, kojima se biti i ne biti čini isto i ne isto, a put svega povratan.",
+    "stsl": "Подобаєть глаголати и поѩти · сѫщее єсть · Быти бо єсть · ничтоже же нѣсть · Се ти повелѣваѭ разъсмотрѣти · Отъ сего пръваго пѫти испытаніꙗ възвраштаѭ тѧ · потомъ же и отъ того · имьже смрьтнии ничтоже вѣдѫще блѫдѧть · двоглави · Немощь бо въ пръсехъ ихъ блѫдѧштии ѹмъ водить · носѧть же сѧ глѹси и слѣпи вкупѣ · ѹжасени · родъ неразборьнъ · имъже быти и не быти тожде мьнить сѧ и не тожде · вьсѣхъ же пѫть възвратенъ ·",
+    "originalText": "χρὴ τὸ λέγειν τε νοεῖν τ᾽ ἐὸν ἔμμεναι· ἔστι γὰρ εἶναι, μηδὲν δ᾽ οὐκ ἔστιν· τά σ᾽ ἐγὼ φράζεσθαι ἄνωγα. πρώτης γάρ σ᾽ ἀφ᾽ ὁδοῦ ταύτης διζήσιος <εἴρξω>, αὐτὰρ ἔπειτ᾽ ἀπὸ τῆς, ἣν δὴ βροτοὶ εἰδότες οὐδὲν πλάττονται, δίκρανοι· ἀμηχανίη γὰρ ἐν αὐτῶν στήθεσιν ἰθύνει πλακτὸν νόον· οἱ δὲ φοροῦνται κωφοὶ ὁμῶς τυφλοί τε, τεθηπότες, ἄκριτα φῦλα, οἷς τὸ πέλειν τε καὶ οὐκ εἶναι ταὐτὸν νενόμισται κοὐ ταὐτόν, πάντων δὲ παλίντροπός ἐστι κέλευθος.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 6"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Preostaje još samo jedno kazivanje o putu: jeste. Na njemu su mnoga znamenja: biće je nerođeno i nepropadljivo, celo, jedino, nepokretno i dovršeno. Niti je ikada bilo niti će biti, jer sada jeste sve zajedno, jedno i neprekidno. Kakvo ćeš mu rođenje tražiti? Kako i odakle je poraslo? Neću ti dopustiti ni da kažeš ni da pojmiš: iz ne-bića. Jer ne može se ni iskazati ni pojmiti da nije. Kakva bi ga nužda, počevši od ničega, nagnala da nastane kasnije ili ranije? Zato mora ili sasvim biti ili ne biti. Ni snaga uverenja neće dopustiti da iz ne-bića nastane išta drugo pored njega. Zato Pravda, ne popuštajući okove, ne dopušta ni da nastane ni da propadne, nego ga drži. Odluka je ova: jeste ili nije. Odlučeno je, kako nužda nalaže, da jedan put ostavimo kao nepojmljiv i bezimen, jer nije istinit, a drugi da jeste i da je istinit. Kako bi onda biće moglo propasti? Kako bi moglo nastati? Ako je nastalo, nije; niti jeste ako tek treba da bude. Tako je rođenje ugašeno, a propast iščezla.",
+    "stsl": "Єдина же повѣсть пѫти остаєть · єсть · На немь многа ꙁнамениꙗ · сѫщее нерождено и нетлѣньно · цѣло · єдино · недвижимо и съврьшено · Ни бѣ нѣкогда ни бѫдеть · нꙑнѣ бо єсть вьсе вкупѣ · єдино и неразлѫчно · Каково рожденьѥ ємѹ ищеши · како и отъкѫдѹ възрасте · Не дамь ти ни глаголати ни поѩти · отъ не сѫщаго · Не можеть бо ни изрещи сѧ ни поѩти · нѣсть · Каꙗ же нѫжда єго · отъ ничьсоже наченъша · понѹди потомъ или прѣжде родити сѧ · Тѣмь или вьсецѣло быти подобаєть · или не быти · Ни сила вѣры не дасть отъ не сѫщаго иномѹ чемѹ при немь родити сѧ · Того ради Правда · оковъ не ослаблꙗѭщи · ни родити сѧ ни погꙑбнѫти не дасть · нъ дрьжить и · Лѫченіє же се · єсть или нѣсть · Лѫчено ѹбо єсть · ꙗкоже нѫжда повелѣваєть · єдинъ пѫть оставити ꙗко непоѩтъ и безъ имене · не истиньнъ бо єсть · дрѹгꙑи же · ꙗко єсть и истиньнъ · Како ѹбо сѫщее погꙑбнѫти можеть · како же родити сѧ · Аще бо роди сѧ · нѣсть · ни єсть аще потомъ быти имать · Тако рожденьѥ ѹгасе · погꙑбель же исчезе ·",
+    "originalText": "μοῦνος δ᾽ ἔτι μῦθος ὁδοῖο λείπεται ὡς ἔστιν· ταύτῃ δ᾽ ἐπὶ σήματ᾽ ἔασι πολλὰ μάλ᾽, ὡς ἀγένητον ἐὸν καὶ ἀνώλεθρόν ἐστιν οὖλον μουνογενές τε καὶ ἀτρεμὲς ἠδ᾽ ἀτέλεστον· οὐδέ ποτ᾽ ἦν οὐδ᾽ ἔσται, ἐπεὶ νῦν ἔστιν ὁμοῦ πᾶν, ἕν, συνεχές· τίνα γὰρ γένναν διζήσεαι αὐτοῦ; πῇ πόθεν αὐξηθέν; οὔτ᾽ ἐκ μὴ ἐόντος ἐάσσω φάσθαι σ᾽ οὐδὲ νοεῖν· οὐ γὰρ φατὸν οὐδὲ νοητόν ἔστιν ὅπως οὐκ ἔστι. τί δ᾽ ἄν μιν καὶ χρέος ὦρσεν ὕστερον ἢ πρόσθεν, τοῦ μηδενὸς ἀρξάμενον, φῦν; οὕτως ἢ πάμπαν πελέναι χρεών ἐστιν ἢ οὐχί. οὐδέ ποτ᾽ ἐκ μὴ ἐόντος ἐφήσει πίστιος ἰσχύς γίγνεσθαί τι παρ᾽ αὐτό· τοῦ εἵνεκεν οὔτε γενέσθαι οὔτ᾽ ὄλλυσθαι ἀνῆκε Δίκη χαλάσασα πέδῃσιν, ἀλλ᾽ ἔχει· ἡ δὲ κρίσις περὶ τούτων ἐν τῷδ᾽ ἔστιν· ἔστιν ἢ οὐκ ἔστιν· κέκριται δ᾽ οὖν, ὥσπερ ἀνάγκη, τὴν μὲν ἐᾶν ἀνόητον ἀνώνυμον (οὐ γὰρ ἀληθής ἔστιν ὁδός), τὴν δ᾽ ὥστε πέλειν καὶ ἐτήτυμον εἶναι. πῶς δ᾽ ἂν ἔπειτα πέλοι τὸ ἐόν; πῶς δ᾽ ἄν κε γένοιτο; εἰ γὰρ ἔγεντ᾽, οὐκ ἔστ(ι), οὐδ᾽ εἴ ποτε μέλλει ἔσεσθαι. τὼς γένεσις μὲν ἀπέσβεσται καὶ ἄπυστος ὄλεθρος.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 8.1-21"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Biće nije deljivo, jer je svuda isto. Nigde ga nema više, što bi sprečilo da se drži zajedno, niti manje; sve je puno bića. Zato je sve neprekidno: biće se bića drži. Nepokretno je u granicama silnih okova, bez početka i bez prestanka, jer su rođenje i propast odagnani daleko: odbacilo ih je istinsko uverenje. Isto, u istom ostajući, samo u sebi leži i tako čvrsto ostaje na mestu. Silna Nužda drži ga u okovima granice koja ga odasvud zatvara. Zato biću nije dopušteno da bude nedovršeno: ničega mu ne nedostaje.",
+    "stsl": "Ни сѫщее раздѣлимо єсть · вьсѫдѹ бо тожде · Нигдѣ єго болѥ · єже бы съдрьжати сѧ възбранило · ни мьньше · вьсе бо сѫщаго пълно · Тѣмь вьсе неразлѫчно · сѫщее бо сѫщаго дрьжить сѧ · Недвижимо · въ коньцехъ крѣпъкꙑхъ оковъ · безъ начѧла и безъ прѣстаніꙗ · Рожденьѥ бо и погꙑбель далече отъгнана · истиньна вѣра ѩ отрину · Тожде · въ тождемь прѣбꙑваѭще · само въ себѣ лежить · и тако твьрдо на мѣстѣ прѣбꙑваєть · Крѣпъка бо Нѫжда въ оковѣхъ коньца дрьжить є · иже є отвьсѫдѹ затворѧєть · Тѣмь сѫщемѹ не подобаєть несъврьшенѹ быти · ничьсоже бо ємѹ не лишить · аще ли не бы было · вьсего бы лишило ·",
+    "originalText": "οὐδὲ διαιρετόν ἐστιν, ἐπεὶ πᾶν ἐστιν ὁμοῖον· οὐδέ τι τῇ μᾶλλον, τό κεν εἴργοι μιν συνέχεσθαι, οὐδέ τι χειρότερον, πᾶν δ᾽ ἔμπλεόν ἐστιν ἐόντος. τῷ ξυνεχὲς πᾶν ἐστιν· ἐὸν γὰρ ἐόντι πελάζει. αὐτὰρ ἀκίνητον μεγάλων ἐν πείρασι δεσμῶν ἔστιν ἄναρχον ἄπαυστον, ἐπεὶ γένεσις καὶ ὄλεθρος τῆλε μάλ᾽ ἐπλάχθησαν, ἀπῶσε δὲ πίστις ἀληθής. ταὐτόν τ᾽ ἐν ταὐτῷ τε μένον καθ᾽ ἑαυτό τε κεῖται χοὔτως ἔμπεδον αὖθι μένει· κρατερὴ γὰρ ᾽Ανάγκη πείρατος ἐν δεσμοῖσιν ἔχει, τό μιν ἀμφὶς ἐέργει, οὕνεκεν οὐκ ἀτελεύτητον τὸ ἐὸν θέμις εἶναι· ἔστι γὰρ οὐκ ἐπιδευές· [μὴ] ἐὸν δ᾽ ἂν παντὸς ἐδεῖτο.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 8.22-33"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Isto je pojmiti i ono radi čega poim jeste. Jer bez bića, u kojem je izrečen, nećeš naći poimanje. Ništa drugo niti jeste niti će biti osim bića, jer ga je Sudba svezala da bude celo i nepokretno. Zato su samo imena sve što su smrtnici postavili verujući da je istinito: rađati se i propadati, biti i ne biti, menjati mesto i menjati svetlu boju.",
+    "stsl": "Тожде єсть поѩти и то · єгоже ради поимъ єсть · Безъ сѫщаго бо · въ немьже изреченъ · поѩти не обрѧщеши · Ничтоже ино ни єсть ни бѫдеть кроме сѫщаго · Сѫдьба бо є связа · цѣло и недвижимо быти · Тѣмь имѧна тъкмо сѫть вьсѧ · ꙗже смрьтнии положиша · вѣровавъше истинна быти · раждати сѧ и погꙑбати · быти и не быти · мѣсто прѣмѣнѧти и свѣтлꙑи цвѣтъ мѣнити ·",
+    "originalText": "ταὐτὸν δ᾽ ἐστὶ νοεῖν τε καὶ οὕνεκεν ἔστι νόημα. οὐ γὰρ ἄνευ τοῦ ἐόντος, ἐν ᾧ πεφατισμένον ἐστίν, εὑρήσεις τὸ νοεῖν· οὐδὲν γὰρ <ἢ> ἔστιν ἢ ἔσται ἄλλο πάρεξ τοῦ ἐόντος, ἐπεὶ τό γε Μοῖρ᾽ ἐπέδησεν οὖλον ἀκίνητόν τ᾽ ἔμεναι· τῷ πάντ᾽ ὄνομ(α) ἔσται, ὅσσα βροτοὶ κατέθεντο πεποιθότες εἶναι ἀληθῆ, γίγνεσθαί τε καὶ ὄλλυσθαι, εἶναί τε καὶ οὐχί, καὶ τόπον ἀλλάσσειν διά τε χρόα φανὸν ἀμείβειν.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 8.34-41"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Pošto ima krajnju granicu, biće je sa svih strana dovršeno, nalik masi sasvim okrugle lopte, od sredine svuda jednako. Jer ne može ovde biti ni veće ni manje nego onde. Nema ne-bića koje bi ga sprečilo da svuda jednako doseže, niti bića može ovde biti više a onde manje od bića, jer je celo nepovredivo. Sa svih strana jednako, jednako doseže granicu.",
+    "stsl": "Понеже краинии коньць имать · сѫщее отвьсѫдѹ съврьшено · вьсецѣло окрѫглыѩ лопътꙑ громади подобьно · отъ срѣды вьсѫдѹ равно · Не можеть бо овъдѣ болѥ ни ондѣ мьньше быти · Ни не сѫщее єсть · єже бы ємѹ къ равьномѹ достиꙁати възбранило · ни сѫщаго овъдѣ болѥ · ондѣ же мьньше быти можеть · цѣло бо неврѣдимо · Отвьсѫдѹ равно · равно своихъ коньць достигаєть ·",
+    "originalText": "αὐτὰρ ἐπεὶ πεῖρας πύματον, τετελεσμένον ἐστί πάντοθεν, εὐκύκλου σφαίρης ἐναλίγκιον ὄγκῳ, μεσσόθεν ἰσοπαλὲς πάντῃ· τὸ γὰρ οὔτε τι μεῖζον οὔτε τι βαιότερον πελέναι χρεόν ἐστι τῇ ἢ τῇ. οὔτε γὰρ οὐκ ἐὸν ἔστι, τό κεν παύοι μιν ἱκνεῖσθαι εἰς ὁμόν, οὔτ᾽ ἐὸν ἔστιν ὅπως εἴη κεν ἐόντος τῇ μᾶλλον τῇ δ᾽ ἧσσον, ἐπεὶ πᾶν ἐστιν ἄσυλον· οἷ γὰρ πάντοθεν ἶσον, ὁμῶς ἐν πείρασι κύρει.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 8.42-49"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Tu ti završavam pouzdano slovo i poim o istini. Odsad uči mnenja smrtnika, slušajući varljivi ustroj mojih reči. Oni odlučiše da imenuju dva oblika, od kojih jedan nije trebalo imenovati — tu su zalutali. Razlučiše ih kao telesne protivnosti i postaviše im odvojena znamenja: s jedne strane nebeski plameni oganj, blag i veoma lak, svuda isti sebi, ali drugome ne isti; s druge njemu protivna neznana noć, gusto i teško telo. Sav ovaj ustroj nalik istini kazujem ti, da te nikada ne nadvlada mnenje smrtnika.",
+    "stsl": "Тѹ ти коньчаѭ вѣрьно слово и поимъ о истинѣ · Отъселѣ же мьнѣниꙗ смрьтныхъ ѹчи · прѣльстьнꙑи строи моихъ словесъ слꙑша · Дъва образа именовати лѫчиша · єдиного же не подобааше именовати · тѹ заблѫдишѧ · Противꙑ тѣломъ разлѫчиша · и ꙁнамениꙗ имъ особо положиша · овомѹ небесьнꙑи пламененъ огнь · кротъкъ и зѣло легъкъ · вьсѫдѹ себѣ тожде · дрѹгомѹ же не тожде · иномѹ же противѹ нощь невѣдома · тѣло гѫсто и тѧжько · Вьсь сеи истинѣ подобьнъ строи ти повѣдаѭ · да тѧ николиже мьнѣніє смрьтныхъ одолѣєть ·",
+    "originalText": "ἐν τῷ σοι παύω πιστὸν λόγον ἠδὲ νόημα ἀμφὶς ἀληθείης· δόξας δ᾽ ἀπὸ τοῦδε βροτείας μάνθανε κόσμον ἐμῶν ἐπέων ἀπατηλὸν ἀκούων. μορφὰς γὰρ κατέθεντο δύο γνώμας ὀνομάζειν, τῶν μίαν οὐ χρεών ἐστιν (ἐν ᾧ πεπλανημένοι εἰσίν)· τἀντία δ᾽ ἐκρίναντο δέμας καὶ σήματ᾽ ἔθεντο χωρὶς ἀπ᾽ ἀλλήλων, τῇ μὲν φλογὸς αἰθέριον πῦρ, ἤπιον ὄν, μέγ᾽ ἐλαφρόν, ἑωυτῷ πάντοσε τωὐτόν, τῷ δ᾽ ἑτέρῳ μὴ τωὐτόν· ἀτὰρ κἀκεῖνο κατ᾽ αὐτό τἀντία νύκτ᾽ ἀδαῆ, πυκινὸν δέμας ἐμβριθές τε. τόν σοι ἐγὼ διάκοσμον ἐοικότα πάντα φατίζω, ὡς οὐ μή ποτέ τίς σε βροτῶν γνώμη παρελάσσῃ.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 8.50-61"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Pošto je sve imenovano svetlošću i noći, i svemu su po njihovim silama pripala ova ili ona imena, sve je zajedno puno svetlosti i nevidljive noći, obe podjednako; jer ništa nije bez jedne od njih.",
+    "stsl": "Понеже вьсѧ свѣтомъ и нощию именована · и вьсакомѹ по силамъ ихъ ово или ино имѧ положено · вьсе вкупѣ свѣта и невидимыѩ нощи пълно · обоє равно · ничтоже бо безъ єдиного отъ нихъ ·",
+    "originalText": "αὐτὰρ ἐπειδὴ πάντα φάος καὶ νὺξ ὀνόμασται καὶ τὰ κατὰ σφετέρας δυνάμεις ἐπὶ τοῖσί τε καὶ τοῖς, πᾶν πλέον ἐστὶν ὁμοῦ φάεος καὶ νυκτὸς ἀφάντου ἴσων ἀμφοτέρων, ἐπεὶ οὐδετέρῳ μέτα μηδέν.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 9"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Poznaćeš prirodu nebesja i sva znamenja u njemu, nevidljiva dela čiste baklje sjajnog Sunca i odakle nastadoše. Saznaćeš i lutajuća dela okruglookog Meseca i njegovu prirodu; znaćeš i odakle nastade nebo koje sve obuhvata, i kako ga Nužda, vodeći ga, sveza da drži granice zvezda.",
+    "stsl": "Познаєши естество небєсьꙗ и вьсѧ ꙁнамениꙗ въ немь · невидима дѣла чистыѩ свѣштѧ свѣтълаго Слъньца · и отъкѫдѹ родишѧ сѧ · Познаєши и блѫдѧшта дѣла окрѫглоокаго Мѣсѧца и естество єго · ѹвѣси же и отъкѫдѹ небо обьемлѭштеє роди сѧ · и како Нѫжда ведѫщи є связа · да коньцꙑ звѣздъ дрьжить ·",
+    "originalText": "εἴσῃ δ᾽ αἰθερίαν τε φύσιν τά τ᾽ ἐν αἰθέρι πάντα σήματα καὶ καθαρᾶς εὐαγέος ἠελίοιο λαμπάδος ἔργ᾽ ἀίδηλα καὶ ὁππόθεν ἐξεγένοντο, ἔργα τε κύκλωπος πεύσῃ περίφοιτα σελήνης καὶ φύσιν, εἰδήσεις δὲ καὶ οὐρανὸν ἀμφὶς ἔχοντα ἔνθεν [ἔφυ τε] καὶ ὥς μιν ἄγουσ(α) ἐπέδησεν Ἀνάγκη πείρατ᾽ ἔχειν ἄστρων.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 10"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kako nastadoše Zemlja, Sunce i Mesec, zajedničko nebesje, Mlečni put, krajnji Olimp i vrela sila zvezda.",
+    "stsl": "Како родишѧ сѧ Землꙗ · Слъньце и Мѣсѧць · обьщеє небєсьє · Млѣчьныи пѫть · краинии Олимпъ и тепла сила звѣздъ ·",
+    "originalText": "πῶς γαῖα καὶ ἥλιος ἠδὲ σελήνη αἰθήρ τε ξυνὸς γάλα τ᾽ οὐράνιον καὶ ὄλυμπος ἔσχατος ἠδ᾽ ἄστρων θερμὸν μένος ὡρμήθησαν γίγνεσθαι.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 11"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Uži krugovi puni su nepomešane vatre, sledeći noći, a između njih izliva se deo plamena. U sredini je boginja koja svime upravlja; ona započinje svako bolno rađanje i mešanje, šaljući žensko muškom da se spoji, a muško opet ženskom.",
+    "stsl": "Ѹжьшии крѫзи непомѣшанаго огнѧ пълни · иже же при нихъ нощи · межи ними же чѧсть пламени исходить · Посредѣ богꙑни · ꙗже вьсѣмь править · она бо вьсакомѹ болѣзньномѹ рожденьѭ и смѣшенію начѧло творить · женьскоє къ мѫжьскомѹ на смѣшеніє посылаѭщи · и пакꙑ мѫжьскоє къ женьскомѹ ·",
+    "originalText": "αἱ γὰρ στεινότεραι πλῆντο πυρὸς ἀκρήτοιο, αἱ δ᾽ ἐπὶ ταῖς νυκτός, μετὰ δὲ φλογὸς ἵεται αἶσα· ἐν δὲ μέσῳ τούτων δαίμων ἣ πάντα κυβερνᾷ· πάντα γὰρ <ἣ> στυγεροῖο τόκου καὶ μίξιος ἄρχει πέμπουσ᾽ ἄρσενι θῆλυ μιγῆν τό τ᾽ ἐναντίον αὖτις ἄρσεν θηλυτέρῳ.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 12"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Najpre od svih bogova smisli Ljubav.",
+    "stsl": "Пръвѣе вьсѣхъ боговъ Любовь помꙑсли ·",
+    "originalText": "πρώτιστον μὲν Ἔρωτα θεῶν μητίσατο πάντων.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 13"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Noćnosvetla, tuđim svetlom, luta oko Zemlje.",
+    "stsl": "Нощесвѣтна · чѹждимь свѣтомъ около Землѧ блѫдѧшти ·",
+    "originalText": "νυκτιφαὲς περὶ γαῖαν ἀλώμενον ἀλλότριον φῶς.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 14"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Uvek gledajući prema zracima Sunca.",
+    "stsl": "Присно къ лѹчемъ Слъньца взираѭшти ·",
+    "originalText": "αἰεὶ παπταίνουσα πρὸς αὐγὰς ἠελίοιο.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 15"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kakva je svaki put mešavina mnogolutajućih udova, takav je i um u ljudima. Jer isto je ono što razmišlja i priroda udova u ljudima, u svima i u svakome: ono što preteže jeste poim.",
+    "stsl": "Каково вьсакꙑи разъ смѣшеніє многоблѫдьнꙑхъ ѹдовъ · таковъ и ѹмъ въ чловѣцѣхъ · Тожде бо єсть єже размꙑшлꙗєть и естество ѹдовъ въ чловѣцѣхъ · въ вьсѣхъ и въ вьсакомь · Єже бо прѣвъзмогаєть · поимъ єсть ·",
+    "originalText": "ὡς γὰρ ἑκάστοτ᾽ ἔχει κρᾶσιν μελέων πολυπλάγκτων, τὼς νόος ἀνθρώποισι παρίσταται· τὸ γὰρ αὐτό ἔστιν ὅπερ φρονέει μελέων φύσις ἀνθρώποισιν καὶ πᾶσιν καὶ παντί· τὸ γὰρ πλέον ἐστὶ νόημα.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 16"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Desno mladići, levo devojke.",
+    "stsl": "Одеснѫ ѫноши · ошѹѭ дѣвꙑ ·",
+    "originalText": "δεξιτεροῖσιν μὲν κούρους, λαιοῖσι δὲ κούρας.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 17"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kada žena i muškarac zajedno pomešaju semena Ljubavi, sila koja u žilama od različite krvi oblikuje telo, ako sačuva pravu meru, stvara skladno sazdana tela. Ako se pak sile pri mešanju semena sukobe i ne sjedine u pomešanom telu, strašno će mučiti pol rođen od dvostrukog semena.",
+    "stsl": "Єгда жена и мѫжь вкупѣ сѣмена Любъве смѣсѧть · сила · ꙗже въ жилахъ отъ различьныѩ кръве тѣло образѹєть · аще правѫ мѣрѫ съхранить · складьно съставлена тѣлеса творить · Аще же силы при смѣшеніи сѣмене борѭть сѧ · и въ смѣшеньнѣмь тѣлѣ не съєдинѧть сѧ · лютѣ мѫчити бѫдѫть родъ · отъ двоего сѣмене рожденъ ·",
+    "originalText": "femina virque simul Veneris cum germina miscent, venis informans diverso ex sanguine virtus temperiem servans bene condita corpora fingit. nam si virtutes permixto semine pugnent nec faciant unam permixto in corpore, dirae nascentem gemino vexabunt semine sexum.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 18"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Tako su po mnenju ove stvari nastale i sada jesu; potom će, pošto odrastu, skončati. Ljudi su svakoj dali posebno ime.",
+    "stsl": "Тако по мьнѣнію сиꙗ родишѧ сѧ и нꙑнѣ сѫть · потомъ же възрастъша сконьчаѭть сѧ · Чловѣци же вьсакомѹ особо имѧ положиша ·",
+    "originalText": "οὕτω τοι κατὰ δόξαν ἔφυ τάδε καί νυν ἔασι καὶ μετέπειτ᾽ ἀπὸ τοῦδε τελευτήσουσι τραφέντα· τοῖς δ᾽ ὄνομ᾽ ἄνθρωποι κατέθεντ᾽ ἐπίσημον ἑκάστῳ.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "28 B 19"
       }
     ]
   }

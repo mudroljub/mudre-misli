@@ -3,7 +3,7 @@
     "type": "bio",
     "year": -610,
     "sr": "Anaksimander, sin Praksijadov, Milećanin.",
-    "stsl": "Анаксимандръ · сꙑнъ Праксіадовъ · Милетꙗнинъ ·",
+    "stsl": "Анаѯімандръ Праксіадовъ Милетꙗнинъ ·",
     "originalText": "Ἀναξίμανδρος Πραξιάδου Μιλήσιος.",
     "author": "Anaximander",
     "sources": [
@@ -15,9 +15,23 @@
   },
   {
     "type": "bio",
+    "year": -610,
+    "sr": "Hipolit kaže da je Anaksimander rođen treće godine četrdeset druge olimpijade.",
+    "stsl": "Ипполитъ глаголеть · Анаѯімандръ роди сѧ въ третьѥ лѣто четꙑрьдесѧть вторꙑѩ олимпіадꙑ ·",
+    "originalText": "γεγένηται δὲ οὗτος ἔτει τρίτῳ τῆς τεσσαρακοστῆς δευτέρας Ὀλυμπιάδος.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 11"
+      }
+    ]
+  },
+  {
+    "type": "bio",
     "year": -590,
     "sr": "Anaksimander je bio Talesov učenik.",
-    "stsl": "Анаксимандръ Фалесовъ ѹченикъ бѣ ·",
+    "stsl": "Ѳалесовъ ѹченикъ Анаѯімандръ ·",
     "originalText": "Θαλοῦ μὲν γὰρ Ἀναξίμανδρος.",
     "author": "Anaximander",
     "sources": [
@@ -28,75 +42,52 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Govorio je da je beskrajno počelo i prvina, ne određujući ga kao vazduh, vodu ili bilo šta drugo.",
-    "stsl": "Глаголааше ꙗко безмѣрьноє начѧло и първина єсть · не опрѣдѣлѧ єго ни въздѹхомъ ни водоѭ ни инѣмъ чимь ·",
-    "originalText": "οὗτος ἔφασκεν ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον, οὐ διορίζων ἀέρα ἢ ὕδωρ ἢ ἄλλο τι.",
+    "type": "bio",
+    "year": -590,
+    "sr": "Prema Sudi, Anaksimander je bio Talesov rođak, učenik i naslednik.",
+    "stsl": "По Сѹдѣ · Анаѯімандръ Ѳалесовъ сродьникъ · ѹченикъ и наслѣдьникъ ·",
+    "originalText": "Ἀναξίμανδρος Πραξιάδου Μιλήσιος φιλόσοφος, συγγενὴς καὶ μαθητὴς καὶ διάδοχος Θαλοῦ.",
     "author": "Anaximander",
     "sources": [
       {
-        "name": "diogenes-laertius",
-        "reference": "II.1"
+        "name": "hermann-diels",
+        "reference": "12 A 2"
       }
     ]
   },
   {
-    "type": "reported",
-    "sr": "Govorio je da se delovi menjaju, a celina ostaje nepromenjena.",
-    "stsl": "Глаголааше ꙗко чѧсти прѣмѣнѧѭть сѧ · вьсѧ же непрѣмѣнно прѣбꙑваєть ·",
-    "originalText": "καὶ τὰ μὲν μέρη μεταβάλλειν, τὸ δὲ πᾶν ἀμετάβλητον εἶναι.",
+    "type": "bio",
+    "year": -585,
+    "sr": "Anaksimander je predvodio Milećane koji su osnovali naseobinu u Apoloniji.",
+    "stsl": "Анаѯімандръ Милетꙗнъ поведе · и селеніє въ Аполлоніи основа ·",
+    "originalText": "καὶ Ἀναξίμανδρος δὲ ἡγήσατο τῆς εἰς Ἀπολλωνίαν ἐκ Μιλήτου ἀποικίας.",
     "author": "Anaximander",
     "sources": [
       {
-        "name": "diogenes-laertius",
-        "reference": "II.1"
+        "name": "hermann-diels",
+        "reference": "12 A 3"
       }
     ]
   },
   {
-    "type": "reported",
-    "sr": "Govorio je da Zemlja leži u sredini, zauzimajući središnje mesto, i da je okrugla.",
-    "stsl": "Глаголааше ꙗко землꙗ посредѣ лежить · срѣдищьно мѣсто имѫщи · и окрѫгла єсть ·",
-    "originalText": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
+    "type": "bio",
+    "year": -580,
+    "sr": "Prvi je nacrtao kartu nastanjenog sveta.",
+    "stsl": "Пръвъ образъ вселѥнꙑѩ землѧ начрьта ·",
+    "originalText": "Ἀναξίμανδρος ... πρῶτος ἐτόλμησε τὴν οἰκουμένην ἐν πίνακι γράψαι.",
     "author": "Anaximander",
     "sources": [
       {
-        "name": "diogenes-laertius",
-        "reference": "II.1"
-      }
-    ]
-  },
-  {
-    "type": "reported",
-    "sr": "Govorio je da Mesec svetli tuđom svetlošću, jer ga osvetljava Sunce.",
-    "stsl": "Глаголааше ꙗко мѣсѧць не своимъ свѣтомъ свѣтить · отъ слъньца бо просвѣщаєть сѧ ·",
-    "originalText": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
-    "author": "Anaximander",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.1"
-      }
-    ]
-  },
-  {
-    "type": "reported",
-    "sr": "Govorio je da Sunce nije manje od Zemlje i da je najčistija vatra.",
-    "stsl": "Глаголааше ꙗко слъньце не мьньше землѧ єсть · и огнь прѣчистъ єсть ·",
-    "originalText": "ἀλλὰ καὶ τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
-    "author": "Anaximander",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.1"
+        "name": "hermann-diels",
+        "reference": "12 A 6"
       }
     ]
   },
   {
     "type": "bio",
     "year": -578,
-    "sr": "Prvi je nacrtao obris zemlje i mora, a načinio je i nebesku kuglu.",
-    "stsl": "Землѧ и морѧ обимѣръ пръвъ начрьта · и небесьнѫ лопътѫ сътвори ·",
+    "sr": "Prvi je nacrtao obris zemlje i mora, a načinio je i nebesku sferu.",
+    "stsl": "И землѧ и морѧ обимѣръ пръвъ начрьта · лопътѫ же небесьнѫ сътвори ·",
     "originalText": "Καὶ γῆς καὶ θαλάσσης περίμετρον πρῶτος ἔγραψεν, ἀλλὰ καὶ σφαῖραν κατεσκεύασε.",
     "author": "Anaximander",
     "sources": [
@@ -109,8 +100,8 @@
   {
     "type": "bio",
     "year": -575,
-    "sr": "Prvi je načinio gnomon i postavio ga na spravu za merenje senke u Lakedemonu, kako kaže Favorin u Različnoj povesti, da označava solsticije i ravnodnevice; načinio je i časovnike.",
-    "stsl": "Пръвъ съльньцекаꙁатель сътвори · и на сѣномѣрѣ въ Лакедемонѣ постави · ꙗкоже глаголеть Фаворинъ въ Раꙁличьнѣи повѣсти · да повратꙑ и равноденьѩ ꙁнакоуєть · и часомѣрꙑ сътвори ·",
+    "sr": "Prvi je načinio gnomon i postavio ga na spravu za merenje senke u Lakedemonu, kako kaže Favorin u Različnoj povesti, da pokazuje solsticije i ravnodnevice; načinio je i časovnike.",
+    "stsl": "Пръвъ съльньцекаꙁатель сътвори · и на сѣноловищи въ Лакедемонѣ постави · ꙗкоже Фаворинъ въ Различьнѣи повѣсти глаголеть · да повратꙑ и равноденьѥ ꙁнаменаєть · и часомѣрꙑ сътвори ·",
     "originalText": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τρόπός τε καὶ ἰσημερίας σημαίνοντα, καὶ ὡροσκοπεῖα κατεσκεύασε.",
     "author": "Anaximander",
     "sources": [
@@ -121,23 +112,10 @@
     ]
   },
   {
-    "type": "works",
-    "sr": "Sastavio je sažeto izlaganje svojih učenja, koje je dospelo i do Apolodora Atinjanina.",
-    "stsl": "Кратъко изъложеніє своихъ ѹчєнии сътвори · єже и Аполодоръ Аѳінꙗнинъ имѣ ·",
-    "originalText": "Τῶν δὲ ἀρεσκόντων αὐτῷ πεποίηται κεφαλαιώδη τὴν ἔκθεσιν, ᾗ που περιέτυχεν καὶ Ἀπολλόδωρος ὁ Ἀθηναῖος.",
-    "author": "Anaximander",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.2"
-      }
-    ]
-  },
-  {
     "type": "bio",
     "year": -547,
     "sr": "Apolodor u Letopisima kaže da je u drugoj godini pedeset osme olimpijade imao šezdeset četiri godine.",
-    "stsl": "Аполодоръ въ Лѣтописьцихъ глаголеть · ꙗко во второмъ лѣтѣ пѧтьдесѧтыѩ и осмыѩ олимпіадꙑ шестьдесѧть чєтꙑри лѣта имѣаше ·",
+    "stsl": "Въ Лѣтописьцихъ глаголєть сѧ · въ второмъ лѣтѣ пѧтьдесѧтъ осмыѩ олимпіадꙑ шестьдесѧть и чєтꙑри лѣта имѣаше · и вскорѣ потомъ прѣстави сѧ · паче же процвѣте при Поликратѣ · тѹраннѣ Самьсцѣмь ·",
     "originalText": "ὃς καί φησιν αὐτὸν ἐν τοῖς Χρονικοῖς τῷ δευτέρῳ ἔτει τῆς πεντηκοστῆς ὀγδόης Ὀλυμπιάδος ἐτῶν εἶναι ἑξήκοντα τεττάρων.",
     "author": "Anaximander",
     "sources": [
@@ -151,13 +129,437 @@
     "type": "bio",
     "year": -546,
     "sr": "Ubrzo potom je umro. Diogen dodaje da je bio na vrhuncu približno u vreme Polikrata, tiranina Samosa.",
-    "stsl": "Въскорѣ потомъ ѹмрѣ · Діогенъ же прилагаєть ꙗко около врѣмени Поликрата · тѹрана Самосьскаго · процвѣтѣ ·",
+    "stsl": "Писа о естествѣ ·",
     "originalText": "καὶ μετ' ὀλίγον τελευτῆσαι, ἀκμάσαντά πη μάλιστα κατὰ Πολυκράτην τὸν Σάμου τύραννον.",
     "author": "Anaximander",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "II.2"
+      }
+    ]
+  },
+  {
+    "type": "works",
+    "sr": "Sastavio je sažeto izlaganje svojih učenja, koje je dospelo i do Apolodora Atinjanina.",
+    "stsl": "Ѳемистіи глаголеть · Анаѯімандръ пръвъ отъ вѣдомꙑхъ Єллинъ писаніє о естествѣ издати дръзнѫ ·",
+    "originalText": "Τῶν δὲ ἀρεσκόντων αὐτῷ πεποίηται κεφαλαιώδη τὴν ἔκθεσιν, ᾗ που περιέτυχεν καὶ Ἀπολλόδωρος ὁ Ἀθηναῖος.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.2"
+      }
+    ]
+  },
+  {
+    "type": "works",
+    "sr": "Temistije kaže da je Anaksimander prvi među poznatim Helenima koji se usudio da objavi spis o prirodi.",
+    "stsl": "Начѧло и първина безмѣрьноє ·",
+    "originalText": "Ἀναξίμανδρος ... πρῶτος ὧν ἴσμεν Ἑλλήνων λόγον ἐξενεγκεῖν περὶ φύσεως συγγεγραμμένον ἐτόλμησεν.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 7"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je beskrajno počelo i prvina, ne određujući ga kao vazduh, vodu ili bilo šta drugo.",
+    "stsl": "Чѧсти прѣмѣнѧѭть сѧ · вьсе же непрѣмѣнно ·",
+    "originalText": "οὗτος ἔφασκεν ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον, οὐ διορίζων ἀέρα ἢ ὕδωρ ἢ ἄλλο τι.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da se delovi menjaju, a celina ostaje nepromenjena.",
+    "stsl": "Землꙗ посредѣ лежить · срѣдищьно мѣсто имѫщи · и окрѫгла єсть ·",
+    "originalText": "καὶ τὰ μὲν μέρη μεταβάλλειν, τὸ δὲ πᾶν ἀμετάβλητον εἶναι.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da Zemlja leži u sredini, zauzimajući središnje mesto, i da je okrugla.",
+    "stsl": "Мѣсѧць лъжесвѣтенъ · отъ съльньца бо просвѣщаєть сѧ ·",
+    "originalText": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da Mesec svetli tuđom svetlošću, jer ga osvetljava Sunce.",
+    "stsl": "Съльньце не меньше землѧ · прѣчистъ же огнь ·",
+    "originalText": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da Sunce nije manje od Zemlje i da je najčistija vatra.",
+    "stsl": "Начѧло сѫщиихъ безмѣрьно естество · отъ него же вьсѧ небеса и міри въ нихъ раждаѭть сѧ ·",
+    "originalText": "ἀλλὰ καὶ τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je počelo bića beskrajna priroda, iz koje nastaju sva nebesa i svetovi u njima.",
+    "stsl": "Вещи не прѣмѣненіємъ първинꙑ раждаѭть сѧ · нъ разлѫченіємъ противъ отъ вѣчьнаго движеніꙗ ·",
+    "originalText": "ἀρχὴν καὶ στοιχεῖον τῶν ὄντων τὸ ἄπειρον ... ἑτέραν τινὰ φύσιν ἄπειρον, ἐξ ἧς ἅπαντας γίνεσθαι τοὺς οὐρανοὺς καὶ τοὺς ἐν αὐτοῖς κόσμους.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 9"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da stvari ne nastaju promenom prvine, već izdvajanjem suprotnosti usled večnog kretanja.",
+    "stsl": "Противи сѫть тепло и студено · сѹхо и влажно · и ина ·",
+    "originalText": "οὐκ ἀλλοιουμένου τοῦ στοιχείου τὴν γένεσιν ποιεῖ, ἀλλ’ ἀποκρινομένων τῶν ἐναντίων διὰ τῆς ἀιδίου κινήσεως.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 9"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da su suprotnosti toplo i hladno, suvo i vlažno, i tome slično.",
+    "stsl": "Безмѣрьноє причинѫ рожденьѥ и тлѣніѥ вьсего въ себѣ имать · отъ него же безъ числа міри раждаѭть сѧ · и по обходѣхъ врѣмене пакꙑ въ нь възвраштѧѭть сѧ ·",
+    "originalText": "ἐναντιότητες δέ εἰσι θερμὸν ψυχρὸν ξηρὸν ὑγρὸν καὶ τὰ ἄλλα.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 9"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da beskrajno u sebi nosi uzrok nastanka i propadanja svega, te da iz njega nastaju bezbrojni svetovi koji mu se, u određenim vremenskim razdobljima, ponovo vraćaju.",
+    "stsl": "При рожденьи сего міра отъ вѣчьнаго разлѫчи сѧ раждаѭщеє тепло и студено · около же въздѹха обьемлѭшта землѭ огньна лопъта състави сѧ · ꙗко кора около дрѣва ·",
+    "originalText": "τὸ ἄπειρον φάναι τὴν πᾶσαν αἰτίαν ἔχειν τῆς τοῦ παντὸς γενέσεώς τε καὶ φθορᾶς ... τοὺς ἅπαντας ἀπείρους ὄντας κόσμους ... ἀνακυκλουμένων πάντων αὐτῶν.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 10"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da se pri nastanku ovog sveta iz večnog izdvojilo ono što rađa toplo i hladno, a da se oko vazduha koji obavija Zemlju obrazovala vatrena lopta, poput kore oko drveta.",
+    "stsl": "Съльньце · мѣсѧць и звѣздꙑ родишѧ сѧ · єгда огньна лопъта расторже сѧ · чѧсти же єѩ въ особыѩ крѫгꙑ затворишѧ сѧ ·",
+    "originalText": "τὸ ἐκ τοῦ ἀιδίου γόνιμον θερμοῦ τε καὶ ψυχροῦ κατὰ τὴν γένεσιν τοῦδε τοῦ κόσμου ἀποκριθῆναι καί τινα ἐκ τούτου φλογὸς σφαῖραν περιφυῆναι τῷ περὶ τὴν γῆν ἀέρι ὡς τῷ δένδρῳ φλοιόν.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 10"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da su Sunce, Mesec i zvezde nastali kada se vatrena lopta rascepila, a njeni delovi zatvorili u zasebne krugove.",
+    "stsl": "Безмѣрьноє вѣчьно и нестарѣѭще · вьсѧ міри обьемлѥть · движеніє же вѣчьно ·",
+    "originalText": "ἧστινος ἀπορραγείσης καὶ εἴς τινας ἀποκλεισθείσης κύκλους ὑποστῆναι τὸν ἥλιον καὶ τὴν σελήνην καὶ τοὺς ἀστέρας.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 10"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je beskrajno večno i nestareće, da obuhvata sve svetove i da je kretanje večno.",
+    "stsl": "Землꙗ висить · ничимь дрьжима · на своемь же мѣстѣ прѣбꙑваєть · отъ вьсего бо равно отъстоить ·",
+    "originalText": "ταύτην δὲ ἀίδιον εἶναι καὶ ἀγήρω, ἣν καὶ πάντας περιέχειν τοὺς κόσμους ... πρὸς δὲ τούτῳ κίνησιν ἀίδιον εἶναι.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 11"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "12 B 2"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da Zemlja lebdi, ničim držana, i da ostaje na svom mestu zato što je jednako udaljena od svega.",
+    "stsl": "Землꙗ валѹ подобьна · высота же єѩ треть ширины ·",
+    "originalText": "τὴν δὲ γῆν εἶναι μετέωρον ὑπὸ μηδενὸς κρατουμένην, μένουσαν δὲ διὰ τὴν ὁμοίαν πάντων ἀπόστασιν.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 11"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je Zemlja nalik valjku i da joj je visina jednaka trećini širine.",
+    "stsl": "Землꙗ каменьномѹ столъпѹ подобьна · по єдинѣи же равнои странѣ єѩ ходимъ ·",
+    "originalText": "ὑπάρχειν δὲ τῷ μὲν σχήματι τὴν γῆν κυλινδροειδῆ, ἔχειν δὲ τοσοῦτον βάθος ὅσον ἂν εἴη τρίτον πρὸς τὸ πλάτος.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 10"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je Zemlja nalik kamenom stubu i da hodamo po jednoj njenoj ravnoj strani.",
+    "stsl": "Землꙗ посредѣ прѣбꙑваєть · отъ вьсѣхъ бо коньць равно отъстоить · ни горѣ ѹбо ни долѣ ни на странѫ движити сѧ причины имать ·",
+    "originalText": "Ἀναξίμανδρος λίθῳ κίονι τὴν γῆν προσφερῆ.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 25"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da Zemlja ostaje u sredini jer je jednako udaljena od svih krajnosti, pa nema razloga da se kreće pre nagore nego nadole ili u bilo koju stranu.",
+    "stsl": "Звѣздꙑ огньни крѫзи · отъ огнѧ міра разлѫчени и въздѹхомъ обьѧти · отворꙑ же имѫть · имиже огнь видимъ єсть ·",
+    "originalText": "διὰ τὴν ὁμοιότητα ... τὸ ἐπὶ τοῦ μέσου ἱδρυμένον καὶ ὁμοίως πρὸς τὰ ἔσχατα ἔχον.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 26"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da su zvezde vatreni krugovi, odvojeni od svetske vatre i obavijeni vazduhom, sa otvorima kroz koje se vatra vidi.",
+    "stsl": "Помрачениꙗ бꙑваѭть · єгда отворꙑ · имиже огнь исходить · затворѧть сѧ ·",
+    "originalText": "τὰ δὲ ἄστρα γίνεσθαι κύκλον πυρός, ἀποκριθέντα τοῦ κατὰ τὸν κόσμον πυρός, περιληφθέντα δὲ ὑπὸ ἀέρος· ἐκπνοὰς δ’ ὑπάρξαι πόρους τινὰς αὐλώδεις, καθ’ οὓς φαίνεται τὰ ἄστρα.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 11"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da do pomračenja dolazi kada se zatvore otvori kroz koje izbija vatra.",
+    "stsl": "Крѫгъ съльньца седмь и два десѧти кратъ болии землѧ · мѣсѧчьнъ же осмь на десѧте кратъ · съльньце вꙑше вьсѣхъ · крѫзи же недвижимꙑхъ звѣздъ ниже вьсѣхъ ·",
+    "originalText": "τὰς δὲ ἐκλείψεις γίνεσθαι τῶν ἐκπνοῶν ἀποκλειομένων.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 11"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je Sunčev krug dvadeset sedam puta veći od Zemlje, a Mesečev osamnaest puta; Sunce je najviše, dok su krugovi nepokretnih zvezda najniže.",
+    "stsl": "Съльньце крѫгъ · осмь и два десѧти кратъ болии землѧ · колесѹ подобьнъ · полъ ободъ огнѧ пълнъ имать · сквозѣ єдинъ же отворъ огнь видимъ єсть ·",
+    "originalText": "τὸν δὲ τοῦ ἡλίου κύκλον ἑπτακαιεικοσαπλασίονα <τῆς γῆς, τὸν δὲ> τῆς σελήνης <ὀκτωκαιδεκαπλασίονα>· ἀνωτάτω μὲν εἶναι τὸν ἥλιον, κατωτάτω δὲ τοὺς τῶν ἀπλανῶν ἀστέρων κύκλους.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 11"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je Sunce krug dvadeset osam puta veći od Zemlje, nalik kolskom točku sa šupljim obodom ispunjenim vatrom, koja se vidi kroz jedan otvor.",
+    "stsl": "Мѣсѧць крѫгъ · девѧть на десѧте кратъ болии землѧ · колесѹ подобьнъ · полъ ободъ огнѧ пълнъ имать · помрачениє же повраштениємъ колеса бꙑваєть ·",
+    "originalText": "Ἀναξίμανδρος κύκλον εἶναι ὀκτωκαιεικοσαπλασίονα τῆς γῆς, ὅμοιον ἁρματείῳ τροχῷ κοίλην ἔχοντι τὴν ἁψῖδα καὶ πυρὸς πλήρη, κατά τι μέρος ἐκφαίνουσαν διὰ στομίου τὸ πῦρ.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 21"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je Mesec krug devetnaest puta veći od Zemlje, nalik kolskom točku sa šupljim obodom ispunjenim vatrom, a da do pomračenja dolazi okretanjem tog točka.",
+    "stsl": "Громъ · мълниꙗ и блистаніє отъ вѣтра бꙑваѭть · єгда бо вѣтръ гѫстъ облакъ силоѭ расторгнеть · расторгненіє гласъ творить · разлѫченіє же тъмнаго облака свѣтъ ·",
+    "originalText": "Ἀναξίμανδρος κύκλον εἶναι ἐννεακαιδεκαπλασίονα τῆς γῆς, ὅμοιον ἁρματείῳ τροχῷ κοίλην ἔχοντι τὴν ἁψῖδα καὶ πυρὸς πλήρη ... ἐκλείπειν δὲ κατὰ τὰς τροπὰς τοῦ τροχοῦ.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 22"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da grom, munja i sevanje nastaju dejstvom vetra: kada se vetar silom probije iz gustog oblaka, njegovo pucanje stvara zvuk, a razdvajanje tamnog oblaka svetlost.",
+    "stsl": "Вѣтри бꙑваѭть · єгда тънчаиша испареніꙗ въздѹха разлѫчѧть сѧ · съберѫть сѧ и подвигнѫть сѧ · дъждь же отъ испареніи · ꙗже съльньце отъ землѧ възводить ·",
+    "originalText": "Ἀναξίμανδρος ἐκ τοῦ πνεύματος ταῦτ’ εἶπε συμβαίνειν· ὅταν γὰρ περιληφθὲν νέφει παχεῖ βιασάμενον ἐκπέσῃ ... ἡ μὲν ῥῆξις τὸν ψόφον, ἡ δὲ διαστολὴ ... τὸν διαυγασμὸν ἀποτελεῖ.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 23"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da vetrovi nastaju kada se najfinija isparenja vazduha izdvoje, sakupe i pokrenu, a kiša od isparenja koja Sunce podiže sa Zemlje.",
+    "stsl": "Въ начѧлѣ вьсе около землѧ влажно бѣ · съльньце же влагѫ исѹшааше · отъ испаренаго вѣтри бꙑшѧ · оставъшеє же море бꙑсть · море ѹбо мало по малѹ оскѫдѣваєть · наконецъ же вьсе исъсъхнеть ·",
+    "originalText": "ἀνέμους δὲ γίνεσθαι τῶν λεπτοτάτων ἀτμῶν τοῦ ἀέρος ἀποκρινομένων καὶ ὅταν ἀθροισθῶσι κινουμένων· ὑετοὺς δὲ ἐκ τῆς ὑπὸ τὸν ἥλιον γῆς ἀναδιδομένης ἀτμίδος.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 11"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 24"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je u početku sve oko Zemlje bilo vlažno. Sunce je vlagu isušivalo: od onoga što je isparilo nastali su vetrovi, a ono što je preostalo postalo je more. More se zato postepeno smanjuje i na kraju će sasvim presušiti.",
+    "stsl": "Землѧ трѧсеть сѧ · єгда отъ великꙑѩ сѹши или по мънозѣхъ дъждѣхъ распѹкнеть сѧ · силенъ же въздѹхъ въ распадинꙑ вънидеть и землѭ потрѧсеть ·",
+    "originalText": "εἶναι γὰρ τὸ πρῶτον ὑγρὸν ἅπαντα τὸν περὶ τὴν γῆν τόπον, ὑπὸ δὲ τοῦ ἡλίου ξηραινόμενον τὸ μὲν διατμίσαι ... τὸ δὲ λειφθὲν θάλατταν εἶναι ... τέλος ἔσεσθαί ποτε πᾶσαν ξηράν.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 27"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da zemljotresi nastaju kada se Zemlja, usled velike suše ili posle obilnih kiša, raspukne, pa silovit vazduh prodre u pukotine i potrese je.",
+    "stsl": "Пръва животна въ влазѣ родишѧ сѧ · трьньнѫ корѫ имѫща · възрастаѭще же на сѹшеє исходѧахѫ · корѣ же распадъши сѧ · въскорѣ житіє прѣмѣнѧахѫ ·",
+    "originalText": "Anaximander ait arescentem nimia aestuum siccitate aut post madores imbrium terram rimas pandere grandiores, quas penetrat supernus aer violentus et nimius, ac per eas vehementi spiritu quassatam cieri propriis sedibus.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 28"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da su prve životinje nastale u vlazi, obavijene bodljikavom korom. Kako su rasle, izlazile su na suvlje mesto, a kada bi im kora pukla, ubrzo bi promenile način života.",
+    "stsl": "Чловѣци въ начѧлѣ въ рꙑбахъ родишѧ сѧ и въ нихъ възпитани бꙑшѧ · морьскꙑмъ псомъ подобьно · дондеже сами себе хранити възмогошѧ · тогда изъ нихъ изидошѧ и на сѹшѫ въстѫпишѧ ·",
+    "originalText": "Ἀναξίμανδρος ἐν ὑγρῷ γεννηθῆναι τὰ πρῶτα ζῷα <φλοιοῖς> περιεχόμενα ἀκανθώδεσι, προβαινούσης δὲ τῆς ἡλικίας ἀποβαίνειν ἐπὶ τὸ ξηρότερον καὶ περιρρηγνυμένου τοῦ <φλοιοῦ> ἐπ’ ὀλίγον χρόνον μεταβιῶναι.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 30"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da su ljudi prvobitno nastali u ribama i u njima bili odgajani, poput mladunaca morskih pasa, sve dok nisu postali sposobni da se sami održavaju; tada su izašli iz njih i stupili na kopno.",
+    "stsl": "Отъ нихъже сѫщаѧ раждаѭть сѧ · въ та же по нѫжди и тлѣѭть · правдѫ бо и мѣнѫ дрѹгъ дрѹгѹ за неправдѫ даѭть · по чинѹ врѣмене ·",
+    "originalText": "ἐν ἰχθύσιν ἐγγενέσθαι τὸ πρῶτον ἀνθρώπους ἀποφαίνεται καὶ τραφέντας, ὥσπερ οἱ γαλεοί, καὶ γενομένους ἱκανοὺς ἑαυτοῖς βοηθεῖν ἐκβῆναι τηνικαῦτα καὶ γῆς λαβέσθαι.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 A 30"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Iz čega bića nastaju, u to po nuždi i propadaju; jer jedna drugima daju pravdu i naknadu za nepravdu po poretku vremena.",
+    "stsl": "Безмѣрьноє вѣчьно и нестарѣѭще · вьсѧ міри обьемлѥть ·",
+    "originalText": "ἐξ ὧν δὲ ἡ γένεσίς ἐστι τοῖς οὖσι, καὶ τὴν φθορὰν εἰς ταῦτα γίνεσθαι κατὰ τὸ χρεών· διδόναι γὰρ αὐτὰ δίκην καὶ τίσιν ἀλλήλοις τῆς ἀδικίας κατὰ τὴν τοῦ χρόνου τάξιν.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 B 1"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Beskrajno je večno i nestareće i obuhvata sve svetove.",
+    "stsl": "Безмѣрьноє божьско · бесъмрьтно бо и нетлѣньно ·",
+    "originalText": "ἀίδιον εἶναι καὶ ἀγήρω, ἣν καὶ πάντας περιέχειν τοὺς κόσμους.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 B 2"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Beskrajno je božansko, jer je besmrtno i nepropadljivo.",
+    "stsl": "Пѣѭштѹ ємѹ отроци посмѣꙗхѫ сѧ · онъ же ѹвѣдѣвъ рече · Лѹче ѹбо намъ пѣти ради отрокъ ·",
+    "originalText": "καὶ τοῦτ’ εἶναι τὸ θεῖον· ἀθάνατον γὰρ καὶ ἀνώλεθρον, ὥς φησιν ὁ Ἀναξίμανδρος.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "12 B 3"
       }
     ]
   },
