@@ -143,24 +143,10 @@
   {
     "type": "bio",
     "year": -541.7,
-    "sr": "Aristoksen kaže da je Ferekid umro od bolesti, a da ga je Pitagora sahranio na Delu.",
-    "stsl": "Аристоксенъ глаголеть · Ферекѵдъ отъ болѣзни ѹмрѣ · Пѵѳагора же єго на Делѣ погребе ·",
-    "originalText": "Ἀριστόξενος δ' ἐν τῷ Περὶ Πυθαγόρου καὶ τῶν γνωρίμων αὐτοῦ φησι νοσήσαντα αὐτὸν ὑπὸ Πυθαγόρου ταφῆναι ἐν Δήλῳ.",
-    "author": "Pherecydes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.118"
-      }
-    ]
-  },
-  {
-    "type": "anecdote",
-    "year": -541.6,
-    "sr": "Po drugom predanju, umirao je od vašljivosti. Kada je Pitagora došao i upitao ga kako mu je, Ferekid je kroz vrata pružio prst i rekao: Po koži se vidi.",
-    "stsl": "По иномѹ прѣданиѭ · отъ въшьнꙑѩ болѣзни ѹмирааше · Пѵѳагорѣ же пришедъшѹ и въпросивъшѹ како ємѹ єсть · Ферекѵдъ сквозѣ двери пръстъ простре и рече · По кожи ꙗвѣ ·",
-    "originalText": "Οἱ δὲ φθειριάσαντα τὸν βίον τελευτῆσαι· ὅτε καὶ Πυθαγόρου παραγενομένου καὶ πυνθανομένου πῶς διακέοιτο, διαβαλόντα τῆς θύρας τὸν δάκτυλον εἰπεῖν, «Χροῒ δῆλα.»",
-    "author": "Pherecydes",
+    "sr": "Aristoksen kaže da je Ferekid umro od bolesti, a da ga je Pitagora sahranio na Delu. Po drugom predanju, umro je od vašljivosti; kada je Pitagora došao i upitao ga kako mu je, Ferekid je kroz vrata pružio prst i rekao: Po koži se vidi.",
+    "stsl": "Аристоксенъ глаголеть · Ферекѵдъ отъ болѣзни ѹмрѣ · Пѵѳагора же єго на Делѣ погребе · По иномѹ прѣданиѭ · отъ въшьнꙑѩ болѣзни ѹмрѣ · Пѵѳагорѣ же пришедъшѹ и въпросивъшѹ како ємѹ єсть · Ферекѵдъ сквозѣ двери пръстъ простре и рече · По кожи ꙗвѣ ·",
+    "originalText": "Ἀριστόξενος δ' ἐν τῷ Περὶ Πυθαγόρου καὶ τῶν γνωρίμων αὐτοῦ φησι νοσήσαντα αὐτὸν ὑπὸ Πυθαγόρου ταφῆναι ἐν Δήλῳ. Οἱ δὲ φθειριάσαντα τὸν βίον τελευτῆσαι· ὅτε καὶ Πυθαγόρου παραγενομένου καὶ πυνθανομένου πῶς διακέοιτο, διαβαλόντα τῆς θύρας τὸν δάκτυλον εἰπεῖν, «Χροῒ δῆλα.»",
+    "author": ["Pherecydes", "Pythagoras"],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -169,20 +155,6 @@
       {
         "name": "walter-burley",
         "reference": "Cap. XIII"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -541.5,
-    "sr": "Izraz „Po koži se vidi“ gramatičari su kasnije upotrebljavali za stanje koje se pogoršava; oni koji su ga razumeli kao „sve je dobro“ grešili su.",
-    "stsl": "Рѣчь По кожи ꙗвѣ книжници потомъ о горьшемь състояніи ѹпотрѣблѧахѫ · иже же ѭ ꙗко вьсѧ добра сѫть разѹмѣвахѫ · погрѣшаахѫ ·",
-    "originalText": "καὶ τοὐντεῦθεν παρὰ τοῖς φιλολόγοις ἡ λέξις ἐπὶ τῶν χειρόνων τάττεται, οἱ δ' ἐπὶ τῶν βελτίστων χρώμενοι διαμαρτάνουσιν.",
-    "author": "Pherecydes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.118"
       }
     ]
   },
@@ -242,11 +214,11 @@
   },
   {
     "type": "bio",
-    "year": -539.8,
-    "sr": "Duris u drugoj knjizi Časova navodi ovaj natpis na Ferekidovom grobu: U meni je kraj sve mudrosti; ako ima nečega više, reci mome Pitagori da je među svim Helenima prvi. Govoreći ovo, ne lažem.",
-    "stsl": "Дѹрисъ въ вторѣи книзѣ Часъ приносить писмѧ на Ферекѵдовѣ гробѣ · Во мнѣ коньць всеѩ мѫдрости · Аще ли что вѧште єсть · моємѹ Пѵѳагорѣ рьци · ꙗко межи вьсѣми Єллинꙑ пръвъ єсть · Се глаголѧ не лъжѫ ·",
+    "year": -538,
+    "sr": "Duris navodi ovaj natpis na Ferekidovom grobu: U meni je kraj sve mudrosti; ako ima nečega više, reci mome Pitagori da je među svim Helenima prvi. Govoreći ovo, ne lažem.",
+    "stsl": "Дѹрисъ приносить писмѧ на Ферекѵдовѣ гробѣ · Во мнѣ коньць всеѩ мѫдрости · Аще ли что вѧште єсть · моємѹ Пѵѳагорѣ рьци · ꙗко межи вьсѣми Єллинꙑ пръвъ єсть · Се глаголѧ не лъжѫ ·",
     "originalText": "Φησὶ δὲ Δοῦρις ἐν τῷ δευτέρῳ τῶν Ὡρῶν ἐπιγεγράφθαι αὐτῷ τὸ ἐπίγραμμα τόδε· Τῆς σοφίης πάσης ἐν ἐμοὶ τέλος· ἢν δέ τι πλεῖον Πυθαγόρῃ τὠμῷ λέγε ταῦθ' ὅτι πρῶτος ἁπάντων ἔστιν ἀν' Ἑλλάδα γῆν· οὐ ψεύδομαι ὧδ' ἀγορεύων.",
-    "author": "Pherecydes",
+    "author": ["Pherecydes", "Pythagoras"],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -265,20 +237,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "I.120"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "year": -539.6,
-    "sr": "Diogen je o njemu sastavio i epigram: Slavni Ferekid, koga rodi Siros, kako se priča, od vaški je izgubio nekadašnji izgled. Naredio je da ga odnesu na zemlju Magnežana da bi podario pobedu plemenitim građanima Efesa. Jer postojaše proročanstvo koje je jedini znao i koje mu je to nalagalo; i onde među njima umre. Pokazuje se, dakle, da je istina: ko je zaista mudar, koristi i dok je živ i kada ga više nema.",
-    "stsl": "Діогенъ же и писмѧ о немь сътвори · Славьнꙑи Ферекѵдъ · єгоже Сѵръ роди · ꙗкоже повѣдаѭть · въшьми прѣждьніи образъ погѹби · Повелѣ же въ землѭ Магнесіискѫ отънести сѧ · да побѣдѫ благородьнꙑмъ гражданомъ Ефеса дасть · Бѣ бо пророчество · єже єдинъ вѣдѣаше · се повелѣваѭште · и тѹ при нихъ ѹмрѣ · Истина ѹбо ꙗвлѧєть сѧ · аще кто въ истинѫ мѫдръ єсть · и живъ полъзѫ творить · и єгда ѹже нѣсть ·",
-    "originalText": "Ἔστι καὶ ἡμῶν οὕτως ἔχον τῷ μέτρῳ τῷ Φερεκρατείῳ· Τὸν κλεινὸν Φερεκύδην ὃν τίκτει ποτὲ Σύρος ἐς φθεῖρας λόγος ἐστὶν ἀλλάξαι τὸ πρὶν εἶδος, θεῖναί τ' εὐθὺ κελεύειν Μαγνήτων, ἵνα νίκην δοίη τοῖς Ἐφέσοιο γενναίοις πολιήταις. Ἦν γὰρ χρησμός, ὃν ᾔδει μοῦνος, τοῦτο κελεύων· καὶ θνήσκει παρ' ἐκείνοις. Ἦν οὖν τοῦτ' ἄρ' ἀληθές· ἢν ᾖ τις σοφὸς ὄντως, καὶ ζῶν ἐστιν ὄνησις, χὤταν μηκέθ' ὑπάρχῃ.",
-    "author": "Pherecydes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.120-121"
       }
     ]
   },
