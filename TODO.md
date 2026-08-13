@@ -155,6 +155,8 @@ zasebno isklesati staroslovenski i srpski prevod prema
   korpusa. Trenutni presek je 1.523/1.581 pointera i 1.211 proverenih anchora.
 - [ ] Doraditi `data/sources/source-map.json` samo kroz
   `npm run build:sources`; ne menjati generisani fajl ručno.
+- [ ] Pherecydes na wikipediji je Pherecydes of Syros, preimenovati
+- [ ] preimenovati Hipparchia u Hipparchia of Maroneia
 
 ## 7. UI i prikaz sadržaja
 
