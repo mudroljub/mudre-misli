@@ -47,5 +47,33 @@
     "originalTitle": "Δισσοὶ λόγοι",
     "stsl": "Двои словеси",
     "sr": "Dvostruki govori"
+  },
+  "plato-parmenides": {
+    "author": "Plato",
+    "language": "grc",
+    "originalTitle": "Παρμενίδης",
+    "stsl": "Парменидъ",
+    "sr": "Parmenid"
+  },
+  "plutarch-against-colotes": {
+    "author": "Plutarch",
+    "language": "grc",
+    "originalTitle": "Πρὸς Κωλώτην",
+    "stsl": "Противъ Колота",
+    "sr": "Protiv Kolota"
+  },
+  "strabo-geography": {
+    "author": "Strabo",
+    "language": "grc",
+    "originalTitle": "Γεωγραφικά",
+    "stsl": "Землѥписаніє",
+    "sr": "Geografija"
+  },
+  "velia-inscription": {
+    "author": "Anonymous",
+    "language": "grc",
+    "originalTitle": "ΠΑΡΜΕΝΕΙΔΗΣ ΠΥΡΗΤΟΣ ΟΥΛΙΑΔΗΣ ΦΥΣΙΚΟΣ",
+    "stsl": "Надъпись Парменіда въ Елеи",
+    "sr": "Parmenidov natpis iz Eleje"
   }
 }
