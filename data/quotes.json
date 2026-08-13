@@ -9283,8 +9283,8 @@
     "_id": 1665,
     "type": "bio",
     "year": -490,
-    "sr": "Rođen u Eleji.",
-    "stsl": "Rождєнъ въ Єлєи.",
+    "sr": "Zenon Elejac.",
+    "stsl": "Зенонъ Елеатъ ·",
     "originalText": "Ἐλεάτης.",
     "author": "Zeno of Elea",
     "sources": [
@@ -9696,10 +9696,10 @@
     "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
   },
   {
-    "_id": 1675,
+    "_id": 1687,
     "type": "bio",
-    "sr": "Zenon Elejski bio učenik Parmenida, usvojeni sin i prisni miljenik.",
-    "stsl": "Зенонъ Елеатъ ѹченикъ Парменида · приєтыи сынъ и възлюбленыи єго бысть ·",
+    "sr": "Zenon Elejac bio je Parmenidov učenik, usvojeni sin i prisni miljenik.",
+    "stsl": "Зенонъ Елеатъ · Парменида ѹченикъ · приѩтыи сꙑнъ и възлюбленыи єго бѣ ·",
     "author": [
       "Zeno of Elea",
       "Parmenides"
@@ -10586,10 +10586,10 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:435#πρῶτος"
   },
   {
-    "_id": 1679,
-    "type": "anecdote",
-    "sr": "Zenon je skromnu Eleju pretpostavio sjaju Atine: Atinjane je jedva posećivao i čitav život proveo u domovini.",
-    "stsl": "Зенонъ малѹю Елею паче славы Атиньскыѧ възлюби · Атинѧнъ єдва посѣщааше и вьсь животъ въ отъечьствѣ прѣбысть ·",
+    "_id": 1691,
+    "type": "bio",
+    "sr": "Zenon je skromnu Eleju pretpostavljao sjaju Atine; Atinu je retko posećivao, a čitav život proveo je u otadžbini.",
+    "stsl": "Зенонъ малѹѭ Елеѭ паче славы Аѳіньскꙑѩ възлюби · Аѳінꙑ рѣдъко посѣщааше · вьсь же животъ въ отьчьствіи прѣбꙑсть ·",
     "author": "Zeno of Elea",
     "year": -460,
     "originalText": "Τὴν πατρίδα, πόλιν εὐτελῆ καὶ μόνον ἄνδρας ἀγαθοὺς τρέφειν ἐπισταμένην ἠγάπησε μᾶλλον τῆς Ἀθηναίων μεγαλαυχίας, οὐκ ἐπιδημήσας πώμαλα πρὸς αὐτούς.",
@@ -12825,10 +12825,10 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:156#Πολλάκις δὲ βιαιότερον ἐν ταῖς"
   },
   {
-    "_id": 1680,
+    "_id": 1692,
     "type": "anecdote",
-    "sr": "Kada su ga vređali, Zenon se razgnevio. Pošto ga je neko zbog toga ukorio, odgovorio je: ‘Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.’",
-    "stsl": "Єгда хѹлѧахѹ єго · Зенонъ разгнѣва сѧ · Єгда же нѣкыи сего ради ѹкори єго · Отъвѣща · Аще · хѹлимъ бывъ · творѭ сѧ не чѹти · тогда ни хвалимъ бывъ ощѹштѹ ·",
+    "sr": "Kada su ga vređali, Zenon se razgnevio. Pošto ga je neko zbog toga ukorio, odgovorio je: Ako se, kada me vređaju, pretvaram da to ne primećujem, onda neću biti svestan ni kada me hvale.",
+    "stsl": "Єгда хѹлѧахѹ єго · Зенонъ разгнѣва сѧ · Нѣкомѹ же сего ради ѹкоривъшѹ и · рече · Аще хѹлимъ творѭ сѧ не чѹти · ни хвалимъ ощѹштѹ ·",
     "author": "Zeno of Elea",
     "year": -440,
     "originalText": "Λοιδορούμενον ἀγανακτῆσαι· αἰτιασαμένου δέ τινος, φάναι· \"ἐὰν μὴ λοιδορούμενος προσποιῶμαι, οὐδ' ἐπαινούμενος αἰσθήσομαι.\"",
@@ -13175,10 +13175,10 @@
     "pointer": "data/sources/diogenes-laertius/el/03.txt:313#Ξενοφ"
   },
   {
-    "_id": 1681,
+    "_id": 1693,
     "type": "anecdote",
     "sr": "Zenon je skovao zaveru da obori tiranina Nearha, ili prema drugima Diomedonta, ali je uhvaćen. Ispitivan o saučesnicima i oružju koje je nosio na Liparu, naveo je sve tiraninove prijatelje kako bi ga ostavio bez pristalica. Zatim se pretvarao da želi da mu poveri tajnu, uhvatio ga zubima za uho i nije ga pustio dok nije ubijen; prema drugoj verziji, odgrizao mu je nos.",
-    "stsl": "Зенонъ ѹмысли низложити мѫчителꙗ Неарха · по инѣхъ же Диомедонта · нъ ѧтъ бысть · Испытованъ о съѹмысльницѣхъ и оружии · єже въ Липарѹ ношаше · вьсѣхъ дрѹговъ мѫчителевыхъ имѧнова · да єго безъ помоштьникъ оставитъ · Таже ꙗко таинѹ ємѹ повѣдати хотъѧ · ѹхо єго зѹбы ꙗтъ и не пѹсти · дондеже ѹбиєнъ бысть · по иномѹ же сказанию носъ ємѹ отъгрꙑзе ·",
+    "stsl": "Зенонъ ѹмысли мѫчителꙗ Неарха низложити · по инѣхъ же Диомедонта · нъ ѧтъ бысть · Испытованъ о съѹмысльницѣхъ и оружии · єже въ Липарѹ ношаше · вьсѣхъ дрѹговъ мѫчителевыхъ имѧнова · да безъ помоштьникъ оставитъ и · Таже ꙗко таинѹ повѣдати хотѧ · ѹхо єго зѹбы ꙗтъ и не пѹсти · дондеже ѹбиєнъ бысть · по иномѹ же сказаніѭ · носъ ємѹ отъгрꙑзе ·",
     "author": "Zeno of Elea",
     "year": -430,
     "originalText": "Καθελεῖν δὲ θελήσας Νέαρχον τὸν τύραννον ἤ, οἱ δὲ Διομέδοντα, συνελήφθη. ὅτε καὶ ἐξεταζόμενος τοὺς συνειδότας καὶ περὶ τῶν ὅπλων ὧν ἦγεν εἰς Λιπάραν, πάντας ἐμήνυσεν αὐτοῦ τοὺς φίλους, βουλόμενος αὐτὸν ἔρημον καταστῆσαι· εἶτα περί τινων εἰπεῖν ἔχειν τινα ἔφη αὐτῷ πρὸς τὸ οὖς καὶ δακὼν οὐκ ἀνῆκεν ἕως ἀπεκεντήθη· ἢ τὸν μυκτῆρα αὐτὸν ἀποτραγεῖν.",
@@ -13191,10 +13191,10 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:183"
   },
   {
-    "_id": 1682,
+    "_id": 1694,
     "type": "anecdote",
-    "sr": "Prema Antistenu, kada ga je tiranin upitao ima li još zaverenika, Zenon je odgovorio: ‘Da, ti — prokletstvo grada!’ Potom je okupljenima prekorio kukavičluk, odgrizao vlastiti jezik i ispljunuo ga na tiranina. Građani su se tada ohrabrili i kamenovali tiranina.",
-    "stsl": "По Антисфенѹ · єгда мѫчитель вопроси єго · аще инъ съѹмысльникъ єсть · Зенонъ отъвѣща · Ты · проклѧтиє града · Таже предъстоѧштимъ малодѹшиє ихъ обличи · свои ѩзыкъ отъгрꙑзе и на мѫчителꙗ изплева · Граждане же тогда възмогоша и мѫчителꙗ камениемъ побиша ·",
+    "sr": "Prema Antistenu, kada ga je tiranin upitao ima li još zaverenika, Zenon je odgovorio: Da, ti — prokletstvo grada! Potom je okupljenima prekorio kukavičluk, odgrizao vlastiti jezik i ispljunuo ga na tiranina. Građani su se tada ohrabrili i kamenovali tiranina.",
+    "stsl": "По Антисфенѹ · єгда мѫчитель въпроси єго · аще инъ съѹмысльникъ єсть · Зенонъ рече · Тꙑ · проклѧтіє града · Таже предъстоѩштимъ малодѹшіє обличи · свои ѩзꙑкъ отъгрꙑзе и на мѫчителꙗ изплева · Граждане же възмогошѧ и мѫчителꙗ каменіємъ побишѧ ·",
     "author": "Zeno of Elea",
     "year": -430,
     "originalText": "Ἀντισθένης δὲ φησι μετὰ τὸ μηνῦσαι τοὺς φίλους ἐρωτηθῆναι πρὸς τοῦ τυράννου εἴ τις ἄλλος εἴη· τὸν δ' εἰπεῖν, \"σὺ ὁ τῆς πόλεως ἀλιτήριος.\" πρός τε τοὺς παρεστῶτας φάναι· \"θαυμάζω ὑμῶν τὴν δειλίαν, εἰ τούτων ἕνεκεν ὧν νῦν ἐγὼ ὑπομένω, δουλεύετε τῷ τυράννῳ·\" καὶ τέλος ἀποτραγόντα τὴν γλῶτταν προσπτύσαι αὐτῷ· τοὺς δὲ πολίτας παρορμηθέντας αὐτίκα τὸν τύραννον καταλεῦσαι.",
@@ -13252,10 +13252,10 @@
     "pointer": "data/sources/diogenes-laertius/el/02.txt:1003#Συνέγ"
   },
   {
-    "_id": 1683,
-    "type": "anecdote",
+    "_id": 1695,
+    "type": "bio",
     "sr": "Prema Hermipu, Zenon je bačen u stupu i nasmrt istucan.",
-    "stsl": "По Хермиппѹ Зенонъ въ стѹпѹ въвръженъ и до смрьти истълченъ бысть ·",
+    "stsl": "По Хермиппѹ · Зенонъ въ стѹпѹ въвръженъ · до смрьти истълченъ бысть ·",
     "author": "Zeno of Elea",
     "year": -430,
     "originalText": "Ἕρμιππος δέ φησιν εἰς ὅλμον αὐτὸν βληθῆναι καὶ κατακοπῆναι.",
@@ -27122,9 +27122,9 @@
   },
   {
     "_id": 1666,
-    "type": "quote",
-    "sr": "Hesiod je prvi nazvao nebo strojem i zemlju kuglastom.",
-    "stsl": "Хесиодъ пьрвъ небо строємъ нарече · и землѭ крѹглообразнѹ ·",
+    "type": "reported",
+    "sr": "Zenon kaže da je Hesiod prvi nebo nazvao strojem, a zemlju okruglom.",
+    "stsl": "Зенонъ глаголеть · Хесіодъ пръвъ небо строємъ нарече · землѭ же окрѫглѫ ·",
     "originalText": "ὡς δὲ Ζήνων, Ἡσίοδον τὸν οὐρανὸν πρῶτον ὀνομάσαι κόσμον καὶ τὴν γῆν στρογγύλην.",
     "author": "Zeno of Elea",
     "sources": [
@@ -27140,9 +27140,9 @@
   },
   {
     "_id": 1667,
-    "type": "quote",
-    "sr": "Biće je jedno.",
-    "stsl": "Сѫщее єдино єсть ·",
+    "type": "mention",
+    "sr": "Demokrit pominje učenje o Jednom koje su zastupali Parmenid i Zenon.",
+    "stsl": "Демокритъ поминаєть ѹченіє о Єдиномь · єже Парменидъ и Зенонъ дрьжаста ·",
     "originalText": "τῆς περὶ τοῦ ἑνὸς δόξης τῶν περὶ Παρμενίδην καὶ Ζήνωνα.",
     "author": "Zeno of Elea",
     "sources": [
@@ -27154,19 +27154,20 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:243#τῆς π"
   },
   {
-    "_id": 1668,
-    "type": "quote",
-    "sr": "Da, ti — prokletstvo grada!",
-    "stsl": "Ты · проклѧтиє града ·",
-    "originalText": "σὺ ὁ τῆς πόλεως ἀλιτήριος.",
-    "author": "Zeno of Elea",
+    "_id": 1413,
+    "type": "anecdote",
+    "year": -220,
+    "sr": "Jednom kad je razgovor bio o tome da li mudrac ima mišljenja, a Sfer je rekao da neće imati, želevši da ga izobliči, kralj je naredio da se postave voštani narovi. Kad se Sfer prevario, kralj je povikao da se priklonio lažnoj predstavi. Na to je Sfer mudro odgovorio, rekavši da se nije priklonio tome da jesu narovi, već da je razumno da jesu narovi; razlikuje se kataleptička predstava od razumnog.",
+    "stsl": "Єдиноѭ єгда бєсѣда бѣ о томь ащє мѫдрєць імать мьнѣніꙗ · а Сфєръ рєчє ꙗко нє імать · хотъꙗ да га ізобличіть · кралꙿ повєлѣ да сѧ поставѧть вощаніи нарꙑ · Єгда Сфєръ прєльсті сѧ · кралꙿ възъпи ꙗко пріклоні сѧ лъжьноі прєдъставѣ · На то Сфєръ мѫдрѣ отъвѣщавъ · рєкъ ꙗко нє пріклоні сѧ томѹ ꙗко сѫть нарꙑ · нъ ꙗко разѹмьно єсть да сѫть нарꙑ · разлічаєть сѧ каталєптічьскаꙗ прєдъстава отъ разѹмьнаго.",
+    "originalText": "Λόγου δέ ποτε γενομένου περὶ τοῦ δοξάσειν τὸν σοφὸν καὶ τοῦ Σφαίρου εἰπόντος ὡς οὐ δοξάσει, βουλόμενος ὁ βασιλεὺς ἐλέγξαι αὐτόν, κηρίνας ῥόας ἐκέλευσε παρατεθῆναι· τοῦ δὲ Σφαίρου ἀπατηθέντος ἀνεβόησεν ὁ βασιλεὺς ψευδεῖ συγκατατεθεῖσθαι αὐτὸν φαντασίᾳ. Πρὸς ὃν ὁ Σφαῖρος εὐστόχως ἀπεκρίνατο, εἰπὼν οὕτως συγκατατεθεῖσθαι, οὐχ ὅτι ῥόαι εἰσίν, ἀλλ' ὅτι εὔλογόν ἐστι ῥόας αὐτὰς εἶναι· διαφέρειν δὲ τὴν καταληπτικὴν φαντασίαν τοῦ εὐλόγου.",
+    "author": "Sphaerus",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "IX.27"
+        "reference": "VII.177"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:185#σὺ ὁ "
+    "pointer": "data/sources/diogenes-laertius/el/08.txt:977#Λόγου"
   },
   {
     "_id": 1669,
@@ -27188,9 +27189,9 @@
   },
   {
     "_id": 1670,
-    "type": "quote",
-    "sr": "Postoje ustroji, ali nema praznog prostora.",
-    "stsl": "Строєвъ сѫть · нъ праздьна мѣста нѣсть ·",
+    "type": "reported",
+    "sr": "Govorio je da postoje ustroji, ali da nema praznog prostora.",
+    "stsl": "Глаголааше ꙗко строи сѫть · праздьна же нѣсть ·",
     "originalText": "κόσμους εἶναι κενόν τε μὴ εἶναι.",
     "author": "Zeno of Elea",
     "sources": [
@@ -27207,9 +27208,9 @@
   },
   {
     "_id": 1671,
-    "type": "quote",
-    "sr": "Priroda svih stvari nastala je od toplog i hladnog, suvog i vlažnog, koji se menjaju jedno u drugo.",
-    "stsl": "Єстество вьсѣхъ отъ тепла и стѹдени · сѹхотъы и влаги бысть · си же єдино въ дрѹгоє прѣмѣнѧютсѧ ·",
+    "type": "reported",
+    "sr": "Govorio je da je priroda svega nastala od toplog i hladnog, suvog i vlažnog, koji se uzajamno menjaju.",
+    "stsl": "Глаголааше ꙗко естество вьсего отъ тепла и студени · сѹхоты и влаги бꙑсть · си же дрѹгъ въ дрѹгоє прѣмѣнѧѭть сѧ ·",
     "originalText": "γεγενῆσθαι δὲ τὴν τῶν πάντων φύσιν ἐκ θερμοῦ καὶ ψυχροῦ καὶ ξηροῦ καὶ ὑγροῦ, λαμβανόντων αὐτῶν εἰς ἄλληλα τὴν μεταβολήν.",
     "author": "Zeno of Elea",
     "sources": [
@@ -27225,9 +27226,9 @@
   },
   {
     "_id": 1672,
-    "type": "quote",
-    "sr": "Nastanak ljudi potiče od zemlje.",
-    "stsl": "Бытие чловѣкъ отъ землѧ єсть ·",
+    "type": "reported",
+    "sr": "Govorio je da ljudi nastaju od zemlje.",
+    "stsl": "Глаголааше ꙗко чловѣци отъ землѧ раждаѭть сѧ ·",
     "originalText": "γένεσίν τε ἀνθρώπων ἐκ γῆς εἶναι.",
     "author": "Zeno of Elea",
     "sources": [
@@ -27243,9 +27244,9 @@
   },
   {
     "_id": 1673,
-    "type": "quote",
-    "sr": "Duša je smeša toplog i hladnog, suvog i vlažnog, sjedinjena tako da nijedan sastojak ne preovlađuje.",
-    "stsl": "Дѹша съмѣшение тепла и стѹдени · сѹхотъы и влаги єсть · тако съединеныхъ · ꙗко ни єдино отъ сихъ надъ иными не владѣєть ·",
+    "type": "reported",
+    "sr": "Govorio je da je duša smeša toplog i hladnog, suvog i vlažnog, tako sjedinjena da nijedan sastojak ne preovlađuje.",
+    "stsl": "Глаголааше ꙗко дѹша отъ тепла и студени · сѹхоты и влаги смѣшена єсть · тако ꙗко ни єдино отъ сихъ надъ инꙑми не владѣєть ·",
     "originalText": "ψυχὴν κρᾶμα ὑπάρχειν ἐκ τῶν προειρημένων κατὰ μηδενὸς τούτων ἐπικράτησιν.",
     "author": "Zeno of Elea",
     "sources": [
@@ -27272,70 +27273,187 @@
     "pointer": "data/sources/diogenes-laertius/el/10.txt:598#τὸ κι"
   },
   {
-    "_id": 1413,
-    "type": "anecdote",
-    "year": -220,
-    "sr": "Jednom kad je razgovor bio o tome da li mudrac ima mišljenja, a Sfer je rekao da neće imati, želevši da ga izobliči, kralj je naredio da se postave voštani narovi. Kad se Sfer prevario, kralj je povikao da se priklonio lažnoj predstavi. Na to je Sfer mudro odgovorio, rekavši da se nije priklonio tome da jesu narovi, već da je razumno da jesu narovi; razlikuje se kataleptička predstava od razumnog.",
-    "stsl": "Єдиноѭ єгда бєсѣда бѣ о томь ащє мѫдрєць імать мьнѣніꙗ · а Сфєръ рєчє ꙗко нє імать · хотъꙗ да га ізобличіть · кралꙿ повєлѣ да сѧ поставѧть вощаніи нарꙑ · Єгда Сфєръ прєльсті сѧ · кралꙿ възъпи ꙗко пріклоні сѧ лъжьноі прєдъставѣ · На то Сфєръ мѫдрѣ отъвѣщавъ · рєкъ ꙗко нє пріклоні сѧ томѹ ꙗко сѫть нарꙑ · нъ ꙗко разѹмьно єсть да сѫть нарꙑ · разлічаєть сѧ каталєптічьскаꙗ прєдъстава отъ разѹмьнаго.",
-    "originalText": "Λόγου δέ ποτε γενομένου περὶ τοῦ δοξάσειν τὸν σοφὸν καὶ τοῦ Σφαίρου εἰπόντος ὡς οὐ δοξάσει, βουλόμενος ὁ βασιλεὺς ἐλέγξαι αὐτόν, κηρίνας ῥόας ἐκέλευσε παρατεθῆναι· τοῦ δὲ Σφαίρου ἀπατηθέντος ἀνεβόησεν ὁ βασιλεὺς ψευδεῖ συγκατατεθεῖσθαι αὐτὸν φαντασίᾳ. Πρὸς ὃν ὁ Σφαῖρος εὐστόχως ἀπεκρίνατο, εἰπὼν οὕτως συγκατατεθεῖσθαι, οὐχ ὅτι ῥόαι εἰσίν, ἀλλ' ὅτι εὔλογόν ἐστι ῥόας αὐτὰς εἶναι· διαφέρειν δὲ τὴν καταληπτικὴν φαντασίαν τοῦ εὐλόγου.",
-    "author": "Sphaerus",
+    "_id": 1675,
+    "type": "mention",
+    "sr": "Platon kaže da je Zenon spis napisao u mladosti i da mu je bio ukraden pre nego što je sam odlučio hoće li ga objaviti.",
+    "stsl": "Платонъ глаголєть · ꙗко Зеноново писаніє въ юности написано бѣ · и ѹкрадено прѣжде даже самъ разсѫди · аще иꙁдати є ·",
+    "author": "Zeno of Elea",
     "sources": [
       {
-        "name": "diogenes-laertius",
-        "reference": "VII.177"
+        "name": "plato-parmenides",
+        "reference": "128d-e"
       }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/08.txt:977#Λόγου"
+    ]
   },
   {
     "_id": 1676,
     "type": "reported",
-    "sr": "Aristotel ga smatrao pronalazačem dijalektike, veštine raspravljanja pitanjima i odgovorima.",
-    "stsl": "Аристотъель мьнѧаше єго изобрѣтателемъ діалектикꙑ · хѹдожьства прѣниꙗ въпросꙑ и отъвѣтꙑ.",
+    "sr": "Ako su bića mnoga, moraju biti i slična i neslična. Ali to je nemoguće: neslična ne mogu biti slična, niti slična neslična. Prema tome, bića nisu mnoga.",
+    "stsl": "Аще сѫщаꙗ многа сѫть · подобьна и неподобьна имъ быти подобаєть · Се же неможьно · неподобьна бо подобьна не мѫгѫть быти · ни подобьна неподобьна · Тѣмь сѫщаꙗ многа не сѫть ·",
+    "originalText": "εἰ πολλά ἐστι τὰ ὄντα, ὡς ἄρα δεῖ αὐτὰ ὅμοιά τε εἶναι καὶ ἀνόμοια, τοῦτο δὲ δὴ ἀδύνατον· οὔτε γὰρ τὰ ἀνόμοια ὅμοια οὔτε τὰ ὅμοια ἀνόμοια οἷόν τε εἶναι.",
     "author": "Zeno of Elea",
-    "originalText": "Ἀριστοτέλης δ' αὐτὸν διαλεκτικῆς εὑρετὴν ἀποφαίνει.",
     "sources": [
       {
-        "name": "diogenes-laertius",
-        "reference": "IX.25"
+        "name": "plato-parmenides",
+        "reference": "127e-128a"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:172#Ἀριστοτέλης"
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 1677,
-    "type": "reported",
-    "sr": "Prvi izložio dokaz poznat kao 'Ahilej i kornjača' po Diogenu; po Favorinu to je bio Parmenid.",
-    "stsl": "Пьрвыи довѣдъ · нарицаємыи Ахиллеи и желвь · изложи по Діогенꙋ · по Фаворинꙋ же то Парменидъ.",
-    "author": "Zeno of Elea",
-    "originalText": "Ζήνωνα πρῶτον τὸν Ἀχιλλέα λόγον ἠρώτησε· Φαβωρῖνος δέ φησι Παρμενίδην.",
+    "type": "mention",
+    "sr": "Platon Zenonov spis predstavlja kao odbranu Parmenida: Parmenid tvrdi da je sve jedno, a Zenon, obrćući dokaz, da mnoštva nema.",
+    "stsl": "Платонъ Зеноново писаніє ꙗко Парменида защиштеніє показѹєть · Парменидъ глаголєть ꙗко вьсе єдино єсть · Зенонъ же · доводъ обративъ · ꙗко многа не сѫть ·",
+    "author": [
+      "Zeno of Elea",
+      "Parmenides"
+    ],
     "sources": [
       {
-        "name": "diogenes-laertius",
-        "reference": "IX.29"
+        "name": "plato-parmenides",
+        "reference": "128a-d"
       }
-    ],
-    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#Ζήνων",
-    "tags": [
-      "λόγος"
     ]
   },
   {
     "_id": 1678,
-    "type": "reported",
-    "sr": "Prema jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
-    "stsl": "По єдиномѹ прѣданию Зенонъ пьрвъ писа бесѣды вопроса и отъвѣта · Аристотъель же пьрвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
+    "type": "quote",
+    "sr": "Ako nešto jeste, nužno je da ima neku veličinu i debljinu, i da jedan njegov deo bude udaljen od drugoga. Isto važi i za ono što se pruža dalje: i ono ima veličinu, a nešto se opet pruža dalje od njega. Svejedno je kazati to jednom ili ponavljati doveka: nijedan takav deo nije poslednji, niti je jedan bez drugoga. Tako, ako ih je mnogo, nužno je da budu i mala i velika: mala toliko da nemaju veličinu, velika toliko da budu beskrajna.",
+    "stsl": "Аще что єсть · нѫжда ємѹ величинѫ и дєбєлость имѣти · и єдинѣи єго чѧсти отъ дрѹгыѩ отъстоꙗти · Тожде и о прѣдъстоѩштемь · и то бо величинѫ имать · и пакꙑ нѣчто отъ него прѣдъстоѩти бѫдеть · Єдино єсть се єдиною рещи или присно глаголати · ни єдина бо такова чѧсть послѣдьнꙗ бѫдеть · ни єдина безъ дрѹгыѩ · Тако аще многа сѫть · нѫжда имъ малымъ и великымъ быти · малымъ ꙗко величины не имѣти · великымъ же ꙗко безмѣрьнымъ быти ·",
+    "originalText": "εἰ δὲ ἔστιν, ἀνάγκη ἕκαστον μέγεθός τι ἔχειν καὶ πάχος καὶ ἀπέχειν αὐτοῦ τὸ ἕτερον ἀπὸ τοῦ ἑτέρου. καὶ περὶ τοῦ προύχοντος ὁ αὐτὸς λόγος. καὶ γὰρ ἐκεῖνο ἕξει μέγεθος καὶ προέξει αὐτοῦ τι. ὅμοιον δὴ τοῦτο ἅπαξ τε εἰπεῖν καὶ ἀεὶ λέγειν· οὐδὲν γὰρ αὐτοῦ τοιοῦτον ἔσχατον ἔσται οὔτε ἕτερον πρὸς ἕτερον οὐκ ἔσται. οὕτως εἰ πολλά ἐστιν, ἀνάγκη αὐτὰ μικρά τε εἶναι καὶ μεγάλα, μικρὰ μὲν ὥστε μὴ ἔχειν μέγεθος, μεγάλα δὲ ὥστε ἄπειρα εἶναι.",
     "author": "Zeno of Elea",
-    "originalText": "Διαλόγων πρῶτος γράψαι, ὡς ἔνιοί φασιν. Ἀριστοτέλης δέ φησιν Ἀλεξαμενὸν τὸν Στυρίτην ἢ Τήϊον.",
     "sources": [
       {
-        "name": "diogenes-laertius",
-        "reference": "III.48"
+        "name": "hermann-diels",
+        "reference": "29 B 1"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/el/04.txt:473",
     "tags": [
-      "λόγος"
+      "εἶναι",
+      "λόγος",
+      "ἄπειρον"
+    ]
+  },
+  {
+    "_id": 1679,
+    "type": "quote",
+    "sr": "Ako bi se to dodalo nečemu što jeste, ne bi ga učinilo većim. Jer ono što nema nikakvu veličinu ne može svojim dodavanjem uvećati veličinu; tako bi ono što je dodato bilo ništa. Ako pak njegovim oduzimanjem drugo ne postaje manje, niti njegovim dodavanjem veće, jasno je da ono što je dodato ili oduzeto nije bilo ništa.",
+    "stsl": "Аще къ сѫштемѹ приложено бѫдеть · болѥ не сътворить и · Аще бо величины не имать · приложено величинѫ възрастити не можеть · и тако приложеноє ничьтоже єсть · Аще же отъѩтѹ ємѹ дрѹгоє мьнѥє не бѫдеть · ни приложенѹ болѥє · ꙗвѣ ꙗко приложеноє и отъѩтоє ничьтоже бѣ ·",
+    "originalText": "εἰ γὰρ ἄλλῳ ὄντι προσγένοιτο, οὐδὲν ἂν μεῖζον ποιήσειεν· μεγέθους γὰρ μηδενὸς ὄντος, προσγενομένου δὲ οὐδὲν οἷόν τε εἰς μέγεθος ἐπιδοῦναι. καὶ οὕτως ἂν ἤδη τὸ προσγινόμενον οὐδὲν εἴη. εἰ δὲ ἀπογινομένου τὸ ἕτερον μηδὲν ἔλαττόν ἐστι, μηδὲ αὖ προσγινομένου αὐξήσεται, δῆλον ὅτι τὸ προσγενόμενον οὐδὲν ἦν οὐδὲ τὸ ἀπογενόμενον.",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "29 B 2"
+      }
+    ],
+    "tags": [
+      "εἶναι"
+    ]
+  },
+  {
+    "_id": 1680,
+    "type": "quote",
+    "sr": "Ako ih je mnogo, nužno ih je onoliko koliko ih jeste, ni više ni manje. Ako ih je onoliko koliko ih jeste, onda su ograničena. Ali ako ih je mnogo, bića su beskrajna: između bića uvek ima drugih, a između tih opet drugih. I tako su bića beskrajna.",
+    "stsl": "Аще многа сѫть · нѫжда имъ толико быти · колико ихъ єсть · ни болѥ ни мьнѥ · Аще толико ихъ єсть · колико ихъ єсть · коньчьна сѫть · Аще же многа сѫть · сѫщаꙗ безмѣрьна сѫть · междѹ сѫштими бо присно ина сѫть · и междѹ тѣми пакꙑ ина · Тако сѫщаꙗ безмѣрьна сѫть ·",
+    "originalText": "εἰ πολλά ἐστιν, ἀνάγκη τοσαῦτα εἶναι ὅσα ἐστὶ καὶ οὔτε πλείονα αὐτῶν οὔτε ἐλάττονα. εἰ δὲ τοσαῦτά ἐστιν ὅσα ἐστί, πεπερασμένα ἂν εἴη. εἰ πολλά ἐστιν, ἄπειρα τὰ ὄντα ἐστίν· ἀεὶ γὰρ ἕτερα μεταξὺ τῶν ὄντων ἐστί, καὶ πάλιν ἐκείνων ἕτερα μεταξύ. καὶ οὕτως ἄπειρα τὰ ὄντα ἐστί.",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "29 B 3"
+      }
+    ],
+    "tags": [
+      "εἶναι",
+      "ἄπειρον"
+    ]
+  },
+  {
+    "_id": 1681,
+    "type": "reported",
+    "sr": "Kretanja nema: ono što se kreće mora najpre stići do polovine puta, pa tek onda do kraja.",
+    "stsl": "Движеніꙗ нѣсть · движѹштемѹ сѧ бо прѣжде до полѹ пѫти доити подобаєть · потомъ до коньца ·",
+    "originalText": "οὐκ εἶναι κίνησιν διὰ τὸ πρότερον εἰς τὸ ἥμισυ δεῖν ἀφικέσθαι τὸ φερόμενον ἢ πρὸς τὸ τέλος.",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "aristotle-physics",
+        "reference": "VI.9, 239b11-14"
+      }
+    ],
+    "tags": [
+      "εἶναι"
+    ]
+  },
+  {
+    "_id": 1682,
+    "type": "reported",
+    "sr": "U dokazu zvanom Ahilej najbrži nikada neće sustići najsporijeg: gonilac mora najpre stići do mesta odakle je begunac pošao, pa sporiji nužno uvek ostaje nešto ispred.",
+    "stsl": "Въ доводѣ нарицаємѣмь Ахиллеи · најбръзѣишии најмедьлѣнѣишаго николиже достигнеть · гонѧштемѹ бо прѣжде до мѣста доити подобаєть · отъкѫдѹ бѣжѧштии поиде · тѣмь медьлѣнѣишии присно нѣколико прѣдъ нимь остаєть ·",
+    "originalText": "δεύτερος ὁ καλούμενος Ἀχιλλεύς· ἔστι δ' οὗτος, ὅτι τὸ βραδύτατον οὐδέποτε καταληφθήσεται θέον ὑπὸ τοῦ ταχίστου· ἔμπροσθεν γὰρ ἀναγκαῖον ἐλθεῖν τὸ διῶκον ὅθεν ὥρμησε τὸ φεῦγον, ὥστε ἀεί τι προέχειν ἀναγκαῖον τὸ βραδύτερον.",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "aristotle-physics",
+        "reference": "VI.9, 239b14-18"
+      }
+    ]
+  },
+  {
+    "_id": 1683,
+    "type": "reported",
+    "sr": "Strela u letu miruje: u svakom sada zauzima prostor jednak sebi, a ono što zauzima prostor jednak sebi miruje.",
+    "stsl": "Летѧштаꙗ стрѣла покоить сѧ · въ вьсакомь нꙑнѣ мѣсто себѣ равно имать · єже же мѣсто себѣ равно имать · покоить сѧ ·",
+    "originalText": "τρίτος ὁ νῦν ῥηθείς, ὅτι ἡ ὀϊστὸς φερομένη ἕστηκεν.",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "aristotle-physics",
+        "reference": "VI.9, 239b30-33"
+      }
+    ]
+  },
+  {
+    "_id": 1684,
+    "type": "reported",
+    "sr": "Četvrti je dokaz o jednakim telima koja se po stadionu kreću pored jednakih tela iz suprotnih smerova, jedna od kraja stadiona, druga od sredine, jednakom brzinom; iz toga, misli Zenon, sledi da je polovina vremena jednaka dvostrukom.",
+    "stsl": "Четврътыи доводъ єсть о равьныхъ тѣлесѣхъ · иже по стадію мимо равьныхъ тѣлесъ отъ противьныхъ странъ движѫть сѧ · ова отъ коньца стадіа · ина же отъ срѣдины · равьною бръзостью · отъ сего Зенонъ мьнить · ꙗко полъ врѣмене двоицѣ равно єсть ·",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "aristotle-physics",
+        "reference": "VI.9, 239b33-240a18"
+      }
+    ]
+  },
+  {
+    "_id": 1685,
+    "type": "reported",
+    "sr": "Ako je sve što jeste u mestu, onda i samo mesto mora biti u mestu — i tako bez kraja.",
+    "stsl": "Аще вьсе сѫщеє въ мѣстѣ єсть · и самомѹ мѣстѹ въ мѣстѣ быти подобаєть · и тако безъ коньца ·",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "aristotle-physics",
+        "reference": "IV.1, 209a23-25"
+      }
+    ]
+  },
+  {
+    "_id": 1686,
+    "type": "reported",
+    "sr": "Zenon je tvrdio da i deo prosa pri padu daje zvuk.",
+    "stsl": "Зенонъ твръдѧаше · ꙗко и чѧсть проса падаѭшти гласъ творить ·",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "aristotle-physics",
+        "reference": "VII.5, 250a19-22"
+      }
     ]
   },
   {
@@ -27353,6 +27471,51 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/08.txt:1082#Ἔνιοι"
+  },
+  {
+    "_id": 1688,
+    "type": "mention",
+    "sr": "Aristotel Zenona naziva pronalazačem dijalektike.",
+    "stsl": "Аристотель Зенона обрѣтателемъ діалектикꙑ нарицаєть ·",
+    "author": "Zeno of Elea",
+    "originalText": "Ἀριστοτέλης δ' αὐτὸν διαλεκτικῆς εὑρετὴν ἀποφαίνει.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.25"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:172#Ἀριστοτέλης"
+  },
+  {
+    "_id": 1689,
+    "type": "mention",
+    "sr": "Diogen Zenonu pripisuje da je prvi izložio dokaz zvani Ahilej; Favorin ga pripisuje Parmenidu.",
+    "stsl": "Діогенъ Зенонѹ приписѹєть · ꙗко пръвъ доводъ Ахиллеи нарицаємꙑи изложи · Фаворинъ же Парменидѹ приписѹєть ·",
+    "author": "Zeno of Elea",
+    "originalText": "Ζήνωνα πρῶτον τὸν Ἀχιλλέα λόγον ἠρώτησε· Φαβωρῖνος δέ φησι Παρμενίδην.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.29"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:199#Ζήνων"
+  },
+  {
+    "_id": 1690,
+    "type": "mention",
+    "sr": "Po jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
+    "stsl": "По єдиномѹ прѣданиѭ · Зенонъ пръвъ бесѣдꙑ писа · Аристотель же пръвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
+    "author": "Zeno of Elea",
+    "originalText": "Διαλόγων πρῶτος γράψαι, ὡς ἔνιοί φασιν. Ἀριστοτέλης δέ φησιν Ἀλεξαμενὸν τὸν Στυρίτην ἢ Τήϊον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.48"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/04.txt:473"
   },
   {
     "_id": 453,
@@ -27418,5 +27581,19 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/el/02.txt:114#Δοκεῖ"
+  },
+  {
+    "_id": 1668,
+    "type": "anecdote",
+    "sr": "Po Antistenu, kada ga tiranin upita ima li još kojeg saučesnika, Zenon odgovori: Ti — pošast ovoga grada. Zatim okupljenima prekori malodušnost, odgrize sebi jezik i ispljunu ga na tiranina. Građani se tada osmeliše i kamenovaše tiranina.",
+    "stsl": "По Антисфенѹ · єгда мѫчитель въпроси єго · аще инъ съѹмысльникъ єсть · Зенонъ рече · Тꙑ · пагѹба града сего · Таже предъстоѩштимъ малодѹшіє обличи · свои ѩзꙑкъ отъгрꙑзе и на мѫчителꙗ изплева · Граждане же тогда възмогошѧ и мѫчителꙗ каменіємъ побишѧ ·",
+    "author": "Zeno of Elea",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.27"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/el/10.txt:185"
   }
 ]
