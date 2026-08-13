@@ -1,9 +1,12 @@
-"use client";
+"use client"
 
-import Sidebar from "./Sidebar";
-import Header from "./Header";
-import { getAuthorName, placesData } from "../utils/data";
-import { useTranslations } from "../utils/useTranslations";
+import Sidebar from "./Sidebar"
+import Header from "./Header"
+import BookLayout from "./BookLayout"
+import BirthplaceMap from "./BirthplaceMap"
+import AuthorSection from "./AuthorSection"
+import { getAuthorName, placesData } from "../utils/data"
+import { useTranslations } from "../utils/useTranslations"
 import type {
   AuthorData,
   Language,
@@ -12,17 +15,15 @@ import type {
   Saying,
   Writing,
   Letter,
-} from "../types/data";
-import QuoteCard from "./QuoteCard";
-import BookLayout from "./BookLayout";
-import BirthplaceMap from "./BirthplaceMap";
-import styles from "./AuthorPageClient.module.scss";
+  Mention,
+} from "../types/data"
+import styles from "./AuthorPageClient.module.scss"
 
 interface AuthorPageClientProps {
-  author: string;
-  authorData: AuthorData;
-  authorEntries: Entry[];
-  language: Language;
+  author: string
+  authorData: AuthorData
+  authorEntries: Entry[]
+  language: Language
 }
 
 export default function AuthorPageClient({
@@ -31,41 +32,43 @@ export default function AuthorPageClient({
   authorEntries,
   language,
 }: AuthorPageClientProps) {
-  const { t, transliterate } = useTranslations(language);
-  const authorName = transliterate(getAuthorName(author, language));
+  const { t, transliterate } = useTranslations(language)
+
+  const authorName = transliterate(getAuthorName(author, language))
+
   const birthplaceName = authorData.birthplace
-    ? t.cities[authorData.birthplace as keyof typeof t.cities] || authorData.birthplace
-    : null;
+    ? t.cities[authorData.birthplace as keyof typeof t.cities] ||
+      authorData.birthplace
+    : null
+
   const birthplaceCoordinates = authorData.birthplace
     ? placesData[authorData.birthplace]
-    : null;
+    : null
 
-  const isCrossReference = (entry: Entry) => {
-    const authors = Array.isArray(entry.author) ? entry.author : [entry.author];
-    return authors.length > 1;
-  };
+  const lifeEvents = authorEntries.filter(
+    (entry): entry is LifeEvent =>
+      entry.type === "anecdote" || entry.type === "bio",
+  )
 
-  const quotesSection = authorEntries.filter(
+  const quotes = authorEntries.filter(
     (entry): entry is Saying =>
-      (entry.type === "quote" || entry.type === "reported") && !isCrossReference(entry),
-  );
+      entry.type === "quote" || entry.type === "reported",
+  )
 
-  const crossReferencesSection = authorEntries.filter(
-    (entry): entry is Saying =>
-      (entry.type === "quote" || entry.type === "reported") && isCrossReference(entry),
-  );
-
-  const lifeEventsSection = authorEntries.filter(
-    (entry): entry is LifeEvent => entry.type === "anecdote" || entry.type === "bio",
-  );
+  const mentions = authorEntries.filter(
+    (entry): entry is Mention => entry.type === "mention",
+  )
 
   const works = authorEntries.filter(
     (entry): entry is Writing => entry.type === "works",
-  );
+  )
 
   const letters = authorEntries.filter(
     (entry): entry is Letter => entry.type === "letter",
-  );
+  )
+
+  const formatYear = (year: number) =>
+    year < 0 ? `${Math.abs(year)} ${t.bce}` : year
 
   return (
     <main className="page-shell">
@@ -78,15 +81,7 @@ export default function AuthorPageClient({
           <h2 className={styles.authorName}>
             {authorName}{" "}
             <span className={styles.authorDates}>
-              (
-              {authorData.born < 0
-                ? `${Math.abs(authorData.born)} ${t.bce}`
-                : authorData.born}{" "}
-              –{" "}
-              {authorData.died < 0
-                ? `${Math.abs(authorData.died)} ${t.bce}`
-                : authorData.died}
-              )
+              ({formatYear(authorData.born)} – {formatYear(authorData.died)})
             </span>
           </h2>
 
@@ -122,78 +117,41 @@ export default function AuthorPageClient({
           )}
         </div>
 
-        {lifeEventsSection.length > 0 && (
+        {lifeEvents.length > 0 && (
           <section className={styles.authorSection}>
             <h3>{t.sectionLife}</h3>
 
-            <BookLayout entries={lifeEventsSection} language={language} />
+            <BookLayout
+              entries={lifeEvents}
+              language={language}
+            />
           </section>
         )}
 
-        {quotesSection.length > 0 && (
-          <section className={styles.authorSection}>
-            <h3>{t.sectionQuotes}</h3>
+        <AuthorSection
+          title={t.sectionQuotes}
+          entries={quotes}
+          language={language}
+        />
 
-            <div className={styles.grid}>
-              {quotesSection.map((entry) => (
-                <QuoteCard
-                  key={entry._id}
-                  entry={entry}
-                  language={language}
-                />
-              ))}
-            </div>
-          </section>
-        )}
+        <AuthorSection
+          title={t.sectionWritings}
+          entries={works}
+          language={language}
+        />
 
-        {works.length > 0 && (
-          <section className={styles.authorSection}>
-            <h3>{t.sectionWritings}</h3>
+        <AuthorSection
+          title={t.sectionOthersAbout}
+          entries={mentions}
+          language={language}
+        />
 
-            <div className={styles.grid}>
-              {works.map((entry) => (
-                <QuoteCard
-                  key={entry._id}
-                  entry={entry}
-                  language={language}
-                />
-              ))}
-            </div>
-          </section>
-        )}
-
-        {crossReferencesSection.length > 0 && (
-          <section className={styles.authorSection}>
-            <h3>{t.sectionOthersAbout}</h3>
-
-            <div className={styles.grid}>
-              {crossReferencesSection.map((entry) => (
-                <QuoteCard
-                  key={entry._id}
-                  entry={entry}
-                  language={language}
-                />
-              ))}
-            </div>
-          </section>
-        )}
-
-        {letters.length > 0 && (
-          <section className={styles.authorSection}>
-            <h3>{t.sectionLetters}</h3>
-
-            <div className={styles.grid}>
-              {letters.map((entry) => (
-                <QuoteCard
-                  key={entry._id}
-                  entry={entry}
-                  language={language}
-                />
-              ))}
-            </div>
-          </section>
-        )}
+        <AuthorSection
+          title={t.sectionLetters}
+          entries={letters}
+          language={language}
+        />
       </section>
     </main>
-  );
+  )
 }

@@ -416,10 +416,43 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Demokrit je po nekima slušao Anaksagoru, mlađi od njega četrdeset godina. Favorin kaže da Demokrit tvrdio kako Anaksagorina učenja o Suncu i Mesecu nisu njegova nego stara, te ih je Anaksagora prisvoji i ukrao. Demokrit je osuđivao Anaksagorin um i njegovo uređenje sveta, neprijateljski raspoložen prema njemu jer ga ovaj nije prihvatio.",
-    "stsl": "Демокритъ по нѣкіимъ Анаксагорѹ слꙑша · младꙑи отъ него четꙑредесѧтъ лѣтъ · Фаворинъ глаголєть · ꙗко Демокритъ твръдѧаше · ꙗко Анаксагорина ѹчєниꙗ о слъньци и мѣсѧци не сѫть єго · нъ стара · и ꙗ Анаксагора присвои и ѹкраде · Демокритъ же осѫждааше Анаксагоринъ ѹмъ и ѹстроєниє мира · непріꙗзньнѣ къ немѹ расположенъ · зане єго сеи не приѧтъ ·",
-    "originalText": "Λευκίππῳ παρέβαλε καὶ Ἀναξαγόρᾳ κατά τινας, ἔτεσιν ὢν αὐτοῦ νεώτερος τετταράκοντα. Φαβωρῖνος δέ φησιν ἐν Παντοδαπῇ ἱστορίᾳ λέγειν Δημόκριτον περὶ Ἀναξαγόρου ὡς οὐκ εἴησαν αὐτοῦ αἱ δόξαι αἵ τε περὶ ἡλίου καὶ σελήνης, ἀλλὰ ἀρχαῖαι, τὸν δ' ὑφῃρῆσθαι. διασύρειν τε αὐτοῦ τὰ περὶ τῆς διακοσμήσεως καὶ τοῦ νοῦ, ἐχθρῶς ἔχοντα πρὸς αὐτὸν ὅτι δὴ μὴ προσήκατο αὐτόν.",
+    "type": "bio",
+    "year": -446,
+    "sr": "Demokrit je po nekima slušao Anaksagoru, mlađi od njega četrdeset godina.",
+    "stsl": "Демокритъ по нѣкіимъ Анаксагорѹ слꙑша · младꙑи отъ него четꙑредесѧтъ лѣтъ ·",
+    "originalText": "Λευκίππῳ παρέβαλε καὶ Ἀναξαγόρᾳ κατά τινας, ἔτεσιν ὢν αὐτοῦ νεώτερος τετταράκοντα.",
+    "author": [
+      "Anaxagoras",
+      "Democritus"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.34"
+      }
+    ]
+  },
+  {
+    "type": "mention",
+    "sr": "Favorin kaže da je Demokrit tvrdio kako Anaksagorina učenja o Suncu i Mesecu nisu njegova nego stara, te da ih je Anaksagora prisvojio.",
+    "stsl": "Фаворинъ глаголєть · ꙗко Демокритъ твръдѧаше · ꙗко Анаксагорина ѹчєниꙗ о слъньци и мѣсѧци не сѫть єго · нъ стара · и ꙗ Анаксагора присвои ·",
+    "originalText": "Φαβωρῖνος δέ φησιν ἐν Παντοδαπῇ ἱστορίᾳ λέγειν Δημόκριτον περὶ Ἀναξαγόρου ὡς οὐκ εἴησαν αὐτοῦ αἱ δόξαι αἵ τε περὶ ἡλίου καὶ σελήνης, ἀλλὰ ἀρχαῖαι, τὸν δ' ὑφῃρῆσθαι.",
+    "author": [
+      "Anaxagoras",
+      "Democritus"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.34"
+      }
+    ]
+  },
+  {
+    "type": "mention",
+    "sr": "Demokrit je ismevao Anaksagorina učenja o uređenju sveta i umu, neprijateljski raspoložen prema njemu zato što ga Anaksagora nije prihvatio.",
+    "stsl": "Демокритъ же порѫгааше сѧ Анаксагоринꙑмъ ѹчєниѥмъ о ѹстроєнии мира и ѹмѣ · непріꙗзньнѣ къ немѹ расположенъ · зане єго Анаксагора не приѧтъ ·",
+    "originalText": "διασύρειν τε αὐτοῦ τὰ περὶ τῆς διακοσμήσεως καὶ τοῦ νοῦ, ἐχθρῶς ἔχοντα πρὸς αὐτὸν ὅτι δὴ μὴ προσήκατο αὐτόν.",
     "author": [
       "Anaxagoras",
       "Democritus"

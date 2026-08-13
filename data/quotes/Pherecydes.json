@@ -255,12 +255,12 @@
     ]
   },
   {
-    "type": "bio",
+    "type": "mention",
     "year": -539.7,
     "sr": "Ion sa Hiosa o njemu kaže: Odlikovan muževnošću i skromnošću, i posle smrti njegova duša živi prijatnim životom, ako je mudri Pitagora zaista umeo da sagleda i spozna sudbine svih ljudi.",
     "stsl": "Іонъ Хіосьскꙑи о немь глаголеть · Мѫжьствомъ и цѣломѫдріємъ ѹкрашенъ · и по съмрьти дѹшеѭ сладъкъ животъ имать · аще мѫдрꙑи Пѵѳагора въ истинѫ вьсѣхъ людии сѫдьбꙑ видѣ и поꙁна ·",
     "originalText": "Ἴων δ' ὁ Χῖός φησιν περὶ αὐτοῦ· Ὥς ὃ μὲν ἠνορέῃ τε κεκασμένος ἠδὲ καὶ αἰδοῖ καὶ φθίμενος ψυχῇ τερπνὸν ἔχει βίοτον, εἴπερ Πυθαγόρης ἐτύμως ὁ σοφὸς περὶ πάντων ἀνθρώπων γνώμας εἶδε καὶ ἐξέμαθεν.",
-    "author": "Pherecydes",
+    "author": ["Pherecydes", "Pythagoras"],
     "sources": [
       {
         "name": "diogenes-laertius",
