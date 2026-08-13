@@ -2,8 +2,8 @@
   {
     "type": "bio",
     "year": -585,
-    "sr": "Rođen u Miletu.",
-    "stsl": "Анаксименъ Еѷрѷстратовъ Мілєтѧнінъ бѣ ·",
+    "sr": "Anaksimen, sin Euristratov, Milećanin.",
+    "stsl": "Анаѯіменъ · сꙑнъ Еѵрѵстратовъ · Милетꙗнинъ ·",
     "originalText": "Ἀναξιμένης Εὐρυστράτου Μιλήσιος.",
     "author": "Anaximenes",
     "sources": [
@@ -16,9 +16,49 @@
   {
     "type": "bio",
     "year": -565,
-    "sr": "Učenik Anaksimandra; neki kažu da je slušao i Parmenida.",
-    "stsl": "Оученикъ Анаксимандровъ · нѣции же глаголѭтъ ꙗко Парменида слꙑша ·",
+    "sr": "Bio je Anaksimandrov učenik; neki kažu da je slušao i Parmenida.",
+    "stsl": "Анаѯімандровъ ѹченикъ бѣ · нѣціи же глаголѭть ꙗко и Парменида слꙑша ·",
     "originalText": "Ἤκουσεν Ἀναξιμάνδρου. ἔνιοι δὲ καὶ Παρμενίδου φασὶν ἀκοῦσαι αὐτόν.",
+    "author": "Anaximenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da je počelo vazduh, odnosno beskrajno.",
+    "stsl": "Глаголааше ꙗко начѧло въздѹхъ єсть · сърѣчь безмѣрьноє ·",
+    "originalText": "οὗτος ἀρχὴν ἀέρα εἶπε καὶ τὸ ἄπειρον.",
+    "author": "Anaximenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da se zvezde kreću oko Zemlje, a ne ispod nje.",
+    "stsl": "Глаголааше ꙗко звѣздꙑ окрѣстъ землѧ движѫть сѧ · подъ неѭ же не заходѧть ·",
+    "originalText": "κινεῖσθαι δὲ τὰ ἄστρα οὐχ ὑπὸ γῆν, ἀλλὰ περὶ γῆν.",
+    "author": "Anaximenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.3"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -555,
+    "sr": "Pisao je prostim i neukrašenim jonskim jezikom.",
+    "stsl": "Простꙑмь и неѹкрашенꙑмь Іоньскꙑмь словомь писааше ·",
+    "originalText": "Ἐχρήσατο δὲ λέξει Ἰάδι ἁπλῇ καὶ ἀπερίττῳ.",
     "author": "Anaximenes",
     "sources": [
       {
@@ -30,8 +70,8 @@
   {
     "type": "bio",
     "year": -546,
-    "sr": "Živeo je u vreme pada Sarda.",
-    "stsl": "Живъ бѣ въ врѣмѧ паденіꙗ Сардъ ·",
+    "sr": "Prema Apolodoru, živeo je u vreme pada Sarda.",
+    "stsl": "По Аполодорѹ · въ врѣмѧ паденіꙗ Сардъ живъ бѣ ·",
     "originalText": "Καὶ γεγένηται μέν, καθά φησίν Ἀπολλόδωρος, περὶ τὴν Σάρδεων ἅλωσιν.",
     "author": "Anaximenes",
     "sources": [
@@ -45,7 +85,7 @@
     "type": "bio",
     "year": -525,
     "sr": "Umro je u šezdeset trećoj olimpijadi.",
-    "stsl": "Оумрѣ въ шестьдесѧтѣи третіеи олимпіадѣ ·",
+    "stsl": "Ѹмрѣ въ шестьдесѧтѣи третіеи олимпіадѣ ·",
     "originalText": "ἐτελεύτησε δὲ τῇ ἑξηκοστῇ τρίτῃ Ὀλυμπιάδι.",
     "author": "Anaximenes",
     "sources": [
@@ -56,51 +96,11 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Kao prvo načelo uzeo je vazduh, odnosno beskrajno.",
-    "stsl": "За пьрвоє начѧло положи въздѫхъ · сърѣчь безмѣрьноє ·",
-    "originalText": "οὗτος ἀρχὴν ἀέρα εἶπε καὶ τὸ ἄπειρον.",
-    "author": "Anaximenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.3"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Zvezde se okreću oko zemlje, ali ne zalaze ispod nje.",
-    "stsl": "Звѣзды крѫжѧть окрѣстъ землѧ · нъ не заходѧть подъ неѭ ·",
-    "originalText": "κινεῖσθαι δὲ τὰ ἄστρα οὐχ ὑπὸ γῆν, ἀλλὰ περὶ γῆν.",
-    "author": "Anaximenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.3"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "sr": "Pisao je prostim i nenametljivim jonskim stilom.",
-    "stsl": "Писааше простымь и непрѣтворьнымь іоньскымъ словесомь ·",
-    "author": "Anaximenes",
-    "year": -555,
-    "originalText": "Ἐχρήσατο δὲ λέξει Ἰάδι ἁπλῇ καὶ ἀπερίττῳ.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.3"
-      }
-    ]
-  },
-  {
-    "type": "reported",
-    "sr": "Anaksimen je u pismu Talesu napisao da su Milećani izgubili svog zvezdoznanca.",
-    "stsl": "Анаксименъ въ посланіи къ Фалесѹ написа · ꙗко Мілєтѧнє лишишасѧ своєго звѣздочѧтца ·",
-    "originalText": "Θαλῆς Ἐξαμύου ἐπὶ γήρως οὐκ εὔποτμος οἴχεται· εὐφρόνης, ὥσπερ ἐώθει, ἅμα τῇ ἀμφιπόλῳ προϊὼν ἐκ τοῦ αὐλίου τὰ ἄστρα ἐθηεῖτο· καὶ-οὐ γὰρ ἐς μνήμην ἔθετο-θηεύμενος ἐς τὸ κρημνῶδες ἐκβὰς καταπίπτει. Μιλησίοισι μέν νυν ὁ αἰθερολόγος ἐν τοιῷδε κεῖται τέλει.",
-    "author": "Anaximenes",
+    "type": "letter",
+    "sr": "Anaksimen Pitagori. Tales, sin Eksамijev, nesrećno je skončao u starosti. Jedne večeri, kao što je imao običaj, izašao je iz dvorišta sa sluškinjom da posmatra zvezde. Dok ih je posmatrao, zaboravivši gde se nalazi, prišao je ivici strmine i pao. Tako su Milećani izgubili svoga zvezdoznanca. Mi koji smo s njim razgovarali pamtimo toga čoveka; neka ga pamte i naša deca i učenici, i nastavimo da jedni drugima prenosimo njegove reči. Neka Tales bude početak svakog našeg razgovora.",
+    "stsl": "Анаѯіменъ Пѵѳагорѣ · Ѳалесъ · сꙑнъ Еѯаміевъ · въ старости несрѣтьно сконьча сѧ · Єдиноѭ вечеромъ · ꙗкоже обꙑчаи имѣаше · съ слѹжьницеѭ изъ двора изиде звѣздꙑ зрѣти · Зрѧ же ꙗ и не помьнѧ къдѣ єсть · къ краю стръмьнины прииде и паде · Тако Милетꙗне своего звѣздочѧтьца лишишѧ сѧ · Мꙑ же иже съ нимь бесѣдовахомъ · мѫжа того поминаимъ · и чѧда наша и ѹченици да поминаѭть єго · и словеса єго дрѹгъ дрѹгѹ прѣдаваимъ · Начѧло вьсѣкомѹ словѹ Ѳалесъ да бѫдеть ·",
+    "originalText": "Ἀναξιμένης Πυθαγόρῃ. Θαλῆς Ἐξαμύου ἐπὶ γήρως οὐκ εὔποτμος οἴχεται· εὐφρόνης, ὥσπερ ἐώθει, ἅμα τῇ ἀμφιπόλῳ προϊὼν ἐκ τοῦ αὐλίου τὰ ἄστρα ἐθηεῖτο· καὶ — οὐ γὰρ ἐς μνήμην ἔθετο — θηεύμενος ἐς τὸ κρημνῶδες ἐκβὰς καταπίπτει. Μιλησίοισι μέν νυν ὁ αἰθερολόγος ἐν τοιῷδε κεῖται τέλει. Ἡμέες δὲ οἱ λεσχηνῶται αὐτοί τε μεμνώμεθα τοῦ ἀνδρός, οἵ τε ἡμέων παῖδές τε καὶ λεσχηνῶται, ἐπιδεξιοίμεθα δ' ἔτι τοῖς ἐκείνου λόγοις. Ἀρχὴ μέντοι παντὸς τοῦ λόγου Θαλῇ ἀνακείσθω.",
+    "author": ["Anaximenes", "Pythagoras", "Thales"],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -109,37 +109,11 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Milet nikada nije bez tirana.",
-    "stsl": "Мілєтъ николи же безъ тиранъ ·",
-    "originalText": "Μιλησίους οὐκ ἐπιλείπουσι αἰσυμνῆται.",
-    "author": "Anaximenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.5"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Jonjani su pred ratom sa Medima radi zajedničke slobode.",
-    "stsl": "Іонѧнє прѣдъ бранью сѫ съ Мидꙑ ради общѧ свободы ·",
-    "originalText": "μέλλουσι δὴ ἀμφὶ τῆς ἐλευθερίης ἁπάντων Ἴωνες Μήδοις κατίστασθαι ἐς πόλεμον.",
-    "author": "Anaximenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.5"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Kako da proučavam nebesa dok mi prete propast ili ropstvo?",
-    "stsl": "Како да испытаю небеса · донде же погибель или рабьство ми грозитъ ·",
-    "originalText": "Κῶς ἂν οὖν Ἀναξιμένης ἐν θυμῷ ἔτι ἔχοι αἰθερολογέειν, ἐν δείματι ἐὼν ὀλέθρου ἢ δουλοσύνης;",
-    "author": "Anaximenes",
+    "type": "letter",
+    "sr": "Anaksimen Pitagori. Mudrije si postupio od svih nas kada si se preselio sa Samosa u Kroton, gde živiš u miru. Eakovi sinovi neprestano čine zlo, a Milet nikada nije bez tirana. Plaši nas i kralj Međana, osim dok pristajemo da plaćamo danak. Ali Jonjani će zaratiti s Međanima za slobodu svih; kada rat počne, više nam nema nade u spas. Kako onda Anaksimen još može misliti na proučavanje nebesja dok mu prete propast ili ropstvo? Ti si pak omiljen Krotonjanima i ostalim Helenima u Italiji, a učenici ti dolaze čak i sa Sicilije.",
+    "stsl": "Анаѯіменъ Пѵѳагорѣ · Мѫдрѣе насъ сътвори · отъ Самоса въ Кротонъ прѣселивъ сѧ · идѣже въ мирѣ живеши · Еакова чѧда присно зло творѧть · Милетъ же николи же безъ тѵранъ нѣсть · Страшенъ намъ и царь Мидьскъ · развѣ дондеже дань давати хощемъ · Нъ Іонꙗне съ Мидꙑ на рать въстанѫть ради волѧ вьсѣхъ · рати же наставъши · не бѫдеть намъ ѹже надежда спасеніꙗ · Како ѹбо Анаѯіменъ небєсьє испытовати еще можеть · погибели ли рабьства боѧ сѧ · Тꙑ же Кротонꙗномъ любъ єси · и прочиимъ Єллиномъ въ Італіи · и ѹченици къ тебѣ даже отъ Сікеліи приходѧть ·",
+    "originalText": "Ἀναξιμένης Πυθαγόρῃ. Εὐβουλότατος ἦς ἡμέων, μεταναστὰς ἐκ Σάμου ἐς Κρότωνα, ἐνθάδε εἰρηνέεις. Οἱ δὲ Αἰακέος παῖδες ἄλαστα κακὰ ἔρδουσι καὶ Μιλησίους οὐκ ἐπιλείπουσι αἰσυμνῆται. Δεινὸς δὲ ἡμῖν καὶ ὁ Μήδων βασιλεύς, οὐκ ἤν γε ἐθέλωμεν δασμοφορέειν· ἀλλὰ μέλλουσι δὴ ἀμφὶ τῆς ἐλευθερίης ἁπάντων Ἴωνες Μήδοις κατίστασθαι ἐς πόλεμον· καταστᾶσι δὲ οὐκέτι ἐλπὶς ἡμῖν σωτηρίης. Κῶς ἂν οὖν Ἀναξιμένης ἐν θυμῷ ἔτι ἔχοι αἰθερολογέειν, ἐν δείματι ἐὼν ὀλέθρου ἢ δουλοσύνης; σὺ δὲ εἶ καταθύμιος μὲν Κροτωνιήτῃσι, καταθύμιος δὲ καὶ τοῖσι ἄλλοισι Ἰταλιώτῃσι· φοιτέουσι δέ τοι λεσχηνῶται καὶ ἐκ Σικελίης.",
+    "author": ["Anaximenes", "Pythagoras"],
     "sources": [
       {
         "name": "diogenes-laertius",
