@@ -2,8 +2,8 @@
   {
     "type": "bio",
     "year": -610,
-    "sr": "Anaksimander, sin Praksijada, Milećanin.",
-    "stsl": "Анаксимандръ Праксіады Милетꙗнинъ ·",
+    "sr": "Anaksimander, sin Praksijadov, Milećanin.",
+    "stsl": "Анаксимандръ · сꙑнъ Праксіадовъ · Милетꙗнинъ ·",
     "originalText": "Ἀναξίμανδρος Πραξιάδου Μιλήσιος.",
     "author": "Anaximander",
     "sources": [
@@ -16,8 +16,8 @@
   {
     "type": "bio",
     "year": -590,
-    "sr": "Talesov učenik Anaksimander.",
-    "stsl": "Фалесовъ бо ѹченикъ Анаксимандръ ·",
+    "sr": "Anaksimander je bio Talesov učenik.",
+    "stsl": "Анаксимандръ Фалесовъ ѹченикъ бѣ ·",
     "originalText": "Θαλοῦ μὲν γὰρ Ἀναξίμανδρος.",
     "author": "Anaximander",
     "sources": [
@@ -28,24 +28,10 @@
     ]
   },
   {
-    "type": "bio",
-    "year": -547,
-    "sr": "Kaže se da je u Letopisima navedeno kako je u drugoj godini pedeset osme olimpijade imao šezdeset četiri godine, i ubrzo zatim preminuo, cvetavši najviše za vreme Polikrata, tiranina Samosa.",
-    "stsl": "Глаголєть же ꙗко въ Лѣтописьцихъ · во второмъ лѣтѣ пѧтьдесѧтыѩ и осмыѩ Ѡлѵмпіады бѣ шестьдесѧть четыри лѣта · и вскорѣ потъомь прѣстави сѧ · процвѣтѧвъ паче вьсего при Поликратѣ тѹраннѣ Самьсцѣмь ·",
-    "originalText": "Καί φησίν αὐτὸν ἐν τοῖς Χρονικοῖς τῷ δευτέρῳ ἔτει τῆς πεντηκοστῆς ὀγδόης Ὀλυμπιάδος ἐτῶν εἶναι ἑξήκοντα τεττάρων καὶ μετ' ὀλίγον τελευτῆσαι ἀκμάσαντά πη μάλιστα κατὰ Πολυκράτην τὸν Σάμου τύραννον.",
-    "author": "Anaximander",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.2"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Počelo i prvina je beskrajno.",
-    "stsl": "Начѧло и първина безмѣрьноє ·",
-    "originalText": "ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον.",
+    "type": "reported",
+    "sr": "Govorio je da je beskrajno počelo i prvina, ne određujući ga kao vazduh, vodu ili bilo šta drugo.",
+    "stsl": "Глаголааше ꙗко безмѣрьноє начѧло и първина єсть · не опрѣдѣлѧ єго ни въздѹхомъ ни водоѭ ни инѣмъ чимь ·",
+    "originalText": "οὗτος ἔφασκεν ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον, οὐ διορίζων ἀέρα ἢ ὕδωρ ἢ ἄλλο τι.",
     "author": "Anaximander",
     "sources": [
       {
@@ -56,8 +42,8 @@
   },
   {
     "type": "reported",
-    "sr": "Delovi se menjaju, celina ostaje nepromenjena.",
-    "stsl": "Чѧсти прѣмѣнѧѭть сѧ · вьсѧ же непрѣмѣнно ·",
+    "sr": "Govorio je da se delovi menjaju, a celina ostaje nepromenjena.",
+    "stsl": "Глаголааше ꙗко чѧсти прѣмѣнѧѭть сѧ · вьсѧ же непрѣмѣнно прѣбꙑваєть ·",
     "originalText": "καὶ τὰ μὲν μέρη μεταβάλλειν, τὸ δὲ πᾶν ἀμετάβλητον εἶναι.",
     "author": "Anaximander",
     "sources": [
@@ -68,9 +54,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Zemlja leži u središtu, zauzimajući središnje mesto, i okrugla je.",
-    "stsl": "Посредѣ ꙁємлꙗ лежить · срѣдищьно мѣсто имѫщи · окрѫгла сѫщи ·",
+    "type": "reported",
+    "sr": "Govorio je da Zemlja leži u sredini, zauzimajući mesto središta, i da je kuglastog oblika.",
+    "stsl": "Глаголааше ꙗко землꙗ посредѣ лежить · срѣдищьно мѣсто имѫщи · и окрѫгла єсть ·",
     "originalText": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
     "author": "Anaximander",
     "sources": [
@@ -81,9 +67,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Mesec je lažnosvetao, jer se od Sunca prosvetljava.",
-    "stsl": "Мѣсѧць лъжесвѣтенъ · Отъ съльньца бо просвѣщаєть сѧ ·",
+    "type": "reported",
+    "sr": "Govorio je da Mesec svetli tuđom svetlošću, jer ga osvetljava Sunce.",
+    "stsl": "Глаголааше ꙗко мѣсѧць не своимъ свѣтомъ свѣтить · отъ слъньца бо просвѣщаєть сѧ ·",
     "originalText": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
     "author": "Anaximander",
     "sources": [
@@ -94,10 +80,10 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Sunce nije manje od Zemlje, i prečista je vatra.",
-    "stsl": "Съльньце не меньше ꙁємлѧ · прѣчистъ же огнь ·",
-    "originalText": "τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
+    "type": "reported",
+    "sr": "Govorio je da Sunce nije manje od Zemlje i da je najčistija vatra.",
+    "stsl": "Глаголааше ꙗко слъньце не мьньше землѧ єсть · и огнь прѣчистъ єсть ·",
+    "originalText": "ἀλλὰ καὶ τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
     "author": "Anaximander",
     "sources": [
       {
@@ -108,25 +94,66 @@
   },
   {
     "type": "bio",
-    "sr": "Prvi je otkrio sunčanik i postavio ga na sunčanicima u Lakedemonu, kako kaže Favorin u Različnoj povesti, da obeležava obrate i ravnodnevice; načinio je i časomere.",
-    "stsl": "Обрѣте же и съльньчьникъ първъ · и постави на сѣноловищихъ въ Лакедемонѣ · ꙗкоже глаголєть Фаворинъ въ Різличьнѣмь повѣсти · ꙁнаменаѭща повратꙑ и равноденьѥ · и часомѣры сътвори ·",
-    "originalText": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τροπάς τε καὶ ἰσημερίας σημαίνοντα· καὶ ὡροσκόπια κατεσκεύασε.",
-    "author": "Anaximander",
-    "year": -575,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.1"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "author": "Anaximander",
     "year": -578,
-    "sr": "Prvi je nacrtao obim zemlje i mora, i načinio loptu.",
-    "stsl": "И ꙁємлѧ и морѧ обимѣръ първъ начрьта · лопъту же сътвори ·",
+    "sr": "Prvi je nacrtao obris zemlje i mora, a načinio je i nebesku kuglu.",
+    "stsl": "Землѧ и морѧ обимѣръ пръвъ начрьта · и небесьнѫ лопътѫ сътвори ·",
     "originalText": "Καὶ γῆς καὶ θαλάσσης περίμετρον πρῶτος ἔγραψεν, ἀλλὰ καὶ σφαῖραν κατεσκεύασε.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.2"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -575,
+    "sr": "Prvi je načinio gnomon i postavio ga na spravu za merenje senke u Lakedemonu, kako kaže Favorin u Različnoj povesti, da označava solsticije i ravnodnevice; načinio je i časovnike.",
+    "stsl": "Пръвъ съльньцекаꙁатель сътвори · и на сѣномѣрѣ въ Лакедемонѣ постави · ꙗкоже глаголеть Фаворинъ въ Раꙁличьнѣи повѣсти · да повратꙑ и равноденьѩ ꙁнакоуєть · и часомѣрꙑ сътвори ·",
+    "originalText": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τρόπός τε καὶ ἰσημερίας σημαίνοντα, καὶ ὡροσκοπεῖα κατεσκεύασε.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.1"
+      }
+    ]
+  },
+  {
+    "type": "works",
+    "sr": "Sastavio je sažeto izlaganje svojih učenja, koje je dospelo i do Apolodora Atinjanina.",
+    "stsl": "Кратъко изъложеніє своихъ ѹчєнии сътвори · єже и Аполодоръ Аѳінꙗнинъ имѣ ·",
+    "originalText": "Τῶν δὲ ἀρεσκόντων αὐτῷ πεποίηται κεφαλαιώδη τὴν ἔκθεσιν, ᾗ που περιέτυχεν καὶ Ἀπολλόδωρος ὁ Ἀθηναῖος.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.2"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -547,
+    "sr": "Apolodor u Letopisima kaže da je u drugoj godini pedeset osme olimpijade imao šezdeset četiri godine.",
+    "stsl": "Аполодоръ въ Лѣтописьцихъ глаголеть · ꙗко во второмъ лѣтѣ пѧтьдесѧтыѩ и осмыѩ олимпіадꙑ шестьдесѧть чєтꙑри лѣта имѣаше ·",
+    "originalText": "ὃς καί φησιν αὐτὸν ἐν τοῖς Χρονικοῖς τῷ δευτέρῳ ἔτει τῆς πεντηκοστῆς ὀγδόης Ὀλυμπιάδος ἐτῶν εἶναι ἑξήκοντα τεττάρων.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.2"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -546,
+    "sr": "Ubrzo potom je umro. Diogen dodaje da je bio na vrhuncu približno u vreme Polikrata, tiranina Samosa.",
+    "stsl": "Въскорѣ потомъ ѹмрѣ · Діогенъ же прилагаєть ꙗко около врѣмени Поликрата · тѹрана Самосьскаго · процвѣтѣ ·",
+    "originalText": "καὶ μετ' ὀλίγον τελευτῆσαι, ἀκμάσαντά πη μάλιστα κατὰ Πολυκράτην τὸν Σάμου τύραννον.",
+    "author": "Anaximander",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -136,11 +163,11 @@
   },
   {
     "type": "anecdote",
-    "sr": "Kažu da su mu se dečaci podsmevali kad je pevao, a on, razumevši, reče: Bolje nam onda pevati zbog dečaka.",
-    "stsl": "Сего глаголѭтъ пѣѭща посмѣꙗхѹ сѧ отърокꙑ · онъ же разѹмѣвъ рече · Лѹче ѹбо намъ пѣти рада отърокъ ·",
-    "originalText": "τούτου φασὶν ᾄδοντος καταγελάσαι τὰ παιδάρια, τὸν δὲ μαθόντα φάναι, « βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια. »",
-    "author": "Anaximander",
     "year": -560,
+    "sr": "Kažu da su mu se dečaci podsmevali dok je pevao. Kada je to saznao, rekao je: Onda moramo bolje pevati zbog dečaka.",
+    "stsl": "Глаголѭть ꙗко пѣѭштѹ ємѹ отроци посмѣꙗхѫ сѧ · Онъ же ѹвѣдѣвъ рече · Лѹчьше ѹбо намъ пѣти подобаѥть ради отрокъ ·",
+    "originalText": "τούτου φασὶν ᾄδοντος καταγελάσαι τὰ παιδάρια, τὸν δὲ μαθόντα φάναι, «βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια.»",
+    "author": "Anaximander",
     "sources": [
       {
         "name": "diogenes-laertius",
