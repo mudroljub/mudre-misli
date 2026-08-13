@@ -22,6 +22,11 @@ npm start
 
 Aktuelni redosled poslova i otvorene odluke nalaze se u [TODO.md](TODO.md).
 
+- proveriti oblike jestenje, suštije?
+    | οὐσία             | сѫщьство (alt: имѣніє)                | suštastvo (alt: imovina)        |
+- prevesti predmet
+- ἐντελέχεια
+
 ## Izvori
 
 Online izvori:
