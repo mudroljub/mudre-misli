@@ -60,11 +60,11 @@ export default function AuthorPageClient({
   );
 
   const works = authorEntries.filter(
-    (entry): entry is Writing => entry.type === "works" && !isCrossReference(entry),
+    (entry): entry is Writing => entry.type === "works",
   );
 
   const letters = authorEntries.filter(
-    (entry): entry is Letter => entry.type === "letter" && !isCrossReference(entry),
+    (entry): entry is Letter => entry.type === "letter",
   );
 
   return (
