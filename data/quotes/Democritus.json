@@ -2,8 +2,8 @@
   {
     "type": "bio",
     "year": -465,
-    "sr": "Rođen u Abderi.",
-    "stsl": "Демокритъ Хегесистратовъ Абдерꙗнинъ бѣ.",
+    "sr": "Demokrit iz Abdere, sin Hegesistratov; po drugima Atenokritov, a po nekima Damasipov.",
+    "stsl": "Демокритъ Абдерꙗнинъ · сынъ Хегесистратовъ · по дрѹгыхъ же Аѳенокритовъ · по нѣкыихъ Дамасипповъ ·",
     "originalText": "Δημόκριτος Ἡγησιστράτου, οἱ δὲ Ἀθηνοκρίτου, τινὲς Δαμασίππου Ἀβδηρίτης.",
     "author": "Democritus",
     "sources": [
@@ -16,8 +16,8 @@
   {
     "type": "bio",
     "year": -455,
-    "sr": "Još dečak, učio teologiju i astronomiju od maga i Haldejaca koje je Kserkse ostavio kod njegovog oca.",
-    "stsl": "Єштє отърокъ · ѳеологіѭ и астрономіѭ отъ маговъ и Халдѣи · ихже Ксерксъ при отъьци єго остави · наѹчи сѧ.",
+    "sr": "Još kao dečak učio je o bogovima i zvezdama od maga i Haldejaca koje je kralj Kserkse ostavio kod njegova oca.",
+    "stsl": "Єште отрокъ · о бозѣхъ и звѣздахъ отъ влъхвъ и Халдѣи ѹчи сѧ · ихъже царь Ксерксъ при отьци єго остави ·",
     "originalText": "Μάγων τε καὶ Χαλδαίων, οὓς ὁ βασιλεὺς Ξέρξης τῷ πατρὶ αὐτοῦ ξενισθέντι κατέλιπε· παρ' ὧν ἔτι παῖς ὢν τά τε θεολογικὰ καὶ ἀστρολογικὰ παιδεύεται.",
     "author": "Democritus",
     "sources": [
@@ -30,8 +30,8 @@
   {
     "type": "bio",
     "year": -450,
-    "sr": "Učenik Leukipa; po nekima, slušao Anaksagoru, četrdeset godina mlađi od njega.",
-    "stsl": "Оученикъ Леѵкіппа · по нѣкіимъ · Анаксагорꙋ слꙑшааше · четыредесѧтъ лѣтъ мьнии отъ него.",
+    "sr": "Bio je Leukipov učenik; po nekima je slušao i Anaksagoru, od koga je bio četrdeset godina mlađi.",
+    "stsl": "Леѷкипповъ ѹченикъ бѣ · по нѣкыихъ же и Анаксагорѫ слꙑшааше · четырьдесѧть лѣтъ мьнии єго бꙑвъ ·",
     "originalText": "Ὕστερον δὲ Λευκίππου γίνεται· οἱ δέ φασι καὶ Ἀναξαγόρου, τεσσαράκοντα ἔτη νεώτερος αὐτοῦ ὤν.",
     "author": "Democritus",
     "sources": [
@@ -44,8 +44,8 @@
   {
     "type": "bio",
     "year": -440,
-    "sr": "Primio nasledstvo od preko sto talenata i sve potrošio na putovanja radi učenja.",
-    "stsl": "Наслѣдиє отъ ста талантъ приѩтъ и все на пѫтешествіꙗ ѹчениꙗ ради истрати.",
+    "sr": "Pri deobi nasledstva kao mlađem pripalo mu je više od sto talenata; sve ih je potrošio.",
+    "stsl": "При раздѣленіи наслѣдиꙗ · ꙗко мьнѣишемѹ · паче ста талантъ ємѹ доста сѧ · и вьсѧ истрати ·",
     "originalText": "Ὑπάρξαι μέντοι τῷ νεωτέρῳ ἐν τῇ διαιρέσει τὰ χρήματα πλεῖον ἢ ἑκατὸν τάλαντα, ἃ καὶ ἀνηλῶσθαι πάντα.",
     "author": "Democritus",
     "sources": [
@@ -57,8 +57,8 @@
   },
   {
     "type": "works",
-    "sr": "Napisao spis Mali poredak sveta 730 godina posle pada Troje.",
-    "stsl": "Списа Малыи порѧдокъ міра седмь сотъ и тридесѧть лѣтъ по падении Троꙗ написа.",
+    "sr": "Mali ustroj napisao je sedam stotina i trideset godina posle pada Troje.",
+    "stsl": "Малыи строи седмь сотъ и тридесѧть лѣтъ по падении Троꙗ написа ·",
     "originalText": "Τὸν Μικρὸν διάκοσμον συντετάχθαι αὐτῷ ἑπτακοσίῳ τριακοστῷ ἔτει μετὰ Ἰλίου ἅλωσιν.",
     "author": "Democritus",
     "sources": [
@@ -71,8 +71,8 @@
   {
     "type": "bio",
     "year": -420,
-    "sr": "Bio savremenik Parmenida, Zenona i Protagore.",
-    "stsl": "Съвремьникъ Парменида · Зенона и Протъагоры бѣ.",
+    "sr": "Bio je savremenik Enopida, Parmenida i Zenona, a poznavao je i Protagoru iz Abdere.",
+    "stsl": "Съвременьникъ Енопида · Парменида и Зенона бѣ · Протагора же Абдерꙗнина знааше ·",
     "originalText": "Ἐπιβάλλει δὲ τοῖς περὶ Οἰνοπίδην καὶ Παρμενίδην καὶ Ζήνωνα· εἴδη δὲ καὶ Πρωταγόραν τὸν Ἀβδηρίτην.",
     "author": "Democritus",
     "sources": [
@@ -85,8 +85,8 @@
   {
     "type": "bio",
     "year": -410,
-    "sr": "Po povratku osiromašio; da izbegne zakon koji rasipnicima očevine uskraćuje sahranu u zavičaju, pročitao građanima spis Veliki poredak sveta.",
-    "stsl": "По възвраштеніи обнища · да закона · иже расточителємъ отъьчинꙑ погребениє въ отъечьствѣ възбранѧєтъ · избѣгнеть · гражданомъ списъ Великіи порѧдокъ міра прочьте.",
+    "sr": "Vrativši se u otadžbinu kao siromah, živeo je kod brata Damasa. Pošto zakon nije dopuštao da u zavičaju bude sahranjen onaj ko je rasuo očevinu, pročitao je građanima Veliki ustroj.",
+    "stsl": "Възвративъ сѧ въ отьчьство нищь · при братѣ Дамасѣ живѣаше · Понеже законъ расточивъшаго отьчьство въ своемь градѣ погребсти не дааше · гражданомъ Великии строи прочьте ·",
     "originalText": "Κατελθὼν δ' ἐπὶ τὴν πατρίδα ἤδη πένης ὑπελαμβάνετο ὑπὸ Δαμάσου τοῦ ἀδελφοῦ· νόμον τε ὄντα μηδένα τῶν τὰ πατρῷα ἀναλωσάντων κηδεύεσθαι ἐν πατρίδι, ἀναγνῶναι τὸν Μέγαν διάκοσμον αὐτοῖς.",
     "author": "Democritus",
     "sources": [
@@ -99,8 +99,8 @@
   {
     "type": "bio",
     "year": -400,
-    "sr": "Počašćen sa pet stotina talenata i bronzanim kipovima; sahranjen o javnom trošku.",
-    "stsl": "Пꙗтию сты талантꙑ и мѣдѣнꙑми кипꙑ почтенъ бысть · о общественѣмь иждивении погребенъ.",
+    "sr": "Građani ga počastvovaše sa pet stotina talenata i bronzanim kipovima, a sahraniše ga o javnom trošku.",
+    "stsl": "Граждане пѧтию сты талантъ и мѣдѣными образꙑ єго почьтѫ · и обще погребошѧ ·",
     "originalText": "Τιμηθῆναί τε αὐτὸν πεντακοσίοις ταλάντοις καὶ χαλκαῖς εἰκόσι καὶ δημοσίᾳ ταφῆναι.",
     "author": "Democritus",
     "sources": [
@@ -113,8 +113,8 @@
   {
     "type": "bio",
     "year": -370,
-    "sr": "Umro u starosti od preko sto godina.",
-    "stsl": "Въ старости отъ ста лѣтъ ѹмрѣ.",
+    "sr": "Umro je pošto je poživeo više od sto godina.",
+    "stsl": "Ѹмрѣ · паче ста лѣтъ поживъ ·",
     "originalText": "Ἐτελεύτησε δὲ βιοὺς ἔτη πλεῖον τῶν ἑκατόν.",
     "author": "Democritus",
     "sources": [
@@ -126,8 +126,8 @@
   },
   {
     "type": "reported",
-    "sr": "Demokrit je govorio da Anaksagorova mišljenja o Suncu i Mesecu nisu nova, nego drevna, i da ih je prisvojio.",
-    "stsl": "Демокритъ глаголаше · ꙗко Анаксагорова мьнѣниꙗ о слъньци и лѹнѣ не нова · нъ дрѣвьнѧ сѫть · и ꙗко ꙗ присвои ·",
+    "sr": "Demokrit je govorio da Anaksagorova učenja o Suncu i Mesecu nisu njegova, nego drevna, i da ih je prisvojio.",
+    "stsl": "Демокритъ глаголаше · ꙗко Анаксагорова ѹчениꙗ о слъньци и мѣсѧци не єго сѫть · нъ дрѣвьнꙗ · и ꙗко ꙗ присвои ·",
     "originalText": "λέγειν Δημόκριτον περὶ Ἀναξαγόρου ὡς οὐκ εἴησαν αὐτοῦ αἱ δόξαι αἵ τε περὶ ἡλίου καὶ σελήνης, ἀλλὰ ἀρχαῖαι, τὸν δ' ὑφῃρῆσθαι.",
     "author": "Democritus",
     "sources": [
@@ -139,8 +139,8 @@
   },
   {
     "type": "reported",
-    "sr": "Demokrit je govorio: Došao sam u Atinu i niko me nije poznavao.",
-    "stsl": "Демокритъ глаголаше · Придохъ въ Атины · и никтоже мене позна ·",
+    "sr": "Dođoh u Atinu i niko me ne poznade.",
+    "stsl": "Придохъ въ Аѳины · и никтоже мене позна ·",
     "originalText": "ἦλθον γάρ, φησίν, εἰς Ἀθήνας καὶ οὔτις με ἔγνωκεν.",
     "author": "Democritus",
     "sources": [
@@ -164,9 +164,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Prva načela sveukupnosti jesu atomi i prazan prostor; za sve ostalo se samo misli da postoji.",
-    "stsl": "Пьрва начѧла вьсецѣлаго сѫть недѣлима тѣлеса и празно мѣсто · прочаꙗ же вьсѧ тъкмо мьнима сѫть ·",
+    "type": "reported",
+    "sr": "Načela svega jesu atomi i praznina; za sve ostalo samo se mnije da postoji.",
+    "stsl": "Начѧла вьсѣхъ сѫть недѣлима и праздьно · прочаꙗ же вьсѧ тъкмо мьнима сѫть ·",
     "originalText": "ἀρχὰς εἶναι τῶν ὅλων ἀτόμους καὶ κενόν, τὰ δ' ἄλλα πάντα νενομίσθαι.",
     "author": "Democritus",
     "sources": [
@@ -177,9 +177,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Ustroja ima bezbroj; oni nastaju i propadaju.",
-    "stsl": "Строєвъ безчисльни сѫть · бываѭть и тлѣѭть ·",
+    "type": "reported",
+    "sr": "Svetova ima bezbroj; oni nastaju i propadaju.",
+    "stsl": "Міровъ безчисльно єсть · раждаѭть сѧ и тлѣѭть ·",
     "originalText": "ἀπείρους τε εἶναι κόσμους καὶ γενητοὺς καὶ φθαρτούς.",
     "author": "Democritus",
     "sources": [
@@ -190,9 +190,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Ništa se ne rađa iz nebića niti propada u nebiće.",
-    "stsl": "Ничтоже отъ несѫштаго не родить сѧ · ни въ несѫштеє тлѣєть ·",
+    "type": "reported",
+    "sr": "Ništa ne nastaje iz ne-bića niti propada u ne-biće.",
+    "stsl": "Ничьтоже отъ несѫштаго не бываєть · ни въ несѫштеє тлѣєть ·",
     "originalText": "μηδέν τε ἐκ τοῦ μὴ ὄντος γίνεσθαι μηδὲ εἰς τὸ μὴ ὂν φθείρεσθαι.",
     "author": "Democritus",
     "sources": [
@@ -203,9 +203,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Atomi su beskrajni po veličini i broju. Nošeni vrtlogom kroz sveukupnost, oni stvaraju sve složene stvari — vatru, vodu, vazduh i zemlju. Zbog svoje čvrstine ne trpe promene.",
-    "stsl": "Недѣлима тѣлеса величиною и числомъ безмѣрьна сѫть · Вихрємъ по вьсецѣломѹ носима · вьсѧ сложенаꙗ раждаѭть · огнь · водꙫ · въздѹхъ и землѭ · Твръдости ради прѣмѣны не приємлѭть ·",
+    "type": "reported",
+    "sr": "Atomi su bezmerni po veličini i broju. Vrtložeći se kroz celinu, obrazuju sve složene stvari: oganj, vodu, vazduh i zemlju. I one su sklopovi određenih atoma, a sami atomi zbog svoje čvrstine ne trpe ništa i ne menjaju se.",
+    "stsl": "Недѣлима величиною и числомъ безмѣрьна сѫть · по вьсецѣломѹ вихрѧшта сѧ · вьсѧ сложенаꙗ съставлѧѭть · огнь · водѫ · въздѹхъ и землѭ · И си отъ нѣкыихъ недѣлимыхъ състави сѫть · сама же недѣлима твръдости ради ничьтоже страждѫть ни прѣмѣнѧѭть сѧ ·",
     "originalText": "τὰς ἀτόμους δὲ ἀπείρους εἶναι κατὰ μέγεθος καὶ πλῆθος, φέρεσθαι δ' ἐν τῷ ὅλῳ δινουμένας· καὶ οὕτω πάντα τὰ συγκρίματα γεννᾶν, πῦρ, ὕδωρ, ἀέρα, γῆν· εἶναι γὰρ καὶ ταῦτα ἐξ ἀτόμων τινῶν συστήματα· ἅπερ εἶναι ἀπαθῆ καὶ ἀναλλοίωτα διὰ τὴν στερρότητα.",
     "author": "Democritus",
     "sources": [
@@ -216,9 +216,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Sunce i Mesec sastavljeni su od glatkih i kuglastih atoma, a isto tako i duša, koja je jedno te isto što i um.",
-    "stsl": "Слъньце и мѣсѧць отъ гладъкыихъ и крѹглообразныихъ недѣлимыхъ тѣлесъ съставлена сѫть · такожде и дѹша · ꙗже єдино съ ѹмомъ єсть ·",
+    "type": "reported",
+    "sr": "Sunce i Mesec sastavljeni su od takvih glatkih i okruglih tela; tako i duša, koja je isto što i um.",
+    "stsl": "Слъньце и мѣсѧць отъ таковыхъ гладъкыихъ и окрѫглыхъ тѣлесъ съставлена сѫть · такожде и дѹша · ꙗже съ ѹмомъ єдино єсть ·",
     "originalText": "τὸν τε ἥλιον καὶ τὴν σελήνην ἐκ τοιούτων λείων καὶ περιφερῶν ὄγκων συγκεκρίσθαι, καὶ τὴν ψυχὴν ὁμοίως· ἣν καὶ νοῦν ταὐτὸν εἶναι.",
     "author": "Democritus",
     "sources": [
@@ -229,9 +229,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Vidimo kada slike stvari udaraju u naše oči.",
-    "stsl": "Видимъ · єгда образы вештии въ очи наша въпадаѭть ·",
+    "type": "reported",
+    "sr": "Vidimo kada u nas prodiru slike stvari.",
+    "stsl": "Видимъ · єгда образы вештии въ ны въпадаѭть ·",
     "originalText": "ὁρᾶν δ' ἡμᾶς κατ' εἰδώλων ἐμπτώσεις.",
     "author": "Democritus",
     "sources": [
@@ -242,9 +242,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Sve se po nuždi rađa. Vrtlog je uzrok rođenja svega, i on sam nuždom naziva se.",
-    "stsl": "Вьсѧ по нѫжди родѧть сѧ · вихрь причина роженіꙗ вьсѣхъ єсть · и тъ самъ нѫжда нарицаєть сѧ ·",
+    "type": "reported",
+    "sr": "Sve nastaje po nuždi; vrtlog je uzrok nastanka svega, i njega naziva nuždom.",
+    "stsl": "Вьсѧ по нѫжди бываѭть · вихрь же причина бытиꙗ вьсѣхъ єсть · єго же нѫждою нарицаєть ·",
     "originalText": "πάντα τε κατ' ἀνάγκην γίνεσθαι, τῆς δίνης αἰτίας οὔσης τῆς γενέσεως πάντων, ἣν ἀνάγκην λέγει.",
     "author": "Democritus",
     "sources": [
@@ -255,9 +255,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Cilj je duševna vedrina. Ona nije isto što i uživanje, nego stanje u kojem duša prebiva mirna i postojana, neuznemirena strahom, sujeverjem ili bilo kojom drugom strašću.",
-    "stsl": "Цѣль єсть благодѹшиє · Не єсть то сластъ · нъ състоꙗніє · въ немьже дѹша тиха и твръда прѣбываєть · не смѫштаєма страхомъ · сѹєвѣриємъ или иною страстию ·",
+    "type": "reported",
+    "sr": "Cilj je blagodušje. Ono nije isto što i uživanje, nego stanje u kojem duša živi spokojno i postojano, neuznemirena nikakvim strahom ni sujeverjem.",
+    "stsl": "Цѣль благодѹшиє єсть · Не тожде єсть съ сластию · нъ състоꙗніє · въ немьже дѹша тихо и твръдо живеть · ни страхомъ ни сѹєвѣриємъ смѫштаєма ·",
     "originalText": "τέλος δ' εἶναι τὴν εὐθυμίαν, οὐ τὴν αὐτὴν οὖσαν τῇ ἡδονῇ, ἀλλὰ καθ' ἣν γαληνῶς καὶ εὐσταθῶς ἡ ψυχὴ διάγει, ὑπὸ μηδενὸς ταραττομένη φόβου ἢ δεισιδαιμονίας.",
     "author": "Democritus",
     "sources": [
@@ -268,9 +268,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Po dogovoru je toplo, po dogovoru hladno; uistinu postoje atomi i prazan prostor.",
-    "stsl": "По законѹ топло · по законѹ стѹдено · въ истинѫ сѫть недѣлима тѣлеса и празно мѣсто ·",
+    "type": "reported",
+    "sr": "Po običaju toplo, po običaju hladno; uistinu atomi i praznina.",
+    "stsl": "По обычаю тепло · по обычаю стѹдено · по истинѣ же недѣлима и праздьно ·",
     "originalText": "νόμῳ θερμόν, νόμῳ ψυχρόν, ἐτεῇ δὲ ἄτομα καὶ κενόν.",
     "author": "Democritus",
     "sources": [
@@ -282,8 +282,8 @@
   },
   {
     "type": "quote",
-    "sr": "Uistinu ništa ne znamo, jer istina je u dubini.",
-    "stsl": "Въ истинѫ ничтоже вѣмы · ибо истина въ глѫбинѣ єсть ·",
+    "sr": "Uistinu ništa ne znamo; jer istina je u dubini.",
+    "stsl": "По истинѣ ничьтоже вѣмы · истина бо въ глѫбинѣ єсть ·",
     "originalText": "ἐτεῇ δὲ οὐδὲν ἴδμεν· ἐν βυθῷ γὰρ ἡ ἀλήθεια.",
     "author": "Democritus",
     "sources": [
@@ -294,9 +294,9 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Demokrit je govorio da nijedna pojava ne može biti merilo istine; poricao je čak i samo postojanje pojave.",
-    "stsl": "Демокритъ глаголаше · ꙗко ни єдино ꙗвлєніє мѣра истины быти не можеть · и само бытиє ꙗвлєниꙗ отъмѣтааше ·",
+    "type": "mention",
+    "sr": "Demokrit odbacuje pojave i kaže da se ništa ne pojavljuje po istini, nego samo po mnenju.",
+    "stsl": "Демокритъ ꙗвлєниꙗ отъмѣтаєть · и глаголєть · ꙗко ничьтоже по истинѣ ꙗвлѧєть сѧ · нъ тъкмо по мьнѣнию ·",
     "originalText": "Δημόκριτος ἀναιρεῖ τὰ φαινόμενα καὶ φησὶ μηδὲν φαίνεσθαι κατ' ἀλήθειαν, ἀλλὰ κατὰ δόξαν μόνον.",
     "author": "Democritus",
     "sources": [
@@ -307,9 +307,74 @@
     ]
   },
   {
+    "type": "quote",
+    "sr": "Po običaju slatko, po običaju gorko, po običaju toplo, po običaju hladno, po običaju boja; uistinu atomi i praznina.",
+    "stsl": "По обычаю сладъко · по обычаю горько · по обычаю тепло · по обычаю стѹдено · по обычаю цвѣтъ · по истинѣ же недѣлима и праздьно ·",
+    "originalText": "νόμῳ γλυκύ, νόμῳ πικρόν, νόμῳ θερμόν, νόμῳ ψυχρόν, νόμῳ χροιή, ἐτεῇ δὲ ἄτομα καὶ κενόν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 125"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Mi pak uistinu ništa pouzdano ne poimamo, nego samo ono što se menja prema stanju tela i prema onome što u njega ulazi i što mu se opire.",
+    "stsl": "Мꙑ же по истинѣ ничьтоже извѣстьно поимаємъ · нъ тъкмо єже прѣмѣнѧєть сѧ по състоꙗнию тѣла · и по въходѧштемъ въ нь и противѧштемъ сѧ ·",
+    "originalText": "ἡμεῖς δὲ τῷ μὲν ἐόντι οὐδὲν ἀτρεκὲς συνίεμεν, μεταπίπτον δὲ κατά τε σώματος διαθιγὴν καὶ τῶν ἐπεισιόντων καὶ τῶν ἀντιστηριζόντων.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 9"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Da uistinu ne poimamo kakva svaka stvar jeste ili nije, pokazano je na mnogo načina.",
+    "stsl": "Ꙗко по истинѣ не поимаємъ · какова каꙗждо вешь єсть или не єсть · многыми образы показано єсть ·",
+    "originalText": "ἐτεῇ μὲν νυν ὅτι οἷον ἕκαστον ἔστιν <ἢ> οὐκ ἔστιν οὐ συνίεμεν, πολλαχῇ δεδήλωται.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 10"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Dva su vida spoznaje: istinska i tamna. Tamnoj pripadaju vid, sluh, miris, ukus i dodir; istinska je od nje odvojena. Kada tamna više ne može da vidi sitnije, niti da čuje, omiriše, okusi ili dodirom oseti, nego valja istražiti ono što je tananije, tada nastupa istinska, jer ima tananije oruđe poimanja.",
+    "stsl": "Два вида знамениꙗ сѫть · истиньно и тьмьно · Къ тьмьномѹ сѫть видѣниє · слꙑшаниє · обонꙗниє · въкѹшениє · прикоснѫтиє · истиньно же отъ него разлѫчено єсть · Єгда тьмьноє къ тоньчаишемѹ ни видѣти · ни слꙑшати · ни обонꙗти · ни въкѹсити · ни прикоснѫтиємъ чѹти не можеть · нъ тоньчаєє искати подобаєть · тогда истиньноє настѫпаєть · тоньчає орудие поѩтиꙗ имѫште ·",
+    "originalText": "γνώμης δύο εἰσὶν ἰδέαι, ἡ μὲν γνησίη, ἡ δὲ σκοτίη· καὶ σκοτίης μὲν τάδε σύμπαντα, ὄψις, ἀκοή, ὀδμή, γεῦσις, ψαῦσις· ἡ δὲ γνησίη, ἀποκεκριμένη δὲ ταύτης. ὅταν ἡ σκοτίη μηκέτι δύνηται μήτε ὁρῆν ἐπ᾽ ἔλαττον μήτε ἀκούειν μήτε ὀδμᾶσθαι μήτε γεύεσθαι μήτε ἐν τῇ ψαύσει αἰσθάνεσθαι, ἀλλ᾽ ἐπὶ λεπτότερον δέῃ ζητεῖν, τότε ἐπιγίνεται ἡ γνησίη, ἅτε ὄργανον ἔχουσα τοῦ νῶσαι λεπτότερον.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 11"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ljudima blagodušje nastaje iz umerenosti uživanja i samerljivosti života. Manjak i višak lako prelaze jedno u drugo i izazivaju velika kretanja u duši; duše koje se kreću između velikih krajnosti nisu ni postojane ni blagodušne. Zato misao treba držati na onome što je moguće i biti zadovoljan onim što imamo, malo misleći na one kojima zavide i kojima se dive i ne zadržavajući se na njima u razmišljanju. Treba gledati živote onih koji stradaju i promišljati šta sve podnose, kako bi nam ono što imamo izgledalo veliko i vredno zavisti, te da više, žudeći za većim, ne bismo mučili dušu. Ko se divi imućnima i onima koje drugi smatraju srećnim i neprestano ih drži u sećanju, prinuđen je da uvek smišlja nešto novo i, gonjen željom, da se lati kakvog nepopravljivog dela koje zakoni zabranjuju. Zato za jednim ne treba tragati, a onim što imamo treba biti blagodušan, poredeći svoj život sa životom onih kojima je gore i smatrajući sebe srećnim kada pomislimo šta oni podnose i koliko nam je bolje nego njima. Držiš li se ove misli, živećeš blagodušnije i odagnaćeš iz života nemalo zala: zavist, ljubomoru i zlobu.",
+    "stsl": "Чловѣкомъ бо благодѹшиє бываєть мѣрьностию наслаждениꙗ и житиꙗ съмѣриємъ · Недостатъкъ же и излишьство любита прѣходити єдино въ дрѹго и велика движеніꙗ въ дѹши творити · дѹшѧ же · ꙗже великими расстоꙗнии движѫть сѧ · ни твръды сѫть ни благодѹшьны · Тѣмьже мꙑсль на възможьныхъ дръжати подобаєть и имѣѭштиими доволънѹ быти · мало взираѭшти на завидимыихъ и дивимыихъ · и размꙑслъ на нихъ не дръжати · Нъ на житіꙗ страждѫштихъ взирати подобаєть и о носимыхъ ими размꙑшлѧти · да имѣѭштаꙗ намъ велика и завидьна ꙗвѧть сѧ · и да паче · большаꙗ желаѭште · въ дѹши не страждемъ · Иже бо богатымъ и отъ инѣхъ блаженымъ мьнимымъ дивить сѧ и всѧкъ часъ о нихъ размꙑшлѧєть · нѫждьно ємѹ присно новаꙗ замꙑшлѧти и желаніємъ гонимѹ нѣкоєго неисправимаго дѣла коснѫти сѧ · єже закони възбранѧѭть · Тѣмьже ового не искати · овымъ же благодѹшьнѹ быти подобаєть · своє житиє съ житіємъ горьше живѫштихъ съмѣрѧѭшти · и блажена себе мьнѣти · помꙑшлѧѭшти · ꙗже они страждѫть · и колико намъ лѹчьше єсть · Сего знамениꙗ дръжа сѧ · благодѹшьнѣє поживеши · и немала зъла отъ житиꙗ отъженеши · зависть · рьвеніє и зълобѫ ·",
+    "originalText": "ἀνθρώποισι γὰρ εὐθυμίη γίνεται μετριότητι τέρψιος καὶ βίου συμμετρίῃ· τὰ δ᾽ ἐλλείποντα καὶ ὑπερβάλλοντα μεταπίπτειν τε φιλεῖ καὶ μεγάλας κινήσιας ἐμποιεῖν τῇ ψυχῇ· αἱ δ᾽ ἐκ μεγάλων διαστημάτων κινούμεναι τῶν ψυχέων οὔτε εὐσταθέες εἰσὶν οὔτε εὔθυμοι. ἐπὶ τοῖς δυνατοῖς οὖν δεῖ ἔχειν τὴν γνώμην καὶ τοῖς παρεοῦσιν ἀρκέεσθαι, τῶν μὲν ζηλουμένων καὶ θαυμαζομένων ὀλίγην μνήμην ἔχοντα καὶ τῇ διανοίᾳ μὴ προσεδρεύοντα· τῶν δὲ ταλαιπωρεόντων τοὺς βίους θεωρεῖν, ἐνθυμεόμενον ἃ πάσχουσι κάρτα, ὅκως ἂν μεγάλα καὶ ζηλωτὰ φαίνηταί τοι τὰ παρεόντα καὶ ἃ κέκτησαι, καὶ μηκέτι πλεόνων ἐπιθυμέων κακοπαθέῃς τῇ ψυχῇ. ὁ γὰρ θαυμάζων τοὺς ἔχοντας καὶ μακαριζομένους ὑπὸ τῶν ἄλλων ἀνθρώπων καὶ πάσαν ὥραν τῇ μνήμῃ προσεδρεύων ἀεὶ καινοτομεῖν ἀναγκάζεται καὶ ἐπιβάλλεσθαι δι᾽ ἐπιθυμίην τοῦ τι πρήσσειν ἀνήκεστον ὧν νόμοι κωλύουσιν. διόπερ τὰ μὲν μὴ δίζεσθαι χρή, ἐπὶ δὲ τοῖς εὐθυμεῖσθαι χρεών, παραβάλλοντα τὸν ἑωυτοῦ βίον πρὸς τὸν τῶν φαυλότερον πρησσόντων καὶ μακαρίζειν ἑωυτόν, ἐνθυμεόμενον ἃ πάσχουσιν, ὁκόσῳ σφέων βέλτιον πρήσσει τε καὶ διάγει. ταύτης γὰρ ἐχόμενος τῆς γνώμης εὐθυμότερόν τε διάξεις καὶ οὐκ ὀλίγας κῆρας ἐν τῷ βίῳ διώσεαι, φθόνον καὶ ζῆλον καὶ δυσμενίην.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 191"
+      }
+    ]
+  },
+  {
     "type": "anecdote",
-    "sr": "Demokrit je radi učenja putovao u Egipat, gde je od sveštenika učio geometriju, u Persiju kod Haldejaca i do Crvenog mora, a prema nekim predanjima i u Indiju i Etiopiju. Za putovanja je izabrao svoj deo nasledstva u novcu i potrošio više od sto talenata.",
-    "stsl": "Демокритъ ѹчениꙗ ради пꙫтешествова въ Егѵпетъ · идѣже отъ жерцевъ землемѣрию ѹчи сѧ · въ Персиѭ къ Халдѣємъ и до Чръмнаго морѧ · по нѣкотъорымъ же прѣданиемъ и въ Индиѭ и Еѳиопиѭ · На пꙫтешествиꙗ свои дѣлъ наслѣдиꙗ въ сребрѣ избра и паче ста талантъ истрати ·",
+    "sr": "Radi učenja Demokrit otputova u Egipat da od sveštenika uči geometriju, zatim u Persiju među Haldejce i do Crvenog mora. Po nekima se u Indiji susreo i s gimnosofistima i stigao do Etiopije. Na ta putovanja potrošio je više od sto talenata svoga nasledstva.",
+    "stsl": "Ѹчениꙗ ради Демокритъ отиде въ Егѵпетъ · да отъ жрьць землемѣрию наѹчить сѧ · потомь въ Персиѭ къ Халдѣємъ и до Чръмнаго морѧ · По нѣкыихъ же въ Индии и съ нагомѫдрьци съиде сѧ · и до Еѳиопиѩ достиже · На си пѫти паче ста талантъ отъ наслѣдиꙗ своего истрати ·",
     "originalText": "Φησὶ δὲ Δημήτριος ἐν Ὁμωνύμοις καὶ Ἀντισθένης ἐν Διαδοχαῖς ἀποδημῆσαι αὐτὸν καὶ εἰς Αἴγυπτον πρὸς τοὺς ἱερέας γεωμετρίαν μαθησόμενον καὶ πρὸς Χαλδαίους εἰς τὴν Περσίδα καὶ εἰς τὴν Ἐρυθρὰν θάλασσαν γενέσθαι. τοῖς τε γυμνοσοφισταῖς φασί τινες συμμῖξαι αὐτὸν ἐν Ἰνδίᾳ καὶ εἰς Αἰθιοπίαν ἐλθεῖν. ὁ δὲ Δημήτριος ὑπὲρ ἑκατὸν τάλαντά φησιν εἶναι αὐτῷ τὸ μέρος, ἃ πάντα καταναλῶσαι.",
     "author": "Democritus",
     "year": -440,
@@ -322,8 +387,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Demokrit je bio toliko predan radu da se zatvarao u malu sobu u vrtu. Jednom dugo nije primetio vola kojeg je njegov otac privezao u blizini radi žrtvovanja, sve dok ga otac nije pozvao na obred i ukazao mu na životinju.",
-    "stsl": "Демокритъ толико трѹдѹ прѣданъ бѣ · ꙗко въ малѣ клѣти въ врътоградѣ затварааше сѧ · Єдиною длъго не примѣти вола · єгоже отъьць єго близъ жрътвы ради привѧза · дондеже отъьць на обрѧдъ єго не възва и на животъьноє не ѹказа ·",
+    "sr": "Toliko beše predan radu da se zatvaraše u malu odaju u vrtu. Jednom otac dovede vola za žrtvu i priveza ga onde, a Demokrit ga dugo i ne primeti, sve dok ga otac ne pozva radi žrtve i ne reče mu za vola.",
+    "stsl": "Толико трѹдолюбивъ бѣ · ꙗко въ малѣ клѣти въ врътоградѣ затварааше сѧ · Єдиною отьць вола жрътвы ради приведе и тѹ привѧза · Демокритъ же длъго єго не примѣти · дондеже отьць жрътвы ради єго не възва и о волѣ не повѣда ·",
     "originalText": "Λέγει δ' ὅτι τοσοῦτον ἦν φιλόπονος ὥστε τοῦ περικήπου δωμάτιόν τι ἀποτεμόμενος κατάκλειστος ἦν· καί ποτε τοῦ πατρὸς αὐτοῦ πρὸς θυσίαν βοῦν ἀγαγόντος καὶ αὐτόθι προσδήσαντος, ἱκανὸν χρόνον μὴ γνῶναι, ἕως αὐτὸν ἐκεῖνος διαναστήσας προφάσει τῆς θυσίας καὶ τὰ περὶ τὸν βοῦν διηγήσατο.",
     "author": "Democritus",
     "year": -445,
@@ -336,8 +401,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Da bi iskušavao čulne utiske, Demokrit se povlačio u samoću i boravio među grobovima.",
-    "stsl": "Да чѹвьствьнаꙗ впечатьлѣниꙗ искѹшаєть · Демокритъ въ єдинотъьствѣ отъходи и междѹ гробовы прѣбывааше ·",
+    "sr": "Prema Antistenu, Demokrit je na razne načine iskušavao predstave: katkad se osamljivao i boravio među grobovima.",
+    "stsl": "По Антисѳенѹ · Демокритъ различьно образы искѹшааше · иногда єдинъ отъходѧ и междѹ гробовы прѣбывааше ·",
     "originalText": "Ἤσκει δέ, φησὶν ὁ Ἀντισθένης, καὶ ποικίλως δοκιμάζειν τὰς φαντασίας, ἐρημάζων ἐνίοτε καὶ τοῖς τάφοις ἐνδιατρίβων.",
     "author": "Democritus",
     "year": -430,
@@ -350,8 +415,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Kada mu je Hipokrat došao u posetu, Demokrit je pregledao doneseno mleko i rekao da potiče od crne koze koja se prvi put ojagnjila. Hipokrat se zadivio tačnosti njegovog opažanja.",
-    "stsl": "Єгда Ипократъ къ немѹ приде · Демокритъ принесено млеко испыта и рече · ꙗко отъ чръны козы · пьрвое козѧ родивъше · происходить · Ипократъ точности наблюдениꙗ єго диви сѧ ·",
+    "sr": "Kada mu dođe Hipokrat, Demokrit zatraži da donesu mleko. Pogledavši ga, reče da je od crne koze koja se prvi put ojagnjila; Hipokrat se zadivi njegovoj tačnosti.",
+    "stsl": "Єгда Ипократъ къ немѹ приде · Демокритъ млеко принести повелѣ · Видѣвъ же є · рече ꙗко отъ чръны козы · пръвое родивъшѧ · Ипократъ же точности єго диви сѧ ·",
     "originalText": "Φησὶ δ' Ἀθηνόδωρος ἐν ὀγδόῃ Περιπάτων, ἐλθόντος Ἱπποκράτους πρὸς αὐτόν, κελεῦσαι κομισθῆναι γάλα· καὶ θεασάμενον τὸ γάλα εἰπεῖν εἶναι αἰγὸς πρωτοτόκου καὶ μελαίνης· ὅθεν τὴν ἀκρίβειαν αὐτοῦ θαυμάσαι τὸν Ἱπποκράτην.",
     "author": "Democritus",
     "year": -420,
@@ -364,8 +429,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Devojku koja je pratila Hipokrata Demokrit je prvog dana pozdravio rečima: „Zdravo, devojko”, a sledećeg: „Zdravo, ženo.” Predanje kaže da je tokom noći izgubila nevinost.",
-    "stsl": "Дѣвицꙫ · ꙗже Ипократѹ послѣдоваше · Демокритъ въ пьрвыи дьнь привѣтствова · Радѹи сѧ · дѣвице · въ слѣдѹюшти же · Радѹи сѧ · жено · Прѣданіє глаголеть · ꙗко въ ношти дѣвьство погѹби ·",
+    "sr": "Devojku koja je pratila Hipokrata prvoga dana pozdravi: Zdravo, devojko; sledećega: Zdravo, ženo. Devojka je te noći izgubila nevinost.",
+    "stsl": "Дѣвицѫ · ꙗже Ипократѹ послѣдоваше · въ пръвꙑи дьнь привѣтствова · Радѹи сѧ · дѣвице · въ слѣдѹѭшти же · Радѹи сѧ · жено · Дѣвица же въ тѹ нощь дѣвьство погѹби ·",
     "author": "Democritus",
     "year": -409,
     "originalText": "Ἀλλὰ καὶ κόρης ἀκολουθούσης τῷ Ἱπποκράτει, τῇ μὲν πρώτῃ ἡμέρᾳ ἀσπάσασθαι οὕτω \"χαῖρε κόρη,\" τῇ δ' ἐχομένῃ \"χαῖρε γύναι\"· καὶ ἦν ἡ κόρη τῆς νυκτὸς διεφθαρμένη.",
@@ -378,8 +443,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Platon je, prema Aristoksenu, hteo da spali sve Demokritove spise koje je mogao da prikupi. Pitagorejci Amikla i Klinija odvratili su ga, jer su knjige već bile široko rasprostranjene.",
-    "stsl": "Платонъ · по Аристоксенѹ · хотъѣ вьсѧ Демокритова списаниꙗ · єлика може събрати · съжешти · Питагорьци Амикла и Клиниꙗ отъвратиста єго · зане книгы вже широко разсѣꙗны бѣхѫ ·",
+    "sr": "Prema Aristoksenu, Platon htede da spali sve Demokritove spise koje je mogao sakupiti, ali ga pitagorejci Amikla i Klinija odvratiše: ne bi bilo koristi, jer su knjige već bile kod mnogih.",
+    "stsl": "По Аристоксенѹ · Платонъ хотѣ вьсѧ Демокритова писаниꙗ · єлика може събрати · съжешти · нъ Пѵѳагорѣица Амикла и Клиниꙗ възбраниста ємѹ · нѣсть бо пользы · книгы ѹже ѹ многыхъ бѣхѫ ·",
     "author": "Democritus",
     "year": -396,
     "originalText": "Ἀριστόξενος δ' ἐν τοῖς Ἱστορικοῖς ὑπομνήμασί φησι Πλάτωνα θελῆσαι συμφλέξαι τὰ Δημοκρίτου συγγράμματα, ὁπόσα ἐδυνήθη συναγαγεῖν, Ἀμύκλαν δὲ καὶ Κλεινίαν τοὺς Πυθαγορικοὺς κωλῦσαι αὐτόν, ὡς οὐδὲν ὄφελος· παρὰ πολλοῖς γὰρ εἶναι ἤδη τὰ βιβλία.",
@@ -392,8 +457,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Kada je Demokrit već bio na samrti, njegova sestra se žalostila što će zbog njegove smrti propustiti trodnevni praznik Tesmoforija. Umirio ju je i naložio da mu svakog dana donosi vruće hlebove. Udišući njihov miris održao se do kraja praznika, a zatim je bez bola ispustio život.",
-    "stsl": "Єгда Демокритъ вже къ смрьти приближи сѧ · сестра єго печаловааше · ꙗко смрьти єго ради тридьньныи праздникъ Тесмофории пропѹстить · Онъ ѭ ѹтѣши и повелѣ всѧкъ дьнь горѧшта хлѣбы приносити · Благоѹханіємъ ихъ до коньца праздника ѹдръжа сѧ · потъомь же безъ болѣзни животъ испѹсти ·",
+    "sr": "Kada Demokrit već beše na samrti, sestra se žalostila što će, umre li za vreme trodnevnih Tesmoforija, propustiti dužnost prema boginji. On je ohrabri i naredi da mu svakoga dana donose tople hlebove. Prinosio ih je nosu i tako se održao do kraja praznika; kada prođoše tri dana, sasvim bezbolno ispusti život.",
+    "stsl": "Єгда Демокритъ ѹже къ смрьти бѣ · сестра єго печаловааше · ꙗко аще въ тридьньныи праздникъ Тесмофории ѹмреть · дълга къ богꙑни сътворити не възможеть · Онъ же ѭ ободри и повелѣ всѧкъ дьнь теплꙑ хлѣбы приносити · Къ ноздрѣмъ ихъ приношааше и тако до коньца праздника ѹдръжа сѧ · минѫвъшемъ же тремъ дьнемъ · безъ болѣзни животъ испѹсти ·",
     "author": "Democritus",
     "year": -370,
     "originalText": "Τελευτῆσαι δὲ τὸν Δημόκριτόν φησιν Ἕρμιππος τοῦτον τὸν τρόπον. ἤδη ὑπέργηρων ὄντα πρὸς τῷ καταστρέφειν εἶναι. τὴν οὖν ἀδελφὴν λυπεῖσθαι ὅτι ἐν τῇ τῶν θεσμοφόρων ἑορτῇ μέλλοι τεθνήξεσθαι καὶ τῇ θεῷ τὸ καθῆκον αὐτὴ οὐ ποιήσειν· τὸν δὲ θαρρεῖν εἰπεῖν καὶ κελεῦσαι αὑτῷ προσφέρειν ἄρτους θερμοὺς ὁσημέραι. τούτους δὲ ταῖς ῥισὶ προσφέρων διεκράτησεν αὑτὸν τὴν ἑορτήν· ἐπειδὴ δὲ παρῆλθον αἱ ἡμέραι, τρεῖς δὴ ἦσαν, ἀλυπότατα τὸν βίον προήκατο.",
@@ -406,8 +471,8 @@
   },
   {
     "type": "mention",
-    "sr": "Epikur Demokrita nazivao Lerokrit (budala), Heraklita mešač, Protagoru prepisivač Demokrita.",
-    "stsl": "Епикѹръ Демокрита нарицааше Леро критъ (бѹдала) · Хераклита мѣшателемъ · Протъагорѫ преписателемъ Демокритовꙑмъ ·",
+    "sr": "Epikur je Heraklita podrugljivo nazivao Mešačem, Demokrita Lerokritom, a Antidora Sanidorom.",
+    "stsl": "Епикѹръ Хераклита рѹгательно Мѣшателемъ нарицааше · Демокрита же Лерокритомъ · Антидора Санидоромъ ·",
     "originalText": "Ἡράκλειτόν τε κυκητὴν καὶ Δημόκριτον Ληρόκριτον καὶ Ἀντίδωρον Σαννίδωρον·",
     "author": [
       "Democritus",
