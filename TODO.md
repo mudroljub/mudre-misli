@@ -170,7 +170,8 @@ zasebno isklesati staroslovenski i srpski prevod prema
   široke ekrane.
 - [ ] Dodati greekToLatin(quote.originalText) na stranicu recnik ako je moguće
 - [ ] Da prikaz pisama (ima kod Solona) bude pregledniji, možda u jednom redu
-- [ ] Naznačiti tip quote velikim ukrasnim navodnicima
+- [ ] Prikazati tip quote s velikim ukrasnim navodnicima
+- [ ] Napraviti stranicu o projektu (tekst: 🏛️ Училище Мѫдрости Блатьнограда je zamišljena slovenska filozofska škola iz 9. veka koje se nalazila u Blatogradu, jednom od središta panonskih Slovena. Tamo su u to vreme boravili Ćirilo (Konstantin Filozof) i Metodije sa 50-ak učenika, a grad je postao značajno središte slovenske pismenosti. Ovaj projekat pokušava da dočara kako bi izgledale studije filozofije da su Sloveni imali univerzitete u srednjem veku i kakav bi bio slovenski učeni jezik toga vremena.)
 
 ## Redosled narednih paketa rada
 
