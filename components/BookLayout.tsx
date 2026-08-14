@@ -1,7 +1,7 @@
 'use client';
 
 import classNames from "classnames";
-import { getTextForLanguage } from "../utils/data";
+import { getTextForLanguage } from "../utils/catalog";
 import { useTransliterate } from "../utils/useTransliterate";
 import type { Entry, Language } from "../types/data";
 import styles from "./BookLayout.module.scss";

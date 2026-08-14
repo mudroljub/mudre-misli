@@ -5,7 +5,7 @@ import Header from "./Header"
 import BookLayout from "./BookLayout"
 import BirthplaceMap from "./BirthplaceMap"
 import AuthorSection from "./AuthorSection"
-import { getAuthorName, placesData } from "../utils/data"
+import { getAuthorName, placesData } from "../utils/catalog"
 import { useTranslations } from "../utils/useTranslations"
 import type {
   AuthorData,

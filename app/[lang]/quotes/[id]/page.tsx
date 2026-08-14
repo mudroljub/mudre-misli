@@ -1,6 +1,7 @@
 import { notFound, redirect } from 'next/navigation';
 import { supportedLanguages } from '../../../../types/data';
-import { authorsData, quotesData } from '../../../../utils/data';
+import { authorsData } from '../../../../utils/catalog';
+import { quotesData } from '../../../../utils/quotes';
 import QuotePageClient from '../../../../components/QuotePageClient';
 import type { Language } from '../../../../types/data';
 
@@ -12,6 +13,10 @@ interface QuotePageProps {
 }
 
 export function generateStaticParams(): QuotePageProps['params'][] {
+  if (process.env.NODE_ENV === 'development') {
+    return [];
+  }
+
   const params: QuotePageProps['params'][] = [];
 
   for (const lang of supportedLanguages) {

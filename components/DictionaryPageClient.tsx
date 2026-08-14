@@ -4,13 +4,13 @@ import Link from 'next/link';
 import Sidebar from './Sidebar';
 import Header from './Header';
 import { useTranslations } from '../utils/useTranslations';
-import { quotesData } from '../utils/data';
 import type { Language } from '../types/data';
 import styles from './DictionaryPageClient.module.scss';
 
 interface DictionaryPageClientProps {
   language: Language;
   content: string;
+  tags: string[];
 }
 
 // Simple markdown parser for italic and bold
@@ -54,16 +54,9 @@ function parseMarkdown(text: string) {
   return parts;
 }
 
-export default function DictionaryPageClient({ language, content }: DictionaryPageClientProps) {
+export default function DictionaryPageClient({ language, content, tags }: DictionaryPageClientProps) {
   const { t } = useTranslations(language);
-
-  // Collect all tags that exist in quotes
-  const allTags = new Set<string>();
-  for (const entry of quotesData) {
-    if (entry.tags) {
-      entry.tags.forEach(tag => allTags.add(tag));
-    }
-  }
+  const allTags = new Set(tags);
 
   // Parse markdown table into array of rows
   // Remove HTML comments

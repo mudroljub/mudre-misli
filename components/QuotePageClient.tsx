@@ -4,7 +4,7 @@ import Link from "next/link";
 import classNames from "classnames";
 import Sidebar from "./Sidebar";
 import Header from "./Header";
-import { getTextForLanguage, getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../utils/data";
+import { getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../utils/catalog";
 import { useTranslations } from "../utils/useTranslations";
 import { useTransliterate } from "../utils/useTransliterate";
 import { greekToLatin, isGreek } from "../utils/greekToLatin";

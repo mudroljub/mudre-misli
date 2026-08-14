@@ -1,6 +1,6 @@
 import { redirect } from 'next/navigation';
 import { supportedLanguages } from '../../types/data';
-import { quotesData } from '../../utils/data';
+import { quotesData } from '../../utils/quotes';
 import HomeContent from '../../components/HomeContent';
 import type { Language } from '../../types/data';
 
@@ -21,13 +21,23 @@ export default function LangPage({ params }: LangPageProps) {
     redirect('/stsl');
   }
 
-  // Use first quote for static generation (deterministic)
-  // Client-side randomization happens in HomeContent component
-  const featured = quotesData[0];
+  // Keep client hydration light while preserving a broad, deterministic
+  // sample across the complete chronologically ordered corpus.
+  const poolSize = Math.min(128, quotesData.length);
+  const quotePool = Array.from({ length: poolSize }, (_, index) => {
+    const sourceIndex = Math.floor((index * quotesData.length) / poolSize);
+    return quotesData[sourceIndex];
+  }).map(({ _id, type, sr, stsl, author }) => ({
+    _id,
+    type,
+    sr,
+    stsl,
+    author,
+  }));
 
-  if (!featured) {
+  if (quotePool.length === 0) {
     return <main className="content">Nema dostupnih citata.</main>;
   }
 
-  return <HomeContent featured={featured} language={lang} />;
+  return <HomeContent quotePool={quotePool} language={lang} />;
 }

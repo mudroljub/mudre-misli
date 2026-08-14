@@ -4,24 +4,23 @@ import { useState, useEffect } from 'react';
 import Sidebar from './Sidebar';
 import Header from './Header';
 import { useTranslations } from '../utils/useTranslations';
-import { quotesData } from '../utils/data';
-import type { Language, Entry } from '../types/data';
-import QuoteCard from './QuoteCard';
+import type { Language } from '../types/data';
+import QuoteCard, { type QuoteCardEntry } from './QuoteCard';
 
 interface HomeContentProps {
-  featured: Entry;
+  quotePool: QuoteCardEntry[];
   language: Language;
 }
 
-export default function HomeContent({ featured, language }: HomeContentProps) {
+export default function HomeContent({ quotePool, language }: HomeContentProps) {
   const { t } = useTranslations(language);
-  const [randomQuote, setRandomQuote] = useState<Entry>(featured);
+  const [randomQuote, setRandomQuote] = useState<QuoteCardEntry>(quotePool[0]);
 
   useEffect(() => {
     // Randomize on client after hydration
-    const randomIndex = Math.floor(Math.random() * quotesData.length);
-    setRandomQuote(quotesData[randomIndex]);
-  }, []);
+    const randomIndex = Math.floor(Math.random() * quotePool.length);
+    setRandomQuote(quotePool[randomIndex]);
+  }, [quotePool]);
 
   return (
     <main className="page-shell">

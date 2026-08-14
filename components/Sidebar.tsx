@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 import classNames from 'classnames';
-import { authorsData, authorSlugs } from '../utils/data';
+import { authorsData, authorSlugs } from '../utils/catalog';
 import { authorGroups } from '../utils/authorGroups';
 import { useTranslations } from '../utils/useTranslations';
 import type { Language } from '../types/data';

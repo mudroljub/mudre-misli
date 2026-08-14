@@ -2,13 +2,15 @@
 
 import Link from "next/link";
 import classNames from "classnames";
-import { getTextForLanguage, getAuthorName, authorSlugs } from "../utils/data";
+import { getTextForLanguage, getAuthorName, authorSlugs } from "../utils/catalog";
 import { useTranslations } from "../utils/useTranslations";
 import type { Entry, Language } from "../types/data";
 import styles from "./QuoteCard.module.scss";
 
+export type QuoteCardEntry = Pick<Entry, '_id' | 'type' | 'sr' | 'stsl' | 'author'>;
+
 interface QuoteCardProps {
-  entry: Entry;
+  entry: QuoteCardEntry;
   language: Language;
   showAuthor?: boolean;
   showSource?: boolean;

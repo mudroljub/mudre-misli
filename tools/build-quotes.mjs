@@ -275,12 +275,18 @@ for (const quote of allQuotes) {
 
 // No global sorting needed - each author's entries are already sorted within their file
 
-await fs.writeFile(
-  outputFile,
-  JSON.stringify(allQuotes, null, 2),
-  'utf8',
-)
+const output = `${JSON.stringify(allQuotes, null, 2)}\n`
+let currentOutput = null
 
-console.log(
-  `Generated ${outputFile} (${allQuotes.length} quotes)`,
-)
+try {
+  currentOutput = await fs.readFile(outputFile, 'utf8')
+} catch (error) {
+  if (error?.code !== 'ENOENT') throw error
+}
+
+if (currentOutput !== output) {
+  await fs.writeFile(outputFile, output, 'utf8')
+  console.log(`Generated ${outputFile} (${allQuotes.length} quotes)`)
+} else {
+  console.log(`Unchanged ${outputFile} (${allQuotes.length} quotes)`)
+}

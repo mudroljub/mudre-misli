@@ -1,6 +1,7 @@
 import { notFound, redirect } from 'next/navigation';
 import { supportedLanguages } from '../../../../types/data';
-import { authorsData, quotesData, authorFromSlug, authorSlugs } from '../../../../utils/data';
+import { authorsData, authorFromSlug, authorSlugs } from '../../../../utils/catalog';
+import { quotesData } from '../../../../utils/quotes';
 import AuthorPageClient from '../../../../components/AuthorPageClient';
 import type { Language } from '../../../../types/data';
 
