@@ -29,11 +29,28 @@
   },
   {
     "type": "bio",
-    "year": -450,
-    "sr": "Bio je Leukipov učenik; po nekima je slušao i Anaksagoru, od koga je bio četrdeset godina mlađi.",
-    "stsl": "Леѷкипповъ ѹченикъ бѣ · по нѣкыихъ же и Анаксагорѫ слꙑшааше · четырьдесѧть лѣтъ мьнии єго бꙑвъ ·",
-    "originalText": "Ὕστερον δὲ Λευκίππου γίνεται· οἱ δέ φασι καὶ Ἀναξαγόρου, τεσσαράκοντα ἔτη νεώτερος αὐτοῦ ὤν.",
+    "year": -447,
+    "sr": "Bio je Leukipov učenik.",
+    "stsl": "Леѷкипповъ ѹченикъ бѣ ·",
+    "originalText": "Ὕστερον δὲ Λευκίππου γίνεται·",
     "author": "Democritus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.34"
+      }
+    ]
+  },
+ {
+    "type": "bio",
+    "year": -446,
+    "sr": "Demokrit je po nekima slušao i Anaksagoru, od koga je bio četrdeset godina mlađi.",
+    "stsl": "Демокритъ по нѣкіимъ Анаксагорѹ слꙑшааше · четырьдесѧть лѣтъ мьнии єго бꙑвъ ·",
+    "originalText": "Λευκίππῳ παρέβαλε καὶ Ἀναξαγόρᾳ κατά τινας, ἔτεσιν ὢν αὐτοῦ νεώτερος τετταράκοντα.",
+    "author": [
+      "Anaxagoras",
+      "Democritus"
+    ],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -138,7 +155,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Dođoh u Atinu i niko me ne poznade.",
     "stsl": "Придохъ въ Аѳины · и никтоже мене позна ·",
     "originalText": "ἦλθον γάρ, φησίν, εἰς Ἀθήνας καὶ οὔτις με ἔγνωκεν.",
@@ -164,7 +181,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Načela svega jesu atomi i praznina; za sve ostalo samo se mnije da postoji.",
     "stsl": "Начѧла вьсѣхъ сѫть недѣлима и праздьно · прочаꙗ же вьсѧ тъкмо мьнима сѫть ·",
     "originalText": "ἀρχὰς εἶναι τῶν ὅλων ἀτόμους καὶ κενόν, τὰ δ' ἄλλα πάντα νενομίσθαι.",
@@ -177,7 +194,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Svetova ima bezbroj; oni nastaju i propadaju.",
     "stsl": "Міровъ безчисльно єсть · раждаѭть сѧ и тлѣѭть ·",
     "originalText": "ἀπείρους τε εἶναι κόσμους καὶ γενητοὺς καὶ φθαρτούς.",
@@ -190,7 +207,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Ništa ne nastaje iz ne-bića niti propada u ne-biće.",
     "stsl": "Ничьтоже отъ несѫштаго не бываєть · ни въ несѫштеє тлѣєть ·",
     "originalText": "μηδέν τε ἐκ τοῦ μὴ ὄντος γίνεσθαι μηδὲ εἰς τὸ μὴ ὂν φθείρεσθαι.",
@@ -203,7 +220,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Atomi su bezmerni po veličini i broju. Vrtložeći se kroz celinu, obrazuju sve složene stvari: oganj, vodu, vazduh i zemlju. I one su sklopovi određenih atoma, a sami atomi zbog svoje čvrstine ne trpe ništa i ne menjaju se.",
     "stsl": "Недѣлима величиною и числомъ безмѣрьна сѫть · по вьсецѣломѹ вихрѧшта сѧ · вьсѧ сложенаꙗ съставлѧѭть · огнь · водѫ · въздѹхъ и землѭ · И си отъ нѣкыихъ недѣлимыхъ състави сѫть · сама же недѣлима твръдости ради ничьтоже страждѫть ни прѣмѣнѧѭть сѧ ·",
     "originalText": "τὰς ἀτόμους δὲ ἀπείρους εἶναι κατὰ μέγεθος καὶ πλῆθος, φέρεσθαι δ' ἐν τῷ ὅλῳ δινουμένας· καὶ οὕτω πάντα τὰ συγκρίματα γεννᾶν, πῦρ, ὕδωρ, ἀέρα, γῆν· εἶναι γὰρ καὶ ταῦτα ἐξ ἀτόμων τινῶν συστήματα· ἅπερ εἶναι ἀπαθῆ καὶ ἀναλλοίωτα διὰ τὴν στερρότητα.",
@@ -216,7 +233,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Sunce i Mesec sastavljeni su od takvih glatkih i okruglih tela; tako i duša, koja je isto što i um.",
     "stsl": "Слъньце и мѣсѧць отъ таковыхъ гладъкыихъ и окрѫглыхъ тѣлесъ съставлена сѫть · такожде и дѹша · ꙗже съ ѹмомъ єдино єсть ·",
     "originalText": "τὸν τε ἥλιον καὶ τὴν σελήνην ἐκ τοιούτων λείων καὶ περιφερῶν ὄγκων συγκεκρίσθαι, καὶ τὴν ψυχὴν ὁμοίως· ἣν καὶ νοῦν ταὐτὸν εἶναι.",
@@ -229,7 +246,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Vidimo kada u nas prodiru slike stvari.",
     "stsl": "Видимъ · єгда образы вештии въ ны въпадаѭть ·",
     "originalText": "ὁρᾶν δ' ἡμᾶς κατ' εἰδώλων ἐμπτώσεις.",
@@ -242,7 +259,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Sve nastaje po nuždi; vrtlog je uzrok nastanka svega, i njega naziva nuždom.",
     "stsl": "Вьсѧ по нѫжди бываѭть · вихрь же причина бытиꙗ вьсѣхъ єсть · єго же нѫждою нарицаєть ·",
     "originalText": "πάντα τε κατ' ἀνάγκην γίνεσθαι, τῆς δίνης αἰτίας οὔσης τῆς γενέσεως πάντων, ἣν ἀνάγκην λέγει.",
@@ -255,7 +272,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Cilj je blagodušje. Ono nije isto što i uživanje, nego stanje u kojem duša živi spokojno i postojano, neuznemirena nikakvim strahom ni sujeverjem.",
     "stsl": "Цѣль благодѹшиє єсть · Не тожде єсть съ сластию · нъ състоꙗніє · въ немьже дѹша тихо и твръдо живеть · ни страхомъ ни сѹєвѣриємъ смѫштаєма ·",
     "originalText": "τέλος δ' εἶναι τὴν εὐθυμίαν, οὐ τὴν αὐτὴν οὖσαν τῇ ἡδονῇ, ἀλλὰ καθ' ἣν γαληνῶς καὶ εὐσταθῶς ἡ ψυχὴ διάγει, ὑπὸ μηδενὸς ταραττομένη φόβου ἢ δεισιδαιμονίας.",
@@ -268,7 +285,7 @@
     ]
   },
   {
-    "type": "reported",
+    "type": "quote",
     "sr": "Po običaju toplo, po običaju hladno; uistinu atomi i praznina.",
     "stsl": "По обычаю тепло · по обычаю стѹдено · по истинѣ же недѣлима и праздьно ·",
     "originalText": "νόμῳ θερμόν, νόμῳ ψυχρόν, ἐτεῇ δὲ ἄτομα καὶ κενόν.",
@@ -294,7 +311,7 @@
     ]
   },
   {
-    "type": "mention",
+    "type": "reported",
     "sr": "Demokrit odbacuje pojave i kaže da se ništa ne pojavljuje po istini, nego samo po mnenju.",
     "stsl": "Демокритъ ꙗвлєниꙗ отъмѣтаєть · и глаголєть · ꙗко ничьтоже по истинѣ ꙗвлѧєть сѧ · нъ тъкмо по мьнѣнию ·",
     "originalText": "Δημόκριτος ἀναιρεῖ τὰ φαινόμενα καὶ φησὶ μηδὲν φαίνεσθαι κατ' ἀλήθειαν, ἀλλὰ κατὰ δόξαν μόνον.",
@@ -368,6 +385,617 @@
       {
         "name": "hermann-diels",
         "reference": "68 B 191"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Lekarstvo leči bolesti tela, a mudrost oslobađa dušu od strasti.",
+    "stsl": "Врачеваниє недѫгы тѣла исцѣлѧєть · мѫдрость же дѹшѫ отъ страстии свобождаєть ·",
+    "originalText": "ἰατρικὴ μὲν γὰρ κατὰ Δημόκριτον σώματος νόσους ἀκέεται, σοφίη δὲ ψυχὴν παθῶν ἀφαιρεῖται.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 31"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Priroda i pouka su slične; jer pouka preobražava čoveka, a preobražavajući ga, tvori mu prirodu.",
+    "stsl": "Єстьство и ѹчениє подобьна єста · ѹчениє бо прѣображаѥть чловѣка · прѣображаѥ же єстьство творить ·",
+    "originalText": "ἡ φύσις καὶ ἡ διδαχὴ παραπλήσιόν ἐστι. καὶ γὰρ ἡ διδαχὴ μεταρυσμοῖ τὸν ἄνθρωπον, μεταρυσμοῦσα δὲ φυσιοποιεῖ.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 33"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ko ove moje misli sluša s razumom, učiniće mnogo toga dostojnog dobra čoveka, a mnogo rđavoga neće učiniti.",
+    "stsl": "Иже сихъ моихъ мьнѣнии съ ѹмомъ послѹшаєть · многа добраго мѫжа достоина сътворить · многа же зъла не сътворить ·",
+    "originalText": "Γνωμέων μευ τῶνδε εἴ τις ἐπαΐοι ξὺν νόωι, πολλὰ μὲν ἕρξει πράγματ᾽ ἀνδρὸς ἀγαθοῦ ἄξια, πολλὰ δὲ φλαῦρα οὐχ ἕρξει.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 35"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ko bira dobra duše, bira ono božanskije; ko bira dobra tela, ono ljudsko.",
+    "stsl": "Иже дѹшевьнаꙗ добра избираєть · божьствьнѣишаꙗ избираєть · иже же тѣлесьнаꙗ · чловѣчьскаꙗ ·",
+    "originalText": "Ὁ τὰ ψυχῆς ἀγαθὰ αἱρεόμενος τὰ θειότερα αἱρέεται· ὁ δὲ τὰ σκήνεος τὰ ἀνθρωπήϊα.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 37"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Lepo je sprečiti onoga ko čini nepravdu; ako ne možeš, ne učestvuj u nepravdi.",
+    "stsl": "Добро єсть неправьдѫ творѧштаго възбранити · аще ли не можеши · не сънеправьдьствѹи ·",
+    "originalText": "Καλὸν μὲν τὸν ἀδικέοντα κωλύειν· εἰ δὲ μή, μὴ ξυναδικέειν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 38"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Treba ili biti dobar ili se ugledati na dobra čoveka.",
+    "stsl": "Или добрѹ быти подобаєть · или добромѹ подражати ·",
+    "originalText": "Ἀγαθὸν ἢ εἶναι χρεὼν ἢ μιμεῖσθαι.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 39"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ljudi nisu srećni ni telom ni imetkom, nego ispravnošću i mnogoumnošću.",
+    "stsl": "Чловѣци ни тѣломъ ни имѣниємъ благочѧстни сѫть · нъ правостию и многоѹмиємъ ·",
+    "originalText": "Οὔτε σώμασιν οὔτε χρήμασιν εὐδαιμονοῦσιν ἄνθρωποι, ἀλλ᾽ ὀρθοσύνηι καὶ πολυφροσύνηι.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 40"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne uzdržavaj se od grešaka iz straha, nego zato što tako treba.",
+    "stsl": "Не страха ради отъ съгрѣшении въздръжаваи сѧ · нъ подобаѭштаго ради ·",
+    "originalText": "Μὴ διὰ φόβον, ἀλλὰ διὰ τὸ δέον ἀπέχεσθαι ἁμαρτημάτων.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 41"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Veliko je u nesreći misliti ono što treba.",
+    "stsl": "Велико єсть въ напастехъ мꙑслити ꙗже подобаѭть ·",
+    "originalText": "Μέγα τὸ ἐν ξυμφορῆισι φρονεῖν ἃ δεῖ.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 42"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kajanje zbog sramnih dela spasenje je života.",
+    "stsl": "Покаꙗниє о срамьныхъ дѣлѣхъ спасениє житиꙗ єсть ·",
+    "originalText": "Μεταμέλεια ἐπ᾽ αἰσχροῖσιν ἔργμασι βίου σωτηρίη.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 43"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Treba govoriti istinu, a ne mnogo govoriti.",
+    "stsl": "Истинѫ глаголати подобаєть · а не многоглаголати ·",
+    "originalText": "Ἀληθόμυθον χρὴ εἶναι, οὐ πολύλογον.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 44"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ko čini nepravdu nesrećniji je od onoga kome je učinjena.",
+    "stsl": "Неправьдѫ творѧи злочѧстьнѣи єсть неправьдѹ приемлѭштаго ·",
+    "originalText": "Ὁ ἀδικῶν τοῦ ἀδικουμένου κακοδαιμονέστερος.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 45"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Velikodušnost je blago podnositi tuđu pogrešku.",
+    "stsl": "Великодѹшиє єсть кротъко чѹждѫ погрѣшность носити ·",
+    "originalText": "Μεγαλοψυχίη τὸ φέρειν πραέως πλημμέλειαν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 46"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Dolično je pokoravati se zakonu, vlasti i mudrijem.",
+    "stsl": "Закону и власти и мѫдрѣишемѹ покарꙗти сѧ лѣпо єсть ·",
+    "originalText": "Νόμωι καὶ ἄρχοντι καὶ τῶι σοφωτέρωι εἴκειν κόσμιον.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 47"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Dobar čovek ne mari za prekore rđavih.",
+    "stsl": "Добръ чловѣкъ о хѹлахъ зълыхъ не радить ·",
+    "originalText": "Μωμεομένων φλαύρων ὁ ἀγαθὸς οὐ ποιεῖται λόγον.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 48"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Teško je biti pod vlašću gorega od sebe.",
+    "stsl": "Тѧжько єсть горьшаго подъ властию быти ·",
+    "originalText": "Χαλεπὸν ἄρχεσθαι ὑπὸ χερείονος.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 49"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ko je sasvim rob imetku, nikada ne može biti pravedan.",
+    "stsl": "Иже имѣнию въсѣмь рабъ єсть · николиже правьдьнъ быти можеть ·",
+    "originalText": "Ὁ χρημάτων παντελῶς ἥσσων οὐκ ἄν ποτε εἴη δίκαιος.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 50"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Reč je u ubeđivanju često moćnija od zlata.",
+    "stsl": "Слово въ ѹбѣждении чѧсто крѣплѥє злата єсть ·",
+    "originalText": "Ἰσχυρότερος ἐς πειθὼ λόγος πολλαχῆι γίνεται χρυσοῦ.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 51"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ko savetuje onoga koji misli da već ima razuma, uzalud se trudi.",
+    "stsl": "Иже мьнѧштаго сѧ ѹмьна быти съвѣтѹєть · въсѹє трѹждаєть сѧ ·",
+    "originalText": "Τὸν οἰόμενον νοῦν ἔχειν ὁ νουθετέων ματαιοπονεῖ.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 52"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Mnogi koji nisu naučili razum ipak žive po razumu.",
+    "stsl": "Мнози слова не наѹчивъше сѧ · по словѹ живѫть ·",
+    "originalText": "Πολλοὶ λόγον μὴ μαθόντες ζῶσι κατὰ λόγον.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 53"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Mnogi koji čine najsramnija dela govore najbolje reči.",
+    "stsl": "Мнози срамьнѣишаꙗ творѧште · наилѹчьшаꙗ словеса глаголѭть ·",
+    "originalText": "Πολλοὶ δρῶντες τὰ αἴσχιστα λόγους ἀρίστους ἀσκέουσιν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 53a"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Nerazumni se opamete u nesreći.",
+    "stsl": "Неразѹмьнии въ напасти ѹцѣломѫдрѧѭть сѧ ·",
+    "originalText": "Οἱ ἀξύνετοι δυστυχέοντες σωφρονέουσι.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 54"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Treba se ugledati na dela vrline, a ne na reči.",
+    "stsl": "Дѣломъ добродѣтѣли · а не словесемъ · подражати подобаєть ·",
+    "originalText": "Ἔργα καὶ πρήξιας ἀρετῆς, οὐ λόγους, ζηλοῦν χρειών.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 55"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Plemenitost stoke jeste snaga tela, a ljudi dobro ustrojen karakter.",
+    "stsl": "Скотомъ благородиє крѣпость тѣла єсть · чловѣкомъ же доброє строєниє нрава ·",
+    "originalText": "Κτηνέων μὲν εὐγένεια ἡ τοῦ σκήνεος εὐσθένεια, ἀνθρώπων δὲ ἡ τοῦ ἤθεος εὐτροπίη.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 57"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Nade onih koji pravo misle dostižne su, a nade nerazumnih nemoguće.",
+    "stsl": "Надеждѧ право мꙑслѧштихъ достижьны сѫть · неразѹмьныхъ же невъзможьны ·",
+    "originalText": "Ἐλπίδες αἱ τῶν ὀρθὰ φρονεόντων ἐφικταί, αἱ δὲ τῶν ἀξυνέτων ἀδύνατοι.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 58"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ni umeće ni mudrost nisu dostižni bez učenja.",
+    "stsl": "Ни ѹмѣниє ни мѫдрость безъ ѹчениꙗ достижьна єсть ·",
+    "originalText": "Οὔτε τέχνη οὔτε σοφίη ἐφικτόν, ἢν μὴ μάθηι τις.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 59"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Bolje je ispitivati sopstvene greške nego tuđe.",
+    "stsl": "Лѹчьше своꙗ съгрѣшениꙗ испытати · нежели чѹждаꙗ ·",
+    "originalText": "Κρέσσον τὰ οἰκήϊα ἐλέγχειν ἁμαρτήματα ἢ τὰ ὀθνεῖα.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 60"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Kome je narav uređena, tome je i život uređen.",
+    "stsl": "Имъже нравъ ѹстроєнъ єсть · тѣмъ и житиє ѹстроєно єсть ·",
+    "originalText": "Οἷσιν ὁ τρόπος ἐστὶν εὔτακτος, τούτοισι καὶ ὁ βίος συντέτακται.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 61"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Dobro nije samo ne činiti nepravdu, nego je ni ne želeti.",
+    "stsl": "Добро нѣсть тъкмо неправьдѫ не творити · нъ ни желати єѩ ·",
+    "originalText": "Ἀγαθὸν οὐ τὸ μὴ ἀδικεῖν, ἀλλὰ τὸ μηδὲ ἐθέλειν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 62"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Mnogi mnogoznanci nemaju uma.",
+    "stsl": "Мнози многознаньци ѹма не имѫть ·",
+    "originalText": "Πολλοὶ πολυμαθέες νοῦν οὐκ ἔχουσιν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 64"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Treba negovati mnogoumnost, a ne mnogoznanje.",
+    "stsl": "Многоѹмиє · а не многознаниє · дѣлати подобаєть ·",
+    "originalText": "πολυνοΐην, οὐ πολυμαθίην ἀσκέειν χρή.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 65"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Bolje je promisliti pre dela nego kajati se posle.",
+    "stsl": "Лѹчьше прѣжде дѣла размꙑслити · нежели потомь каꙗти сѧ ·",
+    "originalText": "Προβουλεύεσθαι κρεῖσσον πρὸ τῶν πράξεων ἢ μετανοεῖν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 66"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ne veruj svemu, nego proverenome: prvo je lakovernost, drugo razboritost.",
+    "stsl": "Не вьсемѹ вѣрѹи · нъ испытаномѹ · оно бо простота · се же цѣломѫдриє ·",
+    "originalText": "Μὴ πᾶσιν, ἀλλὰ τοῖς δοκίμοισι πιστεύειν· τὸ μὲν γὰρ εὔηθες, τὸ δὲ σωφρονέοντος.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 67"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Valjan i nevaljan čovek poznaju se ne samo po onome što čine nego i po onome što žele.",
+    "stsl": "Добръ и недобръ чловѣкъ не тъкмо отъ дѣлъ познаєть сѧ · нъ и отъ желании ·",
+    "originalText": "Δόκιμος ἀνὴρ καὶ ἀδόκιμος οὐκ ἐξ ὧν πράσσει μόνον, ἀλλὰ καὶ ἐξ ὧν βούλεται.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 68"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Prijateljstvo jednoga razumnog bolje je od prijateljstva svih nerazumnih.",
+    "stsl": "Дрѹжьба єдинаго разѹмьнаго лѹчьши єсть вьсѣхъ неразѹмьныхъ ·",
+    "originalText": "Ἑνὸς φιλίη ξυνετοῦ κρέσσων ἀξυνέτων πάντων.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 98"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "U svemu je lepa mera; ni višak ni manjak mi se ne dopadaju.",
+    "stsl": "Въ вьсемь мѣра добра єсть · ни излишьство ни недостатъкъ ми не люба ·",
+    "originalText": "Καλὸν ἐν παντὶ τὸ ἶσον· ὑπερβολὴ δὲ καὶ ἔλλειψις οὔ μοι δοκέει.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 102"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Lepota tela životinjska je ako nema uma.",
+    "stsl": "Красота тѣла скотьска єсть · аще ѹма нѣсть ·",
+    "originalText": "Σώματος κάλλος ζωιῶδες, ἢν μὴ νοῦς ὑπῆι.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 105"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "U sreći je lako naći prijatelja; u nesreći je to najteže od svega.",
+    "stsl": "Въ благополѹчии дрѹга обрѣсти легко єсть · въ напасти же отъ вьсѣхъ тѧжьчає ·",
+    "originalText": "Ἐν εὐτυχίηι φίλον εὑρεῖν εὔπορον, ἐν δὲ δυστυχίηι πάντων ἀπορώτατον.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 106"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Nisu prijatelji svi srodnici, nego oni koji se slažu o onome što je korisno.",
+    "stsl": "Не вьси сродьници дрѹзи сѫть · нъ съгласѧштеи сѧ о пользьнѣмь ·",
+    "originalText": "Φίλοι οὐ πάντες οἱ ξυγγενέες, ἀλλ᾽ οἱ ξυμφωνέοντες περὶ τοῦ ξυμφέροντος.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 107"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Budući ljudi, ne treba da se smejemo ljudskoj nesreći, nego da je žalimo.",
+    "stsl": "Чловѣци сѫште · чловѣчьскои напасти не смѣꙗти сѧ подобаєть · нъ жаловати ѭ ·",
+    "originalText": "Ἄξιον ἀνθρώπους ὄντας ἐπ᾽ ἀνθρώπων συμφοραῖς μὴ γελᾶν, ἀλλ᾽ ὀλοφύρεσθαι.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 107a"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Onima koji traže dobra ona teško dolaze, a zla dolaze i onima koji ih ne traže.",
+    "stsl": "Искѫштимъ добраꙗ єдва приходѧть · зълаꙗ же и не искѫштимъ приходѧть ·",
+    "originalText": "Διζημένοισι τἀγαθὰ μόλις παραγίνεται, τὰ δὲ κακὰ καὶ μὴ διζημένοισιν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 108"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Božanskom umu svojstveno je uvek promišljati nešto lepo.",
+    "stsl": "Божьствьномѹ ѹмѹ своиствено єсть присно нѣчто добро размꙑшлѧти ·",
+    "originalText": "Θείου νοῦ τὸ ἀεί τι διαλογίζεσθαι καλόν.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 112"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Oni koji hvale nerazumne mnogo im škode.",
+    "stsl": "Иже неразѹмьныихъ хвалѧть · много имъ врѣдѧть ·",
+    "originalText": "Μεγάλα βλάπτουσι τοὺς ἀξυνέτους οἱ ἐπαινέοντες.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 113"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Bolje je da te hvali drugi nego ti sam sebe.",
+    "stsl": "Лѹчьше отъ дрѹгаго хвалимѹ быти · нежели самомѹ себе хвалити ·",
+    "originalText": "Βέλτερον ὑφ᾽ ἑτέρου ἢ ὑφ᾽ ἑαυτοῦ ἐπαινέεσθαι.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 114"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ako ne razumeš pohvalu, smatraj da ti laskaju.",
+    "stsl": "Аще хвалы не разѹмѣєши · мьни ꙗко льстѧть ти ·",
+    "originalText": "Ἢν μὴ γνωρίζηις τοὺς ἐπαίνους, κολακεύεσθαι ἡγέο.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 115"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Radije bih našao jedno uzročno objašnjenje nego zadobio persijsko carstvo.",
+    "stsl": "Радѣє єдинѫ причинѫ обрѣлъ быхъ · нежели Персьско царьство приѩлъ быхъ ·",
+    "originalText": "Δημόκριτος γοῦν αὐτός, ὥς φασιν, ἔλεγε βούλεσθαι μᾶλλον μίαν εὑρεῖν αἰτιολογίαν ἢ τὴν Περσῶν οἱ βασιλείαν γενέσθαι.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 118"
+      }
+    ]
+  },
+  {
+    "type": "quote",
+    "sr": "Ljudi načiniše lik slučaja kao izgovor za sopstvenu nerazboritost. Jer slučaj se retko sukobljava s razboritošću, a većinu stvari u životu upravlja oštroumna pronicljivost.",
+    "stsl": "Чловѣци слѹчаꙗ образъ сътворишѧ · вины ради своєѩ безсъвѣтности · Рѣдъко бо слѹчаи съ мѫдростию борєть сѧ · многаꙗ же въ житии остроѹмьноє прозрѣниє ѹправлꙗєть ·",
+    "originalText": "Ἄνθρωποι τύχης εἴδωλον ἐπλάσαντο πρόφασιν ἰδίης ἀβουλίης. Βαιὰ γὰρ φρονήσει τύχη μάχεται, τὰ δὲ πλεῖστα ἐν βίωι εὐξύνετος ὀξυδερκείη κατιθύνει.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "68 B 119"
       }
     ]
   },
