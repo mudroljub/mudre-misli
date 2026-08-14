@@ -417,8 +417,8 @@
   },
   {
     "type": "quote",
-    "sr": "Sve stvari behu zajedno, bezgranične i po mnoštvu i po sićušnosti; jer i sićušno beše bezgranično. I dok sve behu zajedno, ništa se nije moglo jasno razaznati zbog sićušnosti; jer vazduh i etar obuhvatali su sve, oba bezgranični.",
-    "stsl": "Вьсѧ вешти въкѹпѣ бѣахѹ · безмѣрьны и множьствомъ и малостью · ибо и малоє безмѣрьно бѣ · И вьсѣмъ въкѹпѣ сѫштимъ ничьтоже ꙗвѣ бѣ ради малости · въздѹхъ бо и еѳеръ вьсѧ обдръжаста · оба безмѣрьна сѫшта ·",
+    "sr": "Sve stvari behu zajedno, beskrajne i mnoštvom i sitnoćom; jer i sitno beše beskrajno. I dok sva sušta behu zajedno, ništa ne beše vidljivo od sitnoće; jer sve držahu vazduh i nebesje, oba beskrajna.",
+    "stsl": "Вьсѧ вєщи въкѹпѣ бѣахѫ · безмѣрьна и множьствомъ и малостью · ибо и малоє безмѣрьно бѣ · И вьсѣмъ сѫщимъ въкѹпѣ ничьтоже ꙗвьно бѣ отъ малости · вьсѧ бо въздѹхъ и небєсьє дръжаста · обое безмѣрьно сѫще ·",
     "originalText": "Ὁμοῦ πάντα χρήματα ἦν, ἄπειρα καὶ πλῆθος καὶ σμικρότητα· καὶ γὰρ τὸ σμικρὸν ἄπειρον ἦν. Καὶ πάντων ὁμοῦ ἐόντων οὐδὲν ἔνδηλον ἦν ὑπὸ σμικρότητος· πάντα γὰρ ἀήρ τε καὶ αἰθὴρ κατεῖχεν, ἀμφότερα ἄπειρα ἐόντα.",
     "author": "Anaxagoras",
     "sources": [
@@ -431,6 +431,7 @@
   {
     "type": "quote",
     "sr": "Nema najmanjeg među malim, nego uvek postoji manje; jer nije moguće da ono što jeste prestane da bude. Ali i od velikog uvek postoji veće.",
+    "originalText": "οὔτε γὰρ τοῦ σμικροῦ ἐστι τό γε ἐλάχιστον, ἀλλ’ ἔλασσον ἀεί· τὸ γὰρ ἐὸν οὐκ ἔστι τὸ μὴ οὐκ εἶναι. ἀλλὰ καὶ τοῦ μεγάλου ἀεί ἐστι μεῖζον.",
     "stsl": "Нѣсть наимьньшаго въ малѣмь · нъ присно мьньшеє єсть · не възможьно бо єже єсть не быти · И отъ великаго присно вѧштеє єсть ·",
     "author": "Anaxagoras",
     "sources": [
@@ -443,6 +444,7 @@
   {
     "type": "quote",
     "sr": "U onome što se sastavlja sadržane su mnoge i svakovrsne stvari, semena svih stvari, sa svakovrsnim oblicima, bojama i ukusima.",
+    "originalText": "τούτων δὲ οὕτως ἐχόντων χρὴ δοκεῖν ἐνεῖναι πολλά τε καὶ παντοῖα ἐν πᾶσι τοῖς συγκρινομένοις καὶ σπέρματα πάντων χρημάτων καὶ ἰδέας παντοίας ἔχοντα καὶ χροιὰς καὶ ἡδονάς.",
     "stsl": "Въ съставлꙗѭштихъ сѧ многа и всѧкообразьна вьсѧ сѫть · сѣмена вьсѣхъ вещеи · съ всѧкыми образы · цвѣты и вкусы ·",
     "author": "Anaxagoras",
     "sources": [
@@ -455,6 +457,7 @@
   {
     "type": "quote",
     "sr": "Sve stvari imaju deo svega; i nije moguće da budu odvojene, nego sve stvari imaju deo svega.",
+    "originalText": "καὶ οὕτως ἂν εἴη ἐν παντὶ πάντα· οὐδὲ χωρὶς ἔστιν εἶναι, ἀλλὰ πάντα παντὸς μοῖραν μετέχει.",
     "stsl": "Вьсѧ вешти чѧсть вьсего имѫть · и не възможьно имъ разлѫченымъ быти · нъ вьсѧ чѧсть вьсего имѫть ·",
     "author": "Anaxagoras",
     "sources": [
@@ -467,6 +470,7 @@
   {
     "type": "quote",
     "sr": "Kako bi od onoga što nije kosa mogla nastati kosa, i meso od onoga što nije meso?",
+    "originalText": "πῶς γὰρ ἂν ἐκ μὴ τριχὸς γένοιτο θρὶξ καὶ σὰρξ ἐκ μὴ σαρκός;",
     "stsl": "Како отъ єже не єсть власъ власъ бы насталъ · или плъть отъ єже не єсть плъть ·",
     "author": "Anaxagoras",
     "sources": [
@@ -479,6 +483,7 @@
   {
     "type": "quote",
     "sr": "U svemu ima deo svega osim Uma; a ima i stvari u kojima je Um.",
+    "originalText": "ἐν παντὶ παντὸς μοῖρα ἔνεστι πλὴν νοῦ, ἔστιν οἷσι δὲ καὶ νοῦς ἔνι.",
     "stsl": "Въ вьсѣмь чѧсть вьсего єсть · развѣ Ѹма · сѫть же и вешти · въ нихъже Ѹмъ єсть ·",
     "author": "Anaxagoras",
     "sources": [
@@ -504,6 +509,7 @@
   {
     "type": "quote",
     "sr": "Um je najfiniji od svih stvari i najčistiji, ima potpuno znanje o svemu i najveću moć. Nad svime što ima dušu, i većim i manjim, vlada Um.",
+    "originalText": "ἔστι γὰρ λεπτότατόν τε πάντων χρημάτων καὶ καθαρώτατον καὶ γνώμην γε περὶ παντὸς πᾶσαν ἴσχει καὶ ἰσχύει μέγιστον. καὶ ὅσα γε ψυχὴν ἔχει καὶ μείζω καὶ ἐλάσσω, πάντων νοῦς κρατεῖ.",
     "stsl": "Ѹмъ єсть тъньчаиши отъ вьсѣхъ вещеи и чистѣиши · и вьсе знаниє о вьсѣмь имать и силѫ наивѧштѫ · И надъ вьсѣмь · єже дѹшѫ имать · и вѧштимъ и мьньшимъ · Ѹмъ владаєть ·",
     "author": "Anaxagoras",
     "sources": [
@@ -516,6 +522,7 @@
   {
     "type": "quote",
     "sr": "Um je spoznao sve što se meša, razdvaja i razlučuje. I sve što je trebalo da bude, sve što je bilo, što sada jeste i što će biti, sve je Um uredio.",
+    "originalText": "καὶ τὰ συμμισγόμενά τε καὶ ἀποκρινόμενα καὶ διακρινόμενα πάντα ἔγνω νοῦς. καὶ ὁποῖα ἔμελλεν ἔσεσθαι καὶ ὁποῖα ἦν, ἅσσα νῦν μὴ ἔστι, καὶ ὁποῖα ἔστι, πάντα διεκόσμησε νοῦς.",
     "stsl": "Вьсѧ съмѣшаѭштаꙗ сѧ · разлѫчаѭштаꙗ сѧ и различаѭштаꙗ сѧ Ѹмъ позна · И вьсѧ · єже быти имѣаше · єже бѣ · єже нынѣ єсть · и єже бѫдеть · вьсѧ Ѹмъ ѹстрои ·",
     "author": "Anaxagoras",
     "sources": [
@@ -528,6 +535,7 @@
   {
     "type": "quote",
     "sr": "Kada je Um počeo da pokreće, od svega što se kretalo počelo je razdvajanje; a kruženje je činilo da se stvari razdvajaju sve više.",
+    "originalText": "καὶ ἐπεὶ ἤρξατο ὁ νοῦς κινεῖν, ἀπὸ τοῦ κινουμένου παντὸς ἀπεκρίνετο, καὶ ὅσον ἐκίνησεν ὁ νοῦς, πᾶν τοῦτο διεκρίθη· κινουμένων δὲ καὶ διακρινομένων ἡ περιχώρησις πολλῶι μᾶλλον ἐποίει διακρίνεσθαι.",
     "stsl": "Єгда Ѹмъ движити начѧтъ · отъ вьсего движѫштааго сѧ разлѫчениє начѧ сѧ · крѫжениє же творѧаше · да вешти вьсе множає разлѫчаѭть сѧ ·",
     "author": "Anaxagoras",
     "sources": [
@@ -540,6 +548,7 @@
   {
     "type": "quote",
     "sr": "Gusto, vlažno, hladno i tamno sastalo se onde gde je sada Zemlja; retko, toplo, suvo i svetlo otišlo je prema daljem delu etra.",
+    "originalText": "τὸ μὲν πυκνὸν καὶ διερὸν καὶ ψυχρὸν καὶ τὸ ζοφερὸν ἐνθάδε συνεχώρησεν, ἔνθα νῦν ἡ γῆ, τὸ δὲ ἀραιὸν καὶ τὸ θερμὸν καὶ τὸ ξηρὸν ἐξεχώρησεν εἰς τὸ πρόσω τοῦ αἰθέρος.",
     "stsl": "Гѫстоє · влажноє · студеноє и тьмьноє събра сѧ тамо · идѣже нынѣ землѧ єсть · рѣдъкоє же · теплоє · сухоє и свѣтълоє къ дальнѣи чѧсти еѳера отиде ·",
     "author": "Anaxagoras",
     "sources": [
@@ -552,6 +561,7 @@
   {
     "type": "quote",
     "sr": "Iz magle se razdvaja voda, iz vode zemlja, a iz zemlje se hladnoćom zgušnjava kamenje.",
+    "originalText": "ἐκ μὲν γὰρ τῶν νεφελῶν ὕδωρ ἀποκρίνεται, ἐκ δὲ τοῦ ὕδατος γῆ, ἐκ δὲ τῆς γῆς λίθοι συμπήγνυνται ὑπὸ τοῦ ψυχροῦ.",
     "stsl": "Отъ мъглы вода разлѫчаєть сѧ · отъ воды землѧ · отъ землѧ же студению камениє гѫстѣєть ·",
     "author": "Anaxagoras",
     "sources": [
@@ -563,8 +573,9 @@
   },
   {
     "type": "quote",
-    "sr": "Heleni ne govore pravo o nastajanju i propadanju. Jer nijedna stvar ne nastaje niti propada, nego se od postojećih stvari meša i razdvaja. Zato bi pravo bilo nastajanje nazivati mešanjem, a propadanje razdvajanjem.",
-    "stsl": "Еллини не право глаголѭть о настании и погыбели · Ни єдина бо вешьть не настаєть ни погыбаєть · нъ отъ сѫштихъ вещеи съмѣшаєть сѧ и разлѫчаєть сѧ · Тѣмь право бы бѣ настаниє съмѣшениємъ нарицати · погыбь же разлѫчениємъ ·",
+    "sr": "Rađanje i propadanje Heleni ne shvataju pravilno · jer nijedna stvar ne rađa se niti propada · nego se od suštih stvari meša i razlučuje · I tako bi pravilno zvali rađanje mešanjem · a propadanje razlučivanjem ·",
+    "originalText": "τὸ δὲ γίνεσθαι καὶ ἀπόλλυσθαι οὐκ ὀρθῶς νομίζουσιν οἱ Ἕλληνες· οὐδὲν γὰρ χρῆμα γίνεται οὐδὲ ἀπόλλυται, ἀλλ’ ἀπὸ ἐόντων χρημάτων συμμίσγεταί τε καὶ διακρίνεται. καὶ οὕτως ἂν ὀρθῶς καλοῖεν τό τε γίνεσθαι συμμίσγεσθαι καὶ τὸ ἀπόλλυσθαι διακρίνεσθαι.",
+    "stsl": "Рожденьѥ же и тлѣніѥ Єллини не право мьнѧтъ · ничьтоже бо вещь раждаѥть сѧ ни тлѣѥть · нъ отъ сѫщихъ вещии смѣшаѥть сѧ и разлѫчаѥть сѧ · И тако право рожденьѥ смѣшеніѥмъ нарицали бꙑ · тлѣніѥ же разлѫченіѥмъ ·",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -576,6 +587,7 @@
   {
     "type": "quote",
     "sr": "Sunce daje Mesecu sjaj.",
+    "originalText": "ἥλιος ἐντίθησι τῆι σελήνηι τὸ λαμπρόν.",
     "stsl": "Слъньце мѣсѧцѹ свѣтъ даєть ·",
     "author": "Anaxagoras",
     "sources": [
@@ -588,6 +600,7 @@
   {
     "type": "quote",
     "sr": "Zbog slabosti čula nismo sposobni da razlučimo istinu.",
+    "originalText": "ὑπὸ ἀφαυρότητος αὐτῶν οὐ δυνατοί ἐσμεν κρίνειν τἀληθές.",
     "stsl": "Ради немошти чѹвьствъ не можемъ истинѫ разлѫчити ·",
     "author": "Anaxagoras",
     "sources": [
@@ -600,6 +613,7 @@
   {
     "type": "quote",
     "sr": "Pojave su viđenje nevidljivoga.",
+    "originalText": "ὄψις γὰρ τῶν ἀδήλων τὰ φαινόμενα.",
     "stsl": "Ꙗвлѥниꙗ сѫть видѣниє невидимаго ·",
     "author": "Anaxagoras",
     "sources": [
@@ -656,5 +670,133 @@
         "reference": "X.13"
       }
     ]
+  },
+  {
+    "type": "quote",
+    "sr": "Vazduh i etar izdvajaju se iz velike mase koja ih okružuje, a ono što okružuje bezgranično je po mnoštvu.",
+    "stsl": "Въздѹхъ и еѳеръ отъ великаго окрьстъстоѩштаго множьства разлѫчаѭть сѧ · окрьстъстоѩштеє же множьствомъ безмѣрьно єсть ·",
+    "originalText": "καὶ γὰρ ἀήρ τε καὶ αἰθὴρ ἀποκρίνονται ἀπὸ τοῦ πολλοῦ τοῦ περιέχοντος, καὶ τό γε περιέχον ἄπειρόν ἐστι τὸ πλῆθος.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.2" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Tako su se sastavili ljudi i ostala živa bića koja imaju dušu. Ljudi imaju nastanjene gradove i izgrađena dela kao i mi, imaju Sunce, Mesec i ostalo kao i mi, a zemlja im rađa mnoge i svakovrsne plodove, od kojih najkorisnije sabiraju u prebivalište i njima se služe. Ovo sam rekao o razdvajanju: ono se nije dogodilo samo kod nas nego i drugde.",
+    "stsl": "Тако чловѣци съставишѧ сѧ и ина животънаꙗ · елика дѹшѫ имѫть · Чловѣци грады населены и дѣла сътворена имѫть · ꙗкоже и мꙑ · и слъньце и мѣсѧць и инаꙗ · ꙗкоже и мꙑ · Землѧ же имъ многа и всѧкообразьна раждаєть · отъ нихъже полезнѣишаꙗ въ жилиште събираѭть и ими пользѹѭть сѧ · Се рекохъ о разлѫченіи · ꙗко не тъкмо при насъ бысть · нъ и индѣ ·",
+    "originalText": "καὶ ἀνθρώπους τε συμπαγῆναι καὶ τὰ ἄλλα ζῷα ὅσα ψυχὴν ἔχει. καὶ τοῖς γε ἀνθρώποισιν εἶναι καὶ πόλεις συνοικεομένας καὶ ἔργα κατεσκευασμένα, ὥσπερ παρ’ ἡμῖν, καὶ ἠέλιόν τε αὐτοῖσιν εἶναι καὶ σελήνην καὶ τὰ ἄλλα, ὥσπερ παρ’ ἡμῖν, καὶ τὴν γῆν αὐτοῖσι φύειν πολλά τε καὶ παντοῖα, ὧν ἐκεῖνοι τὰ ὀνήιστα συνενεικάμενοι εἰς τὴν οἴκησιν χρῶνται. ταῦτα μὲν οὖν μοι λέλεκται περὶ τῆς ἀποκρίσιος, ὅτι οὐκ ἂν παρ’ ἡμῖν μόνον ἀποκριθείη, ἀλλὰ καὶ ἄλληι.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.4" }]
+  },
+  {
+    "type": "quote",
+    "sr": "A pre nego što se razlučiše, dok sve stvari behu zajedno, nijedna boja ne beše razaznatljiva; jer to sprečavaše mešavina svih stvari: vlažnog i suvog, toplog i hladnog, svetlog i tamnog, uz mnogo zemlje i bezbrojno mnoštvo semena, nimalo nalik jedno drugome. Jer ni od ostalih stvari nijedna nije nalik drugoj. Budući da je tako, valja smatrati da su u sveukupnosti sadržane sve stvari.",
+    "stsl": "Прѣжде разлѫченіꙗ · вьсѣмъ вещемъ въкѹпѣ сѫщимъ · ни єдинъ цвѣтъ ꙗвьнъ бѣ · Смѣшеніѥ бо вьсѣхъ вещии се възбранꙗаше · влажнаго и сѹхаго · теплаго и студенаго · свѣтлаго и тьмьнаго · и земли многꙑ сѫщи и сѣменъ безмѣрьно множьство · дрѹгъ дрѹгѹ не подобьныхъ · Ни бо отъ инѣхъ вещии ничьтоже дрѹгомѹ подобьно єсть · Симъ же тако сѫщимъ · подобаѥтъ мьнѣти · ꙗко въ цѣломь вьсѧ вещи сѫть ·",
+    "originalText": "πρὶν δὲ ἀποκριθῆναι ταῦτα πάντων ὁμοῦ ἐόντων οὐδὲ χροιὴ ἔνδηλος ἦν οὐδεμία· ἀπεκώλυε γὰρ ἡ σύμμιξις πάντων χρημάτων, τοῦ τε διεροῦ καὶ τοῦ ξηροῦ καὶ τοῦ θερμοῦ καὶ τοῦ ψυχροῦ καὶ τοῦ λαμπροῦ καὶ τοῦ ζοφεροῦ, καὶ γῆς πολλῆς ἐνεούσης καὶ σπερμάτων ἀπείρων πλῆθος οὐδὲν ἐοικότων ἀλλήλοις. οὐδὲ γὰρ τῶν ἄλλων οὐδὲν ἔοικε τὸ ἕτερον τῶι ἑτέρωι. τούτων δὲ οὕτως ἐχόντων ἐν τῶι σύμπαντι χρὴ δοκεῖν ἐνεῖναι πάντα χρήματα.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.4" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Pošto su se stvari tako razdvojile, treba znati da sve zajedno nije ni manje ni više — jer nije moguće da bude više od svega — nego je sve uvek jednako.",
+    "stsl": "Вештемъ тако разлѫченымъ подобаєть вѣдѣти · ꙗко вьсѧ въкѹпѣ ни мьнѣє ни множає сѫть · не възможьно бо паче вьсего быти · нъ вьсѧ присно равьна сѫть ·",
+    "originalText": "τούτων δὲ οὕτω διακεκριμένων γινώσκειν χρή, ὅτι πάντα οὐδὲν ἐλάσσω ἐστὶν οὐδὲ πλείω — οὐ γὰρ ἀνυστὸν πάντων πλείω εἶναι — ἀλλὰ πάντα ἴσα ἀεί.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.5" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Pošto najmanje ne postoji, ništa se ne može sasvim odvojiti niti postati samo za sebe, nego sve mora, kao u početku, i sada biti zajedno. U svemu su sadržane mnoge stvari, i u većem i u manjem podjednako mnogo onoga što se razdvaja.",
+    "stsl": "Понеже наимьнѣє не єсть · ничтоже можеть съвьсѣмъ разлѫчити сѧ ни само по себѣ быти · нъ вьсѧ · ꙗкоже въ начѧлѣ · и нынѣ въкѹпѣ быти подобаєть · Въ вьсѣмь многа сѫть · и въ вѧштьмь и въ мьньшемь равьно множество разлѫчаѭштихъ сѧ ·",
+    "originalText": "ὅτε τοὐλάχιστον μὴ ἔστιν εἶναι, οὐκ ἂν δύναιτο χωρισθῆναι, οὐδ’ ἂν ἐφ’ ἑαυτοῦ γενέσθαι, ἀλλ’ ὅπωσπερ ἀρχὴν εἶναι καὶ νῦν πάντα ὁμοῦ. ἐν πᾶσι δὲ πολλὰ ἔνεστι καὶ τῶν ἀποκρινομένων ἴσα πλῆθος ἐν τοῖς μείζοσί τε καὶ ἐλάσσοσι.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.6" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Mnoštvo stvari koje se razdvajaju ne možemo saznati ni razumom ni delom.",
+    "stsl": "Множьства разлѫчаѭштихъ сѧ вещеи не можемъ познати ни разумомъ ни дѣломъ ·",
+    "originalText": "ὥστε τῶν ἀποκρινομένων μὴ εἰδέναι τὸ πλῆθος μήτε λόγωι μήτε ἔργωι.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.7" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Stvari u ovom jednom svetu nisu međusobno odvojene niti odsečene sekirom: ni toplo od hladnog ni hladno od toplog.",
+    "stsl": "Вешти въ семь єдиномь строи не сѫть дрѹгъ отъ дрѹга разлѫчены ни сѣкꙑрою отсѣчены · ни теплоє отъ студенаго · ни студеноє отъ теплаго ·",
+    "originalText": "οὐ κεχώρισται ἀλλήλων τὰ ἐν τῶι ἑνὶ κόσμωι οὐδὲ ἀποκέκοπται πελέκει οὔτε τὸ θερμὸν ἀπὸ τοῦ ψυχροῦ οὔτε τὸ ψυχρὸν ἀπὸ τοῦ θερμοῦ.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.8" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Stvari se tako okreću i razlučuju pod dejstvom siline i brzine. Brzina stvara silinu, a njihova brzina nije nalik brzini nijedne sada postojeće stvari među ljudima, nego je u svakom pogledu mnogostruko veća.",
+    "stsl": "Вещи тако крѫжѧть сѧ и разлѫчаѭть сѧ силою и быстротою · Быстрота силѫ творить · быстрота же ихъ не подобьна быстротѣ ни єдиныѩ отъ нынѣ сѫщихъ въ чловѣцѣхъ вещии · нъ вьсѣмь многократъ быстрѣиша єсть ·",
+    "originalText": "οὕτω τούτων περιχωρούντων τε καὶ ἀποκρινομένων ὑπὸ βίης τε καὶ ταχυτῆτος· βίην δὲ ἡ ταχυτὴς ποιεῖ. ἡ δὲ ταχυτὴς αὐτῶν οὐδενὶ ἔοικε χρήματι τὴν ταχυτῆτα τῶν νῦν ἐόντων χρημάτων ἐν ἀνθρώποις, ἀλλὰ πάντως πολλαπλασίως ταχύ ἐστι.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.9" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Um, koji je večan, zaista je i sada onde gde su i sve ostale stvari: u velikoj masi koja okružuje, u onome što joj se pridružilo i u onome što se odvojilo.",
+    "stsl": "Ѹмъ · иже присно єсть · въ истинѫ и нынѣ тамо єсть · идѣже и вьсѧ инаꙗ · въ великомь окрьстъстоѩштимь множьствѣ · въ присъєдиненыхъ и въ разлѫченыхъ ·",
+    "originalText": "ὁ δὲ νοῦς, ὃς ἀεί ἐστι, τὸ κάρτα καὶ νῦν ἐστιν ἵνα καὶ τὰ ἄλλα πάντα, ἐν τῶι πολλῶι περιέχοντι καὶ ἐν τοῖς προσκριθεῖσι καὶ ἐν τοῖς ἀποκεκριμένοις.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.14" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Jer da nije sam po sebi, nego pomešan s drugim, imao bi udela u svim stvarima. Jer u svemu ima deo svega. Pomešane stvari sprečavale bi ga da vlada ijednom stvari kao kada je sam po sebi.",
+    "stsl": "Аште бо не самъ по себѣ бѣ · нъ съ инѣмь съмѣшенъ · вьсѣхъ вещии чѧсть имѣлъ бы · Въ вьсѣмь бо чѧсть вьсего єсть · Съмѣшанаꙗ же възбранꙗла бы ємѹ владати ни єдиною вещию · ꙗкоже самъ по себѣ сꙑ ·",
+    "originalText": "εἰ μὴ γὰρ ἐφ’ ἑαυτοῦ ἦν, ἀλλά τεῳ ἐμέμεικτο ἄλλωι, μετεῖχεν ἂν ἁπάντων χρημάτων, εἰ ἐμέμεικτό τεῳ· ἐν παντὶ γὰρ παντὸς μοῖρα ἔνεστιν, ὥσπερ ἐν τοῖς πρόσθεν μοι λέλεκται· καὶ ἂν ἐκώλυεν αὐτὸν τὰ συμμεμειγμένα, ὥστε μηδενὸς χρήματος κρατεῖν ὁμοίως ὡς καὶ μόνον ἐόντα ἐφ’ ἑαυτοῦ.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.12" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Um je ovladao sveukupnim kruženjem i dao mu početni zamah. Kruženje je najpre počelo od maloga, zatim se širi i širiće se još više.",
+    "stsl": "Ѹмъ вьсѣмь крѫженіємь овлада и начѧло движенію даде · Крѫженіє прьвѣє отъ малаго начѧ сѧ · потомь множає простираєть сѧ и єште множає прострѣти сѧ имать ·",
+    "originalText": "καὶ τῆς περιχωρήσιος τῆς συμπάσης νοῦς ἐκράτησεν, ὥστε περιχωρῆσαι τὴν ἀρχήν. καὶ πρῶτον ἀπό του σμικροῦ ἤρξατο περιχωρεῖν, ἐπὶ δὲ πλέον περιχωρεῖ, καὶ περιχωρήσει ἐπὶ πλέον.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.12" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Um je uredio i ovo kruženje kojim se sada okreću zvezde, Sunce, Mesec, vazduh i etar što se izdvajaju. Samo kruženje izazvalo je razdvajanje: gusto se razdvaja od retkog, toplo od hladnog, svetlo od tamnog i suvo od vlažnog.",
+    "stsl": "Ѹмъ ѹстрои и се крѫженіє · имьже нынѣ звѣзды · слъньце · мѣсѧць · въздѹхъ и еѳеръ разлѫчаѭштаꙗ сѧ обраштаѭть сѧ · Само крѫженіє разлѫченіє сътвори · гѫстоє отъ рѣдъкаго разлѫчаєть сѧ · теплоє отъ студенаго · свѣтълоє отъ тьмьнаго и сѹхоє отъ влажнаго ·",
+    "originalText": "καὶ τὴν περιχώρησιν ταύτην, ἣν νῦν περιχωρέει τά τε ἄστρα καὶ ὁ ἥλιος καὶ ἡ σελήνη καὶ ὁ ἀὴρ καὶ ὁ αἰθὴρ οἱ ἀποκρινόμενοι. ἡ δὲ περιχώρησις αὐτὴ ἐποίησεν ἀποκρίνεσθαι. καὶ ἀποκρίνεται ἀπό τε τοῦ ἀραιοῦ τὸ πυκνὸν καὶ ἀπὸ τοῦ ψυχροῦ τὸ θερμὸν καὶ ἀπὸ τοῦ ζοφεροῦ τὸ λαμπρὸν καὶ ἀπὸ τοῦ διεροῦ τὸ ξηρόν.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.12" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Postoje mnogi delovi mnogih stvari. Ništa se potpuno ne odvaja niti razlučuje jedno od drugoga osim Uma. Svaki Um je jednak, i veći i manji; ništa drugo nije jednako ničemu, nego svaka pojedinačna stvar jeste i bila je najočiglednije ono čega u njoj ima najviše.",
+    "stsl": "Многы чѧсти многыхъ вещеи сѫть · Ничьтоже съвьсѣмъ не разлѫчаєть сѧ ни различаєть сѧ єдино отъ дрѹгаго развѣ Ѹма · Вьсѧкъ Ѹмъ подобьнъ єсть · и вѧшть и мьньши · Ино же ничьтоже ничьсомѹ подобьно єсть · нъ коѩ вещи въ коємь множає · то єдина вешьть ꙗвѣ єсть и бѣ ·",
+    "originalText": "μοῖραι δὲ πολλαὶ πολλῶν εἰσι. παντάπασι δὲ οὐδὲν ἀποκρίνεται οὐδὲ διακρίνεται ἕτερον ἀπὸ τοῦ ἑτέρου πλὴν νοῦ. νοῦς δὲ πᾶς ὅμοιός ἐστι καὶ ὁ μείζων καὶ ὁ ἐλάττων. ἕτερον δὲ οὐδέν ἐστιν ὅμοιον οὐδενί, ἀλλ’ ὅτων πλεῖστα ἔνι, ταῦτα ἐνδηλότατα ἓν ἕκαστόν ἐστι καὶ ἦν.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.12" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Dugom nazivamo odsjaj Sunca u oblacima. Ona je znak nevremena: voda razlivena oko oblaka stvara vetar ili izliva kišu.",
+    "stsl": "Дѫгою нарицаємъ отсвѣтъ слъньца въ облацѣхъ · Она знамениє бѹрѧ єсть · вода бо окрьсть облака разлиꙗна вѣтръ творить или дъждь изливаєть ·",
+    "originalText": "Ἶριν δὲ καλέομεν τὸ ἐν τῆισι νεφέληισιν ἀντιλάμψον τῶι ἡλίωι. χειμῶνος οὖν ἐστι σύμβολον· τὸ γὰρ περιχεόμενον ὕδωρ τῶι νέφει ἄνεμον ἐποίησεν ἢ ἐξέχεεν ὄμβρον.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.19" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Pri izlasku Psa ljudi započinju žetvu, a pri njegovom zalasku obradu zemlje. Pas ostaje skriven četrdeset dana i isto toliko noći.",
+    "stsl": "Пьсѹ възходѧштѹ чловѣци жатвѫ начинаѭть · заходѧштѹ же землѭ дѣлати · Пьсъ четꙑридесѧть дьнии и толико же ноштии съкръвенъ прѣбываєть ·",
+    "originalText": "cane ascendente messem, descendente vero terrae cultum homines exordiri; canem XL diebus totidemque noctibus occultari.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.20" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Ptičjim mlekom naziva se belance u jajima.",
+    "stsl": "Птичиємь млѣкомь бѣлоє въ ꙗицѣхъ нарицаєть сѧ ·",
+    "originalText": "ἐν τοῖς Φυσικοῖς τὸ καλούμενόν φησιν ὄρνιθος γάλα τὸ ἐν τοῖς ὠιοῖς εἶναι λευκόν.",
+    "author": "Anaxagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "B.22" }]
   }
 ]

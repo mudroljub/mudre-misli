@@ -79,6 +79,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.51"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "80 B 1"
       }
     ]
   },
@@ -131,6 +135,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.51–52"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "80 B 4"
       }
     ]
   },
@@ -328,5 +336,53 @@
         "reference": "X.8"
       }
     ]
+  },
+  {
+    "type": "quote",
+    "sr": "Poučavanju su potrebni prirodna obdarenost i vežbanje.",
+    "stsl": "Поѹчению трѣбѣ єста природьно дарованиє и ѹпражнениє ·",
+    "originalText": "φύσεως καὶ ἀσκήσεως διδασκαλία δεῖται.",
+    "author": "Protagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "80 B 3" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Učenje treba započeti od mladosti.",
+    "stsl": "Отъ юности ѹчити сѧ начѧти подобаєть ·",
+    "originalText": "ἀπὸ νεότητος δὲ ἀρξαμένους δεῖ μανθάνειν.",
+    "author": "Protagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "80 B 3" }]
+  },
+  {
+    "type": "reported",
+    "sr": "Protagora je, pobijajući geometre, govorio da opažajni krug ne dodiruje lenjir samo u jednoj tački.",
+    "stsl": "Протъагоръ · геометры опровергаѧ · глаголааше · ꙗко чѹвьствьнъ крѫгъ мѣрила не въ єдинои тъкмѣ точьцѣ касаєть сѧ ·",
+    "originalText": "οὐθὲν γὰρ εὐθὺ τῶν αἰσθητῶν οὕτως οὐδὲ στρογγύλον· ἅπτεται γὰρ τοῦ κανόνος οὐ κατὰ στιγμὴν ὁ κύκλος, ἀλλ᾿ ὥσπερ Πρωταγόρας ἔλεγεν ἐλέγχων τοὺς γεωμέτρας.",
+    "author": "Protagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "80 B 7" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Kada su mu oba sina, mlada i lepa, umrla za svega osam dana, Perikle je to podneo bez žalosti. Sačuvao je vedrinu, od koje je svakoga dana mnogo dobijao za dobru sreću, bezbolnost i ugled među ljudima. Ko god ga je video kako postojano podnosi sopstvenu žalost smatrao ga je velikodušnim, hrabrim i jačim od sebe, dobro znajući sopstvenu nemoć u takvim prilikama.",
+    "stsl": "Єгда оба сына єго · юна и красна · въ осмьхъ тъкмо дьнехъ ѹмрѣста · Периклъ безъ печали прѣтръпѣ · Благодѹшиꙗ бо дръжааше сѧ · отъ него же на вьсѧкъ дьнь много къ благѹ сѫдьбы · безболѣзнию и славѣ въ людьхъ обрѣтааше · Вьсѧкъ бо · видѧ и ꙗко крѣпъко своѭ печаль носить · великодѹшьна и храбра и себе крѣплѧ мьнѧше и · своѭ немошть въ таковыхъ дѣлѣхъ добрѣ вѣды ·",
+    "originalText": "τῶν γὰρ υἱέων νεηνίων ὄντων καὶ καλῶν, ἐν ὀκτὼ δὲ ταῖς πάσηισιν ἡμέρηισι ἀποθανόντων νηπενθέως ἀνέτλη· εὐδίης γὰρ εἴχετο, ἐξ ἧς πολλὸν ὤνητο κατὰ πᾶσαν ἡμέρην εἰς εὐποτμίην καὶ ἀνωδυνίην καὶ τὴν ἐν τοῖς πολλοῖσι δόξαν· πᾶς γάρ τίς μιν ὁρῶν τὰ ἑαυτοῦ πένθεα ἐρρωμένως φέροντα, μεγαλόφρονά τε καὶ ἀνδρεῖον ἐδόκει εἶναι καὶ ἑαυτοῦ κρέσσω, κάρτα εἰδὼς τὴν ἑαυτοῦ ἐν τοιοῖσδε πράγμασιν ἀμηχανίην.",
+    "author": "Protagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "80 B 9" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Nema ni umeća bez vežbanja ni vežbanja bez umeća.",
+    "stsl": "Ни хитрости безъ ѹпражнениꙗ · ни ѹпражнениꙗ безъ хитрости нѣсть ·",
+    "originalText": "μηδὲν εἶναι μήτε τέχνην ἄνευ μελέτης μήτε μελέτην ἄνευ τέχνης.",
+    "author": "Protagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "80 B 10" }]
+  },
+  {
+    "type": "quote",
+    "sr": "Obrazovanje ne niče u duši ako se ne dopre do velike dubine.",
+    "stsl": "Образованиє въ дѹши не прозѧбаєть · аште къ велицѣ глѫбинѣ не достигнеть сѧ ·",
+    "originalText": "Nicht sprosst Bildung in der Seele, wenn man nicht zu vieler Tiefe kommt.",
+    "author": "Protagoras",
+    "sources": [{ "name": "hermann-diels", "reference": "80 B 11" }]
   }
 ]

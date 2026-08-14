@@ -2,8 +2,8 @@
   {
     "type": "bio",
     "year": -624,
-    "sr": "Rođen u Miletu.",
-    "stsl": "Родомь Милитьць бѣ ·",
+    "sr": "Bio je rođeni Milećanin.",
+    "stsl": "Прирожденъ Милитьць бѣ ·",
     "originalText": "Ἰθαγενὴς Μιλήσιος ἦν.",
     "author": "Thales",
     "sources": [
@@ -31,7 +31,7 @@
     "type": "bio",
     "year": -610,
     "sr": "Nije imao učitelja; otišao je u Egipat, gde je boravio sa sveštenicima.",
-    "stsl": "Оучителꙗ не имѣ · тъкъмо въ Єгѵптъ пришедъ съ жрьци пребꙑваше ·",
+    "stsl": "Ѹчителꙗ не имѣ · тъкмо въ Егѵпетъ пришедъ · съ жрьци прѣбываше ·",
     "originalText": "Οὐδεὶς δὲ αὐτοῦ καθηγήσατο, πλὴν ὅτι εἰς Αἴγυπτον ἐλθὼν τοῖς ἱερεῦσι συνδιέτριψεν.",
     "author": "Thales",
     "sources": [
@@ -44,8 +44,8 @@
   {
     "type": "bio",
     "year": -600,
-    "sr": "Anaksimander bio njegov učenik i naslednik; on je osnovao jonsku filozofsku školu.",
-    "stsl": "Анаѯімандръ же послѣдователь его бꙑсть · първъ же Іоньско любомѫдрие начѧ ·",
+    "sr": "Anaksimandar je bio njegov naslednik, a Tales prvi predstavnik jonskog mudroljublja.",
+    "stsl": "Анаксимандръ же послѣдьникъ єго бысть · Талесъ пръвыи Іоньскымъ любомѫдриємъ любомѫдръствова ·",
     "originalText": "Ἀναξίμανδρος δὲ διάδοχος αὐτοῦ γέγονεν· πρῶτος δὲ τὸ Ἰωνικὸν ἐφιλοσόφησεν.",
     "author": "Thales",
     "sources": [
@@ -57,9 +57,9 @@
   },
   {
     "type": "works",
-    "sr": "Po nekima ne ostavio napisana dela; po drugima napisao samo dva spisa: O solsticiju i ravnodnevici.",
-    "stsl": "Писаніѩ не остави ничьсоже · тъкъмо два написа · о прѣвратѣ и равьнодьньствіи ·",
-    "originalText": "Σύγγραμμα κατέλιπεν οὐδέν· μόνα δύο συνέγραψε, Περὶ τροπῆς καὶ ἰσημερίας.",
+    "sr": "Po jednom predanju nije ostavio nijedan spis; prema drugom napisao je samo dva, O solsticiju i O ravnodnevici, smatrajući ostalo nesaznatljivim.",
+    "stsl": "По єдиномѹ прѣданиѭ ни єдиного списаниꙗ не остави · по дрѹгомѹ тъкмо два написа · О прѣвратѣ и О равьнодьньствии · прочаꙗ непоꙗтьна мьнѧ ·",
+    "originalText": "Σύγγραμμα κατέλιπεν οὐδέν. Κατά τινας δὲ μόνα δύο συνέγραψε, Περὶ τροπῆς καὶ ἰσημερίας, τὰ ἄλλ᾿ ἀκατάληπτα εἶναι δοκιμάσας.",
     "author": "Thales",
     "sources": [
       {
@@ -85,9 +85,9 @@
   {
     "type": "bio",
     "year": -590,
-    "sr": "Prvi upisao pravougli trougao u krug; prvi izmerio piramide pomoću senke.",
-    "stsl": "Първъ въ крѫꙁѣ троѹгъльникъ правоѹгъльнъ написа · и пирамидꙑ отъ сѣни измѣри ·",
-    "originalText": "Πρῶτον καταγράψαι κύκλου τὸ τρίγωνον ὀρθογώνιον· τὰς πυραμίδας ἐκμετρῆσαι ἐκ τῆς σκιᾶς.",
+    "sr": "Prvi je upisao pravougli trougao u krug.",
+    "stsl": "Пръвыи въ крѫзѣ правокѫтьнъ троѹгъльникъ написа ·",
+    "originalText": "Πρῶτον καταγράψαι κύκλου τὸ τρίγωνον ὀρθογώνιον.",
     "author": "Thales",
     "sources": [
       {
@@ -97,25 +97,10 @@
     ]
   },
   {
-    "type": "bio",
-    "year": -546,
-    "sr": "Umro je u sedamdeset osmoj godini gledajući atletske igre; po Sosikratu, živeo je devedeset godina.",
-    "stsl": "Прѣстави сѧ лѣтъ седмьдесѧть и осмь имѣꙗ · или по Сосикратѹ девѧть десѧтъ · борьбꙑ ꙁьрѧ ·",
-    "originalText": "Ἐτελεύτησε γὰρ ἐτῶν ὢν ἑβδομήκοντα ὀκτώ, ἢ κατὰ Σωσικράτη ἐνενήκοντα· ἀγῶνα θεώμενος γυμνικόν.",
-    "author": "Thales",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.38-39"
-      }
-    ]
-  },
-  {
     "type": "reported",
     "sr": "Upitan zašto nema dece, odgovorio je: Iz ljubavi prema deci.",
     "stsl": "Въпрошенъ почто чѧдъ не имать · рече · Любови ради къ чѧдомъ ·",
     "author": "Thales",
-    "year": -624,
     "originalText": "Ὅτε καὶ ἐρωτηθέντα διὰ τί οὐ τεκνοποιεῖ, διὰ φιλοτεκνίαν εἰπεῖν.",
     "sources": [
       {
@@ -168,8 +153,8 @@
   },
   {
     "type": "anecdote",
-    "sr": "Kada je među mudracima kružio tronožac namenjen najmudrijem, Tales ga je prosledio dalje, a potom posvetio Apolonu, držeći da je bog jedini istinski najmudriji.",
-    "stsl": "Треножьникъ мѫдрѣцемъ данъ · онъ инѹ даде · и тъ инѹ · даже до Солона · иже рече мѫдрости прьвъ Богъ · и въ Делфꙑ посъла ·",
+    "sr": "Kada je tronožac namenjen najmudrijem predat Talesu, on ga je prosledio drugome; tako je stigao do Solona, koji reče da bog ima prvenstvo u mudrosti i posla ga u Delfe.",
+    "stsl": "Треножьникъ мѫдрѣишѹмѹ данъ Талесѹ · онъ же иномѹ прѣдасть · и тъ иномѹ · дондеже до Солона достиже · Солонъ рече · ꙗко Богъ пръвыи мѫдростиѭ · и въ Делфы посъла и ·",
     "author": "Thales",
     "year": -572,
     "originalText": "Φασὶ γὰρ Ἰωνικούς τινας νεανίσκους βόλον ἀγοράσαι παρὰ Μιλησίων ἁλιέων. Ἀνασπασθέντος δὲ τοῦ τρίποδος ἀμφισβήτησις ἦν. Διδοῦσιν οὖν Θαλῇ· ὁ δὲ ἄλλῳ καὶ ἄλλος ἄλλῳ ἕως Σόλωνος. Ὁ δὲ ἔφη σοφίᾳ πρῶτον εἶναι τὸν θεὸν καὶ ἀπέστειλεν εἰς Δελφούς.",
@@ -196,8 +181,8 @@
   },
   {
     "type": "reported",
-    "sr": "Tales je govorio da je zahvalan sudbini za tri stvari: što je rođen kao čovek a ne životinja, kao muškarac a ne žena, i kao Helen a ne varvarin.",
-    "stsl": "Триꙗ сꙑ рече благодарити Сѫдьбѣ · ꙗко чловѣкъ родихъ сѧ а не ꙁвѣрь · ꙗко мѫжь а не жена · ꙗко Єлинъ а не варваръ ·",
+    "sr": "Hermip Talesu pripisuje zahvalnost sudbini za tri stvari: što je rođen kao čovek, a ne zver; kao muškarac, a ne žena; i kao Helen, a ne varvarin.",
+    "stsl": "Хермипъ Талесѹ приписѹєть · ꙗко за три сѫдьбѣ благодарѧше · ꙗко чловѣкъ роди сѧ · а не звѣрь · ꙗко мѫжь · а не жена · ꙗко Елинъ · а не варваръ ·",
     "originalText": "Τριῶν τούτων ἕνεκα χάριν ἔχειν τῇ Τύχῃ· πρῶτον μὲν ὅτι ἄνθρωπος ἐγενόμην καὶ οὐ θηρίον, εἶτα ὅτι ἀνὴρ καὶ οὐ γυνή, τρίτον ὅτι Ἕλλην καὶ οὐ βάρβαρος.",
     "author": "Thales",
     "sources": [
@@ -209,22 +194,22 @@
   },
   {
     "type": "anecdote",
-    "sr": "Tales je umro dok je posmatrao atletsko nadmetanje, savladan vrućinom, žeđu i starošću.",
-    "stsl": "Прѣстави сѧ борьбꙑ ꙁьрѧ · жарѫ и жаждѭ и старостиѭ прѣможенъ ·",
+    "sr": "Tales je umro gledajući atletsko nadmetanje, savladan vrućinom, žeđu i slabošću u dubokoj starosti. Imao je sedamdeset osam godina, ili prema Sosikratu devedeset.",
+    "stsl": "Талесъ прѣстави сѧ · тѣлесьно състѧзаниє зрѧ · зноємъ · жѧждеѭ и немоштиѭ въ глѫбоцѣ старости прѣможенъ · Седмьдесѧть и осмь лѣтъ имѣаше · или по Сосикратѹ девѧтьдесѧть ·",
     "author": "Thales",
     "year": -546,
-    "originalText": "Ἐτελεύτησεν ἀγῶνα θεώμενος γυμνικὸν ὑπό τε καύματος καὶ δίψους καὶ ἀσθενείας, ἤδη γηραιός.",
+    "originalText": "Ἐτελεύτησε δ᾿ ἐτῶν ἑβδομήκοντα ὀκτώ, ἢ κατὰ Σωσικράτη ἐνενήκοντα. Ἐτελεύτησεν ἀγῶνα θεώμενος γυμνικὸν ὑπό τε καύματος καὶ δίψους καὶ ἀσθενείας, ἤδη γηραιός.",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "I.39"
+        "reference": "I.38–39"
       }
     ]
   },
   {
     "type": "quote",
-    "sr": "Mnoge reči ne pokazuju razumno srce.",
-    "stsl": "Не мноꙁи словеса разборьно срьдьце ꙗвлѧють ·",
+    "sr": "Mnoge reči ne otkrivaju razumno mnenje.",
+    "stsl": "Многа словеса разборьна мьнѣниꙗ не ꙗвлѧѭть ·",
     "originalText": "Οὔ τι τὰ πολλὰ ἔπη φρονίμην ἀπεφήνατο δόξαν.",
     "author": "Thales",
     "sources": [
@@ -262,8 +247,8 @@
   },
   {
     "type": "quote",
-    "sr": "Najlepši je ustroj, jer je delo Božje.",
-    "stsl": "Красьнѣи вьсѣхъ Строи · дѣло бо Божиє ·",
+    "sr": "Najlepši je svet, jer je delo Božje.",
+    "stsl": "Краснѣи вьсѣхъ міръ · дѣло бо Божиє ·",
     "originalText": "Κάλλιστον κόσμος· ποίημα γὰρ θεοῦ.",
     "author": "Thales",
     "sources": [
@@ -470,8 +455,8 @@
   },
   {
     "type": "quote",
-    "sr": "Srećan je onaj ko ima zdravo telo, sposobnu dušu i pitomu narav.",
-    "stsl": "Съчастьнъ · иже тѣло здраво · дѹшѫ способьнѫ · естество ѹчьливо имать ·",
+    "sr": "Srećan je onaj ko je telom zdrav, dušom imućan i prirodom dobro obrazovan.",
+    "stsl": "Блаженъ · иже тѣломъ здравъ · дѹшеѭ обиленъ · естествомъ добро наѹченъ ·",
     "originalText": "Ὁ τὸ μὲν σῶμα ὑγιής, τὴν δὲ ψυχὴν εὔπορος, τὴν δὲ φύσιν εὐπαίδευτος.",
     "author": "Thales",
     "sources": [
@@ -496,8 +481,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ne uznosi se spoljašnjim izgledom, nego se trudi da budeš lep po naravi.",
-    "stsl": "Не видомь красити сѧ · нъ обꙑчаемь красьнъ быти ·",
+    "sr": "Ne ukrašavaj izgled, nego budi lep svojim postupcima.",
+    "stsl": "Не образъ краси · нъ дѣлы красенъ бѫди ·",
     "originalText": "Μὴ τὴν ὄψιν καλλωπίζεσθαι, ἀλλὰ τοῖς ἐπιτηδεύμασιν εἶναι καλόν.",
     "author": "Thales",
     "sources": [
@@ -548,21 +533,8 @@
   },
   {
     "type": "reported",
-    "sr": "Tales je govorio da su samo solsticij i ravnodnevica saznatljivi, a da je sve ostalo nesaznatljivo.",
-    "stsl": "О прѣвратѣ и равьнодьньствии · прочаꙗ же вьсꙗ непоꙗтъна быти рєчє ·",
-    "originalText": "Περὶ τροπῆς καὶ ἰσημερίας, τὰ ἄλλ' ἀκατάληπτα εἶναι δοκιμάσας.",
-    "author": "Thales",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.23"
-      }
-    ]
-  },
-  {
-    "type": "reported",
-    "sr": "Tales je govorio da je duša besmrtna.",
-    "stsl": "Първъ рече дѹшѫ безсмрьтьнѫ быти ·",
+    "sr": "Po nekima, Tales je prvi rekao da su duše besmrtne.",
+    "stsl": "По нѣкымъ · Талесъ пръвыи рече · ꙗко дѹшы бесъмрьтьны сѫть ·",
     "originalText": "Πρῶτον εἰπεῖν ἀθανάτους τὰς ψυχάς.",
     "author": "Thales",
     "sources": [
@@ -574,8 +546,8 @@
   },
   {
     "type": "reported",
-    "sr": "Tales je govorio da je Sunce sedamsto dvadeseti deo Sunčeva kruga, a Mesec isti toliki deo Mesečeva kruga.",
-    "stsl": "Съльньце седмь съта и двадесѧть чѧсть крѫга съльньчьна · тако же и Мѣсѧць крѫга мѣсѧчьна ·",
+    "sr": "Po nekima, Tales je prvi odredio da je veličina Sunca sedamsto dvadeseti deo Sunčeva kruga, a veličina Meseca isti deo Mesečeva kruga.",
+    "stsl": "По нѣкымъ · Талесъ пръвыи показа · ꙗко величьство слъньца седмьсъта и двадесѧта чѧсть слъньчьна крѫга · тако же величьство мѣсѧца · мѣсѧчьна крѫга ·",
     "originalText": "Τὸ τοῦ ἡλίου μέγεθος τοῦ ἡλιακοῦ κύκλου ὥσπερ καὶ τὸ τῆς σελήνης μέγεθος τοῦ σεληναίου ἑπτακοσιοστὸν καὶ εἰκοστὸν μέρος ἀπεφήνατο.",
     "author": "Thales",
     "sources": [
@@ -587,8 +559,8 @@
   },
   {
     "type": "reported",
-    "sr": "I nežive stvari imaju dušu, što pokazuju magnet i ćilibar.",
-    "stsl": "И бездѹшьнꙑѩ вєщи дѹшѫ имѫть · знамєниємь отъ камене магнитьска и отъ илєктра ·",
+    "sr": "Prema Aristotelu i Hipiji, Tales je i neživim stvarima pripisivao dušu, zaključujući to po magnetu i ćilibaru.",
+    "stsl": "По Аристотєли и Хипии · Талесъ и бездѹшьнымъ вештемъ дѹшѫ приписоваше · отъ магнитьска камене и ꙗнтара разѹмѣваѧ ·",
     "originalText": "Καὶ τοῖς ἀψύχοις μεταδιδόναι ψυχάς, τεκμαιρόμενον ἐκ τῆς λίθου τῆς μαγνήτιδος καὶ τοῦ ἠλέκτρου.",
     "author": "Thales",
     "sources": [
@@ -634,36 +606,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "I.37"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "sr": "Herodot, Duris i Demokrit svedoče da je Tales po poreklu Feničanin iz roda Kadma i Agenora.",
-    "stsl": "Херодотъ и Дѹрисъ и Демокритъ свѣдьтельствѹють ꙗко Фалесъ родомь Финікіанинъ отъ Кадма и Агенора ·",
-    "originalText": "Ἦν τοίνυν ὁ Θαλῆς, ὡς μὲν Ἡρόδοτος καὶ Δοῦρις καὶ Δημόκριτός φασι, πατρὸς μὲν Ἐξαμύου, μητρὸς δὲ Κλεοβουλίνης, ἐκ τῶν Θηλιδῶν, οἵ εἰσι Φοίνικες, εὐγενέστατοι τῶν ἀπὸ Κάδμου καὶ Ἀγήνορος.",
-    "author": "Thales",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.22"
-      }
-    ]
-  },
-  {
-    "type": "bio",
-    "sr": "Po nekima je Tales prvi proučavao zvezde i predvideo pomračenja Sunca i solsticije, kako kaže Eudem. Zbog toga mu se dive Ksenofan i Herodot, a o njemu svedoče i Heraklit i Demokrit.",
-    "stsl": "По нѣкꙑимъ Ѳалесъ пръвъ звѣздочетіємъ занѧ сѧ · и съльньчьна затмѣниꙗ и прѣвратꙑ прѣдърече · ꙗкоже Еѵдимъ глаголеть · тѣмьже и Ксенофанъ и Херодотъ дивѧть сѧ · свѣдѣтельствѹѭть же о немь и Хераклитъ и Демокритъ ·",
-    "originalText": "Δοκεῖ δὲ κατά τινας πρῶτος ἀστρολογῆσαι καὶ ἡλιακὰς ἐκλείψεις καὶ τροπὰς προειπεῖν, ὥς φησιν Εὔδημος ἐν τῇ Περὶ τῶν ἀστρολογουμένων ἱστορίᾳ· ὅθεν αὐτὸν καὶ Ξενοφάνης καὶ Ἡρόδοτος θαυμάζει. Μαρτυρεῖ δ' αὐτῷ καὶ Ἡράκλειτος καὶ Δημόκριτος.",
-    "author": [
-      "Thales",
-      "Democritus",
-      "Heraclitus"
-    ],
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.23"
       }
     ]
   },

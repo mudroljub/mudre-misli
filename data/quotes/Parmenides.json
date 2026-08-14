@@ -114,6 +114,7 @@
     "type": "reported",
     "year": -450,
     "sr": "Platon prikazuje Parmenida kako u Atini razgovara sa veoma mladim Sokratom. Istoričnost ovog susreta nije sigurna.",
+    "originalText": "ἔφη δὲ δὴ ὁ Ἀντιφῶν λέγειν τὸν Πυθόδωρον ὅτι ἀφίκοιντό ποτε εἰς Παναθήναια τὰ μεγάλα Ζήνων τε καὶ Παρμενίδης. τὸν μὲν οὖν Παρμενίδην εὖ μάλα ἤδη πρεσβύτην εἶναι, σφόδρα πολιόν, καλὸν δὲ κἀγαθὸν τὴν ὄψιν, περὶ ἔτη μάλιστα πέντε καὶ ἑξήκοντα· Ζήνωνα δὲ ἐγγὺς τῶν τετταράκοντα τότε εἶναι, εὐμήκη δὲ καὶ χαρίεντα ἰδεῖν. […] οἷ δὴ καὶ ἀφικέσθαι τόν τε Σωκράτη καὶ ἄλλους τινὰς μετ’ αὐτοῦ πολλούς […] Σωκράτη δὲ εἶναι τότε σφόδρα νέον.",
     "stsl": "Платонъ Парменіда въ Аѳінахъ съ зѣло юнымъ Сократомъ бесѣдѹѭшта показѹєть · Аще ли же сице истинно бꙑсть · не извѣстно ·",
     "author": "Parmenides",
     "sources": [
@@ -127,6 +128,7 @@
     "type": "bio",
     "year": -495,
     "sr": "Parmenid je Eleji dao zakone koji su ostali na velikom glasu. Plutarh kaže da su se gradski činovnici svake godine zaklinjali da će ostati verni Parmenidovim zakonima.",
+    "originalText": "Παρμενίδης δὲ τὴν ἑαυτοῦ πατρίδα διεκόσμησε νόμοις ἀρίστοις, ὥστε τὰς ἀρχὰς καθ’ ἕκαστον ἐνιαυτὸν ἐξορκοῦν τοὺς πολίτας ἐμμενεῖν τοῖς Παρμενίδου νόμοις.",
     "stsl": "Парменидъ Елеи законꙑ дадѣ · иже въ велицѣи славѣ осташѧ · Плѹтархъ глаголєть · ꙗко градьстии владарє вьсако лѣто клѧхѫ сѧ Парменидовꙑихъ законъ дрьжати сѧ ·",
     "author": "Parmenides",
     "sources": [
@@ -144,6 +146,7 @@
     "type": "reported",
     "year": -495,
     "sr": "Strabon Parmenida i Zenona naziva pitagorejcima i kaže da je Eleja, između ostalog i njihovom zaslugom, imala dobre zakone.",
+    "originalText": "ἐξ ἧς Παρμενίδης καὶ Ζήνων ἐγένοντο ἄνδρες Πυθαγόρειοι. δοκεῖ δέ μοι καὶ δι’ ἐκείνους καὶ ἔτι πρότερον εὐνομηθῆναι.",
     "stsl": "Стравонъ Парменіда и Зенона Пѵѳагорѣица нарицаєть · и глаголєть ꙗко Елеа и тѣма добрѣ законꙑ имѣаше ·",
     "author": "Parmenides",
     "sources": [
@@ -272,8 +275,8 @@
   },
   {
     "type": "quote",
-    "sr": "Biće je jedno.",
-    "stsl": "Сѫщее єдино єсть ·",
+    "sr": "Jedno je sušto.",
+    "stsl": "Єдино сѫщее єсть ·",
     "originalText": "ἓν τὸ ὄν ἐστιν.",
     "author": "Parmenides",
     "sources": [
@@ -390,8 +393,8 @@
   },
   {
     "type": "quote",
-    "sr": "Umom gledaj odsutno kao pouzdano prisutno. Jer biće nećeš odvojiti od bića, ni kad se svuda rasipa po ustroju, ni kad se sabira.",
-    "stsl": "Ѹмомъ ꙁри отъсѫщее ꙗко извѣстьно присѫщее · Сѫщее бо отъ сѫщаго не отълѫчиши · ни по строю вьсѫдѹ расѣваѥмо · ни събираѥмо ·",
+    "sr": "Umom motri odsutno kao pouzdano prisutno. Jer sušto od suštog nećeš odseći, ni kad se svuda rasipa po svetu, ni kad se sabira.",
+    "stsl": "Ѹмомъ зьри отъсѫщаꙗ ꙗко извѣстьно присѫщаꙗ · Сѫщее бо отъ сѫщаго не отсѣчеши · ни по мірѹ расѣваѭщее сѧ · ни събираѭщее сѧ ·",
     "originalText": "λεῦσσε δ᾽ ὅμως ἀπεόντα νόῳ παρεόντα βεβαίως· οὐ γὰρ ἀποτμήξει τὸ ἐὸν τοῦ ἐόντος ἔχεσθαι οὔτε σκιδνάμενον πάντῃ πάντως κατὰ κόσμον οὔτε συνιστάμενον.",
     "author": "Parmenides",
     "sources": [
@@ -429,8 +432,8 @@
   },
   {
     "type": "quote",
-    "sr": "Ostaje još samo jedno kazivanje o putu: jeste. Na njemu su mnoga znamenja: biće je nerođeno i nepropadljivo, celo, jedino, nepokretno i dovršeno. Niti ikada beše niti će biti, jer sada jeste, sve zajedno, jedno i neprekidno. Kakvo ćeš mu rođenje tražiti? Kako i odakle poraste? Neću ti dopustiti ni da kažeš ni da pojmiš: iz ne-bića. Jer ne može se ni iskazati ni pojmiti da nije. Kakva bi ga nužda, počevši od ničega, nagnala da nastane kasnije ili ranije? Zato mora ili sasvim biti ili ne biti. Ni snaga uverenja neće dopustiti da iz ne-bića nastane išta drugo pored njega. Zato Pravda ne popušta okove: ne dopušta mu ni da nastane ni da propadne, nego ga drži. Odluka je ova: jeste ili nije. Nužda je već presudila: jedan put valja ostaviti kao nepojmljiv i bezimen, jer nije istinit; drugi — da jeste i da je istinit. Kako bi onda biće moglo propasti? Kako bi moglo nastati? Ako nastade, nije; niti jeste ako tek treba da bude. Tako se rođenje ugasi, a propast iščeznu.",
-    "stsl": "Єдина же повѣсть пѫти остаєть · єсть · На немь многа ꙁнамениꙗ · сѫщее нерождено и нетлѣньно · цѣло · єдино · недвижимо и съврьшено · Ни бѣ нѣкогда ни бѫдеть · нꙑнѣ бо єсть вьсе вкупѣ · єдино и неразлѫчно · Каково рожденьѥ ємѹ ищеши · како и отъкѫдѹ възрасте · Не дамь ти ни глаголати ни поѩти · отъ не сѫщаго · Не можеть бо ни изрещи сѧ ни поѩти · нѣсть · Каꙗ же нѫжда єго · отъ ничьсоже наченъша · понѹди потомъ или прѣжде родити сѧ · Тѣмь или вьсецѣло быти подобаєть · или не быти · Ни сила вѣры не дасть отъ не сѫщаго иномѹ чемѹ при немь родити сѧ · Того ради Правда · оковъ не ослаблꙗѭщи · ни родити сѧ ни погꙑбнѫти не дасть · нъ дрьжить и · Лѫченіє же се · єсть или нѣсть · Лѫчено ѹбо єсть · ꙗкоже нѫжда повелѣваєть · єдинъ пѫть оставити ꙗко непоѩтъ и безъ имене · не истиньнъ бо єсть · дрѹгꙑи же · ꙗко єсть и истиньнъ · Како ѹбо сѫщее погꙑбнѫти можеть · како же родити сѧ · Аще бо роди сѧ · нѣсть · ни єсть аще потомъ быти имать · Тако рожденьѥ ѹгасе · погꙑбель же исчезе ·",
+    "sr": "Ostaje još samo jedno kazivanje o putu: jeste. Na njemu su mnoga znamenja: biće je nerođeno i nepropadljivo, celo, jedino, nepokretno i dovršeno. Niti ikada beše niti će biti, jer sada jeste, sve zajedno, jedno i neprekidno. Kakvo ćeš mu rođenje tražiti? Kako i odakle poraste? Neću ti dopustiti ni kazati ni pojmiti: iz nebića. Jer ne može se ni kazati ni pojmiti da nije. Kakva bi ga nužda, počevši od ničega, nagnala da nastane kasnije ili ranije? Zato mora sasvim biti ili ne biti. Ni snaga uverenja neće dopustiti da iz nebića nastane išta pored njega. Zato Pravda ne popušta okove: ne dopušta mu ni nastati ni propasti, nego ga drži. Odluka je ova: jeste ili nije. Odlučeno je, kako nužda nalaže: jedan put ostaviti nepojmljiv i bezimen, jer nije istinit; drugi — da jeste i da je istinit. Kako bi biće moglo propasti? Kako nastati? Ako nastade, nije; niti jeste ako će tek biti. Tako se rođenje ugasi, a propast iščeznu.",
+    "stsl": "Єдина же повѣсть пѫти остаєть · єсть · На немь многа знамениꙗ · сѫщее нерождено и нетлѣньно · цѣло · єдино · недвижимо и съврьшено · Ни бѣ нѣкогда ни бѫдеть · нꙑнѣ бо єсть · вьсе въкѹпѣ · єдино и неразлѫчно · Каково рожденьѥ ємѹ ищеши · како и отъкѫдѹ възрасте · Не дамь ти ни глаголати ни поѩти · отъ не сѫщаго · Не можеть бо ни изрещи сѧ ни поѩти · нѣсть · Каꙗ же нѫжда єго · отъ ничьсоже наченъша · понѹди потомъ или прѣжде родити сѧ · Тѣмь вьсецѣло быти подобаєть · или не быти · Ни сила вѣры не дасть отъ не сѫщаго чемѹ при немь родити сѧ · Того ради Правда · оковъ не ослаблꙗѭщи · ни родити сѧ ни погꙑбнѫти не дасть · нъ дрьжить и · Лѫченіє же се · єсть или нѣсть · Лѫчено ѹбо єсть · ꙗкоже нѫжда повелѣваєть · єдинъ пѫть оставити непоѩтъ и безъ имене · не истиньнъ бо єсть · дрѹгꙑи же · ꙗко єсть и истиньнъ · Како ѹбо сѫщее погꙑбнѫти можеть · како родити сѧ · Аще бо роди сѧ · нѣсть · ни єсть аще потомъ быти имать · Тако рожденьѥ ѹгасе · погꙑбель исчезе ·",
     "originalText": "μοῦνος δ᾽ ἔτι μῦθος ὁδοῖο λείπεται ὡς ἔστιν· ταύτῃ δ᾽ ἐπὶ σήματ᾽ ἔασι πολλὰ μάλ᾽, ὡς ἀγένητον ἐὸν καὶ ἀνώλεθρόν ἐστιν οὖλον μουνογενές τε καὶ ἀτρεμὲς ἠδ᾽ ἀτέλεστον· οὐδέ ποτ᾽ ἦν οὐδ᾽ ἔσται, ἐπεὶ νῦν ἔστιν ὁμοῦ πᾶν, ἕν, συνεχές· τίνα γὰρ γένναν διζήσεαι αὐτοῦ; πῇ πόθεν αὐξηθέν; οὔτ᾽ ἐκ μὴ ἐόντος ἐάσσω φάσθαι σ᾽ οὐδὲ νοεῖν· οὐ γὰρ φατὸν οὐδὲ νοητόν ἔστιν ὅπως οὐκ ἔστι. τί δ᾽ ἄν μιν καὶ χρέος ὦρσεν ὕστερον ἢ πρόσθεν, τοῦ μηδενὸς ἀρξάμενον, φῦν; οὕτως ἢ πάμπαν πελέναι χρεών ἐστιν ἢ οὐχί. οὐδέ ποτ᾽ ἐκ μὴ ἐόντος ἐφήσει πίστιος ἰσχύς γίγνεσθαί τι παρ᾽ αὐτό· τοῦ εἵνεκεν οὔτε γενέσθαι οὔτ᾽ ὄλλυσθαι ἀνῆκε Δίκη χαλάσασα πέδῃσιν, ἀλλ᾽ ἔχει· ἡ δὲ κρίσις περὶ τούτων ἐν τῷδ᾽ ἔστιν· ἔστιν ἢ οὐκ ἔστιν· κέκριται δ᾽ οὖν, ὥσπερ ἀνάγκη, τὴν μὲν ἐᾶν ἀνόητον ἀνώνυμον (οὐ γὰρ ἀληθής ἔστιν ὁδός), τὴν δ᾽ ὥστε πέλειν καὶ ἐτήτυμον εἶναι. πῶς δ᾽ ἂν ἔπειτα πέλοι τὸ ἐόν; πῶς δ᾽ ἄν κε γένοιτο; εἰ γὰρ ἔγεντ᾽, οὐκ ἔστ(ι), οὐδ᾽ εἴ ποτε μέλλει ἔσεσθαι. τὼς γένεσις μὲν ἀπέσβεσται καὶ ἄπυστος ὄλεθρος.",
     "author": "Parmenides",
     "sources": [
@@ -442,8 +445,8 @@
   },
   {
     "type": "quote",
-    "sr": "Biće nije deljivo, jer je svuda isto. Nigde ga nema više niti manje: sve je puno bića. Zato je sve neprekidno; biće prianja uz biće. Nepokretno, u granicama silnih okova, bez početka je i bez prestanka, jer rođenje i propast behu odagnani daleko: odbaci ih istinsko uverenje. Isto, u istom ostajući, počiva samo u sebi i tako čvrsto ostaje na mestu. Silna Nužda drži ga u okovima granice koja ga odasvud zatvara. Zato biću nije dopušteno da bude nedovršeno: ničega mu ne nedostaje.",
-    "stsl": "Ни сѫщее раздѣлимо єсть · вьсѫдѹ бо тожде · Нигдѣ єго болѥ · єже бы съдрьжати сѧ възбранило · ни мьньше · вьсе бо сѫщаго пълно · Тѣмь вьсе неразлѫчно · сѫщее бо сѫщаго дрьжить сѧ · Недвижимо · въ коньцехъ крѣпъкꙑхъ оковъ · безъ начѧла и безъ прѣстаніꙗ · Рожденьѥ бо и погꙑбель далече отъгнана · истиньна вѣра ѩ отрину · Тожде · въ тождемь прѣбꙑваѭще · само въ себѣ лежить · и тако твьрдо на мѣстѣ прѣбꙑваєть · Крѣпъка бо Нѫжда въ оковѣхъ коньца дрьжить є · иже є отвьсѫдѹ затворѧєть · Тѣмь сѫщемѹ не подобаєть несъврьшенѹ быти · ничьсоже бо ємѹ не лишить · аще ли не бы было · вьсего бы лишило ·",
+    "sr": "Biće nije deljivo, jer je svuda isto. Nigde ga nema više ni manje; sve je puno bića. Zato je sve neprekidno: biće prianja uz biće. Nepokretno, u granicama silnih okova, bez početka je i prestanka, jer rođenje i propast behu daleko odagnani: odbaci ih istinsko uverenje. Isto, u istom ostajući, počiva samo u sebi i čvrsto ostaje. Silna Nužda drži ga u okovima granice koja ga odasvud zatvara. Zato biće ne sme biti nedovršeno: ničega mu ne nedostaje.",
+    "stsl": "Ни сѫщее раздѣлимо єсть · вьсѫдѹ бо тожде · Нигдѣ єго ни болѥ ни мьньше · вьсе бо сѫщаго пълно · Тѣмь вьсе неразлѫчно · сѫщее бо сѫщаго дрьжить сѧ · Недвижимо · въ коньцехъ крѣпъкꙑхъ оковъ · безъ начѧла и прѣстаніꙗ · Рожденьѥ бо и погꙑбель далече отъгнана · истиньна вѣра ѩ отрину · Тожде · въ тождемь прѣбꙑваѭще · само въ себѣ лежить · и твьрдо прѣбꙑваєть · Крѣпъка бо Нѫжда въ оковѣхъ коньца дрьжить є · иже є отвьсѫдѹ затворѧєть · Тѣмь сѫщемѹ не подобаєть несъврьшенѹ быти · ничьсоже бо ємѹ не лишить · несѫщемѹ же вьсего бы лишило ·",
     "originalText": "οὐδὲ διαιρετόν ἐστιν, ἐπεὶ πᾶν ἐστιν ὁμοῖον· οὐδέ τι τῇ μᾶλλον, τό κεν εἴργοι μιν συνέχεσθαι, οὐδέ τι χειρότερον, πᾶν δ᾽ ἔμπλεόν ἐστιν ἐόντος. τῷ ξυνεχὲς πᾶν ἐστιν· ἐὸν γὰρ ἐόντι πελάζει. αὐτὰρ ἀκίνητον μεγάλων ἐν πείρασι δεσμῶν ἔστιν ἄναρχον ἄπαυστον, ἐπεὶ γένεσις καὶ ὄλεθρος τῆλε μάλ᾽ ἐπλάχθησαν, ἀπῶσε δὲ πίστις ἀληθής. ταὐτόν τ᾽ ἐν ταὐτῷ τε μένον καθ᾽ ἑαυτό τε κεῖται χοὔτως ἔμπεδον αὖθι μένει· κρατερὴ γὰρ ᾽Ανάγκη πείρατος ἐν δεσμοῖσιν ἔχει, τό μιν ἀμφὶς ἐέργει, οὕνεκεν οὐκ ἀτελεύτητον τὸ ἐὸν θέμις εἶναι· ἔστι γὰρ οὐκ ἐπιδευές· [μὴ] ἐὸν δ᾽ ἂν παντὸς ἐδεῖτο.",
     "author": "Parmenides",
     "sources": [
@@ -455,8 +458,8 @@
   },
   {
     "type": "quote",
-    "sr": "Isto je pojmiti i ono radi čega poim jeste. Jer bez bića, u kojem je izrečen, nećeš naći poim. Ništa drugo niti jeste niti će biti osim bića: Sudba ga sveza da bude celo i nepokretno. Zato su samo imena sve što smrtnici postaviše verujući da je istinito: rađati se i propadati, biti i ne biti, menjati mesto i menjati svetlu boju.",
-    "stsl": "Тожде єсть поѩти и то · єгоже ради поимъ єсть · Безъ сѫщаго бо · въ немьже изреченъ · поѩти не обрѧщеши · Ничтоже ино ни єсть ни бѫдеть кроме сѫщаго · Сѫдьба бо є связа · цѣло и недвижимо быти · Тѣмь имѧна тъкмо сѫть вьсѧ · ꙗже смрьтнии положиша · вѣровавъше истинна быти · раждати сѧ и погꙑбати · быти и не быти · мѣсто прѣмѣнѧти и свѣтлꙑи цвѣтъ мѣнити ·",
+    "sr": "Isto je pojmiti i ono radi čega pojam jeste. Jer bez bića, u kojem je iskazan, nećeš naći pojam. Ništa drugo niti jeste niti će biti osim bića: Sudba ga sveza da bude celo i nepokretno. Zato su samo imena sve što smrtnici postaviše verujući da je istinito: rađati se i propadati, biti i ne biti, menjati mesto i menjati svetlu boju.",
+    "stsl": "Тожде єсть поѩти и то єгоже ради поимъ єсть · Безъ сѫщаго бо въ немьже изреченъ поѩти не обрѧщеши · Ничьтоже ино ни єсть ни бѫдеть развѣ сѫщаго · Сѫдьба бо є связа цѣло и недвижимо быти · Тѣмь имена тъкмо сѫть вьсѧ ꙗже смрьтьнии положишѧ вѣровавъше истиньна быти · раждати сѧ и погꙑбати · быти и не быти · мѣсто прѣмѣнѧти и свѣтлꙑи цвѣтъ мѣнити ·",
     "originalText": "ταὐτὸν δ᾽ ἐστὶ νοεῖν τε καὶ οὕνεκεν ἔστι νόημα. οὐ γὰρ ἄνευ τοῦ ἐόντος, ἐν ᾧ πεφατισμένον ἐστίν, εὑρήσεις τὸ νοεῖν· οὐδὲν γὰρ <ἢ> ἔστιν ἢ ἔσται ἄλλο πάρεξ τοῦ ἐόντος, ἐπεὶ τό γε Μοῖρ᾽ ἐπέδησεν οὖλον ἀκίνητόν τ᾽ ἔμεναι· τῷ πάντ᾽ ὄνομ(α) ἔσται, ὅσσα βροτοὶ κατέθεντο πεποιθότες εἶναι ἀληθῆ, γίγνεσθαί τε καὶ ὄλλυσθαι, εἶναί τε καὶ οὐχί, καὶ τόπον ἀλλάσσειν διά τε χρόα φανὸν ἀμείβειν.",
     "author": "Parmenides",
     "sources": [
@@ -468,8 +471,8 @@
   },
   {
     "type": "quote",
-    "sr": "Pošto ima krajnju granicu, biće je sa svih strana dovršeno, nalik masi sasvim okrugle lopte, od sredine svuda jednako. Ne može ovde biti veće, a onde manje. Nema ne-bića koje bi ga sprečilo da svuda jednako doseže, niti bića može biti ovde više, a onde manje, jer je celo nepovredivo. Sa svih strana jednako, jednako doseže svoju granicu.",
-    "stsl": "Понеже краинии коньць имать · сѫщее отвьсѫдѹ съврьшено · вьсецѣло окрѫглыѩ лопътꙑ громади подобьно · отъ срѣды вьсѫдѹ равно · Не можеть бо овъдѣ болѥ ни ондѣ мьньше быти · Ни не сѫщее єсть · єже бы ємѹ къ равьномѹ достиꙁати възбранило · ни сѫщаго овъдѣ болѥ · ондѣ же мьньше быти можеть · цѣло бо неврѣдимо · Отвьсѫдѹ равно · равно своихъ коньць достигаєть ·",
+    "sr": "Pošto ima krajnju granicu, biće je sa svih strana dovršeno, nalik masi sasvim okrugle lopte, od sredine svuda jednako. Ne može ovde biti veće, onde manje. Nema nebića koje bi ga sprečilo da jednako doseže, niti bića može biti ovde više, onde manje, jer je celo nepovredivo. Sa svih strana jednako, jednako doseže granicu.",
+    "stsl": "Понеже краинии коньць имать · сѫщее отвьсѫдѹ съврьшено · вьсецѣло окрѫглыѩ лопътꙑ громади подобьно · отъ срѣды вьсѫдѹ равно · Не можеть овъдѣ болѥ · ондѣ мьньше быти · Ни несѫщее єсть єже бы ємѹ равно достигати възбранило · ни сѫщаго овъдѣ болѥ · ондѣ мьньше быти можеть · цѣло бо неврѣдимо · Отвьсѫдѹ равно · равно коньца достигаєть ·",
     "originalText": "αὐτὰρ ἐπεὶ πεῖρας πύματον, τετελεσμένον ἐστί πάντοθεν, εὐκύκλου σφαίρης ἐναλίγκιον ὄγκῳ, μεσσόθεν ἰσοπαλὲς πάντῃ· τὸ γὰρ οὔτε τι μεῖζον οὔτε τι βαιότερον πελέναι χρεόν ἐστι τῇ ἢ τῇ. οὔτε γὰρ οὐκ ἐὸν ἔστι, τό κεν παύοι μιν ἱκνεῖσθαι εἰς ὁμόν, οὔτ᾽ ἐὸν ἔστιν ὅπως εἴη κεν ἐόντος τῇ μᾶλλον τῇ δ᾽ ἧσσον, ἐπεὶ πᾶν ἐστιν ἄσυλον· οἷ γὰρ πάντοθεν ἶσον, ὁμῶς ἐν πείρασι κύρει.",
     "author": "Parmenides",
     "sources": [

@@ -2,8 +2,8 @@
   {
     "type": "bio",
     "year": -570,
-    "sr": "Rođen u Kolofonu.",
-    "stsl": "Ксенофанъ Дексіовъ Колофонꙗнинъ бѣ.",
+    "sr": "Ksenofan, sin Deksija ili, prema Apolodoru, Ortomena, bio je Kolofonjanin.",
+    "stsl": "Ксенофанъ · Дексіовъ сынъ · или · по Аполлодорѹ · Ортоменовъ · Колофонꙗнинъ бѣ ·",
     "originalText": "Ξενοφάνης Δεξίου ἤ, ὡς Ἀπολλόδωρος, Ὀρθομένους Κολοφώνιος.",
     "author": "Xenophanes",
     "sources": [
@@ -16,9 +16,9 @@
   {
     "type": "bio",
     "year": -545,
-    "sr": "Prognan iz zavičaja; živeo u Zankleu i Katani na Siciliji.",
-    "stsl": "Изгнанъ отъ отъечьства · въ Занклѣи и Катанѣ на Сициліи живѧаше.",
-    "originalText": "Ἐκπεσὼν τῆς πατρίδος διέτριψεν ἐν Ζάγκλῃ τῆς Σικελίας καὶ Κατάνῃ.",
+    "sr": "Prognan iz zavičaja, Ksenofan je živeo u Zankleu i Katani na Siciliji.",
+    "stsl": "Изъ отьчьства изгнанъ · Ксенофанъ въ Занклѣи и Катанѣ Сикелиискѣи живѣаше ·",
+    "originalText": "οὗτος ἐκπεσὼν τῆς πατρίδος ἐν Ζάγκλῃ τῆς Σικελίας διέτριβε δὲ καὶ ἐν Κατάνῃ.",
     "author": "Xenophanes",
     "sources": [
       {
@@ -30,7 +30,7 @@
   {
     "type": "works",
     "sr": "Spevao je dve hiljade stihova o osnivanju Kolofona i naseljavanju Eleje u Italiji.",
-    "stsl": "О основаніи Колофона и населеніи Елеи въ Италїи двѣ тꙑсѫщи стихъ сътвори ·",
+    "stsl": "О основаніи Колофона и населеніи Елеѩ въ Италии двѣ тысѫшти стиховъ сътвори ·",
     "originalText": "Ἐποίησε δὲ καὶ Κολοφῶνος κτίσιν καὶ τὸν εἰς Ἐλέαν τῆς Ἰταλίας ἀποικισμὸν ἔπη δισχίλια.",
     "author": "Xenophanes",
     "sources": [
@@ -43,9 +43,23 @@
   {
     "type": "bio",
     "year": -530,
-    "sr": "Po nekima slušao Botona Atinjanina, po drugima Arhelaosa; po Sotiju bio savremenik Anaksimandra.",
-    "stsl": "По нѣкіимъ Ботъона Атинꙗнина слꙑшааше · по инѣмъ Архелаоса · по Сотъію съвременникъ Анаксимандра бѣ.",
-    "originalText": "Ἤκουσε δὲ κατὰ μὲν ἐνίους οὐδενός, Βότωνος δὲ τοῦ Ἀθηναίου κατὰ τοὺς πλείστους· κατά τινας δὲ Ἀρχελάου· κατὰ δὲ Σωτίωνα κατ' Ἀναξίμανδρον ἦν.",
+    "sr": "Prema nekima, Ksenofan nije slušao nikoga; prema drugima slušao je Botona Atinjanina ili Arhelaosa.",
+    "stsl": "По нѣкыимъ Ксенофанъ никогоже слѹша · по дрѹгыимъ же Ботона Атинꙗнина или Архелаа ·",
+    "originalText": "διήκουσε δὲ κατ' ἐνίους μὲν οὐδενός, κατ' ἐνίους δὲ Βότωνος Ἀθηναίου ἤ, ὥς τινες, Ἀρχελάου.",
+    "author": "Xenophanes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.18"
+      }
+    ]
+  },
+  {
+    "type": "bio",
+    "year": -546,
+    "sr": "Prema Sotionu, Ksenofan je živeo u vreme Anaksimandra.",
+    "stsl": "По Сотионѹ · Ксенофанъ въ врѣмѧ Анаксимандрово живѣаше ·",
+    "originalText": "καί, ὡς Σωτίων φησί, κατ' Ἀναξίμανδρον ἦν.",
     "author": "Xenophanes",
     "sources": [
       {
@@ -57,8 +71,8 @@
   {
     "type": "bio",
     "year": -540,
-    "sr": "Cvetao u šezdesetoj olimpijadi.",
-    "stsl": "Цвѣтааше въ шєстьдєсѧтоі олѵмпїадѣ ·",
+    "sr": "Ksenofan je cvetao u šezdesetoj olimpijadi.",
+    "stsl": "Ксенофанъ цвѣтѣаше въ шестьдесѧтѣи олѵмпіадѣ ·",
     "originalText": "καὶ ἤκμαζε κατὰ τὴν ἑξηκοστὴν Ὀλυμπιάδα.",
     "author": "Xenophanes",
     "sources": [
@@ -70,9 +84,9 @@
   },
   {
     "type": "works",
-    "sr": "Napisao epe, elegije i jambe protiv Hesioda i Homera.",
-    "stsl": "Напіса єпꙑ · єлєгіі і іамвы протъивѹ Хєсіода і Хомєра ·",
-    "originalText": "γέγραφεν ἔπη τε καὶ ἐλεγείας καὶ ἰάμβους καθ' Ἡσιόδου τε καὶ Ὁμήρου.",
+    "sr": "Pisao je epove, elegije i jambe, u kojima je ismevao Hesiodove i Homerove iskaze o bogovima.",
+    "stsl": "Епы · елегиѩ и іамбы писа · въ нихъ же Хесиодова и Омерова о бозѣхъ словеса порѫгаше ·",
+    "originalText": "γέγραφε δὲ ἐν ἔπεσι καὶ ἐλεγείας καὶ ἰάμβους καθ' Ἡσιόδου καὶ Ὁμήρου, ἐπικόπτων αὐτῶν τὰ περὶ θεῶν εἰρημένα.",
     "author": "Xenophanes",
     "sources": [
       {
@@ -82,23 +96,9 @@
     ]
   },
   {
-    "type": "bio",
-    "year": -478,
-    "sr": "Živeo devedeset i dve godine prema sopstvenom svedočenju.",
-    "stsl": "Жити деꙗносто и двѣ лѣта по собственомѹ свѣдѣтельствѹ.",
-    "originalText": "Καὶ τὸν αὑτοῦ βίον λέγων ἐν μέρει τοῦ βίου φησίν· Ἤδη δ' ἑπτὰ τε καὶ ἑξήκοντ' ἔτεα μέριμναν ἐμὴν κατὰ Ἑλλάδα γῆν βάλλουσαν, ἦν δ' ἀπὸ γενετῆς τότε πέντε τε καὶ εἴκοσιν εἴπερ ἐγὼ περὶ τῶνδ' ἐτύμως οἶδα λέγειν.",
-    "author": "Xenophanes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.18-19"
-      }
-    ]
-  },
-  {
     "type": "quote",
-    "sr": "Već šezdeset i sedam godina moja misao luta po helenskoj zemlji; a od moga rođenja do tada beše još dvadeset i pet godina, ako umem istinu o tome reći.",
-    "stsl": "Уже седмь и шєстьдесѧтъ лѣтъ мою мысль по єллиньстѣи земли носѧть · Отъ рождениꙗ же моєго до того бѣаше єще два десѧте и пѧть лѣтъ · аще о сихъ истинѹ глаголати вѣмь ·",
+    "sr": "Već šezdeset i sedam godina moja misao luta helenskom zemljom; a tada beše još dvadeset i pet godina od moga rođenja, ako o tome umem istinu reći.",
+    "stsl": "Уже седмь и шестьдесѧтъ лѣтъ мысль моѩ по еллиньстѣи земли блѫдить · тогда же отъ рождениѩ моего бѣаше и два десѧте и пѧть лѣтъ · аще о сихъ истинѫ глаголати вѣмь ·",
     "originalText": "ἤδη δ' ἑπτά τ' ἔασι καὶ ἑξήκοντ' ἐνιαυτοὶ βληστρίζοντες ἐμὴν φροντίδ' ἀν' Ἑλλάδα γῆν· ἐκ γενετῆς δὲ τότ' ἦσαν ἐείκοσι πέντε τε πρὸς τοῖς, εἴπερ ἐγὼ περὶ τῶνδ' οἶδα λέγειν ἐτύμως.",
     "author": "Xenophanes",
     "sources": [
@@ -109,9 +109,22 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Oblaci nastaju kada se isparenje, koje Sunce podiže, uznese u okolni vazduh.",
-    "stsl": "Облаци бываѭть · єгда испареніє · єже слъньце възносить · възходитъ въ обьимѫщии въздѹхъ ·",
+    "type": "reported",
+    "sr": "Govorio je da postoje četiri prvine postojećeg i beskrajni nepromenljivi svetovi.",
+    "stsl": "Глаголааше · ꙗко четыри прьвины сѫштихъ сѫть · міри же безмѣрьни и непрѣмѣньни ·",
+    "originalText": "Φησὶ δὲ τέτταρα εἶναι τῶν ὄντων στοιχεῖα, κόσμους δ' ἀπείρους, οὐ παραλλακτοὺς δέ.",
+    "author": "Xenophanes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.19"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Govorio je da oblaci nastaju kada se isparenje od Sunca podigne i ponese ih u okolni vazduh.",
+    "stsl": "Глаголааше · ꙗко облаци събираѭть сѧ · єгда отъ слъньца пара възносить сѧ и възводить ꙗ въ окрьстьныи въздѹхъ ·",
     "originalText": "τὰ νέφη συνίστασθαι τῆς ἀφ' ἡλίου ἀτμίδος ἀναφερομένης καὶ αἰρούσης αὐτὰ εἰς τὸ περιέχον.",
     "author": "Xenophanes",
     "sources": [
@@ -122,9 +135,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Suštastvo božje okruglo je i ničim slično čoveku. Sav vidi i sav čuje, ali ne diše. Sav je um i razboritost, i večan je.",
-    "stsl": "Сѫщьство божиє окрѫгло єсть и ничимь же чловѣкѹ подобьно · Вьсь видить и вьсь слышить · нъ не дышить · Вьсь же ѹмъ и благоразѹмиє и вѣчьнъ єсть ·",
+    "type": "reported",
+    "sr": "Govorio je da je božje suštastvo okruglo i ničim slično čoveku; da celo vidi i celo čuje, ali ne diše; da je svekoliko um i razboritost i da je večno.",
+    "stsl": "Глаголааше · ꙗко сѫщьство божиє окрѫгло и ничимьже чловѣкѹ подобьно · вьсе видить и вьсе слышить · нъ не дышеть · вьсецѣло же ѹмъ и разборьность и вѣчьно єсть ·",
     "originalText": "οὐσίαν θεοῦ σφαιροειδῆ, μηδὲν ὅμοιον ἔχουσαν ἀνθρώπῳ· ὅλον δὲ ὁρᾶν καὶ ὅλον ἀκούειν, μὴ μέντοι ἀναπνεῖν· σύμπαντά τε εἶναι νοῦν καὶ φρόνησιν καὶ ἀΐδιον.",
     "author": "Xenophanes",
     "sources": [
@@ -135,9 +148,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Sve što nastaje propadljivo je.",
-    "stsl": "Вьсѧко бываѭщеє тлѣньно єсть ·",
+    "type": "reported",
+    "sr": "Prvi je izjavio da je sve nastajuće propadljivo.",
+    "stsl": "Прьвыи изрече · ꙗко вьсѧко раждаѭштеє сѧ тлѣньно ·",
     "originalText": "πᾶν τὸ γινόμενον φθαρτόν ἐστι.",
     "author": "Xenophanes",
     "sources": [
@@ -148,9 +161,9 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Duša je dah.",
-    "stsl": "Дѹша єсть дыханіє ·",
+    "type": "reported",
+    "sr": "Govorio je da je duša dah.",
+    "stsl": "Глаголааше · ꙗко дѹша дъхъ єсть ·",
     "originalText": "ἡ ψυχὴ πνεῦμα.",
     "author": "Xenophanes",
     "sources": [
@@ -188,8 +201,8 @@
   },
   {
     "type": "quote",
-    "sr": "Jasno nijedan čovek nije video, niti će biti ikoga ko zna o bogovima i svemu.",
-    "stsl": "Ꙗсно никтоже чловѣкъ видѣ · ни бѹдетъ кто вѣдꙑи о бозѣхъ и о всѣхъ ·",
+    "sr": "Jasnu istinu nijedan čovek ne vide, niti će biti ikoga ko zna.",
+    "stsl": "Истинѫ ꙗснѫ никтоже чловѣкъ видѣ · ни бѫдеть кто вѣдыи ·",
     "originalText": "σαφὲς οὔτις ἀνὴρ ἴδεν οὐδέ τις ἔσται εἰδώς.",
     "author": "Xenophanes",
     "sources": [
@@ -200,15 +213,42 @@
     ]
   },
   {
-    "type": "reported",
-    "sr": "Stihovima je grdio Hesioda i Homera zbog njihovih reči o bogovima. Javno je kazivao svoje pesme. Suprotstavljao se učenjima Talesa, Pitagore i Epimenida.",
-    "stsl": "Стихы укорьны творѧаше на Хесиода и Хомера ради словесъ ихъ о бозѣхъ · Своѧ же пѣниꙗ самъ предъ людьми глаголааше · Ѹчєниѧмъ Фалеса · Питагора и Епименида протъивлѧаше сѧ ·",
+    "type": "bio",
+    "year": -530,
+    "sr": "Ksenofan je sam javno kazivao svoje pesme.",
+    "stsl": "Ксенофанъ самъ своѩ пѣниѩ предъ людьми пѣвааше ·",
     "author": "Xenophanes",
-    "originalText": "Ἐπιτιμᾷ δὲ καὶ τῷ Ἡσιόδῳ καὶ τῷ Ὁμήρῳ ἐν τοῖς ποιήμασι περὶ τῶν θεῶν.",
+    "originalText": "ἀλλὰ καὶ αὐτὸς ἐρραψῴδει τὰ ἑαυτοῦ.",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "IX.18"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Prema predanju, Ksenofan se protivio Talesovim i Pitagorinim stavovima, a napadao je i Epimenida.",
+    "stsl": "По прѣданиѭ · Ксенофанъ Фалесовымъ и Пѷѳагорѣискыимъ мьнѣниємъ противлѧаше сѧ · Епименида же порицаше ·",
+    "author": "Xenophanes",
+    "originalText": "ἀντιδοξάσαι τε λέγεται Θαλῇ καὶ Πυθαγόρᾳ, καθάψασθαι δὲ καὶ Ἐπιμενίδου.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.18"
+      }
+    ]
+  },
+  {
+    "type": "reported",
+    "sr": "Prema Sotionu, Ksenofan je prvi rekao da je sve nesaznatljivo.",
+    "stsl": "По Сотионѹ · Ксенофанъ прьвыи рече · ꙗко вьсѧ несъзнатьлива сѫть ·",
+    "author": "Xenophanes",
+    "originalText": "φησὶ δὲ Σωτίων πρῶτον αὐτὸν εἰπεῖν ἀκατάληπτα εἶναι τὰ πάντα.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.20"
       }
     ]
   },
@@ -228,11 +268,11 @@
   },
   {
     "type": "bio",
-    "sr": "Prema Favorinu, Ksenofan je bio prodat u ropstvo, a oslobodili su ga pitagorejci Parmenisk i Orestad.",
-    "stsl": "По Фаворинѹ Ксенофанъ проданъ бысть въ рабьство · и свободиша єго питагорѣи Парменискъ и Орестадъ ·",
+    "sr": "Prema Favorinu, izgleda da je Ksenofan bio prodat u ropstvo, a oslobodili su ga pitagorejci Parmenisk i Orestad.",
+    "stsl": "По Фаворинѹ · Ксенофанъ · ꙗкоже видить сѧ · проданъ бысть въ рабьство · свободиша же и пѵѳагорьци Парменискъ и Орестадъ ·",
     "author": "Xenophanes",
     "year": -509,
-    "originalText": "Φησὶ δὲ Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ αὐτὸν ἀνδραποδισθῆναι, λυθῆναι δὲ ὑπὸ Πυθαγορείων τῶν περὶ Παρμενίσκον καὶ Ὠρέστην.",
+    "originalText": "δοκεῖ δὲ πεπρᾶσθαι ὑπὸ * * <καὶ λελύσθαι ὑπὸ> τῶν Πυθαγορικῶν Παρμενίσκου καὶ Ὀρεστάδου, καθά φησι Φαβωρῖνος ἐν Ἀπομνημονευμάτων πρώτῳ.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -242,11 +282,11 @@
   },
   {
     "type": "bio",
-    "sr": "Ksenofan je, kao i Anaksagora, svojim rukama sahranio svoje sinove.",
-    "stsl": "Ксенофанъ · ꙗкоже Анаксагора · своима рѫкама погребе сыны своѧ ·",
+    "sr": "Prema Demetriju Faleraninu i Panetiju, Ksenofan je, kao i Anaksagora, svojim rukama sahranio svoje sinove.",
+    "stsl": "По Димитриѭ Фалерьскомѹ и Панетиѭ · Ксенофанъ · ꙗкоже Анаксагора · своима рѫкама погребе сыны своѩ ·",
     "author": "Xenophanes",
     "year": -478,
-    "originalText": "Ταῖς αὑτοῦ χερσὶ θάψαι τοὺς παῖδας καθάπερ Ἀναξαγόρας.",
+    "originalText": "φησὶ δὲ Δημήτριος ὁ Φαληρεὺς ἐν τῷ Περὶ γήρως καὶ Παναίτιος ὁ Στωικὸς ἐν τῷ Περὶ εὐθυμίας ταῖς ἰδίαις χερσὶ θάψαι τοὺς υἱεῖς αὐτόν, καθάπερ καὶ Ἀναξαγόραν.",
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -257,8 +297,8 @@
   {
     "type": "mention",
     "sr": "Parmenid je slušao Ksenofana, ali nije sledio njegovo učenje.",
-    "stsl": "Парменидъ Ксенофана слꙑша · но ѹченію єго не послѣдова.",
-    "originalText": "Οὗτος ἤκουσε Ξενοφάνους, οὐ μέντοι ἐζήλωσεν αὐτόν.",
+    "stsl": "Парменидъ Ксенофана слꙑша · нъ ѹчениѭ єго не послѣдова ·",
+    "originalText": "Ξενοφάνους δὲ διήκουσε Παρμενίδης Πύρητος Ἐλεάτης· ὅμως δ' οὖν ἀκούσας καὶ Ξενοφάνους οὐκ ἠκολούθησεν αὐτῷ.",
     "author": [
       "Xenophanes",
       "Parmenides"

@@ -17,10 +17,15 @@ npm start
 
 ## TODO
 
-Aktuelni redosled poslova i otvorene odluke nalaze se u [TODO.md](TODO.md).
+Glavni TODO nalazi se u [TODO.md](TODO.md).
 
-- ἐντελέχεια
 - šta sa rečju biće? odomaćena je, odnosi se na ono što jeste
+
+Klesanje prevoda:
+- prođi svaku stavke iz RECNIK.md i proveri doslednost sr i stsl prevoda u projektu (za svaki izuzetak pitati).
+- proveriti jel negde ostalo etar i еѳеръ i zameniti ih
+- prođi sve citate i kleši staroslovenski prevod, po pravilima KLESANJE_PREVODA.md, za uzor gledati isus.json i Бытиѥ.pdf
+- prođi sve citate i popravi stil srpskog prevoda, po pravilima PREVODJENJE_NA_SRPSKI.md
 
 ## Izvori
 

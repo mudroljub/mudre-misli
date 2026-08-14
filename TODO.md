@@ -5,7 +5,7 @@ Ovaj dokument je radni redosled narednih poslova. Detaljni izveštaji ostaju u
 
 ## Trenutno stanje
 
-- [x] Postoji 48 autorskih JSON fajlova sa ukupno 1.581 unosom.
+- [x] Postoji 48 autorskih JSON fajlova sa ukupno 2.067 unosa.
 - [x] Svaki unos ima `sr`, `stsl`, `originalText` i najmanje jedan izvor.
 - [x] Diogenovi i lokalno dostupni Burleyjevi navodi dobijaju generisane pointere.
 - [x] Generisanje izvora i citata i provera TypeScript tipova prolaze.
@@ -72,24 +72,59 @@ Detalji i obrazloženja: `docs/IZVESTAJ_O_POTPUNOSTI_DIOGENA.md`.
 
 ## 2. Autentični fragmenti i druga kapitalna dela
 
-- [ ] Nastaviti sistematsko dodavanje Diels–Kranz fragmenata, počev od
+- [x] Nastaviti sistematsko dodavanje Diels–Kranz fragmenata, počev od
   **Empedokla**, a zatim obraditi Anaksagoru, Demokrita i Protagoru.
-  Kod Empedokla su za početak prepoznati i bez dupliranja povezani postojeći
-  odlomci B 1, B 2, B 6, B 17, B 111, B 112, B 117 i B 129, a kao prvi
-  novi provereni unosi dodati su B 11–16, B 25, B 29, B 52, B 55, B 118 i
-  B 124, izuzev
-  terminološki spornog B 8 koji je zabeležen u otvorenim dilemama.
+  Empedoklov završni prolaz je dovršen sa 107 povezanih ili unetih DK referenci: B 1–6,
+  B 8, B 9, B 11–17, B 20–23, B 25–32, B 35–40, B 42, B 44–45,
+  B 47–48, B 50,
+  B 52, B 54–59, B 61–62, B 64–65, B 67–68, B 71, B 73, B 75, B 77–79, B 81–86,
+  B 88–91, B 96, B 98, B 100, B 102–15, B 117–19, B 121, B 124–25,
+  B 127–41 i B 144–147. B 8 je unet kontekstualnim prevodom
+  `φύσις` kao rađanja, a B 27a razlikovanjem značenja `στάσις` kao
+  mirovanja odnosno razdora/pobune. Preostale oznake proverene su u celini;
+  nisu dodati jednorečni glosari, teško oštećeni stihovi, zavisne polurečenice
+  ni varijante čija se samostalna poenta već nalazi u dužem sačuvanom fragmentu.
+  Anaksagorin završni prolaz je dovršen sa 23 povezane ili unete DK reference:
+  B 1–22 i B 21a. B 20 je sačuvan u latinskom Galenovom navodu, pa je u
+  `originalText` zadržan latinski tekst umesto naknadno konstruisanog grčkog.
+  Izreke koje Diels izričito odvaja kao pozne falsifikate, počev od B 23, nisu
+  unošene kao Anaksagorine reči. Kod Demokrita je započet sistematski prolaz;
+  završni prolaz dovršen je sa 221 povezanom ili unetom DK referencom. U dopunskim paketima dodati
+  su B 56, B 63, B 69–101, B 103–104, B 109–111, B 142, B 144–146, B 149–150;
+  potom B 154–157, B 159–160, B 164, B 166, B 169, B 171–179 i B 181.
+  Postojeći Diogenovi navodi povezani su i sa B 116–117. B 36 nije dodat jer
+  je u izdanju samo upućivanje na tekst B 187, a ne zaseban fragment; B 120–141
+  pretežno su jednorečni tehnički glosari ili tekstualno nesigurni ostaci.
+  B 180 nije unet jer samo izdanje označava pripisivanje kao sumnjivo. Obrada
+  je potom nastavljena sa B 183–190, B 192–197, B 199–204, B 206–208 i
+  B 210–218. B 182, B 198, B 205 i B 209 ostavljeni su izvan korpusa zbog
+  oštećene, urednički dopunjene ili nerešene lekcije. Sledeći paket obuhvatio
+  je B 219–244; B 225 je kao druga potvrda povezan sa već postojećim B 44,
+  umesto da bude unet kao duplikat. Politički i pravni niz nastavljen je sa
+  B 245–257 i B 259–262, a završni paket B 264–265, B 267–270, B 273–280,
+  B 283–287 i B 289–297. B 258, B 263, B 266, B 271–272, B 281–282 i B 288
+  nisu uneti jer ključna mesta zavise od lakuna, nesigurnih lekcija ili
+  nejasnog prenosa. B 298 je samo gramatička glosa, dok izdanje od B 298a
+  nadalje izričito odvaja sumnjive fragmente. Protagorin prolaz dovršen je sa
+  sedam povezanih DK referenci: B 1, B 3–4, B 7 i B 9–11. B 2, B 5–6 i B 8
+  ostali su izvan korpusa kao bibliografska ili posredna svedočanstva bez
+  neposrednog fragmenta, a B 12 jer ga samo izdanje označava kao slabo
+  potvrđenog.
 - [ ] Za svaki fragment proveriti grčki tekst u pouzdanom izdanju; stari OCR
   koristiti samo kao pomagalo, ne kao autoritet.
+- [x] Dopuniti `originalText` u postojećim unosima uz proveru prema pouzdanom
+  grčkom izdanju. Dopunjeno je 18 Empedoklovih, 14 Anaksagorinih, tri
+  Parmenidova i tri Zenonova polja; svih 1.797 unosa sada ima izvorni tekst.
 - [ ] Jasno razlikovati `A` svedočanstva od `B` fragmenata i ne predstavljati
   kasniju doksografiju kao neposredne filozofove reči.
-- [ ] Kapitalna sačuvana dela čuvati cela kao `works`; kratke spoljne izvore ne
-  kopirati lokalno samo radi nekoliko navoda.
 - [x] Pre daljeg oslanjanja na Dielsovu dokumentaciju uskladiti
   `data/sources/INDEX_DIELS.md` i stare analize sa sadašnjim stanjem izvora;
   indeks sada opisuje 16 postojećih tekstualnih isečaka, uklonjene izvedene
   JSON fajlove i ograničenja OCR-a, a stare analize su označene kao istorijske.
-- [ ] Pronaći fragment kod Diogena Leartija gde Heraklit govori o veličini sunca, i dodati ga.
+- [x] Proveren je lokalni grčki tekst Diogena Laertija IX.7 uz Heraklitov DK
+  22 B 3. Diogen kaže samo da je Sunce veličine kakvom se pokazuje
+  (`ὁ ἥλιός ἐστι τὸ μέγεθος οἷος φαίνεται`), a ne da ima širinu ljudskog
+  stopala, pa nije dodat kao izvor drugačijem iskazu.
 
 ## 3. Kvalitet prevoda
 
@@ -97,12 +132,47 @@ Za svakog autora prvo proveriti grčki smisao i rečničku terminologiju, zatim
 zasebno isklesati staroslovenski i srpski prevod prema
 `docs/KLESANJE_PREVODA.md`.
 
-- [ ] **Platon:** prvi veliki prolaz kroz preteške termine, grčku sintaksu i
-  nedovoljno prirodan ritam.
-- [ ] Ostale autore pregledati jednog po jednog, ne masovnom zamenom.
+- [x] **Platon:** prvi veliki prolaz kroz preteške termine, grčku sintaksu i
+  nedovoljno prirodan ritam. Pregledan je početni paket III.2–40: ispravljeni
+  su, između ostalog, `εὐρυθμία`, odnos `γένεσις`/`οὐσία` i razlikovanje
+  `εἶδος`/`ἰδέα`, isklesani srpski i staroslovenski izrazi i uklonjen jedan
+  dupli unos iz III.40. Dovršen je i doktrinarni niz III.63–109: ispravljeni
+  su pogrešni prenosi `συγκρίματα`, `διαφορά` i `ἀκρισία`, terminologija je
+  usklađena sa rečnikom, a duge podele preoblikovane su u prirodnije slovenske
+  celine. Završni biografsko-anegdotski paket takođe je pregledan: razjašnjen
+  je Aristotel u III.37, ispravljeni tipovi dva unosa, uklonjene zabranjene
+  grafeme i pet kraćih sadržajnih duplikata. Platon sada ima 67 unosa bez
+  praznih polja, pogrešnog datiranja i doslovnih duplikata.
+- [ ] Ostale autore pregledati jednog po jednog, ne masovnom zamenom. Talesov
+  prvi veliki prolaz je dovršen: ispravljeni su smisao i ograde izvora,
+  razjašnjeni Anaksimandar, tronožac, spisi i doksografska pripisivanja, a
+  četiri preklopljena unosa spojena su sa potpunijim verzijama. Ostalo je 47
+  unosa bez grafijskih prekršaja, praznih polja i pogrešnog datiranja.
+  Anaksimandrov pregled je započet ispravkom sistematskog pomeranja 33
+  staroslovenska polja, koja su ranije pripadala narednim srpskim i grčkim
+  unosima. Odbačena je i napomena o Polikratu koju Diels izričito vraća
+  Pitagori. Završnim prolazom spojena su četiri sadržajna preklapanja o
+  učeništvu, kartografiji i Zemlji, dok su neposredni B 1–3 fragmenti jasno
+  sačuvani odvojeno od A-svedočanstava. Anaksimandar sada ima 39 usklađenih
+  unosa bez grafijskih prekršaja, praznih polja i pogrešnog datiranja.
+  Završen je i Anaksimen sa 33 unosa: precizirani su beskrajni vazduh kao
+  određeno načelo, razređivanje i zgušnjavanje, kosmološki ciklusi i
+  meteorološki iskazi; uklonjeni su grafijski prekršaji i mešano pismo, bez
+  sadržajnih duplikata i promene broja unosa.
+  Ksenofanov pregled završen je sa 23 unosa. Usklađene su ograde i grčki tekst
+  Diogena IX.18–21, razdvojeni su podaci o učiteljima, javnom kazivanju pesama
+  i protivljenju drugim misliocima, a dodata su ranije izostavljena učenja o
+  četiri prvine, beskrajnim nepromenljivim svetovima i nesaznatljivosti svega.
+  Doksografski sažeci sada su označeni kao `reported`, a duplirana biografska
+  parafraza vlastitog fragmenta o devedeset dve godine uklonjena je.
+  Pitagorin pregled završen je sa 139 unosa. Provereni su Diogenovi odeljci
+  VIII.1–50, razdvojene su neposredne izreke od kasnijih pitagorejskih
+  svedočanstava, sačuvane su suprotne tradicije o spisima, ishrani, žrtvama i
+  smrti, a dopunjeni su Temistokleja, Dama, pravila života i kosmološki iskazi.
+  Uklonjeni su sadržajni preklopi, ispravljeni tipovi i usklađeni srpski i
+  staroslovenski prevodi.
 - [ ] Uklanjati suvišno `єсть`, mehaničko `наи-`, teške participe, nepotrebne
   povratne oblike i opisne izraze kada se smisao potpuno čuva.
-- [ ] Razbijati grčke periode u prirodne slovenske celine.
 - [ ] Sačuvati termine iz `docs/RECNIK.md`, zajedničke korene, antiteze,
   paralelizme, namerna ponavljanja, igre reči i dvosmislenosti.
 - [ ] Svaku prihvaćenu promenu termina prvo uneti u rečnik, pa je tek onda
@@ -151,19 +221,17 @@ zasebno isklesati staroslovenski i srpski prevod prema
   fajla i reda i da svaki sačuvani anchor postoji u ciljnom odeljku. Ako
   parafraza nema pouzdan tekstualni presek, generator ostavlja tačan pointer na
   odeljak bez lažnog anchora.
-- [x] Uskladiti statistiku u `docs/POINTER_FORMAT.md` posle svake veće promene
-  korpusa. Trenutni presek je 1.523/1.581 pointera i 1.211 proverenih anchora.
 - [ ] Doraditi `data/sources/source-map.json` samo kroz
   `npm run build:sources`; ne menjati generisani fajl ručno.
-- [ ] Pherecydes na wikipediji je Pherecydes of Syros, preimenovati
-- [ ] preimenovati Hipparchia u Hipparchia of Maroneia
+- [ ] Za Ferekida koristiti Wikipedia slug `Pherecydes_of_Syros`, preimenovati projektni ključ `Pherecydes`.
+- [ ] Za Hiparhiju koristiti Wikipedia slug `Hipparchia_of_Maroneia`, preimenovati projektni ključ `Hipparchia`.
 
 ## 7. UI i prikaz sadržaja
 
 - [ ] Proveriti prikaz veoma dugih `works` unosa, naročito Epikurovih pisama:
   čitljivost, sidra, navigaciju unutar dela i ponašanje na telefonu.
-- [ ] Osmisliti prikaz izvora sa više navoda bez oslanjanja na parsiranje
-  slobodnog teksta reference u komponentama.
+- [x] Prikaz izvora sa više navoda koristi strukturisani niz `sources` i ne
+  parsira slobodan tekst reference u komponentama.
 - [ ] Proveriti mobilni raspored zaglavlja, bočne trake, slike autora i mape
   nakon svake promene zajedničkog layouta.
 - [ ] Dodati vizuelne regresione ili bar dokumentovane ručne provere za uske i
@@ -176,15 +244,11 @@ zasebno isklesati staroslovenski i srpski prevod prema
 
 ## Redosled narednih paketa rada
 
-1. Kleobul.
-2. Ferekid.
-3. Piron.
-4. Menedem.
-5. Teofrast.
-6. Epikur kao poseban veći posao.
-7. Empedoklovi autentični fragmenti.
-8. Platonov prevodilački i stilski prolaz.
-9. Stabilni ID-jevi i objedinjena validacija podataka.
+1. Dovršiti Empedoklove autentične fragmente.
+2. Nastaviti Diels–Kranz fragmente kod Anaksagore, Demokrita i Protagore.
+3. Platonov prevodilački i stilski prolaz.
+4. Stabilni ID-jevi i objedinjena validacija podataka.
+5. Prikaz dugih dela, mobilne provere i ostala UI poboljšanja.
 
 ## Pravilo završavanja jednog autora
 

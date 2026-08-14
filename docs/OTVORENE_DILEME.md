@@ -20,24 +20,6 @@ u `TODO.md`.
   Unos nije uklonjen jer grčki oblik deluje kao svedočanstvo drugog izdanja;
   poreklo varijante treba naknadno proveriti u kritičkom aparatu.
 
-## Empedokle, DK 31 B 8
-
-- U stihu `φύσις οὐδενός ἐστιν ἁπάντων θνητῶν` reč `φύσις` znači postanak ili
-  nastajanje, dok je u projektnom rečniku terminološki utvrđena kao
-  `естество / priroda`. Doslovno čuvanje termina ovde daje neprirodan i
-  verovatno pogrešan iskaz, a prevođenje kao `рожденьѥ / rođenje` prekida
-  utvrđenu grčku i slovensku porodicu. Fragment nije unet dok se ne odluči da
-  li kontekstualno značenje ima prednost ili treba sačuvati namernu igru sa
-  imenom `φύσις`.
-
-## Empedokle, DK 31 B 27a
-
-- U stihu `οὐ στάσις οὐδέ τε δῆρις ἀναίσιμος ἐν μελέεσσιν` reč `στάσις`
-  znači razdor ili pobunu, dok je u projektnom rečniku utvrđena kao
-  `стояніє / mirovanje`. Prevod prema rečniku bi izokrenuo smisao stiha, a
-  kontekstualni prevod traži odluku da li rečniku treba dodati zasebno značenje.
-  Fragment zato još nije unet.
-
 ## Timon, Diogen Laertije IX.114–115
 
 - Kratki stih `συνῆλθεν ἀτταγᾶς τε καὶ νουμήνιος` dolazi posle napomene da ga
