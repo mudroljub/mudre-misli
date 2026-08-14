@@ -82,5 +82,19 @@
     "originalTitle": "Φυσικὴ ἀκρόασις",
     "stsl": "О естествѣ",
     "sr": "Fizika"
+  },
+    "aristotle-metaphysics": {
+    "author": "Aristotle",
+    "language": "grc",
+    "originalTitle": "Τὰ μετὰ τὰ φυσικά",
+    "stsl": "О сущихъ по єстествѣ",
+    "sr": "Metafizika"
+  },
+  "aristotle-generation-corruption": {
+    "author": "Aristotle",
+    "language": "grc",
+    "originalTitle": "Περὶ γενέσεως καὶ φθορᾶς",
+    "stsl": "О рожденіи и тлѣніи",
+    "sr": "O nastajanju i propadanju"
   }
 }
