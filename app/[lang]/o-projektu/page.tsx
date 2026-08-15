@@ -32,8 +32,8 @@ export default function AboutPage({ params }: AboutPageProps) {
         <article className={styles.about}>
           <h2>{t.navAbout}</h2>
           <p>
-            Училище Блатьнограда je zamišljena slovenska filozofska
-            škola iz 9. veka koja se nalazila u Blatnogradu, tadašnjem sedištu
+            Učilište Blatnograda je zamišljena slovenska filozofska
+            škola iz 9. veka koja se nalazila u Blatnogradu, sedištu
             panonskih Slovena i jednom od prvih središta slovenske pismenosti. Ovaj projekat pokušava dočarati kako
             bi izgledalo izučavanje filozofije da su Sloveni imali univerzitete u
             srednjem veku, i kako bi zvučao učeni slovenski jezik toga vremena.

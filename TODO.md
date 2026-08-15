@@ -89,3 +89,4 @@ grafijske greške uočene tokom sadržinskog rada.
 
 - odvojiti duže radove u poseban json, posebno Epikurova pisma. smisliti sistem da kasnije podrži i Platonove dijaloge.
 - proveriti u izvorima tumačenja Kleobulinih zagonetki
+- `data\sources\INDEX_GREEK.md`: uraditi mašinski prolaz kroz __cts__.xml za Plutarha i Aristotela i dodati TLG broj uz baš svako njihovo delo.
