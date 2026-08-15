@@ -11,6 +11,14 @@ body {
   color: $color-text;
 }
 
+img {
+  max-width: 100%;
+}
+
+figcaption {
+  color: $color-text-light;
+}
+
 .page-shell {
   display: flex;
   min-height: 100vh;

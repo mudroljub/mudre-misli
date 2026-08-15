@@ -4,8 +4,8 @@ import { Providers } from '../components/Providers';
 import '../styles/globals.scss';
 
 export const metadata: Metadata = {
-  title: 'Učilište Blatnograda',
-  description: 'Static quote site generator',
+  title: 'Училище Блатьнограда',
+  description: 'Slovensko učilište mudrosti',
 };
 
 interface RootLayoutProps {

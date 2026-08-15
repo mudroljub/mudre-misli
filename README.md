@@ -25,7 +25,5 @@ npm start
 
 Glavni TODO nalazi se u [TODO.md](TODO.md).
 
-- istražiti odakle izreke jelinskih filozofa?
-
 ## Izvori
 
