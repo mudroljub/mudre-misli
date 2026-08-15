@@ -48,3 +48,13 @@ u `TODO.md`.
   prožimanja svega. Privremeno je preneto blisko površinskoj sintaksi:
   „kako je trebalo da mnenja pouzdano budu, sva kroz sve prolazeći“, bez
   unošenja određenog filozofskog tumačenja u sam prevod.
+
+## Empedokle, Dils B46, B142 i završni dodaci
+
+- B46 ima lakunu od približno 13–25 slova usred poređenja Mesečevog kretanja
+  sa glavčinom kola. Sačuvani krajevi ne daju dovoljno siguran samostalan
+  iskaz, pa fragment nije zaglađen niti dopunjen nagađanjem.
+- B142 je teško oštećen herkulanumski tekst, a Dilsova dopuna stiha o domu
+  Zevsa i Hekate izričito je nesigurna. Nije unet kao Empedoklova izreka.
+- B154 je već u Dilsu izdvojen kao sumnjiv, dok su B155–B159 označeni kao
+  neautentični; zato se ne računaju među propuštene autentične fragmente.

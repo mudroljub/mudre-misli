@@ -39,9 +39,13 @@ Usavršavati prevod jednog po jednog autora, kroz sledeće prolaze:
   Svi unosi imaju prevodni par, izvornik i izvor; JSON, generator, provera
   tipova i provera duplikata prolaze.
 
-- [ ] **Empedokle** — u toku. Proveriti potpunost prema Dilsovom izvoru,
-  sadržinska preklapanja i oba prevoda, uz očuvanje već izabranih legitimnih
-  alt termina.
+- [x] **Empedokle** — završen sadržinski, terminološki i prevodilački prolaz.
+  U 191 zapisu predstavljeni su svi čitljivi autentični Dilsovi B-fragmenti;
+  B77–78 čine jedan zajednički fragment. B46 i B142 nisu prevedeni jer su
+  tekstološki teško oštećeni, a B154–159 nisu uzeti kao pouzdano autentični;
+  razlozi su zabeleženi u `docs/OTVORENE_DILEME.md`. Uklonjen je duplikat,
+  dopunjeni su izostavljeni fragmenti i oba prevoda usklađena sa rečničkim
+  porodicama. JSON, generator, provera tipova i provera duplikata prolaze.
 
 Posvećenu grafijsku kontrolu zasad preskočiti; ispravljati samo očigledne
 grafijske greške uočene tokom sadržinskog rada.
@@ -79,8 +83,7 @@ grafijske greške uočene tokom sadržinskog rada.
 
 ## UI
 
-- tekst na stranici O projektu da zauzima celu širinu
-- odvojiti duže radove u poseban json, posebno Epikurova pisma. smisliti sistem da kasnije podrži i Platonove dijaloge.
+- prevedi sadržaj stranice O projektu
 
 ## Razno
 

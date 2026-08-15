@@ -67,7 +67,7 @@ export default function Sidebar({ language }: SidebarProps) {
         [styles.open]: isOpen,
         [styles.closed]: !isOpen
       })}>
-        <h2><Link href={`/${language}`}>{t.siteTitle}</Link></h2>
+        <h2><Link href={`/${language}`}>🏛️ {t.siteTitle}</Link></h2>
         <nav>
           {authorGroups.map((group) => {
             const groupKey = `${group.titleKey}-${group.period}`;

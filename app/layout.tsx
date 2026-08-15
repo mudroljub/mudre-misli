@@ -4,7 +4,7 @@ import { Providers } from '../components/Providers';
 import '../styles/globals.scss';
 
 export const metadata: Metadata = {
-  title: 'Mudre misli',
+  title: 'Učilište Blatnograda',
   description: 'Static quote site generator',
 };
 

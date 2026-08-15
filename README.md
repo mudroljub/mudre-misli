@@ -25,7 +25,7 @@ npm start
 
 Glavni TODO nalazi se u [TODO.md](TODO.md).
 
-- šta sa rečju biće? odomaćena je, odnosi se na ono što jeste
+- istražiti odakle izreke jelinskih filozofa?
 
 ## Izvori
 

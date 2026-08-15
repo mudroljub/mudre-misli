@@ -134,7 +134,7 @@ export interface Translations {
 
 export const translations: Record<Language, Translations> = {
   stsl: {
-    siteTitle: 'Мѫдрыѩ мысли',
+    siteTitle: 'Ѹчилище Блатьнограда',
     randomQuote: 'Слѹчаиноє изрѣчєніє',
     quoteDetails: 'О изрѣчєніи',
     source: 'Источьникъ',
@@ -158,7 +158,7 @@ export const translations: Record<Language, Translations> = {
     scriptCyr: 'Кѷрилица',
     scriptLat: 'Латиница',
     sidebarGroups: {
-      ancientSages: 'Дрѣвьнꙗ мѫдрость',
+      ancientSages: 'Дрѣвьнии мѫдрьци',
       presocratics: 'Прѣдъ-Сократови',
       athenianPhilosophy: 'Атїньска любомѫдрость',
       hellenisticSchools: 'Єллиньскъ школꙑ',
@@ -265,7 +265,7 @@ export const translations: Record<Language, Translations> = {
     },
   },
   sr: {
-    siteTitle: 'Mudre misli',
+    siteTitle: 'Učilište Blatnograda',
     randomQuote: 'Slučajni citat',
     quoteDetails: 'Detalji citata',
     source: 'Izvor',
@@ -289,7 +289,7 @@ export const translations: Record<Language, Translations> = {
     scriptCyr: 'Ћирилица',
     scriptLat: 'Latinica',
     sidebarGroups: {
-      ancientSages: 'Drevna mudrost',
+      ancientSages: 'Drevni mudraci',
       presocratics: 'Predsokratovci',
       athenianPhilosophy: 'Atinska filozofija',
       hellenisticSchools: 'Helenističke škole',
