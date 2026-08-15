@@ -31,9 +31,17 @@ Usavršavati prevod jednog po jednog autora, kroz sledeće prolaze:
   oba prevoda proverena prema izvorniku. JSON, generator i provera tipova
   prolaze. Tekstološka nedoumica u B1.31–32 zabeležena je za kasniju odluku.
 
-- [ ] **Anaksagora** — u toku. Početno stanje: 65 unosa; proveriti potpunost
-  po `46-Anaxagoras.txt`, ukloniti sadržinska preklapanja i isklesati oba
-  prevoda prema grčkom, bez mehaničkog ujednačavanja legitimnih alt termina.
+- [x] **Anaksagora** — završen sadržinski, terminološki i prevodilački prolaz.
+  Svih 22 Dilsova B-fragmenta, uključujući B21a, predstavljena su u 61 zapisu
+  sa 23 jedinstvena i 32 ukupna upućivanja. Vraćeni su izostavljeni delovi
+  fragmenata, razdvojeni pojmovi izdvajanja i razlučivanja, ispravljena
+  svedočanstva prema grčkom i uklonjena četiri duplirana ili neizvorna zapisa.
+  Svi unosi imaju prevodni par, izvornik i izvor; JSON, generator, provera
+  tipova i provera duplikata prolaze.
+
+- [ ] **Empedokle** — u toku. Proveriti potpunost prema Dilsovom izvoru,
+  sadržinska preklapanja i oba prevoda, uz očuvanje već izabranih legitimnih
+  alt termina.
 
 Posvećenu grafijsku kontrolu zasad preskočiti; ispravljati samo očigledne
 grafijske greške uočene tokom sadržinskog rada.

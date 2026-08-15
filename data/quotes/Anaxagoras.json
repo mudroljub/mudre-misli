@@ -176,8 +176,8 @@
   {
     "id": "mm-000035",
     "type": "quote",
-    "sr": "Vetrovi nastaju kada Sunčeva toplota razredi vazduh; grom je sudaranje oblaka, munja njihovo silovito trenje, a zemljotres poniranje vazduha u zemlju.",
-    "stsl": "Вѣтри бываѭть · єгда слъньчьна теплотъа въздѹхъ разрѣдить · громъ єсть съраженіє облакъ · мълниꙗ силъноє трьніє ихъ · трѫсъ же погрѫженіє въздѹха въ землѭ ·",
+    "sr": "Vetrovi nastaju kada Sunce razredi vazduh; grom je sudaranje oblaka, munja njihovo trenje, a zemljotres poniranje vazduha u zemlju.",
+    "stsl": "Вѣтри бываѭть · єгда слъньце въздѹхъ разрѣдить · громъ съраженіє облакъ · мълниꙗ трьніє ихъ · трѫсъ же погрѫженіє въздѹха въ землѭ ·",
     "originalText": "Ἀνέμους γίγνεσθαι λεπτυνομένου τοῦ ἀέρος ὑπὸ τοῦ ἡλίου. Βροντὰς σύγκρουσιν νεφῶν· ἀστραπὰς ἔκτριψιν νεφῶν· σεισμὸν ὑπονόστησιν ἀέρος εἰς γῆν.",
     "author": "Anaxagoras",
     "sources": [
@@ -190,8 +190,8 @@
   {
     "id": "mm-000036",
     "type": "quote",
-    "sr": "Životinje se rađaju iz vlage, toplote i zemljane tvari, a potom su se vrste rađale jedna od druge; mužjaci nastaju s desne, a ženke s leve strane.",
-    "stsl": "Животънаѧ родѧть сѧ отъ влаги · теплотъы и земьнаго вещества · таже родове єдинъ отъ дрѹгаго раждаахѹ сѧ · мѫжьскыи отъ десныѩ · женьскыи же отъ лѣвыѩ страны бываѭть ·",
+    "sr": "Životinje se rađaju iz vlage, toplote i zemljanog, a potom jedna od druge; mužjaci nastaju s desne, a ženke s leve strane.",
+    "stsl": "Животънаꙗ родѧть сѧ отъ влаги · теплоты и земьнаго · потомъ же єдина отъ дрѹгыѩ · мѫжьскаꙗ отъ десныѩ · женьскаꙗ же отъ лѣвыѩ страны бываѭть ·",
     "originalText": "Ζῷα γίνεσθαι ἐξ ὑγροῦ καὶ θερμοῦ καὶ γεώδους, ὕστερον δὲ ἐξ ἀλλήλων· καὶ ἄρρενα μὲν ἀπὸ τῶν δεξιῶν, θήλεα δὲ ἀπὸ τῶν ἀριστερῶν.",
     "author": "Anaxagoras",
     "sources": [
@@ -274,8 +274,8 @@
   {
     "id": "mm-000042",
     "type": "quote",
-    "sr": "Čitav nebeski svod sastavljen je od kamenja; drži ga silina kružnog kretanja, a kada bi ona popustila, svod bi pao.",
-    "stsl": "Вьсѧ небесьна тврьдь отъ камениꙗ съставлєна єсть · дръжить ѭ сила крѫжьнаго движениꙗ · и аще бы ослабѣла · тврьдь пала бы ·",
+    "sr": "Čitavo nebo sastavljeno je od kamenja; drži ga silina kruženja, a kada bi ona popustila, kamenje bi palo.",
+    "stsl": "Вьсе небо отъ камениꙗ съставлєно · дръжить є сила крѫженіꙗ · аще ли ослабѣєть · камениє падеть ·",
     "originalText": "ὅλος ὁ οὐρανὸς ἐκ λίθων συγκέοιτο· τῇ σφοδρᾷ δὲ περιδινήσει συνεστάναι καὶ ἀνεθέντα κατενεχθήσεσθαι.",
     "author": "Anaxagoras",
     "sources": [
@@ -286,25 +286,10 @@
     ]
   },
   {
-    "id": "mm-000046",
-    "type": "bio",
-    "sr": "Anaksagora je preneo proučavanje prirode iz Jonije u Atinu.",
-    "stsl": "Анаксагора испꙑтаніє єстества отъ Іоніи въ Атины прѣнесе ·",
-    "author": "Anaxagoras",
-    "year": -456,
-    "originalText": "φυσιολογίαν εἰς Ἀθήνας μετήγαγε, πρῶτος βιβλίον ἐνέγραψεν.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.12"
-      }
-    ]
-  },
-  {
     "id": "mm-000047",
     "type": "anecdote",
-    "sr": "Anaksagora je svoje veliko nasledstvo prepustio rođacima i povukao se iz javnog života da bi istraživao prirodu. Kada su ga optužili da zanemaruje imanje, odgovorio je: ‘Zašto se onda vi ne starate o njemu?’ Na pitanje zar se ne stara o otadžbini, pokazao je prema nebu.",
-    "stsl": "Анаксагора велико наслѣдиє своє сродникомъ остави и отъ общаго животъа отъстѫпи · да єстество испытѹєть · Єгда єго обвиниша · ꙗко имѣніє небрежеть · Отъвѣща · Что же вы не печете сѧ о немь · Въпрошенъ · аще о отъечьствѣ не печеть сѧ · на небо показа ·",
+    "sr": "Anaksagora se isticao rodom, bogatstvom i velikodušnošću. Očevinu prepusti rođacima, a kada ga prekoriše što je zanemaruje, reče: Zašto se onda vi ne starate o njoj? Potom se povuče iz javnog života da motri prirodu. Kada mu neko reče da se nimalo ne stara o otadžbini, odgovori: Ne govori tako! Veoma se staram o otadžbini — i pokaza na nebo.",
+    "stsl": "Анаксагора родомъ · богатъствомъ и великодѹшиємъ изличаше сѧ · Отечьско имѣніє сродникомъ остави · они же єго о небрежении обличиша · Что же вы о немь не печете сѧ · рече · Потомъ отъ общаго житіꙗ отъстѫпи · природѫ смотрѧ · Єдиномѹ же рекъшѹ · ничьтоже ти до отьчьства · отъвѣща · Не глаголи тако · зѣло бо пекѫ сѧ о отьчьствѣ · и на небо показа ·",
     "originalText": "Οὗτος εὐγενείᾳ καὶ πλούτῳ διαφέρων ἦν, ἀλλὰ καὶ μεγαλοφροσύνῃ, ὅς γε τὰ πατρῷα τοῖς οἰκείοις παρεχώρησε. Αἰτιαθεὶς γὰρ ὑπ’ αὐτῶν ὡς ἀμελῶν, « Τί οὖν, » ἔφη, « οὐχ ὑμεῖς ἐπιμελεῖσθε; » Καὶ τέλος ἀπέστη καὶ περὶ τὴν τῶν φυσικῶν θεωρίαν ἦν, οὐ φροντίζων τῶν πολιτικῶν. Ὅτε καὶ πρὸς τὸν εἰπόντα, « Οὐδέν σοι μέλει τῆς πατρίδος; », « Εὐφήμει, » ἔφη, « ἐμοὶ γὰρ καὶ σφόδρα μέλει τῆς πατρίδος, » Δείξας τὸν οὐρανόν.",
     "author": "Anaxagoras",
     "year": -470,
@@ -333,8 +318,8 @@
   {
     "id": "mm-000049",
     "type": "reported",
-    "sr": "Anaksagora je prvi tvrdio da Homerova poezija govori o vrlini i pravdi, a njegov prijatelj Metrodor iz Lampsaka dalje je razvio takvo tumačenje. Pripisuje mu se i prvo objavljivanje knjige sa crtežima.",
-    "stsl": "Анаксагора пьрвъ ѹтврьди · ꙗко Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть · дрѹгъ же єго Метродоръ Лампсакьскыи таково тълкованіє далѣє разви · Ємѹ же и пьрвоє изданіє книгы съ начрътании приписѹєть сѧ ·",
+    "sr": "Prema Favorinu, Anaksagora je prvi kazao da Homerova poezija govori o vrlini i pravdi. Njegov učenik Metrodor iz Lampsaka razvio je ovo slovo i prvi se posvetio Homerovom izlaganju prirode. Anaksagora je prvi objavio i proznu knjigu.",
+    "stsl": "По Фаворинѹ Анаксагора пьрвъ рече · ꙗко Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть · Оученикъ же єго Метродоръ Лампсакьскыи се слово разви · и пьрвъ Хомеровѹ сказаниѭ о природѣ прилежа · Анаксагора же пьрвъ и прозаичьнѫ книгѫ издаде ·",
     "originalText": "Δοκεῖ δὲ πρῶτος, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης· ἐπὶ πλεῖον δὲ προστῆναι τοῦ λόγου Μητρόδωρον τὸν Λαμψακηνόν, γνώριμον ὄντα αὐτοῦ, ὃν καὶ πρῶτον σπουδάσαι τοῦ ποιητοῦ περὶ τὴν φυσικὴν πραγματείαν. Πρῶτος δὲ Ἀναξαγόρας καὶ βιβλίον ἐξέδωκε συγγραφῆς.",
     "author": "Anaxagoras",
     "sources": [
@@ -347,8 +332,8 @@
   {
     "id": "mm-000050",
     "type": "anecdote",
-    "sr": "Anaksagori se pripisivalo da je predvideo pad meteorskog kamena kod Egospotama, tvrdeći da će pasti sa Sunca. Kada je došao na Olimpiju, seo je ogrnut ovčjom kožom kao da očekuje kišu; ubrzo je zaista pala.",
-    "stsl": "Анаксагорѣ приписѹєть сѧ · ꙗко паденіє небесьнаго камене при Егоспотъамѣ прорече · глаголѧ · ꙗко отъ слъньца падеть · Єгда же въ Олимпиѭ прииде · овьчею кожею обложенъ сѣде · ꙗко дъжда чаѧ · въскорѣ же дъждь истиньно паде ·",
+    "sr": "Anaksagori se pripisivalo da je predvideo pad kamena kod Egospotama i kazao da će pasti sa Sunca; zato njegov učenik Euripid u Faetontu nazva Sunce zlatnom grudom. Kada Anaksagora dođe na Olimpiju, sede ogrnut kožom kao da očekuje kišu — i kiša pade.",
+    "stsl": "Анаксагорѣ приписѹєть сѧ · ꙗко паденіє камене при Егоспотамѣ прорече · и рече · отъ слъньца падеть · Того ради ѹченикъ єго Еврипидъ въ Фаетонѣ слъньце златою глꙑбою нарече · Анаксагора же въ Олимпиѭ пришедъ · кожею обложенъ сѣде · ꙗко дъжда чаѧ · и дъждь паде ·",
     "originalText": "Φασὶ δ' αὐτὸν προειπεῖν τὴν περὶ Αἰγὸς ποταμοὺς γενομένην τοῦ λίθου πτῶσιν, ὃν εἶπεν ἐκ τοῦ ἡλίου πεσεῖσθαι. Ὅθεν καὶ Εὐριπίδην, μαθητὴν ὄντα αὐτοῦ, χρυσέαν βῶλον εἰπεῖν τὸν ἥλιον ἐν τῷ Φαέθοντι. Ἀλλὰ καὶ εἰς Ὀλυμπίαν ἐλθόντα ἐν δερματίνῳ καθίσαι, ὡς μέλλοντος ὕσειν· καὶ γενέσθαι.",
     "author": "Anaxagoras",
     "year": -467,
@@ -377,9 +362,9 @@
   {
     "id": "mm-000052",
     "type": "anecdote",
-    "sr": "Kada su mu istovremeno javili da je osuđen i da su mu sinovi umrli, Anaksagora je smireno odgovorio da je priroda odavno osudila na smrt i sudije i njega, a da je znao kako su mu deca rođena smrtna. Svoje sinove sahranio je vlastitim rukama.",
-    "stsl": "Єгда ємѹ въкѹпѣ възвѣстиша · ꙗко осѫжденъ єсть и сынове єго ѹмрѣша · Анаксагора тихо отъвѣща · ꙗко єстество издавьна и сѫдиѩ и єго на смрьть осѫди · и ꙗко вѣдѣаше дѣти своѩ смрьтны рождены · Своима рѫкама сыны своѩ погребе ·",
-    "originalText": "Ὅτε καὶ ἀμφοτέρων αὐτῷ προσαγγελέντων, τῆς τε καταδίκης καὶ τῆς τῶν παίδων τελευτῆς, εἰπεῖν περὶ μὲν τῆς καταδίκης, ὅτι ἄρα « Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο, » περὶ δὲ τῶν παίδων, ὅτι « Ἤδειν αὐτοὺς θνητοὺς γεννήσας. » Τοῦτον δὲ καὶ θάψαι ταῖς ἰδίαις χερσὶν αὐτοὺς Δημήτριός φησίν ὁ Φαληρεὺς ἐν τῷ Περὶ γήρως.",
+    "sr": "Kada mu istovremeno javiše osudu i smrt sinova, za osudu reče: Priroda je odavno osudila i njih i mene; za sinove: Znao sam da ih rodih smrtne. Neki ovo pripisuju Solonu, drugi Ksenofontu. Prema Demetriju Falerskom, Anaksagora je sinove sahranio vlastitim rukama.",
+    "stsl": "Єгда ємѹ въкѹпѣ възвѣстиша осѫжденіє и смрьть сыновъ · о осѫждении рече · Природа издавьна и ихъ и мене осѫди · о сынѣхъ же · Вѣдѣхъ · ꙗко ѩ смрьтны родихъ · Инии се Солонѹ приписѹѭть · дрѹзии Ксенофонтѹ · По Деметріи же Фалерскомь Анаксагора своима рѫкама сыны погребе ·",
+    "originalText": "Ὅτε καὶ ἀμφοτέρων αὐτῷ προσαγγελέντων, τῆς τε καταδίκης καὶ τῆς τῶν παίδων τελευτῆς, εἰπεῖν περὶ μὲν τῆς καταδίκης, ὅτι ἄρα Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο, περὶ δὲ τῶν παίδων, ὅτι Ἤδειν αὐτοὺς θνητοὺς γεννήσας. οἱ δʼ εἰς Σόλωνα τοῦτʼ ἀναφέρουσιν, ἄλλοι εἰς Ξενοφῶντα. Τοῦτον δὲ καὶ θάψαι ταῖς ἰδίαις χερσὶν αὐτοὺς Δημήτριός φησίν ὁ Φαληρεὺς ἐν τῷ Περὶ γήρως.",
     "author": "Anaxagoras",
     "year": -433,
     "sources": [
@@ -392,8 +377,8 @@
   {
     "id": "mm-000053",
     "type": "anecdote",
-    "sr": "Pred smrt u Lampsaku gradski poglavari pitali su Anaksagoru šta želi da učine za njega. Zamolio je da se dečacima svake godine dopusti igra u mesecu njegove smrti. Lampsačani su taj običaj nastavili i posle njegove časne sahrane.",
-    "stsl": "Предъ смрьтию въ Лампсакѣ градьскыи начѧлници вопросиша Анаксагорѹ · што желаєть да сътворѧть ємѹ · Проси · да отърокомъ на всѧко лѣто играти позволѧть въ мѣсѧци смрьти єго · Лампсакѧне обычаи сии и по чьстьнѣмь погребении єго съхраниша ·",
+    "sr": "Kada ga gradski poglavari upitaše šta želi da učine za njega, reče: Dopustite dečacima da se svake godine igraju u mesecu u kojem umrem. Taj se običaj čuva i danas.",
+    "stsl": "Градьскꙑимъ начѧлникомъ въпросивъшимъ · что хоштеши да ти сътворимъ · рече · Повелите отрокомъ вьсако лѣто играти въ мѣсѧци · въ немьже ѹмрѫ · Сь обꙑчаи и дьньсь съхранѧєть сѧ ·",
     "originalText": "Ὅτε καὶ τῶν ἀρχόντων τῆς πόλεως ἀξιούντων τί βούλεται αὐτῷ γενέσθαι, φάναι, « Τοὺς παῖδας ἐν ᾧ ἂν ἀποθάνῃ μηνὶ κατ' ἔτος παίζειν συγχωρεῖν. » Καὶ φυλάττεται τὸ ἔθος καὶ νῦν.",
     "author": "Anaxagoras",
     "year": -428,
@@ -449,9 +434,9 @@
   {
     "id": "mm-000057",
     "type": "quote",
-    "sr": "Sve stvari imaju deo svega; i nije moguće da budu odvojene, nego sve stvari imaju deo svega.",
+    "sr": "Tako bi sve bilo u svemu. Ništa ne može biti odvojeno, nego sve ima deo svega.",
     "originalText": "καὶ οὕτως ἂν εἴη ἐν παντὶ πάντα· οὐδὲ χωρὶς ἔστιν εἶναι, ἀλλὰ πάντα παντὸς μοῖραν μετέχει.",
-    "stsl": "Вьсѧ вешти чѧсть вьсего имѫть · и не възможьно имъ разлѫченымъ быти · нъ вьсѧ чѧсть вьсего имѫть ·",
+    "stsl": "Тако вьсѧ въ вьсѣмь бꙑла бꙑ · Ничьтоже не можеть разлѫчено бꙑти · нъ вьсѧ чѧсть вьсего имѫть ·",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -805,8 +790,8 @@
   {
     "id": "mm-000083",
     "type": "quote",
-    "sr": "Um je ovladao sveukupnim kruženjem i dao mu početni zamah. Kruženje je najpre počelo od maloga, zatim se širi i širiće se još više.",
-    "stsl": "Ѹмъ вьсѣмь крѫженіємь овлада и начѧло движенію даде · Крѫженіє прьвѣє отъ малаго начѧ сѧ · потомь множає простираєть сѧ и єште множає прострѣти сѧ имать ·",
+    "sr": "Um ovlada svim kruženjem, te ono poče kružiti. Najpre poče od maloga, potom kruži sve dalje i kružiće još dalje.",
+    "stsl": "Ѹмъ вьсѣмь крѫженіємь овлада · да крѫжити начьнеть · Прьвѣе отъ малаго начѧтъ · потомъ далѣє крѫжить и єште далѣє крѫжити имать ·",
     "originalText": "καὶ τῆς περιχωρήσιος τῆς συμπάσης νοῦς ἐκράτησεν, ὥστε περιχωρῆσαι τὴν ἀρχήν. καὶ πρῶτον ἀπό του σμικροῦ ἤρξατο περιχωρεῖν, ἐπὶ δὲ πλέον περιχωρεῖ, καὶ περιχωρήσει ἐπὶ πλέον.",
     "author": "Anaxagoras",
     "sources": [
@@ -833,8 +818,8 @@
   {
     "id": "mm-000085",
     "type": "quote",
-    "sr": "Postoje mnogi delovi mnogih stvari. Ništa se potpuno ne odvaja niti razlučuje jedno od drugoga osim Uma. Svaki Um je jednak, i veći i manji; ništa drugo nije jednako ničemu, nego svaka pojedinačna stvar jeste i bila je najočiglednije ono čega u njoj ima najviše.",
-    "stsl": "Многы чѧсти многыхъ вещеи сѫть · Ничьтоже съвьсѣмъ не разлѫчаєть сѧ ни различаєть сѧ єдино отъ дрѹгаго развѣ Ѹма · Вьсѧкъ Ѹмъ подобьнъ єсть · и вѧшть и мьньши · Ино же ничьтоже ничьсомѹ подобьно єсть · нъ коѩ вещи въ коємь множає · то єдина вешьть ꙗвѣ єсть и бѣ ·",
+    "sr": "Mnogi su delovi mnogih stvari. Ništa se potpuno ne izdvaja niti razlučuje jedno od drugoga osim Uma. Sav Um je sebi jednak, i veći i manji. Ništa drugo nije jednako ničemu, nego svaka stvar beše i jeste očigledno ono čega u njoj ima najviše.",
+    "stsl": "Многы чѧсти многыхъ вещеи сѫть · Ничьтоже съвьсѣмъ не отълѫчаєть сѧ ни разлѫчаєть сѧ єдино отъ дрѹгаго развѣ Ѹма · Вьсь Ѹмъ себѣ подобьнъ · и вѧшть и мьньши · Ино же ничьтоже ничьсомѹ подобьно · нъ вьсѧка вещь ꙗвѣ то бѣ и єсть · єгоже въ неи множає ·",
     "originalText": "μοῖραι δὲ πολλαὶ πολλῶν εἰσι. παντάπασι δὲ οὐδὲν ἀποκρίνεται οὐδὲ διακρίνεται ἕτερον ἀπὸ τοῦ ἑτέρου πλὴν νοῦ. νοῦς δὲ πᾶς ὅμοιός ἐστι καὶ ὁ μείζων καὶ ὁ ἐλάττων. ἕτερον δὲ οὐδέν ἐστιν ὅμοιον οὐδενί, ἀλλ’ ὅτων πλεῖστα ἔνι, ταῦτα ἐνδηλότατα ἓν ἕκαστόν ἐστι καὶ ἦν.",
     "author": "Anaxagoras",
     "sources": [
