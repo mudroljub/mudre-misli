@@ -3,8 +3,8 @@
     "id": "mm-000023",
     "type": "bio",
     "year": -500,
-    "sr": "Rođen u Klazomenama.",
-    "stsl": "Анаксагора Клазоменꙗнинъ бѣ.",
+    "sr": "Anaksagora iz Klazomene, sin Hegesibulov ili Eubulov.",
+    "stsl": "Анаксагора Клазоменꙗнинъ · сынъ Хегесивѹла или Евѹла ·",
     "originalText": "Ἀναξαγόρας Ἡγησιβούλου ἢ Εὐβούλου, Κλαζομένιος.",
     "author": "Anaxagoras",
     "sources": [
@@ -120,8 +120,8 @@
   {
     "id": "mm-000031",
     "type": "quote",
-    "sr": "Počela su istovrsne čestice: kao što je zlato sastavljeno od sitnih zrnaca zlatnog praha, tako je čitava vaseljena sastavljena od sićušnih tela čiji su delovi međusobno istovrsni.",
-    "stsl": "Начѧла сѫть єдинородьныѩ чѧсти · ꙗкоже злато отъ малыхъ зрьнъ златаго праха съставлєно єсть · тако и вьсѧ васєлена отъ малѣишихъ тѣлъ · ихъже чѧсти междѹ собою єдинородьны сѫть · съставлєна єсть ·",
+    "sr": "Počela su istovrsni delovi: kao što je zlato sastavljeno od sitnih zrnaca zlatnog praha, tako je i sve sastavljeno od malih tela istovrsnih delova.",
+    "stsl": "Начѧла сѫть єдинородьныѩ чѧсти · ꙗкоже злато отъ малыхъ зрьнъ златаго праха съставлєно єсть · тако и вьсе отъ малыхъ тѣлъ єдинородьнꙑихъ чѧстии съставлєно єсть ·",
     "originalText": "Ἀρχὰς δὲ τὰς ὁμοιομερείας· καθάπερ γὰρ ἐκ τῶν ψηγμάτων λεγομένων τὸν χρυσὸν συνεστάναι, οὕτως ἐκ τῶν ὁμοιομερῶν μικρῶν σωμάτων τὸ πᾶν συγκεκρίσθαι.",
     "author": "Anaxagoras",
     "sources": [
@@ -204,9 +204,9 @@
   {
     "id": "mm-000037",
     "type": "quote",
-    "sr": "Da — samo ako ne ponestane vremena.",
-    "stsl": "Да · аще тъкмо врѣмене не лишить ·",
-    "originalText": "Εάν γε ὁ χρόνος μὴ ἐπιλίπῃ.",
+    "sr": "Na pitanje hoće li lampsačke gore ikada postati more, odgovori: Hoće, samo ako ne ponestane vremena.",
+    "stsl": "Въпрошенъ · аще Лампсакьскꙑѩ горꙑ когда морє бѫдѫть · отъвѣща · Бѫдѫть · аще тъкмо врѣмене не лишить ·",
+    "originalText": "πρὸς τὸν εἰπόντα, εἰ τὰ ἐν Λαμψάκῳ ὄρη ἔσται ποτὲ θάλαττα, φασὶν εἰπεῖν, ἐάν γε ὁ χρόνος μὴ ἐπιλίπῃ.",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -220,7 +220,7 @@
     "type": "quote",
     "sr": "Rodio sam se radi posmatranja Sunca, Meseca i neba.",
     "stsl": "Родихъ сѧ ради съзерцаниꙗ слъньца · мѣсѧца и небесе ·",
-    "originalText": "Εἰς θεωρίαν ἡλίου καὶ σελήνης καὶ οὐρανοῦ.",
+    "originalText": "ἐρωτηθείς ποτε εἰς τί γεγέννηται, εἰς θεωρίαν, ἔφη, ἡλίου καὶ σελήνης καὶ οὐρανοῦ.",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -234,7 +234,7 @@
     "type": "quote",
     "sr": "Nisam ja ostao bez Atinjana, nego oni bez mene.",
     "stsl": "Не азъ Атинѧнъ лишихъ сѧ · нъ они мене ·",
-    "originalText": "Οὐ μὲν οὖν, ἀλλ' ἐκεῖνοι ἐμοῦ.",
+    "originalText": "πρὸς τὸν εἰπόντα, ἐστερήθης Ἀθηναίων, οὐ μὲν οὖν, ἔφη, ἀλλʼ ἐκεῖνοι ἐμοῦ.",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -282,48 +282,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "II.12"
-      }
-    ]
-  },
-  {
-    "id": "mm-000043",
-    "type": "quote",
-    "sr": "Priroda je odavno osudila na smrt i moje sudije i mene.",
-    "stsl": "Єстество издавьна и сѫдиѩ моѩ и мене на смрьть осѫди ·",
-    "originalText": "Κἀκείνων κἀμοῦ πάλαι ἡ φύσις κατεψηφίσατο.",
-    "author": "Anaxagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.13"
-      }
-    ]
-  },
-  {
-    "id": "mm-000044",
-    "type": "quote",
-    "sr": "Znao sam da sam svoju decu rodio smrtnu.",
-    "stsl": "Вѣдѣхъ · ꙗко дѣти своѩ смрьтны родихъ ·",
-    "originalText": "Ἤδειν αὐτοὺς θνητοὺς γεννήσας.",
-    "author": "Anaxagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.13"
-      }
-    ]
-  },
-  {
-    "id": "mm-000045",
-    "type": "quote",
-    "sr": "Dopustite dečacima da se svake godine igraju u mesecu u kojem umrem.",
-    "stsl": "Повелите отърокомъ на всѧко лѣто играти въ мѣсѧци · въ немьже ѹмрѫ ·",
-    "originalText": "Τοὺς παῖδας ἐν ᾧ ἂν ἀποθάνῃ μηνὶ κατ' ἔτος παίζειν συγχωρεῖν.",
-    "author": "Anaxagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.14"
       }
     ]
   },
@@ -463,7 +421,7 @@
   {
     "id": "mm-000055",
     "type": "quote",
-    "sr": "Nema najmanjeg među malim, nego uvek postoji manje; jer nije moguće da ono što jeste prestane da bude. Ali i od velikog uvek postoji veće.",
+    "sr": "Nema najmanjeg među malim, nego je uvek manje; jer ono što jeste ne može ne biti. Ali i od velikog uvek ima veće.",
     "originalText": "οὔτε γὰρ τοῦ σμικροῦ ἐστι τό γε ἐλάχιστον, ἀλλ’ ἔλασσον ἀεί· τὸ γὰρ ἐὸν οὐκ ἔστι τὸ μὴ οὐκ εἶναι. ἀλλὰ καὶ τοῦ μεγάλου ἀεί ἐστι μεῖζον.",
     "stsl": "Нѣсть наимьньшаго въ малѣмь · нъ присно мьньшеє єсть · не възможьно бо єже єсть не быти · И отъ великаго присно вѧштеє єсть ·",
     "author": "Anaxagoras",
@@ -561,9 +519,9 @@
   {
     "id": "mm-000062",
     "type": "quote",
-    "sr": "Um je spoznao sve što se meša, razdvaja i razlučuje. I sve što je trebalo da bude, sve što je bilo, što sada jeste i što će biti, sve je Um uredio.",
+    "sr": "Um je spoznao sve što se meša, izdvaja i razlučuje. I što je imalo biti, što beše a sada nije, i što jeste — sve je Um uredio.",
     "originalText": "καὶ τὰ συμμισγόμενά τε καὶ ἀποκρινόμενα καὶ διακρινόμενα πάντα ἔγνω νοῦς. καὶ ὁποῖα ἔμελλεν ἔσεσθαι καὶ ὁποῖα ἦν, ἅσσα νῦν μὴ ἔστι, καὶ ὁποῖα ἔστι, πάντα διεκόσμησε νοῦς.",
-    "stsl": "Вьсѧ съмѣшаѭштаꙗ сѧ · разлѫчаѭштаꙗ сѧ и различаѭштаꙗ сѧ Ѹмъ позна · И вьсѧ · єже быти имѣаше · єже бѣ · єже нынѣ єсть · и єже бѫдеть · вьсѧ Ѹмъ ѹстрои ·",
+    "stsl": "Вьсѧ смѣшаѭштаꙗ сѧ · отълѫчаѭштаꙗ сѧ и разлѫчаѭштаꙗ сѧ Ѹмъ позна · И єже быти имѣаше · єже бѣ и нынѣ нѣсть · и єже єсть · вьсѧ Ѹмъ ѹстрои ·",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -575,9 +533,9 @@
   {
     "id": "mm-000063",
     "type": "quote",
-    "sr": "Kada je Um počeo da pokreće, od svega što se kretalo počelo je razdvajanje; a kruženje je činilo da se stvari razdvajaju sve više.",
+    "sr": "Kada Um poče pokretati, od svega pokrenutog poče izdvajanje; i sve što Um pokrenu razluči se. Dok se stvari kretahu i razlučivahu, kruženje ih razlučivaše sve više.",
     "originalText": "καὶ ἐπεὶ ἤρξατο ὁ νοῦς κινεῖν, ἀπὸ τοῦ κινουμένου παντὸς ἀπεκρίνετο, καὶ ὅσον ἐκίνησεν ὁ νοῦς, πᾶν τοῦτο διεκρίθη· κινουμένων δὲ καὶ διακρινομένων ἡ περιχώρησις πολλῶι μᾶλλον ἐποίει διακρίνεσθαι.",
-    "stsl": "Єгда Ѹмъ движити начѧтъ · отъ вьсего движѫштааго сѧ разлѫчениє начѧ сѧ · крѫжениє же творѧаше · да вешти вьсе множає разлѫчаѭть сѧ ·",
+    "stsl": "Єгда Ѹмъ движити начѧтъ · отъ вьсего движимаго отълѫченіє начѧ сѧ · и єлико Ѹмъ подвиже · вьсе се разлѫчи · Вещемъ же движѫштимъ сѧ и разлѫчаѭштимъ сѧ · крѫженіє ихъ множає разлѫчааше ·",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -589,9 +547,9 @@
   {
     "id": "mm-000064",
     "type": "quote",
-    "sr": "Gusto, vlažno, hladno i tamno sastalo se onde gde je sada Zemlja; retko, toplo, suvo i svetlo otišlo je prema daljem delu nebesja.",
+    "sr": "Gusto, vlažno, hladno i tamno sastalo se onde gde je sada Zemlja; retko, toplo i suvo otišlo je ka daljem delu nebesja.",
     "originalText": "τὸ μὲν πυκνὸν καὶ διερὸν καὶ ψυχρὸν καὶ τὸ ζοφερὸν ἐνθάδε συνεχώρησεν, ἔνθα νῦν ἡ γῆ, τὸ δὲ ἀραιὸν καὶ τὸ θερμὸν καὶ τὸ ξηρὸν ἐξεχώρησεν εἰς τὸ πρόσω τοῦ αἰθέρος.",
-    "stsl": "Гѫстоє · влажноє · студеноє и тьмьноє събра сѧ тамо · идѣже нынѣ землѧ єсть · рѣдъкоє же · теплоє · сухоє и свѣтълоє къ дальнѣи чѧсти небєсьꙗ отиде ·",
+    "stsl": "Гѫстоє · влажноє · студеноє и тьмьноє събра сѧ тамо · идѣже нынѣ землѧ · рѣдъкоє же · теплоє и сухоє къ дальнѣи чѧсти небєсьꙗ отиде ·",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -603,9 +561,9 @@
   {
     "id": "mm-000065",
     "type": "quote",
-    "sr": "Iz magle se razdvaja voda, iz vode zemlja, a iz zemlje se hladnoćom zgušnjava kamenje.",
+    "sr": "Iz oblaka se izdvaja voda, iz vode zemlja, a iz zemlje se hladnoćom zgušnjava kamenje.",
     "originalText": "ἐκ μὲν γὰρ τῶν νεφελῶν ὕδωρ ἀποκρίνεται, ἐκ δὲ τοῦ ὕδατος γῆ, ἐκ δὲ τῆς γῆς λίθοι συμπήγνυνται ὑπὸ τοῦ ψυχροῦ.",
-    "stsl": "Отъ мъглы вода разлѫчаєть сѧ · отъ воды землѧ · отъ землѧ же студению камениє гѫстѣєть ·",
+    "stsl": "Отъ облакъ вода отълѫчаєть сѧ · отъ воды землѧ · отъ землѧ же студению камениє гѫстѣєть ·",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -617,7 +575,7 @@
   {
     "id": "mm-000066",
     "type": "quote",
-    "sr": "Rađanje i propadanje Heleni ne shvataju pravilno · jer nijedna stvar ne rađa se niti propada · nego se od suštih stvari meša i razlučuje · I tako bi pravilno zvali rađanje mešanjem · a propadanje razlučivanjem ·",
+    "sr": "Rađanje i propadanje Heleni ne shvataju pravilno: nijedna stvar ne rađa se niti propada, nego se sušte stvari mešaju i razlučuju. Zato bi pravilno zvali rađanje mešanjem, a propadanje razlučivanjem.",
     "originalText": "τὸ δὲ γίνεσθαι καὶ ἀπόλλυσθαι οὐκ ὀρθῶς νομίζουσιν οἱ Ἕλληνες· οὐδὲν γὰρ χρῆμα γίνεται οὐδὲ ἀπόλλυται, ἀλλ’ ἀπὸ ἐόντων χρημάτων συμμίσγεταί τε καὶ διακρίνεται. καὶ οὕτως ἂν ὀρθῶς καλοῖεν τό τε γίνεσθαι συμμίσγεσθαι καὶ τὸ ἀπόλλυσθαι διακρίνεσθαι.",
     "stsl": "Рожденьѥ же и тлѣніѥ Єллини не право мьнѧтъ · ничьтоже бо вещь раждаѥть сѧ ни тлѣѥть · нъ отъ сѫщихъ вещии смѣшаѥть сѧ и разлѫчаѥть сѧ · И тако право рожденьѥ смѣшеніѥмъ нарицали бꙑ · тлѣніѥ же разлѫченіѥмъ ·",
     "author": "Anaxagoras",
@@ -777,8 +735,8 @@
   {
     "id": "mm-000078",
     "type": "quote",
-    "sr": "Mnoštvo stvari koje se razdvajaju ne možemo saznati ni razumom ni delom.",
-    "stsl": "Множьства разлѫчаѭштихъ сѧ вещеи не можемъ познати ни разумомъ ни дѣломъ ·",
+    "sr": "Mnoštvo stvari koje se izdvajaju ne možemo saznati ni slovom ni delom.",
+    "stsl": "Множьства отълѫчаѭштихъ сѧ вещеи не можемъ познати ни словомъ ни дѣломъ ·",
     "originalText": "ὥστε τῶν ἀποκρινομένων μὴ εἰδέναι τὸ πλῆθος μήτε λόγωι μήτε ἔργωι.",
     "author": "Anaxagoras",
     "sources": [

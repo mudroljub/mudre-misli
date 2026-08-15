@@ -17,6 +17,27 @@
 
 Usavršavati prevod jednog po jednog autora, kroz sledeće prolaze:
 
+- [x] **Heraklit** — završen sadržinski, terminološki i prevodilački prolaz.
+  Zastupljena su 123 od 126 Dilsovih B-brojeva. B58 je tekstološki oštećen,
+  B69 nema izdvojive Heraklitove reči, a B81 je korumpirano posredno retoričko
+  svedočanstvo; zato nisu predstavljeni kao njegove izreke. Svih 154 unosa
+  imaju prevodni par, izvornik, izvor i stabilan jedinstven ID; provera tipova
+  i provera duplikata prolaze.
+
+- [x] **Parmenid** — završen sadržinski, terminološki i prevodilački prolaz.
+  Svih 19 Dilsovih B-fragmenata predstavljeno je u 54 zapisa, sa 30 preciznih
+  upućivanja na stihove; dopunjen je gotovo ceo proem B1 i izostavljeni B7.
+  Uklonjen je duplikat svedočanstva o zakonima, ispravljene su vrste zapisa i
+  oba prevoda proverena prema izvorniku. JSON, generator i provera tipova
+  prolaze. Tekstološka nedoumica u B1.31–32 zabeležena je za kasniju odluku.
+
+- [ ] **Anaksagora** — u toku. Početno stanje: 65 unosa; proveriti potpunost
+  po `46-Anaxagoras.txt`, ukloniti sadržinska preklapanja i isklesati oba
+  prevoda prema grčkom, bez mehaničkog ujednačavanja legitimnih alt termina.
+
+Posvećenu grafijsku kontrolu zasad preskočiti; ispravljati samo očigledne
+grafijske greške uočene tokom sadržinskog rada.
+
 1. **Utvrditi izvornik i smisao** — proveriti `originalText`, izdanje,
    referencu i izvornu ogradu. Raščlaniti grčku sintaksu, ključne reči,
    participe, pojmovne porodice, antiteze, ponavljanja, igre reči i moguće
@@ -51,3 +72,9 @@ Usavršavati prevod jednog po jednog autora, kroz sledeće prolaze:
 ## UI
 
 - tekst na stranici O projektu da zauzima celu širinu
+- odvojiti duže radove u poseban json, posebno Epikurova pisma. smisliti sistem da kasnije podrži i Platonove dijaloge.
+
+## Razno
+
+- odvojiti duže radove u poseban json, posebno Epikurova pisma. smisliti sistem da kasnije podrži i Platonove dijaloge.
+- proveriti u izvorima tumačenja Kleobulinih zagonetki

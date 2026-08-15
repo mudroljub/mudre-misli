@@ -29,3 +29,22 @@ u `TODO.md`.
 - U odgovoru Arkesilaju izraz `ὑμᾶς ἀναπεπταμένους` doslovno nosi sliku
   „rastvorenih/razjapljenih“. Postojeći prevod „da vas vidim otvorene i da se
   smejem“ privremeno je zadržan dok se ne utvrdi tačna poruga u kontekstu.
+
+## Heraklit, Dils B58, B69 i B81
+
+- B58 je oštećen u završnoj sintagmi o lekarima (`ταὐτὰ ἐργαζόμενοι, τὰ
+  ἀγαθὰ καὶ τὰς νόσους`), pa bi svaki gladak prevod prikrio tekstološki
+  problem. Nije unet kao samostalna izreka.
+- B69 je Jamblihovo izlaganje o vrstama žrtava sa umetnutim `ὥς φησιν
+  Ἡράκλειτος`, ali bez izdvojivih Heraklitovih reči. Nije pretvoren u lažni
+  doslovni navod.
+- B81 je korumpirano i posredno Filodemovo retoričko svedočanstvo; ni grčki
+  tekst ni tačan smisao završne kvalifikacije nisu dovoljno sigurni za prevod.
+
+## Parmenid, Dils B1.31–32
+
+- Sintaksa stihova `ὡς τὰ δοκοῦντα χρῆν δοκίμως εἶναι διὰ παντὸς πάντα
+  περῶντα` dopušta više tumačenja odnosa između privida, pouzdanosti i
+  prožimanja svega. Privremeno je preneto blisko površinskoj sintaksi:
+  „kako je trebalo da mnenja pouzdano budu, sva kroz sve prolazeći“, bez
+  unošenja određenog filozofskog tumačenja u sam prevod.

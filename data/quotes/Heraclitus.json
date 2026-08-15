@@ -181,7 +181,7 @@
     "id": "mm-001193",
     "type": "quote",
     "stsl": "Вѣдѣти подобаєть · ратъ обьштъ · правда раздоръ · и всѧ по раздору нѫждьно раждаѭтъ сѧ ·",
-    "sr": "Valja vedeti: rat je opšti, pravda razdor, i sve kroz razdor nužno rađa se. ",
+    "sr": "Valja vedeti: rat je opšti, pravda razdor, i sve se kroz razdor nužno rađa.",
     "originalText": "εἰδέναι δὲ χρὴ τὸν πόλεμον ἐόντα ξυνόν, καὶ δίκην ἔριν, καὶ γινόμενα πάντα κατ᾽ ἔριν καὶ χρεώμενα.",
     "author": "Heraclitus",
     "sources": [
@@ -252,6 +252,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.1"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.42"
       }
     ]
   },
@@ -266,6 +270,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.2"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.43"
       }
     ]
   },
@@ -281,6 +289,10 @@
       {
         "name": "walter-burley",
         "reference": "Cap. XLVII"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.106"
       }
     ]
   },
@@ -295,6 +307,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.2"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.44"
       }
     ]
   },
@@ -309,6 +325,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.2"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.121"
       }
     ]
   },
@@ -323,6 +343,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.7"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.45"
       }
     ]
   },
@@ -337,6 +361,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.7"
+      },
+      {
+        "name": "hermann-diels",
+        "reference": "B.46"
       }
     ]
   },
@@ -621,7 +649,7 @@
   {
     "id": "mm-001223",
     "type": "quote",
-    "stsl": "Слово се искони єсть · людіе же неразѹмьни · прѣжде слꙑшаниꙗ и слꙑшавъше прьвѣє · Вьсѧ бо по словѹ семѹ бꙑваѭть · они же неискѹсьни · аште и искѹшаѭть словеса и дѣла · ꙗже аꙁъ сказѹѭ · кождо по естествѹ раздѣлѧѩ и како єсть ꙗвлѧѩ · Инꙑмъ же людемь таино · что бъдѧште творѧть · ꙗкоже спѧште ꙁабꙑваѭть ·",
+    "stsl": "Слово се искони єсть · людіе же неразѹмьни · прѣжде слꙑшаниꙗ и слꙑшавъше прьвѣє · Вьсѧ бо по словѹ семѹ бꙑваѭть · они же неискѹсьни · аште и искѹшаѭть словеса и дѣла · ꙗже аꙁъ сказѹѭ · кождо по природѣ раздѣлѧѩ и како єсть ꙗвлѧѩ · Инꙑмъ же людемь таино · что бъдѧште творѧть · ꙗкоже спѧште ꙁабꙑваѭть ·",
     "sr": "Ovo slovo je oduvek, a ljudi ga ne razumeju, ni pre no što ga čuju ni kad ga prvi put čuju. Sve biva po ovom slovu, a oni su neiskusni, iako iskušavaju reči i dela koja ja kazujem, svako po prirodi razdeljujući i pokazujući kako jeste. Drugima je skriveno šta čine budni, kao što spavajući zaboravljaju.",
     "originalText": "τοῦ δὲ λόγου τοῦδ᾽ ἐόντος ἀεὶ ἀξύνετοι γίγνονται ἄνθρωποι καὶ πρόσθεν ἢ ἀκοῦσαι καὶ ἀκούσαντες τὸ πρῶτον· γινομένων γὰρ πάντων κατὰ τὸν λόγον τόνδε ἀπείροισιν ἐοίκασι, πειρώμενοι καὶ ἐπέων καὶ ἔργων τοιούτων, ὁκοίων ἐγὼ διηγεῦμαι διαιρέων ἕκαστον κατὰ φύσιν καὶ φράζων ὅκως ἔχει. τοὺς δὲ ἄλλους ἀνθρώπους λανθάνει ὁκόσα ἐγερθέντες ποιοῦσιν, ὅκωσπερ ὁκόσα εὔδοντες ἐπιλανθάνονται.",
     "author": "Heraclitus",
@@ -635,8 +663,8 @@
   {
     "id": "mm-001224",
     "type": "quote",
-    "stsl": "Тѣмь подобаєть послѣдовати общемѹ · Слова же сѫщаго обьща · живѹть мнози ꙗко свою имѫще разборъ ·",
-    "sr": "Zato treba slediti zajedničko. Ali iako je reč zajednička, mnogi žive kao da imaju sopstveni razbor.",
+    "stsl": "Тѣмь подобаєть послѣдовати общемѹ · Слова же сѫщаго обьща · живѹть мнози ꙗко свою имѫще разборьность ·",
+    "sr": "Zato treba slediti zajedničko. Ali iako je slovo zajedničko, mnogi žive kao da imaju sopstvenu razboritost.",
     "originalText": "διὸ δεῖ ἕπεσθαι τῷ ξυνῷ, τουτέστι τῷ κοινῷ· ξυνὸς γὰρ ὁ κοινός. τοῦ λόγου δὲ ἐόντος ξυνοῦ ζώουσιν οἱ πολλοὶ ὡς ἰδίαν ἔχοντες φρόνησιν.",
     "author": "Heraclitus",
     "sources": [
@@ -747,8 +775,8 @@
   {
     "id": "mm-001232",
     "type": "quote",
-    "stsl": "Вьсе пъѫщеє божии бичемь погонѣно ·",
-    "sr": "Sve što puzi goni se Božjim bičem.",
+    "stsl": "Вьсѧко животно ѹдаромъ на пажить гонить сѧ ·",
+    "sr": "Svaka životinja udarcem se goni na pašu.",
     "originalText": "πᾶν γὰρ ἑρπετὸν πληγῇ νέμεται.",
     "author": "Heraclitus",
     "sources": [
@@ -761,8 +789,8 @@
   {
     "id": "mm-001233",
     "type": "quote",
-    "stsl": "Въ рѣкѹ тѹждѹ вьходѧщимъ ина и ина вода притечеть ·",
-    "sr": "Onima koji ulaze u istu reku pritiče nova i nova voda.",
+    "stsl": "Въ тѫжде рѣкѫ вьходѧштиимъ инꙑ и инꙑ водꙑ притекѫть ·",
+    "sr": "Onima koji ulaze u istu reku pritiču nove i nove vode.",
     "originalText": "ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ.",
     "author": "Heraclitus",
     "sources": [
@@ -789,8 +817,8 @@
   {
     "id": "mm-001235",
     "type": "quote",
-    "stsl": "Калѹ радовати сѧ подобаєть ·",
-    "sr": "U blatu treba uživati.",
+    "stsl": "Калѹ радовати сѧ ·",
+    "sr": "Uživati u blatu.",
     "originalText": "βορβόρῳ χαίρειν.",
     "author": "Heraclitus",
     "sources": [
@@ -803,8 +831,8 @@
   {
     "id": "mm-001236",
     "type": "reported",
-    "stsl": "[Комѹ же пророкѹѥть Хераклитъ Ефесьскꙑи?] Нощьникомъ · влъхвомъ · вакхомъ · ленамъ · таиникомъ · [Тѣмь грозить по смрьти · тѣмь огнь пророкѹѥть ·] Таиньства [бо] людьскаꙗ несвѧто посвѧщаѭть ·",
-    "sr": "[Kome prorokuje Heraklit Efežanin?] Noćnicima, vračevima, bakhantima, lenama i posvećenicima. [Njima preti onim što dolazi posle smrti; njima prorokuje vatru.] [Jer] tajne ljudske nesveto posvećuju.",
+    "stsl": "[Комѹ же пророкѹєть Хераклитъ Ефесьскꙑи?] Нощьникомъ · влъхвомъ · вакхомъ · ленамъ · таиникомъ · [Тѣмь грозить по смрьти · тѣмь огнь пророкѹєть ·] Въ таиньства [бо] междѹ чловѣкꙑ чьстима несвѧто посвѧщаѭть сѧ ·",
+    "sr": "[Kome prorokuje Heraklit Efežanin?] Noćnicima, vračevima, bakhantima, lenama i posvećenicima. [Njima preti onim što dolazi posle smrti; njima prorokuje vatru.] U tajne [jer] među ljudima poštovane posvećuju se nesveto.",
     "originalText": "[τίσι δὴ μαντεύεται Ἡ. ὁ Ἐφέσιος;] νυκτιπόλοις, μάγοις, βάκχοις, λήναις, μύσταις· [τούτοις ἀπειλεῖ τὰ μετὰ θάνατον, τούτοις μαντεύεται τὸ πῦρ·] τὰ [γὰρ] νομιζόμενα κατ᾽ ἀνθρώπους μυστήρια ἀνιερωστὶ μυεῦνται.",
     "author": "Heraclitus",
     "sources": [
@@ -817,8 +845,8 @@
   {
     "id": "mm-001237",
     "type": "quote",
-    "stsl": "Аще бо не Дионисѹ ходъ творѧть и пѣснь въ честь срамнаго ѹда поѭть · бесрамьнѣишаꙗ бы творили · Адъ же и Дионисъ тъжьде богъ єсть · єгоже ради неистовьствѹѭть и обрядꙑ творѧть ·",
-    "sr": "Da ne priređuju povorku Dionisu i ne pevaju pesmu u čast polnog uda, činili bi nešto krajnje bestidno. Ali Had i Dionis su jedan te isti bog, zbog koga padaju u zanos i vrše obrede.",
+    "stsl": "Аще не Дионисѹ ходъ творѧть и пѣснь срамнымъ ѹдомъ поѭть · бесрамьнѣишаꙗ бꙑ творили · Адъ же и Дионисъ тъжьде єсть · єгоже ради неистовьствѹѭть и обрядꙑ творѧть ·",
+    "sr": "Da ne priređuju povorku Dionisu i ne pevaju pesmu polnim udovima, činili bi nešto krajnje bestidno. Had i Dionis isto su, zbog njega padaju u zanos i vrše obrede.",
     "originalText": "εἰ μὴ γὰρ Διονύσῳ πομπὴν ἐποιοῦντο καὶ ὕμνεον ᾆσμα αἰδοίοισιν, ἀναιδέστατα εἴργαστ᾽ ἄν. ὡυτὸς δὲ Ἅιδης καὶ Διόνυσος, ὅτεῳ μαίνονται καὶ ληναΐζουσι.",
     "author": "Heraclitus",
     "sources": [
@@ -831,8 +859,8 @@
   {
     "id": "mm-001238",
     "type": "quote",
-    "stsl": "Како можетъ кто съкрꙑти не заходѧщее николиже ·",
-    "sr": "Kako može neko sakriti ono što nikada ne zalazi?",
+    "stsl": "Отъ не заходѧштаго николиже како кто ѹтаить сѧ ·",
+    "sr": "Od onoga što nikada ne zalazi kako bi se ko sakrio?",
     "originalText": "τὸ μὴ δῦνόν ποτε πῶς ἄν τις λάθοι;",
     "author": "Heraclitus",
     "sources": [
@@ -845,8 +873,8 @@
   {
     "id": "mm-001239",
     "type": "quote",
-    "stsl": "Мноꙁи бо не раꙁѹмѣѭть ꙗже срѣтаѭть · ни наѹчивъше сѧ познаѭть · себѣ же мьнѧть сѧ ·",
-    "sr": "Mnogi ne razumeju ono sa čim se susreću, niti to poznaju kada nauče, a sami sebi se čine.",
+    "stsl": "Мноꙁи бо не разбираѭть ꙗже срѣтаѭть · ни наѹчивъше сѧ познаѭть · сами же мьнѧть ꙗко разбираѭть ·",
+    "sr": "Mnogi ne razbiraju ono sa čim se susreću, niti naučivši poznaju; sami pak misle da razbiraju.",
     "originalText": "οὐ γὰρ φρονέουσι τοιαῦτα οἱ πολλοί, ὁκοίοις ἐγκυρεῦσιν, οὐδὲ μαθόντες γινώσκουσιν, ἑωυτοῖσι δὲ δοκέουσι.",
     "author": "Heraclitus",
     "sources": [
@@ -859,8 +887,8 @@
   {
     "id": "mm-001240",
     "type": "quote",
-    "stsl": "Аще не ѹпъва · неѹпованоє не обрѧщєть · неиспꙑтано бо єсть и бесъпѫтьно ·",
-    "sr": "Ako ne nada se, neočekivano neće naći, jer je neispitivo i nepristupačno.",
+    "stsl": "Аще не ѹпъваєть · неѹпованоє не обрѧшетъ · неиспꙑтно бо єсть и беспѫтьно ·",
+    "sr": "Ako se ne nada, nenadano neće naći: neispitivo je i nepristupačno.",
     "originalText": "ἐὰν μὴ ἔλπηται, ἀνέλπιστον οὐκ ἐξευρήσει, ἀνεξερεύνητον ἐὸν καὶ ἄπορον.",
     "author": "Heraclitus",
     "sources": [
@@ -887,8 +915,8 @@
   {
     "id": "mm-001242",
     "type": "quote",
-    "stsl": "Рождьше сѧ хотъѧть жити и смрьти приѧти · паче же почити · и дѣти оставлѧѭть да смрьть приимѫть ·",
-    "sr": "Rođeni hoće živeti i smrt primiti, pre pak počiti, i decu ostavljaju da smrt prime.",
+    "stsl": "Рождьше сѧ хотѧть жити и смрьти имѣти · паче же почити · и чѧда оставлѧѭть · да смрьти родѧть сѧ ·",
+    "sr": "Rođeni, hoće živeti i smrt imati — pre pak počiti — a decu ostavljaju da se smrti rode.",
     "originalText": "γενόμενοι ζώειν ἐθέλουσι μόρους τ᾽ ἔχειν, μᾶλλον δὲ ἀναπαύεσθαι, καὶ παῖδας καταλείπουσι μόρους γενέσθαι.",
     "author": "Heraclitus",
     "sources": [
@@ -901,8 +929,8 @@
   {
     "id": "mm-001243",
     "type": "quote",
-    "stsl": "Смрьть єсть ꙗкоже бъдѧще ꙁримь · а спѧще сънъ ·",
-    "sr": "Smrt je ono što budni vidimo, a spavajući san.",
+    "stsl": "Смрьть вьсѧ ꙗже бъдѧще зримъ · сънъ же вьсѧ ꙗже спѧще ·",
+    "sr": "Smrt je sve što budni vidimo, a san sve što spavajući.",
     "originalText": "θάνατός ἐστιν ὁκόσα ἐγερθέντες ὁρέομεν, ὁκόσα δὲ εὕδοντες ὕπνος.",
     "author": "Heraclitus",
     "sources": [
@@ -915,8 +943,8 @@
   {
     "id": "mm-001244",
     "type": "quote",
-    "stsl": "Ꙁлато ищѫщеи множьство ꙁемлѧ копаѭть · мало же обрѣтаѭть ·",
-    "sr": "Koji zlato traže mnogo zemlje kopaju, a malo nalaze.",
+    "stsl": "Ꙁлата ищѫштеи многѫ землѭ копаѭть · мало же обрѣтаѭть ·",
+    "sr": "Tragaoci za zlatom mnogo zemlje kopaju, a malo nalaze.",
     "originalText": "χρυσὸν γὰρ οἱ διζήμενοι γῆν πολλὴν ὀρύσσουσι καὶ εὑρίσκουσιν ὀλίγον.",
     "author": "Heraclitus",
     "sources": [
@@ -957,8 +985,8 @@
   {
     "id": "mm-001247",
     "type": "quote",
-    "stsl": "Болѧꙗ смрьть · болѧа мьꙁда приємлеть ·",
-    "sr": "Veća smrt, veću nagradu prima.",
+    "stsl": "Болꙑ смрьти болꙑ чѧсти приємлѭть ·",
+    "sr": "Veće smrti primaju veće udele.",
     "originalText": "μόροι γὰρ μέζονες μέζονας μοίρας λαγχάνουσι.",
     "author": "Heraclitus",
     "sources": [
@@ -985,8 +1013,8 @@
   {
     "id": "mm-001249",
     "type": "quote",
-    "stsl": "Чловѣкꙑ ждеть ѹмрьвъше єгоже не ѹпъваѭть ни мьнѧть ·",
-    "sr": "Ljude čeka umrle ono čega se ne nadaju niti misle.",
+    "stsl": "Чловѣкъ ѹмрьвъшихъ ждѫть ꙗже не ѹпъваѭть ни мьнѧть ·",
+    "sr": "Ljude po smrti čeka ono čemu se ne nadaju niti slute.",
     "originalText": "ἀνθρώπους μένει τελευτήσαντας ἅσσα οὐκ ἔλπονται οὐδὲ δοκέουσιν.",
     "author": "Heraclitus",
     "sources": [
@@ -999,8 +1027,8 @@
   {
     "id": "mm-001250",
     "type": "quote",
-    "stsl": "Мьнѣніѧ бо приславьнꙑи ꙁнаєть · хранить · Правда же постигнеть лъжи вꙑмꙑсльники и съвѣдѣтелѧ ·",
-    "sr": "Mnenja slavniji poznaje i čuva. Pravda će uhvatiti lažljive stvaraoce i svedoke.",
+    "stsl": "Мьнимаꙗ бо славьнѣиши познаваєть и хранить · Правда же постигнеть лъжи зиждителѧ и съвѣдѣтелѧ ·",
+    "sr": "Najugledniji poznaje i čuva ono što se čini. Pravda će uhvatiti tvorce i svedoke laži.",
     "originalText": "δοκέοντα γὰρ ὁ δοκιμώτατος γινώσκει, φυλάσσει καὶ μέντοι καὶ Δίκη καταλήψεται ψεύδων τέκτονας καὶ μάρτυρας.",
     "author": "Heraclitus",
     "sources": [
@@ -1013,8 +1041,8 @@
   {
     "id": "mm-001251",
     "type": "quote",
-    "stsl": "Избираѭть бо єдино паче вьсѣхъ наилоѹчьшеи · славѹ вѣчьнѹ смрьтьнꙑхъ · мнози же насꙑщени сѫть ꙗкоже скотъи ·",
-    "sr": "Biraju najbolji jedno umesto svega: večnu slavu smrtnih, mnogi pak su nasićeni kao stoka.",
+    "stsl": "Лѹчьши бо єдно паче вьсего избираѭть · славѹ непрѣходѧштѫ междѹ смрьтнꙑими · мнози же насꙑщаѭть сѧ ꙗкоже скоти ·",
+    "sr": "Najbolji biraju jedno umesto svega: neprolaznu slavu među smrtnima; mnogi se pak site kao stoka.",
     "originalText": "αἱρεῦνται γὰρ ἓν ἀντὶ ἁπάντων οἱ ἄριστοι, κλέος ἀέναον θνητῶν, οἱ δὲ πολλοὶ κεκόρηνται ὅκωσπερ κτήνεα.",
     "author": "Heraclitus",
     "sources": [
@@ -1027,8 +1055,8 @@
   {
     "id": "mm-001252",
     "type": "quote",
-    "stsl": "Строи сь · тъжде вьсѣмь · ни богъ ни чловѣкъ сътвори · Нъ бѣ вьсегда и єсть и бѫдеть огнь вѣчьно живꙑи · ꙁажигаѩ сѧ по мѣрѣ и погасаѩ по мѣрѣ ·",
-    "sr": "Ovaj svet, isti za sve, nije stvorio bog ni čovek, već je bio uvek i jeste i biće vatra večno živa, razgorevajući se merom i gasnući merom.",
+    "stsl": "Строи сь · тъжде вьсѣмъ · ни єдинъ богъ ни чловѣкъ сътвори · нъ бѣ вьсегда и єсть и бѫдеть · огнь вѣчьно живꙑи · разгараѩ сѧ мѣроѭ и погасаѩ мѣроѭ ·",
+    "sr": "Ovaj ustroj, isti za sve, ne stvori nijedan bog ni čovek, nego beše uvek, jeste i biće: oganj večno živ, razgorevajući se merom i gasnući merom.",
     "originalText": "κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τὶς θεῶν οὔτε ἀνθρώπων ἐποίησεν, ἀλλ᾽ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον, ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα.",
     "author": "Heraclitus",
     "sources": [
@@ -1055,8 +1083,8 @@
   {
     "id": "mm-001254",
     "type": "quote",
-    "stsl": "Єдино то мѫдроє · єдино глаголати сѧ не хощеть и хощєть Ꙁевсовоѩ имене ·",
-    "sr": "Jedno to mudro jedino nazivati se ne želi i želi Zeusovim imenom.",
+    "stsl": "Єдно · єдино мѫдро · не хоштеть и хоштеть Ꙁевсовымь именемь нарицати сѧ ·",
+    "sr": "Jedno, jedino mudro, neće i hoće da se nazove Zeusovim imenom.",
     "originalText": "ἓν τὸ σοφὸν μοῦνον λέγεσθαι οὐκ ἐθέλει καὶ ἐθέλει Ζηνὸς ὄνομα.",
     "author": "Heraclitus",
     "sources": [
@@ -1069,8 +1097,8 @@
   {
     "id": "mm-001255",
     "type": "quote",
-    "stsl": "Ꙁаконъ єсть и волѣ єдиного послѣдовати ·",
-    "sr": "Zakon je i volji jednog slediti.",
+    "stsl": "Ꙁаконъ єсть и съвѣта єдиного послоушати ·",
+    "sr": "Zakon je i savet jednoga poslušati.",
     "originalText": "νόμος καὶ βουλῇ πείθεσθαι ἑνός.",
     "author": "Heraclitus",
     "sources": [
@@ -1083,8 +1111,8 @@
   {
     "id": "mm-001256",
     "type": "quote",
-    "stsl": "Неразѹмьни слꙑшавъше глѹхꙑмь подобьни · Присловие имь съвѣдѣтельствѹєть · присѫще отъьсѫтьствѹѭть ·",
-    "sr": "Nerazumni čuvši su slični gluvima. Poslovica im svedoči: prisutni odsustuju.",
+    "stsl": "Неразѹмьни слꙑшавъше глѹхꙑмь подобьни · Присловиє о нихъ съвѣдѣтельствѹєть · присѫште отъсѫтьствѹѭть ·",
+    "sr": "Nerazumni, čuvši, nalik su gluvima. Izreka o njima svedoči: prisutni odsustvuju.",
     "originalText": "ἀξύνετοι ἀκούσαντες κωφοῖσιν ἐοίκασι· φάτις αὐτοῖσιν μαρτυρεῖ παρεόντας ἀπεῖναι.",
     "author": "Heraclitus",
     "sources": [
@@ -1097,8 +1125,8 @@
   {
     "id": "mm-001257",
     "type": "quote",
-    "stsl": "Мнози испꙑтатели подобаєть любомѫдрьцемь мѹжемь быти ·",
-    "sr": "Mnogih stvari ispitivači treba da budu mudroljubi.",
+    "stsl": "Любомѫдрьцемъ мѫжемъ многꙑихъ добрѣ испꙑтателемъ бꙑти подобаєть ·",
+    "sr": "Mudroljubivi ljudi moraju biti dobri ispitivači veoma mnogih stvari.",
     "originalText": "χρὴ γὰρ εὖ μάλα πολλῶν ἵστορας φιλοσόφους ἄνδρας εἶναι.",
     "author": "Heraclitus",
     "sources": [
@@ -1111,8 +1139,8 @@
   {
     "id": "mm-001258",
     "type": "quote",
-    "stsl": "Дѹшамь смрьть водою бꙑти · водѣ же смрьть ꙁемлѥѭ бꙑти · Отъ ꙁемлѧ же вода бꙑваєть · Отъ водꙑ же дѹша ·",
-    "sr": "Dušama je smrt vodom postati, a vodi smrt zemljom postati. Iz zemlje pak voda postaje, iz vode pak duša.",
+    "stsl": "Дѹшамъ смрьть водоѭ бꙑти · водѣ же смрьть землєѭ бꙑти · из землѧ же вода бꙑваєть · из водꙑ дѹша ·",
+    "sr": "Dušama je smrt postati voda, a vodi smrt postati zemlja. Iz zemlje biva voda, iz vode duša.",
     "originalText": "ψυχῇσιν θάνατος ὕδωρ γενέσθαι, ὕδατι δὲ θάνατος γῆν γενέσθαι, ἐκ γῆς δὲ ὕδωρ γίνεται, ἐξ ὕδατος δὲ ψυχή.",
     "author": "Heraclitus",
     "sources": [
@@ -1125,8 +1153,8 @@
   {
     "id": "mm-001259",
     "type": "quote",
-    "stsl": "Свинѩ калѹ мꙑѭть сѧ · птицꙑ домашьнꙑꙗ прахомь или попеломь ·",
-    "sr": "Svinje se kaljugom peru, ptice domaće prašinom ili pepelom.",
+    "stsl": "Свинѩ каломъ мꙑѭть сѧ · птицꙑ же прахомъ или попеломъ ·",
+    "sr": "Svinje se peru kaljugom, ptice prašinom ili pepelom.",
     "originalText": "σύες βορβόρῳ, ὄρνεις δὲ κόνει ἢ σποδῷ λοῦνται.",
     "author": "Heraclitus",
     "sources": [
@@ -1139,8 +1167,8 @@
   {
     "id": "mm-001260",
     "type": "quote",
-    "stsl": "Сковъ неꙗвлєнъ лѹчьши ꙗвлєнаго ·",
-    "sr": "Skrivena harmonija bolja od vidljive.",
+    "stsl": "Складъ неꙗвленъ лѹчьши ꙗвленаго ·",
+    "sr": "Skriveni sklad bolji je od vidljivog.",
     "originalText": "ἁρμονίη ἀφανὴς φανερῆς κρείττων.",
     "author": "Heraclitus",
     "sources": [
@@ -1153,8 +1181,8 @@
   {
     "id": "mm-001261",
     "type": "quote",
-    "stsl": "Тожде єсть живо и мрьтво · и бъдѧще и спѧще · и младо и старо · Сиꙗ бо прѣложьша · она сѫть · и она опѧть прѣложьша · сиꙗ ·",
-    "sr": "Isto je živo i mrtvo, budno i spavajuće, mlado i staro. Jer ovo prelazeći postaje ono, i ono opet prelazeći postaje ovo.",
+    "stsl": "Тожде єсть живо и мрьтво · бъдѧште и спѧште · младо и старо · Си бо прѣвративъша сѧ она сѫть · она же пакꙑ прѣвративъша сѧ си ·",
+    "sr": "Isto je živo i mrtvo, budno i spavajuće, mlado i staro. Ovo se preobrnuvši postaje ono, a ono opet, preobrnuvši se, ovo.",
     "originalText": "ταὐτό τ᾽ ἔνι ζῶν καὶ τεθνηκὸς καὶ τὸ ἐγρηγορὸς καὶ τὸ καθεῦδον καὶ νέον καὶ γηραιόν· τάδε γὰρ μεταπεσόντα ἐκεῖνά ἐστι κἀκεῖνα πάλιν μεταπεσόντα ταῦτα.",
     "author": "Heraclitus",
     "sources": [
@@ -1189,6 +1217,1000 @@
       {
         "name": "hermann-diels",
         "reference": "B.93"
+      }
+    ]
+  },
+  {
+    "id": "mm-002083",
+    "type": "quote",
+    "stsl": "Не въсѹє о величаишиихъ съмꙑшлѧимъ ·",
+    "sr": "Ne nagađajmo nasumice o najvećim stvarima.",
+    "originalText": "μὴ εἰκῆ περὶ τῶν μεγίστων συμβαλλώμεθα.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.47"
+      }
+    ]
+  },
+  {
+    "id": "mm-002084",
+    "type": "quote",
+    "stsl": "Лѫкѹ имѧ житіє · дѣло же смрьть ·",
+    "sr": "Luku je ime život, a delo smrt.",
+    "originalText": "τῷ οὖν τόξῳ ὄνομα βίος, ἔργον δὲ θάνατος.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.48"
+      }
+    ]
+  },
+  {
+    "id": "mm-002085",
+    "type": "quote",
+    "stsl": "Єдинъ мънѣ тьмꙑ · аще лѹчьши єсть ·",
+    "sr": "Jedan mi je deset hiljada, ako je najbolji.",
+    "originalText": "εἷς ἐμοὶ μύριοι, ἐὰν ἄριστος ᾖ.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.49"
+      }
+    ]
+  },
+  {
+    "id": "mm-002086",
+    "type": "quote",
+    "stsl": "Не разѹмѣѭть · како разьнѧштеє сѧ себѣ съсловить сѧ · възвратенъ складъ ꙗкоже лѫка и гѫсли ·",
+    "sr": "Ne razumeju kako se ono što se razilazi sa sobom suslovi: povratni sklad kao u luka i lire.",
+    "originalText": "οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ ὁμολογέει· παλίντροπος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.51"
+      }
+    ]
+  },
+  {
+    "id": "mm-002087",
+    "type": "quote",
+    "stsl": "Вѣкъ єсть отрочѧ играѭште · камени прѣкладаѭште · отрочѧте цѣсарьствиє ·",
+    "sr": "Vek je dete koje se igra, kamenčiće premeće: detetovo je carstvo.",
+    "originalText": "αἰὼν παῖς ἐστι παίζων, πεττεύων· παιδὸς ἡ βασιληίη.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.52"
+      }
+    ]
+  },
+  {
+    "id": "mm-002088",
+    "type": "quote",
+    "stsl": "Рать вьсѣмъ отьць · вьсѣмъ цѣсарь · овꙑ богꙑ ꙗви · овꙑ чловѣкꙑ · овꙑ рабꙑ сътвори · овꙑ свободьнꙑ ·",
+    "sr": "Rat je svima otac, svima car: jedne pokaza kao bogove, druge kao ljude; jedne učini robovima, druge slobodnima.",
+    "originalText": "πόλεμος πάντων μὲν πατήρ ἐστι, πάντων δὲ βασιλεύς, καὶ τοὺς μὲν θεοὺς ἔδειξε τοὺς δὲ ἀνθρώπους, τοὺς μὲν δούλους ἐποίησε τοὺς δὲ ἐλευθέρους.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.53"
+      }
+    ]
+  },
+  {
+    "id": "mm-002089",
+    "type": "quote",
+    "stsl": "Єлика зрѣти · слꙑшати · наѹчити сѧ · си аꙁъ изволѧѭ ·",
+    "sr": "Što se može videti, čuti, naučiti — tome dajem prednost.",
+    "originalText": "ὅσων ὄψις ἀκοὴ μάθησις, ταῦτα ἐγὼ προτιμέω.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.55"
+      }
+    ]
+  },
+  {
+    "id": "mm-002090",
+    "type": "quote",
+    "stsl": "Чловѣци въ познаніи ꙗвьнꙑихъ прѣльштени сѫть · подобьно Омерѹ · иже бѣ вьсѣхъ Єллинъ мѫдрѣи · Отроци бо вьши биѭште прѣльстиша и · рекъше · єлика видѣхомъ и ꙗхомъ · си оставлѧємъ · єлика же ни видѣхомъ ни ꙗхомъ · си носимъ ·",
+    "sr": "Ljudi su u poznanju vidljivog prevareni, kao Homer, najmudriji od svih Helena. Njega prevariše dečaci koji su ubijali vaši, rekavši: što videsmo i uhvatismo, to ostavljamo; što ne videsmo niti uhvatismo, to nosimo.",
+    "originalText": "ἐξηπάτηνται οἱ ἄνθρωποι πρὸς τὴν γνῶσιν τῶν φανερῶν παραπλησίως Ὁμήρῳ, ὃς ἐγένετο τῶν Ἑλλήνων σοφώτερος πάντων. ἐκεῖνόν τε γὰρ παῖδες φθεῖρας κατακτείνοντες ἐξηπάτησαν εἰπόντες· ὅσα εἴδομεν καὶ ἐλάβομεν, ταῦτα ἀπολείπομεν, ὅσα δὲ οὔτε εἴδομεν οὔτ᾽ ἐλάβομεν, ταῦτα φέρομεν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.56"
+      }
+    ]
+  },
+  {
+    "id": "mm-002091",
+    "type": "quote",
+    "stsl": "Многꙑимъ ѹчитель Єсіодъ · Сего вѣдѧть много вѣдѣти · иже дьне и ношти не позна · єдно бо єсть ·",
+    "sr": "Mnogima je učitelj Hesiod. Za njega misle da zna najviše, a nije poznao dan i noć: jedno su.",
+    "originalText": "διδάσκαλος δὲ πλείστων Ἡσίοδος· τοῦτον ἐπίστανται πλεῖστα εἰδέναι, ὅστις ἡμέρην καὶ εὐφρόνην οὐκ ἐγίνωσκεν· ἔστι γὰρ ἕν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.57"
+      }
+    ]
+  },
+  {
+    "id": "mm-002092",
+    "type": "quote",
+    "stsl": "Въ валѧльници пѫть правъ и кривъ · єдинъ єсть и тъжде ·",
+    "sr": "U valjaonici je put prav i kriv: jedan je i isti.",
+    "originalText": "γναφείῳ ὁδὸς εὐθεῖα καὶ σκολιή· μία ἐστὶ καὶ ἡ αὐτή.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.59"
+      }
+    ]
+  },
+  {
+    "id": "mm-002093",
+    "type": "quote",
+    "stsl": "Пѫть горѣ долѣ · єдинъ и тъжде ·",
+    "sr": "Put nagore i nadole jedan je i isti.",
+    "originalText": "ὁδὸς ἄνω κάτω μία καὶ ὡυτή.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.60"
+      }
+    ]
+  },
+  {
+    "id": "mm-002094",
+    "type": "quote",
+    "stsl": "Морьска вода чистѣиша и скврьнѣиша · рꙑбамъ пивьна и животьна · чловѣкомъ же непивьна и пагѹбьна ·",
+    "sr": "Morska voda je najčistija i najprljavija: ribama pitka i životvorna, ljudima nepitka i smrtonosna.",
+    "originalText": "θάλασσα ὕδωρ καθαρώτατον καὶ μιαρώτατον, ἰχθύσι μὲν πότιμον καὶ σωτήριον, ἀνθρώποις δὲ ἄποτον καὶ ὀλέθριον.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.61"
+      }
+    ]
+  },
+  {
+    "id": "mm-002095",
+    "type": "quote",
+    "stsl": "Бесмрьтьни смрьтьни · смрьтьни бесмрьтьни · живѫште ониихъ смрьть · ониихъ же житіє ѹмрьвъше ·",
+    "sr": "Besmrtni su smrtni, smrtni besmrtni: žive smrt onih, a njihov život umiru.",
+    "originalText": "ἀθάνατοι θνητοί, θνητοὶ ἀθάνατοι, ζῶντες τὸν ἐκείνων θάνατον, τὸν δὲ ἐκείνων βίον τεθνεῶτες.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.62"
+      }
+    ]
+  },
+  {
+    "id": "mm-002096",
+    "type": "quote",
+    "stsl": "Вьсѧ мълниꙗ кормить ·",
+    "sr": "Svime upravlja munja.",
+    "originalText": "τὰ δὲ πάντα οἰακίζει κεραυνός.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.64"
+      }
+    ]
+  },
+  {
+    "id": "mm-002097",
+    "type": "quote",
+    "stsl": "Недостатъкъ и сꙑтость ·",
+    "sr": "Oskudica i sitost.",
+    "originalText": "χρησμοσύνην καὶ κόρον.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.65"
+      }
+    ]
+  },
+  {
+    "id": "mm-002098",
+    "type": "quote",
+    "stsl": "Огнь бо пришъдъ вьсѧ сѫдить и постигнеть ·",
+    "sr": "Oganj će, došavši, svemu suditi i sve sustići.",
+    "originalText": "πάντα γὰρ τὸ πῦρ ἐπελθὸν κρινεῖ καὶ καταλήψεται.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.66"
+      }
+    ]
+  },
+  {
+    "id": "mm-002099",
+    "type": "quote",
+    "stsl": "Богъ дьнь ношть · зима лѣто · рать миръ · сꙑтость гладъ · Прѣмѣнѧєть же сѧ ꙗкоже огнь · єгда съ кадивꙑ съмѣсить сѧ · нарицаєть сѧ по воли коєгождо ·",
+    "sr": "Bog je dan i noć, zima i leto, rat i mir, sitost i glad. Menja se kao oganj: kada se pomeša s kadovima, naziva se po volji svakoga.",
+    "originalText": "ὁ θεὸς ἡμέρη εὐφρόνη, χειμὼν θέρος, πόλεμος εἰρήνη, κόρος λιμός· ἀλλοιοῦται δὲ ὅκωσπερ πῦρ, ὁπόταν συμμιγῇ θυώμασιν, ὀνομάζεται καθ᾽ ἡδονὴν ἑκάστου.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.67"
+      }
+    ]
+  },
+  {
+    "id": "mm-002100",
+    "type": "quote",
+    "stsl": "Бъдѧштиимъ єдинъ и обьштъ миръ · спѧштиимъ же къждо въ свои отъвраштяєть сѧ ·",
+    "sr": "Budnima je svet jedan i opšti; od spavajućih se svako okreće u svoj.",
+    "originalText": "τοῖς ἐγρηγορόσιν ἕνα καὶ κοινὸν κόσμον εἶναι, τῶν δὲ κοιμωμένων ἕκαστον εἰς ἴδιον ἀποστρέφεσθαι.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.89"
+      }
+    ]
+  },
+  {
+    "id": "mm-002101",
+    "type": "quote",
+    "stsl": "Огнѭ вьсѧ размѣна · и огнь вьсѣмъ · ꙗкоже златѹ товаръ и товарѹ злато ·",
+    "sr": "Sve se razmenjuje za oganj i oganj za sve, kao roba za zlato i zlato za robu.",
+    "originalText": "πυρός τε ἀνταμοιβὴ τὰ πάντα καὶ πῦρ ἁπάντων, ὅκωσπερ χρυσοῦ χρήματα καὶ χρημάτων χρυσός.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.90"
+      }
+    ]
+  },
+  {
+    "id": "mm-002102",
+    "type": "quote",
+    "stsl": "Сивилла бѣсьнѹѭштиими ѹстꙑ несмѣшьна и неѹкрашьна и неблагоѹханьна вѣштаѭшти · тꙑсѧшта лѣтъ гласомъ достигаєть · бога ради ·",
+    "sr": "Sibila pomamnim ustima kazuje nesmešno, neukrašeno i nemirisno, a glasom doseže hiljadu godina — zbog boga.",
+    "originalText": "Σίβυλλα μαινομένῳ στόματι ἀγέλαστα καὶ ἀκαλλώπιστα καὶ ἀμύριστα φθεγγομένη χιλίων ἐτῶν ἐξικνεῖται τῇ φωνῇ διὰ τὸν θεόν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.92"
+      }
+    ]
+  },
+  {
+    "id": "mm-002103",
+    "type": "quote",
+    "stsl": "Слъньце мѣръ не прѣстѫпить · аще ли прѣстѫпить · Єриниѩ · Правьдꙑ помощьницꙑ · обрѧштѫть и ·",
+    "sr": "Sunce neće prestupiti mere; ako ih prestupi, Erinije, pomoćnice Pravde, naći će ga.",
+    "originalText": "ἥλιος γὰρ οὐχ ὑπερβήσεται μέτρα· εἰ δὲ μή, Ἐρινύες μιν Δίκης ἐπίκουροι ἐξευρήσουσιν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.94"
+      }
+    ]
+  },
+  {
+    "id": "mm-002104",
+    "type": "quote",
+    "stsl": "Неѹчениє лѹчьши таити · трѹдьно же въ покои и при винѣ ·",
+    "sr": "Neznanje je bolje kriti, ali teško u opuštenosti i uz vino.",
+    "originalText": "ἀμαθίην γὰρ ἄμεινον κρύπτειν, ἔργον δὲ ἐν ἀνέσει καὶ παρ᾽ οἶνον.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.95"
+      }
+    ]
+  },
+  {
+    "id": "mm-002105",
+    "type": "quote",
+    "stsl": "Мрьтвьци паче гноꙗ изметьни ·",
+    "sr": "Mrtvace treba izbacivati više nego đubre.",
+    "originalText": "νέκυες γὰρ κοπρίων ἐκβλητότεροι.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.96"
+      }
+    ]
+  },
+  {
+    "id": "mm-002106",
+    "type": "quote",
+    "stsl": "Пьси и на того лаѭть · єгоже не знаѭть ·",
+    "sr": "Psi laju i na onoga koga ne poznaju.",
+    "originalText": "κύνες γὰρ καὶ βαΰζουσιν ὃν ἂν μὴ γινώσκωσι.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.97"
+      }
+    ]
+  },
+  {
+    "id": "mm-002107",
+    "type": "quote",
+    "stsl": "Дѹшѧ въ адѣ обонѧѭть ·",
+    "sr": "Duše njuše u Hadu.",
+    "originalText": "αἱ ψυχαὶ ὀσμῶνται καθ᾽ Ἅιδην.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.98"
+      }
+    ]
+  },
+  {
+    "id": "mm-002108",
+    "type": "quote",
+    "stsl": "Аще слъньца не би · инаꙗ свѣтила сѫшта · ношть би бꙑла ·",
+    "sr": "Da nema Sunca, i pored drugih zvezda bila bi noć.",
+    "originalText": "εἰ μὴ ἥλιος ἦν, ἕνεκα τῶν ἄλλων ἄστρων εὐφρόνη ἂν ἦν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.99"
+      }
+    ]
+  },
+  {
+    "id": "mm-002109",
+    "type": "quote",
+    "stsl": "Себе испꙑтахъ ·",
+    "sr": "Istražio sam sebe.",
+    "originalText": "ἐδιζησάμην ἐμεωυτόν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.101"
+      }
+    ]
+  },
+  {
+    "id": "mm-002110",
+    "type": "quote",
+    "stsl": "Богѹ вьсѧ красна и добра и правьдьна · чловѣци же ина неправьдьна мьнѣша · ина правьдьна ·",
+    "sr": "Bogu je sve lepo, dobro i pravedno; ljudi su jedno uzeli za nepravedno, drugo za pravedno.",
+    "originalText": "τῷ μὲν θεῷ καλὰ πάντα καὶ ἀγαθὰ καὶ δίκαια, ἄνθρωποι δὲ ἃ μὲν ἄδικα ὑπειλήφασιν ἃ δὲ δίκαια.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.102"
+      }
+    ]
+  },
+  {
+    "id": "mm-002111",
+    "type": "quote",
+    "stsl": "Обьште начѧло и коньць въ крѫга окрѫжии ·",
+    "sr": "Na kružnici su početak i kraj zajednički.",
+    "originalText": "ξυνὸν γὰρ ἀρχὴ καὶ πέρας ἐπὶ κύκλου περιφερείας.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.103"
+      }
+    ]
+  },
+  {
+    "id": "mm-002112",
+    "type": "quote",
+    "stsl": "Кꙑи бо ихъ ѹмъ или разѹмъ · Народьнꙑихъ пѣвьць послоушаѭть и наставьника народъ имаѭть · не вѣдѫште · ꙗко мнози зъли · мало же добрꙑихъ ·",
+    "sr": "Kakav je njihov um ili razum? Slušaju narodne pevače i za učitelja imaju mnoštvo, ne znajući da su mnogi rđavi, a malobrojni dobri.",
+    "originalText": "τίς γὰρ αὐτῶν νόος ἢ φρήν; δήμων ἀοιδοῖσι πείθονται καὶ διδασκάλῳ χρείωνται ὁμίλῳ οὐκ εἰδότες ὅτι οἱ πολλοὶ κακοί, ὀλίγοι δὲ ἀγαθοί.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.104"
+      }
+    ]
+  },
+  {
+    "id": "mm-002113",
+    "type": "quote",
+    "stsl": "Зъли съвѣдѣтелє чловѣкомъ очи и ѹши · варварьскꙑ дѹшѧ имѫштиимъ ·",
+    "sr": "Oči i uši rđavi su svedoci ljudima koji imaju varvarske duše.",
+    "originalText": "κακοὶ μάρτυρες ἀνθρώποισιν ὀφθαλμοὶ καὶ ὦτα βαρβάρους ψυχὰς ἐχόντων.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.107"
+      }
+    ]
+  },
+  {
+    "id": "mm-002114",
+    "type": "quote",
+    "stsl": "Єлицѣхъ словеса слꙑшахъ · никтоже сего достиже · познати · ꙗко мѫдро отъ вьсѣхъ отъстоить ·",
+    "sr": "Od svih čije sam reči čuo, niko nije dosegao da spozna kako je mudro od svega odvojeno.",
+    "originalText": "ὁκόσων λόγους ἤκουσα, οὐδεὶς ἀφικνεῖται ἐς τοῦτο, ὥστε γινώσκειν ὅτι σοφόν ἐστι πάντων κεχωρισμένον.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.108"
+      }
+    ]
+  },
+  {
+    "id": "mm-002115",
+    "type": "quote",
+    "stsl": "Неѹчениє лѹчьши таити · нежели на срѣдѫ износити ·",
+    "sr": "Neznanje je bolje kriti nego iznositi pred sve.",
+    "originalText": "κρύπτειν ἀμαθίην κρέσσον ἢ ἐς τὸ μέσον φέρειν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.109"
+      }
+    ]
+  },
+  {
+    "id": "mm-002116",
+    "type": "quote",
+    "stsl": "Чловѣкомъ бꙑвати єлика хотѧть · не лѹчьши ·",
+    "sr": "Za ljude nije bolje da im bude sve što žele.",
+    "originalText": "ἀνθρώποις γίνεσθαι ὁκόσα θέλουσιν οὐκ ἄμεινον.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.110"
+      }
+    ]
+  },
+  {
+    "id": "mm-002117",
+    "type": "quote",
+    "stsl": "Болѣзнь здравиє сладъко творить · зло добро · гладъ сꙑтость · трѹдъ покои ·",
+    "sr": "Bolest čini zdravlje slatkim, zlo dobro, glad sitost, trud počinak.",
+    "originalText": "νοῦσος ὑγιείην ἐποίησεν ἡδύ, κακὸν ἀγαθόν, λιμὸς κόρον, κάματος ἀνάπαυσιν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.111"
+      }
+    ]
+  },
+  {
+    "id": "mm-002118",
+    "type": "quote",
+    "stsl": "Разбирати добродѣтель величаиша · мѫдрость же истинѫ глаголати и по природѣ творити · послоушаѭште ·",
+    "sr": "Razbiranje je najveća vrlina; mudrost je govoriti istinu i delati po prirodi, slušajući je.",
+    "originalText": "τὸ φρονεῖν ἀρετὴ μεγίστη, καὶ σοφίη ἀληθέα λέγειν καὶ ποιεῖν κατὰ φύσιν ἐπαΐοντας.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.112"
+      }
+    ]
+  },
+  {
+    "id": "mm-002119",
+    "type": "quote",
+    "stsl": "Вьсѣмъ обьште разбирати ·",
+    "sr": "Svima je zajedničko razbirati.",
+    "originalText": "ξυνόν ἐστι πᾶσι τὸ φρονέειν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.113"
+      }
+    ]
+  },
+  {
+    "id": "mm-002120",
+    "type": "quote",
+    "stsl": "Съ ѹмомъ глаголѭштиимъ подобаєть крѣпити сѧ обьштиимъ вьсѣхъ · ꙗкоже градъ закономъ · и много крѣплє · Вьси бо чловѣчьстии закони отъ єдиного божьскаго питаѭть сѧ · владаєть бо єлико хоштеть · вьсѣмъ довьлѣєть и вьсѧ прѣвъзходитъ ·",
+    "sr": "Ko govori s umom treba da se krepi onim što je svima zajedničko, kao grad zakonom — i mnogo snažnije. Svi ljudski zakoni hrane se jednim božanskim: vlada koliko hoće, svima je dovoljan i sve nadilazi.",
+    "originalText": "ξὺν νόῳ λέγοντας ἰσχυρίζεσθαι χρὴ τῷ ξυνῷ πάντων, ὅκωσπερ νόμῳ πόλις, καὶ πολὺ ἰσχυροτέρως. τρέφονται γὰρ πάντες οἱ ἀνθρώπειοι νόμοι ὑπὸ ἑνὸς τοῦ θείου· κρατεῖ γὰρ τοσοῦτον ὁκόσον ἐθέλει καὶ ἐξαρκεῖ πᾶσι καὶ περιγίνεται.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.114"
+      }
+    ]
+  },
+  {
+    "id": "mm-002121",
+    "type": "quote",
+    "stsl": "Дѹши єсть слово само себе растѧште ·",
+    "sr": "Duši pripada slovo koje samo sebe uvećava.",
+    "originalText": "ψυχῆς ἐστι λόγος ἑαυτὸν αὔξων.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.115"
+      }
+    ]
+  },
+  {
+    "id": "mm-002122",
+    "type": "quote",
+    "stsl": "Вьсѣмъ чловѣкомъ дано познати себе и разбирати ·",
+    "sr": "Svim ljudima dato je da poznaju sebe i razbiraju.",
+    "originalText": "ἀνθρώποισι πᾶσι μέτεστι γινώσκειν ἑωυτοὺς καὶ φρονεῖν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.116"
+      }
+    ]
+  },
+  {
+    "id": "mm-002123",
+    "type": "quote",
+    "stsl": "Мѫжъ єгда ѹпиєть сѧ · невъзрастьнꙑимъ отрокомъ водимъ бꙑваєть · претꙑкаѩ сѧ · не разѹмѣѩ камо грѧдеть · мокрѫ дѹшѫ имꙑ ·",
+    "sr": "Kada se čovek opije, vodi ga nedorastao dečak; posrće, ne razabirući kuda ide, jer mu je duša mokra.",
+    "originalText": "ἀνὴρ ὁκόταν μεθυσθῇ, ἄγεται ὑπὸ παιδὸς ἀνήβου σφαλλόμενος, οὐκ ἐπαΐων ὅκῃ βαίνει, ὑγρὴν τὴν ψυχὴν ἔχων.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.117"
+      }
+    ]
+  },
+  {
+    "id": "mm-002124",
+    "type": "quote",
+    "stsl": "Сѹха дѹша мѫдрѣиша и лѹчьша ·",
+    "sr": "Suva duša je najmudrija i najbolja.",
+    "originalText": "αὔη ψυχὴ σοφωτάτη καὶ ἀρίστη.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.118"
+      }
+    ]
+  },
+  {
+    "id": "mm-002125",
+    "type": "quote",
+    "stsl": "Нравъ чловѣкѹ божьство ·",
+    "sr": "Narav je čoveku božanstvo.",
+    "originalText": "ἦθος ἀνθρώπῳ δαίμων.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.119"
+      }
+    ]
+  },
+  {
+    "id": "mm-002126",
+    "type": "quote",
+    "stsl": "Природа таити сѧ любитъ ·",
+    "sr": "Priroda voli da se skriva.",
+    "originalText": "φύσις κρύπτεσθαι φιλεῖ.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.123"
+      }
+    ]
+  },
+  {
+    "id": "mm-002127",
+    "type": "quote",
+    "stsl": "Ꙗкоже сметьє въсѹє расꙑпано · краснѣиши строи ·",
+    "sr": "Kao nasumice rasuta gomila smeća — najlepši ustroj.",
+    "originalText": "ὥσπερ σάρμα εἰκῇ κεχυμένων ὁ κάλλιστος κόσμος.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.124"
+      }
+    ]
+  },
+  {
+    "id": "mm-002128",
+    "type": "quote",
+    "stsl": "И кѵкеѡнъ разстѫпаєть сѧ · не движимъ ·",
+    "sr": "I kikeon se razdvaja ako se ne meša.",
+    "originalText": "καὶ ὁ κυκεὼν διίσταται μὴ κινούμενος.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.125"
+      }
+    ]
+  },
+  {
+    "id": "mm-002129",
+    "type": "quote",
+    "stsl": "Стѹденаꙗ грѣѭть сѧ · горѧштеє стѹденѣєть · мокроє сѹшить сѧ · сѹхоє мокнеть ·",
+    "sr": "Hladno se greje, vruće hladi, mokro suši, suvo vlaži.",
+    "originalText": "τὰ ψυχρὰ θέρεται, θερμὸν ψύχεται, ὑγρὸν αὐαίνεται, καρφαλέον νοτίζεται.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.126"
+      }
+    ]
+  },
+  {
+    "id": "mm-002130",
+    "type": "reported",
+    "stsl": "Чловѣчьска мьнѣніꙗ отрочьска игралища мьнѣаше ·",
+    "sr": "Ljudska mnenja smatrao je dečjim igračkama.",
+    "originalText": "παίδων ἀθύρματα νενόμικεν εἶναι τὰ ἀνθρώπινα δοξάσματα.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.70"
+      }
+    ]
+  },
+  {
+    "id": "mm-002131",
+    "type": "quote",
+    "stsl": "Помьнѣти подобаєть и забꙑваѭштаго · камо пѫть ведеть ·",
+    "sr": "Treba se setiti i onoga koji zaboravlja kuda put vodi.",
+    "originalText": "μεμνῆσθαι δὲ καὶ τοῦ ἐπιλανθανομένου ᾗ ἡ ὁδὸς ἄγει.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.71"
+      }
+    ]
+  },
+  {
+    "id": "mm-002132",
+    "type": "quote",
+    "stsl": "Съ словомъ · ємѹже непрѣстаньно приобщаѭть сѧ · вьсѣмъ правѧштиимъ · съ нимь разьнѧть сѧ · и ꙗже на вьсѧкъ дьнь срѣтаѭть · си имъ страньна ꙗвлѧѭть сѧ ·",
+    "sr": "Sa slovom, s kojim su neprestano u zajednici i koje svime upravlja, razilaze se; ono što svakodnevno susreću čini im se tuđe.",
+    "originalText": "ᾧ μάλιστα διηνεκῶς ὁμιλοῦσι λόγῳ τῷ τὰ ὅλα διοικοῦντι, τούτῳ διαφέρονται, καὶ οἷς καθ᾽ ἡμέραν ἐγκυροῦσι, ταῦτα αὐτοῖς ξένα φαίνεται.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.72"
+      }
+    ]
+  },
+  {
+    "id": "mm-002133",
+    "type": "quote",
+    "stsl": "Не подобаєть ꙗкоже спѧште творити и глаголати · и бо тогда мьнимъ творити и глаголати ·",
+    "sr": "Ne treba delati i govoriti kao spavači; jer i tada mislimo da delamo i govorimo.",
+    "originalText": "οὐ δεῖ ὥσπερ καθεύδοντας ποιεῖν καὶ λέγειν· καὶ γὰρ καὶ τότε δοκοῦμεν ποιεῖν καὶ λέγειν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.73"
+      }
+    ]
+  },
+  {
+    "id": "mm-002134",
+    "type": "quote",
+    "stsl": "Не подобаєть творити ꙗкоже отроци родителєи · сирѣчь просто · ꙗкоже прѣꙗхомъ ·",
+    "sr": "Ne treba delati kao deca svojih roditelja, to jest naprosto: kako smo primili.",
+    "originalText": "οὐ δεῖ ὡς παῖδας τοκέων, τοῦτ᾽ ἔστι κατὰ ψιλόν· καθότι παρειλήφαμεν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.74"
+      }
+    ]
+  },
+  {
+    "id": "mm-002135",
+    "type": "reported",
+    "stsl": "Спѧштаѧ дѣлателє и съдѣлателє въ мирѣ бꙑваѭштиимъ нарицаєть ·",
+    "sr": "Spavače naziva delatnicima i saradnicima onoga što biva u svetu.",
+    "originalText": "τοὺς καθεύδοντας ἐργάτας εἶναι λέγει καὶ συνεργοὺς τῶν ἐν τῷ κόσμῳ γινομένων.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.75"
+      }
+    ]
+  },
+  {
+    "id": "mm-002136",
+    "type": "quote",
+    "stsl": "Огнь живеть въздѹха смрьть · въздѹхъ живеть огнѧ смрьть · вода живеть землѧ смрьть · землѧ водꙑ ·",
+    "sr": "Oganj živi smrt vazduha, vazduh smrt ognja; voda živi smrt zemlje, zemlja smrt vode.",
+    "originalText": "ζῇ πῦρ τὸν ἀέρος θάνατον καὶ ἀὴρ ζῇ τὸν πυρὸς θάνατον, ὕδωρ ζῇ τὸν γῆς θάνατον, γῆ τὸν ὕδατος.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.76"
+      }
+    ]
+  },
+  {
+    "id": "mm-002137",
+    "type": "quote",
+    "stsl": "Дѹшамъ сласть или смрьть мокрꙑимъ бꙑти ·",
+    "sr": "Dušama je slast ili smrt da postanu mokre.",
+    "originalText": "ψυχῇσι τέρψιν ἢ θάνατον ὑγρῇσι γενέσθαι.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.77"
+      }
+    ]
+  },
+  {
+    "id": "mm-002138",
+    "type": "quote",
+    "stsl": "Нравъ чловѣчьскъ знамени не имать · божьскъ же имать ·",
+    "sr": "Ljudska narav nema znamenja, božanska ga ima.",
+    "originalText": "ἦθος γὰρ ἀνθρώπειον μὲν οὐκ ἔχει γνώμας, θεῖον δὲ ἔχει.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.78"
+      }
+    ]
+  },
+  {
+    "id": "mm-002139",
+    "type": "quote",
+    "stsl": "Мѫжъ предъ божьствомъ отрокомъ зоветь сѧ · ꙗкоже отрочѧ предъ мѫжемъ ·",
+    "sr": "Čovek se pred božanstvom naziva detetom, kao dete pred čovekom.",
+    "originalText": "ἀνὴρ νήπιος ἤκουσε πρὸς δαίμονος ὅκωσπερ παῖς πρὸς ἀνδρός.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.79"
+      }
+    ]
+  },
+  {
+    "id": "mm-002140",
+    "type": "quote",
+    "stsl": "Краснѣиша обезꙗна мрьзъка · съ родомъ чловѣчьскꙑимъ съложена ·",
+    "sr": "Najlepši majmun ružan je prema ljudskom rodu.",
+    "originalText": "πιθήκων ὁ κάλλιστος αἰσχρὸς ἀνθρώπων γένει συμβάλλειν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.82"
+      }
+    ]
+  },
+  {
+    "id": "mm-002141",
+    "type": "quote",
+    "stsl": "Мѫдрѣиши чловѣкъ предъ богомъ обезꙗна ꙗвить сѧ · и мѫдростьѭ и красотоѭ и вьсѣмъ инѣмъ ·",
+    "sr": "Najmudriji čovek prema bogu izgleda kao majmun — i mudrošću, i lepotom, i svim ostalim.",
+    "originalText": "ἀνθρώπων ὁ σοφώτατος πρὸς θεὸν πίθηκος φανεῖται καὶ σοφίᾳ καὶ κάλλει καὶ τοῖς ἄλλοις πᾶσιν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.83"
+      }
+    ]
+  },
+  {
+    "id": "mm-002142",
+    "type": "quote",
+    "stsl": "Прѣмѣнѧѩ сѧ почиваєть · Трѹдъ єсть тѣмьжде слѹжити и повинѹти сѧ ·",
+    "sr": "Menjajući se, počiva. Trud je istima služiti i pokoravati se.",
+    "originalText": "μεταβάλλον ἀναπαύεται· κάματός ἐστι τοῖς αὐτοῖς μοχθεῖν καὶ ἄρχεσθαι.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.84"
+      }
+    ]
+  },
+  {
+    "id": "mm-002143",
+    "type": "quote",
+    "stsl": "Съ гнѣвомъ борити сѧ трѹдьно · єликоже бо хоштеть · дѹшеѭ кѹпѹєть ·",
+    "sr": "Teško je boriti se s gnevom: što god hoće, kupuje dušom.",
+    "originalText": "θυμῷ μάχεσθαι χαλεπόν· ὅ τι γὰρ ἂν θέλῃ, ψυχῆς ὠνεῖται.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.85"
+      }
+    ]
+  },
+  {
+    "id": "mm-002144",
+    "type": "reported",
+    "stsl": "Божьскаꙗ многаѩ невѣриꙗ ради ѹбѣгаѭть познаніꙗ ·",
+    "sr": "Mnogo božanskoga izmiče poznanju zbog neverovanja.",
+    "originalText": "τῶν μὲν θείων τὰ πολλά, κατ᾽ Ἡράκλειτον, ἀπιστίῃ διαφυγγάνει μὴ γιγνώσκεσθαι.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.86"
+      }
+    ]
+  },
+  {
+    "id": "mm-002145",
+    "type": "quote",
+    "stsl": "Безѹмьнъ чловѣкъ при вьсѧцѣмь словѣ дивити сѧ любитъ ·",
+    "sr": "Bezuman čovek voli da se zaprepasti pred svakom rečju.",
+    "originalText": "βλὰξ ἄνθρωπος ἐπὶ παντὶ λόγῳ ἐπτοῆσθαι φιλεῖ.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.87"
+      }
+    ]
+  },
+  {
+    "id": "mm-002146",
+    "type": "reported",
+    "stsl": "Ѳалесъ пръвъ звездозаконникъ бꙑсть · о семь и Хераклитъ съвѣдѣтельствѹєть ·",
+    "sr": "Tales je bio prvi zvezdoznalac; to svedoči i Heraklit.",
+    "originalText": "δοκεῖ δὲ κατά τινας πρῶτος ἀστρολογῆσαι· μαρτυρεῖ δ᾽ αὐτὸ καὶ Ἡράκλειτος.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.38"
+      }
+    ]
+  },
+  {
+    "id": "mm-002147",
+    "type": "quote",
+    "stsl": "Въ Приинѣ Бїасъ Теѹтамовъ бꙑсть · єгоже слово болє иныхъ ·",
+    "sr": "U Prijeni beše Bijant, sin Teutamov, čije je slovo veće nego drugih.",
+    "originalText": "ἐν Πριήνῃ Βίας ἐγένετο ὁ Τευτάμεω, οὗ πλέων λόγος ἢ τῶν ἄλλων.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.39"
+      }
+    ]
+  },
+  {
+    "id": "mm-002148",
+    "type": "reported",
+    "stsl": "Слъньце коловратомъ приставникъ · прѣмѣнꙑ и врѣмена · ꙗже вьсѧ носѧть · размѣрѧєть и сѫдить и ꙗвлѧєть ·",
+    "sr": "Sunce je čuvar kruženja: određuje, razlučuje i objavljuje promene i doba koja sve donose.",
+    "originalText": "ὁ ἥλιος ἐπιστάτης ὢν καὶ σκοπὸς ὁρίζειν καὶ βραβεύειν καὶ ἀναδεικνύναι καὶ ἀναφαίνειν μεταβολὰς καὶ ὥρας αἳ πάντα φέρουσι.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.100"
+      }
+    ]
+  },
+  {
+    "id": "mm-002149",
+    "type": "reported",
+    "stsl": "Омира звездозаконника глагола ·",
+    "sr": "Homera je nazivao zvezdoznalcem.",
+    "originalText": "Ἡράκλειτος ἀστρολόγον φησὶ τὸν Ὅμηρον.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.105"
+      }
+    ]
+  },
+  {
+    "id": "mm-002150",
+    "type": "quote",
+    "stsl": "Зорѧ и вечера краи · Медвѣдица · и противъ Медвѣдицѣ межда ꙗснаго Діꙗ ·",
+    "sr": "Međe zore i večeri jesu Medvedica i, naspram Medvedice, međa vedroga Zevsa.",
+    "originalText": "ἠοῦς καὶ ἑσπέρας τέρματα ἡ ἄρκτος καὶ ἀντίον τῆς ἄρκτου οὖρος αἰθρίου Διός.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.120"
+      }
+    ]
+  },
+  {
+    "id": "mm-002151",
+    "type": "quote",
+    "stsl": "Приближениє ·",
+    "sr": "Približenje.",
+    "originalText": "ἀγχιβασίην.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.122"
+      }
+    ]
+  },
+  {
+    "id": "mm-002152",
+    "type": "quote",
+    "stsl": "Тамо сѫштемѹ възстанѫть · и бьдѧште стражє живꙑихъ и мрьтвꙑихъ бѫдѫть ·",
+    "sr": "Pred onim koji je tamo ustaće i budni postati čuvari živih i mrtvih.",
+    "originalText": "ἔνθα δ᾽ ἐόντι ἐπανίστασθαι καὶ φύλακας γίνεσθαι ἐγερτὶ ζώντων καὶ νεκρῶν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.63"
+      }
+    ]
+  },
+  {
+    "id": "mm-002153",
+    "type": "reported",
+    "stsl": "Сего ради Хераклитъ ѡна лѣкꙑ правьдьно нарече · ꙗко ѹжасꙑ ицѣлѧѭть и дѹшѧ отъ бѣдъ рождениꙗ избавлѧѭть ·",
+    "sr": "Zato ih je Heraklit s pravom nazvao lekovima: leče strahote i izbavljaju duše od nevolja rođenja.",
+    "originalText": "καὶ διὰ τοῦτο εἰκότως αὐτὰ ἄκεα Ἡράκλειτος προσεῖπεν, ὡς ἐξακεσόμενα τὰ δεινὰ καὶ τὰς ψυχὰς ἐξάντεις ἀπεργαζόμενα τῶν ἐν τῇ γενέσει συμφορῶν.",
+    "author": "Heraclitus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "B.68"
       }
     ]
   }
