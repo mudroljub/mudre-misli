@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title">
-  <title id="title">Nepoznat prikaz autora</title>
-  <rect width="600" height="600" fill="#e8e2d6"/>
-  <circle cx="300" cy="300" r="238" fill="#f4f0e8" stroke="#aaa08f" stroke-width="12"/>
-  <text
-    x="300"
-    y="405"
-    fill="#706757"
-    font-family="Georgia, 'Times New Roman', serif"
-    font-size="330"
-    text-anchor="middle"
-  >?</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img" viewBox="0 0 600 600"><title id="title">Nepoznat prikaz autora</title><rect width="600" height="600" fill="#e8e2d6"/><circle cx="300" cy="300" r="238" fill="#f4f0e8" stroke="#aaa08f" stroke-width="12"/><text x="300" y="405" fill="#706757" font-family="Georgia, 'Times New Roman', serif" font-size="330" text-anchor="middle">?</text></svg>
