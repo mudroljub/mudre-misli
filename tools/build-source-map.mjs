@@ -124,10 +124,8 @@ const sourceMap = [...totalBySource.entries()]
         .map((roman) => ({
           roman,
           number: romanToNumber[roman],
-          enFile: `data/sources/diogenes-laertius/en/book_${romanToNumber[roman]}.txt`,
-          elFile: `data/sources/diogenes-laertius/el/${String(
-            romanToNumber[roman] + 1
-          ).padStart(2, '0')}.txt`,
+          file: 'data/sources/diogenes-laertius/diogenes-laertius.xml',
+          ctsPassage: String(romanToNumber[roman]),
         })),
     };
   })

@@ -68,7 +68,7 @@ export default function TagPage({ params }: TagPageProps) {
         <div className={styles.grid}>
           {taggedEntries.map((entry) => (
             <QuoteCard
-              key={entry._id}
+              key={entry.id}
               entry={entry}
               language={lang}
               showAuthor={true}

@@ -1,0 +1,36 @@
+{
+  "source": "PerseusDL/canonical-greekLit",
+  "author": "Plutarch",
+  "language": "grc",
+  "format": "CTS/EpiDoc TEI XML",
+  "repository": "https://github.com/PerseusDL/canonical-greekLit",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "works": [
+    {
+      "title": "Septem sapientium convivium",
+      "originalTitle": "Τῶν ἑπτὰ σοφῶν συμπόσιον",
+      "edition": "Grēgorios N. Vernardakēs, Plutarchi Chaeronensis Moralia, volume 1, Teubner, 1888",
+      "ctsUrn": "urn:cts:greekLit:tlg0007.tlg079.perseus-grc2",
+      "citationDepth": [
+        "section"
+      ],
+      "file": "septem-sapientium-convivium.xml",
+      "downloadUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0007/tlg079/tlg0007.tlg079.perseus-grc2.xml",
+      "sha256": "911951A0C5981F7FC9BC80CFF8341E90A504BB01A8EB564C9CAF242BDDAFC559"
+    },
+    {
+      "title": "Adversus Colotem",
+      "originalTitle": "Πρὸς Κωλώτην",
+      "edition": "Grēgorios N. Vernardakēs, Plutarchi Chaeronensis Moralia, volume 6, Teubner, 1895",
+      "ctsUrn": "urn:cts:greekLit:tlg0007.tlg140.perseus-grc2",
+      "citationDepth": [
+        "section"
+      ],
+      "file": "adversus-colotem.xml",
+      "downloadUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0007/tlg140/tlg0007.tlg140.perseus-grc2.xml",
+      "sha256": "F168EB2FE5704AB31136AC57DC69A415CBEBE5B456BCE2CD641D22348E62849C"
+    }
+  ],
+  "notes": "Izvorni XML fajlovi sačuvani su bez lokalnih izmena. Reference prate odeljke Persejevih CTS izdanja."
+}

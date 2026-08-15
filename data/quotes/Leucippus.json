@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-001268",
     "type": "bio",
     "year": -480,
     "sr": "Leukip; po jednima iz Eleje, po drugima iz Abdere, a po nekima iz Mileta.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-001269",
     "type": "bio",
     "year": -470,
     "sr": "Slušao je Zenona.",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-001270",
     "type": "reported",
     "sr": "Prvi je postavio atome kao načela.",
     "stsl": "Пръвъ недѣлима тѣлеса начѧла положи ·",
@@ -41,6 +44,7 @@
     ]
   },
   {
+    "id": "mm-001271",
     "type": "bio",
     "year": -450,
     "sr": "Kasnije mu se pridružio Demokrit.",
@@ -55,6 +59,7 @@
     ]
   },
   {
+    "id": "mm-001272",
     "type": "quote",
     "sr": "Ništa ne nastaje uzalud, nego sve s razlogom i po nuždi.",
     "stsl": "Ничьтоже вътѹнѣ бываєть · нъ вьсѧ отъ слова и по нѫжди ·",
@@ -68,6 +73,7 @@
     ]
   },
   {
+    "id": "mm-001273",
     "type": "mention",
     "sr": "Aristotel kaže da Leukip i njegov drug Demokrit postavljaju puno i prazno kao prvine: puno kao biće, a prazno kao ne-biće.",
     "stsl": "Аристотель глаголєть · ꙗко Леѷкиппъ и дрѹгъ єго Демокритъ пълно и праздьно първинѣ полагаѭть · пълно ꙗко сѫщее · праздьно же ꙗко несѫщее ·",
@@ -84,6 +90,7 @@
     ]
   },
   {
+    "id": "mm-001274",
     "type": "mention",
     "sr": "Aristotel kaže da Leukip i Demokrit priznaju tri razlike: oblik, poredak i položaj.",
     "stsl": "Аристотель глаголєть · ꙗко Леѷкиппъ и Демокритъ три различіꙗ полагаѭть · образъ · чинъ · положеніє ·",
@@ -100,6 +107,7 @@
     ]
   },
   {
+    "id": "mm-001275",
     "type": "mention",
     "sr": "Aristotel kaže da Demokrit i Leukip sve ostalo sastavljaju od nedeljivih tela, beskrajnih po broju i oblicima, koja se međusobno razlikuju po onome od čega su, po položaju i poretku.",
     "stsl": "Аристотель глаголєть · ꙗко Демокритъ и Леѷкиппъ прочаꙗ отъ недѣлимыхъ тѣлесъ съставлѧѭть · числомъ и образы безмѣрьныхъ · различѧѭштихъ сѧ положеніємъ и чиномъ ·",
@@ -116,6 +124,7 @@
     "originalText": "Δημόκριτος δὲ καὶ Λεύκιππος ἐκ σωμάτων ἀδιαιρέτων τἆλλα συγκεῖσθαί φασι, ταῦτα δ᾿ ἄπειρα καὶ τὸ πλῆθος εἶναι καὶ τὰς μορφάς, αὐτὰ δὲ πρὸς αὑτὰ διαφέρειν τούτοις ἐξ ὧν εἰσι καὶ θέσει καὶ τάξει τούτων."
   },
   {
+    "id": "mm-001276",
     "type": "works",
     "sr": "Diogen među Demokritovim delima navodi Veliki ustroj, za koji Teofrastov krug kaže da je Leukipov.",
     "stsl": "Діогенъ въ Демокритовыхъ писаніихъ Великии строи поминаєть · єго же Ѳеофрастови Леѷкипповъ быти глаголѭть ·",
@@ -129,6 +138,7 @@
     ]
   },
   {
+    "id": "mm-001277",
     "type": "mention",
     "sr": "Aetije navodi da Leukip to kaže u delu O umu.",
     "stsl": "Аетіи глаголєть · ꙗко Леѷкиппъ се въ писаніи О ѹмѣ рече ·",
@@ -142,6 +152,7 @@
     "originalText": "λέγει γὰρ ἐν τῶι Περὶ νοῦ·"
   },
   {
+    "id": "mm-001278",
     "type": "reported",
     "sr": "Smatrao je da je svega beskrajno mnogo i da se sve menja jedno u drugo; celina je prazno i puno, a atome je prvi postavio kao načela.",
     "stsl": "Мьнѣаше · ꙗко вьсѣхъ безмѣрьно єсть · и вьсѧ єдина въ дрѹга прѣмѣнѧѭть сѧ · вьсецѣлоє же праздьно и пълно єсть · недѣлима же тѣлеса пръвъ начѧла положи ·",
@@ -155,6 +166,7 @@
     ]
   },
   {
+    "id": "mm-001279",
     "type": "reported",
     "sr": "Puno i prazno nazivao je prvinama; iz njih nastaje beskrajno mnogo svetova i u njih se ponovo razlažu.",
     "stsl": "Пълно и праздьно първинѣ нарицааше · отъ нихъ же безмѣрьни міри бываѭть и въ нѧ пакꙑ разлагаѭть сѧ ·",
@@ -168,6 +180,7 @@
     ]
   },
   {
+    "id": "mm-001280",
     "type": "reported",
     "sr": "Mnoštvo tela svakojakih oblika odvaja se iz beskrajnog i kreće u veliku prazninu. Sabirajući se, stvaraju jedan vrtlog; u njemu se sudaraju, kruže na sve načine i razdvajaju, slično ka sličnom. Ona finija odlaze u spoljašnju prazninu, dok ostala ostaju zajedno, prepliću se i obrazuju prvi kuglasti sklop.",
     "stsl": "Многа тѣлеса всѧкоꙗкихъ образовъ отъ безмѣрьнаго отъдѣлѧѭть сѧ и въ велико праздьно движѫть сѧ · събравъша же сѧ єдинъ вихрь творѧть · въ немь съразѧѭть сѧ и всѧко крѹжѧть · и разлѫчаѭть сѧ · подобьна къ подобьнымъ · тоньчаиша въ внѣшьнєє праздьно исходѧть · прочаꙗ же състоѩть и съплѣтаѭшта сѧ пръвъ крѹглообразнъ съставъ творѧть ·",
@@ -181,6 +194,7 @@
     ]
   },
   {
+    "id": "mm-001281",
     "type": "reported",
     "sr": "Od tog sklopa odvaja se kao neka opna koja u sebi obuhvata tela svakojakih vrsta. Tela nošena ka sredini ostaju zajedno i tako nastaje Zemlja. Spoljašnja opna raste primajući tela spolja; neka od njih, isprva vlažna i blatnjava, prepliću se u sklop, zatim se suše, kruže s vrtlogom celine i naposletku se pale, obrazujući zvezde.",
     "stsl": "Отъ сего състава ꙗко плѣна отъдѣлѧєть сѧ · всѧкоꙗка тѣлеса въ себѣ обьемлѭшти · къ срѣдѣ же принесена тѣлеса състоѩть · и тако Землѧ бываєть · внѣшьнѧꙗ же плѣна растеть · тѣлеса извънѫ приємлѭшти · нѣкаꙗ же отъ нихъ · прѣжде влажна и кална · съплѣтаѭть сѧ въ съставъ · потомъ исъсыхаѭть и съ вихромъ вьсецѣлаго крѹжѧть · таже възгараѭшта сѧ звѣзды творѧть ·",
@@ -194,6 +208,7 @@
     ]
   },
   {
+    "id": "mm-001282",
     "type": "reported",
     "sr": "Zemlja se nosi oko središta, vrtložeći se, a oblik joj je nalik bubnju. Sunčev krug je najudaljeniji, Mesečev najbliži Zemlji, a ostali su između njih. Sve zvezde pale se od brzine kretanja; Sunce dodatno raspaljuju zvezde, dok Mesec prima tek malo ognja.",
     "stsl": "Землѧ окрьсть срѣды носить сѧ · врътѧшти сѧ · образъ же єѧ ꙗко бѫбьнъ єсть · Слъньчьныи крѫгъ наидальнѣиши · мѣсѧчьныи же къ Земли наиближьши · прочии же междѹ има сѫть · Вьсѣ звѣзды быстротою движеніꙗ възгараѭть сѧ · слъньце же и отъ звѣздъ распалѧєть сѧ · мѣсѧць же мало огнѧ приємлеть ·",
@@ -207,6 +222,7 @@
     ]
   },
   {
+    "id": "mm-001283",
     "type": "reported",
     "sr": "Zodijački krug nagnut je zato što je Zemlja nagnuta prema jugu. Severne oblasti stalno su pod snegom, veoma hladne i zaleđene. Sunce se pomračuje retko, a Mesec često, jer su im krugovi nejednaki.",
     "stsl": "Животьнъ крѫгъ наклоненъ єсть · зане Землѧ къ югѹ наклонена · сѣверьны же области присно подъ снѣгомъ сѫть · зѣло стѹдены и замръзлы · слъньце рѣдъко помрачаєть сѧ · мѣсѧць же чѧсто · зане крѫзи ихъ неравьни сѫть ·",
@@ -220,6 +236,7 @@
     ]
   },
   {
+    "id": "mm-001284",
     "type": "reported",
     "sr": "Kao što svetovi nastaju, tako i rastu, slabe i propadaju, po nekoj nuždi.",
     "stsl": "Ꙗкоже міри раждаѭть сѧ · тако и растѫть · изнемогаѭть и тлѣѭть · по нѣкоєи нѫжди ·",

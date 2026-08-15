@@ -1,0 +1,17 @@
+@import '../../../styles/shared';
+
+.about {
+  width: min(100%, 70ch);
+  padding: $spacing-md;
+  background: $color-white;
+  color: $color-text;
+
+  p {
+    font-size: 1.1rem;
+    line-height: 1.75;
+  }
+
+  @media (min-width: $breakpoint-mobile) {
+    padding: $spacing-xl;
+  }
+}

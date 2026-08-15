@@ -22,7 +22,7 @@ export default function AuthorSection({
       <div className={styles.grid}>
         {entries.map((entry) => (
           <QuoteCard
-            key={entry._id}
+            key={entry.id}
             entry={entry}
             language={language}
           />

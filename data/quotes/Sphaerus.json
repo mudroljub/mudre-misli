@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-001785",
     "type": "bio",
     "year": -285,
     "sr": "Sfer je bio iz Bospora.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-001786",
     "type": "bio",
     "year": -220,
     "sr": "Pošto je dovoljno uznapredovao u raspravama, otišao je u Aleksandriju kod Ptolemeja Filopatora.",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-001787",
     "type": "anecdote",
     "year": -220,
     "sr": "Jednom kad je razgovor bio o tome da li mudrac ima mišljenja, a Sfer je rekao da neće imati, želevši da ga izobliči, kralj je naredio da se postave voštani narovi. Kad se Sfer prevario, kralj je povikao da se priklonio lažnoj predstavi. Na to je Sfer mudro odgovorio, rekavši da se nije priklonio tome da jesu narovi, već da je razumno da jesu narovi; razlikuje se kataleptička predstava od razumnog.",
@@ -42,6 +45,7 @@
     ]
   },
   {
+    "id": "mm-001788",
     "type": "reported",
     "sr": "Kad ga je Mnesistrat optuživao da ne kaže da je Ptolemej kralj, odgovorio je: 'Takav kakav jeste Ptolemej, i kralj je.'",
     "stsl": "Єгда га Мнєсістратъ обвинꙗашє ꙗко нє глаголєть ꙗко єсть Птолємєі кралꙿ · Отъвѣщавъ · Таковъ каковъ єсть Птолємєі · і кралꙿ єсть.",
@@ -51,6 +55,20 @@
       {
         "name": "diogenes-laertius",
         "reference": "VII.177"
+      }
+    ]
+  },
+  {
+    "id": "mm-002068",
+    "type": "works",
+    "sr": "Napisao je sledeća dela: dve knjige O svetu; O elementima; O semenu; O slučaju; O najmanjim stvarima; Protiv atoma i predstava; O čulnim organima; pet rasprava O Heraklitu; O etičkom uređenju; O dužnosti; O nagonu; dve knjige O strastima; O kraljevanju; O spartanskom uređenju; tri knjige O Likurgu i Sokratu; O zakonu; O proricanju; Ljubavni razgovori; O eretrijskim filozofima; O sličnim stvarima; O odredbama; O stanju; tri knjige O protivrečnostima; O govoru; O bogatstvu; O slavi; O smrti; dve knjige Dijalektičke veštine; O kategorijama; O dvosmislenostima; Pisma.",
+    "stsl": "Написа книгы сиꙗ · О мірѣ двѣ · О стихіꙗхъ · О сѣмени · О приклѹчаи · О наимьньшихъ · Противѹ недѣлимꙑмъ и прѣдъставамъ · О чѹвьствьнꙑхъ ѹдѣхъ · О Ираклитѣ бесѣдъ пѧть · О нравьнѣмь строи · О длъгѣ · О стремлѥнии · О страстьхъ двѣ · О царьствии · О лаконьстѣмь строи · О Ликѹрзѣ и Сократѣ три · О законѣ · О пророчьствѣ · Разговоры любовьны · О еретриистѣхъ любомѫдрьцихъ · О подобьнꙑхъ · О прѣдѣлѣхъ · О състоянии · О противѹрѣчимꙑхъ три · О словѣ · О богатьствѣ · О славѣ · О смрьти · Разговорьнаго хѫдожьства двѣ · О наричаниихъ · О двоѥсмꙑслиихъ · Посланиꙗ ·",
+    "originalText": "Βιβλία δὲ γέγραφε τάδε· Περὶ κόσμου δύο, Περὶ στοιχείων, <Περὶ> σπέρματος, Περὶ τύχης, Περὶ ἐλαχίστων, Πρὸς τὰς ἀτόμους καὶ τὰ εἴδωλα, Περὶ αἰσθητηρίων, Περὶ Ἡρακλείτου πέντε διατριβῶν, Περὶ τῆς ἠθικῆς διατάξεως, Περὶ καθήκοντος, Περὶ ὁρμῆς, Περὶ παθῶν δύο, Περὶ βασιλείας, Περὶ Λακωνικῆς πολιτείας, Περὶ Λυκούργου καὶ Σωκράτους τρία, Περὶ νόμου, Περὶ μαντικῆς, Διαλόγους ἐρωτικούς, Περὶ τῶν Ἐρετριακῶν φιλοσόφων, Περὶ ὁμοίων, Περὶ ὅρων, Περὶ ἕξεως, Περὶ τῶν ἀντιλεγομένων τρία, Περὶ λόγου, Περὶ πλούτου, Περὶ δόξης, Περὶ θανάτου, Τέχνης διαλεκτικῆς δύο, Περὶ κατηγορημάτων, Περὶ ἀμφιβολιῶν, Ἐπιστολάς.",
+    "author": "Sphaerus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.178"
       }
     ]
   }

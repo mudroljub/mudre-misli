@@ -4,10 +4,11 @@ import Link from "next/link";
 import classNames from "classnames";
 import { getTextForLanguage, getAuthorName, authorSlugs } from "../utils/catalog";
 import { useTranslations } from "../utils/useTranslations";
+import { getExcerpt, getLongFormTitle, isLongFormEntry } from "../utils/longForm";
 import type { Entry, Language } from "../types/data";
 import styles from "./QuoteCard.module.scss";
 
-export type QuoteCardEntry = Pick<Entry, '_id' | 'type' | 'sr' | 'stsl' | 'author'>;
+export type QuoteCardEntry = Pick<Entry, 'id' | 'type' | 'sr' | 'stsl' | 'author' | 'display'>;
 
 interface QuoteCardProps {
   entry: QuoteCardEntry;
@@ -29,10 +30,12 @@ export default function QuoteCard({
   const slug = authorSlugs[authorName];
 
   const text = transliterate(getTextForLanguage(entry, language));
+  const isLongForm = isLongFormEntry(entry);
 
   return (
     <div className={classNames(styles.card, styles[entry.type], className)}>
-      <p>{text}</p>
+      {isLongForm && <h4 className={styles.longFormTitle}>{getLongFormTitle(text)}</h4>}
+      <p>{isLongForm ? getExcerpt(text) : text}</p>
 
       {showAuthor && (
         <p className={styles.authorLine}>
@@ -43,7 +46,7 @@ export default function QuoteCard({
         </p>
       )}
 
-      {showSource && <Link href={`/${language}/quotes/${entry._id}`} className={styles.sourceLink}>{t.source}</Link>}
+      {showSource && <Link href={`/${language}/quotes/${entry.id}`} className={styles.sourceLink}>{isLongForm ? t.readFull : t.source}</Link>}
     </div>
   );
 }

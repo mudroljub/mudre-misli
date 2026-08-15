@@ -52,8 +52,14 @@ export interface TextVariant {
  * Common fields shared by all entries.
  */
 interface BaseEntry {
+  /** Stable identifier stored in the source entry */
+  id: string
+
   /** Unique entry identifier */
   _id: number
+
+  /** Optional override for automatic card/reader presentation */
+  display?: "card" | "reader"
 
   /** Modern Serbian translation */
   sr: string
@@ -129,6 +135,9 @@ export interface AuthorData {
 
   /** Portrait URL */
   src?: string
+
+  /** Optional Wikipedia page slug when it differs from the project key */
+  wikipediaSlug?: string
 
   /** Ancient birthplace */
   birthplace?: string

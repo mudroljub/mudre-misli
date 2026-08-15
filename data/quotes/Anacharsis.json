@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-000001",
     "type": "bio",
     "year": -620,
     "sr": "Anaharsis Skit bio je sin Gnura i brat Kadouida, skitskog kralja; majka mu je bila Helenka, pa je govorio oba jezika.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-000002",
     "type": "works",
     "sr": "Sastavio je osam stotina redaka o običajima Skita i Helena, o jednostavnom životu i ratnim stvarima.",
     "stsl": "Сътвори осмь сътъ рѧдъкъ о обꙑчаихъ Скѵѳъ и Єллинъ · о простотѣ житіꙗ и ратьнꙑхъ дѣлѣхъ ·",
@@ -27,6 +29,7 @@
     ]
   },
   {
+    "id": "mm-000003",
     "type": "bio",
     "year": -587,
     "sr": "Zbog njegove otvorenosti u govoru nastala je i poslovica skitska reč.",
@@ -41,6 +44,7 @@
     ]
   },
   {
+    "id": "mm-000004",
     "type": "bio",
     "year": -592,
     "sr": "Sosikrat kaže da je Anaharsis došao u Atinu oko četrdeset sedme olimpijade, za arhonta Eukrata.",
@@ -55,6 +59,7 @@
     ]
   },
   {
+    "id": "mm-000005",
     "type": "anecdote",
     "year": -591.9,
     "sr": "Hermip kaže da je, došavši pred Solonovu kuću, rekao jednom sluzi da javi kako je stigao Anaharsis i želi da vidi Solona i, ako je moguće, postane njegov gost. Solon mu je poručio da se gostoprimstvo pruža u sopstvenoj otadžbini. Anaharsis mu odgovori: Ali ti si sada u svojoj otadžbini, pa je na tebi da me primiš kao gosta. Zadivljen njegovom dovitljivošću, Solon ga je uveo i učinio svojim najvećim prijateljem.",
@@ -69,6 +74,7 @@
     ]
   },
   {
+    "id": "mm-000006",
     "type": "bio",
     "year": -581,
     "sr": "Posle nekog vremena vratio se u Skitiju.",
@@ -83,6 +89,7 @@
     ]
   },
   {
+    "id": "mm-000007",
     "type": "anecdote",
     "year": -580,
     "sr": "Zbog svoje velike privrženosti helenskim običajima smatralo se da ruši domaće zakone, pa ga je brat u lovu ustrelio. Umirući je rekao: „Reč me je sačuvala u Heladi, a zavist me je pogubila u otadžbini.“",
@@ -97,6 +104,7 @@
     ]
   },
   {
+    "id": "mm-000008",
     "type": "bio",
     "year": -579,
     "sr": "Neki kažu da je ubijen dok je vršio helenske obrede.",
@@ -111,6 +119,7 @@
     ]
   },
   {
+    "id": "mm-000009",
     "type": "reported",
     "sr": "Za lozu je govorio da nosi tri grozda: prvi zadovoljstva, drugi pijanstva, treći gađenja.",
     "stsl": "О лозѣ глаголааше ꙗко три гроꙁда носить · пръвъ сласти · вторъ пиꙗньства · третіи мрьꙁости ·",
@@ -124,6 +133,7 @@
     ]
   },
   {
+    "id": "mm-000010",
     "type": "reported",
     "sr": "Upitan kako čovek može izbeći da postane pijanica, odgovori: Ako pred očima ima ružno ponašanje pijanaca.",
     "stsl": "Въпрошенъ како кто пиꙗница не бѫдеть · рече · Аще прѣдъ очима имать срамъ пиꙗнꙑхъ ·",
@@ -137,6 +147,7 @@
     ]
   },
   {
+    "id": "mm-000011",
     "type": "reported",
     "sr": "Govorio je da se čudi što Heleni kažnjavaju nasilnike, a takmičare časte zato što se međusobno udaraju.",
     "stsl": "Глаголааше ꙗко дивить сѧ · почьто Єллини обидьникꙑ каꙁнѧть · борьцѧ же чьтѧть ꙗко дрѹгъ дрѹга биѭть ·",
@@ -150,6 +161,7 @@
     ]
   },
   {
+    "id": "mm-000012",
     "type": "reported",
     "sr": "Kada je saznao da je brodska oplata debela četiri prsta, rekao je da su putnici toliko udaljeni od smrti.",
     "stsl": "Ѹвѣдѣвъ ꙗко дъска корабьна чєтꙑри прьстꙑ дебела єсть · рече · Толико пловѫштеи отъ съмрьти отъстоѧть ·",
@@ -163,6 +175,7 @@
     ]
   },
   {
+    "id": "mm-000013",
     "type": "reported",
     "sr": "Ulje je nazivao sredstvom za ludilo, jer se takmičari, kad se njime namažu, pomame jedni na druge.",
     "stsl": "Масло безѹмьно зелие нарицааше · помаꙁавъше сѧ бо борьци дрѹгъ на дрѹга неистовьствѹѭть ·",
@@ -176,6 +189,7 @@
     ]
   },
   {
+    "id": "mm-000014",
     "type": "reported",
     "sr": "Upitan ima li u Skitiji frula, odgovori: Nema ni vinove loze.",
     "stsl": "Въпрошенъ аще въ Скѵѳіи свирѣли сѫть · рече · Ни лоꙁꙑ нѣсть ·",
@@ -189,6 +203,7 @@
     ]
   },
   {
+    "id": "mm-000015",
     "type": "reported",
     "sr": "Upitan koji su brodovi najbezbedniji, odgovori: Oni izvučeni na kopno.",
     "stsl": "Въпрошенъ котерꙑи корабли беꙁбѣдьнѣиши сѫть · рече · На сѹхо иꙁвлечени ·",
@@ -202,6 +217,7 @@
     ]
   },
   {
+    "id": "mm-000016",
     "type": "reported",
     "sr": "Upitan kojih ima više, živih ili mrtvih, odgovori: A gde ubrajaš one koji plove morem?",
     "stsl": "Въпрошенъ котерꙑихъ множє · живꙑихъ ли мрьтвꙑихъ · рече · Пловѫштѧꙗ же кѫдѣ полагаєши ·",
@@ -215,6 +231,7 @@
     ]
   },
   {
+    "id": "mm-000017",
     "type": "reported",
     "sr": "Kada mu je jedan Atinjanin prebacivao što je Skit, odgovori: Meni je sramota moja otadžbina, a ti si sramota svojoj otadžbini.",
     "stsl": "Отъ Аѳінꙗнина ѹкорѧємъ ꙗко Скѵѳъ єсть · рече · Мнѣ отьчьство срамъ єсть · тꙑ же отьчьствѹ срамъ єси ·",
@@ -228,6 +245,7 @@
     ]
   },
   {
+    "id": "mm-000018",
     "type": "reported",
     "sr": "Upitan šta je među ljudima i dobro i zlo, odgovori: Jezik.",
     "stsl": "Въпрошенъ что въ чловѣцѣхъ и добро и ꙁъло єсть · рече · Ꙗꙁꙑкъ ·",
@@ -241,6 +259,7 @@
     ]
   },
   {
+    "id": "mm-000019",
     "type": "reported",
     "sr": "Govorio je da je bolje imati jednog prijatelja velike vrednosti nego mnogo bezvrednih.",
     "stsl": "Глаголааше ꙗко лѹчьше єдиного дрѹга много достоина имѣти · неже ли многꙑ ничьсоже достоинꙑ ·",
@@ -254,6 +273,7 @@
     ]
   },
   {
+    "id": "mm-000020",
     "type": "reported",
     "sr": "Trg je nazivao određenim mestom na kojem ljudi jedni druge varaju i zakidaju.",
     "stsl": "Тръгъ наречено мѣсто глаголааше · идѣже людие дрѹгъ дрѹга прѣльщаѭть и обидѧть ·",
@@ -267,6 +287,7 @@
     ]
   },
   {
+    "id": "mm-000021",
     "type": "bio",
     "year": -590,
     "sr": "Isticao se uzdržavanjem od mesa i odvraćanjem ljudi od poroka razvrata, ugađanja stomaku i proždrljivosti.",
@@ -281,6 +302,7 @@
     ]
   },
   {
+    "id": "mm-000022",
     "type": "anecdote",
     "sr": "Na gozbi ga je jedan mladić uvredio. Anaharsis mu reče: Mladiću, ako sada, dok si mlad, ne možeš podneti vino, kad ostariš nosićeš vodu.",
     "stsl": "На пирѣ юноша нѣкꙑи єго ѹкори · Анахарсісъ же рече · Юноше · аще нꙑнѣ ѹнъ сꙑ вина не можеши понести · старъ бꙑвъ водѫ носити бѫдеши ·",

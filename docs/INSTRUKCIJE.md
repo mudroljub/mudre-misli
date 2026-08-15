@@ -21,8 +21,9 @@ Ne izmišljati citate niti rekonstruisati izgubljene izreke. Uključivati samo o
 
 Kopije javno dostupnih izvora se nalaze u folderu data/sources. Izvori imaju svoje manifeste, npr:
 
-- Manifest svih originalno preuzetih stranica: `data/sources/diogenes-laertius/manifest.json`
-- Manifest deduplikovanih grčkih stranica: `data/sources/diogenes-laertius/manifest.el.json`
+- Manifest i poreklo TEI izdanja: `data/sources/diogenes-laertius/manifest.json`
+- Autoritativni grčki izvor: `data/sources/diogenes-laertius/diogenes-laertius.xml`.
+  Pointer koristi CTS odlomak u obliku `#knjiga.odeljak`.
 
 Pravila upotrebe:
 
@@ -88,7 +89,8 @@ Za detaljna objašnjenja svih polja pogledati JSDoc komentare u `types/data.ts`.
 
 # Podaci o autorima (obavezno)
 
-Pri svakom dodavanju novog autora u `data/quotes/[Ime_Filozofa].json` obavezno istovremeno dodati njegove podatke u `data/authors.json`.
+Pri svakom dodavanju novog autora u `data/quotes/[English_Wikipedia_Title].json`
+obavezno istovremeno dodati njegove podatke u `data/authors.json`.
 
 Struktura podataka o autoru je definisana u **`types/data.ts`** interfejsu `AuthorMetadata`.
 
@@ -99,6 +101,19 @@ Pravila:
 3. proveriti da slika zaista prikazuje traženog autora, naročito kada postoji više istorijskih ličnosti sa istim imenom;
 4. negativan broj za `born`/`died` označava p.n.e., pozitivan n.e.;
 5. nakon izmene proveriti da je `data/authors.json` ispravan JSON i da su autori u bočnoj traci hronološki poređani.
+
+Naziv JSON fajla i vrednost `author` imaju različite uloge:
+
+- naziv fajla je stabilan tehnički identitet i mora odgovarati naslovu stranice
+  na engleskoj Wikipediji, sa razmacima umesto donjih crta iz `wikipediaSlug`
+  (npr. `Pherecydes of Syros.json`, `Hipparchia of Maroneia.json`);
+- `author` i ključ u `data/authors.json` ostaju standardno srpsko ime koje se
+  prikazuje u projektu (npr. `Ferekid`, `Hiparhija`);
+- kada se engleski naslov razlikuje od projektnog ključa, `wikipediaSlug` u
+  `data/authors.json` je obavezan i predstavlja autoritet za naziv fajla.
+
+Ne preimenovati fajl prema srpskoj vrednosti polja `author`. Build proverava
+ovu razliku i prekida se ako naziv fajla ne odgovara `wikipediaSlug`.
 
 Vrednost polja `author` mora koristiti standardno srpsko ime filozofa koje se koristi u projektu, nezavisno od oblika u grčkom ili engleskom izvoru.
 

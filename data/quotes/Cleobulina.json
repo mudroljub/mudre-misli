@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-000507",
     "type": "bio",
     "year": -590,
     "sr": "Kleobulina iz Linda bila je Kleobulova kći i sastavljala je zagonetke u heksametru.",
@@ -14,6 +15,21 @@
     ]
   },
   {
+    "id": "mm-002073",
+    "type": "mention",
+    "sr": "Kratin je pominjao Kleobulinu u istoimenoj drami, naslovivši je u množini.",
+    "stsl": "Кратинъ Клеовѹлинѫ помѧнѫ въ єдиноименьнѣмь позорищи · множьствьнѣ надъписавъ ·",
+    "originalText": "ἧς μέμνηται καὶ Κρατῖνος ἐν τῷ ὁμωνύμῳ δράματι, πληθυντικῶς ἐπιγράψας.",
+    "author": "Cleobulina",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.89"
+      }
+    ]
+  },
+  {
+    "id": "mm-000508",
     "type": "quote",
     "sr": "Videh čoveka kako vatrom priljubljuje bronzu uz čoveka, tako čvrsto da ih čini iste krvi.",
     "stsl": "Мѫжа видѣхъ · огньмь мѣдь къ мѫжѹ прилѣплꙗѭшта · тако крѣпъко · ꙗко єдинокръвьна ѩ творити ·",
@@ -35,6 +51,7 @@
     ]
   },
   {
+    "id": "mm-000509",
     "type": "quote",
     "sr": "Videh čoveka kako krade i obmanjuje silom, a učiniti to silom beše najpravednije.",
     "stsl": "Мѫжа видѣхъ крадѫшта и прѣльщаѭшта силоѭ · и силоѭ то сътворити правьдьнѣише бѣ ·",
@@ -48,6 +65,7 @@
     ]
   },
   {
+    "id": "mm-000510",
     "type": "quote",
     "sr": "Mrtav magarac udari me po uhu rožnatom cevanicom.",
     "stsl": "Мрьтвъ осьлъ рогатоѭ голѣниѭ по ѹхѹ мѧ ѹдари ·",
@@ -57,6 +75,24 @@
       {
         "name": "plutarch",
         "reference": "Moralia 150F"
+      }
+    ]
+  },
+  {
+    "id": "mm-000518",
+    "type": "reported",
+    "sr": "Jedan otac ima dvanaestoro dece, a svako od njih po dvaput tridesetoro potomaka različita lika: jedni su beli, drugi crni. Premda su besmrtni, svi propadaju i nestaju. Rešenje je godina: otac je godina, deca su dvanaest meseci, a njihovi potomci dani i noći.",
+    "stsl": "Єдинъ отьць дванадесѧте дѣтии имать · ихъ же кождо дващи тридесѧть отърасль разноличьнꙑхъ · ови бо бѣли · ови же чрьни · Бесъмрьтьни сѫть · нъ вьси тълѣѭть и исчезаѭть · Отъвѣтъ єсть лѣто · отьць єсть лѣто · дѣти дванадесѧте мѣсѧць · отърасли же ихъ дьни и нощи ·",
+    "originalText": "Unus pater, filii XII, horum cuilibet nati [sunt] XXX [bis] difformes, nam quidm horum sunt albe, quidam vero nigre. Sunt immortales autem cum sint corrumpuntur omnes et deficiunt. Est autem annus XII mensium pater etc.",
+    "author": "Cleobulina",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. VI"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.91"
       }
     ]
   }

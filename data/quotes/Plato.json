@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-001428",
     "type": "bio",
     "year": -428,
     "originalText": "Πλάτων Ἀρίστωνος καὶ Περικτιόνης, ἀπὸ Σόλωνος καταγούσης· Ἀριστοκλῆς μὲν ἐκαλεῖτο, Πλάτων δὲ διὰ τὴν εὐρυθμίαν.",
@@ -14,6 +15,7 @@
     "sr": "Platon je bio sin Aristona i Periktione, koja je poticala od Solona. Zvao se Aristokle, a Platon je prozvan zbog skladne građe."
   },
   {
+    "id": "mm-001429",
     "type": "anecdote",
     "originalText": "Κἀκεῖνος ἀγαγὼν αὐτὸν εἰς Αἴγιναν ἐπίπρασκεν· Λυτροῦται δὴ αὐτὸν Ἀννίκερις ὁ Κυρηναῖος μνῶν εἴκοσι. Οἱ δ' εὐθὺς τἀργύριον ἐξέπεμψαν· ὅπερ οὐ προσήκατο.",
     "author": "Plato",
@@ -28,6 +30,7 @@
     "sr": "Na Egini prodat kao rob. Otkupio ga Kirenejac Anikerid za dvadeset mina. Kada su odmah poslali novac, nije ga primio."
   },
   {
+    "id": "mm-001430",
     "type": "bio",
     "year": -387,
     "originalText": "Διέτριβεν ἐν Ἀκαδημίᾳ· ἔστι δὲ γυμνάσιον προάστειον ἀλσῶδες, ὠνομασμένον ἀπό τινος ἥρωος Ἑκαδήμου.",
@@ -42,6 +45,7 @@
     "sr": "Boravio je u Akademiji, prigradskom vežbalištu obraslom gajem, nazvanom po junaku Hekademu."
   },
   {
+    "id": "mm-001431",
     "type": "bio",
     "year": -361,
     "originalText": "Τρίτον πρὸς Διονύσιον Δίωνα καταλλάξων· μὴ κατορθώσας ἐπανῆλθεν εἰς τὴν πατρίδα.",
@@ -56,6 +60,7 @@
     "sr": "Treći put otišao kod Dionisija da pomiri Diona. Ne uspevši, vratio se u otadžbinu."
   },
   {
+    "id": "mm-001432",
     "type": "quote",
     "originalText": "αἰσθητὸν μὲν εἶναι τὸ μηδέποτε ἐν τῷ ποιῷ μηδὲ ποσῷ διαμένον ἀλλ' ἀεὶ ῥέον καὶ μεταβάλλον· Ταῦτα δ' ἐστὶν ὧν ἀεὶ γένεσις, οὐσία δὲ μηδέποτε πέφυκε.",
     "author": "Plato",
@@ -69,6 +74,7 @@
     "sr": "Čulno je ono što nikada ne ostaje isto po kakvoći ni količini, već uvek teče i menja se. Takve stvari uvek postaju, a suštastvo nikada nemaju."
   },
   {
+    "id": "mm-001433",
     "type": "quote",
     "originalText": "Νοητὸν δὲ ἐξ οὗ μηθὲν ἀπογίνεται μηδὲ προσγίνεται. Τοῦτο δ' ἐστὶν ἡ τῶν ἀιδίων φύσις, ἣν ὁμοίαν τε καὶ τὴν αὐτὴν ἀεὶ συμβέβηκεν εἶναι.",
     "author": "Plato",
@@ -82,6 +88,7 @@
     "sr": "Umno je ono od čega ništa ne odlazi niti mu šta dolazi. To je priroda večnih stvari, uvek ista i sebi jednaka."
   },
   {
+    "id": "mm-001434",
     "type": "quote",
     "originalText": "ἔστι δὲ τῶν εἰδῶν ἓν ἕκαστον ἀίδιόν τε καὶ νόημα καὶ πρὸς τούτοις ἀπαθές. Διὸ καί φησιν ἐν τῇ φύσει τὰς ἰδέας ἑστάναι καθάπερ παραδείγματα, τὰ δ' ἄλλα ταύταις ἐοικέναι τούτων ὁμοιώματα καθεστῶτα.",
     "author": "Plato",
@@ -95,6 +102,7 @@
     "sr": "Svaki vid je večan, misao i bestrasan. Zato kaže da viđe u prirodi stoje kao uzori, a ostalo im je slično i predstavlja njihove odraze."
   },
   {
+    "id": "mm-001435",
     "type": "quote",
     "originalText": "εἴπερ ἐστὶ μνήμη, τὰς ἰδέας ἐν τοῖς οὖσιν ὑπάρχειν διὰ τὸ τὴν μνήμην ἠρεμοῦντός τινος καὶ μένοντος εἶναι· μένειν δὲ οὐδὲν ἕτερον ἢ τὰς ἰδέας.",
     "author": "Plato",
@@ -108,6 +116,7 @@
     "sr": "Ako postoji sećanje, viđe moraju biti među bićima, jer je sećanje o nečemu što miruje i ostaje, a ništa drugo ne ostaje osim viđa."
   },
   {
+    "id": "mm-001436",
     "type": "quote",
     "originalText": "νῦν δὲ μνημονεύει τῆς ὁμοιότητός τε καὶ τροφῆς, ὁποία τις ἐστὶν αὐτοῖς, ἐνδεικνύμενα διότι πᾶσι τοῖς ζῴοις ἔμφυτός ἐστιν ἡ τῆς ἰδέας θεωρία.",
     "author": "Plato",
@@ -121,6 +130,7 @@
     "sr": "Životinje sada pamte sličnost i kakva im je hrana, pokazujući time da je svim životinjama urođeno posmatranje oblika."
   },
   {
+    "id": "mm-001437",
     "type": "anecdote",
     "year": -388,
     "originalText": "διαλεγόμενος περὶ τυραννίδος καὶ φάσκων ὡς οὐκ ἔστι τοῦτο κρεῖττον ὃ συμφέροι αὐτῷ μόνον εἰ μὴ καὶ ἀρετῇ διαφέροι, προσέκρουσεν αὐτῷ. Ὀργισθεὶς γὰρ· «Οἱ λόγοι σου γεροντιῶσι.» Καὶ ὅς· «Σοῦ δέ γε τυραννιῶσιν.» παρέδωκε δὲ αὐτὸν Πόλλιδι τῷ Λακεδαιμονίῳ ὥστε ἀποδόσθαι.",
@@ -135,6 +145,7 @@
     "sr": "Razgovarajući o tiraniji, Platon je tvrdio da nije dobro ono što koristi samo tiraninu, osim ako se on odlikuje i vrlinom. Time je razgnevio Dionisija, koji reče: Tvoje reči odišu starošću. Platon odgovori: A tvoje tiranijom. Dionisije ga potom predade Lakedemonjaninu Polidu da ga proda."
   },
   {
+    "id": "mm-001438",
     "type": "quote",
     "originalText": "μὴ τοσαύτην αὐτῷ σχολὴν εἶναι ὥστε Διονυσίου μεμνῆσθαι.",
     "author": "Plato",
@@ -148,6 +159,7 @@
     "sr": "Nemam toliko slobodnog vremena da bih Dionisija pamtio."
   },
   {
+    "id": "mm-001439",
     "type": "quote",
     "originalText": "Χρυσὸν ἀνὴρ εὑρὼν ἔλιπεν βρόχον· αὐτὰρ ὁ χρυσὸν ὃν λίπεν οὐχ εὑρὼν ἧψεν ὃν εὗρε βρόχον.",
     "author": "Plato",
@@ -161,6 +173,7 @@
     "sr": "Čovek našavši zlato ostavio omču. A onaj koji nije našao zlato što je ostavio, vezao omču koju je našao i obesio se."
   },
   {
+    "id": "mm-001440",
     "type": "reported",
     "originalText": "τοῖς μεθύουσι συνεβούλευε κατοπτρίζεσθαι· ἀποστήσεσθαι γὰρ τῆς τοιαύτης ἀσχημοσύνης.",
     "author": "Plato",
@@ -174,6 +187,7 @@
     "sr": "Platon je savetovao pijane da se ogledaju: tako će odustati od takve ružnoće."
   },
   {
+    "id": "mm-001441",
     "type": "quote",
     "originalText": "εἶναί τε ἥδιον τῶν ἀκουσμάτων τὴν ἀλήθειαν.",
     "author": "Plato",
@@ -187,6 +201,7 @@
     "sr": "Od svega što se čuje najprijatnije je istina."
   },
   {
+    "id": "mm-001442",
     "type": "quote",
     "originalText": "ἀλήθεια γάρ, ὦ ξεῖνε, καλὸν καὶ μόνιμον· πείθειν δὲ αὐτῇ οὐ ῥᾴδιον.",
     "author": "Plato",
@@ -200,6 +215,7 @@
     "sr": "Istina je, gostine, lepa i trajna, ali u nju nije lako uveriti."
   },
   {
+    "id": "mm-001443",
     "type": "quote",
     "originalText": "ἠξίου μνημόσυνον αὑτοῦ λείπεσθαι ἢ ἐν φίλοις ἢ ἐν βιβλίοις.",
     "author": "Plato",
@@ -213,6 +229,7 @@
     "sr": "Hteo je ostaviti spomen na sebe, bilo u prijateljima bilo u knjigama."
   },
   {
+    "id": "mm-001444",
     "type": "quote",
     "originalText": "σοφίαν εἶναι τὴν τῶν θείων καὶ ἀνθρωπίνων ἐπιστήμην· φιλοσοφίαν δὲ ἔφεσιν σοφίας.",
     "author": "Plato",
@@ -226,6 +243,7 @@
     "sr": "Mudrost je nauka o božanskim i ljudskim stvarima, a mudroljublje težnja za mudrošću."
   },
   {
+    "id": "mm-001445",
     "type": "quote",
     "originalText": "ἰδέαν δὲ καλεῖσθαι καὶ εἶδος καὶ γένος καὶ παράδειγμα καὶ ἀρχὴν καὶ αἴτιον.",
     "author": "Plato",
@@ -239,6 +257,7 @@
     "sr": "Viđa se naziva i vidom, rodom, uzorom, načelom i uzrokom."
   },
   {
+    "id": "mm-001446",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τὸ γοῦν αἰσθητὸν καὶ ὂν καλεῖ καὶ μὴ ὄν· ὂν μὲν διὰ τὸ γένεσιν αὐτοῦ εἶναι, μὴ ὂν δὲ διὰ τὴν συνεχῆ μεταβολήν.",
@@ -252,6 +271,7 @@
     "sr": "Čulno naziva i postojećim i nepostojećim: postojećim zato što postaje, nepostojećim zbog neprestane promene."
   },
   {
+    "id": "mm-001447",
     "type": "quote",
     "author": "Plato",
     "originalText": "Ἀθάνατον ἔλεγε τὴν ψυχὴν καὶ πολλὰ μεταμφιεννυμένην σώματα",
@@ -265,6 +285,7 @@
     "sr": "Govorio je da je duša besmrtna i da se oblači u mnoga tela."
   },
   {
+    "id": "mm-001448",
     "type": "quote",
     "author": "Plato",
     "originalText": "Ἀρχήν τε ἔχειν ἀριθμητικήν, τὸ δὲ σῶμα γεωμετρικήν",
@@ -278,6 +299,7 @@
     "sr": "Duša ima brojno načelo, a telo geometrijsko."
   },
   {
+    "id": "mm-001449",
     "type": "quote",
     "author": "Plato",
     "originalText": "Δύο δὲ τῶν πάντων ἀπέφηνεν ἀρχάς, θεὸν καὶ ὕλην, ὃν καὶ νοῦν προσαγορεύει καὶ αἴτιον. Εἶναι δὲ τὴν ὕλην ἀσχημάτιστον καὶ ἄπειρον, ἐξ ἧς γίνεσθαι τὰ συγκρίματα.",
@@ -291,6 +313,7 @@
     "sr": "Postavio je dva načela svega: boga i tvar. Boga naziva i umom i uzrokom. Tvar je bezoblična i beskrajna, a iz nje nastaju sastavi."
   },
   {
+    "id": "mm-001450",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τραπέσθαι δὲ τὴν οὐσίαν ταύτην εἰς τὰ τέτταρα στοιχεῖα, πῦρ, ὕδωρ, ἀέρα, γῆν. Μόνην δὲ τὴν γῆν ἀμετάβολον εἶναί φησι, νομίζων αἰτίαν τὴν τῶν σχημάτων διαφορὰν ἐξ ὧν σύγκειται. πυρὸς μὲν γὰρ εἶναι στοιχεῖον πυραμίδα, ἀέρος τὸ ὀκτάεδρον, ὕδατος τὸ εἰκοσάεδρον, γῆς δὲ κύβον.",
@@ -304,6 +327,7 @@
     "sr": "Ovo suštastvo pretvara se u četiri prvine: vatru, vodu, vazduh i zemlju. Samo je zemlja nepromenjiva, a uzrok tome je razlika oblika od kojih je svaka prvina sastavljena. Prvina vatre je četvorostranik, vazduha osmostranik, vode dvadesetostranik, a zemlje kocka."
   },
   {
+    "id": "mm-001451",
     "type": "quote",
     "author": "Plato",
     "originalText": "Οὐ διακεκρίσθαι δ' εἰς τοὺς οἰκείους τόπους ἕκαστον, ὅτι ἡ περιφορὰ σφίγγουσα καὶ πρὸς τὸν μέσον συνάγουσα συγκρίνει τὰ μικρά, τὰ δὲ διακρίνει, τὰ μεγάλα.",
@@ -317,6 +341,7 @@
     "sr": "Svaka prvina nije razlučena na svoje mesto, jer kruženje, stežući i sabirajući ka sredini, spaja male stvari, a velike razlučuje."
   },
   {
+    "id": "mm-001452",
     "type": "quote",
     "author": "Plato",
     "originalText": "Κόσμον τε εἶναι ἕνα γεννητόν, ἐπειδὴ καὶ αἰσθητός ἐστιν ὑπὸ θεοῦ κατεσκευασμένος· ἔμψυχόν τε εἶναι διὰ τὸ κρεῖττον εἶναι τοῦ ἀψύχου τὸ ἔμψυχον. Σφαιροειδῆ δὲ διὰ τὸ καὶ τὸν γεννήσαντα τοιοῦτον ἔχειν σχῆμα.",
@@ -330,6 +355,7 @@
     "sr": "Svet je jedan i rođen, jer je čulan i od boga sazdan. Oduševljen je zato što je oduševljeno bolje od bezdušnog, a loptast zato što i njegov tvorac ima takav oblik."
   },
   {
+    "id": "mm-001453",
     "type": "quote",
     "author": "Plato",
     "originalText": "Χρόνον τε γενέσθαι εἰκόνα τοῦ ἀιδίου. Κἀκεῖνον μὲν ἀεὶ μένειν, τὴν δὲ τοῦ οὐρανοῦ φορὰν χρόνον εἶναι. Πρὸς δὲ χρόνου γένεσιν ἥλιον καὶ σελήνην καὶ τὰ πλανώμενα γενέσθαι.",
@@ -343,6 +369,7 @@
     "sr": "Vreme je slika večnog. Večno uvek ostaje, a kretanje neba jeste vreme. Radi nastanka vremena postadoše Sunce, Mesec i lutajuće zvezde."
   },
   {
+    "id": "mm-001454",
     "type": "quote",
     "author": "Plato",
     "originalText": "Ἵνα δὲ ὁ κόσμος τελειωθῇ γενόμενος ὁμοίως τῷ νοητῷ ζῴῳ, τὴν τῶν ἄλλων ζῴων γενέσθαι φύσιν. Θεοὺς μὲν οὖν ἔχειν τὸ πολὺ πυρίνους· εἶναι δὲ τρία γένη τἆλλα, πτηνόν, ἔνυδρον, πεζόν.",
@@ -356,6 +383,7 @@
     "sr": "Da bi se svet usavršio postavši sličan umnom živom biću, nastala je priroda ostalih živih bića. Bogovi su većinom vatreni, a ostala bića pripadaju trima rodovima: krilatom, vodenom i kopnenom."
   },
   {
+    "id": "mm-001455",
     "type": "quote",
     "author": "Plato",
     "originalText": "Γῆν δὲ πρεσβυτάτην μὲν εἶναι τῶν ἐν τῷ οὐρανῷ θεῶν· γενέσθαι δὲ ὡς δημιούργημα νύκτα καὶ ἡμέραν ποιεῖν· οὖσαν δ' ἐπὶ τοῦ μέσου κινεῖσθαι περὶ τὸ μέσον.",
@@ -369,6 +397,7 @@
     "sr": "Zemlja je najstarija nebeskih bogova. Postala je kao tvorevina da čini noć i dan. Boravišući u središtu, kreće se oko središta."
   },
   {
+    "id": "mm-001456",
     "type": "quote",
     "author": "Plato",
     "originalText": "Δοκεῖ δ' αὐτῷ τὸν θεὸν ὡς καὶ τὴν ψυχὴν ἀσώματον εἶναι· οὕτω γὰρ μάλιστα φθορᾶς καὶ πάθους ἀνεπίδεκτον ὑπάρχειν. Τὰς δὲ ἰδέας ὑφίσταται, καθὰ καὶ προείρηται, αἰτίας τινὰς καὶ ἀρχὰς τοῦ τοιαῦτ' εἶναι τὰ φύσει συνεστῶτα, οἷάπερ ἐστὶν αὐτά.",
@@ -382,6 +411,7 @@
     "sr": "Boga, kao i dušu, smatra bestelesnim, jer tako ne prima propadanje ni trpljenje. Viđe, kao što je već rečeno, postavlja kao uzroke i načela po kojima su stvari postojeće po prirodi upravo onakve kakve jesu."
   },
   {
+    "id": "mm-001457",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τέλος μὲν εἶναι τὴν ἐξομοίωσιν τῷ θεῷ.",
@@ -395,6 +425,7 @@
     "sr": "Cilj je upodobljavanje bogu."
   },
   {
+    "id": "mm-001458",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τὴν δ' ἀρετὴν αὐτάρκη μὲν εἶναι πρὸς εὐδαιμονίαν. Ὀργάνων δὲ προσδεῖσθαι τῶν περὶ σῶμα πλεονεκτημάτων, ἰσχύος, ὑγιείας, εὐαισθησίας, τῶν ὁμοίων.",
@@ -408,6 +439,7 @@
     "sr": "Vrlina je samodovoljna za blagočest, ali su joj kao oruđa potrebna telesna dobra: snaga, zdravlje, valjana čula i slično."
   },
   {
+    "id": "mm-001459",
     "type": "quote",
     "author": "Plato",
     "originalText": "Πολιτεύεσθαι αὖ καὶ γαμήσειν καὶ τοὺς κειμένους νόμους οὐ παραβήσεσθαι· ἐκ δὲ τῶν ἐνδεχομένων καὶ νομοθετήσειν τῇ ἑαυτοῦ πατρίδι, ἐὰν μὴ τέλεον εὐπαραίτητα ὁρᾷ τὰ πράγματα ἐν ὑπερβαλλούσῃ διαφορᾷ δήμου.",
@@ -421,6 +453,7 @@
     "sr": "Treba se baviti državnim poslovima, ženiti se i ne prestupati postavljene zakone. Koliko je moguće, treba i svojoj otadžbini davati zakone, osim ako se prilike zbog prekomernog razdora naroda pokažu potpuno nepopravljivim."
   },
   {
+    "id": "mm-001460",
     "type": "quote",
     "author": "Plato",
     "originalText": "Ἔννοιάν τε καλοῦ πρῶτος ἀπεφήνατο τὴν ἐχομένην τοῦ ἐπαινετοῦ καὶ λογικοῦ καὶ χρησίμου καὶ πρέποντος καὶ ἁρμόττοντος.",
@@ -434,6 +467,7 @@
     "sr": "Pojam lepog prvi je pokazao kao ono što obuhvata hvalno i razumno i korisno i prikladno i skladno."
   },
   {
+    "id": "mm-001461",
     "type": "quote",
     "author": "Plato",
     "originalText": "Ἐν δὲ τοῖς διαλόγοις καὶ τὴν δικαιοσύνην θεοῦ νόμον ὑπελάμβανεν ὡς ἰσχυροτέραν προτρέψαι τὰ δίκαια πράττειν, ἵνα μὴ καὶ μετὰ θάνατον δίκας ὑπόσχοιεν οἱ κακοῦργοι.",
@@ -447,6 +481,7 @@
     "sr": "U razgovorima je pravednost smatrao božjim zakonom, najmoćnijim podsticajem na pravedna dela, da zločinci ne bi bili kažnjeni i posle smrti."
   },
   {
+    "id": "mm-001462",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τῶν ἀγαθῶν ἐστι τὰ μὲν ἐν ψυχῇ, τὰ δὲ ἐν σώματι, τὰ δὲ ἐκτός· οἷον ἡ μὲν δικαιοσύνη καὶ ἡ φρόνησις καὶ ἡ ἀνδρεία καὶ ἡ σωφροσύνη καὶ τὰ τοιαῦτα ἐν ψυχῇ· τὸ δὲ κάλλος καὶ ἡ εὐεξία καὶ ἡ ὑγίεια καὶ ἡ ἰσχὺς ἐν σώματι· οἱ δὲ φίλοι καὶ ἡ τῆς πατρίδος εὐδαιμονία καὶ ὁ πλοῦτος ἐν τοῖς ἐκτός.",
@@ -460,6 +495,7 @@
     "sr": "Neka dobra su u duši, neka u telu, a neka spoljašnja. Pravednost, razboritost, hrabrost i umerenost pripadaju duši; lepota, dobra građa, zdravlje i snaga telu; prijatelji, blagočest otadžbine i bogatstvo spoljašnjim dobrima."
   },
   {
+    "id": "mm-001463",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τῆς δὲ δικαιοσύνης ἐστὶν εἴδη τρία· ἡ μὲν γὰρ αὐτῆς ἐστι περὶ θεούς, ἡ δὲ περὶ ἀνθρώπους, ἡ δὲ περὶ τοὺς ἀποιχομένους.",
@@ -473,6 +509,7 @@
     "sr": "Tri su vida pravednosti: prema bogovima, prema ljudima i prema preminulima."
   },
   {
+    "id": "mm-001464",
     "type": "quote",
     "author": "Plato",
     "originalText": "Διαιρεῖται δὲ ἡ εὐγένεια εἰς εἴδη τέτταρα. Ἓν μέν, ἐὰν ὦσιν οἱ πρόγονοι καλοὶ κἀγαθοὶ καὶ δίκαιοι, τοὺς ἐκ τούτων γεγεννημένους εὐγενεῖς φασιν εἶναι.",
@@ -486,6 +523,7 @@
     "sr": "Deli se plemenitost na četiri vida. Prvi, ako su preci dobri i plemeniti i pravedni, njihove potomke nazivamo plemenitima."
   },
   {
+    "id": "mm-001465",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τὸ κάλλος διαιρεῖται εἰς τρία· ἓν μὲν γὰρ αὐτοῦ ἐστιν ἐπαινετόν, οἷον ἡ διὰ τῆς ὄψεως εὐμορφία· ἄλλο δὲ χρηστικόν.",
@@ -499,6 +537,7 @@
     "sr": "Lepota se deli na tri vida. Jedan je hvaljen, kao lepota koja se opaža vidom; drugi je koristan."
   },
   {
+    "id": "mm-001466",
     "type": "quote",
     "author": "Plato",
     "originalText": "Ἡ εὐεργεσία διαιρεῖται εἰς τέτταρα· ἢ γὰρ χρήμασιν ἢ σώμασιν ἢ ταῖς ἐπιστήμαις ἢ τοῖς λόγοις.",
@@ -512,6 +551,7 @@
     "sr": "Dobročinstvo se deli na četiri vida: imovinom, telom, znanjem ili rečima."
   },
   {
+    "id": "mm-001467",
     "type": "quote",
     "author": "Plato",
     "originalText": "Διαιρεῖται τὸ τέλος τῶν πραγμάτων εἰς τέτταρα εἴδη· ἓν μὲν κατὰ νόμον τέλος τὰ πράγματα λαμβάνει, ὅταν ψήφισμα γένηται καὶ τοῦθ' ὁ νόμος τελέσῃ· κατὰ φύσιν δὲ τέλος τὰ πράγματα λαμβάνει, ἥ τε ἡμέρα καὶ ὁ ἐνιαυτὸς καὶ αἱ ὧραι. Κατὰ τέχνην δὲ τέλος τὰ πράγματα λαμβάνει, οἷον ἡ οἰκοδομική.",
@@ -525,6 +565,7 @@
     "sr": "Svršetak stvari deli se na četiri vida. Po zakonu stvar se dovršava kada se donese odluka i zakon je izvrši. Po prirodi se dovršavaju dan, godina i godišnja doba; po umeću, na primer, gradnja."
   },
   {
+    "id": "mm-001468",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τῆς φιλανθρωπίας ἐστὶν εἴδη τρία· ἓν μὲν διὰ τῆς προσηγορίας γινόμενον, οἷον ἐν οἷς τινες τὸν ἐντυχόντα πάντα προσαγορεύουσι καὶ τὴν δεξιὰν ἐμβάλλοντες χαιρετίζουσιν. Ἄλλο εἶδος, ὅταν τις βοηθητικὸς ᾖ παντὶ τῷ ἀτυχοῦντι.",
@@ -538,6 +579,7 @@
     "sr": "Čovekoljublje ima tri vida. Prvi se pokazuje pozdravom, kada neko oslovi svakoga koga sretne, pruži mu desnicu i pozdravi ga. Drugi je pomaganje svakome koga zadesi nesreća."
   },
   {
+    "id": "mm-001469",
     "type": "quote",
     "author": "Plato",
     "originalText": "Ἡ εὐδαιμονία διαιρεῖται εἰς πέντε μέρη· ἡ μὲν γὰρ αὐτῆς ἐστιν εὐβουλία, ἕτερον δὲ εὐαισθησία καὶ ὑγίεια τοῦ σώματος, τρίτον εὐτυχία ἐν ταῖς πράξεσι, τέταρτον εὐδοξία παρὰ τοῖς ἀνθρώποις, πέμπτον εὐπορία χρημάτων καὶ τῶν εἰς τὸν βίον χρησίμων.",
@@ -551,6 +593,7 @@
     "sr": "Blagočest se deli na pet delova: dobro rasuđivanje, valjana čula i zdravlje tela, uspeh u delima, dobar glas među ljudima i obilje novca i onoga što je potrebno za život."
   },
   {
+    "id": "mm-001470",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τὸ ἀγαθὸν εἰς τέτταρα γένη διαιρεῖται· ὧν ἓν μὲν λέγομεν εἶναι τὸν τὴν ἀρετὴν ἔχοντα ἰδίᾳ ἀγαθόν· ἄλλο δὲ αὐτὴν τὴν ἀρετὴν καὶ τὴν δικαιοσύνην λέγομεν ἀγαθὸν εἶναι· τρίτον δέ, οἷον σιτία καὶ γυμνάσια τὰ πρόσφορα καὶ φάρμακα.",
@@ -564,6 +607,7 @@
     "sr": "Dobro se deli na četiri roda. Prvo, dobrim po sebi nazivamo onoga ko ima vrlinu. Drugo, dobrima nazivamo samu vrlinu i pravednost. Trećem rodu pripadaju odgovarajuća hrana, vežbe i lekovi."
   },
   {
+    "id": "mm-001471",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τῶν ὄντων τὰ μέν ἐστι κακά, τὰ δὲ ἀγαθά, τὰ δὲ οὐδέτερα. Τούτων κακὰ μὲν ταῦτα λέγομεν, τὰ δυνάμενα βλάπτειν ἀεί, οἷον ἀκρισίαν καὶ ἀφροσύνην καὶ ἀδικίαν καὶ τὰ τοιαῦτα· τὰ δὲ τούτοις ἐναντία ἀγαθά ἐστι.",
@@ -577,6 +621,7 @@
     "sr": "Među postojećim neka su zla, neka dobra, a neka ni jedno ni drugo. Zlima nazivamo ona koja uvek mogu škoditi, kao što su nerazboritost, bezumlje, nepravda i slično; njihove suprotnosti su dobra."
   },
   {
+    "id": "mm-001472",
     "type": "quote",
     "author": "Plato",
     "originalText": "Εὐνομία διαιρεῖται εἰς τρία· ἓν μέν, ἐὰν ὦσιν οἱ νόμοι σπουδαῖοι, εὐνομίαν φαμὲν εἶναι· ἕτερον δέ, ἐὰν τοῖς κειμένοις νόμοις ἐμμένωσιν οἱ πολῖται, καὶ τοῦτό φαμεν εὐνομίαν εἶναι· τρίτον δέ, ἐὰν μὴ ὄντων [τῶν] νόμων κατὰ ἔθη καὶ ἐπιτηδεύματα χρηστῶς πολιτεύωνται.",
@@ -590,6 +635,7 @@
     "sr": "Blagozakonje se deli na tri vida: kada su zakoni valjani; kada se građani drže postavljenih zakona; i kada se, bez pisanih zakona, dobro upravlja prema običajima i ustaljenim postupcima."
   },
   {
+    "id": "mm-001473",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τῶν ἀγαθῶν γένη ἐστὶ τρία· τὰ μὲν γάρ ἐστιν ἑκτά, τὰ δὲ μεθεκτά, τὰ δὲ ὑπαρκτά. Τὰ μὲν οὖν ἑκτά ἐστιν, ὅσα ἐνδέχεται ἔχειν, οἷον ἡ δικαιοσύνη καὶ ἡ ὑγίεια.",
@@ -603,6 +649,7 @@
     "sr": "Tri su roda dobara: ona koja se mogu posedovati, ona u kojima se može učestvovati i ona koja nečemu pripadaju. Posedovati se mogu, na primer, pravednost i zdravlje."
   },
   {
+    "id": "mm-001474",
     "type": "quote",
     "author": "Plato",
     "originalText": "Τῶν ὄντων τὰ μέν ἐστι καθ' ἑαυτά, τὰ δὲ πρός τι λέγεται. Τὰ μὲν οὖν καθ' ἑαυτὰ λεγόμενά ἐστιν ὅσα ἐν τῇ ἑρμηνείᾳ μηδενὸς προσδεῖται· ταῦτα δ' ἂν εἴη οἷον ἄνθρωπος, ἵππος καὶ τἆλλα ζῷα.",
@@ -616,6 +663,7 @@
     "sr": "Među postojećim neka se kazuju po sebi, a neka u odnosu prema nečemu. Po sebi se kazuju ona kojima u objašnjenju ništa drugo nije potrebno, poput čoveka, konja i ostalih životinja."
   },
   {
+    "id": "mm-001475",
     "type": "anecdote",
     "originalText": "Ἀθήνησιν ἦν λόγος, ὡραίαν οὖσαν τὴν Περικτιόνην βιάζεσθαι τὸν Ἀρίστωνα καὶ μὴ τυγχάνειν· παυόμενόν τε τῆς βίας ἰδεῖν τὴν τοῦ Ἀπόλλωνος ὄψιν· ὅθεν καθαρὰν γάμου φυλάξαι ἕως τῆς ἀποκυήσεως.",
     "author": "Plato",
@@ -630,6 +678,7 @@
     "sr": "U Atini se pripovedalo da je Ariston pokušao da obljubi lepu Periktionu silom, ali nije uspeo. Kada je odustao od sile, video je Apolonov lik, pa ju je do porođaja čuvao čistom od bračne zajednice."
   },
   {
+    "id": "mm-001476",
     "type": "anecdote",
     "author": "Plato",
     "year": -386,
@@ -644,6 +693,7 @@
     "sr": "Favorin kaže da je samo Aristotel ostao uz Platona dok je čitao O duši, a svi ostali su ustali."
   },
   {
+    "id": "mm-001477",
     "type": "works",
     "author": "Plato",
     "originalText": "Εὐφορίων δὲ καὶ Παναίτιος εἰρήκασι πολλάκις ἐστραμμένην εὑρῆσθαι τὴν ἀρχὴν τῆς Πολιτείας. Ἔνιοί τε φασὶν ὅτι Φίλιππος ὁ Ὀπούντιος τοὺς Νόμους αὐτοῦ μετέγραψεν ὄντας ἐν κηρῷ.",
@@ -657,6 +707,7 @@
     "sr": "Euforion i Panejcije kažu da je početak Države pronađen više puta prerađen. Neki kažu da je Filip iz Opunta prepisao njegove Zakone, koji su bili zapisani na vosku."
   },
   {
+    "id": "mm-001478",
     "type": "works",
     "author": "Plato",
     "originalText": "Λόγος δὲ πρῶτον γράψαι αὐτὸν τὸν Φαῖδρον.",
@@ -670,6 +721,7 @@
     "sr": "Pripoveda se da je Fedra napisao prvog."
   },
   {
+    "id": "mm-001479",
     "type": "anecdote",
     "originalText": "Σωκράτης ὄναρ εἶδε κύκνου νεοττὸν ἐν τοῖς γόνασιν ἔχειν, ὃν καὶ παραχρῆμα πτεροφυήσαντα ἀναπτῆναι ἡδὺ κλάγξαντα· καὶ μεθ' ἡμέραν Πλάτωνα αὐτῷ συστῆναι, τὸν δὲ τοῦτον εἰπεῖν εἶναι τὸν ὄρνιν.",
     "author": "Plato",
@@ -684,6 +736,7 @@
     "sr": "Sokrat je u snu video mladog labuda na svojim kolenima; ovaj se odmah operjao, uzleteo i slatko zakliktao. Sutradan mu dovedoše Platona, a Sokrat reče: To je ona ptica."
   },
   {
+    "id": "mm-001480",
     "type": "anecdote",
     "originalText": "Πλάτων καὶ τὰ Σώφρονος τοῦ μιμογράφου βιβλία ἠμελημένα πρῶτος εἰς Ἀθήνας διακομίσαι καὶ ἠθοποιῆσαι πρὸς αὐτόν· ἃ καὶ εὑρεθῆναι ὑπὸ τῇ κεφαλῇ αὐτοῦ.",
     "author": "Plato",
@@ -698,6 +751,7 @@
     "sr": "Platon je prvi doneo u Atinu zaboravljene knjige mimografa Sofrona i prema njima oblikovao karaktere. Posle smrti pronađene su mu pod glavom."
   },
   {
+    "id": "mm-001481",
     "type": "anecdote",
     "originalText": "μέλλων ἀγωνιεῖσθαι τραγῳδίᾳ πρὸ τοῦ Διονυσιακοῦ θεάτρου Σωκράτους ἀκούσας κατέφλεξε τὰ ποιήματα εἰπών· Ἥφαιστε, πρόμολ' ὧδε· Πλάτων νύ τι σεῖο χατίζει. Τοὐντεῦθεν δὴ γεγονώς, φασίν, εἴκοσιν ἔτη διήκουσε Σωκράτους.",
     "author": "Plato",
@@ -712,6 +766,7 @@
     "sr": "Nameravajući da se nadmeće tragedijom pred Dionisovim pozorištem, Platon je čuo Sokrata i spalio svoje pesme rekavši: Hefeste, dođi ovamo; Platon te sada treba. Od tada je, imajući dvadeset godina, slušao Sokrata."
   },
   {
+    "id": "mm-001482",
     "type": "bio",
     "originalText": "ἐκείνου δ' ἀπελθόντος προσεῖχε Κρατύλῳ τε τῷ Ἡρακλειτείῳ καὶ Ἑρμογένει τῷ τὰ Παρμενίδου φιλοσοφοῦντι. Εἶτα εἰς Μέγαρα πρὸς Εὐκλείδην σὺν καὶ ἄλλοις τισὶ Σωκρατικοῖς ὑπεχώρησεν. Ἔπειτα εἰς Κυρήνην ἀπῆλθε πρὸς Θεόδωρον τὸν μαθηματικόν· κἀκεῖθεν εἰς Ἰταλίαν πρὸς τοὺς Πυθαγορικοὺς Φιλόλαον καὶ Εὔρυτον. Ἔνθεν τε εἰς Αἴγυπτον παρὰ τοὺς προφήτας· οὗ φασι αὐτόθι νοσήσαντα πρὸς τῶν ἱερέων ἀπολυθῆναι τῇ διὰ θαλάττης θεραπείᾳ· ὅθεν που καὶ εἰπεῖν· Θάλασσα κλύζει πάντα τἀνθρώπων κακά.",
     "author": "Plato",
@@ -726,6 +781,7 @@
     "sr": "Posle Sokratove smrti priklonio se Heraklitovcu Kratilu i Hermogenu, koji je filozofirao prema Parmenidu. Zatim je sa drugim sokratovcima otišao Eukleidu u Megaru, potom matematičaru Teodoru u Kirenu, pitagorejcima Filolaju i Euritu u Italiju i prorocima u Egipat. Ondе se, kažu, razboleo, a sveštenici su ga izlečili morskom terapijom, pa reče: More ispira sva ljudska zla."
   },
   {
+    "id": "mm-001483",
     "type": "bio",
     "author": "Plato",
     "year": -366,
@@ -740,6 +796,7 @@
     "sr": "Drugi put je došao mlađem Dionisiju, tražeći zemlju i ljude koji bi živeli prema njegovom državnom uređenju. Dionisije je obećao, ali nije ispunio. Neki kažu da je Platon dospeo u opasnost zato što je Diona i Teodota podsticao da oslobode ostrvo. Tada je pitagorejac Arhita pisao Dionisiju, izmolio Platona i bezbedno ga vratio u Atinu."
   },
   {
+    "id": "mm-001484",
     "type": "reported",
     "author": "Plato",
     "originalText": "Διαλεκτικὴν δὲ πρῶτον εἰσηγήσασθαι Πλάτωνα, ὡς Φαβωρῖνός φησιν ἐν Παντοδαπῇ ἱστορίᾳ.",
@@ -753,6 +810,7 @@
     "sr": "Favorin u Raznolikoj istoriji kaže da je Platon prvi uveo razgovorstvo."
   },
   {
+    "id": "mm-001485",
     "type": "anecdote",
     "author": "Plato",
     "year": -383,
@@ -767,6 +825,7 @@
     "sr": "Izgleda da ni Ksenofont nije bio blagonaklon prema Platonu. Kao da su se nadmetali, obojica su napisali Gozbu, Sokratovu odbranu i moralna sećanja."
   },
   {
+    "id": "mm-001486",
     "type": "anecdote",
     "author": "Plato",
     "year": -378,
@@ -781,10 +840,10 @@
     "sr": "Kada je Antisten nameravao da čita nešto od svojih spisa, pozvao je Platona. Platon ga upita šta će čitati, a on odgovori: O tome da protivrečenje ne postoji. Platon reče: Kako onda pišeš baš o tome?"
   },
   {
+    "id": "mm-001487",
     "type": "anecdote",
-    "year": -399,
-    "author": "Plato",
     "year": -407,
+    "author": "Plato",
     "originalText": "Φασὶ δὲ καὶ Σωκράτην ἀκούσαντα τὸν Λύσιν ἀναγιγνώσκοντος Πλάτωνος, « Ἡράκλεις, » εἰπεῖν, « ὡς πολλά μου καταψεύδεθ' ὁ νεανίσκος. »",
     "sources": [
       {
@@ -796,6 +855,7 @@
     "sr": "Kažu da je Sokrat, čuvši Platona kako čita Lisida, rekao: Herakle, koliko taj mladić laže o meni!"
   },
   {
+    "id": "mm-001488",
     "type": "reported",
     "author": "Plato",
     "originalText": "Ὁ γοῦν Πλάτων λέγεται θεασάμενός τινα κυβεύοντα αἰτιάσασθαι· τοῦ δὲ εἰπόντος ὡς ἐπὶ μικροῖς, « Ἀλλὰ τό γ' ἔθος, » εἰπεῖν, « οὐ μικρόν. »",
@@ -809,6 +869,7 @@
     "sr": "Kaže se da je Platon ukorio nekoga koga je video da se kocka. Ovaj reče: Igram za sitnicu. Platon odgovori: Ali navika nije sitnica."
   },
   {
+    "id": "mm-001489",
     "type": "anecdote",
     "author": "Plato",
     "year": -368,
@@ -823,6 +884,7 @@
     "sr": "Kada je jednom ušao Ksenokrat, Platon mu reče da išiba slugu, jer sam to nije mogao učiniti dok je ljut."
   },
   {
+    "id": "mm-001490",
     "type": "anecdote",
     "author": "Plato",
     "year": -363,
@@ -837,6 +899,7 @@
     "sr": "Pošto je uzjahao konja, odmah je sišao rekavši da se boji da ga ne obuzme konjska oholost."
   },
   {
+    "id": "mm-001491",
     "type": "bio",
     "author": "Plato",
     "year": -410,
@@ -851,6 +914,7 @@
     "sr": "Vežbao je kod argivskog rvača Aristona, po kome je zbog snažne građe prozvan Platon; ranije se po dedi zvao Aristokle. Neki kažu da je tako prozvan zbog širine izraza, a drugi zato što je imao široko čelo."
   },
   {
+    "id": "mm-001492",
     "type": "bio",
     "author": "Plato",
     "year": -409,
@@ -865,6 +929,7 @@
     "sr": "Neki kažu da se na Istamskim igrama takmičio u rvanju, da se bavio slikarstvom i pisao pesme: najpre ditirambe, potom lirske pesme i tragedije."
   },
   {
+    "id": "mm-001493",
     "type": "anecdote",
     "author": "Plato",
     "year": -353,
@@ -879,6 +944,7 @@
     "sr": "Jedini se među Atinjanima javno zauzeo za vojskovođu Habriju kada mu se sudilo. Dok je s njim ulazio u sudnicu, potkazivač Aristogiton reče: Zar ne znaš da si već popio Sokratovu kukutu? Platon odgovori: Za otadžbinu sam svojevoljno podnosio opasnosti; podneću ih i za prijatelja."
   },
   {
+    "id": "mm-001494",
     "type": "bio",
     "author": "Plato",
     "year": -348,

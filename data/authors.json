@@ -216,12 +216,13 @@
     "originalText": "Μητροκλῆς",
     "birthplace": "Maroneia"
   },
-  "Hipparchia": {
+  "Hiparhija": {
     "src": "/images/authors/Hipparchia.webp",
     "born": -350,
     "died": -280,
     "originalText": "Ἱππαρχία",
-    "birthplace": "Maroneia"
+    "birthplace": "Maroneia",
+    "wikipediaSlug": "Hipparchia_of_Maroneia"
   },
   "Zeno of Citium": {
     "src": "/images/authors/Zeno_of_Citium.jpg",
@@ -321,12 +322,13 @@
     "originalText": "Ἐπιμενίδης",
     "birthplace": "Cnossos"
   },
-  "Pherecydes": {
+  "Ferekid": {
     "src": "/images/authors/Pherecydes_of_Syros.jpg",
     "born": -580,
     "died": -540,
     "originalText": "Φερεκύδης",
-    "birthplace": "Syros"
+    "birthplace": "Syros",
+    "wikipediaSlug": "Pherecydes_of_Syros"
   },
   "Menedemus": {
     "src": "/images/authors/unknown-author.svg",

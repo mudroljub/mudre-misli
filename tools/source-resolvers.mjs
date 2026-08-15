@@ -16,44 +16,8 @@ const romanToNumber = {
   XII: 12,
 }
 
-const getDiogenesElFileForBook = bookNumber =>
-  `data/sources/diogenes-laertius/el/${String(bookNumber + 1).padStart(2, '0')}.txt`
-
-const createDiogenesLaertiusResolver = rootDir => {
-  const sourceIndexCache = new Map()
-
-  const loadSectionLineIndex = async bookNumber => {
-    if (sourceIndexCache.has(bookNumber)) {
-      return sourceIndexCache.get(bookNumber)
-    }
-
-    const relFile = getDiogenesElFileForBook(bookNumber)
-    const content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
-    const lines = content.split(/\r?\n/)
-    const lineBySection = new Map()
-
-    for (let index = 0; index < lines.length; index += 1) {
-      const line = lines[index].trim()
-
-      if (!line || !/^\d/.test(line)) continue
-
-      const digits = line.match(/^\d+/)
-      if (!digits) continue
-
-      const section = Number(digits[0])
-
-      if (!lineBySection.has(section)) {
-        lineBySection.set(section, index + 1)
-      }
-    }
-
-    const sourceIndex = { lineBySection, lines }
-    sourceIndexCache.set(bookNumber, sourceIndex)
-
-    return sourceIndex
-  }
-
-  return async (reference, _author, originalText) => {
+const createDiogenesLaertiusResolver = () =>
+  async reference => {
     const normalized = String(reference || '').trim()
     if (!normalized) return null
 
@@ -68,54 +32,19 @@ const createDiogenesLaertiusResolver = rootDir => {
       return null
     }
 
-    const relFile = getDiogenesElFileForBook(bookNumber)
-    const { lineBySection, lines } = await loadSectionLineIndex(bookNumber)
-    let selectedSection = sectionNumber
+    const passage = endSectionNumber > sectionNumber
+      ? `${bookNumber}.${sectionNumber}-${endSectionNumber}`
+      : `${bookNumber}.${sectionNumber}`
 
-    if (endSectionNumber > sectionNumber && originalText) {
-      const tokens = String(originalText)
-        .match(/[\p{L}\p{M}]+/gu)
-        ?.filter(token => token.length >= 5)
-        .map(token => token.normalize('NFC').toLocaleLowerCase('el')) ?? []
-      let bestScore = -1
-
-      for (let section = sectionNumber; section <= endSectionNumber; section += 1) {
-        const startLine = lineBySection.get(section)
-        if (!startLine) continue
-
-        const nextLines = [...lineBySection.entries()]
-          .filter(([number]) => number > section)
-          .map(([, line]) => line)
-        const endLine = nextLines.length ? Math.min(...nextLines) - 1 : lines.length
-        const sectionText = lines
-          .slice(startLine - 1, endLine)
-          .join('\n')
-          .normalize('NFC')
-          .toLocaleLowerCase('el')
-        const score = tokens.reduce(
-          (sum, token) => sum + (sectionText.includes(token) ? 1 : 0),
-          0,
-        )
-
-        if (score > bestScore) {
-          bestScore = score
-          selectedSection = section
-        }
-      }
-    }
-
-    const line = lineBySection.get(selectedSection)
-
-    return line ? `${relFile}:${line}` : null
+    return `data/sources/diogenes-laertius/diogenes-laertius.xml#${passage}`
   }
-}
 
 const walterBurleyAuthorFiles = {
   'Bias of Priene': 'bias',
   'Chilon of Sparta': 'chilon',
   'Crates of Thebes': 'crates',
   Diogenes: 'diogenes_cynicus',
-  Pherecydes: 'pherecides',
+  Ferekid: 'pherecides',
   'Zeno of Citium': 'zeno_citieus',
   'Zeno of Elea': 'zeno_eleates',
 }
@@ -141,11 +70,148 @@ const createWalterBurleyResolver = rootDir =>
     }
   }
 
-const createHermannDielsResolver = () =>
-  async () => null
+const hermannDielsAuthorFiles = {
+  Anaximenes: '03-Anaximenes.txt',
+  Xenophanes: '11-Xenophanes.txt',
+  Heraclitus: '12-Heraclitus.txt',
+  Parmenides: '18-Parmenides.txt',
+  'Zeno of Elea': '19-Zeno.txt',
+  Empedocles: '21-Empedocles.txt',
+  Anaxagoras: '46-Anaxagoras.txt',
+}
+
+const createHermannDielsResolver = rootDir => {
+  const cache = new Map()
+
+  const loadAuthorSection = async filename => {
+    if (cache.has(filename)) return cache.get(filename)
+
+    const relFile = `data/sources/hermann-diels/philosophers/${filename}`
+    const content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
+    const lines = content.split(/\r?\n/)
+    const fragmentStart = lines.findIndex(line => /B\.\s*FRAGMENTE/i.test(line))
+    const section = { relFile, lines, fragmentStart }
+    cache.set(filename, section)
+    return section
+  }
+
+  return async (reference, author, originalText) => {
+    const filename = hermannDielsAuthorFiles[author]
+    if (!filename || !originalText) return null
+
+    const { relFile, lines, fragmentStart } = await loadAuthorSection(filename)
+    if (fragmentStart < 0) return null
+
+    const tokens = [...new Set(
+      String(originalText)
+        .match(/[\p{L}\p{M}]+/gu)
+        ?.filter(token => token.length >= 5)
+        .sort((a, b) => b.length - a.length) ?? [],
+    )]
+    if (!tokens.length) return null
+
+    const fragmentNumber = String(reference).match(/(?:^|\s)B\.?\s*(\d+[a-z]?)/i)?.[1]
+    let searchStart = fragmentStart
+    let searchEnd = lines.length
+
+    if (fragmentNumber) {
+      const marker = new RegExp(`^\\s*${fragmentNumber.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\\[`, 'i')
+      const markerIndex = lines.findIndex((line, index) => index >= fragmentStart && marker.test(line))
+      if (markerIndex >= 0) {
+        searchStart = markerIndex
+        const nextMarker = lines.findIndex(
+          (line, index) => index > markerIndex && /^\s*\d+[a-z]?\s*\[/i.test(line),
+        )
+        searchEnd = nextMarker >= 0 ? nextMarker : lines.length
+      }
+    }
+
+    const loweredTokens = tokens.map(token => token.normalize('NFC').toLocaleLowerCase('el'))
+    const minimumScore = Math.max(2, Math.ceil(loweredTokens.length * 0.2))
+    let best = null
+
+    for (let index = searchStart; index < searchEnd; index += 1) {
+      const window = lines
+        .slice(index, Math.min(index + 7, searchEnd))
+        .join('\n')
+        .normalize('NFC')
+        .toLocaleLowerCase('el')
+      const score = loweredTokens.reduce(
+        (total, token) => total + (window.includes(token) ? 1 : 0),
+        0,
+      )
+
+      if (score > (best?.score ?? 0)) best = { index, window, score }
+    }
+
+    if (!best || best.score < minimumScore) return null
+
+    const matchingTokenIndex = loweredTokens.findIndex(token => best.window.includes(token))
+    if (matchingTokenIndex < 0) return null
+
+    const token = tokens[matchingTokenIndex]
+    const lowerToken = loweredTokens[matchingTokenIndex]
+
+    for (let index = best.index; index < Math.min(best.index + 7, searchEnd); index += 1) {
+      const normalizedLine = lines[index].normalize('NFC')
+      const anchorIndex = normalizedLine.toLocaleLowerCase('el').indexOf(lowerToken)
+      if (anchorIndex < 0) continue
+
+      const anchor = normalizedLine.slice(anchorIndex, anchorIndex + token.length)
+      return `${relFile}:${index + 1}#${anchor}`
+    }
+
+    return null
+  }
+}
+
+const createPlutarchStephanusResolver = (rootDir, relFile) => {
+  let lineByPage = null
+
+  const loadLineIndex = async () => {
+    if (lineByPage) return lineByPage
+
+    const content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
+    const lines = content.split(/\r?\n/)
+    lineByPage = new Map()
+
+    for (let index = 0; index < lines.length; index += 1) {
+      const matches = lines[index].matchAll(
+        /<milestone\b[^>]*\bunit="stephpage"[^>]*\bn="([^"]+)"|<milestone\b[^>]*\bn="([^"]+)"[^>]*\bunit="stephpage"/gi,
+      )
+
+      for (const match of matches) {
+        const page = String(match[1] ?? match[2]).toLowerCase()
+        if (!lineByPage.has(page)) lineByPage.set(page, index + 1)
+      }
+    }
+
+    return lineByPage
+  }
+
+  return async reference => {
+    const stephanusPage = String(reference || '')
+      .match(/\b(\d{3,4}[a-f])\b/i)?.[1]
+      ?.toLowerCase()
+    if (!stephanusPage) return null
+
+    const index = await loadLineIndex()
+    const line = index.get(stephanusPage)
+
+    return line ? `${relFile}:${line}` : null
+  }
+}
 
 export const createSourceResolvers = rootDir => ({
-  'diogenes-laertius': createDiogenesLaertiusResolver(rootDir),
+  'diogenes-laertius': createDiogenesLaertiusResolver(),
   'walter-burley': createWalterBurleyResolver(rootDir),
   'hermann-diels': createHermannDielsResolver(rootDir),
+  plutarch: createPlutarchStephanusResolver(
+    rootDir,
+    'data/sources/plutarch/septem-sapientium-convivium.xml',
+  ),
+  'plutarch-against-colotes': createPlutarchStephanusResolver(
+    rootDir,
+    'data/sources/plutarch/adversus-colotem.xml',
+  ),
 })

@@ -1,0 +1,47 @@
+{
+  "source": "Internet Archive / University of Michigan",
+  "author": "Joannes Stobaeus",
+  "title": "Anthologium",
+  "edition": "Curt Wachsmuth and Otto Hense, Ioannis Stobaei Anthologium, five textual volumes, Weidmann, 1884–1912",
+  "language": "grc",
+  "format": "scanned PDF",
+  "license": "Public domain",
+  "files": [
+    {
+      "volume": 1,
+      "contents": "Eclogae physicae et ethicae, libri duo priores 1",
+      "file": "anthologium-vol-1.pdf",
+      "downloadUrl": "https://archive.org/download/adw8682.0001.001.umich.edu/adw8682.0001.001.umich.edu.pdf",
+      "sha256": "AC4F8F7DA01B4F84EB7004D573879FF10EB74AF062E77EF65547E1254D15A627"
+    },
+    {
+      "volume": 2,
+      "contents": "Eclogae physicae et ethicae, libri duo priores 2",
+      "file": "anthologium-vol-2.pdf",
+      "downloadUrl": "https://archive.org/download/adw8682.0002.001.umich.edu/adw8682.0002.001.umich.edu.pdf",
+      "sha256": "019C8298D0C0545E71F905A68D749D58F488B29BDE8583BBE80C919407926C5F"
+    },
+    {
+      "volume": 3,
+      "contents": "Florilegium, libri duo posteriores 1",
+      "file": "anthologium-vol-3.pdf",
+      "downloadUrl": "https://archive.org/download/adw8682.0003.001.umich.edu/adw8682.0003.001.umich.edu.pdf",
+      "sha256": "96DAC220BFCA98E735A6100CA3E5FB1D8D665ECFCEDB6BDAB1767756FB93CFB1"
+    },
+    {
+      "volume": 4,
+      "contents": "Florilegium, libri duo posteriores 2",
+      "file": "anthologium-vol-4.pdf",
+      "downloadUrl": "https://archive.org/download/adw8682.0004.001.umich.edu/adw8682.0004.001.umich.edu.pdf",
+      "sha256": "E345E51EC3C9F16317540482975F0B95DF3E61D4757D4E1B2B8F8B16AC63F5EB"
+    },
+    {
+      "volume": 5,
+      "contents": "Florilegium, libri duo posteriores 3",
+      "file": "anthologium-vol-5.pdf",
+      "downloadUrl": "https://archive.org/download/adw8682.0005.001.umich.edu/adw8682.0005.001.umich.edu.pdf",
+      "sha256": "BDB5A43F0939DE1208F9640FB3091D079343B4A4C33D08F955A0920D3F3E3BAA"
+    }
+  ],
+  "notes": "Sačuvano je svih pet tekstualnih tomova; šesti tom iz 1923. jeste indeks i nije deo izvornog teksta. Skenovi nisu pouzdan mašinski tekst, pa pointer treba da navodi tom i štampanu stranicu."
+}

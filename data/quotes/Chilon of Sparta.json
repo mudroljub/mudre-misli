@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-000402",
     "type": "bio",
     "year": -600,
     "sr": "Hilon, sin Damagetov, Lakedemonjanin.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-000403",
     "type": "anecdote",
     "year": -558,
     "sr": "Kako se kaže u prvoj knjizi Polikrata, bio je poslat u Korint radi sklapanja saveza. Ondje je zatekao vođe i starešine naroda kako se kockaju. Zato se, ne obavivši posao, vratio govoreći da neće dopustiti da se vrlina Spartanaca, proslavljena osnivanjem Vizantija, ukalja sramotom da se govori kako je sklopio savez s kockarima.",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-000404",
     "type": "works",
     "sr": "Sastavio je elegije u dve stotine redaka.",
     "stsl": "Сътвори елегіꙗ въ двѣстѣхъ рѧдъкъ ·",
@@ -41,6 +44,7 @@
     ]
   },
   {
+    "id": "mm-000405",
     "type": "reported",
     "sr": "Govorio je da je vrlina muža predviđati budućnost koliko se ona može dokučiti rasuđivanjem.",
     "stsl": "Глаголааше · ꙗко добродѣтель мѫжа єсть прѣдвидѣти бѫдѫштеє · єлико словеніємъ поѩти сѧ можеть ·",
@@ -54,6 +58,7 @@
     ]
   },
   {
+    "id": "mm-000406",
     "type": "anecdote",
     "year": -556.7,
     "sr": "Bratu, koji je negodovao što nije postao efor kao Hilon, reče: Ja znam podnositi nepravdu, a ti ne.",
@@ -68,6 +73,7 @@
     ]
   },
   {
+    "id": "mm-000407",
     "type": "bio",
     "year": -556.8,
     "sr": "Bio je efor oko pedeset šeste olimpijade.",
@@ -82,6 +88,7 @@
     ]
   },
   {
+    "id": "mm-000408",
     "type": "bio",
     "year": -556.6,
     "sr": "Pamfila kaže da je to bilo u šestoj olimpijadi, a Sosikrat da je prvi put postao efor za Eutidema.",
@@ -96,6 +103,7 @@
     ]
   },
   {
+    "id": "mm-000409",
     "type": "bio",
     "year": -556.5,
     "sr": "Prvi je predložio da se efori pridruže kraljevima; Satir pak kaže da je to učinio Likurg.",
@@ -110,6 +118,7 @@
     ]
   },
   {
+    "id": "mm-000410",
     "type": "anecdote",
     "year": -604,
     "sr": "Kako kaže Herodot u prvoj knjizi, dok je Hipokrat prinosio žrtvu u Olimpiji, kotlovi su sami od sebe proključali. Hilon mu je savetovao ili da se ne ženi, ili, ako već ima ženu, da je otpusti i odrekne se dece.",
@@ -124,6 +133,7 @@
     ]
   },
   {
+    "id": "mm-000411",
     "type": "anecdote",
     "year": -570,
     "sr": "Kažu da je pitao Ezopa šta Zevs radi; ovaj odgovori: Visoke ponižava, a niske uzvisuje.",
@@ -138,6 +148,7 @@
     ]
   },
   {
+    "id": "mm-000412",
     "type": "reported",
     "sr": "Upitan po čemu se obrazovani razlikuju od neobrazovanih, odgovori: „Po dobrim nadama.“",
     "stsl": "Въпрошенъ чимь наученіи отъ ненаученꙑхъ различаѭть сѧ · рече · Добрꙑми надѣждами ·",
@@ -151,6 +162,7 @@
     ]
   },
   {
+    "id": "mm-000413",
     "type": "reported",
     "sr": "Upitan šta je teško, odgovori: „Ćutati o tajnama, dobro urediti dokolicu i moći podneti nepravdu.“",
     "stsl": "Въпрошенъ что тѧжько · рече · Таина мълчати · праздьность добрѣ устроити · и неправдѹ терпѣти могѫшти ·",
@@ -164,6 +176,7 @@
     ]
   },
   {
+    "id": "mm-000414",
     "type": "quote",
     "sr": "Vladaj jezikom, naročito na gozbi.",
     "stsl": "Ꙗзꙑкомъ владаи · наипаче же на пирѣ ·",
@@ -177,6 +190,7 @@
     ]
   },
   {
+    "id": "mm-000415",
     "type": "quote",
     "sr": "Ne klevetaj bližnje; inače ćeš čuti ono zbog čega ćeš se rastužiti.",
     "stsl": "Не злослови ближьнѧго · аще ли нѣ · ѹслышиши · о немьже печаловати сѧ бѫдеши ·",
@@ -190,6 +204,7 @@
     ]
   },
   {
+    "id": "mm-000416",
     "type": "quote",
     "sr": "Nikome ne preti; jer je to ženskasto.",
     "stsl": "Никомѹже не прѣти · женско бо єсть ·",
@@ -203,6 +218,7 @@
     ]
   },
   {
+    "id": "mm-000417",
     "type": "quote",
     "sr": "Brže idi prijateljima u nesreći nego u sreći.",
     "stsl": "Скорѣе къ дрѹгомъ въ несрѣтьи ходи · неже ли въ срѣтьи ·",
@@ -216,6 +232,7 @@
     ]
   },
   {
+    "id": "mm-000418",
     "type": "quote",
     "sr": "Sklapaj skroman brak.",
     "stsl": "Бракъ простъ твори ·",
@@ -229,6 +246,7 @@
     ]
   },
   {
+    "id": "mm-000419",
     "type": "quote",
     "sr": "O mrtvome ne govori zlo.",
     "stsl": "О мрътвѣмъ не злослови ·",
@@ -242,6 +260,7 @@
     ]
   },
   {
+    "id": "mm-000420",
     "type": "quote",
     "sr": "Poštuj starost.",
     "stsl": "Старость почитаи ·",
@@ -255,6 +274,7 @@
     ]
   },
   {
+    "id": "mm-000421",
     "type": "quote",
     "sr": "Čuvaj sebe.",
     "stsl": "Себе блюди ·",
@@ -268,6 +288,7 @@
     ]
   },
   {
+    "id": "mm-000422",
     "type": "quote",
     "sr": "Radije izaberi štetu nego sramnu dobit; šteta rastuži jednom, a sramna dobit zauvek.",
     "stsl": "Тъштетѫ паче избери · неже ли срамьнъ прибꙑтъкъ · Она бо единоѭ опечалить · сеи же присно ·",
@@ -281,6 +302,7 @@
     ]
   },
   {
+    "id": "mm-000423",
     "type": "quote",
     "sr": "Ne podsmevaj se nesrećnome.",
     "stsl": "Несрѣтьнѹмѹ не посмѣваи сѧ ·",
@@ -294,6 +316,7 @@
     ]
   },
   {
+    "id": "mm-000424",
     "type": "quote",
     "sr": "Ako si snažan, budi blag, da te bližnji više poštuju nego što te se boje.",
     "stsl": "Силънъ сꙑ · кротъкъ бѫди · да ближьніи паче тѧ почитаѭть · неже ли боѩть сѧ ·",
@@ -307,6 +330,7 @@
     ]
   },
   {
+    "id": "mm-000425",
     "type": "quote",
     "sr": "Nauči dobro upravljati sopstvenim domom.",
     "stsl": "Наѹчи сѧ своимъ домомъ добрѣ владѣти ·",
@@ -320,6 +344,7 @@
     ]
   },
   {
+    "id": "mm-000426",
     "type": "quote",
     "sr": "Ne daj jeziku da pretiče um.",
     "stsl": "Не даи ѩзꙑкѹ прѣтещи ѹма ·",
@@ -333,6 +358,7 @@
     ]
   },
   {
+    "id": "mm-000427",
     "type": "quote",
     "sr": "Vladaj gnevom.",
     "stsl": "Гнѣвомъ владаи ·",
@@ -346,6 +372,7 @@
     ]
   },
   {
+    "id": "mm-000428",
     "type": "quote",
     "sr": "Ne mrzi gatanje.",
     "stsl": "Вѣщаніѧ не ненавиди ·",
@@ -359,6 +386,7 @@
     ]
   },
   {
+    "id": "mm-000429",
     "type": "quote",
     "sr": "Ne želi ono što je nemoguće.",
     "stsl": "Не желаи невъзможьнаго ·",
@@ -372,6 +400,7 @@
     ]
   },
   {
+    "id": "mm-000430",
     "type": "quote",
     "sr": "Na putu ne žuri.",
     "stsl": "На пѫти не спѣши ·",
@@ -385,6 +414,7 @@
     ]
   },
   {
+    "id": "mm-000431",
     "type": "quote",
     "sr": "Ne maši rukama dok govoriš; to je ludački.",
     "stsl": "Глаголѧ рѫками не махаи · безѹмьно бо єсть ·",
@@ -398,6 +428,7 @@
     ]
   },
   {
+    "id": "mm-000432",
     "type": "quote",
     "sr": "Pokoravaj se zakonima.",
     "stsl": "Закономъ покарѧи сѧ ·",
@@ -411,6 +442,7 @@
     ]
   },
   {
+    "id": "mm-000433",
     "type": "quote",
     "sr": "Drži se mirnoće.",
     "stsl": "Тишинꙑ дрьжи сѧ ·",
@@ -424,6 +456,7 @@
     ]
   },
   {
+    "id": "mm-000434",
     "type": "works",
     "sr": "Od njegovih pesama naročito se proslavila ova: Na kamenim brusovima zlato se ispituje, dajući jasan dokaz; a zlatom se ispituje um dobrih i zlih ljudi.",
     "stsl": "Отъ пѣснь єго се наипаче прослави · На каменꙑхъ точилѣхъ злато испꙑтаєть сѧ · ꙗвьно искѹшеніє даѭште · златомъ же ѹмъ добрꙑхъ и злꙑхъ мѫжь испꙑтаєть сѧ ·",
@@ -437,6 +470,7 @@
     ]
   },
   {
+    "id": "mm-000435",
     "type": "anecdote",
     "year": -545,
     "sr": "Kažu da je jednom, već u starosti, rekao da u svom životu nije svestan nijednog protivzakonitog dela, osim što je oko jednog bio u nedoumici. Sudeći jednom u sporu svoga prijatelja, sam je presudio po zakonu, a prijatelja je nagovorio da presudi protiv njega, kako bi sačuvao oboje: i zakon i prijatelja.",
@@ -451,6 +485,7 @@
     ]
   },
   {
+    "id": "mm-000436",
     "type": "anecdote",
     "sr": "Naročito se proslavio među Helenima svojim predskazanjem o lakonskom ostrvu Kitiri. Pošto je razumeo njegov položaj, reče: Da se bar nije ni pojavilo, ili da je, pošto se pojavilo, potonulo.",
     "stsl": "Наипаче же прослави сѧ въ Еллинѣхъ · прѣдрекъ о Кѵтирѣ · островѣ Лаконьстѣмь · Разѹмѣвъ бо єго положеніє · рече · О да не бꙑ бꙑлъ · или бꙑвъ да потонѫлъ бꙑ ·",
@@ -465,6 +500,7 @@
     "year": -550
   },
   {
+    "id": "mm-000437",
     "type": "bio",
     "year": -555,
     "sr": "Bio je kratkorječit.",
@@ -479,6 +515,7 @@
     ]
   },
   {
+    "id": "mm-000438",
     "type": "bio",
     "year": -554,
     "sr": "Zato Aristagora Milećanin ovaj način govora naziva hilonskim.",
@@ -493,6 +530,7 @@
     ]
   },
   {
+    "id": "mm-000439",
     "type": "bio",
     "year": -572,
     "sr": "Bio je već starac oko pedeset druge olimpijade, kada je Ezop, basnopisac, bio na vrhuncu.",
@@ -507,6 +545,7 @@
     ]
   },
   {
+    "id": "mm-000440",
     "type": "bio",
     "year": -520.8,
     "sr": "Umro je u Pisi, zagrlivši sina koji je pobedio u pesničenju na Olimpijskim igrama, kako kaže Hermip.",
@@ -521,6 +560,7 @@
     ]
   },
   {
+    "id": "mm-000441",
     "type": "bio",
     "year": -520.7,
     "sr": "To mu se dogodilo od prevelike radosti i slabosti duboke starosti.",
@@ -535,6 +575,7 @@
     ]
   },
   {
+    "id": "mm-000442",
     "type": "bio",
     "year": -520.6,
     "sr": "Svi koji su bili na svetkovini ispratili su ga s najvećim počastima.",
@@ -549,6 +590,7 @@
     ]
   },
   {
+    "id": "mm-000443",
     "type": "bio",
     "sr": "Na njegovoj statui bilo je napisano: Ovog Hilona rodila je kopljem ovenčana Sparta; među sedmoricom mudraca bio je prvi po mudrosti.",
     "stsl": "На образѣ єго написано бѣ · Сего Хілона копіємь вѣньчана Спарта роди · иже отъ седми мѫдрьць пръвъ бѣ мѫдростиѭ ·",
@@ -562,6 +604,7 @@
     ]
   },
   {
+    "id": "mm-000444",
     "type": "quote",
     "sr": "Daj jemstvo — propast je blizu.",
     "stsl": "Порѫчаи сѧ · погꙑбєль близъ ·",

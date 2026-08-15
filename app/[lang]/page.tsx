@@ -27,12 +27,13 @@ export default function LangPage({ params }: LangPageProps) {
   const quotePool = Array.from({ length: poolSize }, (_, index) => {
     const sourceIndex = Math.floor((index * quotesData.length) / poolSize);
     return quotesData[sourceIndex];
-  }).map(({ _id, type, sr, stsl, author }) => ({
-    _id,
+  }).map(({ id, type, sr, stsl, author, display }) => ({
+    id,
     type,
     sr,
     stsl,
     author,
+    display,
   }));
 
   if (quotePool.length === 0) {

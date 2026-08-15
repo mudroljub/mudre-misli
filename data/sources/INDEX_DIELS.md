@@ -71,10 +71,13 @@ izdanje; ne treba pretpostavljati da se nalaze u postojećem `band1.txt` sloju.
 
 ## Pointeri
 
-Resolver za `hermann-diels` još nije implementiran. Reference poput `B.17`
-ostaju kanonske bibliografske oznake, ali trenutno ne proizvode lokalni pointer.
-Resolver treba dodati tek kada se utvrdi stabilno mapiranje oznake na tačan red
-u odgovarajućem `.txt` fajlu i kada validator može dokazati da anchor postoji.
+Resolver za `hermann-diels` vodi na izdvojeni autorski `.txt` odeljak samo kada
+u delu `B. FRAGMENTE` pronađe tekstualni presek sa poljem `originalText`.
+Pointer sadrži red i stvarni anchor iz lokalnog fajla, a objedinjeni validator
+proverava da oba postoje. Ako autorski odeljak nije lokalno izdvojen ili OCR ne
+daje pouzdan presek, unos ostaje bez pointera umesto da dobije pretpostavljenu
+vezu. Pointer služi navigaciji kroz OCR i nije potvrda kritičke pouzdanosti
+grčkog teksta.
 
 ## Postupak za novi fragment
 
@@ -88,5 +91,5 @@ u odgovarajućem `.txt` fajlu i kada validator može dokazati da anchor postoji.
 Prvi provereni Empedoklov paket povezan je na postojeće unose: B 1, B 2, B 6,
 B 17, B 111, B 112, B 117 i B 129. Kao prvi novi unosi dodati su B 11–16,
 B 25, B 29, B 52, B 55, B 118 i B 124, izuzev terminološki spornog B 8. Ovi
-navodi za sada služe
-kao kanonske oznake izdanja; resolver i pointeri za Dielsa još ne postoje.
+navodi služe kao kanonske oznake izdanja. Pointer nastaje samo kada resolver u
+lokalnom Dielsovom odeljku pronađe dovoljno pouzdan tekstualni presek.

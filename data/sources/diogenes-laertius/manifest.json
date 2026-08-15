@@ -1,63 +1,23 @@
 {
-  "generatedAt": "2026-08-06T00:00:00.000Z",
-  "sourceRoot": "data/sources/diogenes-laertius",
-  "format": "clean-text",
-  "fileCount": 11,
-  "files": [
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/01.txt",
-      "chars": 1050
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/02.txt",
-      "chars": 74040
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/03.txt",
-      "chars": 86642
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/04.txt",
-      "chars": 60564
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/05.txt",
-      "chars": 40115
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/06.txt",
-      "chars": 57388
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/07.txt",
-      "chars": 62084
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/08.txt",
-      "chars": 121080
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/09.txt",
-      "chars": 54347
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/10.txt",
-      "chars": 68630
-    },
-    {
-      "lang": "el",
-      "file": "data/sources/diogenes-laertius/el/11.txt",
-      "chars": 90414
-    }
-  ]
+  "source": "PerseusDL/canonical-greekLit",
+  "author": "Diogenes Laertius",
+  "title": "Lives of Eminent Philosophers",
+  "originalTitle": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων",
+  "edition": "R. D. Hicks, Lives of Eminent Philosophers, two volumes, Harvard University Press / William Heinemann, 1925",
+  "language": "grc",
+  "format": "CTS/EpiDoc TEI XML",
+  "ctsUrn": "urn:cts:greekLit:tlg0004.tlg001.perseus-grc2",
+  "citationDepth": [
+    "book",
+    "chapter",
+    "section"
+  ],
+  "file": "diogenes-laertius.xml",
+  "downloadUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-grc2.xml",
+  "repository": "https://github.com/PerseusDL/canonical-greekLit",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sha256": "4906D973F80E1351FE805C496C34D038BB6139102BE87BC62CE857C084EBAAE8",
+  "fileCount": 1,
+  "notes": "TEI XML je jedini lokalni tekst izvora; pointeri koriste CTS prolaze knjiga.odeljak."
 }

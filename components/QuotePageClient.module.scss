@@ -68,3 +68,68 @@ blockquote.selectedQuote {
   margin-top: 1rem;
   display: inline-block;
 }
+
+.reader {
+  width: min(100%, 72ch);
+  margin: 0 auto;
+  padding: $spacing-md;
+  color: $color-text;
+  background: $color-white;
+
+  @media (min-width: $breakpoint-mobile) {
+    padding: $spacing-xl;
+  }
+}
+
+.readerAuthor {
+  margin: 0 0 $spacing-xs;
+  color: $color-text-light;
+}
+
+.readerText {
+  margin: $spacing-xl 0;
+  font-size: 1.1rem;
+  line-height: 1.8;
+
+  p {
+    margin: 0 0 1.25em;
+    scroll-margin-top: 1rem;
+  }
+}
+
+.readerContents {
+  margin: $spacing-lg 0;
+  padding: $spacing-sm $spacing-md;
+  border: 1px solid $color-border;
+
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  ol {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(3.5rem, 1fr));
+    gap: 0.35rem;
+    margin: $spacing-md 0 0;
+    padding-left: 1.5rem;
+  }
+}
+
+.originalDetails {
+  margin-top: $spacing-xl;
+  padding: $spacing-md;
+  background: rgba(0, 0, 0, 0.02);
+  border-left: 3px solid rgba(0, 0, 0, 0.1);
+
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  > div {
+    margin-top: $spacing-md;
+    line-height: 1.65;
+    white-space: pre-wrap;
+  }
+}

@@ -1,6 +1,12 @@
 # Mudre misli (мѫдрыѩ мысли)
 
-🏛️ Училище Мѫдрости Блатьнограда
+🏛️ Училище Мѫдрости Блатьнограда 
+je zamišljena slovenska filozofska škola iz 9. veka koje se nalazila u
+Blatogradu, jednom od središta panonskih Slovena. Tamo su u to vreme boravili
+Ćirilo (Konstantin Filozof) i Metodije sa 50-ak učenika, a grad je postao
+značajno središte slovenske pismenosti. Ovaj projekat pokušava da dočara kako
+bi izgledale studije filozofije da su Sloveni imali univerzitete u srednjem
+veku i kakav bi bio slovenski učeni jezik toga vremena.
 
 ## Development
 
@@ -20,12 +26,6 @@ npm start
 Glavni TODO nalazi se u [TODO.md](TODO.md).
 
 - šta sa rečju biće? odomaćena je, odnosi se na ono što jeste
-
-Klesanje prevoda:
-- prođi svaku stavke iz RECNIK.md i proveri doslednost sr i stsl prevoda u projektu (za svaki izuzetak pitati).
-- proveriti jel negde ostalo etar i еѳеръ i zameniti ih
-- prođi sve citate i kleši staroslovenski prevod, po pravilima KLESANJE_PREVODA.md, za uzor gledati isus.json i Бытиѥ.pdf
-- prođi sve citate i popravi stil srpskog prevoda, po pravilima PREVODJENJE_NA_SRPSKI.md
 
 ## Izvori
 

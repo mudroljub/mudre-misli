@@ -12,14 +12,26 @@ interface HomeContentProps {
   language: Language;
 }
 
+const HOME_QUOTE_STORAGE_KEY = 'mudre-misli:home-quote-id';
+
 export default function HomeContent({ quotePool, language }: HomeContentProps) {
   const { t } = useTranslations(language);
   const [randomQuote, setRandomQuote] = useState<QuoteCardEntry>(quotePool[0]);
 
   useEffect(() => {
-    // Randomize on client after hydration
+    const storedId = sessionStorage.getItem(HOME_QUOTE_STORAGE_KEY);
+    const storedQuote = quotePool.find((quote) => quote.id === storedId);
+
+    if (storedQuote) {
+      setRandomQuote(storedQuote);
+      return;
+    }
+
+    // Choose once per browser tab so changing the language keeps the quote.
     const randomIndex = Math.floor(Math.random() * quotePool.length);
-    setRandomQuote(quotePool[randomIndex]);
+    const nextQuote = quotePool[randomIndex];
+    setRandomQuote(nextQuote);
+    sessionStorage.setItem(HOME_QUOTE_STORAGE_KEY, nextQuote.id);
   }, [quotePool]);
 
   return (

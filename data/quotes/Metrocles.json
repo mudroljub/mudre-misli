@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-001324",
     "type": "bio",
     "year": -340,
     "sr": "Metrokl je bio brat Hiparhije.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-001325",
     "type": "bio",
     "year": -320,
     "sr": "Najpre je slušao Teofrasta Peripatetika.",
@@ -28,9 +30,10 @@
     ]
   },
   {
+    "id": "mm-001326",
     "type": "anecdote",
     "year": -315,
-    "sr": "Jednom prilikom vežbajući govor, nečujno je ispustio vetar te je od sramote ostao zaključan kod kuće, nameravajući da se izgladni. Kratet je saznao za to, došao je kod njega, posavali jeo grašak, i uveravao ga rečima da nije učinio ništa loše; bilo bi čudo da nije isustio vetare prema prirodi. Konačno, ispuštajući sam vetar, ohrabrio ga je, utešivši ga sličnošću dela. Od tada je slušao Krata i postao sposoban u filozof iji.",
+    "sr": "Jednom prilikom, vežbajući govor, usred izlaganja je ispustio vetar, te je od stida ostao zaključan kod kuće, nameravajući da se izgladni. Kratet je saznao za to, došao je kod njega po pozivu i, pošto je namerno jeo bob, uveravao ga da nije učinio ništa loše; bilo bi čudo da nije ispuštao vetrove prema prirodi. Konačno je i sam ispustio vetar i ohrabrio ga, utešivši ga sličnošću postupka. Od tada je slušao Krata i postao sposoban u filozofiji.",
     "stsl": "Єдиноѭ прілікоѭ вєжбаꙗ говоръ · нєчѹино испѹсти вѣтръ тѣмьже отъ срама оста заключєнъ дома · намѣравлꙗꙗ да сѧ ізгладни · Кратєтъ вѣдѣ то · прііде къ нємѹ · нарочито снѣдъ вовъ · ѹвѣрꙗваашє го словєсꙑ ꙗко нє ѹчини ничтоже зло · чѹдо бо би било ащє нє испѹщашє вѣтрꙑ по єстьствѹ · Наконьць испѹщаꙗ самъ вѣтръ · ѹкрѣпи го · ѹтѣшивъ подобіємь дѣла · Отъ тогда слѹшааше Крата и быстъ способьнъ въ любомѫдріи.",
     "originalText": "τοσοῦτον διέφθαρτο ὥστε ποτὲ μελετῶν καὶ μεταξύ πως ἀποπαρδὼν ὑπ' ἀθυμίας οἴκοι κατάκλειστος ἦν, ἀποκαρτερεῖν βουλόμενος. Μαθὼν δὴ ὁ Κράτης εἰσῆλθε πρὸς αὐτὸν παρακληθεὶς καὶ θέρμους ἐπίτηδες βεβρωκὼς ἔπειθε μὲν αὐτὸν καὶ διὰ τῶν λόγων μηδὲν φαῦλον πεποιηκέναι· τέρας γὰρ ἂν γεγονέναι εἰ μὴ καὶ τὰ πνεύματα κατὰ φύσιν ἀπεκρίνετο· τέλος δὲ καὶ ἀποπαρδὼν ἀνέρρωσεν αὐτόν, ἀφ' ὁμοιότητος τῶν ἔργων παραμυθησάμενος. Τοὐντεῦθεν ἤκουεν αὐτοῦ καὶ ἐγένετο ἀνὴρ ἱκανὸς ἐν φιλοσοφίᾳ.",
     "author": "Metrocles",
@@ -42,10 +45,12 @@
     ]
   },
   {
-    "type": "quote",
-    "sr": "Ovo su slike podzemnih snova.",
-    "stsl": "Сє сѫть образи подзємьныхъ сънъ.",
-    "originalText": "Τάδ' ἔστ' ὀνείρων νερτέρων φαντάσματα.",
+    "id": "mm-001328",
+    "type": "anecdote",
+    "year": -320,
+    "sr": "Spalivši svoja dela, kako kaže Hekaton, izgovarao je: 'Ovo su slike podzemnih snova.' Neki pak kažu da je spalio Teofrastova predavanja govoreći: 'Hefeste, dođi ovamo, Polis te treba.'",
+    "stsl": "Спаливъ своꙗ дѣла · ꙗкоже глаголєть Хєкатонъ · ізговараашє · Сє сѫть образи подзємьныхъ сънъ · Ініи же рєкѫть ꙗко спали Теофрастова прєдаваніꙗ глаголꙗ · Хєфєстє · прііди сѣмо · Полісъ тебє трєбѹєть.",
+    "originalText": "Οὗτος τὰ ἑαυτοῦ συγγράμματα κατακαίων, ὥς φησιν Ἑκάτων ἐν πρώτῳ Χρειῶν, ἐπέλεγε· Τάδ' ἔστ' ὀνείρων νερτέρων φαντάσματα· οἱ δ', ὅτι τὰς Θεοφράστου ἀκροάσεις καταφλέγων ἐπέλεγε, Ἥφαιστε, πρόμολ' ὧδε, πόλις νύ τι σεῖο χατίζει.",
     "author": "Metrocles",
     "sources": [
       {
@@ -55,11 +60,55 @@
     ]
   },
   {
-    "type": "anecdote",
-    "year": -320,
-    "sr": "Spalivši svoja dela, kako kaže Hekaton, izgovarao je: 'Ovo su slike podzemnih snova.' Neki pak kažu da je spalio Teofrastova predavanja govoreći: 'Hefeste, dođi ovamo, Polis te treba.'",
-    "stsl": "Спаливъ своꙗ дѣла · ꙗкоже глаголєть Хєкатонъ · ізговараашє · Сє сѫть образи подзємьныхъ сънъ · Ініи же рєкѫть ꙗко спали Теофрастова прєдаваніꙗ глаголꙗ · Хєфєстє · прііди сѣмо · Полісъ тебє трєбѹєть.",
-    "originalText": "Οὗτος τὰ ἑαυτοῦ συγγράμματα κατακαίων, ὥς φησιν Ἑκάτων ἐν πρώτῳ Χρειῶν, ἐπέλεγε· Τάδ' ἔστ' ὀνείρων νερτέρων φαντάσματα· οἱ δ', ὅτι τὰς Θεοφράστου ἀκροάσεις καταφλέγων ἐπέλεγε, Ἥφαιστε, πρόμολ' ὧδε, πόλις νύ τι σεῖο χατίζει.",
+    "id": "mm-002069",
+    "type": "reported",
+    "sr": "Metrokl je govorio da se neke stvari kupuju novcem, poput kuće, a druge vremenom i trudom, poput obrazovanja.",
+    "stsl": "Метроклъ глаголаше · инꙑ вєщи сребромъ кѹпѹѭтъ сѧ · ꙗкоже домъ · инꙑ же врѣменемъ и прилѣжаниемъ · ꙗкоже ѹчениѥ ·",
+    "originalText": "Οὗτος ἔλεγε τῶν πραγμάτων τὰ μὲν ἀργυρίου ὠνητὰ εἶναι, οἷον οἰκίαν· τὰ δὲ χρόνου καὶ ἐπιμελείας, ὡς παιδείαν.",
+    "author": "Metrocles",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.95"
+      }
+    ]
+  },
+  {
+    "id": "mm-002070",
+    "type": "reported",
+    "sr": "Metrokl je govorio da je bogatstvo štetno ako se njime čovek ne služi dostojno.",
+    "stsl": "Метроклъ глаголаше · богатьство врѣдьно єсть · аще кто имь недостоинѣ пользуѥть сѧ ·",
+    "originalText": "Τὸν πλοῦτον βλαβερόν, εἰ μή τις ἀξίως αὐτῷ χρῷτο.",
+    "author": "Metrocles",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.95"
+      }
+    ]
+  },
+  {
+    "id": "mm-002071",
+    "type": "bio",
+    "year": -280,
+    "sr": "Umro je u starosti, udavivši se.",
+    "stsl": "Въ старости ѹмрѣ · ѹдавивъ сѧ ·",
+    "originalText": "Ἐτελεύτα δὲ ὑπὸ γήρως ἑαυτὸν πνίξας.",
+    "author": "Metrocles",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.95"
+      }
+    ]
+  },
+  {
+    "id": "mm-002072",
+    "type": "bio",
+    "year": -300,
+    "sr": "Njegovi učenici bili su Teombrot i Kleomen. Teombrotov učenik bio je Demetrije Aleksandrijski, a Kleomenovi Timarh Aleksandrijski i Eheklo Efeski; Eheklo je slušao i Teombrota, a njegov učenik bio je Menedem.",
+    "stsl": "Ѹченици єго бѣахѫ Теомвротъ и Клеоменъ · Теомвротовъ ѹченикъ Димитрии Александрьскъ · Клеоменови же Тимархъ Александрьскъ и Ехеклъ Ефесьскъ · Ехеклъ и Теомврота слѹша · єго же ѹченикъ Менедимъ бѣ ·",
+    "originalText": "Μαθηταὶ δ' αὐτοῦ Θεόμβροτος καὶ Κλεομένης, Θεομβρότου Δημήτριος ὁ Ἀλεξανδρεύς, Κλεομένους Τίμαρχος Ἀλεξανδρεὺς καὶ Ἐχεκλῆς Ἐφέσιος· οὐ μὴν ἀλλὰ καὶ Ἐχεκλῆς Θεομβρότου διήκουσεν, οὗ Μενέδημος, περὶ οὗ λέξομεν.",
     "author": "Metrocles",
     "sources": [
       {

@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-001836",
     "type": "bio",
     "sr": "Teofrast, sin Melantin, bio je iz Eresa; otac mu je bio valjar sukna.",
     "stsl": "Тєофрастъ Мелантовъ отъ Ереса бѣ · отъць же єго сѹкно валѧаше ·",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-001837",
     "type": "bio",
     "sr": "Najpre je slušao svoga sugrađanina Alkipa u zavičaju, zatim Platona, pa je prešao kod Aristotela.",
     "stsl": "Пьрвѣє слѹшаше Алкиппа съгражданина въ своемь градѣ · таже Платона · потъомь же прѣиде къ Аристотъелѹ ·",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-001838",
     "type": "bio",
     "sr": "Kada se Aristotel povukao u Halkidu, Teofrast ga je nasledio na čelu škole u 114. olimpijadi.",
     "stsl": "Єгда Аристотъель въ Халкидѫ отъиде · Тєофрастъ єго въ школѣ наслѣди въ сто и четвьртоє на десѧте олимпиадѣ ·",
@@ -42,6 +45,7 @@
     ]
   },
   {
+    "id": "mm-001839",
     "type": "bio",
     "sr": "Po Aristotelovoj smrti Teofrast je, posredstvom Demetrija Falerskog, dobio sopstveni vrt.",
     "stsl": "По смрьти Аристотъелѣ Тєофрастъ · чрезъ Дємєтріꙗ Фалерскаго · свой грѧдъ пріѧтъ ·",
@@ -56,6 +60,7 @@
     ]
   },
   {
+    "id": "mm-001840",
     "type": "quote",
     "sr": "Neobuzdanog konja treba verovati više nego loše sređenoj besedi.",
     "stsl": "Невоздрьжнаго конѧ вѣрнѣє єсть вѣровати · нежели худо съставлѥномѹ слову ·",
@@ -69,6 +74,7 @@
     ]
   },
   {
+    "id": "mm-001841",
     "type": "anecdote",
     "sr": "Kada je Agnonid pokušao da ga tuži za bezbožnost, sam tužilac je skoro bio kažnjen, a Teofrast je, uprkos velikom ugledu, i dalje ostao cenjen u Atini.",
     "stsl": "Єгда Агнонідъ покѹси сѧ на него за безбожіє · самъ тѫжитель почти казни пріѧтъ · а Тєофрастъ · при великѣмъ оуже славѣ · въ Аѳинахъ и паки чьтень бѣ ·",
@@ -83,6 +89,7 @@
     ]
   },
   {
+    "id": "mm-001842",
     "type": "quote",
     "sr": "Ništa drugo osim toga da su mnoge užitke života samo privid; čim počnemo da živimo, eto nas kako umiremo. Nema ništa tako beskorisno kao ljubav prema slavi. Zbogom, i neka vam bude srećno. Ili odbacite moju nauku, koja zahteva mnogo truda, ili se pokažite njenim dostojnim braniteljima, jer ćete steći veliku slavu. U životu je više razočaranja nego koristi. Ali dok više ne mogu da raspravljam o tome šta treba činiti, nastavite s istraživanjem o pravednom životu.",
     "stsl": "Ничтоже ино · токмо сє · ꙗко мнози сладости животъа токмо привидъ сѫть · єгда бо начнемъ жити · се ѹмремъ · Ничтоже тогда тако безполѣзно єсть · ꙗкоже любовь славы · Прощайте · и да бѹдете благополучни · Или ѹчєніє моѥ · єже мьногъ трудъ съвѣтꙋѥть · Отъпадите · или достойныхъ защитникъ сего прѣдъставите · зане великую славѫ пріѹмѣте · Въ животъѣ болѣє разочарованіѩ · нежели полѣзы · Нъ · понеже болѣє не могу глаголати о томъ · что подобаєть дѣлати · вы Дальше изслѣдѹиꙗте о правомъ житіи ·",
@@ -96,100 +103,167 @@
     ]
   },
   {
+    "id": "mm-001843",
     "type": "bio",
     "year": -330,
     "sr": "Teofrast je bio veoma razborit, marljiv, dobrotvoran i učen; bio je učitelj komediografa Menandra.",
     "stsl": "Тєофрастъ вельми разборитъ · трѹдолюбивъ · благотворьнъ и ѹченъ бѣ · Менандра комикотворьца ѹчитель бѣ ·",
     "originalText": "Ὁ δὲ Θεόφραστος γέγονεν ἀνὴρ συνετώτατος καὶ φιλοπονώτατος καί, καθά φησι Παμφίλη, διδάσκαλος Μενάνδρου τοῦ κωμικοῦ· ἄλλως τε καὶ εὐεργετικὸς καὶ φιλόλογος.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.36–37" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.36–37"
+      }
+    ]
   },
   {
+    "id": "mm-001844",
     "type": "bio",
     "year": -315,
     "sr": "Kasandar ga je cenio, Ptolemej ga je pozivao, a na njegova predavanja dolazilo je gotovo dve hiljade učenika.",
     "stsl": "Касандръ єго чьтѧаше · Птолемеи же къ себѣ звааше · на поѹчениѩ єго близъ двѣ тысѫшти ѹченикъ прихождаахѹ ·",
     "originalText": "Κάσσανδρος γοῦν αὐτὸν ἀπεδέχετο καὶ Πτολεμαῖος ἔπεμψεν ἐπ' αὐτόν· ἀπήντων τ' εἰς τὴν διατριβὴν αὐτοῦ μαθηταὶ πρὸς δισχιλίους.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.37" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.37"
+      }
+    ]
   },
   {
+    "id": "mm-001845",
     "type": "bio",
     "year": -306,
     "sr": "Kada je donet zakon da filozof ne sme voditi školu bez odobrenja veća i naroda pod pretnjom smrti, Teofrast je nakratko napustio Atinu sa ostalim filozofima. Zakon je uskoro poništen, a filozofima je dopušten povratak.",
     "stsl": "Єгда законъ положенъ бысть · да любомѫдрьць безъ съвѣта и народа изволениѩ ѹчилиштемъ не владѣєть подъ смрьтною казнию · Тєофрастъ съ прочими любомѫдрьци на мало врѣмѧ Атины остави · Законъ же въскорѣ разоренъ и любомѫдрьцемъ възвратити сѧ повелѣно бысть ·",
     "originalText": "πρὸς ὀλίγον ἀπεδήμησε καὶ οὗτος καὶ πάντες οἱ λοιποὶ φιλόσοφοι, Σοφοκλέους τοῦ Ἀμφικλείδου νόμον εἰσενεγκόντος μηδένα τῶν φιλοσόφων σχολῆς ἀφηγεῖσθαι ἂν μὴ τῇ βουλῇ καὶ τῷ δήμῳ δόξῃ· εἰ δὲ μή, θάνατον εἶναι τὴν ζημίαν. Ἀλλ' αὖθις ἐπανῆλθον εἰς νέωτα.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.38" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.38"
+      }
+    ]
   },
   {
+    "id": "mm-001846",
     "type": "bio",
     "year": -350,
     "sr": "Zvao se Tirtam, a Aristotel ga je zbog božanstvene izražajnosti preimenovao u Teofrasta.",
     "stsl": "Тѵртамъ нарицааше сѧ · Аристотель же божьствьнꙑѩ ради рѣчи Тєофрастомъ єго прѣименова ·",
     "originalText": "Τοῦτον Τύρταμον λεγόμενον Θεόφραστον διὰ τὸ τῆς φράσεως θεσπέσιον Ἀριστοτέλης μετωνόμασεν.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.39" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.39"
+      }
+    ]
   },
   {
+    "id": "mm-001847",
     "type": "anecdote",
     "year": -345,
     "sr": "Aristotel je govorio da Teofrastu, koji je zbog izuzetne oštrine mogao izraziti svaku misao, treba uzda, dok je sporom Kalistenu potreban podstrek.",
     "stsl": "Аристотель глаголааше · ꙗко Тєофрастѹ · иже остроумиѩ ради всѧкѫ мыслъ изрещи можаше · ѹзда подобаєть · медьлѧштомѹ же Калистенѹ острога ·",
     "originalText": "τοῦ μὲν Θεοφράστου καθ' ὑπερβολὴν ὀξύτητος πᾶν τὸ νοηθὲν ἐξερμηνεύοντος, τοῦ δὲ νωθροῦ τὴν φύσιν ὑπάρχοντος, ὡς τῷ μὲν χαλινοῦ δέοι, τῷ δὲ κέντρου.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.39–40" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.39–40"
+      }
+    ]
   },
   {
+    "id": "mm-001848",
     "type": "quote",
     "sr": "Ako si neuk, mudro činiš što ćutiš; ako si obrazovan, nerazumno.",
     "stsl": "Аще неѹченъ єси · мѫдро твориши мълчѧ · аще ли възпитанъ · неразборьно ·",
     "originalText": "Εἰ μὲν ἀμαθὴς εἶ, φρονίμως ποιεῖς, εἰ δὲ πεπαίδευσαι, ἀφρόνως.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.40" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.40"
+      }
+    ]
   },
   {
+    "id": "mm-001849",
     "type": "quote",
     "sr": "Vreme je skupocen trošak.",
     "stsl": "Врѣмѧ драгоцѣнъ трошъкъ єсть ·",
     "originalText": "πολυτελὲς ἀνάλωμα εἶναι τὸν χρόνον.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.40" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.40"
+      }
+    ]
   },
   {
+    "id": "mm-001850",
     "type": "bio",
     "year": -287,
     "sr": "Teofrast je umro u osamdeset petoj godini, pošto je tek malo popustio u radu; u starosti su ga nosili u nosiljci.",
     "stsl": "Тєофрастъ въ осмьдесѧть пѧтѣмь лѣтѣ ѹмрѣ · єгда тъкмо мало отъ трѹда ослаби · въ старости же на носилѣ носимъ бѣ ·",
     "originalText": "Ἐτελεύτα δὴ γηραιός, βιοὺς ἔτη πέντε καὶ ὀγδοήκοντα, ἐπειδήπερ ὀλίγον ἀνῆκε τῶν πόνων. Φαβωρῖνος δέ φησι γηράσαντα αὐτὸν ἐν φορείῳ περιφέρεσθαι.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.40–41" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.40–41"
+      }
+    ]
   },
   {
+    "id": "mm-001851",
     "type": "works",
     "sr": "U testamentu je odredio da se dovrše Muzej i svetilište, postavi Aristotelov lik, obnove trem i oltar, a karte Zemljinih ophoda izlože u donjem tremu. Sve knjige ostavio je Neleju.",
     "stsl": "Въ завѣтѣ повелѣ · да Мѹсеи и свѧтилище довръшѧть · Аристотелевъ образъ поставѧть · притворъ и олтарь обновѧть · писаниѩ земьныхъ обходъ въ долѣньмь притворѣ положѧть · Вьсѧ же книгы Нелею остави ·",
     "originalText": "τὰ περὶ τὸ μουσεῖον καὶ τὰς θεὰς συντελεσθῆναι· τὴν Ἀριστοτέλους εἰκόνα τεθῆναι εἰς τὸ ἱερόν· τὸ στωίδιον οἰκοδομηθῆναι· ἀναθεῖναι δὲ καὶ τοὺς πίνακας, ἐν οἷς αἱ τῆς γῆς περίοδοί εἰσιν, εἰς τὴν κάτω στοάν· ἐπισκευασθῆναι δὲ καὶ τὸν βωμόν. τὰ δὲ βιβλία πάντα Νηλεῖ.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.51–52" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.51–52"
+      }
+    ]
   },
   {
+    "id": "mm-001852",
     "type": "works",
     "sr": "Vrt, šetalište i kuće uz vrt ostavio je prijateljima koji žele zajedno učiti i filozofirati, kao zajedničko svetilište koje niko ne sme otuđiti. Zatražio je da ga sahrane na prikladnom mestu u vrtu, bez raskoši u sahrani i spomeniku.",
     "stsl": "Садъ · ходилище и домы при садѣ дрѹгомъ остави · иже въкѹпѣ ѹчити сѧ и любомѫдрьствовати хоштѫть · ꙗко обьште свѧтилище · єгоже никтоже отълѹчити имать · Себе же на подобьнѣмь мѣстѣ въ садѣ погребсти повелѣ · безъ излишества въ погребении и памѧтьници ·",
     "originalText": "Τὸν δὲ κῆπον καὶ τὸν περίπατον καὶ τὰς οἰκίας τὰς πρὸς τῷ κήπῳ πάσας δίδωμι τῶν γεγραμμένων φίλων ἀεὶ τοῖς βουλομένοις συσχολάζειν καὶ συμφιλοσοφεῖν ἐν αὐταῖς, μήτ' ἐξαλλοτριοῦσι μήτ' ἐξιδιαζομένου μηδενός, ἀλλ' ὡς ἂν ἱερὸν κοινῇ κεκτημένοις. Θάψαι δὲ καὶ ἡμᾶς ὅπου ἂν δοκῇ μάλιστα ἁρμόττον εἶναι τοῦ κήπου, μηδὲν περίεργον μήτε περὶ τὴν ταφὴν μήτε περὶ τὸ μνημεῖον ποιοῦντας.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.52–53" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.52–53"
+      }
+    ]
   },
   {
+    "id": "mm-001853",
     "type": "works",
     "sr": "Testamentom je potvrdio imovinu i darove oslobođenicima Pompilu i Trepti, a Molona, Timona i Parmenona oslobodio; Manu i Kaliju obećao je slobodu posle četiri godine besprekornog rada u vrtu.",
     "stsl": "Завѣтомъ Помпилѹ и Трептѣ · ѹже свободьнымъ · имѣниє и дары ѹтвръди · Молона · Тимона и Парменона свободи · Манѣ же и Калии по четырьхъ лѣтѣхъ непорочьна трѹда въ садѣ свободѫ обѣшта ·",
     "originalText": "Πομπύλῳ δὲ καὶ Θρέπτῃ πάλαι ἐλευθέροις οὖσι ... δισχιλίας δραχμάς ... Δίδωμι δ' αὐτοῖς καὶ Σωματάλην. Τῶν δὲ παίδων Μόλωνα μὲν καὶ Τίμωνα καὶ Παρμένοντα ἤδη ἐλευθέρους ἀφίημι· Μανῆν δὲ καὶ Καλλίαν παραμείναντας ἔτη τέτταρα ἐν τῷ κήπῳ καὶ συνεργασαμένους καὶ ἀναμαρτήτους γενομένους ἀφίημι ἐλευθέρους.",
     "author": "Theophrastus",
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.54–55" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.54–55"
+      }
+    ]
   },
   {
+    "id": "mm-001854",
     "type": "anecdote",
     "sr": "Po njegovoj smrti svi su Atinjani, u znak poštovanja prema njemu, pešice pratili njegovu pogrebnu povorku.",
     "stsl": "По смрьти єго · въ честь мужа · вьси Атинѧне ногою погребныи ходъ проводиша ·",

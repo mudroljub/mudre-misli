@@ -1,0 +1,282 @@
+[
+  {
+    "id": "mm-001385",
+    "type": "bio",
+    "year": -580,
+    "sr": "Ferekid, sin Babijev, bio je sa Sirosa, kako kaže Aleksandar u Nasleđima filozofa, i slušao je Pitaka.",
+    "stsl": "Ферекѵдъ · сꙑнъ Бабіевъ · отъ Сѵра бѣ · ꙗкоже глаголеть Александръ въ Прѣѥмьствіихъ любомѫдрьць · Пітакѹ же послѹша ·",
+    "originalText": "Φερεκύδης Βάβυος Σύριος, καθά φησιν Ἀλέξανδρος ἐν Διαδοχαῖς, Πιττακοῦ διακήκοεν.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.116"
+      },
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XIII"
+      }
+    ]
+  },
+  {
+    "id": "mm-001386",
+    "type": "works",
+    "sr": "Teopomp kaže da je Ferekid prvi među Helenima pisao o prirodi i bogovima.",
+    "stsl": "Теопомпъ глаголеть ꙗко Ферекѵдъ пръвъ въ Єллинѣхъ о природѣ и бозѣхъ писа ·",
+    "originalText": "Τοῦτόν φησι Θεόπομπος πρῶτον περὶ φύσεως καὶ θεῶν [Ἕλλησι] γράψαι.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.116"
+      },
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XIII"
+      }
+    ]
+  },
+  {
+    "id": "mm-001387",
+    "type": "anecdote",
+    "year": -555,
+    "sr": "Šetajući obalom Samosa, video je brod kako plovi uz povoljan vetar i rekao da će uskoro potonuti. Brod je potonuo pred njegovim očima.",
+    "stsl": "По брѣзѣ Самосьстѣмь ходѧ · корабль при добрѣ вѣтрѣ пловѫштъ видѣ · и рече ꙗко въскорѣ потонеть · И прѣдъ очима єго потонѫ ·",
+    "originalText": "Καὶ γὰρ παρὰ τὸν αἰγιαλὸν τῆς Σάμου περιπατοῦντα καὶ ναῦν οὐριοδρομοῦσαν ἰδόντα εἰπεῖν ὡς οὐ μετὰ πολὺ καταδύσεται· καὶ ἐν ὀφθαλμοῖς αὐτοῦ καταδῦναι.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.116"
+      },
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XIII"
+      }
+    ]
+  },
+  {
+    "id": "mm-001388",
+    "type": "anecdote",
+    "year": -554,
+    "sr": "Pošto je popio vodu izvučenu iz bunara, predskazao je da će trećeg dana biti zemljotres. Tako se i dogodilo.",
+    "stsl": "Водѫ изъ кладѧзѧ почрьпенѫ пивъ · прѣдрече ꙗко въ третіи дьнь трѫсъ землѣ бѫдеть · И тако бꙑсть ·",
+    "originalText": "Καὶ ἀνιμηθέντος ἐκ φρέατος ὕδατος πιόντα προειπεῖν ὡς εἰς τρίτην ἡμέραν ἔσοιτο σεισμός, καὶ γενέσθαι.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.116"
+      },
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XIII"
+      }
+    ]
+  },
+  {
+    "id": "mm-001389",
+    "type": "anecdote",
+    "year": -552,
+    "sr": "Vraćajući se iz Olimpije u Mesenu, savetovao je svome domaćinu Perilaju da se sa porodicom iseli iz grada. Perilaj ga nije poslušao, a Mesena je potom osvojena.",
+    "stsl": "Отъ Олимпіѩ въ Мессенѫ идѧ · гостинникѹ своємѹ Перилаѭ съвѣтова · да съ своими изъ града иселить сѧ · Перилаи же не послѹша · Мессена же потомъ плѣнена бꙑсть ·",
+    "originalText": "Ἀνιόντα τε ἐξ Ὀλυμπίας εἰς Μεσσήνην τῷ ξένῳ Περιλάῳ συμβουλεῦσαι ἐξοικῆσαι μετὰ τῶν οἰκείων· καὶ τὸν μὴ πεισθῆναι, Μεσσήνην δὲ ἑαλωκέναι.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.116"
+      }
+    ]
+  },
+  {
+    "id": "mm-001390",
+    "type": "anecdote",
+    "year": -548,
+    "sr": "Ferekid je Lakedemonjanima rekao da ne cene ni zlato ni srebro. Teopomp kaže da mu je to u snu zapovedio Herakle, koji je iste noći kraljevima naredio da slušaju Ferekida. Neki ovu priču pripisuju Pitagori.",
+    "stsl": "Ферекѵдъ Лакедемонѧномъ рече · Ни злата чьтѣте ни сребра · Теопомпъ же глаголеть ꙗко Хераклъ ємѹ въ сънѣ се повелѣ · и въ тѫ же нощь царемъ повелѣ Ферекѵда послѹшати · Инии же се Пѵѳагорѣ приписѹѭть ·",
+    "originalText": "Καὶ Λακεδαιμονίοις εἰπεῖν μήτε χρυσὸν τιμᾶν μήτε ἄργυρον, ὥς φησι Θεόπομπος ἐν Θαυμασίοις· προστάξαι δὲ αὐτῷ ὄναρ τοῦτο τὸν Ἡρακλέα, ὃν καὶ τῆς αὐτῆς νυκτὸς τοῖς βασιλεῦσι κελεῦσαι Φερεκύδῃ πείθεσθαι. Ἔνιοι δὲ Πυθαγόρᾳ περιάπτουσι ταῦτα.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.117"
+      }
+    ]
+  },
+  {
+    "id": "mm-001391",
+    "type": "bio",
+    "year": -543,
+    "sr": "Ferekid je bio na glasu u pedeset devetoj olimpijadi.",
+    "stsl": "Ферекѵдъ въ пѧтьдесѧть девѧтѣи олимпіадѣ славьнъ бѣ ·",
+    "originalText": "Γέγονε δὲ κατὰ τὴν πεντηκοστὴν καὶ ἐνάτην Ὀλυμπιάδα.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.121"
+      }
+    ]
+  },
+  {
+    "id": "mm-001392",
+    "type": "anecdote",
+    "year": -541.9,
+    "sr": "Hermip kaže da je, kada je izbio rat između Efesa i Magnezije, Ferekid želeo pobedu Efežanima. Upitao je jednog prolaznika odakle je, a kada je ovaj odgovorio da je iz Efesa, rekao mu je: Odvuci me za noge na zemlju Magnežana i poruči svojim sugrađanima da me, kada pobede, ovde sahrane; ovo im nalaže Ferekid. Čovek je preneo poruku. Efežani su sutradan napali i pobedili Magnežane, a Ferekida, koji je u međuvremenu umro, sahranili su na tom mestu uz velike počasti.",
+    "stsl": "Єрміпъ глаголеть · Єгда рать межи Ефесомъ и Магнесіеѭ бꙑсть · Ферекѵдъ Ефесіѩномъ побѣдѫ желааше · Нѣкоєго мимоходѧштаго въпроси отъкѫдѹ єсть · Онѹ же рекъшѹ ꙗко отъ Ефеса · рече · Повлеци мѧ за нозѣ въ землѭ Магнесіискѫ · и своимъ гражданомъ повѣжь · по побѣдѣ здѣ мѧ да погребѫть · се имъ Ферекѵдъ повелѣваєть · Мѫжь же повѣда · Ефесіѩне же на ѹтрѣ нападошѧ и Магнесіѩнъ побѣдишѧ · Ферекѵда же ѹмръша на томь мѣстѣ погребошѧ и великоѭ чьстиѭ почьтошѧ ·",
+    "originalText": "Φησὶ δ' Ἕρμιππος πολέμου συνεστῶτος Ἐφεσίοις καὶ Μάγνησι βουλόμενον τοὺς Ἐφεσίους νικῆσαι πυθέσθαι τινὸς παριόντος πόθεν εἴη, τοῦ δ' εἰπόντος «Ἐξ Ἐφέσου,» «Ἕλκυσόν με τοίνυν,» ἔφη, «τῶν σκελῶν καὶ θὲς εἰς τὴν τῶν Μαγνήτων χώραν, καὶ ἀπάγγειλόν σου τοῖς πολίταις μετὰ τὸ νικῆσαι αὐτόθι με θάψαι· ἐπεσκηφέναι τε ταῦτα Φερεκύδην.» Ὁ μὲν οὖν ἀπήγγειλεν· οἱ δὲ μετὰ μίαν ἐπελθόντες κρατοῦσι τῶν Μαγνήτων, καὶ τόν τε Φερεκύδην μεταλλάξαντα θάπτουσιν αὐτόθι καὶ μεγαλοπρεπῶς τιμῶσιν.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.117-118"
+      }
+    ]
+  },
+  {
+    "id": "mm-001393",
+    "type": "bio",
+    "year": -541.8,
+    "sr": "Prema drugom predanju, došao je u Delfe i bacio se sa Korikijske gore.",
+    "stsl": "По иномѹ прѣданиѭ · въ Делфꙑ пріиде и съ Корѵкіискꙑѩ горꙑ низвръже сѧ ·",
+    "originalText": "Ἔνιοι δέ φασιν ἐλθόντα εἰς Δελφοὺς ἀπὸ τοῦ Κωρυκίου ὄρους αὑτὸν δισκῆσαι.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.118"
+      }
+    ]
+  },
+  {
+    "id": "mm-001394",
+    "type": "bio",
+    "year": -541.7,
+    "sr": "Aristoksen kaže da je Ferekid umro od bolesti, a da ga je Pitagora sahranio na Delu. Po drugom predanju, umro je od vašljivosti; kada je Pitagora došao i upitao ga kako mu je, Ferekid je kroz vrata pružio prst i rekao: Po koži se vidi.",
+    "stsl": "Аристоксенъ глаголеть · Ферекѵдъ отъ болѣзни ѹмрѣ · Пѵѳагора же єго на Делѣ погребе · По иномѹ прѣданиѭ · отъ въшьнꙑѩ болѣзни ѹмрѣ · Пѵѳагорѣ же пришедъшѹ и въпросивъшѹ како ємѹ єсть · Ферекѵдъ сквозѣ двери пръстъ простре и рече · По кожи ꙗвѣ ·",
+    "originalText": "Ἀριστόξενος δ' ἐν τῷ Περὶ Πυθαγόρου καὶ τῶν γνωρίμων αὐτοῦ φησι νοσήσαντα αὐτὸν ὑπὸ Πυθαγόρου ταφῆναι ἐν Δήλῳ. Οἱ δὲ φθειριάσαντα τὸν βίον τελευτῆσαι· ὅτε καὶ Πυθαγόρου παραγενομένου καὶ πυνθανομένου πῶς διακέοιτο, διαβαλόντα τῆς θύρας τὸν δάκτυλον εἰπεῖν, «Χροῒ δῆλα.»",
+    "author": [
+      "Ferekid",
+      "Pythagoras"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.118"
+      },
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XIII"
+      }
+    ]
+  },
+  {
+    "id": "mm-001395",
+    "type": "reported",
+    "sr": "Govorio je da bogovi trpezu zovu čuvarkom žrtvenih darova.",
+    "stsl": "Глаголааше ꙗко бози трапезѫ хранителємь жрьтвьнꙑхъ даровъ зовѫть ·",
+    "originalText": "Ἔλεγέ τε ὅτι οἱ θεοὶ τὴν τράπεζαν θυωρὸν καλοῦσιν.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.119"
+      }
+    ]
+  },
+  {
+    "id": "mm-001396",
+    "type": "bio",
+    "year": -542.8,
+    "sr": "Andron Efežanin kaže da su postojala dvojica Ferekida sa Sirosa: jedan astronom, a drugi teolog, sin Babijev, kod koga je učio Pitagora. Eratosten pak kaže da je sa Sirosa bio samo jedan Ferekid, dok je drugi bio Atinjanin i rodoslovac.",
+    "stsl": "Андронъ Ефесьскꙑи глаголеть ꙗко два Ферекѵда отъ Сѵра бѣста · єдинъ звѣздословьць · дрѹгꙑи богословьць · сꙑнъ Бабіевъ · ѹ него же Пѵѳагора ѹчи сѧ · Ератосѳенъ же глаголеть ꙗко єдинъ тъкмо Ферекѵдъ отъ Сѵра бѣ · дрѹгꙑи же Аѳінꙗнинъ родословьць ·",
+    "originalText": "Ἄνδρων δ' ὁ Ἐφέσιός φησι δύο γεγονέναι Φερεκύδας Συρίους, τὸν μὲν ἀστρολόγον, τὸν δὲ θεολόγον υἱὸν Βάβυος, ᾧ καὶ Πυθαγόραν σχολάσαι. Ἐρατοσθένης δ' ἕνα μόνον, καὶ ἕτερον Ἀθηναῖον, γενεαλόγον.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.119"
+      }
+    ]
+  },
+  {
+    "id": "mm-001397",
+    "type": "works",
+    "sr": "Sačuvala se Ferekidova knjiga, koja počinje ovako: Nebo, Vreme i Tlo behu oduvek. Tlo dobi ime Zemlja pošto mu Nebo dade zemlju na dar.",
+    "stsl": "Съхрани сѧ Ферекѵдова книга · ꙗже сице начинаєть сѧ · Небо и Врѣмѧ и Тьло искони бѣахѫ · Тьлѹ же имѧ Землѧ бꙑсть · понеже ємѹ Небо землѭ въ даръ дасть ·",
+    "originalText": "Σώζεται δὲ τοῦ Συρίου τό τε βιβλίον ὃ συνέγραψεν, οὗ ἡ ἀρχή· Ζὰς μὲν καὶ Χρόνος ἦσαν ἀεὶ καὶ Χθονίη· Χθονίῃ δὲ ὄνομα ἐγένετο Γῆ ἐπειδὴ αὐτῇ Ζὰς γῆν γέρας διδοῖ.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.119"
+      }
+    ]
+  },
+  {
+    "id": "mm-001398",
+    "type": "bio",
+    "year": -539.9,
+    "sr": "Na ostrvu Siros čuvao se i Ferekidov heliotrop.",
+    "stsl": "На островѣ Сѵрѣ хранѧаше сѧ и Ферекѵдовъ слъньцевратъ ·",
+    "originalText": "Σώζεται δὲ καὶ ἡλιοτρόπιον ἐν Σύρῳ τῇ νήσῳ.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.119"
+      }
+    ]
+  },
+  {
+    "id": "mm-001399",
+    "type": "bio",
+    "year": -538,
+    "sr": "Duris navodi ovaj natpis na Ferekidovom grobu: U meni je kraj sve mudrosti; ako ima nečega više, reci mome Pitagori da je među svim Helenima prvi. Govoreći ovo, ne lažem.",
+    "stsl": "Дѹрисъ приносить писмѧ на Ферекѵдовѣ гробѣ · Во мнѣ коньць всеѩ мѫдрости · Аще ли что вѧште єсть · моємѹ Пѵѳагорѣ рьци · ꙗко межи вьсѣми Єллинꙑ пръвъ єсть · Се глаголѧ не лъжѫ ·",
+    "originalText": "Φησὶ δὲ Δοῦρις ἐν τῷ δευτέρῳ τῶν Ὡρῶν ἐπιγεγράφθαι αὐτῷ τὸ ἐπίγραμμα τόδε· Τῆς σοφίης πάσης ἐν ἐμοὶ τέλος· ἢν δέ τι πλεῖον Πυθαγόρῃ τὠμῷ λέγε ταῦθ' ὅτι πρῶτος ἁπάντων ἔστιν ἀν' Ἑλλάδα γῆν· οὐ ψεύδομαι ὧδ' ἀγορεύων.",
+    "author": [
+      "Ferekid",
+      "Pythagoras"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.120"
+      }
+    ]
+  },
+  {
+    "id": "mm-001400",
+    "type": "mention",
+    "year": -539.7,
+    "sr": "Ion sa Hiosa o njemu kaže: Odlikovan muževnošću i skromnošću, i posle smrti njegova duša živi prijatnim životom, ako je mudri Pitagora zaista umeo da sagleda i spozna sudbine svih ljudi.",
+    "stsl": "Іонъ Хіосьскꙑи о немь глаголеть · Мѫжьствомъ и цѣломѫдріємъ ѹкрашенъ · и по съмрьти дѹшеѭ сладъкъ животъ имать · аще мѫдрꙑи Пѵѳагора въ истинѫ вьсѣхъ людии сѫдьбꙑ видѣ и поꙁна ·",
+    "originalText": "Ἴων δ' ὁ Χῖός φησιν περὶ αὐτοῦ· Ὥς ὃ μὲν ἠνορέῃ τε κεκασμένος ἠδὲ καὶ αἰδοῖ καὶ φθίμενος ψυχῇ τερπνὸν ἔχει βίοτον, εἴπερ Πυθαγόρης ἐτύμως ὁ σοφὸς περὶ πάντων ἀνθρώπων γνώμας εἶδε καὶ ἐξέμαθεν.",
+    "author": [
+      "Ferekid",
+      "Pythagoras"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.120"
+      }
+    ]
+  },
+  {
+    "id": "mm-001401",
+    "type": "letter",
+    "sr": "Ferekid Talesu. Srećno umri kada ti dođe suđeni čas. Bolest me je obuzela otkako sam primio tvoje pismo. Sav sam izjedan vaškama i trese me groznica. Naložio sam ukućanima da ti, kada me sahrane, donesu moj spis. Ako ga ti i ostali mudraci odobrite, objavi ga; ako ga ne odobrite, nemoj. Ni meni još nije po volji. U tim stvarima nema potpune izvesnosti i ne tvrdim da znam istinu; iznosim samo ono do čega dolazim govoreći o bogovima. Ostalo treba domisliti, jer sve kazujem u zagonetkama. Kako me je bolest sve više pritiskala, nisam puštao unutra ni lekare ni prijatelje. Dok su stajali pred vratima i pitali kako mi je, pružio sam prst kroz otvor na vratima da im pokažem koliko me je bolest izjela. Rekao sam im da sutradan dođu na Ferekidovu sahranu.",
+    "stsl": "Ферекѵдъ Ѳалесѹ · Добрѣ ѹмри · єгда ти сѫжденъ часъ придеть · Болѣзнь мѧ обѧтъ · отънележе твоє писаніє приѩхъ · Вьсь въшьми изѣденъ єсмь · и огнь мѧ трѧсеть · Домашьнимъ повелѣхъ · да по погребеніи моємь списъ мои тебѣ принесѫть · Аще тꙑ и прочии мѫдрьци єго одобрите · ꙗви и · аще ли не одобрите · не ꙗви · Ни мнѣ бо єште ѹгодьнъ єсть · Въ сихъ вещехъ нѣсть съврьшеноѩ извѣстьности · ни истинѫ вѣдѣти обѣштаваѭ · тъкмо єже о бозѣхъ глаголѧ домꙑслѭ сѧ повѣдаѭ · Прочаꙗ подобаѥть домꙑслити · вьсѧ бо загадъками глаголѭ · Болѣзни же паче належѧшти · ни врача ни дрѹга въпѹштаахъ · Стоѧштимъ же прѣдъ дверьми и въпрашаѭштимъ како ми єсть · пръстъ сквозѣ отверстіє дверное прострѣхъ · да покажѫ колико мѧ болѣзнь изѣде · И рѣхъ имъ · на ѹтрѣ на Ферекѵдово погребеніє придѣте ·",
+    "originalText": "Φερεκύδης Θαλῇ. Εὖ θνήσκοις ὅταν τοι τὸ χρεὼν ἥκῃ. Νοῦσός με καταλελάβηκε δεδεγμένον τὰ παρὰ σέο γράμματα. Φθειρῶν ἔθυον πᾶς καί με εἶχεν ἠπίαλος. Ἐπέσκηψα δ' ὦν τοῖσιν οἰκιήτῃσιν, ἐπήν με καταθάψωσιν, ἐς σὲ τὴν γραφὴν ἐνέγκαι. Σὺ δὲ ἢν δοκιμώσῃς σὺν τοῖς ἄλλοις σοφοῖς, οὕτω μιν φῆνον· ἢν δὲ οὐ δοκιμώσητε, μὴ φήνῃς. Ἐμοὶ μὲν γὰρ οὔκω ἥνδανεν. Ἔστι δὲ οὐκ ἀτρεκηίη πρηγμάτων οὐδ' ὑπίσχομαι τἀληθὲς εἰδέναι· ἅσσα δ' ἂν ἐπιλέγῃ θεολογέων· τὰ ἄλλα χρὴ νοέειν· ἅπαντα γὰρ αἰνίσσομαι. Τῇ δὲ νούσῳ πιεζόμενος ἐπὶ μᾶλλον οὔτε τῶν τινα ἰητρῶν οὔτε τοὺς ἑταίρους ἐσιέμην· προσεστεῶσι δὲ τῇ θύρῃ καὶ εἰρομένοις ὁκοῖόν τι εἴη, διεὶς δάκτυλον ἐκ τῆς κληίθρης ἔδειξ' ἂν ὡς ἔθυον τοῦ κακοῦ. Καὶ προεῖπα αὐτοῖσι ἥκειν ἐς τὴν ὑστεραίην ἐπὶ τὰς Φερεκύδεω ταφάς.",
+    "author": "Ferekid",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "I.121-122"
+      }
+    ]
+  }
+]

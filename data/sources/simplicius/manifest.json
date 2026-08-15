@@ -1,0 +1,19 @@
+{
+  "source": "OpenGreekAndLatin/First1KGreek",
+  "author": "Simplicius",
+  "title": "In Aristotelis physicorum libros commentaria",
+  "edition": "Hermann Diels, Commentaria in Aristotelem Graeca 9–10, Reimer, 1882–1895",
+  "language": "grc",
+  "format": "CTS/EpiDoc TEI XML",
+  "ctsUrn": "urn:cts:greekLit:tlg4013.tlg004.1st1K-grc1",
+  "citationDepth": [
+    "page"
+  ],
+  "file": "in-physica.xml",
+  "downloadUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg4013/tlg004/tlg4013.tlg004.1st1K-grc1.xml",
+  "repository": "https://github.com/OpenGreekAndLatin/First1KGreek",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sha256": "B6E9955CA0341AF7F0172E6AED86ED7630C3EF6F99D5E8F594BAD9F15416DBBF",
+  "notes": "Izvorni XML je sačuvan bez lokalnih izmena. TEI poglavlja prate stranice Dielsovog izdanja; pointer treba da koristi stranicu i red, npr. 24.13."
+}

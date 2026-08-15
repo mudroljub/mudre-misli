@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Sidebar from './Sidebar';
 import Header from './Header';
 import { useTranslations } from '../utils/useTranslations';
+import { greekToLatin, isGreek } from '../utils/greekToLatin';
 import type { Language } from '../types/data';
 import styles from './DictionaryPageClient.module.scss';
 
@@ -98,6 +99,7 @@ export default function DictionaryPageClient({ language, content, tags }: Dictio
               {entries.map((entry, idx) => {
                 // Check if this Greek term has a tag
                 const hasTag = allTags.has(entry.greek);
+                const plainGreek = entry.greek.replace(/\*/g, '');
 
                 return (
                   <tr key={idx}>
@@ -116,6 +118,11 @@ export default function DictionaryPageClient({ language, content, tags }: Dictio
                           part.italic ? <em key={i}>{part.text}</em> :
                           <span key={i}>{part.text}</span>
                         ))
+                      )}
+                      {isGreek(plainGreek) && (
+                        <span className={styles.greekLatin}>
+                          {greekToLatin(plainGreek)}
+                        </span>
                       )}
                     </td>
                     <td className={styles.stsl}>

@@ -5,6 +5,8 @@ export interface Translations {
   randomQuote: string;
   quoteDetails: string;
   source: string;
+  readFull: string;
+  contents: string;
   gotoAuthor: string;
   pageNotFound: string;
   pageNotFoundMessage: string;
@@ -108,7 +110,7 @@ export interface Translations {
     Monimus: string;
     'Crates of Thebes': string;
     Metrocles: string;
-    Hipparchia: string;
+    Hiparhija: string;
     'Zeno of Citium': string;
     Cleanthes: string;
     Chrysippus: string;
@@ -123,7 +125,7 @@ export interface Translations {
     Solon: string;
     'Chilon of Sparta': string;
     Epimenides: string;
-    Pherecydes: string;
+    Ferekid: string;
     Menedemus: string;
     Cleobulus: string;
     Cleobulina: string;
@@ -136,6 +138,8 @@ export const translations: Record<Language, Translations> = {
     randomQuote: 'Слѹчаиноє изрѣчєніє',
     quoteDetails: 'О изрѣчєніи',
     source: 'Источьникъ',
+    readFull: 'Чьти вьсе',
+    contents: 'Съдрьжаніє',
     gotoAuthor: 'Kъ любомѫдрьцю',
     pageNotFound: 'Страница не обрѣтєна',
     pageNotFoundMessage: 'Страница, ѭже ищєши, не обрѣтаєть сѧ.',
@@ -239,7 +243,7 @@ export const translations: Record<Language, Translations> = {
       Monimus: 'Мѡнімѡсъ',
       'Crates of Thebes': 'Кратєтъ отъ Тєвъ',
       Metrocles: 'Мєтроклъ',
-      Hipparchia: 'Хіпархїꙗ',
+      Hiparhija: 'Хіпархїꙗ',
       'Zeno of Citium': 'Зєнонъ отъ Китїꙗ',
       Cleanthes: 'Клєанѳъ',
       Chrysippus: 'Хрісіпъ',
@@ -254,7 +258,7 @@ export const translations: Record<Language, Translations> = {
       Solon: 'Солонъ',
       'Chilon of Sparta': 'Хїлонъ',
       Epimenides: 'Епімєнідъ',
-      Pherecydes: 'Фєрєкідъ',
+      Ferekid: 'Фєрєкідъ',
       Menedemus: 'Мєнєдємъ',
       Cleobulus: 'Клєовѹлъ',
       Cleobulina: 'Клєовѹліна',
@@ -265,6 +269,8 @@ export const translations: Record<Language, Translations> = {
     randomQuote: 'Slučajni citat',
     quoteDetails: 'Detalji citata',
     source: 'Izvor',
+    readFull: 'Čitaj celo',
+    contents: 'Sadržaj',
     gotoAuthor: 'K filozofu',
     pageNotFound: 'Stranica nije pronađena',
     pageNotFoundMessage: 'Stranica koju tražite ne postoji.',
@@ -368,7 +374,7 @@ export const translations: Record<Language, Translations> = {
       Monimus: 'Monimos',
       'Crates of Thebes': 'Kratet iz Tebe',
       Metrocles: 'Metrokle',
-      Hipparchia: 'Hiparhija',
+      Hiparhija: 'Hiparhija',
       'Zeno of Citium': 'Zenon iz Kitijuma',
       Cleanthes: 'Kleant',
       Chrysippus: 'Hrizip',
@@ -383,7 +389,7 @@ export const translations: Record<Language, Translations> = {
       Solon: 'Solon',
       'Chilon of Sparta': 'Hilon',
       Epimenides: 'Epimenid',
-      Pherecydes: 'Ferekid',
+      Ferekid: 'Ferekid',
       Menedemus: 'Menedém',
       Cleobulus: 'Kleobul',
       Cleobulina: 'Kleobulina',

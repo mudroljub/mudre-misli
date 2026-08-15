@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-000811",
     "type": "bio",
     "year": -355,
     "sr": "Demosteni, govornik, proslavio se u Atini.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-000812",
     "type": "bio",
     "year": -370,
     "sr": "Kao mladić bio vrlo studiozn, ali nije mogao izgovoriti prvo slovo 'R' zbog poremećaja jezika; pratio mnoge načine vežbanja dok nije postao najizražajniji govornik.",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-000813",
     "type": "anecdote",
     "year": -355,
     "sr": "Vežbao govor postavljajući izjave na obalama mora da bi čuo zvuke talasa i vetrova, čime je izoštravo glas. Bio najveći govornik po rečima Apuleja.",
@@ -42,6 +45,7 @@
     ]
   },
   {
+    "id": "mm-000814",
     "type": "anecdote",
     "year": -351,
     "sr": "U atinskoj skupštini ispričao je basnu o vukovima i psima protiv Filipa Makedonskog: Vukovi predložiše pastirima prijateljstvo, zamoliše da im predaju pse koji su bili uzrok svađe. Kada su pastiri pristali i predali čuvare svojih ovaca, vukovi uništiše celo stado ne samo da se nasite već i po svojoj volji. Tako će i Filip učiniti sa atinskim narodom.",
@@ -56,6 +60,7 @@
     ]
   },
   {
+    "id": "mm-000815",
     "type": "anecdote",
     "year": -345,
     "sr": "Atinjani poslušaše Demostenov savet i grad bi spašen od opasnosti. Tako je grad oslobođen od opasnosti.",
@@ -70,6 +75,7 @@
     ]
   },
   {
+    "id": "mm-000816",
     "type": "anecdote",
     "year": -340,
     "sr": "Neki bogataš ostavio je novac kod dva domaćina pod uslovom da ga vrati samo ako dođu zajedno. Jedan je došao i rekao da je drugi umro te dobio novac. Ubrzo je došao i drugi tražeći novac. Demosteni je zastupao prvog domaćina pitanjem: 'Kako mogu da vratim novac ako zakon kaže da mogu samo ako ste zajedno?'",
@@ -84,6 +90,7 @@
     ]
   },
   {
+    "id": "mm-000817",
     "type": "anecdote",
     "year": -338,
     "sr": "Demosteni je tražio usluge kurtizane Lais, koja je tražila ogromnu svotu. Kada je ona rekla: 'Ne dajem pokajanje za tako veliku cenu', Demosteni odgovori: 'Niti ja kupujem pokajanje za tako veliku cenu.'",
@@ -98,30 +105,48 @@
     ]
   },
   {
+    "id": "mm-000818",
     "type": "bio",
     "year": -350,
     "sr": "Demosten je slušao dijalektičara Eubulida i kod njega ublažio svoju prenaglašenu govorničku nadmenost.",
     "stsl": "Демостенъ диалектика Евбѹлида слѹшаше и при немь прѣмногѫ словесьнѫ гордость свою ѹкроти ·",
     "originalText": "Ἐῴκει γὰρ αὐτοῦ καὶ Δημοσθένης ἀκηκοέναι καὶ ῥωβικώτερος ὢν παύσασθαι.",
     "author": "Demosthenes",
-    "sources": [{ "name": "diogenes-laertius", "reference": "II.109" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.109"
+      }
+    ]
   },
   {
+    "id": "mm-000819",
     "type": "bio",
     "year": -360,
     "sr": "Sabin ubraja Demostena među Platonove slušaoce, pozivajući se na Mnesistrata sa Tasa.",
     "stsl": "Савинъ Демостена междѹ Платоновꙑ слушателѩ полагаєть · на Мнесистрата Тасьскаго сѧ позываѩ ·",
     "originalText": "Καὶ Δημοσθένην Σαβῖνος λέγει Μνησίστρατον Θάσιον παρατιθέμενος ἐν δʹ Μελετητικῆς ὕλης. Καὶ εἰκός ἐστι.",
     "author": "Demosthenes",
-    "sources": [{ "name": "diogenes-laertius", "reference": "III.47" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.47"
+      }
+    ]
   },
   {
+    "id": "mm-000820",
     "type": "bio",
     "sr": "Demosten je umro na Kalauriji iste godine kada i Aristotel, za arhonta Filokla.",
     "stsl": "Демостенъ въ Калаврии того же лѣта ꙗкоже Аристотель ѹмрѣ · при архонтѣ Филоклѣ ·",
     "originalText": "καὶ τελευτῆσαι ... ὅτε καὶ Δημοσθένην καταστρέψαι ἐν Καλαυρίᾳ, ἐπὶ Φιλοκλέους.",
     "author": "Demosthenes",
     "year": -322,
-    "sources": [{ "name": "diogenes-laertius", "reference": "V.10" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.10"
+      }
+    ]
   }
 ]

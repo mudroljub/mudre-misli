@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-001525",
     "type": "bio",
     "year": -360,
     "sr": "Piron iz Elide bio je sin Pleistarhov.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-001526",
     "type": "bio",
     "year": -340,
     "sr": "Najpre je bio slikar.",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-001527",
     "type": "bio",
     "year": -327,
     "sr": "Slušao je Brisona, Stilponovog sina, a zatim Anaksarha, koga je svuda pratio, susrevši se i sa gimnosofistima u Indiji i sa magima.",
@@ -42,6 +45,7 @@
     ]
   },
   {
+    "id": "mm-001528",
     "type": "reported",
     "sr": "Iz tog iskustva, čini se, proistekao je njegov uzvišen način filozofiranja: uveo je nesaznatljivost i uzdržavanje od suda.",
     "stsl": "Отъ сего искѹса · ꙗкоже видитъ сѧ · възвышенъ образъ любомѫдрия єго произиде · несъзнатьливость и въздрьжание отъ сѫда въведе ·",
@@ -55,6 +59,7 @@
     ]
   },
   {
+    "id": "mm-001529",
     "type": "reported",
     "sr": "Govorio je da ništa nije ni lepo ni ružno, ni pravedno ni nepravedno; i slično o svemu, da ništa ne postoji po istini, već ljudi sve čine po zakonu i običaju; jer svaka stvar nije ništa više ovo nego ono.",
     "stsl": "Глаголаашє ꙗко ничтоже нєсть ни лѣпо ни грозьно · ни правьдьно ни нєправьдьно · і подобьно о всємь · ꙗко ничтоже нє сѫщєствѹєть по істинѣ · нъ чловѣци всє творѧть по законѹ і обꙑчаю · нє бо єсть вєщь ничтоже паче сє нєжєли оно.",
@@ -68,6 +73,7 @@
     ]
   },
   {
+    "id": "mm-001530",
     "type": "anecdote",
     "year": -330,
     "sr": "Bio je dosledan i u životu, ni od čega se ne odvraćajući niti čuvajući, sve podnoseći - kola ako se desi, strmene i pse - ništa ne ostavljajući čulima. Ipak je, kako kažu oni oko Antigona iz Karista, spašavan od prijatelja koji su ga pratili.",
@@ -82,6 +88,7 @@
     ]
   },
   {
+    "id": "mm-001531",
     "type": "anecdote",
     "year": -320,
     "sr": "Uhvaćen jednom kako govori sam sa sobom i upitan o razlogu, rekao je da vežba da bude dobar.",
@@ -96,6 +103,7 @@
     ]
   },
   {
+    "id": "mm-001532",
     "type": "bio",
     "year": -300,
     "sr": "Tako ga je otadžbina počastila da ga je postavila za prvosveštenika i zbog njega svim filozofima izglasala oslobođenje od poreza.",
@@ -110,78 +118,127 @@
     ]
   },
   {
+    "id": "mm-001533",
     "type": "bio",
     "year": -320,
     "sr": "Prema Enesidemu, Piron je filozofirao uzdržavajući se od suda, ali u svakodnevnim postupcima nije bio neoprezan.",
     "stsl": "По Енесидемѹ · Пиронъ любомѫдрьствоваше отъ сѫда въздрьжѧ сѧ · въ житии же не безъ опасениѩ дѣлааше ·",
     "originalText": "Αἰνεσίδημος δέ φησι φιλοσοφεῖν μὲν αὐτὸν κατὰ τὸν τῆς ἐποχῆς λόγον, μὴ μέντοι γ' ἀπροοράτως ἕκαστα πράττειν.",
     "author": "Pyrrho",
-    "sources": [{ "name": "diogenes-laertius", "reference": "IX.62" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.62"
+      }
+    ]
   },
   {
+    "id": "mm-001534",
     "type": "bio",
     "year": -340,
     "sr": "U početku je bio nepoznat i siromašan slikar; u elidskom gimnaziju čuvale su se njegove osrednje slike trkača s bakljama.",
     "stsl": "Въ начѧлѣ невѣдомъ и нищь живописьць бѣ · въ Елидьстѣмь въжбалищи срѣдьниѩ єго образы свѣштеносьць хранѧахѹ сѧ ·",
     "originalText": "τὴν ἀρχὴν ἄδοξός τε ἦν καὶ πένης καὶ ζωγράφος. σώζεσθαί τε αὐτοῦ ἐν Ἤλιδι ἐν τῷ γυμνασίῳ λαμπαδιστὰς μετρίως ἔχοντας.",
     "author": "Pyrrho",
-    "sources": [{ "name": "diogenes-laertius", "reference": "IX.62–63" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.62–63"
+      }
+    ]
   },
   {
+    "id": "mm-001535",
     "type": "bio",
     "year": -320,
     "sr": "Piron se povlačio u samoću i retko pokazivao ukućanima; to je činio pošto je čuo jednog Indijca kako kori Anaksarha što služi kraljevskim dvorovima, a hoće druge da uči dobru.",
     "stsl": "Пиронъ въ єдинотьство отъхождааше и рѣдъко домашнимъ ꙗвлѧаше сѧ · Сіє творѧаше · понеже Индиица слѹша · иже Анаксарха ѹкорѧаше · ꙗко царевымъ дворомъ слѹжить · инѣхъ же добрѹ ѹчити хощеть ·",
     "originalText": "ἐκπατεῖν τε αὐτὸν καὶ ἐρημάζειν, σπανίως ποτ' ἐπιφαινόμενον τοῖς οἴκοι. τοῦτο δὲ ποιεῖν ἀκούσαντα Ἰνδοῦ τινος ὀνειδίζοντος Ἀναξάρχῳ ὡς οὐκ ἂν ἕτερόν τινα διδάξαι οὗτος ἀγαθόν, αὐτὸς αὐλὰς βασιλικὰς θεραπεύων.",
     "author": "Pyrrho",
-    "sources": [{ "name": "diogenes-laertius", "reference": "IX.63" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.63"
+      }
+    ]
   },
   {
+    "id": "mm-001536",
     "type": "anecdote",
     "year": -327,
     "sr": "Kada je Anaksarh pao u baru, Piron je prošao ne pomažući mu. Neki su ga korili, ali je sam Anaksarh pohvalio njegovu ravnodušnost i neosetljivost.",
     "stsl": "Єгда Анаксархъ въ блато паде · Пиронъ мимо иде не помогаѧ ємѹ · Инии єго ѹкоришѧ · самъ же Анаксархъ похвали равьнодѹшиє и нечѹвьство єго ·",
     "originalText": "καί ποτ' Ἀναξάρχου εἰς τέλμα ἐμπεσόντος, παρῆλθεν οὐ βοηθήσας· τινῶν δὲ αἰτιωμένων, αὐτὸς Ἀνάξαρχος ἐπῄνει τὸ ἀδιάφορον καὶ ἄστοργον αὐτοῦ.",
     "author": "Pyrrho",
-    "sources": [{ "name": "diogenes-laertius", "reference": "IX.63" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.63"
+      }
+    ]
   },
   {
+    "id": "mm-001537",
     "type": "anecdote",
     "year": -310,
     "sr": "Piron je pobožno živeo sa sestrom Filistom, babicom, nosio na pijacu i prodavao živinu i prasiće i bez ustezanja čistio kuću; govorilo se da je zbog ravnodušnosti sam kupao i prase. Kada se jednom razgnevio zbog sestre, na primedbu je odgovorio: Ravnodušnost se ne dokazuje na ženi.",
     "stsl": "Пиронъ благочьстиво съ сестрою Филистою · бабою · живѧаше · птицѫ и прасѧта на тръгъ носѧ продавааше и домъ безъ стѹда очищааше · Глаголахѹ · ꙗко равьнодѹшиѩ ради и прасѧ самъ мꙑвааше · Єгда же єдиною сестрꙑ ради разгнѣва сѧ · ѹкоривъшѹ єго отъвѣща · Не на женѣ равьнодѹшиє показѹєть сѧ ·",
     "originalText": "εὐσεβῶς δὲ καὶ τῇ ἀδελφῇ συνεβίω μαίᾳ οὔσῃ, καθά φησιν Ἐρατοσθένης ἐν τῷ Περὶ πλούτου καὶ πενίας, ὅτε καὶ αὐτὸς φέρων εἰς τὴν ἀγορὰν ἐπίπρασκεν ὀρνίθια, εἰ τύχοι, καὶ χοιρίδια, καὶ τὰ ἐπὶ τῆς οἰκίας ἐκάθαιρεν ἀδιαφόρως. λέγεται δὲ καὶ δέλφακα λούειν αὐτὸς ὑπ' ἀδιαφορίας. καὶ χολήσας τι περὶ τῆς ἀδελφῆς, Φιλίστα δ' ἐκαλεῖτο, πρὸς τὸν ἐπιλαβόμενον εἰπεῖν ὡς οὐκ ἐν γυναίῳ ἡ ἐπίδειξις τῆς ἀδιαφορίας.",
     "author": "Pyrrho",
-    "sources": [{ "name": "diogenes-laertius", "reference": "IX.66" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.66"
+      }
+    ]
   },
   {
+    "id": "mm-001538",
     "type": "anecdote",
     "year": -310,
     "sr": "Kada je pas nasrnuo na Pirona, on se uplašio i sklonio. Onome ko ga je zbog toga korio rekao je: Teško je sasvim svući čoveka; treba se boriti koliko je moguće, najpre delima, a ako ne može, onda rečima.",
     "stsl": "Єгда песъ на Пирона нападѣ · онъ ѹбоѧ сѧ и ѹклони сѧ · Ѹкоривъшѹ же єго рече · Тѧжько єсть съвръшено чловѣка съвлѣшти · подобаєть же борити сѧ елико мощьно · пръвѣє дѣлꙑ · аще ли не мощьно · словесꙑ ·",
     "originalText": "καὶ κυνός ποτ' ἐπενεχθέντος διασοβηθέντα εἰπεῖν πρὸς τὸν αἰτιασάμενον, ὡς χαλεπὸν εἴη ὁλοσχερῶς ἐκδῦναι τὸν ἄνθρωπον· διαγωνίζεσθαι δ' ὡς οἷόν τε πρῶτον μὲν τοῖς ἔργοις πρὸς τὰ πράγματα, εἰ δὲ μή, τῷ γε λόγῳ.",
     "author": "Pyrrho",
-    "sources": [{ "name": "diogenes-laertius", "reference": "IX.66" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.66"
+      }
+    ]
   },
   {
+    "id": "mm-001539",
     "type": "anecdote",
     "year": -300,
     "sr": "Kada su mu zbog rane primenili nagrizajuće lekove, rezanje i spaljivanje, Piron nije ni obrve skupio.",
     "stsl": "Єгда ємѹ ранꙑ ради тлѣтворьна лѣкарьства · рѣзаниє и жжениє приложишѧ · Пиронъ ни бръви събра ·",
     "originalText": "Φασὶ δὲ καὶ σηπτικῶν φαρμάκων καὶ τομῶν καὶ καύσεων ἐπί τινος ἕλκους αὐτῷ προσενεχθέντων, ἀλλὰ μηδὲ τὰς ὀφρῦς συναγαγεῖν.",
     "author": "Pyrrho",
-    "sources": [{ "name": "diogenes-laertius", "reference": "IX.67" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.67"
+      }
+    ]
   },
   {
+    "id": "mm-001540",
     "type": "bio",
     "year": -270,
     "sr": "Piron je živeo gotovo devedeset godina.",
     "stsl": "Пиронъ близъ девѧтьдесѧтъ лѣтъ поживе ·",
     "originalText": "ὁ δὲ πρὸς τὰ ἐνενήκοντα ἔτη κατεβίω.",
     "author": "Pyrrho",
-    "sources": [{ "name": "diogenes-laertius", "reference": "IX.62" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.62"
+      }
+    ]
   },
   {
+    "id": "mm-001541",
     "type": "anecdote",
     "year": -310,
     "sr": "Kad su saputnici bili potišteni zbog oluje, Piron ih je mirno ohrabrio, pokazujući prase na brodu koje je jelo i govoreći da mudrac treba da bude tako nepokolebljiv.",

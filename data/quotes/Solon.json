@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-001750",
     "type": "bio",
     "year": -638,
     "sr": "Solon, sin Eksekestidov, Atinjanin iz dema Salamine.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-001751",
     "type": "bio",
     "year": -590,
     "sr": "Ovaj je Atinjanima dao najbolje zakone, koje su potom Rimljani preuzeli od Atinjana. Mnogim dobročinstvima ih je obdario i dugo ih je svojom razboritošću oslobađao od ropstva i tiranije.",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-001752",
     "type": "reported",
     "sr": "Upitan šta je reč, odgovori: \"Slika dela.\"",
     "stsl": "Въпрошєнъ что єсть слово · рєчє · Образъ дѣлъ ·",
@@ -41,6 +44,7 @@
     ]
   },
   {
+    "id": "mm-001753",
     "type": "reported",
     "sr": "Upitan čime se učvršćuje reč, odgovori: \"Ćutanjem.\"",
     "stsl": "Въпрошєнъ чімь сѧ ѹтврьждаєть слово · рєчє · Мълчаніємь ·",
@@ -54,6 +58,7 @@
     ]
   },
   {
+    "id": "mm-001754",
     "type": "reported",
     "sr": "Upitan čime se učvršćuje ćutanje, odgovori: \"Vremenom.\"",
     "stsl": "Въпрошєнъ чімь сѧ ѹтврьждаєть мълчаніє · рєчє · Врємєнємь ·",
@@ -67,6 +72,7 @@
     ]
   },
   {
+    "id": "mm-001755",
     "type": "reported",
     "sr": "Upitan šta je kralj, odgovori: \"Snažna vlast.\"",
     "stsl": "Въпрошєнъ что єсть царь · рєчє · Крѣпка власть ·",
@@ -80,6 +86,7 @@
     ]
   },
   {
+    "id": "mm-001756",
     "type": "anecdote",
     "year": -590,
     "sr": "Kada su na nekom mestu mnogi govorili, a Solon ćutao, Perijandar ga upita ćuti li zbog oskudice reči ili zato što je budala. On reče: „Nijedna budala ne može ćutati.“",
@@ -94,6 +101,7 @@
     ]
   },
   {
+    "id": "mm-001757",
     "type": "reported",
     "sr": "Upitan kakav treba da bude vladar naroda, odgovori: „Vladar naroda treba najpre sebe da ispravi, pa onda narod. Inače će biti kao onaj koji krivom kukom pokušava da ispravi krivu senku, ili krivim štapom hoće da učini senku pravom.“",
     "stsl": "Въпрошєнъ какъ подобаєть бꙑти владарь народа · рєчє · Владарь народа подобаєть прѣждє исправити себє · потъомь народъ · Аще ли нѣ · бѹдєть ꙗко онъ иже крівꙑми кѹками покѹшаєть сѧ правити крівѹѭ сѣнь · ли крівꙑмь жьꙁломь жєлаєть да бѹдє сѣнь права ·",
@@ -107,6 +115,7 @@
     ]
   },
   {
+    "id": "mm-001758",
     "type": "reported",
     "sr": "Upitan šta je oštrije od mača, odgovori: „Opak gnev čoveka.“",
     "stsl": "Въпрошєнъ что єсть ѻстрѣише меча · рече · Лютъ гнѣвъ чловѣка ·",
@@ -120,6 +129,7 @@
     ]
   },
   {
+    "id": "mm-001759",
     "type": "bio",
     "year": -600,
     "sr": "Prvi je trideseti dan u mesecu nazvao „starim i novim“.",
@@ -134,6 +144,7 @@
     ]
   },
   {
+    "id": "mm-001760",
     "type": "bio",
     "year": -595,
     "sr": "Prvi je ustanovio zajedničko zasedanje devetorice arhonata radi zajedničkog savetovanja, kako kaže Apolodor u drugoj knjizi O zakonodavcima.",
@@ -148,6 +159,7 @@
     ]
   },
   {
+    "id": "mm-001761",
     "type": "quote",
     "sr": "Reč je slika dela.",
     "stsl": "Слово єсть образъ дѣлъ ·",
@@ -161,6 +173,7 @@
     ]
   },
   {
+    "id": "mm-001762",
     "type": "quote",
     "sr": "Kralj je onaj koji je najmoćniji.",
     "stsl": "Царь єсть иже властьѭ наикрѣпъчаи ·",
@@ -174,6 +187,7 @@
     ]
   },
   {
+    "id": "mm-001763",
     "type": "quote",
     "sr": "Zakoni su poput paučine: ako u nju upadne nešto lako i slabo, zadrži ga; ako pak nešto veće, ono je probije i ode.",
     "stsl": "Законꙑ паѹчинѣ подобьни сѫть · аще бо въ нѭ падеть нѣчто легъко и немощьно · дрьжить и · аще же велиѥ · прѣтръгъ отъходить ·",
@@ -187,6 +201,7 @@
     ]
   },
   {
+    "id": "mm-001764",
     "type": "reported",
     "sr": "Govorio je da se reč zapečaćuje ćutanjem, a ćutanje pravim časom.",
     "stsl": "Глаголааше · ꙗко слово печатаєть сѧ мълчаніємъ · мълчаніє же годиноѭ ·",
@@ -200,6 +215,7 @@
     ]
   },
   {
+    "id": "mm-001765",
     "type": "reported",
     "sr": "Govorio je da su moćnici uz tirane slični kamenčićima na računaljci: svaki od njih čas označava više, čas manje. Tako i tirani svakoga od njih čas čine velikim i slavnim, a čas beščasnim.",
     "stsl": "Глаголаашє жє · ꙗко ѥжє при тѵранохъ могѫть · подобьни сѫть камєніцѧмъ на раꙁчіслѣніихъ. Ибо и отъ ніхъ кождъ иногда болѥ знаменѹѥть · иногда жє мєньшє. Тако и тѵрани · иногда кождого вєліка и свѣтла творѧть · иногда жє бєꙁъ чьсти.",
@@ -213,6 +229,7 @@
     ]
   },
   {
+    "id": "mm-001766",
     "type": "reported",
     "sr": "Upitan zašto nije postavio zakon protiv oceubice, reče: „Zato što nisam očekivao da će ga biti.“",
     "stsl": "Въпрошєнъ · почьто на отьцеѹбіицѫ закона не положи · рече · Понеже не надѣꙗхъ сѧ да бѹдеть ·",
@@ -226,6 +243,7 @@
     ]
   },
   {
+    "id": "mm-001767",
     "type": "quote",
     "sr": "Kako bi ljudi najmanje činili nepravdu? Reče: „Ako bi oni kojima nije učinjena nepravda bili jednako pogođeni kao oni kojima jeste.“",
     "stsl": "Како наименьше людие неправьдѫ творили бꙑ · рече · Аще иже не обиждени сѫть · тако же болѣли бꙑ ꙗко и обиждени ·",
@@ -239,6 +257,7 @@
     ]
   },
   {
+    "id": "mm-001768",
     "type": "reported",
     "sr": "Govorio je da se iz bogatstva rađa obest, a iz obesti drskost.",
     "stsl": "Глаголааше · ꙗко отъ богатьства раждаєть сѧ пресꙑщеніє · отъ пресꙑщеніꙗ же гордость ·",
@@ -252,6 +271,7 @@
     ]
   },
   {
+    "id": "mm-001769",
     "type": "bio",
     "year": -600,
     "sr": "Hteo je da Atinjani računaju dane prema Mesecu.",
@@ -266,6 +286,7 @@
     ]
   },
   {
+    "id": "mm-001770",
     "type": "bio",
     "year": -600,
     "sr": "Tespida je sprečavao da podučava tragediju, smatrajući lažno pripovedanje beskorisnim.",
@@ -280,6 +301,7 @@
     ]
   },
   {
+    "id": "mm-001771",
     "type": "quote",
     "sr": "Ljude je savetovao, kako kaže Apolodor u knjizi O filozofskim školama, ovako: Dobrotu i plemenitost smatraj pouzdanijom od zakletve. Ne laži. Ozbiljnim stvarima se bavi. Ne stiči prijatelje brzo, a one koje stekneš ne odbacuj. Vladaj tek pošto najpre naučiš da budeš pod vlašću. Savetuj ne ono što je najprijatnije, nego ono što je najbolje. Um učini vođom. Ne druži se sa zlima. Poštuj bogove, a roditelje uvažavaj.",
     "stsl": "Людемъ же съвѣтъ давааше · ꙗкоже глаголєть Аполлодоръ въ книзѣ О любомѫдрьскꙑхъ ѥресѣхъ · сице · Доброчьстиє кълтвꙑ вѣрьнѣє имѣи · Не лъжи · Важьнаꙗ дѣла упражнꙗи · Дрѹгꙑ не скоро стѧжи · а иже стѧжеши · не отъвьрзи · Владаи · прѣжде наѹчивъ сѧ владаємѹ бꙑти · Съвѣтѹи не ꙗже сѫть приꙗтнѣиша · нъ ꙗже сѫть наилѹчьша · Ѹмъ водителꙗ сътвори · Съ злꙑми не общи сѧ · Богꙑ чьти · родителѧ же почитаи ·",
@@ -293,6 +315,7 @@
     ]
   },
   {
+    "id": "mm-001772",
     "type": "anecdote",
     "year": -590,
     "sr": "Kažu da je, kada je Mimnerm napisao: „O, da mi sudba bez bolesti i teških briga podari šezdeset godina do smrti“, ukorio ga i rekao: „Ali ako ćeš me i sada još poslušati, izbaci ovo; i nemoj se ljutiti što sam za tebe smislio nešto bolje; i preinači, Ligijastide, pa pevaj ovako: ‘Osamdeset godina neka mi sudba podari do smrti’.“",
@@ -307,6 +330,7 @@
     ]
   },
   {
+    "id": "mm-001773",
     "type": "quote",
     "sr": "Čuvaj se svakoga čoveka: gledaj da, krijući mržnju u srcu, ne govori s tobom vedra lica, dok mu dvoličan jezik govori iz crne misli.",
     "stsl": "Пазѧ сѧ кождого чловѣка · блюді · да нє таѥнъ имѣѥ мрьꙁость въ срьдци · свѣтлꙑмъ лицємъ къ тєбѣ нє глаголєть · а ꙗꙁꙑкъ єго двоѹмьнъ отъ чрьнꙑꙗ мꙑслі отъвѣщаѥть.",
@@ -320,6 +344,7 @@
     ]
   },
   {
+    "id": "mm-001774",
     "type": "bio",
     "year": -594,
     "sr": "Bio je na vrhuncu oko četrdeset šeste olimpijade.",
@@ -334,6 +359,7 @@
     ]
   },
   {
+    "id": "mm-001775",
     "type": "bio",
     "year": -594,
     "sr": "Vladao je u Atini treće godine četrdeset šeste olimpijade, kako kaže Sosikrat.",
@@ -348,6 +374,7 @@
     ]
   },
   {
+    "id": "mm-001776",
     "type": "bio",
     "year": -594,
     "sr": "Tada je postavio zakone.",
@@ -362,6 +389,7 @@
     ]
   },
   {
+    "id": "mm-001777",
     "type": "bio",
     "year": -558,
     "sr": "Umro je na Kipru, proživevši osamdeset godina.",
@@ -376,6 +404,7 @@
     ]
   },
   {
+    "id": "mm-001778",
     "type": "anecdote",
     "year": -558,
     "sr": "Naredio je svojima da njegove kosti odnesu u Salaminu, spale ih i pepeo poseju po zemlji.",
@@ -390,6 +419,7 @@
     ]
   },
   {
+    "id": "mm-001779",
     "type": "anecdote",
     "year": -580,
     "sr": "Dioskorid u Zabeleškama kaže da je, dok je oplakivao umrlog sina, koga mi nismo pomenuli, nekome ko mu reče: „Ali time ništa ne postižeš“, odgovorio: „Upravo zato i plačem, jer ništa ne postižem.“",
@@ -404,6 +434,7 @@
     ]
   },
   {
+    "id": "mm-001780",
     "type": "reported",
     "sr": "Kažu da je izrekao: „Ničega previše.“",
     "stsl": "Изрече же · Ничьсоже прѣмного ·",
@@ -417,6 +448,7 @@
     ]
   },
   {
+    "id": "mm-001781",
     "type": "letter",
     "sr": "Solon Perijandru. Javljaš mi da mnogi protiv tebe kuju zavere. Ali ako nameravaš sve da ukloniš s puta, nećeš stići. Zaveru bi mogao skovati i neko od onih koji ne bude sumnjiv: jedan iz straha za sebe, drugi osuđujući tebe, jer nema toga čega se ne bojiš; i mogao bi tako gradu učiniti uslugu ako otkriješ nekoga, a da ne budeš sumnjiv. Najbolje je, dakle, uzdržati se, da se oslobodiš optužbe. Ako pak po svaku cenu moraš biti tiranin, brini kako ćeš imati veću tuđu silu od onih u gradu, pa ti niko više neće biti opasan, niti ćeš ti ikoga uklanjati s puta.",
     "stsl": "Солонъ Періандрѹ · Възвѣщаѥши ми · ꙗко мноꙁи тєбѣ ѹсѣдѫ творѧть · Тꙑ жє аще хощєши всѣхъ отъ пѫти ѹстраніті · нє ѹспѣѥши · Ѹсѣдѹ бо сътворітъ нѣкъто и отъ нєподозрѣваѥмꙑхъ · ѥдинъ боя сѧ ꙁа сєбє · дрѹгꙑи жє о тєбє ѹсѫдівъ · ꙗко нѣсть ничьсоже · ѥго жє нє боіши сѧ · И градѹ бꙑ ѹслѹгѫ сътворілъ · Отъкрꙑвъ єго · аще нєподозрѣнъ бꙑ · Наілѹчьшє жє отъстѹпіті · да отъ обвінєніꙗ освободіши сѧ · Аще жє вьсѧко тѵраньствоваті подобаѥть · попечі сѧ · како чѹжѧѭ силѫ болѣѭ имѣті бѹдєши · неже ли сѫть въ градѣ · и нікто болѣ нє бѹдєть тєбѣ страшєнъ · ні тꙑ кого отъ пѫти ѹстранѧи ·",
@@ -430,6 +462,7 @@
     ]
   },
   {
+    "id": "mm-001782",
     "type": "letter",
     "sr": "Solon Epimenidu. Ni moji zakoni, dakle, neće dugo koristiti Atinjanima, niti si ti koristio gradu očistivši ga. Jer ni božansko ni zakonodavci sami po sebi ne mogu koristiti gradovima, nego oni koji uvek vode mnoštvo tako da ono ima određena mišljenja. Tako su i božansko i zakoni korisni kada oni koji vode vode dobro, a kada vode loše, ne koriste ničemu. Ni moji zakoni ni ono što sam zakonodao nisu ništa bolji. Oni koji su vodili zajedničke poslove naudili su im time što nisu sprečili Pejsistrata da posegne za tiranijom. Ni meni, koji sam unapred upozoravao, nisu verovali; on je laskajući Atinjanima bio uverljiviji nego ja govoreći istinu. Položivši oružje pred sedištem stratega, rekao sam da sam razumniji od onih koji ne shvataju da Pisistrat teži tiraniji, a hrabriji od onih koji oklevaju da mu se suprotstave. Oni su pak Solona proglasili ludim. Na kraju sam posvedočio: „O domovino, ovaj Solon spreman je da te brani i rečju i delom; ali njima se čini da sam lud. Zato odlazim iz njihove sredine, jedini Pejsistratov neprijatelj; a oni neka mu, ako hoće, budu kopljonoše.“ Znaj, prijatelju, da je taj čovek silno žudeo za tiranijom. Počeo je kao narodni vođa; zatim je sam sebi zadao rane, izašao pred Helijeju i povikao da su mu to učinili neprijatelji, pa zatražio da mu daju četiri stotine mladića kao stražu. Oni me nisu poslušali i dali su mu te ljude, koji su bili toljagonoše. Posle toga ukinuo je narodnu vlast. Uzalud sam, dakle, nastojao da siromahe oslobodim najamničkog ropstva, kada sada svi zajedno robuju jednom čoveku, Pejsistratu.",
     "stsl": "Солонъ Епімєнідѹ · Ни моі законꙑ · ѹбо · Аѳінꙗнꙑ на дълго облагодѣѥти не имѣахѫ · ни тꙑ · очистивъ градъ · облагодѣѥлъ ѥси · Ибо и божьствьноѥ и законодавьци не сами по себѣ могѫтъ градꙑ облагодѣѥти · нъ тіи иже присно множество водѧтъ · како бꙑ мꙑсль имѣли · Тако же и божьствьноѥ и законꙑ · добрѣ водѧщимъ сѫть полезьни · злѣ же водѧщимъ ничьтоже не ѹспѣваѭтъ · Ни моі законꙑ лѹчьши сѫть · ни єже азъ законоположихъ · Они же иже общаꙗ дѣла водѧахѫ · обидѣшѧ · не прѣпѧтъше Пеисистратѹ на тѵраньство ѹстремити сѧ · Ни мнѣ прѣдъглаголѭщѹ вѣрꙑ имѣахѫ · онъ же ласкаꙗ Аѳінꙗнꙑ вѣрьнѣиши бѣ · неже ли азъ истинѫ глаголѧ · Положивъ же орѫжиѥ прѣдъ воѥводьницеѭ · рѣхъ ꙗко разѹмьнѣиши єсмь тѣхъ иже не разѹмѣѭть Пеисистрата тѵраньства хотѧща · храбрѣиши же тѣхъ иже противити сѧ не смѣѭть · Они же Солона безѹмьна мьнѣахѫ · На коньць же рѣхъ · О отьчьство · Солонъ сеи готовъ єсть тебѣ и словомъ и дѣломъ помощи · они же мѧ безѹмьна мьнѧть · Сего ради отъ средꙑ ихъ отъидѫ · єдинъ Пеисистратѹ врагъ · они же аще хощѫть · копьѥносци ємѹ да бѫдѫть · Вѣжь бо · дрѹже · ꙗко мѫжъ онъ тѵраньства вельми желааше · Начѧтъ народъ водити · потомъ же самъ себѣ ранꙑ сътвори · и прѣдъ сѫдъ пришедъ възъпи · глаголѧ ꙗко враꙁи єго сє сътворишѧ · и проси чєтꙑри ста юношъ въ стражѫ · Они же мене не послѹшавъше · дашѧ ємѹ мѫжꙑ · и бѣахѫ палиценосци · Потомъ народовластиѥ разори · Въсѹѥ ѹбо тщахъ сѧ нищихъ отъ работꙑ избавити · иже нꙑнѣ вьси єдиномѹ Пеисистратѹ рабѫѭть ·",
@@ -443,6 +476,7 @@
     ]
   },
   {
+    "id": "mm-001783",
     "type": "letter",
     "sr": "Solon Pejsistratu. Verujem da od tebe neću pretrpeti nikakvo zlo. Jer i pre tiranije bio sam ti prijatelj, a ni sada nisam ništa različitiji od nekog drugog Atinjanina kome se tiranija ne dopada. Bilo da je njima bolje da vlada jedan, bilo da njima vlada narod, neka svako veruje onome kako sudi. I kažem da si ti najbolji od svih tirana. Ne vidim da bi za mene bilo dobro da se vratim u Atinu, da mi neko ne prebaci što sam Atinjanima dao ravnopravnost i, iako sam mogao da budem tiranin, nisam to izabrao, a sada, vrativši se, odobravam ono što ti činiš.",
     "stsl": "Солонъ Пеисистратѹ · Вѣрѹѭ ꙗко ничьсоже злъно отъ тєбє нє пріимѹ. Ибо и прѣдъ тѵраньствомъ дрѹгъ тебѣ бѣхъ · и нꙑнѣ нѣсмь болѣ различьнъ · нъ ꙗко и дрѹгъ нѣкъто отъ прочіихъ Аѳінѧнъ · иже нє любітъ тѵраньства. Ащє ѹбо подъ ѥдінимъ властвоваті лѹчьшє ѥсть імъ · ащє ли народомъ владѣти сѧ · нєка вѣрѹѥть кождъ · ꙗкоже разѹмѣѥть. И тєбє глаголѭ · ꙗко всѣхъ тѵрановъ наілѹчьшіи ѥси. Възвратіті сѧ жє мьнѣ въ Аѳінꙑ нє добро видітъ сѧ · да мѧ нѣкъто нє обличіть · ꙗко давъ Аѳінѧномъ равьноправіѥ · и могѫ самъ тѵраньствоваті · нє восхотъѣвъ · нꙑнѣ възвратівъ сѧ · ѹгоділъ бꙑхъ томѹ · ѥже тꙑ творіши.",
@@ -456,6 +490,7 @@
     ]
   },
   {
+    "id": "mm-001784",
     "type": "letter",
     "sr": "Solon Krezu. Divim se tvojoj ljubaznosti prema nama; i tako mi Atine, kada mi ne bi bilo iznad svega da živim u demokratiji, radije bih prihvatio da živim pod tvojom vlašću nego u Atini dok Pisistrat nasilno vlada. Ali i nama je prijatniji život tamo gde svi imaju pravdu i jednakost. Ipak ću doći kod tebe, žureći da ti postanem gost.",
     "stsl": "Солонъ Крєзѹ · Дівлѭ сѧ тєбѣ ꙁа любєꙁность къ намъ · и кълѧнѫ сѧ Аѳіноѭ · ащє ми нє бѣ прѣдъ вьсѣмъ жіті въ народовласті · пріѩлъ бꙑхъ болѥ прѣбꙑваніѥ въ твоєи царьствѣ · нєжє въ Аѳінахъ · насільствѹѭщѹ Пєісістратѹ. Нъ и пріꙗтнѣиші намъ жівотъ ѥсть · идѣжє всѣмъ правьда и равьно. Пріидѫ ѹбо къ тєбѣ · поспѣшаѭ да бѹдѫ тєбѣ гость.",

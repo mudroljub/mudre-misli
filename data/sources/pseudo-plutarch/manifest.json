@@ -1,0 +1,21 @@
+{
+  "source": "PerseusDL/canonical-greekLit",
+  "author": "Pseudo-Plutarch",
+  "title": "Placita Philosophorum",
+  "originalTitle": "Περὶ τῶν ἀρεσκόντων τοῖς φιλοσόφοις φυσικῶν δογμάτων",
+  "edition": "Grēgorios N. Vernardakēs, Plutarchi Chaeronensis Moralia, volume 5, Teubner, 1888",
+  "language": "grc",
+  "format": "CTS/EpiDoc TEI XML",
+  "ctsUrn": "urn:cts:greekLit:tlg0094.tlg003.perseus-grc2",
+  "citationDepth": [
+    "book",
+    "chapter"
+  ],
+  "file": "placita-philosophorum.xml",
+  "downloadUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0094/tlg003/tlg0094.tlg003.perseus-grc2.xml",
+  "repository": "https://github.com/PerseusDL/canonical-greekLit",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sha256": "81042C05AEA0F73BBC784173EF5578CCCD41ABD0F576EE46E8499C9076214E7B",
+  "notes": "Izvorni XML je sačuvan bez lokalnih izmena. Pointer navodi knjigu i poglavlje, npr. I.3."
+}

@@ -10,8 +10,10 @@ const rootDir = path.resolve(__dirname, '..')
 const inputDir = path.join(rootDir, 'data/quotes')
 const outputFile = path.join(rootDir, 'data/quotes.json')
 const sourcesFile = path.join(rootDir, 'data/sources.json')
+const authorsFile = path.join(rootDir, 'data/authors.json')
 
 const sourceRegistry = JSON.parse(await fs.readFile(sourcesFile, 'utf8'))
+const authorRegistry = JSON.parse(await fs.readFile(authorsFile, 'utf8'))
 
 const files = (await fs.readdir(inputDir))
   .filter(file => file.endsWith('.json'))
@@ -50,6 +52,7 @@ const allQuotes = []
 const chronologicalEntries = []
 const chronologicalIndexes = []
 const byPointer = new Map()
+const entryIds = new Set()
 
 let nextId = 1
 
@@ -61,6 +64,29 @@ for (const file of files) {
 
   if (!Array.isArray(content)) {
     throw new Error(`${file} does not contain an array`)
+  }
+
+  if (content.length > 0) {
+    const authorSets = content.map(entry => new Set(
+      Array.isArray(entry.author) ? entry.author : [entry.author],
+    ))
+    const commonAuthors = [...authorSets[0]].filter(author =>
+      authorSets.every(authors => authors.has(author)),
+    )
+
+    if (commonAuthors.length === 1) {
+      const owner = commonAuthors[0]
+      const expectedBasename = authorRegistry[owner]?.wikipediaSlug
+        ?.replaceAll('_', ' ') ?? owner
+      const actualBasename = path.basename(file, '.json')
+
+      if (actualBasename !== expectedBasename) {
+        throw new Error(
+          `${file} must be named "${expectedBasename}.json" ` +
+          `(English Wikipedia title for project author "${owner}")`,
+        )
+      }
+    }
   }
 
   // Sort entries within each file first
@@ -79,6 +105,16 @@ for (const file of files) {
   })
 
   for (const [entryIndex, entry] of content.entries()) {
+    if (typeof entry.id !== 'string' || !/^mm-\d{6}$/.test(entry.id)) {
+      throw new Error(`${file} entry ${entryIndex + 1} has invalid or missing id`)
+    }
+
+    if (entryIds.has(entry.id)) {
+      throw new Error(`${file} entry ${entryIndex + 1} duplicates id "${entry.id}"`)
+    }
+
+    entryIds.add(entry.id)
+
     if (!Array.isArray(entry.sources) || entry.sources.length === 0) {
       throw new Error(`${file} entry ${entryIndex + 1} has no sources`)
     }
@@ -162,6 +198,7 @@ for (let i = 0; i < chronologicalIndexes.length; i += 1) {
 for (const [basePointer, items] of byPointer) {
   if (items.length < 2) continue
   if (!basePointer.startsWith('data/sources/diogenes-laertius/')) continue
+  if (basePointer.includes('.xml#')) continue
 
   for (const quote of items) {
     const text = quote.originalText
@@ -199,6 +236,25 @@ const pointerFileCache = new Map()
 
 for (const quote of allQuotes) {
   if (!quote.pointer) continue
+
+  const teiMatch = quote.pointer.match(
+    /^(data\/sources\/diogenes-laertius\/diogenes-laertius\.xml)#(\d+)\.(\d+)(?:-(\d+))?$/,
+  )
+
+  if (teiMatch) {
+    const [, relFile, book, section] = teiMatch
+    let content = pointerFileCache.get(relFile)
+    if (content === undefined) {
+      content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
+      pointerFileCache.set(relFile, content)
+    }
+    const bookPattern = new RegExp(`<div\\b[^>]*subtype="book"[^>]*n="${book}"|<div\\b[^>]*n="${book}"[^>]*subtype="book"`)
+    const sectionPattern = new RegExp(`<div\\b[^>]*subtype="section"[^>]*n="${section}"|<div\\b[^>]*n="${section}"[^>]*subtype="section"`)
+    if (!bookPattern.test(content) || !sectionPattern.test(content)) {
+      throw new Error(`Quote ${quote._id} points to missing TEI passage "${quote.pointer}"`)
+    }
+    continue
+  }
 
   const [fileAndLine, anchor] = quote.pointer.split('#', 2)
   const pointerMatch = fileAndLine.match(/^(.*):(\d+)$/)

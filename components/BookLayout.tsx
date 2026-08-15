@@ -19,7 +19,7 @@ export default function BookLayout({ entries, language }: BookLayoutProps) {
       <div className={styles.page}>
         {entries.map((entry) => (
           <p
-            key={entry._id}
+            key={entry.id}
             className={classNames(styles.entry, styles[entry.type])}
           >
             {transliterate(getTextForLanguage(entry, language))}

@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-001329",
     "type": "bio",
     "year": -350,
     "sr": "Rođen u Sirakuzi.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-001330",
     "type": "bio",
     "year": -340,
     "sr": "Bio učenik Diogena; sluga korintskog menjača novca.",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-001331",
     "type": "anecdote",
     "year": -335,
     "sr": "Ksenijad, koji je kupio Diogena, često ga je posećivao i pričao o Diogenovoj vrlini i učenju, i tako je u Monimosa uselio ljubav prema filozofiji. Monimos je tada pretvarao ludilo, bacao novčiće i sav novac sa menjačkog stola, sve dok ga gazda nije oslobodio; odmah je otišao kod Diogena.",
@@ -42,6 +45,7 @@
     ]
   },
   {
+    "id": "mm-001332",
     "type": "bio",
     "year": -330,
     "sr": "Pratio je i kinika Krata, bavio se sličnim stvarima, tako da ga je gazda gledajući još više smatrao ludim.",
@@ -56,11 +60,12 @@
     ]
   },
   {
-    "type": "bio",
+    "id": "mm-001333",
+    "type": "mention",
     "year": -320,
-    "sr": "Bio dostojan spomena, tako da ga je i komičar Menander pominjao u svojoj drami.",
-    "stsl": "Бѣ достоінъ спомена · тако да і Менандръ комікъ єго поміна́ше въ своеі драмѣ.",
-    "originalText": "Ἐγένετο δ' ἀνὴρ ἐλλόγιμος, ὡς καὶ Μένανδρον αὐτοῦ τὸν κωμικὸν μεμνῆσθαι.",
+    "sr": "Monim je bio čuven čovek, pa ga je komediograf Menandar pomenuo u Konjušaru: 'Bio je neki mudrac Monim, Filone, tek nešto manje nepoznat.' 'Onaj s torbom?' 'Sa čak tri torbe; ali, Zevsa mi, nije izgovarao ništa nalik onome Spoznaj samoga sebe, niti tim izvikivanim izrekama, već nešto iznad njih — prosjak i prljavac govorio je da je sve što se pretpostavlja taština.'",
+    "stsl": "Монімъ бѣ мѫжь славьнъ · тѣмьже Менандръ комікъ въ Конюшьници помѧнѫ и · Бѣ нѣкыи Монімъ мѫдрьць · Филонє · мало мьнѥ невѣдомъ · Онъ ли съ мѣхомъ · Съ треми мѣхы · нъ клянѫ сѧ Діємъ · ничьтоже подобьно Раъзѹмѣи сѧ самаго ни тѣмъ възглашаѥмымъ не рече · нъ выше сихъ · просѧ и скврьнъ · вьсѥ прѣдъставлѥноѥ сѹѥта быти глаголаше ·",
+    "originalText": "Ἐγένετο δ' ἀνὴρ ἐλλόγιμος, ὡς καὶ Μένανδρον αὐτοῦ τὸν κωμικὸν μεμνῆσθαι. Ἔν τινι γοῦν τῶν δραμάτων ἐν τῷ Ἱπποκόμῳ εἶπεν οὕτως· Μόνιμός τις ἦν ἄνθρωπος, ὦ Φίλων, σοφός, ἀδοξότερος μικρῷ δ'. Ὁ τὴν πήραν ἔχων; Πήρας μὲν οὖν τρεῖς· ἀλλ' ἐκεῖνος ῥῆμά τι ἐφθέγξατ' οὐδὲν ἐμφερές, μὰ τὸν Δία, τῷ γνῶθι σαυτόν, οὐδὲ τοῖς βοωμένοις τούτοις, ὑπὲρ δὲ ταῦθ' ὁ προσαιτῶν καὶ ῥυπῶν· τὸ γὰρ ὑποληφθὲν τῦφον εἶναι πᾶν ἔφη.",
     "author": "Monimus",
     "sources": [
       {
@@ -70,6 +75,7 @@
     ]
   },
   {
+    "id": "mm-001334",
     "type": "bio",
     "year": -315,
     "sr": "Bio vrlo ozbiljan, prezirao slavu a težio istini.",
@@ -84,23 +90,11 @@
     ]
   },
   {
+    "id": "mm-001335",
     "type": "works",
     "sr": "Pisao šale pomešane sa skrivenom ozbiljnošću; napisao dve knjige 'O pobudama' i 'Protreptik'.",
     "stsl": "Пісааше шалꙑ смѣша́нꙑ съ сокрове́нноѭ сѣ́рьезностіѭ · напіса двѣ́ кнігꙑ О побѹ́дахъ і Протърептікъ.",
     "originalText": "Γέγραφε δὲ παίγνια σπουδῇ λεληθυίᾳ μεμιγμένα καὶ Περὶ ὁρμῶν δύο καὶ Προτρεπτικόν.",
-    "author": "Monimus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.83"
-      }
-    ]
-  },
-  {
-    "type": "quote",
-    "sr": "Sve misleće sujeta jest.",
-    "stsl": "Вьсє мꙑслѧщєє сꙋєта єсть.",
-    "originalText": "τὸ γὰρ ὑποληφθὲν τῦφον εἶναι πᾶν.",
     "author": "Monimus",
     "sources": [
       {

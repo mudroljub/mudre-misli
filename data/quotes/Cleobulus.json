@@ -1,5 +1,6 @@
 [
   {
+    "id": "mm-000511",
     "type": "bio",
     "year": -630,
     "sr": "Kleobul, sin Evagorin, bio je iz Linda; prema Durisu bio je Karijac, a neki su njegov rod izvodili od Herakla.",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "id": "mm-000512",
     "type": "bio",
     "year": -610,
     "sr": "Isticao se snagom i lepotom i upoznao se s egipatskom filozofijom.",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "id": "mm-000513",
     "type": "bio",
     "year": -590,
     "sr": "Kleobul Lindijski, filozof, jedan od sedam mudraca Helade, bio je na glasu u vreme Sedekije, kralja Judeje.",
@@ -42,6 +45,7 @@
     ]
   },
   {
+    "id": "mm-000514",
     "type": "bio",
     "year": -585,
     "sr": "Njegova kćerka Kleobulina sastavljala je zagonetke u heksametrima.",
@@ -60,6 +64,7 @@
     ]
   },
   {
+    "id": "mm-000515",
     "type": "bio",
     "year": -580,
     "sr": "Obnovio je Atenino svetilište u Lindu, koje je podigao Danaj.",
@@ -74,6 +79,7 @@
     ]
   },
   {
+    "id": "mm-000516",
     "type": "works",
     "sr": "Sastavio je pesme i zagonetke u tri hiljade redaka.",
     "stsl": "Пѣсни и загадъкꙑ въ трьхъ тисѧштахъ рѧдъкъ сътвори ·",
@@ -87,6 +93,7 @@
     ]
   },
   {
+    "id": "mm-000517",
     "type": "works",
     "sr": "Neki su Kleobulu pripisivali natpis na Midinom grobu: Bronzana sam devojka i ležim na Midinom grobu. Dok voda teče i visoko drveće lista, dok izlazeće Sunce sija i svetli Mesec, dok reke teku i more zapljuskuje, ovde ću ostati na ovom mnogo oplakanom grobu i prolaznicima kazivati da je Mida ovde sahranjen.",
     "stsl": "Инии Клеовѹлѹ писмѧ на Мидовѣ гробѣ приписовахѫ · Мѣдѣна дѣва єсмь · на Мидовѣ гробѣ лежѫ · Дондеже вода течеть и вꙑсока дрѣва листвѧть · въсходѧште слъньце сиꙗєть и свѣтълъ мѣсѧць · рѣкꙑ текѫть и море плещеть · здѣ на многооплаканѣмь гробѣ прѣбѫдѫ · мимоходѧштимъ повѣдаѭшти · ꙗко Мида здѣ погребенъ ·",
@@ -100,23 +107,7 @@
     ]
   },
   {
-    "type": "works",
-    "sr": "Kleobulinina zagonetka, kako je prenosi Laertije: Jedan otac ima dvanaestoro dece, a svako od njih po dvaput tridesetoro potomaka različita lika: jedni su beli, drugi crni. Premda su besmrtni, svi propadaju i nestaju. Rešenje je godina: otac je godina, deca su dvanaest meseci, a njihovi potomci dani i noći.",
-    "stsl": "Клеовѹлинина загадъка · ꙗкоже Лаертіи приносить · Єдинъ отьць дванадесѧте дѣтии имать · ихъ же кождо дващи тридесѧть отърасль разноличьнꙑхъ · ови бо бѣли · ови же чрьни · Бесъмрьтьни сѫть · нъ вьси тълѣѭть и исчезаѭть · Отъвѣтъ єсть лѣто · отьць єсть лѣто · дѣти дванадесѧте мѣсѧць · отърасли же ихъ дьни и нощи ·",
-    "originalText": "Huius Cleobu[in]e enigma fuit, ut ait Laercius: unus pater, filii XII, horum cuilibet nati [sunt] XXX [bis] difformes, nam quidm horum sunt albe, quidam vero nigre. Sunt immortales autem cum sint corrumpuntur omnes et deficiunt. Est autem annus XII mensium pater etc.",
-    "author": "Cleobulus",
-    "sources": [
-      {
-        "name": "walter-burley",
-        "reference": "Cap. VI"
-      },
-      {
-        "name": "diogenes-laertius",
-        "reference": "I.91"
-      }
-    ]
-  },
-  {
+    "id": "mm-000519",
     "type": "quote",
     "sr": "Čini dobro prijatelju, da ti postane još veći prijatelj.",
     "stsl": "Твори добро дрѹгѹ · да паче дрѹгъ ти бѫдеть ·",
@@ -134,6 +125,7 @@
     ]
   },
   {
+    "id": "mm-000520",
     "type": "quote",
     "sr": "Nastoj da od neprijatelja načiniš prijatelja.",
     "stsl": "Отъ врага тщи сѧ сътворити дрѹга ·",
@@ -151,6 +143,7 @@
     ]
   },
   {
+    "id": "mm-000521",
     "type": "quote",
     "sr": "Čuvaj se prekora prijatelja i spletke neprijatelja.",
     "stsl": "Блюди сѧ дрѹжьнꙗ прѣкора и вражиꙗ къзни ·",
@@ -168,6 +161,7 @@
     ]
   },
   {
+    "id": "mm-000522",
     "type": "quote",
     "sr": "Neukost i mnoštvo reči preovlađuju među smrtnicima; ali pravi čas je dovoljan. Misli nešto valjano; ne budi tašt ni nezahvalan.",
     "stsl": "Неѹчениє и множьство словесъ прѣобладаѭть въ смрьтнꙑхъ · Нъ годъ довлѣєть · Помꙑшлꙗи добро · Не бѫди сѹєтьнъ ни неблагодарьнъ ·",
@@ -181,6 +175,7 @@
     ]
   },
   {
+    "id": "mm-000523",
     "type": "reported",
     "sr": "Govorio je da kćeri treba udavati kao devojke po godinama, a kao žene po razboritosti; time je pokazivao da i devojke treba obrazovati.",
     "stsl": "Глаголааше · ꙗко дъштери подобаєть съчетавати · дѣвꙑ възрастомъ · женꙑ же разѹмомъ · Симь показовааше ꙗко и дѣвꙑ подобаєть ѹчити ·",
@@ -194,6 +189,7 @@
     ]
   },
   {
+    "id": "mm-000524",
     "type": "quote",
     "sr": "Kada izlaziš iz kuće, najpre se zapitaj šta nameravaš da učiniš; a kada se vratiš, zapitaj se šta si učinio.",
     "stsl": "Єгда исходиши из домѹ · прѣжде въпроси себе · что хощеши сътворити · Єгда же възвратиши сѧ · въпроси себе · что сътвори ·",
@@ -207,6 +203,7 @@
     ]
   },
   {
+    "id": "mm-000525",
     "type": "quote",
     "sr": "Dobro vežbaj telo.",
     "stsl": "Добрѣ тѣло ѹпражнꙗи ·",
@@ -220,6 +217,7 @@
     ]
   },
   {
+    "id": "mm-000526",
     "type": "quote",
     "sr": "Više ljubi slušati nego govoriti.",
     "stsl": "Паче люби слѹшати · неже ли глаголати ·",
@@ -233,6 +231,7 @@
     ]
   },
   {
+    "id": "mm-000527",
     "type": "quote",
     "sr": "Više voli da učiš nego da ostaneš neuk.",
     "stsl": "Паче люби ѹчити сѧ · неже ли неѹченъ бꙑти ·",
@@ -246,6 +245,7 @@
     ]
   },
   {
+    "id": "mm-000528",
     "type": "quote",
     "sr": "Neka ti je jezik blage reči.",
     "stsl": "Да ти ѩзꙑкъ благословьнъ бѫдеть ·",
@@ -259,6 +259,7 @@
     ]
   },
   {
+    "id": "mm-000529",
     "type": "quote",
     "sr": "Budi blizak vrlini, a tuđ poroku.",
     "stsl": "Добродѣтели близъкъ бѫди · зълобѣ же чюжьдь ·",
@@ -272,6 +273,7 @@
     ]
   },
   {
+    "id": "mm-000530",
     "type": "quote",
     "sr": "Kloni se nepravde.",
     "stsl": "Бѣгаи неправьдꙑ ·",
@@ -285,6 +287,7 @@
     ]
   },
   {
+    "id": "mm-000531",
     "type": "quote",
     "sr": "Gradu savetuj ono što je najbolje.",
     "stsl": "Градѹ наилѹчьшаꙗ съвѣтѹи ·",
@@ -298,6 +301,7 @@
     ]
   },
   {
+    "id": "mm-000532",
     "type": "quote",
     "sr": "Gospodari uživanjem.",
     "stsl": "Сласти обладаи ·",
@@ -311,6 +315,7 @@
     ]
   },
   {
+    "id": "mm-000533",
     "type": "quote",
     "sr": "Ništa ne čini silom.",
     "stsl": "Ничтоже силою твори ·",
@@ -324,6 +329,7 @@
     ]
   },
   {
+    "id": "mm-000534",
     "type": "quote",
     "sr": "Vaspitavaj decu.",
     "stsl": "Дѣти възпитаваи ·",
@@ -337,6 +343,7 @@
     ]
   },
   {
+    "id": "mm-000535",
     "type": "quote",
     "sr": "Razrešavaj neprijateljstvo.",
     "stsl": "Враждѫ раздрѣшаи ·",
@@ -350,6 +357,7 @@
     ]
   },
   {
+    "id": "mm-000536",
     "type": "quote",
     "sr": "Pred drugima nemoj se umiljavati ženi niti se s njom svađati; prvo pokazuje ludost, a drugo bezumlje.",
     "stsl": "Прѣдъ чюждими женѣ ни ласкаи · ни свари сѧ съ неѭ · Ово бо безѹмиє · оно же неистовьство знамєнѹєть ·",
@@ -363,6 +371,7 @@
     ]
   },
   {
+    "id": "mm-000537",
     "type": "quote",
     "sr": "Ženi se među sebi jednakima; uzmeš li ženu iz uglednije porodice, steći ćeš gospodare u njenim srodnicima.",
     "stsl": "Жени сѧ отъ равьнꙑхъ · Аще бо отъ вѧштьшихъ женѫ поимеши · господꙑ стѧжеши въ сродьницѣхъ єѩ ·",
@@ -376,6 +385,7 @@
     ]
   },
   {
+    "id": "mm-000538",
     "type": "quote",
     "sr": "Ne podsmevaj se onima kojima se rugaju, jer će te omrznuti.",
     "stsl": "Не посмѣваи сѧ порѹгаємꙑмъ · възненавидѧть бо тѧ ·",
@@ -389,6 +399,7 @@
     ]
   },
   {
+    "id": "mm-000539",
     "type": "quote",
     "sr": "U blagostanju ne budi ohol; u oskudici se ne ponižavaj.",
     "stsl": "Въ благопоспѣшеніи не бѫди гордъ · въ оскѫдѣніи не смѣрꙗи сѧ ·",
@@ -402,6 +413,7 @@
     ]
   },
   {
+    "id": "mm-000540",
     "type": "quote",
     "sr": "Nauči da plemenito podnosiš promene sreće.",
     "stsl": "Наѹчи сѧ прѣмѣнꙑ сѫдьбꙑ доброродьно носити ·",
@@ -415,6 +427,7 @@
     ]
   },
   {
+    "id": "mm-000541",
     "type": "quote",
     "sr": "Mera je najbolja.",
     "stsl": "Мѣра єсть наилѣпшаꙗ ·",
@@ -428,6 +441,7 @@
     ]
   },
   {
+    "id": "mm-000542",
     "type": "quote",
     "sr": "Ne kažnjavaj slugu dok si pijan, jer će izgledati da ga zlostavljaš u pijanstvu.",
     "stsl": "Пиꙗнъ слѹгѫ не казни · да не мьнимъ бѫдеши въ пиꙗньствѣ досаждати ·",
@@ -441,6 +455,7 @@
     ]
   },
   {
+    "id": "mm-000543",
     "type": "bio",
     "year": -560,
     "sr": "Umro je u dubokoj starosti, pošto je živeo sedamdeset godina.",
@@ -455,6 +470,7 @@
     ]
   },
   {
+    "id": "mm-000544",
     "type": "letter",
     "sr": "Kleobul Solonu. Imaš mnogo prijatelja i domova posvuda; ali rekao bih da će demokratski Lind biti najprikladniji dom Solonu. Ostrvo je na pučini, pa se onde ne bi imao čega bojati od Pejsistrata. A prijatelji će ti dolaziti sa svih strana.",
     "stsl": "Клеовѹлъ Солонѹ · Много дрѹгъ и домовъ повьсѫдѹ имаши · азъ же глаголѭ · ꙗко Линдъ народовластьнъ Солонѹ подобьнѣиши домъ бѫдеть · Островъ въ мори єсть · идѣже живѫшти ничьтоже отъ Пеисистрата боꙗти сѧ имаши · Дрѹзи же отъ вьсѫдѹ къ тебѣ придѫть ·",

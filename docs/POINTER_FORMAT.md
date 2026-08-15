@@ -1,168 +1,31 @@
-# Pointer Format Dokumentacija
+# Pointeri ka izvorima
 
-> **VAŽNO**: Pointeri se **NE čuvaju u source JSON fajlovima** (`data/quotes/*.json`).  
-> Oni se **automatski generišu tokom build procesa** (`node tools/build-quotes.mjs`)  
-> i nalaze se samo u finalnom `data/quotes.json` fajlu.
+`pointer` se ne unosi ručno u `data/quotes/*.json`, već ga
+`tools/build-quotes.mjs` generiše iz prvog elementa niza `sources`.
 
-## Format (Verzija 2.0 - Sources Array)
+## Diogen Laertije: TEI/CTS pointer
 
-Od verzije 2.0, citati koriste **sources array** umesto pojedinačnih `source`/`reference` polja.
+Diogenov jedini lokalni tekst izvora je:
 
-### Struktura u source JSON fajlovima:
+`data/sources/diogenes-laertius/diogenes-laertius.xml`
 
-```json
-{
-  "sr": "Tekst citata...",
-  "originalText": "...",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "IX.1"
-    },
-    {
-      "name": "hermann-diels",
-      "reference": "B.8"
-    }
-  ]
-}
+Pointer neposredno označava CTS prolaz, bez posrednog tekstualnog fajla:
+
+```text
+data/sources/diogenes-laertius/diogenes-laertius.xml#8.17
+data/sources/diogenes-laertius/diogenes-laertius.xml#8.48-49
 ```
 
-**Multi-source primena**: Prvi izvor u nizu je primarni (npr. originalni fragment), dodatni izvori su cross-reference.
+Deo iza `#` ima oblik `knjiga.odeljak` ili
+`knjiga.početni-odeljak-završni-odeljak`. Brojevi knjiga u pointeru su arapski,
+dok se u bibliografskoj referenci zadržavaju rimski brojevi (`VIII.17`).
 
-### Struktura u finalnom quotes.json:
+Ovaj oblik je stabilan pri preformatiranju XML fajla, za razliku od broja
+fizičke linije. Ako TEI ponavlja broj odeljka na granici dve biografije, CTS
+pointer i dalje verno čuva oznaku izdanja; `originalText` služi za izbor tačnog
+teksta pri proveri sadržaja.
 
-```json
-{
-  "sr": "Tekst citata...",
-  "sources": [...],
-  "pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"
-}
-```
-
-**Napomena**: `pointer` se generiše iz **prvog izvora** u `sources` nizu.
-
-## Pointer format
-
-```
-file:line#anchor
-```
-
-### Podržani izvori:
-
-**1. Diogenes Laertius** (`name: "diogenes-laertius"`)
-```json
-{
-  "name": "diogenes-laertius",
-  "reference": "IX.1"
-}
-```
-
-Generisani pointer:
-```
-"pointer": "data/sources/diogenes-laertius/el/09.txt:185"
-"pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"  (sa anchorom)
-```
-
-**2. Walter Burley** (`name: "walter-burley"`)
-```json
-{
-  "name": "walter-burley",
-  "reference": "Cap. XXVI"
-}
-```
-
-Generisani pointer:
-```
-"pointer": "data/sources/walter-burley/latin_raw/gorgias.txt:1"
-```
-
-**3. Hermann Diels** (`name: "hermann-diels"`)
-```json
-{
-  "name": "hermann-diels",
-  "reference": "B.8"
-}
-```
-
-**Reference format**: Diels-Kranz brojevi (DK system)
-- `A.1`, `A.2`, ... = Leben und Lehre (sekundarne reference)
-- `B.1`, `B.8`, ... = Fragmente (autentični tekstovi filozof)
-
-*Status*: Pointer generisanje za Diels je u razvoju (TODO).
-
-### Kako dodati novi izvor:
-
-Dodaj builder funkciju u `tools/build-quotes.mjs`:
-
-```javascript
-pointerBuilders['novi-izvor'] = async (reference) => {
-  // Parsiraj reference format specifičan za ovaj izvor
-  // Pronađi odgovarajući fajl u data/sources/
-  // Vrati "file:line" ili null
-}
-```
-
-## Komponente
-
-| Deo | Opis | Primer |
-|-----|------|--------|
-| `file` | Putanja do grčkog izvora | `data/sources/diogenes-laertius/el/03.txt` |
-| `line` | Linija gde počinje odeljak | `185` |
-| `anchor` | Provereni jedinstveni deo grčkog teksta citata | `πῦρ μ` |
-
-## Kada postoji anchor?
-
-Anchor se dodaje samo Diogenovim navodima koji dele isti odeljak sa drugim
-unosima i kada se izabrani deo teksta zaista nalazi u tom odeljku. Razlike u
-veličini slova i Unicode normalizaciji usklađuju se sa oblikom iz izvora. Ako je
-`originalText` parafraza ili varijanta bez dovoljnog tekstualnog preseka,
-pointer ostaje na nivou odeljka bez lažnog anchora.
-
-Burleyjevi lokalni OCR fajlovi nisu svuda potpuni niti dovoljno stabilni za
-tekstualne anchore. Njihovi pointeri zato vode na fajl poglavlja, bez anchora.
-
-## Upotreba za agente
-
-### Parsiranje pointer-a:
-
-```javascript
-function parsePointer(pointer) {
-  const [location, anchor] = pointer.split('#')
-  const [file, line] = location.split(':')
-  return { file, line: parseInt(line), anchor }
-}
-```
-
-### Pronalaženje citata u izvoru:
-
-```javascript
-async function findQuoteInSource(quote) {
-  const { file, line, anchor } = parsePointer(quote.pointer)
-  
-  // 1. Učitaj odeljak (prosečno 7 linija)
-  const sectionText = await readSection(file, line)
-  
-  // 2. Ako ima anchor, nađi tačnu poziciju
-  if (anchor) {
-    const position = sectionText.indexOf(anchor)
-    if (position !== -1) {
-      // Pronađen tačan citat
-      return extractQuote(sectionText, position)
-    }
-  }
-  
-  // 3. Fallback: traži ceo grčki tekst
-  const position = sectionText.indexOf(quote.el)
-  if (position !== -1) {
-    return extractQuote(sectionText, position)
-  }
-  
-  // 4. Ceo odeljak ako ništa drugo
-  return sectionText
-}
-```
-
-### Primer iz podataka (nova struktura):
+Primer izvornog unosa:
 
 ```json
 {
@@ -173,96 +36,43 @@ async function findQuoteInSource(quote) {
       "name": "diogenes-laertius",
       "reference": "VIII.17"
     }
-  ],
-  "pointer": "data/sources/diogenes-laertius/el/09.txt:185#πῦρ μ"
+  ]
 }
 ```
 
-Agent:
-1. Otvara `el/09.txt`
-2. Ide na liniju 185
-3. Traži `πῦρ μ` u narednih ~7 linija
-4. Pronalazi: `πῦρ μαχαίρᾳ μὴ σκαλεύειν.`
-5. Može verifikovati/prevoditi sa kontekstom
+Generisani unos dobija:
 
-## Statistika
+```json
+{
+  "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.17"
+}
+```
 
-**Odeljci u izvorima:**
-- Prosečna veličina: 7 linija
-- 83% odeljaka ≤ 10 linija
-- 6% odeljaka > 20 linija
+## Linijski pointeri drugih izvora
 
-**Anchor dužina:**
-- Minimum: 5 karaktera
-- Maksimum: 9 karaktera
-- Prosek: 5 karaktera
+Izvori koji nemaju CTS hijerarhiju koriste oblik:
 
-**Preciznost:**
-- Pointer + anchor → tačnost na ±2 linije
-- Bez anchor-a → tačnost na ±7 linija (ceo odeljak)
+```text
+file:line#anchor
+```
 
-## Kako proveriti pointere
+`anchor` je opcioni provereni deo izvornog teksta. Primer:
+
+```text
+data/sources/hermann-diels/philosophers/12-Heraclitus.txt:42#πῦρ
+```
+
+Walter Burley koristi pointer ka početku lokalnog poglavlja bez anchora, jer
+OCR tekst nije dovoljno stabilan za preciznije tekstualne oznake.
+
+## Provera i generisanje
 
 ```bash
-# 1. Build-uj quotes.json iz source fajlova
 node tools/build-quotes.mjs
-
-# 2. Proveri koliko citata ima pointer
-grep -c '"pointer"' data/quotes.json
-
-# 3. Proveri primere
-grep '"pointer"' data/quotes.json | head -10
-
-# 4. Nađi citate bez pointera (nemaju validan reference)
-grep -L '"pointer"' data/quotes.json
+node tools/build-source-map.mjs
+npm run audit:duplicates
 ```
 
-**Očekivani rezultat**: ~98% citata ima pointer.
-
-**Trenutna statistika** (avgust 2026):
-- **1523/1581 (96,3%)** unosa ima pointer
-- **Diogen Laertije**: 1441/1441 primarni navod sa pointerom
-- **Walter Burley**: 82/82 primarna navoda sa lokalnim poglavljem i pointerom
-- **1211** Diogenovih pointera ima provereni anchor
-- **Bez pointera**: 58 unosa iz izvora za koje namerno nema lokalnog resolvera
-  (Hermann Diels 55, Plutarh 2, *Dissoi Logoi* 1)
-
-## Generisanje
-
-Anchori se automatski generišu u `tools/build-quotes.mjs`:
-
-1. Grupiše citate po `file:line`
-2. Ako više Diogenovih citata deli istu lokaciju → detektuje koliziju
-3. Za svaki citat nalazi minimalni jedinstveni deo iz `originalText`
-4. Proverava da deo zaista postoji u ciljnom odeljku i preuzima njegov tačan
-   Unicode oblik iz izvora
-5. Dodaje `#anchor`; ako nema pouzdanog preseka, ostavlja samo `file:line`
-
-**Algoritam:**
-```javascript
-// Nađi najkraći jedinstveni prefix
-for (let len = 5; len <= 50; len++) {
-  const candidate = text.substring(0, len)
-  if (onlyOneQuoteStartsWith(candidate)) {
-    anchor = candidate
-    break
-  }
-}
-```
-
-## Prednosti ovog formata
-
-✅ **Precizno** - anchor razrešava 58% kolizija  
-✅ **Kompaktno** - sve informacije u jednom string-u  
-✅ **Parsibilno** - jednostavni split na `#` i `:`  
-✅ **Robust** - svaki sačuvani anchor je substring stvarnog izvornog odeljka  
-✅ **Automatsko** - generiše se iz postojećih podataka
-
-## Backward kompatibilnost
-
-Pointer bez anchor-a je i dalje validan:
-```
-data/sources/diogenes-laertius/el/03.txt:59
-```
-
-Agent samo proverava da li postoji `#` u pointer string-u.
+Build proverava da TEI fajl postoji i da svaki Diogenov pointer označava
+postojeću knjigu i odeljak. Svi unosi kojima je Diogen primarni izvor moraju
+dobiti pointer.

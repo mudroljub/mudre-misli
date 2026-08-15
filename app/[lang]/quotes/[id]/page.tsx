@@ -21,7 +21,7 @@ export function generateStaticParams(): QuotePageProps['params'][] {
 
   for (const lang of supportedLanguages) {
     for (const entry of quotesData) {
-      params.push({ lang, id: String(entry._id) });
+      params.push({ lang, id: entry.id });
     }
   }
 
@@ -35,8 +35,7 @@ export default function QuotePage({ params }: QuotePageProps) {
     redirect('/stsl');
   }
 
-  const id = Number(params.id);
-  const quote = quotesData.find((entry) => entry._id === id);
+  const quote = quotesData.find((entry) => entry.id === params.id);
 
   if (!quote) {
     notFound();
