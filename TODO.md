@@ -12,6 +12,7 @@
   `nebesje` i `небєсьє`, uz proveru konkretnog grčkog konteksta.
 - [ ] Svaku novu terminološku odluku prvo predložiti za `docs/RECNIK.md`, pa je
   tek onda dosledno primeniti na prevode.
+- uklanjati atom, sfera i sve ostale grcizme
 
 ### 2.2. Klesanje jednog autora
 
@@ -90,3 +91,4 @@ grafijske greške uočene tokom sadržinskog rada.
 - odvojiti duže radove u poseban json, posebno Epikurova pisma. smisliti sistem da kasnije podrži i Platonove dijaloge.
 - proveriti u izvorima tumačenja Kleobulinih zagonetki
 - `data\sources\INDEX_GREEK.md`: uraditi mašinski prolaz kroz __cts__.xml za Plutarha i Aristotela i dodati TLG broj uz baš svako njihovo delo.
+- parsiraj u json prevode iz `data\works` i uklopi u sajt (koristi dosledno rešenje za duge radove)
