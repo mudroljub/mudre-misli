@@ -155,11 +155,11 @@ Pošto je Sokrat saslušao, zatražio je da se ponovo pročita prva postavka prv
 
 ### Srpski
 
-— Kako to kažeš, Zenone? Ako su bića mnoga, onda ona moraju biti i slična i neslična, a to je nemožno: niti neslična mogu biti slična, niti slična neslična. Zar ne kažeš tako?
+— Kako to kažeš, Zenone? Ako su sušta mnoga, onda ona moraju biti i slična i neslična, a to je nemožno: niti neslična mogu biti slična, niti slična neslična. Zar ne kažeš tako?
 
 — Tako je — reče Zenon.
 
-— Ako je, dakle, nemožno da neslična budu slična i slična neslična, onda je nemožno i da bića budu mnoga? Jer ako bi bila mnoga, trpela bi ono što je nemožno.
+— Ako je, dakle, nemožno da neslična budu slična i slična neslična, onda je nemožno i da sušta budu mnoga? Jer ako bi bila mnoga, trpela bi ono što je nemožno.
 
 ### Staroslovenski
 
@@ -511,32 +511,6 @@ od mnogih velikih stvari bude veliko delom veličine manjim od same veličine, z
 
 ### Srpski
 
-— To se ne bi moglo dogoditi — reče.
-
-— Na koji će onda način, Sokrate — reče — druge stvari učestvovati u vidovima, ako ne mogu učestvovati ni po delovima ni po celinama?
-
-— Zevsa mi — reče — čini mi se da to nipošto nije lako odrediti.
-
-— A šta kažeš na ovo?
-
-— Na šta?
-
-### Staroslovenski
-
-— Не могло бы се быти · рече ·
-
-— Кꙑимь ѹбо образомъ · о Сократе · рече · инаꙗ видовъ причѧстѧть сѧ · ни по дѣлѣхъ ни по цѣлꙑхъ причѧщати сѧ могѫща ·
-
-— Не · Зевсомъ · рече · не мьнить ми сѧ отънѫдь легко быти таковоє опрѣдѣлити ·
-
-— Что же · рече · къ семѹ како имаши сѧ ·
-
-— Къ коѥмѹ ·
-
-## 131e
-
-### Srpski
-
 postaće manje nego pre, a ne veće.
 
 — To se ne bi moglo dogoditi — reče.
@@ -597,7 +571,7 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — Ali, Parmenide — reče Sokrat — možda je svaki od tih vidova pojam, te mu ne priliči da nastaje igde drugde nego u dušama. Tako bi svaki bio jedan i više ne bi trpeo ono što je maločas rečeno.
 
-— Kako onda? — reče. — Je li svaki pojam jedan, a nije pojam ni o čemu?
+— Kako onda? — reče. — Je li svaki pojam jedan, a nije pojam o ničemu?
 
 — Nemožno — reče.
 
@@ -605,9 +579,9 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — Da.
 
-— O biću ili nebiću?
+— O suštom ili nesuštom?
 
-— O biću.
+— O suštom.
 
 ### Staroslovenski
 
@@ -631,7 +605,7 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 ### Srpski
 
-— Zar ne o nekom jednom biću, koje taj pojam poima kao prisutno nad svima, kao neku jednu viđu?
+— Zar ne o nekom jednom suštom, koje taj pojam poima kao prisutno nad svima, kao neku jednu viđu?
 
 — Da.
 
@@ -757,7 +731,7 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — Dobro kažeš — reče.
 
-— Dakle, oni vidovi koji jesu ono što jesu jedni prema drugima imaju svoje biće prema samima sebi, a ne prema onome što je kod nas, bilo da to smatramo njihovim prilikama ili kako god ih nazivamo, učestvujući u kojima mi dobijamo njihova pojedinačna imena.
+— Dakle, oni vidovi koji jesu ono što jesu jedni prema drugima imaju svoje bitije prema samima sebi, a ne prema onome što je kod nas, bilo da to smatramo njihovim prilikama ili kako god ih nazivamo, učestvujući u kojima mi dobijamo njihova pojedinačna imena.
 
 ### Staroslovenski
 
@@ -965,7 +939,7 @@ Ili ne razumeš šta govorim?
 
 — Slažem se s tobom, Parmenide — reče Sokrat — jer govoriš sasvim po mom mnenju.
 
-— Ali ipak — reče Parmenid — ako neko, Sokrate, s druge strane, ne dopusti da postoje vidovi bića, gledajući na sve ovo što smo sada rekli i drugo tome slično, niti odredi neki vid svakoga pojedinog,
+— Ali ipak — reče Parmenid — ako neko, Sokrate, s druge strane, ne dopusti da postoje vidovi suštih, gledajući na sve ovo što smo sada rekli i drugo tome slično, niti odredi neki vid svakoga pojedinog,
 
 ### Staroslovenski
 
@@ -979,7 +953,7 @@ Ili ne razumeš šta govorim?
 
 ### Srpski
 
-neće imati kuda da okrene razmišljanje, jer neće dopustiti da viđa svakog bića uvek bude ista; i tako će sasvim uništiti moć razgovaranja.
+neće imati kuda da okrene razmišljanje, jer neće dopustiti da viđa svakog suštog uvek bude ista; i tako će sasvim uništiti moć razgovaranja.
 
 — Čini mi se da govoriš istinu — reče.
 
@@ -1021,7 +995,7 @@ Dobro znaj, krasna je i božanska težnja kojom stremiš ka slovesima; ali povuc
 
 — Taj — reče — o kojem si čuo Zenona. Samo što sam se ja i ovome divio kada si mu rekao da ne dopuštaš da lutanje bude među vidljivim stvarima niti oko njih, nego među onima koje bi se ponajviše zahvatile slovenjem i mogle smatrati vidovima.
 
-— Jer mi se čini — reče — da na taj način nije nimalo teško pokazati da su bića i slična i neslična i da trpe bilo šta drugo.
+— Jer mi se čini — reče — da na taj način nije nimalo teško pokazati da su sušta i slična i neslična i da trpe bilo šta drugo.
 
 — I pravo — reče.
 
@@ -1901,7 +1875,7 @@ A Parmenid reče:
 
 — Izgleda.
 
-— Ali takođe ne postaje duže vreme od sebe niti kraće, nego jednako vreme sa sobom i postaje, i jeste, i postalo je, i biće.
+— Ali takođe ne postaje duže vreme od sebe niti kraće, nego jednako vreme sa sobom i postaje, i jeste, i postalo je, i bude.
 
 — Nužno je i to.
 
@@ -1963,7 +1937,7 @@ A Parmenid reče:
 
 ### Srpski
 
-— A šta? „Biće“, „postaće“ i „biće postalo“ ne označavaju učešće u potonjem vremenu?
+— A šta? „Bude“, „postaće“ i „bude postalo“ ne označavaju učešće u budućem vremenu?
 
 — Da.
 
@@ -2383,7 +2357,7 @@ A Parmenid reče:
 
 ### Srpski
 
-— Biće, dakle, parno puta parno, i neparno puta neparno, i parno puta neparno, i neparno puta parno.
+— Bude, dakle, parno puta parno, i neparno puta neparno, i parno puta neparno, i neparno puta parno.
 
 — Tako je.
 
@@ -2395,7 +2369,7 @@ A Parmenid reče:
 
 — Nužno.
 
-— Ali ako broj jeste, biće mnogo i beskrajno mnoštvo suštih; ili broj ne postaje beskrajan mnoštvom i učestvujući u suštastvu?
+— Ali ako broj jeste, bude mnogo i beskrajno mnoštvo suštih; ili broj ne postaje beskrajan mnoštvom i učestvujući u suštastvu?
 
 — Svakako.
 
@@ -3235,7 +3209,7 @@ A Parmenid reče:
 
 — Da.
 
-— Ukoliko je, dakle, isto, biće neslično, po trpljenju protivnom onome koje ga čini sličnim. A drugo ga je, valjda, učinilo sličnim?
+— Ukoliko je, dakle, isto, bude neslično, po trpljenju protivnom onome koje ga čini sličnim. A drugo ga je, valjda, učinilo sličnim?
 
 — Da.
 
@@ -3779,7 +3753,7 @@ A Parmenid reče:
 
 — Kako ne?
 
-— Imajući, dakle, jednake, više i manje mera, biće i manje i više po broju od sebe i od drugih, a isto tako i jednako sebi i drugima po broju.
+— Imajući, dakle, jednake, više i manje mera, bude i manje i više po broju od sebe i od drugih, a isto tako i jednako sebi i drugima po broju.
 
 ### Staroslovenski
 
@@ -3809,7 +3783,7 @@ A Parmenid reče:
 
 — Kako ne?
 
-— Dakle, biće i više i manje po broju od sebe, a i jednako sebi po broju.
+— Dakle, bude i više i manje po broju od sebe, i jednako sebi po broju.
 
 — Nužno.
 
@@ -3893,7 +3867,7 @@ A Parmenid reče:
 
 ### Srpski
 
-— A šta je biti drugo nego učestvovanje u suštastvu zajedno sa sadašnjim vremenom, kao što je „beše“ zajedništvo u suštastvu zajedno sa prošlim, a „biće“ zajedno sa budućim vremenom?
+— A šta je biti drugo nego učestvovanje u suštastvu zajedno sa sadašnjim vremenom, kao što je beše zajedništvo u suštastvu zajedno sa prošlim, a bude zajedno sa budućim vremenom?
 
 — Jeste.
 
@@ -3947,7 +3921,7 @@ A Parmenid reče:
 
 — Da.
 
-— A zar nije starije kada, postajući, dospe u sadašnje vreme, koje leži između „beše“ i „biće“? Jer prelazeći iz pre u posle, neće valjda preskočiti sada.
+— A zar nije starije kada, postajući, dospe u sadašnje vreme, koje leži između beše i bude? Jer prelazeći iz pre u posle, neće valjda preskočiti sada.
 
 — Neće.
 
@@ -4450,7 +4424,7 @@ A Parmenid reče:
 
 — Nužno.
 
-— Jedno je, dakle, bilo, jeste i biće; postajalo je, postaje i postaće.
+— Jedno, dakle, i beše i jeste i bude; i bivalo je, i biva i bivaće.
 
 — Kako ne?
 
@@ -4473,7 +4447,7 @@ A Parmenid reče:
 
 ### Srpski
 
-— I bilo je, jeste i biće nešto njemu i od njega.
+— I beše, jeste i bude nešto njemu i od njega.
 
 — Svakako.
 
@@ -4915,7 +4889,7 @@ A Parmenid reče:
 
 — Nemoguće.
 
-— A u jednom nužno učestvuju i celina i deo. Jer jedno će biti celina čiji su delovi delovi, a opet svaki pojedini jedan deo celine biće deo celine.
+— A u jednom nužno učestvuju i celina i deo. Jer jedno bude celina čiji su delovi delovi, a opet svaki pojedini deo celine bude jedan deo celine.
 
 — Svakako.
 
