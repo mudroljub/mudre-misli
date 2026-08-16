@@ -204,7 +204,7 @@
   {
     "id": "mm-000575",
     "type": "quote",
-    "sr": "Načela svega jesu atomi i praznina; za sve ostalo samo se mnije da postoji.",
+    "sr": "Načela svega jesu nedeljiva i praznina; za sve ostalo samo se mnije da postoji.",
     "stsl": "Начѧла вьсѣхъ сѫть недѣлима и праздьно · прочаꙗ же вьсѧ тъкмо мьнима сѫть ·",
     "originalText": "ἀρχὰς εἶναι τῶν ὅλων ἀτόμους καὶ κενόν, τὰ δ' ἄλλα πάντα νενομίσθαι.",
     "author": "Democritus",
@@ -246,7 +246,7 @@
   {
     "id": "mm-000578",
     "type": "quote",
-    "sr": "Atomi su beskrajni po veličini i broju. Vrtložeći se kroz celinu, obrazuju sve složene stvari: oganj, vodu, vazduh i zemlju. I one su sklopovi određenih atoma, a sami atomi zbog svoje čvrstine ne trpe ništa i ne menjaju se.",
+    "sr": "Nedeljiva su beskrajna po veličini i broju. Vrtložeći se kroz celinu, obrazuju sve složene stvari: oganj, vodu, vazduh i zemlju. I one su sklopovi određenih nedeljivih, a same nedeljive zbog svoje čvrstine ne trpe ništa i ne menjaju se.",
     "stsl": "Недѣлима величиною и числомъ бескраина сѫть · по вьсецѣломѹ вихрѧшта сѧ · вьсѧ сложенаꙗ съставлѧѭть · огнь · водѫ · въздѹхъ и землѭ · И си отъ нѣкыихъ недѣлимыхъ състави сѫть · сама же недѣлима твръдости ради ничьтоже страждѫть ни прѣмѣнѧѭть сѧ ·",
     "originalText": "τὰς ἀτόμους δὲ ἀπείρους εἶναι κατὰ μέγεθος καὶ πλῆθος, φέρεσθαι δ' ἐν τῷ ὅλῳ δινουμένας· καὶ οὕτω πάντα τὰ συγκρίματα γεννᾶν, πῦρ, ὕδωρ, ἀέρα, γῆν· εἶναι γὰρ καὶ ταῦτα ἐξ ἀτόμων τινῶν συστήματα· ἅπερ εἶναι ἀπαθῆ καὶ ἀναλλοίωτα διὰ τὴν στερρότητα.",
     "author": "Democritus",
@@ -314,20 +314,6 @@
     ]
   },
   {
-    "id": "mm-000583",
-    "type": "quote",
-    "sr": "Po običaju toplo, po običaju hladno; uistinu atomi i praznina.",
-    "stsl": "По обычаю тепло · по обычаю стѹдено · по истинѣ же недѣлима и праздьно ·",
-    "originalText": "νόμῳ θερμόν, νόμῳ ψυχρόν, ἐτεῇ δὲ ἄτομα καὶ κενόν.",
-    "author": "Democritus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.45"
-      }
-    ]
-  },
-  {
     "id": "mm-000584",
     "type": "quote",
     "sr": "Uistinu ništa ne znamo; jer istina je u dubini.",
@@ -362,7 +348,7 @@
   {
     "id": "mm-000586",
     "type": "quote",
-    "sr": "Po običaju slatko, po običaju gorko, po običaju toplo, po običaju hladno, po običaju boja; uistinu atomi i praznina.",
+    "sr": "Po običaju slatko, po običaju gorko, po običaju toplo, po običaju hladno, po običaju boja; uistinu nedeljiva i praznina.",
     "stsl": "По обычаю сладъко · по обычаю горько · по обычаю тепло · по обычаю стѹдено · по обычаю цвѣтъ · по истинѣ же недѣлима и праздьно ·",
     "originalText": "νόμῳ γλυκύ, νόμῳ πικρόν, νόμῳ θερμόν, νόμῳ ψυχρόν, νόμῳ χροιή, ἐτεῇ δὲ ἄτομα καὶ κενόν.",
     "author": "Democritus",
@@ -370,6 +356,10 @@
       {
         "name": "hermann-diels",
         "reference": "68 B 125"
+      },
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.45"
       }
     ]
   },
@@ -2687,7 +2677,7 @@
     "id": "mm-000751",
     "type": "quote",
     "sr": "Život bez praznika dug je put bez svratišta.",
-    "stsl": "Животъ безъ праздьника длъгъ пѫть безъ страньноприимьнице єсть ·",
+    "stsl": "Житіє безъ праздьника длъгъ пѫть безъ страньноприимьнице єсть ·",
     "originalText": "βίος ἀνεόρταστος μακρὴ ὁδὸς ἀπανδόκευτος.",
     "author": "Democritus",
     "sources": [
