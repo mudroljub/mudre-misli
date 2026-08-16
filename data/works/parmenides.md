@@ -3683,3 +3683,2728 @@ A Parmenid reče:
 
 — Како бо ни ·
 
+## 150e
+
+### Srpski
+
+— Kako ne?
+
+— A i samo jedno prema sebi tako bi stajalo: nemajući u sebi ni veličinu ni malost, niti bi bilo nadmašeno niti bi nadmašivalo samo sebe, nego bi, budući na ravnom, bilo jednako sebi.
+
+— Svakako.
+
+— Jedno bi, dakle, bilo jednako i sebi i drugima.
+
+— Izgleda.
+
+### Staroslovenski
+
+— Како бо ни ·
+
+— И само же єдино къ себѣ тако имѣло бы · ни величьства въ себѣ ни малости имѫще · ни прѣвъсходимо бꙑло бы · ни прѣвъсходило бы самого себе · нъ на равнѣ сꙑ · равно бꙑло бы себѣ ·
+
+— Вьсѣко ·
+
+— Єдино ѹбо и себѣ и инꙑмъ равно бꙑло бы ·
+
+— Видить сѧ ·
+
+## 151a
+
+### Srpski
+
+— A i samo jedno, budući u sebi, obuhvatalo bi samo sebe i bilo bi veće od sebe, a budući obuhvaćeno sobom, bilo bi manje od sebe; i tako bi jedno bilo i veće i manje od sebe.
+
+— Bilo bi.
+
+— Nije li, dakle, nužno i da ništa ne bude izvan jednog i drugih?
+
+— Kako ne?
+
+### Staroslovenski
+
+— И само єдино · въ себѣ сꙑ · обьѥмлѭло бы само себе и велиѥ себе бꙑло бы · обьѥмлемо же собоѭ · мьньше себе бꙑло бы · и тако єдино и велиѥ и мьньше себе бꙑло бы ·
+
+— Бꙑло бы ·
+
+— Не ѹбо нѫжда и ничемѹ вънѣ єдинаго и инꙑхъ быти ·
+
+— Како бо ни ·
+
+## 151b
+
+### Srpski
+
+— Ali sušto mora uvek negde biti.
+
+— Da.
+
+— Zar ono što je u nečemu neće, budući manje, biti u većem? Jer drukčije jedno ne bi moglo biti u drugom.
+
+— Ne bi.
+
+— A pošto nema ničega drugog osim drugih i jednog, a oni moraju biti u nečemu, nije li već nužno da budu jedni u drugima, druga u jednom i jedno u drugima, ili pak nigde?
+
+— Očigledno.
+
+— A pošto je jedno u drugima, druga bi bila veća od jednog, obuhvatajući ga, a jedno manje od drugih, budući njima obuhvaćeno; a pošto su druga u jednom, jedno bi po istom rasuđivanju bilo veće od drugih, a druga manja od jednog.
+
+### Staroslovenski
+
+— Нъ сѫщемѹ вьсегда нѣгдѣ быти подобаѥть ·
+
+— Да ·
+
+— Не ѹбо єже въ чемь єсть · мьньше сꙑ · въ велиꙑмь бѫдеть · не бо инако єдино въ иномь бꙑло бы ·
+
+— Не бо ·
+
+— Понеже же ничтоже ино єсть развѣ инꙑхъ и єдинаго · подобаѥть же имъ въ чемь быти · не нѫжда ли ѹже дрѹгъ въ дрѹзѣ быти · инꙑмъ въ єдиномь и єдиномѹ въ инꙑхъ · или нигдѣже ·
+
+— Ꙗвѣ ·
+
+— Понеже же єдино въ инꙑхъ єсть · инаꙗ велиꙗша єдинаго бꙑла бы · обьѥмлѭща є · єдино же мьньше инꙑхъ · обьѥмлемо ими · понеже же инаꙗ въ єдиномь сѫть · єдино по томѹжде словѹ велиѥ инꙑхъ бꙑло бы · инаꙗ же мьньша єдинаго ·
+
+## 151c
+
+### Srpski
+
+— Izgleda.
+
+— Jedno je, dakle, jednako i veće i manje od sebe i od drugih.
+
+— Izgleda.
+
+— A ako je veće i manje i jednako, imaće jednake, više i manje mera nego ono samo i druga; a ako ima mere, imaće i delove.
+
+— Kako ne?
+
+— Imajući, dakle, jednake, više i manje mera, biće i manje i više po broju od sebe i od drugih, a isto tako i jednako sebi i drugima po broju.
+
+### Staroslovenski
+
+— Видить сѧ ·
+
+— Єдино ѹбо и равно и велиѥ и мьньше єсть самого себе и инꙑхъ ·
+
+— Видить сѧ ·
+
+— Аще же велиѥ и мьньше и равно · равнꙑ и множаишꙑ и мьньшꙑ мѣрꙑ имѣти бѫдеть себѣ же и инꙑмъ · аще же мѣрꙑ · и дѣлꙑ ·
+
+— Како бо ни ·
+
+— Равнꙑ ѹбо и множаишꙑ и мьньшꙑ мѣрꙑ имѣѩ · и мьньше и множаише числомъ бѫдеть самого себе и инꙑхъ · и равно пакꙑ себѣ и инꙑмъ по числѹ ·
+
+## 151d
+
+### Srpski
+
+— Kako?
+
+— Od onih od kojih je veće imaće više mera, a od onih od kojih je manje manje, a od onih kojima je jednako jednake.
+
+— Da.
+
+— Dakle, budući veće i manje od sebe i jednako sebi, imaće više i manje mera od sebe i jednake sebi.
+
+— Kako ne?
+
+— Dakle, biće i više i manje po broju od sebe, a i jednako sebi po broju.
+
+— Nužno.
+
+### Staroslovenski
+
+— Како ·
+
+— Ихъже велиѥ єсть · множаишꙑ мѣрꙑ имѣти бѫдеть · ихъже мьньше · мьньшꙑ · имъже равно · равнꙑ ·
+
+— Да ·
+
+— Велиѥ ѹбо и мьньше самого себе сꙑ и равно себѣ · множаишꙑ и мьньшꙑ мѣрꙑ имѣти бѫдеть самого себе · и равнꙑ себѣ ·
+
+— Како бо ни ·
+
+— И множаише ѹбо и мьньше числомъ самого себе бѫдеть · и равно себѣ по числѹ ·
+
+— Нѫжда ·
+
+## 151e
+
+### Srpski
+
+— A budući veće od drugih, imaće više mera nego druga; a koliko mera, toliko i delova. Tako će i po broju biti više od drugih.
+
+— Pravo.
+
+— A budući manje od drugih, imaće manje mera; a koliko mera, toliko i delova. Tako će i po broju biti manje od drugih.
+
+— Tako je.
+
+— A budući jednako drugima, imaće jednake mere; te će i po broju biti jednako drugima.
+
+— Nužno.
+
+### Staroslovenski
+
+— Велиѥ же инꙑхъ сꙑ · множаишꙑ мѣрꙑ имѣти бѫдеть инꙑхъ · єлико же мѣръ · толико и дѣловъ · и тако множаише числомъ инꙑхъ бѫдеть ·
+
+— Право ·
+
+— Мьньше же инꙑхъ сꙑ · мьньшꙑ мѣрꙑ имѣти бѫдеть · єлико же мѣръ · толико и дѣловъ · и тако мьньше числомъ инꙑхъ бѫдеть ·
+
+— Тако єсть ·
+
+— Равно же инꙑмъ сꙑ · равнꙑ мѣрꙑ имѣти бѫдеть · и тако равно числомъ инꙑмъ бѫдеть ·
+
+— Нѫжда ·
+
+## 151e
+
+### Srpski
+
+— Tako će opet, kako izgleda, jedno biti i jednako i više i manje po broju, i od sebe samoga i od drugih.
+
+— Biće.
+
+— Zar jedno učestvuje i u vremenu, te i jeste i postaje mlađe i starije, i od sebe samoga i od drugih, a opet nije ni mlađe ni starije ni od sebe samoga ni od drugih, učestvujući u vremenu?
+
+— Kako?
+
+— Biti mu, valjda, pripada, ako jedno jeste.
+
+— Da.
+
+### Staroslovenski
+
+— Тако ѹбо пакꙑ · ꙗкоже видить сѧ · єдино и равно и множаише и мьньше числомъ · и самого себе и инꙑхъ бѫдеть ·
+
+— Бѫдеть ·
+
+— Єда ѹбо и врѣмене причѧщаѥть сѧ єдино · и єсть и бываѥть младѣише и старѣише · и самого себе и инꙑхъ · и ни младѣише ни старѣише ни самого себе ни инꙑхъ · врѣмене причѧщаѭще сѧ ·
+
+— Како ·
+
+— Быти бо ємѹ присѫще єсть · аще єдино єсть ·
+
+— Да ·
+
+## 152a
+
+### Srpski
+
+— A šta je biti drugo nego učestvovanje u suštastvu zajedno sa sadašnjim vremenom, kao što je „beše“ zajedništvo u suštastvu zajedno sa prošlim, a „biće“ zajedno sa budućim vremenom?
+
+— Jeste.
+
+— Učestvuje, dakle, u vremenu, ako učestvuje i u biti.
+
+— Svakako.
+
+— Zar ne u vremenu koje prolazi?
+
+— Da.
+
+— Dakle, uvek postaje starije od sebe, ako napreduje kroz vreme.
+
+— Nužno.
+
+— Sećamo li se, dakle, da starije postaje starije dok mlađe postaje?
+
+— Sećamo se.
+
+### Staroslovenski
+
+— Быти же что ино єсть · развѣ причѧстиѥ сѫщьства съ нꙑнѣшьнимь врѣменемь · ꙗкоже бѣ съ минѫвъшимь · и пакꙑ бѫдеть съ бѫдѫщимь врѣменемь общениѥ сѫщьства єсть ·
+
+— Єсть бо ·
+
+— Причѧщаѥть сѧ ѹбо врѣмене · аще и бытиꙗ причѧщаѥть сѧ ·
+
+— Вьсѣко ·
+
+— Не ѹбо идѫщаго врѣмене ·
+
+— Да ·
+
+— Вьсегда ѹбо старѣише себе бываѥть · аще по врѣмени прѣходить ·
+
+— Нѫжда ·
+
+— Помьнимъ ли ѹбо · ꙗко младѣишѹ бываѭщѹ старѣише старѣише бываѥть ·
+
+— Помьнимъ ·
+
+## 152b
+
+### Srpski
+
+— Jedno, dakle, postajući starije od sebe, postaje starije od sebe koje postaje mlađe.
+
+— Nužno.
+
+— Postaje, dakle, i starije i mlađe od sebe.
+
+— Da.
+
+— A zar nije starije kada, postajući, dospe u sadašnje vreme, koje leži između „beše“ i „biće“? Jer prelazeći iz pre u posle, neće valjda preskočiti sada.
+
+— Neće.
+
+— Zar onda ne prestaje da postaje starije kada dospe u sadašnje, i više ne postaje, nego tada već jeste starije? Jer ako bi napredovalo, nikada ga sadašnje ne bi zahvatilo; jer ono što napreduje takve je prirode da dodiruje oboje, sadašnje i buduće, napuštajući sadašnje a hvatajući buduće, postajući između oboga, budućeg i sadašnjeg.
+
+— Istina.
+
+### Staroslovenski
+
+— Єдино ѹбо старѣише себе бываѩ · младѣишаго себе бываѭща старѣише бываѥть ·
+
+— Нѫжда ·
+
+— И старѣише ѹбо и младѣише себе бываѥть ·
+
+— Да ·
+
+— Не старѣише ли єсть · єгда бываѩ въ нꙑнѣшьнѥѥ врѣмѧ придеть · єже междѹ бѣ и бѫдеть лежить · отъ прѣждьнꙗго бо къ послѣдьнѥмѹ прѣходѧ · не прѣскочить нꙑнѣшьнꙗго ·
+
+— Не бо ·
+
+— Не ѹбо прѣстаѥть старѣише бывати · єгда въ нꙑнѣшьнѥѥ придеть · и не к томѹ бываѥть · нъ тогда ѹже старѣише єсть · аще бо прѣходило бы · никогда єго нꙑнѣшьнѥѥ не постигло бы · прѣходѧщее бо таково єсть · ꙗко обоего касати сѧ · нꙑнѣшьнꙗго же и бѫдѫщаго · нꙑнѣшьнѥѥ оставлꙗѩ · бѫдѫщее же приѥмлѧ · междѹ обоима бываѩ · бѫдѫщимь же и нꙑнѣшьнимь ·
+
+— Истина ·
+
+## 152c
+
+### Srpski
+
+— Ako, dakle, ono što postaje nužno ne može mimoići sadašnje, kad god je u sadašnjem, uvek prestaje da postaje i tada jeste ono što je upravo postajalo.
+
+— Očigledno.
+
+— Dakle, i jedno, kada postajući starije dospe u sadašnje, prestaje da postaje i tada jeste starije.
+
+— Svakako.
+
+— Nije li starije od onoga od čega je i postajalo starije? A postajalo je starije od sebe?
+
+— Da.
+
+— A starije je starije od mlađega?
+
+— Jeste.
+
+— Dakle, jedno je i mlađe od sebe kada, postajući starije, dospe u sadašnje.
+
+— Nužno.
+
+### Staroslovenski
+
+— Аще ѹбо нѫжда бываѭщемѹ нꙑнѣшьнꙗго не минѫти · єгда въ нꙑнѣшьнѥмь єсть · вьсегда прѣстаѥть бывати · и тогда єсть то · єже бывааше ·
+
+— Ꙗвѣ ·
+
+— И єдино ѹбо · єгда старѣише бываѩ въ нꙑнѣшьнѥѥ придеть · прѣстаѥть бывати · и тогда старѣише єсть ·
+
+— Вьсѣко ·
+
+— Не того ли старѣише єсть · єгоже и старѣише бывааше · старѣише же себе бывааше ·
+
+— Да ·
+
+— Старѣише же младѣишаго старѣише єсть ·
+
+— Єсть ·
+
+— И младѣише ѹбо себе єсть єдино · єгда старѣише бываѩ въ нꙑнѣшьнѥѥ придеть ·
+
+— Нѫжда ·
+
+## 152d
+
+### Srpski
+
+— A sadašnje je uvek prisutno jednom kroz sve njegovo biti; jer kad god jeste, uvek je sada.
+
+— Kako ne?
+
+— Jedno je, dakle, uvek i starije i mlađe od sebe.
+
+— Izgleda.
+
+— A jeste li ili postaje duže vreme od sebe, ili jednako vreme?
+
+— Jednako.
+
+— A ono što postaje ili jeste jednako vreme ima istu dob.
+
+— Kako ne?
+
+— A ono što ima istu dob nije ni starije ni mlađe.
+
+— Nije.
+
+— Jedno, dakle, postajući i budući jednako vreme sa sobom, niti je niti postaje starije ili mlađe od sebe.
+
+— Ne izgleda.
+
+### Staroslovenski
+
+— Нꙑнѣшьнѥѥ же вьсегда присѫще єсть єдиномѹ по вьсемѹ бытиѭ єго · єгда бо єсть · вьсегда нꙑнѣ єсть ·
+
+— Како бо ни ·
+
+— Вьсегда ѹбо и старѣише и младѣише себе єсть єдино ·
+
+— Видить сѧ ·
+
+— Множаише ли же врѣмѧ самого себе єсть или бываѥть · или равно ·
+
+— Равно ·
+
+— Єже же равно врѣмѧ бываѥть или єсть · того же възраста єсть ·
+
+— Како бо ни ·
+
+— Єже же того же възраста єсть · ни старѣише ни младѣише єсть ·
+
+— Не бо ·
+
+— Єдино ѹбо · равно врѣмѧ самомѹ себѣ бываѩ и сꙑ · ни старѣише ни младѣише самого себе єсть ни бываѥть ·
+
+— Не видить сѧ ·
+
+## 152e
+
+### Srpski
+
+— A šta je sa drugima? Ne vidim zašto bi bilo drukčije.
+
+— Ni ja.
+
+— Dakle, i jedno prema drugima, kao i druga prema jednom, jeste i postaje i starije i mlađe i nije niti postaje ni starije ni mlađe.
+
+— Kako?
+
+— Kada su jedno i druga, i kada se broju drugih pridoda jedno, nisu li druga brojnija od jednog, a jedno malobrojnije od drugih?
+
+— Jesu.
+
+### Staroslovenski
+
+— Что же къ инꙑмъ · не виждѫ · чесо ради инако бы имѣло ·
+
+— Ни азъ ·
+
+— И єдино ѹбо къ инꙑмъ · ꙗкоже инаꙗ къ єдиномѹ · и старѣише и младѣише єсть и бываѥть · и ни старѣише ни младѣише ни єсть ни бываѥть ·
+
+— Како ·
+
+— Єдиномѹ и инꙑмъ сѫщимъ · и єдиномѹ къ числѹ инꙑхъ приложенѹ · не множаиша ли инаꙗ єдинаго числомъ · єдино же малочисльнѣише инꙑхъ ·
+
+— Сѫть ·
+
+## 153a
+
+### Srpski
+
+— Da.
+
+— A šta je po prirodi prvo: jedno ili druga?
+
+— Jedno.
+
+— A prvo je, valjda, ranije nastalo, a kasnije kasnije?
+
+— Nužno.
+
+— A ono što je ranije nastalo starije je, a ono što je kasnije nastalo mlađe?
+
+— Da.
+
+— Jedno je, dakle, starije od drugih, a druga mlađa od jednog.
+
+— Tako je.
+
+### Staroslovenski
+
+— Да ·
+
+— Что же по природѣ пръвѣѥ · єдино или инаꙗ ·
+
+— Єдино ·
+
+— Пръвѣѥ же · мьнѭ · прѣжде бꙑсть · послѣдьнѥѥ же послѣ ·
+
+— Нѫжда ·
+
+— Єже же прѣжде бꙑсть · старѣише єсть · єже же послѣ · младѣише ·
+
+— Да ·
+
+— Єдино ѹбо старѣише инꙑхъ єсть · инаꙗ же младѣиша єдинаго ·
+
+— Тако ·
+
+## 153b
+
+### Srpski
+
+— Najmanje, dakle, nastaje prvo; a to je jedno. Zar ne?
+
+— Da.
+
+— Jedno je, dakle, nastalo prvo od svega što ima broj; a i sva druga imaju broj, ako su druga, a ne drugo.
+
+— Imaju.
+
+— A ono što je nastalo prvo, mislim, nastalo je ranije, a druga kasnije; ono pak što je nastalo kasnije mlađe je od onoga što je nastalo ranije. I tako bi druga bila mlađa od jednog, a jedno starije od drugih.
+
+— Bila bi.
+
+### Staroslovenski
+
+— Мьнѣишее ѹбо пръвѣѥ бываѥть · се же єсть єдино · не тако ли ·
+
+— Да ·
+
+— Єдино ѹбо пръвѣѥ вьсѣхъ бꙑсть · елика числъ имѫтъ · имѫтъ же и инаꙗ вьсѣ числъ · аще ина сѫть · а не ино ·
+
+— Имѫтъ бо ·
+
+— Пръвѣѥ же · мьнѭ · бꙑвъшее прѣжде бꙑсть · инаꙗ же послѣ · послѣ же бꙑвъшаꙗ младѣиша сѫть прѣжде бꙑвъшаго · и тако инаꙗ младѣиша єдинаго бꙑла бы · єдино же старѣише инꙑхъ ·
+
+— Бꙑло бы ·
+
+## 153c
+
+### Srpski
+
+— A šta? Zar jedno nije nastalo protivno svojoj prirodi?
+
+— Kako?
+
+— Ako je jedno, nema delova.
+
+— Kako bi?
+
+— Dakle, neće nastati ni posle delova, ako je celina sastavljena od delova; jer bi tada jedno nastalo poslednje od svega.
+
+— Očigledno.
+
+— A ono što nastaje poslednje nastaje mlađe od drugih.
+
+— Mlađe.
+
+— Tako bi jedno bilo i mlađe od drugih.
+
+— Izgleda.
+
+### Staroslovenski
+
+— Что же · не противѹ ли своѥи природѣ єдино бꙑсть ·
+
+— Како ·
+
+— Аще єдино єсть · дѣловъ не имать ·
+
+— Како бо ·
+
+— Ни ѹбо послѣ дѣловъ бѫдеть · аще цѣло изъ дѣловъ съставлено єсть · тако бо єдино послѣдьнѥѥ вьсѣхъ бꙑло бы ·
+
+— Ꙗвѣ ·
+
+— Єже же послѣдьнѥѥ бываѥть · младѣише инꙑхъ бываѥть ·
+
+— Младѣише ·
+
+— Тако ѹбо єдино и младѣише инꙑхъ бꙑло бы ·
+
+— Видить сѧ ·
+
+## 153d
+
+### Srpski
+
+— A šta je s drugim? Nije li nužno da su druga nastala posle jednog?
+
+— Nužno.
+
+— Tako bi, dakle, druga bila starija od jednog, a jedno mlađe od drugih.
+
+— Izgleda.
+
+— Šta onda? Načelo svakog nastajanja nije li prvo nastalo?
+
+— Nužno.
+
+— A načelo nije ništa drugo nego jedno; jer načelo svega ne bi bilo načelo kada ne bi bilo jedno.
+
+— Istina.
+
+### Staroslovenski
+
+— Что же инаꙗ · не нѫжда ли имъ послѣ єдинаго быти ·
+
+— Нѫжда ·
+
+— Тако ѹбо инаꙗ старѣиша єдинаго бꙑла бы · єдино же младѣише инꙑхъ ·
+
+— Видить сѧ ·
+
+— Что же · начало кождого бытиꙗ не пръвѣѥ ли бываѥть ·
+
+— Нѫжда ·
+
+— Начало же не ино что єсть развѣ єдино · не бо бы начало вьсѣхъ начало бꙑло · аще не єдино бꙑло бы ·
+
+— Истина ·
+
+## 153e
+
+### Srpski
+
+— Dakle, jedno bi nastajalo zajedno s prvim što nastaje i zajedno s drugim, i ne izostaje ni od jednog od drugih što nastaju, ma šta se pridodavalo bilo čemu, sve dok, prošavši do poslednjega, ne postane celo jedno; ne izostajući pri nastajanju ni od srednjega, ni od prvoga, ni od poslednjega, niti od ijednoga drugog.
+
+— Istina.
+
+— Jedno, dakle, ima istu dob sa svim drugim; tako da samo jedno, ako nije protivno svojoj prirodi, ne bi moglo nastati ni pre ni posle drugih, nego zajedno s njima.
+
+### Staroslovenski
+
+— Єдино ѹбо въкѹпѣ съ пръвꙑмь бываѭщимь бываѥть · и съ вторꙑмь · и ни отъ єдинаго отъ инꙑхъ бываѭщихъ отъстаѥть · єже любо къ чемѹ любо прибываѥть · доньдеже до послѣдьнꙗго прѣшедъ цѣло єдино бѫдеть · ни срѣдьнꙗго ни пръваго ни послѣдьнꙗго ни иного ни єдинаго не отъставъ въ бываніи ·
+
+— Истина ·
+
+— Того же ѹбо възраста єдино вьсѣмъ инꙑмъ єсть · ꙗко самомѹ єдиномѹ · аще не противѹ природѣ своѥи бꙑло бы · ни прѣжде ни послѣ инꙑхъ мощьно бꙑло бы быти · нъ въкѹпѣ съ ними ·
+
+## 154a
+
+### Srpski
+
+— Po ovom rasuđivanju, dakle, jedno ne bi bilo ni starije ni mlađe od drugih, niti druga od jednog; a po prethodnom bi bilo i starije i mlađe, a isto tako i druga od njega.
+
+— Svakako.
+
+— Tako, dakle, jeste i tako je postalo. Ali šta je opet sa tim da ono postaje starije i mlađe od drugih, a druga od jednog, i da niti postaje mlađe niti starije? Da li sa postajanjem stoji isto kao sa bivanjem, ili drukčije?
+
+### Staroslovenski
+
+— По семѹ ѹбо словѹ єдино ни старѣише ни младѣише инꙑхъ бꙑло бы · ни инаꙗ єдинаго · по прѣждьнѥмѹ же и старѣише и младѣише · и инаꙗ єго такоже ·
+
+— Вьсѣко ·
+
+— Єсть ѹбо тако имѣѩ и бꙑсть · нъ что пакꙑ о єже бывати ємѹ старѣишѹ и младѣишѹ инꙑхъ · и инꙑмъ єдинаго · и ни младѣишѹ ни старѣишѹ бывати · єда ꙗкоже о быти · тако и о бывати имать · или инако ·
+
+
+## 154b
+
+### Srpski
+
+— Ne umem reći.
+
+— Ali ja mogu barem ovo: čak i ako je jedno starije od drugoga, ne bi moglo postajati još starije nego što se po dobi razlikovalo čim je prvo nastalo, niti bi ono koje je mlađe moglo postajati još mlađe. Jer kada se nejednakima dodaje jednako, bilo vreme bilo šta drugo, ono čini da se uvek razlikuju za jednako koliko su se razlikovali u početku.
+
+— Kako ne?
+
+### Staroslovenski
+
+— Не вѣмь рещи ·
+
+— Нъ азъ сице могу рещи · аще и старѣише єсть ино иного · не могло бы ѹже старѣише бывати паче · нежели єгда пръвѣѥ бꙑсть възрастомъ разньствоваше · ни пакꙑ младѣише сꙑ младѣише ѥще бывати · неравнꙑмъ бо равнаꙗ прилагаѥма · врѣмѧ же и ино что любо · равно творѧтъ вьсегда разньствовати · єлико пръвѣѥ разньствоваста ·
+
+— Како бо ни ·
+
+
+## 154c
+
+### Srpski
+
+— Dakle, jedno sušto nikada ne bi postajalo ni starije ni mlađe od drugih suštih, ako se po dobi uvek razlikuje jednako; nego jeste i postalo je starije, a ono drugo mlađe, ali ne postaje.
+
+— Istina.
+
+— Ni sušto jedno, dakle, nikada ne postaje ni starije ni mlađe od drugih suštih.
+
+— Ne.
+
+— Ali pogledaj da li ovako postaju stariji i mlađi.
+
+— Kako?
+
+— Utoliko što se jedno pokazalo starije od drugih, a druga od jednog.
+
+— Pa šta?
+
+### Staroslovenski
+
+— Єдино ѹбо сѫщее никогда ни старѣише ни младѣише инꙑхъ сѫщихъ бываѥть · аще равно вьсегда възрастомъ разньствѹѥть · нъ єсть и бꙑсть старѣише · оно же младѣише · бываѥть же ни ·
+
+— Истина ·
+
+— И єдино ѹбо сѫщее инꙑхъ сѫщихъ ни старѣише когда ни младѣише бываѥть ·
+
+— Не бо ·
+
+— Виждь же · аще сице старѣиша и младѣиша бываѭть ·
+
+— Како ·
+
+— Єлико єдино инꙑхъ старѣише показа сѧ · и инаꙗ єдинаго ·
+
+— Что ѹбо ·
+
+## 154d
+
+### Srpski
+
+— Kada je jedno starije od drugih, nastalo je pre više vremena nego druga.
+
+— Da.
+
+— Razmotri onda ponovo: ako većem i manjem vremenu dodajemo jednako vreme, hoće li se veće od manjega razlikovati za jednak deo ili za manji?
+
+— Za manji.
+
+— Dakle, odnos po kojem se jedno u početku po dobi razlikovalo od drugih neće ostati isti i potom, nego će, primajući jednako vreme kao druga, po dobi od njih uvek biti manje različito nego ranije; zar ne?
+
+— Da.
+
+### Staroslovenski
+
+— Єгда єдино старѣише инꙑхъ єсть · множаише врѣмѧ инꙑхъ бꙑсть ·
+
+— Да ·
+
+— Пакꙑ ѹбо смотри · аще къ множаишемѹ и мьньшемѹ врѣмени равно врѣмѧ прилагаѥмъ · єда равнꙑмь дѣломъ множаише отъ мьньшаго разньствовати бѫдеть · или мьньшимь ·
+
+— Мьньшимь ·
+
+— Не ѹбо · єлико пръвѣѥ єдино отъ инꙑхъ възрастомъ разньствоваше · толико и послѣ бѫдеть · нъ равно врѣмѧ съ инꙑми приѥмлѧ · мьньше вьсегда възрастомъ отъ нихъ разньствовати бѫдеть · нежели прѣжде · не тако ли ·
+
+— Да ·
+
+## 154e
+
+### Srpski
+
+— A ono što se po dobi manje razlikuje od nečega nego ranije, ne postaje li mlađe nego ranije prema onima od kojih je ranije bilo starije?
+
+— Mlađe.
+
+— A ako ono postaje mlađe, zar druga prema jednom ne postaju starija nego ranije?
+
+— Svakako.
+
+— Ono što je, dakle, kasnije nastalo postaje starije prema onome što je ranije nastalo i što je starije; ali nikada nije starije, nego uvek postaje starije od njega: jer jedno napreduje prema mlađem, a drugo prema starijem.
+
+### Staroslovenski
+
+— Єже же мьньше възрастомъ отъ чего разньствѹѥть · нежели прѣжде · не младѣише ли бываѥть · нежели прѣжде · къ тѣмъ ихъже старѣише прѣжде бѣ ·
+
+— Младѣише ·
+
+— Аще же оно младѣише бываѥть · не инаꙗ къ єдиномѹ старѣиша бываѭть · нежели прѣжде ·
+
+— Вьсѣко ·
+
+— Єже ѹбо послѣ бꙑсть · старѣише бываѥть къ прѣжде бꙑвъшемѹ и старѣишемѹ · николи же старѣише єсть · нъ вьсегда старѣише єго бываѥть · оно бо къ младѣишемѹ идеть · се же къ старѣишемѹ ·
+
+## 155a
+
+### Srpski
+
+— A starije opet na isti način postaje mlađe od mlađega. Jer krećući se u protivnim smerovima, postaju protivno jedno drugome: mlađe starije od starijega, a starije mlađe od mlađega; ali ne bi mogli dovršiti postajanje. Jer kada bi dovršili postajanje, više ne bi postajali, nego bi bili. Sada pak postaju stariji i mlađi jedno od drugoga: jedno postaje mlađe od drugih, jer se pokazalo da je starije i da je ranije nastalo,
+
+### Staroslovenski
+
+— Старѣише же пакꙑ младѣише младѣишаго такоже бываѥть · къ противьнꙑмъ бо идѫща · противьна дрѹгъ дрѹгѹ бываѥта · младѣише старѣише старѣишаго · старѣише же младѣише младѣишаго · съвръшити же бываніѥ не могла бы · аще бо съвръшила бы · не к томѹ бывала бы · нъ бꙑла бы · нꙑнѣ же старѣиша дрѹгъ дрѹга и младѣиша бываѭть · єдино младѣише инꙑхъ бываѥть · понеже старѣише показа сѧ сꙑ и прѣжде бꙑвъше ·
+
+## 155b
+
+### Srpski
+
+— a druga postaju starija od jednog, jer su mlađa i kasnije nastala. Po istom rasuđivanju i jedno prema drugima postaje starije i mlađe, budući da se pokazalo kao mlađe od njih i kasnije nastalo.
+
+— Sasvim tako.
+
+— Ukoliko se, dakle, ništa ne razlikuje po dobi od drugoga, jer se uvek razlikuju za jednak broj, niti starije postaje mlađe niti mlađe starije jedno od drugoga; ukoliko pak deo za koji se razlikuju nužno postaje uvek drukčiji kada se jednima i drugima dodaje jednako vreme, utoliko starija postaju mlađa od mlađih, a mlađa starija od starijih.
+
+### Staroslovenski
+
+— инаꙗ же старѣиша єдинаго бываѭть · понеже младѣиша сѫть и послѣ бꙑша · по томѹжде словѹ и єдино къ инꙑмъ старѣише и младѣише бываѥть · понеже младѣише ихъ показа сѧ сꙑ и послѣ бꙑвъше ·
+
+— Вьсѣко тако ·
+
+— Єлико ѹбо ничтоже възрастомъ отъ иного разньствѹѥть · понеже равно числомъ вьсегда разньствѹѭтъ · ни старѣише младѣише бываѥть · ни младѣише старѣише дрѹгъ дрѹга · єлико же дѣлъ · имьже разньствѹѭтъ · нѫжда вьсегда инъ бывати · равномѹ врѣмени къ обоимъ прилагаѥмѹ · толико старѣиша младѣиша младѣишихъ бываѭть · младѣиша же старѣиша старѣишихъ ·
+
+
+## 155c
+
+### Srpski
+
+— Tako bi, dakle, jedno prema drugima i druga prema jednom na svaki način i bili i postajali i stariji i mlađi, a opet niti bi bili niti bi postajali ni stariji ni mlađi jedni od drugih.
+
+— Sasvim tako.
+
+— A pošto jedno učestvuje u vremenu i postaje starije i mlađe, nije li nužno da učestvuje i u nekada, potom i sada, ako učestvuje u vremenu?
+
+— Nužno.
+
+— Jedno je, dakle, bilo, jeste i biće; postajalo je, postaje i postaće.
+
+— Kako ne?
+
+### Staroslovenski
+
+— Тако ѹбо єдино къ инꙑмъ и инаꙗ къ єдиномѹ по вьсѣмъ образомъ и старѣиша и младѣиша и сѫть и бываѭть · и пакꙑ ни старѣиша ни младѣиша дрѹгъ дрѹга ни сѫть ни бываѭть ·
+
+— Вьсѣко тако ·
+
+— Понеже же єдино врѣмене причѧщаѥть сѧ · и старѣише и младѣише бываѥть · не нѫжда ли ємѹ и иногда и послѣ и нꙑнѣ причѧщати сѧ · аще врѣмене причѧщаѥть сѧ ·
+
+— Нѫжда ·
+
+— Єдино ѹбо и бѣ и єсть и бѫдеть · и бывааше и бываѥть и бывати бѫдеть ·
+
+— Како бо ни ·
+
+
+## 155d
+
+### Srpski
+
+— I bilo je, jeste i biće nešto njemu i od njega.
+
+— Svakako.
+
+— I ima, imalo je i imaće znanje, mnenje i čuvstvo o njemu, ako sada i mi sve ovo o njemu činimo.
+
+— Pravo govoriš.
+
+— Ima, dakle, i ime i slovo, i imenuje se i slovi; i koliko god takvih stvari pripada drugima, pripada i jednom.
+
+— Sasvim je tako.
+
+### Staroslovenski
+
+— И бѣ и єсть и бѫдеть нѣчто ємѹ и отъ него ·
+
+— Вьсѣко ·
+
+— И знаниѥ и мьнѣниѥ и чѹвьство о немь єсть и бѣ и бѫдеть · аще нꙑнѣ и мꙑ вьсѧ си о немь творимъ ·
+
+— Право глаголѥши ·
+
+— И имѧ ѹбо и слово имать · и именѹѥть сѧ и словить сѧ · и єлика такова инꙑмъ присѫтъ · и єдиномѹ присѫтъ ·
+
+— Вьсѣко тако имать ·
+
+## 155e
+
+### Srpski
+
+— A po treći put recimo još ovo. Ako jedno jeste takvo kakvim smo ga razložili, budući i jedno i mnogo, i niti jedno niti mnogo, i učestvujući u vremenu, nije li nužno da, zato što jedno jeste, ponekad učestvuje u suštastvu, a zato što nije, opet ponekad ne učestvuje u suštastvu?
+
+— Nužno.
+
+— Može li, dakle, onda kada učestvuje ne učestvovati, ili kada ne učestvuje učestvovati?
+
+— Ne može.
+
+— U jedno vreme, dakle, učestvuje, a u drugo ne učestvuje; jer samo tako može učestvovati i ne učestvovati u istome.
+
+— Pravo.
+
+### Staroslovenski
+
+— Третиѥ же пакꙑ се речемъ · аще єдино тако имать · ꙗкоже разложихомъ · и єдино сꙑ и многа · и ни єдино ни многа · и врѣмене причѧщаѭще сѧ · не нѫжда ли · понеже єдино єсть · иногда сѫщьства причѧщати сѧ · понеже же нѣсть · пакꙑ иногда сѫщьства не причѧщати сѧ ·
+
+— Нѫжда ·
+
+— Єда ѹбо · єгда причѧщаѥть сѧ · можеть не причѧщати сѧ · или єгда не причѧщаѥть сѧ · причѧщати сѧ ·
+
+— Не можеть ·
+
+— Въ иномь ѹбо врѣмени причѧщаѥть сѧ · въ иномь же не причѧщаѥть сѧ · тъкмо бо тако тогожде причѧщало сѧ бы и не причѧщало сѧ ·
+
+— Право ·
+
+
+## 156a
+
+### Srpski
+
+— Zar onda postoji i vreme kada prima suštastvo i kada ga otpušta? Ili kako bi moglo isto ponekad imati, a ponekad nemati, ako ga u nekom času ne prima i ne otpušta?
+
+— Nikako.
+
+— A primanje suštastva ne nazivaš nastajanjem?
+
+— Nazivam.
+
+— A otpuštanje suštastva propadanjem?
+
+— Svakako.
+
+— Jedno, dakle, kako izgleda, primajući i otpuštajući suštastvo, nastaje i propada.
+
+— Nužno.
+
+### Staroslovenski
+
+— Не єсть ли ѹбо и врѣмѧ · єгда сѫщьство приѥмлѥть · и єгда отпѹщаѥть · или како могло бы то жде иногда имѣти · иногда же не имѣти · аще не когда приѥмлѥть є и отпѹщаѥть ·
+
+— Никакоже ·
+
+— Сѫщьства же приѥтиѥ не бываніѥ ли нарицаѥши ·
+
+— Азъ бо ·
+
+— Отпѹщениѥ же сѫщьства · не погибель ли ·
+
+— Вьсѣко ·
+
+— Єдино ѹбо · ꙗкоже видить сѧ · сѫщьство приѥмлѧ и отпѹщаѩ · бываѥть и погибаѥть ·
+
+— Нѫжда ·
+
+
+## 156b
+
+### Srpski
+
+— A budući jedno i mnogo, i nastajući i propadajući, zar kada nastaje kao jedno ne propada njegovo bivanje mnogim, a kada nastaje kao mnogo ne propada njegovo bivanje jednim?
+
+— Svakako.
+
+— A kada nastaje jedno i mnogo, nije li nužno da se razdvaja i sjedinjuje?
+
+— Svakako.
+
+— I kada nastaje neslično i slično, da se upodobljava i razupodobljava?
+
+— Da.
+
+— A kada nastaje veće i manje i jednako, da raste i opada i izjednačuje se?
+
+— Tako je.
+
+### Staroslovenski
+
+— Єдино же сꙑ и многа · и бываѩ и погибаѩ · не єгда єдино бываѥть · многа быти погибаѥть · єгда же многа · єдино быти погибаѥть ·
+
+— Вьсѣко ·
+
+— Єдино же и многа бываѭщѹ · не нѫжда ли разлѫчати сѧ и съвъкѹплꙗти сѧ ·
+
+— Вьсѣко ·
+
+— И єгда неподобьно и подобьно бываѥть · ѹподоблꙗти сѧ и расподоблꙗти сѧ ·
+
+— Да ·
+
+— Єгда же велиѥ и мьньше и равно бываѥть · расти и ѹбывати и изравнꙗти сѧ ·
+
+— Тако ·
+
+## 156c
+
+### Srpski
+
+— A kada se krećući zaustavi, i kada stojeći počne da se kreće, valjda ni u jednom vremenu ne sme biti.
+
+— Kako to?
+
+— Nemoguće je da, najpre stojeći, potom bude pokrenuto, ili da se najpre kreće, a potom stoji, a da se ne promeni.
+
+— Kako bi?
+
+— Ali nema vremena u kojem nešto može istovremeno niti da se kreće niti da stoji.
+
+— Nema.
+
+— Ali se ni ne menja bez menjanja.
+
+— Ne izgleda.
+
+— Kada se onda menja? Jer niti stojeći, niti krećući se, niti budući u vremenu, menja se.
+
+— Ne, zaista.
+
+### Staroslovenski
+
+— Єгда же движѫще сѧ стане · и єгда стоѩ движати сѧ начьнеть · ни въ єдиномь врѣмени · мьнѭ · подобаѥть ємѹ быти ·
+
+— Како се ·
+
+— Стоѩ бо пръвѣѥ · послѣ движено быти · или движѫще сѧ пръвѣѥ · послѣ стоꙗти · безъ измѣнениꙗ невъзможьно ·
+
+— Како бо ·
+
+— Врѣмѧ же нѣсть · въ немьже что можеть въкѹпѣ ни движати сѧ ни стоꙗти ·
+
+— Нѣсть бо ·
+
+— Нъ ни измѣнꙗѥть сѧ безъ измѣнениꙗ ·
+
+— Не видить сѧ ·
+
+— Когда ѹбо измѣнꙗѥть сѧ · ни бо стоѩ · ни движѫще сѧ · ни въ врѣмени сꙑ · измѣнꙗѥть сѧ ·
+
+— Не бо ·
+
+
+## 156d
+
+### Srpski
+
+— Postoji li, dakle, ono neobično u čemu bi bilo kada se menja?
+
+— Šta?
+
+— Tren. Jer takva je neka neobična priroda trena: leži između kretanja i stajanja, ne budući ni u jednom vremenu, i iz njega i u njega ono što se kreće prelazi u stajanje, a ono što stoji u kretanje.
+
+— Izgleda.
+
+— I jedno, dakle, ako stoji i kreće se, menjaće se u oba smera; jer jedino bi tako moglo činiti oboje. A menjajući se, menja se u trenu, i kada se menja, ne bi bilo ni u jednom vremenu, niti bi se tada kretalo niti stajalo.
+
+— Ne bi.
+
+### Staroslovenski
+
+— Єсть ли ѹбо се дивьно нѣчто · въ немьже тогда бꙑло бы · єгда измѣнꙗѥть сѧ ·
+
+— Коѥ ·
+
+— Мгновениѥ · такова бо нѣкаꙗ дивьна природа мгновениꙗ · междѹ движениѥмь и стоꙗниѥмь лежить · ни въ єдиномь врѣмени не сѫщи · и изъ него и въ него движѫщее сѧ къ стоꙗниѭ прѣходить · и стоѩщее къ движениѭ ·
+
+— Видить сѧ ·
+
+— И єдино ѹбо · аще и стоить и движеть сѧ · къ обоима измѣнꙗти сѧ бѫдеть · тъкмо бо тако обоѥ творити могло бы · измѣнꙗѥ же сѧ · въ мгновении измѣнꙗѥть сѧ · и єгда измѣнꙗѥть сѧ · ни въ єдиномь врѣмени бꙑло бы · ни тогда движало сѧ бы ни стоꙗло ·
+
+— Не бо ·
+
+
+## 156e
+
+### Srpski
+
+— Zar tako ne stoji i sa drugim promenama? Kada iz bivanja prelazi u propadanje ili iz nebivanja u nastajanje, tada se nalazi između nekih kretanja i stajanja, i tada niti jeste niti nije, niti nastaje niti propada.
+
+— Izgleda.
+
+— Po istom rasuđivanju, dakle, i kada prelazi iz jednog u mnogo i iz mnogog u jedno, nije ni jedno ni mnogo, niti se razdvaja niti sjedinjuje; i prelazeći iz sličnog u neslično i iz nesličnog u slično, nije ni slično ni neslično, niti se upodobljava niti razupodobljava; a prelazeći iz malog u veliko i jednako i obratno, nije ni malo ni veliko ni jednako, niti raste niti opada niti se izjednačuje.
+
+— Izgleda.
+
+### Staroslovenski
+
+— Не тако ли и о инꙑхъ измѣнениꙗхъ имать · єгда отъ бытиꙗ къ погибели прѣходить · или отъ небꙑтиꙗ къ бываниѭ · тогда междѹ нѣкоими движении и стоꙗнии бываѥть · и тогда ни єсть ни нѣсть · ни бываѥть ни погибаѥть ·
+
+— Видить сѧ ·
+
+— По томѹжде словѹ ѹбо · и єгда отъ єдинаго къ многꙑмъ прѣходить · и отъ многꙑхъ къ єдиномѹ · ни єдино ни многа єсть · ни разлѫчаѥть сѧ ни съвъкѹплꙗѥть сѧ · и отъ подобьнаго къ неподобьномѹ и отъ неподобьнаго къ подобьномѹ прѣходѧ · ни подобьно ни неподобьно єсть · ни ѹподоблꙗѥть сѧ ни расподоблꙗѥть сѧ · и отъ малаго къ великомѹ и равномѹ · и противьно · прѣходѧ · ни мало ни велиѥ ни равно єсть · ни расти ни ѹбывати ни изравнꙗти сѧ ·
+
+— Видить сѧ ·
+
+## 157a
+
+### Srpski
+
+— Zar tako ne stoji i sa drugim promenama? Kada iz bivanja prelazi u propadanje ili iz nebivanja u nastajanje, tada se nalazi između nekih kretanja i stajanja, i tada niti jeste niti nije, niti nastaje niti propada?
+
+— Izgleda.
+
+### Staroslovenski
+
+— Не тако ли и о инꙑхъ измѣнениихъ имать · єгда отъ бытиꙗ къ погибели прѣходить · или отъ небꙑтиꙗ къ бываниѭ · тогда междѹ нѣкоими движении и стоꙗнии бываѥть · и тогда ни єсть ни нѣсть · ни бываѥть ни погибаѥть ·
+
+— Видить сѧ ·
+
+
+## 157b
+
+### Srpski
+
+— Po istom rasuđivanju, dakle, i kada prelazi iz jednog u mnogo i iz mnogog u jedno, nije ni jedno ni mnogo, niti se razlučuje niti sjedinjuje; i prelazeći iz sličnog u neslično i iz nesličnog u slično, nije ni slično ni neslično, niti se upodobljava niti razupodobljava; a prelazeći iz malog u veliko i jednako i u protivna, nije ni malo ni veliko ni jednako, niti raste niti opada niti se izjednačuje.
+
+— Ne izgleda.
+
+— Sve bi, dakle, te trpnje trpelo jedno, ako jeste.
+
+— Kako ne?
+
+— A šta bi pripadalo drugima da trpe, ako jedno jeste? Zar ne treba razmotriti?
+
+— Treba razmotriti.
+
+— Recimo, dakle: ako jedno jeste, šta moraju trpeti druga od jednog?
+
+— Recimo.
+
+### Staroslovenski
+
+— По томѹжде словѹ ѹбо · и отъ єдинаго къ многꙑмъ идꙑ · и отъ многꙑхъ къ єдиномѹ · ни єдино ни многа єсть · ни разлѫчаѥть сѧ ни съвъкѹплꙗѥть сѧ · и отъ подобьнаго къ неподобьномѹ и отъ неподобьнаго къ подобьномѹ идꙑ · ни подобьно ни неподобьно єсть · ни ѹподоблꙗѥть сѧ ни расподоблꙗѥть сѧ · и отъ малаго къ великомѹ и равномѹ и къ противьнꙑмъ идꙑ · ни мало ни велиѥ ни равно єсть · ни расти ни ѹбывати ни изравнꙗти сѧ ·
+
+— Не видить сѧ ·
+
+— Вьсѧ ѹбо си страданиꙗ пострадало бы єдино · аще єсть ·
+
+— Како бо ни ·
+
+— Что же инꙑмъ присѫще бꙑло бы пострадати · аще єдино єсть · не подобаѥть ли разсмотрити ·
+
+— Подобаѥть ·
+
+— Речемъ ѹбо · аще єдино єсть · инаꙗ отъ єдинаго что подобаѥть пострадати ·
+
+— Речемъ ·
+
+
+## 157c
+
+### Srpski
+
+— Dakle, pošto su druga druga od jednog, druga nisu jedno; jer tada ne bi bila druga od jednog.
+
+— Pravo.
+
+— Ali druga nisu sasvim lišena jednog, nego nekako učestvuju u njemu.
+
+— Kako?
+
+— Zato što su druga od jednog druga imajući delove; jer kada ne bi imala delove, bila bi sasvim jedno.
+
+— Pravo.
+
+— A delovi su, kažemo, delovi onoga što je celina.
+
+— Kažemo.
+
+— Ali celina nužno mora biti jedno sastavljeno od mnogih, čiji su delovi delovi; jer svaki deo ne treba da bude deo mnogih, nego celine.
+
+— Kako to?
+
+### Staroslovenski
+
+— Понеже ѹбо инаꙗ отъ єдинаго сѫть · не єдино сѫть инаꙗ · не бо бы инаꙗ отъ єдинаго бꙑла ·
+
+— Право ·
+
+— Ни пакꙑ вьсѣмь лишена єдинаго сѫть инаꙗ · нъ како причѧщаѭтъ сѧ ·
+
+— Како ·
+
+— Понеже инаꙗ отъ єдинаго дѣлꙑ имѫща ина сѫть · аще бо дѣловъ не имѣла бы · вьсѣмь єдино бꙑла бы ·
+
+— Право ·
+
+— Дѣли же · глаголемъ · сего сѫть · єже цѣло єсть ·
+
+— Глаголемъ бо ·
+
+— Нъ цѣло єдино отъ многꙑхъ нѫжда єсть быти · єгоже дѣли дѣли бѫдѫть · кождъ бо отъ дѣловъ не многꙑхъ дѣлъ подобаѥть быти · нъ цѣлаго ·
+
+— Како се ·
+
+## 157c
+
+### Srpski
+
+— Dakle, pošto su druga druga od jednog, druga nisu jedno; jer tada ne bi bila druga od jednog.
+
+— Pravo.
+
+— Ali druga nisu sasvim lišena jednog, nego nekako učestvuju u njemu.
+
+— Kako?
+
+— Zato što su druga od jednog druga imajući delove; jer kada ne bi imala delove, bila bi sasvim jedno.
+
+— Pravo.
+
+— A delovi su, kažemo, delovi onoga što je celina.
+
+— Kažemo.
+
+— Ali celina nužno mora biti jedno sastavljeno od mnogih, čiji su delovi delovi; jer svaki deo ne treba da bude deo mnogih, nego celine.
+
+— Kako to?
+
+### Staroslovenski
+
+— Понеже ѹбо инаꙗ отъ єдинаго сѫть · не єдино сѫть инаꙗ · не бо бы инаꙗ отъ єдинаго бꙑла ·
+
+— Право ·
+
+— Ни пакꙑ вьсѣмь лишена єдинаго сѫть инаꙗ · нъ како причѧщаѭтъ сѧ ·
+
+— Како ·
+
+— Понеже инаꙗ отъ єдинаго дѣлꙑ имѫща ина сѫть · аще бо дѣловъ не имѣла бы · вьсѣмь єдино бꙑла бы ·
+
+— Право ·
+
+— Дѣли же · глаголемъ · того сѫть · єже цѣло єсть ·
+
+— Глаголемъ бо ·
+
+— Нъ цѣло єдино отъ многꙑхъ нѫжда єсть быти · єгоже дѣли дѣли бѫдѫть · кождъ бо отъ дѣловъ не многꙑхъ дѣлъ подобаѥть быти · нъ цѣлаго ·
+
+— Како се ·
+
+
+## 157d
+
+### Srpski
+
+— Ako bi nešto bilo deo mnogih među kojima je i samo, bilo bi, valjda, deo samoga sebe, što je nemoguće, a i svakoga pojedinog od drugih, ako je deo svih. Jer ako ne bi bilo deo jednoga, bilo bi deo drugih osim toga jednoga, te tako ne bi bilo deo svakoga pojedinog; a ne budući deo svakoga, ne bi bilo deo nijednoga od mnogih. A nemoguće je da ono što nije ništa nijednoga od svih njih bude bilo deo bilo šta drugo svih tih, od kojih nije ništa nijednoga.
+
+— Očigledno.
+
+— Deo, dakle, nije deo mnogih niti svih, nego nekog jednog vida i nekog jednog...
+
+### Staroslovenski
+
+— Аще что многꙑхъ дѣлъ бꙑло бы · въ нихъже и само єсть · самого себе ѹбо дѣлъ бѫдеть · єже невъзможьно · и инꙑхъ кождого · аще и вьсѣхъ · аще бо єдинаго не бѫдеть дѣлъ · развѣ сего инꙑхъ бѫдеть · и тако кождого не бѫдеть дѣлъ · кождого же не сꙑ дѣлъ · ни єдинаго отъ многꙑхъ бѫдеть · ни єдинаго же сꙑ · вьсѣхъ сихъ нѣчто быти · ихъже ни єдинаго ничтоже єсть · и дѣлъ и ино что любо · невъзможьно ·
+
+— Ꙗвѣ ·
+
+— Не ѹбо многꙑхъ ни вьсѣхъ дѣлъ єсть дѣлъ · нъ нѣкоего єдинаго вида и нѣкоего єдинаго...
+
+
+## 157e
+
+### Srpski
+
+— ...što nazivamo celinom, nastalog kao savršeno jedno iz svega; toga bi deo bio deo.
+
+— Sasvim tako.
+
+— Ako, dakle, druga imaju delove, učestvovala bi i u celini i u jednom.
+
+— Svakako.
+
+— Druga od jednog, dakle, nužno su jedna savršena celina koja ima delove.
+
+— Nužno.
+
+### Staroslovenski
+
+— ...єже цѣло нарицаѥмъ · отъ вьсѣхъ єдино съвръшено бꙑвъше · сего дѣлъ бꙑлъ бы дѣлъ ·
+
+— Вьсѣко тако ·
+
+— Аще ѹбо инаꙗ дѣлꙑ имѫтъ · и цѣлаго и єдинаго причѧщала сѧ бы ·
+
+— Вьсѣко ·
+
+— Єдино ѹбо цѣло съвръшено · дѣлꙑ имѫще · нѫжда єсть инꙑмъ отъ єдинаго быти ·
+
+— Нѫжда ·
+
+## 158a
+
+### Srpski
+
+— I za svaki deo važi isto rasuđivanje: jer i on nužno učestvuje u jednom. Ako je, naime, svaki od njih deo, to „svaki“ valjda znači da je jedan, odvojen od drugih i sušt sam po sebi, ako će biti svaki.
+
+— Pravo.
+
+— A učestvovao bi u jednom očigledno kao drugo od jednog; jer inače ne bi učestvovao, nego bi bio samo jedno. A biti jedno nemoguće je valjda ičemu osim samom jednom.
+
+— Nemoguće.
+
+— A u jednom nužno učestvuju i celina i deo. Jer jedno će biti celina čiji su delovi delovi, a opet svaki pojedini jedan deo celine biće deo celine.
+
+— Svakako.
+
+### Staroslovenski
+
+— И о кождомь дѣлѣ то жде слово · и томѹ бо нѫжда єдинаго причѧщати сѧ · аще бо кождъ отъ нихъ дѣлъ єсть · се кождъ быти · єдино · мьнѭ · знаменѹѥть · отълѫчено отъ инꙑхъ · само же по себѣ сѫще · аще кождъ бѫдеть ·
+
+— Право ·
+
+— Причѧщало же сѧ бы єдинаго · ꙗвѣ ино сꙑ отъ єдинаго · не бо бы причѧщало сѧ · нъ само єдино бꙑло бы · нꙑнѣ же єдино быти · развѣ самомѹ єдиномѹ · невъзможьно ·
+
+— Невъзможьно ·
+
+— Причѧщати же сѧ єдинаго нѫжда и цѣломѹ и дѣлѹ · єдино бо цѣло бѫдеть · єгоже дѣли дѣли сѫть · кождъ же пакꙑ єдинъ дѣлъ цѣлаго · дѣлъ цѣлаго бѫдеть ·
+
+— Вьсѣко ·
+
+
+## 158b
+
+### Srpski
+
+— A zar ono što učestvuje u jednom neće biti drugo od jednog dok u njemu učestvuje?
+
+— Kako ne?
+
+— A druga od jednog bila bi, valjda, mnogo; jer kada druga od jednog ne bi bila ni jedno ni više od jednog, ne bi bila ništa.
+
+— Ne bi.
+
+— A pošto su brojnija od jednog i ona koja učestvuju u jednom kao deo i ona koja učestvuju u jednom kao celina, nije li nužno da upravo ono što učestvuje u jednom bude beskrajno mnoštvom?
+
+— Kako?
+
+### Staroslovenski
+
+— Не ѹбо причѧщаѭщаꙗ сѧ єдинаго ина отъ єдинаго бѫдѫть · причѧщаѭща сѧ єго ·
+
+— Како бо ни ·
+
+— Ина же отъ єдинаго многа бꙑла бы · мьнѭ · аще бо ина отъ єдинаго ни єдино ни множаише єдинаго бꙑла бы · ничтоже бꙑла бы ·
+
+— Не бо ·
+
+— Понеже же множаиша єдинаго сѫть и дѣломъ єдинаго причѧщаѭщаꙗ сѧ · и цѣлꙑмь єдинаго причѧщаѭщаꙗ сѧ · не нѫжда ли самомѹ томѹ · єже єдинаго причѧщаѥть сѧ · бескраю множьствомъ быти ·
+
+— Како ·
+
+
+## 158c
+
+### Srpski
+
+— Pogledajmo ovako. Zar onda kada učestvuju u jednom još ne učestvuju u njemu kao jedno niti učestvuju u jednom, nisu mnoštva u kojima nema jednog?
+
+— Svakako.
+
+— A šta ako mišlju od takvih mnoštava oduzmemo najmanje što možemo oduzeti? Nije li nužno da i to oduzeto, pošto ne učestvuje u jednom, bude mnoštvo, a ne jedno?
+
+— Nužno.
+
+— Uvek, dakle, posmatrajući samu po sebi drugu prirodu vida, koliko god od nje vidimo, biće beskrajna mnoštvom.
+
+— Svakako.
+
+### Staroslovenski
+
+— Сице смотримъ · єда єгда єдинаго причѧщаѭтъ сѧ · ѥще не причѧщаѭща сѧ єго ꙗко єдина · ни єдинаго причѧщаѭща сѧ · не множьства ли сѫть · въ нихъже єдинаго нѣсть ·
+
+— Вьсѣко ·
+
+— Что же · аще отъ таковаго множьства размꙑсломъ отъимемъ єлико можемъ мьнѣише отъѩти · не нѫжда ли и отъѩтомѹ томѹ · понеже єдинаго не причѧщаѥть сѧ · множьствѹ быти · а не єдиномѹ ·
+
+— Нѫжда ·
+
+— Вьсегда ѹбо самѫ по себѣ инѫ природѫ вида смотрѧще · єлико любо єѩ видимъ · бескраꙗ множьствомъ бѫдеть ·
+
+— Вьсѣко ·
+
+## 158d
+
+### Srpski
+
+— A kada svaki deo postane deo, tada već imaju granicu jedni prema drugima i prema celini, a celina prema delovima.
+
+— Svakako.
+
+— Drugima od jednog, dakle, događa se, kako izgleda, da iz zajedništva jednog i njih samih u njima nastaje nešto drugo, što im daje granicu jednih prema drugima; dok im njihova sopstvena priroda sama po sebi daje beskraj.
+
+— Izgleda.
+
+— Tako su druga od jednog, i kao celine i po delovima, beskrajna i učestvuju u granici.
+
+— Svakako.
+
+### Staroslovenski
+
+— Єгда же кождъ дѣлъ дѣлъ бѫдеть · тогда ѹже краи имѫтъ дрѹгъ къ дрѹгѹ и къ цѣломѹ · и цѣло къ дѣломъ ·
+
+— Вьсѣко ·
+
+— Инꙑмъ ѹбо отъ єдинаго бываѥть · ꙗкоже видить сѧ · отъ общениꙗ єдинаго и ихъ самѣхъ ино нѣчто въ нихъ бывати · єже краи подаѥть имъ дрѹгъ къ дрѹгѹ · своꙗ же ихъ природа сама по себѣ бескраи подаѥть ·
+
+— Видить сѧ ·
+
+— Тако ѹбо инаꙗ отъ єдинаго · и цѣла и по дѣломъ · бескраꙗ сѫть и краꙗ причѧщаѭтъ сѧ ·
+
+— Вьсѣко ·
+
+
+## 158e
+
+### Srpski
+
+— Zar onda nisu i slična i neslična sebi i jedna drugima?
+
+— Kako?
+
+— Ukoliko su sva po sopstvenoj prirodi beskrajna, sva bi trpela isto.
+
+— Svakako.
+
+— A ukoliko sva učestvuju u granici, i po tome bi sva trpela isto.
+
+— Kako ne?
+
+— Ukoliko, dakle, trpe da budu i ograničena i beskrajna, trpe trpnje protivne jedna drugoj.
+
+— Da.
+
+### Staroslovenski
+
+— Не ѹбо и подобьна и неподобьна сѫть себѣ же и дрѹгъ дрѹгѹ ·
+
+— Како ·
+
+— Єлико по своѥи природѣ вьсѧ бескраꙗ сѫть · вьсѧ то жде пострадала бы ·
+
+— Вьсѣко ·
+
+— И єлико вьсѧ краꙗ причѧщаѭтъ сѧ · и по семѹ вьсѧ то жде пострадала бы ·
+
+— Како бо ни ·
+
+— Єлико ѹбо и ограничена и бескраꙗ быти страдаѭтъ · противьна дрѹгъ дрѹгѹ страданиꙗ страдаѭтъ ·
+
+— Да ·
+
+
+## 159a
+
+### Srpski
+
+— A protivnosti su međusobno što je moguće nesličnije.
+
+— Kako ne?
+
+— Dakle, prema svakom od tih trpnja bila bi slična sebi i jedna drugima, a prema oboma zajedno krajnje protivna i neslična.
+
+— Tako bi moglo biti.
+
+— Druga bi, dakle, bila i slična i neslična sebi i jedna drugima.
+
+— Tako je.
+
+— I ista i druga jedna od drugih, i kretala bi se i stajala, i sva protivna trpnja lako ćemo naći kod drugih od jednog, pošto se pokazalo da trpe i ova.
+
+— Pravo govoriš.
+
+### Staroslovenski
+
+— Противьна же дрѹгъ дрѹгѹ елико мощьно неподобьнѣиша сѫть ·
+
+— Како бо ни ·
+
+— По кождомѹ ѹбо отъ сихъ страдании подобьна себѣ же и дрѹгъ дрѹгѹ бꙑла бы · по обоима же въкѹпѣ вьсѣмь противьна и неподобьна ·
+
+— Тако бы могло быти ·
+
+— Инаꙗ ѹбо и подобьна и неподобьна себѣ же и дрѹгъ дрѹгѹ бꙑла бы ·
+
+— Тако ·
+
+— И тожде и ина дрѹгъ отъ дрѹга · и движала сѧ бы и стоꙗла · и вьсѧ противьна страданиꙗ ѹдобь обрѧщемъ въ инꙑхъ отъ єдинаго · понеже и си пострадати показа сѧ ·
+
+— Право глаголѥши ·
+
+## 159b
+
+### Srpski
+
+— Pravo govoriš.
+
+— Ako, dakle, ovo sada ostavimo kao očigledno, razmotrimo ponovo: ako jedno jeste, da li druga od jednog stoje i ne ovako, ili samo ovako?
+
+— Svakako.
+
+— Recimo, dakle, iz početka: ako jedno jeste, šta nužno trpe druga od jednog.
+
+— Recimo.
+
+— Zar jedno nije odvojeno od drugih, a druga od jednog?
+
+— Zašto?
+
+— Zato što osim njih nema ničeg drugog što bi bilo drugo i od jednog i od drugih; jer sve je izrečeno kada se kaže jedno i druga.
+
+### Staroslovenski
+
+— Право глаголѥши ·
+
+— Аще ѹбо си ѹже оставимъ ꙗко ꙗвьна · пакꙑ же рассмотримъ · аще єдино єсть · єда и не тако имѫтъ инаꙗ отъ єдинаго · или тако тъкмо ·
+
+— Вьсѣко ·
+
+— Речемъ ѹбо изъ начала · аще єдино єсть · что подобаѥть инꙑмъ отъ єдинаго пострадати ·
+
+— Речемъ бо ·
+
+— Не ѹбо отълѫчено єсть єдино отъ инꙑхъ · отълѫчена же инаꙗ отъ єдинаго ·
+
+— Чесо ради ·
+
+— Понеже развѣ сихъ нѣсть иного · єже ино єсть отъ єдинаго · и ино отъ инꙑхъ · вьсѧ бо речена сѫть · єгда речеть сѧ єдино и инаꙗ ·
+
+
+## 159c
+
+### Srpski
+
+— Sve, zaista.
+
+— Nema, dakle, više ničeg drugog od njih u čemu bi i jedno i druga bili u istom.
+
+— Nema.
+
+— Nikada, dakle, jedno i druga nisu u istom.
+
+— Ne izgleda.
+
+— Odvojeni su, dakle?
+
+— Da.
+
+— A za istinski jedno kažemo i da nema delova.
+
+— Kako bi ih imalo?
+
+— Dakle, niti bi jedno kao celina bilo u drugima niti njegovi delovi, ako je odvojeno od drugih i nema delove.
+
+— Kako bi?
+
+### Staroslovenski
+
+— Вьсѧ бо ·
+
+— Нѣсть ѹбо к томѹ иного отъ сихъ · въ немьже и єдино и инаꙗ въ томьжде бꙑла бы ·
+
+— Нѣсть бо ·
+
+— Николиже ѹбо въ томьжде єсть єдино и инаꙗ ·
+
+— Не видить сѧ ·
+
+— Отълѫчена ѹбо ·
+
+— Да ·
+
+— Ни пакꙑ дѣлꙑ имѣти глаголемъ истиньно єдино ·
+
+— Како бо ·
+
+— Ни ѹбо цѣло єдино въ инꙑхъ бꙑло бы · ни дѣли єго · аще отълѫчено єсть отъ инꙑхъ и дѣловъ не имать ·
+
+— Како бо ·
+
+
+## 159d
+
+### Srpski
+
+— Ni na koji način, dakle, druga ne bi učestvovala u jednom, ne učestvujući ni u nekom njegovom delu ni u celini.
+
+— Ne izgleda.
+
+— Ni na koji način, dakle, druga nisu jedno niti u sebi imaju išta jedno.
+
+— Svakako ne.
+
+— Ali druga nisu ni mnogo; jer kada bi bila mnogo, svako od njih bilo bi jedan deo celine. A sada druga od jednog nisu ni jedno ni mnogo ni celina ni delovi, pošto ni na koji način ne učestvuju u jednom.
+
+— Pravo.
+
+— Dakle, druga nisu ni dva ni tri, niti su dva ili tri u njima, ako su sasvim lišena jednog.
+
+— Tako je.
+
+### Staroslovenski
+
+— Ни коимь ѹбо образомъ инаꙗ єдинаго причѧщала сѧ бы · ни по нѣкоемѹ дѣлѹ єго ни по цѣломѹ причѧщаѭща сѧ ·
+
+— Не видить сѧ ·
+
+— Ни како ѹбо єдино сѫть инаꙗ · ни имѫтъ въ себѣ єдино ничтоже ·
+
+— Не бо ·
+
+— Ни многа ѹбо сѫть инаꙗ · кождъ бо отъ нихъ єдинъ дѣлъ цѣлаго бꙑлъ бы · аще многа бꙑла бы · нꙑнѣ же ни єдино ни многа ни цѣло ни дѣли сѫть инаꙗ отъ єдинаго · понеже єго ни како причѧщаѭтъ сѧ ·
+
+— Право ·
+
+— Ни дъва ѹбо ни три инаꙗ сѫть · ни въ нихъ сѫть · аще єдинаго вьсѣмь лишена сѫть ·
+
+— Тако ·
+
+## 159e
+
+### Srpski
+
+— Ni sama druga, dakle, nisu slična ni neslična jednom, niti u njima ima sličnosti ni nesličnosti; jer ako bi sama bila slična ili neslična, ili u sebi imala sličnost ili nesličnost, druga od jednog imala bi u sebi dva vida protivna jedan drugome.
+
+— Izgleda.
+
+— A bilo je nemoguće da ono što ni u jednom ne učestvuje učestvuje u dvama.
+
+— Nemoguće.
+
+— Druga, dakle, nisu ni slična ni neslična, niti oboje; jer ako bi bila slična ili neslična, učestvovala bi u jednom od dva vida, a ako bi bila oboje, u dva protivna; a to se pokazalo nemogućim.
+
+— Istina.
+
+### Staroslovenski
+
+— Ни сама ѹбо инаꙗ ни подобьна ни неподобьна єдиномѹ сѫть · ни въ нихъ подобьство ни неподобьство єсть · аще бо сама подобьна или неподобьна бꙑла бы · или въ себѣ подобьство или неподобьство имѣла бы · дъва вида противьна дрѹгъ дрѹгѹ въ себѣ имѣла бы инаꙗ отъ єдинаго ·
+
+— Видить сѧ ·
+
+— Невъзможьно же бѣ · єже ни єдинаго причѧщаѥть сѧ · дъвою причѧщати сѧ ·
+
+— Невъзможьно ·
+
+— Инаꙗ ѹбо ни подобьна ни неподобьна ни обоꙗ сѫть · аще бо подобьна или неподобьна бꙑла бы · єдинаго отъ дъвою видѹ причѧщала сѧ бы · аще же обоꙗ · дъвою противьною · се же невъзможьно показа сѧ ·
+
+— Истина ·
+
+
+## 160a
+
+### Srpski
+
+— Nisu, dakle, ni ista ni druga, niti se kreću niti stoje, niti nastaju niti propadaju, niti su veća ni manja ni jednaka, niti trpe išta drugo takvo; jer ako bi druga dopustila da trpe išta takvo, učestvovala bi i u jednom i u dva i u tri i u neparnom i u parnom, a pokazalo se da im je nemoguće da u tome učestvuju, budući sasvim i na svaki način lišena jednog.
+
+— Sasvim istinito.
+
+— Ako jedno jeste, dakle, jedno je sve i nije ni jedno, i prema sebi i prema drugima.
+
+— Sasvim tako.
+
+### Staroslovenski
+
+— Ни тожде ѹбо ни ина сѫть · ни движѫтъ сѧ ни стоѩтъ · ни бываѭтъ ни погибаѭтъ · ни велиꙗ ни мьньша ни равна сѫть · ни иного таковаго ничтоже страдаѭтъ · аще бо что таково пострадати приимѫтъ инаꙗ · и єдинаго и дъвою и трии и нечетнаго и четнаго причѧщала сѧ бы · ихъже причѧщати сѧ невъзможьно имъ показа сѧ · вьсѣмь и по вьсѣмъ єдинаго лишенꙑмъ сѫщимъ ·
+
+— Вьсѣко истиньно ·
+
+— Аще ѹбо єдино єсть · вьсѧ єсть єдино и ни єдино єсть · и къ себѣ и къ инꙑмъ ·
+
+— Вьсѣко тако ·
+
+
+## 160b
+
+### Srpski
+
+— Dobro. A ako jedno nije, ne treba li potom razmotriti šta nužno sledi?
+
+— Treba.
+
+— Šta bi, dakle, značila ova pretpostavka: ako jedno nije? Da li se po nečemu razlikuje od ove: ako ne-jedno nije?
+
+— Svakako se razlikuje.
+
+— Samo se razlikuje, ili je i sasvim protivno reći „ako ne-jedno nije“ i „ako jedno nije“?
+
+— Sasvim protivno.
+
+— A šta ako bi neko rekao: ako veličina nije, ili malost nije, ili nešto drugo takvo; ne bi li svaki put pokazao da govori o nečemu drugom kao ne-suštom?
+
+— Svakako.
+
+### Staroslovenski
+
+— Добро · аще же єдино нѣсть · не подобаѥть ли послѣ сего рассмотрити · что нѫжда бывати ·
+
+— Подобаѥть ·
+
+— Что ѹбо знаменѹѥть се предположениѥ · аще єдино нѣсть · єда чимь разньствѹѥть отъ сего · аще не єдино нѣсть ·
+
+— Вьсѣко разньствѹѥть ·
+
+— Тъкмо ли разньствѹѥть · или и вьсѣмь противьно єсть рещи · аще не єдино нѣсть · и аще єдино нѣсть ·
+
+— Вьсѣмь противьно ·
+
+— Что же · аще кто речеть · аще величьство нѣсть · или малость нѣсть · или ино что таково · не вьсегда ли ꙗвлꙗѥть · ꙗко ино нѣчто глаголеть не сѫще ·
+
+— Вьсѣко ·
+
+## 160c
+
+### Srpski
+
+— Dakle, i sada, kada kaže „ako jedno nije“, jasno je da govori o nečem drugom kao ne-suštom, i znamo šta govori.
+
+— Kako ne?
+
+— Najpre, dakle, kada kaže „jedno“, označava nešto spoznatljivo, a zatim da ono nije; i ništa manje se zna šta kaže, bilo da mu pripisuje bivanje bilo nebivanje. Zar ne?
+
+— Svakako.
+
+— Dakle, ono što se naziva ne-suštim ipak mora na neki način učestvovati u onome.
+
+— Nužno.
+
+### Staroslovenski
+
+— И нꙑнѣ ѹбо · єгда речеть · аще єдино нѣсть · ꙗвѣ ꙗко ино нѣчто глаголеть не сѫще · и вѣмъ єже глаголеть ·
+
+— Како бо ни ·
+
+— Пръвѣѥ ѹбо · єгда єдино речеть · нѣчто знаѥмо знаменѹѥть · потомь же ꙗко нѣсть · и ничимь мьньше вѣдомо єсть єже глаголеть · аще бытиѥ ємѹ прилагаѥть · аще небꙑтиѥ · не тако ли ·
+
+— Вьсѣко ·
+
+— Нарицаѥмомѹ ѹбо не сѫщемѹ · нѫжда нѣкако того причѧщати сѧ ·
+
+— Нѫжда ·
+
+
+## 160d
+
+### Srpski
+
+— Mora, dakle, u njemu biti i različitost prema drugima; jer kada kaže da jedno nije, ne govori da drugo nije, nego upravo o njemu.
+
+— Svakako.
+
+— A kada kaže „jedno“ i „to“, „ovo“, „ovoga“, „od ovoga“ i sve takvo, ne govori li o njemu i o nečem drugom od drugih?
+
+— Nužno.
+
+— Dakle, ako jedno nije, mora mu pripadati i učestvovanje u onome i u mnogim drugim stvarima.
+
+— Mora.
+
+### Staroslovenski
+
+— Нѫжда ѹбо и разньствѹ ємѹ быти къ инꙑмъ · єгда бо речеть · ꙗко єдино нѣсть · не ино нѣсть глаголеть · нъ о немь самомь ·
+
+— Вьсѣко ·
+
+— Єгда же єдино речеть и оно и се и сего и отъ сего · и вьсѧ такова · не о немь ли глаголеть и о иномь отъ инꙑхъ ·
+
+— Нѫжда ·
+
+— Аще ѹбо єдино нѣсть · нѫжда ємѹ и того причѧщати сѧ и инꙑхъ многꙑхъ ·
+
+— Нѫжда ·
+
+
+## 160e
+
+### Srpski
+
+— I nesličnost mu prema drugima mora pripadati, ako jedno nije.
+
+— Kako?
+
+— Jer druga, budući druga od jednog, bila bi drukčija.
+
+— Da.
+
+— A ono što je drukčije nije li različito?
+
+— Kako ne?
+
+— A ono što je različito od različitoga bilo bi neslično njemu.
+
+— Svakako.
+
+— Ako su, dakle, druga različita od jednog, jedno bi bilo neslično drugima.
+
+— Očigledno.
+
+### Staroslovenski
+
+— И неподобьствѹ къ инꙑмъ нѫжда ємѹ быти · аще єдино нѣсть ·
+
+— Како ·
+
+— Инаꙗ бо · ина отъ єдинаго сѫща · разньна бꙑла бы ·
+
+— Да ·
+
+— Разньно же не различьно ли єсть ·
+
+— Како бо ни ·
+
+— Различьно же отъ различьнаго неподобьно ємѹ бꙑло бы ·
+
+— Вьсѣко ·
+
+— Аще ѹбо инаꙗ различьна отъ єдинаго сѫть · єдино неподобьно инꙑмъ бꙑло бы ·
+
+— Ꙗвѣ ·
+
+## 161a
+
+### Srpski
+
+— A ako je neslično drugima, zar neće biti slično samome sebi?
+
+— Kako?
+
+— Jer ako bi jedno bilo neslično jednom, rasuđivanje više ne bi bilo o takvom nečem kao što je jedno, niti bi pretpostavka bila o jednom, nego o nečem drugom od jednog.
+
+— Svakako.
+
+— Ali to ne treba.
+
+— Ne treba.
+
+— Jedno, dakle, treba da bude slično samome sebi.
+
+— Da.
+
+— A opet nije jednako drugima; jer ako bi bilo jednako, već bi bilo i, po jednakosti, bilo bi im slično. A oboje je nemoguće, ako jedno nije.
+
+— Nemoguće.
+
+### Staroslovenski
+
+— Аще же неподобьно инꙑмъ єсть · не подобьно ли самомѹ себѣ бѫдеть ·
+
+— Како ·
+
+— Аще бо єдино єдиномѹ неподобьно бꙑло бы · не о таковѣмь ѹже · ꙗкоже єдино · слово бꙑло бы · ни предположениѥ о єдиномь бꙑло бы · нъ о иномь отъ єдинаго ·
+
+— Вьсѣко ·
+
+— Нъ не подобаѥть ·
+
+— Не подобаѥть ·
+
+— Подобьно ѹбо єдино самомѹ себѣ подобаѥть быти ·
+
+— Да ·
+
+— Ни пакꙑ равно инꙑмъ єсть · аще бо равно бꙑло бы · ѹже бꙑло бы · и по равьности подобьно имъ бꙑло бы · обоѥ же невъзможьно · аще єдино нѣсть ·
+
+— Невъзможьно ·
+
+
+## 161b
+
+### Srpski
+
+— A pošto nije jednako drugima, nije li nužno da i druga budu nejednaka njemu?
+
+— Nužno.
+
+— A nejednake stvari nisu li nejednake zato što su jedne veće, a druge manje?
+
+— Da.
+
+— Dakle, i takvom jednom pripada veličina i malost?
+
+— Izgleda.
+
+— A veličina i malost uvek su udaljene jedna od druge.
+
+— Svakako.
+
+— Između njih je, dakle, uvek nešto.
+
+— Jeste.
+
+— Možeš li navesti nešto drugo između njih osim jednakosti?
+
+— Ne, samo nju.
+
+### Staroslovenski
+
+— Понеже же не равно инꙑмъ єсть · не нѫжда ли и инꙑмъ неравнꙑмъ ємѹ быти ·
+
+— Нѫжда ·
+
+— Неравнаꙗ же не тѣмь ли неравна сѫть · ꙗко ова велиꙗша · ова же мьньша ·
+
+— Да ·
+
+— И таковомѹ ѹбо єдиномѹ величьство и малость присѫта ·
+
+— Видить сѧ ·
+
+— Величьство же и малость вьсегда дрѹгъ отъ дрѹга отъстоита ·
+
+— Вьсѣко ·
+
+— Междѹ нима ѹбо вьсегда нѣчто єсть ·
+
+— Єсть ·
+
+— Имаши ли что ино междѹ нима рещи развѣ равьности ·
+
+— Не · нъ сию тъкмо ·
+
+
+## 161c
+
+### Srpski
+
+— U čemu god, dakle, ima veličine i malosti, ima i jednakosti između njih.
+
+— Izgleda.
+
+— Jednom koje nije, dakle, kako izgleda, pripadaju i jednakost i veličina i malost.
+
+— Tako je.
+
+— A treba da ono nekako učestvuje i u suštastvu.
+
+— Kako?
+
+— Treba da s njim bude onako kako govorimo. Jer ako ne bude tako, nećemo govoriti istinu kada kažemo da jedno nije; a ako govorimo istinu, jasno je da govorimo ono što jeste. Ili ne?
+
+— Tako je.
+
+— Pošto, dakle, tvrdimo da govorimo istinu, nužno tvrdimo da govorimo ono što jeste.
+
+— Nužno.
+
+### Staroslovenski
+
+— Въ немьже ѹбо величьство и малость єста · и равьность междѹ нима єсть ·
+
+— Видить сѧ ·
+
+— Єдиномѹ ѹбо не сѫщемѹ · ꙗкоже видить сѧ · и равьность и величьство и малость присѫтъ ·
+
+— Тако ·
+
+— Подобаѥть же ємѹ нѣкако и сѫщьства причѧщати сѧ ·
+
+— Како ·
+
+— Тако ємѹ подобаѥть имѣти · ꙗкоже глаголемъ · аще бо не тако имѣти бѫдеть · не истинѫ глаголемъ · єгда глаголемъ · ꙗко єдино нѣсть · аще же истинѫ глаголемъ · ꙗвѣ ꙗко сѫщее глаголемъ · или ни ·
+
+— Тако ·
+
+— Понеже ѹбо истинѫ глаголати исповѣдѹѥмъ · нѫжда намъ сѫщее глаголати исповѣдати ·
+
+— Нѫжда ·
+
+## 161d
+
+### Srpski
+
+— Jedno, dakle, kako izgleda, jeste ne-sušto; jer ako ne bude ne-sušto, nego nekako od bivanja odstupi prema nebivanju, odmah će biti sušto.
+
+— Sasvim tako.
+
+— Mora, dakle, imati vezu nebivanja sa nebivanjem, ako treba da ne bude, kao što sušto mora imati nebivanje ne-suštog da bi potpuno bilo. Jer tako bi sušto ponajviše bilo, a ne-sušto ne bi bilo: sušto učestvujući u suštastvu bivanja suštog, a u nebivanju bivanja ne-suštog, ako treba potpuno da bude; a ne-sušto učestvujući u nebivanju nebivanja suštog, a u bivanju bivanja ne-suštog, ako i ne-sušto treba potpuno da ne bude.
+
+### Staroslovenski
+
+— Єдино ѹбо · ꙗкоже видить сѧ · не сѫщее єсть · аще бо не бѫдеть не сѫщее · нъ нѣкако отъ бытиꙗ къ небꙑтиѭ отъстанеть · абиѥ сѫщее бѫдеть ·
+
+— Вьсѣко тако ·
+
+— Подобаѥть ѹбо ємѹ свѧзь небꙑтиꙗ къ небꙑтиѭ имѣти · аще не быти имать · ꙗкоже сѫщемѹ небꙑтиѥ не сѫщаго имѣти · да съвръшено бѫдеть · тако бо сѫщее наипаче бꙑло бы · не сѫщее же не бꙑло бы · сѫщее сѫщьства сѫщаго причѧщаѭще сѧ · небꙑтиꙗ же не сѫщаго · аще съвръшено быти имать · не сѫщее же небꙑтиꙗ сѫщаго причѧщаѭще сѧ · бытиꙗ же не сѫщаго · аще и не сѫщемѹ съвръшено не быти подобаѥть ·
+
+
+## 161e
+
+### Srpski
+
+— Sasvim istinito.
+
+— Pošto, dakle, suštom pripada nebivanje, a ne-suštom suštastvo, nužno je da i jedno, pošto nije, učestvuje u suštastvu radi nebivanja.
+
+— Nužno.
+
+— Suštastvo se, dakle, pokazuje u jednom, ako ono nije.
+
+— Da.
+
+— A i nebivanje, ako nije.
+
+— Kako ne?
+
+— Može li, dakle, ono što je u nekom stanju ne biti u tom stanju a da se iz njega ne promeni?
+
+— Ne može.
+
+### Staroslovenski
+
+— Вьсѣко истиньно ·
+
+— Понеже ѹбо сѫщемѹ небꙑтиѥ присѫще єсть · не сѫщемѹ же сѫщьство · нѫжда и єдиномѹ · понеже нѣсть · сѫщьства причѧщати сѧ къ небꙑтиѭ ·
+
+— Нѫжда ·
+
+— Сѫщьство ѹбо ꙗвлꙗѥть сѧ въ єдиномь · аще нѣсть ·
+
+— Да ·
+
+— И небꙑтиѥ · аще нѣсть ·
+
+— Како бо ни ·
+
+— Мощьно ли ѹбо нѣкако имѫщемѹ не тако имѣти · аще не измѣнить сѧ отъ сего имѣниꙗ ·
+
+— Не мощьно ·
+
+
+## 162a
+
+### Srpski
+
+— Sve takvo, dakle, pokazuje promenu, ako nešto i jeste i nije u nekom stanju.
+
+— Kako ne?
+
+— A promena je kretanje; ili šta ćemo reći?
+
+— Kretanje.
+
+— Nije li se jedno pokazalo i kao sušto i kao ne-sušto?
+
+— Da.
+
+— Pokazuje se, dakle, da jeste i nije u nekom stanju.
+
+— Tako je.
+
+— I jedno koje nije pokazalo se, dakle, kao pokrenuto, pošto ima promenu iz bivanja u nebivanje.
+
+— Izgleda.
+
+### Staroslovenski
+
+— Вьсѧ ѹбо такова измѣнениѥ ꙗвлꙗѭтъ · аще что и тако и не тако имать ·
+
+— Како бо ни ·
+
+— Измѣнениѥ же движениѥ єсть · или что речемъ ·
+
+— Движениѥ ·
+
+— Не и сѫщее и не сѫщее єдино показа сѧ ·
+
+— Да ·
+
+— И тако ѹбо и не тако имѫще ꙗвлꙗѥть сѧ ·
+
+— Тако ·
+
+— И движено ѹбо показа сѧ єдино не сѫщее · понеже измѣнениѥ имать отъ бытиꙗ къ небꙑтиѭ ·
+
+— Видить сѧ ·
+
+## 162b
+
+### Srpski
+
+— A ako nigde nije među suštima, budući da nije, ne bi moglo prelaziti odnekud nekuda.
+
+— Kako bi?
+
+— Dakle, ne bi se kretalo prelaženjem.
+
+— Ne bi.
+
+— Niti bi se moglo okretati u istom; jer nigde ne dodiruje isto. Jer isto je sušto, a ne-sušto jedno ne može biti ni u jednom suštom.
+
+— Kako bi moglo?
+
+— Jedno koje nije, dakle, ne može se okretati u onome u čemu nije.
+
+— Ne može.
+
+### Staroslovenski
+
+— Аще же нигдѣже въ сѫщихъ єсть · понеже нѣсть · не могло бы отънѫдь къ нѣкѫдѣ прѣходити ·
+
+— Како бо ·
+
+— Не ѹбо прѣхождениѥмь движало сѧ бы ·
+
+— Не бо ·
+
+— Ни въ томьжде обращати сѧ могло бы · нигдѣже бо тожде касаѥть сѧ · тожде бо сѫщее єсть · не сѫщее же єдино ни въ єдиномь сѫщемь быти можеть ·
+
+— Како бо могло бы ·
+
+— Не можеть ѹбо єдино не сѫщее въ томь обращати сѧ · въ немьже нѣсть ·
+
+— Не можеть ·
+
+
+## 162c
+
+### Srpski
+
+— Niti se jedno menja u nešto drugo od sebe, bilo da jeste bilo da nije; jer tada više ne bi bilo reči o jednom, ako bi se ono menjalo u nešto drugo od sebe.
+
+— Pravo.
+
+— A ako se niti menja, niti okreće u istom, niti prelazi, zar se još na neki način kreće?
+
+— Kako bi?
+
+— A ono što se ne kreće nužno miruje, a ono što miruje stoji.
+
+— Nužno.
+
+— Jedno koje nije, dakle, kako izgleda, i stoji i kreće se.
+
+— Izgleda.
+
+### Staroslovenski
+
+— Ни єдино въ ино отъ себе измѣнꙗѥть сѧ · аще єсть аще нѣсть · не бо ѹже о єдиномь слово бꙑло бы · аще въ ино отъ себе измѣнꙗло сѧ бы ·
+
+— Право ·
+
+— Аще же ни измѣнꙗѥть сѧ · ни въ томьжде обращаѥть сѧ · ни прѣходить · єда ѥще како движеть сѧ ·
+
+— Како бо ·
+
+— Не движѫщемѹ же сѧ нѫжда покоити сѧ · покоѧщее же сѧ стоить ·
+
+— Нѫжда ·
+
+— Єдино ѹбо не сѫщее · ꙗкоже видить сѧ · и стоить и движеть сѧ ·
+
+— Видить сѧ ·
+
+
+## 162d
+
+### Srpski
+
+— A ako se kreće, velika je nužnost da se menja; jer koliko se nešto pokrene, toliko više nije onako kako je bilo, nego je drukčije.
+
+— Tako je.
+
+— Jedno, dakle, krećući se, i menja se.
+
+— Da.
+
+— A ako se ni na koji način ne kreće, ni na koji način se ne bi menjalo.
+
+— Ne bi.
+
+— Ukoliko se, dakle, jedno koje nije kreće, menja se; a ukoliko se ne kreće, ne menja se.
+
+— Tako je.
+
+— Jedno koje nije, dakle, i menja se i ne menja se.
+
+— Izgleda.
+
+### Staroslovenski
+
+— Аще же движеть сѧ · велика нѫжда измѣнꙗти сѧ · єлико бо что движеть сѧ · толико не к томѹ тако имать · ꙗкоже имѣаше · нъ инако ·
+
+— Тако ·
+
+— Движѫще сѧ ѹбо єдино и измѣнꙗѥть сѧ ·
+
+— Да ·
+
+— Аще же ни како движеть сѧ · ни како измѣнꙗло сѧ бы ·
+
+— Не бо ·
+
+— Єлико ѹбо движеть сѧ єдино не сѫщее · измѣнꙗѥть сѧ · єлико же не движеть сѧ · не измѣнꙗѥть сѧ ·
+
+— Тако ·
+
+— Єдино ѹбо не сѫщее и измѣнꙗѥть сѧ и не измѣнꙗѥть сѧ ·
+
+— Видить сѧ ·
+
+## 162e
+
+### Srpski
+
+— Zar onda ono što se menja ne mora postajati drugo nego što je bilo, i propadati iz svog pređašnjeg stanja, a ono što se ne menja niti nastajati niti propadati?
+
+— Nužno.
+
+— Jedno koje nije, dakle, menjajući se nastaje i propada, a ne menjajući se niti nastaje niti propada; i tako jedno koje nije i nastaje i propada, i niti nastaje niti propada.
+
+— Svakako.
+
+### Staroslovenski
+
+— Не ѹбо измѣнꙗѭщемѹ сѧ нѫжда ино бывати · нежели прѣжде бѣ · и погибати отъ прѣждьнꙗго имѣниꙗ · не измѣнꙗѭщемѹ же сѧ ни бывати ни погибати ·
+
+— Нѫжда ·
+
+— Єдино ѹбо не сѫщее · измѣнꙗѥ сѧ · бываѥть и погибаѥть · не измѣнꙗѥ же сѧ · ни бываѥть ни погибаѥть · и тако єдино не сѫщее и бываѥть и погибаѥть · и ни бываѥть ни погибаѥть ·
+
+— Вьсѣко ·
+
+
+## 163a
+
+### Srpski
+
+— Vratimo se opet na početak da vidimo hoće li nam se pokazati isto kao sada ili drukčije.
+
+— Treba.
+
+— Kažemo, dakle: ako jedno nije, šta mu mora sledovati?
+
+— Da.
+
+— Kada kažemo „nije“, označava li to išta drugo nego odsustvo suštastva od onoga za šta kažemo da nije?
+
+— Ništa drugo.
+
+— Kada kažemo da nešto nije, da li kažemo da ono na neki način nije, a na neki način jeste? Ili ovo „nije“ naprosto znači da ne-sušto ni na koji način niti igde jeste i da ni na koji način ne učestvuje u suštastvu?
+
+— Najprostije tako.
+
+### Staroslovenski
+
+— Пакꙑ ѹбо къ началѹ възвратимъ сѧ · да видимъ · єда та жде намъ ꙗкоже нꙑнѣ покажѫтъ сѧ · или ина ·
+
+— Подобаѥть ·
+
+— Глаголемъ ѹбо · аще єдино нѣсть · что ємѹ нѫжда бывати ·
+
+— Да ·
+
+— Єгда нѣсть глаголемъ · єда что ино знаменѹѥть · развѣ сѫщьства отъсѫствиѥ отъ того · єже глаголемъ не быти ·
+
+— Ничтоже ино ·
+
+— Єгда что глаголемъ не быти · єда глаголемъ · ꙗко нѣкако нѣсть · нѣкако же єсть · или се нѣсть просто знаменѹѥть · ꙗко не сѫщее ни како ни нигдѣже єсть · ни сѫщьства ни коимь образомъ причѧщаѥть сѧ ·
+
+— Наипаче тако ·
+
+
+## 163b
+
+### Srpski
+
+— Ne-sušto, dakle, ne bi moglo ni biti niti na drugi način učestvovati u suštastvu.
+
+— Ne bi.
+
+— A nastajati i propadati nije li jedno primati suštastvo, a drugo gubiti ga?
+
+— Šta drugo?
+
+— Ono, dakle, čemu suštastvo nimalo ne pripada ne bi ga moglo ni primati ni gubiti.
+
+— Kako bi?
+
+— Jedno, dakle, pošto ni na koji način nije, ne sme ni imati ni napuštati ni primati suštastvo ni na koji način.
+
+— Razumno.
+
+### Staroslovenski
+
+— Не сѫщее ѹбо ни быти могло бы · ни инако сѫщьства причѧщати сѧ ·
+
+— Не бо ·
+
+— Бывати же и погибати · не се ли єсть · ово сѫщьство приѥмлѧти · ово же лишати сѧ єго ·
+
+— Что бо ино ·
+
+— Ємѹже ѹбо сѫщьство ничимь не присѫще · не могло бы єго ни приѥмлѧти ни лишати сѧ ·
+
+— Како бо ·
+
+— Єдино ѹбо · понеже ни како нѣсть · ни имѣти ни отпѹщати ни приѥмлѧти сѫщьство ни коимь образомъ подобаѥть ємѹ ·
+
+— Разѹмьно ·
+
+## 163d
+
+### Srpski
+
+— Jedno koje nije, dakle, niti propada niti nastaje, pošto ni na koji način ne učestvuje u suštastvu.
+
+— Ne izgleda.
+
+— Niti se, dakle, na bilo koji način menja; jer bi, trpeći to, već nastajalo i propadalo.
+
+— Istina.
+
+— A ako se ne menja, nije li nužno da se ni ne kreće?
+
+— Nužno.
+
+— Niti ćemo reći da stoji ono što nigde nije; jer ono što stoji mora uvek biti u nečem istom.
+
+— U istom; kako ne?
+
+— Tako ćemo opet reći da ono koje nije nikada niti stoji niti se kreće.
+
+— Ne, zaista.
+
+### Staroslovenski
+
+— Ни погибаѥть ѹбо єдино не сѫщее · ни бываѥть · понеже ни како сѫщьства причѧщаѥть сѧ ·
+
+— Не видить сѧ ·
+
+— Ни измѣнꙗѥть сѧ ѹбо ни како · ѹже бо бы бываѥть и погибаѥть · се страдаѩ ·
+
+— Истина ·
+
+— Аще же не измѣнꙗѥть сѧ · не нѫжда ли ємѹ ни движати сѧ ·
+
+— Нѫжда ·
+
+— Ни пакꙑ стоꙗти речемъ нигдѣже сѫщее · стоѩщемѹ бо въ томьжде нѣчемь подобаѥть вьсегда быти ·
+
+— Въ томьжде · како бо ни ·
+
+— Тако ѹбо пакꙑ не сѫщее ни стоꙗти когда ни движати сѧ речемъ ·
+
+— Не бо ·
+
+
+## 164a
+
+### Srpski
+
+— Ali mu ne pripada ni išta od suštih; jer učestvujući u tome već bi učestvovalo u suštastvu.
+
+— Očigledno.
+
+— Dakle, ne pripadaju mu ni veličina ni malost ni jednakost.
+
+— Ne.
+
+— Niti bi mu pripadale sličnost ni različitost, ni prema sebi ni prema drugima.
+
+— Ne izgleda.
+
+— A mogu li mu druga ikako pripadati, ako mu ništa ne sme pripadati?
+
+— Ne mogu.
+
+— Dakle, druga prema njemu nisu ni slična ni neslična, ni ista ni različita.
+
+— Ne.
+
+### Staroslovenski
+
+— Нъ ни нѣчто отъ сѫщихъ ємѹ присѫще єсть · причѧщаѥ бо сѧ сего · ѹже бы сѫщьства причѧщало сѧ ·
+
+— Ꙗвѣ ·
+
+— Ни величьство ѹбо ни малость ни равьность ємѹ присѫтъ ·
+
+— Не бо ·
+
+— Ни пакꙑ подобьство ни различьство · ни къ себѣ ни къ инꙑмъ · ємѹ бꙑла бы ·
+
+— Не видить сѧ ·
+
+— Что же · инаꙗ могуть ли како ємѹ быти · аще ничтоже ємѹ подобаѥть быти ·
+
+— Не могуть ·
+
+— Ни подобьна ѹбо ни неподобьна · ни та жде ни ина · ємѹ инаꙗ сѫть ·
+
+— Не бо ·
+
+
+## 164b
+
+### Srpski
+
+— A šta? „Od njega“, „njemu“, „nešto“, „ovo“, „ovoga“, „od drugoga“, „drugome“, „nekada“, „potom“, „sada“, ili znanje, mnenje, čuvstvo, slovo, ime, ili bilo šta drugo od suštih — hoće li išta od toga biti o ne-suštom?
+
+— Neće.
+
+— Tako, dakle, jedno koje nije ni na koji način nema nikakvo stanje.
+
+— Izgleda da zaista ni na koji način nema.
+
+— Recimo još kakva moraju biti druga, ako jedno nije.
+
+— Recimo.
+
+— Valjda moraju biti druga; jer ako ni druga nisu, ne bi se ni govorilo o drugima.
+
+— Tako je.
+
+### Staroslovenski
+
+— Что же · отъ него ли · или ємѹ · или нѣчто · или се · или сего · или отъ иного · или иномѹ · или иногда · или послѣ · или нꙑнѣ · или знаниѥ · или мьнѣниѥ · или чѹвьство · или слово · или имѧ · или ино что любо отъ сѫщихъ · о не сѫщемь бѫдеть ·
+
+— Не бѫдеть ·
+
+— Тако ѹбо єдино не сѫщее ни како ни по чемѹ имать ·
+
+— Не видить сѧ ни како имѣти ·
+
+— Ѥще ѹбо речемъ · аще єдино нѣсть · инаꙗ что подобаѥть пострадати ·
+
+— Речемъ бо ·
+
+— Ина ѹбо · мьнѭ · подобаѥть имъ быти · аще бо ни ина нѣсѫть · не о инꙑхъ бы слово бꙑло ·
+
+— Тако ·
+
+## 164c
+
+### Srpski
+
+— Ako, dakle, govorimo o drugima, govorimo o različitima; ili zar ti „drugo“ i „različito“ nisu isto?
+
+— Isto.
+
+— A različito, kažemo, jeste različito od različitoga, i drugo je drugo od drugoga?
+
+— Da.
+
+— I drugima, dakle, ako treba da budu druga, postoji nešto od čega će biti druga.
+
+— Nužno.
+
+— Šta bi to onda bilo? Jer od jednog neće biti druga, pošto jedno nije.
+
+— Neće.
+
+— Dakle, druga su jedna od drugih; jer preostaje im samo to, ili da budu druga od ničega.
+
+— Pravo.
+
+### Staroslovenski
+
+— Аще ѹбо о инꙑхъ глаголемъ · о различьнꙑхъ глаголемъ · или не тожде ли тебѣ ино и различьно ·
+
+— Тожде ·
+
+— Различьно же · глаголемъ · отъ различьнаго различьно єсть · и ино отъ иного ино ·
+
+— Да ·
+
+— И инꙑмъ ѹбо · аще ина быти имѫтъ · єсть нѣчто · отъ него же ина бѫдѫть ·
+
+— Нѫжда ·
+
+— Что же се бꙑло бы · не бо отъ єдинаго ина бѫдѫть · понеже єдино нѣсть ·
+
+— Не бо ·
+
+— Дрѹгъ отъ дрѹга ѹбо ина сѫть · се бо имъ тъкмо остаѥть · или отъ ничегоже инꙑмъ быти ·
+
+— Право ·
+
+
+## 164d
+
+### Srpski
+
+— Dakle, svaka mnoštva jedna su od drugih, jer kao jedno ne mogu biti druga, pošto jedno nije; nego je, kako izgleda, svaka njihova gomila beskrajna mnoštvom, pa ako neko uzme ono što izgleda najmanje, ono se iznenada, kao u snu, umesto jednog što se činilo da jeste, pokazuje mnogim, a umesto najmanjeg veoma velikim prema delovima koji se iz njega dele.
+
+— Sasvim tako.
+
+— Kao takva mnoštva, dakle, druga bi bila jedna od drugih, ako su druga, a jedno nije.
+
+— Svakako.
+
+### Staroslovenski
+
+— Множьства ѹбо дрѹгъ отъ дрѹга ина сѫть · ꙗко бо єдино ина быти не могуть · понеже єдино нѣсть · нъ кождо · ꙗкоже видить сѧ · громаждениѥ ихъ бескраи єсть множьствомъ · и аще кто мьнѣишее видимоѥ прииметь · абиѥ ꙗкоже въ сънѣ · вмѣсто єдинаго · єже мьнѣаше сѧ быти · многа ꙗвлꙗѥть сѧ · и вмѣсто мьнѣишаго · прѣвелико къ дѣломъ отъ него дѣлимꙑмъ ·
+
+— Вьсѣко тако ·
+
+— Такова ѹбо множьства дрѹгъ отъ дрѹга ина бꙑла бы инаꙗ · аще инаꙗ сѫть · єдино же нѣсть ·
+
+— Вьсѣко ·
+
+
+## 164e
+
+### Srpski
+
+— Zar neće biti i mnogo gomila, od kojih će svaka izgledati kao jedno, a neće biti jedno, pošto jednog nema?
+
+— Tako je.
+
+— I izgledaće da postoji njihov broj, ako svaka izgleda kao jedno, a njih ima mnogo.
+
+— Svakako.
+
+— I jedne će među njima izgledati parne, druge neparne, ali neistinito, ako jednog nema.
+
+— Neistinito, zaista.
+
+— I najmanje će, kažemo, izgledati da postoji među njima; ali ono se pokazuje mnogim i velikim prema svakome od mnogih, budući maleno.
+
+— Kako ne?
+
+### Staroslovenski
+
+— Не многа ли и громаждениꙗ бѫдѫть · кождо же єдино видѣти сѧ бѫдеть · єдино же не бѫдеть · понеже єдинаго нѣсть ·
+
+— Тако ·
+
+— И числъ ихъ быти видѣти сѧ бѫдеть · аще кождо єдино видить сѧ · многа же сѫть ·
+
+— Вьсѣко ·
+
+— И ова ѹбо въ нихъ четна · ова же нечетна видѣти сѧ бѫдѫть · не истиньно же · аще єдинаго нѣсть ·
+
+— Не истиньно бо ·
+
+— И мьнѣишее же · глаголемъ · видѣти сѧ бѫдеть въ нихъ · се же многа и велика ꙗвлꙗѥть сѧ къ кождомѹ отъ многꙑхъ · ꙗко малѹ сѫщѹ ·
+
+— Како бо ни ·
+
+## 165a
+
+### Srpski
+
+— Kako ne?
+
+— I svaka će se gomila smatrati jednakom mnogim i malim; jer ne bi izgledalo da prelazi iz većeg u manje pre nego što bi se učinilo da dolazi u ono između, a to bi bila pričina jednakosti.
+
+— Razumno.
+
+— Zar, dakle, prema drugoj gomili neće imati kraj, dok prema samoj sebi neće imati ni početak ni kraj ni sredinu?
+
+— Kako to?
+
+### Staroslovenski
+
+— Како бо ни ·
+
+— И равьно многꙑмъ и малꙑмъ кождо громаждениѥ мьнѣти сѧ бѫдеть · не бо бы отъ велиѥшаго къ мьньшемѹ прѣходити видѣло сѧ · прѣжде даже не мьнѣло сѧ въ междѹ сѫщее прити · се же привидѣниѥ равьности бꙑло бы ·
+
+— Разѹмьно ·
+
+— Не ѹбо къ иномѹ громаждениѭ краи имѣѩ · само къ себѣ ни начала ни краꙗ ни срѣдꙑ имать ·
+
+— Како се ·
+
+
+## 165b
+
+### Srpski
+
+— Zato što, kad god mišlju uzmemo nešto od njih kao nešto postojeće, pre početka uvek se pokazuje drugi početak, posle svršetka ostaje drugi svršetak, a u sredini druge sredine, srednjije od sredine i manje, zato što se nijedno od njih ne može uzeti kao jedno, budući da jednog nema.
+
+— Sasvim istinito.
+
+— Nužno je, dakle, mislim, da se sve sušto koje mišlju uzmemo drobi razdeljujući se; jer uvek bi se uzimala gomila bez jednog.
+
+— Svakako.
+
+### Staroslovenski
+
+— Понеже вьсегда · єгда кто отъ нихъ нѣчто размꙑсломъ прииметь ꙗко нѣчто сѫщее · прѣдъ началъмь ино вьсегда начало ꙗвлꙗѥть сѧ · по съвръшении же ино остаѥть съвръшениѥ · въ срѣдѣ же инꙑ срѣдьнѣишии срѣдꙑ · мьньшии же · понеже ни єдино отъ нихъ кождо ꙗко єдино приѥти сѧ не можеть · єдинаго не сѫща ·
+
+— Вьсѣко истиньно ·
+
+— Дробити сѧ ѹбо · мьнѭ · дѣлимо нѫжда єсть вьсѣмѹ сѫщемѹ · єже кто размꙑсломъ прииметь · громаждениѥ бо безъ єдинаго вьсегда приѥмлѥмо бꙑло бы ·
+
+— Вьсѣко ·
+
+
+## 165c
+
+### Srpski
+
+— Zar takvo, gledano izdaleka i mutno, nužno ne izgleda kao jedno, a onome ko ga izbliza i oštro poima svako pojedino izgleda beskrajno mnoštvom, ako je lišeno jednog koje nije?
+
+— Sasvim nužno.
+
+— Tako, dakle, svako od drugih mora izgledati i beskrajno i da ima kraj, i jedno i mnogo, ako jedno nije, a druga su od jednog.
+
+— Mora.
+
+— Zar neće izgledati i slična i neslična?
+
+— Kako?
+
+— Kao što na osenčenoj slici, kada se odmaknemo, sve izgleda jedno i kao da je pretrpelo isto, te je slično.
+
+— Svakako.
+
+### Staroslovenski
+
+— Не таковомѹ издалеча видимомѹ и неꙗсно · нѫжда єдино видѣти сѧ · изблиза же и острѣ поимаѭщемѹ · кождо бескраи множьствомъ ꙗвити сѧ · аще єдинаго лишено єсть · єдинаго не сѫща ·
+
+— Вьсѣко нѫжда ·
+
+— Тако ѹбо инаꙗ кождо и бескраи и краи имѫще · и єдино и многа видѣти сѧ подобаѥть · аще єдино нѣсть · инаꙗ же отъ єдинаго сѫть ·
+
+— Подобаѥть ·
+
+— Не ѹбо и подобьна и неподобьна быти мьнѣти сѧ бѫдѫть ·
+
+— Како ·
+
+— Ꙗкоже осѣнена · отъстоѩщемѹ вьсѧ єдино видѧтъ сѧ · тожде пострадати мьнѧтъ сѧ и подобьна быти ·
+
+— Вьсѣко ·
+
+## 165d
+
+### Srpski
+
+— A kada priđemo bliže, svako se pokazuje mnogim i različitim, i usled pričine različitosti različitim i nesličnim samome sebi.
+
+— Tako je.
+
+— Nužno je, dakle, da gomile izgledaju i slične i neslične sebi i jedna drugima.
+
+— Svakako.
+
+— I iste i različite jedna od drugih, i da se dodiruju i da su odvojene, i da se kreću svim kretanjima i da na svaki način stoje, i da nastaju i propadaju, i niti nastaju niti propadaju, i sve tome slično, što bismo sada lako mogli proći, ako, kada jednog nema, postoji mnoštvo.
+
+— Sasvim istinito.
+
+### Staroslovenski
+
+— Приближаѭщемѹ же · кождо многа и различьна ꙗвлꙗѥть сѧ · и отъ привидѣниꙗ различьства различьно и неподобьно самомѹ себѣ ·
+
+— Тако ·
+
+— Нѫжда ѹбо громаждениꙗ и подобьна и неподобьна себѣ же и дрѹгъ дрѹгѹ видѣти сѧ ·
+
+— Вьсѣко ·
+
+— И та жде и различьна дрѹгъ отъ дрѹга · и касати сѧ и отълѫчена быти · и вьсѣми движении движати сѧ и по вьсѣмъ стоꙗти · и бывати и погибати · и ни бывати ни погибати · и вьсѧ такова · ꙗже нꙑнѣ ѹдобь прѣити могли бꙑхомъ · аще єдинаго не сѫща множьство єсть ·
+
+— Вьсѣко истиньно ·
+
+
+## 165e
+
+### Srpski
+
+— Vratimo se, dakle, još jednom na početak i recimo: ako jedno nije, a druga od jednog jesu, šta će biti?
+
+— Recimo.
+
+— Druga, dakle, neće biti jedno.
+
+— Kako bi?
+
+— Niti mnogo; jer u mnogima bi bilo i jedno. Ako nijedno od njih nije jedno, sva su ništa, tako da ne bi bila ni mnogo.
+
+— Istina.
+
+— Ako u drugima nema jednog, druga nisu ni mnogo ni jedno.
+
+— Nisu.
+
+### Staroslovenski
+
+— Пакꙑ ѹбо ѥдино къ началѹ възвратимъ сѧ и речемъ · аще єдино нѣсть · инаꙗ же отъ єдинаго сѫть · что бѫдеть ·
+
+— Речемъ ·
+
+— Инаꙗ ѹбо єдино не бѫдѫть ·
+
+— Како бо ·
+
+— Ни многа · въ многꙑхъ бо и єдино бꙑло бы · аще же ни єдино отъ нихъ єдино нѣсть · вьсѧ ничтоже сѫть · ꙗко ни многа бꙑла бы ·
+
+— Истина ·
+
+— Єдинаго ѹбо въ инꙑхъ не сѫща · инаꙗ ни многа ни єдино сѫть ·
+
+— Не сѫть ·
+
+
+## 166a
+
+### Srpski
+
+— Niti izgledaju kao jedno niti kao mnogo.
+
+— Zašto?
+
+— Zato što druga ni na koji način ni u čemu nemaju nikakvo zajedništvo ni sa čim od ne-suštih, niti išta od ne-suštih pripada ičemu od drugih; jer ne-sušta nemaju ni delove.
+
+— Istina.
+
+— Dakle, u drugima nema ni mnenja ni pričine ne-suštog, niti se ne-sušto na bilo koji način pričinjava drugima.
+
+— Ne, zaista.
+
+— Ako jedno nije, dakle, ni od drugih se ništa ne pričinjava kao jedno niti kao mnogo; jer bez jednog nemoguće je pričinjavati se kao mnogo.
+
+— Nemoguće.
+
+### Staroslovenski
+
+— Ни єдино ни многа видѣти сѧ бѫдѫть ·
+
+— Чесо ради ·
+
+— Понеже инаꙗ ни коимь образомъ ни въ чемь ни съ єдинꙑмь отъ не сѫщихъ общениꙗ имѫтъ · ни нѣчто отъ не сѫщихъ нѣкоемѹ отъ инꙑхъ присѫще єсть · не сѫщимъ бо ни дѣловъ нѣсть ·
+
+— Истина ·
+
+— Ни мьнѣниѥ ѹбо ни привидѣниѥ не сѫщаго въ инꙑхъ єсть · ни не сѫщее ни како инꙑмъ видить сѧ ·
+
+— Не бо ·
+
+— Аще ѹбо єдино нѣсть · ни нѣчто отъ инꙑхъ ни ꙗко єдино ни ꙗко многа видить сѧ · безъ єдинаго бо многа видѣти сѧ невъзможьно ·
+
+— Невъзможьно ·
+
+## 166b
+
+### Srpski
+
+— Ako jedno, dakle, nije, ništa od drugih ne smatra se ni jednim ni mnogim; jer bez jednog nemoguće je smatrati nešto mnogim.
+
+— Nemoguće.
+
+— Ako jedno, dakle, nije, druga niti jesu niti se smatraju jednim ili mnogim.
+
+— Ne izgleda.
+
+— Niti su, dakle, slična ni neslična.
+
+— Ne.
+
+— Niti ista niti različita, niti se dodiruju niti su odvojena, niti išta drugo od onoga što smo ranije prošli kao ono što se pričinjava; ništa od toga druga niti jesu niti se pričinjavaju, ako jedno nije.
+
+— Istina.
+
+### Staroslovenski
+
+— Аще ѹбо єдино нѣсть · ни нѣчто отъ инꙑхъ мьнить сѧ ни єдино ни многа быти · безъ єдинаго бо многа мьнѣти невъзможьно ·
+
+— Невъзможьно ·
+
+— Аще ѹбо єдино нѣсть · инаꙗ ни сѫть ни мьнѧтъ сѧ єдино ни многа ·
+
+— Не видить сѧ ·
+
+— Ни ѹбо подобьна ни неподобьна ·
+
+— Не бо ·
+
+— Ни та жде ни различьна · ни касаѭща сѧ ни отълѫчена · ни ина елика въ прѣждьнихъ прѣидохомъ ꙗко видѣти сѧ · отъ сихъ ни нѣчто сѫть ни видѧтъ сѧ инаꙗ · аще єдино нѣсть ·
+
+— Истина ·
+
+
+## 166c
+
+### Srpski
+
+— Ako bismo, dakle, ukratko rekli: ako jedno nije, ništa nije — zar bismo pravo rekli?
+
+— Sasvim.
+
+— Neka, dakle, bude rečeno i to, i da, kako izgleda, bilo da jedno jeste bilo da nije, i ono samo i druga, i prema sebi i jedna prema drugima, na svaki način sve i jesu i nisu, i pričinjavaju se i ne pričinjavaju se.
+
+— Sasvim istinito.
+
+### Staroslovenski
+
+— Не ѹбо и съвъкѹпѣ аще речемъ · аще єдино нѣсть · ничтоже єсть · право ли речемъ ·
+
+— Вьсѣко ·
+
+— Се ѹбо да речеть сѧ · и ꙗко · ꙗкоже видить сѧ · єдино аще єсть аще нѣсть · и само и инаꙗ · и къ себѣ и дрѹгъ къ дрѹгѹ · вьсѧ по вьсѣмъ образомъ и сѫть и не сѫть · и видѧтъ сѧ и не видѧтъ сѧ ·
+
+— Вьсѣко истиньно ·
+
