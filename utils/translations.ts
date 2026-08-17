@@ -110,7 +110,7 @@ export interface Translations {
     Monimus: string;
     'Crates of Thebes': string;
     Metrocles: string;
-    Hiparhija: string;
+    'Hipparchia of Maroneia': string;
     'Zeno of Citium': string;
     Cleanthes: string;
     Chrysippus: string;
@@ -125,7 +125,7 @@ export interface Translations {
     Solon: string;
     'Chilon of Sparta': string;
     Epimenides: string;
-    Ferekid: string;
+    'Pherecydes of Syros': string;
     Menedemus: string;
     Cleobulus: string;
     Cleobulina: string;
@@ -243,7 +243,7 @@ export const translations: Record<Language, Translations> = {
       Monimus: 'Мѡнімѡсъ',
       'Crates of Thebes': 'Кратєтъ отъ Тєвъ',
       Metrocles: 'Мєтроклъ',
-      Hiparhija: 'Хіпархїꙗ',
+      'Hipparchia of Maroneia': 'Хіпархїꙗ',
       'Zeno of Citium': 'Зєнонъ отъ Китїꙗ',
       Cleanthes: 'Клєанѳъ',
       Chrysippus: 'Хрісіпъ',
@@ -258,7 +258,7 @@ export const translations: Record<Language, Translations> = {
       Solon: 'Солонъ',
       'Chilon of Sparta': 'Хїлонъ',
       Epimenides: 'Епімєнідъ',
-      Ferekid: 'Фєрєкідъ',
+      'Pherecydes of Syros': 'Фєрєкідъ',
       Menedemus: 'Мєнєдємъ',
       Cleobulus: 'Клєовѹлъ',
       Cleobulina: 'Клєовѹліна',
@@ -374,7 +374,7 @@ export const translations: Record<Language, Translations> = {
       Monimus: 'Monimos',
       'Crates of Thebes': 'Kratet iz Tebe',
       Metrocles: 'Metrokle',
-      Hiparhija: 'Hiparhija',
+      'Hipparchia of Maroneia': 'Hiparhija',
       'Zeno of Citium': 'Zenon iz Kitijuma',
       Cleanthes: 'Kleant',
       Chrysippus: 'Hrizip',
@@ -389,7 +389,7 @@ export const translations: Record<Language, Translations> = {
       Solon: 'Solon',
       'Chilon of Sparta': 'Hilon',
       Epimenides: 'Epimenid',
-      Ferekid: 'Ferekid',
+      'Pherecydes of Syros': 'Ferekid',
       Menedemus: 'Menedém',
       Cleobulus: 'Kleobul',
       Cleobulina: 'Kleobulina',

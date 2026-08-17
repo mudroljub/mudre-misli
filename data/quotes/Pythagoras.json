@@ -659,8 +659,7 @@
   },
   {
     "id": "mm-001588",
-    "type": "bio",
-    "year": -450,
+    "type": "works",
     "sr": "Sve do Filolaja nije bilo moguće upoznati nijedno pitagorejsko učenje; on je prvi objavio čuvene tri knjige.",
     "stsl": "До Филолаꙗ ни єдиного питагорѣискаго ѹчениꙗ познати не бѣ лѣзѣ · тъ прьвъ славьныѧ три книгы изнесе ·",
     "author": "Pythagoras",
@@ -1590,21 +1589,6 @@
     ]
   },
   {
-    "id": "mm-001652",
-    "type": "anecdote",
-    "year": -520,
-    "sr": "Prema jednom predanju, kada je Pitagora jednom razotkrio bedro, videlo se da je zlatno.",
-    "stsl": "По єдиномѹ прѣданиѭ · єгда Пѷѳагоръ єдиноѭ стегно обнажи · злато є быти видѣшѧ ·",
-    "originalText": "λόγος δέ ποτ' αὐτοῦ παραγυμνωθέντος τὸν μηρὸν ὀφθῆναι χρυσοῦν.",
-    "author": "Pythagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.11"
-      }
-    ]
-  },
-  {
     "id": "mm-001653",
     "type": "anecdote",
     "year": -520,
@@ -1860,7 +1844,7 @@
   {
     "id": "mm-001670",
     "type": "works",
-    "sr": "Jedni su tvrdili da Pitagora nije ostavio nijedan spis.",
+    "sr": "Neki su tvrdili da Pitagora nije ostavio nijedan spis.",
     "stsl": "Єдини глаголахѫ · ꙗко Пѷѳагоръ ни єдинаго писаниꙗ не остави ·",
     "originalText": "Ἔνιοι μὲν οὖν Πυθαγόραν μηδὲ ἓν καταλιπεῖν σύγγραμμα φασιν.",
     "author": "Pythagoras",

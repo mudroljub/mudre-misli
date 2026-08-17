@@ -26,7 +26,7 @@ export const authorGroups: AuthorGroup[] = [
       'Chilon of Sparta',
       'Anacharsis',
       'Epimenides',
-      'Ferekid'
+      'Pherecydes of Syros'
     ]
   },
   {
@@ -96,7 +96,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'cynics',
         title: 'Cynics',
-        authors: ['Diogenes', 'Crates of Thebes', 'Hiparhija', 'Metrocles', 'Monimus']
+        authors: ['Diogenes', 'Crates of Thebes', 'Hipparchia of Maroneia', 'Metrocles', 'Monimus']
       },
       {
         titleKey: 'stoics',

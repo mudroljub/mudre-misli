@@ -57,7 +57,7 @@ const latCyrDict: Record<string, string> = {
 };
 
 const cyrLatDict: Record<string, string> = {
-  'A': 'А', 'а': 'a',
+  'А': 'A', 'а': 'a',
   'Б': 'B', 'б': 'b',
   'В': 'V', 'в': 'v',
   'Г': 'G', 'г': 'g',
@@ -104,8 +104,7 @@ const cyrLatDict: Record<string, string> = {
   'Љ': 'Lj', 'љ': 'lj',
   'Њ': 'Nj', 'њ': 'nj',
   'Џ': 'Dž', 'џ': 'dž',
-  'Ъ': '', 'ъ': '',
-  'Ь': '', 'ь': '',
+  'Ѯ': 'X', 'ѯ': 'x',
 };
 
 export const toLatinic = (text: string): string =>

@@ -35,7 +35,9 @@ export default function QuoteCard({
   return (
     <div className={classNames(styles.card, styles[entry.type], className)}>
       {isLongForm && <h4 className={styles.longFormTitle}>{getLongFormTitle(text)}</h4>}
-      <p>{isLongForm ? getExcerpt(text) : text}</p>
+      <p className={styles.quoteText}>
+        {isLongForm ? getExcerpt(text) : text}
+      </p>
 
       {showAuthor && (
         <p className={styles.authorLine}>

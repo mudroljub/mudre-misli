@@ -44,7 +44,7 @@
 | ἄπορος            | безысходьнъ                           | bezizlazan                      |
 | ἀρετή             | добродѣтель                           | vrlina                          |
 | ἁρμονία           | складъ                                | sklad                           |
-| ἀρχή              | начѧло                                | počelo, načelo                  |
+| ἀρχή              | начѧло                                | načelo (alt: počelo)                  |
 | ἀσχήμων           | безобразьнъ                           | bezobrazan                      |
 | ἄτακτος           | нерѧдьнъ                              | neredan (alt: neuređen)         |
 | ἀταξία            | нерѧдъ                                | nered                           |

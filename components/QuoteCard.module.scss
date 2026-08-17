@@ -38,10 +38,9 @@
 }
 
 .quote {
-  border-left: 4px solid $color-border;
   background: lighten($color-border, 18%);
 
-  > p:first-child::before {
+  .quoteText::before {
     content: "“";
     float: left;
     margin: -0.18em 0.08em -0.25em 0;
@@ -49,6 +48,17 @@
     font-family: Georgia, serif;
     font-size: 3rem;
     line-height: 1;
+    opacity: 0.5;
+  }
+
+  .quoteText::after {
+    content: "”";
+    margin-left: 0.08em;
+    color: $color-primary;
+    font-family: Georgia, serif;
+    font-size: 3rem;
+    line-height: 0;
+    vertical-align: -0.35em;
     opacity: 0.5;
   }
 }

@@ -136,9 +136,6 @@ export interface AuthorData {
   /** Portrait URL */
   src?: string
 
-  /** Optional Wikipedia page slug when it differs from the project key */
-  wikipediaSlug?: string
-
   /** Ancient birthplace */
   birthplace?: string
 

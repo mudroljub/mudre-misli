@@ -44,7 +44,7 @@ const walterBurleyAuthorFiles = {
   'Chilon of Sparta': 'chilon',
   'Crates of Thebes': 'crates',
   Diogenes: 'diogenes_cynicus',
-  Ferekid: 'pherecides',
+  'Pherecydes of Syros': 'pherecides',
   'Zeno of Citium': 'zeno_citieus',
   'Zeno of Elea': 'zeno_eleates',
 }
