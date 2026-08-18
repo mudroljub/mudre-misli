@@ -126,7 +126,7 @@
   {
     "id": "mm-001276",
     "type": "works",
-    "sr": "Diogen među Demokritovim delima navodi Veliki ustroj, za koji Teofrastov krug kaže da je Leukipov.",
+    "sr": "Diogen među Demokritovim delima navodi Veliki stroj, za koji Teofrastov krug kaže da je Leukipov.",
     "stsl": "Діогенъ въ Демокритовыхъ писаніихъ Великии строи поминаєть · єго же Ѳеофрастови Леѷкипповъ быти глаголѭть ·",
     "originalText": "Μέγας διάκοσμος (ὃν οἱ περὶ Θεόφραστον Λευκίππου φασὶν εἶναι).",
     "author": "Leucippus",
@@ -154,14 +154,14 @@
   {
     "id": "mm-001278",
     "type": "reported",
-    "sr": "Smatrao je da je svega beskrajno mnogo i da se sve menja jedno u drugo; celina je prazno i puno, a atome je prvi postavio kao načela.",
-    "stsl": "Мьнѣаше · ꙗко вьсѣхъ бескраино єсть · и вьсѧ єдина въ дрѹга прѣмѣнѧѭть сѧ · вьсецѣлоє же праздьно и пълно єсть · недѣлима же тѣлеса пръвъ начѧла положи ·",
-    "originalText": "ἤρεσκε δ' αὐτῷ ἄπειρα εἶναι τὰ πάντα καὶ εἰς ἄλληλα μεταβάλλειν, τό τε πᾶν εἶναι κενὸν καὶ πλῆρες [σωμάτων]. πρῶτός τ' ἀτόμους ἀρχὰς ὑπεστήσατο.",
+    "sr": "Smatrao je da je svega beskrajno mnogo i da se sve menja jedno u drugo; celina je prazno i puno.",
+    "stsl": "Мьнѣаше · ꙗко вьсѣхъ бескраино єсть · и вьсѧ єдина въ дрѹга прѣмѣнѧѭть сѧ · вьсецѣлоє же праздьно и пълно єсть ·",
+    "originalText": "ἤρεσκε δ' αὐτῷ ἄπειρα εἶναι τὰ πάντα καὶ εἰς ἄλληλα μεταβάλλειν, τό τε πᾶν εἶναι κενὸν καὶ πλῆρες [σωμάτων].",
     "author": "Leucippus",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "IX.30–31"
+        "reference": "IX.30"
       }
     ]
   },
@@ -169,7 +169,7 @@
     "id": "mm-001279",
     "type": "reported",
     "sr": "Od toga je jedno puno, a drugo prazno, koje naziva i sastojcima. Od njih bivaju beskrajni strojevi i u njih se razlažu.",
-    "stsl": "Отъ сихъ же єдино пълно єсть · дрѹгоє же праздьно · ꙗже и състави нарицаєть · Строи же отъ сихъ бескраини сѫть и въ сиꙗ разлагаѭть сѧ ·",
+    "stsl": "Отъ сихъ же єдино пълно єсть · дрѹгоє же праздьно · ꙗже и стави нарицаєть · Строи же отъ сихъ бескраини сѫть и въ сиꙗ разлагаѭть сѧ ·",
     "originalText": "τούτου δὲ τὸ μὲν πλῆρες εἶναι, τὸ δὲ κενόν, <ἃ> καὶ στοιχεῖά φησι. κόσμους τε ἐκ τούτων ἀπείρους εἶναι καὶ διαλύεσθαι εἰς ταῦτα.",
     "author": "Leucippus",
     "sources": [
@@ -182,28 +182,14 @@
   {
     "id": "mm-001280",
     "type": "reported",
-    "sr": "Mnoštvo tela svakojakih oblika odvaja se iz beskrajnog i kreće u veliku prazninu. Sabirajući se, stvaraju jedan vrtlog; u njemu se sudaraju, kruže na sve načine i razdvajaju, slično ka sličnom. Ona finija odlaze u spoljašnju prazninu, dok ostala ostaju zajedno, prepliću se i obrazuju prvi kuglasti sklop.",
-    "stsl": "Многа тѣлеса всѧкоꙗкихъ образовъ отъ бескраинаго отъдѣлѧѭть сѧ и въ велико праздьно движѫть сѧ · събравъша же сѧ єдинъ вихрь творѧть · въ немь съразѧѭть сѧ и всѧко крѹжѧть · и разлѫчаѭть сѧ · подобьна къ подобьнымъ · тоньчаиша въ внѣшьнєє праздьно исходѧть · прочаꙗ же състоѩть и съплѣтаѭшта сѧ пръвъ крѹглообразнъ съставъ творѧть ·",
-    "originalText": "φέρεσθαι κατὰ ἀποτομὴν ἐκ τῆς ἀπείρου πολλὰ σώματα παντοῖα τοῖς σχήμασιν εἰς μέγα κενόν, ἅπερ ἀθροισθέντα δίνην ἀπεργάζεσθαι μίαν, καθ' ἣν προσκρούοντα <ἀλλήλοις> καὶ παντοδαπῶς κυκλούμενα διακρίνεσθαι χωρὶς τὰ ὅμοια πρὸς τὰ ὅμοια. ἰσορρόπων δὲ διὰ τὸ πλῆθος μηκέτι δυναμένων περιφέρεσθαι, τὰ μὲν λεπτὰ χωρεῖν εἰς τὸ ἔξω κενόν, ὥσπερ διαττώμενα· τὰ δὲ λοιπὰ συμμένειν καὶ περιπλεκόμενα συγκατατρέχειν ἀλλήλοις καὶ ποιεῖν πρῶτόν τι σύστημα σφαιροειδές.",
+    "sr": "Mnoštvo tela svakojakih oblika odvaja se iz beskrajnog i kreće u veliko prazno. Sabirajući se, stvaraju jedan vrtlog; u njemu se sudaraju, kruže na sve načine i razlučuju se, slično ka sličnom. Kada zbog mnoštva više ne mogu ravnotežno kružiti, sitnija odlaze u spoljašnje prazno, kao prosejavajući se, dok ostala ostaju zajedno, prepliću se i stiču jedna uz druga, tvoreći neki prvi okrugli sklop. Od tog sklopa odvaja se kao neka opna koja u sebi obuhvata tela svakojakih vrsta. Tela nošena ka sredini ostaju zajedno i tako nastaje Zemlja. Spoljašnja opna raste primajući tela spolja; neka od njih prepliću se i tvore sklop, isprva vlažan i blatnjav; zatim se suše, kruže s vrtlogom celine i naposletku se pale, obrazujući zvezde.",
+    "stsl": "Многа тѣлеса всѧкоꙗкихъ образовъ отъ бескраинаго отъдѣлѧѭть сѧ и въ велико праздьно движѫть сѧ · събравъша же сѧ єдинъ вихрь творѧть · въ немь съразѧѭть сѧ и всѧко крѹжѧть · и разлѫчаѭть сѧ · подобьна къ подобьнымъ · Єгда же множьства ради равно крѹжити сѧ къ томѹ не могѫть · тоньчаиша въ внѣшьнєє праздьно исходѧть · ꙗко просѣваѥма · прочаꙗ же състоѩть · съплѣтаѭть сѧ и сътѣкаѭть сѧ дрѹгъ къ дрѹгѹ · нѣкыи пръвъ окрѫглъ склопъ творѧть · Отъ сего склопа ꙗко плѣна отъдѣлѧєть сѧ · всѧкоꙗка тѣлеса въ себѣ обьемлѭшти · къ срѣдѣ же принесена тѣлеса състоѩть · и тако Землѧ бываєть · внѣшьнѧꙗ же плѣна растеть · тѣлеса извънѫ приємлѭшти · нѣкаꙗ же отъ нихъ съплѣтаѭть сѧ и склопъ творѧть · прѣжде влажнъ и калнъ · потомъ исъсыхаѭть и съ вихромъ вьсецѣлаго крѹжѧть · таже възгараѭшта сѧ звѣзды творѧть ·",
+    "originalText": "φέρεσθαι κατὰ ἀποτομὴν ἐκ τῆς ἀπείρου πολλὰ σώματα παντοῖα τοῖς σχήμασιν εἰς μέγα κενόν, ἅπερ ἀθροισθέντα δίνην ἀπεργάζεσθαι μίαν, καθ' ἣν προσκρούοντα <ἀλλήλοις> καὶ παντοδαπῶς κυκλούμενα διακρίνεσθαι χωρὶς τὰ ὅμοια πρὸς τὰ ὅμοια. ἰσορρόπων δὲ διὰ τὸ πλῆθος μηκέτι δυναμένων περιφέρεσθαι, τὰ μὲν λεπτὰ χωρεῖν εἰς τὸ ἔξω κενόν, ὥσπερ διαττώμενα· τὰ δὲ λοιπὰ συμμένειν καὶ περιπλεκόμενα συγκατατρέχειν ἀλλήλοις καὶ ποιεῖν πρῶτόν τι σύστημα σφαιροειδές. τοῦτο δ' οἷον ὑμένα ἀφίστασθαι, περιέχοντ' ἐν ἑαυτῷ παντοῖα σώματα· καὶ οὕτω γενέσθαι τὴν γῆν, συμμενόντων τῶν ἐνεχθέντων ἐπὶ τὸ μέσον. αὐτόν τε πάλιν τὸν περιέχοντα οἷον ὑμένα αὔξεσθαι κατὰ τὴν ἐπέκκρισιν τῶν ἔξωθεν σωμάτων· τούτων δέ τινα συμπλεκόμενα ποιεῖν σύστημα, τὸ μὲν πρῶτον κάθυγρον καὶ πηλῶδες, ξηρανθέντα καὶ περιφερόμενα σὺν τῇ τοῦ ὅλου δίνῃ, εἶτ' ἐκπυρωθέντα τὴν τῶν ἀστέρων ἀποτελέσαι φύσιν.",
     "author": "Leucippus",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "IX.31"
-      }
-    ]
-  },
-  {
-    "id": "mm-001281",
-    "type": "reported",
-    "sr": "Od tog sklopa odvaja se kao neka opna koja u sebi obuhvata tela svakojakih vrsta. Tela nošena ka sredini ostaju zajedno i tako nastaje Zemlja. Spoljašnja opna raste primajući tela spolja; neka od njih, isprva vlažna i blatnjava, prepliću se u sklop, zatim se suše, kruže s vrtlogom celine i naposletku se pale, obrazujući zvezde.",
-    "stsl": "Отъ сего състава ꙗко плѣна отъдѣлѧєть сѧ · всѧкоꙗка тѣлеса въ себѣ обьемлѭшти · къ срѣдѣ же принесена тѣлеса състоѩть · и тако Землѧ бываєть · внѣшьнѧꙗ же плѣна растеть · тѣлеса извънѫ приємлѭшти · нѣкаꙗ же отъ нихъ · прѣжде влажна и кална · съплѣтаѭть сѧ въ съставъ · потомъ исъсыхаѭть и съ вихромъ вьсецѣлаго крѹжѧть · таже възгараѭшта сѧ звѣзды творѧть ·",
-    "originalText": "τοῦτο δ' οἷον ὑμένα ἀφίστασθαι, περιέχοντ' ἐν ἑαυτῷ παντοῖα σώματα· καὶ οὕτω γενέσθαι τὴν γῆν, συμμενόντων τῶν ἐνεχθέντων ἐπὶ τὸ μέσον. αὐτόν τε πάλιν τὸν περιέχοντα οἷον ὑμένα αὔξεσθαι κατὰ τὴν ἐπέκκρισιν τῶν ἔξωθεν σωμάτων· τούτων δέ τινα συμπλεκόμενα ποιεῖν σύστημα, τὸ μὲν πρῶτον κάθυγρον καὶ πηλῶδες, ξηρανθέντα καὶ περιφερόμενα σὺν τῇ τοῦ ὅλου δίνῃ, εἶτ' ἐκπυρωθέντα τὴν τῶν ἀστέρων ἀποτελέσαι φύσιν.",
-    "author": "Leucippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.32"
+        "reference": "IX.31–32"
       }
     ]
   },
@@ -237,8 +223,8 @@
   },
   {
     "id": "mm-001284",
-    "type": "reported",
-    "sr": "Kao što svetovi nastaju, tako i rastu, slabe i propadaju, po nekoj nuždi.",
+    "type": "quote",
+    "sr": "Kao što svetovi rađaju se, tako i rastu, slabe i propadaju, po nekoj nuždi.",
     "stsl": "Ꙗкоже міри раждаѭть сѧ · тако и растѫть · изнемогаѭть и тлѣѭть · по нѣкоєи нѫжди ·",
     "originalText": "εἶναί τε ὥσπερ γενέσεις κόσμου, οὕτω καὶ αὐξήσεις καὶ φθίσεις καὶ φθοράς, κατά τινα ἀνάγκην·",
     "author": "Leucippus",
