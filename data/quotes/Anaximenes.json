@@ -105,9 +105,9 @@
   },
   {
     "id": "mm-000142",
-    "type": "reported",
-    "sr": "Govorio je da se zvezde kreću oko Zemlje, a ne ispod nje.",
-    "stsl": "Глаголааше ꙗко звѣздꙑ окрѣстъ землѧ движѫть сѧ · подъ неѭ же не заходѧть ·",
+    "type": "quote",
+    "sr": "Zvezde se kreću oko Zemlje, a ne ispod nje.",
+    "stsl": "Звѣздꙑ окрѣстъ землѧ движѫть сѧ · подъ неѭ же не заходѧть ·",
     "originalText": "κινεῖσθαι δὲ τὰ ἄστρα οὐχ ὑπὸ γῆν, ἀλλὰ περὶ γῆν.",
     "author": "Anaximenes",
     "sources": [
@@ -151,9 +151,9 @@
   },
   {
     "id": "mm-000145",
-    "type": "reported",
-    "sr": "Govorio je da je kretanje večno i da promena nastaje kroz kretanje.",
-    "stsl": "Глаголааше ꙗко движеніє вѣчьно єсть · и прѣмѣненіє движеніємъ бꙑваєть ·",
+    "type": "quote",
+    "sr": "Kretanje je večno i promena nastaje kroz kretanje.",
+    "stsl": "Движеніє вѣчьно єсть · и прѣмѣненіє движеніємъ бꙑваєть ·",
     "originalText": "κίνησιν δὲ καὶ οὗτος ἀΐδιον ποιεῖ, δι’ ἣν καὶ τὴν μεταβολὴν γίνεσθαι.",
     "author": "Anaximenes",
     "sources": [
@@ -165,8 +165,8 @@
   },
   {
     "id": "mm-000146",
-    "type": "reported",
-    "sr": "Govorio je da vazduh, kada je sasvim ravnomeran, nije vidljiv, ali se otkriva hladnoćom, toplotom, vlagom i kretanjem.",
+    "type": "quote",
+    "sr": "Vazduh, kada je sasvim ravnomeran, nije vidljiv, ali se otkriva hladnoćom, toplotom, vlagom i kretanjem.",
     "stsl": "Въздѹхъ · єгда вьсецѣло равьнъ · очима невидимъ · ꙗвлѧєть же сѧ стѹдениѭ · теплотоѭ · влагоѭ и движениємъ ·",
     "originalText": "τὸ δὲ εἶδος τοῦ ἀέρος τοιοῦτον· ὅταν μὲν ὁμαλώτατος ᾖ, ὄψει ἄδηλον, δηλοῦσθαι δὲ τῷ ψυχρῷ καὶ τῷ θερμῷ καὶ τῷ νοτερῷ καὶ τῷ κινουμένῳ.",
     "author": "Anaximenes",
@@ -221,8 +221,8 @@
   },
   {
     "id": "mm-000150",
-    "type": "reported",
-    "sr": "Govorio je da je Zemlja ravna i da počiva na vazduhu; Sunce, Mesec i ostale vatrene zvezde takođe se nose na vazduhu zbog svoje pljosnatosti.",
+    "type": "quote",
+    "sr": "Zemlja je ravna i počiva na vazduhu; Sunce, Mesec i ostale vatrene zvezde takođe se nose na vazduhu zbog svoje pljosnatosti.",
     "stsl": "Землꙗ плоска и на въздѹсѣ лежить · слъньце же · мѣсѧць и проча огньна звѣзды тако же на въздѹсѣ носѧть сѧ · плоскости ради ·",
     "originalText": "τὴν δὲ γῆν πλατεῖαν εἶναι ἐπ’ ἀέρος ὀχουμένην, ὁμοίως δὲ καὶ ἥλιον καὶ σελήνην καὶ τὰ ἄλλα ἄστρα πάντα πύρινα ὄντα ἐποχεῖσθαι τῷ ἀέρι διὰ πλάτος.",
     "author": "Anaximenes",
@@ -239,9 +239,9 @@
   },
   {
     "id": "mm-000151",
-    "type": "reported",
-    "sr": "Govorio je da je Zemlja nalik stolu i da svojom pljosnatošću zadržava vazduh ispod sebe, kao poklopac.",
-    "stsl": "Глаголааше ꙗко землꙗ трапезѣ подобьна єсть · и плоскостиѭ своеѭ въздѹхъ подъ собоѭ задрьжить ꙗко покровъ ·",
+    "type": "quote",
+    "sr": "Zemlja je nalik stolu i svojom pljosnatošću zadržava vazduh ispod sebe, kao poklopac.",
+    "stsl": "Землꙗ трапезѣ подобьна єсть · и плоскостиѭ своеѭ въздѹхъ подъ собоѭ задрьжить ꙗко покровъ ·",
     "originalText": "Ἀ. τραπεζοειδῆ τὴν γῆν ... τὸ πλάτος αἴτιον εἶναι τοῦ μένειν αὐτήν· οὐ γὰρ τέμνειν, ἀλλ’ ἐπιπωματίζειν τὸν ἀέρα τὸν κάτωθεν.",
     "author": "Anaximenes",
     "sources": [
@@ -253,9 +253,9 @@
   },
   {
     "id": "mm-000152",
-    "type": "reported",
-    "sr": "Govorio je da su Sunce, Mesec i zvezde nastali iz Zemlje: vlaga se diže iz nje, razređivanjem postaje vatra, a iz uzdignute vatre sastavljaju se zvezde.",
-    "stsl": "Глаголааше ꙗко слъньце · мѣсѧць и звѣздꙑ отъ землѧ бꙑшѧ · влага бо отъ неѩ възходить · разрѣжаєма огнь бꙑваєть · отъ възнесенаго же огнѧ звѣздꙑ съставлѧѭть сѧ ·",
+    "type": "quote",
+    "sr": "Sunce, Mesec i zvezde nastali su iz Zemlje: vlaga se diže iz nje, razređivanjem postaje vatra, a iz uzdignute vatre sastavljaju se zvezde.",
+    "stsl": "Слъньце · мѣсѧць и звѣздꙑ отъ землѧ бꙑшѧ · влага бо отъ неѩ възходить · разрѣжаєма огнь бꙑваєть · отъ възнесенаго же огнѧ звѣздꙑ съставлѧѭть сѧ ·",
     "originalText": "γεγονέναι δὲ τὰ ἄστρα ἐκ γῆς διὰ τὸ τὴν ἰκμάδα ἐκ ταύτης ἀνίστασθαι, ἧς ἀραιουμένης τὸ πῦρ γίνεσθαι, ἐκ δὲ τοῦ πυρὸς μετεωριζομένου τοὺς ἀστέρας συνίστασθαι.",
     "author": "Anaximenes",
     "sources": [
@@ -271,9 +271,9 @@
   },
   {
     "id": "mm-000153",
-    "type": "reported",
-    "sr": "Govorio je da među zvezdama postoje i nevidljiva zemljana tela koja se okreću zajedno s njima.",
-    "stsl": "Глаголааше ꙗко межи звѣздами и земьна тѣлеса невидима сѫть · ꙗже съ ними обраштаѭть сѧ ·",
+    "type": "quote",
+    "sr": "Među zvezdama postoje i nevidljiva zemljana tela koja se okreću zajedno s njima.",
+    "stsl": "Межи звѣздами и земьна тѣлеса невидима сѫть · ꙗже съ ними обраштаѭть сѧ ·",
     "originalText": "εἶναι δὲ καὶ γεώδεις φύσεις ἐν τῷ τόπῳ τῶν ἀστέρων συμπεριφερομένας ἐκείνοις.",
     "author": "Anaximenes",
     "sources": [
@@ -289,9 +289,9 @@
   },
   {
     "id": "mm-000154",
-    "type": "reported",
-    "sr": "Govorio je da je Sunce vatreno i ravno kao list.",
-    "stsl": "Глаголааше ꙗко слъньце огньно єсть · и плоско ꙗко листъ ·",
+    "type": "quote",
+    "sr": "Sunce je vatreno i ravno kao list.",
+    "stsl": "Слъньце огньно єсть · и плоско ꙗко листъ ·",
     "originalText": "Ἀ. πύρινον ὑπάρχειν τὸν ἥλιον ἀπεφήνατο. Ἀ. πλατὺν ὡς πέταλον τὸν ἥλιον.",
     "author": "Anaximenes",
     "sources": [
@@ -303,9 +303,9 @@
   },
   {
     "id": "mm-000155",
-    "type": "reported",
-    "sr": "Govorio je da zvezde skreću zato što ih odbija zbijeni i otporni vazduh.",
-    "stsl": "Глаголааше ꙗко звѣздꙑ повраштениѩ творѧть · отъ сгѫштеннаго и противѧштаго сѧ въздѹха отъбиваѥмꙑ ·",
+    "type": "quote",
+    "sr": "Zvezde skreću zato što ih odbija zbijeni i otporni vazduh.",
+    "stsl": "Звѣздꙑ повраштениѩ творѧть · отъ сгѫштеннаго и противѧштаго сѧ въздѹха отъбиваѥмꙑ ·",
     "originalText": "Ἀ. ὑπὸ πεπυκνωμένου ἀέρος καὶ ἀντιτύπου ἐξωθούμενα τὰ ἄστρα τὰς τροπὰς ποιεῖσθαι.",
     "author": "Anaximenes",
     "sources": [
@@ -317,9 +317,9 @@
   },
   {
     "id": "mm-000156",
-    "type": "reported",
-    "sr": "Govorio je da Mesec dobija svetlost od Sunca i objašnjavao je način njegovog pomračenja.",
-    "stsl": "Глаголааше ꙗко мѣсѧць свѣтъ отъ слъньца приимаєть · и како помрачаєть сѧ повѣдааше ·",
+    "type": "quote",
+    "sr": "Mesec dobija svetlost od Sunca; objašnjavao je i način njegovog pomračenja.",
+    "stsl": "Мѣсѧць свѣтъ отъ слъньца приимаєть · и како помрачаєть сѧ повѣдааше ·",
     "originalText": "Ἀναξιμένης δὲ ὅτι ἡ σελήνη ἐκ τοῦ ἡλίου ἔχει τὸ φῶς καὶ τίνα ἐκλείπει τρόπον.",
     "author": "Anaximenes",
     "sources": [
@@ -331,8 +331,8 @@
   },
   {
     "id": "mm-000157",
-    "type": "reported",
-    "sr": "Govorio je da vetar nastaje kada se vazduh zgusne i pokrene; kada se još više sabere i zadeblja, nastaju oblaci, zatim kiša, grad i sneg.",
+    "type": "quote",
+    "sr": "Vetar nastaje kada se vazduh zgusne i pokrene; kada se još više sabere i zadeblja, nastaju oblaci, zatim kiša, grad i sneg.",
     "stsl": "Вѣтръ бываєть · єгда въздѹхъ сгѫстить сѧ и подвигнеть сѧ · паче же събравъ сѧ и ѹдебелѣвъ · облакы раждаєть · потомъ дъждь · градъ и снѣгъ ·",
     "originalText": "ἀνέμους δὲ γεννᾶσθαι, ὅταν ᾖ πεπυκνωμένος ὁ ἀὴρ καὶ ὠσθεὶς φέρηται· συνελθόντα δὲ καὶ ἐπὶ πλεῖον παχυνθέντα νέφη γεννᾶσθαι καὶ οὕτως εἰς ὕδωρ μεταβάλλειν· χάλαζαν δὲ γίνεσθαι ... χιόνα δέ ...",
     "author": "Anaximenes",
@@ -349,9 +349,9 @@
   },
   {
     "id": "mm-000158",
-    "type": "reported",
-    "sr": "Govorio je da munja nastaje kada vetrovi silom razdvoje oblake, pri čemu se pojavljuje svetao i vatren sjaj; kao poređenje navodi se more koje zasvetli kada ga vesla rascepe.",
-    "stsl": "Глаголааше ꙗко мълниꙗ бꙑваєть єгда вѣтри силоѭ облакꙑ разлѫчѧть · тогда свѣтъ ꙗръкъ и огньнъ ꙗвить сѧ · Подобно и море свѣтить сѧ єгда веслами разсѣкаєть сѧ ·",
+    "type": "quote",
+    "sr": "Munja nastaje kada vetrovi silom razdvoje oblake, pri čemu se pojavljuje svetao i vatren sjaj; kao poređenje navodi se more koje zasvetli kada ga vesla rascepe.",
+    "stsl": "Мълниꙗ бꙑваєть єгда вѣтри силоѭ облакꙑ разлѫчѧть · тогда свѣтъ ꙗръкъ и огньнъ ꙗвить сѧ · Подобно и море свѣтить сѧ єгда веслами разсѣкаєть сѧ ·",
     "originalText": "ἀστραπὴν δ’ ὅταν τὰ νέφη διιστῆται βίᾳ πνευμάτων· τούτων γὰρ διισταμένων λαμπρὰν καὶ πυρώδη γίνεσθαι τὴν αὐγήν ... ἡ θάλασσα σχιζομένη ταῖς κώπαις παραστίλβει.",
     "author": "Anaximenes",
     "sources": [
