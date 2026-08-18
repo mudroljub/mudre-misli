@@ -202,7 +202,7 @@
 | σοφία             | мѫдрость                              | mudrost                         |
 | στάσις            | стояніє *(alt: покои)*; мѧтежь        | mirovanje; metež                |
 | στίχος            | рѧдъкъ *(alt: рѣчь)*                  | redak (alt. stih)               |
-| στοιχεῖον         | сълогъ                                | slog                          |
+| στοιχεῖον         | съставъ                               | sastojak                        |
 | συμμετρίη         | съмѣриє                               | samerljivost                    |
 | σύμμετρος         | съмѣрьнъ                              | samerljiv                       |
 | σφαῖρα            | лопъта                                | lopta                           |
@@ -235,8 +235,8 @@
 | φανερός           | ꙗвьнъ                                | javan (alt. očit)                |
 | φθορά             | тлѣніє                                | propadanje                      |
 | φιλία             | дрѹжьба                               | prijateljstvo                   |
-| φιλοσοφία         | любомѫдриє                            | mudroljublje (alt. filozofija)  |
-| φιλόσοφος         | любомѫдрьць                           | mudroljub (alt. filozof)        |
+| φιλοσοφία         | любомѫдриє                            | filozofija (alt. mudroljublje)  |
+| φιλόσοφος         | любомѫдрьць                           | filozof (alt. mudroljub)        |
 | φιλότης           | любовь                                | ljubav                          |
 | φόβος             | страхъ                                | strah                           |
 | φρένες            | разборъ                               | razbor                          |

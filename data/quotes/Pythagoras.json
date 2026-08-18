@@ -1012,8 +1012,8 @@
   {
     "id": "mm-001613",
     "type": "quote",
-    "sr": "Počelo svega je jedinica. Iz jedinice, koja je uzrok, nastaje neodređeno dvojstvo kao njena tvar. Iz jedinice i dvojstva nastaju brojevi; iz brojeva tačke, iz tačaka linije, iz linija ravni likovi, iz njih čvrsti likovi, a iz njih čulna tela i četiri sloga: oganj, voda, zemlja i vazduh.",
-    "stsl": "Начѧло вьсѣмь єдиница · Отъ єдиницѧ · ꙗже вина єсть · бываєть неопрѣдѣлено двоиство · ꙗко тварь єѩ · Отъ єдиницѧ и двоиства бываѭть числа · отъ числъ точькы · отъ точькъ чрьты · отъ чрътъ равьни образи · отъ нихъ твръди образи · отъ сихъ же чѹвьствьна тѣлеса и четыри сълози · огнь · вода · землѧ и въздѹхъ ·",
+    "sr": "Počelo svega je jedinica. Iz jedinice, koja je uzrok, nastaje neodređeno dvojstvo kao njena tvar. Iz jedinice i dvojstva nastaju brojevi; iz brojeva tačke, iz tačaka linije, iz linija ravni likovi, iz njih čvrsti likovi, a iz njih čulna tela i četiri sastojka: oganj, voda, zemlja i vazduh.",
+    "stsl": "Начѧло вьсѣмь єдиница · Отъ єдиницѧ · ꙗже вина єсть · бываєть неопрѣдѣлено двоиство · ꙗко тварь єѩ · Отъ єдиницѧ и двоиства бываѭть числа · отъ числъ точькы · отъ точькъ чрьты · отъ чрътъ равьни образи · отъ нихъ твръди образи · отъ сихъ же чѹвьствьна тѣлеса и четꙑри състави · огнь · вода · землѧ и въздѹхъ ·",
     "originalText": "ἀρχὴν μὲν τῶν ἁπάντων μονάδα· ἐκ δὲ τῆς μονάδος ἀόριστον δυάδα ὡς ἂν ὕλην τῇ μονάδι αἰτίῳ ὄντι ὑποστῆναι· ἐκ δὲ τῆς μονάδος καὶ τῆς ἀορίστου δυάδος τοὺς ἀριθμούς· ἐκ δὲ τῶν ἀριθμῶν τὰ σημεῖα· ἐκ δὲ τούτων τὰς γραμμάς, ἐξ ὧν τὰ ἐπίπεδα σχήματα· ἐκ δὲ τῶν ἐπιπέδων τὰ στερεὰ σχήματα· ἐκ δὲ τούτων τὰ αἰσθητὰ σώματα, ὧν καὶ τὰ στοιχεῖα εἶναι τέτταρα, πῦρ, ὕδωρ, γῆν, ἀέρα.",
     "author": "Pythagoras",
     "sources": [
@@ -1026,8 +1026,8 @@
   {
     "id": "mm-001614",
     "type": "quote",
-    "sr": "Četiri sloga potpuno prelaze jedan u drugi i iz njih se rađa živ, razuman i okrugao stroj, sa okruglom Zemljom u središtu, naseljenom sa svih strana. Postoje i oni na suprotnoj strani, kojima je naše dole njihovo gore.",
-    "stsl": "Четꙑри сълози вьсецѣло єдинъ въ дрѹгыи прѣмѣнѧѭть сѧ · и отъ нихъ живъ · разѹмьнъ и окрѫглъ строи родить сѧ · съ окрѫглою Землѥю посредѣ · отъвьсѫдѹ населенѫ · Сѫть и инии на противьнѣи странѣ · имъже наше долѣ єсть горѣ ·",
+    "sr": "Četiri sastojka potpuno se menjaju i preobraćaju, i od njih biva duševan, razuman i okrugao stroj, koji u sredini obuhvata Zemlju, i samu okruglu i unaokolo naseljenu. Postoje i oni na suprotnoj strani, kojima je naše dole njihovo gore.",
+    "stsl": "Четꙑри състави вьсецѣло прѣмѣнѧѭть сѧ и прѣвращаѭть сѧ · и отъ нихъ бꙑваєть дѹшьнъ · разѹмьнъ и окрѫглъ строи · посредѣ обьимѧ Землѭ · и самѫ окрѫглѫ и отъвьсѫдѹ населенѫ · Сѫть и инии на противьнѣи странѣ · имъже наше долѣ єсть горѣ ·",
     "originalText": "μεταβάλλειν δὲ καὶ τρέπεσθαι δι' ὅλων, καὶ γίνεσθαι ἐξ αὐτῶν κόσμον ἔμψυχον, νοερόν, σφαιροειδῆ, μέσην περιέχοντα τὴν γῆν καὶ αὐτὴν σφαιροειδῆ καὶ περιοικουμένην. εἶναι δὲ καὶ ἀντίποδας καὶ τὰ ἡμῖν κάτω ἐκείνοις ἄνω.",
     "author": "Pythagoras",
     "sources": [
@@ -1295,7 +1295,7 @@
   },
   {
     "id": "mm-001633",
-    "type": "reported",
+    "type": "mention",
     "sr": "Pitagori se pripisuje da je prvi nazvao nebo strojem i Zemlju okruglom; Teofrast to pripisuje Parmenidu, a Zenon Hesiodu.",
     "stsl": "Пѷѳагорѣ приписѹѭть · ꙗко прьвъ небо строємъ нарече и Землѭ окрѫглѫ · Феофрастъ же то Парменидѹ · Зенонъ Хесиодѹ приписѹєть ·",
     "originalText": "ἀλλὰ μὴν καὶ τὸν οὐρανὸν πρῶτον ὀνομάσαι κόσμον καὶ τὴν γῆν στρογγύλην, ὡς δὲ Θεόφραστος Παρμενίδην, ὡς δὲ Ζήνων Ἡσίοδον.",
@@ -1450,20 +1450,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "VIII.19"
-      }
-    ]
-  },
-  {
-    "id": "mm-001643",
-    "type": "reported",
-    "sr": "Aristotel prenosi više tumačenja Pitagorine zabrane boba: sličan je polnim organima ili vratima Hada, jedini je bez kolena, kvari, nalik je prirodi svega ili pripada oligarhiji jer se njime glasa.",
-    "stsl": "Аристотель множа тълкованиꙗ Питагорова запрѣта бобовъ прѣдаєть · подобьни сѫть ѹдомъ родьнымъ или вратомъ Ада · єдини безъ колѣна сѫть · тлѧть · естествѹ вьсего подобьни сѫть · или старѣишиньствѹ принадлежаѭть · имиже бо жрѣбъ метаѭть ·",
-    "originalText": "Φησὶ δ' Ἀριστοτέλης ἐν τῷ Περὶ τῶν Πυθαγορείων παραγγέλλειν αὐτὸν ἀπέχεσθαι τῶν κυάμων ἤτοι ὅτι αἰδοίοις εἰσὶν ὅμοιοι ἢ ὅτι Ἅιδου πύλαις ... ἀγόνατον γὰρ μόνον· ἢ ὅτι φθείρει ἢ ὅτι τῇ τοῦ ὅλου φύσει ὅμοιον ἢ ὅτι ὀλιγαρχικόν· κληροῦνται γοῦν αὐτοῖς.",
-    "author": "Pythagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.34"
       }
     ]
   },
@@ -1913,8 +1899,8 @@
   {
     "id": "mm-001675",
     "type": "quote",
-    "sr": "Bogove treba poštovati više od čestitelja, junake više od ljudi, a među ljudima najviše roditelje.",
-    "stsl": "Богы паче божьствъ чьтити подобаєть · витѧꙁы паче чловѣкъ · въ чловѣцѣхъ же паче вьсѣхъ родителѩ ·",
+    "sr": "Bogove treba poštovati više od duhova, junake više od ljudi, a od ljudi najviše roditelje.",
+    "stsl": "Богы паче дѹхъ чьтити подобаєть · витѧꙁы паче чловѣкъ · въ чловѣцѣхъ же паче вьсѣхъ родителѩ ·",
     "originalText": "καὶ θεοὺς μὲν δαιμόνων προτιμᾶν, ἥρωας δ' ἀνθρώπων, ἀνθρώπων δὲ μάλιστα γονέας.",
     "author": "Pythagoras",
     "sources": [

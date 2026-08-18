@@ -157,9 +157,9 @@
   },
   {
     "id": "mm-000106",
-    "type": "reported",
-    "sr": "Govorio je da načelo i slog jeste beskrajno, ne određujući ga kao vazduh, vodu ili bilo šta drugo.",
-    "stsl": "Бескраиноє начѧло и сълогъ · ни въздѹхомъ · ни водоѭ · ни инѣмъ чимъ є опрѣдѣлѧаше ·",
+    "type": "quote",
+    "sr": "Govorio je da načelo i sastojak jeste beskrajno, ne određujući ga kao vazduh, vodu ili nešto drugo.",
+    "stsl": "Сь глаголааше бескраи начѧло и съставъ быти · не опрѣдѣлꙗѧ въздѹхъ или водѫ или ино что ·",
     "originalText": "οὗτος ἔφασκεν ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον, οὐ διορίζων ἀέρα ἢ ὕδωρ ἢ ἄλλο τι.",
     "author": "Anaximander",
     "sources": [
@@ -228,8 +228,8 @@
   {
     "id": "mm-000111",
     "type": "reported",
-    "sr": "Načelo i slog bića jeste beskrajno [...] neka druga beskrajna priroda, iz koje bivaju sva nebesa i ustroji u njima.",
-    "stsl": "Начѧло и сълогъ сѫштихъ безмѣрьноє єсть · ... ина нѣкаꙗ природа безмѣрьна · отъ неѩже вьсѣ небеса и сѫштіи въ нихъ строи бꙑваѭть ·",
+    "sr": "Načelo i sastojak bića jeste beskrajno [...] neka druga beskrajna priroda, iz koje bivaju sva nebesa i ustroji u njima.",
+    "stsl": "Начѧло и съставъ сѫштихъ бескраи єсть · ... ина нѣкаꙗ природа бескраина · отъ неѩже вьсѣ небеса и сѫштіи въ нихъ строи бꙑваѭть ·",
     "originalText": "ἀρχὴν καὶ στοιχεῖον τῶν ὄντων τὸ ἄπειρον ... ἑτέραν τινὰ φύσιν ἄπειρον, ἐξ ἧς ἅπαντας γίνεσθαι τοὺς οὐρανοὺς καὶ τοὺς ἐν αὐτοῖς κόσμους.",
     "author": "Anaximander",
     "sources": [
@@ -242,8 +242,8 @@
   {
     "id": "mm-000112",
     "type": "reported",
-    "sr": "Ne menjajući slog tvori rođenje, no izdvajanjem suprotnosti večnim kretanjem.",
-    "stsl": "Не измѣненіємъ сълога рожденьѥ творить сѧ · нъ отълѫченіємъ противьнꙑхъ вѣчьнꙑмъ движеніємъ ·",
+    "sr": "Rođenje ne biva promenom sastojka, no izdvajanjem suprotnosti večnim kretanjem.",
+    "stsl": "Не измѣненіємъ състава рожденьѥ творить сѧ · нъ отълѫченіємъ противьнꙑхъ вѣчьнꙑмъ движеніємъ ·",
     "originalText": "οὐκ ἀλλοιουμένου τοῦ στοιχείου τὴν γένεσιν ποιεῖ, ἀλλ’ ἀποκρινομένων τῶν ἐναντίων διὰ τῆς ἀιδίου κινήσεως.",
     "author": "Anaximander",
     "sources": [
