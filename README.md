@@ -26,7 +26,8 @@ npm start
 Glavni TODO nalazi se u [TODO.md](TODO.md).
 
 - proveravati doslednost primene rečnika
-- sušto vs biće razmisliti
+- napraviti spisak filozofski najvažnijih termina
+- naglasiti samo njih u rečniku, za sve jezike
 
 ## Izvori
 

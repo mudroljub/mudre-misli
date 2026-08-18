@@ -67,7 +67,7 @@
 | γνῶσις            | знаніѥ                                | znanje                          |
 | γνωστός           | знанъ                                 | znan                            |
 | γονεύς            | родитель                              | roditelj                        |
-| δαίμων            | божьство (alt: чѧститель)             | božanstvo (alt: čestitelj)      |
+| δαίμων            | дѹхъ (alt: божьство)                  | duh (alt: božanstvo)            |
 | δείκνυμι          | казати                                | kazati (alt: pokazati)          |
 | διακρίνω          | разлѫчити                             | razlučiti                       |
 | διάκρισις         | разлѫченіє                            | razlučenje                      |
