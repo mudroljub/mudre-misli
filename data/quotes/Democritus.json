@@ -153,7 +153,7 @@
   },
   {
     "id": "mm-000572",
-    "type": "reported",
+    "type": "mention",
     "sr": "Demokrit je govorio da Anaksagorova učenja o Suncu i Mesecu nisu njegova, nego drevna, i da ih je prisvojio.",
     "stsl": "Демокритъ глаголаше · ꙗко Анаксагорова ѹчениꙗ о слъньци и мѣсѧци не єго сѫть · нъ дрѣвьнꙗ · и ꙗко ꙗ присвои ·",
     "originalText": "λέγειν Δημόκριτον περὶ Ἀναξαγόρου ὡς οὐκ εἴησαν αὐτοῦ αἱ δόξαι αἵ τε περὶ ἡλίου καὶ σελήνης, ἀλλὰ ἀρχαῖαι, τὸν δ' ὑφῃρῆσθαι.",
@@ -186,8 +186,8 @@
   {
     "id": "mm-000574",
     "type": "quote",
-    "sr": "Reč je senka dela.",
-    "stsl": "Слово дѣла сѣнь єсть ·",
+    "sr": "Slovo je senka dela.",
+    "stsl": "Слово дѣла сѣнь ·",
     "originalText": "λόγος ἔργου σκιή.",
     "author": "Democritus",
     "sources": [
@@ -204,8 +204,8 @@
   {
     "id": "mm-000575",
     "type": "quote",
-    "sr": "Načela svega jesu nedeljiva i praznina; za sve ostalo samo se mnije da postoji.",
-    "stsl": "Начѧла вьсѣхъ сѫть недѣлима и праздьно · прочаꙗ же вьсѧ тъкмо мьнима сѫть ·",
+    "sr": "Načela svega jesu nedeljiva i prazno; sve ostalo samo se mnije.",
+    "stsl": "Начѧла вьсѣхъ сѫть недѣлима и праздьно · прочаꙗ же вьсѧ тъкмо мьнѧть сѧ ·",
     "originalText": "ἀρχὰς εἶναι τῶν ὅλων ἀτόμους καὶ κενόν, τὰ δ' ἄλλα πάντα νενομίσθαι.",
     "author": "Democritus",
     "sources": [
@@ -218,7 +218,7 @@
   {
     "id": "mm-000576",
     "type": "quote",
-    "sr": "Svetova ima bezbroj; oni nastaju i propadaju.",
+    "sr": "Svetova ima bezbroj; oni se rađaju i propadaju.",
     "stsl": "Міровъ безчисльно єсть · раждаѭть сѧ и тлѣѭть ·",
     "originalText": "ἀπείρους τε εἶναι κόσμους καὶ γενητοὺς καὶ φθαρτούς.",
     "author": "Democritus",
@@ -232,8 +232,8 @@
   {
     "id": "mm-000577",
     "type": "quote",
-    "sr": "Ništa ne nastaje iz ne-bića niti propada u ne-biće.",
-    "stsl": "Ничьтоже отъ несѫштаго не бываєть · ни въ несѫштеє тлѣєть ·",
+    "sr": "Ništa iz nebića ne biva, niti u nebiće propada.",
+    "stsl": "Ничтоже отъ несѫщаго бꙑваєть · ни въ несѫщее тьлѣєть ·",
     "originalText": "μηδέν τε ἐκ τοῦ μὴ ὄντος γίνεσθαι μηδὲ εἰς τὸ μὴ ὂν φθείρεσθαι.",
     "author": "Democritus",
     "sources": [
@@ -287,7 +287,7 @@
   },
   {
     "id": "mm-000581",
-    "type": "quote",
+    "type": "reported",
     "sr": "Sve nastaje po nuždi; vrtlog je uzrok nastanka svega, i njega naziva nuždom.",
     "stsl": "Вьсѧ по нѫжди бываѭть · вихрь же причина бытиꙗ вьсѣхъ єсть · єго же нѫждою нарицаєть ·",
     "originalText": "πάντα τε κατ' ἀνάγκην γίνεσθαι, τῆς δίνης αἰτίας οὔσης τῆς γενέσεως πάντων, ἣν ἀνάγκην λέγει.",
@@ -506,8 +506,8 @@
   {
     "id": "mm-000597",
     "type": "quote",
-    "sr": "Ljudi nisu srećni ni telom ni imetkom, nego ispravnošću i mnogoumnošću.",
-    "stsl": "Чловѣци ни тѣломъ ни имѣниємъ благочѧстни сѫть · нъ правостию и многоѹмиємъ ·",
+    "sr": "Ljudi nisu blagočesni ni telom ni imetkom, no ispravnošću i mnogorazbornošću.",
+    "stsl": "Чловѣци ни тѣломъ ни имѣниємъ благочѧстни сѫть · нъ правостию и многоразборьностью ·",
     "originalText": "Οὔτε σώμασιν οὔτε χρήμασιν εὐδαιμονοῦσιν ἄνθρωποι, ἀλλ᾽ ὀρθοσύνηι καὶ πολυφροσύνηι.",
     "author": "Democritus",
     "sources": [
@@ -678,7 +678,7 @@
   {
     "id": "mm-000609",
     "type": "quote",
-    "sr": "Ko savetuje onoga koji misli da već ima razuma, uzalud se trudi.",
+    "sr": "Ko savetuje mnijućeg da već ima uma, uzalud se trudi.",
     "stsl": "Иже мьнѧштаго сѧ ѹмьна быти съвѣтѹєть · въсѹє трѹждаєть сѧ ·",
     "originalText": "Τὸν οἰόμενον νοῦν ἔχειν ὁ νουθετέων ματαιοπονεῖ.",
     "author": "Democritus",
@@ -692,7 +692,7 @@
   {
     "id": "mm-000610",
     "type": "quote",
-    "sr": "Mnogi koji nisu naučili razum ipak žive po razumu.",
+    "sr": "Mnogi, ne naučivši slovo, po slovu žive.",
     "stsl": "Мнози слова не наѹчивъше сѧ · по словѹ живѫть ·",
     "originalText": "Πολλοὶ λόγον μὴ μαθόντες ζῶσι κατὰ λόγον.",
     "author": "Democritus",
@@ -720,7 +720,7 @@
   {
     "id": "mm-000612",
     "type": "quote",
-    "sr": "Nerazumni se opamete u nesreći.",
+    "sr": "Bezumni se opamete u nesreći.",
     "stsl": "Неразѹмьнии въ напасти ѹцѣломѫдрѧѭть сѧ ·",
     "originalText": "Οἱ ἀξύνετοι δυστυχέοντες σωφρονέουσι.",
     "author": "Democritus",
@@ -832,8 +832,8 @@
   {
     "id": "mm-000620",
     "type": "quote",
-    "sr": "Mnogi mnogoznanci nemaju uma.",
-    "stsl": "Мнози многознаньци ѹма не имѫть ·",
+    "sr": "Mnogi mnogoučeni uma nemaju.",
+    "stsl": "Мнози многоѹчьни ѹма не имѫть ·",
     "originalText": "Πολλοὶ πολυμαθέες νοῦν οὐκ ἔχουσιν.",
     "author": "Democritus",
     "sources": [
@@ -846,8 +846,8 @@
   {
     "id": "mm-000621",
     "type": "quote",
-    "sr": "Treba negovati mnogoumnost, a ne mnogoznanje.",
-    "stsl": "Многоѹмиє · а не многознаниє · дѣлати подобаєть ·",
+    "sr": "Treba negovati mnogoumlje, a ne mnogoučenost.",
+    "stsl": "Многоѹмиє · не многоѹченіє · дѣлати подобаєть ·",
     "originalText": "πολυνοΐην, οὐ πολυμαθίην ἀσκέειν χρή.",
     "author": "Democritus",
     "sources": [
@@ -1070,8 +1070,8 @@
   {
     "id": "mm-000637",
     "type": "quote",
-    "sr": "Ljudi načiniše lik slučaja kao izgovor za sopstvenu nerazboritost. Jer slučaj se retko sukobljava s razboritošću, a većinu stvari u životu upravlja oštroumna pronicljivost.",
-    "stsl": "Чловѣци слѹчаꙗ образъ сътворишѧ · вины ради своєѩ безсъвѣтности · Рѣдъко бо слѹчаи съ мѫдростию борєть сѧ · многаꙗ же въ житии остроѹмьноє прозрѣниє ѹправлꙗєть ·",
+    "sr": "Ljudi načiniše privid slučaja kao izgovor za svoju nerazboritost. Jer slučaj se malo protivi razboru, a većinom stvari u životu upravlja uma oštrovidnost.",
+    "stsl": "Чловѣци привидъ слѹчаꙗ сътворишѧ · извинениє своеѩ неразборьности · Мало бо слѹчаи разборѹ противить сѧ · множаишаꙗ же въ житии ѹмьна островидьность направлꙗєть ·",
     "originalText": "Ἄνθρωποι τύχης εἴδωλον ἐπλάσαντο πρόφασιν ἰδίης ἀβουλίης. Βαιὰ γὰρ φρονήσει τύχη μάχεται, τὰ δὲ πλεῖστα ἐν βίωι εὐξύνετος ὀξυδερκείη κατιθύνει.",
     "author": "Democritus",
     "sources": [
@@ -1290,7 +1290,7 @@
   {
     "id": "mm-000652",
     "type": "quote",
-    "sr": "Pravedna ljubav teži lepome bez obesti.",
+    "sr": "Pravedna ljubav teži krasnome bez obesti.",
     "stsl": "Правьдьна любъвь къ краснымъ безъ гордости тъшти сѧ єсть ·",
     "originalText": "δίκαιος ἔρως ἀνυβρίστως ἐφίεσθαι τῶν καλῶν.",
     "author": "Democritus",
@@ -1332,7 +1332,7 @@
   {
     "id": "mm-000655",
     "type": "quote",
-    "sr": "Nerazumnima učitelj ne biva reč, nego nesreća.",
+    "sr": "Bezumnima učitelj ne biva slovo, no nesreća.",
     "stsl": "Безѹмьнымъ ѹчитель не слово · нъ бѣда бываєть ·",
     "originalText": "νηπίοισιν οὐ λόγος, ἀλλὰ ξυμφορὴ γίνεται διδάσκαλος.",
     "author": "Democritus",
@@ -1346,8 +1346,8 @@
   {
     "id": "mm-000656",
     "type": "quote",
-    "sr": "Slava i bogatstvo bez razuma nisu bezbedna dobra.",
-    "stsl": "Слава и богатъство безъ разѹма не сѫть безбѣдьна стѧжаниꙗ ·",
+    "sr": "Slava i bogatstvo bez razuma nisu sigurna dobra.",
+    "stsl": "Слава и богатъство безъ разѹма не сѫть твръда стѧжаниꙗ ·",
     "originalText": "δόξα καὶ πλοῦτος ἄνευ ξυνέσιος οὐκ ἀσφαλέα κτήματα.",
     "author": "Democritus",
     "sources": [
@@ -1374,7 +1374,7 @@
   {
     "id": "mm-000658",
     "type": "quote",
-    "sr": "Rđavo je podražavati zle, a dobre ne želeti ni da podražavaš.",
+    "sr": "Rđavo je podražavati zle, a dobre ne želeti podražavati.",
     "stsl": "Зъло єсть зълыимъ подобити сѧ · добрыимъ же ни подобити сѧ хотѣти ·",
     "originalText": "χαλεπὸν μιμεῖσθαι μὲν τοὺς κακούς, μηδὲ ἐθέλειν δὲ τοὺς ἀγαθούς.",
     "author": "Democritus",
@@ -1514,7 +1514,7 @@
   {
     "id": "mm-000668",
     "type": "quote",
-    "sr": "Neprijatelj nije onaj koji nanosi nepravdu, nego onaj koji je hoće.",
+    "sr": "Neprijatelj nije koji čini nepravdu, no koji je želi.",
     "stsl": "Врагъ не творѧи неправьдѫ · нъ хотѧи ѭ ·",
     "originalText": "ἐχθρὸς οὐχ ὁ ἀδικέων, ἀλλὰ ὁ βουλόμενος.",
     "author": "Democritus",
@@ -1640,8 +1640,8 @@
   {
     "id": "mm-000677",
     "type": "quote",
-    "sr": "Ko nema nijednog valjanog prijatelja nije dostojan da živi.",
-    "stsl": "Иже ни єдиного добра дрѹга не имать · не достоинъ єсть жити ·",
+    "sr": "Ko nema nijednog valjanog prijatelja nije dostojan živeti.",
+    "stsl": "Иже ни єдиного добра дрѹга не имать · не достоинъ жити ·",
     "originalText": "ζῆν οὐκ ἄξιος, ὅτωι μηδὲ εἷς ἐστι χρηστὸς φίλος.",
     "author": "Democritus",
     "sources": [
@@ -1724,8 +1724,8 @@
   {
     "id": "mm-000683",
     "type": "quote",
-    "sr": "Žena neka ne vežba govor; to je strašno.",
-    "stsl": "Жена слова да не ѹчить · страшно бо єсть ·",
+    "sr": "Žena neka ne vežba slovo; strašno je to.",
+    "stsl": "Жена слова да не ѹпражнѧєть · страшно бо єсть ·",
     "originalText": "γυνὴ μὴ ἀσκείτω λόγον· δεινὸν γάρ.",
     "author": "Democritus",
     "sources": [
@@ -1738,8 +1738,8 @@
   {
     "id": "mm-000684",
     "type": "quote",
-    "sr": "Da ženi bude potčinjen za muškarca bi bila krajnja sramota.",
-    "stsl": "Женѣ повинѹти сѧ мѫжѹ послѣдьнии стѹдъ былъ бы ·",
+    "sr": "Biti pod vlašću žene bila bi muškarcu krajnja sramota.",
+    "stsl": "Подъ женоѭ владѣти сѧ · мѫжеви краинѧꙗ срѣмота бꙑла би ·",
     "originalText": "ὑπὸ γυναικὸς ἄρχεσθαι ὕβρις εἴη ἂν ἀνδρὶ ἐσχάτη.",
     "author": "Democritus",
     "sources": [
@@ -1766,8 +1766,8 @@
   {
     "id": "mm-000686",
     "type": "reported",
-    "sr": "Demokrit je govorio da je muzika mlađa umetnost: nije je rodila nužda, nego je nastala tek iz obilja.",
-    "stsl": "Демокритъ глаголаше · ꙗко мѹсикиꙗ мьнѣишєє хѫдожьство єсть · Не нѫжда ѭ роди · нъ отъ изобилиꙗ бысть ·",
+    "sr": "Govoraše muzika je mlađa, jer nije nastala iz nužde, već iz obilja.",
+    "stsl": "Мѹсикїѭ глаголєть юнѣишѫ бꙑти · Не нѫжда ѭ роди · нъ отъ изобилиꙗ бысть ·",
     "originalText": "μουσικὴν φησι νεωτέραν εἶναι καὶ τὴν αἰτίαν ἀποδίδωσι λέγων μὴ ἀποκρῖναι τἀναγκαῖον, ἀλλὰ ἐκ τοῦ περιεῦντος ἤδη γενέσθαι.",
     "author": "Democritus",
     "sources": [
@@ -1836,7 +1836,7 @@
   {
     "id": "mm-000691",
     "type": "quote",
-    "sr": "Ako se kupa preseče ravni paralelnom osnovi, jesu li površine preseka jednake ili nejednake? Ako su nejednake, kupa će biti neravna, puna stepenastih useka i hrapavosti; ako su jednake, delovi će biti jednaki i kupa će, poput valjka, biti sastavljena od jednakih, a ne nejednakih krugova — što je krajnje besmisleno.",
+    "sr": "Ako se kupa preseca ravnima paralelnim osnovi, treba li smatrati da su površine nastalih preseka jednake ili nejednake? Ako su nejednake, kupa će biti neravna, sa mnogim stepenastim usecima i hrapavostima. Ako su pak jednake, i presečeni delovi biće jednaki, pa će se pokazati da je kupa poput valjka, sastavljena od jednakih, a ne nejednakih krugova — što je krajnje besmisleno.",
     "stsl": "Аще сѧ конѹсъ при основании равьною плоскостию прѣсѣчеть · равьна ли сѫть лица прѣсѣчении или неравьна · Аще неравьна сѫть · конѹсъ неравьнъ бѫдеть · многы стѫпеньны зарѣзы и жестость имы · аще ли равьна · равьны части бѫдѫть · и конѹсъ ꙗко валъ отъ равьныхъ · а не неравьныхъ крѫгъ съложенъ бѫдеть · єже зѣло безѹмьно єсть ·",
     "originalText": "εἰ κῶνος τέμνοιτο παρὰ τὴν βάσιν ἐπιπέδωι, τί χρὴ διανοεῖσθαι τὰς τῶν τμημάτων ἐπιφανείας, ἴσας ἢ ἀνίσους γιγνομένας; ἄνισοι μὲν γὰρ οὖσαι τὸν κῶνον ἀνώμαλον παρέξουσι πολλὰς ἀποχαράξεις λαμβάνοντα βαθμοειδεῖς καὶ τραχύτητας, ἴσων δ᾿ οὐσῶν ἴσα τμήματα ἔσται καὶ φανεῖται τὸ τοῦ κυλίνδρου πεπονθὼς ὁ κῶνος, ἐξ ἴσων συγκείμενος καὶ οὐκ ἀνίσων κύκλων, ὅπερ ἐστὶν ἀτοπώτατον.",
     "author": "Democritus",
@@ -1850,8 +1850,8 @@
   {
     "id": "mm-000692",
     "type": "reported",
-    "sr": "Demokrit je razlikovao „nešto“, kojim je nazivao telo, i „ništa“, kojim je nazivao prazninu, govoreći da nešto nije ništa više nego ništa.",
-    "stsl": "Демокритъ нѣчто · имьже тѣло нарицааше · и ничьто · имьже праздьно нарицааше · разлѹчааше · глаголѧ · ꙗко нѣчто не паче ничьтоже єсть ·",
+    "sr": "Nije više šta nego ništa. Nazivao je šta telom, a ništa prazninom.",
+    "stsl": "Не паче что · нежели ничьто · что тѣло нарицаѧ · ничьто же празноє ·",
     "originalText": "μὴ μᾶλλον τὸ δὲν ἢ τὸ μηδὲν εἶναι, δὲν μὲν ὀνομάζων τὸ σῶμα, μηδὲν δὲ τὸ κενόν.",
     "author": "Democritus",
     "sources": [
@@ -1892,7 +1892,7 @@
   {
     "id": "mm-000695",
     "type": "reported",
-    "sr": "Demokrit je govorio da živeti rđavo, nerazumno, neumereno i nečestito nije živeti rđavo, nego dugo umirati.",
+    "sr": "Demokrit je govorio da živeti rđavo, bezumno, neumereno i nečestito nije rđavo živeti, nego dugo umirati.",
     "stsl": "Демокритъ глаголаше · ꙗко зълѣ · безѹмьно · невъздръжьно и нечьстиво жити не зълѣ жити єсть · нъ длъго ѹмирати ·",
     "originalText": "τὸ γὰρ κακῶς ζῆν καὶ μὴ φρονίμως καὶ σωφρόνως καὶ ὁσίως Δημόκριτος ἔλεγεν οὐ κακῶς ζῆν εἶναι, ἀλλὰ πολὺν χρόνον ἀποθνήισκειν.",
     "author": "Democritus",
@@ -1906,7 +1906,7 @@
   {
     "id": "mm-000696",
     "type": "quote",
-    "sr": "Životinje se okupljaju sa životinjama istoga roda: golubovi sa golubovima, ždralovi sa ždralovima, a tako i ostale nerazumne životinje. Isto biva i među neživim stvarima: pri prosejavanju semena sočivo se slaže uz sočivo, ječam uz ječam i pšenica uz pšenicu; kretanjem talasa duguljasti obluci guraju se uz duguljaste, a okrugli uz okrugle, kao da sličnost u stvarima ima neku sabirnu moć.",
+    "sr": "Životinje se okupljaju sa životinjama istoga roda: golubovi sa golubovima, ždralovi sa ždralovima, a tako i ostale nerazumne životinje. Isto biva i među neživim stvarima: pri prosejavanju semena sočivo se slaže uz sočivo, ječam uz ječam i pšenica uz pšenicu; kretanjem valova duguljasti obluci guraju se uz duguljaste, a okrugli uz okrugle, kao da sličnost u stvarima ima neku sabirnu moć.",
     "stsl": "Животна съ животными того же рода събираѭть сѧ · голѫби съ голѫбьми · жерави съ жеравьми · и прочаꙗ безсловесна такожде · Сице и въ бездѹшьныхъ · при сѣꙗнии сѣмене сочиво къ сочивѹ полагаєть сѧ · ꙗчмень къ ꙗчменю и пьшеница къ пьшеници · движениємъ же влъны длъги камени къ длъгымъ тиснѫть сѧ · окрѫгли же къ окрѫглымъ · ꙗко подобиє въ вещьхъ нѣкѫ събираѭштѫ силѫ имать ·",
     "originalText": "καὶ γὰρ ζῶια ὁμογενέσι ζώιοις συναγελάζεται ὡς περιστεραὶ περιστεραῖς καὶ γέρανοι γεράνοις καὶ ἐπὶ τῶν ἄλλων ἀλόγων ὡσαύτως. ὣς δὲ καὶ ἐπὶ τῶν ἀψύχων, καθάπερ ὁρᾶν πάρεστιν ἐπί τε τῶν κοσκινευομένων σπερμάτων καὶ ἐπὶ τῶν παρὰ ταῖς κυματωγαῖς ψηφίδων· ὅπου μὲν γὰρ κατὰ τὸν τοῦ κοσκίνου δῖνον διακριτικῶς φακοὶ μετὰ φακῶν τάσσονται καὶ κριθαὶ μετὰ κριθῶν καὶ πυροὶ μετὰ πυρῶν, ὅπου δὲ κατὰ τὴν τοῦ κύματος κίνησιν αἱ μὲν ἐπιμήκεις ψηφῖδες εἰς τὸν αὐτὸν τόπον ταῖς ἐπιμήκεσιν ὠθοῦνται, αἱ δὲ περιφερεῖς ταῖς περιφερέσιν ὡς ἂν συναγωγόν τι ἐχούσης τῶν πραγμάτων τῆς ἐν τούτοις ὁμοιότητος.",
     "author": "Democritus",
@@ -1920,8 +1920,8 @@
   {
     "id": "mm-000697",
     "type": "reported",
-    "sr": "Demokrit je govorio da se ljudima približavaju slike, neke dobročiniteljske, a neke zlotvorne, te se molio da susreće povoljne slike. One su velike, natprirodne i teško propadljive, ali nisu nepropadljive; pojavljujući se i puštajući glasove, ljudima unapred označavaju budućnost.",
-    "stsl": "Демокритъ глаголаше · ꙗко къ чловѣкомъ образи приближаѭть сѧ · ови благотворьни · ови зълотворьни · тѣмь молꙗаше сѧ благыхъ образъ срѣсти · Велици сѫть и паче єстьства · тлѣнию трѹдьни · нъ не нетлѣньни · ꙗвлѧѭште сѧ и гласы испѹштаѭште · бѫдѫштаꙗ чловѣкомъ прѣдъзнаменѹѭть ·",
+    "sr": "Demokrit je govorio da ljudima prilaze nekakvi prividi, od kojih su jedni dobročiniteljski, a drugi zlotvorni; zato se i molio da susreće povoljne privide. Ti prividi su veliki i nadnaravni, teško propadaju, ali nisu nepropadljivi; pojavljuju se ljudima i puštaju glasove, nagoveštavajući im ono što će doći.",
+    "stsl": "Демокритъ глаголаше · ꙗко къ чловѣкомъ нѣции привиди приближаѭть сѧ · ови благотворьни · ови зълотворьни · тѣмь молꙗаше сѧ благыхъ привидъ срѣсти · Сии привиди велици сѫть и паче єстьства · тлѣнию трѹдьни · нъ не нетлѣньни · чловѣкомъ ꙗвлѧѭште сѧ и гласы испѹштаѭште · бѫдѫштаꙗ имъ прѣдъзнаменѹѭть ·",
     "originalText": "Δημόκριτος δὲ εἴδωλά τινά φησιν ἐμπελάζειν τοῖς ἀνθρώποις καὶ τούτων τὰ μὲν εἶναι ἀγαθοποιὰ τὰ δὲ κακοποιά· ἔνθεν καὶ εὔχετο εὐλόγχων τυχεῖν εἰδώλων. εἶναι δὲ ταῦτα μεγάλα τε καὶ ὑπερφυῆ καὶ δύσφθαρτα μέν, οὐκ ἄφθαρτα δέ, προσημαίνειν τε τὰ μέλλοντα τοῖς ἀνθρώποις θεωρούμενα καὶ φωνὰς ἀφιέντα.",
     "author": "Democritus",
     "sources": [
@@ -1948,8 +1948,8 @@
   {
     "id": "mm-000699",
     "type": "quote",
-    "sr": "Sreća ne stanuje ni u stadima ni u zlatu; duša je obitavalište usuda.",
-    "stsl": "Блаженьство ни въ стадѣхъ ни въ златѣ не обитаєть · дѹша обитѣль сѫдьбы єсть ·",
+    "sr": "Blagočest ne prebiva u stadima ni u zlatu · duša je prebivalište čestitelja ·",
+    "stsl": "Благочѧстъ не обитаєть въ стадахъ · ни въ златѣ · дѹша обиталище чѧстителѧ єсть ·",
     "originalText": "εὐδαιμονίη οὐκ ἐν βοσκήμασιν οἰκεῖ οὐδὲ ἐν χρυσῶι· ψυχὴ οἰκητήριον δαίμονος.",
     "author": "Democritus",
     "sources": [
@@ -2018,8 +2018,8 @@
   {
     "id": "mm-000704",
     "type": "quote",
-    "sr": "Slučaj daje velike darove, ali je nepouzdan; priroda je samodovoljna. Zato manjim, ali pouzdanim nadvladava veće što obećava nada.",
-    "stsl": "Слѹчаи велика дарѹєть · нъ нетвръдъ єсть · єстьство же самодовьльно · Тѣмь мьнѣишимъ · нъ твръдымъ · побѣждаєть болшєє надежды ·",
+    "sr": "Slučaj mnogo daruje ali je nepouzdan. Priroda je samodovoljna, zato manjim ali pouzdanim nadvladava veće kojem se nadamo.",
+    "stsl": "Слѹчаи многодарьнъ нъ нетвръдъ · природа же самодовьльна · тѣмь меньшимъ и твръдымъ побѣждаєть большеє надеждꙑ ·",
     "originalText": "τύχη μεγαλόδωρος, ἀλλ᾿ ἀβέβαιος, φύσις δὲ αὐτάρκης· διόπερ νικᾶι τῶι ἥσσονι καὶ βεβαίωι τὸ μεῖζον τῆς ἐλπίδος.",
     "author": "Democritus",
     "sources": [
@@ -2186,7 +2186,7 @@
   {
     "id": "mm-000716",
     "type": "quote",
-    "sr": "Treba se kloniti i reči o rđavim delima.",
+    "sr": "Treba se kloniti i slova o rđavim delima.",
     "stsl": "И словесъ о зълыхъ дѣлѣхъ отъбѣгати подобаєть ·",
     "originalText": "φαύλων ἔργων καὶ τοὺς λόγους παραιτητέον.",
     "author": "Democritus",
@@ -2200,8 +2200,8 @@
   {
     "id": "mm-000717",
     "type": "quote",
-    "sr": "Lako je hvaliti ono što ne treba i kuditi; i jedno i drugo pripada rđavom karakteru.",
-    "stsl": "Легъко єсть хвалити · єже не подобаєть · и порицати · обоє же зълаго нрава єсть ·",
+    "sr": "Lako je hvaliti što ne treba i kuditi · a oboje je znak rđave naravi ·",
+    "stsl": "Легъко єсть хвалити єже не подобаєть · и порицати · обоє же зълаго нрава єсть ·",
     "originalText": "ἔστι ῥάιδιον μὲν ἐπαινεῖν ἃ μὴ χρὴ καὶ ψέγειν, ἑκάτερον δὲ πονηροῦ τινος ἤθους.",
     "author": "Democritus",
     "sources": [
@@ -2214,7 +2214,7 @@
   {
     "id": "mm-000718",
     "type": "quote",
-    "sr": "Delo je razboritosti čuvati se nepravde koja dolazi, a neosetljivosti ne suprotstaviti se onoj koja je već učinjena.",
+    "sr": "Delo razboritosti je čuvati se predstojeće nepravde, a bezosećajnosti ne uzvratiti na učinjenu.",
     "stsl": "Дѣло мѫдрости грѧдѫштиꙗ неправьды блюсти сѧ · нечѹвьствиꙗ же бывъшеи не противити сѧ ·",
     "originalText": "φρονήσιος ἔργον μέλλουσαν ἀδικίην φυλάξασθαι, ἀναλγησίης δὲ τὸ γενομένην μὴ ἀμύνασθαι.",
     "author": "Democritus",
@@ -2228,7 +2228,7 @@
   {
     "id": "mm-000719",
     "type": "quote",
-    "sr": "Velika zadovoljstva nastaju iz posmatranja lepih dela.",
+    "sr": "Velika uživanja bivaju od posmatranja krasnih dela.",
     "stsl": "Великы сласти отъ зрѣниꙗ красныхъ дѣлъ бываѭть ·",
     "originalText": "αἱ μεγάλαι τέρψεις ἀπὸ τοῦ θεᾶσθαι τὰ καλὰ τῶν ἔργων γίνονται.",
     "author": "Democritus",
@@ -2242,8 +2242,8 @@
   {
     "id": "mm-000720",
     "type": "quote",
-    "sr": "Likovi istaknuti odećom i nakitom na pogled, ali prazni u srcu.",
-    "stsl": "Образи одѣꙗниємъ и ѹкрашениємъ къ зрѣнию свѣтьли · срьдьцемъ же праздьни ·",
+    "sr": "Prividi odećom i ukrasom sjajni na pogled · ali prazna srca ·",
+    "stsl": "Привиди одѣждеѭ и ѹкрасомъ къ зрѣнию свѣтьли · срьдьцемъ же праздьни ·",
     "originalText": "εἴδωλα ἐσθῆτι καὶ κόσμωι διαπρεπέα πρὸς θεωρίην, ἀλλὰ καρδίης κενεά.",
     "author": "Democritus",
     "sources": [
@@ -2270,7 +2270,7 @@
   {
     "id": "mm-000722",
     "type": "quote",
-    "sr": "Nerazumne oblikuju dobici slučaja, a poznavaoce takvih stvari dobici mudrosti.",
+    "sr": "Bezumne oblikuju dobici slučaja, a poznavaoce takvih stvari dobici mudrosti.",
     "stsl": "Безѹмьны добꙑтъци слѹчаꙗ образѹѭть · вѣдѫштаꙗ же такова добꙑтъци мѫдрости ·",
     "originalText": "ἀνοήμονες ῥυσμοῦνται τοῖς τῆς τύχης κέρδεσιν, οἱ δὲ τῶν τοιῶνδε δαήμονες τοῖς τῆς σοφίης.",
     "author": "Democritus",
@@ -2284,7 +2284,7 @@
   {
     "id": "mm-000723",
     "type": "quote",
-    "sr": "Nerazumni mrze život, ali žele da žive iz straha od Hada.",
+    "sr": "Bezumni mrze život, ali žele da žive iz straha od Hada.",
     "stsl": "Безѹмьни животъ ненавидѧть · жити же страха ради ада хотѧть ·",
     "originalText": "ἀνοήμονες τὸ ζῆν στυγέοντες ζῆν ἐθέλουσι δείματι Ἅιδεω.",
     "author": "Democritus",
@@ -2298,7 +2298,7 @@
   {
     "id": "mm-000724",
     "type": "quote",
-    "sr": "Nerazumni žive ne radujući se životu.",
+    "sr": "Bezumni žive ne radujući se životu.",
     "stsl": "Безѹмьни живѫть · животѹ не радѹѭште сѧ ·",
     "originalText": "ἀνοήμονες βιοῦσιν οὐ τερπόμενοι βιοτῆι.",
     "author": "Democritus",
@@ -2312,7 +2312,7 @@
   {
     "id": "mm-000725",
     "type": "quote",
-    "sr": "Nerazumni žude za dugovečnošću, a dugovečnosti se ne raduju.",
+    "sr": "Bezumni žude za dugovečnošću, a dugovečnosti se ne raduju.",
     "stsl": "Безѹмьни длъголѣтиꙗ желаѭть · длъголѣтию же не радѹѭть сѧ ·",
     "originalText": "ἀνοήμονες δηναιότητος ὀρέγονται οὐ τερπόμενοι δηναιότητι.",
     "author": "Democritus",
@@ -2326,7 +2326,7 @@
   {
     "id": "mm-000726",
     "type": "quote",
-    "sr": "Nerazumni žude za odsutnim, a upropašćuju sadašnje iako je korisnije od onoga što je prošlo.",
+    "sr": "Bezumni žude za odsutnim, a upropašćuju sadašnje iako je korisnije od onoga što je prošlo.",
     "stsl": "Безѹмьни отъсѫштихъ желаѭть · настоꙗштаꙗ же погѹблꙗѭть · аште и пользьнѣиша сѫть минѫвъшихъ ·",
     "originalText": "ἀνοήμονες τῶν ἀπεόντων ὀρέγονται, τὰ δὲ παρεόντα καὶ παρωιχημένων κερδαλεώτερα ἐόντα ἀμαλδύνουσιν.",
     "author": "Democritus",
@@ -2354,7 +2354,7 @@
   {
     "id": "mm-000728",
     "type": "quote",
-    "sr": "Nerazumni nikome ne ugađaju tokom celoga života.",
+    "sr": "Bezumni nikome ne ugađaju tokom celoga života.",
     "stsl": "Безѹмьни никомѹже въ вьсемь житии ѹгаждаѭть ·",
     "originalText": "ἀνοήμονες οὐδέν᾿ ἁνδάνουσιν ἐν ὅληι τῆι βιοτῆι.",
     "author": "Democritus",
@@ -2368,7 +2368,7 @@
   {
     "id": "mm-000729",
     "type": "quote",
-    "sr": "Nerazumni iz straha od smrti žele da stare.",
+    "sr": "Bezumni iz straha od smrti žele da stare.",
     "stsl": "Безѹмьни страха ради смрьти старѣти хотѧть ·",
     "originalText": "ἀνοήμονες θάνατον δεδοικότες γηράσκειν ἐθέλουσιν.",
     "author": "Democritus",
@@ -3012,7 +3012,7 @@
   {
     "id": "mm-000775",
     "type": "quote",
-    "sr": "Što se rđavi, bivajući nedostojniji, više približavaju počastima, to postaju bezbrižniji i više se pune nerazumnošću i drskošću.",
+    "sr": "Što se rđavi, bivajući nedostojniji, više približavaju počastima, to postaju bezbrižniji i više se pune bezumnošću i drskošću.",
     "stsl": "Елико зъли · недостоинѣиши сѫште · паче къ чьстемъ приходѧть · толико безпечальнѣиши бываѭть и безѹмиꙗ и дръзости исплънѧѭть сѧ ·",
     "originalText": "οἱ κακοὶ ἰόντες ἐς τὰς τιμὰς ὁκόσων ἂν μᾶλλον ἀνάξιοι ἐόντες ἴωσι, τοσούτωι μᾶλλον ἀνακηδέες γίνονται καὶ ἀφροσύνης καὶ θράσεος πίμπλανται.",
     "author": "Democritus",
@@ -3390,7 +3390,7 @@
   {
     "id": "mm-000802",
     "type": "quote",
-    "sr": "Nerazumno je ne popuštati nužnostima života.",
+    "sr": "Bezumno je ne popuštati nužnostima života.",
     "stsl": "Безѹмьно єсть нѫждамъ житиꙗ не ѹстѫпати ·",
     "originalText": "Ἀλογιστίη μὴ ξυγχωρέειν ταῖσι κατὰ τὸν βίον ἀνάγκαις.",
     "author": "Democritus",
@@ -3432,7 +3432,7 @@
   {
     "id": "mm-000805",
     "type": "quote",
-    "sr": "Nerazumne su nade nerazumnih.",
+    "sr": "Bezumne su nade bezumnih.",
     "stsl": "Безѹмьны сѫть надеждѧ безѹмьныхъ ·",
     "originalText": "Ἄλογοι τῶν ἀξυνέτων αἱ ἐλπίδες.",
     "author": "Democritus",
