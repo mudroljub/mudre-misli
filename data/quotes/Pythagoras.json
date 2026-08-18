@@ -151,7 +151,7 @@
   {
     "id": "mm-001552",
     "type": "quote",
-    "sr": "Život je kao velika svetkovina: jedni dolaze da se takmiče, drugi da trguju, a najbolji da posmatraju.",
+    "sr": "Život je kao veliki sabor: jedni dolaze da se takmiče, drugi da trguju, a najbolji da posmatraju.",
     "stsl": "Житіє великомѹ съборѹ подобьно · овии приходѧть сътѧзати сѧ · инии кѹплѭ творити · лѹчьшии же зрѣти ·",
     "originalText": "τὸν βίον ἐοικέναι πανηγύρει· ὡς οὖν εἰς ταύτην οἱ μὲν ἀγωνιούμενοι, οἱ δὲ κατ' ἐμπορίαν, οἱ δέ γε βέλτιστοι ἔρχονται θεαταί.",
     "author": "Pythagoras",
@@ -165,8 +165,8 @@
   {
     "id": "mm-001553",
     "type": "reported",
-    "sr": "U spisima pripisanim Pitagori nalaže se ne moliti se za sebe, jer čovek ne zna šta mu je zaista na korist.",
-    "stsl": "Въ книгахъ Пѷѳагорѣ приписаныхъ повелѣваєть сѧ не молити сѧ за себе · не вѣсть бо чловѣкъ · что ємѹ въистинѫ на пользѫ ·",
+    "sr": "Ne dopušta da se mole za sebe, jer ne znaju šta im je korisno.",
+    "stsl": "Не оставлꙗєть молити сѧ за себе · ꙗко не вѣдѧть · что имъ пользьно єсть ·",
     "originalText": "οὐκ ἐᾷ εὔχεσθαι ὑπὲρ αὑτῶν διὰ τὸ μὴ εἰδέναι τὸ συμφέρον.",
     "author": "Pythagoras",
     "sources": [
@@ -179,8 +179,8 @@
   {
     "id": "mm-001554",
     "type": "reported",
-    "sr": "U spisima pripisanim Pitagori pijanstvo se naziva drugim imenom za štetu.",
-    "stsl": "Въ книгахъ Пѷѳагорѣ приписаныхъ пьꙗньство ино имѧ врѣда нарицаєть сѧ ·",
+    "sr": "Pijanstvo naziva drugim imenom za štetu.",
+    "stsl": "Пьꙗньство ино имѧ врѣда нарицаєть ·",
     "originalText": "τὴν μέθην ἓν ἀνθ' ἑνὸς βλάβην καλεῖ.",
     "author": "Pythagoras",
     "sources": [
@@ -193,8 +193,8 @@
   {
     "id": "mm-001555",
     "type": "reported",
-    "sr": "U spisima pripisanim Pitagori odbacuje se svaka prepunjenost i nalaže da se ni u piću ni u jelu ne prelazi mera.",
-    "stsl": "Въ книгахъ Пѷѳагорѣ приписаныхъ вьсѧко прѣиспълнениє отметаѥть сѧ · ни въ питии ни въ ꙗдении мѣры прѣстѫпати не подобаєть ·",
+    "sr": "Odbacuje svaku prepunjenost, govoreći da niko u piću i jelu ne prelazi meru.",
+    "stsl": "Вьсѧко прѣиспълнениє отметаѥть · глаголѧ никомѹ въ питии и ꙗдении мѣры прѣстѫпати ·",
     "originalText": "πλησμονὴν πᾶσαν ἀποδοκιμάζει, λέγων μὴ παραβαίνειν μήτε τῶν ποτῶν μήτε τῶν σιτίων μηδένα τὴν συμμετρίαν.",
     "author": "Pythagoras",
     "sources": [
@@ -1343,7 +1343,7 @@
   },
   {
     "id": "mm-001636",
-    "type": "reported",
+    "type": "mention",
     "sr": "Pitagori se pripisuje da je prvi rekao da su Večernjača i Danica ista zvezda; Favorin to otkriće pripisuje Parmenidu.",
     "stsl": "Пѷѳагорѣ приписѹѭть · ꙗко прьвъ рече вечернѭю и дьницѫ тожде звѣздѫ быти · Фаворинъ же то отъкрытиє Парменидѹ приписѹєть ·",
     "originalText": "πρῶτόν τε Ἕσπερον καὶ Φωσφόρον τὸν αὐτὸν εἰπεῖν. δοκεῖ πρῶτος πεφωρακέναι τὸν αὐτὸν εἶναι Ἕσπερον καὶ Φωσφόρον, ὥς φησι Φαβωρῖνος ἐν πέμπτῳ Ἀπομνημονευμάτων· οἱ δὲ Πυθαγόραν·",

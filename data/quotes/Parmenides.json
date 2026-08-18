@@ -154,12 +154,11 @@
   },
   {
     "id": "mm-001347",
-    "type": "reported",
-    "year": -495,
+    "type": "mention",
     "sr": "Strabon Parmenida i Zenona naziva pitagorejcima i kaže da je Eleja, između ostalog i njihovom zaslugom, imala dobre zakone.",
     "originalText": "ἐξ ἧς Παρμενίδης καὶ Ζήνων ἐγένοντο ἄνδρες Πυθαγόρειοι. δοκεῖ δέ μοι καὶ δι’ ἐκείνους καὶ ἔτι πρότερον εὐνομηθῆναι.",
     "stsl": "Стравонъ Парменіда и Зенона Пѵѳагорѣица нарицаєть · и глаголєть ꙗко Елеа и тѣма добрѣ законꙑ имѣаше ·",
-    "author": "Parmenides",
+    "author": ["Parmenides", "Zeno of Elea"],
     "sources": [
       {
         "name": "strabo-geography",
@@ -240,7 +239,7 @@
   {
     "id": "mm-001353",
     "type": "quote",
-    "sr": "Ljubomudrije je dvojako: jedno po istini, drugo po mnenju.",
+    "sr": "Mudroljublje je dvojako: jedno po istini, drugo po mnenju.",
     "stsl": "Любомѫдриє двоє єсть · єдино по истинѣ · дрѹгоє по мьнѣнию ·",
     "originalText": "δισσήν τε ἔφη τὴν φιλοσοφίαν, τὴν μὲν κατὰ ἀλήθειαν, τὴν δὲ κατὰ δόξαν.",
     "author": "Parmenides",
@@ -272,7 +271,7 @@
   {
     "id": "mm-001355",
     "type": "quote",
-    "sr": "Merilo je slovo; čula nisu pouzdana.",
+    "sr": "Slovo je merilo, čula nisu pouzdana.",
     "stsl": "Мѣрило єсть слово · чѹвьства же не извѣстна сѫть ·",
     "originalText": "κριτήριον δὲ τὸν λόγον εἶπε· τάς τε αἰσθήσεις μὴ ἀκριβεῖς ὑπάρχειν.",
     "author": "Parmenides",
@@ -286,8 +285,8 @@
   {
     "id": "mm-001356",
     "type": "quote",
-    "sr": "Od ovog puta istraživanja zadrži pojam. Neka te mnogokusna navika ne prisili da njime upravljaš besciljnim okom, odjekujućim sluhom i jezikom; nego slovom presudi mnogospornom dokazu koji izrekoh.",
-    "stsl": "Отъ сего пѫти испꙑтаниꙗ поимъ въздръжи · Да не понѹдить тѧ многоискѹсьнꙑи обꙑчаи по немѹ ходити · безцѣльнымъ окомъ · шумьнымъ слѹхомъ и ѩꙁꙑкомъ водимѹ · нъ словомъ лѫчи многопрѣрѣкаємꙑи доводъ · мъноѭ реченъ ·",
+    "sr": "No od ovog puta istraživanja odvrati pojam. Neka te mnogokusna navika ne natera da se tim putem povodiš za besciljnim okom, zvonkim sluhom i jezikom, no slovom razluči mnogospornu proveru koju izrekoh.",
+    "stsl": "Отъ сего же пѫти испꙑтаниꙗ поимъ отврати · Да не понѹдить тѧ многоискѹсьнꙑи обꙑчаи по семѹ пѫти водити сѧ безцѣльнꙑмъ окомъ · звѧштимъ слѹхомъ и ѩзꙑкомъ · нъ словомъ разлѫчи многопрѣрѣкаємѹѭ провѣрѫ · мъноѭ реченѫ ·",
     "originalText": "ἀλλὰ σὺ τῆσδ᾽ ἀφ᾽ ὁδοῦ διζήσιος εἶργε νόημα, μηδέ σ᾽ ἔθος πολύπειρον ὁδὸν κατὰ τήνδε βιάσθω νωμᾶν ἄσκοπον ὄμμα καὶ ἠχήεσσαν ἀκουὴν καὶ γλῶσσαν, κρῖναι δὲ λόγῳ πολύδηριν ἔλεγχον ἐξ ἐμέθεν ῥηθέντα.",
     "author": "Parmenides",
     "sources": [
@@ -318,8 +317,8 @@
   {
     "id": "mm-001359",
     "type": "reported",
-    "sr": "Parmenidu se pripisuje da je prvi pomislio da je Zemlja okrugla i da leži u sredini.",
-    "stsl": "Парменидѹ приписѹєть сѧ · ꙗко пьрвъ землѭ окрѫглѫ и посрѣдѣ лежѫштѫ помꙑсли ·",
+    "sr": "I prvi je pojmio da je Zemlja okrugla i da leži u sredini.",
+    "stsl": "И пръвꙑи поѧ · ꙗко Землꙗ окрѫгла єсть и посредѣ лежить ·",
     "author": "Parmenides",
     "originalText": "πρῶτός τε ἐπενόησε τὴν γῆν σφαιροειδῆ καὶ ἐν μέσῳ κειμένην.",
     "sources": [
@@ -331,7 +330,7 @@
   },
   {
     "id": "mm-001360",
-    "type": "reported",
+    "type": "mention",
     "sr": "Favorin Parmenidu pripisuje prvo izlaganje dokaza poznatog kao ‘Ahilej i kornjača’.",
     "stsl": "Фаворинъ Парменидѹ приписѹєть пьрвоє изложеніє довода · нарицаємаго Ахиллеи и желвь ·",
     "author": "Parmenides",
@@ -447,8 +446,8 @@
   {
     "id": "mm-001368",
     "type": "quote",
-    "sr": "Treba govoriti i pojmiti: biće jeste. Jer biti jeste, a ništa nije. To ti nalažem da razmotriš. Od tog prvog puta istraživanja odvraćam te, a potom i od puta kojim lutaju smrtnici što ništa ne znaju, dvoglavi. Nemoć im u grudima vodi zalutali um; tumaraju gluhi i slepi ujedno, zapanjeni, nerazborit rod, kojima su biti i ne biti isto i ne isto, a put svega vraća se sebi.",
-    "stsl": "Подобаєть глаголати и поѩти · сѫщее єсть · Быти бо єсть · ничтоже же нѣсть · Се ти повелѣваѭ разъсмотрѣти · Отъ сего пръваго пѫти испытаніꙗ възвраштаѭ тѧ · потомъ же и отъ того · имьже смрьтнии ничтоже вѣдѫще блѫдѧть · двоглави · Немощь бо въ пръсехъ ихъ блѫдѧштии ѹмъ водить · носѧть же сѧ глѹси и слѣпи вкупѣ · ѹжасени · родъ неразборьнъ · имъже быти и не быти тожде мьнить сѧ и не тожде · вьсѣхъ же пѫть възвратенъ ·",
+    "sr": "Nužno je govoriti i poimati da biće jeste. Jer biti jeste, a ništa nije. To ti nalažem da razmotriš. Od tog prvog puta istraživanja odvraćam te, a potom i od puta kojim lutaju smrtnici što ništa ne znaju, dvoglavi. Nemoć im u grudima vodi zalutali um; tumaraju gluhi i slepi ujedno, zapanjeni, nerazborit rod, kojima su biti i ne biti isto i ne isto, a put svega je povratan.",
+    "stsl": "Нѫжда єсть глаголати и поимати · ꙗко сѫщее єсть · Быти бо єсть · ничтоже же нѣсть · Се ти повелѣваѭ разъсмотрѣти · Отъ сего пръваго пѫти испытаніꙗ възвраштаѭ тѧ · потомъ же и отъ того · имьже смрьтнии ничтоже вѣдѫще блѫдѧть · двоглави · Немощь бо въ пръсехъ ихъ блѫдѧштии ѹмъ водить · носѧть же сѧ глѹси и слѣпи вкупѣ · ѹжасени · родъ неразборьнъ · имъже быти и не быти тожде мьнить сѧ и не тожде · вьсѣхъ же пѫть възвратенъ єсть ·",
     "originalText": "χρὴ τὸ λέγειν τε νοεῖν τ᾽ ἐὸν ἔμμεναι· ἔστι γὰρ εἶναι, μηδὲν δ᾽ οὐκ ἔστιν· τά σ᾽ ἐγὼ φράζεσθαι ἄνωγα. πρώτης γάρ σ᾽ ἀφ᾽ ὁδοῦ ταύτης διζήσιος <εἴρξω>, αὐτὰρ ἔπειτ᾽ ἀπὸ τῆς, ἣν δὴ βροτοὶ εἰδότες οὐδὲν πλάττονται, δίκρανοι· ἀμηχανίη γὰρ ἐν αὐτῶν στήθεσιν ἰθύνει πλακτὸν νόον· οἱ δὲ φοροῦνται κωφοὶ ὁμῶς τυφλοί τε, τεθηπότες, ἄκριτα φῦλα, οἷς τὸ πέλειν τε καὶ οὐκ εἶναι ταὐτὸν νενόμισται κοὐ ταὐτόν, πάντων δὲ παλίντροπός ἐστι κέλευθος.",
     "author": "Parmenides",
     "sources": [
@@ -517,7 +516,7 @@
   {
     "id": "mm-001373",
     "type": "quote",
-    "sr": "Tu završavam pouzdano slovo i poim o istini. Odsad uči mnenja smrtnika, slušajući varljivi ustroj mojih reči. Oni odlučiše da imenuju dva oblika, premda jedan nije trebalo imenovati — tu zalutaše. Razlučiše ih kao telesne protivnosti i svakom postaviše zasebna znamenja: s jedne strane nebeski plameni oganj, blag i veoma lak, svuda isti sebi, ali ne i drugome; s druge njemu protivna neznana noć, gusto i teško telo. Sav ovaj verovatni ustroj kazujem ti, da te nikada ne nadvlada mnenje smrtnika.",
+    "sr": "Tu završavam pouzdano slovo i pojam o istini. Odsad uči mnenja smrtnika, slušajući varljivi ustroj mojih reči. Oni odlučiše da imenuju dva oblika, premda jedan nije trebalo imenovati — tu zalutaše. Razlučiše ih kao telesne protivnosti i svakom postaviše zasebna znamenja: s jedne strane nebeski plameni oganj, blag i veoma lak, svuda isti sebi, ali ne i drugome; s druge njemu protivna neznana noć, gusto i teško telo. Sav ovaj verovatni ustroj kazujem ti, da te nikada ne nadvlada mnenje smrtnika.",
     "stsl": "Тѹ ти коньчаѭ вѣрьно слово и поимъ о истинѣ · Отъселѣ же мьнѣниꙗ смрьтныхъ ѹчи · прѣльстьнꙑи строи моихъ словесъ слꙑша · Дъва образа именовати лѫчиша · єдиного же не подобааше именовати · тѹ заблѫдишѧ · Противꙑ тѣломъ разлѫчиша · и ꙁнамениꙗ имъ особо положиша · овомѹ небесьнꙑи пламененъ огнь · кротъкъ и зѣло легъкъ · вьсѫдѹ себѣ тожде · дрѹгомѹ же не тожде · иномѹ же противѹ нощь невѣдома · тѣло гѫсто и тѧжько · Вьсь сь подобьнъ строи ти повѣдаѭ · да тѧ николиже мьнѣніє смрьтныхъ одолѣєть ·",
     "originalText": "ἐν τῷ σοι παύω πιστὸν λόγον ἠδὲ νόημα ἀμφὶς ἀληθείης· δόξας δ᾽ ἀπὸ τοῦδε βροτείας μάνθανε κόσμον ἐμῶν ἐπέων ἀπατηλὸν ἀκούων. μορφὰς γὰρ κατέθεντο δύο γνώμας ὀνομάζειν, τῶν μίαν οὐ χρεών ἐστιν (ἐν ᾧ πεπλανημένοι εἰσίν)· τἀντία δ᾽ ἐκρίναντο δέμας καὶ σήματ᾽ ἔθεντο χωρὶς ἀπ᾽ ἀλλήλων, τῇ μὲν φλογὸς αἰθέριον πῦρ, ἤπιον ὄν, μέγ᾽ ἐλαφρόν, ἑωυτῷ πάντοσε τωὐτόν, τῷ δ᾽ ἑτέρῳ μὴ τωὐτόν· ἀτὰρ κἀκεῖνο κατ᾽ αὐτό τἀντία νύκτ᾽ ἀδαῆ, πυκινὸν δέμας ἐμβριθές τε. τόν σοι ἐγὼ διάκοσμον ἐοικότα πάντα φατίζω, ὡς οὐ μή ποτέ τίς σε βροτῶν γνώμη παρελάσσῃ.",
     "author": "Parmenides",
@@ -531,7 +530,7 @@
   {
     "id": "mm-001374",
     "type": "quote",
-    "sr": "Pošto je sve imenovano svetlošću i noći, i svemu po njihovim silama pripade ovo ili ono ime, sve je zajedno puno svetlosti i nevidljive noći, obe podjednako; jer ništa nije bez jedne od njih.",
+    "sr": "Pošto je sve imenovano svetlom i noći, i svemu po njihovim silama pripade ovo ili ono ime, sve je zajedno puno svetlosti i nevidljive noći, obe jednako; jer ništa nije bez jedne od njih.",
     "stsl": "Понеже вьсѧ свѣтомъ и нощию именована · и вьсакомѹ по силамъ ихъ ово или ино имѧ положено · вьсе вкупѣ свѣта и невидимыѩ нощи пълно · обоє равно · ничтоже бо безъ єдиного отъ нихъ ·",
     "originalText": "αὐτὰρ ἐπειδὴ πάντα φάος καὶ νὺξ ὀνόμασται καὶ τὰ κατὰ σφετέρας δυνάμεις ἐπὶ τοῖσί τε καὶ τοῖς, πᾶν πλέον ἐστὶν ὁμοῦ φάεος καὶ νυκτὸς ἀφάντου ἴσων ἀμφοτέρων, ἐπεὶ οὐδετέρῳ μέτα μηδέν.",
     "author": "Parmenides",
@@ -601,8 +600,8 @@
   {
     "id": "mm-001379",
     "type": "quote",
-    "sr": "Noćnosvetla, tuđim svetlom, luta oko Zemlje.",
-    "stsl": "Нощесвѣтна · чѹждимь свѣтомъ около Землѧ блѫдѧшти ·",
+    "sr": "Noćnosvetlo, oko Zemlje luta, tuđe svetlo.",
+    "stsl": "Нощесвѣтло · около Землѧ блѫдѧште · чѹжде свѣтло ·",
     "originalText": "νυκτιφαὲς περὶ γαῖαν ἀλώμενον ἀλλότριον φῶς.",
     "author": "Parmenides",
     "sources": [
@@ -629,7 +628,7 @@
   {
     "id": "mm-001381",
     "type": "quote",
-    "sr": "Kakva je u svakom času mešavina nemirnih udova, takav je i um u ljudima. Jer isto je ono što razbira i priroda udova u ljudima, u svima i u svakome: ono što preteže jeste poim.",
+    "sr": "Kakva je u svakom času mešavina nemirnih udova, takav je i um u ljudima. Jer isto je ono što razbira i priroda udova u ljudima, u svima i u svakome: ono što preteže jeste pojam.",
     "stsl": "Каково вьсакꙑи разъ смѣшеніє многоблѫдьнꙑхъ ѹдовъ · таковъ и ѹмъ въ чловѣцѣхъ · Тожде бо єсть єже разбираєть и природа ѹдовъ въ чловѣцѣхъ · въ вьсѣхъ и въ вьсакомь · Єже бо прѣвъзмогаєть · поимъ єсть ·",
     "originalText": "ὡς γὰρ ἑκάστοτ᾽ ἔχει κρᾶσιν μελέων πολυπλάγκτων, τὼς νόος ἀνθρώποισι παρίσταται· τὸ γὰρ αὐτό ἔστιν ὅπερ φρονέει μελέων φύσις ἀνθρώποισιν καὶ πᾶσιν καὶ παντί· τὸ γὰρ πλέον ἐστὶ νόημα.",
     "author": "Parmenides",
@@ -637,20 +636,6 @@
       {
         "name": "hermann-diels",
         "reference": "28 B 16"
-      }
-    ]
-  },
-  {
-    "id": "mm-001382",
-    "type": "quote",
-    "sr": "Desno mladići, levo devojke.",
-    "stsl": "Одеснѫ ѫноши · ошѹѭ дѣвꙑ ·",
-    "originalText": "δεξιτεροῖσιν μὲν κούρους, λαιοῖσι δὲ κούρας.",
-    "author": "Parmenides",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "28 B 17"
       }
     ]
   },
@@ -685,8 +670,8 @@
   {
     "id": "mm-002154",
     "type": "quote",
-    "stsl": "Николиже бо се одолѣєть · не сѫщаꙗ бꙑти · Нъ тꙑ отъ сего пѫти испꙑтаниꙗ поимъ въздръжи ·",
-    "sr": "Nikada neće prevladati da nebića jesu. Ti pak od ovog puta istraživanja zadrži pojam.",
+    "stsl": "Николиже бо се одолѣєть · не сѫщаꙗ бꙑти · Нъ тꙑ отъ сего пѫти испꙑтаниꙗ поимъ отврати ·",
+    "sr": "Nikada neće prevladati da nesušta jesu. No ti od ovog puta ispitivanja odvrati pojam.",
     "originalText": "οὐ γὰρ μήποτε τοῦτο δαμῇ εἶναι μὴ ἐόντα· ἀλλὰ σὺ τῆσδ᾽ ἀφ᾽ ὁδοῦ διζήσιος εἶργε νόημα.",
     "author": "Parmenides",
     "sources": [
@@ -707,76 +692,6 @@
       {
         "name": "hermann-diels",
         "reference": "28 B 1.1-5"
-      }
-    ]
-  },
-  {
-    "id": "mm-002156",
-    "type": "quote",
-    "stsl": "Ось въ главицахъ свирѣли гласъ испѹштааше · разгараѭшти сѧ · двѣма бо врътѧштема сѧ колесома съ обою странѹ гонима бѣ · єгда Слъньчьнꙑѩ дѣвꙑ поспѣшаахѫ мѧ къ свѣтѹ послати · Ношти домꙑ оставльше · рѫкама отъ главъ покрывала отъринѫвъше ·",
-    "sr": "Osovina je u glavčinama ispuštala zvuk svirale, usijana, jer su je s obe strane gonila dva vrtložna točka, kada su Sunčeve devojke hitale da me pošalju ka svetlosti, napustivši domove Noći i rukama zbacivši koprene s glava.",
-    "originalText": "ἄξων δ᾽ ἐν χνοίῃσιν ἵει σύριγγος ἀυτήν αἰθόμενος — δοιοῖς γὰρ ἐπείγετο δινωτοῖσιν κύκλοις ἀμφοτέρωθεν — ὅτε σπερχοίατο πέμπειν Ἡλιάδες κοῦραι, προλιποῦσαι δώματα Νυκτός, εἰς φάος, ὠσάμεναι κράτων ἄπο χερσὶ καλύπτρας.",
-    "author": "Parmenides",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "28 B 1.6-10"
-      }
-    ]
-  },
-  {
-    "id": "mm-002157",
-    "type": "quote",
-    "stsl": "Тамо врата пѫтемъ Ношти и Дьне · надвратникъ ихъ окрѫгъ дрьжить и прагъ каменъ · сама же небесьнаꙗ великими крилꙑ испълнена · Ихъ измѣньнꙑѩ ключѧ имать многокъзньнаꙗ Правда · Къ неи дѣвꙑ сладъкꙑими словесꙑ глаголавъше мѫдро ѹвѣшташа · да имъ засовъ бръзо отъ вратъ отъвьрзеть ·",
-    "sr": "Tamo su vrata puteva Noći i Dana; nadvratnik ih obuhvata i kameni prag, a sama, nebesna, ispunjena su velikim krilima. Njihove naizmenične ključeve drži mnogokaznena Pravda. Njoj devojke progovoriše slatkim rečima i mudro je ubediše da im brzo odmakne zasun s vrata.",
-    "originalText": "ἔνθα πύλαι Νυκτός τε καὶ Ἤματός εἰσι κελεύθων, καί σφας ὑπέρθυρον ἀμφὶς ἔχει καὶ λάινος οὐδός· αὐταὶ δ᾽ αἰθέριαι πλῆνται μεγάλοισι θυρέτροις· τῶν δὲ Δίκη πολύποινος ἔχει κληῖδας ἀμοιβούς. τὴν δὴ παρφάμεναι κοῦραι μαλακοῖσι λόγοισιν πεῖσαν ἐπιφραδέως, ὥς σφιν βαλανωτὸν ὀχῆα ἀπτερέως ὤσειε πυλέων ἄπο.",
-    "author": "Parmenides",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "28 B 1.11-17"
-      }
-    ]
-  },
-  {
-    "id": "mm-002158",
-    "type": "quote",
-    "stsl": "Врата же бездьнѫ ѧзѧште сътвориша · мѣдьнꙑѩ стълпꙑ въ цѣвницахъ редомь врътѧште · гвоздьми и клинꙑ съложенꙑ · Тѹдѣ дѣвꙑ чрѣзъ врата по колѣи право колесницѫ и конѧ ведошѧ ·",
-    "sr": "Vrata načiniše zjapeći bezdan, okrećući redom u čašicama bronzane stožere, spojene klinovima i zakovicama. Tuda devojke pravo kroz vrata, kolotragom, povedoše kola i konje.",
-    "originalText": "ταὶ δὲ θυρέτρων χάσμ᾽ ἀχανὲς ποίησαν ἀναπτάμεναι πολυχάλκους ἄξονας ἐν σύριγξιν ἀμοιβαδὸν εἱλίξασαι γόμφοις καὶ περόνῃσιν ἀρηρότε· τῇ ῥα δι᾽ αὐτέων ἰθὺς ἔχον κοῦραι κατ᾽ ἀμαξιτὸν ἅρμα καὶ ἵππους.",
-    "author": "Parmenides",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "28 B 1.17-21"
-      }
-    ]
-  },
-  {
-    "id": "mm-002159",
-    "type": "quote",
-    "stsl": "Богꙑни же мѧ благовольно приѧтъ · десницѫ рѫкоѭ приѧтъ · и сице рече · Юноше · бесмрьтнꙑимъ колесничникомъ дрѹже · на конѣхъ носѧштихъ тѧ нашь домъ достиглъ · радѹи сѧ · Не зъла бо чѧсть тѧ на сь пѫть посла · далече бо отъ чловѣчьскꙑѩ стезѧ єсть · нъ законъ и правда ·",
-    "sr": "Boginja me blagonaklono primi, desnicu mi uze rukom i ovako reče: Mladiću, druže besmrtnih kočijašica, koji na konjima što te nose stiže našem domu, raduj se. Nije te zla čest poslala na ovaj put — daleko je od ljudske staze — nego zakon i Pravda.",
-    "originalText": "καί με θεὰ πρόφρων ὑπεδέξατο, χεῖρα δὲ χειρὶ δεξιτερὴν ἕλεν, ὧδε δ᾽ ἔπος φάτο καί με προσηύδα· ὦ κοῦρ᾽ ἀθανάτοισι συνάορος ἡνιόχοισιν, ἵπποις ταί σε φέρουσιν ἱκάνων ἡμέτερον δῶ, χαῖρ᾽, ἐπεὶ οὔτι σε μοῖρα κακὴ προὔπεμπε νέεσθαι τήνδ᾽ ὁδόν — ἦ γὰρ ἀπ᾽ ἀνθρώπων ἐκτὸς πάτου ἐστίν — ἀλλὰ θέμις τε δίκη τε.",
-    "author": "Parmenides",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "28 B 1.22-28"
-      }
-    ]
-  },
-  {
-    "id": "mm-002160",
-    "type": "quote",
-    "stsl": "Нъ и се наѹчиши сѧ · како мьнимаꙗ подобаше истиньно бꙑти · вьсѧ чрѣзъ вьсѧ проходѧшта ·",
-    "sr": "Ali naučićeš i ovo: kako je trebalo da mnenja pouzdano budu, sva kroz sve prolazeći.",
-    "originalText": "ἀλλ᾽ ἔμπης καὶ ταῦτα μαθήσεαι, ὡς τὰ δοκοῦντα χρῆν δοκίμως εἶναι διὰ παντὸς πάντα περῶντα.",
-    "author": "Parmenides",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "28 B 1.31-32"
       }
     ]
   }
