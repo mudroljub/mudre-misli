@@ -92,7 +92,7 @@
   {
     "id": "mm-000029",
     "type": "quote",
-    "sr": "Sve stvari behu zajedno; zatim dođe Um i uredi ih.",
+    "sr": "Sve stvari behu zajedno; zatim dođe um i uredi ih.",
     "stsl": "Вьсѧ вешти въкѹпѣ бѣахѹ · таже прииде ѹмъ и ѩ ѹстрои ·",
     "originalText": "Πάντα χρήματα ἦν ὁμοῦ· εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε.",
     "author": "Anaxagoras",
@@ -203,7 +203,7 @@
   },
   {
     "id": "mm-000037",
-    "type": "quote",
+    "type": "reported",
     "sr": "Na pitanje hoće li lampsačke gore ikada postati more, odgovori: Hoće, samo ako ne ponestane vremena.",
     "stsl": "Въпрошенъ · аще Лампсакьскꙑѩ горꙑ когда морє бѫдѫть · отъвѣща · Бѫдѫть · аще тъкмо врѣмене не лишить ·",
     "originalText": "πρὸς τὸν εἰπόντα, εἰ τὰ ἐν Λαμψάκῳ ὄρη ἔσται ποτὲ θάλαττα, φασὶν εἰπεῖν, ἐάν γε ὁ χρόνος μὴ ἐπιλίπῃ.",
@@ -303,7 +303,7 @@
   {
     "id": "mm-000048",
     "type": "anecdote",
-    "sr": "Pošto je učenju dao Um kao počelo koje uređuje tvar, Anaksagora je i sam dobio nadimak ‘Um’.",
+    "sr": "Pošto je učenju dao um kao počelo koje uređuje tvar, Anaksagora je i sam dobio nadimak Um.",
     "stsl": "Понеже въ ѹчєнии ѹмъ начѧломъ · вештество ѹстроѧѭштимъ · положи · и самъ Анаксагора прозваніє Умъ приѧтъ ·",
     "originalText": "Οὗτος ἤκουσεν Ἀναξιμένους, καὶ πρῶτος τῇ ὕλῃ νοῦν ἐπέστησεν, ἀρξάμενος οὕτω τοῦ συγγράμματος, ὅ ἐστιν ἡδέως καὶ μεγαλοφρόνως ἡρμηνευμένον· « Πάντα χρήματα ἦν ὁμοῦ· » εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε. Παρὸ καὶ Νοῦς ἐπεκλήθη.",
     "author": "Anaxagoras",
@@ -317,7 +317,7 @@
   },
   {
     "id": "mm-000049",
-    "type": "reported",
+    "type": "mention",
     "sr": "Prema Favorinu, Anaksagora je prvi kazao da Homerova poezija govori o vrlini i pravdi. Njegov učenik Metrodor iz Lampsaka razvio je ovo slovo i prvi se posvetio Homerovom izlaganju prirode. Anaksagora je prvi objavio i proznu knjigu.",
     "stsl": "По Фаворинѹ Анаксагора пьрвъ рече · ꙗко Хомерова пѣниꙗ о добродѣтели и правдѣ глаголѭть · Оученикъ же єго Метродоръ Лампсакьскыи се слово разви · и пьрвъ Хомеровѹ сказаниѭ о природѣ прилежа · Анаксагора же пьрвъ и прозаичьнѫ книгѫ издаде ·",
     "originalText": "Δοκεῖ δὲ πρῶτος, καθά φησί Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὴν Ὁμήρου ποίησιν ἀποφήνασθαι εἶναι περὶ ἀρετῆς καὶ δικαιοσύνης· ἐπὶ πλεῖον δὲ προστῆναι τοῦ λόγου Μητρόδωρον τὸν Λαμψακηνόν, γνώριμον ὄντα αὐτοῦ, ὃν καὶ πρῶτον σπουδάσαι τοῦ ποιητοῦ περὶ τὴν φυσικὴν πραγματείαν. Πρῶτος δὲ Ἀναξαγόρας καὶ βιβλίον ἐξέδωκε συγγραφῆς.",
@@ -462,7 +462,7 @@
   {
     "id": "mm-000059",
     "type": "quote",
-    "sr": "U svemu ima deo svega osim Uma; a ima i stvari u kojima je Um.",
+    "sr": "U svemu ima deo svega osim uma; a ima i stvari u kojima je um.",
     "originalText": "ἐν παντὶ παντὸς μοῖρα ἔνεστι πλὴν νοῦ, ἔστιν οἷσι δὲ καὶ νοῦς ἔνι.",
     "stsl": "Въ вьсѣмь чѧсть вьсего єсть · развѣ Ѹма · сѫть же и вешти · въ нихъже Ѹмъ єсть ·",
     "author": "Anaxagoras",
@@ -476,7 +476,7 @@
   {
     "id": "mm-000060",
     "type": "quote",
-    "sr": "Ostale stvari imaju udela u svemu, a Um je bezgraničan i samovlastan i nije pomešan ni sa jednom stvari, nego je sam, sam po sebi.",
+    "sr": "Ostale stvari imaju udela u svemu, a um je bezgraničan i samovlastan i nije pomešan ni sa jednom stvari, nego je sam, sam po sebi.",
     "stsl": "Инаꙗ вьсѣ чѧсть вьсего имѫть · Ѹмъ же бескраинъ єсть и самовластьнъ · и ни съ єдиною вештию съмѣшенъ · нъ єдинъ самъ по себѣ єсть ·",
     "originalText": "Τὰ μὲν ἄλλα παντὸς μοῖραν μετέχει, νοῦς δέ ἐστιν ἄπειρον καὶ αὐτοκρατὲς καὶ μέμεικται οὐδενὶ χρήματι, ἀλλὰ μόνος αὐτὸς ἐπ’ ἐωυτοῦ ἐστιν.",
     "author": "Anaxagoras",
@@ -490,7 +490,7 @@
   {
     "id": "mm-000061",
     "type": "quote",
-    "sr": "Um je najfiniji od svih stvari i najčistiji, ima potpuno znanje o svemu i najveću moć. Nad svime što ima dušu, i većim i manjim, vlada Um.",
+    "sr": "Um je najfiniji od svih stvari i najčistiji, ima potpuno znanje o svemu i najveću moć. Nad svime što ima dušu, i većim i manjim, vlada um.",
     "originalText": "ἔστι γὰρ λεπτότατόν τε πάντων χρημάτων καὶ καθαρώτατον καὶ γνώμην γε περὶ παντὸς πᾶσαν ἴσχει καὶ ἰσχύει μέγιστον. καὶ ὅσα γε ψυχὴν ἔχει καὶ μείζω καὶ ἐλάσσω, πάντων νοῦς κρατεῖ.",
     "stsl": "Ѹмъ єсть тъньчаиши отъ вьсѣхъ вещеи и чистѣиши · и вьсе знаниє о вьсѣмь имать и силѫ наивѧштѫ · И надъ вьсѣмь · єже дѹшѫ имать · и вѧштимъ и мьньшимъ · Ѹмъ владаєть ·",
     "author": "Anaxagoras",
@@ -504,7 +504,7 @@
   {
     "id": "mm-000062",
     "type": "quote",
-    "sr": "Um je spoznao sve što se meša, izdvaja i razlučuje. I što je imalo biti, što beše a sada nije, i što jeste — sve je Um uredio.",
+    "sr": "Um je spoznao sve što se meša, izdvaja i razlučuje. I što je imalo biti, što beše a sada nije, i što jeste — sve je um uredio.",
     "originalText": "καὶ τὰ συμμισγόμενά τε καὶ ἀποκρινόμενα καὶ διακρινόμενα πάντα ἔγνω νοῦς. καὶ ὁποῖα ἔμελλεν ἔσεσθαι καὶ ὁποῖα ἦν, ἅσσα νῦν μὴ ἔστι, καὶ ὁποῖα ἔστι, πάντα διεκόσμησε νοῦς.",
     "stsl": "Вьсѧ смѣшаѭштаꙗ сѧ · отълѫчаѭштаꙗ сѧ и разлѫчаѭштаꙗ сѧ Ѹмъ позна · И єже быти имѣаше · єже бѣ и нынѣ нѣсть · и єже єсть · вьсѧ Ѹмъ ѹстрои ·",
     "author": "Anaxagoras",
@@ -518,7 +518,7 @@
   {
     "id": "mm-000063",
     "type": "quote",
-    "sr": "Kada Um poče pokretati, od svega pokrenutog poče izdvajanje; i sve što Um pokrenu razluči se. Dok se stvari kretahu i razlučivahu, kruženje ih razlučivaše sve više.",
+    "sr": "Kada um poče pokretati, od svega pokrenutog poče izdvajanje; i sve što um pokrenu razluči se. Dok se stvari kretahu i razlučivahu, kruženje ih razlučivaše sve više.",
     "originalText": "καὶ ἐπεὶ ἤρξατο ὁ νοῦς κινεῖν, ἀπὸ τοῦ κινουμένου παντὸς ἀπεκρίνετο, καὶ ὅσον ἐκίνησεν ὁ νοῦς, πᾶν τοῦτο διεκρίθη· κινουμένων δὲ καὶ διακρινομένων ἡ περιχώρησις πολλῶι μᾶλλον ἐποίει διακρίνεσθαι.",
     "stsl": "Єгда Ѹмъ движити начѧтъ · отъ вьсего движимаго отълѫченіє начѧ сѧ · и єлико Ѹмъ подвиже · вьсе се разлѫчи · Вещемъ же движѫштимъ сѧ и разлѫчаѭштимъ сѧ · крѫженіє ихъ множає разлѫчааше ·",
     "author": "Anaxagoras",
@@ -560,9 +560,9 @@
   {
     "id": "mm-000066",
     "type": "quote",
-    "sr": "Rađanje i propadanje Heleni ne shvataju pravilno: nijedna stvar ne rađa se niti propada, nego se sušte stvari mešaju i razlučuju. Zato bi pravilno zvali rađanje mešanjem, a propadanje razlučivanjem.",
-    "originalText": "τὸ δὲ γίνεσθαι καὶ ἀπόλλυσθαι οὐκ ὀρθῶς νομίζουσιν οἱ Ἕλληνες· οὐδὲν γὰρ χρῆμα γίνεται οὐδὲ ἀπόλλυται, ἀλλ’ ἀπὸ ἐόντων χρημάτων συμμίσγεταί τε καὶ διακρίνεται. καὶ οὕτως ἂν ὀρθῶς καλοῖεν τό τε γίνεσθαι συμμίσγεσθαι καὶ τὸ ἀπόλλυσθαι διακρίνεσθαι.",
+    "sr": "Rođenje i propadanje Heleni ne shvataju pravilno: nijedna stvar ne rađa se niti propada, nego se od suštih stvari meša i razlučuje. Zato bi pravilno zvali rođenje mešanjem, a propadanje razlučivanjem.",
     "stsl": "Рожденьѥ же и тлѣніѥ Єллини не право мьнѧтъ · ничьтоже бо вещь раждаѥть сѧ ни тлѣѥть · нъ отъ сѫщихъ вещии смѣшаѥть сѧ и разлѫчаѥть сѧ · И тако право рожденьѥ смѣшеніѥмъ нарицали бꙑ · тлѣніѥ же разлѫченіѥмъ ·",
+    "originalText": "τὸ δὲ γίνεσθαι καὶ ἀπόλλυσθαι οὐκ ὀρθῶς νομίζουσιν οἱ Ἕλληνες· οὐδὲν γὰρ χρῆμα γίνεται οὐδὲ ἀπόλλυται, ἀλλ’ ἀπὸ ἐόντων χρημάτων συμμίσγεταί τε καὶ διακρίνεται. καὶ οὕτως ἂν ὀρθῶς καλοῖεν τό τε γίνεσθαι συμμίσγεσθαι καὶ τὸ ἀπόλλυσθαι διακρίνεσθαι.",
     "author": "Anaxagoras",
     "sources": [
       {
@@ -818,8 +818,8 @@
   {
     "id": "mm-000085",
     "type": "quote",
-    "sr": "Mnogi su delovi mnogih stvari. Ništa se potpuno ne izdvaja niti razlučuje jedno od drugoga osim Uma. Sav Um je sebi jednak, i veći i manji. Ništa drugo nije jednako ničemu, nego svaka stvar beše i jeste očigledno ono čega u njoj ima najviše.",
-    "stsl": "Многы чѧсти многыхъ вещеи сѫть · Ничьтоже съвьсѣмъ не отълѫчаєть сѧ ни разлѫчаєть сѧ єдино отъ дрѹгаго развѣ Ѹма · Вьсь Ѹмъ себѣ подобьнъ · и вѧшть и мьньши · Ино же ничьтоже ничьсомѹ подобьно · нъ вьсѧка вещь ꙗвѣ то бѣ и єсть · єгоже въ неи множає ·",
+    "sr": "Mnogi su delovi mnogih stvari. Ništa se potpuno ne izdvaja niti razlučuje jedno od drugoga osim uma. Sav um je sebi jednak, i veći i manji. Ništa drugo nije jednako ničemu, nego svaka stvar očigledno beše i jeste ono čega u njoj ima najviše.",
+    "stsl": "Многы чѧсти многыхъ вещеи сѫть · Ничьтоже съвьсѣмъ не отълѫчаєть сѧ ни разлѫчаєть сѧ єдино отъ дрѹгаго развѣ ѹма · Вьсь ѹмъ себѣ подобьнъ · и вѧшть и мьньши · Ино же ничьтоже ничьсомѹ подобьно · нъ вьсѧка вещь ꙗвѣ бѣ и єсть то · єгоже въ неи множає ·",
     "originalText": "μοῖραι δὲ πολλαὶ πολλῶν εἰσι. παντάπασι δὲ οὐδὲν ἀποκρίνεται οὐδὲ διακρίνεται ἕτερον ἀπὸ τοῦ ἑτέρου πλὴν νοῦ. νοῦς δὲ πᾶς ὅμοιός ἐστι καὶ ὁ μείζων καὶ ὁ ἐλάττων. ἕτερον δὲ οὐδέν ἐστιν ὅμοιον οὐδενί, ἀλλ’ ὅτων πλεῖστα ἔνι, ταῦτα ἐνδηλότατα ἓν ἕκαστόν ἐστι καὶ ἦν.",
     "author": "Anaxagoras",
     "sources": [
@@ -854,20 +854,6 @@
       {
         "name": "hermann-diels",
         "reference": "B.20"
-      }
-    ]
-  },
-  {
-    "id": "mm-000088",
-    "type": "quote",
-    "sr": "Ptičjim mlekom naziva se belance u jajima.",
-    "stsl": "Птичиємь млѣкомь бѣлоє въ ꙗицѣхъ нарицаєть сѧ ·",
-    "originalText": "ἐν τοῖς Φυσικοῖς τὸ καλούμενόν φησιν ὄρνιθος γάλα τὸ ἐν τοῖς ὠιοῖς εἶναι λευκόν.",
-    "author": "Anaxagoras",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.22"
       }
     ]
   }
