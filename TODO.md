@@ -1,94 +1,19 @@
 # TODO
 
-## 2. Usavršiti prevode
-
-### 2.1. Projektni terminološki prolaz
+## Usavršiti prevode
 
 - [ ] Proći stavke iz `docs/RECNIK.md` i proveriti da li su njihovi srpski i
-  staroslovenski ekvivalenti dosledno primenjeni u celom korpusu. Jednoznačne
-  neusaglašenosti ispraviti; svaki opravdani izuzetak izdvojiti i tražiti
-  odluku pre promene.
-- [x] Ukloniti preostale oblike `etar` i `еѳеръ` i primeniti rečničko rešenje
-  `nebesje` i `небєсьє`, uz proveru konkretnog grčkog konteksta.
-- [ ] Svaku novu terminološku odluku prvo predložiti za `docs/RECNIK.md`, pa je
-  tek onda dosledno primeniti na prevode.
-- uklanjati atom, sfera i sve ostale grcizme
-
-### 2.2. Klesanje jednog autora
-
-Usavršavati prevod jednog po jednog autora, kroz sledeće prolaze:
-
-- [x] **Heraklit** — završen sadržinski, terminološki i prevodilački prolaz.
-  Zastupljena su 123 od 126 Dilsovih B-brojeva. B58 je tekstološki oštećen,
-  B69 nema izdvojive Heraklitove reči, a B81 je korumpirano posredno retoričko
-  svedočanstvo; zato nisu predstavljeni kao njegove izreke. Svih 154 unosa
-  imaju prevodni par, izvornik, izvor i stabilan jedinstven ID; provera tipova
-  i provera duplikata prolaze.
-
-- [x] **Parmenid** — završen sadržinski, terminološki i prevodilački prolaz.
-  Svih 19 Dilsovih B-fragmenata predstavljeno je u 54 zapisa, sa 30 preciznih
-  upućivanja na stihove; dopunjen je gotovo ceo proem B1 i izostavljeni B7.
-  Uklonjen je duplikat svedočanstva o zakonima, ispravljene su vrste zapisa i
-  oba prevoda proverena prema izvorniku. JSON, generator i provera tipova
-  prolaze. Tekstološka nedoumica u B1.31–32 zabeležena je za kasniju odluku.
-
-- [x] **Anaksagora** — završen sadržinski, terminološki i prevodilački prolaz.
-  Svih 22 Dilsova B-fragmenta, uključujući B21a, predstavljena su u 61 zapisu
-  sa 23 jedinstvena i 32 ukupna upućivanja. Vraćeni su izostavljeni delovi
-  fragmenata, razdvojeni pojmovi izdvajanja i razlučivanja, ispravljena
-  svedočanstva prema grčkom i uklonjena četiri duplirana ili neizvorna zapisa.
-  Svi unosi imaju prevodni par, izvornik i izvor; JSON, generator, provera
-  tipova i provera duplikata prolaze.
-
-- [x] **Empedokle** — završen sadržinski, terminološki i prevodilački prolaz.
-  U 191 zapisu predstavljeni su svi čitljivi autentični Dilsovi B-fragmenti;
-  B77–78 čine jedan zajednički fragment. B46 i B142 nisu prevedeni jer su
-  tekstološki teško oštećeni, a B154–159 nisu uzeti kao pouzdano autentični;
-  razlozi su zabeleženi u `docs/OTVORENE_DILEME.md`. Uklonjen je duplikat,
-  dopunjeni su izostavljeni fragmenti i oba prevoda usklađena sa rečničkim
-  porodicama. JSON, generator, provera tipova i provera duplikata prolaze.
-
-Posvećenu grafijsku kontrolu zasad preskočiti; ispravljati samo očigledne
-grafijske greške uočene tokom sadržinskog rada.
-
-1. **Utvrditi izvornik i smisao** — proveriti `originalText`, izdanje,
-   referencu i izvornu ogradu. Raščlaniti grčku sintaksu, ključne reči,
-   participe, pojmovne porodice, antiteze, ponavljanja, igre reči i moguće
-   dvosmislenosti. U ovoj fazi još ne klesati izraz.
-2. **Proveriti srpski neposredno prema grčkom** — napraviti veran srpski
-   prevod nezavisno od postojećeg `stsl`. Čuvati smisao, odnose među pojmovima
-   i prirodne grčke participe i infinitive; ne prilagođavati značenje
-   staroslovenskom prevodu.
-3. **Proveriti ili izgraditi staroslovenski** — prevesti sa grčkog prema
-   `docs/PREVODJENJE_NA_STAROSLOVENSKI.md`. Za svaki termin prvo primeniti
-   `docs/RECNIK.md`; ako ga nema, istražiti slovensku porodicu i tek posle
-   terminološke odluke uneti novo rešenje u rečnik. Proveriti morfologiju,
-   grafiju, imena i srednje tačke.
-4. **Isklesati staroslovenski** — redom proveriti reči, ukloniti višak,
-   razbiti preslikanu grčku sintaksu, sačuvati građu misli i na kraju isklesati
-   ritam prema `docs/KLESANJE_PREVODA.md`. Uklanjati suvišno `єсть`, mehaničko
-   `наи-`, teške participe, nepotrebne povratne oblike i opisne izraze samo
-   kada se ništa iz izvornika ne gubi. Kao jezičke uzore koristiti
-   `data/sources/corpus/isus.json` i `data/sources/corpus/Бытиѥ.pdf`, ali ne kao
-   zatvoren normativni rečnik.
-5. **Drugi srpski prolaz i klesanje** — ponovo proveriti vernost grčkom, pa
-   srpski približiti isklesanom staroslovenskom u terminima, slovenskim
-   porodicama, konstrukciji i redu misli gde grčki dopušta. Zatim istim redom
-   isklesati reči, višak, sintaksu, građu i ritam. Čuvati prirodne participe,
-   infinitive i aorist; ukloniti akademsku parafrazu i nepotrebne navodnike.
-6. **Završno čitanje para** — pročitati `stsl` i `sr` zajedno i naglas, pa oba
-   poslednji put uporediti sa grčkim. Moraju nositi isti smisao, iste utvrđene
-   pojmove i pojmovne veze i sličnu zbijenost, a svaki mora ostati prirodan u
-   sopstvenom jeziku. Prevod je završen kada se više ništa ne može oduzeti bez
-   gubitka izvorne misli.
+  staroslovenski ekvivalenti dosledno primenjeni u celom korpusu.
+- oceniti stsl prevod za svaki unos
+- popravljati lošiji staroslovenski
 
 ## UI
 
 - prevedi sadržaj stranice O projektu
+- odvoji duže radove u poseban json, posebno Epikurova pisma. smisliti sistem da kasnije podrži i Platonove dijaloge.
+- skrati prikaz dugih citata isto kao što su skraćena preduga dela (works)
 
 ## Razno
 
-- odvojiti duže radove u poseban json, posebno Epikurova pisma. smisliti sistem da kasnije podrži i Platonove dijaloge.
-- proveriti u izvorima tumačenja Kleobulinih zagonetki
 - `data\sources\INDEX_GREEK.md`: uraditi mašinski prolaz kroz __cts__.xml za Plutarha i Aristotela i dodati TLG broj uz baš svako njihovo delo.
-- parsiraj u json prevode iz `data\works` i uklopi u sajt (koristi dosledno rešenje za duge radove)
+- parsiraj u json prevode iz `data\works` i uklopi u sajt (koristi rešenje za duge radove)
