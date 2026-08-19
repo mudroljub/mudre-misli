@@ -25471,7 +25471,7 @@
   {
     "_id": 1494,
     "id": "mm-001434",
-    "type": "quote",
+    "type": "reported",
     "originalText": "ἔστι δὲ τῶν εἰδῶν ἓν ἕκαστον ἀίδιόν τε καὶ νόημα καὶ πρὸς τούτοις ἀπαθές. Διὸ καί φησιν ἐν τῇ φύσει τὰς ἰδέας ἑστάναι καθάπερ παραδείγματα, τὰ δ' ἄλλα ταύταις ἐοικέναι τούτων ὁμοιώματα καθεστῶτα.",
     "author": "Plato",
     "sources": [
@@ -25480,8 +25480,8 @@
         "reference": "III.12–13"
       }
     ],
-    "stsl": "Вьсѧкъ видъ вѣчьнъ · мыслъ и бесстрастьнъ · Того ради виждꙑ въ естествѣ стоѧть ꙗко первообразы · прочаꙗ же имъ подобьна · ихъ подобиꙗ сѫть ·",
-    "sr": "Svaki vid je večan, misao i bestrasan. Zato kaže da viđe u prirodi stoje kao uzori, a ostalo im je slično i predstavlja njihove odraze.",
+    "sr": "Svaki vid je večan, bestrasan pojam. Zato kaže da viđe u prirodi stoje kao uzori, a ostalo im nalikuje kao njihova podobija.",
+    "stsl": "Вьсѧкъ видъ вѣчьнъ · бесстрастьнъ поимъ єсть · Того ради глаголеть · ꙗко виждꙑ въ естествѣ стоѧть ꙗко первообразы · прочаꙗ же имъ подобьна · ихъ подобиꙗ сѫть ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.12-13",
     "tags": [
       "φύσις"
@@ -25499,8 +25499,8 @@
         "reference": "III.15"
       }
     ],
-    "stsl": "Аште памѧть єсть · виждꙑ въ сѫщихъ сѫть · памѧть бо покоѧштаго сѧ и прѣбываѭштаго · ничьтоже же ино прѣбываєть · развѣ виждъ ·",
-    "sr": "Ako postoji sećanje, viđe moraju biti među bićima, jer je sećanje o nečemu što miruje i ostaje, a ništa drugo ne ostaje osim viđa.",
+    "sr": "Platon kaže: Ako postoji sećanje, viđe postoje u bićima, jer je sećanje na nešto što miruje i ostaje, a ništa drugo ne ostaje osim viđa.",
+    "stsl": "Платонъ глаголеть · Аште памѧть єсть · виждꙑ въ сѫщихъ сѫть · памѧть бо єсть покоѧштаго сѧ и прѣбываѭштаго · ничьтоже же ино прѣбываєть · развѣ виждъ ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.15",
     "tags": [
       "εἶναι"
@@ -25545,8 +25545,8 @@
   {
     "_id": 1498,
     "id": "mm-001438",
-    "type": "quote",
-    "originalText": "μὴ τοσαύτην αὐτῷ σχολὴν εἶναι ὥστε Διονυσίου μεμνῆσθαι.",
+    "type": "reported",
+    "originalText": "Οὐ μὴν ἡσύχαζεν ὁ Διονύσιος· μαθὼν δὲ ἐπέστειλε Πλάτωνι μὴ κακῶς ἀγορεύειν αὐτόν. καὶ ὃς ἀντεπέστειλε μὴ τοσαύτην αὐτῷ σχολὴν εἶναι ὥστε Διονυσίου μεμνῆσθαι.",
     "author": "Plato",
     "sources": [
       {
@@ -25554,8 +25554,8 @@
         "reference": "III.21"
       }
     ],
-    "stsl": "Не имамъ толика праздьства · да Дионисиꙗ поминаѭ ·",
-    "sr": "Nemam toliko slobodnog vremena da bih Dionisija pamtio.",
+    "stsl": "Дионисии же · ѹвѣдѣвъ · написа Платонѹ · да єго зълѣ не глаголеть · Платонъ же отъписа · Не имамъ толика праздьства · да Дионисиꙗ поминаѭ ·",
+    "sr": "Kada Dionisije sazna, pisa Platonu da ne govori loše o njemu. Platon mu odgovori: Nemam toliko dokolice da bih se Dionisija sećao.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.21",
     "tags": [
       "εἶναι"
@@ -25573,8 +25573,8 @@
         "reference": "III.33"
       }
     ],
-    "stsl": "Мѫжь ꙁлато обрѣтъ · вьрвь остави · Иже же ꙁлата не обрѣте · єже остави · вьрвь обрѣтъ и ѹдави сѧ ·",
-    "sr": "Čovek našavši zlato ostavio omču. A onaj koji nije našao zlato što je ostavio, vezao omču koju je našao i obesio se.",
+    "stsl": "Мѫжь ꙁлато обрѣтъ · вьрвь остави · Дрѹгыи же · ꙁлата · єже остави · не обрѣтъ · обрѣтеною вьрвию ѹдави сѧ ·",
+    "sr": "Čovek našavši zlato ostavi omču; drugi, ne našavši zlato koje je ostavio, obesi se omčom koju je našao.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.33"
   },
   {
@@ -25625,8 +25625,8 @@
         "reference": "III.40"
       }
     ],
-    "stsl": "Истина бо · гостю · красна и прѣбываѭшти · нъ въ нѭ ѹвѣрити не легъко ·",
-    "sr": "Istina je, gostine, lepa i trajna, ali u nju nije lako uveriti.",
+    "stsl": "Истина бо · о гости · красна и прѣбываѭшти · нъ єю ѹвѣрити не легъко ·",
+    "sr": "Istina je, stranče, lepa i postojana, ali nije lako njome uveriti.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.40",
     "tags": [
       "ἀλήθεια"
@@ -25660,8 +25660,8 @@
         "reference": "III.63"
       }
     ],
-    "stsl": "Мѫдрость · наѹка божьскыхъ и чловѣчьскыхъ вештии · любомѫдриє же желаниє мѫдрости ·",
-    "sr": "Mudrost je nauka o božanskim i ljudskim stvarima, a mudroljublje težnja za mudrošću.",
+    "sr": "Mudrost je znanje božanskog i ljudskog, a mudroljublje težnja ka mudrosti.",
+    "stsl": "Мѫдрость єсть знаниѥ божьскыхъ и чловѣчьскыхъ · мѫдролюбьство же жаданиѥ мѫдрости ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.63",
     "tags": [
       "εἶναι",
