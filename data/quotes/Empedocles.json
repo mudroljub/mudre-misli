@@ -91,7 +91,7 @@
   {
     "id": "mm-000973",
     "type": "quote",
-    "sr": "Prijatelji, koji naseljavate veliki grad što se spušta niz žuti Akragant do vrha tvrđave, staratelji dobrih dela, pozdravljam vas! Među vama hodim kao besmrtni bog, više ne kao smrtnik, poštovan od svih kako dolikuje, ovenčan trakama i cvetnim vencima. Čim sa njima uđem u cvetne gradove, muškarci i žene iskazuju mi poštovanje; desetine hiljada idu za mnom, pitajući gde je put ka dobru: jedni traže proročanstva, a drugi, izmučeni svakojakim bolestima, žele da čuju isceliteljsku reč.",
+    "sr": "Prijatelji, koji naseljavate veliki grad što se spušta niz žuti Akragant do vrha tvrđave, staratelji dobrih dela, pozdravljam vas! Među vama hodim kao besmrtni bog, više ne kao smrtnik, poštovan od svih kako dolikuje, ovenčan trakama i cvetnim vencima. Čim sa njima uđem u cvetne gradove, muškarci i žene iskazuju mi poštovanje; desetine tisuća idu za mnom, pitajući gde je put ka dobru: jedni traže proročanstva, a drugi, izmučeni svakojakim bolestima, žele da čuju isceliteljsku reč.",
     "stsl": "Дрѹзи · иже великыи градъ по желтѣмъ Акрагантѣ до връха твръдынѧ населꙗєте · добрыхъ дѣлъ попечители · радѹите сѧ · Азъ же посредѣ васъ хождѫ богъ бесмрьтенъ · не къ томѹ смрьтенъ · Отъ вьсѣхъ почьтенъ ꙗкоже подобаєть · лентами и цвѣтьными вѣнци обложенъ · Єгда съ ними въ цвѣтѫште грады вънидѫ · мѫжи и жены почитаѭть мѧ · тьмы по мнѣ идѫть · въпрашаѭште · къдѣ єсть пѫть къ благѹ · овии пророчьства иштѫть · овии же всѧкыми недѫгы мѫчими цѣлєбьно слово слꙑшати желаѭть ·",
     "originalText": "ὦ φίλοι οἳ μέγα ἄστυ κατὰ ξανθοῦ Ἀκράγαντος ναίετ' ἀν' ἄκρα πόλεος. χαίρετ'· ἐγὼ δ' ὑμῖν θεὸς ἄμβροτος, οὐκέτι θνητὸς πωλεῦμαι μετὰ πᾶσι τετιμένος, ὥσπερ ἔοικα, ταινίαις τε περίστεπτος στέφεσίν τε θαλείοις· τοῖσιν ἅμ' εὖτ' ἂν ἵκωμαι ἐς ἄστεα τηλεθάοντα, ἀνδράσιν ἠδὲ γυναιξί, σεβίζομαι· οἱ δ' ἅμ' ἕπονται μυρίοι, ἐξερέοντες ὅπῃ πρὸς κέρδος ἀταρπός· οἱ μὲν μαντοσυνέων κεχρημένοι, οἱ δ' ἐπὶ νούσων παντοίων ἐπύθοντο κλύειν εὐηκέα βάξιν.",
     "author": "Empedocles",
@@ -137,9 +137,9 @@
   {
     "id": "mm-000977",
     "type": "quote",
-    "sr": "Blistavi Zevs i životodavna Hera, Aidonej i Nestida, koja suzama natapa izvor smrtnoga života.",
-    "stsl": "Свѣтлыи Зевсъ и животъодаѭшта Хера · Аидонеи и Нестида · ꙗже сльзами напаꙗєть источникъ смрьтьнаго животъа ·",
-    "originalText": "Ζεὺς ἀργὴς Ἥρη τε φερέσβιος ἠδ' Ἀϊδωνεὺς Νῆστίς θ', ἣ δακρύοις τέγγει κρούνωμα βρότειον.",
+    "sr": "Čuj najpre četiri korena svega: blistavi oganj i životodavna zemlja, vazduh i voda, koja suzama natapa izvor smrtnoga života.",
+    "stsl": "Слꙑши прьвѣе четꙑри корене вьсѣхъ · свѣтлыи огнь и животъодаѭшта землѧ · въздѹхъ и вода · ꙗже сльзами напаꙗєть источникъ смрьтьнаго животъа ·",
+    "originalText": "τέσσαρα γὰρ πάντων ῥιζώματα πρῶτον ἄκουε· Ζεὺς ἀργὴς Ἥρη τε φερέσβιος ἠδ' Ἀϊδωνεὺς Νῆστίς θ', ἣ δακρύοις τέγγει κρούνωμα βρότειον.",
     "author": "Empedocles",
     "sources": [
       {
@@ -149,20 +149,6 @@
       {
         "name": "hermann-diels",
         "reference": "B.6"
-      }
-    ]
-  },
-  {
-    "id": "mm-000978",
-    "type": "quote",
-    "sr": "Zevs je oganj, Hera zemlja, Aidonej vazduh, a Nestida voda.",
-    "stsl": "Зевсъ єсть огнь · Хера землѧ · Аидонеи въздѹхъ · Нестида же вода ·",
-    "originalText": "Δία μὲν τὸ πῦρ λέγων, Ἥρην δὲ τὴν γῆν, Ἀϊδωνέα δὲ τὸν ἀέρα, Νῆστιν δὲ τὸ ὕδωρ.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VIII.76"
       }
     ]
   },
@@ -414,7 +400,7 @@
   {
     "id": "mm-000996",
     "type": "bio",
-    "sr": "Empedoklo je raspustio oligarhijsko Veće hiljade, nagovorio Akragantince da okončaju stranačke sukobe i neguju političku jednakost, a svojim bogatstvom dao je miraz mnogim siromašnim građankama.",
+    "sr": "Empedoklo je raspustio oligarhijsko Veće tisuće, nagovorio Akragantince da okončaju stranačke sukobe i neguju političku jednakost, a svojim bogatstvom dao je miraz mnogim siromašnim građankama.",
     "stsl": "Ємпедоклъ разори олигархиискыи съвѣтъ тꙑсѧшти · Акрагантѧны ѹвѣшта междѹсобьныѩ распрѧ скончати и гражданьскѹ равьность хранити · богатъствомъ же своимъ многымъ ништимъ гражданкамъ приданоє даде ·",
     "originalText": "Ὕστερον δ' ὁ Ἐμπεδοκλῆς καὶ τὸ τῶν χιλίων ἄθροισμα κατέλυσε συνεστὸς ἐπὶ ἔτη τρία, ὥστε οὐ μόνον ἦν τῶν πλουσίων, ἀλλὰ καὶ τῶν τὰ δημοτικὰ φρονούντων. Νεάνθης δ' ὁ Κυζικηνὸς φησι Μέτωνος τελευτήσαντος τυραννίδος ἀρχὴν ὑποφύεσθαι· εἶτα τὸν Ἐμπεδοκλέα πεῖσαι τοὺς Ἀκραγαντίνους παύσασθαι μὲν τῶν στάσεων, ἰσότητα δὲ πολιτικὴν ἀσκεῖν. Ἔτι τε πολλὰς τῶν πολιτίδων ἀπροίκους ὑπαρχούσας αὐτὸν προικίσαι διὰ τὸν παρόντα πλοῦτον.",
     "author": "Empedocles",
@@ -654,9 +640,9 @@
   {
     "id": "mm-001013",
     "type": "quote",
-    "sr": "U moru krvi što na sve strane bije odgaja se ono što ljudi najviše nazivaju pojmom; jer krv oko srca jeste ljudski pojam.",
+    "sr": "U moru krvi što na sve strane bije odgaja se ono čime ljudi ponajviše poimaju; jer krv oko srca ljudima je poimanje.",
+    "stsl": "Въ мори кръве · ꙗже на вьсѧ страны биєть · питаєть сѧ єже чловѣци наипаче поимаѭть · кръвь бо около срьдьца чловѣкомъ поиманиѥ єсть ·",
     "originalText": "αἵματος ἐν πελάγεσσι τεθραμμένη ἀντιθορόντος, τῆι τε νόημα μάλιστα κικλήσκεται ἀνθρώποισιν· αἷμα γὰρ ἀνθρώποις περικάρδιόν ἐστι νόημα.",
-    "stsl": "Въ мори кръве · ꙗже на вьсѧ страны биєть · питаєть сѧ єже чловѣци наипаче поимомъ нарицаѭть · кръвь бо около срьдьца поимъ чловѣкомъ єсть ·",
     "author": "Empedocles",
     "sources": [
       {
@@ -696,7 +682,7 @@
   {
     "id": "mm-001016",
     "type": "quote",
-    "sr": "Postoji proročanstvo nužde, drevna odluka bogova, večna i zapečaćena širokim zakletvama: kad neko od božanstava okalja svoje udove krvlju i krivokletstvom sledi razdor, mora trideset hiljada godina lutati daleko od blaženih, rađajući se u svakojakim smrtnim obličjima i menjajući jedan mučan put života za drugi.",
+    "sr": "Postoji proročanstvo nužde, drevna odluka bogova, večna i zapečaćena širokim zakletvama: kad neko od božanstava okalja svoje udove krvlju i krivokletstvom sledi razdor, mora trideset tisuća godina lutati daleko od blaženih, rađajući se u svakojakim smrtnim obličjima i menjajući jedan mučan put života za drugi.",
     "originalText": "ἔστιν Ἀνάγκης χρῆμα, θεῶν ψήφισμα παλαιόν, ἀΐδιον, πλατέεσσι κατεσφρηγισμένον ὅρκοις· εὖτέ τις ἀμπλακίηισι φόνωι φίλα γυῖα μιήνηι, ‹Νείκεΐ θ’› ὅς κε ἐπίορκον ἁμαρτήσας ἐπομόσσηι, δαίμονες οἵτε μακραίωνος λελάχασι βίοιο, τρίς μιν μυρίας ὧρας ἀπὸ μακάρων ἀλάλησθαι, φυομένους παντοῖα διὰ χρόνου εἴδεα θνητῶν ἀργαλέας βιότοιο μεταλλάσσοντα κελεύθους.",
     "stsl": "Єсть пророчьство нѫждѧ · древьнѥє рѣшениє боговъ · вѣчьно и широкыми клѧтвами запечатлѣно · Єгда кто отъ божьствъ кръвиѭ ѹды своѩ оскврънить и клѧтвѹ прѣстѫпль раздорѹ послѣдѹєть · тридесѧть тꙑсѧшть лѣтъ далече отъ блаженыхъ блѫдити подобаєть · въ всѧкыхъ смрьтныхъ обличиихъ раждаѩ сѧ · и єдинъ трѹдьнъ пѫть животъа на дрѹгыи прѣмѣнѧѩ ·",
     "author": "Empedocles",
@@ -932,8 +918,8 @@
   {
     "id": "mm-001032",
     "type": "quote",
-    "sr": "Bog je sfera čiji je centar svuda, a obim nigde.",
-    "stsl": "Богъ єсть сфера · єꙗже центръ вьсꙋдѣ · окрѫжность же нигдѣже ·",
+    "sr": "Bog je lopta čiji je centar svuda, a obim nigde.",
+    "stsl": "Богъ єсть лопъта · єꙗже центръ вьсꙋдѣ · окрѫжность же нигдѣже ·",
     "originalText": "Deus est spera cuius centrum est ubique et circunferencia nusquam.",
     "la": "Deus est spera cuius centrum est ubique et circumferencia nusquam.",
     "author": "Empedocles",
@@ -1145,7 +1131,7 @@
   {
     "id": "mm-001047",
     "type": "quote",
-    "sr": "Mnogi ognjevi gore pod zemljom.",
+    "sr": "Mnogi ognji gore pod zemljom.",
     "stsl": "Мънози огни подъ землею горѧть ·",
     "originalText": "πολλὰ δ' ἔνερθε οὔδεος πυρὰ καίεται.",
     "author": "Empedocles",
@@ -1241,20 +1227,6 @@
     ]
   },
   {
-    "id": "mm-001054",
-    "type": "quote",
-    "sr": "Među zverima postaju lavovi što leže po gorama i spavaju na zemlji, a među lisnatim drvećem — lovori.",
-    "stsl": "Въ звѣрехъ льви бываѭть · иже по горахъ лежѧть и на земли спѧть · въ листвьнѣхъ же дрѣвѣхъ лаври ·",
-    "originalText": "ἐν θήρεσσι λέοντες ὀρειλεχέες χαμαιεῦναι γίγνονται, δάφναι δ’ ἐνὶ δένδρεσιν ἠυκόμοισιν.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.127"
-      }
-    ]
-  },
-  {
     "id": "mm-001056",
     "type": "quote",
     "sr": "Dok se sve sjedinjavalo, razdor stade krajnje spolja.",
@@ -1335,20 +1307,6 @@
       {
         "name": "hermann-diels",
         "reference": "B.48"
-      }
-    ]
-  },
-  {
-    "id": "mm-001063",
-    "type": "quote",
-    "sr": "Duga iz mora donosi vetar ili veliku kišu.",
-    "stsl": "Дѫга отъ морꙗ вѣтръ или великъ дъждь приносить ·",
-    "originalText": "Ἶρις δ’ ἐκ πελάγους ἄνεμον φέρει ἢ μέγαν ὄμβρον.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.50"
       }
     ]
   },
@@ -1465,24 +1423,10 @@
     ]
   },
   {
-    "id": "mm-001075",
-    "type": "quote",
-    "sr": "Tako, dakle, sve ima svoj deo daha i mirisa.",
-    "stsl": "Тако ѹбо вьсѧ своѭ чѧсть дыханиꙗ и вонѧ имѫть ·",
-    "originalText": "ὧδε μὲν οὖν πνοιῆς τε λελόγκασι πάντα καὶ ὀσμῶν.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.102"
-      }
-    ]
-  },
-  {
     "id": "mm-001076",
     "type": "quote",
-    "sr": "Ovom voljom Slučaja sve razbira.",
-    "stsl": "Сею волею Слѹчаꙗ вьсе разбираєть ·",
+    "sr": "Tako, voljom slučaja, sve razbira.",
+    "stsl": "Тако волею слѹчаꙗ вьсѧ разбираѭть ·",
     "originalText": "τῆιδε μὲν οὖν ἰότητι Τύχης πεφρόνηκεν ἅπαντα.",
     "author": "Empedocles",
     "sources": [
@@ -1503,20 +1447,6 @@
       {
         "name": "hermann-diels",
         "reference": "B.139"
-      }
-    ]
-  },
-  {
-    "id": "mm-001078",
-    "type": "quote",
-    "sr": "Sasvim se uzdržavajte od lovorovog lišća.",
-    "stsl": "Лавроваго листвиꙗ вьсѣма въздрьжите сѧ ·",
-    "originalText": ". . . δάφνης φύλλων ἄπο πάμπαν ἔχεσθαι.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.140"
       }
     ]
   },
@@ -1551,9 +1481,9 @@
   {
     "id": "mm-001081",
     "type": "quote",
-    "sr": "Ponovo ću se vratiti na put pesama koji sam ranije izložio, izvodeći jednu besedu iz druge. Kada razdor stigne do najdubljeg dna vrtloga, a ljubav se nađe usred kovitlaca, u njoj se sve ovo sastaje da bude jedno — ne odmah, nego se svojevoljno sastavlja jedno odavde, drugo odande. Dok se mešaju, izlivaju se bezbrojni rodovi smrtnih stvari; ali mnoge ostaju nepomešane, naizmenično s onima koje se mešaju, koliko ih razdor još zadržava uvis. Jer još nije sasvim odstupio od njih do krajnjih granica kruga: neki njegovi udovi ostadoše unutra, a drugi već izađoše. Koliko god je on istrčavao napred, toliko je pristupao besmrtni blagi nalet besprekorne ljubavi. Brzo je nicalo kao smrtno ono što je pre znalo biti besmrtno, a ranije čisto postajalo je pomešano, promenivši puteve. Dok su se mešali, izlivali su se nebrojeni rodovi smrtnih stvari, složeni u svakojake oblike — čudo za gledanje.",
-    "stsl": "Пакы възврашть сѧ на стьзѭ пѣснии · ѭже прѣжде изложихъ · отъ слова слово изводѧ · Єгда раздоръ до наиглѫбочаишаго дъна вихра доиде · Дрѹжьба же посредѣ крѫжениꙗ стане · въ неи вьсѧ сія съходѧть сѧ · да єдино бѫдѫть · не абиє · нъ волею ино отъсѫдѹ ино отътѫдѹ съставлѧєть сѧ · Съмѣшаѭштимъ сѧ безчисльни роди смрьтныхъ изливаѭть сѧ · многа же несъмѣшана стоѭть междѹ съмѣшаѭштими сѧ · елика Раздоръ єште на высотѣ дрьжить · Не до конца бо отъ нихъ до краиниихъ прѣдѣлъ крѫга отъстѫпи · нъ овии єго ѹди вънѫтрь осташѧ · овии же изидошѧ · Єлико онъ напрѣдъ изтѣцаше · толико бесмрьтно кротъко движениє непорочьныѩ Дрѹжьбы приближааше сѧ · Въскорѣ смрьтно раждааше сѧ · єже прѣжде бесмрьтно быти вѣдѣаше · и прѣжде чистаꙗ съмѣшана бывахѹ · пѫти прѣмѣнивъша · Съмѣшаѭштимъ сѧ безчисльни роди смрьтныхъ изливаахѹ сѧ · въ всѧкы образы съставльни · чюдо видѣти ·",
-    "originalText": "αὐτὰρ ἐγὼ παλίνορσος ἐλεύσομαι ἐς πόρον ὕμνων, τὸν πρότερον κατέλεξα, λόγου λόγον ἐξοχετεύων, κεῖνον· ἐπεὶ Νεῖκος μὲν ἐνέρτατον ἵκετο βένθος δίνης, ἐν δὲ μέσηι Φιλότης στροφάλιγγι γένηται, ἐν τῆι δὴ τάδε πάντα συνέρχεται ἓν μόνον εἶναι, οὐκ ἄφαρ, ἀλλὰ θελημὰ συνιστάμεν’ ἄλλοθεν ἄλλα. τῶν δέ τε μισγομένων χεῖτ’ ἔθνεα μυρία θνητῶν· πολλὰ δ’ ἄμεικτ’ ἔστηκε κεραιομένοισιν ἐναλλάξ, ὅσσ’ ἔτι Νεῖκος ἔρυκε μετάρσιον· οὐ γὰρ ἀμεμφέως τῶν πᾶν ἐξέστηκεν ἐπ’ ἔσχατα τέρματα κύκλου, ἀλλὰ τὰ μέν τ’ ἐνέμιμνε, μελέων τὰ δέ τ’ ἐξεβεβήκει. ὅσσον δ’ αἰὲν ὑπεκπροθέοι, τόσον αἰὲν ἐπήιει ἠπιόφρων Φιλότητος ἀμεμφέος ἄμβροτος ὁρμή· αἶψα δὲ θνήτ’ ἐφύοντο, τὰ πρὶν μάθον ἀθάνατ’ εἶναι, ζωρά τε τὰ πρίν, ἄκρητα ‹κρητά, ?› διαλλάξαντα κελεύθους. τῶν δέ τε μισγομένων χεῖτ’ ἔθνεα μυρία θνητῶν, παντοίαις ἰδέηισιν ἀρηρότα, θαῦμα ἰδέσθαι.",
+    "sr": "Kada razdor stigne do najdubljeg dna vrtloga, a ljubav se nađe usred kovitlaca, u njoj se sve ovo sastaje da bude jedno — ne odmah, nego se svojevoljno sastavlja jedno odavde, drugo odande. Dok se mešaju, izlivaju se bezbrojni rodovi smrtnih stvari; ali mnoge ostaju nepomešane, naizmenično s onima koje se mešaju, koliko ih razdor još zadržava uvis. Jer još nije sasvim odstupio od njih do krajnjih granica kruga: neki njegovi udovi ostadoše unutra, a drugi već izađoše. Koliko god je on istrčavao napred, toliko je pristupao besmrtni blagi nalet besprekorne ljubavi. Brzo je nicalo kao smrtno ono što je pre znalo biti besmrtno, a ranije čisto postajalo je pomešano, promenivši puteve. Dok su se mešali, izlivali su se nebrojeni rodovi smrtnih stvari, složeni u svakojake oblike — čudo za gledanje.",
+    "stsl": "Єгда раздоръ до наиглѫбочаишаго дъна вихра доиде · дрѹжьба же посредѣ крѫжениꙗ стане · въ неи вьсѧ сія съходѧть сѧ · да єдино бѫдѫть · не абиє · нъ волею ино отъсѫдѹ ино отътѫдѹ съставлѧєть сѧ · Съмѣшаѭштимъ сѧ безчисльни роди смрьтныхъ изливаѭть сѧ · многа же несъмѣшана стоѭть междѹ съмѣшаѭштими сѧ · елика раздоръ єште на высотѣ дрьжить · Не до конца бо отъ нихъ до краиниихъ прѣдѣлъ крѫга отъстѫпи · нъ овии єго ѹди вънѫтрь осташѧ · овии же изидошѧ · Єлико онъ напрѣдъ изтѣцаше · толико бесмрьтно кротъко движениє непорочьныѩ дрѹжьбы приближааше сѧ · Въскорѣ смрьтно раждааше сѧ · єже прѣжде бесмрьтно быти вѣдѣаше · и прѣжде чистаꙗ съмѣшана бывахѹ · пѫти прѣмѣнивъша · Съмѣшаѭштимъ сѧ безчисльни роди смрьтныхъ изливаахѹ сѧ · въ всѧкы образы съставльни · чюдо видѣти ·",
+    "originalText": "ἐπεὶ Νεῖκος μὲν ἐνέρτατον ἵκετο βένθος δίνης, ἐν δὲ μέσηι Φιλότης στροφάλιγγι γένηται, ἐν τῆι δὴ τάδε πάντα συνέρχεται ἓν μόνον εἶναι, οὐκ ἄφαρ, ἀλλὰ θελημὰ συνιστάμεν’ ἄλλοθεν ἄλλα. τῶν δέ τε μισγομένων χεῖτ’ ἔθνεα μυρία θνητῶν· πολλὰ δ’ ἄμεικτ’ ἔστηκε κεραιομένοισιν ἐναλλάξ, ὅσσ’ ἔτι Νεῖκος ἔρυκε μετάρσιον· οὐ γὰρ ἀμεμφέως τῶν πᾶν ἐξέστηκεν ἐπ’ ἔσχατα τέρματα κύκλου, ἀλλὰ τὰ μέν τ’ ἐνέμιμνε, μελέων τὰ δέ τ’ ἐξεβεβήκει. ὅσσον δ’ αἰὲν ὑπεκπροθέοι, τόσον αἰὲν ἐπήιει ἠπιόφρων Φιλότητος ἀμεμφέος ἄμβροτος ὁρμή· αἶψα δὲ θνήτ’ ἐφύοντο, τὰ πρὶν μάθον ἀθάνατ’ εἶναι, ζωρά τε τὰ πρίν, ἄκρητα ‹κρητά, ?› διαλλάξαντα κελεύθους. τῶν δέ τε μισγομένων χεῖτ’ ἔθνεα μυρία θνητῶν, παντοίαις ἰδέηισιν ἀρηρότα, θαῦμα ἰδέσθαι.",
     "author": "Empedocles",
     "sources": [
       {
@@ -1591,24 +1521,10 @@
     ]
   },
   {
-    "id": "mm-001086",
-    "type": "quote",
-    "sr": "Ako ti je ikada, besmrtna Muzo, radi nekog smrtnika bilo milo da naše brige prođu kroz tvoju misao, sada ponovo stani uz mene koji ti se molim, Kaliopo, dok objavljujem dobru besedu o blaženim bogovima.",
-    "stsl": "Аште бо когда · безсъмрьтна Мѹзо · єдинаго ради смрьтнаго благо ти бысть наша попечениꙗ мꙑслию проити · нынѣ пакы молѧштѹ ми прѣдъстани · Каллиопиꙗ · о блаженыхъ бозѣхъ благо слово ꙗвлꙗѭштѹ ·",
-    "originalText": "εἰ γὰρ ἐφημερίων ἕνεκέν τινος, ἄμβροτε Μοῦσα, ἡμετέρας μελέτας ‹ἅδε τοι› διὰ φροντίδος ἐλθεῖν, εὐχομένωι νῦν αὖτε παρίστασο, Καλλιόπεια, ἀμφὶ θεῶν μακάρων ἀγαθὸν λόγον ἐμφαίνοντι.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.131"
-      }
-    ]
-  },
-  {
     "id": "mm-001087",
     "type": "quote",
-    "sr": "Njemu dolazi i Žudnja, budeći sećanje kroz gledanje.",
-    "stsl": "Къ немѹ же и Желаниє приходить · видѣниємь памѧть възбѹждаѩ ·",
+    "sr": "Njemu dolazi i žudnja, budeći sećanje kroz gledanje.",
+    "stsl": "Къ немѹ же и желаниє приходить · видѣниємь памѧть възбѹждаѩ ·",
     "originalText": "τῶι δ’ ἐπὶ καὶ Πόθος εἶσι δι’ ὄψιος ἀμμιμνήισκων . . .",
     "author": "Empedocles",
     "sources": [
@@ -1635,8 +1551,8 @@
   {
     "id": "mm-001090",
     "type": "quote",
-    "sr": "Blagonaklona Zemlja je u prostranim kalupima primila dva od osam delova Nestidinog sjaja i četiri Hefestova; tako su nastale bele kosti, božanski spojene lepilom Sklada.",
-    "stsl": "Благоволива Землѧ въ пространьныхъ леꙗлихъ приѩтъ двѣ отъ осми чѧстии Нестидина свѣта и четꙑри Хефестовы · тако бѣлы кости бышѧ · божьствьно Складомъ съставльны ·",
+    "sr": "Blagonaklona zemlja je u prostranim kalupima primila dva od osam delova vode i četiri ognja; tako su nastale bele kosti, božanski spojene lepilom sklada.",
+    "stsl": "Благоволива землѧ въ пространьныхъ леꙗлихъ приѩтъ двѣ отъ осми чѧстии воды и четꙑри огнѧ · тако бѣлы кости бышѧ · божьствьно лѣпиломъ склада съставльны ·",
     "originalText": "ἡ δὲ χθὼν ἐπίηρος ἐν εὐστέρνοις χοάνοισι τὼ δύο τῶν ὀκτὼ μερέων λάχε Νήστιδος αἴγλης, τέσσαρα δ’ Ἡφαίστοιο· τὰ δ’ ὀστέα λευκὰ γένοντο Ἁρμονίης κόλληισιν ἀρηρότα θεσπεσίηθεν.",
     "author": "Empedocles",
     "sources": [
@@ -1649,8 +1565,8 @@
   {
     "id": "mm-001091",
     "type": "quote",
-    "sr": "Zemlja se s njima ponajviše sastavila u jednakom odnosu — s Hefestom, kišom i svesjajnim nebesjem — usidrena u savršenim Kipridinim lukama, bilo neznatno pretežući, bilo zaostajući za većom količinom; od njih su nastali krv i oblici ostalog mesa.",
-    "stsl": "Землѧ же съ ними наипаче въ равьнѣи мѣрѣ състави сѧ · съ Хефестомъ · дъждемь и вьсесвѣтьлымъ небєсьмь · въ съврьшеныхъ пристанищихъ Киприды ѹтврьждена · овогда мало прѣвъсходѧшти · овогда же множаишемѹ оскѫдѣваѭшти · Отъ сихъ кръвь и образы прочиѩ плъти бышѧ ·",
+    "sr": "Zemlja se s njima ponajviše sastavila u jednakom odnosu — s ognjem, vodom i svesjajnim nebesjem — usidrena u savršenim lukama ljubavi, bilo neznatno pretežući, bilo zaostajući za većom količinom; od njih su nastali krv i oblici ostalog mesa.",
+    "stsl": "Землѧ же съ ними наипаче въ равьнѣи мѣрѣ състави сѧ · съ огньмь · водою и вьсесвѣтьлымъ небєсьмь · въ съврьшеныхъ пристанищихъ дрѹжьбы ѹтврьждена · овогда мало прѣвъсходѧшти · овогда же множаишемѹ оскѫдѣваѭшти · Отъ сихъ кръвь и образы прочиѩ плъти бышѧ ·",
     "originalText": "ἡ δὲ Χθὼν τούτοισιν ἴση συνέκυρσε μάλιστα, Ἡφαίστῳ τ’ ὄμβρῳ τε καὶ αἰθέρι παμφανόωντι, Κύπριδος ὁρμισθεῖσα τελείοις ἐν λιμένεσσιν εἴτ’ ὀλίγον μείζων εἴτε πλεόνεσσιν ἐλάσσων· ἐκ τῶν αἷμά τε γέντο καὶ ἄλλης εἴδεα σαρκός.",
     "author": "Empedocles",
     "sources": [
@@ -1677,8 +1593,8 @@
   {
     "id": "mm-001093",
     "type": "quote",
-    "sr": "Ali, bogovi, odvratite od moga jezika njihovo bezumlje i iz svetih usta sprovedite čist izvor. I tebe molim, mnogopamteća beloruka devo Muzo: ono što je jednodnevnima dopušteno da čuju pošalji, vozeći lako upravljiva kola od Pobožnosti. Neka te cvetovi slavne časti ne prisile da ih primiš od smrtnika pod uslovom da smelo kažeš više nego što je sveto, pa da tada sediš na vrhovima mudrosti. Nego hajde, svakom moći razmotri kako je svaka stvar jasna: ne smatraj nijedan prizor pouzdanijim od onoga što se čuje, ni gromko slušanje pouzdanijim od jasnoće jezika; ne uskraćuj poverenje ni jednom drugom udu kojim postoji put ka razumevanju, nego razumi svaku stvar onako kako je jasna.",
-    "stsl": "Нъ бози · отъ ꙗзꙑка моєго сихъ безѹмиє отъвратите · и отъ свѧтыхъ ѹстъ чистъ источникъ изведите · И тѧ молѭ · многопамѧтьна белорѫка дѣво Мѹзо · ꙗже єднодьньнымъ слꙑшати по законѹ єсть · посъли · отъ Благочьстиꙗ легкоѹздьнѫ колесницѫ водѧшти · Да не понѫдѧть тѧ цвѣти славьныѩ чьсти отъ смрьтныхъ приѩти · аште паче свѧтаго дръзновеніємъ речеши · и тогда на връсѣхъ мѫдрости сѧдеши · Нъ грѧди · вьсею силою съмотрꙗи · како коꙗ вешьть ꙗвѣ єсть · Не имѣи ни єдино видѣніє вѣрьнѣє слꙑшаниꙗ · ни многозвѫчьно слꙑшаниє паче ꙗсности ꙗзꙑка · ни иномѹ ѹдѹ вѣры отъемли · имьже пѫть къ разумѣнію єсть · Нъ коꙗ вешьть како ꙗвѣ єсть · тако ѭ разумѣи ·",
+    "sr": "Ali, bogovi, odvratite od moga jezika njihovo bezumlje i iz svetih usta sprovedite čist izvor. I tebe molim, mnogopamteća beloruka devo Muzo: ono što je jednodnevnima dopušteno da čuju pošalji, vozeći lako upravljiva kola od pobožnosti. Neka te cvetovi slavne časti ne prisile da ih primiš od smrtnika pod uslovom da smelo kažeš više nego što je sveto, pa da tada sediš na vrhovima mudrosti. Nego hajde, svakom moći razmotri kako je svaka stvar jasna: ne smatraj nijedan prizor pouzdanijim od onoga što se čuje, ni gromko slušanje pouzdanijim od jasnoće jezika; ne uskraćuj poverenje ni jednom drugom udu kojim postoji put ka razumevanju, nego razumi svaku stvar onako kako je jasna.",
+    "stsl": "Нъ бози · отъ ꙗзꙑка моєго сихъ безѹмиє отъвратите · и отъ свѧтыхъ ѹстъ чистъ источникъ изведите · И тѧ молѭ · многопамѧтьна белорѫка дѣво Мѹзо · ꙗже єднодьньнымъ слꙑшати по законѹ єсть · посъли · отъ благочьстиꙗ легкоѹздьнѫ колесницѫ водѧшти · Да не понѫдѧть тѧ цвѣти славьныѩ чьсти отъ смрьтныхъ приѩти · аште паче свѧтаго дръзновеніємъ речеши · и тогда на връсѣхъ мѫдрости сѧдеши · Нъ грѧди · вьсею силою съмотрꙗи · како коꙗ вешьть ꙗвѣ єсть · Не имѣи ни єдино видѣніє вѣрьнѣє слꙑшаниꙗ · ни многозвѫчьно слꙑшаниє паче ꙗсности ꙗзꙑка · ни иномѹ ѹдѹ вѣры отъемли · имьже пѫть къ разумѣнію єсть · Нъ коꙗ вешьть како ꙗвѣ єсть · тако ѭ разумѣи ·",
     "originalText": "ἀλλὰ θεοὶ τῶν μὲν μανίην ἀποτρέψατε γλώσσης, ἐκ δ’ ὁσίων στομάτων καθαρὴν ὀχετεύσατε πηγήν· καὶ σέ, πολυμνήστη λευκώλενε παρθένε Μοῦσα, ἄντομαι, ὧν θέμις ἐστὶν ἐφημερίοισιν ἀκούειν, πέμπε παρ’ Εὐσεβίης ἐλάουσ’ εὐήνιον ἅρμα. μηδέ σέ γ’ εὐδόξοιο βιήσεται ἄνθεα τιμῆς πρὸς θνητῶν ἀνελέσθαι, ἐφ’ ὧι θ’ ὁσίης πλέον εἰπεῖν θάρσεϊ, καὶ τότε δὴ σοφίης ἐπ’ ἄκροισι θοάζειν. ἀλλ’ ἄγ’ ἄθρει πάσηι παλάμηι, πῆι δῆλον ἕκαστον, μήτε τιν’ ὄψιν ἔχων πίστει πλέον ἢ κατ’ ἀκουήν ἢ ἀκοὴν ἐρίδουπον ὑπὲρ τρανώματα γλώσσης, μήτε τι τῶν ἄλλων, ὁπόσηι πόρος ἐστὶ νοῆσαι, γυίων πίστιν ἔρυκε, νόει θ’ ἧι δῆλον ἕκαστον.",
     "author": "Empedocles",
     "sources": [
@@ -1801,20 +1717,6 @@
     ]
   },
   {
-    "id": "mm-002161",
-    "type": "quote",
-    "sr": "Tu behu zemljana i dalekooka sunčana, krvavi razdor i svečanooki sklad, lepota i rugoba, brzina i sporost, ljupka istina i crnokosa nejasnoća; rast i kopnjenje, san i buđenje, kretanje i mirovanje, mnogovenčana veličina i kaljanje, ćutanje i govorenje.",
-    "stsl": "Тѹ бѣахѫ земьнаꙗ и далекозьра слъньчьнаꙗ · кръвавъ раздоръ и свѧтозьръ складъ · красота и гръдость · бързость и косность · люба истина и чрьнокоса неꙗсность · растъ и оскѫдѣніє · сънъ и бъдѣніє · движеніє и покоі · многовѣньчана величина и скврънь · мълчаніє и глаголаніє ·",
-    "originalText": "ἔνθ᾽ ἦσαν Χθονίη τε καὶ Ἡλιόπη τανυσῶπις, Δῆρίς θ᾽ αἱματόεσσα καὶ Ἁρμονίη θεμερῶπις, Καλλιστώ τ᾽ Αἰσχρή τε, Θόωσά τε Δηναίη τε, Νημερτής τ᾽ ἐρόεσσα μελάγχουρός τ᾽ Ἀσάφεια. Φυσώ τε Φθιμένη τε, καὶ Εὐναίη καὶ Ἔγερσις, Κινώ τ᾽ Ἀστεμφής τε, πολυστέφανός τε Μεγιστώ καὶ Φορύη, Σωπή τε καὶ Ὀμφαίη.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.122–123"
-      }
-    ]
-  },
-  {
     "id": "mm-002164",
     "type": "quote",
     "sr": "Milost mrzi nesnosnu nuždu.",
@@ -1871,20 +1773,6 @@
     ]
   },
   {
-    "id": "mm-002183",
-    "type": "reported",
-    "sr": "Empedoklo je govorio da je kičma dobila svoj oblik jer se pri nastanku životinja slučajno uvila i prelomila.",
-    "stsl": "Емпедоклъ глаголааше · ꙗко хрьбьтъ свои видъ при рождении животънꙑихъ приѧтъ · слѹчаино бо врътѣвъ сѧ прѣломи сѧ ·",
-    "originalText": "Ἐμπεδοκλῆς οὐκ ὀρθῶς εἴρηκε λέγων ὑπάρχειν πολλὰ τοῖς ζῴοις διὰ τὸ συμβῆναι οὕτως ἐν τῇ γενέσει, οἷον καὶ τὴν ῥάχιν τοιαύτην ἔχειν ὅτι στραφέντος καταχθῆναι συνέβη.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.97"
-      }
-    ]
-  },
-  {
     "id": "mm-002184",
     "type": "reported",
     "sr": "Empedoklo je sluh poredio sa zvonom unutrašnjih zvukova i nazivao ga mesnatom granom.",
@@ -1909,20 +1797,6 @@
       {
         "name": "hermann-diels",
         "reference": "B.152"
-      }
-    ]
-  },
-  {
-    "id": "mm-002186",
-    "type": "reported",
-    "sr": "Prema Empedoklu, zametak se uobličava za sedam puta sedam dana.",
-    "stsl": "По Емпедоклѹ зародъ за седмь по седмь дьнии образѹєть сѧ ·",
-    "originalText": "τὸ γοῦν βρέφος δοκεῖ τελειοῦσθαι ἐν ἑπτὰ ἑβδομάσιν, ὡς Ἐμπεδοκλῆς φησιν ἐν τοῖς Καθαρμοῖς.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.153a"
       }
     ]
   },
