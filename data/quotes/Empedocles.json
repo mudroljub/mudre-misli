@@ -808,14 +808,14 @@
   {
     "id": "mm-001024",
     "type": "quote",
-    "sr": "Nećete li prestati s ovim zloslutnim ubijanjem? Zar ne vidite da jedni druge proždirete u bezumlju svojih srca?",
-    "originalText": "οὐ παύσεσθε φόνοιο δυσηχέος; οὐκ ἐσορᾶτε ἀλλήλους δάπτοντες ἀκηδείηισι νόοιο;",
-    "stsl": "Не прѣстанете ли отъ сего зълогласьнаго ѹбиєниꙗ · Не видите ли · ꙗко дрѹгъ дрѹга пожираєте въ безѹмии срьдець своихъ ·",
+    "sr": "Nećete li prestati s ovim zloslutnim ubijanjem? Zar ne vidite da jedni druge proždirete u bezumlju svojih srca? Otac podiže voljenog sina, promenjenog obličja, i kolje ga uz molitvu — velika luda! Prisutni ga mole dok žrtvuje, ali on, gluv za vapaje, zaklavši ga u domu pripravlja zlu gozbu. Tako isto sin hvata oca, a deca majku; oduzimaju im život i jedu meso svojih milih.",
+    "originalText": "οὐ παύσεσθε φόνοιο δυσηχέος; οὐκ ἐσορᾶτε ἀλλήλους δάπτοντες ἀκηδείηισι νόοιο; μορφὴν δ’ ἀλλάξαντα πατὴρ φίλον υἱὸν ἀείρας σφάζει ἐπευχόμενος μέγα νήπιος· οἱ δ’ ἐπορεῦνται λισσόμενοι θύοντας, ὁ δ’ αὖ νήκουστος ὁμοκλέων σφάξας ἐν μεγάροισι κακὴν ἀλεγύνατο δαῖτα. ὡς δ’ αὔτως πατέρ’ υἱὸς ἑλὼν καὶ μητέρα παῖδες θυμὸν ἀπορραΐσαντε φίλας κατὰ σάρκας ἔδουσιν.",
+    "stsl": "Не прѣстанете ли отъ сего зълогласьнаго ѹбиєниꙗ · Не видите ли · ꙗко дрѹгъ дрѹга пожираєте въ безѹмии срьдець своихъ · Отьць въздвигъ любимаго сына · образъ прѣмѣньша · и съ молитвою закалаєть · великыи безѹмьць · Предъстоѩштеи молѧть · онъ же глѹхъ къ възъпомъ · заклавъ въ домѹ зълѫ вечерѭ ѹготова · Такожде сынъ отьца приемлєть · и чѧда матерь · животъ имъ отъемлѭть и милыхъ плъти ꙗдѧть ·",
     "author": "Empedocles",
     "sources": [
       {
         "name": "hermann-diels",
-        "reference": "B.136"
+        "reference": "B.136–137"
       }
     ]
   },
@@ -1255,20 +1255,6 @@
     ]
   },
   {
-    "id": "mm-001055",
-    "type": "quote",
-    "sr": "Otac podiže voljenog sina, promenjenog obličja, i kolje ga uz molitvu — velika luda! Prisutni ga mole dok žrtvuje, ali on, gluv za vapaje, zaklavši ga u domu pripravlja zlu gozbu. Tako isto sin hvata oca, a deca majku; oduzimaju im život i jedu meso svojih milih.",
-    "stsl": "Отьць въздвигъ любимаго сына · образъ прѣмѣньша · и съ молитвою закалаєть · великыи безѹмьць · Предъстоѩштеи молѧть · онъ же глѹхъ къ възъпомъ · заклавъ въ домѹ зълѫ вечерѭ ѹготова · Такожде сынъ отьца приемлєть · и чѧда матерь · животъ имъ отъемлѭть и милыхъ плъти ꙗдѧть ·",
-    "originalText": "μορφὴν δ’ ἀλλάξαντα πατὴρ φίλον υἱὸν ἀείρας σφάζει ἐπευχόμενος μέγα νήπιος· οἱ δ’ ἐπορεῦνται λισσόμενοι θύοντας, ὁ δ’ αὖ νήκουστος ὁμοκλέων σφάξας ἐν μεγάροισι κακὴν ἀλεγύνατο δαῖτα. ὡς δ’ αὔτως πατέρ’ υἱὸς ἑλὼν καὶ μητέρα παῖδες θυμὸν ἀπορραΐσαντε φίλας κατὰ σάρκας ἔδουσιν.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.137"
-      }
-    ]
-  },
-  {
     "id": "mm-001056",
     "type": "quote",
     "sr": "Dok se sve sjedinjavalo, razdor stade krajnje spolja.",
@@ -1425,14 +1411,14 @@
   {
     "id": "mm-001067",
     "type": "quote",
-    "sr": "Ako ti je uverenje o ovome iole nepotpuno — kako su mešanjem vode, zemlje, nebesja i sunca nastali oblici i boje smrtnih stvari, sve koliko ih je sada rođeno, a Afrodita ih je sastavila.",
-    "stsl": "Аште ти вѣра о сихъ и мало непълъна єсть · како съмѣшениемъ воды · землѧ · небєсьꙗ и слъньца образы и цвѣти смрьтныхъ бышѧ · вьсѧ елика нынѣ родишѧ сѧ · Афродитою съставльна ·",
-    "originalText": "εἰ δέ τί σοι περὶ τῶνδε λιπόξυλος ἔπλετο πίστις, πῶς ὕδατος γαίης τε καὶ αἰθέρος ἠελίου τε κιρναμένων εἴδη τε γενοίατο χροῖά τε θνητῶν τόσσ’, ὅσα νῦν γεγάασι συναρμοσθέντ’ Ἀφροδίτηι . . .",
+    "sr": "Ako ti je uverenje o ovome iole nepotpuno — kako su mešanjem vode, zemlje, nebesja i sunca nastali oblici i boje smrtnih stvari, sve koliko ih je sada rođeno, a Afrodita ih je sastavila; kako i visoka stabla i morske ribe što na dnu leže.",
+    "stsl": "Аште ти вѣра о сихъ и мало непълъна єсть · како съмѣшениемъ воды · землѧ · небєсьꙗ и слъньца образы и цвѣти смрьтныхъ бышѧ · вьсѧ елика нынѣ родишѧ сѧ · Афродитою съставльна · како и вꙑсока дрѣвеса и морьскꙑѩ рꙑбꙑ · ꙗже на дънѣ лежѧть ·",
+    "originalText": "εἰ δέ τί σοι περὶ τῶνδε λιπόξυλος ἔπλετο πίστις, πῶς ὕδατος γαίης τε καὶ αἰθέρος ἠελίου τε κιρναμένων εἴδη τε γενοίατο χροῖά τε θνητῶν τόσσ’, ὅσα νῦν γεγάασι συναρμοσθέντ’ Ἀφροδίτηι . . . πῶς καὶ δένδρεα μακρὰ καὶ εἰνάλιοι καμασῆνες.",
     "author": "Empedocles",
     "sources": [
       {
         "name": "hermann-diels",
-        "reference": "B.71"
+        "reference": "B.71–72"
       }
     ]
   },
@@ -1985,28 +1971,14 @@
   {
     "id": "mm-002161",
     "type": "quote",
-    "sr": "Tu behu zemljana i dalekooka sunčana, krvavi razdor i svečanooki sklad, lepota i rugoba, brzina i sporost, ljupka istina i crnokosa nejasnoća.",
-    "stsl": "Тѹ бѣахѫ земьнаꙗ и далекозьра слъньчьнаꙗ · кръвавъ раздоръ и свѧтозьръ складъ · красота и гръдость · бързость и косность · люба истина и чрьнокоса неꙗсность ·",
-    "originalText": "ἔνθ᾽ ἦσαν Χθονίη τε καὶ Ἡλιόπη τανυσῶπις, Δῆρίς θ᾽ αἱματόεσσα καὶ Ἁρμονίη θεμερῶπις, Καλλιστώ τ᾽ Αἰσχρή τε, Θόωσά τε Δηναίη τε, Νημερτής τ᾽ ἐρόεσσα μελάγχουρός τ᾽ Ἀσάφεια.",
+    "sr": "Tu behu zemljana i dalekooka sunčana, krvavi razdor i svečanooki sklad, lepota i rugoba, brzina i sporost, ljupka istina i crnokosa nejasnoća; rast i kopnjenje, san i buđenje, kretanje i mirovanje, mnogovenčana veličina i kaljanje, ćutanje i govorenje.",
+    "stsl": "Тѹ бѣахѫ земьнаꙗ и далекозьра слъньчьнаꙗ · кръвавъ раздоръ и свѧтозьръ складъ · красота и гръдость · бързость и косность · люба истина и чрьнокоса неꙗсность · растъ и оскѫдѣніє · сънъ и бъдѣніє · движеніє и покоі · многовѣньчана величина и скврънь · мълчаніє и глаголаніє ·",
+    "originalText": "ἔνθ᾽ ἦσαν Χθονίη τε καὶ Ἡλιόπη τανυσῶπις, Δῆρίς θ᾽ αἱματόεσσα καὶ Ἁρμονίη θεμερῶπις, Καλλιστώ τ᾽ Αἰσχρή τε, Θόωσά τε Δηναίη τε, Νημερτής τ᾽ ἐρόεσσα μελάγχουρός τ᾽ Ἀσάφεια. Φυσώ τε Φθιμένη τε, καὶ Εὐναίη καὶ Ἔγερσις, Κινώ τ᾽ Ἀστεμφής τε, πολυστέφανός τε Μεγιστώ καὶ Φορύη, Σωπή τε καὶ Ὀμφαίη.",
     "author": "Empedocles",
     "sources": [
       {
         "name": "hermann-diels",
-        "reference": "B.122"
-      }
-    ]
-  },
-  {
-    "id": "mm-002162",
-    "type": "quote",
-    "sr": "Rast i Kopnjenje, San i Buđenje, Kretanje i Mirovanje, mnogovenčana Veličina i Kaljanje, Ćutanje i Govorenje.",
-    "stsl": "Растъ и Оскѫдѣніє · Сънъ и Бъдѣніє · Движеніє и Покоі · многовѣньчана Величина и Скврънь · Мълчаніє и Глаголаніє ·",
-    "originalText": "Φυσώ τε Φθιμένη τε, καὶ Εὐναίη καὶ Ἔγερσις, Κινώ τ᾽ Ἀστεμφής τε, πολυστέφανός τε Μεγιστώ καὶ Φορύη, Σωπή τε καὶ Ὀμφαίη.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.123"
+        "reference": "B.122–123"
       }
     ]
   },
@@ -2417,20 +2389,6 @@
     ]
   },
   {
-    "id": "mm-002192",
-    "type": "quote",
-    "sr": "Kako i visoka stabla i morske ribe što na dnu leže.",
-    "stsl": "Како и вꙑсока дрѣвеса и морьскꙑѩ рꙑбꙑ · ꙗже на дънѣ лежѧть ·",
-    "originalText": "πῶς καὶ δένδρεα μακρὰ καὶ εἰνάλιοι καμασῆνες.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.72"
-      }
-    ]
-  },
-  {
     "id": "mm-002193",
     "type": "quote",
     "sr": "S grimizom se meša bobica modre zove.",
@@ -2581,62 +2539,6 @@
       {
         "name": "hermann-diels",
         "reference": "B.19"
-      }
-    ]
-  },
-  {
-    "id": "mm-002204",
-    "type": "quote",
-    "sr": "A kada veliki razdor uzraste među udovima i uzdigne se do časti, pošto se ispuni vreme koje im je naizmenično određeno širokom zakletvom...",
-    "stsl": "Єгда же великꙑи раздоръ въ ѹдѣхъ възрастеть и къ чьсти възидеть · єгда исполнить сѧ врѣмѧ · єже имъ по чрѣдѣ пространою клѧтвою ѹречено ·",
-    "originalText": "αὐτὰρ ἐπεὶ μέγα Νεῖκος ἐνὶ μελέεσσιν ἐθρέφθη ἐς τιμάς τ᾽ ἀνόρουσε τελειομένοιο χρόνοιο, ὅς σφιν ἀμοιβαῖος πλατέος παρελήλαται ὅρκου.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.30"
-      }
-    ]
-  },
-  {
-    "id": "mm-002205",
-    "type": "quote",
-    "sr": "Tada se redom potresoše svi udovi boga.",
-    "stsl": "Тъгда по чрѣдѣ потрѧсошѧ сѧ вьси ѹди бога ·",
-    "originalText": "πάντα γὰρ ἑξείης πελεμίζετο γυῖα θεοῖο.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.31"
-      }
-    ]
-  },
-  {
-    "id": "mm-002207",
-    "type": "quote",
-    "sr": "Najzad postaju proroci, pesnici, lekari i prvaci među zemnim ljudima; odatle niču kao bogovi, čašću najviši.",
-    "stsl": "Напослѣдъкъ пророчници · пѣвьци · врачи и кнѧзи междѹ земльными чловѣкы бꙑваѭть · отътѫдѹ богове прозѧбаѭть · чьстию прѣвꙑшьнии ·",
-    "originalText": "εἰς δὲ τέλος μάντεις τε καὶ ὑμνοπόλοι καὶ ἰητροί καὶ πρόμοι ἀνθρώποισιν ἐπιχθονίοισι πέλονται, ἔνθεν ἀναβλαστοῦσι θεοὶ τιμῆισι φέριστοι.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.146"
-      }
-    ]
-  },
-  {
-    "id": "mm-002208",
-    "type": "quote",
-    "sr": "S drugim besmrtnima dele ognjište i trpezu, bez ljudskih jada, nedostupni im i neuništivi.",
-    "stsl": "Съ инѣми бесмрьтными огнище и тръпезѫ дѣлѧть · безъ чловѣчьскыхъ бѣдъ · непричѧстьни имъ и неразорими ·",
-    "originalText": "ἀθανάτοις ἄλλοισιν ὁμέστιοι, αὐτοτράπεζοι, εὖνιες ἀνδρείων ἀχέων, ἀπόκληροι, ἀτειρεῖς.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.147"
       }
     ]
   }
