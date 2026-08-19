@@ -17,3 +17,5 @@
 
 - `data\sources\INDEX_GREEK.md`: uraditi mašinski prolaz kroz __cts__.xml za Plutarha i Aristotela i dodati TLG broj uz baš svako njihovo delo.
 - parsiraj u json prevode iz `data\works` i uklopi u sajt (koristi rešenje za duge radove)
+
+001086
