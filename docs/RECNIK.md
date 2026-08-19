@@ -87,7 +87,7 @@
 | δύναμαι           | мощи                                  | moći                            |
 | δύναμις           | мощь                                  | moć                             |
 | δυνατός           | можьнъ                                | možan                           |
-| εἰδέναι           | вѣдѣти                                | vedeti *(alt. uvideti)*         |
+| εἰδέναι           | вѣдѣти                                | vedeti *(alt. uvideti, znati)*         |
 | εἴδησις           | вѣдѣниѥ                               | vedenje *(alt. uvid)*           |
 | εἶδος             | видъ                                  | vid                             |
 | εἴδωλον           | привидъ                               | privid                          |
@@ -169,7 +169,7 @@
 | νοητός            | поѩтъ                                 | pomljiv                         |
 | νόμος             | законъ                                | zakon                           |
 | νοῦς              | ѹмъ                                   | um                              |
-| οἶδα              | вѣдѣти                                | vedeti *(alt. uvideti)*         |
+| οἶδα              | вѣдѣти                                | vedeti *(alt. uvideti, znati)*         |
 | ὁμολογέω          | съсловити сѧ                          | susloviti se                    |
 | ὁμολογία          | съсловлєніє                           | suslovljenje                    |
 | ὄν / τὸ ὄν / ἐόν  | сѫщее                                 | sušto (alt: biće)               |

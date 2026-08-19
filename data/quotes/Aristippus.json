@@ -535,7 +535,7 @@
   },
   {
     "id": "mm-000288",
-    "type": "reported",
+    "type": "bio",
     "sr": "Aristip je govorio da ljudi pri kupovini proveravaju da li posuđe dobro zvoni, a život prosuđuju bez ikakvog merila.",
     "stsl": "Аристипъ глаголаше ꙗко чловѣци при кѹповании искѹшаѭть · добро ли съсѫди звѧчѧть · жизнь же безъ мѣрила сѫдѧть ·",
     "originalText": "Κατεγίνωσκε τῶν ἀνθρώπων ὡς τὰ σκεύη μὲν ἐν ταῖς ἀγορασίαις κομπούντων, τοὺς δὲ βίους εἰκῆ δοκιμαζόντων.",
@@ -773,7 +773,7 @@
   },
   {
     "id": "mm-000305",
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Aristip je umeo da se prilagodi mestu, vremenu i čoveku i da u svakoj prilici odigra odgovarajuću ulogu. Zato je kod Dionisija bio omiljeniji od drugih: svaku okolnost umeo je da okrene u svoju korist.",
     "stsl": "Аристипъ ѹмѣаше къ мѣстѹ · врѣмени и чловѣкѹ приложити сѧ и въ вьсѧкои пригодѣ подобьнꙫ роль сътворити · Сего ради Дионисии єго паче прочиихъ люблѧаше · вьсѧкѹю пригодꙫ въ свою пользꙫ обратити ѹмѣаше ·",
     "originalText": "Ἦν δὲ ἱκανὸς ἁρμόσασθαι καὶ τόπῳ καὶ χρόνῳ καὶ προσώπῳ, καὶ πᾶσαν περίστασιν ἁρμοδίως ὑποκρίνασθαι· διὸ καὶ παρὰ Διονυσίῳ τῶν ἄλλων εὐδοκίμει μᾶλλον, ἀεὶ τὸ προσπεσὸν εὖ διατιθέμενος.",
@@ -803,7 +803,7 @@
   },
   {
     "id": "mm-000307",
-    "type": "anecdote",
+    "type": "mention",
     "sr": "Ksenofont nije bio naklonjen Aristipu, pa je Sokratu pripisao besedu protiv uživanja usmerenu protiv Aristipa.",
     "stsl": "Ксенофонтъ къ Аристипѹ благоволениꙗ не имѣаше · тѣмь Сократѹ бесѣдѫ противѹ сласти и Аристипа приписа ·",
     "originalText": "Ξενοφῶν τ' εἶχε πρὸς αὐτὸν δυσμενῶς· διὸ καὶ τὸν κατὰ τῆς ἡδονῆς λόγον Σωκράτει κατ' Ἀριστίππου περιτέθεικεν.",
@@ -850,7 +850,7 @@
   },
   {
     "id": "mm-000309",
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Aristip je svojoj kćeri Areti davao najbolje savete i vežbao je da prezire suvišak. Ona je postala njegova učenica i kasnije podučavala svoga sina, Aristipa Mlađeg.",
     "stsl": "Аристипъ дъштери своєи Аретѣ наилѹчьши съвѣты давааше и ѭ ѹпражнѧаше · да излишекъ прѣзираєть · Она ѹченица єго бысть и потъомь сына своєго · Аристипа Младшаго · поѹчааше ·",
     "originalText": "Τὰ ἄριστα ὑπετίθετο τῇ θυγατρὶ Ἀρήτῃ, συνασκῶν αὐτὴν ὑπεροπτικὴν τοῦ πλείονος εἶναι.",

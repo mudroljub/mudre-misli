@@ -32,7 +32,7 @@
     "id": "mm-001921",
     "type": "bio",
     "year": -401,
-    "sr": "Cveo je četvrte godine 94. olimpijade; sa Kirom je krenuo na pohod godinu dana pre Sokratove smrti.",
+    "sr": "Cvetao je četvrte godine 94. olimpijade; sa Kirom je krenuo na pohod godinu dana pre Sokratove smrti.",
     "stsl": "Цвѣтѧше въ четвьртое лѣто 94-ꙑѩ Олѵмпиады · съ Кѵромъ же на походъ поиде единымъ лѣтомъ прѣжде Сократовꙑѩ смрьти ·",
     "originalText": "Ἤκμαζε δὲ κατὰ τὸ τέταρτον ἔτος τῆς τετάρτης καὶ ἐνενηκοστῆς Ὀλυμπιάδος, καὶ ἀναβέβηκε σὺν Κύρῳ ἑνὶ πρότερον ἔτει τῆς Σωκράτους τελευτῆς.",
     "author": "Xenophon",
@@ -104,11 +104,11 @@
   },
   {
     "id": "mm-001926",
-    "type": "reported",
+    "type": "mention",
     "sr": "Ksenofont je govorio da je Sokrat raspravljao samo o etičkim pitanjima.",
     "stsl": "Ксенофонтъ глаголаше · ꙗko Сократъ тъкмо о нравьныхъ вещехъ бесѣдоваше ·",
     "originalText": "Ξενοφῶν καίτοι περὶ μόνων τῶν ἠθικῶν ποιεῖσθαι τοὺς λόγους αὐτὸν εἰπών.",
-    "author": "Xenophon",
+    "author": ["Xenophon", "Socrates"],
     "sources": [
       {
         "name": "diogenes-laertius",
