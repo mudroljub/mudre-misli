@@ -245,10 +245,15 @@
   },
   {
     "id": "mm-001913",
-    "type": "reported",
-    "sr": "Prema predanju, Ksenofan se protivio Talesovim i Pitagorinim stavovima, a napadao je i Epimenida.",
+    "type": "mention",
+    "sr": "Prema predanju, Ksenofan se protivio Talesovim i Pitagorinim mnenjima, a korio je i Epimenida.",
     "stsl": "По прѣданиѭ · Ксенофанъ Фалесовымъ и Пѷѳагорѣискыимъ мьнѣниємъ противлѧаше сѧ · Епименида же порицаше ·",
-    "author": "Xenophanes",
+    "author": [
+      "Pythagoras",
+      "Xenophanes",
+      "Thales",
+      "Epimenides"
+    ],
     "originalText": "ἀντιδοξάσαι τε λέγεται Θαλῇ καὶ Πυθαγόρᾳ, καθάψασθαι δὲ καὶ Ἐπιμενίδου.",
     "sources": [
       {
