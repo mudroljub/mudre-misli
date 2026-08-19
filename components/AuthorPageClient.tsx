@@ -99,7 +99,7 @@ export default function AuthorPageClient({
             )}
 
             <a
-              href={`https://en.wikipedia.org/wiki/${authorData.wikipediaSlug ?? author.replace(/ /g, "_")}`}
+              href={`https://en.wikipedia.org/wiki/${author.replace(/ /g, "_")}`}
               target="_blank"
               rel="noopener noreferrer"
               className={styles.subtleLink}

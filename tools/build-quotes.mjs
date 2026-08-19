@@ -76,13 +76,11 @@ for (const file of files) {
 
     if (commonAuthors.length === 1) {
       const owner = commonAuthors[0]
-      const expectedBasename = authorRegistry[owner]?.wikipediaSlug
-        ?.replaceAll('_', ' ') ?? owner
       const actualBasename = path.basename(file, '.json')
 
-      if (actualBasename !== expectedBasename) {
+      if (actualBasename !== owner) {
         throw new Error(
-          `${file} must be named "${expectedBasename}.json" ` +
+          `${file} must be named "${owner}.json" ` +
           `(English Wikipedia title for project author "${owner}")`,
         )
       }
