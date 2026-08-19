@@ -1843,20 +1843,6 @@
     ]
   },
   {
-    "id": "mm-001098",
-    "type": "quote",
-    "sr": "Od njih je božanska Afrodita učvrstila neumorne oči.",
-    "stsl": "Отъ сихъ божьствьнаꙗ Афродита неѹтомьны очи ѹтврьди ·",
-    "originalText": "ἐξ ὧν ὄμματ’ ἔπηξεν ἀτειρέα δῖ’ Ἀφροδίτη.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.86"
-      }
-    ]
-  },
-  {
     "id": "mm-001099",
     "type": "quote",
     "sr": "Sakrij pouke u nemoj nutrini uma.",
@@ -1871,48 +1857,6 @@
     ]
   },
   {
-    "id": "mm-001100",
-    "type": "quote",
-    "sr": "Drveće cveta vazda lisnato i vazda plodno, obiljem plodova tokom cele godine.",
-    "stsl": "Дрѣвеса цвьтѫть приснолистна и присноплодна · обилиємь плодовъ по вьсемѹ лѣтѹ ·",
-    "originalText": "‹δένδρεα δ’› ἐμπεδόφυλλα καὶ ἐμπεδόκαρπα τέθηλεν καρπῶν ἀφθονίηισι κατ’ ἠέρα πάντ’ ἐνιαυτόν.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.77–78"
-      }
-    ]
-  },
-  {
-    "id": "mm-001101",
-    "type": "quote",
-    "sr": "Zglob vezuje dve stvari.",
-    "stsl": "Съставъ двѣ вещи свѧзѹєть ·",
-    "originalText": "δύω δέει ἄρθμιον.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.32"
-      }
-    ]
-  },
-  {
-    "id": "mm-001102",
-    "type": "quote",
-    "sr": "Blagi plamen slučajno se susreo s malo zemlje.",
-    "stsl": "Кротъкъ пламень съ малою землею сълѹчи сѧ ·",
-    "originalText": "ἡ δὲ φλὸξ ἱλάειρα μινυνθαδίης τύχε γαίης.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.85"
-      }
-    ]
-  },
-  {
     "id": "mm-001103",
     "type": "quote",
     "sr": "Voda se radije spaja s vinom, ali s uljem neće.",
@@ -1923,20 +1867,6 @@
       {
         "name": "hermann-diels",
         "reference": "B.91"
-      }
-    ]
-  },
-  {
-    "id": "mm-001104",
-    "type": "quote",
-    "sr": "I samo u onoj meri u kojoj su se najređe stvari pri padu slučajno sastale.",
-    "stsl": "И тъкмо по елицѣ разрѣжьнѣишаꙗ падаѭшти сълѹчиша сѧ ·",
-    "originalText": "καὶ καθ’ ὅσον μὲν ἀραιότατα ξυνέκυρσε πεσόντα.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.104"
       }
     ]
   },
@@ -1983,114 +1913,16 @@
     ]
   },
   {
-    "id": "mm-002163",
-    "type": "quote",
-    "sr": "Zaodevajući tuđom rizom mesa.",
-    "stsl": "Чѹждею ризою плъти одѣваѭшти ·",
-    "originalText": "σαρκῶν ἀλλογνῶτι περιστέλλουσα χιτῶνι.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.126"
-      }
-    ]
-  },
-  {
     "id": "mm-002164",
     "type": "quote",
-    "sr": "Milost mrzi nesnosnu Nuždu.",
-    "stsl": "Милость ненавидить нетръпимѫ Нѫждѫ ·",
+    "sr": "Milost mrzi nesnosnu nuždu.",
+    "stsl": "Милость ненавидить нетръпимѫ нѫждѫ ·",
     "originalText": "στυγέει δύστλητον Ἀνάγκην.",
     "author": "Empedocles",
     "sources": [
       {
         "name": "hermann-diels",
         "reference": "B.116"
-      }
-    ]
-  },
-  {
-    "id": "mm-002165",
-    "type": "quote",
-    "sr": "Dođosmo pod ovu natkrivenu pećinu.",
-    "stsl": "Пріидохомъ подъ сѫ пещерѫ покрытѫ ·",
-    "originalText": "ἠλύθομεν τόδ᾽ ὑπ᾽ ἄντρον ὑπόστεγον.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.120"
-      }
-    ]
-  },
-  {
-    "id": "mm-002166",
-    "type": "quote",
-    "sr": "Kao kada smokvin sok zgruša i sveže belo mleko.",
-    "stsl": "Ꙗкоже сокъ смоковьнъ бѣло млѣко сгѫститъ и свѧжеть ·",
-    "originalText": "ὡς δ᾽ ὅτ᾽ ὀπὸς γάλα λευκὸν ἐγόμφωσεν καὶ ἔδησε.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.33"
-      }
-    ]
-  },
-  {
-    "id": "mm-002167",
-    "type": "quote",
-    "sr": "Brašno vodom slepivši.",
-    "stsl": "Мѫкѫ водою слѣпивъ ·",
-    "originalText": "ἄλφιτον ὕδατι κολλήσας.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.34"
-      }
-    ]
-  },
-  {
-    "id": "mm-002168",
-    "type": "quote",
-    "sr": "Kao kada zrak udari široki Mesečev krug.",
-    "stsl": "Ꙗкоже лѹчь широкъ Мѣсѧчьнъ крѫгъ ѹдарить ·",
-    "originalText": "ὡς αὐγὴ τύψασα σεληναίης κύκλον εὐρύν.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.43"
-      }
-    ]
-  },
-  {
-    "id": "mm-002169",
-    "type": "quote",
-    "sr": "Usamljene, slepooke Noći.",
-    "stsl": "Єдинꙑѩ · слѣпоокꙑѩ Ношти ·",
-    "originalText": "νυκτὸς ἐρημαίης ἀλαώπιδος.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.49"
-      }
-    ]
-  },
-  {
-    "id": "mm-002170",
-    "type": "quote",
-    "sr": "Vukunoga, bezbrojnih ruku.",
-    "stsl": "Влачѧштеногъ · бесчьтънорѫкъ ·",
-    "originalText": "εἱλίποδ᾽ ἀκριτόχειρα.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.60"
       }
     ]
   },
@@ -2109,76 +1941,6 @@
     ]
   },
   {
-    "id": "mm-002172",
-    "type": "quote",
-    "sr": "U rascepljene Kipridine livade.",
-    "stsl": "Въ расцѣпленꙑѩ Кипридинꙑ лѫкꙑ ·",
-    "originalText": "εἰς σχιστοὺς λειμῶνας Ἀφροδίτης.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.66"
-      }
-    ]
-  },
-  {
-    "id": "mm-002173",
-    "type": "quote",
-    "sr": "Vodeći nemi rod mnogoplodnih riba.",
-    "stsl": "Нѣмъ родъ многоплодьнꙑихъ рꙑбъ ведѫшти ·",
-    "originalText": "φῦλον ἄμουσον ἄγουσα πολυσπερέων καμασήνων.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.74"
-      }
-    ]
-  },
-  {
-    "id": "mm-002174",
-    "type": "quote",
-    "sr": "Tako je u teškoleđim školjkama morskih stanovnika, u kamenokožnih puževa i kornjača: tu ćeš videti zemlju kako prebiva na samoj površini kože.",
-    "stsl": "Тако въ тѧжькохрьбьтънꙑихъ сколѹпахъ морьскꙑихъ житель · въ каменокожьнꙑихъ пѹжевъ и желвии · тѹ ѹзьриши землѭ на връсѣ коже прѣбꙑваѭштѫ ·",
-    "originalText": "τοῦτο μὲν ἐν κόγχαισι θαλασσονόμων βαρυνώτοις, ναὶ μὴν κηρύκων τε λιθορρίνων χελυνῶν τε· ἔνθ᾽ ὄψει χθόνα χρωτὸς ὑπέρτατα ναιετάουσαν.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.76"
-      }
-    ]
-  },
-  {
-    "id": "mm-002175",
-    "type": "quote",
-    "sr": "Narovi kasno rađaju, a jabuke bujno cvetaju.",
-    "stsl": "Шипъци поздѣ раждаѭть · ꙗблъка же обильно цвьтѫть ·",
-    "originalText": "οὕνεκεν ὀψίγονοι τε σίδαι καὶ ὑπέρφλοια μῆλα.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.80"
-      }
-    ]
-  },
-  {
-    "id": "mm-002176",
-    "type": "quote",
-    "sr": "Kiprida ih učvrsti klinovima ljubavi.",
-    "stsl": "Киприда ѩ клинꙑ любъве ѹтврьди ·",
-    "originalText": "γόμφοις ἀσκήσασα καταστόργοις Ἀφροδίτη.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.87"
-      }
-    ]
-  },
-  {
     "id": "mm-002177",
     "type": "quote",
     "sr": "Crnilo na dnu reke nastaje od senke; isto se vidi u pećinama punim udubljenja.",
@@ -2189,48 +1951,6 @@
       {
         "name": "hermann-diels",
         "reference": "B.94"
-      }
-    ]
-  },
-  {
-    "id": "mm-002178",
-    "type": "quote",
-    "sr": "Njuškama tražeći ostatke zverskih udova i dah koji njihove noge ostaviše na nežnoj travi.",
-    "stsl": "Ноздрьма испꙑтаѭште останъкꙑ звѣринꙑихъ ѹдовъ и дъхъ · єгоже ногꙑ ихъ на мѧкцѣ травѣ оставишѧ ·",
-    "originalText": "κέρματα θηρείων μελέων μυκτῆρσιν ἐρευνῶν, πνεύματά θ᾽ ὅσσ᾽ ἀπέλειπε ποδῶν ἁπαλῇ περὶ ποίῃ.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.101"
-      }
-    ]
-  },
-  {
-    "id": "mm-002179",
-    "type": "quote",
-    "sr": "Od pet izvora zahvativši u neistrošivoj medi.",
-    "stsl": "Отъ пѧти источникъ почръпъ въ нетлѣньнѣи мѣди ·",
-    "originalText": "κρηνάων ἄπο πέντε ταμόντ᾽ ἐν ἀτειρέι χαλκῷ.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.143"
-      }
-    ]
-  },
-  {
-    "id": "mm-002180",
-    "type": "quote",
-    "sr": "A on, sabran, obilazi veliko nebo.",
-    "stsl": "Онъ же · събранъ · велико небо обходитъ ·",
-    "originalText": "ἀλλ᾽ ὁ μὲν ἁλισθεὶς μέγαν οὐρανὸν ἀμφιπολεύει.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.41"
       }
     ]
   },
@@ -2361,62 +2081,6 @@
     ]
   },
   {
-    "id": "mm-002190",
-    "type": "reported",
-    "sr": "Empedoklo je žene nazivao dvostrukorotkama, prema dvama rokovima rađanja.",
-    "stsl": "Емпедоклъ женꙑ двоєродицами нарицааше · по двѣма срокома рождениꙗ ·",
-    "originalText": "Ἐμπεδοκλῆς οἶδεν τὸν διπλοῦν τῶν γεννήσεων χρόνον· διὸ καὶ τὰς γυναῖκας καλεῖ διγόνους.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.69"
-      }
-    ]
-  },
-  {
-    "id": "mm-002191",
-    "type": "reported",
-    "sr": "Empedoklo je tanku i meku opnu oko zametka nazivao jagnjećom kožom.",
-    "stsl": "Емпедоклъ тънъкѫ и мѧкъкѫ кожицѫ около зарода агньчьскою кожею нарицааше ·",
-    "originalText": "τὸ δὲ βρέφος περιέχεται χιτῶσι, τῷ μὲν λεπτῷ καὶ μαλακῷ· ἀμνίον αὐτὸν Ἐμπεδοκλῆς καλεῖ.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.70"
-      }
-    ]
-  },
-  {
-    "id": "mm-002193",
-    "type": "quote",
-    "sr": "S grimizom se meša bobica modre zove.",
-    "stsl": "Съ багръцемъ смѣшаєть сѧ ꙗгода синѥѩ бъзинꙑ ·",
-    "originalText": "βύσσῳ δὲ γλαυκῆς κόκκος καταμίσγεται ἀκτῆς.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.93"
-      }
-    ]
-  },
-  {
-    "id": "mm-002194",
-    "type": "quote",
-    "sr": "Dušu zahvativši mednim sečivom.",
-    "stsl": "Дѹшѫ мѣдьнꙑмь остріємь почръпъ ·",
-    "originalText": "χαλκῷ ἀπὸ ψυχὴν ἀρύσας.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.138"
-      }
-    ]
-  },
-  {
     "id": "mm-002195",
     "type": "reported",
     "sr": "Empedoklo je telo nazivao zemljom koja okružuje smrtnike.",
@@ -2445,48 +2109,6 @@
     ]
   },
   {
-    "id": "mm-002197",
-    "type": "reported",
-    "sr": "Empedoklo je jetru nazivao mnogokrvnom.",
-    "stsl": "Емпедоклъ ѩтрѫ многокръвьною нарицааше ·",
-    "originalText": "πολύαιματον ἧπαρ.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.150"
-      }
-    ]
-  },
-  {
-    "id": "mm-002198",
-    "type": "reported",
-    "sr": "Empedoklo je Afroditu nazivao životodavnom.",
-    "stsl": "Емпедоклъ Афродитѫ животодавьною нарицааше ·",
-    "originalText": "ζείδωρον γὰρ αὐτὴν Ἐμπεδοκλῆς ὠνόμασεν.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.151"
-      }
-    ]
-  },
-  {
-    "id": "mm-002199",
-    "type": "reported",
-    "sr": "Kod Empedokla Baubo znači trbuh.",
-    "stsl": "Оу Емпедокла Бавбо ѫтробѫ знаменаєть ·",
-    "originalText": "βαυβώ· σημαίνει δὲ καὶ κοιλίαν ὡς παρ᾽ Ἐμπεδοκλεῖ.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.153"
-      }
-    ]
-  },
-  {
     "id": "mm-002200",
     "type": "reported",
     "sr": "Empedoklo je počela nazivao nerođenim.",
@@ -2501,24 +2123,10 @@
     ]
   },
   {
-    "id": "mm-002201",
-    "type": "quote",
-    "sr": "Osvetna smrt.",
-    "stsl": "Мьстива смрьть ·",
-    "originalText": "θάνατον ἀλοίτην.",
-    "author": "Empedocles",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "B.10"
-      }
-    ]
-  },
-  {
     "id": "mm-002202",
     "type": "reported",
-    "sr": "Empedoklo je dobrotvorno počelo nazivao ljubavlju, prijateljstvom i skladom.",
-    "stsl": "Емпедоклъ добро творѧштеє начѧло любовию · дрѹжьствомъ и складомъ нарицааше ·",
+    "sr": "Empedokle pak dobrodelatno načelo često naziva ljubavlju i družbom, a još i skladom.",
+    "stsl": "Ємпедоклъ же благодѣтельноє начѧло чѧсто любꙑ и дрѹжьбою нарицаєть · єште же и складомъ ·",
     "originalText": "Ἐμπεδοκλῆς δὲ τὴν μὲν ἀγαθουργὸν ἀρχὴν Φιλότητα καὶ Φιλίαν πολλάκις, ἔτι δ᾽ Ἁρμονίαν καλεῖ.",
     "author": "Empedocles",
     "sources": [
@@ -2531,8 +2139,8 @@
   {
     "id": "mm-002203",
     "type": "reported",
-    "sr": "Empedoklo je vodu nazivao vežućom ljubavlju.",
-    "stsl": "Емпедоклъ водѫ вѧжѫштею любовию нарицааше ·",
+    "sr": "Vlagu svagda nazivaše sjedinjujućom ljubavlju.",
+    "stsl": "Влагѫ присно сълѫчаѭштеѭ любꙑ нарицаше ·",
     "originalText": "σχεδύνην Φιλότητα τὸ ὑγρὸν ἑκάστοτε προσαγορεύων.",
     "author": "Empedocles",
     "sources": [
