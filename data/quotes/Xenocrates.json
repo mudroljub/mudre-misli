@@ -106,7 +106,7 @@
   },
   {
     "id": "mm-001879",
-    "type": "bio",
+    "type": "works",
     "year": -320,
     "sr": "Ostavio je mnoštvo spisa, pesama i pouka.",
     "stsl": "Множьство писъ · пѣсьнъ и поѹчениихъ остави ·",
@@ -151,8 +151,7 @@
   },
   {
     "id": "mm-001882",
-    "type": "anecdote",
-    "year": -340,
+    "type": "reported",
     "sr": "Kada mu se Bion podsmevao, Ksenokrat nije hteo da odgovori: ni tragedija, reče, ne udostojava odgovorom podsmeh komedije.",
     "stsl": "Єгда ємѹ Бионъ рѫгааше сѧ · Ксенократъ не въсхотѣ отъвѣштати · Ни трагедіѧ бо · рече · порѹганиє комедіѩ отъвѣта сподоблѧєть ·",
     "originalText": "Σκωπτόμενος ὑπὸ Βίωνος οὐκ ἔφη αὐτῷ ἀποκρινεῖσθαι· μηδὲ γὰρ τὴν τραγῳδίαν ὑπὸ τῆς κωμῳδίας σκωπτομένην ἀποκρίσεως ἀξιοῦν.",
@@ -166,10 +165,10 @@
   },
   {
     "id": "mm-001883",
-    "type": "quote",
-    "sr": "Idi svojim putem, jer filozofiji ne pružaš ništa za šta bi mogla da se uhvati.",
-    "stsl": "Иди своимь пѫтемь · зане любомѫдрию ничьтоже подаеши · за неже бы сѧ ѹхватило ·",
-    "originalText": "Πορεύου· λαβὰς γὰρ οὐκ ἔχεις φιλοσοφίας.",
+    "type": "reported",
+    "sr": "Čoveku koji nije učio ni muziku, ni geometriju, ni astronomiju, a hteo je kod njega učiti, Xenokrat reče: Idi svojim putem, jer nemaš hvatišta za filozofiju.",
+    "stsl": "Чловѣкѹ · иже ни мѹсикиѭ · ни землемѣриѥ · ни звѣздозакониѥ не ѹчи · хотѧштѹ же ѹ него ѹчити сѧ · Ксенократъ рече · Иди своимь пѫтемь · не имаши бо хватилищь любомѫдриꙗ ·",
+    "originalText": "Πρὸς δὲ τὸν μήτε μουσικὴν μήτε γεωμετρικὴν μήτε ἀστρονομίαν μεμαθηκότα, βουλόμενον δὲ παρ' αὐτὸν φοιτᾶν, «Πορεύου,» ἔφη· «λαβὰς γὰρ οὐκ ἔχεις φιλοσοφίας.»",
     "author": "Xenocrates",
     "sources": [
       {
@@ -193,20 +192,21 @@
       }
     ]
   },
-  {
-    "id": "mm-001885",
-    "type": "quote",
-    "sr": "Filip je znao da su ostali primili mito, ali mene nikada ne bi pridobio.",
-    "stsl": "Филиппъ вѣдѣ · ꙗко прочиꙗ даръ пріѧша · мене же николиже бы привлече ·",
-    "originalText": "τοὺς μὲν γὰρ ᾔδει δωροδοκήσαντας ὁ Φίλιππος, ἐμὲ δὲ μηδενὶ λόγῳ ὑπαξόμενος.",
-    "author": "Xenocrates",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IV.9"
-      }
-    ]
-  },
+ {
+  "id": "mm-001885",
+  "type": "anecdote",
+  "year": -337,
+  "sr": "Kada ostali poslanici rekoše da je Xenokrat uzalud išao s njima Filipu, Xenokrat odgovori: Filip je znao da je ostale podmitio, ali mene nikako ne bi mogao pridobiti.",
+  "stsl": "Єгда прочии посъли рекошѧ · ꙗко Ксенократъ въсѹѥ съ ними къ Филиппѹ ходи · Ксенократъ отъвѣшта · Филиппъ вѣдѣ · ꙗко прочиѧ даръ приѧша · мене же никоимь словомь не бы привлече ·",
+  "originalText": "ὅθεν ἐλθόντας τοὺς πρέσβεις εἰς τὰς Ἀθήνας φάσκειν ὡς μάτην αὐτοῖς Ξενοκράτης συνεληλύθοι· καὶ τοὺς ἑτοίμους εἶναι ζημιοῦν αὐτόν. μαθόντας δὲ παρ' αὐτοῦ ὡς νῦν καὶ μᾶλλον φροντιστέον εἴη τῆς πόλεως αὐτοῖς (τοὺς μὲν γὰρ ᾔδει δωροδοκήσαντας ὁ Φίλιππος, ἐμὲ δὲ μηδενὶ λόγῳ ὑπαξόμενος) φασὶ διπλασίως αὐτὸν τιμῆσαι.",
+  "author": "Xenocrates",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "IV.9"
+    }
+  ]
+},
   {
     "id": "mm-001886",
     "type": "anecdote",
@@ -284,7 +284,7 @@
   },
   {
     "id": "mm-001891",
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Kada nije mogao da plati dažbinu meteka, Atinjani su ga prodali, ali ga je Demetrije Falerski otkupio i vratio mu slobodu.",
     "stsl": "Єгда даждьбы метека заплатити не можаше · Атинѧне єго продаша · нъ Деметріи Фалерьскыи искѹпи и свободѹ ємѹ възврати ·",
     "originalText": "Ἀθηναῖοι δ' ὅμως αὐτὸν ὄντα τοιοῦτον ἐπίπρασκόν ποτε, τὸ μετοίκιον ἀτονοῦντα θεῖναι. Καὶ αὐτὸν ὠνεῖται Δημήτριος ὁ Φαληρεὺς καὶ ἑκάτερον ἀποκατέστησε· Ξενοκράτει μὲν τὴν ἐλευθερίαν, Ἀθηναίοις δὲ τὸ μετοίκιον.",
@@ -314,7 +314,7 @@
   },
   {
     "id": "mm-001893",
-    "type": "anecdote",
+    "type": "bio",
     "year": -322,
     "sr": "Nije prihvatio dar koji mu je poslao Antipatar.",
     "stsl": "Дара · иже ємѹ Антипатръ посла · не приѧть ·",

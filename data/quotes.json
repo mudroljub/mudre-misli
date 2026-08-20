@@ -29284,23 +29284,6 @@
   },
   {
     "_id": 1933,
-    "id": "mm-001882",
-    "type": "anecdote",
-    "year": -340,
-    "sr": "Kada mu se Bion podsmevao, Ksenokrat nije hteo da odgovori: ni tragedija, reče, ne udostojava odgovorom podsmeh komedije.",
-    "stsl": "Єгда ємѹ Бионъ рѫгааше сѧ · Ксенократъ не въсхотѣ отъвѣштати · Ни трагедіѧ бо · рече · порѹганиє комедіѩ отъвѣта сподоблѧєть ·",
-    "originalText": "Σκωπτόμενος ὑπὸ Βίωνος οὐκ ἔφη αὐτῷ ἀποκρινεῖσθαι· μηδὲ γὰρ τὴν τραγῳδίαν ὑπὸ τῆς κωμῳδίας σκωπτομένην ἀποκρίσεως ἀξιοῦν.",
-    "author": "Xenocrates",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IV.10"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.10"
-  },
-  {
-    "_id": 1934,
     "id": "mm-001894",
     "type": "bio",
     "year": -340,
@@ -29317,7 +29300,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.8"
   },
   {
-    "_id": 1935,
+    "_id": 1934,
     "id": "mm-001877",
     "type": "bio",
     "year": -339,
@@ -29368,7 +29351,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.43"
   },
   {
-    "_id": 1936,
+    "_id": 1935,
     "id": "mm-001889",
     "type": "bio",
     "sr": "U poslanstvu Filipu nije primao mito niti išao na gozbe, pa je baš zbog toga bio jedini koji je ostao nepotkupljiv.",
@@ -29383,6 +29366,23 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.8"
+  },
+  {
+    "_id": 366,
+    "id": "mm-000367",
+    "type": "anecdote",
+    "sr": "Predanje kaže da je za tu istu parnicu prvi sastavio odbrambeni sudski govor napisan u svoje ime.",
+    "stsl": "Прѣданіє глаголєть · ꙗко къ томѹ же сѫдѹ пьрвыи самъ себѣ писанѹ защитьнѫ рѣчь съчини ·",
+    "author": "Aristotle",
+    "year": -337,
+    "originalText": "Πρῶτόν τε λόγον ἀπολογίας γράψαι ἑαυτῷ ἐν δικαστηρίῳ μέλλοντι χρήσασθαι.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.9"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.9"
   },
   {
     "_id": 1715,
@@ -29586,23 +29586,6 @@
     ]
   },
   {
-    "_id": 366,
-    "id": "mm-000367",
-    "type": "anecdote",
-    "sr": "Predanje kaže da je za tu istu parnicu prvi sastavio odbrambeni sudski govor napisan u svoje ime.",
-    "stsl": "Прѣданіє глаголєть · ꙗко къ томѹ же сѫдѹ пьрвыи самъ себѣ писанѹ защитьнѫ рѣчь съчини ·",
-    "author": "Aristotle",
-    "year": -337,
-    "originalText": "Πρῶτόν τε λόγον ἀπολογίας γράψαι ἑαυτῷ ἐν δικαστηρίῳ μέλλοντι χρήσασθαι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.9"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.9"
-  },
-  {
     "_id": 838,
     "id": "mm-000837",
     "type": "anecdote",
@@ -29618,6 +29601,23 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.32"
+  },
+  {
+    "_id": 1936,
+    "id": "mm-001885",
+    "type": "anecdote",
+    "year": -337,
+    "sr": "Kada ostali poslanici rekoše da je Xenokrat uzalud išao s njima Filipu, Xenokrat odgovori: Filip je znao da je ostale podmitio, ali mene nikako ne bi mogao pridobiti.",
+    "stsl": "Єгда прочии посъли рекошѧ · ꙗко Ксенократъ въсѹѥ съ ними къ Филиппѹ ходи · Ксенократъ отъвѣшта · Филиппъ вѣдѣ · ꙗко прочиѧ даръ приѧша · мене же никоимь словомь не бы привлече ·",
+    "originalText": "ὅθεν ἐλθόντας τοὺς πρέσβεις εἰς τὰς Ἀθήνας φάσκειν ὡς μάτην αὐτοῖς Ξενοκράτης συνεληλύθοι· καὶ τοὺς ἑτοίμους εἶναι ζημιοῦν αὐτόν. μαθόντας δὲ παρ' αὐτοῦ ὡς νῦν καὶ μᾶλλον φροντιστέον εἴη τῆς πόλεως αὐτοῖς (τοὺς μὲν γὰρ ᾔδει δωροδοκήσαντας ὁ Φίλιππος, ἐμὲ δὲ μηδενὶ λόγῳ ὑπαξόμενος) φασὶ διπλασίως αὐτὸν τιμῆσαι.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.9"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.9"
   },
   {
     "_id": 839,
@@ -31269,7 +31269,7 @@
   {
     "_id": 1940,
     "id": "mm-001893",
-    "type": "anecdote",
+    "type": "bio",
     "year": -322,
     "sr": "Nije prihvatio dar koji mu je poslao Antipatar.",
     "stsl": "Дара · иже ємѹ Антипатръ посла · не приѧть ·",
@@ -31635,26 +31635,9 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.26"
   },
   {
-    "_id": 1941,
-    "id": "mm-001879",
-    "type": "bio",
-    "year": -320,
-    "sr": "Ostavio je mnoštvo spisa, pesama i pouka.",
-    "stsl": "Множьство писъ · пѣсьнъ и поѹчениихъ остави ·",
-    "originalText": "Καὶ πλεῖστα ὅσα καταλέλοιπε συγγράμματα καὶ ἔπη καὶ παραινέσεις.",
-    "author": "Xenocrates",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IV.11"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.11"
-  },
-  {
     "_id": 1946,
     "id": "mm-001891",
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Kada nije mogao da plati dažbinu meteka, Atinjani su ga prodali, ali ga je Demetrije Falerski otkupio i vratio mu slobodu.",
     "stsl": "Єгда даждьбы метека заплатити не можаше · Атинѧне єго продаша · нъ Деметріи Фалерьскыи искѹпи и свободѹ ємѹ възврати ·",
     "originalText": "Ἀθηναῖοι δ' ὅμως αὐτὸν ὄντα τοιοῦτον ἐπίπρασκόν ποτε, τὸ μετοίκιον ἀτονοῦντα θεῖναι. Καὶ αὐτὸν ὠνεῖται Δημήτριος ὁ Φαληρεὺς καὶ ἑκάτερον ἀποκατέστησε· Ξενοκράτει μὲν τὴν ἐλευθερίαν, Ἀθηναίοις δὲ τὸ μετοίκιον.",
@@ -31720,6 +31703,23 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.131"
   },
   {
+    "_id": 1384,
+    "id": "mm-001326",
+    "type": "anecdote",
+    "year": -315,
+    "sr": "Jednom prilikom, vežbajući govor, usred izlaganja je ispustio vetar, te je od stida ostao zaključan kod kuće, nameravajući da se izgladni. Kratet je saznao za to, došao je kod njega po pozivu i, pošto je namerno jeo bob, uveravao ga da nije učinio ništa loše; bilo bi čudo da nije ispuštao vetrove prema prirodi. Konačno je i sam ispustio vetar i ohrabrio ga, utešivši ga sličnošću postupka. Od tada je slušao Krata i postao sposoban u filozofiji.",
+    "stsl": "Єдиноѭ прілікоѭ вєжбаꙗ говоръ · нєчѹино испѹсти вѣтръ тѣмьже отъ срама оста заключєнъ дома · намѣравлꙗꙗ да сѧ ізгладни · Кратєтъ вѣдѣ то · прііде къ нємѹ · нарочито снѣдъ вовъ · ѹвѣрꙗваашє го словєсꙑ ꙗко нє ѹчини ничтоже зло · чѹдо бо би било ащє нє испѹщашє вѣтрꙑ по єстьствѹ · Наконьць испѹщаꙗ самъ вѣтръ · ѹкрѣпи го · ѹтѣшивъ подобіємь дѣла · Отъ тогда слѹшааше Крата и быстъ способьнъ въ любомѫдріи.",
+    "originalText": "τοσοῦτον διέφθαρτο ὥστε ποτὲ μελετῶν καὶ μεταξύ πως ἀποπαρδὼν ὑπ' ἀθυμίας οἴκοι κατάκλειστος ἦν, ἀποκαρτερεῖν βουλόμενος. Μαθὼν δὴ ὁ Κράτης εἰσῆλθε πρὸς αὐτὸν παρακληθεὶς καὶ θέρμους ἐπίτηδες βεβρωκὼς ἔπειθε μὲν αὐτὸν καὶ διὰ τῶν λόγων μηδὲν φαῦλον πεποιηκέναι· τέρας γὰρ ἂν γεγονέναι εἰ μὴ καὶ τὰ πνεύματα κατὰ φύσιν ἀπεκρίνετο· τέλος δὲ καὶ ἀποπαρδὼν ἀνέρρωσεν αὐτόν, ἀφ' ὁμοιότητος τῶν ἔργων παραμυθησάμενος. Τοὐντεῦθεν ἤκουεν αὐτοῦ καὶ ἐγένετο ἀνὴρ ἱκανὸς ἐν φιλοσοφίᾳ.",
+    "author": "Metrocles",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.94"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.94"
+  },
+  {
     "_id": 1853,
     "id": "mm-001802",
     "type": "reported",
@@ -31740,21 +31740,21 @@
     ]
   },
   {
-    "_id": 1384,
-    "id": "mm-001326",
-    "type": "anecdote",
+    "_id": 1394,
+    "id": "mm-001334",
+    "type": "bio",
     "year": -315,
-    "sr": "Jednom prilikom, vežbajući govor, usred izlaganja je ispustio vetar, te je od stida ostao zaključan kod kuće, nameravajući da se izgladni. Kratet je saznao za to, došao je kod njega po pozivu i, pošto je namerno jeo bob, uveravao ga da nije učinio ništa loše; bilo bi čudo da nije ispuštao vetrove prema prirodi. Konačno je i sam ispustio vetar i ohrabrio ga, utešivši ga sličnošću postupka. Od tada je slušao Krata i postao sposoban u filozofiji.",
-    "stsl": "Єдиноѭ прілікоѭ вєжбаꙗ говоръ · нєчѹино испѹсти вѣтръ тѣмьже отъ срама оста заключєнъ дома · намѣравлꙗꙗ да сѧ ізгладни · Кратєтъ вѣдѣ то · прііде къ нємѹ · нарочито снѣдъ вовъ · ѹвѣрꙗваашє го словєсꙑ ꙗко нє ѹчини ничтоже зло · чѹдо бо би било ащє нє испѹщашє вѣтрꙑ по єстьствѹ · Наконьць испѹщаꙗ самъ вѣтръ · ѹкрѣпи го · ѹтѣшивъ подобіємь дѣла · Отъ тогда слѹшааше Крата и быстъ способьнъ въ любомѫдріи.",
-    "originalText": "τοσοῦτον διέφθαρτο ὥστε ποτὲ μελετῶν καὶ μεταξύ πως ἀποπαρδὼν ὑπ' ἀθυμίας οἴκοι κατάκλειστος ἦν, ἀποκαρτερεῖν βουλόμενος. Μαθὼν δὴ ὁ Κράτης εἰσῆλθε πρὸς αὐτὸν παρακληθεὶς καὶ θέρμους ἐπίτηδες βεβρωκὼς ἔπειθε μὲν αὐτὸν καὶ διὰ τῶν λόγων μηδὲν φαῦλον πεποιηκέναι· τέρας γὰρ ἂν γεγονέναι εἰ μὴ καὶ τὰ πνεύματα κατὰ φύσιν ἀπεκρίνετο· τέλος δὲ καὶ ἀποπαρδὼν ἀνέρρωσεν αὐτόν, ἀφ' ὁμοιότητος τῶν ἔργων παραμυθησάμενος. Τοὐντεῦθεν ἤκουεν αὐτοῦ καὶ ἐγένετο ἀνὴρ ἱκανὸς ἐν φιλοσοφίᾳ.",
-    "author": "Metrocles",
+    "sr": "Bio vrlo ozbiljan, prezirao slavu a težio istini.",
+    "stsl": "Бѣ ѕѣло́ сѣ́рьезенъ · презіра́ше славѫ а стремі́ше сѧ къ істі́нѣ.",
+    "originalText": "Οὗτος μὲν ἐμβριθέστατος ἐγένετο, ὥστε δόξης μὲν καταφρονεῖν, πρὸς δ' ἀλήθειαν παρορμᾶν.",
+    "author": "Monimus",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VI.94"
+        "reference": "VI.83"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.94"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.83"
   },
   {
     "_id": 1855,
@@ -32292,23 +32292,6 @@
     ]
   },
   {
-    "_id": 1394,
-    "id": "mm-001334",
-    "type": "bio",
-    "year": -315,
-    "sr": "Bio vrlo ozbiljan, prezirao slavu a težio istini.",
-    "stsl": "Бѣ ѕѣло́ сѣ́рьезенъ · презіра́ше славѫ а стремі́ше сѧ къ істі́нѣ.",
-    "originalText": "Οὗτος μὲν ἐμβριθέστατος ἐγένετο, ὥστε δόξης μὲν καταφρονεῖν, πρὸς δ' ἀλήθειαν παρορμᾶν.",
-    "author": "Monimus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.83"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.83"
-  },
-  {
     "_id": 1893,
     "id": "mm-001841",
     "type": "anecdote",
@@ -32394,6 +32377,23 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.126-127"
   },
   {
+    "_id": 1351,
+    "id": "mm-001293",
+    "type": "anecdote",
+    "year": -310,
+    "sr": "Bio je tako dostojanstven da je Eurilohu Kasandrejcu sa Klepidom Kizikinskim mladićem bilo strah da protivreči pozivu od Antigona, strahujući da Menedem ne sazna.",
+    "stsl": "Бѣашє тако достоꙗнствєнъ ꙗko Єѹрілохѹ Касандрєіцѹ съ Клєпідомь Кіꙁікінскімь младікомь вѣашє страхъ протъівъ рєщі поꙁвѹ отъ Антігона · страхѹꙗ да Мєнєдємъ ѹꙁна.",
+    "originalText": "Οὕτω δ' ἦν σεμνὸς ὡς Εὐρύλοχον τὸν Κασανδρέα μετὰ Κλεϊππίδου Κυζικηνοῦ μειρακίου κληθέντα ὑπ' Ἀντιγόνου ἀντειπεῖν· φοβεῖσθαι γὰρ μὴ Μενέδημος αἴσθηται.",
+    "author": "Menedemus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.127"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.127"
+  },
+  {
     "_id": 1892,
     "id": "mm-001840",
     "type": "quote",
@@ -32413,13 +32413,13 @@
     ]
   },
   {
-    "_id": 1351,
-    "id": "mm-001293",
-    "type": "anecdote",
+    "_id": 1352,
+    "id": "mm-001294",
+    "type": "bio",
     "year": -310,
-    "sr": "Bio je tako dostojanstven da je Eurilohu Kasandrejcu sa Klepidom Kizikinskim mladićem bilo strah da protivreči pozivu od Antigona, strahujući da Menedem ne sazna.",
-    "stsl": "Бѣашє тако достоꙗнствєнъ ꙗko Єѹрілохѹ Касандрєіцѹ съ Клєпідомь Кіꙁікінскімь младікомь вѣашє страхъ протъівъ рєщі поꙁвѹ отъ Антігона · страхѹꙗ да Мєнєдємъ ѹꙁна.",
-    "originalText": "Οὕτω δ' ἦν σεμνὸς ὡς Εὐρύλοχον τὸν Κασανδρέα μετὰ Κλεϊππίδου Κυζικηνοῦ μειρακίου κληθέντα ὑπ' Ἀντιγόνου ἀντειπεῖν· φοβεῖσθαι γὰρ μὴ Μενέδημος αἴσθηται.",
+    "sr": "Bio je prekorivaoc i slobodošćivac.",
+    "stsl": "Бѣашє прєкораваоцъ і световодощавоцъ.",
+    "originalText": "Ἦν γὰρ καὶ ἐπικόπτης καὶ παρρησιαστής.",
     "author": "Menedemus",
     "sources": [
       {
@@ -32447,23 +32447,6 @@
     "tags": [
       "λόγος"
     ]
-  },
-  {
-    "_id": 1352,
-    "id": "mm-001294",
-    "type": "bio",
-    "year": -310,
-    "sr": "Bio je prekorivaoc i slobodošćivac.",
-    "stsl": "Бѣашє прєкораваоцъ і световодощавоцъ.",
-    "originalText": "Ἦν γὰρ καὶ ἐπικόπτης καὶ παρρησιαστής.",
-    "author": "Menedemus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.127"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.127"
   },
   {
     "_id": 1353,
@@ -32517,6 +32500,23 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.128"
   },
   {
+    "_id": 1356,
+    "id": "mm-001298",
+    "type": "anecdote",
+    "year": -310,
+    "sr": "Ka mlađem koji vikao: Razmotri, reče, da li šta iza držeći ne znaš.",
+    "stsl": "Ка младішємѹ іжє вікашє · Раꙁмотърі · рєчє · ащє лі што ꙁадъ дрьжꙗ нє вѣси.",
+    "originalText": "Πρὸς δὲ τὸν νεώτερον κεκραγότα, Σκέψαι, ἔφη, μή τι ὄπισθεν ἔχων λέληθας.",
+    "author": "Menedemus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.128"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.128"
+  },
+  {
     "_id": 1899,
     "id": "mm-001848",
     "type": "quote",
@@ -32555,13 +32555,13 @@
     ]
   },
   {
-    "_id": 1356,
-    "id": "mm-001298",
+    "_id": 1357,
+    "id": "mm-001300",
     "type": "anecdote",
     "year": -310,
-    "sr": "Ka mlađem koji vikao: Razmotri, reče, da li šta iza držeći ne znaš.",
-    "stsl": "Ка младішємѹ іжє вікашє · Раꙁмотърі · рєчє · ащє лі што ꙁадъ дрьжꙗ нє вѣси.",
-    "originalText": "Πρὸς δὲ τὸν νεώτερον κεκραγότα, Σκέψαι, ἔφη, μή τι ὄπισθεν ἔχων λέληθας.",
+    "sr": "Ka beskrupolnom koji nešto njemu pripovedao bezsuvisleno, upita da li polje ima; rekavši da i veoma mnoga imanja: Hajde onda, reče, i onih se staraji, da ne dogodi se tebi i ta uništiti i duhovitog samoukapnika izgubiti.",
+    "stsl": "Ка вєсъкрѹпѹлномѹ іжє нѣшто ємѹ пріповѣдалъ вєꙁъсѹвісльно · ѹпіта ащє лі полє іма · рєкъ ꙗko і вєльмі мъногꙑ імꙗніꙗ · Хаідє тогда · рєчє · і оніхъ сѧ стараі · да нє догоді сѧ тєвѣ і та ѹніштіті і дѹховітаго самоѹкапьніка іꙁгѹвіті.",
+    "originalText": "Πρὸς δὲ τὸν ἀναίσθητον ἀναφέροντά τι αὐτῷ εἰκαίως, ἠρώτησεν εἰ ἀγρὸν ἔχει· φήσαντος δὲ καὶ πάμπλειστα κτήματα, Πορεύου τοίνυν, ἔφη, κἀκείνων ἐπιμελοῦ, μὴ συμβῇ σοι καὶ ταῦτα καταφθεῖραι καὶ κομψὸν ἰδιώτην ἀποβαλεῖν.",
     "author": "Menedemus",
     "sources": [
       {
@@ -32618,23 +32618,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.54-55"
-  },
-  {
-    "_id": 1357,
-    "id": "mm-001300",
-    "type": "anecdote",
-    "year": -310,
-    "sr": "Ka beskrupolnom koji nešto njemu pripovedao bezsuvisleno, upita da li polje ima; rekavši da i veoma mnoga imanja: Hajde onda, reče, i onih se staraji, da ne dogodi se tebi i ta uništiti i duhovitog samoukapnika izgubiti.",
-    "stsl": "Ка вєсъкрѹпѹлномѹ іжє нѣшто ємѹ пріповѣдалъ вєꙁъсѹвісльно · ѹпіта ащє лі полє іма · рєкъ ꙗko і вєльмі мъногꙑ імꙗніꙗ · Хаідє тогда · рєчє · і оніхъ сѧ стараі · да нє догоді сѧ тєвѣ і та ѹніштіті і дѹховітаго самоѹкапьніка іꙁгѹвіті.",
-    "originalText": "Πρὸς δὲ τὸν ἀναίσθητον ἀναφέροντά τι αὐτῷ εἰκαίως, ἠρώτησεν εἰ ἀγρὸν ἔχει· φήσαντος δὲ καὶ πάμπλειστα κτήματα, Πορεύου τοίνυν, ἔφη, κἀκείνων ἐπιμελοῦ, μὴ συμβῇ σοι καὶ ταῦτα καταφθεῖραι καὶ κομψὸν ἰδιώτην ἀποβαλεῖν.",
-    "author": "Menedemus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.128"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.128"
   },
   {
     "_id": 1358,
@@ -32824,6 +32807,23 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
   },
   {
+    "_id": 2005,
+    "id": "mm-001955",
+    "type": "anecdote",
+    "year": -304,
+    "sr": "Proročište mu je reklo da će najbolje živeti ako se oboji bojom mrtvih; shvativši to, počeo je čitati dela starih. Prevozio je purpur iz Fenikije i doživeo brodolom kod Pireja. Došavši u Atinu sa trideset godina, seo je kod nekog knjižara. Kad je ovaj čitao drugo Ksenofontovo Sećanje, oduševljen je pitao gde borave takvi ljudi. U pravo vreme prolazio je Kratet, pa ga je knjižar pokazavši rekao: 'Sledi ovoga.' Od tada je slušao Krata.",
+    "stsl": "Проричіщє рєчє ємѹ ꙗко наилѹчшє поживить ащє обоить сѧ ꙁнакомь мрьтвꙑхъ · разѹмѣвъ то · нача чітати дѣла старꙑхъ · Прєвожаашє пѹрпѹръ отъ Фінікіи і доживѣ кораблькрѹшєніє близъ Піреа · Прішєдъ въ Аѳины съ тридєсѧть лѣтъ · сѣдє при нѣкоємь книжницѣ · Єгда чьтꙗашє второе Ѯєнофонтово памѧтованіє · одѹшєвлєнъ въпрашааше кѫдѣ прѣбꙑваѭть таковіи чловѣци · Въ право врємѧ проходꙗашє Кратєтъ · і показавъ га книжьникъ рєчє · Слѣдѹи сєго · Отъ тогда слѹшаашє Крата.",
+    "originalText": "χρηστηριασαμένου αὐτοῦ τί πράττων ἄριστα βιώσεται, ἀποκρίνασθαι τὸν θέον, εἰ συγχρωτίζοιτο τοῖς νεκροῖς· ὅθεν ξυνέντα τὰ τῶν ἀρχαίων ἀναγινώσκειν. Πορφύραν ἐμπεπορευμένος ἀπὸ τῆς Φοινίκης πρὸς τῷ Πειραιεῖ ἐναυάγησεν. Ἀνελθὼν δ' εἰς τὰς Ἀθήνας ἤδη τριακοντούτης ἐκάθισε παρά τινα βιβλιοπώλην. Ἀναγινώσκοντος δ' ἐκείνου τὸ δεύτερον τῶν Ξενοφῶντος Ἀπομνημονευμάτων, ἡσθεὶς ἐπύθετο ποῦ διατρίβοιεν οἱ τοιοῦτοι ἄνδρες. Εὐκαίρως δὲ παριόντος Κράτητος, ὁ βιβλιοπώλης δείξας αὐτόν φησι, Τούτῳ παρακολούθησον. Ἐντεῦθεν ἤκουσε τοῦ Κράτητος.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.2-3"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.2-3"
+  },
+  {
     "_id": 1917,
     "id": "mm-001862",
     "type": "quote",
@@ -32854,23 +32854,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.111-112"
-  },
-  {
-    "_id": 2005,
-    "id": "mm-001955",
-    "type": "anecdote",
-    "year": -304,
-    "sr": "Proročište mu je reklo da će najbolje živeti ako se oboji bojom mrtvih; shvativši to, počeo je čitati dela starih. Prevozio je purpur iz Fenikije i doživeo brodolom kod Pireja. Došavši u Atinu sa trideset godina, seo je kod nekog knjižara. Kad je ovaj čitao drugo Ksenofontovo Sećanje, oduševljen je pitao gde borave takvi ljudi. U pravo vreme prolazio je Kratet, pa ga je knjižar pokazavši rekao: 'Sledi ovoga.' Od tada je slušao Krata.",
-    "stsl": "Проричіщє рєчє ємѹ ꙗко наилѹчшє поживить ащє обоить сѧ ꙁнакомь мрьтвꙑхъ · разѹмѣвъ то · нача чітати дѣла старꙑхъ · Прєвожаашє пѹрпѹръ отъ Фінікіи і доживѣ кораблькрѹшєніє близъ Піреа · Прішєдъ въ Аѳины съ тридєсѧть лѣтъ · сѣдє при нѣкоємь книжницѣ · Єгда чьтꙗашє второе Ѯєнофонтово памѧтованіє · одѹшєвлєнъ въпрашааше кѫдѣ прѣбꙑваѭть таковіи чловѣци · Въ право врємѧ проходꙗашє Кратєтъ · і показавъ га книжьникъ рєчє · Слѣдѹи сєго · Отъ тогда слѹшаашє Крата.",
-    "originalText": "χρηστηριασαμένου αὐτοῦ τί πράττων ἄριστα βιώσεται, ἀποκρίνασθαι τὸν θέον, εἰ συγχρωτίζοιτο τοῖς νεκροῖς· ὅθεν ξυνέντα τὰ τῶν ἀρχαίων ἀναγινώσκειν. Πορφύραν ἐμπεπορευμένος ἀπὸ τῆς Φοινίκης πρὸς τῷ Πειραιεῖ ἐναυάγησεν. Ἀνελθὼν δ' εἰς τὰς Ἀθήνας ἤδη τριακοντούτης ἐκάθισε παρά τινα βιβλιοπώλην. Ἀναγινώσκοντος δ' ἐκείνου τὸ δεύτερον τῶν Ξενοφῶντος Ἀπομνημονευμάτων, ἡσθεὶς ἐπύθετο ποῦ διατρίβοιεν οἱ τοιοῦτοι ἄνδρες. Εὐκαίρως δὲ παριόντος Κράτητος, ὁ βιβλιοπώλης δείξας αὐτόν φησι, Τούτῳ παρακολούθησον. Ἐντεῦθεν ἤκουσε τοῦ Κράτητος.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.2-3"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.2-3"
   },
   {
     "_id": 310,
@@ -33247,6 +33230,23 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19"
   },
   {
+    "_id": 1941,
+    "id": "mm-001879",
+    "type": "works",
+    "year": -320,
+    "sr": "Ostavio je mnoštvo spisa, pesama i pouka.",
+    "stsl": "Множьство писъ · пѣсьнъ и поѹчениихъ остави ·",
+    "originalText": "Καὶ πλεῖστα ὅσα καταλέλοιπε συγγράμματα καὶ ἔπη καὶ παραινέσεις.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.11"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.11"
+  },
+  {
     "_id": 2023,
     "id": "mm-001994",
     "type": "anecdote",
@@ -33265,11 +33265,27 @@
   },
   {
     "_id": 1943,
+    "id": "mm-001882",
+    "type": "reported",
+    "sr": "Kada mu se Bion podsmevao, Ksenokrat nije hteo da odgovori: ni tragedija, reče, ne udostojava odgovorom podsmeh komedije.",
+    "stsl": "Єгда ємѹ Бионъ рѫгааше сѧ · Ксенократъ не въсхотѣ отъвѣштати · Ни трагедіѧ бо · рече · порѹганиє комедіѩ отъвѣта сподоблѧєть ·",
+    "originalText": "Σκωπτόμενος ὑπὸ Βίωνος οὐκ ἔφη αὐτῷ ἀποκρινεῖσθαι· μηδὲ γὰρ τὴν τραγῳδίαν ὑπὸ τῆς κωμῳδίας σκωπτομένην ἀποκρίσεως ἀξιοῦν.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.10"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.10"
+  },
+  {
+    "_id": 1944,
     "id": "mm-001883",
-    "type": "quote",
-    "sr": "Idi svojim putem, jer filozofiji ne pružaš ništa za šta bi mogla da se uhvati.",
-    "stsl": "Иди своимь пѫтемь · зане любомѫдрию ничьтоже подаеши · за неже бы сѧ ѹхватило ·",
-    "originalText": "Πορεύου· λαβὰς γὰρ οὐκ ἔχεις φιλοσοφίας.",
+    "type": "reported",
+    "sr": "Čoveku koji nije učio ni muziku, ni geometriju, ni astronomiju, a hteo je kod njega učiti, Xenokrat reče: Idi svojim putem, jer nemaš hvatišta za filozofiju.",
+    "stsl": "Чловѣкѹ · иже ни мѹсикиѭ · ни землемѣриѥ · ни звѣздозакониѥ не ѹчи · хотѧштѹ же ѹ него ѹчити сѧ · Ксенократъ рече · Иди своимь пѫтемь · не имаши бо хватилищь любомѫдриꙗ ·",
+    "originalText": "Πρὸς δὲ τὸν μήτε μουσικὴν μήτε γεωμετρικὴν μήτε ἀστρονομίαν μεμαθηκότα, βουλόμενον δὲ παρ' αὐτὸν φοιτᾶν, «Πορεύου,» ἔφη· «λαβὰς γὰρ οὐκ ἔχεις φιλοσοφίας.»",
     "author": "Xenocrates",
     "sources": [
       {
@@ -33279,26 +33295,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.10",
     "tags": [
-      "σοφία"
-    ]
-  },
-  {
-    "_id": 1944,
-    "id": "mm-001885",
-    "type": "quote",
-    "sr": "Filip je znao da su ostali primili mito, ali mene nikada ne bi pridobio.",
-    "stsl": "Филиппъ вѣдѣ · ꙗко прочиꙗ даръ пріѧша · мене же николиже бы привлече ·",
-    "originalText": "τοὺς μὲν γὰρ ᾔδει δωροδοκήσαντας ὁ Φίλιππος, ἐμὲ δὲ μηδενὶ λόγῳ ὑπαξόμενος.",
-    "author": "Xenocrates",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IV.9"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.9",
-    "tags": [
-      "λόγος"
+      "σοφία",
+      "ἕν"
     ]
   },
   {
