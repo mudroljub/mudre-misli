@@ -142,7 +142,7 @@
 | κενόν             | праздьно *(alt: праздьно мѣсто)*      | praznina                        |
 | κίνησις           | движеніє                              | kretanje                        |
 | κοινός            | общь                                  | opšti                           |
-| κόσμος            | строи, міръ                           | ustroj, svet                    |
+| κόσμος            | строи, міръ                           | (u)stroj, svet                  |
 | κρᾶσις            | смѣшеніє                              | mešanje                         |
 | κρίνω             | лѫчити (alt: сѫдити)                  | odlučiti (alt: suditi)          |
 | κρίσις            | лѫченіє                               | odlučenje, odluka               |
@@ -166,10 +166,11 @@
 | νοέω              | поѩти                                 | poimati                         |
 | νόημα             | поимъ                                 | pojam                           |
 | νόησις            | поѩтиѥ                                | poimanje                        |
-| νοητός            | поѩтъ                                 | pomljiv                         |
+| νοητόν            | поимно                                | pojamno                         |
+| νοητός            | поимьнъ (alt: поѩтъ)                  | pojaman (alt: pojmljiv)         |
 | νόμος             | законъ                                | zakon                           |
 | νοῦς              | ѹмъ                                   | um                              |
-| οἶδα              | вѣдѣти                                | vedeti *(alt. uvideti, znati)*         |
+| οἶδα              | вѣдѣти                                | vedeti *(alt. uvideti, znati)*  |
 | ὁμολογέω          | съсловити сѧ                          | susloviti se                    |
 | ὁμολογία          | съсловлєніє                           | suslovljenje                    |
 | ὄν / τὸ ὄν / ἐόν  | сѫщее                                 | sušto (alt: biće)               |

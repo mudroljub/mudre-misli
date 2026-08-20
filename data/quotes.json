@@ -25444,7 +25444,7 @@
       }
     ],
     "stsl": "Поимно · отъ него же ничьтоже отъходить ни приходить · Се естество вѣчьныхъ · присно тождь и себѣ равно ·",
-    "sr": "Umno je ono od čega ništa ne odlazi niti mu šta dolazi. To je priroda večnih stvari, uvek ista i sebi jednaka.",
+    "sr": "Pojamno je ono od čega ništa ne odlazi niti mu šta dolazi. To je priroda večnih stvari, uvek ista i sebi jednaka.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.10",
     "tags": [
       "εἶναι",
@@ -25537,8 +25537,8 @@
         "reference": "III.21"
       }
     ],
-    "stsl": "Дионисии же · ѹвѣдѣвъ · написа Платонѹ · да єго зълѣ не глаголеть · Платонъ же отъписа · Не имамъ толика праздьства · да Дионисиꙗ поминаѭ ·",
-    "sr": "Kada Dionisije sazna, pisa Platonu da ne govori loše o njemu. Platon mu odgovori: Nemam toliko dokolice da bih se Dionisija sećao.",
+    "stsl": "Дионисии написа Платонѹ · да єго зълѣ не глаголеть · Платонъ же отъписа · Не имамъ толика праздьства · да Дионисиꙗ поминаѭ ·",
+    "sr": "Dionisije pisa Platonu da ne govori loše o njemu. Platon mu otpisa: Nisam toliko dokon da Dionisija pominjem.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.21",
     "tags": [
       "εἶναι"
@@ -25547,7 +25547,7 @@
   {
     "_id": 1498,
     "id": "mm-001439",
-    "type": "quote",
+    "type": "reported",
     "originalText": "Χρυσὸν ἀνὴρ εὑρὼν ἔλιπεν βρόχον· αὐτὰρ ὁ χρυσὸν ὃν λίπεν οὐχ εὑρὼν ἧψεν ὃν εὗρε βρόχον.",
     "author": "Plato",
     "sources": [
@@ -25556,8 +25556,8 @@
         "reference": "III.33"
       }
     ],
-    "stsl": "Мѫжь ꙁлато обрѣтъ · вьрвь остави · Дрѹгыи же · ꙁлата · єже остави · не обрѣтъ · обрѣтеною вьрвию ѹдави сѧ ·",
-    "sr": "Čovek našavši zlato ostavi omču; drugi, ne našavši zlato koje je ostavio, obesi se omčom koju je našao.",
+    "stsl": "Мѫжь ѹдавити сѧ хотѧ · ꙁлато обрѣтъ · вьрвь остави · Дрѹгыи же · ꙁлата · єже остави · не обрѣтъ · обрѣтеною вьрвию ѹдави сѧ ·",
+    "sr": "Čovek hoteći da se obesi, nađe zlato i ostavi omču. Drugi, ne našavši zlato koje ostavi, obesi se omčom koju nađe.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.33"
   },
   {
@@ -25682,7 +25682,7 @@
         "reference": "III.64"
       }
     ],
-    "sr": "Čulno naziva i suštim i nesuštim: suštim zato što ima bivanje, a nesuštim zbog neprestane promene.",
+    "sr": "Čulno naziva i suštim i nesuštim: suštim zato že ima bivanje, a nesuštim zbog neprestane promene.",
     "stsl": "Чѹвьствьно и сѫштимъ нарицаєть и не сѫштимъ · сѫштимъ · зане бꙑваниѥ имать · не сѫштимъ же · непрѣстаныѩ ради прѣмѣны ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.64",
     "tags": [
@@ -25749,7 +25749,7 @@
   {
     "_id": 1509,
     "id": "mm-001450",
-    "type": "quote",
+    "type": "reported",
     "author": "Plato",
     "originalText": "Τραπέσθαι δὲ τὴν οὐσίαν ταύτην εἰς τὰ τέτταρα στοιχεῖα, πῦρ, ὕδωρ, ἀέρα, γῆν. Μόνην δὲ τὴν γῆν ἀμετάβολον εἶναί φησι, νομίζων αἰτίαν τὴν τῶν σχημάτων διαφορὰν ἐξ ὧν σύγκειται. πυρὸς μὲν γὰρ εἶναι στοιχεῖον πυραμίδα, ἀέρος τὸ ὀκτάεδρον, ὕδατος τὸ εἰκοσάεδρον, γῆς δὲ κύβον.",
     "sources": [
@@ -25796,7 +25796,7 @@
         "reference": "III.71–72"
       }
     ],
-    "sr": "Ustroj je jedan i rođen, jer je čulan i od boga sazdan. Duševan je, jer je duševno bolje od bezdušnog. Okrugao je, jer i njegov roditelj ima takav obraz.",
+    "sr": "Stroj je jedan i rođen, jer je čulan i od boga sazdan. Duševan je, jer je duševno bolje od bezdušnog. Okrugao je, jer i njegov roditelj ima takav obraz.",
     "stsl": "Строи єдинъ и рожденъ єсть · зане и чѹвьственъ · отъ Бога сътворенъ · Дѹшьнъ же єсть · зане дѹшьно лѹчьше бездѹшьнаго · Окрѫглъ же · зане и родитель єго таковъ образъ имать ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.71-72",
     "tags": [
@@ -25870,7 +25870,7 @@
   {
     "_id": 1515,
     "id": "mm-001456",
-    "type": "quote",
+    "type": "reported",
     "author": "Plato",
     "originalText": "Δοκεῖ δ' αὐτῷ τὸν θεὸν ὡς καὶ τὴν ψυχὴν ἀσώματον εἶναι· οὕτω γὰρ μάλιστα φθορᾶς καὶ πάθους ἀνεπίδεκτον ὑπάρχειν. Τὰς δὲ ἰδέας ὑφίσταται, καθὰ καὶ προείρηται, αἰτίας τινὰς καὶ ἀρχὰς τοῦ τοιαῦτ' εἶναι τὰ φύσει συνεστῶτα, οἷάπερ ἐστὶν αὐτά.",
     "sources": [
@@ -25937,8 +25937,8 @@
         "reference": "III.78"
       }
     ],
-    "stsl": "Градьскыми дѣлы дѣлати · женити сѧ и положеныхъ законъ не прѣстѫпати подобаєть · И · елико мощьно · отьчьствѹ своемѹ законы дати · аште дѣла въ прѣвеликомь людьстѣ раздори не видить съврьшено неисправима ·",
-    "sr": "Treba se baviti državnim poslovima, ženiti se i ne prestupati postavljene zakone. Koliko je moguće, treba i svojoj otadžbini davati zakone, osim ako se prilike zbog prekomernog razdora naroda pokažu potpuno nepopravljivim.",
+    "stsl": "Градьскыми дѣлы дѣлати · женити сѧ и положеныхъ законъ не прѣстѫпати · И елико мощьно · отьчьствѹ своемѹ законы дати · аште дѣла въ прѣвеликомь людьстѣ раздори съврьшено неисправима не видить ·",
+    "sr": "Treba učestvovati u javnom životu, ženiti se i ne prestupati postavljene zakone. Koliko je moguće, treba i svojoj otadžbini davati zakone, osim ako vidi da su prilike zbog prevelikog razdora naroda potpuno nepopravljive.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.78"
   },
   {
@@ -25970,7 +25970,7 @@
       }
     ],
     "stsl": "Добра сѫть · ова въ дѹши · ова въ тѣлѣ · ова вънѣ · Правда · разборьность · мѫжьство и цѣломѫдриє въ дѹши · красота · благо тѣло · здравиє и крѣпость въ тѣлѣ · дрѹзи · отьчьства благочѧсть и богатъство вънѣ ·",
-    "sr": "Neka dobra su u duši, neka u telu, a neka vani. Pravednost, razboritost, hrabrost i umerenost pripadaju duši; lepota, dobra građa, zdravlje i snaga telu; prijatelji, blagočest otadžbine i bogatstvo spoljašnjim dobrima.",
+    "sr": "Od dobara, neka su u duši, neka u telu, a neka vani. Pravednost, razboritost, hrabrost i umerenost u duši su; lepota, dobra građa, zdravlje i snaga u telu; prijatelji, blagočest otadžbine i bogatstvo vani.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.80",
     "tags": [
       "ψυχή"
@@ -25988,8 +25988,8 @@
         "reference": "III.83"
       }
     ],
-    "stsl": "Правды три види · єдинъ къ богомъ · дрѹгыи къ чловѣкомъ · трєтии къ ѹмръшимъ ·",
-    "sr": "Tri su vida pravednosti: prema bogovima, prema ljudima i prema preminulima.",
+    "stsl": "Правды три види · къ богомъ · къ чловѣкомъ · къ минѫлымъ ·",
+    "sr": "Tri su vida pravednosti: prema bogovima, prema ljudima i prema minulima.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.83"
   },
   {
@@ -26005,7 +26005,7 @@
       }
     ],
     "stsl": "Благотворениє на четири дѣлить сѧ · имѣниємь · тѣломъ · наѹками или словесы ·",
-    "sr": "Dobročinstvo se deli na četiri vida: imovinom, telom, znanjem ili rečima.",
+    "sr": "Dobročinstvo se deli na četiri: imovinom, telom, naukama ili slovima.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.95-96",
     "tags": [
       "λόγος"
@@ -26016,17 +26016,18 @@
     "id": "mm-001467",
     "type": "quote",
     "author": "Plato",
-    "originalText": "Διαιρεῖται τὸ τέλος τῶν πραγμάτων εἰς τέτταρα εἴδη· ἓν μὲν κατὰ νόμον τέλος τὰ πράγματα λαμβάνει, ὅταν ψήφισμα γένηται καὶ τοῦθ' ὁ νόμος τελέσῃ· κατὰ φύσιν δὲ τέλος τὰ πράγματα λαμβάνει, ἥ τε ἡμέρα καὶ ὁ ἐνιαυτὸς καὶ αἱ ὧραι. Κατὰ τέχνην δὲ τέλος τὰ πράγματα λαμβάνει, οἷον ἡ οἰκοδομική.",
+    "originalText": "Διαιρεῖται τὸ τέλος τῶν πραγμάτων εἰς τέτταρα εἴδη· ἓν μὲν κατὰ νόμον τέλος τὰ πράγματα λαμβάνει, ὅταν ψήφισμα γένηται καὶ τοῦθ' ὁ νόμος τελέσῃ· κατὰ φύσιν δὲ τέλος τὰ πράγματα λαμβάνει, ἥ τε ἡμέρα καὶ ὁ ἐνιαυτὸς καὶ αἱ ὧραι. κατὰ τέχνην δὲ τέλος τὰ πράγματα λαμβάνει, οἷον ἡ οἰκοδομική· οἰκίαν γάρ τις ἐπιτελεῖ· καὶ ἡ ναυπηγική· πλοῖα γάρ. κατὰ τύχην δὲ γίνεται τοῖς πράγμασι τέλος, ὅταν ἄλλως καὶ μὴ ὡς ὑπολαμβάνει τις ἀποβαίνῃ. τοῦ τέλους ἄρα τῶν πραγμάτων τὸ μὲν κατὰ νόμον, τὸ δὲ κατὰ φύσιν, τὸ δὲ κατὰ τέχνην, τὸ δὲ κατὰ τύχην ἐστίν.",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "III.96–97"
       }
     ],
-    "stsl": "Коньць дѣлъ на четири види дѣлить сѧ · По законѹ дѣло коньць приємлєть · єгда рѣшениє бываєть и законъ є съврьшаєть · По естествѹ дѣла коньць приємлѭть · ꙗко дьнь · лѣто и годьна врѣмена · по хитрости же · ꙗко домозданиє ·",
-    "sr": "Svršetak stvari deli se na četiri vida. Po zakonu stvar se dovršava kada se donese odluka i zakon je izvrši. Po prirodi se dovršavaju dan, godina i godišnja doba; po umeću, na primer, gradnja.",
+    "stsl": "Коньць дѣлъ на четири види дѣлить сѧ · По законѹ дѣло коньць приємлєть · єгда рѣшениє бываєть и законъ є съврьшаєть · По естествѹ дѣла коньць приємлѭть · ꙗко дьнь · лѣто и годьна врѣмена · По ѹмѣнию же · ꙗко домозданиє · домъ бо кто съврьшаєть · или кораблезданиє · корабли бо · По слѹчаю же дѣла коньць приємлѭть · єгда инако · а не ꙗкоже кто мнить · исходѧть · Коньць ѹбо дѣлъ · овъ по законѹ · овъ по естествѹ · овъ по ѹмѣнию · овъ по слѹчаю ·",
+    "sr": "Svršetak stvari deli se na četiri vida. Po zakonu stvar prima svršetak kada se donese odluka i zakon je izvrši; po prirodi, kao dan, godina i godišnja doba; po umeću, kao gradnja kuće, jer neko kuću dovršava, ili brodogradnja, jer dovršava brodove; po slučaju, kada stvari ishode drukčije nego što ko misli. Svršetak stvari je, dakle, po zakonu, po prirodi, po umeću ili po slučaju.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.96-97",
     "tags": [
+      "εἶναι",
       "φύσις"
     ]
   },
@@ -26035,15 +26036,15 @@
     "id": "mm-001468",
     "type": "quote",
     "author": "Plato",
-    "originalText": "Τῆς φιλανθρωπίας ἐστὶν εἴδη τρία· ἓν μὲν διὰ τῆς προσηγορίας γινόμενον, οἷον ἐν οἷς τινες τὸν ἐντυχόντα πάντα προσαγορεύουσι καὶ τὴν δεξιὰν ἐμβάλλοντες χαιρετίζουσιν. Ἄλλο εἶδος, ὅταν τις βοηθητικὸς ᾖ παντὶ τῷ ἀτυχοῦντι.",
+    "originalText": "Τῆς φιλανθρωπίας ἐστὶν εἴδη τρία· ἓν μὲν διὰ τῆς προσηγορίας γινόμενον, οἷον ἐν οἷς τινες τὸν ἐντυχόντα πάντα προσαγορεύουσι καὶ τὴν δεξιὰν ἐμβάλλοντες χαιρετίζουσιν. ἄλλο εἶδος, ὅταν τις βοηθητικὸς ᾖ παντὶ τῷ ἀτυχοῦντι. ἕτερον εἶδός ἐστι τῆς φιλανθρωπίας, ἐν ᾧ τινες φιλοδειπνισταί εἰσι. τῆς ἄρα φιλανθρωπίας τὸ μέν ἐστι διὰ τοῦ προσαγορεύειν, τὸ δὲ διὰ τοῦ εὐεργετεῖν, τὸ δὲ διὰ τοῦ ἑστιᾶν καὶ φιλοσυνουσιάζειν.",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "III.98"
       }
     ],
-    "stsl": "Чловѣколюбиꙗ три види · єдинъ привѣтомъ бываєть · ꙗко нѣции вьсѧкаго срѣтенаго привѣштаѭть и десницѫ подавъше здравиє желаѭть · Дрѹгыи видъ · єгда кто вьсѧкомѹ зълѣ срѣтъшѹ помагаєть ·",
-    "sr": "Čovekoljublje ima tri vida. Prvi se pokazuje pozdravom, kada neko oslovi svakoga koga sretne, pruži mu desnicu i pozdravi ga. Drugi je pomaganje svakome koga zadesi nesreća.",
+    "stsl": "Чловѣколюбиꙗ три види · єдинъ привѣтомъ бываєть · ꙗко нѣции вьсѧкаго срѣтенаго привѣштаѭть и десницѫ подавъше здравиє желаѭть · Дрѹгыи · єгда кто вьсѧкомѹ зълѣ срѣтъшѹ помагаєть · Третии · єгда кто любить пиры творити · Чловѣколюбиє ѹбо бываєть привѣтомъ · благотворениємь · или ѹгоштениємь и общениємь ·",
+    "sr": "Čovekoljublje ima tri vida. Prvi je pozdravljanje svakoga koga ko sretne, pružanje desnice i željenje zdravlja. Drugi je pomaganje svakome koga zadesi nesreća. Treći je ljubav prema priređivanju gozbi. Čovekoljublje je, dakle, u pozdravljanju, dobročinstvu ili gošćenju i druženju.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.98",
     "tags": [
       "εἶναι"
@@ -26099,8 +26100,8 @@
         "reference": "III.103"
       }
     ],
-    "stsl": "Благозакониє на три дѣлить сѧ · Єдино · єгда закони добри сѫть · дрѹгоє · єгда граждане положеныхъ законъ дръже сѧ · третиє · єгда и безъ законъ по добрымъ обычаємъ и дѣломъ градомъ правѧть ·",
-    "sr": "Blagozakonje se deli na tri vida: kada su zakoni valjani; kada se građani drže postavljenih zakona; i kada se, bez pisanih zakona, dobro upravlja prema običajima i ustaljenim postupcima.",
+    "stsl": "Благозакониє на три дѣлить сѧ · Єдино · єгда закони добри сѫть · дрѹгоє · єгда граждане положеныхъ законъ дръже сѧ · третиє · єгда безъ законъ по добрымъ обычаємъ и дѣломъ градьскы живѫть ·",
+    "sr": "Blagozakonje se deli na tri vida: kada su zakoni valjani; kada se građani drže postavljenih zakona; i kada bez zakona dobro žive građanskim životom prema običajima i ustaljenim postupcima.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.103",
     "tags": [
       "εἶναι",
