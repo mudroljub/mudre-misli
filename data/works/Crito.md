@@ -1,3 +1,10 @@
+---
+author: Plato
+work: Crito
+tlg: tlg0059.tlg003
+source: canonical-greekLit
+---
+
 # Kriton
 
 ## 43a

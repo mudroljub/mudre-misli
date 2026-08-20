@@ -1,3 +1,10 @@
+---
+author: Plato
+work: Ion
+tlg: tlg0059.tlg027
+source: canonical-greekLit
+---
+
 # Ion
 
 ## 530a
