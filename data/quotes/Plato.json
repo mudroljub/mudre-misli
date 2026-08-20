@@ -267,8 +267,8 @@
         "reference": "III.64"
       }
     ],
-    "stsl": "Чѹвьствьно и сѫштимъ нарицаєть и не сѫштимъ · сѫштимъ · зане раждаєть сѧ · не сѫштимъ же · зане присно прѣмѣнѧєть сѧ ·",
-    "sr": "Čulno naziva i postojećim i nepostojećim: postojećim zato što postaje, nepostojećim zbog neprestane promene."
+    "sr": "Čulno naziva i suštim i nesuštim: suštim zato što ima bivanje, a nesuštim zbog neprestane promene.",
+    "stsl": "Чѹвьствьно и сѫштимъ нарицаєть и не сѫштимъ · сѫштимъ · зане бꙑваниѥ имать · не сѫштимъ же · непрѣстаныѩ ради прѣмѣны ·"
   },
   {
     "id": "mm-001447",
@@ -351,8 +351,8 @@
         "reference": "III.71–72"
       }
     ],
-    "stsl": "Міръ єдинъ и рожденъ · чѹвьственъ бо и отъ Бога сътворенъ · Одѹшевленъ · зане одѹшевлено лѹчьше бездѹшьнаго · Окрѫглообразьнъ · зане и родивыи и таковъ образъ имать ·",
-    "sr": "Svet je jedan i rođen, jer je čulan i od boga sazdan. Oduševljen je zato što je oduševljeno bolje od bezdušnog, a loptast zato što i njegov tvorac ima takav oblik."
+    "sr": "Ustroj je jedan i rođen, jer je čulan i od boga sazdan. Duševan je, jer je duševno bolje od bezdušnog. Okrugao je, jer i njegov roditelj ima takav obraz.",
+    "stsl": "Строи єдинъ и рожденъ єсть · зане и чѹвьственъ · отъ Бога сътворенъ · Дѹшьнъ же єсть · зане дѹшьно лѹчьше бездѹшьнаго · Окрѫглъ же · зане и родитель єго таковъ образъ имать ·"
   },
   {
     "id": "mm-001453",
@@ -393,8 +393,8 @@
         "reference": "III.75"
       }
     ],
-    "stsl": "Ꙁемлѧ старѣи небесьнꙑихъ боговъ · Сътворена же бꙑти да нощь и дьнь творитъ · На срѣдѣ же сѫщи · о срѣдѣ движетъ сѧ ·",
-    "sr": "Zemlja je najstarija nebeskih bogova. Postala je kao tvorevina da čini noć i dan. Boravišući u središtu, kreće se oko središta."
+     "stsl": "Ꙁемлѧ старѣиша небесьнꙑихъ боговъ єсть · ꙗко творениѥ же бысть · нощь и дьнь творѧшти · На срѣдѣ же сѫщи · о срѣдѣ движеть сѧ ·",
+    "sr": "Zemlja je najstarija od nebeskih bogova. Nastala je kao tvorevina koja čini noć i dan. Nalazeći se u središtu, oko središta se kreće."
   },
   {
     "id": "mm-001456",
@@ -407,8 +407,8 @@
         "reference": "III.77"
       }
     ],
-    "stsl": "Бога · ꙗко и дѹшѫ · безтѣлесьна мьнить · тако бо тлѣниꙗ и страсти не приємлєть · Виждꙑ же · ꙗко прѣжде речено · вины и начѧла полагаєть · ими же сѫштаꙗ по естествѹ такова сѫть · ꙗкова сѫть ·",
-    "sr": "Boga, kao i dušu, smatra bestelesnim, jer tako ne prima propadanje ni trpljenje. Viđe, kao što je već rečeno, postavlja kao uzroke i načela po kojima su stvari postojeće po prirodi upravo onakve kakve jesu."
+    "stsl": "Бога · ꙗко и дѹшѫ · безтѣлесьна мьнить · тако бо тлѣниꙗ и страсти не приємлєть · Виждꙑ же вины и начѧла полагаєть · ими же сѫштаꙗ по естествѹ такова сѫть · ꙗкова сѫть ·",
+    "sr": "Boga, kao i dušu, smatra bestelesnim, jer tako ne prima propadanje ni trpljenje. Viđe postavlja kao uzroke i načela po kojima su stvari postojeće po prirodi upravo onakve kakve jesu."
   },
   {
     "id": "mm-001457",
@@ -463,22 +463,8 @@
         "reference": "III.79"
       }
     ],
-    "stsl": "Мꙑслъ красьнаго първъ показа · ѩже дрьжитъ сѧ хвалимаго · и словесьнаго · и пользьнаго · и подобаѭщаго · и съгласьнаго ·",
-    "sr": "Pojam lepog prvi je pokazao kao ono što obuhvata hvalno i razumno i korisno i prikladno i skladno."
-  },
-  {
-    "id": "mm-001461",
-    "type": "quote",
-    "author": "Plato",
-    "originalText": "Ἐν δὲ τοῖς διαλόγοις καὶ τὴν δικαιοσύνην θεοῦ νόμον ὑπελάμβανεν ὡς ἰσχυροτέραν προτρέψαι τὰ δίκαια πράττειν, ἵνα μὴ καὶ μετὰ θάνατον δίκας ὑπόσχοιεν οἱ κακοῦργοι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.79"
-      }
-    ],
-    "stsl": "Въ разговорѣхъ правдѫ Божиимъ закономъ мьнѣаше · крѣпьчаишимъ къ правьднымъ дѣломъ наставити · да зълодѣи и по съмрьти казни не приимѫть ·",
-    "sr": "U razgovorima je pravednost smatrao božjim zakonom, najmoćnijim podsticajem na pravedna dela, da zločinci ne bi bili kažnjeni i posle smrti."
+    "stsl": "Мꙑслъ красьнаго първъ показа · ꙗко ѩже съдрьжить хвалимо · словесьно · пользьно · подобаѭште и съгласьно ·",
+    "sr": "Prvi je odredio misao krasnog kao ono što sadrži pohvalno, slovesno, korisno, prikladno i skladno."
   },
   {
     "id": "mm-001462",
@@ -492,7 +478,7 @@
       }
     ],
     "stsl": "Добра сѫть · ова въ дѹши · ова въ тѣлѣ · ова вънѣ · Правда · разборьность · мѫжьство и цѣломѫдриє въ дѹши · красота · благо тѣло · здравиє и крѣпость въ тѣлѣ · дрѹзи · отьчьства благочѧсть и богатъство вънѣ ·",
-    "sr": "Neka dobra su u duši, neka u telu, a neka spoljašnja. Pravednost, razboritost, hrabrost i umerenost pripadaju duši; lepota, dobra građa, zdravlje i snaga telu; prijatelji, blagočest otadžbine i bogatstvo spoljašnjim dobrima."
+    "sr": "Neka dobra su u duši, neka u telu, a neka vani. Pravednost, razboritost, hrabrost i umerenost pripadaju duši; lepota, dobra građa, zdravlje i snaga telu; prijatelji, blagočest otadžbine i bogatstvo spoljašnjim dobrima."
   },
   {
     "id": "mm-001463",
@@ -507,34 +493,6 @@
     ],
     "stsl": "Правды три види · єдинъ къ богомъ · дрѹгыи къ чловѣкомъ · трєтии къ ѹмръшимъ ·",
     "sr": "Tri su vida pravednosti: prema bogovima, prema ljudima i prema preminulima."
-  },
-  {
-    "id": "mm-001464",
-    "type": "quote",
-    "author": "Plato",
-    "originalText": "Διαιρεῖται δὲ ἡ εὐγένεια εἰς εἴδη τέτταρα. Ἓν μέν, ἐὰν ὦσιν οἱ πρόγονοι καλοὶ κἀγαθοὶ καὶ δίκαιοι, τοὺς ἐκ τούτων γεγεννημένους εὐγενεῖς φασιν εἶναι.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.88–89"
-      }
-    ],
-    "stsl": "Раꙁдѣлѧєтъ сѧ благородьство на четꙑри видꙑ · Єдинъ · аште прѣдъци добри и благи и праведьни · таковꙑихъ родъ благороденъ нарицаємъ ·",
-    "sr": "Deli se plemenitost na četiri vida. Prvi, ako su preci dobri i plemeniti i pravedni, njihove potomke nazivamo plemenitima."
-  },
-  {
-    "id": "mm-001465",
-    "type": "quote",
-    "author": "Plato",
-    "originalText": "Τὸ κάλλος διαιρεῖται εἰς τρία· ἓν μὲν γὰρ αὐτοῦ ἐστιν ἐπαινετόν, οἷον ἡ διὰ τῆς ὄψεως εὐμορφία· ἄλλο δὲ χρηστικόν.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.89"
-      }
-    ],
-    "stsl": "Красота на три дѣлить сѧ · єдинъ єѩ видъ хвалимъ · ꙗко очима зрима доброта · дрѹгыи же пользьнъ ·",
-    "sr": "Lepota se deli na tri vida. Jedan je hvaljen, kao lepota koja se opaža vidom; drugi je koristan."
   },
   {
     "id": "mm-001466",
@@ -593,20 +551,6 @@
     "sr": "Blagočest se deli na pet delova: dobro rasuđivanje, valjana čula i zdravlje tela, uspeh u delima, dobar glas među ljudima i obilje novca i onoga što je potrebno za život."
   },
   {
-    "id": "mm-001470",
-    "type": "quote",
-    "author": "Plato",
-    "originalText": "Τὸ ἀγαθὸν εἰς τέτταρα γένη διαιρεῖται· ὧν ἓν μὲν λέγομεν εἶναι τὸν τὴν ἀρετὴν ἔχοντα ἰδίᾳ ἀγαθόν· ἄλλο δὲ αὐτὴν τὴν ἀρετὴν καὶ τὴν δικαιοσύνην λέγομεν ἀγαθὸν εἶναι· τρίτον δέ, οἷον σιτία καὶ γυμνάσια τὰ πρόσφορα καὶ φάρμακα.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.101"
-      }
-    ],
-    "stsl": "Добро на четири роди дѣлить сѧ · Пръво · добрымъ особо нарицаємъ имѫштаго добродѣтель · дрѹго · самѫ добродѣтель и правдѫ добромъ нарицаємъ · третиє · подобьна брашьна · ѹпражнениꙗ и лѣкованиꙗ ·",
-    "sr": "Dobro se deli na četiri roda. Prvo, dobrim po sebi nazivamo onoga ko ima vrlinu. Drugo, dobrima nazivamo samu vrlinu i pravednost. Trećem rodu pripadaju odgovarajuća hrana, vežbe i lekovi."
-  },
-  {
     "id": "mm-001471",
     "type": "quote",
     "author": "Plato",
@@ -617,8 +561,8 @@
         "reference": "III.102"
       }
     ],
-    "stsl": "Отъ сѫштихъ ова зъла · ова добра · ова ни єдина ни дрѹга · Зъла нарицаємъ · єлика присно врѣдити могѫть · ꙗко неразсѫдьство · безѹмиє · неправьда и подобьна · Противьна же симъ добра сѫть ·",
-    "sr": "Među postojećim neka su zla, neka dobra, a neka ni jedno ni drugo. Zlima nazivamo ona koja uvek mogu škoditi, kao što su nerazboritost, bezumlje, nepravda i slično; njihove suprotnosti su dobra."
+    "sr": "Od suštih neka su zla, neka dobra, a neka ni jedno ni drugo. Zlima nazivamo ona koja uvek mogu škoditi, kao nerazboritost, bezumlje, nepravda i slično. Njima protivna su dobra.",
+    "stsl": "Отъ сѫштихъ ова зъла · ова добра · ова ни єдина ни дрѹга · Зъла нарицаємъ · єлика присно врѣдити могѫть · ꙗко неразсѫдьство · безѹмиє · неправьда и подобьна · Противьна же симъ добра сѫть ·"
   },
   {
     "id": "mm-001472",
@@ -633,34 +577,6 @@
     ],
     "stsl": "Благозакониє на три дѣлить сѧ · Єдино · єгда закони добри сѫть · дрѹгоє · єгда граждане положеныхъ законъ дръже сѧ · третиє · єгда и безъ законъ по добрымъ обычаємъ и дѣломъ градомъ правѧть ·",
     "sr": "Blagozakonje se deli na tri vida: kada su zakoni valjani; kada se građani drže postavljenih zakona; i kada se, bez pisanih zakona, dobro upravlja prema običajima i ustaljenim postupcima."
-  },
-  {
-    "id": "mm-001473",
-    "type": "quote",
-    "author": "Plato",
-    "originalText": "Τῶν ἀγαθῶν γένη ἐστὶ τρία· τὰ μὲν γάρ ἐστιν ἑκτά, τὰ δὲ μεθεκτά, τὰ δὲ ὑπαρκτά. Τὰ μὲν οὖν ἑκτά ἐστιν, ὅσα ἐνδέχεται ἔχειν, οἷον ἡ δικαιοσύνη καὶ ἡ ὑγίεια.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.105"
-      }
-    ],
-    "stsl": "Добра три рода сѫть · ова стѧжима · ова причѧстима · ова присѫшта · Стѧжима сѫть · єлика мощьно имѣти · ꙗко правда и здравиє ·",
-    "sr": "Tri su roda dobara: ona koja se mogu posedovati, ona u kojima se može učestvovati i ona koja nečemu pripadaju. Posedovati se mogu, na primer, pravednost i zdravlje."
-  },
-  {
-    "id": "mm-001474",
-    "type": "quote",
-    "author": "Plato",
-    "originalText": "Τῶν ὄντων τὰ μέν ἐστι καθ' ἑαυτά, τὰ δὲ πρός τι λέγεται. Τὰ μὲν οὖν καθ' ἑαυτὰ λεγόμενά ἐστιν ὅσα ἐν τῇ ἑρμηνείᾳ μηδενὸς προσδεῖται· ταῦτα δ' ἂν εἴη οἷον ἄνθρωπος, ἵππος καὶ τἆλλα ζῷα.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "III.108–109"
-      }
-    ],
-    "stsl": "Отъ сѫштихъ ова по себѣ сѫть · ова къ нѣчесомѹ глаголѭть сѧ · По себѣ глаголема · єлика въ сказании ничьтоже ино трѣбѹѭть · ꙗко чловѣкъ · конь и проча животна ·",
-    "sr": "Među postojećim neka se kazuju po sebi, a neka u odnosu prema nečemu. Po sebi se kazuju ona kojima u objašnjenju ništa drugo nije potrebno, poput čoveka, konja i ostalih životinja."
   },
   {
     "id": "mm-001475",
@@ -797,7 +713,7 @@
   },
   {
     "id": "mm-001484",
-    "type": "reported",
+    "type": "mention",
     "author": "Plato",
     "originalText": "Διαλεκτικὴν δὲ πρῶτον εἰσηγήσασθαι Πλάτωνα, ὡς Φαβωρῖνός φησιν ἐν Παντοδαπῇ ἱστορίᾳ.",
     "sources": [

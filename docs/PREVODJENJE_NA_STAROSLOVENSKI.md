@@ -1,5 +1,4 @@
 # Pravila rekonstrukcije slovenskog filozofskog jezika VIII veka
-
 Polje `stsl` predstavlja prevod na rekonstruisani slovenski filozofski jezik VIII veka.
 
 U ovom projektu termin **„staroslovenski“** koristi se kao skraćen naziv za taj rekonstruisani jezik, osim kada se izričito odnosi na istorijski staroslovenski jezik ili njegove spomenike.
@@ -7,7 +6,6 @@ U ovom projektu termin **„staroslovenski“** koristi se kao skraćen naziv za
 Cilj nije doslovna rekonstrukcija govornog jezika VIII veka, niti ograničavanje na reči slučajno sačuvane u poznatim spomenicima, već stvaranje mogućeg, autentičnog slovenskog filozofskog jezika tog doba.
 
 ## Autoritet i izbor reči
-
 Glavni autoritet projekta je [RECNIK.md](RECNIK.md).
 
 Ako je grčki termin već obrađen u rečniku, koristiti tamo utvrđeni staroslovenski ekvivalent. Ne menjati ga samostalno samo zato što drugi oblik postoji u istorijskom korpusu, crkvenoslovenskom ili savremenim slovenskim jezicima.
@@ -15,9 +13,13 @@ Ako je grčki termin već obrađen u rečniku, koristiti tamo utvrđeni staroslo
 Kod termina koji još nisu utvrđeni u rečniku koristiti sledeće izvore i kriterijume:
 
 1. istorijski staroslovenski i drugi rani slovenski oblici;
-2. rekonstruisane praslovenske reči i koreni (https://en.wiktionary.org/wiki/Category:Proto-Slavic_lemmas);
+
+2. rekonstruisane praslovenske reči i koreni (https\\://en.wiktionary.org/wiki/Category\\\:Proto-Slavic_lemmas);
+
 3. rekonstrukcija prema slovenskim korenima i istorijski mogućim tvorbenim obrascima;
+
 4. crkvenoslovenski i drugi kasniji slovenski oblici kao pomoć pri rekonstrukciji;
+
 5. međuslovenski i savremeni slovenski jezici kao poslednja pomoć.
 
 Istorijska potvrđenost reči u sačuvanom korpusu **nije uslov** za njenu upotrebu.
@@ -40,32 +42,31 @@ Najvažnije je da reč:
 Ne koristiti moderne termine ako se može izgraditi odgovarajući stariji ili rekonstruisani slovenski izraz.
 
 ## Jezik
-
 Rekonstruisati mogući književni slovenski jezik VIII veka, uz očuvanje praslovenske fonologije, morfologije i leksike.
 
 Korpus koristiti kao jezički uzor i dokaz mogućih oblika, tvorbe, morfologije i sintakse, ali ne kao zatvoren spisak dopuštenih reči.
 
 ## Grafija
-
 Jezik zapisivati arhaičnom ćirilicom zasnovanom na najranijoj ćiriličnoj tradiciji.
 
 ### Osnovna pravila
-
 * **ѹ** umesto у i ꙋ (uvek ѹ)
 * **Ꙁ** umesto З (zemlja sa repom)
 * **Ѣ** uvek koristiti gde etimološki pripada (jat)
 * **Ѧ** i **Ѫ** čuvati prema etimologiji (nosni samoglasnici)
 
-  * **Ѧ** (mali jus, U+0467) za praslovenski *ę* (nosno e)
-  * **Ѫ** (veliki jus, U+046A) za praslovenski *ǫ* (nosno o)
-  * **Ne koristiti ꙙ** (zatvoreni mali jus, U+A659) — uvek pisati **ѧ**
-* **ѭ** samo kada potiče od praslovenskog *jǫ* (mali jus jotirani)
-* **ꙗ** (ja) i **ѧ** (*ę*) razlikovati prema etimologiji
+  * **Ѧ** (mali jus, U+0467) za praslovenski ***ę*** (nosno e)
+
+  * **Ѫ** (veliki jus, U+046A) za praslovenski ***ǫ*** (nosno o)
+
+  * **Ne koristiti ꙙ** (zatvoreni mali jus, U+A659) — uvek pisati **ѧ**
+
+* **ѭ** samo kada potiče od praslovenskog ***jǫ*** (mali jus jotirani)
+* **ꙗ** (ja) i **ѧ** (***ę***) razlikovati prema etimologiji
 * **-ть** završetak u 3. licu prezenta (npr. **єсть**, **глаголєть**)
 * **-ніє** u nastavcima, ne -ниє (dosledno -ніє)
 
 ### Grčka slova (samo u ličnim imenima)
-
 Ova slova koristiti **SAMO** u grčkim ličnim imenima kada odgovaraju grčkom izvorniku:
 
 * **Ѡ** (omega) — samo kada odgovara grčkom Ω (npr. Сѡкратъ, Платѡнъ, Блѡсѡна)
@@ -84,7 +85,6 @@ Ova slova koristiti **SAMO** u grčkim ličnim imenima kada odgovaraju grčkom i
 Ne postoje grčke tuđice u ovom projektu — sve reči su slovenske osim ličnih imena.
 
 ### Uglavnom izbegavati
-
 Ova slova su **kasnija** i ne pripadaju arhaičnoj staroslovenskoj grafiji:
 
 * **Ї** i **ї** → uvek koristiti **І** i **і** (i deseterično bez tačaka)
@@ -94,13 +94,11 @@ Ova slova su **kasnija** i ne pripadaju arhaičnoj staroslovenskoj grafiji:
 * moskovske osobine (ё, й)
 
 ### Interpunkcija
-
 Staroslovenski je bez znakova interpunkcije, osim **srednje tačke ·** koja menja sve ostale znake (.,;:)
 
 **Važno:** Svaka rečenica završava se sa · (srednja tačka), ne sa običnom tačkom.
 
 ### Pisanje odvojeno
-
 U staroslovenskom prevodu prednost daj starijem, analitičkom pisanju. Kasnije srasle oblike, naročito one nastale spajanjem čestica, piši odvojeno kada je gramatički opravdano.
 
 Primeri: `неже ли` umesto `нежели`, `тако же` umesto `такоже`, `тѣмь же` umesto `тѣмже`, `егда же` umesto `егдаже`, `аще ли` umesto `ащели`.
@@ -108,7 +106,6 @@ Primeri: `неже ли` umesto `нежели`, `тако же` umesto `тако
 Čestice `же`, `бо`, `ли`, `убо` i slične ne spajaj automatski s prethodnom rečju. Ne rastavljaj reči proizvoljno: odvojeno pisanje treba odgovarati starijoj gramatičkoj strukturi.
 
 ## Ritam i duh staroslovenske rečenice
-
 Najvažnije: Slediti duh i ritam stare slovenske rečenice, ne samo grafiju i terminologiju.
 
 Za završno sažimanje i oblikovanje prevoda primenjivati postupak iz [KLESANJE_PREVODA.md](KLESANJE_PREVODA.md).
@@ -124,18 +121,19 @@ Staroslovenska filozofska rečenica je:
 * **ne prevoditi reč po reč** — prvo razumeti misao, zatim oblikovati slovensku rečenicu.
 
 ### Primeri dobrog ritma
-
 ❌ Наиборзо єсть ѹмъ · ꙗко вьсѹдѹ тькъно течєть ·
+
 ✅ Борзъ ѹмъ · чрєꙁъ вьсѧ бо прѣтечєть ·
 
 ❌ Отъ вьсѣхъ сѫщиихъ наистарьши єсть Богъ · ꙗко нерожденъ єсть ·
+
 ✅ Старѣи вьсѣхъ сѫщиихъ Богъ · нерожденъ бо єсть ·
 
 ❌ Начѧло же вьсѣмь вода поставлѧєть ·
+
 ✅ Начѧло вьсѣмь вода ·
 
 ### Kako formirati superlative
-
 Umesto mehaničkog dodavanja `наи-`, koristiti prirodnije konstrukcije:
 
 * **наилѣпши** → **лѣпши вьсѣхъ** ili prosto **лѣпши**
@@ -146,8 +144,9 @@ Umesto mehaničkog dodavanja `наи-`, koristiti prirodnije konstrukcije:
 
 Reč treba da zvuči kao prava staroslovenska filosofska izreka, ne kao mehanički prenos grčke strukture.
 
-## Transkripcija imena
+Konačni prevod mora neusiljeno teći: arhaičnost i terminološka doslednost ne smeju stvarati veštačku slovensku rečenicu.
 
+## Transkripcija imena
 Grčka vlastita imena prenositi prema grčkom izvorniku, a ne prema kasnijim tradicionalnim slovenskim oblicima.
 
 Primeri:
@@ -159,9 +158,7 @@ Primeri:
 * Ἀριστοτέλης → Арістотєль
 
 ## Prevođenje grčkih filozofskih termina
-
 ### Rečnik je glavni autoritet
-
 Pre prevođenja filozofskog termina prvo proveriti [RECNIK.md](RECNIK.md).
 
 Ako termin postoji u rečniku, koristiti tamo određeni prevod.
@@ -171,7 +168,6 @@ Korpus, etimološki rečnici, praslovenske rekonstrukcije i drugi izvori mogu sl
 Ako postoji razlog da se postojeći unos u rečniku promeni, prvo razmotriti promenu samog rečnika, a zatim dosledno primeniti novu odluku na prevode.
 
 ### Čuvanje mreže reči
-
 Jezik je mreža znanja: značenje nije samo u pojedinačnim rečima nego i u vezama među njima. Zato prevod treba, gde je moguće, da sačuva korene, srodstva i razlike među pojmovnim porodicama.
 
 Osnovni princip:
@@ -201,15 +197,17 @@ Ako je jedan član slovenske porodice potvrđen, a drugi nije, dozvoljeno ga je 
 Prednost ima dosledan pojmovni sistem nad izolovanim prevodom pojedinačne reči.
 
 ### Rekonstrukcija novih termina
-
 Ako termin ne postoji u `RECNIK.md`:
 
 1. utvrditi značenje i grčku korensku porodicu;
-2. proveriti odgovarajuću slovensku porodicu u staroslovenskom, praslovenskom i međuslovenskom;
-3. proveriti istorijske tvorbene obrasce;
-4. izabrati ili rekonstruisati termin koji se najbolje uklapa u sistem rečnika.
 
-Istorijska potvrda je prednost, ali nije uslov. Najvažnije je da oblik bude istorijski moguć, slovenski i sistemski dosledan.
+2. proveriti staroslovenski korpus;
+
+3. proveriti praslovenski i srodne slovenske jezike;
+
+4. ako nema odgovarajućeg termina, rekonstruisati novu reč prema istorijski mogućim slovenskim tvorbenim obrascima.
+
+Istorijska potvrda je prednost, ali nije uslov. Nove i nepotvrđene reči redovan su deo izgradnje ovog filozofskog jezika.
 
 Ne preuzimati automatski biblijske ili patrističke prevode grčkih termina.
 
@@ -224,13 +222,13 @@ ako se pojam može izraziti odgovarajućom slovenskom rečju ili istorijski mogu
 Koristiti jezičke oblike prirodne za staroslovenski. Ne kopirati grčki red reči ako narušava slovensku konstrukciju.
 
 ## Princip jedan na jedan
+Težiti odnosu:
 
 `jedna grčka reč → jedna staroslovenska reč → jedna srpska reč`
 
-Ne koristiti sinonime ili opisne prevode ako je prevod jednom rečju moguć. Srodne grčke reči prevoditi odgovarajućom slovenskom porodicom reči.
+Ne koristiti sinonime ili opisne prevode bez potrebe. Srodne grčke reči po pravilu prevoditi odgovarajućom slovenskom porodicom reči.
 
 ## Uloga staroslovenskog korpusa
-
 Korpus je jedan od glavnih instrumenata rekonstrukcije, ali nije konačni autoritet za izbor filozofskog termina.
 
 Koristiti ga za:
@@ -254,74 +252,17 @@ Posebno kod filozofske terminologije očekivano je da projekat mora stvarati ter
 
 Za katalog izvora vidi [KORPUS.md](KORPUS.md).
 
-## Česte greške i kako ih izbeći
+## Česte greške
 
-### 1. Pogrešna upotreba Ѡ (omega)
-
-❌ **POGREŠNO:** Ѡ градѣ · ѡставити · ѡгнь · ѡдолѣвъше
-✅ **ISPRAVNO:** О градѣ · оставити · огнь · одолѣвъше
-
-**Zapamti:** Ѡ/ѡ koristiti **ISKLJUČIVO** u ličnim imenima: Сѡкратъ, Платѡнъ, Блѡсѡна. Sve slovenske reči koriste obično **о**.
-
-### 2. Upotreba Ї umesto І
-
-❌ **POGREŠNO:** Їѡньско · мїтїленꙗнїнъ
-✅ **ISPRAVNO:** Іоньско · митиленꙗнинъ
-
-**Zapamti:** Nikad ne koristiti Ї ili ї — uvek samo І ili і.
-
-### 3. Mehanički `наи-` prefiksi
-
-❌ **POGREŠNO:** наилѣпшїꙗ · наісїльнѣишїи
-✅ **ISPRAVNO:** лѣпшїꙗ вьсѣхъ · силънѣиши
-
-**Zapamti:** Superlative formirati prirodno, bez mehaničkog `наи-`.
-
-### 4. Grčki i latinski termini umesto slovenskih
-
-❌ **POGREŠNO:** атомъ · категорија · субстанција
-✅ **ISPRAVNO:** pronaći ili rekonstruisati odgovarajući slovenski termin.
-
-**Zapamti:** Cilj projekta nije prenošenje istorijske grčko-latinske terminologije, već rekonstrukcija izvornog slovenskog filozofskog leksikona.
-
-### 5. Odbacivanje dobre reči samo zato što nije potvrđena
-
-❌ **POGREŠNO:** „Ova reč nije pronađena u korpusu, zato je ne možemo koristiti.“
-
-✅ **ISPRAVNO:** Proveriti njen praslovenski koren, tvorbu, srodne reči, fonologiju, morfologiju i uklapanje u terminološki sistem.
-
-**Zapamti:** Nepotvrđeno nije isto što i istorijski nemoguće.
-
-### 6. Nekonzistentnost u imenima
-
-❌ **POGREŠNO:** Піттак → Піттакова → Піттакъ
-✅ **ISPRAVNO:** Питтакъ → Питтакова → Питтакъ
-
-**Zapamti:** Održavati konzistentnost kroz ceo tekst.
-
-### 7. Zaboravljanje srednje tačke
-
-❌ **POGREŠNO:** Мѫдрость єсть благо.
-✅ **ISPRAVNO:** Мѫдрость єсть благо ·
-
-**Zapamti:** Svaka rečenica završava se sa · (srednja tačka).
-
-## Staroslovenski korpus
-
-Vidi [KORPUS.md](KORPUS.md) za katalog izvornih tekstova.
-
-## Rečnik
-
-[RECNIK.md](RECNIK.md) je glavni terminološki autoritet projekta.
-
-Već utvrđene termine koristiti dosledno.
-
-Kada se donese nova terminološka odluka, prvo je uneti u rečnik, a zatim je primenjivati kroz prevode.
-
-Vidi još [BIBLIJSKI_RECNIK.md](BIBLIJSKI_RECNIK.md) kao primer ranijih prevoda.
+* Ѡ/ѡ koristiti samo u ličnim imenima; u slovenskim rečima pisati о.
+* Ne koristiti Ї/ї; koristiti І/і.
+* Ne graditi superlative mehaničkim `наи-` ako prirodniji oblik postoji.
+* Ne preuzimati grčke i latinske filozofske termine ako postoji slovenski izraz ili moguća rekonstrukcija.
+* Ne odbacivati dobru reč samo zato što nije potvrđena u korpusu.
+* Održavati dosledne oblike ličnih imena kroz ceo tekst.
+* Svaka staroslovenska rečenica završava se srednjom tačkom ·
 
 ## Primeri dobrih prevoda
-
 Za uzore kratke, prirodne i sažete staroslovenske rečenice koristiti [isus.json](data/sources/corpus/isus.json).
 
 Za primere naših prevoda vidi [PRIMERI.md](PRIMERI.md)

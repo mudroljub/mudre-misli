@@ -2,10 +2,13 @@
 
 ## Usavršiti prevode
 
-- [ ] Proći stavke iz `docs/RECNIK.md` i proveriti da li su njihovi srpski i
-  staroslovenski ekvivalenti dosledno primenjeni u celom korpusu.
-- oceniti stsl prevod za svaki unos
-- popravljati lošiji staroslovenski
+- oceniti kvalitet prevoda
+  - ili oceniti kvalitet svih stsl i sr prevoda u projektu ako nije prevelik posao 
+  - ili oceniti prvih 10 stsl i sr prevoda za svakog autora
+- identifikovati lošije prevedene autore
+- popravljati lošije stsl prevode (na osnovu isus.json kao uzora za etiku i Бытиѥ.md za kosmologiju)
+- popravljati lošije sr prevode
+- upodobiti sr prevod staroslovenskom dokle je prirodno (koristiti iste korene, imenice, glagole i sl kada je moguće)
 
 ## UI
 

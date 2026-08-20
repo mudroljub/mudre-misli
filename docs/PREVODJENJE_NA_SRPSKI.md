@@ -2,70 +2,47 @@
 
 ## Osnovna načela
 
-* Prevoditi neposredno sa grčkog izvornika.
-* Dosledno koristiti termine i pojmovne porodice iz [RECNIK.md](RECNIK.md).
 * Grčki izvornik je konačni kriterijum značenja i tačnosti.
-* Srpski i staroslovenski prevod treba da budu međusobno bliski kada grčki izvornik to dopušta.
-* Ne udaljavati srpski od staroslovenskog samo radi savremenijeg ili uobičajenijeg izraza.
+* Dosledno koristiti termine i pojmovne porodice iz [RECNIK.md](RECNIK.md).
+* RECNIK.md predstavlja naš ujednačen i sistematizovan jezik i ima prednost nad korpusom.
+* Osnovni smer prevođenja je `grčki → staroslovenski → srpski`.
+* Srpski graditi po uzoru na staroslovenski, uz neposrednu proveru prema grčkom.
+* Cilj je arhaičan slovenski srpski, ne savremeni izraz.
 
 ## Postupak prevođenja
 
-Prevod raditi u dva prolaska.
+Pre srpskog prevoda proveriti:
 
-### Prvi prolazak — prevod sa grčkog
+* puni grčki izvor i kontekst;
+* važne grčke reči i njihove korenske porodice;
+* odgovarajuće termine i porodice u RECNIK.md;
+* staroslovenski prevod.
 
-Srpski prevod najpre izraditi neposredno prema grčkom izvorniku, nezavisno od staroslovenskog prevoda.
+Srpski zatim graditi blisko staroslovenskom, ali ga uvek proveravati prema grčkom.
 
-U ovom prolasku proveriti:
+Kada grčke reči nema u rečniku, tražiti stsl izraz redom:
 
-* tačno značenje grčkog teksta;
-* značenje svake važne grčke reči u konkretnom kontekstu;
-* filozofske termine prema [RECNIK.md](RECNIK.md);
-* odnose među grčkim pojmovnim porodicama;
-* sintaksu izvornika;
-* participe, infinitive i druge konstrukcije koje se mogu prirodno sačuvati na srpskom.
+`korpus → praslovenski i srodni slovenski jezici → nova tvorba`
 
-Ne prilagođavati značenje grčkog teksta postojećem staroslovenskom prevodu.
+Nove i nepotvrđene slovenske reči dopuštene su i poželjne kada su potrebne za dosledan filozofski jezik.
 
-### Drugi prolazak — upodobljavanje staroslovenskom
+Ako RECNIK.md nudi više prevoda, prvi je podrazumevan kada se dobro uklapa; ako ne, pokušati alternativu.
 
-Nakon što je napravljen veran srpski prevod, uporediti ga sa staroslovenskim prevodom.
+## Kriterijumi prevoda
 
-Gde grčki izvornik dopušta, upodobiti srpski staroslovenskom u:
+Dobar srpski prevod treba da bude:
 
-* filozofskim pojmovima;
-* pojmovnim porodicama;
-* izboru slovenskih reči;
-* sintaksičkim konstrukcijama;
-* redu i načinu izražavanja misli.
+1. razumljiv;
+2. korenski dosledan;
+3. arhaičan;
+4. blizak staroslovenskom;
+5. prirodan.
 
-Kada više srpskih rešenja jednako verno prenosi grčki, prednost dati onome koje je bliže staroslovenskom.
+Savremenost izraza nije kriterijum. Od starog ili terminološki doslednog izraza odstupati samo kada postaje nerazumljiv.
 
-Posebno čuvati zajedničke slovenske pojmove. Ako staroslovenski i srpski mogu prirodno koristiti reči iste porodice, ne zamenjivati srpsku reč nepovezanim sinonimom samo zato što je danas češći.
+Konačni tekst mora neusiljeno teći. Ne preslikavati mehanički grčku sintaksu, nego je izraziti prirodno slovenski, čuvajući značenje, pojmove i njihove korenske veze.
 
-Upodobljavanje ne sme:
-
-* promeniti značenje grčkog izvornika;
-* preneti grešku iz staroslovenskog u srpski;
-* učiniti srpski neprirodnim ili nerazumljivim.
-
-Primer:
-
-Loše:
-
-```text
-"stsl": "Паче люби слѹшати · неже ли глаголати ·"
-"sr": "Više voli da slušaš nego da govoriš."
-````
-
-Dobro:
-
-```text
-"stsl": "Паче люби слѹшати · неже ли глаголати ·"
-"sr": "Više ljubi slušati nego govoriti."
-```
-
-Drugi prevod ostaje veran grčkom, ali je istovremeno bliži staroslovenskom u izboru reči i konstrukciji.
+Kada grčki koristi različite bliske termine, čuvati njihovu razliku i u slovenskom. Kada grčki gradi korensku porodicu, težiti odgovarajućoj slovenskoj porodici.
 
 ## Jezička pravila
 
@@ -73,80 +50,50 @@ Drugi prevod ostaje veran grčkom, ali je istovremeno bliži staroslovenskom u i
 
 Kada je prirodno, grčki particip prevoditi participom umesto odnosnom rečenicom.
 
-Lošije:
-
-`Od svega što postoji`
-
-Bolje:
-
-`Od svega postojećeg`
-
-Ne pretvarati particip automatski u odnosnu rečenicu ako srpski particip prirodno prenosi isto značenje.
-
 ### Infinitiv
 
 Kada je prirodno, koristiti infinitiv umesto konstrukcije `da + prezent`.
 
-Lošije:
+Lošije: `ne može da podnese`
 
-`ne može da podnese`
-
-Bolje:
-
-`ne može podneti`
-
-Isto pravilo primenjivati naročito kada infinitiv bolje čuva strukturu grčkog i staroslovenskog izraza.
+Bolje: `ne može podneti`
 
 ### Aorist
 
-Koristiti aorist umesto perfekta kada se pripoveda o završenoj radnji u prošlosti, naročito kada daje zbijeniji i prirodniji izraz.
+U pripovedanju o završenim prošlim radnjama preferirati aorist.
 
-Lošije:
+Lošije: `rekao je`
 
-`Pre nego što su se stvari razlučile.`
-
-Bolje:
-
-`Pre nego što se stvari razlučiše.`
+Bolje: `reče`
 
 ### Navodnici
 
 Izbegavati navodnike kada nisu potrebni.
 
-Lošije:
+Lošije: `Solon reče: "Dobar budi."`
 
-`Solon je govorio: "Dobar budi."`
-
-Bolje:
-
-`Solon je govorio: Dobar budi.`
+Bolje: `Solon reče: Dobar budi.`
 
 ## Rečnik
 
-Za ustaljene filozofske termine i pojmovne porodice dosledno koristiti [RECNIK.md](RECNIK.md).
+RECNIK.md ima prednost nad slobodnim izborom sinonima i korpusom.
 
-Rečnik ima prednost nad slobodnim izborom sinonima.
+Ne menjati ustaljeni termin samo zato što je druga reč danas češća. Voditi računa o celoj pojmovnoj porodici, ne samo o pojedinačnoj reči.
 
-Ne menjati ustaljeni termin drugom rečju samo zato što u pojedinačnoj rečenici zvuči savremenije ili uobičajenije.
-
-Pri prevođenju voditi računa o celoj pojmovnoj porodici, a ne samo o izolovanoj reči.
-
-Na primer, ako je za određenu grčku porodicu u rečniku uspostavljena odgovarajuća slovenska porodica, koristiti je dosledno i u srpskom prevodu gde god značenje to dopušta.
+Kada se tvori nova stsl reč, srpski par po pravilu graditi iz istog slovenskog korena, čak i kada takva reč ne postoji u savremenom standardnom srpskom.
 
 ## Završna provera
 
-Pre prihvatanja prevoda proveriti redom:
+1. Da li prevod tačno prenosi grčki?
+2. Da li su termini prethodno provereni u RECNIK.md?
+3. Da li su očuvane pojmovne i korenske porodice?
+4. Da li je srpski dovoljno blizak staroslovenskom?
+5. Da li je izraz razumljiv, arhaičan i prirodan?
+6. Da li konačna rečenica neusiljeno teče?
 
-1. Da li srpski tačno prenosi grčki izvornik?
-2. Da li su termini usklađeni sa [RECNIK.md](RECNIK.md)?
-3. Da li su očuvane važne grčke i slovenske pojmovne porodice?
-4. Da li se srpski može dodatno približiti staroslovenskom bez promene značenja?
-5. Da li su participi i infinitivi sačuvani tamo gde prirodno funkcionišu na srpskom?
-6. Da li je konačni srpski tekst prirodan i razumljiv?
+Red prioriteta:
 
-Red prioriteta je:
-
-`grčki izvornik → RECNIK.md → upodobljavanje staroslovenskom → prirodan srpski izraz`
+`grčki izvornik → RECNIK.md → staroslovenski → arhaični srpski`
 
 ## Primeri dobrih prevoda
 
