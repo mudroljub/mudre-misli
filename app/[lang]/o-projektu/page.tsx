@@ -3,6 +3,7 @@ import Header from '../../../components/Header'
 import Sidebar from '../../../components/Sidebar'
 import { supportedLanguages, type Language } from '../../../types/data'
 import { getTranslation } from '../../../utils/translations'
+import { withBasePath } from '../../../utils/helpers'
 import styles from './page.module.scss'
 
 interface AboutPageProps {
@@ -40,14 +41,14 @@ export default function AboutPage({ params }: AboutPageProps) {
           </p>
 
           <figure>
-            <img src="/images/Blatnograd.jpg" alt="Blatnohrad" />
+            <img src={withBasePath("/images/Blatnograd.jpg")} alt="Blatnohrad" />
             <figcaption>Učilište Blatnograda, savremena rekonstrukcija</figcaption>
           </figure>
 
           <p>Blatnograd, na obali Blatnog jezera, bio je prestonica Blatenske zemlje (Блатьньскъ), koja je povezivala južne i zapadne Slovene pre dolaska Ugara.</p>
 
           <figure>
-            <img src="/images/Grande_Moravie.png" alt="Blatenska i Velika Moravska" />
+            <img src={withBasePath("/images/Grande_Moravie.png")} alt="Blatenska i Velika Moravska" />
             <figcaption>Blatenska zemlja između Hrvatske i Velike Moravske.</figcaption>
           </figure>
 
@@ -57,7 +58,7 @@ export default function AboutPage({ params }: AboutPageProps) {
           </p>
 
           <figure>
-            <img src="/images/Bratia_sv._Cyril_a_Metod_Sečovce_19_Slovensko.jpg" alt="Kiril i Metod" />
+            <img src={withBasePath("/images/Bratia_sv._Cyril_a_Metod_Sečovce_19_Slovensko.jpg")} alt="Kiril i Metod" />
             <figcaption>Konstantin Filozof i brat njegov Metod, donositelji slovenske pismenosti.</figcaption>
           </figure>
         </article>

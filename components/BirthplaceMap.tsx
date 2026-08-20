@@ -1,5 +1,6 @@
 import type { PlaceCoordinates } from "../types/data";
 import styles from "./BirthplaceMap.module.scss";
+import { withBasePath } from "../utils/helpers";
 
 interface BirthplaceMapProps {
   coordinates: PlaceCoordinates;
@@ -35,7 +36,7 @@ export default function BirthplaceMap({
       >
         <img
           className={styles.mapImage}
-          src="/images/maps/mediterranean.svg"
+          src={withBasePath("/images/maps/mediterranean.svg")}
           alt=""
         />
         <span

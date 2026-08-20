@@ -7,6 +7,7 @@ import BirthplaceMap from "./BirthplaceMap"
 import AuthorSection from "./AuthorSection"
 import { getAuthorName, placesData } from "../utils/catalog"
 import { useTranslations } from "../utils/useTranslations"
+import { withBasePath } from "../utils/helpers"
 import type {
   AuthorData,
   Language,
@@ -93,7 +94,7 @@ export default function AuthorPageClient({
             {authorData.src && (
               <img
                 className={styles.authorPortrait}
-                src={authorData.src}
+                src={withBasePath(authorData.src)}
                 alt={authorName}
               />
             )}
