@@ -390,7 +390,7 @@ export const translations: Record<Language, Translations> = {
       'Chilon of Sparta': 'Hilon',
       Epimenides: 'Epimenid',
       'Pherecydes of Syros': 'Ferekid',
-      Menedemus: 'Menedém',
+      Menedemus: 'Menedem',
       Cleobulus: 'Kleobul',
       Cleobulina: 'Kleobulina',
     },

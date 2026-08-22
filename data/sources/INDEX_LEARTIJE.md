@@ -66,7 +66,7 @@ Hronološki popis svih filozofa koje Diogen Laertije obrađuje (10 knjiga).
 42. Kebet (Κέβης, 5. vek p.n.e.)
 43. Antisten (Ἀντισθένης, oko 446–366. p.n.e.) ✅
 44. Stilpon (Στίλπων, oko 380–300. p.n.e.)
-45. Menedém Eritrejski (Μενέδημος, oko 345–261. p.n.e.) ✅
+45. Menedem Eritrejski (Μενέδημος, oko 345–261. p.n.e.) ✅
 
 ### Platonova akademija (4.–2. vek p.n.e.) — Knjige III, IV
 
