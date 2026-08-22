@@ -1,0 +1,9539 @@
+Epiktet — Razgovori IV.1
+
+O slobodi
+
+Srpski
+
+Slobodan je onaj koji živi kako hoće, koga niko ne može ni prisiliti ni sprečiti ni primorati; čije su težnje nesmetane, čiji otkloni ne zapadaju u ono od čega se otklanjaju.
+
+Ko, dakle, hoće da živi grešeći?
+
+Niko.
+
+Ko hoće da živi obmanut, nepromišljen, nepravedan, razuzdan, nezadovoljan i ponižen?
+
+Niko.
+
+Nijedan, dakle, rđav čovek ne živi kako hoće.
+
+Prema tome, nijedan nije ni slobodan.
+
+***
+
+A ko hoće da živi u žalosti, strahu, zavisti i sažaljenju, da žudi a ne postiže, da se otklanja a ipak zapada u ono od čega se otklanja?
+
+Niko.
+
+Možemo li onda naći ijednog rđavog čoveka bez žalosti, straha, bez zapadanja u ono od čega se otklanja i bez promašivanja onoga čemu teži?
+
+Nijednog.
+
+Dakle, ni slobodnog.
+
+***
+
+Ako to čuje čovek koji je dvaput bio konzul, pa ti doda:
+
+Ali ako me računaš kao trećeg konzula, oprostiću ti,
+
+šta ćeš mu reći?
+
+Ako ti kažem istinu, kakve veze ima koliko si puta bio konzul?
+
+Ništa više nego ako bih govorio tesaru ili obućaru.
+
+Jer kada govorimo o nekoj stvari, ne treba da gledamo ono što toj stvari ne pripada.
+
+***
+
+A ako ti kaže:
+
+Moj otac je bio slobodan, i ja sam slobodan,
+
+reci mu:
+
+Je li tvoj otac imao slobodno proizvoljenje?
+
+Je li mogao živeti nesmetano kako je hteo?
+
+Je li mogao da mu težnja nikada ne promaši, a otklon nikada ne zapadne u ono od čega se otklanja?
+
+***
+
+Ali šta govoriš?
+
+Moj otac nikada nije imao gospodara.
+
+A zar ga niko nije mogao sprečiti?
+
+Niko prisiliti?
+
+Niko primorati da čini ono što nije hteo?
+
+***
+
+Zar nije robovao nekome koga je voleo?
+
+Zar nije robovao novcu?
+
+Zar nije robovao vlasti?
+
+Zar nije robovao vlastitom telu?
+
+Ako jeste, kako je bio slobodan?
+
+***
+
+Jer sloboda se ne stiče time što čovek ima slobodna oca i majku.
+
+Niti time što ga niko nije kupio na trgu.
+
+Niti time što mu ime nije zapisano među robovima.
+
+Sloboda je nešto drugo.
+
+***
+
+Pogledaj životinje koje držimo radi svojih potreba.
+
+Šta činimo s njima?
+
+Vežemo ih.
+
+Zatvaramo.
+
+Stavljamo im jaram.
+
+Vodimo ih kamo hoćemo.
+
+Zašto?
+
+Zato što su njihova tela u našoj vlasti.
+
+***
+
+A čoveka ne čini robom samo okov oko noge.
+
+Robom ga čini ono čemu je predao svoje dobro.
+
+Jer ko god ima vlast nad onim što ti smatraš svojim dobrom, ima vlast i nad tobom.
+
+***
+
+Ako smatraš dobrim svoje telo, gospodar ti je svako ko može da ga povredi.
+
+Ako smatraš dobrim imanje, gospodar ti je onaj koji može da ti ga oduzme.
+
+Ako smatraš dobrim položaj, gospodar ti je onaj koji ga može dati ili uskratiti.
+
+Ako smatraš dobrim ugled, gospodar ti je svaki čovek čije mnenje želiš da pridobiješ.
+
+***
+
+Hoćeš li, dakle, biti slobodan?
+
+Ne predaj svoje dobro ničemu tuđem.
+
+Ne traži ga u onome što drugi mogu dati ili oduzeti.
+
+Traži ga onde gde ti niko ne može prići kao gospodar.
+
+***
+
+Gde je to?
+
+U tvome proizvoljenju.
+
+U tome kako se služiš predstavama.
+
+U tome čemu pristaješ.
+
+U tome čemu težiš i od čega se otklanjaš.
+
+***
+
+Niko te ne može naterati da pristaneš laži kao laži.
+
+Niko te ne može naterati da izabereš zlo kao zlo.
+
+Niko ne može ovladati tvojim proizvoljenjem ako ga ti sam ne predaš.
+
+Tu je sloboda.
+
+***
+
+Ali moje telo može biti okovano.
+
+Šta ti je do toga?
+
+Noga može biti okovana.
+
+Proizvoljenje ne može.
+
+***
+
+Ali mogu mi odseći vrat.
+
+A kada ti je iko rekao da jedino tvoj vrat među svim stvarima na svetu ne može biti odsečen?
+
+***
+
+To treba da vežba onaj koji hoće da bude slobodan.
+
+To treba da proučava svakoga dana.
+
+Ne:
+
+Kako da me niko ne spreči u onome što se tiče tela?
+
+Nego:
+
+Kako da želim samo ono u čemu ne mogu biti sprečen?
+
+***
+
+Ako hoćeš da ti sin živi, postao si rob.
+
+Ako hoćeš da ti žena živi, postao si rob.
+
+Ako hoćeš da ti brat bude zdrav, postao si rob.
+
+Ako hoćeš da ti svi ljudi budu naklonjeni, postao si rob.
+
+Jer si svoju težnju predao stvarima nad kojima nemaš vlast.
+
+***
+
+Ali zar ne treba da volim sina?
+
+Treba.
+
+Zar ne treba da volim ženu?
+
+Treba.
+
+Zar ne treba da se staram o prijateljima?
+
+Treba.
+
+Ali kao slobodan čovek.
+
+Ne kao rob.
+
+***
+
+Kako?
+
+Kao što se putnik stara o saputnicima na brodu.
+
+Dok putovanje traje, čini za njih ono što treba.
+
+Ali kada kormilar pozove:
+
+Iziđi,
+
+iziđi.
+
+Ne okreći se.
+
+Ne vezuj se za brod.
+
+***
+
+Ako si star, ne udaljavaj se mnogo od broda.
+
+Da ne zakasniš kada te pozovu.
+
+Ako si mlad, možeš otići malo dalje.
+
+Ali i tada pamti da si putnik.
+
+***
+
+Tako i u životu.
+
+Umesto školjke i lukovice data ti je žena ili dete.
+
+Ništa ti ne smeta da ih voliš.
+
+Ali kada Kormilar pozove, ostavi sve i idi k Njemu.
+
+Ne okreći se.
+
+***
+
+A ako si star, ne odlazi daleko.
+
+Da ne bi, kada poziv dođe, bio odsutan.
+
+***
+
+Ali tiranin će me vezati.
+
+Šta će vezati?
+
+Nogu.
+
+A šta će učiniti s mojim proizvoljenjem?
+
+Ni Zevs ga ne može savladati.
+
+***
+
+Baciću te u tamnicu.
+
+Moje telo.
+
+Odseći ću ti glavu.
+
+Jesam li ti ikada rekao da samo moja glava ne može biti odsečena?
+
+***
+
+Takve stvari treba da proučava onaj koji hoće da bude slobodan.
+
+Ne silogizme.
+
+Ne kako se rešavaju zamršena pitanja.
+
+Nego kako se pred tiraninom može reći:
+
+Ti čini ono što je tvoje.
+
+Ja znam šta je moje.
+
+***
+
+Moje je da čuvam proizvoljenje po prirodi.
+
+Tvoje je da mi telo okuješ.
+
+Moje je da ne pristajem onome što je lažno.
+
+Tvoje je da me proteraš.
+
+Moje je da ne izaberem ono što je sramotno.
+
+Tvoje je da me ubiješ.
+
+***
+
+Ko je onda jači?
+
+Onaj koji ima vlast nad telom ili onaj koji ima vlast nad svojim proizvoljenjem?
+
+***
+
+Ako sam svoje dobro položio u telo, ti si jači.
+
+Ako sam ga položio u imanje, ti si jači.
+
+Ako sam ga položio u tvoje mnenje o meni, ti si jači.
+
+Ali ako sam ga položio u svoje proizvoljenje, šta mi možeš?
+
+***
+
+Zato je Diogen bio slobodan.
+
+Nije zato bio slobodan što ga niko nije mogao zarobiti.
+
+Bio je zarobljen.
+
+Ali onoga koji ga je zarobio nije smatrao svojim gospodarom.
+
+***
+
+Kada su ga prodavali, nije se ponašao kao rob.
+
+Gledao je kupce i pitao:
+
+Ko od vas hoće gospodara?
+
+***
+
+Tako govori slobodan čovek.
+
+Jer zna gde mu je gospodstvo.
+
+***
+
+Ako pak čovek, čim ga neko uhvati za ogrtač, počne da moli:
+
+Pusti me.
+
+Ne čini mi to.
+
+šta još treba da pitamo?
+
+Već je pokazao ko mu je gospodar.
+
+***
+
+Hoćeš da budeš slobodan?
+
+Vežbaj se da prezireš ono što nije do tebe.
+
+Vežbaj se da govoriš o svakoj spoljašnjoj stvari:
+
+Nije moje dobro.
+
+Nije moje zlo.
+
+***
+
+Telo nije moje dobro.
+
+Imanje nije moje dobro.
+
+Slava nije moje dobro.
+
+Vlast nije moje dobro.
+
+Ni smrt nije moje zlo.
+
+Ni progonstvo.
+
+Ni siromaštvo.
+
+Ni bolest.
+
+***
+
+Moje dobro jeste pravo proizvoljenje.
+
+Moje zlo jeste iskvareno proizvoljenje.
+
+Tu sam gospodar.
+
+Tu sam slobodan.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ ·
+
+Свободьнъ єсть · иже ꙗкоже хощеть живеть · єгоже никтоже понѫдити · ни възбранити · ни принѫдити можеть · єгоже тѧженіа невъзбраньна сѫть · отъклонꙑ же не въпадаѭть въ то · єгоже отъкланѧѭть сѧ ·
+
+Кто ѹбо погрѣшаѧ жити хощеть ·
+
+Никтоже ·
+
+Кто прѣльщенъ · безразборьнъ · неправьдьнъ · невъздръжьнъ · недовъленъ и ѹничиженъ жити хощеть ·
+
+Никтоже ·
+
+Ни єдинъ ѹбо зълъ чловѣкъ ꙗкоже хощеть живеть ·
+
+Тѣмьже ни свободьнъ єсть ·
+
+***
+
+Кто же хощеть въ печали · страхѣ · зависти и жалости жити · тѧжати и не полѹчати · отъкланѧти сѧ и обаче въпадати въ то · єгоже отъкланѧѥть сѧ ·
+
+Никтоже ·
+
+Обрѧщемъ ли ѹбо нѣкоего зъла чловѣка безъ печали · безъ страха · безъ въпаданіа въ то · єгоже отъкланѧѥть сѧ · и безъ погрѣшеніа того · къ немѹже тѧжеть ·
+
+Ни єдинаго ·
+
+Тѣмьже ни свободьна ·
+
+***
+
+Аще се слꙑшить чловѣкъ · иже двоицею ипатъ бꙑсть · и приложить ти ·
+
+Нъ аще мѧ третиаго ипата имаши · прощѫ ти ·
+
+что ємѹ речеши ·
+
+Аще ти истинѫ глаголѭ · что къ томѹ · коликожды ипатъ бꙑлъ єси ·
+
+Ничтоже паче · неже аще къ древодѣлѹ или сапожьникѹ глаголалъ быхъ ·
+
+Єгда бо о нѣкоеи вещи глаголемъ · не подобаѥть зрѣти на то · єже къ вещи не принадлежи ·
+
+***
+
+Аще же ти речеть ·
+
+Отьць мои свободьнъ бѣ · и азъ свободьнъ єсмь ·
+
+рьци ємѹ ·
+
+Имѣаше ли отьць твои свободьно произволеніѥ ·
+
+Можаше ли ꙗкоже хотѧаше невъзбраньно жити ·
+
+Можаше ли тѧженіѥ єго николиже погрѣшити · отъклонъ же николиже въпасти въ то · єгоже отъкланѧаше сѧ ·
+
+***
+
+Нъ что глаголеши ·
+
+Отьць мои николиже господина не имѣ ·
+
+Никтоже ли ємѹ възбранити можаше ·
+
+Никтоже ли понѫдити ·
+
+Никтоже ли принѫдити · да творить · єгоже не хотѣаше ·
+
+***
+
+Не рабоваше ли нѣкомѹ · єгоже люблѧаше ·
+
+Не рабоваше ли сребрѹ ·
+
+Не рабоваше ли власти ·
+
+Не рабоваше ли своемѹ тѣлѹ ·
+
+Аще же рабоваше · како свободьнъ бѣ ·
+
+***
+
+Свобода бо не отъ того бываѥть · ꙗко чловѣкъ свободьна отьца и матерь имать ·
+
+Ни отъ того · ꙗко никтоже єго на тръжищи кѹпи ·
+
+Ни отъ того · ꙗко имѧ єго междѹ рабꙑ не написано єсть ·
+
+Ино нѣчто свобода єсть ·
+
+***
+
+Виждь животьнаꙗ · ꙗже потрѣбꙑ ради дръжимъ ·
+
+Что съ ними творимъ ·
+
+Вѧжемъ ꙗ ·
+
+Затворѧѥмъ ·
+
+Иго на нихъ полагаѥмъ ·
+
+Ведемъ ꙗ · камо хощемъ ·
+
+Чесого ради ·
+
+Понеже тѣлеса ихъ въ нашеи власти сѫть ·
+
+***
+
+Чловѣка же не тъкмо оковъ на нозѣ рабъ творить ·
+
+Рабъ єго творить то · ємѹже добро своѥ прѣдаде ·
+
+Кождо бо · иже власть имать надъ тѣмь · єже добромь своимь мьниши · власть и надъ тобою имать ·
+
+***
+
+Аще тѣло своѥ добромь мьниши · господинъ ти єсть кождо · иже є поврѣдити можеть ·
+
+Аще имѣниѥ добромь мьниши · господинъ ти єсть · иже є отъѧти можеть ·
+
+Аще достоиньство добромь мьниши · господинъ ти єсть · иже є дати или не дати можеть ·
+
+Аще славѫ добромь мьниши · господинъ ти єсть кождо · єгоже мьнѣниѥ о себѣ приобрѣсти хощеши ·
+
+***
+
+Хощеши ли ѹбо свободьнъ быти ·
+
+Не прѣдаваи добра своего ничемѹ чюждемѹ ·
+
+Не ищи єго въ томь · єже инии дати или отъѧти могѫть ·
+
+Ищи є тамо · идѣже никтоже къ тебѣ ꙗкоже господинъ приступити можеть ·
+
+***
+
+Къдѣ се єсть ·
+
+Въ произволении твоемь ·
+
+Въ томь · како ꙗвленіи пользовати сѧ имаши ·
+
+Въ томь · чемѹ съизволѧѥши ·
+
+Въ томь · къ чемѹ тѧжеши и отъ чего отъкланѧѥши сѧ ·
+
+***
+
+Никтоже тѧ понѫдити можеть · да лъжи ꙗкоже лъжи съизволиши ·
+
+Никтоже тѧ понѫдити можеть · да зло ꙗкоже зло избереши ·
+
+Никтоже произволеніемь твоимь овладѣти можеть · аще самъ є не прѣдаси ·
+
+Тамо свобода єсть ·
+
+***
+
+Нъ тѣло моѥ оковати могѫть ·
+
+Что ти до того ·
+
+Ногѫ оковати могѫть ·
+
+Произволеніѥ не могѫть ·
+
+***
+
+Нъ выѭ ми отсѣщи могѫть ·
+
+Къгда ти кто рече · ꙗко єдина твоꙗ выꙗ отъ вьсѣхъ вещии въ мирѣ отсѣщена быти не можеть ·
+
+***
+
+Семѹ подобаѥть ѹчити сѧ томѹ · иже свободьнъ быти хощеть ·
+
+Се подобаѥть кождꙑи дьнь испытовати ·
+
+Не ·
+
+Како да ми никтоже възбранить въ тѣхъ · ꙗже къ тѣлѹ сѫть ·
+
+Нъ ·
+
+Како да тъкмо того хощѫ · въ немьже възбраненъ быти не могѫ ·
+
+***
+
+Аще хощеши · да сꙑнъ твои живеть · рабъ бꙑлъ єси ·
+
+Аще хощеши · да жена твоꙗ живеть · рабъ бꙑлъ єси ·
+
+Аще хощеши · да братъ твои здравъ бѫдеть · рабъ бꙑлъ єси ·
+
+Аще хощеши · да вьси чловѣци благоволѧть ти · рабъ бꙑлъ єси ·
+
+Тѧженіѥ бо своѥ прѣдалъ єси вещемъ · надъ нимиже власти не имаши ·
+
+***
+
+Нъ не подобаѥть ли ми сꙑна любити ·
+
+Подобаѥть ·
+
+Не подобаѥть ли женѫ любити ·
+
+Подобаѥть ·
+
+Не подобаѥть ли о дрѹзѣхъ пещи сѧ ·
+
+Подобаѥть ·
+
+Нъ ꙗкоже свободьнѹ чловѣкѹ ·
+
+Не ꙗкоже рабѹ ·
+
+***
+
+Како ·
+
+Ꙗкоже пѫтьникъ о съпѫтьницѣхъ въ корабли печеть сѧ ·
+
+Дондеже пѫть пребываѥть · твори имъ · єже подобаѥть ·
+
+Єгда же кормьчии позоветь ·
+
+Изиди ·
+
+изиди ·
+
+Не обращаи сѧ ·
+
+Не привѧзѹи сѧ къ кораблю ·
+
+***
+
+Аще старъ єси · не отъходи далече отъ кораблѧ ·
+
+Да · єгда позовѫть · не замѣдлиши ·
+
+Аще младъ єси · можеши мало далѣе отъити ·
+
+Обаче и тогда помьни · ꙗко пѫтьникъ єси ·
+
+***
+
+Тако и въ житии ·
+
+Вмѣсто раковины и лѹковицѧ жена ти или чѧдо дано єсть ·
+
+Ничтоже ти възбранѧѥть любити ꙗ ·
+
+Нъ єгда Кормьчии позоветь · остави вьсѧ и иди къ Немѹ ·
+
+Не обращаи сѧ ·
+
+***
+
+Аще же старъ єси · не отъходи далече ·
+
+Да · єгда зъваніѥ пріидеть · отъсѫдъ не бѫдеши ·
+
+***
+
+Нъ мѧ мѫчитель свѧжеть ·
+
+Что свѧжеть ·
+
+Ногѫ ·
+
+Что же произволенію моемѹ сътворить ·
+
+Ни Зевсъ єго одолѣти не можеть ·
+
+***
+
+Въ темьницѫ тѧ въвръгѫ ·
+
+Тѣло моѥ ·
+
+Главѫ ти отсѣкѫ ·
+
+Рекохъ ли ти когда · ꙗко єдина моꙗ глава отсѣщена быти не можеть ·
+
+***
+
+Симъ подобаѥть ѹчити сѧ томѹ · иже свободьнъ быти хощеть ·
+
+Не силлогисмомъ ·
+
+Не томѹ · како заплътенꙑꙗ въпросꙑ разрѣшати ·
+
+Нъ како прѣдъ мѫчителемь рещи можеть ·
+
+Тꙑ твори своѥ ·
+
+Азъ вѣмь · что моѥ єсть ·
+
+***
+
+Моѥ єсть · произволеніѥ по природѣ хранити ·
+
+Твоѥ єсть · тѣло моѥ оковати ·
+
+Моѥ єсть · лъжи не съизволити ·
+
+Твоѥ єсть · изгънати мѧ ·
+
+Моѥ єсть · срамьнаго не избрати ·
+
+Твоѥ єсть · ѹбити мѧ ·
+
+***
+
+Кто ѹбо крѣпчаишии ·
+
+Иже надъ тѣломь власть имать · или иже надъ своимь произволеніемь власть имать ·
+
+***
+
+Аще добро своѥ въ тѣлѣ положихъ · тꙑ крѣпчаишии єси ·
+
+Аще въ имѣнии положихъ · тꙑ крѣпчаишии ·
+
+Аще въ твоемь о мнѣ мьнѣнии положихъ · тꙑ крѣпчаишии ·
+
+Аще же въ своемь произволении положихъ · что ми можеши ·
+
+***
+
+Сего ради Диогенъ свободьнъ бѣ ·
+
+Не того ради свободьнъ бѣ · ꙗко никтоже єго плѣнити можаше ·
+
+Плѣненъ бѣ ·
+
+Нъ плѣнивъшаго єго господиномь своимь не мьнѣаше ·
+
+***
+
+Єгда єго продавахѫ · не ꙗкоже рабъ имѣаше сѧ ·
+
+Кѹпьцѧ зрѧаше и въпрашаше ·
+
+Кто отъ васъ господина хощеть ·
+
+***
+
+Тако свободьнъ чловѣкъ глаголеть ·
+
+Вѣсть бо · къдѣ господьство єго єсть ·
+
+***
+
+Аще же чловѣкъ · абиѥ ꙗкоже кто за ризѫ єго иметь · молити начьнеть ·
+
+Пѹсти мѧ ·
+
+Не твори ми сего ·
+
+что єще въпрашати подобаѥть ·
+
+Ѹже показа · кто господинъ єго єсть ·
+
+***
+
+Хощеши ли свободьнъ быти ·
+
+Ѹчи сѧ прѣзирати · ꙗже не на тебѣ сѫть ·
+
+Ѹчи сѧ о кождои внѣшьнѣи вещи глаголати ·
+
+Не моѥ добро єсть ·
+
+Не моѥ зло єсть ·
+
+***
+
+Тѣло не моѥ добро єсть ·
+
+Имѣниѥ не моѥ добро єсть ·
+
+Слава не моѥ добро єсть ·
+
+Власть не моѥ добро єсть ·
+
+Ни съмрьть моѥ зло єсть ·
+
+Ни изгънаниѥ ·
+
+Ни нищета ·
+
+Ни болѣзнь ·
+
+***
+
+Моѥ добро право произволеніѥ єсть ·
+
+Моѥ зло развращено произволеніѥ єсть ·
+
+Тамо господинъ єсмь ·
+
+Тамо свободьнъ єсмь ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — nastavak
+
+Srpski
+
+Onaj ko želi da bude slobodan neka, dakle, niti želi niti se otklanja od ičega što zavisi od drugih; inače nužno mora biti rob.
+
+Treba da ima pred očima ono što se događa na gozbi.
+
+Pruži li se nešto prema tebi, ispruži ruku i uzmi pristojno.
+
+Prođe li mimo tebe, ne zadržavaj ga.
+
+Nije li još došlo, ne pružaj žudnju unapred, nego čekaj dok ne dođe do tebe.
+
+Tako se vladaj prema deci, tako prema ženi, tako prema vlasti, tako prema bogatstvu.
+
+I jednom ćeš biti dostojan gozbe bogova.
+
+***
+
+Ako pak ni ono što ti se pruža ne uzmeš, nego ga prezreš, tada nećeš biti samo gost bogova nego i njihov suvladar.
+
+Tako su činili Diogen i Heraklit i njima slični, te su s pravom bili božanski i tako su nazivani.
+
+***
+
+Vežbaj se, dakle, u tome.
+
+Jer nije moguće da onaj ko žudi za nečim što zavisi od drugoga bude slobodan.
+
+Nije moguće.
+
+Čovek mora biti ili slobodan ili rob.
+
+Ili se mora starati o svojim stvarima ili o tuđim.
+
+Ili iznutra ili spolja mora imati položeno svoje dobro i zlo.
+
+***
+
+Ako ih polaže spolja, neka bude spreman da služi, da ugađa, da laska, da strepi.
+
+Neka ide na vrata onih koji imaju vlast.
+
+Neka ih čeka dok spavaju.
+
+Neka ih prati kada iziđu.
+
+Neka govori ono što oni žele da čuju.
+
+Neka čini ono što oni žele da čini.
+
+Jer ih je sam učinio svojim gospodarima.
+
+***
+
+A ako svoje dobro položi u sebe, u vlastito proizvoljenje, neka bude spreman da bude slobodan.
+
+Neka više nikoga ne okrivljuje.
+
+Nikoga ne optužuje.
+
+Neka ništa ne čini protiv svoje volje.
+
+Neka mu niko ne bude neprijatelj.
+
+Neka mu niko ne bude štetan.
+
+Jer mu niko ne može nauditi.
+
+***
+
+Ali ti hoćeš i jedno i drugo.
+
+Hoćeš da budeš slobodan, a hoćeš i da ti stvari budu kako želiš.
+
+Hoćeš da budeš slobodan, a hoćeš da ti svi ljudi ugađaju.
+
+Hoćeš da budeš slobodan, a hoćeš i položaj, bogatstvo, ugled, prijatelje na vlasti.
+
+***
+
+Ne može.
+
+Ako želiš ono što nije tvoje, moraš robovati onome ko nad tim ima vlast.
+
+***
+
+Zar ne vidiš šta čine ljudi koji žele službe?
+
+Ljube ruke onih koje inače preziru.
+
+Stoje pred njihovim vratima.
+
+Šalju darove.
+
+Govore:
+
+Gospodaru, učini mi tu milost.
+
+***
+
+A kada dobiju službu, govore:
+
+Slobodan sam.
+
+Nesrećniče, sada si još veći rob.
+
+Pre si služio jednome.
+
+Sada služiš svima onima od kojih zavisi da službu zadržiš.
+
+***
+
+Zar misliš da je sloboda nešto veliko i plemenito?
+
+Jeste.
+
+Može li se, dakle, nešto veliko i plemenito steći bez truda?
+
+Ne može.
+
+***
+
+Ako želiš veliku stvar, budi spreman i na veliki trud.
+
+Ako želiš slobodu, moraš se odreći ropstva.
+
+A ropstvo nije samo služenje čoveku.
+
+Ropstvo je služenje svakoj stvari bez koje misliš da ne možeš biti srećan.
+
+***
+
+Ako bez novca ne možeš biti srećan, novac ti je gospodar.
+
+Ako bez položaja ne možeš biti srećan, položaj ti je gospodar.
+
+Ako bez nekoga čoveka ne možeš biti srećan, taj čovek ti je gospodar.
+
+***
+
+Zato, kada vidiš nekoga kako se klanja drugome radi vlasti ili novca, nemoj govoriti da je slobodan samo zato što nema okove.
+
+Pogledaj čemu služi.
+
+Pogledaj pred čijim vratima stoji.
+
+Pogledaj čijega se pogleda boji.
+
+***
+
+Rob se poznaje po gospodaru, a ne po lancu.
+
+***
+
+Ali neko ima mnogo robova.
+
+Utoliko gore.
+
+I sam mora služiti tolikim robovima.
+
+Mora paziti da mu ne pobegnu.
+
+Da ne ukradu.
+
+Da se ne razbole.
+
+Da ne umru.
+
+***
+
+Ko je onda rob?
+
+Onaj koga nose robovi ili oni koji ga nose?
+
+Ako on bez njih ne može živeti kako želi, onda je upravo on rob svojih robova.
+
+***
+
+A šta je s carem?
+
+Zar je car slobodan?
+
+Ako želi ono što mu drugi mogu oduzeti, nije.
+
+Ako se boji pobune, nije.
+
+Ako se boji smrti, nije.
+
+Ako se boji da će izgubiti vlast, nije.
+
+***
+
+Kruna ne čini slobodna čoveka.
+
+Kao što ni okov ne čini nužno roba.
+
+***
+
+Slobodan je onaj čije dobro niko ne može uzeti.
+
+Čije zlo niko drugi ne može nametnuti.
+
+Ko može svakome reći:
+
+Čini sa mnom što ti je dato da činiš.
+
+Ja ću sa sobom činiti ono što je meni dato.
+
+***
+
+Ti imaš vlast nad mojim telom?
+
+Uzmi ga.
+
+Nad mojim imanjem?
+
+Uzmi ga.
+
+Nad mojim ugledom?
+
+Neka bude kako hoćeš.
+
+***
+
+Ali nad mojim proizvoljenjem nemaš vlast.
+
+Tu se ne približavaj.
+
+Tu nisam tvoj rob.
+
+***
+
+Takvoga čoveka tiranin gleda i pita:
+
+Zar me se ne bojiš?
+
+A on odgovara:
+
+Zašto bih?
+
+***
+
+Zar te ne mogu ubiti?
+
+Možeš.
+
+Ali zar sam ti rekao da sam besmrtan?
+
+***
+
+Zar te ne mogu prognati?
+
+Možeš moje telo odvesti kuda hoćeš.
+
+Ali mene ne možeš prognati iz sveta.
+
+Gde god odem, tamo su sunce, mesec, zvezde, snovi, znamenja i razgovor s bogovima.
+
+***
+
+Takav čovek nije sam.
+
+Jer sa sobom nosi ono što mu je potrebno.
+
+***
+
+Ali gde su ti prijatelji?
+
+Svuda.
+
+Jer prijatelj slobodna čoveka jeste svaki dobar čovek.
+
+A Bog mu je najbliži prijatelj.
+
+***
+
+Kako onda može biti prognan?
+
+Kako može biti ostavljen?
+
+Kako može biti siromašan?
+
+***
+
+Siromašan je onaj kome mnogo nedostaje.
+
+Slobodnome ništa ne nedostaje što mu je potrebno za dobro.
+
+Prema tome, nije siromašan.
+
+***
+
+A kada dođe smrt?
+
+Doći će kao izvršenje prirodnoga zakona.
+
+Šta je strašno u tome?
+
+Ono što je rođeno mora umreti.
+
+Ono što je sastavljeno mora se rastaviti.
+
+***
+
+Ali ja hoću još da živim.
+
+Onda si rob života.
+
+***
+
+Zašto?
+
+Jer hoćeš ono što nije do tebe.
+
+***
+
+Hoćeš li biti slobodan?
+
+Reci:
+
+Živeću dok mi je dato.
+
+Kada mi više ne bude dato, otići ću.
+
+***
+
+Kuda?
+
+Onamo odakle sam došao.
+
+Među ono što mi je srodno.
+
+U sastojke iz kojih sam sastavljen.
+
+***
+
+Ništa strašno neće se dogoditi.
+
+Svet neće propasti zato što tebe više nema.
+
+***
+
+Kao što si došao bez svoje volje, tako ćeš i otići kada priroda pozove.
+
+***
+
+Tvoje je samo jedno:
+
+dok si ovde, dobro odigrati ulogu koja ti je poverena.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — продолженіѥ ·
+
+Иже ѹбо свободьнъ быти хощеть · да ничтоже хощеть · ни отъкланѧѥть сѧ отъ чего · єже отъ инꙑхъ висить · иначе нѫждьно рабъ быти имать ·
+
+Подобаѥть ємѹ прѣдъ очима имѣти · єже на пирѣ бываѥть ·
+
+Аще нѣчто къ тебѣ принесеть сѧ · простри рѫкѫ и приими благочьстьно ·
+
+Аще мимо тебѣ минеть · не дръжи є ·
+
+Аще єще не пріиде · не простираи желаніа напрѣдъ · нъ ожидаи · дондеже къ тебѣ пріидеть ·
+
+Тако имѣи сѧ къ чѧдомъ · тако къ женѣ · тако къ власти · тако къ богатствѹ ·
+
+И нѣкогда достоинъ бѫдеши пира богъ ·
+
+***
+
+Аще же ни принесенаго ти не приимеши · нъ прѣзриши є · тогда не тъкмо съпирьникъ богъ бѫдеши · нъ и съвладыка ихъ ·
+
+Тако Диогенъ и Ираклитъ и подобьнии имъ творишѧ · и правьдьно божьствьни бѣшѧ и тако нарицахѫ сѧ ·
+
+***
+
+Семѹ ѹбо ѹчи сѧ ·
+
+Невъзможьно бо єсть · да иже тѧжеть къ нѣчесомѹ · єже отъ иного висить · свободьнъ бѫдеть ·
+
+Невъзможьно ·
+
+Подобаѥть чловѣкѹ или свободьнѹ или рабѹ быти ·
+
+Или о своихъ пещи сѧ · или о чюждихъ ·
+
+Или вънѫтрь или извнѣ добро и зло своѥ полагати ·
+
+***
+
+Аще извнѣ полагаѥть · готовъ да бѫдеть слѹжити · ѹгаждати · ласкати · трепетати ·
+
+Да ходить къ дверемъ власть имѫщиихъ ·
+
+Да ожидаѥть ихъ · дондеже съпѧть ·
+
+Да по нихъ ходить · єгда изидѫть ·
+
+Да глаголеть · єже они слꙑшати хощѫть ·
+
+Да творить · єже они творити велѧть ·
+
+Самъ бо ꙗ господꙑ своими сътвори ·
+
+***
+
+Аще же добро своѥ въ себѣ положить · въ своемь произволении · готовъ да бѫдеть свободьнъ быти ·
+
+Никогоже къ томѹ да винить ·
+
+Никогоже да обвинѧѥть ·
+
+Ничтоже противъ воли своеꙗ да творить ·
+
+Никтоже ємѹ врагъ да бѫдеть ·
+
+Никтоже ємѹ врѣдьнъ да бѫдеть ·
+
+Никтоже бо ємѹ навредити не можеть ·
+
+***
+
+Тꙑ же обоѥ хощеши ·
+
+Хощеши свободьнъ быти · и хощеши · да вещи ꙗкоже тꙑ хощеши бываѭть ·
+
+Хощеши свободьнъ быти · и хощеши · да вьси чловѣци ти ѹгаждаѭть ·
+
+Хощеши свободьнъ быти · и достоиньство · богатство · славѫ и дрѹгꙑ власть имѫщꙑꙗ хощеши ·
+
+***
+
+Не можеть быти ·
+
+Аще хощеши · єже твоѥ нѣсть · рабовати ти подобаѥть томѹ · иже надъ тѣмь власть имать ·
+
+***
+
+Не видиши ли · что творѧть иже власти желаѭть ·
+
+Рѫцѣ цѣлѹѭть тѣмъ · ихъже иначе прѣзираѭть ·
+
+Прѣдъ дверьми ихъ стоѭть ·
+
+Дарꙑ посꙑлаѭть ·
+
+Глаголѭть ·
+
+Господи · сътвори ми милость сиѭ ·
+
+***
+
+Єгда же достоиньство приимѫть · глаголѭть ·
+
+Свободьнъ єсмь ·
+
+Окаꙗнне · нꙑнѣ паче рабъ єси ·
+
+Прѣжде єдиномѹ слѹжилъ єси ·
+
+Нꙑнѣ вьсѣмъ слѹжиши · отъ нихъже висить · да достоиньство съхраниши ·
+
+***
+
+Мьниши ли · ꙗко свобода велика и благородьна вещь єсть ·
+
+Єсть ·
+
+Можетъ ли ѹбо велика и благородьна вещь безъ трѹда приобрѣсти сѧ ·
+
+Не можеть ·
+
+***
+
+Аще великꙑꙗ вещи хощеши · къ великѹ трѹдѹ готовъ бѫди ·
+
+Аще свободꙑ хощеши · рабьства отрещи сѧ подобаѥть ти ·
+
+Рабьство же не тъкмо чловѣкѹ слѹжити єсть ·
+
+Рабьство єсть кождои вещи слѹжити · безъ неѧже благочѧстивъ быти не можеши · ꙗкоже мьниши ·
+
+***
+
+Аще безъ сребра благочѧстивъ быти не можеши · сребро господинъ ти єсть ·
+
+Аще безъ достоиньства благочѧстивъ быти не можеши · достоиньство господинъ ти єсть ·
+
+Аще безъ нѣкоего чловѣка благочѧстивъ быти не можеши · тъ чловѣкъ господинъ ти єсть ·
+
+***
+
+Сего ради · єгда видиши нѣкого кланѧѭща сѧ иномѹ власти или сребра ради · не глаголи · ꙗко свободьнъ єсть · понеже оковъ не имать ·
+
+Виждь · чемѹ слѹжить ·
+
+Виждь · прѣдъ чьими дверьми стоить ·
+
+Виждь · чьего взора боить сѧ ·
+
+***
+
+Рабъ по господинѹ познаваѥть сѧ · а не по оковѹ ·
+
+***
+
+Нъ нѣкыи многа рабы имать ·
+
+Толико горѣ ·
+
+И самъ толицѣмъ рабомъ слѹжити имать ·
+
+Подобаѥть ємѹ блюсти · да не ѹбѣгнѫть ·
+
+Да не ѹкрадѫть ·
+
+Да не разболѧть сѧ ·
+
+Да не ѹмрѫть ·
+
+***
+
+Кто ѹбо рабъ єсть ·
+
+Иже рабꙑ носимъ єсть · или иже єго носѧть ·
+
+Аще онъ безъ нихъ ꙗкоже хощеть жити не можеть · тъ рабъ рабъ своихъ єсть ·
+
+***
+
+Что же о цѣсари ·
+
+Єда цѣсарь свободьнъ єсть ·
+
+Аще хощеть · єже инии отъѧти могѫть · не єсть ·
+
+Аще мѧтежа боить сѧ · не єсть ·
+
+Аще съмрьти боить сѧ · не єсть ·
+
+Аще власти лишити сѧ боить сѧ · не єсть ·
+
+***
+
+Вѣньць не творить свободьна чловѣка ·
+
+Ꙗкоже ни оковъ нѫждьно раба творить ·
+
+***
+
+Свободьнъ єсть · єгоже добро никтоже отъѧти можеть ·
+
+Ємѹже зло никтоже инъ наложити можеть ·
+
+Иже кождомѹ рещи можеть ·
+
+Твори съ мною · єже ти творити дано єсть ·
+
+Азъ же съ собою сътворѭ · єже мнѣ дано єсть ·
+
+***
+
+Надъ тѣломь моимь власть имаши ли ·
+
+Приими є ·
+
+Надъ имѣниемь моимь ли ·
+
+Приими є ·
+
+Надъ славою моею ли ·
+
+Да бѫдеть · ꙗкоже хощеши ·
+
+***
+
+Надъ произволеніемь же моимь власти не имаши ·
+
+Тамо не приступаи ·
+
+Тамо не рабъ твои єсмь ·
+
+***
+
+Такова чловѣка мѫчитель зрить и въпрашаѥть ·
+
+Не боиши ли сѧ мене ·
+
+Онъ же отъвѣщаѥть ·
+
+Чесого ради ·
+
+***
+
+Не могѫ ли тѧ ѹбити ·
+
+Можеши ·
+
+Нъ рекохъ ли ти · ꙗко бесъмрьтьнъ єсмь ·
+
+***
+
+Не могѫ ли тѧ изгънати ·
+
+Можеши тѣло моѥ отъвести · камо хощеши ·
+
+Мене же отъ мира изгънати не можеши ·
+
+Идѣже любо бѫдѫ · тамо слъньце · лѹна · звѣздꙑ · съниѥ · знамениа и бесѣда съ богꙑ сѫть ·
+
+***
+
+Таковъ чловѣкъ єдинъ не єсть ·
+
+Съ собою бо носить · єже ємѹ нѫждьно єсть ·
+
+***
+
+Нъ къдѣ дрѹзи твои ·
+
+Вьсѫдѹ ·
+
+Дрѹгъ бо свободьнаго чловѣка кождо добръ чловѣкъ єсть ·
+
+Богъ же наиближии дрѹгъ ємѹ єсть ·
+
+***
+
+Како ѹбо изгънанъ быти можеть ·
+
+Како оставленъ ·
+
+Како нищь ·
+
+***
+
+Нищь єсть · ємѹже многа недоставаѭть ·
+
+Свободьномѹ же ничтоже недоставаѥть · єже къ добрѹ нѫждьно єсть ·
+
+Тѣмьже нищь нѣсть ·
+
+***
+
+А єгда съмрьть пріидеть ·
+
+Пріидеть ꙗкоже исполненіѥ природьнаго закона ·
+
+Что страшьно въ семь ·
+
+Єже роди сѧ · ѹмрѣти имать ·
+
+Єже съставлено єсть · разложити сѧ имать ·
+
+***
+
+Нъ азъ єще жити хощѫ ·
+
+Тогда житію рабъ єси ·
+
+***
+
+Чесого ради ·
+
+Понеже хощеши · єже не на тебѣ єсть ·
+
+***
+
+Хощеши ли свободьнъ быти ·
+
+Рьци ·
+
+Жити бѫдѫ · дондеже ми дано єсть ·
+
+Єгда же къ томѹ не дано бѫдеть · отъидѫ ·
+
+***
+
+Камо ·
+
+Тамо · отъкѫдѹ пріидохъ ·
+
+Междѹ сродьнаꙗ мнѣ ·
+
+Въ съставꙑ · отъ нихъже съставленъ єсмь ·
+
+***
+
+Ничтоже страшьно бѫдеть ·
+
+Миръ не погꙑбнеть · понеже тебе къ томѹ нѣсть ·
+
+***
+
+Ꙗкоже безъ своеꙗ воли пріиделъ єси · тако и отъидеши · єгда природа позоветь ·
+
+***
+
+Твоѥ єсть тъкмо єдино ·
+
+Дондеже здѣ єси · добрѣ съиграти дѣлъ · иже ти прѣданъ єсть ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — nastavak
+
+Srpski
+
+Ako, dakle, ni oni koje nazivaju kraljevima, ni prijatelji kraljeva ne žive kako hoće, ko je onda slobodan?
+
+Traži i naći ćeš.
+
+Jer priroda ti je dala sredstva kojima možeš naći istinu.
+
+Ako pak nisi kadar da samo pomoću njih nađeš ono što sledi, poslušaj one koji su već tražili.
+
+Šta oni govore?
+
+Čini li ti se sloboda dobrom?
+
+Najvećim.
+
+Može li onda onaj koji poseduje najveće dobro biti nesrećan ili rđavo prolaziti?
+
+Ne može.
+
+Za koliko god ljudi, dakle, vidiš da su nesrećni, jadikuju i rđavo prolaze, slobodno reci da nisu slobodni.
+
+Kažem.
+
+Ostavili smo, dakle, kupovanje, prodavanje i ostale takve načine na koje se ljudi nazivaju robovima.
+
+Jer ako si ovo pravo priznao, onda, bio nesrećan Veliki kralj ili mali kralj, čovek konzulskoga dostojanstva ili dvaput konzul — nije slobodan.
+
+Neka bude tako.
+
+***
+
+Odgovori mi još na ovo.
+
+Čini li ti se sloboda nečim velikim, plemenitim i dragocenim?
+
+Kako ne bi?
+
+Može li onda čovek koji je zadobio nešto tako veliko, dragoceno i plemenito biti niska duha?
+
+Ne može.
+
+Kad god, dakle, vidiš čoveka kako se drugome pokorava i laska mu protiv vlastitoga mnenja, slobodno reci i za njega da nije slobodan.
+
+I ne samo ako to čini radi kakva ručka.
+
+Nego i ako to čini radi upravništva ili konzulstva.
+
+One koji to čine radi sitnih stvari nazivaj malim robovima, a druge, kako i zaslužuju, velikim robovima.
+
+Neka bude i to.
+
+***
+
+Čini li ti se sloboda nečim samostalnim i samovlasnim?
+
+Kako bi moglo biti drukčije?
+
+Za onoga, dakle, koga drugi može sprečiti ili prinuditi, slobodno reci da nije slobodan.
+
+I ne gledaj mu dedove i pradede, niti traži ispravu o kupovini ili prodaji.
+
+Nego ako ga čuješ da iz dubine duše i sa strašću govori:
+
+Gospodaru,
+
+nazovi ga robom, makar pred njim išlo dvanaest liktora.
+
+Ako ga čuješ kako govori:
+
+Jadan ja, šta me snađe!
+
+nazovi ga robom.
+
+Uopšte, ako ga vidiš kako jadikuje, prigovara i nesrećan je, nazovi ga robom makar nosio grimizni rub na odeći.
+
+***
+
+Ako pak ništa od toga ne čini, nemoj ga još nazvati slobodnim.
+
+Najpre upoznaj njegova mnenja: nisu li podložna prinudi, sprečavanju i nesreći?
+
+Ako ih nađeš takvima, nazovi ga robom koji ima slobodan dan za vreme Saturnalija.
+
+Njegov gospodar je odsutan.
+
+Ali će se vratiti, pa ćeš videti šta će taj čovek trpeti.
+
+Ko će se vratiti?
+
+Svako ko ima vlast da mu dade ili oduzme nešto što on želi.
+
+Imamo li, dakle, toliko gospodara?
+
+Imamo mnogo.
+
+Jer i pre ljudi za gospodare imamo stvari.
+
+A njih ima mnogo.
+
+Zato nužno i oni koji nad tim stvarima imaju vlast postaju naši gospodari.
+
+***
+
+Niko se, naime, ne boji samoga Cezara.
+
+Boji se smrti, progonstva, oduzimanja imanja, tamnice, gubitka građanskih prava.
+
+Niti iko voli Cezara, osim ako je ovaj veoma čestit; nego volimo bogatstvo, tribunat, preturu, konzulstvo.
+
+Kada takve stvari volimo, mrzimo ih i bojimo ih se, nužno je da oni koji nad njima imaju vlast budu naši gospodari.
+
+Zato ih i poštujemo kao bogove.
+
+Jer mislimo:
+
+On ima vlast da mi dade najveću korist.
+
+A zatim iz toga rđavo zaključujemo:
+
+Ko ima vlast da mi dade najveću korist, taj je i najveći dobročinitelj.
+
+Trebalo bi dodati:
+
+Ako je i sama ta stvar dobro.
+
+***
+
+Kada je neko upitao Diogena kako se može osvetiti neprijatelju, on reče:
+
+Tako što ćeš sam postati dobar i čestit čovek.
+
+***
+
+Ako vidiš čoveka kako se stara o spoljašnjim stvarima i u njima polaže svoje dobro, znaj da je taj čovek rob.
+
+Ako vidiš da se trudi da stekne slavu, položaj ili bogatstvo, on traži gospodare.
+
+Ako pak hoćeš da budeš slobodan, nemoj tražiti ono što zavisi od drugih.
+
+Ako hoćeš da budeš nesavladiv, ne stupaj u borbu za ono u čemu je pobeda u tuđim rukama.
+
+***
+
+Kada ti se nešto spoljašnje učini velikim, lepo ga razmotri.
+
+Šta je to?
+
+Je li do mene?
+
+Nije.
+
+Onda mi nije ni dobro.
+
+Je li moje proizvoljenje?
+
+Nije.
+
+Onda nije moje.
+
+***
+
+Ali ako to ne učiniš, svako će te moći plašiti.
+
+Svako će te moći potkupiti.
+
+Svako će te moći naterati da činiš ono što ne želiš.
+
+***
+
+Kada čovek svoje dobro smesti tamo gde mu niko drugi nema pristupa, tada prvi put postaje slobodan.
+
+Tada mu niko više nije strašan.
+
+Ni tiranin.
+
+Ni sudija.
+
+Ni bogataš.
+
+Ni mnoštvo.
+
+Jer šta mu mogu oduzeti?
+
+Ono što nije njegovo.
+
+***
+
+Ali tiranin govori:
+
+Vezaću te.
+
+Šta?
+
+Nogu.
+
+Nju veži.
+
+***
+
+Odseći ću ti glavu.
+
+Jesam li ti ikada rekao da je moja glava jedina stvar koja se ne može odseći?
+
+***
+
+Baciću te u tamnicu.
+
+Moje telo.
+
+***
+
+Prognaću te.
+
+Kuda?
+
+Izvan sveta ne možeš.
+
+A gde god odem, biće sunce, mesec, zvezde, snovi, znamenja i opštenje s bogovima.
+
+***
+
+Sloboda, dakle, nije u tome da čovek čini sve što mu padne na um.
+
+Jer bi tada i luđak bio slobodan.
+
+Sloboda je u tome da hoćemo ono što se događa onako kako se događa i da svoje dobro položimo u ono što nam je po prirodi dato u vlast.
+
+***
+
+Hoćeš da budeš slobodan?
+
+Ne traži da se stvari događaju kako ti hoćeš.
+
+Nego hoći da se događaju kako se događaju.
+
+Tada ćeš živeti spokojno.
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — продолженіѥ ·
+
+Аще ѹбо ни нарицаѥмии цѣсари · ни дрѹзи цѣсареви ꙗкоже хощѫть живѫть · кто наконецъ свободьнъ єсть ·
+
+Ищи и обрѧщеши ·
+
+Природа бо ти даде средства · имиже истинѫ обрѣсти можеши ·
+
+Аще же самѣми сими послѣдѹѭщаго обрѣсти не можеши · слꙑши тѣхъ · иже ѹже искашѧ ·
+
+Что глаголѭть ·
+
+Мьнить ли ти сѧ свобода добро быти ·
+
+Величаишеѥ ·
+
+Можетъ ли ѹбо · иже величаишеѥ добро имать · несъчастьнъ или зълѣ живѫщъ быти ·
+
+Не можеть ·
+
+Єлицѣхъ ѹбо видиши несъчастьнꙑхъ · плачѫщихъ и зълѣ живѫщихъ · дръзновеньно глаголи · ꙗко свободьни нѣсѫть ·
+
+Глаголѭ ·
+
+Оставихомъ ѹбо кѹпованіѥ и продаваніѥ · и прочаꙗ такова · имиже чловѣци рабꙑ нарицаѭть сѧ ·
+
+Аще бо сиꙗ правѣ съизволилъ єси · аще Великꙑи Цѣсарь несъчастьнъ єсть · аще малъ цѣсарь · аще ипатьска достоиньства чловѣкъ · аще двоицею ипатъ · свободьнъ нѣсть ·
+
+Да бѫдеть тако ·
+
+***
+
+Отъвѣштаи ми єще се ·
+
+Мьнить ли ти сѧ свобода велика · благородьна и драгоцѣньна вещь быти ·
+
+Како не ·
+
+Можетъ ли ѹбо чловѣкъ · иже таковѫ великѫ · драгоцѣньнѫ и благородьнѫ вещь стѧжа · низъкъ дѹхъ имѣти ·
+
+Не можеть ·
+
+Єгда ѹбо видиши чловѣка иномѹ покарѧѭща сѧ и ласкаѭща противъ своемѹ мьнѣнию · дръзновеньно и о томь рьци · ꙗко свободьнъ нѣсть ·
+
+И не тъкмо аще обѣда ради се творить ·
+
+Нъ и аще области или ипатьства ради ·
+
+Иже малꙑхъ вещии ради сиꙗ творѧть · малꙑ рабы нарицаи · прочиꙑꙗ же · ꙗкоже достоини сѫть · великꙑ рабы ·
+
+Да бѫдеть и се ·
+
+***
+
+Мьнить ли ти сѧ свобода самостоꙗтельна и самовластьна быти ·
+
+Како инако ·
+
+Иже ѹбо отъ иного възбраненъ или понѫжденъ быти можеть · о томь дръзновеньно глаголи · ꙗко свободьнъ нѣсть ·
+
+И не зри на дѣдꙑ и прадѣдꙑ єго · ни писаніа кѹплѧ или проданія ищи ·
+
+Нъ аще слꙑшиши єго отъ глубинꙑ дѹшѧ и съ страстию глаголѭща ·
+
+Господи ·
+
+рабомъ єго нарицаи · аще и дванадесѧть ликторъ прѣдъ нимь ходѧть ·
+
+Аще слꙑшиши глаголѭща ·
+
+Окаꙗнъ азъ · что ми бꙑсть ·
+
+рабомъ єго нарицаи ·
+
+И вьсѣмь · аще видиши єго плачѫща · ръпъщѫща и несъчастьна · рабомъ єго нарицаи · аще и багрѧнъ краи на ризѣ носить ·
+
+***
+
+Аще же ничтоже отъ сихъ творить · не нарицаи єго єще свободьна ·
+
+Пръвѣе мьнѣніа єго познаи · аще не понѫжденію · възбраненію и несъчастию повиньна сѫть ·
+
+Аще такова ꙗ обрѧщеши · рабомъ єго нарицаи · иже въ Сатѹрналиахъ свободьнъ дьнь имать ·
+
+Господинъ єго отъсѫтьствѹѥть ·
+
+Нъ възвратитъ сѧ · и тогда ѹзриши · что тъ чловѣкъ тръпѣти имать ·
+
+Кто възвратитъ сѧ ·
+
+Кождо · иже власть имать дати или отъѧти ємѹ нѣчто · єгоже тъ желаѥть ·
+
+Толико ли ѹбо господъ имамы ·
+
+Много имамы ·
+
+И прѣжде чловѣкъ вещи господꙑ имамы ·
+
+Многꙑ же сѫть ·
+
+Сего ради по нѫжди и власть надъ вещьми имѫщии господꙑ наши бываѭть ·
+
+***
+
+Никтоже бо самого Кесарѧ боить сѧ ·
+
+Съмрьти боить сѧ · изгнаніа · имѣниа отъѧтіа · темьницꙑ · гражданьскаго достоиньства лишеніа ·
+
+Ни Кесарѧ кто любить · аще не добръ зѣло єсть · нъ богатство люблѭбимъ · трибѹньство · преторьство · ипатьство ·
+
+Єгда сиꙗ любимъ · ненавидимъ и боимъ сѧ · нѫждьно єсть · да и власть надъ ними имѫщии господꙑ наши бѫдѫть ·
+
+Сего ради имъ и ꙗкоже богомъ чьсть въздаѥмъ ·
+
+Мьнимъ бо ·
+
+Сь власть имать величаишѫ пользѫ ми дати ·
+
+Потомь же отъ сего зълѣ съводимъ ·
+
+Иже власть имать величаишѫ пользѫ ми дати · тъ и величаишии благодѣтель єсть ·
+
+Подобааше же приложити ·
+
+Аще и сама та вещь добро єсть ·
+
+***
+
+Єгда нѣкыи Диогена въпроси · како противьникѹ своемѹ отъмьстити можеть · онъ рече ·
+
+Аще самъ добръ и благъ чловѣкъ бѫдеши ·
+
+***
+
+Аще видиши чловѣка о внѣшьнихъ вещьхъ пекѫща сѧ и въ нихъ добро своѥ полагаѭща · вѣдь · ꙗко тъ чловѣкъ рабъ єсть ·
+
+Аще видиши єго славѫ · достоиньство или богатство стѧжати тѧжѫща · господъ ищеть ·
+
+Аще же свободьнъ быти хощеши · не ищи · єже отъ инꙑхъ висить ·
+
+Аще непобѣдимъ быти хощеши · не въходи въ борьбѫ · въ неиже побѣда въ чюждихъ рѫкахъ єсть ·
+
+***
+
+Єгда ти нѣчто внѣшьноѥ велико мьнити сѧ начьнеть · добрѣ є рассмотри ·
+
+Что се єсть ·
+
+На мнѣ ли єсть ·
+
+Не ·
+
+Тогда ни добро моѥ єсть ·
+
+Произволеніѥ ли моѥ єсть ·
+
+Не ·
+
+Тогда ни моѥ єсть ·
+
+***
+
+Аще же сего не твориши · кождо тѧ страшити можеть ·
+
+Кождо тѧ кѹпити можеть ·
+
+Кождо тѧ понѫдити можеть · да твориши · єгоже не хощеши ·
+
+***
+
+Єгда чловѣкъ добро своѥ тамо положить · идѣже никтоже инъ къ немѹ приступити не можеть · тогда пръвѣе свободьнъ бываѥть ·
+
+Тогда ємѹ никтоже страшьнъ єсть ·
+
+Ни мѫчитель ·
+
+Ни сѫдиꙗ ·
+
+Ни богатъ ·
+
+Ни множьство ·
+
+Что бо ємѹ отъѧти могѫть ·
+
+Єже єго нѣсть ·
+
+***
+
+Нъ мѫчитель глаголеть ·
+
+Свѧжѫ тѧ ·
+
+Что ·
+
+Ногѫ ·
+
+Тѫ свѧжи ·
+
+***
+
+Главѫ ти отсѣкѫ ·
+
+Рекохъ ли ти когда · ꙗко єдина моꙗ глава отсѣщена быти не можеть ·
+
+***
+
+Въ темьницѫ тѧ въвръгѫ ·
+
+Тѣло моѥ ·
+
+***
+
+Изженѫ тѧ ·
+
+Камо ·
+
+Изъ мира не можеши ·
+
+И идѣже любо бѫдѫ · тамо слъньце · лѹна · звѣздꙑ · съни · знамениа и общеніѥ съ богꙑ бѫдѫть ·
+
+***
+
+Свобода ѹбо не въ томь єсть · да чловѣкъ творить вьсе · єже ємѹ на ѹмъ пріидеть ·
+
+Иначе и безѹмьнъ свободьнъ бы бѣ ·
+
+Свобода єсть · да хощемъ бꙑваѭщаꙗ тако · ꙗкоже бываѭть · и добро своѥ въ томь полагаѥмъ · єже намъ по природѣ въ власть дано єсть ·
+
+***
+
+Хощеши ли свободьнъ быти ·
+
+Не ищи · да вещи бываѭть · ꙗкоже тꙑ хощеши ·
+
+Нъ хощи · да бываѭть · ꙗкоже бываѭть ·
+
+Тогда мирьно жити бѫдеши ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — nastavak
+
+Srpski
+
+Ako, dakle, hoćeš da budeš slobodan, nauči najpre da razlikuješ ono što je tvoje od onoga što nije tvoje.
+
+Tvoje je proizvoljenje.
+
+Tvoje je kako primaš predstave.
+
+Tvoje je da pristaneš ili ne pristaneš.
+
+Tvoje je da težiš i da se otklanjaš.
+
+Sve ostalo dobio si na upotrebu, ne u posed.
+
+***
+
+Telo ti nije dato kao nešto nad čim imaš potpunu vlast.
+
+Jer može oboleti.
+
+Može oslabiti.
+
+Može biti ranjeno.
+
+Može biti odvedeno.
+
+Može umreti.
+
+Ako, dakle, slobodu polažeš u telo, polažeš je u ono što je po prirodi ropsko.
+
+***
+
+Isto je s imanjem.
+
+Može izgoreti.
+
+Može biti ukradeno.
+
+Može ga car oduzeti.
+
+Može ga odnesti more.
+
+Zašto, dakle, ono što zavisi od tolikih gospodara nazivaš svojim?
+
+***
+
+Isto je s ugledom.
+
+On živi u glavama drugih ljudi.
+
+Kako može biti tvoj?
+
+Kako možeš narediti drugome:
+
+Misli o meni dobro?
+
+Ne možeš.
+
+Ako ti je, dakle, nužno da drugi o tebi misle dobro, predao si im vlast nad sobom.
+
+***
+
+A šta je sa službama i počastima?
+
+One zavise od onih koji ih daju.
+
+Ako ih želiš, moraš im služiti.
+
+Ako ih ne dobiješ, moraš žaliti.
+
+Ako ih dobiješ, moraš strahovati da ih ne izgubiš.
+
+Gde je tu sloboda?
+
+***
+
+Reći ćeš:
+
+Ali ljudi koji imaju vlast mogu učiniti mnogo.
+
+Nad čim?
+
+Nad onim što nije tvoje.
+
+Nad telom.
+
+Nad imanjem.
+
+Nad položajem.
+
+Nad ugledom.
+
+***
+
+A nad tobom?
+
+Ako si razuman, ne.
+
+***
+
+Jer ti nisi ni meso, ni kosa, ni imanje, ni glas drugih o tebi.
+
+Ti si ono što se njima služi.
+
+Ako ono ostane slobodno, i ti si slobodan.
+
+***
+
+Ali bol je težak.
+
+Težak kome?
+
+Telu.
+
+A proizvoljenju?
+
+Samo ako o bolu presudi da je zlo.
+
+***
+
+Smrt je strašna.
+
+Kome?
+
+Onome ko je smatra zlom.
+
+Sama smrt ništa ne govori.
+
+Ti joj dodaješ:
+
+Strašna je.
+
+***
+
+Progonstvo je strašno.
+
+Samo ako ti je otadžbina tamo gde su kuće i zidovi.
+
+Ali ako si građanin sveta, gde ćeš biti prognan?
+
+***
+
+Iz Rima?
+
+Pa šta?
+
+U Nikopolj.
+
+Iz Nikopolja?
+
+U Atinu.
+
+Iz Atine?
+
+Na ostrvo.
+
+A gde god odeš, nećeš li biti u svetu?
+
+***
+
+Nije li svuda Zevs?
+
+Nije li svuda njegovo upravljanje?
+
+Nisu li svuda sunce, mesec i zvezde?
+
+Nisi li svuda sposoban da se služiš predstavama po prirodi?
+
+***
+
+Kako onda možeš biti prognan iz onoga što je tvoje?
+
+***
+
+Ali biću bez prijatelja.
+
+Ako pod prijateljima razumeš ljude koji ti daju novac, položaj i zaštitu, možda.
+
+Ako pak pod prijateljem razumeš dobroga čoveka, nijedan dobar čovek ti nije tuđ.
+
+***
+
+Sokrat nije bio bez prijatelja ni u tamnici.
+
+Diogen nije bio bez prijatelja ni kada je prodavan.
+
+Jer su sa sobom nosili ono zbog čega čovek postaje dostojan prijateljstva.
+
+***
+
+Ko je, dakle, sam?
+
+Ne onaj kome nema nikoga oko tela.
+
+Nego onaj koji nema s kim da bude u skladu po proizvoljenju.
+
+***
+
+Ali ako me svi napuste?
+
+Ti sam sebe nemoj napustiti.
+
+Ako si sa sobom u skladu, nisi sasvim sam.
+
+***
+
+I Bog je s tobom.
+
+Jer kako bi ono slovesno u tebi bilo bez srodstva s božanskim?
+
+***
+
+Zato se ne hvataj za ljude kao što se dete hvata za dojilju.
+
+Voli ih.
+
+Budi im zahvalan.
+
+Čini im dobro.
+
+Ali pamti:
+
+Smrtni su.
+
+I ti si smrtan.
+
+***
+
+Danas ste zajedno.
+
+Sutra možda nećete biti.
+
+Je li zato današnje zajedništvo manje lepo?
+
+Ne.
+
+***
+
+Na gozbi se ne ljutiš zato što će se završiti.
+
+Uživaš u njoj dok traje.
+
+Kada domaćin kaže:
+
+Dosta,
+
+ustaneš.
+
+***
+
+Tako i ovde.
+
+Dok ti je dato da budeš s ljudima koje voliš, budi s njima valjano.
+
+Kada se poziv oglasi, idi.
+
+***
+
+Ne govori:
+
+Zašto tako brzo?
+
+Nisi ti odredio trajanje gozbe.
+
+***
+
+Ali nisam se zasitio.
+
+Ni dete se nikada ne zasiti igre.
+
+Pa ipak dođe veče.
+
+***
+
+Slobodan čovek ne meri dobro dužinom trajanja.
+
+Nego načinom na koji se nečim služi.
+
+***
+
+Ako ti je dat jedan dan sa dobrim čovekom, posluži se tim danom dobro.
+
+Ako deset godina, dobro.
+
+Ako čitav život, dobro.
+
+***
+
+Nije tvoje da odrediš koliko će trajati.
+
+Tvoje je da ne pokvariš ono što ti je dato dok traje.
+
+***
+
+Isto važi za život.
+
+Nisi pitao kada da dođeš.
+
+Nećeš odlučivati ni kada da odeš.
+
+***
+
+Ali možeš odlučiti kako ćeš živeti dok si ovde.
+
+Tu se pokaži slobodnim.
+
+***
+
+Ne moli:
+
+Daj mi još vremena.
+
+Nego:
+
+Daj da se vremenom koje imam dobro poslužim.
+
+***
+
+Jer onaj koji traži da mu se spoljašnje stvari produže već je počeo da im robuje.
+
+***
+
+A šta ako Bog hoće da budem bolestan?
+
+Budi bolestan po prirodi.
+
+Ako hoće da budem siromašan?
+
+Budi siromašan po prirodi.
+
+Ako hoće da budem prognan?
+
+Budi prognanik po prirodi.
+
+***
+
+Šta znači po prirodi?
+
+Bez optuživanja.
+
+Bez jadikovanja.
+
+Bez poniženja vlastitoga proizvoljenja.
+
+***
+
+Kaži:
+
+Ovo je uloga koja mi je sada data.
+
+Odigraću je najbolje što mogu.
+
+***
+
+Ako je kratka, dobro.
+
+Ako je duga, dobro.
+
+Ako igram siromaha, igraću siromaha dobro.
+
+Ako hromoga, hromoga.
+
+Ako upravitelja, upravitelja.
+
+Ako prostoga građanina, prostoga građanina.
+
+***
+
+Jer tvoje je da dobro odigraš datu ulogu.
+
+Izabrati je pripada drugome.
+
+***
+
+Pamti to i nećeš više zavideti.
+
+Jer kome ćeš zavideti?
+
+Onome ko igra kralja?
+
+Ako dobro igra svoju ulogu, pohvali ga.
+
+Ali ne poželi njegovu ulogu.
+
+***
+
+Zar glumac koji igra glasnika mora biti nesrećan zato što ne igra Agamemnona?
+
+Ne.
+
+Ako dobro igra glasnika, čini svoje delo.
+
+***
+
+Tako i ti.
+
+Ne pitaj:
+
+Zašto nisam bogat?
+
+Zašto nisam konzul?
+
+Zašto nisam zdrav?
+
+Nego:
+
+Kako se služim time što mi je dato?
+
+***
+
+Tu je razlika između slobodnoga čoveka i roba.
+
+Rob govori:
+
+Zašto mi se ovo dogodilo?
+
+Slobodan:
+
+Kako ću se ovim dobro poslužiti?
+
+***
+
+Rob hoće da svet služi njegovim željama.
+
+Slobodan svoje želje usklađuje sa svetom.
+
+***
+
+Rob se svađa sa Zevsom.
+
+Slobodan mu sledi.
+
+***
+
+Zato je sloboda nešto božansko.
+
+Ne znači dobiti sve što poželiš.
+
+Nego ne želeti ništa što ti se može uskratiti protiv tvoje volje.
+
+***
+
+Kada to naučiš, ko će još biti tvoj gospodar?
+
+Ko će te još strašiti?
+
+Koga ćeš morati da moliš?
+
+Kome da laskaš?
+
+***
+
+Nikome.
+
+Jer ono što ti je zaista potrebno već je u tvojoj vlasti.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — продолженіѥ ·
+
+Аще ѹбо свободьнъ быти хощеши · пръвѣе наѹчи сѧ разлѫчати · что твоѥ єсть и что не твоѥ ·
+
+Твоѥ єсть произволеніѥ ·
+
+Твоѥ єсть · како ꙗвленіа приимаѥши ·
+
+Твоѥ єсть · съизволити или не съизволити ·
+
+Твоѥ єсть тѧжати и отъкланѧти сѧ ·
+
+Прочаꙗ же вьсѧ на пользованіѥ ти дана сѫть · не въ имѣниѥ ·
+
+***
+
+Тѣло ти не дано єсть ꙗкоже то · надъ нимьже вьсѫ власть имаши ·
+
+Можетъ болѣти ·
+
+Можетъ ослабѣти ·
+
+Можетъ ѹꙗзвено быти ·
+
+Можетъ отъведено быти ·
+
+Можетъ ѹмрѣти ·
+
+Аще ѹбо свободѫ въ тѣлѣ полагаѥши · въ томь ю полагаѥши · єже по природѣ рабьско єсть ·
+
+***
+
+Тако и о имѣнии ·
+
+Можетъ съгорѣти ·
+
+Можетъ ѹкрадено быти ·
+
+Можетъ Кесарь є отъѧти ·
+
+Можетъ море є отънести ·
+
+Чесого ради ѹбо то · єже отъ толицѣхъ господъ висить · своимь нарицаѥши ·
+
+***
+
+Тако и о славѣ ·
+
+Она въ главѣ инꙑхъ чловѣкъ живеть ·
+
+Како твоꙗ быти можеть ·
+
+Како иномѹ повелѣти можеши ·
+
+Добро о мнѣ мьни ·
+
+Не можеши ·
+
+Аще ти ѹбо нѫждьно єсть · да инии о тебѣ добро мьнѧть · власть имъ надъ собою прѣдалъ єси ·
+
+***
+
+Что же о достоиньствѣхъ и чьстѣхъ ·
+
+Отъ даѭщиихъ висѧть ·
+
+Аще ихъ хощеши · слѹжити имъ подобаѥть ти ·
+
+Аще не приимеши · печаловати ·
+
+Аще приимеши · боꙗти сѧ · да ихъ не погѹбиши ·
+
+Къдѣ ѹбо свобода ·
+
+***
+
+Речеши ·
+
+Нъ власть имѫщии многа творити могѫть ·
+
+Надъ чимь ·
+
+Надъ тѣмь · єже твоѥ нѣсть ·
+
+Надъ тѣломь ·
+
+Надъ имѣниемь ·
+
+Надъ достоиньствомь ·
+
+Надъ славою ·
+
+***
+
+Надъ тобою же ·
+
+Аще разѹмьнъ єси · не ·
+
+***
+
+Не мѧсо бо тꙑ єси · ни власи · ни имѣниѥ · ни гласъ инꙑхъ о тебѣ ·
+
+Нъ то єси · єже сими пользѹѥть сѧ ·
+
+Аще то свободьно пребѫдеть · и тꙑ свободьнъ єси ·
+
+***
+
+Нъ болѣзнь тѧжька єсть ·
+
+Комѹ тѧжька ·
+
+Тѣлѹ ·
+
+Произволенію же ·
+
+Тъкмо аще о болѣзни сѫдить · ꙗко зло єсть ·
+
+***
+
+Съмрьть страшьна єсть ·
+
+Комѹ ·
+
+Томѹ · иже ю зломь мьнить ·
+
+Сама съмрьть ничтоже глаголеть ·
+
+Тꙑ єи прилагаѥши ·
+
+Страшьна єсть ·
+
+***
+
+Изгънаниѥ страшьно єсть ·
+
+Тъкмо аще отьчьство ти тамо єсть · идѣже домове и стѣнꙑ сѫть ·
+
+Аще же гражданинъ мира єси · камо изгънанъ бѫдеши ·
+
+***
+
+Изъ Рима ли ·
+
+Что ѹбо ·
+
+Въ Никополь ·
+
+Изъ Никополѧ ли ·
+
+Въ Аѳинꙑ ·
+
+Изъ Аѳинъ ли ·
+
+На островъ ·
+
+И идѣже любо отъидеши · не въ мирѣ ли бѫдеши ·
+
+***
+
+Не вьсѫдѹ ли Зевсъ єсть ·
+
+Не вьсѫдѹ ли строѥниѥ єго ·
+
+Не вьсѫдѹ ли слъньце · лѹна и звѣздꙑ ·
+
+Не вьсѫдѹ ли можеши ꙗвлении по природѣ пользовати сѧ ·
+
+***
+
+Како ѹбо отъ своего изгънанъ быти можеши ·
+
+***
+
+Нъ безъ дрѹгъ бѫдѫ ·
+
+Аще дрѹгꙑ нарицаѥши тѣхъ · иже ти сребро · достоиньство и храненіѥ даѭть · можетъ быти ·
+
+Аще же дрѹгомъ добра чловѣка разѹмѣѥши · ни єдинъ добръ чловѣкъ ти чюждъ нѣсть ·
+
+***
+
+Сѡкратъ ни въ темьници безъ дрѹгъ не бѣ ·
+
+Диогенъ ни продаваемъ безъ дрѹгъ не бѣ ·
+
+Съ собою бо ношаста то · єгоже ради чловѣкъ дрѹжьбѣ достоинъ бываѥть ·
+
+***
+
+Кто ѹбо єдинокъ єсть ·
+
+Не тъ · ємѹже никтоже при тѣлѣ нѣсть ·
+
+Нъ тъ · ємѹже никого нѣсть · съ нимьже по произволенію съгласити сѧ можеть ·
+
+***
+
+Нъ аще вьси мѧ оставѧть ·
+
+Тꙑ самъ себе не оставлѧи ·
+
+Аще съ собою съгласенъ єси · не до конца єдинъ єси ·
+
+***
+
+И Богъ съ тобою єсть ·
+
+Како бо словесьноѥ въ тебѣ безъ сродьства съ Божьствьнꙑмь быти можеть ·
+
+***
+
+Сего ради не дръжи сѧ чловѣкъ · ꙗкоже отрочѧ кормилицѧ дръжить сѧ ·
+
+Люби ꙗ ·
+
+Благодари имъ ·
+
+Добро имъ твори ·
+
+Нъ помьни ·
+
+Съмрьтьни сѫть ·
+
+И тꙑ съмрьтьнъ єси ·
+
+***
+
+Дьньсь въкѹпѣ єсте ·
+
+Заѹтра можеть быти · не бѫдете ·
+
+Сего ли ради дьньшьнѥѥ общеніѥ менѣе красно єсть ·
+
+Не ·
+
+***
+
+На пирѣ не гнѣваѥши сѧ · понеже коньчати сѧ имать ·
+
+Радѹѥши сѧ ємѹ · дондеже пребꙑваѥть ·
+
+Єгда же господинъ речеть ·
+
+Довълѣ ·
+
+въстаѥши ·
+
+***
+
+Тако и здѣ ·
+
+Дондеже ти дано єсть съ любимꙑми чловѣкꙑ быти · добрѣ съ ними бѫди ·
+
+Єгда зъваніѥ пріидеть · иди ·
+
+***
+
+Не глаголи ·
+
+Чесого ради тако скоро ·
+
+Не тꙑ врѣмѧ пира ѹставилъ єси ·
+
+***
+
+Нъ не насꙑтихъ сѧ ·
+
+Ни отрочѧ игры николиже насꙑщаѥть сѧ ·
+
+Обаче вечеръ приходить ·
+
+***
+
+Свободьнъ чловѣкъ добро длъготою врѣмена не мѣрить ·
+
+Нъ образомь · имьже нѣчесомѹ пользоваше сѧ ·
+
+***
+
+Аще ти єдинъ дьнь съ добрꙑмь чловѣкомъ данъ єсть · добрѣ тѣмь дьнемь пользѹи сѧ ·
+
+Аще десѧть лѣтъ · добрѣ ·
+
+Аще вьсь животъ · добрѣ ·
+
+***
+
+Не твоѥ єсть положити · колико пребывати имать ·
+
+Твоѥ єсть · даннымь не зълѣ пользовати сѧ · дондеже пребываѥть ·
+
+***
+
+Тако и о житии ·
+
+Не въпрашалъ єси · къгда пріити ·
+
+Ни рѣшати имаши · къгда отъити ·
+
+***
+
+Нъ рѣшити можеши · како жити бѫдеши · дондеже здѣ єси ·
+
+Тамо свободѫ покажи ·
+
+***
+
+Не моли ·
+
+Даждь ми єще врѣмѧ ·
+
+Нъ ·
+
+Даждь · да врѣменемь · єже имамъ · добрѣ пользѹѭ сѧ ·
+
+***
+
+Иже бо извнѣшьнаꙗ продолжити ищеть · ѹже имъ рабовати начинаѥть ·
+
+***
+
+Что же · аще Богъ хощеть · да болѭ ·
+
+Боли по природѣ ·
+
+Аще хощеть · да нищь бѫдѫ ·
+
+Бѫди нищь по природѣ ·
+
+Аще хощеть · да изгънанъ бѫдѫ ·
+
+Бѫди изгънанъ по природѣ ·
+
+***
+
+Что єсть по природѣ ·
+
+Безъ обвиненіа ·
+
+Безъ плача ·
+
+Безъ ѹниженіа своего произволеніа ·
+
+***
+
+Рьци ·
+
+Сь дѣлъ ми нꙑнѣ данъ єсть ·
+
+Съиграѭ є · єлико могѫ · наилѹчьше ·
+
+***
+
+Аще кратъкъ · добро ·
+
+Аще длъгъ · добро ·
+
+Аще нища играѭ · нища добрѣ съиграѭ ·
+
+Аще хрома · хрома ·
+
+Аще началника · началника ·
+
+Аще проста гражданина · проста гражданина ·
+
+***
+
+Твоѥ бо єсть · данъ дѣлъ добрѣ съиграти ·
+
+Избрати же є · иного єсть ·
+
+***
+
+Помьни се · и къ томѹ не завидѣти бѫдеши ·
+
+Комѹ бо завидѣти имаши ·
+
+Иже цѣсарѧ играѥть ли ·
+
+Аще добро дѣлъ свои играѥть · похвали єго ·
+
+Не желаи же дѣла єго ·
+
+***
+
+Єда игрьць · иже вѣстьника играѥть · несъчастьнъ быти имать · понеже Агамемнона не играѥть ·
+
+Не ·
+
+Аще добрѣ вѣстьника играѥть · своѥ дѣло творить ·
+
+***
+
+Тако и тꙑ ·
+
+Не въпрашаи ·
+
+Чесого ради богатъ нѣсмь ·
+
+Чесого ради ипатъ нѣсмь ·
+
+Чесого ради здравъ нѣсмь ·
+
+Нъ ·
+
+Како даннымь ми пользѹѭ сѧ ·
+
+***
+
+Тамо разлѫка свободьнаго и раба ·
+
+Рабъ глаголеть ·
+
+Чесого ради се ми бꙑсть ·
+
+Свободьнъ же ·
+
+Како симь добрѣ пользовати сѧ имамъ ·
+
+***
+
+Рабъ хощеть · да миръ желаніемъ єго слѹжить ·
+
+Свободьнъ же желаніа своꙗ съ миромъ съглашаѥть ·
+
+***
+
+Рабъ съ Зевсомъ распираѥть сѧ ·
+
+Свободьнъ ємѹ послѣдѹѥть ·
+
+***
+
+Сего ради свобода нѣчто Божьствьно єсть ·
+
+Не єсть · вьсе приѧти · єже възжелѣеши ·
+
+Нъ ничтоже желати · єже противъ волѣ твоеи ѹдержано быти можеть ·
+
+***
+
+Єгда се наѹчиши · кто ти къ томѹ господинъ бѫдеть ·
+
+Кто тѧ страшити имать ·
+
+Кого молити ти подобаѥть ·
+
+Комѹ ласкати ·
+
+***
+
+Никогоже ·
+
+Єже бо ти въистинѫ нѫждьно єсть · ѹже въ твоеи власти єсть ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — nastavak
+
+Srpski
+
+Šta je, dakle, ono što čoveka čini nesmetanim i samovlasnim?
+
+Ne čini ga bogatstvo, niti konzulstvo, niti upravljanje pokrajinom, niti kraljevstvo, nego treba pronaći nešto drugo.
+
+Šta je, dakle, ono što čoveka čini nesmetanim i neprinuđenim u pisanju?
+
+Znanje pisanja.
+
+A u sviranju na kitari?
+
+Znanje sviranja na kitari.
+
+Tako je i u životu: znanje življenja.
+
+***
+
+To si, dakle, čuo uopšteno; pogledaj sada i pojedinačno.
+
+Može li čovek koji teži nečemu što je u tuđoj vlasti biti nesmetan?
+
+Ne može.
+
+Može li biti neprinuđen?
+
+Ne može.
+
+Dakle, ne može biti ni slobodan.
+
+***
+
+Pogledajmo onda: nemamo li ništa što je jedino u našoj vlasti, ili je sve takvo, ili su neke stvari u našoj vlasti, a neke u vlasti drugih?
+
+Kako misliš?
+
+Kada hoćeš da ti telo bude celo, je li to do tebe ili nije?
+
+Nije.
+
+A da bude zdravo?
+
+Ni to.
+
+A da živi ili umre?
+
+Ni to.
+
+Telo, dakle, nije tvoje; podložno je svakome ko je jači od tebe.
+
+Pristajem.
+
+A njiva?
+
+Je li do tebe da je imaš kada hoćeš, koliko hoćeš i onakvu kakvu hoćeš?
+
+Nije.
+
+A robovi?
+
+Nisu.
+
+A odeća?
+
+Nije.
+
+A kuća?
+
+Nije.
+
+A konji?
+
+Ništa od toga.
+
+A ako po svaku cenu hoćeš da ti žive deca, žena, brat ili prijatelji, je li to do tebe?
+
+Ni to nije.
+
+***
+
+Imaš li onda nešto što je jedino u tvojoj vlasti, što zavisi samo od tebe?
+
+Ne znam.
+
+Pogledaj onda ovako i razmisli.
+
+Može li te iko naterati da pristaneš uz lažno?
+
+Niko.
+
+U pristanku si, dakle, nesmetan i neprinuđen.
+
+Pristajem.
+
+Može li te neko naterati da izabereš ono što nećeš?
+
+Može; kada mi zapreti smrću ili okovima, primorava me da izaberem.
+
+A ako prezreš smrt i okove, da li ćeš se još obazirati na njega?
+
+Neću.
+
+Je li onda preziranje smrti tvoje delo ili nije?
+
+Moje je.
+
+Dakle, i izbor je tvoje delo?
+
+Moje je.
+
+A odbijanje?
+
+I ono je moje.
+
+***
+
+Ali ako ja izaberem da prošetam, a on me spreči?
+
+Šta će ti sprečiti?
+
+Pristanak?
+
+Ne, nego moje bedno telo.
+
+Da, kao što bi sprečio kamen.
+
+Neka; ali ja ipak nisam prošetao.
+
+A ko ti je rekao da je do tebe da nesmetano prošetaš?
+
+Rekao sam ti samo da je nesmetano tvoje htenje; gde je potrebna upotreba tela i njegova saradnja, odavno si čuo da to nije tvoje.
+
+Pristajem i na to.
+
+***
+
+Može li te neko naterati da želiš ono što nećeš?
+
+Niko.
+
+A da nešto nameriš, odlučiš ili, uopšte, da se služiš predstavama koje ti dolaze?
+
+Ni to.
+
+Ali kada poželim nešto, može me sprečiti da postignem ono što želim.
+
+Ako želiš nešto što je tvoje i nesmetano, kako će te sprečiti?
+
+Nikako.
+
+Ko ti onda kaže da je nesmetan čovek koji želi ono što nije njegovo?
+
+***
+
+Zar, dakle, ne treba da želim zdravlje?
+
+Ne.
+
+Niti išta drugo što nije tvoje.
+
+Jer ono što nije u tvojoj vlasti da stekneš ili sačuvaš nije tvoje.
+
+***
+
+Drži, dakle, daleko od toga ne samo ruke nego pre svega težnju.
+
+Inače si sebe predao u ropstvo i podmetnuo vrat pod jaram, ako se diviš ičemu što nije tvoje, ako se silno vežeš za nešto smrtno i podložno tuđoj vlasti.
+
+Zar moja ruka nije moja?
+
+Deo je tebe, ali je po prirodi glina, podložna smetnji i prinudi, rob svemu što je jače od tebe.
+
+***
+
+A zašto ti govorim samo o ruci?
+
+Sa čitavim telom treba da postupaš kao s bednim natovarenim magarcem: dokle god možeš i dokle god ti se dopušta, služi se njime.
+
+A ako bude oduzet za službu i vojnik ga se dočepa, pusti ga.
+
+Ne opiri se i ne gunđaj.
+
+Ako budeš tako činio, dobićeš batine, a ipak ćeš izgubiti svoga magarca.
+
+***
+
+Ako tako treba da se odnosiš prema telu, pogledaj šta ostaje da činiš sa svim ostalim što služi telu.
+
+Pošto je telo magarčić, ostalo su uzdice za magarčića, samar, obuća, ječam i hrana.
+
+Pusti i to.
+
+Odreci ga se još lakše i veselije nego samoga magarčića.
+
+***
+
+Kada se tako pripremiš i izvežbaš da razlikuješ ono što nije tvoje od onoga što jeste, ono što može biti ometano od onoga što je neometano, i da drugo smatraš svojim, a prvo tuđim; kada pažljivo držiš težnju samo uz ono što je tvoje, a otklon samo prema onome što je u tvojoj vlasti — koga ćeš se još bojati?
+
+Nikoga.
+
+Naravno.
+
+Čega bi se bojao?
+
+Onoga što je tvoje, gde se za tebe nalazi priroda dobra i zla?
+
+A ko ima vlast nad tim?
+
+Ko ti to može oduzeti?
+
+Ko ti to može sprečiti, išta više nego što bi mogao sprečiti Boga?
+
+***
+
+Zar ćeš se bojati za telo i imanje?
+
+Za ono što nije tvoje?
+
+Za ono što ti ništa nije?
+
+Šta si drugo od samoga početka učio kod filozofa nego da razlikuješ svoje od tuđega, ono što je do tebe od onoga što nije do tebe, ono što može biti sprečeno od onoga što je nesmetano?
+
+Zašto si dolazio filozofima?
+
+Da bi i dalje bio jednako nesrećan i jadan?
+
+Nećeš, dakle, tada biti ni u strahu ni u nemiru.
+
+***
+
+A šta će ti bol?
+
+Jer strah od onoga što očekujemo postaje bol kada to stigne.
+
+I za čim ćeš još silno žudeti?
+
+Za onim što je u oblasti proizvoljenja imaš skladnu i uređenu težnju, jer je to dobro i dostupno ti je.
+
+A ni za čim izvan proizvoljenja ne žudiš, te u tebi nema mesta onoj nerazumnoj sili koja te vuče i bez mere goni.
+
+***
+
+Kada se, dakle, tako postaviš prema stvarima, koji te čovek još može zastrašiti?
+
+Šta jedan čovek ima u izgledu, govoru ili opštenju s tobom čime bi mogao zastrašiti drugoga čoveka više nego što jedan konj zastrašuje drugoga konja, ili pas psa, ili pčela pčelu?
+
+Nisu ljudi ono čega se čovek boji, nego stvari.
+
+A kada neko ima vlast da ti te stvari pribavi ili oduzme, tada postaje sposoban da te zastraši.
+
+***
+
+Kako se, dakle, ruši tvrđava?
+
+Ne gvožđem niti ognjem, nego mnenjima.
+
+Jer ako osvojimo tvrđavu u gradu, jesmo li time osvojili i tvrđavu groznice?
+
+I tvrđavu lepe devojke?
+
+Jesmo li, jednom rečju, osvojili tvrđavu u sebi i isterali tirane koji svakoga dana gospodare svakim od nas, čas iste, čas druge?
+
+***
+
+Odavde, dakle, treba početi.
+
+Tu treba osvojiti tvrđavu i isterati tirane.
+
+Treba predati bedno telo, njegove udove i moći, imanje, ugled, službe, počasti, decu, braću, prijatelje — sve to smatrati tuđim.
+
+***
+
+A kada odatle isteramo tirane, zašto bih, barem radi sebe, još rušio zidine tvrđave?
+
+Šta mi smetaju dok stoje?
+
+Zašto bih isterivao tiraninovu stražu?
+
+Gde je ja osećam?
+
+Njihove prutove, koplja i mačeve upravljaju na druge.
+
+***
+
+Mene niko nikada nije sprečio da hoću ono što hoću, niti me je iko prisilio protiv moje volje.
+
+Kako je to moguće?
+
+Svoje proizvoljenje predao sam Bogu.
+
+On hoće da imam groznicu — hoću i ja.
+
+On hoće da nešto izaberem — hoću i ja.
+
+On hoće da nečemu težim — težim i ja.
+
+On hoće da nešto dobijem — hoću i ja.
+
+On ne želi — ne želim ni ja.
+
+***
+
+Zato hoću i da umrem.
+
+Hoću i da budem rastegnut na spravi za mučenje.
+
+Ko me sada može sprečiti protiv moje volje ili prinuditi?
+
+Ništa više nego Zevsa.
+
+***
+
+Tako postupaju i oprezniji putnici.
+
+Čovek čuje da je put kojim ide pun razbojnika.
+
+Ne usuđuje se da pođe sam, nego čeka pratnju nekoga poslanika, kvestora ili prokonzula; pridruži mu se i bezbedno prođe putem.
+
+Tako i razborit čovek postupa u svetu.
+
+Kaže sebi:
+
+Mnoge su razbojničke družine, tirani, oluje, teškoće i gubici onoga što nam je najmilije.
+
+Kuda da pobegnem?
+
+Kako da prođem neopljačkan?
+
+Kakvu pratnju da sačekam da bih bezbedno prošao?
+
+Kome da se pridružim?
+
+Nekom bogatašu?
+
+Prokonzulu?
+
+Kakva korist?
+
+I njega pljačkaju, i on jadikuje i tuguje.
+
+A šta ako se sam moj saputnik okrene protiv mene i opljačka me?
+
+Šta da činim?
+
+Postaću Cezarov prijatelj; niko mi neće nauditi ako sam njegov drug.
+
+Ali najpre: koliko toga moram pretrpeti i podneti da bih mu postao prijatelj!
+
+Koliko puta i od koliko ljudi najpre moram biti opljačkan!
+
+A zatim, i ako mu postanem prijatelj, i on je smrtan.
+
+Ako ga neka okolnost načini mojim neprijateljem, kuda mi je najbolje da se sklonim?
+
+U pustinju?
+
+Zar groznica ne dolazi i tamo?
+
+Šta onda da činim?
+
+Zar se ne može naći saputnik koji je bezbedan, veran, snažan i bez sumnje da će izdati?
+
+Tako razmišljajući, čovek dolazi do toga da će, ako se pridruži Bogu, bezbedno proći kroz svet.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — продолженіѥ ·
+
+Что ѹбо чловѣка невъзбранена и самовластьна творить ·
+
+Ни богатство се творить · ни ипатьство · ни область · ни цѣсарьство · нъ ино нѣчто обрѣсти подобаѥть ·
+
+Что ѹбо въ писании чловѣка невъзбранена и непонѫждена творить ·
+
+Вѣдѣниѥ писати ·
+
+Что же въ гѫсльномь игрании ·
+
+Вѣдѣниѥ играти ·
+
+Тако и въ житии · вѣдѣниѥ жити ·
+
+***
+
+Се ѹбо вообще слꙑшалъ єси · нꙑнѣ же и по частемъ рассмотри ·
+
+Можетъ ли чловѣкъ · къ нѣчесомѹ тѧжѫщии · єже въ чюждеи власти єсть · невъзбраненъ быти ·
+
+Не можеть ·
+
+Можетъ ли непонѫжденъ быти ·
+
+Не можеть ·
+
+Тѣмьже ни свободьнъ быти не можеть ·
+
+***
+
+Виждь ѹбо · ничтоже ли имамы · єже єдино въ нашеи власти єсть · или вьсѧ такова сѫть · или овꙑ въ нашеи власти · овꙑ же въ чюждеи ·
+
+Како глаголеши ·
+
+Єгда хощеши · да тѣло ти цѣло бѫдеть · на тебѣ ли се єсть · или ни ·
+
+Не ·
+
+А да здраво бѫдеть ·
+
+Ни се ·
+
+А жити или ѹмрѣти ·
+
+Ни се ·
+
+Тѣло ѹбо не твоѥ имѣниѥ єсть · нъ повиньно кождомѹ · иже тебе крѣпчаишии єсть ·
+
+Съизволѧѭ ·
+
+Нива же · на тебѣ ли єсть имѣти ю · єгда хощеши · дондеже хощеши · и таковѫ · ꙗковѫ хощеши ·
+
+Не ·
+
+Раби же ·
+
+Не ·
+
+Ризꙑ ·
+
+Не ·
+
+Домъ ·
+
+Не ·
+
+Кони ·
+
+Ничтоже отъ сихъ ·
+
+Аще же вьсѣмь хощеши · да чѧда твоꙗ · жена · братъ или дрѹзи живѫть · на тебѣ ли се єсть ·
+
+Ни се ·
+
+***
+
+Имаши ли ѹбо нѣчто · єже тъкмо въ твоеи власти и тебѣ єдиномѹ принадлежи ·
+
+Не вѣмъ ·
+
+Виждь ѹбо сице и размꙑсли ·
+
+Можетъ ли тѧ кто понѫдити · да лъжи съизволиши ·
+
+Никтоже ·
+
+Въ съизволении ѹбо невъзбраненъ и непонѫжденъ єси ·
+
+Съизволѧѭ ·
+
+Можетъ ли тѧ кто понѫдити · да избереши · єгоже не хощеши ·
+
+Можетъ · єгда съмрьтию или оковꙑ прѣтить · понѫждаѥть мѧ избирати ·
+
+Аще же съмрьть и оковꙑ прѣзриши · внимаѥши ли ємѹ къ томѹ ·
+
+Не ·
+
+Твоѥ ли дѣло єсть съмрьть прѣзрѣти · или не твоѥ ·
+
+Моѥ ·
+
+Твоѥ ли ѹбо и избирати ·
+
+Моѥ ·
+
+И отърещи сѧ ·
+
+И се моѥ ·
+
+***
+
+Нъ аще азъ избѣрѫ ходити · инъ же ми възбранить ·
+
+Что ти възбранить ·
+
+Съизволеніѥ ли ·
+
+Не · нъ бѣдьноѥ тѣло моѥ ·
+
+Ꙗкоже камень ·
+
+Да · нъ не походихъ ·
+
+Кто же ти рече · ꙗко на тебѣ єсть невъзбраньно ходити ·
+
+Азъ ти тъкмо се рекохъ · ꙗко хощеніѥ невъзбраньно єсть · идѣже же тѣла потрѣба и съдѣланіѥ · давно слꙑшалъ єси · ꙗко ничтоже твоѥ нѣсть ·
+
+И семѹ съизволѧѭ ·
+
+***
+
+Можетъ ли тѧ кто понѫдити желати · єгоже не хощеши ·
+
+Никтоже ·
+
+Или намѣрити · или положити · или вьсѣмь ꙗвлении · ꙗже къ тебѣ приходѧть · пользовати сѧ ·
+
+Ни сего ·
+
+Нъ єгда нѣчесого възжелѣѭ · възбранити ми можеть · да є достигнѫ ·
+
+Аще того желаѥши · єже твоѥ и невъзбраньно єсть · како ти възбранить ·
+
+Никакоже ·
+
+Кто ѹбо ти глаголеть · ꙗко иже чюждаго желаѥть · невъзбраненъ єсть ·
+
+***
+
+Не подобаѥть ли ми ѹбо здравіа желати ·
+
+Не ·
+
+Ни иноѥ вещи · ꙗже твоꙗ нѣсть ·
+
+Єже бо не въ твоеи власти єсть приобрѣсти или съхранити · твоѥ нѣсть ·
+
+***
+
+Далече ѹбо отъ того не тъкмо рѫцѣ · нъ паче тѧженіѥ свое дръжи ·
+
+Иначе себе въ рабьство прѣдалъ єси · выѭ подъ иго преклонилъ єси · аще чему любо чюждемѹ дивиши сѧ · аще къ нѣчесомѹ съмрьтьномѹ и чюждеи власти повиньномѹ крѣпъко прилѣплѧѥши сѧ ·
+
+Не моꙗ ли рѫка єсть ·
+
+Часть тебе єсть · нъ по природѣ бръниѥ єсть · възбраненію и понѫжденію повиньна · рабъ вьсѣмѹ · єже тебе крѣпчаише єсть ·
+
+***
+
+И чесого ради рѫкѫ тъкмо глаголѭ ·
+
+Вьсе тѣло своѥ ꙗкоже бѣдьна натѧжьна осьла имѣти подобаѥть ти · дондеже възможьно · дондеже пѹщено єсть ·
+
+Аще же на слѹжбѫ възѧто бѫдеть и воинъ є иметь · пѹсти є ·
+
+Не противи сѧ · ни ръпъщи ·
+
+Аще же се твориши · и биѥнъ бѫдеши и осьла своего обаче погѹбиши ·
+
+***
+
+Аще сице къ тѣлѹ имѣти сѧ подобаѥть · виждь · что ти о прочиихъ творити остаѥть · ꙗже тѣла ради дана сѫть ·
+
+Понеже тѣло осьлъ єсть · прочаꙗ ѹздꙑ осьлѧ сѫть · самари · обувь · ꙗчмень и брашьно ·
+
+Пѹсти и та ·
+
+Скорѣе и радостьнѣе ихъ отърьци сѧ · неже самого осьла ·
+
+***
+
+Аще сице приготовленъ и наѹченъ бѫдеши · да чюждаꙗ отъ своихъ разлѫчаѥши · възбраньнаꙗ отъ невъзбраньнꙑхъ · сиꙗ своѧ мьниши · она же не своѧ · тѧженіѥ къ симъ дръжиши · отъклонъ же къ тѣмъ · ꙗже на тебѣ сѫть · кого къ томѹ боꙗти сѧ имаши ·
+
+Никогоже ·
+
+Чесого бо боꙗти сѧ ·
+
+Своихъ ли · въ нихъже истиньна природа добра и зла тебѣ єсть ·
+
+Кто надъ ними власть имать ·
+
+Кто ꙗ отъѧти можеть ·
+
+Кто имъ възбранити можеть · паче неже Богѹ възбранити ·
+
+***
+
+Тѣла ли и имѣниа боꙗти сѧ бѫдеши ·
+
+Чюждихъ ли ·
+
+Тѣхъ ли · ꙗже ничтоже къ тебѣ ·
+
+И что ино отъ начала любомѫдръ слꙑшалъ єси · развѣ како своѥ отъ чюждаго разлѫчати · єже на тебѣ отъ того · єже не на тебѣ · възбраньноѥ отъ невъзбраньнаго ·
+
+Чесого ради къ любомѫдромъ ходилъ єси ·
+
+Да не менѣе прѣжде несъчастьнъ и бѣдьнъ бѫдеши ·
+
+Не бѫдеши ѹбо тогда въ страхѣ ни смѫщении ·
+
+***
+
+Что же ти до болѣзни ·
+
+Страхъ бо ожидаѥмꙑхъ вещии болѣзнь бываѥть · єгда они пріидѫть ·
+
+И чего къ томѹ крѣпъко желати бѫдеши ·
+
+Къ тѣмъ · ꙗже въ области произволеніа сѫть · чиньно и съгласно тѧженіѥ имаши · понеже добра сѫть и достижьна ·
+
+Внѣ же произволеніа ничтоже желаѥши · да мѣста не даѥши ономѹ неразѹмьномѹ · єже тѧ влечеть и безъ мѣрꙑ гонить ·
+
+***
+
+Аще сице къ вещемъ имаши сѧ · каковъ чловѣкъ тѧ къ томѹ страшити можеть ·
+
+Что бо єдинъ чловѣкъ въ своемь образѣ · словеси или вьсѣмь общении имать · имьже иного чловѣка страшити можеть · паче неже конь конѧ · песъ пса · пчела пчелѫ ·
+
+Не чловѣци бо страшѧть чловѣка · нъ вещи ·
+
+И єгда кто власть имать ихъ иномѹ дати или отъѧти · тогда страшити єго можеть ·
+
+***
+
+Како ѹбо твръдынѧ разараѥть сѧ ·
+
+Не желѣзомь · ни огнемь · нъ мьнѣнии ·
+
+Аще бо градьскѫ твръдынѭ приимемъ · приѧхомъ ли и твръдынѭ огньницꙑ ·
+
+И твръдынѭ краснꙑꙗ дѣвицꙑ ·
+
+И вьсѣмь · приѧхомъ ли твръдынѭ въ насъ и изгънахомъ ли мѫчителѧ · иже кождꙑи дьнь надъ кождꙑмь отъ насъ владычествѹѭть · овогда тии же · овогда инии ·
+
+***
+
+Отъ сего ѹбо начати подобаѥть ·
+
+Сюдѣ твръдынѭ приѧти и мѫчителѧ изгънати ·
+
+Предати подобаѥть бѣдьноѥ тѣло · ѹдꙑ єго · силꙑ · имѣниѥ · славѫ · достоиньства · чьсти · чѧда · братіѭ · дрѹгꙑ · вьсѧ сиꙗ чюжда намъ мьнѣти ·
+
+***
+
+Аще же мѫчителѧ отътѫдѹ изгънани бѫдѫть · чесого ради мнѣ къ томѹ твръдынѧ стѣнꙑ разарати · понѣ себе ради ·
+
+Что ми врѣдѧть · стоѧще ·
+
+Чесого ради и стражѫ мѫчителевѫ изгънати ·
+
+Къдѣ ю чѹвьствѹѭ ·
+
+Жезлꙑ · копиꙗ и мечѧ ихъ на инꙑꙗ обращени сѫть ·
+
+***
+
+Мене же николиже въ хощении моемь възбраниша · ни противъ волѣ моеи понѫдиша ·
+
+Како се възможьно ·
+
+Произволеніѥ своѥ Богѹ покорихъ ·
+
+Хощеть · да огньницѫ имамъ · и азъ хощѫ ·
+
+Хощеть · да нѣчто изберѫ · и азъ хощѫ ·
+
+Хощеть · да къ нѣчесомѹ тѧжѫ · и азъ тѧжѫ ·
+
+Хощеть · да нѣчто приимѫ · и азъ хощѫ ·
+
+Не хощеть · и азъ не хощѫ ·
+
+***
+
+Хощѫ ѹбо и ѹмрѣти ·
+
+Хощѫ и на мѫчилищи растѧгненъ быти ·
+
+Кто мѧ къ томѹ противъ моемѹ мьнѣнию възбранити или понѫдити можеть ·
+
+Ни паче · неже Зевса ·
+
+***
+
+Тако и блюдливѣишии пѫтьници творѧть ·
+
+Слꙑшалъ чловѣкъ · ꙗко пѫть · имьже идеть · разбойникъ исполнь єсть ·
+
+Не дръзаеть єдинъ поити · нъ съпѫтьства ожидаѥть · или посла · или квестора · или проконсоулѧ · и къ нимъ приложивъ сѧ · безъ бѣдꙑ пѫтемь идеть ·
+
+Тако и разборьнъ чловѣкъ въ мирѣ творить ·
+
+Глаголеть себѣ ·
+
+Мнози разбойници · мѫчителѧ · бѹрѧ · тѧжькости и погѹбленіа любимꙑхъ вещии сѫть ·
+
+Камо бѣжати ·
+
+Како безъ разграбленіа пѫть сътворити ·
+
+Коего съпѫтьства ожидати · да безъ бѣдꙑ прѣидѫ ·
+
+Къ комѹ приложити сѧ ·
+
+Къ богатомѹ ли нѣкоемѹ ·
+
+Къ проконсоулѹ ли ·
+
+Что ми польза ·
+
+И онъ разграблѧѥть сѧ · ръпъщеть и печалѹѥть сѧ ·
+
+Аще же самъ съпѫтьникъ мои на мѧ обратитъ сѧ и разграбить мѧ ·
+
+Что сътворѭ ·
+
+Дрѹгъ Кесаревъ бѫдѫ ·
+
+Никтоже ми навредитъ · аще съ нимь бѫдѫ ·
+
+Нъ пръвѣе · колико ми прѣтръпѣти и понести подобаѥть · да дрѹгъ єго бѫдѫ ·
+
+Коликожды и отъ колицѣхъ прѣжде разграбленѹ быти ·
+
+Потомь же · аще и дрѹгъ єго бѫдѫ · и онъ съмрьтьнъ єсть ·
+
+Аще же нѣкоѥ приключеніѥ врагомъ ми єго сътворить · камо лѹчьше отъидѫ ·
+
+Въ пѹстꙑнѭ ли ·
+
+Не приходить ли и тамо огньница ·
+
+Что ѹбо съ мною бѫдеть ·
+
+Не възможьно ли обрѣсти съпѫтьника безъ бѣдꙑ · вѣрьна · крѣпъка · безъ подозрѣніа измѣнꙑ ·
+
+Тако размꙑшлѧѧ · къ семѹ приходить · ꙗко · аще къ Богѹ прилѣпить сѧ · безъ бѣдꙑ чрѣзъ миръ прѣидеть ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — nastavak
+
+Srpski
+
+Šta znači pridružiti se Bogu?
+
+Da ono što Bog hoće hoćeš i ti, a ono što On neće, ne želiš ni ti.
+
+Kako se to postiže?
+
+Kako drukčije nego posmatranjem Božjih odluka i Njegova upravljanja?
+
+Šta mi je dao kao moje i stavio pod moju vlast, a šta je zadržao za sebe?
+
+Sve što pripada proizvoljenju dao mi je kao moje, podvrgao mojoj vlasti, nesmetano i nezaprečeno.
+
+***
+
+Ali kako bi telo, načinjeno od gline, mogao učiniti nesmetanim?
+
+Zato ga je podvrgao toku vaseljene, zajedno s mojim imanjem, pokućstvom, kućom, decom i ženom.
+
+Zašto bih se onda borio protiv Boga?
+
+Zašto bih hteo ono što nije u vlasti htenja?
+
+Zašto bih po svaku cenu zadržavao ono što mi nije dato zauvek?
+
+***
+
+Kako onda treba da ih držim?
+
+Onako kako su mi dati i dokle god mogu biti dati.
+
+Ali Onaj koji daje, taj i uzima.
+
+Zašto bih se protivio?
+
+Ne samo da bih bio lud kada bih pokušao da silom nadvladam jačega od sebe; pre toga bih bio i nepravedan.
+
+***
+
+Jer odakle sam doneo te stvari kada sam došao na svet?
+
+Otac mi ih je dao.
+
+A ko ih je dao njemu?
+
+Ko je načinio sunce?
+
+Ko plodove?
+
+Ko godišnja doba?
+
+Ko zajednicu i uzajamnu povezanost ljudi?
+
+***
+
+Pošto si, dakle, sve primio od Drugoga, pa i samoga sebe, još se žališ i okrivljuješ Davaoca ako ti nešto oduzme?
+
+Ko si ti i radi čega si došao?
+
+Nije li te On doveo na svet?
+
+Nije li ti pokazao svetlost?
+
+Nije li ti dao saradnike?
+
+Nije li ti dao čula i razum?
+
+***
+
+A kao kakvoga te je doveo?
+
+Zar ne kao smrtnika?
+
+Zar ne kao onoga koji će malo vremena živeti na zemlji s malim delom bednoga mesa, da neko vreme bude gledalac Njegova upravljanja i učestvuje u Njegovoj svetkovini i prazniku?
+
+***
+
+Zar nećeš, dakle, dokle god ti je dato, gledati Njegovu svetkovinu i praznik, a zatim, kada te izvede, otići poklonivši se i zahvalivši za ono što si čuo i video?
+
+Ne, kažeš, hteo sam da praznik još traje.
+
+I posvećeni u misterije hoće da obred još traje.
+
+I gledaoci u Olimpiji žele da vide još takmičara.
+
+Ali svetkovina se završila.
+
+Idi.
+
+Odlazi kao zahvalan i pobožan gledalac.
+
+Načini mesta drugima.
+
+***
+
+I drugi se moraju roditi, kao što si se ti rodio.
+
+A kada se rode, moraju imati zemlju, kuće i hranu.
+
+Ako prvi ne odu, šta ostaje onima koji dolaze posle njih?
+
+Zašto si nezasit?
+
+Zašto ti nikada nije dovoljno?
+
+Zašto zakrčuješ svet?
+
+***
+
+Ali hoću da moja dečica i žena budu sa mnom.
+
+Jesu li oni tvoji?
+
+Zar ne pripadaju Onome koji ih je dao?
+
+Onome koji je i tebe načinio?
+
+Zar nećeš, dakle, ustupiti ono što nije tvoje?
+
+Zar se nećeš pokoriti Jačemu?
+
+***
+
+Zašto me je onda doveo na svet pod tim uslovima?
+
+Ako ti uslovi ne odgovaraju, idi.
+
+Bogu nije potreban gledalac koji prigovara.
+
+***
+
+Njemu trebaju oni koji učestvuju u svetkovini i kolu, da joj se raduju, da je slave i pevaju joj hvalospeve.
+
+A mrzovoljne i kukavice neće sa žaljenjem gledati kako napuštaju svetkovinu.
+
+Jer ni dok su bili na njoj nisu se ponašali kao na prazniku niti su ispunjavali svoju ulogu.
+
+Nego su tugovali, okrivljavali Boga, sudbinu i svoje društvo, ne osećajući šta im je bilo darovano niti kakve su moći dobili upravo za suprotnu upotrebu:
+
+velikodušnost, plemenitost, hrabrost i samu slobodu koju sada tražimo.
+
+***
+
+Radi čega sam, dakle, dobio sve to?
+
+Da se time služim.
+
+Dokle?
+
+Dokle god hoće Onaj koji ti je to pozajmio.
+
+A šta ako mi je neophodno?
+
+Nemoj se za to vezivati i neće ti biti neophodno.
+
+Nemoj sebi govoriti da ti je neophodno — i neće biti.
+
+***
+
+To treba da vežbaš od jutra do večeri.
+
+Počni od najsitnijih i najlomljivijih stvari:
+
+od lonca,
+
+od čaše.
+
+Zatim pređi na tuniku,
+
+na bednoga psa,
+
+na konja,
+
+na komadić zemlje.
+
+Odatle pređi na sebe,
+
+na telo i njegove udove,
+
+na decu,
+
+ženu,
+
+braću.
+
+***
+
+Pogledaj ih sa svih strana i odbaci od sebe predstavu da su tvoji.
+
+Očisti svoja mnenja, da se uz njih ne prilepi ili s njima ne sraste nešto što nije tvoje, pa da te zaboli kada se otrgne.
+
+***
+
+I svakoga dana, dok se tako vežbaš kao u vežbalištu, nemoj govoriti:
+
+Bavim se filozofijom.
+
+To je već ohola reč.
+
+Nego reci:
+
+Dovodim oslobodioca da potvrdi moju slobodu.
+
+Jer to je prava sloboda.
+
+***
+
+Tako je Antisten oslobodio Diogena.
+
+A Diogen je potom govorio da ga više nijedan čovek ne može porobiti.
+
+Kako se zato poneo kada su ga zarobili?
+
+Kako se poneo prema gusarima?
+
+Je li ikoga od njih nazvao gospodarom?
+
+Ne govorim o samoj reči.
+
+Ne bojim se reči, nego strasti iz koje reč nastaje.
+
+***
+
+Kako ih je grdio što zarobljenicima daju rđavu hranu!
+
+A kada su ga prodavali, kako se ponašao?
+
+Je li tražio gospodara?
+
+Ne.
+
+Tražio je roba.
+
+***
+
+A kada je bio prodat, kako se poneo prema onome koji ga je kupio?
+
+Odmah je počeo da mu govori da ne treba tako da se oblači niti tako da se šiša, i kako treba da mu žive sinovi.
+
+***
+
+Šta je u tome čudno?
+
+Da je taj čovek kupio učitelja vežbanja, da li bi se u vežbalištu prema njemu odnosio kao prema sluzi ili kao prema gospodaru?
+
+Isto bi bilo da je kupio lekara ili graditelja.
+
+***
+
+U svakom umeću, dakle, onaj koji zna nužno nadvisuje onoga koji ne zna.
+
+Ko onda poseduje znanje kako treba živeti, kako može da ne bude gospodar?
+
+Jer ko je gospodar na brodu?
+
+Kormilar.
+
+Zašto?
+
+Zato što onaj koji mu se ne pokori trpi posledice.
+
+***
+
+Ali moj gospodar može dobro da me išiba.
+
+Može li to učiniti a da sam ne pretrpi posledicu?
+
+Mislio sam da može.
+
+Ali upravo zato što ne može bez posledice, nema vlast da to učini bez štete sebi.
+
+Jer niko ne može činiti zlo a da ne pretrpi posledicu.
+
+***
+
+A kakvu posledicu trpi čovek koji je, kada mu se prohtelo, okovao vlastitoga roba?
+
+Upravo to što ga je okovao.
+
+I sam ćeš to priznati ako želiš da održiš tvrdnju da čovek nije divlja, nego pitoma životinja.
+
+Jer kada loza rđavo prolazi?
+
+Kada postupa protiv vlastite prirode.
+
+Kada petao rđavo prolazi?
+
+Isto tako.
+
+Tako i čovek.
+
+***
+
+A šta je njegova priroda?
+
+Da ujeda, udara nogama, baca u tamnicu i odseca glave?
+
+Ne.
+
+Nego da čini dobro, da sarađuje s drugima i da im želi uspeh.
+
+Zato čovek, hteo ti to ili ne, rđavo prolazi kada postupa nečovečno.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — продолженіѥ ·
+
+Что єсть къ Богѹ прилѣпити сѧ ·
+
+Да · єже Богъ хощеть · и тꙑ хощеши · єже же Онъ не хощеть · ни тꙑ хощеши ·
+
+Како же се бꙑти можеть ·
+
+Како инако · развѣ аще Божиꙗ изволеніа и строѥниѥ Єго разсмотрѧѥши ·
+
+Что ми ꙗкоже моѥ даде и подъ моѭ власть положи · и что Себѣ остави ·
+
+Вьсѧ · ꙗже произволенію принадлежатъ · мнѣ ꙗкоже моꙗ даде · въ мою власть положи · невъзбраньна и непрѣпѧтьствована ·
+
+***
+
+Тѣло же моѥ · отъ бръни сътворено · како бы невъзбраньно сътворити моглъ ·
+
+Сего ради є въ обращеніѥ вьселенꙑꙗ положи · и имѣниѥ моѥ · съсѫдꙑ · домъ · чѧда · женѫ ·
+
+Чесого ради ѹбо противъ Бога борити сѧ имамъ ·
+
+Чесого ради хощѫ · єже не въ области хощеніа єсть ·
+
+Чесого ради по вьсакои цѣнѣ дръжати хощѫ · єже ми въ вѣкъ не дано єсть ·
+
+***
+
+Како же ми ꙗ дръжати подобаѥть ·
+
+Ꙗкоже дана ми сѫть · и дондеже дати сѧ могѫть ·
+
+Давыи же и отъимаѥть ·
+
+Чесого ради ѹбо противити сѧ имамъ ·
+
+Не тъкмо безѹмьнъ бѫдѫ · аще Крѣпчаишаго силою одолѣти покѹшаѭ сѧ · нъ прѣжде сего и неправьдьнъ ·
+
+***
+
+Отъкѫдѹ бо сиꙗ приѧхъ · єгда въ миръ пріидохъ ·
+
+Отьць ми ꙗ даде ·
+
+Кто же ємѹ даде ·
+
+Кто слъньце сътвори ·
+
+Кто плодꙑ ·
+
+Кто лѣтнаꙗ врѣмена ·
+
+Кто общеніѥ и съвѫзъ чловѣкъ междѹ собою ·
+
+***
+
+Вьсѧ ѹбо и самого себе отъ Иного приѧлъ єси · и єще ръпъщеши и Давъшаго обвинѧѥши · аще нѣчто отъ тебе отъиметь ·
+
+Кто єси · и чесого ради пріиделъ єси ·
+
+Не Онъ ли тѧ въ миръ приведе ·
+
+Не Онъ ли ти свѣтъ показа ·
+
+Не Онъ ли ти съдѣлателѧ даде ·
+
+Не Онъ ли ти чѹвьства и разѹмъ даде ·
+
+***
+
+Ꙗкоже какова же тѧ въ миръ приведе ·
+
+Не ꙗкоже съмрьтьна ли ·
+
+Не ꙗкоже хотѧща мало врѣмѧ на земли жити съ малымь дѣломъ бѣдьнаго мѧса · да на мало врѣмѧ строѥніа Єго зритель бѫдеши · и въ позорѣ и праздьници Єго ѹчаствѹѥши ·
+
+***
+
+Не хощеши ли ѹбо · дондеже ти дано єсть · строѥніа Єго и праздьника зритель быти · потомь же · єгда тѧ изведеть · отъити · поклонивъ сѧ и благодаривъ за то · єже слꙑшалъ и видѣлъ єси ·
+
+Не · глаголеши · хощѫ · да праздьникъ єще пребѫдеть ·
+
+И таиньствомъ причѧстивъшии сѧ хощѫть · да посвященіѥ продолжить сѧ · и олимпиистии зрителѧ хощѫть · да єще инꙑꙗ борьцꙑ видѧть ·
+
+Нъ праздьникъ коньча сѧ ·
+
+Изиди ·
+
+Отъиди ꙗкоже благодарьнъ и благовѣрьнъ зритель ·
+
+Даждь мѣсто инꙑмъ ·
+
+***
+
+И инꙑмъ родити сѧ подобаѥть · ꙗкоже тꙑ родилъ сѧ єси ·
+
+Родивъшимъ же сѧ подобаѥть землѭ имѣти · домꙑ и брашьно ·
+
+Аще пръвии не отъидѫть · что послѣдѹѭщимъ останеть ·
+
+Чесого ради ненасꙑтьнъ єси ·
+
+Чесого ради николиже довъленъ ·
+
+Чесого ради миръ тѣсниши ·
+
+***
+
+Нъ хощѫ · да чѧда моꙗ и жена съ мною бѫдѫть ·
+
+Твоꙗ ли сѫть ·
+
+Не Томѹ ли принадлежатъ · иже ꙗ даде ·
+
+Не Томѹ ли · иже и тебе сътвори ·
+
+Не отъдаси ли ѹбо · єже твоѥ нѣсть ·
+
+Не покориши ли сѧ Крѣпчаишемѹ ·
+
+***
+
+Чесого ради ѹбо на таковꙑхъ ѹсловиихъ мѧ въ миръ приведе ·
+
+Аще ти не люби сѫть · отъиди ·
+
+Богѹ не трѣбѣ ръпътлива зрителѧ ·
+
+***
+
+Трѣбѣ Ємѹ тѣхъ · иже праздьникѹ и ликѹ причѧстѧть сѧ · да паче радѹѭть сѧ · славѧть и пѣсньми праздьникъ хвалѧть ·
+
+Ръпътливꙑхъ же и страшьливꙑхъ безъ печали изъ праздьника изведенꙑхъ видѣти имать ·
+
+Понеже · єгда прѣдъстоѧхѫ · не ꙗкоже на праздьници имѣахѫ сѧ · ни свои дѣлъ исполнѧахѫ ·
+
+Нъ печаловахѫ · Бога обвинѧахѫ · сѫдьбѫ и общьство · не чѹвьствѹѭще · что имъ даровано бѣ · ни силъ своихъ · ꙗже именно къ противьномѹ приѧшѧ ·
+
+Великодѹшиѥ · благородьство · мѫжьство и самѫ свободѫ · юже нꙑнѣ ищемъ ·
+
+***
+
+Чесого ради ѹбо сиꙗ приѧхъ ·
+
+Да ими пользѹѭ сѧ ·
+
+Доколѣ ·
+
+Дондеже хощеть Тъ · иже ти ꙗ взаимъ даде ·
+
+Нъ аще ми нѫждьна сѫть ·
+
+Не прилѣплѧи сѧ къ нимъ · и не бѫдѫть ти нѫждьна ·
+
+Не глаголи себѣ · ꙗко нѫждьна сѫть · и не бѫдѫть ·
+
+***
+
+Семѹ подобаѥть ѹчити сѧ отъ ѹтра до вечера ·
+
+Начьни отъ малѣишиихъ и наиломнѣишиихъ ·
+
+Отъ грънца ·
+
+Отъ чашѧ ·
+
+Потомь прѣиди къ ризѣ ·
+
+Къ бѣдьномѹ псѹ ·
+
+Къ коню ·
+
+Къ малѹ дѣлѹ землѧ ·
+
+Отътѫдѹ къ себѣ ·
+
+Къ тѣлѹ и ѹдомъ єго ·
+
+Къ чѧдомъ ·
+
+Женѣ ·
+
+Братіи ·
+
+***
+
+Отъ вьсѣхъ странъ ꙗ рассмотри и отъвьрзи отъ себе · ꙗкоже не своꙗ ·
+
+Очисти мьнѣніа своꙗ · да нѣчто · єже твоѥ нѣсть · къ нимъ не прилѣпить сѧ · ни сърастеть сѧ съ ними · да не болиши · єгда отъръгнено бѫдеть ·
+
+***
+
+И кождꙑи дьнь · ꙗкоже въ борилищи ѹчѧ сѧ · не глаголи ·
+
+Любомѫдрьствѹѭ ·
+
+Высоко бо се слово єсть ·
+
+Нъ ·
+
+Свободителѧ своего на сѫдъ привождѫ ·
+
+Се бо истиньнаꙗ свобода єсть ·
+
+***
+
+Тако Диогенъ отъ Антисѳена свободьнъ сътворенъ бꙑсть ·
+
+И потомь глаголаше · ꙗко никтоже єго къ томѹ поработити можеть ·
+
+Како ѹбо имѣ сѧ · єгда плѣненъ бꙑсть ·
+
+Како къ морьскꙑмъ разбойникомъ ·
+
+Никогоже ли отъ нихъ господиномъ нарече ·
+
+Не о имени глаголѭ ·
+
+Не слова боѭ сѧ · нъ страсти · ꙗже слово раждаѥть ·
+
+***
+
+Како ꙗ корѧаше · понеже плѣнникомъ зъло брашьно давахѫ ·
+
+Како имѣ сѧ · єгда продавахѫ єго ·
+
+Господина ли искаше ·
+
+Не ·
+
+Раба ·
+
+***
+
+И єгда проданъ бꙑсть · како къ кѹпивъшемѹ єго имѣ сѧ ·
+
+Абиѥ начѧ ємѹ противословити · глаголѧ · ꙗко не подобаѥть ємѹ тако одѣвати сѧ · ни тако власы стрѣщи · и о сꙑнѣхъ єго · како имъ жити подобаѥть ·
+
+***
+
+Что дивьно въ семь ·
+
+Аще бы ѹчителѧ тѣлесьнаго ѹчениа кѹпилъ · ꙗкоже слѹгою ли имь пользовалъ сѧ бы · или ꙗкоже господиномъ въ борилищи ·
+
+И аще бы врача кѹпилъ · или зиждителѧ · то же бы бѣло ·
+
+***
+
+Въ кождомь ѹбо ѹмѣнии нѫждьно єсть · да ѹмѣлыи невѣдѫщаго выше бѫдеть ·
+
+Иже ѹбо ѹмѣниѥ жити имать · како господинъ не бѫдеть ·
+
+Кто бо въ корабли господинъ єсть ·
+
+Кормьчии ·
+
+Чесого ради ·
+
+Понеже иже єго не послѹшаѥть · наказаніѥ приимаѥть ·
+
+***
+
+Нъ господинъ мои можеть мѧ крѣпъко бити ·
+
+Можетъ ли безъ наказаніа се сътворити ·
+
+Мьнѣхъ · ꙗко можеть ·
+
+Нъ понеже безъ наказаніа сътворити не можеть · тѣмьже ни власти безъ врѣда се творити не имать ·
+
+Никтоже бо зло творити безъ наказаніа можеть ·
+
+***
+
+Какоѥ же наказаніѥ приимаѥть тъ · иже своего раба · єгда ємѹ любо бѫдеть · въ оковꙑ въвръжеть ·
+
+Само єже єго въ оковꙑ въвръже ·
+
+Се и самъ исповѣси · аще хощеши съхранити · ꙗко чловѣкъ не дивиѥ животьно · нъ кротъко єсть ·
+
+Къгда бо лоза зълѣ имать сѧ ·
+
+Єгда противъ своеи природѣ творить ·
+
+Къгда пѣтелъ зълѣ имать сѧ ·
+
+Тако же ·
+
+Тако и чловѣкъ ·
+
+***
+
+Что ѹбо природа єго єсть ·
+
+Ѹгрꙑзати ли · пинати · въ темьницѫ въврѣщи и главꙑ отсѣцати ·
+
+Не ·
+
+Нъ добро творити · съдѣлати и о прѣспѣнии инꙑхъ молити сѧ ·
+
+Сего ради · хощеши не хощеши · зълѣ имать сѧ · єгда нечловѣчьно творить ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — nastavak
+
+Srpski
+
+Hoćeš, dakle, da kažeš da Sokrat nije rđavo prošao?
+
+Nije.
+
+Rđavo su prošle njegove sudije i tužioci.
+
+A Helvidije u Rimu?
+
+Ni on.
+
+Nego onaj koji ga je pogubio.
+
+Kako to?
+
+Kao što ni za petla koji je pobedio, premda je sav isečen, ne kažeš da je rđavo prošao, nego za onoga koji je pobeđen, premda nije zadobio nijedan udarac.
+
+***
+
+Niti psa nazivaš srećnim kada ne goni niti se zamara, nego kada ga vidiš kako se znoji, muči i gotovo puca od potere.
+
+Šta je onda čudno ako kažemo da je zlo svake stvari ono što je protivno njenoj vlastitoj prirodi?
+
+Je li to čudno?
+
+Zar isto ne govoriš o svemu ostalom?
+
+Zašto onda samo kod čoveka postupaš drukčije?
+
+***
+
+A zar je čudno i kada kažemo da je priroda čoveka blaga, ljubazna i verna?
+
+Nije ni to čudno.
+
+Kako onda čovek ne trpi štetu makar bio teško išiban, zatvoren ili pogubljen?
+
+Tako što sve to podnese plemenito i iziđe iz toga s većom korišću i napretkom.
+
+Štetu trpi drugi — onaj koji zapada u najbednije i najsramnije stanje, koji od čoveka postaje vuk, zmija ili osa.
+
+***
+
+Hajde sada da ponovimo ono oko čega smo se saglasili.
+
+Slobodan je onaj ko živi kako hoće.
+
+Pristajem.
+
+Hoćeš li živeti grešeći?
+
+Neću.
+
+Dakle, niko ko greši ne živi kako hoće.
+
+Hoćeš li živeti u strahu, žalosti i nemiru?
+
+Neću.
+
+Dakle, ko je u strahu, žalosti i nemiru ne živi kako hoće.
+
+***
+
+Hoćeš li živeti tako da ti drugi naređuje šta moraš činiti?
+
+Ne.
+
+Hoćeš li da te drugi sprečava u onome što želiš?
+
+Ne.
+
+Hoćeš li da te natera na ono što ne želiš?
+
+Neću.
+
+Dakle, onaj kome se to događa nije slobodan.
+
+***
+
+Ko ti, onda, može naređivati ako ništa spoljašnje ne smatraš dobrom?
+
+Ko te može sprečavati ako želiš samo ono što je u tvojoj vlasti?
+
+Ko te može prinuditi ako se otklanjaš samo od onoga što zavisi od tebe?
+
+Niko.
+
+***
+
+Ali ako se bojiš bolesti, lekar će ti biti gospodar.
+
+Ako se bojiš siromaštva, bogataš će ti biti gospodar.
+
+Ako se bojiš smrti, gospodar ti je svako ko ima vlast da te ubije.
+
+Ako se bojiš progonstva, gospodar ti je onaj koji ima vlast da te protera.
+
+***
+
+Ako želiš položaj, gospodar ti je onaj koji ga daje.
+
+Ako želiš slavu, gospodar ti je mnoštvo.
+
+Ako želiš da te neko voli, taj čovek ti je gospodar.
+
+Ako hoćeš da ti dete živi, gospodar ti je svaki lekar, svaki tiranin i svaka bolest.
+
+***
+
+Zato nema samo jednoga gospodara.
+
+Ima ih onoliko koliko ima stvari bez kojih misliš da ne možeš biti srećan.
+
+***
+
+A kako da ih se oslobodim?
+
+Ne tako što ćeš ukloniti ljude.
+
+Nego tako što ćeš ukloniti vlastita mnenja.
+
+***
+
+Ne treba ti da tiranin prestane da bude tiranin.
+
+Treba ti da prestaneš smatrati tiraninovim ono što je tvoje.
+
+***
+
+On kaže:
+
+Ubiću te.
+
+Ti odgovori:
+
+Ako misliš da treba.
+
+***
+
+On kaže:
+
+U okove ću te baciti.
+
+Baci noge.
+
+***
+
+On kaže:
+
+Proteraću te.
+
+Kamo god ti se čini.
+
+***
+
+On kaže:
+
+Oduzeću ti imanje.
+
+Uzmi.
+
+***
+
+A kada vidi da nema ničega čime te može dotaći?
+
+Šta će onda učiniti?
+
+***
+
+Tiranin je kao strašilo za decu.
+
+Dete ga se boji dok misli da je živo.
+
+Kada sazna šta je, više se ne boji.
+
+***
+
+Tako i ti.
+
+Dok misliš da su telo, imanje i ugled tvoje dobro, svaki čovek koji nad njima ima vlast izgleda ti strašan.
+
+Kada naučiš da nisu tvoje dobro, šta ti još može?
+
+***
+
+Zar će ti nauditi ako ti telo stavi u okove?
+
+Ne više nego što bi naudilo obući kada bi je bacio u blato.
+
+***
+
+Ali telo oseća bol.
+
+I šta onda?
+
+Nisam rekao da telo neće boleti.
+
+Rekao sam da proizvoljenje ne mora postati rđavo.
+
+***
+
+Nisam rekao da nećeš umreti.
+
+Rekao sam da ne moraš umreti kao rob.
+
+***
+
+Nisam rekao da nećeš biti prognan.
+
+Rekao sam da možeš biti prognan kao slobodan čovek.
+
+***
+
+Jer sloboda ne znači da se spoljašnje stvari nikada neće dogoditi protiv tvoje želje.
+
+Sloboda znači da svoju želju ne polažeš tamo gde spoljašnje stvari mogu da je poraze.
+
+***
+
+Zato pitaj sebe u svakom događaju:
+
+Gde je moje dobro?
+
+Gde je moje zlo?
+
+Ako odgovor glasi:
+
+U proizvoljenju,
+
+onda si na pravom putu.
+
+Ako kažeš:
+
+U telu,
+
+vratio si se u ropstvo.
+
+Ako kažeš:
+
+U imanju,
+
+u ropstvu si.
+
+Ako kažeš:
+
+U tome šta će ljudi reći,
+
+u ropstvu si.
+
+***
+
+Jedno je, dakle, potrebno:
+
+da čuvaš ono što je tvoje.
+
+***
+
+Kako?
+
+Kao stražar kojemu je poverena tvrđava.
+
+Ne spavaj na straži.
+
+Ne predaj vrata.
+
+Ne puštaj unutra ono što pripada neprijatelju.
+
+***
+
+Ko je neprijatelj?
+
+Mnenje koje govori:
+
+Ovo spoljašnje je dobro.
+
+Ovo spoljašnje je zlo.
+
+Bez ovoga ne mogu biti srećan.
+
+Ako ovo izgubim, propao sam.
+
+***
+
+Takva mnenja otvaraju vrata gospodarima.
+
+***
+
+Kada ih izbaciš, nema više ropstva.
+
+***
+
+Jer šta će gospodar učiniti čoveku koji kaže:
+
+Nije mi potrebno ništa od onoga što ti možeš dati.
+
+Ne bojim se ničega što mi možeš oduzeti.
+
+***
+
+Šta mu ostaje osim da se divi ili razgnevi?
+
+A ako se razgnevi, to je njegova šteta.
+
+***
+
+Ti samo čuvaj svoje.
+
+***
+
+Sokrat je tako činio.
+
+Zato je i pred sudijama ostao isti.
+
+Nije molio da bude oslobođen po svaku cenu.
+
+Nije plakao pred njima.
+
+Nije dovodio decu da izazove sažaljenje.
+
+***
+
+Zašto?
+
+Jer nije mislio da je zlo ono nad čim su sudije imale vlast.
+
+***
+
+Njegovo zlo bilo bi samo jedno:
+
+da učini nešto nepravedno ili nedostojno sebe.
+
+***
+
+Zato je mogao izgubiti život, a ne izgubiti slobodu.
+
+***
+
+I Helvidije je mogao izgubiti glavu, a ne izgubiti ono što ga je činilo Helvidijem.
+
+***
+
+Tako treba gledati na slobodna čoveka.
+
+Ne pitaj:
+
+Šta mu se dogodilo?
+
+Nego:
+
+Kako se poslužio onim što mu se dogodilo?
+
+***
+
+Ako se dobro poslužio, dobro je prošao.
+
+Ako se rđavo poslužio, rđavo je prošao.
+
+***
+
+Jer čovekovo dobro nije ono što mu se događa.
+
+Čovekovo dobro jeste način na koji se služi onim što mu se događa.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — продолженіѥ ·
+
+Хощеши ли ѹбо рещи · ꙗко Сѡкратъ зълѣ не пострада ·
+
+Не ·
+
+Зълѣ пострадашѧ сѫдиѥ и обвинителѧ єго ·
+
+Илвидии же въ Римѣ ·
+
+Ни онъ ·
+
+Нъ тъ · иже єго ѹби ·
+
+Како ·
+
+Ꙗкоже ни о пѣтелѣ · иже побѣди · аще и вьсь исѣченъ єсть · не глаголеши · ꙗко зълѣ пострада · нъ о томь · иже побѣжденъ бꙑсть · аще и ни єдинаго ѹдара не приѧтъ ·
+
+***
+
+Ни пса благочѧстива нарицаѥши · єгда ни гонить ни трѹдить сѧ · нъ єгда видиши єго потѧща сѧ · мѫчаѭща сѧ и отъ лова едва не растъсаѭща сѧ ·
+
+Что ѹбо дивьно єсть · аще глаголемъ · ꙗко зло кождоѧ вещи єсть · єже противъ своеи природѣ єсть ·
+
+Дивьно ли се ·
+
+Не то ли самъ о прочиихъ вьсѣхъ глаголеши ·
+
+Чесого ради ѹбо о єдиномь чловѣцѣ инако твориши ·
+
+***
+
+Дивьно ли же єсть и се · ꙗко природа чловѣка кротъка · любива и вѣрьна єсть ·
+
+Ни се дивьно єсть ·
+
+Како ѹбо чловѣкъ врѣда не приимаѥть · аще и крѣпъко биѥнъ · въ темьницѫ въвръженъ или ѹсѣченъ бѫдеть ·
+
+Тако · аще вьсѧ благородьно понесеть · и съ большею пользою и прѣспѣниемь изидеть ·
+
+Врѣдъ же приимаѥть инъ ·
+
+Тъ · иже въ наибѣдьнѣише и наисрамьнѣише състоꙗниѥ въпадаѥть · и вмѣсто чловѣка вълкъ · змии или оса бываѥть ·
+
+***
+
+Пріиди ѹбо · пакꙑ повторимъ · о чемь съизволихомъ ·
+
+Свободьнъ єсть · иже ꙗкоже хощеть живеть ·
+
+Съизволѧѭ ·
+
+Хощеши ли погрѣшаѧ жити ·
+
+Не хощѫ ·
+
+Никтоже ѹбо погрѣшаѧ ꙗкоже хощеть живеть ·
+
+Хощеши ли въ страхѣ · печали и смѫщении жити ·
+
+Не хощѫ ·
+
+Иже ѹбо въ страхѣ · печали и смѫщении єсть · ꙗкоже хощеть не живеть ·
+
+***
+
+Хощеши ли тако жити · да инъ ти повелѣваѥть · что творити подобаѥть ·
+
+Не ·
+
+Хощеши ли · да тѧ инъ възбранѧѥть въ томь · єже хощеши ·
+
+Не ·
+
+Хощеши ли · да тѧ понѫдить къ томѹ · єгоже не хощеши ·
+
+Не хощѫ ·
+
+Иже ѹбо сиꙗ тръпить · свободьнъ нѣсть ·
+
+***
+
+Кто ѹбо ти повелѣвати можеть · аще ничтоже внѣшьноѥ добромь не мьниши ·
+
+Кто ти възбранити можеть · аще тъкмо того хощеши · єже въ твоеи власти єсть ·
+
+Кто тѧ понѫдити можеть · аще тъкмо отъ того отъкланѧѥши сѧ · єже отъ тебе висить ·
+
+Никтоже ·
+
+***
+
+Аще же болѣзни боиши сѧ · врачь ти господинъ бѫдеть ·
+
+Аще нищетꙑ боиши сѧ · богатъ ти господинъ бѫдеть ·
+
+Аще съмрьти боиши сѧ · господинъ ти єсть кождо · иже власть имать ѹбити тѧ ·
+
+Аще изгнаніа боиши сѧ · господинъ ти єсть · иже тѧ изгнати можеть ·
+
+***
+
+Аще достоиньства желаѥши · господинъ ти єсть · иже є даѥть ·
+
+Аще славꙑ желаѥши · господинъ ти єсть множьство ·
+
+Аще хощеши · да тѧ нѣкыи любить · тъ чловѣкъ господинъ ти єсть ·
+
+Аще хощеши · да чѧдо твоѥ живеть · господинъ ти єсть кождо врачь · кождо мѫчитель и кожда болѣзнь ·
+
+***
+
+Сего ради не єдинаго господина имаши ·
+
+Толико ихъ имаши · колико вещии безъ нихъже благочѧстивъ быти не можеши · ꙗкоже мьниши ·
+
+***
+
+Како ѹбо отъ нихъ свободити сѧ ·
+
+Не чловѣкꙑ отъимѫщи ·
+
+Нъ мьнѣніа своꙗ отъимѫщи ·
+
+***
+
+Не подобаѥть ти · да мѫчитель престанеть мѫчитель быти ·
+
+Подобаѥть ти · да престанеши мьнѣти мѫчителевымь то · єже твоѥ єсть ·
+
+***
+
+Онъ глаголеть ·
+
+Ѹбиѭ тѧ ·
+
+Тꙑ отъвѣштаи ·
+
+Аще ти тако мьнить сѧ ·
+
+***
+
+Глаголеть ·
+
+Въ оковꙑ тѧ въвръгѫ ·
+
+Нозѣ въвръзи ·
+
+***
+
+Глаголеть ·
+
+Изженѫ тѧ ·
+
+Камо ти мьнить сѧ ·
+
+***
+
+Глаголеть ·
+
+Имѣниѥ ти отъимѫ ·
+
+Приими ·
+
+***
+
+А єгда ѹзрить · ꙗко ничтоже имать · имьже тебе коснѫти сѧ можеть ·
+
+Что тогда сътворить ·
+
+***
+
+Мѫчитель ꙗкоже страшило отрочѧтемъ єсть ·
+
+Отрочѧ бо боить сѧ єго · дондеже живо мьнить ·
+
+Єгда же познаѥть · что єсть · къ томѹ не боить сѧ ·
+
+***
+
+Тако и тꙑ ·
+
+Дондеже тѣло · имѣниѥ и славѫ добромь своимь мьниши · кождо · иже надъ ними власть имать · страшьнъ ти мьнить сѧ ·
+
+Єгда же наѹчиши сѧ · ꙗко добро твоѥ нѣсѫть · что ти къ томѹ можеть ·
+
+***
+
+Єда ти врѣдить · аще тѣло въ оковꙑ въвръжеть ·
+
+Не паче · неже сапогѹ · аще ю въ калъ въвръжеть ·
+
+***
+
+Нъ тѣло болѣзнь чѹвьствѹѥть ·
+
+Что ѹбо ·
+
+Не рекохъ · ꙗко тѣло не болѣти имать ·
+
+Рекохъ · ꙗко произволеніѥ зъло быти не нѫждьно єсть ·
+
+***
+
+Не рекохъ · ꙗко не ѹмреши ·
+
+Рекохъ · ꙗко ꙗкоже рабъ ѹмрѣти ти не нѫждьно єсть ·
+
+***
+
+Не рекохъ · ꙗко не изгънанъ бѫдеши ·
+
+Рекохъ · ꙗко изгънанъ ꙗкоже свободьнъ чловѣкъ быти можеши ·
+
+***
+
+Свобода бо не се єсть · да внѣшьнаꙗ никогда противъ желанию твоемѹ не бываѭть ·
+
+Нъ да желаніѥ своѥ тамо не полагаѥши · идѣже внѣшьнаꙗ є побѣдити могѫть ·
+
+***
+
+Сего ради въ кождомь приключении себе въпрашаи ·
+
+Къдѣ добро моѥ ·
+
+Къдѣ зло моѥ ·
+
+Аще отъвѣтъ єсть ·
+
+Въ произволении ·
+
+на правѣмь пѫти єси ·
+
+Аще речеши ·
+
+Въ тѣлѣ ·
+
+въ рабьство възвратилъ сѧ єси ·
+
+Аще речеши ·
+
+Въ имѣнии ·
+
+рабъ єси ·
+
+Аще речеши ·
+
+Въ томь · что чловѣци о мнѣ рекѫть ·
+
+рабъ єси ·
+
+***
+
+Єдино ѹбо нѫждьно єсть ·
+
+Хранити · єже твоѥ єсть ·
+
+***
+
+Како ·
+
+Ꙗкоже стражь · ємѹже твръдынѧ прѣдана єсть ·
+
+Не съпи на стражи ·
+
+Не прѣдаваи дверии ·
+
+Не въпѹщаи вънѫтрь · єже противьникѹ принадлежи ·
+
+***
+
+Кто противьникъ єсть ·
+
+Мьнѣниѥ · єже глаголеть ·
+
+Се внѣшьноѥ добро єсть ·
+
+Се внѣшьноѥ зло єсть ·
+
+Безъ сего благочѧстивъ быти не могѫ ·
+
+Аще се погѹблѭ · погꙑбохъ ·
+
+***
+
+Такова мьнѣніа господемъ двери отвръзаѭть ·
+
+***
+
+Аще ꙗ изженеши · къ томѹ рабьства нѣсть ·
+
+***
+
+Что бо господинъ сътворить чловѣкѹ · иже глаголеть ·
+
+Ничтоже ми трѣбѣ отъ тѣхъ · ꙗже тꙑ дати можеши ·
+
+Ничтоже боѭ сѧ отъ тѣхъ · ꙗже тꙑ отъѧти можеши ·
+
+***
+
+Что ємѹ остаѥть · развѣ дивити сѧ или гнѣвати сѧ ·
+
+Аще же гнѣваѥть сѧ · се єго врѣдъ єсть ·
+
+***
+
+Тꙑ же своѥ храни ·
+
+***
+
+Тако Сѡкратъ творѧаше ·
+
+Сего ради и прѣдъ сѫдиꙗми тъжь пребысть ·
+
+Не молѧаше · да вьсѣмь образомь освобожденъ бѫдеть ·
+
+Не плакаше прѣдъ ними ·
+
+Не приводѧаше чѧдъ · да жалость въздвигнеть ·
+
+***
+
+Чесого ради ·
+
+Понеже не мьнѣаше зломь того · надъ нимьже сѫдиѥ власть имѣахѫ ·
+
+***
+
+Зло єго єдино бѣ бы ·
+
+Аще нѣчто неправьдьно или себе недостоино сътворилъ бы ·
+
+***
+
+Сего ради житиѥ погѹбити можаше · свободѫ же не погѹбити ·
+
+***
+
+И Илвидии главѫ погѹбити можаше · а не то · єже Илвидиемь єго творѧаше ·
+
+***
+
+Тако свободьна чловѣка зрѣти подобаѥть ·
+
+Не въпрашаи ·
+
+Что ємѹ бꙑсть ·
+
+Нъ ·
+
+Како бꙑвъшимь пользоваше сѧ ·
+
+***
+
+Аще добрѣ пользоваше сѧ · добрѣ ємѹ бꙑсть ·
+
+Аще зълѣ · зълѣ ємѹ бꙑсть ·
+
+***
+
+Добро бо чловѣка не єсть · єже ємѹ бываѥть ·
+
+Нъ добро чловѣка єсть · како бꙑваѭщими пользовати сѧ вѣсть ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — nastavak
+
+Srpski
+
+Hajde sada da ponovimo ono oko čega smo se saglasili.
+
+Slobodan je onaj koji je nesmetan i kome stvari stoje na raspolaganju onako kako ih želi.
+
+A onaj koji može biti ometen, prisiljen, sprečen ili protiv svoje volje bačen u nešto — rob je.
+
+Ko je, dakle, nesmetan?
+
+Onaj koji ni za čim tuđim ne teži.
+
+A šta je tuđe?
+
+Sve ono što nije u našoj vlasti ni da imamo ni da nemamo, ni da imamo ovakvo ili onakvo, pod ovim ili onim uslovima.
+
+Telo, dakle, nije naše.
+
+Udovi tela nisu naši.
+
+Imanje nije naše.
+
+Ako se, stoga, za nešto od toga vežeš kao za nešto svoje, pretrpećeš kaznu kakvu zaslužuje onaj koji teži za onim što mu ne pripada.
+
+***
+
+Ovo je put koji vodi slobodi.
+
+Ovo je jedino izbavljenje od ropstva:
+
+moći jednom iz sve duše reći:
+
+Vodi me, Zevse, i ti, Sudbino,
+kamo ste mi odavno odredili.
+
+***
+
+Ali šta kažeš ti, filozofe?
+
+Tiranin te poziva da izgovoriš nešto nedostojno tebe.
+
+Hoćeš li to reći ili nećeš?
+
+Kaži mi.
+
+Pusti me da razmislim.
+
+Sada ćeš da razmišljaš?
+
+A o čemu si razmišljao dok si išao na predavanja?
+
+Zar nisi učio šta je dobro, šta zlo, a šta ni jedno ni drugo?
+
+Jesam.
+
+I oko čega smo se saglasili?
+
+Da su pravedne i lepe stvari dobre, a nepravedne i sramotne zle.
+
+Život nije dobro?
+
+Nije.
+
+Smrt nije zlo?
+
+Nije.
+
+Ni tamnica?
+
+Nije.
+
+A niske i neverne reči, izdaja prijatelja i laskanje tiraninu — šta smo o tome mislili?
+
+Da je zlo.
+
+***
+
+Šta onda sada razmatraš?
+
+Niti sada razmatraš, niti si ranije zaista razmotrio.
+
+Jer kakvo je to pitanje za razmatranje:
+
+da li je dolično da, kada je u mojoj vlasti da sebi pribavim najveća dobra, sebi ne pribavim najveća zla?
+
+Lepog li i nužnog pitanja, koje zahteva veliko premišljanje!
+
+Čoveče, zašto nam se rugaš?
+
+O takvoj stvari nema razmatranja.
+
+***
+
+Da ti se zaista činilo da su sramotne stvari zlo, a sve ostalo ravnodušno, nikada ne bi ni pristupio takvom pitanju, niti ičemu njemu sličnom.
+
+Odmah bi mogao da ga razrešiš samim uvidom, kao što razrešavaš ono što vidiš očima.
+
+***
+
+Kada, naime, zastaneš da razmišljaš:
+
+Je li crno belo?
+
+Je li teško lako?
+
+Zar ne slediš ono što ti čula jasno pokazuju?
+
+Kako onda sada govoriš da razmatraš da li se više treba otklanjati od ravnodušnih stvari nego od zlih?
+
+***
+
+Ali ti zapravo nemaš ona mnenja koja govoriš da imaš.
+
+Tamnica i smrt ne izgledaju ti kao ravnodušne stvari, nego kao najveća zla.
+
+A sramotne reči i dela ne izgledaju ti kao zla, nego kao stvari koje te se ne tiču.
+
+***
+
+Jer na to si se od početka navikao.
+
+Gde sam sada?
+
+U učilištu.
+
+Ko me sluša?
+
+Govorim među filozofima.
+
+***
+
+A sada sam izišao iz učilišta.
+
+Dalje od mene sa onim izrekama knjiških mudraca i budala!
+
+***
+
+Tako filozof svedoči protiv prijatelja i osuđuje ga.
+
+Tako filozof postaje ulizica za tuđom trpezom.
+
+Tako se prodaje za novac.
+
+Tako u senatu ne govori ono što misli, dok mu mnenje iznutra snažno viče.
+
+I nije to neko hladno i bedno mnenje što visi o dlaci praznoga umovanja, nego snažno i upotrebljivo mnenje, dobro uvežbano delima i navikom.
+
+***
+
+Posmatraj sebe i vidi kako primaš vest —
+
+neću ni reći vest da ti je dete umrlo; kako bi tek to podneo? —
+
+nego samo vest da ti se ulje prosulo ili da ti je neko popio vino.
+
+***
+
+Tada bi s pravom neko mogao stati kraj tebe dok se tako uznemiravaš i samo reći:
+
+Filozofe, drukčije govoriš u učilištu.
+
+Zašto nas varaš?
+
+Zašto, dok si crv, govoriš da si čovek?
+
+***
+
+Voleo bih da stojim kraj nekoga od tih filozofa dok je u ljubavnom zanosu, da vidim kako se napreže, kakve reči izgovara, seća li se vlastitoga imena ili dokaza koje sluša, ponavlja i čita.
+
+***
+
+A kakve sve to veze ima sa slobodom?
+
+Nikakve druge stvari nemaju toliko veze sa slobodom kao upravo ove, hteli vi bogataši to ili ne.
+
+***
+
+A ko mi je svedok?
+
+Vi sami.
+
+Vi koji imate tako velikoga gospodara i živite prema njegovu pokretu i migovima.
+
+Vi koji se onesvestite ako vas samo mrko pogleda.
+
+Vi koji obilazite starice i starce i govorite:
+
+Ne mogu to da učinim.
+
+Nije mi dopušteno.
+
+***
+
+Zašto ti nije dopušteno?
+
+Zar se maločas nisi prepirao sa mnom tvrdeći da si slobodan?
+
+Ali Aprula me je sprečila.
+
+Govori onda istinu, robe.
+
+Ne beži od svojih gospodara.
+
+Ne odriči ih se.
+
+I ne usuđuj se da pred sud izvodiš oslobodioca kada postoji toliko dokaza koji te osuđuju za ropstvo.
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — продолженіѥ ·
+
+Пріидѣмъ ѹбо нꙑнѣ и пакꙑ рассмотримъ · о чемь съизволихомъ ·
+
+Свободьнъ єсть невъзбраньнъ · ємѹже вещи ꙗкоже хощеть готовꙑ сѫть ·
+
+Иже же възбраненъ · понѫжденъ · прѣпѧтъ или противъ волѣ своеи въ нѣчто въвръженъ быти можеть · рабъ єсть ·
+
+Кто ѹбо невъзбраньнъ єсть ·
+
+Иже ни къ чемѹ чюждемѹ тѧжеть ·
+
+Что же чюжде єсть ·
+
+Вьсѧ · ꙗже не въ нашеи власти сѫть · ни имѣти · ни не имѣти · ни такова или ина имѣти · ни подъ таковꙑми или инꙑми ѹсловии ·
+
+Тѣло ѹбо не наше єсть ·
+
+Ѹди тѣла не наши сѫть ·
+
+Имѣниѥ не наше єсть ·
+
+Аще ѹбо къ нѣчесомѹ отъ сихъ крѣпъко прилѣпиши сѧ · ꙗкоже къ своему · наказаніѥ приимеши · єгоже достоинъ єсть иже къ чюждемѹ тѧжеть ·
+
+***
+
+Сь пѫть къ свободѣ ведеть ·
+
+Се єдино отъ рабьства избавленіѥ єсть ·
+
+Да можеши когда любо отъ вьсеꙗ дѹшѧ рещи ·
+
+Веди мѧ · Зевсе · и тꙑ · Сѫдьбо ·
+камо ми издавьна ѹстависта ·
+
+***
+
+Что же тꙑ глаголеши · любомѫдре ·
+
+Мѫчитель тѧ зоветь · да нѣчто тебе недостоино речеши ·
+
+Речеши ли или не речеши ·
+
+Рьци ми ·
+
+Да размꙑслѭ ·
+
+Нꙑнѣ ли размꙑшлѧти имаши ·
+
+Что же размꙑшлѧаше · єгда въ ѹчилище ходилъ єси ·
+
+Не ѹчалъ ли сѧ · что добро · что зло · и что ни добро ни зло ·
+
+Ѹчахъ сѧ ·
+
+О чемь же съизволихомъ ·
+
+Ꙗко правьдьнаꙗ и краснаꙗ добра сѫть · неправьдьнаꙗ же и срамьнаꙗ зъла ·
+
+Житиѥ не добро ли єсть ·
+
+Не ·
+
+Съмрьть не зло ли ·
+
+Не ·
+
+Ни темьница ли ·
+
+Не ·
+
+Низъкаꙗ же и невѣрьнаꙗ словеса · прѣданіѥ дрѹга и ласканіѥ мѫчителю · что о сихъ мьнѣахомъ ·
+
+Ꙗко зъла сѫть ·
+
+***
+
+Что ѹбо нꙑнѣ размꙑшлѧѥши ·
+
+Ни нꙑнѣ размꙑшлѧѥши · ни прѣжде истиньно размꙑслилъ єси ·
+
+Каково бо се испытаніѥ єсть ·
+
+Подобаѥть ли ми · єгда въ моеи власти єсть величаишаꙗ добра себѣ стѧжати · величаишиихъ зълъ себѣ не стѧжати ·
+
+Красно и нѫждьно въпрошеніѥ · єже многаго размꙑшленіа требѹѥть ·
+
+Чловѣче · чесого ради намъ посмѣваѥши сѧ ·
+
+О таковѣи вещи размꙑшленіа нѣсть ·
+
+***
+
+Аще бы ти истиньно срамьнаꙗ зъла мьнѣла сѧ · прочаꙗ же вьсѧ равьна · николиже бы къ семѹ въпрошенію приступилъ єси · ни къ подобьномѹ ємѹ ·
+
+Абиѥ бы є разрѣшилъ самымь видѣніемь · ꙗкоже очима видимаꙗ ·
+
+***
+
+Къгда бо стаѥши размꙑшлѧти ·
+
+Чръноѥ ли бѣло єсть ·
+
+Тѧжькоѥ ли легъко ·
+
+Не послѣдѹѥши ли ꙗвьномѹ свидѣтельствѹ чѹвьствъ ·
+
+Како ѹбо нꙑнѣ глаголеши · ꙗко размꙑшлѧѥши · подобаѥть ли паче отъкланѧти сѧ отъ равьнꙑхъ вещии · неже отъ зълъ ·
+
+***
+
+Нъ не имаши мьнѣнии сихъ · ихъже имѣти глаголеши ·
+
+Темьница и съмрьть не равьнꙑ ти мьнѧть сѧ · нъ величаиша зъла ·
+
+Срамьна же словеса и дѣла не зъла ти мьнѧть сѧ · нъ ꙗкоже ничтоже къ намъ ·
+
+***
+
+Таковъ бо обꙑчаи отъ начала стѧжалъ єси ·
+
+Къдѣ єсмь ·
+
+Въ ѹчилищи ·
+
+Кто мѧ слꙑшаѥть ·
+
+Междѹ любомѫдрꙑ глаголѭ ·
+
+***
+
+Нꙑнѣ же изъ ѹчилища изидохъ ·
+
+Далече отъ мене словеса книжьникъ и безѹмьнꙑхъ ·
+
+***
+
+Тако любомѫдръ на дрѹга свидѣтельствѹѥть и осѫждаѥть єго ·
+
+Тако любомѫдръ трапезьнъ ласкатель бываѥть ·
+
+Тако себе за сребро продаѥть ·
+
+Тако въ съвѣтѣ не глаголеть · єже мьнить · мьнѣніе же въ персѣхъ єго крѣпъко въпиѥть ·
+
+И не хладьно и бѣдьно мьнѣниѥ · на празнꙑхъ словеснꙑхъ съводѣхъ ꙗкоже власомъ висѧще · нъ крѣпъко и потрѣбьно мьнѣниѥ · дѣлꙑ и обꙑчаемь наѹчено ·
+
+***
+
+Блюди себе и виждь · како вѣсть приимаѥши ·
+
+Не глаголѭ · ꙗко чѧдо ти ѹмрѣ · како бы се понеслъ єси ·
+
+Нъ тъкмо · ꙗко масло ти пролито єсть · или вино испито ·
+
+***
+
+Тогда правѣ моглъ бы кто прѣдъ тобою стати · єгда тако смѫщаѥши сѧ · и тъкмо рещи ·
+
+Любомѫдре · инако въ ѹчилищи глаголеши ·
+
+Чесого ради насъ прѣльщаѥши ·
+
+Чесого ради · червь сꙑ · чловѣкомъ себе нарицаѥши ·
+
+***
+
+Хотѣлъ бꙑхъ прѣдъ нѣкыимь отъ таковꙑхъ любомѫдръ стоꙗти · єгда въ любьвьнѣи страсти єсть · да виждѫ · како напрѧгаѥть сѧ · какова словеса изрѣкаѥть · помьнить ли имѧ своѥ · или съводꙑ · ихъже слꙑшаѥть · повторѧѥть и чьтеть ·
+
+***
+
+Что же вьсѧ сиꙗ къ свободѣ ·
+
+Ничтоже ино толико къ свободѣ не принадлежить · развѣ сама сиꙗ · хощете ли вꙑ богатии или не хощете ·
+
+***
+
+Кто же о семь съвѣдѣтель ·
+
+Вꙑ сами ·
+
+Вꙑ · иже велика господина имате и по мановенію и знамению єго живете ·
+
+Иже изнемагаѥте · аще тъкмо на нѣкого отъ васъ съ мрачьнꙑмь лицемь възрить ·
+
+Иже старицамъ и старьцемъ ласкаѥте · глаголѭще ·
+
+Не могѫ сего сътворити ·
+
+Не пѹщено ми єсть ·
+
+***
+
+Чесого ради не пѹщено ти єсть ·
+
+Не нꙑнѣ ли съ мною прѣпиралъ сѧ єси · глаголѧ · ꙗко свободьнъ єси ·
+
+Нъ Апрѹлла ми възбрани ·
+
+Истинѫ ѹбо глаголи · рабе ·
+
+Не бѣжи отъ господъ своихъ ·
+
+Не отрицаи сѧ ихъ ·
+
+Ни дръзни свободителѧ на сѫдъ приводити · єгда толика свидѣтельства рабьства твоего имаши ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — nastavak
+
+Srpski
+
+Čoveka koji je pod sudskom istragom, pa mu se približi neko od Cezarovih ljudi, odmah obuzima strah.
+
+Ako mu ovaj kaže:
+
+Ti me moliš da ti pomognem.
+
+Šta ćeš mi dati?
+
+on odgovara:
+
+Šta god hoćeš.
+
+Ako kaže:
+
+Budi mi rob i služi mi,
+
+on odgovara:
+
+Hoću.
+
+***
+
+Ko je, dakle, njegov gospodar?
+
+Nije li još pre onoga koji mu je obećao pomoć gospodar bila sama stvar zbog koje ga moli?
+
+Nije li gospodar bila želja za njom?
+
+Nije li gospodar bio strah da ne izgubi ono što želi?
+
+***
+
+Jer niko ne služi čoveku ako najpre ne služi stvarima nad kojima taj čovek ima vlast.
+
+Ko prezire te stvari, prezire i onoga koji njima raspolaže.
+
+***
+
+Šta onda?
+
+Zar ne treba voditi računa o tim ljudima?
+
+Treba.
+
+Ali kao o ljudima.
+
+A ne kao o gospodarima.
+
+***
+
+Kako onda?
+
+Kao što se putnik ophodi prema gostioničaru.
+
+Uzme od njega ono što mu je potrebno, plati koliko valja i nastavi svojim putem.
+
+Ne pada mu pred noge zato što gostioničar ima krevete i hranu.
+
+***
+
+Tako se i ti služi ljudima.
+
+Dokle god zajednički put traje, ophodi se prema njima pravedno, blago i verno.
+
+Ali ne predaj im ono što pripada tebi.
+
+***
+
+Ako ti neko može pribaviti položaj, pozdravi ga kao čoveka koji može pribaviti položaj.
+
+Ako može pribaviti novac, kao čoveka koji može pribaviti novac.
+
+Ali ne kao onoga koji ti može pribaviti dobro.
+
+***
+
+Jer dobro ti niko drugi ne može pribaviti.
+
+Ako to znaš, nećeš laskati.
+
+Nećeš se ponižavati.
+
+Nećeš govoriti ono što ne misliš.
+
+Nećeš mrzeti čoveka zato što ti nije dao ono što si želeo.
+
+***
+
+Ali kako ću onda dobiti službu?
+
+Možda je nećeš dobiti.
+
+***
+
+Kako ću se obogatiti?
+
+Možda se nećeš obogatiti.
+
+***
+
+Kako ću steći ugled?
+
+Možda ga nećeš steći.
+
+***
+
+A kako ću biti slobodan?
+
+To možeš odmah.
+
+***
+
+Jer za slobodu ti nije potreban ni Cezar ni Cezarov prijatelj.
+
+Nije ti potrebno ničije dopuštenje.
+
+Nije ti potrebno pismo.
+
+Nije ti potreban svedok.
+
+***
+
+Samo prestani da smatraš svojim ono što je tuđe.
+
+I niko te neće moći porobiti.
+
+***
+
+Ali ako se ne budem brinuo za spoljašnje stvari, umreću od gladi.
+
+Ako moraš umreti, umri.
+
+Ali ne kao rob.
+
+***
+
+Zar je bolje živeti po svaku cenu?
+
+Ako je život dobro po svaku cenu, onda da.
+
+Ali sam si priznao da život nije dobro.
+
+***
+
+Zašto onda sada zaboravljaš ono što si priznao?
+
+Zato što je smrt blizu?
+
+***
+
+Upravo tada treba najviše da se setiš.
+
+Kada more miruje, svako može govoriti kao kormilar.
+
+Kada nastane oluja, tada se vidi ko je naučio veštinu.
+
+***
+
+Tako i filozofija.
+
+Dok nema opasnosti, svi govorimo:
+
+Spoljašnje stvari nisu ni dobro ni zlo.
+
+Smrt nije zlo.
+
+Progonstvo nije zlo.
+
+***
+
+A kada se pojavi tiranin:
+
+Govori!
+
+tada se vidi ko je filozof, a ko je samo slušao filozofske reči.
+
+***
+
+Zašto si onda toliko godina učio?
+
+Da bi znao silogizme?
+
+Da bi mogao drugima objasniti Hrizipove knjige?
+
+***
+
+Zar je to plod?
+
+***
+
+Pokaži mi plod.
+
+Pokaži mi čoveka koji se ne boji.
+
+Pokaži mi čoveka koji se ne da sprečiti.
+
+Pokaži mi čoveka koji se ne da prinuditi.
+
+Pokaži mi čoveka koji je slobodan.
+
+***
+
+Ako mi pokažeš takvoga, reći ću:
+
+To je stoik.
+
+***
+
+Ali ne pokazuj mi čoveka koji ume samo da govori o stoicima.
+
+Pokaži mi čoveka koji je preobražen onim što govori.
+
+***
+
+Pokaži mi bolesnika koji je srećan.
+
+Čoveka u opasnosti koji je srećan.
+
+Umirućega koji je srećan.
+
+Prognanika koji je srećan.
+
+Osramoćenoga koji je srećan.
+
+***
+
+Pokaži mi ga.
+
+Tako mi bogova, želim da vidim stoika.
+
+***
+
+Ne možeš mi pokazati potpuno dovršenoga?
+
+Pokaži mi barem onoga koji se oblikuje.
+
+Onoga koji je krenuo tim putem.
+
+***
+
+Učini dobro starcu kakav sam ja.
+
+Ne uskrati mi prizor koji do sada nisam video.
+
+***
+
+Misliš li da ćeš mi pokazati Zevsova ili Atenina čoveka od slonovače i zlata?
+
+***
+
+Dušu čoveka hoću da vidim.
+
+Dušu koja hoće da bude u skladu s Bogom.
+
+Koja se više ne tuži ni na Boga ni na čoveka.
+
+Koja ne ostaje bez onoga čemu teži.
+
+Koja ne pada u ono od čega se otklanja.
+
+Koja se ne gnevi.
+
+Koja ne zavidi.
+
+Koja nije ljubomorna.
+
+***
+
+Dušu koja želi da od čoveka postane bog.
+
+I koja, u ovom smrtnom telu, misli na zajedništvo sa Zevsom.
+
+***
+
+Pokaži mi takvoga.
+
+***
+
+Ali ne možeš.
+
+Zašto onda obmanjujete sami sebe i varate druge?
+
+Zašto nosite odeću koja vam ne pripada i hodate kao lopovi i kradljivci imena i stvari koje nemaju nikakve veze s vama?
+
+***
+
+A sada sam ja vaš učitelj, a vi se kod mene obrazujete.
+
+I ja imam ovu nameru:
+
+da vas učinim nesmetanim, neprinuđenim, nezaprečenim, slobodnim, spokojnim i srećnim, da u svakoj stvari, maloj i velikoj, gledate prema Bogu.
+
+***
+
+Vi ste ovde da to naučite i vežbate.
+
+Zašto onda ne dovršavate delo, ako i vi imate nameru kakvu treba i ako i ja, pored namere, imam potrebnu pripremu?
+
+***
+
+Šta nedostaje?
+
+Kada vidim zanatliju i materijal koji mu leži pri ruci, očekujem delo.
+
+***
+
+Ovde je zanatlija.
+
+Ovde je materijal.
+
+Šta nam nedostaje?
+
+***
+
+Zar se stvar ne može naučiti?
+
+Može.
+
+Zar onda nije u našoj vlasti?
+
+Jedino je ona u našoj vlasti.
+
+***
+
+Ni bogatstvo, ni zdravlje, ni slava, niti išta drugo nije u našoj vlasti osim pravilne upotrebe predstava.
+
+Samo je ona po prirodi nesmetana i nezaprečena.
+
+***
+
+Zašto onda ne dovršavate?
+
+***
+
+Kažite mi razlog.
+
+Jer ili je do mene, ili do vas, ili je sama stvar po prirodi nemoguća.
+
+Sama stvar nije nemoguća i nije izvan naše vlasti.
+
+Dakle, krivica je ili moja ili vaša.
+
+***
+
+Šta onda?
+
+Hoćete li da jednom počnemo ovde da stvaramo takvu nameru?
+
+Ostavimo sve što je prošlo.
+
+Počnimo sada.
+
+***
+
+Verujte mi i videćete.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — продолженіѥ ·
+
+Чловѣка подъ сѫдомъ сѫща · аще кто отъ Кесаревꙑхъ къ немѹ приближить сѧ · абиѥ страхъ приемлеть ·
+
+Аще ємѹ речеть ·
+
+Молиши мѧ · да ти помогѫ ·
+
+Что ми даси ·
+
+онъ отъвѣштаѥть ·
+
+Єже хощеши ·
+
+Аще речеть ·
+
+Рабъ ми бѫди и слѹжи ми ·
+
+отъвѣштаѥть ·
+
+Бѫдѫ ·
+
+***
+
+Кто ѹбо господинъ єго єсть ·
+
+Не прѣжде ли того · иже помощь ємѹ обѣща · сама вещь господинъ єго бѣ · єꙗже ради молить ·
+
+Не желаніѥ ли єꙗ господинъ бѣ ·
+
+Не страхъ ли · да не погѹбить желаемаго · господинъ бѣ ·
+
+***
+
+Никтоже бо чловѣкѹ слѹжить · аще прѣжде вещемъ не слѹжить · надъ нимиже тъ чловѣкъ власть имать ·
+
+Иже же сиꙗ прѣзираѥть · прѣзираѥть и того · иже ими владѣѥть ·
+
+***
+
+Что ѹбо ·
+
+Не подобаѥть ли о таковꙑхъ чловѣцѣхъ пещи сѧ ·
+
+Подобаѥть ·
+
+Нъ ꙗкоже о чловѣцѣхъ ·
+
+Не ꙗкоже о господѣхъ ·
+
+***
+
+Како ѹбо ·
+
+Ꙗкоже пѫтьникъ къ гостиньникѹ имать сѧ ·
+
+Приемлеть отъ него · єже ємѹ трѣбѣ · даѥть · єже подобаѥть · и далѣе пѫтемь идеть ·
+
+Не падаѥть къ ногама єго · понеже гостиньникъ ложа и брашьно имать ·
+
+***
+
+Тако и тꙑ чловѣкꙑ пользѹи сѧ ·
+
+Дондеже общии пѫть пребываѥть · правьдьно · кротъко и вѣрьно къ нимъ имѣи сѧ ·
+
+Не прѣдаваи же имъ · єже твоѥ єсть ·
+
+***
+
+Аще кто достоиньство ти дати можеть · цѣлѹи єго ꙗкоже могѫща достоиньство дати ·
+
+Аще сребро · ꙗкоже могѫща сребро дати ·
+
+Не же ꙗкоже могѫща добро ти дати ·
+
+***
+
+Добра бо тебѣ никтоже инъ дати можеть ·
+
+Аще се вѣси · не ласкати бѫдеши ·
+
+Не ѹнижати сѧ ·
+
+Не глаголати · єгоже не мьниши ·
+
+Не ненавидѣти чловѣка · понеже ти не даде · єгоже желалъ єси ·
+
+***
+
+Нъ како ѹбо достоиньство приимѫ ·
+
+Можетъ быти · не приимеши ·
+
+***
+
+Како богатъ бѫдѫ ·
+
+Можетъ быти · не бѫдеши ·
+
+***
+
+Како славѫ стѧжѫ ·
+
+Можетъ быти · не стѧжеши ·
+
+***
+
+Како же свободьнъ бѫдѫ ·
+
+Се абиѥ можеши ·
+
+***
+
+Свободѣ бо твоеи ни Кесарѧ трѣбѣ · ни дрѹга Кесарева ·
+
+Ни чюждаго повелѣніа трѣбѣ ·
+
+Ни писма ·
+
+Ни съвѣдѣтелѧ ·
+
+***
+
+Тъкмо престани чюжде своѥ мьнѣти ·
+
+И никтоже тѧ поработити можеть ·
+
+***
+
+Нъ аще о внѣшьнихъ не пекѫ сѧ · гладомъ ѹмрѫ ·
+
+Аще ѹмрѣти подобаѥть · ѹмри ·
+
+Нъ не ꙗкоже рабъ ·
+
+***
+
+Лѹчьше ли єсть по вьсакои цѣнѣ жити ·
+
+Аще житиѥ по вьсакои цѣнѣ добро єсть · лѹчьше ·
+
+Нъ самъ исповѣдалъ єси · ꙗко житиѥ добро нѣсть ·
+
+***
+
+Чесого ради ѹбо нꙑнѣ забꙑваѥши · єже исповѣдалъ єси ·
+
+Понеже съмрьть близъ єсть ли ·
+
+***
+
+Тогда паче вьсего поминати подобаѥть ·
+
+Єгда море тихо єсть · кождо кормьчии быти глаголати можеть ·
+
+Єгда же бѹрѧ въстанеть · тогда ꙗвѣ бываѥть · кто ѹмѣнию наѹченъ єсть ·
+
+***
+
+Тако и любомѫдриѥ ·
+
+Дондеже бѣдꙑ нѣсть · вьси глаголемъ ·
+
+Внѣшьнаꙗ ни добра ни зъла сѫть ·
+
+Съмрьть зло нѣсть ·
+
+Изгънаниѥ зло нѣсть ·
+
+***
+
+Єгда же мѫчитель пріидеть ·
+
+Глаголи ·
+
+тогда ꙗвѣ бываѥть · кто любомѫдръ єсть · и кто тъкмо любомѫдрьска словеса слꙑшалъ єсть ·
+
+***
+
+Чесого ради ѹбо толика лѣта ѹчилъ сѧ єси ·
+
+Да съводꙑ вѣси ли ·
+
+Да Хрисипповꙑ книгы инꙑмъ толковати можеши ли ·
+
+***
+
+Сь ли плодъ єсть ·
+
+***
+
+Покажи ми плодъ ·
+
+Покажи ми чловѣка · иже не боить сѧ ·
+
+Покажи ми невъзбраньна ·
+
+Покажи ми непонѫждена ·
+
+Покажи ми свободьна ·
+
+***
+
+Аще такова ми покажеши · рекѫ ·
+
+Сь стоикъ єсть ·
+
+***
+
+Не показѹи же ми чловѣка · иже тъкмо о стоикѣхъ глаголати вѣсть ·
+
+Покажи ми · иже словесꙑ своими прѣтворенъ єсть ·
+
+***
+
+Покажи ми болѧща и благочѧстива ·
+
+Въ бѣдѣ сѫща и благочѧстива ·
+
+Ѹмираѭща и благочѧстива ·
+
+Изгънана и благочѧстива ·
+
+Безчьстьна и благочѧстива ·
+
+***
+
+Покажи ми ·
+
+Богꙑ свидѣтелѣ призꙑваѭ · желаѭ стоика видѣти ·
+
+***
+
+Не можеши ли съвръшена показати ·
+
+Покажи ми понѣ того · иже съвръшаѥть сѧ ·
+
+Иже на тъ пѫть въстѫпи ·
+
+***
+
+Благо сътвори старьцѹ · ꙗковъ азъ єсмь ·
+
+Не лиши мене зрѣніа · єгоже доселѣ не видѣхъ ·
+
+***
+
+Мьниши ли · ꙗко Зевсовъ или Аѳининъ образъ отъ слоновꙑ кости и злата ми показати имаши ·
+
+***
+
+Дѹшѫ чловѣка видѣти хощѫ ·
+
+Дѹшѫ · ꙗже съ Богомъ съгласити сѧ хощеть ·
+
+Ꙗже ни на Бога ни на чловѣка къ томѹ ръпъщеть ·
+
+Ꙗже тѧжимаго не погрѣшаѥть ·
+
+Ꙗже въ отъкланѧемоѥ не въпадаѥть ·
+
+Ꙗже не гнѣваѥть сѧ ·
+
+Не завидить ·
+
+Не ревьнѹѥть ·
+
+***
+
+Дѹшѫ · ꙗже отъ чловѣка богъ быти хощеть ·
+
+И въ семь съмрьтьнѣмь тѣлѣ о съобщьствѣ съ Зевсомъ размꙑшлѧѥть ·
+
+***
+
+Покажи ми такова ·
+
+***
+
+Нъ не можеши ·
+
+Чесого ради ѹбо сами себе прѣльщаѥте и инꙑꙗ обманѭѥте ·
+
+Чесого ради чюждѫ ризѫ носите · и ꙗкоже татіѥ и крадѫщии имена и вещи · ꙗже ничтоже къ вамъ · ходите ·
+
+***
+
+Нꙑнѣ же азъ ѹчитель вашь єсмь · вꙑ же при мнѣ ѹчите сѧ ·
+
+И се намѣрениѥ имамъ ·
+
+Да васъ невъзбраньнꙑ · непонѫжденꙑ · непрѣпѧтьствованꙑ · свободьнꙑ · тихꙑ и благочѧстивꙑ сътворѭ · да въ кождои вещи · малѣ и велицѣ · къ Богѹ взираѥте ·
+
+***
+
+Вꙑ же сего ради здѣ єсте · да сиꙗ наѹчите сѧ и въ нихъ ѹпражнѧѥте сѧ ·
+
+Чесого ради ѹбо дѣло не съвръшаѥте · аще и вꙑ подобьно намѣрениѥ имате · и азъ къ намѣрению приготовленіѥ имамъ ·
+
+***
+
+Что недостаѥть ·
+
+Єгда ѹмѣльца виждѫ и вещество при немь лежѧще · дѣла ожидаѭ ·
+
+***
+
+Здѣ ѹмѣлецъ єсть ·
+
+Здѣ вещество єсть ·
+
+Что намъ недостаѥть ·
+
+***
+
+Не наѹчима ли вещь єсть ·
+
+Наѹчима ·
+
+Не въ нашеи ли ѹбо власти єсть ·
+
+Єдина она въ нашеи власти єсть ·
+
+***
+
+Ни богатство · ни здравіѥ · ни слава · ни ино что въ нашеи власти єсть · развѣ правоѥ ꙗвлении пользованіѥ ·
+
+Се єдино по природѣ невъзбраньно и непрѣпѧтьствовано єсть ·
+
+***
+
+Чесого ради ѹбо не съвръшаѥте ·
+
+***
+
+Рьцѣте ми винѫ ·
+
+Или бо во мнѣ єсть · или въ васъ · или сама вещь по природѣ невъзможьна єсть ·
+
+Вещь же невъзможьна нѣсть · ни внѣ нашеꙗ власти ·
+
+Тѣмьже вина или моꙗ или ваша єсть ·
+
+***
+
+Что ѹбо ·
+
+Хощете ли · да когда начьнемъ здѣ таково намѣрениѥ творити ·
+
+Оставимъ вьсѧ минѫвъшаꙗ ·
+
+Нꙑнѣ начьнемъ ·
+
+***
+
+Вѣрѫ имѣите ми · и ѹзрите ·
+
+Epiktet — Razgovori IV.1
+
+O slobodi — završetak
+
+Srpski
+
+Kada čoveka snažna strast natera da učini nešto protiv vlastitoga mnenja, i dok jasno vidi šta je bolje nema snage da to sledi, još bismo ga pre mogli sažaljevati: drži ga nešto silovito, gotovo božansko.
+
+Ali ko bi podneo vas koji jurite za staricama i starcima, brišete staricama nos, umivate ih, kvarite ih darovima, negujete ih kao robovi dok su bolesni, a u sebi se molite da umru i raspitujete kod lekara jesu li već na samrti?
+
+Ili vas koji radi velikih i časnih službi ljubite ruke tuđim robovima, pa postajete robovi ljudi koji ni sami nisu slobodni?
+
+A potom, sačuvaj bože, hodate okolo kao pretori i konzuli!
+
+Zar ja ne znam kako si postao pretor?
+
+Kako si stekao konzulstvo?
+
+Ko ti ga je dao?
+
+Ja ne bih hteo ni da živim kada bih život morao dugovati Felicionu, trpeći njegovu obest i ropsku nadmenost.
+
+Znam, naime, kakav je rob kome spoljašnje stvari idu dobro pa se zbog toga naduje.
+
+***
+
+A ti, Epiktete, jesi li slobodan?
+
+Tako mi bogova, želim da budem i molim se za to.
+
+Ali još nisam kadar da bez straha pogledam gospodare u lice.
+
+Još uvek cenim ovo bedno telo i mnogo se trudim da ga sačuvam celim, iako ionako nije celo.
+
+***
+
+Ali mogu da ti pokažem slobodna čoveka, da više nikada ne tražiš primer.
+
+Diogen je bio slobodan.
+
+Kako?
+
+Ne zato što je rođen od slobodnih roditelja — nije.
+
+Nego zato što je sam bio slobodan.
+
+Odbacio je sve držače za koje se ropstvo može uhvatiti.
+
+Nije bilo mesta na kojem bi mu neko mogao prići, uhvatiti ga i porobiti.
+
+***
+
+Sve što je imao bilo je labavo vezano, lako odvojivo.
+
+Da si se uhvatio njegova imanja, pustio bi ga radije nego da za njim pođe.
+
+Da si se uhvatio njegove noge, pustio bi i nogu.
+
+Da si se uhvatio čitava bednoga tela, pustio bi i čitavo telo.
+
+Isto tako rodbinu, prijatelje i otadžbinu.
+
+Znao je odakle ih je dobio, od koga i pod kojim uslovima.
+
+***
+
+Ali svoje istinske pretke — bogove — i istinsku otadžbinu nikada ne bi napustio.
+
+Nikome ne bi dopustio da im bude poslušniji i pokorniji od njega.
+
+Niko ne bi radosnije od njega umro za svoju otadžbinu.
+
+***
+
+Jer nije gledao kako da izgleda kao da nešto čini za celinu.
+
+Pamtilo mu je da sve što nastaje odatle ima poreklo, da se radi radi te otadžbine i da nam je povereno od Onoga koji njome upravlja.
+
+***
+
+Zato pogledaj šta sam Diogen govori:
+
+Zbog toga ti je, Diogene, dopušteno da s persijskim kraljem i Arhidamom, kraljem Lakedemonjana, razgovaraš kako hoćeš.
+
+Zato što je rođen od slobodnih roditelja?
+
+Nikako.
+
+Jer onda bi valjda Atinjani, Lakedemonjani i Korinćani, samo zato što su deca robova, bili nesposobni da s kraljevima govore slobodno, pa su ih se bojali i udvarali im se.
+
+***
+
+Zašto je, dakle, Diogenu to bilo dopušteno?
+
+Zato što ovo bedno telo ne smatra svojim.
+
+Zato što mu ništa nije potrebno.
+
+Zato što mu je zakon sve, a ništa drugo.
+
+To mu je dopuštalo da bude slobodan.
+
+***
+
+A da ne misliš kako ti pokazujem čoveka koji je bio sam, bez žene, dece, otadžbine, prijatelja i rođaka, pa nije imao ništa što bi ga savilo i odvratilo od namere — uzmi Sokrata.
+
+Imao je ženu i malu decu, ali ih nije smatrao svojim vlasništvom.
+
+Imao je otadžbinu onoliko koliko je dužnost nalagala i onako kako je dužnost nalagala.
+
+Imao je prijatelje i rođake, ali sve je podvrgavao zakonu i poslušnosti zakonu.
+
+***
+
+Zato, kada je trebalo ratovati, prvi je izlazio iz kuće i bez oklevanja podnosio opasnosti rata.
+
+A kada su ga Tridesetorica poslala da dovede Leonta, pošto je smatrao da bi to bilo sramotno, nije o tome ni razmatrao, iako je znao da zbog toga može umreti.
+
+***
+
+Šta ga se to ticalo?
+
+Hteo je da sačuva nešto drugo.
+
+Ne ovo bedno meso, nego čoveka vernog i stidljivog.
+
+To se ne predaje drugome.
+
+To se ne stavlja pod tuđu vlast.
+
+***
+
+Kasnije, kada je trebalo da govori u odbranu vlastitoga života, zar se ponašao kao čovek koji ima ženu i decu?
+
+Ne.
+
+Ponašao se kao čovek koji je sam pred zakonom.
+
+***
+
+A kada je trebalo da popije otrov?
+
+Mogao je da spase život.
+
+Kriton mu je govorio:
+
+Iziđi iz tamnice radi dece.
+
+Je li Sokrat to smatrao srećnom prilikom?
+
+Nikako.
+
+Gledao je šta dolikuje.
+
+Ostalo nije ni uzimao u račun.
+
+***
+
+Jer nije hteo da po svaku cenu sačuva bedno telo.
+
+Hteo je da sačuva ono što raste i ostaje čitavo pravednim delanjem, a smanjuje se i propada rđavim.
+
+***
+
+Sokrat se ne spasava sramotom.
+
+Onaj koji nije hteo da stavi na glasanje ono što su Atinjani protivzakonito zahtevali;
+
+onaj koji je prezreo Tridesetoricu;
+
+onaj koji je tako govorio o vrlini i čestitosti —
+
+takav čovek ne može biti spasen sramotom.
+
+On se spasava smrću, a ne begom.
+
+***
+
+I dobar glumac čuva svoje umeće tako što stane kada treba, a ne tako što nastavlja da glumi kada više nije vreme.
+
+A šta će biti sa decom?
+
+Ako bih otišao u Tesaliju, vi biste se starali o njima.
+
+A kada odem u Had, zar neće biti nikoga ko će se starati o njima?
+
+***
+
+Vidi kako blago naziva smrt i kako joj se podsmeva.
+
+***
+
+Da smo to bili ti ili ja, odmah bismo počeli da filozofiramo:
+
+Ne treba zločincima vraćati zlo za zlo.
+
+Pa bismo dodali:
+
+Ako ostanem živ, koristiću mnogima; ako umrem, nikome.
+
+I ako bi trebalo da se izvučemo kroz rupu, provukli bismo se.
+
+***
+
+A kako bismo ikome koristili?
+
+Gde bismo to bili korisni, ako bi ostali ljudi i dalje bili u Atini?
+
+A ako smo ljudima korisni životom, zar im Sokrat nije učinio još veću korist time što je umro kada je trebalo i kako je trebalo?
+
+***
+
+Sada, kada je Sokrat mrtav, sećanje na njega nije ništa manje korisno ljudima — možda je i korisnije — nego ono što je činio i govorio dok je bio živ.
+
+***
+
+To proučavaj.
+
+Takva mnenja.
+
+Takva rasuđivanja.
+
+Takve primere gledaj ako hoćeš da budeš slobodan i ako slobodu želiš onoliko koliko ona vredi.
+
+***
+
+I šta je čudno ako nešto toliko veliko kupuješ tolikim i tako velikim stvarima?
+
+Radi onoga što ljudi nazivaju slobodom jedni se vešaju, drugi bacaju sa stena, a ponekad čitavi gradovi propadaju.
+
+Zar za istinsku slobodu, protiv koje niko ne može spletkariti i koja je sigurna, nećeš Bogu, kada zatraži, vratiti ono što ti je dao?
+
+***
+
+Zar nećeš, kako Platon govori, vežbati ne samo umiranje nego i podnošenje muka, progonstva, bičevanja — jednom rečju, odricanje od svega što nije tvoje?
+
+***
+
+Ako nećeš, bićeš rob među robovima.
+
+Makar deset hiljada puta bio konzul.
+
+Makar ušao i u carsku palatu.
+
+I dalje ćeš biti rob.
+
+***
+
+I shvatićeš ono što je Kleant govorio:
+
+Filozofi možda govore protiv onoga što se obično misli, ali ne govore protiv razuma.
+
+***
+
+Iskustvom ćeš naučiti da je to istina.
+
+Ništa od onoga čemu se ljudi dive i za čim jure ne donosi dobro onome ko ga stekne.
+
+A oni koji još nisu stekli takve stvari zamišljaju:
+
+Kada to dobijem, imaću sva dobra.
+
+***
+
+A kada ih dobiju, opet ista žega.
+
+Isto bacakanje na talasima.
+
+Ista prezasićenost.
+
+Ista žudnja za onim što još nemaju.
+
+***
+
+Jer sloboda se ne stiče ispunjavanjem želja, nego uklanjanjem želje.
+
+***
+
+A da bi saznao da je to istina, uloži u ovo isti trud koji si ulagao u one druge stvari.
+
+Bdij da stekneš mnenje koje će te učiniti slobodnim.
+
+Umesto bogatome starcu, posveti se filozofu.
+
+Budi viđan pred njegovim vratima.
+
+***
+
+Nije sramota da te tamo vide.
+
+Nećeš se odatle vratiti prazan i bez koristi, ako mu priđeš kako treba.
+
+***
+
+U svakom slučaju — pokušaj.
+
+Ni u pokušaju nema ničega sramotnog.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.1
+
+О свободѣ — коньць ·
+
+Єгда чловѣкъ силною страстию понѫжденъ бѫдеть · да противъ своемѹ мьнѣнию нѣчто сътворить · видѧ лѹчьшеѥ · силы же не имꙑ послѣдовати ємѹ · паче жалости достоинъ мьнити сѧ можеть · понеже нѣчто крѣпъко и ꙗкоже божьствьно дръжить єго ·
+
+Нъ кто васъ понести можеть · иже старицамъ и старьцемъ прилѣплѧѥте сѧ · старицамъ носꙑ отираѥте · лицѧ омываѥте · дарꙑ ихъ развращаѥте · въ болѣзни ꙗ ꙗкоже раби блюдете · въ себѣ же молите сѧ · да ѹмрѫть · и врачевъ въпрашаѥте · аще ѹже къ съмрьти приближишѧ сѧ ·
+
+Или иже великихъ и чьстьнꙑхъ достоиньствъ ради чюждихъ рабъ рѫцѣ цѣлѹѥте · да рабꙑ чловѣкъ бѫдете · иже ни сами свободьни нѣсѫть ·
+
+Потомь же · съхрани Боже · ꙗкоже претори и ипати въ достоиньствѣ ходите ·
+
+Не вѣмъ ли азъ · како преторъ бꙑлъ єси ·
+
+Како ипатьство стѧжалъ єси ·
+
+Кто ти є даде ·
+
+Азъ же ни жити бы восхотѣлъ · аще житиѥ Фелиционѹ длъженъ бы бѣхъ · обиду и рабьскѫ гордость єго тръпѧ ·
+
+Вѣмъ бо · что рабъ єсть · ємѹже внѣшьнаꙗ добрѣ идѫть и иже симь възносить сѧ ·
+
+***
+
+Тꙑ ли ѹбо · Епиктете · свободьнъ єси · глаголеть кто ·
+
+Богꙑ свидѣтелѣ призꙑваѭ · хощѫ и молѭ сѧ свободьнъ быти ·
+
+Нъ єще не могѫ господемъ своимъ въ лице безъ страха възрѣти ·
+
+Єще бѣдьноѥ тѣло чьтѫ · и много трѹждаѭ сѧ · да є цѣло съхранѭ · аще и вьсѣмь цѣло нѣсть ·
+
+***
+
+Нъ могѫ ти свободьна чловѣка показати · да къ томѹ образа не ищеши ·
+
+Диогенъ свободьнъ бѣ ·
+
+Како ·
+
+Не понеже отъ свободьнꙑхъ родителеи роди сѧ · не бѣ бо ·
+
+Нъ понеже самъ свободьнъ бѣ ·
+
+Вьсѧ дръжала рабьства отъ себе отъвьрже ·
+
+И никъдеже бѣ · идѣже кто къ немѹ приступити · имѣти єго и поработити моглъ бы ·
+
+***
+
+Вьсѧ єго легко отърѣшаахѫ сѧ · вьсѧ тъкмо привѧзана бѣшѧ ·
+
+Аще бы имѣниа єго имѧлъ сѧ · пѹстилъ бы є · паче неже за нимь пошелъ бы ·
+
+Аще ногꙑ · и ногѫ пѹстилъ бы ·
+
+Аще вьсего бѣдьнаго тѣла · и вьсе бѣдьноѥ тѣло ·
+
+Тако и сродьникꙑ · дрѹгꙑ и отьчьство ·
+
+Вѣдѣаше · отъкѫдѹ ꙗ приѧтъ · отъ кого и подъ каковꙑми ѹсловии ·
+
+***
+
+Истиньнꙑхъ же прародителеи своихъ · богъ · и истиньнаго отьчьства николиже бы не оставилъ ·
+
+Ни иномѹ попѹстилъ бы паче себе имъ покарѧти сѧ и послѹшати ихъ ·
+
+Ни инъ кто радостьнѣе єго за отьчьство ѹмрѣти моглъ бы ·
+
+***
+
+Не обꙑчааше бо искати · да ꙗвить сѧ · ꙗко нѣчто вьсего ради творить ·
+
+Нъ помьнѧаше · ꙗко вьсе бꙑваѭщеѥ отътѫдѹ исходить · и того отьчьства ради творить сѧ · и намъ отъ Строѧщаго є прѣдаѥть сѧ ·
+
+***
+
+Виждь ѹбо · что самъ глаголеть и пишетъ ·
+
+Сего ради · глаголеть · пѹщено ти єсть · Диогене · съ Персьскꙑмь цѣсаремь и съ Архідамомъ · Лакедемонѧнъ цѣсаремь · ꙗкоже хощеши бесѣдовати ·
+
+Понеже ли отъ свободьнꙑхъ родителеи роди сѧ ·
+
+Не ·
+
+Иначе Аѳинѣи · Лакедемонѧне и Коринѳѧне · ꙗкоже рабьска чѧда · не можахѫ бы съ цѣсарьми ꙗкоже хощѫть бесѣдовати · нъ боꙗхѫ сѧ ихъ и ласкахѫ имъ ·
+
+Чесого ради ѹбо тебѣ пѹщено єсть ·
+
+Понеже бѣдьноѥ тѣло своѥ своимь не мьнѭ ·
+
+Понеже ничтоже ми трѣбѣ ·
+
+Понеже законъ ми вьсе єсть · а ино ничтоже ·
+
+Се єго свободьна творѧаше ·
+
+***
+
+Да же не мьниши · ꙗко єдина чловѣка показѹѭ · не имѫща ни женꙑ · ни чѧдъ · ни отьчьства · ни дрѹгъ · ни сродьникъ · иже бы єго съклонити и отъ намѣреніа отъвести могли · приими Сѡкрата и виждь ·
+
+Женѫ и малꙑ чѧда имѣаше · нъ не ꙗкоже своꙗ ·
+
+Отьчьство имѣаше · єлико длъжно бѣ · и ꙗкоже длъжно бѣ ·
+
+Дрѹгꙑ и сродьникꙑ имѣаше · вьсѣхъ законѹ и послѹшанію закона покарѧѧ ·
+
+***
+
+Сего ради · єгда воевати подобааше · пръвъ изъ домѹ исходѧаше и бѣдꙑ браньнꙑꙗ безъ ръпъта приимаше ·
+
+Єгда же мѫчителѧ посълашѧ єго · да Леонта приведеть · понеже се срамьно мьнѣаше · ни размꙑшлѧше о томь · аще и вѣдѣаше · ꙗко можеть сего ради ѹмрѣти ·
+
+***
+
+Что бо ємѹ до того ·
+
+Ино нѣчто съхранити хотѣаше ·
+
+Не бѣдьноѥ мѧсо · нъ вѣрьнаго и стыдливаго чловѣка ·
+
+Сиꙗ иномѹ не прѣдаѭть сѧ ·
+
+Сиꙗ подъ чюждѫ власть не полагаѭть сѧ ·
+
+***
+
+Потомь же · єгда о житии своемь отъвѣщати подобааше · ꙗкоже ли женѫ и чѧда имꙑ имѣ сѧ ·
+
+Не ·
+
+Нъ ꙗкоже єдинъ прѣдъ закономъ ·
+
+***
+
+И єгда отровѫ пити подобааше · како имѣ сѧ ·
+
+Можаше житиѥ съхранити ·
+
+Критонъ ємѹ глаголаше ·
+
+Изиди изъ темьницѧ чѧдъ ради ·
+
+Мьнѣ ли се ꙗкоже благополѹчиѥ ·
+
+Никакоже ·
+
+Зрѧаше · что подобаѥть ·
+
+Прочаꙗ же ни въ разсѫжденіѥ не приимаше ·
+
+***
+
+Не бѣдьноѥ бо тѣло по вьсакои цѣнѣ съхранити хотѣаше ·
+
+Нъ то · єже правьдьнꙑмь дѣломь растеть и съхранѧѥть сѧ · зълꙑмь же дѣломь ѹмалѧѥть сѧ и погѹблѧѥть сѧ ·
+
+***
+
+Сѡкратъ срамомъ себе не спасаетъ ·
+
+Иже гласъ положити не восхотѣ · єгда Аѳинѣи противъ законѹ требовахѫ ·
+
+Иже мѫчителѧ прѣзрѣ ·
+
+Иже такова словеса о добродѣтѣли и благости глаголаше ·
+
+Такова чловѣка срамомъ спасти не възможьно ·
+
+Съмрьтию спасаетъ сѧ · а не бѣгъствомь ·
+
+***
+
+И добръ игрьць себе съхранѧѥть · єгда въ подобьно врѣмѧ престанеть · а не єгда безъ врѣмена далѣе играѥть ·
+
+Что же чѧда сътворѧть ·
+
+Аще бы въ Ѳессаліѭ отъшелъ бѣхъ · вꙑ бы о нихъ пекли сѧ ·
+
+А єгда въ Аидовъ домъ снидѫ · никтоже ли о нихъ пещи сѧ бѫдеть ·
+
+Виждь · како кротъко съмрьть нарицаѥть и како єи посмѣваѥть сѧ ·
+
+***
+
+Аще бы тꙑ или азъ бѣхомъ · абиѥ любомѫдрьствовати начьли бꙑхомъ · глаголѭще ·
+
+Не подобаѥть злотворѧщимъ зло за зло въздаѧти ·
+
+И приложили бꙑхомъ ·
+
+Аще житиѥ съхранѭ · многꙑмъ пользьнъ бѫдѫ · аще же ѹмрѫ · никомѹ ·
+
+И аще бы чрѣзъ скважинѫ изпълзти подобааше · изпълзли бꙑхомъ ·
+
+***
+
+Како же бы комѹ пользьни бѣхомъ ·
+
+Къдѣ бы пользовахомъ · аще инии еще въ Аѳинахъ пребывахѫ ·
+
+Аще же живѫще чловѣкомъ пользьни єсмы · не много ли паче Сѡкратъ чловѣкꙑ пользова · ѹмръвъ · єгда подобааше и ꙗкоже подобааше ·
+
+***
+
+Нꙑнѣ же · Сѡкратѹ ѹмръшѹ · память єго не менѣе чловѣкомъ пользьна єсть · можетъ же быти и паче · неже ꙗже творѧаше и глаголаше · дондеже живѣаше ·
+
+***
+
+Сиꙗ ѹчи ·
+
+Сиꙗ мьнѣніа ·
+
+Сиꙗ размꙑшленіа ·
+
+На сиꙗ образꙑ зри · аще свободьнъ быти хощеши · аще самѫ вещь по достоиньствѹ єѧ желаѥши ·
+
+***
+
+Что же дивьно єсть · аще таковѫ великѫ вещь толицѣми и толико великими вещьми кѹпѹѥши ·
+
+Нарицаѥмыꙗ свободꙑ ради нѣции себе обѣшаѭть · инии съ скалъ падаѭть · иногда и цѣли гради погꙑбаѭть ·
+
+Истиньнꙑꙗ же свободꙑ ради · непрѣльстимꙑꙗ и тврьдꙑꙗ · не отъдаси ли Богѹ · єгда възискаѥть · єже ти даде ·
+
+***
+
+Не имаши ли · ꙗкоже Платонъ глаголеть · ѹчити сѧ не тъкмо ѹмирати · нъ и на мѫчилищи растѧгненѹ быти · изгънаниѥ прѣтръпѣти · крѣпъко биѥнѹ быти · и єдинѣмь словомь · вьсего · єже твоѥ нѣсть · отрещи сѧ ·
+
+***
+
+Аще же ни · рабъ междѹ рабꙑ бѫдеши ·
+
+Аще и десѧть тꙑсѧщь кратъ ипатъ бѫдеши ·
+
+Аще и въ цѣсарьскꙑꙗ палаты вънидеши ·
+
+Обаче рабъ ·
+
+***
+
+И познаѥши · ꙗкоже Клеанѳъ глаголаше ·
+
+Можетъ быти · любомѫдри противъ общаго мьнѣніа глаголѭть · нъ не противъ разѹма ·
+
+Искѹсомь бо наѹчиши сѧ · ꙗко истиньна сѫть словеса ихъ ·
+
+И ꙗко ни єдина отъ тѣхъ вещии · имъже дивлѧть сѧ и ихъже ищѫть · добра не приносить достигъшимъ ихъ ·
+
+Иже же єще не достигошѧ · мьнѧть · ꙗко · аще сиꙗ имъ пріидѫть · вьсѧ добра имѣти бѫдѫть ·
+
+***
+
+Єгда же пріидѫть · та же жега ·
+
+То же по морю мѧтаніѥ ·
+
+То же пресꙑщеніѥ ·
+
+То же желаніѥ того · єгоже не имѫть ·
+
+***
+
+Свобода бо не исполненіемь желаемаго стѧжаѥть сѧ · нъ желаніа отъѧтіемь ·
+
+***
+
+Да же истинѫ сихъ познаѥши · ꙗкоже о инꙑхъ вещьхъ трѹдилъ сѧ єси · тако и къ симъ трѹдъ прѣнеси ·
+
+Бъди мьнѣніа ради · єже тѧ свободьна сътворить ·
+
+Вмѣсто богата старьца къ любомѫдрѹ прилѣжи ·
+
+При дверехъ єго видимъ бѫди ·
+
+Не срамьно єсть тамо видимѹ быти ·
+
+Не отъидеши отътѫдѹ празденъ и безъ пользꙑ · аще ꙗкоже подобаѥть приступиши ·
+
+***
+
+Понѣ покѹси сѧ ·
+
+Ни въ покѹшении срама нѣсть ·
+
+Epiktet — Razgovori IV.2
+
+O druženju
+
+Srpski
+
+Ako neku spoljašnju stvar smatraš dobrom, znaj da ćeš nužno voleti onoga ko ti je može pribaviti i mrzeti onoga ko ti je može oduzeti.
+
+Ako, dakle, smatraš dobrim novac, čast, položaj, ugled ili telesno zadovoljstvo, ne možeš u isto vreme ostati veran onome što pripada čoveku.
+
+Jer tamo gde je tvoje dobro, tamo će nužno biti i tvoja težnja.
+
+***
+
+Zato se najpre pitaj:
+
+Gde sam položio svoje dobro?
+
+Ako je u proizvoljenju, niko ti nije suparnik.
+
+Niko ti ne može oduzeti ono što je tvoje.
+
+Niko ti ne može sprečiti da budeš valjan.
+
+***
+
+Ali ako je tvoje dobro u položaju, već imaš takmace.
+
+Ako je u novcu, imaš takmace.
+
+Ako je u slavi, imaš takmace.
+
+Ako je u nečijoj ljubavi, imaš takmace.
+
+***
+
+I onda više nećeš gledati ko je pravedan, nego ko ti je koristan.
+
+Nećeš pitati:
+
+Šta treba da učinim?
+
+Nego:
+
+Šta će mi doneti ono što želim?
+
+***
+
+Tako se prijateljstvo kvari.
+
+Jer dokle god se ljudi nadmeću oko onoga što smatraju dobrom, nužno postaju sumnjičavi jedan prema drugome.
+
+***
+
+Pogledaj pse oko komada mesa.
+
+Dok mesa nema, igraju se zajedno.
+
+Čim ga baciš među njih, reže jedan na drugoga.
+
+***
+
+Tako i ljudi.
+
+Dok se ne pojavi ono za čim žude, nazivaju se prijateljima.
+
+Kada se pojavi nasledstvo, žena, položaj, novac ili slava, prijateljstvo nestaje.
+
+***
+
+Zašto?
+
+Jer nisu bili prijatelji jedan drugome.
+
+Bili su prijatelji istom predmetu.
+
+***
+
+Ako hoćeš istinsko prijateljstvo, izbaci zajedničkog gospodara.
+
+***
+
+Ko je zajednički gospodar?
+
+Ono spoljašnje što obojica smatrate dobrom.
+
+***
+
+Kada obojica dobro smestite u valjano proizvoljenje, više nemate zbog čega da se sukobljavate.
+
+Jer moje dobro ne umanjuje tvoje.
+
+Tvoja vrlina ne otima ništa mojoj.
+
+***
+
+Naprotiv, ako si ti dobar, i meni je lakše da budem dobar u odnosu prema tebi.
+
+Ako sam ja veran, tvojoj vernosti ne preti ništa.
+
+***
+
+Tada prijateljstvo postaje prirodno.
+
+***
+
+Ali ako mi kažeš:
+
+Volim ga više od samoga sebe,
+
+a zatim zbog novca s njim vodiš parnicu,
+
+pokazao si šta si zaista voleo više.
+
+***
+
+Ako govoriš:
+
+On mi je draži od svega,
+
+a onda se naljutiš jer nije glasao za tebe,
+
+šta ti je bilo draže?
+
+On ili položaj?
+
+***
+
+Ne laži sebe.
+
+Svaka žudnja pokazuje svoga gospodara.
+
+***
+
+I zato ne pitaj čoveka:
+
+Koga voliš?
+
+Gledaj čega se boji da izgubi.
+
+Tamo ćeš videti šta voli.
+
+***
+
+Jedan govori da voli ženu.
+
+Ali ako mu se učini da je drugi može odvesti, postaje neprijatelj svima.
+
+Dakle, ne voli ženu kao slobodan čovek.
+
+Voli posed.
+
+***
+
+Drugi govori da voli sina.
+
+Ali ako dete ne učini ono što je zamislio, razgnevi se i proklinje ga.
+
+Dakle, nije voleo dete kao dete, nego svoju volju nad detetom.
+
+***
+
+Kako onda treba voleti?
+
+Tako da ljubav ne razori slobodu ni jednog ni drugog.
+
+***
+
+Reci:
+
+Ovaj čovek mi je dat da prema njemu budem brat, otac, prijatelj, građanin.
+
+Moje dobro je da tu ulogu odigram valjano.
+
+Ne da ga posedujem.
+
+***
+
+Ako ode, moja uloga se menja.
+
+Ako umre, završena je.
+
+Ako mi postane neprijatelj, moja dužnost ostaje ista:
+
+da svoje proizvoljenje ne iskvarim zbog njegova.
+
+***
+
+Zar onda ne treba braniti prijatelja?
+
+Treba.
+
+Ali pravedno.
+
+***
+
+Ne treba zbog prijatelja činiti nepravdu.
+
+Jer tada si njega pretpostavio dobru.
+
+A prijateljstvo ne može opstati protiv dobra.
+
+***
+
+Ako ti prijatelj kaže:
+
+Učini nešto sramotno radi mene,
+
+odgovori:
+
+Ako si mi prijatelj, nemoj od mene tražiti da prestanem biti dobar.
+
+***
+
+Jer ako zbog tebe izgubim stidljivost i vernost, šta će mi ostati čime mogu biti tvoj prijatelj?
+
+***
+
+Sokrat nije smatrao prijateljstvom da prijatelju ugađa u svemu.
+
+Smatrao je prijateljstvom da mu pomaže da postane bolji.
+
+***
+
+Zato je umeo i da ukori.
+
+Jer ukor iz ljubavi nije neprijateljstvo.
+
+Laskanje iz koristi nije prijateljstvo.
+
+***
+
+Pazi, dakle, kome daješ ime prijatelja.
+
+***
+
+Nije prijatelj onaj s kojim jedeš.
+
+Niti onaj s kojim piješ.
+
+Niti onaj s kojim putuješ.
+
+Niti onaj koji te hvali.
+
+***
+
+Prijatelj je onaj čije dobro vidiš u istom mestu gde vidiš i svoje:
+
+u valjanom proizvoljenju.
+
+***
+
+Takav čovek neće od tebe tražiti ropstvo.
+
+Niti ćeš ga ti porobljavati.
+
+***
+
+On neće reći:
+
+Ako me voliš, učini ovo,
+
+kada je to protivno dobru.
+
+***
+
+Niti ćeš ti reći:
+
+Ako si mi prijatelj, moraš mi dati novac, položaj ili prednost.
+
+***
+
+Jer takve reči pripadaju trgovcima, ne prijateljima.
+
+***
+
+Prijateljstvo nije razmena spoljašnjih koristi.
+
+To je saglasnost ljudi koji svoje dobro traže u istom.
+
+***
+
+Zato samo valjani ljudi mogu istinski biti prijatelji.
+
+***
+
+Jer samo oni nemaju razlog da jedan drugoga izdaju.
+
+***
+
+Ali zar prosti ljudi ne vole?
+
+Vole kao što deca vole igračku.
+
+Dok je imaju i dok im prija.
+
+***
+
+Kad se slomi, bacaju je.
+
+***
+
+Tako i čovek koji svoje dobro polaže spolja voli drugoga dok mu ovaj služi.
+
+***
+
+Kada prestane da služi, prestaje i ljubav.
+
+***
+
+Ne optužuj, dakle, prijatelja koji te izdao pre nego što ispitaš na čemu ste gradili prijateljstvo.
+
+***
+
+Ako ste ga gradili na novcu, novac ga je i razorio.
+
+Ako na časti, čast ga je razorila.
+
+Ako na zadovoljstvu, zadovoljstvo.
+
+***
+
+Ako ga gradite na proizvoljenju po prirodi, ko će ga razoriti?
+
+***
+
+Smrt?
+
+Ne može.
+
+Jer može rastaviti tela, ali ne može ono što je valjano učiniti rđavim.
+
+***
+
+Daljina?
+
+Ni ona.
+
+***
+
+Siromaštvo?
+
+Ni ono.
+
+***
+
+Tiranin?
+
+Ni on.
+
+***
+
+Jedino rđavo proizvoljenje razara prijateljstvo.
+
+***
+
+Zato se ne staraj najpre da stekneš mnogo prijatelja.
+
+Staraj se da postaneš čovek sposoban za prijateljstvo.
+
+***
+
+Ako nisi veran, kakva je korist što te mnogi vole?
+
+Ako si zavisan od spoljašnjih stvari, kako ćeš biti postojan?
+
+***
+
+Danas ćeš voleti onoga ko ti koristi.
+
+Sutra onoga ko ti više koristi.
+
+***
+
+Tako se ne postaje prijatelj, nego pratilac koristi.
+
+***
+
+Najpre, dakle, postani slobodan.
+
+Potom ćeš moći i da voliš kao slobodan čovek.
+
+
+Staroslovenski
+
+Епиктетъ — Разговори IV.2
+
+О общении ·
+
+Аще нѣкѫ внѣшьнѫ вещь добромь мьниши · вѣдь · ꙗко нѫждьно любити имаши того · иже ти ю дати можеть · и ненавидѣти того · иже ю отъѧти можеть ·
+
+Аще ѹбо сребро · чьсть · достоиньство · славѫ или тѣлесьнѫ сладость добромь мьниши · не можеши въкѹпѣ вѣрьнъ остати томѹ · єже чловѣкѹ принадлежи ·
+
+Идѣже бо добро твоѥ єсть · тамо по нѫжди и тѧженіѥ твоѥ бѫдеть ·
+
+***
+
+Сего ради пръвѣе себе въпрашаи ·
+
+Къдѣ добро своѥ положилъ єсмь ·
+
+Аще въ произволении · никтоже ти съперникъ єсть ·
+
+Никтоже ти отъѧти можеть · єже твоѥ єсть ·
+
+Никтоже ти възбранити можеть · да добръ бѫдеши ·
+
+***
+
+Аще же добро твоѥ въ достоиньствѣ єсть · ѹже съперникꙑ имаши ·
+
+Аще въ сребрѣ · съперникꙑ имаши ·
+
+Аще въ славѣ · съперникꙑ имаши ·
+
+Аще въ любленіи нѣкоего · съперникꙑ имаши ·
+
+***
+
+И тогда къ томѹ не зрѣти бѫдеши · кто правьдьнъ єсть · нъ кто ти пользьнъ ·
+
+Не въпрашати ·
+
+Что ми творити подобаѥть ·
+
+Нъ ·
+
+Что ми дастъ · єгоже желаѭ ·
+
+***
+
+Тако дрѹжьство погѹблѧѥть сѧ ·
+
+Дондеже бо чловѣци о томь препираѭть сѧ · єже добромь мьнѧть · по нѫжди подозрѣваютъ дрѹгъ дрѹга ·
+
+***
+
+Виждь псꙑ окръсть кѫса мѧса ·
+
+Дондеже мѧса нѣсть · въкѹпѣ играѭть ·
+
+Абиѥ же ꙗко є посредѣ нихъ въвръжеши · ропщѫть єдинъ на друга ·
+
+***
+
+Тако и чловѣци ·
+
+Дондеже не ꙗвить сѧ · єгоже желаѭть · дрѹзи нарицаѭть сѧ ·
+
+Єгда же наслѣдиѥ · жена · достоиньство · сребро или слава пріидеть · дрѹжьство исчезаетъ ·
+
+***
+
+Чесого ради ·
+
+Понеже не дрѹзи бѣшѧ дрѹгъ дрѹгѹ ·
+
+Нъ єдинѣи вещи дрѹзи бѣшѧ ·
+
+***
+
+Аще истиньно дрѹжьство хощеши · общаго господина изжени ·
+
+***
+
+Кто общии господинъ єсть ·
+
+Внѣшьнаꙗ вещь · юже оба добромь мьнита ·
+
+***
+
+Єгда оба добро въ правѣмь произволении положита · къ томѹ ничтоже имата · єгоже ради распирати сѧ ·
+
+Добро бо моѥ твоего не ѹмалѧѥть ·
+
+Добродѣтель твоꙗ отъ моеꙗ ничтоже отъимаѥть ·
+
+***
+
+Паче же · аще тꙑ добръ єси · и мнѣ лѣгъче къ тебѣ добрѹ быти ·
+
+Аще азъ вѣрьнъ єсмь · вѣрьности твоеи ничтоже прѣтить ·
+
+***
+
+Тогда дрѹжьство по природѣ бываѥть ·
+
+***
+
+Аще же ми глаголеши ·
+
+Люблѭ єго паче самого себе ·
+
+потомь же сребра ради съ нимь сѫдиши сѧ · показалъ єси · что истиньно паче любилъ єси ·
+
+***
+
+Аще глаголеши ·
+
+Паче вьсего любъ ми єсть ·
+
+потомь же гнѣваѥши сѧ · понеже за тѧ гласа не положи · что ти любѣе бѣ ·
+
+Онъ ли · или достоиньство ·
+
+***
+
+Не лъжи себѣ ·
+
+Кождо желаніѥ господина своего показѹѥть ·
+
+***
+
+Сего ради не въпрашаи чловѣка ·
+
+Кого любиши ·
+
+Нъ зри · чего погѹбити боить сѧ ·
+
+Тамо ѹзриши · что любить ·
+
+***
+
+Инъ глаголеть · ꙗко женѫ любить ·
+
+Аще же мьнить · ꙗко инъ ю отъвести можеть · вьсѣмъ врагъ бываѥть ·
+
+Не ꙗкоже свободьнъ ѹбо женѫ любить ·
+
+Нъ ꙗкоже имѣниѥ ·
+
+***
+
+Инъ глаголеть · ꙗко сꙑна любить ·
+
+Аще же чѧдо не сътворить · єже онъ помꙑсли · гнѣваѥть сѧ и кълнеть є ·
+
+Не чѧдо ѹбо ꙗкоже чѧдо люблѧаше · нъ свою власть надъ чѧдомь ·
+
+***
+
+Како ѹбо любити подобаѥть ·
+
+Тако · да любовь ни єдинаго свободѫ не погѹбить ·
+
+***
+
+Рьци ·
+
+Сь чловѣкъ ми данъ єсть · да къ немѹ ꙗкоже братъ · отьць · дрѹгъ или гражданинъ имамъ сѧ ·
+
+Добро моѥ єсть · сей дѣлъ добрѣ съиграти ·
+
+Не єго стѧжати ·
+
+***
+
+Аще отъидеть · дѣлъ мои прѣмѣнѧѥть сѧ ·
+
+Аще ѹмрѣть · коньчаѥть сѧ ·
+
+Аще врагъ ми бѫдеть · длъжноѥ моѥ то же пребываѥть ·
+
+Да произволеніѥ своѥ єго ради не развращѫ ·
+
+***
+
+Не подобаѥть ли ѹбо дрѹга защищати ·
+
+Подобаѥть ·
+
+Нъ правьдьно ·
+
+***
+
+Не подобаѥть дрѹга ради неправьдѫ творити ·
+
+Тогда бо дрѹга добрѹ прѣдъпочелъ єси ·
+
+Дрѹжьство же противъ добра състоꙗти не можеть ·
+
+***
+
+Аще ти дрѹгъ речеть ·
+
+Сътвори срамьноѥ нѣчто мене ради ·
+
+отъвѣштаи ·
+
+Аще дрѹгъ ми єси · не ищи отъ мене · да престанѫ добръ быти ·
+
+***
+
+Аще бо тебе ради стыдливость и вѣрьность погѹблѭ · что ми останеть · имьже дрѹгъ ти быти могѫ ·
+
+***
+
+Сѡкратъ не мьнѣаше дрѹжьствомь · да дрѹгѹ въ вьсѣмь ѹгождаѥть ·
+
+Нъ да ємѹ помагаѥть · да лѹчии бѫдеть ·
+
+***
+
+Сего ради и ѹкорити вѣдѣаше ·
+
+Ѹкоръ бо отъ любве не вражда єсть ·
+
+Ласканіѥ же пользꙑ ради не дрѹжьство єсть ·
+
+***
+
+Блюди ѹбо · комѹ имѧ дрѹга даѥши ·
+
+***
+
+Не дрѹгъ єсть · съ нимьже ꙗси ·
+
+Ни съ нимьже пиѥши ·
+
+Ни съ нимьже пѫть твориши ·
+
+Ни иже тѧ хвалить ·
+
+***
+
+Дрѹгъ єсть · иже добро своѥ тамо видить · идѣже и тꙑ своѥ ·
+
+Въ правѣмь произволении ·
+
+***
+
+Таковъ чловѣкъ не потребѹѥть отъ тебе рабьства ·
+
+Ни тꙑ єго поработити бѫдеши ·
+
+***
+
+Не речеть ·
+
+Аще мѧ любиши · се сътвори ·
+
+єгда се добрѹ противьно єсть ·
+
+***
+
+Ни тꙑ речеши ·
+
+Аще дрѹгъ ми єси · подобаѥть ти сребро · достоиньство или прѣдъность ми дати ·
+
+***
+
+Такова словеса кѹпьцемъ принадлежатъ · не дрѹгомъ ·
+
+***
+
+Дрѹжьство не мѣна внѣшьнихъ пользъ єсть ·
+
+Нъ съгласиѥ чловѣкъ · иже добро своѥ въ томьже ищѫть ·
+
+***
+
+Сего ради тъкмо добрии чловѣци истиньно дрѹзи быти могѫть ·
+
+***
+
+Тъкмо они бо винꙑ не имѫть · да дрѹгъ дрѹга прѣдадѫть ·
+
+***
+
+Нъ не любѧть ли простии чловѣци ·
+
+Любѧть · ꙗкоже отрочѧта игрꙑ любѧть ·
+
+Дондеже ꙗ имѫть и дондеже имъ сладъко єсть ·
+
+***
+
+Єгда же съкрѹшить сѧ · отъвьргѫть ю ·
+
+***
+
+Тако и чловѣкъ · иже добро извнѣ полагаѥть · иного любить · дондеже тъ ємѹ слѹжить ·
+
+***
+
+Єгда слѹжити престанеть · и любовь престаѥть ·
+
+***
+
+Не обвинѧи ѹбо дрѹга · иже тѧ прѣдаде · прѣжде неже испытаѥши · на чемь дрѹжьство съзидали єсте ·
+
+***
+
+Аще на сребрѣ · сребро є разори ·
+
+Аще на чьсти · чьсть ·
+
+Аще на сладости · сладость ·
+
+***
+
+Аще же на произволении по природѣ зиждете · кто є разорити можеть ·
+
+***
+
+Съмрьть ли ·
+
+Не можеть ·
+
+Тѣлеса бо разлѫчити можеть · добро же зъломь сътворити не можеть ·
+
+***
+
+Далечина ли ·
+
+Ни она ·
+
+***
+
+Нищета ли ·
+
+Ни она ·
+
+***
+
+Мѫчитель ли ·
+
+Ни тъ ·
+
+***
+
+Єдино зъло произволеніѥ дрѹжьство разараѥть ·
+
+***
+
+Сего ради не пеки сѧ пръвѣе · да многа дрѹгꙑ стѧжеши ·
+
+Пеки сѧ · да чловѣкъ · къ дрѹжьствѹ подобьнъ · бѫдеши ·
+
+***
+
+Аще невѣрьнъ єси · каꙗ польза · аще тѧ мнози любѧть ·
+
+Аще отъ внѣшьнихъ вещии висиши · како постоꙗненъ бѫдеши ·
+
+***
+
+Дьньсь любити бѫдеши · иже ти пользѹѥть ·
+
+Заѹтра того · иже паче пользѹѥть ·
+
+***
+
+Тако не дрѹгъ бываѥть · нъ съпѫтьникъ пользꙑ ·
+
+***
+
+Пръвѣе ѹбо свободьнъ бѫди ·
+
+Потомь и ꙗкоже свободьнъ чловѣкъ любити можеши ·
+
+IV.3 — Šta za šta treba menjati
+
+STAROSLOVENSKI
+
+Се помꙑшлѧніє готово имѣи · єгда что вънѣшьнєє погѹбиши · что вмѣсто того обрѣтаєши · и аще оно чьстьнѣє єсть · николи же рьци ꙗко погѹбихъ ·
+
+Не погѹбилъ єси · аще вмѣсто осьла конь обрѣте · вмѣсто овьцѧ волъ · вмѣсто мала сребра добро дѣло · вмѣсто праздьнаго словленіꙗ тишинѫ подобьнѫ чловѣкѹ · вмѣсто срамьнаго словленіꙗ стꙑдъ ·
+
+Аще се помьниши · вьсѹдѹ нравъ свои съхраниши ꙗкоже подобаєть ·
+
+Аще ли ни · вѣждь ꙗко врѣмена твоꙗ въсѹє гꙑбнѫтъ · и єлика о себѣ трѹдиши сѧ · вьсѧ излиꙗти и прѣвратити имаши ·
+
+Мало бо трѣбѹєть къ погѹбѣ и прѣвратѹ вьсѣхъ · мало отъ слова отъстѫпити ·
+
+Кормьчіи бо да корабль прѣвратитъ · не толика трѣбѹєть єлика да съхранитъ и · нъ мало къ вѣтрѹ обративъ погѹблꙗєть и · аще ли и не волеѭ се сътворитъ · нъ мало не вьнемлеть · корабль погꙑбєть ·
+
+
+SRPSKI
+
+Ovu misao drži spremnu: kad izgubiš nešto spoljašnje, gledaj šta umesto toga stičeš; i ako je to vrednije, nikad ne reci: izgubih.
+
+Nisi izgubio ako umesto magarca stekneš konja, umesto ovce vola, umesto malo srebra dobro delo, umesto praznog razgovora spokojstvo dostojno čoveka, a umesto sramnog razgovora stid.
+
+Ako ovo pamtiš, svuda ćeš sačuvati svoju narav kakva treba da bude.
+
+Ako ne, znaj da ti vreme uzalud propada i da ćeš sav trud koji ulažeš u sebe prosuti i prevrnuti.
+
+Jer malo je potrebno da se sve izgubi i prevrne: malo odstupiti od razuma.
+
+Kormilaru, da prevrne brod, nije potrebno onoliko koliko mu treba da ga sačuva; samo ga malo okrene prema vetru i izgubljen je. Pa i ako to ne učini svojevoljno, nego samo načas ne pazi, brod propada.
+
+IV.3 — Šta za šta treba menjati
+
+STAROSLOVENSKI
+
+Тако же и здѣ · мало аще задрѣмлєши · отидѫть всѧ до нꙑнѣ събраннаꙗ · Вьнемли ѹбо ꙗвленіꙗмъ и бьди ·
+
+Не мало бо съхранꙗєши · нъ стꙑдъ и вѣрность и тврьдость · бесстрастиѥ · беспечаліѥ · бесстрашиѥ · безмѧтежьство · просто рещи свобода ·
+
+За что хощеши си продати · смотри колико сѫ достоина ·
+
+Нъ такого ничьтоже вмѣсто сихъ обрѧщѫ ·
+
+Смотри же и аще оно обрѧщеши · что вмѣсто єго приемлєши ·
+
+Азъ благообразіє · онъ народовласть · онъ воєводьство · азъ стꙑдъ · Не въпию идеже не подобаєть · не въстанѫ идеже не трѣбѹєть · Свободьнъ бо єсмь и дрѹгъ Богѹ · да волеѭ ємѹ повинѹѭ сѧ ·
+
+Иныхъ же ничьтоже своимъ мнѣти ми подобаєть · ни тѣла · ни имѣніꙗ · ни власти · ни славꙑ · просто рещи ничьтоже · Ни бо Онъ хощеть да си своимъ мнѭ · Аще бо хотѣлъ бꙑ · добра ми бꙑ си сътворилъ · Нꙑнѣ же не сътвори · сего ради ни єдинои заповѣди єго прѣстѫпити могу ·
+
+Свое добро въ всѣмь съхранꙗи · прочихъ же по даномѹ приемли · доньдѣже словесьно ими польꙁѹєши сѧ · симь єдинѣмь доволєнъ бѫди ·
+
+Аще ли ни · злочѧстьнъ бѫдеши · не ѹлѹчиши · възбранѧтъ ти · прѣпьнѫть ти ·
+
+Си сѫть отътѫдѹ посъланꙑи закони · си повелѣніꙗ · сихъ тълкователь бꙑти подобаєть · симъ повинѹти сѧ · а не Масѹриєвꙑмъ и Кассієвꙑмъ ·
+
+
+SRPSKI
+
+Tako je i ovde: ako samo malo zadremaš, ode sve što si dosad sabrao. Pazi, dakle, na pojave i bdi.
+
+Jer ne čuvaš nešto malo, nego stid i vernost i postojanost, bestrašće, bezžalost, neustrašivost, nepomućenost — jednom rečju, slobodu.
+
+Za šta ćeš to prodati? Gledaj koliko sve to vredi.
+
+Ali ništa takvo neću dobiti umesto toga.
+
+Gledaj onda i kad ono dobiješ, šta primaš umesto njega.
+
+Ja dobijam pristojnost, on narodnu vlast; on vojnu vlast, ja stid. Ne vičem gde ne dolikuje; ne ustajem gde ne treba. Jer slobodan sam i prijatelj Boga, da mu se svojevoljno pokoravam.
+
+Ni za šta drugo ne treba da držim da je moje: ni telo, ni imanje, ni vlast, ni slava — jednom rečju, ništa. Jer ni On ne želi da ih držim za svoja. Da je hteo, učinio bi ih dobrima za mene. A sada ih nije takvima učinio; zato ne mogu prestupiti nijednu njegovu zapovest.
+
+Svoje dobro čuvaj u svemu, a ostalo primaj kako ti je dato, dokle god se njime možeš služiti slovesno; time jedinim budi zadovoljan.
+
+Ako ne, bićeš nesrećan, nećeš pogađati, bićeš sprečavan i ometan.
+
+To su zakoni poslani odozgo, to su uredbe. Njihov tumač treba da budeš, njima da se pokoravaš, a ne zakonima Masurija i Kasija.
+
+IV.4 — Ka onima koji revnuju živeti u miru
+
+STAROSLOVENSKI
+
+Помьни · ꙗко не тъкмо желаніє власти и богатъства съмѣрена творить и инѣмъ повиньна · нъ и желаніє тишинꙑ и праздьности и страньствованіꙗ и словесьнаго ѹченіꙗ · Просто бо · єлико вънѣшьнєє почьтеши · того ради иномѹ повинѹєши сѧ ·
+
+Что ѹбо различиѥ · желати въ сѫньмищи старѣишинъ бꙑти или не бꙑти · что различиѥ власти желати или безвластіꙗ · что различиѥ глаголати · злѣ ми єсть · ничьтоже имамъ дѣлати · кънигамъ привѧꙀанъ лежѫ ꙗко мрьтвъ · или глаголати · злѣ ми єсть · не имамъ праздьности чьсти ·
+
+Ꙗкоже бо цѣлованіꙗ и власть отъ вънѣшьнихъ сѫть и отъ волѧ не сѫть · тако же и кънига ·
+
+Чесо ради хощеши чьсти · рьци ми · Аще къ томѹ єдиномѹ · да ѹсладиши сѧ или что наѹчиши сѧ · хладьнъ єси и окаꙗнъ · Аще ли къ томѹ єже подобаєть възводиши · что ино се єсть развѣ благотеченіє · Аще ли чьтеніє благотеченіꙗ тебѣ не творить · каꙗ отъ него польза ·
+
+Нъ творить · глаголєши · сего ради скорблѭ лишаѥмъ сѧ єго ·
+
+И кое се благотеченіє · єже кто любо възбранити можеть · не глаголѭ Кесарь или дрѹгъ Кесаревъ · нъ вранъ · свирьць · огньница · и инꙑ тьмꙑ · Благотеченіє же паче вьсѣхъ присно и невъзбраньно єсть ·
+
+Нꙑнѣ зовомъ єсмь на дѣло нѣкое · идѫ ѹбо · вьнемлѧ мѣрамъ ꙗже съхранити подобаєть · да стꙑдьно · да тврьдо · да безъ желаніꙗ и ѹклоненіꙗ къ вънѣшьнимъ ·
+
+Та же вьнемлѭ чловѣкомъ · что глаголѭть · како движѫтъ сѧ · не зълонравьно · ни да имамъ кого похѹлити или осмѣꙗти · нъ къ себѣ обращаѭ сѧ · аще и азъ тѣмь же съгрѣшаѭ · Како ѹбо престанѫ · Тогда и азъ съгрѣшахъ · нꙑнѣ же не къ томѹ · благодареніє Богѹ ·
+
+Приди ѹбо · си сътворивъ и въ сихъ бꙑвъ · мьнѣиши ли горьше дѣло сътворити · неже тꙑсѫщѫ стихъ прочьсти или толико же написати · Єгда бо ꙗси · скорбиши ли ꙗко не чьтеши · Не доволєнъ ли єси по прочьтенꙑмъ ꙗсти ·
+
+Єгда сѧ мꙑєши · єгда сѧ ѹпражнꙗєши · по что ѹбо не въ вьсѣхъ равно твориши · и єгда къ Кесарѹ приходиши и єгда къ иномѹ · Аще бесстрастьна съхранꙗєши · аще неѹстрашима · аще ѹстроєна · аще паче зриши бꙑваѭщаꙗ неже самъ зримъ єси · аще не завидиши почитаємꙑмъ · аще вещи не ѹжасаѭтъ тѧ · чего ти не достаєть · кънигъ ли · Како и на что ·
+
+Не къ житію ли ѹготовленіє сѫть · житіє же отъ сихъ самѣхъ съставлꙗєть сѧ · Ꙗкоже аще борьць плачєть въ поприще въходѧ · ꙗко вънѣ не ѹпражнꙗєть сѧ ·
+
+Сихъ бо ради ѹпражнꙗаше сѧ · на се бѣахѫ бремена · пѣсъкъ · ѹношѧ · и нꙑнѣ она ищеши · єгда врѣмѧ дѣла приде ·
+
+Ꙗкоже аще въ дѣлѣ съизволеніꙗ ꙗвленіꙗ приходѧть · ова познатьлива · ова непознатьлива · мꙑ же не хощемъ сихъ разлѫчати · нъ кънигꙑ О познаніи чьсти ·
+
+Что ѹбо вина · Ꙗко николи же сего ради чьтохомъ · николи же сего ради писахомъ · да въ дѣлѣ по природѣ ꙗвленіи приходѧщими польꙀѹємъ сѧ · нъ на семь престаємъ · да наѹчимъ сѧ что глаголєть сѧ · и иномѹ възможемъ истълковати · сълогъ разрѣшити · ѹсловьнꙑи же испытати ·
+
+Сего ради идеже ревность · тѹ и възбрана · Хощеши ли въсѧко имѣти ꙗже не на тебѣ сѫть · възбранѧємъ ѹбо бѫди · прѣпинаємъ · не ѹлѹчаи ·
+
+Аще ли О стремленіи сего ради чьтемъ · не да вѣмꙑ что о стремленіи глаголєть сѧ · нъ да право стремимъ · О желаніи же и ѹклоненіи · да желаѭще не лишаємъ сѧ · ни ѹклонꙗѭще сѧ въпадаємъ · О подобаѭщемъ же · да помьнѧще съвѧꙀи ничьтоже безъ слова ни противѹ имъ творимъ ·
+
+Тогда не скорбѣли бꙑхомъ · аще отъ чьтеніꙗ възбранѧєми бꙑхомъ · нъ доволни бꙑхомъ подобьнаꙗ дѣла творѧще · и не си бꙑхомъ чьтѣли ꙗже до нꙑнѣ чьсти обꙑкохомъ · дьньсь толико стихъ прочьтохъ · толико написахъ ·
+
+Нъ · дьньсь стремленіємь польꙀовахъ сѧ ꙗкоже любомѫдри заповѣдаѭть · желаніємь не польꙀовахъ сѧ · ѹклоненіємь тъкмо къ волевꙑмъ · не ѹстрашихъ сѧ сего · не постꙑдѣхъ сѧ отъ иного · тръпѣніє ѹпражнихъ · въздръжаніє · съдѣланіє · и тако благодарили бꙑхомъ Богѹ о сихъ о нихъ же благодарити подобаєть ·
+
+Нꙑнѣ же не вѣмꙑ ꙗко и сами инꙑмь образомь подобьни народѹ бꙑваємъ · Инъ боитъ сѧ да не власть приемлєть · тꙑ же да власть приемлєши ·
+
+Никако же · чловѣче · нъ ꙗкоже смѣєши сѧ боѧщемѹ сѧ да не власть приемлєть · тако же и себѣ смѣи сѧ · Ничьтоже бо различиѥ · или жѧдати огньницеѭ болѧщѹ · или водꙑ боꙗти сѧ ꙗко бѣсьнѹ ·
+
+Како же къ томѹ възможеши Сѡкратово рещи · аще тако любо Богѹ · тако да бѫдеть · Мьниши ли · аще Сѡкратъ желалъ бꙑ въ Лѵкіи или въ Академіи праздьновати и по вьсѧ дьни съ ѹношами разговаривати · ѹдобь бꙑ на воиньство исходилъ єлико кратъ исходи · Не плакалъ ли бꙑ и стеналъ · окаꙗнъ азъ · нꙑнѣ здѣ злочѧстьнъ єсмь · могꙑи въ Лѵкіи на слъньци сѣдѣти ·
+
+Се ли бѣ дѣло твоє · на слъньци сѣдѣти · не ли благотещи · невъзбраньнѹ бꙑти · непрѣпѧтьнѹ · И како къ томѹ Сѡкратъ бꙑлъ бꙑ · аще о сихъ плакалъ · како же въ темьници пѣсни богомъ писалъ бꙑ ·
+
+Просто ѹбо оно помьни · ꙗко вьсѧко єже вънѣ своеѧ воли почьтеши · погѹбилъ єси волѭ · Вънѣ же єсть не тъкмо власть · нъ и безвластіє · не тъкмо непраздьность · нъ и праздьность ·
+
+Нꙑнѣ ѹбо въ семь мѧтежи житіє имамъ · Что мѧтежь глаголєши · въ мноꙀѣхъ чловѣцѣхъ ли · И что тѧжько · мьни сѧ въ Олѵмпіи бꙑти · съньмъ празничьнъ се мьни · и тамо инъ ино въпиєть · инъ ино творить · инъ иномѹ прѣпинаєть · въ мꙑтельницахъ народъ · и кто отъ насъ не радѹєть сѧ сего съньма · и кто съ болѣзніѭ отъ него отъходитъ ·
+
+Не бѫди тѧжькъ ни злѣ тръпѧи бꙑваѭщаꙗ · оцътъ гнилъ · остръ бо єсть · медъ гнилъ · нравъ ми прѣвращаєть · Ꙁеліꙗ не хощѫ · Тако же · праздьности не хощѫ · пѹстꙑни бо єсть · народа не хощѫ · мѧтежь бо єсть ·
+
+Нъ аще тако вещи бѫдѫть · да єдинъ или съ малꙑми житіє имаши · тишинѫ се нарьци · и польꙀѹи сѧ вещеѭ къ томѹ єже подобаєть · съ собоѭ глаголи · ꙗвленіꙗ ѹпражнꙗи · прѣдпоимꙑ съвръшаи · Аще ли въ народъ въпадеши · подвигъ се нарьци · съньмъ · праздникъ · и съ чловѣкꙑ съпраздьновати покѹшаи сѧ ·
+
+
+SRPSKI
+
+Pamti da ne čini čoveka poniznim i drugima potčinjenim samo želja za vlašću i bogatstvom, nego i želja za mirom, dokolicom, putovanjem i učenjem. Prosto: ma šta spoljašnje cenio, time sebe potčinjavaš drugome.
+
+Kakva je, dakle, razlika želeti biti senator ili želeti ne biti senator? Kakva je razlika želeti vlast ili bezvlašće? Kakva je razlika reći: Teško mi je, nemam šta raditi, vezan sam za knjige kao mrtvac — ili: Teško mi je, nemam vremena za čitanje?
+
+Jer kao što su pozdravi i vlast među spoljašnjim stvarima i ne zavise od naše volje, tako je i knjiga.
+
+Radi čega hoćeš da čitaš? Reci mi. Ako se sve svodi na to da se zabaviš ili nešto naučiš, mlak si i jadan. Ako čitanje upravljaš onome čemu treba, šta je to drugo do blagotečenje? Ako ti čitanje ne donosi blagotečenje, kakva je korist od njega?
+
+Ali donosi, veliš, i zato se žalostim kad ga se lišavam.
+
+A kakvo je to blagotečenje koje ti može sprečiti bilo ko — ne kažem Cezar ili Cezarov prijatelj, nego gavran, svirač, groznica i još bezbroj stvari? Blagotečenju ništa nije toliko svojstveno koliko da bude trajno i nesprečivo.
+
+Sada sam pozvan da nešto učinim; idem, pazeći na mere koje treba sačuvati: da budem stidan, postojan, bez želje i uklanjanja prema spoljašnjim stvarima.
+
+Potom posmatram ljude: šta govore, kako se kreću; i to ne zlonamerno, niti da bih imao koga kuditi ili ismevati, nego se okrećem sebi: grešim li i ja tako? Kako ću prestati? Nekada sam i ja grešio; sada više ne, hvala Bogu.
+
+Hajde, ako si to učinio i tako proveo vreme, jesi li učinio gore delo nego da si pročitao hiljadu stihova ili napisao još toliko? Kada jedeš, žališ li što ne čitaš? Nije li ti dovoljno da jedeš prema onome što si pročitao?
+
+Kada se kupaš? Kada vežbaš? Zašto onda ne postupaš jednako u svemu — i kada prilaziš Cezaru i kada prilaziš bilo kome? Ako čuvaš sebe bestrasnim, neustrašivim i sabranim, ako više gledaš šta se događa nego što gledaš ko tebe gleda, ako ne zavidiš onima kojima se daje prvenstvo, ako te stvari ne zaprepašćuju — šta ti nedostaje? Knjige? Kako i radi čega?
+
+Nisu li one neka priprema za življenje? A življenje se sastoji upravo od ovakvih stvari. Kao kad bi borac zaplakao ulazeći na borilište zato što više ne vežba napolju.
+
+Radi toga si vežbao; tome su služili tegovi, pesak i mladi protivnici. A ti sada tražiš ono vežbanje kada je došlo vreme za delo?
+
+Kao kada bi nam, pri vežbanju saglašavanja, pristupale predstave, jedne saznatljive a druge nesaznatljive, a mi ne bismo hteli njih da razlučujemo, nego bismo čitali spise O saznanju.
+
+Šta je tome uzrok? To što nikada nismo čitali niti pisali zato da bismo se u samim delima prema predstavama koje nam dolaze služili saglasno prirodi, nego nam je kraj bio da naučimo šta se govori, da to umemo drugome protumačiti, razrešiti silogizam i ispitati uslovni zaključak.
+
+Zato je onde gde je revnost i prepreka. Hoćeš li po svaku cenu ono što nije do tebe? Onda budi sprečavan, ometan i promašuj.
+
+A kada bismo spise O stremljenju čitali ne zato da saznamo šta se o stremljenju govori, nego da pravilno stremimo; O želji i uklanjanju, da želeći ne promašujemo i uklanjajući se ne upadamo u ono od čega bežimo; O dužnosti, da pamteći svoje odnose ništa ne činimo bezrazložno niti protiv njih —
+
+onda se ne bismo ljutili kada nas nešto spreči u čitanju, nego bismo bili zadovoljni što izvršavamo odgovarajuća dela. I ne bismo brojali ono što smo dosad navikli brojati: Danas pročitah toliko stihova, napisah toliko —
+
+nego: Danas se poslužih stremljenjem kako filozofi nalažu; željom se nisam služio; uklanjanjem samo prema onome što zavisi od volje; nisam se uplašio ovoga čoveka niti postideo pred onim; vežbao sam trpljenje, uzdržavanje i sadejstvovanje. Tako bismo zahvaljivali Bogu za ono za šta mu treba zahvaljivati.
+
+A sada ne znamo da i sami, samo na drugi način, postajemo nalik mnoštvu. Drugi se boji da neće dobiti vlast; ti se bojiš da ćeš je dobiti.
+
+Nipošto, čoveče. Nego kao što se smeješ onome koji se boji da neće dobiti vlast, tako se smej i sebi. Jer nema razlike između toga da u groznici žeđaš i da kao besan pas zazireš od vode.
+
+Kako ćeš onda još moći reći Sokratovo: Ako je tako milo Bogu, neka tako bude? Misliš li da bi Sokrat, da je žudeo za dokolicom u Likeju ili Akademiji i za svakodnevnim razgovorima s mladićima, tako lako odlazio u vojsku koliko god puta je odlazio? Ne bi li jadikovao i stenjao: Jadan ja, sada ovde nesrećujem, a mogao bih se sunčati u Likeju?
+
+Zar je to bio tvoj posao — sunčati se? Nije li bio da blagotečeš, da budeš nesprečiv i neometan? I kako bi još bio Sokrat da je zbog toga jadikovao? Kako bi u tamnici pisao himne?
+
+Prosto, dakle, pamti ovo: ma šta cenio izvan svoje volje, izgubio si volju. A izvan nje nije samo vlast nego i bezvlašće, nije samo zaposlenost nego i dokolica.
+
+Zar sada moram živeti u ovoj vrevi? Šta nazivaš vrevom? Mnoštvo ljudi? A šta je tu teško? Zamisli da si u Olimpiji; smatraj to svetkovinom. I tamo jedan viče jedno, drugi radi drugo, jedan se gura s drugim; u kupatilima je gužva. A ko se od nas ne raduje toj svetkovini i ko je napušta sa žaljenjem?
+
+Ne budi mrzovoljan ni zlovoljan prema onome što se događa: Sirće je pokvareno, jer je ljuto. Med je pokvaren, jer mi remeti stanje. Povrće neću. Isto tako: Dokolicu neću, jer je samoća. Mnoštvo neću, jer je vreva.
+
+Nego ako se stvari nameste tako da živiš sam ili sa nekolicinom, nazovi to mirom i posluži se time za ono čemu treba: razgovaraj sa sobom, vežbaj predstave, usavršavaj predpojmove. Ako pak zapadneš među mnoštvo, nazovi to borilištem, svetkovinom, praznikom, i pokušaj praznovati zajedno s ljudima.
+
+IV.4 — Ka onima koji revnuju živeti u miru
+
+STAROSLOVENSKI
+
+Что бо сластьнѣє зрѣніє чловѣколюбьцѹ неже множьство чловѣкъ · Стада коньска и воловьска съ сластиѭ зримъ · кораблѧ же многа видѣвъше радѹємъ сѧ · множьство ли чловѣкъ видѧ кто печалѹєть сѧ ·
+
+Нъ въпиѭть на мѧ · Слѹхъ ѹбо твои възбранѧєть сѧ · Что же се къ тебѣ · єда и сила ꙗвленіи польꙀовати сѧ · И кто ти възбранꙗєть желаніємь и ѹклоненіємь по природѣ польꙀовати сѧ · стремленіємь и отъстѫпленіємь · Кыи мѧтежь къ семѹ доволєнъ ·
+
+Тꙑ тъкмо помьни общаꙗ · что моє · что не моє · что ми дано · что хощеть Богъ нꙑнѣ творити ми · чего не хощеть ·
+
+Мало прѣжде хотѣаше да праздьнѹєши · съ собоѭ глаголєши · о сихъ пишеши · чьтеши · слꙑшиши · ѹготовлꙗєши сѧ · Имѣлъ єси къ семѹ доволно врѣмѧ · Нꙑнѣ же глаголєть ти · Приди ѹже на подвигъ · покажи намъ что наѹчилъ сѧ єси · како ѹпражнилъ сѧ єси · Доколѣ єдинъ ѹпражнꙗти сѧ имаши · Нꙑнѣ врѣмѧ познати · єда отъ достоино побѣдьнꙑихъ борьцъ єси · или отъ тѣхъ иже по вьселенѣи ходѧть побѣждаєми ·
+
+Что ѹбо негодѹєши · Ни єдинъ подвигъ безъ мѧтежа бꙑваєть · МноꙀи ѹпражнителє трѣбѹѭть · мноꙀи въпиѭще · мноꙀи приставьници · мноꙀи зрителє ·
+
+Нъ азъ хотѣхъ въ тишинѣ жити · Плачи ѹбо и стени · ꙗкоже достоинъ єси · Каꙗ бо инꙗ вѧщьша пагѹба ненаѹченомѹ и божьскꙑмъ повелѣніємъ непокорьномѹ · неже печаловати сѧ · плакати · завидѣти · просто рещи злочѧстьнѹ и неблагочѧстьнѹ бꙑти · Отъ сихъ ли не хощеши себе свободити ·
+
+И како свободѫ сѧ ·
+
+Не многажды ли слꙑшалъ єси · ꙗко желаніє до конца отъложити ти подобаєть · ѹклоненіє же къ єдинѣмъ волевꙑмъ обратити · вьсѧ же оставити · тѣло · имѣніє · славѫ · кънигꙑ · мѧтежь · власти · безвластіє · Камо бо аще приклониши сѧ · поработилъ сѧ єси · повинѹлъ сѧ єси · възбранѧємъ бꙑлъ єси · нѫждаємъ · вьсь въ инѣхъ ·
+
+Нъ Клеантово готово имѣи · Веди мѧ · о Зевсе · и тꙑ Сѫдьбо ·
+
+Хощете въ Римъ · въ Римъ · На Гѵарꙑ · на Гѵарꙑ · Въ Аѳинꙑ · въ Аѳинꙑ · Въ темьницѫ · въ темьницѫ ·
+
+Аще єдиноѭ рьцеши · когда ѹбо въ Аѳинꙑ отидѫ · погꙑблъ єси · Нѫжда бо желанію семѹ · аще не съвръшить сѧ · злочѧстьна тѧ сътворити · аще ли съвръшить сѧ · тъща · възносѧща сѧ о нихъ о нихъ же не подобаєть · пакꙑ же аще възбранѧєши сѧ · неблагочѧстьна · въпадаѭща въ ꙗже не хощеши ·
+
+Остави ѹбо вьсѧ си · Краснꙑ Аѳинꙑ · нъ благочѧсть вѧще красна · бесстрастьнѹ бꙑти · безмѧтежьнѹ · ни на чемь иномь своѧ дѣла полагати ·
+
+Мѧтежь въ Римѣ и цѣлованіꙗ · нъ благотеченіє вмѣсто вьсѣхъ тѧжькꙑихъ · Аще ѹбо сихъ врѣмѧ єсть · чего ради не отъимеши ѹклоненіє отъ нихъ · Каꙗ нѫжда ꙗко осьлѹ биємѹ дръва носити ·
+
+Аще ли ни · виждь ꙗко присно работати ти подобаєть могѫщемѹ исходъ ти исходатаити · могѫщемѹ вьсѧ възбранити · и томѹ слѹжити ꙗко зъломѹ божьствѹ ·
+
+Єдинъ пѫть къ благотеченію · и се ѹтромъ и въ дьнь и нощи готово имѣи · отъстѫпити отъ неволевꙑихъ · ничьтоже своимъ мнѣти · вьсѧ Божьствѹ и Слѹчаю прѣдати · тѣхъ приставьникꙑ имъ сътворити · ихъ же и Зевсъ сътвори ·
+
+Самъ же єдинаго тъкмо дръжи сѧ · своего · невъзбраньнаго · и чьти къ семѹ чьтеніє възводѧ · и пиши и слꙑши ·
+
+Сего ради не могѫ трудолюбьца кого рещи · аще тъкмо слꙑшѫ ꙗко чьтеть или пишеть · аще ли кто приложить ꙗко цѣлꙑѧ нощи · єще не глаголѭ · аще не познамь къ чемѹ трудъ възводить · Ни бо тꙑ трудолюбьца зовеши иже дѣвицѧ ради не спить · ни ѹбо азъ ·
+
+Нъ аще славꙑ ради се творить · славолюбьца глаголѭ · аще сребра ради · сребролюбьца · не трудолюбьца ·
+
+Аще ли къ своемѹ владꙑчьствѹ трудъ възводить · да оно по природѣ имать и живеть · тогда тъкмо трудолюбьца глаголѭ ·
+
+Николи же бо отъ общихъ ни хвалите ни хѹлите · нъ отъ мьнѣніи · Си бо своѧ сѫть къꙑждо · си и дѣла срамьна или красна творѧть ·
+
+Сихъ помьнѧ · радѹи сѧ настоѧщимъ · и люби ꙗже врѣмѧ приносить ·
+
+
+SRPSKI
+
+Jer šta je čovekoljupcu prijatniji prizor od mnoštva ljudi? Krda konja ili goveda rado gledamo; kad vidimo mnogo brodova, obradujemo se; a neko se žalosti gledajući mnoštvo ljudi?
+
+Ali nadvikuju me. Ometa ti se, dakle, sluh. A šta je to tebi? Zar ti se ometa i moć služenja predstavama? I ko te sprečava da se željom i uklanjanjem služiš prema prirodi, stremljenjem i odstupanjem? Kakva je vreva kadra to sprečiti?
+
+Ti samo pamti ono opšte: šta je moje, šta nije moje? Šta mi je dato? Šta Bog sada hoće da činim, a šta neće?
+
+Maločas je hteo da budeš dokon, da razgovaraš sa sobom, pišeš o tome, čitaš, slušaš i pripremaš se. Imao si za to dovoljno vremena. A sada ti govori: Dođi već na borilište; pokaži nam šta si naučio, kako si se vežbao. Dokle ćeš vežbati sam? Sada je vreme da se vidi jesi li među borcima dostojnim pobede ili među onima koji obilaze vaseljenu bivajući pobeđeni.
+
+Zašto se onda ljutiš? Nijedno borilište nije bez vreve. Mora biti mnogo vežbača, mnogo onih koji dovikuju, mnogo nadzornika, mnogo gledalaca.
+
+Ali ja sam hteo živeti u miru. Onda plači i stenji, kako i zaslužuješ. Jer kakva je veća šteta za neukoga i nepokornoga božanskim uredbama nego žalostiti se, tugovati, zavideti — jednom rečju, zlosrećovati i nesrećovati? Zar se toga nećeš osloboditi?
+
+A kako da se oslobodim?
+
+Zar nisi mnogo puta čuo da želju treba sasvim odložiti, a uklanjanje okrenuti samo prema onome što zavisi od volje; da treba ostaviti sve: telo, imanje, glas, knjige, vrevu, vlast i bezvlašće? Jer ma čemu se priklonio, porobio si se, potčinio, postao podložan preprekama i prinudi, sav zavisan od drugih.
+
+Nego drži spremno Kleantovo: Vodi me, o Zevse, i ti, Sudbo.
+
+Hoćete u Rim? U Rim. Na Gijaru? Na Gijaru. U Atinu? U Atinu. U tamnicu? U tamnicu.
+
+Ako samo jednom kažeš: Kada ću već otići u Atinu? — propao si. Jer ta želja, ako se ne ispuni, nužno te čini zlosrećnim; a ako se ispuni, čini te taštim, uznoseći se zbog onoga zbog čega ne treba. Ako potom bude sprečena, opet te čini nesrećnim, jer upadaš u ono što nećeš.
+
+Ostavi, dakle, sve to. Krasna je Atina, ali je blagočest mnogo krasnija: biti bestrasan, nepomućen, i ne polagati svoje stanje ni u šta drugo.
+
+Vreva je u Rimu i pozdravljanja; ali blagotečenje vredi svih tih teškoća. Ako je sada vreme za njih, zašto ne ukloniš odbojnost prema njima? Zašto moraš poput magarca, koga tuku, nositi breme?
+
+Ako nećeš, znaj da ćeš zauvek morati robovati onome ko ti može izdejstvovati odlazak, onome ko sve može sprečiti, i služiti mu kao kakvom zlom božanstvu.
+
+Jedan je put ka blagotečenju — i ovo ti neka bude spremno zorom, danju i noću: odstupiti od onoga što ne zavisi od volje, ništa ne smatrati svojim, sve predati Božanstvu i Slučaju i njima poveriti staranje nad tim, kao što ga je i Zevs poverio.
+
+A sam se držati samo jednoga: onoga što je tvoje i nesprečivo; i čitati upravljajući čitanje tome, i pisati i slušati radi toga.
+
+Zato ne mogu nekoga nazvati trudoljupcem samo kad čujem da čita ili piše; pa ni ako neko doda da to čini cele noći, još ga tako ne zovem dok ne saznam čemu upravlja svoj trud. Jer ni ti ne nazivaš trudoljupcem onoga koji zbog devojke celu noć ne spava; pa neću ni ja.
+
+Ako to čini radi slave, zovem ga slavoljupcem; ako radi srebra, srebroljupcem, a ne trudoljupcem.
+
+Ali ako trud upravlja vlastitom vladajućem delu duše, da ono bude i živi prema prirodi, tek tada ga zovem trudoljupcem.
+
+Jer nikada ne hvalite niti kudite prema onome što je svima zajedničko, nego prema mnenjima. Ona su svakome vlastita i ona čine njegova dela sramnim ili krasnim.
+
+Pamteći to, raduj se onome što je prisutno i voli ono čemu je došlo vreme.
+
+IV.4 — Ka onima koji revnuju živeti u miru
+
+STAROSLOVENSKI
+
+Аще что отъ наѹченꙑихъ и размꙑшлєнꙑихъ тобоѭ въ дѣлѣ срѣтаєть тѧ · радѹи сѧ о семь · Аще зълонравіє и досажденіє отъложилъ єси · аще ѹмалилъ єси продръзость · аще срамьнословіє · аще тъщесловіє · аще распѹщеніє · аще не движеши сѧ о нихъ же прѣжде · или не тако же ꙗкоже прѣжде · можеши по вьсѧ дьни праздникъ творити · дьньсь · ꙗко добрѣ въ семь дѣлѣ обрати сѧ · ѹтрѣ же · ꙗко въ иномь ·
+
+Колико вѧщьша вина жрътвѣ неже воєводьство или власть · Си отъ тебе самого бꙑваѭть ти и отъ богъ · Сего помьни · кто даѧи єсть · кому даєть · и чего ради ·
+
+Сими размꙑшлєніи питаѧ сѧ · єще ли различаѥши къде благочѧстьнъ бѫдеши · къде Богѹ ѹгодиши · Не отъ вьсѣхъ ли мѣстъ равно близѫ сѫть · Не вьсѫдѹ ли равно видѧть бꙑваѭщаꙗ ·
+
+
+IV.5 — Ka svadljivima i zverolikima
+
+STAROSLOVENSKI
+
+Добръ и благъ ни самъ съ кꙑмь рать творить · ни иномѹ по силѣ даєть ратовати ·
+
+Образъ же и сего ꙗкоже и прочихъ Сѡкратово житіє намъ предълежить · иже не тъкмо самъ вьсѫдѹ рати избѣже · нъ ни инꙑмъ ратовати даꙗаше ·
+
+Виждь ѹ Ксенофонта въ Пирѣ коликꙑ рати разрѣши · како Ѳрасѵмаха прѣтръпѣ · како Пѡла · како Калліклеа · како женѫ своѭ тръпѣаше · како сꙑна · иже єго обличаше и словесы прѣпирааше ·
+
+Тврьдо бо помьнѧше · ꙗко никто же чюжьдемь владꙑчьствѹ владѣєть · Ничьтоже ѹбо ино хощаше развѣ своего ·
+
+Что же се єсть · Не да инъ по природѣ имать · се бо чюжьде · нъ да инꙑмъ своє творѧщимъ ꙗкоже имъ мнить сѧ · самъ ни мало мьньше по природѣ имать и живеть · тъкмо своє творѧ къ томѹ да и они по природѣ имѫть ·
+
+Се бо присно предълежить добрѹ и благѹ · воєводьствовати ли · ни · нъ аще дастъ сѧ · въ семь дѣлѣ своє владꙑчьство съхранити · женити сѧ ли · ни · нъ аще бракъ дастъ сѧ · въ семь дѣлѣ себе по природѣ съхранити ·
+
+Аще же хощеть сꙑнѹ не съгрѣшати или женѣ · хощеть чюжьдаꙗ не чюжьда бꙑти · Наѹчити же сѧ · се єсть познати своѧ и чюжьдаꙗ ·
+
+Къде ѹбо къ томѹ мѣсто рати таковомѹ · Єда чюдить сѧ бꙑваѭщимъ · єда ново ємѹ ꙗвлꙗєть сѧ · єда не горьша и лютаиша ожидаєть отъ злꙑихъ неже бꙑваѭть · єда не прибꙑтъкъ мнить вьсѧко єже отъ послѣдьнѧго оставлꙗѭть ·
+
+Досади ти нѣкто · мънога благодареніꙗ ємѹ · ꙗко не би тѧ · И би тѧ · благодареніє · ꙗко не ꙗзви · И ꙗзви · благодареніє · ꙗко не ѹби ·
+
+Къгда бо наѹчи сѧ или ѹ кого · ꙗко чловѣкъ кротко животно єсть · дрѹголюбьно · ꙗко неправьдѹ творѧщемѹ сама неправьда велика пагѹба єсть · Сихъ ѹбо не наѹчивъ сѧ ни ѹвѣривъ · чего ради не послѣдѹєть ꙗвлꙗѭщемѹ сѧ полезьнѹ ·
+
+Сѫсѣдъ каменіє връже · Что же · тꙑ ли съгрѣшилъ єси · Нъ сѫдꙑ въ домѹ съкроушени сѫть · Тꙑ ли ѹбо съсѫдъ єси ·
+
+Ни · нъ произволєніє · Что ти ѹбо къ семѹ дано · ꙗко влькѹ противѹ ѹкѹсати и множаишѧ каменіꙗ метати · аще ли ꙗко чловѣкъ ищеши · испꙑтаи съкровище своє · виждь какꙑ силꙑ имѣѧ пришелъ єси · єда звѣринѫ · єда злопомьнѣніє ·
+
+Конь къгда окаꙗнъ єсть · Єгда природьнꙑихъ силъ лишить сѧ · не єгда не можеть кѹковати · нъ єгда не можеть тещи · Пьсъ же · єгда не можеть лѣтати ли ·
+
+Нъ єгда не можеть слѣдити · Тако ѹбо и чловѣкъ злочѧстьнъ єсть не иже не можеть львꙑ давити или кѹмирꙑ объѧти · не бо на се силꙑ отъ природꙑ приѧтъ · нъ иже погѹби разѹмьность и вѣрность ·
+
+Сего подобаєть съшъдъше сѧ плакати · въ колика зла приде · Не же · клянѫ сѧ Зевсомъ · о родивъшемь сѧ или ѹмръшемь · нъ о томь иже живъ погѹби своѧ · не отьчьскаꙗ · нивѫ и домъ и гостиньницѫ и рабꙑ · сихъ бо ничьтоже своє чловѣкѹ · нъ вьсѧ чюжьда · рабьска · инꙑмъ и инꙑмъ въ различьна врѣмена отъ владꙑкъ даваєма ·
+
+Нъ чловѣчьскаꙗ · образы иже въ размꙑслѣ носѧ пришелъ єсть · ꙗкоже на сребрѣхъ образъ ищемъ · аще обрѧщемъ · приѥмлемъ · аще ли не · отъвръгаємъ ·
+
+Чии образъ имать се четверьтакъ · Траіановъ ли · принеси · Нероновъ ли · извръзи · неприѧтъно єсть · гнило · Тако же и здѣ · кыи образъ имѫть мьнѣніꙗ єго · Кротъкъ · общь · тръпѣливъ · дрѹголюбьнъ · принеси · приемлѭ · гражданина сего творѭ · приемлѭ сѫсѣда · съпловьца ·
+
+Тъкмо виждь да не Нероновъ образъ имать · Єда гнѣвьливъ єсть · єда злопомьньнъ · єда на сѫдьбѫ ропьщеть · Аще ємѹ мнить сѧ · бьєть главꙑ срѣтаѭщихъ ·
+
+Что ѹбо глаголаше · ꙗко чловѣкъ єсть · Єда по простомѹ обличію кꙑждо отъ сѫщиихъ сѫдить сѧ · Тогда и воштьно ꙗблъко ꙗблъко рьци ·
+
+Трѣбѹєть же имѣти и вонь и вкусъ · не доволєнъ вънѣшьнии образъ · Тако же ни чловѣкѹ носъ и очи доволна · нъ мьнѣніꙗ чловѣчьска имѣти подобаєть ·
+
+Сь слова не слꙑшить · ни слѣдѹєть обличаемъ · осьлъ єсть · Сего стꙑдъ ѹмрътвлєнъ · непотрѣбьнъ єсть · вьсѧ ино паче неже чловѣкъ · Сь ищеть кого срѣтъши лѧкнѫти или ѹкѹсити · ни овьца ѹбо ни осьлъ · нъ нѣкое дивіє звѣрь ·
+
+Что ѹбо · хощеши ли да презираѭтъ мѧ · Отъ кого · отъ вѣдѹщихъ ли · И како презрѧть вѣдѹще кротъкаго и стꙑдьнаго · Нъ отъ невѣдѹщихъ · Что ти до того · Ни бо иномѹ хꙑтрьцѹ до нехꙑтрꙑихъ ·
+
+Нъ паче на мѧ нападѫть · Что глаголєши · на мѧ · Можеть ли кто произволєнію твоємѹ пакость сътворити · или възбранити ꙗвленіи приходѧщими польꙀовати сѧ ꙗкоже по природѣ єсть ·
+
+Не можеть · Что же єще мѧтеши сѧ и страшна себе ꙗвити хощеши · Не ли въ срѣдѫ изшъдъ проповѣси · ꙗко миръ имаши къ вьсѣмъ чловѣкомъ · что любо они творѧть · паче же смѣєши сѧ тѣмъ иже мнѧть тебѣ пакостити ·
+
+Раби си не вѣдѧть ни кто єсмь · ни къде ми добро и зло · нѣсть имъ приступа къ моимъ ·
+
+Тако же и тврьдъ градъ насєлꙗѭще смѣѭть сѧ облежѧщимъ · Что си нꙑнѣ о ничемь трудѧть сѧ · тврьда єсть стѣна наша · брашна имамъ на многъ врѣмѧ · и вьсѧ прочаꙗ ѹготовлєніꙗ ·
+
+Си творѧть градъ твръдъ и непобѣдимъ · чловѣчьскѫ же дѹшѫ ничьтоже ино развѣ мьнѣніꙗ · Каꙗ бо стѣна толико крѣпъка · или кое тѣло толико адамантово · или кое имѣніє неотъемлємо · или каꙗ чьсть безъ козни ·
+
+Вьсѧ вьсѫдѹ смрьтьна · ѹдобь ѹловима · Имьже кто прилѣпить сѧ · нѫжда ємѹ мѧсти сѧ · зълѣ надѣꙗти сѧ · боꙗти сѧ · плакати · желаніꙗ не съвръшати · въ ꙗже ѹклонꙗєть сѧ въпадати ·
+
+И не хощемъ ли єдинѫ данѫ намъ тврьдь съхранити · и отъ смрьтьнꙑихъ и рабьскꙑихъ отъставъше · бесмрьтьнаꙗ и по природѣ свободьнаꙗ ѹпражнꙗти ·
+
+Ни помьнимъ · ꙗко ни инъ иномѹ пакостить · ни пользѹ творить · нъ мьнѣніє о кождомь · се пакостить · се прѣвращаєть · се рать · се мѧтежь · се брань ·
+
+Етеоклеа и Полѵнікеа ничьтоже ино сътвори · нъ мьнѣніє о властельствѣ · мьнѣніє о изгнаніи · ꙗко ово послѣдьнєє зло · ово же вѧщьше добро ·
+
+Природа же вьсѣмь сица · добро гонити · зъла бѣжати · отъимлѭщаго оно и подаѭщаго противьноє · того врага и козньника мнѣти · аще и братъ бѫдеть · аще и сꙑнъ · аще и отьць ·
+
+Добра бо ничьтоже сродьнѣє · Аще ѹбо си добра и зла сѫть · ни отьць сꙑномъ дрѹгъ · ни братъ братрѹ · нъ вьсѫдѹ вьсѧ полна врагъ · козньникъ · оклеветникъ ·
+
+Аще же како подобаєть произволєніє · се єдино добро · како же не подобаєть · се єдино зло · къде къ томѹ рать · къде досажденіє · о чемь · о нихъ же ничьтоже къ намъ · къ кому · къ невѣдѹщимъ · къ злочѧстьнꙑмъ · къ прѣльщенꙑмъ о вѧщьшихъ ·
+
+Сихъ помьнѧ Сѡкратъ въ своемь домѹ живѣаше · женѫ прѣлютѫ тръпѧ · сꙑна неблагодарьна · Что бо люто творѧаше · водѫ ли на главѫ єго лити єлико хощеть · или хлѣбъ ногами топтати · И что ми до сего · аще мнѭ ꙗко си ничьтоже къ мнѣ ·
+
+Се же моє дѣло єсть · и ни властель възбранить ми хотѧщемѹ · ни господинъ · ни мноꙀи єдиномѹ · ни крѣпъчаиши немощьнѣишемѹ · се бо невъзбраньно Богъ кождомѹ даде ·
+
+Си мьнѣніꙗ въ домѹ дрѹжьство творѧть · въ градѣ єдиномꙑсліє · въ народѣхъ миръ · къ Богѹ благодареніє · вьсѫдѹ дръзновеніє · ꙗко о чюжьдихъ · ꙗко о ничемь достоиныхъ ·
+
+Мꙑ же написати си и прочьсти и прочьтена похвалити можемъ · ѹвѣрити же сѧ ни близѫ ·
+
+Тѣмь же и о Лакедемонѧнѣхъ реченоє намъ подобаєть · въ домѹ льви · въ Ефесѣ же лисицѧ · тако и мꙑ · въ ѹчилищи льви · вънѣ же лисицѧ ·
+
+
+SRPSKI
+
+Ako ti u delu naiđe nešto od onoga što si naučio i razmotrio, raduj se tome. Ako si odbacio zlonamernost i vređanje, ako si umanjio naglost, sraman govor, praznoslovlje ili raspuštenost; ako te više ne pokreće ono što te je ranije pokretalo, ili bar ne onako kao ranije, možeš svakoga dana svetkovati: danas zato što si se dobro poneo u ovom delu, sutra zato što si se dobro poneo u drugom.
+
+Koliko je to veći razlog za žrtvu nego konzulat ili uprava provincijom. To ti dolazi od tebe samoga i od bogova. Pamti ko daje, kome daje i radi čega.
+
+Hraneći se takvim razmišljanjima, zar ti je još važno gde ćeš biti blagočestan i gde ćeš ugoditi Bogu? Nisu li bogovi od svakoga mesta jednako udaljeni? Ne vide li svuda jednako ono što se događa?
+
+
+IV.5 — Ka svadljivima i zverolikima
+
+SRPSKI
+
+Dobar i valjan čovek niti se sam s nekim svađa niti, koliko može, dopušta drugima da se svađaju.
+
+Primer i za ovo, kao i za ostalo, imamo u Sokratovu životu: ne samo što je sam svuda izbegavao svađu, nego ni drugima nije dopuštao da se svađaju.
+
+Pogledaj kod Ksenofonta u Gozbi koliko je svađa razrešio; kako je podnosio Trasimaha, Pola i Kalikla; kako je podnosio svoju ženu; kako sina kada ga je ovaj pobijao i nadmudrivao.
+
+Jer je sasvim pouzdano pamtio da niko ne gospodari tuđim vladajućim delom duše. Zato nije hteo ništa drugo osim onoga što je njegovo.
+
+A šta je to? Ne da drugi bude prema prirodi — jer to je tuđe — nego da, dok drugi čine svoje kako njima izgleda, on sam ništa manje bude i živi prema prirodi, čineći samo svoje, a ujedno radeći koliko može da i oni budu prema prirodi.
+
+Jer to je ono što je dobrom i valjanom čoveku uvek pred očima. Da postane vojskovođa? Ne. Ali ako mu se to dâ, da na toj građi sačuva vlastito vladajuće načelo. Da se oženi? Ne. Ali ako mu se dâ brak, da na toj građi sačuva sebe prema prirodi.
+
+Ako pak hoće da sin ne greši ili da žena ne greši, hoće da tuđe ne bude tuđe. A obrazovati se znači upravo ovo: naučiti šta je svoje, a šta tuđe.
+
+Gde onda još ima mesta svađi kod onoga ko tako stoji? Zar se čudi ičemu što se događa? Zar mu išta izgleda novo? Zar od rđavih ne očekuje i gore i teže nego što mu se događa? Zar ne smatra dobitkom sve što oni izostave od onoga najgoreg?
+
+Neko te je izvređao. Velika mu hvala što te nije udario. I udario te je. Velika mu hvala što te nije ranio. I ranio te je. Velika mu hvala što te nije ubio.
+
+Jer kada je i kod koga naučio da je čovek krotko živo biće, da voli sebi slične i da je sam čin nepravde velika šteta onome ko nepravdu čini? Ako to nije naučio niti se u to uverio, zašto ne bi sledio ono što mu izgleda korisno?
+
+Sused je bacao kamenje. Jesi li ti zbog toga pogrešio? Ali stvari u kući su polomljene. Jesi li ti kakav sud?
+
+Ne, nego si proizvoljenje. Šta ti je, dakle, dato da učiniš povodom toga? Kao vuku — da uzvratiš ujedom i baciš još više kamenja. Ali ako pitaš šta ti je dato kao čoveku, pregledaj svoju riznicu; vidi s kakvim si silama došao. Jesi li dobio zverolikost? Jesi li dobio zlopamćenje?
+
+Kada je konj nesrećan? Kada izgubi svoje prirodne moći: ne kada ne može kukurikati, nego kada ne može trčati. A pas? Kada ne može leteti?
+
+Ne, nego kada ne može pratiti trag. Nije li onda tako i čovek nesrećan ne kada ne može daviti lavove ili grliti kipove — jer nije od prirode došao sa silama za to — nego kada izgubi razumnost i vernost?
+
+Takvoga bi trebalo oplakivati, okupljeni oko njega, zbog zala u koja je zapao. Ne, tako mi Zevsa, onoga koji se rodio ili onoga koji je umro, nego onoga kome se još za života dogodilo da izgubi ono što je njegovo; ne očevinu — njivicu, kućicu, gostionicu i robove, jer ništa od toga čoveku nije vlastito, nego je sve tuđe, ropsko, podložno drugima i od gospodara čas ovome čas onome dato —
+
+nego ono čovečansko: obeležja s kojima je došao u razumu, kao što i na novcu tražimo žig: ako ga nađemo, priznajemo novac; ako ga ne nađemo, odbacujemo ga.
+
+Čiji žig nosi ovaj novčić? Trajanov? Daj ga. Neronov? Baci ga; nevaljao je, iskvaren.
+
+Tako i ovde. Kakav žig nose njegova mnenja? Krotak, društven, trpeljiv, čovekoljubiv? Daj ga; primam ga; takvoga činim građaninom, primam ga za suseda i saputnika.
+
+Samo gledaj da ne nosi Neronov žig. Je li gnevljiv? Zlopamtljiv? Je li nezadovoljan svojom sudbinom? Ako mu se prohte, razbija glave onima koje sretne.
+
+Zašto si onda govorio da je čovek? Zar se svaka stvar sudi samo po spoljašnjem obliku? Ako je tako, reci i da je voštana jabuka prava jabuka.
+
+Mora imati i miris i ukus; spoljašnji obris nije dovoljan. Tako ni za čoveka nisu dovoljni nos i oči, nego mora imati čovečanska mnenja.
+
+Ovaj ne sluša razum niti prati dokaz kada ga pobijaju — magarac je. Ovome je stid umrtvljen — beskoristan je, sve pre nego čovek. Ovaj traži koga će, čim ga sretne, ritnuti ili ujesti; zato više nije ni ovca ni magarac, nego nekakva divlja zver.
+
+Pa šta? Hoćeš da dopustim da me preziru?
+
+Ko? Oni koji znaju? A kako će oni koji znaju prezirati krotkoga i stidljivoga? Ili oni koji ne znaju? Šta te briga? Nijedan zanatlija ne mari za sud neznalica o svom zanatu.
+
+Ali još će više nasrtati na mene.
+
+Šta znači to na mene? Može li iko nauditi tvojem proizvoljenju ili ga sprečiti da se predstavama koje mu dolaze služi onako kako je prirodno?
+
+Ne može.
+
+Zašto se onda još uznemiravaš i hoćeš da se pokazuješ strašnim? Zašto radije ne izađeš pred sve i objaviš da si u miru sa svim ljudima, ma šta oni činili, a naročito da se smeješ onima koji misle da ti mogu nauditi?
+
+Ovi robovi ne znaju ni ko sam, ni gde je moje dobro i moje zlo. Nemaju pristupa onome što je moje.
+
+Tako se i stanovnici utvrđenoga grada smeju onima koji ih opsedaju: Šta se ovi uzalud muče? Zid nam je siguran, hrane imamo za veoma dugo vreme, a i sve ostalo što nam treba.
+
+To je ono što grad čini utvrđenim i neosvojivim. A ljudsku dušu ništa ne čini takvom osim mnenja. Jer koji je zid toliko jak, koje telo tako dijamantsko, koje imanje neotuđivo, koje dostojanstvo tako bezbedno od zavere?
+
+Sve je svuda smrtno i osvojivo. Ko se za bilo šta od toga makar malo veže, nužno se uznemirava, gubi nadu, boji se, tuguje, ne ostvaruje želje i pada upravo u ono od čega se uklanja.
+
+A mi nećemo da jedinu tvrđavu koja nam je data učinimo sigurnom? Nećemo, ostavivši smrtno i ropsko, da se trudimo oko besmrtnoga i po prirodi slobodnoga?
+
+Ne pamtimo ni to da jedan čovek drugome niti škodi niti koristi, nego da mnenje o svakoj od tih stvari škodi. Ono ruši, ono stvara svađu, pobunu i rat.
+
+Eteokla i Polinika nije učinilo neprijateljima ništa drugo do ovo: mnenje o tiraniji i mnenje o izgnanstvu, da je jedno najveće dobro, a drugo krajnje zlo.
+
+A priroda svega živog jeste da teži dobru i beži od zla; onoga ko mu oduzima jedno i nameće suprotno smatra neprijateljem i zaverenikom, makar bio brat, sin ili otac.
+
+Jer ništa nam nije srodnije od dobra. Ako su, dakle, ove spoljašnje stvari dobra i zla, onda ni otac nije prijatelj sinovima niti brat bratu, nego je svuda sve puno neprijatelja, zaverenika i klevetnika.
+
+Ali ako je jedino dobro proizvoljenje kakvo treba da bude, a jedino zlo proizvoljenje kakvo ne treba da bude — gde onda još ima svađe, gde vređanja? Oko čega? Oko stvari koje nas se ne tiču? Protiv koga? Protiv onih koji ne znaju, koji nesrećuju, koji su prevareni u najvažnijim stvarima?
+
+Pamteći ovo, Sokrat je živeo svoj kućni život podnoseći veoma grubu ženu i nezahvalnog sina. Jer u čemu se sastojala njena grubost? U tome da mu na glavu prospe koliko god hoće vode ili da izgazi kolač. A šta je to meni ako smatram da me se to ne tiče?
+
+Ali ovo jeste moje delo, i u tome me, ako hoću, neće sprečiti ni tiranin, ni gospodar, ni mnoštvo protiv jednoga, ni jači protiv slabijega. Jer je Bog to svakome dao nesprečivo.
+
+Takva mnenja u kući stvaraju prijateljstvo, u gradu slogu, među narodima mir, prema Bogu zahvalnost, a svuda smelost, jer čovek zna da je reč o tuđim stvarima i o onome što ne vredi ništa.
+
+Ali mi smo sposobni da ovo napišemo i pročitamo i da pročitano pohvalimo; da se u to zaista uverimo — ni blizu.
+
+Zato ono što se govori o Lakedemonjanima: Kod kuće lavovi, a u Efesu lisice — pristaje i nama: u školi lavovi, a napolju lisice.
+
+IV.6 — Ka onima koji se žaloste što ih sažaljevaju
+
+STAROSLOVENSKI
+
+Печалѹѭ сѧ · глаголєть · ꙗко жалѧть мѧ · Что ѹбо · твоє ли дѣло єсть да жалѧть тѧ · или жалѧщиихъ · И можеши ли се прѣстати · Могѫ · аще покажѫ имъ ꙗко нѣсмь жалости достоинъ ·
+
+Имаши ли же ѹже се · да не бѫдеши жалости достоинъ · или не имаши · Мьнѭ ꙗко имамъ · Нъ они не о сихъ мѧ жалѧть · о нихъ же аще и бѣхъ достоинъ · о съгрѣшеніихъ · нъ о нищетѣ · безвластіи · болѣзнехъ · смрьтехъ и прочихъ таковꙑихъ ·
+
+Готовъ ли ѹбо єси ѹвѣрити народъ · ꙗко ничьтоже отъ сихъ зло єсть · нъ можьно и нищѹ и безвластьнѹ и безчьстьнѹ благочѧстити · или себе показати имъ богата и власть имѫща ·
+
+Се второє хвастѹна єсть и хладьнаго и ничьтоже достоинаго · Виждь же какими хитростьми подобаєть лицемѣріє се творити · рабьцꙑ трѣбѹєть имѣти · мало сребра стѧжати · и се на ꙗвѣ показовати · аще можьно · многажды оно же · и таити сѧ ꙗко оно же єсть · ризы свѣтлꙑ · и прочеє показаніє · и показати сѧ почитаємѹ отъ видимꙑихъ чловѣкъ · и ѹ нихъ вечерѧти покѹшати сѧ · или понѣ мнѣти сѧ ꙗко вечерꙗєши · и о тѣлѣ нѣкаꙗ хитрость творити · да краснѣи и родовитѣи покажеши сѧ неже єси ·
+
+Си тебѣ подобаєть замꙑшлꙗти · аще вторꙑмь пѫтемь хощеши ити да не жалѧть тѧ · Пръвꙑи же и безконьчьнъ и длъгъ · єже ни Зевсъ не възможе сътворити · се самъ покѹшати сѧ · вьсѧ чловѣкꙑ ѹвѣрити каꙗ сѫть добра и зъла ·
+
+Не бо дано ти єсть се · Єдино ти дано · себе ѹвѣрити · и єще себе не ѹвѣрилъ єси · а нꙑнѣ инꙑхъ ѹвѣрити покѹшаєши сѧ ·
+
+Кто же толико врѣмѧ съ тобоѭ єсть ꙗкоже тꙑ самъ съ собоѭ · Кто тебѣ толико вѣрьнъ къ ѹвѣренію ꙗкоже самъ себѣ · Кто же благоволѣи и ближии тебѣ неже самъ себѣ ·
+
+Како ѹбо єще себе не ѹвѣрилъ єси да наѹчиши сѧ · Не вьсь ли нꙑнѣ прѣвративъ сѧ єси · Сего ли ради прилѣжалъ єси · не да наѹчиши сѧ бесъ печали бꙑти · безмѧтежьнъ · непониженъ · свободьнъ ·
+
+Не слꙑшалъ ли єси · ꙗко єдинъ пѫть къ симъ ведеть · оставити неволєваꙗ · отъ нихъ отъстѫпити · чюжьда ихъ исповѣдати ·
+
+Что ѹбо иномѹ о тебѣ мнѣти · кое єсть · Неволево · Ничьтоже ѹбо къ тебѣ · Ничьтоже · И єще грꙑзенъ симь и мѧтемъ · мьниши ли ꙗко ѹвѣренъ єси о добрѣ и зълѣ ·
+
+Не хощеши ли ѹбо инꙑхъ оставивъ · самъ себѣ и ѹченикъ и ѹчитель бꙑти · Они да зрѧть · аще имъ полꙀьно противѹ природѣ имѣти и жити · мнѣ же никто же ближе мене ·
+
+Что же се єсть · ꙗко словеса любомѫдрьцъ слꙑшахъ и съизволꙗѭ имъ · дѣломь же ничьтоже легъчаиши бꙑхъ · Єда толико бездарьнъ єсмь · Нъ въ прочихъ · єлика хотѣхъ · не бездарьнъ обрѣтохъ сѧ · писмєна бо скоро наѹчихъ сѧ · и борити сѧ · и землємѣрити · и сълоги разрѣшати ·
+
+Єда ѹбо слово мене не ѹвѣри · И не ино что испрьва испꙑтахъ и изьбрахъ · нъ си нꙑнѣ чьтѫ · си слꙑшаѭ · си пишѫ · инѣишего же слова силънѣиша сего до нꙑнѣ не обрѣтохомъ ·
+
+Что же ми не достаєть · Єда противьнаꙗ мьнѣніꙗ не изъꙗта сѫть · єда самаꙗ помꙑшлєніꙗ неѹпражнєна · не обꙑкла срѣтати дѣла · нъ ꙗкоже оружьꙗ отъложена рьждѣѭть · и ни около мене прилѣпити сѧ могуть ·
+
+И въ бореніи же ни въ писаніи ни въ чьтеніи не доволѭ сѧ наѹчити · нъ прѣдлагаємаꙗ вьсѧко обращаѭ · и ина съставлꙗѭ · тако же и прѣвратимаꙗ ·
+
+Нѫждьна же зрѣніꙗ · отъ нихъ же можьно исходѧ бесъ печали бꙑти · бесстрашьнъ · бесстрастьнъ · невъзбраньнъ · свободьнъ · сихъ не ѹпражнꙗѭ · ни по нимъ подобьно ѹчѫ сѧ ·
+
+И послѣ сего ми печаль · что инꙑ о мнѣ рекѫть · єда имъ достоинъ покажѫ сѧ · єда благочѧстьнъ покажѫ сѧ ·
+
+О окаꙗньне · не хощеши ли зрѣти что самъ о себѣ глаголєши · какъ себѣ кажеши сѧ · какъ въ мьнѣніи · какъ въ желаніи · какъ въ ѹклоненіи · какъ въ стремлєніи · ѹготовлєніи · намѣреніи · и въ прочихъ чловѣчьскꙑихъ дѣлѣхъ ·
+
+Нъ печеши сѧ · єда жалѧть тѧ инꙑ · Да · нъ не по достоꙗнію жалѧть мѧ · Не печалѹєши ли сѧ о семь · А печалѹѭщии сѧ жалости достоинъ єсть · Да · Како же къ томѹ не по достоꙗнію жалѧть тѧ · Самими бо тѣми страстьми о жалости · себе жалости достоина твориши ·
+
+Что же Антісѳенъ глаголєть · Николи же слꙑшалъ єси · Цѣсарьско єсть · о Кѵре · добро творити · зълѣ же слꙑшати ·
+
+Главѫ здравѫ имамъ · а вьси мнѧть ꙗко глава ми болить · Что ми до того · Безъ огньнице єсмь · а они ꙗко огньничьнѹ съболѣзнѹѭть ми · Окаꙗньне · отъ толика врѣмене огньница ти не преста · И азъ омрачивъ лице глаголѭ · да · истиньно · много врѣмѧ ѹже отъ неже ми зълѣ єсть · Что же да бѫдеть · Ꙗкоже Богъ хощеть · и въ себѣ смѣѭ сѧ жалѧщимъ мѧ ·
+
+Что ѹбо възбранꙗєть и здѣ тако же · Нищь єсмь · нъ право мьнѣніє о нищетѣ имамъ · Что ми до того · аще о нищетѣ жалѧть мѧ · Не властвѹѭ · инꙑ же властвѹѭть · нъ ꙗкоже подобаєть мнѣти · тако мнѭ о власти и безвластіи ·
+
+Жалѧщии мѧ сами да зрѧть · азъ же ни алчѫ · ни жѧждѫ · ни мръзнѫ · нъ они отъ своего алканиꙗ и жѧжданіꙗ мнѧть и мене тако же · Что ѹбо имъ сътворѭ · Єда ходѧ проповѣмъ · Не прѣльщаите сѧ · мѫжи · добрѣ ми єсть · ни нищетꙑ брѣгѫ · ни безвластіꙗ · ни просто инѣго ничьтоже развѣ правꙑхъ мьнѣніи · си невъзбраньна имамъ · ни о чемь прочемь къ томѹ не пекѫ сѧ ·
+
+Каꙗ же се тъщерѣчь · Како право мьнѣніє имамъ · аще не доволѭ сѧ бꙑти имьже єсмь · нъ страшѫ сѧ ꙗко другимъ кажѫ сѧ ·
+
+Нъ инꙑ вѧще ѹлѹчѧть · и почьтени бѫдѫть · Что же правѣише · не ли прилѣжащии о чемь · въ томь вѧще имѣти · о немь же прилѣжахѫ · Они о властехъ прилѣжахѫ · тꙑ о мьнѣніихъ · они о богатъствѣ · тꙑ о пользованіи ꙗвленіи ·
+
+Смотри · єда въ томь тебѣ прѣвъсходѧть · о немь же тꙑ прилѣжалъ · они же небрѣгошѧ · єда паче тебе съизволꙗѭть по природьнꙑмъ мѣрамъ · єда желаѭть не лишаѭще сѧ паче тебе · єда ѹклонꙗѭть сѧ не въпадаѭще · єда въ намѣреніи · въ поставлєніи · въ стремлєніи паче право ѹлѹчаѭть · єда подобаѭщеє съхранꙗѭть ꙗко мѫжи · ꙗко сꙑнове · ꙗко родителє · и по прочихъ сродьства именехъ ·
+
+Аще же они властвѹѭть · тꙑ же не хощеши себѣ истинѫ рещи · ꙗко тꙑ ради сего ничьтоже твориши · они же вьсѧ · Безсловесьно же єсть · да прилѣжащии о чемь мьньше ѹлѹчить неже небрѣгыи ·
+
+Нѣ · нъ понеже азъ о правꙑхъ мьнѣніихъ пекѫ сѧ · правѣише єсть да азъ властвѹѭ · Въ немь пекѫ сѧ · въ мьнѣніихъ · въ немь же инꙑ вѧще тебе пекошѧ сѧ · оно имъ остави · Ꙗкоже аще ради правꙑхъ мьнѣніи хощеши стрѣлѧти право паче стрѣльцъ · или ковати паче ковачь ·
+
+Остави ѹбо прилѣжаніє о мьнѣніихъ · и къ онѣмъ обрати сѧ ꙗже стѧжати хощеши · и тогда плачи · аще ти не прѣдъидеть · достоинъ бо єси плакати ·
+
+Нꙑнѣ же глаголєши ꙗко инꙑмъ прилѣжиши · о инꙑхъ печеши сѧ · и народъ право глаголєть · дѣло дѣлѹ не съпрѧгаєть сѧ ·
+
+Онъ отъ ѹтра въставъ ищеть · кого отъ домѹ цѣловати · кому ѹгодьно слово рещи · кому даръ послати · како игрьцѹ ѹгодити · како иномѹ зълонравьствомь противѹ иного ѹгодити ·
+
+Єгда молить сѧ · о сихъ молить сѧ · єгда жрътвѹ приносить · о сихъ приносить · Пѵѳагорово же · Не приемли сна на мѧккꙑѧ очи · къ симъ приложи ·
+
+Камо прѣстѫпихъ · въ ласканіи · Что сътворихъ · Єда что ꙗкоже свободьнъ · єда ꙗкоже благородьнъ · И аще что таково обрѧщеть · ѹкорꙗєть себе и винить · Что ти бѣ се рещи · Не можаше ли сълъгати · И любомѫдрьци бо глаголѭть · ꙗко ничьтоже възбранꙗєть лъжѫ рещи ·
+
+Тꙑ же аще истиньно ни о чемь иномь не печеши сѧ развѣ ꙗкоже подобаєть ꙗвленіи польꙀовати сѧ · абіє отъ ѹтра въставъ размꙑшлꙗи · Что ми не достаєть къ бесстрастію · что къ безмѧтежію · кто єсмь · Єда тѣло · єда имѣніє · єда слава · Ничьтоже отъ сихъ · Нъ что · Словесьно животно єсмь ·
+
+Что ѹбо отъ мене требѹєть сѧ · Обрати сътворєнаꙗ · Камо прѣстѫпихъ отъ благотеченіꙗ · Что сътворихъ недрѹжьно · необщьно · неблагодарьно · Что подобаѭще не съвръшихъ къ симъ ·
+
+Толикоѭ ѹбо различіѥмь желанꙑихъ · дѣлъ · молитвъ · єще ли хощеши равно имѣти съ онѣми о нихъ же тꙑ не прилѣжалъ · они же прилѣжахѫ ·
+
+И дивиши сѧ ꙗко жалѧть тѧ · и негодѹєши · Они же не негодѹѭть · аще тꙑ ихъ жалѣєши · Чего ради · Ꙗко они ѹвѣрени сѫть ꙗко добра ѹлѹчаѭть · тꙑ же не ѹвѣренъ єси ·
+
+Сего ради тꙑ своими не доволєнъ · нъ желаѥши онѣхъ · они же своими доволни · твоихъ же не желаѭть · Аще бо истиньно ѹвѣренъ бꙑлъ єси · ꙗко тꙑ добра ѹлѹчаѥши · они же заблѫдили сѫть · ни помꙑслилъ бꙑ о томь что о тебѣ глаголѭть ·
+
+
+SRPSKI
+
+Žalostim se, veli, što me sažaljevaju. Je li, dakle, tvoje delo to što te sažaljevaju ili delo onih koji te sažaljevaju? I možeš li učiniti da prestanu?
+
+Mogu, ako im pokažem da nisam dostojan sažaljenja.
+
+A imaš li već to — da nisi dostojan sažaljenja — ili nemaš?
+
+Mislim da imam. Ali oni me ne sažaljevaju zbog onoga zbog čega bih, ako uopšte, bio dostojan sažaljenja — zbog mojih grešaka — nego zbog siromaštva, bezvlašća, bolesti, smrti i sličnih stvari.
+
+Jesi li onda spreman da uveriš mnoštvo da ništa od toga nije zlo, nego da je moguće blagočestiti i siromašan, i bez vlasti, i bez časti? Ili ćeš im sebe pokazivati kao bogatog i moćnog?
+
+Ovo drugo pripada hvalisavcu, mlakom čoveku koji ništa ne vredi. A pogledaj još kakvim se sredstvima moraš služiti da bi takvu predstavu načinio: trebaće ti robovi, moraćeš steći malo srebrnine i pokazivati je javno — ako možeš, istu više puta — a pritom prikrivati da je uvek ista; zatim sjajne haljine i svu ostalu pompu; moraćeš pokazivati da te ugledni ljudi poštuju, truditi se da kod njih večeraš ili bar da izgleda kao da večeraš; i moraćeš izvoditi poneku veštinu na telu da bi izgledao lepši i plemenitiji nego što jesi.
+
+Sve to moraš smišljati ako hoćeš drugim putem poći ka tome da te ne sažaljevaju. Prvi je put beskrajan i dug: pokušavati upravo ono što ni Zevs nije mogao učiniti — uveriti sve ljude šta su dobra, a šta zla.
+
+Zar ti je to dato? Jedino ti je dato da uveriš samoga sebe. A još ni sebe nisi uverio; i sada pokušavaš uveriti druge?
+
+Ko je toliko vremena sa tobom koliko si ti sa samim sobom? Ko ti je toliko ubedljiv kada treba da te uveri kao ti sam sebi? Ko ti je naklonjeniji i prisniji od tebe samoga?
+
+Kako onda još nisi uspeo uveriti sebe da naučiš? Nisi li sada sav prevrnut? Zar si se oko ovoga trudio — ne da naučiš biti bez žalosti, nepomućen, neponižen i slobodan?
+
+Zar nisi čuo da ka tome vodi samo jedan put: ostaviti ono što ne zavisi od proizvoljenja, odstupiti od toga i priznati da je tuđe?
+
+A kakvoj vrsti pripada ono što drugi misli o tebi?
+
+Onome što ne zavisi od proizvoljenja.
+
+Dakle, ništa se tebe ne tiče?
+
+Ništa.
+
+Pa dok te to još grize i uznemirava, misliš li da si se zaista uverio šta je dobro, a šta zlo?
+
+Nećeš li onda ostaviti druge i sam sebi postati i učenik i učitelj? Neka drugi gledaju koristi li im da budu i žive protiv prirode; meni niko nije bliži od mene samoga.
+
+Šta onda znači ovo: čuo sam reči filozofa i saglašavam se s njima, a u delu nisam nimalo postao lakši? Zar sam toliko nedarovit? Pa ipak, u drugim stvarima koje sam hteo nisam se pokazao naročito nedarovitim: brzo sam naučio slova, i rvanje, i geometriju, i razlaganje silogizama.
+
+Zar me, dakle, razum nije uverio? Ali ništa drugo nisam od početka toliko ispitivao niti izabrao; i sada upravo ovo čitam, ovo slušam, ovo pišem. Do sada nismo našli snažniji razlog od ovoga.
+
+Šta mi onda nedostaje? Nisu li možda uklonjena protivna mnenja? Nisu li same predstave još nevežbane i nenavikle da izlaze pred dela, nego poput odloženog oružja rđaju i više mi ni ne pristaju?
+
+Pa ni u rvanju, ni u pisanju ni u čitanju ne zadovoljavam se time da naučim; nego ponuđene stvari okrećem na sve strane, sastavljam druge, pa tako i preobraćene.
+
+A nužna motrenja, od kojih polazeći čovek može postati bez žalosti, bez straha, bestrasan, nesprečiv i slobodan — njih ne vežbam niti se u njima vežbam onako kako dolikuje.
+
+I onda me još brine šta će drugi reći o meni, hoću li im izgledati vredan pomena i hoću li izgledati blagočestan?
+
+Jadniče, nećeš li gledati šta ti govoriš o sebi? Kakav izgledaš samome sebi? Kakav si u mnenju, kakav u želji, kakav u uklanjanju; kakav u stremljenju, pripremi, nameri i ostalim čovečanskim delima?
+
+Ali ti je važno da li te drugi sažaljevaju.
+
+Da, ali sažaljevaju me nezasluženo.
+
+Zar se zbog toga ne žalostiš? A onaj koji se žalosti dostojan je sažaljenja?
+
+Da.
+
+Kako te onda još sažaljevaju nezasluženo? Upravo time što patiš zbog njihovog sažaljenja činiš sebe dostojnim sažaljenja.
+
+Šta, dakle, govori Antisten? Zar nikad nisi čuo: Carski je, o Kire, dobro činiti, a rđavo slušati o sebi.
+
+Glava mi je zdrava, a svi misle da me boli. Šta me briga? Nemam groznicu, a oni me žale kao da je imam: Jadan čovek, već toliko dugo groznica ne prestaje.
+
+I ja, smrknuvši se, kažem: Da, zaista, već mi je dugo veoma rđavo.
+
+Šta će onda biti?
+
+Kako Bog hoće.
+
+A u sebi se istovremeno podsmevam onima koji me sažaljevaju.
+
+Šta onda sprečava da i ovde bude isto? Siromašan sam, ali o siromaštvu imam pravo mnenje. Šta me briga ako me zbog siromaštva sažaljevaju? Ne vladam, a drugi vladaju. Ali o vlasti i bezvlašću mislim ono što treba misliti.
+
+Neka oni koji me sažaljevaju sami gledaju šta rade. Ja niti gladujem, niti žeđam, niti se smrzavam; nego zato što oni gladuju i žeđaju misle da je tako i meni. Šta ću onda s njima? Da idem unaokolo i objavljujem: Ne varajte se, ljudi, meni je dobro; ne marim ni za siromaštvo, ni za bezvlašće, ni uopšte za išta drugo osim za prava mnenja. Njih imam nesprečiva i više ni o čemu ne brinem?
+
+Kakvo je to praznoslovlje? Kako još imam prava mnenja ako mi nije dovoljno da budem ono što jesam, nego streptim nad tim kako izgledam drugima?
+
+Ali drugi će steći više i biti više počašćeni.
+
+Šta je razumnije nego da oni koji su se oko nečega trudili u tome imaju više, upravo u onome oko čega su se trudili? Oni su se trudili oko vlasti, ti oko mnenja; oni oko bogatstva, ti oko služenja predstavama.
+
+Gledaj imaju li od tebe više u onome oko čega si se ti trudio, a oni nisu marili: saglašavaju li se bolje prema prirodnim merama; žele li s manje promašaja nego ti; uklanjaju li se a da manje upadaju u ono od čega beže; pogađaju li bolje u nameri, odluci i stremljenju; čuvaju li dolikujuće kao muževi, kao sinovi, kao roditelji, pa zatim i prema ostalim imenima odnosa.
+
+Ali ako oni vladaju, nećeš li sebi reći istinu: ti ništa nisi činio radi toga, a oni jesu sve? Krajnje je nerazumno da onaj koji se za nešto stara u tome dobije manje od onoga koji za to ne mari.
+
+Ne, ali pošto se ja staram o pravim mnenjima, razumnije je da ja vladam.
+
+U onome o čemu se staraš — u mnenjima. Ali u onome o čemu su se drugi starali više od tebe, njima ustupi prvenstvo. Kao kad bi, zato što imaš prava mnenja, zahtevao da lukom pogađaš bolje od strelaca ili da kuješ bolje od kovača.
+
+Ostavi onda trud oko mnenja i okreni se onome što želiš da stekneš; pa onda plači ako ti ne uspeva, jer ćeš biti dostojan plača.
+
+Ali sada govoriš da se baviš drugim stvarima i da se o drugima staraš, a mnoštvo dobro kaže: delo se s delom ne druži.
+
+Onaj ustaje zorom i traži koga će iz kuće pozdraviti, kome će reći umilnu reč, kome poslati dar, kako će ugoditi igraču, kako će, zlurado postupajući prema jednom, učiniti uslugu drugome.
+
+Kada se moli, za to se moli; kada prinosi žrtvu, za to je prinosi. I Pitagorino: Ne primaj sna na meke oči — primenio je upravo na ovo.
+
+Gde sam prestupio? U stvarima laskanja. Šta sam učinio? Zar nešto kao slobodan čovek, zar nešto kao plemenit? Ako pronađe išta takvo, prekoreva i optužuje sebe: Šta ti je trebalo to da kažeš? Zar nisi mogao slagati? Pa i filozofi govore da ništa ne sprečava čoveka da izgovori laž.
+
+A ti, ako se zaista ni za šta drugo ne staraš osim za pravilno služenje predstavama, čim ustaneš ujutru razmišljaj: Šta mi nedostaje do bestrašća? Šta do nepomućenosti? Ko sam ja? Zar telo? Zar imanje? Zar glas? Ništa od toga. Nego šta? Slovesno sam živo biće.
+
+Šta se onda od mene zahteva? Pređi preko učinjenoga: Gde prestupih protiv blagotečenja? Šta učinih neprijateljski, nedruštveno ili nezahvalno? Šta od onoga što je prema tome trebalo učiniti nisam izvršio?
+
+Kada je, dakle, tolika razlika u onome što želite, u delima i molitvama, hoćeš li još imati jednako s njima upravo u onome oko čega se ti nisi trudio, a oni jesu?
+
+A onda se čudiš što te sažaljevaju i ljutiš se? Oni se pak ne ljute kada ih ti sažaljevaš. Zašto? Zato što su oni uvereni da stiču dobra, a ti nisi uveren.
+
+Zato ti nisi zadovoljan svojim, nego žudiš za njihovim; oni su svojim zadovoljni i ne žude za tvojim. Jer da si zaista uveren da si ti onaj koji pogađa dobra, a da su oni zalutali, ne bi ti ni palo na um šta govore o tebi.
+
+IV.7 — O neustrašivosti
+
+STAROSLOVENSKI
+
+Что творить страшна мѫчителѧ · Оружьници · глаголєть · и мечи ихъ · и постельникъ · и възбранѧѭщии въходѧщимъ ·
+
+Чего ради ѹбо · аще отрочѧ приведеши къ немѹ съ оружьникꙑ сѫщѹ · не боитъ сѧ · Или ꙗко отрочѧ сихъ не чюєть ·
+
+Аще ѹбо кто оружьникꙑ чюєть и ꙗко мечи имѫть · къ самомѹ же томѹ приходитъ · хотѧ ѹмрѣти ради нѣкоего приключеніꙗ · и ищѧ инымь ѹдобь се претерпѣти · боитъ ли сѧ оружьникъ · Хощеть бо оно · єгоже ради страшни сѫть ·
+
+Аще ѹбо кто ни ѹмрѣти ни жити отънѫдъ хощеть · нъ ꙗкоже даєть сѧ · приходитъ къ немѹ · что възбранꙗєть безъ страха приходити ·
+
+Ничьтоже ·
+
+Аще ѹбо кто и къ имѣнію тако же имать ꙗкоже онъ къ тѣлѹ · и къ чѧдомъ и женѣ · и просто нѣкакою бѣсностьѭ и безѹміємь тако положенъ бѫдеть · да ничьтоже мнить имѣти си или не имѣти · нъ ꙗкоже отрочѧта черепꙑ играѭще о игрѣ спорѧть · о черепѣхъ же не пекѫть сѧ · тако же и онъ вещества ни во что же вмѣнꙗєть · игрѫ же и обращеніє около ихъ любить · кыи къ томѹ мѫчитель страшнъ ємѹ · кии оружьници · кии мечи ихъ ·
+
+И ѹбо отъ бѣсности можеть кто тако къ симъ положенъ бꙑти · и Галилеѧне отъ обꙑчаꙗ · отъ слова же и доказа никто же можеть наѹчити сѧ · ꙗко Богъ вьсѧ въ строю сътвори · и самъ строи вьсь невъзбраньнъ и самосъвръшенъ · дѣлꙑ же єго къ пользѣ цѣла ·
+
+Прочаꙗ ѹбо вьсѧ лишена сѫть силꙑ слѣдовати ѹправлєнію єго · словесьно же животно исходꙑ имать къ размꙑшлєнію о сихъ вьсѣхъ · ꙗко дѣлъ єсть · и кꙑи дѣлъ · и ꙗко дѣломъ цѣлѹ повинѹти сѧ красно єсть ·
+
+Къ симъ же · природою благородьно · великодѹшьно · свободьно бꙑвъ · видить ꙗко отъ около єго ова невъзбраньна сѫть и на немь · ова же възбраньна и на инѣхъ · невъзбраньна ѹбо произволєваꙗ · възбраньна же непроизволєваꙗ ·
+
+И сего ради · аще тъкмо въ сихъ положить своє добро и пользѫ · въ невъзбраньнꙑихъ и на немь сѫщихъ · свободьнъ бѫдеть · благотечьнъ · благочѧстьнъ · неврѣдимъ · великодѹшьнъ · благовѣрьнъ · о вьсѣхъ благодарѧ Богѹ · нигде же ни о чемь бꙑвъшемь ропьщѧ · никогоже винѧ ·
+
+Аще ли въ вънѣшьнихъ и непроизволєвꙑхъ · нѫжда ємѹ възбранѧємѹ бꙑти · прѣпинаємѹ · работати тѣмъ иже власть имѫть надъ тѣми · имъ же дивить сѧ и боитъ сѧ ·
+
+Нѫжда же неблаговѣрьнѹ бꙑти · мнѧщѹ ꙗко отъ Бога врѣдимъ єсть · и неправьдьнѹ · присно болъшаго себѣ ищѫщѹ · нѫжда же и смѣрєна и малодѹшьна бꙑти ·
+
+Си ѹбо разлѫчивъ · что възбранꙗєть легко и ѹдобьно жити · вьсѧ могѫщаꙗ приключити сѧ кротко ожидаѭщѹ · приключивъшаꙗ же носѧщѹ ·
+
+Хощеши нищетѫ · даждь · и познаєши что єсть нищета добраго игрьца ѹлѹчивъши ·
+
+Хощеши власти · даждь · и трудꙑ · А изгнаніє · камо любо отидѫ · тамо ми добро бѫдеть · Ни бо и здѣ мѣста ради ми добро бѣ · нъ мьнѣніи ради · ꙗже съ собоѭ отънєсѫ · Никто же бо отъиметъ ихъ · си єдина моꙗ сѫть · неотъемлєма · и доволна ми сѫть · къде любо бѫдѫ и что любо творѭ ·
+
+Нъ ѹже врѣмѧ ѹмрѣти · Что глаголєши · ѹмрѣти · Не трагедіѭ твори отъ дѣла · нъ рьци ꙗкоже єсть · ѹже врѣмѧ веществѹ · отъ нихъ же състави сѧ · въ она пакꙑ възвратити сѧ ·
+
+И что страшно · что отъ сѫщиихъ въ строю погꙑбнѫти имать · что ново бꙑти · что безсловесьно · Сихъ ли ради страшнъ мѫчитель ·
+
+Сего ли ради оружьникъ мечи велици и остри кажѫтъ сѧ · Инꙑмъ си · Мнѣ же о вьсѣхъ размꙑшлєно · надо мноѭ никъто же власти имать ·
+
+Свобожденъ єсмь отъ Бога · познахъ повелѣніꙗ єго · никъто же къ томѹ поработити мѧ можеть · стѧжателѧ имамъ ꙗкоже подобаєть · сѫдиѧ ꙗкоже подобаєть ·
+
+Не азъ ли господинъ тѣла твоєго єсмь · Что ѹбо къ мнѣ · Не азъ ли имѣніꙗ · Что ѹбо къ мнѣ · Не азъ ли изгнаніꙗ и ѹꙀъ · Пакꙑ вьсѣхъ сихъ и тѣла самого отъстѫплѭ ти · єгда хощеши · Испꙑтаи власть своѭ надо мноѭ · и познаєши доколѣ имаши ѭ ·
+
+Кого ѹбо єще боꙗти сѧ могу · постельникъ ли · Что сътворѧть · възбранѧть ми вънити · Аще мѧ обрѧщѫть хотѧща вънити · да възбранѧть ·
+
+Чего ради ѹбо къ дверемъ приходиши · Ꙗко мнѣ подобаѭще кажєть сѧ · доньдѣже игра стоить · съиграти ·
+
+Како же не възбранѧєши сѧ · Ꙗко аще кто мѧ не приемлєть · не хощѫ вънити · нъ присно вѧще хощѫ оно єже бꙑваєть · Лѹчьше бо мнѭ єже Богъ хощеть неже єже азъ ·
+
+Прилѣплѭ сѧ ємѹ слѹга и послѣдователь · състремлѭ сѧ · съжелѣѭ · просто съхощѫ · Възбрана мнѣ не бꙑваєть · нъ нѫждаѭщимъ сѧ ·
+
+Чего ради ѹбо не нѫждаѭ сѧ · Вѣмъ бо ꙗко вънѫтрь никако добро не даєть сѧ въходѧщимъ ·
+
+Нъ єгда слꙑшѫ нѣкоего блажима · ꙗко почитаєть и Кесарь · глаголѭ · что ємѹ приложи сѧ · Єда мьнѣніє ꙗкоже подобаєть о власти · Єда и польꙀованіє приставьничьствомь ꙗкоже подобаєть ·
+
+Чего ради єще тълкѫ сѧ · смоквꙑ и орѣхꙑ кто разметаѥть · отрочѧта хватаѭть и междѹ собоѭ ратѹѭть · мѫжи же ни · мало бо мнѧть си · Аще же черепꙑ разметаѥть кто · ни отрочѧта хватаѭть ·
+
+Власти раздаѭть сѧ · да зрѧть отрочѧта · Сребро · да зрѧть отрочѧта · Воєводьство · консѹльство · да хватаѭть отрочѧта · да възбранѧѭтъ имъ · да биѭть ихъ · да цѣлѹѭть рѫцѣ даѭщаго и рабъ єго · Мнѣ же се смоква и орѣхъ ·
+
+Что ѹбо · аще отъ слѹчаꙗ разметаѭщѹ ємѹ смоква въ пазѹхѫ ти въпадетъ · възьми и сънѣждь · доньдѣже бо толико и смоквѫ чьтити подобаєть ·
+
+Да же прикрꙑваѭ и иного низвръщѫ · или самъ отъ иного низвръженъ бѫдѫ · и ласкаѭ въходѧщимъ · ни смоква того достоина · ни ино что отъ не добрꙑхъ · о нихъ же любомѫдри ѹвѣриша мѧ да ихъ не мнѭ добра ·
+
+Покажи ми мечи оружьникъ · Се · колици сѫть и како остри · Что ѹбо творѧть си велици и остри мечи ·
+
+Ѹбиваѭть · Огньница же что творить · Тожде · Черѣпь же съ крова падъ что творить · Тожде ·
+
+Хощеши ли ѹбо вьсѣмъ симъ дивити сѧ и кланꙗти сѧ · и рабъ вьсѣхъ обиходити ·
+
+Да не бѫдеть · Нъ єдиноѭ наѹчивъ сѧ · ꙗко рожденомѹ и тлѣти подобаєть · да строи не станетъ ни възбранить сѧ · къ томѹ ми нѣсть различіѥ · огньница ли се сътворить · или черѣпь · или воинъ ·
+
+Нъ аще подобаєть сравнити · вѣмъ ꙗко безъ болѣзниє и борзѣ воинъ се сътворить ·
+
+
+SRPSKI
+
+Šta tiranina čini strašnim? Njegovi kopljanici, veli, i njihovi mačevi, komornik i oni koji sprečavaju ljude da uđu.
+
+Zašto se onda dete, ako ga dovedeš pred njega dok stoji među kopljanicima, ne boji? Zar zato što dete ne shvata šta je sve to?
+
+Ako, dakle, neko shvata ko su kopljanici i da imaju mačeve, ali mu upravo zato prilazi jer zbog neke okolnosti želi umreti i traži da to lako pretrpi od drugoga, zar će se bojati kopljanika? Jer on želi upravo ono zbog čega su oni strašni.
+
+Ako pak neko ni po svaku cenu ne želi umreti ni živeti, nego prihvata kako mu bude dato, šta ga sprečava da tiraninu priđe bez straha?
+
+Ništa.
+
+Ako se neko prema imanju odnosi isto kao ovaj prema telu, pa tako i prema deci i ženi, i uopšte je nekakvom pomamom i bezumljem doveden dotle da mu ništa ne znači ima li to ili nema; kao što se deca, igrajući se crepićima, prepiru oko igre, a za same crepiće ne mare — ako tako i on ne smatra ništa samom građom, nego voli igru i ophođenje s njome, kakav mu je tiranin još strašan, kakvi kopljanici i kakvi njihovi mačevi?
+
+Pa zar neko može takav odnos prema tim stvarima steći pomamom, a Galilejci navikom, ali niko razumom i dokazom ne može naučiti da je Bog stvorio sve što je u ustroju i sam ustroj kao celinu nesprečivu i samodovoljnu, dok je njegove pojedine delove stvorio radi potrebe celine?
+
+Sve ostale stvari lišene su sposobnosti da prate njegovo upravljanje; ali slovesno živo biće ima polazišta da o svemu tome razmisli: da je deo, kakav je deo i da je krasno da se delovi pokoravaju celini.
+
+Povrh toga, budući po prirodi plemenito, velikodušno i slobodno, ono vidi da su neke stvari oko njega nesprečive i zavise od njega, a druge su sprečive i zavise od drugih: ono što pripada proizvoljenju jeste nesprečivo, a ono što ne pripada proizvoljenju sprečivo je.
+
+Zato, ako svoje dobro i korist položi jedino u onome što je nesprečivo i zavisi od njega, biće slobodan, blagotečan, blagočestan, nepovrediv, velikodušan, pobožan; zahvaljivaće Bogu za sve, neće nigde gunđati zbog onoga što se dogodilo niti ikoga kriviti.
+
+Ali ako dobro položi u spoljašnje i neproizvoljne stvari, nužno će biti sprečavan, ometan i robovati onima koji imaju vlast nad stvarima kojima se divi i kojih se boji.
+
+Nužno će biti i bezbožan, jer će misliti da mu Bog nanosi štetu; biće nepravedan, uvek nastojeći da sebi pribavi više; nužno će biti i nizak i malodušan.
+
+Kad je čovek ovo razlučio, šta ga sprečava da živi lako i krotko, spokojno čekajući sve što se može dogoditi i podnoseći ono što se već dogodilo?
+
+Hoćeš siromaštvo? Daj ga, pa ćeš videti šta je siromaštvo kad dopadne dobrog glumca.
+
+Hoćeš vlast? Daj je, i trudove s njom. A progonstvo? Kuda god odem, onde će mi biti dobro; jer ni ovde mi nije bilo dobro zbog mesta, nego zbog mnenja koja ću sa sobom odneti. Niko mi ih ne može oduzeti; samo su ona moja, neotuđiva, i dovoljna su mi gde god bio i šta god radio.
+
+Ali već je vreme umreti. Šta govoriš: umreti? Ne pravi tragediju od toga, nego reci kako jeste: već je vreme da se građa od koje se nešto sastavilo ponovo vrati u ono od čega je sastavljena.
+
+I šta je tu strašno? Šta će od stvari u ustroju propasti? Šta će se dogoditi novo ili protivno razumu? Zar je zbog toga tiranin strašan?
+
+Zar zato mačevi njegovih kopljanika izgledaju veliki i oštri? Drugima neka izgledaju. Ja sam sve to razmotrio; nada mnom niko nema vlast.
+
+Bog me je oslobodio; spoznao sam njegove zapovesti. Više me niko ne može porobiti. Imam onoga koji će primiti što mu pripada kakav treba da bude, i sudije kakve treba.
+
+Nisam li gospodar tvoga tela?
+
+Šta je to meni?
+
+Nisam li gospodar tvoga imanja?
+
+Šta je to meni?
+
+Nisam li gospodar tvoga izgnanstva ili okova?
+
+Opet ti ustupam sve to, pa i čitavo telo, kad god hoćeš. Isprobaj svoju vlast nada mnom i saznaćeš dokle ona doseže.
+
+Koga se onda još mogu bojati? Komornika? Šta će mi učiniti? Neće me pustiti unutra? Ako me zatekne kako želim ući, neka me ne pusti.
+
+Pa zašto onda dolaziš pred vrata?
+
+Zato što mi se čini da mi dolikuje, dok igra traje, da u njoj učestvujem.
+
+Kako onda nisi sprečen?
+
+Zato što, ako me neko ne primi, ne želim ući, nego uvek više želim upravo ono što se događa. Jer smatram da je ono što Bog hoće bolje od onoga što ja hoću.
+
+Priklanjam mu se kao sluga i sledbenik; zajedno s njim stremim, zajedno želim, jednom rečju — sa njim hoću. Meni se vrata ne zatvaraju; zatvaraju se onima koji silom hoće unutra.
+
+Zašto onda ne navaljujem? Jer znam da se unutra onima koji uđu ne deli nikakvo dobro.
+
+A kada čujem da nekoga blaže zato što ga Cezar poštuje, pitam: Šta je dobio? Zar je dobio i mnenje kakvo treba imati o upravljanju provincijom? Zar je dobio i umeće da se upravom služi kako treba?
+
+Zašto bih se onda još gurao? Neko razbacuje smokve i orahe; deca ih grabe i međusobno se bore. Odrasli ne, jer smatraju da su to sitnice. A ako neko razbacuje crepiće, ni deca ih ne grabe.
+
+Dele se provincije — neka ih gledaju deca. Srebro — neka ga gledaju deca. Vojna zapovedništva, konzulat — neka ih deca grabe. Neka ih izbacuju, biju, neka ljube ruke onoga koji daje i ruke njegovih robova. Meni su to smokve i orasi.
+
+Pa ako ti, dok ih on slučajno razbacuje, smokva padne u skut, uzmi je i pojedi; toliko se smokva sme ceniti.
+
+Ali da zbog nje drugoga obaram, ili da mene drugi obori, i da laskam onima koji ulaze — ni smokva ni bilo šta drugo što nije dobro nije toga vredno, pošto su me filozofi uverili da te stvari ne smatram dobrima.
+
+Pokaži mi mačeve kopljanika.
+
+Evo, vidi koliko su veliki i kako oštri.
+
+A šta rade ti veliki i oštri mačevi?
+
+Ubijaju.
+
+A šta radi groznica?
+
+Isto.
+
+A crep koji padne s krova?
+
+Isto.
+
+Hoćeš li onda da se svemu tome divim, da mu se klanjam i idem unaokolo kao rob svega?
+
+Nipošto. Jednom kad sam naučio da ono što je nastalo mora i propasti, kako se ustroj ne bi zaustavio niti bio ometen, više mi nije važno hoće li to učiniti groznica, crep ili vojnik.
+
+Ali ako već treba porediti, znam da će vojnik to učiniti bezbolnije i brže.
+
+IV.7 — O neustrašivosti
+
+STAROSLOVENSKI
+
+Єгда ѹбо ни боѭ сѧ чего любо · єже можеть мѧ поврѣдити · ни желаѭ чего любо · єже можеть ми подати · что єще дивлѭ сѧ ємѹ · что єще ѹжасаѭ сѧ · чего ради боѭ сѧ оружьникъ · чего ради радѹѭ сѧ · аще чловѣколюбьно глаголєть ми и приемлєть мѧ · и инѣмъ повѣдаѭ како ми глагола ·
+
+Єда бо Сѡкратъ єсть · єда Діогенъ · да хвала єго доказъ бѫдеть о мнѣ ·
+
+Єда нравѹ єго поревновахъ · Нъ игрѫ съхранꙗѧ прихожѫ къ немѹ и слѹжѫ · доньдѣже ничьтоже безѹмьно ни безъ чина повелѣваєть · Аще ли речеть ми · иди къ Леѡнѹ Саламіньскомѹ · рькѫ ємѹ · иного ищи · азъ бо къ томѹ не играѭ ·
+
+Веди єго · Послѣдѹѭ въ игрѣ ·
+
+Нъ главѫ ти отъсѣкѫть ·
+
+Ємѹ ли самому присно останеть · а вамъ повинѹѭщимъ сѧ не отъсѣкѫть ·
+
+Нъ непогребенъ повръженъ бѫдеши ·
+
+Аще азъ єсмь мрьтвьць · повръженъ бѫдѫ · аще ли ино єсмь неже мрьтвьць · рьци краснѣише ꙗкоже дѣло єсть · и не страши мене ·
+
+Отрочѧтомъ си страшна сѫть и безѹмьнꙑмъ · Аще же кто єдиноѭ въ любомѫдрьца ѹчилище въшъдъ не вѣсть кто самъ єсть · достоинъ єсть боꙗти сѧ и ласкати ꙗкоже и прѣжде ласкааше · аще єще не наѹчи сѧ · ꙗко не плъть єсть ни кости ни жилы · нъ оно єже сими польꙀѹєть сѧ · єже и строить и вьнемлєть ꙗвленіꙗмъ ·
+
+Нъ си словеса · глаголєть · презорьцѧ законъ творѧть ·
+
+И каꙗ словеса паче сихъ повинѹѭщꙑ закону творѧть польꙀѹѭщихъ сѧ ими · Законъ же не єсть єже на безѹмьнѣмь ·
+
+Обаче виждь како и къ симъ ꙗкоже подобаєть имѣти сѧ ѹготовлꙗѭть · понеже ѹчѧть ни о чемь съ ними препирати сѧ · въ нихъ же они мѫдро насъ побѣдити могуть ·
+
+О тѣлѣ ѹчѧть отъстѫпати · о имѣніи отъстѫпати · о чѧдехъ · родителѣхъ · братріи · вьсѣмь ѹстѫпати · вьсѧ оставлꙗти · тъкмо мьнѣніꙗ изымаѭть · ꙗже и Зевсъ кождомѹ изъꙗта бꙑти восхотѣ ·
+
+Каꙗ здѣ беззаконьность · каꙗ безѹмьность · идеже тꙑ крѣпъчаиши и силънѣиши · тамо ти отъстѫплѭ · идеже же азъ крѣпъчаиши · тꙑ мнѣ ѹстѫпи · мнѣ бо прилѣжить · тебѣ же ни ·
+
+Тебѣ прилѣжить · како въ мраморьныхъ домѣхъ живеши · како ти отроци и шапьници слѹжѧть · како свѣтлѫ ризѫ носиши · како ловьцѧ многа имаши · како гѫсльникꙑ · трагедіѧнꙑ ·
+
+Єда сихъ желаѭ · Єда мьнѣніи ти прилѣжить · єда своего слова · єда вѣси отъ какꙑихъ дѣлъ съставлєно єсть · како съводить сѧ · кыи чини єго · каꙗ силы имать и какꙑѧ ·
+
+Чего ради ѹбо негодѹєши · аще инъ въ сихъ болѣ тебѣ имать · иже о нихъ прилѣжалъ ·
+
+Нъ си сѫть вѧщьшаꙗ ·
+
+И кто ти възбранꙗєть около сихъ пребꙑвати и о сихъ прилѣжати · кто же болъшаѧ ѹготовлєніѧ имать кънигъ · праздьности · польꙀѹѭщиихъ ·
+
+Тъкмо единожды къ симъ обрати сѧ · подаждь понѣ мало врѣмене своемѹ владꙑчьствѹ · смотри что се имаши и отъкѫдѹ пришъло єсть · єже вьсѣми прочими польꙀѹєть сѧ · вьсѧ прочаꙗ испꙑтаєть · избираєть · отъметаєть ·
+
+Доньдѣже же около вънѣшьнихъ пребꙑваєши · она имѣти имаши ꙗкоже никъто же · се же таково ꙗкоже самъ хощеши имѣти · скврьно и небрежено ·
+
+
+SRPSKI
+
+Kada se, dakle, ne bojim ničega čime mi može nauditi, niti želim išta što mi može dati, zašto mu se još divim, zašto sam još zapanjen? Zašto se bojim kopljanika? Zašto se radujem ako mi čovekoljubivo govori i lepo me primi, pa drugima prepričavam kako je razgovarao sa mnom?
+
+Zar je on Sokrat? Zar je Diogen, pa da njegova pohvala bude dokaz o meni?
+
+Zar sam se ugledao na njegovu narav? Nego mu prilazim samo dok igra traje i služim mu dok mi ne naređuje ništa bezumno ni protivno redu. Ali ako mi kaže: Idi po Leona Salaminjanina, reći ću mu: Traži drugoga; ja više ne igram.
+
+Vodite ga.
+
+Poći ću, još u okviru igre.
+
+Ali odseći će ti glavu.
+
+Zar će njegova glava zauvek ostati na ramenima, a vaše, koje mu se pokoravaju, neće biti odsečene?
+
+Ali bićeš bačen nepogreben.
+
+Ako sam ja leš, biću bačen. Ako sam nešto drugo osim leša, govori tačnije o stvari kako jeste i nemoj me plašiti.
+
+Takve stvari su strašne deci i bezumnima. Ali ako je neko jednom ušao u školu filozofa, a još ne zna šta je on sam, zaslužuje i da se boji i da laska kao što je laskao ranije, ako još nije naučio da nije ni meso, ni kosti, ni žile, nego ono što se njima služi, ono što njima upravlja i prati predstave.
+
+Ali, veli, ovakve reči čine ljude prezritelјima zakona.
+
+A koje reči više od ovih čine one koji ih prihvate poslušnima zakonima? Jer zakon nije ono što počiva na bezumniku.
+
+Pa ipak, pogledaj kako ih upravo ove reči pripremaju da se i prema takvima odnose kako treba: uče ih da se ni oko čega ne prepiru s njima u onome u čemu ih oni mogu nadjačati.
+
+Uče ih da ustupe telo, da ustupe imanje, da prepuste decu, roditelje i braću; da ustupe sve i sve ostave. Izuzimaju samo mnenja, koja je i Zevs hteo da svakome budu neotuđivo njegova.
+
+Kakvo je ovde bezakonje, kakvo bezumlje? Onde gde si ti jači i moćniji, ja ti ustupam. A onde gde sam ja jači, ti ustupi meni. Jer ja sam se za to starao, a ti nisi.
+
+Tebi je stalo kako ćeš stanovati u kući obloženoj mermerom, kako će ti služiti dečaci i ljudi sa kapama, kako ćeš nositi upadljivu odeću, koliko ćeš lovaca imati, koliko pevača uz kitaru i tragičkih glumaca.
+
+Zar se ja otimam za to? A je li tebi stalo do mnenja? Je li ti stalo do sopstvenog razuma? Znaš li od kojih je delova sastavljen, kako se povezuje, kakav mu je sklop, kakve moći ima i koje su?
+
+Zašto se onda ljutiš ako neko drugi u tome ima više od tebe, onaj koji se upravo time bavio?
+
+Ali to su najvažnije stvari.
+
+Pa ko te sprečava da se njima baviš i za njih staraš? Ko ima više mogućnosti za knjige, dokolicu i ljude od kojih može imati koristi?
+
+Samo se jednom okreni tome. Odvoji makar malo vremena za svoje vladajuće načelo. Razmotri šta je to što imaš i odakle je došlo — ono što se služi svim ostalim, što sve ostalo ispituje, bira i odbacuje.
+
+Ali dokle god se budeš bavio spoljašnjim stvarima, njih ćeš imati kao niko drugi, a ovo ćeš imati upravo onako kako sam hoćeš da ga imaš — prljavo i zapušteno.
+
+IV.8 — Ka onima koji prebrzo prisvajaju obličje filozofa
+
+STAROSLOVENSKI
+
+Николи же отъ общихъ о комь ни хвалите ни хѹлите · ни умѣніє ни неумѣніє ємѹ приписѹите · тако бо и отъ продръзости себе свободите и отъ зълонравіꙗ ·
+
+Сь борзо сѧ мꙑєть · Зълѣ ли ѹбо творить · Не вьсѧко ·
+
+Что же · Борзо сѧ мꙑєть ·
+
+Вьсѧ ли ѹбо добрѣ бꙑваѭть · Никако же · Нъ ꙗже отъ правꙑхъ мьнѣніи · добрѣ · ꙗже же отъ зълꙑихъ · зълѣ · Тꙑ же доньдѣже познаєши мьнѣніє отъ него же кто творить коєждо · ни хвали дѣла ни хѹли ·
+
+Мьнѣніє же отъ вънѣшьнихъ не ѹдобь сѫдить сѧ · Сь тектонъ єсть · Чего ради · Сѣкироѭ польꙀѹєть сѧ · И что отъ сего · Сь пѣвьць єсть · пѣєть бо · И что отъ сего · Сь любомѫдрьць єсть · Чего ради ·
+
+Власяницѫ бо имать и власꙑ · А проходьници что имѫть · Сего ради аще кто видить єдинаго отъ нихъ срамьно творѧща · абіє глаголєть · виждь что любомѫдрьць творить · Паче же отъ того самого имьже срамьно творить подобааше рещи · не любомѫдрьць єсть ·
+
+Аще бо се предъпоимъ и обѣтъ любомѫдрьца єсть · власяницѫ имѣти и власꙑ · добрѣ бꙑ глаголали · Аще ли паче оно · безъ съгрѣшеніꙗ бꙑти · чего ради понеже обѣта не съвръшаєть · имене єго не отъимѫть ·
+
+Тако бо и въ прочихъ умѣніихъ · Єгда кто видить зълѣ тешѫща · не глаголєть · каꙗ польза тектоньства · виждь тектоне кака зъла творѧть · нъ противѹ глаголєть · сь нѣсть тектонъ · зълѣ бо тешеть ·
+
+Тако же аще кого слꙑшить зълѣ поѭща · не глаголєть · виждь како пѣвьци поѭть · нъ паче · сь нѣсть пѣвьць ·
+
+О любомѫдріи же єдиномь се творѧть · єгда кого видѧть противѹ обѣтѹ любомѫдрьца творѧща · не имене єго лишаѭть · нъ положивъше ꙗко любомѫдрьць єсть · та же отъ самого дѣла ꙗко срамьно творить · приводѧть · ꙗко ничьтоже пользꙑ отъ мудролюбьства ·
+
+Что ѹбо вина · Ꙗко предъпоимъ тектоновъ почитаємъ · и пѣвьчиихъ · и тако же прочихъ умѣтель · любомѫдрьчь же ни · нъ понеже смѣшенъ и неразлѫченъ · тъкмо отъ вънѣшьнихъ сѫдимъ ·
+
+И кое ино умѣніє отъ образа и власъ познаєть сѧ · не ли и зрѣніꙗ имать и вещество и съвръхѫ ·
+
+Что ѹбо вещество любомѫдрьца · Єда власяница · Ни · нъ слово · Что съвръха · Єда власяницѫ носити · Ни · нъ право слово имѣти · Каꙗ зрѣніꙗ · Єда о томь како брада велика растеть или власꙑ длъгы · Нъ паче ꙗже Зенѡнъ глаголєть · познати съставꙑ слова · какъ кꙑждо ихъ єсть · како съкладаѭть сѧ дрѹгъ къ дрѹгѹ · и єлика имъ послѣдѹѭть ·
+
+Не хощеши ли ѹбо прѣжде видѣти · аще съвръшаєть обѣтъ · єгда срамьно творить · и тако умѣніє винити · Нꙑнѣ же самъ єгда цѣломѫдрьствѹєши · отъ тѣхъ ꙗже зълѣ творити ти мнить сѧ глаголєши · виждь любомѫдрьца · ꙗко не подобаєть любомѫдрьцемь звати творѧщаго си · и пакꙑ · се любомѫдрьць єсть ·
+
+Не глаголєши же · виждь тектона · єгда кого прѣлюбодѣѭща познаєши или обꙗдаѭща видиши · ни · виждь пѣвьца ·
+
+Тако до нѣкоє мѣрꙑ и самъ чюєши обѣтъ любомѫдрьца · нъ попълзаєши сѧ и смѣшаєши сѧ неѹпражнєніємь ·
+
+Нъ и сами нарицаємии любомѫдрьци отъ общихъ къ дѣлѹ приходѧть · абіє власяницѫ приѧтъше и брадѫ отпѹстивъше глаголѭть · азъ любомѫдрьць єсмь ·
+
+Никто же речеть · азъ пѣвьць єсмь · аще брѧцало и гѫслꙑ кѹпить · ни · азъ ковачь єсмь · аще клобѹкъ и прѣпоꙗсаніє възложить · нъ образъ къ умѣнію съкладаєть сѧ · име же отъ умѣніꙗ приемлѭть · а не отъ образа ·
+
+Сего ради добрѣ Єѵфратъ глаголаше · на много врѣмѧ покѹшахъ сѧ таити любомѫдрьствѹѧ · и се ми · глаголаше · пользьно бѣ ·
+
+Прѣжде бо вѣдѣахъ · ꙗко єлика добрѣ творѧхъ · не зрителеи ради творѧхъ · нъ себе ради · себѣ добрѣ ꙗдѣахъ · ѹстроєно имѣахъ възрѣніє и хожденіє · вьсѧ себѣ и Богѹ ·
+
+Та же ꙗкоже єдинъ подвизахъ сѧ · тако єдинъ и бѣдѹ приемлѧхъ · аще что срамьно или неподобьно творѧхъ · мудролюбьство не бѣ въ бѣдѣ · ни множьствѹ врѣждахъ ꙗкоже любомѫдрьць съгрѣшаѧ ·
+
+Сего ради не вѣдѹщии намѣреніꙗ моего чюждаахѫ сѧ · како съ вьсѣми любомѫдрьци обьходѧ и живꙑ · самъ не любомѫдрьствѹѭ ·
+
+И кое зло · отъ дѣлъ моихъ познавати любомѫдрьца · отъ знаменъ же ни · Смотри како ꙗмъ · како піѭ · како сплѭ · како тръплѭ · како въздръжѭ сѧ · како съдѣлаѭ · како желаніємь польꙀѹѭ сѧ · како ѹклоненіємь · како съхранꙗѭ природьнаꙗ и приложенаꙗ съвѧзаніꙗ несмѣшено и невъзбраньно · отъ сихъ сѫди мѧ · аще можеши ·
+
+Аще ли толико глѹхъ и слѣпъ єси · ꙗко ни Хефеста добра ковача мьниши · аще клобѹка на главѣ єго не видиши · кое зло отъ толико безѹмьна сѫдиѧ непознанѹ бꙑти ·
+
+Тако таꙗше сѧ отъ множаишихъ Сѡкратъ · и прихождахѫ къ немѹ просѧще да любомѫдрьцемъ ихъ прѣдъставить ·
+
+Єда ѹбо негодоваше ꙗкоже мꙑ и глаголаше · азъ ли тебѣ не кажѫ сѧ любомѫдрьць · Ни · нъ ведѧаше и прѣдъставлꙗаше · доволєнъ єдинѣмь · любомѫдрьцемь бꙑти · радѹѧ сѧ же ꙗко не мнѧщимъ єго любомѫдрьцемь не грꙑзаше сѧ · помьнѧше бо своє дѣло ·
+
+Кое дѣло добраго и благаго · Много ѹченикъ имѣти ли · Никако же · О сихъ да пекѫть сѧ имъ же се прилѣжить · Нъ трудьнаꙗ зрѣніꙗ точно познати ли · О сихъ пакꙑ инꙑ да зрѧть ·
+
+Къде ѹбо самъ нѣчто бѣ и хотѣаше бꙑти · Тамо идеже врѣдъ и польза · Аще кто · глаголєть · врѣдити мѧ можеть · ничьтоже творѭ · аще иного жьдѫ да мѧ пользѹєть · ничьтоже єсмь · Хощѫ нѣчто и не бꙑваєть · азъ злочѧстьнъ єсмь ·
+
+До сего поприща вьсѣхъ призꙑвааше · и никомѹ · мнѭ · не ѹстѫпилъ бꙑ · Како мьните · проповѣдаѧ и глаголѧ · азъ таковъ єсмь · Да не бѫдеть · нъ таковъ бꙑвъ ·
+
+Пакꙑ бо се безѹмьнаго и хвастѹна · Азъ бесстрастьнъ єсмь и безмѧтежьнъ · Не невѣдите · о чловѣци · ꙗко вамъ мѧтѹщимъ сѧ и смѫщаѭщимъ сѧ о ничьтоже достоиныхъ · азъ єдинъ отъ вьсѣкоѧ мѧтежи свободьнъ єсмь ·
+
+Тако ли ти не доволно ничьтоже болѣти · аще не проповѣси · съберѣте сѧ вьси подагроѭ болѧщии · главобольнии · огньничьнии · хромии · слѣпии · и видите мѧ отъ вьсѣкоѧ страсти здрава ·
+
+Се тъще и тѧжько · аще не ꙗкоже Асклепіи абіє показати можеши · како исцѣлѧєми и они безъ болѣзни бѫдѫть · и къ семѹ образъ приносиши своє здравіє ·
+
+
+SRPSKI
+
+IV.8 — Ka onima koji prebrzo prisvajaju obličje filozofa
+
+Nikada nikoga ne hvalite niti kudite prema onome što je spolja svima vidljivo, niti mu na osnovu toga pripisujte umeće ili neumeće; tako ćete se ujedno osloboditi i prenagljenosti i zlonamernosti.
+
+Ovaj se brzo kupa.
+
+Zar onda čini rđavo?
+
+Ne nužno.
+
+Nego šta?
+
+Brzo se kupa.
+
+Zar se onda sve čini dobro?
+
+Nipošto. Dobro je ono što potiče od pravih mnenja, a rđavo ono što potiče od rđavih. Ali ti, dok ne razaznaš mnenje iz kojega neko čini svako pojedino delo, nemoj delo ni hvaliti ni kuditi.
+
+A mnenje se ne može lako prosuditi po spoljašnjem.
+
+Ovaj je tesar.
+
+Zašto?
+
+Služi se sekirom.
+
+Pa šta?
+
+Ovaj je muzičar, jer peva.
+
+Pa šta?
+
+Ovaj je filozof.
+
+Zašto?
+
+Jer nosi grubi ogrtač i dugu kosu.
+
+A šta nose varalice koje tumaraju unaokolo? Zato, kad neko vidi nekoga od njih kako se sramno ponaša, odmah kaže: Gledaj šta radi filozof. A upravo po tome što se sramno ponaša trebalo bi pre reći da nije filozof.
+
+Jer ako je predpojam i obećanje filozofa da nosi grubi ogrtač i dugu kosu, dobro bi govorili. Ali ako je njegovo obećanje pre da bude bez greške, zašto mu, kad obećanje ne ispunjava, ne oduzimaju i samo ime?
+
+Tako postupamo u drugim umećima. Kad neko vidi čoveka kako rđavo teše, ne kaže: Kakva je korist od tesarstva? Gledaj kakva zla tesari čine. Nego upravo suprotno: Ovaj nije tesar, jer rđavo teše.
+
+Isto tako, ako čuje nekoga kako rđavo peva, ne kaže: Gledaj kako muzičari pevaju, nego pre: Ovaj nije muzičar.
+
+Samo sa filozofijom postupaju drukčije. Kad vide nekoga da čini nešto protivno obećanju filozofa, ne oduzimaju mu ime; nego najpre uzmu da je filozof, a zatim iz samoga njegovog sramnog dela izvode zaključak da od filozofiranja nema nikakve koristi.
+
+Šta je tome uzrok? To što čuvamo predpojam o tesaru, o muzičaru i isto tako o drugim umešnicima, ali ne i o filozofu; nego, pošto nam je taj predpojam zbrkan i nerazlučen, sudimo samo prema spoljašnjem.
+
+A koje se drugo umeće prepoznaje po odeći i kosi, a da nema i svoja motrenja, svoju građu i svoju svrhu?
+
+Šta je, dakle, građa filozofa? Zar ogrtač? Ne, nego razum. Šta mu je svrha? Zar nositi ogrtač? Ne, nego imati prav razum. Koja su njegova motrenja? Zar ona o tome kako izrasta velika brada ili duga kosa? Nego pre ono što Zenon govori: poznati sastojke razuma, kakav je svaki od njih, kako se međusobno sklapaju i šta iz toga sledi.
+
+Nećeš li, dakle, prvo pogledati ispunjava li on svoje obećanje kada se sramno ponaša, pa tek onda okriviti samo zanimanje? Sada pak, kada si sam razborit, na osnovu onoga što smatraš da čini rđavo govoriš: Gledaj filozofa — kao da onoga koji to čini uopšte valja nazivati filozofom — i opet: Eto ti filozofa.
+
+Ali kada saznaš da je neki tesar preljubnik ili ga vidiš kako se proždire hranom, ne kažeš: Gledaj tesara; niti: Gledaj muzičara.
+
+Tako i sam donekle osećaš šta je obećanje filozofa, ali zbog nevežbanja sklizneš i sve pobrkaš.
+
+Ali i sami takozvani filozofi polaze od onoga što je spoljašnje: čim uzmu grubi ogrtač i puste bradu, govore: Ja sam filozof.
+
+A niko neće reći: Ja sam muzičar, ako kupi trzalicu i kitaru; niti: Ja sam kovač, ako stavi kapu i kecelju. Nego se obličje prilagođava umeću, dok ime primaju od umeća, a ne od obličja.
+
+Zato je Eufrat lepo govorio: Dugo sam nastojao da prikrijem da filozofiram, i to mi je bilo korisno.
+
+Pre svega, znao sam da ono što činim dobro ne činim radi gledalaca, nego radi sebe. Za sebe sam pristojno jeo; pogled i hod držao sam sređenim; sve radi sebe i Boga.
+
+Zatim, kao što sam se sam borio, sam sam bio i u opasnosti. Ako bih učinio nešto sramno ili nedostojno, filozofija zbog toga nije dolazila na zao glas, niti sam grešeći kao filozof nanosio štetu mnoštvu.
+
+Zato su se oni koji nisu znali za moju nameru čudili kako se, družeći se i živeći sa samim filozofima, i sam ne bavim filozofijom.
+
+A kakvo je zlo bilo da filozofa u meni prepoznaju po onome što činim, a ne po znacima? Gledaj kako jedem, kako pijem, kako spavam, kako podnosim, kako se uzdržavam, kako sadejstvujem; kako se služim željom, kako uklanjanjem; kako čuvam prirodne i stečene odnose, bez zbrke i bez prepreke. Po tome mi sudi, ako možeš.
+
+Ako si pak toliko gluv i slep da ni Hefesta nećeš smatrati dobrim kovačem ako mu ne vidiš kapu na glavi, kakvo je zlo ostati nepoznat tako glupom sudiji?
+
+Tako je i Sokrat ostajao neprepoznat pred većinom, pa su mu dolazili ljudi moleći ga da ih preporuči filozofima.
+
+Zar se onda ljutio kao mi i govorio: Zar ti ja ne izgledam kao filozof? Ne. Nego ih je vodio i preporučivao, zadovoljan jednim — da jeste filozof; a radovao se i tome što ga ne smatraju filozofom i nije ga to grizlo. Jer je pamtio svoje delo.
+
+A šta je delo dobrog i valjanog čoveka? Imati mnogo učenika? Nipošto. Neka se za to staraju oni kojima je to važno. Pa možda tačno poznavati teška motrenja? Neka se i za to staraju drugi.
+
+Gde je onda on sam bio nešto i gde je hteo biti nešto? Onde gde su šteta i korist.
+
+Ako mi neko može nauditi, veli, onda ništa nisam postigao. Ako čekam drugoga da mi koristi, ništa nisam. Ako nešto hoću, a ono se ne događa, nesrećan sam.
+
+Na takvo je borilište izazivao svakoga i mislim da ni pred kim ne bi uzmakao. Šta mislite — tako što je objavljivao i govorio: Ja sam takav?
+
+Nipošto. Nego tako što je takav bio.
+
+Jer i ovo pripada bezumniku i hvalisavcu: Ja sam bestrasan i nepomućen. Znajte, ljudi: dok se vi vrtite i uznemiravate oko stvari koje ništa ne vrede, ja sam se jedini oslobodio svakoga nemira.
+
+Zar ti, dakle, nije dovoljno što ne patiš ako još ne možeš i da objaviš: Okupite se svi koji patite od podagre, glavobolje, groznice, svi hromi i slepi, pa pogledajte mene zdrava od svake strasti?
+
+To je prazno i razmetljivo, osim ako možeš, poput Asklepija, odmah pokazati kako će i oni, podvrgnuti lečenju, postati bez bolesti, pa kao dokaz tome prinosiš sopstveno zdravlje.
+
+IV.8 — Ka onima koji prebrzo prisvajaju obličje filozofa
+
+STAROSLOVENSKI
+
+Таковъ бо нѣкто єсть Кѵнікъ · жезла и вѣнца отъ Зевса сподоблєнъ · глаголє · да видите · о чловѣци · ꙗко благочѧстъ и безмѧтежіє не идеже сѫть ищете ·
+
+Нъ идеже нѣсѫть · се азъ вамъ образъ отъ Бога посъланъ · ни имѣніꙗ имѣѧ · ни домѹ · ни женꙑ · ни чѧдъ · ни постели · ни срачицѧ · ни съсѫда · и видите како здравъ єсмь · испꙑтаите мене и видите безмѧтежьна · слꙑшите врачеваніꙗ и ими же исцѣлѣхъ ·
+
+Се ѹже и чловѣколюбьно и благородьно ·
+
+Нъ виждите чьє се дѣло єсть · Зевсово · или того кого онъ достоина сѫдить такова слѹженіꙗ · да нигде ничьтоже предъ множьствомь обнажить · имь же само свидѣтельство своє · єже добродѣтели свидѣтельствѹєть и вънѣшьнимъ противѹсвидѣтельствѹєть · безсильно сътворить · ни лицемь поблѣднѣвъ · ни съ ланитъ слъзꙑ отьръвъ ·
+
+И не тъкмо се · нъ ни желаѭщъ чего · ни ищѫщъ чловѣка или мѣста или пребываніꙗ · ꙗкоже отрочѧта жатвꙑ или праздьника · стꙑдомъ вьсѫдѹ ѹкрашенъ · ꙗкоже инꙑ стѣнами и дверьми и вратарьми ·
+
+Нꙑнѣ же тъкмо мало подвигнѫвъше сѧ къ любомѫдрію · ꙗкоже зълостомашьнии къ брашнѹ · єже мало послѣ възненавидѣти имѫть · абіє къ жезлѹ · къ цѣсарьствѹ · Власꙑ отпѹсти · власяницѫ приѧтъ · рамо голо кажєть · ратѹєть съ срѣтаѭщими · аще ли кого въ плащи видить · и съ нимь ратѹєть ·
+
+Чловѣче · прѣжде зимѫ претръпи · виждь стремлєніє своє · да не зълостомашьнаго ли єсть · или женꙑ беременꙑѧ · Прѣжде наѹчи сѧ не познанѹ бꙑти · кто єси · мало врѣмѧ себѣ любомѫдрьствѹи ·
+
+Тако плодъ бꙑваєть · сѣмени подобаєть на врѣмѧ въ землѭ погребенѹ бꙑти · съкрꙑти сѧ · мало по малѹ възрасти · да плодъ съвръшить · Аще ли прѣжде колѣна класы изнесеть · несъвръшено єсть · отъ Адѡнієва ограда ·
+
+Таково растеніє и тꙑ єси · прѣжде врѣмене процвьлъ єси · зима тѧ попалить ·
+
+Виждь что землѥдѣлателє о сѣменехъ глаголѭть · єгда прѣжде врѣмене теплота бѫдеть · боѧть сѧ да сѣмена не избѫдѫть мѣрꙑ · та же єдинъ мразъ пришъдъ обличить ꙗ ·
+
+Виждь и тꙑ · чловѣче · избꙑлъ єси мѣрꙑ · въскочилъ єси въ мьнѣніє прѣжде врѣмене · мьниши сѧ нѣкто бꙑти · безѹмьнъ междѹ безѹмьнꙑими · измръзнеши · паче же ѹже измръзлъ єси въ корени долѣ · врьхѹ же єще мало цвьтеши · сего ради мьниши сѧ єще жити и цвьсти ·
+
+Остави насъ по природѣ съзрѣти · что насъ обнажаєши · что нѫдѧеши · єще не можемъ въздѹха носити · Остави корень възрасти · та же пръвое колѣно приѧти · та же второе · та же третие · и тако плодъ самъ природѫ понѫдить · аще и азъ не хощѫ ·
+
+Кто бо зачьнъ и наплъненъ толицѣми мьнѣніи не чюєть своєѧ ѹготовы · и къ подобаѭщимъ дѣломъ не стремить сѧ ·
+
+Волъ бо не невѣсть своєѧ природꙑ и ѹготовы · єгда звѣрь ꙗвитъ сѧ · ни жьдеть побѹждаѭщаго · ни пьсъ · єгда дивіє животно видить ·
+
+Азъ ли · аще добрꙑ мужь ѹготовѹ имамъ · жьдати имамъ да тꙑ мѧ къ своимъ дѣломъ ѹготовиши · Нꙑнѣ же єще не имамъ · повѣрь ми · Чего ради прѣжде врѣмене изсѹшити мѧ хощеши · ꙗкоже самъ изсъхлъ єси ·
+
+
+SRPSKI
+
+Takav je kinik koji je od Zevsa udostojen žezla i venca i koji govori: Da vidite, ljudi, da blagostanje i nepomućenost ne tražite onde gde jesu,
+
+nego onde gde nisu — evo mene, Bog me je poslao kao primer vama: nemam ni imanje, ni kuću, ni ženu, ni decu, ni postelju, ni košulju, ni posudu. Pa gledajte kako sam zdrav. Iskušajte me i videćete da sam nepomućen; poslušajte lekove i čime sam izlečen.
+
+To je već čovekoljubivo i plemenito.
+
+Ali gledajte čije je to delo: Zevsovo, ili onoga koga on oceni dostojnim takve službe; čoveka koji ni pred mnoštvom nigde neće razotkriti ništa čime bi sam poništio sopstveno svedočanstvo koje daje vrlini, a protiv spoljašnjih stvari — niti će pobledeti licem, niti brisati suze s obraza.
+
+I ne samo to: neće ni čeznuti niti tragati za čovekom, mestom ili načinom života, kao što deca iščekuju berbu ili praznike; svuda će biti ukrašen stidom, kao drugi zidovima, vratima i vratarima.
+
+A sada, tek što ih je nešto malo pokrenulo ka filozofiji, kao ljude rđava želuca ka kakvom jelu koje će im se malo potom zgaditi, odmah posežu za žezlom i kraljevstvom. Pustio je kosu, uzeo grubi ogrtač, pokazuje golo rame, svađa se sa svakim koga sretne; vidi li nekoga u ogrtaču, svađa se i s njim.
+
+Čoveče, prvo prezimi. Pogledaj kakvo je tvoje stremljenje: nije li kao u čoveka rđava želuca ili trudne žene? Najpre se vežbaj da ostaneš nepoznat. Saznaj ko si. Filozofiraj neko vreme za sebe.
+
+Tako nastaje plod: seme mora neko vreme biti ukopano u zemlju, sakriveno, pa malo-pomalo rasti da bi sazrelo. Ako izbaci klas pre nego što razvije kolence, nedovršeno je — biljka iz Adonisova vrta.
+
+Takva si biljčica i ti: procvetao si pre vremena; zima će te spržiti.
+
+Pogledaj šta ratari govore o semenu kad pre vremena nastupi toplota. Strepe da se usev ne razuzda, pa da ga zatim jedan mraz zatekne i razotkrije.
+
+Pazi i ti, čoveče: razuzdao si se, skočio na sitno mnenje o sebi pre vremena; misliš da si neko, budala među budalama. Smrznućeš se — zapravo, već si se smrznuo dole u korenu, dok ti vrh još malo cveta, pa ti se zato čini da još živiš i bujaš.
+
+Pusti nas da sazremo prema prirodi. Zašto nas razodevaš, zašto nas prisiljavaš? Još ne možemo podneti vazduh. Pusti koren da poraste, zatim da izbije prvo kolence, pa drugo, pa treće; tada će plod sam silom prirode izići, hteo ja ili ne.
+
+Jer ko je zatrudneo i ispunio se tolikim učenjima, a da ne oseća vlastitu spremnost i ne stremi delima koja joj odgovaraju?
+
+Bik ne ne zna svoju prirodu i spremnost kada se pojavi zver, niti čeka nekoga da ga podstakne; ni pas, kada ugleda neku divlju životinju.
+
+A ja, budem li imao spremnost valjana čoveka, zar ću čekati da me ti pripremiš za vlastita dela? Sada je još nemam, veruj mi. Zašto hoćeš da me isušiš pre vremena, kao što si se ti sam isušio?
+
+
+IV.9 — Ka onome koji je prešao u bestidnost
+
+STAROSLOVENSKI
+
+Єгда иного видиши властвѹѭща · противостави · ꙗко тꙑ имаши єже власти не трѣбовати · єгда иного богата · виждь что вмѣсто сего имаши ·
+
+Аще бо ничьтоже имаши вмѣсто того · окаꙗнъ єси · аще ли имаши єже богатъства не трѣбовати · вѣждь ꙗко вѧще имаши и много достоинаго ·
+
+Инъ женѫ краснѫ · тꙑ же єже не желати женꙑ краснꙑѧ · Мала ли ти си кажѫтъ сѧ · И колико бꙑ сами богатии и властвѹѭщии и съ краснꙑми женами живѫщии дали · да могуть богатъство и власти и самꙑхъ сихъ женъ презрѣти · ихъ же любѧть и имѫть ·
+
+Не вѣси ли какова жѧжда огньничьнаго · ничьтоже подобьна имать жѧждѣ здраваго · Онъ пивъ престанеть · сь же мало насладивъ сѧ · гнѹшати сѧ начьнеть · вода ємѹ въ жлъчь прѣвратитъ сѧ · блюєть · мѫчить сѧ · вѧще жѧждеть ·
+
+Таково єсть съ желаніємь богатити сѧ · съ желаніємь властвовати · съ желаніємь съ красноѭ женѫ спати · Зависть приложить сѧ · страхъ лишеніꙗ · срамьна словеса · срамьна помꙑшлєніꙗ · безобразьна дѣла ·
+
+И что · глаголєть · погѹблѭ · Чловѣче · стꙑдьнъ бѣ · нꙑнѣ же не єси · ничьтоже ли погѹбилъ єси · Вмѣсто Хрѵсіппа и Зенѡна Арістідѫ чьтеши и Єѵенѫ · ничьтоже ли погѹбилъ єси · Вмѣсто Сѡкрата и Діогена дивиши сѧ томѹ иже множаишѧ развратити и прѣльстити можеть ·
+
+Краснъ бꙑти хощеши · и твориши себе какова нѣси · ризѫ блѣщѫщѫ показати хощеши · да женꙑ обратиши къ себѣ · аще ли гдѣ мѵра обрѧщеши · блаженъ сѧ мьниши ·
+
+Прѣжде же ни помꙑшлꙗаше о сихъ · нъ · къде слово благообразьно · къде мужь достоинъ слова · къде помꙑслъ благородьнъ · Сего ради спаше ꙗкоже мужь · исходѧаше ꙗкоже мужь · ризѫ мужьскѫ носѧаше · словеса глаголаше добраго мужа достоина · та же ми глаголєши · ничьтоже погѹбихъ ·
+
+Тако ли чловѣци тъкмо сребро погѹблꙗѭть · стꙑдъ не погѹблꙗєть сѧ · благообразіє не погѹблꙗєть сѧ · или сихъ погѹбивъ не врѣждаєть сѧ ·
+
+Тебѣ ѹбо нꙑнѣ можеть бꙑти ничьтоже отъ сихъ къ томѹ врѣдъ кажєть сѧ · бѣ же врѣмѧ єгда се єдино врѣдомъ и пагѹбоѭ мьнѧаше · єгда трепеташе да кто тѧ отъ сихъ словесъ и дѣлъ не отрѧсетъ ·
+
+Се · отрѧсенъ єси · не инѣмь кѣмь · нъ собоѭ самимъ · Бори сѧ съ собоѭ · отъими себе пакꙑ къ благообразію · къ стꙑдѹ · къ свободѣ ·
+
+Аще кто тебѣ гдѣ о мнѣ глаголалъ бꙑ · ꙗко нѣкто мѧ нѫдить прѣлюбꙑ творити · ꙗко таковѫ ризѫ носити · ꙗко мѵромъ мазати сѧ · не отъшълъ ли бꙑ и своєѭ рѫкоѭ ѹбилъ сего чловѣка тако мѧ злѣ творѧща ·
+
+Нꙑнѣ ѹбо не хощеши ли себѣ помощи · И колико легъчаиши се помощь · Никого не подобаєть ѹбити · ни съвѧзати · ни досадити · ни на тръгъ изити · нъ самомѹ съ собоѭ глаголати · съ тѣмь иже паче вьсѣхъ тебѣ повинеть сѧ · къ немѹ же никто же тебѣ ѹвѣрьнѣи єсть ·
+
+Прѣжде ѹбо осѫди бꙑваѭщаꙗ · та же осѫдивъ не отчаи сѧ себе · ни постражди ꙗкоже неблагородьнии чловѣци · иже єдиноѭ подавъше сѧ · вьсѣмь себе предаѭть · и ꙗкоже потокомъ носими сѫть · нъ наѹчи сѧ отъ дѣтоѹчителеи ·
+
+Паде отрочѧ · Въстани · глаголєть · и пакꙑ бори сѧ · доньдѣже крѣпъкъ бѫдеши ·
+
+Тако и тꙑ постражди · Вѣждь бо · ничьтоже легъчаише єсть неже чловѣчьска дѹша · Тъкмо восхотѣти подобаєть · и бꙑсть · исправи сѧ · ꙗкоже пакꙑ мало задрѣмати · и погꙑбе · Изѫтрь бо єсть и пагѹба и помощь ·
+
+Что же ми добро ·
+
+И чего вѧщьшаго сего ищеши · Отъ бесстꙑдна стꙑдьнъ бѫдеши · отъ безчиньна ѹстроєнъ · отъ невѣрьна вѣрьнъ · отъ невъздръжна цѣломѫдрьнъ ·
+
+Аще ина вѧщьша сихъ ищеши · твори ꙗже твориши · ни єдинъ отъ богъ къ томѹ спасти тѧ можеть ·
+
+
+SRPSKI
+
+Kad vidiš drugoga na vlasti, nasuprot tome stavi da ti imaš to što ti vlast nije potrebna. Kad vidiš drugoga bogata, pogledaj šta ti imaš umesto toga.
+
+Jer ako nemaš ništa zauzvrat, jadan si; ali ako imaš to da ti bogatstvo nije potrebno, znaj da imaš više i nešto mnogo vrednije.
+
+Drugi ima lepu ženu, a ti to da ne žudiš za lepom ženom. Zar ti se to čini malim? Koliko bi upravo ti bogataši, vlastodršci i oni koji žive s lepim ženama dali da mogu prezirati bogatstvo, vlast i upravo te žene koje vole i koje imaju?
+
+Ne znaš li kakva je žeđ čoveka u groznici? Nema ničeg sličnog žeđi zdravoga čoveka. Zdrav popije i prestane da žeđa; ovaj se nakratko nasladi, pa mu se smuči, voda mu postane kao žuč, povraća, grči se i žeđa još jače.
+
+Takvo je bogatiti se sa žudnjom, vladati sa žudnjom, leći sa lepom ženom sa žudnjom: pridružuju se ljubomora, strah od gubitka, sramne reči, sramne pomisli, bezoblična dela.
+
+A šta, veli, gubim? Čoveče, bio si stidan, a sada više nisi. Zar nisi ništa izgubio? Umesto Hrisipa i Zenona čitaš Aristida i Evena — zar nisi ništa izgubio? Umesto Sokrata i Diogena diviš se onome koji je kadar da najviše žena iskvari i zavede.
+
+Hoćeš da budeš lep, pa sebe doteruješ iako nisi; hoćeš da pokazuješ sjajnu odeću kako bi privlačio žene, a ako negde naiđeš na kakav miris, misliš da si blažen.
+
+A ranije ti ništa od toga nije ni padalo na um, nego si tražio: gde je pristojan govor, gde čovek vredan pažnje, gde plemenita misao? Zato si spavao kao muškarac, izlazio kao muškarac, nosio mušku odeću, govorio reči koje dolikuju valjanom čoveku. I onda mi kažeš: Ništa nisam izgubio?
+
+Zar ljudi gube samo novac? Ne gubi li se stid? Ne gubi li se pristojnost? Zar čovek koji njih izgubi nije pretrpeo štetu?
+
+Tebi se sada možda više ništa od toga ne čini gubitkom. Ali bilo je vreme kada si samo to računao i u gubitak i u štetu, kada si strepeo da te neko ne izbaci iz takvih reči i dela.
+
+Evo, izbačen si — ne od nekoga drugog, nego od samoga sebe. Bori se sa sobom; povrati sebe pristojnosti, stidu i slobodi.
+
+Da ti je neko nekada o meni rekao da me neki čovek prisiljava na preljubu, da nosim takvu odeću ili da se mirišem, zar ne bi otišao i sopstvenom rukom napao čoveka koji sa mnom tako postupa?
+
+A sada nećeš pomoći samome sebi? I koliko je ova pomoć lakša: nikoga ne treba ubiti, ni vezati, ni vređati, niti izlaziti na trg; treba samo razgovarati sa samim sobom — sa onim koji će te najpre poslušati, jer nikome nisi ubedljiviji nego sebi.
+
+Najpre osudi ono što se događa; ali kada to osudiš, ne odustaj od sebe i ne čini kao neplemeniti ljudi koji, čim jednom popuste, predaju se sasvim i puste da ih struja odnese. Nego nauči od učitelja vežbanja dece.
+
+Dete je palo. Ustani, veli, i ponovo se rvi dok ne ojačaš.
+
+Tako učini i ti. Jer znaj da ništa nije podatnije od ljudske duše. Treba samo hteti — i već je postala ono što treba, već se ispravila. Kao što opet treba samo malo zadremati — i propala je. Jer i propast i pomoć dolaze iznutra.
+
+A kakvo dobro time dobijam?
+
+Šta veće od toga tražiš? Od bestidnoga postaćeš stidan, od neurednoga uredan, od nevernoga veran, od neuzdržanoga celomudren.
+
+Ako tražiš nešto veće od toga, nastavi da činiš ono što sada činiš: više te ni jedan od bogova ne može spasti.
+
+IV.10 — Šta treba prezirati i oko čega se truditi
+
+STAROSLOVENSKI
+
+Безысходъ вьсѣмъ чловѣкомъ о вънѣшьнихъ бꙑваєть · немощь о вънѣшьнихъ · Что сътворѭ · како бѫдеть · како изидеть · да не се приключить сѧ · да не оно ·
+
+Вьсѧ си словеса сѫть обращаѭщихъ сѧ о неволєвꙑхъ · Кто бо глаголєть · како не съизволѭ лъжнѹ · како не отъстѫплѭ отъ истины ·
+
+Аще кто толико доброродьнъ бѫдеть да о сихъ мѧтежить сѧ · помѧнѫ ємѹ · Чего ради мѧтеши сѧ · на тебѣ єсть · тврьдъ бѫди · не прѣжде природьнаго мѣрила приложеніꙗ въ съизволєніє въскочи ·
+
+Пакꙑ аще о желаніи мѧтежить сѧ · да не несъвръшено бѫдеть и промахьно · о ѹклоненіи же · да не въ оно въпадаєть · прѣжде цѣлѹѭ и · ꙗко оставивъ о нихъ же инꙑ мѧтѫть сѧ и страхꙑ ихъ · о своихъ дѣлѣхъ печєть сѧ · тамо идеже самъ єсть ·
+
+Та же рькѫ ємѹ · аще не хощеши желати и промахати · ни ѹклонꙗти сѧ и въпадати · ничьтоже чюжьде желаи · ни отъ чего же не на тебѣ сѫщаго ѹклонꙗи сѧ · аще ли ни · нѫжда и промахати и въпадати ·
+
+Кыи здѣ безысходъ · къде мѣсто имать · како бѫдеть · и како изидеть · и да не се или оно приключить сѧ ·
+
+Не ли нꙑнѣ исходимоє неволево єсть · Да · Сѫщьство же добра и зъла въ волевꙑхъ єсть · Да · Можеши ли ѹбо вьсѧкимь изходомь по природѣ польꙀовати сѧ · може ли кто възбранити тебѣ ·
+
+Никто же · Не глаголи ѹбо къ томѹ · како бѫдеть · ꙗкоже бо да бѫдеть · тꙑ оно красно положиши · и изходъ ти благослѹчаи бѫдеть ·
+
+Кыи бо Хераклъ бꙑлъ бꙑ глаголѧ · како да не великии лъвъ ꙗвитъ сѧ мнѣ · ни великии вепрь · ни звѣролични чловѣци · И что ти до того · Аще великии вепрь ꙗвитъ сѧ · вѧщьши подвигъ подвигнеши · аще зъли чловѣци · отъ зълꙑихъ вьселенѫ свободиши ·
+
+Аще ли тако ѹмрѫ · Добръ ѹмреши · благородьно дѣло съвръшаѧ · Понеже бо ѹмрѣти отънѫдъ подобаєть · нѫжда въ нѣкоемь дѣлѣ смрьти обрѣсти тѧ · или землѭ дѣлаѭща · или копаѭща · или трьгѹѭща · или консѹльствѹѭща · или желудъкомь болѧща · или теченіємь мѫчима ·
+
+Что ѹбо творѧ хощеши смрьти обрѣсти тѧ · Азъ · єлико до мене · нѣкое чловѣчьско дѣло творѧ · благотворьно · общепользьно · благородьно ·
+
+Аще ли не могу толико дѣло творѧ обрѣсти сѧ · понѣ оно невъзбраньно и даноє · себе исправлꙗѧ · силу ꙗвленіи польꙀовати сѧ съвръшаѧ · бесстрастиѥ дѣлаѧ · съвѧзаніємъ подобаѭщаꙗ въздаѧ · аще толико благослѹчьнъ бѫдѫ · и третиаго мѣста коснѫ сѧ · о тврьдости лѫченіи ·
+
+Аще съ сими смрьть мѧ обрѧщеть · доволно ми єсть · аще възмогѫ къ Богѹ рѫцѣ възвести и рещи · Ꙗже начѧтъкꙑ отъ тебе приѧхъ · да почюѭ строи твои и послѣдѹѭ ємѹ · сихъ не небрѣгохъ · не посрамихъ тебе · єлико до мене ·
+
+Се како чѹвьствы польꙀовахъ сѧ · се како предъпоимы · Єда когда тѧ похѹлихъ · єда о чемь бꙑвъшемь негодовахъ · или ино бꙑти восхотѣхъ · єда съвѧзаніꙗ прѣстѫпихъ ·
+
+За се ꙗко мѧ родилъ єси · благодарѭ · за ꙗже далъ єси · доньдѣже твоими польꙀовахъ сѧ · доволно ми єсть · Пакꙑ приими ꙗ и положи идеже хощеши · твоꙗ бо бѣахѫ вьсѧ · тꙑ ми ꙗ далъ єси ·
+
+Не доволно ли тако имѫщѹ изити · И кое житіє лѹчьше или благообразьнѣише такого · кыи коньць благочѧстьнѣиши ·
+
+Да же си бѫдѫть · не мала приѧти подобаєть · ни малꙑхъ лишити сѧ · Не можеши и консѹльствовати хотѣти и си · и нивꙑ имѣти прилѣжно и си · и о рабьцѣхъ пещи сѧ и о себѣ ·
+
+Аще что отъ чюжьдихъ хощеши · своꙗ погѹбилъ єси · Такова природа дѣла · ничьтоже даромъ бꙑваєть ·
+
+И что дивно · Аще консѹльствовати хощеши · не спати подобаєть · обѣгати · рѫцѣ цѣловати · ѹ чюжьдихъ дверии гнити · многа несвободьна глаголати · многа творити · многꙑмъ дарꙑ посылати · нѣкоторꙑмъ по вьсѧ дьни гостиньцꙑ · И что отъ сего бꙑваєть ·
+
+Дванадесѧть снопъ жезлъ · и трижды ли четырежды на сѫдилищи сѣдѣти · и игрища подати · и кошарами вечерѭ раздавати · или да покажеть кто что паче сихъ єсть ·
+
+За бесстрастиѥ ѹбо · за безмѧтежіє · за єже спѧ спати · бьдѧ бьдѣти · ничьтоже боꙗти сѧ · ни о чемь мѧтежити сѧ · ничьтоже погѹбити хощеши · ни потрудити сѧ ·
+
+Нъ аще что погꙑбнеть ти около сихъ дѣлъ · или зълѣ иждивить сѧ · или инъ ѹлѹчить єже тебѣ ѹлѹчити подобааше · абіє грꙑзенъ бѫдеши о бꙑвъшемь ·
+
+Не противоставиши ли · что вмѣсто чего приѥмлєши · колико вмѣсто колика · Нъ даромъ хощеши толика приѧти · и како можеши ·
+
+Дѣло за дѣло · Не можеши и вънѣшьнаꙗ добро съхранити и своє владꙑчьство · Аще она хощеши · се остави · аще ли ни · ни сего имѣти имаши ни онѣхъ · на обоє растѧгаємъ · Аще се хощеши · она оставити подобаєть ·
+
+Єлѣи излѣєть сѧ · съсѫдꙑ погꙑбнѫть · нъ азъ бесстрастьнъ бѫдѫ · Пожаръ бѫдеть менѣ не сѫщѹ · и кънигꙑ погꙑбнѫть · нъ азъ ꙗвленіи по природѣ польꙀовати сѧ бѫдѫ · Нъ не имамъ что ꙗсти ·
+
+Аще толико окаꙗнъ єсмь · пристанище ми смрьть · Се вьсѣмъ пристанище · смрьть · се прибѣжище · Сего ради ничьтоже отъ житіꙗ трудьно єсть ·
+
+Єгда хощеши · изиде и не кѫриши сѧ · Чего ѹбо мѧтеши сѧ · чего не спиши · Не ли абіє размꙑсливъ къде ти добро и зло єсть · рьцеши · Обоє на мнѣ єсть · ни сего кто отъимѫти можеть · ни онѣмь неволѧща обложити ·
+
+Что ѹбо не храплѭ повръгъ сѧ · моꙗ тврьдо имѫть сѧ · чюжьдаꙗ самъ да видить иже носить ихъ · ꙗкоже подаваѭть сѧ отъ властника ·
+
+Кто єсмь азъ · да хощѫ си тако или инако имѣти · Єда ми изьборъ ихъ данъ єсть · єда кто мене ихъ строителѧ сътвори · Доволно ми єсть надъ ими же власть имамъ · си подобаєть мнѣ красно съвръшити · прочаꙗ же ꙗкоже хощеть ихъ господинъ ·
+
+
+SRPSKI
+
+IV.10 — Šta treba prezirati i oko čega se truditi
+
+Svi ljudi zapadaju u bezizlaz i nemoć zbog spoljašnjih stvari: Šta ću učiniti? Kako će biti? Kako će se završiti? Samo da se ne dogodi ovo, samo da se ne dogodi ono.
+
+Sve su to reči ljudi koji se vrte oko onoga što ne zavisi od proizvoljenja. Jer ko govori: Kako da se ne saglasim s lažnim? Kako da ne odstupim od istinitog?
+
+Ako je neko toliko plemenite naravi da se zbog toga uznemirava, podsetiću ga: Zašto se uznemiravaš? Do tebe je. Budi spokojan. Nemoj srljati u saglašavanje pre nego što primeniš prirodno merilo.
+
+Ako se opet uznemirava zbog želje, da ona ne ostane neispunjena i ne promašuje, ili zbog uklanjanja, da ne upada upravo u ono od čega se uklanja, najpre bih ga izljubio zato što je ostavio ono oko čega drugi strepe i njihove strahove, pa se stara o vlastitim delima, onde gde je on sam.
+
+Zatim bih mu rekao: Ako ne želiš da želiš promašujući niti da se uklanjaš upadajući u ono od čega bežiš, ne želi ništa tuđe i ne uklanjaj se ni od čega što nije do tebe. Inače nužno moraš i promašivati i upadati.
+
+Kakav ovde još postoji bezizlaz? Gde ima mesta za: Kako će biti? Kako će se završiti? Samo da se ne dogodi ovo ili ono?
+
+Nije li ono što će se dogoditi izvan proizvoljenja?
+
+Da.
+
+A suštastvo dobra i zla nalazi se u onome što pripada proizvoljenju?
+
+Da.
+
+Možeš li se, dakle, svakim ishodom poslužiti prema prirodi? Može li te neko sprečiti?
+
+Niko.
+
+Onda mi više ne govori: Kako će biti? Jer kako god bude, ti ćeš to lepo postaviti i sam će ti ishod postati dobra sreća.
+
+Kakav bi bio Herakle kada bi govorio: Kako da mi se ne pojavi veliki lav, ni veliki vepar, ni zveroliki ljudi? A šta te briga? Ako se pojavi veliki vepar, veći ćeš podvig izvršiti; ako se pojave rđavi ljudi, oslobodićeš vaseljenu od rđavih.
+
+A ako tako umrem?
+
+Umrećeš kao dobar čovek, dovršavajući plemenito delo. Jer pošto svakako moraš umreti, nužno je da te smrt zatekne dok nešto činiš: dok obrađuješ zemlju, kopaš, trguješ, obavljaš konzulat, patiš od lošeg varenja ili od proliva.
+
+Šta, dakle, želiš da činiš kada te smrt zatekne? Ja bih, koliko do mene stoji, voleo da činim neko čovečansko, dobročiniteljsko, opštekorisno i plemenito delo.
+
+Ako me pak ne može zateći dok činim nešto toliko veliko, neka me zatekne bar u onome što je nesprečivo i što mi je dato: kako ispravljam samoga sebe, usavršavam moć služenja predstavama, izgrađujem bestrašće i odnosima vraćam ono što im pripada; a ako sam toliko srećan, neka me zatekne kako dotičem i treće područje — sigurnost odluka.
+
+Ako me smrt zatekne pri tome, dovoljno mi je ako budem mogao podići ruke ka Bogu i reći: Počela koja sam od tebe primio da bih osetio tvoj ustroj i sledio ga nisam zanemario; koliko je bilo do mene, nisam te osramotio.
+
+Evo kako sam se služio čulima, evo kako predpojmovima. Jesam li te ikada korio? Jesam li negodovao zbog ičega što se zbilo ili hteo da bude drukčije? Jesam li prestupio svoje odnose?
+
+Hvala ti što si me rodio, hvala za ono što si dao. Dovoljno mi je koliko sam se služio tvojim. Uzmi ih sada nazad i rasporedi gde hoćeš. Sve je bilo tvoje; ti si mi sve dao.
+
+Nije li dovoljno otići tako? Koji je život bolji ili dostojniji od života čoveka koji tako stoji, i koji završetak blaženiji?
+
+Ali da bi se to postiglo, ne treba prihvatiti male stvari niti pristati na male gubitke. Ne možeš ujedno hteti konzulat i ovo; starati se o njivama i o ovome; brinuti se o svojim robljem i o samome sebi.
+
+Ako hoćeš nešto od tuđega, ono što je tvoje propada. Takva je priroda stvari: ništa se ne dobija badava.
+
+I šta je tu čudno? Ako hoćeš da budeš konzul, moraš bdeti, juriti unaokolo, ljubiti ruke, trunuti pred tuđim vratima, govoriti i činiti mnogo nedostojno slobodnog čoveka, slati darove mnogima, a ponekom svakoga dana poklone. I šta na kraju dobijaš?
+
+Dvanaest svežnjeva pruća, tri ili četiri sedenja na sudijskoj stolici, priređivanje igara i gozbe koje deliš u korpama. Ili neka mi neko pokaže šta tu još ima.
+
+A za bestrašće, nepomućenost, za to da spavajući zaista spavaš, a budan budeš budan, da se ničega ne bojiš i ni zbog čega ne strepiš — zar nećeš ništa potrošiti, ništa pretrpeti?
+
+Ali ako ti se, dok radiš na tome, nešto izgubi, ili bude uzalud potrošeno, ili neko drugi dobije ono što si ti mogao dobiti, zar ćeš odmah biti izjeden zbog toga što se dogodilo?
+
+Nećeš li suprotstaviti jedno drugome: šta dobijaš za šta, koliko za koliko? Hoćeš li tako velike stvari dobiti badava? Kako bi to bilo moguće?
+
+Delo za delo. Ne možeš ujedno brižno čuvati spoljašnje stvari i vlastito vladajuće načelo. Ako hoćeš ono, ostavi ovo; ako nećeš, nećeš imati ni ovo ni ono, jer ćeš biti rastrzan između oboga. Ako hoćeš ovo, moraš pustiti ono.
+
+Prosipaće se ulje, propadaće posuđe, ali ja ću biti bestrasan. Izbiće požar dok me nema i izgoreće knjige, ali ja ću se predstavama služiti prema prirodi. Ali neću imati šta jesti.
+
+Ako sam dotle jadan, smrt mi je pristanište. To je pristanište svima — smrt; to je pribeg. Zato ništa u životu nije nesnosno.
+
+Kad god hoćeš, izašao si i više se ne gušiš u dimu. Zašto onda strepiš, zašto bdiš? Zar nećeš odmah, razmislivši gde su tvoje dobro i zlo, reći: Oboje je do mene; niko mi jedno ne može oduzeti niti mi drugo protiv moje volje nametnuti.
+
+Zašto onda ne legnem i zahrčem? Ono što je moje bezbedno je. A tuđe neka gleda onaj ko ga nosi, onako kako mu ga daje onaj koji nad njim ima vlast.
+
+Ko sam ja da hoću da te stvari budu ovako ili onako? Zar mi je dat njihov izbor? Zar me je iko postavio za njihova upravitelja? Dovoljno mi je ono nad čim imam vlast. To treba da uredim najlepše što mogu, a ostalo neka bude kako hoće njegov gospodar.
+
+IV.10 — Šta treba prezirati i oko čega se truditi
+
+STAROSLOVENSKI
+
+Си кто прѣдъ очима имѣѧ · бьдить ли и семо и овамо обращаѥть сѧ · что хотѧ или чего желаѧ · Патрокла ли · Антілоха ли · Менелаа ли · Къгда бо нѣкого отъ дрѹгъ бесмрьтьна мьнѧше · къгда же не имѣаше прѣдъ очима · ꙗко ѹтрѣ или по третиемь дьни или самомѹ ѹмрѣти подобаєть или ономѹ ·
+
+Да · глаголєть · нъ мьнѣхъ ꙗко онъ прѣживеть мене и възрастить ми сꙑна ·
+
+Безѹмьнъ бо бѣ єси · и неизвѣстьнаꙗ мьнѣаше · Чего ради ѹбо не себе виниши · нъ сѣдиши плачѧ ꙗкоже дѣвицѧ ·
+
+Нъ онъ ми брашно предлагааше ·
+
+Живъ бо бѣ · о безѹмьне · нꙑнѣ же не можеть · Нъ Автомедѡнъ ти предложить · аще ли и Автомедѡнъ ѹмрєть · иного обрѧщеши ·
+
+Аще же котьлъ въ немь же ти мѧсо варꙗаше сѧ съкроушить сѧ · гладомъ ли ѹмрѣти ти подобаєть · ꙗко обꙑчьнаго котьла не имаши · Не посълеши ли и инъ новъ кѹпити ·
+
+Нѣсть бо · глаголєть · иного зъла вѧщьшаго єже постраждѫ ·
+
+Се ли ти зло єсть · и та же оставивъ се изѧти · матерь виниши · ꙗко ти прѣжде не рече · да отъ того врѣмене болѧ непрѣстанно живеши ·
+
+Что мьните · не нарочито ли Омиръ си съложи · да видимъ · ꙗко благородьнѣишии · силънѣишии · богатѣишии · краснѣишии · аще подобаѭщихъ мьнѣніи не имѫть · ничьтоже възбранꙗєть имъ злочѧстьнѣишимъ и несрѣтьнѣишимъ бꙑти ·
+
+
+SRPSKI
+
+Ko ovo drži pred očima, zar će bdeti i prevrtati se tamo-amo? Šta bi hteo, za čim bi žudeo? Za Patroklom, Antilohom ili Menelajem? Kada je uopšte smatrao nekoga od svojih prijatelja besmrtnim? Kada mu nije bilo pred očima da već sutra ili prekosutra mora umreti ili on sam ili njegov prijatelj?
+
+Da, veli, ali mislio sam da će me on nadživeti i odgajiti mi sina.
+
+Bio si, dakle, bezuman i računao na neizvesno. Zašto onda ne okrivljuješ sebe, nego sediš i plačeš kao devojčica?
+
+Ali on mi je pripremao jelo.
+
+Jer je bio živ, bezumniče; sada više ne može. Ali Automedont će ti pripremati. Ako i Automedont umre, naći ćeš drugoga.
+
+A ako se razbije lonac u kojem ti se kuvalo meso, treba li da umreš od gladi zato što više nemaš lonac na koji si navikao? Zar nećeš poslati po drugi i kupiti nov?
+
+Nema, veli, ništa gore što bih mogao pretrpeti.
+
+Zar je to tvoje zlo? I onda, umesto da njega ukloniš, okrivljuješ majku što ti nije unapred kazala, kako bi otada mogao neprestano živeti u bolu?
+
+Šta mislite? Nije li Homer namerno sastavio ove prizore da bismo videli kako ni najplemenitiji, ni najsilniji, ni najbogatiji, ni najlepši ljudi, ako nemaju mnenja kakva treba, nisu sprečeni da budu najjadniji i najnesrećniji?
+
+
+IV.11 — O čistoti
+
+STAROSLOVENSKI
+
+Нѣции прѣпираѭть сѧ · аще въ природѣ чловѣчьстѣи общьность єсть · обаче тии же · мнѭ · не прѣпирали бꙑ сѧ · ꙗко чистота вьсѧко въ неи єсть · и аще чимь инѣмь · симь чловѣкъ отъ животнꙑхъ различаєть сѧ ·
+
+Єгда ѹбо видимъ ино животно себе чистѧще · чюдѧще сѧ обꙑкохомъ рещи · ꙗкоже чловѣкъ · И пакꙑ аще кто животно винить · абіє ꙗкоже отъвѣщаѭще глаголємъ · нѣсть бо чловѣкъ ·
+
+Тако нѣчто избрано о чловѣцѣ мьнимъ · пръвѣе отъ богъ се приемлѭще · Понеже бо они природою чисти и нескврьнени · єлико чловѣци приближиша сѧ имъ по словѹ · толико же и чистотꙑ и чищеніꙗ дръжатъ сѧ ·
+
+Понеже же неможьно сѫщьствѹ ихъ до конца чистѹ бꙑти · отъ такова вещества смѣшенѹ сѫщѹ · слово приѧто єсть · да по можьномѹ чисто є творити покѹшаєть сѧ ·
+
+Пръва ѹбо и вꙑшьнѧ чистота · ꙗже въ дѹши бꙑваєть · тако же и нечистота · Нечистотꙑ же дѹшѧ ꙗкоже тѣла не обрѧщеши · ꙗкоже же дѹшѧ · что ино обрѧщеши · развѣ оно єже ѭ скврьнѹ творить къ своимъ дѣломъ ·
+
+Дѣла же дѹшѧ · стремити · отъстѫпати · желати · ѹклонꙗти сѧ · ѹготовлꙗти сѧ · намѣрѧти сѧ · съизволити ·
+
+Что ѹбо єсть · єже въ сихъ дѣлѣхъ скврьнѹ и нечистѹ ѭ творить · Ничьтоже ино развѣ зълаѧ лѫченіꙗ єѧ ·
+
+Тако ѹбо нечистота дѹшѧ · зълаꙗ мьнѣніꙗ · чищеніє же · подобаѭщихъ мьнѣніи въложеніє · Чиста же єсть имѫщии подобаѭщаꙗ мьнѣніꙗ · си бо єдина въ своихъ дѣлѣхъ несмѣшена и нескврьнена ·
+
+Подобьно же семѹ и о тѣлѣ по силѣ прилѣжати подобаєть · Неможьно бѣ · таково смѣшеніє чловѣкѹ имѫщѹ · да сльзь не течеть изъ ноздрии · Сего ради природа рѫцѣ сътвори · и самꙑ ноздри ꙗкоже трѫбꙑ · да влагѫ износлѧть · Аще ѹбо кто ѭ въсръблєть · глаголѭ ꙗко не чловѣчьско дѣло творить ·
+
+Неможьно бѣ ногама не калѧти сѧ · ни отънѫдъ не скврьнити сѧ · по таковꙑимъ мѣстомъ ходѧщимъ · Сего ради водѫ ѹготови природа · сего ради рѫцѣ ·
+
+Неможьно бѣ отъ ꙗденіꙗ ничьтоже скврьно зѫбомъ не прилѣпити сѧ · Сего ради · измꙑи · глаголєть · зѫбꙑ · Чего ради · Да чловѣкъ бѫдеши · а не звѣрь ни свиніѧ ·
+
+Неможьно бѣ отъ пота и стѣсненіꙗ ризъ ничьтоже около тѣла скврьно оставати · еже чищеніꙗ трѣбѹєть · Сего ради вода · єлѣи · рѫцѣ · платъно · скребло · селитра · и иногда вьсѧ прочаꙗ ѹготова къ очищенію тѣла ·
+
+Не ли ковачь желѣзо очищаєть и орудїа къ семѹ ѹготовлєна имать · и самъ дъскѫ измꙑєши · єгда ꙗсти хощеши · аще не до конца нечистъ и скврьнъ єси · тѣло же своє не измꙑєши · ни чисто сътвориши ·
+
+Чего ради · глаголєть ·
+
+Пакꙑ рькѫ ти · пръвѣе да чловѣчьска дѣла твориши · та же да не стѫжаєши срѣтаѭщимъ ·
+
+Таково нѣчто и здѣ твориши и не чюєши · Самого себе достоина мьниши смрьдѣти · бѫди · достоинъ бѫди · Нъ єда и сѣдѧщихъ при тебѣ · єда и възлежѧщихъ съ тобоѭ · єда и цѣлѹѭщихъ тѧ ·
+
+
+SRPSKI
+
+IV.11 — O čistoti
+
+Neki se prepiru oko toga da li društvenost pripada čovekovoj prirodi; ipak, mislim da se ni oni ne bi prepirali da čistota svakako pripada toj prirodi i da se čovek, ako se ičim drugim, upravo njome razlikuje od životinja.
+
+Zato, kada vidimo neku drugu životinju kako se sama čisti, obično začuđeno kažemo: Kao čovek. A kada neko kori neku životinju zbog nečistoće, odmah je, kao braneći je, pravdamo: Pa nije čovek.
+
+Toliko osobitim smatramo nešto u čoveku, primajući to najpre od bogova. Jer pošto su oni po prirodi čisti i neokaljani, koliko su im se ljudi približili po razumu, toliko se drže i čistote i očišćenja.
+
+Ali pošto nije moguće da njihovo suštastvo bude sasvim čisto, jer je pomešano s takvom građom, razum je dat da tu građu, koliko je moguće, nastoji učiniti čistom.
+
+Prva, dakle, i najviša čistota jeste ona koja nastaje u duši, a isto tako i nečistota. Nečistotu duše nećeš naći onako kako nalaziš nečistotu tela; ali kao nečistotu duše šta bi drugo našao nego ono što je čini prljavom u njenim vlastitim delima?
+
+A dela duše jesu: stremiti, odstupati, želeti, uklanjati se, pripremati se, nameravati i saglašavati se.
+
+Šta je, dakle, ono što je u tim delima čini prljavom i nečistom? Ništa drugo nego njena rđava odlučenja.
+
+Prema tome, nečistota duše jesu rđava mnenja, a očišćenje usađivanje mnenja kakva treba imati. Čista je ona duša koja ima prava mnenja; samo ona u svojim delima ostaje nepomešana i neokaljana.
+
+Nešto tome slično treba, koliko je moguće, brižljivo činiti i s telom. Nije moguće da čoveku, pri ovakvom telesnom sastavu, iz nosa ništa ne teče. Zato je priroda načinila ruke, a same nozdrve kao cevi kroz koje se izbacuje vlaga. Ako je neko uvlači natrag, kažem da ne čini čovečansko delo.
+
+Nije moguće da se noge ne ukaljaju i uopšte ne zaprljaju hodajući po takvim mestima. Zato je priroda dala vodu, zato ruke.
+
+Nije moguće da posle jela nešto nečisto ne ostane na zubima. Zato kaže: Peri zube. Zašto? Da budeš čovek, a ne zver ili svinjče.
+
+Nije moguće da od znoja i stegnutosti odećom na telu ne ostane nešto prljavo što treba očistiti. Zato postoje voda, ulje, ruke, platno, strugač, salitra i, kada zatreba, sva ostala sredstva za čišćenje tela.
+
+Neće, dakle, biti tako da kovač čisti železo i ima alat spremljen za to, i da ti sam pereš tanjir kada nameravaš jesti, ako nisi sasvim nečist i prljav — a da svoje telo nećeš oprati niti ga učiniti čistim.
+
+Zašto? veli.
+
+Ponovo ću ti reći: najpre zato da činiš ono što priliči čoveku, a zatim da ne budeš neprijatan ljudima koje susrećeš.
+
+A upravo nešto takvo činiš sada, a ne primećuješ. Smatraš da ti dolikuje da zaudaraš. Dobro, neka ti dolikuje. Ali zar to dolikuje i onima koji sede kraj tebe, onima koji leže s tobom za stolom i onima koji te ljube?
+
+IV.11 — O čistoti
+
+STAROSLOVENSKI
+
+Или отъиди въ пѹстꙑнѭ нѣкѫѭ · єѧ же достоинъ єси · и єдинъ живи самъ себе смръдѧ · правьдьно бо єсть · да нечистотꙑ своєѧ тꙑ єдинъ насладиши сѧ · Въ градѣ же сꙑи · тако безъ смотрєніꙗ и безъ разѹма жити · кого дѣло тебѣ кажєть сѧ ·
+
+Аще конь ти природа повѣрила бꙑ · презрѣлъ ли бꙑ єго небрежена · Тако и нꙑнѣ мьни · ꙗко тѣло твоє ꙗкоже конь тебѣ повѣрено єсть · измꙑи є · очисти · сътвори да никто же отъ тебе не отъвраштатъ сѧ · ни ѹклонꙗєть сѧ ·
+
+Кто бо не ѹклонить сѧ отъ чловѣка скврьна · смръдѧща · зъла образомъ · паче неже отъ ѹнавожена · Онъ бо смрадъ вънѣшьнъ єсть и приложенъ · сь же отъ небреженіꙗ изъноутрь · ꙗкоже отъ гниеніꙗ ·
+
+Нъ Сѡкратъ рѣдъко мꙑвааше сѧ ·
+
+Нъ тѣло єго блисташе · и толико бѣ приятно и сладъко · ꙗко краснѣишии и благородьнѣишии люблꙗахѫ єго · и желаахѫ при немь възлежати паче неже при краснѣишиихъ · Можаше онъ ни мꙑти сѧ ни омывати сѧ · аще хотѣаше · обаче и оно рѣдъко силу имѣаше · Аще теплѫ не хощеши · студеноѭ ·
+
+Нъ Аристофанъ глаголєть · блѣднꙑѧ · босꙑѧ глаголѭ ·
+
+Глаголєть бо и ꙗко по въздѹхѹ ходить · и изъ борилища ризꙑ крадеть ·
+
+Обаче вьси писавъшии о Сѡкратѣ противьна симъ о немь свидѣтельствѹѭть · ꙗко сладъкъ бѣ не тъкмо слꙑшати · нъ и видѣти · И о Діогенѣ пакꙑ тажде пишѫть ·
+
+Не подобаєть бо ни образомъ тѣла множьство отъ мудролюбьства отъгонити · нъ ꙗкоже въ прочихъ · тако и тѣломь показовати себе благодѹшьна и безмѧтежьна ·
+
+Видите · о чловѣци · ꙗко ничьтоже имамъ · ничьтоже ми трѣбѹєть · Видите како безъ домѹ сꙑи · безъ града · изгнаньникъ · аще тако приключить сѧ · безъ огнища · паче вьсѣхъ благородьнꙑихъ и богатꙑихъ безмѧтежьнѣише и благотечьнѣише живѫ · Видите же и тѣло · ꙗко не врѣдить сѧ отъ строгаго житіꙗ ·
+
+Аще же кто си глаголєть ми · образъ и лице осѫждена чловѣка имꙑ · кыи отъ богъ ѹвѣрить мѧ къ мудролюбьствѹ приступити · єже таковꙑѧ творить · Да не бѫдеть · ни аще мѫдръ бꙑти имѣахъ · не восхотѣлъ бꙑхъ ·
+
+Азъ же · богꙑ свидѣтельствѹѭ · юношѫ пръвѣе подвизаѭща сѧ паче хощѫ къ мнѣ пришъдъша съ власꙑ ѹстроєнꙑими · неже изсъхша и скврьна · Видить бо сѧ въ ономь нѣкоє ꙗвленіє краснаго · и желаніє благообразьнаго · идеже же мьнить красноє бꙑти · тамо и прилѣжить ·
+
+Прочеє тъкмо показати ємѹ подобаєть и рещи · Юноше · краснаго ищеши · и добрѣ твориши · Вѣждь ѹбо · ꙗко тамо растеть · идеже слово имаши · тамо є ищи · идеже стремлєніꙗ и отъстѫплєніꙗ · идеже желаніꙗ и ѹклоненіꙗ ·
+
+Се бо избрано въ себѣ имаши · тѣло же природою бръніє єсть · Что всѹє о немь трудиши сѧ · Аще ничьтоже ино · врѣменемь познаєши ꙗко ничьтоже єсть ·
+
+Аще же къ мнѣ придеть ѹнавоженъ · скврьнъ · бръкы до колѣнъ имꙑ · что имамъ ємѹ рещи · отъ коеѧ подобьности єго привести ·
+
+О чемь бо прилѣжалъ єсть подобьномь красномѹ · да єго прѣставлѭ и рькѫ · не здѣ красноє єсть · нъ здѣ · Хощеши ли да рькѫ ємѹ · не въ ѹнавоженіи красноє єсть · нъ въ словѣ ·
+
+Желаєть ли бо краснаго · имать ли нѣкое ꙗвленіє єго · Иди и съ свиніѥѭ разговараи · да сѧ въ калѣ не валꙗєть ·
+
+Сего ради и Полемона коснѫша сѧ словеса Ксенократова · ꙗкоже юношѧ красолюбьна · въниде бо имꙑ начѧтъкꙑ прилѣжаніꙗ о красномь · нъ иньдѣ є искааше ·
+
+Понеже ни животнꙑхъ съ чловѣкꙑ живѫщиихъ природа скврьна не сътвори · Єда конь въ калѣ валꙗєть сѧ · єда добръ пьсъ · Нъ свиніѧ · и гнилаꙗ гѫсѧта · и чръви · и паѫци · ꙗже наидалѣ отъ чловѣчьскаго съжитіꙗ отъгънана сѫть ·
+
+Тꙑ ѹбо чловѣкъ сꙑи · ни животно отъ съ чловѣкꙑ живѫщиихъ бꙑти хощеши · нъ паче чръвь или паѫкъ · Не измꙑєши ли сѧ когда · ꙗкоже хощеши · не омоєши ли себе · не придеши ли чистъ · да радѹѭть сѧ съ тобоѭ сѫщии ·
+
+Нъ и въ свѧтилища съ нами въходиши таковъ · идеже ни плювати ни носа очищати обꙑчаи єсть · вьсь самъ плюновеніє и сльзь бꙑвъ ·
+
+Что ѹбо · красити ли сѧ подобаєть · Да не бѫдеть · развѣ оно єже природою єсмꙑ · слово · мьнѣніꙗ · дѣла · тѣло же до чистотꙑ · до того да не стѫжитъ ·
+
+Нъ аще слꙑшиши · ꙗко чръвлєна носити не подобаєть · отидъ ѹнавози власяницѫ своѭ или раздьри ѭ ·
+
+Нъ отъкѫдѹ имамъ добрѫ власяницѫ ·
+
+Чловѣче · водѫ имаши · измꙑи ѭ ·
+
+Се юноша любви достоинъ · се старьць достоинъ любити и любимѹ бꙑти · ємѹ же кто сꙑна своего предасть · [текстъ погꙑблъ] · ємѹ же дъщери · ємѹ же юношѧ приступѧть · аще тако приключить сѧ · да въ гноищи ѹчениꙗ творить ·
+
+Да не бѫдеть · Вьсѣко бо отъвращеніє отъ нѣкоего чловѣчьскаго дѣла бꙑваєть · се же близъ єсть єже не чловѣчьско бꙑти ·
+
+
+SRPSKI
+
+Ili idi nekuda u pustinju, koje si dostojan, pa živi sam i zaudaraj samome sebi. Pravedno je da jedino ti uživaš u svojoj nečistoti. Ali živeti u gradu i tako se bezobzirno i nerazumno ophoditi — čijim ti se to delom čini?
+
+Da ti je priroda poverila konja, zar bi ga pustio da bude zapušten? I sada smatraj da ti je telo povereno kao konj: peri ga, očisti ga i učini takvim da se niko od tebe ne odvraća niti sklanja.
+
+A ko se neće skloniti od prljava čoveka koji zaudara i rđavo izgleda, pre nego od čoveka uprljanog balegom? Onaj je smrad spoljašnji i nanesen; ovaj od zapuštenosti dolazi iznutra, kao od nečega što je istrulelo.
+
+Ali Sokrat se retko kupao.
+
+Ali njegovo je telo blistalo i bilo je tako prijatno i milo da su se najlepši i najplemenitiji zaljubljivali u njega i želeli da leže kraj njega pre nego kraj najlepših. Mogao je, da je hteo, i da se ne kupa i ne pere; mada je i ono retko imalo svoje dejstvo. Ako nećeš toplom vodom, onda hladnom.
+
+Ali Aristofan govori: Mislim na blede, na bose.
+
+Pa govori i da Sokrat hoda po vazduhu i krade ogrtače iz vežbališta.
+
+Međutim, svi koji su pisali o Sokratu svedoče upravo suprotno: da ga je bilo prijatno ne samo slušati nego i gledati. Isto pišu i o Diogenu.
+
+Jer ni telesnom pojavom ne treba odbijati mnoštvo od filozofije, nego kao i u svemu ostalom, tako i telom treba pokazivati sebe vedrim i nepomućenim.
+
+Gledajte, ljudi: ništa nemam, ništa mi nije potrebno. Gledajte kako bez kuće, bez grada, kao prognanik ako tako dopadne, bez ognjišta, živim nepomućenije i blagotečnije od svih plemenitih i bogatih. A vidite i da mi telo ne strada od strogog načina života.
+
+Ali ako mi to govori neko ko ima izgled i lice osuđenika, koji bi me od bogova mogao uveriti da pristupim filozofiji koja ljude čini takvima? Nipošto. Ne bih to hteo ni kada bih tako mogao postati mudar.
+
+Bogovi mi svedoci, više volim da mi mladić koji se prvi put pokrenuo ka filozofiji dođe uređene kose nego iznuren i prljav. Jer se u njemu vidi neka predstava o lepom i težnja ka pristojnom; i onde gde zamišlja da je lepo, onde se i trudi.
+
+Preostaje samo pokazati mu i reći: Mladiću, tražiš lepo i dobro činiš. Znaj, dakle, da ono raste onde gde ti je razum. Onde ga traži gde su ti stremljenja i odstupanja, gde želje i uklanjanja.
+
+Jer to u sebi imaš kao nešto osobito; telo je pak po prirodi blato. Zašto se uzalud trudiš oko njega? Ako ništa drugo, s vremenom ćeš saznati da ono nije ništa.
+
+Ali ako mi dođe uprljan balegom, prljav, s brkovima do kolena, šta imam da mu kažem? Od kakve sličnosti da ga povedem dalje?
+
+Jer oko čega se on uopšte trudio što je nalik lepome, da bih ga preusmerio i rekao: Lepo nije ovde, nego ovde? Hoćeš li da mu kažem: Lepota nije u tome da budeš uprljan balegom, nego u razumu?
+
+Zar on uopšte teži lepome? Ima li ikakvu predstavu o njemu? Idi onda i razgovaraj sa svinjom da se ne valja u blatu.
+
+Zato su se Ksenokratove reči i dotakle Polemona, jer je bio mladić koji je voleo lepo: došao je već noseći u sebi začetke staranja o lepome, samo ga je tražio na drugom mestu.
+
+Jer priroda nije učinila prljavim čak ni životinje koje žive uz ljude. Zar se konj valja po blatu? Zar plemenit pas? Nego svinja, trule gusenice, crvi i pauci — stvorenja najudaljenija od ljudskog zajedničkog života.
+
+A ti, premda si čovek, nećeš da budeš čak ni jedna od životinja koje žive uz ljude, nego radije crv ili pauk? Zar se nećeš nekada okupati, kako god hoćeš? Zar se nećeš oprati i doći čist da bi se oni koji su s tobom radovali tvome društvu?
+
+Nego nam takav dolaziš i u svetilišta, gde nije običaj ni pljuvati ni čistiti nos, dok si sav pljuvačka i slina?
+
+Šta onda? Treba li se doterivati? Nipošto — osim onoga što smo po prirodi: razum, mnenja i dela. Telo pak samo do čistote, dotle da ne bude odbojno.
+
+Ali ako čuješ da ne treba nositi grimiz, ti onda odeš pa uprljaš svoj ogrtač balegom ili ga pocepaš.
+
+Ali odakle mi lep ogrtač?
+
+Čoveče, imaš vodu — operi ga.
+
+Evo mladića dostojnog ljubavi; evo starca dostojnog da voli i da bude voljen, kome će neko poveriti svoga sina [tekst je izgubljen], kome će prilaziti kćeri i mladići, ako se tako dogodi — da im drži pouke u đubrištu!
+
+Nipošto. Svako odvraćanje od nečega nastaje zbog nekog odstupanja od ljudskoga; a ovo je već blizu tome da uopšte ne bude ljudsko.
+
+IV.12 — O pažnji
+
+STAROSLOVENSKI
+
+Єгда мало отпѹстиши вниманіє · не мьни ꙗко єгда любо възмогѫ призъвати є · нъ оно прѣжде имѣи · ꙗко ради нꙑнѣшьнꙗго съгрѣшеніꙗ нѫжда въ прочихъ зълѣ имѣти сѧ ·
+
+Пръвѣе бо · и єже вьсѣхъ горьше єсть · обꙑчаи невниманіꙗ раждаєть сѧ · та же обꙑчаи отълагати вниманіє · и тако присно обꙑкнеши на ино врѣмѧ отълагати благотечьно и подобьно природѣ житіє и пребываніє ·
+
+Аще ѹбо отъложеніє на ѹтрѣ полезьно єсть · много полезьнѣише на послѣдьнии дьнь · аще ли на послѣдьнии · и на послѣдьнии мѣсѧць · да невниманіє въ тебѣ съвьсѣмь възрастеть ·
+
+Нѣ · нъ нꙑнѣ кажєть ми сѧ да подобаєть подвигнѫти сѧ ·
+
+О немь же ѹбо кажєть ти сѧ ꙗко нꙑнѣ подобаєть подвигнѫти сѧ · вѣждь ꙗко тако имаши · да на тебѣ бѫдеть и ѹтрѣ · Аще ли речеши · ѹтрѣ внимати начьнѫ · вѣждь ꙗко се глаголєши · нꙑнѣ хощѫ бꙑти бесстꙑдьнъ · безврѣменьнъ · низъкъ · на инѣхъ да бѫдеть мѧ възбранити · на инѣхъ да бѫдеть мѧ печалити · нꙑнѣ хощѫ гнѣвати сѧ · завидѣти ·
+
+Виждь колика зъла себѣ даєши ·
+
+Нъ вьсѧ си ѹтрѣ ·
+
+Чего ради не нꙑнѣ · Аще нꙑнѣ красно єсть внимати · много краснѣише и ѹтрѣ · да и ѹтрѣ възможеши · Аще ли ѹтрѣ · и нꙑнѣ · да ѹтрѣ єще вѧще възможеши · а не пакꙑ отълагати на третии дьнь ·
+
+Надъ вьсѣми ѹбо и присно прѣдъ рѫкама имѣти подобаєть · ꙗко ничьтоже тако подобаєть творити безъ цѣли ·
+
+Каꙗ же цѣль · слѣдовати богомъ · Се цѣль · Къ неи вьсѧ обращати подобаєть ·
+
+Ꙗкоже аще въ путь идеши · прѣдъ очима имаши мѣсто къ немѹ же идеши · и по немь вьсѧ стопꙑ ѹправлꙗєши · тако и здѣ ·
+
+Что ѹбо творити подобаєть · Въ вьсѣкомь дѣлѣ съхранꙗти своє владꙑчьство по природѣ ·
+
+Аще кого видиши · єда видѣніємь польꙀовати сѧ по природѣ можеши ·
+
+Срѣтаєши нѣкоего · єда срѣтеніємь польꙀовати сѧ по природѣ можеши ·
+
+Аще въ банѭ идеши · єда банею польꙀовати сѧ по природѣ можеши ·
+
+Аще ꙗсти · єда ꙗденіємь ·
+
+Тако же аще хѹлѧть тѧ · аще хвалѧть · аще осѫждаѭть · аще почитаѭть · єда вьсѣмь симъ можеши польꙀовати сѧ по природѣ ·
+
+Аще бо си съхранꙗєши · никъто же тебѣ възбранить · никъто же понѫдить · никъто же врѣдить ·
+
+Нъ дѣло се велико єсть · и многꙑѧ трѣбѹєть ѹпражненія ·
+
+Не ѹбо абіє отчаи сѧ · нъ кождоє дѣло по силѣ творити начьни ·
+
+Что пръвое ·
+
+Єгда исходиши отъ домѹ · кого любо видиши · абіє рьци · се чловѣкъ · сродьникъ мои · єдинъ отъ словесьнꙑихъ · подъ тѣмь же закономь рожденъ · того же Бога сꙑнъ ·
+
+Аще противословить ти · аще хѹлить · аще бьєть · рьци · се дѣло єго · мое же дѣло право польꙀовати сѧ ꙗвленіємь ·
+
+Аще въ сѫдъ идеши · не съ тѣмь намѣромь иди · да побѣдиши · нъ да своє владꙑчьство по природѣ съхранѧеши ·
+
+Аще къ властелинѹ · не да приѥтъ бѫдеши · нъ да ꙗвленіємь польꙀовати сѧ правѣ ·
+
+Аще въ банѭ · прѣдъстави си бꙑваѭщаꙗ въ бани · обливаніє · тѣснотѫ · досажденіє · краденіє · и рьци · хощѫ измꙑти сѧ и своє владꙑчьство по природѣ съхранити ·
+
+И тако въ вьсѣкомь дѣлѣ ·
+
+Аще бо се приложиши · никъто же тебѣ възбранить въ ономь єже твоє єсть ·
+
+Нъ не можеши и вънѣшьнаꙗ по своемѹ хотѣнію имѣти и своє владꙑчьство съхранити · нѫжда єдино отъ обоѭ небрещи ·
+
+Аще вънѣшьнаꙗ хощеши · остави владꙑчьство · аще владꙑчьство хощеши · остави вънѣшьнаꙗ ·
+
+Иначе ни сего ни онѣхъ имѣти не бѫдеши · семо и овамо растѧзаємъ ·
+
+Єгда ѹбо речеши · ѹтрѣ внимати начьнѫ · помѧни ꙗко се глаголєши · ѹтрѣ начьнѫ благочѧстити · ѹтрѣ начьнѫ свободьнъ бꙑти · ѹтрѣ начьнѫ бесстрастьнъ бꙑти · ѹтрѣ начьнѫ непомѫтенъ бꙑти · нꙑнѣ же хощѫ рабъ бꙑти · страстьнъ · помѫтенъ ·
+
+Нъ ѹтрѣ · глаголєши ·
+
+Аще ти полезьно · нꙑнѣ · да и ѹтрѣ полезьно бѫдеть · да обꙑчаи вниманіꙗ приложиши къ вниманію · а не обꙑчаи отъложеніꙗ къ отъложенію ·
+
+
+SRPSKI
+
+IV.12 — O pažnji
+
+Kada samo malo popustiš u pažnji, nemoj misliti da je možeš prizvati kad god poželiš, nego imaj na umu da ćeš zbog današnje greške nužno i u drugim stvarima biti u gorem stanju.
+
+Jer najpre — a to je najgore od svega — nastaje navika nepažnje; zatim navika da pažnju odlažeš, pa se tako neprestano navikavaš da za neko drugo vreme odlažeš blagotečan život prema prirodi i prebivanje u njemu.
+
+Ako je, dakle, korisno odložiti to do sutra, još je korisnije odložiti do prekosutra; a ako do prekosutra, onda i do sledećeg meseca, sve dok nepažnja sasvim ne uzraste u tebi.
+
+Ali sada mi se čini da treba da se pokrenem.
+
+Za ono za šta ti se čini da treba da se pokreneš sada, znaj da time postižeš da i sutra bude do tebe. Ali ako kažeš: Sutra ću početi da pazim, znaj da time govoriš: Danas hoću da budem bestidan, nepravovremen i nizak; danas ću dopustiti drugima da me sprečavaju i žaloste; danas hoću da se gnevim i zavidim.
+
+Pogledaj kolika zla sam sebi dopuštaš.
+
+Ali sve ću to sutra.
+
+Zašto ne sada? Ako je lepo paziti danas, još će lepše biti i sutra, kako bi mogao paziti i sutra. A ako je dobro sutra, onda je dobro i danas, da bi sutra mogao još više, umesto da ponovo odlažeš do trećega dana.
+
+Iznad svega, dakle, treba stalno imati pred sobom da se ništa ne čini bez cilja.
+
+A koji je cilj? Slediti bogove. To je cilj. Prema njemu treba usmeravati sve.
+
+Kao što, kada ideš putem, pred očima imaš mesto ka kojem ideš i prema njemu upravljaš svaki korak, tako i ovde.
+
+Šta, dakle, treba činiti? U svakom delu čuvati svoje vladajuće načelo prema prirodi.
+
+Ako nekoga vidiš, možeš li se tim viđenjem poslužiti prema prirodi?
+
+Susretneš nekoga — možeš li se susretom poslužiti prema prirodi?
+
+Ideš li u banju — možeš li se banjom poslužiti prema prirodi?
+
+Jedeš li — možeš li se jelom poslužiti prema prirodi?
+
+Isto tako, ako te kude, ako te hvale, ako te osuđuju, ako ti iskazuju čast — možeš li se svim tim poslužiti prema prirodi?
+
+Jer ako ovo sačuvaš, niko te neće sprečiti, niko te neće prisiliti, niko ti neće nauditi.
+
+Ali to je veliko delo i zahteva mnogo vežbe.
+
+Nemoj zato odmah očajavati, nego počni da svako delo činiš prema svojoj snazi.
+
+Šta prvo?
+
+Kada izađeš iz kuće i ugledaš bilo koga, odmah reci: Ovo je čovek, moj srodnik, jedan od slovesnih, rođen pod istim zakonom, sin istoga Boga.
+
+Ako ti protivreči, ako te vređa, ako te udari, reci: To je njegovo delo; moje je da se predstavom poslužim pravilno.
+
+Ako ideš na sud, ne idi s namerom da pobediš, nego da svoje vladajuće načelo sačuvaš prema prirodi.
+
+Ako ideš vlastodršcu, ne idi da budeš primljen, nego da se predstavom poslužiš pravilno.
+
+Ako ideš u banju, unapred predstavi sebi ono što se u banji događa: prskanje, guranje, vređanje, krađu; pa reci: Hoću da se okupam i da svoje vladajuće načelo sačuvam prema prirodi.
+
+I tako u svakom delu.
+
+Jer ako tome pristupiš na taj način, niko te ne može sprečiti u onome što je tvoje.
+
+Ali ne možeš ujedno spoljašnje stvari imati prema svojoj želji i sačuvati svoje vladajuće načelo. Jedno od toga dvoga nužno moraš zanemariti.
+
+Ako hoćeš spoljašnje, ostavi vladajuće načelo; ako hoćeš vladajuće načelo, ostavi spoljašnje.
+
+Inače nećeš imati ni jedno ni drugo, jer ćeš biti rastrzan na obe strane.
+
+Kad, dakle, kažeš: Sutra ću početi da pazim, seti se da time govoriš: Sutra ću početi da blagočestim, sutra ću početi da budem slobodan, sutra ću početi da budem bestrasan, sutra ću početi da budem nepomućen; danas pak hoću da budem rob, strastan i pomućen.
+
+Ali sutra, kažeš.
+
+Ako ti je korisno, onda sada — da bi ti bilo korisno i sutra; da naviku pažnje dodaješ pažnji, a ne naviku odlaganja odlaganju.
+
+IV.13 — O onima koji žele da budu voljeni
+
+STAROSLOVENSKI
+
+Вьсѧкъ чловѣкъ вьсѧкого чловѣка паче себе любить ли · Ни · Нъ смотри како и самъ · єгда противьно бѫдеть · себе паче любиши ·
+
+Аще бо добро твоє въ произволєнии бѣ · самоє єже дрѹга съхранити тебѣ польза бѣ · аще ли вънѣшьнаꙗ добро положиши · глаголѭ ти · ꙗко отъцѧ и брата и отьчьство и просто вьсѧ оставити подобаєть · да тъкмо тѣхъ ѹлѹчиши ·
+
+Иначе како можеши себе любити ·
+
+Аще ли разумьнъ єси · вьсѧ добро въ словѣ и произволєнии положиши · аще ли не · въ сребрѣ · въ земли · въ рабѣхъ · въ власти ·
+
+И тамо идеже добро положено єсть · тамо и любовь себе нѫжда съходитъ сѧ ·
+
+Сего ради аще хощеши отъ кого любимъ бꙑти · прѣжде смотри · єда пользьно ти єсть отъ него любимѹ бꙑти ·
+
+Аще бо онъ ино добро мьнить неже тꙑ · како можеть любити тѧ безъ противлєніꙗ ·
+
+Отьць сꙑна любить · нъ аще сꙑнъ ємѹ възбранить въ ономь єже онъ добро мьнить · что творить ·
+
+Не ли отъцѧ забꙑваєть · не ли сꙑна ꙗкоже врага зрить ·
+
+Братъ брата · нъ аще междѹ ими нивꙑ дѣлѧть сѧ · не ли мера землѧ любовь ихъ мѣрить ·
+
+Колико землѧ · толико и дрѹжьства · аще же нивꙑ мало приложить сѧ или отъиметь сѧ · абіє и братъ врагъ бꙑваєть ·
+
+Тако и въ прочихъ · доколѣ польза съвѧзѹєть · дотолѣ и любовь кажєть сѧ ·
+
+Нъ се не любовь єсть · нъ тръгъ ·
+
+Аще хощеши истиньно любимъ бꙑти · добръ бѫди · благъ · общьнъ · отъ чюжьдихъ отъстѫпи · ничьтоже ихъ добро мьни · ничьтоже зло ·
+
+Не гнѣваи сѧ · не ропьщи · не завиди · не възбранꙗи · не препираи сѧ · не мьни себе отъ инѣхъ лишима ·
+
+Кто таковаго не любить · кто таковомѹ не вѣрѹ имать · кто отъ него отъвращаєть сѧ ·
+
+Аще же хощеши и вънѣшьнаꙗ имѣти · и дрѹгꙑ вѣрьнꙑ · и женѫ и чѧда присно любѧща тѧ · и всѣмъ ѹгодьна бꙑти · многꙑхъ и противьнꙑхъ вькупѣ хощеши ·
+
+Неможьно бо и чюжьдихъ желати и тѣхъ имѫщихъ любити ·
+
+Аще конѧ твоєго инъ отъведеть · любиши ли єго · аще нивѫ · аще рабъца · аще славѫ · аще власть ·
+
+Аще ѹбо всѧ си чюжьда мьниши · кто тѧ лишити можеть · кто врагъ бꙑти ·
+
+Никто же ·
+
+Сего ради Сѡкратъ всѣмъ можаше любезьнъ бꙑти · понеже ничьтоже чюжьде своє мьнѧше · ни отъ кого чего требоваше · єже добро ємѹ бꙑти ·
+
+Сего ради и женѫ и чѧда и сродьникꙑ можаше любити · не ꙗкоже своꙗ · нъ ꙗкоже чловѣкꙑ · ꙗкоже отъ Бога данꙑѧ на врѣмѧ ·
+
+И єгда врѣмѧ бѣ отъдати · отъдааше безъ ропъта · безъ мѧтежа · помьнѧ кому принадлежатъ ·
+
+Тако и тꙑ · аще хощеши свободьно любити · ничьтоже люби ꙗкоже неотъемлємо · ничьтоже ꙗкоже своє · єже природою не твоє єсть ·
+
+Нъ ꙗкоже Богъ дасть · дотолѣ польꙀѹи сѧ · ꙗкоже чюжьдимь · ꙗкоже данꙑмь на врѣмѧ · ꙗкоже путникъ гостиньницею ·
+
+И тако ни любовь тебѣ бѣдѫ сътворить · ни разлѫчєніє · ни смрьть · ни изгнаніє ·
+
+Аще же речеши · хощѫ да чѧдо моє николи же ѹмрєть · безѹмьнъ єси · хощеши бо да смрьть не бѫдеть смрьть · и єже не на тебѣ на тебѣ бѫдеть ·
+
+Аще хощеши женѫ присно любѧщѫ тѧ · хощеши чюжьдое произволєніє твоє бꙑти ·
+
+Аще хощеши дрѹга николи же отъ тебе отъстѫпити · хощеши раба свободьнаго сътворити · или свободьнаго раба ·
+
+Нъ аще хощеши николи же не промахати · желаи тъкмо того єже на тебѣ єсть ·
+
+Се хощи · сего ищи · къ семѹ стреми сѧ ·
+
+Что же єсть на тебѣ · право польꙀовати сѧ ꙗвленіємь · съизволꙗти истинѣ · лъжнѹ не съизволꙗти · желати по природѣ · ѹклонꙗти сѧ по природѣ ·
+
+Си съвръши · и любити будеши и любимъ бꙑти · не ꙗкоже рабъ рабомъ · нъ ꙗкоже свободьнъ свободьнꙑими ·
+
+
+SRPSKI
+
+IV.13 — O onima koji žele da budu voljeni
+
+Voli li svaki čovek svakoga drugoga više nego sebe? Ne. Pogledaj i sam: kada dođe do sukoba, sebe voliš više.
+
+Jer kad bi tvoje dobro bilo u proizvoljenju, upravo bi ti čuvanje prijatelja bilo od koristi. Ali ako dobro položiš u spoljašnje stvari, kažem ti da ćeš ostaviti i oca, i brata, i otadžbinu, i naprosto sve, samo da njih stekneš.
+
+Kako bi inače mogao voleti sebe?
+
+Ako si razuman, svako ćeš dobro položiti u razumu i proizvoljenju; ako nisi, u srebru, zemlji, robovima i vlasti.
+
+A onde gde je dobro položeno, tamo se nužno usmerava i ljubav prema sebi.
+
+Zato, ako hoćeš da te neko voli, najpre pogledaj da li ti je korisno da te on voli.
+
+Jer ako on za dobro smatra nešto drugo nego ti, kako te može voleti bez sukoba?
+
+Otac voli sina; ali ako ga sin sprečava u onome što otac smatra dobrim, šta ovaj čini?
+
+Zar ne zaboravlja da je otac? Zar ne gleda sina kao neprijatelja?
+
+Brat voli brata; ali kada među njima treba podeliti njive, zar mera zemlje ne određuje i meru njihove ljubavi?
+
+Koliko zemlje, toliko prijateljstva. Ako se komad njive malo poveća ili smanji, brat odmah postaje neprijatelj.
+
+Tako je i u ostalome: dok ih korist povezuje, dotle postoji ono što izgleda kao ljubav.
+
+Ali to nije ljubav, nego trgovina.
+
+Ako hoćeš da budeš istinski voljen, budi dobar, blag i društven; odstupi od tuđih stvari, ništa od njih ne smatraj ni dobrom ni zlom.
+
+Ne gnevi se, ne gunđaj, ne zavidi, ne sprečavaj, ne prepiri se, ne smatraj da te drugi mogu lišiti nečega tvoga.
+
+Ko takvoga neće voleti? Ko mu neće verovati? Ko će se od njega odvraćati?
+
+Ali ako hoćeš i spoljašnje stvari da imaš, i verne prijatelje, i ženu i decu koji će te uvek voleti, i da svima budeš ugodan — hoćeš istovremeno mnogo međusobno protivnih stvari.
+
+Jer nije moguće želeti tuđe stvari i voleti one koji ih imaju.
+
+Ako ti neko odvede konja, voliš li ga? A ako ti uzme njivu, roba, ugled ili vlast?
+
+Ako, dakle, sve to smatraš tuđim, ko te može nečega lišiti? Ko ti može postati neprijatelj?
+
+Niko.
+
+Zato je Sokrat mogao biti mio svima: ništa tuđe nije smatrao svojim niti je od ikoga zahtevao nešto što bi njemu trebalo da bude dobro.
+
+Zato je mogao voleti i ženu, i decu, i srodnike — ne kao svoje vlasništvo, nego kao ljude, kao one koje mu je Bog dao na neko vreme.
+
+A kada bi došlo vreme da ih vrati, vraćao ih je bez gunđanja i bez nemira, pamteći kome pripadaju.
+
+Tako i ti, ako hoćeš slobodno da voliš, ništa ne voli kao neotuđivo, ništa kao svoje ako po prirodi nije tvoje.
+
+Nego, dok Bog daje, služi se time kao tuđim, kao nečim datim na neko vreme, kao što se putnik služi gostionicom.
+
+Tako ti ni ljubav neće postati nevolja, ni rastanak, ni smrt, ni progonstvo.
+
+Ako kažeš: Hoću da moje dete nikada ne umre, bezuman si; hoćeš da smrt ne bude smrt i da ono što nije do tebe bude do tebe.
+
+Ako hoćeš da te žena uvek voli, hoćeš da tuđe proizvoljenje bude tvoje.
+
+Ako hoćeš da prijatelj nikada ne odstupi od tebe, hoćeš da roba učiniš slobodnim — ili slobodnoga robom.
+
+Ali ako hoćeš da nikada ne promašiš, želi samo ono što je do tebe.
+
+To hoći, to traži, ka tome stremi.
+
+A šta je do tebe? Pravilno se služiti predstavama, saglašavati se sa istinitim, ne saglašavati se s lažnim, želeti prema prirodi i uklanjati se prema prirodi.
+
+To dovrši, pa ćeš i voleti i biti voljen — ne kao rob među robovima, nego kao slobodan među slobodnima.
+
+IV.13 — O onima koji žele da budu voljeni
+
+STAROSLOVENSKI
+
+Аще же хощеши отъ тѣхъ любимъ бꙑти · отъ нихъ же си не зависѧть · что творити подобаєть ·
+
+Покажи имъ · ꙗко ни добра ни зъла имъ отъ тебе бꙑти можеть · нъ отъ нихъ самѣхъ · ꙗко не въ тѣлѣ ни въ имѣніи ни въ славѣ ни въ власти добро єсть · нъ въ правомь произволєнии · и зло пакꙑ въ зъломь ·
+
+Кто ѹбо тебѣ къ томѹ врагъ бꙑти можеть · кто на тѧ гнѣвати сѧ ·
+
+Не ли сѫть ти сродьници · не ли по природѣ братріꙗ · не ли отъ Бога и тии пришли сѫть ·
+
+Нъ азъ имъ не ѹгодьнъ єсмь ·
+
+Чего ради хощеши ѹгодьнъ бꙑти · Да тѧ добрꙑмъ мьнѧть ли ·
+
+Доволно ти єсть добрѹ бꙑти · а не мьнѣти сѧ ·
+
+Аще же и мьнѣти сѧ хощеши · вѣждь ꙗко се не твоє єсть ·
+
+Что ѹбо · презирати ли подобаєть любꙑ дрѹгъ ·
+
+Да не бѫдеть · Нъ познати что любовь єсть · и отъкѫдѹ раждаєть сѧ ·
+
+Идеже бо и азъ и тꙑ добро положимъ · тамо нѫжда и любꙑ и дрѹжьствѹ бꙑти ·
+
+Аще въ чюжьдихъ · не можемъ дрѹзи бꙑти · ни отьць сꙑнѹ · ни братъ братѹ · ни мужь женѣ ·
+
+И вьсѧ мѣста разбоиникъ и прѣлюбодѣи и клеветьникъ и завистьникъ наплънѧть · идеже добро и зло въ чюжьдихъ положено єсть ·
+
+Идеже же своє добро въ правомь произволєнии положиши · тамо нѣсть мѣста ни сварѹ ни зависти ни ревности ·
+
+Нъ вьси сродьници · вьси братріꙗ · вьси по природѣ единого Бога чѧда ·
+
+Что ми ѹбо прилѣжить · да инъ мене любить · или да азъ достойно любви творѭ ·
+
+Не ли второе ·
+
+Аще пръвое · чюжьде дѣло гониши · аще второе · своє твориши ·
+
+Аще же свое творѧ любимъ бѫдеши · приими и се · аще не · доволно ти бѫди · ꙗко добро твориши ·
+
+Сѡкратъ бо не о томь прилѣжаше · да отъ вьсѣхъ любимъ бѫдеть · нъ да достоинъ любви бѫдеть ·
+
+И Діогенъ не о томь · да вьси єго хвалѧть · нъ да свободьнъ бѫдеть ·
+
+Аще ѹбо и тꙑ сихъ желаеши · остави чюжьдаꙗ · обрати сѧ къ своимъ · очисти мьнѣніꙗ · исправи стремлєніꙗ · ѹкроти желаніꙗ · ѹклоненіꙗ положи тъкмо въ волевꙑихъ ·
+
+Та же виждь · кто тебѣ възбранить любити · кто възбранить общьнѹ бꙑти · кто възбранить кротъкѹ · вѣрьнѹ · благородьнѹ ·
+
+Никто же ·
+
+Аще ли инъ тѧ не любить · что тебѣ до того · Онъ бо свое мьнѣніє носить · тꙑ же своє дѣло съвръшаи ·
+
+Се єсть свободьнаго дѣло · се любити не рабьскꙑ ·
+
+
+SRPSKI
+
+IV.13 — O onima koji žele da budu voljeni
+
+Ako pak hoćeš da te vole oni od kojih ne zavisiš, šta treba da činiš?
+
+Pokaži im da im ni dobro ni zlo ne može doći od tebe, nego od njih samih; da dobro nije ni u telu, ni u imanju, ni u ugledu, ni u vlasti, nego u pravom proizvoljenju, a zlo opet u rđavom.
+
+Ko ti onda još može biti neprijatelj? Ko se može gneviti na tebe?
+
+Nisu li ti srodnici? Nisu li ti po prirodi braća? Nisu li i oni potekli od Boga?
+
+Ali nisam im mio.
+
+Zašto hoćeš da im budeš mio? Da bi te smatrali dobrim?
+
+Dovoljno ti je da budeš dobar, a ne da te takvim smatraju.
+
+Ako hoćeš i da te takvim smatraju, znaj da to nije tvoje.
+
+Šta onda? Treba li prezirati ljubav prijatelja?
+
+Nipošto. Nego treba poznati šta je ljubav i odakle nastaje.
+
+Jer onde gde i ja i ti položimo dobro, tamo nužno nastaju i ljubav i prijateljstvo.
+
+Ako ga položimo u tuđe stvari, ne možemo biti prijatelji: ni otac sinu, ni brat bratu, ni muž ženi.
+
+I svako se mesto puni razbojnicima, preljubnicima, klevetnicima i zavidljivcima onde gde su dobro i zlo položeni u tuđe stvari.
+
+Ali onde gde svoje dobro položiš u pravo proizvoljenje, nema mesta ni svađi, ni zavisti, ni ljubomori.
+
+Nego su svi srodnici, svi braća, svi po prirodi deca jednoga Boga.
+
+Šta, dakle, treba da me se tiče: da me drugi voli ili da ja činim ono što je dostojno ljubavi?
+
+Nije li ovo drugo?
+
+Ako prvo — goniš za tuđim delom; ako drugo — činiš svoje.
+
+Ako te, čineći svoje, budu voleli, primi i to; ako ne budu, neka ti bude dovoljno što činiš dobro.
+
+Jer Sokrat se nije starao da ga svi vole, nego da bude dostojan ljubavi.
+
+Ni Diogen se nije starao da ga svi hvale, nego da bude slobodan.
+
+Ako, dakle, i ti to želiš, ostavi tuđe stvari i okreni se svojima; očisti mnenja, ispravi stremljenja, ukroti želje i uklanjanje položi samo u ono što pripada proizvoljenju.
+
+Pa onda pogledaj: ko te može sprečiti da voliš? Ko te može sprečiti da budeš društven, krotak, veran i plemenit?
+
+Niko.
+
+A ako te drugi ne voli, šta je to tebi? On nosi svoje mnenje; ti izvršavaj svoje delo.
+
+To je delo slobodnoga čoveka; to znači voleti neropski.
+
