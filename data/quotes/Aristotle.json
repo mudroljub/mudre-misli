@@ -33,18 +33,14 @@
     "id": "mm-000327",
     "type": "bio",
     "year": -347,
-    "sr": "Napustio Platona još za njegova života; Platon rekao da ga je odbacio kao ždrebac majku.",
-    "stsl": "Платона єштє жива напѹсти · Платонъ рече ꙗко єго отъринѹ ꙗкоже жрѣбѧ матерь.",
-    "originalText": "Ἀπέστη δὲ Πλάτωνος ἔτι περιόντος· ὥστε φασὶν ἐκεῖνον εἰπεῖν, Ἀριστοτέλης ἡμᾶς ἀπελάκτισε καθαπερεὶ τὰ πωλάρια γεννηθέντα τὴν μητέρα.",
+    "sr": "Aristotel napusti Platona još za njegova života, pa je Platon govorio: Aristotel nas odbaci kao što ždrebe, čim se rodi, odbaci majku nogama.",
+    "stsl": "Аристотель Платона єште жива напѹсти · тѣмьже Платонъ глаголаше · Аристотель насъ отъринѫ · ꙗкоже жрѣбѧ · родивъ сѧ · матерь ногами биєть ·",
+    "originalText": "Ἀπέστη δὲ Πλάτωνος ἔτι περιόντος· ὥστε φασὶν ἐκεῖνον εἰπεῖν, Ἀριστοτέλης ἡμᾶς ἀπελάκτισε καθαπερεὶ τὰ πωλάρια γεννηθέντα τὴν μητέρα. Πλάτων δ' αὐτὸν λακτίζειν ἔλεγεν ὥσπερ τὰ πῶλα τὰς μητέρας.",
     "author": "Aristotle",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "V.2"
-      },
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.4"
       }
     ]
   },
@@ -75,21 +71,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "V.10"
-      }
-    ]
-  },
-  {
-    "id": "mm-000330",
-    "type": "bio",
-    "year": -323,
-    "sr": "Pobegao u Halkidu pošto ga Eurymedon optužio za bezbožnost zbog himne Hermiji.",
-    "stsl": "Въ Халкидꙋ бѣжа · понеже Еѵримедонъ обвини єго въ безбожии ради пѣсни Херміи.",
-    "originalText": "Ὑπεξῆλθεν εἰς Χαλκίδα, Εὐρυμέδοντος αὐτὸν τοῦ ἱεροφάντου δίκην ἀσεβείας γραψαμένου, ἐπειδήπερ τὸν ὕμνον ἐποίησεν εἰς τὸν προειρημένον Ἑρμίαν.",
-    "author": "Aristotle",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.5"
       }
     ]
   },
@@ -525,21 +506,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "V.32–33"
-      }
-    ]
-  },
-  {
-    "id": "mm-000362",
-    "type": "anecdote",
-    "sr": "Platon je govorio da ga Aristotel odbacuje kao što ždrebe udara majku koja ga je okotila.",
-    "stsl": "Платонъ глаголаше · ꙗко Аристотъель єго отърицаєть · ꙗкоже жребѧ мати · ѩже єго роди · ногами бієть ·",
-    "author": "Aristotle",
-    "year": -350,
-    "originalText": "Πλάτων δ' αὐτὸν λακτίζειν ἔλεγεν ὥσπερ τὰ πῶλα τὰς μητέρας.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.2"
       }
     ]
   },
