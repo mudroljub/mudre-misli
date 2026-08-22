@@ -60,39 +60,39 @@
     ]
   },
   {
-    "id": "mm-001840",
-    "type": "quote",
-    "sr": "Neobuzdanog konja treba verovati više nego loše sređenoj besedi.",
-    "stsl": "Невоздрьжнаго конѧ вѣрнѣє єсть вѣровати · нежели худо съставлѥномѹ слову ·",
-    "originalText": "θᾶττον ἔφη πιστεύειν δεῖν ἵππῳ ἀχαλίνῳ ἢ λόγῳ ἀσυντάκτῳ",
-    "author": "Theophrastus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.39"
-      }
-    ]
-  },
-  {
-    "id": "mm-001841",
-    "type": "anecdote",
-    "sr": "Kada je Agnonid pokušao da ga tuži za bezbožnost, sam tužilac je skoro bio kažnjen, a Teofrast je, uprkos velikom ugledu, i dalje ostao cenjen u Atini.",
-    "stsl": "Єгда Агнонідъ покѹси сѧ на него за безбожіє · самъ тѫжитель почти казни пріѧтъ · а Тєофрастъ · при великѣмъ оуже славѣ · въ Аѳинахъ и паки чьтень бѣ ·",
-    "author": "Theophrastus",
-    "year": -315,
-    "originalText": "Ἀσεβείας δ' αὐτὸν ἐπαχθέντα ὑπὸ Ἁγνωνίδου παρ' ὀλίγον μὲν ἀποφυγεῖν, κινδυνεῦσαι δὲ τὸν κατήγορον.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.37"
-      }
-    ]
-  },
+  "id": "mm-001840",
+  "type": "quote",
+  "sr": "Pre se treba pouzdati u neuzdanog konja nego u nesređenu besedu.",
+  "stsl": "Скорѣѥ подобаєть на конѧ безъ ѹзды ѹповати · нежели на нестроино слово ·",
+  "originalText": "θᾶττον ἔφη πιστεύειν δεῖν ἵππῳ ἀχαλίνῳ ἢ λόγῳ ἀσυντάκτῳ",
+  "author": "Theophrastus",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "V.39"
+    }
+  ]
+},
+ {
+  "id": "mm-001841",
+  "type": "anecdote",
+  "sr": "Teofrast beše toliko omiljen među Atinjanima da je, kada ga Agnonid optuži za bezbožnost, bio oslobođen, a sam tužilac umalo ne bi kažnjen.",
+  "stsl": "Тєофрастъ толико любьзнъ Атинѧномъ бѣ · ꙗко · єгда Агнонидъ и въ безбожии обвини · самъ оправьданъ бꙑсть · тѫжитель же мало не казнь приѧть ·",
+  "author": "Theophrastus",
+  "year": -315,
+  "originalText": "Τοσοῦτον δ' αὐτὸν ἀποδέχεσθαι τοὺς Ἀθηναίους, ὥστε Ἀσεβείας αὐτὸν ἐπαγαγόντος Ἁγνωνίδου ἀποφυγεῖν, κινδυνεῦσαι δὲ παρ' ὀλίγον τὸν κατήγορον.",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "V.37"
+    }
+  ]
+},
   {
     "id": "mm-001842",
-    "type": "quote",
-    "sr": "Ništa drugo osim toga da su mnoge užitke života samo privid; čim počnemo da živimo, eto nas kako umiremo. Nema ništa tako beskorisno kao ljubav prema slavi. Zbogom, i neka vam bude srećno. Ili odbacite moju nauku, koja zahteva mnogo truda, ili se pokažite njenim dostojnim braniteljima, jer ćete steći veliku slavu. U životu je više razočaranja nego koristi. Ali dok više ne mogu da raspravljam o tome šta treba činiti, nastavite s istraživanjem o pravednom životu.",
-    "stsl": "Ничтоже ино · токмо сє · ꙗко мнози сладости животъа токмо привидъ сѫть · єгда бо начнемъ жити · се ѹмремъ · Ничтоже тогда тако безполѣзно єсть · ꙗкоже любовь славы · Прощайте · и да бѹдете благополучни · Или ѹчєніє моѥ · єже мьногъ трудъ съвѣтꙋѥть · Отъпадите · или достойныхъ защитникъ сего прѣдъставите · зане великую славѫ пріѹмѣте · Въ животъѣ болѣє разочарованіѩ · нежели полѣзы · Нъ · понеже болѣє не могу глаголати о томъ · что подобаєть дѣлати · вы Дальше изслѣдѹиꙗте о правомъ житіи ·",
+    "type": "reported",
+    "sr": "Umirući, Teofrast ovako posavetova učenike: Život se razmeće mnogim svojim užicima radi slave. Jer čim počnemo da živimo, već umiremo. Ništa, dakle, nije nekorisnije od slavoljublja. A vi budite srećni: ili napustite ovu nauku — jer trud je velik — ili je valjano branite, jer je i slava velika. U životu je više praznog nego korisnog. Ja više nisam u stanju da razmatram šta treba činiti; a vi ispitajte šta valja činiti.",
+    "stsl": "Ѹмираѧ же · Тєофрастъ ѹченикы сице наказа · Житиѥ многꙑми своими сладостьми славы ради хвалить сѧ · Єгда бо начьнемъ жити · тогда ѹже ѹмираємъ · Ничтоже ѹбо безполѣзнѣѥ славолюбьства · Вꙑ же благочѧстни бѫдѣте · или се ѹчениѥ оставите · многъ бо трѹдъ єсть · или добрѣ за нь станѣте · велика бо слава єсть · Въ житии же праздьнаго вѧште єсть · нежели полѣзьнаго · Азъ же кътомѹ не могѫ размꙑшлѧти · что подобаєть творити · вꙑ же испытайте · что творити подобаєть ·",
     "originalText": "πολλὰ τῶν ἡδέων ὁ βίος διὰ τὴν δόξαν καταλαζονεύεται. Ἡμεῖς γὰρ ὁπότ' ἀρχόμεθα ζῆν, τότ' ἀποθνῄσκομεν. Οὐδὲν οὖν ἀλυσιτελέστερόν ἐστι φιλοδοξίας. Ἀλλ' εὐτυχεῖτε καὶ ἤτοι τὸν λόγον ἄφετε-πολὺς γὰρ ὁ πόνος-, ἢ καλῶς αὐτοῦ πρόστητε· μεγάλη γὰρ ἡ δόξα. Τὸ δὲ κενὸν τοῦ βίου πλεῖον τοῦ συμφέροντος. Ἀλλ' ἐμοὶ μὲν οὐκέτ' ἐκποιεῖ βουλεύεσθαι τί πρακτέον, ὑμεῖς δ' ἐπισκέψασθε τί ποιητέον",
     "author": "Theophrastus",
     "sources": [
@@ -194,8 +194,8 @@
   {
     "id": "mm-001849",
     "type": "quote",
-    "sr": "Vreme je skupocen trošak.",
-    "stsl": "Врѣмѧ драгоцѣнъ трошъкъ єсть ·",
+    "sr": "Vreme je skupocen izdatak.",
+    "stsl": "Врѣмѧ многоцѣньно иждивениѥ єсть ·",
     "originalText": "πολυτελὲς ἀνάλωμα εἶναι τὸν χρόνον.",
     "author": "Theophrastus",
     "sources": [
@@ -223,42 +223,14 @@
   {
     "id": "mm-001851",
     "type": "works",
-    "sr": "U testamentu je odredio da se dovrše Muzej i svetilište, postavi Aristotelov lik, obnove trem i oltar, a karte Zemljinih ophoda izlože u donjem tremu. Sve knjige ostavio je Neleju.",
-    "stsl": "Въ завѣтѣ повелѣ · да Мѹсеи и свѧтилище довръшѧть · Аристотелевъ образъ поставѧть · притворъ и олтарь обновѧть · писаниѩ земьныхъ обходъ въ долѣньмь притворѣ положѧть · Вьсѧ же книгы Нелею остави ·",
-    "originalText": "τὰ περὶ τὸ μουσεῖον καὶ τὰς θεὰς συντελεσθῆναι· τὴν Ἀριστοτέλους εἰκόνα τεθῆναι εἰς τὸ ἱερόν· τὸ στωίδιον οἰκοδομηθῆναι· ἀναθεῖναι δὲ καὶ τοὺς πίνακας, ἐν οἷς αἱ τῆς γῆς περίοδοί εἰσιν, εἰς τὴν κάτω στοάν· ἐπισκευασθῆναι δὲ καὶ τὸν βωμόν. τὰ δὲ βιβλία πάντα Νηλεῖ.",
+    "sr": "U testamentu je Teofrast odredio da se dovrše radovi oko Muzeja i boginja, da se Aristotelov lik postavi u svetilište, sazida mali trem, karte na kojima su prikazani ophodi Zemlje postave u donji trem i obnovi oltar. Sve knjige ostavio je Neleju. Vrt, šetalište i sve kuće uz vrt ostavio je onim od navedenih prijatelja koji žele da se u njima zajedno posvećuju učenju i filozofiranju, s tim da ih niko ne sme ni otuđiti ni prisvojiti, nego da ih zajednički drže kao svetilište. Odredio je i da ga sahrane na mestu u vrtu koje se učini najprikladnijim, bez ikakve raskoši ni pri sahrani ni pri podizanju spomenika.",
+    "stsl": "Въ завѣтѣ Тєофрастъ повелѣ · да ꙗже о Мѹсеи и богынꙗхъ сѫть съвръшѧть · Аристотелевъ образъ въ свѧтилищи поставѧть · малѫ стѡѫ съзиждѫть · дъскы же · на нихъже землѧ обходи написани сѫть · въ долѣньи стѡи поставѧть · и олтарь обновѧть · Вьсѧ же книгы Нелею остави · Садъ же и ходилище и вьсѧ домы при садѣ тѣмъ отъ написанꙑихъ дрѹгъ остави · иже въ нихъ въкѹпѣ ѹчити сѧ и любомѫдрьствовати хоштѫть · да ни отълѹчить ихъ никтоже · ни себѣ присвоить · нъ ꙗко свѧтилище обьште въкѹпѣ имѫть · Себе же повелѣ погребсти · идѣже въ садѣ наиподобьнѣѥ бѫдеть · ничтоже излишьно творѧште ни о погребении · ни о памѧтьници ·",
+    "originalText": "τὰ περὶ τὸ μουσεῖον καὶ τὰς θεὰς συντελεσθῆναι· τὴν Ἀριστοτέλους εἰκόνα τεθῆναι εἰς τὸ ἱερόν· τὸ στωίδιον οἰκοδομηθῆναι· ἀναθεῖναι δὲ καὶ τοὺς πίνακας, ἐν οἷς αἱ τῆς γῆς περίοδοί εἰσιν, εἰς τὴν κάτω στοάν· ἐπισκευασθῆναι δὲ καὶ τὸν βωμόν. τὰ δὲ βιβλία πάντα Νηλεῖ. Τὸν δὲ κῆπον καὶ τὸν περίπατον καὶ τὰς οἰκίας τὰς πρὸς τῷ κήπῳ πάσας δίδωμι τῶν γεγραμμένων φίλων ἀεὶ τοῖς βουλομένοις συσχολάζειν καὶ συμφιλοσοφεῖν ἐν αὐταῖς, μήτ' ἐξαλλοτριοῦσι μήτ' ἐξιδιαζομένου μηδενός, ἀλλ' ὡς ἂν ἱερὸν κοινῇ κεκτημένοις. Θάψαι δὲ καὶ ἡμᾶς ὅπου ἂν δοκῇ μάλιστα ἁρμόττον εἶναι τοῦ κήπου, μηδὲν περίεργον μήτε περὶ τὴν ταφὴν μήτε περὶ τὸ μνημεῖον ποιοῦντας.",
     "author": "Theophrastus",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "V.51–52"
-      }
-    ]
-  },
-  {
-    "id": "mm-001852",
-    "type": "works",
-    "sr": "Vrt, šetalište i kuće uz vrt ostavio je prijateljima koji žele zajedno učiti i filozofirati, kao zajedničko svetilište koje niko ne sme otuđiti. Zatražio je da ga sahrane na prikladnom mestu u vrtu, bez raskoši u sahrani i spomeniku.",
-    "stsl": "Садъ · ходилище и домы при садѣ дрѹгомъ остави · иже въкѹпѣ ѹчити сѧ и любомѫдрьствовати хоштѫть · ꙗко обьште свѧтилище · єгоже никтоже отълѹчити имать · Себе же на подобьнѣмь мѣстѣ въ садѣ погребсти повелѣ · безъ излишества въ погребении и памѧтьници ·",
-    "originalText": "Τὸν δὲ κῆπον καὶ τὸν περίπατον καὶ τὰς οἰκίας τὰς πρὸς τῷ κήπῳ πάσας δίδωμι τῶν γεγραμμένων φίλων ἀεὶ τοῖς βουλομένοις συσχολάζειν καὶ συμφιλοσοφεῖν ἐν αὐταῖς, μήτ' ἐξαλλοτριοῦσι μήτ' ἐξιδιαζομένου μηδενός, ἀλλ' ὡς ἂν ἱερὸν κοινῇ κεκτημένοις. Θάψαι δὲ καὶ ἡμᾶς ὅπου ἂν δοκῇ μάλιστα ἁρμόττον εἶναι τοῦ κήπου, μηδὲν περίεργον μήτε περὶ τὴν ταφὴν μήτε περὶ τὸ μνημεῖον ποιοῦντας.",
-    "author": "Theophrastus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.52–53"
-      }
-    ]
-  },
-  {
-    "id": "mm-001853",
-    "type": "works",
-    "sr": "Testamentom je potvrdio imovinu i darove oslobođenicima Pompilu i Trepti, a Molona, Timona i Parmenona oslobodio; Manu i Kaliju obećao je slobodu posle četiri godine besprekornog rada u vrtu.",
-    "stsl": "Завѣтомъ Помпилѹ и Трептѣ · ѹже свободьнымъ · имѣниє и дары ѹтвръди · Молона · Тимона и Парменона свободи · Манѣ же и Калии по четырьхъ лѣтѣхъ непорочьна трѹда въ садѣ свободѫ обѣшта ·",
-    "originalText": "Πομπύλῳ δὲ καὶ Θρέπτῃ πάλαι ἐλευθέροις οὖσι ... δισχιλίας δραχμάς ... Δίδωμι δ' αὐτοῖς καὶ Σωματάλην. Τῶν δὲ παίδων Μόλωνα μὲν καὶ Τίμωνα καὶ Παρμένοντα ἤδη ἐλευθέρους ἀφίημι· Μανῆν δὲ καὶ Καλλίαν παραμείναντας ἔτη τέτταρα ἐν τῷ κήπῳ καὶ συνεργασαμένους καὶ ἀναμαρτήτους γενομένους ἀφίημι ἐλευθέρους.",
-    "author": "Theophrastus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.54–55"
+        "reference": "V.51-53"
       }
     ]
   },
