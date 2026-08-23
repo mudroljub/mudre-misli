@@ -1078,21 +1078,20 @@
       }
     ]
   },
-  {
-    "id": "mm-002030",
-    "type": "quote",
-    "sr": "Drugo ja.",
-    "stsl": "Дрѹгыи аꙁъ ·",
-    "originalText": "Ἐρωτηθεὶς τίς ἐστι φίλος, «Ἄλλος,» ἔφη, «ἐγώ.»",
-    "context": "Na pitanje ko je prijatelj.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.23"
-      }
-    ]
-  },
+ {
+  "id": "mm-002030",
+  "type": "reported",
+  "sr": "Upitan šta je prijatelj, Zenon odgovori: Drugo ja.",
+  "stsl": "Въпрошенъ что єсть дрѹгъ · Зинонъ отъвѣшта · Дрѹгыи азъ ·",
+  "originalText": "Ἐρωτηθεὶς τίς ἐστι φίλος, «Ἄλλος,» ἔφη, «ἐγώ.»",
+  "author": "Zeno of Citium",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VII.23"
+    }
+  ]
+},
   {
     "id": "mm-002031",
     "type": "anecdote",
@@ -1123,78 +1122,73 @@
     ]
   },
   {
-    "id": "mm-002033",
-    "type": "quote",
-    "sr": "Vidim tragove tvoga gneva.",
-    "stsl": "Виждѫ слѣды гнѣва твоєго ·",
-    "originalText": "Τῶν γνωρίμων τινὸς παιδάριον μεμωλωπισμένον θεασάμενος πρὸς αὐτόν «Ὁρῶ σου,» ἔφη, «τοῦ θυμοῦ τὰ ἴχνη·»",
-    "context": "Poznaniku čijeg je sina video u modricama.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.23"
-      }
-    ]
-  },
+  "id": "mm-002033",
+  "type": "reported",
+  "sr": "Videvši dečaka svoga poznanika prekrivenog modricama, Zenon mu reče: Vidim tragove tvoga gneva.",
+  "stsl": "Видѣвъ отрока знаѥмаго своѥго синьцами покрыта · Зинонъ рече ємѹ · Виждѫ слѣды гнѣва твоѥго ·",
+  "originalText": "Τῶν γνωρίμων τινὸς παιδάριον μεμωλωπισμένον θεασάμενος πρὸς αὐτόν «Ὁρῶ σου,» ἔφη, «τοῦ θυμοῦ τὰ ἴχνη·»",
+  "author": "Zeno of Citium",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VII.23"
+    }
+  ]
+},
+ {
+  "id": "mm-002034",
+  "type": "reported",
+  "sr": "Osetivši muškarca namirisanog mirisnim uljem, Zenon upita: Ko to miriše na ženu?",
+  "stsl": "Обонꙗвъ мѫжа мастиѭ помазана · Зинонъ въпроси · Къто се женоѭ вонꙗєть ·",
+  "originalText": "πρὸς τὸν κεχρισμένον τῷ μύρῳ, «Τίς ἐστιν,» ἔφη, «ὁ γυναικὸς ὄζων;»",
+  "author": "Zeno of Citium",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VII.23"
+    }
+  ]
+},
+ {
+  "id": "mm-002035",
+  "type": "reported",
+  "sr": "Kada ga Dionisije upita zašto jedino njega ne ispravlja, Zenon odgovori: Jer ti ne verujem.",
+  "stsl": "Єгда и Дионисии въпроси · почто єдинаго єго не исправлꙗєть · Зинонъ отъвѣшта · Не вѣрѫ бо ти имамъ ·",
+  "originalText": "Διονυσίου δὲ τοῦ Μεταθεμένου εἰπόντος αὐτῷ διὰ τί αὐτὸν μόνον οὐ διορθοῖ, ἔφη, «Οὐ γάρ σοι πιστεύω.»",
+  "author": "Zeno of Citium",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VII.23"
+    }
+  ]
+},
   {
-    "id": "mm-002034",
-    "type": "quote",
-    "sr": "Ko to miriše na ženu?",
-    "stsl": "Къто се женоѭ вонꙗєть ·",
-    "originalText": "πρὸς τὸν κεχρισμένον τῷ μύρῳ, «Τίς ἐστιν,» ἔφη, «ὁ γυναικὸς ὄζων;»",
-    "context": "Čoveku namirisanom mirisnim uljem.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.23"
-      }
-    ]
-  },
-  {
-    "id": "mm-002035",
-    "type": "quote",
-    "sr": "Ne verujem ti.",
-    "stsl": "Не вѣрѫ ти имамъ ·",
-    "originalText": "Διονυσίου δὲ τοῦ Μεταθεμένου εἰπόντος αὐτῷ διὰ τί αὐτὸν μόνον οὐ διορθοῖ, ἔφη, «Οὐ γάρ σοι πιστεύω.»",
-    "context": "Dionisiju Odmetniku, kada ga je pitao zašto jedino njega ne ispravlja.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.23"
-      }
-    ]
-  },
-  {
-    "id": "mm-002036",
-    "type": "quote",
-    "sr": "Zato imamo dva uha, a jedna usta: da više slušamo, a manje govorimo.",
-    "stsl": "Сего ради двѣ ѹши имамы · ѹста же єдина · да множає слѹшаємъ · мьнѣє же глаголємъ ·",
-    "originalText": "Πρὸς τὸ φλυαροῦν μειράκιον, «Διὰ τοῦτο,» εἶπε, «δύο ὦτα ἔχομεν, στόμα δὲ ἕν, ἵνα πλείονα μὲν ἀκούωμεν, ἥττονα δὲ λέγωμεν.»",
-    "context": "Brbljivom mladiću.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.23"
-      }
-    ]
-  },
-  {
-    "id": "mm-002037",
-    "type": "quote",
-    "sr": "Kao kada se izaslanik otpusti bez odgovora.",
-    "stsl": "Ꙗкоже посълъ безъ отвѣта отпѹштаєть сѧ ·",
-    "originalText": "Ἐρωτηθεὶς πῶς ἔχει πρὸς λοιδορίαν, «Καθάπερ,» εἶπεν, «εἰ πρεσβευτὴς ἀναπόκριτος ἀποστέλλοιτο.»",
-    "context": "Na pitanje kako se odnosi prema vređanju.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.24"
-      }
-    ]
-  }
+  "id": "mm-002036",
+  "type": "reported",
+  "sr": "Brbljivom mladiću Zenon reče: Zato imamo dva uha, a jedna usta: da više slušamo, a manje govorimo.",
+  "stsl": "Блъботивомѹ юноши Зинонъ рече · Сего ради двѣ ѹши имамы · ѹста же єдина · да множає слѹшаємъ · мьнѣє же глаголємъ ·",
+  "originalText": "Πρὸς τὸ φλυαροῦν μειράκιον, «Διὰ τοῦτο,» εἶπε, «δύο ὦτα ἔχομεν, στόμα δὲ ἕν, ἵνα πλείονα μὲν ἀκούωμεν, ἥττονα δὲ λέγωμεν.»",
+  "author": "Zeno of Citium",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VII.23"
+    }
+  ]
+},
+ {
+  "id": "mm-002037",
+  "type": "reported",
+  "sr": "Upitan kako se odnosi prema uvredama, Zenon odgovori: Kao kada se izaslanik otpusti bez odgovora.",
+  "stsl": "Въпрошенъ како къ поношению сѧ имать · Зинонъ отъвѣшта · Ꙗкоже посълъ безъ отвѣта отпѹштаєть сѧ ·",
+  "originalText": "Ἐρωτηθεὶς πῶς ἔχει πρὸς λοιδορίαν, «Καθάπερ,» εἶπεν, «εἰ πρεσβευτὴς ἀναπόκριτος ἀποστέλλοιτο.»",
+  "author": "Zeno of Citium",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VII.24"
+    }
+  ]
+}
 ]
