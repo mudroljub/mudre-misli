@@ -32,15 +32,15 @@
   {
     "id": "mm-000823",
     "type": "bio",
-    "sr": "Živeo u velikoj glinenoj posudi u Atini; posedovao samo ogrtač, torbu i štap.",
-    "stsl": "Въ велицѣи глинѣнѣи посѹдинѣ въ Атинахъ живѧаше · тъкмо плашть · торбꙋ и жезлъ имѣаше.",
+    "sr": "Diogen zamoli nekoga da mu pribavi kućicu; a kada ovaj oklevaše, uze veliku glinenu posudu u Metroonu za svoj dom.",
+    "stsl": "Диогенъ проси нѣкого · да мали домъ ємѹ ѹготовить · ономѹ же медлѧщѹ · великѫ глинѣнѫ посѹдинѫ въ Митрѡѣ домомъ себѣ сътвори ·",
     "author": "Diogenes",
     "year": -380,
-    "originalText": "Πίθον κατελάμβανε τὸν ἐν Μητρῴῳ· τρίβωνα διπλώσας, πήραν, βακτηρίᾳ.",
+    "originalText": "αἰτήσαντά τινα οἰκίδιον αὐτῷ παρασκευάσαι· τοῦ δὲ βραδύνοντος, πίθον ἔσχεν οἰκίαν ἐν τῷ Μητρῴῳ.",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VI.22-23"
+        "reference": "VI.23"
       }
     ]
   },
@@ -65,7 +65,7 @@
     "sr": "Kada je Aleksandar stao pred njega i rekao: Ja sam Aleksandar Veliki, Diogen je odgovorio: A ja Diogen pas.",
     "stsl": "Єгда Алєѯандръ прѣдъ нимь стѧвъ рече · азъ єсмь Алєѯандръ великии · Диогенъ отъвѣща · а азъ Диогенъ песь.",
     "author": "Diogenes",
-    "year": -336.1,
+    "year": -336.3,
     "originalText": "Ἀλεξάνδρου ποτὲ ἐπιστάντος αὐτῷ καὶ εἰπόντος, « Ἐγώ εἰμι Ἀλέξανδρος ὁ μέγας βασιλεύς, » « Κἀγώ, » φησί, « Διογένης ὁ κύων. »",
     "sources": [
       {
@@ -95,7 +95,7 @@
     "sr": "Dok se sunčao u Kraneju, Aleksandar mu prišao i rekao: Zatraži od mene što hoćeš. Diogen odgovori: Makni mi se sa sunca.",
     "stsl": "Єгда слъньчаше сѧ въ Кранеи · Алєѯандръ приидє къ немѹ и рече · проси мене што хоштеши · Диогенъ отъвѣща · Отъстѫпи ми отъ слъньца.",
     "author": "Diogenes",
-    "year": -336.3,
+    "year": -336.1,
     "originalText": "Ἐν τῷ Κρανείῳ ἡλιουμένῳ αὐτῷ Ἀλέξανδρος ἐπιστάς φησιν, « Αἴτησόν με ὃ θέλεις. » Καὶ ὅς, « Ἀποσκότησόν μου, » φησί.",
     "sources": [
       {
@@ -143,28 +143,12 @@
   {
     "id": "mm-000830",
     "type": "anecdote",
-    "sr": "Dok je predavao učenicima o gnevu, drski mladić ga ispljunuo. Upitan da li će se naljutiti, Diogen reče: Ne ljutim se, ali sumnjam da li bi trebalo da se ljutim.",
+    "sr": "Dok je predavao učenicima o gnevu, drski mladić ga pljunu. Upitan da li će se naljutiti, Diogen reče: Diogen reče: Ne ljutim se, ali možda bi trebalo.",
     "stsl": "Єгда ѹченикомъ о гнѣвѣ поѹчааше · дрьзыи юноша плюнѹ на нь · вопрошенъ аште лютить сѧ · Диогенъ рече · не лютѭ сѧ · нъ съмнѣваѭ сѧ аште подобаєть ми лютити сѧ.",
     "author": "Diogenes",
     "year": -355,
     "originalText": "Cum Diogenes de innereret contra discipulis suis dolescens quidam protervus, ipsum temptando, si irascebitur, narravit spuendo",
     "la": "Cum Diogenes de innereret contra discipulis suis dolescens quidam protervus, ipsum temptando, si irascebitur, narravit spuendo",
-    "sources": [
-      {
-        "name": "walter-burley",
-        "reference": "Cap. L"
-      }
-    ]
-  },
-  {
-    "id": "mm-000831",
-    "type": "anecdote",
-    "sr": "Dok je raspravljao sa Lentulom, ovaj mu pljunuo u lice. Diogen mirno odgovori: Potvđujem, Lentule, pred svima da greše oni koji kažu da nemaš usta.",
-    "stsl": "Єгда съ Лентоломъ бесѣдова · онъ плюнѹ на лице єго · Диогенъ мирьно отъвѣшта · оутвръждаѭ · Лентоле · прѣдъ вьсѣми · ꙗко погрѣшаѭтъ рекѫште · ꙗко оустъ не имаши.",
-    "author": "Diogenes",
-    "year": -350,
-    "originalText": "dum ageret causam Lentulus senatus, attulit ei alapa faciem. Cui Diogenes quieta mente dixit: Affirmarbo, o Lentule, coram omnibus falli eos qui te negant os habere",
-    "la": "dum ageret causam Lentulus senatus, attulit ei alapa faciem. Cui Diogenes quieta mente dixit: Affirmarbo, o Lentule, coram omnibus falli eos qui te negant os habere",
     "sources": [
       {
         "name": "walter-burley",
@@ -220,8 +204,8 @@
   {
     "id": "mm-000835",
     "type": "anecdote",
-    "sr": "Kada je noću lopov pokušao ukrasti njegov novčanik, Diogen mu ga ponudi: Uzmi, uzmi, da nas obojica možeš pustiti da spavamo.",
-    "stsl": "Єгда ношьтіѭ татъ покꙋшаше сѧ мошьнꙋ єго оукрасти · Диогенъ подаде ємѹ · възьми възьми · да обоꙗ пѹстиши насъ спати.",
+    "sr": "Kada noću lopov pokuša ukrasti njegovu kesicu s novcem, Diogen mu reče: Uzmi, uzmi, da obojica spavamo.",
+    "stsl": "Єгда ноштьѭ тать мошьнѫ съ пѣнѧꙀи єго ѹкрасти покѹшааше сѧ · Диогенъ рече · Въꙁьми · въꙁьми · да оба съпимъ ·",
     "author": "Diogenes",
     "year": -350,
     "originalText": "nocte fur sacculum cum numuis subtrahere conaretur... Tolle, tolle, ut facias utroque dormire",
@@ -250,11 +234,10 @@
   },
   {
     "id": "mm-000837",
-    "type": "anecdote",
-    "sr": "Kada je rekao da će se uskoro donje okrenuti gore, mislio je na to što Makedonci, koji su bili skromni, postaju moćni.",
-    "stsl": "Єгда рече ꙗko въскорѣ долнєє въ горнєє прѣвратить сѧ · мыслѧаше о Македонцехъ · иже скромьни бывъше · могѫштии бываѭть.",
+    "type": "reported",
+    "sr": "Kada reče da će se uskoro donje okrenuti gore, mislio je na to što Makedonci već nadvladavaju, ili što se od neznatnih uzdižu u visinu.",
+    "stsl": "Єгда рече · ꙗко въскорѣ долнѧꙗ горѣ обратѧть сѧ · се же о Македонцѣхъ · понеже ѹже одолѣваѭть · или отъ низъкыихъ высоци бываѭть ·",
     "author": "Diogenes",
-    "year": -337,
     "originalText": "μέλλει τὰ κάτω ἀναστρέφεσθαι· τοῦτο δὲ διὰ τὸ ἐπικρατεῖν ἤδη τοὺς Μακεδόνας ἢ ἐκ ταπεινῶν ὑψηλοὺς γίνεσθαι.",
     "sources": [
       {
@@ -265,7 +248,7 @@
   },
   {
     "id": "mm-000838",
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Kada su Atinjani glasali da Aleksandar bude Dioniz, Diogen reče: I mene učinite Sarapisom.",
     "stsl": "Єгда Атинѧне гласоваша да Алєѯандръ Дионисъ бѫдєть · Диогенъ рече · и мене Сарапіомъ сътворите.",
     "author": "Diogenes",
@@ -280,10 +263,10 @@
   },
   {
     "id": "mm-000840",
-    "type": "anecdote",
-    "sr": "Diogen je govorio da je pravo značenje proroštva o kvarenju novca to da treba preinačiti ljudske običaje i merila vrednosti, a ne kovani novac.",
-    "stsl": "Диогенъ глаголаше ꙗко повелѣніє о прѣмѣнѣ номисма значить не мѣдь точию · нъ и обычаи чловѣчьскы и мѣры цѣны прѣмѣнити ·",
-    "originalText": "τοῦ δὲ συγχωρήσαντος τὸ πολιτικὸν νόμισμα, οὐ συνείς, τὸ κέρμα ἐκιβδήλευσε.",
+    "type": "bio",
+    "sr": "Neki kažu da je Diogen, nagovoren od kovničara, upitao Apolona treba li da učini ono na šta ga nagovaraju. Bog mu dopusti da preinači građanski običaj; ali Diogen, ne razumevši odgovor, pokvari kovani novac. Kada ga otkriše, po jednima bi prognan, a po drugima sam pobeže od straha.",
+    "stsl": "Нѣции глаголѭть · ꙗко Диогенъ отъ ковачь наговоренъ · Аполлона въпроси · аще сътворить на неже и наговорѧть · Богъ же повелѣ ємѹ гражданьскыи обычаи прѣмѣнити · онъ же не разѹмѣвъ · пѣнѧꙀь поврѣди · Обличенъ же · по нѣкыихъ изгнанъ бысть · по иныхъ же самъ отъ страха бѣжа ·",
+    "originalText": "ἔνιοι δ' ἐπιμελητὴν γενόμενον ἀναπεισθῆναι ὑπὸ τῶν τεχνιτῶν καὶ ἐλθόντα εἰς Δελφοὺς ἢ εἰς τὸ Δήλιον ἐν τῇ πατρίδι Ἀπόλλωνος πυνθάνεσθαι εἰ ταῦτα πράξει ἅπερ ἀναπείθεται· τοῦ δὲ συγχωρήσαντος τὸ πολιτικὸν νόμισμα, οὐ συνείς, τὸ κέρμα ἐκιβδήλευσε καὶ φωραθείς, ὡς μέν τινες, ἐφυγαδεύθη, ὡς δέ τινες, ἑκὼν ὑπεξῆλθε φοβηθείς.",
     "author": "Diogenes",
     "year": -386,
     "sources": [
@@ -310,9 +293,9 @@
   },
   {
     "id": "mm-000842",
-    "type": "anecdote",
-    "sr": "Gledajući miša koji se lako snalazi, Diogen je učio da se čovek prilagođava okolnostima i da živi jednostavno.",
-    "stsl": "Зрѧ мышь скоро приспособлѧѭштѫ сѧ · Диогенъ ѹчаше ꙗко подобаєть чловѣкѹ къ обстоꙗниємъ прилѣплѧти сѧ и просто жити ·",
+    "type": "bio",
+    "sr": "Videvši miša kako trči unaokolo, ne tražeći postelju, ne bojeći se mraka niti žudeći za onim što se smatra uživanjem, Diogen nađe izlaz iz svojih prilika.",
+    "stsl": "Мышь видѣвъ тѣкаѭштѫ · ни ложа иштѫштѫ · ни тьмы боѧштѫ сѧ · ни желаѭштѫ мнимыихъ сластеи · Диогенъ исходъ отъ обстоꙗніꙗ обрѣте ·",
     "originalText": "Μῦν θεασάμενος διατρέχοντα, καθά φησι Θεόφραστος ἐν τῷ Μεγαρικῷ, καὶ μήτε κοίτην ἐπιζητοῦντα μήτε σκότος εὐλαβούμενον ἢ ποθοῦντά τι τῶν δοκούντων ἀπολαυστῶν, πόρον ἐξεῦρε τῆς περιστάσεως.",
     "author": "Diogenes",
     "year": -383,
@@ -324,40 +307,40 @@
     ]
   },
   {
-    "id": "mm-000843",
-    "type": "anecdote",
-    "sr": "Nakon što je zarobljen i izveden na prodaju, na pitanje šta ume da radi odgovorio je: Da upravljam ljudima, a prodavaču rekao da oglasi ako neko želi da kupi gospodara.",
-    "stsl": "Плѣнєнъ бывъ и на продажѫ поставлєнъ · на въпросъ что творити ѹмѣєши · Отъвѣща · чловѣкы правити · и вѣстникѹ рече да възгласи · аще кто господина кѹпити хоштєть ·",
-    "originalText": "ἁλοὺς καὶ πωλούμενος ἠρωτήθη τί οἶδε ποιεῖν. Ἀπεκρίνατο, « Ἀνδρῶν ἄρχειν »· καὶ πρὸς τὸν κήρυκα, « Κήρυσσε, » ἔφη, « εἴ τις ἐθέλει δεσπότην αὑτῷ πρίασθαι. »",
-    "author": "Diogenes",
-    "year": -350,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.29"
-      }
-    ]
-  },
-  {
-    "id": "mm-000844",
-    "type": "anecdote",
-    "sr": "Kada je prodat kao rob, rekao je da treba prodati njega kao gospodara onome kome je potreban gospodar, i tako je završio u kući Ksenijada gde je upravljao domaćinstvom.",
-    "stsl": "Єгда проданъ бысть ꙗко рабъ · рече себе продати ꙗко господина томѹ · комѹ господинъ потърѣбенъ єсть · и тако въ домѣ Ксениꙗда домъ строити начѧ ·",
-    "originalText": "Ἔλεγε τῷ Ξενιάδῃ τῷ πριαμένῳ αὐτόν, δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
-    "author": "Diogenes",
-    "year": -350,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.74"
-      }
-    ]
-  },
+  "id": "mm-000843",
+  "type": "anecdote",
+  "sr": "Kada bi zarobljen i izveden na prodaju, upitaše Diogena šta ume da radi. Odgovori: Ljudima upravljati. Potom reče glasniku: Oglasi hoće li ko sebi kupiti gospodara.",
+  "stsl": "Плѣнєнъ бывъ и на продажѫ поставлєнъ · въпросиша Диогена что творити ѹмѣєть · Отъвѣща · Чловѣкы правити · Потомь вѣстникѹ рече · Възгласи · аще кто хоштєть господина себѣ кѹпити ·",
+  "originalText": "ἁλοὺς καὶ πωλούμενος ἠρωτήθη τί οἶδε ποιεῖν. Ἀπεκρίνατο, «Ἀνδρῶν ἄρχειν»· καὶ πρὸς τὸν κήρυκα, «Κήρυσσε,» ἔφη, «εἴ τις ἐθέλει δεσπότην αὑτῷ πρίασθαι.»",
+  "author": "Diogenes",
+  "year": -350,
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VI.29"
+    }
+  ]
+},
+{
+  "id": "mm-000844",
+  "type": "anecdote",
+  "sr": "Ksenijadu, koji ga je kupio, Diogen govoraše da njega treba slušati iako je rob: jer i kada bi lekar ili kormilar bio rob, njega bi valjalo slušati.",
+  "stsl": "Ксениꙗдѹ · иже єго кѹпи · Диогенъ глаголааше · ꙗко подобаєть єго слѹшати · аште и рабъ єсть · врачь бо или кормьчии · аште и рабъ єсть · послѹшанъ быти подобаєть ·",
+  "originalText": "Ἔλεγε τῷ Ξενιάδῃ τῷ πριαμένῳ αὐτόν, δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
+  "author": "Diogenes",
+  "year": -350,
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VI.74"
+    }
+  ]
+},
   {
     "id": "mm-000845",
     "type": "anecdote",
-    "sr": "U raskošnoj kući gde mu je domaćin branio da pljune, Diogen je pljunuo domaćinu u lice, rekavši da nije našao gore mesto.",
-    "stsl": "Въ домѣ многоцѣньнѣмь · єгда господинъ ємѹ плюнѫти възбрани · Диогенъ въ лице ємѹ плюнѫ · рєкъ ꙗко хѹжа мѣста не обрѣтє ·",
+    "sr": "Kada ga neko uvede u raskošnu kuću i zabrani mu da pljune, Diogen pročisti grlo pa mu pljunu u lice, rekavši da ne nađe gorega mesta.",
+    "stsl": "Єгда нѣкто Диогена въ многоцѣньнъ домъ въведе и плюнѫти ємѹ възбрани · Диогенъ гръло очистивъ · въ лице ємѹ плюнѫ · рєкъ ꙗко хѹжда мѣста не обрѣте ·",
     "originalText": "Εἰσαγαγόντος τινὸς αὐτὸν εἰς οἶκον πολυτελῆ καὶ κωλύοντος πτύσαι, ἐπειδὴ ἐχρέμψατο, εἰς τὴν ὄψιν αὐτοῦ ἔπτυσεν, εἰπὼν χείρονα τόπον μὴ εὑρηκέναι.",
     "author": "Diogenes",
     "year": -374,
@@ -401,9 +384,9 @@
   {
     "id": "mm-000848",
     "type": "anecdote",
-    "sr": "Danju je nosio upaljen fenjer i govorio da traži čoveka.",
-    "stsl": "Дьньмь свѣштѫ горѧштѫ носѧше и глаголаше · чловѣка иштѫ ·",
-    "originalText": "Λύχνον μεθ' ἡμέραν ἅψας, « Ἄνθρωπον, » φησί, « ζητῶ. »",
+    "sr": "Usred dana upali svetiljku i reče: Tražim čoveka.",
+    "stsl": "Посрѣдѣ дьне свѣтильникъ въꙁже и рече · Чловѣка иштѫ ·",
+    "originalText": "Λύχνον μεθ' ἡμέραν ἅψας, «Ἄνθρωπον,» φησί, «ζητῶ.»",
     "author": "Diogenes",
     "year": -355,
     "sources": [
@@ -415,9 +398,9 @@
   },
   {
     "id": "mm-000849",
-    "type": "anecdote",
-    "sr": "Atinjani su ga voleli: kada je jedan mladić razbio njegov pitos, dečaka su išibali i Diogenu dali drugi.",
-    "stsl": "Атинѧне єго люблѧахѫ · єгда отърокъ пифосъ єго разби · Отърока бити повелѣша и Диогенѹ дрѹгыи даша ·",
+    "type": "bio",
+    "sr": "Atinjani su voleli Diogena: kada jedan mladić razbi njegov vrč, mladića išibaše, a Diogenu dadoše drugi.",
+    "stsl": "Атинѧне Диогена люблѧахѫ · єгда нѣкыи юноша чрѣпъ єго разби · юношѫ биша · Диогенѹ же дрѹгыи даша ·",
     "originalText": "Ἠγαπᾶτο δὲ καὶ πρὸς Ἀθηναίων· μειρακίου γοῦν τὸν πίθον αὐτοῦ συντρίψαντος, τῷ μὲν πληγὰς ἔδοσαν, ἐκείνῳ δὲ ἄλλον παρέσχον.",
     "author": "Diogenes",
     "year": -348,
@@ -428,12 +411,12 @@
       }
     ]
   },
-  {
+ {
     "id": "mm-000850",
     "type": "anecdote",
-    "sr": "Posle Heroneje odveden je Filipu. Na pitanje ko je, odgovorio je: Uhoda tvoje nezasite pohlepe. Zbog toga je bio pušten.",
-    "stsl": "По Херонии къ Филиппѹ приведєнъ бысть · на въпросъ кто єси · Отъвѣща · соглѧдатаи твоєѧ ненасытныѧ жадости · и за сие отъпѹштенъ бысть ·",
-    "originalText": "μετὰ Χαιρώνειαν συλληφθεὶς ἀπήχθη πρὸς Φίλιππον· καὶ ἐρωτηθεὶς τίς εἴη, ἀπεκρίνατο, « Κατάσκοπος τῆς σῆς ἀπληστίας. » Ὅθεν θαυμασθεὶς ἀφείθη.",
+    "sr": "Posle Heroneje Diogen bi zarobljen i odveden Filipu. Upitan ko je, odgovori: Uhoda tvoje nezasite pohlepe. Zadivljen njime, Filip ga pusti.",
+    "stsl": "По Херонии Диогенъ плѣнєнъ бысть и къ Филиппѹ приведєнъ · Въпрошенъ кто єсть · отъвѣща · Соглѧдатаи твоєѧ ненасытныѧ жадости · Подививъ сѧ ємѹ · Филиппъ єго отъпѹсти ·",
+    "originalText": "μετὰ Χαιρώνειαν συλληφθεὶς ἀπήχθη πρὸς Φίλιππον· καὶ ἐρωτηθεὶς τίς εἴη, ἀπεκρίνατο, «Κατάσκοπος τῆς σῆς ἀπληστίας.» Ὅθεν θαυμασθεὶς ἀφείθη.",
     "author": "Diogenes",
     "year": -338,
     "sources": [
@@ -1093,9 +1076,9 @@
     "id": "mm-000897",
     "type": "bio",
     "year": -360,
-    "sr": "Pošto mu obećana kućica nije bila na vreme pribavljena, Diogen je za stan uzeo pitos u Metroonu. Leti se valjao po vrelom pesku, a zimi grlio snegom prekrivene kipove, vežbajući se na svaki način.",
-    "stsl": "Понеже обѣштана храмина не бысть ємѹ въ врѣмѧ ѹстроєна · Диогенъ питосъ въ Метроонѣ жилиштемъ възѧ · Лѣтѣ по горѧштемъ пѣсцѣ валѧаше сѧ · зимѣ же снѣгомъ покрꙑтыѩ стълпы обимаше · вьсѧко себе ѹчѧ ·",
-    "originalText": "Ἐπιστείλας δέ τινι οἰκίδιον αὐτῷ προνοήσασθαι, βραδύνοντος, τὸν ἐν τῷ Μητρῴῳ πίθον ἔσχεν οἰκίαν. Καὶ θέρους μὲν ἐπὶ ψάμμου ζεστῆς ἐκυλινδεῖτο, χειμῶνος δ' ἀνδριάντας κεχιονισμένους περιελάμβανε, πανταχόθεν ἑαυτὸν συνασκῶν.",
+    "sr": "Leti se Diogen valjao po vrelom pesku, a zimi grlio snegom prekrivene kipove, vežbajući sebe na svaki način.",
+    "stsl": "Лѣтѣ Диогенъ по горѧштемъ пѣсцѣ валѧаше сѧ · зимѣ же снѣгомъ покрꙑтыѩ стълпы обимаше · вьсѧко себе ѹпражнѧѧ ·",
+    "originalText": "Καὶ θέρους μὲν ἐπὶ ψάμμου ζεστῆς ἐκυλινδεῖτο, χειμῶνος δ' ἀνδριάντας κεχιονισμένους περιελάμβανε, πανταχόθεν ἑαυτὸν συνασκῶν.",
     "author": "Diogenes",
     "sources": [
       {
@@ -1105,20 +1088,20 @@
     ]
   },
   {
-    "id": "mm-000898",
-    "type": "anecdote",
-    "year": -350,
-    "sr": "Videvši Platona kako na raskošnoj gozbi uzima masline, Diogen ga upita zašto sada ne uživa u jelima zbog kojih je plovio na Siciliju. Platon odgovori da je i onde uglavnom jeo masline. „Zašto je onda trebalo ploviti u Sirakuzu? Zar Atika tada nije rađala masline?“ Prema Favorinu, ovo je rekao Aristip.",
-    "stsl": "Видѣвъ Платона на богатѣи трѧпезѣ маслины приємлѭшта · Диогенъ въпроси · почто нынѣ не насладиши сѧ брашны · ихъже ради въ Сикелиѭ плава · Платонъ отвѣшта ꙗко и тамо множаише маслины ꙗдааше · Почто ѹбо въ Сѵракѹсѫ плѹти подобаше · Еда тогда Атика маслинъ не раждааше · По Фаворинѹ · се Аристипъ рече ·",
-    "originalText": "Καί ποτε Πλάτωνα ἐν δείπνῳ πολυτελεῖ κατανοήσας ἐλάας ἁψάμενον, «Τί,» φησίν, «ὁ σοφὸς εἰς Σικελίαν πλεύσας τῶν τραπεζῶν τούτων χάριν, νῦν παρακειμένων οὐκ ἀπολαύεις;» ... «Τί οὖν ἔδει πλεῖν εἰς Συρακούσας; Ἢ τότε ἡ Ἀττικὴ οὐκ ἔφερεν ἐλάας;» Φαβωρῖνος δέ φησιν ... Ἀρίστιππον εἰπεῖν τοῦτο.",
-    "author": "Diogenes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.25"
-      }
-    ]
-  },
+  "id": "mm-000898",
+  "type": "anecdote",
+  "year": -350,
+  "sr": "Videvši Platona kako na raskošnoj gozbi jede masline, Diogen ga upita: Zašto ti, mudrac koji si radi ovakvih trpeza plovio na Siciliju, sada ne uživaš u njima kad su pred tobom? Platon odgovori: Tako mi bogova, Diogene, i onde sam ponajviše jeo masline i slično. A zašto je onda trebalo ploviti u Sirakuzu? Zar Atika tada nije rađala masline?",
+  "stsl": "Видѣвъ Платѡна на богатѣи трѧпезѣ маслины ꙗдѫшта · Диогенъ въпроси · Почто ты · мѫдрьче · иже сихъ трѧпеꙁъ ради въ Сикеліѭ плава · нынѣ прѣдълежѧштихъ не насладиши сѧ · Платѡнъ отъвѣшта · Богы ми · Диогене · и тамо множаише маслины и подобьнаꙗ ꙗдаахъ · Почто ѹбо въ Сѵракѹсѫ плѹти подобаше · Еда тогда Атика маслинъ не раждааше ·",
+  "originalText": "Καί ποτε Πλάτωνα ἐν δείπνῳ πολυτελεῖ κατανοήσας ἐλάας ἁψάμενον, «Τί,» φησίν, «ὁ σοφὸς εἰς Σικελίαν πλεύσας τῶν τραπεζῶν τούτων χάριν, νῦν παρακειμένων οὐκ ἀπολαύεις;» ὁ δέ, «Νὴ τοὺς θεούς,» ἔφη, «ὦ Διόγενες, κἀκεῖ τὰ πολλὰ πρὸς ἐλάας καὶ τὰ τοιαῦτα διεγενόμην.» «Τί οὖν ἔδει πλεῖν εἰς Συρακούσας; Ἢ τότε ἡ Ἀττικὴ οὐκ ἔφερεν ἐλάας;»",
+  "author": "Diogenes",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VI.25"
+    }
+  ]
+},
   {
     "id": "mm-000899",
     "type": "anecdote",
@@ -2002,7 +1985,7 @@
   },
   {
     "id": "mm-000959",
-    "type": "reported",
+    "type": "works",
     "sr": "U delu Tijest, ako su tragedije zaista njegove, Diogen je tvrdio da nije neprilično uzeti nešto iz hrama niti okusiti bilo koju životinju, pa ni dotaknuti ljudsko meso, kako pokazuju običaji drugih naroda. Govorio je da je sve u svemu i kroz sve: u hlebu ima mesa, a u povrću hleba, jer tela nevidljivim prolazima ulaze jedno u drugo i zajedno isparavaju.",
     "stsl": "Въ дѣлѣ Тиестъ · аште трагедїѩ въ истинѫ єго сѫть · Диогенъ глаголаше ꙗко ни изъ свѧтилища что възѧти · ни животьнаго вкѹсити неприличьно єсть · ни чловѣчьскаго мѧса коснѫти сѧ · ꙗкоже инѣхъ народъ обꙑчаи показѹѭть · Вьсѧ бо въ вьсѣхъ и сквозѣ вьсѧ сѫть · въ хлѣбѣ мѧсо · въ былїи хлѣбъ · тѣлеса бо невидимыими пѫтьми дрѹгъ въ дрѹга въходѧть и съпарѧѭть сѧ ·",
     "originalText": "Μηδέν τε ἄτοπον εἶναι ἐξ ἱεροῦ τι λαβεῖν ἢ τῶν ζῴων τινὸς γεύσασθαι· μηδ' ἀνόσιον εἶναι τὸ καὶ τῶν ἀνθρωπείων κρεῶν ἅψασθαι, ὡς δῆλον ἐκ τῶν ἀλλοτρίων ἐθῶν· καὶ τῷ ὀρθῷ λόγῳ πάντ' ἐν πᾶσι καὶ διὰ πάντων εἶναι λέγων. Καὶ γὰρ ἐν τῷ ἄρτῳ κρέας εἶναι καὶ ἐν τῷ λαχάνῳ ἄρτον ... ὡς δῆλον ἐν τῷ Θυέστῃ ποιεῖ, εἴ γ' αὐτοῦ αἱ τραγῳδίαι.",
