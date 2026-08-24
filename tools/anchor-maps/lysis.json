@@ -148,6 +148,134 @@
     "210e": {
       "sr": { "before": "Sokrat · Kad sam to čuo i pogledao Hipotala" },
       "stsl": { "before": "Сѡкратъ · Аꙁъ же слꙑшавъ сего и възрѣвъ на Иппоѳала" }
+    },
+    "211a": {
+      "sr": { "before": "zadržah slovo" },
+      "stsl": { "before": "ѹдрьжахъ слово" }
+    },
+    "211b": {
+      "sr": { "before": "najjasnije možeš da zapamtiš" },
+      "stsl": { "before": "паче можеши · помьнити" }
+    },
+    "211c": {
+      "sr": { "before": "da s njim razgovaraš" },
+      "stsl": { "before": "съ нимь тебѣ разговаривати" }
+    },
+    "211d": {
+      "sr": { "before": "delite slovo?" },
+      "stsl": { "before": "дѣлита словеса" }
+    },
+    "211e": {
+      "sr": { "before": "steći konje, drugi pse" },
+      "stsl": { "before": "стѧжати конѧ · инъ пъсъ" }
+    },
+    "212a": {
+      "sr": { "before": "tebe i Lisida, divim vam se" },
+      "stsl": { "before": "видѧ · дивлѭ сѧ и благочѧстна" }
+    },
+    "212b": {
+      "sr": { "before": "biva prijatelj — onaj koji voli" },
+      "stsl": { "before": "дрѹгъ бꙑваѥть · любѧи ли" }
+    },
+    "212c": {
+      "sr": { "before": "veoma vole, a neki nisu voljeni" },
+      "stsl": { "before": "мъного любѧще · инꙑмъ не любими" }
+    },
+    "212d": {
+      "sr": { "before": "Tako se čini.\n\nSokrat · Dakle" },
+      "stsl": { "before": "Тако видить сѧ ·\n\nСѡкратъ · Ничтоже" }
+    },
+    "212e": {
+      "sr": { "before": "svako voli te stvari, iako mu nisu prijatelji" },
+      "stsl": { "before": "сиꙗ любѧть · аще имъ дрѹꙁи нѣсѫть" }
+    },
+    "213a": {
+      "sr": { "before": "i mrze kada ih otac ili majka" },
+      "stsl": { "before": "и мръзѧть · єгда отьць или мати" }
+    },
+    "213b": {
+      "sr": { "before": "neprijateljima biti prijatelji" },
+      "stsl": { "before": "врагомъ дрѹꙁи и дрѹгомъ врази" }
+    },
+    "213c": {
+      "sr": { "before": "da će često neko biti prijatelj" },
+      "stsl": { "before": "ꙗко мъногажды не дрѹгѹ дрѹгъ бѫдеть" }
+    },
+    "213d": {
+      "sr": { "before": "Sokrat · Nismo li onda, Meneksene" },
+      "stsl": { "before": "Сѡкратъ · Не ли ѹбо · о Менексене" }
+    },
+    "213e": {
+      "sr": { "before": "njemu i ponovo započeh razgovor" },
+      "stsl": { "before": "немѹ обращь сѧ начѧхъ пакꙑ разговоръ" }
+    },
+    "214a": {
+      "sr": { "before": "Pesnici su nam, naime" },
+      "stsl": { "before": "Пѣснотворьци бо намъ" }
+    },
+    "214b": {
+      "sr": { "before": "i znanim čini." },
+      "stsl": { "before": "и знаема творить" }
+    },
+    "214c": {
+      "sr": { "before": "što je bliži drugom rđavom" },
+      "stsl": { "before": "колико ближе зъломѹ приступаѥть" }
+    },
+    "214d": {
+      "sr": { "before": "nepostojani i promenljivi" },
+      "stsl": { "before": "непостояньни и измѣньливи" }
+    },
+    "214e": {
+      "sr": { "before": "pokazuje da su to dobri." },
+      "stsl": { "before": "показѹѥть · ꙗко добрии" }
+    },
+    "215a": {
+      "sr": { "after": "Može li?" },
+      "stsl": { "after": "Можеть ли ·" }
+    },
+    "215b": {
+      "sr": { "before": "ništa ne treba, upravo zato" },
+      "stsl": { "before": "ни единого трѣбѹѥть" }
+    },
+    "215c": {
+      "sr": { "before": "Sokrat · A ne bi bili prijatelji" },
+      "stsl": { "before": "Сѡкратъ · Дрѹꙁи же не бꙑли бы" }
+    },
+    "215d": {
+      "sr": { "before": "prosjak prosjaku." },
+      "stsl": { "before": "нищии нищемѹ" }
+    },
+    "215e": {
+      "sr": { "before": "Sokrat · I još je uzveličavao" },
+      "stsl": { "before": "Сѡкратъ · И єще величааше" }
+    },
+    "216a": {
+      "sr": { "before": "nema ništa. I mislim" },
+      "stsl": { "before": "ничьтоже имать · И мьнѭ" }
+    },
+    "216b": {
+      "sr": { "before": "Nije li neprijateljstvo najoprečnije prijateljstvu?" },
+      "stsl": { "before": "Не ли вражьда паче вьсѣхъ противьна дрѹжьбѣ єсть" }
+    },
+    "216d": {
+      "sr": { "before": "zato nam možda lako izmiče" },
+      "stsl": { "before": "сего ради можеть быти легко намъ" }
+    },
+    "216e": {
+      "sr": { "before": "zlu, kako nam prethodno" },
+      "stsl": { "before": "злоѹ дрѹгъ єсть" }
+    },
+    "217a": {
+      "sr": { "before": "dobrome.\n\nMeneksen · Nužno" },
+      "stsl": { "before": "бꙑти ·\n\nМенексенъ · Нѫжда" }
+    },
+    "217b": {
+      "sr": { "before": "Meneksen · Kako ne.\n\nSokrat · Bolest" },
+      "stsl": { "before": "Менексенъ · Како ни ·\n\nСѡкратъ · Болѣзнь" }
+    },
+    "217c": {
+      "sr": { "before": "više ne bi želelo dobro" },
+      "stsl": { "before": "к томѹ добра не желало бы" }
     }
   }
 }

@@ -293,40 +293,44 @@ Sokrat · Dakle, ni ne misliš visoko o sebi, pošto još nisi mudar.
 Lisid · Zevsa mi, Sokrate, ne mislim, reče.
 
 <!-- anchor:210e -->
-Sokrat · Kad sam to čuo i pogledao Hipotala, umalo ne pogreših; došlo mi je, naime, da kažem: Ovako, Hipotale, treba razgovarati s voljenim, smirujući ga i obuzdavajući, a ne kao ti, uzdižući ga i kvareći. Ali videvši ga uznemirena i postiđena onim što je rečeno, setih se da je, stojeći tamo, želeo da ga Lisid ne vidi. Zato se uzdržah i zadržah slovo.
+Sokrat · Kad sam to čuo i pogledao Hipotala, umalo ne pogreših; došlo mi je, naime, da kažem: Ovako, Hipotale, treba razgovarati s voljenim, smirujući ga i obuzdavajući, a ne kao ti, uzdižući ga i kvareći. Ali videvši ga uznemirena i postiđena onim što je rečeno, setih se da je, stojeći tamo, želeo da ga Lisid ne vidi. Zato se uzdržah i <!-- anchor:211a -->zadržah slovo.
 
-<!-- anchor:211a -->
 Sokrat · U međuvremenu se Meneksen vrati i sede kraj Lisida, gde je ranije sedeo. Lisid mi, pomalo detinje, krišom od Meneksena šapnu: Sokrate, ono što si meni rekao, reci i Meneksenu.
 
 Sokrat · Ti ćeš mu, rekoh, reći; jer pamtiš.
 
 Lisid · I te kako, reče.
 
-<!-- anchor:211b -->
-Sokrat · Pokušaj onda, rekoh, koliko možeš, da zapamtiš i jasno mu sve izložiš. Ako nešto zaboraviš, opet mene pitaj prvi put kad me sretneš.
+Sokrat · Pokušaj onda, rekoh, koliko <!-- anchor:211b -->najjasnije možeš da zapamtiš i jasno mu sve izložiš. Ako nešto zaboraviš, opet mene pitaj prvi put kad me sretneš.
 
 Lisid · Učiniću to, Sokrate, veoma rado, reče. Ali govori mu još nešto, da i ja slušam dok ne dođe vreme da idem kući.
 
-Sokrat · Treba onda, rekoh, pošto i ti moliš. Ali Meneksen je svadljiv, i ti to znaš.
+Sokrat · Treba onda, rekoh, pošto i ti zapovedaš. Ali gledaj kako ćeš mi pomoći ako Meneksen pokuša da me pobije. Zar ne znaš da je prepirljiv?
 
-<!-- anchor:211c -->
-Lisid · I te kako, reče.
+Lisid · Zevsa mi, i te kako; zato i želim <!-- anchor:211c -->da s njim razgovaraš.
 
-Sokrat · Da ga izgrdimo? rekoh.
+Sokrat · Da mi se rugaju? rekoh.
 
-Lisid · I te kako, reče.
+Lisid · Ne, Zevsa mi, nego da ga ukoriš.
 
-Sokrat · Pogledavši Meneksena, rekoh: Sine Demofontov, od detinjstva postoji neko sticanje koje ja želim, kao što drugi žele drugo. Jedan želi konje, drugi pse, drugi zlato, drugi čast.
+Sokrat · Otkuda? rekoh. Nije lako: strašan je taj čovek, Ktesipov učenik. A i sam Ktesip je ovde — zar ga ne vidiš?
 
-<!-- anchor:211d -->
-Sokrat · Ja sam prema takvim stvarima blag, ali prijatelje veoma želim da steknem; i radije bih imao dobra prijatelja nego najboljeg prepelca ili petla, pa i radije nego konja ili psa; mislim, psa mi, radije nego sve Darijevo zlato. Toliki sam ljubitelj prijateljstva. Zato, gledajući tebe i Lisida, divim vam se i nazivam vas srećnima što ste, tako mladi, brzo stekli to dobro.
+Lisid · Ne mari za nikoga, Sokrate, nego idi i razgovaraj s njim.
 
-<!-- anchor:211e -->
-Sokrat · Ti si ovoga Lisida tako brzo zadobio za bliskog prijatelja, a on tebe; ja sam pak toliko daleko od takvog sticanja da ne znam ni kako jedan čovek drugome biva prijatelj. Upravo to pitam tebe kao onoga koji zna: kada neko nekoga voli, koji kome biva prijatelj — onaj koji voli voljenome, ili voljeni onome koji voli, ili nema razlike?
+Sokrat · Mora se razgovarati, rekoh.
+
+Ktesip · Šta to vas dvojica sami gozbu imate, a nama ne <!-- anchor:211d -->delite slovo?
+
+Sokrat · Treba deliti. Ovaj, naime, nešto od onoga što govorim ne razume, nego kaže da Meneksen zna i nalaže mi da njega pitam.
+
+Ktesip · Pa zašto ga ne pitaš?
+
+Sokrat · Pitaću ga. Reci mi, Meneksene, ono što te upitam. Od detinjstva želim neko sticanje, kao što drugi žele drugo. Jedan, naime, želi <!-- anchor:211e -->steći konje, drugi pse, drugi zlato, drugi čast.
+
+Sokrat · Ja sam prema takvim stvarima blag, ali prijatelje veoma želim da steknem; i radije bih imao dobra prijatelja nego najboljeg prepelca ili petla, pa i radije nego konja ili psa; mislim, psa mi, radije nego sve Darijevo zlato — štaviše, pre nego samog Darija. Toliki sam ljubitelj prijateljstva. Gledajući <!-- anchor:212a -->tebe i Lisida, divim vam se i nazivam vas srećnima što ste, tako mladi, brzo i lako stekli to dobro. Ti si ovoga Lisida tako brzo i snažno zadobio za prijatelja, a on tebe; ja sam pak toliko daleko od takvog sticanja da ne znam ni kako jedan čovek drugome biva prijatelj. Upravo to pitam tebe kao onoga koji zna: kada neko nekoga voli, koji kome <!-- anchor:212b -->biva prijatelj — onaj koji voli voljenome, ili voljeni onome koji voli, ili nema razlike?
 
 Meneksen · Meni se čini da nema razlike, reče.
 
-<!-- anchor:212a -->
 Sokrat · Kako kažeš? Obojica bivaju prijatelji jedan drugome ako samo jedan voli drugoga?
 
 Meneksen · Mislim, reče.
@@ -335,11 +339,10 @@ Sokrat · A može li onaj koji voli da ne bude voljen od onoga koga voli?
 
 Meneksen · Može.
 
-Sokrat · Zar ne i omrznut? Mislim da ljubavnici često upravo to trpe od voljenih: veoma vole, a neki nisu voljeni, neki su čak i omrznuti. Ne govorim li istinu?
+Sokrat · Zar ne i omrznut? Mislim da ljubavnici često upravo to trpe od voljenih: <!-- anchor:212c -->veoma vole, a neki nisu voljeni, neki su čak i omrznuti. Ne govorim li istinu?
 
 Meneksen · I te kako, reče.
 
-<!-- anchor:212b -->
 Sokrat · U takvom slučaju jedan voli, a drugi je voljen.
 
 Meneksen · Tako je.
@@ -348,26 +351,25 @@ Sokrat · Koji je onda kome prijatelj: onaj koji voli voljenome, makar sam ne bi
 
 Meneksen · Ni jedno mi se ne čini, reče.
 
-<!-- anchor:212c -->
 Sokrat · Ako je tako, izgleda da sada mislimo nešto drugo nego ranije. Tada smo govorili da su obojica prijatelji ako jedan voli; sada pak, ako obojica ne vole, nijedan nije prijatelj.
 
-Meneksen · Tako se čini.
+Meneksen · <!-- anchor:212d -->Tako se čini.
 
 Sokrat · Dakle, ništa nam nije prijatelj ako nas zauzvrat ne voli.
 
 Meneksen · Ne čini se.
 
-<!-- anchor:212d -->
 Sokrat · Onda ni ljubiteljima konja konji nisu prijatelji ako konji njih ne vole, ni ljubiteljima prepelica prepelice, ni ljubiteljima pasa psi, ni ljubiteljima vina vino, ni ljubiteljima tela telo, ni mudroljupcima mudrost.
 
-Meneksen · Ali svi vole te stvari, dok one njih ne vole zauzvrat.
-
-Sokrat · Vole li onda lažno ono što im nije prijatelj?
+Meneksen · Zar onda <!-- anchor:212e -->svako voli te stvari, iako mu nisu prijatelji, a pesnik laže kada reče: Blagosloven je onaj kome su prijatelji deca, jednokopitni konji, lovački psi i strani gost?
 
 Meneksen · Ne mislim.
 
-<!-- anchor:212e -->
-Sokrat · Dakle, onaj koji voli jeste prijatelj voljenome, makar bio od njega i omrznut, kao što mala deca često mrze roditelje kada ih ovi kažnjavaju. Pa ipak su im i tada, kada ih deca mrze, roditelji ponajviše prijatelji.
+Sokrat · A čini li ti se da on govori istinu?
+
+Meneksen · Da.
+
+Sokrat · Voljeni je, dakle, prijatelj onome koji voli, kako se čini, bilo da voli ili mrzi; kao mala deca, odskora rođena, koja neka još ne vole, a neka <!-- anchor:213a -->i mrze kada ih otac ili majka kažnjavaju. Pa ipak su im i tada, kada ih deca mrze, roditelji ponajviše prijatelji.
 
 Meneksen · Tako mi se čini.
 
@@ -375,16 +377,14 @@ Sokrat · Iz toga slova, dakle, izgleda da prijatelj nije onaj koji voli, nego o
 
 Meneksen · Čini se.
 
-<!-- anchor:213a -->
 Sokrat · I neprijatelj je onda onaj koji je omrznut, a ne onaj koji mrzi.
 
 Meneksen · Nužno.
 
-Sokrat · Mnogi će, dakle, biti voljeni od neprijatelja i omrznuti od prijatelja, pa će neprijateljima biti prijatelji, a prijateljima neprijatelji, ako je prijatelj voljeni, a ne onaj koji voli. Ali izgleda veoma bezumno, štaviše nemoguće, biti prijatelj neprijatelju i neprijatelj prijatelju.
+Sokrat · Mnogi će, dakle, biti voljeni od neprijatelja i omrznuti od prijatelja, pa će <!-- anchor:213b -->neprijateljima biti prijatelji, a prijateljima neprijatelji, ako je prijatelj voljeni, a ne onaj koji voli. Ali izgleda veoma bezumno, štaviše nemoguće, biti prijatelj neprijatelju i neprijatelj prijatelju.
 
 Meneksen · Čini se da govoriš istinu, Sokrate.
 
-<!-- anchor:213b -->
 Sokrat · Ako je to nemoguće, onda će onaj koji voli biti prijatelj voljenome.
 
 Meneksen · Tako se čini.
@@ -393,29 +393,26 @@ Sokrat · A onaj koji mrzi neprijatelj omrznutome.
 
 Meneksen · Nužno.
 
-Sokrat · Opet smo, dakle, prinuđeni da prihvatimo prvo slovo: da će često neko biti prijatelj onome koji mu nije prijatelj, ako voli nekoga ko ga ne voli ili ga čak mrzi; i neprijatelj onome koji mu nije neprijatelj, kada mrzi nekoga ko njega ne mrzi ili ga čak voli.
+Sokrat · Opet smo, dakle, prinuđeni da prihvatimo prvo slovo: <!-- anchor:213c -->da će često neko biti prijatelj onome koji mu nije prijatelj, ako voli nekoga ko ga ne voli ili ga čak mrzi; i neprijatelj onome koji mu nije neprijatelj, kada mrzi nekoga ko njega ne mrzi ili ga čak voli.
 
 Meneksen · Tako se čini.
 
-<!-- anchor:213c -->
 Sokrat · Šta onda da činimo, rekoh, ako ni oni koji vole nisu prijatelji, ni oni koji su voljeni, ni oni koji i vole i bivaju voljeni? Ima li još nekih za koje ćemo reći da su jedni drugima prijatelji?
 
 Meneksen · Zevsa mi, Sokrate, ja više ne znam.
 
+<!-- anchor:213d -->
 Sokrat · Nismo li onda, Meneksene, od početka rđavo tražili?
 
 Lisid · Ja mislim da jesmo, Sokrate, reče, i odmah pocrvene.
 
-<!-- anchor:213d -->
-Sokrat · Činilo mi se da mu je slovo izletelo iz usta protiv volje, jer je veoma pažljivo pratio razgovor; to se i ranije jasno videlo na njegovu licu. A ja, želeći da Meneksenu dam malo odmora i radujući se Lisidovu mudroljublju, okrenuh se njemu i ponovo započeh razgovor: Čini mi se da pravo govoriš, Liside.
+Sokrat · Činilo mi se da mu je slovo izletelo iz usta protiv volje, jer je veoma pažljivo pratio razgovor; to se i ranije jasno videlo na njegovu licu. A ja, želeći da Meneksenu dam malo odmora i radujući se Lisidovu mudroljublju, okrenuh se <!-- anchor:213e -->njemu i ponovo započeh razgovor: Čini mi se da pravo govoriš, Liside.
 
-<!-- anchor:213e -->
-Sokrat · Jer da smo pravo tražili, ne bismo tako zalutali. Nego ne idimo više tim putem, jer se pokazao nekako težak, već drugim putem, kojim smo u početku počeli misliti, tražimo šta je prijateljstvo. Pesnici su nam, naime, kao oci mudrosti i vođe; oni, mislim, ne govore rđavo o prijateljima kada kažu da sam bog vodi prijatelja prijatelju, podobno podobnom.
+Sokrat · Jer da smo pravo tražili, ne bismo tako zalutali. Nego ne idimo više tim putem, jer se pokazao nekako težak, već drugim putem, kojim smo u početku počeli misliti, tražimo šta je prijateljstvo. <!-- anchor:214a -->Pesnici su nam, naime, kao oci mudrosti i vođe; oni, mislim, ne govore rđavo o prijateljima kada kažu da sam bog vodi prijatelja prijatelju, podobno podobnom.
 
-<!-- anchor:214a -->
 Sokrat · I negde, mislim, kaže:
 
-Bog vazda podobnoga podobnome vodi.
+Bog vazda podobnoga podobnome vodi<!-- anchor:214b --> i znanim čini.
 
 Zar nisi naišao na te stihove?
 
@@ -425,40 +422,35 @@ Sokrat · A nisi li naišao i na spise mudrih ljudi koji govore upravo isto: da 
 
 Lisid · Istina, reče.
 
-<!-- anchor:214b -->
 Sokrat · Govore li onda dobro? rekoh.
 
 Lisid · Možda, reče.
 
-Sokrat · Možda, rekoh, napola; možda i sasvim istinito, ali mi ne razumemo. Jer nama se čini da rđav, što je bliži drugom rđavom i što se više s njim druži, tim više biva neprijatelj: čini mu nepravdu, a onima koji čine i trpe nepravdu nemoguće je biti prijateljima. Nije li tako?
+Sokrat · Možda, rekoh, napola; možda i sasvim istinito, ali mi ne razumemo. Jer nama se čini da rđav, <!-- anchor:214c -->što je bliži drugom rđavom i što se više s njim druži, tim više biva neprijatelj: čini mu nepravdu, a onima koji čine i trpe nepravdu nemoguće je biti prijateljima. Nije li tako?
 
 Lisid · Da, reče.
 
-<!-- anchor:214c -->
 Sokrat · Polovina slova bi, dakle, bila neistinita ako su rđavi podobni jedni drugima.
 
 Lisid · Istina.
 
-Sokrat · Ali mislim da oni hoće reći da su dobri podobni jedni drugima i prijatelji, dok rđavi nikada nisu podobni ni sami sebi, jer su nepostojani i promenljivi; a ono što je samo sebi nepodobno i različito teško može biti podobno drugome ili njegov prijatelj. Ne čini li se i tebi tako?
+Sokrat · Ali mislim da oni hoće reći da su dobri podobni jedni drugima i prijatelji, dok rđavi nikada nisu podobni ni sami sebi, jer su <!-- anchor:214d -->nepostojani i promenljivi; a ono što je samo sebi nepodobno i različito teško može biti podobno drugome ili njegov prijatelj. Ne čini li se i tebi tako?
 
 Lisid · Čini, reče.
 
-<!-- anchor:214d -->
 Sokrat · Tako, mislim, prijatelju, u zagonetki govore oni koji kažu da je podobno prijatelj podobnome: da je jedino dobar prijatelj dobrome, a rđav nikada nema istinsko prijateljstvo ni s dobrim ni s rđavim. Slažeš li se?
 
 Lisid klimnu.
 
-Sokrat · Sada, dakle, znamo ko su prijatelji; slovo nam pokazuje da su to dobri.
+Sokrat · Sada, dakle, znamo ko su prijatelji; slovo nam <!-- anchor:214e -->pokazuje da su to dobri.
 
 Lisid · I te kako, reče.
 
-<!-- anchor:214e -->
 Sokrat · I meni se, rekoh, tako čini. Ipak me nešto u tome muči. Hajde onda, Zevsa radi, da vidimo ono što sumnjam. Je li podobno podobnome prijatelj upravo zato što je podobno, i je li mu korisno? Ili ovako: može li jedna podobna stvar drugoj podobnoj učiniti ikakvu korist ili štetu koju ne može i sama sebi?
 
 Lisid · Kako bi?
 
-<!-- anchor:215a -->
-Sokrat · Kako bi onda takve stvari bile prijatelji jedna drugoj kada nijednu pomoć ne mogu imati jedna od druge? Može li?
+Sokrat · Kako bi onda takve stvari bile prijatelji jedna drugoj kada nijednu pomoć ne mogu imati jedna od druge? Može li?<!-- anchor:215a -->
 
 Lisid · Ne.
 
@@ -470,12 +462,11 @@ Sokrat · Dakle, podobno nije prijatelj podobnome. Ali možda je dobar prijatelj
 
 Lisid · Možda.
 
-<!-- anchor:215b -->
 Sokrat · A dobar, upravo zato što je dobar, nije li dovoljan sam sebi?
 
 Lisid · Da.
 
-Sokrat · A onaj koji je dovoljan ništa ne treba, upravo zato što je dovoljan.
+Sokrat · A onaj koji je dovoljan <!-- anchor:215b -->ništa ne treba, upravo zato što je dovoljan.
 
 Lisid · Kako bi?
 
@@ -487,7 +478,6 @@ Sokrat · A ono za šta nije vezan ne bi ni voleo.
 
 Lisid · Ne.
 
-<!-- anchor:215c -->
 Sokrat · A ko ne voli, nije prijatelj.
 
 Lisid · Ne čini se.
@@ -496,7 +486,7 @@ Sokrat · Kako će onda dobri biti prijatelji dobrima ako ni u odsustvu ne žele
 
 Lisid · Nikako, reče.
 
-<!-- anchor:215d -->
+<!-- anchor:215c -->
 Sokrat · A ne bi bili prijatelji ako jedni druge mnogo ne cene.
 
 Lisid · Istina.
@@ -507,21 +497,43 @@ Lisid · Kako? reče.
 
 Sokrat · Sećam se da sam nekada čuo neko slovo da su podobni podobnima, a dobri dobrima, ponajviše neprijatelji.
 
-<!-- anchor:215e -->
 Sokrat · I navodio je Hesioda kao svedoka, koji kaže:
 
-Grnčar grnčaru zavidi, i pesnik pesniku,
-prosjak prosjaku i pevač pevaču.
+Grnčar grnčaru zavidi i pevač pevaču,
+<!-- anchor:215d -->prosjak prosjaku.
 
-I za sve drugo je govorio da se upravo najpodobniji nužno ispunjavaju međusobnom zavišću, prepirkom i neprijateljstvom, dok nepodobni bivaju prijatelji.
+I za sve drugo je govorio da se upravo najpodobniji nužno ispunjavaju međusobnom zavišću, prepirkom i neprijateljstvom, dok nepodobni bivaju prijatelji. Siromah je po nuždi prijatelj bogatome, nemoćan moćnome radi pomoći, bolesnik lekaru, i svaki koji ne zna voli i želi onoga koji zna.
 
-<!-- anchor:216a -->
-Sokrat · Siromah je po nuždi prijatelj bogatome, nemoćan moćnome radi pomoći, bolesnik lekaru, i svaki koji ne zna voli i želi onoga koji zna. I još je uzveličavao slovo govoreći da je daleko od toga da podobno bude prijatelj podobnome, nego sasvim protivno: protivno je ponajviše prijatelj protivnome.
+<!-- anchor:215e -->
+Sokrat · I još je uzveličavao slovo govoreći da je daleko od toga da podobno bude prijatelj podobnome, nego sasvim protivno: protivno je ponajviše prijatelj protivnome.
 
-<!-- anchor:216b -->
-Sokrat · Jer svako želi svoje protivno, a ne podobno — suvo vlažno, hladno toplo, gorko slatko, oštro tupo, prazno puno, puno prazno, i ostalo isto tako: protivno protivnome. Jer podobno od podobnoga nema ništa. I mislim, prijatelju, da je lepo govorio, koliko sam čuo; zvučalo je dobro. A kako se vama čini?
+Sokrat · Jer svako želi svoje protivno, a ne podobno — suvo vlažno, hladno toplo, gorko slatko, oštro tupo, prazno puno, puno prazno, i ostalo isto tako: protivno protivnome. Jer podobno od podobnoga <!-- anchor:216a -->nema ništa. I mislim, prijatelju, da je lepo govorio, koliko sam čuo; zvučalo je dobro. A kako se vama čini?
 
 Meneksen · Dobro, reče, barem na prvo slušanje.
+
+Sokrat · Recimo, dakle, da je protivno ponajviše prijatelj protivnome?
+
+Meneksen · Sasvim.
+
+Sokrat · Dobro. Nije li čudno, Meneksene? Odmah će nas rado napasti oni sveznajući ljudi, prepirači, i upitati: <!-- anchor:216b -->Nije li neprijateljstvo najoprečnije prijateljstvu? Šta ćemo im odgovoriti? Zar ne moramo priznati da govore istinu?
+
+Meneksen · Moramo.
+
+Sokrat · Hoće li onda neprijateljsko biti prijatelj prijateljskome ili prijateljsko neprijateljskome?
+
+Meneksen · Ni jedno.
+
+Sokrat · A pravedno nepravednome, ili razborito razuzdanome, ili dobro zlu?
+
+Meneksen · Ne čini mi se.
+
+Sokrat · Pa ipak, ako je nešto prijateljsko po protivnosti, nužno je i ovo prijateljsko.
+
+Meneksen · Nužno.
+
+Sokrat · Dakle, ni podobno podobnome ni protivno protivnome nije prijatelj.
+
+Meneksen · Ne čini se.
 
 <!-- anchor:216c -->
 Sokrat · Razmotrimo još i ovo, da nam prijateljsko ne izmiče još više: možda ono zaista nije ništa od toga, nego ono što nije ni dobro ni zlo nekako biva prijatelj dobrome.
@@ -530,19 +542,17 @@ Meneksen · Kako to govoriš? reče.
 
 Sokrat · Zevsa mi, rekoh, ne znam, nego se zaista i sam vrtim od bezishodnosti slova; i gotovo da je, po staroj poslovici, lepo prijateljsko.
 
-<!-- anchor:216d -->
-Sokrat · Jer nalik je nečemu mekom, glatkom i klizavom; zato nam možda lako izmiče i provlači se, budući takvo. Kažem, naime, da je dobro lepo; zar ti ne misliš?
+Sokrat · Jer nalik je nečemu mekom, glatkom i klizavom; <!-- anchor:216d -->zato nam možda lako izmiče i provlači se, budući takvo. Kažem, naime, da je dobro lepo; zar ti ne misliš?
 
 Meneksen · Mislim.
 
 Sokrat · Govorim, dakle, proričući, da je ono što nije ni dobro ni zlo prijatelj lepom i dobrom. A na osnovu čega proričem, poslušaj.
 
-<!-- anchor:216e -->
 Sokrat · Čini mi se da postoje tri neka roda: dobro, zlo i ono što nije ni dobro ni zlo. A tebi?
 
 Meneksen · I meni, reče.
 
-Sokrat · Ni dobro nije prijatelj dobrome, ni zlo zlu, ni dobro zlu, kako nam prethodno slovo ne dopušta. Ostaje, dakle, ako je išta ičemu prijatelj, da ono što nije ni dobro ni zlo bude prijatelj ili dobrome ili nečemu takvom kakvo je samo. Jer zlu ništa ne može biti prijatelj.
+Sokrat · Ni dobro nije prijatelj dobrome, ni zlo zlu, ni dobro <!-- anchor:216e -->zlu, kako nam prethodno slovo ne dopušta. Ostaje, dakle, ako je išta ičemu prijatelj, da ono što nije ni dobro ni zlo bude prijatelj ili dobrome ili nečemu takvom kakvo je samo. Jer zlu ništa ne može biti prijatelj.
 
 Meneksen · Istina.
 
@@ -554,8 +564,7 @@ Sokrat · Dakle, ono što nije ni dobro ni zlo neće biti prijatelj nečemu isto
 
 Meneksen · Ne čini se.
 
-<!-- anchor:217a -->
-Sokrat · Dakle, jedino se događa da ono što nije ni dobro ni zlo bude prijatelj dobrome.
+Sokrat · Dakle, jedino se događa da ono što nije ni dobro ni zlo bude prijatelj <!-- anchor:217a -->dobrome.
 
 Meneksen · Nužno, kako se čini.
 
@@ -563,9 +572,9 @@ Sokrat · Ne vodi li nas sada dobro ovo što je rečeno, dečaci? Ako hoćemo da
 
 Meneksen · Niko.
 
-<!-- anchor:217b -->
 Sokrat · Nego bolesnik, mislim, zbog bolesti.
 
+<!-- anchor:217b -->
 Meneksen · Kako ne.
 
 Sokrat · Bolest je zlo, lekarstvo korisno i dobro.
@@ -584,8 +593,7 @@ Sokrat · Ono što nije ni zlo ni dobro, zbog prisustva zla, biva prijatelj dobr
 
 Meneksen · Tako se čini.
 
-<!-- anchor:217c -->
-Sokrat · Jasno, pre nego što samo postane zlo od zla koje ima. Jer kad bi postalo zlo, više ne bi želelo dobro niti bi mu bilo prijatelj; rekli smo da je nemoguće da zlo bude prijatelj dobrome.
+Sokrat · Jasno, pre nego što samo postane zlo od zla koje ima. Jer kad bi postalo zlo, <!-- anchor:217c -->više ne bi želelo dobro niti bi mu bilo prijatelj; rekli smo da je nemoguće da zlo bude prijatelj dobrome.
 
 Meneksen · Nemoguće.
 

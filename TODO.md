@@ -12,7 +12,7 @@ PORAVNAJ SIDRA CELIH DELA
   1. Epiktetove `Razgovore` — provera je otkrila pogrešan sadržaj IV.2 i 13 izostavljenih poglavlja; vidi dnevnik problema
   2. Platonov `Ion` — sidra poravnata; ostaje izostavljen tekst 540a
   3. `Eutifron` — sidra poravnata; `Lisid` poravnat i sadržinski proveren do
-     `210e`, nastaviti od `211a`; potom `Parmenid`
+     `217c`, nastaviti od `217d`; potom `Parmenid`
 - zatim proveriti `Kritona` i `Klitofonta`
 - posle svakog dela pokrenuti generatore i ručno proveriti početak, sredinu i kraj
 - kada sva sidra budu poravnata, ponoviti ocenu kvaliteta celih dela iz `docs/ANALIZA_KVALITETA_CELIH_DELA.md`
@@ -26,7 +26,7 @@ POPRAVI LOŠE PREVODE
 
 OSTALO
 - kod velikih filozofa ima previše sadržaja i stranica postaje nepregledna. možda foldovati sekcije ako imaju previše sadržaja. analizirati česte scenarije. npr. neko traži da čita platonove knjige, smeta mu što je biografija na vrhu stranice predugačka, a potom mnoštvo citata.
-- skrati prikaz dugih citata isto kao što su skraćena preduga dela (works)
+- skrati prikaz dugih citata isto kao što su skraćena preduga pisma (works). koristi isti limit reči
 - napraviti spisak filozofski najvažnijih termina
   - naglasiti samo njih u rečniku (ceo red, sve jezike)
 

@@ -3,8 +3,8 @@
     "id": "mm-000445",
     "type": "bio",
     "year": -279,
-    "sr": "Hrisip, sin Apolonijev, bio je iz Sola ili Tarsa.",
-    "stsl": "Хрисипъ · сынъ Аполониевъ · отъ Сола или Тарса бѣ ·",
+    "sr": "Hrisip, Apolonijev sin, bio je iz Sola ili Tarsa.",
+    "stsl": "Хрисипъ · Аполониевъ сынъ · отъ Солъ или Тарса бѣ ·",
     "originalText": "Χρύσιππος Ἀπολλωνίου Σολεύς, ἢ Ταρσεὺς.",
     "author": "Chrysippus",
     "sources": [
@@ -18,8 +18,8 @@
     "id": "mm-000446",
     "type": "bio",
     "year": -260,
-    "sr": "U mladosti je vežbao trčanje na duge staze.",
-    "stsl": "Въ юности на дългѹ стьзѹ тръчание упражнꙗаше ·",
+    "sr": "Najpre je vežbao trčanje na duge staze.",
+    "stsl": "Прѣжде долгомѹ бѣжанию ѹчаше сѧ ·",
     "originalText": "Οὗτος πρότερον μὲν δόλιχον ἤσκει.",
     "author": "Chrysippus",
     "sources": [
@@ -33,8 +33,8 @@
     "id": "mm-000447",
     "type": "bio",
     "year": -250,
-    "sr": "Slušao je Zenona ili Kleanta. Još za Kleantova života odvojio se od njega i postao izvanredan u filozofiji.",
-    "stsl": "Зенона или Клеанта слѹшааше · Єште Клеантѹ живѹ сѹштѹ · отъ него отъиде и изрѧдьнъ въ любомѫдрии бысть ·",
+    "sr": "Bio je Kleantov učenik. Prema Dioklu i većini pisaca, slušao je Zenona ili Kleanta, ali se od učitelja odvojio još za njegova života i postao znamenit filozof.",
+    "stsl": "Клеантовъ ѹченикъ бѣ · По Диоклѹ же и множаишимъ писателемъ · Зенона или Клеанта слѹша · и еще ѹчителю живѹ сѹщѹ отъ него отъиде · и мѫдрьцъ изрѧдьнъ бꙑсть ·",
     "originalText": "μαθητὴς Κλεάνθους. ἔπειτ' ἀκούσας Ζήνωνος ἢ Κλεάνθους, ἔτι τε ζῶντος ἀπέστη αὐτοῦ καὶ οὐχ ὁ τυχὼν ἐγένετο κατὰ φιλοσοφίαν.",
     "author": "Chrysippus",
     "sources": [
@@ -46,10 +46,10 @@
   },
   {
     "id": "mm-000448",
-    "type": "quote",
-    "sr": "U ostalome sam srećan čovek, osim u odnosu prema Kleantu; u tome ne blagočestim.",
-    "stsl": "Въ прочіихъ єсмь щастлівъ чловѣкъ · развѣ въ отъношєніи къ Клєантѹ · въ томь не благочѧштѫ ·",
-    "originalText": "Ἐγὼ δὲ τἄλλα μακάριος πέφυκ' ἀνὴρ πλὴν εἰς Κλεάνθην· τοῦτο δ' οὐκ εὐδαιμονῶ.",
+    "type": "reported",
+    "sr": "Kad god bi se oštro suprotstavio Kleantu, posle bi se pokajao, pa je često govorio: U svemu sam drugom srećan čovek, samo ne s Kleantom; tu sreće nemam.",
+    "stsl": "Егда же Клеантѹ крѣпъко противлѧаше сѧ · послѣди каꙗаше сѧ · тѣмь чѧсто глаголаше · Во инѣхъ блаженъ есмь мѫжь · развѣ о Клеантѣ · въ томь бо благополѹчьствиꙗ не имамъ ·",
+    "originalText": "Μετενόει μέντοι ὁπότε πρὸς αὐτὸν ἀποτείνοιτο, ὥστε συνεχὲς προφέρεσθαι ταῦτα· Ἐγὼ δὲ τἄλλα μακάριος πέφυκ' ἀνὴρ πλὴν εἰς Κλεάνθην· τοῦτο δ' οὐκ εὐδαιμονῶ.",
     "author": "Chrysippus",
     "sources": [
       {
@@ -62,8 +62,8 @@
     "id": "mm-000449",
     "type": "bio",
     "year": -250,
-    "sr": "Tako je postao slavan u dijalektici da većina mislila: da postoji dijalektika kod bogova, ne bi bila drugačija od Hrisipove. Obilovao je sadržajima ali izraz nije bio savršen. Bio je najmarljiviji od svih, što je jasno iz njegovih dela: brojem ih je preko sedam stotina pet.",
-    "stsl": "Тако прослави сѧ въ діалєктіцѣ ꙗко мьножаишіи мьнꙗхѫ · ащє єсть діалєктіка ѹ боговъ · нє бі была инакошє нєжєли Хрісіпова · Обіловаашє съдрьжаніємь нъ ізразъ нє бѣ съвръшєнъ · Бѣ наимарливѣіши отъ всѣхъ · єжє єсть ꙗвно отъ дѣлъ єго · чісломь ихъ прєко сєдмь сътъ і пѧть.",
+    "sr": "Toliko se pročuo kao dijalektičar da je većina smatrala kako ni među bogovima dijalektika ne bi bila drukčija od Hrisipove. Premda je sadržajem obilovao, u izrazu nije uspevao. Bio je marljiviji od ikoga, što se vidi i po njegovim spisima: bilo ih je više od sedamsto pet.",
+    "stsl": "Толико же въ диалектицѣ славьнъ бꙑсть · ꙗко множаишии мьнѣахѫ · аще и ѹ боговъ диалектика єсть · не ина бꙑ бꙑла развѣ Хрисипова · Въ вещьхъ изобиловаше · въ словесѣ же не ѹспѣ · Трѹдолюбивѣиши паче вьсѣхъ бѣ · ꙗкоже отъ писании єго ꙗвѣ єсть · бѣахѫ бо числомь паче седми сътъ и пѧти ·",
     "originalText": "Οὕτω δ' ἐπίδοξος ἐν τοῖς διαλεκτικοῖς ἐγένετο, ὥστε δοκεῖν τοὺς πλείους ὅτι εἰ παρὰ θεοῖς ἦν διαλεκτική, οὐκ ἂν ἄλλη ἦν ἢ ἡ Χρυσίππειος. Πλεονάσας δὲ τοῖς πράγμασι τὴν λέξιν οὐ κατώρθωσε. Πονικώτατός τε παρ' ὁντινοῦν γέγονεν, ὡς δῆλον ἐκ τῶν συγγραμμάτων αὐτοῦ· τὸν ἀριθμὸν γὰρ ὑπὲρ πέντε καὶ ἑπτακόσιά ἐστιν.",
     "author": "Chrysippus",
     "sources": [
@@ -75,9 +75,9 @@
   },
   {
     "id": "mm-000450",
-    "type": "reported",
-    "sr": "Kad je neko u nekoj knjizi skoro celu Euripidovu Medeju citirao, a neko je imao knjigu u rukama, upitan šta drži, rekao je: 'Hrisipovu Medeju.'",
-    "stsl": "Єгда нѣкто въ нѣкоєі книꙃѣ почті цѣлѹ Єѵріпідовѹ Мєдєѭ цітіраашє · а нѣкто имꙗашє книгѫ въ рѫкахъ · въпрошєнъ что дрьжіть · рєчє · Хрісіповѹ Мєдєѭ.",
+    "type": "anecdote",
+    "sr": "Pošto je Hrisip u jednom svom spisu naveo gotovo celu Euripidovu Medeju, neko je držao tu knjigu u rukama. Kad ga upitaše šta drži, odgovori: Hrisipovu Medeju.",
+    "stsl": "Понеже Хрисипъ въ єдиномь писании своемь маломъ не вьсѫ Еѵрипидовѫ Медеѭ приложи · нѣкто книгѫ тѫ въ рѫкахъ имѣаше · Въпрошенъ же что имать · отъвѣща · Хрисиповѫ Медеѭ ·",
     "originalText": "ἐπειδή ποτ' ἔν τινι τῶν συγγραμμάτων παρ' ὀλίγον τὴν Εὐριπίδου Μήδειαν ὅλην παρετίθετο καί τις μετὰ χεῖρας εἶχε τὸ βιβλίον, πρὸς τὸν πυθόμενον τί ἄρα ἔχοι, ἔφη Χρυσίππου Μήδειαν.",
     "author": "Chrysippus",
     "sources": [
@@ -85,14 +85,15 @@
         "name": "diogenes-laertius",
         "reference": "VII.180"
       }
-    ]
+    ],
+    "year": -240
   },
   {
     "id": "mm-000451",
     "type": "bio",
     "year": -240,
-    "sr": "Starica koja mu je služila govorila je da piše po pet stotina redova dnevno.",
-    "stsl": "Старіца ꙗжє слѹжаашє ємѹ глаголаашє ꙗко пішє по пѧть сътъ рєдовъ дьньмь.",
+    "sr": "Starica koja je živela uz njega govorila je da piše po petsto redova dnevno.",
+    "stsl": "При немь живѫщиꙗ старица глаголааше · ꙗко по пѧти сътъ стихъ на вьсакъ дьнь пишеть ·",
     "originalText": "Ἡ δὲ παρεδρεύουσα πρεσβῦτις αὐτῷ ἔλεγεν ὡς πεντακοσίους γράφοι στίχους ἡμερησίους.",
     "author": "Chrysippus",
     "sources": [
@@ -106,8 +107,8 @@
     "id": "mm-000452",
     "type": "bio",
     "year": -240,
-    "sr": "Bio je malenog tela, što je jasno iz statue na Kerameiku, koja je skoro skrivena susednim konjanikom; zato ga je Karnead zvao Kripsipos (Sakriveni).",
-    "stsl": "Бѣ малаго тѣла · єжє єсть ꙗвно отъ статꙑѩ на Кєрамєікѹ · ꙗжє єсть почті скрꙑта сѹсѣдьнимь конькомь · тѣмь га Карнєадъ наріцаашє Крѵпсіпосъ.",
+    "sr": "Bio je neznatna rasta, što se vidi po njegovom kipu na Kerameiku: gotovo ga zaklanja obližnji konjanički kip. Karnead ga je zato prozvao Kripsipom, što znači skriven iza konja.",
+    "stsl": "Тѣломь малъ бѣ · ꙗкоже отъ образа єго въ Керамицѣ ꙗвѣ єсть · єгоже близъ стоѧщии коньникъ едва не скрꙑваєть · Тѣмь Карнеадъ Крипсипа · сирѣчь подъ конемь скрꙑтаго · нарицааше и ·",
     "originalText": "Ἦν δὲ καὶ τὸ σωμάτιον εὐτελής, ὡς δῆλον ἐκ τοῦ ἀνδριάντος τοῦ ἐν Κεραμεικῷ, ὃς σχεδόν τι ὑποκέκρυπται τῷ πλησίον ἱππεῖ· ὅθεν αὐτὸν ὁ Καρνεάδης Κρύψιππον ἔλεγεν.",
     "author": "Chrysippus",
     "sources": [
@@ -119,10 +120,10 @@
   },
   {
     "id": "mm-000453",
-    "type": "quote",
-    "sr": "Da sam pazio na mase, ne bih filozofirao.",
-    "stsl": "Да пазіхъ на мьножьства · нє біхъ любомѫдрствовалъ.",
-    "originalText": "Εἰ τοῖς πολλοῖς προσεῖχον, οὐκ ἂν ἐφιλοσόφησα.",
+    "type": "reported",
+    "sr": "Kada mu je neko zamerio što ne sluša Aristona zajedno s mnoštvom, odgovori: Da sam se obazirao na mnoštvo, ne bih ni filozofirao.",
+    "stsl": "Егда нѣкто поношаше ємѹ · ꙗко не при Аристонѣ съ многꙑими ѹчить сѧ · отъвѣща · Аще бꙑхъ къ множьствѹ възиралъ · не бꙑхъ ни мѫдролюбьствовалъ ·",
+    "originalText": "Οὗτος ὀνειδισθεὶς ὑπό τινος ὅτι οὐχὶ παρ' Ἀρίστωνι μετὰ πολλῶν σχολάζοι, Εἰ τοῖς πολλοῖς, εἶπε, προσεῖχον, οὐκ ἂν ἐφιλοσόφησα.",
     "author": "Chrysippus",
     "sources": [
       {
@@ -133,10 +134,10 @@
   },
   {
     "id": "mm-000454",
-    "type": "quote",
-    "sr": "Prestani da odvlačiš starca od ozbiljnijih stvari, već nama mladima postavljaj takve stvari.",
-    "stsl": "Прєстани да отъвлачіши старьца отъ сєріозьнѣіштихъ вєщи · нъ намъ младімъ прєдлагаи таковаꙗ.",
-    "originalText": "Πέπαυσο παρέλκων τὸν πρεσβύτερον ἀπὸ τῶν πραγματικωτέρων, ἡμῖν δὲ τὰ τοιαῦτα πρότεινε τοῖς νέοις.",
+    "type": "reported",
+    "sr": "Videvši dijalektičara kako pritiska Kleanta i postavlja mu sofizme, reče: Prestani da odvlačiš starca od važnijih poslova; takva pitanja postavljaj nama mlađima.",
+    "stsl": "Видѣвъ диалектика Клеантѹ противлѧюща сѧ и софисмꙑ ємѹ предлагающа · рече · Прѣстани старьца отъ важнѣишиихъ дѣлъ отъвлачити · намъ же младꙑимъ таковаꙗ предлагаи ·",
+    "originalText": "Πρὸς δὲ τὸν κατεξανιστάμενον Κλεάνθους διαλεκτικὸν καὶ προτείνοντα αὐτῷ σοφίσματα, Πέπαυσο, εἶπε, παρέλκων τὸν πρεσβύτερον ἀπὸ τῶν πραγματικωτέρων, ἡμῖν δὲ τὰ τοιαῦτα πρότεινε τοῖς νέοις.",
     "author": "Chrysippus",
     "sources": [
       {
@@ -147,24 +148,25 @@
   },
   {
     "id": "mm-000455",
-    "type": "quote",
-    "sr": "Jao, brate, oko tvoje se muti; brzo se pretvaraš u ludost, a malopre si bio pametan.",
-    "stsl": "О горє · братє · око твоє мѫтить сѧ · скоро прємѣнꙗєши сѧ въ бѣсьность · а малопрє бѣ разѹмьнъ.",
-    "originalText": "Οἴμοι, κασίγνητ', ὄμμα σὸν ταράσσεται· ταχὺς δὲ μετέθου λύσσαν ἀρτίως φρονῶν.",
+    "type": "anecdote",
+    "sr": "Neko je nasamo s njim razgovarao mirno, ali je, ugledavši da se približava mnoštvo, počeo da govori svadljivo. Hrisip mu tada reče: Jao, brate, muti ti se pogled; brzo si prešao u ludilo, a malopre si bio pri pameti.",
+    "stsl": "Нѣкто наединѣ съ нимь кротъко бесѣдоваше · видѣвъ же народъ приближающь сѧ · прѣти сѧ нача · Хрисипъ же рече ємѹ · О горе · брате · око твоє мѫтить сѧ · скоро въ бѣшьство прѣложи сѧ · мало прѣжде разѹмѣꙗ ·",
+    "originalText": "Πάλιν δ' ἐπεί τις ζητῶν καταμόνας αὐτῷ διελέγετο εὐσταθῶς, ἐπεὶ δὲ θεωρῶν προσιόντα ὄχλον ἤρχετο φιλονεικεῖν, ἔφη, Οἴμοι, κασίγνητ', ὄμμα σὸν ταράσσεται· ταχὺς δὲ μετέθου λύσσαν ἀρτίως φρονῶν.",
     "author": "Chrysippus",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "VII.182"
       }
-    ]
+    ],
+    "year": -230
   },
   {
     "id": "mm-000456",
     "type": "anecdote",
     "year": -230,
-    "sr": "Prilikom pijanstava bio je miran, samo su mu noge bile neuobičajene, tako da je sluškinja rekla: 'Hrisipove samo noge piju.'",
-    "stsl": "Прі піꙗньствѣхъ бѣ мірьнъ · токмо ногꙑ бꙗхѫ нєобꙑчаінꙑ · тако да слѹжьница рєчє · Хрісіповꙑ токмо ногꙑ піѭть.",
+    "sr": "Kada bi se opijao, sedeo je mirno, ali su mu se noge zanosile, pa jedna robinja reče: Kod Hrisipa su pijane samo noge.",
+    "stsl": "На пирѣхъ тихъ сѣдѣаше · ногама же шаташе сѧ · тѣмь єдина робꙑни рече · Ѹ Хрисипа токмо ногꙑ пиꙗнꙑ сѫть ·",
     "originalText": "Ἐν μέντοι ταῖς οἰνώσεσιν ἡσύχαζε παραφερόμενος τοῖς σκέλεσιν, ὥστε εἰπεῖν τὴν δούλην, Χρυσίππου μόνα τὰ σκέλη μεθύει.",
     "author": "Chrysippus",
     "sources": [
@@ -176,10 +178,10 @@
   },
   {
     "id": "mm-000457",
-    "type": "quote",
-    "sr": "Meni; jer ako bih smatrao da postoji neko bolji od mene, kod njega bih i ja filozofirao.",
-    "stsl": "Мънѣ · ащє бо біхъ мьнѣлъ ꙗко єсть нѣкто боліи отъ мєнє · ѹ нєго біхъ і азъ любомѫдрствовалъ.",
-    "originalText": "ἐμοί· καὶ γὰρ εἰ ὑπελάμβανον εἶναί τιν' ἐμοῦ βελτίονα, παρ' αὐτῷ ἂν ἐγὼ ἐφιλοσόφουν.",
+    "type": "reported",
+    "sr": "Kada ga je neko upitao kome da poveri sina, odgovori: Meni; jer da sam mislio kako postoji neko bolji od mene, i sam bih kod njega učio filozofiju.",
+    "stsl": "Егда нѣкто въпроси и · Комѹ сына своего прѣдамъ · отъвѣща · Мънѣ · аще бо бꙑхъ мьнѣлъ нѣкого лѹчьша отъ мене бꙑти · ѹ него бꙑхъ и самъ мѫдролюбьствѹ ѹчилъ сѧ ·",
+    "originalText": "Οὕτω δ' ἦν φρονηματίας ὥστ' ἐρομένου τινός, Τίνι συστήσω τὸν υἱόν; εἰπεῖν, ἐμοί· καὶ γὰρ εἰ ὑπελάμβανον εἶναί τιν' ἐμοῦ βελτίονα, παρ' αὐτῷ ἂν ἐγὼ ἐφιλοσόφουν.",
     "author": "Chrysippus",
     "sources": [
       {
@@ -192,8 +194,8 @@
     "id": "mm-000458",
     "type": "anecdote",
     "year": -206,
-    "sr": "Neki kažu da je umro od smeha; jer kad je magarac pojeo smokve, rekao je starici: 'Daj sada magarcu i vina da popije', i preterano se smejući umro.",
-    "stsl": "Нѣціи рєкѫть ꙗко ѹмрѣ отъ смѣха · єгда бо осьль снѣдє смокви · рєчє старіцѣ · Даждь нꙑнѣ осьлѹ і віна да попієть · і прєтєрано смѣꙗ сѧ ѹмрѣ.",
+    "sr": "Neki kažu da je umro od silnog smeha. Kada mu je magarac pojeo smokve, rekao je starici: Daj sada magarcu i nerazblaženog vina da zalije smokve. Potom se toliko smejao da je umro.",
+    "stsl": "Нѣции же глаголють · ꙗко отъ великаго смѣха ѹмрѣ · Егда бо осьлъ смокви єго снѣде · рече старицѣ · Даждь нꙑнѣ осьлѹ и вина нерастворена · да смокви запиєть · Потомь зѣло смѣꙗ сѧ ѹмрѣ ·",
     "originalText": "Ἔνιοι δέ φασι γέλωτι συσχεθέντα αὐτὸν τελευτῆσαι· ὄνου γὰρ τὰ σῦκα αὐτῷ φαγόντος, εἰπόντα τῇ γραΐ, Δίδου νυν ἄκρατον ἐπιρροφῆσαι τῷ ὄνῳ, ὑπερκαγχάσαντα τελευτῆσαι.",
     "author": "Chrysippus",
     "sources": [
@@ -207,8 +209,8 @@
     "id": "mm-000459",
     "type": "bio",
     "year": -260,
-    "sr": "Seneka piše da je bio čovek veoma oštra uma: nije se zadovoljio učenjem jedne škole, nego je istraživao mišljenja svih filozofa. Kada je čuo da je Kleant tada na čelu stoika, napustio je druge učitelje i prišao njemu.",
-    "stsl": "Сенека пишеть · ꙗко мѫжь прѣостра ѹма бѣ · не ѹчениемь єдиноѩ школꙑ доволꙗаше сѧ · нъ мьнѣния вьсѣхъ любомѫдрьць испытааше · Єгда слꙑша · ꙗко Клеантъ тогда стоикомъ начальствѹєть · иныѩ ѹчителѩ остави и къ немѹ приста ·",
+    "sr": "Seneka piše da je bio čovek veoma oštra uma. Nije se ograničio na učenje jedne škole, nego je istražio mišljenja svih filozofa. Odlikovao se tolikom postojanošću i snagom da je, čim je čuo da je Kleant tada bio prvak stoika, napustio sve druge učitelje i prišao njemu.",
+    "stsl": "Сенека пишеть · ꙗко мѫжь прѣостра ѹма бѣ · Не єдинаго ѹчилища ѹчениємь доволѧаше сѧ · нъ мьнѣниꙗ вьсѣхъ мѫдрьць испꙑта · Толико же тврьдъ и крѣпъкъ бѣ · ꙗко слꙑшавъ Клеанта тогда стоикомъ пръва бꙑти · вьсѣхъ инѣхъ ѹчитель остави и къ немѹ приста ·",
     "originalText": "De hoc scribit Seneca quod fuit vir acerrimi ingenii, nec ad unius sectæ disciplinam contentus, sed omnes philosophorum opiniones perscrutatus est. Fuitque tantæ constantiæ et fortitudinis ut cum audivisset a quodam Stoicorum principem tunc esse Cleanthem, reliquit omnes alios magistros et se contulit ad Cleanthem.",
     "author": "Chrysippus",
     "sources": [
@@ -222,8 +224,8 @@
     "id": "mm-000460",
     "type": "bio",
     "year": -232,
-    "sr": "Pod Kleantom je toliko napredovao da je posle njegove smrti preuzeo upravljanje stoičkom školom.",
-    "stsl": "Подъ Клеантомь тако прѣѹспѣ · ꙗко по смрьти єго стоичьскоѭ школоѭ правити нача ·",
+    "sr": "Kod Kleanta je toliko napredovao da je posle njegove smrti preuzeo vođstvo nad stoičkom školom.",
+    "stsl": "При Клеантѣ толико ѹспѣ · ꙗко по смрьти єго стоичьскомѹ ѹчилищѹ началъствоваше ·",
     "originalText": "Sub quo tantum profecit quod post mortem eius scholam Stoicorum regebat.",
     "author": "Chrysippus",
     "sources": [
@@ -236,224 +238,224 @@
   {
     "id": "mm-000461",
     "type": "quote",
-    "sr": "Više se boj zločina nego štete.",
-    "stsl": "Болє боі сѧ ꙁълодѣꙗніꙗ нєжє ѹщрьба.",
-    "originalText": "Magis formida crimen quam dampnum.",
-    "author": "Chrysippus",
+    "sr": "Više se boj osude nego gubitka.",
+    "stsl": "Паче осѫждениꙗ бои сѧ нежели тщетꙑ ·",
+    "originalText": "Magis formida crimen quam damnum.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000462",
     "type": "quote",
-    "sr": "Treba se plašiti lošeg izlaska iz života, ali vrlinski sramote u životu.",
-    "stsl": "Боꙗті сѧ подобаєть ꙁлааго ісхода іꙁъ жітіꙗ · алі добродѣтєльно срамотъꙑ въ жітіі.",
-    "originalText": "Docet quidem formidare unumquemque malum vitæ exitum, virtuose vero ignominiam vite.",
-    "author": "Chrysippus",
+    "sr": "Svako treba da se boji rđavog kraja života, a vrlinski ljudi beščašća za života.",
+    "stsl": "Вьсакомѹ подобаєть боꙗти сѧ зълааго житїа исхода · добродѣтельнꙑимъ же · безчьстиꙗ въ житии ·",
+    "originalText": "Decet quidem formidare unumquemque malum vitae exitum, virtuosos vero ignominiam vitae.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000463",
     "type": "quote",
-    "sr": "Ako ti se ikada dogodi da budeš u smrtnoj opasnosti, čuvaj svoj spas u dobrom mišljenju, a ne sa sramotom, jer sudbina je svima izrekla smrtnu presudu, ali dobro umreti priroda je dala kao dar vrlim ljudima.",
-    "stsl": "Аштє тѧ кѣгда постігнєть пріті въ смръртноѹ опасность · тѹі спасєніє своє въ мьнѣніі доброємь · а нє съ бєсчьстіємь · ꙗко сѫдьба бо всімъ вꙑрєчє смръртьнѫ прісѫдѫ · алі добрѣ ѹмрѣті єстество подаде ꙗко даръ добродѣтєльнꙑмъ.",
-    "originalText": "Si quando tibi contingat mortis periculo intentari salutem tuam in opinione bona tuere, non autem cum infamia, nam mort quidem fortuna in omnes sentenciam promulgavit, bene autem mori naturæ propriæ virtuosis attribuit.",
-    "author": "Chrysippus",
+    "sr": "Ako ti zapreti smrtna opasnost, čuvaj život ne kaljajući dobar glas, a ne po cenu sramote. Sudbina je svima izrekla presudu da umru, ali je priroda vrlim ljudima podarila dobru smrt.",
+    "stsl": "Аще когда смрьтьна бѣда тебѣ прѣтить · животъ свои съ добрꙑмь именемь храни · а не цѣноѭ срама · Сѫдьба бо вьсѣмъ ѹмрѣти осѫди · добрѣ же ѹмрѣти єстьство добродѣтельнꙑимъ подасть ·",
+    "originalText": "Si quando tibi contingat mortis periculo intentari, salutem tuam in opinione bona tuere, non autem cum infamia; nam mori quidem fortuna in omnes sententiam promulgavit, bene autem mori natura proprie virtuosis attribuit.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000464",
     "type": "quote",
-    "sr": "U odeći nemoj biti ni raskošan ni preterano pažljiv.",
-    "stsl": "Въ ризахъ нємоі бꙑті ні прѣвєлікѫ ні прѣмьрьно пажьлівъ.",
+    "sr": "U odevanju ne budi ni raskošan ni izbirljiv.",
+    "stsl": "Въ ризахъ ни велелѣпьнъ ни изборьливъ бѫди ·",
     "originalText": "In vestibus neque magnificus sis neque curiosus.",
-    "author": "Chrysippus",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000465",
     "type": "quote",
-    "sr": "Preziri one koji su zabrinuti zbog bogatstva koji ne uživaju u onome što poseduju, jer se tada ponašaju kao onaj ko ima dobrog konja, ali ne zna da jaše.",
-    "stsl": "Прєꙁрі брѣгѫщꙗꙗ о богатьствѣ · ніжє нє радѹѭть сѧ отъ обладаємааго · ꙗко тогда подобьни сѫть томѹ · іжє має конꙗ блага · алі нє вѣсть ꙗсдіті.",
-    "originalText": "Contempne solicitos erga divitias, nequienties ubi in possessis, nam idem tunc pacinatur sicut si quis equum bonum habeat, prave sciena equitare.",
-    "author": "Chrysippus",
+    "sr": "Preziri one koji strepe nad bogatstvom, a ne umeju da se služe onim što imaju: oni su nalik čoveku koji ima dobra konja, a ne ume da jaše.",
+    "stsl": "Прѣзирай о богатьствѣ пекѫщиихъ сѧ · а стѧжаниемь своимь пользовати сѧ не вѣдѫщиихъ · Тии бо подобьни сѫть имѫщемѹ добра конѧ · а єздити не вѣдѫщемѹ ·",
+    "originalText": "Contempne sollicitos erga divitias, nequeuntes uti possessis; nam idem hi patiuntur sicut si quis equum bonum habeat, prave sciens equitare.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000466",
     "type": "quote",
-    "sr": "Treba se truditi ako si ljubitelj mudrosti.",
-    "stsl": "Трѹдъ пріложіті подобаєть · аштє єсі любітєль мѫдрості.",
-    "originalText": "Strenue ages si fueris amator sapienciæ.",
-    "author": "Chrysippus",
+    "sr": "Dobro ćeš činiti ako budeš ljubitelj mudrosti.",
+    "stsl": "Крѣпъко дѣлати бѫдеши · аще мѫдрости любитель бѫдеши ·",
+    "originalText": "Strenue ages si fueris amator sapientiae.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000467",
     "type": "quote",
-    "sr": "Ono što znaš čuvaj kroz čitanje, a ono što još nisi naučio stekni kroz učenje.",
-    "stsl": "Єжє вѣсі съхранꙗі чітаніємь · єжє жє ещє нє наѹчі сѧ стѧжаі ѹчєніємь.",
-    "originalText": "Que nosti conserva lectionibus, que vero bondum didicisti disciplinis acquire.",
-    "author": "Chrysippus",
+    "sr": "Ono što znaš učvršćuj čitanjem, a ono što još nisi naučio stekni učenjem.",
+    "stsl": "Єже вѣси · чьтениемь храни · єже же еще не наѹчи сѧ · ѹчениемь стѧжи ·",
+    "originalText": "Quae nosti conserva lectionibus, quae vero nondum didicisti disciplinis acquire.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000468",
     "type": "quote",
-    "sr": "Jednako je loše i ne učiti i ništa dobro dato od prijatelja ne primiti.",
-    "stsl": "Равьно єсть ꙁло · і нє ѹчіті сѧ · і ничтожє благо данно отъ дрѹга нє пріꙗті.",
-    "originalText": "Eque addi alterum est optimus unde non addiscere et quicquid boni datum ab amicia nullatenus acceptare.",
-    "author": "Chrysippus",
+    "sr": "Podjednako je nedostojno čuti nešto korisno a ne naučiti ga i odbiti dobro koje ti prijatelji pružaju.",
+    "stsl": "Равно нечьстиво єсть · полезьно слꙑшати и не наѹчити сѧ · и єже благо отъ дрѹгъ дано бѫдеть не приѧти ·",
+    "originalText": "Aeque autem nefarium est audientem utile non addiscere et quidquid boni datum ab amicis nullatenus acceptare.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000469",
     "type": "quote",
-    "sr": "Koristi takav zakon prema greš nicima kakav bi želeo da se primeni na tebe.",
-    "stsl": "Твори такъ ꙁаконъ къ грѣшьнікомъ · каковъ бі въжбалъ да сѧ творі тєбѣ.",
-    "originalText": "Ita equa lege utere in peccantes ut utique in te reuni.",
-    "author": "Chrysippus",
+    "sr": "Prema prestupnicima primenjuj isti zakon koji bi primenio na sebe da si kriv.",
+    "stsl": "Къ съгрѣшающиимъ тѣмь же закономь пользѹи сѧ · имьже къ себѣ повиньнѹ бꙑвъ пользовалъ сѧ бꙑ ·",
+    "originalText": "Ita aequa lege utere in peccantes utique in te reum.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000470",
     "type": "quote",
-    "sr": "Budi jedan sudija kada sudiš drugima, a drugi kada sudiš sebi.",
-    "stsl": "Бѫді єдінъ сѫдіꙗ єгда сѫдіші іньнꙑмъ · а дрѹгъ єгда сѫдіші сєбѣ.",
-    "originalText": "Ergo, alius iudices sit alius erga te indicare oportet.",
-    "author": "Chrysippus",
+    "sr": "Prema drugima sudi onako kako bi tražio da drugi sude tebi.",
+    "stsl": "Къ инѣмъ тако сѫди · ꙗкоже хощеши да инїи тебѣ сѫдѧть ·",
+    "originalText": "Erga alios iudices uti alios erga te iudicare rogares.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000471",
     "type": "quote",
-    "sr": "Ne voli nenamernu smeh, niti primaj reč sa ogorčenošću. Jedno je bezumno, drugo hladno.",
-    "stsl": "Нє любі прѣнаглааго смѣха · ніжє пріємлі слово съ горьчавостіѭ. Єдно єсть бєꙁѹмьно · дрѹго жє хладьно.",
-    "originalText": "Nec risum precipitem diligas, nec verbum cum acrimonia acceptes. Illud enim amens, hoc vero frigosum est.",
-    "author": "Chrysippus",
+    "sr": "Ne voli neobuzdan smeh niti tuđe reči dočekuj ozlojeđeno: prvo je bezumno, drugo mahnito.",
+    "stsl": "Не люби неудрьжанаго смѣха · ни словеса съ ꙗростиѭ приемли · Оно бо безѹмьно · се же бѣшьно єсть ·",
+    "originalText": "Nec risum praecipitem diligas, nec verbum cum acrimonia acceptes; illud enim amens, hoc vero furiosum est.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000472",
     "type": "quote",
-    "sr": "Čuvaj više reči nego stvari.",
-    "stsl": "Съхранꙗі болє словъ нєжє вєщьі.",
-    "originalText": "Serra magis verborum quam rerum deposita.",
-    "author": "Chrysippus",
+    "sr": "Više čuvaj poverene reči nego poverene stvari.",
+    "stsl": "Паче повѣренаꙗ словеса храни нежели повѣренꙑѩ вещи ·",
+    "originalText": "Serva magis verborum quam rerum deposita.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000473",
     "type": "quote",
-    "sr": "Ne stekni prijatelja pre nego što ispitaš kako se ponašao prema prethodnim prijateljima, jer možeš verovati da ćeš takav i ti biti kakav je bio prema njima.",
-    "stsl": "Нє стѧжаі дрѹга прѣждє нєжє іспытаєші · како сѧ прѣдръжашє къ прѣждьнімъ дрѹгомъ · ꙗко можєші вѣроваті · да таковъ і тꙑ бѫдєші · каковъ бѣ къ німъ.",
-    "originalText": "Neminem amicum concilies priusquam perconcteris quo pacto se gesserit erga priacos amicos, credas enim prius te huiusmodi futurum cuiusmodi erga illos fuit.",
-    "author": "Chrysippus",
+    "sr": "Ne sklapaj prijateljstvo ni sa kim pre nego što ispitaš kako se odnosio prema ranijim prijateljima; veruj da će prema tebi biti onakav kakav je bio prema njima.",
+    "stsl": "Ни съ кимь дрѹжьбꙑ не сътварꙗи прѣжде даже не испꙑтаеши · како сѧ къ прьвꙑимъ дрѹгомъ своимъ отъносилъ єсть · Вѣрѹи бо · ꙗко таковъ и къ тебѣ бѫдеть · ꙗковъ къ нимъ бѣ ·",
+    "originalText": "Neminem amicum concilies priusquam percuncteris quo pacto se gesserit erga priscos amicos; credas eum etiam erga te huiusmodi futurum cuiusmodi erga illos fuit.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000474",
     "type": "quote",
-    "sr": "Polako postani prijatelj, ali kada to postaneš, nastoj da ostaješ, jer jednako je loše i ne imati prijatelja i mnogo ih menjati.",
-    "stsl": "Помалѹ бѫді дрѹгъ · алі бꙑвъ настоꙗі да пръбꙑваєші · ꙗко равьно єсть ꙁло · і нє імѣті дрѹга · і многа мѣнꙗті.",
-    "originalText": "Lentulus fias amicus, factus autem perseverare nitaris, eque enim malum est nullum habere amicum et multos mutare et alterare.",
-    "author": "Chrysippus",
+    "sr": "Polako sklapaj prijateljstvo; kada ga sklopiš, nastoj da u njemu istraješ, jer je podjednako loše nemati nijednog prijatelja i stalno menjati prijatelje.",
+    "stsl": "Къ дрѹжьбѣ късно пристѫпаи · пристѫпивъ же въ неи прѣбꙑти тщи сѧ · Равно бо зло єсть ни єдинаго дрѹга имѣти и многꙑѩ чѧсто мѣнꙗти ·",
+    "originalText": "Lentulus fias amicus, factus autem perseverare nitaris; aeque enim malum est nullum habere amicum et multos mutare et alterare.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000475",
     "type": "quote",
-    "sr": "O onima koje želiš da učiniš prijateljima, reci nešto dobro.",
-    "stsl": "О тꙑхъ · ꙗжє хоштєші сътворіті дрѹгꙑ · рьці нѣчто благо.",
-    "originalText": "Quoscumque velis tibi amicos facere, de hiis aliquid boni profer.",
-    "author": "Chrysippus",
+    "sr": "O onima koje želiš da stekneš za prijatelje govori dobro.",
+    "stsl": "О тѣхъ · ꙗже дрѹгꙑ себѣ стѧжати хощеши · нѣчто добро глаголи ·",
+    "originalText": "Quoscumque velis tibi amicos facere, de his aliquid boni profer.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
   {
     "id": "mm-000476",
     "type": "quote",
-    "sr": "Zlato se proverava u vatri.",
-    "stsl": "Ꙁлато іспꙑтѹєть сѧ въ огнѣ.",
-    "originalText": "Aurum in igne probas.",
-    "author": "Chrysippus",
+    "sr": "Zlato iskušavamo u vatri, a prijatelje poznajemo u nevolji.",
+    "stsl": "Злато въ огни искѹшаємъ · дрѹгꙑ же въ напасти познаваємъ ·",
+    "originalText": "Aurum in igne probamus, amicos in adversitate discernimus.",
+    "author": "Isocrates",
     "sources": [
       {
         "name": "walter-burley",
-        "reference": "Cap. XXIX"
+        "reference": "Cap. XXVII"
       }
     ]
   },
@@ -461,8 +463,8 @@
     "id": "mm-000477",
     "type": "bio",
     "year": -260,
-    "sr": "Hekaton kaže da se Hrisip posvetio filozofiji pošto je njegovo očinsko imanje oduzeto za kraljevsku riznicu.",
-    "stsl": "Гекатонъ глаголєть ꙗко Хрисипъ любомѫдрию прѣда сѧ · єгда отьчьско имѣниє єго въ цѣсарьскѫ ризницѫ възѧто бысть ·",
+    "sr": "Hekaton kaže da se Hrisip posvetio filozofiji pošto je njegovo očinsko imanje zaplenjeno za kraljevsku blagajnu.",
+    "stsl": "Гекатонъ глаголєть · ꙗко Хрисипъ мѫдролюбьствѹ прѣда сѧ · єгда отьчьско имѣниє єго въ цѣсарьскѫ казнѫ възѧто бꙑсть ·",
     "originalText": "Ἑκάτων δέ φησιν ἐλθεῖν αὐτὸν ἐπὶ φιλοσοφίαν, τῆς οὐσίας αὐτοῦ τῆς πατρῴας εἰς τὸ βασιλικὸν ἀναληφθείσης.",
     "author": "Chrysippus",
     "sources": [
@@ -476,8 +478,8 @@
     "id": "mm-000478",
     "type": "bio",
     "year": -250,
-    "sr": "Prema Sotionu, Hrisip je dolazio Arkesilaju i Lakidu u Akademiju i s njima se bavio filozofijom. Zato je dokazivao i protiv običnog iskustva i njemu u prilog, a u raspravi o veličinama i mnoštvima služio se akademijskim postavkama.",
-    "stsl": "По Сотионѹ · Хрисипъ къ Аркесилаю и Лакидѹ въ Академїѭ прихождааше и съ нима любомѫдрьствоваше · Сего ради и противъ обꙑчаꙗ и за нь доказоваше · о величинахъ же и множьствѣ академичьскыими поставы пользовааше сѧ ·",
+    "sr": "Prema Sotionu, Hrisip je u Akademiji slušao Arkesilaja i Lakida i s njima se bavio filozofijom. Zato je izlagao dokaze i protiv uobičajenih shvatanja i u njihovu odbranu, a pri raspravljanju o veličinama i mnoštvima služio se akademijskim načinom izlaganja.",
+    "stsl": "По Сотионѹ · Хрисипъ въ Академии Аркесилаꙗ и Лакида слѹша · и съ нима мѫдролюбьствоваше · Тѣмь и противъ обꙑчьнаго мьнѣниꙗ и о немь доказаниꙗ предлагааше · о величинахъ же и множьствѣ академичьскꙑимь образомь бесѣдоваше ·",
     "originalText": "Τέλος δ' Ἀρκεσιλάῳ καὶ Λακύδῃ, καθά φησι Σωτίων ἐν τῷ ὀγδόῳ, παραγενόμενος ἐν Ἀκαδημείᾳ συνεφιλοσόφησε· δι' ἣν αἰτίαν καὶ κατὰ τῆς συνηθείας καὶ ὑπὲρ αὐτῆς ἐπεχείρησε, καὶ περὶ μεγεθῶν καὶ πληθῶν τῇ τῶν Ἀκαδημαϊκῶν συστάσει χρησάμενος.",
     "author": "Chrysippus",
     "sources": [
@@ -491,8 +493,8 @@
     "id": "mm-000479",
     "type": "bio",
     "year": -206,
-    "sr": "Hermip kaže da su učenici pozvali Hrisipa na žrtvenu gozbu. Popio je nerazblaženo slatko vino, dobio vrtoglavicu i umro pet dana kasnije, u sedamdeset trećoj godini.",
-    "stsl": "Гермипъ глаголєть ꙗко ѹченици Хрисипа на жрьтвьнѫ трѧпезѫ призвашѧ · Не растворено сладъко вино испивъ · обрѫти сѧ и пѧтаго дьне ѹмрѣ · седмьдесѧть и три лѣта поживъ ·",
+    "sr": "Hermip kaže da su ga učenici, dok je držao predavanja u Odeonu, pozvali na žrtvenu gozbu. Tamo je popio nerazblaženo slatko vino, dobio vrtoglavicu i umro pet dana kasnije, u sedamdeset trećoj godini.",
+    "stsl": "Гермипъ глаголєть · ꙗко Хрисипѹ въ Одии ѹчащѹ · ѹченици єго на жрьтвѫ призвашѧ · Тамо сладъка вина нерастворена испивъ · обрѫти сѧ и пѧтаго дьне ѹмрѣ · седмьдесѧть и три лѣта поживъ ·",
     "originalText": "Τοῦτον ἐν τῷ Ὠιδείῳ σχολάζοντά φησιν Ἕρμιππος ἐπὶ θυσίαν ὑπὸ τῶν μαθητῶν κληθῆναι· ἔνθα προσενεγκάμενον γλυκὺν ἄκρατον καὶ ἰλιγγιάσαντα πεμπταῖον ἀπελθεῖν ἐξ ἀνθρώπων, τρία καὶ ἑβδομήκοντα βιώσαντ' ἔτη.",
     "author": "Chrysippus",
     "sources": [
@@ -506,8 +508,8 @@
     "id": "mm-000480",
     "type": "bio",
     "year": -235,
-    "sr": "Hrisip nijedno od svojih brojnih dela nije posvetio kraljevima. Živeo je samo sa staricom, odbio je da ode Ptolemeju, obučavao sestriće Aristokreonta i Filokrata i prvi se odvažio da drži školu pod vedrim nebom u Likeju.",
-    "stsl": "Хрисипъ ни єдино отъ множаишиихъ дѣлъ своихъ цѣсаремъ не посвѧти · Съ єдиноѭ старицеѭ живѣаше · къ Птолемею ити отрече сѧ · сестрића Аристокреонта и Филократа наѹчи · и пръвыи дръзнѫ подъ небомъ въ Ликїи ѹчилище дръжати ·",
+    "sr": "Hrisip nijedan od svojih brojnih spisa nije posvetio kralju i zadovoljavao se društvom jedne starice. Kada je Ptolemej pisao Kleantu da mu dođe ili nekoga pošalje, Sfer je otišao, a Hrisip se na poziv nije obazreo. Doveo je sestriće Aristokreonta i Filokrata i obrazovao ih, a prvi se odvažio da drži školu na otvorenom u Likeju.",
+    "stsl": "Хрисипъ отъ множаишиихъ писании своихъ ни єдино цѣсарю не посвѧти · и єдиноѭ старицеѭ доволѧаше сѧ · Егда Птолемеи Клеантѹ писа · да или самъ приидеть или нѣкого посълеть · Сферъ отъиде · Хрисипъ же не възрѣ на званиє · Сестрича же своꙗ Аристокреонта и Филократа призва и наѹчи · и пръвыи дръзнѫ въ Ликии подъ небомъ ѹчилище имѣти ·",
     "originalText": "Τοσαῦτα γοῦν συγγράψας οὐδενὶ τῶν βασιλέων προσπεφώνηκεν. Ἠρκεῖτό τε γραϊδίῳ μόνῳ, καθὰ καὶ Δημήτριος ἐν Ὁμωνύμοις φησί. Πτολεμαίου τε πρὸς Κλεάνθην ἐπιστείλαντος ἢ αὐτὸν ἐλθεῖν ἢ πέμψαι τινά, Σφαῖρος μὲν ἀπῆλθε, Χρύσιππος δὲ περιεῖδε. Μεταπεμψάμενος δὲ τοὺς τῆς ἀδελφῆς υἱεῖς, Ἀριστοκρέοντα καὶ Φιλοκράτην, συνεκρότησε. Καὶ πρῶτος ἐθάρρησε σχολὴν ἔχειν ὕπαιθρον ἐν Λυκείῳ.",
     "author": "Chrysippus",
     "sources": [
@@ -520,8 +522,8 @@
   {
     "id": "mm-000481",
     "type": "quote",
-    "sr": "Ko neupućenima kazuje tajne, bezbožan je. Sveštenik kazuje tajne neupućenima. Dakle, sveštenik je bezbožan.",
-    "stsl": "Иже непосвѧштенꙑимъ таины глаголєть · безбожьствѹєть · Свѧштеникъ непосвѧштенꙑимъ таины глаголєть · Свѧштеникъ ѹбо безбожьствѹєть ·",
+    "sr": "Ko neposvećenima otkriva tajne, čini bezbožno delo. Hijerofant otkriva tajne neposvećenima. Dakle, hijerofant čini bezbožno delo.",
+    "stsl": "Иже непосвѧщенꙑимъ таинꙑ повѣдаєть · нечьстиво творить · Таиноводитель непосвѧщенꙑимъ таинꙑ повѣдаєть · таиноводитель ѹбо нечьстиво творить ·",
     "originalText": "Ὁ λέγων τοῖς ἀμυήτοις τὰ μυστήρια ἀσεβεῖ· ὁ δέ γ' ἱεροφάντης τοῖς ἀμυήτοις λέγει τὰ μυστήρια· ἀσεβεῖ ἄρα ὁ ἱεροφάντης.",
     "author": "Chrysippus",
     "sources": [
@@ -548,8 +550,8 @@
   {
     "id": "mm-000483",
     "type": "quote",
-    "sr": "Postoji neka glava koju nemaš. Dakle, nemaš glavu.",
-    "stsl": "Єсть нѣкаꙗ глава · єѩже не имаши · Не имаши ѹбо главы ·",
+    "sr": "Postoji neka glava. Tu glavu nemaš. Dakle, postoji neka glava koju nemaš; prema tome, nemaš glavu.",
+    "stsl": "Єсть нѣкаꙗ глава · Тоѩ главꙑ не имаши · Єсть ѹбо нѣкаꙗ глава · єѩже не имаши · тѣмь главꙑ не имаши ·",
     "originalText": "Ἔστι τις κεφαλή· ἐκείνην δ' οὐκ ἔχεις· ἔστι δέ γέ τις κεφαλὴ ἣν οὐκ ἔχεις· οὐκ ἄρα ἔχεις κεφαλήν.",
     "author": "Chrysippus",
     "sources": [
@@ -603,9 +605,9 @@
   },
   {
     "id": "mm-000487",
-    "type": "reported",
-    "sr": "Kritičari su Hrisipu zamerali što je u Državi dopuštao polne odnose s majkama, kćerima i sinovima, a u trećoj knjizi O pravednom dopuštao jedenje umrlih.",
-    "stsl": "Хѹлѧштии Хрисипѹ зазираахѫ · ꙗко въ Дръжавѣ съ матерьми · дъштерьми и сынъми съходити сѧ допѹштааше · въ третїи же книзѣ О правдѣ ѹмръшыѩ ꙗсти повелѣвааше ·",
+    "type": "works",
+    "sr": "U Državi je dopuštao polne odnose s majkama, kćerima i sinovima, a isto je tvrdio već na početku dela O onome što se ne bira radi njega samog. U trećoj knjizi dela O pravednom, u odlomku dugom oko hiljadu redova, dopuštao je i jedenje umrlih.",
+    "stsl": "Въ книзѣ О дръжавѣ съ матерьми · дъщерьми и сꙑнъми съходити сѧ допѹщааше · Та же и въ началѣ книги О не избираємꙑихъ самѣхъ ради себе глаголаше · Въ третїи же книзѣ О правьдьнѣмь · въ словѣхъ ꙗко тꙑсѫщи · и ѹмръшиихъ ꙗсти повелѣвааше ·",
     "originalText": "Ἐν δὲ τῷ Περὶ πολιτείας καὶ μητράσι λέγει συνέρχεσθαι καὶ θυγατράσι καὶ υἱοῖς· τὰ δ' αὐτά φησι καὶ ἐν τῷ Περὶ τῶν μὴ δι' ἑαυτὰ αἱρετῶν εὐθὺς ἐν ἀρχῇ. Ἐν δὲ τῷ τρίτῳ Περὶ δικαίου κατὰ τοὺς χιλίους στίχους καὶ τοὺς ἀποθανόντας κατεσθίειν κελεύων.",
     "author": "Chrysippus",
     "sources": [
@@ -619,9 +621,9 @@
     "id": "mm-000488",
     "type": "works",
     "title": "O životu i sticanju, knjiga druga",
-    "sr": "Radi čega mudrac treba da stiče? Ako radi života, život je ravnodušan. Ako radi zadovoljstva, i ono je ravnodušno. Ako radi vrline, ona je sama dovoljna za blagočest. Smešni su i načini sticanja: od kralja, jer mu se tada mora povlađivati; od prijateljstva, jer će prijateljstvo biti prodano za dobit; od mudrosti, jer će mudrost raditi za platu.",
-    "stsl": "Чесо ради мѫдрьцѹ стѧжати подобаєть · Аште житїꙗ ради · житїє безразличьно · Аште сласти ради · и она безразличьна · Аште добродѣтели ради · она сама къ благочѧсти довълна · Смѣшьни же и пѫти стѧжанїꙗ · отъ цѣсарѧ · ємѹ бо тогда ѹгаждати подобаєть · отъ дрѹжьбы · дрѹжьба бо за прибꙑтъкъ продана бѫдеть · отъ мѫдрости · мѫдрость бо за мьздѫ работати бѫдеть ·",
-    "originalText": "Καίτοι τίνος χάριν ποριστέον αὐτῷ; εἰ μὲν τοῦ ζῆν ἕνεκεν, ἀδιάφορον τὸ ζῆν· εἰ δὲ ἡδονῆς, καὶ αὕτη ἀδιάφορος· εἰ δὲ τῆς ἀρετῆς, αὐτάρκης αὕτη πρὸς εὐδαιμονίαν. Καταγέλαστοι δὲ καὶ οἱ τρόποι τοῦ πορισμοῦ, οἷον οἱ ἀπὸ βασιλέως· εἴκειν γὰρ αὐτῷ δεήσει. Καὶ οἱ ἀπὸ φιλίας· λήμματος γὰρ ὤνιος ἡ φιλία ἔσται. Καὶ οἱ ἀπὸ σοφίας· μισθαρνήσει γὰρ ἡ σοφία.",
+    "sr": "U drugoj knjizi dela O životu i sticanju, razmatrajući kako mudrac treba da stiče sredstva, piše: Radi čega bi, uostalom, trebalo da ih stiče? Ako radi života, život je ravnodušan. Ako radi zadovoljstva, i ono je ravnodušno. Ako radi vrline, ona je sama dovoljna za blagočest. Smešni su i načini sticanja: od kralja, jer će mu se morati povinovati; od prijateljstva, jer bi prijateljstvo tada bilo na prodaju za dobit; od mudrosti, jer bi mudrost radila za platu.",
+    "stsl": "Въ вторѣи книзѣ О житии и стѧжании · размꙑшлꙗꙗ како мѫдрьцѹ стѧжати подобаєть · пишеть · Чесо ради ѹбо стѧжати ємѹ · Аще житїа ради · житїє безразличьно єсть · аще сласти ради · и она безразличьна · аще добродѣтели ради · та сама къ благочѧсти довълна єсть · Смѣшьни же и пѫти стѧжаниꙗ · отъ цѣсарѧ · повинѹти бо сѧ ємѹ подобаєть · отъ дрѹжьбꙑ · за прибꙑтъкъ бо дрѹжьба продана бѫдеть · отъ мѫдрости · мѫдрость бо за мьздѫ работати бѫдеть ·",
+    "originalText": "Ἐν δὲ τῷ δευτέρῳ Περὶ βίου καὶ πορισμοῦ προνοεῖν λέγων ὅπως ποριστέον τῷ σοφῷ· Καίτοι τίνος χάριν ποριστέον αὐτῷ; εἰ μὲν γὰρ τοῦ ζῆν ἕνεκεν, ἀδιάφορον τὸ ζῆν· εἰ δὲ ἡδονῆς, καὶ αὕτη ἀδιάφορος· εἰ δὲ τῆς ἀρετῆς, αὐτάρκης αὕτη πρὸς εὐδαιμονίαν. Καταγέλαστοι δὲ καὶ οἱ τρόποι τοῦ πορισμοῦ, οἷον οἱ ἀπὸ βασιλέως· εἴκειν γὰρ αὐτῷ δεήσει. Καὶ οἱ ἀπὸ φιλίας· λήμματος γὰρ ὤνιος ἡ φιλία ἔσται. Καὶ οἱ ἀπὸ σοφίας· μισθαρνήσει γὰρ ἡ σοφία.",
     "author": "Chrysippus",
     "sources": [
       {
