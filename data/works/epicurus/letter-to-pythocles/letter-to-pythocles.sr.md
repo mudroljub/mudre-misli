@@ -1,5 +1,4 @@
-## 1
-
+<!-- anchor:1 -->
 Epikur Pitoklu, pozdrav.
 
 Kleon mi je doneo tvoje pismo. U njemu si nastavio da mi iskazuješ naklonost, dostojnu moje brige o tebi, i uverljivo si pokušao da zapamtiš razmišljanja koja vode blaženom životu. Zamolio si me da ti pošaljem kratak i pregledan prikaz nebeskih pojava kako bi ga lako pamtio, jer se ono što smo napisali drugde teško pamti premda ga, kako kažeš, stalno nosiš sa sobom. Rado sam prihvatio tvoju molbu i ispunio se prijatnim nadama. Pošto smo napisali sve ostalo, ispunjavamo i to što si tražio; ova razmišljanja biće korisna i mnogim drugima, naročito onima koji su tek okusili istinsko proučavanje prirode i onima koje zaokupljaju dublji poslovi opšteg obrazovanja. Dobro ih usvoji, drži ih u pamćenju i brzo prelazi zajedno s ostalim što smo u Malom sažetku poslali Herodotu.

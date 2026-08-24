@@ -1,5 +1,4 @@
-## III.1
-
+<!-- anchor:III.1 -->
 Kada neki mladi retor dođe k njemu veoma brižljivo uređen, sa kosom doteranom više nego obično i odećom raskošnom, Epiktet reče:
 
 Kaži mi, ne misliš li da su neki psi lepi, a neki konji, i tako svaka druga životinja?
@@ -190,8 +189,7 @@ O tome se staraj.
 
 Tako ćeš postati lep onako kako čoveku dolikuje.
 
-## III.2
-
+<!-- anchor:III.2 -->
 Tri su oblasti u kojima se mora vežbati onaj koji hoće da bude valjan i dobar.
 
 Prva je oblast težnji i otklona: da ne promašuje ono čemu teži i da ne zapada u ono što otklanja.
@@ -334,8 +332,7 @@ Jer ovca ne donosi pastiru travu da pokaže koliko je pojela, nego je iznutra sv
 
 Tako ni ti ne pokazuj prostim ljudima pouke, nego dela koja iz njih nastaju kada ih svariš.
 
-## III.3
-
+<!-- anchor:III.3 -->
 Građa razboritoga i valjanoga čoveka jeste njegov vlastiti vladajući deo, kao što je telo građa lekaru i učitelju vežbanja, a zemlja zemljoradniku.
 
 Delo valjanoga čoveka jeste da se predstavama služi prema prirodi.
@@ -512,8 +509,7 @@ Tako i kada čoveka obuzme vrtoglavica, ne pomute se umeća i vrline, nego duh u
 
 A kada se on ponovo smiri, vraćaju se i one.
 
-## III.4
-
+<!-- anchor:III.4 -->
 Kada je jedan upravitelj gradova, koji se bavio filozofijom, u pozorištu nepristojno pokazao naklonost nekom glumcu, pa su ga zbog toga mnogi prekorevali, on potom ispriča Epiktetu da su ga prekorevali.
 
 A šta su, reče Epiktet, činili oni koji su te prekorevali?
@@ -674,8 +670,7 @@ Ovaj čovek nije samo slušao filozofe.
 
 On je nešto i naučio.
 
-## III.5
-
+<!-- anchor:III.5 -->
 Odlazim, kaže neko, možda se više neću vratiti.
 
 Kuda odlaziš?
@@ -870,8 +865,7 @@ Dobro ponesi sa sobom.
 
 Tada ćeš ga imati svuda.
 
-## III.6
-
+<!-- anchor:III.6 -->
 Kada se neko hvalio da ume razumeti i tumačiti Hrisipove knjige, Epiktet reče:
 
 Kad bi Hrisip pisao jasno, ne bi imao čime da se hvališ.
@@ -932,8 +926,7 @@ Tako je Sokrat postao Sokrat: u svemu što mu se događalo nije obraćao pažnju
 
 A ti, ako još nisi Sokrat, treba da živiš kao onaj koji želi da bude Sokrat.
 
-## III.7
-
+<!-- anchor:III.7 -->
 Kada mu dođe upravitelj, koji je bio Epikurejac, Epiktet reče:
 
 Nama prostim ljudima dolikuje da vas, upravitelje i bogataše, pitamo šta je najbolje u životu, jer vi imate i dokolicu i sredstva da to istražujete.
@@ -1100,8 +1093,7 @@ Ako si građanin, delo građanina.
 
 Jer tvoje dobro nije u tome šta će drugi učiniti prema tebi, nego šta ćeš ti učiniti prema njima.
 
-## III.8
-
+<!-- anchor:III.8 -->
 Kao što se vežbamo protiv sofističkih pitanja, tako se svakoga dana treba vežbati i protiv predstava, jer nam i one postavljaju pitanja.
 
 Umro je nečiji sin.
@@ -1188,8 +1180,7 @@ Hoćete da me načinite onakvim kakav je on!
 
 I pokaza na mene.
 
-## III.10
-
+<!-- anchor:III.10 -->
 Kada se ukaže potreba, naći ćeš ono što treba.
 
 Ali neka ti ovo bude pripremljeno za bolest:
@@ -1420,8 +1411,7 @@ Ako njega sačuvaš, sačuvao si svoje.
 
 Ako njega izgubiš, makar ti lekar sačuvao telo, izgubio si ono glavno.
 
-## III.11
-
+<!-- anchor:III.11 -->
 Postoje kazne, kao zakonom određene, za one koji se ne pokoravaju Božjem upravljanju.
 
 Ko god smatra dobrim išta osim onoga što zavisi od proizvoljenja, neka bude podložan zavisti, žudnji, laskanju i nemiru.
@@ -1446,8 +1436,7 @@ Ne smem obeščastiti brata, jer su svi od Zevsa Srodničkoga.
 
 I tako ćemo u svim drugim odnosima naći Zevsa kao njihova zaštitnika.
 
-## III.12
-
+<!-- anchor:III.12 -->
 Ne treba se vežbati u stvarima protivnim prirodi i neobičnim, jer se tada mi koji govorimo da smo filozofi ni po čemu nećemo razlikovati od opsenara.
 
 Jer teško je i hodati po užetu, i ne samo teško nego i opasno.
@@ -1534,8 +1523,7 @@ Zato je Apolonije dobro govorio:
 
 Kada hoćeš da vežbaš radi sebe i žedan si po vrućini, uzmi gutljaj hladne vode i ispljuni je — i nikome ne govori.
 
-## III.13
-
+<!-- anchor:III.13 -->
 Samoća je stanje bespomoćnoga čoveka.
 
 Jer čovek koji je sam nije samim tim i samotan, kao što ni onaj koji je među mnogima nije samim tim nesamotан.
@@ -1724,8 +1712,7 @@ Izgubićeš vernost, stidljivost i pristojnost.
 
 Ne traži veće štete od tih.
 
-## III.14
-
+<!-- anchor:III.14 -->
 Onaj koji pred ljudima objavljuje da nešto zna, želi da ga oni koji to čuju smatraju znalcem.
 
 Tako i onaj koji se pred ljudima razmeće svojim filozofskim učenjem želi da ga oni smatraju filozofom.
@@ -1776,8 +1763,7 @@ I pamti da će ti se oni koji su ti se u početku smejali, ako ostaneš postojan
 
 Ako te pak oni savladaju, bićeš dvostruko ismejan.
 
-## III.15
-
+<!-- anchor:III.15 -->
 U svakom delu gledaj šta mu prethodi i šta za njim sledi, pa mu tako pristupaj.
 
 Ako ne učiniš tako, u početku ćeš mu pristupiti radosno, jer nisi promislio ni o čemu što dolazi posle; ali kasnije, kada se pokažu neke teškoće, sramno ćeš odustati.
@@ -1876,8 +1862,7 @@ Ako ti ne odgovara, ostavi je.
 
 Ali kada si je jednom uzeo, ne žali se na cenu.
 
-## III.16
-
+<!-- anchor:III.16 -->
 Neizbežno je da se čovek, ako se druži s nekim, bilo razgovarajući s njim bilo zajedno boraveći, ili njemu upodobi ili njega sebi upodobi.
 
 Jer ako se žeravica stavi uz ugašeni ugalj, ili će ga ona zapaliti ili će on nju ugasiti.
@@ -1966,8 +1951,7 @@ A potom, kada stekneš snagu, iziđi među ljude.
 
 Tada više nećeš od njih primati ono što je njihovo, nego ćeš njima davati ono što je tvoje.
 
-## III.17
-
+<!-- anchor:III.17 -->
 Kada god nekoga optužuješ, znaj da si zaboravio šta se događa po prirodi.
 
 Jer ako je on rđav čovek, šta drugo treba da čini nego ono što čini?
@@ -2064,8 +2048,7 @@ Ali nemoj oklevati da mu rečima saosećaš, a ako prilika zahteva, i da uzdahne
 
 Samo pazi da ne uzdahneš i iznutra.
 
-## III.18
-
+<!-- anchor:III.18 -->
 Kad god ti stigne neka uznemirujuća vest, neka ti bude spremno da nikakva vest nije o onome što je do tebe.
 
 Može li ti neko javiti da si rđavo mnenje imao ili rđavo težio?
@@ -2224,8 +2207,7 @@ Kako primam ono što će mi reći?
 
 Jer od toga zavisi hoće li vest biti dobra ili rđava.
 
-## III.19
-
+<!-- anchor:III.19 -->
 Prvo je svojstvo prostoga čoveka da korist i štetu nikada ne očekuje od sebe, nego od spoljašnjih stvari.
 
 Prvo je svojstvo filozofa da svaku korist i štetu očekuje od sebe.
@@ -2250,8 +2232,7 @@ Ako ga smatraju glupim ili neukim, ne mari.
 
 Jednom rečju, samoga sebe čuva kao neprijatelja koji mu postavlja zasedu.
 
-## III.20
-
+<!-- anchor:III.20 -->
 Upravo je to svojstvo razumnoga bića: da i od onoga što mu se događa može načiniti korist.
 
 Ali kakve su okolnosti?
@@ -2434,8 +2415,7 @@ Pošalji mi sada kakvu god okolnost hoćeš.
 
 Jer imam od tebe opremu i sredstva da se onim što se događa ukrasim.
 
-## III.21
-
+<!-- anchor:III.21 -->
 Oni koji su od filozofa primili samo pouke odmah hoće da ih iznesu pred druge, kao što ljudi slaboga želuca povraćaju hranu.
 
 Najpre ih svari, pa ih onda nemoj tako izbacivati.
@@ -2602,8 +2582,7 @@ Jer nije mala stvar biti dobar čovek.
 
 I nije nužno da svaki dobar čovek bude učitelj.
 
-## III.22
-
+<!-- anchor:III.22 -->
 Kada je jedan njegov poznanik, koji je naginjao kiničkom životu, upitao Epikteta kakav treba da bude kinik i kakvu predstavu treba imati o tome pozivu, on odgovori:
 
 Razmotrićemo to kada budemo imali vremena.
@@ -3047,8 +3026,7 @@ Ali ako ga obučeš bez odgovarajuće duše, nećeš postati kinik.
 
 Postaćeš samo prosjak.
 
-## III.23
-
+<!-- anchor:III.23 -->
 Najpre reci samome sebi kakav hoćeš da budeš, a zatim čini ono što činiš.
 
 Jer u gotovo svakom drugom poslu vidimo da je tako.
@@ -3311,8 +3289,7 @@ Jer istina nije tvoja svojina da bi se njome kitio.
 
 Ona ti je poverena da bi se njome služio kako treba.
 
-## III.24
-
+<!-- anchor:III.24 -->
 Nemoj dopustiti da te išta što ti nije dato da bude tvoje tako privuče da od toga učiniš svoje dobro.
 
 Ako ti je dato dete, dato ti je kao smrtnik.
@@ -3685,8 +3662,7 @@ Jer nećeš slobodu tražiti u tome da ti se ništa ne oduzme.
 
 Tražićeš je u tome da ništa od onoga što može biti oduzeto ne smatraš svojim dobrom.
 
-## III.25
-
+<!-- anchor:III.25 -->
 Razmotri ono što si sebi jednom postavio kao pravilo i drži ga kao zakon koji ne smeš prestupiti.
 
 Ne obraćaj pažnju na to šta će ljudi o tebi govoriti.
@@ -3881,8 +3857,7 @@ Sam sebi to reci.
 
 Sada.
 
-## III.26
-
+<!-- anchor:III.26 -->
 Zar se ne stidiš što si strašljiviji i malodušniji od odbeglih robova?
 
 Kako oni ostavljaju svoje gospodare kada beže?

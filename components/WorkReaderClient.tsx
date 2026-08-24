@@ -42,7 +42,7 @@ export default function WorkReaderClient({ language, work, sections, readingPage
           <header>
             <p><Link href={`/${language}/authors/${authorSlug}`}>{transliterate(getAuthorName(work.author, language))}</Link></p>
             <h2>{transliterate(getLocalizedWorkText(work.title, language))}</h2>
-            <h3>§ {pageLabel}</h3>
+            {firstSection.title && <h3>{transliterate(getLocalizedWorkText(firstSection.title, language))}</h3>}
           </header>
 
           <details className={styles.contents}>
@@ -65,7 +65,6 @@ export default function WorkReaderClient({ language, work, sections, readingPage
           <div className={styles.text}>
             {sections.map(({ section, text }) => (
               <section id={section.anchor} className={styles.canonicalSection} key={section.anchor}>
-                <h4>{section.title ? transliterate(getLocalizedWorkText(section.title, language)) : `§ ${section.anchor}`}</h4>
                 {transliterateText(text).split(/\n\s*\n/u).map(value => value.trim()).filter(Boolean).map((paragraph, index) => paragraph === '***'
                   ? <hr key={index} />
                   : <p key={index}>{paragraph}</p>)}

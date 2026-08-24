@@ -40,7 +40,7 @@ const readContentFile = async (workDir, file, language) => {
 
 const sectionText = (content, anchor) => {
   const escaped = anchor.replace(/[.*+?^${}()|[\]\\]/gu, '\\$&')
-  const match = content.match(new RegExp(`^##\\s+${escaped}\\s*$`, 'gmu'))
+  const match = content.match(new RegExp(`<!--\\s*anchor:${escaped}\\s*-->`, 'gmu'))
   return match?.length ?? 0
 }
 

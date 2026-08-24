@@ -1,5 +1,4 @@
-## I.1
-
+<!-- anchor:I.1 -->
 Od ostalih moći nijednu nećete naći da samu sebe motri, pa stoga ni da samu sebe ispituje i prosuđuje.
 
 Dokle seže moć gramatike da motri? Dotle da razaznaje slova. A muzike? Dotle da razaznaje napjev.
@@ -156,8 +155,7 @@ Kako dolikuje onome koji vraća tuđe.
 
 ---
 
-## I.2
-
+<!-- anchor:I.2 -->
 Slovesnom živom biću jedino je nesnosno ono što je beslovesno, dok je ono što je slovesno podnošljivo.
 
 Udarci po prirodi nisu nesnosni.
@@ -306,8 +304,7 @@ Epiktet neće postati bolji od Sokrata; ali ako ne budem gori, to mi je dovoljno
 
 ---
 
-## I.3
-
+<!-- anchor:I.3 -->
 Kad bi neko mogao dostojno da primi ovo učenje: da smo svi prvenstveno postali od Boga i da je Bog otac i ljudi i bogova, mislim da ništa neplemenito ni nisko ne bi pomislio o sebi.
 
 Ali ako te car usini, niko neće moći da podnese tvoju uzdignutu obrvu; a ako spoznaš da si Zevsov sin, zar se nećeš uzdići?
@@ -326,8 +323,7 @@ Jer šta je drugo pogrdljiv i zloban čovek nego lisica ili nešto još nesrećn
 
 Gledajte, dakle, i pazite da ne postanete neko od tih nesrećnih stvorenja.
 
-## I.4
-
+<!-- anchor:I.4 -->
 Onaj koji napreduje naučio je od filozofa da je želja usmerena prema dobrima, a otklon prema zlima; naučio je i da čovek ne zadobija spokojan tok i bestrašće drukčije nego tako što u želji ne promašuje, a u otklonu ne zapada u ono od čega se otklanja. Zato je želju sasvim uklonio od sebe i odložio je, a otklonom se služi samo prema onome što je do njegovog proizvoljenja.
 
 Jer ako se otklanja od nečega što nije do proizvoljenja, zna da će jednom zapasti upravo u ono od čega se otklanja i biti nesrećan.
@@ -420,8 +416,7 @@ Triptolemu su svi ljudi podigli svetilišta i žrtvenike zato što nam je dao pi
 
 Zato što su nam dali lozu ili pšenicu prinosimo žrtve; a zato što su u ljudskom razmislu izneli takav plod, kojim su nam hteli pokazati istinu o blaženstvu, zar zbog toga nećemo zahvaliti Bogu?
 
-## I.5
-
+<!-- anchor:I.5 -->
 Ako se neko, kaže, opire onome što je sasvim očigledno, nije lako naći slovo kojim bi ga čovek mogao preubediti.
 
 A to nije ni zbog njegove moći ni zbog nemoći učitelja; nego kad se čovek, odveden dotle, okameni, kako se još može s njime služiti slovom?
@@ -458,8 +453,7 @@ Ne bilo!
 
 Osim ako moći ne nazovem i ono u razvratnika, po čemu sve što im padne na um i čine i govore pred svima.
 
-## I.6
-
+<!-- anchor:I.6 -->
 Od svega što biva u svetu lako je hvaliti promisao, ako čovek u sebi ima ovo dvoje: moć da sagleda ono što se svakome događa i blagodarnost.
 
 Ako ne, jedan neće videti korisnost onoga što biva, a drugi neće za to blagodariti ni ako je vidi.
@@ -572,8 +566,7 @@ Imajući ih slobodne i svoje, vi se njima ne služite niti uviđate šta ste pri
 
 A da za velikodušnost i hrabrost imaš sredstva i spremu, ja ću ti pokazati; ti pak meni pokaži kakva sredstva imaš za korenje i optuživanje.
 
-## I.7
-
+<!-- anchor:I.7 -->
 Bavljenje promenljivim i pretpostavljenim slovima, kao i onima koji zaključuju pitanjem i uopšte svim takvim slovima, većini promiče kao nešto što se tiče dužnosti.
 
 Jer pri svakoj građi istražujemo kako će valjan i dobar čovek naći izlaz i kako će se u njoj ponašati kako dolikuje.
@@ -692,8 +685,7 @@ Robe, ovde je prećutana premisa Kapitol.
 
 Ili su jedine pogreške spaliti Kapitol i ubiti oca, dok nasumice, uzalud i kako nam padne služiti se sopstvenim predstavama, ne pratiti slovo ni dokaz ni mudrovanje, i uopšte ne videti šta nam pripada, a šta nam ne pripada u pitanju i odgovoru — ništa od toga nije pogreška?
 
-## I.8
-
+<!-- anchor:I.8 -->
 Na koliko se načina mogu preoblikovati stvari koje su međusobno istovredne, na toliko se načina mogu preoblikovati i oblici dokaza i skraćenih zaključaka u slovima.
 
 Uzmi, na primer, ovaj oblik:
@@ -744,8 +736,7 @@ Nipošto; kao što ne odbacujem ni moć vida.
 
 Ali ako me pitaš šta je čovekovo dobro, ne mogu ti reći ništa drugo nego: određeno proizvoljenje.
 
-## I.9
-
+<!-- anchor:I.9 -->
 Ako je istinito ono što filozofi govore o srodstvu Boga i ljudi, šta drugo ljudima preostaje nego ono Sokratovo: da nikada, kad ga neko pita odakle je, ne kaže da je Atinjanin ili Korinćanin, nego građanin sveta?
 
 Jer zašto sebe nazivaš Atinjaninom, a ne samo po onom kutku u koji je pri rođenju bačeno tvoje telašce?
@@ -848,8 +839,7 @@ Jer takav čovek zaista jeste telo i merica krvi, i ništa više.
 
 Da je nešto više, osetio bi da jedan čovek ne biva nesrećan zbog drugoga.
 
-## I.10
-
+<!-- anchor:I.10 -->
 Kad bismo se mi toliko trudili oko svoga dela koliko se rimski senatori trude oko onoga čime se bave, možda bismo i mi nešto postigli.
 
 Poznajem čoveka starijeg od mene, koji je sada nadzornik žita u Rimu. Kada je prolazio ovuda vraćajući se iz izgnanstva, šta je sve govorio kudeći svoj pređašnji život i obećavajući da će ubuduće, kad se vrati, brinuti samo o tome da ostatak života provede spokojno i bez smutnje.
@@ -976,8 +966,7 @@ Budi zadovoljan da samome sebi izgledaš kao filozof.
 
 I ako hoćeš da izgledaš kao filozof i drugima, pokaži najpre samome sebi da to jesi, i biće dovoljno.
 
-## I.11
-
+<!-- anchor:I.11 -->
 Kada mu dođe jedan od upravitelja, Epiktet ga upita ima li ženu i decu.
 
 A kada ovaj reče da ima, opet ga upita:
@@ -1104,8 +1093,7 @@ Jer što si razumniji i što ti je razmisao uređeniji, utoliko ćeš prirodnije
 
 A ako se predaš predstavama bez ispitivanja, nećeš biti samo nesrećan, nego ćeš često upravo zbog onih koje voliš činiti ono što im najmanje koristi.
 
-## I.12
-
+<!-- anchor:I.12 -->
 O bogovima jedni govore da božansko uopšte ne postoji; drugi da postoji, ali da je nedelatno i nemarno i da ni o čemu ne promišlja; treći da postoji i promišlja, ali samo o velikim i nebeskim stvarima, a ni o čemu na zemlji; četvrti da promišlja i o zemaljskim i ljudskim stvarima, ali samo uopšte, a ne i o svakome ponaosob; peti pak, među kojima behu i Odisej i Sokrat, govore:
 
 Ni kad se pomerim ne promičem ti.
@@ -1252,8 +1240,7 @@ Zašto onda na sebe navlačiš ono za šta nisi odgovoran?
 
 To znači samome sebi zadavati nevolje.
 
-## I.13
-
+<!-- anchor:I.13 -->
 Kada se neko raspitivao kako bi mogao jesti tako da bude ugodno bogovima, Epiktet reče:
 
 Ako možeš jesti pravedno i blagodarno, pa još i uzdržano i pristojno, zar nećeš ujedno jesti tako da bude ugodno bogovima?
@@ -1274,8 +1261,7 @@ Vidiš li kuda gledaš?
 
 U zemlju, u jamu, u te bedne zakone mrtvih ljudi, a ne u zakone bogova.
 
-## I.14
-
+<!-- anchor:I.14 -->
 Kada ga neko upita kako se čovek može uveriti da Bog motri svako njegovo delo, Epiktet reče:
 
 Zar ti se ne čini da je sve sjedinjeno?
@@ -1326,8 +1312,7 @@ Je li ova zakletva slična onoj?
 
 Onde se zaklinju da ništa neće pretpostaviti caru; ovde — da sebe pretpostave svemu.
 
-## I.15
-
+<!-- anchor:I.15 -->
 Kada ga je neko pitao za savet kako da ubedi brata da se više ne srdi na njega, Epiktet reče:
 
 Filozofija ne obećava da će čoveku pribaviti išta od spoljašnjih stvari; inače bi preuzela nešto što je izvan njene vlastite građe.
@@ -1372,8 +1357,7 @@ Pa ako se plod smokve ne dovršava odjednom i u jednom času, zar hoćeš da plo
 
 Ne očekuj to, čak ni ako ti ja kažem drukčije.
 
-## I.16
-
+<!-- anchor:I.16 -->
 Ne čudite se što je drugim životinjama sve što je potrebno telu dato spremno: ne samo hrana i piće nego i ležaj, i što im nisu potrebne ni cipele, ni prostirke, ni odeća, dok su nama sve te stvari potrebne.
 
 Jer ono što nije postalo radi sebe samoga nego radi služenja nije bilo korisno načiniti tako da mu budu potrebne još druge stvari.
@@ -1446,8 +1430,7 @@ To je moje delo.
 
 Činim ga i neću napustiti ovaj poredak dokle god mi bude dato, a i vas pozivam na ovu istu pesmu.
 
-## I.17
-
+<!-- anchor:I.17 -->
 Pošto je slovesnost ono što razlaže i dovršava ostalo, a i sama ne treba da ostane nerazložena, čime će ona biti razložena?
 
 Očigledno ili samom sobom ili nečim drugim.
@@ -1603,8 +1586,7 @@ Bez nje ne možemo ni slušati ni razumeti ono što se govori.
 
 Ako, dakle, prezremo tu moć, čime ćemo saznati da je preziremo valjano?
 
-## I.18
-
+<!-- anchor:I.18 -->
 Ako je istinito ono što filozofi govore, da u svih ljudi delanje polazi iz jednog izvora: kao što se saglašavaju zato što im se nešto čini da jeste, odriču zato što im se čini da nije, a, Zevsa mi, uzdržavaju zato što im se čini nejasnim, tako i teže nečemu zato što im se čini korisnim;
 
 i ako je nemoguće da neko jednu stvar smatra korisnom, a želi drugu, ili da jednu smatra dolikujućom, a teži drugoj — zašto se onda srditi na mnoštvo?
@@ -1653,8 +1635,7 @@ A oni su izabrali rđavo?
 
 Njihova je kazna upravo to što su rđavo izabrali.
 
-## I.19
-
+<!-- anchor:I.19 -->
 Ako neko ima neku prednost ili makar misli da je ima, nužno je da se, ako je neobrazovan, zbog nje nadima.
 
 Tiranin, na primer, kaže:
@@ -1777,8 +1758,7 @@ Da se čovek odrekne sebe i vlastite koristi?
 
 Kako bi onda još moglo ostati jedno isto načelo svih: prisvajanje samoga sebe?
 
-## I.20
-
+<!-- anchor:I.20 -->
 Svako umeće i svaka moć imaju neke stvari kao prvenstveni predmet svoga motrenja.
 
 Kada je, dakle, sama moć iste vrste kao ono što motri, nužno motri i samu sebe; a kada nije iste vrste, ne može motriti samu sebe.
@@ -1833,8 +1813,7 @@ Kada, dakle, hoćeš da spoznaš koliko malo mariš za dobro i zlo, a koliko mno
 
 I spoznaćeš da si daleko od onoga kako treba da se držiš prema stvarima.
 
-## I.21
-
+<!-- anchor:I.21 -->
 Kada neko u životu zauzme svoje pravo mesto, ne žudi više za onim što je spolja.
 
 Čoveče, šta hoćeš da ti se dogodi?
@@ -1855,8 +1834,7 @@ Nisu li upravo oni za koje obično govoriš da su bezumni?
 
 Hoćeš li da ti se bezumni dive?
 
-## I.22
-
+<!-- anchor:I.22 -->
 Pretpojmovi su svim ljudima zajednički, i jedan pretpojam ne protivreči drugome.
 
 Jer ko od nas ne pretpostavlja da je dobro korisno i da ga treba birati i u svakoj prilici tražiti i slediti?
@@ -1997,8 +1975,7 @@ Nijedan tiranin nije čoveku sekao vrat šest meseci; groznica često traje i go
 
 Sve su te stvari samo buka i zveket praznih imena.
 
-## I.23
-
+<!-- anchor:I.23 -->
 Čak i Epikur shvata da smo po prirodi društveni, ali pošto je dobro jednom smestio u ljušturu, više ne može ništa drugo da kaže.
 
 Jer opet veoma snažno tvrdi da se ničemu izvan vlastitog dobra ne treba ni diviti niti težiti; i to s pravom tvrdi.
@@ -2039,8 +2016,7 @@ Hajde, ko bi te poslušao kada bi video da mu dete padne na zemlju i plače?
 
 Meni se čini da bi, čak i kada bi ti majka i otac naslutili da ćeš govoriti takve stvari, ipak te ne bi izložili.
 
-## I.24
-
+<!-- anchor:I.24 -->
 Teškoće su ono što pokazuje ljude.
 
 Zato, kada te ubuduće snađe neka teškoća, seti se da te je Bog, kao učitelj borbe, spojio s mladim i snažnim protivnikom.
@@ -2095,8 +2071,7 @@ A ti nam dolaziš i pričaš jedno za drugim.
 
 Zar se nećeš vratiti i tačnije pogledati, bez kukavičluka?
 
-## I.25
-
+<!-- anchor:I.25 -->
 Ako je to istinito i ako nismo glupi niti se pretvaramo kada govorimo da je dobro i zlo za čoveka u proizvoljenju, a sve ostalo ništa prema nama, zašto smo još uznemireni, zašto se bojimo?
 
 Nad onim do čega nam je stalo niko nema vlasti; a do onoga nad čime drugi imaju vlasti nama nije stalo.
@@ -2385,8 +2360,7 @@ Ukloni njega, ako možeš.
 
 Ako ga ne ukloniš, stenji i sam i udvostruči žalost.
 
-## I.26
-
+<!-- anchor:I.26 -->
 Kada je neko čitao pretpostavljene iskaze, Epiktet reče:
 
 I ovo je zakon pretpostavljenih iskaza: treba prihvatiti ono što sledi iz pretpostavke.
@@ -2471,8 +2445,7 @@ Zato ih povraćaju ili dobijaju probavu, a zatim dolaze grčevi, curenje i grozn
 
 Trebalo je najpre da razmotre šta mogu podneti.
 
-## I.27
-
+<!-- anchor:I.27 -->
 Predstave ljudima nastaju na četiri načina.
 
 Ili nešto jeste i tako se čini; ili nije niti se čini da jeste; ili jeste, a ne čini se da jeste; ili nije, a čini se da jeste.
@@ -2553,8 +2526,7 @@ Jednom rečju, seti se ovoga: ako pobožnost i korist nisu u istome, pobožnost 
 
 Zar ti se to ne čini nužnim?
 
-## I.28
-
+<!-- anchor:I.28 -->
 Šta je uzrok pristajanja?
 
 Predstava da nešto jeste.
@@ -2658,8 +2630,7 @@ Primio sam ga od vas kao drskog i nasilnog čoveka, a vraćam vam ga kao valjana
 
 Eto kakva je korist od valjanog služenja predstavama.
 
-## I.29
-
+<!-- anchor:I.29 -->
 Suštastvo dobra i zla jeste određeno stanje proizvoljenja, a spoljašnje stvari građa su proizvoljenju.
 
 Kako onda ono zadobija svoje dobro?

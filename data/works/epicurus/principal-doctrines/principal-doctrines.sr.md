@@ -1,5 +1,4 @@
-## 1
-
+<!-- anchor:1 -->
 Glavne misli
 
 I. Blaženo i nepropadljivo biće niti samo ima nevolje niti ih drugome zadaje; zato ga ne obuzimaju ni gnev ni naklonost, jer sve je takvo znak slabosti.

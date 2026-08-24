@@ -8,13 +8,13 @@ export const readWorkSection = (work: Work, section: WorkSection, language: Lang
   const filename = path.join(process.cwd(), 'data', 'works', work.directory, `${section.file}.${language}.md`)
   const content = fs.readFileSync(filename, 'utf8')
   const escaped = section.anchor.replace(/[.*+?^${}()|[\]\\]/gu, '\\$&')
-  const heading = new RegExp(`^##\\s+${escaped}\\s*$`, 'mu')
-  const startMatch = heading.exec(content)
+  const marker = new RegExp(`<!--\\s*anchor:${escaped}\\s*-->`, 'mu')
+  const startMatch = marker.exec(content)
   if (!startMatch) throw new Error(`Missing section ${section.anchor} in ${filename}`)
   const start = startMatch.index + startMatch[0].length
   const remainder = content.slice(start)
-  const nextHeading = /^##\s+.+?\s*$/mu.exec(remainder)
-  return remainder.slice(0, nextHeading?.index ?? remainder.length).trim()
+  const nextMarker = /<!--\s*anchor:.+?\s*-->/mu.exec(remainder)
+  return remainder.slice(0, nextMarker?.index ?? remainder.length).trim()
 }
 
 export interface WorkReadingPage {

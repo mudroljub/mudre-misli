@@ -1,5 +1,4 @@
-## II.1
-
+<!-- anchor:II.1 -->
 Možda se nekima čini neobičnim ono što filozofi zahtevaju; ipak razmotrimo koliko možemo je li istina da sve treba činiti ujedno oprezno i smelo.
 
 Jer oprez se nekako čini protivnim smelosti, a protivnosti nikako ne mogu zajedno stajati.
@@ -264,8 +263,7 @@ I tako više neće izgledati neobično da istovremeno treba biti oprezan i smeo:
 
 smeo prema onome što nije do nas, a oprezan prema onome što jeste.
 
-## II.2
-
+<!-- anchor:II.2 -->
 Razmotri, ti koji ideš na sud, šta hoćeš da sačuvaš i u čemu hoćeš da uspeš.
 
 Jer ako hoćeš da sačuvaš proizvoljenje u stanju po prirodi, sva ti je sigurnost, sva lakoća, nemaš nikakve muke.
@@ -400,8 +398,7 @@ A ko je gospodar?
 
 Onaj koji ima vlast nad onim čemu težiš ili što otklanjaš.
 
-## II.3
-
+<!-- anchor:II.3 -->
 Građa dobroga čoveka jeste njegov vlastiti vladajući deo, kao što je telo lekaru i vežbaču, a zemlja zemljoradniku.
 
 Delo dobroga čoveka jeste da se predstavama služi po prirodi.
@@ -468,8 +465,7 @@ Ako hoćeš, nazovi je i radnjom za lečenje duša.
 
 Ali ne nazivaj je školom dok ne budeš mogao pokazati da oni koji ti dolaze izlaze bolji nego što su ušli.
 
-## II.4
-
+<!-- anchor:II.4 -->
 Dok je Epiktet govorio da je čovek po prirodi rođen za vernost i da onaj koji je ruši, ruši ono što je čoveku svojstveno, uđe jedan od onih koje smatraju učenim ljudima, a koji je jednom u gradu bio zatečen u preljubi.
 
 Ako, dakle, reče Epiktet, odbacimo ovu vernost za koju smo rođeni i posegnemo za ženom svoga suseda, šta činimo?
@@ -558,8 +554,7 @@ Razumevaj onda Arhedema, i budi preljubnik i nevernik, i umesto čoveka budi vuk
 
 Jer šta te sprečava?
 
-## II.5
-
+<!-- anchor:II.5 -->
 Stvari su same po sebi ravnodušne, ali služenje njima nije ravnodušno.
 
 Kako će, dakle, čovek ujedno sačuvati postojanost i nepomućenost, a opet pažnju, da ne bude nemaran niti nepromišljen?
@@ -772,8 +767,7 @@ Jer da imaš sile za veličinu duha i srčanost, to ti mogu pokazati.
 
 Ti meni pokaži kakve sile imaš za optuživanje i jadikovanje.
 
-## II.6
-
+<!-- anchor:II.6 -->
 Pretpostavljeni iskaz je ravnodušan; sud o njemu nije ravnodušan, nego je ili znanje, ili mnenje, ili zabluda.
 
 Tako je i život ravnodušan; služenje životom nije ravnodušno.
@@ -934,8 +928,7 @@ Umreću.
 
 A ostali ljudi će biti besmrtni?
 
-## II.7
-
+<!-- anchor:II.7 -->
 Zbog nerazumnog pristupanja proricanju mnogi od nas zapostavljaju ono što dolikuje.
 
 Jer šta prorok može videti osim smrti, opasnosti, bolesti i uopšte takvih stvari?
@@ -1018,8 +1011,7 @@ A je li išta bolje od onoga što je Bogu ugodno?
 
 Zašto, koliko je do tebe, kvariš sudiju i zavodiš savetnika?
 
-## II.8
-
+<!-- anchor:II.8 -->
 Bog je koristan, a i dobro je korisno.
 
 Priliči, dakle, da onde gde je suštastvo Boga bude i suštastvo dobra.
@@ -1210,8 +1202,7 @@ Pristanak bez prenagljenosti.
 
 To ćeš videti.
 
-## II.9
-
+<!-- anchor:II.9 -->
 Nije dovoljno samo biti čovek da bi se ispunilo ono što čoveku pripada, nego treba biti i određeni čovek.
 
 Jer čovek je živo biće smrtno i slovesno.
@@ -1398,8 +1389,7 @@ Ako ih sačuvaš, sačuvao si čoveka.
 
 Ako ih pogubiš, pogubio si i njega.
 
-## II.10
-
+<!-- anchor:II.10 -->
 Razmotri ko si.
 
 Pre svega, čovek.
@@ -1522,8 +1512,7 @@ Hoćeš li za nasledstvo da daš vernost?
 
 Jer ako to sačuvaš, niko ti neće moći nauditi.
 
-## II.11
-
+<!-- anchor:II.11 -->
 Početak filozofije, barem za one koji joj pristupaju kako treba i kroz vrata, jeste svest o vlastitoj slabosti i nemoći u nužnim stvarima.
 
 Jer na svet ne dolazimo imajući pojam o pravouglom trouglu ili polutonu, nego to učimo nekim umešnim predanjem; zato oni koji to ne znaju i ne misle da znaju.
@@ -1714,8 +1703,7 @@ Otuda grčevi, slinjenje i groznice.
 
 Trebalo je najpre razmotriti možemo li to podneti.
 
-## II.12
-
+<!-- anchor:II.12 -->
 Naši su filozofi prilično tačno odredili šta treba imati na umu pri razgovoru; ali mi se očigledno uopšte ne služimo onim što su nam dali.
 
 Jer zahtevamo da se svaki čovek služi svojim predpojmovima, i kada se jednom saglasimo oko njih, imamo odakle da krenemo i da promenimo ono što nije dobro primenjeno.
@@ -1854,8 +1842,7 @@ Ako se pokaže da si ti u pravu, ne gordi se: nisi pobedio čoveka, nego je isti
 
 Tako će razgovor biti delo filozofije, a ne nadmetanje u rečima.
 
-## II.13
-
+<!-- anchor:II.13 -->
 Kada vidim čoveka u teskobi, govorim:
 
 Šta ovaj čovek hoće?
@@ -2062,8 +2049,7 @@ A kada jednom svoje dobro postavi u proizvoljenje, a zlo samo u njegovo kvarenje
 
 Nigde.
 
-## II.14
-
+<!-- anchor:II.14 -->
 Kada je neki Rimljanin došao k njemu sa svojim sinom i slušao jedno predavanje, Epiktet reče:
 
 Ovo je način poučavanja.
@@ -2216,8 +2202,7 @@ I tamo ćeš naći nekoga ko će te tome poučiti.
 
 Nije ti potreban filozof.
 
-## II.15
-
+<!-- anchor:II.15 -->
 Da sve treba čvrsto držati ono što je odlučeno i da se od odluke ne treba odstupati, čak ni kada je nerazumna, jeste tvrdnja čoveka koji je lud.
 
 Jer ako sam odlučio da se ubijem, treba li da ostanem pri toj odluci?
@@ -2362,8 +2347,7 @@ Jer nije sramota promeniti zlo mnenje.
 
 Sramota je, saznavši da je zlo, ostati pri njemu.
 
-## II.16
-
+<!-- anchor:II.16 -->
 Gde je dobro?
 
 U proizvoljenju.
@@ -2610,8 +2594,7 @@ Zato se ne treba samo učiti sudovima, nego se vežbati u njihovoj primeni.
 
 Jer čoveka ne izbavlja ono što zna, nego ono čime se valjano služi.
 
-## II.17
-
+<!-- anchor:II.17 -->
 Predpojmovi su svim ljudima zajednički i jedan predpojam ne protivreči drugome.
 
 Jer ko od nas ne smatra da je dobro korisno i poželjno i da mu u svakoj prilici treba težiti i za njim ići?
@@ -2879,8 +2862,7 @@ U vodi ili u groznici?
 
 Jer nekim takvim putem moraš proći.
 
-## II.18
-
+<!-- anchor:II.18 -->
 Svaka navika i sposobnost održava se i jača odgovarajućim delima: navika hodanja — hodanjem, navika trčanja — trčanjem.
 
 Ako hoćeš da budeš dobar čitalac, čitaj; ako hoćeš da budeš dobar pisac, piši.
@@ -3036,8 +3018,7 @@ Tada ćeš potvrditi istinu Hesiodovih reči:
 Čoveka koji odlaže delo
 uvek prati pogibelj.
 
-## II.19
-
+<!-- anchor:II.19 -->
 Gospodareći dokaz, izgleda, polazi od ovakvih postavki.
 
 Pošto između ovih triju tvrdnji postoji uzajamna protivnost:
@@ -3258,8 +3239,7 @@ A onda ćemo, kada to budeš učinio, razgovarati i o Gospodarećem dokazu.
 
 Jer sada, makar znao sve knjige Hrisipove, ipak si samo tumač tuđih mnenja.
 
-## II.20
-
+<!-- anchor:II.20 -->
 Čak i oni koji poriču da postoji išta što je po prirodi očigledno, prisiljeni su da se služe onim što poriču; i gotovo je najveći dokaz da je nešto očigledno upravo to što je i onaj koji mu protivreči prinuđen da se njime služi.
 
 Ako, na primer, neko kaže:
@@ -3438,8 +3418,7 @@ Zato se filozof ne treba čuditi samo rečima, nego gledati dela.
 
 Jer dela najjasnije pokazuju kakva su čovekova stvarna mnenja.
 
-## II.21
-
+<!-- anchor:II.21 -->
 Neke stvari ljudi lako priznaju, a druge ne priznaju ni po koju cenu.
 
 Tako niko neće priznati da je bezuman ili nerazuman, nego ćeš, naprotiv, od svakoga čuti:
@@ -3572,8 +3551,7 @@ U čemu sam postao bolji?
 
 Ako tako budeš radio, nećeš više tražiti napredak u knjigama i govorima, nego u samome sebi.
 
-## II.22
-
+<!-- anchor:II.22 -->
 Čemu god čovek posvećuje pažnju, tome je prirodno i privržen.
 
 Da li ljudi posvećuju pažnju zlu?
@@ -3802,8 +3780,7 @@ Ako želiš imati prijatelja, budi sposoban za prijateljstvo.
 
 A to nećeš postići tražeći od drugih da te vole, nego učeći gde se nalazi tvoje dobro.
 
-## II.23
-
+<!-- anchor:II.23 -->
 Čak i Epikur razume da smo po prirodi društvena bića, ali pošto je naše dobro jednom postavio u ljušturu tela, više ništa drugo nije mogao govoriti.
 
 Jer veoma odlučno tvrdi da se ne treba diviti niti prihvatati išta odvojeno od prirode dobra.
@@ -3960,8 +3937,7 @@ Jer ako to znaš, nijedan odnos neće ti biti prepreka.
 
 Naprotiv, svaki će ti dati građu da pokažeš kakav si.
 
-## II.24
-
+<!-- anchor:II.24 -->
 Teškoće pokazuju kakvi su ljudi.
 
 Zato, kada te snađe teškoća, seti se da te je Bog, kao učitelj borca, suprotstavio snažnom mladiću.
@@ -4218,8 +4194,7 @@ Takav čovek ne postoji.
 
 Slobodan je onaj kome ono što se događa ne može oduzeti valjano proizvoljenje.
 
-## II.25
-
+<!-- anchor:II.25 -->
 Kada neko od prisutnih reče:
 
 Ubedi me da je logika korisna,
@@ -4238,8 +4213,7 @@ Kako ćeš onda znati da te ne varam sofizmom?
 
 Vidiš, reče, kako sam priznaješ da je logika nužna, jer bez nje ne možeš čak ni saznati je li nužna ili nije.
 
-## II.26
-
+<!-- anchor:II.26 -->
 Svaka zabluda sadrži protivrečnost.
 
 Jer onaj koji greši ne želi da greši, nego da postigne ono što je pravo; očigledno je, dakle, da ne čini ono što želi.

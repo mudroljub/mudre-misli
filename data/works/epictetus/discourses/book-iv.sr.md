@@ -1,5 +1,4 @@
-## IV.1
-
+<!-- anchor:IV.1 -->
 Slobodan je onaj koji živi kako hoće, koga niko ne može ni prisiliti ni sprečiti ni primorati; čije su težnje nesmetane, čiji otkloni ne zapadaju u ono od čega se otklanjaju.
 
 Ko, dakle, hoće da živi grešeći?
@@ -3321,8 +3320,7 @@ U svakom slučaju — pokušaj.
 
 Ni u pokušaju nema ničega sramotnog.
 
-## IV.2
-
+<!-- anchor:IV.2 -->
 Ako neku spoljašnju stvar smatraš dobrom, znaj da ćeš nužno voleti onoga ko ti je može pribaviti i mrzeti onoga ko ti je može oduzeti.
 
 Ako, dakle, smatraš dobrim novac, čast, položaj, ugled ili telesno zadovoljstvo, ne možeš u isto vreme ostati veran onome što pripada čoveku.

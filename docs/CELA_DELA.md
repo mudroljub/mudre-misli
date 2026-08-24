@@ -15,18 +15,17 @@ data/works/<author>/<work>/
 ```
 
 `work.json` je jedini autoritet za identitet, metapodatke, redosled i sidra.
-Markdown fajlovi sadrže tekst prevoda sa kanonskim sidrima kao naslovima, kako
-bi ostali pogodni za ljudsko uređivanje:
+Markdown fajlovi sadrže nevidljiva kanonska sidra kao HTML komentare:
 
 ```md
-## 43a
+<!-- anchor:43a -->Tekst odeljka koji može početi i usred pasusa.
 
-Tekst odeljka...
-
-## 43b
-
-Tekst sledećeg odeljka...
+Nastavak teksta <!-- anchor:43b -->i početak sledećeg kanonskog odeljka.
 ```
+
+Sidro se postavlja na tačno mesto prema izvorniku, čak i usred rečenice. Ono
+se čitaocu ne prikazuje i ne sme se koristiti kao razlog za veštačko cepanje
+pasusa. Sadržaj, adrese i generator i dalje koriste njegovu vrednost.
 
 Jedno delo po pravilu ima po jedan opisno nazvan fajl za svaki jezik, na primer
 `crito.sr.md` i `crito.stsl.md`. Veoma veliko delo može imati po jedan fajl za

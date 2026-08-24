@@ -1,5 +1,4 @@
-## 1
-
+<!-- anchor:1 -->
 Epikur Menoikeju, pozdrav.
 
 Neka niko mlad ne odlaže mudroljublje, niti se star umara mudroljubeći. Jer niko nije ni nedorastao ni prestar za zdravlje duše. Ko kaže da još nije došlo ili da je već prošlo vreme za mudroljublje, nalik je onome ko kaže da vreme za blaženstvo još nije došlo ili da ga više nema. Zato treba da mudroljube i mlad i star: star da, stareći, ostane mlad dobrima zahvaljujući uspomeni na prošlo; mlad da bude ujedno i star, ne bojeći se budućeg. Valja, dakle, vežbati ono što donosi blaženstvo: kad je ono prisutno, imamo sve; kad je odsutno, sve činimo da ga steknemo.

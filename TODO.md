@@ -3,6 +3,7 @@
 ## Usavršiti prevode
 
 PORAVNAJ SIDRA CELIH DELA
+- format je uveden: sidra su nevidljivi komentari `<!-- anchor:… -->` i mogu stajati usred rečenice
 - srpski i staroslovenski prevodi ponegde nisu podeljeni na istim kanonskim granicama kao grčki izvornik
 - ne preimenovati sidra niti pomerati tekst automatski samo prema dužini
 - delo po delo ponovo segmentirati oba prevoda prema grčkim granicama, ne menjajući sam tekst
