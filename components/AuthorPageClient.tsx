@@ -6,6 +6,7 @@ import BookLayout from "./BookLayout"
 import BirthplaceMap from "./BirthplaceMap"
 import AuthorSection from "./AuthorSection"
 import AuthorWorks from "./AuthorWorks"
+import CollapsibleAuthorSection from './CollapsibleAuthorSection'
 import { getAuthorName, placesData } from "../utils/catalog"
 import { useTranslations } from "../utils/useTranslations"
 import { withBasePath } from "../utils/helpers"
@@ -71,6 +72,13 @@ export default function AuthorPageClient({
   )
 
   const fullWorks = worksData.filter((work) => work.author === author)
+  const navigation = [
+    lifeEvents.length && { id: 'life', label: t.sectionLife, count: lifeEvents.length },
+    quotes.length && { id: 'quotes', label: t.sectionQuotes, count: quotes.length },
+    (fullWorks.length || works.length) && { id: 'writings', label: t.sectionWritings, count: fullWorks.length + works.length },
+    mentions.length && { id: 'mentions', label: t.sectionOthersAbout, count: mentions.length },
+    letters.length && { id: 'letters', label: t.sectionLetters, count: letters.length },
+  ].filter(Boolean) as { id: string; label: string; count: number }[]
 
   const formatYear = (year: number) =>
     year < 0 ? `${Math.abs(year)} ${t.bce}` : year
@@ -122,41 +130,54 @@ export default function AuthorPageClient({
           )}
         </div>
 
-        {lifeEvents.length > 0 && (
-          <section className={styles.authorSection}>
-            <h3>{t.sectionLife}</h3>
+        {navigation.length > 1 && (
+          <nav className={styles.sectionNav} aria-label={t.contents}>
+            {navigation.map((item) => (
+              <a key={item.id} href={`#${item.id}`}>
+                {item.label} ({item.count})
+              </a>
+            ))}
+          </nav>
+        )}
 
-            <BookLayout
-              entries={lifeEvents}
-              language={language}
-            />
-          </section>
+        {lifeEvents.length > 0 && (
+          <CollapsibleAuthorSection
+            id="life"
+            title={t.sectionLife}
+            total={lifeEvents.length}
+            language={language}
+            initialLimit={8}
+          >
+            {(visibleCount) => (
+              <BookLayout entries={lifeEvents.slice(0, visibleCount)} language={language} />
+            )}
+          </CollapsibleAuthorSection>
         )}
 
         <AuthorSection
           title={t.sectionQuotes}
           entries={quotes}
           language={language}
+          id="quotes"
+          initialLimit={16}
         />
 
-        <AuthorSection
-          title={t.sectionWritings}
-          entries={works}
-          language={language}
-        />
-
-        <AuthorWorks works={fullWorks} language={language} showHeading={works.length === 0} />
+        <AuthorWorks works={fullWorks} entries={works} language={language} />
 
         <AuthorSection
           title={t.sectionOthersAbout}
           entries={mentions}
           language={language}
+          id="mentions"
+          initialLimit={12}
         />
 
         <AuthorSection
           title={t.sectionLetters}
           entries={letters}
           language={language}
+          id="letters"
+          initialLimit={6}
         />
       </section>
     </main>

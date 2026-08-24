@@ -24,7 +24,6 @@ POPRAVI LOŠE PREVODE
 ## UI
 
 OSTALO
-- kod velikih filozofa ima previše sadržaja i stranica postaje nepregledna. možda foldovati sekcije ako imaju previše sadržaja. analizirati česte scenarije. npr. neko traži da čita platonove knjige, smeta mu što je biografija na vrhu stranice predugačka, a potom mnoštvo citata.
 - skrati prikaz dugih citata isto kao što su skraćena preduga pisma (works). koristi isti limit reči
 - napraviti spisak filozofski najvažnijih termina
   - naglasiti samo njih u rečniku (ceo red, sve jezike)

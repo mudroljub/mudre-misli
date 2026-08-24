@@ -64,6 +64,47 @@
 
 .authorSection {
   margin-top: 2.5rem;
+  scroll-margin-top: $spacing-xl;
+}
+
+.sectionNav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacing-sm;
+  margin: 0 0 2rem;
+
+  a {
+    border: 1px solid $color-border;
+    color: inherit;
+    padding: $spacing-xs $spacing-sm;
+    text-decoration: none;
+
+    &:hover {
+      border-color: $color-primary;
+      color: $color-primary;
+    }
+  }
+}
+
+.sectionCount {
+  color: $color-text-light;
+  font-size: 0.8em;
+  font-weight: normal;
+}
+
+.expandButton {
+  margin-top: $spacing-md;
+  border: 1px solid $color-primary;
+  background: transparent;
+  color: $color-primary;
+  cursor: pointer;
+  font: inherit;
+  padding: $spacing-xs $spacing-md;
+
+  &:hover {
+    background: $color-primary;
+    color: $color-white;
+  }
 }
 
 .grid {
@@ -74,6 +115,10 @@
   @media (min-width: $breakpoint-mobile) {
     grid-template-columns: repeat(2, 1fr);
   }
+}
+
+.workEntries {
+  margin-top: $spacing-lg;
 }
 
 .subtleLink {
