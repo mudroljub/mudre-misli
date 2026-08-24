@@ -3321,6 +3321,7 @@ U svakom slučaju — pokušaj.
 Ni u pokušaju nema ničega sramotnog.
 
 <!-- anchor:IV.2 -->
+<!-- Zastareli pogrešni sadržaj IV.2; zamenjen prevodom ispod.
 Ako neku spoljašnju stvar smatraš dobrom, znaj da ćeš nužno voleti onoga ko ti je može pribaviti i mrzeti onoga ko ti je može oduzeti.
 
 Ako, dakle, smatraš dobrim novac, čast, položaj, ugled ili telesno zadovoljstvo, ne možeš u isto vreme ostati veran onome što pripada čoveku.
@@ -3696,3 +3697,24 @@ Tako se ne postaje prijatelj, nego pratilac koristi.
 Najpre, dakle, postani slobodan.
 
 Potom ćeš moći i da voliš kao slobodan čovek.
+-->
+
+Pre svega na ovome mestu moraš paziti da se ne pomešaš toliko s nekim od ranijih poznanika ili prijatelja da s njim siđeš na isto. Ako to učiniš, izgubićeš sebe.
+
+Ako ti pak naiđe misao: Delovaću mu neotesano i neće se prema meni držati kao pre, seti se da se ništa ne dobija besplatno i da je nemoguće, ne čineći isto, ostati isti kakav si nekada bio.
+
+Izaberi, dakle: hoćeš li, ostajući sličan ranijemu sebi, biti jednako voljen od onih od kojih si bio, ili ćeš, postavši bolji, ostati bez jednakih stvari?
+
+Ako je ovo drugo bolje, odmah se prikloni tome i ne daj da te drugi razlozi odvuku. Niko ko se koleba između dvoga ne može napredovati; ako si to pretpostavio svemu, ako hoćeš da budeš samo uz to i da to izradiš, pusti sve ostalo.
+
+Ako ne učiniš tako, to kolebanje učiniće ti oboje: niti ćeš napredovati kako valja, niti ćeš postići ono što si ranije dobijao.
+
+Jer si ranije, iskreno težeći stvarima koje ništa ne vrede, bio mio onima s kojima si se družio.
+
+Ne možeš se istaći u oba lika: koliko učestvuješ u jednome, toliko zaostaješ u drugome. Ne možeš, ne pijući s onima s kojima si pio, njima izgledati jednako mio. Izaberi, dakle, hoćeš li biti pijanica i njima mio, ili trezven i nemio. Ne možeš, ne pevajući s onima s kojima si pevao, biti od njih jednako voljen; izaberi i tu šta hoćeš.
+
+Ako je, naime, bolje biti stidljiv i pristojan nego da neko kaže: Mio je čovek, ostavi ono drugo, oprosti se od njega i ne imaj ništa s tim ljudima.
+
+Ako ti se to ne dopada, sasvim se prikloni suprotnome: postani jedan od razvratnika, jedan od preljubnika, čini što sledi i dobićeš šta hoćeš; pa skačući viči na igrača.
+
+Tako različiti likovi ne mešaju se: ne možeš glumiti i Tersita i Agamemnona. Ako hoćeš biti Tersit, moraš biti grbav i ćelav; ako Agamemnon, velik i lep i voleti one koji su ti potčinjeni.

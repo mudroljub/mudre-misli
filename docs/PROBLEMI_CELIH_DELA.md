@@ -34,24 +34,6 @@ na početku Ionovog „Šta sam onda zaboravio?“.
 
 ## Epiktet — Razgovori
 
-### DIS-001 — IV.2 sadrži drugi tekst
-
-- status: **otvoren**
-- vrsta: `izostavljanje`, `dodatak`, `tačnost-sr`, `tačnost-stsl`
-- mesto: IV.2
-
-Tekst pod sidrom IV.2 nije prevod Epiktetovog poglavlja *O druženju*
-(`περὶ συμπεριφορᾶς`). On je slobodna, proširena prerada teme prijateljstva iz
-II.22: govori o spoljašnjim dobrima, suparništvu, psima oko mesa i prijateljstvu
-zasnovanom na valjanom proizvoljenju. Pravo IV.2 počinje upozorenjem da se
-učenik ne stopi ponovo sa starim drugovima i ne vrati njihovom načinu života.
-Problem postoji u oba prevoda. Sidro tehnički pokazuje na IV.2, ali sadržaj
-ispod njega treba zameniti stvarnim prevodom deset odeljaka IV.2.
-
-Prvobitna sumnja obuhvatala je i II.12. Ponovna provera celog početka pokazala
-je da II.12 odgovara grčkom izvorniku; taj deo nalaza iz početne analize bio je
-pogrešan i ne zahteva pomeranje sidra.
-
 ### DIS-002 — Razgovori nisu potpuni
 
 - status: **otvoren**
@@ -62,6 +44,34 @@ Manifest sadrži 82 poglavlja, dok sačuvane četiri knjige imaju 95. Nedostaju
 I.30, III.9 i jedanaest završnih poglavlja četvrte knjige, IV.3–IV.13. Zbog
 toga delo trenutno ne treba predstavljati kao potpun tekst bez jasne napomene,
 a nedostajuća poglavlja treba prevesti i dodati u manifest redom.
+
+### Grčki izvori za dopunu Razgovora
+
+Sva navedena poglavlja nalaze se u jednom lokalnom izvornom fajlu:
+`data/sources/canonical-greekLit/data/tlg0557/tlg001/tlg0557.tlg001.perseus-grc2.xml`
+(*Epictetus, Discourses*, `tlg0557.tlg001.perseus-grc2`). Svaka stavka ispod je
+samostalna celina pogodna za zaseban prevod.
+
+Izdvojene radne kopije sa YAML metapodacima nalaze se u
+`data/sources/epictetus/discourses/pending/`; za svaku od njih treba izraditi
+odgovarajući srpski i staroslovenski prevod pre unošenja u knjige `book-i`,
+`book-iii` ili `book-iv`.
+
+| Poglavlje | CTS lokator | red početka u XML-u |
+| --- | --- | ---: |
+| I.30 | `1.30` | 1596 |
+| III.9 | `3.9` | 3408 |
+| IV.3 | `4.3` | 4850 |
+| IV.4 | `4.4` | 4876 |
+| IV.5 | `4.5` | 4975 |
+| IV.6 | `4.6` | 5051 |
+| IV.7 | `4.7` | 5128 |
+| IV.8 | `4.8` | 5212 |
+| IV.9 | `4.9` | 5300 |
+| IV.10 | `4.10` | 5338 |
+| IV.11 | `4.11` | 5412 |
+| IV.12 | `4.12` | 5486 |
+| IV.13 | `4.13` | 5530 |
 
 ### DIS-003 — naslovi staroslovenskih odeljaka nisu prevedeni
 

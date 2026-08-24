@@ -14,7 +14,10 @@ export const readWorkSection = (work: Work, section: WorkSection, language: Lang
   const start = startMatch.index + startMatch[0].length
   const remainder = content.slice(start)
   const nextMarker = /<!--\s*anchor:.+?\s*-->/mu.exec(remainder)
-  return remainder.slice(0, nextMarker?.index ?? remainder.length).trim()
+  return remainder
+    .slice(0, nextMarker?.index ?? remainder.length)
+    .replace(/<!--[\s\S]*?-->/gu, '')
+    .trim()
 }
 
 export interface WorkReadingPage {
