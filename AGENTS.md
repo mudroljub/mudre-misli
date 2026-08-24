@@ -1,7 +1,5 @@
 # Uputstvo za agente
 
-Pre rada pročitaj `docs/INSTRUKCIJE.md`.
-
 Zavisno od zadatka koristi:
 
 * `docs/RECNIK.md` — glavni terminološki autoritet projekta

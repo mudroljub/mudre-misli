@@ -25,14 +25,8 @@ npm start
 
 Glavni TODO nalazi se u [TODO.md](TODO.md).
 
-- napraviti spisak filozofski najvažnijih termina
-- naglasiti samo njih u rečniku, za sve jezike
 - ručno proveravati doslednost primene rečnika
-  - lepo u krasno
-
-- zabrana filozofije u Atini:
-Kada je donet zakon da filozof ne sme voditi školu bez odobrenja veća i naroda pod pretnjom smrti, Teofrast je nakratko napustio Atinu sa ostalim filozofima. Zakon je uskoro poništen, a filozofima je dopušten povratak.
-- progon filozofa iz Rima
+  - npr. lepo u krasno
 
 ## Izvori
 

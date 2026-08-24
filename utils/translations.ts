@@ -22,6 +22,17 @@ export interface Translations {
   navPhilosophers: string;
   navDictionary: string;
   navAbout: string;
+  about: {
+    intro: string;
+    schoolImageAlt: string;
+    schoolCaption: string;
+    balatongrad: string;
+    mapImageAlt: string;
+    mapCaption: string;
+    tradition: string;
+    cyrilMethodiusImageAlt: string;
+    cyrilMethodiusCaption: string;
+  };
   scriptCyr: string;
   scriptLat: string;
   sidebarGroups: {
@@ -155,6 +166,17 @@ export const translations: Record<Language, Translations> = {
     navPhilosophers: 'Любомѫдрьци',
     navDictionary: 'Рєчьникъ',
     navAbout: 'О дѣлѣ',
+    about: {
+      intro: 'Ѹчилище Блатьнограда мьнима словѣньска школа любомѫдрости девѧтаго вѣка · въ Блатьноградѣ бѣ · сѣдалищи паноньскꙑихъ Словѣнъ и єдиномь отъ прьвꙑихъ срѣдищь словѣньскаго писмени · Дѣло се показати тщить како бы любомѫдрость ѹчила сѧ · аще бы Словѣне велика ѹчилища въ срѣдьни вѣкъ имѣли · и како бы словѣньскъ ѹченъ ꙗꙁꙑкъ того врѣмене глаголалъ ·',
+      schoolImageAlt: 'Ѹчилище Блатьнограда',
+      schoolCaption: 'Ѹчилище Блатьнограда · нꙑнѣшьнєє въꙁображеніє ·',
+      balatongrad: 'Блатьноградъ на брѣꙁѣ Блатьна єꙁера бѣ стольнъ градъ Блатьньскꙑѧ ꙁемлѧ · ꙗже ѭжьнꙑѧ и ꙁападьнꙑѧ Словѣнꙑ съвѧꙁа прѣжде прихода Ѹгръ ·',
+      mapImageAlt: 'Блатьньска ꙁемлꙗ и Велика Моравиꙗ',
+      mapCaption: 'Блатьньска ꙁемлꙗ междѹ Хръватьскоѭ и Великоѭ Моравиѥѭ ·',
+      tradition: 'Въ Блатьноградѣ въ девѧтѣмь вѣцѣ пребꙑваста Константинъ Любомѫдрьць · нарицаємꙑи Кѵрилъ · и братъ єго Методіи · иже писмѧ Словѣномъ принесоста · Тѹ словѣньскѫ школѫ съ пѧтьѭ десѧтъ ѹченикъ сътвориста · градъ же велико срѣдище словѣньскаго писмени бꙑсть · Не тъкмо библіискꙑꙗ писаниꙗ · нъ и мѫдра и любомѫдрьска изрѣчєніꙗ рано прѣлагаахѫ Словѣне · Обычаи тъ въ послѣдѹѭштꙑихъ вѣцѣхъ продлъжи сѧ и съхрани сѧ въ съборницѣхъ ꙗко Разѹми Менандра · Пчела · и Разѹми на єллиньскꙑѧ любомѫдрьцѧ · Се єсть словѣньскꙑи обычаи любомѫдрости · єгоже мꙑ продължаємъ ·',
+      cyrilMethodiusImageAlt: 'Кѵрилъ и Методіи',
+      cyrilMethodiusCaption: 'Константинъ Любомѫдрьць и братъ єго Методіи · дарителꙗ словѣньскаго писмени ·',
+    },
     scriptCyr: 'Кѷрилица',
     scriptLat: 'Латиница',
     sidebarGroups: {
@@ -286,6 +308,17 @@ export const translations: Record<Language, Translations> = {
     navPhilosophers: 'Filozofi',
     navDictionary: 'Rečnik',
     navAbout: 'O projektu',
+    about: {
+      intro: 'Učilište Blatnograda je zamišljena slovenska filozofska škola iz 9. veka koja se nalazila u Blatnogradu, sedištu panonskih Slovena i jednom od prvih središta slovenske pismenosti. Ovaj projekat pokušava dočarati kako bi izgledalo izučavanje filozofije da su Sloveni imali univerzitete u srednjem veku, i kako bi zvučao učeni slovenski jezik toga vremena.',
+      schoolImageAlt: 'Učilište Blatnograda',
+      schoolCaption: 'Učilište Blatnograda, savremena rekonstrukcija',
+      balatongrad: 'Blatnograd, na obali Blatnog jezera, bio je prestonica Blatenske zemlje (Блатьньскъ), koja je povezivala južne i zapadne Slovene pre dolaska Ugara.',
+      mapImageAlt: 'Blatenska zemlja i Velika Moravska',
+      mapCaption: 'Blatenska zemlja između Hrvatske i Velike Moravske.',
+      tradition: 'U Blatnogradu su u 9. veku boravili Konstantin Filozof (poznat kao Ćirilo) i brat njegov Metodije, koji su doneli pismo Slovenima. Tu su osnovali slovensku školu sa 50-ak učenika, a grad je postao značajno središte slovenske pismenosti. Pored biblijskih tekstova, Sloveni su rano prevodili mudre i filozofske izreke, a ta tradicija je u narednim vekovima nastavljena i sačuvana u zbirkama kao što su Разѹми Менандра, Pčela i Razumi helenskih filozofa. To je slovenska filozofska tradicija koju mi nastavljamo.',
+      cyrilMethodiusImageAlt: 'Ćirilo i Metodije',
+      cyrilMethodiusCaption: 'Konstantin Filozof i brat njegov Metod, donositelji slovenske pismenosti.',
+    },
     scriptCyr: 'Ћирилица',
     scriptLat: 'Latinica',
     sidebarGroups: {
