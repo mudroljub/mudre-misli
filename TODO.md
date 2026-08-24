@@ -2,15 +2,17 @@
 
 ## Usavršiti prevode
 
-OCENI STANJE PREVODA
-- za svakog autora u data\quotes
-  - uzmi 10 nasumičnih unosa tipa `quote` ili `reported`
-  - za svaki citat oceni
-    - tačnost stsl i sr prevoda sa izvornog jezika
-    - stil stsl i sr prevoda (lepota i prirodnost jezika)
-    - ujednačenost stsl i sr prevoda (isti koreni reči i ostalo)
-- napravi izveštaj sa ocenama po autorima
-- DODATNO: oceni stanje dugačkih prevoda celih dela (ocena za svako delo)
+PORAVNAJ SIDRA CELIH DELA
+- srpski i staroslovenski prevodi ponegde nisu podeljeni na istim kanonskim granicama kao grčki izvornik
+- ne preimenovati sidra niti pomerati tekst automatski samo prema dužini
+- delo po delo ponovo segmentirati oba prevoda prema grčkim granicama, ne menjajući sam tekst
+- prvo srediti:
+  1. Epiktetove `Razgovore`
+  2. Platonov `Ion`
+  3. `Eutifron`, `Lisid` i `Parmenid`
+- zatim proveriti `Kritona` i `Klitofonta`
+- posle svakog dela pokrenuti generatore i ručno proveriti početak, sredinu i kraj
+- kada sva sidra budu poravnata, ponoviti ocenu kvaliteta celih dela iz `docs/ANALIZA_KVALITETA_CELIH_DELA.md`
 
 POPRAVI LOŠE PREVODE
 - popravljati lošije stsl prevode (isus.json uzor za etiku, Бытиѥ.md za kosmologiju)
