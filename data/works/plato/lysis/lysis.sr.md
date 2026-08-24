@@ -118,32 +118,51 @@ Hipotal · Nije teško, reče. Ako uđeš s Ktesipom i sedneš da razgovaraš, m
 Sokrat · Učinimo tako, rekoh.
 
 
-Sokrat · Uzevši <!-- anchor:206e -->Ktesipa, uđoh u palestru, a ostali za nama. Kad uđosmo, nađosmo dečake koji su već prineli žrtvu, jer su obredi gotovo svi bili završeni, i svi su se ukrašeni igrali kockicama. Mnogi su se igrali napolju u dvorištu, a neki u uglu svlačionice igrali su par-nepar kockicama, bacajući mnoge iz malih košarica; drugi su stajali oko njih i gledali.
+Sokrat · Uzevši <!-- anchor:206e -->Ktesipa, uđoh u palestru, a ostali za nama. Kad uđosmo, nađosmo dečake koji su već prineli žrtvu, jer su obredi gotovo svi bili završeni, i svi su se ukrašeni igrali kockicama. Mnogi su se igrali napolju u dvorištu, a neki u uglu svlačionice igrali su par-nepar kockicama, bacajući mnoge iz malih košarica; drugi su stajali oko njih i gledali. Među njima beše i Lisid, i stajaše među <!-- anchor:207a -->dečacima i mladićima ovenčan, ističući se izgledom, dostojan da se nazove ne samo krasnim nego i krasnim i dobrim. Mi se udaljismo na suprotnu stranu i sedosmo — jer onde beše tiho — pa razgovarasmo među sobom. Lisid se često okretao i gledao nas, očito želeći da priđe. Isprva beše u nedoumici i oklevaše prići sam, a potom Meneksen <!-- anchor:207b -->uđe iz dvorišta usred igre i, videvši mene i Ktesipa, pođe da sedne kraj nas. Videvši ga, Lisid pođe za njim i sede zajedno s Meneksenom. Priđoše i ostali; a Hipotal, videvši da mnogi stoje unaokolo, zakloni se njima i stade onde gde je mislio da ga Lisid neće opaziti, bojeći se da mu ne omrzne; tako stojeći slušaše.
 
-<!-- anchor:207a -->
+Sokrat · Pogledavši Meneksena, rekoh: Sine Demofontov, <!-- anchor:207c -->koji je od vas dvojice stariji?
+
+Meneksen · O tome se sporimo, reče.
+
+Sokrat · Onda se jamačno sporite i koji je plemenitiji?
+
+Meneksen · I te kako.
+
+Sokrat · A isto tako i koji je krasniji.
+
+Obojica se nasmejaše.
+
+Sokrat · Ali neću pitati koji je od vas bogatiji, jer ste prijatelji. Zar ne?
+
 Lisid i Meneksen · I te kako.
 
 Sokrat · Jer se kaže da su prijateljima imanja zajednička; zato se nimalo ne razlikujete u bogatstvu, ako ste zaista prijatelji.
 
 Složiše se.
 
-Sokrat · Htedoh već da pitam koji je pravedniji i mudriji, ali tada neko pozva Meneksena; bio je, mislim, gimnazijarh, jer je trebalo da prinese žrtvu. Meneksen ode, a ja upitah Lisida.
-
-<!-- anchor:207b -->
-Sokrat · Liside, zar te otac i majka veoma ne vole?
+<!-- anchor:207d -->
+Sokrat · Htedoh zatim da pitam koji je od njih pravedniji i mudriji, ali tada neko priđe i odvede Meneksena, govoreći da ga zove učitelj telesnog vežbanja; činilo mi se, naime, da je Meneksen učestvovao u žrtvenim obredima. Meneksen ode, a ja upitah Lisida: Liside, zar te otac i majka veoma ne vole?
 
 Lisid · I te kako, reče.
 
-Sokrat · Hoće, dakle, da budeš srećan?
+Sokrat · Hoće, dakle, da budeš što srećniji?
 
+<!-- anchor:207e -->
 Lisid · Kako ne.
+
+Sokrat · Čini li ti se srećnim čovek koji robuje i kome nije dopušteno činiti ništa od onoga što želi?
+
+Lisid · Zevsa mi, ne čini, reče.
+
+Sokrat · Ako te, dakle, otac i majka vole i žele da budeš srećan, očito se na svaki način staraju da budeš srećan.
+
+Lisid · Kako ne, reče.
 
 Sokrat · Dopuštaju li ti onda da činiš šta hoćeš, i ne kore te niti sprečavaju kada nešto želiš da učiniš?
 
-Lisid · Mnogo toga mi sprečavaju, Sokrate, reče.
+Lisid · Zevsa mi, mnogo toga mi sprečavaju, Sokrate, reče.
 
-<!-- anchor:207c -->
-Sokrat · Šta govoriš? Oni hoće da budeš srećan, a ipak ti sprečavaju da činiš šta hoćeš? Reci mi: ako bi poželeo da se popneš na neku očevu kočiju i držiš uzde na trci, zar ti ne bi dopustili?
+Sokrat · Šta govoriš? Oni hoće da budeš srećan, <!-- anchor:208a -->a ipak ti sprečavaju da činiš šta hoćeš? Reci mi: ako bi poželeo da se popneš na neku očevu kočiju i držiš uzde na trci, zar ti ne bi dopustili?
 
 Lisid · Zevsa mi, ne bi.
 
@@ -151,25 +170,23 @@ Sokrat · Nego kome?
 
 Lisid · Ima neki kočijaš koga otac drži za novac, reče.
 
-<!-- anchor:207d -->
-Sokrat · Šta? Najamniku više nego tebi poveravaju i konje i kočiju, i još mu daju novac da to čini, a tebi ne?
+Sokrat · Šta? Najamniku više nego tebi poveravaju konje, i još mu daju <!-- anchor:208b -->novac da to čini, a tebi ne?
 
 Lisid · I te kako.
 
-Sokrat · Ali mazge ti dopuštaju da vodiš?
+Sokrat · Ali, mislim, dopuštaju ti da upravljaš parom mazgi, pa bi ti dopustili i da ih bičem udaraš ako hoćeš?
 
-Lisid · Da, reče.
+Lisid · Otkuda bi mi dopustili? reče.
 
-Sokrat · Kome ih onda daju?
+Sokrat · Šta onda? Zar ih niko ne sme udarati?
 
-Lisid · Goniču mazgi.
+Lisid · I te kako, gonič mazgi, reče.
 
-Sokrat · Nije li rob?
+Sokrat · Je li rob ili slobodan?
 
-Lisid · I te kako.
+Lisid · Rob je, reče.
 
-<!-- anchor:207e -->
-Sokrat · Dakle, roba, kako se čini, cene više nego tebe, sina, i njemu više poveravaju tvoju imovinu; njemu dopuštaju da čini šta hoće, a tebi sprečavaju. Hajde onda: dopuštaju li ti makar da sam sobom vladaš ili ne?
+Sokrat · Dakle, roba, kako se čini, cene više nego tebe, sina, i njemu više poveravaju tvoju imovinu; njemu dopuštaju da čini šta hoće, a tebi <!-- anchor:208c -->sprečavaju. Hajde onda: dopuštaju li ti makar da sam sobom vladaš ili ne?
 
 Lisid · Kako bi, reče.
 
@@ -177,7 +194,6 @@ Sokrat · Ima li neko ko tobom vlada?
 
 Lisid · Moj pedagog, reče.
 
-<!-- anchor:208a -->
 Sokrat · A rob je?
 
 Lisid · Da, naš, reče.
@@ -186,39 +202,33 @@ Sokrat · Strašno je da slobodnim vlada rob. A šta taj pedagog čini s tobom, 
 
 Lisid · Vodi me učitelju, reče.
 
-Sokrat · Ne vladaju li i oni tobom, učitelji?
+Sokrat · Ne vladaju li i oni tobom, <!-- anchor:208d -->učitelji?
 
 Lisid · I te kako.
 
-<!-- anchor:208b -->
 Sokrat · Mnogo ti je, dakle, gospodara otac svojevoljno postavio. Ali kada se vratiš kući majci, da bi te učinila srećnim, dopušta li ti da činiš šta hoćeš s vunom ili razbojem dok tka? Sigurno ti ne sprečava da se dotakneš grebena, čunka ili kojeg drugog tkačkog oruđa ako hoćeš?
 
-Lisid · Nasmejavši se, reče: Zevsa mi, Sokrate, ne samo da mi sprečava, nego bih i dobio batine kad bih ih dotakao.
+Lisid · Nasmejavši se, reče: Zevsa mi, <!-- anchor:208e -->Sokrate, ne samo da mi sprečava, nego bih i dobio batine kad bih ih dotakao.
 
-<!-- anchor:208c -->
 Sokrat · Herakla mi! Zar si nešto skrivio ocu ili majci?
 
 Lisid · Zevsa mi, nisam.
 
 Sokrat · Zašto ti onda tako strašno sprečavaju da budeš srećan i činiš šta hoćeš, držeći te čitav dan pod nečijom vlašću i, prosto rečeno, dopuštajući ti jedva išta od onoga što želiš?
 
-<!-- anchor:208d -->
-Sokrat · Tako ti ni od tolikog bogatstva nema nikakve koristi, nego svi drugi više od tebe njime vladaju; ni od tvoga tako plemenitog tela, jer i njega neko drugi čuva i njime upravlja. A ti, Liside, ničim ne vladaš niti činiš šta hoćeš.
+Sokrat · Tako ti ni od tolikog bogatstva nema nikakve koristi, nego svi <!-- anchor:209a -->drugi više od tebe njime vladaju; ni od tvoga tako plemenitog tela, jer i njega neko drugi čuva i njime upravlja. A ti, Liside, ničim ne vladaš niti činiš šta hoćeš.
 
 Lisid · Još nisam odrastao, Sokrate, reče.
 
-<!-- anchor:208e -->
-Sokrat · Nije to, sine Demokrata, ono što te sprečava, jer ima stvari koje ti, mislim, i otac i majka poveravaju ne čekajući da odrasteš. Jer kada im treba nešto napisati ili pročitati, mislim da tebe prvoga u kući za to postavljaju. Nije li?
+Sokrat · Nije to, sine Demokrata, ono što te sprečava, jer ima stvari koje ti, mislim, i otac i majka poveravaju ne čekajući da odrasteš. Jer kada im treba nešto napisati ili pročitati, mislim da tebe <!-- anchor:209b -->prvoga u kući za to postavljaju. Nije li?
 
 Lisid · I te kako.
 
-<!-- anchor:209a -->
 Sokrat · Tamo ti je, dakle, dopušteno da koje slovo hoćeš prvo napišeš, a koje drugo, i isto tako pročitaš. I kada uzmeš liru, ni otac ni majka ti, mislim, ne sprečavaju da koju hoćeš strunu zatežeš ili opuštaš, niti da udaraš prstima ili trzalicom.
 
 Lisid · Ne sprečavaju.
 
-<!-- anchor:209b -->
-Sokrat · Šta je onda uzrok, Liside, što ti ovo ne sprečavaju, a ono o čemu smo maločas govorili sprečavaju?
+Sokrat · Šta je onda uzrok, Liside, što ti ovde <!-- anchor:209c -->ne sprečavaju, a ono o čemu smo maločas govorili sprečavaju?
 
 Lisid · Mislim zato što ovo znam, a ono ne znam.
 
@@ -226,8 +236,7 @@ Sokrat · Dobro, najdraži. Dakle, otac ne čeka tvoj uzrast da ti sve preda, ne
 
 Lisid · Mislim.
 
-<!-- anchor:209c -->
-Sokrat · Neka bude. A šta je sa susedom? Neće li prema tebi imati isti zakon kao i otac? Ako te smatra mudrijim od sebe u upravljanju kućom, neće li ti predati kuću?
+Sokrat · Neka bude. A šta je sa susedom? Neće li prema tebi imati isti zakon kao i otac? <!-- anchor:209d -->Ako te smatra mudrijim od sebe u upravljanju kućom, neće li ti predati kuću?
 
 Lisid · Mislim.
 
@@ -235,17 +244,15 @@ Sokrat · A Atinjani? Neće li ti predati svoje kada vide da razumeš?
 
 Lisid · I te kako.
 
-<!-- anchor:209d -->
-Sokrat · A veliki kralj? Kada bi njegovu sinu pekli meso, bi li njemu dopustio da u umak sipa šta hoće, pre nego nama, ako bismo došli i pokazali da smo mudriji od njegova sina u kuvanju?
+Sokrat · A veliki kralj? Kada bi njegovom najstarijem sinu, kome pripada vlast nad Azijom, pekli meso, bi li njemu dopustio da <!-- anchor:209e -->u umak sipa šta hoće, pre nego nama, ako bismo došli i pokazali da smo mudriji od njegova sina u kuvanju?
 
 Lisid · Nama, reče.
 
 Sokrat · Njegovu sinu, dakle, ne bi dopustio ništa da sipa, a nama bi, ako hoćemo, dopustio i da uzmemo mnogo soli.
 
-<!-- anchor:209e -->
 Lisid · I te kako.
 
-Sokrat · A ako sinu bole oči, bi li mu dopustio da ih dira ako ne zna lekarstvo, ili bi ga sprečio?
+Sokrat · A ako sinu bole oči, bi li mu dopustio da dira svoje <!-- anchor:210a -->oči ako ne zna lekarstvo, ili bi ga sprečio?
 
 Lisid · Sprečio.
 
@@ -253,26 +260,26 @@ Sokrat · A nama, ako nas smatra lekarima, i kada bismo hteli da mu otvorimo oč
 
 Lisid · Istina.
 
-<!-- anchor:210a -->
-Sokrat · Dakle, u svemu u čemu budemo mudri, i Heleni i varvari i muškarci i žene poveravaće nam, i dopuštaće nam da u tome činimo šta hoćemo; niko nam voljno neće smetati, nego ćemo sami biti slobodni i vladati drugima. Te stvari biće naše i od njih ćemo imati korist.
+Sokrat · Zar mu onda ne bi i sve ostalo pre poverio nama nego sebi i sinu, u svemu u čemu mu se učinimo mudriji od njih?
 
-<!-- anchor:210b -->
-Sokrat · A u čemu ne budemo imali uma, niko nam neće dopustiti da činimo šta nam se čini, nego će nam svi smetati koliko mogu, ne samo tuđi nego i otac i majka i ako nam je išta bliže od njih; a mi ćemo u tome biti potčinjeni drugima. Te stvari neće biti naše, jer od njih nećemo imati koristi. Slažeš li se?
+Lisid · Nužno je, Sokrate, reče.
+
+Sokrat · Tako, dakle, stoji, dragi Liside: u svemu <!-- anchor:210b -->u čemu budemo mudri, i Heleni i varvari i muškarci i žene poveravaće nam, i dopuštaće nam da u tome činimo šta hoćemo; niko nam voljno neće smetati, nego ćemo sami biti slobodni i vladati drugima. Te stvari biće naše i od njih ćemo imati korist.
+
+Sokrat · A u čemu ne budemo imali uma, niko nam neće dopustiti da činimo šta nam se čini, nego će nam <!-- anchor:210c -->svi smetati koliko mogu, ne samo tuđi nego i otac i majka i ako nam je išta bliže od njih; a mi ćemo u tome biti potčinjeni drugima. Te stvari neće biti naše, jer od njih nećemo imati koristi. Slažeš li se?
 
 Lisid · Slažem se.
 
-<!-- anchor:210c -->
 Sokrat · Hoćemo li onda ikome biti prijatelji i hoće li nas iko voleti u onome u čemu smo nekorisni?
 
 Lisid · Zevsa mi, neće.
 
 Sokrat · Dakle, sada te ni otac ne voli niti iko ikoga, dokle god je nekoristan.
 
-Lisid · Ne čini se.
+Lisid · Ne čini se, <!-- anchor:210d -->reče.
 
 Sokrat · Ako, dakle, budeš mudar, sine, svi će ti biti prijatelji i svoji, jer ćeš biti koristan i dobar. Ako ne, neće ti biti prijatelj niko, ni otac ni majka ni rođaci.
 
-<!-- anchor:210d -->
 Sokrat · Možeš li onda, Liside, visoko misliti o sebi u onome što još ne znaš?
 
 Lisid · Kako bih? reče.

@@ -11,8 +11,8 @@ PORAVNAJ SIDRA CELIH DELA
 - prvo srediti:
   1. Epiktetove `Razgovore` — provera je otkrila pogrešan sadržaj IV.2 i 13 izostavljenih poglavlja; vidi dnevnik problema
   2. Platonov `Ion` — sidra poravnata; ostaje izostavljen tekst 540a
-  3. `Eutifron` — sidra poravnata; `Lisid` poravnat do `206e`, nastaviti od
-     `207a`; potom `Parmenid`
+  3. `Eutifron` — sidra poravnata; `Lisid` poravnat i sadržinski proveren do
+     `210e`, nastaviti od `211a`; potom `Parmenid`
 - zatim proveriti `Kritona` i `Klitofonta`
 - posle svakog dela pokrenuti generatore i ručno proveriti početak, sredinu i kraj
 - kada sva sidra budu poravnata, ponoviti ocenu kvaliteta celih dela iz `docs/ANALIZA_KVALITETA_CELIH_DELA.md`

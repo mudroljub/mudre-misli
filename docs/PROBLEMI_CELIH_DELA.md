@@ -165,16 +165,46 @@ Lisidu i crvenjenju pred Sokratovim pitanjem. Sidra `204c`–`204e` ponovo su
 proverena; deklarativna mapa ostaje idempotentna, a generatori i provera tipova
 prolaze.
 
-### LYS-002 — pomerena sidra 203a–206e
+### LYS-002 — pomerena sidra 203a–210e
 
 - status: **delimično rešen**
 - vrsta: `sidro`
-- mesto: Lisid 203a–206e; potom nastaviti od 207a
+- mesto: Lisid 203a–210e; potom nastaviti od 211a
 
-Prvih 17 Stefanusovih granica pregledano je pomoću deklarativne mape. Šest
-sidara već je bilo tačno, a 11 je pomereno u oba prevoda bez promene teksta.
-Prošli su provera ponovne primene mape, generatori i tipovi. Delo ima još 82
-sidra, od `207a` do `223b`, koja treba pregledati pre zatvaranja ovog zapisa.
+Prvih 37 Stefanusovih granica pregledano je pomoću deklarativne mape. U prvom
+prolazu šest sidara već je bilo tačno, a 11 je pomereno u oba prevoda bez
+promene teksta. Granice `207a`–`210e` zatim su poravnate uz obnovu izostavljenog
+teksta opisanu u LYS-003. Provera ponovne primene mape ostaje idempotentna. Delo
+ima još 62 sidra, od `211a` do `223b`, koja treba pregledati pre zatvaranja ovog
+zapisa.
+
+### LYS-003 — izostavljen i pogrešno preveden tekst 206e–210a
+
+- status: **rešen**
+- vrsta: `izostavljanje`, `tačnost-sr`, `tačnost-stsl`, `sidro`
+- mesto: Lisid 206e–210a
+
+U oba prevoda nedostajali su Lisidov dolazak i opis, Meneksenov povratak iz igre,
+Hipotalovo skrivanje, početak Sokratova razgovora s dvojicom mladića i deo
+razgovora o sreći i robovanju. Razgovor o paru mazgi u `208b` prenosio je
+suprotan odgovor, a bili su izostavljeni naslednik Azije u `209d` i završno
+pitanje s odgovorom u `210a`. Tekst je dopunjen i ispravljen prema grčkom u oba
+jezika, a sidra `207a`–`210e` postavljena su na stvarne Stefanusove granice i
+unesena u deklarativnu mapu.
+
+### LYS-004 — izostavljen razgovor i poremećena segmentacija 211b–212a
+
+- status: **otvoren**
+- vrsta: `izostavljanje`, `tačnost-sr`, `tačnost-stsl`, `sidro`
+- mesto: Lisid 211b–212a
+
+Oba prevoda posle Lisidove molbe preskaču veći deo razgovora: Sokrat traži
+Lisidovu pomoć ako Meneksen pokuša da ga pobije, Lisid želi da Sokrat razgovara
+s Meneksenom, pominje se Meneksen kao Ktesipov učenik, Ktesip prekida njihov
+zasebni razgovor i traži da ga podele s ostalima, a Sokrat tek zatim počinje
+pitanje Meneksenu o željenom sticanju. Sačuvani delovi tog uvoda spojeni su i
+postavljeni pod pogrešna sidra `211c`–`212a`. Pre daljeg poravnanja treba
+obnoviti oba prevoda prema grčkom, pa tek onda postaviti granice `211a`–`212a`.
 
 ## Pravilo vođenja dnevnika
 
