@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: process.env.NODE_ENV === 'production' ? 'export' : undefined,
-  basePath: process.env.NODE_ENV === 'production' ? '/mudre-misli' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/mudre-misli' : '',
+  output: process.env.STATIC_EXPORT === 'true' ? 'export' : undefined,
+  basePath: process.env.STATIC_EXPORT === 'true' ? '/mudre-misli' : '',
+  assetPrefix: process.env.STATIC_EXPORT === 'true' ? '/mudre-misli' : '',
   images: {
     unoptimized: true,
   },

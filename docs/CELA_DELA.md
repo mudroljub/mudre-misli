@@ -111,8 +111,13 @@ grčkim tekstom u `data/sources` i generiše `data/work-originals.json`. Provera
 se prekida ako izvor ili kanonsko sidro ne postoje, tako da prevod ne može
 neopaženo ostati vezan za pogrešan odeljak. Generisani fajl se ne menja ručno.
 
-`npm run build:data` redom gradi citate, dela i njihove izvornike. `npm run dev`
-i `npm run build` automatski pokreću sva tri generatora.
+`npm run build:data` paralelno gradi citate i lanac dela–izvornici. `npm run
+build` automatski pokreće generatore, dok `npm run dev` koristi već generisane
+fajlove i zatim prati izmene citata.
+
+Lokalni `npm run build` proverava serverski build bez izvoza hiljada statičkih
+adresa. GitHub Pages koristi `npm run build:static`; tada se unapred generišu
+svi citati, ali za čitava dela samo početna sidra stvarnih čitalačkih stranica.
 
 ## Prikaz
 

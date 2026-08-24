@@ -7,6 +7,8 @@ interface WorkPageProps {
 }
 
 export function generateStaticParams(): WorkPageProps['params'][] {
+  if (process.env.STATIC_EXPORT !== 'true') return []
+
   return supportedLanguages.flatMap(lang => worksData.map(work => ({
     lang,
     author: workAuthorSlug(work),

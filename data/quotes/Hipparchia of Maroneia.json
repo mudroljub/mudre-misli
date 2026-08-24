@@ -1,11 +1,11 @@
 [
   {
-    "id": "mm-001264",
+    "id": "mm-001265",
     "type": "bio",
-    "year": -350,
-    "sr": "Sestra Metroklea; oboje iz Maroneje.",
-    "stsl": "Сєстра Мєтроклєа · обоє отъ Маронєꙗ.",
-    "originalText": "ἡ ἀδελφὴ τοῦ Μητροκλέους Ἱππαρχία. Μαρωνεῖται δ' ἦσαν ἀμφότεροι.",
+    "year": -330,
+    "sr": "Zaljubila se u Krateta, njegove besede i njegov način života, ne obazirući se ni na jednog prosca, niti na bogatstvo, plemenito poreklo ili lepotu; Kratet joj beše sve. Pretila je roditeljima da će se ubiti ako je ne udaju za njega.",
+    "stsl": "Възлюби Кратета · и словеса єго и житиѥ єго · ни на єдиного отъ просѧщиихъ ѭ възираѭщи · ни на богатьство · ни на благородьство · ни на красотѫ · нъ Кратетъ бѣ єи вьсе · Прѣтѣаше же родителема · ꙗко себе погѹбить · аще не дадѧть ѭ за нь.",
+    "originalText": "Καὶ ἤρα τοῦ Κράτητος καὶ τῶν λόγων καὶ τοῦ βίου, οὐδενὸς τῶν μνηστευομένων ἐπιστρεφομένη, οὐ πλούτου, οὐκ εὐγενείας, οὐ κάλλους· ἀλλὰ πάντ' ἦν Κράτης αὐτῇ. Καὶ δὴ καὶ ἠπείλει τοῖς γονεῦσιν ἀναιρήσειν αὑτήν, εἰ μὴ τούτῳ δοθείη.",
     "author": "Hipparchia of Maroneia",
     "sources": [
       {
@@ -15,12 +15,12 @@
     ]
   },
   {
-    "id": "mm-001265",
-    "type": "bio",
-    "year": -330,
-    "sr": "Zaljubila se u Krata, u njegove reči i način života, ne obazirući se ni na jednog prosca, ni na bogatstvo, ni na plemenitost, ni na lepotu; Kratet joj je bio sve. Pretila je roditeljima da će se ubiti ako joj ne dadnu za njega. Kratet, pozvan od njenih roditelja da odvrati devojku, činio je sve, i najzad ne ubedivši je, ustao je i skinuvši svoje odelo pred njom rekao: 'Ovo je mladoženja, ovo je imovstvo, misli o tome; jer nećeš biti drugarica ako ne usvojiš isti način života.'",
-    "stsl": "Възлюби Крата · єго словєса і образъ житіꙗ · нє обазирѹщи сѧ ни єдиномѹ просцѹ · ни богатьствѹ · ни благородію · ни лѣпотъѣ · Кратєтъ бѣ єи всє · Прѣтꙗашє родитєлємъ ꙗко ѹбиєть сѧ ащє нє дадѧть ѭ за нь · Кратєтъ · прізъванъ отъ родитєлъ да отъвратить дѣвицѫ · творꙗашє всє · і послѣди нє ѹбѣдивъ · въста і съшєдъ одєждѫ свою прєдъ нєѭ рєчє · Сє єсть младожєніꙗ · сє єсть имѣніє · мꙑсли о томь · нє бѫдєши бо дрѹгаріца ащє нє ѹсвоиши тъждє образъ житіꙗ.",
-    "originalText": "Καὶ ἤρα τοῦ Κράτητος καὶ τῶν λόγων καὶ τοῦ βίου, οὐδενὸς τῶν μνηστευομένων ἐπιστρεφομένη, οὐ πλούτου, οὐκ εὐγενείας, οὐ κάλλους· ἀλλὰ πάντ' ἦν Κράτης αὐτῇ. Καὶ δὴ καὶ ἠπείλει τοῖς γονεῦσιν ἀναιρήσειν αὑτήν, εἰ μὴ τούτῳ δοθείη. Κράτης μὲν οὖν παρακαλούμενος ὑπὸ τῶν γονέων αὐτῆς ἀποτρέψαι τὴν παῖδα, πάντ' ἐποίει, καὶ τέλος μὴ πείθων, ἀναστὰς καὶ ἀποθέμενος τὴν ἑαυτοῦ σκευὴν ἀντικρὺ αὐτῆς ἔφη, « Ὁ μὲν νυμφίος οὗτος, ἡ δὲ κτῆσις αὕτη, πρὸς ταῦτα βουλεύου· οὐδὲ γὰρ ἔσεσθαι κοινωνός, εἰ μὴ καὶ τῶν αὐτῶν ἐπιτηδευμάτων γενηθείης. »",
+    "id": "mm-002204",
+    "type": "anecdote",
+    "year": -329,
+    "sr": "Kada njeni roditelji zamoliše Krateta da odvrati devojku, on učini sve što je mogao. Naposletku, ne uspevši da je ubedi, ustade, skide pred njom svoju odeću i reče: Ovo je mladoženja, a ovo njegov imetak; prema tome odluči. Nećeš mi biti družbenica ako ne prihvatiš isti način života.",
+    "stsl": "Кратетъ же · родителема єѩ молѧщема и дѣвицѫ отъвратити · вьсѣ творꙗаше · послѣди же не ѹбѣдивъ ѭ · въставъ и съвлъкъ ризы своѩ прѣдъ неѭ · рече · Се женихъ · се же стѧжаниѥ · о сихъ размꙑсли · не бѫдеши бо общьница · аще тѣхъ же дѣлъ не приимеши.",
+    "originalText": "Κράτης μὲν οὖν παρακαλούμενος ὑπὸ τῶν γονέων αὐτῆς ἀποτρέψαι τὴν παῖδα, πάντ' ἐποίει, καὶ τέλος μὴ πείθων, ἀναστὰς καὶ ἀποθέμενος τὴν ἑαυτοῦ σκευὴν ἀντικρὺ αὐτῆς ἔφη, « Ὁ μὲν νυμφίος οὗτος, ἡ δὲ κτῆσις αὕτη, πρὸς ταῦτα βουλεύου· οὐδὲ γὰρ ἔσεσθαι κοινωνός, εἰ μὴ καὶ τῶν αὐτῶν ἐπιτηδευμάτων γενηθείης. »",
     "author": "Hipparchia of Maroneia",
     "sources": [
       {
@@ -32,10 +32,25 @@
   {
     "id": "mm-001266",
     "type": "bio",
+    "year": -328,
+    "sr": "Hiparhija izabra takav život, obuče isto ruho i poče svuda ići s mužem, javno se družiti s njim i odlaziti na gozbe.",
+    "stsl": "Хіппархіꙗ же избра таково житиѥ · и тѫ же одеждѫ приимъши · съ мѫжемь повсюдѹ хождааше · ꙗвѣ съ нимь прѣбꙑвааше и на пирꙑ прихождааше.",
+    "originalText": "Εἵλετο ἡ παῖς καὶ ταὐτὸν ἀναλαβοῦσα σχῆμα συμπεριῄει τἀνδρὶ καὶ ἐν τῷ φανερῷ συνεγίνετο καὶ ἐπὶ τὰ δεῖπνα ἀπῄει.",
+    "author": "Hipparchia of Maroneia",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.97"
+      }
+    ]
+  },
+  {
+    "id": "mm-002205",
+    "type": "anecdote",
     "year": -325,
-    "sr": "Izabrala je i uzevši isto odelo hodala je sa mužem, javno se sa njim družila i išla na gozbe. Jednom je došla na gozbu kod Lisimaha gde je oborila Teodora zvanog Bezbožnik, predloživši mu ovaj sofizam: 'Ono što čineći Teodor ne bi bio nepravednik, ni Hiparhija čineći to ne bi bila nepravednik; Teodor udarajući sebe ne čini nepravdu, niti dakle Hiparhija udarajući Teodora čini nepravdu.' On na to nije ništa odgovorio, već joj je podigao odeću; ali Hiparhija se nije uplašila niti uznemirila kao žena.",
-    "stsl": "Избра і пріємъши тождє одѣаніє ходꙗшє съ мѫжємь · ꙗвѣ дрѹжꙗшє сѧ съ нимь і хождаашє на пирꙑ · Єдиноѭ пріідє на пиръ къ Лѵсімахѹ · идѣжє обори Теодора наріцаємаго Безбожьнікъ · прєдложивъши єм ѹ софисмъ · Єже творꙗ Теодоръ нє бі нєправьдьникъ · ни Хіпархіꙗ творѧщі то нє бі нєправьдьниця · Теодоръ ѹдарꙗꙗ сєбє нє творить нєправдꙑ · ни Хіпархіꙗ ѹдарꙗѭщі Теодора творить нєправдꙋ · Онъ же на то нє отъвѣщавъ ничєсоже · нъ въздвигнѫ одєаніє єѩ · нъ Хіпархіꙗ нє ѹстраші сѧ ни въсмѫті сѧ ꙗко жєна.",
-    "originalText": "Εἵλετο ἡ παῖς καὶ ταὐτὸν ἀναλαβοῦσα σχῆμα συμπεριῄει τἀνδρὶ καὶ ἐν τῷ φανερῷ συνεγίνετο καὶ ἐπὶ τὰ δεῖπνα ἀπῄει. Ὅτε καὶ πρὸς Λυσίμαχον εἰς τὸ συμπόσιον ἦλθεν, ἔνθα Θεόδωρον τὸν ἐπίκλην Ἄθεον ἐπήλεγξε, σόφισμα προτείνασα τοιοῦτον· ὃ ποιῶν Θεόδωρος οὐκ ἂν ἀδικεῖν λέγοιτο, οὐδ' Ἱππαρχία ποιοῦσα τοῦτο ἀδικεῖν λέγοιτ' ἄν· Θεόδωρος δὲ τύπτων ἑαυτὸν οὐκ ἀδικεῖ, οὐδ' ἄρα Ἱππαρχία Θεόδωρον τύπτουσα ἀδικεῖ. Ὁ δὲ πρὸς μὲν τὸ λεχθὲν οὐδὲν ἀπήντησεν, ἀνέσυρε δ' αὐτῆς θοἰμάτιον· ἀλλ' οὔτε κατεπλάγη Ἱππαρχία οὔτε διεταράχθη ὡς γυνή.",
+    "sr": "Ona dođe jednom na gozbu kod Lisimaha, gde pobi Teodora zvanog bezbožnik, iznevši ovaj sofizam: Ono što Teodor može učiniti a da se ne kaže da čini nepravdu, može učiniti i Hiparhija a da se ne kaže da čini nepravdu. Teodor ne čini nepravdu kada udara samoga sebe; prema tome, ni Hiparhija ne čini nepravdu kada udara Teodora. On joj na to ništa ne odgovori, nego joj zadiže ogrtač; Hiparhija se, međutim, niti uplaši niti zbuni kao žena.",
+    "stsl": "Она же приде єдиноѭ къ Лѵсімахѹ на пиръ · идеже Ѳеодора · безбожьникъ нарицаемаго · прѣпрѣ · сицевъ софисмъ предложивъши · Єже творѧ Ѳеодоръ неправьдьникъ не наречеть сѧ · то и Хіппархіꙗ творѧщи неправьдьница не наречеть сѧ · Ѳеодоръ же себе биѩ неправьдꙑ не творить · тѣмже ни Хіппархіꙗ Ѳеодора биѭщи неправьдꙑ творить · Онъ же къ реченомѹ ничтоже отъвѣща · нъ въздвиже ризѫ єѩ · Хіппархіꙗ же ни ѹбоꙗ сѧ ни съмѧте сѧ ꙗко жена.",
+    "originalText": "Ὅτε καὶ πρὸς Λυσίμαχον εἰς τὸ συμπόσιον ἦλθεν, ἔνθα Θεόδωρον τὸν ἐπίκλην Ἄθεον ἐπήλεγξε, σόφισμα προτείνασα τοιοῦτον· ὃ ποιῶν Θεόδωρος οὐκ ἂν ἀδικεῖν λέγοιτο, οὐδ' Ἱππαρχία ποιοῦσα τοῦτο ἀδικεῖν λέγοιτ' ἄν· Θεόδωρος δὲ τύπτων ἑαυτὸν οὐκ ἀδικεῖ, οὐδ' ἄρα Ἱππαρχία Θεόδωρον τύπτουσα ἀδικεῖ. Ὁ δὲ πρὸς μὲν τὸ λεχθὲν οὐδὲν ἀπήντησεν, ἀνέσυρε δ' αὐτῆς θοἰμάτιον· ἀλλ' οὔτε κατεπλάγη Ἱππαρχία οὔτε διεταράχθη ὡς γυνή.",
     "author": "Hipparchia of Maroneia",
     "sources": [
       {
@@ -47,8 +62,8 @@
   {
     "id": "mm-001267",
     "type": "quote",
-    "sr": "Ja sam, Teodore; ali nemoj misliti da sam loše odlučila o sebi ako vreme koje sam imala da trošim na tkalačkim stanovima upotrebih za obrazovanje.",
-    "stsl": "Азъ єсмь · Теодорє · нъ нє мьни ꙗко лошє рѣшихъ о сєбѣ · ащє врємѧ єжє імѣахъ трошити на станѣхъ ѹпотърєбихъ за ѹчєніє.",
+    "sr": "Ja sam, Teodore. Zar misliš da sam loše odlučila o sebi zato što sam vreme koje bih provela za razbojima posvetila obrazovanju?",
+    "stsl": "Азъ есмь · Ѳеодоре · нъ еда мьниши ꙗко зълѣ о себѣ съвѣщахъ · понеже врѣмѧ · еже быхъ при тъкальнꙑихъ станѣхъ иждила · на наказаниѥ обратихъ?",
     "originalText": "Ἐγώ, φησίν, εἰμί, Θεόδωρε· ἀλλὰ μὴ κακῶς σοι δοκῶ βεβουλεῦσθαι περὶ αὑτῆς, εἰ, τὸν χρόνον ὃν ἔμελλον ἱστοῖς προσαναλώσειν, τοῦτον εἰς παιδείαν κατεχρησάμην;",
     "author": "Hipparchia of Maroneia",
     "sources": [

@@ -10,15 +10,16 @@ import styles from './AuthorPageClient.module.scss'
 interface AuthorWorksProps {
   works: Work[]
   language: Language
+  showHeading?: boolean
 }
 
-export default function AuthorWorks({ works, language }: AuthorWorksProps) {
+export default function AuthorWorks({ works, language, showHeading = true }: AuthorWorksProps) {
   const { t, transliterate } = useTranslations(language)
   if (!works.length) return null
 
   return (
     <section className={styles.authorSection}>
-      <h3>{t.navWorks}</h3>
+      {showHeading && <h3>{t.sectionWritings}</h3>}
       <div className={styles.grid}>
         {works.map(work => (
           <article className={styles.workCard} key={work.id}>

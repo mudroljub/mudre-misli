@@ -1,7 +1,7 @@
 @import '../styles/shared';
 
 .reader {
-  width: min(100%, 74ch);
+  width: 100%;
   margin: 0 auto;
   padding: $spacing-md;
   background: $color-white;
@@ -21,10 +21,23 @@
 }
 
 .text {
+  width: min(100%, 82ch);
+  margin: 0 auto;
   font-size: 1.1rem;
   line-height: 1.8;
 
   p { white-space: pre-wrap; }
+}
+
+.canonicalSection {
+  scroll-margin-top: $spacing-lg;
+
+  h4 {
+    margin: $spacing-lg 0 $spacing-sm;
+    color: $color-text-light;
+    font-size: $font-size-small;
+    font-weight: 600;
+  }
 }
 
 .original {

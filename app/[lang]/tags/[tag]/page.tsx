@@ -15,6 +15,8 @@ interface TagPageProps {
 }
 
 export function generateStaticParams(): TagPageProps['params'][] {
+  if (process.env.STATIC_EXPORT !== 'true') return [];
+
   const params: TagPageProps['params'][] = [];
 
   // Collect all unique tags from quotes

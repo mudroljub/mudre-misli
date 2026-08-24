@@ -14,7 +14,7 @@ interface QuotePageProps {
 }
 
 export function generateStaticParams(): QuotePageProps['params'][] {
-  if (process.env.NODE_ENV === 'development') {
+  if (process.env.STATIC_EXPORT !== 'true') {
     return [];
   }
 

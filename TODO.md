@@ -10,6 +10,7 @@ OCENI STANJE PREVODA
     - stil stsl i sr prevoda (lepota i prirodnost jezika)
     - ujednačenost stsl i sr prevoda (isti koreni reči i ostalo)
 - napravi izveštaj sa ocenama po autorima
+- DODATNO: oceni stanje dugačkih prevoda celih dela (ocena za svako delo)
 
 POPRAVI LOŠE PREVODE
 - popravljati lošije stsl prevode (isus.json uzor za etiku, Бытиѥ.md za kosmologiju)
@@ -18,6 +19,8 @@ POPRAVI LOŠE PREVODE
 
 ## UI
 
+OSTALO
+- kod velikih filozofa ima previše sadržaja i stranica postaje nepregledna. možda foldovati sekcije ako imaju previše sadržaja. analizirati česte scenarije. npr. neko traži da čita platonove knjige, smeta mu što je biografija na vrhu stranice predugačka, a potom mnoštvo citata.
 - skrati prikaz dugih citata isto kao što su skraćena preduga dela (works)
 - napraviti spisak filozofski najvažnijih termina
   - naglasiti samo njih u rečniku (ceo red, sve jezike)

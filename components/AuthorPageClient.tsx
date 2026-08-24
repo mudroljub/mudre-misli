@@ -145,7 +145,7 @@ export default function AuthorPageClient({
           language={language}
         />
 
-        <AuthorWorks works={fullWorks} language={language} />
+        <AuthorWorks works={fullWorks} language={language} showHeading={works.length === 0} />
 
         <AuthorSection
           title={t.sectionOthersAbout}
