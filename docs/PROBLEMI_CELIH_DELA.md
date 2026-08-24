@@ -82,21 +82,6 @@ odgovarajući srpski i staroslovenski prevod pre unošenja u knjige `book-i`,
 Vrednosti `title.stsl` ponavljaju savremene srpske naslove latinicom. Potrebno
 ih je prevesti na projektni staroslovenski i zapisati odgovarajućim pismom.
 
-## Platon — Lisid
-
-### LYS-002 — pomerena sidra 203a–217c
-
-- status: **delimično rešen**
-- vrsta: `sidro`
-- mesto: Lisid 203a–217c; potom nastaviti od 217d
-
-Granice `203a`–`217c` pregledane su pomoću deklarativne mape. U prvom
-prolazu šest sidara već je bilo tačno, a 11 je pomereno u oba prevoda bez
-promene teksta. U kasnijim prolazima obnovljeni su izostavljeni odlomci i
-poravnate granice do `217c`. Provera ponovne primene mape ostaje idempotentna.
-Delo treba pregledati od `217d` do `223b`
-pre zatvaranja ovog zapisa.
-
 ## Pravilo vođenja dnevnika
 
 Za svaki novi problem zapisati delo, precizno kanonsko mesto, jezik, vrstu,
