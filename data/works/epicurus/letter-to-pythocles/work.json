@@ -1,0 +1,22 @@
+{
+  "id": "mm-001130",
+  "slug": "letter-to-pythocles",
+  "author": "Epicurus",
+  "kind": "letter",
+  "title": {
+    "sr": "Pismo Pitoklu",
+    "stsl": "Писмо къ Пѵтоклѹ"
+  },
+  "originalTitle": "Ἐπιστολὴ πρὸς Πυθοκλέα",
+  "source": {
+    "name": "diogenes-laertius",
+    "reference": "X.84–116"
+  },
+  "citationScheme": "section",
+  "sections": [
+    {
+      "anchor": "1",
+      "file": "letter-to-pythocles"
+    }
+  ]
+}

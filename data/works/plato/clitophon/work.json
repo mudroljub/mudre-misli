@@ -1,0 +1,102 @@
+{
+  "id": "mw-000001",
+  "slug": "clitophon",
+  "author": "Plato",
+  "kind": "dialogue",
+  "title": {
+    "sr": "Klitofont",
+    "stsl": "Клитофѡнъ"
+  },
+  "originalTitle": "Κλειτοφῶν",
+  "source": {
+    "name": "canonical-greekLit",
+    "work": "tlg0059.tlg029"
+  },
+  "citationScheme": "stephanus",
+  "sections": [
+    {
+      "anchor": "406a",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "407a",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "407b",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "407c",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "407d",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "407e",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "408a",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "408b",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "408c",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "408d",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "408e",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "409a",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "409b",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "409c",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "409d",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "409e",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "410a",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "410b",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "410c",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "410d",
+      "file": "clitophon"
+    },
+    {
+      "anchor": "410e",
+      "file": "clitophon"
+    }
+  ]
+}

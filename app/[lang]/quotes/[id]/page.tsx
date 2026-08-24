@@ -2,6 +2,7 @@ import { notFound, redirect } from 'next/navigation';
 import { supportedLanguages } from '../../../../types/data';
 import { authorsData } from '../../../../utils/catalog';
 import { quotesData } from '../../../../utils/quotes';
+import { findWorkById, workAuthorSlug } from '../../../../utils/works';
 import QuotePageClient from '../../../../components/QuotePageClient';
 import type { Language } from '../../../../types/data';
 
@@ -38,6 +39,10 @@ export default function QuotePage({ params }: QuotePageProps) {
   const quote = quotesData.find((entry) => entry.id === params.id);
 
   if (!quote) {
+    const work = findWorkById(params.id);
+    if (work) {
+      redirect(`/${lang}/dela/${workAuthorSlug(work)}/${work.slug}`);
+    }
     notFound();
   }
 

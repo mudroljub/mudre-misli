@@ -18,7 +18,6 @@ POPRAVI LOŠE PREVODE
 
 ## UI
 
-- odvoji duže radove u poseban json, posebno Epikurova pisma. smisliti sistem da kasnije podrži i Platonove dijaloge.
 - skrati prikaz dugih citata isto kao što su skraćena preduga dela (works)
 - napraviti spisak filozofski najvažnijih termina
   - naglasiti samo njih u rečniku (ceo red, sve jezike)
@@ -26,4 +25,3 @@ POPRAVI LOŠE PREVODE
 ## Razno
 
 - `data\sources\INDEX_GREEK.md`: uraditi mašinski prolaz kroz __cts__.xml za Plutarha i Aristotela i dodati TLG broj uz baš svako njihovo delo.
-- parsiraj u json prevode iz `data\works` i uklopi u sajt (koristi rešenje za duge radove)

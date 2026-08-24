@@ -82,6 +82,8 @@ Ne menjati ustaljeni termin samo zato što je druga reč danas češća. Voditi 
 
 Kada se tvori nova stsl reč, srpski par po pravilu graditi iz istog slovenskog korena, čak i kada takva reč ne postoji u savremenom standardnom srpskom.
 
+Pojmove poput vreme, bog, slučaj, nužda... nikad ne pisati velikim slovom.
+
 ## Završna provera
 
 1. Da li prevod tačno prenosi grčki?

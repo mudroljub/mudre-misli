@@ -1,0 +1,414 @@
+{
+  "id": "mw-000005",
+  "slug": "lysis",
+  "author": "Plato",
+  "kind": "dialogue",
+  "title": {
+    "sr": "Lisid",
+    "stsl": "Лѵсісъ"
+  },
+  "originalTitle": "Λύσις",
+  "source": {
+    "name": "canonical-greekLit",
+    "work": "tlg0059.tlg020"
+  },
+  "citationScheme": "stephanus",
+  "sections": [
+    {
+      "anchor": "203a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "203b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "204a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "204b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "204c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "204d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "204e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "205a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "205b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "205c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "205d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "205e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "206a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "206b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "206c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "206d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "206e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "207a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "207b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "207c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "207d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "207e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "208a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "208b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "208c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "208d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "208e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "209a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "209b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "209c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "209d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "209e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "210a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "210b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "210c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "210d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "210e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "211a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "211b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "211c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "211d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "211e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "212a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "212b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "212c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "212d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "212e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "213a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "213b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "213c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "213d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "213e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "214a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "214b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "214c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "214d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "214e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "215a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "215b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "215c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "215d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "215e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "216a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "216b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "216c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "216d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "216e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "217a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "217b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "217c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "217d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "217e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "218a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "218b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "218c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "218d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "218e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "219a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "219b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "219c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "219d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "219e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "220a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "220b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "220c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "220d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "220e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "221a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "221b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "221c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "221d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "221e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "222a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "222b",
+      "file": "lysis"
+    },
+    {
+      "anchor": "222c",
+      "file": "lysis"
+    },
+    {
+      "anchor": "222d",
+      "file": "lysis"
+    },
+    {
+      "anchor": "222e",
+      "file": "lysis"
+    },
+    {
+      "anchor": "223a",
+      "file": "lysis"
+    },
+    {
+      "anchor": "223b",
+      "file": "lysis"
+    }
+  ]
+}

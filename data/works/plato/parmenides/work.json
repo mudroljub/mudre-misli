@@ -1,0 +1,798 @@
+{
+  "id": "mw-000006",
+  "slug": "parmenides",
+  "author": "Plato",
+  "kind": "dialogue",
+  "title": {
+    "sr": "Parmenid",
+    "stsl": "Парменідъ"
+  },
+  "originalTitle": "Παρμενίδης",
+  "source": {
+    "name": "canonical-greekLit",
+    "work": "tlg0059.tlg009"
+  },
+  "citationScheme": "stephanus",
+  "sections": [
+    {
+      "anchor": "126a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "126b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "126c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "127a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "127b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "127c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "127d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "127e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "128a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "128b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "128c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "128d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "128e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "129a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "129b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "129c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "129d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "129e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "130a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "130b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "130c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "130d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "130e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "131a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "131b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "131c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "131d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "131e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "132a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "132b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "132c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "132d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "132e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "133a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "133b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "133c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "133d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "134a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "134b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "134c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "134d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "134e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "135a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "135b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "135c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "135d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "136a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "136b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "136c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "136d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "136e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "137a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "137b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "137c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "137d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "138a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "138b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "138c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "138d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "138e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "139a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "139b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "139c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "139d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "139e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "140a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "140b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "140c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "140d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "140e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "141a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "141b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "141c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "141d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "141e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "142a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "142b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "142c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "142e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "143a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "143b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "143c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "143d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "143e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "144a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "144b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "144c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "144d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "144e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "145a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "145b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "145c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "145d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "145e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "146a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "146b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "146c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "146d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "146e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "147a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "147b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "147c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "147d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "147e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "148a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "148b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "148c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "148d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "148e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "149a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "149b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "149c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "149d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "149e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "150a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "150b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "150c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "150d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "150e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "151a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "151b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "151c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "151d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "151e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "152a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "152b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "152c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "152d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "152e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "153a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "153b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "153c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "153d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "153e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "154a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "154b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "154c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "154d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "154e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "155a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "155b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "155c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "155d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "155e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "156a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "156b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "156c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "156d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "156e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "157a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "157b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "157c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "157d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "157e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "158a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "158b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "158c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "158d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "158e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "159a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "159b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "159c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "159d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "159e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "160a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "160b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "160c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "160d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "160e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "161a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "161b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "161c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "161d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "161e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "162a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "162b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "162c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "162d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "162e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "163a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "163b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "163d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "164a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "164b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "164c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "164d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "164e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "165a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "165b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "165c",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "165d",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "165e",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "166a",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "166b",
+      "file": "parmenides"
+    },
+    {
+      "anchor": "166c",
+      "file": "parmenides"
+    }
+  ]
+}

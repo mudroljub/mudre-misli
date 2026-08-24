@@ -21,7 +21,14 @@ export interface Translations {
   navHome: string;
   navPhilosophers: string;
   navDictionary: string;
+  navWorks: string;
   navAbout: string;
+  workUi: {
+    allWorks: string;
+    openWork: string;
+    previousSection: string;
+    nextSection: string;
+  };
   about: {
     intro: string;
     schoolImageAlt: string;
@@ -165,7 +172,14 @@ export const translations: Record<Language, Translations> = {
     navHome: 'Начѧло',
     navPhilosophers: 'Любомѫдрьци',
     navDictionary: 'Рєчьникъ',
+    navWorks: 'Книгꙑ',
     navAbout: 'О дѣлѣ',
+    workUi: {
+      allWorks: 'Вьсѧ дѣла',
+      openWork: 'Чьти дѣло',
+      previousSection: 'Прѣдьнии отъдѣлъ',
+      nextSection: 'Слѣдѹѭштии отъдѣлъ',
+    },
     about: {
       intro: 'Ѹчилище Блатьнограда мьнима словѣньска школа любомѫдрости девѧтаго вѣка · въ Блатьноградѣ бѣ · сѣдалищи паноньскꙑихъ Словѣнъ и єдиномь отъ прьвꙑихъ срѣдищь словѣньскаго писмени · Дѣло се показати тщить како бы любомѫдрость ѹчила сѧ · аще бы Словѣне велика ѹчилища въ срѣдьни вѣкъ имѣли · и како бы словѣньскъ ѹченъ ꙗꙁꙑкъ того врѣмене глаголалъ ·',
       schoolImageAlt: 'Ѹчилище Блатьнограда',
@@ -307,7 +321,14 @@ export const translations: Record<Language, Translations> = {
     navHome: 'Početna',
     navPhilosophers: 'Filozofi',
     navDictionary: 'Rečnik',
+    navWorks: 'Knjige',
     navAbout: 'O projektu',
+    workUi: {
+      allWorks: 'Sva dela',
+      openWork: 'Čitaj delo',
+      previousSection: 'Prethodni odeljak',
+      nextSection: 'Sledeći odeljak',
+    },
     about: {
       intro: 'Učilište Blatnograda je zamišljena slovenska filozofska škola iz 9. veka koja se nalazila u Blatnogradu, sedištu panonskih Slovena i jednom od prvih središta slovenske pismenosti. Ovaj projekat pokušava dočarati kako bi izgledalo izučavanje filozofije da su Sloveni imali univerzitete u srednjem veku, i kako bi zvučao učeni slovenski jezik toga vremena.',
       schoolImageAlt: 'Učilište Blatnograda',

@@ -5,9 +5,11 @@ import Header from "./Header"
 import BookLayout from "./BookLayout"
 import BirthplaceMap from "./BirthplaceMap"
 import AuthorSection from "./AuthorSection"
+import AuthorWorks from "./AuthorWorks"
 import { getAuthorName, placesData } from "../utils/catalog"
 import { useTranslations } from "../utils/useTranslations"
 import { withBasePath } from "../utils/helpers"
+import { worksData } from "../utils/works"
 import type {
   AuthorData,
   Language,
@@ -67,6 +69,8 @@ export default function AuthorPageClient({
   const letters = authorEntries.filter(
     (entry): entry is Letter => entry.type === "letter",
   )
+
+  const fullWorks = worksData.filter((work) => work.author === author)
 
   const formatYear = (year: number) =>
     year < 0 ? `${Math.abs(year)} ${t.bce}` : year
@@ -140,6 +144,8 @@ export default function AuthorPageClient({
           entries={works}
           language={language}
         />
+
+        <AuthorWorks works={fullWorks} language={language} />
 
         <AuthorSection
           title={t.sectionOthersAbout}

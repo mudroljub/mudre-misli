@@ -1,0 +1,3126 @@
+[
+  {
+    "id": "mw-000007",
+    "slug": "enchiridion",
+    "author": "Epictetus",
+    "kind": "handbook",
+    "title": {
+      "sr": "Enhiridion",
+      "stsl": "Енхірідіонъ"
+    },
+    "originalTitle": "Ἐγχειρίδιον",
+    "source": {
+      "name": "canonical-greekLit",
+      "work": "tlg0557.tlg002"
+    },
+    "citationScheme": "section",
+    "sections": [
+      {
+        "anchor": "1",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "2",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "3",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "4",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "5",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "6",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "7",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "8",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "9",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "10",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "11",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "12",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "13",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "14",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "15",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "16",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "17",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "18",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "19",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "20",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "21",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "22",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "23",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "24",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "25",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "26",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "27",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "28",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "29",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "30",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "31",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "32",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "33",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "34",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "35",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "36",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "37",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "38",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "39",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "40",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "41",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "42",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "43",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "44",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "45",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "46",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "47",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "48",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "49",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "50",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "51",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "52",
+        "file": "enchiridion"
+      },
+      {
+        "anchor": "53",
+        "file": "enchiridion"
+      }
+    ],
+    "directory": "epictetus/enchiridion"
+  },
+  {
+    "id": "mw-000008",
+    "slug": "discourses",
+    "author": "Epictetus",
+    "kind": "treatise",
+    "title": {
+      "sr": "Razgovori",
+      "stsl": "Разговори"
+    },
+    "originalTitle": "Διατριβαί",
+    "source": {
+      "name": "canonical-greekLit",
+      "work": "tlg0557.tlg001"
+    },
+    "citationScheme": "book-chapter",
+    "sections": [
+      {
+        "anchor": "I.1",
+        "title": {
+          "sr": "O onome što je do nas i što nije do nas",
+          "stsl": "O onome što je do nas i što nije do nas"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.2",
+        "title": {
+          "sr": "Kako čovek može u svemu sačuvati ono što dolikuje njegovoj ličnosti",
+          "stsl": "Kako čovek može u svemu sačuvati ono što dolikuje njegovoj ličnosti"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.3",
+        "title": {
+          "sr": "Kako se od toga da je Bog otac ljudi može doći do onoga što sledi",
+          "stsl": "Kako se od toga da je Bog otac ljudi može doći do onoga što sledi"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.4",
+        "title": {
+          "sr": "O napredovanju",
+          "stsl": "O napredovanju"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.5",
+        "title": {
+          "sr": "Protiv akademičara",
+          "stsl": "Protiv akademičara"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.6",
+        "title": {
+          "sr": "O promislu",
+          "stsl": "O promislu"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.7",
+        "title": {
+          "sr": "O koristi promenljivih, pretpostavljenih i sličnih slova",
+          "stsl": "O koristi promenljivih, pretpostavljenih i sličnih slova"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.8",
+        "title": {
+          "sr": "O tome da moći nisu bezopasne za neobrazovane",
+          "stsl": "O tome da moći nisu bezopasne za neobrazovane"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.9",
+        "title": {
+          "sr": "Kako se od toga da smo srodni Bogu može doći do onoga što sledi",
+          "stsl": "Kako se od toga da smo srodni Bogu može doći do onoga što sledi"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.10",
+        "title": {
+          "sr": "O onima koji su se u Rimu revnosno trudili oko napredovanja",
+          "stsl": "O onima koji su se u Rimu revnosno trudili oko napredovanja"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.11",
+        "title": {
+          "sr": "O ljubavi prema svojima",
+          "stsl": "O ljubavi prema svojima"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.12",
+        "title": {
+          "sr": "O zadovoljstvu",
+          "stsl": "O zadovoljstvu"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.13",
+        "title": {
+          "sr": "Kako sve činiti tako da bude ugodno bogovima",
+          "stsl": "Kako sve činiti tako da bude ugodno bogovima"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.14",
+        "title": {
+          "sr": "Da božanstvo sve motri",
+          "stsl": "Da božanstvo sve motri"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.15",
+        "title": {
+          "sr": "Šta obećava filozofija",
+          "stsl": "Šta obećava filozofija"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.16",
+        "title": {
+          "sr": "O promislu",
+          "stsl": "O promislu"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.17",
+        "title": {
+          "sr": "Kako je slovesnost nužna",
+          "stsl": "Kako je slovesnost nužna"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.18",
+        "title": {
+          "sr": "Da se ne treba srditi na one koji greše",
+          "stsl": "Da se ne treba srditi na one koji greše"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.19",
+        "title": {
+          "sr": "Kako se treba držati prema tiranima",
+          "stsl": "Kako se treba držati prema tiranima"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.20",
+        "title": {
+          "sr": "Kako slovesnost može motriti samu sebe",
+          "stsl": "Kako slovesnost može motriti samu sebe"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.21",
+        "title": {
+          "sr": "Onima koji hoće da im se dive",
+          "stsl": "Onima koji hoće da im se dive"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.22",
+        "title": {
+          "sr": "O pretpojmovima",
+          "stsl": "O pretpojmovima"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.23",
+        "title": {
+          "sr": "Protiv Epikura",
+          "stsl": "Protiv Epikura"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.24",
+        "title": {
+          "sr": "Kako se treba boriti s teškoćama",
+          "stsl": "Kako se treba boriti s teškoćama"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.25",
+        "title": {
+          "sr": "O istome",
+          "stsl": "O istome"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.26",
+        "title": {
+          "sr": "Koji je zakon života?",
+          "stsl": "Koji je zakon života?"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.27",
+        "title": {
+          "sr": "Na koliko se načina javljaju predstave i kakva sredstva treba imati spremna protiv njih",
+          "stsl": "Na koliko se načina javljaju predstave i kakva sredstva treba imati spremna protiv njih"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.28",
+        "title": {
+          "sr": "Da se ne treba srditi na ljude; i koje su stvari male, a koje velike među ljudima",
+          "stsl": "Da se ne treba srditi na ljude; i koje su stvari male, a koje velike među ljudima"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "I.29",
+        "title": {
+          "sr": "O postojanosti",
+          "stsl": "O postojanosti"
+        },
+        "file": "book-i"
+      },
+      {
+        "anchor": "II.1",
+        "title": {
+          "sr": "Da se smelost ne protivi oprezu",
+          "stsl": "Da se smelost ne protivi oprezu"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.2",
+        "title": {
+          "sr": "O nepomućenosti",
+          "stsl": "O nepomućenosti"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.3",
+        "title": {
+          "sr": "Šta je građa dobroga čoveka i u čemu se najviše treba vežbati",
+          "stsl": "Šta je građa dobroga čoveka i u čemu se najviše treba vežbati"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.4",
+        "title": {
+          "sr": "Protiv čoveka koji je bio zatečen u preljubi",
+          "stsl": "Protiv čoveka koji je bio zatečen u preljubi"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.5",
+        "title": {
+          "sr": "Kako se veličina duha može sjediniti s pažnjom",
+          "stsl": "Kako se veličina duha može sjediniti s pažnjom"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.6",
+        "title": {
+          "sr": "O ravnodušnim stvarima",
+          "stsl": "O ravnodušnim stvarima"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.7",
+        "title": {
+          "sr": "Kako se treba služiti proricanjem",
+          "stsl": "Kako se treba služiti proricanjem"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.8",
+        "title": {
+          "sr": "Šta je suštastvo dobra",
+          "stsl": "Šta je suštastvo dobra"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.9",
+        "title": {
+          "sr": "Kako se iz onoga što čovek jeste mogu izvesti njegove dužnosti",
+          "stsl": "Kako se iz onoga što čovek jeste mogu izvesti njegove dužnosti"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.10",
+        "title": {
+          "sr": "Kako se iz imena koja nosimo mogu izvesti dela koja im odgovaraju",
+          "stsl": "Kako se iz imena koja nosimo mogu izvesti dela koja im odgovaraju"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.11",
+        "title": {
+          "sr": "Šta je početak filozofije",
+          "stsl": "Šta je početak filozofije"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.12",
+        "title": {
+          "sr": "O razgovornom umeću",
+          "stsl": "O razgovornom umeću"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.13",
+        "title": {
+          "sr": "O teskobi",
+          "stsl": "O teskobi"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.14",
+        "title": {
+          "sr": "Nasonu",
+          "stsl": "Nasonu"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.15",
+        "title": {
+          "sr": "Onima koji tvrdoglavo ostaju pri svojim odlukama",
+          "stsl": "Onima koji tvrdoglavo ostaju pri svojim odlukama"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.16",
+        "title": {
+          "sr": "Da se ne vežbamo u primeni sudova o dobru i zlu",
+          "stsl": "Da se ne vežbamo u primeni sudova o dobru i zlu"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.17",
+        "title": {
+          "sr": "Kako treba primenjivati predpojmove na pojedinačne stvari",
+          "stsl": "Kako treba primenjivati predpojmove na pojedinačne stvari"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.18",
+        "title": {
+          "sr": "Kako se treba boriti protiv predstava",
+          "stsl": "Kako se treba boriti protiv predstava"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.19",
+        "title": {
+          "sr": "Protiv onih koji prihvataju filozofske pouke samo da bi o njima govorili",
+          "stsl": "Protiv onih koji prihvataju filozofske pouke samo da bi o njima govorili"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.20",
+        "title": {
+          "sr": "Protiv epikurejaca i akademičara",
+          "stsl": "Protiv epikurejaca i akademičara"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.21",
+        "title": {
+          "sr": "O nedoslednosti",
+          "stsl": "O nedoslednosti"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.22",
+        "title": {
+          "sr": "O prijateljstvu",
+          "stsl": "O prijateljstvu"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.23",
+        "title": {
+          "sr": "Protiv Epikura",
+          "stsl": "Protiv Epikura"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.24",
+        "title": {
+          "sr": "Kako se treba boriti s teškoćama",
+          "stsl": "Kako se treba boriti s teškoćama"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.25",
+        "title": {
+          "sr": "Kako je nužna logika",
+          "stsl": "Kako je nužna logika"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "II.26",
+        "title": {
+          "sr": "Šta je svojstveno zabludi",
+          "stsl": "Šta je svojstveno zabludi"
+        },
+        "file": "book-ii"
+      },
+      {
+        "anchor": "III.1",
+        "title": {
+          "sr": "O ukrašavanju",
+          "stsl": "O ukrašavanju"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.2",
+        "title": {
+          "sr": "U čemu se treba vežbati onaj koji hoće da napreduje, i da zanemarujemo ono glavno",
+          "stsl": "U čemu se treba vežbati onaj koji hoće da napreduje, i da zanemarujemo ono glavno"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.3",
+        "title": {
+          "sr": "Šta je građa valjanoga čoveka i u čemu se ponajviše treba vežbati",
+          "stsl": "Šta je građa valjanoga čoveka i u čemu se ponajviše treba vežbati"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.4",
+        "title": {
+          "sr": "Onome koji je u pozorištu nepristojno pokazao svoju naklonost",
+          "stsl": "Onome koji je u pozorištu nepristojno pokazao svoju naklonost"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.5",
+        "title": {
+          "sr": "Onima koji odlaze zbog bolesti",
+          "stsl": "Onima koji odlaze zbog bolesti"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.6",
+        "title": {
+          "sr": "Različita pitanja",
+          "stsl": "Različita pitanja"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.7",
+        "title": {
+          "sr": "Upravitelju Epikurejcu",
+          "stsl": "Upravitelju Epikurejcu"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.8",
+        "title": {
+          "sr": "Kako se treba vežbati protiv predstava",
+          "stsl": "Kako se treba vežbati protiv predstava"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.10",
+        "title": {
+          "sr": "Kako treba podnositi bolesti",
+          "stsl": "Kako treba podnositi bolesti"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.11",
+        "title": {
+          "sr": "Različite izreke",
+          "stsl": "Različite izreke"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.12",
+        "title": {
+          "sr": "O vežbanju",
+          "stsl": "O vežbanju"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.13",
+        "title": {
+          "sr": "Šta je samoća i ko je samotan",
+          "stsl": "Šta je samoća i ko je samotan"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.14",
+        "title": {
+          "sr": "Različite izreke",
+          "stsl": "Različite izreke"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.15",
+        "title": {
+          "sr": "Da ništa ne treba preduzimati bez promišljanja",
+          "stsl": "Da ništa ne treba preduzimati bez promišljanja"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.16",
+        "title": {
+          "sr": "Da treba biti oprezan pri druženju",
+          "stsl": "Da treba biti oprezan pri druženju"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.17",
+        "title": {
+          "sr": "O Božjem proviđenju",
+          "stsl": "O Božjem proviđenju"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.18",
+        "title": {
+          "sr": "Da se ne treba uznemiravati zbog vesti",
+          "stsl": "Da se ne treba uznemiravati zbog vesti"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.19",
+        "title": {
+          "sr": "Kako se prost čovek i filozof odnose prema svakoj stvari",
+          "stsl": "Kako se prost čovek i filozof odnose prema svakoj stvari"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.20",
+        "title": {
+          "sr": "Da se od spoljašnjih stvari može izvući korist",
+          "stsl": "Da se od spoljašnjih stvari može izvući korist"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.21",
+        "title": {
+          "sr": "O onima koji hoće da budu učitelji pre nego što su spremni",
+          "stsl": "O onima koji hoće da budu učitelji pre nego što su spremni"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.22",
+        "title": {
+          "sr": "O kiničkom pozivu",
+          "stsl": "O kiničkom pozivu"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.23",
+        "title": {
+          "sr": "Onima koji čitaju i raspravljaju radi pokazivanja",
+          "stsl": "Onima koji čitaju i raspravljaju radi pokazivanja"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.24",
+        "title": {
+          "sr": "Da se ne treba vezivati za ono što nije do nas",
+          "stsl": "Da se ne treba vezivati za ono što nije do nas"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.25",
+        "title": {
+          "sr": "Onima koji ne istrajavaju u onome što su odlučili",
+          "stsl": "Onima koji ne istrajavaju u onome što su odlučili"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "III.26",
+        "title": {
+          "sr": "Onima koji se boje oskudice",
+          "stsl": "Onima koji se boje oskudice"
+        },
+        "file": "book-iii"
+      },
+      {
+        "anchor": "IV.1",
+        "title": {
+          "sr": "O slobodi",
+          "stsl": "O slobodi"
+        },
+        "file": "book-iv"
+      },
+      {
+        "anchor": "IV.2",
+        "title": {
+          "sr": "O druženju",
+          "stsl": "O druženju"
+        },
+        "file": "book-iv"
+      }
+    ],
+    "directory": "epictetus/discourses"
+  },
+  {
+    "id": "mm-001129",
+    "slug": "principal-doctrines",
+    "author": "Epicurus",
+    "kind": "collection",
+    "title": {
+      "sr": "Glavne misli",
+      "stsl": "Главьнꙑꙗ мꙑсли"
+    },
+    "originalTitle": "Κύριαι δόξαι",
+    "source": {
+      "name": "diogenes-laertius",
+      "reference": "X.139–154"
+    },
+    "citationScheme": "section",
+    "sections": [
+      {
+        "anchor": "1",
+        "file": "principal-doctrines"
+      }
+    ],
+    "directory": "epicurus/principal-doctrines"
+  },
+  {
+    "id": "mm-001131",
+    "slug": "letter-to-herodotus",
+    "author": "Epicurus",
+    "kind": "letter",
+    "title": {
+      "sr": "Pismo Herodotu",
+      "stsl": "Писмо къ Херодотѹ"
+    },
+    "originalTitle": "Ἐπιστολὴ πρὸς Ἡρόδοτον",
+    "source": {
+      "name": "diogenes-laertius",
+      "reference": "X.35–83"
+    },
+    "citationScheme": "section",
+    "sections": [
+      {
+        "anchor": "1",
+        "file": "letter-to-herodotus"
+      }
+    ],
+    "directory": "epicurus/letter-to-herodotus"
+  },
+  {
+    "id": "mm-001128",
+    "slug": "letter-to-menoeceus",
+    "author": "Epicurus",
+    "kind": "letter",
+    "title": {
+      "sr": "Pismo Menoikeju",
+      "stsl": "Писмо къ Менойкею"
+    },
+    "originalTitle": "Ἐπιστολὴ πρὸς Μενοικέα",
+    "source": {
+      "name": "diogenes-laertius",
+      "reference": "X.122–135"
+    },
+    "citationScheme": "section",
+    "sections": [
+      {
+        "anchor": "1",
+        "file": "letter-to-menoeceus"
+      }
+    ],
+    "directory": "epicurus/letter-to-menoeceus"
+  },
+  {
+    "id": "mm-001130",
+    "slug": "letter-to-pythocles",
+    "author": "Epicurus",
+    "kind": "letter",
+    "title": {
+      "sr": "Pismo Pitoklu",
+      "stsl": "Писмо къ Пѵтоклѹ"
+    },
+    "originalTitle": "Ἐπιστολὴ πρὸς Πυθοκλέα",
+    "source": {
+      "name": "diogenes-laertius",
+      "reference": "X.84–116"
+    },
+    "citationScheme": "section",
+    "sections": [
+      {
+        "anchor": "1",
+        "file": "letter-to-pythocles"
+      }
+    ],
+    "directory": "epicurus/letter-to-pythocles"
+  },
+  {
+    "id": "mw-000003",
+    "slug": "euthyphro",
+    "author": "Plato",
+    "kind": "dialogue",
+    "title": {
+      "sr": "Eutifron",
+      "stsl": "Єѵтифрѡнъ"
+    },
+    "originalTitle": "Εὐθύφρων",
+    "source": {
+      "name": "canonical-greekLit",
+      "work": "tlg0059.tlg001"
+    },
+    "citationScheme": "stephanus",
+    "sections": [
+      {
+        "anchor": "2a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "2b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "2c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "2d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "3a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "3b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "3c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "3d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "3e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "4a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "4b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "4c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "4d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "4e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "5a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "5b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "5c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "5d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "5e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "6a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "6b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "6c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "6d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "6e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "7a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "7b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "7c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "7d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "7e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "8a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "8b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "8c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "8d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "8e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "9a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "9b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "9c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "9d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "9e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "10a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "10b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "10c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "10d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "10e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "11a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "11b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "11c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "11d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "11e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "12a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "12b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "12c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "12d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "12e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "13a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "13b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "13c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "13d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "13e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "14a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "14b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "14c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "14d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "14e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "15a",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "15b",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "15c",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "15d",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "15e",
+        "file": "euthyphro"
+      },
+      {
+        "anchor": "16a",
+        "file": "euthyphro"
+      }
+    ],
+    "directory": "plato/euthyphro"
+  },
+  {
+    "id": "mw-000004",
+    "slug": "ion",
+    "author": "Plato",
+    "kind": "dialogue",
+    "title": {
+      "sr": "Ion",
+      "stsl": "Іѡнъ"
+    },
+    "originalTitle": "Ἴων",
+    "source": {
+      "name": "canonical-greekLit",
+      "work": "tlg0059.tlg027"
+    },
+    "citationScheme": "stephanus",
+    "sections": [
+      {
+        "anchor": "530a",
+        "file": "ion"
+      },
+      {
+        "anchor": "530b",
+        "file": "ion"
+      },
+      {
+        "anchor": "530c",
+        "file": "ion"
+      },
+      {
+        "anchor": "530d",
+        "file": "ion"
+      },
+      {
+        "anchor": "531a",
+        "file": "ion"
+      },
+      {
+        "anchor": "531b",
+        "file": "ion"
+      },
+      {
+        "anchor": "531c",
+        "file": "ion"
+      },
+      {
+        "anchor": "531d",
+        "file": "ion"
+      },
+      {
+        "anchor": "531e",
+        "file": "ion"
+      },
+      {
+        "anchor": "532a",
+        "file": "ion"
+      },
+      {
+        "anchor": "532b",
+        "file": "ion"
+      },
+      {
+        "anchor": "532c",
+        "file": "ion"
+      },
+      {
+        "anchor": "532d",
+        "file": "ion"
+      },
+      {
+        "anchor": "532e",
+        "file": "ion"
+      },
+      {
+        "anchor": "533a",
+        "file": "ion"
+      },
+      {
+        "anchor": "533b",
+        "file": "ion"
+      },
+      {
+        "anchor": "533c",
+        "file": "ion"
+      },
+      {
+        "anchor": "533d",
+        "file": "ion"
+      },
+      {
+        "anchor": "533e",
+        "file": "ion"
+      },
+      {
+        "anchor": "534a",
+        "file": "ion"
+      },
+      {
+        "anchor": "534b",
+        "file": "ion"
+      },
+      {
+        "anchor": "534c",
+        "file": "ion"
+      },
+      {
+        "anchor": "534d",
+        "file": "ion"
+      },
+      {
+        "anchor": "534e",
+        "file": "ion"
+      },
+      {
+        "anchor": "535a",
+        "file": "ion"
+      },
+      {
+        "anchor": "535b",
+        "file": "ion"
+      },
+      {
+        "anchor": "535c",
+        "file": "ion"
+      },
+      {
+        "anchor": "535d",
+        "file": "ion"
+      },
+      {
+        "anchor": "535e",
+        "file": "ion"
+      },
+      {
+        "anchor": "536a",
+        "file": "ion"
+      },
+      {
+        "anchor": "536b",
+        "file": "ion"
+      },
+      {
+        "anchor": "536e",
+        "file": "ion"
+      },
+      {
+        "anchor": "537a",
+        "file": "ion"
+      },
+      {
+        "anchor": "537b",
+        "file": "ion"
+      },
+      {
+        "anchor": "537c",
+        "file": "ion"
+      },
+      {
+        "anchor": "537d",
+        "file": "ion"
+      },
+      {
+        "anchor": "537e",
+        "file": "ion"
+      },
+      {
+        "anchor": "538a",
+        "file": "ion"
+      },
+      {
+        "anchor": "538b",
+        "file": "ion"
+      },
+      {
+        "anchor": "538c",
+        "file": "ion"
+      },
+      {
+        "anchor": "538d",
+        "file": "ion"
+      },
+      {
+        "anchor": "538e",
+        "file": "ion"
+      },
+      {
+        "anchor": "539a",
+        "file": "ion"
+      },
+      {
+        "anchor": "539b",
+        "file": "ion"
+      },
+      {
+        "anchor": "539c",
+        "file": "ion"
+      },
+      {
+        "anchor": "539d",
+        "file": "ion"
+      },
+      {
+        "anchor": "539e",
+        "file": "ion"
+      },
+      {
+        "anchor": "540a",
+        "file": "ion"
+      },
+      {
+        "anchor": "540b",
+        "file": "ion"
+      },
+      {
+        "anchor": "540c",
+        "file": "ion"
+      },
+      {
+        "anchor": "540d",
+        "file": "ion"
+      },
+      {
+        "anchor": "540e",
+        "file": "ion"
+      },
+      {
+        "anchor": "541a",
+        "file": "ion"
+      },
+      {
+        "anchor": "541b",
+        "file": "ion"
+      },
+      {
+        "anchor": "541c",
+        "file": "ion"
+      },
+      {
+        "anchor": "541d",
+        "file": "ion"
+      },
+      {
+        "anchor": "541e",
+        "file": "ion"
+      },
+      {
+        "anchor": "542a",
+        "file": "ion"
+      },
+      {
+        "anchor": "542b",
+        "file": "ion"
+      }
+    ],
+    "directory": "plato/ion"
+  },
+  {
+    "id": "mw-000001",
+    "slug": "clitophon",
+    "author": "Plato",
+    "kind": "dialogue",
+    "title": {
+      "sr": "Klitofont",
+      "stsl": "Клитофѡнъ"
+    },
+    "originalTitle": "Κλειτοφῶν",
+    "source": {
+      "name": "canonical-greekLit",
+      "work": "tlg0059.tlg029"
+    },
+    "citationScheme": "stephanus",
+    "sections": [
+      {
+        "anchor": "406a",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "407a",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "407b",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "407c",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "407d",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "407e",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "408a",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "408b",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "408c",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "408d",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "408e",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "409a",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "409b",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "409c",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "409d",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "409e",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "410a",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "410b",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "410c",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "410d",
+        "file": "clitophon"
+      },
+      {
+        "anchor": "410e",
+        "file": "clitophon"
+      }
+    ],
+    "directory": "plato/clitophon"
+  },
+  {
+    "id": "mw-000002",
+    "slug": "crito",
+    "author": "Plato",
+    "kind": "dialogue",
+    "title": {
+      "sr": "Kriton",
+      "stsl": "Крітонъ"
+    },
+    "originalTitle": "Κρίτων",
+    "source": {
+      "name": "canonical-greekLit",
+      "work": "tlg0059.tlg003"
+    },
+    "citationScheme": "stephanus",
+    "sections": [
+      {
+        "anchor": "43a",
+        "file": "crito"
+      },
+      {
+        "anchor": "43b",
+        "file": "crito"
+      },
+      {
+        "anchor": "43c",
+        "file": "crito"
+      },
+      {
+        "anchor": "43d",
+        "file": "crito"
+      },
+      {
+        "anchor": "44a",
+        "file": "crito"
+      },
+      {
+        "anchor": "44b",
+        "file": "crito"
+      },
+      {
+        "anchor": "44c",
+        "file": "crito"
+      },
+      {
+        "anchor": "44d",
+        "file": "crito"
+      },
+      {
+        "anchor": "44e",
+        "file": "crito"
+      },
+      {
+        "anchor": "45a",
+        "file": "crito"
+      },
+      {
+        "anchor": "45b",
+        "file": "crito"
+      },
+      {
+        "anchor": "45c",
+        "file": "crito"
+      },
+      {
+        "anchor": "45d",
+        "file": "crito"
+      },
+      {
+        "anchor": "45e",
+        "file": "crito"
+      },
+      {
+        "anchor": "46a",
+        "file": "crito"
+      },
+      {
+        "anchor": "46b",
+        "file": "crito"
+      },
+      {
+        "anchor": "46c",
+        "file": "crito"
+      },
+      {
+        "anchor": "46d",
+        "file": "crito"
+      },
+      {
+        "anchor": "46e",
+        "file": "crito"
+      },
+      {
+        "anchor": "47a",
+        "file": "crito"
+      },
+      {
+        "anchor": "47b",
+        "file": "crito"
+      },
+      {
+        "anchor": "47c",
+        "file": "crito"
+      },
+      {
+        "anchor": "47d",
+        "file": "crito"
+      },
+      {
+        "anchor": "47e",
+        "file": "crito"
+      },
+      {
+        "anchor": "48a",
+        "file": "crito"
+      },
+      {
+        "anchor": "48b",
+        "file": "crito"
+      },
+      {
+        "anchor": "48c",
+        "file": "crito"
+      },
+      {
+        "anchor": "48d",
+        "file": "crito"
+      },
+      {
+        "anchor": "48e",
+        "file": "crito"
+      },
+      {
+        "anchor": "49a",
+        "file": "crito"
+      },
+      {
+        "anchor": "49b",
+        "file": "crito"
+      },
+      {
+        "anchor": "49c",
+        "file": "crito"
+      },
+      {
+        "anchor": "49d",
+        "file": "crito"
+      },
+      {
+        "anchor": "49e",
+        "file": "crito"
+      },
+      {
+        "anchor": "50a",
+        "file": "crito"
+      },
+      {
+        "anchor": "50b",
+        "file": "crito"
+      },
+      {
+        "anchor": "50c",
+        "file": "crito"
+      },
+      {
+        "anchor": "50d",
+        "file": "crito"
+      },
+      {
+        "anchor": "50e",
+        "file": "crito"
+      },
+      {
+        "anchor": "51a",
+        "file": "crito"
+      },
+      {
+        "anchor": "51b",
+        "file": "crito"
+      },
+      {
+        "anchor": "51c",
+        "file": "crito"
+      },
+      {
+        "anchor": "51d",
+        "file": "crito"
+      },
+      {
+        "anchor": "51e",
+        "file": "crito"
+      },
+      {
+        "anchor": "52a",
+        "file": "crito"
+      },
+      {
+        "anchor": "52b",
+        "file": "crito"
+      },
+      {
+        "anchor": "52c",
+        "file": "crito"
+      },
+      {
+        "anchor": "52d",
+        "file": "crito"
+      },
+      {
+        "anchor": "52e",
+        "file": "crito"
+      },
+      {
+        "anchor": "53a",
+        "file": "crito"
+      },
+      {
+        "anchor": "53b",
+        "file": "crito"
+      },
+      {
+        "anchor": "53c",
+        "file": "crito"
+      },
+      {
+        "anchor": "53d",
+        "file": "crito"
+      },
+      {
+        "anchor": "53e",
+        "file": "crito"
+      },
+      {
+        "anchor": "54a",
+        "file": "crito"
+      },
+      {
+        "anchor": "54b",
+        "file": "crito"
+      },
+      {
+        "anchor": "54c",
+        "file": "crito"
+      },
+      {
+        "anchor": "54d",
+        "file": "crito"
+      },
+      {
+        "anchor": "54e",
+        "file": "crito"
+      }
+    ],
+    "directory": "plato/crito"
+  },
+  {
+    "id": "mw-000005",
+    "slug": "lysis",
+    "author": "Plato",
+    "kind": "dialogue",
+    "title": {
+      "sr": "Lisid",
+      "stsl": "Лѵсісъ"
+    },
+    "originalTitle": "Λύσις",
+    "source": {
+      "name": "canonical-greekLit",
+      "work": "tlg0059.tlg020"
+    },
+    "citationScheme": "stephanus",
+    "sections": [
+      {
+        "anchor": "203a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "203b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "204a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "204b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "204c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "204d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "204e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "205a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "205b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "205c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "205d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "205e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "206a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "206b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "206c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "206d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "206e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "207a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "207b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "207c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "207d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "207e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "208a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "208b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "208c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "208d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "208e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "209a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "209b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "209c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "209d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "209e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "210a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "210b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "210c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "210d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "210e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "211a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "211b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "211c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "211d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "211e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "212a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "212b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "212c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "212d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "212e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "213a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "213b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "213c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "213d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "213e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "214a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "214b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "214c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "214d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "214e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "215a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "215b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "215c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "215d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "215e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "216a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "216b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "216c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "216d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "216e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "217a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "217b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "217c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "217d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "217e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "218a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "218b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "218c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "218d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "218e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "219a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "219b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "219c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "219d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "219e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "220a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "220b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "220c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "220d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "220e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "221a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "221b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "221c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "221d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "221e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "222a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "222b",
+        "file": "lysis"
+      },
+      {
+        "anchor": "222c",
+        "file": "lysis"
+      },
+      {
+        "anchor": "222d",
+        "file": "lysis"
+      },
+      {
+        "anchor": "222e",
+        "file": "lysis"
+      },
+      {
+        "anchor": "223a",
+        "file": "lysis"
+      },
+      {
+        "anchor": "223b",
+        "file": "lysis"
+      }
+    ],
+    "directory": "plato/lysis"
+  },
+  {
+    "id": "mw-000006",
+    "slug": "parmenides",
+    "author": "Plato",
+    "kind": "dialogue",
+    "title": {
+      "sr": "Parmenid",
+      "stsl": "Парменідъ"
+    },
+    "originalTitle": "Παρμενίδης",
+    "source": {
+      "name": "canonical-greekLit",
+      "work": "tlg0059.tlg009"
+    },
+    "citationScheme": "stephanus",
+    "sections": [
+      {
+        "anchor": "126a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "126b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "126c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "127a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "127b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "127c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "127d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "127e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "128a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "128b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "128c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "128d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "128e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "129a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "129b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "129c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "129d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "129e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "130a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "130b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "130c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "130d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "130e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "131a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "131b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "131c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "131d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "131e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "132a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "132b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "132c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "132d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "132e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "133a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "133b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "133c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "133d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "134a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "134b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "134c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "134d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "134e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "135a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "135b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "135c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "135d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "136a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "136b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "136c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "136d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "136e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "137a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "137b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "137c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "137d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "138a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "138b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "138c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "138d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "138e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "139a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "139b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "139c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "139d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "139e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "140a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "140b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "140c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "140d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "140e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "141a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "141b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "141c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "141d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "141e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "142a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "142b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "142c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "142e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "143a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "143b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "143c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "143d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "143e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "144a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "144b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "144c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "144d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "144e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "145a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "145b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "145c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "145d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "145e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "146a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "146b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "146c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "146d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "146e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "147a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "147b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "147c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "147d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "147e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "148a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "148b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "148c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "148d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "148e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "149a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "149b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "149c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "149d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "149e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "150a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "150b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "150c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "150d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "150e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "151a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "151b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "151c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "151d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "151e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "152a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "152b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "152c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "152d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "152e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "153a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "153b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "153c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "153d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "153e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "154a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "154b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "154c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "154d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "154e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "155a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "155b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "155c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "155d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "155e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "156a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "156b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "156c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "156d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "156e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "157a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "157b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "157c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "157d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "157e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "158a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "158b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "158c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "158d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "158e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "159a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "159b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "159c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "159d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "159e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "160a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "160b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "160c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "160d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "160e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "161a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "161b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "161c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "161d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "161e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "162a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "162b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "162c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "162d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "162e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "163a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "163b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "163d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "164a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "164b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "164c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "164d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "164e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "165a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "165b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "165c",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "165d",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "165e",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "166a",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "166b",
+        "file": "parmenides"
+      },
+      {
+        "anchor": "166c",
+        "file": "parmenides"
+      }
+    ],
+    "directory": "plato/parmenides"
+  }
+]

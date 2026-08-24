@@ -1,0 +1,22 @@
+{
+  "id": "mm-001128",
+  "slug": "letter-to-menoeceus",
+  "author": "Epicurus",
+  "kind": "letter",
+  "title": {
+    "sr": "Pismo Menoikeju",
+    "stsl": "Писмо къ Менойкею"
+  },
+  "originalTitle": "Ἐπιστολὴ πρὸς Μενοικέα",
+  "source": {
+    "name": "diogenes-laertius",
+    "reference": "X.122–135"
+  },
+  "citationScheme": "section",
+  "sections": [
+    {
+      "anchor": "1",
+      "file": "letter-to-menoeceus"
+    }
+  ]
+}

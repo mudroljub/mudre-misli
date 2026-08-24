@@ -60,8 +60,8 @@
   {
   "id": "mm-000549",
   "type": "quote",
-  "sr": "Ovo imam: sve što naučih i o čemu promišljah i što uzvišeno s Muzama spoznah; a silno bogatstvo tašti privid ugrabi.",
-  "stsl": "Се имамъ · елика научихъ сѧ и о нихъ размꙑслихъ · и ꙗже съ Мѹсами възвꙑшена познахъ · много же богатьство сѹета похꙑти.",
+  "sr": "Ovo imam: sve što naučih i o čemu promišljah i što uzvišeno s muzama spoznah; a silno bogatstvo tašti privid ugrabi.",
+  "stsl": "Се имамъ · елика научихъ сѧ и о нихъ размꙑслихъ · и ꙗже съ мѹсами възвꙑшена познахъ · много же богатьство сѹета похꙑти.",
   "originalText": "Ταῦτ' ἔχω ὅσσ' ἔμαθον καὶ ἐφρόντισα καὶ μετὰ Μουσῶν σέμν' ἐδάην· τὰ δὲ πολλὰ καὶ ὄλβια τῦφος ἔμαρψεν.",
   "author": "Crates of Thebes",
   "sources": [
@@ -71,12 +71,12 @@
     }
   ]
 },
-  {
+    {
     "id": "mm-000550",
-    "type": "quote",
-    "sr": "Od filozofije mu dopadoše merica lupine i to da ni za šta ne mari.",
-    "stsl": "Отъ любомѫдрьства придѣ емѹ мѣра бобъ и єже ни о чесомьже пєщи сѧ.",
-    "originalText": "ἐκ φιλοσοφίας αὐτῷ περιγένοιτο Θέρμων τε χοῖνιξ καὶ τὸ μηδενὸς μέλειν.",
+    "type": "reported",
+    "sr": "Govorio je da mu od filozofije dopadoše merica boba i bezbrižnost.",
+    "stsl": "Глаголааше · ꙗко отъ любомѫдрьства придѣ емѹ мѣра бобъ и беспечалиѥ.",
+    "originalText": "καὶ ὅτι ἐκ φιλοσοφίας αὐτῷ περιγένοιτο θέρμων τε χοῖνιξ καὶ τὸ μηδενὸς μέλειν.",
     "author": "Crates of Thebes",
     "sources": [
       {
@@ -88,8 +88,8 @@
   {
     "id": "mm-000551",
     "type": "quote",
-    "sr": "Ljubav gasi glad. Ako ne ona, vreme; ako se ni jednim ne možeš poslužiti, omča.",
-    "stsl": "Любꙑ гладъ ѹставлꙗєть · ащє ли ни · врѣмѧ · ащє ли сима не можєши послѹжити сѧ · ѹжь.",
+    "sr": "Ljubavnu strast gasi glad; ako ne, vreme; ako se njima ne možeš poslužiti, omča.",
+    "stsl": "Гладъ любъвь ѹставлꙗєть · ащє ли ни · врѣмѧ · ащє ли сима не можєши послѹжити сѧ · ѹжь.",
     "originalText": "Ἔρωτα παύει λιμός. Εἰ δὲ μή, χρόνος· ἐὰν δὲ τούτοις μὴ δύνῃ χρῆσθαι, βρόχος.",
     "author": "Crates of Thebes",
     "sources": [
@@ -101,7 +101,7 @@
   },
   {
     "id": "mm-000552",
-    "type": "anecdote",
+    "type": "bio",
     "year": -340,
     "sr": "Antisten u Nasleđima kaže da se, videvši u nekoj tragediji Telefa s kotaricom i inače bedno odevenog, naglo okrenuo kiničkoj filozofiji. Unovčio je imanje — jer beše među uglednima — sakupio oko dvesta talenata i razdelio ih građanima.",
     "stsl": "Антісѳенъ въ Прѣємьствихъ глаголєть · ꙗко видѣвъ въ нѣкоєи трагедіи Телєфа · кошьницѫ имѫща и прочєє ѹбого одѣна · ѹстреми сѧ къ кѵничьскомѹ любомѫдрьствѹ · имѣніє своє на срєбро промѣни · бѣ бо отъ нарочитꙑихъ · и събравъ ꙗко двѣстѣ талантъ · гражданомъ ꙗ раздѣли.",
@@ -116,7 +116,7 @@
   },
   {
     "id": "mm-000553",
-    "type": "anecdote",
+    "type": "bio",
     "year": -335,
     "sr": "Toliko se istrajno bavio filozofijom da ga je pominjao i komediograf Filemon, koji kaže: I leti je nosio kosmat ogrtač, da bi se obuzdavao, a zimi dronjak.",
     "stsl": "Толико тръпѣливѣ любомѫдрьствовашє · ꙗко и смѣхотворьць Філємонъ помѧнѫ и · глаголѧ · И въ лѣто носꙗашє косматѫ ризѫ · да въздръжить сѧ · въ зимѫ же рубъ.",
@@ -160,10 +160,10 @@
   },
   {
     "id": "mm-000556",
-    "type": "quote",
-    "sr": "Dotle treba filozofirati dok nam se vojskovođe ne učine goničima magaraca.",
-    "stsl": "Дотолѣ подобаєть любомѫдрьствовати · доньдєже намъ воєводꙑ ꙗко осьлогонителє възмьнѧть сѧ.",
-    "originalText": "μέχρι τούτου δεῖν φιλοσοφεῖν, μέχρι ἂν δόξωσιν οἱ στρατηγοὶ εἶναι ὀνηλάται.",
+    "type": "reported",
+    "sr": "Govorio je da treba filozofirati dokle se vojskovođe ne učine tek goničima magaraca.",
+    "stsl": "Глаголааше · ꙗко подобаєть любомѫдрьствовати доньдєже воєводꙑ тъкъмо осьлогонителє възмьнѧть сѧ.",
+    "originalText": "ἔλεγε δὲ μέχρι τούτου δεῖν φιλοσοφεῖν, μέχρι ἂν δόξωσιν οἱ στρατηγοὶ εἶναι ὀνηλάται.",
     "author": "Crates of Thebes",
     "sources": [
       {
@@ -188,7 +188,7 @@
   },
   {
     "id": "mm-000558",
-    "type": "anecdote",
+    "type": "bio",
     "year": -320,
     "sr": "Osetivši da umire, pevao je samome sebi: Koračaš već, prijatelju grbavi, ideš u Aidove dvore, od starosti poguren.",
     "stsl": "Разѹмѣвъ ꙗко ѹмираєть · припѣваашє къ сєбѣ · Грѧдєши ѹбо · дрѹжє гръбавꙑи · идєши въ Аидовꙑ дворꙑ · старостиѭ съгбєнъ.",
@@ -218,8 +218,8 @@
   {
     "id": "mm-000560",
     "type": "reported",
-    "sr": "Govorio je da su mu otadžbina beslavlje i siromaštvo, neosvojivi za slučaj, i da je Diogenov sugrađanin, nedosežan zavisti.",
-    "stsl": "Глаголаашє · ꙗко отьчьство ємѹ бєсславіє и нищєта · нєприступьна Слѹчаю · и ꙗко Діогєновъ съгражданинъ єсть · зависти нєнавѣтьнъ.",
+    "sr": "Govorio je da su mu beslavlje i siromaštvo otadžbina koju slučaj ne može osvojiti, te da je sugrađanin Diogena, kome zavist ne može nauditi.",
+    "stsl": "Глаголааше · ꙗко отьчьство имать беславиѥ и нищетѫ · ꙗже слѹчаи не можеть плѣнити · и ꙗко Діогеновъ съгражданинъ есть · емѹже зависть не можеть навѣтовати.",
     "originalText": "Ἔχειν δὲ πατρίδα ἀδοξίαν καὶ πενίαν ἀνάλωτα τῇ τύχῃ καὶ Διογένους εἶναι πολίτης ἀνεπιβουλεύτου φθόνῳ.",
     "author": "Crates of Thebes",
     "sources": [

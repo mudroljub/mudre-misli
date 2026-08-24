@@ -1,0 +1,22 @@
+{
+  "id": "mm-001129",
+  "slug": "principal-doctrines",
+  "author": "Epicurus",
+  "kind": "collection",
+  "title": {
+    "sr": "Glavne misli",
+    "stsl": "Главьнꙑꙗ мꙑсли"
+  },
+  "originalTitle": "Κύριαι δόξαι",
+  "source": {
+    "name": "diogenes-laertius",
+    "reference": "X.139–154"
+  },
+  "citationScheme": "section",
+  "sections": [
+    {
+      "anchor": "1",
+      "file": "principal-doctrines"
+    }
+  ]
+}

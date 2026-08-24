@@ -1,0 +1,298 @@
+{
+  "id": "mw-000003",
+  "slug": "euthyphro",
+  "author": "Plato",
+  "kind": "dialogue",
+  "title": {
+    "sr": "Eutifron",
+    "stsl": "Єѵтифрѡнъ"
+  },
+  "originalTitle": "Εὐθύφρων",
+  "source": {
+    "name": "canonical-greekLit",
+    "work": "tlg0059.tlg001"
+  },
+  "citationScheme": "stephanus",
+  "sections": [
+    {
+      "anchor": "2a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "2b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "2c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "2d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "3a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "3b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "3c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "3d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "3e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "4a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "4b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "4c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "4d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "4e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "5a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "5b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "5c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "5d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "5e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "6a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "6b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "6c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "6d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "6e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "7a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "7b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "7c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "7d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "7e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "8a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "8b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "8c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "8d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "8e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "9a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "9b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "9c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "9d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "9e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "10a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "10b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "10c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "10d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "10e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "11a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "11b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "11c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "11d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "11e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "12a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "12b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "12c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "12d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "12e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "13a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "13b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "13c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "13d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "13e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "14a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "14b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "14c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "14d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "14e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "15a",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "15b",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "15c",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "15d",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "15e",
+      "file": "euthyphro"
+    },
+    {
+      "anchor": "16a",
+      "file": "euthyphro"
+    }
+  ]
+}

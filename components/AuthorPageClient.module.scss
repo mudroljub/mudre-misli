@@ -79,3 +79,18 @@
 .subtleLink {
   @include subtle-link;
 }
+
+.workCard {
+  padding: $spacing-md;
+  border: 1px solid $color-border;
+  background: $color-white;
+
+  h4 {
+    margin: 0 0 $spacing-xs;
+  }
+
+  p {
+    color: $color-text-light;
+    font-style: italic;
+  }
+}

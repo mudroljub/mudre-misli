@@ -30,9 +30,9 @@ export default function QuotePageClient({
   const authorName = transliterate(getAuthorName(authorKey, language));
   const isLongForm = isLongFormEntry(quote);
   const activeText = language === 'stsl'
-    ? transliterateStsl(quote.stsl)
-    : transliterateSr(quote.sr);
-  const activeParagraphs = splitLongFormParagraphs(activeText);
+    ? transliterateStsl(quote.stsl || quote.sr || '')
+    : transliterateSr(quote.sr || quote.stsl || '');
+  const activeParagraphs = isLongForm ? splitLongFormParagraphs(activeText) : [];
 
   if (isLongForm) {
     return (

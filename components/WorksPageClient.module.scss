@@ -1,0 +1,30 @@
+@import '../styles/shared';
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: $spacing-md;
+}
+
+.card {
+  padding: $spacing-md;
+  border: 1px solid $color-border;
+  background: $color-white;
+
+  h3 {
+    margin: $spacing-xs 0;
+  }
+}
+
+.author,
+.originalTitle {
+  color: $color-text-light;
+}
+
+.author {
+  margin: 0;
+}
+
+.originalTitle {
+  font-style: italic;
+}

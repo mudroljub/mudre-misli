@@ -1,0 +1,22 @@
+{
+  "id": "mm-001131",
+  "slug": "letter-to-herodotus",
+  "author": "Epicurus",
+  "kind": "letter",
+  "title": {
+    "sr": "Pismo Herodotu",
+    "stsl": "Писмо къ Херодотѹ"
+  },
+  "originalTitle": "Ἐπιστολὴ πρὸς Ἡρόδοτον",
+  "source": {
+    "name": "diogenes-laertius",
+    "reference": "X.35–83"
+  },
+  "citationScheme": "section",
+  "sections": [
+    {
+      "anchor": "1",
+      "file": "letter-to-herodotus"
+    }
+  ]
+}

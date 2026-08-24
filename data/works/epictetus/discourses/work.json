@@ -1,0 +1,674 @@
+{
+  "id": "mw-000008",
+  "slug": "discourses",
+  "author": "Epictetus",
+  "kind": "treatise",
+  "title": {
+    "sr": "Razgovori",
+    "stsl": "Разговори"
+  },
+  "originalTitle": "Διατριβαί",
+  "source": {
+    "name": "canonical-greekLit",
+    "work": "tlg0557.tlg001"
+  },
+  "citationScheme": "book-chapter",
+  "sections": [
+    {
+      "anchor": "I.1",
+      "title": {
+        "sr": "O onome što je do nas i što nije do nas",
+        "stsl": "O onome što je do nas i što nije do nas"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.2",
+      "title": {
+        "sr": "Kako čovek može u svemu sačuvati ono što dolikuje njegovoj ličnosti",
+        "stsl": "Kako čovek može u svemu sačuvati ono što dolikuje njegovoj ličnosti"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.3",
+      "title": {
+        "sr": "Kako se od toga da je Bog otac ljudi može doći do onoga što sledi",
+        "stsl": "Kako se od toga da je Bog otac ljudi može doći do onoga što sledi"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.4",
+      "title": {
+        "sr": "O napredovanju",
+        "stsl": "O napredovanju"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.5",
+      "title": {
+        "sr": "Protiv akademičara",
+        "stsl": "Protiv akademičara"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.6",
+      "title": {
+        "sr": "O promislu",
+        "stsl": "O promislu"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.7",
+      "title": {
+        "sr": "O koristi promenljivih, pretpostavljenih i sličnih slova",
+        "stsl": "O koristi promenljivih, pretpostavljenih i sličnih slova"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.8",
+      "title": {
+        "sr": "O tome da moći nisu bezopasne za neobrazovane",
+        "stsl": "O tome da moći nisu bezopasne za neobrazovane"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.9",
+      "title": {
+        "sr": "Kako se od toga da smo srodni Bogu može doći do onoga što sledi",
+        "stsl": "Kako se od toga da smo srodni Bogu može doći do onoga što sledi"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.10",
+      "title": {
+        "sr": "O onima koji su se u Rimu revnosno trudili oko napredovanja",
+        "stsl": "O onima koji su se u Rimu revnosno trudili oko napredovanja"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.11",
+      "title": {
+        "sr": "O ljubavi prema svojima",
+        "stsl": "O ljubavi prema svojima"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.12",
+      "title": {
+        "sr": "O zadovoljstvu",
+        "stsl": "O zadovoljstvu"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.13",
+      "title": {
+        "sr": "Kako sve činiti tako da bude ugodno bogovima",
+        "stsl": "Kako sve činiti tako da bude ugodno bogovima"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.14",
+      "title": {
+        "sr": "Da božanstvo sve motri",
+        "stsl": "Da božanstvo sve motri"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.15",
+      "title": {
+        "sr": "Šta obećava filozofija",
+        "stsl": "Šta obećava filozofija"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.16",
+      "title": {
+        "sr": "O promislu",
+        "stsl": "O promislu"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.17",
+      "title": {
+        "sr": "Kako je slovesnost nužna",
+        "stsl": "Kako je slovesnost nužna"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.18",
+      "title": {
+        "sr": "Da se ne treba srditi na one koji greše",
+        "stsl": "Da se ne treba srditi na one koji greše"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.19",
+      "title": {
+        "sr": "Kako se treba držati prema tiranima",
+        "stsl": "Kako se treba držati prema tiranima"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.20",
+      "title": {
+        "sr": "Kako slovesnost može motriti samu sebe",
+        "stsl": "Kako slovesnost može motriti samu sebe"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.21",
+      "title": {
+        "sr": "Onima koji hoće da im se dive",
+        "stsl": "Onima koji hoće da im se dive"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.22",
+      "title": {
+        "sr": "O pretpojmovima",
+        "stsl": "O pretpojmovima"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.23",
+      "title": {
+        "sr": "Protiv Epikura",
+        "stsl": "Protiv Epikura"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.24",
+      "title": {
+        "sr": "Kako se treba boriti s teškoćama",
+        "stsl": "Kako se treba boriti s teškoćama"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.25",
+      "title": {
+        "sr": "O istome",
+        "stsl": "O istome"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.26",
+      "title": {
+        "sr": "Koji je zakon života?",
+        "stsl": "Koji je zakon života?"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.27",
+      "title": {
+        "sr": "Na koliko se načina javljaju predstave i kakva sredstva treba imati spremna protiv njih",
+        "stsl": "Na koliko se načina javljaju predstave i kakva sredstva treba imati spremna protiv njih"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.28",
+      "title": {
+        "sr": "Da se ne treba srditi na ljude; i koje su stvari male, a koje velike među ljudima",
+        "stsl": "Da se ne treba srditi na ljude; i koje su stvari male, a koje velike među ljudima"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.29",
+      "title": {
+        "sr": "O postojanosti",
+        "stsl": "O postojanosti"
+      },
+      "file": "book-i"
+    },
+    {
+      "anchor": "II.1",
+      "title": {
+        "sr": "Da se smelost ne protivi oprezu",
+        "stsl": "Da se smelost ne protivi oprezu"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.2",
+      "title": {
+        "sr": "O nepomućenosti",
+        "stsl": "O nepomućenosti"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.3",
+      "title": {
+        "sr": "Šta je građa dobroga čoveka i u čemu se najviše treba vežbati",
+        "stsl": "Šta je građa dobroga čoveka i u čemu se najviše treba vežbati"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.4",
+      "title": {
+        "sr": "Protiv čoveka koji je bio zatečen u preljubi",
+        "stsl": "Protiv čoveka koji je bio zatečen u preljubi"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.5",
+      "title": {
+        "sr": "Kako se veličina duha može sjediniti s pažnjom",
+        "stsl": "Kako se veličina duha može sjediniti s pažnjom"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.6",
+      "title": {
+        "sr": "O ravnodušnim stvarima",
+        "stsl": "O ravnodušnim stvarima"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.7",
+      "title": {
+        "sr": "Kako se treba služiti proricanjem",
+        "stsl": "Kako se treba služiti proricanjem"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.8",
+      "title": {
+        "sr": "Šta je suštastvo dobra",
+        "stsl": "Šta je suštastvo dobra"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.9",
+      "title": {
+        "sr": "Kako se iz onoga što čovek jeste mogu izvesti njegove dužnosti",
+        "stsl": "Kako se iz onoga što čovek jeste mogu izvesti njegove dužnosti"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.10",
+      "title": {
+        "sr": "Kako se iz imena koja nosimo mogu izvesti dela koja im odgovaraju",
+        "stsl": "Kako se iz imena koja nosimo mogu izvesti dela koja im odgovaraju"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.11",
+      "title": {
+        "sr": "Šta je početak filozofije",
+        "stsl": "Šta je početak filozofije"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.12",
+      "title": {
+        "sr": "O razgovornom umeću",
+        "stsl": "O razgovornom umeću"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.13",
+      "title": {
+        "sr": "O teskobi",
+        "stsl": "O teskobi"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.14",
+      "title": {
+        "sr": "Nasonu",
+        "stsl": "Nasonu"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.15",
+      "title": {
+        "sr": "Onima koji tvrdoglavo ostaju pri svojim odlukama",
+        "stsl": "Onima koji tvrdoglavo ostaju pri svojim odlukama"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.16",
+      "title": {
+        "sr": "Da se ne vežbamo u primeni sudova o dobru i zlu",
+        "stsl": "Da se ne vežbamo u primeni sudova o dobru i zlu"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.17",
+      "title": {
+        "sr": "Kako treba primenjivati predpojmove na pojedinačne stvari",
+        "stsl": "Kako treba primenjivati predpojmove na pojedinačne stvari"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.18",
+      "title": {
+        "sr": "Kako se treba boriti protiv predstava",
+        "stsl": "Kako se treba boriti protiv predstava"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.19",
+      "title": {
+        "sr": "Protiv onih koji prihvataju filozofske pouke samo da bi o njima govorili",
+        "stsl": "Protiv onih koji prihvataju filozofske pouke samo da bi o njima govorili"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.20",
+      "title": {
+        "sr": "Protiv epikurejaca i akademičara",
+        "stsl": "Protiv epikurejaca i akademičara"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.21",
+      "title": {
+        "sr": "O nedoslednosti",
+        "stsl": "O nedoslednosti"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.22",
+      "title": {
+        "sr": "O prijateljstvu",
+        "stsl": "O prijateljstvu"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.23",
+      "title": {
+        "sr": "Protiv Epikura",
+        "stsl": "Protiv Epikura"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.24",
+      "title": {
+        "sr": "Kako se treba boriti s teškoćama",
+        "stsl": "Kako se treba boriti s teškoćama"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.25",
+      "title": {
+        "sr": "Kako je nužna logika",
+        "stsl": "Kako je nužna logika"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.26",
+      "title": {
+        "sr": "Šta je svojstveno zabludi",
+        "stsl": "Šta je svojstveno zabludi"
+      },
+      "file": "book-ii"
+    },
+    {
+      "anchor": "III.1",
+      "title": {
+        "sr": "O ukrašavanju",
+        "stsl": "O ukrašavanju"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.2",
+      "title": {
+        "sr": "U čemu se treba vežbati onaj koji hoće da napreduje, i da zanemarujemo ono glavno",
+        "stsl": "U čemu se treba vežbati onaj koji hoće da napreduje, i da zanemarujemo ono glavno"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.3",
+      "title": {
+        "sr": "Šta je građa valjanoga čoveka i u čemu se ponajviše treba vežbati",
+        "stsl": "Šta je građa valjanoga čoveka i u čemu se ponajviše treba vežbati"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.4",
+      "title": {
+        "sr": "Onome koji je u pozorištu nepristojno pokazao svoju naklonost",
+        "stsl": "Onome koji je u pozorištu nepristojno pokazao svoju naklonost"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.5",
+      "title": {
+        "sr": "Onima koji odlaze zbog bolesti",
+        "stsl": "Onima koji odlaze zbog bolesti"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.6",
+      "title": {
+        "sr": "Različita pitanja",
+        "stsl": "Različita pitanja"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.7",
+      "title": {
+        "sr": "Upravitelju Epikurejcu",
+        "stsl": "Upravitelju Epikurejcu"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.8",
+      "title": {
+        "sr": "Kako se treba vežbati protiv predstava",
+        "stsl": "Kako se treba vežbati protiv predstava"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.10",
+      "title": {
+        "sr": "Kako treba podnositi bolesti",
+        "stsl": "Kako treba podnositi bolesti"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.11",
+      "title": {
+        "sr": "Različite izreke",
+        "stsl": "Različite izreke"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.12",
+      "title": {
+        "sr": "O vežbanju",
+        "stsl": "O vežbanju"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.13",
+      "title": {
+        "sr": "Šta je samoća i ko je samotan",
+        "stsl": "Šta je samoća i ko je samotan"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.14",
+      "title": {
+        "sr": "Različite izreke",
+        "stsl": "Različite izreke"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.15",
+      "title": {
+        "sr": "Da ništa ne treba preduzimati bez promišljanja",
+        "stsl": "Da ništa ne treba preduzimati bez promišljanja"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.16",
+      "title": {
+        "sr": "Da treba biti oprezan pri druženju",
+        "stsl": "Da treba biti oprezan pri druženju"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.17",
+      "title": {
+        "sr": "O Božjem proviđenju",
+        "stsl": "O Božjem proviđenju"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.18",
+      "title": {
+        "sr": "Da se ne treba uznemiravati zbog vesti",
+        "stsl": "Da se ne treba uznemiravati zbog vesti"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.19",
+      "title": {
+        "sr": "Kako se prost čovek i filozof odnose prema svakoj stvari",
+        "stsl": "Kako se prost čovek i filozof odnose prema svakoj stvari"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.20",
+      "title": {
+        "sr": "Da se od spoljašnjih stvari može izvući korist",
+        "stsl": "Da se od spoljašnjih stvari može izvući korist"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.21",
+      "title": {
+        "sr": "O onima koji hoće da budu učitelji pre nego što su spremni",
+        "stsl": "O onima koji hoće da budu učitelji pre nego što su spremni"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.22",
+      "title": {
+        "sr": "O kiničkom pozivu",
+        "stsl": "O kiničkom pozivu"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.23",
+      "title": {
+        "sr": "Onima koji čitaju i raspravljaju radi pokazivanja",
+        "stsl": "Onima koji čitaju i raspravljaju radi pokazivanja"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.24",
+      "title": {
+        "sr": "Da se ne treba vezivati za ono što nije do nas",
+        "stsl": "Da se ne treba vezivati za ono što nije do nas"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.25",
+      "title": {
+        "sr": "Onima koji ne istrajavaju u onome što su odlučili",
+        "stsl": "Onima koji ne istrajavaju u onome što su odlučili"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.26",
+      "title": {
+        "sr": "Onima koji se boje oskudice",
+        "stsl": "Onima koji se boje oskudice"
+      },
+      "file": "book-iii"
+    },
+    {
+      "anchor": "IV.1",
+      "title": {
+        "sr": "O slobodi",
+        "stsl": "O slobodi"
+      },
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.2",
+      "title": {
+        "sr": "O druženju",
+        "stsl": "O druženju"
+      },
+      "file": "book-iv"
+    }
+  ]
+}

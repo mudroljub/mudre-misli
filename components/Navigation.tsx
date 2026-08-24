@@ -17,6 +17,7 @@ export default function Navigation({ language }: NavigationProps) {
   const navItems = [
     { href: `/${language}`, label: t.navHome },
     { href: `/${language}/filozofi`, label: t.navPhilosophers },
+    { href: `/${language}/dela`, label: t.navWorks },
     { href: `/${language}/recnik`, label: t.navDictionary },
     { href: `/${language}/o-projektu`, label: t.navAbout },
   ];
