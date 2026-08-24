@@ -19,7 +19,9 @@
     "build:work-data": "npm-run-all --serial build:works build:work-originals",
     "build:data": "npm-run-all --parallel build:quotes build:work-data",
     "build:sources": "node tools/build-source-map.mjs",
-    "audit:duplicates": "node tools/audit-duplicates.mjs"
+    "audit:duplicates": "node tools/audit-duplicates.mjs",
+    "audit:work-anchors": "node tools/audit-work-anchors.mjs",
+    "align:work-anchors": "node tools/apply-work-anchor-map.mjs"
   },
   "dependencies": {
     "classnames": "^2.5.1",

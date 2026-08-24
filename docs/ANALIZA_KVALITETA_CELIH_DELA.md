@@ -1,5 +1,8 @@
 # Početna ocena prevoda čitavih dela
 
+Pojedinačni problemi pronađeni tokom daljeg pregleda vode se u
+`docs/PROBLEMI_CELIH_DELA.md`.
+
 ## Obim i metod
 
 Pregled obuhvata svih 12 dela u `data/works`. Kod dela podeljenih na više
@@ -40,17 +43,19 @@ ne popravi, niža ocena tačnosti kod tih dela mora se čitati kao privremena.
 
 ### 1. Najpre popraviti sidra, pa tek onda prevod
 
-Najozbiljniji nalaz je u *Razgovorima*. Uzorak `II.12` i `IV.2` ne odgovara
-grčkom tekstu koji je generator vezao za ta sidra. To nije sitno pomeranje od
-jedne rečenice: prevod govori o drugom delu rasprave. Zato *Razgovore* ne treba
-redom prepravljati prema sada prikazanom izvorniku dok se ne proveri podela
-starih Markdown fajlova prema grčkim knjigama i poglavljima.
+Najozbiljniji nalaz je u *Razgovorima*. Naknadna potpuna provera pokazala je da
+`II.12` ipak počinje odgovarajućim grčkim sadržajem, ali `IV.2` zaista govori o
+drugoj raspravi: umesto poglavlja *O druženju* donosi slobodnu preradu teme
+prijateljstva iz `II.22`. Pored toga, iz manifesta nedostaju čitava poglavlja
+`I.30`, `III.9` i `IV.3`–`IV.13`. Detalji se vode u
+`docs/PROBLEMI_CELIH_DELA.md`.
 
 Kod Platona je problem blaži, ali čest: prevodni odeljak ponekad počinje ranije
-ili završava kasnije od odgovarajuće Stefanove oznake. Jasno se vidi u uzorku
-*Iona* (`536a`, `542b`), *Eutifrona* (`16a`) i *Lisida* (`213c`). Sadržaj je
-uglavnom prisutan i smislen, ali poređenje odeljak-na-odeljak daje lažan utisak
-izostavljanja ili dodavanja.
+ili završava kasnije od odgovarajuće Stefanove oznake. *Ion* je u međuvremenu
+poravnat u oba jezika; pri tome je potvrđeno stvarno izostavljanje replika u
+`540a`. *Eutifron* je u međuvremenu potpuno poravnat; otvoreni uočeni primer
+ostaje *Lisid* (`213c`), a ostala nepregledana dela tek treba sistematski
+proveriti.
 
 ### 2. Jezička osnova je znatno bolja od tehničkog poravnanja
 

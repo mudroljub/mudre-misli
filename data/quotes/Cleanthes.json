@@ -2,9 +2,9 @@
   {
     "id": "mm-000489",
     "type": "bio",
-    "year": -320,
-    "sr": "Kleant, sin Fanijin, bio je iz Asa.",
-    "stsl": "Клеантъ · сынъ Фаниинъ · отъ Аса бѣ ·",
+    "year": -331,
+    "sr": "Kleant, sin Fanije, bio je iz Asa.",
+    "stsl": "Клеантъ · сынъ Фаниинъ · отъ Асса бѣ.",
     "originalText": "Κλεάνθης Φανίου Ἄσσιος.",
     "author": "Cleanthes",
     "sources": [
@@ -17,10 +17,10 @@
   {
     "id": "mm-000490",
     "type": "bio",
-    "year": -305,
-    "sr": "U mladosti je bio bokser.",
-    "stsl": "Въ юности пѧстьникъ бѣ ·",
-    "originalText": "Οὗτος πρῶτον ἦν πύκτης.",
+    "year": -315,
+    "sr": "Prema Antistenu u Nasleđivanjima, isprva je bio bokser.",
+    "stsl": "Антисѳенъ въ Прѣемьствахъ глаголеть · ꙗко испрьва пѧстьникъ бѣ.",
+    "originalText": "Οὗτος πρῶτον ἦν πύκτης, ὡς φησιν Ἀντισθένης ἐν Διαδοχαῖς.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -33,9 +33,9 @@
     "id": "mm-000491",
     "type": "bio",
     "year": -300,
-    "sr": "Došavši u Atinu sa četiri drahme i pridruživši se Zenonu, filozofirao je veoma plemenito i ostao pri istim učenjima.",
-    "stsl": "Прішєдъ въ Аѳинꙑ съ чєтꙑри драхмꙑ і прілѣпивъ сѧ Зєнонѹ · любомѫдрствоваашє плємєньно і оста при тѣхъждє ѹчєніихъ.",
-    "originalText": "Ἀφικόμενος δ' εἰς Ἀθήνας τέσσαρας ἔχων δραχμάς καὶ Ζήνωνι παραβαλὼν ἐφιλοσόφησε γενναιότατα καὶ ἐπὶ τῶν αὐτῶν ἔμεινε δογμάτων.",
+    "sr": "Kako neki kažu, dođe u Atinu sa svega četiri drahme, pristupi Zenonu, predano se posveti filozofiji i ostade dosledan istim učenjima.",
+    "stsl": "Ꙗкоже нѣціи глаголѭть · въ Аѳинꙑ пріиде · четꙑри токъмо драхмꙑ имꙑи · и къ Зенонѹ пристѫпивъ · доблѥ мѫдролюбьствова · и при тѣхъ же ѹчениихъ прѣбꙑсть.",
+    "originalText": "Ἀφικόμενος δ’ εἰς Ἀθήνας τέσσαρας ἔχων δραχμάς, καθά φασί τινες, καὶ Ζήνωνι παραβαλὼν ἐφιλοσόφησε γενναιότατα καὶ ἐπὶ τῶν αὐτῶν ἔμεινε δογμάτων.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -47,9 +47,9 @@
   {
     "id": "mm-000492",
     "type": "bio",
-    "year": -300,
-    "sr": "Bio je veoma siromašan te je odlučio da radi za platu; noću je vadio vodu u baštama, a danju se vežbao u razgovorima; zato je nazvan Ântlac (Izvaditelj vode iz bunara).",
-    "stsl": "Бѣ вєльми ѹбогъ тѣмьжє рѣши да дѣлаєть за платѹ · ношіѭ важдаашє водѹ въ вртограх є · а дьньмь ѹпражнꙗашє сѧ въ бєсѣдахъ · сєго ради нарєчєнъ Фреантлєсъ ·",
+    "year": -299,
+    "sr": "Pročuo se po marljivosti: budući veoma siromašan, latio se rada za nadnicu. Noću je crpao vodu po vrtovima, a danju se vežbao u raspravama; zato ga prozvaše Freantlom, što znači onaj koji crpe iz bunara.",
+    "stsl": "Прослѹ сѧ прилѣжаниемь · ѕѣло бо ѹбогъ сꙑи · на мьздьно дѣло ѹстреми сѧ · Ноштиѭ въ вртоградѣхъ водѫ почръпаше · дьньмь же въ словесѣхъ ѹпражнꙗаше сѧ · сего ради Фреантль · сирѣчь иже отъ кладѧзѧ почръпаеть · нареченъ бꙑсть.",
     "originalText": "Διεβοήθη δ' ἐπὶ φιλοπονίᾳ, ὅς γε πένης ὢν ἄγαν ὥρμησε μισθοφορεῖν· καὶ νύκτωρ μὲν ἐν τοῖς κήποις ἤντλει, μεθ' ἡμέραν δ' ἐν τοῖς λόγοις ἐγυμνάζετο· ὅθεν καὶ Φρεάντλης ἐκλήθη.",
     "author": "Cleanthes",
     "sources": [
@@ -62,9 +62,9 @@
   {
     "id": "mm-000493",
     "type": "anecdote",
-    "year": -300,
-    "sr": "Kažu da je doveden na sud da objasni kako živi tako dobro iako je siromašan; potom je oslobođen, dovevši kao svedoke i baštovana kod koga je vadio vodu i ženu koja prodaje brašno kod koje je mleo.",
-    "stsl": "Рєкѫть ꙗко вєдєнъ бꙑстъ на сѫдъ да обꙗсньть како живить тако добрѣ ащє є ѹбогъ · послѣди освободі сѧ · прівєдъ ꙗko свѣдѣтєлꙗ і вртоградара ѹ нєгожє важдаашє водѹ і жєнѹ ꙗжє продаашє мѫкѹ ѹ нєꙗжє тєрꙗашє.",
+    "year": -298,
+    "sr": "Kažu da je izveden pred sud da položi račun od čega živi i kako se održava tako krepak. Potom ga oslobodiše kada kao svedoke dovede vrtlara kod koga je crpao vodu i prodavačicu ječmenog brašna kojoj je mleo žito.",
+    "stsl": "Глаголѭть же ꙗко и на сѫдиште веденъ бꙑсть · да повѣсть отъкѫдѹ · толико крѣпъкъ сꙑи · живеть · Послѣди же оправданъ бꙑсть · свѣдѣтелѧ приведъ вртоградара · ѹ негоже водѫ почръпаше · и мѫкопродавицѫ · ѹ неѩже жито мѣлꙗаше.",
     "originalText": "Φασὶ δ' αὐτὸν καὶ εἰς δικαστήριον ἀχθῆναι, λόγους δώσοντα πόθεν ἐς τοσοῦτον εὐέκτης ὢν διαζῇ· ἔπειτ' ἀποφυγεῖν, τόν τε κηπουρὸν μάρτυρα παρασχόντα παρ' ὃν ἤντλει, καὶ τὴν ἀλφιτόπωλιν παρ' ᾗ τὰ ἄλφιτα ἔπεττεν.",
     "author": "Cleanthes",
     "sources": [
@@ -76,10 +76,10 @@
   },
   {
     "id": "mm-000494",
-    "type": "quote",
-    "sr": "Zar samo vadam vodu? Šta onda? Zar ne kopam? Zar ne zalivam i ne radim sve zbog filozofije?",
-    "stsl": "Єда токмо водѹ важдѫ · Что ѹбо · Єда нє копаѭ · Єда нє заліваѭ і нє творѭ всє ради любомѫдріꙗ.",
-    "originalText": "ἀντλῶ γὰρ μόνον; τί δ'; οὐχὶ σκάπτω; τί δ'; οὐκ ἄρδω καὶ πάντα ποιῶ φιλοσοφίας ἕνεκα;",
+    "type": "reported",
+    "sr": "Kažu da ga Antigon, koji je slušao njegova predavanja, upita zašto crpe vodu. Kleant odgovori: Zar samo crpem vodu? A zar ne kopam? Zar ne zalivam? Zar ne radim sve radi filozofije?",
+    "stsl": "Глаголѭть же ꙗко Антигонъ · слѹшатель его сꙑи · въпроси и почто водѫ почръпаеть · Клеантъ же отъвѣща · Єда водѫ токъмо почръпаѭ · Что же · не копаѭ ли · не напаꙗѭ ли · и не вьсꙗ ли мѫдролюбьства ради творѭ.",
+    "originalText": "φασὶ δὲ καὶ Ἀντίγονον αὐτοῦ πυθέσθαι ὄντα ἀκροατήν, διὰ τί ἀντλεῖ· τὸν δ’ εἰπεῖν· ἀντλῶ γὰρ μόνον; τί δ’; οὐχὶ σκάπτω; τί δ’; οὐκ ἄρδω καὶ πάντα ποιῶ φιλοσοφίας ἕνεκα;",
     "author": "Cleanthes",
     "sources": [
       {
@@ -91,8 +91,8 @@
   {
     "id": "mm-000495",
     "type": "reported",
-    "sr": "Jednom sakupivši novac, doneo ga je među prijatelje i rekao: 'Kleant bi mogao da hrani i drugog Kleanta, kad bi hteo; oni koji imaju odakle da se hrane traže sredstva od drugih, iako se opušteno bave filozofijom.' Zato se Kleant zvao i drugi Heraklo.",
-    "stsl": "Єдиноѭ съвъкѹпивъ срєбро · прінєсє га посрєдѣ дрѹгъ і рєчє · Клєантъ можаашє бꙑ пітати і вътораго Клєанта · ащє бꙑ хотъѣлъ · ꙇжє имѣѭть отъкѫдѹ пітаті сѧ · прѣпꙑтаѭть потърѣбꙑ отъ инѣхъ · ащє і нєрадиво занімаѭть сѧ любомѫдріємь · Сєго ради Клєантъ нарєчє сѧ і въторꙑи Хєраклъ.",
+    "sr": "Jednom sakupi sitan novac, donese ga među poznanike i reče: Kleant bi, kad bi hteo, mogao izdržavati i drugog Kleanta; oni pak koji imaju od čega da se izdržavaju traže potrepštine od drugih, premda se filozofijom bave bez napora. Zato Kleanta prozvaše i drugim Heraklom.",
+    "stsl": "Единоѭ събьравъ пѣнѧѕь · посрѣдѣ знаемꙑихъ принесе и рече · Клеантъ и инаго Клеанта препитати можеть · аще хощеть · они же · имѫще отъкѫдѹ питати сѧ · отъ инѣхъ потрѣбьнаꙗ ищѫть · аще и безъ трѹда мѫдролюбьствѹѭть · Сего ради и вторꙑи Хераклъ Клеантъ нареченъ бꙑсть.",
     "originalText": "Καί ποτ' ἀθροισθὲν τὸ κέρμα ἐκόμισεν εἰς μέσον τῶν γνωρίμων καί φησι, Κλεάνθης μὲν καὶ ἄλλον Κλεάνθην δύναιτ' ἂν τρέφειν, εἰ βούλοιτο· οἱ δ' ἔχοντες ὅθεν τραφήσονται παρ' ἑτέρων ἐπιζητοῦσι τὰ ἐπιτήδεια, καίπερ ἀνειμένως φιλοσοφοῦντες. Ὅθεν δὴ καὶ δεύτερος Ἡρακλῆς ὁ Κλεάνθης ἐκαλεῖτο.",
     "author": "Cleanthes",
     "sources": [
@@ -104,10 +104,10 @@
   },
   {
     "id": "mm-000496",
-    "type": "quote",
-    "sr": "Zbog toga malo grešim.",
-    "stsl": "Сєго ради мало согрѣшаѭ.",
-    "originalText": "Διὰ τοῦτο ὀλίγα ἁμαρτάνω.",
+    "type": "reported",
+    "sr": "Kada mu jednom prebaciše da je kukavica, odgovori: Upravo zato malo grešim.",
+    "stsl": "Единоѭ же · ꙗко страшьливъ · ѹкоренъ · отъвѣща · Сего ради мало съгрѣшаѭ.",
+    "originalText": "Καί ποτ’ ὀνειδιζόμενος ὡς δειλός, διὰ τοῦτο, εἶπεν, ὀλίγα ἁμαρτάνω.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -119,8 +119,8 @@
   {
     "id": "mm-000497",
     "type": "reported",
-    "sr": "Često je i sebe ukorio; kad je Ariston to čuo, rekao je: 'Koga ukoriš?' A on se nasmejao i rekao: 'Starca koji ima sedih vlasa, ali ne i uma.'",
-    "stsl": "Часто і сєбє ѹкорꙗашє · єгда Арістонъ слꙑша то · рєчє · Кого ѹкорꙗєши · А онъ насмѣꙗ сѧ і рєчє · Старьца ꙇжє імать сѣдінѹ власъ · нъ нє і ѹмъ.",
+    "sr": "Često je korio i samoga sebe. Kada to Ariston ču, upita: Koga koriš? Kleant se nasmeja i odgovori: Starca sede kose, ali bez pameti.",
+    "stsl": "Чѧсто и себе ѹкорꙗаше · Се Арістонъ слꙑшавъ · въпроси · Кого ѹкорꙗеши · Клеантъ же посмѣꙗвъ сѧ · отъвѣща · Старьца · сѣдꙑ власы имѫшта · ѹма же не имѫшта.",
     "originalText": "Πολλάκις δὲ καὶ ἑαυτῷ ἐπέπληττεν· ὧν ἀκούσας Ἀρίστων, Τίνι, ἔφη, ἐπιπλήττεις; Καὶ ὃς γελάσας, Πρεσβύτῃ, φησί, πολιὰς μὲν ἔχοντι, νοῦν δὲ μή.",
     "author": "Cleanthes",
     "sources": [
@@ -132,10 +132,10 @@
   },
   {
     "id": "mm-000498",
-    "type": "quote",
-    "sr": "Prestani i ne kukaј; jer ako i rečima uništava dužnost, delima je ipak postavlja.",
-    "stsl": "Прєстани і нє кѹкаи · ащє бо і словєсꙑ ѹништаваєть дольжьность · дѣлꙑ ѭ паче ѹставлꙗєть.",
-    "originalText": "Παῦσαι καὶ μὴ ψέγε· εἰ γὰρ καὶ λόγῳ τὸ καθῆκον ἀναιρεῖ, τοῖς γοῦν ἔργοις αὐτὸ τιθεῖ.",
+    "type": "reported",
+    "sr": "Kada neko reče da Arkesilaj ne čini ono što treba, Kleant odgovori: Prestani i ne kudi ga. Ako rečima i ukida dužnost, delima je ipak potvrđuje. Arkesilaj mu reče: Nećeš me pridobiti laskanjem. Kleant odgovori: Da, laskam ti time što tvrdim da jedno govoriš, a drugo činiš.",
+    "stsl": "Нѣкомѹ рекъшѹ · ꙗко Аркесілаи длъжьнаꙗ не творить · Клеантъ отъвѣща · Прѣстани и не ѹкори и · аще бо словомь длъжьноѥ отъемлеть · дѣлꙑ обаче ѥ ѹтвръждаеть · Аркесілаи же рече · Лестьми мене не приобрѧщеши · Клеантъ же отъвѣща · Еи · лъщѫ тѧ глаголѧ · ꙗко ина глаголеши · ина же твориши.",
+    "originalText": "Εἰπόντος δέ τινος Ἀρκεσίλαον μὴ ποιεῖν τὰ δέοντα, παῦσαι, ἔφη, καὶ μὴ ψέγε· εἰ γὰρ καὶ λόγῳ τὸ καθῆκον ἀναιρεῖ, τοῖς γοῦν ἔργοις αὐτὸ τίθει. καὶ ὁ Ἀρκεσίλαος, οὐ κολακεύομαι, φησί· πρὸς ὃν ὁ Κλεάνθης, ναί, ἔφη, σὲ κολακεύω φάμενος ἄλλα μὲν λέγειν, ἕτερα δὲ ποιεῖν.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -146,10 +146,10 @@
   },
   {
     "id": "mm-000499",
-    "type": "quote",
-    "sr": "Tišina, tišina, lagan korak.",
-    "stsl": "Тішіна · тішіна · лєгъкъ стєпь.",
-    "originalText": "Σῖγα, σῖγα, λεπτὸν ἴχνος.",
+    "type": "reported",
+    "sr": "Upitan šta da savetuje sinu, Kleant navede stih iz Elektre: Ćuti, ćuti; neka ti korak bude lak.",
+    "stsl": "Въпрошенъ нѣкꙑимь · что сынѹ съвѣщати подобаѥть · Клеантъ Електрино слово рече · Млъчи · млъчи · легъкъ ти стѫпъ да бѫдеть.",
+    "originalText": "Ἐρομένου τινὸς τί ὑποτίθεσθαι δεῖ τῷ υἱῷ, τὸ τῆς Ἠλέκτρας, ἔφη· σῖγα, σῖγα, λεπτὸν ἴχνος.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -160,10 +160,10 @@
   },
   {
     "id": "mm-000500",
-    "type": "quote",
-    "sr": "Iz dobre krvi si, drago dete.",
-    "stsl": "Отъ добрꙑꙗ крьві єсѝ · драго дѣтѧ.",
-    "originalText": "Αἵματός εἰς ἀγαθοῖο, φίλον τέκος.",
+    "type": "reported",
+    "sr": "Kada jedan Spartanac reče da je trud dobar, Kleant se obradova i odgovori Homerovim stihom: Dobre si krvi, drago dete.",
+    "stsl": "Лаконѹ нѣкоемѹ рекъшѹ · ꙗко трѹдъ добро єсть · Клеантъ възвесели сѧ и рече · Добрыꙗ кръве еси · любо чадо.",
+    "originalText": "Λάκωνός τινος εἰπόντος ὅτι ὁ πόνος ἀγαθόν, διαχυθεὶς φησιν· αἵματός εἰς ἀγαθοῖο, φίλον τέκος.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -174,10 +174,10 @@
   },
   {
     "id": "mm-000501",
-    "type": "quote",
-    "sr": "Ti drži svoje podele na delove, mladiću; ali analogni izrazi ne označavaju uvek analogno stvari.",
-    "stsl": "Тꙑ дрьжі своꙗ раздѣлєніꙗ на части · ѹношє · нъ аналогічьніи ізразі нє означаваѭть вьсєгда аналогічьно вєщі.",
-    "originalText": "Σὺ μὲν τοὺς διαμηρισμοὺς ἔχε, μειράκιον· αἱ δ' ἀνάλογοι φωναὶ τὰ ἀνάλογα οὐ πάντως σημαίνουσι πράγματα.",
+    "type": "reported",
+    "sr": "Hekaton u Izrekama pripoveda da jedan lep mladić reče: Ako onaj koji se udara po trbuhu trbuši, onda onaj koji se udara po bedrima bedri. Kleant odgovori: Ti se, mladiću, drži svojih međubedrenja; slično skovane reči ne označavaju uvek slične stvari.",
+    "stsl": "Хекатонъ въ Изречениихъ глаголеть · краснѹ нѣкоемѹ ѹношѹ рекъшѹ · Аще иже чрево биѥ · чревить · то иже стегна биѥ · стегнить · Клеантъ отъвѣща · Тꙑ ѹбо · ѹноше · своꙗ междѹстегнениꙗ имѣи · подобьнаꙗ же словеса не вьсегда подобьнаꙗ дѣла знаменаѭть.",
+    "originalText": "Φησὶ δ’ ὁ Ἑκάτων ἐν ταῖς Χρείαις, εὐμόρφου μειρακίου εἰπόντος· εἰ ὁ εἰς τὴν γαστέρα τύπτων γαστρίζει, καὶ ὁ εἰς τοὺς μηροὺς τύπτων μηρίζει· ἔφη· σὺ μέντοι τοὺς διαμηρισμοὺς ἔχε, μειράκιον· αἱ δ’ ἀνάλογοι φωναὶ τὰ ἀνάλογα οὐ πάντως σημαίνουσι πράγματα.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -190,8 +190,8 @@
     "id": "mm-000502",
     "type": "anecdote",
     "year": -280,
-    "sr": "Kad je pesnik Sosithej u pozorištu u njegovom prisustvu rekao: 'Koje Kleantova glupost goni kao volove', ostao je u istom položaju; čudnim ga gledajući slušaoci aplaudirali su njemu, a Sositheja isterali. Kad mu se ovaj kasnio izvinjavao zbog vređanja, primio ga je govoreći da bi bilo čudno da se Dionizije i Heraklo ne ljute na gluposti koje pesnici o njima pišu, a on da se uznemiruje zbog slučajne psovke.",
-    "stsl": "Єгда пѣснопѣвьць Сосіѳеі въ поꙁоріщѣ въ єго прісѫствіи рєчє · Ꙇхжє Клєантова глѹпость гоньть ꙗко волꙑ · оста въ томьждє положєніи · дівьнꙑмь га зърѧщє слѹшатєлє аплодіраше ємѹ · а Сосіѳеа іспѫдишѧ · Єгда же сєи послѣдіи ізвинꙗашє сѧ раді оскрьблєніꙗ · пріѩть га глаголꙗ ꙗко бі било чѹдьно ащє Діонісіи і Хєраклъ нє лѭтꙗть сѧ на глѹпости ꙗжє пѣснопѣвьці о ніхъ пішѫть · а онъ да сѧ въсмѫщаєть раді слѹчаінꙑꙗ псовкꙑ.",
+    "sr": "Dok je Kleant bio u pozorištu, pesnik Sosithej izgovori pred njim stih: One koje Kleantova glupost goni kao volove. Kleant ostade nepomičan. Zadivljeni gledaoci zapljeskaše njemu, a Sositheja isteraše. Kada mu se Sosithej potom izvini zbog uvrede, Kleant mu oprosti, rekavši da bi bilo besmisleno da se Dionis i Herakle ne srde kada pesnici o njima govore koješta, a da se on vređa zbog usputne pogrde.",
+    "stsl": "Клеантѹ въ позоришти сѫштѹ · пѣснотворьць Сосиѳеи прѣдъ нимь стихъ рече · Ꙗже Клеантова глѹпость ꙗко волꙑ гонить · Клеантъ же неподвижимъ прѣбꙑсть · Слѹшателе · дививъше сѧ · емѹ плескаахѫ · Сосиѳеа же изгънаша · Послѣди же Сосиѳеѭ о хѹлѣ каѭштѹ сѧ · Клеантъ прости и · рекъ ꙗко безѹмьно би било · Дионисиѭ и Хераклѹ · пѣснотворьцемъ о нию празднословѧштемъ · не гнѣвати сѧ · емѹ же слѹчаинꙑѧ хѹлꙑ ради негодовати.",
     "originalText": "Σωσιθέου τοῦ ποιητοῦ ἐν θεάτρῳ εἰπόντος πρὸς αὐτὸν παρόντα, Οὓς ἡ Κλεάνθους μωρία βοηλατεῖ, ἔμεινεν ἐπὶ ταὐτοῦ σχήματος· ἐφ' ᾧ ἀγασθέντες οἱ ἀκροαταὶ τὸν μὲν ἐκρότησαν, τὸν δὲ Σωσίθεον ἐξέβαλον. Μεταγινώσκοντα δ' αὐτὸν ἐπὶ τῇ λοιδορίᾳ προσήκατο, εἰπὼν ἄτοπον εἶναι τὸν μὲν Διόνυσον καὶ τὸν Ἡρακλέα φλυαρουμένους ὑπὸ τῶν ποιητῶν μὴ ὀργίζεσθαι, αὐτὸν δ' ἐπὶ τῇ τυχούσῃ βλασφημίᾳ δυσχεραίνειν.",
     "author": "Cleanthes",
     "sources": [
@@ -204,9 +204,9 @@
   {
     "id": "mm-000503",
     "type": "anecdote",
-    "year": -280,
-    "sr": "Kažu da je, kada je tvrdio po Zenonu da se karakter može prepoznati po izgledu, neki mladići doveli kod njega razvratnika koji je odrastao u selu i tražili da prosuđi o karakteru; on je bio u nedoumici i naredio čoveku da ode. Kad je ovaj odlazeći kihnuo, rekao je Kleant: 'Imam ga! Mekan je.'",
-    "stsl": "Рєкѫть ꙗко єгда твръдꙗашє по Зєнонѹ ꙗко є можьно познати характєръ по відѣнію · нѣціи ѹношє прівєдошѧ къ нємѹ развратьніка ꙇжє въꙁрастє въ сєлѣ і потърєбовашѧ да просѫдить о характєрѣ · онъ же бѣ въ нєдоѹмѣніи і повєлѣ чловѣкѹ да ідєть · Єгда жє сєи ідꙗ кꙑхнѫ · рєчє Клєантъ · Імамъ га · Мєкъкъ єсть.",
+    "year": -275,
+    "sr": "Kažu da je Kleant, sledeći Zenona, tvrdio da se narav može poznati po izgledu. Neki šaljivi mladići dovedoše mu ženstvenog razvratnika prekaljenog seoskim životom i zatražiše da prosudi njegovu narav. Kleant se zbuni i naredi čoveku da ode. Kada ovaj na odlasku kihnu, Kleant reče: Sad ga imam: ženstven je.",
+    "stsl": "Глаголѭть же · Клеантѹ по Зенонѹ глаголѭштѹ · ꙗко нравъ отъ образа познати мощьно єсть · нѣціи шѹтьливи ѹноше приведошѧ къ немѹ женовидьна развратьника · сельскꙑмь житиемь ѹкрѣплена · и просишѧ да о нравѣ его рассѫдить · Клеантъ же не вѣдꙑи · повелѣ мѫжеви отъити · Егда же онъ отходѧ кꙑхнѫ · Клеантъ рече · Обрѣтохъ и · женовидьнъ єсть.",
     "originalText": "Λέγεται δέ, φάσκοντος αὐτοῦ κατὰ Ζήνωνα καταληπτὸν εἶναι τὸ ἦθος ἐξ εἴδους, νεανίσκους τινὰς εὐτραπέλους ἀγαγεῖν πρὸς αὐτὸν κίναιδον ἐσκληραγωγημένον ἐν ἀγρῷ καὶ ἀξιοῦν ἀποφαίνεσθαι περὶ τοῦ ἤθους· τὸν δὲ διαπορούμενον κελεῦσαι ἀπιέναι τὸν ἄνθρωπον. Ὡς δ' ἀπιὼν ἐκεῖνος ἔπταρεν, Ἔχω, εἶπεν, αὐτόν, ὁ Κλεάνθης, Μαλακός ἐστι.",
     "author": "Cleanthes",
     "sources": [
@@ -219,9 +219,9 @@
   {
     "id": "mm-000504",
     "type": "bio",
-    "year": -280,
-    "sr": "Kažu da je ono što je slušao od Zenona zapisivao na crepovima i goveđim lopaticama, jer nije imao novca da kupi papirus.",
-    "stsl": "Глаголѭть · ꙗко єже отъ Зенона слѹшааше · на чрѣпѣхъ и говѧждиихъ лопатахъ писааше · сребра бо не имѣаше да папиръ кѹпить ·",
+    "year": -290,
+    "sr": "Kažu da je ono što je slušao od Zenona zapisivao na krhotinama grnčarije i goveđim lopaticama, jer nije imao novca da kupi papirus.",
+    "stsl": "Глаголѭть · ꙗко ꙗже отъ Зенона слꙑшаше · на чрѣпѣхъ и говѧждиихъ лопатахъ писааше · не имꙑи пѣнѧѕь · да хартиѭ кѹпить.",
     "originalText": "Τοῦτόν φασιν εἰς ὄστρακα καὶ βοῶν ὠμοπλάτας γράφειν ἅπερ ἤκουε παρὰ τοῦ Ζήνωνος, ἀπορίᾳ κερμάτων ὥστε ὠνήσασθαι χαρτία.",
     "author": "Cleanthes",
     "sources": [
@@ -235,8 +235,8 @@
     "id": "mm-000505",
     "type": "bio",
     "year": -262,
-    "sr": "Iako je među Zenonovim učenicima bilo mnogo drugih uglednih ljudi, upravo je Kleant uspeo da nasledi školu.",
-    "stsl": "Аште и мнози инии славьни Зенонови ѹченици бѣахѫ · самъ Клеантъ школѫ наслѣдити възможе ·",
+    "sr": "Iako je Zenon imao mnogo drugih uglednih učenika, Kleant je ipak uspeo da ga nasledi na čelu škole.",
+    "stsl": "Аще и мнози инии славьни Зенонови ѹченици бѣахѫ · Клеантъ обаче школѫ наслѣдити възможе.",
     "originalText": "Τοιοῦτος δ' ὢν ἐξίσχυσε, πολλῶν καὶ ἄλλων ὄντων ἀξιολόγων Ζήνωνος μαθητῶν, αὐτὸς διαδέξασθαι τὴν σχολήν.",
     "author": "Cleanthes",
     "sources": [
@@ -250,9 +250,9 @@
     "id": "mm-000506",
     "type": "anecdote",
     "year": -231,
-    "sr": "Umro je ovako: obolele su mu desni i lekari su mu preporučili da se uzdrži od hrane. Posle dva dana osećao se bolje i lekari su mu dopustili da se vrati uobičajenoj hrani, ali on nije hteo; nastavio je da gladuje i umro sa oko osamdeset godina.",
-    "stsl": "Ѹмрѣ сице · Десни ємѹ разболѣшѧ сѧ и лѣкари съвѣтовашѧ да сѧ отъ ꙗди въздрьжить · Дъва дьни прѣбывъ · лѹче сѧ чѹвьствоваше · и лѣкари ємѹ обычьнѫ пищѫ допѹстишѧ · онъ же не въсхотѣ · безъ пищи прѣбываѩ · отъ жития изиде · около осмьдесѧти лѣтъ имы ·",
-    "originalText": "Ἐτελεύτα δὲ τοῦτον τὸν τρόπον. Οὐλίτιδος αὐτῷ γενομένης, οἱ ἰατροὶ παρῄνουν ἀσιτῆσαι. Διημερεύσας οὖν καὶ βέλτιον ἔχων, ὡς οἱ ἰατροὶ ἐπέτρεπον τῇ συνήθει τροφῇ χρῆσθαι, οὐκ ἠθέλησεν, ἀλλ' ἀσίτως τελέσας ἐξῆλθεν τοῦ βίου περί που ἐτῶν ὀγδοήκοντα γεγονώς.",
+    "sr": "Umro je ovako. Otekle su mu desni, pa mu lekari zabraniše hranu. Pošto je dva dana postio, stanje mu se popravi i lekari mu dopustiše da se vrati uobičajenoj hrani. On to odbi, rekavši da je već predaleko odmakao putem; nastavi da se uzdržava od hrane do smrti. Prema nekima je, kao i Zenon, živeo osamdeset godina, od kojih je devetnaest proveo slušajući Zenona.",
+    "stsl": "Сице же ѹмрѣ · Десна его отекошѧ · лѣкаремъ же ꙗсти запрѣштьшемъ · дъвѣ дьни отъ пищѧ въздръжа сѧ · И нѣкако ѹлѹчьша сѧ · ꙗко лѣкари емѹ обычьнѫѭ пищѫ повелѣшѧ · Онъ же не приѩтъ · нъ рече ꙗко ѹже далече по пути прѣиде · и прочаѧ дьни не ꙗдъ · ѹмрѣ · По инѣхъ · ꙗкоже Зенонъ · осмьдесѧть лѣтъ поживе · девѧть на десѧте лѣтъ Зенона слѹшавъ.",
+    "originalText": "Καὶ τελευτᾷ τόνδε τὸν τρόπον· διῴδησεν αὐτῷ τὸ οὖλον· ἀπαγορευσάντων δὲ τῶν ἰατρῶν, δύο ἡμέρας ἀπέσχετο τροφῆς. καί πως ἔσχε καλῶς ὥστε τοὺς ἰατροὺς αὐτῷ πάντα τὰ συνήθη συγχωρεῖν· τὸν δὲ μὴ ἀνασχέσθαι, ἀλλ’ εἰπόντα ἤδη αὐτῷ προωδοιπορῆσθαι καὶ τὰς λοιπὰς ἀποσχόμενον τελευτῆσαι ταὐτὰ Ζήνωνι, καθά φασί τινες, ὀγδοήκοντα ἔτη βιώσαντα καὶ ἀκούσαντα Ζήνωνος ἔτη ἐννεακαίδεκα.",
     "author": "Cleanthes",
     "sources": [
       {

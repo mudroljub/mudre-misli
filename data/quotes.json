@@ -8413,10 +8413,10 @@
   {
     "_id": 488,
     "id": "mm-000494",
-    "type": "quote",
-    "sr": "Zar samo vadam vodu? Šta onda? Zar ne kopam? Zar ne zalivam i ne radim sve zbog filozofije?",
-    "stsl": "Єда токмо водѹ важдѫ · Что ѹбо · Єда нє копаѭ · Єда нє заліваѭ і нє творѭ всє ради любомѫдріꙗ.",
-    "originalText": "ἀντλῶ γὰρ μόνον; τί δ'; οὐχὶ σκάπτω; τί δ'; οὐκ ἄρδω καὶ πάντα ποιῶ φιλοσοφίας ἕνεκα;",
+    "type": "reported",
+    "sr": "Kažu da ga Antigon, koji je slušao njegova predavanja, upita zašto crpe vodu. Kleant odgovori: Zar samo crpem vodu? A zar ne kopam? Zar ne zalivam? Zar ne radim sve radi filozofije?",
+    "stsl": "Глаголѭть же ꙗко Антигонъ · слѹшатель его сꙑи · въпроси и почто водѫ почръпаеть · Клеантъ же отъвѣща · Єда водѫ токъмо почръпаѭ · Что же · не копаѭ ли · не напаꙗѭ ли · и не вьсꙗ ли мѫдролюбьства ради творѭ.",
+    "originalText": "φασὶ δὲ καὶ Ἀντίγονον αὐτοῦ πυθέσθαι ὄντα ἀκροατήν, διὰ τί ἀντλεῖ· τὸν δ’ εἰπεῖν· ἀντλῶ γὰρ μόνον; τί δ’; οὐχὶ σκάπτω; τί δ’; οὐκ ἄρδω καὶ πάντα ποιῶ φιλοσοφίας ἕνεκα;",
     "author": "Cleanthes",
     "sources": [
       {
@@ -8426,6 +8426,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.169",
     "tags": [
+      "εἶναι",
       "σοφία",
       "ἕν"
     ]
@@ -8434,8 +8435,8 @@
     "_id": 489,
     "id": "mm-000495",
     "type": "reported",
-    "sr": "Jednom sakupivši novac, doneo ga je među prijatelje i rekao: 'Kleant bi mogao da hrani i drugog Kleanta, kad bi hteo; oni koji imaju odakle da se hrane traže sredstva od drugih, iako se opušteno bave filozofijom.' Zato se Kleant zvao i drugi Heraklo.",
-    "stsl": "Єдиноѭ съвъкѹпивъ срєбро · прінєсє га посрєдѣ дрѹгъ і рєчє · Клєантъ можаашє бꙑ пітати і вътораго Клєанта · ащє бꙑ хотъѣлъ · ꙇжє имѣѭть отъкѫдѹ пітаті сѧ · прѣпꙑтаѭть потърѣбꙑ отъ инѣхъ · ащє і нєрадиво занімаѭть сѧ любомѫдріємь · Сєго ради Клєантъ нарєчє сѧ і въторꙑи Хєраклъ.",
+    "sr": "Jednom sakupi sitan novac, donese ga među poznanike i reče: Kleant bi, kad bi hteo, mogao izdržavati i drugog Kleanta; oni pak koji imaju od čega da se izdržavaju traže potrepštine od drugih, premda se filozofijom bave bez napora. Zato Kleanta prozvaše i drugim Heraklom.",
+    "stsl": "Единоѭ събьравъ пѣнѧѕь · посрѣдѣ знаемꙑихъ принесе и рече · Клеантъ и инаго Клеанта препитати можеть · аще хощеть · они же · имѫще отъкѫдѹ питати сѧ · отъ инѣхъ потрѣбьнаꙗ ищѫть · аще и безъ трѹда мѫдролюбьствѹѭть · Сего ради и вторꙑи Хераклъ Клеантъ нареченъ бꙑсть.",
     "originalText": "Καί ποτ' ἀθροισθὲν τὸ κέρμα ἐκόμισεν εἰς μέσον τῶν γνωρίμων καί φησι, Κλεάνθης μὲν καὶ ἄλλον Κλεάνθην δύναιτ' ἂν τρέφειν, εἰ βούλοιτο· οἱ δ' ἔχοντες ὅθεν τραφήσονται παρ' ἑτέρων ἐπιζητοῦσι τὰ ἐπιτήδεια, καίπερ ἀνειμένως φιλοσοφοῦντες. Ὅθεν δὴ καὶ δεύτερος Ἡρακλῆς ὁ Κλεάνθης ἐκαλεῖτο.",
     "author": "Cleanthes",
     "sources": [
@@ -8449,10 +8450,10 @@
   {
     "_id": 490,
     "id": "mm-000496",
-    "type": "quote",
-    "sr": "Zbog toga malo grešim.",
-    "stsl": "Сєго ради мало согрѣшаѭ.",
-    "originalText": "Διὰ τοῦτο ὀλίγα ἁμαρτάνω.",
+    "type": "reported",
+    "sr": "Kada mu jednom prebaciše da je kukavica, odgovori: Upravo zato malo grešim.",
+    "stsl": "Единоѭ же · ꙗко страшьливъ · ѹкоренъ · отъвѣща · Сего ради мало съгрѣшаѭ.",
+    "originalText": "Καί ποτ’ ὀνειδιζόμενος ὡς δειλός, διὰ τοῦτο, εἶπεν, ὀλίγα ἁμαρτάνω.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -8460,14 +8461,17 @@
         "reference": "VII.171"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.171"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.171",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 491,
     "id": "mm-000497",
     "type": "reported",
-    "sr": "Često je i sebe ukorio; kad je Ariston to čuo, rekao je: 'Koga ukoriš?' A on se nasmejao i rekao: 'Starca koji ima sedih vlasa, ali ne i uma.'",
-    "stsl": "Часто і сєбє ѹкорꙗашє · єгда Арістонъ слꙑша то · рєчє · Кого ѹкорꙗєши · А онъ насмѣꙗ сѧ і рєчє · Старьца ꙇжє імать сѣдінѹ власъ · нъ нє і ѹмъ.",
+    "sr": "Često je korio i samoga sebe. Kada to Ariston ču, upita: Koga koriš? Kleant se nasmeja i odgovori: Starca sede kose, ali bez pameti.",
+    "stsl": "Чѧсто и себе ѹкорꙗаше · Се Арістонъ слꙑшавъ · въпроси · Кого ѹкорꙗеши · Клеантъ же посмѣꙗвъ сѧ · отъвѣща · Старьца · сѣдꙑ власы имѫшта · ѹма же не имѫшта.",
     "originalText": "Πολλάκις δὲ καὶ ἑαυτῷ ἐπέπληττεν· ὧν ἀκούσας Ἀρίστων, Τίνι, ἔφη, ἐπιπλήττεις; Καὶ ὃς γελάσας, Πρεσβύτῃ, φησί, πολιὰς μὲν ἔχοντι, νοῦν δὲ μή.",
     "author": "Cleanthes",
     "sources": [
@@ -8484,10 +8488,10 @@
   {
     "_id": 492,
     "id": "mm-000498",
-    "type": "quote",
-    "sr": "Prestani i ne kukaј; jer ako i rečima uništava dužnost, delima je ipak postavlja.",
-    "stsl": "Прєстани і нє кѹкаи · ащє бо і словєсꙑ ѹништаваєть дольжьность · дѣлꙑ ѭ паче ѹставлꙗєть.",
-    "originalText": "Παῦσαι καὶ μὴ ψέγε· εἰ γὰρ καὶ λόγῳ τὸ καθῆκον ἀναιρεῖ, τοῖς γοῦν ἔργοις αὐτὸ τιθεῖ.",
+    "type": "reported",
+    "sr": "Kada neko reče da Arkesilaj ne čini ono što treba, Kleant odgovori: Prestani i ne kudi ga. Ako rečima i ukida dužnost, delima je ipak potvrđuje. Arkesilaj mu reče: Nećeš me pridobiti laskanjem. Kleant odgovori: Da, laskam ti time što tvrdim da jedno govoriš, a drugo činiš.",
+    "stsl": "Нѣкомѹ рекъшѹ · ꙗко Аркесілаи длъжьнаꙗ не творить · Клеантъ отъвѣща · Прѣстани и не ѹкори и · аще бо словомь длъжьноѥ отъемлеть · дѣлꙑ обаче ѥ ѹтвръждаеть · Аркесілаи же рече · Лестьми мене не приобрѧщеши · Клеантъ же отъвѣща · Еи · лъщѫ тѧ глаголѧ · ꙗко ина глаголеши · ина же твориши.",
+    "originalText": "Εἰπόντος δέ τινος Ἀρκεσίλαον μὴ ποιεῖν τὰ δέοντα, παῦσαι, ἔφη, καὶ μὴ ψέγε· εἰ γὰρ καὶ λόγῳ τὸ καθῆκον ἀναιρεῖ, τοῖς γοῦν ἔργοις αὐτὸ τίθει. καὶ ὁ Ἀρκεσίλαος, οὐ κολακεύομαι, φησί· πρὸς ὃν ὁ Κλεάνθης, ναί, ἔφη, σὲ κολακεύω φάμενος ἄλλα μὲν λέγειν, ἕτερα δὲ ποιεῖν.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -8503,10 +8507,10 @@
   {
     "_id": 493,
     "id": "mm-000499",
-    "type": "quote",
-    "sr": "Tišina, tišina, lagan korak.",
-    "stsl": "Тішіна · тішіна · лєгъкъ стєпь.",
-    "originalText": "Σῖγα, σῖγα, λεπτὸν ἴχνος.",
+    "type": "reported",
+    "sr": "Upitan šta da savetuje sinu, Kleant navede stih iz Elektre: Ćuti, ćuti; neka ti korak bude lak.",
+    "stsl": "Въпрошенъ нѣкꙑимь · что сынѹ съвѣщати подобаѥть · Клеантъ Електрино слово рече · Млъчи · млъчи · легъкъ ти стѫпъ да бѫдеть.",
+    "originalText": "Ἐρομένου τινὸς τί ὑποτίθεσθαι δεῖ τῷ υἱῷ, τὸ τῆς Ἠλέκτρας, ἔφη· σῖγα, σῖγα, λεπτὸν ἴχνος.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -8519,10 +8523,10 @@
   {
     "_id": 494,
     "id": "mm-000500",
-    "type": "quote",
-    "sr": "Iz dobre krvi si, drago dete.",
-    "stsl": "Отъ добрꙑꙗ крьві єсѝ · драго дѣтѧ.",
-    "originalText": "Αἵματός εἰς ἀγαθοῖο, φίλον τέκος.",
+    "type": "reported",
+    "sr": "Kada jedan Spartanac reče da je trud dobar, Kleant se obradova i odgovori Homerovim stihom: Dobre si krvi, drago dete.",
+    "stsl": "Лаконѹ нѣкоемѹ рекъшѹ · ꙗко трѹдъ добро єсть · Клеантъ възвесели сѧ и рече · Добрыꙗ кръве еси · любо чадо.",
+    "originalText": "Λάκωνός τινος εἰπόντος ὅτι ὁ πόνος ἀγαθόν, διαχυθεὶς φησιν· αἵματός εἰς ἀγαθοῖο, φίλον τέκος.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -8535,10 +8539,10 @@
   {
     "_id": 495,
     "id": "mm-000501",
-    "type": "quote",
-    "sr": "Ti drži svoje podele na delove, mladiću; ali analogni izrazi ne označavaju uvek analogno stvari.",
-    "stsl": "Тꙑ дрьжі своꙗ раздѣлєніꙗ на части · ѹношє · нъ аналогічьніи ізразі нє означаваѭть вьсєгда аналогічьно вєщі.",
-    "originalText": "Σὺ μὲν τοὺς διαμηρισμοὺς ἔχε, μειράκιον· αἱ δ' ἀνάλογοι φωναὶ τὰ ἀνάλογα οὐ πάντως σημαίνουσι πράγματα.",
+    "type": "reported",
+    "sr": "Hekaton u Izrekama pripoveda da jedan lep mladić reče: Ako onaj koji se udara po trbuhu trbuši, onda onaj koji se udara po bedrima bedri. Kleant odgovori: Ti se, mladiću, drži svojih međubedrenja; slično skovane reči ne označavaju uvek slične stvari.",
+    "stsl": "Хекатонъ въ Изречениихъ глаголеть · краснѹ нѣкоемѹ ѹношѹ рекъшѹ · Аще иже чрево биѥ · чревить · то иже стегна биѥ · стегнить · Клеантъ отъвѣща · Тꙑ ѹбо · ѹноше · своꙗ междѹстегнениꙗ имѣи · подобьнаꙗ же словеса не вьсегда подобьнаꙗ дѣла знаменаѭть.",
+    "originalText": "Φησὶ δ’ ὁ Ἑκάτων ἐν ταῖς Χρείαις, εὐμόρφου μειρακίου εἰπόντος· εἰ ὁ εἰς τὴν γαστέρα τύπτων γαστρίζει, καὶ ὁ εἰς τοὺς μηροὺς τύπτων μηρίζει· ἔφη· σὺ μέντοι τοὺς διαμηρισμοὺς ἔχε, μειράκιον· αἱ δ’ ἀνάλογοι φωναὶ τὰ ἀνάλογα οὐ πάντως σημαίνουσι πράγματα.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -14167,7 +14171,7 @@
     "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
   },
   {
-    "_id": 2080,
+    "_id": 2082,
     "id": "mm-002038",
     "type": "bio",
     "year": -490,
@@ -16186,7 +16190,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.30"
   },
   {
-    "_id": 2101,
+    "_id": 2103,
     "id": "mm-002060",
     "type": "bio",
     "sr": "Zenon Elejac bio je Parmenidov učenik; Parmenid ga je usinio, premda mu je bio miljenik, kako kaže Favorin.",
@@ -16543,7 +16547,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.52"
   },
   {
-    "_id": 2104,
+    "_id": 2106,
     "id": "mm-002064",
     "type": "bio",
     "sr": "Zenon je više voleo skromnu Eleju nego sjaj Atine; Atinu je jedva i posećivao, a čitav život proveo je u otadžbini.",
@@ -19104,7 +19108,7 @@
     ]
   },
   {
-    "_id": 2105,
+    "_id": 2107,
     "id": "mm-002065",
     "type": "anecdote",
     "sr": "Kada su ga vređali, Zenon se razgnevio. Pošto ga je neko zbog toga ukorio, odgovorio je: Ako se pravim da ne primećujem kada me vređaju, neću primetiti ni kada me hvale.",
@@ -19463,7 +19467,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.48"
   },
   {
-    "_id": 2106,
+    "_id": 2108,
     "id": "mm-002066",
     "type": "anecdote",
     "sr": "Zenon skova zaveru da obori tiranina Nearha, ili prema drugima Diomedonta, ali bi uhvaćen. Ispitivan o saučesnicima i oružju koje je odnosio na Liparu, prokaza sve tiraninove prijatelje kako bi ga ostavio bez pristalica. Zatim se pretvarao da želi da mu poveri tajnu, zagrize ga za uho i ne puštaše dok ga ne ubiše; prema drugoj verziji, odgrizao mu je nos.",
@@ -19480,7 +19484,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.26-27"
   },
   {
-    "_id": 2107,
+    "_id": 2109,
     "id": "mm-002067",
     "type": "bio",
     "sr": "Prema Hermipu, Zenona baciše u drobilicu i u njoj ga smrviše.",
@@ -30448,8 +30452,8 @@
     "id": "mm-001954",
     "type": "bio",
     "year": -334,
-    "sr": "Zenon, sin Mnaseja ili Demeja, iz Kitija na Kipru, grada grčkog porekla sa feničkim doseljenicima.",
-    "stsl": "Зєнонъ · сынъ Мнасеꙗ или Дємеꙗ · Отъ Китіꙗ на Кѵпрѣ · града грьчьскаго порєкла съ фінікискими досєлєниці.",
+    "sr": "Zenon, Mnasejev ili Demejev sin, bio je iz Kitija na Kipru, grčkog grada naseljenog feničkim doseljenicima.",
+    "stsl": "Зенонъ · Мнасѣевъ или Демѣевъ сынъ · Китиець бѣ отъ Кѵпра · града грьчьска · финикы посельникы имѣвъша.",
     "originalText": "Ζήνων Μνασέου ἢ Δημέου, Κιτιεὺς ἀπὸ Κύπρου, πολίσματος Ἑλληνικοῦ Φοίνικας ἐποίκους ἐσχηκότος.",
     "author": "Zeno of Citium",
     "sources": [
@@ -30459,6 +30463,23 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.1"
+  },
+  {
+    "_id": 483,
+    "id": "mm-000489",
+    "type": "bio",
+    "year": -331,
+    "sr": "Kleant, sin Fanije, bio je iz Asa.",
+    "stsl": "Клеантъ · сынъ Фаниинъ · отъ Асса бѣ.",
+    "originalText": "Κλεάνθης Φανίου Ἄσσιος.",
+    "author": "Cleanthes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.168"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
   },
   {
     "_id": 86,
@@ -30618,9 +30639,9 @@
     "id": "mm-001977",
     "type": "bio",
     "year": -330,
-    "sr": "Vrat mu je bio nagnut na jednu stranu. Bio je mršav, povisok, tamne puti, debelih listova, tvrd i slab, pa je odbijao većinu gozbi. Voleo je sveže smokve i sunčanje.",
-    "stsl": "Вꙑѭ на єдинѫ странѫ прикланѧаше · Хѹдъ бѣ · повꙑсокъ · мрачьна лица · дебелы голѣни имы · тврдъ и немоштьнъ · тѣмь множаишѧ пиры отметааше · Свѣжими смокъвами и съльньчаниемь радовааше сѧ ·",
-    "originalText": "Τὸν τράχηλον ἐπὶ θάτερα νενευκὼς ἦν, ὥς φησι Τιμόθεος ὁ Ἀθηναῖος ἐν τῷ Περὶ βίων· καὶ Ἀπολλώνιος δέ φησιν ὁ Τύριος ὅτι ἰσχνὸς ἦν, ὑπομήκης, μελάγχρως, παχύκνημός τε καὶ ἀπαγὴς καὶ ἀσθενής· διὸ καί φησι Περσαῖος ἐν Ὑπομνήμασι συμποτικοῖς τὰ πλεῖστα αὐτὸν δεῖπνα παραιτεῖσθαι. Ἔχαιρε δέ, φασί, σύκοις χλωροῖς καὶ ἡλιοκαΐαις.",
+    "sr": "Timotej Atinjanin u delu O životima kaže da mu je vrat bio nagnut na jednu stranu. Apolonije iz Tira kaže da je bio mršav, povisok i tamnoput — zbog čega ga je neko nazvao egipatskom lozicom, prema Hrisipu — debelih listova, mlitav i slab. Zato je, kako Persej navodi, odbijao većinu poziva na gozbe. Kažu da je voleo sveže smokve i sunčanje.",
+    "stsl": "Тимоѳеи Аѳинѣискꙑи въ книгѣ О житиихъ глаголеть · ꙗко вꙑѭ на единѫ странѫ прикланѧаше · Аполлонии же Тѷрьскꙑи глаголеть · ꙗко хѹдъ бѣ · повꙑсокъ и мрачьна лица · тѣмь нѣкто и егѵпетьскою лозою нарече · ꙗкоже Хрисиппъ повѣдаеть · Дебелꙑ голѣни имѣаше · слабъ и немощьнъ бѣ · тѣмь · ꙗкоже Персеи глаголеть · множаишѧ пиры отметааше · Свѣжими же смокъвами и на слъньци грѣꙗниемь радовааше сѧ.",
+    "originalText": "Τὸν τράχηλον ἐπὶ θάτερα νενευκὼς ἦν, ὥς φησι Τιμόθεος ὁ Ἀθηναῖος ἐν τῷ Περὶ βίων· καὶ Ἀπολλώνιος δέ φησιν ὁ Τύριος ὅτι ἰσχνὸς ἦν, ὑπομήκης, μελάγχρους — ὅθεν τις αὐτὸν εἶπεν Αἰγυπτίαν κληματίδα, καθά φησι Χρύσιππος ἐν πρώτῳ Παροιμιῶν — παχυκνημός τε καὶ ἀπαγὴς καὶ ἀσθενής· διὸ καί φησι Περσαῖος ἐν Ὑπομνήμασι Συμποτικοῖς τὰ πλεῖστα αὐτὸν δεῖπνα παραιτεῖσθαι. Ἔχαιρε δέ, φασί, σύκοις χλωροῖς καὶ ἡλιοκαΐαις.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -30733,23 +30754,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.61"
   },
   {
-    "_id": 1581,
-    "id": "mm-001536",
-    "type": "anecdote",
-    "year": -327,
-    "sr": "Kada je Anaksarh pao u baru, Piron je prošao ne pomažući mu. Neki su ga korili, ali je sam Anaksarh pohvalio njegovu ravnodušnost i neosetljivost.",
-    "stsl": "Єгда Анаксархъ въ блато паде · Пиронъ мимо иде не помогаѧ ємѹ · Инии єго ѹкоришѧ · самъ же Анаксархъ похвали равьнодѹшиє и нечѹвьство єго ·",
-    "originalText": "καί ποτ' Ἀναξάρχου εἰς τέλμα ἐμπεσόντος, παρῆλθεν οὐ βοηθήσας· τινῶν δὲ αἰτιωμένων, αὐτὸς Ἀνάξαρχος ἐπῄνει τὸ ἀδιάφορον καὶ ἄστοργον αὐτοῦ.",
-    "author": "Pyrrho",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.63"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.63"
-  },
-  {
     "_id": 1798,
     "id": "mm-001752",
     "type": "reported",
@@ -30814,21 +30818,21 @@
     "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
   },
   {
-    "_id": 1319,
-    "id": "mm-002205",
+    "_id": 1581,
+    "id": "mm-001536",
     "type": "anecdote",
-    "year": -325,
-    "sr": "Ona dođe jednom na gozbu kod Lisimaha, gde pobi Teodora zvanog bezbožnik, iznevši ovaj sofizam: Ono što Teodor može učiniti a da se ne kaže da čini nepravdu, može učiniti i Hiparhija a da se ne kaže da čini nepravdu. Teodor ne čini nepravdu kada udara samoga sebe; prema tome, ni Hiparhija ne čini nepravdu kada udara Teodora. On joj na to ništa ne odgovori, nego joj zadiže ogrtač; Hiparhija se, međutim, niti uplaši niti zbuni kao žena.",
-    "stsl": "Она же приде єдиноѭ къ Лѵсімахѹ на пиръ · идеже Ѳеодора · безбожьникъ нарицаемаго · прѣпрѣ · сицевъ софисмъ предложивъши · Єже творѧ Ѳеодоръ неправьдьникъ не наречеть сѧ · то и Хіппархіꙗ творѧщи неправьдьница не наречеть сѧ · Ѳеодоръ же себе биѩ неправьдꙑ не творить · тѣмже ни Хіппархіꙗ Ѳеодора биѭщи неправьдꙑ творить · Онъ же къ реченомѹ ничтоже отъвѣща · нъ въздвиже ризѫ єѩ · Хіппархіꙗ же ни ѹбоꙗ сѧ ни съмѧте сѧ ꙗко жена.",
-    "originalText": "Ὅτε καὶ πρὸς Λυσίμαχον εἰς τὸ συμπόσιον ἦλθεν, ἔνθα Θεόδωρον τὸν ἐπίκλην Ἄθεον ἐπήλεγξε, σόφισμα προτείνασα τοιοῦτον· ὃ ποιῶν Θεόδωρος οὐκ ἂν ἀδικεῖν λέγοιτο, οὐδ' Ἱππαρχία ποιοῦσα τοῦτο ἀδικεῖν λέγοιτ' ἄν· Θεόδωρος δὲ τύπτων ἑαυτὸν οὐκ ἀδικεῖ, οὐδ' ἄρα Ἱππαρχία Θεόδωρον τύπτουσα ἀδικεῖ. Ὁ δὲ πρὸς μὲν τὸ λεχθὲν οὐδὲν ἀπήντησεν, ἀνέσυρε δ' αὐτῆς θοἰμάτιον· ἀλλ' οὔτε κατεπλάγη Ἱππαρχία οὔτε διεταράχθη ὡς γυνή.",
-    "author": "Hipparchia of Maroneia",
+    "year": -327,
+    "sr": "Kada je Anaksarh pao u baru, Piron je prošao ne pomažući mu. Neki su ga korili, ali je sam Anaksarh pohvalio njegovu ravnodušnost i neosetljivost.",
+    "stsl": "Єгда Анаксархъ въ блато паде · Пиронъ мимо иде не помогаѧ ємѹ · Инии єго ѹкоришѧ · самъ же Анаксархъ похвали равьнодѹшиє и нечѹвьство єго ·",
+    "originalText": "καί ποτ' Ἀναξάρχου εἰς τέλμα ἐμπεσόντος, παρῆλθεν οὐ βοηθήσας· τινῶν δὲ αἰτιωμένων, αὐτὸς Ἀνάξαρχος ἐπῄνει τὸ ἀδιάφορον καὶ ἄστοργον αὐτοῦ.",
+    "author": "Pyrrho",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VI.97"
+        "reference": "IX.63"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.97"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.63"
   },
   {
     "_id": 1803,
@@ -30863,6 +30867,23 @@
     "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
   },
   {
+    "_id": 1319,
+    "id": "mm-002205",
+    "type": "anecdote",
+    "year": -325,
+    "sr": "Ona dođe jednom na gozbu kod Lisimaha, gde pobi Teodora zvanog bezbožnik, iznevši ovaj sofizam: Ono što Teodor može učiniti a da se ne kaže da čini nepravdu, može učiniti i Hiparhija a da se ne kaže da čini nepravdu. Teodor ne čini nepravdu kada udara samoga sebe; prema tome, ni Hiparhija ne čini nepravdu kada udara Teodora. On joj na to ništa ne odgovori, nego joj zadiže ogrtač; Hiparhija se, međutim, niti uplaši niti zbuni kao žena.",
+    "stsl": "Она же приде єдиноѭ къ Лѵсімахѹ на пиръ · идеже Ѳеодора · безбожьникъ нарицаемаго · прѣпрѣ · сицевъ софисмъ предложивъши · Єже творѧ Ѳеодоръ неправьдьникъ не наречеть сѧ · то и Хіппархіꙗ творѧщи неправьдьница не наречеть сѧ · Ѳеодоръ же себе биѩ неправьдꙑ не творить · тѣмже ни Хіппархіꙗ Ѳеодора биѭщи неправьдꙑ творить · Онъ же къ реченомѹ ничтоже отъвѣща · нъ въздвиже ризѫ єѩ · Хіппархіꙗ же ни ѹбоꙗ сѧ ни съмѧте сѧ ꙗко жена.",
+    "originalText": "Ὅτε καὶ πρὸς Λυσίμαχον εἰς τὸ συμπόσιον ἦλθεν, ἔνθα Θεόδωρον τὸν ἐπίκλην Ἄθεον ἐπήλεγξε, σόφισμα προτείνασα τοιοῦτον· ὃ ποιῶν Θεόδωρος οὐκ ἂν ἀδικεῖν λέγοιτο, οὐδ' Ἱππαρχία ποιοῦσα τοῦτο ἀδικεῖν λέγοιτ' ἄν· Θεόδωρος δὲ τύπτων ἑαυτὸν οὐκ ἀδικεῖ, οὐδ' ἄρα Ἱππαρχία Θεόδωρον τύπτουσα ἀδικεῖ. Ὁ δὲ πρὸς μὲν τὸ λεχθὲν οὐδὲν ἀπήντησεν, ἀνέσυρε δ' αὐτῆς θοἰμάτιον· ἀλλ' οὔτε κατεπλάγη Ἱππαρχία οὔτε διεταράχθη ὡς γυνή.",
+    "author": "Hipparchia of Maroneia",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.97"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.97"
+  },
+  {
     "_id": 1338,
     "id": "mm-001286",
     "type": "bio",
@@ -30870,23 +30891,6 @@
     "sr": "Neki kažu da je bio i scenograf i da je izučio oba zanata.",
     "stsl": "Нѣции же глаголѭть · ꙗко и позорищь писатель бѣ · и обоѥ ѹмѣниѥ наѹчи сѧ ·",
     "originalText": "οἱ δὲ καὶ σκηνογράφον αὐτὸν εἶναί φασι καὶ μαθεῖν ἑκάτερα τὸν Μενέδημον.",
-    "author": "Menedemus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.125"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.125"
-  },
-  {
-    "_id": 1339,
-    "id": "mm-001287",
-    "type": "bio",
-    "year": -324,
-    "sr": "Stoga, kada je jednom napisao neki dekret, neki Aleksinejac ga prekori rekavši da mudracu ne priliči da piše ni scenu ni dekret.",
-    "stsl": "Тѣмьже · єгда нѣкꙑи ѹставъ написа · нѣкꙑи Алексинеиць ѹкори и · рекъ · ꙗко мѫдрьцѹ ни позорище ни ѹставъ писати подобаєть ·",
-    "originalText": "ὅθεν γράψαντος αὐτοῦ ψήφισμά τι καθήψατό τις Ἀλεξίνειος, εἰπὼν ὡς οὔτε σκηνὴν οὔτε ψήφισμα προσήκει τῷ σοφῷ γράφειν.",
     "author": "Menedemus",
     "sources": [
       {
@@ -31038,6 +31042,23 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.59"
   },
   {
+    "_id": 1339,
+    "id": "mm-001287",
+    "type": "bio",
+    "year": -324,
+    "sr": "Stoga, kada je jednom napisao neki dekret, neki Aleksinejac ga prekori rekavši da mudracu ne priliči da piše ni scenu ni dekret.",
+    "stsl": "Тѣмьже · єгда нѣкꙑи ѹставъ написа · нѣкꙑи Алексинеиць ѹкори и · рекъ · ꙗко мѫдрьцѹ ни позорище ни ѹставъ писати подобаєть ·",
+    "originalText": "ὅθεν γράψαντος αὐτοῦ ψήφισμά τι καθήψατό τις Ἀλεξίνειος, εἰπὼν ὡς οὔτε σκηνὴν οὔτε ψήφισμα προσήκει τῷ σοφῷ γράφειν.",
+    "author": "Menedemus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.125"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.125"
+  },
+  {
     "_id": 362,
     "id": "mm-000368",
     "type": "bio",
@@ -31059,23 +31080,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.5-6"
   },
   {
-    "_id": 845,
-    "id": "mm-000852",
-    "type": "anecdote",
-    "sr": "Diogen je umro u Korintu, blizu devedesete godine. O smrti su kružila različita predanja: da je umro pošto je jeo sirovu hobotnicu, da je namerno zadržao dah, ili da ga je pas ujeo za tetivu stopala dok je hteo da podeli hobotnicu psima.",
-    "stsl": "Диогенъ въ Коринтѣ близъ девѧтьдесѧтаго лѣта ѹмрѣ · О кончини єго разныѩ прѣданиꙗ ходѧахѫ · ꙗко ѹмре по снѣдѣніи сырѣи осмокраки · или ꙗко дыханиє ѹдръжа намѣрьно · или ꙗко пьсъ жилѫ стопы єго ѹѧдє · єгда осмокракѫ псомъ раздѣлити хотѣ ·",
-    "originalText": "Ἀπέθανε πρὸς τὰ ἐνενήκοντα ἔτη. Περὶ δὲ τοῦ θανάτου διάφοροι λέγονται λόγοι· οἱ μὲν γὰρ πολύποδα φαγόντα ὠμὸν χολερικῇ ληφθῆναι καὶ ὧδε τελευτῆσαι· οἱ δὲ τὸ πνεῦμα συγκρατήσαντα· […] Ἄλλοι φασὶ πολύπουν κυσὶ συμμερίσασθαι βουλόμενον οὕτω δηχθῆναι τοῦ ποδὸς τὸν τένοντα καὶ καταστρέψαι.",
-    "author": "Diogenes",
-    "year": -323,
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.76–79"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.76-79"
-  },
-  {
     "_id": 1817,
     "id": "mm-001771",
     "type": "quote",
@@ -31095,21 +31099,21 @@
     ]
   },
   {
-    "_id": 952,
-    "id": "mm-000960",
-    "type": "bio",
-    "sr": "Diogenovi učenici sporili su se ko će ga sahraniti, sve dok nisu došli njihovi očevi i uglednici. Sahranili su ga kraj kapije koja vodi na Istam i podigli mu stub sa psom od parskog mermera. Kasnije su ga građani počastvovali bronzanim likovima.",
-    "stsl": "Диогеновы ѹченици прѣпираахѫ сѧ · къто єго погребеть · дондеже отьци ихъ и старѣишины придошѧ · Погребошѧ єго при вратахъ къ Истмѹ ведѫштихъ · и стълпъ съ пъсомъ отъ парьска мрамора поставишѧ · Потомь и граждане мѣдьнꙑими образы єго почьтошѧ ·",
-    "originalText": "Ἔνθα καὶ στάσις, ὥς φασιν, ἐγένετο τῶν γνωρίμων, τίνες αὐτὸν θάψωσιν· ἀλλὰ καὶ μέχρι χειρῶν ἦλθον. Ἀφικομένων δὲ τῶν πατέρων καὶ τῶν ὑπερεχόντων, ὑπὸ τούτοις ταφῆναι τὸν ἄνδρα παρὰ τῇ πύλῃ τῇ φερούσῃ εἰς Ἰσθμόν. Ἐπέστησάν τ' αὐτῷ κίονα καὶ ἐπ' αὐτῷ λίθου Παρίου κύνα. Ὕστερον δὲ καὶ οἱ πολῖται αὐτοῦ χαλκαῖς εἰκόσιν ἐτίμησαν αὐτόν.",
+    "_id": 845,
+    "id": "mm-000852",
+    "type": "anecdote",
+    "sr": "Diogen je umro u Korintu, blizu devedesete godine. O smrti su kružila različita predanja: da je umro pošto je jeo sirovu hobotnicu, da je namerno zadržao dah, ili da ga je pas ujeo za tetivu stopala dok je hteo da podeli hobotnicu psima.",
+    "stsl": "Диогенъ въ Коринтѣ близъ девѧтьдесѧтаго лѣта ѹмрѣ · О кончини єго разныѩ прѣданиꙗ ходѧахѫ · ꙗко ѹмре по снѣдѣніи сырѣи осмокраки · или ꙗко дыханиє ѹдръжа намѣрьно · или ꙗко пьсъ жилѫ стопы єго ѹѧдє · єгда осмокракѫ псомъ раздѣлити хотѣ ·",
+    "originalText": "Ἀπέθανε πρὸς τὰ ἐνενήκοντα ἔτη. Περὶ δὲ τοῦ θανάτου διάφοροι λέγονται λόγοι· οἱ μὲν γὰρ πολύποδα φαγόντα ὠμὸν χολερικῇ ληφθῆναι καὶ ὧδε τελευτῆσαι· οἱ δὲ τὸ πνεῦμα συγκρατήσαντα· […] Ἄλλοι φασὶ πολύπουν κυσὶ συμμερίσασθαι βουλόμενον οὕτω δηχθῆναι τοῦ ποδὸς τὸν τένοντα καὶ καταστρέψαι.",
     "author": "Diogenes",
     "year": -323,
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VI.78"
+        "reference": "VI.76–79"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.78"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.76-79"
   },
   {
     "_id": 1819,
@@ -31126,6 +31130,23 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.61"
+  },
+  {
+    "_id": 952,
+    "id": "mm-000960",
+    "type": "bio",
+    "sr": "Diogenovi učenici sporili su se ko će ga sahraniti, sve dok nisu došli njihovi očevi i uglednici. Sahranili su ga kraj kapije koja vodi na Istam i podigli mu stub sa psom od parskog mermera. Kasnije su ga građani počastvovali bronzanim likovima.",
+    "stsl": "Диогеновы ѹченици прѣпираахѫ сѧ · къто єго погребеть · дондеже отьци ихъ и старѣишины придошѧ · Погребошѧ єго при вратахъ къ Истмѹ ведѫштихъ · и стълпъ съ пъсомъ отъ парьска мрамора поставишѧ · Потомь и граждане мѣдьнꙑими образы єго почьтошѧ ·",
+    "originalText": "Ἔνθα καὶ στάσις, ὥς φασιν, ἐγένετο τῶν γνωρίμων, τίνες αὐτὸν θάψωσιν· ἀλλὰ καὶ μέχρι χειρῶν ἦλθον. Ἀφικομένων δὲ τῶν πατέρων καὶ τῶν ὑπερεχόντων, ὑπὸ τούτοις ταφῆναι τὸν ἄνδρα παρὰ τῇ πύλῃ τῇ φερούσῃ εἰς Ἰσθμόν. Ἐπέστησάν τ' αὐτῷ κίονα καὶ ἐπ' αὐτῷ λίθου Παρίου κύνα. Ὕστερον δὲ καὶ οἱ πολῖται αὐτοῦ χαλκαῖς εἰκόσιν ἐτίμησαν αὐτόν.",
+    "author": "Diogenes",
+    "year": -323,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.78"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.78"
   },
   {
     "_id": 1088,
@@ -31217,23 +31238,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.1-2"
   },
   {
-    "_id": 1340,
-    "id": "mm-001289",
-    "type": "bio",
-    "year": -322,
-    "sr": "Asklepijad Flijasijski odvuče ga potom u Megaru Stilponu, koga su obojica slušali.",
-    "stsl": "Асклепиадъ же Флиасиискꙑи отвлѣкъ и · въ Мегарахъ при Стилпонѣ бꙑсть · єгоже оба слѹшааста ·",
-    "originalText": "Ἀσκληπιάδου δὲ τοῦ Φλιασίου περισπάσαντος αὐτὸν ἐγένετο ἐν Μεγάροις παρὰ Στίλπωνα, οὗπερ ἀμφότεροι διήκουσαν.",
-    "author": "Menedemus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.126"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.126"
-  },
-  {
     "_id": 1826,
     "id": "mm-001780",
     "type": "reported",
@@ -31314,6 +31318,23 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.67"
   },
   {
+    "_id": 1340,
+    "id": "mm-001289",
+    "type": "bio",
+    "year": -322,
+    "sr": "Asklepijad Flijasijski odvuče ga potom u Megaru Stilponu, koga su obojica slušali.",
+    "stsl": "Асклепиадъ же Флиасиискꙑи отвлѣкъ и · въ Мегарахъ при Стилпонѣ бꙑсть · єгоже оба слѹшааста ·",
+    "originalText": "Ἀσκληπιάδου δὲ τοῦ Φλιασίου περισπάσαντος αὐτὸν ἐγένετο ἐν Μεγάροις παρὰ Στίλπωνα, οὗπερ ἀμφότεροι διήκουσαν.",
+    "author": "Menedemus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.126"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.126"
+  },
+  {
     "_id": 1886,
     "id": "mm-001838",
     "type": "bio",
@@ -31346,23 +31367,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.39"
-  },
-  {
-    "_id": 1932,
-    "id": "mm-001886",
-    "type": "anecdote",
-    "year": -322,
-    "sr": "Kada je kao poslanik došao Antipatru zbog zarobljenih Atinjana i bio pozvan na gozbu, Ksenokrat mu navede Odisejeve reči Kirki: „O Kirko, koji bi pravedan čovek mogao okusiti jela ili pića pre nego što oslobodi svoje drugove i ugleda ih svojim očima?“ Antipatar odobri zgodnost navoda i odmah ih oslobodi.",
-    "stsl": "Єгда Ксенократъ · посълъ о плѣненꙑихъ Атинѧнѣхъ къ Антипатрѹ пришедъ · на пиръ позванъ бꙑсть · Одисеова словеса къ Киркѣ приведе · О Кирко · кыи бо правьдьнъ мѫжь брашъна или питиꙗ вкѹсити дръзнеть · прѣжде неже дрѹгꙑ развѧжеть и своима очима ꙗ видить · Антипатръ же пригодьность словесъ похвали и абиє ихъ отпѹсти ·",
-    "originalText": "Ἀλλὰ καὶ πρεσβεύων πρὸς Ἀντίπατρον περὶ αἰχμαλώτων Ἀθηναίων κατὰ τὸν Λαμιακὸν πόλεμον, καὶ κληθεὶς ἐπὶ δεῖπνον πρὸς αὐτὸν προηνέγκατο ταυτί· «Ὦ Κίρκη, τίς γάρ κεν ἀνήρ, ὃς ἐναίσιμος εἴη, πρὶν τλαίη πάσσασθαι ἐδητύος ἠδὲ ποτῆτος πρὶν λύσασθ' ἑτάρους καὶ ἐν ὀφθαλμοῖσιν ἰδέσθαι;» καὶ τὸν ἀποδεξάμενον τὴν εὐστοχίαν εὐθὺς ἀνεῖναι.",
-    "author": "Xenocrates",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IV.9"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.9"
   },
   {
     "_id": 1834,
@@ -31398,6 +31402,23 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.178"
+  },
+  {
+    "_id": 1932,
+    "id": "mm-001886",
+    "type": "anecdote",
+    "year": -322,
+    "sr": "Kada je kao poslanik došao Antipatru zbog zarobljenih Atinjana i bio pozvan na gozbu, Ksenokrat mu navede Odisejeve reči Kirki: „O Kirko, koji bi pravedan čovek mogao okusiti jela ili pića pre nego što oslobodi svoje drugove i ugleda ih svojim očima?“ Antipatar odobri zgodnost navoda i odmah ih oslobodi.",
+    "stsl": "Єгда Ксенократъ · посълъ о плѣненꙑихъ Атинѧнѣхъ къ Антипатрѹ пришедъ · на пиръ позванъ бꙑсть · Одисеова словеса къ Киркѣ приведе · О Кирко · кыи бо правьдьнъ мѫжь брашъна или питиꙗ вкѹсити дръзнеть · прѣжде неже дрѹгꙑ развѧжеть и своима очима ꙗ видить · Антипатръ же пригодьность словесъ похвали и абиє ихъ отпѹсти ·",
+    "originalText": "Ἀλλὰ καὶ πρεσβεύων πρὸς Ἀντίπατρον περὶ αἰχμαλώτων Ἀθηναίων κατὰ τὸν Λαμιακὸν πόλεμον, καὶ κληθεὶς ἐπὶ δεῖπνον πρὸς αὐτὸν προηνέγκατο ταυτί· «Ὦ Κίρκη, τίς γάρ κεν ἀνήρ, ὃς ἐναίσιμος εἴη, πρὶν τλαίη πάσσασθαι ἐδητύος ἠδὲ ποτῆτος πρὶν λύσασθ' ἑτάρους καὶ ἐν ὀφθαλμοῖσιν ἰδέσθαι;» καὶ τὸν ἀποδεξάμενον τὴν εὐστοχίαν εὐθὺς ἀνεῖναι.",
+    "author": "Xenocrates",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IV.9"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.9"
   },
   {
     "_id": 1933,
@@ -31449,23 +31470,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.59"
-  },
-  {
-    "_id": 483,
-    "id": "mm-000489",
-    "type": "bio",
-    "year": -320,
-    "sr": "Kleant, sin Fanijin, bio je iz Asa.",
-    "stsl": "Клеантъ · сынъ Фаниинъ · отъ Аса бѣ ·",
-    "originalText": "Κλεάνθης Φανίου Ἄσσιος.",
-    "author": "Cleanthes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.168"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
   },
   {
     "_id": 1840,
@@ -32208,12 +32212,12 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.14"
   },
   {
-    "_id": 2013,
+    "_id": 2040,
     "id": "mm-001996",
     "type": "bio",
     "year": -320,
-    "sr": "Njegov otac Mnasej često je kao trgovac dolazio u Atinu i donosio mladom Zenonu mnoge sokratske knjige; zato je Zenon još u domovini bio obrazovan.",
-    "stsl": "Отьць єго Мнасеи чѧсто ꙗко трьжьникъ въ Атины приходѧаше и юномѹ Зенонѹ мъногы Сократовы книгы приношааше · тѣмь Зенонъ єште въ отьчьствѣ наѹченъ бѣ ·",
+    "sr": "Demetrije iz Magnezije kaže da je njegov otac Mnasej, kao trgovac, često dolazio u Atinu i donosio Zenonu, dok je još bio dečak, mnoge knjige sokratovaca; zato se Zenon još u zavičaju valjano obrazovao.",
+    "stsl": "Димитрии Магнисиискꙑи глаголеть · ꙗко отьць его Мнасѣи · трьжьникъ сꙑи · чѧсто въ Аѳинꙑ приходѧаше и Зенонѹ · ещте отрокѹ сѫштѹ · мъногꙑ сократовьскꙑꙗ книгꙑ приношааше · тѣмь Зенонъ ещте въ отьчьствѣ добрѣ наѹченъ бѣ.",
     "originalText": "Φησὶ δὲ Δημήτριος ὁ Μάγνης ἐν τοῖς Ὁμωνύμοις τὸν πατέρα αὐτοῦ Μνασέαν πολλάκις ἅτ' ἔμπορον Ἀθήναζε παραγίνεσθαι καὶ πολλὰ τῶν Σωκρατικῶν ἀποφέρειν ἔτι παιδὶ ὄντι τῷ Ζήνωνι· ὅθεν καὶ ἐν τῇ πατρίδι συγκεκροτῆσθαι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -32240,6 +32244,23 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.125"
+  },
+  {
+    "_id": 484,
+    "id": "mm-000490",
+    "type": "bio",
+    "year": -315,
+    "sr": "Prema Antistenu u Nasleđivanjima, isprva je bio bokser.",
+    "stsl": "Антисѳенъ въ Прѣемьствахъ глаголеть · ꙗко испрьва пѧстьникъ бѣ.",
+    "originalText": "Οὗτος πρῶτον ἦν πύκτης, ὡς φησιν Ἀντισθένης ἐν Διαδοχαῖς.",
+    "author": "Cleanthes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.168"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
   },
   {
     "_id": 1345,
@@ -32276,6 +32297,25 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.94"
   },
   {
+    "_id": 1888,
+    "id": "mm-001840",
+    "type": "quote",
+    "sr": "Pre se treba pouzdati u neuzdanog konja nego u nesređenu besedu.",
+    "stsl": "Скорѣѥ подобаєть на конѧ безъ ѹзды ѹповати · нежели на нестроино слово ·",
+    "originalText": "θᾶττον ἔφη πιστεύειν δεῖν ἵππῳ ἀχαλίνῳ ἢ λόγῳ ἀσυντάκτῳ",
+    "author": "Theophrastus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.39"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.39",
+    "tags": [
+      "λόγος"
+    ]
+  },
+  {
     "_id": 1390,
     "id": "mm-001334",
     "type": "bio",
@@ -32293,20 +32333,20 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.83"
   },
   {
-    "_id": 1888,
-    "id": "mm-001840",
-    "type": "quote",
-    "sr": "Pre se treba pouzdati u neuzdanog konja nego u nesređenu besedu.",
-    "stsl": "Скорѣѥ подобаєть на конѧ безъ ѹзды ѹповати · нежели на нестроино слово ·",
-    "originalText": "θᾶττον ἔφη πιστεύειν δεῖν ἵππῳ ἀχαλίνῳ ἢ λόγῳ ἀσυντάκτῳ",
+    "_id": 1890,
+    "id": "mm-001842",
+    "type": "reported",
+    "sr": "Umirući, Teofrast ovako posavetova učenike: Život se razmeće mnogim svojim užicima radi slave. Jer čim počnemo da živimo, već umiremo. Ništa, dakle, nije nekorisnije od slavoljublja. A vi budite srećni: ili napustite ovu nauku — jer trud je velik — ili je valjano branite, jer je i slava velika. U životu je više praznog nego korisnog. Ja više nisam u stanju da razmatram šta treba činiti; a vi ispitajte šta valja činiti.",
+    "stsl": "Ѹмираѧ же · Тєофрастъ ѹченикы сице наказа · Житиѥ многꙑми своими сладостьми славы ради хвалить сѧ · Єгда бо начьнемъ жити · тогда ѹже ѹмираємъ · Ничтоже ѹбо безполѣзнѣѥ славолюбьства · Вꙑ же благочѧстни бѫдѣте · или се ѹчениѥ оставите · многъ бо трѹдъ єсть · или добрѣ за нь станѣте · велика бо слава єсть · Въ житии же праздьнаго вѧште єсть · нежели полѣзьнаго · Азъ же кътомѹ не могѫ размꙑшлѧти · что подобаєть творити · вꙑ же испытайте · что творити подобаєть ·",
+    "originalText": "πολλὰ τῶν ἡδέων ὁ βίος διὰ τὴν δόξαν καταλαζονεύεται. Ἡμεῖς γὰρ ὁπότ' ἀρχόμεθα ζῆν, τότ' ἀποθνῄσκομεν. Οὐδὲν οὖν ἀλυσιτελέστερόν ἐστι φιλοδοξίας. Ἀλλ' εὐτυχεῖτε καὶ ἤτοι τὸν λόγον ἄφετε-πολὺς γὰρ ὁ πόνος-, ἢ καλῶς αὐτοῦ πρόστητε· μεγάλη γὰρ ἡ δόξα. Τὸ δὲ κενὸν τοῦ βίου πλεῖον τοῦ συμφέροντος. Ἀλλ' ἐμοὶ μὲν οὐκέτ' ἐκποιεῖ βουλεύεσθαι τί πρακτέον, ὑμεῖς δ' ἐπισκέψασθε τί ποιητέον",
     "author": "Theophrastus",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "V.39"
+        "reference": "V.41"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.39",
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.41",
     "tags": [
       "λόγος"
     ]
@@ -32327,25 +32367,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.37"
-  },
-  {
-    "_id": 1890,
-    "id": "mm-001842",
-    "type": "reported",
-    "sr": "Umirući, Teofrast ovako posavetova učenike: Život se razmeće mnogim svojim užicima radi slave. Jer čim počnemo da živimo, već umiremo. Ništa, dakle, nije nekorisnije od slavoljublja. A vi budite srećni: ili napustite ovu nauku — jer trud je velik — ili je valjano branite, jer je i slava velika. U životu je više praznog nego korisnog. Ja više nisam u stanju da razmatram šta treba činiti; a vi ispitajte šta valja činiti.",
-    "stsl": "Ѹмираѧ же · Тєофрастъ ѹченикы сице наказа · Житиѥ многꙑми своими сладостьми славы ради хвалить сѧ · Єгда бо начьнемъ жити · тогда ѹже ѹмираємъ · Ничтоже ѹбо безполѣзнѣѥ славолюбьства · Вꙑ же благочѧстни бѫдѣте · или се ѹчениѥ оставите · многъ бо трѹдъ єсть · или добрѣ за нь станѣте · велика бо слава єсть · Въ житии же праздьнаго вѧште єсть · нежели полѣзьнаго · Азъ же кътомѹ не могѫ размꙑшлѧти · что подобаєть творити · вꙑ же испытайте · что творити подобаєть ·",
-    "originalText": "πολλὰ τῶν ἡδέων ὁ βίος διὰ τὴν δόξαν καταλαζονεύεται. Ἡμεῖς γὰρ ὁπότ' ἀρχόμεθα ζῆν, τότ' ἀποθνῄσκομεν. Οὐδὲν οὖν ἀλυσιτελέστερόν ἐστι φιλοδοξίας. Ἀλλ' εὐτυχεῖτε καὶ ἤτοι τὸν λόγον ἄφετε-πολὺς γὰρ ὁ πόνος-, ἢ καλῶς αὐτοῦ πρόστητε· μεγάλη γὰρ ἡ δόξα. Τὸ δὲ κενὸν τοῦ βίου πλεῖον τοῦ συμφέροντος. Ἀλλ' ἐμοὶ μὲν οὐκέτ' ἐκποιεῖ βουλεύεσθαι τί πρακτέον, ὑμεῖς δ' ἐπισκέψασθε τί ποιητέον",
-    "author": "Theophrastus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.41"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.41",
-    "tags": [
-      "λόγος"
-    ]
   },
   {
     "_id": 1893,
@@ -32399,23 +32420,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.14"
   },
   {
-    "_id": 1380,
-    "id": "mm-001328",
-    "type": "anecdote",
-    "year": -313,
-    "sr": "Spaljujući svoje spise, kako kaže Hekaton u prvoj knjizi Hrija, ponavljao je: Ovo su priviđenja podzemnih snova. Drugi pak kažu da je spaljivao Teofrastova predavanja govoreći: Hefeste, priđi ovamo, grad te sada treba.",
-    "stsl": "Своѩ писаниꙗ съжигаѩ · ꙗкоже глаголеть Хекатонъ въ прьвѣи книзѣ Хрии · припѣвааше · Се сѫть привиди подземьнꙑихъ сънъ · Инии же глаголѭть · ꙗко Ѳеофрастова слꙑшаниꙗ съжигаѩ · припѣвааше · Хефесте · приди сѣмо · градъ нынѣ тебе трѣбѹеть.",
-    "originalText": "Οὗτος τὰ ἑαυτοῦ συγγράμματα κατακαίων, ὥς φησιν Ἑκάτων ἐν πρώτῳ Χρειῶν, ἐπέλεγε· Τάδ' ἔστ' ὀνείρων νερτέρων φαντάσματα· οἱ δ', ὅτι τὰς Θεοφράστου ἀκροάσεις καταφλέγων ἐπέλεγε, Ἥφαιστε, πρόμολ' ὧδε, πόλις νύ τι σεῖο χατίζει.",
-    "author": "Metrocles",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VI.95"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.95"
-  },
-  {
     "_id": 1895,
     "id": "mm-001848",
     "type": "quote",
@@ -32454,21 +32458,21 @@
     ]
   },
   {
-    "_id": 1091,
-    "id": "mm-001112",
-    "type": "bio",
-    "year": -310,
-    "sr": "Živeli su najskromnije i najprostije. Jedna čaša vina bila im je dovoljna, a inače su pili samo vodu.",
-    "stsl": "Живꙗахѫ наискромьнѣишє і наипростѣишє · Єдина чаша віна довлѣваашє імъ · прочєє всє вода імъ бѣ пітіє ·",
-    "originalText": "εὐτελέστατα καὶ λιτότατα διαιτώμενοι· κοτύλῃ γοῦν, φησίν, οἰνιδίου ἠρκοῦντο, τὸ δὲ πᾶν ὕδωρ ἦν αὐτοῖς ποτόν.",
-    "author": "Epicurus",
+    "_id": 1380,
+    "id": "mm-001328",
+    "type": "anecdote",
+    "year": -313,
+    "sr": "Spaljujući svoje spise, kako kaže Hekaton u prvoj knjizi Hrija, ponavljao je: Ovo su priviđenja podzemnih snova. Drugi pak kažu da je spaljivao Teofrastova predavanja govoreći: Hefeste, priđi ovamo, grad te sada treba.",
+    "stsl": "Своѩ писаниꙗ съжигаѩ · ꙗкоже глаголеть Хекатонъ въ прьвѣи книзѣ Хрии · припѣвааше · Се сѫть привиди подземьнꙑихъ сънъ · Инии же глаголѭть · ꙗко Ѳеофрастова слꙑшаниꙗ съжигаѩ · припѣвааше · Хефесте · приди сѣмо · градъ нынѣ тебе трѣбѹеть.",
+    "originalText": "Οὗτος τὰ ἑαυτοῦ συγγράμματα κατακαίων, ὥς φησιν Ἑκάτων ἐν πρώτῳ Χρειῶν, ἐπέλεγε· Τάδ' ἔστ' ὀνείρων νερτέρων φαντάσματα· οἱ δ', ὅτι τὰς Θεοφράστου ἀκροάσεις καταφλέγων ἐπέλεγε, Ἥφαιστε, πρόμολ' ὧδε, πόλις νύ τι σεῖο χατίζει.",
+    "author": "Metrocles",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "X.11"
+        "reference": "VI.95"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.11"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.95"
   },
   {
     "_id": 1898,
@@ -32485,6 +32489,23 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.51-53"
+  },
+  {
+    "_id": 1091,
+    "id": "mm-001112",
+    "type": "bio",
+    "year": -310,
+    "sr": "Živeli su najskromnije i najprostije. Jedna čaša vina bila im je dovoljna, a inače su pili samo vodu.",
+    "stsl": "Живꙗахѫ наискромьнѣишє і наипростѣишє · Єдина чаша віна довлѣваашє імъ · прочєє всє вода імъ бѣ пітіє ·",
+    "originalText": "εὐτελέστατα καὶ λιτότατα διαιτώμενοι· κοτύλῃ γοῦν, φησίν, οἰνιδίου ἠρκοῦντο, τὸ δὲ πᾶν ὕδωρ ἦν αὐτοῖς ποτόν.",
+    "author": "Epicurus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "X.11"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.11"
   },
   {
     "_id": 1346,
@@ -32674,23 +32695,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.38"
   },
   {
-    "_id": 484,
-    "id": "mm-000490",
-    "type": "bio",
-    "year": -305,
-    "sr": "U mladosti je bio bokser.",
-    "stsl": "Въ юности пѧстьникъ бѣ ·",
-    "originalText": "Οὗτος πρῶτον ἦν πύκτης.",
-    "author": "Cleanthes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.168"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
-  },
-  {
     "_id": 1911,
     "id": "mm-001862",
     "type": "quote",
@@ -32724,12 +32728,46 @@
   },
   {
     "_id": 1998,
+    "id": "mm-002206",
+    "type": "anecdote",
+    "year": -305,
+    "sr": "Hekaton i Apolonije iz Tira kažu da je Zenon upitao proročište šta treba da čini kako bi najbolje proživeo život. Od boga dobi odgovor da poprimi boju mrtvih; razumevši odgovor, Zenon poče da čita spise drevnih pisaca.",
+    "stsl": "Хекатонъ же и Аполлонии Тѷрьскыи глаголѭть · ꙗко Зенонъ въпроси прорицалище · что творѧ наилѹчьше поживеть · Отъ бога же отъвѣтъ приꙗ · аще съ мрьтвꙑми єдиного цвѣта бѫдеть · Онъ же разумѣвъ · нача писаниꙗ древьнихъ чьсти.",
+    "originalText": "Ἑκάτων δέ φησι καὶ Ἀπολλώνιος ὁ Τύριος ἐν πρώτῳ Περὶ Ζήνωνος, χρηστηριασαμένου αὐτοῦ τί πράττων ἄριστα βιώσεται, ἀποκρίνασθαι τὸν θεόν, εἰ συγχρωτίζοιτο τοῖς νεκροῖς· ὅθεν ξυνέντα τὰ τῶν ἀρχαίων ἀναγινώσκειν.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.2"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.2"
+  },
+  {
+    "_id": 1999,
+    "id": "mm-002207",
+    "type": "bio",
+    "year": -304,
+    "sr": "S Kratetom se susreo ovako: prevozeći purpur iz Fenikije, doživeo je brodolom kod Pireja.",
+    "stsl": "Къ Кратетови же сице приде · Пѹрпѹромъ отъ Финикиѩ кѹпьчьствѹѩ · при Пиреи корабль єго съкрѹши сѧ.",
+    "originalText": "Τῷ οὖν Κράτητι παρέβαλε τοῦτον τὸν τρόπον. Πορφύραν ἐμπεπορευμένος ἀπὸ τῆς Φοινίκης πρὸς τῷ Πειραιεῖ ἐναυάγησεν.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.2"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.2"
+  },
+  {
+    "_id": 2000,
     "id": "mm-001955",
     "type": "anecdote",
-    "year": -304,
-    "sr": "Proročište mu je reklo da će najbolje živeti ako se oboji bojom mrtvih; shvativši to, počeo je čitati dela starih. Prevozio je purpur iz Fenikije i doživeo brodolom kod Pireja. Došavši u Atinu sa trideset godina, seo je kod nekog knjižara. Kad je ovaj čitao drugo Ksenofontovo Sećanje, oduševljen je pitao gde borave takvi ljudi. U pravo vreme prolazio je Kratet, pa ga je knjižar pokazavši rekao: 'Sledi ovoga.' Od tada je slušao Krata.",
-    "stsl": "Проричіщє рєчє ємѹ ꙗко наилѹчшє поживить ащє обоить сѧ ꙁнакомь мрьтвꙑхъ · разѹмѣвъ то · нача чітати дѣла старꙑхъ · Прєвожаашє пѹрпѹръ отъ Фінікіи і доживѣ кораблькрѹшєніє близъ Піреа · Прішєдъ въ Аѳины съ тридєсѧть лѣтъ · сѣдє при нѣкоємь книжницѣ · Єгда чьтꙗашє второе Ѯєнофонтово памѧтованіє · одѹшєвлєнъ въпрашааше кѫдѣ прѣбꙑваѭть таковіи чловѣци · Въ право врємѧ проходꙗашє Кратєтъ · і показавъ га книжьникъ рєчє · Слѣдѹи сєго · Отъ тогда слѹшаашє Крата.",
-    "originalText": "χρηστηριασαμένου αὐτοῦ τί πράττων ἄριστα βιώσεται, ἀποκρίνασθαι τὸν θέον, εἰ συγχρωτίζοιτο τοῖς νεκροῖς· ὅθεν ξυνέντα τὰ τῶν ἀρχαίων ἀναγινώσκειν. Πορφύραν ἐμπεπορευμένος ἀπὸ τῆς Φοινίκης πρὸς τῷ Πειραιεῖ ἐναυάγησεν. Ἀνελθὼν δ' εἰς τὰς Ἀθήνας ἤδη τριακοντούτης ἐκάθισε παρά τινα βιβλιοπώλην. Ἀναγινώσκοντος δ' ἐκείνου τὸ δεύτερον τῶν Ξενοφῶντος Ἀπομνημονευμάτων, ἡσθεὶς ἐπύθετο ποῦ διατρίβοιεν οἱ τοιοῦτοι ἄνδρες. Εὐκαίρως δὲ παριόντος Κράτητος, ὁ βιβλιοπώλης δείξας αὐτόν φησι, Τούτῳ παρακολούθησον. Ἐντεῦθεν ἤκουσε τοῦ Κράτητος.",
+    "year": -303,
+    "sr": "Kada dođe u Atinu, bilo mu je već trideset godina. Seo je kod nekog knjižara, koji je upravo čitao drugu knjigu Ksenofontovih uspomena o Sokratu. Oduševljen pročitanim, Zenon upita gde borave takvi ljudi. U pravi čas naiđe Kratet, pa knjižar pokaza na njega i reče: Sledi ovoga. Od tada je Zenon slušao Krateta.",
+    "stsl": "Въ Аѳинꙑ же пришедъ · тридесѧтилѣтьнъ ѹже бѣ · и сѣде при нѣкоемь книгопродавьци · Чьтѹщѹ же ономѹ въторѫѭ книгѫ Ксенофонтовꙑихъ памѧтовании о Сократѣ · насладивъ сѧ · Зенонъ въпроси · къдѣ таковии мѫжи прѣбꙑваѭть · Въ то же врѣмѧ мимо идѧаше Кратетъ · книгопродавьць же показа и и рече · Семѹ послѣдѹи · Отътолѣ Зенонъ Кратета слѹшааше.",
+    "originalText": "Ἀνελθὼν δ' εἰς τὰς Ἀθήνας ἤδη τριακοντούτης ἐκάθισε παρά τινα βιβλιοπώλην. Ἀναγινώσκοντος δ' ἐκείνου τὸ δεύτερον τῶν Ξενοφῶντος Ἀπομνημονευμάτων, ἡσθεὶς ἐπύθετο ποῦ διατρίβοιεν οἱ τοιοῦτοι ἄνδρες. Εὐκαίρως δὲ παριόντος Κράτητος, ὁ βιβλιοπώλης δείξας αὐτόν φησι, Τούτῳ παρακολούθησον. Ἐντεῦθεν ἤκουσε τοῦ Κράτητος.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -32761,43 +32799,9 @@
     "id": "mm-000491",
     "type": "bio",
     "year": -300,
-    "sr": "Došavši u Atinu sa četiri drahme i pridruživši se Zenonu, filozofirao je veoma plemenito i ostao pri istim učenjima.",
-    "stsl": "Прішєдъ въ Аѳинꙑ съ чєтꙑри драхмꙑ і прілѣпивъ сѧ Зєнонѹ · любомѫдрствоваашє плємєньно і оста при тѣхъждє ѹчєніихъ.",
-    "originalText": "Ἀφικόμενος δ' εἰς Ἀθήνας τέσσαρας ἔχων δραχμάς καὶ Ζήνωνι παραβαλὼν ἐφιλοσόφησε γενναιότατα καὶ ἐπὶ τῶν αὐτῶν ἔμεινε δογμάτων.",
-    "author": "Cleanthes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.168"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
-  },
-  {
-    "_id": 486,
-    "id": "mm-000492",
-    "type": "bio",
-    "year": -300,
-    "sr": "Bio je veoma siromašan te je odlučio da radi za platu; noću je vadio vodu u baštama, a danju se vežbao u razgovorima; zato je nazvan Ântlac (Izvaditelj vode iz bunara).",
-    "stsl": "Бѣ вєльми ѹбогъ тѣмьжє рѣши да дѣлаєть за платѹ · ношіѭ важдаашє водѹ въ вртограх є · а дьньмь ѹпражнꙗашє сѧ въ бєсѣдахъ · сєго ради нарєчєнъ Фреантлєсъ ·",
-    "originalText": "Διεβοήθη δ' ἐπὶ φιλοπονίᾳ, ὅς γε πένης ὢν ἄγαν ὥρμησε μισθοφορεῖν· καὶ νύκτωρ μὲν ἐν τοῖς κήποις ἤντλει, μεθ' ἡμέραν δ' ἐν τοῖς λόγοις ἐγυμνάζετο· ὅθεν καὶ Φρεάντλης ἐκλήθη.",
-    "author": "Cleanthes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.168"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
-  },
-  {
-    "_id": 487,
-    "id": "mm-000493",
-    "type": "anecdote",
-    "year": -300,
-    "sr": "Kažu da je doveden na sud da objasni kako živi tako dobro iako je siromašan; potom je oslobođen, dovevši kao svedoke i baštovana kod koga je vadio vodu i ženu koja prodaje brašno kod koje je mleo.",
-    "stsl": "Рєкѫть ꙗко вєдєнъ бꙑстъ на сѫдъ да обꙗсньть како живить тако добрѣ ащє є ѹбогъ · послѣди освободі сѧ · прівєдъ ꙗko свѣдѣтєлꙗ і вртоградара ѹ нєгожє важдаашє водѹ і жєнѹ ꙗжє продаашє мѫкѹ ѹ нєꙗжє тєрꙗашє.",
-    "originalText": "Φασὶ δ' αὐτὸν καὶ εἰς δικαστήριον ἀχθῆναι, λόγους δώσοντα πόθεν ἐς τοσοῦτον εὐέκτης ὢν διαζῇ· ἔπειτ' ἀποφυγεῖν, τόν τε κηπουρὸν μάρτυρα παρασχόντα παρ' ὃν ἤντλει, καὶ τὴν ἀλφιτόπωλιν παρ' ᾗ τὰ ἄλφιτα ἔπεττεν.",
+    "sr": "Kako neki kažu, dođe u Atinu sa svega četiri drahme, pristupi Zenonu, predano se posveti filozofiji i ostade dosledan istim učenjima.",
+    "stsl": "Ꙗкоже нѣціи глаголѭть · въ Аѳинꙑ пріиде · четꙑри токъмо драхмꙑ имꙑи · и къ Зенонѹ пристѫпивъ · доблѥ мѫдролюбьствова · и при тѣхъ же ѹчениихъ прѣбꙑсть.",
+    "originalText": "Ἀφικόμενος δ’ εἰς Ἀθήνας τέσσαρας ἔχων δραχμάς, καθά φασί τινες, καὶ Ζήνωνι παραβαλὼν ἐφιλοσόφησε γενναιότατα καὶ ἐπὶ τῶν αὐτῶν ἔμεινε δογμάτων.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -32927,13 +32931,13 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.109"
   },
   {
-    "_id": 2000,
+    "_id": 2002,
     "id": "mm-001957",
     "type": "anecdote",
     "year": -300,
-    "sr": "Kratet želeći da ga i od ovoga izleči, dao mu je da nosi lonac sočiva kroz Kerameik. Kad je video da se stidi i pokušava da se sakrije, udario ga je štapom i razbio lonac; dok je bežao i sočivo se slivalo niz noge, rekao je Kratet: 'Što bežiš, Feničanče? Ništa strašno ti se nije dogodilo.'",
-    "stsl": "Кратєтъ жєлꙗ да і отъ сєго іцѣлить · дадє ємѹ да носить горьнєць вовъ чрєзъ Кєрамєіка · Єгда відѣ ꙗко стꙑдить сѧ і покѹшаашє сѧ скрꙑти · ѹдари га жєзломь і разби горьнєць · бѣжѧщѹ жє ємѹ і вовꙋ тєкѫщѹ по ногама · рєчє Кратєтъ · Чєсо ради бѣжіши · Фінікіаньче · Ничтоже страшьно тебѣ не дѣꙗло сѧ.",
-    "originalText": "ὁ Κράτης βουλόμενος αὐτὸν καὶ τούτου θεραπεῦσαι δίδωσι χύτραν φακῆς διὰ τοῦ Κεραμεικοῦ φέρειν. Ἐπεὶ δ' εἶδεν αὐτὸν αἰδούμενον καὶ περικαλύπτοντα, παίσας τῇ βακτηρίᾳ κατάγνυσι τὴν χύτραν· φεύγοντος δ' αὐτοῦ καὶ τῆς φακῆς κατὰ τῶν σκελῶν ῥεούσης, φησὶν ὁ Κράτης, Τί φεύγεις, Φοινικίδιον; οὐδὲν δεινὸν πέπονθας.",
+    "sr": "Iako je inače bio veoma predan filozofiji, Zenon je bio suviše stidljiv za kiničku bestidnost. Želeći da ga izleči i od toga, Kratet mu dade da kroz Kerameik nosi lonac kaše od sočiva. Kada vide da se stidi i pokušava da sakrije lonac, udari ga štapom i razbi ga. Dok je Zenon bežao, a kaša mu se slivala niz noge, Kratet reče: Zašto bežiš, Feničanče? Ništa ti se strašno nije dogodilo.",
+    "stsl": "Инако къ любомѫдрьствѹ крѣпъкъ сꙑи · Зенонъ къ кѵничьстѣи бесрамьности стꙑдливъ бѣ · Кратетъ же · хотѧ и отъ сего и исцѣлити · даде емѹ горньць сочива чрѣзъ Керамикъ носити · Видѣвъ же и стꙑдѧща сѧ и горньць покрꙑваѭща · ѹдари жезломь и разби и · Бѣгѫщѹ же Зенонѹ · и сочивѹ по ногама єго текѫщѹ · рече Кратетъ · Чесо ради бѣжиши · Финикианьче · Ничтоже страшьно пострадалъ еси.",
+    "originalText": "Ἐντεῦθεν ἤκουσε τοῦ Κράτητος, ἄλλως μὲν εὔτονος ὢν πρὸς φιλοσοφίαν, αἰδήμων δὲ ὡς πρὸς τὴν Κυνικὴν ἀναισχυντίαν. Ὅθεν ὁ Κράτης βουλόμενος αὐτὸν καὶ τοῦτο θεραπεύσαι δίδωσι χύτραν φακῆς διὰ τοῦ Κεραμεικοῦ φέρειν. Ἐπεὶ δ' εἶδεν αὐτὸν αἰδούμενον καὶ παρακαλύπτοντα, παίσας τῇ βακτηρίᾳ κατάγνυσι τὴν χύτραν· φεύγοντος δ' αὐτοῦ καὶ τῆς φακῆς κατὰ τῶν σκελῶν ῥεούσης, φησὶν ὁ Κράτης, Τί φεύγεις, Φοινικίδιον; οὐδὲν δεινὸν πέπονθας.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -32944,12 +32948,12 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.3"
   },
   {
-    "_id": 2001,
+    "_id": 2003,
     "id": "mm-001958",
     "type": "bio",
     "year": -300,
-    "sr": "Predavao je u Šarenoj stoi (Stoa poikile), koja se zvala i Peisianakteion. Oni koji su dolazili da ga slušaju nazvani su Stoicima, i sledbenici takođe, prethodno nazivani Zenonijcima.",
-    "stsl": "Прєдаваашє въ Шарєноі стоі · ꙗжє наріцаашє сѧ і Пєісіанактєіонъ · Ꙇжє пріхождааше слѹшати га нарєкошѧ сѧ Стоіці · і слѣдꙑ такождє · прєждє наріцаєміи Зєнонііці.",
+    "sr": "Hodajući gore-dole po šarenom tremu, zvanom i Pejsijanaktov trem, izlagao je svoje učenje. Oni koji su potom dolazili da ga slušaju nazvani su stoicima; tako su nazvani i njegovi sledbenici, ranije zvani zenonovci.",
+    "stsl": "Въ Пестрѣи стои · ꙗже и Пеисианактиева нарицааше сѧ · хождааше и словеса своꙗ излагааше · Приходѧштии же потомь слѹшати его стоици нарекошѧ сѧ · такожде и послѣдователи его · прѣжде зеноновьци нарицаеми.",
     "originalText": "Ἀνακάμπτων δὴ ἐν τῇ ποικίλῃ στοᾷ τῇ καὶ Πεισιανακτίῳ καλουμένῃ, διετίθετο τοὺς λόγους. Προσῄεσαν δὴ λοιπὸν ἀκούοντες αὐτοῦ καὶ διὰ τοῦτο Στωικοὶ ἐκλήθησαν καὶ οἱ ἀπ' αὐτοῦ ὁμοίως, πρότερον Ζηνώνειοι καλούμενοι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -32965,8 +32969,8 @@
     "id": "mm-001978",
     "type": "bio",
     "year": -300,
-    "sr": "Slušao je Krateta, zatim Stilpona, Ksenokrata deset godina i Polemona.",
-    "stsl": "Кратета слѹшааше · потомь Стилпона · Ксенократа десѧть лѣтъ и Полемона ·",
+    "sr": "Kao što je već rečeno, slušao je Krateta; potom je, kako kažu, slušao i Stilpona, Ksenokrata deset godina — prema Timokratu u Dionu — kao i Polemona.",
+    "stsl": "Ꙗкоже прѣжде речено бꙑсть · Кратета слѹшааше · потомь же · ꙗкоже глаголѭть · и Стилпона · и Ксенократа десѧть лѣтъ · ꙗкоже Тимократъ въ Дионѣ глаголеть · и Полемона.",
     "originalText": "Διήκουσε δέ, καθάπερ προείρηται, Κράτητος· εἶτα καὶ Στίλπωνος ἀκοῦσαί φασιν αὐτὸν καὶ Ξενοκράτους ἔτη δέκα, ὡς Τιμοκράτης ἐν τῷ Δίωνι· ἀλλὰ καὶ Πολέμωνος.",
     "author": "Zeno of Citium",
     "sources": [
@@ -32982,8 +32986,8 @@
     "id": "mm-001981",
     "type": "bio",
     "year": -300,
-    "sr": "Govori se da je u Grčku došao sa više od hiljadu talenata i davao ih na pomorski zajam. Jeo je male hlebove i med i pio malo mirisnog vina.",
-    "stsl": "Глаголѭть ꙗко въ Грьчьскѫ съ боле тꙑсѫште талантъ прииде и на морьскыи заимъ ꙗ давааше · Малы хлѣбы и медъ ꙗдѣаше и мало благоѹханьна вина пиꙗше ·",
+    "sr": "Kažu da je u Grčku došao s više od hiljadu talenata i davao ih na pomorski zajam. Jeo je male hlebove i med, a pio pomalo mirisnog vina.",
+    "stsl": "Глаголѭть ꙗко въ Грьчьскѫ землю съ боле тꙑсѫште талантъ прииде · и на морьскꙑи заимъ ꙗ давааше · Малы хлѣбы и медъ ꙗдѣаше · и мало благоѹханьна вина пиꙗше.",
     "originalText": "Φασὶ δ' αὐτὸν ὑπὲρ χίλια τάλαντα ἔχοντα ἐλθεῖν εἰς τὴν Ἑλλάδα καὶ ταῦτα δανείζειν ναυτικῶς. Ἤσθιε δέ, φησί, ἀρτίδια καὶ μέλι καὶ ὀλίγον εὐώδους οἰναρίου ἔπινε.",
     "author": "Zeno of Citium",
     "sources": [
@@ -32993,6 +32997,40 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.13"
+  },
+  {
+    "_id": 486,
+    "id": "mm-000492",
+    "type": "bio",
+    "year": -299,
+    "sr": "Pročuo se po marljivosti: budući veoma siromašan, latio se rada za nadnicu. Noću je crpao vodu po vrtovima, a danju se vežbao u raspravama; zato ga prozvaše Freantlom, što znači onaj koji crpe iz bunara.",
+    "stsl": "Прослѹ сѧ прилѣжаниемь · ѕѣло бо ѹбогъ сꙑи · на мьздьно дѣло ѹстреми сѧ · Ноштиѭ въ вртоградѣхъ водѫ почръпаше · дьньмь же въ словесѣхъ ѹпражнꙗаше сѧ · сего ради Фреантль · сирѣчь иже отъ кладѧзѧ почръпаеть · нареченъ бꙑсть.",
+    "originalText": "Διεβοήθη δ' ἐπὶ φιλοπονίᾳ, ὅς γε πένης ὢν ἄγαν ὥρμησε μισθοφορεῖν· καὶ νύκτωρ μὲν ἐν τοῖς κήποις ἤντλει, μεθ' ἡμέραν δ' ἐν τοῖς λόγοις ἐγυμνάζετο· ὅθεν καὶ Φρεάντλης ἐκλήθη.",
+    "author": "Cleanthes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.168"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
+  },
+  {
+    "_id": 487,
+    "id": "mm-000493",
+    "type": "anecdote",
+    "year": -298,
+    "sr": "Kažu da je izveden pred sud da položi račun od čega živi i kako se održava tako krepak. Potom ga oslobodiše kada kao svedoke dovede vrtlara kod koga je crpao vodu i prodavačicu ječmenog brašna kojoj je mleo žito.",
+    "stsl": "Глаголѭть же ꙗко и на сѫдиште веденъ бꙑсть · да повѣсть отъкѫдѹ · толико крѣпъкъ сꙑи · живеть · Послѣди же оправданъ бꙑсть · свѣдѣтелѧ приведъ вртоградара · ѹ негоже водѫ почръпаше · и мѫкопродавицѫ · ѹ неѩже жито мѣлꙗаше.",
+    "originalText": "Φασὶ δ' αὐτὸν καὶ εἰς δικαστήριον ἀχθῆναι, λόγους δώσοντα πόθεν ἐς τοσοῦτον εὐέκτης ὢν διαζῇ· ἔπειτ' ἀποφυγεῖν, τόν τε κηπουρὸν μάρτυρα παρασχόντα παρ' ὃν ἤντλει, καὶ τὴν ἀλφιτόπωλιν παρ' ᾗ τὰ ἄλφιτα ἔπεττεν.",
+    "author": "Cleanthes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.168"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.168"
   },
   {
     "_id": 1360,
@@ -33010,6 +33048,23 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.131"
+  },
+  {
+    "_id": 496,
+    "id": "mm-000504",
+    "type": "bio",
+    "year": -290,
+    "sr": "Kažu da je ono što je slušao od Zenona zapisivao na krhotinama grnčarije i goveđim lopaticama, jer nije imao novca da kupi papirus.",
+    "stsl": "Глаголѭть · ꙗко ꙗже отъ Зенона слꙑшаше · на чрѣпѣхъ и говѧждиихъ лопатахъ писааше · не имꙑи пѣнѧѕь · да хартиѭ кѹпить.",
+    "originalText": "Τοῦτόν φασιν εἰς ὄστρακα καὶ βοῶν ὠμοπλάτας γράφειν ἅπερ ἤκουε παρὰ τοῦ Ζήνωνος, ἀπορίᾳ κερμάτων ὥστε ὠνήσασθαι χαρτία.",
+    "author": "Cleanthes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.174"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.174"
   },
   {
     "_id": 1361,
@@ -33046,57 +33101,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.137-138"
   },
   {
-    "_id": 1902,
-    "id": "mm-001857",
-    "type": "bio",
-    "year": -290,
-    "sr": "Pošto je boravio kod Stilpona, vratio se kući i oženio. Potom je sa ženom otišao Pironu u Elidu i tamo ostao dok mu se nisu rodila deca.",
-    "stsl": "Ѹ Стилпона прѣбывъ · домѹ сѧ възврати и ожени сѧ · Потомь съ женоѭ къ Пиронѹ въ Елидѫ отъиде и тамо прѣбысть · дондеже ємѹ чѧда родишѧ сѧ ·",
-    "originalText": "κἀκείνῳ συνδιατρίψαντα αὖθις ἐπανελθεῖν οἴκαδε καὶ γῆμαι. εἶτα πρὸς Πύρρωνα εἰς Ἦλιν ἀποδημῆσαι μετὰ τῆς γυναικὸς κἀκεῖ διατρίβειν ἕως αὐτῷ παῖδες ἐγένοντο.",
-    "author": "Timon of Phlius",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.109"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.109"
-  },
-  {
-    "_id": 2014,
-    "id": "mm-001987",
-    "type": "anecdote",
-    "year": -290,
-    "sr": "Na gozbi su dvojica ležala jedan ispod drugoga, a gornji je nogom bockao donjeg. Zenon tada kolenom bocnu gornjeg i, kada se ovaj okrenuo, upita: „Šta onda misliš da od tebe trpi onaj ispod tebe?“",
-    "stsl": "На пирѣ два дрѹгъ подъ дрѹгомъ лежаста · вышнии же нижнѧаго ногоѭ тъкноваше · Зенонъ тогда вышнѧаго колѣномь тъкнѫ и · єгда се обрати · въпроси · Что ѹбо мьниши подъ тобоѭ лежѧштаго отъ тебе страдати ·",
-    "originalText": "Δυοῖν δ' ὑπανακειμένοιν ἐν πότῳ καὶ τοῦ ὑπ' αὐτὸν τὸν ὑφ' ἑαυτὸν σκιμαλίζοντος τῷ ποδί, αὐτὸς ἐκεῖνον τῷ γόνατι. Ἐπιστραφέντος δέ, «Τί οὖν,» ἔφη, «οἴει τὸν ὑποκάτω σου πάσχειν ὑπὸ σοῦ;»",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.17"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.17"
-  },
-  {
-    "_id": 2015,
-    "id": "mm-001989",
-    "type": "anecdote",
-    "year": -290,
-    "sr": "Kada mu je mladić postavio pitanje radoznalije nego što priliči njegovom uzrastu, Zenon ga je priveo ogledalu i zapitao smatra li da takva pitanja pristaju takvom licu.",
-    "stsl": "Єгда ємѹ юноша паче своего възраста любопытенъ въпросъ постави · Зенонъ єго къ зерцалѹ приведе и въпроси · мьнить ли такова въпрошениꙗ таковомѹ лицѹ подобати ·",
-    "originalText": "μειρακίου δὲ περιεργότερον παρὰ τὴν ἡλικίαν ἐρωτῶντος ζήτημά τι, προσήγαγε πρὸς κάτοπτρον καὶ ἐκέλευσεν ἐμβλέψαι· ἔπειτ' ἠρώτησεν εἰ δοκεῖ αὐτῷ ἁρμόττοντα εἶναι ὄψει τοιαύτῃ τοιαῦτα ζητήματα.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.19"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19"
-  },
-  {
     "_id": 1935,
     "id": "mm-001879",
     "type": "works",
@@ -33114,21 +33118,21 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.11"
   },
   {
-    "_id": 2016,
-    "id": "mm-001994",
-    "type": "anecdote",
+    "_id": 1902,
+    "id": "mm-001857",
+    "type": "bio",
     "year": -290,
-    "sr": "Kada mu je neko pokazao sedam dijalektičkih oblika u argumentu „Žetelac“, Zenon ga je upitao koliku naknadu traži. Čuvši da traži sto drahmi, dao mu je dve stotine; toliko je voleo učenje.",
-    "stsl": "Єгда ємѹ нѣкто седмь разговорьныихъ образъ въ словѣ Жьньць показа · Зенонъ въпроси коликѫ мздѫ просить · Слꙑшавъ ꙗко съто драхмъ · двѣстѣ ємѹ дасть · Толико наѹкѫ люблѧаше ·",
-    "originalText": "Καὶ πρὸς τὸν δείξαντα δ' αὐτῷ διαλεκτικὸν ἐν τῷ θερίζοντι λόγῳ ἑπτὰ διαλεκτικὰς ἰδέας πυθέσθαι, πόσας εἰσπράττεται μισθοῦ· ἀκούσαντα δὲ ἑκατόν, διακοσίας αὐτῷ δοῦναι. Τοσοῦτον ἤσκει φιλομάθειαν.",
-    "author": "Zeno of Citium",
+    "sr": "Pošto je boravio kod Stilpona, vratio se kući i oženio. Potom je sa ženom otišao Pironu u Elidu i tamo ostao dok mu se nisu rodila deca.",
+    "stsl": "Ѹ Стилпона прѣбывъ · домѹ сѧ възврати и ожени сѧ · Потомь съ женоѭ къ Пиронѹ въ Елидѫ отъиде и тамо прѣбысть · дондеже ємѹ чѧда родишѧ сѧ ·",
+    "originalText": "κἀκείνῳ συνδιατρίψαντα αὖθις ἐπανελθεῖν οἴκαδε καὶ γῆμαι. εἶτα πρὸς Πύρρωνα εἰς Ἦλιν ἀποδημῆσαι μετὰ τῆς γυναικὸς κἀκεῖ διατρίβειν ἕως αὐτῷ παῖδες ἐγένοντο.",
+    "author": "Timon of Phlius",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VII.25"
+        "reference": "IX.109"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.25"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.109"
   },
   {
     "_id": 1937,
@@ -33167,12 +33171,46 @@
     ]
   },
   {
-    "_id": 2027,
-    "id": "mm-001980",
+    "_id": 2015,
+    "id": "mm-001989",
     "type": "anecdote",
     "year": -290,
-    "sr": "Kada je priložio za obnovu kupatila, zahtevao je da uz natpis „Zenon filozof“ bude dodato i „iz Kitija“, ne odričući se svoga grada.",
-    "stsl": "Єгда къ обновлению банѧ приложи · къ написанию Зенонъ любомѫдрьць приложити и отъ Китиꙗ повелѣ · своего града не отметаѩ сѧ ·",
+    "sr": "Kada je neki mladić postavio pitanje radoznalije nego što priliči njegovim godinama, Zenon ga privede ogledalu i reče mu da se pogleda. Potom ga upita pristaju li takva pitanja nekome ko tako izgleda.",
+    "stsl": "Юношѣ нѣкоемѹ паче своего възраста любопꙑтно въпрошениѥ поставльшѹ · Зенонъ его къ зерцалѹ приведе и вънь възрѣти повелѣ · потомь въпроси · подобаѭть ли такова въпрошениꙗ таковомѹ видѹ.",
+    "originalText": "μειρακίου δὲ περιεργότερον παρὰ τὴν ἡλικίαν ἐρωτῶντος ζήτημά τι, προσήγαγε πρὸς κάτοπτρον καὶ ἐκέλευσεν ἐμβλέψαι· ἔπειτ' ἠρώτησεν εἰ δοκεῖ αὐτῷ ἁρμόττοντα εἶναι ὄψει τοιαύτῃ τοιαῦτα ζητήματα.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.19"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19"
+  },
+  {
+    "_id": 2016,
+    "id": "mm-001994",
+    "type": "anecdote",
+    "year": -290,
+    "sr": "Kada mu je neki dijalektičar pokazao sedam dijalektičkih oblika u dokazu zvanom žetelac, Zenon ga upita koliku naknadu traži. Čuvši da traži sto drahmi, dade mu dve stotine; toliko je voleo učenje.",
+    "stsl": "Нѣкоемѹ словесословьцѹ седмь словесьнꙑихъ образъ въ словѣ жьньць показавъшѹ · Зенонъ въпроси коликѫ мздѫ просить · Слꙑшавъ же ꙗко съто драхмъ · двѣстѣ емѹ дасть · Толико наѹкѫ люблѧаше.",
+    "originalText": "Καὶ πρὸς τὸν δείξαντα δ' αὐτῷ διαλεκτικὸν ἐν τῷ θερίζοντι λόγῳ ἑπτὰ διαλεκτικὰς ἰδέας πυθέσθαι, πόσας εἰσπράττεται μισθοῦ· ἀκούσαντα δὲ ἑκατόν, διακοσίας αὐτῷ δοῦναι. Τοσοῦτον ἤσκει φιλομάθειαν.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.25"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.25"
+  },
+  {
+    "_id": 2027,
+    "id": "mm-001980",
+    "type": "bio",
+    "year": -290,
+    "sr": "Antigon iz Karista kaže da Zenon nije poricao da je iz Kitija. Kada je, kao jedan od priložnika za obnovu kupatila, na stubu bio upisan kao Zenon filozof, zatražio je da se doda i iz Kitija.",
+    "stsl": "Антигонъ Карѵстиискꙑи глаголеть · ꙗко Зенонъ Китиець бꙑти не отметааше сѧ · Единъ бо отъ даѭштихъ на обновлениѥ банѧ сꙑи · на столпѣ ꙗко Зенонъ любомѫдрьць написанъ бꙑсть · и Китиець приложити повелѣ.",
     "originalText": "Φησὶ δ' Ἀντίγονος ὁ Καρύστιος οὐκ ἀρνεῖσθαι αὐτὸν εἶναι Κιτιέα. Τῶν γὰρ εἰς τὴν ἐπισκευὴν τοῦ λουτρῶνος συμβαλλομένων εἷς ὢν καὶ ἀναγραφόμενος ἐν τῇ στήλῃ, «Ζήνωνος τοῦ φιλοσόφου,» ἠξίωσε καὶ τὸ Κιτιεὺς προστεθῆναι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -33182,40 +33220,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.12"
-  },
-  {
-    "_id": 2028,
-    "id": "mm-001984",
-    "type": "anecdote",
-    "year": -290,
-    "sr": "Izbegavao je mnoštvo: sedeo je na kraju klupe da bi se bar s jedne strane spasao smetnje i nije šetao s više od dvojice ili trojice. Ponekad je od okupljenih naplaćivao bakrenjak da ga, bojeći se davanja, ne bi uznemiravali.",
-    "stsl": "Мъножьства ѹкланѧаше сѧ · на коньци сѣдалища сѣдѣаше · да съ єдины страны стѫжениꙗ избавить сѧ · и не съ множаишими двою или трьмь хождааше · Овогда отъ обьстоѧштихъ мѣдьницѫ приємлѧаше · да · даваниꙗ боѧште сѧ · не стѫжаѭть ємѹ ·",
-    "originalText": "ἐξέκλινε δέ, φησί, καὶ τὸ πολυδημῶδες, ὡς ἐπ' ἄκρου καθίζεσθαι τοῦ βάθρου, κερδαίνοντα τὸ γοῦν ἕτερον μέρος τῆς ἐνοχλήσεως. Οὐ μὴν οὐδὲ μετὰ πλειόνων δύο ἢ τριῶν περιεπάτει. Ἐνίοτε δὲ καὶ χαλκὸν εἰσέπραττε τοὺς περιισταμένους, ὥστε δεδιότας τὸ διδόναι μὴ ἐνοχλεῖν, καθά φησι Κλεάνθης ἐν τῷ Περὶ χαλκοῦ.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.14"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.14"
-  },
-  {
-    "_id": 2029,
-    "id": "mm-001985",
-    "type": "anecdote",
-    "year": -290,
-    "sr": "Kada ga je Demohar pozdravio i ponudio da Antigonu kaže ili napiše sve što Zenonu zatreba, jer će mu kralj sve dati, Zenon se pošto je to čuo više nije s njim družio.",
-    "stsl": "Єгда єго Демохаръ цѣлова и обѣшта · ꙗко Антигонѹ вьсѧ єгова трѣбованиꙗ речеть или напишеть · зане цѣсарь вьсѧ ємѹ дасть · Зенонъ · се слꙑшавъ · ктомѹ съ нимь не прѣбывааше ·",
-    "originalText": "Δημοχάρους δὲ τοῦ Λάχητος ἀσπαζομένου αὐτὸν καὶ φάσκοντος λέγειν καὶ γράφειν ὧν ἂν χρείαν ἔχῃ πρὸς Ἀντίγονον, ὡς ἐκείνου πάντα παρέξοντος, ἀκούσας οὐκέτ' αὐτῷ συνδιέτριψε.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.14"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.14"
   },
   {
     "_id": 1942,
@@ -33234,12 +33238,46 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.20"
   },
   {
+    "_id": 2028,
+    "id": "mm-001984",
+    "type": "bio",
+    "year": -290,
+    "sr": "Izbegavao je gužvu: sedeo je na kraju klupe da bi se bar s jedne strane sačuvao uznemiravanja i nije šetao s više od dvojice ili trojice. Ponekad je od ljudi okupljenih oko sebe tražio bakrenjak, kako bi ga, iz straha da će morati da daju novac, prestali uznemiravati.",
+    "stsl": "Мъножьства ѹкланѧаше сѧ · на коньци сѣдалища сѣдѣаше · да поне съ едины страны стѫжениꙗ избавить сѧ · и не съ множаишими двою или трьмь хождааше · Овогда же отъ окрьстъ стоѧштихъ мѣдьницѫ просѧаше · да · даꙗниꙗ боѧште сѧ · не стѫжаѭть емѹ.",
+    "originalText": "ἐξέκλινε δέ, φησί, καὶ τὸ πολυδημῶδες, ὡς ἐπ' ἄκρου καθίζεσθαι τοῦ βάθρου, κερδαίνοντα τὸ γοῦν ἕτερον μέρος τῆς ἐνοχλήσεως. Οὐ μὴν οὐδὲ μετὰ πλειόνων δύο ἢ τριῶν περιεπάτει. Ἐνίοτε δὲ καὶ χαλκὸν εἰσέπραττε τοὺς περιισταμένους, ὥστε δεδιότας τὸ διδόναι μὴ ἐνοχλεῖν, καθά φησι Κλεάνθης ἐν τῷ Περὶ χαλκοῦ.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.14"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.14"
+  },
+  {
+    "_id": 2029,
+    "id": "mm-001985",
+    "type": "bio",
+    "year": -290,
+    "sr": "Kada ga je Demohar, Lahetov sin, pozdravio i rekao da samo treba da mu kaže šta mu je potrebno, pa će on to saopštiti ili napisati Antigonu, koji će mu sve pružiti, Zenon se, čuvši to, više nije družio s njim.",
+    "stsl": "Димохарѹ Лахетову сынѹ цѣловавъшѹ и и рекъшѹ · ꙗко токмо потребꙑ своꙗ да речеть · онъ же Антигонѹ речеть или напишеть · и цѣсарь вьсѧ емѹ подасть · Зенонъ · се слꙑшавъ · ктомѹ съ нимь не прѣбꙑвааше.",
+    "originalText": "Δημοχάρους δὲ τοῦ Λάχητος ἀσπαζομένου αὐτὸν καὶ φάσκοντος λέγειν καὶ γράφειν ὧν ἂν χρείαν ἔχῃ πρὸς Ἀντίγονον, ὡς ἐκείνου πάντα παρέξοντος, ἀκούσας οὐκέτ' αὐτῷ συνδιέτριψε.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.14"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.14"
+  },
+  {
     "_id": 2030,
     "id": "mm-001986",
     "type": "anecdote",
     "year": -290,
-    "sr": "Kada mu je neki kinik, tvrdeći da u posudi nema ulja, zatražio ulje, Zenon mu ga nije dao; kada je odlazio, pozvao ga je da razmisli koji je od njih dvojice bestidniji.",
-    "stsl": "Єгда нѣкыи киникъ · глаголѧ ꙗко въ съсѫдѣ масла не имать · масла ѹ него проси · Зенонъ ємѹ не дасть · исходѧшта же повелѣ размыслити · кыи отъ обою бесрамьнѣиши єсть ·",
+    "sr": "Kada mu neki kinik, tvrdeći da u bočici nema ulja, zatraži ulje, Zenon odbi da mu ga da. Dok je ovaj odlazio, Zenon mu reče da razmisli ko je od njih dvojice bestidniji.",
+    "stsl": "Нѣкоемѹ кѵникѹ · глаголѭштѹ ꙗко въ маслѣницѣ масла не имать · и ѹ него просяштѹ · Зенонъ не дасть · Отъходѧштѹ же ономѹ · повелѣ размыслити · кꙑи отъ обою бесрамьнѣиши єсть.",
     "originalText": "Ὡς δὲ Κυνικός τις οὐ φήσας ἔλαιον ἔχειν ἐν τῇ ληκύθῳ προσῄτησεν αὐτόν, οὐκ ἔφη δώσειν· ἀπελθόντα μέντοι ἐκέλευσε σκέψασθαι ὁπότερος εἴη ἀναιδέστερος.",
     "author": "Zeno of Citium",
     "sources": [
@@ -33249,40 +33287,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.17"
-  },
-  {
-    "_id": 2031,
-    "id": "mm-001988",
-    "type": "anecdote",
-    "year": -290,
-    "sr": "Kada je jednom pred proždrljivcem koji sustanarima ništa nije ostavljao poslužena velika riba, Zenon ju je podigao kao da će je celu pojesti. Kad ga je ovaj pogledao, Zenon reče: „Šta misliš da tvoji sustanari trpe svakog dana, ako ti ne možeš podneti moju proždrljivost?“",
-    "stsl": "Єгда прѣдъ ꙗдьцемь · иже съживѫштиимъ ничьтоже оставлѧаше · великѫ рыбѫ поставишѧ · Зенонъ ѭ възѧть · ꙗко вьсѫ сънѣсти хотѧ · Єгда онъ на нь възрѣ · Зенонъ рече · Что мьниши съживѫштиѩ твои по вьсѣ дьни страдати · аште тꙑ моєго ꙗдениꙗ тръпѣти не можеши ·",
-    "originalText": "Πρὸς δὲ τὸν ὀψοφάγον μηδὲν τοῖς συμβιωταῖς καταλιπόντα, παρατεθέντος ποτὲ μεγάλου ἰχθύος, ἄρας οἷός τ' ἦν κατεσθίειν· ἐμβλέψαντι δέ, «Τί οὖν,» ἔφη, «τοὺς συμβιωτὰς οἴει πάσχειν καθ' ἡμέραν, εἰ σὺ μὴ δύνασαι ἐνεγκεῖν τὴν ἐμὴν ὀψοφαγίαν;»",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.19"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19"
-  },
-  {
-    "_id": 2032,
-    "id": "mm-001990",
-    "type": "anecdote",
-    "year": -290,
-    "sr": "Čoveka koji je govorio da mu se većina Antistenovih reči ne dopada Zenon je upitao nalazi li u njima išta lepo. Kada ovaj reče da ne zna, Zenon odgovori: „Zar se ne stidiš što biraš i pamtiš svako Antistenovo zlo, a lepo ni ne pokušavaš da zadržiš?“",
-    "stsl": "Чловѣка · глаголѭшта ꙗко множаишѧ Антисѳенова словеса ємѹ не люба сѫть · Зенонъ въпроси · обрѣтаєть ли въ нихъ нѣчто красно · Єгда онъ рече ꙗко не вѣсть · Зенонъ отъвѣшта · Не срамиши ли сѧ · аште вьсѣко зло Антисѳеномъ речено избираєши и памѧтѹєши · красно же ни дрьжати покѹшаєши сѧ ·",
-    "originalText": "Πρὸς δὲ τὸν φάσκοντα ὡς τὰ πολλὰ αὐτῷ Ἀντισθένης οὐκ ἀρέσκοι, χρείαν Σοφοκλέους προενεγκάμενος ἠρώτησεν εἴ τινα καὶ καλὰ ἔχειν αὐτῷ δοκεῖ· τοῦ δ' οὐκ εἰδέναι φήσαντος, «Εἶτ' οὐκ αἰσχύνῃ,» ἔφη, «εἰ μέν τι κακὸν ἦν εἰρημένον ὑπ' Ἀντισθένους, τοῦτ' ἐκλεγόμενος καὶ μνημονεύων, εἰ δέ τι καλόν, οὐδ' ἐπιβαλλόμενος κατέχειν;»",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.19"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19"
   },
   {
     "_id": 1946,
@@ -33465,21 +33469,21 @@
     ]
   },
   {
-    "_id": 2066,
-    "id": "mm-002024",
+    "_id": 2031,
+    "id": "mm-001987",
     "type": "anecdote",
     "year": -290,
-    "sr": "Kada mu se nametao lep i bogat Rođanin koji inače ništa nije znao, Zenon ga je prvo posadio na prašnjavu klupu da uprlja ogrtač, a potom među siromahe da se tare o njihove rite. Mladić je naposletku otišao.",
-    "stsl": "Єгда ємѹ краснъ и богатъ Родьць · инако же ничьтоже вѣдѧи · прилѣплѧаше сѧ · Зенонъ єго пръвѣє на прашьно сѣдалище посади · да ризѫ оскврьнить · потомь междѹ ништиѩ · да о ихъ рѹби тьреть сѧ · На коньци юноша отъиде ·",
-    "originalText": "Ῥοδίου δέ τινος καλοῦ καὶ πλουσίου ἄλλως δὲ μηδέν, προσκειμένου αὐτῷ, μὴ βουλόμενος ἀνέχεσθαι, πρῶτον μὲν ἐπὶ τὰ κεκονιμένα τῶν βάθρων ἐκάθιζεν αὐτόν, ἵνα μολύνῃ τὴν χλανίδα· ἔπειτα εἰς τὸν τῶν πτωχῶν τόπον, ὥστε συνανατρίβεσθαι τοῖς ῥάκεσιν αὐτῶν· καὶ τέλος ἀπῆλθεν ὁ νεανίσκος.",
+    "sr": "Na gozbi su pored Zenona ležala dvojica. Onaj bliži Zenonu bockao je nogom čoveka do sebe, pa Zenon njega bocnu kolenom. Kada se ovaj okrenu, Zenon upita: Šta misliš, kako je čoveku koga ti bockaš nogom?",
+    "stsl": "На пирѣ при Зенонѣ два мѫжа възлежаста · Ближнѣи же Зенонѹ дрѹга своего ногоѭ тълкааше · Зенонъ же того колѣномь тълкнѫ · Обративъшѹ сѧ ономѹ · рече · Что ѹбо мьниши · како мѫжеви єсть · егоже ногоѭ тълкаеши.",
+    "originalText": "Δυοῖν δ' ὑπανακειμένοιν ἐν πότῳ καὶ τοῦ ὑπ' αὐτὸν τὸν ὑφ' ἑαυτὸν σκιμαλίζοντος τῷ ποδί, αὐτὸς ἐκεῖνον τῷ γόνατι. Ἐπιστραφέντος δέ, «Τί οὖν,» ἔφη, «οἴει τὸν ὑποκάτω σου πάσχειν ὑπὸ σοῦ;»",
     "author": "Zeno of Citium",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "VII.22"
+        "reference": "VII.17"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.22"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.17"
   },
   {
     "_id": 1957,
@@ -33522,12 +33526,46 @@
     ]
   },
   {
-    "_id": 2073,
+    "_id": 2032,
+    "id": "mm-001988",
+    "type": "anecdote",
+    "year": -290,
+    "sr": "Neki proždrljivac nije ostavljao ništa svojim sustanarima. Kada jednom iznesoše veliku ribu, Zenon je podiže kao da će je celu pojesti. Kad ga proždrljivac pogleda, Zenon reče: Šta misliš da tvoji sustanari trpe svakoga dana, ako ti ne možeš podneti moju proždrljivost?",
+    "stsl": "Нѣкꙑи ꙗдьць съживѫштиимъ съ нимь ничьтоже оставлѧаше · Єдиноѭ же великѣи рыбѣ прѣдъложенѣи бꙑвъши · Зенонъ ѭ възѧть · ꙗко вьсѫ сънѣсти хотѧ · Єгда онъ на нь възрѣ · Зенонъ рече · Что мьниши съживѫштиꙗ съ тобою по вьсѣ дьни страдати · аще тꙑ моего ꙗдениꙗ тръпѣти не можеши.",
+    "originalText": "Πρὸς δὲ τὸν ὀψοφάγον μηδὲν τοῖς συμβιωταῖς καταλιπόντα, παρατεθέντος ποτὲ μεγάλου ἰχθύος, ἄρας οἷός τ' ἦν κατεσθίειν· ἐμβλέψαντι δέ, «Τί οὖν,» ἔφη, «τοὺς συμβιωτὰς οἴει πάσχειν καθ' ἡμέραν, εἰ σὺ μὴ δύνασαι ἐνεγκεῖν τὴν ἐμὴν ὀψοφαγίαν;»",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.19"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19"
+  },
+  {
+    "_id": 2068,
+    "id": "mm-002024",
+    "type": "bio",
+    "year": -290,
+    "sr": "Neki Rođanin, lep i bogat, ali bez drugih vrlina, uporno je želeo da mu se pridruži. Ne želeći da ga trpi, Zenon ga prvo posadi na prašnjavu klupu da uprlja ogrtač, a zatim među siromahe da se tare o njihove rite. Mladić naposletku ode.",
+    "stsl": "Нѣкꙑи Родиець · краснъ и богатъ · инꙑѩ же добродѣтели не имꙑ · къ немѹ прилѣплѧаше сѧ · Зенонъ же · не хотѧ его тръпѣти · пръвѣе на прашьно сѣдалище посади и · да ризѫ оскврьнить · потомь междѹ ништиꙗ · да о ихъ рѹби тьреть сѧ · На коньци юноша отъиде.",
+    "originalText": "Ῥοδίου δέ τινος καλοῦ καὶ πλουσίου ἄλλως δὲ μηδέν, προσκειμένου αὐτῷ, μὴ βουλόμενος ἀνέχεσθαι, πρῶτον μὲν ἐπὶ τὰ κεκονιμένα τῶν βάθρων ἐκάθιζεν αὐτόν, ἵνα μολύνῃ τὴν χλανίδα· ἔπειτα εἰς τὸν τῶν πτωχῶν τόπον, ὥστε συνανατρίβεσθαι τοῖς ῥάκεσιν αὐτῶν· καὶ τέλος ἀπῆλθεν ὁ νεανίσκος.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.22"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.22"
+  },
+  {
+    "_id": 2075,
     "id": "mm-002031",
     "type": "anecdote",
     "year": -290,
-    "sr": "Dok je Zenon bičevao roba zbog krađe, rob reče: „Bilo mi je suđeno da kradem.“ Zenon odgovori: „I da budeš bijen.“",
-    "stsl": "Єгда Зенонъ раба за татьбѫ биꙗше · рабъ рече · Сѫждено ми бѣ красти · Зенонъ отвѣшта · И биєнѹ быти ·",
+    "sr": "Dok je Zenon bičevao roba zbog krađe, rob reče: Bilo mi je suđeno da kradem. Zenon odgovori: I da budeš išiban.",
+    "stsl": "Зенонѹ раба за татьбѫ биѭштѹ · рабъ рече · Сѫждено ми бѣ красти · Зенонъ отъвѣшта · И биенѹ бꙑти.",
     "originalText": "Δοῦλον ἐπὶ κλοπῇ, φασίν, ἐμαστίγου· τοῦ δ' εἰπόντος, «Εἵμαρτό μοι κλέψαι,» ἔφη, «καὶ δαρῆναι.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -33537,40 +33575,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.23"
-  },
-  {
-    "_id": 1897,
-    "id": "mm-001850",
-    "type": "bio",
-    "year": -287,
-    "sr": "Teofrast je umro u osamdeset petoj godini, pošto je tek malo popustio u radu; u starosti su ga nosili u nosiljci.",
-    "stsl": "Тєофрастъ въ осмьдесѧть пѧтѣмь лѣтѣ ѹмрѣ · єгда тъкмо мало отъ трѹда ослаби · въ старости же на носилѣ носимъ бѣ ·",
-    "originalText": "Ἐτελεύτα δὴ γηραιός, βιοὺς ἔτη πέντε καὶ ὀγδοήκοντα, ἐπειδήπερ ὀλίγον ἀνῆκε τῶν πόνων. Φαβωρῖνος δέ φησι γηράσαντα αὐτὸν ἐν φορείῳ περιφέρεσθαι.",
-    "author": "Theophrastus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.40–41"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.40-41"
-  },
-  {
-    "_id": 1899,
-    "id": "mm-001854",
-    "type": "anecdote",
-    "sr": "Po njegovoj smrti svi su Atinjani, u znak poštovanja prema njemu, pešice pratili njegovu pogrebnu povorku.",
-    "stsl": "По смрьти єго · въ честь мужа · вьси Атинѧне ногою погребныи ходъ проводиша ·",
-    "author": "Theophrastus",
-    "year": -287,
-    "originalText": "Πάντες δ' Ἀθηναῖοι, φησὶν Ἀντίγονος, ἐπὶ τῇ προθέσει αὐτοῦ παρῆσαν.",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "V.41"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.41"
   },
   {
     "_id": 1962,
@@ -33592,21 +33596,21 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.21"
   },
   {
-    "_id": 1369,
-    "id": "mm-001320",
+    "_id": 1897,
+    "id": "mm-001850",
     "type": "bio",
-    "year": -285,
-    "sr": "Gozbe je priređivao ovako: najpre bi s dvojicom ili trojicom obedovao do kasno u dan, a potom bi neko pozvao pristigle goste, koji su već bili večerali. Leti su na ležajevima bile rogožine, zimi ovčije kože; čaša koja je kružila nije bila veća od jedne kotile. Za poslasticu su služili lupina ili bob, a katkad i sezonsko voće: kruška, nar, grašak ili čak suve smokve.",
-    "stsl": "Пиры же симь образомь творѧаше · Прѣжде съ двѣма или трема до поздьна дьне ꙗдѧаше · потомь же нѣкто пришедъшыѧ гости · ѹже вечерѧвъшыѧ · зъвааше · Лѣтѣ на ложихъ рогозины бѣахѫ · зимѣ же овьчиѧ кожи · чаша же · ꙗже окръстъ хождааше · не вѧшти єдины котилы бѣ · На сладъкъ же коньць лѹпинъ или бобъ · иногда же и врѣменьныи плодъ · крѹша или гранатъ · или грахъ · или сѹхыѧ смокъвы ·",
-    "originalText": "Τὰ δὲ συμπόσια τοῦτον ἐποιεῖτο τὸν τρόπον· προηρίστα μετὰ δυοῖν ἢ τριῶν ἕως βραδέως ἦν τῆς ἡμέρας· ἔπειτά τις ἐκάλει τοὺς παραγενομένους καὶ αὐτοὺς ἤδη δεδειπνηκότας. Ἦν δὲ τοῦ μὲν θέρους ψίαθος ἐπὶ τῶν κλινῶν, τοῦ δὲ χειμῶνος κώδιον· τό τε περιαγόμενον ποτήριον οὐ μεῖζον ἦν κοτυλιαίου· τράγημα θέρμος ἢ κύαμος, ἔστι δ' ὅτε καὶ τῶν ὡρίων ἄπιος ἢ ῥοιὰ ἢ ὦχροι ἢ νὴ Δί' ἰσχάδες.",
-    "author": "Menedemus",
+    "year": -287,
+    "sr": "Teofrast je umro u osamdeset petoj godini, pošto je tek malo popustio u radu; u starosti su ga nosili u nosiljci.",
+    "stsl": "Тєофрастъ въ осмьдесѧть пѧтѣмь лѣтѣ ѹмрѣ · єгда тъкмо мало отъ трѹда ослаби · въ старости же на носилѣ носимъ бѣ ·",
+    "originalText": "Ἐτελεύτα δὴ γηραιός, βιοὺς ἔτη πέντε καὶ ὀγδοήκοντα, ἐπειδήπερ ὀλίγον ἀνῆκε τῶν πόνων. Φαβωρῖνος δέ φησι γηράσαντα αὐτὸν ἐν φορείῳ περιφέρεσθαι.",
+    "author": "Theophrastus",
     "sources": [
       {
         "name": "diogenes-laertius",
-        "reference": "II.139"
+        "reference": "V.40–41"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.139"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.40-41"
   },
   {
     "_id": 1964,
@@ -33623,6 +33627,40 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.48"
+  },
+  {
+    "_id": 1899,
+    "id": "mm-001854",
+    "type": "anecdote",
+    "sr": "Po njegovoj smrti svi su Atinjani, u znak poštovanja prema njemu, pešice pratili njegovu pogrebnu povorku.",
+    "stsl": "По смрьти єго · въ честь мужа · вьси Атинѧне ногою погребныи ходъ проводиша ·",
+    "author": "Theophrastus",
+    "year": -287,
+    "originalText": "Πάντες δ' Ἀθηναῖοι, φησὶν Ἀντίγονος, ἐπὶ τῇ προθέσει αὐτοῦ παρῆσαν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.41"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.41"
+  },
+  {
+    "_id": 1369,
+    "id": "mm-001320",
+    "type": "bio",
+    "year": -285,
+    "sr": "Gozbe je priređivao ovako: najpre bi s dvojicom ili trojicom obedovao do kasno u dan, a potom bi neko pozvao pristigle goste, koji su već bili večerali. Leti su na ležajevima bile rogožine, zimi ovčije kože; čaša koja je kružila nije bila veća od jedne kotile. Za poslasticu su služili lupina ili bob, a katkad i sezonsko voće: kruška, nar, grašak ili čak suve smokve.",
+    "stsl": "Пиры же симь образомь творѧаше · Прѣжде съ двѣма или трема до поздьна дьне ꙗдѧаше · потомь же нѣкто пришедъшыѧ гости · ѹже вечерѧвъшыѧ · зъвааше · Лѣтѣ на ложихъ рогозины бѣахѫ · зимѣ же овьчиѧ кожи · чаша же · ꙗже окръстъ хождааше · не вѧшти єдины котилы бѣ · На сладъкъ же коньць лѹпинъ или бобъ · иногда же и врѣменьныи плодъ · крѹша или гранатъ · или грахъ · или сѹхыѧ смокъвы ·",
+    "originalText": "Τὰ δὲ συμπόσια τοῦτον ἐποιεῖτο τὸν τρόπον· προηρίστα μετὰ δυοῖν ἢ τριῶν ἕως βραδέως ἦν τῆς ἡμέρας· ἔπειτά τις ἐκάλει τοὺς παραγενομένους καὶ αὐτοὺς ἤδη δεδειπνηκότας. Ἦν δὲ τοῦ μὲν θέρους ψίαθος ἐπὶ τῶν κλινῶν, τοῦ δὲ χειμῶνος κώδιον· τό τε περιαγόμενον ποτήριον οὐ μεῖζον ἦν κοτυλιαίου· τράγημα θέρμος ἢ κύαμος, ἔστι δ' ὅτε καὶ τῶν ὡρίων ἄπιος ἢ ῥοιὰ ἢ ὦχροι ἢ νὴ Δί' ἰσχάδες.",
+    "author": "Menedemus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.139"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.139"
   },
   {
     "_id": 1831,
@@ -33644,10 +33682,10 @@
   {
     "_id": 2017,
     "id": "mm-001992",
-    "type": "anecdote",
+    "type": "bio",
     "year": -285,
-    "sr": "Na gozbi su ga pitali zašto ćuti. Zamolio je ispitivača da kralju prenese kako je tu bio neko ko ume da ćuti; pitanja su postavljali Ptolemejevi poslanici koji su želeli da čuju šta će Zenon poručiti kralju.",
-    "stsl": "На пирѣ въпросишѧ єго почто мълчить · Въпросивъшемѹ повелѣ цѣсарю възвѣстити · ꙗко тѹ нѣкто бѣ · иже мълчати вѣсть · Птолемеєвы бо посли въпрашаахѫ · хотѧште вѣдѣти что Зенонъ цѣсарю речеть ·",
+    "sr": "Dok je na gozbi ćutao, upitaše ga zašto. Zenon reče onome koji mu je to zamerio da prenese kralju kako je tu bio neko ko ume da ćuti. Pitanje su postavili Ptolemejevi izaslanici, koji su želeli da čuju šta će Zenon poručiti kralju.",
+    "stsl": "На пирѣ мълчѧштѹ емѹ · въпросиша его почто мълчить · Зенонъ же въпросивъшемѹ повелѣ цѣсарю възвѣстити · ꙗко тѹ нѣкто бѣ · иже мълчати вѣсть · Птолемѣеви бо посли въпрашаахѫ · хотѧште вѣдѣти что Зенонъ цѣсарю речеть.",
     "originalText": "Ἐν συμποσίῳ κατακείμενος σιγῇ τὴν αἰτίαν ἠρωτήθη· ἔφη οὖν τῷ ἐγκαλέσαντι ἀπαγγεῖλαι πρὸς τὸν βασιλέα ὅτι παρῆν τις σιωπᾶν ἐπιστάμενος· ἦσαν δὲ οἱ ἐρωτήσαντες παρὰ Πτολεμαίου πρέσβεις ἀφικόμενοι καὶ βουλόμενοι μαθεῖν τί εἴποιεν παρ' αὐτοῦ πρὸς τὸν βασιλέα.",
     "author": "Zeno of Citium",
     "sources": [
@@ -33663,8 +33701,8 @@
     "id": "mm-001982",
     "type": "anecdote",
     "year": -285,
-    "sr": "Kada je Persej doveo sviračicu na fruli Zenonu, on ju je privukao ka Perseju i njemu je vratio.",
-    "stsl": "Єгда Персеи свиралицѫ къ Зенонѹ приведе · онъ ѭ къ Персею привлѣче и ємѹ възврати ·",
+    "sr": "Stanovao je u istoj kući s Persejem. Kada je Persej jednom doveo k njemu mladu frulašicu, Zenon je odmah povede natrag Perseju.",
+    "stsl": "Съ Персеемь въ томьжде домѹ живѣаше · Персею же єдиноѭ младѫ свиралицѫ къ немѹ приведъшѹ · Зенонъ ѭ абие къ Персею възведе.",
     "originalText": "σύν τε Περσαίῳ τὴν αὐτὴν οἰκίαν ᾤκει· καὶ αὐτοῦ αὐλητρίδιον εἰσαγαγόντος πρὸς αὐτόν, σπάσας πρὸς τὸν Περσαῖον αὐτὸ ἀπήγαγεν.",
     "author": "Zeno of Citium",
     "sources": [
@@ -33710,12 +33748,12 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.162"
   },
   {
-    "_id": 496,
+    "_id": 497,
     "id": "mm-000502",
     "type": "anecdote",
     "year": -280,
-    "sr": "Kad je pesnik Sosithej u pozorištu u njegovom prisustvu rekao: 'Koje Kleantova glupost goni kao volove', ostao je u istom položaju; čudnim ga gledajući slušaoci aplaudirali su njemu, a Sositheja isterali. Kad mu se ovaj kasnio izvinjavao zbog vređanja, primio ga je govoreći da bi bilo čudno da se Dionizije i Heraklo ne ljute na gluposti koje pesnici o njima pišu, a on da se uznemiruje zbog slučajne psovke.",
-    "stsl": "Єгда пѣснопѣвьць Сосіѳеі въ поꙁоріщѣ въ єго прісѫствіи рєчє · Ꙇхжє Клєантова глѹпость гоньть ꙗко волꙑ · оста въ томьждє положєніи · дівьнꙑмь га зърѧщє слѹшатєлє аплодіраше ємѹ · а Сосіѳеа іспѫдишѧ · Єгда же сєи послѣдіи ізвинꙗашє сѧ раді оскрьблєніꙗ · пріѩть га глаголꙗ ꙗко бі било чѹдьно ащє Діонісіи і Хєраклъ нє лѭтꙗть сѧ на глѹпости ꙗжє пѣснопѣвьці о ніхъ пішѫть · а онъ да сѧ въсмѫщаєть раді слѹчаінꙑꙗ псовкꙑ.",
+    "sr": "Dok je Kleant bio u pozorištu, pesnik Sosithej izgovori pred njim stih: One koje Kleantova glupost goni kao volove. Kleant ostade nepomičan. Zadivljeni gledaoci zapljeskaše njemu, a Sositheja isteraše. Kada mu se Sosithej potom izvini zbog uvrede, Kleant mu oprosti, rekavši da bi bilo besmisleno da se Dionis i Herakle ne srde kada pesnici o njima govore koješta, a da se on vređa zbog usputne pogrde.",
+    "stsl": "Клеантѹ въ позоришти сѫштѹ · пѣснотворьць Сосиѳеи прѣдъ нимь стихъ рече · Ꙗже Клеантова глѹпость ꙗко волꙑ гонить · Клеантъ же неподвижимъ прѣбꙑсть · Слѹшателе · дививъше сѧ · емѹ плескаахѫ · Сосиѳеа же изгънаша · Послѣди же Сосиѳеѭ о хѹлѣ каѭштѹ сѧ · Клеантъ прости и · рекъ ꙗко безѹмьно би било · Дионисиѭ и Хераклѹ · пѣснотворьцемъ о нию празднословѧштемъ · не гнѣвати сѧ · емѹ же слѹчаинꙑѧ хѹлꙑ ради негодовати.",
     "originalText": "Σωσιθέου τοῦ ποιητοῦ ἐν θεάτρῳ εἰπόντος πρὸς αὐτὸν παρόντα, Οὓς ἡ Κλεάνθους μωρία βοηλατεῖ, ἔμεινεν ἐπὶ ταὐτοῦ σχήματος· ἐφ' ᾧ ἀγασθέντες οἱ ἀκροαταὶ τὸν μὲν ἐκρότησαν, τὸν δὲ Σωσίθεον ἐξέβαλον. Μεταγινώσκοντα δ' αὐτὸν ἐπὶ τῇ λοιδορίᾳ προσήκατο, εἰπὼν ἄτοπον εἶναι τὸν μὲν Διόνυσον καὶ τὸν Ἡρακλέα φλυαρουμένους ὑπὸ τῶν ποιητῶν μὴ ὀργίζεσθαι, αὐτὸν δ' ἐπὶ τῇ τυχούσῃ βλασφημίᾳ δυσχεραίνειν.",
     "author": "Cleanthes",
     "sources": [
@@ -33725,40 +33763,6 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.173"
-  },
-  {
-    "_id": 497,
-    "id": "mm-000503",
-    "type": "anecdote",
-    "year": -280,
-    "sr": "Kažu da je, kada je tvrdio po Zenonu da se karakter može prepoznati po izgledu, neki mladići doveli kod njega razvratnika koji je odrastao u selu i tražili da prosuđi o karakteru; on je bio u nedoumici i naredio čoveku da ode. Kad je ovaj odlazeći kihnuo, rekao je Kleant: 'Imam ga! Mekan je.'",
-    "stsl": "Рєкѫть ꙗко єгда твръдꙗашє по Зєнонѹ ꙗко є можьно познати характєръ по відѣнію · нѣціи ѹношє прівєдошѧ къ нємѹ развратьніка ꙇжє въꙁрастє въ сєлѣ і потърєбовашѧ да просѫдить о характєрѣ · онъ же бѣ въ нєдоѹмѣніи і повєлѣ чловѣкѹ да ідєть · Єгда жє сєи ідꙗ кꙑхнѫ · рєчє Клєантъ · Імамъ га · Мєкъкъ єсть.",
-    "originalText": "Λέγεται δέ, φάσκοντος αὐτοῦ κατὰ Ζήνωνα καταληπτὸν εἶναι τὸ ἦθος ἐξ εἴδους, νεανίσκους τινὰς εὐτραπέλους ἀγαγεῖν πρὸς αὐτὸν κίναιδον ἐσκληραγωγημένον ἐν ἀγρῷ καὶ ἀξιοῦν ἀποφαίνεσθαι περὶ τοῦ ἤθους· τὸν δὲ διαπορούμενον κελεῦσαι ἀπιέναι τὸν ἄνθρωπον. Ὡς δ' ἀπιὼν ἐκεῖνος ἔπταρεν, Ἔχω, εἶπεν, αὐτόν, ὁ Κλεάνθης, Μαλακός ἐστι.",
-    "author": "Cleanthes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.173-174"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.173-174"
-  },
-  {
-    "_id": 498,
-    "id": "mm-000504",
-    "type": "bio",
-    "year": -280,
-    "sr": "Kažu da je ono što je slušao od Zenona zapisivao na crepovima i goveđim lopaticama, jer nije imao novca da kupi papirus.",
-    "stsl": "Глаголѭть · ꙗко єже отъ Зенона слѹшааше · на чрѣпѣхъ и говѧждиихъ лопатахъ писааше · сребра бо не имѣаше да папиръ кѹпить ·",
-    "originalText": "Τοῦτόν φασιν εἰς ὄστρακα καὶ βοῶν ὠμοπλάτας γράφειν ἅπερ ἤκουε παρὰ τοῦ Ζήνωνος, ἀπορίᾳ κερμάτων ὥστε ὠνήσασθαι χαρτία.",
-    "author": "Cleanthes",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.174"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.174"
   },
   {
     "_id": 1362,
@@ -33897,12 +33901,12 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.110"
   },
   {
-    "_id": 2002,
+    "_id": 2004,
     "id": "mm-001959",
     "type": "bio",
     "year": -280,
-    "sr": "Atinjani su veoma poštovali Zenona, čak su mu poverili ključeve zidina i počastili ga zlatnim vencem i bronzanom statijom.",
-    "stsl": "Аѳинꙗни почтошѧ Зєнона вєльми · пакꙑ повѣришѧ ємѹ ключи стѣнъ і почтошѧ га златꙑмь вєнцємь і мѣдѣною статієѭ.",
+    "sr": "Atinjani su veoma poštovali Zenona: poverili su mu ključeve gradskih zidina i počastili ga zlatnim vencem i bronzanom statuom.",
+    "stsl": "Аѳинѣи Зенона вельми чьтѣахѫ · ꙗко и ключа градьскыихъ стѣнъ емѹ повѣриша · и златꙑмь вѣньцемь и мѣдѣнꙑмь образомь почьтоша и.",
     "originalText": "Ἐτίμων δὴ οὖν Ἀθηναῖοι σφόδρα τὸν Ζήνωνα, οὕτως ὡς καὶ τῶν τειχῶν αὐτῷ τὰς κλεῖς παρακαταθέσθαι καὶ χρυσῷ στεφάνῳ τιμῆσαι καὶ χαλκῇ εἰκόνι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -33914,12 +33918,12 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.6"
   },
   {
-    "_id": 2040,
+    "_id": 2042,
     "id": "mm-001998",
     "type": "bio",
     "year": -280,
-    "sr": "Među znamenitim Zenonovim učenicima bili su Persej iz Kitija, Ariston sa Hiosa, Heril iz Kartagine, Dionisije Odmetnik, Sfer sa Bosfora i Kleant iz Asa, koji ga je nasledio na čelu škole. Slušali su ga i Filonid Tebanac, Kalip Korinćanin, Posejdonije Aleksandrijski, Atenodor iz Sola i Zenon iz Sidona.",
-    "stsl": "Междѹ знаменьныими Зеноновыми ѹченики бѣахѫ Персеи Китиискъ · Аристонъ Хиосъкъ · Ерилъ Карѳагеньскъ · Дионисии Отъстѫпьникъ · Сферъ Боспорьскъ и Клеантъ Асосъкъ · иже по немь школѫ приѧть · Слѹшаахѫ єго и Филонидъ Фиваньскъ · Калиппъ Коринѳьскъ · Посеидонии Александриискъ · Аѳинодоръ Солеискъ и Зенонъ Сидоньскъ ·",
+    "sr": "Među znamenitim Zenonovim učenicima bili su Persej, Demetrijev sin, iz Kitija; Ariston, Miltijadov sin, sa Hiosa; Heril iz Kartagine; Dionisije Odmetnik; Sfer sa Bosfora; i Kleant, Fanijev sin, iz Asa, koji ga je nasledio na čelu škole. Prema Hipobotu, Zenonovi učenici bili su i Filonid Tebanac, Kalip Korinćanin, Posejdonije Aleksandrijski, Atenodor iz Sola i Zenon iz Sidona.",
+    "stsl": "Междѹ славьнꙑими Зеноновꙑими ѹченикꙑ бѣахѫ Персеи · Димитриевъ сынъ · Китиець · Аристонъ · Милтиадовъ сынъ · Хиосець · Ерилъ Карѳагеньскъ · Дионисии Отъстѫпьникъ · Сферъ Боспорьскъ · и Клеанѳъ · Фаниевъ сынъ · Асосець · иже по немь ѹчилище приѧть · По Иппоботѹ же · Зенонови ѹченици бѣахѫ и Филонидъ Фиваньскъ · Калиппъ Коринѳьскъ · Посидонии Александриискъ · Аѳинодоръ Солеискъ и Зенонъ Сидоньскъ.",
     "originalText": "Μαθηταὶ δὲ Ζήνωνος πολλοὶ μέν, ἔνδοξοι δὲ Περσαῖος Δημητρίου Κιτιεύς, Ἀρίστων Μιλτιάδου Χῖος, Ἥριλλος Καρχηδόνιος, Διονύσιος ὁ μεταθέμενος, Σφαῖρος Βοσποριανός· Κλεάνθης Φανίου Ἄσσιος, ὁ διαδεξάμενος τὴν σχολήν. Ἦσαν δὲ Ζήνωνος μαθηταὶ καὶ οἵδε, καθά φησιν Ἱππόβοτος· Φιλωνίδης Θηβαῖος, Κάλλιππος Κορίνθιος, Ποσειδώνιος Ἀλεξανδρεύς, Ἀθηνόδωρος Σολεύς, Ζήνων Σιδώνιος.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34019,6 +34023,23 @@
     "tags": [
       "εἶναι"
     ]
+  },
+  {
+    "_id": 498,
+    "id": "mm-000503",
+    "type": "anecdote",
+    "year": -275,
+    "sr": "Kažu da je Kleant, sledeći Zenona, tvrdio da se narav može poznati po izgledu. Neki šaljivi mladići dovedoše mu ženstvenog razvratnika prekaljenog seoskim životom i zatražiše da prosudi njegovu narav. Kleant se zbuni i naredi čoveku da ode. Kada ovaj na odlasku kihnu, Kleant reče: Sad ga imam: ženstven je.",
+    "stsl": "Глаголѭть же · Клеантѹ по Зенонѹ глаголѭштѹ · ꙗко нравъ отъ образа познати мощьно єсть · нѣціи шѹтьливи ѹноше приведошѧ къ немѹ женовидьна развратьника · сельскꙑмь житиемь ѹкрѣплена · и просишѧ да о нравѣ его рассѫдить · Клеантъ же не вѣдꙑи · повелѣ мѫжеви отъити · Егда же онъ отходѧ кꙑхнѫ · Клеантъ рече · Обрѣтохъ и · женовидьнъ єсть.",
+    "originalText": "Λέγεται δέ, φάσκοντος αὐτοῦ κατὰ Ζήνωνα καταληπτὸν εἶναι τὸ ἦθος ἐξ εἴδους, νεανίσκους τινὰς εὐτραπέλους ἀγαγεῖν πρὸς αὐτὸν κίναιδον ἐσκληραγωγημένον ἐν ἀγρῷ καὶ ἀξιοῦν ἀποφαίνεσθαι περὶ τοῦ ἤθους· τὸν δὲ διαπορούμενον κελεῦσαι ἀπιέναι τὸν ἄνθρωπον. Ὡς δ' ἀπιὼν ἐκεῖνος ἔπταρεν, Ἔχω, εἶπεν, αὐτόν, ὁ Κλεάνθης, Μαλακός ἐστι.",
+    "author": "Cleanthes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.173-174"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.173-174"
   },
   {
     "_id": 1372,
@@ -34140,23 +34161,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.62"
   },
   {
-    "_id": 1907,
-    "id": "mm-001861",
-    "type": "anecdote",
-    "year": -270,
-    "sr": "Kažu da je Arato upitao ga kako bi sigurno stekao Homerovu poeziju, a on rekao je: 'Ako bi nailazio na stare prepise, a ne na već ispravljene.'",
-    "stsl": "Рєкѫть ꙗko Аратъ въпрашааше га како бі сігѹрно стѧжалъ Хомєровѫ поєꙁіѭ · а онъ рєчє · Ащє бі наілазілъ на старꙑꙗ прєпісꙑ · а нє на южє ісправлєнꙑꙗ.",
-    "originalText": "φασὶ δὲ καὶ Ἄρατον πυθέσθαι αὐτοῦ πῶς τὴν Ὁμήρου ποίησιν ἀσφαλῆ κτήσαιτο, τὸν δὲ εἰπεῖν, εἰ τοῖς ἀρχαίοις ἀντιγράφοις ἐντυγχάνοι καὶ μὴ τοῖς ἤδη διωρθωμένοις.",
-    "author": "Timon of Phlius",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.113"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.113"
-  },
-  {
     "_id": 1996,
     "id": "mm-001949",
     "type": "quote",
@@ -34174,12 +34178,29 @@
     "pointer": "data/sources/walter-burley/latin_raw/xenophon.txt:1"
   },
   {
+    "_id": 1907,
+    "id": "mm-001861",
+    "type": "anecdote",
+    "year": -270,
+    "sr": "Kažu da je Arato upitao ga kako bi sigurno stekao Homerovu poeziju, a on rekao je: 'Ako bi nailazio na stare prepise, a ne na već ispravljene.'",
+    "stsl": "Рєкѫть ꙗko Аратъ въпрашааше га како бі сігѹрно стѧжалъ Хомєровѫ поєꙁіѭ · а онъ рєчє · Ащє бі наілазілъ на старꙑꙗ прєпісꙑ · а нє на южє ісправлєнꙑꙗ.",
+    "originalText": "φασὶ δὲ καὶ Ἄρατον πυθέσθαι αὐτοῦ πῶς τὴν Ὁμήρου ποίησιν ἀσφαλῆ κτήσαιτο, τὸν δὲ εἰπεῖν, εἰ τοῖς ἀρχαίοις ἀντιγράφοις ἐντυγχάνοι καὶ μὴ τοῖς ἤδη διωρθωμένοις.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.113"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.113"
+  },
+  {
     "_id": 499,
     "id": "mm-000505",
     "type": "bio",
     "year": -262,
-    "sr": "Iako je među Zenonovim učenicima bilo mnogo drugih uglednih ljudi, upravo je Kleant uspeo da nasledi školu.",
-    "stsl": "Аште и мнози инии славьни Зенонови ѹченици бѣахѫ · самъ Клеантъ школѫ наслѣдити възможе ·",
+    "sr": "Iako je Zenon imao mnogo drugih uglednih učenika, Kleant je ipak uspeo da ga nasledi na čelu škole.",
+    "stsl": "Аще и мнози инии славьни Зенонови ѹченици бѣахѫ · Клеантъ обаче школѫ наслѣдити възможе.",
     "originalText": "Τοιοῦτος δ' ὢν ἐξίσχυσε, πολλῶν καὶ ἄλλων ὄντων ἀξιολόγων Ζήνωνος μαθητῶν, αὐτὸς διαδέξασθαι τὴν σχολήν.",
     "author": "Cleanthes",
     "sources": [
@@ -34195,8 +34216,8 @@
     "id": "mm-001971",
     "type": "anecdote",
     "year": -262,
-    "sr": "Umro je ovako: idući iz škole, spotkao se i slomio prst; udarivši zemlju rukom, rekao je stih iz Niobe: 'Idem; što me pozivaš?' i odmah je umro, zadavivši se.",
-    "stsl": "Ѹмрѣ сіцє · грѧдꙑи отъ школꙑ · съпъньноѹ сѧ і сломи прьстъ · ѹдаривъ зємлѭ рѫкоѭ · рєчє стихъ отъ Ніовꙑ · Ідѫ · чєсо мѧ пріꙁꙑваєши · і отъьмахъ ѹмрѣ · задавивъ сѧ.",
+    "sr": "Umro je ovako: izlazeći iz škole, spotakao se i slomio prst na nozi. Udarivši rukom o zemlju, naveo je stih iz Niobe: Dolazim; zašto me zoveš? Odmah potom preminu, zadržavši dah.",
+    "stsl": "Ѹмрѣ же сице · изъ ѹчилища исходѧ · потъкнѫ сѧ и прьстъ ножьныи сломи · Рѫкоѭ же землѭ ѹдаривъ · стихъ изъ Ниовꙑ рече · Грѧдѫ · чесо мѧ зовеши · И абие ѹмрѣ · дъхъ свои ѹдрьжавъ.",
     "originalText": "ἐκ τῆς σχολῆς ἀπιὼν προσέπταισε καὶ τὸν δάκτυλον περιέρρηξε· παίσας δὲ τὴν γῆν τῇ χειρί, φησὶ τὸ ἐκ τῆς Νιόβη, Ἔρχομαι· τί μ' αὔεις; καὶ παραχρῆμα ἐτελεύτησεν, ἀποπνίξας ἑαυτόν.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34208,28 +34229,12 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.28"
   },
   {
-    "_id": 1999,
-    "id": "mm-001956",
-    "type": "quote",
-    "sr": "Sada dobro plovim, pošto sam brodolom preživeo.",
-    "stsl": "Нꙑнѣ добрѣ пловѫ · понєжє кораблькрѹшєніє прєживѣхъ.",
-    "originalText": "Νῦν εὐπλόηκα, ὅτε νεναυάγηκα.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.5"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.5"
-  },
-  {
     "_id": 2034,
     "id": "mm-001979",
     "type": "bio",
     "year": -262,
-    "sr": "Atinski narodni dekret pohvalio je Zenona zato što je godinama u gradu živeo kao dobar čovek, mlade podsticao na vrlinu i razboritost i sopstvenim životom davao primer saglasan svom učenju. Određeni su mu zlatni venac i javni grob u Kerameiku.",
-    "stsl": "Атиньскыи народьныи ставъ Зенона похвали · зане мънога лѣта въ градѣ ꙗко добръ чловѣкъ живѣаше · юношы къ добродѣтели и разборьности въздвизааше и своимь житиємь · съгласнымь ѹчению · образъ давааше · Златъ вѣньць и обьшти гробъ въ Керамикѣ ємѹ поставишѧ ·",
+    "sr": "Pošto je Zenon iz Kitija, Mnasejev sin, mnogo godina proveo u gradu baveći se filozofijom, ostao valjan čovek i u svemu drugom, a mladiće koji su mu dolazili podsticao na vrlinu i čednost, usmeravajući ih ka najboljem, i svima pružio primer sopstvenim životom, saglasnim učenju koje je izlagao, narod je uz dobru sreću odlučio da ga pohvali i, po zakonu, ovenča zlatnim vencem zbog vrline i čednosti, kao i da mu o javnom trošku podigne grob u Kerameiku.",
+    "stsl": "Понеже Зенонъ Китиець · Мнасѣевъ сынъ · мънога лѣта въ градѣ любомѫдрьствѹꙗ прѣбꙑсть · и въ инꙑихъ добръ мѫжь до коньца бѣ · юношы же къ немѹ приходѧштиꙗ къ добродѣтели и цѣломѫдрию въздвизааше · къ лѹчьшимъ наставлѧꙗ · и свое житиѥ · словесемъ его съгласно · вьсѣмъ образъ положи · народъ · при добрѣи срѣшти · Зенона похвалити · и по законѹ добродѣтели и цѣломѫдриꙗ ради златꙑмь вѣньцемь вѣньчати · и гробъ емѹ въ Керамицѣ обьштимь имѣниемь създати повелѣ.",
     "originalText": "Ἐπειδὴ Ζήνων Μνασέου Κιτιεὺς ἔτη πολλὰ κατὰ φιλοσοφίαν ἐν τῇ πόλει γενόμενος ἔν τε τοῖς λοιποῖς ἀνὴρ ἀγαθὸς ὢν διετέλεσε καὶ τοὺς εἰς σύστασιν αὐτῷ τῶν νέων πορευομένους παρακαλῶν ἐπ' ἀρετὴν καὶ σωφροσύνην παρώρμα πρὸς τὰ βέλτιστα, παράδειγμα τὸν ἴδιον βίον ἐκθεὶς ἅπασιν ἀκόλουθον ὄντα τοῖς λόγοις οἷς διελέγετο, τύχῃ ἀγαθῇ δεδόχθαι τῷ δήμῳ, ἐπαινέσαι μὲν Ζήνωνα Μνασέου Κιτιέα καὶ στεφανῶσαι χρυσῷ στεφάνῳ κατὰ τὸν νόμον ἀρετῆς ἕνεκεν καὶ σωφροσύνης, οἰκοδομῆσαι δὲ αὐτῷ καὶ τάφον ἐπὶ τοῦ Κεραμεικοῦ δημοσίᾳ.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34239,6 +34244,22 @@
       }
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.10-11"
+  },
+  {
+    "_id": 2001,
+    "id": "mm-001956",
+    "type": "quote",
+    "sr": "Dobro sam zaplovio tek kada sam doživeo brodolom.",
+    "stsl": "Нꙑнѣ добрѣ пловѫ · егда корабль ми съкрѹши сѧ.",
+    "originalText": "Νῦν εὐπλόηκα, ὅτε νεναυάγηκα.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.5"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.5"
   },
   {
     "_id": 1374,
@@ -34275,12 +34296,29 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.144"
   },
   {
-    "_id": 2003,
+    "_id": 440,
+    "id": "mm-000446",
+    "type": "bio",
+    "year": -260,
+    "sr": "U mladosti je vežbao trčanje na duge staze.",
+    "stsl": "Въ юности на дългѹ стьзѹ тръчание упражнꙗаше ·",
+    "originalText": "Οὗτος πρότερον μὲν δόλιχον ἤσκει.",
+    "author": "Chrysippus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.179"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.179"
+  },
+  {
+    "_id": 2005,
     "id": "mm-001960",
-    "type": "quote",
-    "sr": "Ovo je nekad bilo u sredini, ali pošto je smetalo, pomereno je u stranu; tako i vi pomerivši se iz sredine manje ćete nam smetati.",
-    "stsl": "Сє єгда бѣашє посрєдѣ · нъ понєжє прєпꙗтьствоваашє · прємѣсті сѧ на странѫ · тако і вꙑ прємѣстивъшє сѧ отъ срєдꙑ мєнꙿшє намъ прєпꙗтьствовати бѫдєтє.",
-    "originalText": "Τοῦτό ποτ' ἐν μέσῳ ἔκειτο, διὰ δὲ τὸ ἐμποδίζειν ἰδίᾳ ἐτέθη· καὶ ὑμεῖς οὖν ἐκ τοῦ μέσου βαστάσαντες αὑτοὺς ἧττον ἡμῖν ἐνοχλήσετε.",
+    "type": "reported",
+    "sr": "Kada se oko njega okupilo mnogo ljudi, Zenon pokaza na drvenu ogradu oko žrtvenika u tremu i reče: Nekada je stajala nasred prolaza, ali je sklonjena u stranu jer je smetala. Tako ćete nam i vi manje smetati ako se uklonite s puta.",
+    "stsl": "Мънозѣмъ окрьстъ его стоѧштемъ · Зенонъ показа дрѣвѣнѫ оградѫ окрьстъ олтарѧ въ стои и рече · Си когда посредѣ стоꙗаше · нъ понеже прѣпѧтьствовааше · на странѫ положена бꙑсть · Тако и вꙑ · отъ пути отъшедъше · мьнѣе намъ стѫжати бѫдете.",
+    "originalText": "Πλειόνων τε περιστάντων αὐτόν, δείξας ἐν τῇ στοᾷ κατ' ἄκρου τὸ ξύλινον περιφερὲς τοῦ βωμοῦ ἔφη, Τοῦτό ποτ' ἐν μέσῳ ἔκειτο, διὰ δὲ τὸ ἐμποδίζειν ἰδίᾳ ἐτέθη· καὶ ὑμεῖς οὖν ἐκ τοῦ μέσου βαστάσαντες αὑτοὺς ἧττον ἡμῖν ἐνοχλήσετε.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -34291,11 +34329,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.14"
   },
   {
-    "_id": 2004,
+    "_id": 2006,
     "id": "mm-001961",
     "type": "reported",
-    "sr": "Antigon, upitan zašto ga divljuje, rekao je: 'Zato što iako sam mu mnogo i velikih stvari davao, nikad se nije uzoholio niti ponizio.'",
-    "stsl": "Антігонъ въпрошєнъ почто га дивить сѧ · рєчє · Понєжє ащє і много і вєликꙑхъ вєщи даꙗхъ ємѹ · никогдаже ѹзохоли сѧ ни понизі.",
+    "sr": "Kada su Antigona upitali zašto se divi Zenonu, odgovori: Zato što se, ma koliko mu velikih darova davao, nikada nije ni uzoholio ni ponizio.",
+    "stsl": "Антигонъ · въпрошенъ почто Зенонѹ дивить сѧ · рече · Понеже · аще и мънога и велика емѹ даꙗхъ · никогдаже ни възнесе сѧ ни ѹничиженъ ꙗви сѧ.",
     "originalText": "Ἐρωτηθεὶς δὲ διὰ τί θαυμάζει αὐτόν, Ὅτι, ἔφη, πολλῶν καὶ μεγάλων αὐτῷ διδομένων ὑπ' ἐμοῦ οὐδεπώποτε ἐχαυνώθη οὐδὲ ταπεινὸς ὤφθη.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34307,12 +34345,12 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.15"
   },
   {
-    "_id": 2005,
+    "_id": 2007,
     "id": "mm-001962",
-    "type": "quote",
-    "sr": "Pravedno se plaši blata; jer ne može se u njemu ogledati.",
-    "stsl": "Правєдьно боить сѧ блата · нє можєть бо сѧ въ нємь огльдати.",
-    "originalText": "Δικαίως ὑφορᾷ τὸν πηλόν· οὐ γὰρ ἔστιν ἐν αὐτῷ κατοπτρίσασθαι.",
+    "type": "reported",
+    "sr": "Kada je neki kicoš oprezno prelazio preko jarka, Zenon reče: S pravom zazire od blata, jer se u njemu ne može ogledati.",
+    "stsl": "Нѣкоемѹ красѧштѹ сѧ мѫжеви · ровъ съ опасениемь прѣходѧштѹ · Зенонъ рече · Правьдьно блата блюдеть сѧ · не можеть бо въ немь лица своего огледати.",
+    "originalText": "Ὀχέτιον γάρ τι ὀκνηρῶς αὐτοῦ ὑπερβαίνοντος, Δικαίως, εἰπεῖν, ὑφορᾷ τὸν πηλόν· οὐ γὰρ ἔστιν ἐν αὐτῷ κατοπτρίσασθαι.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -34323,12 +34361,12 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.17"
   },
   {
-    "_id": 2006,
+    "_id": 2008,
     "id": "mm-001963",
-    "type": "quote",
-    "sr": "I od lekara čujem da je najbolji lek za upalu mir.",
-    "stsl": "І отъ лѣкарь слꙑшахъ ꙗко єсть наилѹчши лѣкъ за ѹпалѹ міръ.",
-    "originalText": "Καὶ τῶν ἰατρῶν ἀκούω τῶν ἀγαθῶν, κράτιστον εἶναι φάρμακον πρὸς τὰ φλεγμαίνοντα ἡσυχίαν.",
+    "type": "reported",
+    "sr": "Dok su Zenon i Kleant sedeli kraj Hremonida, u koga je Zenon bio zaljubljen, Zenon ustade. Kada se Kleant začudi, Zenon reče: I od dobrih lekara čujem da je mirovanje najbolji lek za upalu.",
+    "stsl": "Зенонѹ и Клеанѳѹ при Хремонидѣ сѣдѧштема · егоже Зенонъ люблѧаше · Зенонъ въста · Клеанѳѹ же дивѧштѹ сѧ · рече · И отъ добрыихъ врачь слꙑшѫ · ꙗко покои наилѹчьше врачеваниѥ воспаленꙑимъ єсть.",
+    "originalText": "Ἐρωτικῶς δὲ διακείμενος Χρεμωνίδου, παρακαθιζόντων αὐτοῦ τε καὶ Κλεάνθους, ἀνέστη· θαυμάζοντος δὲ τοῦ Κλεάνθους ἔφη, Καὶ τῶν ἰατρῶν ἀκούω τῶν ἀγαθῶν, κράτιστον εἶναι φάρμακον πρὸς τὰ φλεγμαίνοντα ἡσυχίαν.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -34342,12 +34380,12 @@
     ]
   },
   {
-    "_id": 2007,
+    "_id": 2009,
     "id": "mm-001964",
-    "type": "quote",
-    "sr": "Nemoguće je, osim ako te otac nije začeo pijan.",
-    "stsl": "Невъзможьно єсть · развѣ ащє тѧ отъьць нє зачѧтъ піꙗнъ.",
-    "originalText": "Ἀδύνατον, εἰ μή σε ὁ πατὴρ μεθύων ἐγέννησεν.",
+    "type": "reported",
+    "sr": "Kada je njegov učenik Ariston govorio nadugo i bez dara, a ponešto i nepromišljeno i drsko, Zenon reče: To bi bilo nemoguće da te otac nije začeo pijan. Zato ga je nazivao brbljivcem, budući da je sam govorio sažeto.",
+    "stsl": "Аристонѹ же · ѹченикѹ его · мънога и неразумьно глаголѭштѹ · нѣкаꙗ же и напрасно и дръзостно · Зенонъ рече · Невъзможьно бꙑ било · аще тѧ отьць пиꙗнъ не роди · Тѣмь и блъботьника нарицааше и · самъ кратъкословьнъ сꙑи.",
+    "originalText": "Ἀρίστωνος δὲ τοῦ μαθητοῦ πολλὰ διαλεγομένου οὐκ εὐφυῶς, ἔνια δὲ καὶ προπετῶς καὶ θρασέως, Ἀδύνατον, εἰπεῖν, εἰ μή σε ὁ πατὴρ μεθύων ἐγέννησεν· ὅθεν αὐτὸν καὶ λάλον ἀπεκάλει, βραχυλόγος ὤν.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -34355,14 +34393,18 @@
         "reference": "VII.18"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.18"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.18",
+    "tags": [
+      "εἶναι",
+      "λόγος"
+    ]
   },
   {
-    "_id": 2008,
+    "_id": 2010,
     "id": "mm-001965",
-    "type": "quote",
-    "sr": "Govorio je da reči bezbednih i besprimernih slične su aleksandrijskom novcu: lepog izgleda i dobro označene kao i novac, ali ništa bolje zbog toga. A suprotne je poredeo sa atičkim tetradrahmama: nasumično isečene i sa greškama, ali često vrednije od uglačanih izraza.",
-    "stsl": "Глаголаашє ꙗко словєса безгрѣшьныхъ і бєзъмѣрьныхъ подобна сѫть алеѯандрискомѹ сєрєбрѹ · лѣпа вида і добрѣ означєна ꙗкоже і срєбро · нъ ничьсоже лѹчьша тѣмь · А протъивьнаꙗ подобꙗашє аттикискимъ тєтрадрахмамъ · насѹмьчьно ісѣчєнꙑ і съ грѣхꙑ · нъ часто цѣннѣишꙑ ѹглачєныхъ ізразъ.",
+    "type": "reported",
+    "sr": "Govorio je da su pravilni i doterani izrazi onih koji se čuvaju jezičkih grešaka nalik Aleksandrovom novcu: lepi su na pogled i pravilno zaokruženi kao kovanice, ali zbog toga nisu ništa bolji. Suprotne izraze poredio je sa atičkim tetradrahmama: nemarno i nevešto kovanim, ali ipak često težim od krasnopisnih reči.",
+    "stsl": "Глаголааше · ꙗко исправьна и съврьшена словеса не погрѣшаѭштихъ подобьна сѫть Александрьскомѹ сребрѹ · красна видомь и окрѫгла ꙗкоже пѣнѧзи · нъ ничимь тѣмь лѹчьша · Противьнаꙗ же словеса аттикиискыимъ четꙑридрахмамъ подоблѧаше · небрѣжно и неискусно кованꙑимъ · нъ обаче чѧсто тѧжьша краснописанꙑихъ словесъ.",
     "originalText": "Ἔφασκε δὲ τοὺς μὲν τῶν ἀσολοίκων λόγους καὶ ἀπηρτισμένους ὁμοίους εἶναι τῷ ἀργυρίῳ τῷ Ἀλεξανδρινῷ· εὐοφθάλμους μὲν καὶ περιγεγραμμένους καθὰ καὶ τὸ νόμισμα, οὐδὲν δὲ διὰ ταῦτα βελτίονας. Τοὺς δὲ τοὐναντίον ἀφωμοίου τοῖς Ἀττικοῖς τετραδράχμοις εἰκῆ μὲν κεκομμένοις καὶ σολοίκως, καθέλκειν μέντοι πολλάκις τὰς κεκαλλιγραφημένας λέξεις.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34379,12 +34421,12 @@
     ]
   },
   {
-    "_id": 2009,
+    "_id": 2011,
     "id": "mm-001966",
-    "type": "quote",
-    "sr": "Prijatelj je drugi ja.",
-    "stsl": "Другъ єсть въторꙑи азъ.",
-    "originalText": "Ἄλλος ἐγώ.",
+    "type": "reported",
+    "sr": "Upitan ko je prijatelj, Zenon odgovori: Drugi ja.",
+    "stsl": "Въпрошенъ къто єсть дрѹгъ · Зенонъ отъвѣшта · Дрѹгыи азъ.",
+    "originalText": "Ἐρωτηθεὶς τίς ἐστι φίλος, Ἄλλος, ἔφη, ἐγώ.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -34395,11 +34437,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.23"
   },
   {
-    "_id": 2010,
+    "_id": 2012,
     "id": "mm-001967",
     "type": "quote",
-    "sr": "Lepota je cvet razumnosti.",
-    "stsl": "Лѣпотъа єсть цвѣтъ цѣломѫдріꙗ.",
+    "sr": "Lepota je cvet čednosti.",
+    "stsl": "Красота цвѣтъ цѣломѫдриꙗ єсть.",
     "originalText": "Τὸ κάλλος τῆς σωφροσύνης ἄνθος εἶναι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34414,12 +34456,12 @@
     ]
   },
   {
-    "_id": 2011,
+    "_id": 2013,
     "id": "mm-001969",
-    "type": "quote",
-    "sr": "Kao što su gorki grah omekšava kad se namače, tako su i strogi ljudi u piću.",
-    "stsl": "Ꙗкоже горці вовъ омєкчаваѭть сѧ єгда намачаѭть сѧ · тако і строгіи чловѣци въ пііи.",
-    "originalText": "Καὶ οἱ θέρμοι πικροὶ ὄντες βρεχόμενοι γλυκαίνονται.",
+    "type": "reported",
+    "sr": "Upitan zašto se na gozbi opušta iako je strog, Zenon reče: I vučji bob je gorak, ali kada se potopi, postaje sladak.",
+    "stsl": "Въпрошенъ почто · строгъ сꙑи · на пирѣ развеселѧеть сѧ · Зенонъ рече · И бобъ горькъ єсть · нъ въ водѣ омоченъ сладъкъ бꙑваеть.",
+    "originalText": "Ἐρωτηθεὶς δέ, φησί, διὰ τί αὐστηρὸς ὢν ἐν τῷ πότῳ διαχεῖται ἔφη, Καὶ οἱ θέρμοι πικροὶ ὄντες βρεχόμενοι γλυκαίνονται.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -34433,11 +34475,11 @@
     ]
   },
   {
-    "_id": 2012,
+    "_id": 2014,
     "id": "mm-001970",
     "type": "quote",
-    "sr": "Bolje je stopalom okliznuti se nego jezikom.",
-    "stsl": "Лѹчьшє єсть ногоѭ спъньноѹти сѧ нєжєли ꙗзꙑкомь.",
+    "sr": "Bolje je okliznuti se nogom nego jezikom.",
+    "stsl": "Лѹчьше єсть ногама попълъзнѫти сѧ · нежели ꙗзꙑкомь.",
     "originalText": "Κρεῖττον εἶναι τοῖς ποσὶν ὀλισθεῖν ἢ τῇ γλώττῃ.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34450,23 +34492,6 @@
     "tags": [
       "εἶναι"
     ]
-  },
-  {
-    "_id": 440,
-    "id": "mm-000446",
-    "type": "bio",
-    "year": -260,
-    "sr": "U mladosti je vežbao trčanje na duge staze.",
-    "stsl": "Въ юности на дългѹ стьзѹ тръчание упражнꙗаше ·",
-    "originalText": "Οὗτος πρότερον μὲν δόλιχον ἤσκει.",
-    "author": "Chrysippus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.179"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.179"
   },
   {
     "_id": 445,
@@ -34537,28 +34562,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.115"
   },
   {
-    "_id": 1913,
-    "id": "mm-001869",
-    "type": "bio",
-    "year": -260,
-    "sr": "Bio je oštar u mišljenju i poruzi, voleo je književnost, pisao pesnicima priče i zajedno s njima sastavljao drame; Aleksandru i Homeru davao je svoje tragedije. Buka sluškinja i pasa nije ga ometala, jer se trudio da ostane miran.",
-    "stsl": "Остръ бѣ въ мышлении и рѫгании · писмолюбьнъ · пѣснотворьцемъ басьни писааше и съ ними драмы съставлѧаше · Александрѹ и Хомерѹ своѩ трагедиѩ давааше · Шѹмъ рабынь и пъсъ ємѹ не прѣпинааше · зане тишинѫ хранити тъштааше сѧ ·",
-    "originalText": "Ἦν δὲ καὶ ὀξὺς νοῆσαι καὶ διαμυκτηρίσαι· φιλογράμματός τε καὶ τοῖς ποιηταῖς μύθους γράψαι ἱκανὸς καὶ δράματα συνδιατιθέναι. μετεδίδου δὲ τῶν τραγῳδιῶν Ἀλεξάνδρῳ καὶ Ὁμήρῳ. θορυβούμενός θ' ὑπὸ τῶν θεραπαινῶν καὶ κυνῶν ἐποίει μηδέν, σπουδάζων περὶ τὸ ἠρεμάζειν.",
-    "author": "Timon of Phlius",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.113"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.113"
-  },
-  {
     "_id": 2019,
     "id": "mm-001972",
     "type": "quote",
-    "sr": "Sreća mi nalaže da slobodnije filozofiram.",
-    "stsl": "Срєща налагаєть ми да свободнѣишє філософірѫ.",
+    "sr": "Nalaže mi sudbina da se slobodnije posvetim filozofiji.",
+    "stsl": "Велить ми слѹчаи свободьнѣе любомѫдрьствовати.",
     "originalText": "Iubet me fortuna expeditius philosophari",
     "la": "Iubet me fortuna expeditius philosophari",
     "author": "Zeno of Citium",
@@ -34574,8 +34582,8 @@
     "_id": 2020,
     "id": "mm-001973",
     "type": "quote",
-    "sr": "Pošto ste vas dvoje sami, kako vas jedna kuća može sadržati, brbljivce?",
-    "stsl": "Понєжє єста ваꙇ двоє самі · како ваꙇ єдьна хꙑжа можєть съдрьжати · брьбливьці?",
+    "sr": "Kad ste samo vas dvojica, kako vas brbljivce može primiti jedna kuća?",
+    "stsl": "Егда сами ва оба єста · како ва блъботьника єдина храмина въмѣстити можеть?",
     "originalText": "Cum duo soli estis, quo modo capit vos una domus loquaeos?",
     "la": "Cum duo soli estis, quo modo capit vos una domus loquaeos?",
     "author": "Zeno of Citium",
@@ -34591,8 +34599,8 @@
     "_id": 2021,
     "id": "mm-001974",
     "type": "quote",
-    "sr": "Neka bude pokopan kod tebe govor koji si sam čuo.",
-    "stsl": "Да бѫдєть погрєбєнъ ѹ тєбє слово єжє самъ слꙑшалъ єсі.",
+    "sr": "Neka u tebi ostane pokopana reč koju si jedini čuo.",
+    "stsl": "Погребено въ тебѣ да прѣбѫдеть слово · еже єдинъ слꙑшалъ еси.",
     "originalText": "Sepultus sit apud te sermo quem solus audieris",
     "la": "Sepultus sit apud te sermo quem solus audieris",
     "author": "Zeno of Citium",
@@ -34608,8 +34616,8 @@
     "_id": 2022,
     "id": "mm-001975",
     "type": "quote",
-    "sr": "Prepoznaj laskavog čoveka koji govori pitko kao svoju zamku.",
-    "stsl": "Познаі льстіваго чловѣка іжє глаголєть слатко ꙗko своѭ ꙁамкѫ.",
+    "sr": "Znaj da je zao čovek koji govori umiljato tvoja zamka.",
+    "stsl": "Зълъ чловѣкъ · сладъко глаголѭшти · твоꙗ сѣть єсть · сего разумѣи.",
     "originalText": "Malum hominem blande loquentem agnosce tuum laqueum esse",
     "la": "Malum hominem blande loquentem agnosce tuum laqueum esse",
     "author": "Zeno of Citium",
@@ -34625,8 +34633,8 @@
     "_id": 2023,
     "id": "mm-001976",
     "type": "quote",
-    "sr": "Ako želiš biti sa mnom, slušaj me posvećenim ušima.",
-    "stsl": "Ащє жєлѣєши бꙑти съ мъноѭ · слѹшаі мѧ посвѧщєнꙑми ѹшима.",
+    "sr": "Ako želiš da znaš zašto si sa mnom, slušaj me čistim ušima.",
+    "stsl": "Аще хощеши вѣдѣти чесо ради съ мъноѭ еси · чистꙑма ѹшима мене слѹшаи.",
     "originalText": "Si cupis quare mecum sis, me audires auribus sacris",
     "la": "Si cupis quare mecum sis, me audires auribus sacris",
     "author": "Zeno of Citium",
@@ -34637,6 +34645,23 @@
       }
     ],
     "pointer": "data/sources/walter-burley/latin_raw/zeno_citieus.txt:1"
+  },
+  {
+    "_id": 1913,
+    "id": "mm-001869",
+    "type": "bio",
+    "year": -260,
+    "sr": "Bio je oštar u mišljenju i poruzi, voleo je književnost, pisao pesnicima priče i zajedno s njima sastavljao drame; Aleksandru i Homeru davao je svoje tragedije. Buka sluškinja i pasa nije ga ometala, jer se trudio da ostane miran.",
+    "stsl": "Остръ бѣ въ мышлении и рѫгании · писмолюбьнъ · пѣснотворьцемъ басьни писааше и съ ними драмы съставлѧаше · Александрѹ и Хомерѹ своѩ трагедиѩ давааше · Шѹмъ рабынь и пъсъ ємѹ не прѣпинааше · зане тишинѫ хранити тъштааше сѧ ·",
+    "originalText": "Ἦν δὲ καὶ ὀξὺς νοῆσαι καὶ διαμυκτηρίσαι· φιλογράμματός τε καὶ τοῖς ποιηταῖς μύθους γράψαι ἱκανὸς καὶ δράματα συνδιατιθέναι. μετεδίδου δὲ τῶν τραγῳδιῶν Ἀλεξάνδρῳ καὶ Ὁμήρῳ. θορυβούμενός θ' ὑπὸ τῶν θεραπαινῶν καὶ κυνῶν ἐποίει μηδέν, σπουδάζων περὶ τὸ ἠρεμάζειν.",
+    "author": "Timon of Phlius",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.113"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.113"
   },
   {
     "_id": 1914,
@@ -34809,6 +34834,98 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.185"
   },
   {
+    "_id": 2035,
+    "id": "mm-001983",
+    "type": "works",
+    "sr": "Kralju Antigonu Zenon šalje pozdrav.\n\nOdobravam tvoju ljubav prema učenju, jer se držiš istinskog obrazovanja koje vodi koristi, a ne pučkog koje izopačuje narav. Ko žudi za filozofijom, a kloni se mnogo hvaljenog zadovoljstva koje razmekšava duše nekih mladića, očigledno je sklon plemenitosti ne samo po prirodi nego i po izboru. Plemenita priroda, ako joj se pridruže umerena vežba i učitelj koji poučava bez zavisti, lako dospeva do potpunog sticanja vrline.\n\nMene zbog starosti sputava slabo telo, jer imam osamdeset godina, pa ti se ne mogu pridružiti. Šaljem ti neke svoje drugove u učenju koji duševnim sposobnostima ne zaostaju za mnom, a telesnim me nadmašuju. Boraveći s njima, nećeš oskudevati ni u čemu što vodi potpunoj blaženosti.",
+    "stsl": "Цѣсарю Антигонѹ Зенонъ радовати сѧ ·\n\nПохвалѧѭ твоє наѹколюбиѥ · понеже истиньнаго и къ пользѣ ведѫштаго · а не людьскаго и нравꙑ развраштаѭштаго възпитаниꙗ дрьжиши сѧ · Иже любомѫдриꙗ желаеть · мъногохваленꙑѩ же сласти · ꙗже нѣкыѩ дѹшѧ юношьскꙑѩ размѧкчаеть · ѹкланѧеть сѧ · ꙗвѣ не тъкъмо естествомъ · нъ и изборомъ къ благородию склонѧеть сѧ · Благородьно естество · мѣрьно ѹпражнениѥ и независтьна ѹчителѧ приимъше · легъко къ съврьшеномѹ стѧжанию добродѣтели приходить ·\n\nМене же старости ради немощьно тѣло дрьжить · осмьдесѧть бо лѣтъ имамъ · тѣмь къ тебѣ прити не могѫ · Посꙑлаѭ же ти нѣкыѩ моѩ съѹчительникы · иже дѹшевнꙑими силами мене не мьнши сѫть · тѣломь же прѣвъсходѧть · Съ ними прѣбꙑваꙗ · ничьтоже отъ ведѫштихъ къ съврьшенѣи благочѧсти оскѫдѣеши.",
+    "originalText": "Βασιλεῖ Ἀντιγόνῳ Ζήνων χαίρειν. Ἀποδέχομαί σου τὴν φιλομάθειαν καθόσον τῆς ἀληθινῆς καὶ εἰς ὄνησιν τεινούσης, ἀλλ' οὐχὶ τῆς δημώδους καὶ εἰς διαστροφὴν ἠθῶν ἀντέχῃ παιδείας. Ὁ δὲ φιλοσοφίας ὠρεγμένος, ἐκκλίνων δὲ τὴν πολυθρύλητον ἡδονὴν ἣ τινῶν θηλύνει νέων ψυχάς, φανερός ἐστιν οὐ μόνον φύσει πρὸς εὐγένειαν κλίνων, ἀλλὰ καὶ προαιρέσει. Φύσις δὲ εὐγενὴς μετρίαν ἄσκησιν προσλαβοῦσα, ἔτι δὲ τὸν ἀφθόνως διδάξοντα, ῥᾳδίως ἔρχεται πρὸς τὴν τελείαν ἀνάληψιν τῆς ἀρετῆς. Ἐγὼ δὲ συνέχομαι σώματι ἀσθενεῖ διὰ γῆρας· ἐτῶν γάρ εἰμι ὀγδοήκοντα· διόπερ οὐ δύναμαί σοι συμμῖξαι. Ἀποστέλλω δέ σοί τινας τῶν ἐμαυτοῦ συσχολαστῶν, οἳ τοῖς μὲν κατὰ ψυχὴν οὐκ ἀπολείπονται ἐμοῦ, τοῖς δὲ κατὰ σῶμα προτεροῦσιν· οἷς συνὼν οὐδενὸς καθυστερήσεις τῶν πρὸς τὴν τελείαν εὐδαιμονίαν ἀνηκόντων.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.8–9"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.8-9"
+  },
+  {
+    "_id": 2036,
+    "id": "mm-001990",
+    "type": "reported",
+    "sr": "Čoveku koji reče da mu se većina Antistenovih reči ne dopada Zenon navede jednu izreku o Sofoklu i upita ga nalazi li u njoj išta lepo. Kada ovaj reče da ne zna, Zenon odgovori: Zar se ne stidiš što biraš i pamtiš sve što je Antisten rekao loše, a ono što je rekao lepo ni ne pokušavaš da zadržiš?",
+    "stsl": "Чловѣкѹ · рекъшѹ ꙗко множаишѧ Антисѳенова словеса емѹ не люба сѫть · Зенонъ едино слово о Софоклѣ приведе и въпроси · обрѣтаеть ли въ немь что красно · Ономѹ же не вѣдѣти рекъшѹ · отъвѣшта · Не срамиши ли сѧ · аще вьсѣко зло Антисѳеномъ речено избираеши и памѧтѹеши · красно же ни дрьжати покѹшаеши сѧ.",
+    "originalText": "Πρὸς δὲ τὸν φάσκοντα ὡς τὰ πολλὰ αὐτῷ Ἀντισθένης οὐκ ἀρέσκοι, χρείαν Σοφοκλέους προενεγκάμενος ἠρώτησεν εἴ τινα καὶ καλὰ ἔχειν αὐτῷ δοκεῖ· τοῦ δ' οὐκ εἰδέναι φήσαντος, «Εἶτ' οὐκ αἰσχύνῃ,» ἔφη, «εἰ μέν τι κακὸν ἦν εἰρημένον ὑπ' Ἀντισθένους, τοῦτ' ἐκλεγόμενος καὶ μνημονεύων, εἰ δέ τι καλόν, οὐδ' ἐπιβαλλόμενος κατέχειν;»",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.19"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19",
+    "tags": [
+      "εἶναι"
+    ]
+  },
+  {
+    "_id": 2037,
+    "id": "mm-001991",
+    "type": "quote",
+    "sr": "Dobro nastaje malo-pomalo, ali zato samo nije malo.",
+    "stsl": "Добро мало по малѹ бꙑваеть · нъ само мало нѣсть.",
+    "originalText": "Τὸ εὖ γίνεσθαι μὲν παρὰ μικρόν, οὐ μὴν μικρὸν εἶναι.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.26"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.26",
+    "tags": [
+      "εἶναι"
+    ]
+  },
+  {
+    "_id": 2038,
+    "id": "mm-001993",
+    "type": "reported",
+    "sr": "Apolonije iz Tira kaže da je Zenon, kada ga je Kratet vukao za ogrtač od Stilpona, rekao: Kratete, filozof se najbolje hvata za uši. Ubedi me, pa me za njih vuci. Ako me budeš silio, telo će mi biti uz tebe, ali duša uz Stilpona.",
+    "stsl": "Аполлонии Тѷрьскꙑи глаголеть · ꙗко Кратетѹ Зенона за ризѫ отъ Стилпона влекѫштѹ · Зенонъ рече · О Кратете · любомѫдрьць наипаче за ѹши емлеть сѧ · Ѹвѣри мѧ · и за нѣ влеци · Аще ли мѧ понѫдиши · тѣло мое ѹ тебе бѫдеть · дѹша же ѹ Стилпона.",
+    "originalText": "Φησὶ δ' Ἀπολλώνιος ὁ Τύριος, ἕλκοντος αὐτὸν Κράτητος τοῦ ἱματίου ἀπὸ Στίλπωνος, εἰπεῖν, Ὦ Κράτες, λαβὴ φιλοσόφων ἐστὶν ἐπιδέξιος ἡ διὰ τῶν ὤτων· πείσας οὖν ἕλκε τούτων· εἰ δέ με βιάζῃ, τὸ μὲν σῶμα παρὰ σοὶ ἔσται, ἡ δὲ ψυχὴ παρὰ Στίλπωνι.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.24"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.24",
+    "tags": [
+      "εἶναι"
+    ]
+  },
+  {
+    "_id": 2039,
+    "id": "mm-001995",
+    "type": "reported",
+    "sr": "Kažu da je Zenon prvi uveo naziv dužnost i napisao raspravu o tome.",
+    "stsl": "Глаголѭть же · ꙗко Зенонъ пръвꙑи дължьноє именова · и слово о немь написа.",
+    "originalText": "Φασὶ δὲ καὶ πρῶτον καθῆκον ὠνομακέναι καὶ λόγον περὶ αὐτοῦ πεποιηκέναι.",
+    "author": "Zeno of Citium",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.25"
+      }
+    ],
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.25",
+    "tags": [
+      "λόγος"
+    ]
+  },
+  {
     "_id": 453,
     "id": "mm-000460",
     "type": "bio",
@@ -34826,84 +34943,11 @@
     "pointer": "data/sources/walter-burley/latin_raw/chrysippus.txt:1"
   },
   {
-    "_id": 2035,
-    "id": "mm-001983",
-    "type": "works",
-    "sr": "Kralju Antigonu Zenon šalje pozdrav.\n\nOdobravam tvoju ljubav prema učenju jer težiš istinskom obrazovanju koje donosi korist, a ne prostom koje kvari narav. Ko žudi za filozofijom, a izbegava mnogohvaljeno zadovoljstvo koje razne mlade duše čini mekim, očigledno je plemenit ne samo po prirodi nego i po izboru. Plemenita priroda, ako primi umerenu vežbu i učitelja koji predaje bez zavisti, lako dospeva do potpunog sticanja vrline.\n\nMene zbog starosti drži slabo telo, jer imam osamdeset godina, pa ti se ne mogu pridružiti. Šaljem ti neke svoje saučenike koji u duševnom ne zaostaju za mnom, a telesnim me nadmašuju. Boraveći s njima, nećeš oskudevati ni u čemu što vodi potpunom blaženstvu.",
-    "stsl": "Цѣсарю Антигонѹ Зенонъ радовати сѧ ·\n\nПохвалѧѭ твоє наѹколюбиє · понеже истиньнаго и къ пользѣ ведѫштаго · а не людьскаго и нравы развраштаѭштаго възпитаниꙗ дрьжиши сѧ · Иже любомѫдриꙗ желаєть · мъногохваленѫѭ же сласть · ꙗже нѣкыѩ дѹшѧ юношьскыѩ размѧкчаєть · отъбѣгаєть · ꙗвѣ не тъкъмо естествомъ · нъ и изборомъ къ благородию склонѧєть сѧ · Благородьно естество · мѣрьно ѹпражнениє и независтьна ѹчителꙗ приємъше · легъко къ съврьшеномѹ стѧжанию добродѣтели приходить ·\n\nМене же старости ради немоштьно тѣло дрьжить · Осмьдесѧть бо лѣтъ имамъ · тѣмь къ тебѣ прити не могѫ · Посꙑлаѭ же ти нѣкыѩ моѩ съѹченикы · иже дѹшеѭ мене не мьнши · тѣломь же прѣвъсходѧть · Съ ними прѣбываѩ · ничьтоже отъ ведѫштихъ къ съврьшенѣи благочѧсти оскѫдѣєши ·",
-    "originalText": "Βασιλεῖ Ἀντιγόνῳ Ζήνων χαίρειν. Ἀποδέχομαί σου τὴν φιλομάθειαν καθόσον τῆς ἀληθινῆς καὶ εἰς ὄνησιν τεινούσης, ἀλλ' οὐχὶ τῆς δημώδους καὶ εἰς διαστροφὴν ἠθῶν ἀντέχῃ παιδείας. Ὁ δὲ φιλοσοφίας ὠρεγμένος, ἐκκλίνων δὲ τὴν πολυθρύλητον ἡδονὴν ἣ τινῶν θηλύνει νέων ψυχάς, φανερός ἐστιν οὐ μόνον φύσει πρὸς εὐγένειαν κλίνων, ἀλλὰ καὶ προαιρέσει. Φύσις δὲ εὐγενὴς μετρίαν ἄσκησιν προσλαβοῦσα, ἔτι δὲ τὸν ἀφθόνως διδάξοντα, ῥᾳδίως ἔρχεται πρὸς τὴν τελείαν ἀνάληψιν τῆς ἀρετῆς. Ἐγὼ δὲ συνέχομαι σώματι ἀσθενεῖ διὰ γῆρας· ἐτῶν γάρ εἰμι ὀγδοήκοντα· διόπερ οὐ δύναμαί σοι συμμῖξαι. Ἀποστέλλω δέ σοί τινας τῶν ἐμαυτοῦ συσχολαστῶν, οἳ τοῖς μὲν κατὰ ψυχὴν οὐκ ἀπολείπονται ἐμοῦ, τοῖς δὲ κατὰ σῶμα προτεροῦσιν· οἷς συνὼν οὐδενὸς καθυστερήσεις τῶν πρὸς τὴν τελείαν εὐδαιμονίαν ἀνηκόντων.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.8–9"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.8-9"
-  },
-  {
-    "_id": 2036,
-    "id": "mm-001991",
-    "type": "quote",
-    "sr": "Dobro nastaje malo-pomalo, ali zato nije malo.",
-    "stsl": "Добро мало по малѹ бꙑваєть · нъ тѣмь мало нѣсть ·",
-    "originalText": "Τὸ εὖ γίνεσθαι μὲν παρὰ μικρόν, οὐ μὴν μικρὸν εἶναι.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.26"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.26",
-    "tags": [
-      "εἶναι"
-    ]
-  },
-  {
-    "_id": 2037,
-    "id": "mm-001993",
-    "type": "quote",
-    "sr": "Prikladan način da se filozof uhvati jeste za uši: ubedi me, pa me njima vuci. Ako me prisiliš, telo će biti uz tebe, ali duša uz Stilpona.",
-    "stsl": "Пригодьно философа за ѹши ѹхватити · ѹвѣри мѧ · и за нѧ влеци · Аште ли мѧ понѫдиши · тѣло ѹ тебе бѫдеть · дѹша же ѹ Стилпона ·",
-    "originalText": "Ὦ Κράτης, λαβὴ φιλοσόφων ἐστὶν ἐπιδέξιος ἡ διὰ τῶν ὤτων· πείσας οὖν ἕλκε τούτων· εἰ δέ με βιάζῃ, τὸ μὲν σῶμα παρὰ σοὶ ἔσται, ἡ δὲ ψυχὴ παρὰ Στίλπωνι.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.24"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.24",
-    "tags": [
-      "εἶναι"
-    ]
-  },
-  {
-    "_id": 2038,
-    "id": "mm-001995",
-    "type": "reported",
-    "sr": "Zenon je prvi upotrebio naziv „dužnost“ i napisao delo o njemu.",
-    "stsl": "Зенонъ пръвыи дългъ нарече и о немь слово написа ·",
-    "originalText": "Φασὶ δὲ καὶ πρῶτον καθῆκον ὠνομακέναι καὶ λόγον περὶ αὐτοῦ πεποιηκέναι.",
-    "author": "Zeno of Citium",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.25"
-      }
-    ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.25",
-    "tags": [
-      "λόγος"
-    ]
-  },
-  {
-    "_id": 2039,
+    "_id": 2041,
     "id": "mm-001997",
-    "type": "reported",
-    "sr": "Prema kritičarima, Zenon je u *Državi* opšte obrazovanje proglasio nekorisnim. Nesavršene ljude smatrao je međusobno neprijateljima, pa i roditelje i decu, braću i srodnike; samo je mudre nazivao građanima, prijateljima, srodnicima i slobodnima. Zastupao je zajednicu žena, gradove bez hramova, sudnica i vežbališta, nepotrebnost novca za razmenu i putovanje, istu odeću za muškarce i žene i neprekrivanje nijednog dela tela.",
-    "stsl": "По хѹлѧштиимъ · въ Дьржавѣ Зенонъ обьштеє възпитаниє неполезьно нарече · Несъврьшеныѩ люди дрѹгъ дрѹгѹ врагы мьнѣаше · и родителѩ чѧдомъ · и братиѭ братиѩмъ · и сродьникы сродьникомъ · Тъкъмо мѫдрыѩ градьнѧны · дрѹгы · сродьникы и свободьны нарицааше · Жены обьшти быти · градомъ безъ храмъ · сѫдилиштъ и ѹпражнилиштъ · пѣнѧземъ ни къ мѣнѣ ни къ пѫти не трѣбовати · мѫжемъ и женамъ єдины ризы носити и ниєдинъ ѹдъ не покрывати заповѣдааше ·",
+    "type": "works",
+    "sr": "Prema njegovim kritičarima, Zenon je na početku Države opšte obrazovanje proglasio nekorisnim. Sve koji nisu valjani nazivao je međusobnim neprijateljima i protivnicima, robovima i tuđincima, pa i roditelje deci, braću braći i srodnike srodnicima. Samo je valjane nazivao građanima, prijateljima, srodnicima i slobodnima. U državi je zastupao i zajednicu žena; oko dvesta stihova od početka propisao je da u gradovima ne treba podizati hramove, sudnice ni vežbališta. Pisao je da novac nije potreban ni radi razmene ni radi putovanja, a muškarcima i ženama zapovedao je da nose istu odeću i da ne pokrivaju nijedan deo tela.",
+    "stsl": "По хѹлѧштиимъ · Зенонъ въ началѣ дрьжавꙑ обьштеє възпитаниѥ неполезьно нарече · Вьсѣ же не добрꙑꙗ дрѹгъ дрѹгѹ врагꙑ и противьникꙑ · рабꙑ и чюждии бꙑти глаголааше · и родителѧ чѧдомъ · и братиѭ братиѩмъ · и сродьникꙑ сродьникомъ · Тъкъмо добрꙑꙗ градьнѧнꙑ · дрѹгꙑ · сродьникꙑ и свободьнꙑ нарицааше · Въ дрьжавѣ же и женꙑ обьштѧ бꙑти ѹчаше · и окрьстъ двѣстѣ стиха · ни храмовъ · ни сѫдилиштъ · ни ѹпражнилиштъ въ градѣхъ не съзидати повелѣ · Пѣнѧзꙑ же ни мѣнꙑ ради ни пѫти ради не трѣбовати писааше · и мѫжемъ и женамъ єдинꙑ ризꙑ носити · и ниєдинъ ѹдъ не покрꙑвати повелѣ.",
     "originalText": "πρῶτον μὲν τὴν ἐγκύκλιον παιδείαν ἄχρηστον ἀποφαίνειν λέγουσιν ἐν ἀρχῇ τῆς Πολιτείας, δεύτερον ἐχθροὺς καὶ πολεμίους καὶ δούλους καὶ ἀλλοτρίους λέγειν αὐτὸν ἀλλήλων εἶναι πάντας τοὺς μὴ σπουδαίους, καὶ γονεῖς τέκνων καὶ ἀδελφοὺς ἀδελφῶν, καὶ οἰκείους οἰκείων. Πάλιν ἐν τῇ Πολιτείᾳ παριστάντα πολίτας καὶ φίλους καὶ οἰκείους καὶ ἐλευθέρους τοὺς σπουδαίους μόνον. Κοινάς τε τὰς γυναῖκας δογματίζειν ὁμοίως ἐν τῇ Πολιτείᾳ καὶ κατὰ τοὺς διακοσίους στίχους μήθ' ἱερὰ μήτε δικαστήρια μήτε γυμνάσια ἐν ταῖς πόλεσιν οἰκοδομεῖσθαι. Περί τε νομίσματος οὕτως γράφειν, «Νόμισμα δ' οὔτ' ἀλλαγῆς ἕνεκεν οἴεσθαι δεῖν κατασκευάζειν οὔτ' ἀποδημίας ἕνεκεν.» Καὶ ἐσθῆτι δὲ τῇ αὐτῇ κελεύει χρῆσθαι ἄνδρας καὶ γυναῖκας καὶ μηδὲν μόριον ἀποκεκρύφθαι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34912,21 +34956,16 @@
         "reference": "VII.32–33"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.32-33",
-    "tags": [
-      "εἶναι",
-      "ἀρχή",
-      "ἕν"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.32-33"
   },
   {
     "_id": 500,
     "id": "mm-000506",
     "type": "anecdote",
     "year": -231,
-    "sr": "Umro je ovako: obolele su mu desni i lekari su mu preporučili da se uzdrži od hrane. Posle dva dana osećao se bolje i lekari su mu dopustili da se vrati uobičajenoj hrani, ali on nije hteo; nastavio je da gladuje i umro sa oko osamdeset godina.",
-    "stsl": "Ѹмрѣ сице · Десни ємѹ разболѣшѧ сѧ и лѣкари съвѣтовашѧ да сѧ отъ ꙗди въздрьжить · Дъва дьни прѣбывъ · лѹче сѧ чѹвьствоваше · и лѣкари ємѹ обычьнѫ пищѫ допѹстишѧ · онъ же не въсхотѣ · безъ пищи прѣбываѩ · отъ жития изиде · около осмьдесѧти лѣтъ имы ·",
-    "originalText": "Ἐτελεύτα δὲ τοῦτον τὸν τρόπον. Οὐλίτιδος αὐτῷ γενομένης, οἱ ἰατροὶ παρῄνουν ἀσιτῆσαι. Διημερεύσας οὖν καὶ βέλτιον ἔχων, ὡς οἱ ἰατροὶ ἐπέτρεπον τῇ συνήθει τροφῇ χρῆσθαι, οὐκ ἠθέλησεν, ἀλλ' ἀσίτως τελέσας ἐξῆλθεν τοῦ βίου περί που ἐτῶν ὀγδοήκοντα γεγονώς.",
+    "sr": "Umro je ovako. Otekle su mu desni, pa mu lekari zabraniše hranu. Pošto je dva dana postio, stanje mu se popravi i lekari mu dopustiše da se vrati uobičajenoj hrani. On to odbi, rekavši da je već predaleko odmakao putem; nastavi da se uzdržava od hrane do smrti. Prema nekima je, kao i Zenon, živeo osamdeset godina, od kojih je devetnaest proveo slušajući Zenona.",
+    "stsl": "Сице же ѹмрѣ · Десна его отекошѧ · лѣкаремъ же ꙗсти запрѣштьшемъ · дъвѣ дьни отъ пищѧ въздръжа сѧ · И нѣкако ѹлѹчьша сѧ · ꙗко лѣкари емѹ обычьнѫѭ пищѫ повелѣшѧ · Онъ же не приѩтъ · нъ рече ꙗко ѹже далече по пути прѣиде · и прочаѧ дьни не ꙗдъ · ѹмрѣ · По инѣхъ · ꙗкоже Зенонъ · осмьдесѧть лѣтъ поживе · девѧть на десѧте лѣтъ Зенона слѹшавъ.",
+    "originalText": "Καὶ τελευτᾷ τόνδε τὸν τρόπον· διῴδησεν αὐτῷ τὸ οὖλον· ἀπαγορευσάντων δὲ τῶν ἰατρῶν, δύο ἡμέρας ἀπέσχετο τροφῆς. καί πως ἔσχε καλῶς ὥστε τοὺς ἰατροὺς αὐτῷ πάντα τὰ συνήθη συγχωρεῖν· τὸν δὲ μὴ ἀνασχέσθαι, ἀλλ’ εἰπόντα ἤδη αὐτῷ προωδοιπορῆσθαι καὶ τὰς λοιπὰς ἀποσχόμενον τελευτῆσαι ταὐτὰ Ζήνωνι, καθά φασί τινες, ὀγδοήκοντα ἔτη βιώσαντα καὶ ἀκούσαντα Ζήνωνος ἔτη ἐννεακαίδεκα.",
     "author": "Cleanthes",
     "sources": [
       {
@@ -34937,11 +34976,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.176"
   },
   {
-    "_id": 2041,
+    "_id": 2043,
     "id": "mm-001999",
     "type": "reported",
-    "sr": "Zenon je prvi podelio filozofsko slovo na prirodni, naravni i logički deo. U nastavi je prvo stavljao logiku, zatim proučavanje prirode, a na kraju etiku.",
-    "stsl": "Зенонъ пръвыи любомѫдрьско слово на естествьнѫ · нравьнѫ и словесьнѫ часть раздѣли · Въ ѹчении пръвѣє словесословиє полагааше · потомь естествоиспытаниє · на коньци нравословиє ·",
+    "sr": "Prema stoicima, filozofsko učenje deli se na tri dela: prirodni, etički i logički. Zenon iz Kitija prvi ga je tako podelio u delu O govoru. U nastavi je najpre stavljao logiku, zatim proučavanje prirode, a na kraju etiku.",
+    "stsl": "По стоикомъ · любомѫдрьско слово на три части раздѣлѧеть сѧ · естествьнѫ · нравьнѫ и словесьнѫ · Зенонъ Китиець пръвꙑи сице раздѣли въ книгѣ О словеси · Въ ѹчении же пръвѣе словесословиѥ полагааше · потомь естествоиспꙑтаниѥ · на коньци нравословиѥ.",
     "originalText": "Τριμερῆ φασιν εἶναι τὸν κατὰ φιλοσοφίαν λόγον· εἶναι γὰρ αὐτοῦ τὸ μέν τι φυσικόν, τὸ δὲ ἠθικόν, τὸ δὲ λογικόν. Οὕτω δὲ πρῶτος διεῖλε Ζήνων ὁ Κιτιεὺς ἐν τῷ Περὶ λόγου. Ἄλλοι δὲ πρῶτον μὲν τὸ λόγικον τάττουσι, δεύτερον δὲ τὸ φυσικόν, καὶ τρίτον τὸ ἠθικόν· ὧν ἐστι Ζήνων ἐν τῷ Περὶ λόγου.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34958,11 +34997,11 @@
     ]
   },
   {
-    "_id": 2042,
+    "_id": 2044,
     "id": "mm-002000",
     "type": "reported",
-    "sr": "Zenon je prvi odredio svršetak kao život u saglasnosti s prirodom, što znači život prema vrlini, jer nas priroda vodi vrlini.",
-    "stsl": "Зенонъ пръвыи коньць положи жити съгласно естествѹ · єже єсть по добродѣтели жити · зане естество насъ къ неи ведеть ·",
+    "sr": "Zenon je u delu O čovekovoj prirodi prvi odredio krajnju svrhu kao život u saglasnosti s prirodom, to jest život prema vrlini, jer nas priroda vodi ka vrlini.",
+    "stsl": "Зенонъ въ книгѣ О чловѣчьстѣмь естествѣ пръвꙑи съврьхѫ положи · съгласно естествѹ жити · еже єсть по добродѣтели жити · естество бо насъ къ неи ведеть.",
     "originalText": "Διόπερ πρῶτος ὁ Ζήνων ἐν τῷ Περὶ ἀνθρώπου φύσεως τέλος εἶπε τὸ ὁμολογουμένως τῇ φύσει ζῆν, ὅπερ ἐστὶ κατ' ἀρετὴν ζῆν· ἄγει γὰρ πρὸς ταύτην ἡμᾶς ἡ φύσις.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34978,11 +35017,11 @@
     ]
   },
   {
-    "_id": 2043,
+    "_id": 2045,
     "id": "mm-002001",
     "type": "reported",
-    "sr": "Zenon je strast odredio kao nerazumno i protivprirodno kretanje duše ili prekomeran nagon.",
-    "stsl": "Зенонъ страсть нарече неразѹмьно и противъ естествѹ движениє дѹшѧ или прѣизбытошьнъ порывъ ·",
+    "sr": "Zenon je strast odredio kao nerazumno i protivprirodno kretanje duše, odnosno kao nagon koji prelazi meru.",
+    "stsl": "Зенонъ страсть нарече неразѹмьно и противъ естествѹ движениѥ дѹшѧ · или стремлениѥ мѣрѫ прѣходѧште.",
     "originalText": "Ἔστι δὲ αὐτὸ τὸ πάθος κατὰ Ζήνωνα ἡ ἄλογος καὶ παρὰ φύσιν ψυχῆς κίνησις ἢ ὁρμὴ πλεονάζουσα.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34998,11 +35037,11 @@
     ]
   },
   {
-    "_id": 2044,
+    "_id": 2046,
     "id": "mm-002002",
     "type": "reported",
-    "sr": "Zenon je učio da postoje četiri najviša roda strasti: tuga, strah, želja i zadovoljstvo.",
-    "stsl": "Зенонъ ѹчаше ꙗко четꙑри връховьна рода страсти сѫть · печаль · страхъ · желаниє и сласть ·",
+    "sr": "Hekaton u drugoj knjizi O strastima i Zenon u delu O strastima kažu da postoje četiri najviša roda strasti: tuga, strah, žudnja i zadovoljstvo.",
+    "stsl": "Хекатонъ въ въторѣи книгѣ О страстьхъ и Зенонъ въ книгѣ О страстьхъ глаголѭть · ꙗко четꙑри врьховьна рода страстии сѫть · печаль · страхъ · похоть и сласть.",
     "originalText": "Τῶν δὲ παθῶν τὰ ἀνώτατω, καθά φησιν Ἑκάτων ἐν τῷ δευτέρῳ Περὶ παθῶν καὶ Ζήνων ἐν τῷ Περὶ παθῶν, εἶναι γένη τέτταρα, λύπην, φόβον, ἐπιθυμίαν, ἡδονήν.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35018,13 +35057,16 @@
     ]
   },
   {
-    "_id": 2045,
+    "_id": 2047,
     "id": "mm-002003",
     "type": "reported",
-    "sr": "Zenon je smatrao da su svi prestupi jednaki: kao što ni jedna istina nije istinitija od druge niti jedna laž lažnija, tako ni jedna obmana ni prestup nisu veći od drugih.",
-    "stsl": "Зенонъ вьсѧ прѣстѫплениꙗ равьна мьнѣаше · Ꙗкоже ни єдина истина истиньнѣиша дрѹгыѩ · ни ложь ложьнѣиша · тако ни єдина прѣлесть ни прѣстѫплениє боле дрѹгаго ·",
+    "sr": "Hrisip, Persej i Zenon smatrali su da su svi prestupi jednaki. Kao što nijedna istina nije istinitija od druge, niti laž lažnija, tako nijedna zabluda nije veća od druge, niti jedan prestup veći od drugog.",
+    "stsl": "Хрисиппъ · Персеи и Зенонъ вьсѧ съгрѣшениꙗ равьна мьнѣахѫ · Ꙗкоже ни єдина истина истиньнѣиша дрѹгыѩ нѣсть · ни ложь лъжнѣиша · тако ни єдина прѣлесть прѣлести · ни съгрѣшениѥ съгрѣшениꙗ боле нѣсть.",
     "originalText": "Ἀρέσκει τ' αὐτοῖς ἴσα ἡγεῖσθαι τὰ ἁμαρτήματα, καθά φησι Χρύσιππος ἐν τῷ τετάρτῳ τῶν Ἠθικῶν ζητημάτων καὶ Περσαῖος καὶ Ζήνων. Εἰ γὰρ ἀληθὲς ἀληθοῦς μᾶλλον οὐκ ἔστιν, οὐδὲ ψεῦδος ψεύδους· οὕτως οὐδ' ἀπάτη ἀπάτης, οὐδ' ἁμάρτημα ἁμαρτήματος.",
-    "author": "Zeno of Citium",
+    "author": [
+      "Chrysippus",
+      "Zeno of Citium"
+    ],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -35034,11 +35076,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.120"
   },
   {
-    "_id": 2046,
+    "_id": 2048,
     "id": "mm-002004",
     "type": "reported",
-    "sr": "Prema Zenonovoj *Državi*, mudrac će se ženiti i imati decu.",
-    "stsl": "По Зеноновѣ Дьржавѣ · мѫдрьць оженить сѧ и чѧда родить ·",
+    "sr": "Prema Zenonovoj državi, mudrac će se ženiti i rađati decu.",
+    "stsl": "По Зеноновѣ дрьжавѣ · мѫдрьць оженить сѧ и чѧда родить.",
     "originalText": "Καὶ γαμήσειν, ὡς ὁ Ζήνων φησὶν ἐν Πολιτείᾳ, καὶ παιδοποιήσεσθαι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35050,13 +35092,16 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.121"
   },
   {
-    "_id": 2047,
+    "_id": 2049,
     "id": "mm-002005",
     "type": "reported",
-    "sr": "Zenon je smatrao da je vrlina sama dovoljna za blaženstvo.",
-    "stsl": "Зенонъ мьнѣаше ꙗко добродѣтель сама къ благочѧстию довъльна єсть ·",
+    "sr": "Zenon, Hrisip i Hekaton smatrali su da je vrlina sama dovoljna za blaženost.",
+    "stsl": "Зенонъ · Хрисиппъ и Хекатонъ мьнѣахѫ · ꙗко добродѣтель сама къ блаженьствѹ довъльна єсть.",
     "originalText": "Αὐτάρκη τ' εἶναι αὐτὴν πρὸς εὐδαιμονίαν, καθά φησι Ζήνων καὶ Χρύσιππος ἐν τῷ πρώτῳ Περὶ ἀρετῶν καὶ Ἑκάτων ἐν τῷ δευτέρῳ Περὶ ἀγαθῶν.",
-    "author": "Zeno of Citium",
+    "author": [
+      "Zeno of Citium",
+      "Chrysippus"
+    ],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -35069,11 +35114,11 @@
     ]
   },
   {
-    "_id": 2048,
+    "_id": 2050,
     "id": "mm-002006",
     "type": "reported",
-    "sr": "Prema Zenonovoj *Državi*, mudrac će voleti mlade koji izgledom pokazuju prirodnu sposobnost za vrlinu.",
-    "stsl": "По Зеноновѣ Дьржавѣ · мѫдрьць юношы любити бѫдеть · иже образомъ природьнѫ къ добродѣтели способность показѹѭть ·",
+    "sr": "Prema Zenonovoj državi, mudrac će se zaljubljivati u mladiće čiji izgled otkriva prirodnu obdarenost za vrlinu.",
+    "stsl": "По Зеноновѣ дрьжавѣ · мѫдрьць юношы възлюбитъ · ихъже видъ природьнѫ къ добродѣтели благодаровитость показѹеть.",
     "originalText": "Καὶ ἐρασθήσεσθαι δὲ τὸν σοφὸν τῶν νέων τῶν ἐμφαινόντων διὰ τοῦ εἴδους τὴν πρὸς ἀρετὴν εὐφυΐαν, ὥς φησι Ζήνων ἐν τῇ Πολιτείᾳ.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35085,11 +35130,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.129"
   },
   {
-    "_id": 2049,
+    "_id": 2051,
     "id": "mm-002007",
     "type": "reported",
-    "sr": "Zenon je postavio dva počela svega: ono što dela i ono što trpi. Trpno počelo je bezvrsno suštastvo, tvar; delatno je slovo u njoj, bog, koji je večan i kroz svu tvar stvara svaku stvar.",
-    "stsl": "Зенонъ двѣ начѧлѣ вьсего положи · творѧштеє и страдаѭштеє · Страдаѭштеє єсть безвидьно сѫштьство · тварь · творѧштеє же слово въ неи · богъ · иже вѣчьнъ сꙑи сквозѣ вьсѫ тварь вьсѣкѫ вешть творить ·",
+    "sr": "Zenon je u delu O suštastvu postavio dva počela svega: delatno i trpno. Trpno počelo jeste suštastvo bez svojstava — tvar; delatno je slovo koje prebiva u njoj, bog, koji je večan i kroz svu tvar stvara svaku pojedinačnu stvar.",
+    "stsl": "Зенонъ въ книгѣ О сѫштьствѣ двѣ начѧлѣ вьсего положи · творѧштеє и страдаѭштеє · Страдаѭштеє єсть безъ качества сѫштьство · тварь · творѧштеє же слово въ неи · богъ · иже вѣчьнъ сꙑи · сквозѣ вьсѫ тварь вьсѣкѫ вешь творить.",
     "originalText": "Δοκεῖ δ' αὐτοῖς ἀρχὰς εἶναι τῶν ὅλων δύο, τὸ ποιοῦν καὶ τὸ πάσχον. Τὸ μὲν οὖν πάσχον εἶναι τὴν ἄποιον οὐσίαν τὴν ὕλην, τὸ δὲ ποιοῦν τὸν ἐν αὐτῇ λόγον τὸν θέον· τοῦτον γὰρ ἀΐδιον ὄντα διὰ πάσης αὐτῆς δημιουργεῖν ἕκαστα. Τίθησι δὲ τὸ δόγμα τοῦτο Ζήνων μὲν ὁ Κιτιεὺς ἐν τῷ Περὶ οὐσίας.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35105,11 +35150,11 @@
     ]
   },
   {
-    "_id": 2050,
+    "_id": 2052,
     "id": "mm-002008",
     "type": "reported",
-    "sr": "Zenon je učio da su bog, um, sudbina i Zevs jedno. Bog najpre svo suštastvo kroz vazduh pretvara u vodu; kao što je seme sadržano u plodu, tako on kao slovesno seme sveta ostaje u vlazi, čineći tvar podobnom za rađanje narednih stvari. Potom rađa četiri sastojka: oganj, vodu, vazduh i zemlju.",
-    "stsl": "Зенонъ ѹчаше ꙗко богъ · ѹмъ · сѫдьба и Зевсъ єдино сѫть · Богъ испръва вьсѫ сѫштьство сквозѣ въздѹхъ въ водѫ прѣтварѧєть · Ꙗкоже сѣмѧ въ плодѣ обьємлєть сѧ · тако онъ · словесьно сѣмѧ міра сꙑи · въ влагѣ остаєть · тварь къ рождению послѣдѹѭштихъ вештии подобьнѫ творѧ · Потомь четꙑри състави раждаєть · огнь · водѫ · въздѹхъ и землѭ ·",
+    "sr": "Zenon je učio da su bog, um, sudbina i Zevs jedno, a da se nazivaju i mnogim drugim imenima. U početku bog, postojeći sam po sebi, pretvara svo suštastvo preko vazduha u vodu. Kao što je zametak sadržan u semenu, tako i on, kao semeno slovo sveta, ostaje u vlazi i čini tvar podesnom za nastanak svega što sledi. Potom najpre rađa četiri sastojka: oganj, vodu, vazduh i zemlju. O tome Zenon govori u delu O celini.",
+    "stsl": "Зенонъ ѹчаше · ꙗко богъ · ѹмъ · сѫдьба и Зевсъ єдино сѫть · и мъногꙑими инꙑими именꙑ нарицаѭть сѧ · Въ началѣ богъ · самъ по себѣ сꙑи · вьсѫ сѫштьство сквозѣ въздѹхъ въ водѫ прѣтварѧеть · Ꙗкоже зародъ въ сѣмени съдрьжить сѧ · тако и онъ · сѣменьно слово мира сꙑи · въ влагѣ остаєть · тварь къ рождению послѣдѹѭштихъ вештии подобьнѫ творѧ · Потомь пръвѣе четꙑри съставꙑ раждаєть · огнь · водѫ · въздѹхъ и землѭ · О сихъ Зенонъ въ книгѣ О вьсемь глаголеть.",
     "originalText": "Ἕν τ' εἶναι θεὸν καὶ νοῦν καὶ εἱμαρμένην καὶ Δία· πολλαῖς τ' ἑτέραις ὀνομασίαις προσονομάζεσθαι. Κατ' ἀρχὰς μὲν οὖν καθ' αὑτὸν ὄντα τρέπειν τὴν πᾶσαν οὐσίαν δι' ἀέρος εἰς ὕδωρ· καὶ ὥσπερ ἐν τῇ γονῇ τὸ σπέρμα περιέχεται, οὕτω καὶ τοῦτον σπερματικὸν λόγον ὄντα τοῦ κόσμου, τοιόνδε ὑπολείπεσθαι ἐν τῷ ὑγρῷ, εὐεργὸν αὑτῷ ποιοῦντα τὴν ὕλην πρὸς τὴν τῶν ἑξῆς γένεσιν· εἶτ' ἀπογεννᾶν πρῶτον τὰ τέσσαρα στοιχεῖα, πῦρ, ὕδωρ, ἀέρα, γῆν. Λέγει δὲ περὶ αὐτῶν Ζήνων τ' ἐν τῷ Περὶ τοῦ ὅλου.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35131,11 +35176,11 @@
     ]
   },
   {
-    "_id": 2051,
+    "_id": 2053,
     "id": "mm-002009",
     "type": "reported",
-    "sr": "Prema Zenonu, svet nastaje kada se suštastvo iz ognja kroz vazduh pretvori u vlagu; njen se gušći deo zgusne u zemlju, a tanji se razredi i daljim istanjenjem rodi oganj. Mešanjem tih sastojaka nastaju biljke, životinje i ostali rodovi. Svet potom i propada.",
-    "stsl": "По Зенонѹ · міръ ражаєть сѧ · єгда сѫштьство из огнѧ сквозѣ въздѹхъ въ влагѫ прѣтворить сѧ · Гѫштьшаꙗ часть єѩ съставлꙗєть сѧ въ землѭ · тънъчаиша разрѣжаєть сѧ и дальнимь истънчениємь огнь раждаєть · Съмѣшениемь сихъ съставъ бꙑлиє · животьнаꙗ и прочи роди ражаѭть сѧ · Міръ потомь и погыбаєть ·",
+    "sr": "Prema Zenonu, svet nastaje kada se suštastvo iz ognja preko vazduha pretvori u vlagu; njen gušći deo očvrsne i postane zemlja, a tanji se razredi i, daljim istanjenjem, rodi oganj. Mešanjem tih sastojaka nastaju biljke, životinje i ostali rodovi. O nastanku i propadanju sveta Zenon govori u delu O celini.",
+    "stsl": "По Зенонѹ · миръ раждаєть сѧ · егда сѫштьство изъ огнѧ сквозѣ въздѹхъ въ влагѫ прѣтворить сѧ · Гѫштьшаꙗ часть єѩ окамѣнѣеть и землѧ бꙑваеть · тънъчаиша же разрѣжаеть сѧ · и дальнимь истънчениємь огнь раждаеть · Съмѣшениемь сихъ съставъ бꙑлиѥ · животьнаꙗ и прочии роди ражаѭть сѧ · О рождении же и погибели мира Зенонъ въ книгѣ О вьсемь глаголеть.",
     "originalText": "Γίνεσθαι δὲ τὸν κόσμον ὅταν ἐκ πυρὸς ἡ οὐσία τραπῇ δι' ἀέρος εἰς ὑγρότητα, εἶτα τὸ παχυμερὲς αὐτοῦ συστὰν ἀποτελεσθῇ γῆ, τὸ δὲ λεπτομερὲς ἐξαραιωθῇ, καὶ τοῦτ' ἐπὶ πλέον λεπτυνθὲν πῦρ ἀπογεννήσῃ. Εἶτα κατὰ μίξιν ἐκ τούτων φυτά τε καὶ ζῷα καὶ τὰ ἄλλα γένη. Περὶ δὴ οὖν τῆς γενέσεως καὶ φθορᾶς τοῦ κόσμου φησὶ Ζήνων μὲν ἐν τῷ Περὶ ὅλου.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35152,11 +35197,11 @@
     ]
   },
   {
-    "_id": 2052,
+    "_id": 2054,
     "id": "mm-002010",
     "type": "reported",
-    "sr": "Zenon je govorio da postoji jedan svet.",
-    "stsl": "Зенонъ глаголаше ꙗко єдинъ міръ єсть ·",
+    "sr": "Zenon u delu O celini kaže da postoji jedan svet.",
+    "stsl": "Зенонъ въ книгѣ О вьсемь глаголеть · ꙗко єдинъ миръ єсть.",
     "originalText": "Ὅτι θ' εἷς ἐστι Ζήνων φησὶν ἐν τῷ Περὶ τοῦ ὅλου.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35171,11 +35216,11 @@
     ]
   },
   {
-    "_id": 2053,
+    "_id": 2055,
     "id": "mm-002011",
     "type": "reported",
-    "sr": "Zenon je zapisao da Sunce tamni kada se Mesec postavi pred njega sa strane okrenute nama.",
-    "stsl": "Зенонъ написа ꙗко съльньце тъмнѣєть · єгда мѣсѧць прѣдъ нимь отъ страны къ намъ обраштенѣи поставлѧєть сѧ ·",
+    "sr": "Zenon u delu O celini piše da se Sunce pomračuje kada ga Mesec zakloni sa strane okrenute nama.",
+    "stsl": "Зенонъ въ книгѣ О вьсемь писа · ꙗко слъньце помрачаеть сѧ · егда мѣсѧць прѣдъ нимь отъ страны къ намъ обращенꙑѩ станетъ.",
     "originalText": "Ἐκλείπειν δὲ τὸν μὲν ἥλιον ἐπιπροσθούσης αὐτῷ σελήνης κατὰ τὸ πρὸς ἡμᾶς μέρος, ὡς Ζήνων ἀναγράφει ἐν τῷ Περὶ τοῦ ὅλου.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35187,11 +35232,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.146"
   },
   {
-    "_id": 2054,
+    "_id": 2056,
     "id": "mm-002012",
     "type": "reported",
-    "sr": "Zenon je suštastvom boga smatrao ceo svet i nebo.",
-    "stsl": "Зенонъ сѫштьство бога вьсъ міръ и небо мьнѣаше ·",
+    "sr": "Zenon je govorio da suštastvo boga čini čitav svet i nebo.",
+    "stsl": "Зенонъ глаголааше · ꙗко сѫштьство бога вьсь миръ и небо єсть.",
     "originalText": "Οὐσίαν δὲ θεοῦ Ζήνων μέν φησι τὸν ὅλον κόσμον καὶ τὸν οὐρανόν.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35206,11 +35251,11 @@
     ]
   },
   {
-    "_id": 2055,
+    "_id": 2057,
     "id": "mm-002013",
     "type": "reported",
-    "sr": "Zenon je učio da sve biva po sudbini, neprekinutom uzroku bića ili slovu po kojem se svet odvija.",
-    "stsl": "Зенонъ ѹчаше ꙗко вьсѧ по сѫдьбѣ бꙑваѭть · Сѫдьба же непрѣстаньна причина сѫштихъ или слово · по немьже міръ проходить ·",
+    "sr": "Zenon je učio da sve biva po sudbini. Pod sudbinom se razume neprekinuti lanac uzroka svega što postoji, odnosno slovo po kojem se svet odvija.",
+    "stsl": "Зенонъ ѹчаше · ꙗко вьсѧ по сѫдьбѣ бꙑваѭть · Подъ сѫдьбоѭ же разумѣеть сѧ непрѣстаньна вьрьвь причинъ сѫштихъ · или слово · по немьже миръ съврьшаеть сѧ.",
     "originalText": "Καθ' εἱμαρμένην δέ φασι τὰ πάντα γίνεσθαι Χρύσιππος ἐν τοῖς Περὶ εἱμαρμένης καὶ Ποσειδώνιος ἐν δευτέρῳ Περὶ εἱμαρμένης καὶ Ζήνων. Ἔστι δ' εἱμαρμένη αἰτία τῶν ὄντων εἰρομένη ἢ λόγος καθ' ὃν ὁ κόσμος διεξάγεται.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35227,11 +35272,11 @@
     ]
   },
   {
-    "_id": 2056,
+    "_id": 2058,
     "id": "mm-002014",
     "type": "reported",
-    "sr": "Zenon je prihvatao postojanje celokupnog proricanja i smatrao ga veštinom, ako postoji proviđenje.",
-    "stsl": "Зенонъ вьсѣ прорицаниє сѫште приимаше и вѣштиноѭ є мьнѣаше · аште промыслъ єсть ·",
+    "sr": "Zenon i Hrisip tvrdili su da, ako postoji proviđenje, postoji i svaka vrsta proricanja; zbog određenih ishoda smatrali su proricanje umećem.",
+    "stsl": "Зенонъ и Хрисиппъ глаголааста · ꙗко · аще промыслъ єсть · то и вьсѣкъ видъ прорицаниꙗ єсть · нѣкыихъ же исходъ ради умѣниѥмь прорицаниѥ мьнѣаста.",
     "originalText": "Καὶ μὴν καὶ μαντικὴν ὑφεστάναι πᾶσάν φασιν, εἰ καὶ πρόνοιαν εἶναι· καὶ αὐτὴν καὶ τέχνην ἀποφαίνουσι διά τινας ἐκβάσεις, ὥς φησι Ζήνων τε καὶ Χρύσιππος ἐν τῷ δευτέρῳ Περὶ μαντικῆς.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35246,11 +35291,11 @@
     ]
   },
   {
-    "_id": 2057,
+    "_id": 2059,
     "id": "mm-002015",
     "type": "reported",
-    "sr": "Zenon je prvobitnu tvar smatrao suštastvom svih bića. Tvar je ono iz čega nastaje ma šta; naziva se i suštastvom i tvari, kako svega tako i pojedinačnih stvari. Tvar svega niti raste niti se smanjuje, dok se tvar pojedinačnih stvari može uvećavati i smanjivati.",
-    "stsl": "Зенонъ пръвобꙑтнѫѭ тварь сѫштьствомъ вьсѣхъ сѫштихъ мьнѣаше · Тварь єсть из неѩже что любо ражаєть сѧ · и сѫштьство и тварь нарицаєть сѧ · и вьсего и особьныихъ вештии · Тварь вьсего ни растеть ни ѹмалѧєть сѧ · тварь же особьныихъ вештии и растити и ѹмалити сѧ можеть ·",
+    "sr": "Zenon i Hrisip smatrali su prvobitnu tvar suštastvom svega što postoji. Pod tvari se razume ono iz čega nastaje bilo šta. O suštastvu i tvari govori se dvojako: o suštastvu i tvari svega i o suštastvu i tvari pojedinačnih stvari. Sveopšta tvar niti se uvećava niti se smanjuje, dok se tvar pojedinačnih stvari može i uvećavati i smanjivati.",
+    "stsl": "Зенонъ и Хрисиппъ пръвобꙑтнѫѭ тварь сѫштьствомъ вьсѣхъ сѫштихъ мьнѣаста · Подъ тварїю разумѣеть сѧ то · изъ негоже что любо раждаєть сѧ · О сѫштьствѣ же и твари двоꙗко глаголеть сѧ · о сѫштьствѣ и твари вьсего · и о сѫштьствѣ и твари особьнꙑихъ вештии · Вьсего же тварь ни множаиша ни мьнши бꙑваеть · тварь же особьнꙑихъ вештии и множаиша и мьнши бꙑти можеть.",
     "originalText": "Οὐσίαν δέ φασι τῶν ὄντων ἁπάντων τὴν πρώτην ὕλην, ὡς καὶ Χρύσιππος ἐν τῇ πρώτῃ τῶν Φυσικῶν καὶ Ζήνων. Ὕλη δέ ἐστιν ἐξ ἧς ὁτιδηποτοῦν γίνεται. Καλεῖται δὲ διχῶς, οὐσία τε καὶ ὕλη, ἥ τε τῶν πάντων καὶ ἡ τῶν ἐπὶ μέρους. Ἡ μὲν οὖν τῶν ὅλων οὔτε πλείων οὔτ' ἐλάττων γίνεται, ἡ δὲ τῶν ἐπὶ μέρους καὶ πλείων καὶ ἐλάττων.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35265,11 +35310,11 @@
     ]
   },
   {
-    "_id": 2058,
+    "_id": 2060,
     "id": "mm-002016",
     "type": "reported",
-    "sr": "Zenon je munju objašnjavao kao paljenje oblaka koji se taru ili pucaju pod dejstvom vetra.",
-    "stsl": "Зенонъ мълниѭ палениемь облакъ истълкова · єгда сѧ трѫть или отъ вѣтра распадаѭть сѧ ·",
+    "sr": "Zenon u delu O celini objašnjava munju kao paljenje oblaka koji se taru ili pucaju pod dejstvom vetra.",
+    "stsl": "Зенонъ въ книгѣ О вьсемь мълниѭ възжижениемь облакъ истълкова · егда сѧ трѫть или отъ вѣтра распадаѭть сѧ.",
     "originalText": "ἀστραπὴν δ' ἔξαψιν νεφῶν παρατριβομένων ἢ ῥηγνυμένων ὑπὸ πνεύματος, ὡς Ζήνων ἐν τῷ Περὶ τοῦ ὅλου.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35281,11 +35326,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.153"
   },
   {
-    "_id": 2059,
+    "_id": 2061,
     "id": "mm-002017",
     "type": "reported",
-    "sr": "Zenon je dušu smatrao toplim dahom: njime smo oduševljeni i njime se krećemo.",
-    "stsl": "Зенонъ дѹшѫ теплъ дъхъ мьнѣаше · имь бо одѹшевлѧємы сѧ и имь движемы сѧ ·",
+    "sr": "Zenon iz Kitija, Antipater u delima O duši i Posejdonije smatrali su dušu toplim dahom: zahvaljujući njemu živimo i njime se krećemo.",
+    "stsl": "Зенонъ Китиець · Антипатръ въ книгахъ О дѹши и Посидонии дѹшѫ теплъ дѹхъ мьнѣахѫ · имь бо живи есмꙑ и имь движемы сѧ.",
     "originalText": "Ζήνων δ' ὁ Κιτιεὺς καὶ Ἀντίπατρος ἐν τοῖς Περὶ ψυχῆς καὶ Ποσειδώνιος πνεῦμα ἔνθερμον εἶναι τὴν ψυχήν· τούτῳ γὰρ ἡμᾶς εἶναι ἔμπνους καὶ ὑπὸ τούτου κινεῖσθαι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35301,11 +35346,11 @@
     ]
   },
   {
-    "_id": 2060,
+    "_id": 2062,
     "id": "mm-002018",
     "type": "reported",
-    "sr": "Kad neko reče da mu se reči filozofa čine malim, on odgovori: Istinu govoriš, ali treba i da im slogovi budu kratki, ako je moguće.",
-    "stsl": "Рече же нѣкто · ꙗко мала ємѹ мьнѧть сѧ словеса любомѫдрьць · Истинѫ глаголѥши · рече · подобаѥть же и сълогомъ ихъ кратъкꙑмъ быти · аще можьно ·",
+    "sr": "Kada neko reče da mu se rasprave filozofa čine kratkim, Zenon odgovori: Istinu govoriš; ako je moguće, i njihovi slogovi treba da budu kratki.",
+    "stsl": "Рекъшѹ же нѣкоемѹ · ꙗко кратка емѹ мьнѧть сѧ словеса любомѫдрьць · Зенонъ отъвѣшта · Истинѫ глаголеши · подобаеть же и сълогомъ ихъ кратъкꙑимъ бꙑти · аще мощьно.",
     "originalText": "Εἰπόντος δέ τινος ὅτι μικρὰ αὐτῷ δοκεῖ τὰ λογάρια τῶν φιλοσόφων, «Λέγεις,» εἶπε, «τἀληθῆ· δεῖ μέντοι καὶ τὰς συλλαβὰς αὐτῶν βραχείας εἶναι, εἰ δυνατόν.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35320,11 +35365,11 @@
     ]
   },
   {
-    "_id": 2061,
+    "_id": 2063,
     "id": "mm-002019",
     "type": "reported",
-    "sr": "Zenon je govorio da besednik, poput glumca, treba da ima snažan glas i silu, ali da ne razvlači usta kao oni koji govore mnogo, a nemoćno.",
-    "stsl": "Зенонъ глаголаше ꙗко словесьникъ · подобьно играцѹ · силенъ гласъ и мошть имѣти подобаєть · ѹстъ же не растѧзати · ꙗкоже мънога и немоштьна глаголѭштии творѧть ·",
+    "sr": "Zenon je govorio da onaj ko raspravlja treba, poput glumaca, da ima snažan glas i veliku silinu, ali da ne razvlači usta, kao oni koji govore mnogo, a bez snage.",
+    "stsl": "Зенонъ глаголааше · ꙗко бесѣдѹѭштемѹ · подобьно играцемъ · силенъ гласъ и великѫ мощь имѣти подобаеть · ѹстъ же не растѧзати · ꙗкоже мънога · нъ немощьна глаголѭштии творѧть.",
     "originalText": "δεῖν δ' ἔφη τόνῳ διαλεγόμενον ὥσπερ τοὺς ὑποκριτὰς τὴν μὲν φωνὴν καὶ τὴν δύναμιν μεγάλην ἔχειν, τὸ μέντοι στόμα μὴ διέλκειν· ὃ ποιεῖν τοὺς πολλὰ μὲν λαλοῦντας, ἀδύνατα δέ.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35336,11 +35381,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.20"
   },
   {
-    "_id": 2062,
+    "_id": 2064,
     "id": "mm-002020",
-    "type": "quote",
-    "sr": "Uši su ti se slile u jezik.",
-    "stsl": "Ѹши твоѩ въ ѩзꙑкъ сътекошѧ сѧ ·",
+    "type": "reported",
+    "sr": "Kada je neki mladić mnogo govorio, Zenon mu reče: Uši su ti se slile u jezik.",
+    "stsl": "Юношѣ нѣкоемѹ мънога глаголѭштѹ · Зенонъ рече · Ѹши твоꙗ въ ꙗзꙑкъ сътекошѧ сѧ.",
     "originalText": "Νεανίσκου πολλὰ λαλοῦντος ἔφη, «Τὰ ὦτά σου εἰς τὴν γλῶτταν συνερρύηκεν.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35352,11 +35397,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.21"
   },
   {
-    "_id": 2063,
+    "_id": 2065,
     "id": "mm-002021",
-    "type": "quote",
-    "sr": "Ništa neće biti jadnije od vas lepih.",
-    "stsl": "Ничтоже бѫдеть окаꙗньнѣише васъ красныихъ ·",
+    "type": "reported",
+    "sr": "Kada neki lep mladić reče da mu se čini da se mudrac neće zaljubljivati, Zenon odgovori: Onda niko neće biti nesrećniji od vas lepotana.",
+    "stsl": "Красномѹ нѣкоемѹ юноши рекъшѹ · ꙗко мьнить мѫдрьца не възлюбити · Зенонъ отъвѣшта · Тогда никъто васъ краснꙑихъ окаꙗньнѣиши не бѫдеть.",
     "originalText": "Πρὸς τὸν καλὸν εἰπόντα ὅτι οὐ δοκεῖ αὐτῷ ἐρασθήσεσθαι ὁ σοφός, «Οὐδέν,» ἔφη, «ὑμῶν ἀθλιώτερον ἔσεσθαι τῶν καλῶν.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35368,11 +35413,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.21"
   },
   {
-    "_id": 2064,
+    "_id": 2066,
     "id": "mm-002022",
     "type": "reported",
-    "sr": "Zenon je govorio da je većina filozofa u velikim stvarima nemudra, a u malim i slučajnim neznalačka.",
-    "stsl": "Зенонъ глаголаше ꙗко множаишии любомѫдрьци въ великыихъ немѫдри · въ малыихъ же и приключьныихъ невѣдѫшти сѫть ·",
+    "sr": "Zenon je govorio da su filozofi većinom nemudri, a u sitnim i slučajnim stvarima neuki.",
+    "stsl": "Зенонъ глаголааше · ꙗко множаишии любомѫдрьци въ мънозѣхъ немѫдри · въ малꙑихъ же и приключьнꙑихъ невѣдѫшти сѫть.",
     "originalText": "Ἔλεγε δὲ καὶ τῶν φιλοσόφων τοὺς πλείστους τὰ μὲν πολλὰ ἀσόφους εἶναι, τὰ δὲ μικρὰ καὶ τυχηρὰ ἀμαθεῖς.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35387,12 +35432,12 @@
     ]
   },
   {
-    "_id": 2065,
+    "_id": 2067,
     "id": "mm-002023",
-    "type": "quote",
-    "sr": "Dobro ne leži u velikom, nego veliko u dobrom.",
-    "stsl": "Добро не въ велицѣмь лежить · нъ велико въ добрѣмь ·",
-    "originalText": "οὐκ ἐν τῷ μεγάλῳ τὸ εὖ κείμενον εἴη, ἀλλ' ἐν τῷ εὖ τὸ μέγα.",
+    "type": "reported",
+    "sr": "Zenon je navodio izreku Kafisija. Kada je neki Kafisijev učenik pokušao da duva u frulu što snažnije, Kafisije ga udari i reče: Nije dobra svirka u glasnoći, nego glasnoća u dobroj svirci.",
+    "stsl": "Зенонъ Кафисиево слово привождааше · Нѣкоемѹ Кафисиеву ѹченикѹ велми дѹти въ свираль хотѧштѹ · Кафисии ѹдари и и рече · Не въ велицѣмь гласѣ добро пѣниѥ лежить · нъ великъ гласъ въ добрѣмь пѣнии.",
+    "originalText": "Καὶ προεφέρετο τὸ τοῦ Καφισίου, ὃς ἐπιβαλομένου τινὸς τῶν μαθητῶν μεγάλα φῦσαν, πατάξας εἶπεν ὡς οὐκ ἐν τῷ μεγάλῳ τὸ εὖ κείμενον εἴη, ἀλλ' ἐν τῷ εὖ τὸ μέγα.",
     "author": "Zeno of Citium",
     "sources": [
       {
@@ -35400,7 +35445,10 @@
         "reference": "VII.21"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.21"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.21",
+    "tags": [
+      "εἶναι"
+    ]
   },
   {
     "_id": 451,
@@ -35420,11 +35468,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.183"
   },
   {
-    "_id": 2067,
+    "_id": 2069,
     "id": "mm-002025",
-    "type": "quote",
-    "sr": "Od svega je najnepriličnija taština, naročito kod mladih.",
-    "stsl": "Отъ вьсего неприличьнѣиша сѹєта · паче же въ юношыихъ ·",
+    "type": "reported",
+    "sr": "Govorio je da ništa nije nepristojnije od uobraženosti, naročito kod mladih.",
+    "stsl": "Глаголааше · ꙗко ничтоже неприличьнѣе мьнѣниꙗ о себѣ єсть · паче же въ юношахъ.",
     "originalText": "Πάντων ἔλεγεν ἀπρεπέστερον εἶναι τὸν τῦφον, καὶ μάλιστα ἐπὶ τῶν νέων.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35439,11 +35487,11 @@
     ]
   },
   {
-    "_id": 2068,
+    "_id": 2070,
     "id": "mm-002026",
     "type": "reported",
-    "sr": "Zenon je savetovao da se ne pamte glasovi i reči, nego da se um bavi ustrojstvom korisne misli, a ne da ih prima kao kakvo kuvanje ili pripremu.",
-    "stsl": "Зенонъ съвѣтоваше не гласы и словеса памѧтовати · нъ ѹмъ къ строению полезьны мысли приложити · а не ꙗко нѣко варениє или ѹготовлєниє приимати ꙗ ·",
+    "sr": "Savetovao je da se ne pamte glasovi i reči, nego da se um bavi ustrojstvom korisne izreke, umesto da je prima kao kakvo varivo ili pripremljeno jelo.",
+    "stsl": "Съвѣтовааше не гласы и словеса памѧтовати · нъ ѹмъ къ строению полезьнаго слова приложити · а не ꙗко нѣко варениѥ или брашьна ѹготовлениѥ приимати е.",
     "originalText": "Μὴ τὰς φωνὰς καὶ τὰς λέξεις ἀπομνημονεύειν, ἀλλὰ περὶ τὴν διάθεσιν τῆς χρείας τὸν νοῦν ἀσχολεῖσθαι, μὴ ὥσπερ ἕψησίν τινα ἢ σκευασίαν ἀναλαμβάνοντας.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35458,11 +35506,11 @@
     ]
   },
   {
-    "_id": 2069,
+    "_id": 2071,
     "id": "mm-002027",
     "type": "reported",
-    "sr": "Zenon je govorio da mladi u hodu, držanju i odeći treba da čuvaju svaku pristojnost.",
-    "stsl": "Зенонъ глаголаше ꙗко юноши въ хожденїи · стоꙗнїи и одѣꙗнїи вьсѧкѫ пристоиниѭ хранити подобаєть ·",
+    "sr": "Zenon je govorio da mladi u hodu, držanju i odeći treba da čuvaju potpunu pristojnost.",
+    "stsl": "Зенонъ глаголааше · ꙗко юношамъ въ хожении · образѣ и одѣꙗнии вьсѧкѫ пристоиниѭ хранити подобаеть.",
     "originalText": "δεῖν τ' ἔλεγε τοὺς νέους πάσῃ κοσμιότητι χρῆσθαι ἐν πορείᾳ καὶ σχήματι καὶ περιβολῇ·",
     "author": "Zeno of Citium",
     "sources": [
@@ -35474,11 +35522,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.22"
   },
   {
-    "_id": 2070,
+    "_id": 2072,
     "id": "mm-002028",
-    "type": "quote",
-    "sr": "Ništa nije toliko tuđe sticanju znanja kao uobraženost.",
-    "stsl": "Ничтоже толико чюжде стѧжанию знанїꙗ · ꙗкоже мьнѣниє о себѣ ·",
+    "type": "reported",
+    "sr": "Govorio je da ništa nije toliko tuđe sticanju znanja kao uobraženost.",
+    "stsl": "Глаголааше · ꙗко ничтоже толико чюжде стѧжанию знаниꙗ єсть · ꙗкоже мьнѣниѥ о себѣ.",
     "originalText": "Ἔλεγε δὲ μηδὲν εἶναι τῆς οἰήσεως ἀλλοτριώτερον πρὸς κατάληψιν τῶν ἐπιστημῶν,",
     "author": "Zeno of Citium",
     "sources": [
@@ -35493,11 +35541,11 @@
     ]
   },
   {
-    "_id": 2071,
+    "_id": 2073,
     "id": "mm-002029",
-    "type": "quote",
-    "sr": "Ništa nam toliko ne nedostaje kao vreme.",
-    "stsl": "Ничтоже намъ толико не достаєть · ꙗкоже врѣмѧ ·",
+    "type": "reported",
+    "sr": "Govorio je da nam ništa toliko ne nedostaje kao vreme.",
+    "stsl": "Глаголааше · ꙗко ничтоже намъ толико не достаеть · ꙗкоже врѣмѧ.",
     "originalText": "μηδενός θ' ἡμᾶς οὕτως εἶναι ἐνδεεῖς ὡς χρόνου.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35512,11 +35560,11 @@
     ]
   },
   {
-    "_id": 2072,
+    "_id": 2074,
     "id": "mm-002030",
     "type": "reported",
-    "sr": "Upitan šta je prijatelj, Zenon odgovori: Drugo ja.",
-    "stsl": "Въпрошенъ что єсть дрѹгъ · Зинонъ отъвѣшта · Дрѹгыи азъ ·",
+    "sr": "Upitan ko je prijatelj, Zenon odgovori: Drugi ja.",
+    "stsl": "Въпрошенъ къто єсть дрѹгъ · Зенонъ отъвѣшта · Дрѹгыи азъ.",
     "originalText": "Ἐρωτηθεὶς τίς ἐστι φίλος, «Ἄλλος,» ἔφη, «ἐγώ.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35545,11 +35593,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.112"
   },
   {
-    "_id": 2074,
+    "_id": 2076,
     "id": "mm-002032",
-    "type": "quote",
-    "sr": "Lepota je cvet uzdržanosti.",
-    "stsl": "Красота цвѣтъ въздръжанїꙗ ·",
+    "type": "reported",
+    "sr": "Lepotu je nazivao cvetom čednosti; po drugima, čednost cvetom lepote.",
+    "stsl": "Красотѫ цвѣтомъ цѣломѫдриꙗ нарицааше · инии же глаголѭть · ꙗко цѣломѫдриѥ цвѣтъ красотꙑ нарече.",
     "originalText": "Τὸ κάλλος εἶπε τῆς σωφροσύνης ἄνθος εἶναι· οἱ δὲ τοῦ κάλλους τὴν σωφροσύνην.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35564,11 +35612,11 @@
     ]
   },
   {
-    "_id": 2075,
+    "_id": 2077,
     "id": "mm-002033",
     "type": "reported",
-    "sr": "Videvši dečaka svoga poznanika prekrivenog modricama, Zenon mu reče: Vidim tragove tvoga gneva.",
-    "stsl": "Видѣвъ отрока знаѥмаго своѥго синьцами покрыта · Зинонъ рече ємѹ · Виждѫ слѣды гнѣва твоѥго ·",
+    "sr": "Videvši roba nekog svog poznanika prekrivenog modricama, Zenon reče poznaniku: Vidim tragove tvoga gneva.",
+    "stsl": "Видѣвъ нѣкоего своего знаемаго раба синьцами покрꙑта · Зенонъ знаемомѹ рече · Виждѫ слѣдꙑ гнѣва твоего.",
     "originalText": "Τῶν γνωρίμων τινὸς παιδάριον μεμωλωπισμένον θεασάμενος πρὸς αὐτόν «Ὁρῶ σου,» ἔφη, «τοῦ θυμοῦ τὰ ἴχνη·»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35580,11 +35628,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.23"
   },
   {
-    "_id": 2076,
+    "_id": 2078,
     "id": "mm-002034",
     "type": "reported",
-    "sr": "Osetivši muškarca namirisanog mirisnim uljem, Zenon upita: Ko to miriše na ženu?",
-    "stsl": "Обонꙗвъ мѫжа мастиѭ помазана · Зинонъ въпроси · Къто се женоѭ вонꙗєть ·",
+    "sr": "Čoveku namirisanom mirisnim uljem Zenon reče: Ko to miriše na ženu?",
+    "stsl": "Мѫжеви мастиѭ благоѹханьноѭ помазанѹ · Зенонъ рече · Къто се женоѭ вонꙗеть?",
     "originalText": "πρὸς τὸν κεχρισμένον τῷ μύρῳ, «Τίς ἐστιν,» ἔφη, «ὁ γυναικὸς ὄζων;»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35599,11 +35647,11 @@
     ]
   },
   {
-    "_id": 2077,
+    "_id": 2079,
     "id": "mm-002035",
     "type": "reported",
-    "sr": "Kada ga Dionisije upita zašto jedino njega ne ispravlja, Zenon odgovori: Jer ti ne verujem.",
-    "stsl": "Єгда и Дионисии въпроси · почто єдинаго єго не исправлꙗєть · Зинонъ отъвѣшта · Не вѣрѫ бо ти имамъ ·",
+    "sr": "Kada ga Dionisije Odmetnik upita zašto jedino njega ne ispravlja, Zenon odgovori: Jer ti ne verujem.",
+    "stsl": "Дионисию Отъстѫпьникѹ въпросивъшѹ · почто единаго его не исправлꙗеть · Зенонъ отъвѣшта · Не вѣрѫ бо ти имамъ.",
     "originalText": "Διονυσίου δὲ τοῦ Μεταθεμένου εἰπόντος αὐτῷ διὰ τί αὐτὸν μόνον οὐ διορθοῖ, ἔφη, «Οὐ γάρ σοι πιστεύω.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35615,11 +35663,11 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.23"
   },
   {
-    "_id": 2078,
+    "_id": 2080,
     "id": "mm-002036",
     "type": "reported",
     "sr": "Brbljivom mladiću Zenon reče: Zato imamo dva uha, a jedna usta: da više slušamo, a manje govorimo.",
-    "stsl": "Блъботивомѹ юноши Зинонъ рече · Сего ради двѣ ѹши имамы · ѹста же єдина · да множає слѹшаємъ · мьнѣє же глаголємъ ·",
+    "stsl": "Блъботивомѹ юноши Зенонъ рече · Сего ради двѣ ѹши имамъ · ѹста же едина · да множае слѹшаемъ · мьнѣе же глаголемъ.",
     "originalText": "Πρὸς τὸ φλυαροῦν μειράκιον, «Διὰ τοῦτο,» εἶπε, «δύο ὦτα ἔχομεν, στόμα δὲ ἕν, ἵνα πλείονα μὲν ἀκούωμεν, ἥττονα δὲ λέγωμεν.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35635,11 +35683,11 @@
     ]
   },
   {
-    "_id": 2079,
+    "_id": 2081,
     "id": "mm-002037",
     "type": "reported",
-    "sr": "Upitan kako se odnosi prema uvredama, Zenon odgovori: Kao kada se izaslanik otpusti bez odgovora.",
-    "stsl": "Въпрошенъ како къ поношению сѧ имать · Зинонъ отъвѣшта · Ꙗкоже посълъ безъ отвѣта отпѹштаєть сѧ ·",
+    "sr": "Upitan kako podnosi pogrde, Zenon odgovori: Kao da se izaslanik otpušta bez odgovora.",
+    "stsl": "Въпрошенъ како поношениꙗ тръпить · Зенонъ отъвѣшта · Ꙗкоже посълъ безъ отъвѣта отпѹштаеть сѧ.",
     "originalText": "Ἐρωτηθεὶς πῶς ἔχει πρὸς λοιδορίαν, «Καθάπερ,» εἶπεν, «εἰ πρεσβευτὴς ἀναπόκριτος ἀποστέλλοιτο.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -35671,7 +35719,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.177"
   },
   {
-    "_id": 2081,
+    "_id": 2083,
     "id": "mm-002039",
     "type": "mention",
     "sr": "Zenon kaže da je Hesiod prvi nebo nazvao strojem, a zemlju okruglom.",
@@ -35687,7 +35735,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.48"
   },
   {
-    "_id": 2082,
+    "_id": 2084,
     "id": "mm-002040",
     "type": "mention",
     "sr": "Demokrit pominje učenje o Jednom koje su zastupali Parmenid i Zenon.",
@@ -35720,7 +35768,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.177"
   },
   {
-    "_id": 2084,
+    "_id": 2086,
     "id": "mm-002042",
     "type": "quote",
     "sr": "Čudim se vašem kukavičluku: ako zbog onoga što ja sada podnosim robujete tiraninu.",
@@ -35739,7 +35787,7 @@
     ]
   },
   {
-    "_id": 2085,
+    "_id": 2087,
     "id": "mm-002043",
     "type": "quote",
     "sr": "Postoje svetovi, ali nema praznine.",
@@ -35759,7 +35807,7 @@
     ]
   },
   {
-    "_id": 2086,
+    "_id": 2088,
     "id": "mm-002044",
     "type": "quote",
     "sr": "Priroda svega nastala je od toplog i hladnog, suvog i vlažnog, koji se uzajamno menjaju.",
@@ -35778,7 +35826,7 @@
     ]
   },
   {
-    "_id": 2087,
+    "_id": 2089,
     "id": "mm-002045",
     "type": "quote",
     "sr": "Ljudi od zemlje rađaju se.",
@@ -35797,7 +35845,7 @@
     ]
   },
   {
-    "_id": 2088,
+    "_id": 2090,
     "id": "mm-002046",
     "type": "quote",
     "sr": "Duša je smeša toplog i hladnog, suvog i vlažnog, tako da nijedno od njih ne preovlađuje.",
@@ -35813,7 +35861,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.29"
   },
   {
-    "_id": 2089,
+    "_id": 2091,
     "id": "mm-002047",
     "type": "quote",
     "sr": "Ono što se kreće ne kreće se ni u mestu u kojem jeste, ni u mestu u kojem nije.",
@@ -35829,7 +35877,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.72"
   },
   {
-    "_id": 2090,
+    "_id": 2092,
     "id": "mm-002048",
     "type": "mention",
     "sr": "Platon kaže da je Zenon spis napisao u mladosti i da mu je bio ukraden pre nego što je sam odlučio hoće li ga objaviti.",
@@ -35844,7 +35892,7 @@
     ]
   },
   {
-    "_id": 2091,
+    "_id": 2093,
     "id": "mm-002049",
     "type": "quote",
     "sr": "Ako su bića mnoga, moraju biti i slična i neslična. Ali to je nemoguće: neslična ne mogu biti slična, niti slična neslična. Prema tome, bića nisu mnoga.",
@@ -35862,7 +35910,7 @@
     ]
   },
   {
-    "_id": 2092,
+    "_id": 2094,
     "id": "mm-002050",
     "type": "mention",
     "sr": "Platon Zenonov spis predstavlja kao odbranu Parmenida: Parmenid tvrdi da je sve jedno, a Zenon, polazeći obrnutim putem, da mnoštva nema.",
@@ -35880,7 +35928,7 @@
     ]
   },
   {
-    "_id": 2093,
+    "_id": 2095,
     "id": "mm-002051",
     "type": "quote",
     "sr": "Ako nešto jeste, nužno je da ima neku veličinu i debljinu, i da mu jedan deo bude udaljen od drugoga. Isto važi za ono što se proteže: i ono ima veličinu, a nešto se opet proteže dalje od njega. Isto je kazati to jednom ili ponavljati vazda: nijedan takav deo nije poslednji, niti je jedan bez drugoga. Tako, ako ih je mnogo, nužno je da budu i mala i velika: mala toliko da nemaju veličinu, velika toliko da budu beskrajna.",
@@ -35901,7 +35949,7 @@
     ]
   },
   {
-    "_id": 2094,
+    "_id": 2096,
     "id": "mm-002052",
     "type": "quote",
     "sr": "Ako bi se nešto takvo dodalo nečemu što jeste, ne bi ga učinilo većim. Jer ono što nema nikakvu veličinu ne može svojim dodavanjem uvećati veličinu; tako bi ono što je dodato bilo ništa. Ako pak njegovim oduzimanjem drugo ne postaje manje, niti njegovim dodavanjem veće, jasno je da su i ono što je dodato i ono što je oduzeto — ništa.",
@@ -35920,7 +35968,7 @@
     ]
   },
   {
-    "_id": 2095,
+    "_id": 2097,
     "id": "mm-002053",
     "type": "quote",
     "sr": "Ako ih je mnogo, nužno ih je onoliko koliko ih jeste, ni više ni manje. Ako ih je onoliko koliko ih jeste, onda su ograničena. Ali ako ih je mnogo, bića su beskrajna: između bića uvek ima drugih, a između tih opet drugih. I tako su bića beskrajna.",
@@ -35940,7 +35988,7 @@
     ]
   },
   {
-    "_id": 2096,
+    "_id": 2098,
     "id": "mm-002054",
     "type": "reported",
     "sr": "Kretanja nema: ono što se kreće mora najpre stići do polovine puta, pa tek onda do kraja.",
@@ -35958,7 +36006,7 @@
     ]
   },
   {
-    "_id": 2097,
+    "_id": 2099,
     "id": "mm-002055",
     "type": "reported",
     "sr": "U dokazu zvanom Ahilej najbrži nikada neće sustići najsporijeg: gonilac mora najpre stići do mesta odakle je begunac pošao, pa sporiji nužno uvek ostaje nešto ispred.",
@@ -35973,7 +36021,7 @@
     ]
   },
   {
-    "_id": 2098,
+    "_id": 2100,
     "id": "mm-002056",
     "type": "reported",
     "sr": "Strela u letu miruje: u svakom sada zauzima prostor jednak sebi, a ono što zauzima prostor jednak sebi miruje.",
@@ -35991,7 +36039,7 @@
     ]
   },
   {
-    "_id": 2099,
+    "_id": 2101,
     "id": "mm-002058",
     "type": "reported",
     "sr": "Ako je svako biće u mestu, jasno je da će i mesto imati mesto, i tako u beskraj.",
@@ -36010,7 +36058,7 @@
     ]
   },
   {
-    "_id": 2100,
+    "_id": 2102,
     "id": "mm-002059",
     "type": "reported",
     "sr": "Zenon je tvrdio da i deo prosa pri padu daje zvuk.",
@@ -36045,7 +36093,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.185"
   },
   {
-    "_id": 2102,
+    "_id": 2104,
     "id": "mm-002062",
     "type": "mention",
     "sr": "Diogen Zenonu pripisuje da je prvi izložio dokaz zvani Ahilej; Favorin ga pripisuje Parmenidu.",
@@ -36061,7 +36109,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.29"
   },
   {
-    "_id": 2103,
+    "_id": 2105,
     "id": "mm-002063",
     "type": "mention",
     "sr": "Po jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
@@ -36126,7 +36174,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.73"
   },
   {
-    "_id": 2083,
+    "_id": 2085,
     "id": "mm-002041",
     "type": "anecdote",
     "sr": "Prema Antistenu, kada ga tiranin upita ima li još zaverenika, Zenon odgovori: Da — ti, pošasti ovoga grada! Potom okupljenima prekori malodušnost, odgrize vlastiti jezik i ispljunu ga na tiranina. Građani se tada osmeliše i kamenovaše tiranina.",

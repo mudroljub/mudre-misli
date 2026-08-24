@@ -1,7 +1,7 @@
 <!-- anchor:203a -->
-Sokrat · Išao sam iz Akademije pravo ka Likeju, putem izvan zida, tik uz sam zid. Kada stigoh do malih vrata kod Panopova izvora, tamo sretoh Hipotala, Jeronimova sina, i Ktesipa iz Peanije, i još neke mladiće koji su s njima stajali na okupu. Hipotal me, videvši kako prilazim, upita: Sokrate, kuda ideš i odakle?
+Sokrat · Išao sam iz Akademije pravo ka Likeju, putem izvan zida, tik uz sam zid. Kada stigoh do malih vrata kod Panopova izvora, tamo sretoh Hipotala, Jeronimova sina, i Ktesipa iz Peanije, i još neke mladiće koji su s njima stajali na okupu. Hipotal me, videvši kako prilazim, upita: Sokrate, kuda ideš i <!-- anchor:203b -->odakle?
 
-<!-- anchor:203b -->
+
 Sokrat · Iz Akademije, rekoh, idem pravo ka Likeju.
 
 Hipotal · Ovamo onda, reče, k nama. Zar nećeš ući? Vredi.
@@ -32,13 +32,10 @@ Sokrat · A tebi ko, Hipotale? Reci.
 
 Hipotal na pitanje pocrvene, a ja rekoh: Hipotale, Jeronimov sine, više mi nemoj kazivati voliš li nekoga ili ne; znam, naime, ne samo da voliš nego da si već daleko odmakao u ljubavi.
 
-<!-- anchor:204c -->
-Sokrat · Jer u drugim stvarima sam slab i nekoristan, ali ovo mi je nekako od boga dato: brzo poznati onoga koji voli i onoga koji je voljen.
 
-Ktesip · Bogova mi, Sokrate, krasno je što sada crveni i stidi se da kaže ime. Ali ako samo malo vremena provedeš s njim, oglušiće te koliko ga često izgovara. Nas je, Sokrate, zaista napunio i oglušio slovima o Lisidu.
+Sokrat · Jer u drugim stvarima sam slab <!-- anchor:204c -->i nekoristan, ali ovo mi je nekako od boga dato: brzo poznati onoga koji voli i onoga koji je voljen.
 
-<!-- anchor:204d -->
-Ktesip · Bogova mi, Sokrate, smešno je što crveni i stidi se da kaže ime. Ako samo malo vremena provedeš s njim, oglušiće te koliko ga često izgovara. Nas je, Sokrate, zaista napunio Lisidom i oglušio nam uši; a ako se makar malo napije, lako nam se i kad se probudimo učini da još čujemo Lisidovo ime.
+Ktesip · Bogova mi, Sokrate, smešno je što crveni i stidi se da kaže ime. Ako samo malo vremena provedeš s njim, oglušiće te koliko ga često izgovara. Nas je, Sokrate, zaista napunio Lisidom i oglušio nam <!-- anchor:204d -->uši; a ako se makar malo napije, lako nam se i kad se probudimo učini da još čujemo Lisidovo ime. Ono što pripoveda u prozi, ma koliko strašno bilo, nije naročito strašno — nego kad pokuša da nas zaspe pesmama i spisima! A od toga je još strašnije što voljenome i peva čudesnim glasom, koji moramo podnositi slušajući ga. Sada pak, kada ga ti pitaš, crveni.
 
 <!-- anchor:204e -->
 Sokrat · Lisid je, kako se čini, još mlad. To zaključujem zato što, čuvši ime, nisam znao ko je.
@@ -49,8 +46,8 @@ Sokrat · Reci, rekoh, čiji je sin.
 
 Ktesip · Demokratov, reče, iz Eksona, najstariji sin.
 
-<!-- anchor:205a -->
-Sokrat · Hipotale, rekoh, kako si plemenitu i mladu ljubav našao. Hajde onda, ono što pokazuješ drugima pokaži i meni, da vidim znaš li kako ljubitelj treba da govori o voljenome njemu samom i drugima.
+
+Sokrat · Hipotale, rekoh, kako si plemenitu i mladu ljubav našao. Hajde onda, ono što <!-- anchor:205a -->pokazuješ drugima pokaži i meni, da vidim znaš li kako ljubitelj treba da govori o voljenome njemu samom i drugima.
 
 Hipotal · Pridaješ li, Sokrate, neku veliku težinu tome što ovaj govori? reče.
 
@@ -60,18 +57,18 @@ Hipotal · Ljubav ne poričem, reče, ali poričem da voljenome sastavljam pesme
 
 Ktesip · Nije pri sebi, reče, nego mahnita i luduje.
 
-<!-- anchor:205b -->
-Sokrat · Hipotale, rekoh, ne želim da slušam ni tvoje stihove ni pesme, nego razmisao, da vidim kako prilaziš dečaku.
+
+Sokrat · Hipotale, rekoh, ne želim <!-- anchor:205b -->da slušam ni tvoje stihove ni pesme, nego razmisao, da vidim kako prilaziš dečaku.
 
 Hipotal · Ovaj će ti, reče, kazati; zna i pamti, jasno, ako je, kako govori, ogluveo slušajući me tako često.
 
 Ktesip · Bogova mi, reče, znam; i veoma je smešno.
 
-<!-- anchor:205c -->
-Ktesip · Jer, premda toliko voli i više od drugih drži um na dečaku, nema ništa naročito da kaže što ni sam dečak ne bi mogao. Zar nije smešno? Ono što ceo grad peva o Demokratu, Lisidu, dečakovu dedi, i ostalim precima — o bogatstvu, uzgoju konja i pobedama na Pitijskim, Istmijskim i Nemejskim igrama, kočijama i konjima — to i nama peva i govori.
 
-<!-- anchor:205d -->
-Ktesip · Pa još i starije od toga: jednom nam je sastavio pesmu o Heraklovu gostoprimstvu, kako je njihov predak primio Herakla u goste, budući mu rođak, rođen od Zevsa i kćeri osnivača deme; i druge takve priče kakve kazuju starice, i mnogo drugoga što nas ovaj tera da slušamo.
+Ktesip · Jer, premda toliko voli i više od drugih drži um na dečaku, <!-- anchor:205c -->nema ništa naročito da kaže što ni sam dečak ne bi mogao. Zar nije smešno? Ono što ceo grad peva o Demokratu, Lisidu, dečakovu dedi, i ostalim precima — o bogatstvu, uzgoju konja i pobedama na Pitijskim, Istmijskim i Nemejskim igrama, kočijama i konjima — to i nama peva i govori.
+
+
+Ktesip · Pa još i starije od toga: jednom nam je sastavio pesmu o Heraklovu gostoprimstvu, kako je njihov predak <!-- anchor:205d -->primio Herakla u goste, budući mu rođak, rođen od Zevsa i kćeri osnivača deme; i druge takve priče kakve kazuju starice, i mnogo drugoga što nas ovaj tera da slušamo.
 
 Sokrat · Smešni Hipotale, rekoh, pre pobede sam sebi sastavljaš i pevaš pohvalu.
 
@@ -86,9 +83,9 @@ Sokrat · Te pesme, rekoh, ponajviše se tiču tebe.
 
 Hipotal · Kako? reče.
 
-Sokrat · Ako zadobiješ takvog voljenog, pesme i slova koja si sastavio biće ti ukras i pohvala, kao pobedničke pesme, jer si zadobio takvoga. Ako ti pak izmakne, što si više hvalio voljenoga, toliko će izgledati da si lišen većih i lepših dobara i bićeš dostojniji smeha.
+Sokrat · Ako zadobiješ takvog voljenog, pesme i slova koja si sastavio biće ti ukras i pohvala, kao pobedničke pesme, jer si zadobio takvoga. Ako ti pak izmakne, što si više hvalio voljenoga, toliko će izgledati da si lišen većih i lepših dobara <!-- anchor:206a -->i bićeš dostojniji smeha.
 
-<!-- anchor:206a -->
+
 Sokrat · Zato onaj ko je mudar u ljubavnim stvarima, prijatelju, ne hvali voljenoga pre nego što ga zadobije, bojeći se kako će se buduće završiti. A uopšte, lepi, kada ih ko hvali i uznosi, pune se gordošću i veličanjem. Zar ne misliš tako?
 
 Hipotal · Tako, reče.
@@ -97,10 +94,10 @@ Sokrat · A što su gordiji, teže ih je zadobiti.
 
 Hipotal · Verovatno.
 
-<!-- anchor:206b -->
+
 Sokrat · Kakav je onda lovac koji plaši zver koju lovi i čini da je teže uhvati?
 
-Hipotal · Rđav.
+<!-- anchor:206b -->Hipotal · Rđav.
 
 Sokrat · A slovima i pesmama ne ukrotiti nego podivljati — veliko je neznanje muzike. Nije li?
 
@@ -115,13 +112,13 @@ Hipotal · Upravo zato se i savetujem s tobom, Sokrate, i molim: ako imaš neki 
 
 Sokrat · Nije lako, rekoh, reći. Ali ako bi hteo da mi dovedeš Lisida da s njim razgovaram, možda bih ti mogao pokazati kako treba s njim govoriti umesto tih slova i pesama koje mu, kako ovi kažu, govoriš.
 
-<!-- anchor:206d -->
-Hipotal · Nije teško, reče. Ako uđeš s Ktesipom i sedneš da razgovaraš, mislim da će sam prići; jer veoma rado sluša, Sokrate, a uz to su Hermeje, kada su mladići i dečaci izmešani. Zato će sigurno prići. Ako pak ne, blizak je s Ktesipom preko Meneksena, Ktesipova bratića; a Meneksen mu je najbliži prijatelj. Ktesip će ga, dakle, pozvati ako sam ne priđe.
+
+Hipotal · Nije teško, reče. Ako uđeš s Ktesipom i sedneš da razgovaraš, mislim da će sam prići; jer veoma rado sluša<!-- anchor:206d -->, Sokrate, a uz to su Hermeje, kada su mladići i dečaci izmešani. Zato će sigurno prići. Ako pak ne, blizak je s Ktesipom preko Meneksena, Ktesipova bratića; a Meneksen mu je najbliži prijatelj. Ktesip će ga, dakle, pozvati ako sam ne priđe.
 
 Sokrat · Učinimo tako, rekoh.
 
-<!-- anchor:206e -->
-Sokrat · Uzevši Ktesipa, uđoh u palestru, a ostali za nama. Kad uđosmo, nađosmo dečake koji su već prineli žrtvu, jer su obredi gotovo svi bili završeni, i svi su se ukrašeni igrali kockicama. Mnogi su se igrali napolju u dvorištu, a neki u uglu svlačionice igrali su par-nepar kockicama, bacajući mnoge iz malih košarica; drugi su stajali oko njih i gledali.
+
+Sokrat · Uzevši <!-- anchor:206e -->Ktesipa, uđoh u palestru, a ostali za nama. Kad uđosmo, nađosmo dečake koji su već prineli žrtvu, jer su obredi gotovo svi bili završeni, i svi su se ukrašeni igrali kockicama. Mnogi su se igrali napolju u dvorištu, a neki u uglu svlačionice igrali su par-nepar kockicama, bacajući mnoge iz malih košarica; drugi su stajali oko njih i gledali.
 
 <!-- anchor:207a -->
 Lisid i Meneksen · I te kako.

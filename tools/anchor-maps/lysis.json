@@ -1,0 +1,73 @@
+{
+  "work": "plato/lysis",
+  "anchors": {
+    "203a": {
+      "sr": { "before": "Sokrat · Išao sam iz Akademije pravo ka Likeju" },
+      "stsl": { "before": "Сѡкратъ · Идохъ отъ Академіи прямо къ Лѵкію" }
+    },
+    "203b": {
+      "sr": { "before": "odakle?" },
+      "stsl": { "before": "откѫдѹ ·\n\n\nСѡкратъ · Отъ Академіи" }
+    },
+    "204a": {
+      "sr": { "before": "Sokrat · A šta je to, rekoh, i čime se tamo bavite?" },
+      "stsl": { "before": "Сѡкратъ · Что же се єсть · рекохъ · и кое ваше пребꙑваніє" }
+    },
+    "204b": {
+      "sr": { "before": "Sokrat · Hteo bih najpre da čujem, rekoh, kamo idem" },
+      "stsl": { "before": "Сѡкратъ · Хотѣлъ быхъ прѣжде слꙑшати · рекохъ" }
+    },
+    "204c": {
+      "sr": { "before": "i nekoristan, ali ovo mi je nekako od boga dato" },
+      "stsl": { "before": "и непользьнъ єсмь · се же нѣкако богомъ ми дано" }
+    },
+    "204d": {
+      "sr": { "before": "uši; a ako se makar malo napije" },
+      "stsl": { "before": "ѹши Лисидомъ · И аще нѣкако мало испиѥть" }
+    },
+    "204e": {
+      "sr": { "before": "Sokrat · Lisid je, kako se čini, još mlad" },
+      "stsl": { "before": "Сѡкратъ · Лисидъ же · ꙗкоже видить сѧ · младъ єще єсть" }
+    },
+    "205a": {
+      "sr": { "before": "pokazuješ drugima pokaži i meni" },
+      "stsl": { "before": "инꙑмъ показѹѥши · покажи и мнѣ" }
+    },
+    "205b": {
+      "sr": { "before": "da slušam ni tvoje stihove ni pesme" },
+      "stsl": { "before": "слꙑшати желаѭ · а размꙑсла" }
+    },
+    "205c": {
+      "sr": { "before": "nema ništa naročito da kaže što ni sam dečak ne bi mogao" },
+      "stsl": { "before": "ничтоже особно имать рещи · єже и отрокъ самъ не моглъ бы" }
+    },
+    "205d": {
+      "sr": { "before": "primio Herakla u goste, budući mu rođak" },
+      "stsl": { "before": "Ираклеѵса въ гости приѧтъ · сродьникъ ємѹ сꙑ" }
+    },
+    "205e": {
+      "sr": { "before": "Sokrat · Te pesme, rekoh, ponajviše se tiču tebe" },
+      "stsl": { "before": "Сѡкратъ · Къ тебѣ · рекохъ · паче вьсѣхъ сиꙗ пѣсни" }
+    },
+    "206a": {
+      "sr": { "before": "i bićeš dostojniji smeha." },
+      "stsl": { "before": "и смѣха достоиныи ·" }
+    },
+    "206b": {
+      "sr": { "before": "Hipotal · Rđav.\n\nSokrat · A slovima" },
+      "stsl": { "before": "Иппоѳалъ · Зълъ ·\n\nСѡкратъ · И словесꙑ" }
+    },
+    "206c": {
+      "sr": { "before": "Hipotal · Upravo zato se i savetujem s tobom" },
+      "stsl": { "before": "Иппоѳалъ · Нъ сего ради и съвѣтѹѭ сѧ съ тобою" }
+    },
+    "206d": {
+      "sr": { "after": "jer veoma rado sluša" },
+      "stsl": { "before": "єсть · о Сѡкрате · и єще Гермовъ праздникъ" }
+    },
+    "206e": {
+      "sr": { "before": "Ktesipa, uđoh u palestru, a ostali za nama" },
+      "stsl": { "before": "Ктесиппа вънидохъ въ палестрѫ · и прочии за нами" }
+    }
+  }
+}

@@ -110,6 +110,46 @@ grčkim tekstom u `data/sources` i generiše `data/work-originals.json`. Provera
 se prekida ako izvor ili kanonsko sidro ne postoje, tako da prevod ne može
 neopaženo ostati vezan za pogrešan odeljak. Generisani fajl se ne menja ručno.
 
+### Filološko poravnanje sidara
+
+Za pregled granica koristi se:
+
+```bash
+npm run audit:work-anchors -- plato/euthyphro 2a 6e 320
+```
+
+Posle putanje dela mogu se navesti prvo sidro, poslednje sidro i broj znakova
+konteksta. Za svaku granicu alat prikazuje kraj prethodnog i početak narednog
+grčkog odeljka, kao i sadašnji položaj u oba prevoda.
+
+Provereni položaji čuvaju se kao jednoznačni tekstualni lokatori u
+`tools/anchor-maps/`. Primer jednog zapisa:
+
+```json
+"7a": {
+  "sr": { "before": "a ono što im nije milo" },
+  "stsl": { "before": "єже же не любо" }
+}
+```
+
+Mapa se najpre proverava bez zapisivanja:
+
+```bash
+npm run align:work-anchors -- tools/anchor-maps/euthyphro.json
+```
+
+Tek posle pregleda predloženih pomeranja primenjuje se neposrednim pozivom:
+
+```bash
+node tools/apply-work-anchor-map.mjs tools/anchor-maps/euthyphro.json --write
+```
+
+Alat odbija nepostojeće i nejedinstvene lokatore, duplikate i promenu
+redosleda. Pre zapisivanja uklanja sidra i proverava da je sam tekst prevoda
+ostao potpuno jednak; prikazuje i njegov skraćeni SHA-256 otisak. Zato mapa
+automatizuje samo fizičko pomeranje, dok položaj i dalje mora biti filološki
+određen prema grčkom izvorniku.
+
 `npm run build:data` paralelno gradi citate i lanac dela–izvornici. `npm run
 build` automatski pokreće generatore, dok `npm run dev` koristi već generisane
 fajlove i zatim prati izmene citata.

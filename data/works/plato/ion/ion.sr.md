@@ -192,7 +192,7 @@ A najveće znamenje tome slovu jeste Tinih Halkiđanin, koji nikada nije sačini
 Jer u njemu mi se ponajviše čini da nam bog pokazuje, da ne dvojimo, kako ta krasna pesništva nisu ljudska niti od ljudi, nego božanstvena i od bogova, a pesnici nisu ništa drugo nego tumači bogova, svaki obuzet onim od koga je obuzet.
 
 <!-- anchor:534e -->
-Pokazujući to, bog je namerno kroz najslabijeg pesnika ispevao najkrasniju pesmu. Ili ti se ne čini, Ione, da pravo govorim?
+Pokazujući to, bog je namerno kroz najslabijeg pesnika ispevao <!-- anchor:535a -->najkrasniju pesmu. Ili ti se ne čini, Ione, da pravo govorim?
 
 Ion · Da, Zevsa mi, čini mi se. Jer nekako slovima dotičeš moju dušu, Sokrate, i čini mi se da božanstvenom čašću dobri pesnici od bogova nama to tumače.
 
@@ -200,49 +200,45 @@ Sokrat · Niste li onda vi rapsodi opet tumači pesničkih tumača?
 
 Ion · I to istinu govoriš.
 
-<!-- anchor:535a -->
-Sokrat · Stani onda i nemoj mi skriti ono što ću pitati. Kada dobro kazuješ epska pesništva i silno potreseš gledaoce — bilo kada pevaš Odiseja kako iskače na prag, pokazuje se proscima i strele prosipa pred noge, ili Ahileja kako nasrće na Hektora, ili nešto žalosno o Andromahi ili Hekubi ili Prijamu — jesi li tada pri svome umu, ili bivaš izvan sebe, pa tvoja nadahnuta duša misli da je prisutna pri tim delima koja govoriš, bilo u Iliju ili na Itaci ili kuda god pesništvo vodi?
-
 <!-- anchor:535b -->
+Sokrat · Stani onda i nemoj mi skriti ono što ću pitati. Kada dobro kazuješ epska pesništva i silno potreseš gledaoce — bilo kada pevaš Odiseja kako iskače na prag, pokazuje se proscima i strele prosipa pred noge, ili Ahileja kako nasrće na Hektora, ili nešto žalosno o Andromahi ili Hekubi ili Prijamu — jesi li tada pri svome umu, ili <!-- anchor:535c -->bivaš izvan sebe, pa tvoja nadahnuta duša misli da je prisutna pri tim delima koja govoriš, bilo u Iliju ili na Itaci ili kuda god pesništvo vodi?
+
 Ion · Kako mi jasno znamenje za to govoriš, Sokrate! Neću ti kriti. Jer kada govorim nešto žalosno, oči mi se napune suzama; a kada nešto strašno ili grozno, kosa mi od straha ustaje i srce bije.
 
+<!-- anchor:535d -->
 Sokrat · Šta ćemo onda reći, Ione? Je li tada pri svome umu taj čovek koji u šarenoj odeći i zlatnim vencima plače na žrtvama i svetkovinama, premda ništa od toga nije izgubio; ili se boji stojeći pred više od dvadeset hiljada prijateljski nastrojenih ljudi, dok ga niko ne svlači niti mu čini zlo?
 
-<!-- anchor:535c -->
 Ion · Ne, Zevsa mi, Sokrate, ne baš, da istinu kažem.
 
 Sokrat · Znaš li onda da i kod većine gledalaca vi činite to isto?
 
+<!-- anchor:535e -->
 Ion · I veoma dobro znam. Jer svaki put odozgo, sa visokog sedišta, gledam ih kako plaču, grozno gledaju i saosećaju sa onim što se govori.
 
 Moram, naime, veoma prilagati um njima: jer ako ih navedem da plaču, sam ću se radovati zbog novca; a ako ih navedem da se smeju, sam ću zbog novca plakati.
 
-<!-- anchor:535d -->
-Sokrat · Znaš li onda da je taj gledalac poslednje od koluta o kojima sam govorio, koji jedan od drugoga primaju silu od Heraklejskog kamena? Srednji si ti, rapsod i glumac, a prvi je sam pesnik.
+Sokrat · Znaš li onda da je taj gledalac poslednje od koluta o kojima sam govorio, koji jedan od drugoga primaju silu od Heraklejskog kamena? <!-- anchor:536a -->Srednji si ti, rapsod i glumac, a prvi je sam pesnik.
 
 A bog kroz sve njih vuče ljudske duše kuda hoće, predajući silu od jednoga drugome; i kao od onoga kamena, visi velik lanac plesača, učitelja i podučitelja, postrance jedan od drugoga, od koluta koji vise od Muse.
 
-<!-- anchor:535e -->
 I od jednoga pesnika visi jedan rapsod, od drugoga drugi, i nadahnut je. Mi to nazivamo obuzetim, jer je blizu tome: drži se.
 
+<!-- anchor:536b -->
 A od tih prvih koluta, pesnika, vi opet visite jedan od drugoga i bivate nadahnuti: jedan od Orfeja, drugi od Museja, a mnogi ste obuzeti Homerom i o njemu visite.
 
 Od njih si i ti jedan, Ione: Homerom si obuzet; i kada neko peva pesništvo nekog drugog pesnika, spavaš i bezishodan si.
 
-<!-- anchor:536a -->
 A kada se oglasi neko pesništvo toga pesnika, odmah se budiš, duša ti zaigra i obiluješ onim što možeš reći. Jer ono što govoriš o Homeru ne govoriš umenjem ni znanjem, nego božanstvenom čašću i obuzetošću.
 
 Kao što koribanti oštro čuju samo onaj napev koji pripada bogu kojim su obuzeti, pa za taj napev obilno imaju i pokrete i slova, dok za ostale ne mare, tako i ti, Ione, kada neko pomene Homera, obiluješ, a o ostalima si bezishodan.
 
-<!-- anchor:536b -->
 I ono što pitaš — iz kojeg razloga o Homeru obiluješ, a o ostalima ne — jeste zato što nisi silan hvalitelj Homera umenjem, nego božanstvenom čašću.
 
 Ion · Ti, Sokrate, lepo govoriš. Ipak bih se čudio kada bi govorio toliko dobro da me ubediš da ja obuzet i mahnit hvalim Homera.
 
 Mislim da ni ti sam ne bi tako pomislio kada bi me čuo kako govorim o Homeru.
 
-<!-- anchor:536e -->
-Sokrat · I zaista hoću da te čujem, ali ne pre nego što mi odgovoriš na ovo: od onoga o čemu Homer govori, o čemu ti dobro govoriš? Valjda ne o svemu.
+Sokrat · I zaista hoću da te čujem, <!-- anchor:536e -->ali ne pre nego što mi odgovoriš na ovo: od onoga o čemu Homer govori, o čemu ti dobro govoriš? Valjda ne o svemu.
 
 Ion · Dobro znaj, Sokrate, nema ničega o čemu ne govorim dobro.
 
@@ -369,35 +365,32 @@ plač se razgoreo, a obrazi su suzama obliveni;
 
 prag je pun privida, pun je i dvor
 
-onih što idu ka mraku pod tamu; sunce pak
+onih što idu ka mraku pod tamu; <!-- anchor:539b -->sunce pak
 
 sa neba iščeze, a zla magla nadođe.
 
-<!-- anchor:539b -->
 I u Ilijadi na mnogim mestima, kao kod zida kada Trojanci htedoše preći. Jer govori:
 
 Ptica im dođe dok htedoše preći,
 
 orao visokoleteći, sleva narod zaklanjajući,
 
-krvavu veliku zmiju u kandžama noseći,
+<!-- anchor:539c -->krvavu veliku zmiju u kandžama noseći,
 
 živu, još trzajuću; a ona boj još ne zaboravi.
 
-<!-- anchor:539c -->
 Jer udari ga dok ju je držao, u grudi kraj vrata,
 
 unazad se savivši; a on je od sebe na zemlju pusti,
 
 bolom ranjen, i usred mnoštva je obori;
 
-sam pak zakrešta i odlete po dahu vetra.
+<!-- anchor:539d -->sam pak zakrešta i odlete po dahu vetra.
 
 Reći ću da takve stvari pripadaju proroku da ih motri i sudi.
 
 Ion · Istinu govoriš, Sokrate.
 
-<!-- anchor:539d -->
 Sokrat · I ti, Ione, istinu govoriš. Hajde onda i ti meni, kao što sam ja tebi izabrao i iz Odiseje i iz Ilijade šta pripada proroku, a šta lekaru...
 
 <!-- anchor:539e -->
@@ -412,18 +405,17 @@ Ion · Šta onda pripada rapsodu?
 
 Sokrat · Ti meni reci, jer ja ne znam.
 
+<!-- anchor:540b -->
 Ion · Rapsodu pripada, mislim, znati šta treba govoriti mužu, a šta ženi, šta robu, a šta slobodnome, šta starešini, a šta onome koji je starešini potčinjen.
 
-<!-- anchor:540b -->
 Sokrat · Dakle, ono što brodski starešina treba da govori na lađi koju na moru drži nevolja, rapsod poznaje bolje nego kormilar?
 
 Ion · Ne, nego kormilar.
 
-Sokrat · A ono što starešina bolesnika treba da govori, poznaje li bolje rapsod ili lekar?
+<!-- anchor:540c -->Sokrat · A ono što starešina bolesnika treba da govori, poznaje li bolje rapsod ili lekar?
 
 Ion · Lekar.
 
-<!-- anchor:540c -->
 Sokrat · A ono što pripada robu?
 
 Ion · Da.
@@ -432,11 +424,10 @@ Sokrat · Na primer, ono što rob govedar treba da govori kada goveda podivljaju
 
 Ion · Govedar, jasno.
 
-Sokrat · A šta ono što prelja treba da govori o obradi vune?
+Sokrat · A šta ono što prelja treba da govori o <!-- anchor:540d -->obradi vune?
 
 Ion · Prelja.
 
-<!-- anchor:540d -->
 Sokrat · A ono što muž, starešina vojnika, treba da govori kada bodri vojsku, poznaje li rapsod ili vojskovođa?
 
 Ion · To poznaje rapsod.
@@ -445,12 +436,10 @@ Sokrat · Šta govoriš? Je li rapsodsko umenje vojskovođsko?
 
 Ion · Ja bih znao šta vojskovođa treba da govori.
 
-<!-- anchor:540e -->
-Sokrat · Možda si, Ione, i vojskovođa i rapsod. Jer kada bi bio i konjanik i guslar, znao bi koji ljudi dobro ili loše upravljaju konjima. Ali kad bih te pitao: kojim umenjem, Ione, poznaješ onoga koji dobro upravlja konjem — konjaničkim ili guslarskim — šta bi rekao?
+Sokrat · Možda si, Ione, i vojskovođa i rapsod. Jer kada bi bio i konjanik i guslar, znao bi koji ljudi <!-- anchor:540e -->dobro ili loše upravljaju konjima. Ali kad bih te pitao: kojim umenjem, Ione, poznaješ onoga koji dobro upravlja konjem — konjaničkim ili guslarskim — šta bi rekao?
 
 Ion · Konjaničkim.
 
-<!-- anchor:541a -->
 Sokrat · A kada poznaješ dobre guslare, složio bi se da ih poznaješ guslarskim, a ne konjaničkim umenjem?
 
 Ion · Da.
@@ -459,7 +448,7 @@ Sokrat · Pošto, dakle, poznaješ vojnička dela, poznaješ li ih rapsodskim zn
 
 Ion · Meni se čini da se ni po čemu ne razlikuju.
 
-<!-- anchor:541b -->
+<!-- anchor:541a -->
 Sokrat · Kako govoriš? Kažeš li da su rapsodsko i vojskovođsko umenje jedno, ili dva?
 
 Ion · Čini mi se da su jedno.
@@ -472,8 +461,7 @@ Sokrat · A ko je dobar vojskovođa, taj je i dobar rapsod?
 
 Ion · To već ne mislim.
 
-<!-- anchor:541c -->
-Sokrat · Ali slažeš se s onim da je dobar rapsod i dobar vojskovođa?
+Sokrat · Ali slažeš se s onim da je <!-- anchor:541b -->dobar rapsod i dobar vojskovođa?
 
 Ion · Da.
 
@@ -485,30 +473,26 @@ Sokrat · Dakle, Ione, i najbolji si vojskovođa među svim Helenima?
 
 Ion · Dobro znaj, Sokrate, i to sam naučio iz Homera.
 
-<!-- anchor:541d -->
-Sokrat · Zašto onda, bogova ti, Ione, bivajući najbolji među Helenima u oba — i kao vojskovođa i kao rapsod — obilaziš Helene rapsodujući, a ne vojskovodeći? Ili misliš da Helenima mnogo treba rapsod ovenčan zlatnim vencem, a vojskovođa nimalo?
+Sokrat · Zašto onda, bogova ti, Ione, bivajući najbolji među Helenima u oba — i kao vojskovođa i kao rapsod — obilaziš Helene rapsodujući, a ne vojskovodeći? Ili misliš da Helenima mnogo treba <!-- anchor:541c -->rapsod ovenčan zlatnim vencem, a vojskovođa nimalo?
 
 Ion · Našim gradom, Sokrate, vi vladate i vojskovodite, pa mu vojskovođa nije potreban; a vaš grad i Lakedemon mene ne bi izabrali za vojskovođu, misleći da ste sami sebi dovoljni.
 
-<!-- anchor:541e -->
 Sokrat · Dobri Ione, zar ne znaš Apolodora Kizičanina?
 
 Ion · Koga?
 
-Sokrat · Onoga koga su Atinjani mnogo puta izabrali za vojskovođu premda je stranac; i Fanostena Andranina i Heraklida Klazomenjanina, koji, premda stranci, pošto su se pokazali dostojnim, od grada dobijaju i vojskovodstvo i druge vlasti.
+Sokrat · Onoga koga su Atinjani mnogo puta izabrali za vojskovođu <!-- anchor:541d -->premda je stranac; i Fanostena Andranina i Heraklida Klazomenjanina, koji, premda stranci, pošto su se pokazali dostojnim, od grada dobijaju i vojskovodstvo i druge vlasti.
 
-<!-- anchor:542a -->
-A tebe, Ione, Efešanina, ne bi li izabrali i počastili kada bi se pokazao dostojnim? Ili vi Efešani niste od iskona Atinjani, i Efes je manje vredan od nekog drugog grada?
+A tebe, Ione, Efešanina, ne bi li izabrali i počastili kada bi se pokazao dostojnim? Ili vi Efešani niste od iskona Atinjani, <!-- anchor:541e -->i Efes je manje vredan od nekog drugog grada?
 
 Nego, Ione, ako istinu govoriš da umenjem i znanjem možeš hvaliti Homera, činiš mi nepravdu: obećavaš da znaš mnogo i krasno o Homeru i govoriš da ćeš pokazati, a nećeš da pokažeš.
 
-<!-- anchor:542b -->
-Nego me naprosto obmanjuješ, i toliko si daleko od pokazivanja da nećeš ni reći ono u čemu si silan, premda te mnogo molim; nego baš kao Protej bivaš svakakav, prevrćući se gore-dole, dok mi najzad ne uteče i ne pokaza se kao vojskovođa, samo da ne pokažeš kako si mudar o Homeru.
+Nego me naprosto obmanjuješ, i toliko si daleko od pokazivanja da nećeš ni reći ono u čemu si silan, premda te mnogo molim; nego baš kao Protej bivaš svakakav, prevrćući se gore-dole, dok mi najzad ne uteče i ne pokaza se kao vojskovođa, <!-- anchor:542a -->samo da ne pokažeš kako si mudar o Homeru.
 
 Ako si, dakle, silan umenjem, kao što sam sada govorio, i obećavši da ćeš pokazati o Homeru obmanjuješ me, nepravedan si. Ako pak nisi silan umenjem, nego božanstvenom čašću, pa ne znajući ništa o Homeru govoriš mnogo i krasno, kako sam ja o tebi govorio, nisi nepravedan.
 
 Izaberi, dakle, kako hoćeš da te zovemo: nepravednim mužem ili božanstvenim.
 
-Ion · Mnogo se razlikuje, Sokrate. Jer mnogo je krasnije biti nazvan božanstvenim.
+<!-- anchor:542b -->Ion · Mnogo se razlikuje, Sokrate. Jer mnogo je krasnije biti nazvan božanstvenim.
 
 Sokrat · Onda ti od nas pripada ovo krasnije, Ione: da budeš božanstveni, a ne umeni hvalitelj Homera.
