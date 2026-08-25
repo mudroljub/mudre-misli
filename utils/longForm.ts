@@ -11,7 +11,7 @@ export const countWords = (text: string): number =>
 export const isLongFormEntry = (entry: LongFormCandidate): boolean => {
   if (entry.display === 'reader') return true
   if (entry.display === 'card') return false
-  if (entry.type !== 'works' && entry.type !== 'letter') return false
+  if (entry.type !== 'quote' && entry.type !== 'works' && entry.type !== 'letter') return false
 
   return Math.max(countWords(entry.sr), countWords(entry.stsl)) > LONG_FORM_WORD_LIMIT
 }

@@ -18,10 +18,10 @@ A ja rekoh:
 
 — Antifont. Ali zašto pitaš?
 
-— Ovi ovde — rekoh — moji su sugrađani i veliki ljubitelji filozofije. Čuli su da je taj Antifont mnogo puta susretao nekog Pitodora, Zenonovog prijatelja,
+— Ovi ovde — rekoh — moji su sugrađani i veliki ljubitelji filozofije. Čuli su da je taj Antifont mnogo puta susretao nekog Pitodora, Zenonovog
 
 <!-- anchor:126c -->
-Zenonovog prijatelja, i da je od Pitodora, slušajući ga mnogo puta, zapamtio razgovore koje su nekada vodili Sokrat, Zenon i Parmenid.
+prijatelja, i da je od Pitodora, slušajući ga mnogo puta, zapamtio razgovore koje su nekada vodili Sokrat, Zenon i Parmenid.
 
 — Istinu govoriš — reče.
 
@@ -37,19 +37,15 @@ Antifont je, dakle, govorio da je Pitodor pričao kako su jednom na Velike Panat
 <!-- anchor:127b -->
 Zenon i Parmenid. Parmenid je tada već bio veoma star, sasvim sed, ali lep i plemenita izgleda, od oko šezdeset pet godina. Zenonu je bilo blizu četrdeset; bio je visok i prijatna izgleda, a govorilo se da je bio Parmenidov ljubimac.
 
-Odseli su, reče, kod Pitodora,
+Odseli su, reče, kod
 
 <!-- anchor:127c -->
-kod Pitodora, izvan zidina, u Kerameiku. Tamo su došli i Sokrat i mnogi drugi s njim, želeći da čuju Zenonove spise, jer su ih tada Zenon i Parmenid prvi put doneli. Sokrat je tada bio veoma mlad.
+Pitodora, izvan zidina, u Kerameiku. Tamo su došli i Sokrat i mnogi drugi s njim, želeći da čuju Zenonove spise, jer su ih tada Zenon i Parmenid prvi put doneli. Sokrat je tada bio veoma mlad.
 
-Zenon im je sam čitao, dok Parmenid slučajno nije bio prisutan. Ostalo je još sasvim malo do kraja čitanja kada je, kako je Pitodor pričao, on sam ušao spolja, a s njim Parmenid i Aristotel, koji je kasnije postao jedan od Tridesetorice, te su čuli još ponešto od spisa.
+Zenon im je sam čitao, dok Parmenid slučajno nije bio prisutan. Ostalo je još sasvim malo do kraja čitanja kada je, kako je Pitodor pričao,
 
 <!-- anchor:127d -->
-Pitodor je rekao da su tada spolja ušli on sam, Parmenid s njim i Aristotel, koji je kasnije postao jedan od Tridesetorice, te da su čuli još ponešto od spisa. On sam, međutim, nije ga tada prvi put slušao, već je Zenona čuo i ranije.
-
-Pošto je Sokrat saslušao, zatražio je da se ponovo pročita prva pretpostavka prvog izlaganja. Kada je pročitana,
-
-Pitodor je rekao da su tada spolja ušli on sam, Parmenid s njim i Aristotel, koji je kasnije postao jedan od Tridesetorice, te da su čuli još ponešto od spisa. On sam, međutim, nije ga tada prvi put slušao, već je Zenona čuo i ranije.
+on sam ušao spolja, a s njim Parmenid i Aristotel, koji je kasnije postao jedan od Tridesetorice, te su čuli još ponešto od spisa. On sam, međutim, nije ga tada prvi put slušao, već je Zenona čuo i ranije.
 
 Pošto je Sokrat saslušao, zatražio je da se ponovo pročita prva postavka prvog izlaganja. Kada je pročitana,
 
@@ -161,8 +157,6 @@ postaju pravedne i krasne?
 
 — Prijatno, Sokrate — reče — činiš da jedno isto bude istovremeno na mnogim mestima, kao kada bi, razapevši jedno jedro nad mnogim ljudima, rekao da je jedno celo nad mnogima. Zar ne misliš da nešto takvo govoriš?
 
-— Možda — reče.
-
 <!-- anchor:131c -->
 — Možda — reče.
 
@@ -178,10 +172,10 @@ postaju pravedne i krasne?
 
 — Nipošto — reče.
 
-— Pogledaj onda — reče. — Ako razdeliš samu veličinu i svako od mnogih velikih
+— Pogledaj onda — reče. — Ako razdeliš samu veličinu i svako od mnogih
 
 <!-- anchor:131d -->
-od mnogih velikih stvari bude veliko delom veličine manjim od same veličine, zar se to neće pokazati beslovesnim?
+velikih stvari bude veliko delom veličine manjim od same veličine, zar se to neće pokazati beslovesnim?
 
 — Svakako — reče.
 
@@ -1375,11 +1369,11 @@ A Parmenid reče:
 
 — I to.
 
-— Ali pokazalo se i da je jedno isto drugima.
-
-— Pokazalo se.
+— Ali pokazalo se i da je jedno isto
 
 <!-- anchor:148b -->
+drugima.
+
 — Pokazalo se.
 
 — A biti isto drugima protivno je trpljenje tome da bude drugo od drugih.
@@ -1395,8 +1389,6 @@ A Parmenid reče:
 — Da.
 
 — Isto će ga, dakle, učiniti nesličnim, ili neće biti protivno drugome.
-
-— Izgleda.
 
 <!-- anchor:148c -->
 — Izgleda.
@@ -1582,10 +1574,10 @@ A Parmenid reče:
 
 — A ono što niti nadmašuje niti je nadmašeno, nužno je na ravnom; a budući na ravnom, jednako je.
 
-— Kako ne?
+— Kako
 
 <!-- anchor:150e -->
-— Kako ne?
+ne?
 
 — A i samo jedno prema sebi tako bi stajalo: nemajući u sebi ni veličinu ni malost, niti bi bilo nadmašeno niti bi nadmašivalo samo sebe, nego bi, budući na ravnom, bilo jednako sebi.
 
@@ -2192,11 +2184,11 @@ A Parmenid reče:
 
 — Tako je.
 
-— I ista i druga jedna od drugih, i kretala bi se i stajala, i sva protivna trpnja lako ćemo naći kod drugih od jednog, pošto se pokazalo da trpe i ova.
-
-— Pravo govoriš.
+— I ista i druga jedna od drugih, i kretala bi se i stajala, i sva protivna trpnja lako ćemo naći kod drugih od jednog, pošto se pokazalo da trpe i
 
 <!-- anchor:159b -->
+ova.
+
 — Pravo govoriš.
 
 — Ako, dakle, ovo sada ostavimo kao očigledno, razmotrimo ponovo: ako jedno jeste, da li druga od jednog stoje i ne ovako, ili samo ovako?
@@ -2653,11 +2645,11 @@ A Parmenid reče:
 
 — Neistinito, zaista.
 
-— I najmanje će, kažemo, izgledati da postoji među njima; ali ono se pokazuje mnogim i velikim prema svakome od mnogih, budući maleno.
-
-— Kako ne?
+— I najmanje će, kažemo, izgledati da postoji među njima; ali ono se pokazuje mnogim i velikim prema svakome od
 
 <!-- anchor:165a -->
+mnogih, budući maleno.
+
 — Kako ne?
 
 — I svaka će se gomila smatrati jednakom mnogim i malim; jer ne bi izgledalo da prelazi iz većeg u manje pre nego što bi se učinilo da dolazi u ono između, a to bi bila pričina jednakosti.

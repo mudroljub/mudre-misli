@@ -13,37 +13,21 @@ kanonskih sidara i filološkom pregledu dela u `data/works`. Problem se beleži
 Vrste problema: `sidro`, `izostavljanje`, `dodatak`, `tačnost-sr`,
 `tačnost-stsl`, `stil-sr`, `stil-stsl`, `terminologija`, `izvor` i `alat`.
 
-## Platon — Ion
-
-### ION-001 — odlomak 540a nije preveden
-
-- status: **otvoren**
-- vrsta: `izostavljanje`, `tačnost-sr`, `tačnost-stsl`
-- mesto: Stefanus 540a
-- fajlovi: `data/works/plato/ion/ion.sr.md`,
-  `data/works/plato/ion/ion.stsl.md`
-
-Posle Sokratove primedbe da je Ion zaboravan, grčki tekst sadrži sedam kratkih
-replika. Sokrat podseća Iona da je rapsodsko umenje različito od kočijaškog i
-da zato ne može poznavati sve. U oba prevoda taj razgovor nedostaje. Umesto
-njega odmah sledi sažeti prelaz na pitanje šta pripada rapsodu.
-
-Sidro `540a` zasad stoji na najbližoj postojećoj granici. Tačno poravnanje nije
-moguće dok se izostavljene replike ne prevedu; pri dopuni treba sačuvati sidro
-na početku Ionovog „Šta sam onda zaboravio?“.
-
 ## Epiktet — Razgovori
 
 ### DIS-002 — Razgovori nisu potpuni
 
-- status: **otvoren**
+- status: **delimično rešen**
 - vrsta: `izostavljanje`
-- mesto: I.30, III.9 i IV.3–IV.13
+- mesto: IV.3–IV.13
 
-Manifest sadrži 82 poglavlja, dok sačuvane četiri knjige imaju 95. Nedostaju
-I.30, III.9 i jedanaest završnih poglavlja četvrte knjige, IV.3–IV.13. Zbog
+Manifest sadrži 84 poglavlja, dok sačuvane četiri knjige imaju 95. Nedostaje
+jedanaest završnih poglavlja četvrte knjige, IV.3–IV.13. Zbog
 toga delo trenutno ne treba predstavljati kao potpun tekst bez jasne napomene,
 a nedostajuća poglavlja treba prevesti i dodati u manifest redom.
+
+Poglavlja I.30 i III.9 integrisana su u oba prevoda i manifest; generator je
+potvrdio ukupno 644 kanonska odeljka u svim delima.
 
 ### Grčki izvori za dopunu Razgovora
 
@@ -59,8 +43,6 @@ odgovarajući srpski i staroslovenski prevod pre unošenja u knjige `book-i`,
 
 | Poglavlje | CTS lokator | red početka u XML-u |
 | --- | --- | ---: |
-| I.30 | `1.30` | 1596 |
-| III.9 | `3.9` | 3408 |
 | IV.3 | `4.3` | 4850 |
 | IV.4 | `4.4` | 4876 |
 | IV.5 | `4.5` | 4975 |
@@ -73,17 +55,9 @@ odgovarajući srpski i staroslovenski prevod pre unošenja u knjige `book-i`,
 | IV.12 | `4.12` | 5486 |
 | IV.13 | `4.13` | 5530 |
 
-### DIS-003 — naslovi staroslovenskih odeljaka nisu prevedeni
-
-- status: **otvoren**
-- vrsta: `tačnost-stsl`, `stil-stsl`
-- mesto: sva poglavlja u `work.json`
-
-Vrednosti `title.stsl` ponavljaju savremene srpske naslove latinicom. Potrebno
-ih je prevesti na projektni staroslovenski i zapisati odgovarajućim pismom.
-
 ## Pravilo vođenja dnevnika
 
 Za svaki novi problem zapisati delo, precizno kanonsko mesto, jezik, vrstu,
 status, kratak opis i uslov pod kojim se može smatrati rešenim. Kada se problem
-popravi, ukloniti njegov zapis iz ovog radnog dnevnika.
+potpuno popravi, ukloniti njegov zapis iz ovog radnog dnevnika. Delimično
+rešene probleme zadržati dok ne budu završeni.

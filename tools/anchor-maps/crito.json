@@ -1,0 +1,197 @@
+{
+  "work": "plato/crito",
+  "anchors": {
+    "43c": {
+      "sr": { "before": "— I drugi, Sokrate, tvojih godina" },
+      "stsl": { "before": "— И ини · о Сѡкрате · твоихъ лѣтъ" }
+    },
+    "44a": {
+      "sr": { "before": "— Po čemu sudiš?" },
+      "stsl": { "before": "— Отъ чьсо сѫдиши ·" }
+    },
+    "44b": {
+      "sr": { "before": "u belu odeću obučena" },
+      "stsl": { "before": "въ бѣлѹ ризѹ облъчена" }
+    },
+    "44c": {
+      "sr": { "before": "misliće da sam te mogao spasti" },
+      "stsl": { "before": "възмьнѧть · ꙗко могъ тебе съпасти" }
+    },
+    "45a": {
+      "sr": { "before": "takvog bojiš, ostavi to" },
+      "stsl": { "before": "таковаго боиши сѧ · остави то" }
+    },
+    "45d": {
+      "sr": { "before": "možeš ih odgajiti i naučiti" },
+      "stsl": { "before": "могꙑ ихъ възрастити и наѹчити" }
+    },
+    "46a": {
+      "sr": { "before": "i nismo te spasli, niti si ti spasao sebe" },
+      "stsl": { "before": "и ни мꙑ тебе съпасохомъ · ни тꙑ себе" }
+    },
+    "46b": {
+      "sr": { "before": "— Mili Kritone, tvoja bi revnost" },
+      "stsl": { "before": "— О любыи Крітоне · тщаніє твоѥ" }
+    },
+    "46c": {
+      "sr": { "before": "i poštujem ih i cenim kao i pre" },
+      "stsl": { "before": "и почитаѭ и чьтѫ ꙗ · ꙗкоже и прѣжде" }
+    },
+    "46d": {
+      "sr": { "before": "da na neka mnenja treba obraćati pažnju" },
+      "stsl": { "before": "ꙗко овѣхъ мьнѣніи пещи сѧ подобаѥть" }
+    },
+    "46e": {
+      "sr": { "before": "neka treba veoma ceniti, a druga ne" },
+      "stsl": { "before": "ова ꙁѣло чьсти подобаѥть · ова же ни" }
+    },
+    "47a": {
+      "sr": { "before": "sutra, te te sadašnja nesreća" },
+      "stsl": { "before": "ѹтро ѹмрѣти · и не подобаѥть" }
+    },
+    "47b": {
+      "sr": { "before": "Muž koji se vežba i tome se posvetio" },
+      "stsl": { "before": "Мѫжь ѹпражнѧѩ сѧ и семѹ прилежѧ" }
+    },
+    "47c": {
+      "sr": { "before": "— Dobro. Ako pak ne posluša toga jednoga" },
+      "stsl": { "before": "— Добрѣ · Аще же того єдинаго не послѹшаѥть" }
+    },
+    "47d": {
+      "sr": { "before": "treba li da sledimo mnenje mnogih" },
+      "stsl": { "before": "мъногꙑхъ ли мьнѣнію послѣдовати подобаѥть" }
+    },
+    "47e": {
+      "sr": { "before": "kada je ono razoreno? A to je telo" },
+      "stsl": { "before": "ономѹ погѹбленѹ сѫщѹ · Се же тѣло" }
+    },
+    "48a": {
+      "sr": { "before": "našega," },
+      "stsl": { "before": "нашихъ ·" }
+    },
+    "48c": {
+      "sr": { "before": "Atinjana ili nije pravedno?" },
+      "stsl": { "before": "Аѳинѣомъ не волѧщимъ · или неправедьно" }
+    },
+    "48d": {
+      "sr": { "before": "onima koji će me odavde izvesti" },
+      "stsl": { "before": "тѣмъ · иже мене отсѫдѹ изведѫть" }
+    },
+    "48e": {
+      "sr": { "before": "što govorim, protivuslovi i poslušaću te" },
+      "stsl": { "before": "глаголѭщѹ ми · противослови · и тебѣ повинѫ сѧ" }
+    },
+    "49a": {
+      "sr": { "before": "dovoljno kazán, i pokušaj odgovoriti" },
+      "stsl": { "before": "доволѣ ти глаголано єсть · и покѹшаи сѧ" }
+    },
+    "49b": {
+      "sr": { "before": "a nismo znali da se nimalo ne razlikujemo" },
+      "stsl": { "before": "не разумѣвъше · ꙗко ничимь отъ дѣтии" }
+    },
+    "49e": {
+      "sr": { "before": "Ja sam tako mislio odavno i još mislim" },
+      "stsl": { "before": "Аꙁъ бо давно тако мьнѣхъ · и єще мьнѭ" }
+    },
+    "50a": {
+      "sr": { "before": "ne ubedivši grad, činimo li zlo" },
+      "stsl": { "before": "града не ѹвѣривъше · зло ли творимъ" }
+    },
+    "50b": {
+      "sr": { "before": "ovim delom koje preduzimaš" },
+      "stsl": { "before": "симь ли дѣломъ · єже творити начинаѥши" }
+    },
+    "50c": {
+      "sr": { "before": "Hoćemo li im možda reći:" },
+      "stsl": { "before": "Єда речемъ имъ · Неправьдѹ" }
+    },
+    "50d": {
+      "sr": { "before": "protiv nas i grada kada pokušavaš" },
+      "stsl": { "before": "на насъ и на градъ имаши · ꙗко насъ" }
+    },
+    "50e": {
+      "sr": { "before": "muzici i vežbanju tela?" },
+      "stsl": { "before": "мѹсикіи и тѣлесьномѹ ѹпражненію" }
+    },
+    "51a": {
+      "sr": { "before": "ni da protivusloviš kada te kori" },
+      "stsl": { "before": "ни противословити ѹкорѧѭщемѹ" }
+    },
+    "51b": {
+      "sr": { "before": "i da su u većoj časti i kod bogova" },
+      "stsl": { "before": "и въ вѧщии чьсти и ѹ богъ" }
+    },
+    "51c": {
+      "sr": { "before": "grad i otadžbina zapovedaju" },
+      "stsl": { "before": "градъ и отьчьство повелѧѥта" }
+    },
+    "51d": {
+      "sr": { "before": "svih dobara." },
+      "stsl": { "before": "вьсѧ добраꙗ ·" }
+    },
+    "51e": {
+      "sr": { "before": "da ode kuda hoće imajući svoje" },
+      "stsl": { "before": "камо хощеть ити · своꙗ имꙑ" }
+    },
+    "52a": {
+      "sr": { "before": "A mi mu predlažemo, ne surovo" },
+      "stsl": { "before": "Мꙑ же прѣдълагаѥмъ ємѹ · не люто" }
+    },
+    "52b": {
+      "sr": { "before": "Kažemo, Sokrate, da ćeš i ti" },
+      "stsl": { "before": "Симъ виномъ · о Сѡкрате · глаголемъ" }
+    },
+    "52c": {
+      "sr": { "before": "nego smo ti bili dovoljni mi i naš grad" },
+      "stsl": { "before": "нъ доволѣ ти бѣхомъ мꙑ и градъ нашь" }
+    },
+    "52d": {
+      "sr": { "before": "i činiš ono što bi učinio najgori rob" },
+      "stsl": { "before": "и твориши · єже наизълѣиши рабъ" }
+    },
+    "52e": {
+      "sr": { "before": "s nama, koje nisi načinio pod prinudom" },
+      "stsl": { "before": "съ нами · ꙗже ни нѫжденъ сътвори" }
+    },
+    "53a": {
+      "sr": { "before": "grčki ili varvarski grad" },
+      "stsl": { "before": "градъ елиньскъ или варварьскъ" }
+    },
+    "53b": {
+      "sr": { "before": "svojim prijateljima?" },
+      "stsl": { "before": "дрѹгомъ твоимъ ·" }
+    },
+    "53c": {
+      "sr": { "before": "presudili. Jer ko je razarač Zakona" },
+      "stsl": { "before": "осѫдишѧ · Иже бо Законъ разоритель" }
+    },
+    "53d": {
+      "sr": { "before": "pokazati nedostojnim? Moraš tako misliti" },
+      "stsl": { "before": "видѣти сѧ бѫдеть · Мьнити подобаѥть" }
+    },
+    "53e": {
+      "sr": { "before": "po svoj prilici, ostalo malo života" },
+      "stsl": { "before": "ꙗкоже подобно · животѹ оставъшѹ" }
+    },
+    "54a": {
+      "sr": { "before": "pravednosti i ostaloj vrlini?" },
+      "stsl": { "before": "правьдѣ и о прочеи добродѣтели ·" }
+    },
+    "54b": {
+      "sr": { "before": "oni koji govore da su ti prijatelji" },
+      "stsl": { "before": "иже дрѹꙁи твои быти глаголѭть" }
+    },
+    "54c": {
+      "sr": { "before": "ako odeš, otići kao onaj kome su nepravdu" },
+      "stsl": { "before": "аще отъидеши · неправьдѹ пострадавъ" }
+    },
+    "54d": {
+      "sr": { "before": "Kriton ne ubedi da učiniš ono što govori" },
+      "stsl": { "before": "Крітонъ творити ꙗже глаголѥть" }
+    },
+    "54e": {
+      "sr": { "before": "— Ostavi onda, Kritone" },
+      "stsl": { "before": "— Остави ѹбо · о Крітоне" }
+    }
+  }
+}

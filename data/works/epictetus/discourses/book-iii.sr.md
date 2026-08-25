@@ -1180,6 +1180,69 @@ Hoćete da me načinite onakvim kakav je on!
 
 I pokaza na mene.
 
+<!-- anchor:III.9 -->
+Neki besednik koji je išao u Rim radi parnice oko svoga počasnog položaja dođe Epiktetu. Kada ga Epiktet upita zašto putuje, čovek njega upita šta misli o toj stvari.
+
+Ako me pitaš šta ćeš postići u Rimu, hoćeš li uspeti ili omanuti, za to nemam pravila. Ako me pak pitaš kako ćeš proći, mogu ti reći ovo: ako imaš prava mnenja, dobro; ako imaš rđava, rđavo. Jer je svakome neko mnenje uzrok delanja.
+
+Šta je učinilo da poželiš da budeš izabran za zaštitnika Knosana? Mnenje. Šta je uzrok tome što sada ideš u Rim? Mnenje. I to po nevremenu, uz opasnost i troškove?
+
+— Nužda je.
+
+— Ko ti to govori?
+
+— Mnenje.
+
+Ako su, dakle, mnenja uzroci svega, a neko ima rđava mnenja, kakav je uzrok, takva je i posledica.
+
+Imamo li onda svi zdrava mnenja, i ti i tvoj parnični protivnik? Kako se onda razlikujete? Ili ih ti imaš, a on nema? Zašto? Zato što se tebi tako čini. Ali tako se čini i njemu i bezumnicima. To je rđavo merilo.
+
+Nego mi pokaži da si svoja mnenja ispitivao i o njima se starao. Kao što sada ploviš u Rim da postaneš zaštitnik Knosana, i nije ti dovoljno da ostaneš kod kuće uživajući počasti koje si već imao, nego želiš nešto veće i uglednije, kada si tako zaplovio radi ispitivanja svojih mnenja i odbacivanja nekog rđavog među njima?
+
+Kome si radi toga odlazio? Koje si vreme, koje životno doba sebi odredio za to? Pređi u mislima svoja životna razdoblja, ako se mene stidiš, sam sa sobom.
+
+Kada si bio dete, jesi li ispitivao svoja mnenja? Nisi li ono što si tada činio činio isto onako kao što sada činiš sve? Kada si zatim postao mladić, slušao besednike i sam se vežbao u besedništvu, šta ti se činilo da ti još nedostaje?
+
+A kada si odrastao, već učestvovao u javnim poslovima, sam zastupao parnice i uživao ugled, ko ti se još činio ravnim? Zar bi tada podneo da te neko ispituje zato što imaš rđava mnenja?
+
+Šta onda želiš da ti kažem?
+
+— Pomozi mi u ovoj stvari.
+
+— Za to nemam pravila. Ako si zbog toga došao k meni, nisi došao filozofu, nego zeljaru ili obućaru.
+
+— Za šta onda filozofi imaju pravila?
+
+— Za to da, ma šta se dogodilo, naš vladajući deo bude i do kraja ostane saglasan prirodi. Čini li ti se to malim?
+
+— Ne, nego najvećim.
+
+— Šta onda? Zahteva li to malo vremena i može li se steći u prolazu? Ako možeš, stekni ga.
+
+Posle ćeš reći: Susreo sam Epikteta kao kamen, kao kip. Jer si me samo video i ništa više. Čoveka kao čoveka susreće onaj ko upoznaje njegova mnenja, a zauzvrat pokazuje svoja.
+
+Upoznaj moja mnenja, pokaži mi svoja, pa onda reci da si me susreo. Ispitajmo jedan drugoga: ako imam neko rđavo mnenje, ukloni ga; ako ga ti imaš, iznesi ga pred nas. To znači susresti filozofa.
+
+Ali ne. Mi smo samo u prolazu i, dok unajmljujemo brod, možemo videti i Epikteta. Hajde da vidimo šta li govori. A zatim ćeš, kada izađeš, reći: Epiktet nije bio ništa; govorio je nepravilno, govorio je varvarski. Jer o čemu ste drugom i došli da sudite?
+
+— Ali ako se budem time bavio, veli, neću imati imanje, kao što ga ni ti nemaš; neću imati srebrne čaše, kao što ih ni ti nemaš; ni lepu stoku, kao što je ni ti nemaš.
+
+Na to je možda dovoljno odgovoriti: Ali meni to nije potrebno. Ti pak, makar mnogo stekao, potrebuješ još drugoga i, hteo ne hteo, siromašniji si od mene.
+
+— Šta mi je onda potrebno?
+
+— Ono čega nemaš: postojanost, razmisao saglasan prirodi i neuznemirenost.
+
+Bio zaštitnik ili ne, šta me briga? Tebe je briga. Bogatiji sam od tebe: ne strepim šta će car misliti o meni i nikome zbog toga ne laskam. To imam umesto srebrnih i zlatnih posuda. Ti imaš zlatne posude, ali su ti od gline slovo, mnenja, saglasnosti, porivi i težnje.
+
+Kada mi je sve to saglasno prirodi, zašto se ne bih potrudio i oko slova? Imam dokolice; razmisao mi ništa ne odvlači. Šta da radim kada mi se razmisao ne rasipa? Šta imam čovečnije od toga?
+
+Vi se, kada nemate šta da radite, uznemirujete, odlazite u pozorište ili lutate. Zašto filozof ne bi usavršavao svoje slovo?
+
+Ti imaš kristalne posude, a ja rasprave o Lažljivcu; ti murinske posude, a ja rasprave o Odričućem. Sve što imaš tebi izgleda malo, a meni sve moje veliko. Tvoja želja ne može se zasititi, moja je ispunjena.
+
+Deci koja zavuku ruku u ćup uzana grla i pokušaju da izvade suve smokve i orahe događa se ovo: ako napune šaku, ne mogu je izvući, pa onda plaču. Pusti nekoliko i izvući ćeš je. Tako i ti napusti težnju; ne žudi za mnogim i dobićeš ono što želiš.
+
 <!-- anchor:III.10 -->
 Kada se ukaže potreba, naći ćeš ono što treba.
 

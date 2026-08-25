@@ -2850,3 +2850,44 @@ Ako izdržiš valjano, delo je tvoje.
 Ako ne, nemoj kriviti ni vreme, ni mesto, ni ljude, ni Boga.
 
 Krivi svoja mnenja.
+
+<!-- anchor:I.30 -->
+Kada uđeš k nekome od moćnika, seti se da i neko drugi odozgo gleda šta se događa i da više treba da ugodiš njemu nego ovome.
+
+On te tada pita: Kako si u školi nazivao izgnanstvo, tamnicu, okove, smrt i beščašće?
+
+— Bezrazličnim stvarima.
+
+— Kako ih sada nazivaš? Nisu se valjda one promenile?
+
+— Nisu.
+
+— Jesi li se onda ti promenio?
+
+— Nisam.
+
+— Kaži, dakle, šta su bezrazlične stvari.
+
+— One koje nisu do izbora.
+
+— Kaži i šta odatle sledi.
+
+— Ono što nije do izbora ništa se mene ne tiče.
+
+— Kaži i šta ste smatrali dobrim.
+
+— Izbor kakav treba da bude i upotreba predstava.
+
+— A šta je svrha?
+
+— Da te sledim.
+
+— Govoriš li to i sada?
+
+— Isto govorim i sada.
+
+Uđi onda smelo, imajući to na umu, pa ćeš videti kakav je mladić koji je uvežbao ono što valja među ljudima koji se nisu vežbali.
+
+Čini mi se, bogova mi, da ćeš doživeti nešto ovakvo:
+
+— Zašto se tako mnogo i silno pripremamo ni za šta? Zar je to bila vlast? Zar su to bila predvorja, ložničari i mačonoše? Zar sam zbog njih slušao tolike besede? Sve to nije bilo ništa, a ja sam se pripremao kao da su to velike stvari.

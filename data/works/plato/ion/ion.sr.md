@@ -401,11 +401,23 @@ Ion · Ja kažem, Sokrate: sve.
 Sokrat · Ne govoriš ti, Ione, sve. Ili si toliko zaboravan? A rapsodu ipak ne priliči da bude zaboravan.
 
 <!-- anchor:540a -->
-Ion · Šta onda pripada rapsodu?
+Ion · A šta to zaboravljam?
 
-Sokrat · Ti meni reci, jer ja ne znam.
+Sokrat · Zar se ne sećaš da si rekao da je rapsodsko umenje različito od kočijaškog?
+
+Ion · Sećam se.
+
+Sokrat · Nisi li se saglasio da će, budući različito, poznavati različite stvari?
+
+Ion · Da.
+
+Sokrat · Dakle, po tvome slovu ni rapsodsko umenje ni rapsod neće poznavati sve.
+
+Ion · Osim možda takvih stvari, Sokrate.
 
 <!-- anchor:540b -->
+Sokrat · Pod takvim stvarima misliš, čini se, na sve osim onoga što pripada drugim umenjima. Ali šta će onda poznavati, pošto ne poznaje sve?
+
 Ion · Rapsodu pripada, mislim, znati šta treba govoriti mužu, a šta ženi, šta robu, a šta slobodnome, šta starešini, a šta onome koji je starešini potčinjen.
 
 Sokrat · Dakle, ono što brodski starešina treba da govori na lađi koju na moru drži nevolja, rapsod poznaje bolje nego kormilar?

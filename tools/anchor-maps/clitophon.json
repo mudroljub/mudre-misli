@@ -1,0 +1,77 @@
+{
+  "work": "plato/clitophon",
+  "anchors": {
+    "407b": {
+      "sr": { "before": "govoreći:" },
+      "stsl": { "after": "пѣснь възглашааше " }
+    },
+    "407c": {
+      "sr": { "before": "muziku i telesno vežbanje" },
+      "stsl": { "before": "и мѹсикіѭ и тѣловьно" }
+    },
+    "407d": {
+      "sr": { "before": "bez sklada,\nbune se" },
+      "stsl": { "before": "безскладьно\nприступаѭще" }
+    },
+    "407e": {
+      "sr": { "before": "sada, i zasebno" },
+      "stsl": { "before": "нꙑнѣшнѥго пещи сѧ" }
+    },
+    "408a": {
+      "sr": { "before": "Tako isto\ni s veštinom" },
+      "stsl": { "before": "Тако же и\nо вѣштинѣ" }
+    },
+    "408b": {
+      "sr": { "before": "kao slobodan, predavši" },
+      "stsl": { "before": "неже ли\nсвободьномѹ" }
+    },
+    "408c": {
+      "sr": { "before": "starati o sebi" },
+      "stsl": { "before": "пещи сѧ · едва" }
+    },
+    "408d": {
+      "sr": { "before": "nekako po tvome načinu" },
+      "stsl": { "before": "и по твоемѹ образѹ" }
+    },
+    "408e": {
+      "sr": { "before": "pošto smo se složili" },
+      "stsl": { "before": "съгласивъше\nсѧ" }
+    },
+    "409a": {
+      "sr": { "before": "koji nas podstiče" },
+      "stsl": { "before": "насъ ·\nКоѭ глаголѥши" }
+    },
+    "409b": {
+      "sr": { "before": "Lekarstvo se naziva" },
+      "stsl": { "before": "Врачьство нѣка вѣштина" }
+    },
+    "409c": {
+      "sr": { "before": "za nas tvoriti" },
+      "stsl": { "before": "намъ дѣло творити" }
+    },
+    "409d": {
+      "sr": { "before": "drvena oruđa" },
+      "stsl": { "before": "дрѣвѣна\nорѫдіа" }
+    },
+    "409e": {
+      "sr": { "before": "većinom štetna" },
+      "stsl": { "before": "паче вредьнꙑ" }
+    },
+    "410a": {
+      "sr": { "before": "prisutni su već bili" },
+      "stsl": { "before": "присѫщии доволѣ" }
+    },
+    "410b": {
+      "sr": { "before": "a\nprijateljima dobro činiti" },
+      "stsl": { "before": "дрѹгомъ же добро\nтворити" }
+    },
+    "410c": {
+      "sr": { "before": "kormilarenja, kako je ono" },
+      "stsl": { "before": "кормлѥніа добро наѹчити" }
+    },
+    "410d": {
+      "sr": { "before": "prema meni,\npa kao" },
+      "stsl": { "before": "къ мнѣ сихъ" }
+    }
+  }
+}
