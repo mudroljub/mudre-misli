@@ -29,9 +29,7 @@ export default function CollapsibleAuthorSection({
 
   return (
     <section id={id} className={styles.authorSection}>
-      <h3>
-        {title} <span className={styles.sectionCount}>({total})</span>
-      </h3>
+      <h3>{title}</h3>
       {children(visibleCount)}
       {collapsible && (
         <button

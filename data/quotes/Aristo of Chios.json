@@ -29,19 +29,19 @@
     ]
   },
   {
-    "id": "mm-000318",
-    "type": "reported",
-    "sr": "Govorio je da je mudrac sličan dobrom glumcu koji, bilo da preuzme ulogu Tersita ili Agamemnona, svaku igra kako dolikuje.",
-    "stsl": "Мѫдрьць подобьнъ єсть добромѹ глѹмьцѹ · иже · аще ли прииметь обраꙁъ Терсита или Агамемнона · кождꙑи лѣпо сътворить ·",
-    "originalText": "εἶναι γὰρ ὅμοιον τὸν σοφὸν τῷ ἀγαθῷ ὑποκριτῇ, ὃς ἄν τε Θερσίτου ἄν τε Ἀγαμέμνονος πρόσωπον ἀναλάβῃ, ἑκάτερον ὑποκρίνεται προσηκόντως.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.160"
-      }
-    ]
-  },
+  "id": "mm-000318",
+  "type": "quote",
+  "sr": "Mudrac je sličan dobrom glumcu koji, bilo da preuzme ulogu Tersita ili Agamemnona, svaku igra kako dolikuje.",
+  "stsl": "Мѫдрьць подобьнъ єсть добромѹ глѹмьцѹ · иже · аще ли прииметь обраꙁъ Терсита или Агамемнона · кождꙑи лѣпо сътворить ·",
+  "originalText": "εἶναι γὰρ ὅμοιον τὸν σοφὸν τῷ ἀγαθῷ ὑποκριτῇ, ὃς ἄν τε Θερσίτου ἄν τε Ἀγαμέμνονος πρόσωπον ἀναλάβῃ, ἑκάτερον ὑποκρίνεται προσηκόντως.",
+  "author": "Aristo of Chios",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VII.160"
+    }
+  ]
+},
   {
     "id": "mm-000319",
     "type": "reported",
@@ -89,8 +89,8 @@
     "id": "mm-000322",
     "type": "anecdote",
     "year": -270,
-    "sr": "Kada je neki akademik rekao da ništa ne poima, Ariston ga upita: Zar ne vidiš ni čoveka koji sedi pored tebe? Pošto ovaj odgovori da ne vidi, Ariston reče: Ko te oslepi, ko ti oduze svetlost baklje?",
-    "stsl": "Єгда нѣкыи академикъ рече ꙗко ничьтоже разѹмѣѥть · Аристонъ въпроси и · Єда ни близъ тебе сѣдѧштаго чловѣка видиши · Онѹ же отъвьргъшѹ · Аристонъ рече · Кто тѧ ослѣпи · кто ти ѡтъѧ свѣтъ свѣштѧ ·",
+    "sr": "Kada je neki akademik rekao da ništa ne poima, Ariston ga upita: Zar ne vidiš ni čoveka koji sedi pored tebe? Pošto ovaj odgovori da ne vidi, Ariston reče: Ko te oslepi, ko ti oduze svetlost očiju?",
+    "stsl": "Єгда нѣкыи академикъ рече ꙗко ничьтоже разѹмѣѥть · Аристонъ въпроси и · Єда ни близъ тебе сѣдѧштаго чловѣка видиши · Онѹ же отъвьргъшѹ · Аристонъ рече · Кто тѧ ослѣпи · къто ти свѣтъ очию отъꙗ ·",
     "originalText": "Πρὸς δὲ τὸν φάμενον Ἀκαδημαϊκὸν οὐδὲν καταλαμβάνειν, « ἆρ' οὐδὲ τὸν πλησίον σου καθήμενον ὁρᾷς; » εἶπεν· ἀρνησαμένου δέ, τίς <δέ> σ' ἐτύφλωσεν (ἔφη), τίς ἀφείλετο λαμπάδος αὐγάς;",
     "author": "Aristo of Chios",
     "sources": [
@@ -153,25 +153,20 @@
     "author": "Aristo of Chios",
     "sources": [{ "name": "diogenes-laertius", "reference": "VII.162" }]
   },
-  {
-    "id": "mm-002078",
-    "type": "reported",
-    "sr": "Najviše se držao stoičkog učenja da mudrac ništa ne prihvata kao puko mnenje.",
-    "stsl": "Паче вьсего стоичьскаго ѹчениꙗ дръжаше сѧ · ꙗко мѫдрьць ничьтоже въ мьнѣниѥ приимлеть ·",
-    "originalText": "Μάλιστα δὲ προσεῖχε Στωικῷ δόγματι τῷ τὸν σοφὸν ἀδόξαστον εἶναι.",
-    "author": "Aristo of Chios",
-    "sources": [{ "name": "diogenes-laertius", "reference": "VII.162" }]
-  },
-  {
-    "id": "mm-002079",
-    "type": "anecdote",
-    "year": -270,
-    "sr": "Persej je ovo učenje osporio tako što je naveo jednog od dvojice braće blizanaca da Aristonu preda nešto na čuvanje, a zatim drugoga da to od njega preuzme; tako je Aristona doveo u nedoumicu i pobio ga.",
-    "stsl": "Персеи противѹ ста емѹ · единого отъ двою братѹ близньцѹ сътвори покладъ Аристонѹ дати · потомь другаго сътвори тъ въꙁѧти · и тако недоѹмѣвъша Аристона обличи ·",
-    "originalText": "Πρὸς ὃ Περσαῖος ἐναντιούμενος διδύμων ἀδελφῶν τὸν ἕτερον ἐποίησεν αὐτῷ παρακαταθήκην δοῦναι, ἔπειτα τὸν ἕτερον ἀπολαβεῖν· καὶ οὕτως ἀπορούμενον διήλεγξεν.",
-    "author": "Aristo of Chios",
-    "sources": [{ "name": "diogenes-laertius", "reference": "VII.162" }]
-  },
+ {
+  "id": "mm-002078",
+  "type": "reported",
+  "sr": "Najviše se držao stoičkog učenja da mudrac ništa ne prihvata kao puko mnenje. Persej je to učenje osporio tako što je jednog od dvojice braće blizanaca naveo da Aristonu preda neki predmet na čuvanje, a potom drugoga da ga zatraži natrag. Kada se Ariston našao u nedoumici, Persej ga je time opovrgao.",
+  "stsl": "Паче вьсего стоичьскаго ѹчениꙗ дръжаше сѧ · ꙗко мѫдрьць ничьтоже въ мьнѣниѥ приимлеть · Семѹ ѹчениѭ Персеи противѧ сѧ · единаго отъ двою братѹ блиꙁньцѹ сътвори покладъ Аристонѹ дати · потомь же другаго · да въсприиметь и · и тако Аристона недоѹмѣвъша обличи ·",
+  "originalText": "Μάλιστα δὲ προσεῖχε Στωικῷ δόγματι τῷ τὸν σοφὸν ἀδόξαστον εἶναι. Πρὸς ὃ Περσαῖος ἐναντιούμενος διδύμων ἀδελφῶν τὸν ἕτερον ἐποίησεν αὐτῷ παρακαταθήκην δοῦναι, ἔπειτα τὸν ἕτερον ἀπολαβεῖν· καὶ οὕτως ἀπορούμενον διήλεγξεν.",
+  "author": "Aristo of Chios",
+  "sources": [
+    {
+      "name": "diogenes-laertius",
+      "reference": "VII.162"
+    }
+  ]
+},
   {
     "id": "mm-002080",
     "type": "works",

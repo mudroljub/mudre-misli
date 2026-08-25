@@ -4,7 +4,7 @@ Radni spisak nerešenih problema. Potpuno rešene zapise obrisati.
 
 ## Epiktet — Razgovori
 
-### DIS-002 — nedostaju IV.3–IV.13
+### DIS-002 — nedostaju IV.4–IV.13
 
 - status: **delimično rešen**
 - vrsta: `izostavljanje`

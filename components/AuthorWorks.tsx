@@ -28,7 +28,7 @@ export default function AuthorWorks({
 
   return (
     <section id={id} className={styles.authorSection}>
-      <h3>{title ?? t.sectionWritings} <span className={styles.sectionCount}>({works.length + entries.length})</span></h3>
+      <h3>{title ?? t.sectionWritings}</h3>
       {works.length > 0 && (
         <div className={styles.grid}>
           {works.map(work => (

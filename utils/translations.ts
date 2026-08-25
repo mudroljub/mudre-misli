@@ -175,7 +175,7 @@ export const translations: Record<Language, Translations> = {
     wikipedia: 'Википєдїꙗ',
     navHome: 'Начѧло',
     navPhilosophers: 'Любомѫдрьци',
-    navDictionary: 'Рєчьникъ',
+    navDictionary: 'Словьникъ',
     navWorks: 'Книгꙑ',
     navAbout: 'О дѣлѣ',
     workUi: {

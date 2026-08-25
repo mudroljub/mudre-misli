@@ -73,12 +73,12 @@ export default function AuthorPageClient({
 
   const fullWorks = worksData.filter((work) => work.author === author)
   const navigation = [
-    lifeEvents.length && { id: 'life', label: t.sectionLife, count: lifeEvents.length },
-    quotes.length && { id: 'quotes', label: t.sectionQuotes, count: quotes.length },
-    (fullWorks.length || works.length) && { id: 'writings', label: t.sectionWritings, count: fullWorks.length + works.length },
-    mentions.length && { id: 'mentions', label: t.sectionOthersAbout, count: mentions.length },
-    letters.length && { id: 'letters', label: t.sectionLetters, count: letters.length },
-  ].filter(Boolean) as { id: string; label: string; count: number }[]
+    lifeEvents.length && { id: 'life', label: t.sectionLife },
+    quotes.length && { id: 'quotes', label: t.sectionQuotes },
+    (fullWorks.length || works.length) && { id: 'writings', label: t.sectionWritings },
+    mentions.length && { id: 'mentions', label: t.sectionOthersAbout },
+    letters.length && { id: 'letters', label: t.sectionLetters },
+  ].filter(Boolean) as { id: string; label: string }[]
 
   const formatYear = (year: number) =>
     year < 0 ? `${Math.abs(year)} ${t.bce}` : year
@@ -134,7 +134,7 @@ export default function AuthorPageClient({
           <nav className={styles.sectionNav} aria-label={t.contents}>
             {navigation.map((item) => (
               <a key={item.id} href={`#${item.id}`}>
-                {item.label} ({item.count})
+                {item.label}
               </a>
             ))}
           </nav>
