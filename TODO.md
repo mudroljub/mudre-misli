@@ -2,24 +2,27 @@
 
 ## Usavršiti prevode
 
-PORAVNAJ SIDRA CELIH DELA
-- format je uveden: sidra su nevidljivi komentari `<!-- anchor:… -->` i mogu stajati usred rečenice
-- sve uočene probleme odmah beležiti u `docs/PROBLEMI_CELIH_DELA.md`; rešene zapise uklanjati
-- srpski i staroslovenski prevodi ponegde nisu podeljeni na istim kanonskim granicama kao grčki izvornik
-- ne preimenovati sidra niti pomerati tekst automatski samo prema dužini
-- delo po delo ponovo segmentirati oba prevoda prema grčkim granicama, ne menjajući sam tekst
-- prvo srediti:
-  1. Epiktetove `Razgovore` — I.30 i III.9 su dopunjeni; ostaju IV.3–IV.13 i provera sadržaja IV.2; vidi dnevnik problema
-- posle svakog dela pokrenuti generatore i ručno proveriti početak, sredinu i kraj
-- kada sva sidra budu poravnata, ponoviti ocenu kvaliteta celih dela iz `docs/ANALIZA_KVALITETA_CELIH_DELA.md`
+### Epiktetovi `Razgovori`
 
-POPRAVI LOŠE PREVODE
+- proveriti sadržaj IV.2 prema grčkom izvorniku
+- prevesti IV.3–IV.13 na staroslovenski i srpski
+- dodati IV.3–IV.13 u `book-iv` i manifest
+- nakon provere obrisati integrisane radne prevode i grčke kopije iz `pending/`
+- pokrenuti generatore i ručno proveriti početak, sredinu i kraj dela
+
+### Poravnati sidra preostalih celih dela
+
+- delo po delo poravnati oba prevoda sa kanonskim granicama grčkog izvornika, ne menjajući tekst
+- nerešene probleme voditi u `docs/PROBLEMI_CELIH_DELA.md`
+- po završetku ponoviti ocenu iz `docs/ANALIZA_KVALITETA_CELIH_DELA.md`
+
+### Popraviti lošije prevode
+
 - popravljati lošije stsl prevode (isus.json uzor za etiku, Бытиѥ.md za kosmologiju)
 - popravljati lošije sr prevode
 - upodobiti sr prevod staroslovenskom dokle je prirodno (koristiti iste korene, imenice, glagole i sl kada je moguće)
 
 ## UI
 
-OSTALO
 - napraviti spisak filozofski najvažnijih termina
   - naglasiti samo njih u rečniku (ceo red, sve jezike)
