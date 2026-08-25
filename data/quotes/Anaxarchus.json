@@ -19,7 +19,7 @@
     "type": "bio",
     "year": -350,
     "sr": "Slušao je Diogena iz Smirne, a ovaj Metrodora sa Hija, koji je govorio da ne zna čak ni to da ništa ne zna.",
-    "stsl": "Диогена отъ Смирнꙑ слѹшааше · сеи же Метрoдора отъ Хиа · иже глаголааше ꙗко ни сего не вѣсть · ꙗко ничтоже вѣсть ·",
+    "stsl": "Диогена отъ Смирнꙑ слѹшааше · сеи же Метродора отъ Хиа · иже глаголааше · ꙗко ни сего не вѣсть · ꙗко ничтоже не вѣсть ·",
     "originalText": "οὗτος ἤκουσε Διογένους τοῦ Σμυρναίου· ὁ δὲ Μητροδώρου τοῦ Χίου, ὃς ἔλεγε μηδ' αὐτὸ τοῦτ' εἰδέναι ὅτι οὐδὲν οἶδε.",
     "author": "Anaxarchus",
     "sources": [
@@ -33,7 +33,7 @@
     "id": "mm-000091",
     "type": "bio",
     "year": -340,
-    "sr": "Bio je uz Aleksandra i bio na vrhuncu u 110. olimpijadi; neprijatelj mu je bio Nikokreont, tiranin Kipra.",
+    "sr": "Pratio je Aleksandra, a na vrhuncu je bio tokom 110. olimpijade. Za neprijatelja je imao Nikokreonta, kiparskog tiranina.",
     "stsl": "Съ Александромь бѣ и въ сто и десѧтѣи олимпиадѣ процвѣте · Неприꙗтель же ємѹ бѣ Никокреонтъ · тиранъ Кипра ·",
     "originalText": "ὁ δ' οὖν Ἀνάξαρχος καὶ Ἀλεξάνδρῳ συνῆν καὶ ἤκμαζε κατὰ τὴν δεκάτην καὶ ἑκατοστὴν Ὀλυμπιάδα καὶ εἶχεν ἐχθρὸν Νικοκρέοντα τὸν Κύπρου τύραννον.",
     "author": "Anaxarchus",
@@ -48,8 +48,8 @@
     "id": "mm-000092",
     "type": "anecdote",
     "year": -330,
-    "sr": "Na Aleksandrovoj gozbi car ga je upitao šta misli o večeri. Anaksarh je, ciljajući na Nikokreonta, odgovorio: O care, sve je raskošno; nedostaje još samo glava nekog satrapa da bude poslužena.",
-    "stsl": "На пирѹ Алеѯандровѣ царь въпроси єго · что о вечери мьнить · Анаѯархъ же · Нікокреонта ꙁнаменѹѩ · отъвѣшта · О царю · вьсѧ роскошьна сѫть · єдино еще требѹѥть · да глава нѣкоѥго сатрапа предложена бѫдеть ·",
+    "sr": "Jednom ga na gozbi Aleksandar upita šta misli o večeri. Kažu da Anaksarh, ciljajući na Nikokreonta, odgovori: O care, sve je veoma raskošno; nedostaje samo da se posluži glava nekog satrapa.",
+    "stsl": "На пирѹ Александровѣ · Александръ въпроси и · что о вечери мьнить · Глаголѭть · ꙗко Анаѯархъ рече · О царю · вьсѧ роскошьна сѫть · едино еще требѹѥть · да глава нѣкоѥго сатрапа предложена бѫдеть · Се же на Никокреонта мѣтѧ рече ·",
     "originalText": "καί ποτ' ἐν συμποσίῳ τοῦ Ἀλεξάνδρου ἐρωτήσαντος αὐτὸν τί ἄρα δοκεῖ τὸ δεῖπνον, εἰπεῖν φασιν, \"ὦ βασιλεῦ, πάντα πολυτελῶς· ἔδει δὲ λοιπὸν κεφαλὴν σατράπου τινὸς παρατεθεῖσθαι·\" ἀπορρίπτων πρὸς τὸν Νικοκρέοντα.",
     "author": "Anaxarchus",
     "sources": [
@@ -60,26 +60,11 @@
     ]
   },
   {
-    "id": "mm-000093",
-    "type": "anecdote",
-    "year": -320,
-    "sr": "Nakon smrti cara, kad se Anaksarh nehotice našao na Kipru, Nikokeon ga je uhvatio, bacio u stup i naredio da bude udarаn gvozdenim tučkom. On, ne mareći za kaznu, izgovorio je onu čuvenu izreku: 'Tuci Anaksarhovu kesu, Anaksarha ne tuceš.' Kad je Nikokeon naredio da mu se iseče jezik, priča je da ga je odgrizao i ispljunuo na njega.",
-    "stsl": "По съмрьти цара · єгда Анаѯархъ нєхотъꙗ обрѣтє сѧ на Кѵпрѣ · Нікокреонъ ємѹ ꙗть · въврьжє въ стѹпъ і повєлѣ да бѫдєть бієнъ жєлѣзьнꙑми тѹчькꙑ · Онъ же нє марꙗ за казнь · ізрєчє онѫ прославьлєнѫ рѣчь · Біи Анаѯарховѫ кєсѫ · Анаѯарха нє біи · Єгда Нікокреонъ повєлѣ да ємѹ сѧ ісѣчє ꙗзꙑкъ · пріча єсть ꙗко га одгрізє і іспльѹнѫ на нь.",
-    "originalText": "μετὰ τὴν τελευτὴν τοῦ βασιλέως ὅτε πλέων ἀκουσίως προσηνέχθη τῇ Κύπρῳ ὁ Ἀνάξαρχος, συλλαβὼν αὐτὸν καὶ εἰς ὅλμον βαλὼν ἐκέλευσε τύπτεσθαι σιδηροῖς ὑπέροις. τὸν δ' οὐ φροντίσαντα τῆς τιμωρίας εἰπεῖν ἐκεῖνο δὴ τὸ περιφερόμενον, πτίσσε τὸν Ἀναξάρχου θύλακον, Ἀνάξαρχον δὲ οὐ πτίσσεις. κελεύσαντος δὲ τοῦ Νικοκρέοντος καὶ τὴν γλῶτταν αὐτοῦ ἐκτμηθῆναι, λόγος ἀποτραγόντα προσπτύσαι αὐτῷ.",
-    "author": "Anaxarchus",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.59"
-      }
-    ]
-  },
-  {
     "id": "mm-000094",
     "type": "bio",
     "year": -330,
-    "sr": "Zbog bestrasti i lakoće života zvan je blagočestnim. Bio je sposoban da veoma lako razumije.",
-    "stsl": "Ради бесстрасти і лєгкости житіꙗ нарєчєнъ бꙑстъ благочѧстьнъ · Бѣ способьнъ да вєльми лєгко разѹмѣваєть ·",
+    "sr": "Zbog bestrasti i lakoće življenja zvali su ga Blagočestni. Bio je kadar da veoma lako druge urazumi.",
+    "stsl": "Ради бесстрастиꙗ и легъкости житиꙗ · Благочѧстьнъ нарицааше сѧ · И бѣ мощьнъ вельми ѹдобь цѣломѫдрити ·",
     "originalText": "Οὗτος διὰ τὴν ἀπάθειαν καὶ εὐκολίαν τοῦ βίου Εὐδαιμονικὸς ἐκαλεῖτο· καὶ ἦν ἐκ τοῦ ῥᾴστου δυνατὸς σωφρονίζειν.",
     "author": "Anaxarchus",
     "sources": [
@@ -93,14 +78,29 @@
     "id": "mm-000095",
     "type": "anecdote",
     "year": -330,
-    "sr": "Preokrenuo je Aleksandra koji je mislio da je bog; jer kad je video kako mu teče krv iz neke rane, pokazao mu je rukom i rekao: 'Ovo je krv, a ne ihor kakav teče blaženima bogovima.'",
-    "stsl": "Прєобрати Алеѯандра ꙇжє мьнꙗашє ꙗко єсть богъ · єгда бо відѣ како ємѹ тєчє крьвь отъ нѣкоєꙗ ранꙑ · показа ємѹ рѫкоѭ і рєчє · Сє єсть крьвь · а нє іхоръ каковъ тєчєть бльжєнꙑмъ боговомъ.",
+    "sr": "Odvratio je Aleksandra od pomisli da je bog. Kad vide kako mu iz neke rane teče krv, pokaza rukom na njega i reče: Ovo je krv, a ne ihor kakav teče blaženim bogovima.",
+    "stsl": "Алеѯандра же · мьнѧща сѧ бога бꙑти · отъ мьнѣниꙗ сего възврати · Єгда бо отъ нѣкоѥꙗ ранꙑ кръвь ємѹ текѫщѫ видѣ · показа на нь рѫкоѭ и рече · Се кръвь єсть · а не ихоръ · ꙗковъ течеть блаженꙑмъ богомъ ·",
     "originalText": "τὸν Ἀλέξανδρον οἰόμενον εἶναι θεὸν ἐπέστρεψεν· ἐπειδὴ γὰρ ἔκ τινος πληγῆς εἶδεν αὐτῷ καταρρέον αἷμα, δείξας τῇ χειρὶ πρὸς αὐτόν φησι, τουτὶ μὲν αἷμα καὶ οὐκ ἰχὼρ οἷός πέρ τε ῥέει μακάρεσσι θεοῖσι.",
     "author": "Anaxarchus",
     "sources": [
       {
         "name": "diogenes-laertius",
         "reference": "IX.60"
+      }
+    ]
+  },
+  {
+    "id": "mm-000093",
+    "type": "anecdote",
+    "year": -320,
+    "sr": "Posle Aleksandrove smrti, dok je Anaksarh plovio, protiv svoje volje dospe na Kipar. Nikokreont ga uhvati, baci u stupu i naredi da ga tuku gvozdenim tučcima. Anaksarh, ne mareći za muke, izgovori čuvenu izreku: Tuci Anaksarhovu vreću; Anaksarha ne tučeš. Kad Nikokreont naredi da mu odseku jezik, priča se da ga je Anaksarh sam odgrizao i ispljunuo na njega.",
+    "stsl": "По съмрьти Александровѣ · Анаѯархѹ плаваѭщѹ · неволеѭ къ Кѵпрѹ принесенъ бꙑстъ · Никокреонтъ же ꙗтъ и · въвръже въ стѫпѫ · и повелѣ желѣзнꙑми пѣсты тлъшти и · Онъ же мѫкꙑ ни въ что же вьмѣнивъ · рече онѫ прославьленѫ рѣчь · Тлъци Анаѯарховъ мѣхъ · Анаѯарха же не тлъчеши · Никокреонтѹ же повелѣвъшѹ · да ꙗзꙑкъ єго ѹсѣкѫть · глаголѭть · ꙗко самъ себѣ ꙗзꙑкъ отъгрꙑзе · и на нь испльѹнѫ ·",
+    "originalText": "μετὰ τὴν τελευτὴν τοῦ βασιλέως ὅτε πλέων ἀκουσίως προσηνέχθη τῇ Κύπρῳ ὁ Ἀνάξαρχος, συλλαβὼν αὐτὸν καὶ εἰς ὅλμον βαλὼν ἐκέλευσε τύπτεσθαι σιδηροῖς ὑπέροις. τὸν δ' οὐ φροντίσαντα τῆς τιμωρίας εἰπεῖν ἐκεῖνο δὴ τὸ περιφερόμενον, πτίσσε τὸν Ἀναξάρχου θύλακον, Ἀνάξαρχον δὲ οὐ πτίσσεις. κελεύσαντος δὲ τοῦ Νικοκρέοντος καὶ τὴν γλῶτταν αὐτοῦ ἐκτμηθῆναι, λόγος ἀποτραγόντα προσπτύσαι αὐτῷ.",
+    "author": "Anaxarchus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.59"
       }
     ]
   }
