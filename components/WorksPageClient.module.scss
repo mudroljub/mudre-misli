@@ -1,5 +1,49 @@
 @import '../styles/shared';
 
+.catalog {
+  display: grid;
+  gap: $spacing-xl;
+}
+
+.authorGroup {
+  --cover: #304c62;
+  --cover-dark: #1d3344;
+  min-width: 0;
+
+  &:nth-child(6n + 2) {
+    --cover: #7a3f38;
+    --cover-dark: #552923;
+  }
+
+  &:nth-child(6n + 3) {
+    --cover: #53633f;
+    --cover-dark: #35432a;
+  }
+
+  &:nth-child(6n + 4) {
+    --cover: #765d2e;
+    --cover-dark: #4e3c1c;
+  }
+
+  &:nth-child(6n + 5) {
+    --cover: #59456c;
+    --cover-dark: #3c2e4b;
+  }
+
+  &:nth-child(6n) {
+    --cover: #32645e;
+    --cover-dark: #20443f;
+  }
+}
+
+.authorHeading {
+  margin: 0 0 $spacing-lg;
+  padding-bottom: $spacing-sm;
+  color: $color-primary;
+  font-size: $font-size-xl;
+  border-bottom: 1px solid $color-border;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
@@ -8,8 +52,6 @@
 }
 
 .card {
-  --cover: #304c62;
-  --cover-dark: #1d3344;
   min-width: 0;
   perspective: 50rem;
 
