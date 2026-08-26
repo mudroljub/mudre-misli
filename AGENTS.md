@@ -8,7 +8,6 @@ Zavisno od zadatka koristi:
 * `docs/PREVODJENJE_NA_SRPSKI.md` — pravila srpskog prevoda
 * `docs/KORPUS.md` — sastav i hijerarhija istorijskog korpusa
 * `docs/PODELA_UNOSA.md` — podela i atomizacija unosa
-* `docs/DELJENI_UNOSI.md` — unosi koji pripadaju više filozofa
 * `docs/CELA_DELA.md` — format čitavih knjiga, dijaloga i pisama
 * `docs/DATIRANJE.md` — pravila datiranja unosa
 * `docs/IDENTIFIKATOR.md` — format i dodela identifikatora

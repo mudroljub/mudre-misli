@@ -109,6 +109,7 @@ export interface Translations {
     Rome: string;
     Arpinum: string;
     Volsinii: string;
+    Megara: string;
   };
   philosophers: {
     Anaxagoras: string;
@@ -123,6 +124,7 @@ export interface Translations {
     Xenophon: string;
     Aristippus: string;
     Antisthenes: string;
+    'Euclid of Megara': string;
     Diogenes: string;
     Plato: string;
     'Bias of Priene': string;
@@ -276,6 +278,7 @@ export const translations: Record<Language, Translations> = {
       Rome: 'Римъ',
       Arpinum: 'Арпинъ',
       Volsinii: 'Волсинии',
+      Megara: 'Мегара',
     },
     philosophers: {
       Anaxagoras: 'Анаѯагоръ',
@@ -290,6 +293,7 @@ export const translations: Record<Language, Translations> = {
       Xenophon: 'Ѯєнофѡнъ',
       Aristippus: 'Аристипъ',
       Antisthenes: 'Антисѳенъ',
+      'Euclid of Megara': 'Еѹклидъ Мегарꙗнинъ',
       Diogenes: 'Диогенъ отъ Синопы',
       Plato: 'Платѡнъ',
       'Bias of Priene': 'Биѩнтъ',
@@ -441,6 +445,7 @@ export const translations: Record<Language, Translations> = {
       Rome: 'Rim',
       Arpinum: 'Arpinum',
       Volsinii: 'Volsiniji',
+      Megara: 'Megara',
     },
     philosophers: {
       Anaxagoras: 'Anaksagora',
@@ -455,6 +460,7 @@ export const translations: Record<Language, Translations> = {
       Xenophon: 'Ksenofont',
       Aristippus: 'Aristip',
       Antisthenes: 'Antisten',
+      'Euclid of Megara': 'Euklid Megaranin',
       Diogenes: 'Diogen iz Sinope',
       Plato: 'Platon',
       'Bias of Priene': 'Bijant',

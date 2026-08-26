@@ -32,7 +32,6 @@ koristiti `data/sources/corpus/isus.json` za etiku i
 ## P1 — obraditi neiskorišćene primarne izvore koji su već izdvojeni
 
 - obraditi nove filozofe na osnovu izvora projekta (Diels, Leartije, Burley...):
-  - Euklid Megaranin
   - Plotin
 
 ## P3 — širiti korpus celih dela tek posle zatvaranja P0 i P1
@@ -54,6 +53,7 @@ probleme.
 
 ## P4 — terminologija i UI
 
-- napraviti spisak filozofski najvažnijih termina i u rečniku naglasiti samo
-  njihove cele redove, u sva tri jezika;
+- u rečniku boldovati glavne (linkovane) termine, u sva tri jezika
+- napraviti spisak filozofski najvažnijih termina
+- rečnik -> Filozofski rečnik
 - odlučiti da li zaseban font za stsls ćirilicu i ostalo ili jedan za sve?

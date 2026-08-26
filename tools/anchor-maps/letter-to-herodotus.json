@@ -1,13 +1,9 @@
 {
   "work": "epicurus/letter-to-herodotus",
   "anchors": {
-    "1": {
-      "sr": {
-        "before": "Epikur Herodotu, pozdrav.\n\nZa on"
-      },
-      "stsl": {
-        "before": "Епикѹръ Херодотѹ радовати сѧ ·\n\n"
-      }
+    "35": {
+      "sr": { "before": "Epikur Herodotu, pozdrav.\n\n" },
+      "stsl": { "before": "Епикѹръ Херодотѹ радовати сѧ ·\n\n" }
     }
   }
 }

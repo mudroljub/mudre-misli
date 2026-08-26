@@ -90,6 +90,13 @@
     "originalText": "Ἀντισθένης",
     "birthplace": "Athens"
   },
+  "Euclid of Megara": {
+    "src": "",
+    "born": -450,
+    "died": -380,
+    "originalText": "Εὐκλείδης ὁ Μεγαρεύς",
+    "birthplace": "Megara"
+  },
   "Diogenes": {
     "src": "/images/authors/Jean-Léon_Gérôme_-_Diogenes.jpg",
     "born": -412,
@@ -357,7 +364,7 @@
     "birthplace": "Arpinum"
   },
   "Musonius Rufus": {
-    "src": "/images/authors/Musonius_Rufus.jpg",
+    "src": "/images/authors/unknown-author.svg",
     "born": 30,
     "died": 101,
     "originalText": "Gaius Musonius Rufus",

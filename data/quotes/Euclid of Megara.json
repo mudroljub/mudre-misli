@@ -1,0 +1,168 @@
+[
+  {
+    "id": "mm-900034",
+    "type": "bio",
+    "year": -450,
+    "sr": "Euklid beše iz Megare kraj Istma, a prema nekima iz sicilijske Gele.",
+    "stsl": "Еѹклидъ отъ Мегары при Истмѣ бѣ · по инѣхъ же отъ сицилиискыѩ Гелы ·",
+    "originalText": "Εὐκλείδης ἀπὸ Μεγάρων τῶν πρὸς Ἰσθμῷ, ἢ Γελῶος κατʼ ἐνίους, ὥς φησιν Ἀλέξανδρος ἐν Διαδοχαῖς.",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.106"
+      }
+    ]
+  },
+  {
+    "id": "mm-900035",
+    "type": "bio",
+    "year": -420,
+    "sr": "Euklid se bavio i Parmenidovim učenjima.",
+    "stsl": "Еѹклидъ и Парменидова ѹчениꙗ дѣлааше ·",
+    "originalText": "οὗτος καὶ τὰ Παρμενίδεια μετεχειρίζετο",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.106"
+      }
+    ]
+  },
+  {
+    "id": "mm-900044",
+    "type": "bio",
+    "year": -415,
+    "sr": "Euklid Megaranin predvodio je megarsku školu.",
+    "stsl": "Мегарьскѫ школѫ Еѹклидъ Мегарꙗнинъ прѣдводи ·",
+    "originalText": "Μεγαρικῆς Εὐκλείδης Μεγαρεύς",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.19"
+      }
+    ]
+  },
+  {
+    "id": "mm-900036",
+    "type": "bio",
+    "year": -410,
+    "sr": "Euklidovi sledbenici najpre se zvahu megarani, zatim prepirači, a potom razgovornici. Razgovornicima ih prvi nazva Dionisije iz Halkedona, jer su rasprave ustrojavali pitanjima i odgovorima.",
+    "stsl": "Еѹклидови послѣдователє прьвѣе Мегарꙗни нарицахѫ сѧ · потомь прѣчьници · напослѣдъкъ же разговорьници · Разговорьникы ꙗ пръвꙑи нарече Дионисиі Халкѣдоньскꙑи · понеже словеса въпросомь и отъвѣтомь оустраꙗахѫ ·",
+    "originalText": "καὶ οἱ ἀπʼ αὐτοῦ Μεγαρικοὶ προσηγορεύοντο, εἶτʼ ἐριστικοί, ὕστερον δὲ διαλεκτικοί, οὓς οὕτως ὠνόμασε πρῶτος Διονύσιος ὁ Χαλκηδόνιος, διὰ τὸ πρὸς ἐρώτησιν καὶ ἀπόκρισιν τοὺς λόγους διατίθεσθαι.",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.106"
+      }
+    ]
+  },
+  {
+    "id": "mm-900037",
+    "type": "anecdote",
+    "year": -410,
+    "sr": "Videvši Euklida predanog prepiračkim govorima, Sokrat mu reče: Euklide, sa mudrijašima ćeš umeti opštiti, ali sa ljudima nikako.",
+    "stsl": "Видѣвъ Еѹклида прѣчьнымъ словесемъ прилѣжѧшта · Сѡкратъ рече · Еѹклиде · съ мѫдровательми ѹмѣти бѫдеши обьштити сѧ · съ чловѣкы же никакоже ·",
+    "originalText": "ὁρῶν δʼ Εὐκλείδην ἐσπουδακότα περὶ τοὺς ἐριστικοὺς λόγους, «ὦ Εὐκλείδη,» ἔφη, «σοφισταῖς μὲν δυνήσῃ χρῆσθαι, ἀνθρώποις δὲ οὐδαμῶς.»",
+    "author": [
+      "Euclid of Megara",
+      "Socrates"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.30"
+      }
+    ]
+  },
+  {
+    "id": "mm-900038",
+    "type": "bio",
+    "year": -399,
+    "sr": "Posle Sokratove smrti Platon i ostali filozofi skloniše se kod Euklida u Megaru, bojeći se surovosti vlastodržaca.",
+    "stsl": "По Сѡкратовѣ смрьти Платѡнъ и прочии любомѫдрьци къ Еѹклидѹ въ Мегарѫ прибѣгошѧ · властель жестокости боꙗште сѧ ·",
+    "originalText": "πρὸς τοῦτόν φησιν ὁ Ἑρμόδωρος ἀφικέσθαι Πλάτωνα καὶ τοὺς λοιποὺς φιλοσόφους μετὰ τὴν τοῦ Σωκράτους τελευτήν, δείσαντας τὴν ὠμότητα τῶν τυράννων.",
+    "author": [
+      "Euclid of Megara",
+      "Plato"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.106"
+      }
+    ]
+  },
+  {
+    "id": "mm-900039",
+    "type": "reported",
+    "sr": "Euklid je učio da je dobro jedno, premda se naziva mnogim imenima: čas razboritošću, čas bogom, čas umom i drugim imenima.",
+    "stsl": "Еѹклидъ ѹчааше · ꙗко добро єдино · аште и многыми имены нарицаєть сѧ · овогда разборьность · овогда богъ · овогда ѹмъ и инѣми ·",
+    "originalText": "οὗτος ἓν τὸ ἀγαθὸν ἀπεφαίνετο πολλοῖς ὀνόμασι καλούμενον· ὁτὲ μὲν γὰρ φρόνησιν, ὁτὲ δὲ θεόν, καὶ ἄλλοτε νοῦν καὶ τὰ λοιπά.",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.106"
+      }
+    ]
+  },
+  {
+    "id": "mm-900040",
+    "type": "reported",
+    "sr": "Euklid je poricao ono što je dobru protivno, tvrdeći da ne postoji.",
+    "stsl": "Еѹклидъ доброѹ противьнаꙗ отъвьргааше · глаголѧ · ꙗко не сѫть ·",
+    "originalText": "τὰ δʼ ἀντικείμενα τῷ ἀγαθῷ ἀνῄρει, μὴ εἶναι φάσκων.",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.106"
+      }
+    ]
+  },
+  {
+    "id": "mm-900041",
+    "type": "reported",
+    "sr": "Euklid se dokazima protivio ne osporavajući pretpostavke, nego zaključak.",
+    "stsl": "Еѹклидъ доказомъ противлꙗаше сѧ · не прѣдъложениꙗ отъмѣтаѩ · нъ выводъ ·",
+    "originalText": "Ταῖς τε ἀποδείξεσιν ἐνίστατο οὐ κατὰ λήμματα, ἀλλὰ κατʼ ἐπιφοράν.",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.107"
+      }
+    ]
+  },
+  {
+    "id": "mm-900042",
+    "type": "reported",
+    "sr": "Euklid je odbacivao dokaz poređenjem. Govorio je: Ako se poređenje sastavlja iz sličnih stvari, treba se radije baviti samim stvarima nego onima kojima su slične; ako se sastavlja iz nesličnih, poređenje je izlišno.",
+    "stsl": "Еѹклидъ доказъ съравнениѥмь отъвьргааше · Глаголааше · Аште отъ подобьныхъ съставлꙗєть сѧ · самыми вещьми паче подобьныхъ имъ занимати сѧ подобаєть · аште ли отъ неподобьныхъ · съравнениѥ излишє ·",
+    "originalText": "καὶ τὸν διὰ παραβολῆς λόγον ἀνῄρει, λέγων ἤτοι ἐξ ὁμοίων αὐτὸν ἢ ἐξ ἀνομοίων συνίστασθαι· καὶ εἰ μὲν ἐξ ὁμοίων, περὶ αὐτὰ δεῖν μᾶλλον ἢ οἷς ὅμοιά ἐστιν ἀναστρέφεσθαι, εἰ δʼ ἐξ ἀνομοίων, παρέλκειν τὴν παράθεσιν.",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.107"
+      }
+    ]
+  },
+  {
+    "id": "mm-900043",
+    "type": "works",
+    "sr": "Euklid je napisao šest razgovora: Lampriju, Eshina, Feniksa, Kritona, Alkibijada i Ljubavni razgovor.",
+    "stsl": "Еѹклидъ шесть разговоръ написа · Ламприꙗ · Есхина · Финика · Критона · Алкивиꙗда и Любовьныи разговоръ ·",
+    "originalText": "Διαλόγους δὲ συνέγραψεν ἕξ, Λαμπρίαν, Αἰσχίνην, Φοίνικα, Κρίτωνα, Ἀλκιβιάδην, Ἐρωτικόν.",
+    "author": "Euclid of Megara",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.108"
+      }
+    ]
+  }
+]

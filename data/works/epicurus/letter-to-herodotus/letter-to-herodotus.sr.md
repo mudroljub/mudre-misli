@@ -1,4 +1,4 @@
-<!-- anchor:1 -->
+<!-- anchor:35 -->
 Epikur Herodotu, pozdrav.
 
 Za one koji, Herodote, ne mogu podrobno proučiti sve što smo napisali o

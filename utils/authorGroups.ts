@@ -74,7 +74,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'socratics',
         title: 'Socratics',
-        authors: ['Socrates', 'Xenophon', 'Aristippus', 'Antisthenes']
+        authors: ['Socrates', 'Xenophon', 'Aristippus', 'Antisthenes', 'Euclid of Megara']
       },
       {
         titleKey: 'platonicAcademy',
