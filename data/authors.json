@@ -341,5 +341,33 @@
     "died": 135,
     "originalText": "Ἐπίκτητος",
     "birthplace": "Hierapolis"
+  },
+  "Seneca": {
+    "src": "/images/authors/Seneca.jpg",
+    "born": -4,
+    "died": 65,
+    "originalText": "Lucius Annaeus Seneca",
+    "birthplace": "Corduba"
+  },
+  "Cicero": {
+    "src": "/images/authors/Cicero.jpg",
+    "born": -106,
+    "died": -43,
+    "originalText": "Marcus Tullius Cicero",
+    "birthplace": "Arpinum"
+  },
+  "Musonius Rufus": {
+    "src": "/images/authors/Musonius_Rufus.jpg",
+    "born": 30,
+    "died": 101,
+    "originalText": "Gaius Musonius Rufus",
+    "birthplace": "Volsinii"
+  },
+  "Lucretius": {
+    "src": "/images/authors/Lucretius.jpg",
+    "born": -99,
+    "died": -55,
+    "originalText": "Titus Lucretius Carus",
+    "birthplace": "Rome"
   }
 }

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "mm-900010",
+    "type": "bio",
+    "year": -63,
+    "sr": "Marko Tulije, po nadimku Ciceron, Rimljanin, bio je veoma znamenit među rimskim konzulima. Proslavio se u vreme Julija Cezara i bio veliki filozof, veoma predan učenju.",
+    "stsl": "Тѹллии Маркъ · прозваниемь Цицеронъ · римлꙗнинъ · мѫжь прѣславьнъ междѹ коньсѹлы римьскꙑми · въ врѣмѧ Иѹлиꙗ Кесарѣ прослави сѧ · любомѫдрьць великъ и къ ѹчениѭ вельми прилѣжьнъ бѣ ·",
+    "originalText": "Tullius Marcus, cognomento et Cicero, Romanus, vir nobilissimus inter consules Romanorum, Iulii Caesaris tempore claruit, qui philosophus maximus et studiosus erat valde.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV"
+      }
+    ]
+  },
+  {
+    "id": "mm-900012",
+    "type": "anecdote",
+    "year": -46,
+    "sr": "Pošto je otpustio ženu, Cicerona zamoli prvak Hircije da uzme njegovu sestru za ženu. Ciceron ne pristade, rekavši da se ne može istovremeno posvetiti ženi i filozofiji.",
+    "stsl": "Женѫ отъпѹстивъшѹ Цицеронѹ · кнѧꙃь Ирции моли и · да сестрѹ єго поиметь · Онъ же не съволи · рекъ · ꙗко не можеть женѣ и любомѫдриѭ въкѹпѣ дѣлати ·",
+    "originalText": "Hic, uxore repudiata, rogatus fuit ab Hyrcio principe ut sororem eius duceret in uxorem. Qui non acquievit, dicens se non posse uxori et philosophiae pariter operari.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV"
+      }
+    ]
+  },
+  {
+    "id": "mm-900013",
+    "type": "works",
+    "sr": "Burley Ciceronu pripisuje sledeća dela: četiri knjige O dužnostima; jednu O prijateljstvu; jednu O starosti; tri O govorniku; jednu O paradoksima; jednu knjigu Filipika; četiri knjige Retorike; jednu knjigu Tuskulskih rasprava; dvanaest knjiga Govora; šest knjiga Napada; tri O zakonima; pet O krajnjoj svrsi dobra i zla; tri O prirodi bogova; dve O proricanju; jednu O sudbini; jednu O stvaranju sveta.",
+    "stsl": "Бѹрлеи Цицеронѹ дѣла сиꙗ приписѹєть · О длъꙃѣхъ четꙑри · О дрѹжьбѣ єдино · О старости єдино · О витии три · О дивьнꙑхъ мнѣніихъ єдино · Филипикъ єдино · Витииства четꙑри · Тѹскѹланьскꙑхъ бесѣдъ єдино · Глаголъ дванадесѧте · Порѹгании шесть · О ꙁаконахъ три · О съвръсѣ добра и ꙁъла пѧть · О природѣ богъ три · О пророчьствѣ двѣ · О сѫдьбѣ єдино · О съꙁданіи мира єдино ·",
+    "originalText": "Scripsit autem Tullius egregios libros plurimos sub titulis infrascriptis: De officiis libros IIII, De amicitia librum unum, De senectute librum unum, De oratore libros III, De paradoxa librum unum, Philippicarum librum unum, Rhetoricorum libros IIII, Tusculanarum quaestionum librum unum, Orationum libros XII, Invectivarum libros sex, De legibus libros tres, De fine boni et mali libros quinque, De natura deorum libros III, De divinatione libros II, De fato librum unum, De creatione mundi librum unum.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV"
+      }
+    ]
+  },
+  {
+    "id": "mm-900014",
+    "type": "quote",
+    "sr": "Sva pohvala vrline sastoji se u činu; od njega ipak često ima predaha, te se mnogi predaju samotnim proučavanjima.",
+    "stsl": "Вьсѧ хвала добродѣтели въ чинѣ стоить · отъ него же обаче часто ѹпокоєніє бꙑваєть · и мнози самотьнꙑмъ ѹченіємъ прѣдаѭть сѧ ·",
+    "originalText": "Omnis virtus in activa constitit, a qua tamen saepe fit intermissio, multique dantur ad studia solitaria.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV (ex De officiis)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900015",
+    "type": "quote",
+    "sr": "Treba znati da se sve što zemlja rađa stvara na korist ljudima, a da su ljudi rođeni radi ljudi, kako bi jedni drugima mogli koristiti. U tome treba slediti prirodu kao vođu i zajedničku korist iznositi pred sve.",
+    "stsl": "Вѣдѣти подобаєть · ꙗко вьсѧ ꙗже ꙁемлꙗ раждаєть · на потрѣбѫ чловѣкомъ съꙁдаѭть сѧ · чловѣци же чловѣкъ ради родишѧ сѧ · да дрѹгъ дрѹгѹ польꙁѫ творити могѫть · Въ сихъ природѣ ꙗко вождеви послѣдовати и обьштѫѭ польꙁѫ прѣдъ вьсѧ износити подобаєть ·",
+    "originalText": "Scire homines quaecumque in terra gignantur ad usum hominum creari, homines autem hominum causa fuisse generatos ut ipsi inter se, alii aliis, prodesse possent. In hoc autem genere naturam ducem sequi et communes utilitates ferre debent in medium.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV (ex De officiis)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900016",
+    "type": "quote",
+    "sr": "Ratove treba preduzimati da bi se u miru živelo bez nepravde.",
+    "stsl": "Рати подъемати подобаєть · да въ мирѣ беꙁъ неправьдꙑ живемъ ·",
+    "originalText": "Quare suscipienda sunt bella ut sine iniuria vivatur in pace.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV (ex De officiis)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900017",
+    "type": "quote",
+    "sr": "Ništa nije prirodi čoveka primerenije od darežljivosti i dobročinstva; ali pri tome treba mnogo opreza. Najpre valja paziti da dobročinstvo ne naškodi ni onome kome se čini ni drugome.",
+    "stsl": "Ничьтоже природѣ чловѣка подобьнѣє даровитости и благодѣꙗніꙗ · нъ въ сихъ многоє блюденіє подобаєть · Пръвѣє бо ꙁрѣти подобаєть · да благодѣꙗніє ни томѹ · емѹ же творить сѧ · ни иномѹ не врѣдить ·",
+    "originalText": "Liberalitate ac beneficentia nihil est naturae hominis accommodatius, sed hoc debet habere multas cautiones; videndum est enim primo ne obsit quod datur beneficium vel illi cui fit vel alteri.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV (ex De officiis)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900018",
+    "type": "quote",
+    "sr": "Mnogi, željni sjaja i slave, uzimaju od jednih da bi drugima davali, pa jednima škode kako bi pred drugima izgledali darežljivi.",
+    "stsl": "Мнози свѣтлости и славꙑ желаѭште · отъ инѣхъ въꙁимаѭть · да инѣмъ даѭть · и тако овѣмъ врѣдѧть · да прѣдъ инѣми даровити ꙗвѧть сѧ ·",
+    "originalText": "Sunt enim multi cupidi splendoris et gloriae, qui ab aliis capiunt quod aliis largiantur, et sic aliis nocent ut in alios liberales existant.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV (ex De officiis)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900019",
+    "type": "quote",
+    "sr": "Darežljivost ne treba da bude veća od mogućnosti.",
+    "stsl": "Даровитость паче мочи бꙑти не подобаєть ·",
+    "originalText": "Ne maior sit liberalitas quam facultas.",
+    "author": "Cicero",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XCV (ex De officiis)"
+      }
+    ]
+  }
+]

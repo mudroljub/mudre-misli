@@ -49,6 +49,7 @@ export interface Translations {
     presocratics: string;
     athenianPhilosophy: string;
     hellenisticSchools: string;
+    romanPhilosophy: string;
   };
   sidebarSubgroups: {
     ionianSchool: string;
@@ -64,6 +65,9 @@ export interface Translations {
     stoics: string;
     skeptics: string;
     epicureans: string;
+    romanStoics: string;
+    romanEclectics: string;
+    romanEpicureans: string;
   };
   cities: {
     Clazomenae: string;
@@ -101,6 +105,10 @@ export interface Translations {
     Eretria: string;
     Syros: string;
     Hierapolis: string;
+    Corduba: string;
+    Rome: string;
+    Arpinum: string;
+    Volsinii: string;
   };
   philosophers: {
     Anaxagoras: string;
@@ -151,6 +159,10 @@ export interface Translations {
     Cleobulus: string;
     Cleobulina: string;
     Epictetus: string;
+    Seneca: string;
+    Cicero: string;
+    'Musonius Rufus': string;
+    Lucretius: string;
   };
 }
 
@@ -204,6 +216,7 @@ export const translations: Record<Language, Translations> = {
       presocratics: 'Прѣдесократови',
       athenianPhilosophy: 'Атїньска любомѫдрость',
       hellenisticSchools: 'Єллиньскꙑ школꙑ',
+      romanPhilosophy: 'Римьска любомѫдрость',
     },
     sidebarSubgroups: {
       ionianSchool: 'Іоньска школа',
@@ -219,6 +232,9 @@ export const translations: Record<Language, Translations> = {
       stoics: 'Стоїци',
       skeptics: 'Скєптици',
       epicureans: 'Єпикѹрєи',
+      romanStoics: 'Римьстии стоїци',
+      romanEclectics: 'Римьстии събиратели',
+      romanEpicureans: 'Римьстии єпикѹрєи',
     },
     cities: {
       Clazomenae: 'Клаꙁомєнѣ',
@@ -256,6 +272,10 @@ export const translations: Record<Language, Translations> = {
       Eretria: 'Єрєтріꙗ',
       Syros: 'Сѵросъ',
       Hierapolis: 'Иєраполь',
+      Corduba: 'Кордѹва',
+      Rome: 'Римъ',
+      Arpinum: 'Арпинъ',
+      Volsinii: 'Волсинии',
     },
     philosophers: {
       Anaxagoras: 'Анаѯагоръ',
@@ -306,6 +326,10 @@ export const translations: Record<Language, Translations> = {
       Cleobulus: 'Клєовѹлъ',
       Cleobulina: 'Клєовѹліна',
       Epictetus: 'Епиктетъ',
+      Seneca: 'Сенека',
+      Cicero: 'Цицеронъ',
+      'Musonius Rufus': 'Мѹсонии Рѹфъ',
+      Lucretius: 'Лѹкреции',
     },
   },
   sr: {
@@ -357,6 +381,7 @@ export const translations: Record<Language, Translations> = {
       presocratics: 'Predsokratovci',
       athenianPhilosophy: 'Atinska filozofija',
       hellenisticSchools: 'Helenističke škole',
+      romanPhilosophy: 'Rimska filozofija',
     },
     sidebarSubgroups: {
       ionianSchool: 'Jonska škola',
@@ -372,6 +397,9 @@ export const translations: Record<Language, Translations> = {
       stoics: 'Stoici',
       skeptics: 'Skeptici',
       epicureans: 'Epikurejci',
+      romanStoics: 'Rimski stoici',
+      romanEclectics: 'Rimski eklektičari',
+      romanEpicureans: 'Rimski epikurejci',
     },
     cities: {
       Clazomenae: 'Klazomene',
@@ -409,6 +437,10 @@ export const translations: Record<Language, Translations> = {
       Eretria: 'Eretrija',
       Syros: 'Siros',
       Hierapolis: 'Hijerapolj',
+      Corduba: 'Korduba',
+      Rome: 'Rim',
+      Arpinum: 'Arpinum',
+      Volsinii: 'Volsiniji',
     },
     philosophers: {
       Anaxagoras: 'Anaksagora',
@@ -459,6 +491,10 @@ export const translations: Record<Language, Translations> = {
       Cleobulus: 'Kleobul',
       Cleobulina: 'Kleobulina',
       Epictetus: 'Epiktet',
+      Seneca: 'Seneka',
+      Cicero: 'Ciceron',
+      'Musonius Rufus': 'Musonije Ruf',
+      Lucretius: 'Lukrecije',
     },
   },
 };

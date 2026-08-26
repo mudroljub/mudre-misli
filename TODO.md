@@ -16,7 +16,6 @@
 
 ## UI
 
-- za Epikteta će trebati novi odeljak u navigaciji, verovatno Rimski filozofi, stoici ili tako nešto. dodati strane za par najvažnijih predstavnika
 - napraviti spisak filozofski najvažnijih termina
   - naglasiti samo njih u rečniku (ceo red, sve jezike)
 - ne preslovljavati rimske brojeve u ćirilicu (npr. epicurus/principal-doctrines)

@@ -114,5 +114,27 @@ export const authorGroups: AuthorGroup[] = [
         authors: ['Epicurus']
       }
     ]
+  },
+  {
+    titleKey: 'romanPhilosophy',
+    title: 'Roman Philosophy',
+    period: '1-2. vek',
+    subgroups: [
+      {
+        titleKey: 'romanStoics',
+        title: 'Roman Stoics',
+        authors: ['Seneca', 'Musonius Rufus', 'Epictetus']
+      },
+      {
+        titleKey: 'romanEclectics',
+        title: 'Roman Eclectics',
+        authors: ['Cicero']
+      },
+      {
+        titleKey: 'romanEpicureans',
+        title: 'Roman Epicureans',
+        authors: ['Lucretius']
+      }
+    ]
   }
 ];

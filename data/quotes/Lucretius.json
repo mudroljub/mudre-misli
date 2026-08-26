@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mm-900029",
+    "type": "bio",
+    "year": -60,
+    "sr": "Pesnik Tit Lukrecije proslavio se u Pompejevo vreme.",
+    "stsl": "Титъ Лѹкреции пѣсньникъ въ Помпєєво врѣмѧ прослави сѧ ·",
+    "originalText": "Titus Lucretius poeta Pompei tempore claruit.",
+    "author": "Lucretius",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. CI"
+      }
+    ]
+  },
+  {
+    "id": "mm-900030",
+    "type": "anecdote",
+    "year": -55,
+    "sr": "Burley prenosi predanje da je Lukrecije od ljubavnog napitka pao u ludilo, ali da je u razmacima između napada napisao nekoliko knjiga koje je potom ispravio Ciceron; najzad se u četrdeset četvrtoj godini ubio vlastitom rukom.",
+    "stsl": "Бѹрлеи прѣдаєть · ꙗко Лѹкреции отъ любовьнаго напоꙗ въ бѣсъ въпаде · междѹ же нападꙑ нѣколика книгы написа · ꙗже потомь Цицеронъ исправи · напослѣдъкъ же въ четꙑридесѧть четврьтѣмь лѣтѣ своеѭ рѫкоѭ себе ѹби ·",
+    "originalText": "Qui amatorio poculo in furorem versus est, libros autem aliquos per intervalla insaniae conscripsit quos postmodum emendavit Cicero, tandem propria manu sua se interemit anno aetatis suae XLIIII.",
+    "author": "Lucretius",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. CI"
+      }
+    ]
+  }
+]

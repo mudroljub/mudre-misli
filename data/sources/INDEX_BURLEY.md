@@ -19,12 +19,12 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ---
 
-## Status ekstrakcije (2026-08-07)
+## Status ekstrakcije (2026-08-26)
 
 **Ukupno**: ~130 poglavlja (neki filozofi imaju više poglavlja)  
 **Ekstraktovano**: 44 figura (34%)  
-**Analizirano**: 11 figura (42 nova zapisa + 1 analiza bez novih podataka)  
-**Integrisano**: 10 figura (42 nova zapisa: Heraklit 1, Empedoklo 4, Diogen 9, Epikur 4, Antisten 3, Kratet 1, Zenon 5, Bijant 4, Ksenofont 1+proširenja, Demosteni 9, **Alkibijad 1**)
+**Analizirano**: 14 figura (63 nova zapisa + 1 analiza bez novih podataka)  
+**Integrisano**: 13 figura (63 nova zapisa: Heraklit 1, Empedoklo 4, Diogen 9, Epikur 4, Antisten 3, Kratet 1, Zenon 5, Bijant 4, Ksenofont 1+proširenja, Demosteni 9, Alkibijad 1, Ciceron 9, Seneka 10, Lukrecije 2)
 
 ---
 
@@ -490,8 +490,10 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. XCV - Tullius Cicero (Ciceron)
 **Strana**: 318  
-**Status**: ✅  
+**Status**: ✅✅  
 **Rimski filozof i govornik**
+**NOVO**: 9 unosa (biografija, anegdota, spisak dela i moralni izvodi iz *O dužnostima*)  
+**NAPOMENA**: Obrađen je sav latinski tekst prisutan u lokalnom ekstraktu. Dve oznake u ekstraktu upućuju na izostavljene nastavke koje tek treba ponovo izvući iz izvornog PDF-a.
 
 ### Cap. XCVI - Diogenes Babylonius / Cato (Diogen Vavilonski / Katon)
 **Strana**: 324 / 328  
@@ -511,15 +513,17 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 **Status**: ⏳  
 **Rimski istoričar**
 
-### Cap. C - Musonius Rufus
-**Strana**: 333  
+### Cap. C - Munatius Plancus (Munacije Plank)
+**Strana**: 332–333  
 **Status**: ⏳  
-**Stoik**
+**Rimski govornik, Ciceronov učenik**  
+**NAPOMENA**: Raniji indeks je ovde pogrešno navodio Musonija Rufa. Provera izvornog PDF-a pokazuje da Burley nema poglavlje o Musoniju.
 
 ### Cap. CI - Lucretius (Lukrecije)
 **Strana**: 334  
-**Status**: ⏳  
-**Rimski epikurejac-pesnik**
+**Status**: ✅✅  
+**Rimski epikurejac-pesnik**  
+**NOVO**: 2 unosa; obrađeno je celo Burleyjevo poglavlje.
 
 ### Cap. CII - [nepoznato]
 **Status**: ⏳
@@ -585,8 +589,10 @@ Srednjovekovna biografska kompilacija o životu i običajima filozofa, jedna od 
 
 ### Cap. CXVII - Seneca / Pompeius Trogus (Seneka / Pompej Trog)
 **Strana**: 356 / 392  
-**Status**: ✅ / ⏳  
+**Status**: ✅✅ / ⏳  
 **Stoik / Istoričar**
+**NOVO**: 10 unosa (biografija, predanje o Pavlu, pamćenje, smrt i spisak dela)  
+**NAPOMENA**: Obrađen je sav latinski tekst prisutan u lokalnom ekstraktu; španski tekst je paralelni prevod istog sadržaja.
 
 ### Cap. CXVIII - Quintilianus (Kvintilijan)
 **Strana**: 362  
@@ -708,4 +714,4 @@ Svako ekstraktovano poglavlje sadrži:
 
 ---
 
-**Poslednji update**: 2026-08-07 (Demosteni integrisan)
+**Poslednji update**: 2026-08-26 (Lukrecije potpuno obrađen; ispravljena pogrešna identifikacija Musonija Rufa u Cap. C)
