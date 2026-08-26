@@ -110,8 +110,41 @@ const cyrLatDict: Record<string, string> = {
 export const toLatinic = (text: string): string =>
   [...text].map(x => cyrLatDict[x] || x).join('');
 
-const toCyrillic = (text: string): string =>
-  [...text].map(x => latCyrDict[x] || x).join('');
+const romanNumeralPattern = /[IVXLCDM]+/g;
+const validRomanNumeralPattern = /^(?=[IVXLCDM]+$)M{0,4}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})$/;
+
+const shouldPreserveRomanNumeral = (text: string, numeral: string, offset: number): boolean => {
+  if (!validRomanNumeralPattern.test(numeral)) return false;
+
+  const before = text.slice(0, offset);
+  const after = text.slice(offset + numeral.length);
+
+  return numeral.length > 1
+    || /^\.\d/.test(after)
+    || /^[–—-][IVXLCDM]+/.test(after)
+    || /[IVXLCDM]+[–—-]$/.test(before)
+    || /(?:cap\.|knjiga|book)\s*$/i.test(before)
+    || /(?:^|\n)\s*$/.test(before) && /^[.)](?:\s|$)/.test(after);
+};
+
+const toCyrillic = (text: string): string => {
+  const preserved: string[] = [];
+  const protectedText = text.replace(romanNumeralPattern, (numeral, offset: number) => {
+    if (!shouldPreserveRomanNumeral(text, numeral, offset)) return numeral;
+    const marker = String.fromCodePoint(0xE000 + preserved.length);
+    preserved.push(numeral);
+    return marker;
+  });
+
+  return [...protectedText]
+    .map(x => {
+      const markerIndex = x.codePointAt(0)! - 0xE000;
+      return markerIndex >= 0 && markerIndex < preserved.length
+        ? preserved[markerIndex]
+        : latCyrDict[x] || x;
+    })
+    .join('');
+};
 
 export type Script = 'lat' | 'cyr';
 export type TransliterateLanguage = 'sr' | 'stsl';

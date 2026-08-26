@@ -1,0 +1,117 @@
+{
+  "work": "plato/ion",
+  "anchors": {
+    "530d": {
+      "sr": { "before": "Lampsački" },
+      "stsl": { "before": "Лампсакьскыи" }
+    },
+    "531a": {
+      "sr": { "after": "da te poslušam" },
+      "stsl": { "after": "да тебе послѹшаѭ" }
+    },
+    "531b": {
+      "sr": { "before": "Sokrate, o onome o čemu govore isto" },
+      "stsl": { "before": "Сѡкрате · о нихъже тожде глаголѭта" }
+    },
+    "531d": {
+      "sr": { "before": "i junaka" },
+      "stsl": { "before": "и витѧꙁь" }
+    },
+    "531e": {
+      "sr": { "before": "onoga koji dobro govori" },
+      "stsl": { "before": "нѣкыи добро глаголѭщаго" }
+    },
+    "532a": {
+      "sr": { "before": "ko govori dobro a ko loše" },
+      "stsl": { "before": "кто добро глаголѥть и кто зълѣ" }
+    },
+    "532c": {
+      "sr": { "before": "um niti mogu išta slova dostojno" },
+      "stsl": { "before": "умъ прилагаѭ · ни могѫ нѣчто" }
+    },
+    "533a": {
+      "sr": { "before": "nemoćan; i kada neko pokazuje dela drugih slikara" },
+      "stsl": { "before": "немощьнъ · и єгда кто дѣла прочиихъ" }
+    },
+    "533b": {
+      "sr": { "before": "ili Epeju, sinu Panopejevu" },
+      "stsl": { "before": "или Епіи Панопеовѣ" }
+    },
+    "533c": {
+      "sr": { "before": "Orfeja ili Femija" },
+      "stsl": { "before": "Орфеѥ · или о Фиміи" }
+    },
+    "533d": {
+      "sr": { "before": "šta mi se čini da je to" },
+      "stsl": { "before": "что ми се видить сѧ быти" }
+    },
+    "533e": {
+      "sr": { "before": "privlačiti druga koluta" },
+      "stsl": { "before": "ина колца влещи" }
+    },
+    "534a": {
+      "sr": { "before": "ne plešu pri svome umu" },
+      "stsl": { "before": "не въ своемь умѣ пляшѫть" }
+    },
+    "534b": {
+      "sr": { "before": "sa medotočnih ishoda" },
+      "stsl": { "before": "отъ медоточьнꙑхъ исходъ" }
+    },
+    "534c": {
+      "sr": { "before": "stvarima — kao ti o Homeru" },
+      "stsl": { "before": "дѣлѣхъ глаголѭть · ꙗкоже тꙑ" }
+    },
+    "534d": {
+      "sr": { "before": "i prorocima i božanstvenim gatarima" },
+      "stsl": { "before": "и пророкꙑ и гадателꙑ божьствьнꙑми" }
+    },
+    "534e": {
+      "sr": { "before": "Musina nalaska" },
+      "stsl": { "before": "Мѹсинъ обрѣтокъ" }
+    },
+    "535a": {
+      "sr": { "before": "pesnika ispevao" },
+      "stsl": { "after": "наислабѣишаго " }
+    },
+    "536a": {
+      "sr": { "before": "rapsod i glumac" },
+      "stsl": { "before": "рапсѡдъ и лицедѣи" }
+    },
+    "536b": {
+      "sr": { "before": "jer je blizu tome: drži se" },
+      "stsl": { "before": "близъ бо єсть · дрьжить бо сѧ" }
+    },
+    "537b": {
+      "sr": { "before": "Sam se, kaže, nagni" },
+      "stsl": { "before": "Самъ сѧ · глаголѥть · приклони" }
+    },
+    "537c": {
+      "sr": { "before": "pravo ili ne — ko će bolje" },
+      "stsl": { "before": "право глаголѥть Омеръ или ни" }
+    },
+    "537d": {
+      "sr": { "after": "Sokrat · Niti ono što znamo lekarskim umenjem poznajemo drvodeljskim." },
+      "stsl": { "after": "Сѡкратъ · Ни ꙗже врачьскꙑмъ · сиꙗ дрѣводѣльнымъ ·" }
+    },
+    "537e": {
+      "sr": { "before": "umenjem, a drugo drugim? Tako i ti" },
+      "stsl": { "before": "умѣніє ино · дрѹгоѥ же ино нарицаѭ" }
+    },
+    "538b": {
+      "sr": { "after": "Sokrat · Neće li onda onaj koji nema neko umenje biti nemoćan dobro poznati ono što se tim umenjem govori ili dela?" },
+      "stsl": { "after": "Сѡкратъ · Не ѹбо иже нѣкоего умѣніа не имать · глаголанаꙗ или дѣланаꙗ того умѣніа добро познати не можеть ·" }
+    },
+    "538e": {
+      "sr": { "before": "Pošto, Sokrate, u Homeru nalaziš" },
+      "stsl": { "before": "Понеже · о Сѡкрате · въ Омерѣ" }
+    },
+    "539b": {
+      "sr": { "before": "sa neba iščeze" },
+      "stsl": { "before": "съ небесе погибе" }
+    },
+    "541e": {
+      "sr": { "after": "Efes" },
+      "stsl": { "after": "Єфесъ" }
+    }
+  }
+}
