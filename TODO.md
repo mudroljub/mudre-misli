@@ -41,7 +41,7 @@ probleme.
 ## P4 — terminologija i UI
 
 - odlučiti da li zaseban font za stsls ćirilicu i ostalo ili jedan za sve?
-- ažurirati:
+- ažurirati u data i u translations.ts:
 φιλοσοφία         | любомѫдриє  -> мѫдролюбіє
 φιλόσοφος         | любомѫдрьць -> мѫдролюбьць
 - grafički (možda ascii art) prikazati mrežu prevoda, odnosno mapiranje najvećih korenskih porodica iz rečnika
