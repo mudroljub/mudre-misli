@@ -99,4 +99,5 @@ Red prioriteta:
 
 ## Primeri dobrih prevoda
 
-Vidi [PRIMERI.md](PRIMERI.md).
+Vidi već integrisane prevode u [`data/quotes/`](../data/quotes/) i
+[`data/works/`](../data/works/).

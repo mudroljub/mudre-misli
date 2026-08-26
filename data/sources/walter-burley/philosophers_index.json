@@ -1,12 +1,12 @@
 {
   "source": "Walter Burley - De Vita et Moribus Philosophorum",
   "editor": "Hermann Knust (1886)",
-  "lastVerified": "2026-08-11",
+  "lastVerified": "2026-08-26",
   "layers": {
     "rawTexts": {
       "directory": "latin_raw",
       "format": "txt",
-      "count": 77
+      "count": 78
     },
     "detailedChapters": {
       "directory": "chapters",

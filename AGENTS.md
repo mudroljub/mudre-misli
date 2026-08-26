@@ -10,6 +10,10 @@ Zavisno od zadatka koristi:
 * `docs/PODELA_UNOSA.md` — podela i atomizacija unosa
 * `docs/DELJENI_UNOSI.md` — unosi koji pripadaju više filozofa
 * `docs/CELA_DELA.md` — format čitavih knjiga, dijaloga i pisama
+* `docs/DATIRANJE.md` — pravila datiranja unosa
+* `docs/IDENTIFIKATOR.md` — format i dodela identifikatora
+* `docs/POINTER_FORMAT.md` — format pokazivača na izvore
+* `docs/KLESANJE_PREVODA.md` — sažimanje prevoda bez gubitka sadržaja
 
 ## Osnovna pravila
 

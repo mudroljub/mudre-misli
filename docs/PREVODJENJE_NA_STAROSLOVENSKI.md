@@ -263,6 +263,8 @@ Za katalog izvora vidi [KORPUS.md](KORPUS.md).
 * Svaka staroslovenska rečenica završava se srednjom tačkom ·
 
 ## Primeri dobrih prevoda
-Za uzore kratke, prirodne i sažete staroslovenske rečenice koristiti [isus.json](data/sources/corpus/isus.json).
+Za uzore kratke, prirodne i sažete staroslovenske rečenice koristiti
+[isus.json](../data/sources/corpus/isus.json).
 
-Za primere naših prevoda vidi [PRIMERI.md](PRIMERI.md)
+Za primere već integrisanih prevoda vidi [`data/quotes/`](../data/quotes/) i
+[`data/works/`](../data/works/).
