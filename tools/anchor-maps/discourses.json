@@ -1,0 +1,765 @@
+{
+  "work": "epictetus/discourses",
+  "anchors": {
+    "I.1": {
+      "sr": {
+        "before": "Od ostalih moći nijednu nećete n"
+      },
+      "stsl": {
+        "before": "О сихъ · ꙗже на насъ · и ꙗже не "
+      }
+    },
+    "I.2": {
+      "sr": {
+        "before": "Slovesnom živom biću jedino je n"
+      },
+      "stsl": {
+        "before": "Како кто можеть въ вьсѣмь съхран"
+      }
+    },
+    "I.3": {
+      "sr": {
+        "before": "Kad bi neko mogao dostojno da pr"
+      },
+      "stsl": {
+        "before": "Како кто отъ сего · ꙗко Богъ оть"
+      }
+    },
+    "I.4": {
+      "sr": {
+        "before": "Onaj koji napreduje naučio je od"
+      },
+      "stsl": {
+        "before": "О напрѣдованіи ·\r\n\r\nНапрѣдѹѩи · "
+      }
+    },
+    "I.5": {
+      "sr": {
+        "before": "Ako se neko, kaže, opire onome š"
+      },
+      "stsl": {
+        "before": "Противъ Академикомъ ·\r\n\r\nАще кто"
+      }
+    },
+    "I.6": {
+      "sr": {
+        "before": "Od svega što biva u svetu lako j"
+      },
+      "stsl": {
+        "before": "О промꙑслѣ ·\r\n\r\nОтъ кождоѥго быв"
+      }
+    },
+    "I.7": {
+      "sr": {
+        "before": "Bavljenje promenljivim i pretpos"
+      },
+      "stsl": {
+        "before": "О пользѣ прѣмѣнѧѭщихъ сѧ и прѣдъ"
+      }
+    },
+    "I.8": {
+      "sr": {
+        "before": "Na koliko se načina mogu preobli"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.8\r\n\r\nО то"
+      }
+    },
+    "I.9": {
+      "sr": {
+        "before": "Ako je istinito ono što filozofi govore "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.9\r\n\r\nКако"
+      }
+    },
+    "I.10": {
+      "sr": {
+        "before": "Kad bismo se mi toliko trudili o"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.10\r\n\r\nО т"
+      }
+    },
+    "I.11": {
+      "sr": {
+        "before": "Kada mu dođe jedan od upravitelj"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.11\r\n\r\nО л"
+      }
+    },
+    "I.12": {
+      "sr": {
+        "before": "O bogovima jedni govore da božan"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.12\r\n\r\nО б"
+      }
+    },
+    "I.13": {
+      "sr": {
+        "before": "Kada se neko raspitivao kako bi "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.13\r\n\r\nКак"
+      }
+    },
+    "I.14": {
+      "sr": {
+        "before": "Kada ga neko upita kako se čovek"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.14\r\n\r\nꙖко"
+      }
+    },
+    "I.15": {
+      "sr": {
+        "before": "Kada ga je neko pitao za savet k"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.15\r\n\r\nЧто"
+      }
+    },
+    "I.16": {
+      "sr": {
+        "before": "Ne čudite se što je drugim život"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.16\r\n\r\nО п"
+      }
+    },
+    "I.17": {
+      "sr": {
+        "before": "Pošto je slovesnost ono što razl"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.17\r\n\r\nКак"
+      }
+    },
+    "I.18": {
+      "sr": {
+        "before": "Ako je istinito ono što filozofi govore,"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.18\r\n\r\nꙖко"
+      }
+    },
+    "I.19": {
+      "sr": {
+        "before": "Ako neko ima neku prednost ili m"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.19\r\n\r\nКак"
+      }
+    },
+    "I.20": {
+      "sr": {
+        "before": "Svako umeće i svaka moć imaju ne"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.20\r\n\r\nКак"
+      }
+    },
+    "I.21": {
+      "sr": {
+        "before": "Kada neko u životu zauzme svoje "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.21\r\n\r\nКъ "
+      }
+    },
+    "I.22": {
+      "sr": {
+        "before": "Pretpojmovi su svim ljudima zaje"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.22\r\n\r\nО п"
+      }
+    },
+    "I.23": {
+      "sr": {
+        "before": "Čak i Epikur shvata da smo po pr"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.23\r\n\r\nПро"
+      }
+    },
+    "I.24": {
+      "sr": {
+        "before": "Teškoće su ono što pokazuje ljud"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.24\r\n\r\nКак"
+      }
+    },
+    "I.25": {
+      "sr": {
+        "before": "Ako je to istinito i ako nismo g"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.25\r\n\r\nО т"
+      }
+    },
+    "I.26": {
+      "sr": {
+        "before": "Kada je neko čitao pretpostavlje"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.26\r\n\r\nКыи"
+      }
+    },
+    "I.27": {
+      "sr": {
+        "before": "Predstave ljudima nastaju na čet"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.27\r\n\r\nКол"
+      }
+    },
+    "I.28": {
+      "sr": {
+        "before": "Šta je uzrok pristajanja?\r\n\r\nPre"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.28\r\n\r\nꙖко"
+      }
+    },
+    "I.29": {
+      "sr": {
+        "before": "Suštastvo dobra i zla jeste odre"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори I.29\r\n\r\nО т"
+      }
+    },
+    "I.30": {
+      "sr": {
+        "before": "Kada uđeš k nekome od moćnika, s"
+      },
+      "stsl": {
+        "before": "Єгда вънидеши къ нѣкоємѹ властел"
+      }
+    },
+    "II.1": {
+      "sr": {
+        "before": "Možda se nekima čini neobičnim o"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.1\r\n\r\nꙖко"
+      }
+    },
+    "II.2": {
+      "sr": {
+        "before": "Razmotri, ti koji ideš na sud, š"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.2\r\n\r\nО н"
+      }
+    },
+    "II.3": {
+      "sr": {
+        "before": "Građa dobroga čoveka jeste njego"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.3\r\n\r\nЧто"
+      }
+    },
+    "II.4": {
+      "sr": {
+        "before": "Dok je Epiktet govorio da je čov"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.4\r\n\r\nПро"
+      }
+    },
+    "II.5": {
+      "sr": {
+        "before": "Stvari su same po sebi ravnodušn"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.5\r\n\r\nКак"
+      }
+    },
+    "II.6": {
+      "sr": {
+        "before": "Pretpostavljeni iskaz je ravnodu"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.6\r\n\r\nО б"
+      }
+    },
+    "II.7": {
+      "sr": {
+        "before": "Zbog nerazumnog pristupanja pror"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.7\r\n\r\nКак"
+      }
+    },
+    "II.8": {
+      "sr": {
+        "before": "Bog je koristan, a i dobro je ko"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.8\r\n\r\nЧто"
+      }
+    },
+    "II.9": {
+      "sr": {
+        "before": "Nije dovoljno samo biti čovek da"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.9\r\n\r\nКак"
+      }
+    },
+    "II.10": {
+      "sr": {
+        "before": "Razmotri ko si.\r\n\r\nPre svega, čo"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.10\r\n\r\nКа"
+      }
+    },
+    "II.11": {
+      "sr": {
+        "before": "Početak filozofije, barem za one"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.11\r\n\r\nЧт"
+      }
+    },
+    "II.12": {
+      "sr": {
+        "before": "Naši su filozofi prilično tačno "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.12\r\n\r\nО "
+      }
+    },
+    "II.13": {
+      "sr": {
+        "before": "Kada vidim čoveka u teskobi, gov"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.13\r\n\r\nО "
+      }
+    },
+    "II.14": {
+      "sr": {
+        "before": "Kada je neki Rimljanin došao k n"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.14\r\n\r\nКъ"
+      }
+    },
+    "II.15": {
+      "sr": {
+        "before": "Da sve treba čvrsto držati ono š"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.15\r\n\r\nКъ"
+      }
+    },
+    "II.16": {
+      "sr": {
+        "before": "Gde je dobro?\r\n\r\nU proizvoljenju"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.16\r\n\r\nꙖк"
+      }
+    },
+    "II.17": {
+      "sr": {
+        "before": "Predpojmovi su svim ljudima zaje"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.17\r\n\r\nКа"
+      }
+    },
+    "II.18": {
+      "sr": {
+        "before": "Svaka navika i sposobnost održav"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.18\r\n\r\nКа"
+      }
+    },
+    "II.19": {
+      "sr": {
+        "before": "Gospodareći dokaz, izgleda, pola"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.19\r\n\r\nПр"
+      }
+    },
+    "II.20": {
+      "sr": {
+        "before": "Čak i oni koji poriču da postoji"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.20\r\n\r\nПр"
+      }
+    },
+    "II.21": {
+      "sr": {
+        "before": "Neke stvari ljudi lako priznaju,"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.21\r\n\r\nО "
+      }
+    },
+    "II.22": {
+      "sr": {
+        "before": "Čemu god čovek posvećuje pažnju,"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.22\r\n\r\nО "
+      }
+    },
+    "II.23": {
+      "sr": {
+        "before": "Čak i Epikur razume da smo po pr"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.23\r\n\r\nПр"
+      }
+    },
+    "II.24": {
+      "sr": {
+        "before": "Teškoće pokazuju kakvi su ljudi."
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.24\r\n\r\nКа"
+      }
+    },
+    "II.25": {
+      "sr": {
+        "before": "Kada neko od prisutnih reče:\r\n\r\n"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.25\r\n\r\nКа"
+      }
+    },
+    "II.26": {
+      "sr": {
+        "before": "Svaka zabluda sadrži protivrečno"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори II.26\r\n\r\nЧт"
+      }
+    },
+    "III.1": {
+      "sr": {
+        "before": "Kada neki mladi retor dođe k nje"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.1\r\n\r\nО "
+      }
+    },
+    "III.2": {
+      "sr": {
+        "before": "Tri su oblasti u kojima se mora "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.2\r\n\r\nВъ"
+      }
+    },
+    "III.3": {
+      "sr": {
+        "before": "Građa razboritoga i valjanoga čo"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.3\r\n\r\nЧт"
+      }
+    },
+    "III.4": {
+      "sr": {
+        "before": "Kada je jedan upravitelj gradova"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.4\r\n\r\nКъ"
+      }
+    },
+    "III.5": {
+      "sr": {
+        "before": "Odlazim, kaže neko, možda se viš"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.5\r\n\r\nКъ"
+      }
+    },
+    "III.6": {
+      "sr": {
+        "before": "Kada se neko hvalio da ume razum"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.6\r\n\r\nРа"
+      }
+    },
+    "III.7": {
+      "sr": {
+        "before": "Kada mu dođe upravitelj, koji je"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.7\r\n\r\nКъ"
+      }
+    },
+    "III.8": {
+      "sr": {
+        "before": "Kao što se vežbamo protiv sofist"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.8\r\n\r\nКа"
+      }
+    },
+    "III.9": {
+      "sr": {
+        "before": "Neki besednik koji je išao u Rim"
+      },
+      "stsl": {
+        "before": "Пришьдъшѹ къ немѹ нѣкоємѹ риторѹ"
+      }
+    },
+    "III.10": {
+      "sr": {
+        "before": "Kada se ukaže potreba, naći ćeš "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.10\r\n\r\nК"
+      }
+    },
+    "III.11": {
+      "sr": {
+        "before": "Postoje kazne, kao zakonom određ"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.11\r\n\r\nР"
+      }
+    },
+    "III.12": {
+      "sr": {
+        "before": "Ne treba se vežbati u stvarima p"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.12\r\n\r\nО"
+      }
+    },
+    "III.13": {
+      "sr": {
+        "before": "Samoća je stanje bespomoćnoga čo"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.13\r\n\r\nЧ"
+      }
+    },
+    "III.14": {
+      "sr": {
+        "before": "Onaj koji pred ljudima objavljuj"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.14\r\n\r\nР"
+      }
+    },
+    "III.15": {
+      "sr": {
+        "before": "U svakom delu gledaj šta mu pret"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.15\r\n\r\nꙖ"
+      }
+    },
+    "III.16": {
+      "sr": {
+        "before": "Neizbežno je da se čovek, ako se"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.16\r\n\r\nꙖ"
+      }
+    },
+    "III.17": {
+      "sr": {
+        "before": "Kada god nekoga optužuješ, znaj "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.17\r\n\r\nО"
+      }
+    },
+    "III.18": {
+      "sr": {
+        "before": "Kad god ti stigne neka uznemiruj"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.18\r\n\r\nꙖ"
+      }
+    },
+    "III.19": {
+      "sr": {
+        "before": "Prvo je svojstvo prostoga čoveka"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.19\r\n\r\nК"
+      }
+    },
+    "III.20": {
+      "sr": {
+        "before": "Upravo je to svojstvo razumnoga "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.20\r\n\r\nꙖ"
+      }
+    },
+    "III.21": {
+      "sr": {
+        "before": "Oni koji su od filozofa primili "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.21\r\n\r\nО"
+      }
+    },
+    "III.22": {
+      "sr": {
+        "before": "Kada je jedan njegov poznanik, k"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.22\r\n\r\nО"
+      }
+    },
+    "III.23": {
+      "sr": {
+        "before": "Najpre reci samome sebi kakav ho"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.23\r\n\r\nК"
+      }
+    },
+    "III.24": {
+      "sr": {
+        "before": "Nemoj dopustiti da te išta što t"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.24\r\n\r\nꙖ"
+      }
+    },
+    "III.25": {
+      "sr": {
+        "before": "Razmotri ono što si sebi jednom "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.25\r\n\r\nК"
+      }
+    },
+    "III.26": {
+      "sr": {
+        "before": "Zar se ne stidiš što si strašlji"
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори III.26\r\n\r\nК"
+      }
+    },
+    "IV.1": {
+      "sr": {
+        "before": "Slobodan je onaj koji živi kako "
+      },
+      "stsl": {
+        "before": "Епиктетъ — Разговори IV.1\r\n\r\nО свободѣ ·"
+      }
+    },
+    "IV.2": {
+      "sr": {
+        "before": "Pre svega na ovome mestu moraš p"
+      },
+      "stsl": {
+        "before": "Прѣжде вьсѣхъ на семь мѣстѣ вним"
+      }
+    },
+    "IV.3": {
+      "sr": {
+        "before": "Ovu misao drži spremnu: kad izgu"
+      },
+      "stsl": {
+        "before": "Се готово имѣи · єгда чьто отъ в"
+      }
+    },
+    "IV.4": {
+      "sr": {
+        "before": "Pamti da čoveka ne čini niskim i"
+      },
+      "stsl": {
+        "before": "Помьни · ꙗко не тъкмо желаніѥ вл"
+      }
+    },
+    "IV.5": {
+      "sr": {
+        "before": "Valjan čovek niti se sam svađa s"
+      },
+      "stsl": {
+        "before": "Добръ чловѣкъ ни самъ съ кымь св"
+      }
+    },
+    "IV.6": {
+      "sr": {
+        "before": "Žalostim se, veli, kada me sažal"
+      },
+      "stsl": {
+        "before": "Печалѹѭ сѧ · глаголєть · єгда мѧ"
+      }
+    },
+    "IV.7": {
+      "sr": {
+        "before": "Šta tiranina čini strašnim?\n\nKop"
+      },
+      "stsl": {
+        "before": "Чьто мѫчителѧ страшна творить ·\n"
+      }
+    },
+    "IV.8": {
+      "sr": {
+        "before": "Nikada prema onome što je zajedn"
+      },
+      "stsl": {
+        "before": "Николи же отъ общиихъ ни хвалите"
+      }
+    },
+    "IV.9": {
+      "sr": {
+        "before": "Kad vidiš drugoga na vlasti, tom"
+      },
+      "stsl": {
+        "before": "Єгда иного видиши властвѹѭшта · "
+      }
+    },
+    "IV.10": {
+      "sr": {
+        "before": "Svi ljudi zapadaju u nedoumicu o"
+      },
+      "stsl": {
+        "before": "Недоѹмѣніѥ всѣмъ чловѣкомъ о вън"
+      }
+    },
+    "IV.11": {
+      "sr": {
+        "before": "Neki osporavaju da društvenost p"
+      },
+      "stsl": {
+        "before": "Прѣпираѭть сѧ нѣции · аште въ єс"
+      }
+    },
+    "IV.12": {
+      "sr": {
+        "before": "Kada nakratko napustiš pažnju, n"
+      },
+      "stsl": {
+        "before": "Єгда на мало оставиши въниманіѥ "
+      }
+    },
+    "IV.13": {
+      "sr": {
+        "before": "Kada nam se učini da je neko otv"
+      },
+      "stsl": {
+        "before": "Єгда къто намъ просто мьнить сѧ "
+      }
+    }
+  }
+}

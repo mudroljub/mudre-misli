@@ -5,9 +5,14 @@
 ### Poravnati sidra svih celih dela
 
 - proveriti svih 12 dela prema kanonskim granicama grčkog izvornika;
-- dovršiti mape za dela koja ih još nemaju, naročito Platonovog `Iona` i
-  `Parmenida`, Epiktetovih `Razgovora` i `Priručnika` i četiri Epikurova dela;
-- ne menjati tekst tokom poravnanja; nerešene slučajeve voditi u
+- dovršiti mape za dela koja ih još nemaju, naročito Platonovog `Parmenida`,
+  Epiktetovih `Razgovora` i preostala tri Epikurova dela (`Priručnik` je
+  proveren i mapiran u svih 53 odeljka; `Pismo Menoikeju` poravnato je prema
+  odeljcima X.122–135; `Parmenid` je proveren i mapiran u svih 195 Stefanovih
+  odeljaka 126a–166c; `Razgovori` su provereni i mapirani u svih 95 poglavlja
+  I.1–IV.13, uz zabeležene tekstualne praznine u knjigama I i II);
+- tokom poravnanja odmah ispraviti očigledne tekstualne greške, poput
+  dupliranih odlomaka; ostale nerešene slučajeve voditi u
   `docs/PROBLEMI_CELIH_DELA.md`;
 - posle svakog dela pokrenuti proveru sidara i `npm run build:data`.
 
@@ -51,3 +56,4 @@ probleme.
 
 - napraviti spisak filozofski najvažnijih termina i u rečniku naglasiti samo
   njihove cele redove, u sva tri jezika;
+- odlučiti da li zaseban font za stsls ćirilicu i ostalo ili jedan za sve?

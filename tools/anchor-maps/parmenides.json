@@ -1,0 +1,1565 @@
+{
+  "work": "plato/parmenides",
+  "anchors": {
+    "126a": {
+      "sr": {
+        "before": "Kada smo od kuće iz Klazomene st"
+      },
+      "stsl": {
+        "before": "Егда отъ Клазоменъ въ Аѳинꙑ прии"
+      }
+    },
+    "126b": {
+      "sr": {
+        "before": "A ja rekoh:\r\n\r\n— Kako se zvao va"
+      },
+      "stsl": {
+        "before": "Азъ же рѣхъ ·\r\n\r\n— Братѹ вашемѹ "
+      }
+    },
+    "126c": {
+      "sr": {
+        "before": "prijatelja, i da je od Pitodora,"
+      },
+      "stsl": {
+        "before": "дрѹгѹ · многажды сърѣташе · и сл"
+      }
+    },
+    "127a": {
+      "sr": {
+        "before": "Rekavši to, pođosmo i zatekosmo "
+      },
+      "stsl": {
+        "before": "Се рекъше поидохомъ · и обрѣтохо"
+      }
+    },
+    "127b": {
+      "sr": {
+        "before": "Zenon i Parmenid. Parmenid je ta"
+      },
+      "stsl": {
+        "before": "Зинонъ и Парменидъ · Парменидъ ѹ"
+      }
+    },
+    "127c": {
+      "sr": {
+        "before": "Pitodora, izvan zidina, u Kerame"
+      },
+      "stsl": {
+        "before": "Пѵѳодора обитахѫ · внѣ стѣнъ въ "
+      }
+    },
+    "127d": {
+      "sr": {
+        "before": "on sam ušao spolja, a s njim Par"
+      },
+      "stsl": {
+        "before": "самъ извънѹ вьниде · и Парменидъ"
+      }
+    },
+    "127e": {
+      "sr": {
+        "before": "— Kako to kažeš, Zenone? Ako su "
+      },
+      "stsl": {
+        "before": "— Како · рече · о Зиноне · се гл"
+      }
+    },
+    "128a": {
+      "sr": {
+        "before": "ne postoje? I smatraš li da je sv"
+      },
+      "stsl": {
+        "before": "не сѫть · И сего ли самого мьниши"
+      }
+    },
+    "128b": {
+      "sr": {
+        "before": "sve jedno, i za to pružaš lepe i"
+      },
+      "stsl": {
+        "before": "вьсе · и семѹ знамениꙗ добра и к"
+      }
+    },
+    "128c": {
+      "sr": {
+        "before": "poput lakonskih kuja, dobro prat"
+      },
+      "stsl": {
+        "before": "ꙗко лаконьскꙑѩ пси добрѣ въслѣдѹ"
+      }
+    },
+    "128d": {
+      "sr": {
+        "before": "da ga izvrgnu ruglu, govoreći da"
+      },
+      "stsl": {
+        "before": "єго посмѣꙗти · глаголѭщимъ ꙗко а"
+      }
+    },
+    "128e": {
+      "sr": {
+        "before": "pustiti među ljude ili ne. U tom"
+      },
+      "stsl": {
+        "before": "издати є людемъ или ни · Въ семь"
+      }
+    },
+    "129a": {
+      "sr": {
+        "before": "neki vid sličnosti, a opet njemu"
+      },
+      "stsl": {
+        "before": "нѣкыи видъ подобиꙗ быти · и семѹ"
+      }
+    },
+    "129b": {
+      "sr": {
+        "before": "šta je u tome čudno?\r\n\r\nJer ako"
+      },
+      "stsl": {
+        "before": "что чюдьно ·\r\n\r\nАще бо кто самаꙗ"
+      }
+    },
+    "129c": {
+      "sr": {
+        "before": "jedno, tome bih se već čudio.\r\n"
+      },
+      "stsl": {
+        "before": "єдино · семѹ ѹже чюдилъ бꙑмъ сѧ"
+      }
+    },
+    "129d": {
+      "sr": {
+        "before": "A da sam jedno, pokazaće, mislim"
+      },
+      "stsl": {
+        "before": "Єдино же ꙗко єсмь · покажеть · м"
+      }
+    },
+    "129e": {
+      "sr": {
+        "before": "i jedno, mirovanje i kretanje i "
+      },
+      "stsl": {
+        "before": "и єдино · стоꙗниѥ и движениѥ · и"
+      }
+    },
+    "130a": {
+      "sr": {
+        "before": "na sve načine isprepleten u sami"
+      },
+      "stsl": {
+        "before": "всѧко сплетаѥмъ показати · и ꙗко"
+      }
+    },
+    "130b": {
+      "sr": {
+        "before": "divljenja zbog svoje težnje ka s"
+      },
+      "stsl": {
+        "before": "дивлениꙗ ради стремлениꙗ къ слов"
+      }
+    },
+    "130c": {
+      "sr": {
+        "before": "— A šta je sa čovekom? Postoji l"
+      },
+      "stsl": {
+        "before": "— Что же · человѣкѹ ли видъ особ"
+      }
+    },
+    "130d": {
+      "sr": {
+        "before": "postoji za svako zaseban vid, ra"
+      },
+      "stsl": {
+        "before": "кождомѹ видъ особь быти · иныи п"
+      }
+    },
+    "130e": {
+      "sr": {
+        "before": "— Još si mlad, Sokrate — reče Pa"
+      },
+      "stsl": {
+        "before": "— Юнъ бо єси еще · рече Парменид"
+      }
+    },
+    "131a": {
+      "sr": {
+        "before": "postaju pravedne i krasne?\r\n\r\n— "
+      },
+      "stsl": {
+        "before": "праведьна и красна бываѭть ·\r\n\r\n"
+      }
+    },
+    "131b": {
+      "sr": {
+        "before": "— Onda će, budući jedan i isti, c"
+      },
+      "stsl": {
+        "before": "— Єдинъ ѹбо и тъ жде сꙑи · вьсь"
+      }
+    },
+    "131c": {
+      "sr": {
+        "before": "— Možda — reče.\n\r\n— Da li bi, da"
+      },
+      "stsl": {
+        "before": "— Можеть быти · рече ·\n\r\n— Вьсе "
+      }
+    },
+    "131d": {
+      "sr": {
+        "before": "velikih stvari bude veliko delom"
+      },
+      "stsl": {
+        "before": "великихъ дѣломъ величьства · мен"
+      }
+    },
+    "131e": {
+      "sr": {
+        "before": "postaće manje nego pre, a ne već"
+      },
+      "stsl": {
+        "before": "меньше бѫдеть нежели прѣжде · а "
+      }
+    },
+    "132a": {
+      "sr": {
+        "before": "— Mislim da ti svaki pojedini vi"
+      },
+      "stsl": {
+        "before": "— Мьнѭ тѧ отъ таковааго кождо єд"
+      }
+    },
+    "132b": {
+      "sr": {
+        "before": "neki drugi, po kojem će sve to b"
+      },
+      "stsl": {
+        "before": "инъ нѣкыи · имьже всѧ сиꙗ велика"
+      }
+    },
+    "132c": {
+      "sr": {
+        "before": "— O suštom ili nesuštom?"
+      },
+      "stsl": {
+        "before": "— Сѫщааго ли или несѫщааго ·"
+      }
+    },
+    "132d": {
+      "sr": {
+        "before": "meni se čini da je ovako: ti vid"
+      },
+      "stsl": {
+        "before": "тако ми паче мьнить сѧ · видꙑ си"
+      }
+    },
+    "132e": {
+      "sr": {
+        "before": "te istom?"
+      },
+      "stsl": {
+        "before": "того жде причѧщати сѧ ·"
+      }
+    },
+    "133a": {
+      "sr": {
+        "before": "a ako taj bude nečemu sličan, o"
+      },
+      "stsl": {
+        "before": "и аще онъ нѣчьсомѹ подобьнъ бѫд"
+      }
+    },
+    "133b": {
+      "sr": {
+        "before": "koliki je bezizlaz, ako za svako"
+      },
+      "stsl": {
+        "before": "коликъ єсть безысходъ · аще кожд"
+      }
+    },
+    "133c": {
+      "sr": {
+        "before": "neubeđen onaj koji tvrdi da su v"
+      },
+      "stsl": {
+        "before": "неѹвѣренъ осталъ бы глаголѧи · "
+      }
+    },
+    "133d": {
+      "sr": {
+        "before": "nas, bilo da to smatramo njihovi"
+      },
+      "stsl": {
+        "before": "насъ сѫть · аще приличьꙗ ихъ мь"
+      }
+    },
+    "134a": {
+      "sr": {
+        "before": "niti je gospodar gospodar samoga"
+      },
+      "stsl": {
+        "before": "ни господинъ самого раба · єже є"
+      }
+    },
+    "134b": {
+      "sr": {
+        "before": "suštastva kod nas?\r\n\r\n— Nužno."
+      },
+      "stsl": {
+        "before": "сѫщьства ꙗже въ насъ знаниѥ быт"
+      }
+    },
+    "134c": {
+      "sr": {
+        "before": "dobro i sve što uzimamo kao same"
+      },
+      "stsl": {
+        "before": "добро · и всѧ ꙗже ꙗко самꙑѩ виж"
+      }
+    },
+    "134d": {
+      "sr": {
+        "before": "— Hoće li onda bog, imajući samo"
+      },
+      "stsl": {
+        "before": "— Можьнъ ли ѹбо пакꙑ бѫдеть бог"
+      }
+    },
+    "134e": {
+      "sr": {
+        "before": "niti bi njihovo znanje spoznaval"
+      },
+      "stsl": {
+        "before": "ни знаниѥ ихъ насъ познаѥть · н"
+      }
+    },
+    "135a": {
+      "sr": {
+        "before": "mnoge druge teškoće nužno imaju "
+      },
+      "stsl": {
+        "before": "ина многа нѫждеѭ имѫть види · "
+      }
+    },
+    "135b": {
+      "sr": {
+        "before": "samo po sebi; a još čudesniji on"
+      },
+      "stsl": {
+        "before": "само по себѣ · и еще дивьнѣишаа"
+      }
+    },
+    "135c": {
+      "sr": {
+        "before": "viđa svakog suštog uvek bude ist"
+      },
+      "stsl": {
+        "before": "виждѣ кождого сѫщааго присно то"
+      }
+    },
+    "135d": {
+      "sr": {
+        "before": "svaki pojedini vid. To sam prime"
+      },
+      "stsl": {
+        "before": "кождъ єдинъ видъ · Се бо разѹмѣх"
+      }
+    },
+    "136a": {
+      "sr": {
+        "before": "— Na primer — reče — ako hoćeš, "
+      },
+      "stsl": {
+        "before": "— Ꙗкоже · рече · аще хощеши · о "
+      }
+    },
+    "136b": {
+      "sr": {
+        "after": "šta će slediti i jednom i mnogima, i "
+      },
+      "stsl": {
+        "after": "что послѣдѹѥть и єдиномѹ и многимъ · и "
+      }
+    },
+    "136c": {
+      "sr": {
+        "before": "za njega samoga i za svako drugo"
+      },
+      "stsl": {
+        "before": "ємѹ самомѹ и кождомѹ иномѹ єдин"
+      }
+    },
+    "136d": {
+      "sr": {
+        "before": "— Parmenide — reče — govoriš o b"
+      },
+      "stsl": {
+        "before": "— О Пармениде · рече · безконьчь"
+      }
+    },
+    "136e": {
+      "sr": {
+        "before": "Mnoštvo, naime, ne zna da bez ov"
+      },
+      "stsl": {
+        "before": "Множьство бо не вѣсть · ꙗко без"
+      }
+    },
+    "137a": {
+      "sr": {
+        "before": "koji, kada treba da se nadmeće k"
+      },
+      "stsl": {
+        "before": "иже · єгда колесничьнꙑмъ подвиг"
+      }
+    },
+    "137b": {
+      "sr": {
+        "before": "— Odakle ćemo, dakle, početi i š"
+      },
+      "stsl": {
+        "before": "— Отъкѫдѹ ѹбо начьнемъ · и что п"
+      }
+    },
+    "137c": {
+      "sr": {
+        "before": "— Spreman sam ti na to, Parmenid"
+      },
+      "stsl": {
+        "before": "— Готовъ єсмь ти на се · о Парме"
+      }
+    },
+    "137d": {
+      "sr": {
+        "before": "— Na oba načina, dakle, jedno bi bilo mn"
+      },
+      "stsl": {
+        "before": "— Обоима ѹбо єдино многа бꙑло бы"
+      }
+    },
+    "138a": {
+      "sr": {
+        "before": "— Nije, dakle, ni pravo ni okrug"
+      },
+      "stsl": {
+        "before": "— Ни право ѹбо ни крѫгло єсть · "
+      }
+    },
+    "138b": {
+      "sr": {
+        "before": "— Jer nemoguće je da nešto bude "
+      },
+      "stsl": {
+        "before": "— Въ чемь бо быти · не обьѥмлѭще"
+      }
+    },
+    "138c": {
+      "sr": {
+        "before": "— Jer krećući se, ili bi se pren"
+      },
+      "stsl": {
+        "before": "— Движѧ сѧ бо · или носило сѧ бы"
+      }
+    },
+    "138d": {
+      "sr": {
+        "before": "— Nužno je, dakle, da se ono što"
+      },
+      "stsl": {
+        "before": "— Нѫжда ѹбо крѫгомъ обращаѭщемѹ "
+      }
+    },
+    "138e": {
+      "sr": {
+        "before": "— A ako bi nešto to trpelo, samo"
+      },
+      "stsl": {
+        "before": "— Аще же что се постраждеть · єже"
+      }
+    },
+    "139a": {
+      "sr": {
+        "before": "— Dakle, niti idući nekuda i nas"
+      },
+      "stsl": {
+        "before": "— Ни ѹбо камо идꙑ и въ чемь быва"
+      }
+    },
+    "139b": {
+      "sr": {
+        "before": "— Ali ono što nikada nije u isto"
+      },
+      "stsl": {
+        "before": "— Нъ єже никогда въ томьжде не є"
+      }
+    },
+    "139c": {
+      "sr": {
+        "before": "a samo više ne bi bilo ono što j"
+      },
+      "stsl": {
+        "before": "само же не бꙑло бы · тѣмьже ни "
+      }
+    },
+    "139d": {
+      "sr": {
+        "before": "— Pravo.\r\n\r\n— Niti će pak biti i"
+      },
+      "stsl": {
+        "before": "— Право ·\r\n\r\n— Ни пакꙑ тожде себ"
+      }
+    },
+    "139e": {
+      "sr": {
+        "before": "— Svakako.\r\n\r\n— Ako bi, dakle, j"
+      },
+      "stsl": {
+        "before": "— Вьсѣко ·\r\n\r\n— Аще ѹбо єдино се"
+      }
+    },
+    "140a": {
+      "sr": {
+        "before": "— Jeste.\r\n\r\n— Ali ako bi jedno t"
+      },
+      "stsl": {
+        "before": "— Єсть бо ·\r\n\r\n— Нъ аще єдино чт"
+      }
+    },
+    "140b": {
+      "sr": {
+        "before": "ili drugome, ako je ono što trpi"
+      },
+      "stsl": {
+        "before": "или иномѹ · аще єже тожде постра"
+      }
+    },
+    "140c": {
+      "sr": {
+        "before": "ili manje, od onih sa kojima je "
+      },
+      "stsl": {
+        "before": "или мьньше сꙑ · съ нимиже съмѣр"
+      }
+    },
+    "140d": {
+      "sr": {
+        "before": "i tako opet više ne bi bilo jedn"
+      },
+      "stsl": {
+        "before": "и тако пакꙑ не єдино бѫдеть · н"
+      }
+    },
+    "140e": {
+      "sr": {
+        "before": "— A šta? Čini li se mogućim da j"
+      },
+      "stsl": {
+        "before": "— Что же · мнить ли сѧ мощьно єд"
+      }
+    },
+    "141a": {
+      "sr": {
+        "before": "— Kako bi onda takvo moglo biti "
+      },
+      "stsl": {
+        "before": "— Како ѹбо тако сꙑ можеть или ст"
+      }
+    },
+    "141b": {
+      "sr": {
+        "before": "— Postajući, dakle, starije od s"
+      },
+      "stsl": {
+        "before": "— Старѣише ѹбо себе бываѩ · и мл"
+      }
+    },
+    "141c": {
+      "sr": {
+        "before": "nikako drukčije."
+      },
+      "stsl": {
+        "before": "и инако никакоже ·"
+      }
+    },
+    "141d": {
+      "sr": {
+        "before": "— Nužno je, dakle, kako izgleda,"
+      },
+      "stsl": {
+        "before": "— Нѫжда ѹбо єсть · ꙗкоже видить "
+      }
+    },
+    "141e": {
+      "sr": {
+        "before": "— A šta? „Bude“, „postaće“ i „bu"
+      },
+      "stsl": {
+        "before": "— Что же · бѫдеть и бѫдеть быват"
+      }
+    },
+    "142a": {
+      "sr": {
+        "before": "— Dakle, nije ni tako da jeste j"
+      },
+      "stsl": {
+        "before": "— Ни ѹбо тако єсть · ꙗко єдино б"
+      }
+    },
+    "142b": {
+      "sr": {
+        "before": "— Hoćeš li, dakle, da se ponovo "
+      },
+      "stsl": {
+        "before": "— Хощеши ли ѹбо пакꙑ къ подставѹ"
+      }
+    },
+    "142c": {
+      "sr": {
+        "before": "ono, jedno, u njemu učestvovalo"
+      },
+      "stsl": {
+        "before": "оно · єдино · єго причѧщало сѧ"
+      }
+    },
+    "142e": {
+      "sr": {
+        "before": "— Šta onda? Da li se svaki od ov"
+      },
+      "stsl": {
+        "before": "— Что ѹбо · отъ сею дѣлѹ єдинаго"
+      }
+    },
+    "143a": {
+      "sr": {
+        "before": "— Dakle, opet svaki od delova im"
+      },
+      "stsl": {
+        "before": "— Пакꙑ ѹбо кождъ отъ дѣловъ и єд"
+      }
+    },
+    "143b": {
+      "sr": {
+        "before": "— Pogledajmo onda. Nije li nužno"
+      },
+      "stsl": {
+        "before": "— Виждѣмъ ѹбо · не нѫжда ли ино "
+      }
+    },
+    "143c": {
+      "sr": {
+        "before": "— Šta onda? Ako od njih izaberem"
+      },
+      "stsl": {
+        "before": "— Что ѹбо · аще отъ нихъ изберем"
+      }
+    },
+    "143d": {
+      "sr": {
+        "before": "— A ono dvoje što se pravo naziv"
+      },
+      "stsl": {
+        "before": "— Обоѥ же єже право обоѥ нарицаѥ"
+      }
+    },
+    "143e": {
+      "sr": {
+        "before": "— A šta? Ako postoje dva, nije l"
+      },
+      "stsl": {
+        "before": "— Что же · дъвѣма сѫщема · не нѫ"
+      }
+    },
+    "144a": {
+      "sr": {
+        "before": "— Bude, dakle, parno puta parno,"
+      },
+      "stsl": {
+        "before": "— Четъ ѹбо четомъ бѫдеть · и неч"
+      }
+    },
+    "144b": {
+      "sr": {
+        "before": "— Suštastvo je, dakle, razdeljen"
+      },
+      "stsl": {
+        "before": "— По вьсѣмъ ѹбо многꙑмъ сѫщимъ с"
+      }
+    },
+    "144c": {
+      "sr": {
+        "before": "delovi suštastva su beskrajni."
+      },
+      "stsl": {
+        "before": "бескраи дѣли сѫщьства сѫть"
+      }
+    },
+    "144d": {
+      "sr": {
+        "before": "budući jedno, celo jeste istovremeno"
+      },
+      "stsl": {
+        "before": "сꙑ · на мноѕѣхъ ли мѣстѣхъ"
+      }
+    },
+    "144e": {
+      "sr": {
+        "before": "na jednako; jer niti sušto izostaje"
+      },
+      "stsl": {
+        "before": "равно · ꙗкоже видить сѧ · ни бо"
+      }
+    },
+    "145a": {
+      "sr": {
+        "before": "— A budući da su delovi delovi c"
+      },
+      "stsl": {
+        "before": "— И понеже дѣли цѣлаго дѣли сѫть"
+      }
+    },
+    "145b": {
+      "sr": {
+        "before": "— Jedno bi, dakle, kako izgleda, imalo i"
+      },
+      "stsl": {
+        "before": "— И начало ѹбо · ꙗкоже видить сѧ"
+      }
+    },
+    "145c": {
+      "sr": {
+        "before": "— A svi delovi obuhvaćeni su cel"
+      },
+      "stsl": {
+        "before": "— Вьси же дѣли цѣлꙑмь обьѥмлѭтъ "
+      }
+    },
+    "145d": {
+      "sr": {
+        "before": "— Ali celina opet nije u delovim"
+      },
+      "stsl": {
+        "before": "— Нъ цѣло пакꙑ не въ дѣлѣхъ єсть"
+      }
+    },
+    "145e": {
+      "sr": {
+        "before": "— A ako nije nigde, ne bi bilo n"
+      },
+      "stsl": {
+        "before": "— Нигдѣже ѹбо сꙑ · ничтоже бꙑло "
+      }
+    },
+    "146a": {
+      "sr": {
+        "before": "— Stoji, valjda, ako je samo u s"
+      },
+      "stsl": {
+        "before": "— Стоить ѹбо · аще само въ себѣ "
+      }
+    },
+    "146b": {
+      "sr": {
+        "before": "— A treba da bude i isto sebi i "
+      },
+      "stsl": {
+        "before": "— И тожде себѣ и ино отъ себе бы"
+      }
+    },
+    "146c": {
+      "sr": {
+        "before": "— Ali je li jedno drugo od jednoga?"
+      },
+      "stsl": {
+        "before": "— Нъ єдино ино ли єсть отъ єдинаго"
+      }
+    },
+    "146d": {
+      "sr": {
+        "before": "bilo drugo od sebe.\r\n\r\n— Izgleda."
+      },
+      "stsl": {
+        "before": "бꙑло бы єдино ·\r\n\r\n— Видить сѧ"
+      }
+    },
+    "146e": {
+      "sr": {
+        "before": "— Ako, dakle, drugo nikada neće "
+      },
+      "stsl": {
+        "before": "— Аще ѹбо ино въ томьжде никогда"
+      }
+    },
+    "147a": {
+      "sr": {
+        "before": "— Niti bi pak druga bila druga j"
+      },
+      "stsl": {
+        "before": "— Ни пакꙑ ина дрѹгъ отъ дрѹга са"
+      }
+    },
+    "147b": {
+      "sr": {
+        "before": "— Ako su pak i jedno i druga nek"
+      },
+      "stsl": {
+        "before": "— Аще же и єдино и инаꙗ нѣкако д"
+      }
+    },
+    "147c": {
+      "sr": {
+        "before": "— Zar je, dakle, jedno i slično "
+      },
+      "stsl": {
+        "before": "— Єда ѹбо и подобьно и неподобьн"
+      }
+    },
+    "147d": {
+      "sr": {
+        "before": "— Kako kažeš?\r\n\r\n— Ovako: zar sv"
+      },
+      "stsl": {
+        "before": "— Како глаголѥши ·\r\n\r\n— Сице · к"
+      }
+    },
+    "147e": {
+      "sr": {
+        "before": "— Kada, dakle, izgovaraš „drugo“"
+      },
+      "stsl": {
+        "before": "— Єгда ѹбо ино изглаголѥши · аще"
+      }
+    },
+    "148a": {
+      "sr": {
+        "before": "— Ukoliko je, dakle, jedno drugo"
+      },
+      "stsl": {
+        "before": "— Єлико ѹбо єдино отъ инꙑхъ ино "
+      }
+    },
+    "148b": {
+      "sr": {
+        "before": "drugima.\n\n— Pokazalo se.\n\r\n— A b"
+      },
+      "stsl": {
+        "before": "инꙑмъ тожде єсть ·\n\n— Показа сѧ "
+      }
+    },
+    "148c": {
+      "sr": {
+        "before": "— Izgleda.\n\r\n— Jedno će, dakle, "
+      },
+      "stsl": {
+        "before": "— Видить сѧ ·\n\r\n— Подобьно ѹбо и"
+      }
+    },
+    "148d": {
+      "sr": {
+        "before": "— Dakle, budući jedno isto drugi"
+      },
+      "stsl": {
+        "before": "— Тожде ѹбо сꙑ єдино инꙑмъ и ино"
+      }
+    },
+    "148e": {
+      "sr": {
+        "before": "— Ukoliko je, dakle, u drugima, "
+      },
+      "stsl": {
+        "before": "— Єлико ѹбо въ инꙑхъ єсть · инꙑх"
+      }
+    },
+    "149a": {
+      "sr": {
+        "before": "— Dakle, kada bi jedno bilo dva,"
+      },
+      "stsl": {
+        "before": "— Дъва ѹбо сꙑ єдино могло бы се "
+      }
+    },
+    "149b": {
+      "sr": {
+        "before": "— A ako se dvoma krajevima prido"
+      },
+      "stsl": {
+        "before": "— Аще же къ дъвѣма краꙗма трети "
+      }
+    },
+    "149c": {
+      "sr": {
+        "before": "— Koliko god, dakle, suštih ima "
+      },
+      "stsl": {
+        "before": "— Єлико ѹбо сѫщихъ єсть по числѹ"
+      }
+    },
+    "149d": {
+      "sr": {
+        "before": "drugog broja."
+      },
+      "stsl": {
+        "before": "иного числа имене коѥго имѫтъ"
+      }
+    },
+    "149e": {
+      "sr": {
+        "before": "— Ako bi jedno bilo veće ili man"
+      },
+      "stsl": {
+        "before": "— Аще єдино велиѥ бꙑло бы инꙑхъ "
+      }
+    },
+    "150a": {
+      "sr": {
+        "before": "— Postoje, dakle, ova dva vida, "
+      },
+      "stsl": {
+        "before": "— Єста ѹбо та дъва вида · величь"
+      }
+    },
+    "150b": {
+      "sr": {
+        "before": "— Može li, dakle, malost biti ne"
+      },
+      "stsl": {
+        "before": "— Мощьно ли ѹбо малости равнѣ че"
+      }
+    },
+    "150c": {
+      "sr": {
+        "before": "— Niti će, dakle, veličina biti "
+      },
+      "stsl": {
+        "before": "— Ни ѹбо величьство въ немь бѫде"
+      }
+    },
+    "150d": {
+      "sr": {
+        "before": "— Dakle, ni druga nisu veća ni m"
+      },
+      "stsl": {
+        "before": "— Ни ѹбо инаꙗ велиꙗ єдинаго ни м"
+      }
+    },
+    "150e": {
+      "sr": {
+        "before": "ne?\n\r\n— A i samo jedno prema seb"
+      },
+      "stsl": {
+        "before": "ни ·\n\r\n— И само же єдино къ себѣ"
+      }
+    },
+    "151a": {
+      "sr": {
+        "before": "bilo bi veće od sebe, a budući obuhvaćeno"
+      },
+      "stsl": {
+        "before": "велиѥ себе бꙑло бы · обьѥмлемо"
+      }
+    },
+    "151b": {
+      "sr": {
+        "before": "ili pak nigde?"
+      },
+      "stsl": {
+        "before": "єдиномѹ въ инꙑхъ · или нигдѣже ·"
+      }
+    },
+    "151c": {
+      "sr": {
+        "before": "nego ono samo i druga; a ako ima mere"
+      },
+      "stsl": {
+        "before": "себѣ же и инꙑмъ · аще же мѣрꙑ"
+      }
+    },
+    "151d": {
+      "sr": {
+        "before": "jednake sebi.\r\n\r\n— Kako ne?"
+      },
+      "stsl": {
+        "before": "равнꙑ себѣ ·\r\n\r\n— Како бо ни"
+      }
+    },
+    "151e": {
+      "sr": {
+        "before": "kako izgleda, jedno biti i jednako"
+      },
+      "stsl": {
+        "before": "ꙗкоже видить сѧ · єдино и равно"
+      }
+    },
+    "152a": {
+      "sr": {
+        "before": "— A šta je biti drugo nego učest"
+      },
+      "stsl": {
+        "before": "— Быти же что ино єсть · развѣ п"
+      }
+    },
+    "152b": {
+      "sr": {
+        "before": "— Jedno, dakle, postajući starij"
+      },
+      "stsl": {
+        "before": "— Єдино ѹбо старѣише себе бываѩ "
+      }
+    },
+    "152c": {
+      "sr": {
+        "before": "kada dospe u sadašnje, i više ne postaje"
+      },
+      "stsl": {
+        "before": "єгда въ нꙑнѣшьнѥѥ придеть · и не к томѹ"
+      }
+    },
+    "152d": {
+      "sr": {
+        "before": "uvek prestaje da postaje i tada jeste"
+      },
+      "stsl": {
+        "before": "вьсегда прѣстаѥть бывати · и тогда"
+      }
+    },
+    "152e": {
+      "sr": {
+        "before": "sadašnje je uvek prisutno jednom"
+      },
+      "stsl": {
+        "before": "Нꙑнѣшьнѥѥ же вьсегда присѫще єсть"
+      }
+    },
+    "153a": {
+      "sr": {
+        "before": "— Da.\r\n\r\n— A šta je po prirodi p"
+      },
+      "stsl": {
+        "before": "— Да ·\r\n\r\n— Что же по природѣ пр"
+      }
+    },
+    "153b": {
+      "sr": {
+        "before": "— Najmanje, dakle, nastaje prvo;"
+      },
+      "stsl": {
+        "before": "— Мьнѣишее ѹбо пръвѣѥ бываѥть · "
+      }
+    },
+    "153c": {
+      "sr": {
+        "before": "— A šta? Zar jedno nije nastalo "
+      },
+      "stsl": {
+        "before": "— Что же · не противѹ ли своѥи п"
+      }
+    },
+    "153d": {
+      "sr": {
+        "before": "— A šta je s drugim? Nije li nuž"
+      },
+      "stsl": {
+        "before": "— Что же инаꙗ · не нѫжда ли имъ "
+      }
+    },
+    "153e": {
+      "sr": {
+        "before": "— Dakle, jedno bi nastajalo zaje"
+      },
+      "stsl": {
+        "before": "— Єдино ѹбо въкѹпѣ съ пръвꙑмь бы"
+      }
+    },
+    "154a": {
+      "sr": {
+        "before": "— Po ovom rasuđivanju, dakle, je"
+      },
+      "stsl": {
+        "before": "— По семѹ ѹбо словѹ єдино ни ста"
+      }
+    },
+    "154b": {
+      "sr": {
+        "before": "— Ne umem reći.\r\n\r\n— Ali ja mogu"
+      },
+      "stsl": {
+        "before": "— Не вѣмь рещи ·\r\n\r\n— Нъ азъ сиц"
+      }
+    },
+    "154c": {
+      "sr": {
+        "before": "— Dakle, jedno sušto nikada ne b"
+      },
+      "stsl": {
+        "before": "— Єдино ѹбо сѫщее никогда ни ста"
+      }
+    },
+    "154d": {
+      "sr": {
+        "before": "— Kada je jedno starije od drugi"
+      },
+      "stsl": {
+        "before": "— Єгда єдино старѣише инꙑхъ єсть"
+      }
+    },
+    "154e": {
+      "sr": {
+        "before": "— A ono što se po dobi manje raz"
+      },
+      "stsl": {
+        "before": "— Єже же мьньше възрастомъ отъ ч"
+      }
+    },
+    "155a": {
+      "sr": {
+        "before": "— A starije opet na isti način p"
+      },
+      "stsl": {
+        "before": "— Старѣише же пакꙑ младѣише млад"
+      }
+    },
+    "155b": {
+      "sr": {
+        "before": "— a druga postaju starija od jed"
+      },
+      "stsl": {
+        "before": "— инаꙗ же старѣиша єдинаго бываѭ"
+      }
+    },
+    "155c": {
+      "sr": {
+        "before": "— Tako bi, dakle, jedno prema dr"
+      },
+      "stsl": {
+        "before": "— Тако ѹбо єдино къ инꙑмъ и инаꙗ"
+      }
+    },
+    "155d": {
+      "sr": {
+        "before": "postaje starije i mlađe, nije li nužno"
+      },
+      "stsl": {
+        "before": "старѣише и младѣише бываѥть · не нѫжда"
+      }
+    },
+    "155e": {
+      "sr": {
+        "before": "imenuje se i slovi; i koliko god"
+      },
+      "stsl": {
+        "before": "именѹѥть сѧ и словить сѧ · и єлика"
+      }
+    },
+    "156a": {
+      "sr": {
+        "before": "— Zar onda postoji i vreme kada "
+      },
+      "stsl": {
+        "before": "— Не єсть ли ѹбо и врѣмѧ · єгда "
+      }
+    },
+    "156b": {
+      "sr": {
+        "before": "— A budući jedno i mnogo, i nast"
+      },
+      "stsl": {
+        "before": "— Єдино же сꙑ и многа · и бываѩ "
+      }
+    },
+    "156c": {
+      "sr": {
+        "before": "— A kada se krećući zaustavi, i "
+      },
+      "stsl": {
+        "before": "— Єгда же движѫще сѧ стане · и є"
+      }
+    },
+    "156d": {
+      "sr": {
+        "before": "— Postoji li, dakle, ono neobičn"
+      },
+      "stsl": {
+        "before": "— Єсть ли ѹбо се дивьно нѣчто · "
+      }
+    },
+    "156e": {
+      "sr": {
+        "before": "ne budući ni u jednom vremenu, i iz njega"
+      },
+      "stsl": {
+        "before": "ни въ єдиномь врѣмени не сѫщи"
+      }
+    },
+    "157a": {
+      "sr": {
+        "before": "— Zar tako ne stoji i sa drugim promenama? Kada iz bivanja prelazi u propadanje ili iz nebivanja u nastajanje, tada se nalazi između nekih kretanja i stajanja, i tada niti jeste niti nije, niti nastaje niti propada."
+      },
+      "stsl": {
+        "before": "— Не тако ли и о инꙑхъ измѣнениꙗхъ имать"
+      }
+    },
+    "157b": {
+      "sr": {
+        "before": "a prelazeći iz malog u veliko i jednako i obratno"
+      },
+      "stsl": {
+        "before": "и отъ малаго къ великомѹ и равномѹ · и противьно · прѣходѧ"
+      }
+    },
+    "157c": {
+      "sr": {
+        "before": "— Dakle, pošto su druga druga od jednog, druga nisu jedno"
+      },
+      "stsl": {
+        "before": "— Понеже ѹбо инаꙗ отъ єдинаго сѫть · не єдино сѫть инаꙗ"
+      }
+    },
+    "157d": {
+      "sr": {
+        "before": "— Ako bi nešto bilo deo mnogih m"
+      },
+      "stsl": {
+        "before": "— Аще что многꙑхъ дѣлъ бꙑло бы ·"
+      }
+    },
+    "157e": {
+      "sr": {
+        "before": "— ...što nazivamo celinom, nasta"
+      },
+      "stsl": {
+        "before": "— ...єже цѣло нарицаѥмъ · отъ вь"
+      }
+    },
+    "158a": {
+      "sr": {
+        "before": "— I za svaki deo važi isto rasuđ"
+      },
+      "stsl": {
+        "before": "— И о кождомь дѣлѣ то жде слово "
+      }
+    },
+    "158b": {
+      "sr": {
+        "before": "— A zar ono što učestvuje u jedn"
+      },
+      "stsl": {
+        "before": "— Не ѹбо причѧщаѭщаꙗ сѧ єдинаго "
+      }
+    },
+    "158c": {
+      "sr": {
+        "before": "— Pogledajmo ovako. Zar onda kad"
+      },
+      "stsl": {
+        "before": "— Сице смотримъ · єда єгда єдина"
+      }
+    },
+    "158d": {
+      "sr": {
+        "before": "— A kada svaki deo postane deo, "
+      },
+      "stsl": {
+        "before": "— Єгда же кождъ дѣлъ дѣлъ бѫдеть"
+      }
+    },
+    "158e": {
+      "sr": {
+        "before": "— Zar onda nisu i slična i nesli"
+      },
+      "stsl": {
+        "before": "— Не ѹбо и подобьна и неподобьна сѫть се"
+      }
+    },
+    "159a": {
+      "sr": {
+        "before": "— A protivnosti su međusobno što"
+      },
+      "stsl": {
+        "before": "— Противьна же дрѹгъ дрѹгѹ елико"
+      }
+    },
+    "159b": {
+      "sr": {
+        "before": "ova.\n\n— Pravo govoriš.\n\r\n— Ako, "
+      },
+      "stsl": {
+        "before": "си пострадати показа сѧ ·\n\n— Пра"
+      }
+    },
+    "159c": {
+      "sr": {
+        "before": "— Sve, zaista.\r\n\r\n— Nema, dakle,"
+      },
+      "stsl": {
+        "before": "— Вьсѧ бо ·\r\n\r\n— Нѣсть ѹбо к том"
+      }
+    },
+    "159d": {
+      "sr": {
+        "before": "— Ni na koji način, dakle, druga ne bi u"
+      },
+      "stsl": {
+        "before": "— Ни коимь ѹбо образомъ инаꙗ єди"
+      }
+    },
+    "159e": {
+      "sr": {
+        "before": "— Ni sama druga, dakle, nisu sli"
+      },
+      "stsl": {
+        "before": "— Ни сама ѹбо инаꙗ ни подобьна н"
+      }
+    },
+    "160a": {
+      "sr": {
+        "before": "— Nisu, dakle, ni ista ni druga,"
+      },
+      "stsl": {
+        "before": "— Ни тожде ѹбо ни ина сѫть · ни "
+      }
+    },
+    "160b": {
+      "sr": {
+        "before": "— Sasvim istinito.\r\n\r\n— Ako jedno jeste"
+      },
+      "stsl": {
+        "before": "— Вьсѣко истиньно ·\r\n\r\n— Аще ѹбо єдино єсть"
+      }
+    },
+    "160c": {
+      "sr": {
+        "before": "sasvim protivno reći „ako ne-jedno nije“"
+      },
+      "stsl": {
+        "before": "вьсѣмь противьно єсть рещи · аще не єдино"
+      }
+    },
+    "160d": {
+      "sr": {
+        "before": "nebivanje. Zar ne?"
+      },
+      "stsl": {
+        "before": "небꙑтиѥ · не тако ли"
+      }
+    },
+    "160e": {
+      "sr": {
+        "before": "jer kada kaže da jedno nije, ne govori"
+      },
+      "stsl": {
+        "before": "єгда бо речеть · ꙗко єдино нѣсть"
+      }
+    },
+    "161a": {
+      "sr": {
+        "before": "mnogim drugim stvarima.\r\n\r\n— Mora."
+      },
+      "stsl": {
+        "before": "многꙑхъ ·\r\n\r\n— Нѫжда"
+      }
+    },
+    "161b": {
+      "sr": {
+        "before": "neslično njemu.\r\n\r\n— Svakako."
+      },
+      "stsl": {
+        "before": "неподобьно ємѹ бꙑло бы ·\r\n\r\n— Вьсѣко"
+      }
+    },
+    "161c": {
+      "sr": {
+        "before": "— Svakako.\r\n\r\n— Ali to ne treba."
+      },
+      "stsl": {
+        "before": "— Вьсѣко ·\r\n\r\n— Нъ не подобаѥть"
+      }
+    },
+    "161d": {
+      "sr": {
+        "before": "zato što su jedne veće, a druge manje"
+      },
+      "stsl": {
+        "before": "ꙗко ова велиꙗша · ова же мьньша"
+      }
+    },
+    "161e": {
+      "sr": {
+        "before": "— Izgleda.\r\n\r\n— Jednom koje nije"
+      },
+      "stsl": {
+        "before": "— Видить сѧ ·\r\n\r\n— Єдиномѹ ѹбо не сѫщемѹ"
+      }
+    },
+    "162a": {
+      "sr": {
+        "before": "govorimo ono što jeste.\r\n\r\n— Nužno."
+      },
+      "stsl": {
+        "before": "сѫщее глаголати исповѣдати ·\r\n\r\n— Нѫжда"
+      }
+    },
+    "162b": {
+      "sr": {
+        "before": "ne-sušto učestvujući u nebivanju nebivanja suštog"
+      },
+      "stsl": {
+        "before": "не сѫщее же небꙑтиꙗ сѫщаго причѧщаѭще сѧ"
+      }
+    },
+    "162c": {
+      "sr": {
+        "before": "promenu, ako nešto i jeste i nije"
+      },
+      "stsl": {
+        "before": "измѣнениѥ ꙗвлꙗѭтъ · аще что"
+      }
+    },
+    "162d": {
+      "sr": {
+        "before": "prelaženjem.\r\n\r\n— Ne bi."
+      },
+      "stsl": {
+        "before": "прѣхождениѥмь движало сѧ бы"
+      }
+    },
+    "162e": {
+      "sr": {
+        "before": "još na neki način kreće?"
+      },
+      "stsl": {
+        "before": "ѥще како движеть сѧ"
+      }
+    },
+    "163a": {
+      "sr": {
+        "before": "jer koliko se nešto pokrene, toliko više"
+      },
+      "stsl": {
+        "before": "єлико бо что движеть сѧ · толико"
+      }
+    },
+    "163b": {
+      "sr": {
+        "before": "pređašnjeg stanja, a ono što se ne menja"
+      },
+      "stsl": {
+        "before": "прѣждьнꙗго имѣниꙗ · не измѣнꙗѭщемѹ"
+      }
+    },
+    "163d": {
+      "sr": {
+        "before": "učestvovati u suštastvu.\r\n\r\n— Ne bi."
+      },
+      "stsl": {
+        "before": "сѫщьства причѧщати сѧ ·\r\n\r\n— Не бо"
+      }
+    },
+    "164a": {
+      "sr": {
+        "before": "učestvujući u tome već bi učestvovalo"
+      },
+      "stsl": {
+        "before": "причѧщаѥ бо сѧ сего · ѹже бы"
+      }
+    },
+    "164b": {
+      "sr": {
+        "before": "— A šta? „Od njega“, „njemu“, „n"
+      },
+      "stsl": {
+        "before": "— Что же · отъ него ли · или ємѹ"
+      }
+    },
+    "164c": {
+      "sr": {
+        "before": "„različito“ nisu isto?"
+      },
+      "stsl": {
+        "before": "различьно ·\r\n\r\n— Тожде"
+      }
+    },
+    "164d": {
+      "sr": {
+        "before": "kako izgleda, svaka njihova gomila"
+      },
+      "stsl": {
+        "before": "ꙗкоже видить сѧ · громаждениѥ ихъ"
+      }
+    },
+    "164e": {
+      "sr": {
+        "before": "izgledaće da postoji njihov broj"
+      },
+      "stsl": {
+        "before": "числъ ихъ быти видѣти сѧ бѫдеть"
+      }
+    },
+    "165a": {
+      "sr": {
+        "before": "mnogih, budući maleno.\n\n— Kako n"
+      },
+      "stsl": {
+        "before": "многꙑхъ · ꙗко малѹ сѫщѹ ·\n\n— Как"
+      }
+    },
+    "165b": {
+      "sr": {
+        "before": "— Zato što, kad god mišlju uzmem"
+      },
+      "stsl": {
+        "before": "— Понеже вьсегда · єгда кто отъ "
+      }
+    },
+    "165c": {
+      "sr": {
+        "before": "— Zar takvo, gledano izdaleka i "
+      },
+      "stsl": {
+        "before": "— Не таковомѹ издалеча видимомѹ "
+      }
+    },
+    "165d": {
+      "sr": {
+        "before": "— A kada priđemo bliže, svako se"
+      },
+      "stsl": {
+        "before": "— Приближаѭщемѹ же · кождо многа"
+      }
+    },
+    "165e": {
+      "sr": {
+        "before": "kada jednog nema, postoji mnoštvo"
+      },
+      "stsl": {
+        "before": "аще єдинаго не сѫща множьство єсть"
+      }
+    },
+    "166a": {
+      "sr": {
+        "before": "— Niti izgledaju kao jedno niti "
+      },
+      "stsl": {
+        "before": "— Ни єдино ни многа видѣти сѧ бѫ"
+      }
+    },
+    "166b": {
+      "sr": {
+        "before": "— Ako jedno, dakle, nije, ništa "
+      },
+      "stsl": {
+        "before": "— Аще ѹбо єдино нѣсть · ни нѣчто отъ инꙑхъ мьнит"
+      }
+    },
+    "166c": {
+      "sr": {
+        "before": "— Ako bismo, dakle, ukratko rekl"
+      },
+      "stsl": {
+        "before": "— Не ѹбо и съвъкѹпѣ аще речемъ ·"
+      }
+    }
+  }
+}

@@ -128,6 +128,17 @@ const extractDiogenesRange = (xml, reference) => {
   return sections.join('\n\n')
 }
 
+const extractDiogenesSection = (xml, reference, anchor) => {
+  const range = parseReferenceRange(reference)
+  if (!range || !/^\d+$/u.test(anchor)) return null
+  const number = Number(anchor)
+  if (number < range[0] || number > range[1]) return null
+  const book = findDiv(xml, { subtype: 'book', n: '10' })
+  if (!book) return null
+  const section = findDiv(book.xml, { subtype: 'section', n: number })
+  return section ? teiToText(section.xml) : null
+}
+
 const originals = {}
 
 for (const work of works) {
@@ -148,8 +159,13 @@ for (const work of works) {
     let text
     let citation
     if (work.source.name === 'diogenes-laertius') {
-      text = extractDiogenesRange(xml, work.source.reference)
-      citation = work.source.reference.replace(/^X\./u, '10.')
+      if (section.anchor === '1') {
+        text = extractDiogenesRange(xml, work.source.reference)
+        citation = work.source.reference.replace(/^X\./u, '10.')
+      } else {
+        text = extractDiogenesSection(xml, work.source.reference, section.anchor)
+        citation = `10.${section.anchor}`
+      }
     } else if (work.citationScheme === 'stephanus') {
       text = extractStephanus(xml, section.anchor)
       citation = section.anchor

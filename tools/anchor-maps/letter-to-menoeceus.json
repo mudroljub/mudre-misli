@@ -1,0 +1,61 @@
+{
+  "work": "epicurus/letter-to-menoeceus",
+  "anchors": {
+    "122": {
+      "sr": { "before": "Epikur Menoikeju, pozdrav." },
+      "stsl": { "before": "Епикѹръ Меноикею радовати сѧ ·" }
+    },
+    "123": {
+      "sr": { "before": "Ono što sam ti neprestano savetovao" },
+      "stsl": { "before": "Ꙗже непрѣстаньно заповѣдахъ тебѣ" }
+    },
+    "124": {
+      "sr": { "before": "Sudovi mnoštva o bogovima nisu predujmovi" },
+      "stsl": { "before": "Не прѣдъпоѩтиꙗ бо · нъ ложьна мьнѣниꙗ" }
+    },
+    "125": {
+      "sr": { "before": "U življenju nema ničeg strašnog" },
+      "stsl": { "before": "Ничтоже бо страшъно въ житии" }
+    },
+    "126": {
+      "sr": { "before": "Mudar čovek niti odbacuje življenje" },
+      "stsl": { "before": "Разборьнъ же ни жития отметаєть" }
+    },
+    "127": {
+      "sr": { "before": "Ako to govori uveren, zašto ne odlazi iz života?" },
+      "stsl": { "before": "Аште ѹвѣренъ се глаголєть · почто не исходить отъ жития" }
+    },
+    "128": {
+      "sr": { "before": "Nepogrešivo razmatranje toga ume" },
+      "stsl": { "before": "Непрѣлъстьно бо зрѣниє сихъ" }
+    },
+    "129": {
+      "sr": { "before": "Spoznali smo ga kao prvo i prirođeno dobro" },
+      "stsl": { "before": "Сиѭ бо пръвоє и прирождьно добро познахомы" }
+    },
+    "130": {
+      "sr": { "before": "Sve to treba suditi odmeravanjem koristi i štete" },
+      "stsl": { "before": "Вьсѧ же мѣроѭ пользы и врѣда сѫдити подобаєть" }
+    },
+    "131": {
+      "sr": { "before": "Hleb i voda daju najveće zadovoljstvo" },
+      "stsl": { "before": "Хлѣбъ и вода връховьнѫ сласть даѭть" }
+    },
+    "132": {
+      "sr": { "before": "Prijatan život ne rađaju neprekidne pijanke" },
+      "stsl": { "before": "Не бо непрѣстаньна пиꙗньства и пиры" }
+    },
+    "133": {
+      "sr": { "before": "Koga smatraš boljim od čoveka" },
+      "stsl": { "before": "Кого мьниши лѹчьша чловѣка" }
+    },
+    "134": {
+      "sr": { "before": "Bolje bi bilo slediti mit o bogovima" },
+      "stsl": { "before": "Лѹчьше бо бѣ басни о бозѣхъ послѣдовати" }
+    },
+    "135": {
+      "sr": { "before": "Smatra da je bolje razumno imati nesreću" },
+      "stsl": { "before": "Лѹчьше мьнить разборьно несъчастьнѹ быти" }
+    }
+  }
+}

@@ -56,8 +56,8 @@ Pošto je Sokrat saslušao, zatražio je da se ponovo pročita prva postavka prv
 
 — Ako je, dakle, nemožno da neslična budu slična i slična neslična, onda je nemožno i da sušta budu mnoga? Jer ako bi bila mnoga, trpela bi ono što je nemožno.
 
-<!-- anchor:128a -->
-— Zar je to ono što tvoji spisi hoće, ništa drugo nego da, nasuprot svemu što se govori, dokazuju da mnoga ne postoje? I smatraš li da je svaki od tvojih spisa dokaz upravo za to, tako da misliš da pružaš onoliko dokaza da mnoga ne postoje koliko si spisa napisao? Govoriš li tako, ili te ja ne razumem pravilno?
+
+— Zar je to ono što tvoji spisi hoće, ništa drugo nego da, nasuprot svemu što se govori, dokazuju da mnoga <!-- anchor:128a -->ne postoje? I smatraš li da je svaki od tvojih spisa dokaz upravo za to, tako da misliš da pružaš onoliko dokaza da mnoga ne postoje koliko si spisa napisao? Govoriš li tako, ili te ja ne razumem pravilno?
 
 — Ne, nego si — reče Zenon — dobro razumeo šta ceo spis hoće.
 
@@ -68,8 +68,8 @@ sve jedno, i za to pružaš lepe i dobre znakove. A ovaj, opet, kaže da mnoga n
 
 — Da, Sokrate — reče Zenon — ali nisi sasvim shvatio istinu moga spisa.
 
-<!-- anchor:128c -->
-— Premda, poput lakonskih kuja, dobro pratiš i njušiš trag izrečenoga. Ali ti najpre promiče ovo: spis se nipošto ne uznosi toliko da bi bio napisan s namerom koju mu ti pripisuješ, a zatim je skrivao od ljudi kao da čini nešto veliko. Ti si pomenuo nešto što mu je usput pripalo; istina je, međutim, da je ovaj spis svojevrsna pomoć Parmenidovom izlaganju protiv onih koji pokušavaju
+
+— Premda, <!-- anchor:128c -->poput lakonskih kuja, dobro pratiš i njušiš trag izrečenoga. Ali ti najpre promiče ovo: spis se nipošto ne uznosi toliko da bi bio napisan s namerom koju mu ti pripisuješ, a zatim je skrivao od ljudi kao da čini nešto veliko. Ti si pomenuo nešto što mu je usput pripalo; istina je, međutim, da je ovaj spis svojevrsna pomoć Parmenidovom izlaganju protiv onih koji pokušavaju
 
 <!-- anchor:128d -->
 da ga izvrgnu ruglu, govoreći da, ako je jedno, njegovom izlaganju slede mnoge smešne posledice, i njemu samom protivne. Ovaj spis, dakle, protivreči onima koji tvrde da su mnoga, i uzvraća im istim i još većim, hoteći da pokaže kako bi njihova postavka — ako su mnoga — trpela još smešnije posledice nego postavka da je jedno, ako bi je neko dovoljno temeljno ispitao.
@@ -79,19 +79,19 @@ Zbog takve ljubavi prema raspravljanju napisao sam ga još kao mladić, a neko g
 <!-- anchor:128e -->
 pustiti među ljude ili ne. U tome se, dakle, varaš, Sokrate, misleći da je napisan ne iz mladalačke ljubavi prema raspravljanju, nego iz častoljublja starijeg čoveka. Inače, kao što rekoh, nisi loše pogodio njegov smisao.
 
-— Prihvatam — reče Sokrat — i verujem da je tako. Ali reci mi ovo: zar ne misliš da postoji sam po sebi neki vid sličnosti, a opet njemu nešto drugo, suprotno, što je neslično? I da u njima dvoma učestvujemo i ja i ti i sve ostalo što nazivamo mnogim?
+— Prihvatam — reče Sokrat — i verujem da je tako. Ali reci mi ovo: zar ne misliš da postoji sam po sebi <!-- anchor:129a -->neki vid sličnosti, a opet njemu nešto drugo, suprotno, što je neslično? I da u njima dvoma učestvujemo i ja i ti i sve ostalo što nazivamo mnogim?
 
-<!-- anchor:129a -->
-I da ono što učestvuje u sličnosti postaje slično po tome i u onoj meri u kojoj učestvuje, ono što učestvuje u nesličnosti — neslično, a ono što učestvuje u oboma — oboje? Ako, dakle, sve učestvuje u oboma, koji su suprotni, i kroz učestvovanje u oboma jeste samo sebi i slično i neslično, šta je u tome čudno?
+
+I da ono što učestvuje u sličnosti postaje slično po tome i u onoj meri u kojoj učestvuje, ono što učestvuje u nesličnosti — neslično, a ono što učestvuje u oboma — oboje? Ako, dakle, sve učestvuje u oboma, koji su suprotni, i kroz učestvovanje u oboma jeste samo sebi i slično i neslično, <!-- anchor:129b -->šta je u tome čudno?
 
 Jer ako bi neko pokazao da sama slična postaju neslična ili neslična slična, to bi, mislim, bilo čudno. Ali ako pokazuje da ono što učestvuje u oboma trpi oboje, meni se, Zenone, ne čini da je išta neobično;
 
-<!-- anchor:129b -->
-niti ako neko pokazuje da je sve jedno time što učestvuje u jednom, a to isto opet mnogo time što učestvuje u mnoštvu. Ali ako bi pokazao da je samo jedno mnogo i samo mnoštvo jedno, tome bih se već čudio.
+
+niti ako neko pokazuje da je sve jedno time što učestvuje u jednom, a to isto opet mnogo time što učestvuje u mnoštvu. Ali ako bi pokazao da je samo jedno mnogo i samo mnoštvo <!-- anchor:129c -->jedno, tome bih se već čudio.
 
 Isto tako i za sve ostalo: ako bi pokazao da sami rodovi i vidovi u sebi trpe ove suprotnosti, bilo bi dostojno čuđenja; ali ako bi neko pokazao da sam ja jedno i mnogo, šta je u tome čudno?
 
-<!-- anchor:129c -->
+
 na primer, ako bi pokazao da sam jedno time što je jedno desno, drugo levo, jedno napred, drugo pozadi, a isto tako gore i dole; jer ja, mislim, učestvujem u mnoštvu.
 
 <!-- anchor:129d -->
@@ -99,19 +99,19 @@ A da sam jedno, pokazaće, mislim, time što smo nas sedmorica ovde ja jedan čo
 
 Ako, dakle, neko pokuša da pokaže da su kamenje, drva i takve stvari isto mnogo i jedno, reći ćemo da je pokazao da je nešto mnogo i jedno, ali ne da je jedno mnogo niti mnoštvo jedno, i da ne govori ništa čudno, nego ono s čime bismo se svi složili.
 
-<!-- anchor:129e -->
-Ali ako bi neko od onoga o čemu sam upravo govorio najpre razdelio same vidove, svaki za sebe — na primer sličnost i nesličnost, mnoštvo i jedno, mirovanje i kretanje i sve tome slično — a zatim pokazao da se oni među sobom mogu mešati i razlučivati, tome bih se, Zenone, silno divio.
 
-<!-- anchor:130a -->
-Smatram da si to veoma smelo razradio. Ali još mnogo više bih se, kao što kažem, divio kada bi neko mogao da pokaže taj isti bezizlaz, na sve načine isprepleten u samim vidovima, i da ga, kao što ste ga vi prošli među onim što se vidi, tako pokaže i među onim što se slovenjem zahvata.
+Ali ako bi neko od onoga o čemu sam upravo govorio najpre razdelio same vidove, svaki za sebe — na primer sličnost i nesličnost, mnoštvo <!-- anchor:129e -->i jedno, mirovanje i kretanje i sve tome slično — a zatim pokazao da se oni među sobom mogu mešati i razlučivati, tome bih se, Zenone, silno divio.
+
+
+Smatram da si to veoma smelo razradio. Ali još mnogo više bih se, kao što kažem, divio kada bi neko mogao da pokaže taj isti bezizlaz, <!-- anchor:130a -->na sve načine isprepleten u samim vidovima, i da ga, kao što ste ga vi prošli među onim što se vidi, tako pokaže i među onim što se slovenjem zahvata.
 
 Dok je Sokrat to govorio, reče Pitodor, on je mislio da će se Parmenid i Zenon na svaku njegovu reč ljutiti; oni su ga, međutim, veoma pažljivo slušali i često se, gledajući jedan drugoga, osmehivali, diveći se Sokratu.
 
 Kada je Sokrat završio, Parmenid reče:
 
-— Sokrate, kako si dostojan divljenja zbog svoje težnje ka slovesima.
+— Sokrate, kako si dostojan <!-- anchor:130b -->divljenja zbog svoje težnje ka slovesima.
 
-<!-- anchor:130b -->
+
 A reci mi: jesi li ti sam ovako razlučio kako kažeš — s jedne strane same vidove, a s druge ono što u njima učestvuje? I čini li ti se da postoji sama sličnost, odvojena od sličnosti koju mi imamo, i tako jedno i mnoštvo i sve ono što si maločas čuo od Zenona?
 
 — Meni se tako čini — reče Sokrat.
@@ -150,9 +150,9 @@ postaju pravedne i krasne?
 
 — Šta ga sprečava, Parmenide — reče Sokrat — da bude jedan?
 
-— Onda će, budući jedan i isti, ceo istovremeno biti u mnogim stvarima koje su međusobno odvojene, te bi tako bio odvojen od samoga sebe.
+<!-- anchor:131b -->— Onda će, budući jedan i isti, ceo istovremeno biti u mnogim stvarima koje su međusobno odvojene, te bi tako bio odvojen od samoga sebe.
 
-<!-- anchor:131b -->
+
 — Ne bi — reče — ako bi, kao dan, budući jedan i isti, bio istovremeno na mnogim mestima, a ipak se zbog toga ne bi odvajao od samoga sebe. Tako bi i svaki od vidova mogao istovremeno biti jedan i isti u svemu.
 
 — Prijatno, Sokrate — reče — činiš da jedno isto bude istovremeno na mnogim mestima, kao kada bi, razapevši jedno jedro nad mnogim ljudima, rekao da je jedno celo nad mnogima. Zar ne misliš da nešto takvo govoriš?
@@ -222,11 +222,11 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — Da.
 
-— O suštom ili nesuštom?
+<!-- anchor:132c -->— O suštom ili nesuštom?
 
 — O suštom.
 
-<!-- anchor:132c -->
+
 — Zar ne o nekom jednom suštom, koje taj pojam poima kao prisutno nad svima, kao neku jednu viđu?
 
 — Da.
@@ -239,15 +239,15 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — Ali i to je bez slova. — reče.
 
-<!-- anchor:132d -->
-— Nego, Parmenide — reče Sokrat — meni se čini da je ovako: ti vidovi stoje u prirodi kao uzori, a druge stvari nalikuju njima i jesu njihove prilike; i to učestvovanje drugih stvari u vidovima nije ništa drugo do njihovo upriličenje njima.
+
+— Nego, Parmenide — reče Sokrat — <!-- anchor:132d -->meni se čini da je ovako: ti vidovi stoje u prirodi kao uzori, a druge stvari nalikuju njima i jesu njihove prilike; i to učestvovanje drugih stvari u vidovima nije ništa drugo do njihovo upriličenje njima.
 
 — Ako, dakle, nešto — reče — nalikuje vidu, može li taj vid ne nalikovati onome što mu je upriličeno, upravo u onoj meri u kojoj mu je postalo nalik? Ili postoji neki način da slično ne bude sličnom slično?
 
 — Ne postoji.
 
-<!-- anchor:132e -->
-— A nije li velika nužda da slično sa sličnim učestvuje u jednom te istom?
+
+— A nije li velika nužda da slično sa sličnim učestvuje u jednom <!-- anchor:132e -->te istom?
 
 — Nužda.
 
@@ -255,8 +255,8 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — Svakako.
 
-<!-- anchor:133a -->
-— Dakle, nemožno je da išta bude slično vidu, niti vid ičemu drugom; jer će se inače pored vida uvek pojavljivati drugi vid, a ako taj bude nečemu sličan, opet drugi, i nikada neće prestati da uvek nastaje novi vid, ako vid bude postajao sličan onome što u njemu učestvuje.
+
+— Dakle, nemožno je da išta bude slično vidu, niti vid ičemu drugom; jer će se inače pored vida uvek pojavljivati drugi vid, <!-- anchor:133a -->a ako taj bude nečemu sličan, opet drugi, i nikada neće prestati da uvek nastaje novi vid, ako vid bude postajao sličan onome što u njemu učestvuje.
 
 — Najistinitije govoriš.
 
@@ -268,14 +268,14 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — I te kako.
 
-<!-- anchor:133b -->
-— Dobro onda znaj — reče — da se, tako reći, još nisi ni dotakao koliki je bezizlaz, ako za svako sušto uvek postavljaš jedan vid, odvajajući ga zasebno.
+
+— Dobro onda znaj — reče — da se, tako reći, još nisi ni dotakao <!-- anchor:133b -->koliki je bezizlaz, ako za svako sušto uvek postavljaš jedan vid, odvajajući ga zasebno.
 
 — Kako to? — reče.
 
-— Ima i mnogo drugih teškoća — reče — ali najveća je ova. Ako bi neko rekao da vidovima, budući takvima kakvi kažemo da moraju biti, ne pripada čak ni da budu spoznati, onome ko to govori niko ne bi mogao pokazati da se vara, osim ako bi onaj koji osporava bio veoma iskusan i darovit, i bio voljan da prati onoga koji pokazuje kroz veoma dugu i izdaleka započetu raspravu; inače bi ostao neubeđen onaj koji tvrdi da su vidovi nespoznatljivi.
+— Ima i mnogo drugih teškoća — reče — ali najveća je ova. Ako bi neko rekao da vidovima, budući takvima kakvi kažemo da moraju biti, ne pripada čak ni da budu spoznati, onome ko to govori niko ne bi mogao pokazati da se vara, osim ako bi onaj koji osporava bio veoma iskusan i darovit, i bio voljan da prati onoga koji pokazuje kroz veoma dugu i izdaleka započetu raspravu; inače bi ostao <!-- anchor:133c -->neubeđen onaj koji tvrdi da su vidovi nespoznatljivi.
 
-<!-- anchor:133c -->
+
 — Kako to?
 
 — Zato što bi, Sokrate, rekao ti ili neko drugi, pre svega, da nijedan od njih nije u nama.
@@ -284,9 +284,9 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — Dobro kažeš — reče.
 
-— Dakle, oni vidovi koji jesu ono što jesu jedni prema drugima imaju svoje bitije prema samima sebi, a ne prema onome što je kod nas, bilo da to smatramo njihovim prilikama ili kako god ih nazivamo, učestvujući u kojima mi dobijamo njihova pojedinačna imena.
+— Dakle, oni vidovi koji jesu ono što jesu jedni prema drugima imaju svoje bitije prema samima sebi, a ne prema onome što je kod <!-- anchor:133d -->nas, bilo da to smatramo njihovim prilikama ili kako god ih nazivamo, učestvujući u kojima mi dobijamo njihova pojedinačna imena.
 
-<!-- anchor:133d -->
+
 A ove stvari kod nas, koje su istoimene s onima, opet jesu jedne prema drugima, a ne prema vidovima, i pripadaju jedne drugima, a ne onima, koliko god ih tako nazivamo.
 
 — Kako to kažeš? — reče Sokrat.
@@ -298,7 +298,7 @@ niti je gospodar gospodar samoga roba, onoga što rob jeste; nego, budući ljudi
 
 Ili ne razumeš šta govorim?
 
-<!-- anchor:134b -->
+
 — Sasvim razumem — reče Sokrat.
 
 — Zar onda i znanje, samo ono što znanje jeste, ne bi bilo znanje same one istine koja je istina?
@@ -309,11 +309,11 @@ Ili ne razumeš šta govorim?
 
 — Da.
 
-— A znanje kod nas ne bi li bilo znanje istine kod nas, i opet bi sledilo da svako pojedino znanje kod nas bude znanje svakog pojedinog suštastva kod nas?
+— A znanje kod nas ne bi li bilo znanje istine kod nas, i opet bi sledilo da svako pojedino znanje kod nas bude znanje svakog pojedinog <!-- anchor:134b -->suštastva kod nas?
 
 — Nužno.
 
-<!-- anchor:134c -->
+
 — Ali same vidove, kao što kažeš, mi niti imamo niti oni mogu biti kod nas.
 
 — Ne.
@@ -330,11 +330,11 @@ Ili ne razumeš šta govorim?
 
 — Izgleda da nije.
 
-— Nespoznatljivo nam je, dakle, samo krasno, ono što jeste, i dobro i sve što uzimamo kao same viđe.
+— Nespoznatljivo nam je, dakle, samo krasno, ono što jeste, i <!-- anchor:134c -->dobro i sve što uzimamo kao same viđe.
 
 — Čini se.
 
-<!-- anchor:134d -->
+
 — Pogledaj onda još nešto strašnije od toga.
 
 — Šta?
@@ -347,33 +347,33 @@ Ili ne razumeš šta govorim?
 
 — Nužno.
 
-— Hoće li onda bog, imajući samo znanje, opet moći da spoznaje ono kod nas?
+<!-- anchor:134d -->— Hoće li onda bog, imajući samo znanje, opet moći da spoznaje ono kod nas?
 
 — Zašto ne bi?
 
-<!-- anchor:134e -->
+
 — Zato što smo se složili, Sokrate — reče Parmenid — da niti oni vidovi imaju prema onome kod nas onu moć koju imaju, niti ono kod nas prema njima, nego svako prema sebi.
 
 — Složili smo se — reče.
 
-— Ako je, dakle, kod boga to najtačnije gospodstvo i to najtačnije znanje, niti bi njihovo gospodstvo ikada gospodarilo nama, niti bi njihovo znanje spoznavalo nas niti išta drugo od onoga kod nas; nego, kao što mi njima ne gospodarimo gospodstvom kod nas i ne spoznajemo ništa od božanskog našim znanjem, tako opet, po istom slovu, ni oni, budući bogovi, nisu naši gospodari niti znaju ljudske stvari.
+— Ako je, dakle, kod boga to najtačnije gospodstvo i to najtačnije znanje, niti bi njihovo gospodstvo ikada gospodarilo nama, <!-- anchor:134e -->niti bi njihovo znanje spoznavalo nas niti išta drugo od onoga kod nas; nego, kao što mi njima ne gospodarimo gospodstvom kod nas i ne spoznajemo ništa od božanskog našim znanjem, tako opet, po istom slovu, ni oni, budući bogovi, nisu naši gospodari niti znaju ljudske stvari.
 
-<!-- anchor:135a -->
+
 — Ali zar nije odveć čudno — reče — ako neko boga liši znanja?
 
 — Odveć — reče.
 
-— Ipak, Sokrate, te i još mnoge druge teškoće nužno imaju vidovi, ako postoje te viđe bića i ako neko svaki vid odredi kao nešto samo po sebi; tako da je onaj koji sluša u bezizlazu i spori da one postoje, a ako i postoje, da je velika nužda da budu nespoznatljive ljudskoj prirodi. I govoreći to, čini se da nešto govori, a, kao što maločas rekosmo, čudesno ga je teško razuveriti.
+— Ipak, Sokrate, te i još <!-- anchor:135a -->mnoge druge teškoće nužno imaju vidovi, ako postoje te viđe bića i ako neko svaki vid odredi kao nešto samo po sebi; tako da je onaj koji sluša u bezizlazu i spori da one postoje, a ako i postoje, da je velika nužda da budu nespoznatljive ljudskoj prirodi. I govoreći to, čini se da nešto govori, a, kao što maločas rekosmo, čudesno ga je teško razuveriti.
 
-<!-- anchor:135b -->
-— Nego je potreban čovek veoma obdaren prirodom, koji će moći da shvati da postoji neki rod svakoga i suštastvo samo po sebi; a još čudesniji onaj koji će to otkriti i, dovoljno razmotrivši sve, moći drugoga poučiti.
+
+— Nego je potreban čovek veoma obdaren prirodom, koji će moći da shvati da postoji neki rod svakoga i suštastvo <!-- anchor:135b -->samo po sebi; a još čudesniji onaj koji će to otkriti i, dovoljno razmotrivši sve, moći drugoga poučiti.
 
 — Slažem se s tobom, Parmenide — reče Sokrat — jer govoriš sasvim po mom mnenju.
 
 — Ali ipak — reče Parmenid — ako neko, Sokrate, s druge strane, ne dopusti da postoje vidovi suštih, gledajući na sve ovo što smo sada rekli i drugo tome slično, niti odredi neki vid svakoga pojedinog,
 
-<!-- anchor:135c -->
-neće imati kuda da okrene razmišljanje, jer neće dopustiti da viđa svakog suštog uvek bude ista; i tako će sasvim uništiti moć razgovaranja.
+
+neće imati kuda da okrene razmišljanje, jer neće dopustiti da <!-- anchor:135c -->viđa svakog suštog uvek bude ista; i tako će sasvim uništiti moć razgovaranja.
 
 — Čini mi se da govoriš istinu — reče.
 
@@ -381,27 +381,27 @@ neće imati kuda da okrene razmišljanje, jer neće dopustiti da viđa svakog su
 
 — Mislim da to, bar sada, nikako ne vidim.
 
-<!-- anchor:135d -->
-— Prerano, Sokrate — reče — pre nego što si se izvežbao, pokušavaš da odrediš nešto krasno, pravedno, dobro i svaki pojedini vid. To sam primetio još prekjuče, slušajući te ovde kako razgovaraš s ovim Aristotelom.
+
+— Prerano, Sokrate — reče — pre nego što si se izvežbao, pokušavaš da odrediš nešto krasno, pravedno, dobro i <!-- anchor:135d -->svaki pojedini vid. To sam primetio još prekjuče, slušajući te ovde kako razgovaraš s ovim Aristotelom.
 
 Dobro znaj, krasna je i božanska težnja kojom stremiš ka slovesima; ali povuci samoga sebe i više se vežbaj kroz ono što se čini nekorisnim i što mnoštvo naziva praznoslovljem, dok si još mlad. Inače će ti istina izmaći.
 
 — Kakav je onda, Parmenide — reče — način tog vežbanja?
 
-<!-- anchor:136a -->
+
 — Taj — reče — o kojem si čuo Zenona. Samo što sam se ja i ovome divio kada si mu rekao da ne dopuštaš da lutanje bude među vidljivim stvarima niti oko njih, nego među onima koje bi se ponajviše zahvatile slovenjem i mogle smatrati vidovima.
 
 — Jer mi se čini — reče — da na taj način nije nimalo teško pokazati da su sušta i slična i neslična i da trpe bilo šta drugo.
 
 — I pravo — reče.
 
-<!-- anchor:136b -->
-— Na primer — reče — ako hoćeš, o onoj postavci koju je Zenon postavio: ako mnoga jesu, šta nužno sledi i za sama mnoga prema sebi i prema jednom, i za jedno prema sebi i prema mnogima; a opet, ako mnoga nisu, ponovo razmatrati šta će slediti i jednom i mnogima, i prema sebi i jednih prema drugima.
+
+<!-- anchor:136a -->— Na primer — reče — ako hoćeš, o onoj postavci koju je Zenon postavio: ako mnoga jesu, šta nužno sledi i za sama mnoga prema sebi i prema jednom, i za jedno prema sebi i prema mnogima; a opet, ako mnoga nisu, ponovo razmatrati šta će slediti i jednom i mnogima, i <!-- anchor:136b -->prema sebi i jednih prema drugima.
 
 I opet, ako postaviš da sličnost jeste ili da nije, šta će iz svake od tih postavki slediti i za samo postavljeno i za druge stvari, i prema sebi i jednih prema drugima. Isto slovo važi i za nesličnost, i za kretanje, i za mirovanje, i za nastajanje i propadanje, i za samo biti i ne biti.
 
-<!-- anchor:136c -->
-Jednom rečju, o čemu god pretpostaviš da jeste ili da nije ili da trpi bilo šta drugo, treba razmotriti šta iz toga sledi za njega samoga i za svako drugo pojedinačno koje izabereš, i za više njih i za sva na isti način; a druga opet treba razmatrati i prema sebi i prema svakom drugom koje izabereš, bilo da ono što pretpostaviš pretpostaviš kao sušto ili kao nesušto, ako hoćeš da se savršeno izvežbaš i istinu potpuno razaznaš.
+
+Jednom rečju, o čemu god pretpostaviš da jeste ili da nije ili da trpi bilo šta drugo, treba razmotriti šta iz toga sledi <!-- anchor:136c -->za njega samoga i za svako drugo pojedinačno koje izabereš, i za više njih i za sva na isti način; a druga opet treba razmatrati i prema sebi i prema svakom drugom koje izabereš, bilo da ono što pretpostaviš pretpostaviš kao sušto ili kao nesušto, ako hoćeš da se savršeno izvežbaš i istinu potpuno razaznaš.
 
 <!-- anchor:136d -->
 — Parmenide — reče — govoriš o beskrajnom poslu. Ne razumem ga sasvim. Zašto mi sam ne prođeš kroz neku pretpostavku, postavivši je, da bih bolje razumeo?
@@ -414,19 +414,19 @@ A Zenon se, reče Antifont, nasmeja i reče:
 
 — Molimo samoga Parmenida, Sokrate. Jer nije malo ono što govori, i možda ne vidiš koliki posao nalažeš.
 
-<!-- anchor:136e -->
+
 Zar misliš da je lako pred tolikima proći kroz takvo mnoštvo slova, naročito čoveku mojih godina? Jer kada bismo bili sami, učinio bih to.
 
-— Parmenide — reče Zenon — poslušaj Sokrata; jer svi smo ovde svoji. Inače pred tolikim mnoštvom možda ne bi bilo prikladno tražiti od tebe da rasloviš takva slova, naročito u tvojim godinama. Mnoštvo, naime, ne zna da bez ovakvog prolaženja kroz sve i lutanja nije možno, susrevši istinu, imati um.
+— Parmenide — reče Zenon — poslušaj Sokrata; jer svi smo ovde svoji. Inače pred tolikim mnoštvom možda ne bi bilo prikladno tražiti od tebe da rasloviš takva slova, naročito u tvojim godinama. <!-- anchor:136e -->Mnoštvo, naime, ne zna da bez ovakvog prolaženja kroz sve i lutanja nije možno, susrevši istinu, imati um.
 
-<!-- anchor:137a -->
+
 Zato se i ja, Parmenide, pridružujem Sokratovoj molbi, da bih i sam, posle mnogo vremena, mogao da te čujem.
 
 Pošto je Zenon to rekao, Antifont reče da je Pitodor pripovedao kako su i on sam i Aristotel i ostali molili Parmenida da učini to što govori i da ne odbije.
 
 A Parmenid reče:
 
-— Moram poslušati. Pa ipak, čini mi se da osećam ono što Ivik kaže za staroga konja trkača, koji, kada treba da se nadmeće kolima, drhti pred onim što dolazi, znajući iz iskustva.
+— Moram poslušati. Pa ipak, čini mi se da osećam ono što Ivik kaže za staroga konja trkača, <!-- anchor:137a -->koji, kada treba da se nadmeće kolima, drhti pred onim što dolazi, znajući iz iskustva.
 
 <!-- anchor:137b -->
 — Odakle ćemo, dakle, početi i šta ćemo prvo pretpostaviti? Ili hoćete, pošto već izgleda da se igramo ovom trudnom igrom, da počnem od sebe i od svoje pretpostavke, pretpostavivši o samom jednom: bilo da jedno jeste bilo da nije jedno, šta nužno sledi?
@@ -483,7 +483,7 @@ A Parmenid reče:
 
 — Beskraj.
 
-<!-- anchor:138a -->
+
 — I bez oblika, dakle; jer ne učestvuje ni u okruglom ni u pravom.
 
 — Kako to?
@@ -500,7 +500,7 @@ A Parmenid reče:
 
 — Svakako.
 
-— Nije, dakle, ni pravo ni okruglo, budući da nema delove.
+<!-- anchor:138a -->— Nije, dakle, ni pravo ni okruglo, budući da nema delove.
 
 <!-- anchor:138b -->
 — Jer nemoguće je da nešto bude u nečemu što ga ne obuhvata.
@@ -557,12 +557,12 @@ A Parmenid reče:
 
 — Ne razumem kako.
 
-<!-- anchor:138e -->
+
 — Ako nešto ulazi u nešto, nije li nužno da, dok još ulazi, još ne bude u njemu, niti da više bude sasvim izvan njega, ako već ulazi?
 
 — Nužno.
 
-— A ako bi nešto to trpelo, samo ono što ima delove moglo bi to trpeti; jer bi neki njegov deo već bio u onome, a drugi bi istovremeno bio izvan. Ono pak što nema delove nikako ne bi moglo istovremeno celo biti niti unutra niti izvan nečega.
+<!-- anchor:138e -->— A ako bi nešto to trpelo, samo ono što ima delove moglo bi to trpeti; jer bi neki njegov deo već bio u onome, a drugi bi istovremeno bio izvan. Ono pak što nema delove nikako ne bi moglo istovremeno celo biti niti unutra niti izvan nečega.
 
 — Istina.
 
@@ -616,8 +616,8 @@ A Parmenid reče:
 
 — Istina.
 
-<!-- anchor:139c -->
-— A budući isto što i drugo, bilo bi ono drugo, a samo više ne bi bilo ono što jeste; tako ni tada ne bi bilo ono što jeste, jedno, nego drugo od jednog.
+
+— A budući isto što i drugo, bilo bi ono drugo, <!-- anchor:139c -->a samo više ne bi bilo ono što jeste; tako ni tada ne bi bilo ono što jeste, jedno, nego drugo od jednog.
 
 — Tako je.
 
@@ -684,8 +684,8 @@ A Parmenid reče:
 
 — Više, zaista.
 
-<!-- anchor:140b -->
-— A ono što trpi da bude drugo od sebe ili drugoga bilo bi neslično sebi ili drugome, ako je ono što trpi da bude isto slično.
+
+— A ono što trpi da bude drugo od sebe ili drugoga bilo bi neslično sebi <!-- anchor:140b -->ili drugome, ako je ono što trpi da bude isto slično.
 
 — Pravo.
 
@@ -705,8 +705,8 @@ A Parmenid reče:
 
 — Da.
 
-<!-- anchor:140c -->
-— A budući veće ili manje, od onih sa kojima je samerljivo imaće više mera od manjih, a manje od većih.
+
+— A budući veće <!-- anchor:140c -->ili manje, od onih sa kojima je samerljivo imaće više mera od manjih, a manje od većih.
 
 — Da.
 
@@ -722,8 +722,8 @@ A Parmenid reče:
 
 — Ne izgleda.
 
-<!-- anchor:140d -->
-— A budući od više ili manje mera, koliko bi mera imalo, toliko bi imalo i delova; i tako opet više ne bi bilo jedno, nego onoliko koliko i mera.
+
+— A budući od više ili manje mera, koliko bi mera imalo, toliko bi imalo i delova; <!-- anchor:140d -->i tako opet više ne bi bilo jedno, nego onoliko koliko i mera.
 
 — Pravo.
 
@@ -770,9 +770,9 @@ A Parmenid reče:
 
 — Kako kažeš?
 
-— Ovako: ništa ne treba da postaje različito od drugoga ako već jeste različito; nego ono što već jeste različito, već jeste različito, ono što je postalo različito, postalo je različito, a ono što će biti različito, biće različito; dok ono što postaje različito niti je već postalo niti će tek biti niti još jeste različito, nego postaje različito i nikako drukčije.
+— Ovako: ništa ne treba da postaje različito od drugoga ako već jeste različito; nego ono što već jeste različito, već jeste različito, ono što je postalo različito, postalo je različito, a ono što će biti različito, biće različito; dok ono što postaje različito niti je već postalo niti će tek biti niti još jeste različito, nego postaje različito i <!-- anchor:141c -->nikako drukčije.
 
-<!-- anchor:141c -->
+
 — Nužno.
 
 — Ali starije je različitost od mlađega, i ni od čega drugog.
@@ -863,7 +863,7 @@ A Parmenid reče:
 
 — Ne može.
 
-— Dakle, i suštastvo jednog bilo bi, ne budući isto što i jedno; jer inače ono ne bi bilo njegovo suštastvo, niti bi ono, jedno, u njemu učestvovalo, nego bi isto bilo reći „jedno jeste“ i „jedno je jedno“. Ali sada postavka nije: ako je jedno jedno, šta mora slediti, nego: ako jedno jeste; zar ne?
+— Dakle, i suštastvo jednog bilo bi, ne budući isto što i jedno; jer inače ono ne bi bilo njegovo suštastvo, niti bi <!-- anchor:142c -->ono, jedno, u njemu učestvovalo, nego bi isto bilo reći „jedno jeste“ i „jedno je jedno“. Ali sada postavka nije: ako je jedno jedno, šta mora slediti, nego: ako jedno jeste; zar ne?
 
 — Svakako.
 
@@ -871,7 +871,7 @@ A Parmenid reče:
 
 — Nužno.
 
-<!-- anchor:142c -->
+
 — Zar to što se kaže, kada neko ukratko kaže da jedno jeste, ne znači ništa drugo nego da jedno učestvuje u suštastvu?
 
 — Svakako.
@@ -1020,7 +1020,7 @@ A Parmenid reče:
 
 — Nikako.
 
-— Razdrobljeno je, dakle, koliko god je moguće, na najmanje i najveće i svakovrsno sušto, i razdeljeno više od svega; i delovi suštastva su beskrajni.
+— Razdrobljeno je, dakle, koliko god je moguće, na najmanje i najveće i svakovrsno sušto, i razdeljeno više od svega; i <!-- anchor:144c -->delovi suštastva su beskrajni.
 
 — Tako je.
 
@@ -1040,26 +1040,12 @@ A Parmenid reče:
 
 — Tako je.
 
-<!-- anchor:144c -->
-— Veoma mnogo.
 
-— Šta onda? Ima li među njima nešto što jeste deo suštastva, a ipak nije nikakav deo?
-
-— I kako bi to moglo biti?
-
-— Nego, ako jeste, mislim da je nužno da, dokle god jeste, uvek bude neko jedno, a nemoguće je da bude nijedno.
-
-— Nužno.
-
-— Uz svaki deo suštastva, dakle, prisutno je jedno, ne izostajući ni od manjeg ni od većeg dela niti od ijednog drugog.
-
-— Tako je.
-
-— Zar onda, budući jedno, celo jeste istovremeno na mnogim mestima? Razmotri to.
+— Zar onda, <!-- anchor:144d -->budući jedno, celo jeste istovremeno na mnogim mestima? Razmotri to.
 
 — Razmatram i vidim da je nemoguće.
 
-<!-- anchor:144d -->
+
 — A jedno, budući da je prisutno uz svaki deo suštastva, nije li razdeljeno koliko i suštastvo?
 
 — Svakako.
@@ -1072,8 +1058,8 @@ A Parmenid reče:
 
 — Sasvim se tako pokazuje.
 
-<!-- anchor:144e -->
-— Dakle, malopre nismo istinito govorili kada smo rekli da je suštastvo razdeljeno na veoma mnogo delova. Jer nije razdeljeno na više delova nego jedno, nego, kako izgleda, na jednako; jer niti sušto izostaje od jednog niti jedno od suštog, nego se, budući dvoje, svuda izjednačuju.
+
+— Dakle, malopre nismo istinito govorili kada smo rekli da je suštastvo razdeljeno na veoma mnogo delova. Jer nije razdeljeno na više delova nego jedno, nego, kako izgleda, <!-- anchor:144e -->na jednako; jer niti sušto izostaje od jednog niti jedno od suštog, nego se, budući dvoje, svuda izjednačuju.
 
 — Sasvim se tako pokazuje.
 
@@ -1204,7 +1190,7 @@ A Parmenid reče:
 
 — Ne bi.
 
-— Ali je li jedno drugo od jednoga?
+<!-- anchor:146c -->— Ali je li jedno drugo od jednoga?
 
 — Svakako ne.
 
@@ -1216,7 +1202,7 @@ A Parmenid reče:
 
 — Nužno.
 
-<!-- anchor:146c -->
+
 — A zar ono što je drugde od sebe, dok je samo u istom sa sobom, nije nužno drugo od sebe, ako će već biti i drugde?
 
 — Meni se čini.
@@ -1225,11 +1211,11 @@ A Parmenid reče:
 
 — Pokazalo se.
 
-— Jedno bi, dakle, kako izgleda, na taj način bilo drugo od sebe.
+— Jedno bi, dakle, kako izgleda, na taj način <!-- anchor:146d -->bilo drugo od sebe.
 
 — Izgleda.
 
-<!-- anchor:146d -->
+
 — Šta onda? Ako je nešto drugo od nečega, neće li biti drugo od nečega što je drugo?
 
 — Nužno.
@@ -1490,9 +1476,9 @@ drugima.
 
 — Kako bi?
 
-— Dakle, druga nisu ni jedno ni dva niti imaju ime ikakvog drugog broja.
+— Dakle, druga nisu ni jedno ni dva niti imaju ime ikakvog <!-- anchor:149d -->drugog broja.
 
-<!-- anchor:149d -->
+
 — Ne.
 
 — Jedino je, dakle, samo jedno jedno, a dvojstva ne bi bilo.
@@ -1587,8 +1573,8 @@ ne?
 
 — Izgleda.
 
-<!-- anchor:151a -->
-— A i samo jedno, budući u sebi, obuhvatalo bi samo sebe i bilo bi veće od sebe, a budući obuhvaćeno sobom, bilo bi manje od sebe; i tako bi jedno bilo i veće i manje od sebe.
+
+— A i samo jedno, budući u sebi, obuhvatalo bi samo sebe i <!-- anchor:151a -->bilo bi veće od sebe, a budući obuhvaćeno sobom, bilo bi manje od sebe; i tako bi jedno bilo i veće i manje od sebe.
 
 — Bilo bi.
 
@@ -1596,7 +1582,7 @@ ne?
 
 — Kako ne?
 
-<!-- anchor:151b -->
+
 — Ali sušto mora uvek negde biti.
 
 — Da.
@@ -1605,33 +1591,33 @@ ne?
 
 — Ne bi.
 
-— A pošto nema ničega drugog osim drugih i jednog, a oni moraju biti u nečemu, nije li već nužno da budu jedni u drugima, druga u jednom i jedno u drugima, ili pak nigde?
+— A pošto nema ničega drugog osim drugih i jednog, a oni moraju biti u nečemu, nije li već nužno da budu jedni u drugima, druga u jednom i jedno u drugima, <!-- anchor:151b -->ili pak nigde?
 
 — Očigledno.
 
 — A pošto je jedno u drugima, druga bi bila veća od jednog, obuhvatajući ga, a jedno manje od drugih, budući njima obuhvaćeno; a pošto su druga u jednom, jedno bi po istom rasuđivanju bilo veće od drugih, a druga manja od jednog.
 
-<!-- anchor:151c -->
+
 — Izgleda.
 
 — Jedno je, dakle, jednako i veće i manje od sebe i od drugih.
 
 — Izgleda.
 
-— A ako je veće i manje i jednako, imaće jednake, više i manje mera nego ono samo i druga; a ako ima mere, imaće i delove.
+— A ako je veće i manje i jednako, imaće jednake, više i manje mera <!-- anchor:151c -->nego ono samo i druga; a ako ima mere, imaće i delove.
 
 — Kako ne?
 
 — Imajući, dakle, jednake, više i manje mera, bude i manje i više po broju od sebe i od drugih, a isto tako i jednako sebi i drugima po broju.
 
-<!-- anchor:151d -->
+
 — Kako?
 
 — Od onih od kojih je veće imaće više mera, a od onih od kojih je manje manje, a od onih kojima je jednako jednake.
 
 — Da.
 
-— Dakle, budući veće i manje od sebe i jednako sebi, imaće više i manje mera od sebe i jednake sebi.
+— Dakle, budući veće i manje od sebe i jednako sebi, imaće više i manje mera od sebe i <!-- anchor:151d -->jednake sebi.
 
 — Kako ne?
 
@@ -1639,7 +1625,7 @@ ne?
 
 — Nužno.
 
-<!-- anchor:151e -->
+
 — A budući veće od drugih, imaće više mera nego druga; a koliko mera, toliko i delova. Tako će i po broju biti više od drugih.
 
 — Pravo.
@@ -1652,7 +1638,7 @@ ne?
 
 — Nužno.
 
-— Tako će opet, kako izgleda, jedno biti i jednako i više i manje po broju, i od sebe samoga i od drugih.
+— Tako će opet, <!-- anchor:151e -->kako izgleda, jedno biti i jednako i više i manje po broju, i od sebe samoga i od drugih.
 
 — Biće.
 
@@ -1698,12 +1684,12 @@ ne?
 
 — Neće.
 
-— Zar onda ne prestaje da postaje starije kada dospe u sadašnje, i više ne postaje, nego tada već jeste starije? Jer ako bi napredovalo, nikada ga sadašnje ne bi zahvatilo; jer ono što napreduje takve je prirode da dodiruje oboje, sadašnje i buduće, napuštajući sadašnje a hvatajući buduće, postajući između oboga, budućeg i sadašnjeg.
+— Zar onda ne prestaje da postaje starije <!-- anchor:152c -->kada dospe u sadašnje, i više ne postaje, nego tada već jeste starije? Jer ako bi napredovalo, nikada ga sadašnje ne bi zahvatilo; jer ono što napreduje takve je prirode da dodiruje oboje, sadašnje i buduće, napuštajući sadašnje a hvatajući buduće, postajući između oboga, budućeg i sadašnjeg.
 
 — Istina.
 
-<!-- anchor:152c -->
-— Ako, dakle, ono što postaje nužno ne može mimoići sadašnje, kad god je u sadašnjem, uvek prestaje da postaje i tada jeste ono što je upravo postajalo.
+
+— Ako, dakle, ono što postaje nužno ne može mimoići sadašnje, kad god je u sadašnjem, <!-- anchor:152d -->uvek prestaje da postaje i tada jeste ono što je upravo postajalo.
 
 — Očigledno.
 
@@ -1723,8 +1709,8 @@ ne?
 
 — Nužno.
 
-<!-- anchor:152d -->
-— A sadašnje je uvek prisutno jednom kroz sve njegovo biti; jer kad god jeste, uvek je sada.
+
+— A <!-- anchor:152e -->sadašnje je uvek prisutno jednom kroz sve njegovo biti; jer kad god jeste, uvek je sada.
 
 — Kako ne?
 
@@ -1748,7 +1734,7 @@ ne?
 
 — Ne izgleda.
 
-<!-- anchor:152e -->
+
 — A šta je sa drugima? Ne vidim zašto bi bilo drukčije.
 
 — Ni ja.
@@ -1908,7 +1894,7 @@ ne?
 
 — Sasvim tako.
 
-— A pošto jedno učestvuje u vremenu i postaje starije i mlađe, nije li nužno da učestvuje i u nekada, potom i sada, ako učestvuje u vremenu?
+— A pošto jedno učestvuje u vremenu i <!-- anchor:155d -->postaje starije i mlađe, nije li nužno da učestvuje i u nekada, potom i sada, ako učestvuje u vremenu?
 
 — Nužno.
 
@@ -1916,7 +1902,7 @@ ne?
 
 — Kako ne?
 
-<!-- anchor:155d -->
+
 — I beše, jeste i bude nešto njemu i od njega.
 
 — Svakako.
@@ -1925,11 +1911,11 @@ ne?
 
 — Pravo govoriš.
 
-— Ima, dakle, i ime i slovo, i imenuje se i slovi; i koliko god takvih stvari pripada drugima, pripada i jednom.
+— Ima, dakle, i ime i slovo, i <!-- anchor:155e -->imenuje se i slovi; i koliko god takvih stvari pripada drugima, pripada i jednom.
 
 — Sasvim je tako.
 
-<!-- anchor:155e -->
+
 — A po treći put recimo još ovo. Ako jedno jeste takvo kakvim smo ga razložili, budući i jedno i mnogo, i niti jedno niti mnogo, i učestvujući u vremenu, nije li nužno da, zato što jedno jeste, ponekad učestvuje u suštastvu, a zato što nije, opet ponekad ne učestvuje u suštastvu?
 
 — Nužno.
@@ -2002,7 +1988,7 @@ ne?
 
 — Šta?
 
-— Tren. Jer takva je neka neobična priroda trena: leži između kretanja i stajanja, ne budući ni u jednom vremenu, i iz njega i u njega ono što se kreće prelazi u stajanje, a ono što stoji u kretanje.
+— Tren. Jer takva je neka neobična priroda trena: leži između kretanja i stajanja, <!-- anchor:156e -->ne budući ni u jednom vremenu, i iz njega i u njega ono što se kreće prelazi u stajanje, a ono što stoji u kretanje.
 
 — Izgleda.
 
@@ -2010,24 +1996,15 @@ ne?
 
 — Ne bi.
 
-<!-- anchor:156e -->
-— Zar tako ne stoji i sa drugim promenama? Kada iz bivanja prelazi u propadanje ili iz nebivanja u nastajanje, tada se nalazi između nekih kretanja i stajanja, i tada niti jeste niti nije, niti nastaje niti propada.
+
+<!-- anchor:157a -->— Zar tako ne stoji i sa drugim promenama? Kada iz bivanja prelazi u propadanje ili iz nebivanja u nastajanje, tada se nalazi između nekih kretanja i stajanja, i tada niti jeste niti nije, niti nastaje niti propada.
 
 — Izgleda.
 
-— Po istom rasuđivanju, dakle, i kada prelazi iz jednog u mnogo i iz mnogog u jedno, nije ni jedno ni mnogo, niti se razdvaja niti sjedinjuje; i prelazeći iz sličnog u neslično i iz nesličnog u slično, nije ni slično ni neslično, niti se upodobljava niti razupodobljava; a prelazeći iz malog u veliko i jednako i obratno, nije ni malo ni veliko ni jednako, niti raste niti opada niti se izjednačuje.
+— Po istom rasuđivanju, dakle, i kada prelazi iz jednog u mnogo i iz mnogog u jedno, nije ni jedno ni mnogo, niti se razdvaja niti sjedinjuje; i prelazeći iz sličnog u neslično i iz nesličnog u slično, nije ni slično ni neslično, niti se upodobljava niti razupodobljava; <!-- anchor:157b -->a prelazeći iz malog u veliko i jednako i obratno, nije ni malo ni veliko ni jednako, niti raste niti opada niti se izjednačuje.
 
 — Izgleda.
 
-<!-- anchor:157a -->
-— Zar tako ne stoji i sa drugim promenama? Kada iz bivanja prelazi u propadanje ili iz nebivanja u nastajanje, tada se nalazi između nekih kretanja i stajanja, i tada niti jeste niti nije, niti nastaje niti propada?
-
-— Izgleda.
-
-<!-- anchor:157b -->
-— Po istom rasuđivanju, dakle, i kada prelazi iz jednog u mnogo i iz mnogog u jedno, nije ni jedno ni mnogo, niti se razlučuje niti sjedinjuje; i prelazeći iz sličnog u neslično i iz nesličnog u slično, nije ni slično ni neslično, niti se upodobljava niti razupodobljava; a prelazeći iz malog u veliko i jednako i u protivna, nije ni malo ni veliko ni jednako, niti raste niti opada niti se izjednačuje.
-
-— Ne izgleda.
 
 — Sve bi, dakle, te trpnje trpelo jedno, ako jeste.
 
@@ -2042,26 +2019,6 @@ ne?
 — Recimo.
 
 <!-- anchor:157c -->
-— Dakle, pošto su druga druga od jednog, druga nisu jedno; jer tada ne bi bila druga od jednog.
-
-— Pravo.
-
-— Ali druga nisu sasvim lišena jednog, nego nekako učestvuju u njemu.
-
-— Kako?
-
-— Zato što su druga od jednog druga imajući delove; jer kada ne bi imala delove, bila bi sasvim jedno.
-
-— Pravo.
-
-— A delovi su, kažemo, delovi onoga što je celina.
-
-— Kažemo.
-
-— Ali celina nužno mora biti jedno sastavljeno od mnogih, čiji su delovi delovi; jer svaki deo ne treba da bude deo mnogih, nego celine.
-
-— Kako to?
-
 — Dakle, pošto su druga druga od jednog, druga nisu jedno; jer tada ne bi bila druga od jednog.
 
 — Pravo.
@@ -2261,13 +2218,13 @@ ova.
 <!-- anchor:160a -->
 — Nisu, dakle, ni ista ni druga, niti se kreću niti stoje, niti nastaju niti propadaju, niti su veća ni manja ni jednaka, niti trpe išta drugo takvo; jer ako bi druga dopustila da trpe išta takvo, učestvovala bi i u jednom i u dva i u tri i u neparnom i u parnom, a pokazalo se da im je nemoguće da u tome učestvuju, budući sasvim i na svaki način lišena jednog.
 
-— Sasvim istinito.
+<!-- anchor:160b -->— Sasvim istinito.
 
 — Ako jedno jeste, dakle, jedno je sve i nije ni jedno, i prema sebi i prema drugima.
 
 — Sasvim tako.
 
-<!-- anchor:160b -->
+
 — Dobro. A ako jedno nije, ne treba li potom razmotriti šta nužno sledi?
 
 — Treba.
@@ -2276,7 +2233,7 @@ ova.
 
 — Svakako se razlikuje.
 
-— Samo se razlikuje, ili je i sasvim protivno reći „ako ne-jedno nije“ i „ako jedno nije“?
+— Samo se razlikuje, ili je i <!-- anchor:160c -->sasvim protivno reći „ako ne-jedno nije“ i „ako jedno nije“?
 
 — Sasvim protivno.
 
@@ -2284,12 +2241,12 @@ ova.
 
 — Svakako.
 
-<!-- anchor:160c -->
+
 — Dakle, i sada, kada kaže „ako jedno nije“, jasno je da govori o nečem drugom kao ne-suštom, i znamo šta govori.
 
 — Kako ne?
 
-— Najpre, dakle, kada kaže „jedno“, označava nešto spoznatljivo, a zatim da ono nije; i ništa manje se zna šta kaže, bilo da mu pripisuje bivanje bilo nebivanje. Zar ne?
+— Najpre, dakle, kada kaže „jedno“, označava nešto spoznatljivo, a zatim da ono nije; i ništa manje se zna šta kaže, bilo da mu pripisuje bivanje bilo <!-- anchor:160d -->nebivanje. Zar ne?
 
 — Svakako.
 
@@ -2297,8 +2254,8 @@ ova.
 
 — Nužno.
 
-<!-- anchor:160d -->
-— Mora, dakle, u njemu biti i različitost prema drugima; jer kada kaže da jedno nije, ne govori da drugo nije, nego upravo o njemu.
+
+— Mora, dakle, u njemu biti i različitost prema drugima; <!-- anchor:160e -->jer kada kaže da jedno nije, ne govori da drugo nije, nego upravo o njemu.
 
 — Svakako.
 
@@ -2306,11 +2263,11 @@ ova.
 
 — Nužno.
 
-— Dakle, ako jedno nije, mora mu pripadati i učestvovanje u onome i u mnogim drugim stvarima.
+— Dakle, ako jedno nije, mora mu pripadati i učestvovanje u onome i u <!-- anchor:161a -->mnogim drugim stvarima.
 
 — Mora.
 
-<!-- anchor:160e -->
+
 — I nesličnost mu prema drugima mora pripadati, ako jedno nije.
 
 — Kako?
@@ -2323,7 +2280,7 @@ ova.
 
 — Kako ne?
 
-— A ono što je različito od različitoga bilo bi neslično njemu.
+— A ono što je različito od različitoga bilo bi <!-- anchor:161b -->neslično njemu.
 
 — Svakako.
 
@@ -2331,14 +2288,14 @@ ova.
 
 — Očigledno.
 
-<!-- anchor:161a -->
+
 — A ako je neslično drugima, zar neće biti slično samome sebi?
 
 — Kako?
 
 — Jer ako bi jedno bilo neslično jednom, rasuđivanje više ne bi bilo o takvom nečem kao što je jedno, niti bi pretpostavka bila o jednom, nego o nečem drugom od jednog.
 
-— Svakako.
+<!-- anchor:161c -->— Svakako.
 
 — Ali to ne treba.
 
@@ -2352,12 +2309,12 @@ ova.
 
 — Nemoguće.
 
-<!-- anchor:161b -->
+
 — A pošto nije jednako drugima, nije li nužno da i druga budu nejednaka njemu?
 
 — Nužno.
 
-— A nejednake stvari nisu li nejednake zato što su jedne veće, a druge manje?
+— A nejednake stvari nisu li nejednake <!-- anchor:161d -->zato što su jedne veće, a druge manje?
 
 — Da.
 
@@ -2377,10 +2334,10 @@ ova.
 
 — Ne, samo nju.
 
-<!-- anchor:161c -->
+
 — U čemu god, dakle, ima veličine i malosti, ima i jednakosti između njih.
 
-— Izgleda.
+<!-- anchor:161e -->— Izgleda.
 
 — Jednom koje nije, dakle, kako izgleda, pripadaju i jednakost i veličina i malost.
 
@@ -2394,18 +2351,18 @@ ova.
 
 — Tako je.
 
-— Pošto, dakle, tvrdimo da govorimo istinu, nužno tvrdimo da govorimo ono što jeste.
+— Pošto, dakle, tvrdimo da govorimo istinu, nužno tvrdimo da <!-- anchor:162a -->govorimo ono što jeste.
 
 — Nužno.
 
-<!-- anchor:161d -->
+
 — Jedno, dakle, kako izgleda, jeste ne-sušto; jer ako ne bude ne-sušto, nego nekako od bivanja odstupi prema nebivanju, odmah će biti sušto.
 
 — Sasvim tako.
 
-— Mora, dakle, imati vezu nebivanja sa nebivanjem, ako treba da ne bude, kao što sušto mora imati nebivanje ne-suštog da bi potpuno bilo. Jer tako bi sušto ponajviše bilo, a ne-sušto ne bi bilo: sušto učestvujući u suštastvu bivanja suštog, a u nebivanju bivanja ne-suštog, ako treba potpuno da bude; a ne-sušto učestvujući u nebivanju nebivanja suštog, a u bivanju bivanja ne-suštog, ako i ne-sušto treba potpuno da ne bude.
+— Mora, dakle, imati vezu nebivanja sa nebivanjem, ako treba da ne bude, kao što sušto mora imati nebivanje ne-suštog da bi potpuno bilo. Jer tako bi sušto ponajviše bilo, a ne-sušto ne bi bilo: sušto učestvujući u suštastvu bivanja suštog, a u nebivanju bivanja ne-suštog, ako treba potpuno da bude; a <!-- anchor:162b -->ne-sušto učestvujući u nebivanju nebivanja suštog, a u bivanju bivanja ne-suštog, ako i ne-sušto treba potpuno da ne bude.
 
-<!-- anchor:161e -->
+
 — Sasvim istinito.
 
 — Pošto, dakle, suštom pripada nebivanje, a ne-suštom suštastvo, nužno je da i jedno, pošto nije, učestvuje u suštastvu radi nebivanja.
@@ -2424,8 +2381,8 @@ ova.
 
 — Ne može.
 
-<!-- anchor:162a -->
-— Sve takvo, dakle, pokazuje promenu, ako nešto i jeste i nije u nekom stanju.
+
+— Sve takvo, dakle, pokazuje <!-- anchor:162c -->promenu, ako nešto i jeste i nije u nekom stanju.
 
 — Kako ne?
 
@@ -2445,12 +2402,12 @@ ova.
 
 — Izgleda.
 
-<!-- anchor:162b -->
+
 — A ako nigde nije među suštima, budući da nije, ne bi moglo prelaziti odnekud nekuda.
 
 — Kako bi?
 
-— Dakle, ne bi se kretalo prelaženjem.
+— Dakle, ne bi se kretalo <!-- anchor:162d -->prelaženjem.
 
 — Ne bi.
 
@@ -2462,12 +2419,12 @@ ova.
 
 — Ne može.
 
-<!-- anchor:162c -->
+
 — Niti se jedno menja u nešto drugo od sebe, bilo da jeste bilo da nije; jer tada više ne bi bilo reči o jednom, ako bi se ono menjalo u nešto drugo od sebe.
 
 — Pravo.
 
-— A ako se niti menja, niti okreće u istom, niti prelazi, zar se još na neki način kreće?
+— A ako se niti menja, niti okreće u istom, niti prelazi, zar se <!-- anchor:162e -->još na neki način kreće?
 
 — Kako bi?
 
@@ -2479,8 +2436,8 @@ ova.
 
 — Izgleda.
 
-<!-- anchor:162d -->
-— A ako se kreće, velika je nužnost da se menja; jer koliko se nešto pokrene, toliko više nije onako kako je bilo, nego je drukčije.
+
+— A ako se kreće, velika je nužnost da se menja; <!-- anchor:163a -->jer koliko se nešto pokrene, toliko više nije onako kako je bilo, nego je drukčije.
 
 — Tako je.
 
@@ -2500,8 +2457,8 @@ ova.
 
 — Izgleda.
 
-<!-- anchor:162e -->
-— Zar onda ono što se menja ne mora postajati drugo nego što je bilo, i propadati iz svog pređašnjeg stanja, a ono što se ne menja niti nastajati niti propadati?
+
+— Zar onda ono što se menja ne mora postajati drugo nego što je bilo, i propadati iz svog <!-- anchor:163b -->pređašnjeg stanja, a ono što se ne menja niti nastajati niti propadati?
 
 — Nužno.
 
@@ -2509,7 +2466,7 @@ ova.
 
 — Svakako.
 
-<!-- anchor:163a -->
+
 — Vratimo se opet na početak da vidimo hoće li nam se pokazati isto kao sada ili drukčije.
 
 — Treba.
@@ -2526,8 +2483,8 @@ ova.
 
 — Najprostije tako.
 
-<!-- anchor:163b -->
-— Ne-sušto, dakle, ne bi moglo ni biti niti na drugi način učestvovati u suštastvu.
+
+— Ne-sušto, dakle, ne bi moglo ni biti niti na drugi način <!-- anchor:163d -->učestvovati u suštastvu.
 
 — Ne bi.
 
@@ -2543,7 +2500,7 @@ ova.
 
 — Razumno.
 
-<!-- anchor:163d -->
+
 — Jedno koje nije, dakle, niti propada niti nastaje, pošto ni na koji način ne učestvuje u suštastvu.
 
 — Ne izgleda.
@@ -2564,8 +2521,8 @@ ova.
 
 — Ne, zaista.
 
-<!-- anchor:164a -->
-— Ali mu ne pripada ni išta od suštih; jer učestvujući u tome već bi učestvovalo u suštastvu.
+
+— Ali mu ne pripada ni išta od suštih; jer <!-- anchor:164a -->učestvujući u tome već bi učestvovalo u suštastvu.
 
 — Očigledno.
 
@@ -2602,8 +2559,8 @@ ova.
 
 — Tako je.
 
-<!-- anchor:164c -->
-— Ako, dakle, govorimo o drugima, govorimo o različitima; ili zar ti „drugo“ i „različito“ nisu isto?
+
+— Ako, dakle, govorimo o drugima, govorimo o različitima; ili zar ti „drugo“ i <!-- anchor:164c -->„različito“ nisu isto?
 
 — Isto.
 
@@ -2623,8 +2580,8 @@ ova.
 
 — Pravo.
 
-<!-- anchor:164d -->
-— Dakle, svaka mnoštva jedna su od drugih, jer kao jedno ne mogu biti druga, pošto jedno nije; nego je, kako izgleda, svaka njihova gomila beskrajna mnoštvom, pa ako neko uzme ono što izgleda najmanje, ono se iznenada, kao u snu, umesto jednog što se činilo da jeste, pokazuje mnogim, a umesto najmanjeg veoma velikim prema delovima koji se iz njega dele.
+
+— Dakle, svaka mnoštva jedna su od drugih, jer kao jedno ne mogu biti druga, pošto jedno nije; nego je, <!-- anchor:164d -->kako izgleda, svaka njihova gomila beskrajna mnoštvom, pa ako neko uzme ono što izgleda najmanje, ono se iznenada, kao u snu, umesto jednog što se činilo da jeste, pokazuje mnogim, a umesto najmanjeg veoma velikim prema delovima koji se iz njega dele.
 
 — Sasvim tako.
 
@@ -2632,12 +2589,12 @@ ova.
 
 — Svakako.
 
-<!-- anchor:164e -->
+
 — Zar neće biti i mnogo gomila, od kojih će svaka izgledati kao jedno, a neće biti jedno, pošto jednog nema?
 
 — Tako je.
 
-— I izgledaće da postoji njihov broj, ako svaka izgleda kao jedno, a njih ima mnogo.
+— I <!-- anchor:164e -->izgledaće da postoji njihov broj, ako svaka izgleda kao jedno, a njih ima mnogo.
 
 — Svakako.
 
@@ -2695,11 +2652,11 @@ mnogih, budući maleno.
 
 — Svakako.
 
-— I iste i različite jedna od drugih, i da se dodiruju i da su odvojene, i da se kreću svim kretanjima i da na svaki način stoje, i da nastaju i propadaju, i niti nastaju niti propadaju, i sve tome slično, što bismo sada lako mogli proći, ako, kada jednog nema, postoji mnoštvo.
+— I iste i različite jedna od drugih, i da se dodiruju i da su odvojene, i da se kreću svim kretanjima i da na svaki način stoje, i da nastaju i propadaju, i niti nastaju niti propadaju, i sve tome slično, što bismo sada lako mogli proći, ako, <!-- anchor:165e -->kada jednog nema, postoji mnoštvo.
 
 — Sasvim istinito.
 
-<!-- anchor:165e -->
+
 — Vratimo se, dakle, još jednom na početak i recimo: ako jedno nije, a druga od jednog jesu, šta će biti?
 
 — Recimo.

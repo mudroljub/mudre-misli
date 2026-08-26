@@ -87,13 +87,12 @@ for (const [filename, entries] of entriesByFile) {
 
   const targetOffsets = new Map(currentOffsets)
   for (const { anchor, instruction } of entries) {
-    if (!currentOffsets.has(anchor)) throw new Error(`${path.basename(filename)}: missing anchor ${anchor}`)
-    const current = currentOffsets.get(anchor)
     const located = locatorOffset(plain, instruction, `${path.basename(filename)}#${anchor}`)
-    const between = plain.slice(Math.min(current, located), Math.max(current, located))
-    const offset = between.trim() === '' ? current : located
+    const current = currentOffsets.get(anchor)
+    const between = current === undefined ? '' : plain.slice(Math.min(current, located), Math.max(current, located))
+    const offset = current !== undefined && between.trim() === '' ? current : located
     targetOffsets.set(anchor, offset)
-    const state = current === offset ? 'ostaje' : `${current} → ${offset}`
+    const state = current === undefined ? `dodaje se na ${offset}` : current === offset ? 'ostaje' : `${current} → ${offset}`
     console.log(`${path.relative(rootDir, filename)}#${anchor}: ${state}`)
     if (current !== offset) movedCount += 1
   }

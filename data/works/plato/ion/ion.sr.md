@@ -365,9 +365,9 @@ plač se razgoreo, a obrazi su suzama obliveni;
 
 prag je pun privida, pun je i dvor
 
-onih što idu ka mraku pod tamu; <!-- anchor:539b -->sunce pak
+onih što idu ka mraku pod tamu; sunce pak
 
-sa neba iščeze, a zla magla nadođe.
+<!-- anchor:539b -->sa neba iščeze, a zla magla nadođe.
 
 I u Ilijadi na mnogim mestima, kao kod zida kada Trojanci htedoše preći. Jer govori:
 
@@ -495,7 +495,7 @@ Ion · Koga?
 
 Sokrat · Onoga koga su Atinjani mnogo puta izabrali za vojskovođu <!-- anchor:541d -->premda je stranac; i Fanostena Andranina i Heraklida Klazomenjanina, koji, premda stranci, pošto su se pokazali dostojnim, od grada dobijaju i vojskovodstvo i druge vlasti.
 
-A tebe, Ione, Efešanina, ne bi li izabrali i počastili kada bi se pokazao dostojnim? Ili vi Efešani niste od iskona Atinjani, <!-- anchor:541e -->i Efes je manje vredan od nekog drugog grada?
+A tebe, Ione, Efešanina, ne bi li izabrali i počastili kada bi se pokazao dostojnim? Ili vi Efešani niste od iskona Atinjani, i Efes<!-- anchor:541e --> je manje vredan od nekog drugog grada?
 
 Nego, Ione, ako istinu govoriš da umenjem i znanjem možeš hvaliti Homera, činiš mi nepravdu: obećavaš da znaš mnogo i krasno o Homeru i govoriš da ćeš pokazati, a nećeš da pokažeš.
 
