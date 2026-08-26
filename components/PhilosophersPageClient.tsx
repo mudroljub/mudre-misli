@@ -60,7 +60,7 @@ export default function PhilosophersPageClient({ language }: PhilosophersPageCli
                                       {displayName.charAt(0)}
                                     </div>
                                   )}
-                                  <span>{displayName}</span>
+                                  <span className={styles.authorName}>{displayName}</span>
                                 </Link>
                               );
                             })}
@@ -91,7 +91,7 @@ export default function PhilosophersPageClient({ language }: PhilosophersPageCli
                               {displayName.charAt(0)}
                             </div>
                           )}
-                          <span>{displayName}</span>
+                          <span className={styles.authorName}>{displayName}</span>
                         </Link>
                       );
                     })}

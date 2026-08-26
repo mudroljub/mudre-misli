@@ -69,13 +69,13 @@
     justify-content: center;
     background: #e5e5e5;
     color: $color-text-light;
-    font-size: $font-size-display;
+    font-size: $font-size-xxxl;
     font-weight: 600;
   }
 
-  span {
+  .authorName {
     text-align: center;
-    font-size: $font-size-sm;
+    font-size: $font-size-md;
     font-weight: 500;
   }
 }
