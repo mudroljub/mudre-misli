@@ -1,11 +1,10 @@
 'use client'
 
-import Link from 'next/link'
 import Header from './Header'
 import Sidebar from './Sidebar'
+import WorkCover from './WorkCover'
 import { authorsData, getAuthorName } from '../utils/catalog'
 import { useTranslations } from '../utils/useTranslations'
-import { workAuthorSlug } from '../utils/works'
 import { getLocalizedWorkText, type Work } from '../types/works'
 import type { Language } from '../types/data'
 import styles from './WorksPageClient.module.scss'
@@ -59,28 +58,7 @@ export default function WorksPageClient({ language, works }: WorksPageClientProp
               <h3 className={styles.authorHeading}>{group.author}</h3>
               <div className={styles.grid}>
                 {group.works.map(work => (
-                  <article className={styles.card} key={work.id}>
-                    <Link
-                      className={styles.cover}
-                      href={`/${language}/dela/${workAuthorSlug(work)}/${work.slug}`}
-                    >
-                      <span className={styles.spine} aria-hidden="true" />
-                      <span className={styles.coverContent}>
-                        <span className={styles.author}>
-                          {transliterate(getAuthorName(work.author, language))}
-                        </span>
-                        <span className={styles.ornament} aria-hidden="true">◆</span>
-                        <span className={styles.title}>
-                          {transliterate(getLocalizedWorkText(work.title, language))}
-                        </span>
-                        <span className={styles.originalTitle}>{work.originalTitle}</span>
-                        <span className={styles.footer}>
-                          <span>{work.sections.length} §</span>
-                          <span>{t.workUi.openWork} →</span>
-                        </span>
-                      </span>
-                    </Link>
-                  </article>
+                  <WorkCover language={language} work={work} key={work.id} />
                 ))}
               </div>
             </section>

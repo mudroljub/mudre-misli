@@ -1,12 +1,12 @@
 'use client'
 
-import Link from 'next/link'
 import { useTranslations } from '../utils/useTranslations'
-import { workAuthorSlug } from '../utils/works'
-import { getLocalizedWorkText, type Work } from '../types/works'
+import type { Work } from '../types/works'
 import QuoteCard from './QuoteCard'
+import WorkCover from './WorkCover'
 import type { Language, Writing } from '../types/data'
 import styles from './AuthorPageClient.module.scss'
+import bookStyles from './WorksPageClient.module.scss'
 
 interface AuthorWorksProps {
   works: Work[]
@@ -23,22 +23,16 @@ export default function AuthorWorks({
   id = 'writings',
   title,
 }: AuthorWorksProps) {
-  const { t, transliterate } = useTranslations(language)
+  const { t } = useTranslations(language)
   if (!works.length && !entries.length) return null
 
   return (
     <section id={id} className={styles.authorSection}>
       <h3>{title ?? t.sectionWritings}</h3>
       {works.length > 0 && (
-        <div className={styles.grid}>
+        <div className={`${bookStyles.authorGroup} ${bookStyles.grid}`}>
           {works.map(work => (
-            <article className={styles.workCard} key={work.id}>
-              <h4>{transliterate(getLocalizedWorkText(work.title, language))}</h4>
-              <p>{work.originalTitle}</p>
-              <Link href={`/${language}/dela/${workAuthorSlug(work)}/${work.slug}`}>
-                {t.workUi.openWork}
-              </Link>
-            </article>
+            <WorkCover language={language} work={work} key={work.id} />
           ))}
         </div>
       )}

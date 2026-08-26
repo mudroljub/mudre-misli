@@ -41,4 +41,3 @@ probleme.
 ## P4 — terminologija i UI
 
 - odlučiti da li zaseban font za stsls ćirilicu i ostalo ili jedan za sve?
-- Filozofske knjige sortiraj po autoru. takođe stilizuj svaku knjigu kao da ima koricu razne boje, sa nazivom autora, dela i sl.
