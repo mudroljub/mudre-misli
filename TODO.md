@@ -9,13 +9,14 @@
 
 ### Popraviti lošije prevode
 
+- oceniti kvalitet dugih prevoda u data\works
 - popravljati lošije stsl prevode (isus.json uzor za etiku, Бытиѥ.md za kosmologiju)
 - popravljati lošije sr prevode
 - upodobiti sr prevod staroslovenskom dokle je prirodno (koristiti iste korene, imenice, glagole i sl kada je moguće)
 
 ## UI
 
-- napraviti stranicu za Epikteta, naći neki antički izvor koji ga pominje
 - za Epikteta će trebati novi odeljak u navigaciji, verovatno Rimski filozofi, stoici ili tako nešto. dodati strane za par najvažnijih predstavnika
 - napraviti spisak filozofski najvažnijih termina
   - naglasiti samo njih u rečniku (ceo red, sve jezike)
+- ne preslovljavati rimske brojeve u ćirilicu (npr. epicurus/principal-doctrines)

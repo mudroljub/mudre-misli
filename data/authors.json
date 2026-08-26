@@ -334,5 +334,12 @@
     "died": -261,
     "originalText": "Μενέδημος",
     "birthplace": "Eretria"
+  },
+  "Epictetus": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": 50,
+    "died": 135,
+    "originalText": "Ἐπίκτητος",
+    "birthplace": "Hierapolis"
   }
 }

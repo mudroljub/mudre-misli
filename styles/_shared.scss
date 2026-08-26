@@ -14,14 +14,16 @@ $spacing-lg: 24px;
 $spacing-xl: 32px;
 
 // Layout
-$sidebar-width: 320px;
 $breakpoint-mobile: 800px;
 
 // Typography
-$font-family-base: "Trebuchet MS", Arial, sans-serif;
-$font-size-small: 0.9rem;
-$font-size-base: 1rem;
-$font-size-medium: 0.95rem;
+$font-family-base: BukyVede; // "Trebuchet MS", Arial, sans-serif;
+$font-size-sm: 0.875rem;
+$font-size-md: 1rem;
+$font-size-lg: 1.25rem;
+$font-size-xl: 1.5rem;
+$font-size-2xl: 2rem;
+$font-size-display: 3rem;
 
 // Border radius
 $border-radius-sm: 4px;
@@ -33,7 +35,7 @@ $transition-fast: 0.2s ease;
 
 // Mixins
 @mixin subtle-link {
-  font-size: 0.8rem;
+  font-size: $font-size-sm;
   color: $color-text-light;
   text-decoration: none;
   transition: color 0.2s;

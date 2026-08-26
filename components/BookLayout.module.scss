@@ -35,10 +35,10 @@
     margin-top: 0;
 
     &::first-letter {
-      font-size: 3em;
+      font-size: $font-size-display;
       line-height: 0.8;
       float: left;
-      margin-right: 0.1em;
+      margin-right: 0.3rem;
       color: #c41e3a;
     }
 
@@ -59,7 +59,7 @@
 
   &.anecdote {
     // Umesto kurziva koji loše izgleda sa staroslovenskim
-    padding-left: 1em;
+    padding-left: 1rem;
     border-left: 3px solid rgba(196, 30, 58, 0.3);
     opacity: 0.85;
   }

@@ -9,7 +9,7 @@
   color: $color-text-light;
 
   blockquote {
-    font-size: 1.25rem;
+  font-size: $font-size-lg;
     line-height: 1.6;
   }
 
@@ -33,14 +33,14 @@
   margin-top: 0;
   margin-bottom: 1.5rem;
   padding: 1rem;
-  font-size: $font-size-medium;
+  font-size: $font-size-md;
   font-style: italic;
   background: rgba(0, 0, 0, 0.02);
   border-left: 3px solid rgba(0, 0, 0, 0.1);
 
   .greekLatin {
     margin-top: 0.5rem;
-    font-size: 0.85rem;
+    font-size: $font-size-sm;
   }
 }
 
@@ -59,7 +59,7 @@
 }
 
 blockquote.selectedQuote {
-  font-size: 1.5rem;
+  font-size: $font-size-xl;
   font-weight: 500;
   color: $color-text;
 }
@@ -88,11 +88,11 @@ blockquote.selectedQuote {
 
 .readerText {
   margin: $spacing-xl 0;
-  font-size: 1.1rem;
+  font-size: $font-size-lg;
   line-height: 1.8;
 
   p {
-    margin: 0 0 1.25em;
+    margin: 0 0 1.375rem;
     scroll-margin-top: 1rem;
   }
 }

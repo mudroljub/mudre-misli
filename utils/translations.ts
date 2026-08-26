@@ -100,6 +100,7 @@ export interface Translations {
     Cnossos: string;
     Eretria: string;
     Syros: string;
+    Hierapolis: string;
   };
   philosophers: {
     Anaxagoras: string;
@@ -149,6 +150,7 @@ export interface Translations {
     Menedemus: string;
     Cleobulus: string;
     Cleobulina: string;
+    Epictetus: string;
   };
 }
 
@@ -253,6 +255,7 @@ export const translations: Record<Language, Translations> = {
       Cnossos: 'Кносъ',
       Eretria: 'Єрєтріꙗ',
       Syros: 'Сѵросъ',
+      Hierapolis: 'Иєраполь',
     },
     philosophers: {
       Anaxagoras: 'Анаѯагоръ',
@@ -302,6 +305,7 @@ export const translations: Record<Language, Translations> = {
       Menedemus: 'Мєнєдємъ',
       Cleobulus: 'Клєовѹлъ',
       Cleobulina: 'Клєовѹліна',
+      Epictetus: 'Епиктетъ',
     },
   },
   sr: {
@@ -404,6 +408,7 @@ export const translations: Record<Language, Translations> = {
       Cnossos: 'Knosos',
       Eretria: 'Eretrija',
       Syros: 'Siros',
+      Hierapolis: 'Hijerapolj',
     },
     philosophers: {
       Anaxagoras: 'Anaksagora',
@@ -453,6 +458,7 @@ export const translations: Record<Language, Translations> = {
       Menedemus: 'Menedem',
       Cleobulus: 'Kleobul',
       Cleobulina: 'Kleobulina',
+      Epictetus: 'Epiktet',
     },
   },
 };

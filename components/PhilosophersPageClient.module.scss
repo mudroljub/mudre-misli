@@ -9,7 +9,7 @@
 
   h3 {
     color: $color-primary;
-    font-size: 1.5rem;
+    font-size: $font-size-xl;
     margin-bottom: $spacing-md;
     border-bottom: 2px solid $color-primary;
     padding-bottom: $spacing-xs;
@@ -25,7 +25,7 @@
 .subgroup {
   h4 {
     color: $color-text;
-    font-size: 1.1rem;
+    font-size: $font-size-lg;
     margin-bottom: $spacing-sm;
     font-weight: 500;
   }
@@ -69,13 +69,13 @@
     justify-content: center;
     background: #e5e5e5;
     color: $color-text-light;
-    font-size: 3rem;
+    font-size: $font-size-display;
     font-weight: 600;
   }
 
   span {
     text-align: center;
-    font-size: 0.9rem;
+    font-size: $font-size-sm;
     font-weight: 500;
   }
 }
