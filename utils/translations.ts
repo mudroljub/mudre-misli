@@ -191,13 +191,13 @@ export const translations: Record<Language, Translations> = {
     bce: 'п.р.х.',
     wikipedia: 'Википєдїꙗ',
     navHome: 'Начѧло',
-    navPhilosophers: 'Любомѫдрьци',
+    navPhilosophers: 'Мѫдролюби',
     navDictionary: 'Словьникъ',
-    dictionaryTitle: 'Словьникъ',
+    dictionaryTitle: 'Грьчьско-словѣньскꙑи мѫдролюбьнꙑи словьникъ',
     navWorks: 'Книгꙑ',
     navAbout: 'О дѣлѣ',
     workUi: {
-      allWorks: 'Вьсѧ дѣла',
+      allWorks: 'Мѫдролюбьнꙑи книгꙑ',
       openWork: 'Чьти',
       previousSection: 'Прѣдьнии отъдѣлъ',
       nextSection: 'Слѣдѹѭштии отъдѣлъ',
@@ -218,9 +218,9 @@ export const translations: Record<Language, Translations> = {
     sidebarGroups: {
       ancientSages: 'Дрѣвьнии мѫдрьци',
       presocratics: 'Прѣдесократови',
-      athenianPhilosophy: 'Атїньска любомѫдрость',
+      athenianPhilosophy: 'Атїньско мѫдролюбіє',
       hellenisticSchools: 'Єллиньскꙑ школꙑ',
-      romanPhilosophy: 'Римьска любомѫдрость',
+      romanPhilosophy: 'Римьско мѫдролюбіє',
     },
     sidebarSubgroups: {
       ionianSchool: 'Іоньска школа',
@@ -362,7 +362,7 @@ export const translations: Record<Language, Translations> = {
     navPhilosophers: 'Filozofi',
     navDictionary: 'Rečnik',
     dictionaryTitle: 'Grčko-slovenski filozofski rečnik',
-    navWorks: 'Filozofske knjige',
+    navWorks: 'Knjige',
     navAbout: 'O projektu',
     workUi: {
       allWorks: 'Filozofske knjige',

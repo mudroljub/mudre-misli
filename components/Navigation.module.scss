@@ -4,7 +4,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: $spacing-sm;
-  font-size: $font-size-md;
+  font-size: $font-size-sm;
 
   a {
     padding: 2px 6px;
@@ -13,6 +13,7 @@
     font-weight: 400;
     border-bottom: 1px solid transparent;
     transition: color $transition-fast, border-color $transition-fast;
+    text-transform: uppercase;
 
     &:hover {
       color: $color-text;
