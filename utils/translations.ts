@@ -23,6 +23,7 @@ export interface Translations {
   navHome: string;
   navPhilosophers: string;
   navDictionary: string;
+  dictionaryTitle: string;
   navWorks: string;
   navAbout: string;
   workUi: {
@@ -192,6 +193,7 @@ export const translations: Record<Language, Translations> = {
     navHome: 'Начѧло',
     navPhilosophers: 'Любомѫдрьци',
     navDictionary: 'Словьникъ',
+    dictionaryTitle: 'Словьникъ',
     navWorks: 'Книгꙑ',
     navAbout: 'О дѣлѣ',
     workUi: {
@@ -359,10 +361,11 @@ export const translations: Record<Language, Translations> = {
     navHome: 'Početna',
     navPhilosophers: 'Filozofi',
     navDictionary: 'Rečnik',
-    navWorks: 'Knjige',
+    dictionaryTitle: 'Grčko-slovenski filozofski rečnik',
+    navWorks: 'Filozofske knjige',
     navAbout: 'O projektu',
     workUi: {
-      allWorks: 'Sva dela',
+      allWorks: 'Filozofske knjige',
       openWork: 'Čitaj delo',
       previousSection: 'Prethodni odeljak',
       nextSection: 'Sledeći odeljak',

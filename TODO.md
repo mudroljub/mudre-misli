@@ -2,22 +2,9 @@
 
 ## P0 — dovršiti i proveriti ono što je već objavljeno
 
-### Poravnati sidra svih celih dela
-
-- proveriti svih 12 dela prema kanonskim granicama grčkog izvornika;
-- dovršiti mape za dela koja ih još nemaju, naročito Platonovog `Parmenida`,
-  Epiktetovih `Razgovora` i preostala tri Epikurova dela (`Priručnik` je
-  proveren i mapiran u svih 53 odeljka; `Pismo Menoikeju` poravnato je prema
-  odeljcima X.122–135; `Parmenid` je proveren i mapiran u svih 195 Stefanovih
-  odeljaka 126a–166c; `Razgovori` su provereni i mapirani u svih 95 poglavlja
-  I.1–IV.13, uz zabeležene tekstualne praznine u knjigama I i II);
-- tokom poravnanja odmah ispraviti očigledne tekstualne greške, poput
-  dupliranih odlomaka; ostale nerešene slučajeve voditi u
-  `docs/PROBLEMI_CELIH_DELA.md`;
-- posle svakog dela pokrenuti proveru sidara i `npm run build:data`.
-
 ### Oceniti kvalitet dugih prevoda
 
+Na osnovu slučajnog uzorka, oceni kvalitet sledećih prevoda:
 1. Epiktetovi `Razgovori`, jer su najobimniji i najskorije integrisani;
 2. Platonov `Parmenid`, zbog terminološke i sintaksičke težine;
 3. ostalih pet Platonovih dijaloga;
@@ -53,7 +40,5 @@ probleme.
 
 ## P4 — terminologija i UI
 
-- u rečniku boldovati glavne (linkovane) termine, u sva tri jezika
-- napraviti spisak filozofski najvažnijih termina
-- rečnik -> Filozofski rečnik
 - odlučiti da li zaseban font za stsls ćirilicu i ostalo ili jedan za sve?
+- Filozofske knjige sortiraj po autoru. takođe stilizuj svaku knjigu kao da ima koricu razne boje, sa nazivom autora, dela i sl.

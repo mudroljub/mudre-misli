@@ -84,7 +84,7 @@ export default function DictionaryPageClient({ language, content, tags }: Dictio
       <Sidebar language={language} />
       <section className="content">
         <Header language={language} />
-        <h2>{t.navDictionary}</h2>
+        <h2>{t.dictionaryTitle}</h2>
 
         <div className={styles.dictionary}>
           <table>
@@ -102,7 +102,7 @@ export default function DictionaryPageClient({ language, content, tags }: Dictio
                 const plainGreek = entry.greek.replace(/\*/g, '');
 
                 return (
-                  <tr key={idx}>
+                  <tr key={idx} className={hasTag ? styles.linkedTerm : undefined}>
                     <td className={styles.greek}>
                       {hasTag ? (
                         <Link href={`/${language}/tags/${encodeURIComponent(entry.greek)}`} className={styles.tagLink}>

@@ -26,6 +26,18 @@
       tr {
         border-bottom: 1px solid $color-border;
 
+        &.linkedTerm {
+          .greek,
+          .stsl,
+          .sr {
+            font-weight: 700;
+          }
+
+          .greekLatin {
+            font-weight: 400;
+          }
+        }
+
         &:nth-child(even) {
           background: rgba(0, 0, 0, 0.02);
         }

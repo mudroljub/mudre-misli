@@ -1,7 +1,6 @@
 import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { greekTerms } from './greek-terms.mjs'
 import { createSourceResolvers } from './source-resolvers.mjs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -11,9 +10,11 @@ const inputDir = path.join(rootDir, 'data/quotes')
 const outputFile = path.join(rootDir, 'data/quotes.json')
 const sourcesFile = path.join(rootDir, 'data/sources.json')
 const authorsFile = path.join(rootDir, 'data/authors.json')
+const greekTermsFile = path.join(rootDir, 'data/greek-terms.json')
 
 const sourceRegistry = JSON.parse(await fs.readFile(sourcesFile, 'utf8'))
 const authorRegistry = JSON.parse(await fs.readFile(authorsFile, 'utf8'))
+const greekTerms = JSON.parse(await fs.readFile(greekTermsFile, 'utf8'))
 
 const files = (await fs.readdir(inputDir))
   .filter(file => file.endsWith('.json'))
@@ -39,9 +40,9 @@ const detectTags = originalText => {
 
   const detectedTags = new Set()
 
-  for (const term of greekTerms) {
-    if (term.forms.some(form => originalText.includes(form))) {
-      detectedTags.add(term.tag)
+  for (const [tag, forms] of Object.entries(greekTerms)) {
+    if (forms.some(form => originalText.includes(form))) {
+      detectedTags.add(tag)
     }
   }
 
