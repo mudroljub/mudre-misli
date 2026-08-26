@@ -1054,7 +1054,10 @@
         "reference": "B.15"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:2158#ἐξεχώρησεν"
+    "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:2158#ἐξεχώρησεν",
+    "tags": [
+      "αἰθήρ"
+    ]
   },
   {
     "_id": 61,
@@ -1863,7 +1866,8 @@
       }
     ],
     "tags": [
-      "στοιχεῖον"
+      "στοιχεῖον",
+      "ἀΐδιος"
     ]
   },
   {
@@ -1916,7 +1920,8 @@
       }
     ],
     "tags": [
-      "κόσμος"
+      "κόσμος",
+      "ἀΐδιος"
     ]
   },
   {
@@ -2445,6 +2450,9 @@
         "name": "hermann-diels",
         "reference": "13 A 5"
       }
+    ],
+    "tags": [
+      "ἀΐδιος"
     ]
   },
   {
@@ -11579,7 +11587,7 @@
     "_id": 676,
     "id": "mm-000659",
     "type": "quote",
-    "sr": "Sramno je pomno se baviti tuđim, a svoje ne poznavati.",
+    "sr": "Sramno je pomno se baviti tuđim, a svoje ne znati.",
     "stsl": "Стѹдьно єсть о чѹждихъ прилѣжьно пещи сѧ · своихъ же не знати ·",
     "originalText": "αἰσχρὸν τὰ ὀθνεῖα πολυπραγμονέοντα ἀγνοεῖν τὰ οἰκήϊα.",
     "author": "Democritus",
@@ -15088,7 +15096,7 @@
     "_id": 892,
     "id": "mm-000879",
     "type": "reported",
-    "sr": "Čudio se gramatičarima koji istražuju Odisejeve nevolje, a svoje ne poznaju.",
+    "sr": "Čudio se književnicima koji istražuju Odisejeve nevolje, a svoje ne znaju.",
     "stsl": "Дивлѧаше сѧ книжникомъ · иже Одисеєвы бѣды изыщѫть · своѩхъ же не вѣдѧть ·",
     "originalText": "Τούς τε γραμματικοὺς ἐθαύμαζε τὰ μὲν τοῦ Ὀδυσσέως κακὰ ἀναζητοῦντας, τὰ δ' ἴδια ἀγνοοῦντας.",
     "author": "Diogenes",
@@ -17282,6 +17290,7 @@
     ],
     "originalText": "γαίηι μὲν γὰρ γαῖαν ὀπώπαμεν, ὕδατι δ᾽ ὕδωρ, αἰθέρι δ᾽ αἰθέρα δῖον, ἀτὰρ πυρὶ πῦρ ἀΐδηλον, στοργὴν δὲ στοργῆι, νεῖκος δέ τε νείκεϊ λυγρῶι.",
     "tags": [
+      "αἰθήρ",
       "πῦρ",
       "ὕδωρ"
     ]
@@ -17314,6 +17323,9 @@
         "name": "hermann-diels",
         "reference": "B.115"
       }
+    ],
+    "tags": [
+      "ἀΐδιος"
     ]
   },
   {
@@ -17419,8 +17431,8 @@
     "_id": 1029,
     "id": "mm-001023",
     "type": "quote",
-    "sr": "No zakon svega neprestano se pruža kroz širokovladajuće nebesje i kroz neizmernu svetlost.",
-    "stsl": "Нъ законъ вьсѣхъ непрѣстаньно простираєть сѧ чрѣзъ широковладѫштеє небєсьє и чрѣзъ безмѣрьнꙑи свѣтъ ·",
+    "sr": "No zakon svega neprekidno se pruža kroz sveobuhvatno nebesje i kroz neizmernu svetlost.",
+    "stsl": "Нъ законъ вьсѣхъ непрекꙑньно простираєть сѧ чрѣзъ широковладѫштеє небєсьє и чрѣзъ безмѣрьнꙑи свѣтъ ·",
     "originalText": "ἀλλὰ τὸ μὲν πάντων νόμιμον διά τ’ εὐρυμέδοντος αἰθέρος ἠνεκέως τέταται διά τ’ ἀπλέτου αὐγῆς.",
     "author": "Empedocles",
     "sources": [
@@ -17428,6 +17440,9 @@
         "name": "hermann-diels",
         "reference": "B.135"
       }
+    ],
+    "tags": [
+      "αἰθήρ"
     ]
   },
   {
@@ -17945,6 +17960,9 @@
         "name": "hermann-diels",
         "reference": "B.37"
       }
+    ],
+    "tags": [
+      "αἰθήρ"
     ]
   },
   {
@@ -17969,7 +17987,7 @@
     "_id": 1063,
     "id": "mm-001059",
     "type": "quote",
-    "sr": "Ako su dubine zemlje i obilno nebesje beskrajni, kako je uzalud rečeno mnogim jezicima i prosuto iz usta onih koji vide tek malo od celine.",
+    "sr": "Ako su beskrajne dubine zemlje i obilno nebesje, kako uzalud rekoše mnogim jezicima i prosuše iz usta oni koji videše tek mali deo celine.",
     "stsl": "Аште безконьчьны сѫть землѧ глѫбины и обильно небєсьє · ꙗкоже многыми ѩзыкꙑ въсѹѥ речено изъ ѹстъ излиꙗ сѧ · иже малѹ чѧсть вьсего видѣшѧ ·",
     "originalText": "εἴπερ ἀπείρονα γῆς τε βάθη καὶ δαψιλὸς αἰθήρ, ὡς διὰ πολλῶν δὴ γλώσσης ῥηθέντα ματαίως ἐκκέχυται στομάτων, ὀλίγον τοῦ παντὸς ἰδόντων.",
     "author": "Empedocles",
@@ -17978,6 +17996,9 @@
         "name": "hermann-diels",
         "reference": "B.39"
       }
+    ],
+    "tags": [
+      "αἰθήρ"
     ]
   },
   {
@@ -18040,6 +18061,7 @@
       }
     ],
     "tags": [
+      "αἰθήρ",
       "ὕδωρ"
     ]
   },
@@ -18317,6 +18339,7 @@
       }
     ],
     "tags": [
+      "αἰθήρ",
       "νοῦς"
     ]
   },
@@ -18335,6 +18358,7 @@
       }
     ],
     "tags": [
+      "αἰθήρ",
       "ὕδωρ"
     ]
   },
@@ -18621,6 +18645,9 @@
         "name": "hermann-diels",
         "reference": "B.53"
       }
+    ],
+    "tags": [
+      "αἰθήρ"
     ]
   },
   {
@@ -24892,7 +24919,7 @@
     "_id": 1464,
     "id": "mm-001370",
     "type": "quote",
-    "sr": "Biće nije deljivo, jer je svuda isto. Nigde ga nema više ni manje; sve je puno bića. Zato je sve neprekidno: biće prianja uz biće. Nepokretno, u granicama silnih okova, bez početka je i prestanka, jer rođenje i propast behu daleko odagnani: odbaci ih istinsko uverenje. Isto, u istom ostajući, počiva samo u sebi i čvrsto ostaje. Silna Nužda drži ga u okovima granice koja ga odasvud zatvara. Zato biće ne sme biti nedovršeno: ničega mu ne nedostaje; nebivanje bi oskudevalo u svemu.",
+    "sr": "Biće nije deljivo, jer je svuda isto. Nigde ga nema više ni manje; sve je puno bića. Zato je sve neprekidno: biće prianja uz biće. Nepokretno, u granicama silnih okova, bez početka je i prestanka, jer rođenje i propast behu daleko odagnani: odbaci ih istinsko uverenje. Isto, u istom ostajući, počiva samo u sebi i čvrsto ostaje. Silna nužda drži ga u okovima granice koja ga odasvud zatvara. Zato biće ne sme biti nedovršeno: ničega mu ne nedostaje; nebivanje bi oskudevalo u svemu.",
     "stsl": "Ни сѫщее раздѣлимо єсть · вьсѫдѹ бо тожде · Нигдѣ єго ни болѥ ни мьньше · вьсе бо сѫщаго пълно · Тѣмь вьсе неразлѫчно · сѫщее бо сѫщаго дрьжить сѧ · Недвижимо · въ коньцехъ крѣпъкꙑхъ оковъ · безъ начѧла и прѣстаніꙗ · Рожденьѥ бо и погꙑбель далече отъгнана · истиньна вѣра ѩ отрину · Тожде · въ тождемь прѣбꙑваѭще · само въ себѣ лежить · и твьрдо прѣбꙑваєть · Крѣпъка бо Нѫжда въ оковѣхъ коньца дрьжить є · иже є отвьсѫдѹ затворѧєть · Тѣмь сѫщемѹ не подобаєть несъврьшенѹ быти · ничьсоже бо ємѹ не лишить · несѫщемѹ же вьсего бы лишило ·",
     "originalText": "οὐδὲ διαιρετόν ἐστιν, ἐπεὶ πᾶν ἐστιν ὁμοῖον· οὐδέ τι τῇ μᾶλλον, τό κεν εἴργοι μιν συνέχεσθαι, οὐδέ τι χειρότερον, πᾶν δ᾽ ἔμπλεόν ἐστιν ἐόντος. τῷ ξυνεχὲς πᾶν ἐστιν· ἐὸν γὰρ ἐόντι πελάζει. αὐτὰρ ἀκίνητον μεγάλων ἐν πείρασι δεσμῶν ἔστιν ἄναρχον ἄπαυστον, ἐπεὶ γένεσις καὶ ὄλεθρος τῆλε μάλ᾽ ἐπλάχθησαν, ἀπῶσε δὲ πίστις ἀληθής. ταὐτόν τ᾽ ἐν ταὐτῷ τε μένον καθ᾽ ἑαυτό τε κεῖται χοὔτως ἔμπεδον αὖθι μένει· κρατερὴ γὰρ ᾽Ανάγκη πείρατος ἐν δεσμοῖσιν ἔχει, τό μιν ἀμφὶς ἐέργει, οὕνεκεν οὐκ ἀτελεύτητον τὸ ἐὸν θέμις εἶναι· ἔστι γὰρ οὐκ ἐπιδευές· [μὴ] ἐὸν δ᾽ ἂν παντὸς ἐδεῖτο.",
     "author": "Parmenides",
@@ -24961,6 +24988,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:973#ὀνομάζειν",
     "tags": [
+      "αἰθήρ",
       "εἶναι",
       "κόσμος",
       "λόγος",
@@ -24988,7 +25016,7 @@
     "_id": 1469,
     "id": "mm-001375",
     "type": "quote",
-    "sr": "Poznaćeš prirodu neba i sva znamenja u njemu, nevidljiva dela čiste baklje sjajnog Sunca i odakle nastadoše. Saznaćeš i lutanja okruglookog Meseca i njegovu prirodu; znaćeš i odakle nastade nebo koje sve obuhvata i kako ga Nužda, vodeći ga, sveza da drži granice zvezda.",
+    "sr": "Poznaćeš prirodu neba i sva znamenja u njemu, nevidljiva dela čiste baklje sjajnog Sunca i odakle nastadoše. Saznaćeš i lutanja okruglookog Meseca i njegovu prirodu; znaćeš i odakle nastade nebo koje sve obuhvata i kako ga nužda, vodeći ga, sveza da drži granice zvezda.",
     "stsl": "Познаєши природѫ небєсьꙗ и вьсѧ ꙁнамениꙗ въ немь · невидима дѣла чистыѩ свѣштѧ свѣтълаго Слъньца · и отъкѫдѹ родишѧ сѧ · Познаєши и блѫдѧшта дѣла окрѫглоокаго Мѣсѧца и природѫ єго · ѹвѣси же и отъкѫдѹ небо обьемлѭштеє роди сѧ · и како Нѫжда ведѫщи є связа · да коньцꙑ звѣздъ дрьжить ·",
     "originalText": "εἴσῃ δ᾽ αἰθερίαν τε φύσιν τά τ᾽ ἐν αἰθέρι πάντα σήματα καὶ καθαρᾶς εὐαγέος ἠελίοιο λαμπάδος ἔργ᾽ ἀίδηλα καὶ ὁππόθεν ἐξεγένοντο, ἔργα τε κύκλωπος πεύσῃ περίφοιτα σελήνης καὶ φύσιν, εἰδήσεις δὲ καὶ οὐρανὸν ἀμφὶς ἔχοντα ἔνθεν [ἔφυ τε] καὶ ὥς μιν ἄγουσ(α) ἐπέδησεν Ἀνάγκη πείρατ᾽ ἔχειν ἄστρων.",
     "author": "Parmenides",
@@ -25000,6 +25028,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:1038#ἐξεγένοντο",
     "tags": [
+      "αἰθήρ",
       "φύσις"
     ]
   },
@@ -25017,7 +25046,10 @@
         "reference": "28 B 11"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:1048#οὐράνιον"
+    "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:1048#οὐράνιον",
+    "tags": [
+      "αἰθήρ"
+    ]
   },
   {
     "_id": 1471,
@@ -26009,7 +26041,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.10",
     "tags": [
       "εἶναι",
-      "φύσις"
+      "φύσις",
+      "ἀΐδιος"
     ]
   },
   {
@@ -26383,7 +26416,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.73-74",
     "tags": [
       "εἶναι",
-      "νοῦς"
+      "νοῦς",
+      "ἀΐδιος"
     ]
   },
   {
@@ -29195,6 +29229,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.28",
     "tags": [
+      "αἰθήρ",
       "εἶναι"
     ]
   },
@@ -29410,7 +29445,10 @@
         "reference": "VIII.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.27"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.27",
+    "tags": [
+      "αἰθήρ"
+    ]
   },
   {
     "_id": 1721,
@@ -34204,7 +34242,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.19",
     "tags": [
       "εἶναι",
-      "νοῦς"
+      "νοῦς",
+      "ἀΐδιος"
     ]
   },
   {
@@ -35972,7 +36011,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.134",
     "tags": [
       "εἶναι",
-      "λόγος"
+      "λόγος",
+      "ἀΐδιος"
     ]
   },
   {

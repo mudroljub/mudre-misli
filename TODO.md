@@ -48,3 +48,7 @@ probleme.
 - proveriti glavne filozofske termine ručno u rečniku
 - kako prevesti Софісти, kao mudrijaši na stsl
 - home: na reload citat trepne (pojavi se drugi) pa se vrati stari. možda treba da se menja na reload
+- na stranici taga pored grčkog termina pokazati i prevod na trenutni jezik. 
+   - bonus: dodati i link ka en.wiktionary.org
+- u rečniku za linkovane pojmove da ceo red bude klikabilan
+- dugi citati trenutno imaju kraći prikaz i Čitaj celo što otvara novu stranicu. možda samo zatvarati i otvarati na klik. takođe im ukloniti boldovan naslov koji prave od prve rečenice.
