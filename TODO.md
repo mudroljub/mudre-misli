@@ -52,3 +52,4 @@ probleme.
    - bonus: dodati i link ka en.wiktionary.org
 - u rečniku za linkovane pojmove da ceo red bude klikabilan
 - dugi citati trenutno imaju kraći prikaz i Čitaj celo što otvara novu stranicu. možda samo zatvarati i otvarati na klik. takođe im ukloniti boldovan naslov koji prave od prve rečenice.
+- dokumentovati sistem tagova. koliko je potrebno imati tagova da bi se prikazao link?
