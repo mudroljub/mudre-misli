@@ -31,6 +31,7 @@ npm start
 - [prevođenje na srpski](docs/PREVODJENJE_NA_SRPSKI.md)
 - [format čitavih dela](docs/CELA_DELA.md)
 - [istorijski korpus](docs/KORPUS.md)
+- [sistem tagova](docs/TAGOVI.md)
 - [radni zadaci](TODO.md)
 
 ## Izvori
