@@ -26,6 +26,10 @@
       tr {
         border-bottom: 1px solid $color-border;
 
+        &:nth-child(even) {
+          background: rgba(0, 0, 0, 0.02);
+        }
+
         &.linkedTerm {
           position: relative;
           cursor: pointer;
@@ -35,11 +39,7 @@
           }
         }
 
-        &:nth-child(even) {
-          background: rgba(0, 0, 0, 0.02);
-        }
-
-        &:hover {
+        &.linkedTerm:hover {
           background: rgba($color-primary, 0.05);
         }
 
