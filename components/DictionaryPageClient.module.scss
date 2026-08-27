@@ -33,10 +33,6 @@
         &.linkedTerm {
           position: relative;
           cursor: pointer;
-
-          .greek {
-            border-left: 3px solid rgba($color-primary, 0.28);
-          }
         }
 
         &.linkedTerm:hover {

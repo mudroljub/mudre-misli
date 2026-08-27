@@ -144,7 +144,7 @@
 | κενόν             | праздьно                              | praznina                        |
 | κίνησις           | движеніє                              | kretanje                        |
 | κοινός            | общь                                  | opšti                           |
-| κόσμος            | строи, міръ                           | (u)stroj, svet                  |
+| κόσμος            | строи, міръ                           | ustrojenje, svet                  |
 | κρᾶσις            | смѣшеніє                              | mešanje                         |
 | κρίνω             | лѫчити (alt: сѫдити)                  | odlučiti (alt: suditi)          |
 | κρίσις            | лѫченіє                               | odlučenje, odluka               |

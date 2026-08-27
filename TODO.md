@@ -31,3 +31,4 @@ probleme.
 ## P4 — terminologija i UI
 
 - proveriti glavne filozofske termine ručno u rečniku
+   - kosmos - ustrojstvo, ustrojenje, ЧИНЪ, 
