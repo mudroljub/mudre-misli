@@ -22,11 +22,5 @@ export const getExcerpt = (text: string): string => {
   return `${words.slice(0, LONG_FORM_EXCERPT_WORDS).join(' ')}…`
 }
 
-export const getLongFormTitle = (text: string): string => {
-  const firstLine = text.trim().split(/\n/u, 1)[0]
-  const firstSentence = firstLine.match(/^.{1,100}?[.!?](?:\s|$)/u)?.[0]
-  return (firstSentence ?? firstLine.slice(0, 80)).trim()
-}
-
 export const splitLongFormParagraphs = (text: string): string[] =>
   text.split(/\n\s*\n/u).map(paragraph => paragraph.trim()).filter(Boolean)

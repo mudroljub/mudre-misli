@@ -1,10 +1,11 @@
 'use client';
 
+import { useState } from 'react';
 import Link from "next/link";
 import classNames from "classnames";
 import { getTextForLanguage, getAuthorName, authorSlugs } from "../utils/catalog";
 import { useTranslations } from "../utils/useTranslations";
-import { getExcerpt, getLongFormTitle, isLongFormEntry } from "../utils/longForm";
+import { getExcerpt, isLongFormEntry } from "../utils/longForm";
 import type { Entry, Language } from "../types/data";
 import styles from "./QuoteCard.module.scss";
 
@@ -31,15 +32,17 @@ export default function QuoteCard({
 
   const text = transliterate(getTextForLanguage(entry, language));
   const isLongForm = isLongFormEntry(entry);
+  const [isExpanded, setIsExpanded] = useState(false);
 
   return (
     <div
       className={classNames(styles.card, styles[entry.type], className)}
       lang={language === 'stsl' ? 'cu' : 'sr'}
     >
-      {isLongForm && <h4 className={styles.longFormTitle}>{getLongFormTitle(text)}</h4>}
-      <p className={styles.quoteText}>
-        {isLongForm ? getExcerpt(text) : text}
+      <p className={classNames(styles.quoteText, {
+        [styles.expandedQuote]: isLongForm && isExpanded,
+      })}>
+        {isLongForm && !isExpanded ? getExcerpt(text) : text}
       </p>
 
       {showAuthor && (
@@ -51,7 +54,23 @@ export default function QuoteCard({
         </p>
       )}
 
-      {showSource && <Link href={`/${language}/quotes/${entry.id}`} className={styles.sourceLink}>{isLongForm ? t.readFull : t.source}</Link>}
+      {(isLongForm || showSource) && (
+        <div className={styles.cardActions}>
+          {isLongForm && (
+            <button
+              type="button"
+              className={styles.expandButton}
+              aria-expanded={isExpanded}
+              onClick={() => setIsExpanded((expanded) => !expanded)}
+            >
+              {isExpanded ? t.showLess : t.showMore}
+            </button>
+          )}
+          {showSource && (
+            <Link href={`/${language}/quotes/${entry.id}`} className={styles.sourceLink}>{t.source}</Link>
+          )}
+        </div>
+      )}
     </div>
   );
 }

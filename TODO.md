@@ -40,7 +40,6 @@ probleme.
 
 ## P4 — terminologija i UI
 
-- dugi citati trenutno imaju kraći prikaz i Čitaj celo što otvara novu stranicu. možda samo foldovati na klik. takođe im ukloni boldovan naslov koji prave od prve rečenice.
-- dokumentovati sistem tagova. koliko je potrebno imati tagova da bi se prikazao link?
+- dokumentuj sistem tagova. koliko je potrebno imati tagova da bi se prikazao link?
 - probati malo manja slova u glavnoj navigaciji
 - proveriti glavne filozofske termine ručno u rečniku

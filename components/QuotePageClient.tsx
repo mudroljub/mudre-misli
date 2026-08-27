@@ -8,7 +8,7 @@ import { getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../u
 import { useTranslations } from "../utils/useTranslations";
 import { useTransliterate } from "../utils/useTransliterate";
 import { greekToLatin, isGreek } from "../utils/greekToLatin";
-import { getLongFormTitle, isLongFormEntry, splitLongFormParagraphs } from "../utils/longForm";
+import { isLongFormEntry, splitLongFormParagraphs } from "../utils/longForm";
 import type { AuthorData, Language, Entry } from "../types/data";
 import styles from "./QuotePageClient.module.scss";
 
@@ -43,7 +43,6 @@ export default function QuotePageClient({
           <article className={styles.reader} lang={language === 'stsl' ? 'cu' : 'sr'}>
             <header>
               <p className={styles.readerAuthor}>{authorName}</p>
-              <h2>{getLongFormTitle(activeText)}</h2>
             </header>
 
             {activeParagraphs.length >= 8 && (

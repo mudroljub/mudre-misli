@@ -32,9 +32,27 @@
   }
 }
 
+.cardActions {
+  display: flex;
+  align-items: center;
+  gap: $spacing-md;
+}
+
 .sourceLink {
   @include subtle-link;
-  float: right;
+  margin-left: auto;
+}
+
+.expandButton {
+  @include subtle-link;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.expandedQuote {
+  white-space: pre-wrap;
 }
 
 .quote {
@@ -61,11 +79,6 @@
     vertical-align: -0.7rem;
     opacity: 0.5;
   }
-}
-
-.longFormTitle {
-  margin: 0 0 $spacing-sm;
-  font-size: $font-size-lg;
 }
 
 .reported {
