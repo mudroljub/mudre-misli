@@ -57,7 +57,9 @@ export default function HomeContent({ quotePool, language }: HomeContentProps) {
       <section className="content">
         <Header language={language} />
         <h2>{t.randomQuote}</h2>
-        {randomQuote && <QuoteCard entry={randomQuote} language={language} showAuthor />}
+        {randomQuote && (
+          <QuoteCard entry={randomQuote} language={language} showAuthor showAuthorImage />
+        )}
       </section>
     </main>
   );

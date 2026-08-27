@@ -40,5 +40,4 @@ probleme.
 
 ## P4 — terminologija i UI
 
-- probati malo manja slova u glavnoj navigaciji
 - proveriti glavne filozofske termine ručno u rečniku

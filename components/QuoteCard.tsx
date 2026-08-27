@@ -3,7 +3,8 @@
 import { useState } from 'react';
 import Link from "next/link";
 import classNames from "classnames";
-import { getTextForLanguage, getAuthorName, authorSlugs } from "../utils/catalog";
+import { getTextForLanguage, getAuthorName, authorSlugs, authorsData } from "../utils/catalog";
+import { withBasePath } from '../utils/helpers';
 import { useTranslations } from "../utils/useTranslations";
 import { getExcerpt, isLongFormEntry } from "../utils/longForm";
 import type { Entry, Language } from "../types/data";
@@ -15,6 +16,7 @@ interface QuoteCardProps {
   entry: QuoteCardEntry;
   language: Language;
   showAuthor?: boolean;
+  showAuthorImage?: boolean;
   showSource?: boolean;
   className?: string;
 }
@@ -23,12 +25,16 @@ export default function QuoteCard({
   entry,
   language,
   showAuthor = false,
+  showAuthorImage = false,
   showSource = true,
   className = '',
 }: QuoteCardProps) {
   const { t, transliterate } = useTranslations(language);
   const authorName = Array.isArray(entry.author) ? entry.author[0] : entry.author;
   const slug = authorSlugs[authorName];
+  const localizedAuthorName = transliterate(getAuthorName(authorName, language));
+  const authorImage = authorsData[authorName]?.src;
+  const hasAuthorImage = Boolean(authorImage && !authorImage.endsWith('/unknown-author.svg'));
 
   const text = transliterate(getTextForLanguage(entry, language));
   const isLongForm = isLongFormEntry(entry);
@@ -46,12 +52,23 @@ export default function QuoteCard({
       </p>
 
       {showAuthor && (
-        <p className={styles.authorLine}>
-          —{" "}
-          <Link href={`/${language}/authors/${slug}`} className={styles.noLink}>
-            {transliterate(getAuthorName(authorName, language))}
-          </Link>
-        </p>
+        <div className={styles.authorAttribution}>
+          {showAuthorImage && hasAuthorImage && authorImage && (
+            <Link href={`/${language}/authors/${slug}`} className={styles.portraitLink}>
+              <img
+                className={styles.authorPortrait}
+                src={withBasePath(authorImage)}
+                alt={localizedAuthorName}
+              />
+            </Link>
+          )}
+          <p className={styles.authorLine}>
+            —{' '}
+            <Link href={`/${language}/authors/${slug}`} className={styles.noLink}>
+              {localizedAuthorName}
+            </Link>
+          </p>
+        </div>
       )}
 
       {(isLongForm || showSource) && (

@@ -23,6 +23,31 @@
   font-weight: 700;
 }
 
+.authorAttribution {
+  display: flex;
+  align-items: center;
+  gap: $spacing-sm;
+  margin-bottom: $spacing-sm;
+
+  .authorLine {
+    margin: 0;
+  }
+}
+
+.portraitLink {
+  display: block;
+  flex: 0 0 auto;
+  line-height: 0;
+}
+
+.authorPortrait {
+  width: 64px;
+  height: 64px;
+  margin: 0;
+  border-radius: $border-radius-full;
+  object-fit: cover;
+}
+
 .noLink {
   color: inherit;
   text-decoration: none;
