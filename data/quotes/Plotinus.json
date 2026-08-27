@@ -1,0 +1,31 @@
+[
+  {
+    "id": "mm-900045",
+    "type": "bio",
+    "year": 250,
+    "sr": "Burley beleži da je Plotin bio Platonov učenik i Porfirijev učitelj, te da se proslavio u Atini.",
+    "stsl": "Бѹрлеи пишеть · ꙗко Плѡтинъ Платѡновъ ѹченикъ и Порфѵриѥвъ ѹчитель бѣ · и въ Атинахъ прослави сѧ ·",
+    "originalText": "Plotinus, philosophus, Platonis discipulus et preceptor Porphirii, Athenis claruit.",
+    "author": "Plotinus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. LIX"
+      }
+    ]
+  },
+  {
+    "id": "mm-900046",
+    "type": "mention",
+    "sr": "Merkurije opisuje Plotina kao izuzetnog filozofa čije je življenje sledilo njegovo učenje: ono što je učio pokazivao je sopstvenim primerom; bio je pravedan, razborit, hrabar i umeren.",
+    "stsl": "Меркурии Плотина особьна мѫдролюба нарицаєть · житіє бо єго по ѹчениѭ єго ходи · єже ѹчаше · своимь образомъ показа · правьдьнъ · разборьнъ · храбръ и мѣрьнъ бѣ ·",
+    "originalText": "Plotinus philosophus singularis, quæ philosophie non attingit partes dum eius doctrina vite senquetur insignia cum illud quod docebat non alleno, sed proprio ostenderet exemplo! Fuit namque vir iste ad omnia virtutis ornamenta compositus omniamque divinarum disposicionum stadio firmatus, iustus, providus, fortis, temperatus.",
+    "author": "Plotinus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. LIX"
+      }
+    ]
+  }
+]

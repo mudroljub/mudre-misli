@@ -79,7 +79,7 @@ Izvorni redosled sadržaja, uz lokalni radni ekstrakt i broj unosa čiji je nepo
 | LVI | Eshil | [aeschylus.txt](walter-burley/latin_raw/aeschylus.txt) | — |
 | LVII | Speusip | [speusippus.txt](walter-burley/latin_raw/speusippus.txt) | — |
 | LVIII | Apulej | — | — |
-| LIX | Plotin | [plotinus.txt](walter-burley/latin_raw/plotinus.txt) | — |
+| LIX | Plotin | [plotinus.txt](walter-burley/latin_raw/plotinus.txt) | 2 |
 | LX | Hermes Trismegist | [hermes_trismegistus.txt](walter-burley/latin_raw/hermes_trismegistus.txt) | — |
 | LXI | Ksenokrat | [xenocrates.txt](walter-burley/latin_raw/xenocrates.txt) | — |
 | LXII | Demad | [demetrius.txt](walter-burley/latin_raw/demetrius.txt) | — |

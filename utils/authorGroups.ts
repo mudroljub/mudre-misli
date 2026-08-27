@@ -136,5 +136,11 @@ export const authorGroups: AuthorGroup[] = [
         authors: ['Lucretius']
       }
     ]
+  },
+  {
+    titleKey: 'lateHellenism',
+    title: 'Late Hellenism',
+    period: '3. vek',
+    authors: ['Plotinus']
   }
 ];

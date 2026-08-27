@@ -51,6 +51,7 @@ export interface Translations {
     athenianPhilosophy: string;
     hellenisticSchools: string;
     romanPhilosophy: string;
+    lateHellenism: string;
   };
   sidebarSubgroups: {
     ionianSchool: string;
@@ -128,6 +129,7 @@ export interface Translations {
     'Euclid of Megara': string;
     Diogenes: string;
     Plato: string;
+    Plotinus: string;
     'Bias of Priene': string;
     Pythagoras: string;
     Xenophanes: string;
@@ -221,6 +223,7 @@ export const translations: Record<Language, Translations> = {
       athenianPhilosophy: 'Атїньско мѫдролюбіє',
       hellenisticSchools: 'Єллиньскꙑ школꙑ',
       romanPhilosophy: 'Римьско мѫдролюбіє',
+      lateHellenism: 'Поздьно єллиньство',
     },
     sidebarSubgroups: {
       ionianSchool: 'Іоньска школа',
@@ -298,6 +301,7 @@ export const translations: Record<Language, Translations> = {
       'Euclid of Megara': 'Еѹклидъ Мегарꙗнинъ',
       Diogenes: 'Диогенъ отъ Синопы',
       Plato: 'Платѡнъ',
+      Plotinus: 'Плѡтинъ',
       'Bias of Priene': 'Биѩнтъ',
       Pythagoras: 'Піѳагоръ',
       Xenophanes: 'Ѯєнофанъ',
@@ -389,6 +393,7 @@ export const translations: Record<Language, Translations> = {
       athenianPhilosophy: 'Atinska filozofija',
       hellenisticSchools: 'Helenističke škole',
       romanPhilosophy: 'Rimska filozofija',
+      lateHellenism: 'Pozni helenizam',
     },
     sidebarSubgroups: {
       ionianSchool: 'Jonska škola',
@@ -466,6 +471,7 @@ export const translations: Record<Language, Translations> = {
       'Euclid of Megara': 'Euklid Megaranin',
       Diogenes: 'Diogen iz Sinope',
       Plato: 'Platon',
+      Plotinus: 'Plotin',
       'Bias of Priene': 'Bijant',
       Pythagoras: 'Pitagora',
       Xenophanes: 'Ksenofan',
