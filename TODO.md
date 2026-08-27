@@ -2,19 +2,9 @@
 
 ## P0 — dovršiti i proveriti ono što je već objavljeno
 
-### Oceniti kvalitet dugih prevoda
+### Doraditi duge prevode
 
-Na osnovu slučajnog uzorka, oceni kvalitet sledećih prevoda:
-1. Epiktetovi `Razgovori`, jer su najobimniji i najskorije integrisani;
-2. Platonov `Parmenid`, zbog terminološke i sintaksičke težine;
-3. ostalih pet Platonovih dijaloga;
-4. Epikurova pisma i glavne misli;
-5. Epiktetov `Priručnik`.
-
-Za svako delo posebno proveriti srpski i staroslovenski prevod, doslednost sa
-`docs/RECNIK.md`, prirodnost jezika i međusobnu podudarnost prevoda. Kao uzore
-koristiti `data/sources/corpus/isus.json` za etiku i
-`data/sources/corpus/Бытиѥ.md` za kosmologiju.
+Redosled i nalazi su zapisani u `docs/ANALIZA_DUGIH_PREVODA.md`.
 
 ## P1 — obraditi neiskorišćene primarne izvore koji su već izdvojeni
 
