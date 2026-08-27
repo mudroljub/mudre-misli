@@ -12,6 +12,27 @@ import type { WorkReadingPage } from '../utils/workFiles'
 import type { Language } from '../types/data'
 import styles from './WorkReaderClient.module.scss'
 
+const anchorPattern = /<!--\s*anchor:([^>]+?)\s*-->/gu
+
+const anchorSpans = (anchors: string[], keyPrefix: string) => anchors.map((anchor, index) => (
+  <span
+    id={anchor.trim()}
+    className={styles.inlineAnchor}
+    aria-hidden="true"
+    key={`${keyPrefix}-${anchor}-${index}`}
+  />
+))
+
+const anchoredText = (text: string, keyPrefix: string) =>
+  text.split(anchorPattern).map((part, index) => index % 2 === 0
+    ? part
+    : <span
+        id={part.trim()}
+        className={styles.inlineAnchor}
+        aria-hidden="true"
+        key={`${keyPrefix}-${part}-${index}`}
+      />)
+
 interface WorkReaderClientProps {
   language: Language
   work: Work
@@ -32,13 +53,59 @@ export default function WorkReaderClient({ language, work, sections, readingPage
   const pageLabel = firstSection.anchor === lastSection.anchor
     ? firstSection.anchor
     : `${firstSection.anchor}–${lastSection.anchor}`
+  const pageText = sections.map(({ section, text }) =>
+    `<!-- anchor:${section.anchor} -->${transliterateText(text)}`
+  ).join('')
+  const textBlocks = pageText
+    .split(/\n\s*\n/u)
+    .map(value => value.trim())
+    .filter(Boolean)
+  const renderedText: React.ReactNode[] = []
+  let pendingAnchors: string[] = []
+
+  textBlocks.forEach((block, index) => {
+    const anchors = Array.from(block.matchAll(anchorPattern), match => match[1].trim())
+    const visibleText = block.replace(anchorPattern, '').trim()
+
+    if (!visibleText) {
+      pendingAnchors.push(...anchors)
+      return
+    }
+
+    if (visibleText === '***') {
+      renderedText.push(
+        <div className={styles.anchorBoundary} key={`boundary-${index}`}>
+          {anchorSpans(pendingAnchors, `pending-${index}`)}
+          <hr />
+        </div>,
+      )
+      pendingAnchors = []
+      return
+    }
+
+    renderedText.push(
+      <p key={index}>
+        {anchorSpans(pendingAnchors, `pending-${index}`)}
+        {anchoredText(block, `block-${index}`)}
+      </p>,
+    )
+    pendingAnchors = []
+  })
+
+  if (pendingAnchors.length) {
+    renderedText.push(
+      <span className={styles.anchorBoundary} key="trailing-anchors">
+        {anchorSpans(pendingAnchors, 'trailing')}
+      </span>,
+    )
+  }
 
   return (
     <main className="page-shell">
       <Sidebar language={language} />
       <section className="content">
         <Header language={language} />
-        <article className={styles.reader}>
+        <article className={styles.reader} lang={language === 'stsl' ? 'cu' : 'sr'}>
           <header>
             <p><Link href={`/${language}/authors/${authorSlug}`}>{transliterate(getAuthorName(work.author, language))}</Link></p>
             <h2>{transliterate(getLocalizedWorkText(work.title, language))}</h2>
@@ -63,13 +130,7 @@ export default function WorkReaderClient({ language, work, sections, readingPage
           </details>
 
           <div className={styles.text}>
-            {sections.map(({ section, text }) => (
-              <section id={section.anchor} className={styles.canonicalSection} key={section.anchor}>
-                {transliterateText(text).split(/\n\s*\n/u).map(value => value.trim()).filter(Boolean).map((paragraph, index) => paragraph === '***'
-                  ? <hr key={index} />
-                  : <p key={index}>{paragraph}</p>)}
-              </section>
-            ))}
+            {renderedText}
           </div>
 
           {sections.some(item => item.original) && (
@@ -79,7 +140,7 @@ export default function WorkReaderClient({ language, work, sections, readingPage
                 <section key={section.anchor}>
                   <h4>§ {section.anchor}</h4>
                   <p lang="grc">{original.text}</p>
-                  {isGreek(original.text) && <p className={styles.greekLatin}>{greekToLatin(original.text)}</p>}
+                  {isGreek(original.text) && <p lang="grc-Latn" className={styles.greekLatin}>{greekToLatin(original.text)}</p>}
                 </section>
               ))}
             </details>

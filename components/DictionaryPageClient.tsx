@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Sidebar from './Sidebar';
 import Header from './Header';
 import { useTranslations } from '../utils/useTranslations';
+import { useTransliterate } from '../utils/useTransliterate';
 import { greekToLatin, isGreek } from '../utils/greekToLatin';
 import type { Language } from '../types/data';
 import styles from './DictionaryPageClient.module.scss';
@@ -57,6 +58,8 @@ function parseMarkdown(text: string) {
 
 export default function DictionaryPageClient({ language, content, tags }: DictionaryPageClientProps) {
   const { t } = useTranslations(language);
+  const transliterateStsl = useTransliterate('stsl');
+  const transliterateSr = useTransliterate('sr');
   const allTags = new Set(tags);
 
   // Parse markdown table into array of rows
@@ -103,7 +106,7 @@ export default function DictionaryPageClient({ language, content, tags }: Dictio
 
                 return (
                   <tr key={idx} className={hasTag ? styles.linkedTerm : undefined}>
-                    <td className={styles.greek}>
+                    <td className={styles.greek} lang="grc">
                       {hasTag ? (
                         <Link href={`/${language}/tags/${encodeURIComponent(entry.greek)}`} className={styles.tagLink}>
                           {parseMarkdown(entry.greek).map((part, i) => (
@@ -120,23 +123,23 @@ export default function DictionaryPageClient({ language, content, tags }: Dictio
                         ))
                       )}
                       {isGreek(plainGreek) && (
-                        <span className={styles.greekLatin}>
+                        <span lang="grc-Latn" className={styles.greekLatin}>
                           {greekToLatin(plainGreek)}
                         </span>
                       )}
                     </td>
-                    <td className={styles.stsl}>
+                    <td className={styles.stsl} lang="cu">
                       {parseMarkdown(entry.stsl).map((part, i) => (
-                        part.bold ? <strong key={i}>{part.text}</strong> :
-                        part.italic ? <em key={i}>{part.text}</em> :
-                        <span key={i}>{part.text}</span>
+                        part.bold ? <strong key={i}>{transliterateStsl(part.text)}</strong> :
+                        part.italic ? <em key={i}>{transliterateStsl(part.text)}</em> :
+                        <span key={i}>{transliterateStsl(part.text)}</span>
                       ))}
                     </td>
-                    <td className={styles.sr}>
+                    <td className={styles.sr} lang="sr">
                       {parseMarkdown(entry.sr).map((part, i) => (
-                        part.bold ? <strong key={i}>{part.text}</strong> :
-                        part.italic ? <em key={i}>{part.text}</em> :
-                        <span key={i}>{part.text}</span>
+                        part.bold ? <strong key={i}>{transliterateSr(part.text)}</strong> :
+                        part.italic ? <em key={i}>{transliterateSr(part.text)}</em> :
+                        <span key={i}>{transliterateSr(part.text)}</span>
                       ))}
                     </td>
                   </tr>

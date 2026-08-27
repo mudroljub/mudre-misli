@@ -33,7 +33,10 @@ export default function QuoteCard({
   const isLongForm = isLongFormEntry(entry);
 
   return (
-    <div className={classNames(styles.card, styles[entry.type], className)}>
+    <div
+      className={classNames(styles.card, styles[entry.type], className)}
+      lang={language === 'stsl' ? 'cu' : 'sr'}
+    >
       {isLongForm && <h4 className={styles.longFormTitle}>{getLongFormTitle(text)}</h4>}
       <p className={styles.quoteText}>
         {isLongForm ? getExcerpt(text) : text}

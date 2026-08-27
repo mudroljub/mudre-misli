@@ -12,11 +12,37 @@
 
 body {
   margin: 0;
-  font-family: $font-family-base;
-  font-size: $font-size-lg;
+  font-family: $font-family-reading;
+  font-size: $font-size-base;
   line-height: 1.6;
   background: $color-background;
   color: $color-text;
+}
+
+// BukyVede belongs to the reconstructed language in its historical script.
+// Latin transliteration and Serbian use the more readable text face.
+html[data-language='stsl'][data-script='cyr'] body,
+html[data-script='cyr'] [lang='cu'] {
+  font-family: $font-family-stsl;
+  font-size: $font-size-stsl-base;
+}
+
+html[data-language='stsl'][data-script='lat'] body,
+html[data-language='sr'] body,
+[lang='sr'],
+html[data-script='lat'] [lang='cu'] {
+  font-family: $font-family-reading;
+  font-size: $font-size-base;
+}
+
+[lang='grc'] {
+  font-family: $font-family-greek;
+  font-size: $font-size-base;
+}
+
+[lang='grc-Latn'] {
+  font-family: $font-family-reading;
+  font-size: $font-size-base;
 }
 
 h1 {

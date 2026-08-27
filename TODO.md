@@ -40,7 +40,6 @@ probleme.
 
 ## P4 — terminologija i UI
 
-- odlučiti da li zaseban font za stsls ćirilicu i ostalo ili jedan za sve?
 - proveriti glavne filozofske termine ručno u rečniku
 - na stranici taga pored grčkog termina pokazati i prevod na trenutni jezik. 
    - bonus: dodati i link ka en.wiktionary.org

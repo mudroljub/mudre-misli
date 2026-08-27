@@ -27,8 +27,13 @@
   p { white-space: pre-wrap; }
 }
 
-.canonicalSection {
+.inlineAnchor,
+.anchorBoundary {
   scroll-margin-top: $spacing-lg;
+}
+
+.inlineAnchor {
+  position: relative;
 }
 
 .original {

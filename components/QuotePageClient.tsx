@@ -40,7 +40,7 @@ export default function QuotePageClient({
         <Sidebar language={language} />
         <section className="content">
           <Header language={language} />
-          <article className={styles.reader}>
+          <article className={styles.reader} lang={language === 'stsl' ? 'cu' : 'sr'}>
             <header>
               <p className={styles.readerAuthor}>{authorName}</p>
               <h2>{getLongFormTitle(activeText)}</h2>
@@ -65,9 +65,9 @@ export default function QuotePageClient({
 
             <details className={styles.originalDetails}>
               <summary>{t.source}</summary>
-              <div>{quote.originalText}</div>
+              <div lang={isGreek(quote.originalText) ? 'grc' : undefined}>{quote.originalText}</div>
               {isGreek(quote.originalText) && (
-                <div className={styles.greekLatin}>{greekToLatin(quote.originalText)}</div>
+                <div lang="grc-Latn" className={styles.greekLatin}>{greekToLatin(quote.originalText)}</div>
               )}
             </details>
 
@@ -100,16 +100,16 @@ export default function QuotePageClient({
           <h2>{authorName}</h2>
 
           {quote.originalText && (
-            <blockquote className={styles.originalQuote}>
+            <blockquote className={styles.originalQuote} lang={isGreek(quote.originalText) ? 'grc' : undefined}>
               <div>{quote.originalText}</div>
               {isGreek(quote.originalText) && (
-                <div className={styles.greekLatin}>{greekToLatin(quote.originalText)}</div>
+                <div lang="grc-Latn" className={styles.greekLatin}>{greekToLatin(quote.originalText)}</div>
               )}
             </blockquote>
           )}
 
           {quote.stsl && (
-            <blockquote className={classNames(styles.stslQuote, {
+            <blockquote lang="cu" className={classNames(styles.stslQuote, {
               [styles.selectedQuote]: language === 'stsl'
             })}>
               {transliterateStsl(quote.stsl)}
@@ -117,7 +117,7 @@ export default function QuotePageClient({
           )}
 
           {quote.sr && (
-            <blockquote className={classNames(styles.srQuote, {
+            <blockquote lang="sr" className={classNames(styles.srQuote, {
               [styles.selectedQuote]: language === 'sr'
             })}>
               {transliterateSr(quote.sr)}
