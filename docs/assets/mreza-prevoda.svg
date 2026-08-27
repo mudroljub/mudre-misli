@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Grčka i staroslovenska mreža značenja</title>
+  <desc id="desc">Tri paralelne korenske porodice pokazuju kako prevod čuva odnose među rečima, a ne samo pojedinačne reči.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbf6ea"/>
+      <stop offset="1" stop-color="#eef5e8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#2e271c" flood-opacity=".18"/>
+    </filter>
+    <style>
+      text { font-family: Cambria; fill: #282319; text-anchor: middle; }
+      .title { font-size: 30px; font-weight: 700; letter-spacing: 2px; }
+      .layer { font-size: 18px; font-weight: 700; letter-spacing: 3px; text-anchor: start; }
+      .rootText { font-size: 24px; font-weight: 700; fill: white; }
+      .nodeText { font-size: 15px; }
+      .relation { font-size: 13px; font-style: italic; fill: #716653; }
+      .greekEdge { stroke: #9b7134; stroke-width: 3; fill: none; opacity: .8; }
+      .stslEdge { stroke: #55794c; stroke-width: 3; fill: none; opacity: .85; }
+      .translation { stroke: #527a91; stroke-width: 2.5; stroke-dasharray: 8 8; fill: none; opacity: .8; }
+      .greekNode { fill: #fffaf0; stroke: #9b7134; stroke-width: 2.5; }
+      .stslNode { fill: #f5fbf1; stroke: #55794c; stroke-width: 2.5; }
+      .greekRoot { fill: #9b7134; stroke: #69471e; stroke-width: 3; }
+      .stslRoot { fill: #55794c; stroke: #365330; stroke-width: 3; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="900" rx="28" fill="url(#bg)"/>
+  <text x="700" y="48" class="title">NE PREVODI SE SAMO REČ · PREVODI SE NJEN POLOŽAJ</text>
+  <text x="42" y="112" class="layer" text-anchor="start">GRČKA MREŽA</text>
+  <text x="42" y="842" class="layer" text-anchor="start">SLOVENSKA MREŽA</text>
+  <path d="M30 420 H1370" stroke="#9c9588" stroke-width="1.5" opacity=".35"/>
+  <text x="700" y="450" class="relation">isprekidane veze prenose položaj iz jedne mreže u drugu</text>
+
+  <!-- Greek internal networks -->
+  <g>
+    <path class="greekEdge" d="M230 175 L90 285 M230 175 L185 285 M230 175 L280 285 M230 175 L375 285"/>
+    <path class="greekEdge" d="M690 175 L535 285 M690 175 L640 285 M690 175 L745 285 M690 175 L850 285"/>
+    <path class="greekEdge" d="M1160 175 L1005 285 M1160 175 L1110 285 M1160 175 L1215 285 M1160 175 L1320 285"/>
+
+    <circle cx="230" cy="155" r="54" class="greekRoot" filter="url(#shadow)"/>
+    <text x="230" y="164" class="rootText">αἰτι-</text>
+    <circle cx="690" cy="155" r="54" class="greekRoot" filter="url(#shadow)"/>
+    <text x="690" y="164" class="rootText">δικ-</text>
+    <circle cx="1160" cy="155" r="62" class="greekRoot" filter="url(#shadow)"/>
+    <text x="1160" y="164" class="rootText">κριν-</text>
+
+    <g filter="url(#shadow)">
+      <rect x="25" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="120" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="215" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="310" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="470" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="575" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="680" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="785" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="940" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="1045" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="1150" y="285" width="130" height="58" rx="29" class="greekNode"/>
+      <rect x="1255" y="285" width="130" height="58" rx="29" class="greekNode"/>
+    </g>
+    <text x="90" y="321" class="nodeText">αἰτία</text>
+    <text x="185" y="321" class="nodeText">αἰτιάομαι</text>
+    <text x="280" y="321" class="nodeText">αἴτιος</text>
+    <text x="375" y="321" class="nodeText">ἀναίτιος</text>
+    <text x="535" y="321" class="nodeText">δίκη</text>
+    <text x="640" y="321" class="nodeText">δίκαιος</text>
+    <text x="745" y="321" class="nodeText">δικαιόω</text>
+    <text x="850" y="321" class="nodeText">ἄδικος</text>
+    <text x="1005" y="321" class="nodeText">κρίνω</text>
+    <text x="1110" y="321" class="nodeText">κρίσις</text>
+    <text x="1215" y="321" class="nodeText">διακρίνω</text>
+    <text x="1320" y="321" class="nodeText">διάκρισις</text>
+  </g>
+
+  <!-- Translation links -->
+  <g>
+    <path class="translation" d="M90 343 L90 565 M185 343 L185 565 M280 343 L280 565 M375 343 L375 565"/>
+    <path class="translation" d="M535 343 L535 565 M640 343 L640 565 M745 343 L745 565 M850 343 L850 565"/>
+    <path class="translation" d="M1005 343 L1005 565 M1110 343 L1110 565 M1215 343 L1215 565 M1320 343 L1320 565"/>
+  </g>
+
+  <!-- Slavic internal networks -->
+  <g>
+    <path class="stslEdge" d="M90 623 L230 745 M185 623 L230 745 M280 623 L230 745 M375 623 L230 745"/>
+    <path class="stslEdge" d="M535 623 L690 745 M640 623 L690 745 M745 623 L690 745 M850 623 L690 745"/>
+    <path class="stslEdge" d="M1005 623 L1160 745 M1110 623 L1160 745 M1215 623 L1160 745 M1320 623 L1160 745"/>
+
+    <g filter="url(#shadow)">
+      <rect x="25" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="120" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="215" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="310" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="470" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="575" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="680" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="785" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="940" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="1045" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="1150" y="565" width="130" height="58" rx="29" class="stslNode"/>
+      <rect x="1255" y="565" width="130" height="58" rx="29" class="stslNode"/>
+    </g>
+    <text x="90" y="601" class="nodeText">вина</text>
+    <text x="185" y="601" class="nodeText">винити</text>
+    <text x="280" y="601" class="nodeText">виньнъ</text>
+    <text x="375" y="601" class="nodeText">невиньнъ</text>
+    <text x="535" y="601" class="nodeText">правда</text>
+    <text x="640" y="601" class="nodeText">праведьнъ</text>
+    <text x="745" y="601" class="nodeText">оправдити</text>
+    <text x="850" y="601" class="nodeText">неправедьнъ</text>
+    <text x="1005" y="601" class="nodeText">лѫчити</text>
+    <text x="1110" y="601" class="nodeText">лѫченіє</text>
+    <text x="1215" y="601" class="nodeText">разлѫчити</text>
+    <text x="1320" y="601" class="nodeText">разлѫченіє</text>
+
+    <circle cx="230" cy="765" r="54" class="stslRoot" filter="url(#shadow)"/>
+    <text x="230" y="774" class="rootText">вин-</text>
+    <circle cx="690" cy="765" r="54" class="stslRoot" filter="url(#shadow)"/>
+    <text x="690" y="774" class="rootText">прав-</text>
+    <circle cx="1160" cy="765" r="62" class="stslRoot" filter="url(#shadow)"/>
+    <text x="1160" y="774" class="rootText">лѫч-</text>
+  </g>
+</svg>

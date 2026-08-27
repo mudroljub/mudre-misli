@@ -15,6 +15,8 @@ const languageNames: Record<Language, string> = {
   sr: 'Srpski',
 };
 
+const LANGUAGE_SWITCH_TARGET_KEY = 'mudre-misli:language-switch-target';
+
 export default function LanguageSwitcher({ currentLang }: LanguageSwitcherProps) {
   const pathname = usePathname();
 
@@ -34,15 +36,24 @@ export default function LanguageSwitcher({ currentLang }: LanguageSwitcherProps)
 
   return (
     <div className={styles.switch}>
-      {languages.map((language) => (
-        <Link
-          key={language}
-          href={getPathForLanguage(language)}
-          className={currentLang === language ? styles.active : ''}
-        >
-          {languageNames[language]}
-        </Link>
-      ))}
+      {languages.map((language) => {
+        const targetPath = getPathForLanguage(language);
+
+        return (
+          <Link
+            key={language}
+            href={targetPath}
+            className={currentLang === language ? styles.active : ''}
+            onClick={() => {
+              if (language !== currentLang) {
+                sessionStorage.setItem(LANGUAGE_SWITCH_TARGET_KEY, targetPath);
+              }
+            }}
+          >
+            {languageNames[language]}
+          </Link>
+        );
+      })}
     </div>
   );
 }

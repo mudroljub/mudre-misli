@@ -41,13 +41,7 @@ probleme.
 ## P4 — terminologija i UI
 
 - odlučiti da li zaseban font za stsls ćirilicu i ostalo ili jedan za sve?
-- ažurirati u data i u translations.ts:
-φιλοσοφία         | любомѫдриє  -> мѫдролюбіє
-φιλόσοφος         | любомѫдрьць -> мѫдролюбьць
-- grafički (možda ascii art) prikazati mrežu prevoda, odnosno mapiranje najvećih korenskih porodica iz rečnika
 - proveriti glavne filozofske termine ručno u rečniku
-- kako prevesti Софісти, kao mudrijaši na stsl
-- home: na reload citat trepne (pojavi se drugi) pa se vrati stari. možda treba da se menja na reload
 - na stranici taga pored grčkog termina pokazati i prevod na trenutni jezik. 
    - bonus: dodati i link ka en.wiktionary.org
 - u rečniku za linkovane pojmove da ceo red bude klikabilan

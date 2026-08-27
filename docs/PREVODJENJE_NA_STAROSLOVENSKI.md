@@ -174,6 +174,9 @@ Osnovni princip:
 
 `grčka mreža reči → slovenska mreža reči`
 
+Za grafički pregled najvećih porodica vidi
+[`MREZA_PREVODA.md`](MREZA_PREVODA.md).
+
 Isti grčki koren → isti slovenski koren.
 
 Različite grčke porodice → različite slovenske porodice, kada slovenski ima sredstva da sačuva razliku.
