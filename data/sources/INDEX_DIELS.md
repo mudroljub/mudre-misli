@@ -42,10 +42,7 @@ Svih 16 tekstualnih odeljaka iz manifesta postoji:
 | 47 | Arhelaj | `47-Archelaus.txt` |
 | 51 | Diogen iz Apolonije | `51-Diogenes_of_Apollonia.txt` |
 
-Raniji izvedeni fajlovi oblika `*-fragments.json` uklonjeni su. Ne treba ih
-ponovo stvarati kao paralelni izvor istine. Kanonski lokalni anchor je sada
-odgovarajući `.txt` odeljak, dok je sam citat kanonski zapisan u autorskom
-JSON-u zbirke.
+Kanonski lokalni anchor je odgovarajući `.txt` odeljak, dok je sam citat kanonski zapisan u autorskom JSON-u zbirke.
 
 ## A i B građa
 

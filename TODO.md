@@ -15,7 +15,20 @@
 ## P1 — obraditi neiskorišćene primarne izvore koji su već izdvojeni
 
 - obraditi nove filozofe na osnovu izvora projekta (Diels, Leartije, Burley...):
-  - Plotin
+   - Plotin iz Burleyja
+   - Pitagora iz Burleyja: proveriti ekstrakt prema PDF-u, odvojiti aparat i
+      španski prevod, pa atomizovati novi biografski, etički i muzičkoteorijski
+      materijal
+   - Protagora iz Burleyja: proveriti ekstrakt prema PDF-u, odvojiti aparat i
+      španski prevod, pa atomizovati samo sadržaj koji nije već pokriven
+      postojećim izvorima
+   - Tales
+   - Vasilid
+   - Antisten
+   - Anaharsis
+   - Anaksimandar
+   - Anaksimen
+   - Arhimed
 
 ## P3 — širiti korpus celih dela tek posle zatvaranja P0 i P1
 
