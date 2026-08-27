@@ -12,7 +12,7 @@
 
 body {
   margin: 0;
-  font-family: $font-family-reading;
+  font-family: $font-family-base;
   font-size: $font-size-base;
   line-height: 1.6;
   background: $color-background;
@@ -31,7 +31,7 @@ html[data-language='stsl'][data-script='lat'] body,
 html[data-language='sr'] body,
 [lang='sr'],
 html[data-script='lat'] [lang='cu'] {
-  font-family: $font-family-reading;
+  font-family: $font-family-base;
   font-size: $font-size-base;
 }
 
@@ -41,7 +41,7 @@ html[data-script='lat'] [lang='cu'] {
 }
 
 [lang='grc-Latn'] {
-  font-family: $font-family-reading;
+  font-family: $font-family-base;
   font-size: $font-size-base;
 }
 

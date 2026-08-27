@@ -1,9 +1,13 @@
 import { notFound, redirect } from 'next/navigation';
+import fs from 'node:fs';
+import path from 'node:path';
 import { supportedLanguages } from '../../../../types/data';
 import { quotesData } from '../../../../utils/quotes';
+import { findDictionaryEntry } from '../../../../utils/dictionary';
 import QuoteCard from '../../../../components/QuoteCard';
 import Sidebar from '../../../../components/Sidebar';
 import Header from '../../../../components/Header';
+import TagHeading from '../../../../components/TagHeading';
 import type { Language, Entry } from '../../../../types/data';
 import styles from './page.module.scss';
 
@@ -56,6 +60,11 @@ export default function TagPage({ params }: TagPageProps) {
     notFound();
   }
 
+  const dictionaryPath = path.join(process.cwd(), 'docs', 'RECNIK.md');
+  const dictionaryContent = fs.readFileSync(dictionaryPath, 'utf8');
+  const dictionaryEntry = findDictionaryEntry(dictionaryContent, tag);
+  const translation = dictionaryEntry?.[lang];
+
   return (
     <main className="page-shell">
       <Sidebar language={lang} />
@@ -63,9 +72,7 @@ export default function TagPage({ params }: TagPageProps) {
       <section className={styles.content}>
         <Header language={lang} />
 
-        <h2 className={styles.tagTitle}>
-          {tag}
-        </h2>
+        <TagHeading language={lang} tag={tag} translation={translation} />
 
         <div className={styles.grid}>
           {taggedEntries.map((entry) => (

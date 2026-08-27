@@ -1,0 +1,64 @@
+@import '../styles/shared';
+
+.heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: $spacing-md;
+  margin: 0 0 $spacing-lg;
+  padding-bottom: $spacing-sm;
+  border-bottom: 1px solid $color-border;
+}
+
+.terms {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: $spacing-sm $spacing-md;
+  min-width: 0;
+}
+
+.greek {
+  margin: 0;
+  font-size: $font-size-xxxl;
+  color: $color-text;
+}
+
+.translation {
+  color: $color-text-light;
+  font-size: $font-size-xl;
+
+  &::before {
+    content: '→';
+    margin-right: $spacing-md;
+    color: $color-border;
+  }
+}
+
+.wiktionary {
+  flex: none;
+  color: $color-text-light;
+  font-family: $font-family-base;
+  font-size: $font-size-sm;
+  text-decoration: none;
+
+  &:hover {
+    color: $color-primary;
+    text-decoration: underline;
+  }
+}
+
+@media (max-width: $breakpoint-mobile) {
+  .heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .greek {
+    font-size: $font-size-xxl;
+  }
+
+  .translation {
+    font-size: $font-size-lg;
+  }
+}
