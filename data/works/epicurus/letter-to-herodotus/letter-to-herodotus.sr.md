@@ -189,9 +189,9 @@ veću, a manje njih manju.
 <!-- anchor:59 -->Po istoj srazmeri treba misliti i najmanje u nedeljivoj čestici. Ono se
 sićušnošću očigledno razlikuje od najmanjeg koje opažamo čulom, ali koristi istu
 srazmeru. Da nedeljiva čestica ima veličinu tvrdili smo prema ovoj ovdašnjoj
-srazmeri, samo smo sićušnost odveli daleko. Najmanje i nepomešane granice dužina
-treba smatrati prvim merilima koja sama sobom razumu daju meru za veće i manje u
-nevidljivim stvarima. Njihova zajedničnost s nepromenljivim dovoljna je za to;
+srazmeri, samo smo sićušnost odveli daleko. Najmanje, nepomešane granice dužina
+treba smatrati prvim merilima: one same omogućavaju razumu da odmeri veće i
+manje među nevidljivim stvarima. Njihova zajedničnost s nepromenljivim dovoljna je za to;
 ali nije moguće da se od njih sastavi sklop kao od pokretnih delova.
 
 <!-- anchor:60 -->O beskraju ne treba govoriti kao da ima najviše i najniže, gore i dole. Znamo
@@ -261,9 +261,9 @@ postoje, niti da su neka druga bestelesna bića pridodata telu, niti da su delov
 tela. Treba smatrati da celo telo ima sopstvenu večnu prirodu iz svega toga, ali
 ne kao da je sastavljeno od njih, kao kada od samih čestica nastane veći sklop,
 bilo od prvih čestica bilo od delova manjih od nekog celog tela. Ono naprosto
-ima svoju večnu prirodu iz svih tih svojstava. Svako od njih ima sopstvene
-zahvate i može se razlučiti, ali ga ceo sklop prati i nigde se od njega ne
-odvaja; svojstvo se pripisuje prema celovitom pojmu tela.
+ima svoju večnu prirodu iz svih tih svojstava. Svako svojstvo zasebno opažamo i
+razlučujemo, ali ono prati celinu i nigde se od nje ne odvaja; pripisujemo ga
+prema celovitom pojmu tela.
 
 <!-- anchor:70 -->Telima često pripada i ono što ih ne prati večno, a nije ni među nevidljivim ni
 bestelesno. U najširoj upotrebi tog imena jasno pokazujemo da prigodna stanja
@@ -280,7 +280,7 @@ smatrati stanjima tela: ona ga ne prate večno niti imaju samostalan poredak
 prirode, nego se posmatraju onako kako samo čulo pokazuje njihovu osobenost.
 
 <!-- anchor:72 -->Treba naročito razumeti i ovo: vreme ne treba istraživati kao ostalo što
-istražujemo u nekoj podlozi, svodeći ga na predujmove koje opažamo u sebi. Treba
+istražujemo u nekoj podlozi, svodeći ga na pretpojmove koje opažamo u sebi. Treba
 razmotriti samu očiglednost prema kojoj govorimo o dugom ili kratkom vremenu,
 prenoseći je po srodnosti. Ne treba menjati obične izraze kao da postoje bolji,
 nego se služiti postojećim. Ne treba vremenu pripisivati ni nešto drugo kao da

@@ -1502,7 +1502,7 @@ drugima.
 — Kako?
 
 <!-- anchor:149e -->
-— Ako bi jedno bilo veće ili manje od drugih, ili pak druga veća ili manja od jednog, zar time što je jedno jedno, a druga druga od jednog, ne bi bili ni veći ni manji jedni od drugih po samim tim svojim suštastvima? Nego, ako bi uz to što su takvi oboje imali jednakost, bili bi jednaki jedni drugima; ako bi pak druga imala veličinu, a jedno malost, ili jedno veličinu, a druga malost, kojem god vidu bi pripadala veličina, taj bi bio veći, a kojem malost, taj manji.
+— Ako bi jedno bilo veće ili manje od drugih, ili pak druga veća ili manja od jednog, zar samo time što je jedno jedno, a druga su drugo od jednog, ne bi po tim svojim suštastvima bili ni veći ni manji jedni od drugih? Ako bi uz to i jedno i druga imali jednakost, bili bi jednaki jedni drugima. Ako bi pak druga imala veličinu, a jedno malost, ili jedno veličinu, a druga malost, ono čijem bi vidu pripadala veličina bilo bi veće, a ono čijem bi pripadala malost — manje.
 
 — Nužno.
 
@@ -2040,7 +2040,7 @@ ne?
 — Kako to?
 
 <!-- anchor:157d -->
-— Ako bi nešto bilo deo mnogih među kojima je i samo, bilo bi, valjda, deo samoga sebe, što je nemoguće, a i svakoga pojedinog od drugih, ako je deo svih. Jer ako ne bi bilo deo jednoga, bilo bi deo drugih osim toga jednoga, te tako ne bi bilo deo svakoga pojedinog; a ne budući deo svakoga, ne bi bilo deo nijednoga od mnogih. A nemoguće je da ono što nije ništa nijednoga od svih njih bude bilo deo bilo šta drugo svih tih, od kojih nije ništa nijednoga.
+— Ako bi nešto bilo deo mnogih među kojima je i samo, bilo bi deo samoga sebe — što je nemoguće — i svakoga od drugih, ako je deo svih. Jer ako ne bi bilo deo jednoga, bilo bi deo drugih osim toga jednoga; tako ne bi bilo deo svakoga. A ako nije deo svakoga, nije deo nijednoga od mnogih. Ako pak nije deo nijednoga, ne može biti ništa — ni deo ni išta drugo — svih onih od kojih nije ništa.
 
 — Očigledno.
 

@@ -4,7 +4,13 @@
 
 ### Doraditi duge prevode
 
-Redosled i nalazi su zapisani u `docs/ANALIZA_DUGIH_PREVODA.md`.
+- prvo odeljak-po-odeljak proći Epikurova prirodnofilozofska pisma;
+- zatim najduže periode Epiktetovih `Razgovora` i Platonovog `Parmenida`;
+- staroslovenski rasterećivati od grčkog reda reči, nizova participa i genitiva,
+  ali ne menjati već ustaljene termine;
+- čuvati kratke naporedne celine i lične glagole kada to ne menja smisao;
+- proveravati srpski i staroslovenski prema grčkom izvorniku, naročito kod
+  tehničkih prirodnofilozofskih objašnjenja.
 
 ## P1 — obraditi neiskorišćene primarne izvore koji su već izdvojeni
 

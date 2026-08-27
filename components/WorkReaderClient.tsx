@@ -61,6 +61,11 @@ export default function WorkReaderClient({ language, work, sections, readingPage
     .map(value => value.trim())
     .filter(Boolean)
   const renderedText: React.ReactNode[] = []
+  const titledSections = new Map(
+    sections
+      .filter(({ section }) => section.title)
+      .map(({ section }) => [section.anchor, section]),
+  )
   let pendingAnchors: string[] = []
 
   textBlocks.forEach((block, index) => {
@@ -82,6 +87,18 @@ export default function WorkReaderClient({ language, work, sections, readingPage
       pendingAnchors = []
       return
     }
+
+    const sectionAnchors = [...pendingAnchors, ...anchors]
+    sectionAnchors.forEach(anchor => {
+      const section = titledSections.get(anchor)
+      if (section?.title && anchor !== firstSection.anchor) {
+        renderedText.push(
+          <h3 className={styles.sectionTitle} key={`title-${anchor}`}>
+            {transliterate(getLocalizedWorkText(section.title, language))}
+          </h3>,
+        )
+      }
+    })
 
     renderedText.push(
       <p key={index}>

@@ -219,9 +219,9 @@ Moram, naime, veoma prilagati um njima: jer ako ih navedem da plaču, sam ću se
 
 Sokrat · Znaš li onda da je taj gledalac poslednje od koluta o kojima sam govorio, koji jedan od drugoga primaju silu od Heraklejskog kamena? Srednji si ti, <!-- anchor:536a -->rapsod i glumac, a prvi je sam pesnik.
 
-A bog kroz sve njih vuče ljudske duše kuda hoće, predajući silu od jednoga drugome; i kao od onoga kamena, visi velik lanac plesača, učitelja i podučitelja, postrance jedan od drugoga, od koluta koji vise od Muse.
+A bog kroz sve njih vuče ljudsku dušu kuda hoće, vešajući silu jednoga o drugoga. Kao što o onom kamenu visi veoma dug lanac plesača, učitelja i pomoćnih učitelja, postrance okačenih o kolutove koji vise o Muzi.
 
-I od jednoga pesnika visi jedan rapsod, od drugoga drugi, i nadahnut je. Mi to nazivamo obuzetim, <!-- anchor:536b -->jer je blizu tome: drži se.
+Jedan pesnik visi o jednoj Muzi, drugi o drugoj. Kažemo da je obuzet — <!-- anchor:536b -->što je tome blisko: drži se.
 
 
 A od tih prvih koluta, pesnika, vi opet visite jedan od drugoga i bivate nadahnuti: jedan od Orfeja, drugi od Museja, a mnogi ste obuzeti Homerom i o njemu visite.

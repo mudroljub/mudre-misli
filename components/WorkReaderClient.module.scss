@@ -27,6 +27,10 @@
   p { white-space: pre-wrap; }
 }
 
+.sectionTitle {
+  margin: $spacing-xl 0 $spacing-md;
+}
+
 .inlineAnchor,
 .anchorBoundary {
   scroll-margin-top: $spacing-lg;

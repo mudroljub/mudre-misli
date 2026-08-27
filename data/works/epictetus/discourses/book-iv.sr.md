@@ -3474,7 +3474,7 @@ Nikada, dakle, ne hvalite niti kudite prema onome što je svima zajedničko, neg
 
 Pamteći ovo, raduj se onome što je prisutno i voli ono čemu je došlo vreme.
 
-Ako vidiš da ti nešto od onoga što si naučio i razmotrio dolazi u susret u samim delima, raduj mu se. Ako si odbacio zlobu i pogrdu, ako si umanjio brzopletost, sramnoslovlje, lakomislenost i nemarnost; ako te više ne pokreće ono što te je pokretalo ranije, ili bar ne jednako kao ranije — svakoga dana možeš svetkovati: danas zato što si valjano postupio u ovom delu, sutra zato što si valjano postupio u drugom.
+Ako vidiš da se nešto od onoga što si naučio i razmotrio ostvaruje u tvojim delima, raduj se tome. Ako si odbacio zlobu i pogrdu, ako si umanjio brzopletost, sramnoslovlje, lakomislenost i nemarnost; ako te više ne pokreće ono što te je pokretalo ranije, ili bar ne jednako kao ranije — svakoga dana možeš svetkovati: danas zato što si valjano postupio u ovom delu, sutra zato što si valjano postupio u drugom.
 
 Koliko je to veći razlog za žrtvu nego konzulat ili namesništvo. Ovo ti dolazi od tebe samoga i od bogova. Pamti ko daje, kome daje i radi čega.
 
@@ -3574,7 +3574,7 @@ Mislim da imam. Ali oni me ne sažaljevaju zbog onoga zbog čega bi, ako uopšte
 
 Jesi li onda pripravan da uveriš mnoštvo kako ništa od toga nije zlo i kako i siromah i vladar i nepoštovan čovek mogu biti blagočestani? Ili ćeš im se pokazivati kao bogat i moćan?
 
-Ovo drugo pripada hvalisavcu, hladnom i bezvrednom čoveku. Pogledaj kakva je pretvara potrebna: moraćeš se služiti robovima, steći malo srebrnoga posuđa i pokazivati ga javno, ako možeš više puta isto, skrivajući da je isto; nositi sjajne haljine i ostalu raskoš; pokazivati da te ugledni poštuju; pokušavati da obeduješ kod njih ili bar da se čini da obeduješ; i lukavo uređivati telo kako bi izgledao lepši i plemenitiji nego što jesi.
+Ovo drugo pripada hvalisavcu, neukusnom i bezvrednom čoveku. Pogledaj šta sve takva gluma zahteva. Moraćeš se služiti robovima, steći malo srebrnoga posuđa i pokazivati ga javno — ako možeš, više puta isto, krijući da je isto. Moraćeš nositi sjajne haljine i ostalu raskoš, pokazivati da te ugledni poštuju, pokušavati da obeduješ kod njih ili bar stvarati takav privid, te lukavo uređivati telo kako bi izgledao lepši i plemenitiji nego što jesi.
 
 Sve to moraš smišljati ako hoćeš drugim putem da izbegneš sažaljenje. Prvi je put beskrajan i dug: pokušavati upravo ono što ni Div nije mogao — uveriti sve ljude šta su dobra i zla.
 

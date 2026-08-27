@@ -55,6 +55,15 @@ Jezik zapisivati arhaičnom ćirilicom zasnovanom na najranijoj ćiriličnoj tra
 * **Ѣ** uvek koristiti gde etimološki pripada (jat)
 * **Ѧ** i **Ѫ** čuvati prema etimologiji (nosni samoglasnici)
 
+  **Očuvanje nazala ima prednost:** ne zamenjivati **ѧ** i **ѫ** kasnijim
+  nenazalnim vokalima, ni kada takav oblik izgleda poznatije savremenom čitaocu.
+  Proveriti koren, nastavak i padežni oblik; na primer, nominativ srednjeg
+  roda je **врѣмѧ**, nikako **врѣме**.
+
+  Isto važi i za druge česte oblike: **рѫка**, ne *рука*; **зѫбъ**, ne
+  *зубъ*; **мѧсо**, ne *месо*; **пѧть**, ne *петь*. Nazal nije ukrasni
+  arhaizam nego deo istorijskog oblika reči i ne sme se zamenjivati kasnijim vokalom.
+
   * **Ѧ** (mali jus, U+0467) za praslovenski ***ę*** (nosno e)
 
   * **Ѫ** (veliki jus, U+046A) za praslovenski ***ǫ*** (nosno o)
