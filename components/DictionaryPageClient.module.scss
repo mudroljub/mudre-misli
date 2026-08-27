@@ -27,14 +27,11 @@
         border-bottom: 1px solid $color-border;
 
         &.linkedTerm {
-          .greek,
-          .stsl,
-          .sr {
-            font-weight: 700;
-          }
+          position: relative;
+          cursor: pointer;
 
-          .greekLatin {
-            font-weight: 400;
+          .greek {
+            border-left: 3px solid rgba($color-primary, 0.28);
           }
         }
 
@@ -69,11 +66,29 @@
 .tagLink {
   color: $color-primary;
   text-decoration: none;
-  transition: opacity 0.2s;
+
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
 
   &:hover {
-    opacity: 0.7;
-    text-decoration: underline;
+    .linkLabel {
+      border-bottom-color: $color-primary;
+    }
+  }
+}
+
+.linkLabel {
+  border-bottom: 1px dotted rgba($color-primary, 0.55);
+  font-weight: 700;
+  transition: border-color $transition-fast;
+
+  &::after {
+    content: '›';
+    margin-left: 0.35em;
+    color: $color-text-light;
   }
 }
 

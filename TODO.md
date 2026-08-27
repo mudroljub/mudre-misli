@@ -40,8 +40,7 @@ probleme.
 
 ## P4 — terminologija i UI
 
-- u rečniku za linkovane pojmove da ceo red bude klikabilan
-- dugi citati trenutno imaju kraći prikaz i Čitaj celo što otvara novu stranicu. možda samo zatvarati i otvarati na klik. takođe im ukloniti boldovan naslov koji prave od prve rečenice.
+- dugi citati trenutno imaju kraći prikaz i Čitaj celo što otvara novu stranicu. možda samo foldovati na klik. takođe im ukloni boldovan naslov koji prave od prve rečenice.
 - dokumentovati sistem tagova. koliko je potrebno imati tagova da bi se prikazao link?
 - probati malo manja slova u glavnoj navigaciji
 - proveriti glavne filozofske termine ručno u rečniku

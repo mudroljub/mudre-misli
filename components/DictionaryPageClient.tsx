@@ -109,11 +109,13 @@ export default function DictionaryPageClient({ language, content, tags }: Dictio
                     <td className={styles.greek} lang="grc">
                       {hasTag ? (
                         <Link href={`/${language}/tags/${encodeURIComponent(entry.greek)}`} className={styles.tagLink}>
-                          {parseMarkdown(entry.greek).map((part, i) => (
-                            part.bold ? <strong key={i}>{part.text}</strong> :
-                            part.italic ? <em key={i}>{part.text}</em> :
-                            <span key={i}>{part.text}</span>
-                          ))}
+                          <span className={styles.linkLabel}>
+                            {parseMarkdown(entry.greek).map((part, i) => (
+                              part.bold ? <strong key={i}>{part.text}</strong> :
+                              part.italic ? <em key={i}>{part.text}</em> :
+                              <span key={i}>{part.text}</span>
+                            ))}
+                          </span>
                         </Link>
                       ) : (
                         parseMarkdown(entry.greek).map((part, i) => (
