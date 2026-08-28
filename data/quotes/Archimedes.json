@@ -1,0 +1,31 @@
+[
+  {
+    "id": "mm-900058",
+    "type": "works",
+    "sr": "Ostavio je kratki spis o kvadraturi kruga.",
+    "stsl": "Списаниє о четверьтованіи крѫга остави ·",
+    "originalText": "Hic libellum reliquit de quadratura circuli",
+    "author": "Archimedes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. LXXIV"
+      }
+    ]
+  },
+  {
+    "id": "mm-900059",
+    "type": "anecdote",
+    "year": -212,
+    "sr": "Kada je Marcel osvojio Sirakuzu, čuo je da je Arhimed svojim spravama godinama zadržavao njegovu pobedu. Zadivljen njegovom izuzetnom razboritošću, naredio je da mu se poštedi život. Arhimed je tada u svojoj kući sav zadubljen crtao likove po prahu. Kada je vojnik radi pljačke upao s isukanim mačem i upitao ga ko je, Arhimed od silne želje da dovrši istraživanje nije mogao kazati svoje ime; samo je rekao: Ne kvari ovo. Vojnik ga je zatim ubio mačem.",
+    "stsl": "Єгда Маркеллъ Сиракѹсѫ взѧ · слꙑша ꙗко Архимедовы строи побѣдѫ єго многꙑ лѣта въздръжаше · Дивѧ сѧ особнои разборьности мѫжа · повелѣ животъ єго поштѧти · Архимедъ же тогда въ своемь домѣ · вьсь погрѫжденъ · образꙑ въ пръсѣ писаше · Воинъ же ради граблениꙗ въскочи · мечь исъкованъ дрьжа и въпроси кто єсть · онъ же отъ великаго желаніꙗ испꙑтовати єже испыташе имене своєго рещи не можа · тъкмо рече · Не смѫштаи сего · Воинъ же потомъ мечемь єго ѹби ·",
+    "originalText": "Cum enim Marcellus Syracusam cepisset, sed propter machinacionem Archimedis victoriam eius multis annis inhibitam audivisset, eximia hominis prudencia delectatus, ut vite illius parecetur edixerat. Philosophus tunc in domo propria, animo et oculis in terram defixis, formas describus in pulvere militi qui predandi gracia domum eius irruperart, stricto gladio super caput eius tenso, quisnam esset interroganti ipse propter nimiam cupiditatem investigandi quod querebat nomen suum indicare non potuit, sed, protracto manibus pulvere, »Noli«, inquit, »istum disturbare!« Ac perinds, quasi neglirens inperit, victoris gladio obtruncatus",
+    "author": "Archimedes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. LXXIV (citing Valerius Maximus VIII)"
+      }
+    ]
+  }
+]

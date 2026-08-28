@@ -21,7 +21,7 @@ Izvorni redosled sadržaja, uz lokalni radni ekstrakt i broj unosa čiji je nepo
 
 | Redosled | Ličnost | Ekstrakt | JSON unosi |
 |---|---|---|---:|
-| I | Tales | [thales.txt](walter-burley/latin_raw/thales.txt) | — |
+| I | Tales | [thales.txt](walter-burley/latin_raw/thales.txt) | 1 |
 | II | Solon | [solon.txt](walter-burley/latin_raw/solon.txt) | 8 |
 | III | Hilon | [chilon.txt](walter-burley/latin_raw/chilon.txt) | 1 |
 | IV | Pitak | [pittacus.txt](walter-burley/latin_raw/pittacus.txt) | 1 |
@@ -29,15 +29,15 @@ Izvorni redosled sadržaja, uz lokalni radni ekstrakt i broj unosa čiji je nepo
 | VI | Kleobul | [cleobulus.txt](walter-burley/latin_raw/cleobulus.txt) | 5 |
 | VII | Perijandar | [periander.txt](walter-burley/latin_raw/periander.txt) | — |
 | VIII | Zoroaster | [zoroaster.txt](walter-burley/latin_raw/zoroaster.txt) | — |
-| IX | Anaksimandar | [anaximander.txt](walter-burley/latin_raw/anaximander.txt) | — |
+| IX | Anaksimandar | [anaximander.txt](walter-burley/latin_raw/anaximander.txt) | 1 |
 | X | Anaharsis | [anacharsis.txt](walter-burley/latin_raw/anacharsis.txt) | 1 |
 | XI | Misosternon (Mizon) | [misosternon.txt](walter-burley/latin_raw/misosternon.txt) | — |
 | XII | Epimenid | [epimenides.txt](walter-burley/latin_raw/epimenides.txt) | — |
 | XIII | Ferekid | [pherecides.txt](walter-burley/latin_raw/pherecides.txt) | 5 |
 | XIV | Homer | [homerus.txt](walter-burley/latin_raw/homerus.txt) | — |
 | XV | Likurg | [lycurgus.txt](walter-burley/latin_raw/lycurgus.txt) | — |
-| XVI | Anaksimen iz Mileta | [anaximenes.txt](walter-burley/latin_raw/anaximenes.txt) | — |
-| XVII | Pitagora | [pythagoras.txt](walter-burley/latin_raw/pythagoras.txt) | — |
+| XVI | Anaksimen iz Mileta | [anaximenes.txt](walter-burley/latin_raw/anaximenes.txt) | 1 |
+| XVII | Pitagora | [pythagoras.txt](walter-burley/latin_raw/pythagoras.txt) | 12 |
 | XVIII | Anaksagora | [anaxagoras.txt](walter-burley/latin_raw/anaxagoras.txt) | — |
 | XIX | Kratet | [crates.txt](walter-burley/latin_raw/crates.txt) | 1 |
 | XX | Stilbon | [stilbon.txt](walter-burley/latin_raw/stilbon.txt) | — |
@@ -94,7 +94,7 @@ Izvorni redosled sadržaja, uz lokalni radni ekstrakt i broj unosa čiji je nepo
 | LXXI | Antipatar | [antipater_sidonius.txt](walter-burley/latin_raw/antipater_sidonius.txt) | — |
 | LXXII | Arkesilaj | [archesilaus.txt](walter-burley/latin_raw/archesilaus.txt) | — |
 | LXXIII | Erasistrat | [eratosthenes.txt](walter-burley/latin_raw/eratosthenes.txt) | — |
-| LXXIV | Arhimed | [archimedes.txt](walter-burley/latin_raw/archimedes.txt) | — |
+| LXXIV | Arhimed | [archimedes.txt](walter-burley/latin_raw/archimedes.txt) | 2 |
 | LXXV | Ptolemej | [ptolemaeus_philadelphus.txt](walter-burley/latin_raw/ptolemaeus_philadelphus.txt) | — |
 | LXXVI | Menandar | — | — |
 | LXXVII | Filemon | — | — |

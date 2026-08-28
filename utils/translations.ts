@@ -51,7 +51,7 @@ export interface Translations {
     athenianPhilosophy: string;
     hellenisticSchools: string;
     romanPhilosophy: string;
-    lateHellenism: string;
+    lateAntiquity: string;
   };
   sidebarSubgroups: {
     ionianSchool: string;
@@ -63,6 +63,7 @@ export interface Translations {
     socratics: string;
     platonicAcademy: string;
     aristotelianSchool: string;
+    rhetoricians: string;
     cynics: string;
     stoics: string;
     skeptics: string;
@@ -130,6 +131,7 @@ export interface Translations {
     Diogenes: string;
     Plato: string;
     Plotinus: string;
+    Archimedes: string;
     'Bias of Priene': string;
     Pythagoras: string;
     Xenophanes: string;
@@ -223,7 +225,7 @@ export const translations: Record<Language, Translations> = {
       athenianPhilosophy: 'Атїньско мѫдролюбіє',
       hellenisticSchools: 'Єллиньскꙑ школꙑ',
       romanPhilosophy: 'Римьско мѫдролюбіє',
-      lateHellenism: 'Поздьно єллиньство',
+      lateAntiquity: 'Поздьнѧꙗ древьность',
     },
     sidebarSubgroups: {
       ionianSchool: 'Іоньска школа',
@@ -235,6 +237,7 @@ export const translations: Record<Language, Translations> = {
       socratics: 'Сократъ и Сократови',
       platonicAcademy: 'Платонова акадємїꙗ',
       aristotelianSchool: 'Арістотєлова школа',
+      rhetoricians: 'Витиѩ',
       cynics: 'Кїници',
       stoics: 'Стоїци',
       skeptics: 'Скєптици',
@@ -302,6 +305,7 @@ export const translations: Record<Language, Translations> = {
       Diogenes: 'Диогенъ отъ Синопы',
       Plato: 'Платѡнъ',
       Plotinus: 'Плѡтинъ',
+      Archimedes: 'Архимедъ',
       'Bias of Priene': 'Биѩнтъ',
       Pythagoras: 'Піѳагоръ',
       Xenophanes: 'Ѯєнофанъ',
@@ -393,7 +397,7 @@ export const translations: Record<Language, Translations> = {
       athenianPhilosophy: 'Atinska filozofija',
       hellenisticSchools: 'Helenističke škole',
       romanPhilosophy: 'Rimska filozofija',
-      lateHellenism: 'Pozni helenizam',
+      lateAntiquity: 'Kasna antika',
     },
     sidebarSubgroups: {
       ionianSchool: 'Jonska škola',
@@ -405,6 +409,7 @@ export const translations: Record<Language, Translations> = {
       socratics: 'Sokrat i sokratovci',
       platonicAcademy: 'Platonova akademija',
       aristotelianSchool: 'Aristotelova škola',
+      rhetoricians: 'Govornici',
       cynics: 'Kinici',
       stoics: 'Stoici',
       skeptics: 'Skeptici',
@@ -472,6 +477,7 @@ export const translations: Record<Language, Translations> = {
       Diogenes: 'Diogen iz Sinope',
       Plato: 'Platon',
       Plotinus: 'Plotin',
+      Archimedes: 'Arhimed',
       'Bias of Priene': 'Bijant',
       Pythagoras: 'Pitagora',
       Xenophanes: 'Ksenofan',

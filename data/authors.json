@@ -112,10 +112,18 @@
     "birthplace": "Athens"
   },
   "Plotinus": {
+    "src": "/images/authors/Plotinos.jpg",
     "born": 205,
     "died": 270,
     "originalText": "Πλωτῖνος",
     "birthplace": "Lycopolis"
+  },
+  "Archimedes": {
+    "src": "/images/authors/Archimedes_Bust.jpg",
+    "born": -287,
+    "died": -212,
+    "originalText": "Ἀρχιμήδης ὁ Συρακόσιος",
+    "birthplace": "Syracuse"
   },
   "Cleobulus": {
     "src": "/images/authors/statue-cleobulus-lindos.jpg",

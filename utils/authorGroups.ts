@@ -85,6 +85,11 @@ export const authorGroups: AuthorGroup[] = [
         titleKey: 'aristotelianSchool',
         title: 'Aristotelian School',
         authors: ['Aristotle', 'Theophrastus', 'Eudoxus']
+      },
+      {
+        titleKey: 'rhetoricians',
+        title: 'Rhetoricians',
+        authors: ['Demosthenes']
       }
     ]
   },
@@ -112,6 +117,11 @@ export const authorGroups: AuthorGroup[] = [
         titleKey: 'epicureans',
         title: 'Epicureans',
         authors: ['Epicurus']
+      },
+      {
+        titleKey: 'others',
+        title: 'Others',
+        authors: ['Archimedes']
       }
     ]
   },
@@ -138,9 +148,9 @@ export const authorGroups: AuthorGroup[] = [
     ]
   },
   {
-    titleKey: 'lateHellenism',
-    title: 'Late Hellenism',
-    period: '3. vek',
+    titleKey: 'lateAntiquity',
+    title: 'Late Antiquity',
+    period: '2-3. vek',
     authors: ['Plotinus']
   }
 ];

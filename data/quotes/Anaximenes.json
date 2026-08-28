@@ -452,7 +452,7 @@
   {
     "id": "mm-000165",
     "type": "quote",
-    "sr": "Kao što naša duša, budući vazduh, drži nas zajedno, tako dah i vazduh obuhvataju sav mir.",
+    "sr": "Kao što naša duša, budući vazduh, nas sadrži, tako dah i vazduh obuhvataju sav mir.",
     "stsl": "Ꙗкоже дѹша наша · въздѹхъ сѫщи · насъ съдрьжить · тако и вьсь міръ дѹхъ и въздѹхъ обьемлѥть ·",
     "originalText": "οἷον ἡ ψυχή, φησίν, ἡ ἡμετέρα ἀὴρ οὖσα συγκρατεῖ ἡμᾶς, καὶ ὅλον τὸν κόσμον πνεῦμα καὶ ἀὴρ περιέχει.",
     "author": "Anaximenes",
@@ -488,6 +488,20 @@
       {
         "name": "diogenes-laertius",
         "reference": "II.5"
+      }
+    ]
+  },
+  {
+    "id": "mm-900057",
+    "type": "mention",
+    "sr": "Poučavao je Parmenida i Anaksagoru.",
+    "stsl": "Парменида и Анаѯагора поѹчааше ·",
+    "originalText": "et preceptor Permenidis et Anaxagore.",
+    "author": "Anaximenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVI"
       }
     ]
   }

@@ -1963,5 +1963,177 @@
         "reference": "VIII.42"
       }
     ]
+  },
+  {
+    "id": "mm-900047",
+    "type": "bio",
+    "year": -570,
+    "sr": "Pitagora, filozof sa Samosa, kako kaže Justin, bio je sin bogatog trgovca Demarata. Ipak je nadmašio oca bogatstvom: ono što očeva trgovina nije mogla steći, sin je radije prezreo nego posedovao.",
+    "stsl": "Пѷѳагоръ · мѫдролюбъ Саміꙗнинъ · ꙗкоже Іѹстинъ глаголеть · сынъ богатаго кѹпьца Демарата бѣ · нъ богатствомь отьца надмину · єже отьчє кѹпьчьство стѧжати не може · сынъ паче прѣзрѣ неже имѣ ·",
+    "originalText": "Pythagoras, philosophus, nacione samus, ut ait Justinus, negociatoris divitis filius fuit cui nomen Demaratus erat, sed patre longe dicior fuit eo quod negociacio patris tanta nequi ret acquirere quanta filius contemnere maluit habere.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII (citing Justinus)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900048",
+    "type": "bio",
+    "year": -540,
+    "sr": "Kada je mnogo napredovao u mudrosti, Pitagora je najpre otišao u Egipat, a potom u Vavilon da ispita kretanja zvezda i razmotri postanak sveta; tamo je stekao veliko znanje. Vraćajući se odatle, otišao je na Krit i u Lakedemoniju da upozna Minosove i Likurgove zakone.",
+    "stsl": "Много въ мѫдрости възрастъ · Пѷѳагоръ пръвѣе въ Єгѵпетъ · потомъ же въ Вавилонъ иде · да движениꙗ звѣздъ испыта и начало мира ѹꙁрить · тамо же велико ѹчениє приѩ · Отътѫдѹ же възвраштаѧ сѧ · въ Критъ и Лакедемонїѭ иде · да Минѡсова и Ликѹргова законы поꙁнаєть ·",
+    "originalText": "Magnis itaque Pytagoras sapiencie informatus incrementis Egiptum primo, mox Babiloniam ad perscandum siderum motus originarum mundi spectandam municipiumque sciens scientiam consecutus est. Inde regressus Cretam et Lacedemoniam ad cognoscendum Minois et Ligurgi leges considerit.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII"
+      }
+    ]
+  },
+  {
+    "id": "mm-900049",
+    "type": "bio",
+    "year": -525,
+    "sr": "Oboružan tim znanjem, došao je u Kroton i svojim ugledom vratio umerenosti narod koji je zapao u raskoš.",
+    "stsl": "Симь вьсѣмь ѹкрѣпленъ · въ Кротонъ прииде и людии въ роскошь падъша властїю своєю къ ѹмѣренію възврати ·",
+    "originalText": "Quibus omnibus instructus Crotonam venit populumque in luxuriam lapsum auctoritate sua ad usum frugalitatis revocavit.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII"
+      }
+    ]
+  },
+  {
+    "id": "mm-900050",
+    "type": "reported",
+    "sr": "Učio je da pravi ukras udatih žena nije u odeći, nego u čednosti.",
+    "stsl": "Поѹчааше · ꙗко истиньныи ѹкрасъ замѫжьнимъ женамъ не въ ризахъ · нъ въ цѣломѫдріи єсть ·",
+    "originalText": "Docens vera matronarum ornamenta pudicitiam esse, non vestes.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII"
+      }
+    ]
+  },
+  {
+    "id": "mm-900051",
+    "type": "mention",
+    "sr": "Za Pitagoru se, kako Boetije kaže u prvoj knjizi O muzici, govori da je među Grcima prvi otkrio muzičko umeće: po nejednakim težinama čekića, nejednakosti žica i nejednakoj dužini svirala.",
+    "stsl": "О Пѷѳагорѣ · ꙗкоже Боетии въ прьвѣи книзѣ о сложеніи гласовъ глаголеть · глаголєть сѧ ꙗко пръвъ междѹ Грькы ѹмѣниє сложеніꙗ гласовъ обрѣте · отъ неравьныхъ тѧжьстии млатовъ · неравьства стрѹнъ и неравьныѩ дльготы свирѣлии ·",
+    "originalText": "Hic Pythagoras, ut ait Boecius in primo musice, artis musice inventor fuisse apud grecos dicitur per malleorum feriencium inequalia pondera et per cordarum inequalitatem et per calamorum inequalem longitudinem.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII (citing Boethius, De institutione musica I)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900052",
+    "type": "mention",
+    "sr": "Isidorije pak u trećoj knjizi Etimologija kaže da je Pitagora prvi među Grcima zapisao nauku o brojevima. Nikomah ju je zatim opširnije izložio, a Apulej pa Boetije preneli Latinima.",
+    "stsl": "Исидоръ же въ третиѥи книзѣ Етимологиꙗ глаголеть · ꙗко Пѷѳагоръ пръвъ междѹ Грькы ѹчениє о числѣхъ написа · Никомахъ же потомъ є разширенѣє изложи · Апѹлеи пакꙑ и Боетии Латинѣмъ пренесоста ·",
+    "originalText": "Isidorus vero .III. ethimologiarum dicit: Numeri disciplinam apud grecos primus Pythagoran nuncupant perscripisse et deinde a Nicomaseo difusius esse dispositan quam apud latinos primo Apuleius, deinde Boecius transtulerunt.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII (citing Isidorus, Etymologiae III)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900060",
+    "type": "reported",
+    "sr": "Žene je učio čednosti, a decu skromnosti i marljivom učenju.",
+    "stsl": "Жены цѣломѫдрию · дѣтѧ же кротости и прилѣжномѹ ѹчению поѹчааше ·",
+    "originalText": "Matronas a viris separatas et pueros a parentibus derelictos ad pudicitiam et ad debita societatis obsequia studio reduxit.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII"
+      }
+    ]
+  },
+  {
+    "id": "mm-900061",
+    "type": "bio",
+    "year": -520,
+    "sr": "Filozof Timej piše da je Pitagorina kći predvodila hor devica i poučavala ih čednosti.",
+    "stsl": "Мѫдролюбъ Тимеи пишеть · ꙗко Пѷѳагорова дъштерь ликѹ дѣвиць прѣдстоꙗше и цѣломѫдрию ꙗ поѹчааше ·",
+    "originalText": "Thimeus philosophus scribit Pythagorae filiam virginum choro praefuisse et castitatis eas instruxisse doctrinis.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII (citing Timaeus)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900062",
+    "type": "reported",
+    "sr": "Najbolji među ljudima, poput gledalaca na svečanosti koji ne traže ni slavu ni dobit, bdijući proučavaju prirodu stvari; njih je nazvao filozofima, ljubiteljima mudrosti.",
+    "stsl": "Лѹчьшии междѹ чловѣкы · ꙗкоже зрителє на съборѣ · ни славꙑ ни прибꙑтка не ищѫште · бдѧште єстьство вештии испꙑтѹѭть · сихъ мѫдролюбы · сирѣчь любителѥ мѫдрости · нарече ·",
+    "originalText": "Alii qui nec plaudunt nec lucrum quaerunt, sed ut studiosi perspiciant quid agatur; eo modo in hac vita homines quidam ex aliis vitae naturae profecti ad gloriam vel lucri studium occupantur aut, ceteris omnibus pro nichilo reputatis, rerum naturas studiosi intueri pervigilant; hos ultimos philosophos, id est amatores sapientiae, nominamus.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII (citing Cicero, Tusculanae disputationes V)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900063",
+    "type": "reported",
+    "sr": "Njegovi slušaoci ukazivali su mu toliku čast da su smatrali bezbožnim tumačiti ono što su primili kao njegovo učenje; na zahtev za obrazloženjem odgovarali su: „Tako je rekao Pitagora.“",
+    "stsl": "Слꙑшаще єго толицѫ чьсть ємѹ въздавахѫ · ꙗко нечествиє мьнѣахѫ тълковати єже отъ него въ ѹчении приѩшѧ · єгда же слова въпроса требѹѭтъ · отъвѣштахѫ · Пѷѳагоръ тако рече ·",
+    "originalText": "Huic, ut ait Valerius libro VIII, tanta veneratio ab auditoribus tributa est ut quae ab eo acceperant in disciplinae dicerentur nephas estimarent, qui ea interpretarent; et ad reddendam causam haec solum respondebant: Pythagoram dixisse.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII (citing Valerius Maximus VIII)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900064",
+    "type": "reported",
+    "sr": "Svi učenici stavljali su imovinu na zajedničko mesto, živeli kao nerazdvojivo društvo i voleli se; Pitagora ih je učio da je pravo prijateljstvo od mnogih srca načiniti jedno.",
+    "stsl": "Вьси ѹченици имѣниє своє въ єдино мѣсто полагаахѫ · нераздѣльно дрѹжьство имѣахѫ и люблѧахѫ сѧ · Пѷѳагоръ же поѹчааше · ꙗко истиньно дрѹжьство єсть отъ многихъ срьдьць єдино срьдьце сътворити ·",
+    "originalText": "Omnes autem discipuli quicquid pecuniae habebant in medium conferebant, et erat inter eos societas inseparabilis; omnesque in communi vivebant et mutuo se amabant. Docet enim eos Pythagoras veram amicitiae esse unum cor ex pluribus facere.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII"
+      }
+    ]
+  },
+  {
+    "id": "mm-900065",
+    "type": "reported",
+    "sr": "Govori se da se Pitagora, iz naklonosti prema umerenosti, uzdržavao od svake životinjske hrane.",
+    "stsl": "Глаголєть сѧ · ꙗко Пѷѳагоръ любви ради къ ѹмѣрению отъ вьсакого ꙗдениꙗ животьнаго въздръжаше сѧ ·",
+    "originalText": "Tanta etiam frugalitatis gratia preditus extitit ut ab omni animalium esu se pertemperasse credatur.",
+    "author": "Pythagoras",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. XVII"
+      }
+    ]
   }
 ]
