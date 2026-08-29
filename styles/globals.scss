@@ -20,9 +20,17 @@ body {
 }
 
 // BukyVede belongs to the reconstructed language in its historical script.
+// Set the scale on the root so every rem-based component follows it uniformly.
 // Latin transliteration and Serbian use the more readable text face.
-html[data-language='stsl'][data-script='cyr'] body,
-html[data-script='cyr'] [lang='cu'] {
+html[data-language='stsl'][data-script='cyr'] {
+  font-size: $font-size-stsl-base;
+}
+
+html[data-language='stsl'][data-script='cyr'] body {
+  font-family: $font-family-stsl;
+}
+
+html[data-language='sr'][data-script='cyr'] [lang='cu'] {
   font-family: $font-family-stsl;
   font-size: $font-size-stsl-base;
 }

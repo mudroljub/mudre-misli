@@ -7,17 +7,17 @@
   font-size: $font-size-xs;
 
   a {
-    padding: 2px 6px;
-    color: rgba($color-text, 0.8);
+    padding: $spacing-2xs $spacing-inline-tight;
+    color: $color-text-soft;
     text-decoration: none;
     font-weight: 400;
-    border-bottom: 1px solid transparent;
+    border-bottom: $border-width-thin solid transparent;
     transition: color $transition-fast, border-color $transition-fast;
     text-transform: uppercase;
 
     &:hover {
       color: $color-text;
-      border-bottom-color: rgba($color-text, 0.3);
+      border-bottom-color: $color-text-subtle;
     }
 
     &.active {

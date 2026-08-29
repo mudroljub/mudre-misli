@@ -1,7 +1,7 @@
 @import '../styles/shared';
 
 .content {
-  padding: 20px;
+  padding: $spacing-content;
 
   @media (min-width: $breakpoint-mobile) {
     padding: $spacing-xl;
@@ -13,14 +13,14 @@
 }
 
 .authorDates {
-  color: #666;
+  color: $color-text-light;
   font-size: $font-size-lg;
   font-weight: normal;
 }
 
 .birthplaceName {
   margin: 0;
-  color: #55452f;
+  color: $color-text-warm;
   font-size: $font-size-lg;
   font-weight: 600;
 }
@@ -59,7 +59,7 @@
   max-width: 100%;
   height: auto;
   border-radius: $border-radius-md;
-  margin-bottom: 10px;
+  margin-bottom: $spacing-tight;
 }
 
 .authorSection {
@@ -74,7 +74,7 @@
   margin: 0 0 2rem;
 
   a {
-    border: 1px solid $color-border;
+    border: $border-width-thin solid $color-border;
     color: inherit;
     padding: $spacing-xs $spacing-sm;
     text-decoration: none;
@@ -88,7 +88,7 @@
 
 .expandButton {
   margin-top: $spacing-md;
-  border: 1px solid $color-primary;
+  border: $border-width-thin solid $color-primary;
   background: transparent;
   color: $color-primary;
   cursor: pointer;
@@ -104,7 +104,7 @@
 .grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 14px;
+  gap: $spacing-snug;
 
   @media (min-width: $breakpoint-mobile) {
     grid-template-columns: repeat(2, 1fr);

@@ -7,7 +7,7 @@
 
   a {
     padding: $spacing-xs ($spacing-xs * 2);
-    border: 2px solid $color-primary;
+    border: $border-width-medium solid $color-primary;
     background: $color-white;
     color: $color-primary;
     cursor: pointer;

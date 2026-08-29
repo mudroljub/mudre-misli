@@ -33,7 +33,7 @@ uvežbati. A ni sebe pre toga niste tako iscelili.
 
 A gledajući da ste i vi sami i vaša deca dovoljno naučili pismenost,
 <!-- anchor:407c -->muziku i telesno vežbanje --- što smatrate savršenim vaspitanjem vrline
---- pa ipak ništa manje bivате rđavi u stvarima novca, kako ne prezirete
+--- pa ipak ništa manje bivate rđavi u stvarima novca, kako ne prezirete
 sadašnje vaspitanje niti tražite one koji će vas izbaviti od te
 neukosti? Jer zbog te nesaglasnosti i nemara, a ne zbog nemere noge
 prema guslama, brat bratu i grad gradu pristupaju bez mere i <!-- anchor:407d -->bez sklada,

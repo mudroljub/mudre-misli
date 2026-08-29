@@ -11,7 +11,7 @@
     color: $color-primary;
     font-size: $font-size-xl;
     margin-bottom: $spacing-md;
-    border-bottom: 2px solid $color-primary;
+    border-bottom: $border-width-medium solid $color-primary;
     padding-bottom: $spacing-xs;
   }
 }
@@ -47,20 +47,20 @@
   text-decoration: none;
   color: $color-text;
   transition: all $transition-fast;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: $shadow-subtle;
 
   &:hover {
     transform: translateY(-4px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: $shadow-raised;
   }
 
   img, .placeholder {
-    width: 120px;
-    height: 120px;
+    width: $author-card-image-size;
+    height: $author-card-image-size;
     border-radius: $border-radius-full;
     object-fit: cover;
     margin-bottom: $spacing-sm;
-    border: 3px solid $color-border;
+    border: $border-width-thick solid $color-border;
   }
 
   .placeholder {

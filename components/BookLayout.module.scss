@@ -3,13 +3,13 @@
 .book {
   background: $color-white;
   padding: $spacing-md;
-  border: 1px solid $color-border;
+  border: $border-width-thin solid $color-border;
   box-shadow: none;
   border-radius: 0;
 
   @media (min-width: $breakpoint-mobile) {
     padding: $spacing-xl;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: $shadow-reading;
     border-radius: $border-radius-sm;
   }
 }
@@ -21,7 +21,7 @@
 
   @media (min-width: 1000px) {
     column-count: 2;
-    column-rule: 1px solid $color-border;
+    column-rule: $border-width-thin solid $color-border;
   }
 }
 
@@ -39,11 +39,11 @@
       line-height: 0.8;
       float: left;
       margin-right: 0.3rem;
-      color: #c41e3a;
+      color: $color-accent;
     }
 
     &::first-line {
-      color: #c41e3a;
+      color: $color-accent;
     }
   }
 
@@ -60,7 +60,7 @@
   &.anecdote {
     // Umesto kurziva koji loše izgleda sa staroslovenskim
     padding-left: 1rem;
-    border-left: 3px solid rgba(196, 30, 58, 0.3);
+    border-left: $border-width-thick solid $color-accent-border;
     opacity: 0.85;
   }
 
@@ -70,5 +70,15 @@
 
   &.reported {
     opacity: 0.7;
+  }
+}
+
+.sourceInfo {
+  margin-left: $spacing-xs;
+  color: $color-text-light;
+  cursor: help;
+
+  &:hover {
+    color: $color-text;
   }
 }

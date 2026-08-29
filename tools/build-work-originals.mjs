@@ -109,6 +109,11 @@ const extractEnchiridion = (xml, anchor) => {
   return chapter ? teiToText(chapter.xml) : null
 }
 
+const extractFragment = (xml, anchor) => {
+  const fragment = findDiv(xml, { subtype: 'fragment', n: anchor })
+  return fragment ? teiToText(fragment.xml) : null
+}
+
 const parseReferenceRange = reference => {
   const match = reference?.match(/^X\.(\d+)[–-](\d+)$/u)
   return match ? [Number(match[1]), Number(match[2])] : null
@@ -172,6 +177,9 @@ for (const work of works) {
     } else if (work.slug === 'discourses') {
       text = extractDiscourses(xml, section.anchor)
       citation = `${romanToNumber(section.anchor.split('.')[0])}.${section.anchor.split('.')[1]}`
+    } else if (work.citationScheme === 'fragment') {
+      text = extractFragment(xml, section.anchor)
+      citation = section.anchor
     } else {
       text = extractEnchiridion(xml, section.anchor)
       citation = section.anchor

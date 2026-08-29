@@ -7,7 +7,7 @@
   gap: $spacing-md;
   margin: 0 0 $spacing-lg;
   padding-bottom: $spacing-sm;
-  border-bottom: 1px solid $color-border;
+  border-bottom: $border-width-thin solid $color-border;
 }
 
 .terms {

@@ -4,8 +4,8 @@
   position: absolute;
   top: $spacing-md;
   left: $spacing-md;
-  width: 40px;
-  height: 40px;
+  width: $control-size;
+  height: $control-size;
   background: $color-primary;
   color: $color-white;
   border: none;
@@ -48,7 +48,7 @@
     display: flex;
     flex-direction: column;
     gap: $spacing-sm;
-    margin-top: 20px;
+    margin-top: $spacing-content;
   }
 
   a {
@@ -60,24 +60,24 @@
 .author {
   display: flex;
   align-items: center;
-  gap: 10px;
-  padding: 8px;
+  gap: $spacing-tight;
+  padding: $spacing-xs;
   padding-left: $spacing-lg;
   border-radius: $border-radius-sm;
   transition: background-color $transition-fast;
 
   &:hover {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: $color-on-dark-active;
   }
 
   &.active {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: $color-on-dark-selected;
     font-weight: 600;
   }
 
   img {
-    width: 40px;
-    height: 40px;
+    width: $control-size;
+    height: $control-size;
     object-fit: cover;
     border-radius: $border-radius-full;
   }
@@ -105,11 +105,11 @@
   transition: background-color $transition-fast;
 
   &:hover {
-    background-color: rgba(255, 255, 255, 0.05);
+    background-color: $color-on-dark-hover;
   }
 
   &.expanded {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: $color-on-dark-active;
   }
 }
 
@@ -164,5 +164,5 @@
   font-weight: 600;
   margin-bottom: $spacing-xs;
   padding-left: $spacing-sm;
-  color: #6b7b89;
+  color: $color-text-on-dark-muted;
 }

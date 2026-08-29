@@ -8,6 +8,7 @@ import {
   type Language,
   type Entry,
   type SourceData,
+  type SourceReference,
 } from '../types/data';
 import { getTranslation } from './translations';
 
@@ -65,6 +66,11 @@ const getSourceOriginalTitle = (source: string): string =>
 const getSourceAuthor = (source: string): string =>
   sourcesData[source]?.author || '';
 
+const getSourceCitation = (source: SourceReference, language: Language): string =>
+  [getSourceAuthor(source.name), getSourceName(source.name, language), source.reference]
+    .filter(Boolean)
+    .join(', ');
+
 const authorById: AuthorsData = { ...authorsData };
 
 export {
@@ -83,4 +89,5 @@ export {
   getSourceName,
   getSourceOriginalTitle,
   getSourceAuthor,
+  getSourceCitation,
 };

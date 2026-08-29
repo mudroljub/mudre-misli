@@ -27,6 +27,7 @@ const workIds = new Set()
 const workKeys = new Set()
 const index = []
 const contentCache = new Map()
+const citationSchemes = new Set(['stephanus', 'book-chapter', 'section', 'fragment'])
 
 const readContentFile = async (workDir, file, language) => {
   const filename = path.join(workDir, `${file}.${language}.md`)
@@ -55,6 +56,9 @@ for (const manifestFile of (await findManifests(worksDir)).sort()) {
 
   if (!manifest.author || !manifest.slug || !manifest.title?.sr || !manifest.title?.stsl) {
     throw new Error(`${label}: missing required metadata`)
+  }
+  if (!citationSchemes.has(manifest.citationScheme)) {
+    throw new Error(`${label}: unsupported citation scheme ${manifest.citationScheme}`)
   }
   const workKey = `${manifest.author}/${manifest.slug}`
   if (workKeys.has(workKey)) throw new Error(`${label}: duplicate author/slug ${workKey}`)

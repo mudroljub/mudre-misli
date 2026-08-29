@@ -22,8 +22,8 @@ preporučujem neprestano delanje u njemu i najviše se vedrim takvim životom,
 načinio sam ti ovaj sažetak i osnovni prikaz svih mnjenja.
 
 Najpre, Herodote, treba shvatiti ono što leži pod glasovima, da bismo na to
-svodili i prosuđivali svoja mnjenja, pitanja i nedoumice i da nam, dok dokazujemo
-u beskraj, sve ne ostane neprosuđeno niti da imamo prazne glasove. <!-- anchor:38 -->Jer prvobitni
+svodili i prosuđivali svoja mnjenja, pitanja i nedoumice, te da pri beskrajnim
+dokazivanjima ništa ne ostane bez suda i da nemamo prazne glasove. <!-- anchor:38 -->Jer prvobitni
 pojam svakog glasa mora biti očigledan i ne sme mu biti potreban dokaz ako ćemo
 imati nešto na šta svodimo pitanje, nedoumicu i mnjenje.
 
@@ -83,10 +83,10 @@ daleko. Čestice od kojih svet može nastati ili biti načinjen nisu iscrpljene 
 na jedan ni na ograničen broj svetova, ni na one slične ovome ni na različite.
 Zato ništa ne sprečava beskrajnost svetova.
 
-<!-- anchor:46 -->Postoje i obrisi istog oblika kao čvrsta tela, ali tananosti daleko veće od
-vidljivih stvari. U okolini mogu nastajati takva odvajanja, pogodna za građenje
-šupljih i tananih sklopova, i izlivi koji čuvaju isti položaj i raspored kakav su
-imali u čvrstim telima. Te obrise nazivamo likovima. Kretanje kroz prazninu,
+<!-- anchor:46 -->Postoje i obrisi istog oblika kao čvrsta tela, ali daleko tananiji od
+vidljivih stvari. U okolini mogu nastajati takvi sklopovi, kao i pogodnosti za
+građenje šupljih i tananih tvorevina, te izlivi koji čuvaju isti položaj i raspored
+kakav su imali u čvrstim telima. Te obrise nazivamo likovima. Kretanje kroz prazninu,
 kada ne nailazi ni na kakvu prepreku, prelazi svaku zamislivu razdaljinu za
 nezamislivo kratko vreme. Jer prepreka i odsustvo prepreke poprimaju izgled
 sporosti i brzine.
@@ -226,7 +226,7 @@ deo koji se tananosti veoma razlikuje i od njih, a zato je još prisnije povezan
 s ostatkom sklopa. Sve to pokazuju moći duše, čuvstva, laka pokretljivost,
 mišljenje i ono čijim lišavanjem umiremo.
 
-Treba držati i da duša ima najveći uzrok opažanja. <!-- anchor:64 -->Ne bi ga imala kada je
+Treba držati i da je duša glavni uzrok opažanja. <!-- anchor:64 -->Ne bi ga imala kada je
 ostatak sklopa ne bi nekako obuhvatao. Ostatak sklopa, davši duši taj uzrok, i
 sam od nje prima udeo u tom svojstvu, ali ne u svemu što ona ima. Zato, kada
 duša ode, telo nema opažanje. Ono tu moć nije imalo samo po sebi, nego mu ju je
@@ -239,7 +239,7 @@ ode. Ma šta od nje propalo kada se raspadne ceo omotač ili njegov deo, dokle g
 duša traje imaće opažanje. Ostatak sklopa, ostao ceo ili delimičan, nema
 opažanje kada ode onoliko nedeljivih čestica koliko je potrebno da sačinjava
 prirodu duše. Kada se ceo sklop raspadne, duša se rasipa i više nema iste moći
-niti se kreće, pa nema ni opažanje. <!-- anchor:66 -->Nije moguće zamisliti da ona opaža izvan tog
+niti se kreće, pa više ne opaža. <!-- anchor:66 -->Nije moguće zamisliti da ona opaža izvan tog
 sklopa i bez tih kretanja, kada ono što je obuhvata i okružuje nije više onakvo
 u čemu sada ima ta kretanja.
 

@@ -480,7 +480,7 @@ Zar, dakle, svaka od tih stvari pokazuje umešnika, a vidljive stvari, vid i sve
 
 A muško i žensko, i spremnost svakoga od njih na sjedinjenje, i moć služenja udovima koji su za to ustrojeni — zar ni to ne pokazuje umešnika?
 
-Neka bude tako. Ali ovakvo ustrojstvo razmisla, po kojem ne samo što primamo utisak od čuvstvenih stvari koje nam dolaze, nego ponešto od njih prihvatamo, ponešto oduzimamo i dodajemo, ponešto od toga sastavljamo, i, Zevsa mi, prelazimo od jednih stvari na druge koje su im nekako bliske — zar ni to nije dovoljno da neke pokrene i obrati da ne ostavljaju umešnika po strani?
+Neka bude tako. Ali ovakvo ustrojstvo razmišljanja, po kojem ne samo što primamo utisak od čuvstvenih stvari koje nam dolaze, nego ponešto od njih prihvatamo, ponešto oduzimamo i dodajemo, ponešto od toga sastavljamo, i, Zevsa mi, prelazimo od jednih stvari na druge koje su im nekako bliske — zar ni to nije dovoljno da neke pokrene i obrati da ne ostavljaju umešnika po strani?
 
 Ili neka nam objasne šta je ono što svaku od tih stvari tvori, ili kako je moguće da tako čudesne i umno sačinjene stvari bivaju nasumice i same od sebe.
 

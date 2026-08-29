@@ -273,7 +273,7 @@ neki drugi, po kojem će sve to biti veliko. I tako ti svaki od vidova više ne�
 
 — Kako to? — reče.
 
-— Ima i mnogo drugih teškoća — reče — ali najveća je ova. Ako bi neko rekao da vidovima, budući takvima kakvi kažemo da moraju biti, ne pripada čak ni da budu spoznati, onome ko to govori niko ne bi mogao pokazati da se vara, osim ako bi onaj koji osporava bio veoma iskusan i darovit, i bio voljan da prati onoga koji pokazuje kroz veoma dugu i izdaleka započetu raspravu; inače bi ostao <!-- anchor:133c -->neubeđen onaj koji tvrdi da su vidovi nespoznatljivi.
+— Ima i mnogo drugih teškoća — reče — ali najveća je ova. Ako bi neko rekao da vidovima, takvima kakvi prema nama moraju biti, ne pripada čak ni da budu spoznati, niko mu ne bi mogao pokazati da se vara, osim ako bi onaj koji osporava bio veoma iskusan i darovit, te voljan da prati onoga koji pokazuje kroz veoma dugu i izdaleka započetu raspravu; inače bi neubeđen ostao <!-- anchor:133c -->onaj koji tvrdi da su vidovi nespoznatljivi.
 
 
 — Kako to?

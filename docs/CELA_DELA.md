@@ -81,7 +81,7 @@ dialogue, treatise, letter, handbook, collection, poem
 Dozvoljeni sistemi citiranja su:
 
 ```text
-stephanus, book-chapter, section
+stephanus, book-chapter, section, fragment
 ```
 
 ## Build i provera

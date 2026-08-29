@@ -1,7 +1,7 @@
 @import '../../../../styles/shared';
 
 .content {
-  padding: 20px;
+  padding: $spacing-content;
 
   @media (min-width: $breakpoint-mobile) {
     padding: $spacing-xl;
@@ -10,5 +10,5 @@
 
 .grid {
   display: grid;
-  gap: 14px;
+  gap: $spacing-snug;
 }

@@ -4,39 +4,35 @@
 
 ### Doraditi duge prevode
 
-- prvo odeljak-po-odeljak proći Epikurova prirodnofilozofska pisma;
-- zatim najduže periode Epiktetovih `Razgovora` i Platonovog `Parmenida`;
 - staroslovenski rasterećivati od grčkog reda reči, nizova participa i genitiva,
   ali ne menjati već ustaljene termine;
 - čuvati kratke naporedne celine i lične glagole kada to ne menja smisao;
 - proveravati srpski i staroslovenski prema grčkom izvorniku, naročito kod
   tehničkih prirodnofilozofskih objašnjenja.
 
-## P1 — obraditi neiskorišćene primarne izvore koji su već izdvojeni
-
-- obraditi nove filozofe na osnovu izvora projekta (Diels, Leartije, Burley...):
-
 ## P3 — širiti korpus celih dela tek posle zatvaranja P0 i P1
 
 ### Najprirodniji sledeći paketi
 
-1. Epiktetovi fragmenti (`tlg0557.tlg003`), pošto stranica i terminološki
-   sistem već postoje;
+1. Epiktetovi fragmenti (`tlg0557.tlg003`): 36 samostalnih fragmenata
+   (sidra 1–8, 10–36 i 28a; nedostaje samo 9), bez doslovnog preklapanja sa već objavljenim
+   `Razgovorima` i `Priručnikom`;
 2. preostali Epiktetov gnomologij (`tlg004`–`tlg005`), uz proveru preklapanja
    sa `Razgovorima` i `Priručnikom`;
 3. kraći centralni Platonovi dijalozi, prvo `Apologija`, zatim `Fedon`;
 4. provereni stoički fragmentarni korpusi: Kleant, Hrisip, Ariston sa Hiosa i
    Antipatar iz Tarsa;
-5. tek zatim veliko novo područje: Aristotel, Sekst Empirik, Plotin ili Filon.
+5. Plotin ili Filon.
 
 Ne započinjati više velikih autora istovremeno. Za svaki novi korpus prvo
 odrediti obuhvat, kanonske identifikatore, podelu odeljaka i terminološke
 probleme.
 
+- DILEMA — u prvom Epiktetovom fragmentu `ἀμερής` nije isto što i rečnički
+  `ἄτομος — недѣлимъ`; pre prevođenja treba odrediti odgovarajući slovenski
+  termin. Fragmenti sa `κόσμος` čekaju već navedenu odluku o njegovom smislu.
+
 ## P4 — terminologija i UI
 
-- proveriti glavne filozofske termine ručno u rečniku
-   - kosmos - stroj, ustroj, ustrojenje
-- minor BUG: na stranici citata sr je veći od stsl, čak i kada je stsl izabran. uzrok verovatno base font size
-- na stranici taga poređati citate po autorima hronološki
-- dodati izvor za sve stavke - bio, anecdote i ostale. možda manjim slovima (suptilnije)
+- proveriti glavne filozofske termine ručno (ne AGENT) u rečniku
+   - κόσμος

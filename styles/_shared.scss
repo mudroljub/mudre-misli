@@ -3,13 +3,39 @@ $color-primary: #1d2d3b;
 $color-background: #f8f6f1;
 $color-text: #1b1b1b;
 $color-text-light: #666;
+$color-text-muted: #777;
+$color-text-warm: #55452f;
+$color-text-on-dark-muted: #6b7b89;
 $color-white: #fff;
 $color-border: #ddd;
+$color-accent: #c41e3a;
+$color-surface-muted: rgba(0, 0, 0, 0.02);
+$color-surface-subtle: rgba(0, 0, 0, 0.05);
+$color-border-subtle: rgba(0, 0, 0, 0.1);
+$color-border-emphasis: rgba(0, 0, 0, 0.15);
+$color-accent-surface: rgba($color-accent, 0.03);
+$color-accent-border: rgba($color-accent, 0.3);
+$color-primary-muted: rgba($color-primary, 0.3);
+$color-text-faded: rgba($color-text, 0.6);
+$color-text-soft: rgba($color-text, 0.8);
+$color-text-subtle: rgba($color-text, 0.3);
+$color-on-dark-hover: rgba(255, 255, 255, 0.05);
+$color-on-dark-active: rgba(255, 255, 255, 0.1);
+$color-on-dark-selected: rgba(255, 255, 255, 0.2);
+$shadow-subtle: 0 2px 4px rgba(0, 0, 0, 0.05);
+$shadow-raised: 0 4px 12px rgba(0, 0, 0, 0.1);
+$shadow-reading: 0 2px 8px rgba(0, 0, 0, 0.1);
 
 // Spacing
+$spacing-2xs: 2px;
+$spacing-xxs: 4px;
+$spacing-inline-tight: 6px;
 $spacing-xs: 8px;
+$spacing-tight: 10px;
 $spacing-sm: 12px;
+$spacing-snug: 14px;
 $spacing-md: 18px;
+$spacing-content: 20px;
 $spacing-lg: 24px;
 $spacing-xl: 32px;
 
@@ -21,7 +47,8 @@ $font-family-stsl: BukyVede, serif;
 $font-family-base: "Trebuchet MS", Arial, sans-serif;
 $font-family-greek: Cambria, "Times New Roman", serif;
 $font-size-base: 1rem;
-$font-size-stsl-base: 1.25rem;
+$font-scale-stsl: 1.25;
+$font-size-stsl-base: $font-size-base * $font-scale-stsl;
 $font-size-xs: 0.75rem;
 $font-size-sm: 0.875rem;
 $font-size-md: 1rem;
@@ -34,6 +61,15 @@ $font-size-xxxl: 3rem;
 $border-radius-sm: 4px;
 $border-radius-md: 8px;
 $border-radius-full: 50%;
+$border-width-thin: 1px;
+$border-width-medium: 2px;
+$border-width-thick: 3px;
+
+// Repeated component measures
+$control-size: 40px;
+$author-image-size: 100px;
+$author-avatar-size: 64px;
+$author-card-image-size: 120px;
 
 // Transitions
 $transition-fast: 0.2s ease;
@@ -43,7 +79,7 @@ $transition-fast: 0.2s ease;
   font-size: $font-size-sm;
   color: $color-text-light;
   text-decoration: none;
-  transition: color 0.2s;
+  transition: color $transition-fast;
 
   &:hover {
     color: $color-text;

@@ -1,7 +1,7 @@
 @import '../styles/shared';
 
 .card {
-  border: 1px solid $color-border;
+  border: $border-width-thin solid $color-border;
   padding: $spacing-lg;
   margin: 0;
   min-width: 0;
@@ -13,14 +13,20 @@
   }
 
   img {
-    max-width: 100px;
+    max-width: $author-image-size;
     border-radius: $border-radius-md;
-    margin-bottom: 10px;
+    margin-bottom: $spacing-tight;
   }
 }
 
 .authorLine {
   font-weight: 700;
+}
+
+.sourceCitation {
+  color: $color-text-light;
+  font-size: $font-size-sm;
+  line-height: 1.4;
 }
 
 .authorAttribution {
@@ -41,8 +47,8 @@
 }
 
 .authorPortrait {
-  width: 64px;
-  height: 64px;
+  width: $author-avatar-size;
+  height: $author-avatar-size;
   margin: 0;
   border-radius: $border-radius-full;
   object-fit: cover;
@@ -66,6 +72,10 @@
 .sourceLink {
   @include subtle-link;
   margin-left: auto;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
 }
 
 .expandButton {

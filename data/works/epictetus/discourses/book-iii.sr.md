@@ -1589,7 +1589,7 @@ Kada hoćeš da vežbaš radi sebe i žedan si po vrućini, uzmi gutljaj hladne 
 <!-- anchor:III.13 -->
 Samoća je stanje bespomoćnoga čoveka.
 
-Jer čovek koji je sam nije samim tim i samotan, kao što ni onaj koji je među mnogima nije samim tim nesamotан.
+Jer čovek koji je sam nije samim tim i samotan, kao što ni onaj koji je među mnogima nije samim tim nesamotan.
 
 Kada, dakle, izgubimo brata ili sina ili prijatelja na kojega smo se oslanjali, govorimo da smo ostali sami, premda smo često u Rimu, gde nam toliki ljudi dolaze u susret, gde sa tolikima živimo, a ponekad imamo i mnoštvo robova.
 

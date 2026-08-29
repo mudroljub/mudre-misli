@@ -3,14 +3,14 @@
 import { useState } from 'react';
 import Link from "next/link";
 import classNames from "classnames";
-import { getTextForLanguage, getAuthorName, authorSlugs, authorsData } from "../utils/catalog";
+import { getTextForLanguage, getAuthorName, authorSlugs, authorsData, getSourceCitation } from "../utils/catalog";
 import { withBasePath } from '../utils/helpers';
 import { useTranslations } from "../utils/useTranslations";
 import { getExcerpt, isLongFormEntry } from "../utils/longForm";
 import type { Entry, Language } from "../types/data";
 import styles from "./QuoteCard.module.scss";
 
-export type QuoteCardEntry = Pick<Entry, 'id' | 'type' | 'sr' | 'stsl' | 'author' | 'display'>;
+export type QuoteCardEntry = Pick<Entry, 'id' | 'type' | 'sr' | 'stsl' | 'author' | 'display' | 'sources'>;
 
 interface QuoteCardProps {
   entry: QuoteCardEntry;
@@ -37,8 +37,12 @@ export default function QuoteCard({
   const hasAuthorImage = Boolean(authorImage && !authorImage.endsWith('/unknown-author.svg'));
 
   const text = transliterate(getTextForLanguage(entry, language));
+  const sourceCitation = entry.sources
+    .map((source) => transliterate(getSourceCitation(source, language)))
+    .join('; ');
   const isLongForm = isLongFormEntry(entry);
   const [isExpanded, setIsExpanded] = useState(false);
+  const [isSourceExpanded, setIsSourceExpanded] = useState(false);
 
   return (
     <div
@@ -84,9 +88,20 @@ export default function QuoteCard({
             </button>
           )}
           {showSource && (
-            <Link href={`/${language}/quotes/${entry.id}`} className={styles.sourceLink}>{t.source}</Link>
+            <button
+              type="button"
+              className={styles.sourceLink}
+              aria-expanded={isSourceExpanded}
+              onClick={() => setIsSourceExpanded((expanded) => !expanded)}
+            >
+              {t.source}
+            </button>
           )}
         </div>
+      )}
+
+      {showSource && isSourceExpanded && sourceCitation && (
+        <p className={styles.sourceCitation}>{sourceCitation}</p>
       )}
     </div>
   );

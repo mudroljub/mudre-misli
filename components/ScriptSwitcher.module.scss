@@ -2,13 +2,13 @@
 
 .switch {
   display: flex;
-  gap: 4px;
+  gap: $spacing-xxs;
 
   button {
-    padding: 4px 8px;
-    border: 1px solid rgba($color-primary, 0.3);
+    padding: $spacing-xxs $spacing-xs;
+    border: $border-width-thin solid $color-primary-muted;
     background: transparent;
-    color: rgba($color-text, 0.6);
+    color: $color-text-faded;
     cursor: pointer;
     font-size: $font-size-sm;
     font-weight: 400;

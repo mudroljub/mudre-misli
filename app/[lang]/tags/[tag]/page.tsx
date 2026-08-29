@@ -8,6 +8,7 @@ import QuoteCard from '../../../../components/QuoteCard';
 import Sidebar from '../../../../components/Sidebar';
 import Header from '../../../../components/Header';
 import TagHeading from '../../../../components/TagHeading';
+import { authorsData } from '../../../../utils/catalog';
 import type { Language, Entry } from '../../../../types/data';
 import styles from './page.module.scss';
 
@@ -54,6 +55,13 @@ export default function TagPage({ params }: TagPageProps) {
   // Filter quotes that have this tag
   const taggedEntries = quotesData.filter((entry): entry is Extract<Entry, { type: 'quote' | 'reported' }> => {
     return (entry.type === 'quote' || entry.type === 'reported') && (entry.tags?.includes(tag) ?? false);
+  }).sort((left, right) => {
+    const leftAuthor = Array.isArray(left.author) ? left.author[0] : left.author;
+    const rightAuthor = Array.isArray(right.author) ? right.author[0] : right.author;
+    const byBirth = (authorsData[leftAuthor]?.born ?? Number.MAX_SAFE_INTEGER)
+      - (authorsData[rightAuthor]?.born ?? Number.MAX_SAFE_INTEGER);
+
+    return byBirth || leftAuthor.localeCompare(rightAuthor, 'sr') || left.id.localeCompare(right.id);
   });
 
   if (taggedEntries.length === 0) {
