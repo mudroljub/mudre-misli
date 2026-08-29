@@ -172,6 +172,13 @@ Pre prevođenja filozofskog termina prvo proveriti [RECNIK.md](RECNIK.md).
 
 Ako termin postoji u rečniku, koristiti tamo određeni prevod.
 
+Rečnik utvrđuje osnovni član terminološke porodice, ne zatvoren spisak svih
+njegovih gramatičkih i tvorbenih oblika. Kada to traže grčki oblik, sintaksa i
+smisao, dopušteno je upotrebiti istorijski moguć izvedeni oblik iz istoga
+slovenskog korena, bez napuštanja rečničke odluke. Tako uz `строи` prema
+kontekstu mogu stajati `ѹстрои`, `ѹстроєниє` i druge pravilno izvedene reči;
+srpski prevod čuva istu porodicu: *stroj*, *ustroj*, *ustrojenje*.
+
 Korpus, etimološki rečnici, praslovenske rekonstrukcije i drugi izvori mogu služiti za proveru i dalje istraživanje, ali ne menjaju automatski već donesenu terminološku odluku.
 
 Ako postoji razlog da se postojeći unos u rečniku promeni, prvo razmotriti promenu samog rečnika, a zatim dosledno primeniti novu odluku na prevode.

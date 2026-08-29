@@ -35,5 +35,4 @@ probleme.
 
 ## P4 — terminologija i UI
 
-- proveriti glavne filozofske termine ručno (AGENT stop) u rečniku
-   - κόσμος
+- proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku

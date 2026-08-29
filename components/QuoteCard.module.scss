@@ -23,12 +23,6 @@
   font-weight: 700;
 }
 
-.sourceCitation {
-  color: $color-text-light;
-  font-size: $font-size-sm;
-  line-height: 1.4;
-}
-
 .authorAttribution {
   display: flex;
   align-items: center;
@@ -72,10 +66,6 @@
 .sourceLink {
   @include subtle-link;
   margin-left: auto;
-  padding: 0;
-  border: 0;
-  background: transparent;
-  cursor: pointer;
 }
 
 .expandButton {

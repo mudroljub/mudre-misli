@@ -78,6 +78,12 @@ Bolje: `Solon reče: Dobar budi.`
 
 RECNIK.md ima prednost nad slobodnim izborom sinonima i korpusom.
 
+Rečnik daje osnovni član pojmovne porodice, ne iscrpan popis svih njegovih
+izvedenica. Prevodilac sme, kada to zahtevaju grčki oblik i kontekst, da iz
+istoga utvrđenog slovenskog korena izvede odgovarajući oblik. Na primer, uz
+*stroj* mogu stajati *ustroj* i *ustrojenje*; time se čuva, a ne menja,
+rečnički termin.
+
 Ne menjati ustaljeni termin samo zato što je druga reč danas češća. Voditi računa o celoj pojmovnoj porodici, ne samo o pojedinačnoj reči.
 
 Kada se tvori nova stsl reč, srpski par po pravilu graditi iz istog slovenskog korena, čak i kada takva reč ne postoji u savremenom standardnom srpskom.
