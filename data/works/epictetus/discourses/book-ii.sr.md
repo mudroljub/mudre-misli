@@ -2244,195 +2244,67 @@ Kakvo je vežbanje preduzeo radi toga?
 
 Zašto se onda još čudi ako je u onome što zna samopouzdan, a u onome što ne zna uznemiren?
 
-On je kao svirač koji zna svirati, ali ne zna šta je mnoštvo niti šta znači povika mnoštva.
+Kao kitarist: zna da svira na kitari, lepo peva, ima lep stav, a ipak drhti kad izlazi pred ljude. Jer ovo ume, ali ne zna šta je gomila, ni šta je njena vika ili podsmeh.
 
-Svaki čovek zna ponešto i u tome je samopouzdan.
+Ne zna čak ni šta je samo uznemirenje: je li nešto što zavisi od nas ili tuđe; može li se ukloniti ili ne. Zato, ako ga pohvale, izlazi naduven; a ako mu se narugaju, taj se naduveni meh probuši i splasne.
 
-Ali niko ne može biti samopouzdan u onome što ne zna.
+I mi trpimo nešto slično. Čemu se divimo? Spoljašnjim stvarima. Oko čega se trudimo? Oko spoljašnjih stvari. Pa se zatim čudimo kako se bojimo i uznemiravamo.
 
-Šta onda?
+Šta je, dakle, moguće kada ono što nas snalazi smatramo zlima? Ne možemo se ne bojati, ne možemo se ne uznemiravati. A onda govorimo: „Gospode, kako da se ne uznemiravam?”
 
-Zar ja ne znam šta je lepo i dobro?
+Budalo, zar nemaš ruke? Nije li ti ih bog napravio? Sedi onda i moli da ti ne curi nos; bolje ga obriši i ne tuži se.
 
-Ne znaš.
+Zar ti ovde nije ništa dao? Nije li ti dao postojanost, velikodušnost i hrabrost? Imajući tako velike ruke, još tražiš onoga ko će ti obrisati nos?
 
-Zar ne znam šta je sramotno?
+Ali mi se u tome ni ne vežbamo niti obraćamo pažnju. Dajte mi jednoga kome je stalo kako će nešto činiti, koji ne pazi da postigne kakav ishod, nego na vlastitu delatnost. Ko, šetajući, pazi na svoju delatnost? Ko, savetujući se, pazi na samo savetovanje, a ne na stvar o kojoj se savetuje?
 
-Ne znaš ni to.
+Ako uspe, nadmen je i kaže: „Kako smo samo dobro promislili! Nisam li ti, brate, govorio da je nemoguće da se ne ostvari ono što smo mi promislili?” A ako ispadne drukčije, jadnik je ponižen i ne nalazi čak ni šta bi rekao o onome što se dogodilo. Ko je od nas zbog toga doveo proroka? Ko je proveo noć nad sopstvenom delatnošću? Dajte mi jednoga, da vidim toga koga već odavno tražim: čoveka plemenita i dobra prirodnog dara, mladog ili starog.
 
-Kako onda živim?
+Zašto se onda još čudimo ako smo u veštini oko građe uvežbani, a u delatnostima poniženi, ružni, bezvredni, plašljivi, neskloni naporu, sasvim nesrećni? Nije nam bilo stalo i ne vežbamo se.
 
-Kao što žive oni koji ne znaju.
+Da se ne bojimo smrti ili progonstva, nego straha, vežbali bismo se da ne padnemo u ono što nam se čini zlima.
 
-Ali ja znam da treba umreti za dobro.
+Sada smo u školi hitri i rečiti; ako se pojavi pitanje o nečemu od toga, umemo izložiti ono što sledi. Ali povuci nas u primenu i naći ćeš jadne brodolomnike. Neka nas snađe uznemirujuća predstava, pa ćeš saznati u čemu smo se vežbali i za šta smo se spremali.
 
-Znaš li i šta je dobro?
+Zbog nevežbanosti uvek još nešto nagomilavamo i predstavljamo sebi većim nego što stvarno jeste.
 
-Znam.
+Čim plovim, nagnem se nad dubinu ili se zagledam po pučini i ne vidim kopno, izgubim se zamišljajući da moram popiti svu tu pučinu ako doživim brodolom; ne pada mi na um da su mi dovoljne tri mere vode. Šta me onda uznemirava? Pučina? Ne, nego mnenje.
 
-Reci mi.
+Opet, kada bude zemljotres, zamišljam da će ceo grad pasti na mene. Zar nije dovoljan mali kamen da mi izbaci mozak?
 
-Novac.
+Šta nas, dakle, pritiska i izbacuje iz sebe? Šta drugo nego mnenja? Šta pritiska čoveka koji odlazi i rastaje se od navika, prijatelja, mesta i zajedničkog života, ako ne mnenje?
 
-Vidiš li da ne znaš?
+Deca, čim zaplaču malo pošto dojilja ode, dobiju kolačić i već su zaboravila. Hoćemo li i mi biti kao deca? — Ne, tako mi Zevsa. Ne tražim da ovo trpimo zbog kolačića, nego zbog ispravnih mnenja.
 
-Zdravlje.
+Kakva su to mnenja? Ona uz koja čovek, vežbajući se čitavoga dana, ne pristaje ni uz šta tuđe: ni uz prijatelja, ni uz mesto, ni uz vežbališta, pa ni uz sopstveno telo; nego pamti zakon i drži ga pred očima.
 
-I opet ne znaš.
+A koji je božanski zakon? Čuvati vlastito; ne polagati pravo na tuđe; služiti se datim, ne želeti ono što nije dato, a kada se nešto uzima, vratiti ga lako i odmah, zahvalan za vreme tokom kojega si se njime služio — ako hoćeš da ne plačeš za dojiljom i dadiljom.
 
-Život.
+Kakva je, naime, razlika: kome je čovek podložan i od čega visi? Koliko si bolji od onoga koji plače za devojčicom, ako tuguješ za malim vežbalištem, tremom, mladićima i takvim provođenjem vremena?
 
-Ni to.
+Dolazi drugi i tuguje zato što više neće piti vodu iz Dirkinog izvora. Zar je Marcijeva voda gora od Dirkinе? — Ali ona mi je bila naviknuta. I ova će ti opet postati naviknuta. Ako se i za nju vežeš, i nju potom oplakuj i gledaj da sastaviš stih nalik Euripidovu: „Topla Neronova i Marcijeva voda.” Gledaj kako od slučajnih stvari nastaje tragedija kada pogode glupe ljude.
 
-Slava.
+„Kada ću opet videti Atinu i Akropolj?” Jadniče, zar ti nije dosta onoga što svakoga dana gledaš? Imaš li da vidiš išta bolje ili veće od sunca, meseca, zvezda, cele zemlje i mora?
 
-Ni to.
+A ako razumeš onoga koji upravlja svime i nosiš ga u sebi, zar još čezneš za kamenčićima i lepom stenom? Kada, dakle, budeš imao da ostaviš samo sunce i mesec, šta ćeš činiti? Sedećeš i plakati kao dete?
 
-A šta je onda dobro?
+Šta si onda radio u školi, šta si slušao, šta učio? Zašto si sebe upisivao kao filozofa, kad si se mogao upisati onako kako zaista stoji: „Pratio sam nekoliko uvodnih predavanja i čitao Hrisipa, ali nisam prošao ni kroz vrata filozofije.”
 
-Valjano proizvoljenje i valjano služenje predstavama.
+Gde, naime, imam udela u onome što je imao Sokrat, koji je tako umro i tako živeo? Ili u onome što je imao Diogen? Možeš li zamisliti nekoga od njih da plače ili negoduje zato što neće videti toga i tu, što neće biti u Atini ili Korintu, nego će, ako tako zapadne, biti u Suzi ili Ekbatani?
 
-Šta je zlo?
+Onaj ko sme da izađe sa gozbe kad hoće i da više ne učestvuje u igri, zar se još žalosti dok ostaje? Ne ostaje li kao pri igri, samo dok mu pruža zadovoljstvo? Takav bi čovek lako podneo i kakvo progonstvo, ma gde bilo, ili osudu na smrt.
 
-Njihova suprotnost.
+Nećeš li se već, kao dete, odbiti od sise i prihvatiti čvršću hranu, a ne oplakivati dadilje i dojilje, jadikovke starica?
 
-A šta su smrt, siromaštvo, bolest i nečast?
+— Ali ću, rastajući se od njih, biti ožalošćen. — Hoćeš li ti ožalostiti njih? Nipošto: nego isto mnenje koje žalosti i tebe. Šta onda imaš da činiš? Iskorenjuj ga. A njihov deo, ako dobro postupaju, one će same iskoreniti; ako ne, same će jadikovati.
 
-Ni dobro ni zlo.
+Čoveče, već se odvaži na to čuveno zbog srećnog toka, slobode i velikodušnosti. Ispruži jednom vrat kao čovek oslobođen ropstva; pogledaj gore ka bogu i usudi se da kažeš: „Služi se mnome ubuduće za šta god hoćeš. Jedne sam misli s tobom, jednak sam ti. Ne odbijam ništa od onoga što ti se učini dobrim. Vodi me kuda hoćeš; obuci me u kakvu hoćeš odeću. Hoćeš li da upravljam, budem običan građanin, ostanem, budem prognan, siromašim ili se obogatim? Za sve ću to pred ljudima braniti tebe: pokazaću kakva je priroda svake stvari.”
 
-Zar se, dakle, sećaš tih stvari kada iziđeš iz učilišta?
+Ne? Onda sedi u volovskom trbuhu i čekaj dojilju da te zasiti. Da je Herakle sedeo kod kuće, ko bi bio? Euristej, a ne Herakle. A koliko je, obilazeći svet, imao poznanika i prijatelja? Ipak mu niko nije bio draži od boga. Zato se verovalo da je Zeusov sin — i bio je; poslušan njemu, obilazio je svet i čistio nepravdu i bezakonje.
 
-Ne.
+Ali ti nisi Herakle i ne možeš čistiti tuđa zla; nisi ni Tezej da očistiš Atiku. Očisti svoje: izbaci iz svoga uma, mesto Prokrusta i Skirona, žalost, strah, žudnju, zavist, zluradost, srebroljublje, mekušnost i neuzdržanost.
 
-Nego se, dok si ovde, raspravljaš o tome da li je proizvoljenje jedino dobro, a čim iziđeš napolje, ako vidiš lepoga mladića, govoriš:
-
-Kakva sreća!
-
-Ako vidiš bogataša:
-
-Blažen je!
-
-Ako vidiš moćnika:
-
-Velik čovek!
-
-Ako vidiš nekoga u nevolji:
-
-Jadan!
-
-Nesrećan je!
-
-A ako čuješ da je neko umro:
-
-Propao je!
-
-Ako je prognan:
-
-Uništen je!
-
-Ako je izgubio imanje:
-
-Poginuo je!
-
-To su rđava mnenja.
-
-Njih treba iskoreniti.
-
-Zbog čega inače plačemo?
-
-Zbog čega jadikujemo?
-
-Zbog čega zavidimo?
-
-Zbog čega smo uznemireni?
-
-Zbog čega laskamo?
-
-Ne može jedno biti naš sud, a drugo naše delo.
-
-Ne možeš govoriti da smrt nije zlo, a potom drhtati pred njom.
-
-Ne možeš govoriti da novac nije dobro, a zatim mu se diviti kada ga vidiš.
-
-Šta mi onda koristi što umem da izvedem zaključak:
-
-Ako je dan, svetlo je; dan je; dakle, svetlo je?
-
-Izvedi mi radije ovaj:
-
-Ako je dobro samo u proizvoljenju, onda mi novac ne može doneti dobro.
-
-Dobro je samo u proizvoljenju.
-
-Dakle, novac mi ne može doneti dobro.
-
-U tome se vežbaj.
-
-To treba da ti bude svakodnevno razmišljanje.
-
-Kada iziđeš ujutru, koga god vidiš, koga god čuješ, sve ispituj prema tome.
-
-Ako vidiš lepoga čoveka ili lepu ženu, imaš spreman odgovor:
-
-Lepota nije dobro.
-
-Ako vidiš bogataša:
-
-Bogatstvo nije dobro.
-
-Ako vidiš cara:
-
-Vlast nije dobro.
-
-Ako vidiš nekoga koga svi preziru:
-
-Prezir nije zlo.
-
-Ako vidiš prognanika:
-
-Progonstvo nije zlo.
-
-Ako vidiš bolesnika:
-
-Bolest nije zlo.
-
-Ako vidiš mrtvaca:
-
-Smrt nije zlo.
-
-Šta je onda dobro?
-
-Valjano proizvoljenje.
-
-Šta je zlo?
-
-Rđavo proizvoljenje.
-
-A sve ostalo?
-
-Građa kojom se proizvoljenje služi.
-
-Pamti to.
-
-Vežbaj se u tome.
-
-Tu pokaži filozofa.
-
-Ne u knjigama.
-
-Ne u silogizmima.
-
-Nego onde gde su težnja i otklon, gde su strah, zavist, radost, ljubav, mržnja i žudnja.
-
-Ako si tu izvežban, pokazaće se da si zaista naučio ono što govoriš.
-
-Ako nisi, znaćeš samo da objašnjavaš knjige.
-
-A čemu mi služi tumač Hrisipa ako sam sam rob straha, žalosti, zavisti i težnje za onim što nije do mene?
-
-Zato se ne treba samo učiti sudovima, nego se vežbati u njihovoj primeni.
-
-Jer čoveka ne izbavlja ono što zna, nego ono čime se valjano služi.
+To se ne može drukčije izbaciti nego gledajući samo na boga, prianjajući samo uz njega i posvećujući se njegovim zapovestima. Ako pak želiš nešto drugo, uzdisat ćeš i stenjući slediti jačega, stalno tražeći srećan tok u spoljašnjem i nikada ga ne nalazeći. Jer ga tražiš onde gde ga nema, pošto si propustio da ga tražiš onde gde jeste.
 
 <!-- anchor:II.17 -->
 Predpojmovi su svim ljudima zajednički i jedan predpojam ne protivreči drugome.
@@ -3621,161 +3493,79 @@ Ako želiš imati prijatelja, budi sposoban za prijateljstvo.
 A to nećeš postići tražeći od drugih da te vole, nego učeći gde se nalazi tvoje dobro.
 
 <!-- anchor:II.23 -->
-Čak i Epikur razume da smo po prirodi društvena bića, ali pošto je naše dobro jednom postavio u ljušturu tela, više ništa drugo nije mogao govoriti.
+Svako bi radije i lakše čitao knjigu pisanu jasnijim slovima; tako bi svako lakše slušao i govore obeležene istovremeno skladnim i lepim imenima.
 
-Jer veoma odlučno tvrdi da se ne treba diviti niti prihvatati išta odvojeno od prirode dobra.
+Ne treba zato reći da nema moći kazivanja. To je ujedno i bezbožno i plašljivo: bezbožno, jer prezire darove od boga, kao kad bi neko poricao korist vida, sluha ili samoga glasa.
 
-I u tome ima pravo.
+Zar ti je bog uzalud dao oči, i u njih umešao tako snažan i umešan dah da izdaleka hvata oblike viđenoga? Koji je glasnik tako brz i marljiv? Zar je uzalud i vazduh između njih načinio delatnim i napetim, da se vid kroz njega nekako prostire? Zar je uzalud stvorio svetlost, bez koje ništa drugo ne bi koristilo?
 
-Ali kako smo onda podozrivi ako nemamo nikakvu prirodnu privrženost prema svojoj deci?
+Čoveče, ne budi ni nezahvalan ni zaboravan prema boljima: za vid, sluh, sam život i ono što mu služi, za suve plodove, vino i ulje zahvaljuj bogu.
 
-Zašto odvraća mudraca od podizanja dece?
+Ali pamti da ti je dao nešto bolje od svega toga: ono što se njima služi, ispituje ih i razračunava vrednost svakoga.
 
-Zašto se boji da će zbog njih zapasti u žalost?
+Šta, naime, odlučuje o svakoj od tih moći i o njihovoj vrednosti? Zar svaka moć sama? Jesi li ikada čuo da vid govori o sebi, ili sluh, pšenica, ječam, konj ili pas? Sve su postavljene kao službenice i robinje moći koja se služi predstavama.
 
-Zar se žalosti zbog miša koji mu trči po kući?
+Ako pitaš kolika je vrednost svake od njih, koga pitaš i ko ti odgovara? Kako bi druga moć mogla biti viša od one koja se služi ostalima kao službenicama, ispituje ih i o svakoj odlučuje?
 
-Šta ga se tiče ako mu malo miše njegovoj kući zacvili?
+Koja od njih zna šta je ona sama i koliko vredi? Koja zna kada se njome treba služiti, a kada ne? Ko otvara i zatvara oči, odvraća ih od onoga od čega treba, a privodi onome čemu treba? Vid? Ne, nego proizvoljenje.
 
-Ali on zna da se, kada se dete rodi, više ne može ne voleti ga niti se o njemu ne starati.
+Ko zatvara i otvara uši? Ko čini da smo radoznali i zapitkivački, ili opet nepokretni pred govorom? Sluh? Niko drugi do moć proizvoljenja.
 
-Zato isti čovek kaže da razuman čovek neće učestvovati u državnim poslovima ako nije naročite prilike.
+Ona vidi da su sve ostale moći slepe i gluve, nesposobne da opaze išta osim onih dela radi kojih su postavljene da joj služe. Ona jedina oštro vidi i druge i njihovu vrednost, i samu sebe. Hoće li nam, dakle, pokazati nešto drugo kao najmoćnije osim sebe?
 
-Jer zna kakva ograničenja i obaveze slede onoga koji učestvuje u državnim poslovima.
+Šta drugo čini otvoreno oko osim što gleda? Ako treba gledati nečiju ženu i kako, ko to kaže? Proizvoljenje. Ako treba verovati izrečenome ili ne verovati, pa se verujući pokrenuti ili ne, ko to kaže? Zar ne proizvoljenje?
 
-Ali šta te sprečava da živiš među ljudima kao muva među muvama?
+A govorničko umeće, koje ulepšava imena, ako je uopšte zasebna moć, šta drugo čini kada se povede govor o nečemu, nego ulepšava reči i slaže ih kao frizer kosu?
 
-Pa ipak, iako zna da smo po prirodi takvi, usuđuje se da odseče sve što nam pripada po prirodi.
+Ali je li bolje govoriti ili ćutati, ovako ili onako, je li to prikladno, kada je trenutak i kakva potreba — ko o tome odlučuje osim proizvoljenja? Hoćeš li da ono pređe preko sebe i presudi protiv sebe?
 
-Odreci se svoga deteta.
+Ako je tako, može li ono što služi biti jače od onoga čemu služi: konj od jahača, pas od lovca, oruđe od kitarista ili sluge od cara?
 
-Ako se jednom sažališ na njega, propao si.
+Šta se njima služi? Proizvoljenje. Šta se o svima njima stara? Proizvoljenje. Šta ponekad sasvim uništi čoveka — glađu, vešanjem ili bacanjem niz liticu? Proizvoljenje.
 
-Odreci se žene.
+I šta je među ljudima od toga jače? Kako bi ono što biva sprečeno moglo biti nesprečivo? Šta po prirodi može omesti vid? I proizvoljenje i ono što od njega ne zavisi. Isto važi za sluh i za govor.
 
-Odreci se otadžbine.
+A šta po prirodi može omesti proizvoljenje? Ništa što od njega ne zavisi; samo ono samo, kada se izopači. Zato ono jedino postaje i porok i vrlina.
 
-Odreci se prijatelja.
+Pa će ta tako velika moć, postavljena nad svim ostalim, preći preko sebe i objaviti da je telo najjače od svega što postoji? Ne bi se to trpelo ni kad bi samo telo za sebe govorilo da je najjače.
 
-Odreci se pravednosti.
+A sada, Epikure, šta je to što izriče takvu presudu? Ono što je napisalo O cilju, Fiziku i O merilu? Ono što je pustilo bradu? Ono što je, dok je umiralo, pisalo da provodi poslednji, a ujedno blaženi dan? Telo ili proizvoljenje? I priznaješ da imaš nešto jače od njega, a nisi van sebe? Toliko si slep za istinu i gluv?
 
-Šta će onda ostati od čoveka?
+Šta onda? Prezire li neko ostale moći? Ne daj bože. Kaže li da, osim moći proizvoljenja, nijedna nema nikakvu korist ni prvenstvo? Ne daj bože: to bi bilo bezumno, bezbožno i nezahvalno prema bogu. Nego svakoj daje njenu vrednost.
 
-Samo meso.
+I magarac je od koristi, ali ne koliko vo; i pas, ali ne koliko kućni sluga; i sluga, ali ne koliko građani; i oni, ali ne koliko upravljači. Ipak, zato što je nešto drugo bolje, ne treba prezirati korist koju drugo donosi.
 
-A zar te priroda nije učinila sposobnim da podneseš sve što dolazi iz takvih odnosa?
+I moć govorenja ima svoju vrednost, ali ne onoliku koliku moć proizvoljenja. Zato, kad ovo govorim, neka niko ne misli da vas pozivam da zanemarite način kazivanja: ne više nego oči, uši, ruke, noge, odeću ili obuću.
 
-Zar ti nije dala velikodušnost?
+Ali ako me pitaš šta je najjače od svega što postoji, šta da kažem? Ne mogu: moć govorenja. Nego: proizvoljenje, kada postane ispravno.
 
-Zar ti nije dala hrabrost?
+Ono se služi i tom i svim drugim moćima, malim i velikim. Kada je ono ispravno, dobar čovek postaje dobar; kada promaši, čovek postaje rđav. Po njemu smo nesrećni ili srećni, kudimo jedni druge ili smo zadovoljni; kad ostane neopaženo, stvara nesreću, a kad se o njemu staramo — sreću.
 
-Zar ti nije dala trpljenje?
+Ali ukidati moć govorenja i kazivati da ne služi istini nije samo nezahvalnost prema darodavcima nego i kukavičluk. Takav se, čini mi se, boji da, ako u tom području postoji neka moć, nećemo moći da je prezremo.
 
-A ti, pošto si dobio moći kojima možeš podnositi ono što se događa, govoriš:
+Takvi su i oni koji kažu da nema razlike između lepote i ružnoće. Zar bi onda jednako bio pokrenut kad vidiš Tersita i Ahila, Helenu i bilo koju ženu? To govore glupi i neotesani ljudi, koji ne znaju prirodu svake stvari nego se boje da bi neko, čim opazi razliku, bio zahvaćen i pobeđen.
 
-Bolje da se u to uopšte ne upuštam.
+Veliko je ovo: svakoj stvari ostaviti moć koju ima, a potom videti vrednost te moći, razabrati šta je najjače među bićima i to svuda tražiti, oko toga se truditi, a sve ostalo činiti sporednim u odnosu na njega — ne zanemarujući ga ipak koliko možeš.
 
-Kao kada bi neko, imajući dobar brod, kormilara i mornare, rekao:
+Treba se starati i o očima, ali ne kao o najjačem dobru; nego i o njima radi najjačega. Jer ono neće biti po prirodi ako pomoću njih ne rasuđuje valjano i ne bira jedno umesto drugoga.
 
-Bolje da ne plovim, jer može nastati oluja.
+Šta se, dakle, događa? Kao kada bi neko putovao u svoj zavičaj, pa mu se dopadne lepo svratište i on ostane u svratištu.
 
-Čoveče, zato imaš kormilara.
+Čoveče, zaboravio si svoju nameru: nisi putovao radi toga, nego kroz to. — Ali je lepo. — Koliko ima drugih lepih svratišta, koliko livada! Sve je to samo prolaz.
 
-Zato imaš mornare.
+Pred tobom je bilo da se vratiš u zavičaj, da svoje oslobodiš straha, da sam činiš ono što pripada građaninu: da se oženiš, imaš decu i vršiš uobičajene službe. Nisi došao da izabereš najlepša mesta, nego da živiš tamo gde si rođen i gde si upisan kao građanin.
 
-Zato imaš brod.
+Nešto slično biva i ovde. Budući da se do savršenstva mora doći govorom i takvim poučavanjem, da se vlastito proizvoljenje očisti i ispravno uredi moć služenja predstavama, a poučavanje se nužno odvija kroz neke postavke, određeni izraz, raznolikost i oštrinu misli, neki se uhvate za samo to i ostanu tu: jedan zbog izraza, drugi zbog zaključivanja, treći zbog promenljivih silogizama, drugi opet zbog nekog sličnog svratišta. I, zadržavši se, trunu kao kod Sirena.
 
-Ali mene može zadesiti žalost.
+Čoveče, pred tobom je bilo da sebe učiniš sposobnim da se prema predstavama koje nailaze služiš po prirodi: u želji nepogrešivim, u izbegavanju bez pada, nikada nesrećnim ni zlosrećnim, slobodnim, nesprečivim i neprinuđenim; usklađenim s Zeusovim upravljanjem, njemu poslušnim i njime zadovoljnim; da nikoga ne koriš i ni za šta ne optužuješ, nego da iz sve duše možeš reći: „Vodi me, Zeuse, i ti, Sudbino.”
 
-Može.
+A ti, kad ti se dopadne neki izraz ili poneka postavka, ostaješ tu i hoćeš da stanuješ, zaboravljajući ono što je kod kuće, pa govoriš: „Ovo je lepo.” Ko kaže da nije lepo? Ali kao prolaz, kao svratište.
 
-I šta onda?
+Šta, naime, sprečava onoga ko govori kao Demosten da bude nesrećan? Ili onoga ko razlaže silogizme kao Hrisip da bude jadan, da tuguje, zavidi, uznemirava se i živi nesrećno? Ništa.
 
-Zar je žalost zlo?
+Vidiš, dakle, da su to bila svratišta bez prave vrednosti, a da je cilj bio nešto drugo. Kad ovo nekima govorim, misle da rušim brigu za govor ili za postavke. Ne rušim nju, nego bezmerno zadržavanje na tome i polaganje nade u to.
 
-Ako je zlo u tvome proizvoljenju, ona ti ne može nauditi osim ako joj sam ne pristaneš.
-
-A ako je žalost sama po sebi zlo, zašto onda govoriš da je uživanje dobro?
-
-Zar nisu i jedno i drugo telesna stanja?
-
-Ali priroda mi nalaže da volim dete.
-
-Čini, dakle, ono što priroda nalaže.
-
-Ne pravi se mudrijim od nje.
-
-Jer ako se prirodno ne treba vezivati za dete, nema razloga da se čovek zbog njega uznemirava.
-
-A ako se prirodno vezujemo, onda ne treba iskorenjivati tu vezu, nego naučiti kako da se njome valjano služimo.
-
-Isto važi za otadžbinu.
-
-I za roditelje.
-
-I za braću.
-
-I za prijatelje.
-
-Nije delo filozofa da čoveka učini bezosećajnim.
-
-Nego da njegove prirodne veze učini valjanim i nesputanim.
-
-Kako?
-
-Tako što će dobro postaviti onde gde ono zaista jeste.
-
-Ne u telu.
-
-Ne u imanju.
-
-Ne u slavi.
-
-Ne u životu drugoga čoveka.
-
-Nego u vlastitom proizvoljenju.
-
-Tada ćeš moći voleti dete a da ne budeš njegov rob.
-
-Moći ćeš voleti ženu a da ne strepiš.
-
-Moći ćeš služiti otadžbini a da ne budeš zavisan od nje.
-
-Jer nećeš od njih tražiti svoje dobro.
-
-Nego ćeš svoje dobro donositi u odnos prema njima.
-
-To je ono što Epikur nije video.
-
-Videvši da se ljudi zbog svojih veza žaloste, uplašio se veza.
-
-Trebalo je da ispravi mnenje zbog kojega se žaloste.
-
-Kao kada bi neko, videvši da se ljudi u plovidbi boje, zabranio plovidbu umesto da ih nauči kormilarenju.
-
-Zato nemoj govoriti:
-
-Ne uzimaj ženu.
-
-Ne rađaj decu.
-
-Ne učestvuj u državnim poslovima.
-
-Ne imaj prijatelje.
-
-Nego:
-
-Uzmi ženu kao čovek.
-
-Rađaj decu kao čovek.
-
-Učestvuj u državnim poslovima kao čovek.
-
-Budi prijatelj kao čovek koji zna gde mu je dobro.
-
-Jer ako to znaš, nijedan odnos neće ti biti prepreka.
-
-Naprotiv, svaki će ti dati građu da pokažeš kakav si.
+Ako onaj ko ovo pokazuje šteti slušaocima, ubrojte i mene među one koji štete. Ali, videći da je jedno najjače i najvažnije, ne mogu reći da je nešto drugo samo da bih vam ugodio.
 
 <!-- anchor:II.24 -->
 Neko mu reče: Mnogo puta, želeći te čuti, dođoh k tebi, a nikada mi ne odgovori; i sada te molim, ako je moguće, da mi nešto kažeš.
@@ -3872,227 +3662,6 @@ Besednik sam. Zar on nije bio? Ne vidiš li kako je Homer učinio nemima Odiseja
 
 Samo to imam da ti kažem, i ni to voljno: nisi me podstakao. Kada hoćeš čuti filozofa, ne govori mu: Ništa mi ne kažeš, nego pokaži da umeš slušati, pa ćeš videti kako ćeš pokrenuti onoga koji govori.
 
-<!-- Privremeno sklonjen pogrešan prethodni tekst II.24; uklanja se pri završnom čišćenju.
-Siromaštvo je strašno.
-
-Za koga?
-
-Za srebroljupca.
-
-Progonstvo je strašno.
-
-Za koga?
-
-Za onoga koji smatra da je dobro živeti u Rimu.
-
-Smrt je strašna.
-
-Za koga?
-
-Za onoga koji smatra da je život dobro.
-
-Idi sada i traži druge uhode.
-
-Nama ne šalji plašljivce.
-
-Takve nam glasnike ne treba slati.
-
-Nego pošalji Sokrata.
-
-Šta kažeš, Sokrate, o smrti?
-
-Ne znam šta je smrt, ali znam da nije zlo.
-
-Šta kažeš o zatvoru?
-
-Šta može zatvor učiniti?
-
-Zatvoriti telo.
-
-A šta je sa tobom?
-
-Mene ne može zatvoriti.
-
-Šta kažeš o otrovu?
-
-Šta može otrov?
-
-Ubiti telo.
-
-A tebe?
-
-Mene ne može.
-
-Takvoga uhodu pošalji.
-
-Takav neka nam donese glas.
-
-A ne onoga koji, čim vidi neprijatelja, pobegne i zatim nam govori da je sve izgubljeno.
-
-Telo je samo građa.
-
-Bolest je građa.
-
-Siromaštvo je građa.
-
-Progonstvo je građa.
-
-Kleveta je građa.
-
-Smrt je građa.
-
-Za koga?
-
-Za proizvoljenje.
-
-Kao što su koža i meso građa obućaru, a drvo tesaru, tako su spoljašnje stvari građa proizvoljenju.
-
-Šta onda treba proizvoljenje da čini s njima?
-
-Da ih valjano upotrebljava.
-
-Ako si na putovanju i naiđeš na kišu, zar se ljutiš na kišu?
-
-Ne.
-
-Gledaš šta možeš učiniti s njom.
-
-Tražiš zaklon.
-
-Oblačiš ogrtač.
-
-Nastavljaš put kada možeš.
-
-Tako čini i sa svime što se događa.
-
-Dete ti je bolesno.
-
-To je građa.
-
-Pokaži kako se služiš njome.
-
-Žena ti je umrla.
-
-To je građa.
-
-Izgubio si imanje.
-
-Građa.
-
-Prognan si.
-
-Građa.
-
-Osuđen si.
-
-Građa.
-
-Šta ti nije građa?
-
-Jedino tvoje proizvoljenje.
-
-Ono je radnik koji se služi svime ostalim.
-
-Pazi, dakle, da radnika ne pokvariš zbog građe.
-
-Ako se razgneviš na bolest, pokvario si proizvoljenje.
-
-Ako se uplašiš siromaštva, pokvario si proizvoljenje.
-
-Ako zbog smrti postaneš malodušan, pokvario si proizvoljenje.
-
-A bolest, siromaštvo i smrt ostali su ono što su bili.
-
-Nisu ti učinili zlo.
-
-Ti si ga učinio samome sebi.
-
-Ali meni se dogodila nesreća.
-
-Gde?
-
-Pokaži mi je.
-
-U telu?
-
-To nije tvoje dobro.
-
-U imanju?
-
-Ni to.
-
-U slavi?
-
-Ni to.
-
-Gde je onda nesreća?
-
-U tvome sudu.
-
-Ispravi sud i nesreća je nestala.
-
-Zato kada ti se dogodi nešto teško, reci:
-
-Sada je vreme borbe.
-
-Sada je olimpijska igra.
-
-Sada se ne može odlagati.
-
-Jedan dan i jedan događaj pokazuju je li tvoje napredovanje stvarno ili samo na rečima.
-
-Ne govori:
-
-Kamo sreće da mi se ovo nije dogodilo.
-
-Nego:
-
-Kamo sreće da se, kada mi se već dogodilo, njime poslužim kako treba.
-
-Jer prvo nije do tebe.
-
-Drugo jeste.
-
-Šta je Herakla učinilo Heraklom?
-
-Zar lav, hidra, vepar, nepravedni i divlji ljudi koje je očistio sa zemlje?
-
-Šta bi radio da ničega takvog nije bilo?
-
-Zamotao bi se i spavao.
-
-Ne bi postao Herakle živeći čitav život u raskoši i spokojstvu.
-
-A čak i da jeste, kakva bi mu korist bila?
-
-Čemu bi služile njegove ruke, njegova snaga, njegova postojanost i plemenitost da ga nisu potresale i vežbale takve teškoće?
-
-Šta onda?
-
-Treba li sam da traži lava i vepra?
-
-To bi bilo bezumlje.
-
-Ali kada dođu, korisni su da pokažu i izvežbaju čoveka.
-
-Zato, kada teškoća dođe, seti se Boga i reci:
-
-Pošalji mi šta hoćeš.
-
-Dao si mi moći kojima se time mogu valjano služiti.
-
-Samo da ih ja ne zapustim.
-
-Tako se čovek oslobađa.
-
-Ne bežanjem od stvari, nego učeći kako da se njima služi.
-
-Jer slobodan nije onaj kome se ništa teško ne događa.
-
-Takav čovek ne postoji.
-
-Slobodan je onaj kome ono što se događa ne može oduzeti valjano proizvoljenje.
--->
 
 <!-- anchor:II.25 -->
 Kada neko od prisutnih reče:

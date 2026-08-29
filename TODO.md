@@ -10,6 +10,10 @@
 - proveravati srpski i staroslovenski prema grčkom izvorniku, naročito kod
   tehničkih prirodnofilozofskih objašnjenja.
 
+### Epiktetovi `Razgovori` — kanonske redakcije
+
+- dovršiti završetke II.17 i II.19–II.22 prema grčkom izvorniku;
+
 ## P3 — širiti korpus celih dela tek posle zatvaranja P0 i P1
 
 ### Najprirodniji sledeći paketi
