@@ -298,7 +298,10 @@
         "reference": "I.105"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.105"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.105",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 19,
@@ -3799,7 +3802,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.12",
     "tags": [
-      "κακόν"
+      "κακόν",
+      "ἀγαθόν"
     ]
   },
   {
@@ -5464,7 +5468,10 @@
         "reference": "VII.160"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.160"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.160",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 316,
@@ -6159,7 +6166,8 @@
     "tags": [
       "δόξα",
       "εὐδαιμονία",
-      "ψυχή"
+      "ψυχή",
+      "ἀγαθόν"
     ]
   },
   {
@@ -6178,7 +6186,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.30",
     "tags": [
-      "εὐδαιμονία"
+      "εὐδαιμονία",
+      "ἀγαθόν"
     ]
   },
   {
@@ -7076,7 +7085,10 @@
         "reference": "I.69"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.69"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.69",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 409,
@@ -8922,7 +8934,10 @@
         "reference": "VII.172"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.172"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.172",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 521,
@@ -10574,6 +10589,9 @@
         "name": "hermann-diels",
         "reference": "68 B 35"
       }
+    ],
+    "tags": [
+      "ἀγαθόν"
     ]
   },
   {
@@ -11839,6 +11857,9 @@
         "name": "hermann-diels",
         "reference": "68 B 93"
       }
+    ],
+    "tags": [
+      "ἀγαθόν"
     ]
   },
   {
@@ -12316,7 +12337,8 @@
     ],
     "tags": [
       "δίκη",
-      "κακόν"
+      "κακόν",
+      "ἀγαθόν"
     ]
   },
   {
@@ -13129,6 +13151,9 @@
         "name": "hermann-diels",
         "reference": "68 B 229"
       }
+    ],
+    "tags": [
+      "ἀγαθόν"
     ]
   },
   {
@@ -13555,7 +13580,8 @@
     ],
     "tags": [
       "γίγνεσθαι",
-      "νοῦς"
+      "νοῦς",
+      "ἀγαθόν"
     ]
   },
   {
@@ -13640,7 +13666,8 @@
     ],
     "tags": [
       "δίκη",
-      "κακόν"
+      "κακόν",
+      "ἀγαθόν"
     ]
   },
   {
@@ -14074,6 +14101,9 @@
         "name": "hermann-diels",
         "reference": "68 B 294"
       }
+    ],
+    "tags": [
+      "ἀγαθόν"
     ]
   },
   {
@@ -18946,7 +18976,10 @@
         "reference": "X.6"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.6"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.6",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 1117,
@@ -19870,7 +19903,10 @@
         "reference": "II.106"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.106"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.106",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 1171,
@@ -20059,7 +20095,10 @@
         "reference": "VIII.88"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.88"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.88",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 1799,
@@ -22462,7 +22501,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1754#ἀνάπαυσιν",
     "tags": [
-      "νοῦς"
+      "νοῦς",
+      "ἀγαθόν"
     ]
   },
   {
@@ -26731,7 +26771,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.80",
     "tags": [
       "εὐδαιμονία",
-      "ψυχή"
+      "ψυχή",
+      "ἀγαθόν"
     ]
   },
   {
@@ -26855,7 +26896,8 @@
     "stsl": "Отъ сѫштихъ ова зъла · ова добра · ова ни єдина ни дрѹга · Зъла нарицаємъ · єлика присно врѣдити могѫть · ꙗко неразсѫдьство · безѹмиє · неправьда и подобьна · Противьна же симъ добра сѫть ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.102",
     "tags": [
-      "κακόν"
+      "κακόν",
+      "ἀγαθόν"
     ]
   },
   {
@@ -28360,7 +28402,10 @@
         "reference": "VIII.9"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.9"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.9",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 1653,
@@ -29290,7 +29335,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.24",
     "tags": [
-      "θεός"
+      "θεός",
+      "ἀγαθόν"
     ]
   },
   {
@@ -30477,7 +30523,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.34-35",
     "tags": [
-      "θεός"
+      "θεός",
+      "ἀγαθόν"
     ]
   },
   {
@@ -30976,7 +31023,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.21",
     "tags": [
       "θεωρία",
-      "κακόν"
+      "κακόν",
+      "ἀγαθόν"
     ]
   },
   {
@@ -35674,7 +35722,10 @@
         "reference": "VII.17"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.17"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.17",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 2077,
@@ -36396,6 +36447,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.127",
     "tags": [
       "εὐδαιμονία",
+      "ἀγαθόν",
       "ἀρετή"
     ]
   },
