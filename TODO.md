@@ -28,14 +28,8 @@ Ne započinjati više velikih autora istovremeno. Za svaki novi korpus prvo
 odrediti obuhvat, kanonske identifikatore, podelu odeljaka i terminološke
 probleme.
 
-- DILEMA — u prvom Epiktetovom fragmentu `ἀμερής` nije isto što i rečnički
-  `ἄτομος — недѣлимъ`; pre prevođenja treba odrediti odgovarajući slovenski
-  termin.
 
 ## P4 — terminologija i UI
 
-- ažurirati nova značenja u json i works:
-| ἄτομος            | несѣчимо                              | nesečivo                        |
-| ἀμερής            | недѣлимо                              | nedeljivo                       |
 - proveriti glavne filozofske termine ručno (AGENT stop) u rečniku
    - κόσμος
