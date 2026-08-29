@@ -1,6 +1,7 @@
 'use client';
 
 import { useTransliterate } from '../utils/useTransliterate';
+import { greekToLatin, isGreek } from '../utils/greekToLatin';
 import type { Language } from '../types/data';
 import styles from './TagHeading.module.scss';
 
@@ -17,7 +18,12 @@ export default function TagHeading({ language, tag, translation }: TagHeadingPro
   return (
     <header className={styles.heading}>
       <div className={styles.terms}>
-        <h2 className={styles.greek} lang="grc">{tag}</h2>
+        <div>
+          <h2 className={styles.greek} lang="grc">{tag}</h2>
+          {isGreek(tag) && (
+            <div className={styles.greekLatin} lang="grc-Latn">{greekToLatin(tag)}</div>
+          )}
+        </div>
         {translation && (
           <span className={styles.translation} lang={language === 'stsl' ? 'cu' : 'sr'}>
             {transliterate(translation)}

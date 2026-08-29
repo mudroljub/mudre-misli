@@ -1,7 +1,7 @@
 @import '../styles/shared';
 
 .heading {
-  // display: flex;
+  display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: $spacing-md;
@@ -24,6 +24,12 @@
   color: $color-text;
 }
 
+.greekLatin {
+  margin-top: 0;
+  color: $color-text-light;
+  font-size: $font-size-sm;
+}
+
 .translation {
   color: $color-text-light;
   font-size: $font-size-xl;
@@ -37,6 +43,8 @@
 
 .wiktionary {
   flex: none;
+  display: inline-block;
+  margin-top: $spacing-md;
   color: $color-text-light;
   font-family: $font-family-base;
   font-size: $font-size-sm;

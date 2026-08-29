@@ -34,7 +34,6 @@ probleme.
 
 ## P4 — terminologija i UI
 
-- na stranici taga dodati latiničnu transkripciju grčkog, kao što već imamo u rečniku, na stranici citata i drugde
 - ažurirati nova značenja u json i works:
 | ἄτομος            | несѣчимо                              | nesečivo                        |
 | ἀμερής            | недѣлимо                              | nedeljivo                       |
