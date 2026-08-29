@@ -236,14 +236,14 @@
 | ὑπόκειμαι         | подълѣгати                            | podlegati                       |
 | ὑποκείμενον       | подълежащее (alt. подълога)           | podležeće (alt: podloga)        |
 | ὑπόληψις          | приѩтиѥ                               | prihvatanje                     |
-| φαίνομαι          | ꙗвити сѧ                             | pojaviti se                      |
-| φαινόμενον        | ꙗвленіє                              | pojava                           |
-| φαίνω             | ꙗвити (alt: показати)                | javiti (alt. pokazati)           |
-| φανερός           | ꙗвьнъ                                | javan (alt. očit)                |
+| φαίνομαι          | ꙗвити сѧ                              | pojaviti se                     |
+| φαινόμενον        | ꙗвленіє                               | pojava                          |
+| φαίνω             | ꙗвити (alt: показати)                 | javiti (alt. pokazati)          |
+| φανερός           | ꙗвьнъ                                 | javan (alt. očit)               |
 | φθορά             | тлѣніє                                | propadanje                      |
 | φιλία             | дрѹжьба                               | prijateljstvo                   |
-| φιλοσοφία         | мѫдролюбіє                            | filozofija (alt. mudroljublje)  |
-| φιλόσοφος         | мѫдролюбъ                             | filozof (alt. mudroljub)        |
+| φιλοσοφία         | любомѫдриѥ (alt. философїа)           | filozofija (alt. mudroljublje)  |
+| φιλόσοφος         | любомѫдрьць (alt: философъ)           | filozof (alt. mudroljub)        |
 | φιλότης           | любовь                                | ljubav                          |
 | φόβος             | страхъ                                | strah                           |
 | φρένες            | разборъ                               | razbor                          |

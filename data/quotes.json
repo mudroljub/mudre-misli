@@ -391,7 +391,7 @@
     "type": "bio",
     "year": -610,
     "sr": "Isticao se snagom i lepotom i upoznao se s egipatskom filozofijom.",
-    "stsl": "Силоѭ и красотоѭ отличааше сѧ · и егѵпетьскꙑѧ мѫдролюбіꙗ причѧстьникъ бѣ ·",
+    "stsl": "Силоѭ и красотоѭ отличааше сѧ · и егѵпетьскꙑѧ любомѫдриꙗ причѧстьникъ бѣ ·",
     "originalText": "ῥώμῃ δὲ καὶ κάλλει διαφέρειν, μετασχεῖν τε τῆς ἐν Αἰγύπτῳ φιλοσοφίας.",
     "author": "Cleobulus",
     "sources": [
@@ -1460,7 +1460,7 @@
     "type": "bio",
     "year": -600,
     "sr": "Anaksimandar je bio njegov naslednik, a Tales prvi predstavnik jonskog mudroljublja.",
-    "stsl": "Анаксимандръ же послѣдьникъ єго бысть · Талесъ пръвыи Іоньскымъ мѫдролюбиємъ мѫдролюбьствова ·",
+    "stsl": "Анаксимандръ же послѣдьникъ єго бысть · Талесъ пръвыи Іоньскымъ любомѫдриѥмъ любомѫдриѥва ·",
     "originalText": "Ἀναξίμανδρος δὲ διάδοχος αὐτοῦ γέγονεν· πρῶτος δὲ τὸ Ἰωνικὸν ἐφιλοσόφησεν.",
     "author": "Thales",
     "sources": [
@@ -3376,7 +3376,7 @@
     "id": "mm-000195",
     "type": "quote",
     "sr": "Od mudroljublja sam dobio sposobnost da razgovaram sa sobom.",
-    "stsl": "Отъ мѫдролюбиꙗ приѧхъ силѹ съ собою бесѣдовати ·",
+    "stsl": "Отъ любомѫдриꙗ приѧхъ силѹ съ собою бесѣдовати ·",
     "originalText": "Τὸ δύνασθαι ἑαυτῷ ὁμιλεῖν.",
     "author": "Antisthenes",
     "sources": [
@@ -3988,7 +3988,10 @@
         "reference": "VI.13"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.13"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.13",
+    "tags": [
+      "φρόνησις"
+    ]
   },
   {
     "_id": 226,
@@ -4171,7 +4174,7 @@
     "type": "bio",
     "year": -590,
     "sr": "Kleobul Lindijski, filozof, jedan od sedam mudraca Helade, bio je na glasu u vreme Sedekije, kralja Judeje.",
-    "stsl": "Клеовѹлъ Линдьскꙑи · мѫдролюбъ · єдинъ отъ седми мѫдрьцъ Елладꙑ · славьнъ бѣ въ врѣмѧ Седекіи · цара Іѹдеискаго ·",
+    "stsl": "Клеовѹлъ Линдьскꙑи · любомѫдрьць · єдинъ отъ седми мѫдрьцъ Елладꙑ · славьнъ бѣ въ врѣмѧ Седекіи · цара Іѹдеискаго ·",
     "originalText": "Cleobulus, philosophus, lidius, unus de septem sapientibus Grecie, claruit tempore Zedechie, regis Judee.",
     "author": "Cleobulus",
     "sources": [
@@ -4452,7 +4455,7 @@
     "id": "mm-000255",
     "type": "reported",
     "sr": "Upitan šta je dobio od mudroljublja, Aristip odgovori: Da mogu sa svima opštiti bez straha.",
-    "stsl": "Въпрошенъ чьто отъ мѫдролюбиꙗ приѩтъ · Аристипъ отъвѣшта · Єже могѫ съ вьсѣми безъ страха обьштити сѧ ·",
+    "stsl": "Въпрошенъ чьто отъ любомѫдриꙗ приѩтъ · Аристипъ отъвѣшта · Єже могѫ съ вьсѣми безъ страха обьштити сѧ ·",
     "originalText": "ἐρωτηθεὶς τί αὐτῷ περιγέγονεν ἐκ φιλοσοφίας, ἔφη, «τὸ δύνασθαι πᾶσι θαρρούντως ὁμιλεῖν.»",
     "author": "Aristippus",
     "sources": [
@@ -4491,7 +4494,7 @@
     "id": "mm-000257",
     "type": "reported",
     "sr": "Upitan kakvu prednost imaju filozofi, Aristip odgovori: Ako svi zakoni budu ukinuti, živećemo isto kao i sada.",
-    "stsl": "Въпрошенъ кѫѭ пользѫ мѫдролюби имѫть · Аристипъ отъвѣшта · Аште вьси закони разорени бѫдѫть · такожде ꙗкоже нынѣ жити бѫдемъ ·",
+    "stsl": "Въпрошенъ кѫѭ пользѫ любомѫдрьци имѫть · Аристипъ отъвѣшта · Аште вьси закони разорени бѫдѫть · такожде ꙗкоже нынѣ жити бѫдемъ ·",
     "originalText": "ἐρωτηθείς ποτε τί πλέον ἔχουσιν οἱ φιλόσοφοι, ἔφη, «ἐὰν πάντες οἱ νόμοι ἀναιρεθῶσιν, ὁμοίως βιωσόμεθα.»",
     "author": "Aristippus",
     "sources": [
@@ -4511,7 +4514,7 @@
     "id": "mm-000258",
     "type": "reported",
     "sr": "Upitan zašto filozofi odlaze na vrata bogataša, a bogataši ne na vrata filozofa, Aristip odgovori: Zato što jedni znaju šta im treba, a drugi ne znaju.",
-    "stsl": "Въпрошенъ почьто мѫдролюби къ вратомъ богатыхъ приходѧть · богатии же къ вратомъ мѫдролюбъ не приходѧть · Аристипъ отъвѣшта · Зане овии вѣдѧть · чего трѣбѹѭть · овии же не вѣдѧть ·",
+    "stsl": "Въпрошенъ почьто любомѫдрьци къ вратомъ богатыхъ приходѧть · богатии же къ вратомъ любомѫдрьць не приходѧть · Аристипъ отъвѣшта · Зане овии вѣдѧть · чего трѣбѹѭть · овии же не вѣдѧть ·",
     "originalText": "ἐρωτηθεὶς διὰ τί οἱ φιλόσοφοι ἐπὶ τὰς τῶν πλουσίων θύρας ἔρχονται, οἱ δὲ πλούσιοι ἐπὶ τὰς τῶν φιλοσόφων οὐκέτι, ἔφη, «ὅτι οἱ μὲν ἴσασιν ὧν δέονται, οἱ δ' οὐκ ἴσασιν.»",
     "author": "Aristippus",
     "sources": [
@@ -4627,7 +4630,7 @@
     "id": "mm-000265",
     "type": "reported",
     "sr": "Upitan zašto filozofi odlaze na vrata bogataša, Aristip odgovori: I lekari odlaze na vrata bolesnika, ali niko zbog toga ne bi radije bio bolesnik nego lekar.",
-    "stsl": "Въпрошенъ почьто мѫдролюби къ вратомъ богатыхъ приходѧть · Аристипъ отъвѣшта · И лѣкарє къ вратомъ болѧштихъ приходѧть · нъ никтоже сего ради болѧштимъ паче нежели лѣкаремъ быти изволилъ бы ·",
+    "stsl": "Въпрошенъ почьто любомѫдрьци къ вратомъ богатыхъ приходѧть · Аристипъ отъвѣшта · И лѣкарє къ вратомъ болѧштихъ приходѧть · нъ никтоже сего ради болѧштимъ паче нежели лѣкаремъ быти изволилъ бы ·",
     "originalText": "ἐρωτηθεὶς διὰ τί οἱ φιλόσοφοι ἐπὶ τὰς τῶν πλουσίων θύρας ἔρχονται, ἔφη, «καὶ γὰρ οἱ ἰατροὶ παρὰ ταῖς τῶν νοσούντων· ἀλλ' οὐ παρὰ τοῦτό τις ἂν ἕλοιτο νοσεῖν ἢ ἰατρεύειν.»",
     "author": "Aristippus",
     "sources": [
@@ -4646,7 +4649,7 @@
     "id": "mm-000266",
     "type": "reported",
     "sr": "Kada se Aristip u oluji uplaši, neko mu reče: Mi obični ljudi se ne bojimo, a vi filozofi strahujete? Aristip odgovori: Ne strepimo mi za jednako vredne duše.",
-    "stsl": "Єгда Аристипъ въ бѹри ѹбоꙗ сѧ · нѣкто емѹ рече · Мы простии чловѣци не боимъ сѧ · вы же мѫдролюби боите сѧ · Аристипъ отъвѣшта · Не о равьноцѣньныхъ дѹшахъ боимъ сѧ ·",
+    "stsl": "Єгда Аристипъ въ бѹри ѹбоꙗ сѧ · нѣкто емѹ рече · Мы простии чловѣци не боимъ сѧ · вы же любомѫдрьци боите сѧ · Аристипъ отъвѣшта · Не о равьноцѣньныхъ дѹшахъ боимъ сѧ ·",
     "originalText": "Εἰς Κόρινθον αὐτῷ πλέοντί ποτε καὶ χειμαζομένῳ συνέβη ταραχθῆναι. πρὸς οὖν τὸν εἰπόντα, «ἡμεῖς μὲν οἱ ἰδιῶται οὐ δεδοίκαμεν, ὑμεῖς δ᾽ οἱ φιλόσοφοι δειλιᾶτε,» «οὐ γὰρ περὶ ὁμοίας,» ἔφη, «ψυχῆς ἀγωνιῶμεν ἑκάτεροι.»",
     "author": "Aristippus",
     "sources": [
@@ -4769,7 +4772,7 @@
     "id": "mm-000273",
     "type": "reported",
     "sr": "Kada Dionisije primora Aristipa da kaže nešto iz filozofije, Aristip odgovori: Smešno je da od mene učiš šta treba govoriti, a ti mene poučavaš kada treba govoriti.",
-    "stsl": "Єгда Дионисии Аристипа понѫди · да что отъ мѫдролюбиꙗ речеть · Аристипъ отъвѣшта · Смѣшьно єсть · да отъ мене ѹчиши сѧ · что подобаєть глаголати · ты же мене ѹчиши · когда подобаєть глаголати ·",
+    "stsl": "Єгда Дионисии Аристипа понѫди · да что отъ любомѫдриꙗ речеть · Аристипъ отъвѣшта · Смѣшьно єсть · да отъ мене ѹчиши сѧ · что подобаєть глаголати · ты же мене ѹчиши · когда подобаєть глаголати ·",
     "originalText": "Ἀναγκαζόμενός ποτε ὑπὸ Διονυσίου εἰπεῖν τι τῶν ἐκ φιλοσοφίας, «Γελοῖον,» ἔφη, «εἰ τὸ λέγειν μὲν παρ' ἐμοῦ πυνθάνῃ, τὸ δὲ πότε δεῖ λέγειν σύ με διδάσκεις.»",
     "author": "Aristippus",
     "sources": [
@@ -5055,7 +5058,7 @@
     "id": "mm-000290",
     "type": "quote",
     "sr": "Oni koji prođu opšte obrazovanje, a izostave mudroljublje, nalik su Penelopinim proscima: pridobili su Melantu, Polidoru i druge sluškinje, ali gospodaricu nisu mogli dobiti.",
-    "stsl": "Иже обьште наѹченіє проидѫть · мѫдролюбиє же оставѧть · подобни сѫть Пенелопинымъ женихомъ · Мелантꙫ · Полидорꙫ и прочиѩ рабыни приѩша · госпожды же приѧти не могоша ·",
+    "stsl": "Иже обьште наѹченіє проидѫть · любомѫдриѥ же оставѧть · подобни сѫть Пенелопинымъ женихомъ · Мелантꙫ · Полидорꙫ и прочиѩ рабыни приѩша · госпожды же приѧти не могоша ·",
     "originalText": "τοὺς τῶν ἐγκυκλίων παιδευμάτων μετασχόντας, φιλοσοφίας δὲ ἀπολειφθέντας ... τοῖς τῆς Πηνελόπης μνηστῆρσι.",
     "author": "Aristippus",
     "sources": [
@@ -5460,7 +5463,7 @@
     "type": "bio",
     "year": -580,
     "sr": "Ferekid, sin Babijev, bio je sa Sirosa, kako kaže Aleksandar u Nasleđima filozofa, i slušao je Pitaka.",
-    "stsl": "Ферекѵдъ · сꙑнъ Бабіевъ · отъ Сѵра бѣ · ꙗкоже глаголеть Александръ въ Прѣѥмьствіихъ мѫдролюбъ · Пітакѹ же послѹша ·",
+    "stsl": "Ферекѵдъ · сꙑнъ Бабіевъ · отъ Сѵра бѣ · ꙗкоже глаголеть Александръ въ Прѣѥмьствіихъ любомѫдрьць · Пітакѹ же послѹша ·",
     "originalText": "Φερεκύδης Βάβυος Σύριος, καθά φησιν Ἀλέξανδρος ἐν Διαδοχαῖς, Πιττακοῦ διακήκοεν.",
     "author": "Pherecydes of Syros",
     "sources": [
@@ -6107,7 +6110,7 @@
     "id": "mm-000349",
     "type": "reported",
     "sr": "Upitan šta je stekao filozofijom, Aristotel reče: Da bez zapovesti činim ono što neki čine iz straha od zakona.",
-    "stsl": "Въпрошенъ · что мѫдролюбиѥмъ приобрѣте · Аристотель рече · Безъ повелѣниꙗ творити · єже нѣции страха ради законъ творѧть ·",
+    "stsl": "Въпрошенъ · что любомѫдриѥмъ приобрѣте · Аристотель рече · Безъ повелѣниꙗ творити · єже нѣции страха ради законъ творѧть ·",
     "originalText": "ἐρωτηθεὶς τί ποτ' αὐτῷ περιγέγονεν ἐκ φιλοσοφίας, ἔφη, “τὸ ἀνεπιτάκτως ποιεῖν ἅ τινες διὰ τὸν ἀπὸ τῶν νόμων φόβον ποιοῦσιν.”",
     "author": "Aristotle",
     "sources": [
@@ -6433,7 +6436,7 @@
     "type": "bio",
     "year": -570,
     "sr": "Pitagora, filozof sa Samosa, kako kaže Justin, bio je sin bogatog trgovca Demarata. Ipak je nadmašio oca bogatstvom: ono što očeva trgovina nije mogla steći, sin je radije prezreo nego posedovao.",
-    "stsl": "Пѷѳагоръ · мѫдролюбъ Саміꙗнинъ · ꙗкоже Іѹстинъ глаголеть · сынъ богатаго кѹпьца Демарата бѣ · нъ богатствомь отьца надмину · єже отьчє кѹпьчьство стѧжати не може · сынъ паче прѣзрѣ неже имѣ ·",
+    "stsl": "Пѷѳагоръ · любомѫдрьць Саміꙗнинъ · ꙗкоже Іѹстинъ глаголеть · сынъ богатаго кѹпьца Демарата бѣ · нъ богатствомь отьца надмину · єже отьчє кѹпьчьство стѧжати не може · сынъ паче прѣзрѣ неже имѣ ·",
     "originalText": "Pythagoras, philosophus, nacione samus, ut ait Justinus, negociatoris divitis filius fuit cui nomen Demaratus erat, sed patre longe dicior fuit eo quod negociacio patris tanta nequi ret acquirere quanta filius contemnere maluit habere.",
     "author": "Pythagoras",
     "sources": [
@@ -6528,6 +6531,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.86",
     "tags": [
       "γίγνομαι",
+      "φρόνησις",
       "φύσις",
       "ψυχή"
     ]
@@ -6703,6 +6707,7 @@
     "tags": [
       "θεός",
       "σοφία",
+      "φρόνησις",
       "ἀγαθόν"
     ]
   },
@@ -8020,7 +8025,7 @@
     "id": "mm-000453",
     "type": "reported",
     "sr": "Kada mu je neko zamerio što ne sluša Aristona zajedno s mnoštvom, odgovori: Da sam se obazirao na mnoštvo, ne bih ni filozofirao.",
-    "stsl": "Егда нѣкто поношаше ємѹ · ꙗко не при Аристонѣ съ многꙑими ѹчить сѧ · отъвѣща · Аще бꙑхъ къ множьствѹ възиралъ · не бꙑхъ ни мѫдролюбьствовалъ ·",
+    "stsl": "Егда нѣкто поношаше ємѹ · ꙗко не при Аристонѣ съ многꙑими ѹчить сѧ · отъвѣща · Аще бꙑхъ къ множьствѹ възиралъ · не бꙑхъ ни любомѫдриѥвалъ ·",
     "originalText": "Οὗτος ὀνειδισθεὶς ὑπό τινος ὅτι οὐχὶ παρ' Ἀρίστωνι μετὰ πολλῶν σχολάζοι, Εἰ τοῖς πολλοῖς, εἶπε, προσεῖχον, οὐκ ἂν ἐφιλοσόφησα.",
     "author": "Chrysippus",
     "sources": [
@@ -8093,7 +8098,7 @@
     "id": "mm-000457",
     "type": "reported",
     "sr": "Kada ga je neko upitao kome da poveri sina, odgovori: Meni; jer da sam mislio kako postoji neko bolji od mene, i sam bih kod njega učio filozofiju.",
-    "stsl": "Егда нѣкто въпроси и · Комѹ сына своего прѣдамъ · отъвѣща · Мънѣ · аще бо бꙑхъ мьнѣлъ нѣкого лѹчьша отъ мене бꙑти · ѹ него бꙑхъ и самъ мѫдролюбіѭ ѹчилъ сѧ ·",
+    "stsl": "Егда нѣкто въпроси и · Комѹ сына своего прѣдамъ · отъвѣща · Мънѣ · аще бо бꙑхъ мьнѣлъ нѣкого лѹчьша отъ мене бꙑти · ѹ него бꙑхъ и самъ любомѫдрию ѹчилъ сѧ ·",
     "originalText": "Οὕτω δ' ἦν φρονηματίας ὥστ' ἐρομένου τινός, Τίνι συστήσω τὸν υἱόν; εἰπεῖν, ἐμοί· καὶ γὰρ εἰ ὑπελάμβανον εἶναί τιν' ἐμοῦ βελτίονα, παρ' αὐτῷ ἂν ἐγὼ ἐφιλοσόφουν.",
     "author": "Chrysippus",
     "sources": [
@@ -8879,7 +8884,7 @@
     "type": "bio",
     "year": -530,
     "sr": "Prema Favorinu, Pitagora je prvi hranio atlete mesom, počev od Eurimena; drugi su to pripisivali istoimenom treneru, a ne filozofu.",
-    "stsl": "По Фаворинѹ · Пѷѳагоръ прьвъ борьце мѧсомъ питаше · прьвѣє же Еѵримена · Ини же се єдиноименьнѹ наставникѹ · а не мѫдролюбѹ приписовахѫ ·",
+    "stsl": "По Фаворинѹ · Пѷѳагоръ прьвъ борьце мѧсомъ питаше · прьвѣє же Еѵримена · Ини же се єдиноименьнѹ наставникѹ · а не любомѫдрьцю приписовахѫ ·",
     "originalText": "Λέγεται δὲ καὶ πρῶτος κρέασιν ἀσκῆσαι ἀθλητάς, καὶ πρῶτόν γ' Εὐρυμένην, καθά φησι Φαβωρῖνος ἐν τρίτῳ τῶν Ἀπομνημονευμάτων· οἱ δὲ Πυθαγόραν ἀλείπτην τινὰ τοῦτον σιτίσαι τὸν τρόπον, μὴ τοῦτον.",
     "author": "Pythagoras",
     "sources": [
@@ -8895,7 +8900,7 @@
     "id": "mm-000494",
     "type": "reported",
     "sr": "Kažu da ga Antigon, koji je slušao njegova predavanja, upita zašto crpe vodu. Kleant odgovori: Zar samo crpem vodu? A zar ne kopam? Zar ne zalivam? Zar ne radim sve radi filozofije?",
-    "stsl": "Глаголѭть же ꙗко Антигонъ · слѹшатель его сꙑи · въпроси и почто водѫ почръпаеть · Клеантъ же отъвѣща · Єда водѫ токъмо почръпаѭ · Что же · не копаѭ ли · не напаꙗѭ ли · и не вьсꙗ ли мѫдролюбіꙗ ради творѭ.",
+    "stsl": "Глаголѭть же ꙗко Антигонъ · слѹшатель его сꙑи · въпроси и почто водѫ почръпаеть · Клеантъ же отъвѣща · Єда водѫ токъмо почръпаѭ · Что же · не копаѭ ли · не напаꙗѭ ли · и не вьсꙗ ли любомѫдриꙗ ради творѭ.",
     "originalText": "φασὶ δὲ καὶ Ἀντίγονον αὐτοῦ πυθέσθαι ὄντα ἀκροατήν, διὰ τί ἀντλεῖ· τὸν δ’ εἰπεῖν· ἀντλῶ γὰρ μόνον; τί δ’; οὐχὶ σκάπτω; τί δ’; οὐκ ἄρδω καὶ πάντα ποιῶ φιλοσοφίας ἕνεκα;",
     "author": "Cleanthes",
     "sources": [
@@ -8914,7 +8919,7 @@
     "id": "mm-000495",
     "type": "reported",
     "sr": "Jednom sakupi sitan novac, donese ga među poznanike i reče: Kleant bi, kad bi hteo, mogao izdržavati i drugog Kleanta; oni pak koji imaju od čega da se izdržavaju traže potrepštine od drugih, premda se filozofijom bave bez napora. Zato Kleanta prozvaše i drugim Heraklom.",
-    "stsl": "Единоѭ събьравъ пѣнѧѕь · посрѣдѣ знаемꙑихъ принесе и рече · Клеантъ и инаго Клеанта препитати можеть · аще хощеть · они же · имѫще отъкѫдѹ питати сѧ · отъ инѣхъ потрѣбьнаꙗ ищѫть · аще и безъ трѹда мѫдролюбьствѹѭть · Сего ради и вторꙑи Хераклъ Клеантъ нареченъ бꙑсть.",
+    "stsl": "Единоѭ събьравъ пѣнѧѕь · посрѣдѣ знаемꙑихъ принесе и рече · Клеантъ и инаго Клеанта препитати можеть · аще хощеть · они же · имѫще отъкѫдѹ питати сѧ · отъ инѣхъ потрѣбьнаꙗ ищѫть · аще и безъ трѹда любомѫдрьствѹѭть · Сего ради и вторꙑи Хераклъ Клеантъ нареченъ бꙑсть.",
     "originalText": "Καί ποτ' ἀθροισθὲν τὸ κέρμα ἐκόμισεν εἰς μέσον τῶν γνωρίμων καί φησι, Κλεάνθης μὲν καὶ ἄλλον Κλεάνθην δύναιτ' ἂν τρέφειν, εἰ βούλοιτο· οἱ δ' ἔχοντες ὅθεν τραφήσονται παρ' ἑτέρων ἐπιζητοῦσι τὰ ἐπιτήδεια, καίπερ ἀνειμένως φιλοσοφοῦντες. Ὅθεν δὴ καὶ δεύτερος Ἡρακλῆς ὁ Κλεάνθης ἐκαλεῖτο.",
     "author": "Cleanthes",
     "sources": [
@@ -9844,7 +9849,7 @@
     "id": "mm-000548",
     "type": "works",
     "sr": "Postoji i njegova nadaleko poznata dnevna knjiga, koja glasi ovako: Daj kuvaru deset mina, lekaru drahmu, laskavcu pet talenata, savetniku dim, bludnici talenat, a filozofu tri obola.",
-    "stsl": "Єсть же и дьньнаꙗ кънига єго многославьна · ꙗже имать сице · Даждь кѹхарю дєсѧть мінъ · врачю драхмѫ · ласкателю пѧть талантъ · совѣтьникѹ дꙑмъ · блѫдьници талантъ · мѫдролюбѹ три овола.",
+    "stsl": "Єсть же и дьньнаꙗ кънига єго многославьна · ꙗже имать сице · Даждь кѹхарю дєсѧть мінъ · врачю драхмѫ · ласкателю пѧть талантъ · совѣтьникѹ дꙑмъ · блѫдьници талантъ · любомѫдрьцю три овола.",
     "originalText": "ἔστι δὲ καὶ ἐφημερὶς αὐτοῦ πολυθρύλητος, ἥτις ἔχει οὕτως· τίθει μαγείρῳ μνᾶς δέκ', ἰατρῷ δραχμήν, κόλακι τάλαντα πέντε, συμβούλῳ καπνόν, πόρνῃ τάλαντον, φιλοσόφῳ τριώβολον.",
     "author": "Crates of Thebes",
     "sources": [
@@ -9876,7 +9881,7 @@
     "id": "mm-000550",
     "type": "reported",
     "sr": "Govorio je da mu od filozofije dopadoše merica boba i bezbrižnost.",
-    "stsl": "Глаголааше · ꙗко отъ мѫдролюбіꙗ придѣ емѹ мѣра бобъ и беспечалиѥ.",
+    "stsl": "Глаголааше · ꙗко отъ любомѫдриꙗ придѣ емѹ мѣра бобъ и беспечалиѥ.",
     "originalText": "καὶ ὅτι ἐκ φιλοσοφίας αὐτῷ περιγένοιτο θέρμων τε χοῖνιξ καὶ τὸ μηδενὸς μέλειν.",
     "author": "Crates of Thebes",
     "sources": [
@@ -9950,7 +9955,7 @@
     "type": "bio",
     "year": -520,
     "sr": "Prvi je upotrebio reč filozofija i sebe nazvao filozofom.",
-    "stsl": "Прьвъ мѫдролюбиє нарече и себе мѫдролюбомь ·",
+    "stsl": "Прьвъ любомѫдриѥ нарече и себе любомѫдрьцемь ·",
     "originalText": "Πρῶτος ὠνόμασε φιλοσοφίαν καὶ ἑαυτὸν φιλόσοφον.",
     "author": "Pythagoras",
     "sources": [
@@ -9982,7 +9987,7 @@
     "id": "mm-000556",
     "type": "reported",
     "sr": "Govorio je da treba filozofirati dokle se vojskovođe ne učine tek goničima magaraca.",
-    "stsl": "Глаголааше · ꙗко подобаєть мѫдролюбьствовати доньдєже воєводꙑ тъкъмо осьлогонителє възмьнѧть сѧ.",
+    "stsl": "Глаголааше · ꙗко подобаєть любомѫдриѥвати доньдєже воєводꙑ тъкъмо осьлогонителє възмьнѧть сѧ.",
     "originalText": "ἔλεγε δὲ μέχρι τούτου δεῖν φιλοσοφεῖν, μέχρι ἂν δόξωσιν οἱ στρατηγοὶ εἶναι ὀνηλάται.",
     "author": "Crates of Thebes",
     "sources": [
@@ -10015,7 +10020,7 @@
     "type": "anecdote",
     "year": -520,
     "sr": "Kada ga je Leont, tiranin Flijunta, upitao ko je, odgovorio je: mudroljub.",
-    "stsl": "Въпрошєнъ отъ Леонта · властелина Флиѹнтьска · къто єсть · отъвѣшта · мѫдролюбъ ·",
+    "stsl": "Въпрошєнъ отъ Леонта · властелина Флиѹнтьска · къто єсть · отъвѣшта · любомѫдрьць ·",
     "originalText": "ἐρωτηθέντα ὑπὸ Λέοντος τοῦ Φλιασίων τυράννου τίς εἴη, φιλόσοφος εἰπεῖν.",
     "author": "Pythagoras",
     "sources": [
@@ -10152,7 +10157,7 @@
     "type": "bio",
     "year": -520,
     "sr": "Filozof Timej piše da je Pitagorina kći predvodila hor devica i poučavala ih čednosti.",
-    "stsl": "Мѫдролюбъ Тимеи пишеть · ꙗко Пѷѳагорова дъштерь ликѹ дѣвиць прѣдстоꙗше и цѣломѫдрию ꙗ поѹчааше ·",
+    "stsl": "Любомѫдрьць Тимеи пишеть · ꙗко Пѷѳагорова дъштерь ликѹ дѣвиць прѣдстоꙗше и цѣломѫдрию ꙗ поѹчааше ·",
     "originalText": "Thimeus philosophus scribit Pythagorae filiam virginum choro praefuisse et castitatis eas instruxisse doctrinis.",
     "author": "Pythagoras",
     "sources": [
@@ -11393,7 +11398,8 @@
       }
     ],
     "tags": [
-      "τύχη"
+      "τύχη",
+      "φρόνησις"
     ]
   },
   {
@@ -15055,7 +15061,7 @@
     "id": "mm-000863",
     "type": "quote",
     "sr": "Kad me pitaju šta mi je dala filosofija: spremnost na svaku sudbinu.",
-    "stsl": "Въпрошєнѹ мѧ что ми мѫдролюбіє даде · къ вьсѧкои ѹчасти готъовъностъ ·",
+    "stsl": "Въпрошєнѹ мѧ что ми любомѫдриѥ даде · къ вьсѧкои ѹчасти готъовъностъ ·",
     "originalText": "Τοῦτο, εἰ μηδὲν ἄλλο, πρὸς πᾶσαν τύχην παρασκευασθῆναι.",
     "author": "Diogenes",
     "sources": [
@@ -15498,7 +15504,7 @@
     "id": "mm-000889",
     "type": "reported",
     "sr": "Kada mu neko prebaci progonstvo, Diogen reče: Pa upravo zbog toga, nesrećniče, i postah filosof.",
-    "stsl": "Єгда нѣкто изгнаніѥ ємѹ поношаше · Диогенъ рече · Того бо ради · окаꙗньне · мѫдролюбьствовати начѧхъ ·",
+    "stsl": "Єгда нѣкто изгнаніѥ ємѹ поношаше · Диогенъ рече · Того бо ради · окаꙗньне · любомѫдриѥвати начѧхъ ·",
     "author": "Diogenes",
     "originalText": "Πρός τε τὸν ὀνειδίσαντα αὐτῷ τὴν φυγήν, « Ἀλλὰ τούτου γ' ἕνεκεν, » εἶπεν, « ὦ κακόδαιμον, ἐφιλοσόφησα. »",
     "sources": [
@@ -16237,7 +16243,7 @@
     "id": "mm-000933",
     "type": "reported",
     "sr": "Upitan zašto ljudi daju prosjacima, a filozofima ne, Diogen odgovori: Jer očekuju da će jednom postati hromi ili slepi, ali da će ljubiti mudrost — nikada.",
-    "stsl": "Въпрошенъ почто людие ништиимъ даѭть · мѫдролюбомъ же не · Диогенъ отъвѣшта · Зане хроми или слѣпи нѣкогда быти чаѭть · мѫдрость же любити · никогдаже ·",
+    "stsl": "Въпрошенъ почто людие ништиимъ даѭть · любомѫдрьцемъ же не · Диогенъ отъвѣшта · Зане хроми или слѣпи нѣкогда быти чаѭть · мѫдрость же любити · никогдаже ·",
     "originalText": "Ἐρωτηθεὶς διὰ τί προσαίταις μὲν ἐπιδιδόασι, φιλοσόφοις δὲ οὔ, ἔφη, «Ὅτι χωλοὶ μὲν καὶ τυφλοὶ γενέσθαι ἐλπίζουσι, φιλοσοφῆσαι δ' οὐδέποτε.»",
     "author": "Diogenes",
     "sources": [
@@ -16356,7 +16362,7 @@
     "id": "mm-000940",
     "type": "reported",
     "sr": "Videvši lepog mladića kako se bavi filosofijom, Diogen reče: Dobro činiš što zaljubljene u tvoje telo vodiš ka lepoti duše.",
-    "stsl": "Видѣвъ красна юношѫ мѫдролюбьствѹѭшта · Диогенъ рече · Добро твориши · любѧштиѩ тѣло твоє къ красотѣ дѹшы приводѧ ·",
+    "stsl": "Видѣвъ красна юношѫ любомѫдрьствѹѭшта · Диогенъ рече · Добро твориши · любѧштиѩ тѣло твоє къ красотѣ дѹшы приводѧ ·",
     "originalText": "Θεασάμενός ποτε μειράκιον φιλοσοφοῦν, «Εὖγε,» εἶπεν, «ὅτι τοὺς τοῦ σώματος ἐραστὰς ἐπὶ τὸ τῆς ψυχῆς κάλλος μετάγεις.»",
     "author": "Diogenes",
     "sources": [
@@ -16487,7 +16493,7 @@
     "id": "mm-000948",
     "type": "reported",
     "sr": "Kada mu neko reče: Ništa ne znaš, a filosofiraš, Diogen odgovori: Ako se i pravim mudar, i to je filosofiranje.",
-    "stsl": "Єгда ємѹ нѣкто рече · Ничесоже вѣдꙑ мѫдролюбьствѹєши · Диогенъ отъвѣшта · Аще и мѫдра сѧ творѭ · и се мѫдролюбьствованиѥ єсть ·",
+    "stsl": "Єгда ємѹ нѣкто рече · Ничесоже вѣдꙑ любомѫдрьствѹєши · Диогенъ отъвѣшта · Аще и мѫдра сѧ творѭ · и се любомѫдриѥваниѥ єсть ·",
     "originalText": "Πρὸς τὸν εἰπόντα, «Οὐδὲν εἰδὼς φιλοσοφεῖς,» ἔφη, «εἰ καὶ προσποιοῦμαι σοφίαν, καὶ τοῦτο φιλοσοφεῖν ἐστι.»",
     "author": "Diogenes",
     "sources": [
@@ -16558,7 +16564,7 @@
     "id": "mm-000952",
     "type": "reported",
     "sr": "Kada mu neko reče: Nisam ja filosofiju, Diogen odgovori: Zašto onda živiš, ako ti nije stalo da dobro živiš?",
-    "stsl": "Єгда ємѹ нѣкто рече · Къ мѫдролюбіѭ непригодьнъ єсмь · Диогенъ отъвѣшта · Почто ѹбо живеши · аще ти до добра житиꙗ не єсть ·",
+    "stsl": "Єгда ємѹ нѣкто рече · Къ любомѫдрию непригодьнъ єсмь · Диогенъ отъвѣшта · Почто ѹбо живеши · аще ти до добра житиꙗ не єсть ·",
     "originalText": "Πρὸς τὸν εἰπόντα, «Ἀνεπιτήδειός εἰμι πρὸς φιλοσοφίαν,» «Τί οὖν,» ἔφη, «ζῇς, εἰ τοῦ καλῶς ζῆν μὴ μέλει σοι;»",
     "author": "Diogenes",
     "sources": [
@@ -16796,7 +16802,7 @@
     "type": "bio",
     "year": -456,
     "sr": "Prema Demetriju Falerskom, započeo je filozofiranje u Atini pod arhontom Kalijem, u dvadesetoj godini života, i tamo proveo trideset godina.",
-    "stsl": "По Деметріи Фалерскомь · начѧтъ мѫдролюбьствовати въ Атинахъ при архонтѣ Калліи · въ двадесѧтомь лѣтѣ житіꙗ · и тамо тридесѧть лѣтъ прѣбыстъ ·",
+    "stsl": "По Деметріи Фалерскомь · начѧтъ любомѫдриѥвати въ Атинахъ при архонтѣ Калліи · въ двадесѧтомь лѣтѣ житіꙗ · и тамо тридесѧть лѣтъ прѣбыстъ ·",
     "originalText": "Ἤρξατο δὲ φιλοσοφεῖν Ἀθήνησιν ἐπὶ Καλλίου, ἐτῶν εἴκοσιν ὤν, ὥς φησί Δημήτριος ὁ Φαληρεὺς ἐν τῇ τῶν Ἀρχόντων ἀναγραφῇ, ἔνθα καί φασιν αὐτὸν ἐτῶν διατρῖψαι τριάκοντα.",
     "author": "Anaxagoras",
     "sources": [
@@ -17535,7 +17541,10 @@
         "reference": "B.110"
       }
     ],
-    "originalText": "πάντα γὰρ ἴσθι φρόνησιν ἔχειν καὶ νώματος αἶσαν."
+    "originalText": "πάντα γὰρ ἴσθι φρόνησιν ἔχειν καὶ νώματος αἶσαν.",
+    "tags": [
+      "φρόνησις"
+    ]
   },
   {
     "_id": 1025,
@@ -19206,7 +19215,7 @@
     "id": "mm-001116",
     "type": "works",
     "sr": "Blaženi provodimo i zajedno poslednji dan života pisali smo vam ovo. Pratila su me obolenja mokraćnih kanala i crevna, ništa ne ostavljivajući od veličine u sebi. Ali svemu tome se suprotstavljalo duševno radovanje pri uspomeni razgovora što su nam bili. Ti pak, dostojno stava koji si od mladića imao prema meni i filozofiji, brini se za decu Metrodorovu.",
-    "stsl": "Вльжєни проводимо і ꙁаєдно послѣдьніи дьнь житіꙗ пісаахомъ вамъ сє · Прачаахѫ мꙗ оболѣніꙗ мокрачьнꙑхъ каналъ і чрѣвьна · ничтоже нє оставлꙗѭща отъ вєличинꙑ въ сєбѣ · Нъ всємѹ томѹ сѧ супротъивлꙗашє дѹшєвьно радованіє прі ѹспомєни раꙁговоръ іжє бꙑшѧ намъ · Тꙑ жє · достоино стоꙗніꙗ єжє імꙗашє отъ младєньца къ мьнѣ і къ мѫдролюбіѭ · пєчалісѧ о чєдѣхъ Мєтродоровꙑхъ.",
+    "stsl": "Вльжєни проводимо і ꙁаєдно послѣдьніи дьнь житіꙗ пісаахомъ вамъ сє · Прачаахѫ мꙗ оболѣніꙗ мокрачьнꙑхъ каналъ і чрѣвьна · ничтоже нє оставлꙗѭща отъ вєличинꙑ въ сєбѣ · Нъ всємѹ томѹ сѧ супротъивлꙗашє дѹшєвьно радованіє прі ѹспомєни раꙁговоръ іжє бꙑшѧ намъ · Тꙑ жє · достоино стоꙗніꙗ єжє імꙗашє отъ младєньца къ мьнѣ і къ любомѫдрию · пєчалісѧ о чєдѣхъ Мєтродоровꙑхъ.",
     "originalText": "Τὴν μακαρίαν ἄγοντες καὶ ἅμα τελευταίαν ἡμέραν τοῦ βίου ἐγράφομεν ὑμῖν ταυτί. στραγγουρικά τε παρηκολούθει καὶ δυσεντερικὰ πάθη ὑπερβολὴν οὐκ ἀπολείποντα τοῦ ἐν ἑαυτοῖς μεγέθους. ἀντιπαρετάττετο δὲ πᾶσι τούτοις τὸ κατὰ ψυχὴν χαῖρον ἐπὶ τῇ τῶν γεγονότων ἡμῖν διαλογισμῶν μνήμῃ. σὺ δ' ἀξίως τῆς ἐκ μειρακίου παραστάσεως πρὸς ἐμὲ καὶ φιλοσοφίαν ἐπιμελοῦ τῶν παίδων Μητροδώρου.",
     "author": "Epicurus",
     "sources": [
@@ -19341,7 +19350,7 @@
     "id": "mm-001126",
     "type": "reported",
     "sr": "Od starih filozofa najviše je cenio Anaksagoru, premda mu se ponegde protivio, i Arhelaja, Sokratovog učitelja. Učenike je vežbao da njegove spise znaju napamet.",
-    "stsl": "Отъ дрѣвьниихъ мѫдролюбъ паче вьсѣхъ Анаксагора чьтѧаше · аште ємѹ нѣгдѣ противлѧаше сѧ · и Архелаѩ · Сократова ѹчителѩ · Ѹченикы же въжбааше · да списаниѩ єго на памѧть вѣдѧть ·",
+    "stsl": "Отъ дрѣвьниихъ любомѫдрьць паче вьсѣхъ Анаксагора чьтѧаше · аште ємѹ нѣгдѣ противлѧаше сѧ · и Архелаѩ · Сократова ѹчителѩ · Ѹченикы же въжбааше · да списаниѩ єго на памѧть вѣдѧть ·",
     "originalText": "Μάλιστα δ' ἀπεδέχετο ... τῶν ἀρχαίων Ἀναξαγόραν, καίτοι ἔν τισιν ἀντειρηκὼς αὐτῷ, καὶ Ἀρχέλαον τὸν Σωκράτους διδάσκαλον. ἐγύμναζε δέ ... τοὺς γνωρίμους καὶ διὰ μνήμης ἔχειν τὰ ἑαυτοῦ συγγράμματα.",
     "author": "Epicurus",
     "sources": [
@@ -19978,6 +19987,7 @@
     "tags": [
       "θεός",
       "νοῦς",
+      "φρόνησις",
       "ἀγαθόν"
     ]
   },
@@ -21294,7 +21304,7 @@
     "id": "mm-001738",
     "type": "anecdote",
     "sr": "Fedon je kao ratni zarobljenik bio primoran na ponižavajuće ropstvo. Sokrat je nagovorio Kritona da ga otkupi i tako ga pridobio za filozofiju.",
-    "stsl": "Федонъ ꙗко браньныи плѣньникъ на понижаѭште рабьство принѫжденъ бысть · Сократъ Критона ѹвѣшта · да єго искѹпить · и тако къ мѫдролюбию єго приведе ·",
+    "stsl": "Федонъ ꙗко браньныи плѣньникъ на понижаѭште рабьство принѫжденъ бысть · Сократъ Критона ѹвѣшта · да єго искѹпить · и тако къ любомѫдрию єго приведе ·",
     "author": "Socrates",
     "year": -405,
     "originalText": "Φαίδωνα δὲ δι' αἰχμαλωσίαν ἐπ' οἰκήματος καθήμενον προσέταξε Κρίτωνι λυτρώσασθαι, καὶ φιλόσοφον ἀπειργάσατο.",
@@ -21310,7 +21320,7 @@
     "_id": 1243,
     "id": "mm-001222",
     "type": "mention",
-    "stsl": "Платѡнъ смѣси Хераклитова · Пѵѳагорова и Сѡкратова словеса · Чѹвьствьнаꙗ бо по Хераклитѹ · поѩтаꙗ по Пѵѳагорѹ · гражданьскаꙗ же по Сѡкратѹ мѫдролюбьствоваше ·",
+    "stsl": "Платѡнъ смѣси Хераклитова · Пѵѳагорова и Сѡкратова словеса · Чѹвьствьнаꙗ бо по Хераклитѹ · поѩтаꙗ по Пѵѳагорѹ · гражданьскаꙗ же по Сѡкратѹ любомѫдриѥваше ·",
     "sr": "Platon pomeša Heraklitova, Pitagorina i Sokratova slova: čulno je razmatrao po Heraklitu, pomljivo po Pitagori, a građansko po Sokratu.",
     "originalText": "Μίξιν τε ἐποιήσατο τῶν τε Ἡρακλειτείων λόγων καὶ Πυθαγορικῶν καὶ Σωκρατικῶν· τὰ μὲν γὰρ αἰσθητὰ καθ' Ἡράκλειτον, τὰ δὲ νοητὰ κατὰ Πυθαγόραν, τὰ δὲ πολιτικὰ κατὰ Σωκράτην ἐφιλοσόφει.",
     "author": [
@@ -21364,7 +21374,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:499#τουτέστι",
     "tags": [
-      "λόγος"
+      "λόγος",
+      "φρόνησις"
     ]
   },
   {
@@ -23319,7 +23330,7 @@
         "reference": "III.6–7"
       }
     ],
-    "stsl": "По Сѡкратовѣ отъходѣ Кратилѹ Хераклитовѹ и Хермогенѹ · Парменидова мѫдролюбьствѹѭштѹ · прилѣже · Таже въ Мегары къ Еѵклидѹ съ инѣми Сѡкратици отъиде · потомъ въ Киринѫ къ Теодорѹ землемѣрьцѹ · отътѫдѹ въ Италиѭ къ Пѵтагорѣискыма Филолаѹ и Еѵритѹ · потомъ въ Егѵпетъ къ пророкомъ · Тамо · глаголѭть · разболѣ сѧ · жрьци же морьскымъ лѣкованиємъ исцѣлишѧ и · тѣмь рече · Море вьсѧ чловѣчьска зъла омываєть ·",
+    "stsl": "По Сѡкратовѣ отъходѣ Кратилѹ Хераклитовѹ и Хермогенѹ · Парменидова любомѫдрьствѹѭштѹ · прилѣже · Таже въ Мегары къ Еѵклидѹ съ инѣми Сѡкратици отъиде · потомъ въ Киринѫ къ Теодорѹ землемѣрьцѹ · отътѫдѹ въ Италиѭ къ Пѵтагорѣискыма Филолаѹ и Еѵритѹ · потомъ въ Егѵпетъ къ пророкомъ · Тамо · глаголѭть · разболѣ сѧ · жрьци же морьскымъ лѣкованиємъ исцѣлишѧ и · тѣмь рече · Море вьсѧ чловѣчьска зъла омываєть ·",
     "sr": "Posle Sokratove smrti priklonio se Heraklitovcu Kratilu i Hermogenu, koji je filozofirao prema Parmenidu. Zatim je sa drugim sokratovcima otišao Eukleidu u Megaru, potom matematičaru Teodoru u Kirenu, pitagorejcima Filolaju i Euritu u Italiju i prorocima u Egipat. Ondе se, kažu, razboleo, a sveštenici su ga izlečili morskom terapijom, pa reče: More ispira sva ljudska zla.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.6-7"
   },
@@ -23833,7 +23844,7 @@
     "type": "bio",
     "year": -399,
     "sr": "Posle Sokratove smrti Platon i ostali filozofi skloniše se kod Euklida u Megaru, bojeći se surovosti vlastodržaca.",
-    "stsl": "По Сѡкратовѣ смрьти Платѡнъ и прочии мѫдролюби къ Еѹклидѹ въ Мегарѫ прибѣгошѧ · властель жестокости боꙗште сѧ ·",
+    "stsl": "По Сѡкратовѣ смрьти Платѡнъ и прочии любомѫдрьци къ Еѹклидѹ въ Мегарѫ прибѣгошѧ · властель жестокости боꙗште сѧ ·",
     "originalText": "πρὸς τοῦτόν φησιν ὁ Ἑρμόδωρος ἀφικέσθαι Πλάτωνα καὶ τοὺς λοιποὺς φιλοσόφους μετὰ τὴν τοῦ Σωκράτους τελευτήν, δείσαντας τὴν ὠμότητα τῶν τυράννων.",
     "author": [
       "Euclid of Megara",
@@ -24629,7 +24640,7 @@
     "id": "mm-900031",
     "type": "quote",
     "sr": "Kada filozof podstiče, opominje, savetuje, kori ili izlaže nešto iz učenja, pa slušaoci iz svega glasa rasipaju obične pohvale, viču, likuju i uzbuđuju se ukrasima njegova glasa, skladom reči i nekakvim dražima govora, tada znaj da su i govornik i slušaoci uzaludni: on ne govori kao filozof, nego svira kao frulaš.",
-    "stsl": "Єгда мѫдролюбъ пооштраєть · наказѹєть · съвѣтѹєть · ѹкараєть или что отъ ѹчениꙗ бесѣдѹєть · слѹшаѭштеи же отъ вьсего гръдьнаго гласа обꙑчьнꙑ хвалы расточаѭть · въпиѭть · ликѹѭть и красотоѭ гласа · строемь словесъ и нѣкоими сластьми рѣчи движѫть сѧ · тъгда вѣжь · ꙗко и глаголѭшти и слѹшаѭштеи вьсѹє сѫть · онъ бо не ꙗко мѫдролюбъ глаголєть · нъ ꙗко свирьць свирѣєть ·",
+    "stsl": "Єгда любомѫдрьць пооштраєть · наказѹєть · съвѣтѹєть · ѹкараєть или что отъ ѹчениꙗ бесѣдѹєть · слѹшаѭштеи же отъ вьсего гръдьнаго гласа обꙑчьнꙑ хвалы расточаѭть · въпиѭть · ликѹѭть и красотоѭ гласа · строемь словесъ и нѣкоими сластьми рѣчи движѫть сѧ · тъгда вѣжь · ꙗко и глаголѭшти и слѹшаѭштеи вьсѹє сѫть · онъ бо не ꙗко любомѫдрьць глаголєть · нъ ꙗко свирьць свирѣєть ·",
     "originalText": "Cum philosophus hortatur, monet, suadet, obiurgat aliudve quid disciplinarum disserit, tum, qui audiunt, si de summo et soluto pectore obvias vulgatasque laudes effutiunt, si clamitant etiam, si gestiunt, si vocum eius festivitatibus, si modulis verborum, si quibusdam quasi fritamentis orationis moventur, exagitantur et gestiunt, tum scias et qui dicit et qui audiunt frustra esse neque illum philosophum loqui, sed tibicinem canere.",
     "author": "Musonius Rufus",
     "sources": [
@@ -24644,7 +24655,7 @@
     "id": "mm-900032",
     "type": "quote",
     "sr": "Duša onoga ko sluša filozofa, dok su reči korisne i spasonosne i donose lekove protiv zabluda i poroka, nema dokolice ni vremena za obilno i neumereno hvaljenje. Ko god sluša, osim ako nije sasvim propao, mora se tokom samog filozofovog govora čas užasnuti, čas ćutke postideti, pokajati se, obradovati i zadiviti; tako mu se lice i osećanja menjaju prema tome kako filozofovo razmatranje dotiče zdrave ili bolesne delove njegove duše i savesti.",
-    "stsl": "Дѹша слѹшаѭштаго мѫдролюба · дондеже словеса польꙁьна и съдравьна сѫть и лѣкъства отъ прѣльсти и порокъ приносѧть · ни покоꙗ ни врѣмене къ обильнѣи и беꙁмѣрьнѣи хвалѣ имать · Вьсѧкъ бо слѹшаѭшти · аще не до конца погыблъ єсть · въ самои мѫдролюбовѣ бесѣдѣ овогда ѹжаснѫти сѧ · овогда млъча постꙑдѣти сѧ · раскаꙗти сѧ · въꙁвеселити сѧ и почѹдити сѧ подобаєть · тако лице и чѹвьства мѣнꙗꙗ · ꙗкоже мѫдролюбово испытаніє съдравꙑхъ или недѫжьнꙑхъ страны дѹшѧ и съвѣсти єго коснеть сѧ ·",
+    "stsl": "Дѹша слѹшаѭштаго любомѫдрьца · дондеже словеса польꙁьна и съдравьна сѫть и лѣкъства отъ прѣльсти и порокъ приносѧть · ни покоꙗ ни врѣмене къ обильнѣи и беꙁмѣрьнѣи хвалѣ имать · Вьсѧкъ бо слѹшаѭшти · аще не до конца погыблъ єсть · въ самои бесѣдѣ любомѫдрьца овогда ѹжаснѫти сѧ · овогда млъча постꙑдѣти сѧ · раскаꙗти сѧ · въꙁвеселити сѧ и почѹдити сѧ подобаєть · тако лице и чѹвьства мѣнꙗꙗ · ꙗкоже испытаніє любомѫдрьца съдравꙑхъ или недѫжьнꙑхъ страны дѹшѧ и съвѣсти єго коснеть сѧ ·",
     "originalText": "Animus audientis philosophum, dum quae dicuntur utilia ac salubria sunt et errorum atque vitiorum medicinas ferunt, laxamentum atque otium prolixe profuseque laudandi non habet. Quisquis ille est qui audit, nisi ille est plane deperditus, inter ipsam philosophi orationem et perhorrescat necesse est et pudeat tacitus et paeniteat et gaudeat et admiretur, varios adeo vultus disparilesque sensus gerat, proinde ut eum conscientiamque eius adfecerit utrarumque animi partium aut sincerarum aut aegrarum philosophi pertractatio.",
     "author": "Musonius Rufus",
     "sources": [
@@ -24674,7 +24685,7 @@
     "id": "mm-000244",
     "type": "anecdote",
     "sr": "Antisten je podstakao Diogenovu ravnodušnost, Kratetovu uzdržanost i Zenonovu izdržljivost i tako položio temelje njihove filozofske zajednice. Teopomp je od svih Sokratovaca hvalio samo njega, tvrdeći da prijatnim razgovorom može pridobiti svakoga.",
-    "stsl": "Антисѳенъ Диогеново небреженіє · Кратетово въздръжаніє и Зеноново тръпѣніє възбѹди и тако основаніє ихъ мѫдролюбьнаго обьштества положи · Теопомпъ отъ вьсѣхъ Сократовьцевъ тъкмо єго хвалѧаше · твьрдѧ · ꙗко приѧтьною бесѣдою вьсѧкаго придобѹдетъ ·",
+    "stsl": "Антисѳенъ Диогеново небреженіє · Кратетово въздръжаніє и Зеноново тръпѣніє възбѹди и тако основаніє ихъ любомѫдрьнаго обьштества положи · Теопомпъ отъ вьсѣхъ Сократовьцевъ тъкмо єго хвалѧаше · твьрдѧ · ꙗко приѧтьною бесѣдою вьсѧкаго придобѹдетъ ·",
     "author": "Antisthenes",
     "year": -384,
     "originalText": "Οὗτος ἀπηλγηκυίας μὲν Διογένη πεποίηκεν, ἐγκρατῆ δὲ Κράτητα, καρτερικὸν δὲ Ζήνωνα. Τοῦτον μόνον ἐκ πάντων Σωκρατικῶν Θεόπομπος ἐπαινεῖ καί φησι δεινόν τ' εἶναι καὶ δι' ὁμιλίας ἐμμελοῦς ὑπαγαγέσθαι πάνθ' ὁντινοῦν.",
@@ -26595,7 +26606,7 @@
       }
     ],
     "sr": "Mudrost je znanje božanskog i ljudskog, a mudroljublje težnja ka mudrosti.",
-    "stsl": "Мѫдрость єсть знаниѥ божьскыхъ и чловѣчьскыхъ · мѫдролюбіє же жаданиѥ мѫдрости ·",
+    "stsl": "Мѫдрость єсть знаниѥ божьскыхъ и чловѣчьскыхъ · любомѫдриѥ же жаданиѥ мѫдрости ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.63",
     "tags": [
       "σοφία",
@@ -26947,6 +26958,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.80",
     "tags": [
       "εὐδαιμονία",
+      "φρόνησις",
       "ψυχή",
       "ἀγαθόν"
     ]
@@ -27451,7 +27463,7 @@
     "id": "mm-900046",
     "type": "mention",
     "sr": "Merkurije o njemu ovako kaže: Plotin je jedinstven filozof; njegovo je učenje pratilo njegov život, pa ono što je učio nije pokazivao tuđim, nego sopstvenim primerom. Taj čovek beše ukrašen svakim ukrasom vrline i učvršćen nastojanjem za svim božanskim raspoloženjima: pravedan, razborit, hrabar i umeren.",
-    "stsl": "Меркурии о немь сице глаголеть · Плѡтинъ особьныи мѫдролюбъ · ѹченіє бо єго животѹ єго слѣдоваше · тѣмь єже ѹчаше не чюждимъ · нъ своимъ образомъ показѹѧ · Мѫжь бо сеи вьсѧкимь добродѣтели ѹкрасомъ ѹкрашенъ бѣ · и подвигомъ вьсѣхъ божьствьныхъ расположении ѹтврьжденъ · правьдьнъ · разборьнъ · храбръ и мѣрьнъ ·",
+    "stsl": "Меркурии о немь сице глаголеть · Плѡтинъ особьныи любомѫдрьць · ѹченіє бо єго животѹ єго слѣдоваше · тѣмь єже ѹчаше не чюждимъ · нъ своимъ образомъ показѹѧ · Мѫжь бо сеи вьсѧкимь добродѣтели ѹкрасомъ ѹкрашенъ бѣ · и подвигомъ вьсѣхъ божьствьныхъ расположении ѹтврьжденъ · правьдьнъ · разборьнъ · храбръ и мѣрьнъ ·",
     "originalText": "Plotinus philosophus singularis, quæ philosophie non attingit partes dum eius doctrina vite senquetur insignia cum illud quod docebat non alleno, sed proprio ostenderet exemplo! Fuit namque vir iste ad omnia virtutis ornamenta compositus omniamque divinarum disposicionum stadio firmatus, iustus, providus, fortis, temperatus.",
     "author": "Plotinus",
     "sources": [
@@ -28051,7 +28063,7 @@
     "id": "mm-001528",
     "type": "reported",
     "sr": "Iz tog iskustva, čini se, proistekao je njegov uzvišen način filozofiranja: uveo je nesaznatljivost i uzdržavanje od suda.",
-    "stsl": "Отъ сего искѹса · ꙗкоже видитъ сѧ · възвышенъ образъ мѫдролюбия єго произиде · несъзнатьливость и въздрьжание отъ сѫда въведе ·",
+    "stsl": "Отъ сего искѹса · ꙗкоже видитъ сѧ · възвышенъ образъ любомѫдриꙗ єго произиде · несъзнатьливость и въздрьжание отъ сѫда въведе ·",
     "originalText": "ὅθεν γενναιότατα δοκεῖ φιλοσοφῆσαι, τὸ τῆς ἀκαταληψίας καὶ ἐποχῆς εἶδος εἰσαγαγών.",
     "author": "Pyrrho",
     "sources": [
@@ -29553,6 +29565,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.25",
     "tags": [
+      "μονάς",
       "πῦρ",
       "στοιχεῖον",
       "σχῆμα",
@@ -29927,7 +29940,7 @@
     "id": "mm-001632",
     "type": "reported",
     "sr": "Pitagora je javno filozofiranje smatrao nedostojnim i naložio da se spisi ne predaju nikome izvan kuće.",
-    "stsl": "Пѷѳагоръ всенародьно мѫдролюбьствовати недостоино мьнѣаше · писаниꙗ же никомѹ внѣ домѹ не прѣдавати повелѣ ·",
+    "stsl": "Пѷѳагоръ всенародьно любомѫдриѥвати недостоино мьнѣаше · писаниꙗ же никомѹ внѣ домѹ не прѣдавати повелѣ ·",
     "originalText": "τὺ καὶ δαμοσίᾳ φιλοσοφέν, ὅπερ ἀπαξίωσε Πυθαγόρας· μηδενὶ τῶν ἐκτὸς τᾶς οἰκίας παραδιδόμεν.",
     "author": "Pythagoras",
     "sources": [
@@ -29959,7 +29972,7 @@
     "id": "mm-001634",
     "type": "mention",
     "sr": "Nastale su dve grane filozofije: jonska od Anaksimandra i italska od Pitagore, koji je najvećim delom filozofirao u Italiji.",
-    "stsl": "Двѣ вѣтви мѫдролюбиꙗ бꙑстѣ · іонскаꙗ отъ Анаксимандра · италскаꙗ отъ Пѷѳагорꙑ иже въ Италіи мѫдролюбьствова ·",
+    "stsl": "Двѣ вѣтви любомѫдриꙗ бꙑстѣ · іонскаꙗ отъ Анаксимандра · италскаꙗ отъ Пѷѳагорꙑ иже въ Италіи любомѫдриѥва ·",
     "originalText": "Φιλοσοφίας δὲ δύο γεγόνασιν ἀρχαί, ἥ τε ἀπὸ Ἀναξιμάνδρου καὶ ἡ ἀπὸ Πυθαγόρου· ἡ δὲ Ἰταλικὴ ἀπὸ Πυθαγόρου, ὅτι τὰ πλεῖστα κατὰ τὴν Ἰταλίαν ἐφιλοσόφησεν.",
     "author": [
       "Anaximander",
@@ -30021,7 +30034,7 @@
     "type": "bio",
     "year": -340,
     "sr": "Antisten u Nasleđima kaže da se, videvši u nekoj tragediji Telefa s kotaricom i inače bedno odevenog, naglo okrenuo kiničkoj filozofiji. Unovčio je imanje — jer beše među uglednima — sakupio oko dvesta talenata i razdelio ih građanima.",
-    "stsl": "Антісѳенъ въ Прѣємьствихъ глаголєть · ꙗко видѣвъ въ нѣкоєи трагедіи Телєфа · кошьницѫ имѫща и прочєє ѹбого одѣна · ѹстреми сѧ къ кѵничьскомѹ мѫдролюбіѭ · имѣніє своє на срєбро промѣни · бѣ бо отъ нарочитꙑихъ · и събравъ ꙗко двѣстѣ талантъ · гражданомъ ꙗ раздѣли.",
+    "stsl": "Антісѳенъ въ Прѣємьствихъ глаголєть · ꙗко видѣвъ въ нѣкоєи трагедіи Телєфа · кошьницѫ имѫща и прочєє ѹбого одѣна · ѹстреми сѧ къ кѵничьскомѹ любомѫдрию · имѣніє своє на срєбро промѣни · бѣ бо отъ нарочитꙑихъ · и събравъ ꙗко двѣстѣ талантъ · гражданомъ ꙗ раздѣли.",
     "originalText": "Τοῦτόν φησιν Ἀντισθένης ἐν ταῖς Διαδοχαῖς θεασάμενον ἔν τινι τραγῳδίᾳ Τήλεφον σπυρίδιον ἔχοντα καὶ τἄλλα λυπρὸν ᾆξαι ἐπὶ τὴν κυνικὴν φιλοσοφίαν· ἐξαργυρισάμενόν τε τὴν οὐσίαν-καὶ γὰρ ἦν τῶν ἐπιφανῶν-ἀθροίσαντα πρὸς τὰ [ἑκατὸν] διακόσια τάλαντα, τοῖς πολίταις ἀνεῖναι ταῦτα.",
     "author": "Crates of Thebes",
     "sources": [
@@ -30387,7 +30400,7 @@
     "id": "mm-000363",
     "type": "bio",
     "sr": "Kada se vratio i video da Akademijom upravlja Ksenokrat, Aristotel izabra šetalište u Likeju i, hodajući s učenicima, s njima filozofiraše; otuda bi nazvan peripatetikom.",
-    "stsl": "Єгда възвративъ сѧ видѣ · ꙗко Академиѥѭ Ксенократъ владѣєть · Аристотель въ Лѵкеи ходилище избра · и съ ѹченики ходѧ мѫдролюбьствоваше · отътѫдѹ перипатетикъ нареченъ бꙑсть ·",
+    "stsl": "Єгда възвративъ сѧ видѣ · ꙗко Академиѥѭ Ксенократъ владѣєть · Аристотель въ Лѵкеи ходилище избра · и съ ѹченики ходѧ любомѫдриѥваше · отътѫдѹ перипатетикъ нареченъ бꙑсть ·",
     "author": "Aristotle",
     "year": -335,
     "originalText": "φησὶ δʼ Ἕρμιππος ἐν τοῖς Βίοις ὅτι πρεσβεύοντος αὐτοῦ πρὸς Φίλιππον ὑπὲρ Ἀθηναίων σχολάρχης ἐγένετο τῆς ἐν Ἀκαδημείᾳ σχολῆς Ξενοκράτης· ἐλθόντα δὴ αὐτὸν καὶ θεασάμενον ὑπʼ ἄλλῳ τὴν σχολήν, ἑλέσθαι περίπατον τὸν ἐν Λυκείῳ καὶ μέχρι μὲν ἀλείμματος ἀνακάμπτοντα τοῖς μαθηταῖς συμφιλοσοφεῖν· ὅθεν περιπατητικὸν προσαγορευθῆναι.",
@@ -30405,7 +30418,7 @@
     "type": "bio",
     "year": -335,
     "sr": "Toliko se istrajno bavio filozofijom da ga je pominjao i komediograf Filemon, koji kaže: I leti je nosio kosmat ogrtač, da bi se obuzdavao, a zimi dronjak.",
-    "stsl": "Толико тръпѣливѣ мѫдролюбьствовашє · ꙗко и смѣхотворьць Філємонъ помѧнѫ и · глаголѧ · И въ лѣто носꙗашє косматѫ ризѫ · да въздръжить сѧ · въ зимѫ же рубъ.",
+    "stsl": "Толико тръпѣливѣ любомѫдриѥвашє · ꙗко и смѣхотворьць Філємонъ помѧнѫ и · глаголѧ · И въ лѣто носꙗашє косматѫ ризѫ · да въздръжить сѧ · въ зимѫ же рубъ.",
     "originalText": "Αὐτὸν δὲ καρτερῶς οὕτω φιλοσοφεῖν ὡς καὶ Φιλήμονα τὸν κωμικὸν αὐτοῦ μεμνῆσθαι. Φησὶ γοῦν· Καὶ τοῦ θέρους μὲν εἶχεν ἱμάτιον δασύ, ἵν' ἐγκρατὴς ᾖ, τοῦ δὲ χειμῶνος ῥάκος.",
     "author": "Crates of Thebes",
     "sources": [
@@ -30828,7 +30841,7 @@
     "type": "anecdote",
     "year": -330,
     "sr": "Demetrije iz Magnezije kaže da je novac poverio nekom menjaču, pogodivši se s njim da ga vrati njegovoj deci ako postanu obični ljudi, a ako postanu filozofi, da ga razdeli narodu; jer im, budu li se bavila filozofijom, ništa neće trebati.",
-    "stsl": "Димитріи Магнисїискꙑи глаголєть · ꙗко срєбро нѣкоємѹ мѣньникѹ прѣдасть · съложивъ сѧ съ нимь · ащє чѧда єго простьци бѫдѫть · имъ въздати · ащє ли мѫдролюби · людьмъ раздѣлити · ничьтоже бо имъ трѣбѣ бѫдєть · мѫдролюбьствѹѭщємъ.",
+    "stsl": "Димитріи Магнисїискꙑи глаголєть · ꙗко срєбро нѣкоємѹ мѣньникѹ прѣдасть · съложивъ сѧ съ нимь · ащє чѧда єго простьци бѫдѫть · имъ въздати · ащє ли любомѫдрьци · людьмъ раздѣлити · ничьтоже бо имъ трѣбѣ бѫдєть · любомѫдрьствѹѭщємъ.",
     "originalText": "Φησὶ δὲ Δημήτριος ὁ Μάγνης τραπεζίτῃ τινὶ παρακαταθέσθαι τἀργύριον, συνθέμενον, εἰ μὲν οἱ παῖδες ἰδιῶται γενηθεῖεν, αὐτοῖς ἀποδοῦναι· εἰ δὲ φιλόσοφοι, τῷ δήμῳ διανεῖμαι· μηδενὸς γὰρ ἐκείνους δεήσεσθαι φιλοσοφοῦντας.",
     "author": "Crates of Thebes",
     "sources": [
@@ -30844,7 +30857,7 @@
     "id": "mm-900062",
     "type": "reported",
     "sr": "Najbolji među ljudima, poput gledalaca na svečanosti koji ne traže ni slavu ni dobit, bdijući proučavaju prirodu stvari; njih je nazvao filozofima, ljubiteljima mudrosti.",
-    "stsl": "Лѹчьшии междѹ чловѣкы · ꙗкоже зрителє на съборѣ · ни славꙑ ни прибꙑтка не ищѫште · бдѧште єстьство вештии испꙑтѹѭть · сихъ мѫдролюбы · сирѣчь любителѥ мѫдрости · нарече ·",
+    "stsl": "Лѹчьшии междѹ чловѣкы · ꙗкоже зрителє на съборѣ · ни славꙑ ни прибꙑтка не ищѫште · бдѧште єстьство вештии испꙑтѹѭть · сихъ любомѫдрьцѧ · сирѣчь любителѥ мѫдрости · нарече ·",
     "originalText": "Alii qui nec plaudunt nec lucrum quaerunt, sed ut studiosi perspiciant quid agatur; eo modo in hac vita homines quidam ex aliis vitae naturae profecti ad gloriam vel lucri studium occupantur aut, ceteris omnibus pro nichilo reputatis, rerum naturas studiosi intueri pervigilant; hos ultimos philosophos, id est amatores sapientiae, nominamus.",
     "author": "Pythagoras",
     "sources": [
@@ -31159,7 +31172,7 @@
     "type": "anecdote",
     "year": -327,
     "sr": "Dotakao se filozofije sam rekavši da je imao četrnaest godina. Apoliodor Epikurejac u prvoj knjizi o Epikurovom životu kaže da je došao do filozofije osudivši gramatičare jer nisu mogli da mu objasne ono o haosu kod Hesioda.",
-    "stsl": "Прікоснѹ сѧ мѫдролюбіꙗ самъ рєкъ ꙗко імꙗашє чєтꙑринадєсѧть лѣтъ · Аполліодоръ Епікѹрєацъ въ пръвѣи книꙁѣ о житіи Епікѹровѣ глаголєть ꙗко пріідє до мѫдролюбіꙗ осѹдивъ пісмовъꙁдѣлатєлꙗ ꙗко нє можахѫ ємѹ іꙁъꙗснити оно о хаосѣ ѹ Хесіода.",
+    "stsl": "Прікоснѹ сѧ любомѫдриꙗ самъ рєкъ ꙗко імꙗашє чєтꙑринадєсѧть лѣтъ · Аполліодоръ Епікѹрєацъ въ пръвѣи книꙁѣ о житіи Епікѹровѣ глаголєть ꙗко пріідє до любомѫдриꙗ осѹдивъ пісмовъꙁдѣлатєлꙗ ꙗко нє можахѫ ємѹ іꙁъꙗснити оно о хаосѣ ѹ Хесіода.",
     "originalText": "ἐφάψασθαι δὲ φιλοσοφίας αὐτός φησιν ἔτη γεγονὼς τεσσαρεσκαίδεκα. Ἀπολλόδωρος δ' ὁ Ἐπικούρειος ἐν τῷ πρώτῳ περὶ τοῦ Ἐπικούρου βίου φησὶν ἐλθεῖν αὐτὸν ἐπὶ φιλοσοφίαν καταγνόντα τῶν γραμματιστῶν ἐπειδὴ μὴ ἐδυνήθησαν ἑρμηνεῦσαι αὐτῷ τὰ περὶ τοῦ παρ' Ἡσιόδῳ χάους.",
     "author": "Epicurus",
     "sources": [
@@ -32209,7 +32222,7 @@
     "type": "bio",
     "year": -320,
     "sr": "Epikurova tri brata, Neokle, Haireden i Aristobul, prihvatila su filozofiju na njegov podsticaj; sa njim je filozofirao i rob Mis.",
-    "stsl": "Епикѹрова три брата · Неоклъ · Хаиредемъ и Аристовѹлъ · єго побѹждениємъ мѫдролюбиє приѧшѧ · съ нимь же и рабъ Мѵсъ мѫдролюбьствоваше ·",
+    "stsl": "Епикѹрова три брата · Неоклъ · Хаиредемъ и Аристовѹлъ · єго побѹждениємъ любомѫдриѥ приѧшѧ · съ нимь же и рабъ Мѵсъ любомѫдриѥваше ·",
     "originalText": "Συνεφιλοσόφουν δ' αὐτῷ προτρεψαμένῳ καὶ οἱ ἀδελφοὶ τρεῖς, ὄντες Νεοκλῆς Χαιρέδημος Ἀριστόβουλος· ἀλλὰ καὶ δοῦλος Μῦς ὄνομα.",
     "author": "Epicurus",
     "sources": [
@@ -32277,7 +32290,7 @@
     "type": "bio",
     "year": -320,
     "sr": "Prema Enesidemu, Piron je filozofirao uzdržavajući se od suda, ali u svakodnevnim postupcima nije bio neoprezan.",
-    "stsl": "По Енесидемѹ · Пиронъ мѫдролюбьствоваше отъ сѫда въздрьжѧ сѧ · въ житии же не безъ опасениѩ дѣлааше ·",
+    "stsl": "По Енесидемѹ · Пиронъ любомѫдриѥваше отъ сѫда въздрьжѧ сѧ · въ житии же не безъ опасениѩ дѣлааше ·",
     "originalText": "Αἰνεσίδημος δέ φησι φιλοσοφεῖν μὲν αὐτὸν κατὰ τὸν τῆς ἐποχῆς λόγον, μὴ μέντοι γ' ἀπροοράτως ἕκαστα πράττειν.",
     "author": "Pyrrho",
     "sources": [
@@ -32598,7 +32611,7 @@
     "type": "bio",
     "year": -319,
     "sr": "Kada su ga Eritrejci poslali kao vojnika u Megaru, Menedem ode u Akademiju Platonu; privučen filozofijom, napusti vojnu službu.",
-    "stsl": "Посъланъ же Менедемъ отъ Еритреѧнъ воинъ въ Мегарѫ · възыде въ Академиѭ къ Платонѹ · и мѫдролюбиѥмъ ѹловленъ · воиньство остави ·",
+    "stsl": "Посъланъ же Менедемъ отъ Еритреѧнъ воинъ въ Мегарѫ · възыде въ Академиѭ къ Платонѹ · и любомѫдриѥмъ ѹловленъ · воиньство остави ·",
     "originalText": "Πεμφθεὶς δὲ φρουρὸς ὁ Μενέδημος ὑπὸ τῶν Ἐρετριέων εἰς Μέγαρα ἀνῆλθεν εἰς Ἀκαδήμειαν πρὸς Πλάτωνα, καὶ θηραθεὶς κατέλιπε τὴν στρατείαν.",
     "author": "Menedemus",
     "sources": [
@@ -32614,7 +32627,7 @@
     "id": "mm-001771",
     "type": "quote",
     "sr": "Ljude je savetovao, kako kaže Apolodor u knjizi O filozofskim školama, ovako: Dobrotu i plemenitost smatraj pouzdanijom od zakletve. Ne laži. Ozbiljnim stvarima se bavi. Ne stiči prijatelje brzo, a one koje stekneš ne odbacuj. Vladaj tek pošto najpre naučiš da budeš pod vlašću. Savetuj ne ono što je najprijatnije, nego ono što je najbolje. Um učini vođom. Ne druži se sa zlima. Poštuj bogove, a roditelje uvažavaj.",
-    "stsl": "Людемъ же съвѣтъ давааше · ꙗкоже глаголєть Аполлодоръ въ книзѣ О мѫдролюбьскꙑхъ ѥресѣхъ · сице · Доброчьстиє кълтвꙑ вѣрьнѣє имѣи · Не лъжи · Важьнаꙗ дѣла упражнꙗи · Дрѹгꙑ не скоро стѧжи · а иже стѧжеши · не отъвьрзи · Владаи · прѣжде наѹчивъ сѧ владаємѹ бꙑти · Съвѣтѹи не ꙗже сѫть приꙗтнѣиша · нъ ꙗже сѫть наилѹчьша · Ѹмъ водителꙗ сътвори · Съ злꙑми не общи сѧ · Богꙑ чьти · родителѧ же почитаи ·",
+    "stsl": "Людемъ же съвѣтъ давааше · ꙗкоже глаголєть Аполлодоръ въ книзѣ О любомѫдрьскꙑхъ ѥресѣхъ · сице · Доброчьстиє кълтвꙑ вѣрьнѣє имѣи · Не лъжи · Важьнаꙗ дѣла упражнꙗи · Дрѹгꙑ не скоро стѧжи · а иже стѧжеши · не отъвьрзи · Владаи · прѣжде наѹчивъ сѧ владаємѹ бꙑти · Съвѣтѹи не ꙗже сѫть приꙗтнѣиша · нъ ꙗже сѫть наилѹчьша · Ѹмъ водителꙗ сътвори · Съ злꙑми не общи сѧ · Богꙑ чьти · родителѧ же почитаи ·",
     "originalText": "Τοῖς τε ἀνθρώποις συνεβούλευσεν, ὥς φησιν Ἀπολλόδωρος ἐν τῷ Περὶ τῶν φιλοσόφων αἱρέσεων, τάδε· καλοκἀγαθίαν ὅρκου πιστοτέραν ἔχε. Μὴ ψεύδου. Τὰ σπουδαῖα μελέτα. Φίλους μὴ ταχὺ κτῶ· οὓς δ' ἂν κτήσῃ μὴ ἀποδοκίμαζε. Ἄρχε πρῶτον μαθὼν ἄρχεσθαι. Συμβούλευε μὴ τὰ ἥδιστα, ἀλλὰ τὰ ἄριστα. Νοῦν ἡγεμόνα ποιοῦ. Μὴ κακοῖς ὁμίλει. θεοὺς τίμα, γονέας αἰδοῦ.",
     "author": "Solon",
     "sources": [
@@ -32754,7 +32767,7 @@
     "type": "bio",
     "year": -314,
     "sr": "Od tada je slušao Krateta i postade valjan filozof.",
-    "stsl": "Отътолѣ Кратета слѹшааше · и бꙑсть мѫжь довьлънъ въ мѫдролюбіи.",
+    "stsl": "Отътолѣ Кратета слѹшааше · и бꙑсть мѫжь довьлънъ въ любомѫдрии.",
     "originalText": "Τοὐντεῦθεν ἤκουεν αὐτοῦ καὶ ἐγένετο ἀνὴρ ἱκανὸς ἐν φιλοσοφίᾳ.",
     "author": "Metrocles",
     "sources": [
@@ -32917,7 +32930,7 @@
     "id": "mm-002068",
     "type": "works",
     "sr": "Napisao je sledeća dela: dve knjige O svetu; O sastojcima; O semenu; O slučaju; O najmanjim stvarima; Protiv atoma i privida; O čulnim organima; pet rasprava O Heraklitu; O uređenju etičkog učenja; O dužnosti; O porivu; dve knjige O strastima; O kraljevanju; O spartanskom uređenju; tri knjige O Likurgu i Sokratu; O zakonu; O proricanju; Ljubavni razgovori; O eretrijskim filozofima; O sličnim stvarima; O određenjima; O stanju; tri knjige O protivrečnostima; O govoru; O bogatstvu; O slavi; O smrti; dve knjige Dijalektičke veštine; O predikatima; O dvosmislenostima; Pisma.",
-    "stsl": "Написа книгы сиꙗ · О мірѣ двѣ · О съставѣхъ · О сѣмени · О слѹчаи · О наимьньшихъ · Противѹ несѣчимꙑмъ и привидомъ · О чѹвьствьнꙑхъ ѹдѣхъ · О Ираклитѣ бесѣдъ пѧть · О строи нравьнаго ѹчениꙗ · О длъгѣ · О порꙑвѣ · О страстьхъ двѣ · О царьствии · О лаконьстѣмь строи · О Ликѹрзѣ и Сократѣ три · О законѣ · О прорицании · Разговоры любовьны · О еретриистѣхъ мѫдролюбѣхъ · О подобьнꙑхъ · О прѣдѣлѣхъ · О състоянии · О противѹрѣчимꙑхъ три · О словѣ · О богатьствѣ · О славѣ · О смрьти · Разговорьнаго хѫдожьства двѣ · О наричаниихъ · О двоѥсмꙑслиихъ · Посланиꙗ ·",
+    "stsl": "Написа книгы сиꙗ · О мірѣ двѣ · О съставѣхъ · О сѣмени · О слѹчаи · О наимьньшихъ · Противѹ несѣчимꙑмъ и привидомъ · О чѹвьствьнꙑхъ ѹдѣхъ · О Ираклитѣ бесѣдъ пѧть · О строи нравьнаго ѹчениꙗ · О длъгѣ · О порꙑвѣ · О страстьхъ двѣ · О царьствии · О лаконьстѣмь строи · О Ликѹрзѣ и Сократѣ три · О законѣ · О прорицании · Разговоры любовьны · О еретриистѣхъ любомѫдрьцихъ · О подобьнꙑхъ · О прѣдѣлѣхъ · О състоянии · О противѹрѣчимꙑхъ три · О словѣ · О богатьствѣ · О славѣ · О смрьти · Разговорьнаго хѫдожьства двѣ · О наричаниихъ · О двоѥсмꙑслиихъ · Посланиꙗ ·",
     "originalText": "Βιβλία δὲ γέγραφε τάδε· Περὶ κόσμου δύο, Περὶ στοιχείων, <Περὶ> σπέρματος, Περὶ τύχης, Περὶ ἐλαχίστων, Πρὸς τὰς ἀτόμους καὶ τὰ εἴδωλα, Περὶ αἰσθητηρίων, Περὶ Ἡρακλείτου πέντε διατριβῶν, Περὶ τῆς ἠθικῆς διατάξεως, Περὶ καθήκοντος, Περὶ ὁρμῆς, Περὶ παθῶν δύο, Περὶ βασιλείας, Περὶ Λακωνικῆς πολιτείας, Περὶ Λυκούργου καὶ Σωκράτους τρία, Περὶ νόμου, Περὶ μαντικῆς, Διαλόγους ἐρωτικούς, Περὶ τῶν Ἐρετριακῶν φιλοσόφων, Περὶ ὁμοίων, Περὶ ὅρων, Περὶ ἕξεως, Περὶ τῶν ἀντιλεγομένων τρία, Περὶ λόγου, Περὶ πλούτου, Περὶ δόξης, Περὶ θανάτου, Τέχνης διαλεκτικῆς δύο, Περὶ κατηγορημάτων, Περὶ ἀμφιβολιῶν, Ἐπιστολάς.",
     "author": "Sphaerus",
     "sources": [
@@ -33136,7 +33149,7 @@
     "type": "bio",
     "year": -306,
     "sr": "Kada je donet zakon da filozof ne sme voditi školu bez odobrenja veća i naroda pod pretnjom smrti, Teofrast je nakratko napustio Atinu sa ostalim filozofima. Zakon je uskoro poništen, a filozofima je dopušten povratak.",
-    "stsl": "Єгда законъ положенъ бысть · да мѫдролюбъ безъ съвѣта и народа изволениѩ ѹчилиштемъ не владѣєть подъ смрьтною казнию · Тєофрастъ съ прочими мѫдролюби на мало врѣмѧ Атины остави · Законъ же въскорѣ разоренъ и мѫдролюбомъ възвратити сѧ повелѣно бысть ·",
+    "stsl": "Єгда законъ положенъ бысть · да любомѫдрьць безъ съвѣта и народа изволениѩ ѹчилиштемъ не владѣєть подъ смрьтною казнию · Тєофрастъ съ прочими любомѫдрьци на мало врѣмѧ Атины остави · Законъ же въскорѣ разоренъ и любомѫдрьцемъ възвратити сѧ повелѣно бысть ·",
     "originalText": "πρὸς ὀλίγον ἀπεδήμησε καὶ οὗτος καὶ πάντες οἱ λοιποὶ φιλόσοφοι, Σοφοκλέους τοῦ Ἀμφικλείδου νόμον εἰσενεγκόντος μηδένα τῶν φιλοσόφων σχολῆς ἀφηγεῖσθαι ἂν μὴ τῇ βουλῇ καὶ τῷ δήμῳ δόξῃ· εἰ δὲ μή, θάνατον εἶναι τὴν ζημίαν. Ἀλλ' αὖθις ἐπανῆλθον εἰς νέωτα.",
     "author": "Theophrastus",
     "sources": [
@@ -33756,7 +33769,7 @@
     "id": "mm-900053",
     "type": "mention",
     "sr": "Nakon državnih poslova bavio se prirodnim mudroljubljem; kažu da je otkrio Velikog medveda i zvezdano umeće potrebno za plovidbu.",
-    "stsl": "По градьскыихъ дѣлѣхъ естествьномѹ мѫдролюбию прилѣже · и глаголють ꙗко Великии Медвѣдь и звѣздочьтьство къ плаванию обрѣте ·",
+    "stsl": "По градьскыихъ дѣлѣхъ естествьномѹ любомѫдрию прилѣже · и глаголють ꙗко Великии Медвѣдь и звѣздочьтьство къ плаванию обрѣте ·",
     "originalText": "Hic post politicam naturalis philosophie factus est speculator, et inventor fuisse urse maioris et navalis astrologle dicitur.",
     "author": "Thales",
     "sources": [
@@ -33807,7 +33820,7 @@
     "type": "bio",
     "year": -300,
     "sr": "Kako neki kažu, dođe u Atinu sa svega četiri drahme, pristupi Zenonu, predano se posveti filozofiji i ostade dosledan istim učenjima.",
-    "stsl": "Ꙗкоже нѣціи глаголѭть · въ Аѳинꙑ пріиде · четꙑри токъмо драхмꙑ имꙑи · и къ Зенонѹ пристѫпивъ · доблѥ мѫдролюбьствова · и при тѣхъ же ѹчениихъ прѣбꙑсть.",
+    "stsl": "Ꙗкоже нѣціи глаголѭть · въ Аѳинꙑ пріиде · четꙑри токъмо драхмꙑ имꙑи · и къ Зенонѹ пристѫпивъ · доблѥ любомѫдриѥва · и при тѣхъ же ѹчениихъ прѣбꙑсть.",
     "originalText": "Ἀφικόμενος δ’ εἰς Ἀθήνας τέσσαρας ἔχων δραχμάς, καθά φασί τινες, καὶ Ζήνωνι παραβαλὼν ἐφιλοσόφησε γενναιότατα καὶ ἐπὶ τῶν αὐτῶν ἔμεινε δογμάτων.",
     "author": "Cleanthes",
     "sources": [
@@ -33841,7 +33854,7 @@
     "type": "anecdote",
     "year": -300,
     "sr": "Kada je kralj Nikokreont na Kipru priređivao mesečnu svetkovinu i pozvao njih kao i ostale filozofe, Menedem reče: „Ako je dobro okupljati ovakve ljude, svetkovinu bi trebalo priređivati svakoga dana; ako nije, suvišna je i danas.“ Tiranin mu odgovori da jedino toga dana ima dokolice da sluša filozofe, a Menedem još oštrije nastavi da mu tokom samog žrtvovanja dokazuje kako filozofe treba slušati u svako doba. Zato, kada ih je na povratku zahvatila oluja, kažu da je Asklepijad rekao: „Sviračeva veština nas je spasla, a Menedemova sloboda govora zamalo nas je pogubila.“",
-    "stsl": "На Кѵпрѣ же царѹ Никокреонтѹ по мѣсѧцѹ праздникъ творѧштѹ · и сихъ съ прочими мѫдролюби позъвавъшѹ · Менедемъ рече · Аще добро єсть таковыхъ мѫжь събраниѥ · на вьсѧкъ дьнь праздникъ бывати подобаєть · аще ли ни · въсѹѥ и дьньсь єсть · Тиранѹ же отъвѣштавъшѹ · ꙗко сии дьнь тъкмо празденъ имать · да мѫдролюбъ слѹшаеть · Менедемъ паче острѣише належааше · на самѣи жрьтвѣ показѹѧ · ꙗко на вьсѧко врѣмѧ мѫдролюбъ слѹшати подобаєть · Тѣмьже · єгда на корабли бѹрею обьѧти бꙑшѧ · Асклепиадъ · глаголѭть · рече · Свиралева ѹмѣлость насъ съпасе · Менедемова же свобода словесе погѹби ·",
+    "stsl": "На Кѵпрѣ же царѹ Никокреонтѹ по мѣсѧцѹ праздникъ творѧштѹ · и сихъ съ прочими любомѫдрьци позъвавъшѹ · Менедемъ рече · Аще добро єсть таковыхъ мѫжь събраниѥ · на вьсѧкъ дьнь праздникъ бывати подобаєть · аще ли ни · въсѹѥ и дьньсь єсть · Тиранѹ же отъвѣштавъшѹ · ꙗко сии дьнь тъкмо празденъ имать · да любомѫдрьць слѹшаеть · Менедемъ паче острѣише належааше · на самѣи жрьтвѣ показѹѧ · ꙗко на вьсѧко врѣмѧ любомѫдрьць слѹшати подобаєть · Тѣмьже · єгда на корабли бѹрею обьѧти бꙑшѧ · Асклепиадъ · глаголѭть · рече · Свиралева ѹмѣлость насъ съпасе · Менедемова же свобода словесе погѹби ·",
     "originalText": "Τοῦ γάρ τοι βασιλέως ἐπιμήνιον ἑορτὴν τελοῦντος καὶ καλέσαντος καὶ τούτους ὥσπερ τοὺς ἄλλους φιλοσόφους, τὸν Μενέδημον εἰπεῖν ὡς εἰ καλὸν ἦν ἡ τῶν τοιούτων ἀνδρῶν συναγωγή, καθ' ἑκάστην ἡμέραν ἔδει γίνεσθαι τὴν ἑορτήν· εἰ δ' οὔ, περιττῶς καὶ νῦν. Πρὸς δὲ τοῦτο ἀπαντήσαντος τοῦ τυράννου καὶ εἰπόντος ὡς ταύτην τὴν ἡμέραν ἔχοι σχολάζουσαν πρὸς τὸ διακούειν φιλοσόφων, ἔτι καὶ μᾶλλον αὐστηρότερον ἐνέκειτο, δεικνὺς ἐπὶ τῆς θυσίας ὡς χρὴ πάντα καιρὸν φιλοσόφων ἀκούειν. Ὅθεν χειμαζομένων ἐν τῷ πλοίῳ τὸν Ἀσκαληπιάδην φασὶν εἰπεῖν ὡς ἡ μὲν τοῦ αὐλητοῦ εὐμουσία σέσωκεν αὐτούς, ἡ δὲ τοῦ Μενεδήμου παρρησία ἀπολώλεκεν.",
     "author": "Menedemus",
     "sources": [
@@ -33932,7 +33945,7 @@
     "type": "bio",
     "year": -300,
     "sr": "Tako ga je otadžbina počastila da ga je postavila za prvosveštenika i zbog njega svim filozofima izglasala oslobođenje od poreza.",
-    "stsl": "Тако га отъьчьство почьті ꙗко га постави за пръвосвѧщєника і раді нєго всѣмъ мѫдролюбомъ ізгласи освободьждєніє отъ дажьбꙑ.",
+    "stsl": "Тако га отъьчьство почьті ꙗко га постави за пръвосвѧщєника і раді нєго всѣмъ любомѫдрьцемъ ізгласи освободьждєніє отъ дажьбꙑ.",
     "originalText": "οὕτω δ' αὐτὸν ὑπὸ τῆς πατρίδος τιμηθῆναι ὥστε καὶ ἀρχιερέα καταστῆσαι αὐτὸν καὶ δι' ἐκεῖνον πᾶσι τοῖς φιλοσόφοις ἀτέλειαν ψηφίσασθαι.",
     "author": "Pyrrho",
     "sources": [
@@ -34018,7 +34031,7 @@
     "type": "anecdote",
     "year": -300,
     "sr": "Iako je inače bio veoma predan filozofiji, Zenon je bio suviše stidljiv za kiničku bestidnost. Želeći da ga izleči i od toga, Kratet mu dade da kroz Kerameik nosi lonac kaše od sočiva. Kada vide da se stidi i pokušava da sakrije lonac, udari ga štapom i razbi ga. Dok je Zenon bežao, a kaša mu se slivala niz noge, Kratet reče: Zašto bežiš, Feničanče? Ništa ti se strašno nije dogodilo.",
-    "stsl": "Инако къ мѫдролюбіѭ крѣпъкъ сꙑи · Зенонъ къ кѵничьстѣи бесрамьности стꙑдливъ бѣ · Кратетъ же · хотѧ и отъ сего и исцѣлити · даде емѹ горньць сочива чрѣзъ Керамикъ носити · Видѣвъ же и стꙑдѧща сѧ и горньць покрꙑваѭща · ѹдари жезломь и разби и · Бѣгѫщѹ же Зенонѹ · и сочивѹ по ногама єго текѫщѹ · рече Кратетъ · Чесо ради бѣжиши · Финикианьче · Ничтоже страшьно пострадалъ еси.",
+    "stsl": "Инако къ любомѫдрию крѣпъкъ сꙑи · Зенонъ къ кѵничьстѣи бесрамьности стꙑдливъ бѣ · Кратетъ же · хотѧ и отъ сего и исцѣлити · даде емѹ горньць сочива чрѣзъ Керамикъ носити · Видѣвъ же и стꙑдѧща сѧ и горньць покрꙑваѭща · ѹдари жезломь и разби и · Бѣгѫщѹ же Зенонѹ · и сочивѹ по ногама єго текѫщѹ · рече Кратетъ · Чесо ради бѣжиши · Финикианьче · Ничтоже страшьно пострадалъ еси.",
     "originalText": "Ἐντεῦθεν ἤκουσε τοῦ Κράτητος, ἄλλως μὲν εὔτονος ὢν πρὸς φιλοσοφίαν, αἰδήμων δὲ ὡς πρὸς τὴν Κυνικὴν ἀναισχυντίαν. Ὅθεν ὁ Κράτης βουλόμενος αὐτὸν καὶ τοῦτο θεραπεύσαι δίδωσι χύτραν φακῆς διὰ τοῦ Κεραμεικοῦ φέρειν. Ἐπεὶ δ' εἶδεν αὐτὸν αἰδούμενον καὶ παρακαλύπτοντα, παίσας τῇ βακτηρίᾳ κατάγνυσι τὴν χύτραν· φεύγοντος δ' αὐτοῦ καὶ τῆς φακῆς κατὰ τῶν σκελῶν ῥεούσης, φησὶν ὁ Κράτης, Τί φεύγεις, Φοινικίδιον; οὐδὲν δεινὸν πέπονθας.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34034,7 +34047,7 @@
     "id": "mm-001851",
     "type": "works",
     "sr": "U testamentu je Teofrast odredio da se dovrše radovi oko Muzeja i boginja, da se Aristotelov lik postavi u svetilište, sazida mali trem, karte na kojima su prikazani ophodi Zemlje postave u donji trem i obnovi oltar. Sve knjige ostavio je Neleju. Vrt, šetalište i sve kuće uz vrt ostavio je onim od navedenih prijatelja koji žele da se u njima zajedno posvećuju učenju i filozofiranju, s tim da ih niko ne sme ni otuđiti ni prisvojiti, nego da ih zajednički drže kao svetilište. Odredio je i da ga sahrane na mestu u vrtu koje se učini najprikladnijim, bez ikakve raskoši ni pri sahrani ni pri podizanju spomenika.",
-    "stsl": "Въ завѣтѣ Тєофрастъ повелѣ · да ꙗже о Мѹсеи и богынꙗхъ сѫть съвръшѧть · Аристотелевъ образъ въ свѧтилищи поставѧть · малѫ стѡѫ съзиждѫть · дъскы же · на нихъже землѧ обходи написани сѫть · въ долѣньи стѡи поставѧть · и олтарь обновѧть · Вьсѧ же книгы Нелею остави · Садъ же и ходилище и вьсѧ домы при садѣ тѣмъ отъ написанꙑихъ дрѹгъ остави · иже въ нихъ въкѹпѣ ѹчити сѧ и мѫдролюбьствовати хоштѫть · да ни отълѹчить ихъ никтоже · ни себѣ присвоить · нъ ꙗко свѧтилище обьште въкѹпѣ имѫть · Себе же повелѣ погребсти · идѣже въ садѣ наиподобьнѣѥ бѫдеть · ничтоже излишьно творѧште ни о погребении · ни о памѧтьници ·",
+    "stsl": "Въ завѣтѣ Тєофрастъ повелѣ · да ꙗже о Мѹсеи и богынꙗхъ сѫть съвръшѧть · Аристотелевъ образъ въ свѧтилищи поставѧть · малѫ стѡѫ съзиждѫть · дъскы же · на нихъже землѧ обходи написани сѫть · въ долѣньи стѡи поставѧть · и олтарь обновѧть · Вьсѧ же книгы Нелею остави · Садъ же и ходилище и вьсѧ домы при садѣ тѣмъ отъ написанꙑихъ дрѹгъ остави · иже въ нихъ въкѹпѣ ѹчити сѧ и любомѫдриѥвати хоштѫть · да ни отълѹчить ихъ никтоже · ни себѣ присвоить · нъ ꙗко свѧтилище обьште въкѹпѣ имѫть · Себе же повелѣ погребсти · идѣже въ садѣ наиподобьнѣѥ бѫдеть · ничтоже излишьно творѧште ни о погребении · ни о памѧтьници ·",
     "originalText": "τὰ περὶ τὸ μουσεῖον καὶ τὰς θεὰς συντελεσθῆναι· τὴν Ἀριστοτέλους εἰκόνα τεθῆναι εἰς τὸ ἱερόν· τὸ στωίδιον οἰκοδομηθῆναι· ἀναθεῖναι δὲ καὶ τοὺς πίνακας, ἐν οἷς αἱ τῆς γῆς περίοδοί εἰσιν, εἰς τὴν κάτω στοάν· ἐπισκευασθῆναι δὲ καὶ τὸν βωμόν. τὰ δὲ βιβλία πάντα Νηλεῖ. Τὸν δὲ κῆπον καὶ τὸν περίπατον καὶ τὰς οἰκίας τὰς πρὸς τῷ κήπῳ πάσας δίδωμι τῶν γεγραμμένων φίλων ἀεὶ τοῖς βουλομένοις συσχολάζειν καὶ συμφιλοσοφεῖν ἐν αὐταῖς, μήτ' ἐξαλλοτριοῦσι μήτ' ἐξιδιαζομένου μηδενός, ἀλλ' ὡς ἂν ἱερὸν κοινῇ κεκτημένοις. Θάψαι δὲ καὶ ἡμᾶς ὅπου ἂν δοκῇ μάλιστα ἁρμόττον εἶναι τοῦ κήπου, μηδὲν περίεργον μήτε περὶ τὴν ταφὴν μήτε περὶ τὸ μνημεῖον ποιοῦντας.",
     "author": "Theophrastus",
     "sources": [
@@ -34270,7 +34283,7 @@
     "id": "mm-001867",
     "type": "works",
     "sr": "Timonova tri dela zvana Sile ismevaju sve dogmatičare parodirajući ih iz skeptičkog ugla. Prvo je pripovedano u jednom glasu, a drugo i treće imaju oblik razgovora u kojem Timon ispituje Ksenofana iz Kolofona: druga knjiga govori o starijim, treća o poznijim misliocima. Prva knjiga počinje stihom: „Kazujte mi sada, svi vi mnogodelni sofisti.“",
-    "stsl": "Три Тимонова дѣла · Силы нарицаєма · вьсѧ догматикы скептичьскы рѫгаѭть и въ подобиихъ осмѣваѭть · Пръво єдиногласъно сказано · дрѹго же и третиє разговоръ имата · въ нѣмь Тимонъ Ксенофана Колофоньскаго о вьсѣхъ въпрашаєть · Дрѹга книга о старѣишиихъ · третиꙗ о познѣишиихъ мѫдролюбѣхъ глаголєть · Пръва же симь стихомъ начинаєть сѧ · Скажите ми нынѣ · елици мъногодѣльни софисти есте ·",
+    "stsl": "Три Тимонова дѣла · Силы нарицаєма · вьсѧ догматикы скептичьскы рѫгаѭть и въ подобиихъ осмѣваѭть · Пръво єдиногласъно сказано · дрѹго же и третиє разговоръ имата · въ нѣмь Тимонъ Ксенофана Колофоньскаго о вьсѣхъ въпрашаєть · Дрѹга книга о старѣишиихъ · третиꙗ о познѣишиихъ любомѫдрьцихъ глаголєть · Пръва же симь стихомъ начинаєть сѧ · Скажите ми нынѣ · елици мъногодѣльни софисти есте ·",
     "originalText": "τῶν δὲ Σίλλων τρία ἐστίν, ἐν οἷς ὡς ἂν σκεπτικὸς ὢν πάντας λοιδορεῖ καὶ σιλλαίνει τοὺς δογματικοὺς ἐν παρῳδίας εἴδει. ὧν τὸ μὲν πρῶτον αὐτοδιήγητον ἔχει τὴν ἑρμηνείαν, τὸ δὲ δεύτερον καὶ τρίτον ἐν διαλόγου σχήματι. φαίνεται γοῦν ἀνακρίνων Ξενοφάνην τὸν Κολοφώνιον περὶ ἑκάστων, ὁ δ' αὐτῷ διηγούμενός ἐστι· καὶ ἐν μὲν τῷ δευτέρῳ περὶ τῶν ἀρχαιοτέρων, ἐν δὲ τῷ τρίτῳ περὶ τῶν ὑστέρων· ὅθεν δὴ αὐτῷ τινες καὶ Ἐπίλογον ἐπέγραψαν. τὸ δὲ πρῶτον ταὐτὰ περιέχει πράγματα, πλὴν ὅτι μονοπρόσωπός ἐστιν ἡ ποίησις· ἀρχὴ δ' αὐτῷ ἥδε, ἔσπετε νῦν μοι ὅσοι πολυπράγμονές ἐστε σοφισταί.",
     "author": "Timon of Phlius",
     "sources": [
@@ -34287,7 +34300,7 @@
     "type": "bio",
     "year": -290,
     "sr": "Antigon iz Karista kaže da Zenon nije poricao da je iz Kitija. Kada je, kao jedan od priložnika za obnovu kupatila, na stubu bio upisan kao Zenon filozof, zatražio je da se doda i iz Kitija.",
-    "stsl": "Антигонъ Карѵстиискꙑи глаголеть · ꙗко Зенонъ Китиець бꙑти не отметааше сѧ · Единъ бо отъ даѭштихъ на обновлениѥ банѧ сꙑи · на столпѣ ꙗко Зенонъ мѫдролюбъ написанъ бꙑсть · и Китиець приложити повелѣ.",
+    "stsl": "Антигонъ Карѵстиискꙑи глаголеть · ꙗко Зенонъ Китиець бꙑти не отметааше сѧ · Единъ бо отъ даѭштихъ на обновлениѥ банѧ сꙑи · на столпѣ ꙗко Зенонъ любомѫдрьць написанъ бꙑсть · и Китиець приложити повелѣ.",
     "originalText": "Φησὶ δ' Ἀντίγονος ὁ Καρύστιος οὐκ ἀρνεῖσθαι αὐτὸν εἶναι Κιτιέα. Τῶν γὰρ εἰς τὴν ἐπισκευὴν τοῦ λουτρῶνος συμβαλλομένων εἷς ὢν καὶ ἀναγραφόμενος ἐν τῇ στήλῃ, «Ζήνωνος τοῦ φιλοσόφου,» ἠξίωσε καὶ τὸ Κιτιεὺς προστεθῆναι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -34678,7 +34691,7 @@
     "type": "bio",
     "year": -280,
     "sr": "Bio je ljubitelj vina i kad bi imao slobodnog vremena od filozofa pisao pesme: i epove i tragedije i satirske igre i dramе komedija trideset, a tragedija šezdeset, i Sile i rugalice.",
-    "stsl": "Бѣ люботъєль віна і єгда бі імꙗлъ своводьна врємєнє отъ мѫдролюбъ пісаашє пѣснꙑ · і єпосꙑ і трагєдіѩ і сатѵрьскаꙗ іграꙗ і драмꙑ комєдіѩ тридєсѧть · а трагєдіѩ шєстьдєсѧть · і Сілꙑ і рѹгалицє.",
+    "stsl": "Бѣ люботъєль віна і єгда бі імꙗлъ своводьна врємєнє отъ любомѫдрьць пісаашє пѣснꙑ · і єпосꙑ і трагєдіѩ і сатѵрьскаꙗ іграꙗ і драмꙑ комєдіѩ тридєсѧть · а трагєдіѩ шєстьдєсѧть · і Сілꙑ і рѹгалицє.",
     "originalText": "Ἦν δέ, φησίν, καὶ φιλοπότης καὶ ἀπὸ τῶν φιλοσόφων εἰ σχολάζοι ποιήματα συνέγραφε· καὶ γὰρ καὶ ἔπη καὶ τραγῳδίας καὶ σατύρους (καὶ δράματα κωμικὰ τριάκοντα, τὰ δὲ τραγικὰ ἑξήκοντα) σίλλους τε καὶ κιναίδους.",
     "author": "Timon of Phlius",
     "sources": [
@@ -34710,7 +34723,7 @@
     "id": "mm-001883",
     "type": "reported",
     "sr": "Čoveku koji nije učio ni muziku, ni geometriju, ni astronomiju, a hteo je da kod njega uči, Ksenokrat reče: „Idi; nemaš za šta da uhvatiš filozofiju.“",
-    "stsl": "Чловѣкѹ · иже ни мѹсикиѭ · ни землемѣриѥ · ни звѣздословиѥ не ѹчи · хотѧштѹ же ѹ него ѹчити сѧ · Ксенократъ рече · Иди · не имаши бо чимь мѫдролюбиꙗ приѧти ·",
+    "stsl": "Чловѣкѹ · иже ни мѹсикиѭ · ни землемѣриѥ · ни звѣздословиѥ не ѹчи · хотѧштѹ же ѹ него ѹчити сѧ · Ксенократъ рече · Иди · не имаши бо чимь любомѫдриꙗ приѧти ·",
     "originalText": "Πρὸς δὲ τὸν μήτε μουσικὴν μήτε γεωμετρικὴν μήτε ἀστρονομίαν μεμαθηκότα, βουλόμενον δὲ παρ' αὐτὸν φοιτᾶν, «Πορεύου,» ἔφη· «λαβὰς γὰρ οὐκ ἔχεις φιλοσοφίας.»",
     "author": "Xenocrates",
     "sources": [
@@ -34933,6 +34946,7 @@
       "θεός",
       "νοῦς",
       "οὐσία",
+      "φρόνησις",
       "ἀΐδιος"
     ]
   },
@@ -35175,7 +35189,7 @@
     "id": "mm-001920",
     "type": "works",
     "sr": "Prvi je zabeležio Sokratove razgovore i objavio ih kao Uspomene; prvi je napisao istoriju filozofa.",
-    "stsl": "Пьрвꙑи Сократовы бесѣды записа и ꙗко Памѧти издаде · пьрвыи же повѣсть о мѫдролюбѣхъ написа ·",
+    "stsl": "Пьрвꙑи Сократовы бесѣды записа и ꙗко Памѧти издаде · пьрвыи же повѣсть о любомѫдрьцихъ написа ·",
     "originalText": "Καὶ πρῶτος ὑποσημειωσάμενος τὰ λεγόμενα εἰς ἀνθρώπους ἤγαγεν, Ἀπομνημονεύματα ἐπιγράψας. Ἀλλὰ καὶ ἱστορίαν φιλοσόφων πρῶτος ἔγραψε.",
     "author": "Xenophon",
     "sources": [
@@ -35277,7 +35291,7 @@
     "type": "bio",
     "year": -262,
     "sr": "Pošto je Zenon iz Kitija, Mnasejev sin, mnogo godina proveo u gradu baveći se filozofijom, ostao valjan čovek i u svemu drugom, a mladiće koji su mu dolazili podsticao na vrlinu i čednost, usmeravajući ih ka najboljem, i svima pružio primer sopstvenim životom, saglasnim učenju koje je izlagao, narod je uz dobru sreću odlučio da ga pohvali i, po zakonu, ovenča zlatnim vencem zbog vrline i čednosti, kao i da mu o javnom trošku podigne grob u Kerameiku.",
-    "stsl": "Понеже Зенонъ Китиець · Мнасѣевъ сынъ · мънога лѣта въ градѣ мѫдролюбьствѹꙗ прѣбꙑсть · и въ инꙑихъ добръ мѫжь до коньца бѣ · юношы же къ немѹ приходѧштиꙗ къ добродѣтели и цѣломѫдрию въздвизааше · къ лѹчьшимъ наставлѧꙗ · и свое житиѥ · словесемъ его съгласно · вьсѣмъ образъ положи · народъ · при добрѣи срѣшти · Зенона похвалити · и по законѹ добродѣтели и цѣломѫдриꙗ ради златꙑмь вѣньцемь вѣньчати · и гробъ емѹ въ Керамицѣ обьштимь имѣниемь създати повелѣ.",
+    "stsl": "Понеже Зенонъ Китиець · Мнасѣевъ сынъ · мънога лѣта въ градѣ любомѫдрьствѹꙗ прѣбꙑсть · и въ инꙑихъ добръ мѫжь до коньца бѣ · юношы же къ немѹ приходѧштиꙗ къ добродѣтели и цѣломѫдрию въздвизааше · къ лѹчьшимъ наставлѧꙗ · и свое житиѥ · словесемъ его съгласно · вьсѣмъ образъ положи · народъ · при добрѣи срѣшти · Зенона похвалити · и по законѹ добродѣтели и цѣломѫдриꙗ ради златꙑмь вѣньцемь вѣньчати · и гробъ емѹ въ Керамицѣ обьштимь имѣниемь създати повелѣ.",
     "originalText": "Ἐπειδὴ Ζήνων Μνασέου Κιτιεὺς ἔτη πολλὰ κατὰ φιλοσοφίαν ἐν τῇ πόλει γενόμενος ἔν τε τοῖς λοιποῖς ἀνὴρ ἀγαθὸς ὢν διετέλεσε καὶ τοὺς εἰς σύστασιν αὐτῷ τῶν νέων πορευομένους παρακαλῶν ἐπ' ἀρετὴν καὶ σωφροσύνην παρώρμα πρὸς τὰ βέλτιστα, παράδειγμα τὸν ἴδιον βίον ἐκθεὶς ἅπασιν ἀκόλουθον ὄντα τοῖς λόγοις οἷς διελέγετο, τύχῃ ἀγαθῇ δεδόχθαι τῷ δήμῳ, ἐπαινέσαι μὲν Ζήνωνα Μνασέου Κιτιέα καὶ στεφανῶσαι χρυσῷ στεφάνῳ κατὰ τὸν νόμον ἀρετῆς ἕνεκεν καὶ σωφροσύνης, οἰκοδομῆσαι δὲ αὐτῷ καὶ τάφον ἐπὶ τοῦ Κεραμεικοῦ δημοσίᾳ.",
     "author": "Zeno of Citium",
     "sources": [
@@ -35328,7 +35342,7 @@
     "type": "bio",
     "year": -260,
     "sr": "Hekaton kaže da se Hrisip posvetio filozofiji pošto je njegovo očinsko imanje zaplenjeno za kraljevsku blagajnu.",
-    "stsl": "Гекатонъ глаголєть · ꙗко Хрисипъ мѫдролюбіѭ прѣда сѧ · єгда отьчьско имѣниє єго въ цѣсарьскѫ казнѫ възѧто бꙑсть ·",
+    "stsl": "Гекатонъ глаголєть · ꙗко Хрисипъ любомѫдрию прѣда сѧ · єгда отьчьско имѣниє єго въ цѣсарьскѫ казнѫ възѧто бꙑсть ·",
     "originalText": "Ἑκάτων δέ φησιν ἐλθεῖν αὐτὸν ἐπὶ φιλοσοφίαν, τῆς οὐσίας αὐτοῦ τῆς πατρῴας εἰς τὸ βασιλικὸν ἀναληφθείσης.",
     "author": "Chrysippus",
     "sources": [
@@ -35604,7 +35618,7 @@
     "type": "bio",
     "year": -250,
     "sr": "Bio je volјač bašte i čovek koji se bavi svojim poslovima. Hieronim Peripatetik rekao je o njemu: 'Kao što kod Skita i oni koji beže streљaju i oni koji gone, tako od filozofa jedni gone i love učenike, a drugi beže, kao i Timon.'",
-    "stsl": "Бѣ волѣчь вртограда і чловѣкъ ꙇжє занімаєть сѧ своіми послѹшаніємь · Хієронѵмъ Пєріпатєтікъ рєчє о нємь · Ꙗкоже ѹ Скѵтъ і ꙇжє бѣгѫть стрѣлꙗѭть і ꙇжє гонѧть · тако отъ мѫдролюбъ єдини гонѧть і ловѧть ѹчєникꙑ · а дрѹгіи бѣгѫть · ꙗкоже і Тімонъ.",
+    "stsl": "Бѣ волѣчь вртограда і чловѣкъ ꙇжє занімаєть сѧ своіми послѹшаніємь · Хієронѵмъ Пєріпатєтікъ рєчє о нємь · Ꙗкоже ѹ Скѵтъ і ꙇжє бѣгѫть стрѣлꙗѭть і ꙇжє гонѧть · тако отъ любомѫдрьць єдини гонѧть і ловѧть ѹчєникꙑ · а дрѹгіи бѣгѫть · ꙗкоже і Тімонъ.",
     "originalText": "Ὁ δ' οὖν φιλόσοφος καὶ φιλόκηπος ἦν σφόδρα καὶ ἰδιοπράγμων. λόγος γοῦν εἰπεῖν Ἱερώνυμον τὸν περιπατητικὸν ἐπ' αὐτοῦ, Ὡς παρὰ τοῖς Σκύθαις καὶ οἱ φεύγοντες τοξεύουσι καὶ οἱ διώκοντες, οὕτω τῶν φιλοσόφων οἱ μὲν διώκοντες θηρῶσι τοὺς μαθητάς, οἱ δὲ φεύγοντες, καθάπερ καὶ ὁ Τίμων.",
     "author": "Timon of Phlius",
     "sources": [
@@ -35638,7 +35652,7 @@
     "type": "bio",
     "year": -245,
     "sr": "Prema Sotionu, Hrisip je naposletku u Akademiji slušao Arkesilaja i Lakida i s njima se bavio filozofijom.",
-    "stsl": "По Сотионѹ · Хрисипъ послѣди въ Академии Аркесилаꙗ и Лакида слѹша · и съ нима мѫдролюбьствоваше ·",
+    "stsl": "По Сотионѹ · Хрисипъ послѣди въ Академии Аркесилаꙗ и Лакида слѹша · и съ нима любомѫдриѥваше ·",
     "originalText": "Τέλος δ' Ἀρκεσιλάῳ καὶ Λακύδῃ, καθά φησι Σωτίων ἐν τῷ ὀγδόῳ, παραγενόμενος ἐν Ἀκαδημείᾳ συνεφιλοσόφησε.",
     "author": "Chrysippus",
     "sources": [
@@ -36108,7 +36122,7 @@
     "id": "mm-001972",
     "type": "quote",
     "sr": "Nalaže mi sudbina da se slobodnije posvetim filozofiji.",
-    "stsl": "Велить ми слѹчаи свободьнѣе мѫдролюбьствовати.",
+    "stsl": "Велить ми слѹчаи свободьнѣе любомѫдриѥвати.",
     "originalText": "Iubet me fortuna expeditius philosophari",
     "la": "Iubet me fortuna expeditius philosophari",
     "author": "Zeno of Citium",
@@ -36330,7 +36344,7 @@
     "type": "bio",
     "year": -63,
     "sr": "Marko Tulije, po nadimku Ciceron, Rimljanin, bio je veoma znamenit među rimskim konzulima. Proslavio se u vreme Julija Cezara i bio veliki filozof, veoma predan učenju.",
-    "stsl": "Тѹллии Маркъ · прозваниемь Цицеронъ · римлꙗнинъ · мѫжь прѣславьнъ междѹ коньсѹлы римьскꙑми · въ врѣмѧ Иѹлиꙗ Кесарѣ прослави сѧ · мѫдролюбъ великъ и къ ѹчениѭ вельми прилѣжьнъ бѣ ·",
+    "stsl": "Тѹллии Маркъ · прозваниемь Цицеронъ · римлꙗнинъ · мѫжь прѣславьнъ междѹ коньсѹлы римьскꙑми · въ врѣмѧ Иѹлиꙗ Кесарѣ прослави сѧ · любомѫдрьць великъ и къ ѹчениѭ вельми прилѣжьнъ бѣ ·",
     "originalText": "Tullius Marcus, cognomento et Cicero, Romanus, vir nobilissimus inter consules Romanorum, Iulii Caesaris tempore claruit, qui philosophus maximus et studiosus erat valde.",
     "author": "Cicero",
     "sources": [
@@ -36380,7 +36394,7 @@
     "id": "mm-001983",
     "type": "works",
     "sr": "Kralju Antigonu Zenon šalje pozdrav.\n\nOdobravam tvoju ljubav prema učenju, jer se držiš istinskog obrazovanja koje vodi koristi, a ne pučkog koje izopačuje narav. Ko žudi za filozofijom, a kloni se mnogo hvaljenog zadovoljstva koje razmekšava duše nekih mladića, očigledno je sklon plemenitosti ne samo po prirodi nego i po izboru. Plemenita priroda, ako joj se pridruže umerena vežba i učitelj koji poučava bez zavisti, lako dospeva do potpunog sticanja vrline.\n\nMene zbog starosti sputava slabo telo, jer imam osamdeset godina, pa ti se ne mogu pridružiti. Šaljem ti neke svoje drugove u učenju koji duševnim sposobnostima ne zaostaju za mnom, a telesnim me nadmašuju. Boraveći s njima, nećeš oskudevati ni u čemu što vodi potpunoj blaženosti.",
-    "stsl": "Цѣсарю Антигонѹ Зенонъ радовати сѧ ·\n\nПохвалѧѭ твоє наѹколюбиѥ · понеже истиньнаго и къ пользѣ ведѫштаго · а не людьскаго и нравꙑ развраштаѭштаго възпитаниꙗ дрьжиши сѧ · Иже мѫдролюбиꙗ желаеть · мъногохваленꙑѩ же сласти · ꙗже нѣкыѩ дѹшѧ юношьскꙑѩ размѧкчаеть · ѹкланѧеть сѧ · ꙗвѣ не тъкъмо естествомъ · нъ и изборомъ къ благородию склонѧеть сѧ · Благородьно естество · мѣрьно ѹпражнениѥ и независтьна ѹчителѧ приимъше · легъко къ съврьшеномѹ стѧжанию добродѣтели приходить ·\n\nМене же старости ради немощьно тѣло дрьжить · осмьдесѧть бо лѣтъ имамъ · тѣмь къ тебѣ прити не могѫ · Посꙑлаѭ же ти нѣкыѩ моѩ съѹчительникы · иже дѹшевнꙑими силами мене не мьнши сѫть · тѣломь же прѣвъсходѧть · Съ ними прѣбꙑваꙗ · ничьтоже отъ ведѫштихъ къ съврьшенѣи благочѧсти оскѫдѣеши.",
+    "stsl": "Цѣсарю Антигонѹ Зенонъ радовати сѧ ·\n\nПохвалѧѭ твоє наѹколюбиѥ · понеже истиньнаго и къ пользѣ ведѫштаго · а не людьскаго и нравꙑ развраштаѭштаго възпитаниꙗ дрьжиши сѧ · Иже любомѫдриꙗ желаеть · мъногохваленꙑѩ же сласти · ꙗже нѣкыѩ дѹшѧ юношьскꙑѩ размѧкчаеть · ѹкланѧеть сѧ · ꙗвѣ не тъкъмо естествомъ · нъ и изборомъ къ благородию склонѧеть сѧ · Благородьно естество · мѣрьно ѹпражнениѥ и независтьна ѹчителѧ приимъше · легъко къ съврьшеномѹ стѧжанию добродѣтели приходить ·\n\nМене же старости ради немощьно тѣло дрьжить · осмьдесѧть бо лѣтъ имамъ · тѣмь къ тебѣ прити не могѫ · Посꙑлаѭ же ти нѣкыѩ моѩ съѹчительникы · иже дѹшевнꙑими силами мене не мьнши сѫть · тѣломь же прѣвъсходѧть · Съ ними прѣбꙑваꙗ · ничьтоже отъ ведѫштихъ къ съврьшенѣи благочѧсти оскѫдѣеши.",
     "originalText": "Βασιλεῖ Ἀντιγόνῳ Ζήνων χαίρειν. Ἀποδέχομαί σου τὴν φιλομάθειαν καθόσον τῆς ἀληθινῆς καὶ εἰς ὄνησιν τεινούσης, ἀλλ' οὐχὶ τῆς δημώδους καὶ εἰς διαστροφὴν ἠθῶν ἀντέχῃ παιδείας. Ὁ δὲ φιλοσοφίας ὠρεγμένος, ἐκκλίνων δὲ τὴν πολυθρύλητον ἡδονὴν ἣ τινῶν θηλύνει νέων ψυχάς, φανερός ἐστιν οὐ μόνον φύσει πρὸς εὐγένειαν κλίνων, ἀλλὰ καὶ προαιρέσει. Φύσις δὲ εὐγενὴς μετρίαν ἄσκησιν προσλαβοῦσα, ἔτι δὲ τὸν ἀφθόνως διδάξοντα, ῥᾳδίως ἔρχεται πρὸς τὴν τελείαν ἀνάληψιν τῆς ἀρετῆς. Ἐγὼ δὲ συνέχομαι σώματι ἀσθενεῖ διὰ γῆρας· ἐτῶν γάρ εἰμι ὀγδοήκοντα· διόπερ οὐ δύναμαί σοι συμμῖξαι. Ἀποστέλλω δέ σοί τινας τῶν ἐμαυτοῦ συσχολαστῶν, οἳ τοῖς μὲν κατὰ ψυχὴν οὐκ ἀπολείπονται ἐμοῦ, τοῖς δὲ κατὰ σῶμα προτεροῦσιν· οἷς συνὼν οὐδενὸς καθυστερήσεις τῶν πρὸς τὴν τελείαν εὐδαιμονίαν ἀνηκόντων.",
     "author": "Zeno of Citium",
     "sources": [
@@ -36436,7 +36450,7 @@
     "id": "mm-001993",
     "type": "reported",
     "sr": "Apolonije iz Tira kaže da je Zenon, kada ga je Kratet vukao za ogrtač od Stilpona, rekao: Kratete, filozof se najbolje hvata za uši. Ubedi me, pa me za njih vuci. Ako me budeš silio, telo će mi biti uz tebe, ali duša uz Stilpona.",
-    "stsl": "Аполлонии Тѷрьскꙑи глаголеть · ꙗко Кратетѹ Зенона за ризѫ отъ Стилпона влекѫштѹ · Зенонъ рече · О Кратете · мѫдролюбъ наипаче за ѹши емлеть сѧ · Ѹвѣри мѧ · и за нѣ влеци · Аще ли мѧ понѫдиши · тѣло мое ѹ тебе бѫдеть · дѹша же ѹ Стилпона.",
+    "stsl": "Аполлонии Тѷрьскꙑи глаголеть · ꙗко Кратетѹ Зенона за ризѫ отъ Стилпона влекѫштѹ · Зенонъ рече · О Кратете · любомѫдрьць наипаче за ѹши емлеть сѧ · Ѹвѣри мѧ · и за нѣ влеци · Аще ли мѧ понѫдиши · тѣло мое ѹ тебе бѫдеть · дѹша же ѹ Стилпона.",
     "originalText": "Φησὶ δ' Ἀπολλώνιος ὁ Τύριος, ἕλκοντος αὐτὸν Κράτητος τοῦ ἱματίου ἀπὸ Στίλπωνος, εἰπεῖν, Ὦ Κράτες, λαβὴ φιλοσόφων ἐστὶν ἐπιδέξιος ἡ διὰ τῶν ὤτων· πείσας οὖν ἕλκε τούτων· εἰ δέ με βιάζῃ, τὸ μὲν σῶμα παρὰ σοὶ ἔσται, ἡ δὲ ψυχὴ παρὰ Στίλπωνι.",
     "author": "Zeno of Citium",
     "sources": [
@@ -36476,7 +36490,7 @@
     "type": "anecdote",
     "year": -46,
     "sr": "Pošto je otpustio ženu, Cicerona zamoli prvak Hircije da uzme njegovu sestru za ženu. Ciceron ne pristade, rekavši da se ne može istovremeno posvetiti ženi i filozofiji.",
-    "stsl": "Женѫ отъпѹстивъшѹ Цицеронѹ · кнѧꙃь Ирции моли и · да сестрѹ єго поиметь · Онъ же не съволи · рекъ · ꙗко не можеть женѣ и мѫдролюбиѭ въкѹпѣ дѣлати ·",
+    "stsl": "Женѫ отъпѹстивъшѹ Цицеронѹ · кнѧꙃь Ирции моли и · да сестрѹ єго поиметь · Онъ же не съволи · рекъ · ꙗко не можеть женѣ и любомѫдрию въкѹпѣ дѣлати ·",
     "originalText": "Hic, uxore repudiata, rogatus fuit ab Hyrcio principe ut sororem eius duceret in uxorem. Qui non acquievit, dicens se non posse uxori et philosophiae pariter operari.",
     "author": "Cicero",
     "sources": [
@@ -36525,7 +36539,7 @@
     "id": "mm-001999",
     "type": "reported",
     "sr": "Prema stoicima, filozofsko učenje deli se na tri dela: prirodni, etički i logički. Zenon iz Kitija prvi ga je tako podelio u delu O govoru. U nastavi je najpre stavljao logiku, zatim proučavanje prirode, a na kraju etiku.",
-    "stsl": "По стоикомъ · мѫдролюбьско слово на три части раздѣлѧеть сѧ · естествьнѫ · нравьнѫ и словесьнѫ · Зенонъ Китиець пръвꙑи сице раздѣли въ книгѣ О словеси · Въ ѹчении же пръвѣе словесословиѥ полагааше · потомь естествоиспꙑтаниѥ · на коньци нравословиѥ.",
+    "stsl": "По стоикомъ · любомѫдрьско слово на три части раздѣлѧеть сѧ · естествьнѫ · нравьнѫ и словесьнѫ · Зенонъ Китиець пръвꙑи сице раздѣли въ книгѣ О словеси · Въ ѹчении же пръвѣе словесословиѥ полагааше · потомь естествоиспꙑтаниѥ · на коньци нравословиѥ.",
     "originalText": "Τριμερῆ φασιν εἶναι τὸν κατὰ φιλοσοφίαν λόγον· εἶναι γὰρ αὐτοῦ τὸ μέν τι φυσικόν, τὸ δὲ ἠθικόν, τὸ δὲ λογικόν. Οὕτω δὲ πρῶτος διεῖλε Ζήνων ὁ Κιτιεὺς ἐν τῷ Περὶ λόγου. Ἄλλοι δὲ πρῶτον μὲν τὸ λόγικον τάττουσι, δεύτερον δὲ τὸ φυσικόν, καὶ τρίτον τὸ ἠθικόν· ὧν ἐστι Ζήνων ἐν τῷ Περὶ λόγου.",
     "author": "Zeno of Citium",
     "sources": [
@@ -36925,7 +36939,7 @@
     "id": "mm-002018",
     "type": "reported",
     "sr": "Kada neko reče da mu se rasprave filozofa čine kratkim, Zenon odgovori: Istinu govoriš; ako je moguće, i njihovi slogovi treba da budu kratki.",
-    "stsl": "Рекъшѹ же нѣкоемѹ · ꙗко кратка емѹ мьнѧть сѧ словеса мѫдролюбъ · Зенонъ отъвѣшта · Истинѫ глаголеши · подобаеть же и сълогомъ ихъ кратъкꙑимъ бꙑти · аще мощьно.",
+    "stsl": "Рекъшѹ же нѣкоемѹ · ꙗко кратка емѹ мьнѧть сѧ словеса любомѫдрьць · Зенонъ отъвѣшта · Истинѫ глаголеши · подобаеть же и сълогомъ ихъ кратъкꙑимъ бꙑти · аще мощьно.",
     "originalText": "Εἰπόντος δέ τινος ὅτι μικρὰ αὐτῷ δοκεῖ τὰ λογάρια τῶν φιλοσόφων, «Λέγεις,» εἶπε, «τἀληθῆ· δεῖ μέντοι καὶ τὰς συλλαβὰς αὐτῶν βραχείας εἶναι, εἰ δυνατόν.»",
     "author": "Zeno of Citium",
     "sources": [
@@ -36995,7 +37009,7 @@
     "id": "mm-002022",
     "type": "reported",
     "sr": "Zenon je govorio da su filozofi većinom nemudri, a u sitnim i slučajnim stvarima neuki.",
-    "stsl": "Зенонъ глаголааше · ꙗко множаишии мѫдролюби въ мънозѣхъ немѫдри · въ малꙑихъ же и приключьнꙑихъ невѣдѫшти сѫть.",
+    "stsl": "Зенонъ глаголааше · ꙗко множаишии любомѫдрьци въ мънозѣхъ немѫдри · въ малꙑихъ же и приключьнꙑихъ невѣдѫшти сѫть.",
     "originalText": "Ἔλεγε δὲ καὶ τῶν φιλοσόφων τοὺς πλείστους τὰ μὲν πολλὰ ἀσόφους εἶναι, τὰ δὲ μικρὰ καὶ τυχηρὰ ἀμαθεῖς.",
     "author": "Zeno of Citium",
     "sources": [
@@ -37619,7 +37633,7 @@
     "type": "bio",
     "year": 93,
     "sr": "U to vreme i filozof Epiktet zbog te senatske odluke ode iz Rima u Nikopolj.",
-    "stsl": "Въ то врѣмѧ и Епиктетъ мѫдролюбъ того ради старѣишиньскаго съвѣта отъ Рима въ Никополь отъиде ·",
+    "stsl": "Въ то врѣмѧ и Епиктетъ любомѫдрьць того ради старѣишиньскаго съвѣта отъ Рима въ Никополь отъиде ·",
     "originalText": "Qua tempestate Epictetus quoque philosophus propter id senatusconsultum Nicopolim Roma decessit.",
     "author": "Epictetus",
     "sources": [
@@ -37667,7 +37681,7 @@
     "type": "bio",
     "year": 250,
     "sr": "Plotin, filozof, Platonov učenik i Porfirijev učitelj, beše na glasu u Atini.",
-    "stsl": "Плѡтинъ · мѫдролюбъ · Платѡновъ ѹченикъ и Порфѵриѥвъ ѹчитель · въ Атинахъ прослави сѧ ·",
+    "stsl": "Плѡтинъ · любомѫдрьць · Платѡновъ ѹченикъ и Порфѵриѥвъ ѹчитель · въ Атинахъ прослави сѧ ·",
     "originalText": "Plotinus, philosophus, Platonis discipulus et preceptor Porphirii, Athenis claruit.",
     "author": "Plotinus",
     "sources": [
