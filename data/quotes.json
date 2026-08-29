@@ -1625,7 +1625,7 @@
     "type": "bio",
     "year": -596.2,
     "sr": "Neki pak kažu da je uzrok kuge bio Kilonov greh i da je njegovo uklanjanje značilo oslobođenje; zbog toga su umrla dva mladića, Kratin i Ktesibije, i nesreća je bila razrešena.",
-    "stsl": "Нѣці глаголѭть · Кѵлоново скврьньство вѣ причіна морѹ · ѻтложєніє ѥго ѻсвовожденіє ꙁнамєноваашє · раді того дъва ѹноша · Кратінъ і Ктєсівіꙗ · ѹмрѣшѧ · і вѣда раꙁрѣші сѧ.",
+    "stsl": "Нѣці глаголѭть · Кѵлоново скврьньство вѣ вина морѹ · ѻтложєніє ѥго ѻсвовожденіє ꙁнамєноваашє · раді того дъва ѹноша · Кратінъ і Ктєсівіꙗ · ѹмрѣшѧ · і вѣда раꙁрѣші сѧ.",
     "originalText": "Οἱ δὲ τὴν αἰτίαν εἰπεῖν τοῦ λοιμοῦ τὸ Κυλώνειον ἄγος σημαίνειν τε τὴν ἀπαλλαγήν· καὶ διὰ τοῦτο ἀποθανεῖν δύο νεανίας, Κρατῖνον καὶ Κτησίβιον, καὶ λυθῆναι τὴν συμφοράν.",
     "author": "Epimenides",
     "sources": [
@@ -10398,7 +10398,7 @@
     "id": "mm-000581",
     "type": "reported",
     "sr": "Sve nastaje po nuždi; vrtlog je uzrok nastanka svega, i njega naziva nuždom.",
-    "stsl": "Вьсѧ по нѫжди бываѭть · вихрь же причина бытиꙗ вьсѣхъ єсть · єго же нѫждою нарицаєть ·",
+    "stsl": "Вьсѧ по нѫжди бываѭть · вихрь же вина бытиꙗ вьсѣхъ єсть · єго же нѫждою нарицаєть ·",
     "originalText": "πάντα τε κατ' ἀνάγκην γίνεσθαι, τῆς δίνης αἰτίας οὔσης τῆς γενέσεως πάντων, ἣν ἀνάγκην λέγει.",
     "author": "Democritus",
     "sources": [
@@ -10407,7 +10407,10 @@
         "reference": "IX.45"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.45"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.45",
+    "tags": [
+      "ἀνάγκη"
+    ]
   },
   {
     "_id": 604,
@@ -11282,7 +11285,7 @@
     "id": "mm-000636",
     "type": "quote",
     "sr": "Radije bih našao jedno uzročno objašnjenje nego zadobio persijsko carstvo.",
-    "stsl": "Радѣє єдинѫ причинѫ обрѣлъ быхъ · нежели Персьско царьство приѩлъ быхъ ·",
+    "stsl": "Радѣє єдино виньно слово обрѣлъ быхъ · нежели Персьско царьство приѩлъ быхъ ·",
     "originalText": "Δημόκριτος γοῦν αὐτός, ὥς φασιν, ἔλεγε βούλεσθαι μᾶλλον μίαν εὑρεῖν αἰτιολογίαν ἢ τὴν Περσῶν οἱ βασιλείαν γενέσθαι.",
     "author": "Democritus",
     "sources": [
@@ -12440,7 +12443,8 @@
       }
     ],
     "tags": [
-      "λόγος"
+      "λόγος",
+      "ἀνάγκη"
     ]
   },
   {
@@ -13249,6 +13253,9 @@
         "name": "hermann-diels",
         "reference": "68 B 239"
       }
+    ],
+    "tags": [
+      "ἀνάγκη"
     ]
   },
   {
@@ -13466,6 +13473,9 @@
         "name": "hermann-diels",
         "reference": "68 B 253"
       }
+    ],
+    "tags": [
+      "ἀνάγκη"
     ]
   },
   {
@@ -13598,7 +13608,8 @@
       }
     ],
     "tags": [
-      "εἶναι"
+      "εἶναι",
+      "ἀνάγκη"
     ]
   },
   {
@@ -13776,7 +13787,8 @@
     ],
     "tags": [
       "εἶναι",
-      "φύσις"
+      "φύσις",
+      "ἀνάγκη"
     ]
   },
   {
@@ -13918,6 +13930,9 @@
         "name": "hermann-diels",
         "reference": "68 B 289"
       }
+    ],
+    "tags": [
+      "ἀνάγκη"
     ]
   },
   {
@@ -17374,7 +17389,8 @@
       }
     ],
     "tags": [
-      "ἀΐδιος"
+      "ἀΐδιος",
+      "ἀνάγκη"
     ]
   },
   {
@@ -18562,6 +18578,9 @@
         "name": "hermann-diels",
         "reference": "B.116"
       }
+    ],
+    "tags": [
+      "ἀνάγκη"
     ]
   },
   {
@@ -23168,7 +23187,8 @@
       }
     ],
     "tags": [
-      "λόγος"
+      "λόγος",
+      "ἀνάγκη"
     ]
   },
   {
@@ -23374,7 +23394,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.33",
     "tags": [
       "εἶναι",
-      "κόσμος"
+      "κόσμος",
+      "ἀνάγκη"
     ]
   },
   {
@@ -24963,6 +24984,7 @@
     "tags": [
       "εἶναι",
       "ἀγένητος",
+      "ἀνάγκη",
       "ἕν"
     ]
   },
@@ -25080,7 +25102,8 @@
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:1038#ἐξεγένοντο",
     "tags": [
       "αἰθήρ",
-      "φύσις"
+      "φύσις",
+      "ἀνάγκη"
     ]
   },
   {
@@ -28749,7 +28772,10 @@
         "reference": "VIII.14"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.14"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.14",
+    "tags": [
+      "ἀνάγκη"
+    ]
   },
   {
     "_id": 1682,
@@ -29281,7 +29307,7 @@
     "id": "mm-001618",
     "type": "quote",
     "sr": "Sunce, Mesec i ostale zvezde su bogovi jer u njima preovlađuje toplota, uzrok života. Mesec je obasjan Suncem. Bogovi i ljudi su srodni jer čovek učestvuje u toploti, pa se Bog stara o čoveku.",
-    "stsl": "Слъньце · мѣсѧць и прочаꙗ звѣзды бози сѫть · въ нихъ бо теплота прѣвъзмогаєть · ꙗже причина живота єсть · Мѣсѧць слъньцемъ освѣштаєть сѧ · Бози и чловѣци сродьни сѫть · чловѣкъ бо теплотꙑ причѧстьнъ · тѣмь Богъ о чловѣцѣ печеть сѧ ·",
+    "stsl": "Слъньце · мѣсѧць и прочаꙗ звѣзды бози сѫть · въ нихъ бо теплота прѣвъзмогаєть · ꙗже вина живота єсть · Мѣсѧць слъньцемъ освѣштаєть сѧ · Бози и чловѣци сродьни сѫть · чловѣкъ бо теплотꙑ причѧстьнъ · тѣмь Богъ о чловѣцѣ печеть сѧ ·",
     "originalText": "ἥλιόν τε καὶ σελήνην καὶ τοὺς ἄλλους ἀστέρας εἶναι θεούς· ἐπικρατεῖ γὰρ τὸ θερμὸν ἐν αὐτοῖς, ὅπερ ἐστὶ ζωῆς αἴτιον. τήν τε σελήνην λάμπεσθαι ὑφ' ἡλίου. καὶ ἀνθρώπων εἶναι πρὸς θεοὺς συγγένειαν, κατὰ τὸ μετέχειν ἄνθρωπον θερμοῦ· διὸ καὶ προνοεῖσθαι τὸν θεὸν ἡμῶν.",
     "author": "Pythagoras",
     "sources": [
@@ -32926,7 +32952,10 @@
         "reference": "I.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.35"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.35",
+    "tags": [
+      "ἀνάγκη"
+    ]
   },
   {
     "_id": 1925,
@@ -37092,6 +37121,7 @@
     "tags": [
       "εἶναι",
       "λόγος",
+      "ἀνάγκη",
       "ἄπειρον"
     ]
   },
@@ -37131,6 +37161,7 @@
     "pointer": "data/sources/hermann-diels/philosophers/19-Zeno.txt:524#ἐλάττονα",
     "tags": [
       "εἶναι",
+      "ἀνάγκη",
       "ἄπειρον"
     ]
   },

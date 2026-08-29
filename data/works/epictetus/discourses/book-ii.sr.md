@@ -2307,6 +2307,7 @@ Ali ti nisi Herakle i ne možeš čistiti tuđa zla; nisi ni Tezej da očistiš 
 To se ne može drukčije izbaciti nego gledajući samo na boga, prianjajući samo uz njega i posvećujući se njegovim zapovestima. Ako pak želiš nešto drugo, uzdisat ćeš i stenjući slediti jačega, stalno tražeći srećan tok u spoljašnjem i nikada ga ne nalazeći. Jer ga tražiš onde gde ga nema, pošto si propustio da ga tražiš onde gde jeste.
 
 <!-- anchor:II.17 -->
+<!-- Zamenjen nekanonski prethodni tekst; čisti se zajedno sa završnom redakcijom knjige.
 Predpojmovi su svim ljudima zajednički i jedan predpojam ne protivreči drugome.
 
 Jer ko od nas ne smatra da je dobro korisno i poželjno i da mu u svakoj prilici treba težiti i za njim ići?
@@ -2573,6 +2574,48 @@ Kao čas moraš doći i kao čas proći.
 U vodi ili u groznici?
 
 Jer nekim takvim putem moraš proći.
+
+-->
+
+Prvi je posao onoga koji filozofira da odbaci uobraženje. Nemoguće je početi učiti ono za šta čovek misli da već zna.
+
+O onome što treba činiti i ne činiti, o dobru i zlu, lepom i ružnom, svi dolazimo filozofima već govoreći, hvaleći, kudeći, optužujući i presuđujući o lepim i ružnim načinima života. A zašto im dolazimo? Da naučimo ono za šta ne mislimo da znamo: njihove nauke. Želimo ih naučiti kao fine i oštre govore, a filozofi ih izlažu da bi nas po njima popravili.
+
+Smešno je, dakle, misliti da će neko učiti jedno, a naučiti drugo; ili da će napredovati u onome što ne uči. To vara mnoštvo, kao što je varalo govornika Teopompa kada je Platonu zamerao što hoće da određuje svaku stvar.
+
+Šta, naime, kaže? „Zar niko pre tebe nije govorio dobro ili pravedno? Ili smo te reči izgovarali nejasno i prazno, ne shvatajući šta svaka znači?” Ko ti kaže, Teopompe, da nismo imali prirodne pojmove i predpojmove o svakoj od tih stvari? Ali ne možemo ih primeniti na odgovarajuće pojedinačne stvari ako ih ne razložimo i ne ispitamo kojoj suštastvenosti svaku treba podvesti.
+
+I lekarima govori tako: ko od nas nije govorio o zdravom i bolesnom pre Hipokrata? Jesmo li te reči samo prazno ponavljali? Imamo neki predpojam o zdravom, ali ga ne umemo primeniti; zato jedan kaže: „Podiži ga”, drugi: „Daj mu hranu”, jedan: „Pusti krv”, drugi: „Stavi čašice.” Uzrok je što predpojam zdravoga ne umeju valjano da primene na pojedinačni slučaj.
+
+Tako je i u životu. Ko ne govori o dobru, zlu, korisnom i štetnom? Ko nema neki predpojam o svakome od toga? Ali pokaži da je razrađen i potpun: primeni ga dobro na pojedinačne stvari. Platon podvodi određenja pod predpojam korisnog, a ti pod predpojam nekorisnog. Možete li obojica biti u pravu? Kako bi to bilo moguće? Zar jedan ne primenjuje predpojam dobra na bogatstvo, uživanje ili zdravlje, a drugi ne?
+
+Kad bi svi koji izgovaraju te nazive zaista znali šta svaki znači i ne bi im bilo potrebno da razrađuju predpojmove, zašto bismo se sporili, ratovali i kudili jedni druge?
+
+Ali ostavimo sada sporove među ljudima. Ako ti sam pravilno primenjuješ predpojmove, zašto ti život teče loše i zašto nailaziš na prepreke? Ostavimo drugi deo, o pobudama i umeću dužnog delanja, i treći, o pristancima. Stojmo samo na prvom, koji gotovo očigledno pokazuje da predpojmove ne primenjujemo dobro.
+
+Želiš li ono što je moguće i što je do tebe? Zašto si onda sprečen i zašto ti život teče loše? Ne izbegavaš li ono što je nužno? Zašto onda upadaš u ono što nećeš, zašto si nesrećan, zašto se ono što hoćeš ne događa, a događa se ono što nećeš? To je najveći dokaz lošeg toka i nesreće: „Hoću nešto, a ne biva; šta je jadnije od mene? Neću nešto, a biva; šta je jadnije?”
+
+Zato je Medeja, ne podnoseći to, došla do ubistva dece; u tome je imala snažnu narav. Imala je predstavu kakvu treba: da čoveku ne uspeva ono što hoće. „Tako ću se osvetiti onome koji me je uvredio.” A kakva je korist od toga što je on tako loše raspoložen? „Ubiću decu, ali time ću kazniti i sebe.” — „Šta me briga?” To je slom duše s velikim žilama. Nije znala gde leži da činimo ono što hoćemo: da to ne treba uzimati spolja, premeštajući i preuređujući stvari.
+
+Ne želi čoveka, pa neće ostati ništa što hoćeš a da se ne zbude. Ne želi po svaku cenu da on živi s tobom; ne želi ostati u Korintu; ne želi uopšte ništa drugo osim onoga što bog hoće. Ko će te tada sprečiti ili prisiliti — išta više nego Zevsa? Kad imaš takvog vođu i s njim isto hoćeš i želiš, čega se još bojiš da nećeš uspeti?
+
+Prepusti želju i izbegavanje siromaštvu i bogatstvu: promašićeš i upašćeš. Prepusti ih zdravlju, službama, počastima, otadžbini, prijateljima, deci — bilo čemu što nije u proizvoljenju — i bićeš nesrećan. Predaj ih Zevsu i drugim bogovima: neka oni njima upravljaju i neka budu uređeni s njima; gde ćeš onda još imati loš tok?
+
+Ako, jadniče, zavidiš, sažaljevaš, ljubomorišeš i drhtiš, ako nema dana kada ne plačeš nad sobom i bogovima, kako još kažeš da si obrazovan? Kakvo obrazovanje: zato što si vežbao promenljive silogizme? Nećeš li, ako možeš, odučiti sve to i početi iznova, svesno da se do sada nisi ni dotakao stvari; pa otud graditi dalje: da se ne desi ništa što ne želiš i da ne izostane ništa što želiš?
+
+Dajte mi jednoga mladića koji je s takvom namerom došao u školu, koji je postao takmičar u toj stvari i kaže: „Neka sve drugo prođe; dosta mi je ako jednom budem mogao živeti bez prepreke i bez bola, podići vrat pred stvarima kao slobodan i gledati u nebo kao prijatelj boga, ne bojeći se ničega što se može dogoditi.” Pokažite mi takvoga, da kažem: „Dođi, mladiću, u ono što je tvoje. Tebi je suđeno da ukrasiš filozofiju; tvoji su ti posedi, tvoje knjige i tvoji govori.”
+
+Kada se tako potrudi i savlada taj deo, neka mi opet dođe i kaže: „Hoću da budem i bez strasti i neuznemiren; hoću da kao pobožan, filozof i marljiv čovek znam šta mi dolikuje prema bogovima, roditeljima, braći, otadžbini i strancima.” Onda dođi i na drugi deo: i on je tvoj.
+
+— Ali već sam uvežbao i drugi deo; hoću da sigurno i nepokolebljivo, ne samo budan nego i spavajući, pijan i u melanholiji… — Ti si bog, čoveče; imaš velike namere.
+
+— Ne; hoću da znam šta Hrisip kaže u spisima O lažljivcu. — Zar se nećeš obesiti s takvom namerom, jadniče? Kakva će ti biti korist? Čitaćeš sve plačući, pa ćeš drhteći drugima govoriti.
+
+Tako i vi radite: „Hoćeš li mi pročitati, brate?” — „I ti meni.” „Divno pišeš, čoveče; a ti si sjajno pogodio Ksenofontov stil, ti Platonov, ti Antistenov.” I kada jedni drugima ispričate snove, vraćate se na isto: isto želite i izbegavate, jednako se pokrećete i naumljavate, isto se molite i oko istoga trudite. Ne tražite ni onoga ko bi vas podsetio, nego se ljutite kad ovo čujete.
+
+Onda govorite: „Starac je bez ljubavi; kad sam odlazio, nije zaplakao niti rekao: ‘U kakvu nevolju odlaziš, dete; ako se spaseš, zapaliću svetiljke.’” Je li to delo ljubavi? Veliko će ti dobro biti ako se takav spaseš, pa vredno svetiljki! Moraš, naime, biti besmrtan i bez bolesti.
+
+Odbacivši, dakle, uobraženje da znaš nešto korisno, treba pristupati ovom govoru kao geometriji ili muzici. Ako ne, nećemo biti ni blizu napretka, makar prošli sve uvode i rasprave Hrisipove, Antipatrove i Arhedemove.
 
 <!-- anchor:II.18 -->
 Svaka navika i sposobnost održava se i jača odgovarajućim delima: navika hodanja — hodanjem, navika trčanja — trčanjem.
