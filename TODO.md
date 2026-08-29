@@ -30,9 +30,13 @@ probleme.
 
 - DILEMA — u prvom Epiktetovom fragmentu `ἀμερής` nije isto što i rečnički
   `ἄτομος — недѣлимъ`; pre prevođenja treba odrediti odgovarajući slovenski
-  termin. Fragmenti sa `κόσμος` čekaju već navedenu odluku o njegovom smislu.
+  termin.
 
 ## P4 — terminologija i UI
 
-- proveriti glavne filozofske termine ručno (ne AGENT) u rečniku
+- na stranici taga dodati latiničnu transkripciju grčkog, kao što već imamo u rečniku, na stranici citata i drugde
+- ažurirati nova značenja u json i works:
+| ἄτομος            | несѣчимо                              | nesečivo                        |
+| ἀμερής            | недѣлимо                              | nedeljivo                       |
+- proveriti glavne filozofske termine ručno (AGENT stop) u rečniku
    - κόσμος

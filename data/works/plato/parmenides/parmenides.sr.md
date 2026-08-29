@@ -426,7 +426,7 @@ Pošto je Zenon to rekao, Antifont reče da je Pitodor pripovedao kako su i on s
 
 A Parmenid reče:
 
-— Moram poslušati. Pa ipak, čini mi se da osećam ono što Ivik kaže za staroga konja trkača, <!-- anchor:137a -->koji, kada treba da se nadmeće kolima, drhti pred onim što dolazi, znajući iz iskustva.
+— Moram poslušati. Pa ipak, čini mi se da osećam ono što Ivik kaže za staroga konja trkača, <!-- anchor:137a -->koji, dok se kao star i iskusan takmičar sprema da se nadmeće kolima, strepi pred onim što dolazi; poredeći sebe s njim, reče da i sam, premda star, nerado mora poći u ljubav. I ja se, setivši se toga, veoma bojim kako ću u ovim godinama preploviti takvo i toliko more reči. Ipak, treba vam učiniti po volji, jer smo, kako Zenon kaže, sami.
 
 <!-- anchor:137b -->
 — Odakle ćemo, dakle, početi i šta ćemo prvo pretpostaviti? Ili hoćete, pošto već izgleda da se igramo ovom trudnom igrom, da počnem od sebe i od svoje pretpostavke, pretpostavivši o samom jednom: bilo da jedno jeste bilo da nije jedno, šta nužno sledi?
@@ -502,8 +502,15 @@ A Parmenid reče:
 
 <!-- anchor:138a -->— Nije, dakle, ni pravo ni okruglo, budući da nema delove.
 
-<!-- anchor:138b -->
-— Jer nemoguće je da nešto bude u nečemu što ga ne obuhvata.
+— Pa ipak, takvo ne bi bilo nigde: ni u drugome ni u sebi.
+
+— Kako?
+
+— Kada bi bilo u drugome, ono u čemu bi bilo obuhvatalo bi ga nekakvim krugom i mnogim ga delovima dodirivalo; ali jedno, budući bez delova i ne učestvujući u krugu, ne može na mnogim mestima dodirivati krug.
+
+— Ne može.
+
+— A samo bi, budući u sebi, obuhvatalo samo sebe, a ne nešto drugo, ako je u <!-- anchor:138b -->sebi; jer nemoguće je biti u nečemu što ne obuhvata.
 
 — Nemoguće.
 
@@ -633,7 +640,7 @@ A Parmenid reče:
 
 — Nipošto.
 
-<!-- anchor:139d -->
+— A ako ne time, neće biti drugo ni samo po sebi; a ako ne po sebi, nije ni ono samo. A ako nikako nije ono samo, neće biti drugo <!-- anchor:139d -->ni od čega.
 — Pravo.
 
 — Niti će pak biti isto sebi.
@@ -1275,21 +1282,21 @@ A Parmenid reče:
 — Učestvovalo bi.
 
 <!-- anchor:147b -->
-— Ako su pak i jedno i druga nekako delovi celine, onda bi jedno bilo srodno drugima i druga jednom.
+— Ako je, dakle, jedno sasvim jedno, a druga nisu jedno, onda jedno ne bi bilo deo drugih niti celina sastavljena od delova; niti bi druga bila delovi jednog niti celina kojoj je jedno deo.
 
-— Tako izgleda.
+— Ne bi.
 
-— A ono što je srodno nečemu slično mu je.
+— Ali rekosmo da ono što jedno drugome nije ni deo ni celina niti drugo, mora biti isto jedno s drugim.
 
-— Da.
+— Rekosmo.
 
-— Jedno bi, dakle, bilo slično drugima, a druga jednom.
+— Hoćemo li, dakle, reći da je jedno, tako stojeći prema ne-jednom, isto s njime?
 
-— Svakako.
+— Hoćemo.
 
-— A ako je slično, nije li i isto po nečemu?
+— Jedno je, dakle, kako izgleda, drugo od drugih i od sebe, a isto i s njima i sa sobom.
 
-— Nužno.
+— Izgleda da iz rasuđivanja tako sledi.
 
 <!-- anchor:147c -->
 — Zar je, dakle, jedno i slično i neslično sebi i drugima?
@@ -1748,23 +1755,17 @@ ne?
 — Jesu.
 
 <!-- anchor:153a -->
-— Da.
+— Ipak možeš reći ovo: druga od jednog, ako su druga a ne drugo, više su od jednog; jer ono što je drugo bilo bi jedno, a budući druga, više su od jednog i imala bi mnoštvo.
 
-— A šta je po prirodi prvo: jedno ili druga?
+— Imala bi.
 
-— Jedno.
+— A budući mnoštvo, učestvovala bi u broju većem od jednog.
 
-— A prvo je, valjda, ranije nastalo, a kasnije kasnije?
+— Kako ne?
 
-— Nužno.
+— Šta onda? Hoćemo li reći da brojnija nastaju i nastala su pre, ili malobrojnija?
 
-— A ono što je ranije nastalo starije je, a ono što je kasnije nastalo mlađe?
-
-— Da.
-
-— Jedno je, dakle, starije od drugih, a druga mlađa od jednog.
-
-— Tako je.
+— Malobrojnija.
 
 <!-- anchor:153b -->
 — Najmanje, dakle, nastaje prvo; a to je jedno. Zar ne?
@@ -1780,45 +1781,41 @@ ne?
 — Bila bi.
 
 <!-- anchor:153c -->
-— A šta? Zar jedno nije nastalo protivno svojoj prirodi?
+— A šta onda? Bi li jedno nastalo protiv svoje prirode, ili je to nemoguće?
 
-— Kako?
+— Nemoguće.
 
-— Ako je jedno, nema delova.
+— Ali jedno se pokazalo da ima delove; a ako ima delove, ima i načelo, kraj i sredinu.
 
-— Kako bi?
+— Da.
 
-— Dakle, neće nastati ni posle delova, ako je celina sastavljena od delova; jer bi tada jedno nastalo poslednje od svega.
+— Ne nastaje li, dakle, načelo prvo od svega: i od samoga jednog i od svakoga drugog; pa za načelom sve ostalo do kraja?
 
-— Očigledno.
+— Svakako.
 
-— A ono što nastaje poslednje nastaje mlađe od drugih.
+— A sve to drugo, reći ćemo, delovi su i celine i jednog; ono samo pak zajedno s krajem nastaje kao jedno i celina.
 
-— Mlađe.
+— Reći ćemo.
 
-— Tako bi jedno bilo i mlađe od drugih.
-
-— Izgleda.
+— A kraj, mislim, nastaje poslednji; s njime po prirodi nastaje jedno.
 
 <!-- anchor:153d -->
-— A šta je s drugim? Nije li nužno da su druga nastala posle jednog?
-
-— Nužno.
-
-— Tako bi, dakle, druga bila starija od jednog, a jedno mlađe od drugih.
+— Prema tome, ako je nužno da jedno samo ne nastaje protiv svoje prirode, onda će, nastajući sa krajem, po prirodi nastati poslednje od drugih.
 
 — Izgleda.
 
-— Šta onda? Načelo svakog nastajanja nije li prvo nastalo?
+— Jedno je, dakle, mlađe od drugih, a druga starija od jednog.
+
+— Tako opet izgleda.
+
+— A šta onda? Nije li nužno da načelo, ili bilo koji drugi deo jednoga ili čega drugog, ako je deo a ne delovi, bude jedno?
 
 — Nužno.
 
-— A načelo nije ništa drugo nego jedno; jer načelo svega ne bi bilo načelo kada ne bi bilo jedno.
-
-— Istina.
+— Jedno bi, dakle, nastajalo zajedno s prvim koji nastaje i
 
 <!-- anchor:153e -->
-— Dakle, jedno bi nastajalo zajedno s prvim što nastaje i zajedno s drugim, i ne izostaje ni od jednog od drugih što nastaju, ma šta se pridodavalo bilo čemu, sve dok, prošavši do poslednjega, ne postane celo jedno; ne izostajući pri nastajanju ni od srednjega, ni od prvoga, ni od poslednjega, niti od ijednoga drugog.
+zajedno s drugim, i ne izostaje ni od jednog od drugih što nastaju, ma šta se pridodavalo bilo čemu, sve dok, prošavši do poslednjega, ne postane celo jedno; ne izostajući pri nastajanju ni od srednjega, ni od prvoga, ni od poslednjega, niti od ijednoga drugog.
 
 — Istina.
 

@@ -399,71 +399,17 @@ A ko je gospodar?
 Onaj koji ima vlast nad onim čemu težiš ili što otklanjaš.
 
 <!-- anchor:II.3 -->
-Građa dobroga čoveka jeste njegov vlastiti vladajući deo, kao što je telo lekaru i vežbaču, a zemlja zemljoradniku.
+Diogen je lepo odgovorio onome koji je od njega tražio preporučno pismo:
 
-Delo dobroga čoveka jeste da se predstavama služi po prirodi.
+— Da si čovek, videće čim te vidi; a jesi li dobar ili zao, ako ume razlikovati dobre od zlih, videće; ako ne ume, ne bi znao ni kada bih mu deset hiljada puta pisao.
 
-Jer kao što je svakome razmislu prirodno da pristaje istinitome, odbacuje lažno, a prema nejasnome uzdržava sud, tako je i prema težnji prirodno da se kreće ka dobru, prema otklonu da se uklanja od zla, a prema porivu i protivporivu da se kreće ka onome što mu pripada i uklanja od onoga što mu ne pripada.
+To je kao kada bi drahma tražila da je neko preporuči radi provere. Ako taj ume prosuditi srebro, sama ćeš se preporučiti.
 
-Kao što, dakle, stolar ne dolazi i ne govori:
+Trebalo bi da i u životu imamo nešto takvo kao u pitanju srebra, da možemo reći kao što poznavalac srebra kaže: Donesi koju god hoćeš drahmu, pa ću je razlučiti.
 
-Čujte me kako raspravljam o tesarstvu,
+Ali za silogizme kažemo: Donesi koji god hoćeš, pa ću ti razlučiti koji je razložan, a koji nije. Zašto? Jer umem razlagati silogizme; imam moć koju treba imati onaj ko prepoznaje one koji u silogizmima valjano postupaju.
 
-nego sklopi ugovor za kuću i načini je, pa time pokazuje da zna umeće —
-
-tako učini i ti.
-
-Jedi kao čovek, pij kao čovek, ukrašavaj se, ženi se, imaj decu, učestvuj u građanskom životu.
-
-Podnosi uvrede, trpi nerazumna brata, oca, sina, suseda, saputnika.
-
-Pokaži nam to, da vidimo jesi li zaista išta naučio od filozofa.
-
-Ne:
-
-Dođite i čujte kako ću vam čitati komentare.
-
-Idi, traži kome ćeš ih izbljuvati.
-
-Ja ću vam protumačiti Hrisipove spise kao niko drugi; raščlaniću njegove reči najjasnije; možda ću dodati i nešto od Antipatra i Arhedema.
-
-Zar zbog toga mladići treba da napuste svoju otadžbinu i roditelje, da bi došli i slušali tebe kako tumačiš sitne reči?
-
-Zar ne treba da se vrate trpeljivi, delatni, nepomućeni, neustrašivi, snabdeveni takvom popudbinom za život da mogu podnositi ono što se događa i njime se ukrasiti?
-
-A kako možeš dati ono što sam nemaš?
-
-Zar si od početka činio išta drugo nego trošio vreme na razrešavanje silogizama, promenljivih iskaza i pitanja?
-
-Ali taj i taj ima školu.
-
-I ja hoću da imam školu.
-
-Zar je to, robe, do tebe?
-
-Nije li ti potrebno određeno mesto, klupe, tabla?
-
-Nije li potrebno da imaš i kakav ukras?
-
-A onda:
-
-Kako je onaj otvorio školu?
-
-A taj i taj?
-
-Zar ne treba da je otvorim i ja?
-
-Ne, čoveče.
-
-Škola se ne otvara na taj način.
-
-Nego ako imaš mnenja kakva treba, ako imaš proizvoljenje kakvo treba, ako imaš težnju i otklon kakve treba — tada je otvori.
-
-Ako nemaš, to nije škola nego lekarska radnja.
-
-Ako hoćeš, nazovi je i radnjom za lečenje duša.
-
-Ali ne nazivaj je školom dok ne budeš mogao pokazati da oni koji ti dolaze izlaze bolji nego što su ušli.
+A šta činim u životu? Čas nekoga nazovem dobrim, čas zlim. Uzrok je upravo suprotan nego kod silogizama: neukost i neiskustvo.
 
 <!-- anchor:II.4 -->
 Dok je Epiktet govorio da je čovek po prirodi rođen za vernost i da onaj koji je ruši, ruši ono što je čoveku svojstveno, uđe jedan od onih koje smatraju učenim ljudima, a koji je jednom u gradu bio zatečen u preljubi.
@@ -661,111 +607,81 @@ Ne bacaj je previsoko.
 
 To bi zaista bila svađa, a ne igra.
 
-Zato je Sokrat znao igrati loptom.
+Zato je Sokrat umeo igrati loptom.
 
 Kako?
 
-Znao je igrati na sudu.
+Igrao se na sudu.
 
-Reče:
+Reci mi, Anite: kako kažeš da ne priznajem božanstvo?
 
-Anite i Melete, možete me ubiti, ali mi ne možete nauditi.
+Šta su po tvome mišljenju daimoni?
 
-Jer je znao da igra.
+Nisu li ili deca bogova ili neka mešavina ljudi i bogova?
 
-Znao je primiti loptu.
+Pošto je to priznao, ko bi, dakle, po tvome mišljenju mogao držati da postoje mazge, a magarci ne postoje?
 
-A mi, kada je stvar malo ozbiljnija, govorimo:
+Tako se igrao kao loptom.
 
-Pazi da je primiš.
+A šta je tada bila lopta usred igre?
 
-Nemoj je ispustiti.
+Okovi, progonstvo, ispijanje otrova, oduzimanje žene, ostavljanje dece kao siročadi.
 
-Ako je ispustim, nesrećan sam.
+Time se igrao, pa ipak nije nimalo manje igrao i loptom rukovao skladno.
 
-Čoveče, nije nesreća ispustiti loptu.
+Tako se i mi moramo vrlo pažljivo starati, a prema onome što nam se daje ostati ravnodušni kao prema lopti.
 
-Nesreća je nevaljano je primati i bacati.
+Jer svakako treba pokazivati umeće oko neke spoljašnje građe, ali ne prihvatati tu građu kao vrednost, nego ma kakva ona bila, pokazati umeće u postupanju s njom.
 
-Tako je i u životu.
+Tako ni tkalac ne pravi vunu, nego pokazuje umeće na vuni kakvu god da dobije.
 
-Ako spoljašnje stvari učinimo građom, a služenje njima svojim delom, niko nas neće sprečiti niti prisiliti.
+Neko drugi ti daje hranu i imanje, pa ih može i oduzeti, čak i samo telo.
 
-Ali ako same stvari smatramo svojim, odmah smo robovi.
+Ti, dakle, uzmi tu građu i obradi je.
 
-Ko ih ima u vlasti, taj ima i nas.
+Ako zatim izađeš ne pretrpevši ništa, drugi će ti, susrećući te, čestitati što si se spasao.
 
-Ko mi onda može nauditi?
+Ali onaj koji ume gledati takve stvari, ako vidi da si se u tome držao kako dolikuje, pohvaliće te i radovati se s tobom; a ako te vidi sačuvanog zbog nekog nedoličnog postupka, učiniće suprotno.
 
-Ja sam sebi.
+Jer gde se s razlogom raduje, tu se i raduje s drugim.
 
-Ko mi može pomoći?
+Kako se, dakle, za nešto spoljašnje kaže da je po prirodi ili protiv prirode?
 
-Ja sam sebi.
+Kao da smo nezavisna bića.
 
-To je ono što znači imati svoje dobro i zlo u vlastitoj moći.
+Jer za stopalo bih rekao da mu je po prirodi da bude čisto; ali ako ga uzmeš kao stopalo, a ne kao odvojeno, priliči mu da stane u blato, da gazi trnje i ponekad da bude odsečeno radi celine; inače više neće biti stopalo.
 
-Zato se prema stvarima treba odnositi kao prema građi, ne nemarno, nego vešto; a prema ishodu kao prema nečemu što nije naše.
+Tako nešto treba pretpostaviti i o nama.
 
-Kao što tkalac ne smatra vunu dobrim ili zlim, nego se stara da je valjano upotrebi, tako i dobar čovek od svake stvari koja mu se dogodi načini nešto dobro.
+Šta si ti?
 
-Bolest mu je građa.
+Čovek.
 
-Smrt mu je građa.
+Ako te posmatraš kao odvojeno biće, po prirodi ti je živeti do starosti, bogatiti se i biti zdrav.
 
-Siromaštvo mu je građa.
+Ali ako se posmatraš kao čovek i deo neke celine, radi te celine sada ti priliči da oboliš, sada da ploviš i budeš u opasnosti, sada da oskudevaš, a ponekad i da umreš pre vremena.
 
-Kleveta mu je građa.
+Zašto se onda negoduješ?
 
-Vlast mu je građa.
+Ne znaš li da, kao što ono više ne bi bilo stopalo, tako ni ti više ne bi bio čovek?
 
-Nevlast mu je građa.
+Šta je, naime, čovek?
 
-I iz svega toga može načiniti delo po prirodi.
+Deo grada: najpre onoga sastavljenog od bogova i ljudi, a zatim i grada koji se tako naziva i koji je, koliko je moguće, mala slika celine.
 
-Kao što Herakle nije bio Herakle zbog toga što je želeo da nema lava, hidre, vepra, nepravedne i divlje ljude.
+Šta onda ako sada meni sude, drugoga trese groznica, drugi plovi, drugi umire, a drugi je osuđen?
 
-Šta bi radio da ničega takvog nije bilo?
+Jer u ovakvom telu, u ovom okruženju i među ovim bićima koja žive s nama, nemoguće je da se jednima ne dogode jedne, a drugima druge takve stvari.
 
-Očigledno bi se umotao i spavao.
+Tvoj je posao da dođeš, kažeš što treba i urediš to kako dolikuje.
 
-Ali najpre ne bi ni postao Herakle spavajući čitav život u takvoj mekoći.
+A onda on kaže: „Presuđujem da činiš nepravdu.”
 
-A i da je postao, kakva bi mu bila korist?
+Neka ti je dobro.
 
-Čemu bi služile njegove ruke, snaga, postojanost i plemenitost da ga takve prilike i građa nisu potresale i vežbale?
+Ja sam učinio svoje; jesi li i ti učinio svoje, sam ćeš videti.
 
-Šta onda?
-
-Zar je trebalo da sam sebi pribavi lava i vepra i dovede tiranina u zemlju?
-
-To bi bilo bezumlje i ludost.
-
-Ali kada su se već pojavili i našli, bili su korisni da pokažu i izvežbaju Herakla.
-
-Dođi, dakle, i ti, pošto si to spoznao, pa pogledaj sile koje imaš.
-
-Pogledavši ih, reci:
-
-Donesi sada, Zevse, kakvu hoćeš teškoću.
-
-Jer imam pripravu koju si mi dao i sredstva da se onim što se dogodi ukrasim.
-
-Ne.
-
-Sedite i drhtite da se nešto ne dogodi, ili jadikujete, tugujete i stenjete zbog onoga što se dogodilo.
-
-A onda bogove optužujete.
-
-Jer šta drugo može slediti iz takve niskosti nego bezbožnost?
-
-A ipak nam Bog nije samo dao te sile kojima možemo podneti sve što se dogodi a da nas ono ne ponizi niti slomi, nego ih je, kako dolikuje dobrom kralju i istinskom ocu, dao nezaprečive, neprinudive i nesputane, i potpuno ih učinio našim, ne ostavivši ni sebi vlast da ih spreči ili sputava.
-
-A ti, imajući sve to slobodno i svoje, ne služiš se njime niti spoznaješ šta si primio ni od koga, nego sediš plačući i stenjući, čas slep prema davaocu i ne poznajući dobročinitelja, čas ga optužujući zbog niskosti i neplemenitosti.
-
-Jer da imaš sile za veličinu duha i srčanost, to ti mogu pokazati.
-
-Ti meni pokaži kakve sile imaš za optuživanje i jadikovanje.
+Jer i za njega postoji neka opasnost, da ne smetneš s uma.
 
 <!-- anchor:II.6 -->
 Pretpostavljeni iskaz je ravnodušan; sud o njemu nije ravnodušan, nego je ili znanje, ili mnenje, ili zabluda.
@@ -1519,189 +1435,113 @@ Jer na svet ne dolazimo imajući pojam o pravouglom trouglu ili polutonu, nego t
 
 Ali ko je došao bez urođenoga pojma dobra i zla, lepoga i sramotnoga, prikladnoga i neprikladnoga, sreće, onoga što dolikuje, i šta treba činiti a šta ne treba?
 
-Zato se svi služimo tim imenima i nastojimo da svoje pretpostavke prilagodimo tim predpojmovima.
+Zato se svi služimo tim imenima i nastojimo da predpojmove primenimo na pojedinačne stvari.
 
-On je dobro učinio, kako je trebalo; nije kako je trebalo; srećan je, nesrećan je; pravedan je, nepravedan je.
+„Dobro je postupio; kako dolikuje; ne kako dolikuje; bio je nesrećan; bio je srećan; nepravedan je; pravedan je.”
 
 Ko se od nas uzdržava od tih imena?
 
-Ko od nas odlaže njihovu upotrebu dok ih ne nauči, kao što oni koji ne poznaju crte ili glasove?
+Ko od nas odlaže njihovu upotrebu dok ih ne nauči, kao što oni koji ne znaju o crtama ili glasovima?
 
-Uzrok je to što dolazimo već nekako poučeni od prirode o tim stvarima, a polazeći odatle dodali smo i mnenje.
+Uzrok je što smo o tim stvarima već od prirode nekako poučeni, pa smo, polazeći od toga, stekli i uobraženje.
 
-Ali, Zevsa mi, ja znam šta je lepo i sramotno.
+„Pa zar ja ne znam lepo i sramotno? Zar nemam predpojam o tome?”
 
-Otkuda znaš?
+Imaš.
 
-Naučio sam.
+„Zar ga ne primenjujem na pojedinačne stvari?”
 
-Ko te je naučio?
+Primenjuješ.
 
-Mnenje.
+„Zar ga onda ne primenjujem dobro?”
 
-A odakle znaš šta je pravedno i nepravedno?
+Tu je sav problem, i tu nastaje uobraženje.
 
-Mnenje.
+Jer, polazeći od onoga što je prihvaćeno, zbog neprikladne primene predpojmova dospevamo do onoga što je sporno.
 
-A šta je sreća?
+Kad bismo, uz ono prvo, posedovali i ovo, šta bi nas sprečavalo da budemo savršeni?
 
-Mnenje.
+Ali sada, pošto misliš da predpojmove i primereno primenjuješ na pojedinačne stvari, reci mi: odakle to uzimaš?
 
-A šta je ono što treba izabrati i otkloniti?
+„Zato što mi se tako čini.”
 
-Mnenje.
+Pa i onome kome se ne čini tako, čini se da ih primenjuje dobro. Ili ne misli tako?
 
-A šta je ono što treba činiti i ne činiti?
+Misli.
 
-Mnenje.
+Možete li onda obojica, kada imate oprečna mnenja, predpojmove primenjivati primereno?
 
-Pa zar mnenje nije upravo ono zbog čega se ljudi međusobno prepiru?
+Ne možete.
 
-Zar Egipćani nemaju mnenje da je nešto lepo što drugi smatraju sramotnim?
+Imaš li, dakle, da nam pokažeš nešto više od toga što se tebi čini, po čemu bi ih bolje primenjivao?
 
-Zar Jevreji nemaju drukčije mnenje od Sirijaca?
+Čini li lud čovek išta drugo osim onoga što mu se čini lepim?
 
-Zar oni u Rimu nemaju drukčije mnenje od Helena?
+Pa je li i njemu dovoljno to merilo?
 
-Zar ono što je sada lepo nije nekada smatrano sramotnim, i obratno?
+Nije.
 
-Šta onda?
+Dođi, onda, do nečega višeg od onoga što ti se čini. Šta je to?
 
-Jesu li sva mnenja istinita?
+Evo početka filozofije: svest o sukobu ljudi među sobom, traženje uzroka sukoba, osuda i nepoverenje prema pukom utisku, ispitivanje da li je utisak ispravan, i nalaženje nekog merila — kao što smo za težine našli vagu, a za pravo i krivo visak.
 
-Kako bi mogla, kada su protivna jedna drugima?
+„Je li to početak filozofije: da je sve što se svima čini dobro uređeno?”
 
-Dakle, nisu sva.
+Kako bi moglo biti da su oprečne stvari dobro uređene?
 
-Ali moje jeste.
+„Dakle, nisu sve, nego ono što se nama čini.”
 
-Zašto tvoje više nego Sirijčevo ili Egipćaninovo?
-
-Više nego mnenje toga i toga?
+Zašto više ono što se čini Sirijcima nego Egipćanima, zašto više ono što se čini meni nego nekome drugom?
 
 Ni po čemu.
 
-Nije, dakle, dovoljno da se nešto čini istinitim da bi bilo istinito.
+Dakle, nije dovoljno da se svakome nešto čini da bi to bilo tako.
 
-Jer ni kod težina ni kod mera ne zadovoljavamo se prividom, nego smo za svaku našli neko merilo.
+Jer ni pri težinama ni pri merama ne zadovoljavamo se pukim utiskom, nego smo za svaku stvar našli neko merilo.
 
-A ovde nema nikakva merila iznad mnenja?
+Zar ovde nema merila višeg od onoga što se čini?
 
-Pa kako bi bilo moguće da ono što je među ljudima najnužnije nema nikakva znaka po kome se može spoznati?
+Kako bi ono što je ljudima najnužnije moglo biti bez znamenja i neistraživo?
 
-Ima, dakle, merilo.
+Ima, dakle, takvo merilo.
 
-Zašto ga onda ne tražimo i ne nalazimo, pa se potom njime služimo bez prestanka, ne pomerajući ni prst bez njega?
+Pa zašto ga ne tražimo i ne nalazimo, a kada ga nađemo, zašto se njime ne služimo nepovredivo, ne pružajući ni prst bez njega?
 
-Jer mislim da je upravo to ono što, kada se pronađe, izbavlja od bezumlja one koji se u svemu služe samo mnenjem kao merom.
+Jer mislim da upravo ono, kad se pronađe, oslobađa ludila one koji se u svemu služe samo svojim utiskom kao merom, da bismo potom, polazeći od poznatih i jasno razlučenih stvari, predpojmove primenjivali na pojedinačne stvari.
 
-Tada ćemo, polazeći od poznatih i jasno razlučenih stvari, primenjivati predpojmove na pojedinačne stvari, pošto ih prethodno raščlanimo.
+Koja je stvar sada pred nama, o kojoj ispitujemo?
 
-Šta je ovo što mi se sada ukazalo?
+Uživanje.
 
-Čovek.
+Hajde, prinesimo ga merilu, stavimo ga na vagu.
 
-Primenimo merilo.
+Dobro mora biti takvo da je vredno pouzdanja i da se u njega može uzdati, zar ne?
 
-Šta je čovek?
+Mora.
 
-Smrtno slovesno živo biće.
+Je li, onda, vredno uzdati se u nešto nepostojano?
 
-Po čemu se razlikuje?
+Nije.
 
-Po slovesnosti.
+Je li uživanje postojano?
 
-Pazi onda da ne učiniš nešto što će pogubiti tu razliku.
+Nije.
 
-Je li uživanje dobro?
+Podigni ga, onda, i izbaci iz vage; odgurni ga daleko iz oblasti dobara.
 
-Primeni merilo.
+Ako pak ne vidiš oštro i jedna ti vaga nije dovoljna, uzmi drugu.
 
-Pripada li onome što je do nas?
+Je li u pogledu dobra dostojno uzdići se?
 
-Ne.
+Jeste.
 
-Onda nije dobro.
+Je li, onda, dostojno uzdići se zbog prisutnog uživanja?
 
-Je li proizvoljenje dobro?
+Pazi da ne kažeš da jeste; inače te više neću smatrati dostojnim ni vage.
 
-Da.
+Tako se stvari prosuđuju i učvršćuju kada su merila pripremljena.
 
-Je li uživanje građa proizvoljenja?
-
-Da.
-
-Neka se, dakle, pokaže kakvo je proizvoljenje u služenju njime.
-
-Odakle treba početi?
-
-Od stvari koje su jasno poznate.
-
-Ali svi govore da je proučavanje pojedinačnih stvari veoma teško.
-
-Zar je samo to teško?
-
-Nije li teško i razumeti šta je zdravlje?
-
-Nije li teško i razlučiti šta je dobro, a šta zlo?
-
-Ko kaže da je lako?
-
-A ko je početnik?
-
-Onaj koji zna da ne zna ono što ne zna.
-
-Jer mnenje prilazi svakome i prisiljava ga da veruje kako mu ništa ne nedostaje.
-
-Ko, naime, dolazi u školu misleći da ne zna šta je dobro i zlo?
-
-Niko.
-
-Nego dolazi govoreći:
-
-Hoću da naučim kako da ubedim brata da se ne gnevi na mene.
-
-Robe, hoćeš li da naučiš kako da ga prisiliš?
-
-Ne.
-
-Kako onda?
-
-Nauči najpre da se ti ne gneviš na njega.
-
-Ali ja hoću da i on bude u miru sa mnom.
-
-Zar je to do tebe?
-
-Ne.
-
-Zašto se onda staraš o onome što nije do tebe?
-
-Hoću da znam kako da ne omanem u onome čemu težim.
-
-To možeš naučiti.
-
-Kako?
-
-Ako ne težiš onome što nije do tebe.
-
-Hoću da znam kako da ne zapadnem u ono što otklanjam.
-
-Ne otklanjaj ono što nije do tebe.
-
-To je početak filozofije:
-
-spoznati stanje vlastitoga vladajućeg dela.
-
-Jer kada čovek sazna da je slab, neće više hteti da se njime služi u velikim stvarima.
-
-Ali sada, ne mogući progutati ni zalogaj, kupujemo čitave knjige i pokušavamo da ih proždremo.
-
-Zato ih i izbljujemo ili dobijamo rđavo varenje.
-
-Otuda grčevi, slinjenje i groznice.
-
-Trebalo je najpre razmotriti možemo li to podneti.
+Filozofirati znači ispitivati i potvrđivati merila, a služiti se već spoznatim posao je lepoga i dobroga čoveka.
 
 <!-- anchor:II.12 -->
 Naši su filozofi prilično tačno odredili šta treba imati na umu pri razgovoru; ali mi se očigledno uopšte ne služimo onim što su nam dali.
@@ -3938,42 +3778,101 @@ Jer ako to znaš, nijedan odnos neće ti biti prepreka.
 Naprotiv, svaki će ti dati građu da pokažeš kakav si.
 
 <!-- anchor:II.24 -->
-Teškoće pokazuju kakvi su ljudi.
+Neko mu reče: Mnogo puta, želeći te čuti, dođoh k tebi, a nikada mi ne odgovori; i sada te molim, ako je moguće, da mi nešto kažeš.
 
-Zato, kada te snađe teškoća, seti se da te je Bog, kao učitelj borca, suprotstavio snažnom mladiću.
+Misliš li, reče, da, kao za svako drugo umeće, postoji i umeće govorenja, te će onaj koji ga ima govoriti vešto, a onaj koji ga nema nevešto?
 
-Zašto?
+Mislim.
 
-Da postaneš olimpijski pobednik.
+Zar onda onaj koji govorom koristi i sebi i drugima govori vešto, a onaj koji više škodi i sebi i drugima nevešt je u umeću govorenja?
 
-A to se ne postiže bez znoja.
+Tako je.
 
-Meni se čini da niko nije dobio bolju teškoću od one koju si ti dobio, samo ako hoćeš da se njome poslužiš kao što se borac služi svojim protivnikom.
+Nalaziš li među onima koji slušaju sve da im ono što čuju koristi, ili i među njima jedne kojima koristi, a druge kojima škodi?
 
-Sada ti šaljemo uhode.
+I među njima.
 
-Šta su uhode?
+Prema tome, i ovde se koriste oni koji umeju slušati, a škode sebi oni koji ne umeju.
 
-Ljudi koji treba da izveste kakve su stvari izvan nas.
+Priznao je.
 
-Smrt je strašna.
+Postoji li, onda, umeće slušanja kao i umeće govorenja?
 
-Slab čovek!
+Čini se da postoji.
 
-Idi i proriči u svoju nesreću.
+Ako hoćeš, razmotri i ovako: kome pripada da se muzički dotakne nečega?
 
-Nama ne govori takve stvari.
+Muzičaru.
 
-Bolest je strašna.
+A kome da kip načini kako dolikuje?
 
-Šta će se dogoditi?
+Kiparu.
 
-Ništa.
+Zar se i za vešto gledanje ne traži neko umeće?
 
-Telo će oslabiti.
+I za to se traži.
 
-Ali ti?
+Ako, dakle, govorenje kako dolikuje pripada umešnom čoveku, vidiš li da i korisno slušanje pripada umešnom?
 
+Ono potpuno i korisno ostavimo zasad: obojica smo daleko od svega takvog.
+
+Ali svako će, čini mi se, priznati da onome koji hoće slušati filozofe treba makar nekakva vežba u slušanju. Ili ne?
+
+O čemu, dakle, govorim s tobom? Pokaži mi. O čemu možeš slušati?
+
+O dobru i zlu.
+
+O čemu? O konju?
+
+Ne.
+
+O volu?
+
+Ne.
+
+O čemu, onda?
+
+O čoveku.
+
+Znamo li, dakle, šta je čovek, kakva mu je narav i kakav pojam o njemu imamo? Jesu li nam uši za to iole otvorene?
+
+Razumeš li šta je narav? Možeš li makar malo pratiti kada o tome govorim?
+
+Ako se poslužim dokazom, kako ćeš ga pratiti? Znaš li šta je dokaz, kako se nešto dokazuje i čime; šta je nalik dokazu, a ipak nije dokaz?
+
+Znaš li šta je istinito, a šta lažno; šta s čim sledi, šta se čemu protivi, šta je nesaglasno ili neskladno?
+
+Pokrećem li te prema filozofiji? Kako da ti pokažem sukob mnogih ljudi, koji se prepiru o dobru i zlu, o korisnom i nekorisnom, kada ni sam ne znaš šta je sukob?
+
+Pokaži mi, dakle, šta postižem razgovarajući s tobom. Pokreni u meni volju.
+
+Kao što prikladna trava, pokazavši se ovci, pokreće njenu volju da jede, a ako joj staviš kamen ili hleb, neće se pokrenuti, tako i u nama postoje prirodne volje prema govorenju: pokreću se kada se pokaže neko ko želi slušati i sam podstakne govornika.
+
+Ali ako stoji kao kamen ili kao trava, kako može čoveku pokrenuti želju?
+
+Ni loza ne kaže zemljoradniku: Staraj se o meni; nego mu sama sobom pokazuje da će mu, ako se o njoj stara, koristiti, te ga poziva na staranje.
+
+Koje bistro i ljupko dete ne pozove nekoga da se s njim igra, puzi i tepa? A ko želi igrati se s magarcem ili rikati s njim? Pa makar bio i mali, ipak je magarčić.
+
+Šta onda: ti mi ništa ne govoriš?
+
+Samo ovo imam reći: ko ne zna ko je, radi čega je postao, u kakvom je ovom svetu i s kim živi; ko ne zna šta je dobro, zlo, krasno i sramotno; ko ne prati govor ni dokaz, ne zna istinito ni lažno i ne može ih razlučiti, taj u celini neće želeti, izbegavati, pokretati se, pristajati, odricati ni uzdržavati se po prirodi, nego će ići gluv i slep, misleći da je nešto, a ne bivajući ništa.
+
+Zar je to tek sada tako? Otkad postoji ljudski rod, sva zla i nesreće nastaju iz tog neznanja.
+
+Zašto su se Agamemnon i Ahilej prepirali? Zar ne zato što nisu znali šta je korisno, a šta nekorisno? Jedan je govorio da Hriseidu treba vratiti ocu, drugi da ne treba; jedan da mora uzeti tuđu nagradu, drugi da ne mora. Zato su zaboravili i ko su i radi čega su došli.
+
+Reci, čoveče, radi čega si došao: da stičeš ljubavnice ili da ratuješ? Da ratujem. Protiv koga? Protiv Trojanaca ili Helena? Protiv Trojanaca. Pa ostavljaš Hektora i potežeš mač na svoga kralja?
+
+Tako i ti, ostavljajući dela kralja kome su povereni narodi, boriš se zbog devojčice s najratobornijim saveznikom, koga bi trebalo svakako negovati i čuvati. Vidiš li šta čini neznanje o korisnom?
+
+Ali bogat sam. Jesi li bogatiji od Agamemnona? Krasan sam. Jesi li krasniji od Ahileja? Imaš li lepšu, plavu kosu od njegove? Snažan sam. Možeš li podići kamen kao Hektor ili Ajant? Plemenit sam. Jesi li od boginje majke i od unuka Zevsova? A šta je to koristilo Ahileju dok je sedeo i plakao zbog devojčice?
+
+Besednik sam. Zar on nije bio? Ne vidiš li kako je Homer učinio nemima Odiseja i Fenika, najmoćnije među Helenima u govoru?
+
+Samo to imam da ti kažem, i ni to voljno: nisi me podstakao. Kada hoćeš čuti filozofa, ne govori mu: Ništa mi ne kažeš, nego pokaži da umeš slušati, pa ćeš videti kako ćeš pokrenuti onoga koji govori.
+
+<!-- Privremeno sklonjen pogrešan prethodni tekst II.24; uklanja se pri završnom čišćenju.
 Siromaštvo je strašno.
 
 Za koga?
@@ -4193,6 +4092,7 @@ Jer slobodan nije onaj kome se ništa teško ne događa.
 Takav čovek ne postoji.
 
 Slobodan je onaj kome ono što se događa ne može oduzeti valjano proizvoljenje.
+-->
 
 <!-- anchor:II.25 -->
 Kada neko od prisutnih reče:

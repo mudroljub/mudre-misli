@@ -1586,6 +1586,54 @@ Bez nje ne možemo ni slušati ni razumeti ono što se govori.
 
 Ako, dakle, prezremo tu moć, čime ćemo saznati da je preziremo valjano?
 
+Ko to kaže? Samo Hrisip, Zenon i Kleant?
+
+Zar ne kaže i Antisten? A ko je napisao da je početak obrazovanja ispitivanje imena? Zar to ne kaže Sokrat? I o kome Ksenofont piše da je počinjao od ispitivanja imena, šta svako znači?
+
+Je li, dakle, veliko i čudesno razumeti Hrisipa ili ga protumačiti? Šta je onda čudesno?
+
+Razumeti volju prirode.
+
+Šta onda? Zar je sam po sebi razumeš? Čemu ti još iko treba? Jer ako je istina da svi greše nevoljno, a ti si spoznao istinu, nužno je da već valjano postupaš.
+
+— Ali, Zevsa mi, ne razabiram volju prirode.
+
+Ko je onda tumači? Kažu: Hrisip.
+
+Dolazim, dakle, i tražim šta kaže taj tumač prirode. Ne razumem šta govori, pa tražim nekoga ko će ga protumačiti. Pogledaj, kaže, ispitaj kako se ovo govori, kao da je na rimskom.
+
+Kakvo onda pravo ima tumač da se nadima? Čak ni sam Hrisip nema pravo, ako samo tumači volju prirode, a sam je ne sledi; koliko manje ima pravo onaj koji tumači Hrisipa?
+
+Hrisip nam, naime, nije potreban radi njega samoga, nego da sledimo prirodu. Ni žrtvoslovac nam nije potreban radi njega samoga, nego zato što mislimo da ćemo preko njega razumeti ono što bogovi nagoveštavaju; ni utrobe ne cenimo radi njih samih, niti gavrana ili vranu, nego Boga koji kroz njih daje znak.
+
+Zato dolazim k tome tumaču i žrtvoslovcu i kažem: Pogledaj mi utrobu; šta mi se nagoveštava?
+
+On je uzme, raširi i protumači:
+
+— Čoveče, proizvoljenje ti je po prirodi nezaprečivo i neprinudivo. To je zapisano ovde, u utrobi.
+
+Najpre ću ti to pokazati na mestu pristajanja. Može li te iko sprečiti da pristaneš na istinito?
+
+— Niko.
+
+Može li te iko prisiliti da prihvatiš lažno?
+
+— Niko.
+
+Vidiš li da u tome imaš proizvoljenje nezaprečivo, neprinudivo i nesputano?
+
+Hajde sada na težnju i poriv: stoji li drukčije? Ko može pobediti poriv osim drugog poriva? Ko težnju i otklon osim druge težnje i drugog otklona?
+
+— Ali ako mi predočiš strah od smrti, prisilićeš me.
+
+Ne prisiljava te ono što se predočava, nego to što ti se čini boljim učiniti nešto od toga nego umreti. Tvoje te je, dakle, mnenje ponovo prisililo, to jest proizvoljenje je proizvoljenjem prisililo proizvoljenje.
+
+Jer kada bi Bog onaj vlastiti deo koji nam je, odvojivši ga, dao učinio zaprečivim ili prinudivim bilo od sebe bilo od nekoga drugog, više ne bi bio Bog niti bi se o nama starao kako treba.
+
+— To, kaže, nalazim u žrtvenim znamenjima; to ti se nagoveštava. Ako hoćeš, slobodan si; ako hoćeš, nećeš nikoga koriti niti optuživati; sve će biti po tvojoj i Božjoj volji ujedno.
+
+Zbog tog proroštva dolazim tome žrtvoslovcu i filozofu: ne diveći se njemu samome radi tumačenja, nego onome što tumači.
+
 <!-- anchor:I.18 -->
 Ako je istinito ono što filozofi govore, da u svih ljudi delanje polazi iz jednog izvora: kao što se saglašavaju zato što im se nešto čini da jeste, odriču zato što im se čini da nije, a, Zevsa mi, uzdržavaju zato što im se čini nejasnim, tako i teže nečemu zato što im se čini korisnim;
 
