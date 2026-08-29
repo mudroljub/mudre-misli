@@ -27,8 +27,4 @@ probleme.
 ## P4 — terminologija i UI
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku
-- proveriti da li neki od Ancient Greek philosophical concepts nedostaju u rečniku:
-    Adiaphora (indifferent) Aletheia (truth) Apeiron (infinite) Aporia (problem) Arche (first principle) Arete (excellence) Ataraxia (tranquility) Cosmos (order) Diairesis (division) Doxa (opinion) Episteme (knowledge) Ethos (character) Eudaimonia (flourishing) Hesychia (stillness) Logos (reason) Mimesis (imitation) Monad (unit) Nous (intellect) Ousia (substance) Palingenesis (rebirth) Pathos (passion) Phronesis (prudence) Physis (nature) Sophia (wisdom) Sophrosyne (temperance) Sophós (sage) Techne (craft) Telos (goal) Thumos (temper)
-- takođe, proveri koji od njih nemaju greek-terms
-- proveriti doslednost i kvalitet našeg rečnika. predložiti uklanjanje alt negde ako je suvišan.
-- словьникъ vs словарь
+- može li naš sistem tagova da obuhvati i cela dela?

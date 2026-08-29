@@ -181,7 +181,7 @@ export const translations: Record<Language, Translations> = {
     source: 'Источьникъ',
     readFull: 'Чьти вьсе',
     contents: 'Съдрьжаніє',
-    gotoAuthor: 'Къ любомѫдрьцю',
+    gotoAuthor: 'Къ философу',
     pageNotFound: 'Страница не обрѣтєна',
     pageNotFoundMessage: 'Страница, ѭже ищєши, не обрѣтаєть сѧ.',
     goHome: 'Въ начѧло',
