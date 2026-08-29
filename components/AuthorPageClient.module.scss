@@ -1,7 +1,7 @@
 @import '../styles/shared';
 
 .content {
-  padding: $spacing-content;
+  padding: $spacing-md;
 
   @media (min-width: $breakpoint-mobile) {
     padding: $spacing-xl;
@@ -20,7 +20,7 @@
 
 .birthplaceName {
   margin: 0;
-  color: $color-text-warm;
+  color: $color-text;
   font-size: $font-size-lg;
   font-weight: 600;
 }
@@ -59,7 +59,7 @@
   max-width: 100%;
   height: auto;
   border-radius: $border-radius-md;
-  margin-bottom: $spacing-tight;
+  margin-bottom: $spacing-xs;
 }
 
 .authorSection {
@@ -104,7 +104,7 @@
 .grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: $spacing-snug;
+  gap: $spacing-sm;
 
   @media (min-width: $breakpoint-mobile) {
     grid-template-columns: repeat(2, 1fr);

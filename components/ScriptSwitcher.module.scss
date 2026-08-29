@@ -6,9 +6,9 @@
 
   button {
     padding: $spacing-xxs $spacing-xs;
-    border: $border-width-thin solid $color-primary-muted;
+    border: $border-width-thin solid rgba($color-primary, 0.3);
     background: transparent;
-    color: $color-text-faded;
+    color: $color-text-light;
     cursor: pointer;
     font-size: $font-size-sm;
     font-weight: 400;

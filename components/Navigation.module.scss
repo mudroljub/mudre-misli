@@ -4,11 +4,11 @@
   display: flex;
   flex-wrap: wrap;
   gap: $spacing-sm;
-  font-size: $font-size-xs;
+  font-size: 0.75rem;
 
   a {
-    padding: $spacing-2xs $spacing-inline-tight;
-    color: $color-text-soft;
+    padding: $spacing-2xs $spacing-xs;
+    color: $color-text-light;
     text-decoration: none;
     font-weight: 400;
     border-bottom: $border-width-thin solid transparent;
@@ -17,7 +17,7 @@
 
     &:hover {
       color: $color-text;
-      border-bottom-color: $color-text-subtle;
+      border-bottom-color: rgba($color-text, 0.3);
     }
 
     &.active {

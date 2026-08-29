@@ -51,12 +51,12 @@
 
   &:hover {
     transform: translateY(-4px);
-    box-shadow: $shadow-raised;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 
   img, .placeholder {
-    width: $author-card-image-size;
-    height: $author-card-image-size;
+    width: 120px;
+    height: 120px;
     border-radius: $border-radius-full;
     object-fit: cover;
     margin-bottom: $spacing-sm;
@@ -75,7 +75,7 @@
 
   .authorName {
     text-align: center;
-    font-size: $font-size-md;
+    font-size: $font-size-base;
     font-weight: 500;
   }
 }

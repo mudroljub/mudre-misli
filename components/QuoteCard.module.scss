@@ -15,7 +15,7 @@
   img {
     max-width: $author-image-size;
     border-radius: $border-radius-md;
-    margin-bottom: $spacing-tight;
+    margin-bottom: $spacing-xs;
   }
 }
 
@@ -41,8 +41,8 @@
 }
 
 .authorPortrait {
-  width: $author-avatar-size;
-  height: $author-avatar-size;
+  width: 64px;
+  height: 64px;
   margin: 0;
   border-radius: $border-radius-full;
   object-fit: cover;

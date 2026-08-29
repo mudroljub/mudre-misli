@@ -16,7 +16,7 @@
   img {
     max-width: $author-image-size;
     border-radius: $border-radius-md;
-    margin-bottom: $spacing-tight;
+    margin-bottom: $spacing-xs;
   }
 }
 
@@ -33,7 +33,7 @@
   margin-top: 0;
   margin-bottom: 1.5rem;
   padding: 1rem;
-  font-size: $font-size-md;
+  font-size: $font-size-base;
   font-style: italic;
   background: $color-surface-muted;
   border-left: $border-width-thick solid $color-border-subtle;
@@ -47,7 +47,7 @@
 .stslQuote {
   padding: 1rem;
   line-height: 1.6;
-  background: $color-accent-surface;
+  background: rgba($color-accent, 0.03);
   border-left: $border-width-thick solid $color-accent-border;
 }
 
@@ -55,7 +55,7 @@
   padding: 1rem;
   line-height: 1.6;
   background: $color-surface-muted;
-  border-left: $border-width-thick solid $color-border-emphasis;
+  border-left: $border-width-thick solid $color-border-subtle;
 }
 
 blockquote.selectedQuote {
