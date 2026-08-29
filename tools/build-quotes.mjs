@@ -9,11 +9,9 @@ const rootDir = path.resolve(__dirname, '..')
 const inputDir = path.join(rootDir, 'data/quotes')
 const outputFile = path.join(rootDir, 'data/quotes.json')
 const sourcesFile = path.join(rootDir, 'data/sources.json')
-const authorsFile = path.join(rootDir, 'data/authors.json')
 const greekTermsFile = path.join(rootDir, 'data/greek-terms.json')
 
 const sourceRegistry = JSON.parse(await fs.readFile(sourcesFile, 'utf8'))
-const authorRegistry = JSON.parse(await fs.readFile(authorsFile, 'utf8'))
 const greekTerms = JSON.parse(await fs.readFile(greekTermsFile, 'utf8'))
 
 const files = (await fs.readdir(inputDir))

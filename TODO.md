@@ -2,19 +2,11 @@
 
 ## P0 — dovršiti i proveriti ono što je već objavljeno
 
-### Doraditi duge prevode
-
-- staroslovenski rasterećivati od grčkog reda reči, nizova participa i genitiva,
-  ali ne menjati već ustaljene termine;
-- čuvati kratke naporedne celine i lične glagole kada to ne menja smisao;
-- proveravati srpski i staroslovenski prema grčkom izvorniku, naročito kod
-  tehničkih prirodnofilozofskih objašnjenja.
-
 ### Epiktetovi `Razgovori` — kanonske redakcije
 
 - dovršiti završetke II.17 i II.19–II.22 prema grčkom izvorniku;
 
-## P3 — širiti korpus celih dela tek posle zatvaranja P0 i P1
+## P3 — širiti korpus celih dela tek posle zatvaranja P0
 
 ### Najprirodniji sledeći paketi
 
@@ -32,7 +24,9 @@ Ne započinjati više velikih autora istovremeno. Za svaki novi korpus prvo
 odrediti obuhvat, kanonske identifikatore, podelu odeljaka i terminološke
 probleme.
 
-
 ## P4 — terminologija i UI
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku
+- proveriti da li build za greek-terms ignoriše case
+- proveri jel build skripta zastarela, traži polje 'el' koje ne postoji. 
+- u recniku da budu svetlija slova ako nisu linkovani tagovi

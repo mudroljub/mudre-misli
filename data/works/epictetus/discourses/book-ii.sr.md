@@ -2878,121 +2878,29 @@ Onde, doduše, nije mnogo važno ovladati pripovešću a nemati vlastiti sud.
 
 Ali nigde toliko ne trpimo od ovoga koliko u etičkim pitanjima.
 
-Govori mi o dobru i zlu.
+Govori mi o dobru i zlu. — Slušaj: „Od stvari jedne su dobre, druge zle, a treće ravnodušne. Dobre su vrline i ono što učestvuje u vrlinama; zli su poroci i ono što učestvuje u porocima; ravnodušni su bogatstvo, zdravlje, život, smrt, uživanje i bol.”
 
-Slušaj:
+— Odakle to znaš? — Helanik tako govori u Egipatskim pričama. — Kakva je razlika kažeš li da to govori Helanik, Diogen u Etici, Hrisip ili Kleant? Jesi li išta od toga ispitao i učinio svojim mnenjem?
 
-Vetar me iz Ilija donese Kikoncima.
+Pokaži kako se držiš u oluji. Sećaš li se te podele kada jedro zalupa, a neki dokon čovek stane uz tebe i vikne: „Tako mi bogova, reci ono što si pre neki dan govorio: je li brodolom porok ili ima li udela u poroku?” Nećeš li dignuti motku na njega? „Šta je nama do tebe, čoveče? Ginemo, a ti si došao da se šališ.”
 
-Od stvari jedne su dobre, druge zle, a treće ravnodušne.
+A kada te car pozove kao optuženoga, sećaš li se podele? Ako ti, dok ulaziš bled i dršćeš, neko priđe i kaže: „Čega se bojiš? O čemu se raspravlja? Zar car onima koji ulaze deli vrlinu i porok?” — „I ti mi se rugaš pored mojih zala?” Ipak, filozofe, reci: čega drhtiš? Zar nisu u opasnosti smrt, tamnica, telesni bol, progonstvo ili nečast? Je li to porok ili ono što učestvuje u poroku? Pa ko si bio ti koji si ovo govorio?
 
-Dobre su vrline i ono što u njima učestvuje.
+— Šta je meni do tebe, čoveče? Dosta mi je mojih zala. — I lepo kažeš: dosta ti je tvojih zala — neplemenitosti, kukavičluka i hvalisanja kojim si se razmetao sedeći u školi. Zašto si se kitio tuđim? Zašto si sebe nazivao stoikom?
 
-Zle su poroci i ono što u poroku učestvuje.
+Tako se čuvajte u onome što činite pa ćete videti koje ste škole. Većinu ćete naći epikurejcima, nekolicinu peripateticima, i to mlitavima. Gde ste vi koji delom smatrate vrlinu jednakom ili jačom od svega drugog? Pokažite mi jednog stoika, ako ga imate.
 
-Ravnodušno je ono između njih: bogatstvo, zdravlje, život, smrt, uživanje, bol.
+Gde i kako? Hiljade govore stoičke govorčiće. Zar ti isti ne govore još bolje epikurejske? Zar ne izvode isto tako tačno i peripatetičke? Ko je, onda, stoik? Kao što za Fidijin kip kažemo da je oblikovan po Fidijinoj umetnosti, tako mi pokažite čoveka oblikovana prema mnenjima koja govori.
 
-Odakle to znaš?
+Pokažite mi bolesnoga i srećnog, ugroženog i srećnog, onoga koji umire i srećnog, prognanoga i srećnog, nečasnog i srećnog. Pokažite ga: tako mi bogova, želim da vidim stoika. Ako nemate oblikovanoga, pokažite barem onoga koji se oblikuje i koji je nagnut tome. Učinite dobro starcu; ne zavidite mu prizor koji dosad nije video.
 
-Helanik tako govori u svojim Egipatskim pričama.
+Mislite li da ćete mi pokazati Fidijina Zevsa ili Atinu, delo od slonovače i zlata? Neka neko pokaže dušu čoveka koji hoće biti jedne misli s bogom; više ne želi da kori ni boga ni čoveka, da ne promaši ili ne zapadne u nešto, da se ne gnevi, ne zavidi i ne ljubomoriše; koji želi postati bog od čoveka i u ovom mrtvom telu već razmišlja o zajednici sa Zeusom. Pokažite ga. Ali nemate ga. Zašto onda rugate sebi i varate druge, hodajući pod tuđim likom kao kradljivci tih imena i stvari koje vam ne pripadaju?
 
-Jer kakve razlike ima reći da to govori Helanik ili da govori Diogen u Etici, ili Hrisip ili Kleant?
+Ja sam sada vaš učitelj, vi se kod mene obrazujete. Moja je namera da vas učinim nesprečivima, neprinudenima, nepogrešivima, slobodnima, srećna toka i blaženima, da u svemu, malom i velikom, gledate ka bogu; a vi ste tu da to naučite i vežbate. Zašto onda ne dovršavate delo, ako vi imate pravu nameru, a ja uz nameru i potrebnu pripravu?
 
-Jesi li išta od toga ispitao i sam doneo sud?
+Šta nedostaje? Kad vidim tesara kojem je građa pri ruci, očekujem delo. Ovde su i tesar i građa: šta nam nedostaje? Je li stvar poučiva? Poučiva je. Je li do nas? Od svega ostalog jedino je ona do nas. Nisu do nas bogatstvo, zdravlje, ugled, niti išta drugo osim pravilnog služenja predstavama. To je jedino po prirodi nesprečivo i neometano.
 
-Pokaži mi kako se ponašaš u oluji.
-
-Sećaš li se te podele kada jedro zaškripi, kada čovek koji ništa ne zna o filozofiji stoji kraj tebe i viče:
-
-Propadosmo!
-
-Šta mi govoriš?
-
-Zar je smrt zlo?
-
-Da, najveće zlo.
-
-A šta je sa onim što si govorio?
-
-To su bile reči za učilište.
-
-Pokaži mi kako se ponašaš u groznici.
-
-Kada si na sudu.
-
-Kada te neko osuđuje.
-
-Kada te neko hvali.
-
-Zbog toga bih voleo da me smrt zatekne dok se staram jedino o svome proizvoljenju, da ono bude nepomućeno, nesputano, neprinuđeno, slobodno.
-
-Hoću da me zatekne dok se time bavim, da bih mogao reći Bogu:
-
-Jesam li prekršio tvoje zapovesti?
-
-Jesam li se moćima koje si mi dao poslužio za nešto drugo?
-
-Jesam li se svojim čulima i predpojmovima služio drukčije nego što treba?
-
-Jesam li te ikada optužio?
-
-Jesam li ikada prigovorio tvome upravljanju?
-
-Bio sam bolestan kada si hteo.
-
-I drugi su bili, ali ja sam dragovoljno.
-
-Bio sam siromašan kada si hteo, ali radosno.
-
-Nisam imao vlast zato što ti nisi hteo.
-
-Nikada nisam ni poželeo vlast.
-
-Jesi li me ikada zbog toga video sumorna?
-
-Zar nisam uvek dolazio pred tebe vedra lica, spreman na svaku tvoju zapovest i svaki znak?
-
-Sada hoćeš da odem sa ove svetkovine.
-
-Odlazim.
-
-I svu ti zahvalnost odajem što si me udostojio da zajedno s tobom svetkujem, da vidim tvoja dela i razumem tvoje upravljanje.
-
-Neka me smrt zatekne dok to mislim, pišem i čitam.
-
-Ali mati neće biti uz mene kada umirem.
-
-A šta će ti mati?
-
-Da plače kraj tebe?
-
-Da te još više učini malodušnim?
-
-Ali ako je dobro umreti, zašto ti je potrebna publika?
-
-Ako je zlo, zar će ga majčino prisustvo ukloniti?
-
-Treba li onda da budemo neosetljivi prema svojima?
-
-Nipošto.
-
-Ali treba najpre naučiti šta je naše, a šta nije naše.
-
-Jer ako ne znam gde je moje dobro, neću znati ni kako treba voleti oca, majku, brata, otadžbinu ili prijatelja.
-
-Zato ostavi sada te velike rasprave o Gospodarećem dokazu.
-
-Ne zato što su beskorisne, nego zato što ti još nisi sposoban da se njima valjano služiš.
-
-Najpre mi pokaži da ti težnja ne promašuje.
-
-Pokaži da ti otklon ne pada u ono što otklanjaš.
-
-Pokaži da nikoga ne optužuješ, da nikoga ne koriš, da se ni na koga ne gneviš.
-
-A onda ćemo, kada to budeš učinio, razgovarati i o Gospodarećem dokazu.
-
-Jer sada, makar znao sve knjige Hrisipove, ipak si samo tumač tuđih mnenja.
+Zašto onda ne dovršavate? Recite mi uzrok. Ili je do mene, ili do vas, ili do naravi stvari. Sama je stvar moguća i jedina do nas. Ostaje, dakle, da je do mene ili do vas — ili, istinitije, do obojih. Hoćete li jednom ovamo doneti takvu nameru? Ostavimo ono što je bilo dosad. Samo počnimo, verujte mi, pa ćete videti.
 
 <!-- anchor:II.20 -->
 Čak i oni koji poriču da postoji išta što je po prirodi očigledno, prisiljeni su da se služe onim što poriču; i gotovo je najveći dokaz da je nešto očigledno upravo to što je i onaj koji mu protivreči prinuđen da se njime služi.
