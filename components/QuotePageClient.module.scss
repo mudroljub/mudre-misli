@@ -1,3 +1,4 @@
+@use 'sass:math';
 @import '../styles/shared';
 
 .card {
@@ -44,6 +45,10 @@
   }
 }
 
+.card blockquote.originalQuote {
+  font-size: $font-size-base;
+}
+
 .stslQuote {
   padding: 1rem;
   line-height: 1.6;
@@ -58,9 +63,41 @@
   border-left: $border-width-thick solid $color-border-subtle;
 }
 
-blockquote.selectedQuote {
+.card blockquote.stslQuote,
+.card blockquote.srQuote {
+  font-size: $font-size-lg;
+}
+
+.card blockquote.selectedQuote {
   font-size: $font-size-xl;
   color: $color-text;
+}
+
+// The reconstructed-language route scales the root rem size. Compensate here
+// so both translations have the same inactive and active sizes across routes.
+:global(html[data-language='stsl'][data-script='cyr']) .card blockquote.stslQuote {
+  font-size: math.div($font-size-lg, $font-scale-stsl);
+}
+
+:global(html[data-language='stsl'][data-script='cyr']) .card blockquote.srQuote {
+  font-size: $font-size-base;
+}
+
+:global(html[data-language='stsl'][data-script='cyr']) .card blockquote.selectedQuote {
+  font-size: math.div($font-size-xl, $font-scale-stsl);
+}
+
+:global(html[data-language='stsl'][data-script='cyr']) .card blockquote.originalQuote {
+  font-size: math.div($font-size-base, $font-scale-stsl);
+
+  .greekLatin {
+    font-size: math.div($font-size-sm, $font-scale-stsl);
+  }
+}
+
+// This must outrank the global [lang='cu'] font-size on the Serbian route.
+:global(html[data-language='sr'][data-script='cyr']) .card blockquote.stslQuote {
+  font-size: $font-size-lg;
 }
 
 .authorLink {
@@ -131,4 +168,9 @@ blockquote.selectedQuote {
     line-height: 1.65;
     white-space: pre-wrap;
   }
+}
+
+:global(html[data-language='stsl'][data-script='cyr']) .originalDetails > [lang='grc'],
+:global(html[data-language='stsl'][data-script='cyr']) .originalDetails > [lang='grc-Latn'] {
+  font-size: math.div($font-size-base, $font-scale-stsl);
 }
