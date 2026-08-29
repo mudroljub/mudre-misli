@@ -11,8 +11,28 @@ const outputFile = path.join(rootDir, 'data/quotes.json')
 const sourcesFile = path.join(rootDir, 'data/sources.json')
 const greekTermsFile = path.join(rootDir, 'data/greek-terms.json')
 
+const normalizeGreek = text =>
+  text
+    .normalize('NFD')
+    .replace(/\u0300/g, '\u0301')
+    .normalize('NFC')
+    .toLocaleLowerCase('el')
+
+const escapeRegExp = text => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+
+const greekFormPattern = form => {
+  const normalizedForm = normalizeGreek(form)
+  const expression = escapeRegExp(normalizedForm).replace(/\s+/g, '\\s+')
+
+  return new RegExp(`(?<!\\p{L})${expression}(?!\\p{L})`, 'u')
+}
+
 const sourceRegistry = JSON.parse(await fs.readFile(sourcesFile, 'utf8'))
 const greekTerms = JSON.parse(await fs.readFile(greekTermsFile, 'utf8'))
+const normalizedGreekTerms = Object.entries(greekTerms).map(([tag, forms]) => [
+  tag,
+  forms.map(greekFormPattern),
+])
 
 const files = (await fs.readdir(inputDir))
   .filter(file => file.endsWith('.json'))
@@ -37,9 +57,10 @@ const detectTags = originalText => {
   if (!originalText) return []
 
   const detectedTags = new Set()
+  const normalizedText = normalizeGreek(originalText)
 
-  for (const [tag, forms] of Object.entries(greekTerms)) {
-    if (forms.some(form => originalText.includes(form))) {
+  for (const [tag, patterns] of normalizedGreekTerms) {
+    if (patterns.some(pattern => pattern.test(normalizedText))) {
       detectedTags.add(tag)
     }
   }

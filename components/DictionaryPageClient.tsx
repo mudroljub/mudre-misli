@@ -105,7 +105,7 @@ export default function DictionaryPageClient({ language, content, tags }: Dictio
                 const plainGreek = entry.greek.replace(/\*/g, '');
 
                 return (
-                  <tr key={idx} className={hasTag ? styles.linkedTerm : undefined}>
+                  <tr key={idx} className={hasTag ? styles.linkedTerm : styles.unlinkedTerm}>
                     <td className={styles.greek} lang="grc">
                       {hasTag ? (
                         <Link href={`/${language}/tags/${encodeURIComponent(entry.greek)}`} className={styles.tagLink}>

@@ -39,6 +39,13 @@
           background: rgba($color-primary, 0.05);
         }
 
+        &.unlinkedTerm {
+          td,
+          td.greek {
+            color: $color-text-light;
+          }
+        }
+
         &:last-child {
           border-bottom: none;
         }
@@ -54,9 +61,18 @@
           width: 25%;
           color: $color-text-light;
         }
+
+        &.stsl {
+          font-family: $font-family-stsl;
+          font-size: $font-size-stsl-base;
+        }
       }
     }
   }
+}
+
+:global(html[data-language='stsl'][data-script='cyr']) .dictionary td.stsl {
+  font-size: $font-size-base;
 }
 
 .tagLink {

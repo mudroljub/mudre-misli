@@ -523,7 +523,10 @@
         "reference": "II.8"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.8"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.8",
+    "tags": [
+      "ἀρχή"
+    ]
   },
   {
     "_id": 32,
@@ -543,6 +546,8 @@
     "tags": [
       "νοῦς",
       "πῦρ",
+      "ἀήρ",
+      "ἀρχή",
       "ὕδωρ"
     ]
   },
@@ -562,7 +567,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.9",
     "tags": [
-      "φαινόμενον"
+      "ἀρχή"
     ]
   },
   {
@@ -579,7 +584,10 @@
         "reference": "II.9"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.9"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.9",
+    "tags": [
+      "ἀήρ"
+    ]
   },
   {
     "_id": 35,
@@ -597,7 +605,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.9",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι",
+      "ἀήρ"
     ]
   },
   {
@@ -651,8 +660,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.10",
     "tags": [
-      "θεωρία",
-      "νοῦς"
+      "θεωρία"
     ]
   },
   {
@@ -856,6 +864,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:1750#κατεῖχεν",
     "tags": [
+      "αἰθήρ",
+      "ἀήρ",
       "ἄπειρον"
     ]
   },
@@ -982,7 +992,8 @@
     "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:2049#λεπτότατόν",
     "tags": [
       "γνώμη",
-      "νοῦς"
+      "νοῦς",
+      "ψυχή"
     ]
   },
   {
@@ -1077,7 +1088,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:2176#ἀπόλλυσθαι",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -1181,6 +1192,10 @@
         "name": "hermann-diels",
         "reference": "B.2"
       }
+    ],
+    "tags": [
+      "αἰθήρ",
+      "ἀήρ"
     ]
   },
   {
@@ -1197,7 +1212,10 @@
         "reference": "B.4"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:1856#σελήνην"
+    "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:1856#σελήνην",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 70,
@@ -1250,7 +1268,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:1921#τοὐλάχιστον",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι",
+      "ἀρχή"
     ]
   },
   {
@@ -1372,7 +1391,11 @@
         "reference": "B.12"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:2062#ἀποκρίνεσθαι"
+    "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:2062#ἀποκρίνεσθαι",
+    "tags": [
+      "αἰθήρ",
+      "ἀήρ"
+    ]
   },
   {
     "_id": 80,
@@ -1731,6 +1754,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.1",
     "tags": [
       "στοιχεῖον",
+      "ἀήρ",
+      "ἀρχή",
       "ἄπειρον",
       "ὕδωρ"
     ]
@@ -1819,9 +1844,10 @@
     "tags": [
       "κόσμος",
       "στοιχεῖον",
+      "τὰ ὄντα",
       "φύσις",
-      "ἄπειρον",
-      "ὄν"
+      "ἀρχή",
+      "ἄπειρον"
     ]
   },
   {
@@ -1896,7 +1922,8 @@
     "tags": [
       "γένεσις",
       "κόσμος",
-      "ἀΐδιος"
+      "ἀΐδιος",
+      "ἀήρ"
     ]
   },
   {
@@ -1986,7 +2013,8 @@
     ],
     "tags": [
       "κόσμος",
-      "πῦρ"
+      "πῦρ",
+      "ἀήρ"
     ]
   },
   {
@@ -2050,6 +2078,9 @@
         "name": "hermann-diels",
         "reference": "12 A 22"
       }
+    ],
+    "tags": [
+      "πῦρ"
     ]
   },
   {
@@ -2087,6 +2118,9 @@
         "name": "hermann-diels",
         "reference": "12 A 24"
       }
+    ],
+    "tags": [
+      "ἀήρ"
     ]
   },
   {
@@ -2153,9 +2187,6 @@
         "name": "hermann-diels",
         "reference": "12 A 30"
       }
-    ],
-    "tags": [
-      "γίγνεσθαι"
     ]
   },
   {
@@ -2174,8 +2205,9 @@
     ],
     "tags": [
       "δίκη",
-      "χρόνος",
-      "ὄν"
+      "τὰ ὄντα",
+      "φθορά",
+      "χρόνος"
     ]
   },
   {
@@ -2209,9 +2241,6 @@
         "name": "hermann-diels",
         "reference": "12 B 3"
       }
-    ],
-    "tags": [
-      "θάνατος"
     ]
   },
   {
@@ -2349,6 +2378,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.3",
     "tags": [
+      "ἀήρ",
+      "ἀρχή",
       "ἄπειρον"
     ]
   },
@@ -2384,7 +2415,8 @@
     ],
     "tags": [
       "οὐσία",
-      "φύσις"
+      "φύσις",
+      "ἀήρ"
     ]
   },
   {
@@ -2444,7 +2476,7 @@
     ],
     "tags": [
       "εἶδος",
-      "ἰδέα"
+      "ἀήρ"
     ]
   },
   {
@@ -2463,6 +2495,9 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/03-Anaximenes.txt:273#ἄπειρον",
     "tags": [
+      "θεός",
+      "ἀήρ",
+      "ἀρχή",
       "ἄπειρον"
     ]
   },
@@ -2479,6 +2514,10 @@
         "name": "hermann-diels",
         "reference": "13 A 10"
       }
+    ],
+    "tags": [
+      "θεός",
+      "ἀήρ"
     ]
   },
   {
@@ -2496,7 +2535,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "κόσμος",
       "χρόνος"
     ]
@@ -2518,6 +2557,9 @@
         "name": "hermann-diels",
         "reference": "13 A 20"
       }
+    ],
+    "tags": [
+      "ἀήρ"
     ]
   },
   {
@@ -2533,6 +2575,9 @@
         "name": "hermann-diels",
         "reference": "13 A 20"
       }
+    ],
+    "tags": [
+      "ἀήρ"
     ]
   },
   {
@@ -2554,7 +2599,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "πῦρ"
     ]
   },
@@ -2608,6 +2653,9 @@
         "name": "hermann-diels",
         "reference": "13 A 15"
       }
+    ],
+    "tags": [
+      "ἀήρ"
     ]
   },
   {
@@ -2644,6 +2692,7 @@
       }
     ],
     "tags": [
+      "ἀήρ",
       "ὕδωρ"
     ]
   },
@@ -2682,6 +2731,9 @@
         "name": "hermann-diels",
         "reference": "13 A 18"
       }
+    ],
+    "tags": [
+      "ἀήρ"
     ]
   },
   {
@@ -2699,6 +2751,7 @@
       }
     ],
     "tags": [
+      "ἀήρ",
       "ὕδωρ"
     ]
   },
@@ -2717,7 +2770,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -2733,6 +2786,9 @@
         "name": "hermann-diels",
         "reference": "13 A 22"
       }
+    ],
+    "tags": [
+      "ἀήρ"
     ]
   },
   {
@@ -2787,7 +2843,8 @@
     "tags": [
       "κόσμος",
       "πνεῦμα",
-      "ψυχή"
+      "ψυχή",
+      "ἀήρ"
     ]
   },
   {
@@ -2905,7 +2962,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.2",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -2922,7 +2979,10 @@
         "reference": "VI.2"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.2"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.2",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 168,
@@ -2938,7 +2998,10 @@
         "reference": "VI.3"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.3"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.3",
+    "tags": [
+      "λόγος"
+    ]
   },
   {
     "_id": 169,
@@ -2989,10 +3052,7 @@
         "reference": "VI.3"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.3",
-    "tags": [
-      "νοῦς"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.3"
   },
   {
     "_id": 172,
@@ -3190,10 +3250,7 @@
         "reference": "VI.5"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.5",
-    "tags": [
-      "θάνατος"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.5"
   },
   {
     "_id": 184,
@@ -3225,7 +3282,10 @@
         "reference": "VI.5"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.5"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.5",
+    "tags": [
+      "κακόν"
+    ]
   },
   {
     "_id": 186,
@@ -3436,7 +3496,10 @@
         "reference": "VI.8"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.8"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.8",
+    "tags": [
+      "κακόν"
+    ]
   },
   {
     "_id": 199,
@@ -3452,7 +3515,10 @@
         "reference": "VI.8"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.8"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.8",
+    "tags": [
+      "κακόν"
+    ]
   },
   {
     "_id": 200,
@@ -3591,7 +3657,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.11",
     "tags": [
-      "εὐδαιμονία"
+      "εὐδαιμονία",
+      "ἀρετή"
     ]
   },
   {
@@ -3610,7 +3677,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.11",
     "tags": [
-      "λόγος"
+      "λόγος",
+      "ἀρετή"
     ]
   },
   {
@@ -3627,10 +3695,7 @@
         "reference": "VI.11"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.11",
-    "tags": [
-      "τὸ εἶναι"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.11"
   },
   {
     "_id": 210,
@@ -3646,7 +3711,10 @@
         "reference": "VI.11"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.11"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.11",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 211,
@@ -3800,11 +3868,7 @@
         "reference": "VI.12"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.12",
-    "tags": [
-      "κακόν",
-      "ἀγαθόν"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.12"
   },
   {
     "_id": 220,
@@ -3836,11 +3900,7 @@
         "reference": "VI.12"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.12",
-    "tags": [
-      "δίκη",
-      "νοῦς"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.12"
   },
   {
     "_id": 222,
@@ -3877,6 +3937,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.12",
     "tags": [
+      "κακόν",
       "καλόν"
     ]
   },
@@ -3960,7 +4021,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.104",
     "tags": [
-      "τέλος"
+      "τέλος",
+      "ἀρετή"
     ]
   },
   {
@@ -4366,10 +4428,7 @@
         "reference": "II.68"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.68",
-    "tags": [
-      "εἰδέναι"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.68"
   },
   {
     "_id": 253,
@@ -4387,8 +4446,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.68",
     "tags": [
-      "γίγνεσθαι",
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -4408,7 +4465,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.68",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "θεός"
     ]
   },
@@ -4706,7 +4763,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.73",
     "tags": [
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -4857,7 +4913,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.76",
     "tags": [
-      "δαίμων"
+      "καλόν"
     ]
   },
   {
@@ -4892,7 +4948,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.76-77",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -4993,7 +5049,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.79",
     "tags": [
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -5180,7 +5235,10 @@
         "reference": "II.85"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.85"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.85",
+    "tags": [
+      "τέλος"
+    ]
   },
   {
     "_id": 300,
@@ -5450,7 +5508,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.160",
     "tags": [
-      "νοῦς",
+      "τέλος",
       "ἀρετή"
     ]
   },
@@ -5573,7 +5631,10 @@
         "reference": "VII.161"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.161"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.161",
+    "tags": [
+      "ἀρετή"
+    ]
   },
   {
     "_id": 94,
@@ -5643,10 +5704,7 @@
         "reference": "VII.162"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.162",
-    "tags": [
-      "δόξα"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.162"
   },
   {
     "_id": 326,
@@ -5828,7 +5886,11 @@
         "reference": "V.17"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.17"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.17",
+    "tags": [
+      "ψυχή",
+      "ἀήρ"
+    ]
   },
   {
     "_id": 337,
@@ -6018,7 +6080,10 @@
         "reference": "V.20"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.20"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.20",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 348,
@@ -6036,9 +6101,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.20",
     "tags": [
-      "γίγνεσθαι",
       "νόμος",
-      "σοφία",
       "φιλοσοφία",
       "φόβος"
     ]
@@ -6091,7 +6154,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.21",
     "tags": [
-      "ψυχή"
+      "ψυχή",
+      "ἀρετή"
     ]
   },
   {
@@ -6145,6 +6209,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.30",
     "tags": [
+      "τέλος",
       "ἀρετή"
     ]
   },
@@ -6166,8 +6231,7 @@
     "tags": [
       "δόξα",
       "εὐδαιμονία",
-      "ψυχή",
-      "ἀγαθόν"
+      "ψυχή"
     ]
   },
   {
@@ -6187,7 +6251,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.30",
     "tags": [
       "εὐδαιμονία",
-      "ἀγαθόν"
+      "ἀρετή"
     ]
   },
   {
@@ -6239,7 +6303,10 @@
         "reference": "V.32"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.32"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.32",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1509,
@@ -6443,7 +6510,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.86",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "φύσις",
       "ψυχή"
     ]
@@ -6497,10 +6564,7 @@
         "reference": "I.86"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.86",
-    "tags": [
-      "κακόν"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.86"
   },
   {
     "_id": 375,
@@ -6621,7 +6685,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.88",
     "tags": [
       "θεός",
-      "σοφία"
+      "σοφία",
+      "ἀγαθόν"
     ]
   },
   {
@@ -7085,10 +7150,7 @@
         "reference": "I.69"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.69",
-    "tags": [
-      "ἀγαθόν"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.69"
   },
   {
     "_id": 409,
@@ -8023,10 +8085,7 @@
         "reference": "VII.183"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.183",
-    "tags": [
-      "φιλόσοφος"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.183"
   },
   {
     "_id": 1741,
@@ -8830,7 +8889,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.169",
     "tags": [
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -9095,7 +9153,10 @@
         "reference": "X.452b"
       }
     ],
-    "pointer": "data/sources/plutarch/septem-sapientium-convivium.xml:171"
+    "pointer": "data/sources/plutarch/septem-sapientium-convivium.xml:171",
+    "tags": [
+      "πῦρ"
+    ]
   },
   {
     "_id": 530,
@@ -9619,11 +9680,7 @@
         "reference": "I.93"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.93",
-    "tags": [
-      "νοῦς",
-      "τύχη"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.93"
   },
   {
     "_id": 561,
@@ -9813,7 +9870,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.86",
     "tags": [
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -9833,7 +9889,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.86",
     "tags": [
-      "χρόνος"
+      "χρόνος",
+      "ἔρως"
     ]
   },
   {
@@ -10266,6 +10323,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.44",
     "tags": [
       "κενόν",
+      "ἀρχή",
       "ἄτομος"
     ]
   },
@@ -10285,8 +10343,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.44",
     "tags": [
-      "κόσμος",
-      "ἄπειρον"
+      "κόσμος"
     ]
   },
   {
@@ -10322,7 +10379,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.44",
     "tags": [
       "πῦρ",
-      "ἄπειρον",
+      "ἀήρ",
       "ἄτομος",
       "ὕδωρ"
     ]
@@ -10343,7 +10400,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.44",
     "tags": [
-      "νοῦς"
+      "νοῦς",
+      "ψυχή"
     ]
   },
   {
@@ -10399,7 +10457,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.45",
     "tags": [
       "τέλος",
-      "φόβος"
+      "φόβος",
+      "ψυχή"
     ]
   },
   {
@@ -10514,7 +10573,6 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
       "γνώμη",
       "ἰδέα"
     ]
@@ -10534,7 +10592,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "γνώμη",
       "νόμος",
       "ψυχή"
@@ -10555,7 +10613,8 @@
       }
     ],
     "tags": [
-      "πάθος"
+      "πάθος",
+      "ψυχή"
     ]
   },
   {
@@ -10589,9 +10648,6 @@
         "name": "hermann-diels",
         "reference": "68 B 35"
       }
-    ],
-    "tags": [
-      "ἀγαθόν"
     ]
   },
   {
@@ -10609,7 +10665,8 @@
       }
     ],
     "tags": [
-      "ψυχή"
+      "ψυχή",
+      "ἀγαθόν"
     ]
   },
   {
@@ -10625,6 +10682,9 @@
         "name": "hermann-diels",
         "reference": "68 B 38"
       }
+    ],
+    "tags": [
+      "καλόν"
     ]
   },
   {
@@ -10640,6 +10700,9 @@
         "name": "hermann-diels",
         "reference": "68 B 39"
       }
+    ],
+    "tags": [
+      "ἀγαθόν"
     ]
   },
   {
@@ -10655,9 +10718,6 @@
         "name": "hermann-diels",
         "reference": "68 B 40"
       }
-    ],
-    "tags": [
-      "νοῦς"
     ]
   },
   {
@@ -10740,9 +10800,6 @@
         "name": "hermann-diels",
         "reference": "68 B 45"
       }
-    ],
-    "tags": [
-      "δίκη"
     ]
   },
   {
@@ -10821,9 +10878,6 @@
         "name": "hermann-diels",
         "reference": "68 B 50"
       }
-    ],
-    "tags": [
-      "δίκη"
     ]
   },
   {
@@ -10841,7 +10895,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "λόγος"
     ]
   },
@@ -11024,6 +11078,9 @@
         "name": "hermann-diels",
         "reference": "68 B 62"
       }
+    ],
+    "tags": [
+      "ἀγαθόν"
     ]
   },
   {
@@ -11132,6 +11189,9 @@
         "name": "hermann-diels",
         "reference": "68 B 102"
       }
+    ],
+    "tags": [
+      "καλόν"
     ]
   },
   {
@@ -11212,7 +11272,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "κακόν"
     ]
   },
   {
@@ -11294,7 +11354,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -11449,6 +11509,9 @@
         "name": "hermann-diels",
         "reference": "68 B 56"
       }
+    ],
+    "tags": [
+      "καλόν"
     ]
   },
   {
@@ -11482,6 +11545,9 @@
         "name": "hermann-diels",
         "reference": "68 B 69"
       }
+    ],
+    "tags": [
+      "ἀγαθόν"
     ]
   },
   {
@@ -11547,7 +11613,6 @@
       }
     ],
     "tags": [
-      "δίκη",
       "καλόν",
       "ἔρως"
     ]
@@ -11597,7 +11662,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "λόγος"
     ]
   },
@@ -11859,7 +11924,7 @@
       }
     ],
     "tags": [
-      "ἀγαθόν"
+      "κακόν"
     ]
   },
   {
@@ -12078,7 +12143,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -12109,9 +12174,6 @@
         "name": "hermann-diels",
         "reference": "68 B 149"
       }
-    ],
-    "tags": [
-      "κακόν"
     ]
   },
   {
@@ -12250,7 +12312,6 @@
       }
     ],
     "tags": [
-      "λόγος",
       "πῦρ"
     ]
   },
@@ -12299,7 +12360,8 @@
       }
     ],
     "tags": [
-      "δαίμων"
+      "δαίμων",
+      "ψυχή"
     ]
   },
   {
@@ -12336,9 +12398,7 @@
       }
     ],
     "tags": [
-      "δίκη",
-      "κακόν",
-      "ἀγαθόν"
+      "κακόν"
     ]
   },
   {
@@ -12374,6 +12434,8 @@
       }
     ],
     "tags": [
+      "θεός",
+      "κακόν",
       "νοῦς"
     ]
   },
@@ -12429,7 +12491,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -12447,7 +12509,8 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι",
+      "ἀρετή"
     ]
   },
   {
@@ -12467,8 +12530,7 @@
     "tags": [
       "λόγος",
       "νόμος",
-      "ἀνάγκη",
-      "ἐπιστήμη"
+      "ἀρετή"
     ]
   },
   {
@@ -12648,6 +12710,9 @@
         "name": "hermann-diels",
         "reference": "68 B 194"
       }
+    ],
+    "tags": [
+      "καλόν"
     ]
   },
   {
@@ -12678,9 +12743,6 @@
         "name": "hermann-diels",
         "reference": "68 B 196"
       }
-    ],
-    "tags": [
-      "κακόν"
     ]
   },
   {
@@ -12985,10 +13047,6 @@
         "name": "hermann-diels",
         "reference": "68 B 218"
       }
-    ],
-    "tags": [
-      "γίγνεσθαι",
-      "ὄν"
     ]
   },
   {
@@ -13021,6 +13079,7 @@
       }
     ],
     "tags": [
+      "κακόν",
       "ἀρετή"
     ]
   },
@@ -13039,7 +13098,7 @@
       }
     ],
     "tags": [
-      "κακόν"
+      "ἀρχή"
     ]
   },
   {
@@ -13090,7 +13149,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -13151,9 +13210,6 @@
         "name": "hermann-diels",
         "reference": "68 B 229"
       }
-    ],
-    "tags": [
-      "ἀγαθόν"
     ]
   },
   {
@@ -13311,9 +13367,6 @@
         "name": "hermann-diels",
         "reference": "68 B 239"
       }
-    ],
-    "tags": [
-      "ἀνάγκη"
     ]
   },
   {
@@ -13346,7 +13399,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -13409,7 +13462,8 @@
       }
     ],
     "tags": [
-      "νόμος"
+      "νόμος",
+      "ἀρχή"
     ]
   },
   {
@@ -13461,7 +13515,8 @@
       }
     ],
     "tags": [
-      "νόμος"
+      "νόμος",
+      "ἀρετή"
     ]
   },
   {
@@ -13526,9 +13581,6 @@
         "name": "hermann-diels",
         "reference": "68 B 252"
       }
-    ],
-    "tags": [
-      "νοῦς"
     ]
   },
   {
@@ -13579,8 +13631,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
-      "νοῦς",
+      "γίγνομαι",
       "ἀγαθόν"
     ]
   },
@@ -13665,7 +13716,6 @@
       }
     ],
     "tags": [
-      "δίκη",
       "κακόν",
       "ἀγαθόν"
     ]
@@ -13721,9 +13771,6 @@
         "name": "hermann-diels",
         "reference": "68 B 265"
       }
-    ],
-    "tags": [
-      "δίκη"
     ]
   },
   {
@@ -13826,6 +13873,7 @@
       }
     ],
     "tags": [
+      "καλόν",
       "κόσμος"
     ]
   },
@@ -13893,10 +13941,9 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
-      "πάθος",
+      "γίγνομαι",
       "φύσις",
-      "ἀρχή"
+      "ψυχή"
     ]
   },
   {
@@ -14121,8 +14168,8 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
-      "τέλος"
+      "γίγνομαι",
+      "ἀγαθόν"
     ]
   },
   {
@@ -15248,10 +15295,7 @@
         "reference": "VI.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.27",
-    "tags": [
-      "δαίμων"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.27"
   },
   {
     "_id": 895,
@@ -15267,7 +15311,10 @@
         "reference": "VI.27"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.27"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.27",
+    "tags": [
+      "κακόν"
+    ]
   },
   {
     "_id": 896,
@@ -15660,7 +15707,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.28",
     "tags": [
-      "δίκη",
       "ψυχή",
       "ἦθος"
     ]
@@ -15941,10 +15987,7 @@
         "reference": "VI.48"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.48",
-    "tags": [
-      "καλόν"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.48"
   },
   {
     "_id": 936,
@@ -16181,7 +16224,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.56",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "φιλόσοφος"
     ]
   },
@@ -16349,10 +16392,7 @@
         "reference": "VI.59"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.59",
-    "tags": [
-      "δαίμων"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.59"
   },
   {
     "_id": 960,
@@ -16434,6 +16474,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.64",
     "tags": [
+      "εἰδέναι",
       "σοφία"
     ]
   },
@@ -16483,7 +16524,10 @@
         "reference": "VI.65"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.65"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.65",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 968,
@@ -16501,7 +16545,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.65",
     "tags": [
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -16791,7 +16834,10 @@
         "reference": "B.112"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.62"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.62",
+    "tags": [
+      "θεός"
+    ]
   },
   {
     "_id": 986,
@@ -16830,6 +16876,8 @@
     "tags": [
       "πῦρ",
       "στοιχεῖον",
+      "φιλία",
+      "ἀήρ",
       "ὕδωρ"
     ]
   },
@@ -16851,7 +16899,10 @@
         "reference": "B.6"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.76"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.76",
+    "tags": [
+      "ζεύς"
+    ]
   },
   {
     "_id": 989,
@@ -16887,7 +16938,10 @@
         "reference": "VIII.77"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.77"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.77",
+    "tags": [
+      "πῦρ"
+    ]
   },
   {
     "_id": 991,
@@ -16905,7 +16959,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.77",
     "tags": [
-      "ἰδέα"
+      "ψυχή"
     ]
   },
   {
@@ -17195,8 +17249,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
-      "δαίμων"
+      "γίγνομαι"
     ]
   },
   {
@@ -17227,7 +17280,10 @@
         "reference": "B.21"
       }
     ],
-    "originalText": "ἐξ ὧν πάνθ᾽ ὅσα τ᾽ ἦν ὅσα τ᾽ ἔστ᾽ ὅσα τ᾽ ἔσσετ᾽ ὀπίσσω, δένδρεά τ᾽ ἐβλάστησε καὶ ἀνέρες ἠδὲ γυναῖκες, θῆρές τ᾽ οἰωνοί τε καὶ ὑδατοθρέμμονες ἰχθῦς, καί τε θεοὶ δολιχαίωνες τιμῆισι φέριστοι."
+    "originalText": "ἐξ ὧν πάνθ᾽ ὅσα τ᾽ ἦν ὅσα τ᾽ ἔστ᾽ ὅσα τ᾽ ἔσσετ᾽ ὀπίσσω, δένδρεά τ᾽ ἐβλάστησε καὶ ἀνέρες ἠδὲ γυναῖκες, θῆρές τ᾽ οἰωνοί τε καὶ ὑδατοθρέμμονες ἰχθῦς, καί τε θεοὶ δολιχαίωνες τιμῆισι φέριστοι.",
+    "tags": [
+      "θεός"
+    ]
   },
   {
     "_id": 1011,
@@ -17324,9 +17380,6 @@
         "name": "hermann-diels",
         "reference": "B.30–31"
       }
-    ],
-    "tags": [
-      "χρόνος"
     ]
   },
   {
@@ -17389,7 +17442,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -17478,7 +17531,8 @@
       "δαίμων",
       "θεός",
       "χρόνος",
-      "ἀΐδιος"
+      "ἀΐδιος",
+      "ἀνάγκη"
     ]
   },
   {
@@ -17509,6 +17563,10 @@
         "name": "hermann-diels",
         "reference": "B.128"
       }
+    ],
+    "tags": [
+      "ζεύς",
+      "θεός"
     ]
   },
   {
@@ -17609,9 +17667,6 @@
         "name": "hermann-diels",
         "reference": "B.136–137"
       }
-    ],
-    "tags": [
-      "νοῦς"
     ]
   },
   {
@@ -17644,7 +17699,7 @@
       }
     ],
     "tags": [
-      "θάνατος",
+      "θεός",
       "τέλος"
     ]
   },
@@ -17871,7 +17926,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -17889,7 +17944,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -17907,7 +17962,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -17998,6 +18053,9 @@
         "name": "hermann-diels",
         "reference": "B.52"
       }
+    ],
+    "tags": [
+      "πῦρ"
     ]
   },
   {
@@ -18030,8 +18088,7 @@
       }
     ],
     "tags": [
-      "εἶδος",
-      "ἰδέα"
+      "εἶδος"
     ]
   },
   {
@@ -18145,7 +18202,9 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
+      "αἰθήρ",
+      "γίγνομαι",
+      "ἀήρ",
       "ἀρχή"
     ]
   },
@@ -18231,7 +18290,6 @@
     ],
     "tags": [
       "αἰθήρ",
-      "ἰδέα",
       "ὕδωρ"
     ]
   },
@@ -18268,7 +18326,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -18344,6 +18402,9 @@
         "name": "hermann-diels",
         "reference": "B.103"
       }
+    ],
+    "tags": [
+      "τύχη"
     ]
   },
   {
@@ -18437,6 +18498,9 @@
         "name": "hermann-diels",
         "reference": "B.73"
       }
+    ],
+    "tags": [
+      "πῦρ"
     ]
   },
   {
@@ -18504,8 +18568,7 @@
       }
     ],
     "tags": [
-      "αἰθήρ",
-      "νοῦς"
+      "αἰθήρ"
     ]
   },
   {
@@ -18525,6 +18588,7 @@
     "tags": [
       "αἰθήρ",
       "πνεῦμα",
+      "ἀήρ",
       "ὕδωρ"
     ]
   },
@@ -18541,6 +18605,9 @@
         "name": "hermann-diels",
         "reference": "B.3"
       }
+    ],
+    "tags": [
+      "θεός"
     ]
   },
   {
@@ -18556,10 +18623,6 @@
         "name": "hermann-diels",
         "reference": "B.4"
       }
-    ],
-    "tags": [
-      "κακόν",
-      "λόγος"
     ]
   },
   {
@@ -18680,6 +18743,9 @@
         "name": "hermann-diels",
         "reference": "B.116"
       }
+    ],
+    "tags": [
+      "ἀνάγκη"
     ]
   },
   {
@@ -18843,6 +18909,9 @@
         "name": "hermann-diels",
         "reference": "B.149"
       }
+    ],
+    "tags": [
+      "ἀήρ"
     ]
   },
   {
@@ -18877,6 +18946,11 @@
         "name": "hermann-diels",
         "reference": "B.18"
       }
+    ],
+    "tags": [
+      "φιλία",
+      "ἀρχή",
+      "ἁρμονία"
     ]
   },
   {
@@ -18976,10 +19050,7 @@
         "reference": "X.6"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.6",
-    "tags": [
-      "ἀγαθόν"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.6"
   },
   {
     "_id": 1117,
@@ -18995,7 +19066,10 @@
         "reference": "X.6"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.6"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.6",
+    "tags": [
+      "παιδεία"
+    ]
   },
   {
     "_id": 586,
@@ -19252,10 +19326,7 @@
         "reference": "X.12"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.12",
-    "tags": [
-      "ἀρχή"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.12"
   },
   {
     "_id": 1133,
@@ -19273,7 +19344,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#10.16-21",
     "tags": [
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -19678,10 +19748,7 @@
         "reference": "I.114"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.114",
-    "tags": [
-      "κακόν"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.114"
   },
   {
     "_id": 1197,
@@ -19886,7 +19953,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.106",
     "tags": [
       "θεός",
-      "νοῦς"
+      "νοῦς",
+      "ἀγαθόν"
     ]
   },
   {
@@ -19976,6 +20044,9 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.8",
     "tags": [
       "δαίμων",
+      "ζεύς",
+      "κακόν",
+      "ἀγαθόν",
       "ἀρχή"
     ]
   },
@@ -20893,7 +20964,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.7",
     "tags": [
       "εἱμαρμένη",
-      "ὄν"
+      "πῦρ",
+      "τὰ ὄντα"
     ]
   },
   {
@@ -20990,7 +21062,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.8",
     "tags": [
-      "εἱμαρμένη"
+      "εἱμαρμένη",
+      "πῦρ"
     ]
   },
   {
@@ -21081,10 +21154,7 @@
         "reference": "IX.10–11"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.10-11",
-    "tags": [
-      "νοῦς"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.10-11"
   },
   {
     "_id": 1175,
@@ -21242,7 +21312,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:491#ἀκούσαντες",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "λόγος",
       "φύσις"
     ]
@@ -21263,8 +21333,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:499#τουτέστι",
     "tags": [
-      "λόγος",
-      "νοῦς"
+      "λόγος"
     ]
   },
   {
@@ -21313,7 +21382,10 @@
         "reference": "B.5"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:547#λεσχηνεύοιτο"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:547#λεσχηνεύοιτο",
+    "tags": [
+      "θεός"
+    ]
   },
   {
     "_id": 1249,
@@ -21347,7 +21419,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:553#διαγνοῖεν",
     "tags": [
-      "ὄν"
+      "τὰ ὄντα"
     ]
   },
   {
@@ -21434,7 +21506,10 @@
         "reference": "B.12"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:712#ψυχαὶ"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:712#ψυχαὶ",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1256,
@@ -21568,7 +21643,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:806#γενόμενοι",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -21619,6 +21694,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:816#ὄνομα",
     "tags": [
+      "δίκη",
       "εἰδέναι"
     ]
   },
@@ -21636,7 +21712,10 @@
         "reference": "B.24"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:819#ἀρηιφάτους"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:819#ἀρηιφάτους",
+    "tags": [
+      "θεός"
+    ]
   },
   {
     "_id": 1268,
@@ -21700,7 +21779,10 @@
         "reference": "B.28"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:878#δοκέοντα"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:878#δοκέοντα",
+    "tags": [
+      "δίκη"
+    ]
   },
   {
     "_id": 1272,
@@ -21754,7 +21836,10 @@
         "reference": "B.31"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:892#πρηστήρ"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:892#πρηστήρ",
+    "tags": [
+      "πῦρ"
+    ]
   },
   {
     "_id": 1275,
@@ -21770,7 +21855,10 @@
         "reference": "B.32"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:977#μοῦνον"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:977#μοῦνον",
+    "tags": [
+      "ζεύς"
+    ]
   },
   {
     "_id": 1276,
@@ -21841,7 +21929,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:995#ὕδατος",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "θάνατος",
       "ψυχή",
       "ὕδωρ"
@@ -22020,7 +22108,10 @@
         "reference": "B.53"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1163#βασιλεύς"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1163#βασιλεύς",
+    "tags": [
+      "θεός"
+    ]
   },
   {
     "_id": 1291,
@@ -22053,7 +22144,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1173#ἐξηπάτηνται",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "γνῶσις"
     ]
   },
@@ -22195,6 +22286,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1358#ἀλλοιοῦται",
     "tags": [
+      "θεός",
       "πῦρ"
     ]
   },
@@ -22271,6 +22363,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1608#ὑπερβήσεται",
     "tags": [
+      "δίκη",
       "μέτρον"
     ]
   },
@@ -22334,7 +22427,10 @@
         "reference": "B.98"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1662#ὀσμῶνται"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1662#ὀσμῶνται",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1309,
@@ -22383,8 +22479,9 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1676#ὑπειλήφασιν",
     "tags": [
-      "δίκη",
-      "θεός"
+      "θεός",
+      "καλόν",
+      "ἀγαθόν"
     ]
   },
   {
@@ -22401,7 +22498,10 @@
         "reference": "B.103"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1679#κύκλου"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1679#κύκλου",
+    "tags": [
+      "ἀρχή"
+    ]
   },
   {
     "_id": 1313,
@@ -22433,7 +22533,10 @@
         "reference": "B.107"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1740#βαρβάρους"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1740#βαρβάρους",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1315,
@@ -22501,7 +22604,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1754#ἀνάπαυσιν",
     "tags": [
-      "νοῦς",
+      "κακόν",
       "ἀγαθόν"
     ]
   },
@@ -22521,7 +22624,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1756#ἐπαΐοντας",
     "tags": [
-      "φύσις"
+      "φύσις",
+      "ἀρετή"
     ]
   },
   {
@@ -22556,8 +22660,6 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1854#περιγίνεται",
     "tags": [
-      "γίγνεσθαι",
-      "νοῦς",
       "νόμος"
     ]
   },
@@ -22611,7 +22713,10 @@
         "reference": "B.117"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1866#σφαλλόμενος"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1866#σφαλλόμενος",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1325,
@@ -22627,7 +22732,10 @@
         "reference": "B.118"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1869#σοφωτάτη"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1869#σοφωτάτη",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1326,
@@ -22835,6 +22943,7 @@
     "tags": [
       "θάνατος",
       "πῦρ",
+      "ἀήρ",
       "ὕδωρ"
     ]
   },
@@ -22854,9 +22963,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1450#γενέσθαι",
     "tags": [
-      "γίγνεσθαι",
-      "θάνατος",
-      "ψυχή"
+      "γίγνομαι",
+      "θάνατος"
     ]
   },
   {
@@ -22930,6 +23038,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1518#σοφώτατος",
     "tags": [
+      "θεός",
       "σοφία"
     ]
   },
@@ -23035,7 +23144,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1003#Τευτάμεω",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "λόγος"
     ]
   },
@@ -23069,10 +23178,7 @@
         "reference": "B.105"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1733#ἀστρολόγον",
-    "tags": [
-      "λόγος"
-    ]
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1733#ἀστρολόγον"
   },
   {
     "_id": 1351,
@@ -23266,6 +23372,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.30",
     "tags": [
+      "ἀρχή",
       "ἄτομος"
     ]
   },
@@ -23301,7 +23408,7 @@
       }
     ],
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "λόγος",
       "ἀνάγκη"
     ]
@@ -23407,6 +23514,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.30",
     "tags": [
+      "κενόν",
       "ἄπειρον"
     ]
   },
@@ -23427,8 +23535,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.31",
     "tags": [
       "κενόν",
-      "κόσμος",
-      "ἄπειρον"
+      "κόσμος"
     ]
   },
   {
@@ -23447,7 +23554,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.31-32",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "κενόν",
       "σχῆμα",
       "φύσις",
@@ -23468,7 +23575,10 @@
         "reference": "IX.30"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.30"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.30",
+    "tags": [
+      "πῦρ"
+    ]
   },
   {
     "_id": 1373,
@@ -23486,7 +23596,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.33",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -23860,7 +23970,10 @@
         "reference": "II.129"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.129"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.129",
+    "tags": [
+      "ἀγαθόν"
+    ]
   },
   {
     "_id": 1861,
@@ -24771,7 +24884,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.22",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -24790,7 +24903,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.22",
     "tags": [
-      "νοῦς"
+      "νοῦς",
+      "ψυχή"
     ]
   },
   {
@@ -24810,7 +24924,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.22",
     "tags": [
       "δόξα",
-      "σοφία",
       "φιλοσοφία",
       "ἀλήθεια"
     ]
@@ -24897,7 +25010,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.42",
     "tags": [
-      "ὄν"
+      "τὸ ὄν"
     ]
   },
   {
@@ -25029,7 +25142,7 @@
     ],
     "tags": [
       "κόσμος",
-      "ὄν"
+      "τὸ ὄν"
     ]
   },
   {
@@ -25079,10 +25192,11 @@
     ],
     "tags": [
       "γένεσις",
-      "γίγνεσθαι",
+      "γίγνομαι",
+      "δίκη",
+      "τὸ ὄν",
       "ἀγένητος",
-      "ἀνάγκη",
-      "ὄν"
+      "ἀνάγκη"
     ]
   },
   {
@@ -25101,7 +25215,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:923#δεσμοῖσιν",
     "tags": [
-      "γένεσις"
+      "γένεσις",
+      "τὸ ὄν"
     ]
   },
   {
@@ -25121,7 +25236,7 @@
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:933#ἀλλάσσειν",
     "tags": [
       "νόημα",
-      "ὄν"
+      "τὸ ὄν"
     ]
   },
   {
@@ -25156,7 +25271,6 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:973#ὀνομάζειν",
     "tags": [
-      "αἰθήρ",
       "γνώμη",
       "δόξα",
       "κόσμος",
@@ -25199,7 +25313,8 @@
     "tags": [
       "αἰθήρ",
       "εἰδέναι",
-      "φύσις"
+      "φύσις",
+      "ἀνάγκη"
     ]
   },
   {
@@ -25219,7 +25334,7 @@
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:1048#οὐράνιον",
     "tags": [
       "αἰθήρ",
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -25238,7 +25353,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:1091#στεινότεραι",
     "tags": [
-      "δαίμων"
+      "δαίμων",
+      "πῦρ"
     ]
   },
   {
@@ -25257,7 +25373,8 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:1101#πρώτιστον",
     "tags": [
-      "θεός"
+      "θεός",
+      "ἔρως"
     ]
   },
   {
@@ -25574,7 +25691,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.119",
     "tags": [
-      "καλόν"
+      "θεός"
     ]
   },
   {
@@ -25866,7 +25983,10 @@
         "reference": "I.76"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.76"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.76",
+    "tags": [
+      "νόμος"
+    ]
   },
   {
     "_id": 1511,
@@ -25884,7 +26004,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.76",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι",
+      "ἀγαθόν"
     ]
   },
   {
@@ -25901,7 +26022,11 @@
         "reference": "I.77"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.77"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.77",
+    "tags": [
+      "θεός",
+      "ἀρχή"
+    ]
   },
   {
     "_id": 1513,
@@ -25935,7 +26060,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.77",
     "tags": [
-      "νόμος"
+      "νόμος",
+      "ἀρχή"
     ]
   },
   {
@@ -25984,7 +26110,10 @@
         "reference": "I.77"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.77"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.77",
+    "tags": [
+      "χρόνος"
+    ]
   },
   {
     "_id": 1518,
@@ -26002,7 +26131,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.78",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -26035,7 +26164,10 @@
         "reference": "I.78"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.78"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.78",
+    "tags": [
+      "ἀλήθεια"
+    ]
   },
   {
     "_id": 1521,
@@ -26227,7 +26359,6 @@
     "sr": "Pojamno je ono od čega ništa ne odlazi niti mu šta dolazi. To je priroda večnih stvari, uvek ista i sebi jednaka.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.10",
     "tags": [
-      "γίγνεσθαι",
       "φύσις",
       "ἀΐδιος"
     ]
@@ -26270,8 +26401,7 @@
     "stsl": "Платонъ глаголеть · Аште памѧть єсть · виждꙑ въ сѫщихъ сѫть · памѧть бо єсть покоѧштаго сѧ и прѣбываѭштаго · ничьтоже же ино прѣбываєть · развѣ виждъ ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.15",
     "tags": [
-      "ἰδέα",
-      "ὄν"
+      "ἰδέα"
     ]
   },
   {
@@ -26394,6 +26524,7 @@
     "sr": "Istina je, stranče, lepa i postojana, ali nije lako njome uveriti.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.40",
     "tags": [
+      "καλόν",
       "ἀλήθεια"
     ]
   },
@@ -26451,6 +26582,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.64",
     "tags": [
       "εἶδος",
+      "ἀρχή",
       "ἰδέα"
     ]
   },
@@ -26470,8 +26602,7 @@
     "stsl": "Чѹвьствьно и сѫштимъ нарицаєть и не сѫштимъ · сѫштимъ · зане бꙑваниѥ имать · не сѫштимъ же · непрѣстаныѩ ради прѣмѣны ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.64",
     "tags": [
-      "γένεσις",
-      "τὸ εἶναι"
+      "γένεσις"
     ]
   },
   {
@@ -26490,7 +26621,7 @@
     "sr": "Govorio je da je duša besmrtna i da se oblači u mnoga tela.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.67",
     "tags": [
-      "θάνατος"
+      "ψυχή"
     ]
   },
   {
@@ -26507,7 +26638,10 @@
     ],
     "stsl": "Дѹша числьно начѧло имать · тѣло же землемѣрьно ·",
     "sr": "Duša ima brojno načelo, a telo geometrijsko.",
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.67"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.67",
+    "tags": [
+      "ἀρχή"
+    ]
   },
   {
     "_id": 1547,
@@ -26525,6 +26659,7 @@
     "sr": "Postavio je dva načela svega: boga i tvar. Boga naziva i umom i uzrokom. Tvar je bezoblična i beskrajna, a iz nje nastaju sastavi.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.69",
     "tags": [
+      "θεός",
       "νοῦς",
       "ἀρχή",
       "ἄπειρον",
@@ -26551,6 +26686,7 @@
       "πῦρ",
       "στοιχεῖον",
       "σχῆμα",
+      "ἀήρ",
       "ὕδωρ"
     ]
   },
@@ -26587,6 +26723,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.71-72",
     "tags": [
       "θεός",
+      "κόσμος",
       "σχῆμα"
     ]
   },
@@ -26607,8 +26744,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.73-74",
     "tags": [
       "γένεσις",
-      "γίγνεσθαι",
-      "νοῦς",
+      "γίγνομαι",
       "χρόνος",
       "ἀΐδιος"
     ]
@@ -26629,9 +26765,9 @@
     "sr": "Da bi se stroj usavršio postavši sličan umnom živom biću, nastala je priroda ostalih živih bića. Bogovi su većinom vatreni, a ostala bića pripadaju trima rodovima: krilatom, vodenom i kopnenom.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.74",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
+      "θεός",
       "κόσμος",
-      "πῦρ",
       "φύσις"
     ]
   },
@@ -26651,9 +26787,8 @@
     "sr": "Zemlja je najstarija od nebeskih bogova. Nastala je kao tvorevina koja čini noć i dan. Nalazeći se u središtu, oko središta se kreće.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.75",
     "tags": [
-      "γίγνεσθαι",
-      "θεός",
-      "νοῦς"
+      "γίγνομαι",
+      "θεός"
     ]
   },
   {
@@ -26672,9 +26807,12 @@
     "sr": "Boga, kao i dušu, smatra bestelesnim, jer tako ne prima propadanje ni trpljenje. Viđe postavlja kao uzroke i načela po kojima su stvari postojeće po prirodi upravo onakve kakve jesu.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.77",
     "tags": [
+      "θεός",
       "πάθος",
       "φθορά",
       "φύσις",
+      "ψυχή",
+      "ἀρχή",
       "ἰδέα"
     ]
   },
@@ -26694,7 +26832,8 @@
     "sr": "Cilj je upodobljavanje bogu.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.78",
     "tags": [
-      "θεός"
+      "θεός",
+      "τέλος"
     ]
   },
   {
@@ -26713,7 +26852,8 @@
     "sr": "Vrlina je samodovoljna za blagočest, ali su joj kao oruđa potrebna telesna dobra: snaga, zdravlje, valjana čula i slično.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.78",
     "tags": [
-      "εὐδαιμονία"
+      "εὐδαιμονία",
+      "ἀρετή"
     ]
   },
   {
@@ -26749,10 +26889,7 @@
     ],
     "stsl": "Мꙑслъ красьнаго първъ показа · ꙗко ѩже съдрьжить хвалимо · словесьно · пользьно · подобаѭште и съгласьно ·",
     "sr": "Prvi je odredio misao krasnog kao ono što sadrži pohvalno, slovesno, korisno, prikladno i skladno.",
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.79",
-    "tags": [
-      "καλόν"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.79"
   },
   {
     "_id": 1559,
@@ -26791,8 +26928,7 @@
     "sr": "Tri su vida pravednosti: prema bogovima, prema ljudima i prema minulima.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.83",
     "tags": [
-      "θεός",
-      "ἰδέα"
+      "θεός"
     ]
   },
   {
@@ -26831,13 +26967,12 @@
     "sr": "Svršetak stvari deli se na četiri vida. Po zakonu stvar prima svršetak kada se donese odluka i zakon je izvrši; po prirodi, kao dan, godina i godišnja doba; po umeću, kao gradnja kuće, jer neko kuću dovršava, ili brodogradnja, jer dovršava brodove; po slučaju, kada stvari ishode drukčije nego što ko misli. Svršetak stvari je, dakle, po zakonu, po prirodi, po umeću ili po slučaju.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.96-97",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "νόμος",
       "τέλος",
       "τέχνη",
       "τύχη",
-      "φύσις",
-      "ἰδέα"
+      "φύσις"
     ]
   },
   {
@@ -26856,9 +26991,8 @@
     "sr": "Čovekoljublje ima tri vida. Prvi je pozdravljanje svakoga koga ko sretne, pružanje desnice i željenje zdravlja. Drugi je pomaganje svakome koga zadesi nesreća. Treći je ljubav prema priređivanju gozbi. Čovekoljublje je, dakle, u pozdravljanju, dobročinstvu ili gošćenju i druženju.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.98",
     "tags": [
-      "γίγνεσθαι",
-      "εἶδος",
-      "ἰδέα"
+      "γίγνομαι",
+      "εἶδος"
     ]
   },
   {
@@ -26897,6 +27031,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.102",
     "tags": [
       "κακόν",
+      "τὰ ὄντα",
       "ἀγαθόν"
     ]
   },
@@ -27430,7 +27565,10 @@
         "reference": "IX.51"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.51"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.51",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 1597,
@@ -27764,9 +27902,6 @@
         "name": "hermann-diels",
         "reference": "80 B 7"
       }
-    ],
-    "tags": [
-      "μέτρον"
     ]
   },
   {
@@ -27785,7 +27920,7 @@
     ],
     "tags": [
       "δόξα",
-      "καλόν"
+      "εἰδέναι"
     ]
   },
   {
@@ -27888,8 +28023,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.61",
     "tags": [
-      "εἶδος",
-      "ἰδέα"
+      "εἶδος"
     ]
   },
   {
@@ -27908,7 +28042,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.61",
     "tags": [
-      "δίκη",
+      "καλόν",
       "νόμος",
       "ἀλήθεια"
     ]
@@ -28423,7 +28557,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.9",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -28595,7 +28729,8 @@
       "γένεσις",
       "κόσμος",
       "φθορά",
-      "χρόνος"
+      "χρόνος",
+      "ἀρχή"
     ]
   },
   {
@@ -28614,8 +28749,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.23",
     "tags": [
-      "θεός",
-      "νοῦς"
+      "θεός"
     ]
   },
   {
@@ -28685,6 +28819,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.33",
     "tags": [
       "θεός",
+      "ἀγαθόν",
+      "ἀρετή",
       "ἁρμονία"
     ]
   },
@@ -28723,7 +28859,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.35",
     "tags": [
-      "γίγνεσθαι",
       "ὕδωρ"
     ]
   },
@@ -28777,7 +28912,10 @@
         "reference": "VIII.50"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.50"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.50",
+    "tags": [
+      "καλόν"
+    ]
   },
   {
     "_id": 1674,
@@ -28812,7 +28950,12 @@
         "reference": "VIII.4–5"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.4-5"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.4-5",
+    "tags": [
+      "γίγνομαι",
+      "χρόνος",
+      "ψυχή"
+    ]
   },
   {
     "_id": 1676,
@@ -28831,6 +28974,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.6",
     "tags": [
       "λόγος",
+      "ἀήρ",
       "ὕδωρ"
     ]
   },
@@ -28905,7 +29049,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.13",
     "tags": [
-      "δίκη",
       "ψυχή",
       "ὕδωρ"
     ]
@@ -28926,6 +29069,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.14",
     "tags": [
+      "ψυχή",
       "ἀνάγκη"
     ]
   },
@@ -29335,8 +29479,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.24",
     "tags": [
-      "θεός",
-      "ἀγαθόν"
+      "θεός"
     ]
   },
   {
@@ -29374,6 +29517,8 @@
       "πῦρ",
       "στοιχεῖον",
       "σχῆμα",
+      "ἀήρ",
+      "ἀρχή",
       "ὕδωρ",
       "ὕλη"
     ]
@@ -29446,7 +29591,10 @@
         "reference": "VIII.26"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.26"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.26",
+    "tags": [
+      "ἀήρ"
+    ]
   },
   {
     "_id": 1713,
@@ -29502,7 +29650,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.28",
     "tags": [
-      "αἰθήρ"
+      "αἰθήρ",
+      "ψυχή"
     ]
   },
   {
@@ -29541,6 +29690,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.28-29",
     "tags": [
       "λόγος",
+      "ψυχή",
       "ἁρμονία"
     ]
   },
@@ -29561,7 +29711,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.29",
     "tags": [
       "εἶδος",
-      "ἰδέα",
+      "ἀήρ",
       "ὕδωρ"
     ]
   },
@@ -29581,10 +29731,11 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.30",
     "tags": [
-      "θάνατος",
+      "αἰθήρ",
       "λόγος",
       "νοῦς",
-      "ψυχή"
+      "ψυχή",
+      "ἀρχή"
     ]
   },
   {
@@ -29604,7 +29755,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.31",
     "tags": [
       "λόγος",
-      "ψυχή"
+      "ψυχή",
+      "ἀήρ"
     ]
   },
   {
@@ -29623,7 +29775,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.32",
     "tags": [
-      "ψυχή"
+      "ψυχή",
+      "ἀήρ"
     ]
   },
   {
@@ -29642,7 +29795,9 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.32",
     "tags": [
-      "κακόν"
+      "κακόν",
+      "ψυχή",
+      "ἀγαθόν"
     ]
   },
   {
@@ -29700,8 +29855,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.35",
     "tags": [
-      "φθορά",
-      "ἰδέα"
+      "εἶδος",
+      "φθορά"
     ]
   },
   {
@@ -29721,7 +29876,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.27",
     "tags": [
       "αἰθήρ",
-      "καλόν"
+      "ἀήρ"
     ]
   },
   {
@@ -29885,8 +30040,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.18",
     "tags": [
-      "δίκη",
-      "πῦρ"
+      "πῦρ",
+      "ψυχή"
     ]
   },
   {
@@ -30468,7 +30623,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.23",
     "tags": [
-      "δαίμων"
+      "δαίμων",
+      "θεός"
     ]
   },
   {
@@ -30487,7 +30643,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.33",
     "tags": [
-      "δίκη",
       "ζεύς"
     ]
   },
@@ -31198,6 +31353,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.31",
     "tags": [
       "κακόν",
+      "ἀγαθόν",
       "ἐπιστήμη"
     ]
   },
@@ -31217,7 +31373,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.31",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -31266,7 +31422,10 @@
         "reference": "II.32"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.32"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.32",
+    "tags": [
+      "εἰδέναι"
+    ]
   },
   {
     "_id": 1817,
@@ -31535,10 +31694,7 @@
         "reference": "II.35"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.35",
-    "tags": [
-      "νοῦς"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.35"
   },
   {
     "_id": 1833,
@@ -31655,6 +31811,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.40-41",
     "tags": [
+      "καλόν",
       "λόγος"
     ]
   },
@@ -31688,7 +31845,10 @@
         "reference": "II.42"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.42"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.42",
+    "tags": [
+      "ἀρετή"
+    ]
   },
   {
     "_id": 1842,
@@ -32422,7 +32582,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.60",
     "tags": [
-      "κακόν",
+      "θεός",
+      "νοῦς",
       "φιλόσοφος"
     ]
   },
@@ -32959,7 +33120,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.33",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι",
+      "τύχη"
     ]
   },
   {
@@ -33031,8 +33193,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.35",
     "tags": [
       "θεός",
-      "ἀγένητος",
-      "ὄν"
+      "τὰ ὄντα",
+      "ἀγένητος"
     ]
   },
   {
@@ -33179,7 +33341,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.36",
     "tags": [
-      "δίκη"
+      "θεός"
     ]
   },
   {
@@ -33260,7 +33422,10 @@
         "reference": "I.36"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.36"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.36",
+    "tags": [
+      "ἀρχή"
+    ]
   },
   {
     "_id": 1934,
@@ -33326,7 +33491,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.37",
     "tags": [
-      "φύσις"
+      "φύσις",
+      "ψυχή"
     ]
   },
   {
@@ -33431,7 +33597,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.24",
     "tags": [
-      "θάνατος",
       "ψυχή"
     ]
   },
@@ -33486,6 +33651,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#1.27",
     "tags": [
+      "ἀρχή",
       "ὕδωρ"
     ]
   },
@@ -33696,6 +33862,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#5.41",
     "tags": [
       "δόξα",
+      "κενόν",
       "λόγος"
     ]
   },
@@ -34511,7 +34678,6 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#4.10",
     "tags": [
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -34686,8 +34852,7 @@
     "tags": [
       "κόσμος",
       "στοιχεῖον",
-      "ἄπειρον",
-      "ὄν"
+      "τὰ ὄντα"
     ]
   },
   {
@@ -34744,7 +34909,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.19",
     "tags": [
-      "γίγνεσθαι"
+      "γίγνομαι"
     ]
   },
   {
@@ -34763,7 +34928,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.19",
     "tags": [
-      "πνεῦμα"
+      "πνεῦμα",
+      "ψυχή"
     ]
   },
   {
@@ -35351,7 +35517,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.49",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "εἰδέναι",
       "καλόν"
     ]
@@ -35741,10 +35907,7 @@
         "reference": "VII.18"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.18",
-    "tags": [
-      "λόγος"
-    ]
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.18"
   },
   {
     "_id": 2078,
@@ -35762,8 +35925,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.18",
     "tags": [
-      "λόγος",
-      "νοῦς"
+      "λόγος"
     ]
   },
   {
@@ -36203,6 +36365,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19",
     "tags": [
       "εἰδέναι",
+      "κακόν",
       "καλόν"
     ]
   },
@@ -36238,7 +36401,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.24",
     "tags": [
-      "φιλόσοφος"
+      "φιλόσοφος",
+      "ψυχή"
     ]
   },
   {
@@ -36327,7 +36491,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.39-40",
     "tags": [
       "λόγος",
-      "σοφία",
       "φιλοσοφία"
     ]
   },
@@ -36348,7 +36511,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.87",
     "tags": [
       "τέλος",
-      "φύσις"
+      "φύσις",
+      "ἀρετή"
     ]
   },
   {
@@ -36425,7 +36589,10 @@
         "reference": "VII.121"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.121"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.121",
+    "tags": [
+      "πολιτεία"
+    ]
   },
   {
     "_id": 2117,
@@ -36447,7 +36614,6 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.127",
     "tags": [
       "εὐδαιμονία",
-      "ἀγαθόν",
       "ἀρετή"
     ]
   },
@@ -36467,7 +36633,9 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.129",
     "tags": [
-      "ἰδέα"
+      "εἶδος",
+      "πολιτεία",
+      "ἀρετή"
     ]
   },
   {
@@ -36489,6 +36657,7 @@
       "λόγος",
       "οὐσία",
       "ἀΐδιος",
+      "ἀρχή",
       "ὕλη"
     ]
   },
@@ -36511,12 +36680,15 @@
       "γένεσις",
       "εἱμαρμένη",
       "ζεύς",
+      "θεός",
       "κόσμος",
       "λόγος",
       "νοῦς",
       "οὐσία",
       "πῦρ",
       "στοιχεῖον",
+      "ἀήρ",
+      "ἀρχή",
       "ὕδωρ",
       "ὕλη"
     ]
@@ -36541,7 +36713,8 @@
       "κόσμος",
       "οὐσία",
       "πῦρ",
-      "φθορά"
+      "φθορά",
+      "ἀήρ"
     ]
   },
   {
@@ -36593,7 +36766,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.148",
     "tags": [
       "θεός",
-      "κόσμος"
+      "κόσμος",
+      "οὐσία"
     ]
   },
   {
@@ -36615,7 +36789,7 @@
       "εἱμαρμένη",
       "κόσμος",
       "λόγος",
-      "ὄν"
+      "τὰ ὄντα"
     ]
   },
   {
@@ -36653,9 +36827,9 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.150",
     "tags": [
-      "γίγνεσθαι",
+      "γίγνομαι",
       "οὐσία",
-      "ὄν",
+      "τὰ ὄντα",
       "ὕλη"
     ]
   },
@@ -37176,7 +37350,10 @@
         "reference": "IX.29"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.29"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.29",
+    "tags": [
+      "ψυχή"
+    ]
   },
   {
     "_id": 2158,
@@ -37224,8 +37401,7 @@
       }
     ],
     "tags": [
-      "νόμος",
-      "ὄν"
+      "τὰ ὄντα"
     ]
   },
   {
@@ -37281,10 +37457,7 @@
         "reference": "29 B 2"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/19-Zeno.txt:508#προσγενομένου",
-    "tags": [
-      "γίγνεσθαι"
-    ]
+    "pointer": "data/sources/hermann-diels/philosophers/19-Zeno.txt:508#προσγενομένου"
   },
   {
     "_id": 2164,
@@ -37302,9 +37475,9 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/19-Zeno.txt:524#ἐλάττονα",
     "tags": [
+      "τὰ ὄντα",
       "ἀνάγκη",
-      "ἄπειρον",
-      "ὄν"
+      "ἄπειρον"
     ]
   },
   {
@@ -37370,6 +37543,7 @@
       }
     ],
     "tags": [
+      "τὸ ὄν",
       "ἄπειρον"
     ]
   },

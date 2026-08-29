@@ -123,7 +123,7 @@
 | εὐθυμία           | благодѹшіє                            | blagodušje                      |
 | εὔθυμος           | благодѹшьнъ                           | blagodušan                      |
 | ἐφ’ ἡμῖν          | на насъ                               | do nas (alt. na nama)           |
-| ζεύς / ζάς        | небо (alt: Зевсъ)                     | nebo (alt: Zevs)                |
+| ζεύς              | небо (alt: Зевсъ)                     | nebo (alt: Zevs)                |
 | ζωή               | животъ                                | život                           |
 | ζῷον              | животно                               | živo biće, životinja            |
 | ἡδονή             | сластъ                                | zadovoljstvo                    |
@@ -176,8 +176,8 @@
 | οἶδα              | вѣдѣти                                | vedeti (alt. uvideti, znati)    |
 | ὁμολογέω          | съсловити сѧ                          | susloviti se                    |
 | ὁμολογία          | съсловлєніє                           | suslovljenje                    |
-| ὄν / τὸ ὄν / ἐόν  | сѫщее                                 | sušto (alt: biće)               |
-| ὄντα / τὰ ὄντα / ἐόντα | сѫщаѧ                            | sušta (alt: bića)               |
+| τὸ ὄν             | сѫщее                                 | sušto (alt: biće)               |
+| τὰ ὄντα           | сѫщаѧ                                 | sušta (alt: bića)               |
 | ὀρέγομαι          | тѧжити                                | težiti                          |
 | ὄρεξις            | тѧженіє                               | težnja                          |
 | ὁρμή              | порꙑвъ                                | poriv                          |
