@@ -623,7 +623,10 @@
         "reference": "II.9"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.9"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.9",
+    "tags": [
+      "γίγνομαι"
+    ]
   },
   {
     "_id": 37,
@@ -1288,7 +1291,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:1930#εἰδέναι",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -1842,6 +1845,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "κόσμος",
       "στοιχεῖον",
       "τὰ ὄντα",
@@ -2012,6 +2016,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "κόσμος",
       "πῦρ",
       "ἀήρ"
@@ -2030,6 +2035,9 @@
         "name": "hermann-diels",
         "reference": "12 A 11"
       }
+    ],
+    "tags": [
+      "γίγνομαι"
     ]
   },
   {
@@ -2120,6 +2128,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "ἀήρ"
     ]
   },
@@ -2204,6 +2213,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "δίκη",
       "τὰ ὄντα",
       "φθορά",
@@ -2438,6 +2448,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "πῦρ",
       "ὕδωρ"
     ]
@@ -2457,6 +2468,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "ἀΐδιος"
     ]
   },
@@ -2495,6 +2507,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/03-Anaximenes.txt:273#ἄπειρον",
     "tags": [
+      "γίγνομαι",
       "θεός",
       "ἀήρ",
       "ἀρχή",
@@ -2692,6 +2705,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "ἀήρ",
       "ὕδωρ"
     ]
@@ -2715,6 +2729,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "πνεῦμα"
     ]
   },
@@ -2733,6 +2748,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "ἀήρ"
     ]
   },
@@ -2751,6 +2767,7 @@
       }
     ],
     "tags": [
+      "γίγνομαι",
       "ἀήρ",
       "ὕδωρ"
     ]
@@ -3035,7 +3052,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.3",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -3768,7 +3785,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.11",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -4505,7 +4522,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.69",
     "tags": [
-      "εἰδέναι",
+      "οἶδα",
       "φιλόσοφος"
     ]
   },
@@ -4814,7 +4831,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.73",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -5135,7 +5152,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.81",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -10360,7 +10377,10 @@
         "reference": "IX.44"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.44"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.44",
+    "tags": [
+      "γίγνομαι"
+    ]
   },
   {
     "_id": 600,
@@ -10437,6 +10457,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.45",
     "tags": [
       "γένεσις",
+      "γίγνομαι",
       "ἀνάγκη"
     ]
   },
@@ -13287,8 +13308,8 @@
       }
     ],
     "tags": [
-      "εἰδέναι",
-      "θεός"
+      "θεός",
+      "οἶδα"
     ]
   },
   {
@@ -14803,7 +14824,10 @@
         "reference": "VI.32"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.32"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.32",
+    "tags": [
+      "γίγνομαι"
+    ]
   },
   {
     "_id": 981,
@@ -16474,7 +16498,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#6.64",
     "tags": [
-      "εἰδέναι",
+      "οἶδα",
       "σοφία"
     ]
   },
@@ -18136,7 +18160,7 @@
       }
     ],
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -20737,7 +20761,7 @@
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1507#γινόμενα",
     "tags": [
       "δίκη",
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -20963,6 +20987,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.7",
     "tags": [
+      "γίγνομαι",
       "εἱμαρμένη",
       "πῦρ",
       "τὰ ὄντα"
@@ -21062,6 +21087,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.8",
     "tags": [
+      "γίγνομαι",
       "εἱμαρμένη",
       "πῦρ"
     ]
@@ -21101,6 +21127,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.9",
     "tags": [
+      "γίγνομαι",
       "πῦρ",
       "ὕδωρ"
     ]
@@ -21121,6 +21148,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.9",
     "tags": [
+      "γίγνομαι",
       "πῦρ"
     ]
   },
@@ -21138,7 +21166,10 @@
         "reference": "IX.10"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.10"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.10",
+    "tags": [
+      "γίγνομαι"
+    ]
   },
   {
     "_id": 1235,
@@ -21438,6 +21469,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:556#διαφερόντων",
     "tags": [
+      "γίγνομαι",
       "ἁρμονία"
     ]
   },
@@ -21695,7 +21727,7 @@
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:816#ὄνομα",
     "tags": [
       "δίκη",
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -22164,7 +22196,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1184#ἐπίστανται",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -22586,7 +22618,10 @@
         "reference": "B.110"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1748#ἀνθρώποις"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1748#ἀνθρώποις",
+    "tags": [
+      "γίγνομαι"
+    ]
   },
   {
     "_id": 1318,
@@ -23213,7 +23248,10 @@
         "reference": "B.63"
       }
     ],
-    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1270#ἐγερτὶ"
+    "pointer": "data/sources/hermann-diels/philosophers/12-Heraclitus.txt:1270#ἐγερτὶ",
+    "tags": [
+      "γίγνομαι"
+    ]
   },
   {
     "_id": 1353,
@@ -25312,7 +25350,7 @@
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:1038#ἐξεγένοντο",
     "tags": [
       "αἰθήρ",
-      "εἰδέναι",
+      "οἶδα",
       "φύσις",
       "ἀνάγκη"
     ]
@@ -26659,6 +26697,7 @@
     "sr": "Postavio je dva načela svega: boga i tvar. Boga naziva i umom i uzrokom. Tvar je bezoblična i beskrajna, a iz nje nastaju sastavi.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.69",
     "tags": [
+      "γίγνομαι",
       "θεός",
       "νοῦς",
       "ἀρχή",
@@ -27606,8 +27645,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.51-52",
     "tags": [
-      "εἰδέναι",
-      "θεός"
+      "θεός",
+      "οἶδα"
     ]
   },
   {
@@ -27920,7 +27959,7 @@
     ],
     "tags": [
       "δόξα",
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -28487,7 +28526,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.9",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -29539,6 +29578,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.25",
     "tags": [
+      "γίγνομαι",
       "κόσμος"
     ]
   },
@@ -29558,6 +29598,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.26",
     "tags": [
+      "γίγνομαι",
       "κόσμος"
     ]
   },
@@ -29754,6 +29795,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.31",
     "tags": [
+      "γίγνομαι",
       "λόγος",
       "ψυχή",
       "ἀήρ"
@@ -29775,6 +29817,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#8.32",
     "tags": [
+      "γίγνομαι",
       "ψυχή",
       "ἀήρ"
     ]
@@ -31424,7 +31467,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.32",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -31882,7 +31925,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.60",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -34831,7 +34874,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.19",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -34983,7 +35026,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.72",
     "tags": [
-      "εἰδέναι"
+      "οἶδα"
     ]
   },
   {
@@ -35518,8 +35561,8 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#2.49",
     "tags": [
       "γίγνομαι",
-      "εἰδέναι",
-      "καλόν"
+      "καλόν",
+      "οἶδα"
     ]
   },
   {
@@ -36364,9 +36407,9 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.19",
     "tags": [
-      "εἰδέναι",
       "κακόν",
-      "καλόν"
+      "καλόν",
+      "οἶδα"
     ]
   },
   {
@@ -36383,7 +36426,10 @@
         "reference": "VII.26"
       }
     ],
-    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.26"
+    "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.26",
+    "tags": [
+      "γίγνομαι"
+    ]
   },
   {
     "_id": 2106,
@@ -36710,6 +36756,7 @@
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.142",
     "tags": [
       "γένεσις",
+      "γίγνομαι",
       "κόσμος",
       "οὐσία",
       "πῦρ",
@@ -36786,6 +36833,7 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#7.149",
     "tags": [
+      "γίγνομαι",
       "εἱμαρμένη",
       "κόσμος",
       "λόγος",
