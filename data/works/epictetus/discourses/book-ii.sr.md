@@ -2307,275 +2307,6 @@ Ali ti nisi Herakle i ne možeš čistiti tuđa zla; nisi ni Tezej da očistiš 
 To se ne može drukčije izbaciti nego gledajući samo na boga, prianjajući samo uz njega i posvećujući se njegovim zapovestima. Ako pak želiš nešto drugo, uzdisat ćeš i stenjući slediti jačega, stalno tražeći srećan tok u spoljašnjem i nikada ga ne nalazeći. Jer ga tražiš onde gde ga nema, pošto si propustio da ga tražiš onde gde jeste.
 
 <!-- anchor:II.17 -->
-<!-- Zamenjen nekanonski prethodni tekst; čisti se zajedno sa završnom redakcijom knjige.
-Predpojmovi su svim ljudima zajednički i jedan predpojam ne protivreči drugome.
-
-Jer ko od nas ne smatra da je dobro korisno i poželjno i da mu u svakoj prilici treba težiti i za njim ići?
-
-Ko od nas ne smatra da je pravedno lepo i prikladno?
-
-Kada onda nastaje protivrečnost?
-
-Pri primeni predpojmova na pojedinačne stvari.
-
-Kada jedan kaže:
-
-Dobro je postupio; hrabar je,
-
-a drugi:
-
-Nije, nego je bezuman.
-
-Otuda nastaju međusobne razmirice među ljudima.
-
-Takva je i razmirica između Judeja, Sirijaca, Egipćana i Rimljana: ne o tome treba li sveto poštovati iznad svega i za nj se u svakoj prilici starati, nego je li sveto ili nije sveto jesti svinjsko meso.
-
-Takvu ćeš razmiricu naći i između Agamemnona i Ahileja.
-
-Pozovi ih ovamo.
-
-Šta ti kažeš, Agamemnone?
-
-Zar ne treba činiti ono što je pravo i valjano?
-
-Svakako.
-
-A ti, Ahileju, šta kažeš?
-
-Zar ti nije milo ono što je valjano?
-
-Najmilije od svega.
-
-Primenite, dakle, predpojmove.
-
-Tu počinje razmirica.
-
-Jedan kaže:
-
-Ne treba da vratim Hriseidu njenom ocu.
-
-Drugi kaže:
-
-Treba.
-
-Jedan od njih nužno rđavo primenjuje predpojam onoga što treba.
-
-I opet jedan kaže:
-
-Ako treba da vratim Hriseidu, treba da uzmem nagradu nekome od vas.
-
-Drugi:
-
-Zar ćeš mi, dakle, uzeti moju dragu?
-
-Da, tvoju.
-
-Samo moju?
-
-Da.
-
-Šta onda nastaje?
-
-Sukob.
-
-Šta, dakle, znači obrazovati se?
-
-Naučiti primenjivati prirodne predpojmove na pojedinačne stvari saglasno prirodi; a zatim razlučiti da su od stvari jedne do nas, a druge nisu do nas.
-
-Do nas su proizvoljenje i sva dela proizvoljenja.
-
-Nisu do nas telo, delovi tela, imanje, roditelji, braća, deca, otadžbina i uopšte oni s kojima živimo.
-
-Gde ćemo onda postaviti dobro?
-
-Na koju ćemo ga suštastvenost primeniti?
-
-Na ono što je do nas.
-
-A gde ćemo postaviti zlo?
-
-Isto onde.
-
-Šta ćemo, dakle, sa onim što nije do nas?
-
-Nije ni dobro ni zlo.
-
-Ali zar nam Bog neće dati ništa od toga?
-
-Daće.
-
-I ako nam dade, sačuvaćemo ga.
-
-A ako uzme, predaćemo mu ga.
-
-Ko se može protiviti Bogu i ostati nepovređen?
-
-Ko može izbeći njegovo upravljanje?
-
-Ali ja hoću da mi dete živi.
-
-Hoćeš li i da je dobro?
-
-Da.
-
-A hoćeš li da ti žena živi?
-
-Da.
-
-A hoćeš li da je dobro?
-
-Da.
-
-A zar je do tebe da oni žive?
-
-Nije.
-
-Zar je do njih da ti živiš?
-
-Nije.
-
-Traži, dakle, ono što je tvoje.
-
-Želi da tvoje proizvoljenje bude dobro.
-
-To ti niko ne može oduzeti.
-
-Ali dete mi umire.
-
-Šta se dogodilo?
-
-Dete je umrlo.
-
-Ništa drugo?
-
-Ništa.
-
-Brod mi je propao.
-
-Šta se dogodilo?
-
-Brod je propao.
-
-Prognan sam.
-
-Šta se dogodilo?
-
-Prognan si.
-
-A da ti se dogodilo zlo?
-
-To si sam dodao.
-
-Ali sudija je presudio da sam bezbožan.
-
-Je li presudio i da si nesrećan?
-
-Nije.
-
-Je li presudio da si rđav čovek?
-
-Nije.
-
-Ko onda može presuditi o tome?
-
-Ti sam.
-
-Zato treba u svakoj stvari imati pripravljeno:
-
-Vodi me, Zevse, i ti, Sudbino,
-kuda ste mi odredili.
-
-Slediću bez oklevanja.
-
-A ako ne budem hteo?
-
-Biću zao i ipak ću slediti.
-
-Ko se valjano pomiri s nuždom,
-taj je među nama mudar
-i poznaje božanske stvari.
-
-Tako govori filozof.
-
-Ali ne samo ustima.
-
-Kada dođe bolest, tada pokaži te reči.
-
-Kada dođe brodolom, tada.
-
-Kada dođe osuda, tada.
-
-A kada umireš?
-
-Tada naročito.
-
-Vodi me kuda hoćeš.
-
-Obuci me u koju god odeću hoćeš.
-
-Hoćeš li da budem upravitelj?
-
-Hoću.
-
-Običan čovek?
-
-Hoću.
-
-Prognanik?
-
-Hoću.
-
-Siromah?
-
-Hoću.
-
-Jer za sve ću to pred ljudima svedočiti o tebi:
-
-pokazaću kakva je priroda svake od stvari koje nisu do nas.
-
-Ali brat se neće lepo odnositi prema meni.
-
-To je njegovo.
-
-On će se o tome starati.
-
-Meni je Zevs dao da se ja prema njemu odnosim kako treba.
-
-I niko me ne može sprečiti da to učinim.
-
-Zato, kao na putovanju, gledaj samo ono što je tvoje.
-
-Kada se ukrcavaš na brod, šta možeš učiniti?
-
-Izabrati kormilara, mornare, dan i čas.
-
-A zatim dođe oluja.
-
-Šta je sada tvoje delo?
-
-Učinio si svoje.
-
-Sada je stvar kormilareva.
-
-Ali brod tone.
-
-Šta ti ostaje?
-
-Činiš jedino što možeš:
-
-toneš bez straha, bez vike, bez optuživanja Boga, znajući da ono što je rođeno mora i propasti.
-
-Jer nisi večnost, niti si sve, nego čovek — deo svega, kao što je čas deo dana.
-
-Kao čas moraš doći i kao čas proći.
-
-Šta ti je onda stalo kako ćeš proći?
-
-U vodi ili u groznici?
-
-Jer nekim takvim putem moraš proći.
-
--->
 
 Prvi je posao onoga koji filozofira da odbaci uobraženje. Nemoguće je početi učiti ono za šta čovek misli da već zna.
 
@@ -2903,183 +2634,116 @@ Ja sam sada vaš učitelj, vi se kod mene obrazujete. Moja je namera da vas uči
 Zašto onda ne dovršavate? Recite mi uzrok. Ili je do mene, ili do vas, ili do naravi stvari. Sama je stvar moguća i jedina do nas. Ostaje, dakle, da je do mene ili do vas — ili, istinitije, do obojih. Hoćete li jednom ovamo doneti takvu nameru? Ostavimo ono što je bilo dosad. Samo počnimo, verujte mi, pa ćete videti.
 
 <!-- anchor:II.20 -->
-Čak i oni koji poriču da postoji išta što je po prirodi očigledno, prisiljeni su da se služe onim što poriču; i gotovo je najveći dokaz da je nešto očigledno upravo to što je i onaj koji mu protivreči prinuđen da se njime služi.
+Zdravim i očiglednim tvrdnjama nužno se služe i oni koji im protivreče. I gotovo bi najvećim dokazom da je nešto očigledno trebalo smatrati to što je i onaj koji protivreči prinuđen da se time u isti mah služi.
 
-Ako, na primer, neko kaže:
+Ako, na primer, neko protivreči tome da postoji nešto opšte istinito, očigledno je da mora izreći suprotnu tvrdnju:
 
-Ništa nije istinito,
+Ništa nije opšte istinito.
 
-najpre mu odgovori:
+Zar, nesrećniče, ni to ne dopuštaš? Jer šta drugo time kažeš nego da je lažno sve što se opšte tvrdi?
 
-Pa zar ni to nije istinito?
+Ili ako neko istupi i kaže:
 
-A ako kaže:
+Znaj da se ništa ne može znati, nego je sve nedokazivo.
 
-Nijedna predstava nije verodostojna,
+Ili drugi:
 
-zar ne veruje ni toj predstavi?
+Veruj mi i biće ti bolje: čovek ničemu ne treba da veruje.
 
-A ako kaže:
+Ili opet:
 
-Nema nikakva dokaza,
+Nauči od mene, čoveče, da se ništa ne može naučiti; ja ti to govorim i poučiću te, ako hoćeš.
 
-odakle zna?
+Po čemu se oni razlikuju od onih koje nazivamo akademičarima?
 
-Jer šta čini onaj koji se trudi da dokaže da dokaza nema?
+Ljudi, složite se da se niko ne slaže. Verujte nam da niko nikome ne veruje.
 
-Služi se dokazom da bi ukinuo dokaz.
+Tako se i Epikur, kada hoće da ukine prirodnu zajednicu među ljudima, služi upravo onim što ukida. Jer šta govori?
 
-A onaj koji hoće da pokaže da ništa nije očigledno, služi se onim što mu se čini očiglednim.
+Ne dajte se obmanuti, ljudi, niti zavesti niti prevariti: među slovesnim živim bićima nema prirodne zajednice. Verujte mi. Oni koji drukčije govore obmanjuju vas i zavode lažnim dokazima.
 
-Takve ljude teško je čak i ubediti da su ljudi.
+Šta te se to tiče? Pusti nas da budemo obmanuti. Hoće li tebi biti gore ako se svi ostali uvere da među nama postoji prirodna zajednica i da je treba na svaki način čuvati? Naprotiv, biće ti mnogo bolje i bezbednije.
 
-Jer kako da razgovaram s nekim ko se ne služi govorom kao govorom, nego ga kvari upravo onda kada ga upotrebljava?
+Čoveče, zašto se staraš o nama? Zašto radi nas bdiješ? Zašto pališ svetiljku? Zašto ustaješ rano? Zašto pišeš tolike knjige — da se niko od nas ne prevari o bogovima i ne poveruje da se staraju o ljudima, ili da neko ne pomisli kako je dobro nešto drugo a ne uživanje?
 
-Kako da razgovaram s čovekom koji poriče vlastitu predstavu i ne pristaje ni na šta što mu se pokazuje?
+Jer ako je tako, lezi i spavaj, i živi životom crva kojega si sebe dostojnim proglasio: jedi, pij, opšti sa ženama, obavljaj nuždu i hrči.
 
-To je kao kada bi neko, pošto mu se čulo pretvorilo u kamen, odbacivao sve što mu se donosi.
+Šta te se tiče kako će ostali misliti o tome, pravo ili krivo? Šta mi imamo s tobom?
 
-Čovek ima dve moći: moć pristanka i moć nepristajanja; moć težnje i moć otklona.
+Ti se staraš o ovcama jer nam daju vunu i mleko, a naposletku i meso. Zar ne bi bilo poželjno da ljudi, uspavani i opčinjeni od stoika, dođu i predaju sebe tebi i tvojima da ih strižete i muzete? Zar to ne treba da govoriš svojim saepikurejcima, a da od drugih kriješ i njih pre svega uveravaš da smo po prirodi stvoreni za zajednicu i da je uzdržanost dobro, kako bi tebi sve bilo bezbedno?
 
-Ako ih neko namerno umrtvi, šta još mogu da učinim s njim?
+Ili zajednicu treba čuvati s jednima, a s drugima ne? S kim, dakle: s onima koji je takođe čuvaju ili s onima koji je prestupaju? A ko je više prestupa od vas koji postavljate takva mnenja?
 
-Ne mogu mu otvoriti ono što je zatvorio.
+Šta je onda Epikura probudilo iz sna i primoralo ga da piše ono što je pisao? Šta drugo nego ono najjače u ljudima — priroda, koja čoveka vuče svojoj volji i kad se on opire i jada?
 
-Ne mogu ga prisiliti da vidi.
+Pošto misliš da nema zajednice među ljudima, govori mu ona, napiši to mnenje i ostavi ga drugima; prekini san radi toga i vlastitim delima osudi svoja mnenja.
 
-Kaže:
+Kažemo li da su Erinije uznemirile Oresta i prenele ga iz duboka sna, a da Epikura nisu iz sna digle još svirepije Erinije i boli, ne dajući mu počinka nego ga primoravajući da objavi vlastita zla, kao što bezumlje i vino gone Gale?
 
-Ne treba verovati čulima.
+Toliko je snažna i nepobediva čovekova priroda. Kako bi se loza mogla kretati ne kao loza nego kao maslina, ili maslina ne kao maslina nego kao loza? Nemoguće je i nepojmljivo.
 
-Ne veruj.
+Tako ni čovek ne može sasvim izgubiti ljudske pokrete; čak ni oni kojima su odsečeni polni udovi ne mogu odseći ljudske težnje.
 
-Kaže:
+Tako je i Epikur odsekao sve što pripada mužu, glavi doma, građaninu i prijatelju, ali ljudske težnje nije odsekao, jer nije mogao; kao što ni bedni akademičari ne mogu odbaciti ili oslepiti vlastita čula, premda se oko toga najviše od svega trude.
 
-Ništa nije izvesno.
+Kakve li nesreće: dobivši od prirode mere i pravila za poznavanje istine, čovek se ne trudi da im doda i doradi ono što nedostaje, nego sasvim protivno pokušava da iščupa i uništi i ono čime istinu može poznati.
 
-Nemoj onda ni to smatrati izvesnim.
+Šta kažeš, filozofe: kakvim ti se čine pobožno i sveto?
 
-Ali on se ipak ljuti ako ga ne slušamo.
+Ako hoćeš, dokazaću da su dobro.
 
-Robe, kakve veze imaš s nama?
+Da, dokaži, kako bi se naši građani obratili, poštovali božansko i jednom prestali da zanemaruju najvažnije stvari. Imaš li dokaze?
 
-Ako je sve neizvesno, neizvesno je i to da ti govorimo.
+Imam, i zahvalan sam.
 
-Ako se ničemu ne može verovati, nemoj verovati ni da te ne slušamo.
+Pošto ti se to toliko dopada, uzmi sada suprotno: bogova nema; ako ih i ima, ne staraju se o ljudima niti mi s njima imamo išta zajedničko; a pobožno i sveto, o kojem govori većina ljudi, laž je hvalisavaca i sofista, ili, tako mi Zevsa, zakonodavaca koji njome straše i obuzdavaju prestupnike.
 
-Zašto se uznemiravaš?
+Dobro, filozofe. Pomogao si našim građanima; povratio si mladiće koji su već naginjali preziranju božanskoga.
 
-Tako se i Epikur, kada hoće da ukine prirodnu zajednicu među ljudima, služi upravo onim što ukida.
+Zar ti to nije dovoljno? Nauči sada da pravda nije ništa, da je stid ludost, da otac nije ništa, ni sin ništa.
 
-Jer šta govori?
+Dobro, filozofe. Istraj i ubedi mladiće, kako bi nas bilo više s istim mnenjima i istim rečima. Iz takvih mnenja izrasle su naše dobro uređene države; njima je osnovana Sparta. Likurg je svojim zakonima i vaspitanjem usadio Spartancima da ropstvo nije sramnije od časnoga, niti sloboda časnija od sramnoga; oni koji pogiboše kod Termopila pogiboše zbog tih mnenja. A zbog kojih drugih mnenja Atinjani ostaviše svoj grad?
 
-Ne dajte se obmanuti, ljudi, niti zavesti niti prevariti.
+Zatim oni koji tako govore uzimaju žene, rađaju decu, bave se državnim poslovima i postaju sveštenici i tumači.
 
-Nema nikakve prirodne zajednice među slovesnim bićima.
+Čega? Bogova kojih nema.
 
-Verujte mi.
+I pitaju Pitiju da čuju laži, pa proroštva objavljuju drugima. O, velike li bestidnosti i obmane!
 
-Oni koji govore drukčije varaju vas i zavode.
+Čoveče, šta radiš? Svakoga dana pobijaš samoga sebe; nećeš li ostaviti te hladne pokušaje?
 
-Šta te se tičemo?
+Kada jedeš, kuda nosiš ruku: ustima ili oku? Kada se kupaš, u šta ulaziš? Nazivaš li ikada lonac tanjirom ili varjaču ražnjem?
 
-Pusti nas da budemo prevareni.
+Da sam rob nekom od tih ljudi, mučio bih ga makar me svakoga dana drao.
 
-Zar će ti biti gore ako svi ostali ljudi poveruju da imamo prirodnu zajednicu jedni s drugima i da je treba na svaki način čuvati?
+Dečače, ulij malo ulja u kupatilo.
 
-Naprotiv, biće ti mnogo bolje i sigurnije.
+Ja bih uzeo salamuru i izlio mu je na glavu.
 
-Čoveče, zašto se onda staraš radi nas?
+Šta je to?
 
-Zašto radi nas bdiješ?
+Takva mi se predstava javila, kunem se tvojim genijem; nije se mogla razlikovati od ulja i sasvim mu je nalikovala.
 
-Zašto pališ svetiljku?
+Donesi mi ječmeno piće.
 
-Zašto ustaješ rano?
+Napunio bih činiju ljutim umakom i doneo mu je.
 
-Zašto pišeš tolike knjige?
+Zar nisam tražio ječmeno piće?
 
-Da se neko od nas ne prevari misleći da se bogovi staraju o ljudima?
+Jesi, gospodaru; ovo je ječmeno piće. Uzmi i omiriši, uzmi i okusi. Kako znaš, ako nas čula varaju?
 
-Da ne pomislimo da je priroda uživanja nešto drugo osim dobra?
+Da imam tri ili četiri roba istoga mnenja, naterao bih ga da se od jeda obesi ili da promeni mnenje. A sada nam se rugaju: služe se svime što priroda daje, a rečima to uništavaju.
 
-Jer ako je tako, lezi i spavaj i živi životom crva, kojega si sebe dostojnim proglasio.
+Zahvalni su to i stidljivi ljudi: ako ništa drugo, svakoga dana jedu hleb, a ipak se usuđuju reći da ne znamo postoji li Demetra, Kora ili Pluton.
 
-Jedi, pij, opšti sa ženama, obavljaj nuždu i hrči.
+Da i ne govorim kako uživaju noć i dan, promene godišnjih doba, zvezde, more, zemlju i ljudsku saradnju, a ništa od toga ih ni najmanje ne navodi da se osvrnu; traže samo da izbljuju svoje pitanjce, pa, izvežbavši želudac, odu u kupatilo.
 
-Šta te se tiče kakva će mnenja drugi imati o tim stvarima?
+Šta će govoriti, o čemu, kome i šta će njihovim slušaocima ostati od tih govora — za to ni najmanje ne mare. Ne mare hoće li plemenit mladić, čuvši takve govore, pretrpeti kakvo zlo ili, pretrpevši ga, izgubiti sve klice svoje plemenitosti; hoćemo li preljubniku dati oslonac da se ne stidi svojih dela; hoće li kradljivac javnoga dobra u tim govorima naći kakvu domislicu; hoće li onaj koji zanemaruje roditelje od njih dobiti još smelosti.
 
-Jer ništa nam nije bliže od nas samih.
+Šta je, dakle, po tebi dobro ili zlo, sramno ili krasno? Ovo ili ono?
 
-Zašto se onda staraš o nama?
+Zašto bi još iko takvome protivrečio, davao ili primao razlog, ili pokušavao da ga preobrati? Tako mi Zevsa, mnogo bi se pre mogao nadati da preobratiš razvratnike nego one koji su toliko ogluveli i oslepeli za vlastita zla.
 
-Tako je i Epikur odsekao sve što pripada mužu, glavi doma, građaninu i prijatelju, ali nije mogao odseći ljudske težnje.
-
-Kao što ni oni koji poriču istinu ne mogu ukloniti čovekovu težnju ka istini.
-
-Priroda je snažna i pobedonosna.
-
-Kako god je sakatio, ona opet izbija i pokazuje svoju moć.
-
-Ali Epikur kaže:
-
-Ne treba podizati decu.
-
-Zašto?
-
-Da ne bismo zapali u brige.
-
-A zašto se ti brineš hoćemo li mi zapasti u brige?
-
-Šta ti je stalo do nas?
-
-Zar ti je stalo i do Megaraca?
-
-Zar je ijedan od njih tvoj sin?
-
-Ne.
-
-Zašto onda ustaješ noću i pišeš za ljude koji će doći posle tebe?
-
-Zašto si ostavio knjige?
-
-Nije li zato da nam pomogneš?
-
-Nije li zato što ti je bilo stalo do ljudi koje nikada nisi video?
-
-Tako priroda u tebi svedoči protiv tvojih učenja.
-
-I šta da kažemo o tome što se Epikur, isti taj koji kaže da nema prirodne zajednice, koristi prijateljstvom, hvali prijateljstvo, govori da za prijatelja treba biti spreman i umreti?
-
-Odakle onda prijateljstvo?
-
-Odakle ljubav prema deci?
-
-Odakle radost zbog dobra drugoga?
-
-Ako je svako biće po prirodi usmereno samo prema sebi, odakle sve ovo?
-
-Od prirode.
-
-I ona je jača od tvojih reči.
-
-Zato su takva učenja nemoćna protiv dela.
-
-Čovek može reći šta god hoće, ali ne može sasvim prestati da bude čovek.
-
-Može tvrditi da nema zajednice, a ipak će se ljutiti ako ga prijatelj izda.
-
-Može tvrditi da je uživanje jedino dobro, a ipak će podneti mnoge bolove radi onoga koga voli.
-
-Može tvrditi da bogovi ne mare za nas, a ipak će u opasnosti podići oči prema nebu.
-
-Zašto?
-
-Jer je ono što je usađeno prirodom jače od onoga što je mnenjem naknadno pridodato.
-
-Zato se filozof ne treba čuditi samo rečima, nego gledati dela.
-
-Jer dela najjasnije pokazuju kakva su čovekova stvarna mnenja.
 
 <!-- anchor:II.21 -->
 Neke stvari ljudi lako priznaju, a druge ne priznaju ni po koju cenu.
@@ -3166,53 +2830,43 @@ A zatim govore:
 
 Niko nema koristi od učilišta.
 
-Ko dolazi iz učilišta bolji?
+Ko zapravo dolazi u učilište? Ko dolazi kao da će se lečiti? Ko dolazi da izloži svoja mnenja očišćenju, ko da sazna šta mu nedostaje?
 
-Pokaži mi jednoga.
+Zašto se onda čudite ako iz učilišta odnosite upravo ono što ste u njega doneli? Jer ne dolazite da to odložite ili ispravite ili da umesto toga primite nešto drugo.
 
-Hoćeš li, dakle, da drugi snose krivicu za tvoje zlo?
+Ni blizu.
 
-Zar ti nemaš predpojmove?
+Više gledate da li dobijate ono radi čega dolazite. Hoćete da brbljate o naukama.
 
-Zar nemaš razum?
+Pa šta? Ne postajete li veće brbljivice? Ne daju li vam te naučice neku građu za razmetanje? Ne razrešavate li silogizme i promenljive dokaze? Ne pretresate li postavke Lažljivca i uslovne dokaze?
 
-Zar nisi slušao ove govore?
+Zašto se onda još ljutite ako dobijate ono radi čega ste došli?
 
-Šta si s njima učinio?
+Da; ali ako mi umre dete ili brat, ili ako ja moram umreti ili biti mučen, šta će mi takve stvari koristiti?
 
-Zašto onda tražiš nekoga na koga ćeš svaliti krivicu?
+Zar si radi toga došao? Zar radi toga sediš kraj mene? Zar si radi toga ikada palio svetiljku ili bdeo? Ili si, izišavši u šetalište, ikada umesto silogizma postavio sebi neku predstavu i zajedno je s drugovima ispitao?
 
-Valjan čovek ne postaje odjednom, niti se grozd rodi za jedan dan.
+Kada si to učinio?
 
-Ako mi kažeš:
+A zatim govorite da su nauke beskorisne.
 
-Hoću smokvu,
+Kome? Onima koji se njima ne služe kako treba.
 
-odgovoriću ti:
+Jer očne pomasti nisu beskorisne onima koji ih nanose kada i kako treba; ni oblozi nisu beskorisni; ni tegovi nisu beskorisni. Nego su jednima beskorisni, a drugima korisni.
 
-Treba vremena.
+Ako me sada upitaš jesu li silogizmi korisni, reći ću ti da jesu; a ako hoćeš, pokazaću i kako.
 
-Neka najpre procveta, zatim donese plod, pa sazri.
+Jesu li, dakle, meni išta koristili?
 
-A hoćeš da plod ljudskoga razuma sazri odmah i za jedan čas?
+Čoveče, nisi me pitao jesu li korisni tebi, nego uopšte.
 
-Zar je to razumno?
+Neka me i čovek s dizenterijom upita je li sirće korisno; reći ću da jeste.
 
-Ne očekuj, dakle, ni od sebe nešto tako veliko odjednom.
+Je li, dakle, korisno meni?
 
-Ali nemoj ni samoga sebe ostaviti bez nadzora.
+Reći ću: nije. Najpre gledaj da ti se zaustavi tečenje i da zarastu ranice.
 
-Svakoga dana ispituj:
-
-Šta sam danas učinio?
-
-Kojoj sam se strasti suprotstavio?
-
-Kojoj sam predstavi uskratio pristanak?
-
-U čemu sam postao bolji?
-
-Ako tako budeš radio, nećeš više tražiti napredak u knjigama i govorima, nego u samome sebi.
+I vi, ljudi, najpre izlečite rane i zaustavite tečenje; smirite razum, unesite ga u učilište nerasejana, pa ćete poznati kakvu moć ima slovo.
 
 <!-- anchor:II.22 -->
 Čemu god čovek posvećuje pažnju, tome je prirodno i privržen.
@@ -3369,79 +3023,45 @@ Zbog takvoga neznanja Atinjani i Lakedemonjani se zavadiše, Tebanci s jednima i
 
 A još pre toga zbog istoga se dogodilo ono kod Ilija.
 
-Menelaj je bio Helenin prijatelj.
+Aleksandar je bio Menelajev gost; i da ih je neko video kako se uzajamno susreću s ljubaznošću, ne bi poverovao onome ko bi rekao da nisu prijatelji.
 
-A ako bi mu neko rekao:
+Ali među njih bi bačen udeo — lepuškasta ženica — i zbog nje nasta rat.
 
-Dopusti da ti je otmu,
+I sada, kada vidiš prijatelje ili braću gde naizgled žive u slozi, nemoj odatle odmah ništa zaključivati o njihovom prijateljstvu, makar se zaklinjali i govorili da se nikako ne mogu rastati.
 
-šta bi se dogodilo?
+Vodeće načelo rđava čoveka nije pouzdano; nestalno je, nerazlučno, i čas ga jedna, čas druga predstava savlađuje.
 
-Ne samo da ne bih bio njen prijatelj, rekao bi, nego bih i poludeo.
+Nego ne ispituj ono što ispituju drugi — jesu li od istih roditelja, zajedno odgojeni i pod istim vaspitačem — nego samo ovo: gde postavljaju svoju korist, u spoljašnjim stvarima ili u proizvoljenju?
 
-Ako mi, dakle, oduzmeš ženu, oduzimaš mi dobro.
+Ako je postavljaju spolja, ne nazivaj ih prijateljima ništa više nego vernim, postojanim, smelim ili slobodnim; pa ni ljudima, ako imaš razuma.
 
-A Paris?
+Jer nije ljudsko mnenje ono zbog kojega jedni druge grizu i grde, zaposedaju pustinje ili trgove kao gore, i u sudnicama pokazuju razbojnička dela; niti ono koje ih čini neuzdržljivima, preljubnicima i kvariteljima, niti sve drugo čime ljudi greše jedni prema drugima zbog jednoga jedinog mnenja: što sebe i ono što im pripada postavljaju među stvari koje nisu do proizvoljenja.
 
-Menelajev gost.
+Ali ako čuješ da ti ljudi zaista misle da je dobro jedino onde gde je proizvoljenje, gde je pravilno služenje predstavama, ne istražuj više jesu li sin i otac, braća, dugogodišnji saučenici ili drugovi. Znajući samo to, smelo izreci da su prijatelji, kao i da su verni i pravedni.
 
-Da.
+Jer gde je drugde prijateljstvo nego onde gde je vera, gde je stid, gde se krasno predaje, a ništa drugo?
 
-I Helenin prijatelj?
+Ali toliko mi je dugo služio; zar me nije voleo?
 
-Da.
+Otkud znaš, robe, da ti nije služio kao što sunđerom briše svoje cipele ili kao što se stara o svojoj teglećoj životinji? Otkud znaš neće li te, kada izgubiš upotrebljivost posudice, baciti kao razbijen tanjir?
 
-Dokle?
+Ali ona mi je žena i toliko dugo zajedno živimo.
 
-Dok se među njih nije bacio komad mesa.
+A koliko je dugo Erifila živela s Amfijarajem, kao mati mnoge dece?
 
-Tako je i među svakim ljudima koji ne znaju gde je dobro.
+Ali među njih dođe ogrlica.
 
-Nemoj, dakle, tražiti prijatelja, brata, oca ili sina u onome ko svoje dobro stavlja izvan proizvoljenja.
+A šta je ogrlica? Mnenje o takvim stvarima.
 
-Nemoj se uzdati u zakletve, obećanja ni velika kazivanja o ljubavi.
+Ono je bilo zversko; ono je preseklo prijateljstvo; ono nije dalo supruzi da bude supruga ni majci da bude majka.
 
-Nego pokaži mi čoveka koji svoje dobro postavlja samo u proizvoljenje, a sve ostalo smatra ni dobrim ni zlim.
+I ko se god od vas ozbiljno trudi bilo da sam nekome bude prijatelj bilo da stekne prijatelja, neka iščupa ova mnenja, neka ih zamrzi i izagna iz svoje duše.
 
-Taj neće imati protiv koga da se nadmeće.
+Tako se, najpre, neće sam grditi, sa sobom se boriti, kajati se niti sebe mučiti.
 
-Neće imati oko čega da se svađa.
+Zatim će drugome koji mu je sličan u svemu biti prijatelj; a onoga koji mu nije sličan podnosiće, biće prema njemu blag, pitom i spreman da oprosti kao neznalici koja greši u najvažnijim stvarima. Ni prema kome neće biti opor, znajući dobro Platonovu reč da se svaka duša nevoljno lišava istine.
 
-Kako će onda prestati da bude prijatelj?
-
-Zbog novca?
-
-Njega ne smatra dobrom.
-
-Zbog vlasti?
-
-Ni nju.
-
-Zbog tela?
-
-Ni njega.
-
-Zbog otadžbine?
-
-Nju voli, ali ne kao svoje dobro.
-
-Zbog rođaka?
-
-I njih voli prema prirodi, ali svoje dobro ne predaje njima.
-
-Takav čovek može voleti.
-
-Takav može biti prijatelj.
-
-Takav može biti i dobar sin i dobar otac.
-
-Jer njegovo dobro nije u tome da od drugoga nešto dobije, nego da se prema drugome odnosi kako treba.
-
-Ako, dakle, želiš biti prijatelj, najpre sam postani takav.
-
-Ako želiš imati prijatelja, budi sposoban za prijateljstvo.
-
-A to nećeš postići tražeći od drugih da te vole, nego učeći gde se nalazi tvoje dobro.
+Ako ne učinite tako, možete činiti sve ostalo što čine prijatelji: zajedno piti, zajedno prebivati pod šatorom, zajedno ploviti i biti rođeni od istih roditelja — jer i zmije su. Ali ni one ni vi niste prijatelji dokle god imate ova zverska i gnusna mnenja.
 
 <!-- anchor:II.23 -->
 Svako bi radije i lakše čitao knjigu pisanu jasnijim slovima; tako bi svako lakše slušao i govore obeležene istovremeno skladnim i lepim imenima.
