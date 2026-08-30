@@ -2,7 +2,9 @@
 
 ## Dodati još izvora za živote filozofa
 
-- potražiti bolji format za Burkley od trenutnog
+- potraži bolji mašinski čitljiv format za Burkley izvor od trenutnog
+   - obriši stari txt format ako više nije potreban
+- na osnovu svi lokalnih izvora i njihovih indexa, napraviti centralni katalog filozofa, gde mogu pročitati koje su sve biografije filozofa dostupne, koje su obrađene, a koje ne.
 
 ## Obraditi živote filozofa
 - Plotin

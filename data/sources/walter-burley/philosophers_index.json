@@ -12,6 +12,13 @@
       "directory": "chapters",
       "format": "md",
       "count": 5
+    },
+    "generatedOcrChapters": {
+      "directory": "chapters-generated",
+      "format": "md",
+      "count": 132,
+      "source": "Internet Archive DjVu XML",
+      "status": "working OCR; verify against facsimile"
     }
   },
   "note": "Directory contents are authoritative; counts are a verified summary."

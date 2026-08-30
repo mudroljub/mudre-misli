@@ -9,6 +9,9 @@ pravila upotrebe vidi [README](walter-burley/README.md); mašinski sažetak je u
 - izvorno Knustovo izdanje iz 1886. čuva se kao PDF;
 - `walter-burley/latin_raw/` sadrži 78 radnih tekstualnih ekstrakcija;
 - `walter-burley/chapters/` sadrži pet detaljnije strukturisanih poglavlja;
+- `walter-burley/chapters-generated/` sadrži 132 ponovljivo generisana OCR
+  poglavlje latinskog teksta sa oznakama Knustovih strana;
+- `walter-burley/ocr/` čuva izvorni DjVu XML, mapu listova i kontrolne sume;
 - direktorijum, a ne ručno vođen spisak, merodavan je inventar ekstrakcija.
 
 Ekstrakcija nije isto što i završena obrada. Pre integracije treba proveriti
@@ -17,7 +20,7 @@ prevod i urednički aparat, zatim obraditi sav raspoloživ tekst iz poglavlja.
 
 ## Sadržaj izdanja
 
-Izvorni redosled sadržaja, uz lokalni radni ekstrakt i broj unosa čiji je neposredni izvor `walter-burley`. Knjiga ima 131 redoslednu jedinicu i 132 ličnosti: Polistrat i Ipoklid dele jedan red. Crta znači da lokalni ekstrakt, odnosno takav JSON unos, još ne postoji.
+Izvorni redosled sadržaja, uz lokalni radni ekstrakt i broj unosa čiji je neposredni izvor `walter-burley`. Knjiga ima 132 redosledne jedinice i 133 ličnosti: Polistrat i Ipoklid dele jedan red. Crta znači da lokalni ekstrakt, odnosno takav JSON unos, još ne postoji.
 
 | Redosled | Ličnost | Ekstrakt | JSON unosi |
 |---|---|---|---:|
@@ -148,10 +151,11 @@ Izvorni redosled sadržaja, uz lokalni radni ekstrakt i broj unosa čiji je nepo
 | CXXV | Taur | — | — |
 | CXXVI | Galen | [galenus.txt](walter-burley/latin_raw/galenus.txt) | — |
 | CXXVII | Trog | — | — |
-| CXXVIII | Porfirije iz Tira | [porphyrius.txt](walter-burley/latin_raw/porphyrius.txt) | — |
-| CXXIX | Klaudije | — | — |
-| CXXX | Simah | — | — |
-| CXXXI | Priscijan | — | — |
+| CXXVIII | Justin | — | — |
+| CXXIX | Porfirije iz Tira | [porphyrius.txt](walter-burley/latin_raw/porphyrius.txt) | — |
+| CXXX | Klaudije | — | — |
+| CXXXI | Simah | — | — |
+| CXXXII | Priscijan | — | — |
 
 ## Pravilo za dalju obradu
 

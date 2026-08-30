@@ -1,0 +1,22 @@
+{
+  "archiveId": "gualteriburlaei01burlgoog",
+  "detailsUrl": "https://archive.org/details/gualteriburlaei01burlgoog",
+  "metadataUrl": "https://archive.org/metadata/gualteriburlaei01burlgoog",
+  "downloadedAt": "2026-08-30T22:17:32.930Z",
+  "files": [
+    {
+      "name": "gualteriburlaei01burlgoog_djvu.xml",
+      "format": "Djvu XML",
+      "size": 10075191,
+      "md5": "5dc299af0d7d5df5c211ea7f108c476c",
+      "url": "https://archive.org/download/gualteriburlaei01burlgoog/gualteriburlaei01burlgoog_djvu.xml"
+    },
+    {
+      "name": "gualteriburlaei01burlgoog_scandata.xml",
+      "format": "Scandata",
+      "size": 136007,
+      "md5": "a5af6b7474b33e482e3173f91ca4f9f9",
+      "url": "https://archive.org/download/gualteriburlaei01burlgoog/gualteriburlaei01burlgoog_scandata.xml"
+    }
+  ]
+}
