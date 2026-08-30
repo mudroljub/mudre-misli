@@ -10384,7 +10384,8 @@
     ],
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#9.44",
     "tags": [
-      "γίγνομαι"
+      "γίγνομαι",
+      "μὴ ὄν"
     ]
   },
   {
@@ -25158,6 +25159,9 @@
         "name": "hermann-diels",
         "reference": "28 B 2"
       }
+    ],
+    "tags": [
+      "μὴ ὄν"
     ]
   },
   {
@@ -25243,6 +25247,7 @@
       "γένεσις",
       "γίγνομαι",
       "δίκη",
+      "μὴ ὄν",
       "τὸ ὄν",
       "ἀγένητος",
       "ἀνάγκη"
@@ -25529,6 +25534,7 @@
     ],
     "pointer": "data/sources/hermann-diels/philosophers/18-Parmenides.txt:783#διζήσιος",
     "tags": [
+      "μὴ ὄν",
       "νόημα"
     ]
   },
@@ -26651,7 +26657,8 @@
     "stsl": "Чѹвьствьно и сѫштимъ нарицаєть и не сѫштимъ · сѫштимъ · зане бꙑваниѥ имать · не сѫштимъ же · непрѣстаныѩ ради прѣмѣны ·",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.64",
     "tags": [
-      "γένεσις"
+      "γένεσις",
+      "μὴ ὄν"
     ]
   },
   {
@@ -27102,6 +27109,7 @@
     "sr": "Blagozakonje se deli na tri vida: kada su zakoni valjani; kada se građani drže postavljenih zakona; i kada bez zakona dobro žive građanskim životom prema običajima i ustaljenim postupcima.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.103",
     "tags": [
+      "μὴ ὄν",
       "νόμος"
     ]
   },

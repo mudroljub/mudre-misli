@@ -32,3 +32,4 @@ probleme.
 - na stranici taga, highlight prevod tog pojma u svakom rezultatu
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku
 - vizuelno razlikovati direktne citate i prenesene izreke. trenutno kod oba stoji ime filozofa ispod. možda kod prenesenih da ime stoji pre citata?
+- proveriti recnik.md i greek-terms.json - postoje li neki termini za spajanje
