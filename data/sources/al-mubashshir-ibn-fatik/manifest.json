@@ -1,0 +1,37 @@
+{
+  "author": "al-Mubashshir ibn Fatik",
+  "title": "Mukhtār al-ḥikam wa-maḥāsin al-kalim",
+  "originalLanguage": "ar",
+  "localWitnesses": [
+    {
+      "title": "The Dictes and Sayings of the Philosophers",
+      "transmission": "Arabic to Spanish to Latin/French tradition; English translation by Anthony Woodville, printed by William Caxton in 1477; 1877 facsimile",
+      "language": "enm",
+      "format": "plain-text OCR",
+      "file": "dictes-and-sayings-of-philosophers.caxton-1877.ocr.txt",
+      "metadataFile": "internet-archive-metadata.json",
+      "downloadUrl": "https://archive.org/download/dictessayingsofp00caxtuoft/dictessayingsofp00caxtuoft_djvu.txt",
+      "identifier": "dictessayingsofp00caxtuoft",
+      "sha256": "8854C86C88DB1CF987145FA5C176F3C339780994922CBC9F6ECF2813DD0A5469"
+    },
+    {
+      "title": "Bocados de oro in Mittheilungen aus dem Eskurial",
+      "editor": "Hermann Knust, 1879",
+      "transmission": "Medieval Spanish branch translated from the Arabic work",
+      "language": [
+        "spa",
+        "deu"
+      ],
+      "format": "plain-text OCR",
+      "file": "bocados-de-oro.knust-1879.ocr.txt",
+      "metadataFile": "bocados-internet-archive-metadata.json",
+      "downloadUrl": "https://archive.org/download/mittheilungenau01knusgoog/mittheilungenau01knusgoog_djvu.txt",
+      "identifier": "mittheilungenau01knusgoog",
+      "sha256": "0FC492691C68315D5D6F8ED6F05604B603601206460C566774E4DECC7F453B34"
+    }
+  ],
+  "source": "Internet Archive",
+  "license": "Public domain; both Internet Archive records are marked NOT_IN_COPYRIGHT",
+  "fileCount": 4,
+  "notes": "No Arabic original is included. These are public-domain, searchable witnesses to two European branches of the work's transmission; OCR quality varies and quotations must be checked against page images before use."
+}

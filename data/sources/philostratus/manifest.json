@@ -1,0 +1,23 @@
+{
+  "source": "PerseusDL/canonical-greekLit",
+  "author": "Philostratus the Athenian",
+  "title": "Lives of the Sophists",
+  "originalTitle": "Βίοι Σοφιστῶν",
+  "edition": "Carl Ludwig Kayser, Flavii Philostrati Opera, vol. 2, Teubner, Leipzig, 1871",
+  "language": "grc",
+  "format": "CTS/EpiDoc TEI XML",
+  "ctsUrn": "urn:cts:greekLit:tlg0638.tlg003.perseus-grc2",
+  "citationDepth": [
+    "book",
+    "chapter",
+    "section"
+  ],
+  "file": "vitae-sophistarum.xml",
+  "downloadUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0638/tlg003/tlg0638.tlg003.perseus-grc2.xml",
+  "repository": "https://github.com/PerseusDL/canonical-greekLit",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sha256": "A9674A4A6E8E661C38A58F09ECE5BD6DFF812802146082FA034E0F42B2CA0469",
+  "fileCount": 1,
+  "notes": "Complete Greek text: preface, book 1 with 26 numbered lives and book 2 with 33 numbered lives."
+}

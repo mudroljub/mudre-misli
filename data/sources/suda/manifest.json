@@ -1,0 +1,26 @@
+{
+  "source": "OpenGreekAndLatin/First1KGreek",
+  "author": "Suda",
+  "title": "Suidae lexicon",
+  "edition": "Ada Adler, Suidae lexicon, vols. 1-4, Teubner, 1928, 1931, 1933, 1935",
+  "language": "grc",
+  "format": "CTS/EpiDoc TEI XML",
+  "ctsUrn": "urn:cts:greekLit:tlg9010.tlg001.1st1K-grc1",
+  "citationDepth": [
+    "book",
+    "chapter",
+    "section"
+  ],
+  "files": [
+    "suda.tei-grc.xml",
+    "cts-metadata.xml"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg9010/tlg001/tlg9010.tlg001.1st1K-grc1.xml",
+  "repository": "https://github.com/OpenGreekAndLatin/First1KGreek",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sha256": "D90BC3A547E097C9888743FAE4F13F19534FD1C3C5EAEEED3643663465AB7112",
+  "sectionCount": 24078,
+  "fileCount": 2,
+  "notes": "Complete four-volume Greek lexicon. It is an alphabetical reference work, not a continuous collection of lives; biographical entries must be selected by lemma and CTS section."
+}

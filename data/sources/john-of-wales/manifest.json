@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "Bayerische Staatsbibliothek IIIF/OCR API",
+    "Universidad de Zaragoza, Zaguan"
+  ],
+  "author": "John of Wales (Johannes Guallensis)",
+  "title": "Compendiloquium de vitis illustrium philosophorum",
+  "containerEdition": "Summa de regimine vitae humanae seu Margarita doctorum, Venice, Georgius Arrivabene, 1496-07-30",
+  "language": "lat",
+  "formats": [
+    "hOCR HTML",
+    "IIIF Presentation 2 manifest",
+    "DjVu facsimile"
+  ],
+  "files": {
+    "ocr": "hocr/page-0465.hocr.html through hocr/page-0580.hocr.html",
+    "iiifManifest": "iiif-manifest.json",
+    "facsimile": "summa-cum-compendiloquio-1496.djvu"
+  },
+  "ocrCanvasRange": [
+    465,
+    580
+  ],
+  "ocrFileCount": 116,
+  "downloadUrls": {
+    "iiifManifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00054679/manifest",
+    "ocrTemplate": "https://api.digitale-sammlungen.de/ocr/bsb00054679/{canvas}",
+    "facsimile": "https://zaguan.unizar.es/record/127/files/I_123.djvu"
+  },
+  "license": "Public Domain Mark 1.0 for the BSB digital object and OCR",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sha256": {
+    "iiifManifest": "8C5349D3B338204844C0CFFA0506DC7C24EED8BD4379E19955D9E09A6CAB222E",
+    "facsimile": "BCDEB1BA8E00E9BB373D5DB252BF964BB55160A842F12452E7E3ADC2628809D8"
+  },
+  "fileCount": 118,
+  "notes": "Canvas 465 contains the Compendiloquium incipit; canvas 580 is its final text page; the register begins on 581. The hOCR is searchable but noisy. The Zaragoza DjVu is retained as an independent full-volume facsimile and is not treated as the primary machine-readable text."
+}

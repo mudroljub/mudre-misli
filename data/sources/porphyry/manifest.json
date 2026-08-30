@@ -1,0 +1,30 @@
+{
+  "author": "Porphyry",
+  "title": "On the Life of Plotinus and the Arrangement of His Works",
+  "originalTitle": "Περὶ τοῦ Πλωτίνου βίου καὶ τῆς τάξεως τῶν βιβλίων αὐτοῦ",
+  "localWitnesses": [
+    {
+      "source": "Greek Wikisource MediaWiki API",
+      "edition": "Richard Volkmann, Plotini Enneades, vol. 1, Teubner, Leipzig, 1883",
+      "language": "grc",
+      "format": "MediaWiki parse API JSON containing rendered searchable HTML",
+      "file": "vita-plotini.el-wikisource.parse.json",
+      "sectionIds": "p1 through p26",
+      "downloadUrl": "https://el.wikisource.org/w/api.php?action=parse&page=Περί%20του%20Πλωτίνου%20βίου%20και%20της%20τάξεως%20των%20βιβλίων%20αυτού&prop=text%7Cwikitext%7Ccategories&format=json&formatversion=2",
+      "license": "Wikisource CC BY-SA; underlying 1883 edition is public domain",
+      "sha256": "E1242EDEDE0082501C8ABF78263927985C325A09CF413E1241FE0D7D6706C531"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "edition": "Stephen MacKenna translation, 1910",
+      "language": "en",
+      "format": "PDF facsimile with text",
+      "file": "life-of-plotinus.mackenna-1910.pdf",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Life_of_plotinus_by_porphyry.pdf",
+      "license": "Public domain",
+      "sha256": "6D7F31AF6E45CD594AD49137DB0F4DAFB15F8CFED174FFE021E60DE3D88D4DEA"
+    }
+  ],
+  "fileCount": 2,
+  "notes": "The Greek Wikisource JSON is the primary machine-readable local text and contains all 26 numbered sections."
+}

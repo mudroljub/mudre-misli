@@ -2,12 +2,12 @@
 
 ## Dodati još izvora za živote filozofa
 
-- Eunapije, Životi filozofa i sofista — najvažniji nastavak za kasnu antiku: Plotinovi naslednici, neoplatoničari, učitelji i sofisti IV veka. Sadrži mnogo neposrednih svedočanstava. Oxford Academic
-- Filostrat, Životi sofista — biografije sofista, govornika i filozofskih učitelja. Uži je od Laertija, ali je strukturno veoma sličan.
-- Jovan Velški, Compendiloquium de vitis illustrium philosophorum — najbliži srednjovekovni prethodnik Burleyja: kratki životi filozofa povezani s njihovim izrekama i moralnim učenjem. Nastao je početkom 1270-ih. Ovo bi verovatno bio najbolji sledeći izvor „burleyjevskog“ tipa.
-- al-Mubaššir ibn Fatik, Mukhtār al-ḥikam — arapska zbirka života i izreka grčkih mudraca iz XI veka. Na latinskom je poznata kao Liber philosophorum moralium antiquorum; važna je karika između antičke i evropske srednjovekovne tradicije.
-- Suda — vizantijski leksikon sa brojnim biografskim člancima o filozofima. Mnogo materijala potiče iz izgubljenog Onomatologa Isihija iz Mileta i iz starijih biografskih zbirki.
-- Porfirije Život Plotina
+- potražiti bolji format za Burkley od trenutnog
+
+## Obraditi živote filozofa
+- Plotin
+- Filon Aleksandrijski
+- videti za koje filozofe ima malo biografskih stavki i potražiti više među lokalnim izvorima
 
 ## Širiti korpus celih dela
 
@@ -31,3 +31,4 @@ probleme.
 
 - na stranici taga, highlight prevod tog pojma u svakom rezultatu
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku
+- vizuelno razlikovati direktne citate i prenesene izreke. trenutno kod oba stoji ime filozofa ispod. možda kod prenesenih da ime stoji pre citata?
