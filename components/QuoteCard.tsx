@@ -118,37 +118,42 @@ export default function QuoteCard({
   const visibleAnnotations = showsTermExcerpt
     ? annotations.map((annotation) => ({ ...annotation, occurrence: 1 }))
     : annotations;
+  const authorAttribution = showAuthor ? (
+    <div className={classNames(styles.authorAttribution, {
+      [styles.authorAttributionBefore]: entry.type === 'reported',
+    })}>
+      {showAuthorImage && hasAuthorImage && authorImage && (
+        <Link href={`/${language}/authors/${slug}`} className={styles.portraitLink}>
+          <img
+            className={styles.authorPortrait}
+            src={withBasePath(authorImage)}
+            alt={localizedAuthorName}
+          />
+        </Link>
+      )}
+      <p className={styles.authorLine}>
+        {entry.type !== 'reported' && '— '}
+        <Link href={`/${language}/authors/${slug}`} className={styles.noLink}>
+          {localizedAuthorName}
+        </Link>
+      </p>
+    </div>
+  ) : null;
 
   return (
     <div
       className={classNames(styles.card, styles[entry.type], className)}
       lang={language === 'stsl' ? 'cu' : 'sr'}
     >
+      {entry.type === 'reported' && authorAttribution}
+
       <p className={classNames(styles.quoteText, {
         [styles.expandedQuote]: isLongForm && isExpanded,
       })}>
         {renderText(visibleText, visibleAnnotations)}
       </p>
 
-      {showAuthor && (
-        <div className={styles.authorAttribution}>
-          {showAuthorImage && hasAuthorImage && authorImage && (
-            <Link href={`/${language}/authors/${slug}`} className={styles.portraitLink}>
-              <img
-                className={styles.authorPortrait}
-                src={withBasePath(authorImage)}
-                alt={localizedAuthorName}
-              />
-            </Link>
-          )}
-          <p className={styles.authorLine}>
-            —{' '}
-            <Link href={`/${language}/authors/${slug}`} className={styles.noLink}>
-              {localizedAuthorName}
-            </Link>
-          </p>
-        </div>
-      )}
+      {entry.type !== 'reported' && authorAttribution}
 
       {(isLongForm || showSource) && (
         <div className={styles.cardActions}>

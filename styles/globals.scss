@@ -1,12 +1,5 @@
 @import './shared';
 
-@font-face {
-  font-family: 'BukyVede';
-  src: url('/fonts/BukyVede-Regular.woff') format('woff'), /* Modern Browsers */
-       url('/fonts/BukyVede-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
-  size-adjust: 110%;
-}
-
 * {
   box-sizing: border-box;
 }

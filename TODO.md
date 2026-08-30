@@ -29,5 +29,17 @@ probleme.
 
 ## Terminologija i UI
 
+- na stranici taga, highlightuj prevod tog pojma u svakom rezultatu
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku
-- vizuelno razlikovati direktne citate i prenesene izreke. trenutno kod oba stoji ime filozofa ispod. možda kod prenesenih da ime stoji pre citata?
+- vizuelno još više razlikovati direktne citate i prenesene izreke. trenutno kod oba stoji ime filozofa ispod. možda kod prenesenih da ime stoji pre citata?
+- BUG: na github pages nema stsl font
+scheme
+	https
+host
+	mudroljub.github.io
+filename
+	/fonts/BukyVede-Regular.woff
+Address
+	185.199.109.153:443
+Status
+404

@@ -34,6 +34,14 @@
   }
 }
 
+.authorAttributionBefore {
+  padding-bottom: $spacing-xs;
+
+  .authorLine {
+    color: $color-primary;
+  }
+}
+
 .portraitLink {
   display: block;
   flex: 0 0 auto;
@@ -111,5 +119,5 @@
 }
 
 .reported {
-  background: lighten($color-border, 18%);
+  background-color: #f5f5f5;
 }
