@@ -165,7 +165,21 @@
         "name": "diogenes-laertius",
         "reference": "I.76"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόμος",
+          "text": "zakon"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόμος",
+          "text": "Законъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001413",
@@ -179,7 +193,29 @@
         "name": "diogenes-laertius",
         "reference": "I.76"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobar"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бꙑті"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "добрѹ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001414",
@@ -193,7 +229,29 @@
         "name": "diogenes-laertius",
         "reference": "I.77"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogovi"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "Vlast"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "бози"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "Власть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001415",
@@ -221,7 +279,29 @@
         "name": "diogenes-laertius",
         "reference": "I.77"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόμος",
+          "text": "zakon"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "vlast"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόμος",
+          "text": "законъ"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "власть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001417",
@@ -263,7 +343,21 @@
         "name": "diogenes-laertius",
         "reference": "I.77"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "χρόνος",
+          "text": "Vreme"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "χρόνος",
+          "text": "Врѣмѧ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001420",
@@ -277,7 +371,21 @@
         "name": "diogenes-laertius",
         "reference": "I.78"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "єсть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001421",
@@ -305,7 +413,21 @@
         "name": "diogenes-laertius",
         "reference": "I.78"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀλήθεια",
+          "text": "istine"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀλήθεια",
+          "text": "Истинѫ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001423",
@@ -319,7 +441,29 @@
         "name": "diogenes-laertius",
         "reference": "I.78-79"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "zlom"
+        },
+        {
+          "tag": "νόημα",
+          "text": "misao"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "злѹ"
+        },
+        {
+          "tag": "νόημα",
+          "text": "двоємꙑслъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001424",

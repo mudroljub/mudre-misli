@@ -108,7 +108,10 @@
     "sr": "Ksenofont je govorio da je Sokrat raspravljao samo o etičkim pitanjima.",
     "stsl": "Ксенофонтъ глаголаше · ꙗko Сократъ тъкмо о нравьныхъ вещехъ бесѣдоваше ·",
     "originalText": "Ξενοφῶν καίτοι περὶ μόνων τῶν ἠθικῶν ποιεῖσθαι τοὺς λόγους αὐτὸν εἰπών.",
-    "author": ["Xenophon", "Socrates"],
+    "author": [
+      "Xenophon",
+      "Socrates"
+    ],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -128,7 +131,37 @@
         "name": "diogenes-laertius",
         "reference": "II.49"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        },
+        {
+          "tag": "καλόν",
+          "text": "lepe"
+        },
+        {
+          "tag": "οἶδα",
+          "text": "vidim"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "єсть"
+        },
+        {
+          "tag": "καλόν",
+          "text": "красна"
+        },
+        {
+          "tag": "οἶδα",
+          "text": "ненавиждꙫ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001928",

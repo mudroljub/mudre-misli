@@ -85,7 +85,45 @@
         "name": "diogenes-laertius",
         "reference": "I.86"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        },
+        {
+          "tag": "φρόνησις",
+          "text": "razboritosti"
+        },
+        {
+          "tag": "φύσις",
+          "text": "prirode"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "duše"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "природꙑ"
+        },
+        {
+          "tag": "φρόνησις",
+          "text": "разборьности"
+        },
+        {
+          "tag": "φύσις",
+          "text": "природꙑ"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "дѹши"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000376",
@@ -113,7 +151,21 @@
         "name": "diogenes-laertius",
         "reference": "I.86"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ψυχή",
+          "text": "duše"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ψυχή",
+          "text": "дѹше"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000378",
@@ -183,7 +235,21 @@
         "name": "diogenes-laertius",
         "reference": "I.87"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "χρόνος",
+          "text": "život"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "χρόνος",
+          "text": "врѣмѧ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000383",
@@ -211,7 +277,21 @@
         "name": "diogenes-laertius",
         "reference": "I.87"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "μανία",
+          "text": "bezumlje"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "μανία",
+          "text": "безѹмьѥ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000385",
@@ -225,7 +305,45 @@
         "name": "diogenes-laertius",
         "reference": "I.88"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogovima"
+        },
+        {
+          "tag": "σοφία",
+          "text": "Mudrost"
+        },
+        {
+          "tag": "φρόνησις",
+          "text": "razboritost"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobro"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "богатьства"
+        },
+        {
+          "tag": "σοφία",
+          "text": "Мѫдрость"
+        },
+        {
+          "tag": "φρόνησις",
+          "text": "разборьность"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "добро"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000386",
@@ -268,7 +386,21 @@
         "name": "diogenes-laertius",
         "reference": "I.86"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τύχη",
+          "text": "slučaj"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τύχη",
+          "text": "приклѹчаи"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000389",

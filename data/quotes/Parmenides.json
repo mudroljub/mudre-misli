@@ -158,7 +158,10 @@
     "sr": "Strabon Parmenida i Zenona naziva pitagorejcima i kaže da je Eleja, između ostalog i njihovom zaslugom, imala dobre zakone.",
     "originalText": "ἐξ ἧς Παρμενίδης καὶ Ζήνων ἐγένοντο ἄνδρες Πυθαγόρειοι. δοκεῖ δέ μοι καὶ δι’ ἐκείνους καὶ ἔτι πρότερον εὐνομηθῆναι.",
     "stsl": "Стравонъ Парменіда и Зенона Пѵѳагорѣица нарицаєть · и глаголєть ꙗко Елеа и тѣма добрѣ законꙑ имѣаше ·",
-    "author": ["Parmenides", "Zeno of Elea"],
+    "author": [
+      "Parmenides",
+      "Zeno of Elea"
+    ],
     "sources": [
       {
         "name": "strabo-geography",
@@ -206,7 +209,37 @@
         "name": "diogenes-laertius",
         "reference": "IX.21"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "πῦρ",
+          "text": "oganj"
+        },
+        {
+          "tag": "στοιχεῖον",
+          "text": "sastojka"
+        },
+        {
+          "tag": "ὕλη",
+          "text": "tvari"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "πῦρ",
+          "text": "огнь"
+        },
+        {
+          "tag": "στοιχεῖον",
+          "text": "състава"
+        },
+        {
+          "tag": "ὕλη",
+          "text": "твари"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001351",
@@ -220,7 +253,21 @@
         "name": "diogenes-laertius",
         "reference": "IX.22"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "su"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "сѫть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001352",
@@ -234,7 +281,29 @@
         "name": "diogenes-laertius",
         "reference": "IX.22"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νοῦς",
+          "text": "um"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "Duša"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νοῦς",
+          "text": "ѹмъ"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "Дѹша"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001353",
@@ -248,7 +317,37 @@
         "name": "diogenes-laertius",
         "reference": "IX.22"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δόξα",
+          "text": "mnenju"
+        },
+        {
+          "tag": "φιλοσοφία",
+          "text": "Mudroljublje"
+        },
+        {
+          "tag": "ἀλήθεια",
+          "text": "istini"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δόξα",
+          "text": "мьнѣнию"
+        },
+        {
+          "tag": "φιλοσοφία",
+          "text": "Любомѫдриє"
+        },
+        {
+          "tag": "ἀλήθεια",
+          "text": "истинѣ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001354",
@@ -266,7 +365,21 @@
         "name": "hermann-diels",
         "reference": "28 B 1.28-30"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δόξα",
+          "text": "mnenja"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δόξα",
+          "text": "мьнѣниꙗ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001355",
@@ -280,7 +393,21 @@
         "name": "diogenes-laertius",
         "reference": "IX.22"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "Slovo"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "слово"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001356",
@@ -298,7 +425,29 @@
         "name": "hermann-diels",
         "reference": "28 B 1.33-37"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "slovom"
+        },
+        {
+          "tag": "νόημα",
+          "text": "pojam"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "словомъ"
+        },
+        {
+          "tag": "νόημα",
+          "text": "поимъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001357",
@@ -312,7 +461,21 @@
         "name": "diogenes-laertius",
         "reference": "IX.42"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τὸ ὄν",
+          "text": "sušto"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τὸ ὄν",
+          "text": "сѫщее"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001359",
@@ -399,7 +562,21 @@
         "name": "hermann-diels",
         "reference": "28 B 2"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "μὴ ὄν",
+          "text": "ne biti"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "μὴ ὄν",
+          "text": "не быти"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001365",
@@ -427,7 +604,29 @@
         "name": "hermann-diels",
         "reference": "28 B 4"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κόσμος",
+          "text": "svetu"
+        },
+        {
+          "tag": "τὸ ὄν",
+          "text": "sušto"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κόσμος",
+          "text": "мірѹ"
+        },
+        {
+          "tag": "τὸ ὄν",
+          "text": "Сѫщее"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001367",
@@ -469,7 +668,69 @@
         "name": "hermann-diels",
         "reference": "28 B 8.1-21"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γένεσις",
+          "text": "rođenje"
+        },
+        {
+          "tag": "γίγνομαι",
+          "text": "su"
+        },
+        {
+          "tag": "δίκη",
+          "text": "Pravda"
+        },
+        {
+          "tag": "μὴ ὄν",
+          "text": "nebića"
+        },
+        {
+          "tag": "τὸ ὄν",
+          "text": "biće"
+        },
+        {
+          "tag": "ἀγένητος",
+          "text": "nerođeno"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "nužda"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γένεσις",
+          "text": "рожденьѥ"
+        },
+        {
+          "tag": "γίγνομαι",
+          "text": "родити сѧ"
+        },
+        {
+          "tag": "δίκη",
+          "text": "Правда"
+        },
+        {
+          "tag": "μὴ ὄν",
+          "text": "не сѫщаго"
+        },
+        {
+          "tag": "τὸ ὄν",
+          "text": "сѫщее"
+        },
+        {
+          "tag": "ἀγένητος",
+          "text": "нерождено"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "нѫжда"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001370",
@@ -483,7 +744,29 @@
         "name": "hermann-diels",
         "reference": "28 B 8.22-33"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γένεσις",
+          "text": "rođenje"
+        },
+        {
+          "tag": "τὸ ὄν",
+          "text": "Biće"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γένεσις",
+          "text": "Рожденьѥ"
+        },
+        {
+          "tag": "τὸ ὄν",
+          "text": "сѫщее"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001371",
@@ -497,7 +780,29 @@
         "name": "hermann-diels",
         "reference": "28 B 8.34-41"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόημα",
+          "text": "pojam"
+        },
+        {
+          "tag": "τὸ ὄν",
+          "text": "bića"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόημα",
+          "text": "поимъ"
+        },
+        {
+          "tag": "τὸ ὄν",
+          "text": "сѫщаго"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001372",
@@ -525,7 +830,61 @@
         "name": "hermann-diels",
         "reference": "28 B 8.50-61"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γνώμη",
+          "text": "znamenja"
+        },
+        {
+          "tag": "δόξα",
+          "text": "mnenje"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "stroj"
+        },
+        {
+          "tag": "λόγος",
+          "text": "slovo"
+        },
+        {
+          "tag": "νόημα",
+          "text": "pojam"
+        },
+        {
+          "tag": "πῦρ",
+          "text": "oganj"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γνώμη",
+          "text": "мьнѣниꙗ"
+        },
+        {
+          "tag": "δόξα",
+          "text": "мьнѣніє"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "строи"
+        },
+        {
+          "tag": "λόγος",
+          "text": "слово"
+        },
+        {
+          "tag": "νόημα",
+          "text": "поимъ"
+        },
+        {
+          "tag": "πῦρ",
+          "text": "огнь"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001374",
@@ -553,7 +912,45 @@
         "name": "hermann-diels",
         "reference": "28 B 10"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "αἰθήρ",
+          "text": "neba"
+        },
+        {
+          "tag": "οἶδα",
+          "text": "Poznaćeš"
+        },
+        {
+          "tag": "φύσις",
+          "text": "prirodu"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "nužda"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "αἰθήρ",
+          "text": "небєсьꙗ"
+        },
+        {
+          "tag": "οἶδα",
+          "text": "Познаєши"
+        },
+        {
+          "tag": "φύσις",
+          "text": "природѫ"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "Нѫжда"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001376",
@@ -567,7 +964,29 @@
         "name": "hermann-diels",
         "reference": "28 B 11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "αἰθήρ",
+          "text": "nebo"
+        },
+        {
+          "tag": "γίγνομαι",
+          "text": "nastadoše"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "αἰθήρ",
+          "text": "небєсьє"
+        },
+        {
+          "tag": "γίγνομαι",
+          "text": "родишѧ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001377",
@@ -581,7 +1000,29 @@
         "name": "hermann-diels",
         "reference": "28 B 12"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δαίμων",
+          "text": "duh"
+        },
+        {
+          "tag": "πῦρ",
+          "text": "vatre"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δαίμων",
+          "text": "дѹхъ"
+        },
+        {
+          "tag": "πῦρ",
+          "text": "огнѧ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001378",
@@ -595,7 +1036,29 @@
         "name": "hermann-diels",
         "reference": "28 B 13"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogova"
+        },
+        {
+          "tag": "ἔρως",
+          "text": "Ljubav"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "боговъ"
+        },
+        {
+          "tag": "ἔρως",
+          "text": "Любовь"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001379",
@@ -637,7 +1100,29 @@
         "name": "hermann-diels",
         "reference": "28 B 16"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόημα",
+          "text": "pojam"
+        },
+        {
+          "tag": "φύσις",
+          "text": "priroda"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόημα",
+          "text": "поимъ"
+        },
+        {
+          "tag": "φύσις",
+          "text": "природа"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001383",
@@ -665,7 +1150,21 @@
         "name": "hermann-diels",
         "reference": "28 B 19"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δόξα",
+          "text": "mnenju"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δόξα",
+          "text": "мьнѣнію"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002154",
@@ -679,7 +1178,29 @@
         "name": "hermann-diels",
         "reference": "28 B 7.1-2"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "μὴ ὄν",
+          "text": "nesušta"
+        },
+        {
+          "tag": "νόημα",
+          "text": "pojam"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "μὴ ὄν",
+          "text": "не сѫщаꙗ"
+        },
+        {
+          "tag": "νόημα",
+          "text": "поимъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002155",
@@ -693,6 +1214,20 @@
         "name": "hermann-diels",
         "reference": "28 B 1.1-5"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δαίμων",
+          "text": "božanstva"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δαίμων",
+          "text": "божьства"
+        }
+      ]
+    }
   }
 ]

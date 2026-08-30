@@ -71,7 +71,29 @@
       }
     ],
     "stsl": "Чѹвьствьно никогда же тождь по каковьствѹ ни по количьствѹ прѣбываєть · нъ присно течеть и прѣмѣнѧєть сѧ · Си бо присно раждаѭть сѧ · сѫщьства же никогда же не имѫть ·",
-    "sr": "Čulno je ono što nikada ne ostaje isto po kakvoći ni količini, već uvek teče i menja se. Takve stvari uvek rađaju se, a suštastvo nikada nemaju."
+    "sr": "Čulno je ono što nikada ne ostaje isto po kakvoći ni količini, već uvek teče i menja se. Takve stvari uvek rađaju se, a suštastvo nikada nemaju.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γένεσις",
+          "text": "rađaju"
+        },
+        {
+          "tag": "οὐσία",
+          "text": "suštastvo"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γένεσις",
+          "text": "раждаѭть"
+        },
+        {
+          "tag": "οὐσία",
+          "text": "сѫщьства"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001433",
@@ -85,7 +107,29 @@
       }
     ],
     "stsl": "Поимно · отъ него же ничьтоже отъходить ни приходить · Се естество вѣчьныхъ · присно тождь и себѣ равно ·",
-    "sr": "Pojamno je ono od čega ništa ne odlazi niti mu šta dolazi. To je priroda večnih stvari, uvek ista i sebi jednaka."
+    "sr": "Pojamno je ono od čega ništa ne odlazi niti mu šta dolazi. To je priroda večnih stvari, uvek ista i sebi jednaka.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φύσις",
+          "text": "priroda"
+        },
+        {
+          "tag": "ἀΐδιος",
+          "text": "večnih"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φύσις",
+          "text": "естество"
+        },
+        {
+          "tag": "ἀΐδιος",
+          "text": "вѣчьныхъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001434",
@@ -98,8 +142,46 @@
         "reference": "III.12–13"
       }
     ],
-  "sr": "Svaki vid je večan, bestrasan pojam. Zato kaže da viđe u prirodi stoje kao uzori, a ostalo im nalikuje kao njihova podobija.",
-  "stsl": "Вьсѧкъ видъ вѣчьнъ · бесстрастьнъ поимъ єсть · Того ради глаголеть · ꙗко виждꙑ въ естествѣ стоѧть ꙗко первообразы · прочаꙗ же имъ подобьна · ихъ подобиꙗ сѫть ·"
+    "sr": "Svaki vid je večan, bestrasan pojam. Zato kaže da viđe u prirodi stoje kao uzori, a ostalo im nalikuje kao njihova podobija.",
+    "stsl": "Вьсѧкъ видъ вѣчьнъ · бесстрастьнъ поимъ єсть · Того ради глаголеть · ꙗко виждꙑ въ естествѣ стоѧть ꙗко первообразы · прочаꙗ же имъ подобьна · ихъ подобиꙗ сѫть ·",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "εἶδος",
+          "text": "vid"
+        },
+        {
+          "tag": "νόημα",
+          "text": "pojam"
+        },
+        {
+          "tag": "φύσις",
+          "text": "prirodi"
+        },
+        {
+          "tag": "ἰδέα",
+          "text": "viđe"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "εἶδος",
+          "text": "видъ"
+        },
+        {
+          "tag": "νόημα",
+          "text": "поимъ"
+        },
+        {
+          "tag": "φύσις",
+          "text": "естествѣ"
+        },
+        {
+          "tag": "ἰδέα",
+          "text": "виждꙑ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001435",
@@ -113,7 +195,21 @@
       }
     ],
     "sr": "Platon kaže: Ako postoji sećanje, viđe postoje u bićima, jer je sećanje na nešto što miruje i ostaje, a ništa drugo ne ostaje osim viđa.",
-    "stsl": "Платонъ глаголеть · Аште памѧть єсть · виждꙑ въ сѫщихъ сѫть · памѧть бо єсть покоѧштаго сѧ и прѣбываѭштаго · ничьтоже же ино прѣбываєть · развѣ виждъ ·"
+    "stsl": "Платонъ глаголеть · Аште памѧть єсть · виждꙑ въ сѫщихъ сѫть · памѧть бо єсть покоѧштаго сѧ и прѣбываѭштаго · ничьтоже же ино прѣбываєть · развѣ виждъ ·",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἰδέα",
+          "text": "viđa"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἰδέα",
+          "text": "виждꙑ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001436",
@@ -127,7 +223,29 @@
       }
     ],
     "stsl": "Нꙑнѣ же животънаꙗ помьнѧтъ подобиꙗ и ꙗковаꙗ имъ пища · показѹѭще ꙗко вьсѣмъ животъьнꙑмъ вродьно єсть видовъ ꙁрѣніє ·",
-    "sr": "Životinje sada pamte sličnost i kakva im je hrana, pokazujući time da je svim životinjama urođeno posmatranje oblika."
+    "sr": "Životinje sada pamte sličnost i kakva im je hrana, pokazujući time da je svim životinjama urođeno posmatranje oblika.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεωρία",
+          "text": "posmatranje"
+        },
+        {
+          "tag": "ἰδέα",
+          "text": "oblika"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεωρία",
+          "text": "видовъ"
+        },
+        {
+          "tag": "ἰδέα",
+          "text": "видовъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001437",
@@ -145,19 +263,19 @@
     "sr": "Razgovarajući o tiraniji, Platon je tvrdio da nije dobro ono što koristi samo tiraninu, osim ako se on odlikuje i vrlinom. Time je razgnevio Dionisija, koji reče: Tvoje reči odišu starošću. Platon odgovori: A tvoje tiranijom. Dionisije ga potom predade Lakedemonjaninu Polidu da ga proda."
   },
   {
-  "id": "mm-001438",
-  "type": "reported",
-  "originalText": "Οὐ μὴν ἡσύχαζεν ὁ Διονύσιος· μαθὼν δὲ ἐπέστειλε Πλάτωνι μὴ κακῶς ἀγορεύειν αὐτόν. καὶ ὃς ἀντεπέστειλε μὴ τοσαύτην αὐτῷ σχολὴν εἶναι ὥστε Διονυσίου μεμνῆσθαι.",
-  "author": "Plato",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "III.21"
-    }
-  ],
-  "stsl": "Дионисии написа Платонѹ · да єго зълѣ не глаголеть · Платонъ же отъписа · Не имамъ толика праздьства · да Дионисиꙗ поминаѭ ·",
-  "sr": "Dionisije pisa Platonu da ne govori loše o njemu. Platon mu otpisa: Nisam toliko dokon da Dionisija pominjem."
-},
+    "id": "mm-001438",
+    "type": "reported",
+    "originalText": "Οὐ μὴν ἡσύχαζεν ὁ Διονύσιος· μαθὼν δὲ ἐπέστειλε Πλάτωνι μὴ κακῶς ἀγορεύειν αὐτόν. καὶ ὃς ἀντεπέστειλε μὴ τοσαύτην αὐτῷ σχολὴν εἶναι ὥστε Διονυσίου μεμνῆσθαι.",
+    "author": "Plato",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.21"
+      }
+    ],
+    "stsl": "Дионисии написа Платонѹ · да єго зълѣ не глаголеть · Платонъ же отъписа · Не имамъ толика праздьства · да Дионисиꙗ поминаѭ ·",
+    "sr": "Dionisije pisa Platonu da ne govori loše o njemu. Platon mu otpisa: Nisam toliko dokon da Dionisija pominjem."
+  },
   {
     "id": "mm-001439",
     "type": "reported",
@@ -198,7 +316,21 @@
       }
     ],
     "stsl": "Слаждьша вьсѣхъ слышимыхъ истина ·",
-    "sr": "Od svega što se čuje najprijatnije je istina."
+    "sr": "Od svega što se čuje najprijatnije je istina.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀλήθεια",
+          "text": "istina"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀλήθεια",
+          "text": "истина"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001442",
@@ -212,7 +344,29 @@
       }
     ],
     "stsl": "Истина бо · о гости · красна и прѣбываѭшти · нъ єю ѹвѣрити не легъко ·",
-    "sr": "Istina je, stranče, lepa i postojana, ali nije lako njome uveriti."
+    "sr": "Istina je, stranče, lepa i postojana, ali nije lako njome uveriti.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "καλόν",
+          "text": "lepa"
+        },
+        {
+          "tag": "ἀλήθεια",
+          "text": "Istina"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "καλόν",
+          "text": "красна"
+        },
+        {
+          "tag": "ἀλήθεια",
+          "text": "Истина"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001443",
@@ -240,7 +394,37 @@
       }
     ],
     "sr": "Mudrost je znanje božanskog i ljudskog, a mudroljublje težnja ka mudrosti.",
-    "stsl": "Мѫдрость єсть знаниѥ божьскыхъ и чловѣчьскыхъ · любомѫдриѥ же жаданиѥ мѫдрости ·"
+    "stsl": "Мѫдрость єсть знаниѥ божьскыхъ и чловѣчьскыхъ · любомѫдриѥ же жаданиѥ мѫдрости ·",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "σοφία",
+          "text": "Mudrost"
+        },
+        {
+          "tag": "φιλοσοφία",
+          "text": "mudroljublje"
+        },
+        {
+          "tag": "ἐπιστήμη",
+          "text": "znanje"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "σοφία",
+          "text": "Мѫдрость"
+        },
+        {
+          "tag": "φιλοσοφία",
+          "text": "любомѫдриѥ"
+        },
+        {
+          "tag": "ἐπιστήμη",
+          "text": "знаниѥ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001445",
@@ -254,7 +438,37 @@
       }
     ],
     "stsl": "Вижда и видомъ · и родомъ · и первообразомъ · и начѧломъ · и виноѭ нарицаєть сѧ ·",
-    "sr": "Viđa se naziva i vidom, rodom, uzorom, načelom i uzrokom."
+    "sr": "Viđa se naziva i vidom, rodom, uzorom, načelom i uzrokom.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "εἶδος",
+          "text": "vidom"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "načelom"
+        },
+        {
+          "tag": "ἰδέα",
+          "text": "Viđa"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "εἶδος",
+          "text": "видомъ"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "начѧломъ"
+        },
+        {
+          "tag": "ἰδέα",
+          "text": "Вижда"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001446",
@@ -268,7 +482,29 @@
       }
     ],
     "sr": "Čulno naziva i suštim i nesuštim: suštim zato že ima bivanje, a nesuštim zbog neprestane promene.",
-    "stsl": "Чѹвьствьно и сѫштимъ нарицаєть и не сѫштимъ · сѫштимъ · зане бꙑваниѥ имать · не сѫштимъ же · непрѣстаныѩ ради прѣмѣны ·"
+    "stsl": "Чѹвьствьно и сѫштимъ нарицаєть и не сѫштимъ · сѫштимъ · зане бꙑваниѥ имать · не сѫштимъ же · непрѣстаныѩ ради прѣмѣны ·",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γένεσις",
+          "text": "bivanje"
+        },
+        {
+          "tag": "μὴ ὄν",
+          "text": "nesuštim"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γένεσις",
+          "text": "бꙑваниѥ"
+        },
+        {
+          "tag": "μὴ ὄν",
+          "text": "не сѫштимъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001447",
@@ -282,7 +518,21 @@
       }
     ],
     "stsl": "Дѹшѫ бесъмрьтьнѫ глаголаше · и многа тѣлеса облѣкѫштѫ сѧ ·",
-    "sr": "Govorio je da je duša besmrtna i da se oblači u mnoga tela."
+    "sr": "Govorio je da je duša besmrtna i da se oblači u mnoga tela.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ψυχή",
+          "text": "duša"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ψυχή",
+          "text": "Дѹшѫ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001448",
@@ -296,7 +546,21 @@
       }
     ],
     "stsl": "Дѹша числьно начѧло имать · тѣло же землемѣрьно ·",
-    "sr": "Duša ima brojno načelo, a telo geometrijsko."
+    "sr": "Duša ima brojno načelo, a telo geometrijsko.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀρχή",
+          "text": "načelo"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀρχή",
+          "text": "начѧло"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001449",
@@ -310,7 +574,61 @@
       }
     ],
     "stsl": "Два начѧла вьсѣхъ положи · Бога и тварь · Бога же и ѹмомъ и виноѭ нарицаєть · Тварь безобразьна и бескраина · отъ неѩ състави раждаѭть сѧ ·",
-    "sr": "Postavio je dva načela svega: boga i tvar. Boga naziva i umom i uzrokom. Tvar je bezoblična i beskrajna, a iz nje nastaju sastavi."
+    "sr": "Postavio je dva načela svega: boga i tvar. Boga naziva i umom i uzrokom. Tvar je bezoblična i beskrajna, a iz nje nastaju sastavi.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "Postavio"
+        },
+        {
+          "tag": "θεός",
+          "text": "boga"
+        },
+        {
+          "tag": "νοῦς",
+          "text": "umom"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "načela"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskrajna"
+        },
+        {
+          "tag": "ὕλη",
+          "text": "tvar"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "раждаѭть"
+        },
+        {
+          "tag": "θεός",
+          "text": "Бога"
+        },
+        {
+          "tag": "νοῦς",
+          "text": "ѹмомъ"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "начѧла"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "бескраина"
+        },
+        {
+          "tag": "ὕλη",
+          "text": "тварь"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001450",
@@ -324,7 +642,61 @@
       }
     ],
     "stsl": "Се же сѫщьство прѣвращаѥть сѧ въ четꙑри състави · огнь · водѫ · въздѹхъ · землѭ · Єдинѫ же землѭ непрѣмѣньнѫ быти глаголѥть · мьнѧ виноѭ различиѥ образъ · отъ нихъже съложена єсть · Огнѧ бо съставъ пѵрамида єсть · въздѹха осмостраньникъ · водꙑ двадесѧтостраньникъ · землѧ же костъка ·",
-    "sr": "Ovo suštastvo preobraća se u četiri sastojka: oganj, vodu, vazduh i zemlju. Samo je zemlja, kaže, nepromenljiva, smatrajući da je uzrok razlika oblika od kojih je sastavljena. Sastojak ognja je piramida, vazduha osmostranik, vode dvadesetostranik, a zemlje kocka."
+    "sr": "Ovo suštastvo preobraća se u četiri sastojka: oganj, vodu, vazduh i zemlju. Samo je zemlja, kaže, nepromenljiva, smatrajući da je uzrok razlika oblika od kojih je sastavljena. Sastojak ognja je piramida, vazduha osmostranik, vode dvadesetostranik, a zemlje kocka.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "οὐσία",
+          "text": "suštastvo"
+        },
+        {
+          "tag": "πῦρ",
+          "text": "oganj"
+        },
+        {
+          "tag": "στοιχεῖον",
+          "text": "Sastojak"
+        },
+        {
+          "tag": "σχῆμα",
+          "text": "razlika"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "vazduh"
+        },
+        {
+          "tag": "ὕδωρ",
+          "text": "vodu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "οὐσία",
+          "text": "сѫщьство"
+        },
+        {
+          "tag": "πῦρ",
+          "text": "огнь"
+        },
+        {
+          "tag": "στοιχεῖον",
+          "text": "съставъ"
+        },
+        {
+          "tag": "σχῆμα",
+          "text": "образъ"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "въздѹхъ"
+        },
+        {
+          "tag": "ὕδωρ",
+          "text": "водѫ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001451",
@@ -352,7 +724,37 @@
       }
     ],
     "sr": "Stroj je jedan i rođen, jer je čulan i od boga sazdan. Duševan je, jer je duševno bolje od bezdušnog. Okrugao je, jer i njegov roditelj ima takav obraz.",
-    "stsl": "Строи єдинъ и рожденъ єсть · зане и чѹвьственъ · отъ Бога сътворенъ · Дѹшьнъ же єсть · зане дѹшьно лѹчьше бездѹшьнаго · Окрѫглъ же · зане и родитель єго таковъ образъ имать ·"
+    "stsl": "Строи єдинъ и рожденъ єсть · зане и чѹвьственъ · отъ Бога сътворенъ · Дѹшьнъ же єсть · зане дѹшьно лѹчьше бездѹшьнаго · Окрѫглъ же · зане и родитель єго таковъ образъ имать ·",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "boga"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "Stroj"
+        },
+        {
+          "tag": "σχῆμα",
+          "text": "obraz"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "Бога"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "Строи"
+        },
+        {
+          "tag": "σχῆμα",
+          "text": "образъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001453",
@@ -366,7 +768,45 @@
       }
     ],
     "stsl": "Врѣмѧ · образъ вѣчьнаго · Вѣчьно присно прѣбываєть · небесе же движениє врѣмѧ · Да врѣмѧ родить сѧ · слъньце и мѣсѧць и блѫдьны звѣзды бышѧ ·",
-    "sr": "Vreme je slika večnog. Večno uvek ostaje, a kretanje neba jeste vreme. Radi nastanka vremena postadoše Sunce, Mesec i lutajuće zvezde."
+    "sr": "Vreme je slika večnog. Večno uvek ostaje, a kretanje neba jeste vreme. Radi nastanka vremena postadoše Sunce, Mesec i lutajuće zvezde.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γένεσις",
+          "text": "nastanka"
+        },
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        },
+        {
+          "tag": "χρόνος",
+          "text": "Vreme"
+        },
+        {
+          "tag": "ἀΐδιος",
+          "text": "večnog"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γένεσις",
+          "text": "родить"
+        },
+        {
+          "tag": "γίγνομαι",
+          "text": "родить"
+        },
+        {
+          "tag": "χρόνος",
+          "text": "Врѣмѧ"
+        },
+        {
+          "tag": "ἀΐδιος",
+          "text": "вѣчьнаго"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001454",
@@ -380,7 +820,45 @@
       }
     ],
     "stsl": "Да строи съврьшить сѧ · поимомѹ животномѹ подобенъ бывъ · роди сѧ естество прочиихъ животныхъ · Богови мьножаишѫ чѧсть огньни · прочиихъ же три роди · крилатъ · водьнъ · пѣшь ·",
-    "sr": "Da bi se stroj usavršio postavši sličan umnom živom biću, nastala je priroda ostalih živih bića. Bogovi su većinom vatreni, a ostala bića pripadaju trima rodovima: krilatom, vodenom i kopnenom."
+    "sr": "Da bi se stroj usavršio postavši sličan umnom živom biću, nastala je priroda ostalih živih bića. Bogovi su većinom vatreni, a ostala bića pripadaju trima rodovima: krilatom, vodenom i kopnenom.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "postavši"
+        },
+        {
+          "tag": "θεός",
+          "text": "Bogovi"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "stroj"
+        },
+        {
+          "tag": "φύσις",
+          "text": "priroda"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "роди"
+        },
+        {
+          "tag": "θεός",
+          "text": "Богови"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "строи"
+        },
+        {
+          "tag": "φύσις",
+          "text": "естество"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001455",
@@ -393,8 +871,30 @@
         "reference": "III.75"
       }
     ],
-     "stsl": "Ꙁемлѧ старѣиша небесьнꙑихъ боговъ єсть · ꙗко творениѥ же бысть · нощь и дьнь творѧшти · На срѣдѣ же сѫщи · о срѣдѣ движеть сѧ ·",
-    "sr": "Zemlja je najstarija od nebeskih bogova. Nastala je kao tvorevina koja čini noć i dan. Nalazeći se u središtu, oko središta se kreće."
+    "stsl": "Ꙁемлѧ старѣиша небесьнꙑихъ боговъ єсть · ꙗко творениѥ же бысть · нощь и дьнь творѧшти · На срѣдѣ же сѫщи · о срѣдѣ движеть сѧ ·",
+    "sr": "Zemlja je najstarija od nebeskih bogova. Nastala je kao tvorevina koja čini noć i dan. Nalazeći se u središtu, oko središta se kreće.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        },
+        {
+          "tag": "θεός",
+          "text": "bogova"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "єсть"
+        },
+        {
+          "tag": "θεός",
+          "text": "боговъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001456",
@@ -408,7 +908,69 @@
       }
     ],
     "stsl": "Бога · ꙗко и дѹшѫ · безтѣлесьна мьнить · тако бо тлѣниꙗ и страсти не приємлєть · Виждꙑ же вины и начѧла полагаєть · ими же сѫштаꙗ по естествѹ такова сѫть · ꙗкова сѫть ·",
-    "sr": "Boga, kao i dušu, smatra bestelesnim, jer tako ne prima propadanje ni trpljenje. Viđe postavlja kao uzroke i načela po kojima su stvari postojeće po prirodi upravo onakve kakve jesu."
+    "sr": "Boga, kao i dušu, smatra bestelesnim, jer tako ne prima propadanje ni trpljenje. Viđe postavlja kao uzroke i načela po kojima su stvari postojeće po prirodi upravo onakve kakve jesu.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "Boga"
+        },
+        {
+          "tag": "πάθος",
+          "text": "trpljenje"
+        },
+        {
+          "tag": "φθορά",
+          "text": "propadanje"
+        },
+        {
+          "tag": "φύσις",
+          "text": "prirodi"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "dušu"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "načela"
+        },
+        {
+          "tag": "ἰδέα",
+          "text": "Viđe"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "Бога"
+        },
+        {
+          "tag": "πάθος",
+          "text": "страсти"
+        },
+        {
+          "tag": "φθορά",
+          "text": "тлѣниꙗ"
+        },
+        {
+          "tag": "φύσις",
+          "text": "безтѣлесьна"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "дѹшѫ"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "начѧла"
+        },
+        {
+          "tag": "ἰδέα",
+          "text": "Виждꙑ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001457",
@@ -422,7 +984,29 @@
       }
     ],
     "stsl": "Коньць богоѹподоблениє єсть ·",
-    "sr": "Cilj je upodobljavanje bogu."
+    "sr": "Cilj je upodobljavanje bogu.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogu"
+        },
+        {
+          "tag": "τέλος",
+          "text": "Cilj"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "богоѹподоблениє"
+        },
+        {
+          "tag": "τέλος",
+          "text": "Коньць"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001458",
@@ -436,7 +1020,29 @@
       }
     ],
     "stsl": "Добродѣтель самодовьльна къ благочѧсти · Трѣбѹєть же тѣлесьныхъ благъ ꙗко орѫдии · крѣпости · здравиꙗ · добра чѹвьства и подобныхъ ·",
-    "sr": "Vrlina je samodovoljna za blagočest, ali su joj kao oruđa potrebna telesna dobra: snaga, zdravlje, valjana čula i slično."
+    "sr": "Vrlina je samodovoljna za blagočest, ali su joj kao oruđa potrebna telesna dobra: snaga, zdravlje, valjana čula i slično.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "εὐδαιμονία",
+          "text": "blagočest"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "Vrlina"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "εὐδαιμονία",
+          "text": "благочѧсти"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "Добродѣтель"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001459",
@@ -450,7 +1056,21 @@
       }
     ],
     "stsl": "Градьскыми дѣлы дѣлати · женити сѧ и положеныхъ законъ не прѣстѫпати · И елико мощьно · отьчьствѹ своемѹ законы дати · аште дѣла въ прѣвеликомь людьстѣ раздори съврьшено неисправима не видить ·",
-    "sr": "Treba učestvovati u javnom životu, ženiti se i ne prestupati postavljene zakone. Koliko je moguće, treba i svojoj otadžbini davati zakone, osim ako vidi da su prilike zbog prevelikog razdora naroda potpuno nepopravljive."
+    "sr": "Treba učestvovati u javnom životu, ženiti se i ne prestupati postavljene zakone. Koliko je moguće, treba i svojoj otadžbini davati zakone, osim ako vidi da su prilike zbog prevelikog razdora naroda potpuno nepopravljive.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόμος",
+          "text": "zakone"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόμος",
+          "text": "законъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001460",
@@ -478,7 +1098,45 @@
       }
     ],
     "stsl": "Добра сѫть · ова въ дѹши · ова въ тѣлѣ · ова вънѣ · Правда · разборьность · мѫжьство и цѣломѫдриє въ дѹши · красота · благо тѣло · здравиє и крѣпость въ тѣлѣ · дрѹзи · отьчьства благочѧсть и богатъство вънѣ ·",
-    "sr": "Od dobara, neka su u duši, neka u telu, a neka vani. Pravednost, razboritost, hrabrost i umerenost u duši su; lepota, dobra građa, zdravlje i snaga u telu; prijatelji, blagočest otadžbine i bogatstvo vani."
+    "sr": "Od dobara, neka su u duši, neka u telu, a neka vani. Pravednost, razboritost, hrabrost i umerenost u duši su; lepota, dobra građa, zdravlje i snaga u telu; prijatelji, blagočest otadžbine i bogatstvo vani.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "εὐδαιμονία",
+          "text": "blagočest"
+        },
+        {
+          "tag": "φρόνησις",
+          "text": "razboritost"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "duši"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobra"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "εὐδαιμονία",
+          "text": "благо"
+        },
+        {
+          "tag": "φρόνησις",
+          "text": "разборьность"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "дѹши"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "Добра"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001463",
@@ -492,7 +1150,21 @@
       }
     ],
     "stsl": "Правды три види · къ богомъ · къ чловѣкомъ · къ минѫлымъ ·",
-    "sr": "Tri su vida pravednosti: prema bogovima, prema ljudima i prema minulima."
+    "sr": "Tri su vida pravednosti: prema bogovima, prema ljudima i prema minulima.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogovima"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "богомъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001466",
@@ -506,7 +1178,29 @@
       }
     ],
     "stsl": "Благотворениє на четири дѣлить сѧ · имѣниємь · тѣломъ · наѹками или словесы ·",
-    "sr": "Dobročinstvo se deli na četiri: imovinom, telom, naukama ili slovima."
+    "sr": "Dobročinstvo se deli na četiri: imovinom, telom, naukama ili slovima.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "slovima"
+        },
+        {
+          "tag": "ἐπιστήμη",
+          "text": "naukama"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "словесы"
+        },
+        {
+          "tag": "ἐπιστήμη",
+          "text": "наѹками"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001467",
@@ -520,22 +1214,98 @@
       }
     ],
     "stsl": "Коньць дѣлъ на четири види дѣлить сѧ · По законѹ дѣло коньць приємлєть · єгда рѣшениє бываєть и законъ є съврьшаєть · По естествѹ дѣла коньць приємлѭть · ꙗко дьнь · лѣто и годьна врѣмена · По ѹмѣнию же · ꙗко домозданиє · домъ бо кто съврьшаєть · или кораблезданиє · корабли бо · По слѹчаю же дѣла коньць приємлѭть · єгда инако · а не ꙗкоже кто мнить · исходѧть · Коньць ѹбо дѣлъ · овъ по законѹ · овъ по естествѹ · овъ по ѹмѣнию · овъ по слѹчаю ·",
-    "sr": "Svršetak stvari deli se na četiri vida. Po zakonu stvar prima svršetak kada se donese odluka i zakon je izvrši; po prirodi, kao dan, godina i godišnja doba; po umeću, kao gradnja kuće, jer neko kuću dovršava, ili brodogradnja, jer dovršava brodove; po slučaju, kada stvari ishode drukčije nego što ko misli. Svršetak stvari je, dakle, po zakonu, po prirodi, po umeću ili po slučaju."
+    "sr": "Svršetak stvari deli se na četiri vida. Po zakonu stvar prima svršetak kada se donese odluka i zakon je izvrši; po prirodi, kao dan, godina i godišnja doba; po umeću, kao gradnja kuće, jer neko kuću dovršava, ili brodogradnja, jer dovršava brodove; po slučaju, kada stvari ishode drukčije nego što ko misli. Svršetak stvari je, dakle, po zakonu, po prirodi, po umeću ili po slučaju.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        },
+        {
+          "tag": "νόμος",
+          "text": "zakonu"
+        },
+        {
+          "tag": "τέλος",
+          "text": "Svršetak"
+        },
+        {
+          "tag": "τέχνη",
+          "text": "umeću"
+        },
+        {
+          "tag": "τύχη",
+          "text": "slučaju"
+        },
+        {
+          "tag": "φύσις",
+          "text": "prirodi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бываєть"
+        },
+        {
+          "tag": "νόμος",
+          "text": "законъ"
+        },
+        {
+          "tag": "τέλος",
+          "text": "Коньць"
+        },
+        {
+          "tag": "τέχνη",
+          "text": "ѹмѣнию"
+        },
+        {
+          "tag": "τύχη",
+          "text": "слѹчаю"
+        },
+        {
+          "tag": "φύσις",
+          "text": "естествѹ"
+        }
+      ]
+    }
   },
   {
-  "id": "mm-001468",
-  "type": "quote",
-  "author": "Plato",
-  "originalText": "Τῆς φιλανθρωπίας ἐστὶν εἴδη τρία· ἓν μὲν διὰ τῆς προσηγορίας γινόμενον, οἷον ἐν οἷς τινες τὸν ἐντυχόντα πάντα προσαγορεύουσι καὶ τὴν δεξιὰν ἐμβάλλοντες χαιρετίζουσιν. ἄλλο εἶδος, ὅταν τις βοηθητικὸς ᾖ παντὶ τῷ ἀτυχοῦντι. ἕτερον εἶδός ἐστι τῆς φιλανθρωπίας, ἐν ᾧ τινες φιλοδειπνισταί εἰσι. τῆς ἄρα φιλανθρωπίας τὸ μέν ἐστι διὰ τοῦ προσαγορεύειν, τὸ δὲ διὰ τοῦ εὐεργετεῖν, τὸ δὲ διὰ τοῦ ἑστιᾶν καὶ φιλοσυνουσιάζειν.",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "III.98"
+    "id": "mm-001468",
+    "type": "quote",
+    "author": "Plato",
+    "originalText": "Τῆς φιλανθρωπίας ἐστὶν εἴδη τρία· ἓν μὲν διὰ τῆς προσηγορίας γινόμενον, οἷον ἐν οἷς τινες τὸν ἐντυχόντα πάντα προσαγορεύουσι καὶ τὴν δεξιὰν ἐμβάλλοντες χαιρετίζουσιν. ἄλλο εἶδος, ὅταν τις βοηθητικὸς ᾖ παντὶ τῷ ἀτυχοῦντι. ἕτερον εἶδός ἐστι τῆς φιλανθρωπίας, ἐν ᾧ τινες φιλοδειπνισταί εἰσι. τῆς ἄρα φιλανθρωπίας τὸ μέν ἐστι διὰ τοῦ προσαγορεύειν, τὸ δὲ διὰ τοῦ εὐεργετεῖν, τὸ δὲ διὰ τοῦ ἑστιᾶν καὶ φιλοσυνουσιάζειν.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "III.98"
+      }
+    ],
+    "stsl": "Чловѣколюбиꙗ три види · єдинъ привѣтомъ бываєть · ꙗко нѣции вьсѧкаго срѣтенаго привѣштаѭть и десницѫ подавъше здравиє желаѭть · Дрѹгыи · єгда кто вьсѧкомѹ зълѣ срѣтъшѹ помагаєть · Третии · єгда кто любить пиры творити · Чловѣколюбиє ѹбо бываєть привѣтомъ · благотворениємь · или ѹгоштениємь и общениємь ·",
+    "sr": "Čovekoljublje ima tri vida. Prvi je pozdravljanje svakoga koga ko sretne, pružanje desnice i željenje zdravlja. Drugi je pomaganje svakome koga zadesi nesreća. Treći je ljubav prema priređivanju gozbi. Čovekoljublje je, dakle, u pozdravljanju, dobročinstvu ili gošćenju i druženju.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        },
+        {
+          "tag": "εἶδος",
+          "text": "vida"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бываєть"
+        },
+        {
+          "tag": "εἶδος",
+          "text": "види"
+        }
+      ]
     }
-  ],
-  "stsl": "Чловѣколюбиꙗ три види · єдинъ привѣтомъ бываєть · ꙗко нѣции вьсѧкаго срѣтенаго привѣштаѭть и десницѫ подавъше здравиє желаѭть · Дрѹгыи · єгда кто вьсѧкомѹ зълѣ срѣтъшѹ помагаєть · Третии · єгда кто любить пиры творити · Чловѣколюбиє ѹбо бываєть привѣтомъ · благотворениємь · или ѹгоштениємь и общениємь ·",
-  "sr": "Čovekoljublje ima tri vida. Prvi je pozdravljanje svakoga koga ko sretne, pružanje desnice i željenje zdravlja. Drugi je pomaganje svakome koga zadesi nesreća. Treći je ljubav prema priređivanju gozbi. Čovekoljublje je, dakle, u pozdravljanju, dobročinstvu ili gošćenju i druženju."
-},
+  },
   {
     "id": "mm-001469",
     "type": "quote",
@@ -548,7 +1318,21 @@
       }
     ],
     "stsl": "Благочѧсть на пѧть чѧстии дѣлить сѧ · пръва · благъ съвѣтъ · дрѹга · добро чѹвьство и здравиє тѣла · третиꙗ · благъ ѹспѣхъ въ дѣлѣхъ · четвръта · добра слава въ чловѣцѣхъ · пѧта · обилиє имѣниꙗ и потрѣбьныхъ къ житию ·",
-    "sr": "Blagočest se deli na pet delova: dobro rasuđivanje, valjana čula i zdravlje tela, uspeh u delima, dobar glas među ljudima i obilje novca i onoga što je potrebno za život."
+    "sr": "Blagočest se deli na pet delova: dobro rasuđivanje, valjana čula i zdravlje tela, uspeh u delima, dobar glas među ljudima i obilje novca i onoga što je potrebno za život.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "εὐδαιμονία",
+          "text": "Blagočest"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "εὐδαιμονία",
+          "text": "Благочѧсть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001471",
@@ -562,7 +1346,37 @@
       }
     ],
     "sr": "Od suštih neka su zla, neka dobra, a neka ni jedno ni drugo. Zlima nazivamo ona koja uvek mogu škoditi, kao nerazboritost, bezumlje, nepravda i slično. Njima protivna su dobra.",
-    "stsl": "Отъ сѫштихъ ова зъла · ова добра · ова ни єдина ни дрѹга · Зъла нарицаємъ · єлика присно врѣдити могѫть · ꙗко неразсѫдьство · безѹмиє · неправьда и подобьна · Противьна же симъ добра сѫть ·"
+    "stsl": "Отъ сѫштихъ ова зъла · ова добра · ова ни єдина ни дрѹга · Зъла нарицаємъ · єлика присно врѣдити могѫть · ꙗко неразсѫдьство · безѹмиє · неправьда и подобьна · Противьна же симъ добра сѫть ·",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "zla"
+        },
+        {
+          "tag": "τὰ ὄντα",
+          "text": "suštih"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobra"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "зъла"
+        },
+        {
+          "tag": "τὰ ὄντα",
+          "text": "сѫштихъ"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "добра"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001472",
@@ -576,7 +1390,29 @@
       }
     ],
     "stsl": "Благозакониє на три дѣлить сѧ · Єдино · єгда закони добри сѫть · дрѹгоє · єгда граждане положеныхъ законъ дръже сѧ · третиє · єгда безъ законъ по добрымъ обычаємъ и дѣломъ градьскы живѫть ·",
-    "sr": "Blagozakonje se deli na tri vida: kada su zakoni valjani; kada se građani drže postavljenih zakona; i kada bez zakona dobro žive građanskim životom prema običajima i ustaljenim postupcima."
+    "sr": "Blagozakonje se deli na tri vida: kada su zakoni valjani; kada se građani drže postavljenih zakona; i kada bez zakona dobro žive građanskim životom prema običajima i ustaljenim postupcima.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "μὴ ὄν",
+          "text": "bez zakona"
+        },
+        {
+          "tag": "νόμος",
+          "text": "Blagozakonje"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "μὴ ὄν",
+          "text": "безъ законъ"
+        },
+        {
+          "tag": "νόμος",
+          "text": "законъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001475",

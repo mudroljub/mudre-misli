@@ -244,7 +244,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.32"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бываѭть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000838",
@@ -305,35 +319,35 @@
     ]
   },
   {
-  "id": "mm-000843",
-  "type": "anecdote",
-  "sr": "Kada bi zarobljen i izveden na prodaju, upitaše Diogena šta ume da radi. Odgovori: Ljudima upravljati. Potom reče glasniku: Oglasi hoće li ko sebi kupiti gospodara.",
-  "stsl": "Плѣнєнъ бывъ и на продажѫ поставлєнъ · въпросиша Диогена что творити ѹмѣєть · Отъвѣща · Чловѣкы правити · Потомь вѣстникѹ рече · Възгласи · аще кто хоштєть господина себѣ кѹпити ·",
-  "originalText": "ἁλοὺς καὶ πωλούμενος ἠρωτήθη τί οἶδε ποιεῖν. Ἀπεκρίνατο, «Ἀνδρῶν ἄρχειν»· καὶ πρὸς τὸν κήρυκα, «Κήρυσσε,» ἔφη, «εἴ τις ἐθέλει δεσπότην αὑτῷ πρίασθαι.»",
-  "author": "Diogenes",
-  "year": -350,
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.29"
-    }
-  ]
-},
-{
-  "id": "mm-000844",
-  "type": "anecdote",
-  "sr": "Ksenijadu, koji ga je kupio, Diogen govoraše da njega treba slušati iako je rob: jer i kada bi lekar ili kormilar bio rob, njega bi valjalo slušati.",
-  "stsl": "Ксениꙗдѹ · иже єго кѹпи · Диогенъ глаголааше · ꙗко подобаєть єго слѹшати · аште и рабъ єсть · врачь бо или кормьчии · аште и рабъ єсть · послѹшанъ быти подобаєть ·",
-  "originalText": "Ἔλεγε τῷ Ξενιάδῃ τῷ πριαμένῳ αὐτόν, δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
-  "author": "Diogenes",
-  "year": -350,
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.74"
-    }
-  ]
-},
+    "id": "mm-000843",
+    "type": "anecdote",
+    "sr": "Kada bi zarobljen i izveden na prodaju, upitaše Diogena šta ume da radi. Odgovori: Ljudima upravljati. Potom reče glasniku: Oglasi hoće li ko sebi kupiti gospodara.",
+    "stsl": "Плѣнєнъ бывъ и на продажѫ поставлєнъ · въпросиша Диогена что творити ѹмѣєть · Отъвѣща · Чловѣкы правити · Потомь вѣстникѹ рече · Възгласи · аще кто хоштєть господина себѣ кѹпити ·",
+    "originalText": "ἁλοὺς καὶ πωλούμενος ἠρωτήθη τί οἶδε ποιεῖν. Ἀπεκρίνατο, «Ἀνδρῶν ἄρχειν»· καὶ πρὸς τὸν κήρυκα, «Κήρυσσε,» ἔφη, «εἴ τις ἐθέλει δεσπότην αὑτῷ πρίασθαι.»",
+    "author": "Diogenes",
+    "year": -350,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.29"
+      }
+    ]
+  },
+  {
+    "id": "mm-000844",
+    "type": "anecdote",
+    "sr": "Ksenijadu, koji ga je kupio, Diogen govoraše da njega treba slušati iako je rob: jer i kada bi lekar ili kormilar bio rob, njega bi valjalo slušati.",
+    "stsl": "Ксениꙗдѹ · иже єго кѹпи · Диогенъ глаголааше · ꙗко подобаєть єго слѹшати · аште и рабъ єсть · врачь бо или кормьчии · аште и рабъ єсть · послѹшанъ быти подобаєть ·",
+    "originalText": "Ἔλεγε τῷ Ξενιάδῃ τῷ πριαμένῳ αὐτόν, δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
+    "author": "Diogenes",
+    "year": -350,
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.74"
+      }
+    ]
+  },
   {
     "id": "mm-000845",
     "type": "anecdote",
@@ -409,7 +423,7 @@
       }
     ]
   },
- {
+  {
     "id": "mm-000850",
     "type": "anecdote",
     "sr": "Posle Heroneje Diogen bi zarobljen i odveden Filipu. Upitan ko je, odgovori: Uhoda tvoje nezasite pohlepe. Zadivljen njime, Filip ga pusti.",
@@ -523,7 +537,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.68"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "zlo"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "зло"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000860",
@@ -537,7 +565,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.68"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κόσμος",
+          "text": "ustroj"
+        },
+        {
+          "tag": "παιδεία",
+          "text": "Vaspitanje"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κόσμος",
+          "text": "строи"
+        },
+        {
+          "tag": "παιδεία",
+          "text": "Възпитаніє"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000861",
@@ -579,36 +629,50 @@
         "name": "diogenes-laertius",
         "reference": "VI.63"
       }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τύχη",
+          "text": "sudbinu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τύχη",
+          "text": "ѹчасти"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mm-000864",
+    "type": "reported",
+    "sr": "Jednom Diogen povika: Hej, ljudi! Kada se okupljeni približiše, udari ih štapom i reče: Ljude sam zvao, ne ološ.",
+    "stsl": "Єдиною Диогенъ възъва · О чловѣци · Събъравъшимъ же сѧ · жезломъ ихъ би и рече · Чловѣкы възъвахъ · не отъмѣть ·",
+    "originalText": "φωνήσας ποτέ, «ἰὼ ἄνθρωποι,» συνελθόντων, καθίκετο τῇ βακτηρίᾳ, εἰπών, «ἀνθρώπους ἐκάλεσα, οὐ καθάρματα,» ὥς φησιν Ἑκάτων ἐν τῷ πρώτῳ τῶν Χρειῶν.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.32"
+      }
     ]
   },
   {
-  "id": "mm-000864",
-  "type": "reported",
-  "sr": "Jednom Diogen povika: Hej, ljudi! Kada se okupljeni približiše, udari ih štapom i reče: Ljude sam zvao, ne ološ.",
-  "stsl": "Єдиною Диогенъ възъва · О чловѣци · Събъравъшимъ же сѧ · жезломъ ихъ би и рече · Чловѣкы възъвахъ · не отъмѣть ·",
-  "originalText": "φωνήσας ποτέ, «ἰὼ ἄνθρωποι,» συνελθόντων, καθίκετο τῇ βακτηρίᾳ, εἰπών, «ἀνθρώπους ἐκάλεσα, οὐ καθάρματα,» ὥς φησιν Ἑκάτων ἐν τῷ πρώτῳ τῶν Χρειῶν.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.32"
-    }
-  ]
-},
-  {
-  "id": "mm-000865",
-  "type": "reported",
-  "sr": "Ksenijadu, koji ga je kupio, Diogen govoraše da njega treba slušati iako je rob, jer bi se i lekaru ili kormilaru, kada bi bio rob, ljudi pokoravali.",
-  "stsl": "Ксениꙗдѹ · иже єго кѹпи · Диогенъ глаголааше · ꙗко подобаєть єго слѹшати · аще и рабъ єсть · и врачѹ бо или кормьчию · аще рабъ єсть · повиновати сѧ подобаєть ·",
-  "author": "Diogenes",
-  "originalText": "Δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.30"
-    }
-  ]
-},
+    "id": "mm-000865",
+    "type": "reported",
+    "sr": "Ksenijadu, koji ga je kupio, Diogen govoraše da njega treba slušati iako je rob, jer bi se i lekaru ili kormilaru, kada bi bio rob, ljudi pokoravali.",
+    "stsl": "Ксениꙗдѹ · иже єго кѹпи · Диогенъ глаголааше · ꙗко подобаєть єго слѹшати · аще и рабъ єсть · и врачѹ бо или кормьчию · аще рабъ єсть · повиновати сѧ подобаєть ·",
+    "author": "Diogenes",
+    "originalText": "Δεῖν πείθεσθαι αὐτῷ, εἰ καὶ δοῦλος εἴη· καὶ γὰρ ἰατρὸς ἢ κυβερνήτης εἰ δοῦλος εἴη, πεισθῆναι ἂν αὐτῷ.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.30"
+      }
+    ]
+  },
   {
     "id": "mm-000866",
     "type": "mention",
@@ -663,7 +727,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.50"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "zala"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "золъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000870",
@@ -677,7 +755,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.105"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "Bogovima"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "Богомъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000871",
@@ -719,7 +811,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.34"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τέλος",
+          "text": "ciljem"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τέλος",
+          "text": "концѣ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000874",
@@ -775,7 +881,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.24"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "slovo"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "слово"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000878",
@@ -803,7 +923,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.27"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "nevolje"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "бѣды"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000880",
@@ -859,7 +993,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.37"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogovima"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "богомъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000884",
@@ -887,7 +1035,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.38"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τέλος",
+          "text": "kraju"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τέλος",
+          "text": "концѣ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000886",
@@ -915,7 +1077,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.42"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogove"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "богы"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000888",
@@ -974,75 +1150,111 @@
     ]
   },
   {
-  "id": "mm-000892",
-  "type": "reported",
-  "sr": "Upitan šta je najlepše među ljudima, Diogen odgovori: Sloboda govora.",
-  "stsl": "Въпрошенъ что єсть наикраснѣишєє въ чловѣцѣхъ · Диогенъ отъвѣшта · Дерзновєно слово ·",
-  "author": "Diogenes",
-  "originalText": "Ἐρωτηθεὶς τί κάλλιστον ἐν ἀνθρώποις, ἔφη, «Παρρησία.»",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.69"
-    }
-  ]
-},
+    "id": "mm-000892",
+    "type": "reported",
+    "sr": "Upitan šta je najlepše među ljudima, Diogen odgovori: Sloboda govora.",
+    "stsl": "Въпрошенъ что єсть наикраснѣишєє въ чловѣцѣхъ · Диогенъ отъвѣшта · Дерзновєно слово ·",
+    "author": "Diogenes",
+    "originalText": "Ἐρωτηθεὶς τί κάλλιστον ἐν ἀνθρώποις, ἔφη, «Παρρησία.»",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.69"
+      }
+    ]
+  },
   {
-  "id": "mm-000893",
-  "type": "reported",
-  "sr": "Govorio je da je vežbanje dvojako: duševno i telesno; jedno bez drugog je nepotpuno.",
-  "stsl": "Глаголаше ꙗко вѣждениѥ двоꙗко єсть · дѹшьвьно и тѣлесьно · єдино же безъ дрѹгаго несъврьшено єсть ·",
-  "originalText": "Διττὴν δ' ἔλεγε εἶναι τὴν ἄσκησιν, τὴν μὲν ψυχικήν, τὴν δὲ σωματικήν· ... Εἶναι δ' ἀτελῆ τὴν ἑτέραν χωρὶς τῆς ἑτέρας",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.70"
-    }
-  ]
-},
- {
-  "id": "mm-000894",
-  "type": "quote",
-  "sr": "Ništa se u životu ne postiže bez vežbanja; uvežbano preziranje naslade postaje najslađe.",
-  "stsl": "Ничесоже въ житии безъ вѣждениꙗ съврьшаєть сѧ · навыкъше же сласть прѣзирати · сє сладъчаишє бываєть ·",
-  "originalText": "Οὐδέν ... τὸ παράπαν ἐν τῷ βίῳ χωρὶς ἀσκήσεως κατορθοῦσθαι ... αὐτῆς τῆς ἡδονῆς ἡ καταφρόνησις ἡδυτάτη προμελετηθεῖσα",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.71"
-    }
-  ]
-},
- {
-  "id": "mm-000895",
-  "type": "reported",
-  "sr": "Smatrao je da je jedina prava država — svet.",
-  "stsl": "Мьнѣаше ꙗко єдина права дрьжава єсть миръ ·",
-  "originalText": "μόνην τε ὀρθὴν πολιτείαν εἶναι τὴν ἐν κόσμῳ.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.72"
-    }
-  ]
-},
+    "id": "mm-000893",
+    "type": "reported",
+    "sr": "Govorio je da je vežbanje dvojako: duševno i telesno; jedno bez drugog je nepotpuno.",
+    "stsl": "Глаголаше ꙗко вѣждениѥ двоꙗко єсть · дѹшьвьно и тѣлесьно · єдино же безъ дрѹгаго несъврьшено єсть ·",
+    "originalText": "Διττὴν δ' ἔλεγε εἶναι τὴν ἄσκησιν, τὴν μὲν ψυχικήν, τὴν δὲ σωματικήν· ... Εἶναι δ' ἀτελῆ τὴν ἑτέραν χωρὶς τῆς ἑτέρας",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.70"
+      }
+    ]
+  },
   {
-  "id": "mm-000896",
-  "type": "reported",
-  "sr": "Prijateljima koji su hteli da ga otkupe Diogen reče: Lavovi nisu robovi onih koji ih hrane, nego su oni koji ih hrane robovi lavova; jer robu pripada strah, a zveri ljudima ulivaju strah.",
-  "stsl": "Дрѹгомъ хощѫштемъ єго искѹпити Диогенъ рече · Льви не сѫть раби кормѧштихъ ихъ · нъ кормѧштиѩ раби львовъ сѫть · страхъ бо рабѹ свои єсть · звѣри же страхъ чловѣкомъ творѧть ·",
-  "author": "Diogenes",
-  "originalText": "Κλεομένης δ' ἐν τῷ ἐπιγραφομένῳ Παιδαγωγικῷ τοὺς φίλους αὐτοῦ βουλομένους αὐτὸν λυτρώσασθαι μωροὺς ἔφη λέγειν· οὐ γὰρ τοὺς λέοντας τῶν τρεφόντων δούλους εἶναι, ἀλλὰ τοὺς τρέφοντας τῶν λεόντων· φόβος γὰρ δούλου, τὰ δὲ θηρία φοβερὰ τοῖς ἀνθρώποις.",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.75"
+    "id": "mm-000894",
+    "type": "quote",
+    "sr": "Ništa se u životu ne postiže bez vežbanja; uvežbano preziranje naslade postaje najslađe.",
+    "stsl": "Ничесоже въ житии безъ вѣждениꙗ съврьшаєть сѧ · навыкъше же сласть прѣзирати · сє сладъчаишє бываєть ·",
+    "originalText": "Οὐδέν ... τὸ παράπαν ἐν τῷ βίῳ χωρὶς ἀσκήσεως κατορθοῦσθαι ... αὐτῆς τῆς ἡδονῆς ἡ καταφρόνησις ἡδυτάτη προμελετηθεῖσα",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.71"
+      }
+    ]
+  },
+  {
+    "id": "mm-000895",
+    "type": "reported",
+    "sr": "Smatrao je da je jedina prava država — svet.",
+    "stsl": "Мьнѣаше ꙗко єдина права дрьжава єсть миръ ·",
+    "originalText": "μόνην τε ὀρθὴν πολιτείαν εἶναι τὴν ἐν κόσμῳ.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.72"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κόσμος",
+          "text": "svet"
+        },
+        {
+          "tag": "πολιτεία",
+          "text": "država"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κόσμος",
+          "text": "миръ"
+        },
+        {
+          "tag": "πολιτεία",
+          "text": "дрьжава"
+        }
+      ]
     }
-  ]
-},
+  },
+  {
+    "id": "mm-000896",
+    "type": "reported",
+    "sr": "Prijateljima koji su hteli da ga otkupe Diogen reče: Lavovi nisu robovi onih koji ih hrane, nego su oni koji ih hrane robovi lavova; jer robu pripada strah, a zveri ljudima ulivaju strah.",
+    "stsl": "Дрѹгомъ хощѫштемъ єго искѹпити Диогенъ рече · Льви не сѫть раби кормѧштихъ ихъ · нъ кормѧштиѩ раби львовъ сѫть · страхъ бо рабѹ свои єсть · звѣри же страхъ чловѣкомъ творѧть ·",
+    "author": "Diogenes",
+    "originalText": "Κλεομένης δ' ἐν τῷ ἐπιγραφομένῳ Παιδαγωγικῷ τοὺς φίλους αὐτοῦ βουλομένους αὐτὸν λυτρώσασθαι μωροὺς ἔφη λέγειν· οὐ γὰρ τοὺς λέοντας τῶν τρεφόντων δούλους εἶναι, ἀλλὰ τοὺς τρέφοντας τῶν λεόντων· φόβος γὰρ δούλου, τὰ δὲ θηρία φοβερὰ τοῖς ἀνθρώποις.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.75"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φόβος",
+          "text": "strah"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φόβος",
+          "text": "страхъ"
+        }
+      ]
+    }
+  },
   {
     "id": "mm-000897",
     "type": "bio",
@@ -1059,20 +1271,20 @@
     ]
   },
   {
-  "id": "mm-000898",
-  "type": "anecdote",
-  "year": -350,
-  "sr": "Videvši Platona kako na raskošnoj gozbi jede masline, Diogen ga upita: Zašto ti, mudrac koji si radi ovakvih trpeza plovio na Siciliju, sada ne uživaš u njima kad su pred tobom? Platon odgovori: Tako mi bogova, Diogene, i onde sam ponajviše jeo masline i slično. A zašto je onda trebalo ploviti u Sirakuzu? Zar Atika tada nije rađala masline?",
-  "stsl": "Видѣвъ Платѡна на богатѣи трѧпезѣ маслины ꙗдѫшта · Диогенъ въпроси · Почто ты · мѫдрьче · иже сихъ трѧпеꙁъ ради въ Сикеліѭ плава · нынѣ прѣдълежѧштихъ не насладиши сѧ · Платѡнъ отъвѣшта · Богы ми · Диогене · и тамо множаише маслины и подобьнаꙗ ꙗдаахъ · Почто ѹбо въ Сѵракѹсѫ плѹти подобаше · Еда тогда Атика маслинъ не раждааше ·",
-  "originalText": "Καί ποτε Πλάτωνα ἐν δείπνῳ πολυτελεῖ κατανοήσας ἐλάας ἁψάμενον, «Τί,» φησίν, «ὁ σοφὸς εἰς Σικελίαν πλεύσας τῶν τραπεζῶν τούτων χάριν, νῦν παρακειμένων οὐκ ἀπολαύεις;» ὁ δέ, «Νὴ τοὺς θεούς,» ἔφη, «ὦ Διόγενες, κἀκεῖ τὰ πολλὰ πρὸς ἐλάας καὶ τὰ τοιαῦτα διεγενόμην.» «Τί οὖν ἔδει πλεῖν εἰς Συρακούσας; Ἢ τότε ἡ Ἀττικὴ οὐκ ἔφερεν ἐλάας;»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.25"
-    }
-  ]
-},
+    "id": "mm-000898",
+    "type": "anecdote",
+    "year": -350,
+    "sr": "Videvši Platona kako na raskošnoj gozbi jede masline, Diogen ga upita: Zašto ti, mudrac koji si radi ovakvih trpeza plovio na Siciliju, sada ne uživaš u njima kad su pred tobom? Platon odgovori: Tako mi bogova, Diogene, i onde sam ponajviše jeo masline i slično. A zašto je onda trebalo ploviti u Sirakuzu? Zar Atika tada nije rađala masline?",
+    "stsl": "Видѣвъ Платѡна на богатѣи трѧпезѣ маслины ꙗдѫшта · Диогенъ въпроси · Почто ты · мѫдрьче · иже сихъ трѧпеꙁъ ради въ Сикеліѭ плава · нынѣ прѣдълежѧштихъ не насладиши сѧ · Платѡнъ отъвѣшта · Богы ми · Диогене · и тамо множаише маслины и подобьнаꙗ ꙗдаахъ · Почто ѹбо въ Сѵракѹсѫ плѹти подобаше · Еда тогда Атика маслинъ не раждааше ·",
+    "originalText": "Καί ποτε Πλάτωνα ἐν δείπνῳ πολυτελεῖ κατανοήσας ἐλάας ἁψάμενον, «Τί,» φησίν, «ὁ σοφὸς εἰς Σικελίαν πλεύσας τῶν τραπεζῶν τούτων χάριν, νῦν παρακειμένων οὐκ ἀπολαύεις;» ὁ δέ, «Νὴ τοὺς θεούς,» ἔφη, «ὦ Διόγενες, κἀκεῖ τὰ πολλὰ πρὸς ἐλάας καὶ τὰ τοιαῦτα διεγενόμην.» «Τί οὖν ἔδει πλεῖν εἰς Συρακούσας; Ἢ τότε ἡ Ἀττικὴ οὐκ ἔφερεν ἐλάας;»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.25"
+      }
+    ]
+  },
   {
     "id": "mm-000899",
     "type": "anecdote",
@@ -1104,19 +1316,19 @@
     ]
   },
   {
-  "id": "mm-000901",
-  "type": "reported",
-  "sr": "Kada Diogen zatraži od Platona vina i smokava, ovaj mu posla čitav ćup. Diogen mu reče: Ako te neko pita koliko su dva i dva, zar ćeš odgovoriti dvadeset? Tako niti daješ prema onome što se traži, niti odgovaraš prema onome što si pitan.",
-  "stsl": "Єгда Диогенъ отъ Платона вина и смокъвъ проси · онъ ємѹ цѣлъ кръчагъ посъла · Диогенъ рече · Аще къто въпросить тѧ · колико два и два · еда двадесѧть отвѣштаєши · Тако ни по прошению даєши · ни по въпросѹ отвѣштаєши ·",
-  "originalText": "Διογένης οἶνόν ποτ' ᾔτησεν αὐτόν, τότε δὲ καὶ ἰσχάδας. ὁ δὲ κεράμιον ὅλον ἔπεμψεν αὐτῷ· καὶ ὅς, σύ, φησίν, ἐὰν ἐρωτηθῇς δύο καὶ δύο πόσα ἐστίν, Εἴκοσιν ἀποκρινῇ; οὕτως οὔτε πρὸς τὰ αἰτούμενα δίδως οὔτε πρὸς τὰ ἐρωτώμεν' ἀποκρίνῃ.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.26"
-    }
-  ]
-},
+    "id": "mm-000901",
+    "type": "reported",
+    "sr": "Kada Diogen zatraži od Platona vina i smokava, ovaj mu posla čitav ćup. Diogen mu reče: Ako te neko pita koliko su dva i dva, zar ćeš odgovoriti dvadeset? Tako niti daješ prema onome što se traži, niti odgovaraš prema onome što si pitan.",
+    "stsl": "Єгда Диогенъ отъ Платона вина и смокъвъ проси · онъ ємѹ цѣлъ кръчагъ посъла · Диогенъ рече · Аще къто въпросить тѧ · колико два и два · еда двадесѧть отвѣштаєши · Тако ни по прошению даєши · ни по въпросѹ отвѣштаєши ·",
+    "originalText": "Διογένης οἶνόν ποτ' ᾔτησεν αὐτόν, τότε δὲ καὶ ἰσχάδας. ὁ δὲ κεράμιον ὅλον ἔπεμψεν αὐτῷ· καὶ ὅς, σύ, φησίν, ἐὰν ἐρωτηθῇς δύο καὶ δύο πόσα ἐστίν, Εἴκοσιν ἀποκρινῇ; οὕτως οὔτε πρὸς τὰ αἰτούμενα δίδως οὔτε πρὸς τὰ ἐρωτώμεν' ἀποκρίνῃ.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.26"
+      }
+    ]
+  },
   {
     "id": "mm-000902",
     "type": "reported",
@@ -1129,7 +1341,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.28"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ψυχή",
+          "text": "duše"
+        },
+        {
+          "tag": "ἦθος",
+          "text": "narav"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ψυχή",
+          "text": "дѹшы"
+        },
+        {
+          "tag": "ἦθος",
+          "text": "нравъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000903",
@@ -1146,20 +1380,20 @@
       }
     ]
   },
- {
-  "id": "mm-000904",
-  "type": "reported",
-  "sr": "Diogen je govorio da treba podražavati horovođe: oni zadaju ton nešto više od pravog, kako bi ostali pogodili pravi ton.",
-  "stsl": "Диогенъ глаголаше ꙗко пѣсньноводителємъ подобити сѧ подобаєть · они бо гласъ вышше подобьнаго даѭть · да прочии подобьнаго гласа достигнѫть ·",
-  "originalText": "Μιμεῖσθαι ἔλεγε τοὺς χοροδιδασκάλους· καὶ γὰρ ἐκείνους ὑπὲρ τόνον ἐνδιδόναι ἕνεκα τοῦ τοὺς λοιποὺς ἅψασθαι τοῦ προσήκοντος τόνου.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.35"
-    }
-  ]
-},
+  {
+    "id": "mm-000904",
+    "type": "reported",
+    "sr": "Diogen je govorio da treba podražavati horovođe: oni zadaju ton nešto više od pravog, kako bi ostali pogodili pravi ton.",
+    "stsl": "Диогенъ глаголаше ꙗко пѣсньноводителємъ подобити сѧ подобаєть · они бо гласъ вышше подобьнаго даѭть · да прочии подобьнаго гласа достигнѫть ·",
+    "originalText": "Μιμεῖσθαι ἔλεγε τοὺς χοροδιδασκάλους· καὶ γὰρ ἐκείνους ὑπὲρ τόνον ἐνδιδόναι ἕνεκα τοῦ τοὺς λοιποὺς ἅψασθαι τοῦ προσήκοντος τόνου.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.35"
+      }
+    ]
+  },
   {
     "id": "mm-000905",
     "type": "quote",
@@ -1203,34 +1437,34 @@
       }
     ]
   },
- {
-  "id": "mm-000908",
-  "type": "reported",
-  "sr": "Kada Aleksandar posla pismo Antipatru preko glasnika Athlija, Diogen reče: Jadno od jadnika, preko jadnika, jadniku.",
-  "stsl": "Єгда Александръ посъла писаниѥ къ Антипатрѹ · Атлиѥмъ вѣстникомъ · Диогенъ рече · Окаꙗньно отъ окаꙗньна · окаꙗньнымъ · къ окаꙗньнѹ ·",
-  "originalText": "Ἀλεξάνδρου ποτὲ πέμψαντος ἐπιστολὴν πρὸς Ἀντίπατρον εἰς Ἀθήνας διά τινος Ἀθλίου, παρὼν ἔφη· ἄθλιος παρ' ἀθλίου δι' ἀθλίου πρὸς ἄθλιον.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.44"
-    }
-  ]
-},
- {
-  "id": "mm-000909",
-  "type": "reported",
-  "sr": "Kada mu Perdika zapreti da će ga ubiti ako ne dođe k njemu, Diogen reče: Nije to velika pretnja; i buba ili pauk mogu me ubiti. Više bi mi pretio kada bi rekao da ćeš bez mene živeti blaženo.",
-  "stsl": "Єгда Пердика възгрози ємѹ · ꙗко аще къ немѹ не придеть · ѹбиєть и · Диогенъ рече · Не велика то гроза · и жѫкъ или паѫкъ мѧ ѹбити можеть · Вѧште бы ми грозилъ · аще бы реклъ · безъ мене благочѧстьно жити бѫдѫ ·",
-  "originalText": "Περδίκκου ἀπειλήσαντος, εἰ μὴ ἔλθοι πρὸς αὐτόν, ἀποκτενεῖν, ἔφη, «Οὐδὲν μέγα· καὶ γὰρ κάνθαρος καὶ φαλάγγιον τοῦτ' ἂν πράξειεν·» ἐκεῖνο δὲ μᾶλλον ἀπειλεῖν ἠξίου ὡς «Εἰ καὶ χωρὶς ἐμοῦ ζήσαι, εὐδαιμόνως ζήσοιτο.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.44"
-    }
-  ]
-},
+  {
+    "id": "mm-000908",
+    "type": "reported",
+    "sr": "Kada Aleksandar posla pismo Antipatru preko glasnika Athlija, Diogen reče: Jadno od jadnika, preko jadnika, jadniku.",
+    "stsl": "Єгда Александръ посъла писаниѥ къ Антипатрѹ · Атлиѥмъ вѣстникомъ · Диогенъ рече · Окаꙗньно отъ окаꙗньна · окаꙗньнымъ · къ окаꙗньнѹ ·",
+    "originalText": "Ἀλεξάνδρου ποτὲ πέμψαντος ἐπιστολὴν πρὸς Ἀντίπατρον εἰς Ἀθήνας διά τινος Ἀθλίου, παρὼν ἔφη· ἄθλιος παρ' ἀθλίου δι' ἀθλίου πρὸς ἄθλιον.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.44"
+      }
+    ]
+  },
+  {
+    "id": "mm-000909",
+    "type": "reported",
+    "sr": "Kada mu Perdika zapreti da će ga ubiti ako ne dođe k njemu, Diogen reče: Nije to velika pretnja; i buba ili pauk mogu me ubiti. Više bi mi pretio kada bi rekao da ćeš bez mene živeti blaženo.",
+    "stsl": "Єгда Пердика възгрози ємѹ · ꙗко аще къ немѹ не придеть · ѹбиєть и · Диогенъ рече · Не велика то гроза · и жѫкъ или паѫкъ мѧ ѹбити можеть · Вѧште бы ми грозилъ · аще бы реклъ · безъ мене благочѧстьно жити бѫдѫ ·",
+    "originalText": "Περδίκκου ἀπειλήσαντος, εἰ μὴ ἔλθοι πρὸς αὐτόν, ἀποκτενεῖν, ἔφη, «Οὐδὲν μέγα· καὶ γὰρ κάνθαρος καὶ φαλάγγιον τοῦτ' ἂν πράξειεν·» ἐκεῖνο δὲ μᾶλλον ἀπειλεῖν ἠξίου ὡς «Εἰ καὶ χωρὶς ἐμοῦ ζήσαι, εὐδαιμόνως ζήσοιτο.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.44"
+      }
+    ]
+  },
   {
     "id": "mm-000910",
     "type": "reported",
@@ -1243,22 +1477,36 @@
         "name": "diogenes-laertius",
         "reference": "VI.44"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogovi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "бози"
+        }
+      ]
+    }
   },
   {
-  "id": "mm-000911",
-  "type": "reported",
-  "sr": "Videvši čoveka kome sluga obuva obuću, Diogen reče: Još nisi blažen dok ti sluga ne obriše i nos; a to će biti kada ti ruke obogalje.",
-  "stsl": "Видѣвъ чловѣка · єгоже рабъ обѹвааше · Диогенъ рече · Єште не блаженъ єси · дондеже ти рабъ и носа не отьреть · Се же бѫдеть · єгда рѫцѣ твои недѫжьны бѫдѫть ·",
-  "originalText": "Πρὸς τὸν ὑπὸ τοῦ οἰκέτου ὑποδούμενον, «Οὔπω,» εἶπε, «μακάριος εἶ, ἂν μή σε καὶ ἀπομύξῃ· τοῦτο δ' ἔσται πηρωθέντι σοι τὰς χεῖρας.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.44"
-    }
-  ]
-},
+    "id": "mm-000911",
+    "type": "reported",
+    "sr": "Videvši čoveka kome sluga obuva obuću, Diogen reče: Još nisi blažen dok ti sluga ne obriše i nos; a to će biti kada ti ruke obogalje.",
+    "stsl": "Видѣвъ чловѣка · єгоже рабъ обѹвааше · Диогенъ рече · Єште не блаженъ єси · дондеже ти рабъ и носа не отьреть · Се же бѫдеть · єгда рѫцѣ твои недѫжьны бѫдѫть ·",
+    "originalText": "Πρὸς τὸν ὑπὸ τοῦ οἰκέτου ὑποδούμενον, «Οὔπω,» εἶπε, «μακάριος εἶ, ἂν μή σε καὶ ἀπομύξῃ· τοῦτο δ' ἔσται πηρωθέντι σοι τὰς χεῖρας.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.44"
+      }
+    ]
+  },
   {
     "id": "mm-000912",
     "type": "quote",
@@ -1274,19 +1522,19 @@
     ]
   },
   {
-  "id": "mm-000913",
-  "type": "reported",
-  "sr": "Dok se Diogen na trgu samozadovoljavao, reče: Kad bi se i glad mogla ukloniti trljanjem trbuha!",
-  "stsl": "Диогенѹ на тръгѹ похоть своѭ рѫкоѭ ѹтолꙗѭштѹ · рече · О да бы и гладъ тръниѥмь чрѣва отъꙗти сѧ моглъ ·",
-  "originalText": "Ἐπ' ἀγορᾶς ποτε χειρουργῶν, «Εἴθε,» ἔφη, «καὶ τὴν κοιλίαν ἦν παρατρίψαντα μὴ πεινῆν.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.46"
-    }
-  ]
-},
+    "id": "mm-000913",
+    "type": "reported",
+    "sr": "Dok se Diogen na trgu samozadovoljavao, reče: Kad bi se i glad mogla ukloniti trljanjem trbuha!",
+    "stsl": "Диогенѹ на тръгѹ похоть своѭ рѫкоѭ ѹтолꙗѭштѹ · рече · О да бы и гладъ тръниѥмь чрѣва отъꙗти сѧ моглъ ·",
+    "originalText": "Ἐπ' ἀγορᾶς ποτε χειρουργῶν, «Εἴθε,» ἔφη, «καὶ τὴν κοιλίαν ἦν παρατρίψαντα μὴ πεινῆν.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.46"
+      }
+    ]
+  },
   {
     "id": "mm-000914",
     "type": "anecdote",
@@ -1303,89 +1551,103 @@
     ]
   },
   {
-  "id": "mm-000915",
-  "type": "reported",
-  "sr": "Diogen je neukog bogataša nazivao zlatorunom ovcom.",
-  "stsl": "Диогенъ неука богатаго златорѹнноѭ овьцеѭ нарицаше ·",
-  "originalText": "Τὸν ἀμαθῆ πλούσιον πρόβατον εἶπε χρυσόμαλλον.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.47"
-    }
-  ]
-},
- {
-  "id": "mm-000916",
-  "type": "reported",
-  "sr": "Videvši prljavo kupatilo, Diogen upita: Gde se kupaju oni koji se ovde kupaju?",
-  "stsl": "Видѣвъ скврьнѫ банѭ · Диогенъ въпроси · Къдѣ сѧ мꙑѭть · иже сѧ здѣ мꙑѭть ·",
-  "originalText": "Πρὸς τὸ ῥυπαρὸν βαλανεῖον, «Οἱ ἐνθάδε,» ἔφη, «λουόμενοι ποῦ λούονται;»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.47"
-    }
-  ]
-},
- {
-  "id": "mm-000917",
-  "type": "reported",
-  "sr": "Dok su svi kudili nekog debelog kitaroša, jedino ga je Diogen hvalio. Upitan zašto, odgovori: Toliki je, a ipak svira kitaru umesto da pljačka.",
-  "stsl": "Єгда вьси нѣкоєго дебела гѫсльника хѹлѧахѫ · єдинъ Диогенъ хвалꙗаше и · Въпрошенъ чесо ради · отъвѣшта · Толикъ сꙧи · въ гѫсли играєть · а не разбиваєть ·",
-  "originalText": "Παχέος κιθαρῳδοῦ πρὸς πάντων μεμφομένου αὐτὸς μόνος ἐπῄνει· ἐρωτηθεὶς δὲ διὰ τί, ἔφη, «Ὅτι τηλικοῦτος ὢν κιθαρῳδεῖ καὶ οὐ λῃστεύει.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.47"
-    }
-  ]
-},
+    "id": "mm-000915",
+    "type": "reported",
+    "sr": "Diogen je neukog bogataša nazivao zlatorunom ovcom.",
+    "stsl": "Диогенъ неука богатаго златорѹнноѭ овьцеѭ нарицаше ·",
+    "originalText": "Τὸν ἀμαθῆ πλούσιον πρόβατον εἶπε χρυσόμαλλον.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.47"
+      }
+    ]
+  },
   {
-  "id": "mm-000918",
-  "type": "reported",
-  "sr": "Kitaroša koga su slušaoci uvek napuštali Diogen pozdravi: Zdravo, petle! Kada ga ovaj upita zašto, odgovori: Jer pevanjem sve podižeš.",
-  "stsl": "Гѫсльника · єгоже послѹшаѭшти всегъда оставлꙗахѫ · Диогенъ привѣтствова · Радѹи сѧ · пѣтелѣ · Ономѹ же въпросивъшѹ · Чесо ради · отъвѣшта · Ꙗко поѩ вьсѣхъ въздвизаєши ·",
-  "originalText": "Τὸν κιθαρῳδὸν ἀεὶ καταλειπόμενον ὑπὸ τῶν ἀκροατῶν ἠσπάσατο, «Χαῖρε ἀλέκτορ»· τοῦ δὲ εἰπόντος, «Διὰ τί;» «Ὅτι,» ἔφη, «ᾄδων πάντας ἐγείρεις.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.48"
-    }
-  ]
-},
- {
-  "id": "mm-000919",
-  "type": "reported",
-  "sr": "Kada Hegesija zatraži da mu pozajmi neki spis, Diogen reče: Budalast si, Hegesija: ne biraš nacrtane smokve nego prave, a pravo vežbanje zanemaruješ i okrećeš se zapisanom.",
-  "stsl": "Єгда Гегесии проси ꙗко да ємѹ нѣкоє писаниѥ дасть · Диогенъ рече · Сѹєтьнъ єси · Гегесие · написаныѩ смокъвы не избираєши · нъ истиньныѩ · истиньно же вѣждениѥ прѣзираєши · и къ написаномѹ обраштаєши сѧ ·",
-  "originalText": "Ἡγησίου παρακαλοῦντος χρῆσαί τι αὐτῷ τῶν συγγραμμάτων, «Μάταιος,» ἔφη, «τυγχάνεις, ὦ Ἡγησία, ὃς ἰσχάδας μὲν γραπτὰς οὐχ αἱρῇ, ἀλλὰ τὰς ἀληθινάς· ἄσκησιν δὲ παριδὼν τὴν ἀληθινὴν ἐπὶ τὴν γεγραμμένην ὁρμᾷς.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.48"
-    }
-  ]
-},
+    "id": "mm-000916",
+    "type": "reported",
+    "sr": "Videvši prljavo kupatilo, Diogen upita: Gde se kupaju oni koji se ovde kupaju?",
+    "stsl": "Видѣвъ скврьнѫ банѭ · Диогенъ въпроси · Къдѣ сѧ мꙑѭть · иже сѧ здѣ мꙑѭть ·",
+    "originalText": "Πρὸς τὸ ῥυπαρὸν βαλανεῖον, «Οἱ ἐνθάδε,» ἔφη, «λουόμενοι ποῦ λούονται;»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.47"
+      }
+    ]
+  },
   {
-  "id": "mm-000920",
-  "type": "quote",
-  "sr": "Dobri ljudi su slike bogova.",
-  "stsl": "Добри мѫжи образи боговъ сѫть ·",
-  "originalText": "Τοὺς ἀγαθοὺς ἄνδρας θεῶν εἰκόνας εἶναι.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.51"
+    "id": "mm-000917",
+    "type": "reported",
+    "sr": "Dok su svi kudili nekog debelog kitaroša, jedino ga je Diogen hvalio. Upitan zašto, odgovori: Toliki je, a ipak svira kitaru umesto da pljačka.",
+    "stsl": "Єгда вьси нѣкоєго дебела гѫсльника хѹлѧахѫ · єдинъ Диогенъ хвалꙗаше и · Въпрошенъ чесо ради · отъвѣшта · Толикъ сꙧи · въ гѫсли играєть · а не разбиваєть ·",
+    "originalText": "Παχέος κιθαρῳδοῦ πρὸς πάντων μεμφομένου αὐτὸς μόνος ἐπῄνει· ἐρωτηθεὶς δὲ διὰ τί, ἔφη, «Ὅτι τηλικοῦτος ὢν κιθαρῳδεῖ καὶ οὐ λῃστεύει.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.47"
+      }
+    ]
+  },
+  {
+    "id": "mm-000918",
+    "type": "reported",
+    "sr": "Kitaroša koga su slušaoci uvek napuštali Diogen pozdravi: Zdravo, petle! Kada ga ovaj upita zašto, odgovori: Jer pevanjem sve podižeš.",
+    "stsl": "Гѫсльника · єгоже послѹшаѭшти всегъда оставлꙗахѫ · Диогенъ привѣтствова · Радѹи сѧ · пѣтелѣ · Ономѹ же въпросивъшѹ · Чесо ради · отъвѣшта · Ꙗко поѩ вьсѣхъ въздвизаєши ·",
+    "originalText": "Τὸν κιθαρῳδὸν ἀεὶ καταλειπόμενον ὑπὸ τῶν ἀκροατῶν ἠσπάσατο, «Χαῖρε ἀλέκτορ»· τοῦ δὲ εἰπόντος, «Διὰ τί;» «Ὅτι,» ἔφη, «ᾄδων πάντας ἐγείρεις.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.48"
+      }
+    ]
+  },
+  {
+    "id": "mm-000919",
+    "type": "reported",
+    "sr": "Kada Hegesija zatraži da mu pozajmi neki spis, Diogen reče: Budalast si, Hegesija: ne biraš nacrtane smokve nego prave, a pravo vežbanje zanemaruješ i okrećeš se zapisanom.",
+    "stsl": "Єгда Гегесии проси ꙗко да ємѹ нѣкоє писаниѥ дасть · Диогенъ рече · Сѹєтьнъ єси · Гегесие · написаныѩ смокъвы не избираєши · нъ истиньныѩ · истиньно же вѣждениѥ прѣзираєши · и къ написаномѹ обраштаєши сѧ ·",
+    "originalText": "Ἡγησίου παρακαλοῦντος χρῆσαί τι αὐτῷ τῶν συγγραμμάτων, «Μάταιος,» ἔφη, «τυγχάνεις, ὦ Ἡγησία, ὃς ἰσχάδας μὲν γραπτὰς οὐχ αἱρῇ, ἀλλὰ τὰς ἀληθινάς· ἄσκησιν δὲ παριδὼν τὴν ἀληθινὴν ἐπὶ τὴν γεγραμμένην ὁρμᾷς.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.48"
+      }
+    ]
+  },
+  {
+    "id": "mm-000920",
+    "type": "quote",
+    "sr": "Dobri ljudi su slike bogova.",
+    "stsl": "Добри мѫжи образи боговъ сѫть ·",
+    "originalText": "Τοὺς ἀγαθοὺς ἄνδρας θεῶν εἰκόνας εἶναι.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.51"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogova"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "боговъ"
+        }
+      ]
     }
-  ]
-},
+  },
   {
     "id": "mm-000921",
     "type": "quote",
@@ -1398,7 +1660,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.51"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἔρως",
+          "text": "Ljubav"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἔρως",
+          "text": "Любовь"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000922",
@@ -1440,7 +1716,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.51"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "reč"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "слово"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000925",
@@ -1485,33 +1775,33 @@
     ]
   },
   {
-  "id": "mm-000928",
-  "type": "reported",
-  "sr": "Upitan ima li slugu ili služavku, Diogen odgovori da nema. Kada ga upitaše: Ako umreš, ko će te izneti?, odgovori: Onaj kome bude trebala kuća.",
-  "stsl": "Въпрошенъ имать ли раба или рабынѭ · Диогенъ отъвѣшта ꙗко не имать · Єгда же и въпросиша · Аще ѹмреши · кто тѧ изнесеть · отъвѣшта · Иже дома потребѹєть ·",
-  "originalText": "ἐρωτηθεὶς εἰ παιδισκάριον ἢ παιδάριον ἔχοι, ἔφη, «Οὔ·» τοῦ δὲ εἰπόντος, «Ἐὰν οὖν ἀποθάνῃς, τίς σε ἐξοίσει;», ἔφη, «ὁ χρῄζων τῆς οἰκίας.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.52"
-    }
-  ]
-},
+    "id": "mm-000928",
+    "type": "reported",
+    "sr": "Upitan ima li slugu ili služavku, Diogen odgovori da nema. Kada ga upitaše: Ako umreš, ko će te izneti?, odgovori: Onaj kome bude trebala kuća.",
+    "stsl": "Въпрошенъ имать ли раба или рабынѭ · Диогенъ отъвѣшта ꙗко не имать · Єгда же и въпросиша · Аще ѹмреши · кто тѧ изнесеть · отъвѣшта · Иже дома потребѹєть ·",
+    "originalText": "ἐρωτηθεὶς εἰ παιδισκάριον ἢ παιδάριον ἔχοι, ἔφη, «Οὔ·» τοῦ δὲ εἰπόντος, «Ἐὰν οὖν ἀποθάνῃς, τίς σε ἐξοίσει;», ἔφη, «ὁ χρῄζων τῆς οἰκίας.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.52"
+      }
+    ]
+  },
   {
-  "id": "mm-000929",
-  "type": "reported",
-  "sr": "Videvši lepog mladića kako neoprezno spava, Diogen ga probudi i reče: Ustaj, da ti neko usnulom ne zabode koplje odozadi.",
-  "stsl": "Видѣвъ красна юношѫ небрѣжьно спѧшта · Диогенъ възбѹди и и рече · Въстани · да ти къто спѧштѹ копиѥ съзади не въсадить ·",
-  "originalText": "Μειράκιον εὔμορφον ἀφυλάκτως ἰδὼν κοιμώμενον, νύξας, «Ἐπέγειραι,» ἔφη, «μή τίς σοι εὕδοντι μεταφρένῳ ἐν δόρυ πήξῃ.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.53"
-    }
-  ]
-},
+    "id": "mm-000929",
+    "type": "reported",
+    "sr": "Videvši lepog mladića kako neoprezno spava, Diogen ga probudi i reče: Ustaj, da ti neko usnulom ne zabode koplje odozadi.",
+    "stsl": "Видѣвъ красна юношѫ небрѣжьно спѧшта · Диогенъ възбѹди и и рече · Въстани · да ти къто спѧштѹ копиѥ съзади не въсадить ·",
+    "originalText": "Μειράκιον εὔμορφον ἀφυλάκτως ἰδὼν κοιμώμενον, νύξας, «Ἐπέγειραι,» ἔφη, «μή τίς σοι εὕδοντι μεταφρένῳ ἐν δόρυ πήξῃ.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.53"
+      }
+    ]
+  },
   {
     "id": "mm-000930",
     "type": "anecdote",
@@ -1556,229 +1846,301 @@
     ]
   },
   {
-  "id": "mm-000933",
-  "type": "reported",
-  "sr": "Upitan zašto ljudi daju prosjacima, a filozofima ne, Diogen odgovori: Jer očekuju da će jednom postati hromi ili slepi, ali da će ljubiti mudrost — nikada.",
-  "stsl": "Въпрошенъ почто людие ништиимъ даѭть · любомѫдрьцемъ же не · Диогенъ отъвѣшта · Зане хроми или слѣпи нѣкогда быти чаѭть · мѫдрость же любити · никогдаже ·",
-  "originalText": "Ἐρωτηθεὶς διὰ τί προσαίταις μὲν ἐπιδιδόασι, φιλοσόφοις δὲ οὔ, ἔφη, «Ὅτι χωλοὶ μὲν καὶ τυφλοὶ γενέσθαι ἐλπίζουσι, φιλοσοφῆσαι δ' οὐδέποτε.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.56"
+    "id": "mm-000933",
+    "type": "reported",
+    "sr": "Upitan zašto ljudi daju prosjacima, a filozofima ne, Diogen odgovori: Jer očekuju da će jednom postati hromi ili slepi, ali da će ljubiti mudrost — nikada.",
+    "stsl": "Въпрошенъ почто людие ништиимъ даѭть · любомѫдрьцемъ же не · Диогенъ отъвѣшта · Зане хроми или слѣпи нѣкогда быти чаѭть · мѫдрость же любити · никогдаже ·",
+    "originalText": "Ἐρωτηθεὶς διὰ τί προσαίταις μὲν ἐπιδιδόασι, φιλοσόφοις δὲ οὔ, ἔφη, «Ὅτι χωλοὶ μὲν καὶ τυφλοὶ γενέσθαι ἐλπίζουσι, φιλοσοφῆσαι δ' οὐδέποτε.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.56"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "postati"
+        },
+        {
+          "tag": "φιλόσοφος",
+          "text": "filozofima"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "быти"
+        },
+        {
+          "tag": "φιλόσοφος",
+          "text": "любомѫдрьцемъ"
+        }
+      ]
     }
-  ]
-},
+  },
   {
-  "id": "mm-000934",
-  "type": "reported",
-  "sr": "Kada je od škrtice zatražio milostinju, a ovaj odugovlačio, Diogen reče: Čoveče, tražim od tebe za hranu, ne za sahranu.",
-  "stsl": "Єгда отъ скѫпаго милостынѭ проси · ономѹ же медлѧштѹ · Диогенъ рече · Чловѣче · на пиштѫ отъ тебе прошѫ · не на погребениѥ ·",
-  "originalText": "Φιλάργυρον ᾔτει· τοῦ δὲ βραδύνοντος, «Ἄνθρωπε,» εἶπεν, «εἰς τροφήν σε αἰτῶ, οὐκ εἰς ταφήν.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.56"
-    }
-  ]
-},
- {
-  "id": "mm-000935",
-  "type": "reported",
-  "sr": "Kada mu jednom prebaciše što je krivotvorio novac, Diogen reče: Nekada sam bio onakav kakav si ti sada; kakav sam ja sada, ti nećeš biti nikada.",
-  "stsl": "Єгда ємѹ нѣкогда поношахѫ · ꙗко новьць прѣкова · Диогенъ рече · Нѣкогда азъ таковъ бѣхъ · ꙗковъ ты нынѣ · ꙗковъ же азъ нынѣ · ты никогдаже бѫдеши ·",
-  "originalText": "Ὀνειδιζόμενός ποτε ἐπὶ τῷ παραχαράξαι τὸ νόμισμα ἔφη, «Ἦν ποτε χρόνος ἐκεῖνος ὅτ' ἤμην ἐγὼ τοιοῦτος ὁποῖος σὺ νῦν· ὁποῖος δ' ἐγὼ νῦν, σὺ οὐδέποτε.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.56"
-    }
-  ]
-},
+    "id": "mm-000934",
+    "type": "reported",
+    "sr": "Kada je od škrtice zatražio milostinju, a ovaj odugovlačio, Diogen reče: Čoveče, tražim od tebe za hranu, ne za sahranu.",
+    "stsl": "Єгда отъ скѫпаго милостынѭ проси · ономѹ же медлѧштѹ · Диогенъ рече · Чловѣче · на пиштѫ отъ тебе прошѫ · не на погребениѥ ·",
+    "originalText": "Φιλάργυρον ᾔτει· τοῦ δὲ βραδύνοντος, «Ἄνθρωπε,» εἶπεν, «εἰς τροφήν σε αἰτῶ, οὐκ εἰς ταφήν.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.56"
+      }
+    ]
+  },
   {
-  "id": "mm-000936",
-  "type": "reported",
-  "sr": "Došavši u Mind i videvši velike kapije, a malen grad, Diogen reče: Minđani, zatvorite kapije da vam grad ne izađe.",
-  "stsl": "Пришьдъ въ Миндъ и видѣвъ велика врата · градъ же малъ · Диогенъ рече · Миндѧне · затворите врата · да вамъ градъ не изидеть ·",
-  "originalText": "Εἰς Μύνδον ἐλθὼν καὶ θεασάμενος μεγάλας τὰς πύλας, μικρὰν δὲ τὴν πόλιν, ἔφη, «Ἄνδρες Μύνδιοι, κλείσατε τὰς πύλας, μὴ ἡ πόλις ὑμῶν ἐξέλθῃ.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.57"
+    "id": "mm-000935",
+    "type": "reported",
+    "sr": "Kada mu jednom prebaciše što je krivotvorio novac, Diogen reče: Nekada sam bio onakav kakav si ti sada; kakav sam ja sada, ti nećeš biti nikada.",
+    "stsl": "Єгда ємѹ нѣкогда поношахѫ · ꙗко новьць прѣкова · Диогенъ рече · Нѣкогда азъ таковъ бѣхъ · ꙗковъ ты нынѣ · ꙗковъ же азъ нынѣ · ты никогдаже бѫдеши ·",
+    "originalText": "Ὀνειδιζόμενός ποτε ἐπὶ τῷ παραχαράξαι τὸ νόμισμα ἔφη, «Ἦν ποτε χρόνος ἐκεῖνος ὅτ' ἤμην ἐγὼ τοιοῦτος ὁποῖος σὺ νῦν· ὁποῖος δ' ἐγὼ νῦν, σὺ οὐδέποτε.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.56"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "χρόνος",
+          "text": "Nekada"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "χρόνος",
+          "text": "нѣкогда"
+        }
+      ]
     }
-  ]
-},
- {
-  "id": "mm-000937",
-  "type": "reported",
-  "sr": "Kada ga Krater pozva da dođe k njemu, Diogen odgovori: Radije bih u Atini lizao so nego kod Kratera uživao u raskošnoj trpezi.",
-  "stsl": "Єгда Кратеръ призъва Диогена къ себѣ · Диогенъ отъвѣшта · Радѣє въ Аѳинахъ соль лизалъ быхъ · неже при Кратерѣ богатыѩ трапезы насладилъ сѧ ·",
-  "originalText": "Κρατέρου ἀξιοῦντος πρὸς αὐτὸν ἀπιέναι, «Ἀλλὰ βούλομαι,» ἔφη, «ἐν Ἀθήναις ἅλα λείχειν ἢ παρὰ Κρατέρῳ τῆς πολυτελοῦς τραπέζης ἀπολαύειν.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.57"
-    }
-  ]
-},
+  },
   {
-  "id": "mm-000938",
-  "type": "reported",
-  "sr": "Kada mu prebaciše što jede na trgu, Diogen odgovori: Na trgu sam jeo jer sam na trgu i ogladneo.",
-  "stsl": "Єгда ємѹ поношахѫ · ꙗко на тръжишти ꙗсть · Диогенъ отъвѣшта · На тръжишти ꙗдохъ · зане на тръжишти и възалкахъ ·",
-  "originalText": "Ὀνειδιζόμενός ποτε ὅτι ἐν ἀγορᾷ ἔφαγεν, «Ἐν ἀγορᾷ γάρ,» ἔφη, «καὶ ἐπείνησα.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.58"
-    }
-  ]
-},
- {
-  "id": "mm-000939",
-  "type": "reported",
-  "sr": "Kada mu neko reče: Većina ljudi ti se smeje, Diogen odgovori: Možda se i njima smeju magarci; ali kao što oni ne mare za magarce, tako ni ja ne marim za njih.",
-  "stsl": "Єгда ємѹ нѣкто рече · Множаишии тебѣ сѧ смѣѭть · Диогенъ отъвѣшта · Можеть быти и имъ осли сѧ смѣѭть · нъ ꙗкоже они о ослѣхъ не брѣгѫть · тако ни азъ о нихъ ·",
-  "originalText": "Πρὸς τὸν εἰπόντα, «Οἱ πλείους σου καταγελῶσι,» «Κἀκείνων τυχόν,» εἶπεν, «οἱ ὄνοι· ἀλλ' οὔτ' ἐκεῖνοι τῶν ὄνων ἐπιστρέφονται, οὔτ' ἐγὼ ἐκείνων.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.54"
-    }
-  ]
-},
- {
-  "id": "mm-000940",
-  "type": "reported",
-  "sr": "Videvši lepog mladića kako se bavi filosofijom, Diogen reče: Dobro činiš što zaljubljene u tvoje telo vodiš ka lepoti duše.",
-  "stsl": "Видѣвъ красна юношѫ любомѫдрьствѹѭшта · Диогенъ рече · Добро твориши · любѧштиѩ тѣло твоє къ красотѣ дѹшы приводѧ ·",
-  "originalText": "Θεασάμενός ποτε μειράκιον φιλοσοφοῦν, «Εὖγε,» εἶπεν, «ὅτι τοὺς τοῦ σώματος ἐραστὰς ἐπὶ τὸ τῆς ψυχῆς κάλλος μετάγεις.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.58"
-    }
-  ]
-},
- {
-  "id": "mm-000941",
-  "type": "reported",
-  "sr": "Kada se neko divio zavetnim darovima na Samotraki, Diogen reče: Bilo bi ih mnogo više kada bi ih prinosili i oni koji se nisu spasli.",
-  "stsl": "Єгда нѣкто дивлꙗаше сѧ завѣтнымъ даромъ въ Самоѳракии · Диогенъ рече · Много вѧште было бы ихъ · аще бы и неспасени приносили · ",
-  "originalText": "Θαυμάζοντός τινος τὰ ἐν Σαμοθράκῃ ἀναθήματα, ἔφη, «Πολλῷ ἂν εἴη πλείω εἰ καὶ οἱ μὴ σωθέντες ἀνετίθεσαν·»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.59"
-    }
-  ]
-},
+    "id": "mm-000936",
+    "type": "reported",
+    "sr": "Došavši u Mind i videvši velike kapije, a malen grad, Diogen reče: Minđani, zatvorite kapije da vam grad ne izađe.",
+    "stsl": "Пришьдъ въ Миндъ и видѣвъ велика врата · градъ же малъ · Диогенъ рече · Миндѧне · затворите врата · да вамъ градъ не изидеть ·",
+    "originalText": "Εἰς Μύνδον ἐλθὼν καὶ θεασάμενος μεγάλας τὰς πύλας, μικρὰν δὲ τὴν πόλιν, ἔφη, «Ἄνδρες Μύνδιοι, κλείσατε τὰς πύλας, μὴ ἡ πόλις ὑμῶν ἐξέλθῃ.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.57"
+      }
+    ]
+  },
   {
-  "id": "mm-000942",
-  "type": "reported",
-  "sr": "Kada Diogen nešto zatraži od tvrdog čoveka, ovaj mu reče: Ako me ubediš. Diogen odgovori: Da mogu da te ubedim, ubedio bih te da se obesiš.",
-  "stsl": "Єгда Диогенъ нѣчто отъ твръда чловѣка проси · онъ рече · Аще мѧ ѹвѣштаєши · Диогенъ отъвѣшта · Аще бы тѧ ѹвѣштати моглъ · ѹвѣшталъ быхъ тѧ да сѧ обѣсиши ·",
-  "originalText": "Δύσκολον ᾔτει· τοῦ δ' εἰπόντος, «Ἐάν με πείσῃς·» ἔφη, «εἴ σε ἐδυνάμην πεῖσαι, ἔπεισα ἄν σε ἀπάγξασθαι.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.59"
-    }
-  ]
-},
+    "id": "mm-000937",
+    "type": "reported",
+    "sr": "Kada ga Krater pozva da dođe k njemu, Diogen odgovori: Radije bih u Atini lizao so nego kod Kratera uživao u raskošnoj trpezi.",
+    "stsl": "Єгда Кратеръ призъва Диогена къ себѣ · Диогенъ отъвѣшта · Радѣє въ Аѳинахъ соль лизалъ быхъ · неже при Кратерѣ богатыѩ трапезы насладилъ сѧ ·",
+    "originalText": "Κρατέρου ἀξιοῦντος πρὸς αὐτὸν ἀπιέναι, «Ἀλλὰ βούλομαι,» ἔφη, «ἐν Ἀθήναις ἅλα λείχειν ἢ παρὰ Κρατέρῳ τῆς πολυτελοῦς τραπέζης ἀπολαύειν.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.57"
+      }
+    ]
+  },
   {
-  "id": "mm-000943",
-  "type": "reported",
-  "sr": "Vraćajući se iz Sparte u Atinu, Diogena upitaše: Kuda i odakle? Odgovori: Iz muških odaja u ženske.",
-  "stsl": "Възвраштаѭштѹ сѧ Диогенѹ отъ Спарты въ Аѳины · въпросиша и · Камо и откѫдѹ · Отъвѣшта · Изъ мѫжьскыихъ полатъ въ женьскыѩ ·",
-  "originalText": "Ἐπανήρχετο ἐκ Λακεδαίμονος εἰς Ἀθήνας· πρὸς οὖν τὸν πυθόμενον, «Ποῖ καὶ πόθεν;», «Ἐκ τῆς ἀνδρωνίτιδος,» εἶπεν, «εἰς τὴν γυναικωνῖτιν.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.59"
-    }
-  ]
-},
-{
-  "id": "mm-000944",
-  "type": "reported",
-  "sr": "Dok je Diogen brao smokve, čuvar mu reče: Nedavno se na ovoj smokvi obesio čovek. Diogen odgovori: Onda ću je ja očistiti.",
-  "stsl": "Диогенѹ смокъвы събираѭштѹ · стражь рече ємѹ · Недавно на сеи смокъвьници чловѣкъ обѣси сѧ · Диогенъ отъвѣшта · Азъ ѹбо ѭ очиштѫ ·",
-  "originalText": "Ἀπὸ συκῆς ὠπώριζε· τοῦ δὲ φυλάττοντος εἰπόντος, «Αὐτόθεν πρώην ἄνθρωπος ἀπήγξατο,» «Ἐγὼ οὖν,» φησίν, «αὐτὴν καθαρῶ.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.61"
-    }
-  ]
-},
+    "id": "mm-000938",
+    "type": "reported",
+    "sr": "Kada mu prebaciše što jede na trgu, Diogen odgovori: Na trgu sam jeo jer sam na trgu i ogladneo.",
+    "stsl": "Єгда ємѹ поношахѫ · ꙗко на тръжишти ꙗсть · Диогенъ отъвѣшта · На тръжишти ꙗдохъ · зане на тръжишти и възалкахъ ·",
+    "originalText": "Ὀνειδιζόμενός ποτε ὅτι ἐν ἀγορᾷ ἔφαγεν, «Ἐν ἀγορᾷ γάρ,» ἔφη, «καὶ ἐπείνησα.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.58"
+      }
+    ]
+  },
   {
-  "id": "mm-000945",
-  "type": "quote",
-  "sr": "Lepe bludnice nalik su smrtonosnom medenom napitku.",
-  "stsl": "Красны блѹдьницы смрьтьномѹ медовомѹ питию подобьны сѫть ·",
-  "originalText": "Τὰς εὐπρεπεῖς ἑταίρας ἔλεγε θανασίμῳ μελικράτῳ παραπλησίας εἶναι.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.61"
-    }
-  ]
-},
+    "id": "mm-000939",
+    "type": "reported",
+    "sr": "Kada mu neko reče: Većina ljudi ti se smeje, Diogen odgovori: Možda se i njima smeju magarci; ali kao što oni ne mare za magarce, tako ni ja ne marim za njih.",
+    "stsl": "Єгда ємѹ нѣкто рече · Множаишии тебѣ сѧ смѣѭть · Диогенъ отъвѣшта · Можеть быти и имъ осли сѧ смѣѭть · нъ ꙗкоже они о ослѣхъ не брѣгѫть · тако ни азъ о нихъ ·",
+    "originalText": "Πρὸς τὸν εἰπόντα, «Οἱ πλείους σου καταγελῶσι,» «Κἀκείνων τυχόν,» εἶπεν, «οἱ ὄνοι· ἀλλ' οὔτ' ἐκεῖνοι τῶν ὄνων ἐπιστρέφονται, οὔτ' ἐγὼ ἐκείνων.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.54"
+      }
+    ]
+  },
   {
-  "id": "mm-000946",
-  "type": "reported",
-  "sr": "Dok je Diogen ručao na trgu, okupljeni oko njega neprestano su mu dobacivali: Pseto! Diogen odgovori: Vi ste psi, jer ste me okružili dok ručam.",
-  "stsl": "Диогенѹ на тръгѹ обѣдѹѭштѹ · окръстъ стоѩшти непрѣстаньно глаголахѫ ємѹ · Пьсе · Диогенъ отъвѣшта · Вы пъси єсте · иже мѧ обѣдѹѭшта окрѫжисте ·",
-  "originalText": "Ἀριστῶντι αὐτῷ ἐν ἀγορᾷ οἱ περιεστῶτες συνεχὲς ἔλεγον, «Κύον·» ὁ δέ, «Ὑμεῖς,» εἶπεν, «ἐστὲ κύνες, οἵ με ἀριστῶντα περιεστήκατε.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.61"
+    "id": "mm-000940",
+    "type": "reported",
+    "sr": "Videvši lepog mladića kako se bavi filosofijom, Diogen reče: Dobro činiš što zaljubljene u tvoje telo vodiš ka lepoti duše.",
+    "stsl": "Видѣвъ красна юношѫ любомѫдрьствѹѭшта · Диогенъ рече · Добро твориши · любѧштиѩ тѣло твоє къ красотѣ дѹшы приводѧ ·",
+    "originalText": "Θεασάμενός ποτε μειράκιον φιλοσοφοῦν, «Εὖγε,» εἶπεν, «ὅτι τοὺς τοῦ σώματος ἐραστὰς ἐπὶ τὸ τῆς ψυχῆς κάλλος μετάγεις.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.58"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ψυχή",
+          "text": "duše"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ψυχή",
+          "text": "дѹшы"
+        }
+      ]
     }
-  ]
-},
-{
-  "id": "mm-000947",
-  "type": "reported",
-  "sr": "Videvši sina bludnice kako baca kamen u gomilu, Diogen reče: Pazi da ne pogodiš oca.",
-  "stsl": "Видѣвъ сынъ блѫдьницѧ камень въ народъ мещѫшта · Диогенъ рече · Блюди · да отьца не ѹдариши ·",
-  "originalText": "Θεασάμενος υἱὸν ἑταίρας λίθον εἰς ὄχλον βάλλοντα, «Πρόσεχε,» ἔφη, «μὴ τὸν πατέρα πλήξῃς.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.62"
-    }
-  ]
-},
+  },
   {
-  "id": "mm-000948",
-  "type": "reported",
-  "sr": "Kada mu neko reče: Ništa ne znaš, a filosofiraš, Diogen odgovori: Ako se i pravim mudar, i to je filosofiranje.",
-  "stsl": "Єгда ємѹ нѣкто рече · Ничесоже вѣдꙑ любомѫдрьствѹєши · Диогенъ отъвѣшта · Аще и мѫдра сѧ творѭ · и се любомѫдриѥваниѥ єсть ·",
-  "originalText": "Πρὸς τὸν εἰπόντα, «Οὐδὲν εἰδὼς φιλοσοφεῖς,» ἔφη, «εἰ καὶ προσποιοῦμαι σοφίαν, καὶ τοῦτο φιλοσοφεῖν ἐστι.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.64"
+    "id": "mm-000941",
+    "type": "reported",
+    "sr": "Kada se neko divio zavetnim darovima na Samotraki, Diogen reče: Bilo bi ih mnogo više kada bi ih prinosili i oni koji se nisu spasli.",
+    "stsl": "Єгда нѣкто дивлꙗаше сѧ завѣтнымъ даромъ въ Самоѳракии · Диогенъ рече · Много вѧште было бы ихъ · аще бы и неспасени приносили · ",
+    "originalText": "Θαυμάζοντός τινος τὰ ἐν Σαμοθράκῃ ἀναθήματα, ἔφη, «Πολλῷ ἂν εἴη πλείω εἰ καὶ οἱ μὴ σωθέντες ἀνετίθεσαν·»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.59"
+      }
+    ]
+  },
+  {
+    "id": "mm-000942",
+    "type": "reported",
+    "sr": "Kada Diogen nešto zatraži od tvrdog čoveka, ovaj mu reče: Ako me ubediš. Diogen odgovori: Da mogu da te ubedim, ubedio bih te da se obesiš.",
+    "stsl": "Єгда Диогенъ нѣчто отъ твръда чловѣка проси · онъ рече · Аще мѧ ѹвѣштаєши · Диогенъ отъвѣшта · Аще бы тѧ ѹвѣштати моглъ · ѹвѣшталъ быхъ тѧ да сѧ обѣсиши ·",
+    "originalText": "Δύσκολον ᾔτει· τοῦ δ' εἰπόντος, «Ἐάν με πείσῃς·» ἔφη, «εἴ σε ἐδυνάμην πεῖσαι, ἔπεισα ἄν σε ἀπάγξασθαι.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.59"
+      }
+    ]
+  },
+  {
+    "id": "mm-000943",
+    "type": "reported",
+    "sr": "Vraćajući se iz Sparte u Atinu, Diogena upitaše: Kuda i odakle? Odgovori: Iz muških odaja u ženske.",
+    "stsl": "Възвраштаѭштѹ сѧ Диогенѹ отъ Спарты въ Аѳины · въпросиша и · Камо и откѫдѹ · Отъвѣшта · Изъ мѫжьскыихъ полатъ въ женьскыѩ ·",
+    "originalText": "Ἐπανήρχετο ἐκ Λακεδαίμονος εἰς Ἀθήνας· πρὸς οὖν τὸν πυθόμενον, «Ποῖ καὶ πόθεν;», «Ἐκ τῆς ἀνδρωνίτιδος,» εἶπεν, «εἰς τὴν γυναικωνῖτιν.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.59"
+      }
+    ]
+  },
+  {
+    "id": "mm-000944",
+    "type": "reported",
+    "sr": "Dok je Diogen brao smokve, čuvar mu reče: Nedavno se na ovoj smokvi obesio čovek. Diogen odgovori: Onda ću je ja očistiti.",
+    "stsl": "Диогенѹ смокъвы събираѭштѹ · стражь рече ємѹ · Недавно на сеи смокъвьници чловѣкъ обѣси сѧ · Диогенъ отъвѣшта · Азъ ѹбо ѭ очиштѫ ·",
+    "originalText": "Ἀπὸ συκῆς ὠπώριζε· τοῦ δὲ φυλάττοντος εἰπόντος, «Αὐτόθεν πρώην ἄνθρωπος ἀπήγξατο,» «Ἐγὼ οὖν,» φησίν, «αὐτὴν καθαρῶ.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.61"
+      }
+    ]
+  },
+  {
+    "id": "mm-000945",
+    "type": "quote",
+    "sr": "Lepe bludnice nalik su smrtonosnom medenom napitku.",
+    "stsl": "Красны блѹдьницы смрьтьномѹ медовомѹ питию подобьны сѫть ·",
+    "originalText": "Τὰς εὐπρεπεῖς ἑταίρας ἔλεγε θανασίμῳ μελικράτῳ παραπλησίας εἶναι.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.61"
+      }
+    ]
+  },
+  {
+    "id": "mm-000946",
+    "type": "reported",
+    "sr": "Dok je Diogen ručao na trgu, okupljeni oko njega neprestano su mu dobacivali: Pseto! Diogen odgovori: Vi ste psi, jer ste me okružili dok ručam.",
+    "stsl": "Диогенѹ на тръгѹ обѣдѹѭштѹ · окръстъ стоѩшти непрѣстаньно глаголахѫ ємѹ · Пьсе · Диогенъ отъвѣшта · Вы пъси єсте · иже мѧ обѣдѹѭшта окрѫжисте ·",
+    "originalText": "Ἀριστῶντι αὐτῷ ἐν ἀγορᾷ οἱ περιεστῶτες συνεχὲς ἔλεγον, «Κύον·» ὁ δέ, «Ὑμεῖς,» εἶπεν, «ἐστὲ κύνες, οἵ με ἀριστῶντα περιεστήκατε.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.61"
+      }
+    ]
+  },
+  {
+    "id": "mm-000947",
+    "type": "reported",
+    "sr": "Videvši sina bludnice kako baca kamen u gomilu, Diogen reče: Pazi da ne pogodiš oca.",
+    "stsl": "Видѣвъ сынъ блѫдьницѧ камень въ народъ мещѫшта · Диогенъ рече · Блюди · да отьца не ѹдариши ·",
+    "originalText": "Θεασάμενος υἱὸν ἑταίρας λίθον εἰς ὄχλον βάλλοντα, «Πρόσεχε,» ἔφη, «μὴ τὸν πατέρα πλήξῃς.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.62"
+      }
+    ]
+  },
+  {
+    "id": "mm-000948",
+    "type": "reported",
+    "sr": "Kada mu neko reče: Ništa ne znaš, a filosofiraš, Diogen odgovori: Ako se i pravim mudar, i to je filosofiranje.",
+    "stsl": "Єгда ємѹ нѣкто рече · Ничесоже вѣдꙑ любомѫдрьствѹєши · Диогенъ отъвѣшта · Аще и мѫдра сѧ творѭ · и се любомѫдриѥваниѥ єсть ·",
+    "originalText": "Πρὸς τὸν εἰπόντα, «Οὐδὲν εἰδὼς φιλοσοφεῖς,» ἔφη, «εἰ καὶ προσποιοῦμαι σοφίαν, καὶ τοῦτο φιλοσοφεῖν ἐστι.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.64"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "οἶδα",
+          "text": "znaš"
+        },
+        {
+          "tag": "σοφία",
+          "text": "mudar"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "οἶδα",
+          "text": "вѣдꙑ"
+        },
+        {
+          "tag": "σοφία",
+          "text": "мѫдра"
+        }
+      ]
     }
-  ]
-},
+  },
   {
     "id": "mm-000949",
     "type": "quote",
@@ -1794,20 +2156,20 @@
     ]
   },
   {
-  "id": "mm-000950",
-  "type": "reported",
-  "sr": "Dok su drugi izlazili iz pozorišta, Diogen je ulazio nasuprot njima. Upitan zašto, odgovori: To nastojim da činim čitavog života.",
-  "stsl": "Инѣмъ изъ позоришта исходѧштемъ · Диогенъ противъ имъ въхождааше · Въпрошенъ чесо ради · отъвѣшта · Се вьсъ животъ творити тъштѫ сѧ ·",
-  "originalText": "Εἰς θέατρον εἰσῄει ἐναντίος τοῖς ἐξιοῦσιν· ἐρωτηθεὶς δὲ διὰ τί, «Τοῦτο,» ἔφη, «ἐν παντὶ τῷ βίῳ ἐπιτηδεύω ποιεῖν.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.64"
-    }
-  ]
-},
- {
+    "id": "mm-000950",
+    "type": "reported",
+    "sr": "Dok su drugi izlazili iz pozorišta, Diogen je ulazio nasuprot njima. Upitan zašto, odgovori: To nastojim da činim čitavog života.",
+    "stsl": "Инѣмъ изъ позоришта исходѧштемъ · Диогенъ противъ имъ въхождааше · Въпрошенъ чесо ради · отъвѣшта · Се вьсъ животъ творити тъштѫ сѧ ·",
+    "originalText": "Εἰς θέατρον εἰσῄει ἐναντίος τοῖς ἐξιοῦσιν· ἐρωτηθεὶς δὲ διὰ τί, «Τοῦτο,» ἔφη, «ἐν παντὶ τῷ βίῳ ἐπιτηδεύω ποιεῖν.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.64"
+      }
+    ]
+  },
+  {
     "id": "mm-000951",
     "type": "reported",
     "sr": "Videvši bezumnika kako štimuje liru, Diogen reče: Zar se ne stidiš što tonove usklađuješ s drvetom, a dušu ne usklađuješ sa životom?",
@@ -1819,50 +2181,78 @@
         "name": "diogenes-laertius",
         "reference": "VI.65"
       }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ψυχή",
+          "text": "dušu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ψυχή",
+          "text": "дѹшѫ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mm-000952",
+    "type": "reported",
+    "sr": "Kada mu neko reče: Nisam ja filosofiju, Diogen odgovori: Zašto onda živiš, ako ti nije stalo da dobro živiš?",
+    "stsl": "Єгда ємѹ нѣкто рече · Къ любомѫдрию непригодьнъ єсмь · Диогенъ отъвѣшта · Почто ѹбо живеши · аще ти до добра житиꙗ не єсть ·",
+    "originalText": "Πρὸς τὸν εἰπόντα, «Ἀνεπιτήδειός εἰμι πρὸς φιλοσοφίαν,» «Τί οὖν,» ἔφη, «ζῇς, εἰ τοῦ καλῶς ζῆν μὴ μέλει σοι;»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.65"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "filosofiju"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "любомѫдрию"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mm-000953",
+    "type": "reported",
+    "sr": "Videvši naočitog mladića kako ružno govori, Diogen reče: Zar se ne stidiš što iz korica od slonovače izvlačiš olovni mač?",
+    "stsl": "Видѣвъ красна юношѫ неподобьно глаголѭшта · Диогенъ рече · Не стꙑдиши ли сѧ · изъ слоновокостьныихъ ножьнъ оловѣнъ мечь извлачѧ ·",
+    "originalText": "Ἰδὼν εὐπρεπῆ νεανίσκον ἀπρεπῶς λαλοῦντα, «Οὐκ αἰσχύνῃ,» ἔφη, «ἐξ ἐλεφαντίνου κολεοῦ μολυβδίνην ἕλκων μάχαιραν;»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.65"
+      }
     ]
   },
   {
-  "id": "mm-000952",
-  "type": "reported",
-  "sr": "Kada mu neko reče: Nisam ja filosofiju, Diogen odgovori: Zašto onda živiš, ako ti nije stalo da dobro živiš?",
-  "stsl": "Єгда ємѹ нѣкто рече · Къ любомѫдрию непригодьнъ єсмь · Диогенъ отъвѣшта · Почто ѹбо живеши · аще ти до добра житиꙗ не єсть ·",
-  "originalText": "Πρὸς τὸν εἰπόντα, «Ἀνεπιτήδειός εἰμι πρὸς φιλοσοφίαν,» «Τί οὖν,» ἔφη, «ζῇς, εἰ τοῦ καλῶς ζῆν μὴ μέλει σοι;»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.65"
-    }
-  ]
-},
- {
-  "id": "mm-000953",
-  "type": "reported",
-  "sr": "Videvši naočitog mladića kako ružno govori, Diogen reče: Zar se ne stidiš što iz korica od slonovače izvlačiš olovni mač?",
-  "stsl": "Видѣвъ красна юношѫ неподобьно глаголѭшта · Диогенъ рече · Не стꙑдиши ли сѧ · изъ слоновокостьныихъ ножьнъ оловѣнъ мечь извлачѧ ·",
-  "originalText": "Ἰδὼν εὐπρεπῆ νεανίσκον ἀπρεπῶς λαλοῦντα, «Οὐκ αἰσχύνῃ,» ἔφη, «ἐξ ἐλεφαντίνου κολεοῦ μολυβδίνην ἕλκων μάχαιραν;»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.65"
-    }
-  ]
-},
- {
-  "id": "mm-000954",
-  "type": "reported",
-  "sr": "Kada mu prebaciše što pije u krčmi, Diogen odgovori: I šišam se u brijačnici.",
-  "stsl": "Єгда ємѹ поношахѫ · ꙗко въ кръчьмѣ пиѥть · Диогенъ отъвѣшта · И въ бричьници стригѫ сѧ ·",
-  "originalText": "Ὀνειδιζόμενος ὅτι ἐν καπηλείῳ πίνει, «Καὶ ἐν κουρείῳ,» φησί, «κείρομαι.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.66"
-    }
-  ]
-},
+    "id": "mm-000954",
+    "type": "reported",
+    "sr": "Kada mu prebaciše što pije u krčmi, Diogen odgovori: I šišam se u brijačnici.",
+    "stsl": "Єгда ємѹ поношахѫ · ꙗко въ кръчьмѣ пиѥть · Диогенъ отъвѣшта · И въ бричьници стригѫ сѧ ·",
+    "originalText": "Ὀνειδιζόμενος ὅτι ἐν καπηλείῳ πίνει, «Καὶ ἐν κουρείῳ,» φησί, «κείρομαι.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.66"
+      }
+    ]
+  },
   {
     "id": "mm-000955",
     "type": "quote",
@@ -1878,19 +2268,33 @@
     ]
   },
   {
-  "id": "mm-000956",
-  "type": "reported",
-  "sr": "Kada Diogen od rasipnika zatraži minu, ovaj ga upita zašto od drugih traži obol, a od njega minu. Diogen odgovori: Od drugih se nadam da ću opet dobiti; hoću li od tebe, na kolenima je bogova.",
-  "stsl": "Єгда Диогенъ отъ расточьника минѫ проси · онъ въпроси · почто отъ инѣхъ оболъ просиши · отъ мене же минѫ · Диогенъ отъвѣшта · Отъ инѣхъ пакы приѩти надѣѭ сѧ · отъ тебе ли пакы приимѫ · на колѣнѣхъ боговъ лежить ·",
-  "originalText": "Ἄσωτον ᾔτει μνᾶν· πυθομένου δὲ διὰ τί τοὺς μὲν ἄλλους ὀβολὸν αἰτεῖ, αὐτὸν δὲ μνᾶν, «Ὅτι,» εἶπε, «παρὰ μὲν τῶν ἄλλων πάλιν ἐλπίζω λαβεῖν, παρὰ δὲ σοῦ θεῶν ἐν γούνασι κεῖται εἰ πάλιν λήψομαι.»",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.67"
+    "id": "mm-000956",
+    "type": "reported",
+    "sr": "Kada Diogen od rasipnika zatraži minu, ovaj ga upita zašto od drugih traži obol, a od njega minu. Diogen odgovori: Od drugih se nadam da ću opet dobiti; hoću li od tebe, na kolenima je bogova.",
+    "stsl": "Єгда Диогенъ отъ расточьника минѫ проси · онъ въпроси · почто отъ инѣхъ оболъ просиши · отъ мене же минѫ · Диогенъ отъвѣшта · Отъ инѣхъ пакы приѩти надѣѭ сѧ · отъ тебе ли пакы приимѫ · на колѣнѣхъ боговъ лежить ·",
+    "originalText": "Ἄσωτον ᾔτει μνᾶν· πυθομένου δὲ διὰ τί τοὺς μὲν ἄλλους ὀβολὸν αἰτεῖ, αὐτὸν δὲ μνᾶν, «Ὅτι,» εἶπε, «παρὰ μὲν τῶν ἄλλων πάλιν ἐλπίζω λαβεῖν, παρὰ δὲ σοῦ θεῶν ἐν γούνασι κεῖται εἰ πάλιν λήψομαι.»",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.67"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogova"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "боговъ"
+        }
+      ]
     }
-  ]
-},
+  },
   {
     "id": "mm-000957",
     "type": "anecdote",
@@ -1907,19 +2311,19 @@
     ]
   },
   {
-  "id": "mm-000958",
-  "type": "quote",
-  "sr": "Zaljubljeni nemaju sreće u užitku.",
-  "stsl": "Любѧштии въ сласти не имѫть чѧсти ·",
-  "originalText": "Τοὺς ἐρῶντας ἔφη πρὸς ἡδονὴν ἀτυχεῖν.",
-  "author": "Diogenes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.67"
-    }
-  ]
-},
+    "id": "mm-000958",
+    "type": "quote",
+    "sr": "Zaljubljeni nemaju sreće u užitku.",
+    "stsl": "Любѧштии въ сласти не имѫть чѧсти ·",
+    "originalText": "Τοὺς ἐρῶντας ἔφη πρὸς ἡδονὴν ἀτυχεῖν.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.67"
+      }
+    ]
+  },
   {
     "id": "mm-000959",
     "type": "works",

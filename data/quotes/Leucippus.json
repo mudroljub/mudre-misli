@@ -41,7 +41,29 @@
         "name": "diogenes-laertius",
         "reference": "IX.30"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀρχή",
+          "text": "počela"
+        },
+        {
+          "tag": "ἄτομος",
+          "text": "nesečiva"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀρχή",
+          "text": "начѧла"
+        },
+        {
+          "tag": "ἄτομος",
+          "text": "несѣчива"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001271",
@@ -70,7 +92,37 @@
         "name": "hermann-diels",
         "reference": "67 B 2"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "nastaje"
+        },
+        {
+          "tag": "λόγος",
+          "text": "razlogom"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "nuždi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бываєть"
+        },
+        {
+          "tag": "λόγος",
+          "text": "слова"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "нѫжди"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001273",
@@ -163,7 +215,29 @@
         "name": "diogenes-laertius",
         "reference": "IX.30"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κενόν",
+          "text": "prazno"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskrajno"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κενόν",
+          "text": "праздьно"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "бескраино"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001279",
@@ -177,7 +251,29 @@
         "name": "diogenes-laertius",
         "reference": "IX.31"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κενόν",
+          "text": "prazno"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "strojevi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κενόν",
+          "text": "праздьно"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "Строи"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001280",
@@ -191,7 +287,53 @@
         "name": "diogenes-laertius",
         "reference": "IX.31–32"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "nastaje"
+        },
+        {
+          "tag": "κενόν",
+          "text": "prazno"
+        },
+        {
+          "tag": "σχῆμα",
+          "text": "obrazujući"
+        },
+        {
+          "tag": "φύσις",
+          "text": "tela"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskrajnog"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бываєть"
+        },
+        {
+          "tag": "κενόν",
+          "text": "праздьно"
+        },
+        {
+          "tag": "σχῆμα",
+          "text": "образовъ"
+        },
+        {
+          "tag": "φύσις",
+          "text": "тѣлеса"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "бескраинаго"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001282",
@@ -205,7 +347,21 @@
         "name": "diogenes-laertius",
         "reference": "IX.30"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "πῦρ",
+          "text": "ognja"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "πῦρ",
+          "text": "огнѧ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001283",
@@ -219,7 +375,21 @@
         "name": "diogenes-laertius",
         "reference": "IX.33"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "єсть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001284",
@@ -233,6 +403,44 @@
         "name": "diogenes-laertius",
         "reference": "IX.33"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γένεσις",
+          "text": "rađaju"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "strojevi"
+        },
+        {
+          "tag": "φθορά",
+          "text": "propadaju"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "nuždi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γένεσις",
+          "text": "раждаѭть"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "строи"
+        },
+        {
+          "tag": "φθορά",
+          "text": "тлѣѭть"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "нѫждѣ"
+        }
+      ]
+    }
   }
 ]

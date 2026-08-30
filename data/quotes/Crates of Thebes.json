@@ -41,7 +41,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.85"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δόξα",
+          "text": "taštine"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δόξα",
+          "text": "славꙑ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000548",
@@ -58,20 +72,20 @@
     ]
   },
   {
-  "id": "mm-000549",
-  "type": "quote",
-  "sr": "Ovo imam: sve što naučih i o čemu promišljah i što uzvišeno s muzama spoznah; a silno bogatstvo tašti privid ugrabi.",
-  "stsl": "Се имамъ · елика научихъ сѧ и о нихъ размꙑслихъ · и ꙗже съ мѹсами възвꙑшена познахъ · много же богатьство сѹета похꙑти.",
-  "originalText": "Ταῦτ' ἔχω ὅσσ' ἔμαθον καὶ ἐφρόντισα καὶ μετὰ Μουσῶν σέμν' ἐδάην· τὰ δὲ πολλὰ καὶ ὄλβια τῦφος ἔμαρψεν.",
-  "author": "Crates of Thebes",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VI.86"
-    }
-  ]
-},
-    {
+    "id": "mm-000549",
+    "type": "quote",
+    "sr": "Ovo imam: sve što naučih i o čemu promišljah i što uzvišeno s muzama spoznah; a silno bogatstvo tašti privid ugrabi.",
+    "stsl": "Се имамъ · елика научихъ сѧ и о нихъ размꙑслихъ · и ꙗже съ мѹсами възвꙑшена познахъ · много же богатьство сѹета похꙑти.",
+    "originalText": "Ταῦτ' ἔχω ὅσσ' ἔμαθον καὶ ἐφρόντισα καὶ μετὰ Μουσῶν σέμν' ἐδάην· τὰ δὲ πολλὰ καὶ ὄλβια τῦφος ἔμαρψεν.",
+    "author": "Crates of Thebes",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VI.86"
+      }
+    ]
+  },
+  {
     "id": "mm-000550",
     "type": "reported",
     "sr": "Govorio je da mu od filozofije dopadoše merica boba i bezbrižnost.",
@@ -83,7 +97,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.86"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "filozofije"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "любомѫдриꙗ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000551",
@@ -97,7 +125,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.86"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "χρόνος",
+          "text": "vreme"
+        },
+        {
+          "tag": "ἔρως",
+          "text": "Ljubavnu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "χρόνος",
+          "text": "врѣмѧ"
+        },
+        {
+          "tag": "ἔρως",
+          "text": "любъвь"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000552",
@@ -227,7 +277,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.93"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τύχη",
+          "text": "slučaj"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τύχη",
+          "text": "слѹчаи"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000561",

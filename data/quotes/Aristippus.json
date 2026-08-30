@@ -82,7 +82,21 @@
         "name": "diogenes-laertius",
         "reference": "II.68"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "mudroljublja"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "любомѫдриꙗ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000256",
@@ -96,7 +110,29 @@
         "name": "diogenes-laertius",
         "reference": "II.68"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        },
+        {
+          "tag": "θεός",
+          "text": "bogova"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "єсть"
+        },
+        {
+          "tag": "θεός",
+          "text": "боговъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000257",
@@ -110,7 +146,29 @@
         "name": "diogenes-laertius",
         "reference": "II.68"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόμος",
+          "text": "zakoni"
+        },
+        {
+          "tag": "φιλόσοφος",
+          "text": "filozofi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόμος",
+          "text": "закони"
+        },
+        {
+          "tag": "φιλόσοφος",
+          "text": "любомѫдрьци"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000258",
@@ -124,7 +182,29 @@
         "name": "diogenes-laertius",
         "reference": "II.69"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "οἶδα",
+          "text": "znaju"
+        },
+        {
+          "tag": "φιλόσοφος",
+          "text": "filozofi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "οἶδα",
+          "text": "вѣдѧть"
+        },
+        {
+          "tag": "φιλόσοφος",
+          "text": "любомѫдрьць"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000259",
@@ -222,7 +302,21 @@
         "name": "diogenes-laertius",
         "reference": "II.70"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλόσοφος",
+          "text": "filozofi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλόσοφος",
+          "text": "любомѫдрьци"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000266",
@@ -236,7 +330,29 @@
         "name": "diogenes-laertius",
         "reference": "II.71"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλόσοφος",
+          "text": "filozofi"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "duše"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλόσοφος",
+          "text": "любомѫдрьци"
+        },
+        {
+          "tag": "ψυχή",
+          "text": "дѹшахъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000267",
@@ -264,7 +380,29 @@
         "name": "diogenes-laertius",
         "reference": "II.71"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δίκη",
+          "text": "spor"
+        },
+        {
+          "tag": "λόγος",
+          "text": "besednik"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δίκη",
+          "text": "сѫдъ"
+        },
+        {
+          "tag": "λόγος",
+          "text": "словесникъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000269",
@@ -320,7 +458,21 @@
         "name": "diogenes-laertius",
         "reference": "II.72"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δίκη",
+          "text": "parnicu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δίκη",
+          "text": "сѫдъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000273",
@@ -334,7 +486,21 @@
         "name": "diogenes-laertius",
         "reference": "II.73"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "filozofije"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "любомѫдриꙗ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000274",
@@ -376,7 +542,21 @@
         "name": "diogenes-laertius",
         "reference": "II.73"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "οἶδα",
+          "text": "nepoznate"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "οἶδα",
+          "text": "незнаємымъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000277",
@@ -460,7 +640,21 @@
         "name": "diogenes-laertius",
         "reference": "II.76"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "καλόν",
+          "text": "namirisao"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "καλόν",
+          "text": "благоѹха"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000283",
@@ -488,7 +682,21 @@
         "name": "diogenes-laertius",
         "reference": "II.76–77"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "pristane"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "быти"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000285",
@@ -573,7 +781,21 @@
         "name": "diogenes-laertius",
         "reference": "II.79"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "mudroljublje"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "любомѫдриѥ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000291",
@@ -601,7 +823,21 @@
         "name": "diogenes-laertius",
         "reference": "II.80"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "παιδεία",
+          "text": "odgovori"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "παιδεία",
+          "text": "образованиꙗ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000293",
@@ -643,7 +879,21 @@
         "name": "diogenes-laertius",
         "reference": "II.81"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "οἶδα",
+          "text": "znamo"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "οἶδα",
+          "text": "вѣмы"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000296",
@@ -707,7 +957,10 @@
     "sr": "Aristip je govorio da je Sokrat gajio najnežniju ljubav prema Alkibijadu.",
     "stsl": "Аристипъ глаголаше · ꙗко Сократъ наинѣжьнѣишꙫ любовь къ Алкивиадѹ имѣаше ·",
     "originalText": "οὗ καὶ ἐρασθῆναί φησίν αὐτὸν Ἀρίστιππος ἐν τετάρτῳ Περὶ παλαιᾶς τρυφῆς.",
-    "author": ["Aristippus", "Socrates"],
+    "author": [
+      "Aristippus",
+      "Socrates"
+    ],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -727,7 +980,21 @@
         "name": "diogenes-laertius",
         "reference": "II.85"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τέλος",
+          "text": "svrhu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τέλος",
+          "text": "съвръхѫ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000303",
@@ -735,7 +1002,10 @@
     "sr": "Pitagora je tako nazvan zato što je istinu izricao jednako nepogrešivo kao pitijsko proročište.",
     "stsl": "Питагоръ тако нареченъ бысть · зане истинꙫ толико непогрѣшьно глаголаше · ꙗкоже Пиѳиискоє пророчиште ·",
     "originalText": "Πυθαγόραν ... ὀνομασθῆναι ὅτι τὴν ἀλήθειαν ἠγόρευεν οὐχ ἧττον τοῦ Πυθίου.",
-    "author": ["Aristippus", "Pythagoras"],
+    "author": [
+      "Aristippus",
+      "Pythagoras"
+    ],
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -749,7 +1019,10 @@
     "sr": "Aristip je govorio da je Pausanija bio Empedoklov prisni prijatelj.",
     "stsl": "Аристипъ глаголаше · ꙗко Павсании Ємпедокловъ ближьнии дрѹгъ бѣ ·",
     "originalText": "ἦν δ' ὁ Παυσανίας, ὥς φησιν Ἀρίστιππος καὶ Σάτυρος, ἐρώμενος αὐτοῦ.",
-    "author": ["Aristippus", "Empedocles"],
+    "author": [
+      "Aristippus",
+      "Empedocles"
+    ],
     "sources": [
       {
         "name": "diogenes-laertius",

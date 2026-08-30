@@ -175,7 +175,21 @@
         "name": "diogenes-laertius",
         "reference": "IV.10"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "filozofiju"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "любомѫдриꙗ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001884",

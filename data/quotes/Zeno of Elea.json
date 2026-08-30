@@ -82,7 +82,29 @@
         "name": "diogenes-laertius",
         "reference": "IX.29"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κενόν",
+          "text": "praznine"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "svetovi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κενόν",
+          "text": "праздьна"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "Міри"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002044",
@@ -96,7 +118,21 @@
         "name": "diogenes-laertius",
         "reference": "IX.29"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φύσις",
+          "text": "Priroda"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φύσις",
+          "text": "Природа"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002045",
@@ -124,7 +160,21 @@
         "name": "diogenes-laertius",
         "reference": "IX.29"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ψυχή",
+          "text": "Duša"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ψυχή",
+          "text": "Дѹша"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002047",
@@ -166,7 +216,21 @@
         "name": "plato-parmenides",
         "reference": "127e-128a"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τὰ ὄντα",
+          "text": "bića"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τὰ ὄντα",
+          "text": "сѫщаꙗ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002050",
@@ -197,7 +261,37 @@
         "name": "hermann-diels",
         "reference": "29 B 1"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "kazati"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "nužno"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskrajna"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "глаголати"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "нѫжда"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "бескраинымъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002052",
@@ -225,7 +319,37 @@
         "name": "hermann-diels",
         "reference": "29 B 3"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τὰ ὄντα",
+          "text": "bića"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "nužno"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskrajna"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τὰ ὄντα",
+          "text": "сѫщаꙗ"
+        },
+        {
+          "tag": "ἀνάγκη",
+          "text": "нѫжда"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "бескраина"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002054",
@@ -239,7 +363,21 @@
         "name": "aristotle-physics",
         "reference": "VI.9, 239b11-14"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τέλος",
+          "text": "kraja"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τέλος",
+          "text": "коньца"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002055",
@@ -281,7 +419,29 @@
         "name": "aristotle-physics",
         "reference": "IV.3, 210b22-24"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τὸ ὄν",
+          "text": "biće"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskraj"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τὸ ὄν",
+          "text": "сѫщее"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "бескраи"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002059",
@@ -295,7 +455,21 @@
         "reference": "VII.5, 250a19-22"
       }
     ],
-    "originalText": "διὰ τοῦτο ὁ Ζήνωνος λόγος οὐκ ἀληθής, ὡς ψοφεῖ τῆς κέγχρου ὁτιοῦν μέρος."
+    "originalText": "διὰ τοῦτο ὁ Ζήνωνος λόγος οὐκ ἀληθής, ὡς ψοφεῖ τῆς κέγχρου ὁτιοῦν μέρος.",
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "zvuk"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "гласъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002060",

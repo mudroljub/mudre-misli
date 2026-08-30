@@ -70,7 +70,21 @@
         "name": "diogenes-laertius",
         "reference": "X.6"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "παιδεία",
+          "text": "Obrazovanje"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "παιδεία",
+          "text": "Оврꙁованіє"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001112",
@@ -99,7 +113,21 @@
         "name": "diogenes-laertius",
         "reference": "X.11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "οὐσία",
+          "text": "imovinu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "οὐσία",
+          "text": "імовинѫ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001114",
@@ -305,6 +333,20 @@
         "name": "diogenes-laertius",
         "reference": "X.16–21"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "škole"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φιλοσοφία",
+          "text": "ѹчилища"
+        }
+      ]
+    }
   }
 ]

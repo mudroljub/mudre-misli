@@ -68,6 +68,78 @@ const detectTags = originalText => {
   return [...detectedTags].sort()
 }
 
+const findWholeTextOccurrences = (text, value) => {
+  if (!value) return []
+  const pattern = new RegExp(`(?<!\\p{L})${escapeRegExp(value)}(?!\\p{L})`, 'giu')
+  return [...text.matchAll(pattern)]
+}
+
+const validateTermAnnotations = (entry, tags, location) => {
+  if (entry.termAnnotations === undefined) {
+    if (tags?.length) {
+      throw new Error(`${location} has tags but no termAnnotations`)
+    }
+    return
+  }
+
+  if (!entry.termAnnotations || typeof entry.termAnnotations !== 'object' || Array.isArray(entry.termAnnotations)) {
+    throw new Error(`${location} has invalid termAnnotations`)
+  }
+
+  const unknownLanguages = Object.keys(entry.termAnnotations)
+    .filter(language => language !== 'sr' && language !== 'stsl')
+
+  if (unknownLanguages.length > 0) {
+    throw new Error(
+      `${location} termAnnotations uses unknown language "${unknownLanguages[0]}"`,
+    )
+  }
+
+  for (const language of ['sr', 'stsl']) {
+    const annotations = entry.termAnnotations[language]
+    if (annotations === undefined) {
+      if (tags?.length) {
+        throw new Error(`${location} termAnnotations.${language} is missing`)
+      }
+      continue
+    }
+
+    if (!Array.isArray(annotations)) {
+      throw new Error(`${location} termAnnotations.${language} is not an array`)
+    }
+
+    for (const [annotationIndex, annotation] of annotations.entries()) {
+      const annotationLocation = `${location} termAnnotations.${language}[${annotationIndex}]`
+      const tag = String(annotation?.tag || '').trim()
+      const text = String(annotation?.text || '').trim()
+      const occurrence = annotation?.occurrence ?? 1
+
+      if (!tag || !text || !Number.isInteger(occurrence) || occurrence < 1) {
+        throw new Error(`${annotationLocation} is invalid`)
+      }
+
+      if (!tags?.includes(tag)) {
+        throw new Error(`${annotationLocation} uses undetected tag "${tag}"`)
+      }
+
+      const matches = findWholeTextOccurrences(entry[language], text)
+      const availableOccurrences = matches.length
+      if (availableOccurrences < occurrence) {
+        throw new Error(
+          `${annotationLocation} cannot find occurrence ${occurrence} of "${text}"`,
+        )
+      }
+
+    }
+
+    for (const tag of tags ?? []) {
+      if (!annotations.some(annotation => annotation.tag === tag)) {
+        throw new Error(`${location} termAnnotations.${language} is missing tag "${tag}"`)
+      }
+    }
+  }
+}
+
 const allQuotes = []
 const chronologicalEntries = []
 const chronologicalIndexes = []
@@ -171,6 +243,8 @@ for (const file of files) {
       entry.type === 'quote' || entry.type === 'reported'
         ? detectTags(entry.originalText)
         : undefined
+
+    validateTermAnnotations(entry, tags, `${file} entry ${entryIndex + 1}`)
 
     const quote = {
       _id: nextId++,

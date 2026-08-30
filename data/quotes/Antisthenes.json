@@ -25,7 +25,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.1"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogova"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "боговъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000170",
@@ -53,7 +67,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.2"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "je"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бѫдѫть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000172",
@@ -67,7 +95,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.2"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobro"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "добро"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000173",
@@ -81,7 +123,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.3"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "Iskaz"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "Изреченіє"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000174",
@@ -109,7 +165,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.3"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "οἶδα",
+          "text": "umeti"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "οἶδα",
+          "text": "ѹмѣѭть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000176",
@@ -263,7 +333,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.5"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ψυχή",
+          "text": "um"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ψυχή",
+          "text": "ѹмъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000187",
@@ -277,7 +361,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.5"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἦθος",
+          "text": "strast"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἦθος",
+          "text": "страсть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000188",
@@ -319,7 +417,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.5"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "rđavi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "зълии"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000191",
@@ -375,7 +487,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.6"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "πολιτεία",
+          "text": "državne"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "πολιτεία",
+          "text": "градьскыѩ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000195",
@@ -501,7 +627,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.8"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "zlo"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "зло"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000204",
@@ -515,7 +655,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.8"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "mane"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "порокы"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000205",
@@ -571,7 +725,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.10"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἦθος",
+          "text": "ironično"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἦθος",
+          "text": "посмѣвьно"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000209",
@@ -585,7 +753,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.10"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κόσμος",
+          "text": "ustroj"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κόσμος",
+          "text": "строи"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000210",
@@ -599,7 +781,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.10"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀρετή",
+          "text": "Vrlina"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀρετή",
+          "text": "Добродѣтели"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000211",
@@ -627,7 +823,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "εὐδαιμονία",
+          "text": "blagočest"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "Vrlina"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "εὐδαιμονία",
+          "text": "благочѧстѹ"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "Добродѣтель"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000213",
@@ -641,7 +859,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "reči"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "Vrlina"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "словесъ"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "Добродѣтель"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000214",
@@ -669,7 +909,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobro"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "добро"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000216",
@@ -683,7 +937,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόμος",
+          "text": "zakonima"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "vrline"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόμος",
+          "text": "законы"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "добродѣтели"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000217",
@@ -711,7 +987,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "οἶδα",
+          "text": "zna"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "οἶδα",
+          "text": "вѣсть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000219",
@@ -781,7 +1071,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.12"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀρετή",
+          "text": "Vrlina"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀρετή",
+          "text": "Добродѣтель"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000224",
@@ -837,7 +1141,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.12"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀρετή",
+          "text": "Vrlina"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀρετή",
+          "text": "Добродѣтель"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000228",
@@ -851,7 +1169,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.12"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κακόν",
+          "text": "rđava"
+        },
+        {
+          "tag": "καλόν",
+          "text": "Dobra"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κακόν",
+          "text": "зъла"
+        },
+        {
+          "tag": "καλόν",
+          "text": "красна"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000229",
@@ -879,7 +1219,21 @@
         "name": "diogenes-laertius",
         "reference": "VI.13"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "φρόνησις",
+          "text": "Mudrost"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "φρόνησις",
+          "text": "Мѫдрость"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000231",
@@ -921,7 +1275,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.104"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τέλος",
+          "text": "Krajnji"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "vrlinom"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τέλος",
+          "text": "цѣль"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "добродѣтели"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000234",

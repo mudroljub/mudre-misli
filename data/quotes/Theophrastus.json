@@ -60,34 +60,48 @@
     ]
   },
   {
-  "id": "mm-001840",
-  "type": "quote",
-  "sr": "Pre se treba pouzdati u neuzdanog konja nego u nesređenu besedu.",
-  "stsl": "Скорѣѥ подобаєть на конѧ безъ ѹзды ѹповати · нежели на нестроино слово ·",
-  "originalText": "θᾶττον ἔφη πιστεύειν δεῖν ἵππῳ ἀχαλίνῳ ἢ λόγῳ ἀσυντάκτῳ",
-  "author": "Theophrastus",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "V.39"
+    "id": "mm-001840",
+    "type": "quote",
+    "sr": "Pre se treba pouzdati u neuzdanog konja nego u nesređenu besedu.",
+    "stsl": "Скорѣѥ подобаєть на конѧ безъ ѹзды ѹповати · нежели на нестроино слово ·",
+    "originalText": "θᾶττον ἔφη πιστεύειν δεῖν ἵππῳ ἀχαλίνῳ ἢ λόγῳ ἀσυντάκτῳ",
+    "author": "Theophrastus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.39"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "besedu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "слово"
+        }
+      ]
     }
-  ]
-},
- {
-  "id": "mm-001841",
-  "type": "anecdote",
-  "sr": "Teofrast beše toliko omiljen među Atinjanima da je, kada ga Agnonid optuži za bezbožnost, bio oslobođen, a sam tužilac umalo ne bi kažnjen.",
-  "stsl": "Тєофрастъ толико любьзнъ Атинѧномъ бѣ · ꙗко · єгда Агнонидъ и въ безбожии обвини · самъ оправьданъ бꙑсть · тѫжитель же мало не казнь приѧть ·",
-  "author": "Theophrastus",
-  "year": -315,
-  "originalText": "Τοσοῦτον δ' αὐτὸν ἀποδέχεσθαι τοὺς Ἀθηναίους, ὥστε Ἀσεβείας αὐτὸν ἐπαγαγόντος Ἁγνωνίδου ἀποφυγεῖν, κινδυνεῦσαι δὲ παρ' ὀλίγον τὸν κατήγορον.",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "V.37"
-    }
-  ]
-},
+  },
+  {
+    "id": "mm-001841",
+    "type": "anecdote",
+    "sr": "Teofrast beše toliko omiljen među Atinjanima da je, kada ga Agnonid optuži za bezbožnost, bio oslobođen, a sam tužilac umalo ne bi kažnjen.",
+    "stsl": "Тєофрастъ толико любьзнъ Атинѧномъ бѣ · ꙗко · єгда Агнонидъ и въ безбожии обвини · самъ оправьданъ бꙑсть · тѫжитель же мало не казнь приѧть ·",
+    "author": "Theophrastus",
+    "year": -315,
+    "originalText": "Τοσοῦτον δ' αὐτὸν ἀποδέχεσθαι τοὺς Ἀθηναίους, ὥστε Ἀσεβείας αὐτὸν ἐπαγαγόντος Ἁγνωνίδου ἀποφυγεῖν, κινδυνεῦσαι δὲ παρ' ὀλίγον τὸν κατήγορον.",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "V.37"
+      }
+    ]
+  },
   {
     "id": "mm-001842",
     "type": "reported",
@@ -100,7 +114,37 @@
         "name": "diogenes-laertius",
         "reference": "V.41"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δόξα",
+          "text": "slave"
+        },
+        {
+          "tag": "κενόν",
+          "text": "praznog"
+        },
+        {
+          "tag": "λόγος",
+          "text": "nauku"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δόξα",
+          "text": "славы"
+        },
+        {
+          "tag": "κενόν",
+          "text": "праздьнаго"
+        },
+        {
+          "tag": "λόγος",
+          "text": "ѹченикы"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001843",
@@ -203,7 +247,21 @@
         "name": "diogenes-laertius",
         "reference": "V.40"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "χρόνος",
+          "text": "Vreme"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "χρόνος",
+          "text": "Врѣмѧ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001850",

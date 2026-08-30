@@ -170,7 +170,21 @@
         "name": "diogenes-laertius",
         "reference": "I.58"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "Reč"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "Слово"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001762",
@@ -198,7 +212,21 @@
         "name": "diogenes-laertius",
         "reference": "I.58"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόμος",
+          "text": "Zakoni"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόμος",
+          "text": "Законꙑ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001764",
@@ -212,7 +240,21 @@
         "name": "diogenes-laertius",
         "reference": "I.58"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "Govorio"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "слово"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001765",
@@ -240,7 +282,21 @@
         "name": "diogenes-laertius",
         "reference": "I.59"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "νόμος",
+          "text": "zakon"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "νόμος",
+          "text": "закона"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001767",
@@ -312,7 +368,37 @@
         "name": "diogenes-laertius",
         "reference": "I.60"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogove"
+        },
+        {
+          "tag": "νοῦς",
+          "text": "Um"
+        },
+        {
+          "tag": "φιλόσοφος",
+          "text": "filozofskim"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "Богꙑ"
+        },
+        {
+          "tag": "νοῦς",
+          "text": "Ѹмъ"
+        },
+        {
+          "tag": "φιλόσοφος",
+          "text": "любомѫдрьскꙑхъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001772",

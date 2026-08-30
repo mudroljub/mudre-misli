@@ -107,7 +107,45 @@
         "name": "diogenes-laertius",
         "reference": "II.106"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "θεός",
+          "text": "bogom"
+        },
+        {
+          "tag": "νοῦς",
+          "text": "umom"
+        },
+        {
+          "tag": "φρόνησις",
+          "text": "razboritošću"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobro"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "θεός",
+          "text": "богъ"
+        },
+        {
+          "tag": "νοῦς",
+          "text": "ѹмъ"
+        },
+        {
+          "tag": "φρόνησις",
+          "text": "разборьность"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "добро"
+        }
+      ]
+    }
   },
   {
     "id": "mm-900040",
@@ -121,7 +159,21 @@
         "name": "diogenes-laertius",
         "reference": "II.106"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobru"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "доброѹ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-900041",
@@ -149,7 +201,21 @@
         "name": "diogenes-laertius",
         "reference": "II.107"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "Govorio"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "Глаголааше"
+        }
+      ]
+    }
   },
   {
     "id": "mm-900043",

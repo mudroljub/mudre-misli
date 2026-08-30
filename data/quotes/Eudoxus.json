@@ -11,7 +11,53 @@
         "name": "diogenes-laertius",
         "reference": "I.8"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "δαίμων",
+          "text": "duha"
+        },
+        {
+          "tag": "ζεύς",
+          "text": "Zevs"
+        },
+        {
+          "tag": "κακόν",
+          "text": "zloga"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobroga"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "načela"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "δαίμων",
+          "text": "дѹхъ"
+        },
+        {
+          "tag": "ζεύς",
+          "text": "Зевсомъ"
+        },
+        {
+          "tag": "κακόν",
+          "text": "зълыи"
+        },
+        {
+          "tag": "ἀγαθόν",
+          "text": "благыи"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "начѧла"
+        }
+      ]
+    }
   },
   {
     "id": "mm-900001",
@@ -100,7 +146,21 @@
         "name": "diogenes-laertius",
         "reference": "VIII.88"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobro"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "благо"
+        }
+      ]
+    }
   },
   {
     "id": "mm-001166",

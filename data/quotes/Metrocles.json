@@ -86,7 +86,29 @@
         "name": "diogenes-laertius",
         "reference": "VI.95"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "παιδεία",
+          "text": "obrazovanja"
+        },
+        {
+          "tag": "χρόνος",
+          "text": "vremenom"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "παιδεία",
+          "text": "наказаниѥ"
+        },
+        {
+          "tag": "χρόνος",
+          "text": "врѣменемъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002070",

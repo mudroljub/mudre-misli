@@ -26,22 +26,58 @@
         "name": "diogenes-laertius",
         "reference": "VII.160"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τέλος",
+          "text": "svrha"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "vrline"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τέλος",
+          "text": "Съвръхѫ"
+        },
+        {
+          "tag": "ἀρετή",
+          "text": "добродѣтелиѭ"
+        }
+      ]
+    }
   },
   {
-  "id": "mm-000318",
-  "type": "quote",
-  "sr": "Mudrac je sličan dobrom glumcu koji, bilo da preuzme ulogu Tersita ili Agamemnona, svaku igra kako dolikuje.",
-  "stsl": "Мѫдрьць подобьнъ єсть добромѹ глѹмьцѹ · иже · аще ли прииметь обраꙁъ Терсита или Агамемнона · кождꙑи лѣпо сътворить ·",
-  "originalText": "εἶναι γὰρ ὅμοιον τὸν σοφὸν τῷ ἀγαθῷ ὑποκριτῇ, ὃς ἄν τε Θερσίτου ἄν τε Ἀγαμέμνονος πρόσωπον ἀναλάβῃ, ἑκάτερον ὑποκρίνεται προσηκόντως.",
-  "author": "Aristo of Chios",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VII.160"
+    "id": "mm-000318",
+    "type": "quote",
+    "sr": "Mudrac je sličan dobrom glumcu koji, bilo da preuzme ulogu Tersita ili Agamemnona, svaku igra kako dolikuje.",
+    "stsl": "Мѫдрьць подобьнъ єсть добромѹ глѹмьцѹ · иже · аще ли прииметь обраꙁъ Терсита или Агамемнона · кождꙑи лѣпо сътворить ·",
+    "originalText": "εἶναι γὰρ ὅμοιον τὸν σοφὸν τῷ ἀγαθῷ ὑποκριτῇ, ὃς ἄν τε Θερσίτου ἄν τε Ἀγαμέμνονος πρόσωπον ἀναλάβῃ, ἑκάτερον ὑποκρίνεται προσηκόντως.",
+    "author": "Aristo of Chios",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.160"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "dobrom"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀγαθόν",
+          "text": "добромѹ"
+        }
+      ]
     }
-  ]
-},
+  },
   {
     "id": "mm-000319",
     "type": "reported",
@@ -68,7 +104,21 @@
         "name": "diogenes-laertius",
         "reference": "VII.161"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "λόγος",
+          "text": "Govorio"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "λόγος",
+          "text": "словеса"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000321",
@@ -122,7 +172,26 @@
     "stsl": "Аристонъ не въводꙗаше ни многꙑ добродѣтели ꙗкоже Ꙁинонъ · ни единѫ многꙑми именꙑ нарицаемѫ ꙗкоже Мегарꙗне · нъ по томѹ · къ чемѹ и како имать сѧ ·",
     "originalText": "Ἀρετάς τ' οὔτε πολλὰς εἰσῆγεν, ὡς ὁ Ζήνων, οὔτε μίαν πολλοῖς ὀνόμασι καλουμένην, ὡς οἱ Μεγαρικοί, ἀλλὰ κατὰ τὸ πρός τί πως ἔχειν.",
     "author": "Aristo of Chios",
-    "sources": [{ "name": "diogenes-laertius", "reference": "VII.161" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.161"
+      }
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "ἀρετή",
+          "text": "vrline"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "ἀρετή",
+          "text": "добродѣтели"
+        }
+      ]
+    }
   },
   {
     "id": "mm-002075",
@@ -132,7 +201,12 @@
     "stsl": "Въ Кѵносарꙁѣ бесѣдоваше и началникъ ѹчениꙗ проꙁъва сѧ · Милтіадъ и Діфилъ аристоновьци нарицахѫ сѧ · Ѹбѣдительнъ бѣ и народѹ ѹгодьнъ ·",
     "originalText": "Οὕτω δὲ φιλοσοφῶν καὶ ἐν Κυνοσάργει διαλεγόμενος ἴσχυσεν αἱρετιστὴς ἀκοῦσαι. Μιλτιάδης οὖν καὶ Δίφιλος Ἀριστώνειοι προσηγορεύοντο. Ἦν δέ τις πειστικὸς καὶ ὄχλῳ πεποιημένος.",
     "author": "Aristo of Chios",
-    "sources": [{ "name": "diogenes-laertius", "reference": "VII.161" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.161"
+      }
+    ]
   },
   {
     "id": "mm-002076",
@@ -141,7 +215,12 @@
     "stsl": "Тимонъ о немь рече · И нѣкыи отъ лъстива Аристона родъ влекꙑ ·",
     "originalText": "ὅθεν ὁ Τίμων φησὶ περὶ αὐτοῦ, Καί τις Ἀρίστωνος γέννης ἄπο αἱμύλον ἕλκων.",
     "author": "Aristo of Chios",
-    "sources": [{ "name": "diogenes-laertius", "reference": "VII.161" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.161"
+      }
+    ]
   },
   {
     "id": "mm-002077",
@@ -151,22 +230,27 @@
     "stsl": "Діоклъ Магнезиискъ глаголеть · єгда Зенонъ въ длъгѫ болѣзнь въпаде · Аристонъ къ Полемонѹ пристѫпи и къ немѹ прѣложи сѧ ·",
     "originalText": "Παραβαλὼν δὲ Πολέμωνι, φησὶ Διοκλῆς ὁ Μάγνης, μετέθετο, Ζήνωνος ἀρρωστίᾳ μακρᾷ περιπεσόντος.",
     "author": "Aristo of Chios",
-    "sources": [{ "name": "diogenes-laertius", "reference": "VII.162" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.162"
+      }
+    ]
   },
- {
-  "id": "mm-002078",
-  "type": "reported",
-  "sr": "Najviše se držao stoičkog učenja da mudrac ništa ne prihvata kao puko mnenje. Persej je to učenje osporio tako što je jednog od dvojice braće blizanaca naveo da Aristonu preda neki predmet na čuvanje, a potom drugoga da ga zatraži natrag. Kada se Ariston našao u nedoumici, Persej ga je time opovrgao.",
-  "stsl": "Паче вьсего стоичьскаго ѹчениꙗ дръжаше сѧ · ꙗко мѫдрьць ничьтоже въ мьнѣниѥ приимлеть · Семѹ ѹчениѭ Персеи противѧ сѧ · единаго отъ двою братѹ блиꙁньцѹ сътвори покладъ Аристонѹ дати · потомь же другаго · да въсприиметь и · и тако Аристона недоѹмѣвъша обличи ·",
-  "originalText": "Μάλιστα δὲ προσεῖχε Στωικῷ δόγματι τῷ τὸν σοφὸν ἀδόξαστον εἶναι. Πρὸς ὃ Περσαῖος ἐναντιούμενος διδύμων ἀδελφῶν τὸν ἕτερον ἐποίησεν αὐτῷ παρακαταθήκην δοῦναι, ἔπειτα τὸν ἕτερον ἀπολαβεῖν· καὶ οὕτως ἀπορούμενον διήλεγξεν.",
-  "author": "Aristo of Chios",
-  "sources": [
-    {
-      "name": "diogenes-laertius",
-      "reference": "VII.162"
-    }
-  ]
-},
+  {
+    "id": "mm-002078",
+    "type": "reported",
+    "sr": "Najviše se držao stoičkog učenja da mudrac ništa ne prihvata kao puko mnenje. Persej je to učenje osporio tako što je jednog od dvojice braće blizanaca naveo da Aristonu preda neki predmet na čuvanje, a potom drugoga da ga zatraži natrag. Kada se Ariston našao u nedoumici, Persej ga je time opovrgao.",
+    "stsl": "Паче вьсего стоичьскаго ѹчениꙗ дръжаше сѧ · ꙗко мѫдрьць ничьтоже въ мьнѣниѥ приимлеть · Семѹ ѹчениѭ Персеи противѧ сѧ · единаго отъ двою братѹ блиꙁньцѹ сътвори покладъ Аристонѹ дати · потомь же другаго · да въсприиметь и · и тако Аристона недоѹмѣвъша обличи ·",
+    "originalText": "Μάλιστα δὲ προσεῖχε Στωικῷ δόγματι τῷ τὸν σοφὸν ἀδόξαστον εἶναι. Πρὸς ὃ Περσαῖος ἐναντιούμενος διδύμων ἀδελφῶν τὸν ἕτερον ἐποίησεν αὐτῷ παρακαταθήκην δοῦναι, ἔπειτα τὸν ἕτερον ἀπολαβεῖν· καὶ οὕτως ἀπορούμενον διήλεγξεν.",
+    "author": "Aristo of Chios",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.162"
+      }
+    ]
+  },
   {
     "id": "mm-002080",
     "type": "works",
@@ -174,7 +258,12 @@
     "stsl": "Дѣла сиꙗ емѹ приписахѫ · Поѹчениꙗ двѣ · О Зеноновѣхъ ѹчениихъ · Разговори · Бесѣдъ шесть · О мѫдрости бесѣдъ седмь · Бесѣдꙑ любовьнꙑ · Памѧти о сѹѥтѣ · Памѧтии два десѧти и пѧть · Въспоминании три · Изречении единъ на десѧте · Противѹ риторомъ · Противѹ Алексиновꙑмъ отъвѣтомъ · Противѹ разговорьникомъ три · Противѹ Клеантѹ · Послании четыре · Панетии же и Сосикратъ глаголѥта токмо посланиꙗ єго быти · инаꙗ же Аристона Перипатетика ·",
     "originalText": "Βιβλία δ' αὐτοῦ φέρεται τάδε· Προτρεπτικῶν βʹ, Περὶ τῶν Ζήνωνος δογμάτων, Διάλογοι, Σχολῶν Ϛʹ, Περὶ σοφίας διατριβῶν ζʹ, Ἐρωτικαὶ διατριβαί, Ὑπομνήματα ὑπὲρ κενοδοξίας, Ὑπομνημάτων κεʹ, Ἀπομνημονευμάτων γʹ, Χρειῶν ιαʹ, Πρὸς τοὺς ῥήτορας, Πρὸς τὰς Ἀλεξίνου ἀντιγραφάς, Πρὸς τοὺς διαλεκτικοὺς γʹ, Πρὸς Κλεάνθην, Ἐπιστολῶν δʹ, Παναίτιος δὲ καὶ Σωσικράτης μόνας αὐτοῦ τὰς ἐπιστολάς φασι, τὰ δ' ἄλλα τοῦ περιπατητικοῦ Ἀρίστωνος.",
     "author": "Aristo of Chios",
-    "sources": [{ "name": "diogenes-laertius", "reference": "VII.163" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.163"
+      }
+    ]
   },
   {
     "id": "mm-002081",
@@ -183,6 +272,11 @@
     "stsl": "Діогенъ Лаертии посмѣꙗ сѧ емѹ хромꙑмъ стихомь · Чесо ради старъ и лꙑсъ сꙑ · Аристонє · темѧ слънцѹ испещи даде · Теплотꙑ паче потрѣбꙑ искавъ · студьнꙑи въистинѫ Адъ не хотѧ обрѣте ·",
     "originalText": "Προσεπαίξαμεν δ' αὐτῷ τόνδε τὸν τρόπον τῷ ἰάμβῳ τῷ χωλῷ· Τί δὴ γέρων ὢν καὶ φάλανθος, ὦ 'ρίστων, τὸ βρέγμ' ἔδωκας ἡλίῳ κατοπτῆσαι; τοιγὰρ τὸ θερμὸν πλεῖον ἢ δέοι ζητῶν τὸν ψυχρὸν ὄντως εὗρες οὐ θέλων Ἅιδην.",
     "author": "Aristo of Chios",
-    "sources": [{ "name": "diogenes-laertius", "reference": "VII.164" }]
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VII.164"
+      }
+    ]
   }
 ]

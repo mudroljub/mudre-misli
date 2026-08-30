@@ -167,7 +167,53 @@
         "name": "diogenes-laertius",
         "reference": "II.1"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "στοιχεῖον",
+          "text": "sastojak"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "vazduh"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "početak"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskrajno"
+        },
+        {
+          "tag": "ὕδωρ",
+          "text": "vodu"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "στοιχεῖον",
+          "text": "съставъ"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "въздѹхъ"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "начѧло"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "бескраи"
+        },
+        {
+          "tag": "ὕδωρ",
+          "text": "водѫ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000107",
@@ -223,7 +269,21 @@
         "name": "diogenes-laertius",
         "reference": "II.1"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "πῦρ",
+          "text": "vatra"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "πῦρ",
+          "text": "огнь"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000111",
@@ -237,7 +297,69 @@
         "name": "hermann-diels",
         "reference": "12 A 9"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "bivaju"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "ustroji"
+        },
+        {
+          "tag": "στοιχεῖον",
+          "text": "sastojak"
+        },
+        {
+          "tag": "τὰ ὄντα",
+          "text": "suštih"
+        },
+        {
+          "tag": "φύσις",
+          "text": "priroda"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "Početak"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskrajno"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "єсть"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "строи"
+        },
+        {
+          "tag": "στοιχεῖον",
+          "text": "съставъ"
+        },
+        {
+          "tag": "τὰ ὄντα",
+          "text": "сѫштихъ"
+        },
+        {
+          "tag": "φύσις",
+          "text": "природа"
+        },
+        {
+          "tag": "ἀρχή",
+          "text": "Начѧло"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "бескраи"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000112",
@@ -251,7 +373,37 @@
         "name": "hermann-diels",
         "reference": "12 A 9"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γένεσις",
+          "text": "Rođenje"
+        },
+        {
+          "tag": "στοιχεῖον",
+          "text": "sastojka"
+        },
+        {
+          "tag": "ἀΐδιος",
+          "text": "večnim"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γένεσις",
+          "text": "рожденьѥ"
+        },
+        {
+          "tag": "στοιχεῖον",
+          "text": "състава"
+        },
+        {
+          "tag": "ἀΐδιος",
+          "text": "вѣчьнꙑмъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000113",
@@ -279,7 +431,37 @@
         "name": "hermann-diels",
         "reference": "12 A 10"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κόσμος",
+          "text": "strojevi"
+        },
+        {
+          "tag": "φθορά",
+          "text": "propadanja"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "beskrajno"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κόσμος",
+          "text": "строи"
+        },
+        {
+          "tag": "φθορά",
+          "text": "тлѣниꙗ"
+        },
+        {
+          "tag": "ἄπειρον",
+          "text": "Бескраиноє"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000115",
@@ -293,7 +475,45 @@
         "name": "hermann-diels",
         "reference": "12 A 10"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γένεσις",
+          "text": "rođenju"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "stroja"
+        },
+        {
+          "tag": "ἀΐδιος",
+          "text": "večnog"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "vazduha"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γένεσις",
+          "text": "рождении"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "строꙗ"
+        },
+        {
+          "tag": "ἀΐδιος",
+          "text": "вѣчьнаго"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "въздѹха"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000116",
@@ -357,7 +577,21 @@
         "name": "hermann-diels",
         "reference": "12 A 25"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "σχῆμα",
+          "text": "nalik"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "σχῆμα",
+          "text": "подобьна"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000120",
@@ -371,7 +605,45 @@
         "name": "hermann-diels",
         "reference": "12 A 11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "su"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "stroja"
+        },
+        {
+          "tag": "πῦρ",
+          "text": "oganj"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "vazduhom"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "єсть"
+        },
+        {
+          "tag": "κόσμος",
+          "text": "строꙗ"
+        },
+        {
+          "tag": "πῦρ",
+          "text": "огньни"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "въздѹхомъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000121",
@@ -385,7 +657,21 @@
         "name": "hermann-diels",
         "reference": "12 A 11"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "dolazi"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бываѭть"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000122",
@@ -413,7 +699,21 @@
         "name": "hermann-diels",
         "reference": "12 A 21"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "πῦρ",
+          "text": "vatrom"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "πῦρ",
+          "text": "огнь"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000124",
@@ -427,7 +727,21 @@
         "name": "hermann-diels",
         "reference": "12 A 22"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "πῦρ",
+          "text": "vatrom"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "πῦρ",
+          "text": "огнѧ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000125",
@@ -441,7 +755,21 @@
         "name": "hermann-diels",
         "reference": "12 A 23"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "πνεῦμα",
+          "text": "vetra"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "πνεῦμα",
+          "text": "вѣтра"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000126",
@@ -459,7 +787,29 @@
         "name": "hermann-diels",
         "reference": "12 A 24"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "nastaju"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "vazduha"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "бываѭть"
+        },
+        {
+          "tag": "ἀήρ",
+          "text": "въздѹха"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000127",
@@ -473,7 +823,21 @@
         "name": "hermann-diels",
         "reference": "12 A 27"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "τέλος",
+          "text": "kraju"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "τέλος",
+          "text": "наконецъ"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000128",
@@ -501,7 +865,21 @@
         "name": "hermann-diels",
         "reference": "12 A 30"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "χρόνος",
+          "text": "životinje"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "χρόνος",
+          "text": "житиє"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000130",
@@ -529,7 +907,53 @@
         "name": "hermann-diels",
         "reference": "12 B 1"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "γίγνομαι",
+          "text": "nastaju"
+        },
+        {
+          "tag": "δίκη",
+          "text": "pravdu"
+        },
+        {
+          "tag": "τὰ ὄντα",
+          "text": "bića"
+        },
+        {
+          "tag": "φθορά",
+          "text": "propadaju"
+        },
+        {
+          "tag": "χρόνος",
+          "text": "vremena"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "γίγνομαι",
+          "text": "раждаѭть"
+        },
+        {
+          "tag": "δίκη",
+          "text": "правдѫ"
+        },
+        {
+          "tag": "τὰ ὄντα",
+          "text": "сѫштаꙗ"
+        },
+        {
+          "tag": "φθορά",
+          "text": "тлѣѭть"
+        },
+        {
+          "tag": "χρόνος",
+          "text": "врѣмене"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000132",
@@ -543,7 +967,21 @@
         "name": "hermann-diels",
         "reference": "12 B 2"
       }
-    ]
+    ],
+    "termAnnotations": {
+      "sr": [
+        {
+          "tag": "κόσμος",
+          "text": "strojeve"
+        }
+      ],
+      "stsl": [
+        {
+          "tag": "κόσμος",
+          "text": "строи"
+        }
+      ]
+    }
   },
   {
     "id": "mm-000133",
