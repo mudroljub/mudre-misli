@@ -64,15 +64,10 @@
 
         &.stsl {
           font-family: $font-family-stsl;
-          font-size: $font-size-stsl-base;
         }
       }
     }
   }
-}
-
-:global(html[data-language='stsl'][data-script='cyr']) .dictionary td.stsl {
-  font-size: $font-size-base;
 }
 
 .tagLink {

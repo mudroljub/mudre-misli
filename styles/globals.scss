@@ -4,6 +4,7 @@
   font-family: 'BukyVede';
   src: url('/fonts/BukyVede-Regular.woff') format('woff'), /* Modern Browsers */
        url('/fonts/BukyVede-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+  size-adjust: 110%;
 }
 
 * {
@@ -19,20 +20,12 @@ body {
   color: $color-text;
 }
 
-// BukyVede belongs to the reconstructed language in its historical script.
-// Set the scale on the root so every rem-based component follows it uniformly.
-// Latin transliteration and Serbian use the more readable text face.
-html[data-language='stsl'][data-script='cyr'] {
-  font-size: $font-size-stsl-base;
-}
-
 html[data-language='stsl'][data-script='cyr'] body {
   font-family: $font-family-stsl;
 }
 
 html[data-language='sr'][data-script='cyr'] [lang='cu'] {
   font-family: $font-family-stsl;
-  font-size: $font-size-stsl-base;
 }
 
 html[data-language='stsl'][data-script='lat'] body,
@@ -40,7 +33,6 @@ html[data-language='sr'] body,
 [lang='sr'],
 html[data-script='lat'] [lang='cu'] {
   font-family: $font-family-base;
-  font-size: $font-size-base;
 }
 
 [lang='grc'] {
