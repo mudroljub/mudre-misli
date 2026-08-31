@@ -14,16 +14,7 @@ Broj parova sa sličnošću najmanje 72%: **1**.
 
 ## Potpuno isti pointer — kandidati za proveru atomizacije
 
-Broj grupa: **6**.
-
-### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p1`
-
-| ID | Autor | Tip | Referenca | Srpski |
-| --- | --- | --- | --- | --- |
-| `mm-900066` | Plotinus | `quote` | 1 | Zar nije dovoljno nositi ovu sliku koju nam je priroda nadenula, nego još treba dopustiti da ostavim trajniju sliku slike, kao kakvo delo vredno gl… |
-| `mm-900067` | Plotinus | `anecdote` | 1 | Plotin ne dopusti ni slikaru ni vajaru da načini njegov lik. Amelije zato dovede slikara Karterija na Plotinova predavanja; ovaj ga pažljivo posmat… |
-
-- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
+Broj grupa: **5**.
 
 ### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p14`
 
@@ -34,29 +25,11 @@ Broj grupa: **6**.
 
 - [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
 
-### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p15`
-
-| ID | Autor | Tip | Referenca | Srpski |
-| --- | --- | --- | --- | --- |
-| `mm-900081` | Plotinus | `quote` | 15 | Pokazao si se ujedno kao pesnik, filozof i svešteni tumač tajni. |
-| `mm-900083` | Plotinus | `quote` | 15 | Udri tako, ne bi li kakva svetlost ljudima postao. |
-
-- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
-
-### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p2`
-
-| ID | Autor | Tip | Referenca | Srpski |
-| --- | --- | --- | --- | --- |
-| `mm-900094` | Plotinus | `quote` | 2 | Još te čekam. Nastojim božansko u nama uzvesti ka božanskom u svemu. |
-| `mm-900093` | Plotinus | `bio` | 2 | Plotin umre u šezdeset šestoj godini, pri kraju druge godine Klaudijeve vladavine. Uz njega beše samo Eustohije. |
-
-- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
-
 ### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p3`
 
 | ID | Autor | Tip | Referenca | Srpski |
 | --- | --- | --- | --- | --- |
-| `mm-900068` | Plotinus | `bio` | 3 | U dvadeset osmoj godini Plotin se okrenu filozofiji. Nezadovoljan aleksandrijskim učiteljima dođe Amoniju, pa čim ga ču reče drugu: Ovoga sam tražio. |
+| `mm-900068` | Plotinus | `anecdote` | 3 | U dvadeset osmoj godini Plotin se okrenu filozofiji. Nezadovoljan aleksandrijskim učiteljima dođe Amoniju, pa čim ga ču reče drugu: Ovoga sam tražio. |
 | `mm-900069` | Plotinus | `bio` | 3 | Plotin provede jedanaest godina uz Amonija. |
 | `mm-900070` | Plotinus | `bio` | 3 | Želeći upoznati persijsku i indijsku filozofiju, Plotin se u trideset devetoj godini pridruži pohodu cara Gordijana na Persijance. Posle careve pog… |
 | `mm-900071` | Plotinus | `bio` | 3 | Kada Filip preuze carstvo, četrdesetogodišnji Plotin dođe u Rim. |
@@ -70,6 +43,24 @@ Broj grupa: **6**.
 | --- | --- | --- | --- | --- |
 | `mm-900074` | Plotinus | `bio` | 9 | Mnogi plemeniti ljudi na samrti poveravahu Plotinu svoju decu i imanje kao svetom i božanskom čuvaru. Njegova kuća zato beše puna dečaka i devojčic… |
 | `mm-900075` | Plotinus | `bio` | 9 | Plotin provede dvadeset šest godina u Rimu, mnogima sudeći u međusobnim sporovima, a nikada ne steče neprijatelja među javnim ljudima. |
+
+- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
+
+### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p15`
+
+| ID | Autor | Tip | Referenca | Srpski |
+| --- | --- | --- | --- | --- |
+| `mm-900081` | Plotinus | `anecdote` | 15 | Kada Porfirije na Platonovoj svetkovini pročita pesmu o svetom braku, neko ga zbog njenog zanosnog i zagonetnog govora nazva ludim. Plotin tada pre… |
+| `mm-900083` | Plotinus | `anecdote` | 15 | Retor Diofan pročita odbranu Platonovog Alkibijada u kojoj je tvrdio da učenik radi vrline treba pristati na telesno sjedinjenje sa učiteljem koji … |
+
+- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
+
+### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p2`
+
+| ID | Autor | Tip | Referenca | Srpski |
+| --- | --- | --- | --- | --- |
+| `mm-900093` | Plotinus | `bio` | 2 | Plotin umre u šezdeset šestoj godini, pri kraju druge godine Klaudijeve vladavine. Uz njega beše samo Eustohije. |
+| `mm-900094` | Plotinus | `anecdote` | 2 | Dok je Plotin umirao na imanju u Kampaniji, Eustohije mu je kasno stigao iz Puteola. Plotin mu reče: „Još te čekam”, a zatim: „Nastojim božansko u … |
 
 - [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
 

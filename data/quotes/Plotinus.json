@@ -179,8 +179,8 @@
   {
     "id": "mm-900076",
     "type": "quote",
-    "sr": "Oni treba da dolaze k meni, ne ja k njima.",
-    "stsl": "Они къ мънѣ приходити длъжни сѫть · не аꙁъ къ нимъ ·",
+    "sr": "Oni [bogovi] treba da dolaze k meni, ne ja k njima.",
+    "stsl": "Они [бози] къ мънѣ приходити длъжни сѫть · не аꙁъ къ нимъ ·",
     "originalText": "ἐκείνους δεῖ πρὸς ἐμὲ ἔρχεσθαι, οὐκ ἐμὲ πρὸς ἐκείνους.",
     "author": "Plotinus",
     "sources": [
@@ -221,48 +221,6 @@
     ]
   },
   {
-    "id": "mm-900079",
-    "type": "quote",
-    "sr": "Ako ne razrešimo nedoumice dok Porfirije pita, nećemo moći ništa valjano kazati za knjigu.",
-    "stsl": "Аще Порфѵрію въпрашаѭштю недоѹмѣніꙗ не раꙁрѣшимъ · ничьсо же достоино въ кънигѫ решти възможемъ ·",
-    "originalText": "ἀλλὰ ἂν μὴ Πορφυρίου ἐρωτῶντος λύσωμεν τὰς ἀπορίας, εἰπεῖν τι καθάπαξ εἰς τὸ βιβλίον οὐ δυνησόμεθα.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "porphyry-vita-plotini",
-        "reference": "13"
-      }
-    ]
-  },
-  {
-    "id": "mm-900080",
-    "type": "quote",
-    "sr": "Longin je književnik, ali nipošto filozof.",
-    "stsl": "Лонгінъ кънижьникъ оубо · любомѫдрьць же никакоже ·",
-    "originalText": "φιλόλογος μέν ὁ Λογγῖνος, φιλόσοφος δὲ οὐδαμῶς.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "porphyry-vita-plotini",
-        "reference": "14"
-      }
-    ]
-  },
-  {
-    "id": "mm-900081",
-    "type": "quote",
-    "sr": "Pokazao si se ujedno kao pesnik, filozof i svešteni tumač tajni.",
-    "stsl": "Кѹпьно поета и любомѫдрьца и свѧштеньна таинъ сказателꙗ сѧ показа ·",
-    "originalText": "ἔδειξας ὁμοῦ καὶ τὸν ποιητὴν καὶ τὸν φιλόσοφον καὶ τὸν ἱεροφάντην.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "porphyry-vita-plotini",
-        "reference": "15"
-      }
-    ]
-  },
-  {
     "id": "mm-900082",
     "type": "quote",
     "sr": "Govorniku slabi revnost kada vidi da će onima koji već znaju kazivati ono što namerava reći.",
@@ -277,22 +235,8 @@
     ]
   },
   {
-    "id": "mm-900083",
-    "type": "quote",
-    "sr": "Udri tako, ne bi li kakva svetlost ljudima postao.",
-    "stsl": "Тако ѹдари · да свѣтъ нѣкꙑи чловѣкомъ бѫдеши ·",
-    "originalText": "βάλλ’ οὕτως, αἴ κέν τι φόως ἄνδρεσσι γένηαι.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "porphyry-vita-plotini",
-        "reference": "15"
-      }
-    ]
-  },
-  {
     "id": "mm-900084",
-    "type": "reported",
+    "type": "works",
     "sr": "Plotin je pobijao gnostike, jer su tvrdili da Platon nije dosegao dubinu umne suštine; protiv njih napisa i poseban spis.",
     "stsl": "Плѡтинъ гностикꙑ обличаше · Платѡнѹ бо до глѫбинꙑ ѹмьнаго сѫшьства не достићи глаголаахѫ · противѹ же ихъ и особьнѫ кънигѫ написа ·",
     "originalText": "ὡς δὴ τοῦ Πλάτωνος εἰς τὸ βάθος τῆς νοητῆς οὐσίας οὐ πελάσαντος. ὅθεν αὐτὸς μὲν πολλοὺς ἐλέγχους ποιούμενος ... γράψας δὲ καὶ βιβλίον ὅπερ πρὸς τοὺς Γνωστικούς ἐπεγράψαμεν.",
@@ -301,20 +245,6 @@
       {
         "name": "porphyry-vita-plotini",
         "reference": "16"
-      }
-    ]
-  },
-  {
-    "id": "mm-900085",
-    "type": "quote",
-    "sr": "Tvoje bi bilo, Amelije, da razrešiš nedoumice u koje je pao, ne poznajući naše mišljenje koje brani da je Plotinovo učenje drukčije od Numenijevog.",
-    "stsl": "Твоє бꙑ бꙑло · Амелие · недоѹмѣніꙗ раꙁрѣшити · въ нѧже въпаде · нашего мьнѣніꙗ не вѣдꙑ · єже Плѡтиново ѹченіє ино отъ Нѹменієва бꙑти ꙗвлꙗєть ·",
-    "originalText": "σὸν ἂν εἴη, Ἀμέλιε, λῦσαι τὰς ἀπορίας, εἰς ἃς ἐμπέπτωκεν ἐξ ἀγνοίας τῆς ἡμετέρας δόξης, ἣν διαφέρεσθαι τῶν Νουμηνίου δογμάτων ὑπολαμβάνει.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "porphyry-vita-plotini",
-        "reference": "18"
       }
     ]
   },
@@ -339,62 +269,6 @@
     "sr": "Plotin razlikuje četiri reda vrlina: građanske, očišćavajuće, vrline već očišćenog duha i uzorne vrline koje prebivaju u samom božanskom umu.",
     "stsl": "Плѡтинъ четꙑри чинꙑ добродѣтелии раꙁличаєть · гражданьскꙑѧ · очистительнꙑѧ · ѹже очиштенаго дѹха добродѣтели · и обраꙁьнꙑѧ · ꙗже въ самомь божьствьнѣмь ѹмѣ прѣбꙑваѭть ·",
     "originalText": "Plotinus in libro quem scripsit de virtutibus dicit quatuor esse quaternarum virtutum genera. Primas vocat politicas ... Secunde quas purgatorias vocat ... Tercie sunt iam purgati animi ... Quarte sunt que in ipsa divina mente consistunt que vocatur noys.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "walter-burley",
-        "reference": "Cap. LIX"
-      }
-    ]
-  },
-  {
-    "id": "mm-900088",
-    "type": "reported",
-    "sr": "U građanskim vrlinama razboritost sve misli i dela upravlja prema razumu; hrabrost uzdiže duh iznad straha od opasnosti; umerenost podvrgava žudnju razumu; pravednost svakome čuva ono što mu pripada.",
-    "stsl": "Въ гражданьскꙑихъ добродѣтелехъ раꙁборьность вьсѧ помꙑшленіꙗ и дѣла по раꙁѹмѹ ѹправлꙗєть · храбрьство дѹхъ надъ страхъ бѣдꙑ възводить · мѣрьность похоть подъ иго раꙁѹма полагаєть · правьдьность коємѹждо своє съхранꙗєть ·",
-    "originalText": "Primas vocat politicas quarum prudencie est ad racionis normam que cogitat et que agit universa dirigere ... fortitudinis est animum supra metum periculi agere ... temperancie est ... sub iugo racionis cupiditatem domare; iusticie est unicuique servare quod suum est.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "walter-burley",
-        "reference": "Cap. LIX"
-      }
-    ]
-  },
-  {
-    "id": "mm-900089",
-    "type": "reported",
-    "sr": "Očišćavajuće vrline pripadaju čoveku sposobnom za božansko: oslobađaju onoga koji je odlučio očistiti se od telesne zaraze i, bežeći od ljudskih stvari, sjediniti se samo s božanskim.",
-    "stsl": "Очистительнꙑѧ добродѣтели чловѣкѹ божьствьнаго приѧтію способьнѹ сѫть · того освобождаѭть · иже тѣлесьнꙑѧ скврьнꙑ очистити сѧ и · отъ чловѣчьскꙑихъ бѣжа · єдинꙑимъ божьствьнꙑимъ съєдинити сѧ ѹстави ·",
-    "originalText": "Secunde quas purgatorias vocat hominis sunt qui divini capax est solumque eius animum expediunt qui decrevit se a corporis contagione purgare et quadam humanorum fuga solis divinis se miscere.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "walter-burley",
-        "reference": "Cap. LIX"
-      }
-    ]
-  },
-  {
-    "id": "mm-900090",
-    "type": "reported",
-    "sr": "U već očišćenom duhu razboritost poznaje i motri jedino božansko; umerenost zaboravlja zemaljske žudnje; hrabrost više ne poznaje strasti; pravednost održava večni savez s višim umom oponašajući ga.",
-    "stsl": "Въ ѹже очиштенѣмь дѹсѣ раꙁборьность єдина божьствьнаꙗ познаваєть и съꙁираєть · мѣрьность ꙁемьнꙑѧ похоти ꙁабꙑваєть · храбрьство страсти къ томѹ не знаєть · правьдьность съ вꙑшьнꙑимь ѹмомь вѣчьнъ съвѣтъ подражаніємь съхранꙗєть ·",
-    "originalText": "Illic prudencie est divina ... sola nosse et hec ... intueri; temperancie, terrenas cupiditates non reprimere, sed penitus oblivisci; fortitudinis, passiones ignorare ... iusticie, ita cum superna et divina mente sociari ut servet cum ea perpetuum fedus imitando.",
-    "author": "Plotinus",
-    "sources": [
-      {
-        "name": "walter-burley",
-        "reference": "Cap. LIX"
-      }
-    ]
-  },
-  {
-    "id": "mm-900091",
-    "type": "reported",
-    "sr": "Četvrti red vrlina prebiva u božanskom umu, iz čijih uzora ostale vrline redom proističu: razboritost je sam božanski um, umerenost njegovo trajno okretanje sebi, hrabrost njegova nepromenljivost, a pravednost njegovo neodstupanje od večnog zakona svoga delanja.",
-    "stsl": "Четврьтꙑи чинъ добродѣтелии въ божьствьнѣмь ѹмѣ прѣбꙑваєть · отъ єгоже обраꙁъ прочаꙗ по чинѹ исходѧть · раꙁборьность самъ божьствьнꙑи ѹмъ єстъ · мѣрьность присноє къ себѣ обраштеніє · храбрьство непрѣложьность єго · правьдьность же отъ вѣчьнаго закона дѣланиꙗ своєго не ѹклонити сѧ ·",
-    "originalText": "Quarte sunt que in ipsa divina mente consistunt que vocatur noys a quarum exemplo omnes per ordinem defluunt ... illic prudencia est ipsa mens divina; temperancia, quod in se perpetua intencione conversa est; fortitudo, quod semper eadem est nec aliquando mutatur; iusticia, quod perenni lege a sempiterna operis sui continuacione non flectitur.",
     "author": "Plotinus",
     "sources": [
       {
