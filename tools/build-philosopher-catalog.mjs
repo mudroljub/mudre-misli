@@ -40,6 +40,8 @@ const aliasEntries = {
   'Mizon': 'Mizon',
   'Misosternon (Mizon)': 'Mizon',
   'Ferekit': 'Ferekid',
+  'Anaksimandar': 'Anaksimander',
+  'Anaksimen iz Mileta': 'Anaksimen',
   'Empedokle': 'Empedoklo',
   'Meliso': 'Melis',
   'Alkmeón': 'Alkmeon',
@@ -51,10 +53,12 @@ const aliasEntries = {
   'Krates Atenjanin': 'Kratet Atenjanin',
   'Kratet': 'Kratet iz Tebe',
   'Zenon iz Kitija': 'Zenon iz Kitijuma',
+  'Zenon Elejski': 'Zenon iz Eleje',
   'Hrisip': 'Hrizip',
   'Arkesilaos': 'Arkesilaj',
   'Eshine': 'Eshin',
   'Porfirije': 'Porfirije iz Tira',
+  'Tit Lukrecije': 'Lukrecije',
 }
 
 const normalize = value => value
@@ -64,13 +68,20 @@ const normalize = value => value
   .replace(/[^a-z0-9]+/g, ' ')
   .trim()
 
+const slugifyAuthor = author => author
+  .toLowerCase()
+  .normalize('NFKD')
+  .replace(/[\u0300-\u036f]/g, '')
+  .replace(/[^a-z0-9]+/g, '-')
+  .replace(/^-+|-+$/g, '') || 'author'
+
 const markdownLink = (label, target) => `[${label}](${target.replaceAll(' ', '%20')})`
 
 const read = relative => fs.readFile(path.join(sourcesDir, relative), 'utf8')
 
 const parseSerbianAuthorNames = async () => {
   const source = await fs.readFile(path.join(rootDir, 'utils', 'translations.ts'), 'utf8')
-  const srBlock = source.match(/\bsr:\s*\{[\s\S]*?\n\s{4}philosophers:\s*\{([\s\S]*?)\n\s{4}\},\n\s{2}\},/)?.[1]
+  const srBlock = source.match(/\bsr:\s*\{[\s\S]*?philosophers:\s*\{([\s\S]*?)\r?\n\s{4}\},/)?.[1]
   if (!srBlock) throw new Error('Could not find Serbian philosopher translations')
 
   const names = new Map()
@@ -172,9 +183,8 @@ const loadQuoteStats = async serbianNames => {
     const authorStats = stats.get(normalize(displayName)) ?? new Map()
     for (const item of items) {
       for (const source of item.sources ?? []) {
-        const sourceStats = authorStats.get(source.name) ?? { entries: 0, biographies: 0 }
+        const sourceStats = authorStats.get(source.name) ?? { entries: 0 }
         sourceStats.entries += 1
-        if (item.type === 'bio') sourceStats.biographies += 1
         authorStats.set(source.name, sourceStats)
       }
     }
@@ -213,10 +223,7 @@ const buildCatalog = async () => {
     const name = canonicalize(row.name, serbianNames)
     const key = normalize(name)
     const person = people.get(key) ?? { name, sources: [] }
-    const stats = quoteStats.get(key)?.get(row.source) ?? { entries: 0, biographies: 0 }
-    const status = stats.biographies > 0
-      ? 'obrađeno'
-      : stats.entries > 0 ? 'delimično' : 'neobrađeno'
+    const stats = quoteStats.get(key)?.get(row.source) ?? { entries: 0 }
     person.sources.push({
       source: row.source,
       sourceLabel: sourceDefinitions[row.source].label,
@@ -224,21 +231,18 @@ const buildCatalog = async () => {
       reference: row.reference,
       href: row.href,
       kind: row.kind,
-      status,
       entries: stats.entries,
-      biographies: stats.biographies,
     })
     people.set(key, person)
   }
 
   const catalog = [...people.values()]
     .map(person => {
-      const statuses = person.sources.map(source => source.status)
+      const projectAuthor = [...serbianNames]
+        .find(([, translated]) => normalize(translated) === normalize(person.name))?.[0] ?? null
       return {
         ...person,
-        status: statuses.includes('obrađeno')
-          ? 'obrađeno'
-          : statuses.includes('delimično') ? 'delimično' : 'neobrađeno',
+        projectAuthor,
       }
     })
     .sort((left, right) => left.name.localeCompare(right.name, 'sr-Latn'))
@@ -247,39 +251,32 @@ const buildCatalog = async () => {
 }
 
 const renderMarkdown = ({ catalog, unindexedSources }) => {
-  const processed = catalog.filter(person => person.status === 'obrađeno').length
-  const partial = catalog.filter(person => person.status === 'delimično').length
-  const unprocessed = catalog.filter(person => person.status === 'neobrađeno').length
+  const used = catalog.filter(person => person.sources.some(source => source.entries > 0)).length
+  const unused = catalog.length - used
   const lines = [
     '# Centralni katalog filozofa i biografija',
     '',
     'Ovaj fajl generiše `npm run build:catalog:philosophers`. Ne uređivati ga ručno.',
     '',
-    '## Značenje statusa',
-    '',
-    '- **obrađeno** — u `data/quotes/` postoji bar jedan unos tipa `bio` iz navedenog izvora;',
-    '- **delimično** — iz izvora postoje drugi unosi, ali još nema unosa tipa `bio`;',
-    '- **neobrađeno** — lokalna biografija je dostupna, ali izvor još nije uveden za tu ličnost.',
-    '',
-    `Ukupno: **${catalog.length} ličnosti**; obrađeno **${processed}**, delimično **${partial}**, neobrađeno **${unprocessed}**.`,
+    `Ukupno: **${catalog.length} ličnosti**; sa upotrebom izvora **${used}**, bez upotrebe izvora **${unused}**.`,
     '',
     '## Katalog',
     '',
-    '| Filozof / ličnost | Status | Dostupne lokalne biografije |',
-    '|---|---|---|',
+    '| Filozof / ličnost | Dostupne lokalne biografije |',
+    '|---|---|',
   ]
 
   for (const person of catalog) {
     const sources = person.sources
       .map(source => {
         const reference = source.reference ? `, ${source.reference}` : ''
-        const counts = source.entries
-          ? `; ${source.biographies} bio / ${source.entries} ukupno`
-          : ''
-        return `${markdownLink(source.sourceLabel, source.href)}${reference} — **${source.status}**${counts}`
+        return `${markdownLink(source.sourceLabel, source.href)}${reference}; upotreba: ${source.entries}`
       })
       .join('<br>')
-    lines.push(`| ${person.name} | **${person.status}** | ${sources} |`)
+    const personName = person.projectAuthor
+      ? markdownLink(person.name, `/sr/authors/${slugifyAuthor(person.projectAuthor)}`)
+      : person.name
+    lines.push(`| ${personName} | ${sources} |`)
   }
 
   lines.push('', '## Izvori koji čekaju indeksiranje po ličnosti', '')

@@ -1,5 +1,11 @@
 # Dodatni izvori za živote filozofa
 
+Objedinjeni pregled svih poimenično indeksiranih života, uključujući ličnosti
+koje još nisu deo projekta, nalazi se u
+[`INDEX_FILOSOFI.md`](INDEX_FILOSOFI.md). Mašinski oblik je
+`philosopher-catalog.json`, a oba se osvežavaju komandom
+`npm run build:catalog:philosophers`.
+
 Ovaj indeks povezuje šest lokalno preuzetih izvora. Pojedinačni indeksi daju
 strukturu dela i način pokazivanja na odlomak.
 

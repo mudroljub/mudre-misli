@@ -1,0 +1,4225 @@
+{
+  "generatedAt": "2026-08-31T18:53:03.159Z",
+  "catalog": [
+    {
+      "name": "Ablabije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#ABLABIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#ABLABIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Adrijan iz Tira",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.10",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Akakije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#ACACIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#ACACIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Aleksandar Peloplaton",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.5",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Alkibijad",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXIV",
+          "href": "walter-burley/chapters-generated/034_alkibijad.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Alkmeon",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 14, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/14-Alcmaeon.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Anaharsis",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "X",
+          "href": "walter-burley/chapters-generated/010_anaharsis.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 21
+        }
+      ],
+      "projectAuthor": "Anacharsis"
+    },
+    {
+      "name": "Anaksagora",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XVIII",
+          "href": "walter-burley/chapters-generated/018_anaksagora.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 29
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 46, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/46-Anaxagoras.txt",
+          "kind": "biographical testimonia",
+          "entries": 31
+        }
+      ],
+      "projectAuthor": "Anaxagoras"
+    },
+    {
+      "name": "Anaksarh",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXVII",
+          "href": "walter-burley/chapters-generated/067_anaksarh.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 7
+        }
+      ],
+      "projectAuthor": "Anaxarchus"
+    },
+    {
+      "name": "Anaksimander",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "IX",
+          "href": "walter-burley/chapters-generated/009_anaksimandar.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 13
+        }
+      ],
+      "projectAuthor": "Anaximander"
+    },
+    {
+      "name": "Anaksimen",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XVI",
+          "href": "walter-burley/chapters-generated/016_anaksimen-iz-mileta.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 9
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 3, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/03-Anaximenes.txt",
+          "kind": "biographical testimonia",
+          "entries": 30
+        }
+      ],
+      "projectAuthor": "Anaximenes"
+    },
+    {
+      "name": "Anaksimen iz Lampsaka",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXIII",
+          "href": "walter-burley/chapters-generated/063_anaksimen-iz-lampsaka.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Antifont iz Ramnunta",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.15",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Antioh",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.4",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Antipatar",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXI",
+          "href": "walter-burley/chapters-generated/071_antipatar.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCVIII",
+          "href": "walter-burley/chapters-generated/098_antipatar.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Antipatar iz Hijerapolja",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.24",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Antisten",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXIII",
+          "href": "walter-burley/chapters-generated/033_antisten.md",
+          "kind": "biography",
+          "entries": 3
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 79
+        }
+      ],
+      "projectAuthor": "Antisthenes"
+    },
+    {
+      "name": "Apolonije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXIII",
+          "href": "walter-burley/chapters-generated/123_apolonije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Apolonije Atinjanin",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.20",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Apolonije iz Naukratisa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.19",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Apulej",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LVIII",
+          "href": "walter-burley/chapters-generated/058_apulej.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Arat",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLIII",
+          "href": "walter-burley/chapters-generated/043_arat.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Arhelaj",
+      "sources": [
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 47, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/47-Archelaus.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Arhiloh",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXI",
+          "href": "walter-burley/chapters-generated/021_arhiloh.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Arhimed",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXIV",
+          "href": "walter-burley/chapters-generated/074_arhimed.md",
+          "kind": "biography",
+          "entries": 2
+        }
+      ],
+      "projectAuthor": "Archimedes"
+    },
+    {
+      "name": "Arhita",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXIII",
+          "href": "walter-burley/chapters-generated/023_arhita.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 35, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/35-Archytas.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Aristarh iz Samotrake",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXII",
+          "href": "walter-burley/chapters-generated/082_aristarh-iz-samotrake.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Aristid",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLI",
+          "href": "walter-burley/chapters-generated/041_aristid.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.9",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Aristip",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXI",
+          "href": "walter-burley/chapters-generated/031_aristip.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 66
+        }
+      ],
+      "projectAuthor": "Aristippus"
+    },
+    {
+      "name": "Aristo iz Hija",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 15
+        }
+      ],
+      "projectAuthor": "Aristo of Chios"
+    },
+    {
+      "name": "Aristokle iz Pergama",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.3",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Aristotel",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LIII",
+          "href": "walter-burley/chapters-generated/053_aristotel.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 40
+        }
+      ],
+      "projectAuthor": "Aristotle"
+    },
+    {
+      "name": "Arkesilaj",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXII",
+          "href": "walter-burley/chapters-generated/072_arkesilaj.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Aspasije",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.33",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Atenodor",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXIII",
+          "href": "walter-burley/chapters-generated/113_atenodor.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.14",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Bijant",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "V",
+          "href": "walter-burley/chapters-generated/005_bijant.md",
+          "kind": "biography",
+          "entries": 6
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 26
+        }
+      ],
+      "projectAuthor": "Bias of Priene"
+    },
+    {
+      "name": "Bion iz Boristenida",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Ciceron",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCV",
+          "href": "walter-burley/chapters-generated/095_ciceron.md",
+          "kind": "biography",
+          "entries": 9
+        }
+      ],
+      "projectAuthor": "Cicero"
+    },
+    {
+      "name": "Damijan iz Efesa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.23",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Demad",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXII",
+          "href": "walter-burley/chapters-generated/062_demad.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Demetrije Falerski",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Demokrit",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLIV",
+          "href": "walter-burley/chapters-generated/044_demokrit.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 32
+        }
+      ],
+      "projectAuthor": "Democritus"
+    },
+    {
+      "name": "Demosten",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXVII",
+          "href": "walter-burley/chapters-generated/037_demosten.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Dijas iz Efesa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.3",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Diodor",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXIX",
+          "href": "walter-burley/chapters-generated/069_diodor.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCII",
+          "href": "walter-burley/chapters-generated/092_diodor.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Diofant",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#DIOPHANTUS",
+          "href": "eunapius/vitae-sophistarum.en.html#DIOPHANTUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Diogen",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "L",
+          "href": "walter-burley/chapters-generated/050_diogen.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCVII",
+          "href": "walter-burley/chapters-generated/097_diogen.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Diogen iz Apolonije",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 51, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/51-Diogenes_of_Apollonia.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Diogen iz Sinope",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 131
+        }
+      ],
+      "projectAuthor": "Diogenes"
+    },
+    {
+      "name": "Dion iz Pruse",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.7",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Dionisije iz Mileta",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.22",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Dionizije iz Herakleje",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Elijan",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.31",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Empedoklo",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLVIII",
+          "href": "walter-burley/chapters-generated/048_empedokle.md",
+          "kind": "biography",
+          "entries": 4
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 34
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 21, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/21-Empedocles.txt",
+          "kind": "biographical testimonia",
+          "entries": 100
+        }
+      ],
+      "projectAuthor": "Empedocles"
+    },
+    {
+      "name": "Enije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXI",
+          "href": "walter-burley/chapters-generated/081_enije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Epifanije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#EPIPHANIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#EPIPHANIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Epiharm",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 13, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/13-Epicharmos.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Epikur",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXIV",
+          "href": "walter-burley/chapters-generated/064_epikur.md",
+          "kind": "biography",
+          "entries": 4
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 17
+        }
+      ],
+      "projectAuthor": "Epicurus"
+    },
+    {
+      "name": "Epimenid",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XII",
+          "href": "walter-burley/chapters-generated/012_epimenid.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 29
+        }
+      ],
+      "projectAuthor": "Epimenides"
+    },
+    {
+      "name": "Erasistrat",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXIII",
+          "href": "walter-burley/chapters-generated/073_erasistrat.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Eshil",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LVI",
+          "href": "walter-burley/chapters-generated/056_eshil.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Eshin",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXV",
+          "href": "walter-burley/chapters-generated/035_eshin.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.18",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Eudoks",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLII",
+          "href": "walter-burley/chapters-generated/042_eudoks.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 17
+        }
+      ],
+      "projectAuthor": "Eudoxus"
+    },
+    {
+      "name": "Eudoks iz Knida",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.1",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Euklit Megaranin",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Euripid",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXVI",
+          "href": "walter-burley/chapters-generated/036_euripid.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLVI",
+          "href": "walter-burley/chapters-generated/046_euripid-ponovljen-u-registru.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Evodijan iz Smirne",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.16",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Evstatije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#EUSTATHIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#EUSTATHIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Ezop",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXIV",
+          "href": "walter-burley/chapters-generated/024_ezop.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Favorin",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.8",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Fedon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LV",
+          "href": "walter-burley/chapters-generated/055_fedon.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Feniks iz Tesalije",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.22",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Ferekid",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XIII",
+          "href": "walter-burley/chapters-generated/013_ferekid.md",
+          "kind": "biography",
+          "entries": 5
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 17
+        }
+      ],
+      "projectAuthor": "Pherecydes of Syros"
+    },
+    {
+      "name": "Filagar",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.8",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Filemon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXVII",
+          "href": "walter-burley/chapters-generated/077_filemon.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Filisk iz Tesalije",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.30",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Filolaj",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 32, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/32-Philolaus.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Filostrat Egipćanin",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.5",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Gal",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CIX",
+          "href": "walter-burley/chapters-generated/109_gal.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Galen",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXVI",
+          "href": "walter-burley/chapters-generated/126_galen.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Glaukon",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Gorgija",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXVI",
+          "href": "walter-burley/chapters-generated/026_gorgija.md",
+          "kind": "biography",
+          "entries": 3
+        },
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.9",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": "Gorgias"
+    },
+    {
+      "name": "Hegesija",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXX",
+          "href": "walter-burley/chapters-generated/080_hegesija.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hekaton",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XC",
+          "href": "walter-burley/chapters-generated/090_hekaton.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Heliodor",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.32",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Heraklid iz Likije",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.26",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Heraklid Pontski",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Heraklit",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLVII",
+          "href": "walter-burley/chapters-generated/047_heraklit.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 38
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 12, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/12-Heraclitus.txt",
+          "kind": "biographical testimonia",
+          "entries": 122
+        }
+      ],
+      "projectAuthor": "Heraclitus"
+    },
+    {
+      "name": "Heril",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hermes Trismegist",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LX",
+          "href": "walter-burley/chapters-generated/060_hermes-trismegist.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hermogen iz Tarsa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.7",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hermokrat iz Fokeje",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.25",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Herod Atik",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.1",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hilon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "III",
+          "href": "walter-burley/chapters-generated/003_hilon.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 42
+        }
+      ],
+      "projectAuthor": "Chilon of Sparta"
+    },
+    {
+      "name": "Himerije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#HIMERIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#HIMERIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hiparhija",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 5
+        }
+      ],
+      "projectAuthor": "Hipparchia of Maroneia"
+    },
+    {
+      "name": "Hipas",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hipija",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.11",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hipodrom iz Tesalije",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.27",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hipokrat",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLV",
+          "href": "walter-burley/chapters-generated/045_hipokrat.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hipon",
+      "sources": [
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 26, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/26-Hippon.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Homer",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XIV",
+          "href": "walter-burley/chapters-generated/014_homer.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Horacije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CX",
+          "href": "walter-burley/chapters-generated/110_horacije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hrest iz Vizantiona",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.11",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hrisantije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#CHRYSANTHIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#CHRYSANTHIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Hrizip",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXIX",
+          "href": "walter-burley/chapters-generated/029_hrisip.md",
+          "kind": "biography",
+          "entries": 19
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 40
+        }
+      ],
+      "projectAuthor": "Chrysippus"
+    },
+    {
+      "name": "Ion sa Hiosa",
+      "sources": [
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 25, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/25-Ion_of_Chios.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Isej",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.20",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Isokrat",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXVII",
+          "href": "walter-burley/chapters-generated/027_isokrat.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.17",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Jamblih",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#IAMBLICHUS",
+          "href": "eunapius/vitae-sophistarum.en.html#IAMBLICHUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Jonik",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#IONICUS",
+          "href": "eunapius/vitae-sophistarum.en.html#IONICUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Julije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CV",
+          "href": "walter-burley/chapters-generated/105_julije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Justin",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXVIII",
+          "href": "walter-burley/chapters-generated/128_justin.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kalisten",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXVI",
+          "href": "walter-burley/chapters-generated/066_kalisten.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kalkiter",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXVI",
+          "href": "walter-burley/chapters-generated/116_kalkiter.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Karnead",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LI",
+          "href": "walter-burley/chapters-generated/051_karnead.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.4",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Katon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCVI",
+          "href": "walter-burley/chapters-generated/096_katon.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kebet",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kirin iz Nikomedije",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.29",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Klaudije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXX",
+          "href": "walter-burley/chapters-generated/130_klaudije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kleant",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 18
+        }
+      ],
+      "projectAuthor": "Cleanthes"
+    },
+    {
+      "name": "Kleobul",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "VI",
+          "href": "walter-burley/chapters-generated/006_kleobul.md",
+          "kind": "biography",
+          "entries": 5
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 32
+        }
+      ],
+      "projectAuthor": "Cleobulus"
+    },
+    {
+      "name": "Klitomah",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Krantor",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kratet Atenjanin",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kratet iz Tebe",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XIX",
+          "href": "walter-burley/chapters-generated/019_kratet.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 16
+        }
+      ],
+      "projectAuthor": "Crates of Thebes"
+    },
+    {
+      "name": "Kritija",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.16",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kriton",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Ksenofan",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 23
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 11, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/11-Xenophanes.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": "Xenophanes"
+    },
+    {
+      "name": "Ksenofil",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LIV",
+          "href": "walter-burley/chapters-generated/054_ksenofil.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Ksenofont",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXII",
+          "href": "walter-burley/chapters-generated/032_ksenofont.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 33
+        }
+      ],
+      "projectAuthor": "Xenophon"
+    },
+    {
+      "name": "Ksenokrat",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXI",
+          "href": "walter-burley/chapters-generated/061_ksenokrat.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 23
+        }
+      ],
+      "projectAuthor": "Xenocrates"
+    },
+    {
+      "name": "Kurion",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCIII",
+          "href": "walter-burley/chapters-generated/093_kurion.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Kvintilijan",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXVIII",
+          "href": "walter-burley/chapters-generated/118_kvintilijan.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Lakid",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Leon iz Vizantiona",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.2",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Leukip",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 11
+        }
+      ],
+      "projectAuthor": "Leucippus"
+    },
+    {
+      "name": "Libanije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#LIBANIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#LIBANIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Likon",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Likurg",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XV",
+          "href": "walter-burley/chapters-generated/015_likurg.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Livije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXVIII",
+          "href": "walter-burley/chapters-generated/088_livije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Lolijan iz Efesa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.23",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Lucije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CII",
+          "href": "walter-burley/chapters-generated/102_lucije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Lucije Akcije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CVI",
+          "href": "walter-burley/chapters-generated/106_lucije-akcije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Lukrecije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CI",
+          "href": "walter-burley/chapters-generated/101_tit-lukrecije.md",
+          "kind": "biography",
+          "entries": 2
+        }
+      ],
+      "projectAuthor": "Lucretius"
+    },
+    {
+      "name": "Magn",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#MAGNUS",
+          "href": "eunapius/vitae-sophistarum.en.html#MAGNUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Maksim",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#MAXIMUS",
+          "href": "eunapius/vitae-sophistarum.en.html#MAXIMUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Marko",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCI",
+          "href": "walter-burley/chapters-generated/091_marko.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Marko iz Vizantiona",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.24",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Marko Nerije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXII",
+          "href": "walter-burley/chapters-generated/112_marko-nerije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Melis",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 20, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/20-Melissus.txt",
+          "kind": "biographical testimonia",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Menandar",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXVI",
+          "href": "walter-burley/chapters-generated/076_menandar.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Menedem Eritrejski",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Menip",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Metrokle",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 9
+        }
+      ],
+      "projectAuthor": "Metrocles"
+    },
+    {
+      "name": "Mizon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XI",
+          "href": "walter-burley/chapters-generated/011_misosternon-mizon.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Monimos",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 7
+        }
+      ],
+      "projectAuthor": "Monimus"
+    },
+    {
+      "name": "Niket iz Smirne",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.19",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Nimfidijan",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#NYMPHIDIANUS",
+          "href": "eunapius/vitae-sophistarum.en.html#NYMPHIDIANUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Onesikarit",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Onomarh sa Andra",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.18",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Oribazije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#ORIBASIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#ORIBASIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Ovidije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXIV",
+          "href": "walter-burley/chapters-generated/114_ovidije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Panetije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXVII",
+          "href": "walter-burley/chapters-generated/087_panetije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Pankupije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXIII",
+          "href": "walter-burley/chapters-generated/083_pankupije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Parmenid",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XLIX",
+          "href": "walter-burley/chapters-generated/049_parmenid.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 19
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 18, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/18-Parmenides.txt",
+          "kind": "biographical testimonia",
+          "entries": 24
+        }
+      ],
+      "projectAuthor": "Parmenides"
+    },
+    {
+      "name": "Parnasije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#PARNASIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#PARNASIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Pausanija iz Cezareje",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.13",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Perijandar",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "VII",
+          "href": "walter-burley/chapters-generated/007_perijandar.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Perikle",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXIX",
+          "href": "walter-burley/chapters-generated/039_perikle.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Piron",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 17
+        }
+      ],
+      "projectAuthor": "Pyrrho"
+    },
+    {
+      "name": "Pitagora",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XVII",
+          "href": "walter-burley/chapters-generated/017_pitagora.md",
+          "kind": "biography",
+          "entries": 12
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 138
+        }
+      ],
+      "projectAuthor": "Pythagoras"
+    },
+    {
+      "name": "Pitak",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "IV",
+          "href": "walter-burley/chapters-generated/004_pitak.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 26
+        }
+      ],
+      "projectAuthor": "Pittacus"
+    },
+    {
+      "name": "Platon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LII",
+          "href": "walter-burley/chapters-generated/052_platon.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 61
+        }
+      ],
+      "projectAuthor": "Plato"
+    },
+    {
+      "name": "Plaucije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "C",
+          "href": "walter-burley/chapters-generated/100_plaucije.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CIII",
+          "href": "walter-burley/chapters-generated/103_plaucije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Plinije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXX",
+          "href": "walter-burley/chapters-generated/120_plinije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Plokije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXVI",
+          "href": "walter-burley/chapters-generated/086_plokije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Plotin",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LIX",
+          "href": "walter-burley/chapters-generated/059_plotin.md",
+          "kind": "biography",
+          "entries": 2
+        },
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#PLOTINUS",
+          "href": "eunapius/vitae-sophistarum.en.html#PLOTINUS",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "porphyry-vita-plotini",
+          "sourceLabel": "Porfirije",
+          "index": "INDEX_PORFIRIJE_PLOTIN.md",
+          "reference": "1-26",
+          "href": "INDEX_PORFIRIJE_PLOTIN.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": "Plotinus"
+    },
+    {
+      "name": "Plutarh",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXIX",
+          "href": "walter-burley/chapters-generated/119_plutarh.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Pol",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.13",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Polemon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXX",
+          "href": "walter-burley/chapters-generated/070_polemon.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.25",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Polideuk iz Naukratisa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.12",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Polistrat i Ipoklid",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXV",
+          "href": "walter-burley/chapters-generated/065_polistrat-i-ipoklid.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Porfirije iz Tira",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXIX",
+          "href": "walter-burley/chapters-generated/129_porfirije-iz-tira.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#PORPHYRY",
+          "href": "eunapius/vitae-sophistarum.en.html#PORPHYRY",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Posejdonije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXIX",
+          "href": "walter-burley/chapters-generated/089_posejdonije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Priscijan",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXXII",
+          "href": "walter-burley/chapters-generated/132_priscijan.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Prisk",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#PRISCUS",
+          "href": "eunapius/vitae-sophistarum.en.html#PRISCUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Prodik",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.12",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Proeresije",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#PROHAERESIUS",
+          "href": "eunapius/vitae-sophistarum.en.html#PROHAERESIUS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Proklo iz Naukratisa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.21",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Protagora",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXVIII",
+          "href": "walter-burley/chapters-generated/028_protagora.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 24
+        },
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.10",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": "Protagoras"
+    },
+    {
+      "name": "Ptolemej",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXV",
+          "href": "walter-burley/chapters-generated/075_ptolemej.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXI",
+          "href": "walter-burley/chapters-generated/121_ptolemej.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Ptolemej iz Naukratisa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.15",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Ruf iz Perinta",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.17",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Salustije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCIX",
+          "href": "walter-burley/chapters-generated/099_salustije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Scipion",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCIV",
+          "href": "walter-burley/chapters-generated/094_scipion.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Sekund",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXII",
+          "href": "walter-burley/chapters-generated/122_sekund.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Sekund Atinjanin",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.26",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Seneka",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXVII",
+          "href": "walter-burley/chapters-generated/117_seneka.md",
+          "kind": "biography",
+          "entries": 10
+        }
+      ],
+      "projectAuthor": "Seneca"
+    },
+    {
+      "name": "Sfer",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 5
+        }
+      ],
+      "projectAuthor": "Sphaerus"
+    },
+    {
+      "name": "Simah",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXXI",
+          "href": "walter-burley/chapters-generated/131_simah.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Simija",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Simon Postolar",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Simonid",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXII",
+          "href": "walter-burley/chapters-generated/022_simonid.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Sist",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXI",
+          "href": "walter-burley/chapters-generated/111_sist.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Skopelijan",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.21",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Sofokle",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXXVIII",
+          "href": "walter-burley/chapters-generated/038_sofokle.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Sokrat",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXX",
+          "href": "walter-burley/chapters-generated/030_sokrat.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 68
+        }
+      ],
+      "projectAuthor": "Socrates"
+    },
+    {
+      "name": "Solon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "II",
+          "href": "walter-burley/chapters-generated/002_solon.md",
+          "kind": "biography",
+          "entries": 8
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 27
+        }
+      ],
+      "projectAuthor": "Solon"
+    },
+    {
+      "name": "Sopatar",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#SOPATER",
+          "href": "eunapius/vitae-sophistarum.en.html#SOPATER",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Sopolis",
+      "sources": [
+        {
+          "source": "eunapius",
+          "sourceLabel": "Eunapije",
+          "index": "INDEX_EUNAPIJE.md",
+          "reference": "#SOPOLIS",
+          "href": "eunapius/vitae-sophistarum.en.html#SOPOLIS",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Speusip",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LVII",
+          "href": "walter-burley/chapters-generated/057_speusip.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Stacije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXIV",
+          "href": "walter-burley/chapters-generated/084_stacije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Stilbon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XX",
+          "href": "walter-burley/chapters-generated/020_stilbon.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Stratonom iz Lampsaka",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Tales",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "I",
+          "href": "walter-burley/chapters-generated/001_tales.md",
+          "kind": "biography",
+          "entries": 1
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 47
+        }
+      ],
+      "projectAuthor": "Thales"
+    },
+    {
+      "name": "Taur",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXV",
+          "href": "walter-burley/chapters-generated/125_taur.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Temistokle",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XL",
+          "href": "walter-burley/chapters-generated/040_temistokle.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Teodot",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.2",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Teofrast",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXVIII",
+          "href": "walter-burley/chapters-generated/068_teofrast.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 17
+        }
+      ],
+      "projectAuthor": "Theophrastus"
+    },
+    {
+      "name": "Teomnest iz Naukratisa",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.6",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Terencije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CVII",
+          "href": "walter-burley/chapters-generated/107_terencije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Timon iz Flija",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 17
+        }
+      ],
+      "projectAuthor": "Timon of Phlius"
+    },
+    {
+      "name": "Trasimah",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "1.14",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Trog",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXVII",
+          "href": "walter-burley/chapters-generated/127_trog.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Valerije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXV",
+          "href": "walter-burley/chapters-generated/115_valerije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Valerije Katul",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXXV",
+          "href": "walter-burley/chapters-generated/085_valerije-katul.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Var iz Laodikije",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.28",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Var iz Perge",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.6",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Varon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CVIII",
+          "href": "walter-burley/chapters-generated/108_varon.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Vasilid",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXIV",
+          "href": "walter-burley/chapters-generated/124_vasilid.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Vergilije",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CIV",
+          "href": "walter-burley/chapters-generated/104_vergilije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Zenon",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XXV",
+          "href": "walter-burley/chapters-generated/025_zenon.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Zenon (sporni stoik)",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXVIII",
+          "href": "walter-burley/chapters-generated/078_zenon-sporni-stoik.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Zenon iz Eleje",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 17
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "Diels 19, A. Leben und Lehre",
+          "href": "hermann-diels/philosophers/19-Zeno.txt",
+          "kind": "biographical testimonia",
+          "entries": 3
+        }
+      ],
+      "projectAuthor": "Zeno of Elea"
+    },
+    {
+      "name": "Zenon iz Kitijuma",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXIX",
+          "href": "walter-burley/chapters-generated/079_zenon-iz-kitijuma.md",
+          "kind": "biography",
+          "entries": 5
+        },
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 79
+        }
+      ],
+      "projectAuthor": "Zeno of Citium"
+    },
+    {
+      "name": "Zoroaster",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Pseudo-Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "VIII",
+          "href": "walter-burley/chapters-generated/008_zoroaster.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    }
+  ],
+  "unindexedSources": [
+    {
+      "source": "Jovan Velški, Compendiloquium",
+      "index": "INDEX_JOVAN_VELSKI.md",
+      "reason": "Lokalni hOCR nema indeks ličnosti."
+    },
+    {
+      "source": "al-Mubaššir ibn Fatik, Mukhtār al-ḥikam",
+      "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+      "reason": "Dva OCR prenosa još nemaju indeks ličnosti."
+    },
+    {
+      "source": "Suda",
+      "index": "INDEX_SUDA.md",
+      "reason": "Biografske leme još nisu izdvojene iz 24.078 odeljaka."
+    }
+  ]
+}
