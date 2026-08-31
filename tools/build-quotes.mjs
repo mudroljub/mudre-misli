@@ -348,6 +348,26 @@ for (const quote of allQuotes) {
     continue
   }
 
+  const porphyryMatch = quote.pointer.match(
+    /^(data\/sources\/porphyry\/vita-plotini\.el-wikisource\.parse\.json)#p(\d+)$/,
+  )
+
+  if (porphyryMatch) {
+    const [, relFile, section] = porphyryMatch
+    let content = pointerFileCache.get(relFile)
+    if (content === undefined) {
+      content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
+      pointerFileCache.set(relFile, content)
+    }
+    const source = JSON.parse(content)
+    const html = String(source?.parse?.text || '')
+
+    if (!html.includes(`id="p${section}"`)) {
+      throw new Error(`Quote ${quote._id} points to missing Porphyry section "${quote.pointer}"`)
+    }
+    continue
+  }
+
   const [fileAndLine, anchor] = quote.pointer.split('#', 2)
   const pointerMatch = fileAndLine.match(/^(.*):(\d+)$/)
 

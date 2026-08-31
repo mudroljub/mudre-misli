@@ -197,7 +197,7 @@ Ukupno: **250 ličnosti**; sa upotrebom izvora **50**, bez upotrebe izvora **200
 | Plaut | [Burley](walter-burley/chapters-generated/103_plaut.md) — CIII | 0 |
 | Plinije | [Burley](walter-burley/chapters-generated/120_plinije.md) — CXX | 0 |
 | Plokije | [Burley](walter-burley/chapters-generated/086_plokije.md) — LXXXVI | 0 |
-| [Plotin](http://localhost:3000/sr/authors/plotinus) | [Burley](walter-burley/chapters-generated/059_plotin.md) — LIX<br>[Eunapije](eunapius/vitae-sophistarum.en.html#PLOTINUS) — #PLOTINUS<br>[Suda](suda/lives/4_Π_1811.md) — 4.Π.1811<br>[Porfirije](INDEX_PORFIRIJE_PLOTIN.md) — 1-26 | 2<br>0<br>0<br>0 |
+| [Plotin](http://localhost:3000/sr/authors/plotinus) | [Burley](walter-burley/chapters-generated/059_plotin.md) — LIX<br>[Eunapije](eunapius/vitae-sophistarum.en.html#PLOTINUS) — #PLOTINUS<br>[Suda](suda/lives/4_Π_1811.md) — 4.Π.1811<br>[Porfirije](INDEX_PORFIRIJE_PLOTIN.md) — 1-26 | 7<br>0<br>0<br>24 |
 | Plutarh | [Burley](walter-burley/chapters-generated/119_plutarh.md) — CXIX | 0 |
 | Pol | [Filostrat](INDEX_FILOSTRAT.md) — 1.13 | 0 |
 | Polemon | [Burley](walter-burley/chapters-generated/070_polemon.md) — LXX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.25 | 0<br>0<br>0 |

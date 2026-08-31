@@ -62,6 +62,14 @@ const createWalterBurleyResolver = rootDir => {
   }
 }
 
+const createPorphyryVitaPlotiniResolver = () =>
+  async reference => {
+    const section = String(reference || '').trim().match(/^\d+$/)?.[0]
+    if (!section || Number(section) < 1 || Number(section) > 26) return null
+
+    return `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p${section}`
+  }
+
 const hermannDielsAuthorFiles = {
   Anaximenes: '03-Anaximenes.txt',
   Xenophanes: '11-Xenophanes.txt',
@@ -197,6 +205,7 @@ const createPlutarchStephanusResolver = (rootDir, relFile) => {
 export const createSourceResolvers = rootDir => ({
   'diogenes-laertius': createDiogenesLaertiusResolver(),
   'walter-burley': createWalterBurleyResolver(rootDir),
+  'porphyry-vita-plotini': createPorphyryVitaPlotiniResolver(),
   'hermann-diels': createHermannDielsResolver(rootDir),
   plutarch: createPlutarchStephanusResolver(
     rootDir,

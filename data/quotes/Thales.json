@@ -866,7 +866,7 @@
   {
     "id": "mm-001832",
     "type": "quote",
-    "sr": "Voda je početak svega.",
+    "sr": "Voda je počelo svega.",
     "stsl": "Начѧло вьсѣмь вода ·",
     "originalText": "Ἀρχὴν δὲ τῶν πάντων ὕδωρ ὑπεστήσατο.",
     "author": "Thales",
@@ -880,7 +880,7 @@
       "sr": [
         {
           "tag": "ἀρχή",
-          "text": "početak"
+          "text": "počelo"
         },
         {
           "tag": "ὕδωρ",

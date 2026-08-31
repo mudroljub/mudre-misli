@@ -65,6 +65,13 @@ data/sources/hermann-diels/philosophers/12-Heraclitus.txt:42#πῦρ
 Walter Burley koristi pointer ka početku lokalnog poglavlja bez anchora, jer
 OCR tekst nije dovoljno stabilan za preciznije tekstualne oznake.
 
+Porfirijev `Život Plotinov` koristi stabilnu oznaku odeljka iz lokalnog HTML-a
+sačuvanog unutar JSON odgovora:
+
+```text
+data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p14
+```
+
 ## Provera i generisanje
 
 ```bash

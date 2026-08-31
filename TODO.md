@@ -1,6 +1,6 @@
 # TODO
 
-## Širiti živote filozofa
+## Širiti članke filozofa
 - Plotin
 - Protagora
 - Filon Aleksandrijski
@@ -27,4 +27,11 @@ probleme.
 
 ## Terminologija i UI
 
-- proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku
+- proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
+   - načelo
+   - sastojak
+   - nesečivo -> nesek
+- spoji duplikate: 
+   - mm-000141 i mm-000147
+   - mm-000106 i mm-000111
+- kako isključiti mm-001582 iz taga ἀρχή
