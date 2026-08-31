@@ -258,21 +258,7 @@
         "name": "diogenes-laertius",
         "reference": "II.129"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobara"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "благаꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001303",
@@ -434,21 +420,7 @@
         "name": "diogenes-laertius",
         "reference": "II.135"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόμος",
-          "text": "dvosmislenost"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόμος",
-          "text": "закономъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001314",

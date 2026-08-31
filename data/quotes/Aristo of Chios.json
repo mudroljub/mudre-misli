@@ -26,29 +26,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.160"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τέλος",
-          "text": "svrha"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrline"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τέλος",
-          "text": "Съвръхѫ"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтелиѭ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000318",
@@ -62,21 +40,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.160"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobrom"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "добромѹ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000319",
@@ -104,21 +68,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.161"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "Govorio"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словеса"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000321",
@@ -177,21 +127,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.161"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀρετή",
-          "text": "vrline"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтели"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002075",

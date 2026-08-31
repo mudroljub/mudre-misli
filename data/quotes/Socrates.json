@@ -116,37 +116,7 @@
         "name": "diogenes-laertius",
         "reference": "II.21"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεωρία",
-          "text": "Proučavanje"
-        },
-        {
-          "tag": "κακόν",
-          "text": "zlo"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobro"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεωρία",
-          "text": "Испытаніє"
-        },
-        {
-          "tag": "κακόν",
-          "text": "зло"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "благо"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001689",
@@ -189,21 +159,7 @@
         "name": "diogenes-laertius",
         "reference": "II.22"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "mišljenje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "мьнѣніє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001692",
@@ -245,21 +201,7 @@
         "name": "diogenes-laertius",
         "reference": "II.27"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "Bogovima"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "Богомъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001695",
@@ -287,21 +229,7 @@
         "name": "diogenes-laertius",
         "reference": "II.30"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "reče"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словесы"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001697",
@@ -329,37 +257,7 @@
         "name": "diogenes-laertius",
         "reference": "II.31"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "zlo"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobro"
-        },
-        {
-          "tag": "ἐπιστήμη",
-          "text": "nauka"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зло"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "благо"
-        },
-        {
-          "tag": "ἐπιστήμη",
-          "text": "наѹка"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001699",
@@ -373,21 +271,7 @@
         "name": "diogenes-laertius",
         "reference": "II.31"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "roditi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "родить"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001700",
@@ -429,21 +313,7 @@
         "name": "diogenes-laertius",
         "reference": "II.32"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "οἶδα",
-          "text": "Znam"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "οἶδα",
-          "text": "вѣмь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001703",
@@ -485,21 +355,7 @@
         "name": "diogenes-laertius",
         "reference": "II.32"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "μέτρον",
-          "text": "izmeri"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "μέτρον",
-          "text": "измѣрити"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001706",
@@ -541,21 +397,7 @@
         "name": "diogenes-laertius",
         "reference": "II.33"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "παιδεία",
-          "text": "obrazovanjem"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "παιδεία",
-          "text": "поѹченіємъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001709",
@@ -712,21 +554,7 @@
         "name": "diogenes-laertius",
         "reference": "II.35"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "krasnu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "краснѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001720",
@@ -810,29 +638,7 @@
         "name": "diogenes-laertius",
         "reference": "II.40–41"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "krasna"
-        },
-        {
-          "tag": "λόγος",
-          "text": "besedu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "красна"
-        },
-        {
-          "tag": "λόγος",
-          "text": "рече"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001726",
@@ -860,21 +666,7 @@
         "name": "diogenes-laertius",
         "reference": "II.42"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀρετή",
-          "text": "vrlini"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтели"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001728",
@@ -902,21 +694,7 @@
         "name": "diogenes-laertius",
         "reference": "II.60"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "οἶδα",
-          "text": "ume"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "οἶδα",
-          "text": "вѣсть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001730",

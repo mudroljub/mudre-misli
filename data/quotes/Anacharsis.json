@@ -172,21 +172,7 @@
         "name": "diogenes-laertius",
         "reference": "I.103"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θάνατος",
-          "text": "smrti"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θάνατος",
-          "text": "съмрьти"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000013",
@@ -200,21 +186,7 @@
         "name": "diogenes-laertius",
         "reference": "I.104"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "μανία",
-          "text": "ludilo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "μανία",
-          "text": "безѹмьно"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000014",
@@ -284,21 +256,7 @@
         "name": "diogenes-laertius",
         "reference": "I.105"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobro"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "добро"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000019",

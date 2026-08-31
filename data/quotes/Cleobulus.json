@@ -172,21 +172,7 @@
         "name": "diogenes-laertius",
         "reference": "I.91"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "reči"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словесъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000523",
@@ -284,21 +270,7 @@
         "name": "diogenes-laertius",
         "reference": "I.92"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀρετή",
-          "text": "vrlini"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀρετή",
-          "text": "Добродѣтели"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000530",
@@ -396,21 +368,7 @@
         "name": "diogenes-laertius",
         "reference": "I.92"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "μανία",
-          "text": "bezumlje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "μανία",
-          "text": "безѹмиє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000537",
@@ -466,21 +424,7 @@
         "name": "diogenes-laertius",
         "reference": "I.93"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "sreće"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "сѫдьбꙑ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000541",
@@ -494,21 +438,7 @@
         "name": "diogenes-laertius",
         "reference": "I.93"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "μέτρον",
-          "text": "Mera"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "μέτρον",
-          "text": "Мѣра"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000542",

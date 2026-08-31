@@ -199,21 +199,7 @@
         "name": "hermann-diels",
         "reference": "68 B 145"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "Slovo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "Слово"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000575",
@@ -227,37 +213,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.44"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κενόν",
-          "text": "praznina"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "Počela"
-        },
-        {
-          "tag": "ἄτομος",
-          "text": "nesečiva"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κενόν",
-          "text": "праздьно"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "Начѧла"
-        },
-        {
-          "tag": "ἄτομος",
-          "text": "несѣчима"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000576",
@@ -271,21 +227,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.44"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κόσμος",
-          "text": "Strojeva"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κόσμος",
-          "text": "Строѥвъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000577",
@@ -299,29 +241,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.44"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "biva"
-        },
-        {
-          "tag": "μὴ ὄν",
-          "text": "nebiće"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваєть"
-        },
-        {
-          "tag": "μὴ ὄν",
-          "text": "несѫщее"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000578",
@@ -335,45 +255,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.44"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πῦρ",
-          "text": "oganj"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        },
-        {
-          "tag": "ἄτομος",
-          "text": "Nesečiva"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "vodu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        },
-        {
-          "tag": "ἄτομος",
-          "text": "Несѣчима"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "водѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000579",
@@ -387,29 +269,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.44"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νοῦς",
-          "text": "um"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νοῦς",
-          "text": "ѹмомъ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000580",
@@ -437,37 +297,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.45"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γένεσις",
-          "text": "nastanka"
-        },
-        {
-          "tag": "γίγνομαι",
-          "text": "nastaje"
-        },
-        {
-          "tag": "ἀνάγκη",
-          "text": "nuždi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γένεσις",
-          "text": "бытиꙗ"
-        },
-        {
-          "tag": "γίγνομαι",
-          "text": "бываѭть"
-        },
-        {
-          "tag": "ἀνάγκη",
-          "text": "нѫжди"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000582",
@@ -481,37 +311,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.45"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τέλος",
-          "text": "Svrha"
-        },
-        {
-          "tag": "φόβος",
-          "text": "strahom"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τέλος",
-          "text": "Съвръха"
-        },
-        {
-          "tag": "φόβος",
-          "text": "страхомъ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000584",
@@ -529,21 +329,7 @@
         "name": "hermann-diels",
         "reference": "68 B 117"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀλήθεια",
-          "text": "istina"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀλήθεια",
-          "text": "истина"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000585",
@@ -557,37 +343,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.106"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "mnenju"
-        },
-        {
-          "tag": "φαινόμενον",
-          "text": "pojave"
-        },
-        {
-          "tag": "ἀλήθεια",
-          "text": "istini"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "мьнѣнию"
-        },
-        {
-          "tag": "φαινόμενον",
-          "text": "ꙗвлєниꙗ"
-        },
-        {
-          "tag": "ἀλήθεια",
-          "text": "истинѣ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000586",
@@ -605,29 +361,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.45"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κενόν",
-          "text": "praznina"
-        },
-        {
-          "tag": "νόμος",
-          "text": "običaju"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κενόν",
-          "text": "праздьно"
-        },
-        {
-          "tag": "νόμος",
-          "text": "обычаю"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000587",
@@ -669,29 +403,7 @@
         "name": "hermann-diels",
         "reference": "68 B 11"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γνώμη",
-          "text": "spoznaje"
-        },
-        {
-          "tag": "ἰδέα",
-          "text": "vida"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γνώμη",
-          "text": "знамениꙗ"
-        },
-        {
-          "tag": "ἰδέα",
-          "text": "вида"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000590",
@@ -705,45 +417,7 @@
         "name": "hermann-diels",
         "reference": "68 B 191"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "nastaje"
-        },
-        {
-          "tag": "γνώμη",
-          "text": "misao"
-        },
-        {
-          "tag": "νόμος",
-          "text": "zakoni"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "blagodušan"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бываєть"
-        },
-        {
-          "tag": "γνώμη",
-          "text": "знамениꙗ"
-        },
-        {
-          "tag": "νόμος",
-          "text": "закони"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹши"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000591",
@@ -757,29 +431,7 @@
         "name": "hermann-diels",
         "reference": "68 B 31"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πάθος",
-          "text": "strasti"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "dušu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πάθος",
-          "text": "страстии"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹшѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000592",
@@ -793,21 +445,7 @@
         "name": "hermann-diels",
         "reference": "68 B 33"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "Priroda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "Єстьство"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000593",
@@ -835,29 +473,7 @@
         "name": "hermann-diels",
         "reference": "68 B 37"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "duše"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobra"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹшевьнаꙗ"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "добра"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000595",
@@ -871,21 +487,7 @@
         "name": "hermann-diels",
         "reference": "68 B 38"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "Lepo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "Добро"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000596",
@@ -899,21 +501,7 @@
         "name": "hermann-diels",
         "reference": "68 B 39"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobra"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "добромѹ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000597",
@@ -941,21 +529,7 @@
         "name": "hermann-diels",
         "reference": "68 B 41"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φόβος",
-          "text": "straha"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φόβος",
-          "text": "страха"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000599",
@@ -1057,21 +631,7 @@
         "name": "hermann-diels",
         "reference": "68 B 48"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "prekore"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "хѹлахъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000606",
@@ -1113,29 +673,7 @@
         "name": "hermann-diels",
         "reference": "68 B 51"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        },
-        {
-          "tag": "λόγος",
-          "text": "Reč"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "єсть"
-        },
-        {
-          "tag": "λόγος",
-          "text": "Слово"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000609",
@@ -1149,21 +687,7 @@
         "name": "hermann-diels",
         "reference": "68 B 52"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νοῦς",
-          "text": "uma"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νοῦς",
-          "text": "ѹмьна"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000610",
@@ -1177,21 +701,7 @@
         "name": "hermann-diels",
         "reference": "68 B 53"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "slovo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слова"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000611",
@@ -1205,21 +715,7 @@
         "name": "hermann-diels",
         "reference": "68 B 53a"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "govore"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словеса"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000612",
@@ -1247,29 +743,7 @@
         "name": "hermann-diels",
         "reference": "68 B 55"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "reči"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrline"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словесемъ"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтѣли"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000614",
@@ -1311,21 +785,7 @@
         "name": "hermann-diels",
         "reference": "68 B 59"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τέχνη",
-          "text": "umeće"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τέχνη",
-          "text": "ѹмѣниє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000617",
@@ -1367,21 +827,7 @@
         "name": "hermann-diels",
         "reference": "68 B 62"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "Dobro"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "Добро"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000620",
@@ -1395,21 +841,7 @@
         "name": "hermann-diels",
         "reference": "68 B 64"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νοῦς",
-          "text": "uma"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νοῦς",
-          "text": "ѹма"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000621",
@@ -1493,21 +925,7 @@
         "name": "hermann-diels",
         "reference": "68 B 102"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "lepa"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "добра"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000627",
@@ -1521,21 +939,7 @@
         "name": "hermann-diels",
         "reference": "68 B 105"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νοῦς",
-          "text": "uma"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νοῦς",
-          "text": "ѹма"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000628",
@@ -1591,21 +995,7 @@
         "name": "hermann-diels",
         "reference": "68 B 108"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "zla"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зълаꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000632",
@@ -1619,29 +1009,7 @@
         "name": "hermann-diels",
         "reference": "68 B 112"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "krasno"
-        },
-        {
-          "tag": "νοῦς",
-          "text": "umu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "красно"
-        },
-        {
-          "tag": "νοῦς",
-          "text": "ѹмѹ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000633",
@@ -1697,21 +1065,7 @@
         "name": "hermann-diels",
         "reference": "68 B 118"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "našao"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "быхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000637",
@@ -1725,29 +1079,7 @@
         "name": "hermann-diels",
         "reference": "68 B 119"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "slučaja"
-        },
-        {
-          "tag": "φρόνησις",
-          "text": "nerazboritost"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "слѹчаꙗ"
-        },
-        {
-          "tag": "φρόνησις",
-          "text": "разборѹ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000638",
@@ -1883,21 +1215,7 @@
         "name": "hermann-diels",
         "reference": "68 B 56"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "Plemenito"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "Доброє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000647",
@@ -1911,21 +1229,7 @@
         "name": "hermann-diels",
         "reference": "68 B 63"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "Krasno"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "Красно"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000648",
@@ -1939,21 +1243,7 @@
         "name": "hermann-diels",
         "reference": "68 B 69"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobro"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "доброє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000649",
@@ -1995,21 +1285,7 @@
         "name": "hermann-diels",
         "reference": "68 B 72"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "dušu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹшѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000652",
@@ -2023,29 +1299,7 @@
         "name": "hermann-diels",
         "reference": "68 B 73"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "krasnome"
-        },
-        {
-          "tag": "ἔρως",
-          "text": "ljubav"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "краснымъ"
-        },
-        {
-          "tag": "ἔρως",
-          "text": "любъвь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000653",
@@ -2087,29 +1341,7 @@
         "name": "hermann-diels",
         "reference": "68 B 76"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "biva"
-        },
-        {
-          "tag": "λόγος",
-          "text": "slovo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бываєть"
-        },
-        {
-          "tag": "λόγος",
-          "text": "слово"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000656",
@@ -2123,21 +1355,7 @@
         "name": "hermann-diels",
         "reference": "68 B 77"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "Slava"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "Слава"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000657",
@@ -2361,21 +1579,7 @@
         "name": "hermann-diels",
         "reference": "68 B 93"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "zlom"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зъло"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000673",
@@ -2529,21 +1733,7 @@
         "name": "hermann-diels",
         "reference": "68 B 110"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "slovo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слова"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000684",
@@ -2571,21 +1761,7 @@
         "name": "hermann-diels",
         "reference": "68 B 142"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bogova"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "боговъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000686",
@@ -2599,21 +1775,7 @@
         "name": "hermann-diels",
         "reference": "68 B 144"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "роди"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000687",
@@ -2655,21 +1817,7 @@
         "name": "hermann-diels",
         "reference": "68 B 150"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "reči"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словесъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000690",
@@ -2711,21 +1859,7 @@
         "name": "hermann-diels",
         "reference": "68 B 156"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κενόν",
-          "text": "prazninom"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κενόν",
-          "text": "празноє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000693",
@@ -2739,21 +1873,7 @@
         "name": "hermann-diels",
         "reference": "68 B 157"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τέχνη",
-          "text": "veština"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τέχνη",
-          "text": "хѫдожьство"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000694",
@@ -2767,29 +1887,7 @@
         "name": "hermann-diels",
         "reference": "68 B 159"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δίκη",
-          "text": "tužilo"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "dušu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δίκη",
-          "text": "сѫдъ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹшѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000695",
@@ -2803,21 +1901,7 @@
         "name": "hermann-diels",
         "reference": "68 B 160"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "χρόνος",
-          "text": "dugo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "χρόνος",
-          "text": "жити"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000696",
@@ -2831,21 +1915,7 @@
         "name": "hermann-diels",
         "reference": "68 B 164"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πῦρ",
-          "text": "sličnost"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πῦρ",
-          "text": "подобиє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000697",
@@ -2887,29 +1957,7 @@
         "name": "hermann-diels",
         "reference": "68 B 171"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δαίμων",
-          "text": "čestitelja"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δαίμων",
-          "text": "чѧстителѧ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000700",
@@ -2923,29 +1971,7 @@
         "name": "hermann-diels",
         "reference": "68 B 172"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "zla"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "voda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зълаꙗ"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "вода"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000701",
@@ -2959,21 +1985,7 @@
         "name": "hermann-diels",
         "reference": "68 B 173"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "zla"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зълаꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000702",
@@ -2987,21 +1999,7 @@
         "name": "hermann-diels",
         "reference": "68 B 174"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δίκη",
-          "text": "pravdu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δίκη",
-          "text": "правьдьнымъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000703",
@@ -3015,37 +2013,7 @@
         "name": "hermann-diels",
         "reference": "68 B 175"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "Bogovi"
-        },
-        {
-          "tag": "κακόν",
-          "text": "zlo"
-        },
-        {
-          "tag": "νοῦς",
-          "text": "uma"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "Бози"
-        },
-        {
-          "tag": "κακόν",
-          "text": "зъла"
-        },
-        {
-          "tag": "νοῦς",
-          "text": "ѹма"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000704",
@@ -3059,29 +2027,7 @@
         "name": "hermann-diels",
         "reference": "68 B 176"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "Slučaj"
-        },
-        {
-          "tag": "φύσις",
-          "text": "Priroda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "Слѹчаи"
-        },
-        {
-          "tag": "φύσις",
-          "text": "природа"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000705",
@@ -3095,21 +2041,7 @@
         "name": "hermann-diels",
         "reference": "68 B 177"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "reč"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слово"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000706",
@@ -3123,21 +2055,7 @@
         "name": "hermann-diels",
         "reference": "68 B 178"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "rađa"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "єсть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000707",
@@ -3151,29 +2069,7 @@
         "name": "hermann-diels",
         "reference": "68 B 179"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "rađa"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrlinu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "добродѣтель"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтель"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000708",
@@ -3187,37 +2083,7 @@
         "name": "hermann-diels",
         "reference": "68 B 181"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "pokazati"
-        },
-        {
-          "tag": "νόμος",
-          "text": "zakon"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrlini"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слова"
-        },
-        {
-          "tag": "νόμος",
-          "text": "закономъ"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтели"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000709",
@@ -3231,29 +2097,7 @@
         "name": "hermann-diels",
         "reference": "68 B 183"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "priroda"
-        },
-        {
-          "tag": "χρόνος",
-          "text": "vreme"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "природа"
-        },
-        {
-          "tag": "χρόνος",
-          "text": "врѣмѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000710",
@@ -3309,29 +2153,7 @@
         "name": "hermann-diels",
         "reference": "68 B 187"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "rasuđivanja"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duši"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "разсѫждениꙗ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹши"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000714",
@@ -3373,21 +2195,7 @@
         "name": "hermann-diels",
         "reference": "68 B 190"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "slova"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словесъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000717",
@@ -3401,21 +2209,7 @@
         "name": "hermann-diels",
         "reference": "68 B 192"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἦθος",
-          "text": "naravi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἦθος",
-          "text": "нрава"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000718",
@@ -3443,21 +2237,7 @@
         "name": "hermann-diels",
         "reference": "68 B 194"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "krasnih"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "красныхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000720",
@@ -3499,21 +2279,7 @@
         "name": "hermann-diels",
         "reference": "68 B 197"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "slučaja"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "слѹчаꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000723",
@@ -3583,21 +2349,7 @@
         "name": "hermann-diels",
         "reference": "68 B 203"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θάνατος",
-          "text": "smrti"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θάνατος",
-          "text": "смрьти"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000728",
@@ -3625,21 +2377,7 @@
         "name": "hermann-diels",
         "reference": "68 B 206"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θάνατος",
-          "text": "smrti"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θάνατος",
-          "text": "смрьти"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000730",
@@ -3681,21 +2419,7 @@
         "name": "hermann-diels",
         "reference": "68 B 210"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "Slučaj"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "Слѹчаи"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000733",
@@ -3723,21 +2447,7 @@
         "name": "hermann-diels",
         "reference": "68 B 212"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "duševnu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹшьнѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000735",
@@ -3779,29 +2489,7 @@
         "name": "hermann-diels",
         "reference": "68 B 215"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γνώμη",
-          "text": "Slava"
-        },
-        {
-          "tag": "δίκη",
-          "text": "pravde"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γνώμη",
-          "text": "Слава"
-        },
-        {
-          "tag": "δίκη",
-          "text": "правьды"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000738",
@@ -3871,29 +2559,7 @@
         "name": "hermann-diels",
         "reference": "68 B 220"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "Rđavi"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrline"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "Зъли"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтели"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000743",
@@ -3907,21 +2573,7 @@
         "name": "hermann-diels",
         "reference": "68 B 221"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀρχή",
-          "text": "početak"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀρχή",
-          "text": "начѧло"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000744",
@@ -3949,21 +2601,7 @@
         "name": "hermann-diels",
         "reference": "68 B 223"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γνώμη",
-          "text": "navika"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γνώμη",
-          "text": "обычьи"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000746",
@@ -3977,21 +2615,7 @@
         "name": "hermann-diels",
         "reference": "68 B 224"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "подобѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000747",
@@ -4117,29 +2741,7 @@
         "name": "hermann-diels",
         "reference": "68 B 234"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bogova"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "znajući"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "богъ"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "вѣдѧште"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000756",
@@ -4153,21 +2755,7 @@
         "name": "hermann-diels",
         "reference": "68 B 235"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "χρόνος",
-          "text": "kratko"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "χρόνος",
-          "text": "Присно"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000757",
@@ -4251,21 +2839,7 @@
         "name": "hermann-diels",
         "reference": "68 B 241"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "postaje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бываєть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000763",
@@ -4321,29 +2895,7 @@
         "name": "hermann-diels",
         "reference": "68 B 245"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόμος",
-          "text": "Zakoni"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "početak"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόμος",
-          "text": "Закони"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "начѧло"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000767",
@@ -4371,29 +2923,7 @@
         "name": "hermann-diels",
         "reference": "68 B 247"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κόσμος",
-          "text": "svet"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duše"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κόσμος",
-          "text": "миръ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹшы"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000769",
@@ -4407,29 +2937,7 @@
         "name": "hermann-diels",
         "reference": "68 B 248"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόμος",
-          "text": "Zakon"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrlinu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόμος",
-          "text": "Законъ"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтель"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000770",
@@ -4443,29 +2951,7 @@
         "name": "hermann-diels",
         "reference": "68 B 249"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "zlo"
-        },
-        {
-          "tag": "φθορά",
-          "text": "propast"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зъло"
-        },
-        {
-          "tag": "φθορά",
-          "text": "пагѹба"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000771",
@@ -4521,21 +3007,7 @@
         "name": "hermann-diels",
         "reference": "68 B 253"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀνάγκη",
-          "text": "nužno"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀνάγκη",
-          "text": "нѫжда"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000775",
@@ -4563,29 +3035,7 @@
         "name": "hermann-diels",
         "reference": "68 B 255"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "su"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobro"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "гражданъ"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "добра"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000777",
@@ -4599,21 +3049,7 @@
         "name": "hermann-diels",
         "reference": "68 B 256"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δίκη",
-          "text": "Pravda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δίκη",
-          "text": "Правьда"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000778",
@@ -4641,21 +3077,7 @@
         "name": "hermann-diels",
         "reference": "68 B 259"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόμος",
-          "text": "zakonima"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόμος",
-          "text": "законъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000780",
@@ -4683,29 +3105,7 @@
         "name": "hermann-diels",
         "reference": "68 B 261"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "zlo"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobro"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зъло"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "добро"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000782",
@@ -4719,29 +3119,7 @@
         "name": "hermann-diels",
         "reference": "68 B 262"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόμος",
-          "text": "zakona"
-        },
-        {
-          "tag": "ἀνάγκη",
-          "text": "nužno"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόμος",
-          "text": "законѹ"
-        },
-        {
-          "tag": "ἀνάγκη",
-          "text": "нѫжди"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000783",
@@ -4755,29 +3133,7 @@
         "name": "hermann-diels",
         "reference": "68 B 264"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "zlo"
-        },
-        {
-          "tag": "νόμος",
-          "text": "zakon"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зъло"
-        },
-        {
-          "tag": "νόμος",
-          "text": "законъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000784",
@@ -4805,21 +3161,7 @@
         "name": "hermann-diels",
         "reference": "68 B 267"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "prirodi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "природѣ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000786",
@@ -4833,21 +3175,7 @@
         "name": "hermann-diels",
         "reference": "68 B 268"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φόβος",
-          "text": "Strah"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φόβος",
-          "text": "Страхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000787",
@@ -4861,29 +3189,7 @@
         "name": "hermann-diels",
         "reference": "68 B 269"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "slučaj"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "početak"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "слѹчаи"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "начѧло"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000788",
@@ -4925,29 +3231,7 @@
         "name": "hermann-diels",
         "reference": "68 B 274"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "krasna"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "ukras"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "красна"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "ѹкрасъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000791",
@@ -4989,29 +3273,7 @@
         "name": "hermann-diels",
         "reference": "68 B 277"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "prirodi"
-        },
-        {
-          "tag": "ἀνάγκη",
-          "text": "mora"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "природѣ"
-        },
-        {
-          "tag": "ἀνάγκη",
-          "text": "нѫжда"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000794",
@@ -5025,37 +3287,7 @@
         "name": "hermann-diels",
         "reference": "68 B 278"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "rodi"
-        },
-        {
-          "tag": "φύσις",
-          "text": "priroda"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "dušu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "родить"
-        },
-        {
-          "tag": "φύσις",
-          "text": "природа"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹшѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000795",
@@ -5167,21 +3399,7 @@
         "name": "hermann-diels",
         "reference": "68 B 289"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀνάγκη",
-          "text": "nužnostima"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀνάγκη",
-          "text": "нѫждамъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000803",
@@ -5195,21 +3413,7 @@
         "name": "hermann-diels",
         "reference": "68 B 290"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "dušu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹшѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000804",
@@ -5251,21 +3455,7 @@
         "name": "hermann-diels",
         "reference": "68 B 293"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "nesrećama"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "сѫдьбы"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000807",
@@ -5279,21 +3469,7 @@
         "name": "hermann-diels",
         "reference": "68 B 294"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobra"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "доброта"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000808",
@@ -5307,29 +3483,7 @@
         "name": "hermann-diels",
         "reference": "68 B 295"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobro"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑстъ"
-        },
-        {
-          "tag": "ἀγαθόν",
-          "text": "добро"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000809",
@@ -5357,36 +3511,6 @@
         "name": "hermann-diels",
         "reference": "68 B 297"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φόβος",
-          "text": "strahu"
-        },
-        {
-          "tag": "φύσις",
-          "text": "prirode"
-        },
-        {
-          "tag": "χρόνος",
-          "text": "vreme"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φόβος",
-          "text": "страхѣхъ"
-        },
-        {
-          "tag": "φύσις",
-          "text": "природы"
-        },
-        {
-          "tag": "χρόνος",
-          "text": "врѣмѧ"
-        }
-      ]
-    }
+    ]
   }
 ]

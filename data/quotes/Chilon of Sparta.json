@@ -55,21 +55,7 @@
         "name": "diogenes-laertius",
         "reference": "I.68"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀρετή",
-          "text": "vrlina"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтель"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000406",
@@ -369,21 +355,7 @@
         "name": "diogenes-laertius",
         "reference": "I.70"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νοῦς",
-          "text": "um"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νοῦς",
-          "text": "ѹма"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000427",
@@ -467,21 +439,7 @@
         "name": "diogenes-laertius",
         "reference": "I.70"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόμος",
-          "text": "zakonima"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόμος",
-          "text": "Закономъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000433",

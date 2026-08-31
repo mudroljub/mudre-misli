@@ -16,7 +16,7 @@
   },
   {
     "id": "mm-900046",
-    "type": "reported",
+    "type": "mention",
     "sr": "Merkurije o njemu ovako kaže: Plotin je jedinstven filozof; njegovo je učenje pratilo njegov život, pa ono što je učio nije pokazivao tuđim, nego sopstvenim primerom. Taj čovek beše ukrašen svakim ukrasom vrline i učvršćen nastojanjem za svim božanskim raspoloženjima: pravedan, razborit, hrabar i umeren.",
     "stsl": "Меркурии о немь сице глаголеть · Плѡтинъ особьныи любомѫдрьць · ѹченіє бо єго животѹ єго слѣдоваше · тѣмь єже ѹчаше не чюждимъ · нъ своимъ образомъ показѹѧ · Мѫжь бо сеи вьсѧкимь добродѣтели ѹкрасомъ ѹкрашенъ бѣ · и подвигомъ вьсѣхъ божьствьныхъ расположении ѹтврьжденъ · правьдьнъ · разборьнъ · храбръ и мѣрьнъ ·",
     "originalText": "Plotinus philosophus singularis, quæ philosophie non attingit partes dum eius doctrina vite senquetur insignia cum illud quod docebat non alleno, sed proprio ostenderet exemplo! Fuit namque vir iste ad omnia virtutis ornamenta compositus omniamque divinarum disposicionum stadio firmatus, iustus, providus, fortis, temperatus.",
@@ -40,11 +40,7 @@
         "name": "porphyry-vita-plotini",
         "reference": "1"
       }
-    ],
-    "termAnnotations": {
-      "sr": [{ "tag": "φύσις", "text": "priroda" }],
-      "stsl": [{ "tag": "φύσις", "text": "єстество" }]
-    }
+    ]
   },
   {
     "id": "mm-900067",
@@ -138,7 +134,7 @@
   },
   {
     "id": "mm-900073",
-    "type": "reported",
+    "type": "mention",
     "sr": "Plotin bi najpre u sebi dovršio misao od početka do kraja, pa bi je potom zapisivao kao da prepisuje iz knjige. I dok bi s nekim razgovarao, ne prekidaše unutrašnji tok misli.",
     "stsl": "Плѡтинъ прѣжде въ себѣ помꙑслъ отъ начѧла до коньца съвършаше · потомъ же акы отъ кънигꙑ прѣписѹѧ писаше · съ нѣкꙑимь же бесѣдѹѧ · вьнѫтрьнѥє теченіє мꙑсли не прѣсѣцаше ·",
     "originalText": "συντελέσας γὰρ παρ’ ἑαυτῷ ἀπ’ ἀρχῆς ἄχρι τέλους τὸ σκέμμα, ἔπειτα εἰς γραφὴν παραδιδοὺς ἃ ἐσκέπτετο, συνεῖρεν οὕτω γράφων ἃ ἐν τῇ ψυχῇ διέθηκεν, ὡς ἀπὸ βιβλίου δοκεῖν μεταβάλλειν τὰ γραφόμενα.",
@@ -148,19 +144,7 @@
         "name": "porphyry-vita-plotini",
         "reference": "8"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        { "tag": "ἀρχή", "text": "početka" },
-        { "tag": "τέλος", "text": "kraja" },
-        { "tag": "ψυχή", "text": "misli" }
-      ],
-      "stsl": [
-        { "tag": "ἀρχή", "text": "начѧла" },
-        { "tag": "τέλος", "text": "коньца" },
-        { "tag": "ψυχή", "text": "мꙑсли" }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-900074",
@@ -248,11 +232,7 @@
         "name": "porphyry-vita-plotini",
         "reference": "13"
       }
-    ],
-    "termAnnotations": {
-      "sr": [{ "tag": "ἀπορία", "text": "nedoumice" }],
-      "stsl": [{ "tag": "ἀπορία", "text": "недоѹмѣніꙗ" }]
-    }
+    ]
   },
   {
     "id": "mm-900080",
@@ -266,11 +246,7 @@
         "name": "porphyry-vita-plotini",
         "reference": "14"
       }
-    ],
-    "termAnnotations": {
-      "sr": [{ "tag": "φιλόσοφος", "text": "filozof" }],
-      "stsl": [{ "tag": "φιλόσοφος", "text": "любомѫдрьць" }]
-    }
+    ]
   },
   {
     "id": "mm-900081",
@@ -284,11 +260,7 @@
         "name": "porphyry-vita-plotini",
         "reference": "15"
       }
-    ],
-    "termAnnotations": {
-      "sr": [{ "tag": "φιλόσοφος", "text": "filozof" }],
-      "stsl": [{ "tag": "φιλόσοφος", "text": "любомѫдрьца" }]
-    }
+    ]
   },
   {
     "id": "mm-900082",
@@ -330,11 +302,7 @@
         "name": "porphyry-vita-plotini",
         "reference": "16"
       }
-    ],
-    "termAnnotations": {
-      "sr": [{ "tag": "οὐσία", "text": "suštine" }],
-      "stsl": [{ "tag": "οὐσία", "text": "сѫшьства" }]
-    }
+    ]
   },
   {
     "id": "mm-900085",
@@ -348,17 +316,7 @@
         "name": "porphyry-vita-plotini",
         "reference": "18"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        { "tag": "ἀπορία", "text": "nedoumice" },
-        { "tag": "δόξα", "text": "mišljenje" }
-      ],
-      "stsl": [
-        { "tag": "ἀπορία", "text": "недоѹмѣніꙗ" },
-        { "tag": "δόξα", "text": "мьнѣніꙗ" }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-900086",
@@ -457,17 +415,7 @@
         "name": "porphyry-vita-plotini",
         "reference": "23"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        { "tag": "θεός", "text": "bogu" },
-        { "tag": "τέλος", "text": "cilj" }
-      ],
-      "stsl": [
-        { "tag": "θεός", "text": "Богѹ" },
-        { "tag": "τέλος", "text": "коньць" }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-900093",

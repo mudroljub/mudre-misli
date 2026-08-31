@@ -133,29 +133,7 @@
         "name": "diogenes-laertius",
         "reference": "V.17"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduha"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹха"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000338",
@@ -169,21 +147,7 @@
         "name": "diogenes-laertius",
         "reference": "V.17"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόμος",
-          "text": "zakone"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόμος",
-          "text": "законы"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000339",
@@ -197,21 +161,7 @@
         "name": "diogenes-laertius",
         "reference": "V.18"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "παιδεία",
-          "text": "obrazovanja"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "παιδεία",
-          "text": "наказаниꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000340",
@@ -253,29 +203,7 @@
         "name": "diogenes-laertius",
         "reference": "V.18"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "παιδεία",
-          "text": "obrazovanje"
-        },
-        {
-          "tag": "φύσις",
-          "text": "priroda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "παιδεία",
-          "text": "наказаниѭ"
-        },
-        {
-          "tag": "φύσις",
-          "text": "єстество"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000343",
@@ -317,29 +245,7 @@
         "name": "diogenes-laertius",
         "reference": "V.19"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κόσμος",
-          "text": "ustrojenje"
-        },
-        {
-          "tag": "παιδεία",
-          "text": "Obrazovanje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κόσμος",
-          "text": "строи"
-        },
-        {
-          "tag": "παιδεία",
-          "text": "Наказаниѥ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000346",
@@ -381,21 +287,7 @@
         "name": "diogenes-laertius",
         "reference": "V.20"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000349",
@@ -409,37 +301,7 @@
         "name": "diogenes-laertius",
         "reference": "V.20"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόμος",
-          "text": "zakona"
-        },
-        {
-          "tag": "φιλοσοφία",
-          "text": "filozofijom"
-        },
-        {
-          "tag": "φόβος",
-          "text": "straha"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόμος",
-          "text": "законъ"
-        },
-        {
-          "tag": "φιλοσοφία",
-          "text": "любомѫдриѥмъ"
-        },
-        {
-          "tag": "φόβος",
-          "text": "страха"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000350",
@@ -481,29 +343,7 @@
         "name": "diogenes-laertius",
         "reference": "V.21"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "duše"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrlina"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹши"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтель"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000353",
@@ -517,21 +357,7 @@
         "name": "diogenes-laertius",
         "reference": "V.21"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "παιδεία",
-          "text": "obrazovanje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "παιδεία",
-          "text": "наказаниѥ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000354",
@@ -559,29 +385,7 @@
         "name": "diogenes-laertius",
         "reference": "V.30"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τέλος",
-          "text": "svrha"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrline"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τέλος",
-          "text": "съвръха"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтели"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000357",
@@ -595,37 +399,7 @@
         "name": "diogenes-laertius",
         "reference": "V.30"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "slava"
-        },
-        {
-          "tag": "εὐδαιμονία",
-          "text": "blagočest"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duše"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "славы"
-        },
-        {
-          "tag": "εὐδαιμονία",
-          "text": "благочѧстъ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹшевьнꙑихъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000358",
@@ -639,29 +413,7 @@
         "name": "diogenes-laertius",
         "reference": "V.30"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "εὐδαιμονία",
-          "text": "blagočest"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrlina"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "εὐδαιμονία",
-          "text": "благочѧсти"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтель"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000359",
@@ -675,21 +427,7 @@
         "name": "diogenes-laertius",
         "reference": "V.31"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φιλία",
-          "text": "prijateljstvo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φιλία",
-          "text": "дрѹжьбѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000360",
@@ -717,21 +455,7 @@
         "name": "diogenes-laertius",
         "reference": "V.32"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000363",

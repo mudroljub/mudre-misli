@@ -31,7 +31,4 @@ probleme.
    - načelo
    - sastojak
    - nesečivo -> nesek
-- spoji duplikate: 
-   - mm-000141 i mm-000147
-   - mm-000106 i mm-000111
 - kako isključiti mm-001582 iz taga ἀρχή

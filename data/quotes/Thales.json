@@ -204,29 +204,7 @@
         "name": "diogenes-laertius",
         "reference": "I.33"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        },
-        {
-          "tag": "τύχη",
-          "text": "sudbini"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "роди"
-        },
-        {
-          "tag": "τύχη",
-          "text": "сѫдьбѣ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001803",
@@ -255,21 +233,7 @@
         "name": "diogenes-laertius",
         "reference": "I.35"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "mnenje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "мьнѣниꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001805",
@@ -297,37 +261,7 @@
         "name": "diogenes-laertius",
         "reference": "I.35"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bog"
-        },
-        {
-          "tag": "τὰ ὄντα",
-          "text": "bića"
-        },
-        {
-          "tag": "ἀγένητος",
-          "text": "nerođen"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "богъ"
-        },
-        {
-          "tag": "τὰ ὄντα",
-          "text": "сѫщиихъ"
-        },
-        {
-          "tag": "ἀγένητος",
-          "text": "нерожденъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001807",
@@ -341,29 +275,7 @@
         "name": "diogenes-laertius",
         "reference": "I.35"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "Božje"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "stroj"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "Божиє"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "строи"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001808",
@@ -391,21 +303,7 @@
         "name": "diogenes-laertius",
         "reference": "I.35"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νοῦς",
-          "text": "um"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νοῦς",
-          "text": "ѹмъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001810",
@@ -419,21 +317,7 @@
         "name": "diogenes-laertius",
         "reference": "I.35"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀνάγκη",
-          "text": "nužda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀνάγκη",
-          "text": "нѫжда"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001811",
@@ -447,21 +331,7 @@
         "name": "diogenes-laertius",
         "reference": "I.35"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "χρόνος",
-          "text": "vreme"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "χρόνος",
-          "text": "врѣмѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001812",
@@ -475,21 +345,7 @@
         "name": "diogenes-laertius",
         "reference": "I.35"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θάνατος",
-          "text": "Smrt"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θάνατος",
-          "text": "Смрьть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001813",
@@ -517,21 +373,7 @@
         "name": "diogenes-laertius",
         "reference": "I.36"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bogova"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "боговъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001815",
@@ -601,21 +443,7 @@
         "name": "diogenes-laertius",
         "reference": "I.36"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀρχή",
-          "text": "početka"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀρχή",
-          "text": "начѧла"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001820",
@@ -671,29 +499,7 @@
         "name": "diogenes-laertius",
         "reference": "I.37"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "prirodom"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "dušom"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "естествомъ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹшеѭ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001824",
@@ -721,21 +527,7 @@
         "name": "diogenes-laertius",
         "reference": "I.37"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "krasan"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "краси"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001826",
@@ -763,21 +555,7 @@
         "name": "diogenes-laertius",
         "reference": "I.37"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "reči"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словѹ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001828",
@@ -805,21 +583,7 @@
         "name": "diogenes-laertius",
         "reference": "I.24"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "duše"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹшы"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001830",
@@ -847,21 +611,7 @@
         "name": "diogenes-laertius",
         "reference": "I.24"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "dušu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹшѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001832",
@@ -875,29 +625,7 @@
         "name": "diogenes-laertius",
         "reference": "I.27"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀρχή",
-          "text": "počelo"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "Voda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀρχή",
-          "text": "Начѧло"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "вода"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001833",
@@ -911,29 +639,7 @@
         "name": "diogenes-laertius",
         "reference": "I.27"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δαίμων",
-          "text": "božanstava"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "Stroj"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δαίμων",
-          "text": "божьствъ"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "Строи"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001834",

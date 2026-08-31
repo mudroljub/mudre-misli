@@ -90,21 +90,7 @@
         "name": "hermann-diels",
         "reference": "80 B 1"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "govora"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слова"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001501",
@@ -118,21 +104,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.51"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "μέτρον",
-          "text": "mera"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "μέτρον",
-          "text": "мѣра"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001502",
@@ -146,21 +118,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.51"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "Duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "Дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001503",
@@ -192,29 +150,7 @@
         "name": "hermann-diels",
         "reference": "80 B 4"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bogovima"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "znati"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "бозѣхъ"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "вѣдѣти"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001505",
@@ -242,21 +178,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.53–54"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "govora"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слова"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001507",
@@ -451,21 +373,7 @@
         "name": "hermann-diels",
         "reference": "80 B 3"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "prirodna"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "природьно"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001520",
@@ -507,29 +415,7 @@
         "name": "hermann-diels",
         "reference": "80 B 9"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "ugled"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "znajući"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "славѣ"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "вѣды"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001523",
@@ -543,21 +429,7 @@
         "name": "hermann-diels",
         "reference": "80 B 10"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τέχνη",
-          "text": "umeća"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τέχνη",
-          "text": "хитрости"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001524",

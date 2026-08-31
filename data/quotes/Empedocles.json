@@ -104,21 +104,7 @@
         "name": "hermann-diels",
         "reference": "B.112"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bog"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "богъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000974",
@@ -132,21 +118,7 @@
         "name": "diogenes-laertius",
         "reference": "VIII.63"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "χρόνος",
-          "text": "doveka"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "χρόνος",
-          "text": "жити"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000976",
@@ -160,53 +132,7 @@
         "name": "diogenes-laertius",
         "reference": "VIII.76"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πῦρ",
-          "text": "oganj"
-        },
-        {
-          "tag": "στοιχεῖον",
-          "text": "sastojka"
-        },
-        {
-          "tag": "φιλία",
-          "text": "ljubav"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "voda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        },
-        {
-          "tag": "στοιχεῖον",
-          "text": "Състави"
-        },
-        {
-          "tag": "φιλία",
-          "text": "любꙑ"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "вода"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000977",
@@ -224,21 +150,7 @@
         "name": "hermann-diels",
         "reference": "B.6"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ζεύς",
-          "text": "vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ζεύς",
-          "text": "въздѹхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000979",
@@ -270,21 +182,7 @@
         "name": "diogenes-laertius",
         "reference": "VIII.77"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πῦρ",
-          "text": "ognja"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πῦρ",
-          "text": "огнѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000982",
@@ -298,21 +196,7 @@
         "name": "diogenes-laertius",
         "reference": "VIII.77"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "Duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "Дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000983",
@@ -555,21 +439,7 @@
         "reference": "B.8"
       }
     ],
-    "originalText": "ἄλλο δέ τοι ἐρέω· φύσις οὐδενός ἐστιν ἁπάντων θνητῶν, οὐδέ τις οὐλομένου θανάτοιο τελευτή, ἀλλὰ μόνον μίξις τε διάλλαξίς τε μιγέντων ἐστί, φύσις δ᾽ ἐπὶ τοῖς ὀνομάζεται ἀνθρώποισιν.",
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "smrtnih"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "смрьтныхъ"
-        }
-      ]
-    }
+    "originalText": "ἄλλο δέ τοι ἐρέω· φύσις οὐδενός ἐστιν ἁπάντων θνητῶν, οὐδέ τις οὐλομένου θανάτοιο τελευτή, ἀλλὰ μόνον μίξις τε διάλλαξίς τε μιγέντων ἐστί, φύσις δ᾽ ἐπὶ τοῖς ὀνομάζεται ἀνθρώποισιν."
   },
   {
     "id": "mm-000999",
@@ -583,21 +453,7 @@
         "name": "hermann-diels",
         "reference": "B.9"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "roda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "рода"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001000",
@@ -625,21 +481,7 @@
         "reference": "B.21"
       }
     ],
-    "originalText": "ἐξ ὧν πάνθ᾽ ὅσα τ᾽ ἦν ὅσα τ᾽ ἔστ᾽ ὅσα τ᾽ ἔσσετ᾽ ὀπίσσω, δένδρεά τ᾽ ἐβλάστησε καὶ ἀνέρες ἠδὲ γυναῖκες, θῆρές τ᾽ οἰωνοί τε καὶ ὑδατοθρέμμονες ἰχθῦς, καί τε θεοὶ δολιχαίωνες τιμῆισι φέριστοι.",
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bogovi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "бози"
-        }
-      ]
-    }
+    "originalText": "ἐξ ὧν πάνθ᾽ ὅσα τ᾽ ἦν ὅσα τ᾽ ἔστ᾽ ὅσα τ᾽ ἔσσετ᾽ ὀπίσσω, δένδρεά τ᾽ ἐβλάστησε καὶ ἀνέρες ἠδὲ γυναῖκες, θῆρές τ᾽ οἰωνοί τε καὶ ὑδατοθρέμμονες ἰχθῦς, καί τε θεοὶ δολιχαίωνες τιμῆισι φέριστοι."
   },
   {
     "id": "mm-001002",
@@ -653,29 +495,7 @@
         "name": "hermann-diels",
         "reference": "B.23"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bogove"
-        },
-        {
-          "tag": "τέχνη",
-          "text": "veštini"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "богꙑ"
-        },
-        {
-          "tag": "τέχνη",
-          "text": "ѹмѣнию"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001003",
@@ -731,21 +551,7 @@
         "name": "hermann-diels",
         "reference": "B.28"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἄπειρον",
-          "text": "beskrajan"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἄπειρον",
-          "text": "бескраинъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001007",
@@ -815,21 +621,7 @@
         "name": "hermann-diels",
         "reference": "B.89"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваѭть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001012",
@@ -857,21 +649,7 @@
         "name": "hermann-diels",
         "reference": "B.105"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νόημα",
-          "text": "poimanje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νόημα",
-          "text": "поимаѭть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001014",
@@ -885,37 +663,7 @@
         "reference": "B.109"
       }
     ],
-    "originalText": "γαίηι μὲν γὰρ γαῖαν ὀπώπαμεν, ὕδατι δ᾽ ὕδωρ, αἰθέρι δ᾽ αἰθέρα δῖον, ἀτὰρ πυρὶ πῦρ ἀΐδηλον, στοργὴν δὲ στοργῆι, νεῖκος δέ τε νείκεϊ λυγρῶι.",
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesjem"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "oganj"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "vodom"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьємь"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "водою"
-        }
-      ]
-    }
+    "originalText": "γαίηι μὲν γὰρ γαῖαν ὀπώπαμεν, ὕδατι δ᾽ ὕδωρ, αἰθέρι δ᾽ αἰθέρα δῖον, ἀτὰρ πυρὶ πῦρ ἀΐδηλον, στοργὴν δὲ στοργῆι, νεῖκος δέ τε νείκεϊ λυγρῶι."
   },
   {
     "id": "mm-001015",
@@ -929,21 +677,7 @@
         "reference": "B.110"
       }
     ],
-    "originalText": "πάντα γὰρ ἴσθι φρόνησιν ἔχειν καὶ νώματος αἶσαν.",
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φρόνησις",
-          "text": "razboritost"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φρόνησις",
-          "text": "разборьность"
-        }
-      ]
-    }
+    "originalText": "πάντα γὰρ ἴσθι φρόνησιν ἔχειν καὶ νώματος αἶσαν."
   },
   {
     "id": "mm-001016",
@@ -957,53 +691,7 @@
         "name": "hermann-diels",
         "reference": "B.115"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δαίμων",
-          "text": "duhovi"
-        },
-        {
-          "tag": "θεός",
-          "text": "bogova"
-        },
-        {
-          "tag": "χρόνος",
-          "text": "života"
-        },
-        {
-          "tag": "ἀΐδιος",
-          "text": "večna"
-        },
-        {
-          "tag": "ἀνάγκη",
-          "text": "nužde"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δαίμων",
-          "text": "божьствъ"
-        },
-        {
-          "tag": "θεός",
-          "text": "боговъ"
-        },
-        {
-          "tag": "χρόνος",
-          "text": "лѣтъ"
-        },
-        {
-          "tag": "ἀΐδιος",
-          "text": "вѣчьно"
-        },
-        {
-          "tag": "ἀνάγκη",
-          "text": "нѫждѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001017",
@@ -1031,29 +719,7 @@
         "name": "hermann-diels",
         "reference": "B.128"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ζεύς",
-          "text": "Zevsa"
-        },
-        {
-          "tag": "θεός",
-          "text": "boga"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ζεύς",
-          "text": "Зевса"
-        },
-        {
-          "tag": "θεός",
-          "text": "богомъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001019",
@@ -1081,29 +747,7 @@
         "name": "hermann-diels",
         "reference": "B.132"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "mnjenje"
-        },
-        {
-          "tag": "θεός",
-          "text": "bogatstvo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "мьнѣниє"
-        },
-        {
-          "tag": "θεός",
-          "text": "богатъство"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001021",
@@ -1131,21 +775,7 @@
         "name": "hermann-diels",
         "reference": "B.134"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κόσμος",
-          "text": "stroj"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κόσμος",
-          "text": "строи"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001023",
@@ -1159,21 +789,7 @@
         "name": "hermann-diels",
         "reference": "B.135"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001024",
@@ -1215,29 +831,7 @@
         "name": "hermann-diels",
         "reference": "B.146–147"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bogovi"
-        },
-        {
-          "tag": "τέλος",
-          "text": "kraju"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "бози"
-        },
-        {
-          "tag": "τέλος",
-          "text": "коньць"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001027",
@@ -1406,21 +1000,7 @@
         "name": "hermann-diels",
         "reference": "B.25"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "krasno"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "Красно"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001038",
@@ -1448,21 +1028,7 @@
         "name": "hermann-diels",
         "reference": "B.124"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "rode"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "роде"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001040",
@@ -1476,21 +1042,7 @@
         "name": "hermann-diels",
         "reference": "B.11"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "rodi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "родить"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001041",
@@ -1504,21 +1056,7 @@
         "name": "hermann-diels",
         "reference": "B.12"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "rodi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "родити сѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001042",
@@ -1602,21 +1140,7 @@
         "name": "hermann-diels",
         "reference": "B.52"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πῦρ",
-          "text": "ognji"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πῦρ",
-          "text": "огни"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001048",
@@ -1644,21 +1168,7 @@
         "name": "hermann-diels",
         "reference": "B.22"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "εἶδος",
-          "text": "načinio"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "εἶδος",
-          "text": "подобьна"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001050",
@@ -1700,21 +1210,7 @@
         "name": "hermann-diels",
         "reference": "B.114"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "οἶδα",
-          "text": "znam"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "οἶδα",
-          "text": "вѣмъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001053",
@@ -1756,21 +1252,7 @@
         "name": "hermann-diels",
         "reference": "B.37"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001058",
@@ -1784,45 +1266,7 @@
         "name": "hermann-diels",
         "reference": "B.38"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesje"
-        },
-        {
-          "tag": "γίγνομαι",
-          "text": "su"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "počela"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьє"
-        },
-        {
-          "tag": "γίγνομαι",
-          "text": "сѫть"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "начала"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001059",
@@ -1836,21 +1280,7 @@
         "name": "hermann-diels",
         "reference": "B.39"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001061",
@@ -1892,21 +1322,7 @@
         "name": "hermann-diels",
         "reference": "B.59"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δαίμων",
-          "text": "božanstvo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δαίμων",
-          "text": "божьство"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001067",
@@ -1920,29 +1336,7 @@
         "name": "hermann-diels",
         "reference": "B.71–72"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesja"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "vode"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьꙗ"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "воды"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001068",
@@ -1956,21 +1350,7 @@
         "name": "hermann-diels",
         "reference": "B.81"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ὕδωρ",
-          "text": "voda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ὕδωρ",
-          "text": "вода"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001069",
@@ -1984,21 +1364,7 @@
         "name": "hermann-diels",
         "reference": "B.82"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "nastaju"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бываѭть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001071",
@@ -2068,21 +1434,7 @@
         "name": "hermann-diels",
         "reference": "B.103"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "slučaja"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "слѹчаꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001077",
@@ -2152,21 +1504,7 @@
         "name": "hermann-diels",
         "reference": "B.62"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πῦρ",
-          "text": "oganj"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001084",
@@ -2180,21 +1518,7 @@
         "name": "hermann-diels",
         "reference": "B.73"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πῦρ",
-          "text": "ognju"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πῦρ",
-          "text": "огню"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001087",
@@ -2222,37 +1546,7 @@
         "name": "hermann-diels",
         "reference": "B.84"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πνεῦμα",
-          "text": "dah"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "oganj"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "vode"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πνεῦμα",
-          "text": "вѣтромъ"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "воды"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001090",
@@ -2280,21 +1574,7 @@
         "name": "hermann-diels",
         "reference": "B.98"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesjem"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьмь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001092",
@@ -2308,45 +1588,7 @@
         "name": "hermann-diels",
         "reference": "B.100"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesje"
-        },
-        {
-          "tag": "πνεῦμα",
-          "text": "vazduha"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduha"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "voda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьє"
-        },
-        {
-          "tag": "πνεῦμα",
-          "text": "небєсью"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "небєсью"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "вода"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001093",
@@ -2360,21 +1602,7 @@
         "name": "hermann-diels",
         "reference": "B.3"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bogovi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "бози"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001094",
@@ -2500,21 +1728,7 @@
         "name": "hermann-diels",
         "reference": "B.116"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀνάγκη",
-          "text": "nuždu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀνάγκη",
-          "text": "нѫждѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002171",
@@ -2528,21 +1742,7 @@
         "name": "hermann-diels",
         "reference": "B.63"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "Priroda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "Природа"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002177",
@@ -2626,21 +1826,7 @@
         "name": "hermann-diels",
         "reference": "B.51"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πῦρ",
-          "text": "oganj"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πῦρ",
-          "text": "огни"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002189",
@@ -2654,29 +1840,7 @@
         "name": "hermann-diels",
         "reference": "B.53"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "αἰθήρ",
-          "text": "nebesje"
-        },
-        {
-          "tag": "τύχη",
-          "text": "slučajno"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "αἰθήρ",
-          "text": "небєсьє"
-        },
-        {
-          "tag": "τύχη",
-          "text": "слѹчаино"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002195",
@@ -2690,21 +1854,7 @@
         "name": "hermann-diels",
         "reference": "B.148"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "smrtnike"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "смрьтънꙑѩ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002196",
@@ -2718,21 +1868,7 @@
         "name": "hermann-diels",
         "reference": "B.149"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002200",
@@ -2746,29 +1882,7 @@
         "name": "hermann-diels",
         "reference": "B.7"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "στοιχεῖον",
-          "text": "počela"
-        },
-        {
-          "tag": "ἀγένητος",
-          "text": "nerođenim"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "στοιχεῖον",
-          "text": "начѧла"
-        },
-        {
-          "tag": "ἀγένητος",
-          "text": "нерождена"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002202",
@@ -2782,37 +1896,7 @@
         "name": "hermann-diels",
         "reference": "B.18"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φιλία",
-          "text": "ljubavlju"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "počelo"
-        },
-        {
-          "tag": "ἁρμονία",
-          "text": "skladom"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φιλία",
-          "text": "дрѹжьбою"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "начѧло"
-        },
-        {
-          "tag": "ἁρμονία",
-          "text": "складомъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002203",

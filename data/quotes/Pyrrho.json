@@ -56,21 +56,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.61"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "εἶδος",
-          "text": "način"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "εἶδος",
-          "text": "видитъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001529",
@@ -84,37 +70,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.61"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "lepo"
-        },
-        {
-          "tag": "νόμος",
-          "text": "zakonu"
-        },
-        {
-          "tag": "ἀλήθεια",
-          "text": "istini"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "лѣпо"
-        },
-        {
-          "tag": "νόμος",
-          "text": "законѹ"
-        },
-        {
-          "tag": "ἀλήθεια",
-          "text": "істинѣ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001530",

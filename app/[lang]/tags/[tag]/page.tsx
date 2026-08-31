@@ -89,7 +89,6 @@ export default function TagPage({ params }: TagPageProps) {
               entry={entry}
               language={lang}
               showAuthor={true}
-              highlightTag={tag}
             />
           ))}
         </div>

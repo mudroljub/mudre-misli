@@ -172,21 +172,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.17"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "dobrih"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀγαθόν",
-          "text": "добрыихъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001964",
@@ -214,21 +200,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.18"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "Govorio"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "словеса"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001966",
@@ -582,37 +554,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.19"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κακόν",
-          "text": "loše"
-        },
-        {
-          "tag": "καλόν",
-          "text": "lepo"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "zna"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κακόν",
-          "text": "зло"
-        },
-        {
-          "tag": "καλόν",
-          "text": "красно"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "вѣдѣти"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001991",
@@ -626,21 +568,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.26"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "nastaje"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваеть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001992",
@@ -669,29 +597,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.24"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φιλόσοφος",
-          "text": "filozof"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φιλόσοφος",
-          "text": "любомѫдрьць"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001994",
@@ -720,21 +626,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.25"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "naziv"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слово"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001996",
@@ -792,29 +684,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.39–40"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "učenje"
-        },
-        {
-          "tag": "φιλοσοφία",
-          "text": "filozofsko"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слово"
-        },
-        {
-          "tag": "φιλοσοφία",
-          "text": "любомѫдрьско"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002000",
@@ -828,37 +698,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.87"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τέλος",
-          "text": "svrhu"
-        },
-        {
-          "tag": "φύσις",
-          "text": "priroda"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrlini"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τέλος",
-          "text": "съврьхѫ"
-        },
-        {
-          "tag": "φύσις",
-          "text": "естествѣ"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтели"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002001",
@@ -872,37 +712,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.110"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πάθος",
-          "text": "strast"
-        },
-        {
-          "tag": "φύσις",
-          "text": "protivprirodno"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duše"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πάθος",
-          "text": "страсть"
-        },
-        {
-          "tag": "φύσις",
-          "text": "естествѹ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹшѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002002",
@@ -916,29 +726,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.111"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πάθος",
-          "text": "strastima"
-        },
-        {
-          "tag": "φόβος",
-          "text": "strah"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πάθος",
-          "text": "страстьхъ"
-        },
-        {
-          "tag": "φόβος",
-          "text": "страхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002003",
@@ -969,21 +757,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.121"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πολιτεία",
-          "text": "državi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πολιτεία",
-          "text": "дрьжавѣ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002005",
@@ -1000,29 +774,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.127"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "εὐδαιμονία",
-          "text": "blaženost"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrlina"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "εὐδαιμονία",
-          "text": "блаженьствѹ"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтель"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002006",
@@ -1036,37 +788,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.129"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "εἶδος",
-          "text": "izgled"
-        },
-        {
-          "tag": "πολιτεία",
-          "text": "državi"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "vrlinu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "εἶδος",
-          "text": "видъ"
-        },
-        {
-          "tag": "πολιτεία",
-          "text": "дрьжавѣ"
-        },
-        {
-          "tag": "ἀρετή",
-          "text": "добродѣтели"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002007",
@@ -1080,53 +802,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.134"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "slovo"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "suštastvo"
-        },
-        {
-          "tag": "ἀΐδιος",
-          "text": "večan"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "počela"
-        },
-        {
-          "tag": "ὕλη",
-          "text": "tvar"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слово"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "сѫштьствѣ"
-        },
-        {
-          "tag": "ἀΐδιος",
-          "text": "вѣчьнъ"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "начѧлѣ"
-        },
-        {
-          "tag": "ὕλη",
-          "text": "тварь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002008",
@@ -1140,125 +816,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.136"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γένεσις",
-          "text": "nastanak"
-        },
-        {
-          "tag": "εἱμαρμένη",
-          "text": "sudbina"
-        },
-        {
-          "tag": "ζεύς",
-          "text": "Zevs"
-        },
-        {
-          "tag": "θεός",
-          "text": "bog"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "sveta"
-        },
-        {
-          "tag": "λόγος",
-          "text": "slovo"
-        },
-        {
-          "tag": "νοῦς",
-          "text": "um"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "suštastvo"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "oganj"
-        },
-        {
-          "tag": "στοιχεῖον",
-          "text": "sastojka"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduha"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "početku"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "vodu"
-        },
-        {
-          "tag": "ὕλη",
-          "text": "pretvara"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γένεσις",
-          "text": "рождению"
-        },
-        {
-          "tag": "εἱμαρμένη",
-          "text": "сѫдьба"
-        },
-        {
-          "tag": "ζεύς",
-          "text": "Зевсъ"
-        },
-        {
-          "tag": "θεός",
-          "text": "богъ"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "мира"
-        },
-        {
-          "tag": "λόγος",
-          "text": "слово"
-        },
-        {
-          "tag": "νοῦς",
-          "text": "ѹмъ"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "сѫштьство"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        },
-        {
-          "tag": "στοιχεῖον",
-          "text": "съставꙑ"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "началѣ"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "водѫ"
-        },
-        {
-          "tag": "ὕλη",
-          "text": "тварь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002009",
@@ -1272,69 +830,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.142"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γένεσις",
-          "text": "nastanku"
-        },
-        {
-          "tag": "γίγνομαι",
-          "text": "rodi"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "svet"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "suštastvo"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "oganj"
-        },
-        {
-          "tag": "φθορά",
-          "text": "propadanju"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduha"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γένεσις",
-          "text": "рождении"
-        },
-        {
-          "tag": "γίγνομαι",
-          "text": "роди"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "миръ"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "сѫштьство"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        },
-        {
-          "tag": "φθορά",
-          "text": "погибели"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002010",
@@ -1376,37 +872,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.148"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "boga"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "stroj"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "suštastvo"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "бога"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "строи"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "сѫштьство"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002013",
@@ -1420,53 +886,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.149"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "biva"
-        },
-        {
-          "tag": "εἱμαρμένη",
-          "text": "sudbini"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "stroj"
-        },
-        {
-          "tag": "λόγος",
-          "text": "slovo"
-        },
-        {
-          "tag": "τὰ ὄντα",
-          "text": "postoji"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваѭть"
-        },
-        {
-          "tag": "εἱμαρμένη",
-          "text": "сѫдьбѣ"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "строи"
-        },
-        {
-          "tag": "λόγος",
-          "text": "слово"
-        },
-        {
-          "tag": "τὰ ὄντα",
-          "text": "сѫштихъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002014",
@@ -1480,21 +900,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.149"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τέχνη",
-          "text": "umećem"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τέχνη",
-          "text": "умѣниѥмь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002015",
@@ -1508,45 +914,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.150"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "su"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "suštastvom"
-        },
-        {
-          "tag": "τὰ ὄντα",
-          "text": "suštastvom"
-        },
-        {
-          "tag": "ὕλη",
-          "text": "tvar"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "пръвобꙑтнѫѭ"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "тварь"
-        },
-        {
-          "tag": "τὰ ὄντα",
-          "text": "сѫштьствомъ"
-        },
-        {
-          "tag": "ὕλη",
-          "text": "тварь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002016",
@@ -1560,21 +928,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.153"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πνεῦμα",
-          "text": "vetra"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πνεῦμα",
-          "text": "вѣтра"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002017",
@@ -1588,29 +942,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.157"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πνεῦμα",
-          "text": "dahom"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duši"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πνεῦμα",
-          "text": "дѹхъ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹши"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002018",
@@ -1624,21 +956,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.20"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φιλόσοφος",
-          "text": "filozofa"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φιλόσοφος",
-          "text": "любомѫдрьць"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002019",
@@ -1680,21 +998,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.21"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "καλόν",
-          "text": "lep"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "καλόν",
-          "text": "Красномѹ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002022",
@@ -1708,21 +1012,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.21"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φιλόσοφος",
-          "text": "filozofi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φιλόσοφος",
-          "text": "любомѫдрьци"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002023",
@@ -1779,21 +1069,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.22"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νοῦς",
-          "text": "um"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νοῦς",
-          "text": "ѹмъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002027",
@@ -1807,21 +1083,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.22"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "σχῆμα",
-          "text": "držanju"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "σχῆμα",
-          "text": "образѣ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002028",
@@ -1835,21 +1097,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.23"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἐπιστήμη",
-          "text": "znanja"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἐπιστήμη",
-          "text": "знаниꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002029",
@@ -1863,21 +1111,7 @@
         "name": "diogenes-laertius",
         "reference": "VII.23"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "χρόνος",
-          "text": "vreme"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "χρόνος",
-          "text": "врѣмѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-002031",

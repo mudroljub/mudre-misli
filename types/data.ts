@@ -48,19 +48,6 @@ export interface TextVariant {
   note?: string
 }
 
-export interface TermAnnotation {
-  /** Canonical Greek tag from data/greek-terms.json. */
-  tag: string
-
-  /** Exact translated text to highlight. */
-  text: string
-
-  /** One-based occurrence when the same text appears more than once. */
-  occurrence?: number
-}
-
-export type TermAnnotations = Partial<Record<Language, TermAnnotation[]>>
-
 /**
  * Common fields shared by all entries.
  */
@@ -98,8 +85,6 @@ interface BaseEntry {
   /** Philosophical terms detected in originalText (Greek terms in nominative form) */
   tags?: string[]
 
-  /** Explicit locations of translated philosophical terms. */
-  termAnnotations?: TermAnnotations
 }
 
 /**

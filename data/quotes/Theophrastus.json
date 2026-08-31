@@ -71,21 +71,7 @@
         "name": "diogenes-laertius",
         "reference": "V.39"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "λόγος",
-          "text": "besedu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "λόγος",
-          "text": "слово"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001841",
@@ -114,37 +100,7 @@
         "name": "diogenes-laertius",
         "reference": "V.41"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "slave"
-        },
-        {
-          "tag": "κενόν",
-          "text": "praznog"
-        },
-        {
-          "tag": "λόγος",
-          "text": "nauku"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "славы"
-        },
-        {
-          "tag": "κενόν",
-          "text": "праздьнаго"
-        },
-        {
-          "tag": "λόγος",
-          "text": "ѹченикы"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001843",
@@ -247,21 +203,7 @@
         "name": "diogenes-laertius",
         "reference": "V.40"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "χρόνος",
-          "text": "Vreme"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "χρόνος",
-          "text": "Врѣмѧ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001850",

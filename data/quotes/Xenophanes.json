@@ -114,21 +114,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.19"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "οἶδα",
-          "text": "umem"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "οἶδα",
-          "text": "вѣмь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001904",
@@ -142,37 +128,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.19"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κόσμος",
-          "text": "strojevi"
-        },
-        {
-          "tag": "στοιχεῖον",
-          "text": "sastojka"
-        },
-        {
-          "tag": "τὰ ὄντα",
-          "text": "suštih"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κόσμος",
-          "text": "строи"
-        },
-        {
-          "tag": "στοιχεῖον",
-          "text": "съставы"
-        },
-        {
-          "tag": "τὰ ὄντα",
-          "text": "сѫщихъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001905",
@@ -200,53 +156,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.19"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "božje"
-        },
-        {
-          "tag": "νοῦς",
-          "text": "um"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "suštastvo"
-        },
-        {
-          "tag": "φρόνησις",
-          "text": "razboritost"
-        },
-        {
-          "tag": "ἀΐδιος",
-          "text": "večno"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "божиє"
-        },
-        {
-          "tag": "νοῦς",
-          "text": "ѹмъ"
-        },
-        {
-          "tag": "οὐσία",
-          "text": "сѫщьство"
-        },
-        {
-          "tag": "φρόνησις",
-          "text": "разборьность"
-        },
-        {
-          "tag": "ἀΐδιος",
-          "text": "вѣчьно"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001907",
@@ -260,21 +170,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.19"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "раждаѭштеє"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001908",
@@ -288,29 +184,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.19"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "πνεῦμα",
-          "text": "dah"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "πνεῦμα",
-          "text": "дъхъ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001909",
@@ -324,21 +198,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.20"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "νοῦς",
-          "text": "uma"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "νοῦς",
-          "text": "ѹма"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001910",
@@ -366,21 +226,7 @@
         "name": "diogenes-laertius",
         "reference": "IX.72"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "οἶδα",
-          "text": "zna"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "οἶδα",
-          "text": "вѣдыи"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001912",

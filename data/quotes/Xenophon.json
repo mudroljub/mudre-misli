@@ -131,37 +131,7 @@
         "name": "diogenes-laertius",
         "reference": "II.49"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        },
-        {
-          "tag": "καλόν",
-          "text": "lepe"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "vidim"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "єсть"
-        },
-        {
-          "tag": "καλόν",
-          "text": "красна"
-        },
-        {
-          "tag": "οἶδα",
-          "text": "ненавиждꙫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-001928",

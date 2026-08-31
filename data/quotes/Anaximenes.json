@@ -92,46 +92,20 @@
   {
     "id": "mm-000141",
     "type": "reported",
-    "sr": "Rekao je da je počelo vazduh, i to beskrajan.",
-    "stsl": "Начѧломъ бескраинъ въздѹхъ положи ·",
-    "originalText": "οὗτος ἀρχὴν ἀέρα εἶπε καὶ τὸ ἄπειρον.",
+    "sr": "Govoraše da je vazduh, beskonačan, počelo, iz koga sadašnje, prošlo i buduće, bogovi i božansko nastaju.",
+    "stsl": "Глаголааше ꙗко въздѹхъ бесъкраинъ начѧло естъ · отъ негоже и сѫщаѧ и бꙑвъшаꙗ и бѫдѫштаꙗ и бози и божьскаꙗ бꙑваѭтъ",
+    "originalText": "ἀέρα ἄπειρον ἔφη τὴν ἀρχὴν εἶναι, ἐξ οὗ τὰ γινόμενα καὶ τὰ γεγονότα καὶ τὰ ἐσόμενα καὶ θεοὺς καὶ θεῖα γίνεσθαι.",
     "author": "Anaximenes",
     "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "13 A 7"
+      },
       {
         "name": "diogenes-laertius",
         "reference": "II.3"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "počelo"
-        },
-        {
-          "tag": "ἄπειρον",
-          "text": "beskrajan"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "Начѧломъ"
-        },
-        {
-          "tag": "ἄπειρον",
-          "text": "бескраинъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000142",
@@ -159,37 +133,7 @@
         "name": "hermann-diels",
         "reference": "13 A 5"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "οὐσία",
-          "text": "priroda"
-        },
-        {
-          "tag": "φύσις",
-          "text": "priroda"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "οὐσία",
-          "text": "природа"
-        },
-        {
-          "tag": "φύσις",
-          "text": "природа"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000144",
@@ -207,37 +151,7 @@
         "name": "hermann-diels",
         "reference": "13 A 7"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "postaje"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "vatra"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "voda"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бываєть"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "вода"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000145",
@@ -251,29 +165,7 @@
         "name": "hermann-diels",
         "reference": "13 A 5"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        },
-        {
-          "tag": "ἀΐδιος",
-          "text": "večno"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "єсть"
-        },
-        {
-          "tag": "ἀΐδιος",
-          "text": "вѣчьно"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000146",
@@ -287,89 +179,7 @@
         "name": "hermann-diels",
         "reference": "13 A 7"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "εἶδος",
-          "text": "vidljiv"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "Vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "εἶδος",
-          "text": "невидимъ"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "Въздѹхъ"
-        }
-      ]
-    }
-  },
-  {
-    "id": "mm-000147",
-    "type": "reported",
-    "sr": "Govoraše da je vazduh, beskonačan, počelo, iz koga sadašnje, prošlo i buduće, bogovi i božansko nastaju.",
-    "stsl": "Глаголааше ꙗко въздѹхъ бесъкраинъ начѧло естъ · отъ негоже и сѫщаѧ и бꙑвъшаꙗ и бѫдѫштаꙗ и бози и божьскаꙗ бꙑваѭтъ",
-    "originalText": "ἀέρα ἄπειρον ἔφη τὴν ἀρχὴν εἶναι, ἐξ οὗ τὰ γινόμενα καὶ τὰ γεγονότα καὶ τὰ ἐσόμενα καὶ θεοὺς καὶ θεῖα γίνεσθαι.",
-    "author": "Anaximenes",
-    "sources": [
-      {
-        "name": "hermann-diels",
-        "reference": "13 A 7"
-      }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        },
-        {
-          "tag": "θεός",
-          "text": "bogovi"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "počelo"
-        },
-        {
-          "tag": "ἄπειρον",
-          "text": "beskonačan"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваѭтъ"
-        },
-        {
-          "tag": "θεός",
-          "text": "бози"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        },
-        {
-          "tag": "ἀρχή",
-          "text": "начѧло"
-        },
-        {
-          "tag": "ἄπειρον",
-          "text": "бесъкраинъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000148",
@@ -383,29 +193,7 @@
         "name": "hermann-diels",
         "reference": "13 A 10"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "θεός",
-          "text": "bog"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "θεός",
-          "text": "богъ"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000149",
@@ -419,37 +207,7 @@
         "name": "hermann-diels",
         "reference": "13 A 11"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "biva"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "stroj"
-        },
-        {
-          "tag": "χρόνος",
-          "text": "vremena"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "раждаѥтъ"
-        },
-        {
-          "tag": "κόσμος",
-          "text": "Строи"
-        },
-        {
-          "tag": "χρόνος",
-          "text": "врѣмѧнъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000150",
@@ -467,21 +225,7 @@
         "name": "hermann-diels",
         "reference": "13 A 20"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀήρ",
-          "text": "vazduhu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹсѣ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000151",
@@ -495,21 +239,7 @@
         "name": "hermann-diels",
         "reference": "13 A 20"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000152",
@@ -527,29 +257,7 @@
         "name": "hermann-diels",
         "reference": "13 A 7"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "nastali"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "vatra"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваєть"
-        },
-        {
-          "tag": "πῦρ",
-          "text": "огнь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000153",
@@ -567,21 +275,7 @@
         "name": "hermann-diels",
         "reference": "13 A 14"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φύσις",
-          "text": "tela"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φύσις",
-          "text": "земьна"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000154",
@@ -609,21 +303,7 @@
         "name": "hermann-diels",
         "reference": "13 A 15"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹха"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000156",
@@ -655,37 +335,7 @@
         "name": "hermann-diels",
         "reference": "13 A 17"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "nastaje"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "kiša"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бываєть"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "дъждь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000158",
@@ -703,29 +353,7 @@
         "name": "hermann-diels",
         "reference": "13 A 17"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "nastaje"
-        },
-        {
-          "tag": "πνεῦμα",
-          "text": "vetrovi"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваєть"
-        },
-        {
-          "tag": "πνεῦμα",
-          "text": "вѣтри"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000159",
@@ -739,29 +367,7 @@
         "name": "hermann-diels",
         "reference": "13 A 18"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бываєть"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000160",
@@ -775,37 +381,7 @@
         "name": "hermann-diels",
         "reference": "13 A 19"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduha"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "vode"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваѭть"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹха"
-        },
-        {
-          "tag": "ὕδωρ",
-          "text": "водꙑ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000161",
@@ -819,21 +395,7 @@
         "name": "hermann-diels",
         "reference": "13 A 21"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "γίγνομαι",
-          "text": "je"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "γίγνομαι",
-          "text": "бꙑваѭть"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000162",
@@ -847,21 +409,7 @@
         "name": "hermann-diels",
         "reference": "13 A 22"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ἀήρ",
-          "text": "vazduhom"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхомъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000163",
@@ -875,21 +423,7 @@
         "name": "hermann-diels",
         "reference": "13 A 23"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "ψυχή",
-          "text": "dušu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "ψυχή",
-          "text": "дѹшѫ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000164",
@@ -917,45 +451,7 @@
         "name": "hermann-diels",
         "reference": "13 B 2"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "κόσμος",
-          "text": "mir"
-        },
-        {
-          "tag": "πνεῦμα",
-          "text": "vazduh"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "duša"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "vazduh"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "κόσμος",
-          "text": "міръ"
-        },
-        {
-          "tag": "πνεῦμα",
-          "text": "въздѹхъ"
-        },
-        {
-          "tag": "ψυχή",
-          "text": "дѹша"
-        },
-        {
-          "tag": "ἀήρ",
-          "text": "въздѹхъ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000166",

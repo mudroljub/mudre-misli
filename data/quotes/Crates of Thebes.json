@@ -41,21 +41,7 @@
         "name": "diogenes-laertius",
         "reference": "VI.85"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "δόξα",
-          "text": "taštine"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "δόξα",
-          "text": "славꙑ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000548",
@@ -97,21 +83,7 @@
         "name": "diogenes-laertius",
         "reference": "VI.86"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "φιλοσοφία",
-          "text": "filozofije"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "φιλοσοφία",
-          "text": "любомѫдриꙗ"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000551",
@@ -125,29 +97,7 @@
         "name": "diogenes-laertius",
         "reference": "VI.86"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "χρόνος",
-          "text": "vreme"
-        },
-        {
-          "tag": "ἔρως",
-          "text": "Ljubavnu"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "χρόνος",
-          "text": "врѣмѧ"
-        },
-        {
-          "tag": "ἔρως",
-          "text": "любъвь"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000552",
@@ -277,21 +227,7 @@
         "name": "diogenes-laertius",
         "reference": "VI.93"
       }
-    ],
-    "termAnnotations": {
-      "sr": [
-        {
-          "tag": "τύχη",
-          "text": "slučaj"
-        }
-      ],
-      "stsl": [
-        {
-          "tag": "τύχη",
-          "text": "слѹчаи"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mm-000561",
