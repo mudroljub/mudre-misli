@@ -14,20 +14,15 @@ latinski tekst, stari španski prevod i naučni aparat.
 
 - `BLV_177_...pdf` — izvorno izdanje;
 - `ocr/` — neizmenjeni Internet Archive DjVu XML i podaci o stranicama;
-- `latin_raw/` — izdvojeni tekstovi pojedinih ličnosti, uz minimalno čišćenje;
 - `chapters/` — detaljnije obrađena poglavlja o petorici mudraca;
 - `chapters-generated/` — ponovljivo generisani radni OCR latinskih poglavlja;
 - `metadata.json` — bibliografski podaci;
 - `philosophers_index.json` — sažet, mašinski čitljiv pregled slojeva;
 - [`../INDEX_BURLEY.md`](../INDEX_BURLEY.md) — operativni pregled obrade.
 
-Broj izdvojenih tekstova ne zapisuje se ručno u ovom dokumentu. Merodavno je
-stvarno stanje direktorijuma `latin_raw/`, a sažetak se čuva u
-`philosophers_index.json`.
-
 ## Napomena o upotrebi
 
-Tekstovi u `latin_raw/` predstavljaju radne ekstrakcije iz složenog izdanja.
+Tekstovi u `chapters-generated/` predstavljaju radni OCR složenog izdanja.
 Pre unošenja u `data/quotes/` potrebno je proveriti granice odlomka, latinski
 tekst i da li Burley navodi neki stariji izvor ili govori u svoje ime.
 
@@ -56,4 +51,4 @@ naslovima `Cap.` koje je OCR prepoznao. Svaki generisani odeljak sadrži oznaku
 štampane strane. Kritički aparat odvaja se prema samostalnom znaku `*` kojim
 je slog izdanja razgraničen na svakoj strani. Generisani tekst nije kritički
 prepis: OCR greške i granicu aparata treba proveriti prema faksimilu pre
-citiranja. Ručno uređeni `chapters/` i postojeći `latin_raw/` ne prepisuju se.
+citiranja. Ručno uređeni `chapters/` se ne prepisuju.

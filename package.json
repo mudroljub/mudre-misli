@@ -20,6 +20,7 @@
     "build:data": "npm-run-all --parallel build:quotes build:work-data",
     "build:sources": "node tools/build-source-map.mjs",
     "build:source:burley": "node tools/build-walter-burley-source.mjs",
+    "build:source:suda": "node tools/build-suda-index.mjs",
     "build:catalog:philosophers": "node tools/build-philosopher-catalog.mjs",
     "audit:duplicates": "node tools/audit-duplicates.mjs",
     "audit:work-anchors": "node tools/audit-work-anchors.mjs",

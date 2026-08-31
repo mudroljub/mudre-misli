@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T18:53:03.159Z",
+  "generatedAt": "2026-08-31T19:38:10.723Z",
   "catalog": [
     {
       "name": "Ablabije",
@@ -62,11 +62,26 @@
       "projectAuthor": null
     },
     {
+      "name": "Aleksandar Veliki",
+      "sources": [
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Aleksandar",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Alkibijad",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXIV",
           "href": "walter-burley/chapters-generated/034_alkibijad.md",
@@ -101,11 +116,26 @@
       "projectAuthor": null
     },
     {
+      "name": "Anaharsid",
+      "sources": [
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "1.A.2130",
+          "href": "suda/lives/1_A_2130.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Anaharsis",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "X",
           "href": "walter-burley/chapters-generated/010_anaharsis.md",
@@ -129,7 +159,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XVIII",
           "href": "walter-burley/chapters-generated/018_anaksagora.md",
@@ -153,6 +183,24 @@
           "href": "hermann-diels/philosophers/46-Anaxagoras.txt",
           "kind": "biographical testimonia",
           "entries": 31
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.1.2",
+          "href": "john-of-wales/hocr/page-0466.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "1.A.1981",
+          "href": "suda/lives/1_A_1981.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Anaxagoras"
@@ -162,7 +210,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXVII",
           "href": "walter-burley/chapters-generated/067_anaksarh.md",
@@ -186,7 +234,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "IX",
           "href": "walter-burley/chapters-generated/009_anaksimandar.md",
@@ -201,6 +249,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 13
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "1.A.1986",
+          "href": "suda/lives/1_A_1986.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Anaximander"
@@ -210,7 +267,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XVI",
           "href": "walter-burley/chapters-generated/016_anaksimen-iz-mileta.md",
@@ -234,6 +291,15 @@
           "href": "hermann-diels/philosophers/03-Anaximenes.txt",
           "kind": "biographical testimonia",
           "entries": 30
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "1.A.1988",
+          "href": "suda/lives/1_A_1988.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Anaximenes"
@@ -243,7 +309,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXIII",
           "href": "walter-burley/chapters-generated/063_anaksimen-iz-lampsaka.md",
@@ -284,30 +350,6 @@
       "projectAuthor": null
     },
     {
-      "name": "Antipatar",
-      "sources": [
-        {
-          "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "LXXI",
-          "href": "walter-burley/chapters-generated/071_antipatar.md",
-          "kind": "biography",
-          "entries": 0
-        },
-        {
-          "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "XCVIII",
-          "href": "walter-burley/chapters-generated/098_antipatar.md",
-          "kind": "biography",
-          "entries": 0
-        }
-      ],
-      "projectAuthor": null
-    },
-    {
       "name": "Antipatar iz Hijerapolja",
       "sources": [
         {
@@ -323,11 +365,41 @@
       "projectAuthor": null
     },
     {
+      "name": "Antipatar iz Sidona",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXI",
+          "href": "walter-burley/chapters-generated/071_antipatar-iz-sidona.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Antipatar iz Tarsa",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCVIII",
+          "href": "walter-burley/chapters-generated/098_antipatar-iz-tarsa.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Antisten",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXIII",
           "href": "walter-burley/chapters-generated/033_antisten.md",
@@ -342,6 +414,24 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 79
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.2.1",
+          "href": "john-of-wales/hocr/page-0466.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "1.A.2723",
+          "href": "suda/lives/1_A_2723.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Antisthenes"
@@ -351,7 +441,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXIII",
           "href": "walter-burley/chapters-generated/123_apolonije.md",
@@ -396,10 +486,19 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LVIII",
           "href": "walter-burley/chapters-generated/058_apulej.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.4, Platonovi učenici",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
           "kind": "biography",
           "entries": 0
         }
@@ -411,7 +510,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLIII",
           "href": "walter-burley/chapters-generated/043_arat.md",
@@ -441,7 +540,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXI",
           "href": "walter-burley/chapters-generated/021_arhiloh.md",
@@ -456,7 +555,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXIV",
           "href": "walter-burley/chapters-generated/074_arhimed.md",
@@ -471,7 +570,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXIII",
           "href": "walter-burley/chapters-generated/023_arhita.md",
@@ -504,7 +603,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXII",
           "href": "walter-burley/chapters-generated/082_aristarh-iz-samotrake.md",
@@ -519,7 +618,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLI",
           "href": "walter-burley/chapters-generated/041_aristid.md",
@@ -543,7 +642,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXI",
           "href": "walter-burley/chapters-generated/031_aristip.md",
@@ -558,6 +657,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 66
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "1.A.3909",
+          "href": "suda/lives/1_A_3909.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Aristippus"
@@ -597,7 +705,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LIII",
           "href": "walter-burley/chapters-generated/053_aristotel.md",
@@ -612,6 +720,33 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 40
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.5",
+          "href": "john-of-wales/hocr/page-0467.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Aristotel",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "1.A.3929",
+          "href": "suda/lives/1_A_3929.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Aristotle"
@@ -621,7 +756,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXII",
           "href": "walter-burley/chapters-generated/072_arkesilaj.md",
@@ -634,6 +769,21 @@
           "index": "INDEX_LEARTIJE.md",
           "reference": null,
           "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Asklepije",
+      "sources": [
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Adab Asklepios",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -660,7 +810,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXIII",
           "href": "walter-burley/chapters-generated/113_atenodor.md",
@@ -684,7 +834,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "V",
           "href": "walter-burley/chapters-generated/005_bijant.md",
@@ -719,16 +869,40 @@
       "projectAuthor": null
     },
     {
+      "name": "Boetije",
+      "sources": [
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.17",
+          "href": "john-of-wales/hocr/page-0469.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Ciceron",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XCV",
           "href": "walter-burley/chapters-generated/095_ciceron.md",
           "kind": "biography",
           "entries": 9
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.15",
+          "href": "john-of-wales/hocr/page-0469.hocr.html",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Cicero"
@@ -753,7 +927,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXII",
           "href": "walter-burley/chapters-generated/062_demad.md",
@@ -783,7 +957,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLIV",
           "href": "walter-burley/chapters-generated/044_demokrit.md",
@@ -798,6 +972,24 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 32
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.4",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "2.Δ.447",
+          "href": "suda/lives/2_Δ_447.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Democritus"
@@ -807,10 +999,19 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXVII",
           "href": "walter-burley/chapters-generated/037_demosten.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.2",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
           "kind": "biography",
           "entries": 0
         }
@@ -833,23 +1034,29 @@
       "projectAuthor": null
     },
     {
-      "name": "Diodor",
+      "name": "Diodor Kron",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXIX",
-          "href": "walter-burley/chapters-generated/069_diodor.md",
+          "href": "walter-burley/chapters-generated/069_diodor-kron.md",
           "kind": "biography",
           "entries": 0
-        },
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Diodor Sicilijski",
+      "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XCII",
-          "href": "walter-burley/chapters-generated/092_diodor.md",
+          "href": "walter-burley/chapters-generated/092_diodor-sicilijski.md",
           "kind": "biography",
           "entries": 0
         }
@@ -865,30 +1072,6 @@
           "index": "INDEX_EUNAPIJE.md",
           "reference": "#DIOPHANTUS",
           "href": "eunapius/vitae-sophistarum.en.html#DIOPHANTUS",
-          "kind": "biography",
-          "entries": 0
-        }
-      ],
-      "projectAuthor": null
-    },
-    {
-      "name": "Diogen",
-      "sources": [
-        {
-          "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "L",
-          "href": "walter-burley/chapters-generated/050_diogen.md",
-          "kind": "biography",
-          "entries": 0
-        },
-        {
-          "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "XCVII",
-          "href": "walter-burley/chapters-generated/097_diogen.md",
           "kind": "biography",
           "entries": 0
         }
@@ -923,6 +1106,15 @@
       "name": "Diogen iz Sinope",
       "sources": [
         {
+          "source": "walter-burley",
+          "sourceLabel": "Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "L",
+          "href": "walter-burley/chapters-generated/050_diogen-iz-sinope.md",
+          "kind": "biography",
+          "entries": 8
+        },
+        {
           "source": "diogenes-laertius",
           "sourceLabel": "Diogen Laertije",
           "index": "INDEX_LEARTIJE.md",
@@ -930,9 +1122,51 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 131
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.2.2",
+          "href": "john-of-wales/hocr/page-0466.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Diogen; mudrosti i pouke",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "2.Δ.1143",
+          "href": "suda/lives/2_Δ_1143.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Diogenes"
+    },
+    {
+      "name": "Diogen iz Vavilona",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "XCVII",
+          "href": "walter-burley/chapters-generated/097_diogen-iz-vavilona.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
     },
     {
       "name": "Dion iz Pruse",
@@ -999,7 +1233,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLVIII",
           "href": "walter-burley/chapters-generated/048_empedokle.md",
@@ -1023,6 +1257,15 @@
           "href": "hermann-diels/philosophers/21-Empedocles.txt",
           "kind": "biographical testimonia",
           "entries": 100
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "2.E.1002",
+          "href": "suda/lives/2_E_1002.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Empedocles"
@@ -1032,7 +1275,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXI",
           "href": "walter-burley/chapters-generated/081_enije.md",
@@ -1086,7 +1329,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXIV",
           "href": "walter-burley/chapters-generated/064_epikur.md",
@@ -1101,6 +1344,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 17
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "2.E.2404",
+          "href": "suda/lives/2_E_2404.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Epicurus"
@@ -1110,7 +1362,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XII",
           "href": "walter-burley/chapters-generated/012_epimenid.md",
@@ -1134,7 +1386,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXIII",
           "href": "walter-burley/chapters-generated/073_erasistrat.md",
@@ -1149,7 +1401,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LVI",
           "href": "walter-burley/chapters-generated/056_eshil.md",
@@ -1164,7 +1416,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXV",
           "href": "walter-burley/chapters-generated/035_eshin.md",
@@ -1197,7 +1449,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLII",
           "href": "walter-burley/chapters-generated/042_eudoks.md",
@@ -1251,7 +1503,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXVI",
           "href": "walter-burley/chapters-generated/036_euripid.md",
@@ -1260,7 +1512,7 @@
         },
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLVI",
           "href": "walter-burley/chapters-generated/046_euripid-ponovljen-u-registru.md",
@@ -1305,7 +1557,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXIV",
           "href": "walter-burley/chapters-generated/024_ezop.md",
@@ -1326,6 +1578,15 @@
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
           "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.12",
+          "href": "john-of-wales/hocr/page-0469.hocr.html",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": null
@@ -1335,7 +1596,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LV",
           "href": "walter-burley/chapters-generated/055_fedon.md",
@@ -1348,6 +1609,15 @@
           "index": "INDEX_LEARTIJE.md",
           "reference": null,
           "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.4, Platonovi učenici",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
           "kind": "biography",
           "entries": 0
         }
@@ -1374,7 +1644,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XIII",
           "href": "walter-burley/chapters-generated/013_ferekid.md",
@@ -1413,7 +1683,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXVII",
           "href": "walter-burley/chapters-generated/077_filemon.md",
@@ -1482,7 +1752,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CIX",
           "href": "walter-burley/chapters-generated/109_gal.md",
@@ -1497,10 +1767,19 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXVI",
           "href": "walter-burley/chapters-generated/126_galen.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Galen; pouke i mudrosti",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -1527,7 +1806,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXVI",
           "href": "walter-burley/chapters-generated/026_gorgija.md",
@@ -1542,16 +1821,49 @@
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
           "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.4, Platonovi učenici",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "1.Γ.388",
+          "href": "suda/lives/1_Γ_388.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Gorgias"
+    },
+    {
+      "name": "Grigorije",
+      "sources": [
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Adab Grigorije",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
     },
     {
       "name": "Hegesija",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXX",
           "href": "walter-burley/chapters-generated/080_hegesija.md",
@@ -1566,7 +1878,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XC",
           "href": "walter-burley/chapters-generated/090_hekaton.md",
@@ -1626,7 +1938,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLVII",
           "href": "walter-burley/chapters-generated/047_heraklit.md",
@@ -1670,11 +1982,26 @@
       "projectAuthor": null
     },
     {
+      "name": "Hermes",
+      "sources": [
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Hikma Hermes; Mukhtar mawa'iz Hermes",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Hermes Trismegist",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LX",
           "href": "walter-burley/chapters-generated/060_hermes-trismegist.md",
@@ -1734,7 +2061,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "III",
           "href": "walter-burley/chapters-generated/003_hilon.md",
@@ -1749,6 +2076,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 42
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.14",
+          "href": "john-of-wales/hocr/page-0469.hocr.html",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Chilon of Sparta"
@@ -1833,10 +2169,28 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLV",
           "href": "walter-burley/chapters-generated/045_hipokrat.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.5",
+          "href": "john-of-wales/hocr/page-0469.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Hipokrat",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -1863,7 +2217,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XIV",
           "href": "walter-burley/chapters-generated/014_homer.md",
@@ -1878,7 +2232,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CX",
           "href": "walter-burley/chapters-generated/110_horacije.md",
@@ -1923,7 +2277,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXIX",
           "href": "walter-burley/chapters-generated/029_hrisip.md",
@@ -1977,7 +2331,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXVII",
           "href": "walter-burley/chapters-generated/027_isokrat.md",
@@ -1990,6 +2344,15 @@
           "index": "INDEX_FILOSTRAT.md",
           "reference": "1.17",
           "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.3",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
           "kind": "biography",
           "entries": 0
         }
@@ -2031,7 +2394,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CV",
           "href": "walter-burley/chapters-generated/105_julije.md",
@@ -2046,7 +2409,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXVIII",
           "href": "walter-burley/chapters-generated/128_justin.md",
@@ -2061,7 +2424,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXVI",
           "href": "walter-burley/chapters-generated/066_kalisten.md",
@@ -2076,7 +2439,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXVI",
           "href": "walter-burley/chapters-generated/116_kalkiter.md",
@@ -2091,7 +2454,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LI",
           "href": "walter-burley/chapters-generated/051_karnead.md",
@@ -2115,6 +2478,15 @@
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
           "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.1",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": null
@@ -2124,7 +2496,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XCVI",
           "href": "walter-burley/chapters-generated/096_katon.md",
@@ -2169,10 +2541,25 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXX",
           "href": "walter-burley/chapters-generated/130_klaudije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Klaudije Ptolemej",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "CXXI",
+          "href": "walter-burley/chapters-generated/121_klaudije-ptolemej.md",
           "kind": "biography",
           "entries": 0
         }
@@ -2199,7 +2586,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "VI",
           "href": "walter-burley/chapters-generated/006_kleobul.md",
@@ -2268,7 +2655,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XIX",
           "href": "walter-burley/chapters-generated/019_kratet.md",
@@ -2283,6 +2670,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 16
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "3.Κ.2341",
+          "href": "suda/lives/3_Κ_2341.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Crates of Thebes"
@@ -2346,7 +2742,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LIV",
           "href": "walter-burley/chapters-generated/054_ksenofil.md",
@@ -2361,7 +2757,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXII",
           "href": "walter-burley/chapters-generated/032_ksenofont.md",
@@ -2376,6 +2772,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 33
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "3.Ξ.47",
+          "href": "suda/lives/3_Ξ_47.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Xenophon"
@@ -2385,7 +2790,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXI",
           "href": "walter-burley/chapters-generated/061_ksenokrat.md",
@@ -2400,6 +2805,24 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 23
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.4, Platonovi učenici",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "3.Ξ.42",
+          "href": "suda/lives/3_Ξ_42.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Xenocrates"
@@ -2409,7 +2832,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XCIII",
           "href": "walter-burley/chapters-generated/093_kurion.md",
@@ -2424,7 +2847,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXVIII",
           "href": "walter-burley/chapters-generated/118_kvintilijan.md",
@@ -2514,7 +2937,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XV",
           "href": "walter-burley/chapters-generated/015_likurg.md",
@@ -2529,7 +2952,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXVIII",
           "href": "walter-burley/chapters-generated/088_livije.md",
@@ -2559,7 +2982,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CII",
           "href": "walter-burley/chapters-generated/102_lucije.md",
@@ -2574,10 +2997,40 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CVI",
           "href": "walter-burley/chapters-generated/106_lucije-akcije.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Lucije Munacije Plank",
+      "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "C",
+          "href": "walter-burley/chapters-generated/100_lucije-munacije-plank.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Lukman",
+      "sources": [
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Lukman",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -2589,7 +3042,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CI",
           "href": "walter-burley/chapters-generated/101_tit-lukrecije.md",
@@ -2634,7 +3087,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XCI",
           "href": "walter-burley/chapters-generated/091_marko.md",
@@ -2664,7 +3117,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXII",
           "href": "walter-burley/chapters-generated/112_marko-nerije.md",
@@ -2703,7 +3156,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXVI",
           "href": "walter-burley/chapters-generated/076_menandar.md",
@@ -2763,7 +3216,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XI",
           "href": "walter-burley/chapters-generated/011_misosternon-mizon.md",
@@ -2796,6 +3249,21 @@
         }
       ],
       "projectAuthor": "Monimus"
+    },
+    {
+      "name": "Musonije Ruf",
+      "sources": [
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "3.Μ.1305",
+          "href": "suda/lives/3_Μ_1305.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": "Musonius Rufus"
     },
     {
       "name": "Niket iz Smirne",
@@ -2877,7 +3345,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXIV",
           "href": "walter-burley/chapters-generated/114_ovidije.md",
@@ -2892,7 +3360,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXVII",
           "href": "walter-burley/chapters-generated/087_panetije.md",
@@ -2907,7 +3375,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXIII",
           "href": "walter-burley/chapters-generated/083_pankupije.md",
@@ -2922,7 +3390,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XLIX",
           "href": "walter-burley/chapters-generated/049_parmenid.md",
@@ -2946,6 +3414,15 @@
           "href": "hermann-diels/philosophers/18-Parmenides.txt",
           "kind": "biographical testimonia",
           "entries": 24
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "4.Π.675",
+          "href": "suda/lives/4_Π_675.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Parmenides"
@@ -2985,7 +3462,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "VII",
           "href": "walter-burley/chapters-generated/007_perijandar.md",
@@ -3009,7 +3486,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXIX",
           "href": "walter-burley/chapters-generated/039_perikle.md",
@@ -3039,7 +3516,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XVII",
           "href": "walter-burley/chapters-generated/017_pitagora.md",
@@ -3054,6 +3531,33 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 138
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.6",
+          "href": "john-of-wales/hocr/page-0468.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Pitagora",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "4.Π.3120",
+          "href": "suda/lives/4_Π_3120.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Pythagoras"
@@ -3063,7 +3567,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "IV",
           "href": "walter-burley/chapters-generated/004_pitak.md",
@@ -3087,7 +3591,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LII",
           "href": "walter-burley/chapters-generated/052_platon.md",
@@ -3102,28 +3606,46 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 61
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.4",
+          "href": "john-of-wales/hocr/page-0467.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Platon",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "4.Π.1709",
+          "href": "suda/lives/4_Π_1709.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Plato"
     },
     {
-      "name": "Plaucije",
+      "name": "Plaut",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "C",
-          "href": "walter-burley/chapters-generated/100_plaucije.md",
-          "kind": "biography",
-          "entries": 0
-        },
-        {
-          "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CIII",
-          "href": "walter-burley/chapters-generated/103_plaucije.md",
+          "href": "walter-burley/chapters-generated/103_plaut.md",
           "kind": "biography",
           "entries": 0
         }
@@ -3135,7 +3657,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXX",
           "href": "walter-burley/chapters-generated/120_plinije.md",
@@ -3150,7 +3672,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXVI",
           "href": "walter-burley/chapters-generated/086_plokije.md",
@@ -3165,7 +3687,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LIX",
           "href": "walter-burley/chapters-generated/059_plotin.md",
@@ -3178,6 +3700,15 @@
           "index": "INDEX_EUNAPIJE.md",
           "reference": "#PLOTINUS",
           "href": "eunapius/vitae-sophistarum.en.html#PLOTINUS",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "4.Π.1811",
+          "href": "suda/lives/4_Π_1811.md",
           "kind": "biography",
           "entries": 0
         },
@@ -3198,7 +3729,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXIX",
           "href": "walter-burley/chapters-generated/119_plutarh.md",
@@ -3228,7 +3759,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXX",
           "href": "walter-burley/chapters-generated/070_polemon.md",
@@ -3276,7 +3807,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXV",
           "href": "walter-burley/chapters-generated/065_polistrat-i-ipoklid.md",
@@ -3291,7 +3822,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXIX",
           "href": "walter-burley/chapters-generated/129_porfirije-iz-tira.md",
@@ -3315,7 +3846,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXIX",
           "href": "walter-burley/chapters-generated/089_posejdonije.md",
@@ -3330,7 +3861,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXXII",
           "href": "walter-burley/chapters-generated/132_priscijan.md",
@@ -3405,7 +3936,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXVIII",
           "href": "walter-burley/chapters-generated/028_protagora.md",
@@ -3429,28 +3960,28 @@
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
           "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "4.Π.2958",
+          "href": "suda/lives/4_Π_2958.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Protagoras"
     },
     {
-      "name": "Ptolemej",
+      "name": "Ptolemej II Filadelf",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXV",
-          "href": "walter-burley/chapters-generated/075_ptolemej.md",
-          "kind": "biography",
-          "entries": 0
-        },
-        {
-          "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "CXXI",
-          "href": "walter-burley/chapters-generated/121_ptolemej.md",
+          "href": "walter-burley/chapters-generated/075_ptolemej-ii-filadelf.md",
           "kind": "biography",
           "entries": 0
         }
@@ -3492,7 +4023,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XCIX",
           "href": "walter-burley/chapters-generated/099_salustije.md",
@@ -3507,7 +4038,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XCIV",
           "href": "walter-burley/chapters-generated/094_scipion.md",
@@ -3522,7 +4053,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXII",
           "href": "walter-burley/chapters-generated/122_sekund.md",
@@ -3552,12 +4083,21 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXVII",
           "href": "walter-burley/chapters-generated/117_seneka.md",
           "kind": "biography",
           "entries": 10
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.16",
+          "href": "john-of-wales/hocr/page-0469.hocr.html",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Seneca"
@@ -3582,7 +4122,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXXI",
           "href": "walter-burley/chapters-generated/131_simah.md",
@@ -3627,7 +4167,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXII",
           "href": "walter-burley/chapters-generated/022_simonid.md",
@@ -3642,7 +4182,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXI",
           "href": "walter-burley/chapters-generated/111_sist.md",
@@ -3672,7 +4212,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXXVIII",
           "href": "walter-burley/chapters-generated/038_sofokle.md",
@@ -3687,7 +4227,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XXX",
           "href": "walter-burley/chapters-generated/030_sokrat.md",
@@ -3702,6 +4242,33 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 68
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.3",
+          "href": "john-of-wales/hocr/page-0467.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Sokrat",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "4.Σ.829",
+          "href": "suda/lives/4_Σ_829.md",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Socrates"
@@ -3711,7 +4278,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "II",
           "href": "walter-burley/chapters-generated/002_solon.md",
@@ -3726,6 +4293,24 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 27
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "III.1.1",
+          "href": "john-of-wales/hocr/page-0466.hocr.html",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Solon",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Solon"
@@ -3765,7 +4350,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LVII",
           "href": "walter-burley/chapters-generated/057_speusip.md",
@@ -3789,7 +4374,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXIV",
           "href": "walter-burley/chapters-generated/084_stacije.md",
@@ -3804,7 +4389,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XX",
           "href": "walter-burley/chapters-generated/020_stilbon.md",
@@ -3817,6 +4402,15 @@
           "index": "INDEX_LEARTIJE.md",
           "reference": null,
           "href": "INDEX_LEARTIJE.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "suda",
+          "sourceLabel": "Suda",
+          "index": "INDEX_SUDA.md",
+          "reference": "4.Σ.1114",
+          "href": "suda/lives/4_Σ_1114.md",
           "kind": "biography",
           "entries": 0
         }
@@ -3839,11 +4433,26 @@
       "projectAuthor": null
     },
     {
+      "name": "Šit",
+      "sources": [
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Fusul kalam Šit",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Tales",
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "I",
           "href": "walter-burley/chapters-generated/001_tales.md",
@@ -3867,10 +4476,19 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXV",
           "href": "walter-burley/chapters-generated/125_taur.md",
+          "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.10",
+          "href": "john-of-wales/hocr/page-0469.hocr.html",
           "kind": "biography",
           "entries": 0
         }
@@ -3882,7 +4500,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "XL",
           "href": "walter-burley/chapters-generated/040_temistokle.md",
@@ -3912,7 +4530,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXVIII",
           "href": "walter-burley/chapters-generated/068_teofrast.md",
@@ -3951,7 +4569,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CVII",
           "href": "walter-burley/chapters-generated/107_terencije.md",
@@ -3996,7 +4614,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXVII",
           "href": "walter-burley/chapters-generated/127_trog.md",
@@ -4011,7 +4629,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXV",
           "href": "walter-burley/chapters-generated/115_valerije.md",
@@ -4026,7 +4644,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "LXXXV",
           "href": "walter-burley/chapters-generated/085_valerije-katul.md",
@@ -4071,7 +4689,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CVIII",
           "href": "walter-burley/chapters-generated/108_varon.md",
@@ -4086,10 +4704,25 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CXXIV",
           "href": "walter-burley/chapters-generated/124_vasilid.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Vasilije",
+      "sources": [
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Adab Vasilije",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -4101,7 +4734,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "CIV",
           "href": "walter-burley/chapters-generated/104_vergilije.md",
@@ -4112,29 +4745,14 @@
       "projectAuthor": null
     },
     {
-      "name": "Zenon",
+      "name": "Zenon (pomešani Elejac i Kitijac)",
       "sources": [
         {
-          "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "XXV",
-          "href": "walter-burley/chapters-generated/025_zenon.md",
-          "kind": "biography",
-          "entries": 0
-        }
-      ],
-      "projectAuthor": null
-    },
-    {
-      "name": "Zenon (sporni stoik)",
-      "sources": [
-        {
-          "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "LXXVIII",
-          "href": "walter-burley/chapters-generated/078_zenon-sporni-stoik.md",
+          "source": "john-of-wales",
+          "sourceLabel": "Jovan Velški",
+          "index": "INDEX_JOVAN_VELSKI.md",
+          "reference": "IV.7",
+          "href": "john-of-wales/hocr/page-0469.hocr.html",
           "kind": "biography",
           "entries": 0
         }
@@ -4144,6 +4762,15 @@
     {
       "name": "Zenon iz Eleje",
       "sources": [
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXIX",
+          "href": "walter-burley/chapters-generated/079_zenon-iz-eleje.md",
+          "kind": "biography",
+          "entries": 0
+        },
         {
           "source": "diogenes-laertius",
           "sourceLabel": "Diogen Laertije",
@@ -4161,6 +4788,15 @@
           "href": "hermann-diels/philosophers/19-Zeno.txt",
           "kind": "biographical testimonia",
           "entries": 3
+        },
+        {
+          "source": "al-mubashshir-ibn-fatik",
+          "sourceLabel": "Mukhtār al-ḥikam",
+          "index": "INDEX_MUKHTAR_AL_HIKAM.md",
+          "reference": "Ahbar Zenon",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "kind": "biography",
+          "entries": 0
         }
       ],
       "projectAuthor": "Zeno of Elea"
@@ -4170,10 +4806,19 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
-          "reference": "LXXIX",
-          "href": "walter-burley/chapters-generated/079_zenon-iz-kitijuma.md",
+          "reference": "XXV",
+          "href": "walter-burley/chapters-generated/025_zenon-iz-kitijuma-pomesan-sa-elejcem.md",
+          "kind": "biography",
+          "entries": 5
+        },
+        {
+          "source": "walter-burley",
+          "sourceLabel": "Burley",
+          "index": "INDEX_BURLEY.md",
+          "reference": "LXXVIII",
+          "href": "walter-burley/chapters-generated/078_zenon-iz-kitijuma.md",
           "kind": "biography",
           "entries": 5
         },
@@ -4194,7 +4839,7 @@
       "sources": [
         {
           "source": "walter-burley",
-          "sourceLabel": "Pseudo-Burley",
+          "sourceLabel": "Burley",
           "index": "INDEX_BURLEY.md",
           "reference": "VIII",
           "href": "walter-burley/chapters-generated/008_zoroaster.md",
@@ -4205,21 +4850,5 @@
       "projectAuthor": null
     }
   ],
-  "unindexedSources": [
-    {
-      "source": "Jovan Velški, Compendiloquium",
-      "index": "INDEX_JOVAN_VELSKI.md",
-      "reason": "Lokalni hOCR nema indeks ličnosti."
-    },
-    {
-      "source": "al-Mubaššir ibn Fatik, Mukhtār al-ḥikam",
-      "index": "INDEX_MUKHTAR_AL_HIKAM.md",
-      "reason": "Dva OCR prenosa još nemaju indeks ličnosti."
-    },
-    {
-      "source": "Suda",
-      "index": "INDEX_SUDA.md",
-      "reason": "Biografske leme još nisu izdvojene iz 24.078 odeljaka."
-    }
-  ]
+  "unindexedSources": []
 }

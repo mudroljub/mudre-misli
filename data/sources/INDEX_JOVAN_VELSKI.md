@@ -24,3 +24,14 @@ doctorum*, štampane u Veneciji 1496.
 Pokazivač na ovaj OCR treba da bude broj BSB snimka. OCR gotice je bučan;
 svako ime, izreku i latinski navod treba proveriti prema slici stranice iz
 IIIF manifesta ili prema DjVu faksimilu.
+
+## Poimenični indeks
+
+Mašinski čitljiv indeks nalazi se u
+[`john-of-wales/lives-index.json`](john-of-wales/lives-index.json). Obuhvata
+samo ličnosti koje su nedvosmisleno naslovljene u sadržaju na snimcima
+466-469; anonimna poglavlja i nečitka imena nisu nagađana.
+
+Pokazivači `III` i `IV` označavaju deo, distinkciju i poglavlje u sadržaju.
+Link vodi na odgovarajući snimak sadržaja, odakle se čitanje proverava prema
+faksimilu.

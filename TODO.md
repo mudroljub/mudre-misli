@@ -1,15 +1,11 @@
 # TODO
 
-## Dodati još izvora za živote filozofa
-
-- potraži bolji mašinski čitljiv format za Burkley izvor od trenutnog
-   - obriši stari txt format ako više nije potreban
-- na osnovu svi lokalnih izvora i njihovih indexa, napraviti centralni katalog filozofa, gde mogu pročitati koje su sve biografije filozofa dostupne, koje su obrađene, a koje ne.
-
-## Obraditi živote filozofa
+## Širiti živote filozofa
 - Plotin
+- Protagora
 - Filon Aleksandrijski
-- videti za koje filozofe ima malo biografskih stavki i potražiti više među lokalnim izvorima
+- izlistati filozofe iz projekta za koje imamo nekorištenih izvora
+- predložiti bitne filozofe koje još uvek nemamo u projektu
 
 ## Širiti korpus celih dela
 

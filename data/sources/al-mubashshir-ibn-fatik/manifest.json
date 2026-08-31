@@ -4,6 +4,28 @@
   "originalLanguage": "ar",
   "localWitnesses": [
     {
+      "title": "Mukhtār al-ḥikam wa-maḥāsin al-kalim",
+      "editor": "Abd al-Rahman Badawi",
+      "language": "ar",
+      "formats": [
+        "plain-text OCR",
+        "DjVu XML OCR",
+        "PDF scan"
+      ],
+      "files": [
+        "mukhtar-al-hikam.badawi.ar-ocr.txt",
+        "mukhtar-al-hikam.badawi.djvu.xml",
+        "mukhtar-al-hikam.badawi.scan.pdf"
+      ],
+      "metadataFile": "arabic-internet-archive-metadata.json",
+      "identifier": "76402",
+      "sha256": {
+        "mukhtar-al-hikam.badawi.ar-ocr.txt": "07FCD18518921C70C113FD07D530BC9DDD0A55879F001653611FCFDA9A8E288F",
+        "mukhtar-al-hikam.badawi.djvu.xml": "CB0BBD3DA19D9902A6ADEA7C6CF1E0E2C4452E2AC601AF54FD43212A47160B15",
+        "mukhtar-al-hikam.badawi.scan.pdf": "60074F3B27B47E19037CA5417379429B8C37F6E5C608FF34D132191623078141"
+      }
+    },
+    {
       "title": "The Dictes and Sayings of the Philosophers",
       "transmission": "Arabic to Spanish to Latin/French tradition; English translation by Anthony Woodville, printed by William Caxton in 1477; 1877 facsimile",
       "language": "enm",
@@ -31,7 +53,7 @@
     }
   ],
   "source": "Internet Archive",
-  "license": "Public domain; both Internet Archive records are marked NOT_IN_COPYRIGHT",
-  "fileCount": 4,
-  "notes": "No Arabic original is included. These are public-domain, searchable witnesses to two European branches of the work's transmission; OCR quality varies and quotations must be checked against page images before use."
+  "license": "European witnesses are public domain and their Internet Archive records are marked NOT_IN_COPYRIGHT; consult the Arabic record metadata for its terms.",
+  "fileCount": 7,
+  "notes": "Includes Badawi's Arabic edition and searchable witnesses to two European branches of the work's transmission. OCR quality varies and quotations must be checked against page images before use."
 }

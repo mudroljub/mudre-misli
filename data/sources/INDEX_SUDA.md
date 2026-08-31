@@ -23,3 +23,18 @@ leksikon u kojem se biografski članci biraju po lemi.
 Pokazivač ima oblik `tom.poglavlje.odeljak`. Pre uvođenja nekog života u
 projekat treba potvrditi da je odeljak zaista biografski, jer isto ime može
 imati više leksikonskih članaka.
+
+## Mašinski indeksi
+
+Komanda `npm run build:source:suda` generiše tri sloja:
+
+- `suda/entries-index.json` — svih 24.078 lema sa pokazivačem i snimkom teksta;
+- `suda/biography-candidates.json` — automatski izdvojeni mogući biografski članci;
+- `suda/lives-index.json` — ručno potvrđeni članci o ličnostima koje već postoje
+  u projektu.
+
+Za svaki potvrđeni članak alat pravi i pun, čitljiv grčki snimak u
+`suda/lives/`; veze iz centralnog kataloga vode neposredno na te fajlove.
+
+Centralni katalog koristi isključivo `lives-index.json`. Kandidati nisu
+proglašeni biografijama dok njihov identitet i sadržaj nisu potvrđeni.

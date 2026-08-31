@@ -39,36 +39,28 @@ const createDiogenesLaertiusResolver = () =>
     return `data/sources/diogenes-laertius/diogenes-laertius.xml#${passage}`
   }
 
-const walterBurleyAuthorFiles = {
-  'Bias of Priene': 'bias',
-  'Chilon of Sparta': 'chilon',
-  'Crates of Thebes': 'crates',
-  Diogenes: 'diogenes_cynicus',
-  'Pherecydes of Syros': 'pherecides',
-  'Zeno of Citium': 'zeno_citieus',
-  'Zeno of Elea': 'zeno_eleates',
-}
+const createWalterBurleyResolver = rootDir => {
+  let chaptersByRoman = null
 
-const createWalterBurleyResolver = rootDir =>
-  async (reference, author) => {
-    const normalized = String(reference || '').trim()
-    if (!normalized || !/\b[MDCLXVI]+\b/.test(normalized) || !author) {
-      return null
-    }
-
-    const basename =
-      walterBurleyAuthorFiles[author] ??
-      author.toLowerCase().replace(/\s+/g, '_')
-    const filename = `${basename}.txt`
-    const relFile = `data/sources/walter-burley/latin_raw/${filename}`
-
-    try {
-      await fs.access(path.join(rootDir, relFile))
-      return `${relFile}:1`
-    } catch {
-      return null
-    }
+  const loadChapters = async () => {
+    if (chaptersByRoman) return chaptersByRoman
+    const relManifest = 'data/sources/walter-burley/chapters-generated/manifest.json'
+    const manifest = JSON.parse(await fs.readFile(path.join(rootDir, relManifest), 'utf8'))
+    chaptersByRoman = new Map(manifest.chapters.map(chapter => [chapter.roman, chapter.file]))
+    return chaptersByRoman
   }
+
+  return async reference => {
+    const normalized = String(reference || '').trim()
+    const roman = normalized.match(/\b([MDCLXVI]+)\b/)?.[1]
+    if (!roman) return null
+
+    const filename = (await loadChapters()).get(roman)
+    return filename
+      ? `data/sources/walter-burley/chapters-generated/${filename}:1`
+      : null
+  }
+}
 
 const hermannDielsAuthorFiles = {
   Anaximenes: '03-Anaximenes.txt',

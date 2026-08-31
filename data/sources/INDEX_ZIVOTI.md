@@ -2,7 +2,7 @@
 
 Objedinjeni pregled svih poimenično indeksiranih života, uključujući ličnosti
 koje još nisu deo projekta, nalazi se u
-[`INDEX_FILOSOFI.md`](INDEX_FILOSOFI.md). Mašinski oblik je
+[`INDEX_CENTRAL.md`](INDEX_CENTRAL.md). Mašinski oblik je
 `philosopher-catalog.json`, a oba se osvežavaju komandom
 `npm run build:catalog:philosophers`.
 
@@ -15,7 +15,7 @@ strukturu dela i način pokazivanja na odlomak.
 | Filostrat, *Životi sofista* | potpuni grčki CTS/EpiDoc TEI | `INDEX_FILOSTRAT.md` |
 | Jovan Velški, *Compendiloquium* | latinski hOCR, 116 stranica | `INDEX_JOVAN_VELSKI.md` |
 | al-Mubaššir ibn Fatik, *Mukhtār al-ḥikam* | engleski i španski javnodomenski OCR prenosi | `INDEX_MUKHTAR_AL_HIKAM.md` |
-| *Suda* | potpuni grčki CTS/EpiDoc TEI | `INDEX_SUDA.md` |
+| *Suda* | potpuni grčki CTS/EpiDoc TEI; ciljano potvrđene biografije | `INDEX_SUDA.md` |
 | Porfirije, *Život Plotina* | potpuni grčki MediaWiki JSON | `INDEX_PORFIRIJE_PLOTIN.md` |
 
 ## Hijerarhija pouzdanosti

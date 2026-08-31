@@ -35,18 +35,10 @@
     "and many others"
   ],
   "extraction_info": {
-    "method": "Read tool (PDF pages)",
-    "date": "2026-08-04",
     "source_pdf": "BLV_177_Gualteri_Burlaei_liber_De_vita_et_moribus_philosophorum.pdf",
-    "output_directory": "latin_raw/",
-    "status": "78_texts_extracted",
-    "texts_extracted": 78,
-    "total_philosophers_in_book": "~125",
+    "status": "complete_generated_chapter_layer",
     "generated_ocr_chapters": 132,
     "generated_ocr_command": "npm run build:source:burley",
-    "next_steps": [
-      "Extract remaining philosophers as needed",
-      "Cross-reference with authors.json"
-    ]
+    "next_steps": ["Verify OCR against the facsimile before quotation"]
   }
 }

@@ -4430,7 +4430,7 @@
         "reference": "Cap. XVI"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/anaximenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/016_anaksimen-iz-mileta.md:1"
   },
   {
     "_id": 163,
@@ -6007,7 +6007,7 @@
         "reference": "Cap. X"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/anacharsis.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/010_anaharsis.md:1"
   },
   {
     "_id": 92,
@@ -6045,7 +6045,7 @@
         "reference": "Cap. V"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/bias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/005_bijant.md:1"
   },
   {
     "_id": 527,
@@ -6079,7 +6079,7 @@
         "reference": "Cap. VI"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cleobulus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/006_kleobul.md:1"
   },
   {
     "_id": 237,
@@ -6146,7 +6146,7 @@
         "reference": "Cap. II"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/002_solon.md:1"
   },
   {
     "_id": 1869,
@@ -6163,7 +6163,7 @@
         "reference": "Cap. II"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/002_solon.md:1"
   },
   {
     "_id": 1885,
@@ -6230,7 +6230,7 @@
         "reference": "Cap. LXXIV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/archimedes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/074_arhimed.md:1"
   },
   {
     "_id": 22,
@@ -7477,7 +7477,7 @@
         "reference": "I.89"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cleobulus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/006_kleobul.md:1"
   },
   {
     "_id": 303,
@@ -8945,7 +8945,7 @@
         "reference": "Cap. XVII (citing Justinus)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 2008,
@@ -9477,7 +9477,7 @@
         "reference": "Cap. III"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/chilon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/003_hilon.md:1"
   },
   {
     "_id": 1891,
@@ -9544,7 +9544,7 @@
         "reference": "Cap. V"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/bias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/005_bijant.md:1"
   },
   {
     "_id": 394,
@@ -9560,7 +9560,7 @@
         "reference": "Cap. V"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/bias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/005_bijant.md:1"
   },
   {
     "_id": 395,
@@ -9576,7 +9576,7 @@
         "reference": "Cap. V"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/bias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/005_bijant.md:1"
   },
   {
     "_id": 396,
@@ -9592,7 +9592,7 @@
         "reference": "Cap. V"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/bias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/005_bijant.md:1"
   },
   {
     "_id": 405,
@@ -10474,7 +10474,7 @@
         "reference": "Cap. V"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/bias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/005_bijant.md:1"
   },
   {
     "_id": 435,
@@ -10832,7 +10832,7 @@
         "reference": "Cap. XVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 2012,
@@ -10881,7 +10881,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 471,
@@ -10896,7 +10897,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 472,
@@ -10911,7 +10913,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 473,
@@ -10926,7 +10929,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 474,
@@ -10941,7 +10945,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 475,
@@ -10956,7 +10961,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 476,
@@ -10971,7 +10977,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 477,
@@ -10986,7 +10993,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 478,
@@ -11001,7 +11009,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 479,
@@ -11016,7 +11025,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 480,
@@ -11031,7 +11041,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 481,
@@ -11046,7 +11057,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 482,
@@ -11061,7 +11073,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 483,
@@ -11076,7 +11089,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 484,
@@ -11091,7 +11105,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 485,
@@ -11106,7 +11121,8 @@
         "name": "walter-burley",
         "reference": "Cap. XXVII"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/027_isokrat.md:1"
   },
   {
     "_id": 1639,
@@ -11386,7 +11402,7 @@
         "reference": "Cap. XCV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 503,
@@ -11402,7 +11418,7 @@
         "reference": "Cap. XCV (ex De officiis)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 504,
@@ -11418,7 +11434,7 @@
         "reference": "Cap. XCV (ex De officiis)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 505,
@@ -11434,7 +11450,7 @@
         "reference": "Cap. XCV (ex De officiis)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 506,
@@ -11450,7 +11466,7 @@
         "reference": "Cap. XCV (ex De officiis)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 507,
@@ -11466,7 +11482,7 @@
         "reference": "Cap. XCV (ex De officiis)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 508,
@@ -11482,7 +11498,7 @@
         "reference": "Cap. XCV (ex De officiis)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 1734,
@@ -11972,7 +11988,8 @@
         "name": "diogenes-laertius",
         "reference": "I.91"
       }
-    ]
+    ],
+    "pointer": "data/sources/walter-burley/chapters-generated/006_kleobul.md:1"
   },
   {
     "_id": 1751,
@@ -12109,7 +12126,7 @@
         "reference": "I.91"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cleobulus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/006_kleobul.md:1"
   },
   {
     "_id": 541,
@@ -12129,7 +12146,7 @@
         "reference": "I.91"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cleobulus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/006_kleobul.md:1"
   },
   {
     "_id": 542,
@@ -12587,7 +12604,7 @@
         "reference": "Cap. XVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 565,
@@ -13044,7 +13061,7 @@
         "reference": "Cap. XVII (citing Timaeus)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 588,
@@ -19331,7 +19348,7 @@
         "reference": "Cap. XXVI"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/gorgias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/026_gorgija.md:1"
   },
   {
     "_id": 24,
@@ -19501,7 +19518,7 @@
         "reference": "Cap. L"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/050_diogen-iz-sinope.md:1"
   },
   {
     "_id": 861,
@@ -19518,7 +19535,7 @@
         "reference": "Cap. L"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/050_diogen-iz-sinope.md:1"
   },
   {
     "_id": 862,
@@ -19535,7 +19552,7 @@
         "reference": "Cap. L"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/050_diogen-iz-sinope.md:1"
   },
   {
     "_id": 1242,
@@ -19569,7 +19586,7 @@
         "reference": "Cap. L"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/050_diogen-iz-sinope.md:1"
   },
   {
     "_id": 865,
@@ -21249,7 +21266,7 @@
         "reference": "Cap. XLVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/empedocles.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/047_heraklit.md:1"
   },
   {
     "_id": 947,
@@ -23374,7 +23391,7 @@
         "reference": "Cap. XLVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/empedocles.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/047_heraklit.md:1"
   },
   {
     "_id": 1040,
@@ -23391,7 +23408,7 @@
         "reference": "Cap. XLVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/empedocles.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/047_heraklit.md:1"
   },
   {
     "_id": 1041,
@@ -23408,7 +23425,7 @@
         "reference": "Cap. XLVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/empedocles.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/047_heraklit.md:1"
   },
   {
     "_id": 1605,
@@ -25344,7 +25361,7 @@
         "reference": "Cap. LXIV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/epicurus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/064_epikur.md:1"
   },
   {
     "_id": 1126,
@@ -25361,7 +25378,7 @@
         "reference": "Cap. LXIV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/epicurus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/064_epikur.md:1"
   },
   {
     "_id": 1127,
@@ -25378,7 +25395,7 @@
         "reference": "Cap. LXIV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/epicurus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/064_epikur.md:1"
   },
   {
     "_id": 1128,
@@ -25395,7 +25412,7 @@
         "reference": "Cap. LXIV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/epicurus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/064_epikur.md:1"
   },
   {
     "_id": 1004,
@@ -25833,7 +25850,7 @@
         "reference": "Cap. XXXIII (citing Hieronymus, Ad Jovinianum II)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/antisthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/033_antisten.md:1"
   },
   {
     "_id": 660,
@@ -25948,7 +25965,7 @@
         "reference": "Cap. XXXIV (citing Valerius Maximus V, X, Ext. 2)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/socrates.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/034_alkibijad.md:1"
   },
   {
     "_id": 1845,
@@ -26345,7 +26362,7 @@
         "reference": "Cap. XXVI"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/gorgias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/026_gorgija.md:1"
   },
   {
     "_id": 231,
@@ -26498,7 +26515,7 @@
         "reference": "Cap. XXXIII (citing Hieronymus, Ad Jovinianum II)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/antisthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/033_antisten.md:1"
   },
   {
     "_id": 239,
@@ -26516,7 +26533,7 @@
         "reference": "Cap. XXXIII (citing Hieronymus, Ad Jovinianum II)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/antisthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/033_antisten.md:1"
   },
   {
     "_id": 1186,
@@ -26754,7 +26771,7 @@
         "reference": "Cap. XXVI"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/gorgias.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/026_gorgija.md:1"
   },
   {
     "_id": 841,
@@ -27185,7 +27202,7 @@
         "reference": "B.106"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/heraclitus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/047_heraklit.md:1"
   },
   {
     "_id": 1221,
@@ -34316,7 +34333,7 @@
         "reference": "Cap. XXXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/037_demosten.md:1"
   },
   {
     "_id": 848,
@@ -36856,7 +36873,7 @@
         "reference": "Cap. LIX"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/plotinus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/059_plotin.md:1"
   },
   {
     "_id": 851,
@@ -36874,7 +36891,7 @@
         "reference": "Cap. L"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/050_diogen-iz-sinope.md:1"
   },
   {
     "_id": 913,
@@ -37223,7 +37240,7 @@
         "reference": "Cap. XXXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/037_demosten.md:1"
   },
   {
     "_id": 834,
@@ -37240,7 +37257,7 @@
         "reference": "Cap. XXXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/037_demosten.md:1"
   },
   {
     "_id": 852,
@@ -37262,7 +37279,7 @@
         "reference": "VI.58"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/050_diogen-iz-sinope.md:1"
   },
   {
     "_id": 853,
@@ -37280,7 +37297,7 @@
         "reference": "Cap. L"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/050_diogen-iz-sinope.md:1"
   },
   {
     "_id": 854,
@@ -37568,7 +37585,7 @@
         "reference": "Cap. XXXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/037_demosten.md:1"
   },
   {
     "_id": 1622,
@@ -37755,7 +37772,7 @@
         "reference": "Cap. L"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/diogenes_cynicus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/050_diogen-iz-sinope.md:1"
   },
   {
     "_id": 866,
@@ -38537,7 +38554,7 @@
         "reference": "Cap. XXXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/037_demosten.md:1"
   },
   {
     "_id": 1668,
@@ -40477,7 +40494,7 @@
         "reference": "Cap. XIX (citing Hieronymus, Ep. XVIII)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/crates.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/019_kratet.md:1"
   },
   {
     "_id": 838,
@@ -40494,7 +40511,7 @@
         "reference": "Cap. XXXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/037_demosten.md:1"
   },
   {
     "_id": 1735,
@@ -40729,7 +40746,7 @@
         "reference": "Cap. XXXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/demosthenes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/037_demosten.md:1"
   },
   {
     "_id": 868,
@@ -41295,7 +41312,7 @@
         "reference": "Cap. XVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 1776,
@@ -41311,7 +41328,7 @@
         "reference": "Cap. XVII (citing Boethius, De institutione musica I)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 1777,
@@ -41327,7 +41344,7 @@
         "reference": "Cap. XVII (citing Isidorus, Etymologiae III)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 1778,
@@ -41343,7 +41360,7 @@
         "reference": "Cap. XVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 575,
@@ -41376,7 +41393,7 @@
         "reference": "Cap. XVII (citing Cicero, Tusculanae disputationes V)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 1781,
@@ -41392,7 +41409,7 @@
         "reference": "Cap. XVII (citing Valerius Maximus VIII)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 1782,
@@ -41408,7 +41425,7 @@
         "reference": "Cap. XVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 1783,
@@ -41424,7 +41441,7 @@
         "reference": "Cap. XVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/pythagoras.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/017_pitagora.md:1"
   },
   {
     "_id": 1354,
@@ -41474,7 +41491,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 1625,
@@ -41507,7 +41524,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 1789,
@@ -41523,7 +41540,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 1790,
@@ -41539,7 +41556,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 1960,
@@ -41589,7 +41606,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 2092,
@@ -43047,7 +43064,7 @@
         "reference": "Cap. II"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/002_solon.md:1"
   },
   {
     "_id": 1866,
@@ -43063,7 +43080,7 @@
         "reference": "Cap. II"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/002_solon.md:1"
   },
   {
     "_id": 1867,
@@ -43079,7 +43096,7 @@
         "reference": "Cap. II"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/002_solon.md:1"
   },
   {
     "_id": 1868,
@@ -43095,7 +43112,7 @@
         "reference": "Cap. II"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/002_solon.md:1"
   },
   {
     "_id": 1629,
@@ -43128,7 +43145,7 @@
         "reference": "Cap. II"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/002_solon.md:1"
   },
   {
     "_id": 1871,
@@ -43144,7 +43161,7 @@
         "reference": "Cap. II"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/solon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/002_solon.md:1"
   },
   {
     "_id": 1968,
@@ -44890,7 +44907,7 @@
         "reference": "Cap. I"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/thales.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/001_tales.md:1"
   },
   {
     "_id": 2068,
@@ -46774,7 +46791,7 @@
         "reference": "Cap. XXIX"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/chrysippus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/029_hrisip.md:1"
   },
   {
     "_id": 444,
@@ -46808,7 +46825,7 @@
         "reference": "Cap. XXIX"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/chrysippus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/029_hrisip.md:1"
   },
   {
     "_id": 446,
@@ -47114,7 +47131,7 @@
         "reference": "Cap. XXXII (citing Aulus Gellius)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/xenophon.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/032_ksenofont.md:1"
   },
   {
     "_id": 455,
@@ -47460,7 +47477,7 @@
         "reference": "Cap. XXIX"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/chrysippus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/029_hrisip.md:1"
   },
   {
     "_id": 526,
@@ -47528,7 +47545,7 @@
         "reference": "Cap. XXV (citing Seneca, De Tranquillitate Animi)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/zeno_citieus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/025_zenon-iz-kitijuma-pomesan-sa-elejcem.md:1"
   },
   {
     "_id": 2088,
@@ -47545,7 +47562,7 @@
         "reference": "Cap. XXV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/zeno_citieus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/025_zenon-iz-kitijuma-pomesan-sa-elejcem.md:1"
   },
   {
     "_id": 2089,
@@ -47562,7 +47579,7 @@
         "reference": "Cap. XXV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/zeno_citieus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/025_zenon-iz-kitijuma-pomesan-sa-elejcem.md:1"
   },
   {
     "_id": 2090,
@@ -47579,7 +47596,7 @@
         "reference": "Cap. XXV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/zeno_citieus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/025_zenon-iz-kitijuma-pomesan-sa-elejcem.md:1"
   },
   {
     "_id": 2091,
@@ -47596,7 +47613,7 @@
         "reference": "Cap. XXV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/zeno_citieus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/025_zenon-iz-kitijuma-pomesan-sa-elejcem.md:1"
   },
   {
     "_id": 491,
@@ -47681,7 +47698,7 @@
         "reference": "Cap. LXXIV (citing Valerius Maximus VIII)"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/archimedes.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/074_arhimed.md:1"
   },
   {
     "_id": 467,
@@ -47749,7 +47766,7 @@
         "reference": "Cap. XCV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 1375,
@@ -47766,7 +47783,7 @@
         "reference": "Cap. CI"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/lucretius.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/101_tit-lukrecije.md:1"
   },
   {
     "_id": 1376,
@@ -47783,7 +47800,7 @@
         "reference": "Cap. CI"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/lucretius.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/101_tit-lukrecije.md:1"
   },
   {
     "_id": 2103,
@@ -47975,7 +47992,7 @@
         "reference": "Cap. XCV"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/cicero.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/095_ciceron.md:1"
   },
   {
     "_id": 2109,
@@ -48008,7 +48025,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 2111,
@@ -49132,7 +49149,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 2137,
@@ -49297,7 +49314,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 2143,
@@ -49410,7 +49427,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 2150,
@@ -49459,7 +49476,7 @@
         "reference": "Cap. CXVII"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/seneca.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/117_seneka.md:1"
   },
   {
     "_id": 2153,
@@ -49998,7 +50015,7 @@
         "reference": "Cap. LIX"
       }
     ],
-    "pointer": "data/sources/walter-burley/latin_raw/plotinus.txt:1"
+    "pointer": "data/sources/walter-burley/chapters-generated/059_plotin.md:1"
   },
   {
     "_id": 286,

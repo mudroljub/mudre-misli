@@ -3,11 +3,6 @@
   "editor": "Hermann Knust (1886)",
   "lastVerified": "2026-08-26",
   "layers": {
-    "rawTexts": {
-      "directory": "latin_raw",
-      "format": "txt",
-      "count": 78
-    },
     "detailedChapters": {
       "directory": "chapters",
       "format": "md",
@@ -21,5 +16,5 @@
       "status": "working OCR; verify against facsimile"
     }
   },
-  "note": "Directory contents are authoritative; counts are a verified summary."
+  "note": "The generated OCR chapters are the single complete searchable text layer; detailed chapters contain additional editorial work."
 }

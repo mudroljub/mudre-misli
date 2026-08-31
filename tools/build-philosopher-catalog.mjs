@@ -5,34 +5,21 @@ const rootDir = process.cwd()
 const sourcesDir = path.join(rootDir, 'data', 'sources')
 const quotesDir = path.join(rootDir, 'data', 'quotes')
 const outputJson = path.join(sourcesDir, 'philosopher-catalog.json')
-const outputMarkdown = path.join(sourcesDir, 'INDEX_FILOSOFI.md')
+const outputMarkdown = path.join(sourcesDir, 'INDEX_CENTRAL.md')
 
 const sourceDefinitions = {
   'diogenes-laertius': { label: 'Diogen Laertije', index: 'INDEX_LEARTIJE.md' },
-  'walter-burley': { label: 'Pseudo-Burley', index: 'INDEX_BURLEY.md' },
+  'walter-burley': { label: 'Burley', index: 'INDEX_BURLEY.md' },
   'hermann-diels': { label: 'Diels', index: 'INDEX_DIELS.md' },
   eunapius: { label: 'Eunapije', index: 'INDEX_EUNAPIJE.md' },
   philostratus: { label: 'Filostrat', index: 'INDEX_FILOSTRAT.md' },
   'porphyry-vita-plotini': { label: 'Porfirije', index: 'INDEX_PORFIRIJE_PLOTIN.md' },
+  'john-of-wales': { label: 'Jovan Velški', index: 'INDEX_JOVAN_VELSKI.md' },
+  'al-mubashshir-ibn-fatik': { label: 'Mukhtār al-ḥikam', index: 'INDEX_MUKHTAR_AL_HIKAM.md' },
+  suda: { label: 'Suda', index: 'INDEX_SUDA.md' },
 }
 
-const unindexedSources = [
-  {
-    source: 'Jovan Velški, Compendiloquium',
-    index: 'INDEX_JOVAN_VELSKI.md',
-    reason: 'Lokalni hOCR nema indeks ličnosti.',
-  },
-  {
-    source: 'al-Mubaššir ibn Fatik, Mukhtār al-ḥikam',
-    index: 'INDEX_MUKHTAR_AL_HIKAM.md',
-    reason: 'Dva OCR prenosa još nemaju indeks ličnosti.',
-  },
-  {
-    source: 'Suda',
-    index: 'INDEX_SUDA.md',
-    reason: 'Biografske leme još nisu izdvojene iz 24.078 odeljaka.',
-  },
-]
+const unindexedSources = []
 
 const aliasEntries = {
   'Periander': 'Perijandar',
@@ -53,6 +40,7 @@ const aliasEntries = {
   'Krates Atenjanin': 'Kratet Atenjanin',
   'Kratet': 'Kratet iz Tebe',
   'Zenon iz Kitija': 'Zenon iz Kitijuma',
+  'Zenon iz Kitijuma (pomešan sa Elejcem)': 'Zenon iz Kitijuma',
   'Zenon Elejski': 'Zenon iz Eleje',
   'Hrisip': 'Hrizip',
   'Arkesilaos': 'Arkesilaj',
@@ -173,6 +161,16 @@ const parseDiels = async () => {
   return rows
 }
 
+const parseLivesIndex = async (directory, source) => {
+  const rows = JSON.parse(await fs.readFile(path.join(sourcesDir, directory, 'lives-index.json'), 'utf8'))
+  return rows.map(row => ({
+    ...row,
+    source,
+    href: `${directory}/${row.href}`,
+    kind: 'biography',
+  }))
+}
+
 const loadQuoteStats = async serbianNames => {
   const stats = new Map()
   const files = (await fs.readdir(quotesDir)).filter(file => file.endsWith('.json'))
@@ -209,6 +207,9 @@ const buildCatalog = async () => {
     parseDiels(),
     parseEunapius(),
     parsePhilostratus(),
+    parseLivesIndex('john-of-wales', 'john-of-wales'),
+    parseLivesIndex('al-mubashshir-ibn-fatik', 'al-mubashshir-ibn-fatik'),
+    parseLivesIndex('suda', 'suda'),
     Promise.resolve([{
       name: 'Plotin',
       source: 'porphyry-vita-plotini',
@@ -262,27 +263,30 @@ const renderMarkdown = ({ catalog, unindexedSources }) => {
     '',
     '## Katalog',
     '',
-    '| Filozof / ličnost | Dostupne lokalne biografije |',
-    '|---|---|',
+    '| Filozof / ličnost | Dostupne lokalne biografije | Upotreba |',
+    '|---|---|---:|',
   ]
 
   for (const person of catalog) {
+    const personName = person.projectAuthor
+      ? markdownLink(person.name, `http://localhost:3000/sr/authors/${slugifyAuthor(person.projectAuthor)}`)
+      : person.name
     const sources = person.sources
       .map(source => {
-        const reference = source.reference ? `, ${source.reference}` : ''
-        return `${markdownLink(source.sourceLabel, source.href)}${reference}; upotreba: ${source.entries}`
+        const reference = source.reference ? ` — ${source.reference}` : ''
+        return `${markdownLink(source.sourceLabel, source.href)}${reference}`
       })
       .join('<br>')
-    const personName = person.projectAuthor
-      ? markdownLink(person.name, `/sr/authors/${slugifyAuthor(person.projectAuthor)}`)
-      : person.name
-    lines.push(`| ${personName} | ${sources} |`)
+    const uses = person.sources.map(source => source.entries).join('<br>')
+    lines.push(`| ${personName} | ${sources} | ${uses} |`)
   }
 
-  lines.push('', '## Izvori koji čekaju indeksiranje po ličnosti', '')
-  lines.push('| Izvor | Razlog |', '|---|---|')
-  for (const source of unindexedSources) {
-    lines.push(`| ${markdownLink(source.source, source.index)} | ${source.reason} |`)
+  if (unindexedSources.length > 0) {
+    lines.push('', '## Izvori koji čekaju indeksiranje po ličnosti', '')
+    lines.push('| Izvor | Razlog |', '|---|---|')
+    for (const source of unindexedSources) {
+      lines.push(`| ${markdownLink(source.source, source.index)} | ${source.reason} |`)
+    }
   }
   lines.push(
     '',
