@@ -63,7 +63,7 @@
     "birthplace": "Stagira"
   },
   "Demosthenes": {
-    "src": "/images/authors/unknown-author.svg",
+    "src": "/images/authors/Demosthenes.jpg",
     "born": -384,
     "died": -322,
     "originalText": "Δημοσθένης",
@@ -105,7 +105,7 @@
     "birthplace": "Athens"
   },
   "Euclid of Megara": {
-    "src": "",
+    "src": "/images/authors/Euclid_of_Megara.jpg",
     "born": -450,
     "died": -380,
     "originalText": "Εὐκλείδης ὁ Μεγαρεύς",
@@ -371,7 +371,7 @@
     "birthplace": "Eretria"
   },
   "Epictetus": {
-    "src": "/images/authors/unknown-author.svg",
+    "src": "/images/authors/Epictetus.jpg",
     "born": 50,
     "died": 135,
     "originalText": "Ἐπίκτητος",
@@ -420,14 +420,14 @@
     "birthplace": "Samos"
   },
   "Iamblichus": {
-    "src": "/images/authors/unknown-author.svg",
+    "src": "/images/authors/Iamblichus.jpg",
     "born": 245,
     "died": 325,
     "originalText": "Ἰάμβλιχος",
     "birthplace": "Chalcis"
   },
   "Philo": {
-    "src": "/images/authors/unknown-author.svg",
+    "src": "/images/authors/Philo.jpg",
     "born": -20,
     "died": 50,
     "originalText": "Φίλων ὁ Ἀλεξανδρεύς",
@@ -441,7 +441,7 @@
     "birthplace": "unknown"
   },
   "Marcus Aurelius": {
-    "src": "/images/authors/unknown-author.svg",
+    "src": "/images/authors/Marcus_Aurelius.jpg",
     "born": 121,
     "died": 180,
     "originalText": "Μάρκος Αὐρήλιος",
