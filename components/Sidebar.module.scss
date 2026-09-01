@@ -48,6 +48,7 @@
     flex-direction: column;
     gap: $spacing-sm;
     margin-top: $spacing-md;
+    margin-inline: -$spacing-md;
   }
 
   a {
@@ -61,7 +62,7 @@
   align-items: center;
   gap: $spacing-xs;
   padding: $spacing-xs;
-  padding-left: $spacing-md;
+  padding-left: $spacing-md * 2;
   border-radius: $border-radius-sm;
   transition: background-color $transition-fast;
 
@@ -116,7 +117,7 @@
   flex: 1;
   font-weight: 700;
   font-size: $font-size-base;
-  padding: $spacing-sm $spacing-xxs;
+  padding: $spacing-sm ($spacing-md + $spacing-xxs);
 }
 
 .groupPeriod {
@@ -129,7 +130,7 @@
   font-weight: 700;
   transition: transform $transition-fast;
   display: inline-block;
-  padding: $spacing-sm;
+  padding: $spacing-sm ($spacing-md + $spacing-xxs) $spacing-sm $spacing-sm;
 
   &.expanded {
     transform: rotate(90deg);
@@ -163,6 +164,6 @@
   font-weight: 600;
   letter-spacing: 0.02em;
   margin: 0 0 $spacing-xs;
-  padding: $spacing-xs $spacing-xxs;
+  padding: $spacing-xs ($spacing-md + $spacing-xxs);
   color: rgba($color-white, 0.72);
 }
