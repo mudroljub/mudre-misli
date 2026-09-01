@@ -1,0 +1,1078 @@
+{
+  "id": "mw-000009",
+  "slug": "protagoras",
+  "author": "Plato",
+  "kind": "dialogue",
+  "title": {
+    "sr": "Protagora",
+    "stsl": "Протагоръ"
+  },
+  "originalTitle": "Πρωταγόρας",
+  "source": {
+    "name": "canonical-greekLit",
+    "work": "tlg0059.tlg022"
+  },
+  "citationScheme": "stephanus",
+  "sections": [
+    {
+      "anchor": "309a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "309b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "309c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "309d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "310a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "310b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "310c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "310d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "310e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "311a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "311b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "311c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "311d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "311e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "312a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "312b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "312c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "312d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "312e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "313a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "313b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "313c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "313d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "313e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "314a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "314b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "314c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "314d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "314e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "315a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "315b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "315c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "315d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "315e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "316a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "316b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "316c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "316d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "316e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "317a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "317b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "317c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "317d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "317e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "318a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "318b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "318c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "318d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "318e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "319a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "319b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "319c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "319d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "319e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "320a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "320b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "320c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "320d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "320e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "321a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "321b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "321c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "321d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "321e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "322a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "322b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "322c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "322d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "322e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "323a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "323b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "323c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "323d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "323e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "324a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "324b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "324c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "324d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "324e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "325a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "325b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "325c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "325d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "325e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "326a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "326b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "326c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "326d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "326e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "327a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "327b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "327c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "327d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "327e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "328a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "328b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "328c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "328d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "328e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "329a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "329b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "329c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "329d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "329e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "330a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "330b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "330c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "330d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "330e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "331a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "331b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "331c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "331d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "331e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "332a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "332b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "332c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "332d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "332e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "333a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "333b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "333c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "333d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "333e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "334a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "334b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "334c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "334d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "334e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "335a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "335b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "335c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "335d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "335e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "336a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "336b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "336c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "336d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "336e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "337a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "337b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "337c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "337d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "337e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "338a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "338b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "338c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "338d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "338e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "339a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "339b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "339c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "339d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "339e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "340a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "340b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "340c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "340d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "340e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "341a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "341b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "341c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "341d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "341e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "342a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "342b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "342c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "342d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "342e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "343a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "343b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "343c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "343d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "343e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "344a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "344b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "344c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "344d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "344e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "345a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "345b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "345c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "345d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "345e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "346a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "346b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "346c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "346d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "346e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "347a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "347b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "347c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "347d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "347e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "348a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "348b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "348c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "348d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "348e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "349a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "349b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "349c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "349d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "349e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "350a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "350b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "350c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "350d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "350e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "351a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "351b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "351c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "351d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "351e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "352a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "352b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "352c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "352d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "352e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "353a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "353b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "353c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "353d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "353e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "354a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "354b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "354c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "354d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "354e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "355a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "355b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "355c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "355d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "355e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "356a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "356b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "356c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "356d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "356e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "357a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "357b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "357c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "357d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "357e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "358a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "358b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "358c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "358d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "358e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "359a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "359b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "359c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "359d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "359e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "360a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "360b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "360c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "360d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "360e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "361a",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "361b",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "361c",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "361d",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "361e",
+      "file": "protagoras"
+    },
+    {
+      "anchor": "362a",
+      "file": "protagoras"
+    }
+  ]
+}

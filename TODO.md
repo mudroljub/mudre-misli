@@ -4,7 +4,7 @@
 
 - preostali Epiktetov gnomologij (`tlg004`–`tlg005`), uz proveru preklapanja
    sa `Razgovorima` i `Priručnikom`;
-- Platon - Protagora
+- Platon — Protagora (ceo dijalog u works/ formatu, 309–362; citati iz ključnih odeljaka već su u Protagoras.json)
 - provereni stoički fragmentarni korpusi: Kleant, Hrisip, Ariston sa Hiosa i
    Antipatar iz Tarsa;
 - Plotin - Eneade

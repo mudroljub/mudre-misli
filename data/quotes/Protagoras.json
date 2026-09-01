@@ -937,5 +937,61 @@
         "reference": "4.Π.2958"
       }
     ]
+  },
+  {
+    "id": "mm-900156",
+    "type": "quote",
+    "sr": "Protagora Sokratu: Zar ti se čini da je pesnik dobro spevao ako sam sebi protivreči? Simonid najpre postavlja da je teško postati dobar čovek, a malo dalje kori Pitaka što je govorio to isto — da je teško biti dobar.",
+    "stsl": "Протагоръ Сѡкратѹ · Мьнить ли ти сѧ · ꙗко добрѣ пѣснь съложена єсть · аще самъ себѣ пѣсньникъ противити сѧ видить · Симонидъ напрѣжде самъ положи · тѧжько мѫжа добра бꙑти · и мало потомъ Питтака ѹкарааше · ꙗко тождє глаголааше · ꙗко тѧжько добрꙑ бꙑти ·",
+    "originalText": "δοκεῖ δέ σοι καλῶς πεποιῆσθαι, εἰ ἐναντία λέγει αὐτὸς αὑτῷ ὁ ποιητής; … ὁ αὐτὸς οὗτος καὶ τάδε λέγει κἀκεῖνα τὰ ἔμπροσθεν … χαλεπὸν φάτʼ ἐσθλὸν ἔμμεναι.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "339c–d"
+      }
+    ]
+  },
+  {
+    "id": "mm-900159",
+    "type": "quote",
+    "sr": "Protagora: Sve ove stvari su delovi vrline, i četiri od njih su u priličnoj meri slični jedni drugima, ali je hrabrost sasvim drugačija od svih ostalih. Naći ćeš mnoge ljude koji su najnepravedniji, najbezbožniji, najneumereniji i najneučeniji, a ipak su izuzetno hrabri.",
+    "stsl": "Протагоръ · Вьсѧ сиꙗ чѧсти добродѣтели сѫть · и четꙑри отъ нихъ подобьны сѫть дрѹгъ дрѹгѹ · ѡбаче хоробрость вельми отъличьна отъ вьсѣхъ · Обрѧштеши бо мноꙃы чловѣкꙑ · наинєправьдьнѣиши · наибезбожьнѣиши · наинеѹмѣреньнѣиши и наиненаѹченьнѣиши · ѡбаче наихоробрьнѣиши ·",
+    "originalText": "ταῦτα πάντα μόρια μέν ἐστιν ἀρετῆς, καὶ τὰ μὲν τέτταρα αὐτῶν ἐπιεικῶς παραπλήσια ἀλλήλοις ἐστίν, ἡ δὲ ἀνδρεία πάνυ πολὺ διαφέρον πάντων τούτων. εὑρήσεις γὰρ πολλοὺς τῶν ἀνθρώπων ἀδικωτάτους μὲν ὄντας καὶ ἀνοσιωτάτους καὶ ἀκολαστοτάτους καὶ ἀμαθεστάτους, ἀνδρειοτάτους δὲ διαφερόντως.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "349d"
+      }
+    ]
+  },
+  {
+    "id": "mm-900160",
+    "type": "quote",
+    "sr": "Protagora: Hrabri su smeli. I to jurišnici, koji idu tamo gde se mnogi boje ići.",
+    "stsl": "Протагоръ · Хоробри сѫть смѣли · и то юнаци · иже идѫть тамо · амо же мноꙃи бои сѧ ити ·",
+    "originalText": "καὶ ἴτας γε, ἐφʼ ἃ οἱ πολλοὶ φοβοῦνται ἰέναι.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "349e"
+      }
+    ]
+  },
+  {
+    "id": "mm-900166",
+    "type": "quote",
+    "sr": "Protagora Sokratu: Pohvale vredna je tvoja revnost i tok razgovora. Od svih s kojima se srećem — tebe najdublje cenim. O ovim pitanjima razgovaraćemo kad god poželiš.",
+    "stsl": "Протагоръ Сѡкратѹ · Похвально рьвєниє твоє и хѡдъ словесъ · Отъ вьсѣхъ ꙗже срѣтаѭ — тєбє наипаче дивлѭ сѧ · О сихъ же бесѣдовати можємъ єгда хощєши ·",
+    "originalText": "ἐπαινῶ σου τὴν προθυμίαν καὶ τὴν διέξοδον τῶν λόγων. καὶ γὰρ οὔτε τἆλλα οἶμαι κακὸς εἶναι ἄνθρωπος, φθονερός τε ἥκιστʼ ἀνθρώπων, ἐπεὶ καὶ περὶ σοῦ πρὸς πολλοὺς δὴ εἴρηκα ὅτι ὧν ἐντυγχάνω πολὺ μάλιστα ἄγαμαι σέ … καὶ περὶ τούτων δὲ εἰς αὖθις, ὅταν βούλῃ, διέξιμεν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "361e"
+      }
+    ]
   }
 ]
