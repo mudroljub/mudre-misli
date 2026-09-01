@@ -1,9 +1,9 @@
 # TODO
 
-## Obrađivati filozofe
+## Kompletno obraditi filozofe
 
 Proširiti nekorištenim lokalnim izvorima (vidi INDEX_CENTRAL.md):
-- Zenon iz Eleje — Burley dodat kao drugi izvor postojećeg svedočanstva; ceo čisti arapski prepis `Mukhtār al-ḥikam` (str. 1–372) sačuvan lokalno, a sledeće treba izdvojiti upotrebljiva srednjovekovna svedočanstva uz proveru skena
+- Zenon iz Eleje
 - Protagora
 - Gorgija
 - Plotin

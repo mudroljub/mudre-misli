@@ -26,6 +26,14 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.52"
+      },
+      {
+        "name": "philostratus",
+        "reference": "1.10.1"
+      },
+      {
+        "name": "suda",
+        "reference": "4.Π.2958"
       }
     ]
   },
@@ -293,6 +301,10 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.52"
+      },
+      {
+        "name": "suda",
+        "reference": "4.Π.2958"
       }
     ]
   },
@@ -879,6 +891,50 @@
       {
         "name": "plato-protagoras",
         "reference": "318a"
+      }
+    ]
+  },
+  {
+    "id": "mm-900150",
+    "type": "bio",
+    "year": -480,
+    "sr": "Protagora Abderac bio je sofista, učenik Demokrita u zavičaju, a družio se i sa persijskim magovima za vreme Kserkovovog pohoda na Heladu. Otac mu beše Majandar, bogatiji od mnogih u Trakiji; primivši Kserksa u dom i obdarivši ga darovima, izmoli da sin može učiti od maga. Persijski magi inoplemence ne poučavaju, osim ako car ne dopusti.",
+    "stsl": "Протагора Абдиритъ софистъ бѣ · Демокрита оученикъ въ отьчьствіи · съ магꙑ же персьскꙑими дрѹжааше · въ врѣмѧ Ѯерѯова на Елладѫ похода · Отьць же ємѹ Маиандръ · богатьствомъ паче многихъ въ Ѳракіи · Ѯерѯа въ домъ приѩтъ и дари давъ · сꙑнѹ оучение отъ магъ испроси · Маги бо персьстїи иноплеменьникꙑ не оучѧть · аште цѣсарь не повелитъ ·",
+    "originalText": "Πρωταγόρας δὲ ὁ Ἀβδηρίτης σοφιστὴς καὶ Δημοκρίτου μὲν ἀκροατὴς οἴκοι ἐγένετο, ὡμίλησε δὲ καὶ τοῖς ἐκ Περσῶν μάγοις κατὰ τὴν Ξέρξου ἐπὶ τὴν Ἑλλάδα ἔλασιν. πατὴρ γὰρ ἦν αὐτῷ Μαίανδρος πλούτῳ κατεσκευασμένος παρὰ πολλοὺς τῶν ἐν τῇ Θρᾴκῃ, δεξάμενος δὲ καὶ τὸν Ξέρξην οἰκίᾳ τε καὶ δώροις τὴν ξυνουσίαν τῶν μάγων τῷ παιδὶ παρʼ αὐτοῦ εὕρετο. οὐ γὰρ παιδεύουσι τοὺς μὴ Πέρσας Πέρσαι μάγοι, ἢν μὴ ὁ βασιλεὺς ἐφῇ.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "philostratus",
+        "reference": "1.10.1"
+      }
+    ]
+  },
+  {
+    "id": "mm-900152",
+    "type": "bio",
+    "year": -415,
+    "sr": "Zbog sumnje u postojanje bogova, Atinjani prognase Protagoru iz svih zemalja pod svojom vlašću; po nekima bi osuđen, po drugima se glasalo ali presuda nije doneta. Bežeći s ostrva na ostrvo i krijeći se od atinskih trirera rasutih po svim morima, utonu ploveći u malom čamcu.",
+    "stsl": "Сѹмнѣниꙗ ради ꙗко сѫть ли бози · Аѳинѧне Протагорѫ изгънашѧ отъ вьсѣхъ ꙁємль подъ своєѭ властїѭ · по єдинѣмъ осѫжденъ · по инѣмъ же гласованиѥ бꙑсть а присѫдꙑ не бѣ · Бѣжѧ съ острова на островъ · и крꙑѩ сѧ отъ триеръ аѳиньскꙑхъ по вьсѣмъ морємъ растъканꙑхъ · потѫпе въ малѣмь кораблѣ плꙑвꙙ ·",
+    "originalText": "διὰ μὲν δὴ τοῦτο πάσης γῆς ὑπὸ Ἀθηναίων ἠλάθη, ὡς μέν τινες, κριθείς, ὡς δὲ ἐνίοις δοκεῖ, ψήφου ἐπενεχθείσης μὴ κριθέντι. νήσους δὲ ἐξ ἠπείρων ἀμείβων καὶ τὰς Ἀθηναίων τριήρεις φυλαττόμενος πάσαις θαλάτταις ἐνεσπαρμένας κατέδυ πλέων ἐν ἀκατίῳ μικρῷ.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "philostratus",
+        "reference": "1.10.1"
+      }
+    ]
+  },
+  {
+    "id": "mm-900154",
+    "type": "reported",
+    "sr": "Protagora je bio učitelj retora Isokrata. Prvi je ceo govor podelio na četiri dela: molbu, pitanje, odgovor, naredbu. Posle njega drugi su ovo podelili na sedam: pripovedanje, pitanje, odgovor, naredbu, objavu, molbu, poziv. Alkidamas pak kaže da postoje četiri vida govora: tvrdnju, odricanje, pitanje, obraćanje.",
+    "stsl": "Протагора оучитель ритора Исократа · Пръвꙑи вьсь словъ раꙁдѣли на четꙑри · мольбѫ · въпросъ · отъвѣтъ · повелѣниє · По нємь ини сиє раꙁдѣлишѧ на сєдмь · повѣсть · въпросъ · отъвѣтъ · повелѣниє · оглашениє · мольбѫ · ꙁъваниє · Алкидамъ же глаголетъ четꙑри видꙑ слова · оутвьржениє · отъврьжениє · въпросъ · обращениє ·",
+    "originalText": "διδάϲκαλοϲ δὲ γέγονε καὶ τοῦ ῥήτοροϲ Ἰϲοκράτουϲ. διεῖλέ τε πάντα λόγον πρῶτοϲ οὗτοϲ εἰϲ τέϲϲαρα· εὐχωλήν, ἐρώτηϲιν, ἀπόκριϲιν, ἐντολήν· μετὰ δὲ τοῦτον ἕτεροι εἰϲ ζ΄ διεῖλον ταῦτα· διήγηϲιν, ἐρώτηϲιν, ἀπόκριϲιν, ἐντολήν, εἰϲαγγελίαν, εὐχωλήν, κλῆϲιν. Ἀλκιδάμαϲ δὲ τέϲϲαραϲ εἶναί φηϲιν ἰδέαϲ λόγων· φάϲιν, ἀπόφαϲιν, ἐρώτηϲιν, προϲαγόρευϲιν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "4.Π.2958"
       }
     ]
   }

@@ -187,5 +187,19 @@
     "originalTitle": "Προτρεπτικὸς πρὸς Ἕλληνας",
     "stsl": "Увѣщаниѥ къ Елиномъ",
     "sr": "Nagovor Helenima"
+  },
+  "philostratus": {
+    "author": "Philostratus the Athenian",
+    "language": "grc",
+    "originalTitle": "Βίοι Σοφιστῶν",
+    "stsl": "Животи софистовъ",
+    "sr": "Životi sofista"
+  },
+  "suda": {
+    "author": "Suda",
+    "language": "grc",
+    "originalTitle": "Σοῦδα",
+    "stsl": "Суда",
+    "sr": "Suda"
   }
 }

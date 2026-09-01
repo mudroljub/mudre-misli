@@ -12,14 +12,8 @@
       "year": 1980,
       "pagination": "68, 372 p.",
       "language": "ar",
-      "formats": [
-        "plain-text web transcription",
-        "PDF scan"
-      ],
-      "files": [
-        "mukhtar-al-hikam.aljam3.ar.txt",
-        "mukhtar-al-hikam.badawi.scan.pdf"
-      ],
+      "format": "plain-text web transcription",
+      "file": "mukhtar-al-hikam.aljam3.ar.txt",
       "transcriptionSource": {
         "provider": "al-Jāmiʿ",
         "urlPattern": "https://aljam3.com/ar/10851/26559/{page}",
@@ -28,47 +22,34 @@
         "emptyTranscriptionPages": [
           364
         ],
-        "notes": "All page transcriptions were mechanically extracted without normalization. Al-Jāmiʿ explicitly marks page 364 as empty, so it is represented only by its page marker; consult the PDF scan if needed."
+        "notes": "All page transcriptions were mechanically extracted without normalization. Al-Jāmiʿ explicitly marks page 364 as empty, so it is represented only by its page marker."
       },
       "metadataFile": "arabic-internet-archive-metadata.json",
       "identifier": "76402",
       "recordUrl": "https://archive.org/details/76402",
-      "waqfeyaRecordUrl": "https://waqfeya.net/books/مختار-الحكم-ومحاسن-الكلم/8ab0547ea68043219ae9afba0d90c367",
-      "waqfeyaDownloadUrl": "https://archive.org/download/waq76402/76402.pdf",
-      "sha256": {
-        "mukhtar-al-hikam.aljam3.ar.txt": "9C586BF05F3A3BBAF884D312BB183B6E9E7E896A6DB0E39D33EE81E52A58DAF1",
-        "mukhtar-al-hikam.badawi.scan.pdf": "60074F3B27B47E19037CA5417379429B8C37F6E5C608FF34D132191623078141"
-      }
-    },
-    {
-      "title": "The Dictes and Sayings of the Philosophers",
-      "transmission": "Arabic to Spanish to Latin/French tradition; English translation by Anthony Woodville, printed by William Caxton in 1477; 1877 facsimile",
-      "language": "enm",
-      "format": "plain-text OCR",
-      "file": "dictes-and-sayings-of-philosophers.caxton-1877.ocr.txt",
-      "metadataFile": "internet-archive-metadata.json",
-      "downloadUrl": "https://archive.org/download/dictessayingsofp00caxtuoft/dictessayingsofp00caxtuoft_djvu.txt",
-      "identifier": "dictessayingsofp00caxtuoft",
-      "sha256": "8854C86C88DB1CF987145FA5C176F3C339780994922CBC9F6ECF2813DD0A5469"
-    },
-    {
-      "title": "Bocados de oro in Mittheilungen aus dem Eskurial",
-      "editor": "Hermann Knust, 1879",
-      "transmission": "Medieval Spanish branch translated from the Arabic work",
-      "language": [
-        "spa",
-        "deu"
-      ],
-      "format": "plain-text OCR",
-      "file": "bocados-de-oro.knust-1879.ocr.txt",
-      "metadataFile": "bocados-internet-archive-metadata.json",
-      "downloadUrl": "https://archive.org/download/mittheilungenau01knusgoog/mittheilungenau01knusgoog_djvu.txt",
-      "identifier": "mittheilungenau01knusgoog",
-      "sha256": "0FC492691C68315D5D6F8ED6F05604B603601206460C566774E4DECC7F453B34"
+      "sha256": "9C586BF05F3A3BBAF884D312BB183B6E9E7E896A6DB0E39D33EE81E52A58DAF1"
     }
   ],
-  "source": "Internet Archive and al-Jāmiʿ",
-  "license": "European witnesses are public domain and their Internet Archive records are marked NOT_IN_COPYRIGHT; consult the Arabic record metadata for its terms.",
-  "fileCount": 7,
-  "notes": "Includes Badawi's second Arabic edition (Beirut, 1980) as a complete local web transcription and PDF scan, plus searchable witnesses to two European branches of the work's transmission. The previous low-quality Internet Archive plain-text and DjVu XML OCR derivatives were replaced by the complete al-Jāmiʿ transcription. The Waqfeya/waq76402 PDF was checked on 2026-09-01 and is byte-for-byte identical to the existing local PDF scan. Web transcription quality varies; quotations must be checked against page images before use."
+  "externalReferences": [
+    {
+      "title": "Badawi PDF scan",
+      "url": "https://archive.org/details/76402",
+      "alternateUrl": "https://waqfeya.net/books/مختار-الحكم-ومحاسن-الكلم/8ab0547ea68043219ae9afba0d90c367",
+      "note": "PDF scan for verification of transcription readings"
+    },
+    {
+      "title": "The Dictes and Sayings of the Philosophers (Caxton 1477)",
+      "url": "https://archive.org/details/dictessayingsofp00caxtuoft",
+      "note": "English translation, European branch of transmission"
+    },
+    {
+      "title": "Bocados de oro (Knust 1879)",
+      "url": "https://archive.org/details/mittheilungenau01knusgoog",
+      "note": "Spanish branch of transmission"
+    }
+  ],
+  "source": "al-Jāmiʿ web transcription",
+  "license": "Consult the Arabic Internet Archive record metadata for license terms",
+  "fileCount": 4,
+  "notes": "Contains only the complete Arabic web transcription from al-Jāmiʿ (based on Badawi's second edition, Beirut 1980). PDF scan and European translations are available on Internet Archive but not stored locally to save space. Previous low-quality OCR derivatives were replaced by this complete transcription."
 }
