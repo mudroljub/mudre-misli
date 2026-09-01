@@ -24,8 +24,7 @@
 }
 
 .sidebar {
-  padding: $spacing-lg;
-  padding-top: 60px;
+  padding: 60px $spacing-md $spacing-lg;
   background: $color-primary;
   color: $color-white;
   overflow-y: auto;
@@ -62,7 +61,7 @@
   align-items: center;
   gap: $spacing-xs;
   padding: $spacing-xs;
-  padding-left: $spacing-lg;
+  padding-left: $spacing-md;
   border-radius: $border-radius-sm;
   transition: background-color $transition-fast;
 
@@ -117,7 +116,7 @@
   flex: 1;
   font-weight: 700;
   font-size: $font-size-base;
-  padding: $spacing-sm;
+  padding: $spacing-sm $spacing-xxs;
 }
 
 .groupPeriod {
@@ -138,7 +137,7 @@
 }
 
 .groupContent {
-  padding-left: $spacing-sm;
+  padding-left: 0;
   margin-top: $spacing-xs;
   overflow: hidden;
   animation: slideDown 0.2s ease-out;
@@ -164,6 +163,6 @@
   font-weight: 600;
   letter-spacing: 0.02em;
   margin: 0 0 $spacing-xs;
-  padding: $spacing-xs;
+  padding: $spacing-xs $spacing-xxs;
   color: rgba($color-white, 0.72);
 }
