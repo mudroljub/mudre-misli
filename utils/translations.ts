@@ -170,6 +170,9 @@ export interface Translations {
     Cicero: string;
     'Musonius Rufus': string;
     Lucretius: string;
+    Philolaus: string;
+    Melissus: string;
+    Iamblichus: string;
   };
 }
 
@@ -344,6 +347,9 @@ export const translations: Record<Language, Translations> = {
       Cicero: 'Цицеронъ',
       'Musonius Rufus': 'Мѹсонии Рѹфъ',
       Lucretius: 'Лѹкреции',
+      Philolaus: 'Филолаи',
+      Melissus: 'Мєлисъ',
+      Iamblichus: 'Їамблихъ',
     },
   },
   sr: {
@@ -516,6 +522,9 @@ export const translations: Record<Language, Translations> = {
       Cicero: 'Ciceron',
       'Musonius Rufus': 'Musonije Ruf',
       Lucretius: 'Lukrecije',
+      Philolaus: 'Filolaj',
+      Melissus: 'Melis',
+      Iamblichus: 'Jamblihos',
     },
   },
 };

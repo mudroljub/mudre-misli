@@ -42,12 +42,12 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'pythagoreans',
         title: 'Pythagoreans',
-        authors: ['Pythagoras']
+        authors: ['Pythagoras', 'Philolaus']
       },
       {
         titleKey: 'eleatics',
         title: 'Eleatics',
-        authors: ['Parmenides', 'Zeno of Elea']
+        authors: ['Parmenides', 'Zeno of Elea', 'Melissus']
       },
       {
         titleKey: 'atomists',
@@ -151,6 +151,6 @@ export const authorGroups: AuthorGroup[] = [
     titleKey: 'lateAntiquity',
     title: 'Late Antiquity',
     period: '2-3. vek',
-    authors: ['Plotinus']
+    authors: ['Plotinus', 'Iamblichus']
   }
 ];
