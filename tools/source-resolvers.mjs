@@ -98,6 +98,39 @@ const createPlotinusEnneadsResolver = () =>
     return `data/sources/First1KGreek/data/tlg2000/tlg001/tlg2000.tlg001.1st1K-grc1.xml#${passage}`
   }
 
+const createIamblichusVitaPythagoricaResolver = () =>
+  async reference => {
+    const normalized = String(reference || '').trim()
+    const refMatch = normalized.match(/^(\d+)\.(\d+)(?:[–-](\d+))?$/)
+    if (!refMatch) return null
+
+    const chapterNumber = Number(refMatch[1])
+    const sectionNumber = Number(refMatch[2])
+    const endSectionNumber = Number(refMatch[3] ?? refMatch[2])
+
+    if (
+      chapterNumber < 1 ||
+      sectionNumber < 1 ||
+      endSectionNumber < sectionNumber
+    ) {
+      return null
+    }
+
+    const passage = endSectionNumber > sectionNumber
+      ? `${chapterNumber}.${sectionNumber}-${endSectionNumber}`
+      : `${chapterNumber}.${sectionNumber}`
+
+    return `data/sources/First1KGreek/data/tlg2023/tlg001/tlg2023.tlg001.1st1K-grc1.xml#${passage}`
+  }
+
+const createPorphyryVitaPythagoraeResolver = () =>
+  async reference => {
+    const section = String(reference || '').trim().match(/^\d+$/)?.[0]
+    if (!section || Number(section) < 1) return null
+
+    return `data/sources/First1KGreek/data/tlg2034/tlg002/tlg2034.tlg002.1st1K-grc1.xml#${section}`
+  }
+
 const hermannDielsAuthorFiles = {
   Anaximenes: '03-Anaximenes.txt',
   Xenophanes: '11-Xenophanes.txt',
@@ -235,6 +268,8 @@ export const createSourceResolvers = rootDir => ({
   'walter-burley': createWalterBurleyResolver(rootDir),
   'porphyry-vita-plotini': createPorphyryVitaPlotiniResolver(),
   'plotinus-enneads': createPlotinusEnneadsResolver(),
+  'iamblichus-vita-pythagorica': createIamblichusVitaPythagoricaResolver(),
+  'porphyry-vita-pythagorae': createPorphyryVitaPythagoraeResolver(),
   'hermann-diels': createHermannDielsResolver(rootDir),
   plutarch: createPlutarchStephanusResolver(
     rootDir,

@@ -317,6 +317,50 @@ for (const quote of allQuotes) {
     continue
   }
 
+  const iamblichusPythagorasMatch = quote.pointer.match(
+    /^(data\/sources\/First1KGreek\/data\/tlg2023\/tlg001\/tlg2023\.tlg001\.1st1K-grc1\.xml)#(\d+)\.(\d+)(?:-(\d+))?$/,
+  )
+
+  if (iamblichusPythagorasMatch) {
+    const [, relFile, chapter, section, endSection] = iamblichusPythagorasMatch
+    let content = pointerFileCache.get(relFile)
+    if (content === undefined) {
+      content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
+      pointerFileCache.set(relFile, content)
+    }
+
+    const chapterPattern = new RegExp(`<div\\b[^>]*subtype="chapter"[^>]*n="${chapter}"|<div\\b[^>]*n="${chapter}"[^>]*subtype="chapter"`)
+    const sectionNumbers = endSection ? [section, endSection] : [section]
+    const hasSections = sectionNumbers.every(sectionNumber => {
+      const sectionPattern = new RegExp(`<div\\b[^>]*subtype="section"[^>]*n="${sectionNumber}"|<div\\b[^>]*n="${sectionNumber}"[^>]*subtype="section"`)
+      return sectionPattern.test(content)
+    })
+
+    if (!chapterPattern.test(content) || !hasSections) {
+      throw new Error(`Quote ${quote._id} points to missing Iamblichus passage "${quote.pointer}"`)
+    }
+    continue
+  }
+
+  const porphyryPythagorasMatch = quote.pointer.match(
+    /^(data\/sources\/First1KGreek\/data\/tlg2034\/tlg002\/tlg2034\.tlg002\.1st1K-grc1\.xml)#(\d+)$/,
+  )
+
+  if (porphyryPythagorasMatch) {
+    const [, relFile, section] = porphyryPythagorasMatch
+    let content = pointerFileCache.get(relFile)
+    if (content === undefined) {
+      content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
+      pointerFileCache.set(relFile, content)
+    }
+
+    const sectionPattern = new RegExp(`<div\\b[^>]*subtype="section"[^>]*n="${section}"|<div\\b[^>]*n="${section}"[^>]*subtype="section"`)
+    if (!sectionPattern.test(content)) {
+      throw new Error(`Quote ${quote._id} points to missing Porphyry passage "${quote.pointer}"`)
+    }
+    continue
+  }
+
   const porphyryMatch = quote.pointer.match(
     /^(data\/sources\/porphyry\/vita-plotini\.el-wikisource\.parse\.json)#p(\d+)$/,
   )

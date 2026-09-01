@@ -81,6 +81,14 @@ data/sources/First1KGreek/data/tlg2000/tlg001/tlg2000.tlg001.1st1K-grc1.xml#1.6.
 data/sources/First1KGreek/data/tlg2000/tlg001/tlg2000.tlg001.1st1K-grc1.xml#5.1.6-7
 ```
 
+Jamblihovo delo `O pitagorejskom životu` koristi CTS prolaz
+`poglavlje.odeljak`, a Porfirijev `Život Pitagore` broj odeljka:
+
+```text
+data/sources/First1KGreek/data/tlg2023/tlg001/tlg2023.tlg001.1st1K-grc1.xml#15.64
+data/sources/First1KGreek/data/tlg2034/tlg002/tlg2034.tlg002.1st1K-grc1.xml#37
+```
+
 ## Provera i generisanje
 
 ```bash

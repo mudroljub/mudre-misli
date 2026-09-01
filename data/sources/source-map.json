@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T07:33:35.562Z",
+  "generatedAt": "2026-09-01T07:47:33.142Z",
   "sourceRoot": "data/sources",
-  "totalQuotes": 2201,
+  "totalQuotes": 2204,
   "totalQuoteFiles": 56,
-  "totalUniqueSources": 19,
+  "totalUniqueSources": 21,
   "items": [
     {
       "source": "diogenes-laertius",
@@ -1997,6 +1997,21 @@
       "books": []
     },
     {
+      "source": "iamblichus-vita-pythagorica",
+      "count": 2,
+      "authors": [
+        "Pythagoras"
+      ],
+      "references": [
+        "15.64",
+        "15.65"
+      ],
+      "work": null,
+      "refsRaw": null,
+      "refs": [],
+      "books": []
+    },
+    {
       "source": "plutarch",
       "count": 2,
       "authors": [
@@ -2119,6 +2134,20 @@
       ],
       "references": [
         "1126A"
+      ],
+      "work": null,
+      "refsRaw": null,
+      "refs": [],
+      "books": []
+    },
+    {
+      "source": "porphyry-vita-pythagorae",
+      "count": 1,
+      "authors": [
+        "Pythagoras"
+      ],
+      "references": [
+        "37"
       ],
       "work": null,
       "refsRaw": null,
