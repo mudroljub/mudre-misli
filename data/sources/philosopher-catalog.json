@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T19:56:52.842Z",
+  "generatedAt": "2026-09-01T13:55:18.283Z",
   "catalog": [
     {
       "name": "Ablabije",
@@ -47,6 +47,36 @@
       "projectAuthor": null
     },
     {
+      "name": "Albin / Alcinous korpus",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0693; 2 dela",
+          "href": "First1KGreek/data/tlg0693",
+          "kind": "primary-text corpus",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Aleksandar Afrodizijski",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0732; 12 dela",
+          "href": "First1KGreek/data/tlg0732",
+          "kind": "primary-text corpus",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Aleksandar Peloplaton",
       "sources": [
         {
@@ -69,7 +99,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Aleksandar",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -390,6 +420,15 @@
           "href": "walter-burley/chapters-generated/098_antipatar-iz-tarsa.md",
           "kind": "biography",
           "entries": 0
+        },
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg1146; 1 delo",
+          "href": "First1KGreek/data/tlg1146",
+          "kind": "primary-text corpus",
+          "entries": 0
         }
       ],
       "projectAuthor": null
@@ -681,9 +720,33 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 15
+        },
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg1193; 1 delo",
+          "href": "First1KGreek/data/tlg1193",
+          "kind": "primary-text corpus",
+          "entries": 0
         }
       ],
       "projectAuthor": "Aristo of Chios"
+    },
+    {
+      "name": "Aristokle iz Mesene",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg1188; 1 delo",
+          "href": "First1KGreek/data/tlg1188",
+          "kind": "primary-text corpus",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
     },
     {
       "name": "Aristokle iz Pergama",
@@ -722,6 +785,15 @@
           "entries": 40
         },
         {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0086; 8 dela",
+          "href": "canonical-greekLit/data/tlg0086",
+          "kind": "primary-text corpus",
+          "entries": 0
+        },
+        {
           "source": "john-of-wales",
           "sourceLabel": "Jovan Velški",
           "index": "INDEX_JOVAN_VELSKI.md",
@@ -735,7 +807,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Aristotel",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         },
@@ -783,7 +855,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Adab Asklepios",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -906,6 +978,21 @@
         }
       ],
       "projectAuthor": "Cicero"
+    },
+    {
+      "name": "Corpus Hermeticum / hermetički korpus",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg1286; 19 dela",
+          "href": "First1KGreek/data/tlg1286",
+          "kind": "primary-text corpus",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
     },
     {
       "name": "Damijan iz Efesa",
@@ -1137,7 +1224,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Diogen; mudrosti i pouke",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         },
@@ -1325,6 +1412,21 @@
       "projectAuthor": null
     },
     {
+      "name": "Epiktet",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0557; 5 dela",
+          "href": "canonical-greekLit/data/tlg0557",
+          "kind": "primary-text corpus",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": "Epictetus"
+    },
+    {
       "name": "Epikur",
       "sources": [
         {
@@ -1484,7 +1586,7 @@
       "projectAuthor": null
     },
     {
-      "name": "Euklit Megaranin",
+      "name": "Euklid Megaranin",
       "sources": [
         {
           "source": "diogenes-laertius",
@@ -1493,10 +1595,10 @@
           "reference": null,
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 11
         }
       ],
-      "projectAuthor": null
+      "projectAuthor": "Euclid of Megara"
     },
     {
       "name": "Euripid",
@@ -1733,6 +1835,21 @@
       "projectAuthor": null
     },
     {
+      "name": "Filon Aleksandrijski",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0018; 28 dela",
+          "href": "First1KGreek/data/tlg0018",
+          "kind": "primary-text corpus",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Filostrat Egipćanin",
       "sources": [
         {
@@ -1779,7 +1896,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Galen; pouke i mudrosti",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -1851,7 +1968,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Adab Grigorije",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -1989,7 +2106,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Hikma Hermes; Mukhtar mawa'iz Hermes",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -2190,7 +2307,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Hipokrat",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -2292,6 +2409,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 40
+        },
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg1264; 4 dela",
+          "href": "First1KGreek/data/tlg1264",
+          "kind": "primary-text corpus",
+          "entries": 0
         }
       ],
       "projectAuthor": "Chrysippus"
@@ -2577,6 +2703,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 18
+        },
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg1269; 1 delo",
+          "href": "First1KGreek/data/tlg1269",
+          "kind": "primary-text corpus",
+          "entries": 0
         }
       ],
       "projectAuthor": "Cleanthes"
@@ -2772,6 +2907,15 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 33
+        },
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0032; 5 dela",
+          "href": "canonical-greekLit/data/tlg0032",
+          "kind": "primary-text corpus",
+          "entries": 0
         },
         {
           "source": "suda",
@@ -3030,7 +3174,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Lukman",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -3092,6 +3236,21 @@
           "reference": "XCI",
           "href": "walter-burley/chapters-generated/091_marko.md",
           "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Marko Aurelije",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0562; 1 delo",
+          "href": "canonical-greekLit/data/tlg0562",
+          "kind": "primary-text corpus",
           "entries": 0
         }
       ],
@@ -3546,7 +3705,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Pitagora",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         },
@@ -3608,6 +3767,15 @@
           "entries": 61
         },
         {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0059; 36 dela",
+          "href": "canonical-greekLit/data/tlg0059",
+          "kind": "primary-text corpus",
+          "entries": 0
+        },
+        {
           "source": "john-of-wales",
           "sourceLabel": "Jovan Velški",
           "index": "INDEX_JOVAN_VELSKI.md",
@@ -3621,7 +3789,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Platon",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         },
@@ -3692,6 +3860,15 @@
           "reference": "LIX",
           "href": "walter-burley/chapters-generated/059_plotin.md",
           "kind": "biography",
+          "entries": 3
+        },
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg2000; 1 delo",
+          "href": "First1KGreek/data/tlg2000",
+          "kind": "primary-text corpus",
           "entries": 7
         },
         {
@@ -3719,7 +3896,7 @@
           "reference": "1-26",
           "href": "INDEX_PORFIRIJE_PLOTIN.md",
           "kind": "biography",
-          "entries": 24
+          "entries": 19
         }
       ],
       "projectAuthor": "Plotinus"
@@ -3734,6 +3911,15 @@
           "reference": "CXIX",
           "href": "walter-burley/chapters-generated/119_plutarh.md",
           "kind": "biography",
+          "entries": 0
+        },
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0007; 32 dela",
+          "href": "canonical-greekLit/data/tlg0007",
+          "kind": "primary-text corpus",
           "entries": 0
         }
       ],
@@ -3950,7 +4136,34 @@
           "reference": null,
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
-          "entries": 24
+          "entries": 26
+        },
+        {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "80 A–C",
+          "href": "hermann-diels/band1.txt",
+          "kind": "testimonia and fragments",
+          "entries": 20
+        },
+        {
+          "source": "plato-protagoras",
+          "sourceLabel": "Platon, Protagora",
+          "index": "INDEX_PROTAGORA.md",
+          "reference": "317b–339a",
+          "href": "canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml",
+          "kind": "dialogue",
+          "entries": 14
+        },
+        {
+          "source": "plato-theaetetus",
+          "sourceLabel": "Platon, Teetet",
+          "index": "INDEX_PROTAGORA.md",
+          "reference": "166d–167c",
+          "href": "canonical-greekLit/data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml",
+          "kind": "doxographical reconstruction",
+          "entries": 3
         },
         {
           "source": "philostratus",
@@ -4043,6 +4256,21 @@
           "reference": "XCIV",
           "href": "walter-burley/chapters-generated/094_scipion.md",
           "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Sekst Empirik",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg0544; 2 dela",
+          "href": "First1KGreek/data/tlg0544",
+          "kind": "primary-text corpus",
           "entries": 0
         }
       ],
@@ -4178,6 +4406,21 @@
       "projectAuthor": null
     },
     {
+      "name": "Simplikije",
+      "sources": [
+        {
+          "source": "greek-corpus",
+          "sourceLabel": "Grčki korpus",
+          "index": "INDEX_GREEK.md",
+          "reference": "tlg4013; 4 dela",
+          "href": "First1KGreek/data/tlg4013",
+          "kind": "primary-text corpus",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
       "name": "Sist",
       "sources": [
         {
@@ -4241,7 +4484,7 @@
           "reference": null,
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
-          "entries": 68
+          "entries": 67
         },
         {
           "source": "john-of-wales",
@@ -4257,7 +4500,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Sokrat",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         },
@@ -4308,7 +4551,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Ahbar Solon",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -4440,7 +4683,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Fusul kalam Šit",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -4722,7 +4965,7 @@
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
           "reference": "Adab Vasilije",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }
@@ -4769,7 +5012,7 @@
           "reference": "LXXIX",
           "href": "walter-burley/chapters-generated/079_zenon-iz-eleje.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 1
         },
         {
           "source": "diogenes-laertius",
@@ -4793,8 +5036,8 @@
           "source": "al-mubashshir-ibn-fatik",
           "sourceLabel": "Mukhtār al-ḥikam",
           "index": "INDEX_MUKHTAR_AL_HIKAM.md",
-          "reference": "Ahbar Zenon",
-          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.badawi.ar-ocr.txt",
+          "reference": "Akhbār Zaynūn; ḥikamuhu wa-ādābuhu, Badawi 1980, str. 40–44",
+          "href": "al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt",
           "kind": "biography",
           "entries": 0
         }

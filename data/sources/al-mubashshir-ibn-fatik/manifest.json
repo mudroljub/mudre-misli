@@ -6,22 +6,37 @@
     {
       "title": "Mukhtār al-ḥikam wa-maḥāsin al-kalim",
       "editor": "Abd al-Rahman Badawi",
+      "edition": 2,
+      "publicationPlace": "Beirut",
+      "publisher": "al-Muʾassasah al-ʿArabīyah lil-Dirāsāt wa-al-Nashr",
+      "year": 1980,
+      "pagination": "68, 372 p.",
       "language": "ar",
       "formats": [
-        "plain-text OCR",
-        "DjVu XML OCR",
+        "plain-text web transcription",
         "PDF scan"
       ],
       "files": [
-        "mukhtar-al-hikam.badawi.ar-ocr.txt",
-        "mukhtar-al-hikam.badawi.djvu.xml",
+        "mukhtar-al-hikam.aljam3.ar.txt",
         "mukhtar-al-hikam.badawi.scan.pdf"
       ],
+      "transcriptionSource": {
+        "provider": "al-Jāmiʿ",
+        "urlPattern": "https://aljam3.com/ar/10851/26559/{page}",
+        "pages": "1–372",
+        "retrieved": "2026-09-01",
+        "emptyTranscriptionPages": [
+          364
+        ],
+        "notes": "All page transcriptions were mechanically extracted without normalization. Al-Jāmiʿ explicitly marks page 364 as empty, so it is represented only by its page marker; consult the PDF scan if needed."
+      },
       "metadataFile": "arabic-internet-archive-metadata.json",
       "identifier": "76402",
+      "recordUrl": "https://archive.org/details/76402",
+      "waqfeyaRecordUrl": "https://waqfeya.net/books/مختار-الحكم-ومحاسن-الكلم/8ab0547ea68043219ae9afba0d90c367",
+      "waqfeyaDownloadUrl": "https://archive.org/download/waq76402/76402.pdf",
       "sha256": {
-        "mukhtar-al-hikam.badawi.ar-ocr.txt": "07FCD18518921C70C113FD07D530BC9DDD0A55879F001653611FCFDA9A8E288F",
-        "mukhtar-al-hikam.badawi.djvu.xml": "CB0BBD3DA19D9902A6ADEA7C6CF1E0E2C4452E2AC601AF54FD43212A47160B15",
+        "mukhtar-al-hikam.aljam3.ar.txt": "9C586BF05F3A3BBAF884D312BB183B6E9E7E896A6DB0E39D33EE81E52A58DAF1",
         "mukhtar-al-hikam.badawi.scan.pdf": "60074F3B27B47E19037CA5417379429B8C37F6E5C608FF34D132191623078141"
       }
     },
@@ -52,8 +67,8 @@
       "sha256": "0FC492691C68315D5D6F8ED6F05604B603601206460C566774E4DECC7F453B34"
     }
   ],
-  "source": "Internet Archive",
+  "source": "Internet Archive and al-Jāmiʿ",
   "license": "European witnesses are public domain and their Internet Archive records are marked NOT_IN_COPYRIGHT; consult the Arabic record metadata for its terms.",
   "fileCount": 7,
-  "notes": "Includes Badawi's Arabic edition and searchable witnesses to two European branches of the work's transmission. OCR quality varies and quotations must be checked against page images before use."
+  "notes": "Includes Badawi's second Arabic edition (Beirut, 1980) as a complete local web transcription and PDF scan, plus searchable witnesses to two European branches of the work's transmission. The previous low-quality Internet Archive plain-text and DjVu XML OCR derivatives were replaced by the complete al-Jāmiʿ transcription. The Waqfeya/waq76402 PDF was checked on 2026-09-01 and is byte-for-byte identical to the existing local PDF scan. Web transcription quality varies; quotations must be checked against page images before use."
 }

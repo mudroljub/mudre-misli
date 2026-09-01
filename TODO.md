@@ -1,8 +1,27 @@
 # TODO
 
-## Širiti članke filozofa
-- izlistati filozofe iz projekta za koje imamo nekorištenih izvora
-- predložiti bitne filozofe koje još uvek nemamo u projektu
+## Obrađivati filozofe
+
+Proširiti nekorištenim lokalnim izvorima (vidi INDEX_CENTRAL.md):
+- Zenon iz Eleje — Burley dodat kao drugi izvor postojećeg svedočanstva; ceo čisti arapski prepis `Mukhtār al-ḥikam` (str. 1–372) sačuvan lokalno, a sledeće treba izdvojiti upotrebljiva srednjovekovna svedočanstva uz proveru skena
+- Protagora
+- Gorgija
+- Plotin
+- Parmenid
+- Diogen iz Sinope
+- Demokrit
+- Anaksimander
+- Anaksagora
+- Piron (ako postoji u drugim lokalnim izvorima)
+- Sokrat
+- Pitagora (već je dosta obiman, samo ako se pronađe nešto bitno)
+
+Uneti nove autore u projekat:
+- Filolaj
+- Melis
+- Jamblih
+- Filon Aleksandrijski
+- Sekst Empirik
 
 ## Širiti korpus celih dela
 

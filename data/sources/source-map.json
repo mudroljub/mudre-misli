@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T08:20:19.263Z",
+  "generatedAt": "2026-09-01T13:22:57.988Z",
   "sourceRoot": "data/sources",
   "totalQuotes": 2235,
   "totalQuoteFiles": 56,
@@ -1816,7 +1816,7 @@
     },
     {
       "source": "walter-burley",
-      "count": 125,
+      "count": 126,
       "authors": [
         "Anacharsis",
         "Anaximenes",
@@ -1846,7 +1846,8 @@
         "Solon",
         "Thales",
         "Xenophon",
-        "Zeno of Citium"
+        "Zeno of Citium",
+        "Zeno of Elea"
       ],
       "references": [
         "Cap. CI",
@@ -1860,6 +1861,7 @@
         "Cap. LXIV",
         "Cap. LXXIV",
         "Cap. LXXIV (citing Valerius Maximus VIII)",
+        "Cap. LXXIX",
         "Cap. V",
         "Cap. VI",
         "Cap. X",

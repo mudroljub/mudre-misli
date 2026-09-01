@@ -6,6 +6,7 @@ const sourcesDir = path.join(rootDir, 'data', 'sources')
 const quotesDir = path.join(rootDir, 'data', 'quotes')
 const outputJson = path.join(sourcesDir, 'philosopher-catalog.json')
 const outputMarkdown = path.join(sourcesDir, 'INDEX_CENTRAL.md')
+const outputUnusedMarkdown = path.join(sourcesDir, 'INDEX_NEKORISCENI_IZVORI.md')
 
 const sourceDefinitions = {
   'diogenes-laertius': { label: 'Diogen Laertije', index: 'INDEX_LEARTIJE.md' },
@@ -17,6 +18,9 @@ const sourceDefinitions = {
   'john-of-wales': { label: 'Jovan Velški', index: 'INDEX_JOVAN_VELSKI.md' },
   'al-mubashshir-ibn-fatik': { label: 'Mukhtār al-ḥikam', index: 'INDEX_MUKHTAR_AL_HIKAM.md' },
   suda: { label: 'Suda', index: 'INDEX_SUDA.md' },
+  'plato-protagoras': { label: 'Platon, Protagora', index: 'INDEX_PROTAGORA.md' },
+  'plato-theaetetus': { label: 'Platon, Teetet', index: 'INDEX_PROTAGORA.md' },
+  'greek-corpus': { label: 'Grčki korpus', index: 'INDEX_GREEK.md' },
 }
 
 const unindexedSources = []
@@ -47,6 +51,23 @@ const aliasEntries = {
   'Eshine': 'Eshin',
   'Porfirije': 'Porfirije iz Tira',
   'Tit Lukrecije': 'Lukrecije',
+  'Euklit Megaranin': 'Euklid Megaranin',
+  'Ariston sa Hiosa': 'Aristo iz Hija',
+}
+
+const sourceUsageAliases = {
+  'greek-corpus': [
+    'aristotle',
+    'aristotle-generation-corruption',
+    'aristotle-metaphysics',
+    'aristotle-physics',
+    'plato-parmenides',
+    'plato-protagoras',
+    'plato-theaetetus',
+    'plotinus-enneads',
+    'plutarch',
+    'plutarch-against-colotes',
+  ],
 }
 
 const normalize = value => value
@@ -161,6 +182,66 @@ const parseDiels = async () => {
   return rows
 }
 
+const parseGreekCorpus = async () => {
+  const markdown = await read('INDEX_GREEK.md')
+  const rows = []
+  let repository = null
+  let current = null
+  let acceptingWorks = false
+
+  const finishCurrent = () => {
+    if (!current || current.works.length === 0) return
+    rows.push({
+      name: current.name,
+      source: 'greek-corpus',
+      reference: `${current.authorId}; ${current.works.length} ${current.works.length === 1 ? 'delo' : 'dela'}`,
+      href: `${current.repository}/data/${current.authorId}`,
+      kind: 'primary-text corpus',
+    })
+  }
+
+  for (const line of markdown.split(/\r?\n/)) {
+    if (line === '# canonical-greekLit') {
+      repository = 'canonical-greekLit'
+      continue
+    }
+    if (line === '# First1KGreek') {
+      repository = 'First1KGreek'
+      continue
+    }
+
+    const authorMatch = line.match(/^## `([^`]+)` --- (.+)$/)
+    if (authorMatch) {
+      finishCurrent()
+      current = repository
+        ? { repository, authorId: authorMatch[1], name: authorMatch[2].trim(), works: [] }
+        : null
+      acceptingWorks = false
+      continue
+    }
+
+    if (!current) continue
+    if (/^(?:Filozofski relevantna dela(?: u korpusu)?|Relevantna dela|Dela u korpusu):$/.test(line)) {
+      acceptingWorks = true
+      continue
+    }
+    if (/^(?:U istom folderu postoji i|Izostavljeno kao nerelevantno):$/.test(line)) {
+      acceptingWorks = false
+      continue
+    }
+    if (!acceptingWorks) continue
+
+    const workMatch = line.match(/^- `([^`]+)` --- (.+)$/)
+    if (workMatch) {
+      current.works.push({ id: workMatch[1], title: workMatch[2].trim() })
+    } else if (current.works.length > 0 && line !== '') {
+      acceptingWorks = false
+    }
+  }
+  finishCurrent()
+  return rows
+}
+
 const parseLivesIndex = async (directory, source) => {
   const rows = JSON.parse(await fs.readFile(path.join(sourcesDir, directory, 'lives-index.json'), 'utf8'))
   return rows.map(row => ({
@@ -205,6 +286,30 @@ const buildCatalog = async () => {
     parseBurley(),
     parseLaertius(),
     parseDiels(),
+    parseGreekCorpus(),
+    Promise.resolve([
+      {
+        name: 'Protagora',
+        source: 'hermann-diels',
+        reference: '80 A–C',
+        href: 'hermann-diels/band1.txt',
+        kind: 'testimonia and fragments',
+      },
+      {
+        name: 'Protagora',
+        source: 'plato-protagoras',
+        reference: '317b–339a',
+        href: 'canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml',
+        kind: 'dialogue',
+      },
+      {
+        name: 'Protagora',
+        source: 'plato-theaetetus',
+        reference: '166d–167c',
+        href: 'canonical-greekLit/data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml',
+        kind: 'doxographical reconstruction',
+      },
+    ]),
     parseEunapius(),
     parsePhilostratus(),
     parseLivesIndex('john-of-wales', 'john-of-wales'),
@@ -224,7 +329,11 @@ const buildCatalog = async () => {
     const name = canonicalize(row.name, serbianNames)
     const key = normalize(name)
     const person = people.get(key) ?? { name, sources: [] }
-    const stats = quoteStats.get(key)?.get(row.source) ?? { entries: 0 }
+    const usageSources = sourceUsageAliases[row.source] ?? [row.source]
+    const entries = usageSources.reduce(
+      (total, source) => total + (quoteStats.get(key)?.get(source)?.entries ?? 0),
+      0,
+    )
     person.sources.push({
       source: row.source,
       sourceLabel: sourceDefinitions[row.source].label,
@@ -232,7 +341,7 @@ const buildCatalog = async () => {
       reference: row.reference,
       href: row.href,
       kind: row.kind,
-      entries: stats.entries,
+      entries,
     })
     people.set(key, person)
   }
@@ -255,7 +364,7 @@ const renderMarkdown = ({ catalog, unindexedSources }) => {
   const used = catalog.filter(person => person.sources.some(source => source.entries > 0)).length
   const unused = catalog.length - used
   const lines = [
-    '# Centralni katalog filozofa i biografija',
+    '# Centralni katalog filozofa i lokalnih izvora',
     '',
     'Ovaj fajl generiše `npm run build:catalog:philosophers`. Ne uređivati ga ručno.',
     '',
@@ -263,7 +372,7 @@ const renderMarkdown = ({ catalog, unindexedSources }) => {
     '',
     '## Katalog',
     '',
-    '| Filozof / ličnost | Dostupne lokalne biografije | Upotreba |',
+    '| Filozof / ličnost | Dostupni lokalni izvori | Upotreba |',
     '|---|---|---:|',
   ]
 
@@ -292,7 +401,55 @@ const renderMarkdown = ({ catalog, unindexedSources }) => {
     '',
     '## Napomena',
     '',
-    '`INDEX_GREEK.md` je katalog grčkih dela, ne katalog biografija, pa njegovi autori nisu automatski proglašeni dostupnim životopisima. Dielsovi odeljci `A. Leben und Lehre` vode se kao biografska svedočanstva, ne kao jedinstveni antički životopisi.',
+    'Grčki korpus obuhvata izvorna dela i fragmente, a ne nužno životopise. Dielsovi odeljci `A. Leben und Lehre` vode se kao biografska svedočanstva, ne kao jedinstveni antički životopisi.',
+    '',
+  )
+  return lines.join('\n')
+}
+
+const renderUnusedMarkdown = ({ catalog }) => {
+  const filteredCatalog = catalog.filter(
+    person => person.projectAuthor && person.sources.some(source => source.entries === 0),
+  )
+  const partiallyUsed = filteredCatalog.filter(
+    person => person.sources.some(source => source.entries > 0),
+  ).length
+  const fullyUnused = filteredCatalog.length - partiallyUsed
+  const lines = [
+    '# Postojeći filozofi sa nekorišćenim lokalnim izvorima',
+    '',
+    'Ovaj fajl generiše `npm run build:catalog:philosophers`. Ne uređivati ga ručno.',
+    '',
+    'Prikazani su samo filozofi koji već postoje u projektu i za koje najmanje jedan lokalni izvor ima upotrebu `0`.',
+    '',
+    `Ukupno: **${filteredCatalog.length} filozofa**; sa drugim korišćenim izvorima **${partiallyUsed}**, bez ijednog korišćenog ovde indeksiranog izvora **${fullyUnused}**.`,
+    '',
+    '## Katalog',
+    '',
+    '| Filozof / ličnost | Dostupni lokalni izvori | Upotreba |',
+    '|---|---|---:|',
+  ]
+
+  for (const person of filteredCatalog) {
+    const personName = markdownLink(
+      person.name,
+      `http://localhost:3000/sr/authors/${slugifyAuthor(person.projectAuthor)}`,
+    )
+    const sources = person.sources
+      .map(source => {
+        const reference = source.reference ? ` — ${source.reference}` : ''
+        return `${markdownLink(source.sourceLabel, source.href)}${reference}`
+      })
+      .join('<br>')
+    const uses = person.sources.map(source => source.entries).join('<br>')
+    lines.push(`| ${personName} | ${sources} | ${uses} |`)
+  }
+
+  lines.push(
+    '',
+    '## Napomena',
+    '',
+    'Grčki korpus obuhvata izvorna dela i fragmente, a ne nužno životopise. Dielsovi odeljci `A. Leben und Lehre` vode se kao biografska svedočanstva.',
     '',
   )
   return lines.join('\n')
@@ -302,6 +459,7 @@ const result = await buildCatalog()
 await Promise.all([
   fs.writeFile(outputJson, `${JSON.stringify({ generatedAt: new Date().toISOString(), ...result }, null, 2)}\n`, 'utf8'),
   fs.writeFile(outputMarkdown, renderMarkdown(result), 'utf8'),
+  fs.writeFile(outputUnusedMarkdown, renderUnusedMarkdown(result), 'utf8'),
 ])
 
 console.log(`Cataloged ${result.catalog.length} people from ${Object.keys(sourceDefinitions).length} indexed local sources.`)

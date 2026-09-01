@@ -32,23 +32,6 @@ export interface SourceReference {
 }
 
 /**
- * Textual variant from an alternative source.
- */
-export interface TextVariant {
-  /** Source name for this variant (must match a name in sources array) */
-  source: string
-
-  /** Alternative Greek/Latin text */
-  text: string
-
-  /** Brief description of difference (optional) */
-  diff?: string
-
-  /** Additional note about this variant (optional) */
-  note?: string
-}
-
-/**
  * Common fields shared by all entries.
  */
 interface BaseEntry {
@@ -78,9 +61,6 @@ interface BaseEntry {
 
   /** Machine-readable pointer to the primary source location (from sources[0]) */
   pointer?: string
-
-  /** Textual variants from alternative sources (only if text differs) */
-  textVariants?: TextVariant[]
 
   /** Philosophical terms detected in originalText (Greek terms in nominative form) */
   tags?: string[]
