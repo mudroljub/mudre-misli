@@ -1,6 +1,6 @@
 <!-- anchor:309a -->— Odakle si, Sokrate? Jasno je, valjda — iz lova na Alkibijadovu lepotu. A i ja sam ga nedavno video — izgleda mi kao pravi muškarac već, s bradom. Kakav je prema tebi, momak?
 
-<!-- anchor:309b -->— Onaj koji kaže da je najlepša mladost ona s prvim dlačicama, što Alkibijad sada ima. Pa kako si sad? Dolazis li od njega?
+<!-- anchor:309b -->— Onaj koji kaže da je najlepša mladost ona s prvim dlačicama, što Alkibijad sada ima. Pa kako si sad? Dolaziš li od njega?
 
 — Dobro mi se čini, pogotovo danas — mnogo je rekao u moju odbranu. I upravo dolazim od njega. Ali hoću ti nešto čudno reći: uz njega nisam obraćao pažnju i često bih ga zaboravljao.
 
@@ -16,7 +16,7 @@
 
 — Iz Abdere.
 
-— I toliko ti se lepar činilo taj stranac, lepši od Klinijinog sina?
+— I toliko ti se lep činilo taj stranac, lepši od Klinijinog sina?
 
 — A kako ne bi, blaženi, najmudriji izgledao lepši?
 
@@ -128,13 +128,13 @@ A ja rekoh: Ali zar se ne stidiš da ideš u Heladu kao sofista?
 
 — Dobro mu je, reče, je li? Šta traži? Hoće li da razgovara s tobom?
 
-<!-- anchor:314a -->— Hipokrat ovde, rekoh, je sin plemenite porodice i narav mu čini me da je kadar za sve što preduzme. Mislim da želi biti ugledan u gradu, a to mu, vjerujem, najviše može dati susret s tobom. Pa razmatraj sad — da li o tome razgovaraš samo s nama ili i uz prisutne.
+<!-- anchor:314a -->— Hipokrat ovde, rekoh, je sin plemenite porodice i narav mu čini me da je kadar za sve što preduzme. Mislim da želi biti ugledan u gradu, a to mu, verujem, najviše može dati susret s tobom. Pa razmatraj sad — da li o tome razgovaraš samo s nama ili i uz prisutne.
 
 — Bravo što si popustljiv za mene, Sokrate, reče. Jer stranac koji dolazi u toliki grad i nagovara mlade da ostave rodbinu i vršnjake i druguju samo s njim, napredujući u vrline — taj se mora čuvati. Jer mnogi su filozofi izazivali zavist i mržnju i ostale neprijatnosti. Ja pak kažem da je sofistička veština stara, ali da su je stari koji su je posedali — pesnici poput Homera, Hesioda i Simonida, pa gatari i vidovnjaci kao Orfej i Musej, pa i gimnastičari — prikrivali iz straha.
 
 <!-- anchor:314b -->Ja pak ne mislim kao oni. Jer mislim da su oni postigli upravo suprotno od onoga čemu su tezili — jer oni koji imaju moć u gradovima dobro vide sve to i znaju šta se krije, a masa je gotovo slepa. Ko god ima moć i ne može da sakrije, taj me kudi. Ja od toga idem drugačijim putem.
 
-<!-- anchor:314c -->Odavno priznajem da sam sofista i da obrazujem ljude, i mislim da je ovo opreznost mnogo bolja od onog krićenja — da priznajem umjesto da poričem. I od toga sam i ostale odredbe donio. Jer bog je dao meni da ono čime se bavim ne bude zapamćeno zlo, pa se nadamo da mi ni u staro dobu to neće biti. I ako mene pitaš šta hoćeš — pred prisutnima govori.
+<!-- anchor:314c -->Odavno priznajem da sam sofista i da obrazujem ljude, i mislim da je ovo opreznost mnogo bolja od onog krićenja — da priznajem umesto da poričem. I od toga sam i ostale odredbe donio. Jer bog je dao meni da ono čime se bavim ne bude zapamćeno zlo, pa se nadamo da mi ni u staro dobu to neće biti. I ako mene pitaš šta hoćeš — pred prisutnima govori.
 
 <!-- anchor:314d -->A zatim posumnjah da Protagora želi pohvaliti se i pokazati Prodiku i Hipiji i da je zadovoljan što smo mi kao divni gledaoci došli, rekoh: A zašto ne pozovemo Prodika i Hipiju i one uz njega da slušaju?
 
@@ -176,17 +176,17 @@ A ja rekoh: Hipokrat, Protagora, kao i drugi mladi želi da postane ugledan u gr
 
 Protagora reče: Mladiću, ovako: ako budeš uz mene, svaki dan ćeš ući kući bolji nego si izašao, a sutradan isto tako. I za šta ćeš napredovati? Za ono što je čoveku prirodno biti dobar — za vođenje svog doma i za učestvovanje u državnim poslovima rečju i djelom.
 
-<!-- anchor:317c -->— Pa ja li razumijem što kažeš? rekoh. Čini mi se da govoriš o političkoj vještini i obećavaš da ćeš praviti dobre građane?
+<!-- anchor:317c -->— Pa ja li razumem što kažeš? rekoh. Čini mi se da govoriš o političkoj veštini i obećavaš da ćeš praviti dobre građane?
 
 — Upravo to je, Sokrate, ono što priznajem.
 
-<!-- anchor:317d -->— Lijepa je to vještina, rekoh, ako je posjeduješ — jer ću ti reći što sam zaista mislio. Ja nisam mislio, Protagora, da se ta vještina može naučiti, ali kako ti kažeš da možeš — ne znam kako da ti ne vjerujem. Ipak — zašto mislim da se ne može naučiti i ne predaje se od čoveka čoveku, zaslužuje da se kaže.
+<!-- anchor:317d -->— Lepa je to veština, rekoh, ako je poseduje — jer ću ti reći što sam zaista mislio. Ja nisam mislio, Protagora, da se ta veština može naučiti, ali kako ti kažeš da možeš — ne znam kako da ti ne verujem. Ipak — zašto mislim da se ne može naučiti i ne predaje se od čoveka čoveku, zaslužuje da se kaže.
 
-<!-- anchor:317e -->Kažem da Atinjani — kao i ostali Heleni — smatraju da su mudri. Dakle, kad se skupljaju na skupštini i treba da se odluči o gradnji ili brodogradnji, pitaju graditelje i brodograditelje. A o vođenju odsjeka pitaju vojskovođe. A ako govori neko drugi, ko nije stručnjak — smiju mu se i tjeraju ga. Ali —
+<!-- anchor:317e -->Kažem da Atinjani — kao i ostali Heleni — smatraju da su mudri. Dakle, kad se skupljaju na skupštini i treba da se odluči o gradnji ili brodogradnji, pitaju graditelje i brodograditelje. A o vođenju odsjeka pitaju vojskovođe. A ako govori neko drugi, ko nije stručnjak — smeju mu se i teraju ga. Ali —
 
-<!-- anchor:318a -->— Kad je skupštini pak neka od pitanja o vođenju države — govori svako — tesar, kovač, čevljar, brodar, bogataš, siromah, plemeniti, neugledni — i niko mu ne govori kao onima pre — da nisi naučio niti te je ko učio, a ipak savjetuješ? Nego je jasno da misle da se ta vještina ne može naučiti.
+<!-- anchor:318a -->— Kad je skupštini pak neka od pitanja o vođenju države — govori svako — tesar, kovač, čevljar, brodar, bogataš, siromah, plemeniti, neugledni — i niko mu ne govori kao onima pre — da nisi naučio niti te je ko učio, a ipak savetuješ? Nego je jasno da misle da se ta veština ne može naučiti.
 
-<!-- anchor:318b -->— A opet — u privatnom životu: najmudriji i najugledniji Atinjani ne mogu tu vrlinu prenijeti na druge. Perikle je odgojio svoju djecu dobro u svemu za što je stručnjak bio, ali vrline ih nije naučio. Sinovi su mu poznati po tome što su obični. Pa ako se vrlina može naučiti — zašto ih Perikle nije naučio?
+<!-- anchor:318b -->— A opet — u privatnom životu: najmudriji i najugledniji Atinjani ne mogu tu vrlinu preneti na druge. Perikle je odgojio svoju decu dobro u svemu za što je stručnjak bio, ali vrline ih nije naučio. Sinovi su mu poznati po tome što su obični. Pa ako se vrlina može naučiti — zašto ih Perikle nije naučio?
 
 <!-- anchor:318c -->To je, dakle, moje pitanje — ne iz zavisti, Protagora, nego jer mislim da je to teška stvar. Jer možda se vrlina ne može naučiti, ili možda može, ali nije jasno kako. Pa ako možeš objasniti — učini to.
 
@@ -194,17 +194,17 @@ Protagora reče: Mladiću, ovako: ako budeš uz mene, svaki dan ćeš ući kući
 
 Onima okolo se učini da kaže priču. A on reče: Reći ću vam priču.
 
-<!-- anchor:318e -->Nekad beše — kad bića bejahu, a smrtne vrste još ne — bogovi ih oblikovahu u utrobi zemlje od zemlje i vatre i svega što se miješa sa vatrom i zemljom. A kad ih htedoše iznijeti na svjetlost, naredoše Prometeju i Epimeteju da ih opreme i da svakomu dodijele odgovarajuće sposobnosti.
+<!-- anchor:318e -->Nekad beše — kad bića bejahu, a smrtne vrste još ne — bogovi ih oblikovahu u utrobi zemlje od zemlje i vatre i svega što se meša sa vatrom i zemljom. A kad ih htedoše izneti na svjetlost, naredoše Prometeju i Epimeteju da ih opreme i da svakomu dodele odgovarajuće sposobnosti.
 
-<!-- anchor:319a -->A Epimetej zamoli Prometeja da mu dopusti samome da razdijeli. Prometej pristade. A Epimetej je raspodjeljujući jednom dao snagu bez brzine, a slabijemu dao brzinu — jedne je naoružao, a drugima je dao, namjesto oružja, neku drugu sposobnost za zaštitu. One koji je obukao malima — dodjelio im je ptičji let i podzemno stanište, a onima koji su bejahu veliki — veličina im sama za zaštitu služi. I tako svakome ravnomjerno davao, doneseći brižno da ni jednu vrstu ne bi uništio.
+<!-- anchor:319a -->A Epimetej zamoli Prometeja da mu dopusti samome da razdeli. Prometej pristade. A Epimetej je raspodelivši jednom dao snagu bez brzine, a slabijemu dao brzinu — jedne je naoružao, a drugima je dao, namjesto oružja, neku drugu sposobnost za zaštitu. One koji je obukao malima — dodelio im je ptičji let i podzemno stanište, a onima koji su bejahu veliki — veličina im sama za zaštitu služi. I tako svakome ravnomjerno davao, doneseći brižno da ni jednu vrstu ne bi uništio.
 
-<!-- anchor:319b -->A pošto im je priredio zaštitu od međusobnog uništenja, izmislio im je zaštitu od Zeusove klime — obukao ih u gustu dlaku i kožu, dovoljnu za zaštitu od zime i sposobnu da odbije vrućine, a uz to i da svakome bude vlastita prirođena postelja kad legne. A na noge im dao kopita i čvrstu kožu bez krvi. Potom im je dodijelio različitu hranu jednih travom s tla, druzima voćem s drveća, trećima korijenom — a nekima dao da jedu životinje. A ovim dao manje plodnost, a onima što ih jedu — veliku plodnost — za spasenje vrste.
+<!-- anchor:319b -->A pošto im je priredio zaštitu od međusobnog uništenja, izmislio im je zaštitu od Zeusove klime — obukao ih u gustu dlaku i kožu, dovoljnu za zaštitu od zime i sposobnu da odbije vrućine, i svakome dao vlastitu prirodnu postelju kad legne. A na noge im dao kopita i čvrstu kožu bez krvi. Potom im je dodelio različitu hranu jednih travom s tla, druzima voćem s drveća, trećima korijenom — a nekima dao da jedu životinje. Ovim dao manje plodnosti, a onima što ih jedu — veliku plodnost — za spasenje vrste.
 
-<!-- anchor:319c -->No Epimetej nije bio posve pametan — i ne primijetivši je potrošio sve sposobnosti na nerazumne životinje. Pa mu je osatla neraspodijeljenja vrsta — a to je bila čovječanska vrsta — i nije znao što da učini. Dok je bio u škripcu, dođe mu Prometej da pregleda raspodjelu i vidjede da su ostale životinje dobro opremljene, a čovek je nag i bos i bez postelje i bez oružja. A već dođe sudbinomi određen dan — kad je i čovek trebao izaći iz zemlje na svjetlost.
+<!-- anchor:319c -->No Epimetej nije bio posve pametan — i ne primetivši je potrošio sve sposobnosti na nerazumne životinje. Pa mu je osatla neraspodijeljenja vrsta — a to je bila čovečanska vrsta — i nije znao što da učini. Dok je bio u škripcu, dođe mu Prometej da pregleda raspodelu i videv da su ostale životinje dobro opremljene, a čovek je nag i bos i bez postelje i bez oružja. A već dođe sudbinom određen dan — kad je i čovek trebao izaći iz zemlje na svjetlost.
 
 <!-- anchor:319d -->Tada Prometej — u nedoumici kakvu zaštitu da da čoveku — ukrade od Hefesta i Atene stručnu mudrost zajedno s vatrom — jer bez vatre ta mudrost nije bila niti korisna — i dade je čoveku. I tako čovek dobi životnu mudrost. Ali Prometej — kako kaže priča — bi kasnije kažnjen zbog Epimetejeve krivice.
 
-<!-- anchor:319e -->Od tada čovek, dijeleći božansku sudbinu — prvi je u srodstvu s bogovima — jedini od živih bića ctovao bogove i prinosio žrtve i podizao oltare i kipove bogovima. I odmah je riječju i imenima razvijao domove, odjeću, obuću, pokrivač i hranu iz tla. Ovako opremljeni, ljudi su u početku živjeli raštrkano i gradova nije bilo. Pa su propadali od divljih zvijeri jer su bili slabiji u svakom pogledu, a zanatlijska mudrost im bijaše dovoljna za hranu ali ne i za rat s divljim zvijerima — jer nisu imali političku mudrost. Za tu mudrost zaslužan je bio Zevs.
+<!-- anchor:319e -->Od tada čovek, deleći božansku sudbinu — prvi je u srodstvu s bogovima — jedini od živih bića štovao bogove i prinosio žrtve i podizao oltare i kipove bogovima. I odmah je rečju i imenima razvijao domove, odeću, obuću, pokrivač i hranu iz tla. Ovako opremljeni, ljudi su u početku živjeli raštrkano i gradova nije bilo. Pa su propadali od divljih zvijeri jer su bili slabiji u svakom pogledu, a zanatlijska mudrost im bijaše dovoljna za hranu ali ne i za rat s divljim zvijerima — jer nisu imali političku mudrost. Za tu mudrost zaslužan je bio Zevs.
 
 <!-- anchor:320a -->Politička mudrost bila je kod Zeusa. A zanatska veština — rasejanа po svim smrtnicima. I videh da u ratovanju jedni drugima čine nepravdu i uništavaju ih — jer nemaju zajedničku veštinu. Tada Zevs, bojeći se da se sav naš rod ne uništi, pošalje Hermesa da ponese poštovanje i pravdu ljudima, da bi bili temelj gradskog reda i spone prijateljstva.
 
@@ -214,37 +214,37 @@ Onima okolo se učini da kaže priču. A on reče: Reći ću vam priču.
 
 <!-- anchor:320c -->I zbog toga Atinjani — i ostali — kad se radi o tesarstvu ili nekoj drugoj zanatskoj veštini — tada misle da malo ko treba dati savet, i ne dopuštaju svakome, i s pravom. Ali kad se radi o državnoj vrlini — gde se mora biti pravedan i razuman — tada dopuštaju svakome, jer misle da svi treba da učestvuju u ovoj vrlini, ili da ne bi bilo gradova.
 
-<!-- anchor:320d -->Evo toga razloga. A da te ne misle da lažem — dokaz je u tome što se pri svim ostalim vrlinama — kao što si i ti rekao — ko tvrdi da je dobar stolar ili muzičar, a nije, smiju mu se ili ljute. Ali kad se radi o pravdi ili nekoj drugoj državnoj vrlini — pa i ko ne bude pravedan — oni žele da javno izgledaju pravedni i tvrde da jesu, jer misle da svako mora imati tu vrlinu ili da nije čovek.
+<!-- anchor:320d -->Evo toga razloga. A da te ne misle da lažem — dokaz je u tome što se pri svim ostalim vrlinama — kao što si i ti rekao — ko tvrdi da je dobar stolar ili muzičar, a nije, smeju mu se ili ljute. Ali kad se radi o pravdi ili nekoj drugoj državnoj vrlini — pa i ko ne bude pravedan — oni žele da javno izgledaju pravedni i tvrde da jesu, jer misle da svako mora imati tu vrlinu ili da nije čovek.
 
-<!-- anchor:320e -->Eto, dakle, s pravom svakoga primamo kao savetnika o toj vrlini — jer mislimo da svi u njoj učestvuju. A sada ću i drugi argument izneti — da i tvrdnja da se vrlina ne uči nije tačna. Naime — svi razumni ljudi kažnjava zle ljude i grde ih, a to jasno pokazuje da misle da se vrlina može steći i naučiti. Jer ko bi kažnjavao zbog nečeg što nije u čovekovoj moći? Nego kažnjavamo da se u budućnosti ne griješi — i sam grješnik i oni koji vide.
+<!-- anchor:320e -->Eto, dakle, s pravom svakoga primamo kao savetnika o toj vrlini — jer mislimo da svi u njoj učestvuju. A sada ću i drugi argument izneti — da i tvrdnja da se vrlina ne uči nije tačna. Naime — svi razumni ljudi kažnjava zle ljude i grde ih, a to jasno pokazuje da misle da se vrlina može steći i naučiti. Jer ko bi kažnjavao zbog nečeg što nije u čovekovoj moći? Nego kažnjavamo da se u budućnosti ne greši — i sam grješnik i oni koji vide.
 
-<!-- anchor:321a -->Ovo, dakle, dokazuje da misle da se vrlina može steći. A sad da li je vrlina nešto što se uči i predaje? Svaki razuman čovek — dakle — odgaja i uči djecu. A oni koji imaju sredstava šalju ih učiteljima što ih naučuju i odgajaju od malena i u pismu i u muzici — gdje je mnogo vrline. Pa onda šalju k kitaristi i poučavaju ih da budu krotki i da ne griješe, uči ih ritmu i harmoniji.
+<!-- anchor:321a -->Ovo, dakle, dokazuje da misle da se vrlina može steći. A sad da li je vrlina nešto što se uči i predaje? Svaki razuman čovek — dakle — odgaja i uči decu. A oni koji imaju sredstava šalju ih učiteljima što ih naučuju i odgajaju od malena u pismu i u muzici — gdje je mnogo vrline. Pa onda šalju k kitaristi i poučavaju ih da budu krotki i da ne greše, uči ih ritmu i harmoniji.
 
-<!-- anchor:321b -->A dalje — kod paidotriba — da bi telo bilo bolje, jer slabo telo tera čoveka na kukavičluk i u ratu i pri ostalim dužnostima. I oni koji imaju sredstava to rade najduže — a oni koji ih imaju najviše, najdulje. A kad izađu od učitelja — grad ih dalje uči zakonima i živi po njima, a ne samo po sebi. Pa kao što djeca uče slova — tako zakon im propisuje i primorava ih da zive po njemu.
+<!-- anchor:321b -->A dalje — kod paidotriba — da bi telo bilo bolje, jer slabo telo tera čoveka na kukavičluk i u ratu i pri ostalim dužnostima. I oni koji imaju sredstava to rade najduže — a oni koji ih imaju najviše, najdulje. A kad izađu od učitelja — grad ih dalje uči zakonima i živi po njima, a ne samo po sebi. Pa kao što deca uče slova — tako zakon im propisuje i primorava ih da zive po njemu.
 
-<!-- anchor:321c -->I ko odlazi od toga — kažnjava se. A ovo se zove — i kod nas i kod ostalih — pravna kazna. Pa ako je toliko truda i truđa se i naučavaju za vrline — čudi se ako se vrlina ne može naučiti? Ali bi se trebao čuditi ako se ne može.
+<!-- anchor:321c -->I ko odlazi od toga — kažnjava se. A ovo se zove — i kod nas i kod ostalih — pravna kazna. Pa ako je toliko truda i truđa se i uče vrline — čudi se ako se vrlina ne može naučiti? Ali bi se trebao čuditi ako se ne može.
 
-<!-- anchor:321d -->A da li je mnogo bolji u vrlini onaj koji je od dobrih roditelja nego onaj koji nije — opet odgovorim: naravno. Jer svi koji su bolji i marljivi u tome — odgajaju djecu bolje. I Periklo je odgojio sinove u konjičtvu, muzici, atletici i svemu — jer je tu bio stručan. Ali ni on ni drugi ih nisu mogali naučiti vrlini kao takvoj.
+<!-- anchor:321d -->A da li je mnogo bolji u vrlini onaj koji je od dobrih roditelja nego onaj koji nije — opet odgovorim: naravno. Jer svi koji su bolji i marljivi u tome — odgajaju decu bolje. I Periklo je odgojio sinove u konjičarstvu, muzici, atletici i svemu — jer je tu bio stručan. Ali ni on ni drugi ih nisu mogli naučiti vrlini kao takvoj.
 
-<!-- anchor:321e -->Jer nije da ih je zapostavio, nego im je dao sve što su drugi stručnjaci mogli dati. A vrlina — ili se ne može naučiti ili se ne može lako naučiti. Pa je s njima isto što i sa svima koji imaju bogate i slavne roditelje — djeca su im obična. A za ovo sam ja, Sokrate, dovoljno dokazao — da se vrlina može naučiti i da je Atinjani smatra tako, i da se roditelji ne čude ako djeca onih vrsnih nisu i sama vrsna — jer svako onoliko koliko može daje sve od sebe za vrlinu.
+<!-- anchor:321e -->Jer nije da ih je zapostavio, nego im je dao sve što su drugi stručnjaci mogli dati. A vrlina — ili se ne može naučiti ili se ne može lako naučiti. Pa je s njima isto što i sa svima koji imaju bogate i slavne roditelje — deca su im obična. A za ovo sam ja, Sokrate, dovoljno dokazao — da se vrlina može naučiti i da je Atinjani smatra tako, i da se roditelji ne čude ako deca onih vrsnih nisu i sama vrsna — jer svako onoliko koliko može daje sve od sebe za vrlinu.
 
-<!-- anchor:322a -->Sad, Sokrate, postavio si pitanje o Periklu i sinovima. I odgovorim: Ako bi bio samo jedan čovek koji je bolji u vrlini od ostalih — kao što je Tiresias bio jedini mudri u podzemlju — i svi ostali bi bili kao sjene bez razuma — tada bi se onaj koji zna razlikovao od ostalih. Ovako pak vrlina je nešto što svi dijele — i dakle ne čudi se ako je sin Periklov obični čovek.
+<!-- anchor:322a -->Sad, Sokrate, postavio si pitanje o Periklu i sinovima. I odgovorim: Ako bi bio samo jedan čovek koji je bolji u vrlini od ostalih — kao što je Tiresias bio jedini mudri u podzemlju — i svi ostali bi bili kao sjene bez razuma — tada bi se onaj koji zna razlikovao od ostalih. Ovako pak vrlina je nešto što svi dele — i dakle ne čudi se ako je sin Periklov obični čovek.
 
-<!-- anchor:322b -->Da ne bi previše govorio — da ti je krako reci: Sin nije uvijek bolji od oca. Ni muziku ne uči sin od oca — jer zakon ne propisuje muziku — niti obrtništvo. A vrlinu — zakon je i propisao svima. I to je razlog. Dakle — vrlina se uči i Atinjani tako misle. A Periklu — i ostalima — nije pošlo za rukom da pouče sinove, jer nema posebnog učitelja vrline — kao što ima za muziku ili za pisanje. Nego — vrlinu uči svako svakoga od malena, i u tom smislu nema posebnog stručnjaka.
+<!-- anchor:322b -->Da ne bi previše govorio — da ti je kratko reci: Sin nije uvek bolji od oca. Ni muziku ne uči sin od oca — jer zakon ne propisuje muziku — niti obrtništvo. A vrlinu — zakon je i propisao svima. I to je razlog. Dakle — vrlina se uči i Atinjani tako misle. A Periklu — i ostalima — nije pošlo za rukom da pouče sinove, jer nema posebnog učitelja vrline — kao što ima za muziku ili za pisanje. Nego — vrlinu uči svako svakoga od malena, i u tom smislu nema posebnog stručnjaka.
 
 <!-- anchor:322c -->I s tim kažem, Sokrate — ne samo da je vrline poučiva i da tako misle Atinjani — nego i to da bi trebalo da se buniš što to ne vidiš. Jer jasno je da vrline poučavaju i roditelji i državni zakoni. Pa ti dokazuješ suprotno? Odgovorim ti ovako — pa ako možeš — pobij to.
 
 <!-- anchor:322d -->Čini mi se, Sokrate, da si ovim dovoljno dobio odgovor na sve što si pitao. Pa sad — da li hoćeš da razgovaramo o čemu drugom — ili ima još nešto od ovoga?
 
-Nasmejah se i rekoh: Sve si lepo rasporedou, Protagora. A ako ima nešto od pitanja — za krako pitat ću te — a ti krako odgovori.
+Nasmejah se i rekoh: Sve si lepo rasporedio, Protagora. A ako ima nešto od pitanja — za kratko pitat ću te — a ti kratko odgovori.
 
 <!-- anchor:322e -->A Protagora reče: Pitaj, i odgovorit ću.
 
-— Ovo me zanima: vrlines su mnoge. Ima li ih više ili je jedna?
+— Ovo me zanima: vrline su mnoge. Ima li ih više ili je jedna?
 
 — Jedna je, Sokrate, reče Protagora.
 
-— A one što ih zovemo vrlines — pravednost, umerenost, hrabrost, pobožnost, mudrost — su li to delovi te jedne vrline, ili su svi samo nazvanjem te jedne vrline, a po sebi jesu jedno i isto?
+— A one što ih zovemo vrline — pravednost, umerenost, hrabrost, pobožnost, mudrost — su li to delovi te jedne vrline, ili su svi samo nazvanjem te jedne vrline, a po sebi jesu jedno i isto?
 
 <!-- anchor:323a -->— Lako je pitanje, Sokrate, reče Protagora — to su delovi jedne vrline.
 
@@ -308,7 +308,7 @@ Rekoh: Donji put me vodi do onoga što sam hteo pitati — da li su mudrost i um
 
 — Pa — je li to vrlina lepa stvar ili sramotna?
 
-— Lijepa, kaem, i kao takvu je i priznajem.
+— Lepa, kaem, i kao takvu je i priznajem.
 
 — Pa ono što je lepo — je li dobro?
 
@@ -370,7 +370,7 @@ Rekoh: Donji put me vodi do onoga što sam hteo pitati — da li su mudrost i um
 
 — Da.
 
-— Pa sada kažeš da smeli i hrabri nisu isti. Nisi li tim sam sebi protivuriječio?
+— Pa sada kažeš da smeli i hrabri nisu isti. Nisi li tim sam sebi protivurečio?
 
 — Ne, jer ne kažem da su svi smeli hrabri. Nego kažem da su hrabri smeli — ali da smelost ne mora biti hrabrost.
 
@@ -412,7 +412,7 @@ Rekoh: Donji put me vodi do onoga što sam hteo pitati — da li su mudrost i um
 
 — Pa — odgovorimo na to zajedno. Jer to je važno pitanje.
 
-<!-- anchor:326c -->Rekoh: Mnoštvo smatra da je znanje slabašno i da ga čovek može nadvladati strastima, slastima i bolom. A ja mislim da znanje nije slabašno, nego jest ono što je najsnažnije od svega, i da ono uvijek — kada je u čoveku — pobijedi sve strasti i slasti. Ali mnoštvo misli drugačije.
+<!-- anchor:326c -->Rekoh: Mnoštvo smatra da je znanje slabašno i da ga čovek može nadvladati strastima, slastima i bolom. A ja mislim da znanje nije slabašno, nego jest ono što je najsnažnije od svega, i da ono uvek — kada je u čoveku — pobijedi sve strasti i slasti. Ali mnoštvo misli drugačije.
 
 <!-- anchor:326d -->— E pa onda razmotrimo — kaže Protagora. Jer mnoštvo kaže da ne znanje nadvladava slast nego nešto drugo — strast, ili ljubav ili nešto treće.
 
@@ -428,7 +428,7 @@ Rekoh: Donji put me vodi do onoga što sam hteo pitati — da li su mudrost i um
 
 — Da.
 
-— Pa — može li se onda pogriješiti u tom izboru?
+— Pa — može li se onda pogrešiti u tom izboru?
 
 <!-- anchor:327a -->— Može, kažeš — a ja kažem da nije moguće. Jer ko zna dobro — zna da treba birati dobro. A ko ne zna — bira loše jer nije u mogućnosti izabrati bolje.
 
@@ -438,19 +438,19 @@ Rekoh: Donji put me vodi do onoga što sam hteo pitati — da li su mudrost i um
 
 <!-- anchor:327b -->— E pa reći ću ti, Sokrate, što ja mislim. Ljude koji biraju loše — koji ih savladava strast ili ljubav ili bol ili strah — ja nazovem neznalicama.
 
-— Pa — oni koji su savladani slašću ili bolom — griješe li prema dobru?
+— Pa — oni koji su savladani slašću ili bolom — greše li prema dobru?
 
 — Jest.
 
 — A je li moguće da ne čine to jer ne znaju što je dobro — jer misle da je dobro nešto što nije dobro — a zlo nešto što nije zlo?
 
-<!-- anchor:327c -->— Ako ne griješe u mišljenju o dobru i zlu — nije moguće. A ako griješe — onda griješe iz neznanja.
+<!-- anchor:327c -->— Ako ne greše u mišljenju o dobru i zlu — nije moguće. A ako greše — onda greše iz neznanja.
 
-— Pa — biti nadvladan slašću ili bolom — nije li to isto kao griješiti zbog neznanja?
+— Pa — biti nadvladan slašću ili bolom — nije li to isto kao grešiti zbog neznanja?
 
 — Mislim da je to neznanje.
 
-— Pa — oni koji griješe zbog slasti i bola i ljubavi — griješe zbog neznanja?
+— Pa — oni koji greše zbog slasti i bola i ljubavi — greše zbog neznanja?
 
 — Jest.
 
@@ -464,33 +464,33 @@ Rekoh: Donji put me vodi do onoga što sam hteo pitati — da li su mudrost i um
 
 — E pa mislim da smo se složili oko toga, Sokrate.
 
-<!-- anchor:327e -->Protagora reče — da treba stati i razmotriti što smo rekli. A ja sam mislio — i mislio sam pogrešno — da neće htjeti toliko dugo razgovarati. Pa rekoh:
+<!-- anchor:327e -->Protagora reče — da treba stati i razmotriti što smo rekli. A ja sam mislio — i mislio sam pogrešno — da neće hteti toliko dugo razgovarati. Pa rekoh:
 
-— Protagora — ne bih nastavljao ako me nisi uvjerio. Jer ovo je važno pitanje — a uzalud bih raspravljao, jer mnoge su takve rasprave — mogli bismo razgovarati danima. Ali ako hoćeš — krako mi odgovori na ono što sam pitao.
+— Protagora — ne bih nastavljao ako me nisi uvjerio. Jer ovo je važno pitanje — a uzalud bih raspravljao, jer mnoge su takve rasprave — mogli bismo razgovarati danima. Ali ako hoćeš — kratko mi odgovori na ono što sam pitao.
 
-<!-- anchor:328a -->Protagora se malo naljuti — i čini mi se da je razmišljao da ne odgovori. A zatim reče: Sok rate — razgovarao sam s mnogo ljudi — ali nikad nisam izgubio u raspravi — a ti hoćeš da me na to prisiljiš. No — nastavljajmo.
+<!-- anchor:328a -->Protagora se malo naljuti — i čini mi se da je razmišljao da ne odgovori. A zatim reče: Sokrate — razgovarao sam s mnogo ljudi — ali nikad nisam izgubio u raspravi — a ti hoćeš da me na to prisiljiš. No — nastavljajmo.
 
-— A ja, rekoh, ni po čemu ne tražim da na silu raspravlaš sa mnom — nego da mi samo krako odgovaraš na pitanje.
+— A ja, rekoh, ni po čemu ne tražim da na silu raspravlaš sa mnom — nego da mi samo kratko odgovaraš na pitanje.
 
-<!-- anchor:328b -->— Ima pitanja koja zahtijeva dug odgovor, Sokrate, a ima i kratkih. Ja ću odgovarati onako kako se čini da pitanje traži.
+<!-- anchor:328b -->— Ima pitanja koja zahteva dug odgovor, Sokrate, a ima i kratkih. Ja ću odgovarati onako kako se čini da pitanje traži.
 
-— Nije tako, Protagora. Nego — razgovor vodi onaj ko pita, i ko sluša želi kratke odgovore — jer dugim odgovorima teže je pratiti misao. Nego — krako.
+— Nije tako, Protagora. Nego — razgovor vodi onaj ko pita, i ko sluša želi kratke odgovore — jer dugim odgovorima teže je pratiti misao. Nego — kratko.
 
 — Pa, Sokrate — hoćeš da me ograničiš?
 
-— Nipošto. Nego — hoću da razgovaraš sa mnom onako kako ti godi — i krako i dugo — ako hoćeš. Samo da mi odgovaraš.
+— Nipošto. Nego — hoću da razgovaraš sa mnom onako kako ti godi — i kratko i dugo — ako hoćeš. Samo da mi odgovaraš.
 
-<!-- anchor:328c -->Alkibijad tada stade na moju stranu, i Kritija i Prodikos i Hipija — i svi su tjerali Protagoru da krako odgovara. Protagora se malo razljuti i tada Kalija reče: Protagora — mislim da je pravednije da razgovaraš krako, jer si već rekao da ćeš odgovarati onako kako pita pitanje.
+<!-- anchor:328c -->Alkibijad tada stade na moju stranu, i Kritija i Prodikos i Hipija — i svi su terali Protagoru da kratko odgovara. Protagora se malo razljuti i tada Kalija reče: Protagora — mislim da je pravednije da razgovaraš kratko, jer si već rekao da ćeš odgovarati onako kako pita pitanje.
 
-<!-- anchor:328d -->A Protagora reče: Sokrate je suviše oštrouman — kratkim pitanjima me tjera u kut i onda kaže da dugo govorim. Je li to pravedano? Nego — da razgovaramo kao što razgovaraju ravni — ti krako, ja krako — a ti opširno, i ja opširno.
+<!-- anchor:328d -->A Protagora reče: Sokrate je suviše oštrouman — kratkim pitanjima me tera u kut i onda kaže da dugo govorim. Je li to pravedno? Nego — da razgovaramo kao što razgovaraju ravni — ti kratko, ja kratko — a ti opširno, i ja opširno.
 
-— Ali ja ne mogu tako dugo govoriti, rekoh, da mi ne nestane misao. Pa krako.
+— Ali ja ne mogu tako dugo govoriti, rekoh, da mi ne nestane misao. Pa kratko.
 
-<!-- anchor:328e -->Prodikos tada reče — da je Protagora u pravu — ali i da bi trebao biti slobodan da govori koliko hoće. Hipija je rekao slično. Alkibijad pak stade na moju stranu. Nastade buka i Kalija reče da je Sokrat pobijedio — jer krako odgovara kad se pitaju kratka pitanja.
+<!-- anchor:328e -->Prodikos tada reče — da je Protagora u pravu — ali i da bi trebao biti slobodan da govori koliko hoće. Hipija je rekao slično. Alkibijad pak stade na moju stranu. Nastade buka i Kalija reče da je Sokrat pobijedio — jer kratko odgovara kad se pitaju kratka pitanja.
 
 — Nije tako, Protagora — kaže Alkibijad — jer i Sokrat može odgovarati dugo. Jer Protagora je bolji govornik od Sokrata — ali Sokrat je bolji govornik od svakoga. Dugo govori — duže od Sokrata.
 
-<!-- anchor:329a -->— Nije ni niz ovce ni niz koze — kažem se — ni krako ni dugo — što god ti godi — jer jedino da razgovaramo. Pa ako je Protagora dobar govornik, neka govori, a ja ću pratiti.
+<!-- anchor:329a -->— Nije ni niz ovce ni niz koze — kažem se — ni kratko ni dugo — što god ti godi — jer jedino da razgovaramo. Pa ako je Protagora dobar govornik, neka govori, a ja ću pratiti.
 
 Protagora reče: Složimo se i nastavljajmo kako smo počeli.
 
@@ -514,7 +514,7 @@ Rekoh: Pa onda — pokažem mi još jednom što si rekao — jesu li to delovi j
 
 — Da.
 
-— A ima li svaki vlastitu moć — kao što oci nisu uši?
+— A ima li svaki vlastitu moć — kao što oči nisu uši?
 
 — Da.
 
@@ -548,7 +548,7 @@ Rekoh: Pa onda — pokažem mi još jednom što si rekao — jesu li to delovi j
 
 — A onda — pravednost i pobožnost su ili iste ili jako slične?
 
-— Mislim da su jako slične — ali ima razlike. No zanemarite to.
+— Mislim da su jako slične — ali ima razlike. No zanemarimo to.
 
 — Ne zanemarimo — jer hoću da razmotrimo i razmišljanje ti. A ono što je pobožno — kažeš li da je pravedno?
 
@@ -590,7 +590,7 @@ Rekoh: Pa onda — pokažem mi još jednom što si rekao — jesu li to delovi j
 
 — Jesu, Sokrate — i ono što si govorio je ispravno.
 
-— Čini mi se da te imam u zamci, Protagora. Jer kazes da su mudrost i umerenost bliski ali — ako je pametan i umeren i obratno — onda su isti.
+— Čini mi se da te imam u zamci, Protagora. Jer kažeš da su mudrost i umerenost bliski ali — ako je pametan i umeren i obratno — onda su isti.
 
 <!-- anchor:331d -->— Možda — ali ne kažem da su iste. Nego — ako dve su stvari bliski — ne znači da su iste.
 
@@ -602,9 +602,9 @@ Rekoh: Pa onda — pokažem mi još jednom što si rekao — jesu li to delovi j
 
 — Pa — razmotrimo to. Je li sve ugodno dobro, ili nije sve ugodno dobro?
 
-<!-- anchor:332a -->— Protagora reče: Mislim da nam je bolje odgovoriti na pitanje nego zaludu raspravljati. Rekoh: Dobro — pa onda — je li ugodnost uvijek dobra?
+<!-- anchor:332a -->— Protagora reče: Mislim da nam je bolje odgovoriti na pitanje nego zaludu raspravljati. Rekoh: Dobro — pa onda — je li ugodnost uvek dobra?
 
-— Nije uvijek — ima ugodnih stvari koje nisu dobre, i dobrih koje nisu ugodne.
+— Nije uvek — ima ugodnih stvari koje nisu dobre, i dobrih koje nisu ugodne.
 
 — Kažeš dakle da postoji dobro — koje nije ugodno, i ugodno — koje nije dobro?
 
@@ -648,7 +648,7 @@ Rekoh: Pa onda — pokažem mi još jednom što si rekao — jesu li to delovi j
 
 — Možda je to moguće — ali to bi bio čudan zaključak.
 
-<!-- anchor:333a -->— Pa — ono što je suprotno umerenosti — jesto neumernost?
+<!-- anchor:333a -->— Pa — ono što je suprotno umerenosti — jeste neumernost?
 
 — Da.
 
@@ -678,13 +678,13 @@ Rekoh: Pa onda — pokažem mi još jednom što si rekao — jesu li to delovi j
 
 — Možda i jest — ali mi se ne čini.
 
-<!-- anchor:333d -->— A pogrješan čovek — je li mudar u tome što čini?
+<!-- anchor:333d -->— A pogrešan čovek — je li mudar u tome što čini?
 
 — U nekim slučajevima.
 
-— A onda — u onome u čemu grijesi — je li pametno griješiti?
+— A onda — u onome u čemu grijesi — je li pametno grešiti?
 
-— Ako je uspješan — da.
+— Ako je uspešan — da.
 
 — Pa — nazivamo li neku stvar dobrom?
 
@@ -704,13 +704,13 @@ Rekoh: Pa onda — pokažem mi još jednom što si rekao — jesu li to delovi j
 
 <!-- anchor:334a -->Protagora ovde poče odgovarati dugo. Rekoh mu:
 
-— Protagora — molim te da mi odgovaraš krako — samo da, ili ne, ili ne razumijem te.
+— Protagora — molim te da mi odgovaraš kratko — samo da, ili ne, ili ne razumem te.
 
 Protagora se napeti. I govorahu Hipija i Alkibijad i Kalija da moram biti strpljiv i da treba dopustiti Protagori da odgovara kako misli da je pravo. Rekoh:
 
-<!-- anchor:334b -->— Pa hoću da razgovor bude — da nas dvojica razgovaramo. Ako Protagora ne odgovara krako — onda ne mogu pratiti. Jer poput onih koji slušaju dugačak govor — zaboravim o čemu smo razgovarali.
+<!-- anchor:334b -->— Pa hoću da razgovor bude — da nas dvojica razgovaramo. Ako Protagora ne odgovara kratko — onda ne mogu pratiti. Jer poput onih koji slušaju dugačak govor — zaboravim o čemu smo razgovarali.
 
-<!-- anchor:334c -->— A i razgovarati s nekim ko ne sluša — ne vredi ništa. Pa prihvati moj prijedlog — ili razgovarajmo kako hoćeš, krako ili dugo — ili ću otiči.
+<!-- anchor:334c -->— A i razgovarati s nekim ko ne sluša — ne vredi ništa. Pa prihvati moj predlog — ili razgovarajmo kako hoćeš, kratko ili dugo — ili ću otići.
 
 <!-- anchor:334d -->Protagora ućuta.
 
@@ -718,25 +718,25 @@ Protagora se napeti. I govorahu Hipija i Alkibijad i Kalija da moram biti strplj
 
 <!-- anchor:335a -->Alkibijad tada upita Kaliju: Hoćemo li dopustiti Sokratu da ode, ili ćemo ga zadržati?
 
-Hipija reče: Ni jedno ni drugo. Nego — donesimo sporazum i biramo predsjednika koji će nas kontrolisati — da ne budu odgovori ni predugački ni prikratki.
+Hipija reče: Ni jedno ni drugo. Nego — donesimo sporazum i biramo predsednika koji će nas kontrolisati — da ne budu odgovori ni predugački ni prikratki.
 
 <!-- anchor:335b -->Kalija pristade. I Alkibijad reče: Protagora — ili dogovori se sa Sokratom, ili idi svojom.
 
-Protagora se pokajao — ali ne htede javno reći — i reče Sokratu: Budući da toliko toliko zahtevaš kratke odgovorima — odgovaraću krako. Govori.
+Protagora se pokajao — ali ne htede javno to reći — i reče Sokratu: Budući da toliko zahtevaš kratke odgovorima — odgovaraću kratko. Govori.
 
-<!-- anchor:335c -->Rekoh: Nisam tražio da odgovaraš krako ako misliš da treba duže. Hoću samo da razgovaramo — a ne da tvoja veštine ubudi da ti budem publika. Nego — hajde da nastavimo.
+<!-- anchor:335c -->Rekoh: Nisam tražio da odgovaraš kratko ako misliš da treba duže. Hoću samo da razgovaramo — a ne da tvoja veštine pobudi da ti budem publika. Nego — hajde da nastavimo.
 
 <!-- anchor:335d -->Prodikos i Hipija su rekli da treba nastaviti. I zamoliše Protagoru i mene da budemo mirni i nastavimo. A Protagora pristade.
 
 <!-- anchor:335e -->Rekoh: Vratimo se na ono od kud smo pošli. Hoću da razmotrimo — je li mudrost isto što i umerenost, pravednost, pobožnost i hrabrost — ili su različiti delovi jedne vrline?
 
-<!-- anchor:336a -->— Rekao bih ti da ja mnogo više od tebe trebam trčati za njima, ali ne mogu. Ako hoćeš da gledaš mene i Krisona kako trčimo — zamoli ga da pusti; jer ja ne mogu brzo trčati, a on može sporo. Ako dakle želiš da slušaš mene i Protagoru — zamoli ga da odgovara krako, kao na početku.
+<!-- anchor:336a -->— Rekao bih ti da ja mnogo više od tebe trebam trčati za njima, ali ne mogu. Ako hoćeš da gledaš mene i Krisona kako trčimo — zamoli ga da pusti; jer ja ne mogu brzo trčati, a on može sporo. Ako dakle želiš da slušaš mene i Protagoru — zamoli ga da odgovara kratko, kao na početku.
 
 <!-- anchor:336b -->— Inače, kakav će biti način razgovora? Jer ja mislim da je razgovor jedno, a govor pred narodom nešto drugo. Ali vidiš, Sokrate — čini se da Protagora s pravom traži da mu bude dopušteno da razgovara kako hoće, i tebi kako hoćeš. Alkibijad uze reč i reče: ne dobro govoriš —
 
 <!-- anchor:336c -->— Ko je kadar dati i primiti razgovor — čudio bih se ako bi ikome ustupao. Ako dakle Protagora prizna da je slabiji u razgovoru od Sokrata — Sokratu je dosta. Ako pak ne pristaje — neka razgovara pitajući i odgovarajući, a ne na svako pitanje razvlači dugačak govor —
 
-<!-- anchor:336d -->— nego neka daje razlog krako, dok većina slušatelja ne zaboravi o čemu je pitanje. Ja pak jamčim da Sokrat neće zaboraviti — premda se šali i kaže da je zaboravan. Meni se, dakle, čini da Sokrat govori prikladnije; jer svaki treba izreći vlastito mišljenje. A posle Alkibijada —
+<!-- anchor:336d -->— nego neka daje razlog kratko, dok većina slušatelja ne zaboravi o čemu je pitanje. Ja pak jamčim da Sokrat neće zaboraviti — premda se šali i kaže da je zaboravan. Meni se, dakle, čini da Sokrat govori prikladnije; jer svaki treba izreći vlastito mišljenje. A posle Alkibijada —
 
 <!-- anchor:336e -->— Kritija reče: Alkibijad je uvek takmidar u onome čemu se prihvati. Nama pak nije potrebno da se nadmećemo ni za Sokrata ni za Protagoru — nego zajednički zamolimo obojicu da ne raskinu razgovor na pola.
 
@@ -746,7 +746,7 @@ Protagora se pokajao — ali ne htede javno reći — i reče Sokratu: Budući d
 
 <!-- anchor:337c -->— Hipija reče da se i on slaže i da treba nastaviti. Tada svi zamoliše mene i Protagoru da ostanemo i razgovaramo. Ja rekoh: Mislim da je ispravno što kaže Hipija i Prodikos. Pa — Protagora, hoćeš li nastaviti?
 
-<!-- anchor:337d -->— Protagora reče: Odgovaraću krako ako tražiš. Rekoh: Tražim samo da razgovaramo ravnopravno. Pa — je li moguće da neko čini loše znajući da je to loše?
+<!-- anchor:337d -->— Protagora reče: Odgovaraću kratko ako tražiš. Rekoh: Tražim samo da razgovaramo ravnopravno. Pa — je li moguće da neko čini loše znajući da je to loše?
 
 <!-- anchor:337e -->— Protagora reče: To je pitanje koje treba razmotriti. Rekoh: Tada — hajde da razmotrimo pitanje znanja i vrline direktno — a ne kroz pesništvo. Je li znanje poučivo?
 
@@ -788,7 +788,7 @@ Protagora se pokajao — ali ne htede javno reći — i reče Sokratu: Budući d
 
 <!-- anchor:341d -->— da je teško za čoveka zaista postati dobar. Ali kad postane — ostati dobar i biti dobar bez prestanka, kako kažeš Pitaku — nemoguće je i nije u ljudskoj moći.
 
-<!-- anchor:341e -->— Jer neizbežno čoveka svlada nesreća — pa i dobar čovek postane loš. Ko upravlja brodom — oluja može ga zbaciti. Ko ore — u sušnoj godini ne uspije. Lekar može da oboli.
+<!-- anchor:341e -->— Jer neizbežno čoveka svlada nesreća — pa i dobar čovek postane loš. Ko upravlja brodom — oluja može ga zbaciti. Ko ore — u sušnoj godini ne uspe. Lekar može da oboli.
 
 <!-- anchor:342a -->— Ni najmudriji nije siguran. Ali — ko god jeste dobar u nekom trenutku — hvale je vredan. I Simonid ne traži nemoguće.
 
@@ -800,7 +800,7 @@ Protagora se pokajao — ali ne htede javno reći — i reče Sokratu: Budući d
 
 <!-- anchor:342e -->— I Pitakova izreka — teško je dobar biti — bila je pohvaljena od svih mudrih. I Simonid, želeći da se proslavi u mudrosti, napao je tu izreku — ne iz zavisti nego iz filozofskog razmatranja.
 
-<!-- anchor:343a -->— Jer Simonid kaže — ako je samo to teško, a ne nemoguće, onda je pohvala prazna. A zaista — biti dobar bez prestanka nemoguće je, ali postati dobar u krakom trenutku moguće je.
+<!-- anchor:343a -->— Jer Simonid kaže — ako je samo to teško, a ne nemoguće, onda je pohvala prazna. A zaista — biti dobar bez prestanka nemoguće je, ali postati dobar u kratkom trenutku moguće je.
 
 <!-- anchor:343b -->— I čovek koji je dobar postaje loš — ali mudrac, kaže Simonid, ne svojom voljom nego pod nuždom. Ko je zbijen u siromaštvo — i dobar čovek postane loš.
 
