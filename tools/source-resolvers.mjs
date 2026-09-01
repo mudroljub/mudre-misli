@@ -70,6 +70,34 @@ const createPorphyryVitaPlotiniResolver = () =>
     return `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p${section}`
   }
 
+const createPlotinusEnneadsResolver = () =>
+  async reference => {
+    const normalized = String(reference || '').trim()
+    const refMatch = normalized.match(/^([IVX]+)\.(\d+)\.(\d+)(?:[–-](\d+))?$/)
+    if (!refMatch) return null
+
+    const bookNumber = romanToNumber[refMatch[1]]
+    const chapterNumber = Number(refMatch[2])
+    const sectionNumber = Number(refMatch[3])
+    const endSectionNumber = Number(refMatch[4] ?? refMatch[3])
+
+    if (
+      !bookNumber ||
+      bookNumber > 6 ||
+      !Number.isFinite(chapterNumber) ||
+      !Number.isFinite(sectionNumber) ||
+      endSectionNumber < sectionNumber
+    ) {
+      return null
+    }
+
+    const passage = endSectionNumber > sectionNumber
+      ? `${bookNumber}.${chapterNumber}.${sectionNumber}-${endSectionNumber}`
+      : `${bookNumber}.${chapterNumber}.${sectionNumber}`
+
+    return `data/sources/First1KGreek/data/tlg2000/tlg001/tlg2000.tlg001.1st1K-grc1.xml#${passage}`
+  }
+
 const hermannDielsAuthorFiles = {
   Anaximenes: '03-Anaximenes.txt',
   Xenophanes: '11-Xenophanes.txt',
@@ -206,6 +234,7 @@ export const createSourceResolvers = rootDir => ({
   'diogenes-laertius': createDiogenesLaertiusResolver(),
   'walter-burley': createWalterBurleyResolver(rootDir),
   'porphyry-vita-plotini': createPorphyryVitaPlotiniResolver(),
+  'plotinus-enneads': createPlotinusEnneadsResolver(),
   'hermann-diels': createHermannDielsResolver(rootDir),
   plutarch: createPlutarchStephanusResolver(
     rootDir,

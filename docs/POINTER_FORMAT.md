@@ -72,6 +72,15 @@ sačuvanog unutar JSON odgovora:
 data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p14
 ```
 
+Plotinove `Eneade` koriste trodelni CTS prolaz
+`eneada.rasprava.odeljak`. Bibliografska referenca zadržava rimski broj
+Eneade, dok pointer koristi arapski broj:
+
+```text
+data/sources/First1KGreek/data/tlg2000/tlg001/tlg2000.tlg001.1st1K-grc1.xml#1.6.8
+data/sources/First1KGreek/data/tlg2000/tlg001/tlg2000.tlg001.1st1K-grc1.xml#5.1.6-7
+```
+
 ## Provera i generisanje
 
 ```bash

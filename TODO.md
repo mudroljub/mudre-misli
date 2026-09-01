@@ -5,16 +5,8 @@
    Iz Porfirijeve Vita Plotini:
 
    VP 2 — Apolonovo prorošanje (dugačka heksametarska pesma) o Plotinovoj duši nakon smrti — vrlo poznato mesto, ali dugo (moglo bi se izvaditi nekoliko stihova).
-   VP 8 — Plotin nikada nije preispitivao ono što je jednom napisao, zbog slabog vida: οὐδὲ γὰρ δὶς ἀναγνῶναι τὸ γραφὲν ὑπέμενεν — "čak ni dvaput pročitati napisano nije podnosio."
-   VP 13 — Amelijev prigovor da Plotin ne piše jasno u aristotelovskom stilu, i Plotinov (implicitni) odgovor kroz nastavak rasprave.
    VP 15 — anegdota o Olimpiju iz Aleksandrije, koji je pokušao da astrološki naudi Plotinu, na šta je ovaj rekao da oseća napad — poznata epizoda o duhovnoj "odbrani".
    VP 22 — Porfirijeva potvrda da je sam Apolon posvedočio Plotinovu mudrost i njegov uspon ka božanskom.
-
-   Iz Eneada (Plotinova sopstvena dela):
-
-   Enn. I.6.9 — čuveni završetak traktata O lepoti, opisujući cilj mudraca kao φυγὴ μόνου πρὸς μόνον — "beg jedinog ka Jedinom" (ili "usama ka Usamljenome") — možda najpoznatija Plotinova rečenica uopšte.
-   Enn. I.6.8 — o lepoti duše: da je onaj ko je vidi nužno naziva lepom.
-   Enn. V.1.6 — o Umu (νοῦς) kao slici Jednog.
 
 - Protagora
 - Filon Aleksandrijski
@@ -43,5 +35,4 @@ probleme.
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
    - sastojak
-   - nesečivo -> nesek
    - zname
