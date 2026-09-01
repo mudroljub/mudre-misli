@@ -59,24 +59,7 @@
       }
     ]
   },
-  {
-    "id": "mm-900037",
-    "type": "anecdote",
-    "year": -410,
-    "sr": "Videvši Euklida predanog prepiračkim govorima, Sokrat mu reče: Euklide, sa mudrijašima ćeš umeti opštiti, ali sa ljudima nikako.",
-    "stsl": "Видѣвъ Еѹклида прѣчьнымъ словесемъ прилѣжѧшта · Сѡкратъ рече · Еѹклиде · съ мѫдровательми ѹмѣти бѫдеши обьштити сѧ · съ чловѣкы же никакоже ·",
-    "originalText": "ὁρῶν δʼ Εὐκλείδην ἐσπουδακότα περὶ τοὺς ἐριστικοὺς λόγους, «ὦ Εὐκλείδη,» ἔφη, «σοφισταῖς μὲν δυνήσῃ χρῆσθαι, ἀνθρώποις δὲ οὐδαμῶς.»",
-    "author": [
-      "Euclid of Megara",
-      "Socrates"
-    ],
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "II.30"
-      }
-    ]
-  },
+
   {
     "id": "mm-900038",
     "type": "bio",
@@ -162,6 +145,24 @@
       {
         "name": "diogenes-laertius",
         "reference": "II.108"
+      }
+    ]
+  },
+  {
+    "id": "mm-001696",
+    "type": "anecdote",
+    "year": -410,
+    "sr": "Videvši Euklida predanog prepiračkim govorima, Sokrat mu reče: Euklide, sa mudrijašima ćeš umeti opštiti, ali sa ljudima nikako.",
+    "stsl": "Vidѣvъ Euklida pričьnyнyм slovesemъ priližъšta · Sokrat rečhe · Euklide · sъ mѹdrovatermi ѹmѣti bѹdeši obъštiti sѧ · sъ slovѣky že nikakože ·",
+    "originalText": "ὁρῶν δʼ Εὐκλείδην ἐσπουδακότα περὶ τοὺς ἐριστικοὺς λόγους, «ὦ Εὐκλείδη,» ἔφη, «σοφισταῖς μὲν δυνήσῃ χρῆσθαι, ἀνθρώποις δὲ οὐδαμῶς.»",
+    "author": [
+      "Euclid of Megara",
+      "Socrates"
+    ],
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "II.30"
       }
     ]
   }

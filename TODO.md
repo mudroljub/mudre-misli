@@ -45,4 +45,3 @@ probleme.
    - sastojak
    - nesečivo -> nesek
    - zname
-- čistiti docs\DUPLIKATI_KANDIDATI.md

@@ -4,24 +4,16 @@ Izveštaj je automatski izveden iz `data/quotes.json`. Kandidat nije automatski
 duplikat: isti izvorni paragraf može namerno biti podeljen na više unosa.
 Posle izmene korpusa izveštaj se obnavlja komandom `npm run audit:duplicates`.
 
-## Sličan izvornik u istoj izvornoj referenci
-
-Broj parova sa sličnošću najmanje 72%: **1**.
-
-| Sličnost | Prvi unos | Drugi unos | Izvor |
-| ---: | --- | --- | --- |
-| 100% | `mm-900037` Euclid of Megara,Socrates — Videvši Euklida predanog prepiračkim govorima, Sokrat mu reče: Euklide, sa mudrijašima ćeš umeti opštiti, ali sa ljudima nikako. | `mm-001696` Socrates — Videvši da se Euklid ozbiljno bavi erističkim raspravama, Sokrat mu reče: Sa sofistima ćeš umeti, Euklide, ali sa ljudima nikako. | diogenes-laertius:II.30 |
-
 ## Potpuno isti pointer — kandidati za proveru atomizacije
 
-Broj grupa: **5**.
+Broj grupa: **3**.
 
-### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p14`
+### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p2`
 
 | ID | Autor | Tip | Referenca | Srpski |
 | --- | --- | --- | --- | --- |
-| `mm-900080` | Plotinus | `quote` | 14 | Longin je književnik, ali nipošto filozof. |
-| `mm-900082` | Plotinus | `quote` | 14 | Govorniku slabi revnost kada vidi da će onima koji već znaju kazivati ono što namerava reći. |
+| `mm-900094` | Plotinus | `quote` | 2 | Još te čekam. Nastojim božansko u nama uzvesti ka božanskom u svemu. |
+| `mm-900093` | Plotinus | `bio` | 2 | Plotin umre u šezdeset šestoj godini, pri kraju druge godine Klaudijeve vladavine. Uz njega beše samo Eustohije. |
 
 - [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
 
@@ -29,7 +21,7 @@ Broj grupa: **5**.
 
 | ID | Autor | Tip | Referenca | Srpski |
 | --- | --- | --- | --- | --- |
-| `mm-900068` | Plotinus | `anecdote` | 3 | U dvadeset osmoj godini Plotin se okrenu filozofiji. Nezadovoljan aleksandrijskim učiteljima dođe Amoniju, pa čim ga ču reče drugu: Ovoga sam tražio. |
+| `mm-900068` | Plotinus | `bio` | 3 | U dvadeset osmoj godini Plotin se okrenu filozofiji. Nezadovoljan aleksandrijskim učiteljima dođe Amoniju, pa čim ga ču reče drugu: Ovoga sam tražio. |
 | `mm-900069` | Plotinus | `bio` | 3 | Plotin provede jedanaest godina uz Amonija. |
 | `mm-900070` | Plotinus | `bio` | 3 | Želeći upoznati persijsku i indijsku filozofiju, Plotin se u trideset devetoj godini pridruži pohodu cara Gordijana na Persijance. Posle careve pog… |
 | `mm-900071` | Plotinus | `bio` | 3 | Kada Filip preuze carstvo, četrdesetogodišnji Plotin dođe u Rim. |
@@ -43,24 +35,6 @@ Broj grupa: **5**.
 | --- | --- | --- | --- | --- |
 | `mm-900074` | Plotinus | `bio` | 9 | Mnogi plemeniti ljudi na samrti poveravahu Plotinu svoju decu i imanje kao svetom i božanskom čuvaru. Njegova kuća zato beše puna dečaka i devojčic… |
 | `mm-900075` | Plotinus | `bio` | 9 | Plotin provede dvadeset šest godina u Rimu, mnogima sudeći u međusobnim sporovima, a nikada ne steče neprijatelja među javnim ljudima. |
-
-- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
-
-### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p15`
-
-| ID | Autor | Tip | Referenca | Srpski |
-| --- | --- | --- | --- | --- |
-| `mm-900081` | Plotinus | `anecdote` | 15 | Kada Porfirije na Platonovoj svetkovini pročita pesmu o svetom braku, neko ga zbog njenog zanosnog i zagonetnog govora nazva ludim. Plotin tada pre… |
-| `mm-900083` | Plotinus | `anecdote` | 15 | Retor Diofan pročita odbranu Platonovog Alkibijada u kojoj je tvrdio da učenik radi vrline treba pristati na telesno sjedinjenje sa učiteljem koji … |
-
-- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
-
-### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p2`
-
-| ID | Autor | Tip | Referenca | Srpski |
-| --- | --- | --- | --- | --- |
-| `mm-900093` | Plotinus | `bio` | 2 | Plotin umre u šezdeset šestoj godini, pri kraju druge godine Klaudijeve vladavine. Uz njega beše samo Eustohije. |
-| `mm-900094` | Plotinus | `anecdote` | 2 | Dok je Plotin umirao na imanju u Kampaniji, Eustohije mu je kasno stigao iz Puteola. Plotin mu reče: „Još te čekam”, a zatim: „Nastojim božansko u … |
 
 - [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
 
