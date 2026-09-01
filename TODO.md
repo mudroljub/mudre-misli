@@ -1,15 +1,6 @@
 # TODO
 
 ## Širiti članke filozofa
-- Plotin
-   Iz Porfirijeve Vita Plotini:
-
-   VP 2 — Apolonovo prorošanje (dugačka heksametarska pesma) o Plotinovoj duši nakon smrti — vrlo poznato mesto, ali dugo (moglo bi se izvaditi nekoliko stihova).
-   VP 15 — anegdota o Olimpiju iz Aleksandrije, koji je pokušao da astrološki naudi Plotinu, na šta je ovaj rekao da oseća napad — poznata epizoda o duhovnoj "odbrani".
-   VP 22 — Porfirijeva potvrda da je sam Apolon posvedočio Plotinovu mudrost i njegov uspon ka božanskom.
-
-- Protagora
-- Filon Aleksandrijski
 - izlistati filozofe iz projekta za koje imamo nekorištenih izvora
 - predložiti bitne filozofe koje još uvek nemamo u projektu
 

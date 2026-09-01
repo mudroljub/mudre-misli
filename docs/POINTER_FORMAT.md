@@ -89,6 +89,11 @@ data/sources/First1KGreek/data/tlg2023/tlg001/tlg2023.tlg001.1st1K-grc1.xml#15.6
 data/sources/First1KGreek/data/tlg2034/tlg002/tlg2034.tlg002.1st1K-grc1.xml#37
 ```
 
+Platonovi dijalozi `Protagora` i `Teetet` koriste provereni linijski pointer
+na lokalni TEI, izveden iz prve navedene Stefanove oznake (`317b`, `166d` i
+slično). Bibliografska referenca može obuhvatiti raspon, dok pointer vodi na
+početak tog raspona.
+
 ## Provera i generisanje
 
 ```bash

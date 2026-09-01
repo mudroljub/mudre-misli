@@ -139,6 +139,7 @@ const hermannDielsAuthorFiles = {
   'Zeno of Elea': '19-Zeno.txt',
   Empedocles: '21-Empedocles.txt',
   Anaxagoras: '46-Anaxagoras.txt',
+  Protagoras: 'band1.txt#protagoras',
 }
 
 const createHermannDielsResolver = rootDir => {
@@ -147,11 +148,37 @@ const createHermannDielsResolver = rootDir => {
   const loadAuthorSection = async filename => {
     if (cache.has(filename)) return cache.get(filename)
 
-    const relFile = `data/sources/hermann-diels/philosophers/${filename}`
+    const isProtagoras = filename === 'band1.txt#protagoras'
+    const relFile = isProtagoras
+      ? 'data/sources/hermann-diels/band1.txt'
+      : `data/sources/hermann-diels/philosophers/${filename}`
     const content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
     const lines = content.split(/\r?\n/)
-    const fragmentStart = lines.findIndex(line => /B\.\s*FRAGMENTE/i.test(line))
-    const section = { relFile, lines, fragmentStart }
+    const sectionStart = isProtagoras
+      ? lines.findIndex(line => /14\.\s*PROTAGORAS\./i.test(line))
+      : 0
+    const fragmentStart = lines.findIndex(
+      (line, index) => index >= sectionStart && /[BΒ]\.\s*FRAGMENTE/i.test(line),
+    )
+    const imitationStart = isProtagoras
+      ? lines.findIndex(
+          (line, index) => index >= fragmentStart && /^\s*C\.\s*IMITATION\.\s*$/i.test(line),
+        )
+      : -1
+    const sectionEnd = isProtagoras
+      ? lines.findIndex(
+          (line, index) => index > imitationStart && /75\.\s*XENIADES\./i.test(line),
+        )
+      : lines.length
+    const section = {
+      relFile,
+      lines,
+      fragmentStart,
+      sectionStart,
+      imitationStart,
+      sectionEnd,
+      isProtagoras,
+    }
     cache.set(filename, section)
     return section
   }
@@ -160,7 +187,15 @@ const createHermannDielsResolver = rootDir => {
     const filename = hermannDielsAuthorFiles[author]
     if (!filename || !originalText) return null
 
-    const { relFile, lines, fragmentStart } = await loadAuthorSection(filename)
+    const {
+      relFile,
+      lines,
+      fragmentStart,
+      sectionStart,
+      imitationStart,
+      sectionEnd,
+      isProtagoras,
+    } = await loadAuthorSection(filename)
     if (fragmentStart < 0) return null
 
     const tokens = [...new Set(
@@ -171,20 +206,50 @@ const createHermannDielsResolver = rootDir => {
     )]
     if (!tokens.length) return null
 
-    const fragmentNumber = String(reference).match(/(?:^|\s)B\.?\s*(\d+[a-z]?)/i)?.[1]
+    const normalizedReference = String(reference)
+    const referenceMatch = normalizedReference.match(/(?:^|\s)([ABC])\.?\s*(\d+[a-z]?)/i)
+    const fragmentNumber = referenceMatch?.[2]
     let searchStart = fragmentStart
-    let searchEnd = lines.length
+    let searchEnd = isProtagoras ? sectionEnd : lines.length
+    let referenceLine = -1
+
+    if (isProtagoras && referenceMatch) {
+      const sectionLetter = referenceMatch[1].toUpperCase()
+      if (sectionLetter === 'A') {
+        searchStart = sectionStart + 1
+        searchEnd = fragmentStart
+      } else if (sectionLetter === 'B') {
+        searchStart = fragmentStart
+        searchEnd = imitationStart > fragmentStart ? imitationStart : sectionEnd
+      } else if (sectionLetter === 'C' && imitationStart > 0) {
+        searchStart = imitationStart
+        searchEnd = sectionEnd
+      }
+    }
 
     if (fragmentNumber) {
-      const marker = new RegExp(`^\\s*${fragmentNumber.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*\\[`, 'i')
-      const markerIndex = lines.findIndex((line, index) => index >= fragmentStart && marker.test(line))
+      const marker = new RegExp(
+        `^\\s*${fragmentNumber.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*(?:\\.|\\[)`,
+        'i',
+      )
+      const markerIndex = lines.findIndex(
+        (line, index) => index >= searchStart && index < searchEnd && marker.test(line),
+      )
       if (markerIndex >= 0) {
+        referenceLine = markerIndex
         searchStart = markerIndex
         const nextMarker = lines.findIndex(
-          (line, index) => index > markerIndex && /^\s*\d+[a-z]?\s*\[/i.test(line),
+          (line, index) =>
+            index > markerIndex && index < searchEnd && /^\s*\d+[a-z]?\s*(?:\.|\[)/i.test(line),
         )
-        searchEnd = nextMarker >= 0 ? nextMarker : lines.length
+        searchEnd = nextMarker >= 0 ? nextMarker : searchEnd
       }
+    }
+
+    // Dielsov OCR često lomi reči i meša grčko i latiničko pismo.
+    // Broj testimonijuma ili fragmenta zato je pouzdaniji od tekstualnog sidra.
+    if (isProtagoras && referenceLine >= 0) {
+      return `${relFile}:${referenceLine + 1}`
     }
 
     const loweredTokens = tokens.map(token => token.normalize('NFC').toLocaleLowerCase('el'))
@@ -205,10 +270,14 @@ const createHermannDielsResolver = rootDir => {
       if (score > (best?.score ?? 0)) best = { index, window, score }
     }
 
-    if (!best || best.score < minimumScore) return null
+    if (!best || best.score < minimumScore) {
+      return isProtagoras && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
+    }
 
     const matchingTokenIndex = loweredTokens.findIndex(token => best.window.includes(token))
-    if (matchingTokenIndex < 0) return null
+    if (matchingTokenIndex < 0) {
+      return isProtagoras && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
+    }
 
     const token = tokens[matchingTokenIndex]
     const lowerToken = loweredTokens[matchingTokenIndex]
@@ -222,7 +291,7 @@ const createHermannDielsResolver = rootDir => {
       return `${relFile}:${index + 1}#${anchor}`
     }
 
-    return null
+    return isProtagoras && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
   }
 }
 
@@ -263,6 +332,42 @@ const createPlutarchStephanusResolver = (rootDir, relFile) => {
   }
 }
 
+const createPlatoStephanusResolver = (rootDir, relFile) => {
+  let lineBySection = null
+
+  const loadLineIndex = async () => {
+    if (lineBySection) return lineBySection
+
+    const content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
+    const lines = content.split(/\r?\n/)
+    lineBySection = new Map()
+
+    for (let index = 0; index < lines.length; index += 1) {
+      const matches = lines[index].matchAll(
+        /<milestone\b[^>]*\bunit="section"[^>]*\bn="([^"]+)"|<milestone\b[^>]*\bn="([^"]+)"[^>]*\bunit="section"/gi,
+      )
+
+      for (const match of matches) {
+        const section = String(match[1] ?? match[2]).toLowerCase()
+        if (!lineBySection.has(section)) lineBySection.set(section, index + 1)
+      }
+    }
+
+    return lineBySection
+  }
+
+  return async reference => {
+    const section = String(reference || '')
+      .match(/\b(\d{3}[a-e])\b/i)?.[1]
+      ?.toLowerCase()
+    if (!section) return null
+
+    const index = await loadLineIndex()
+    const line = index.get(section)
+    return line ? `${relFile}:${line}` : null
+  }
+}
+
 export const createSourceResolvers = rootDir => ({
   'diogenes-laertius': createDiogenesLaertiusResolver(),
   'walter-burley': createWalterBurleyResolver(rootDir),
@@ -270,6 +375,14 @@ export const createSourceResolvers = rootDir => ({
   'plotinus-enneads': createPlotinusEnneadsResolver(),
   'iamblichus-vita-pythagorica': createIamblichusVitaPythagoricaResolver(),
   'porphyry-vita-pythagorae': createPorphyryVitaPythagoraeResolver(),
+  'plato-protagoras': createPlatoStephanusResolver(
+    rootDir,
+    'data/sources/canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml',
+  ),
+  'plato-theaetetus': createPlatoStephanusResolver(
+    rootDir,
+    'data/sources/canonical-greekLit/data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml',
+  ),
   'hermann-diels': createHermannDielsResolver(rootDir),
   plutarch: createPlutarchStephanusResolver(
     rootDir,

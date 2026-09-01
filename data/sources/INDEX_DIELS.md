@@ -62,19 +62,22 @@ Ksenofana, Heraklita, Parmenida, Zenona Elejskog, Empedokla i Anaksagoru.
 Heraklit je ranije detaljno obrađen; ostale autore treba proveravati fragment po
 fragment, bez oslanjanja na stare brojke iz analiza.
 
-Demokrit i Protagora nisu obuhvaćeni sadašnjim skupom od 16 izdvojenih
-odeljaka. Pre njihove obrade prvo treba utvrditi pouzdano lokalno ili spoljašnje
-izdanje; ne treba pretpostavljati da se nalaze u postojećem `band1.txt` sloju.
+Demokrit nije obuhvaćen sadašnjim skupom od 16 izdvojenih odeljaka. Protagorin
+odeljak, međutim, postoji u `band1.txt` (redovi 36149–37092), iako nije izdvojen
+u poseban fajl niti naveden u starom manifestu. Njegove oznake u projektu prate
+ustaljeno kasnije Diels–Kranzovo numerisanje `80 A/B/C`; lokalno prvo izdanje i
+OCR imaju drukčiju brojku u naslovu odeljka. Za Protagoru resolver zato čita
+neposredno taj raspon iz `band1.txt`.
 
 ## Pointeri
 
-Resolver za `hermann-diels` vodi na izdvojeni autorski `.txt` odeljak samo kada
-u delu `B. FRAGMENTE` pronađe tekstualni presek sa poljem `originalText`.
-Pointer sadrži red i stvarni anchor iz lokalnog fajla, a objedinjeni validator
-proverava da oba postoje. Ako autorski odeljak nije lokalno izdvojen ili OCR ne
-daje pouzdan presek, unos ostaje bez pointera umesto da dobije pretpostavljenu
-vezu. Pointer služi navigaciji kroz OCR i nije potvrda kritičke pouzdanosti
-grčkog teksta.
+Resolver za `hermann-diels` uglavnom vodi na izdvojeni autorski `.txt` odeljak
+kada u delu `B. FRAGMENTE` pronađe tekstualni presek sa poljem `originalText`.
+Za Protagoru vodi na numerisani A, B ili C odeljak u `band1.txt`: broj je
+pouzdaniji od tekstualnog sidra zato što OCR često lomi reči i meša grčko i
+latiničko pismo. Objedinjeni validator proverava da lokalni fajl i red postoje.
+Pointer služi navigaciji kroz OCR i nije potvrda kritičke pouzdanosti grčkog
+teksta.
 
 ## Postupak za novi fragment
 

@@ -6,7 +6,16 @@ Posle izmene korpusa izveštaj se obnavlja komandom `npm run audit:duplicates`.
 
 ## Potpuno isti pointer — kandidati za proveru atomizacije
 
-Broj grupa: **3**.
+Broj grupa: **6**.
+
+### `data/sources/hermann-diels/philosophers/46-Anaxagoras.txt:1827#χρημάτων`
+
+| ID | Autor | Tip | Referenca | Srpski |
+| --- | --- | --- | --- | --- |
+| `mm-000056` | Anaxagoras | `quote` | B.4 | U onome što se sastavlja sadržane su mnoge i svakovrsne stvari, semena svih stvari, sa svakovrsnim oblicima, bojama i ukusima. |
+| `mm-000075` | Anaxagoras | `quote` | B.4 | A pre nego što se razlučiše, dok sve stvari behu zajedno, nijedna boja ne beše razaznatljiva; jer to sprečavaše mešavina svih stvari: vlažnog i suv… |
+
+- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
 
 ### `data/sources/porphyry/vita-plotini.el-wikisource.parse.json#p2`
 
@@ -14,6 +23,24 @@ Broj grupa: **3**.
 | --- | --- | --- | --- | --- |
 | `mm-900094` | Plotinus | `quote` | 2 | Još te čekam. Nastojim božansko u nama uzvesti ka božanskom u svemu. |
 | `mm-900093` | Plotinus | `bio` | 2 | Plotin umre u šezdeset šestoj godini, pri kraju druge godine Klaudijeve vladavine. Uz njega beše samo Eustohije. |
+
+- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
+
+### `data/sources/hermann-diels/band1.txt:36784`
+
+| ID | Autor | Tip | Referenca | Srpski |
+| --- | --- | --- | --- | --- |
+| `mm-001519` | Protagoras | `quote` | 80 B 3 | Poučavanju su potrebni prirodna obdarenost i vežbanje. |
+| `mm-001520` | Protagoras | `quote` | 80 B 3 | Učenje treba započeti od mladosti. |
+
+- [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
+
+### `data/sources/canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml:313`
+
+| ID | Autor | Tip | Referenca | Srpski |
+| --- | --- | --- | --- | --- |
+| `mm-900126` | Protagoras | `mention` | 329b | Sokrat u Platonovom dijalogu kaže da je Protagora umeo i govoriti duge i lepe govore i kratko odgovarati na pitanja, kao i saslušati tuđ odgovor — … |
+| `mm-900139` | Protagoras | `quote` | 329d–e | Vrlina je jedno, ali pravda, umerenost, pobožnost i ostale vrline jesu njeni različiti delovi, kao što su usta, nos, oči i uši delovi lica. Zato mn… |
 
 - [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
 

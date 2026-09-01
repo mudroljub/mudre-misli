@@ -3,9 +3,9 @@
     "id": "mm-001495",
     "type": "bio",
     "year": -490,
-    "sr": "Rođen u Abderi.",
-    "stsl": "Протъагора Артемоновъ Абдерꙗнинъ бѣ.",
-    "originalText": "Πρωταγόρας Ἀρτέμωνος ἤ, ὡς Ἀπολλόδωρος καὶ Δίνων ἐν Περσικῶν εʹ, Μαιανδρίου, Ἀβδηρίτης.",
+    "sr": "Protagora, sin Artemonov ili, prema Apolodoru i Dinonu, Meandrijev, bio je iz Abdere; pesnik Eupolid nazivao ga je Tejaninom.",
+    "stsl": "Протагоръ · Артемоновъ сынъ или · по Аполлодорѹ и Динонѹ · Меандриєвъ · Абдерꙗнинъ бѣ · пѣсньникъ же Еѹполидъ Теꙗниномъ и нарицааше ·",
+    "originalText": "Πρωταγόρας Ἀρτέμωνος ἤ, ὡς Ἀπολλόδωρος καὶ Δείνων ἐν Περσικῷ εʼ, Μαιανδρίου Ἀβδηρίτης· καθά φησιν Ἡρακλείδης ὁ Ποντικὸς ἐν τοῖς Περὶ νόμων, ὃς καὶ Θουρίοις νόμους γράψαι φησὶν αὐτόν· ὡς δʼ Εὔπολις ἐν Κόλαξιν, Τήιος.",
     "author": "Protagoras",
     "sources": [
       {
@@ -41,36 +41,6 @@
       {
         "name": "diogenes-laertius",
         "reference": "IX.50"
-      }
-    ]
-  },
-  {
-    "id": "mm-001498",
-    "type": "bio",
-    "year": -440,
-    "sr": "Atinjani progonili ga zbog bezbožnosti zbog knjige O bogovima; knjige spaljene na agori.",
-    "stsl": "Атинꙗне ради безбожиꙗ изгнаша єго ради книги О бозѣхъ · книги на тръжишти съжжены.",
-    "originalText": "Ἀθηναῖοι δ' αὐτὸν ἐξέβαλον ἀσεβείας ἐγκαλέσαντες διὰ τὸ περὶ θεῶν βιβλίον· ἃ καὶ κατέκαυσαν ἐν τῇ ἀγορᾷ.",
-    "author": "Protagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.52"
-      }
-    ]
-  },
-  {
-    "id": "mm-001499",
-    "type": "bio",
-    "year": -420,
-    "sr": "Umro od brodoloma bežeći iz Atine; živeo sedamdeset godina po Hermnipu; devedeset po Apolodoru.",
-    "stsl": "Въ корабленомъ крꙋшении бѣжѧ отъ Атинъ ѹмрѣ · жити седмьдесѧтъ лѣтъ по Херминѹ · девѧтьдесѧтъ по Аполлодорѹ.",
-    "originalText": "Ἀπέθανε δὲ πλέων ἐκ τῆς Ἀττικῆς, περὶ ἔτη γεγονὼς ἑβδομήκοντα· ὡς δέ τινες, ἐνενήκοντα.",
-    "author": "Protagoras",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "IX.56"
       }
     ]
   },
@@ -241,12 +211,11 @@
   },
   {
     "id": "mm-001511",
-    "type": "anecdote",
+    "type": "reported",
     "sr": "Protagora je prvi sistematski suprotstavljao dva govora o svakom pitanju, priređivao nadmetanja u raspravi i pokazivao kako se napada i pobija svaka postavljena tvrdnja. Diogen mu pripisuje i prvo korišćenje oblika rasprave koji je kasnije nazvan sokratskim.",
     "stsl": "Протъагоръ пьрвъ по чинѹ два протъивьна слова о всѧкомь въпросѣ съставлѧше · състѧзаниꙗ въ прѣнии творѧше и показа · како всѧко положено ѹтвръжденіє нападати и опровергати · Диогенъ ємѹ и пьрвоє ѹпотърѣбленіє образа бесѣды · послѣди сократичьскымъ нареченаго · приписѹєть ·",
     "originalText": "Καὶ πρῶτος ἔφη δύο λόγους εἶναι περὶ παντὸς πράγματος ἀντικειμένους ἀλλήλοις· οἷς καὶ συνηρώτα, πρῶτος τοῦτο πράξας. Καὶ λόγων ἀγῶνας ἐποιήσατο καὶ σοφίσματα τοῖς πραγματολογοῦσι προσήγαγε. Οὗτος καὶ τὸ Σωκρατικὸν εἶδος τῶν λόγων πρῶτος ἐκίνησε.",
     "author": "Protagoras",
-    "year": -450,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -256,12 +225,11 @@
   },
   {
     "id": "mm-001512",
-    "type": "anecdote",
-    "sr": "Protagora je prvi razlikovao glagolska vremena, izlagao značaj pravog trenutka i razvrstavao osnovne oblike govora.",
-    "stsl": "Протъагоръ пьрвъ глагольна врѣмена различи · силѹ подобьнаго часа изложи и основьныѩ образы слова раздѣли ·",
-    "originalText": "Πρῶτος μέρη χρόνου διώρισε καὶ καιροῦ δύναμιν ἐξέθετο. Διεῖλέ τε τὸν λόγον πρῶτος εἰς τέτταρα· εὐχωλήν, ἐρώτησιν, ἀπόκρισιν, ἐντολήν.",
+    "type": "reported",
+    "sr": "Protagora je prvi razlikovao glagolska vremena i izlagao značaj pravog trenutka.",
+    "stsl": "Протагоръ пръвъ глагольна врѣмена различи и силѫ подобьнаго часа изложи ·",
+    "originalText": "Πρῶτος μέρη χρόνου διώρισε καὶ καιροῦ δύναμιν ἐξέθετο.",
     "author": "Protagoras",
-    "year": -455,
     "sources": [
       {
         "name": "diogenes-laertius",
@@ -271,7 +239,7 @@
   },
   {
     "id": "mm-001513",
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Protagora je spis O bogovima prvi put javno pročitao u Atini, prema različitim predanjima u Euripidovoj ili Megaklidovoj kući, odnosno u Likeju preko učenika Arhagore.",
     "stsl": "Протъагоръ списание О бозѣхъ пьрвѹю всенародьно прочьте въ Атинахъ · по различьнымъ прѣданиемъ въ домѹ Еврипидовѣ или Мегаклидовѣ · или въ Ликеи гласомъ ѹченика Архагора ·",
     "originalText": "Πρῶτον δὲ τῶν λόγων ἑαυτοῦ ἀνέγνω τὸν Περὶ θεῶν, οὗ τὴν ἀρχὴν ἄνω παρεθέμεθα· ἀνέγνω δ' Ἀθήνησιν ἐν τῇ Εὐριπίδου οἰκίᾳ ἤ, ὥς τινες, ἐν τῇ Μεγακλείδου· ἄλλοι ἐν Λυκείῳ, μαθητοῦ τὴν φωνὴν αὐτῷ χρήσαντος Ἀρχαγόρου τοῦ Θεοδότου.",
@@ -301,11 +269,10 @@
   },
   {
     "id": "mm-001515",
-    "type": "anecdote",
+    "type": "mention",
     "sr": "Aristoksen i Favorin tvrdili su da se gotovo čitava Platonova Država već nalazila u Protagorinim Protivgovorima.",
     "stsl": "Аристоксенъ и Фаворинъ глаголаахѹ · ꙗко почти вьсѧ Платонова Дръжава вже въ Протъагоровыхъ Протъивословиихъ обрѣтааше сѧ ·",
     "author": "Protagoras",
-    "year": -437,
     "originalText": "Ἀριστόξενος δὲ ἐν τρίτῳ Περὶ μουσικῆς καὶ Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τὰ πλεῖστα αὐτῆς ἐν τοῖς Πρωταγόρου Ἀντιλογικοῖς φασιν εἶναι.",
     "sources": [
       {
@@ -331,7 +298,7 @@
   },
   {
     "id": "mm-001517",
-    "type": "anecdote",
+    "type": "bio",
     "sr": "Prema Filohoru, Protagora je posle progonstva plovio ka Siciliji i stradao kada je brod potonuo. Drugi su govorili da je umro na putu u dubokoj starosti.",
     "stsl": "По Филохорѹ Протъагоръ по изгнании къ Сикилии пловѧше и погибе · єгда корабль потъопе · Инии глаголаахѹ · ꙗко на пѫти въ глѹбоцѣ старости ѹмре ·",
     "author": "Protagoras",
@@ -442,6 +409,476 @@
       {
         "name": "hermann-diels",
         "reference": "80 B 11"
+      }
+    ]
+  },
+  {
+    "id": "mm-900116",
+    "type": "bio",
+    "year": -480,
+    "sr": "Filostrat pripoveda da je Protagorin otac Meandrije bio veoma bogat i ugostio Kserksa, pa je od kralja dobio dopuštenje da persijski magi poučavaju njegovog sina. Protagora je potom u Abderi slušao Demokrita.",
+    "stsl": "Филостратъ повѣдаєть · ꙗко Протагоровъ отьць Меандрии вельми богатъ бѣ и Ксеркса въ домѹ приѧтъ · отъ царѣ же полѹчи · да Персьстии волъсви сына єго поѹчѧть · Протагоръ же потомъ въ Абдерѣ Демокрита слѹша ·",
+    "originalText": "Π. δὲ ὁ Ἀβδηρίτης σοφιστὴς καὶ Δημοκρίτου μὲν ἀκροατὴς οἴκοι ἐγένετο, ὡμίλησε δὲ καὶ τοῖς ἐκ Περσῶν μάγοις κατὰ τὴν Ξέρξου ἐπὶ τὴν Ἑλλάδα ἔλασιν. πατὴρ γὰρ ἦν αὐτῷ Μαίανδρος πλούτῳ κατεσκευασμένος παρὰ πολλοὺς τῶν ἐν τῇ Θρᾴκῃ, δεξάμενος δὲ καὶ τὸν Ξέρξην οἰκίᾳ τε καὶ δώροις τὴν ξυνουσίαν τῶν μάγων τῷ παιδὶ παρʼ αὐτοῦ εὕρετο.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 2 (Philostratus, Lives of the Sophists I.10)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900117",
+    "type": "bio",
+    "year": -460,
+    "sr": "Protagora je prvi naplaćivao sto mina za poučavanje.",
+    "stsl": "Протагоръ пръвъ сто минъ мьзды за ѹчениє възимаше ·",
+    "originalText": "Οὗτος πρῶτος μισθὸν εἰσεπράξατο μνᾶς ἑκατόν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.52"
+      }
+    ]
+  },
+  {
+    "id": "mm-900118",
+    "type": "bio",
+    "year": -429,
+    "sr": "Diogen kaže da je Protagoru optužio Pitodor, Polizelov sin i jedan od Četiri stotine; Aristotel je kao tužioca navodio Euatla.",
+    "stsl": "Диогенъ глаголеть · ꙗко Протагора Пѵѳодоръ Полѵзеловъ · єдинъ отъ четꙑрьхъ сотъ · обвини · Аристотель же Еватла обвинителємъ нарицаше ·",
+    "originalText": "κατηγόρησε δʼ αὐτοῦ Πυθόδωρος Πολυζήλου, εἷς τῶν τετρακοσίων· Ἀριστοτέλης δʼ Εὔαθλόν φησιν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.54"
+      }
+    ]
+  },
+  {
+    "id": "mm-900119",
+    "type": "bio",
+    "year": -444,
+    "sr": "Prema Apolodoru, Protagora je četrdeset godina delovao kao sofist, a vrhunac mu je padao u 84. olimpijadu, između 444. i 441. godine p. n. e.",
+    "stsl": "По Аполлодорѹ Протагоръ четꙑри десѧти лѣтъ софистьствова · въ четꙑридесѧть же и четврьтѹ Олимпиꙗдѫ · междѹ четꙑри ста и четꙑридесѧть четврьтꙑимь и четꙑри ста и четꙑридесѧть пръвꙑимь лѣтомь прѣжде Христа · прослави сѧ ·",
+    "originalText": "Ἀπολλόδωρος δέ φησιν ἑβδομήκοντα, σοφιστεῦσαι δὲ τεσσαράκοντα καὶ ἀκμάζειν κατὰ τὴν τετάρτην καὶ ὀγδοηκοστὴν Ὀλυμπιάδα.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.56"
+      }
+    ]
+  },
+  {
+    "id": "mm-900120",
+    "type": "quote",
+    "sr": "Priznajem da sam sofist i da vaspitavam ljude.",
+    "stsl": "Исповѣдѹѭ · ꙗко софистъ есмь и чловѣкꙑ възпитаѭ ·",
+    "originalText": "ἐγὼ οὖν τούτων τὴν ἐναντίαν ἅπασαν ὁδὸν ἐλήλυθα, καὶ ὁμολογῶ τε σοφιστὴς εἶναι καὶ παιδεύειν ἀνθρώπους.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "317b"
+      }
+    ]
+  },
+  {
+    "id": "mm-900121",
+    "type": "quote",
+    "sr": "Ko dođe k meni učiće upravo ono radi čega je došao: dobro rasuđivanje u domaćim poslovima, da najbolje upravlja svojom kućom, i u poslovima grada, da bude što sposobniji i delati i govoriti.",
+    "stsl": "Иже къ мънѣ придеть · о томь тъкмо наѹчить сѧ · єгоже ради приде · добрѹмѹ съвѣтѹ о домашьнихъ дѣлѣхъ · да домомъ своимъ наилѹчьше ѹправлꙗєть · и о градьскꙑихъ · да наимощьнѣи дѣлати и глаголати бѫдеть ·",
+    "originalText": "παρὰ δʼ ἐμὲ ἀφικόμενος μαθήσεται οὐ περὶ ἄλλου του ἢ περὶ οὗ ἥκει. τὸ δὲ μάθημά ἐστιν εὐβουλία περὶ τῶν οἰκείων, ὅπως ἂν ἄριστα τὴν αὑτοῦ οἰκίαν διοικοῖ, καὶ περὶ τῶν τῆς πόλεως, ὅπως τὰ τῆς πόλεως δυνατώτατος ἂν εἴη καὶ πράττειν καὶ λέγειν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "318e–319a"
+      }
+    ]
+  },
+  {
+    "id": "mm-900122",
+    "type": "quote",
+    "sr": "Kada neko nauči od mene, ako želi plati koliko tražim; ako ne, ode u hram, zakune se koliko smatra da pouka vredi i toliko položi.",
+    "stsl": "Єгда кто отъ мене наѹчить сѧ · аще хощеть · єлико прошѫ сребра дасть · аще ли не хощеть · въ храмъ шедъ и клѧтвоѭ єлико ѹчениє достоино мьнить исповѣдѣвъ · толико положить ·",
+    "originalText": "ἐπειδὰν γάρ τις παρʼ ἐμοῦ μάθῃ, ἐὰν μὲν βούληται, ἀποδέδωκεν ὃ ἐγὼ πράττομαι ἀργύριον· ἐὰν δὲ μή, ἐλθὼν εἰς ἱερὸν, ὀμόσας ὅσου ἂν φῇ ἄξια εἶναι τὰ μαθήματα, τοσοῦτον κατέθηκε.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "328b–c"
+      }
+    ]
+  },
+  {
+    "id": "mm-900123",
+    "type": "bio",
+    "year": -430,
+    "sr": "Platonov Hipija pripoveda da je kao veoma mlad čovek došao na Siciliju dok je tamo boravio i uživao velik ugled mnogo stariji Protagora.",
+    "stsl": "Платѡновъ Иппиꙗ повѣдаєть · ꙗко вельми младъ въ Сікеліѭ приде · Протагорѣ же тамо прѣбꙑваѭштю · много старѣишѹ и прославленѹ ·",
+    "originalText": "ἀφικόμενος δέ ποτε εἰς Σικελίαν Πρωταγόρου αὐτόθι ἐπιδημοῦντος καὶ εὐδοκιμοῦντος καὶ πρεσβυτέρου ὄντος πολὺ νεώτερος ὢν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 9 (Plato, Hippias Major 282d–e)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900124",
+    "type": "bio",
+    "year": -423,
+    "sr": "Prema Atineju, Protagorin dolazak prikazan u Platonovom dijalogu bio je njegov drugi boravak u Atini i zbio se između 423. i 421. godine p. n. e.",
+    "stsl": "По Аѳинею · Протагоровъ приходъ въ Платѡновѣ бесѣдѣ показанъ вътороє єго въ Атинахъ прѣбꙑваниє бѣ · междѹ четꙑри ста и двадесѧть третїимь и четꙑри ста и двадесѧть пръвꙑимь лѣтомь прѣжде Христа ·",
+    "originalText": "τοῦ Πρωταγόρου παραγεγονότος τὸ δεύτερον οὐ πολλαῖς πρότερον ἡμέραις ... δῆλον οὖν ὡς μεταξὺ τούτων τῶν χρόνων παραγέγονεν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 11 (Athenaeus V.218b)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900125",
+    "type": "anecdote",
+    "year": -440,
+    "sr": "Kada je petobojac slučajno pogodio kopljem i ubio Epitima iz Farsala, Perikle je čitav dan s Protagorom raspravljao koga po najispravnijem razloženju treba smatrati krivcem: koplje, bacača ili priređivače nadmetanja.",
+    "stsl": "Пѧтоборьцѹ неволеѭ копиємь Епитима Фарсальскаго поразивъшѹ и ѹбивъшѹ · Периклъ цѣлъ дьнь съ Протагоромъ прѣпираше сѧ · кого по исправьнѣишемѹ словѹ повиньна мьнѣти подобаєть · копиє ли · метателѧ ли · или строителѩ състѧзаниꙗ ·",
+    "originalText": "πεντάθλου γάρ τινος ἀκοντίῳ πατάξαντος Ἐπίτιμον τὸν Φαρσάλιον ἀκουσίως καὶ κτείναντος, ἡμέραν ὅλην ἀναλῶσαι μετὰ Πρωταγόρου διαποροῦντα, πότερον τὸ ἀκόντιον ἢ τὸν βαλόντα μᾶλλον ἢ τοὺς ἀγωνοθέτας κατὰ τὸν ὀρθότατον λόγον αἰτίους χρὴ τοῦ πάθους ἡγεῖσθαι.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 10 (Plutarch, Pericles 36)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900126",
+    "type": "mention",
+    "sr": "Sokrat u Platonovom dijalogu kaže da je Protagora umeo i govoriti duge i lepe govore i kratko odgovarati na pitanja, kao i saslušati tuđ odgovor — što je malo ko umeo.",
+    "stsl": "Сѡкратъ въ Платѡновѣ бесѣдѣ глаголеть · ꙗко Протагоръ и дълга и красна словеса глаголати · и на въпросы кратъко отъвѣштавати · и чюжь отъвѣтъ выслѹшати вѣдѣаше · єже мало кто можаше ·",
+    "originalText": "Πρωταγόρας δὲ ὅδε ἱκανὸς μὲν μακροὺς λόγους καὶ καλοὺς εἰπεῖν, ὡς αὐτὰ δηλοῖ, ἱκανὸς δὲ καὶ ἐρωτηθεὶς ἀποκρίνασθαι κατὰ βραχὺ καὶ ἐρόμενος περιμεῖναί τε καὶ ἀποδέξασθαι τὴν ἀπόκρισιν, ἃ ὀλίγοις ἐστὶ παρεσκευασμένα.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "329b"
+      }
+    ]
+  },
+  {
+    "id": "mm-900127",
+    "type": "works",
+    "sr": "Diogen navodi sledeća sačuvana Protagorina dela: Umeće prepiranja, O rvanju, O naukama, O državnom uređenju, O častoljublju, O vrlinama, O prvobitnom stanju, O onome u Hadu, O onome što ljudi ne čine ispravno, Zapovedni govor, Parnica za nagradu i dve knjige Protivgovora.",
+    "stsl": "Диогенъ сиꙗ съхранена Протагорова писаниꙗ нарицаєть · Вѣштина прѣниꙗ · О борьбѣ · О наѹкахъ · О дрьжавьнѣмь строєнии · О чьстолюбии · О добродѣтелехъ · О пръвѣишемь строєнии · О сѫштихъ въ адѣ · О не исправьно чловѣкы дѣемыхъ · Повелитель · Прѧ о мьздѣ · и двѣ къниꙃѣ Противословии ·",
+    "originalText": "Ἔστι δὲ τὰ σωζόμενα αὐτοῦ βιβλία τάδε· Τέχνη ἐριστικῶν. Περὶ πάλης. Περὶ τῶν μαθημάτων. Περὶ πολιτείας. Περὶ φιλοτιμίας. Περὶ ἀρετῶν. Περὶ τῆς ἐν ἀρχῇ καταστάσεως. Περὶ τῶν ἐν Ἅιδου. Περὶ τῶν οὐκ ὀρθῶς τοῖς ἀνθρώποις πρασσομένων. Προστακτικός. Δίκη ὑπὲρ μισθοῦ, Ἀντιλογιῶν α′ β′.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "IX.55"
+      }
+    ]
+  },
+  {
+    "id": "mm-900128",
+    "type": "works",
+    "sr": "Protagorin spis Istina nazivao se i Obarački govori. Porfirije je čitao i njegov spis O biću, usmeren protiv onih koji su tvrdili da je biće jedno.",
+    "stsl": "Протагорово писаниє Истина и Оборительнаꙗ словеса нарицааше сѧ · Порфѵрии же и списъ єго О сѫштемь чьте · противѹ глаголѭштиимъ · ꙗко сѫштеє єдино єсть ·",
+    "originalText": "ΠΡΩΤΑΓΟΡΟΥ ἈΛΗΘΕΙΑ ἢ ΚΑΤΑΒΑΛΛΟΝΤΕΣ. Πορφυρίου bei Euseb. P. E. X 3, 25: Πρωταγόρου τὸν Περὶ τοῦ ὄντος ἀναγινώσκων λόγον πρὸς τοὺς ἓν τὸ ὂν εἰσάγοντας.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 B 1–2"
+      }
+    ]
+  },
+  {
+    "id": "mm-900129",
+    "type": "works",
+    "sr": "Aristotelova predanja pripisivala su Protagori unapred sastavljene rasprave o znamenitim pitanjima, kasnije nazvane opštim mestima.",
+    "stsl": "Аристотелева прѣданиꙗ Протагорѹ прѣжде съставлена прѣниꙗ о славьнꙑихъ вештехъ приписѹѭть · ꙗже потомъ обьшта мѣста наречена бышѧ ·",
+    "originalText": "scriptasque fuisse et paratas a Protagora rerum inlustrium disputationes, quae nunc communes appellantur loci.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 B 6 (Cicero, Brutus 12.46)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900130",
+    "type": "reported",
+    "sr": "Sekst Empirik prenosi da je za Protagoru tvar tekuća i da se čula menjaju prema uzrastu i telesnom stanju. U tvari leže osnove svega što se pojavljuje, a ljudi iz nje opažaju različito prema sopstvenom stanju.",
+    "stsl": "Секстъ Емпирикъ прѣдаєть · ꙗко по Протагорѹ тварь текѫшти єсть · чѹвьства же по възрастѹ и тѣлесьномѹ строю прѣмѣнꙗѭть сѧ · Въ твари словеса вьсѣхъ ꙗвлѧѭштихъ сѧ лежѧть · чловѣци же отъ неѩ по своемѹ строю различьно приємлѭть ·",
+    "originalText": "φησὶν οὖν ὁ ἀνὴρ τὴν ὕλην ῥευστὴν εἶναι, ῥεούσης δὲ αὐτῆς συνεχῶς προσθέσεις ἀντὶ τῶν ἀποφορήσεων γίγνεσθαι καὶ τὰς αἰσθήσεις μετακοσμεῖσθαί τε καὶ ἀλλοιοῦσθαι παρά τε ἡλικίας καὶ παρὰ τὰς ἄλλας κατασκευὰς τῶν σωμάτων. λέγει δὲ καὶ τοὺς λόγους πάντων τῶν φαινομένων ὑποκεῖσθαι ἐν τῇ ὕλῃ ... τοὺς δὲ ἀνθρώπους ἄλλοτε ἄλλων ἀντιλαμβάνεσθαι παρὰ τὰς διαφόρους αὐτῶν διαθέσεις.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 14 (Sextus Empiricus, Pyrrhonian Outlines I.216–219)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900131",
+    "type": "reported",
+    "sr": "U Platonovoj odbrani Protagorinog učenja svaki čovek jeste mera onoga što jeste i nije, ali se ljudi razlikuju: mudar je onaj koji nekome kome se zlo pojavljuje i jeste učini da mu se dobro pojavljuje i jeste.",
+    "stsl": "Въ Платѡновѣ оправдании Протагорова ѹчениꙗ къждо чловѣкъ мѣра сѫштихъ и несѫштихъ єсть · нъ чловѣкъ отъ чловѣка разньствѹєть · мѫдръ бо тъ єсть · иже комѹ зъла ꙗвлѧѭть сѧ и сѫть · прѣложивъ добра ꙗвлꙗти сѧ и бꙑти сътворить ·",
+    "originalText": "μέτρον γὰρ ἕκαστον ἡμῶν εἶναι τῶν τε ὄντων καὶ μή, μυρίον μέντοι διαφέρειν ἕτερον ἑτέρου αὐτῷ τούτῳ, ὅτι τῷ μὲν ἄλλα ἔστι τε καὶ φαίνεται, τῷ δὲ ἄλλα. καὶ σοφίαν καὶ σοφὸν ἄνδρα πολλοῦ δέω τὸ μὴ φάναι εἶναι, ἀλλʼ αὐτὸν τοῦτον καὶ λέγω σοφόν, ὃς ἄν τινι ἡμῶν, ᾧ φαίνεται καὶ ἔστι κακά, μεταβάλλων ποιήσῃ ἀγαθὰ φαίνεσθαί τε καὶ εἶναι.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-theaetetus",
+        "reference": "166d–e"
+      }
+    ]
+  },
+  {
+    "id": "mm-900132",
+    "type": "reported",
+    "sr": "Kao što ista hrana bolesnome jeste i izgleda gorka, a zdravome suprotna, tako nijedno mnenje nije istinitije, ali jedno stanje može biti bolje. Lekar ga menja lekovima, a sofist rečima.",
+    "stsl": "Ꙗкоже тоежде брашьно болѧштемѹ горько єсть и ꙗвлꙗєть сѧ · здравомѹ же противьно · тако ниєдино мьнѣниє истиньнѣишєє нѣсть · нъ єдинъ строи лѹчьши быти можеть · Врачь и лѣкꙑ прѣмѣнꙗєть · софистъ же словесꙑ ·",
+    "originalText": "τῷ μὲν ἀσθενοῦντι πικρὰ φαίνεται ἃ ἐσθίει καὶ ἔστι, τῷ δὲ ὑγιαίνοντι τἀναντία ἔστι καὶ φαίνεται ... μεταβλητέον δʼ ἐπὶ θάτερα· ἀμείνων γὰρ ἡ ἑτέρα ἕξις. οὕτω δὲ καὶ ἐν τῇ παιδείᾳ ἀπὸ ἑτέρας ἕξεως ἐπὶ τὴν ἀμείνω μεταβλητέον· ἀλλʼ ὁ μὲν ἰατρὸς φαρμάκοις μεταβάλλει, ὁ δὲ σοφιστὴς λόγοις ... ἐγὼ δὲ βελτίω μὲν τὰ ἕτερα τῶν ἑτέρων, ἀληθέστερα δὲ οὐδέν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-theaetetus",
+        "reference": "166e–167b"
+      }
+    ]
+  },
+  {
+    "id": "mm-900133",
+    "type": "reported",
+    "sr": "Što god se nekom gradu čini pravednim i krasnim, to za njega i jeste takvo dok tako misli; zadatak mudrog govornika jeste da umesto štetnih shvatanja učini da korisna budu i izgledaju pravedna.",
+    "stsl": "Єже комѹ градѹ правьдьно и красно мьнить сѧ · то ємѹ тако и єсть · доньдеже тако мьнить · дѣло же мѫдраго рѣчьника єсть · да вмѣсто неполезьнꙑихъ мьнѣнии полезьнаꙗ правьдьна ꙗвлꙗти сѧ и бꙑти сътворить ·",
+    "originalText": "τοὺς δέ γε σοφούς τε καὶ ἀγαθοὺς ῥήτορας ταῖς πόλεσι τὰ χρηστὰ ἀντὶ τῶν πονηρῶν δίκαια δοκεῖν εἶναι ποιεῖν. ἐπεὶ οἷά γʼ ἂν ἑκάστῃ πόλει δίκαια καὶ καλὰ δοκῇ, ταῦτα καὶ εἶναι αὐτῇ, ἕως ἂν αὐτὰ νομίζῃ.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-theaetetus",
+        "reference": "167c"
+      }
+    ]
+  },
+  {
+    "id": "mm-900134",
+    "type": "quote",
+    "sr": "Mnogo toga je ljudima nekorisno, a drugima korisno; nešto nije korisno ljudima, ali jeste konjima, volovima, psima ili drveću. Dobro je tako raznoliko i mnogovrsno.",
+    "stsl": "Многа чловѣкомъ неполезьна сѫть · инѣмъ же полезьна · нѣкаꙗ чловѣкомъ не полезьна · конємъ же · воломъ · псомъ или дрѣвомъ полезьна сѫть · Доброє ѹбо различьно и многообразьно єсть ·",
+    "originalText": "πολλὰ οἶδʼ ἃ ἀνθρώποις μὲν ἀνωφελῆ ἐστι, καὶ σιτία καὶ ποτὰ καὶ φάρμακα καὶ ἄλλα μυρία, τὰ δέ γε ὠφέλιμα· τὰ δὲ ἀνθρώποις μὲν οὐδέτερα, ἵπποις δέ· τὰ δὲ βουσὶν μόνον, τὰ δὲ κυσίν· τὰ δέ γε τούτων μὲν οὐδενί, δένδροις δέ ... οὕτω δὲ ποικίλον τί ἐστιν τὸ ἀγαθὸν καὶ παντοδαπόν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "334a–c"
+      }
+    ]
+  },
+  {
+    "id": "mm-900135",
+    "type": "reported",
+    "sr": "Aristotel je Protagorino obećanje opisao kao umeće da se slabiji govor učini jačim; predanje mu pripisuje i poučavanje učenika da istu stvar i kude i hvale.",
+    "stsl": "Аристотель Протагорово обѣштаніє вѣштиноѭ нарече · слабѣишєє слово крѣплѥ сътворити · Прѣданиє же ємѹ и поѹчениє ѹченикъ приписѹєть · да тѹжде вешь и хѹлѧть и хвалѧть ·",
+    "originalText": "καὶ τὸ τὸν ἥττω δὲ λόγον κρείττω ποιεῖν τοῦτʼ ἐστίν ... τὸ Πρωταγόρου ἐπάγγελμα ... Εὔδοξος ἱστορεῖ τὸν ἥσσω καὶ κρείσσω λόγον πεποιηκέναι καὶ τοὺς μαθητὰς δεδιδαχέναι τὸν αὐτὸν ψέγειν καὶ ἐπαινεῖν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 21 (Aristotle, Rhetoric II.24)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900136",
+    "type": "reported",
+    "sr": "Protagora je imenice delio na tri roda: muški, ženski i neživi.",
+    "stsl": "Протагоръ имена въ три роды раздѣлꙗаше · мѫжьскъ · женьскъ и бездѹшьнъ ·",
+    "originalText": "ὡς Πρωταγόρας τὰ γένη τῶν ὀνομάτων διῄρει, ἄρρενα καὶ θήλεα καὶ σκεύη.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 27 (Aristotle, Rhetoric III.5)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900137",
+    "type": "reported",
+    "sr": "Protagora je zamerao Homeru što je, nameravajući da se moli, zapovedio: „Gnev mi, boginjo, pevaj“, jer je nalog da se nešto učini ili ne učini zapovest.",
+    "stsl": "Протагоръ Хомерѹ ѹкарааше · ꙗко молити сѧ хотѧ повелѣ · Гнѣвъ ми · богꙑни · пои · єже бо что сътворити или не сътворити повелѣти · повелѣніє єсть ·",
+    "originalText": "τί γὰρ ἄν τις ὑπολάβοι ἡμαρτῆσθαι ὃ Πρωταγόρας ἐπιτιμᾷ, ὅτι εὔχεσθαι οἰόμενος ἐπιτάττει εἰπών ‘μῆνιν ἄειδε θεά’; τὸ γὰρ κελεῦσαι, φησί, ποιεῖν τι ἢ μὴ ἐπίταξίς ἐστιν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 29 (Aristotle, Poetics 19)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900138",
+    "type": "quote",
+    "sr": "Najveći deo obrazovanja jeste biti vešt u pesništvu: umeti razumeti šta su pesnici dobro sastavili, a šta nisu, razlikovati to i na pitanje dati obrazloženje.",
+    "stsl": "Наивѧшти чѧсть възпитаниꙗ єсть въ пѣснотворьствѣ вѣштѹ бꙑти · єже пѣсньници добрѣ съставишѧ и єже не добрѣ разѹмѣти · различити и на въпросъ слово дати ·",
+    "originalText": "ἐγὼ ἀνδρὶ παιδείας μέγιστον μέρος εἶναι περὶ ἐπῶν δεινὸν εἶναι· ἔστιν δὲ τοῦτο τὰ ὑπὸ τῶν ποιητῶν λεγόμενα οἷόν τʼ εἶναι συνιέναι ἅ τε ὀρθῶς πεποίηται καὶ ἃ μή, καὶ ἐπίστασθαι διελεῖν τε καὶ ἐρωτώμενον λόγον δοῦναι.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "339a"
+      }
+    ]
+  },
+  {
+    "id": "mm-900139",
+    "type": "quote",
+    "sr": "Vrlina je jedno, ali pravda, umerenost, pobožnost i ostale vrline jesu njeni različiti delovi, kao što su usta, nos, oči i uši delovi lica. Zato mnogi mogu biti hrabri a nepravedni, ili pravedni a nemudri.",
+    "stsl": "Добродѣтель єдина єсть · правда же · ѹмѣреніє · благочьстиє и прочаꙗ различьнꙑѧ чѧсти єѩ сѫть · ꙗкоже ѹста · носъ · очи и ѹши чѧсти лица · Тѣмь мноꙁи храбри и неправьдьни · или правьдьни и немѫдри бꙑти могѫть ·",
+    "originalText": "ἑνὸς ὄντος τῆς ἀρετῆς μόριά ἐστιν ἃ ἐρωτᾷς ... ὥσπερ τὰ τοῦ προσώπου μόρια ἔχει πρὸς τὸ ὅλον πρόσωπον ... πολλοὶ ἀνδρεῖοί εἰσιν, ἄδικοι δέ, καὶ δίκαιοι αὖ, σοφοὶ δὲ οὔ.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "329d–e"
+      }
+    ]
+  },
+  {
+    "id": "mm-900140",
+    "type": "reported",
+    "sr": "U mitu koji mu Platon pripisuje, Epimetej je sve sposobnosti razdelio životinjama i čoveka ostavio nagog, bosog, bez postelje i oružja. Prometej zato ukrade Hefestovu i Ateninu stvaralačku mudrost zajedno s vatrom i darova ih ljudima.",
+    "stsl": "Въ басни · ѭже Платѡнъ ємѹ приписѹєть · Епиметѳеи вьсѧ мощи животънꙑимъ раздѣли · чловѣка же нага · боса · безъ постелѩ и орѫжиꙗ остави · Прометѳеи же того ради Хефестовѫ и Аѳининѫ дѣлотворьнѫ мѫдрость съ огнемь ѹкраде и чловѣкомъ дарова ·",
+    "originalText": "ὁρᾷ τὰ μὲν ἄλλα ζῷα ἐμμελῶς πάντων ἔχοντα, τὸν δὲ ἄνθρωπον γυμνόν τε καὶ ἀνυπόδητον καὶ ἄστρωτον καὶ ἄοπλον ... κλέπτει Ἡφαίστου καὶ Ἀθηνᾶς τὴν ἔντεχνον σοφίαν σὺν πυρί ... καὶ οὕτω δὴ δωρεῖται ἀνθρώπῳ.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "321c–322a"
+      }
+    ]
+  },
+  {
+    "id": "mm-900141",
+    "type": "reported",
+    "sr": "Deleći božanski udeo, čovek jedini među životinjama prizna bogove i podiže im žrtvenike i likove; zatim je umećem razvio glas i imena i pronašao kuće, odeću, obuću, postelje i hranu iz zemlje.",
+    "stsl": "Божьствьнꙑѧ чѧсти причѧстивъ сѧ · чловѣкъ єдинъ междѹ животънꙑими богꙑ исповѣда и олтари и образы имъ сътвори · потомъ же вѣштиноѭ гласъ и имена изложи · домы · ризы · обѹштѫ · постелѩ и пищѫ отъ землѩ обрѣте ·",
+    "originalText": "ἐπειδὴ δὲ ὁ ἄνθρωπος θείας μετέσχε μοίρας, πρῶτον μὲν διὰ τὴν τοῦ θεοῦ συγγένειαν ζῴων μόνον θεοὺς ἐνόμισεν, καὶ ἐπεχείρει βωμούς τε ἱδρύεσθαι καὶ ἀγάλματα θεῶν· ἔπειτα φωνὴν καὶ ὀνόματα ταχὺ διηρθρώσατο τῇ τέχνῃ, καὶ οἰκήσεις καὶ ἐσθῆτας καὶ ὑποδέσεις καὶ στρωμνὰς καὶ τὰς ἐκ γῆς τροφὰς ηὕρετο.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "322a–b"
+      }
+    ]
+  },
+  {
+    "id": "mm-900142",
+    "type": "reported",
+    "sr": "Ljudi su bez političke veštine pokušavali da osnivaju gradove, ali su jedni drugima činili nepravdu i ponovo se rasipali. Da ljudski rod ne propadne, Zevs posla stid i pravdu svima, jer gradovi ne bi opstali kada bi ih, kao druge veštine, posedovali samo malobrojni.",
+    "stsl": "Чловѣци · гражданьскыѩ вѣштины не имѫште · градꙑ съзидати покѹшаахѫ сѧ · нъ дрѹгъ дрѹгѹ неправьдѫ творꙗахѫ и пакꙑ расѣваахѫ сѧ · Да родъ чловѣчь не погибнеть · Дии стꙑдъ и правьдѫ вьсѣмъ посъла · градꙑ бо не бꙑшѧ · аште би ѧ · ꙗкоже инꙑ вѣштины · тъкмо мало имѣли ·",
+    "originalText": "ὅτʼ οὖν ἁθροισθεῖεν, ἠδίκουν ἀλλήλους ἅτε οὐκ ἔχοντες τὴν πολιτικὴν τέχνην, ὥστε πάλιν σκεδαννύμενοι διεφθείροντο. Ζεὺς οὖν δείσας περὶ τῷ γένει ἡμῶν μὴ ἀπόλοιτο πᾶν, Ἑρμῆν πέμπει ἄγοντα εἰς ἀνθρώπους αἰδῶ τε καὶ δίκην ... ἐπὶ πάντας, ἔφη ὁ Ζεύς, καὶ πάντες μετεχόντων· οὐ γὰρ ἂν γένοιντο πόλεις, εἰ ὀλίγοι αὐτῶν μετέχοιεν ὥσπερ ἄλλων τεχνῶν.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "322b–d"
+      }
+    ]
+  },
+  {
+    "id": "mm-900143",
+    "type": "quote",
+    "sr": "Ko razumno kažnjava ne kažnjava radi prošle nepravde — jer učinjeno ne može učiniti neučinjenim — nego radi budućnosti: da ponovo ne učini nepravdu ni kažnjeni ni drugi koji ga vidi kažnjenog. Zato kazna odvraća i pokazuje da se vrlina može vaspitati.",
+    "stsl": "Иже съ разумомь наказѹєть · не минѫвъшаго безправиꙗ ради наказѹєть · сьдѣланоє бо несьдѣлано сътворити не можеть · нъ бѫдѫштаго ради · да ни наказанꙑи ни инъ · иже и наказана видить · пакꙑ безправиꙗ не сътворить · Наказаніє ѹбо отъвраштати и добродѣтель възпитати могѫшта показѹєть ·",
+    "originalText": "ὁ δὲ μετὰ λόγου ἐπιχειρῶν κολάζειν οὐ τοῦ παρεληλυθότος ἕνεκα ἀδικήματος τιμωρεῖται—οὐ γὰρ ἂν τό γε πραχθὲν ἀγένητον θείη—ἀλλὰ τοῦ μέλλοντος χάριν, ἵνα μὴ αὖθις ἀδικήσῃ μήτε αὐτὸς οὗτος μήτε ἄλλος ὁ τοῦτον ἰδὼν κολασθέντα ... παιδευτὴν εἶναι ἀρετήν· ἀποτροπῆς γοῦν ἕνεκα κολάζει.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "324b–c"
+      }
+    ]
+  },
+  {
+    "id": "mm-900144",
+    "type": "reported",
+    "sr": "Vaspitanje vrline počinje čim dete razume govor: dadilja, majka, vaspitač i otac pokazuju mu pravedno i nepravedno, lepo i ružno, pobožno i bezbožno. Učitelji ga zatim oblikuju pesništvom, muzikom i vežbanjem tela, a grad zakonima koji su uzor građanskog života.",
+    "stsl": "Възпитаніє добродѣтели начинаєть сѧ · єгда дѣтѧ слово разумѣти начьнеть · кормилица · мати · наставьникъ и отьць правьдьно и неправьдьно · красно и срамьно · благочьстиво и нечьстиво ємѹ показѹѭть · Ѹчителє же потомъ пѣсньми · сложеніємь гласовъ и тѣлесьнꙑимь ѹпражненіємь є образѹѭть · градъ пакꙑ законꙑ · ꙗже образъ гражданьскаго живота сѫть ·",
+    "originalText": "ἐκ παίδων σμικρῶν ἀρξάμενοι, μέχρι οὗπερ ἂν ζῶσι, καὶ διδάσκουσι καὶ νουθετοῦσιν ... τροφὸς καὶ μήτηρ καὶ παιδαγωγὸς καὶ αὐτὸς ὁ πατὴρ ... διδάσκοντες καὶ ἐνδεικνύμενοι ὅτι τὸ μὲν δίκαιον, τὸ δὲ ἄδικον, καὶ τόδε μὲν καλόν, τόδε δὲ αἰσχρόν, καὶ τόδε μὲν ὅσιον, τόδε δὲ ἀνόσιον ... οἱ δὲ διδάσκαλοι ... ποιητῶν ἀγαθῶν ποιήματα ... οἵ τʼ αὖ κιθαρισταί ... εἰς παιδοτρίβου πέμπουσιν ... ἡ πόλις αὖ τούς τε νόμους ἀναγκάζει μανθάνειν καὶ κατὰ τούτους ζῆν κατὰ παράδειγμα.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "325c–326e"
+      }
+    ]
+  },
+  {
+    "id": "mm-900145",
+    "type": "quote",
+    "sr": "Svi su učitelji vrline koliko ko može; zato ti se nijedan poseban učitelj ne pokazuje.",
+    "stsl": "Вьси ѹчителє добродѣтели сѫть · єлико къждо можеть · тѣмь ниєдинъ особьнъ ѹчитель тебѣ не ꙗвлꙗєть сѧ ·",
+    "originalText": "πάντες διδάσκαλοί εἰσιν ἀρετῆς καθʼ ὅσον δύνανται ἕκαστος, καὶ οὐδείς σοι φαίνεται.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "327a–c"
+      }
+    ]
+  },
+  {
+    "id": "mm-900146",
+    "type": "reported",
+    "sr": "Protagora je govorio: Napor, rad, pouka, vaspitanje i mudrost jesu venac slave, spleten od cvetova rečitog jezika i položen na glavu onih koji ih ljube. Jezik je težak, ali su njegovi cvetovi obilni i uvek novi.",
+    "stsl": "Подвигъ · трѹдъ · ѹчениє · възпитаніє и мѫдрость вѣньць славы сѫть · отъ цвѣтъ краснорѣчиваго ꙗзꙑка сплетенъ и на главѫ любѧштихъ ѧ положенъ · Тѧжькъ ꙗзꙑкъ · нъ цвѣти єго обильни и присно нови сѫть ·",
+    "originalText": "Protagoras hat gesagt: Mühsal und Arbeit und Unterricht und Erziehung und Weisheit sind der Ruhmeskranz, der geflochten wird von den Blumen einer beredten Zunge und denen aufs Haupt gesetzt wird, die ihn lieben. Schwer zwar ist die Zunge, doch ihre Blüten sind reich und immer neu.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 B 12 (poorly attested Graeco-Syriac saying)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900147",
+    "type": "bio",
+    "year": -425,
+    "sr": "Hesihijevo i Sudino predanje navodi govornika Isokrata i Prodika sa Keja kao Protagorine učenike; zbog visoke školarine zvali su ga i „Plaćeni govor“.",
+    "stsl": "Исихиево и Сѹдино прѣданиє Исократа рѣчьника и Продика Кєосскаго Протагоровꙑима ѹченикома нарицаєть · великꙑѩ же мьзды ради Платъноє слово и прозваша ·",
+    "originalText": "πρῶτος τε οὗτος τοὺς ἐριστικοὺς λόγους εὗρε καὶ ἀγῶνα λόγων ἐποιήσατο καὶ μισθὸν ἔπραξε τοὺς μαθητὰς μνᾶς ρ΄· διὸ καὶ ἐπεκλήθη Λόγος ἔμμισθος. διδάσκαλος δὲ γέγονε καὶ τοῦ ῥήτορος Ἰσοκράτους ... τούτου μαθητὴς Ἰσοκράτης ὁ ῥήτωρ καὶ Πρόδικος ὁ Κεῖος.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "80 A 3 (Hesychius/Suda)"
+      }
+    ]
+  },
+  {
+    "id": "mm-900148",
+    "type": "quote",
+    "sr": "Mladiću, ako budeš sa mnom, istoga dana otići ćeš kući bolji, sutradan opet, i svakoga dana napredovaćeš ka boljem.",
+    "stsl": "Юноше · аще съ мъноѭ бѫдеши · того же дьне лѹчьшии въ домъ отидеши · и на ѹтріи пакꙑ · и по вьсѧ дьни къ лѹчьшемѹ прѣспѣвати бѫдеши ·",
+    "originalText": "ὦ νεανίσκε, ἔσται σοι, ἐὰν ἐμοὶ συνῇς, ᾗ ἂν ἡμέρᾳ ἐμοὶ συγγένῃ, ἀπιέναι οἴκαδε βελτίονι γεγονότι, καὶ ἐν τῇ ὑστεραίᾳ ταὐτὰ ταῦτα· καὶ ἑκάστης ἡμέρας ἀεὶ ἐπὶ τὸ βέλτιον ἐπιδιδόναι.",
+    "author": "Protagoras",
+    "sources": [
+      {
+        "name": "plato-protagoras",
+        "reference": "318a"
       }
     ]
   }
