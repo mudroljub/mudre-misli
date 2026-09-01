@@ -425,5 +425,12 @@
     "died": 210,
     "originalText": "Σέξτος Ἐμπειρικός",
     "birthplace": "unknown"
+  },
+  "MarcusAurelius": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": 121,
+    "died": 180,
+    "originalText": "Μάρκος Αὐρήλιος",
+    "birthplace": "Rome"
   }
 }

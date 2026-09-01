@@ -1,7 +1,5 @@
 # TODO
 
-- dodati Plotinove citate gde pominje jedno.
-
 ## Širiti korpus celih dela
 
 Najprirodniji sledeći paketi:

@@ -151,6 +151,13 @@ export const authorGroups: AuthorGroup[] = [
     titleKey: 'lateAntiquity',
     title: 'Late Antiquity',
     period: '2-3. vek',
-    authors: ['Plotinus', 'Iamblichus']
+    authors: ['Plotinus', 'Iamblichus'],
+    subgroups: [
+      {
+        titleKey: 'romanStoics',
+        title: 'Roman Stoics',
+        authors: ['MarcusAurelius']
+      }
+    ]
   }
 ];
