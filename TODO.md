@@ -2,6 +2,7 @@
 
 - popraviti sr prevod - Platon — Protagora (u works)
    - nisu navedena lica u dijalogu ne zna se ko govori
+- Jamblihos nema mapu
 
 ## Širiti korpus celih dela
 
@@ -15,5 +16,6 @@
 ## Terminologija i UI
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
-   - sastojak
    - zname
+   - zevs, nebo
+   - demon
