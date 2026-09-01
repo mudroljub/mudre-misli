@@ -48,7 +48,7 @@
     "originalText": "Δημόκριτος",
     "birthplace": "Abdera"
   },
-  "Eudoxus": {
+  "Eudoxus of Cnidus": {
     "src": "/images/authors/unknown-author.svg",
     "born": -408,
     "died": -355,
@@ -209,7 +209,7 @@
     "originalText": "Ἡράκλειτος",
     "birthplace": "Ephesus"
   },
-  "Thales": {
+  "Thales of Miletus": {
     "src": "/images/authors/Thales.jpg",
     "born": -624,
     "died": -546,
@@ -223,7 +223,7 @@
     "originalText": "Ἀναξίμανδρος",
     "birthplace": "Miletus"
   },
-  "Anaximenes": {
+  "Anaximenes of Miletus": {
     "src": "/images/authors/Anaximenes.jpg",
     "born": -585,
     "died": -525,
@@ -328,7 +328,7 @@
     "originalText": "Ἀνάχαρσις",
     "birthplace": "Scythia"
   },
-  "Pittacus": {
+  "Pittacus of Mytilene": {
     "src": "/images/authors/Pittacus.jpg",
     "born": -650,
     "died": -570,
@@ -377,7 +377,7 @@
     "originalText": "Ἐπίκτητος",
     "birthplace": "Hierapolis"
   },
-  "Seneca": {
+  "Seneca the Younger": {
     "src": "/images/authors/Seneca.jpg",
     "born": -4,
     "died": 65,
@@ -391,7 +391,7 @@
     "originalText": "Marcus Tullius Cicero",
     "birthplace": "Arpinum"
   },
-  "Musonius Rufus": {
+  "Gaius Musonius Rufus": {
     "src": "/images/authors/unknown-author.svg",
     "born": 30,
     "died": 101,
@@ -433,14 +433,14 @@
     "originalText": "Φίλων ὁ Ἀλεξανδρεύς",
     "birthplace": "Alexandria"
   },
-  "SextusEmpiricus": {
+  "Sextus Empiricus": {
     "src": "/images/authors/unknown-author.svg",
     "born": 160,
     "died": 210,
     "originalText": "Σέξτος Ἐμπειρικός",
     "birthplace": "unknown"
   },
-  "MarcusAurelius": {
+  "Marcus Aurelius": {
     "src": "/images/authors/unknown-author.svg",
     "born": 121,
     "died": 180,

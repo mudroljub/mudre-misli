@@ -123,7 +123,7 @@ export interface Translations {
     Hippias: string;
     Leucippus: string;
     Democritus: string;
-    Eudoxus: string;
+    'Eudoxus of Cnidus': string;
     Aristotle: string;
     Theophrastus: string;
     Socrates: string;
@@ -143,9 +143,9 @@ export interface Translations {
     'Zeno of Elea': string;
     Empedocles: string;
     Heraclitus: string;
-    Thales: string;
+    'Thales of Miletus': string;
     Anaximander: string;
-    Anaximenes: string;
+    'Anaximenes of Miletus': string;
     Monimus: string;
     'Crates of Thebes': string;
     Metrocles: string;
@@ -160,7 +160,7 @@ export interface Translations {
     'Timon of Phlius': string;
     Epicurus: string;
     Anacharsis: string;
-    Pittacus: string;
+    'Pittacus of Mytilene': string;
     Solon: string;
     'Chilon of Sparta': string;
     Epimenides: string;
@@ -169,14 +169,14 @@ export interface Translations {
     Cleobulus: string;
     Cleobulina: string;
     Epictetus: string;
-    Seneca: string;
+    'Seneca the Younger': string;
     Cicero: string;
-    'Musonius Rufus': string;
+    'Gaius Musonius Rufus': string;
     Lucretius: string;
     Philolaus: string;
     'Melissus of Samos': string;
     Iamblichus: string;
-    MarcusAurelius: string;
+    'Marcus Aurelius': string;
   };
 }
 
@@ -304,7 +304,7 @@ export const translations: Record<Language, Translations> = {
       Hippias: 'Хіппїꙗ',
       Leucippus: 'Леѹкипъ',
       Democritus: 'Дємокрітъ',
-      Eudoxus: 'Еѹдоѯъ',
+      'Eudoxus of Cnidus': 'Еѹдоѯъ',
       Aristotle: 'Арістотєль',
       Theophrastus: 'Тєѡфрастъ',
       Socrates: 'Сѡкратъ',
@@ -324,9 +324,9 @@ export const translations: Record<Language, Translations> = {
       'Zeno of Elea': 'Зєнонъ отъ Єлеи',
       Empedocles: 'Емпєдоклъ',
       Heraclitus: 'Хєраклитъ',
-      Thales: 'Ѳалєсъ',
+      'Thales of Miletus': 'Ѳалєсъ',
       Anaximander: 'Анаѯимандръ',
-      Anaximenes: 'Анаѯименъ',
+      'Anaximenes of Miletus': 'Анаѯименъ',
       Monimus: 'Мѡнімѡсъ',
       'Crates of Thebes': 'Кратєтъ отъ Тєвъ',
       Metrocles: 'Мєтроклъ',
@@ -341,7 +341,7 @@ export const translations: Record<Language, Translations> = {
       'Timon of Phlius': 'Тімонъ отъ Флїѹнта',
       Epicurus: 'Епікѹръ',
       Anacharsis: 'Анахарсісъ',
-      Pittacus: 'Піттакъ',
+      'Pittacus of Mytilene': 'Піттакъ',
       Solon: 'Солонъ',
       'Chilon of Sparta': 'Хїлонъ',
       Epimenides: 'Епімєнідъ',
@@ -350,11 +350,11 @@ export const translations: Record<Language, Translations> = {
       Cleobulus: 'Клєовѹлъ',
       Cleobulina: 'Клєовѹліна',
       Epictetus: 'Епиктетъ',
-      Seneca: 'Сенека',
+      'Seneca the Younger': 'Сенека',
       Cicero: 'Цицеронъ',
-      'Musonius Rufus': 'Мѹсонии Рѹфъ',
+      'Gaius Musonius Rufus': 'Мѹсонии Рѹфъ',
       Lucretius: 'Лѹкреции',
-      MarcusAurelius: 'Маркъ Аврилии',
+      'Marcus Aurelius': 'Маркъ Аврилии',
       Philolaus: 'Филолаи',
       'Melissus of Samos': 'Мєлисъ',
       Iamblichus: 'Їамблихъ',
@@ -483,7 +483,7 @@ export const translations: Record<Language, Translations> = {
       Hippias: 'Hipija',
       Leucippus: 'Leukip',
       Democritus: 'Demokrit',
-      Eudoxus: 'Eudoks',
+      'Eudoxus of Cnidus': 'Eudoks',
       Aristotle: 'Aristotel',
       Theophrastus: 'Teofrast',
       Socrates: 'Sokrat',
@@ -503,9 +503,9 @@ export const translations: Record<Language, Translations> = {
       'Zeno of Elea': 'Zenon iz Eleje',
       Empedocles: 'Empedoklo',
       Heraclitus: 'Heraklit',
-      Thales: 'Tales',
+      'Thales of Miletus': 'Tales',
       Anaximander: 'Anaksimander',
-      Anaximenes: 'Anaksimen',
+      'Anaximenes of Miletus': 'Anaksimen',
       Monimus: 'Monimos',
       'Crates of Thebes': 'Kratet iz Tebe',
       Metrocles: 'Metrokle',
@@ -520,7 +520,7 @@ export const translations: Record<Language, Translations> = {
       'Timon of Phlius': 'Timon iz Flija',
       Epicurus: 'Epikur',
       Anacharsis: 'Anaharsis',
-      Pittacus: 'Pitak',
+      'Pittacus of Mytilene': 'Pitak',
       Solon: 'Solon',
       'Chilon of Sparta': 'Hilon',
       Epimenides: 'Epimenid',
@@ -529,11 +529,11 @@ export const translations: Record<Language, Translations> = {
       Cleobulus: 'Kleobul',
       Cleobulina: 'Kleobulina',
       Epictetus: 'Epiktet',
-      Seneca: 'Seneka',
+      'Seneca the Younger': 'Seneka',
       Cicero: 'Ciceron',
-      'Musonius Rufus': 'Musonije Ruf',
+      'Gaius Musonius Rufus': 'Musonije Ruf',
       Lucretius: 'Lukrecije',
-      MarcusAurelius: 'Marko Aurelije',
+      'Marcus Aurelius': 'Marko Aurelije',
       Philolaus: 'Filolaj',
       'Melissus of Samos': 'Melis',
       Iamblichus: 'Jamblihos',

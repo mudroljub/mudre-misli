@@ -132,7 +132,7 @@ const createPorphyryVitaPythagoraeResolver = () =>
   }
 
 const hermannDielsAuthorFiles = {
-  Anaximenes: '03-Anaximenes.txt',
+  'Anaximenes of Miletus': '03-Anaximenes.txt',
   Xenophanes: '11-Xenophanes.txt',
   Heraclitus: '12-Heraclitus.txt',
   Parmenides: '18-Parmenides.txt',

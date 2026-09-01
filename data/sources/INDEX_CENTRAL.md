@@ -22,7 +22,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | [Anaksagora](http://localhost:3000/sr/authors/anaxagoras) | [Burley](walter-burley/chapters-generated/018_anaksagora.md) — XVIII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/46-Anaxagoras.txt) — Diels 46, A. Leben und Lehre<br>[Jovan Velški](john-of-wales/hocr/page-0466.hocr.html) — III.1.2<br>[Suda](suda/lives/1_A_1981.md) — 1.A.1981 | 0<br>29<br>31<br>0<br>0 |
 | [Anaksarh](http://localhost:3000/sr/authors/anaxarchus) | [Burley](walter-burley/chapters-generated/067_anaksarh.md) — LXVII<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 0<br>7 |
 | [Anaksimander](http://localhost:3000/sr/authors/anaximander) | [Burley](walter-burley/chapters-generated/009_anaksimandar.md) — IX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Suda](suda/lives/1_A_1986.md) — 1.A.1986 | 0<br>13<br>1 |
-| [Anaksimen](http://localhost:3000/sr/authors/anaximenes) | [Burley](walter-burley/chapters-generated/016_anaksimen-iz-mileta.md) — XVI<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/03-Anaximenes.txt) — Diels 3, A. Leben und Lehre<br>[Suda](suda/lives/1_A_1988.md) — 1.A.1988 | 1<br>9<br>30<br>0 |
+| [Anaksimen](http://localhost:3000/sr/authors/anaximenes-of-miletus) | [Burley](walter-burley/chapters-generated/016_anaksimen-iz-mileta.md) — XVI<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/03-Anaximenes.txt) — Diels 3, A. Leben und Lehre<br>[Suda](suda/lives/1_A_1988.md) — 1.A.1988 | 1<br>9<br>30<br>0 |
 | Anaksimen iz Lampsaka | [Burley](walter-burley/chapters-generated/063_anaksimen-iz-lampsaka.md) — LXIII | 0 |
 | Antifont iz Ramnunta | [Filostrat](INDEX_FILOSTRAT.md) — 1.15 | 0 |
 | Antioh | [Filostrat](INDEX_FILOSTRAT.md) — 2.4 | 0 |
@@ -83,7 +83,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | Eshil | [Burley](walter-burley/chapters-generated/056_eshil.md) — LVI | 0 |
 | Eshin govornik | [Filostrat](INDEX_FILOSTRAT.md) — 1.18 | 0 |
 | Eshin Sokratovac | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
-| [Eudoks](http://localhost:3000/sr/authors/eudoxus) | [Burley](walter-burley/chapters-generated/042_eudoks.md) — XLII<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 0<br>17 |
+| [Eudoks](http://localhost:3000/sr/authors/eudoxus-of-cnidus) | [Burley](walter-burley/chapters-generated/042_eudoks.md) — XLII<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 0<br>17 |
 | Eudoks iz Knida | [Filostrat](INDEX_FILOSTRAT.md) — 1.1 | 0 |
 | [Euklid Megaranin](http://localhost:3000/sr/authors/euclid-of-megara) | [Diogen Laertije](INDEX_LEARTIJE.md) | 11 |
 | Euripid | [Burley](walter-burley/chapters-generated/036_euripid.md) — XXXVI<br>[Burley](walter-burley/chapters-generated/046_euripid-ponovljen-u-registru.md) — XLVI | 0<br>0 |
@@ -175,7 +175,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | Magn | [Eunapije](eunapius/vitae-sophistarum.en.html#MAGNUS) — #MAGNUS | 0 |
 | Maksim | [Eunapije](eunapius/vitae-sophistarum.en.html#MAXIMUS) — #MAXIMUS | 0 |
 | Marko | [Burley](walter-burley/chapters-generated/091_marko.md) — XCI | 0 |
-| [Marko Aurelije](http://localhost:3000/sr/authors/marcusaurelius) | [Grčki korpus](canonical-greekLit/data/tlg0562) — tlg0562; 1 delo | 0 |
+| [Marko Aurelije](http://localhost:3000/sr/authors/marcus-aurelius) | [Grčki korpus](canonical-greekLit/data/tlg0562) — tlg0562; 1 delo | 0 |
 | Marko iz Vizantiona | [Filostrat](INDEX_FILOSTRAT.md) — 1.24 | 0 |
 | Marko Nerije | [Burley](walter-burley/chapters-generated/112_marko-nerije.md) — CXII | 0 |
 | [Melis](http://localhost:3000/sr/authors/melissus-of-samos) | [Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/20-Melissus.txt) — Diels 20, A. Leben und Lehre | 3<br>4 |
@@ -185,7 +185,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | [Metrokle](http://localhost:3000/sr/authors/metrocles) | [Diogen Laertije](INDEX_LEARTIJE.md) | 9 |
 | Mizon | [Burley](walter-burley/chapters-generated/011_misosternon-mizon.md) — XI<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 0<br>0 |
 | [Monimos](http://localhost:3000/sr/authors/monimus) | [Diogen Laertije](INDEX_LEARTIJE.md) | 7 |
-| [Musonije Ruf](http://localhost:3000/sr/authors/musonius-rufus) | [Suda](suda/lives/3_Μ_1305.md) — 3.Μ.1305 | 0 |
+| [Musonije Ruf](http://localhost:3000/sr/authors/gaius-musonius-rufus) | [Suda](suda/lives/3_Μ_1305.md) — 3.Μ.1305 | 0 |
 | Niket iz Smirne | [Filostrat](INDEX_FILOSTRAT.md) — 1.19 | 0 |
 | Nimfidijan | [Eunapije](eunapius/vitae-sophistarum.en.html#NYMPHIDIANUS) — #NYMPHIDIANUS | 0 |
 | Onesikarit | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
@@ -201,7 +201,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | Perikle | [Burley](walter-burley/chapters-generated/039_perikle.md) — XXXIX | 0 |
 | [Piron](http://localhost:3000/sr/authors/pyrrho) | [Diogen Laertije](INDEX_LEARTIJE.md) | 17 |
 | [Pitagora](http://localhost:3000/sr/authors/pythagoras) | [Burley](walter-burley/chapters-generated/017_pitagora.md) — XVII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Jovan Velški](john-of-wales/hocr/page-0468.hocr.html) — III.6<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Pitagora<br>[Suda](suda/lives/4_Π_3120.md) — 4.Π.3120 | 12<br>138<br>0<br>0<br>0 |
-| [Pitak](http://localhost:3000/sr/authors/pittacus) | [Burley](walter-burley/chapters-generated/004_pitak.md) — IV<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 1<br>26 |
+| [Pitak](http://localhost:3000/sr/authors/pittacus-of-mytilene) | [Burley](walter-burley/chapters-generated/004_pitak.md) — IV<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 1<br>26 |
 | [Platon](http://localhost:3000/sr/authors/plato) | [Burley](walter-burley/chapters-generated/052_platon.md) — LII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Grčki korpus](canonical-greekLit/data/tlg0059) — tlg0059; 36 dela<br>[Jovan Velški](john-of-wales/hocr/page-0467.hocr.html) — III.4<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Platon<br>[Suda](suda/lives/4_Π_1709.md) — 4.Π.1709 | 0<br>61<br>0<br>0<br>0<br>0 |
 | Plaut | [Burley](walter-burley/chapters-generated/103_plaut.md) — CIII | 0 |
 | Plinije | [Burley](walter-burley/chapters-generated/120_plinije.md) — CXX | 0 |
@@ -220,7 +220,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | [Prodik](http://localhost:3000/sr/authors/prodicus) | [Diels](hermann-diels/band1.txt) — 77 A–B<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.12 | 3<br>4 |
 | Proeresije | [Eunapije](eunapius/vitae-sophistarum.en.html#PROHAERESIUS) — #PROHAERESIUS | 0 |
 | Proklo iz Naukratisa | [Filostrat](INDEX_FILOSTRAT.md) — 2.21 | 0 |
-| [Protagora](http://localhost:3000/sr/authors/protagoras) | [Burley](walter-burley/chapters-generated/028_protagora.md) — XXVIII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/band1.txt) — 80 A–C<br>[Platon, Protagora](canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml) — 317b–339a<br>[Platon, Teetet](canonical-greekLit/data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml) — 166d–167c<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.10<br>[Suda](suda/lives/4_Π_2958.md) — 4.Π.2958 | 0<br>26<br>20<br>14<br>3<br>3<br>3 |
+| [Protagora](http://localhost:3000/sr/authors/protagoras) | [Burley](walter-burley/chapters-generated/028_protagora.md) — XXVIII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/band1.txt) — 80 A–C<br>[Platon, Protagora](canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml) — 317b–339a<br>[Platon, Teetet](canonical-greekLit/data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml) — 166d–167c<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.10<br>[Suda](suda/lives/4_Π_2958.md) — 4.Π.2958 | 0<br>26<br>20<br>18<br>3<br>3<br>3 |
 | Ptolemej II Filadelf | [Burley](walter-burley/chapters-generated/075_ptolemej-ii-filadelf.md) — LXXV | 0 |
 | Ptolemej iz Naukratisa | [Filostrat](INDEX_FILOSTRAT.md) — 2.15 | 0 |
 | Ruf iz Perinta | [Filostrat](INDEX_FILOSTRAT.md) — 2.17 | 0 |
@@ -229,7 +229,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | Sekst Empirik | [Grčki korpus](First1KGreek/data/tlg0544) — tlg0544; 2 dela | 0 |
 | Sekund | [Burley](walter-burley/chapters-generated/122_sekund.md) — CXXII | 0 |
 | Sekund Atinjanin | [Filostrat](INDEX_FILOSTRAT.md) — 1.26 | 0 |
-| [Seneka](http://localhost:3000/sr/authors/seneca) | [Burley](walter-burley/chapters-generated/117_seneka.md) — CXVII<br>[Jovan Velški](john-of-wales/hocr/page-0469.hocr.html) — IV.16 | 10<br>0 |
+| [Seneka](http://localhost:3000/sr/authors/seneca-the-younger) | [Burley](walter-burley/chapters-generated/117_seneka.md) — CXVII<br>[Jovan Velški](john-of-wales/hocr/page-0469.hocr.html) — IV.16 | 10<br>0 |
 | [Sfer](http://localhost:3000/sr/authors/sphaerus) | [Diogen Laertije](INDEX_LEARTIJE.md) | 5 |
 | Simah | [Burley](walter-burley/chapters-generated/131_simah.md) — CXXXI | 0 |
 | Simija | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
@@ -248,7 +248,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | Stilbon | [Burley](walter-burley/chapters-generated/020_stilbon.md) — XX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Suda](suda/lives/4_Σ_1114.md) — 4.Σ.1114 | 0<br>0<br>0 |
 | Stratonom iz Lampsaka | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
 | Šit | [Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Fusul kalam Šit | 0 |
-| [Tales](http://localhost:3000/sr/authors/thales) | [Burley](walter-burley/chapters-generated/001_tales.md) — I<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 1<br>47 |
+| [Tales](http://localhost:3000/sr/authors/thales-of-miletus) | [Burley](walter-burley/chapters-generated/001_tales.md) — I<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 1<br>47 |
 | Taur | [Burley](walter-burley/chapters-generated/125_taur.md) — CXXV<br>[Jovan Velški](john-of-wales/hocr/page-0469.hocr.html) — IV.10 | 0<br>0 |
 | Temistokle | [Burley](walter-burley/chapters-generated/040_temistokle.md) — XL | 0 |
 | Teodot | [Filostrat](INDEX_FILOSTRAT.md) — 2.2 | 0 |

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T19:18:32.959Z",
+  "generatedAt": "2026-09-01T19:37:29.432Z",
   "catalog": [
     {
       "name": "Ablabije",
@@ -332,7 +332,7 @@
           "entries": 0
         }
       ],
-      "projectAuthor": "Anaximenes"
+      "projectAuthor": "Anaximenes of Miletus"
     },
     {
       "name": "Anaksimen iz Lampsaka",
@@ -1571,7 +1571,7 @@
           "entries": 17
         }
       ],
-      "projectAuthor": "Eudoxus"
+      "projectAuthor": "Eudoxus of Cnidus"
     },
     {
       "name": "Eudoks iz Knida",
@@ -3257,7 +3257,7 @@
           "entries": 0
         }
       ],
-      "projectAuthor": "MarcusAurelius"
+      "projectAuthor": "Marcus Aurelius"
     },
     {
       "name": "Marko iz Vizantiona",
@@ -3425,7 +3425,7 @@
           "entries": 0
         }
       ],
-      "projectAuthor": "Musonius Rufus"
+      "projectAuthor": "Gaius Musonius Rufus"
     },
     {
       "name": "Niket iz Smirne",
@@ -3746,7 +3746,7 @@
           "entries": 26
         }
       ],
-      "projectAuthor": "Pittacus"
+      "projectAuthor": "Pittacus of Mytilene"
     },
     {
       "name": "Platon",
@@ -4172,7 +4172,7 @@
           "reference": "317b–339a",
           "href": "canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml",
           "kind": "dialogue",
-          "entries": 14
+          "entries": 18
         },
         {
           "source": "plato-theaetetus",
@@ -4346,7 +4346,7 @@
           "entries": 0
         }
       ],
-      "projectAuthor": "Seneca"
+      "projectAuthor": "Seneca the Younger"
     },
     {
       "name": "Sfer",
@@ -4730,7 +4730,7 @@
           "entries": 47
         }
       ],
-      "projectAuthor": "Thales"
+      "projectAuthor": "Thales of Miletus"
     },
     {
       "name": "Taur",

@@ -18,7 +18,7 @@ export const authorGroups: AuthorGroup[] = [
     title: 'Ancient Wisdom',
     period: '7-6. vek p.n.e.',
     authors: [
-      'Pittacus',
+      'Pittacus of Mytilene',
       'Solon',
       'Bias of Priene',
       'Cleobulus',
@@ -37,7 +37,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'ionianSchool',
         title: 'Ionian School',
-        authors: ['Thales', 'Anaximander', 'Anaximenes']
+        authors: ['Thales of Miletus', 'Anaximander', 'Anaximenes of Miletus']
       },
       {
         titleKey: 'pythagoreans',
@@ -84,7 +84,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'aristotelianSchool',
         title: 'Aristotelian School',
-        authors: ['Aristotle', 'Theophrastus', 'Eudoxus']
+        authors: ['Aristotle', 'Theophrastus', 'Eudoxus of Cnidus']
       },
       {
         titleKey: 'rhetoricians',
@@ -133,7 +133,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'romanStoics',
         title: 'Roman Stoics',
-        authors: ['Seneca', 'Musonius Rufus', 'Epictetus']
+        authors: ['Seneca the Younger', 'Gaius Musonius Rufus', 'Epictetus']
       },
       {
         titleKey: 'romanEclectics',
@@ -156,7 +156,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'romanStoics',
         title: 'Roman Stoics',
-        authors: ['MarcusAurelius']
+        authors: ['Marcus Aurelius']
       }
     ]
   }
