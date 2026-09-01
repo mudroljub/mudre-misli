@@ -419,5 +419,35 @@
         "reference": "VI.9.11"
       }
     ]
+  },
+  {
+    "id": "mm-900189",
+    "type": "bio",
+    "year": 260,
+    "sr": "Plotin je bio učenik Amonija, koji je pre bio torbar. Plotinov učenik bio je Amelije, čiji je učenik Porfirije, čiji Jamblihos, čiji Sopatros.",
+    "stsl": "Плѡтинъ бѣ ѹченикъ Амонїꙗ · иже прѣждє бѣ тьрбарь · Плѡтинѹ же ѹченикъ бѣ Амєлии ·ємѹже Порфѷрии · єгоже Їамблихъ · єгоже Сѡпатросъ ·",
+    "originalText": "μαθητὴς μὲν Ἀμμωνίου τοῦ πρῴην γενομένου σακκοφόρου, διδάσκαλος δὲ Ἀμελίου· οὗ Πορφύριος διήκουσε, τοῦ δὲ Ἰάμβλιχος, τοῦ δὲ Σώπατρος.",
+    "author": "Plotinus",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "4.Π.1811"
+      }
+    ]
+  },
+  {
+    "id": "mm-900190",
+    "type": "bio",
+    "year": 260,
+    "sr": "Plotinovo telo beše oslabljeno svetom bolešću.",
+    "stsl": "Плѡтиново тѣло слабо бꙑсть свѧтоѭ болѣꙁниѭ ·",
+    "originalText": "γέγονε δὲ καὶ τὸ σῶμα ἀσθενὴς ὑπὸ τῆς ἱερᾶς νόσου.",
+    "author": "Plotinus",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "4.Π.1811"
+      }
+    ]
   }
 ]

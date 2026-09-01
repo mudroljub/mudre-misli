@@ -8,7 +8,7 @@ export const entryTypes = [
   "anecdote", /* Poučna ili zabavna epizoda iz života, ako je običan podatak onda bio */
   "works", /* Pominjanje, opis ili nabrajanje dela koja je autor napisao */
   "letter", /* Celo pismo ili duži odlomak pisma */
-  "mention", /* Pominjanje, kritika, pohvala filozofa i slično, često nakon smrti */
+  "mention", /* Pominjanje, kritika, pohvala filozofa i slično, ili legende nakon smrti */
 ] as const
 
 /**

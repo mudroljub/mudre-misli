@@ -3,19 +3,6 @@
 ## Kompletno obraditi filozofe
 
 Proširiti nekorištenim lokalnim izvorima (vidi INDEX_CENTRAL.md):
-- Zenon iz Eleje
-- Protagora
-- Gorgija
-- Plotin
-- Parmenid
-- Diogen iz Sinope
-- Demokrit
-- Anaksimander
-- Anaksagora
-- Piron (ako postoji u drugim lokalnim izvorima)
-- Sokrat
-- Pitagora (već je dosta obiman, samo ako se pronađe nešto bitno)
-
 Uneti nove autore u projekat:
 - Filolaj
 - Melis

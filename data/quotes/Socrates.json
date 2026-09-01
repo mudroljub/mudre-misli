@@ -980,5 +980,50 @@
         "reference": "Cap. XXXIV (citing Valerius Maximus V, X, Ext. 2)"
       }
     ]
+  },
+  {
+    "id": "mm-009008",
+    "type": "bio",
+    "year": -469,
+    "sr": "Sokrat je ranije bio klesač, i govore da su Harite obučene u Atini njegovo delo.",
+    "stsl": "Сократь прьвѣє бѣ каменосѣчьць · и глаголѭтъ ꙗко Харитꙑ одєвєнꙑꙗ въ Атинахъ дѣло єго бꙑша ·",
+    "originalText": "πρότερον γενόμενος λιθοξόος, ὥστε καί φασιν αὐτοῦ ἔργον εἶναι τὰς Ἀθήνησιν ἐνδεδυμένας Χάριτας.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "4.Σ.829"
+      }
+    ]
+  },
+  {
+    "id": "mm-009009",
+    "type": "bio",
+    "year": -420,
+    "sr": "Sokrat je imao dve zakonite žene: Ksantipu, s kojom je imao sina Lamprokleja, i Mirto, kći Aristida Pravednog, s kojom je imao Sofroniska i Meneksena.",
+    "stsl": "Сократь имаше двѣ ꙁаконитꙑ женѣ · Ксанѳипѫ · отъ неꙗже имаше сꙑна Лампрокла · и Мирто · дъщерь Аристида Праведнааго · отъ неꙗже родиста сѧ Софронискъ и Менексенъ ·",
+    "originalText": "γαμεταῖς δὲ συνῴκησε δύο, Ξανθίππῃ, ἀφ' ἧς ἔσχεν υἱὸν Λαμπροκλέα· καὶ δευτέρᾳ Μυρτοῖ, τῇ Ἀριστείδου τοῦ δικαίου θυγατρί, ἐξ ἧς ἐγένετο Σωφρονίσκος καὶ Μενέξενος.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "4.Σ.829"
+      }
+    ]
+  },
+  {
+    "id": "mm-009010",
+    "type": "anecdote",
+    "year": -400,
+    "sr": "Sokrat je u starosti učio kitaru kod Konona. Kada ga neko zbog toga ismeja, reče: Bolje dockan učiti nego uvek neuk ostati.",
+    "stsl": "Сократь въ старости китарꙑ ѹчаше сѧ оу Конона · Єгда же нѣкꙑи ємоу о семь поругааше сѧ · рєчє · Лѹчьшє позьдно · нєжє прѣисполнь невѣдѣниꙗ ·",
+    "originalText": "ἐμάνθανε δὲ καὶ κιθαρίζειν παρὰ Κόνωνι, γέρων ἤδη ὤν· σκωφθεὶς δὲ ὑπὸ Σόλωνος, ὀψιμαθὴς εἶπε μᾶλλον ἢ ἀμαθής.",
+    "author": "Socrates",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "4.Σ.829"
+      }
+    ]
   }
 ]

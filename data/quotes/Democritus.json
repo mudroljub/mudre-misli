@@ -3512,5 +3512,63 @@
         "reference": "68 B 297"
       }
     ]
+  },
+  {
+    "id": "mm-009001",
+    "type": "bio",
+    "year": -460,
+    "sr": "Demokrit beše nazvan Mudrošću, a i Smejačem, jer se smejao taštoj ozbiljnosti ljudi.",
+    "stsl": "Димокрита нарєкохѫ Мѫдростиѭ · и єщє Смѣхотворьцємь · ꙗко смиꙗаше сѧ на таштѫ трьжьность людии ·",
+    "originalText": "ἐπεκλήθη δὲ Σοφία ὁ Δημόκριτος, καὶ Γελασῖνος δέ, διὰ τὸ γελᾶν πρὸς τὸ κενόσπουδον τῶν ἀνθρώπων.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "2.Δ.447"
+      }
+    ]
+  },
+  {
+    "id": "mm-009002",
+    "type": "bio",
+    "year": -440,
+    "sr": "Demokritov najistaknutiji učenik bio je Metrodor Hijanski, čiji su učenici bili Anaksar i Hipokrat lekar.",
+    "stsl": "Димокритовъ прєсвѣтлꙑи ѹченикъ бѣ Митродоръ Хіискꙑи · єгоже ѹченици бꙑша Анаксархъ и Іпократь врачь ·",
+    "originalText": "μαθητὴς δὲ αὐτοῦ διαφανὴς ἐγένετο Μητρόδωρος ὁ Χῖος· οὗ πάλιν ἀκροαταί Ἀνάξαρχος καὶ Ἱπποκράτης ὁ ἰατρός.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "2.Δ.447"
+      }
+    ]
+  },
+  {
+    "id": "mm-009003",
+    "type": "quote",
+    "sr": "Jedan mi vredi kao sav narod, i sav narod kao jedan.",
+    "stsl": "Єдинъ мьнѣ ꙗко вьсь народъ · и вьсь народъ ꙗко єдинъ ·",
+    "originalText": "Dicebat saepe Democritus: unus mihi pro populo est, et populus pro uno.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XLIV"
+      }
+    ]
+  },
+  {
+    "id": "mm-009004",
+    "type": "quote",
+    "sr": "Upitan šta razlikuje ljude od stoke, reče: Mudro slušati.",
+    "stsl": "Въпрошенъ что раꙁлѹчаєтъ чловѣкꙑ отъ скотовъ · рєчє · Мѫдро слꙑшати ·",
+    "originalText": "Interrogatus Democritus quid inter homines pecoraque distaret, ait: Sapienter audire.",
+    "author": "Democritus",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "XLIV"
+      }
+    ]
   }
 ]

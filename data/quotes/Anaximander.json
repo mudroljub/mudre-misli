@@ -573,5 +573,20 @@
         "reference": "II.2"
       }
     ]
+  },
+  {
+    "id": "mm-002223",
+    "type": "bio",
+    "year": -610,
+    "sr": "Anaksimander beše srodnik, učenik i naslednik Talesa.",
+    "stsl": "Анаксимандръ бѣ сродникъ · ѹченикъ · и наслѣдьникъ Талетовъ ·",
+    "originalText": "συγγενὴς καὶ μαθητὴς καὶ διάδοχος Θάλητος.",
+    "author": "Anaximander",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "1.A.1986"
+      }
+    ]
   }
 ]

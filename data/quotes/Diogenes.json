@@ -451,6 +451,25 @@
       {
         "name": "diogenes-laertius",
         "reference": "VI.76–79"
+      },
+      {
+        "name": "suda",
+        "reference": "2.Δ.1143"
+      }
+    ]
+  },
+  {
+    "id": "mm-009005",
+    "type": "bio",
+    "year": -323,
+    "sr": "Diogen umre isti dan kada i Aleksandar Makedonski u Vavilonu.",
+    "stsl": "Диогенъ ѹмрѣ въ тъ же дьнь вь ньже и Алєксандрь Макєдоньскꙑи въ Вавилонѣ ·",
+    "originalText": "κατὰ τὴν αὐτὴν ἡμέραν ὅτε καὶ ὁ Μακεδὼν Ἀλέξανδρος ἐν Βαβυλῶνι ἀπέθανεν.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "2.Δ.1143"
       }
     ]
   },
@@ -1982,6 +2001,35 @@
       {
         "name": "diogenes-laertius",
         "reference": "VI.34"
+      }
+    ]
+  },
+  {
+    "id": "mm-009006",
+    "type": "quote",
+    "sr": "Bogatiji sam od persijskog kralja i spokojnijeg uma, jer meni je malo dosta, a njemu mnogo nije; ja ne marim ni za koga, a on brine za čitav svet.",
+    "stsl": "Богатѣи єсмь царꙗ перьсьскааго и покоинѣиша дѹха · ꙗко мьнѣ мало довьлѣєтъ · а ємѹ мьного не довьлѣєтъ · аꙁъ не пекѫ сѧ ни о комьже · а онъ пекоуєтъ сѧ о вьсемь свѣтѣ ·",
+    "originalText": "أنا أغنى من ملك الفرس وأرخى بالاً، لأن القليل يقنعني، والكثير لا يقنعه؛ ولا أهتم بأحد وهو يهتم بعالم",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "mukhtar-al-hikam",
+        "reference": "Diogen"
+      }
+    ]
+  },
+  {
+    "id": "mm-009007",
+    "type": "anecdote",
+    "year": -350,
+    "sr": "Jednom ga videše na obali reke gde pere biljke i jede ih. Neko mu reče: Da možeš da jedeš ovo. Diogen mu odgovori: Da možeš i ti da jedeš ovo, ne bi hodio do vrata Dionisijeva.",
+    "stsl": "Єдиною видѣша єго на брѣꙁѣ рѣкꙑ · идѣже зельꙗ мꙑꙗше и ꙗдѣаше · Нѣкто ємѹ рєчє · Ово твоꙗ пища · Диогенъ же ємоу отъвѣшта · Аштє и тєбѣ была сица пища · не ходилъ бисте къ вратомъ Дионисиєвомъ ·",
+    "originalText": "رآه يوماً على شاطئ النهر يغسل بقولاً ويأكل منها فقال له: هذا طعامك؟ فقال ذيو جانس: لو أمكنك أنت أيضاً أن يكون هذا طعامك لم تأتِ باب ديونوسيوس المتغلب",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "mukhtar-al-hikam",
+        "reference": "Diogen"
       }
     ]
   }

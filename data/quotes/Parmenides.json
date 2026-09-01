@@ -697,5 +697,20 @@
         "reference": "28 B 1.1-5"
       }
     ]
+  },
+  {
+    "id": "mm-002156",
+    "type": "bio",
+    "year": -500,
+    "sr": "Po Teofrstu, Parmenid beše učenik Anaksimandrov. Njegovi naslednici bejahu Empedokle, i filozof i lekar, i Zenon Elejski.",
+    "stsl": "По Ѳєофрасту Парменидъ бѣ ѹченикъ Анаксимандровъ · Єго же наслѣдьници бꙑша Ємпедоклъ · и любомѫдрьць и врачь · и Ꙁиноѳьнъ Єлєискꙑи ·",
+    "originalText": "ὡς δὲ Θεόφραστος Ἀναξιμάνδρου τοῦ Μιλησίου. αὐτοῦ δὲ διάδοχοι ἐγένοντο Ἐμπεδοκλής τε, ὁ καὶ φιλόσοφος καὶ ἰατρός, καὶ Ζήνων ὁ Ἐλεάτης.",
+    "author": "Parmenides",
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "4.Π.675"
+      }
+    ]
   }
 ]
