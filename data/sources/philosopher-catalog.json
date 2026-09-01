@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T13:55:18.283Z",
+  "generatedAt": "2026-09-01T17:37:49.183Z",
   "catalog": [
     {
       "name": "Ablabije",
@@ -287,7 +287,7 @@
           "reference": "1.A.1986",
           "href": "suda/lives/1_A_1986.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 1
         }
       ],
       "projectAuthor": "Anaximander"
@@ -1049,7 +1049,7 @@
           "reference": "XLIV",
           "href": "walter-burley/chapters-generated/044_demokrit.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 2
         },
         {
           "source": "diogenes-laertius",
@@ -1076,7 +1076,7 @@
           "reference": "2.Δ.447",
           "href": "suda/lives/2_Δ_447.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 2
         }
       ],
       "projectAuthor": "Democritus"
@@ -1235,7 +1235,7 @@
           "reference": "2.Δ.1143",
           "href": "suda/lives/2_Δ_1143.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 2
         }
       ],
       "projectAuthor": "Diogenes"
@@ -1820,7 +1820,7 @@
           "reference": null,
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 5
         },
         {
           "source": "hermann-diels",
@@ -1829,10 +1829,10 @@
           "reference": "Diels 32, A. Leben und Lehre",
           "href": "hermann-diels/philosophers/32-Philolaus.txt",
           "kind": "biographical testimonia",
-          "entries": 0
+          "entries": 3
         }
       ],
-      "projectAuthor": null
+      "projectAuthor": "Philolaus"
     },
     {
       "name": "Filon Aleksandrijski",
@@ -1937,7 +1937,7 @@
           "reference": "1.9",
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 6
         },
         {
           "source": "john-of-wales",
@@ -1955,7 +1955,7 @@
           "reference": "1.Γ.388",
           "href": "suda/lives/1_Γ_388.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 3
         }
       ],
       "projectAuthor": "Gorgias"
@@ -3254,7 +3254,7 @@
           "entries": 0
         }
       ],
-      "projectAuthor": null
+      "projectAuthor": "MarcusAurelius"
     },
     {
       "name": "Marko iz Vizantiona",
@@ -3296,7 +3296,7 @@
           "reference": null,
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 3
         },
         {
           "source": "hermann-diels",
@@ -3305,10 +3305,10 @@
           "reference": "Diels 20, A. Leben und Lehre",
           "href": "hermann-diels/philosophers/20-Melissus.txt",
           "kind": "biographical testimonia",
-          "entries": 0
+          "entries": 4
         }
       ],
-      "projectAuthor": null
+      "projectAuthor": "Melissus"
     },
     {
       "name": "Menandar",
@@ -3581,7 +3581,7 @@
           "reference": "4.Π.675",
           "href": "suda/lives/4_Π_675.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 1
         }
       ],
       "projectAuthor": "Parmenides"
@@ -3869,7 +3869,7 @@
           "reference": "tlg2000; 1 delo",
           "href": "First1KGreek/data/tlg2000",
           "kind": "primary-text corpus",
-          "entries": 7
+          "entries": 12
         },
         {
           "source": "eunapius",
@@ -3887,7 +3887,7 @@
           "reference": "4.Π.1811",
           "href": "suda/lives/4_Π_1811.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 2
         },
         {
           "source": "porphyry-vita-plotini",
@@ -4172,7 +4172,7 @@
           "reference": "1.10",
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 3
         },
         {
           "source": "suda",
@@ -4181,7 +4181,7 @@
           "reference": "4.Π.2958",
           "href": "suda/lives/4_Π_2958.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 3
         }
       ],
       "projectAuthor": "Protagoras"
@@ -4511,7 +4511,7 @@
           "reference": "4.Σ.829",
           "href": "suda/lives/4_Σ_829.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 3
         }
       ],
       "projectAuthor": "Socrates"

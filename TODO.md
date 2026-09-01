@@ -2,14 +2,13 @@
 
 ## Širiti korpus celih dela
 
-Najprirodniji sledeći paketi:
-
-1. preostali Epiktetov gnomologij (`tlg004`–`tlg005`), uz proveru preklapanja
+- preostali Epiktetov gnomologij (`tlg004`–`tlg005`), uz proveru preklapanja
    sa `Razgovorima` i `Priručnikom`;
-2. Platon - Protagora
-3. provereni stoički fragmentarni korpusi: Kleant, Hrisip, Ariston sa Hiosa i
+- Platon - Protagora
+- provereni stoički fragmentarni korpusi: Kleant, Hrisip, Ariston sa Hiosa i
    Antipatar iz Tarsa;
-4. Plotin
+- Plotin - Eneade
+- Marko Aurelije - Samom sebi
 
 ## Terminologija i UI
 

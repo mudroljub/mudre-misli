@@ -2,7 +2,7 @@
 
 Ovaj fajl generiše `npm run build:catalog:philosophers`. Ne uređivati ga ručno.
 
-Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208**.
+Ukupno: **259 ličnosti**; sa upotrebom izvora **53**, bez upotrebe izvora **206**.
 
 ## Katalog
 
@@ -21,7 +21,7 @@ Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208
 | [Anaharsis](http://localhost:3000/sr/authors/anacharsis) | [Burley](walter-burley/chapters-generated/010_anaharsis.md) — X<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 1<br>21 |
 | [Anaksagora](http://localhost:3000/sr/authors/anaxagoras) | [Burley](walter-burley/chapters-generated/018_anaksagora.md) — XVIII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/46-Anaxagoras.txt) — Diels 46, A. Leben und Lehre<br>[Jovan Velški](john-of-wales/hocr/page-0466.hocr.html) — III.1.2<br>[Suda](suda/lives/1_A_1981.md) — 1.A.1981 | 0<br>29<br>31<br>0<br>0 |
 | [Anaksarh](http://localhost:3000/sr/authors/anaxarchus) | [Burley](walter-burley/chapters-generated/067_anaksarh.md) — LXVII<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 0<br>7 |
-| [Anaksimander](http://localhost:3000/sr/authors/anaximander) | [Burley](walter-burley/chapters-generated/009_anaksimandar.md) — IX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Suda](suda/lives/1_A_1986.md) — 1.A.1986 | 0<br>13<br>0 |
+| [Anaksimander](http://localhost:3000/sr/authors/anaximander) | [Burley](walter-burley/chapters-generated/009_anaksimandar.md) — IX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Suda](suda/lives/1_A_1986.md) — 1.A.1986 | 0<br>13<br>1 |
 | [Anaksimen](http://localhost:3000/sr/authors/anaximenes) | [Burley](walter-burley/chapters-generated/016_anaksimen-iz-mileta.md) — XVI<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/03-Anaximenes.txt) — Diels 3, A. Leben und Lehre<br>[Suda](suda/lives/1_A_1988.md) — 1.A.1988 | 1<br>9<br>30<br>0 |
 | Anaksimen iz Lampsaka | [Burley](walter-burley/chapters-generated/063_anaksimen-iz-lampsaka.md) — LXIII | 0 |
 | Antifont iz Ramnunta | [Filostrat](INDEX_FILOSTRAT.md) — 1.15 | 0 |
@@ -58,14 +58,14 @@ Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208
 | Damijan iz Efesa | [Filostrat](INDEX_FILOSTRAT.md) — 2.23 | 0 |
 | Demad | [Burley](walter-burley/chapters-generated/062_demad.md) — LXII | 0 |
 | Demetrije Falerski | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
-| [Demokrit](http://localhost:3000/sr/authors/democritus) | [Burley](walter-burley/chapters-generated/044_demokrit.md) — XLIV<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Jovan Velški](john-of-wales/hocr/page-0468.hocr.html) — IV.4<br>[Suda](suda/lives/2_Δ_447.md) — 2.Δ.447 | 0<br>32<br>0<br>0 |
+| [Demokrit](http://localhost:3000/sr/authors/democritus) | [Burley](walter-burley/chapters-generated/044_demokrit.md) — XLIV<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Jovan Velški](john-of-wales/hocr/page-0468.hocr.html) — IV.4<br>[Suda](suda/lives/2_Δ_447.md) — 2.Δ.447 | 2<br>32<br>0<br>2 |
 | Demosten | [Burley](walter-burley/chapters-generated/037_demosten.md) — XXXVII<br>[Jovan Velški](john-of-wales/hocr/page-0468.hocr.html) — IV.2 | 0<br>0 |
 | Dijas iz Efesa | [Filostrat](INDEX_FILOSTRAT.md) — 1.3 | 0 |
 | Diodor Kron | [Burley](walter-burley/chapters-generated/069_diodor-kron.md) — LXIX | 0 |
 | Diodor Sicilijski | [Burley](walter-burley/chapters-generated/092_diodor-sicilijski.md) — XCII | 0 |
 | Diofant | [Eunapije](eunapius/vitae-sophistarum.en.html#DIOPHANTUS) — #DIOPHANTUS | 0 |
 | Diogen iz Apolonije | [Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/51-Diogenes_of_Apollonia.txt) — Diels 51, A. Leben und Lehre | 0<br>0 |
-| [Diogen iz Sinope](http://localhost:3000/sr/authors/diogenes) | [Burley](walter-burley/chapters-generated/050_diogen-iz-sinope.md) — L<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Jovan Velški](john-of-wales/hocr/page-0466.hocr.html) — III.2.2<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Diogen; mudrosti i pouke<br>[Suda](suda/lives/2_Δ_1143.md) — 2.Δ.1143 | 8<br>131<br>0<br>0<br>0 |
+| [Diogen iz Sinope](http://localhost:3000/sr/authors/diogenes) | [Burley](walter-burley/chapters-generated/050_diogen-iz-sinope.md) — L<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Jovan Velški](john-of-wales/hocr/page-0466.hocr.html) — III.2.2<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Diogen; mudrosti i pouke<br>[Suda](suda/lives/2_Δ_1143.md) — 2.Δ.1143 | 8<br>131<br>0<br>0<br>2 |
 | Diogen iz Vavilona | [Burley](walter-burley/chapters-generated/097_diogen-iz-vavilona.md) — XCVII | 0 |
 | Dion iz Pruse | [Filostrat](INDEX_FILOSTRAT.md) — 1.7 | 0 |
 | Dionisije iz Mileta | [Filostrat](INDEX_FILOSTRAT.md) — 1.22 | 0 |
@@ -95,13 +95,13 @@ Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208
 | Filagar | [Filostrat](INDEX_FILOSTRAT.md) — 2.8 | 0 |
 | Filemon | [Burley](walter-burley/chapters-generated/077_filemon.md) — LXXVII | 0 |
 | Filisk iz Tesalije | [Filostrat](INDEX_FILOSTRAT.md) — 2.30 | 0 |
-| Filolaj | [Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/32-Philolaus.txt) — Diels 32, A. Leben und Lehre | 0<br>0 |
+| [Filolaj](http://localhost:3000/sr/authors/philolaus) | [Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/32-Philolaus.txt) — Diels 32, A. Leben und Lehre | 5<br>3 |
 | Filon Aleksandrijski | [Grčki korpus](First1KGreek/data/tlg0018) — tlg0018; 28 dela | 0 |
 | Filostrat Egipćanin | [Filostrat](INDEX_FILOSTRAT.md) — 1.5 | 0 |
 | Gal | [Burley](walter-burley/chapters-generated/109_gal.md) — CIX | 0 |
 | Galen | [Burley](walter-burley/chapters-generated/126_galen.md) — CXXVI<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Galen; pouke i mudrosti | 0<br>0 |
 | Glaukon | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
-| [Gorgija](http://localhost:3000/sr/authors/gorgias) | [Burley](walter-burley/chapters-generated/026_gorgija.md) — XXVI<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.9<br>[Jovan Velški](john-of-wales/hocr/page-0468.hocr.html) — III.4, Platonovi učenici<br>[Suda](suda/lives/1_Γ_388.md) — 1.Γ.388 | 3<br>0<br>0<br>0 |
+| [Gorgija](http://localhost:3000/sr/authors/gorgias) | [Burley](walter-burley/chapters-generated/026_gorgija.md) — XXVI<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.9<br>[Jovan Velški](john-of-wales/hocr/page-0468.hocr.html) — III.4, Platonovi učenici<br>[Suda](suda/lives/1_Γ_388.md) — 1.Γ.388 | 3<br>6<br>0<br>3 |
 | Grigorije | [Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Adab Grigorije | 0 |
 | Hegesija | [Burley](walter-burley/chapters-generated/080_hegesija.md) — LXXX | 0 |
 | Hekaton | [Burley](walter-burley/chapters-generated/090_hekaton.md) — XC | 0 |
@@ -173,10 +173,10 @@ Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208
 | Magn | [Eunapije](eunapius/vitae-sophistarum.en.html#MAGNUS) — #MAGNUS | 0 |
 | Maksim | [Eunapije](eunapius/vitae-sophistarum.en.html#MAXIMUS) — #MAXIMUS | 0 |
 | Marko | [Burley](walter-burley/chapters-generated/091_marko.md) — XCI | 0 |
-| Marko Aurelije | [Grčki korpus](canonical-greekLit/data/tlg0562) — tlg0562; 1 delo | 0 |
+| [Marko Aurelije](http://localhost:3000/sr/authors/marcusaurelius) | [Grčki korpus](canonical-greekLit/data/tlg0562) — tlg0562; 1 delo | 0 |
 | Marko iz Vizantiona | [Filostrat](INDEX_FILOSTRAT.md) — 1.24 | 0 |
 | Marko Nerije | [Burley](walter-burley/chapters-generated/112_marko-nerije.md) — CXII | 0 |
-| Melis | [Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/20-Melissus.txt) — Diels 20, A. Leben und Lehre | 0<br>0 |
+| [Melis](http://localhost:3000/sr/authors/melissus) | [Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/20-Melissus.txt) — Diels 20, A. Leben und Lehre | 3<br>4 |
 | Menandar | [Burley](walter-burley/chapters-generated/076_menandar.md) — LXXVI | 0 |
 | Menedem Eritrejski | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
 | Menip | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
@@ -192,7 +192,7 @@ Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208
 | Ovidije | [Burley](walter-burley/chapters-generated/114_ovidije.md) — CXIV | 0 |
 | Panetije | [Burley](walter-burley/chapters-generated/087_panetije.md) — LXXXVII | 0 |
 | Pankupije | [Burley](walter-burley/chapters-generated/083_pankupije.md) — LXXXIII | 0 |
-| [Parmenid](http://localhost:3000/sr/authors/parmenides) | [Burley](walter-burley/chapters-generated/049_parmenid.md) — XLIX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/18-Parmenides.txt) — Diels 18, A. Leben und Lehre<br>[Suda](suda/lives/4_Π_675.md) — 4.Π.675 | 0<br>19<br>24<br>0 |
+| [Parmenid](http://localhost:3000/sr/authors/parmenides) | [Burley](walter-burley/chapters-generated/049_parmenid.md) — XLIX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/18-Parmenides.txt) — Diels 18, A. Leben und Lehre<br>[Suda](suda/lives/4_Π_675.md) — 4.Π.675 | 0<br>19<br>24<br>1 |
 | Parnasije | [Eunapije](eunapius/vitae-sophistarum.en.html#PARNASIUS) — #PARNASIUS | 0 |
 | Pausanija iz Cezareje | [Filostrat](INDEX_FILOSTRAT.md) — 2.13 | 0 |
 | Perijandar | [Burley](walter-burley/chapters-generated/007_perijandar.md) — VII<br>[Diogen Laertije](INDEX_LEARTIJE.md) | 0<br>0 |
@@ -204,7 +204,7 @@ Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208
 | Plaut | [Burley](walter-burley/chapters-generated/103_plaut.md) — CIII | 0 |
 | Plinije | [Burley](walter-burley/chapters-generated/120_plinije.md) — CXX | 0 |
 | Plokije | [Burley](walter-burley/chapters-generated/086_plokije.md) — LXXXVI | 0 |
-| [Plotin](http://localhost:3000/sr/authors/plotinus) | [Burley](walter-burley/chapters-generated/059_plotin.md) — LIX<br>[Grčki korpus](First1KGreek/data/tlg2000) — tlg2000; 1 delo<br>[Eunapije](eunapius/vitae-sophistarum.en.html#PLOTINUS) — #PLOTINUS<br>[Suda](suda/lives/4_Π_1811.md) — 4.Π.1811<br>[Porfirije](INDEX_PORFIRIJE_PLOTIN.md) — 1-26 | 3<br>7<br>0<br>0<br>19 |
+| [Plotin](http://localhost:3000/sr/authors/plotinus) | [Burley](walter-burley/chapters-generated/059_plotin.md) — LIX<br>[Grčki korpus](First1KGreek/data/tlg2000) — tlg2000; 1 delo<br>[Eunapije](eunapius/vitae-sophistarum.en.html#PLOTINUS) — #PLOTINUS<br>[Suda](suda/lives/4_Π_1811.md) — 4.Π.1811<br>[Porfirije](INDEX_PORFIRIJE_PLOTIN.md) — 1-26 | 3<br>12<br>0<br>2<br>19 |
 | Plutarh | [Burley](walter-burley/chapters-generated/119_plutarh.md) — CXIX<br>[Grčki korpus](canonical-greekLit/data/tlg0007) — tlg0007; 32 dela | 0<br>0 |
 | Pol | [Filostrat](INDEX_FILOSTRAT.md) — 1.13 | 0 |
 | Polemon | [Burley](walter-burley/chapters-generated/070_polemon.md) — LXX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.25 | 0<br>0<br>0 |
@@ -217,7 +217,7 @@ Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208
 | Prodik | [Filostrat](INDEX_FILOSTRAT.md) — 1.12 | 0 |
 | Proeresije | [Eunapije](eunapius/vitae-sophistarum.en.html#PROHAERESIUS) — #PROHAERESIUS | 0 |
 | Proklo iz Naukratisa | [Filostrat](INDEX_FILOSTRAT.md) — 2.21 | 0 |
-| [Protagora](http://localhost:3000/sr/authors/protagoras) | [Burley](walter-burley/chapters-generated/028_protagora.md) — XXVIII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/band1.txt) — 80 A–C<br>[Platon, Protagora](canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml) — 317b–339a<br>[Platon, Teetet](canonical-greekLit/data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml) — 166d–167c<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.10<br>[Suda](suda/lives/4_Π_2958.md) — 4.Π.2958 | 0<br>26<br>20<br>14<br>3<br>0<br>0 |
+| [Protagora](http://localhost:3000/sr/authors/protagoras) | [Burley](walter-burley/chapters-generated/028_protagora.md) — XXVIII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/band1.txt) — 80 A–C<br>[Platon, Protagora](canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml) — 317b–339a<br>[Platon, Teetet](canonical-greekLit/data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml) — 166d–167c<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.10<br>[Suda](suda/lives/4_Π_2958.md) — 4.Π.2958 | 0<br>26<br>20<br>14<br>3<br>3<br>3 |
 | Ptolemej II Filadelf | [Burley](walter-burley/chapters-generated/075_ptolemej-ii-filadelf.md) — LXXV | 0 |
 | Ptolemej iz Naukratisa | [Filostrat](INDEX_FILOSTRAT.md) — 2.15 | 0 |
 | Ruf iz Perinta | [Filostrat](INDEX_FILOSTRAT.md) — 2.17 | 0 |
@@ -236,7 +236,7 @@ Ukupno: **259 ličnosti**; sa upotrebom izvora **51**, bez upotrebe izvora **208
 | Sist | [Burley](walter-burley/chapters-generated/111_sist.md) — CXI | 0 |
 | Skopelijan | [Filostrat](INDEX_FILOSTRAT.md) — 1.21 | 0 |
 | Sofokle | [Burley](walter-burley/chapters-generated/038_sofokle.md) — XXXVIII | 0 |
-| [Sokrat](http://localhost:3000/sr/authors/socrates) | [Burley](walter-burley/chapters-generated/030_sokrat.md) — XXX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Jovan Velški](john-of-wales/hocr/page-0467.hocr.html) — III.3<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Sokrat<br>[Suda](suda/lives/4_Σ_829.md) — 4.Σ.829 | 1<br>67<br>0<br>0<br>0 |
+| [Sokrat](http://localhost:3000/sr/authors/socrates) | [Burley](walter-burley/chapters-generated/030_sokrat.md) — XXX<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Jovan Velški](john-of-wales/hocr/page-0467.hocr.html) — III.3<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Sokrat<br>[Suda](suda/lives/4_Σ_829.md) — 4.Σ.829 | 1<br>67<br>0<br>0<br>3 |
 | [Solon](http://localhost:3000/sr/authors/solon) | [Burley](walter-burley/chapters-generated/002_solon.md) — II<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Jovan Velški](john-of-wales/hocr/page-0466.hocr.html) — III.1.1<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Solon | 8<br>27<br>0<br>0 |
 | Sopatar | [Eunapije](eunapius/vitae-sophistarum.en.html#SOPATER) — #SOPATER | 0 |
 | Sopolis | [Eunapije](eunapius/vitae-sophistarum.en.html#SOPOLIS) — #SOPOLIS | 0 |

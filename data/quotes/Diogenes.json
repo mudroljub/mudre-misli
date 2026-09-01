@@ -2007,8 +2007,8 @@
   {
     "id": "mm-009006",
     "type": "quote",
-    "sr": "Bogatiji sam od persijskog kralja i spokojnijeg uma, jer meni je malo dosta, a njemu mnogo nije; ja ne marim ni za koga, a on brine za čitav svet.",
-    "stsl": "Богатѣи єсмь царꙗ перьсьскааго и покоинѣиша дѹха · ꙗко мьнѣ мало довьлѣєтъ · а ємѹ мьного не довьлѣєтъ · аꙁъ не пекѫ сѧ ни о комьже · а онъ пекоуєтъ сѧ о вьсемь свѣтѣ ·",
+    "sr": "Bogatiji sam od persijskog kralja i mirnijeg duha, jer meni je malo dosta, a njemu mnogo nije; ja ne marim ni za koga, a on brine za čitav svet.",
+    "stsl": "Богатѣи єсмь царꙗ перьсьскааго и покоинѣиша дѹха · ꙗко мьнѣ мало довьлѣєтъ · а ємѹ мьного не довьлѣєтъ · аꙁъ не пекѫ сѧ ни о комьже · а онъ печєтъ сѧ о вьсемь свѣтѣ ·",
     "originalText": "أنا أغنى من ملك الفرس وأرخى بالاً، لأن القليل يقنعني، والكثير لا يقنعه؛ ولا أهتم بأحد وهو يهتم بعالم",
     "author": "Diogenes",
     "sources": [
@@ -2022,9 +2022,126 @@
     "id": "mm-009007",
     "type": "anecdote",
     "year": -350,
-    "sr": "Jednom ga videše na obali reke gde pere biljke i jede ih. Neko mu reče: Da možeš da jedeš ovo. Diogen mu odgovori: Da možeš i ti da jedeš ovo, ne bi hodio do vrata Dionisijeva.",
-    "stsl": "Єдиною видѣша єго на брѣꙁѣ рѣкꙑ · идѣже зельꙗ мꙑꙗше и ꙗдѣаше · Нѣкто ємѹ рєчє · Ово твоꙗ пища · Диогенъ же ємоу отъвѣшта · Аштє и тєбѣ была сица пища · не ходилъ бисте къ вратомъ Дионисиєвомъ ·",
+    "sr": "Jednom ga videše na obali reke gde pere biljke i jede ih. Neko mu reče: Ovo je tvoja hrana. Diogen mu odgovori: Da možeš i ti tako živeti, ne bi išao do Dionisijevih vrata.",
+    "stsl": "Єдиною видѣша єго на брѣꙁѣ рѣкꙑ · идѣже зельꙗ мꙑꙗше и ꙗдѣаше · Нѣкто ємѹ рєчє · Ово твоꙗ пища · Диогенъ же ємоу отъвѣшта · Аще бꙑ и тебѣ такова пища · нє ходилъ бꙑ къ вратомъ Дионисиєвомъ ·",
     "originalText": "رآه يوماً على شاطئ النهر يغسل بقولاً ويأكل منها فقال له: هذا طعامك؟ فقال ذيو جانس: لو أمكنك أنت أيضاً أن يكون هذا طعامك لم تأتِ باب ديونوسيوس المتغلب",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "mukhtar-al-hikam",
+        "reference": "Diogen"
+      }
+    ]
+  },
+  {
+    "id": "mm-009075",
+    "type": "anecdote",
+    "year": -330,
+    "sr": "Vladam porivima i podjarmio sam ih sebi; tebe porivi vladaju i pokorili su te. Sluga si, dakle, sluga mojih sluga.",
+    "stsl": "Аꙁъ владаѭ хотѣниꙗми и покорилъ єсмь ꙗ себѣ · Тєбє же хотѣниꙗ владаѭтъ и покорили сє тєбѣ · Рабъ єси оубо рабовъ моихъ ·",
+    "originalText": "Quia ego prevaleo cupiditatibus meis, semper frenans illas et subiciens michi ipsas ut michi serviant. Tibi autem cupiditates prevalent et servus earum efficeris, earum obtemperans iussioni; servus ergo es servorum meorum.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "id": "mm-009076",
+    "type": "anecdote",
+    "year": -323,
+    "sr": "Prijatelji htedoše bolesnog Diogena preneti na mazgi ili kolima do Olimpije. On odbi, pređe pod hladovinu drveta i reče: Idite, gledate igre. Ova noć će me ili pobediti ili biti pobeden. Stisnuvši grlo te noći izdahnu.",
+    "stsl": "Болꙗщаго Диогєна на пѫти на Олімпіискꙑꙗ игрꙑ дроузи хотѣхѫ на скотинꙑ или на колихъ прѣнєсти · Онъ отврьжє · прѣиде подъ сѣнь дрѣва и рєчє : Идѣтє на игрꙑ · Сиꙗ нощь или мєнє побѣдитъ или побѣжданъ бѫдєтъ · Тоу жє ноштиѭ грьтань стиснѫвъ издъхнѫ ·",
+    "originalText": "Abite, queso, et spectatum pergite. Hec me nox aut victorem probabit aut victum. Si febrem vicero ad agonem veniam, si me vicerit febris ad inferna descendam. Igitur ibi per noctem eliso gutture non tam se mori ait quam febrem morte excludere.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "id": "mm-009077",
+    "type": "anecdote",
+    "year": -323,
+    "sr": "Umirući, naredi prijateljima da telo ostave bez sahrane. Kada mu rekoše da će ga zveri pojesti, odgovori: Stavite kraj mene štap da ih oteramo. Rekoše: A kako ćeš, kad nećeš osećati? Reče: Ako ne osećam — čemu mi smeta što me zveri jedu?",
+    "stsl": "Ꙋмираѧ повелѣ дроузємъ тѣло беꙁъ погрєбєниꙗ оставити · Єгда жє рєкошѧ : ꙁвѣри снѣдѧтъ тє · отъвѣшта : Положитє при мнѣ жєꙁлъ да ꙁвѣри отъгоним · Рєкошѧ : Како · ничьсоже бо чѹти имаши · Рєчє : Аще нє чѹю — чьто ми врѣдитъ аще ꙁвѣри мєнє снѣдѧтъ?",
+    "originalText": "iussit amicis inhumatum corpus suum relinquere. Et cum amici dicerent quod a feris devoraretur, ait: Minime, sed iuxta me baculum quo feras abigam ponite. Ac illi: Qui poteris non sentiens? Quid ergo, ait, ferarum laniatus michi non sencienti oberunt?",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "id": "mm-009078",
+    "type": "quote",
+    "sr": "Bolest je tamnica tela. Tuga je tamnica duše.",
+    "stsl": "Болѣꙁнь тємница тѣла єстъ · Скрьбь тємница дѹшѧ єстъ ·",
+    "originalText": "Interrogatus: Quid est infirmitas? ait: Carcer corporis. Interrogatus: Quid est tristicia? ait: Carcer anime.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "id": "mm-009079",
+    "type": "quote",
+    "sr": "Ko ima, jede kad ogladni. Ko nema, jede kad može.",
+    "stsl": "Иже имать ꙗстъ єгда ꙗлъчєтъ · Иже нє имать ꙗстъ єгда можєтъ ·",
+    "originalText": "Interrogatus que hora esset comestioni congrua ait: Habenti quod comedat hora est congrua cum famescit, non habenti quando habere potest.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "walter-burley",
+        "reference": "Cap. L"
+      }
+    ]
+  },
+  {
+    "id": "mm-009080",
+    "type": "quote",
+    "sr": "Nije dobar ko se kloni zla — nego ko čini dobro.",
+    "stsl": "Нє добръ єстъ иже отъ ꙁла бѣжитъ — нъ иже добро творитъ ·",
+    "originalText": "ليس من كف عن الشر بخير، لكن من عمل بالخير فهو الخير.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "mukhtar-al-hikam",
+        "reference": "Diogen"
+      }
+    ]
+  },
+  {
+    "id": "mm-009081",
+    "type": "anecdote",
+    "year": -340,
+    "sr": "Videći slikara koji je postao lekar, reče: Dobro si uradio — jer grešku slikara vidi oko, a grešku lekara pokriva zemlja.",
+    "stsl": "Видѣвъ живописьца иже врачємъ ста · рєчє : Разборьно сьтвори — прєгрѣшєниє живописьца видитъ очи · а прєгрѣшєниє врача покрꙑваєтъ ꙁємлꙗ ·",
+    "originalText": "لما رأيت خطأ التصوير ظاهراً للعين وخطأ الطب يواريه التراب تركت التصوير ودخلت في الطب.",
+    "author": "Diogenes",
+    "sources": [
+      {
+        "name": "mukhtar-al-hikam",
+        "reference": "Diogen"
+      }
+    ]
+  },
+  {
+    "id": "mm-009082",
+    "type": "anecdote",
+    "year": -330,
+    "sr": "Aleksandar ga jednom ritnu nogom dok je spavao. Diogen mu reče: Ritanje je posao magarca, ne kralja.",
+    "stsl": "Алєксандрь єдиною ритнѫ єго ногоѭ сьпѧщаго · Диогєнъ жє рєчє : Ританиє дѣло єстъ осьла а нє цѣсарꙗ ·",
+    "originalText": "ركله برجله ثم قال له: فقد فتحت مدينتك. فقال له: إن فتح المدن لا ينكر للملوك، ولكن الركل من صنيع الحمير.",
     "author": "Diogenes",
     "sources": [
       {
