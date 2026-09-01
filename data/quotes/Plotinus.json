@@ -178,10 +178,11 @@
   },
   {
     "id": "mm-900076",
-    "type": "quote",
-    "sr": "Oni [bogovi] treba da dolaze k meni, ne ja k njima.",
-    "stsl": "Они [бози] къ мънѣ приходити длъжни сѫть · не аꙁъ къ нимъ ·",
-    "originalText": "ἐκείνους δεῖ πρὸς ἐμὲ ἔρχεσθαι, οὐκ ἐμὲ πρὸς ἐκείνους.",
+    "type": "anecdote",
+    "year": 260,
+    "sr": "Amelije je revnosno prinosio žrtve i obilazio hramove o mladinama i praznicima. Kada jednom pozva Plotina da pođe s njim, ovaj odgovori: Oni treba da dolaze k meni, ne ja k njima.",
+    "stsl": "Амелии жрьтвамъ прилѣжьнъ бѣ · въ новомѣсѧчиꙗ же и праꙁдьникꙑ храмꙑ обхождааше · єдиноѭ же Плѡтина съ собоѭ поити проси · онъ же отъвѣшта · Они къ мънѣ приходити длъжни сѫть · не аꙁъ къ нимъ ·",
+    "originalText": "φιλοθύτου δὲ γεγονότος τοῦ Ἀμελίου καὶ τὰ ἱερὰ κατὰ νουμηνίαν καὶ τὰς ἑορτὰς ἐκπεριιόντος καί ποτε ἀξιοῦντος τὸν Πλωτῖνον σὺν αὐτῷ παραλαβεῖν ἔφη· «ἐκείνους δεῖ πρὸς ἐμὲ ἔρχεσθαι, οὐκ ἐμὲ πρὸς ἐκείνους.»",
     "author": "Plotinus",
     "sources": [
       {
@@ -279,7 +280,7 @@
   },
   {
     "id": "mm-900092",
-    "type": "reported",
+    "type": "mention",
     "sr": "Plotinov cilj beše sjediniti se i približiti bogu nad svime. Dok Porfirije boravljaše uz njega, Plotin četiri puta dostiže taj cilj neizrecivim dejstvom.",
     "stsl": "Плѡтинѹ коньць и цѣль бѣ · съєдинити сѧ и приближити сѧ Богѹ надъ вьсѣми · Порфѵрію же при немь прѣбꙑваѭштю · четꙑри кратꙑ цѣли тоѧ неизреченꙑимь дѣиствомь достиже ·",
     "originalText": "τέλος γὰρ αὐτῷ καὶ σκοπὸς ἦν τὸ ἑνωθῆναι καὶ πελάσαι τῷ ἐπὶ πᾶσι θεῷ. ἔτυχε δὲ τετράκις που, ὅτε αὐτῷ συνήμην, τοῦ σκοποῦ τούτου ἐνεργείᾳ ἀρρήτῳ.",

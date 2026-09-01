@@ -85,6 +85,8 @@ interface BaseEntry {
   /** Philosophical terms detected in originalText (Greek terms in nominative form) */
   tags?: string[]
 
+  /** auto-generated tags ignored */
+  excludedTags?: string[]
 }
 
 /**

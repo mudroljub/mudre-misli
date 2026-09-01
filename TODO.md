@@ -42,7 +42,7 @@ probleme.
 ## Terminologija i UI
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
-   - načelo
    - sastojak
    - nesečivo -> nesek
-- kako isključiti mm-001582 iz taga ἀρχή
+   - zname
+- čistiti docs\DUPLIKATI_KANDIDATI.md
