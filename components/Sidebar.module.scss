@@ -160,9 +160,10 @@
 }
 
 .subgroupTitle {
-  font-size: $font-size-base;
+  font-size: $font-size-sm;
   font-weight: 600;
-  margin-bottom: $spacing-xs;
-  padding-left: $spacing-sm;
-  color: rgba($color-white, 0.35);
+  letter-spacing: 0.02em;
+  margin: 0 0 $spacing-xs;
+  padding: $spacing-xs;
+  color: rgba($color-white, 0.72);
 }

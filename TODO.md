@@ -1,5 +1,10 @@
 # TODO
 
+Obraditi autore:
+Prodika
+Hipiju
+Trasimaha
+
 ## Širiti korpus celih dela
 
 - preostali Epiktetov gnomologij (`tlg004`–`tlg005`), uz proveru preklapanja

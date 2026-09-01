@@ -20,6 +20,20 @@
     "originalText": "Πρωταγόρας",
     "birthplace": "Abdera"
   },
+  "Prodicus": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -465,
+    "died": -395,
+    "originalText": "Πρόδικος ὁ Κεῖος",
+    "birthplace": "Ceos"
+  },
+  "Hippias": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -460,
+    "died": -400,
+    "originalText": "Ἱππίας ὁ Ἠλεῖος",
+    "birthplace": "Elis"
+  },
   "Leucippus": {
     "src": "/images/authors/Pinacoteca_Querini_Stampalia_-_Leucippus_-_Luca_Giordano.jpg",
     "born": -480,

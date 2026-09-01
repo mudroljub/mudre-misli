@@ -2,7 +2,7 @@
 
 Ovaj fajl generiše `npm run build:catalog:philosophers`. Ne uređivati ga ručno.
 
-Ukupno: **262 ličnosti**; sa upotrebom izvora **53**, bez upotrebe izvora **209**.
+Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207**.
 
 ## Katalog
 
@@ -121,7 +121,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **53**, bez upotrebe izvora **209
 | Himerije | [Eunapije](eunapius/vitae-sophistarum.en.html#HIMERIUS) — #HIMERIUS | 0 |
 | [Hiparhija](http://localhost:3000/sr/authors/hipparchia-of-maroneia) | [Diogen Laertije](INDEX_LEARTIJE.md) | 5 |
 | Hipas | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
-| Hipija | [Filostrat](INDEX_FILOSTRAT.md) — 1.11 | 0 |
+| [Hipija](http://localhost:3000/sr/authors/hippias) | [Filostrat](INDEX_FILOSTRAT.md) — 1.11 | 4 |
 | Hipodrom iz Tesalije | [Filostrat](INDEX_FILOSTRAT.md) — 2.27 | 0 |
 | Hipokrat | [Burley](walter-burley/chapters-generated/045_hipokrat.md) — XLV<br>[Jovan Velški](john-of-wales/hocr/page-0469.hocr.html) — IV.5<br>[Mukhtār al-ḥikam](al-mubashshir-ibn-fatik/mukhtar-al-hikam.aljam3.ar.txt) — Ahbar Hipokrat | 0<br>0<br>0 |
 | Hipon | [Diels](hermann-diels/philosophers/26-Hippon.txt) — Diels 26, A. Leben und Lehre | 0 |
@@ -217,7 +217,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **53**, bez upotrebe izvora **209
 | Posejdonije | [Burley](walter-burley/chapters-generated/089_posejdonije.md) — LXXXIX | 0 |
 | Priscijan | [Burley](walter-burley/chapters-generated/132_priscijan.md) — CXXXII | 0 |
 | Prisk | [Eunapije](eunapius/vitae-sophistarum.en.html#PRISCUS) — #PRISCUS | 0 |
-| Prodik | [Filostrat](INDEX_FILOSTRAT.md) — 1.12 | 0 |
+| [Prodik](http://localhost:3000/sr/authors/prodicus) | [Diels](hermann-diels/band1.txt) — 77 A–B<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.12 | 3<br>4 |
 | Proeresije | [Eunapije](eunapius/vitae-sophistarum.en.html#PROHAERESIUS) — #PROHAERESIUS | 0 |
 | Proklo iz Naukratisa | [Filostrat](INDEX_FILOSTRAT.md) — 2.21 | 0 |
 | [Protagora](http://localhost:3000/sr/authors/protagoras) | [Burley](walter-burley/chapters-generated/028_protagora.md) — XXVIII<br>[Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/band1.txt) — 80 A–C<br>[Platon, Protagora](canonical-greekLit/data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml) — 317b–339a<br>[Platon, Teetet](canonical-greekLit/data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml) — 166d–167c<br>[Filostrat](INDEX_FILOSTRAT.md) — 1.10<br>[Suda](suda/lives/4_Π_2958.md) — 4.Π.2958 | 0<br>26<br>20<br>14<br>3<br>3<br>3 |

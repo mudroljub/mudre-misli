@@ -113,11 +113,14 @@ export interface Translations {
     Arpinum: string;
     Volsinii: string;
     Megara: string;
+    Ceos: string;
   };
   philosophers: {
     Anaxagoras: string;
     Gorgias: string;
     Protagoras: string;
+    Prodicus: string;
+    Hippias: string;
     Leucippus: string;
     Democritus: string;
     Eudoxus: string;
@@ -291,11 +294,14 @@ export const translations: Record<Language, Translations> = {
       Arpinum: 'Арпинъ',
       Volsinii: 'Волсинии',
       Megara: 'Мегара',
+      Ceos: 'Кеосъ',
     },
     philosophers: {
       Anaxagoras: 'Анаѯагоръ',
       Gorgias: 'Горгїꙗ',
       Protagoras: 'Прѡтагѡръ',
+      Prodicus: 'Продикъ',
+      Hippias: 'Хіппїꙗ',
       Leucippus: 'Леѹкипъ',
       Democritus: 'Дємокрітъ',
       Eudoxus: 'Еѹдоѯъ',
@@ -467,11 +473,14 @@ export const translations: Record<Language, Translations> = {
       Arpinum: 'Arpinum',
       Volsinii: 'Volsiniji',
       Megara: 'Megara',
+      Ceos: 'Keos',
     },
     philosophers: {
       Anaxagoras: 'Anaksagora',
       Gorgias: 'Gorgija',
       Protagoras: 'Protagora',
+      Prodicus: 'Prodik',
+      Hippias: 'Hipija',
       Leucippus: 'Leukip',
       Democritus: 'Demokrit',
       Eudoxus: 'Eudoks',

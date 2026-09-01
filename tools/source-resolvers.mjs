@@ -140,6 +140,7 @@ const hermannDielsAuthorFiles = {
   Empedocles: '21-Empedocles.txt',
   Anaxagoras: '46-Anaxagoras.txt',
   Protagoras: 'band1.txt#protagoras',
+  Prodicus: 'band1.txt#prodicus',
 }
 
 const createHermannDielsResolver = rootDir => {
@@ -149,13 +150,17 @@ const createHermannDielsResolver = rootDir => {
     if (cache.has(filename)) return cache.get(filename)
 
     const isProtagoras = filename === 'band1.txt#protagoras'
-    const relFile = isProtagoras
+    const isProdicus = filename === 'band1.txt#prodicus'
+    const isBandSection = isProtagoras || isProdicus
+    const relFile = isBandSection
       ? 'data/sources/hermann-diels/band1.txt'
       : `data/sources/hermann-diels/philosophers/${filename}`
     const content = await fs.readFile(path.join(rootDir, relFile), 'utf8')
     const lines = content.split(/\r?\n/)
-    const sectionStart = isProtagoras
-      ? lines.findIndex(line => /14\.\s*PROTAGORAS\./i.test(line))
+    const sectionStart = isBandSection
+      ? lines.findIndex(line => isProtagoras
+        ? /14\.\s*PROTAGORAS\./i.test(line)
+        : /77\.\s*PRODIKOS\./i.test(line))
       : 0
     const fragmentStart = lines.findIndex(
       (line, index) => index >= sectionStart && /[BΒ]\.\s*FRAGMENTE/i.test(line),
@@ -165,9 +170,11 @@ const createHermannDielsResolver = rootDir => {
           (line, index) => index >= fragmentStart && /^\s*C\.\s*IMITATION\.\s*$/i.test(line),
         )
       : -1
-    const sectionEnd = isProtagoras
+    const sectionEnd = isBandSection
       ? lines.findIndex(
-          (line, index) => index > imitationStart && /75\.\s*XENIADES\./i.test(line),
+          (line, index) => index > sectionStart && (isProtagoras
+            ? /75\.\s*XENIADES\./i.test(line)
+            : /76\.\s*THRASYMACHOS\./i.test(line)),
         )
       : lines.length
     const section = {
@@ -178,6 +185,7 @@ const createHermannDielsResolver = rootDir => {
       imitationStart,
       sectionEnd,
       isProtagoras,
+      isBandSection,
     }
     cache.set(filename, section)
     return section
@@ -195,6 +203,7 @@ const createHermannDielsResolver = rootDir => {
       imitationStart,
       sectionEnd,
       isProtagoras,
+      isBandSection,
     } = await loadAuthorSection(filename)
     if (fragmentStart < 0) return null
 
@@ -210,10 +219,10 @@ const createHermannDielsResolver = rootDir => {
     const referenceMatch = normalizedReference.match(/(?:^|\s)([ABC])\.?\s*(\d+[a-z]?)/i)
     const fragmentNumber = referenceMatch?.[2]
     let searchStart = fragmentStart
-    let searchEnd = isProtagoras ? sectionEnd : lines.length
+    let searchEnd = isBandSection ? sectionEnd : lines.length
     let referenceLine = -1
 
-    if (isProtagoras && referenceMatch) {
+    if (isBandSection && referenceMatch) {
       const sectionLetter = referenceMatch[1].toUpperCase()
       if (sectionLetter === 'A') {
         searchStart = sectionStart + 1
@@ -221,7 +230,7 @@ const createHermannDielsResolver = rootDir => {
       } else if (sectionLetter === 'B') {
         searchStart = fragmentStart
         searchEnd = imitationStart > fragmentStart ? imitationStart : sectionEnd
-      } else if (sectionLetter === 'C' && imitationStart > 0) {
+      } else if (isProtagoras && sectionLetter === 'C' && imitationStart > 0) {
         searchStart = imitationStart
         searchEnd = sectionEnd
       }
@@ -248,7 +257,7 @@ const createHermannDielsResolver = rootDir => {
 
     // Dielsov OCR često lomi reči i meša grčko i latiničko pismo.
     // Broj testimonijuma ili fragmenta zato je pouzdaniji od tekstualnog sidra.
-    if (isProtagoras && referenceLine >= 0) {
+    if (isBandSection && referenceLine >= 0) {
       return `${relFile}:${referenceLine + 1}`
     }
 
@@ -271,12 +280,12 @@ const createHermannDielsResolver = rootDir => {
     }
 
     if (!best || best.score < minimumScore) {
-      return isProtagoras && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
+      return isBandSection && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
     }
 
     const matchingTokenIndex = loweredTokens.findIndex(token => best.window.includes(token))
     if (matchingTokenIndex < 0) {
-      return isProtagoras && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
+      return isBandSection && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
     }
 
     const token = tokens[matchingTokenIndex]
@@ -291,7 +300,7 @@ const createHermannDielsResolver = rootDir => {
       return `${relFile}:${index + 1}#${anchor}`
     }
 
-    return isProtagoras && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
+    return isBandSection && referenceLine >= 0 ? `${relFile}:${referenceLine + 1}` : null
   }
 }
 

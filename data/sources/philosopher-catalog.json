@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:52:58.502Z",
+  "generatedAt": "2026-09-01T19:07:38.823Z",
   "catalog": [
     {
       "name": "Ablabije",
@@ -2264,10 +2264,10 @@
           "reference": "1.11",
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 4
         }
       ],
-      "projectAuthor": null
+      "projectAuthor": "Hippias"
     },
     {
       "name": "Hipodrom iz Tesalije",
@@ -4085,16 +4085,25 @@
       "name": "Prodik",
       "sources": [
         {
+          "source": "hermann-diels",
+          "sourceLabel": "Diels",
+          "index": "INDEX_DIELS.md",
+          "reference": "77 A–B",
+          "href": "hermann-diels/band1.txt",
+          "kind": "testimonia and fragments",
+          "entries": 3
+        },
+        {
           "source": "philostratus",
           "sourceLabel": "Filostrat",
           "index": "INDEX_FILOSTRAT.md",
           "reference": "1.12",
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
-          "entries": 0
+          "entries": 4
         }
       ],
-      "projectAuthor": null
+      "projectAuthor": "Prodicus"
     },
     {
       "name": "Proeresije",

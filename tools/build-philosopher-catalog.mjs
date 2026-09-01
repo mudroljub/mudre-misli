@@ -312,6 +312,13 @@ const buildCatalog = async () => {
         kind: 'testimonia and fragments',
       },
       {
+        name: 'Prodik',
+        source: 'hermann-diels',
+        reference: '77 A–B',
+        href: 'hermann-diels/band1.txt',
+        kind: 'testimonia and fragments',
+      },
+      {
         name: 'Protagora',
         source: 'plato-protagoras',
         reference: '317b–339a',

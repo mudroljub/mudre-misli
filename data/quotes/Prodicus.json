@@ -1,0 +1,104 @@
+[
+  {
+    "id": "mm-900196",
+    "type": "anecdote",
+    "year": -405,
+    "sr": "Prodik sa Keja stekao je toliku slavu mudrošću da je Ksenofont, kada je bio zatočen u Beotiji, našao jemca za sebe kako bi slušao Prodikovo izlaganje.",
+    "stsl": "Продикъ Кеискꙑи толикѫ славѫ мѫдростиѭ стѧжа · ꙗко Ѯенофѡнъ · въ Беотии свѧзанъ · поручьника о себѣ постави · да Продика бесѣдѹѭшта слꙑшитъ ·",
+    "originalText": "Προδίκου δὲ τοῦ Κείου ὄνομα τοσοῦτον ἐπὶ σοφίᾳ ἐγένετο, ὡς καὶ τὸν Γρύλλου Ξενοφῶντα ἐν Βοιωτοῖς δεθέντα ἀκροᾶσθαι διαλεγομένου, καθιστάντα ἐγγυητὴν τοῦ σώματος.",
+    "author": "Prodicus",
+    "sources": [
+      {
+        "name": "philostratus",
+        "reference": "1.12.1"
+      }
+    ]
+  },
+  {
+    "id": "mm-900197",
+    "type": "bio",
+    "year": -430,
+    "sr": "Kao poslanik Keja u Atini, Prodik je govorio pred većem i ostavio utisak izuzetno sposobnog čoveka, premda je bio nagluv i govorio dubokim glasom.",
+    "stsl": "Отъ Кеа къ Атинѣномъ посъланъ · Продикъ прѣдъ съвѣтомъ глагола и мѫжь вельми искусьнъ мьнѣ сѧ · аще и тѧжько слꙑшааше и глѫбокꙑмъ гласомъ глаголааше ·",
+    "originalText": "πρεσβεύων δὲ παρὰ Ἀθηναίους παρελθὼν ἐς τὸ βουλευτήριον ἱκανώτατος ἔδοξεν ἀνθρώπων, καίτοι δυσήκοον καὶ βαρὺ φθεγγόμενος.",
+    "author": "Prodicus",
+    "sources": [
+      {
+        "name": "philostratus",
+        "reference": "1.12.1"
+      }
+    ]
+  },
+  {
+    "id": "mm-900198",
+    "type": "bio",
+    "year": -420,
+    "sr": "Prodik je među mladićima tražio one plemenitog roda i iz veoma bogatih kuća, imajući čak i posrednike za taj lov; bio je slab prema novcu i predat zadovoljstvima.",
+    "stsl": "Продикъ въ юношахъ благородьнꙑꙗ и отъ богатꙑхъ домовъ искааше · и помоштьникꙑ ловитвѣ сеи имѣаше · сребролюбивъ бо бѣ и сластемъ прѣдаꙗаше сѧ ·",
+    "originalText": "ἀνίχνευε δὲ οὗτος τοὺς εὐπατρίδας τῶν νέων καὶ τοὺς ἐκ τῶν βαθέων οἴκων, ὡς καὶ προξένους ἐκτῆσθαι ταύτης τῆς θήρας, χρημάτων τε γὰρ ἥττων ἐτύγχανε καὶ ἡδοναῖς ἐδεδώκει.",
+    "author": "Prodicus",
+    "sources": [
+      {
+        "name": "philostratus",
+        "reference": "1.12.1"
+      }
+    ]
+  },
+  {
+    "id": "mm-900199",
+    "type": "works",
+    "sr": "Sastavio je govor Heraklov izbor, koji je Ksenofont docnije preneo.",
+    "stsl": "Слово Херакловъ изборъ състави · єже послѣжде Ѯенофѡнъ изложи ·",
+    "originalText": "τὴν δὲ Ἡρακλέους αἵρεσιν τὸν τοῦ Προδίκου λόγον οὗ κατʼ ἀρχὰς ἐπεμνήσθην, οὐδὲ Ξενοφῶν ἀπηξίωσε μὴ οὐχὶ ἑρμηνεῦσαι.",
+    "author": "Prodicus",
+    "sources": [
+      {
+        "name": "philostratus",
+        "reference": "1.12.1"
+      }
+    ]
+  },
+  {
+    "id": "mm-900200",
+    "type": "bio",
+    "year": -410,
+    "sr": "Izokrat je bio Prodikov učenik.",
+    "stsl": "Ісократъ ѹченикъ Продиковъ бѣ ·",
+    "originalText": "γενόμενος δὲ ἀκουστὴς Προδίκου τε τοῦ Κείου καὶ Γοργίου τοῦ Λεοντίνου καὶ Τεισίου τοῦ Συρακουσίου",
+    "author": "Prodicus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "77 A 7"
+      }
+    ]
+  },
+  {
+    "id": "mm-900201",
+    "type": "reported",
+    "sr": "Prodik je tvrdio da veština govora ne zahteva ni duge ni kratke, nego odmerene govore.",
+    "stsl": "Продикъ глаголааше · ꙗко искѹство словесъ ни дългꙑхъ ни кратъкꙑхъ · нъ мѣрьнꙑхъ словесъ трѣбѹєтъ ·",
+    "originalText": "Πρόδικος ἐγέλασεν καὶ μόνος αὐτὸς ηὑρηκέναι ἔφη ὧν δεῖ λόγων τέχνην· δεῖν δὲ οὔτε μακρῶν οὔτε βραχέων ἀλλὰ μετρίων.",
+    "author": "Prodicus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "77 A 20"
+      }
+    ]
+  },
+  {
+    "id": "mm-900202",
+    "type": "reported",
+    "sr": "Prodik je učio da su drevni ljudi zbog koristi bogovima nazvali Sunce, Mesec, reke, izvore i uopšte sve što koristi ljudskom životu.",
+    "stsl": "Продикъ ѹчааше · ꙗко дрѣвьнии польꙁꙑ ради богꙑ нарѣкѫ Слъньце и Лѹнѫ · рѣкꙑ и источьникꙑ · и вьсѣ єлика житію чловѣчьскѹ польꙁѹѭтъ ·",
+    "originalText": "Πρόδικος δὲ ὁ Κεῖος ἥλιον, φησί, καὶ σελήνην καὶ ποταμοὺς καὶ κρήνας καὶ καθόλου πάντα τὰ ὠφελοῦντα τὸν βίον ἡμῶν οἱ παλαιοὶ θεοὺς ἐνόμισαν διὰ τὴν ἀπ᾿ αὐτῶν ὠφέλειαν.",
+    "author": "Prodicus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "77 B 5"
+      }
+    ]
+  }
+]
