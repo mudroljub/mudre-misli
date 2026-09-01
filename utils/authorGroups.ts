@@ -47,7 +47,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'eleatics',
         title: 'Eleatics',
-        authors: ['Parmenides', 'Zeno of Elea', 'Melissus']
+        authors: ['Parmenides', 'Zeno of Elea', 'Melissus of Samos']
       },
       {
         titleKey: 'atomists',

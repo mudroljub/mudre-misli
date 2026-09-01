@@ -174,7 +174,7 @@ export interface Translations {
     'Musonius Rufus': string;
     Lucretius: string;
     Philolaus: string;
-    Melissus: string;
+    'Melissus of Samos': string;
     Iamblichus: string;
     MarcusAurelius: string;
   };
@@ -356,7 +356,7 @@ export const translations: Record<Language, Translations> = {
       Lucretius: 'Лѹкреции',
       MarcusAurelius: 'Маркъ Аврилии',
       Philolaus: 'Филолаи',
-      Melissus: 'Мєлисъ',
+      'Melissus of Samos': 'Мєлисъ',
       Iamblichus: 'Їамблихъ',
     },
   },
@@ -535,7 +535,7 @@ export const translations: Record<Language, Translations> = {
       Lucretius: 'Lukrecije',
       MarcusAurelius: 'Marko Aurelije',
       Philolaus: 'Filolaj',
-      Melissus: 'Melis',
+      'Melissus of Samos': 'Melis',
       Iamblichus: 'Jamblihos',
     },
   },

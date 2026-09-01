@@ -178,7 +178,7 @@ Ukupno: **262 ličnosti**; sa upotrebom izvora **55**, bez upotrebe izvora **207
 | [Marko Aurelije](http://localhost:3000/sr/authors/marcusaurelius) | [Grčki korpus](canonical-greekLit/data/tlg0562) — tlg0562; 1 delo | 0 |
 | Marko iz Vizantiona | [Filostrat](INDEX_FILOSTRAT.md) — 1.24 | 0 |
 | Marko Nerije | [Burley](walter-burley/chapters-generated/112_marko-nerije.md) — CXII | 0 |
-| [Melis](http://localhost:3000/sr/authors/melissus) | [Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/20-Melissus.txt) — Diels 20, A. Leben und Lehre | 3<br>4 |
+| [Melis](http://localhost:3000/sr/authors/melissus-of-samos) | [Diogen Laertije](INDEX_LEARTIJE.md)<br>[Diels](hermann-diels/philosophers/20-Melissus.txt) — Diels 20, A. Leben und Lehre | 3<br>4 |
 | Menandar | [Burley](walter-burley/chapters-generated/076_menandar.md) — LXXVI | 0 |
 | Menedem Eritrejski | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
 | Menip | [Diogen Laertije](INDEX_LEARTIJE.md) | 0 |
