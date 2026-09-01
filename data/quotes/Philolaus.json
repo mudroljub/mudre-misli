@@ -1,0 +1,118 @@
+[
+  {
+    "id": "mm-009011",
+    "type": "bio",
+    "year": -470,
+    "sr": "Filolaj iz Krotona beše pitagorejac.",
+    "stsl": "Филолаи отъ Кротона бѣ пѷтагореицъ ·",
+    "originalText": "Φιλόλαος Κροτωνιάτης Πυθαγορικός.",
+    "author": "Philolaus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.83"
+      }
+    ]
+  },
+  {
+    "id": "mm-009012",
+    "type": "bio",
+    "year": -450,
+    "sr": "Filolaj je prvi od poznatih rekao da se Zemlja kreće kružno; neki to pripisuju Hiketasu Sirakušaninu.",
+    "stsl": "Филолаи пръвꙑи отъ вѣдомꙑхъ рєчє ꙗко ꙁємлꙗ движєтъ сѧ по кроугѹ · нѣции же сиє Икєтасѹ Сираꙁоусьскомѹ приписѹѭтъ ·",
+    "originalText": "τὴν γῆν κινεῖσθαι κατὰ κύκλον πρῶτος εἶπεν· οἱ δ' Ἱκέταν τὸν Συρακόσιόν φασιν.",
+    "author": "Philolaus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.85"
+      }
+    ]
+  },
+  {
+    "id": "mm-009013",
+    "type": "bio",
+    "year": -445,
+    "sr": "Platon je, po nekim izvorima, kupivši tri pitagorejske knjige od Filolajeve rodbine za sto mina, odatle prepisao Timaja.",
+    "stsl": "Платонъ по нѣкꙑихъ три пѷтагорєискꙑꙗ книгꙑ купивъ · отъ Филолаєвꙑхъ сродниковъ за сто мьнъ · отъ нихъ Тімаиа съписавъ ·",
+    "originalText": "λέγουσί τινες ὧν ἐστι καὶ Σάτυρος, ὅτι Δίων ἐπέστειλεν εἰς Σικελίαν ὠνήσασθαι τρία βιβλία Πυθαγορικὰ παρὰ Φιλολάου μνῶν ἑκατόν.",
+    "author": "Philolaus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.85"
+      }
+    ]
+  },
+  {
+    "id": "mm-009014",
+    "type": "anecdote",
+    "year": -450,
+    "sr": "Kada su Kilonijci zapalili kuću pitagorejaca u Metapontu, Filolaj je mladošću i lakoćom probio plamen i pobegao u Lukane.",
+    "stsl": "Єгда Кꙑлонїиши домъ пѷтагорєицємь въ Мєтапонтѣ запалихѫ · Филолаи младостиѭ и лакостиѭ своєѭ пламєнь прободє и въ Лѹканꙑ бѣжа ·",
+    "originalText": "τοῖς δ' ἔτι συνεστῶσιν ἐν Μεταποντίῳ πῦρ οἱ Κυλώνειοι περιέβαλον καὶ διέφθειραν ἐν ταὐτῷ πάντας πλὴν Φιλολάου καὶ Λύσιδος νέων ὄντων ἔτι ῥώμῃ καὶ κουφότητι διωσαμένων τὸ πῦρ, Φιλόλαος μὲν εἰς Λευκανοὺς φυγὼν ἐκεῖθεν ἀνεσώθη.",
+    "author": "Philolaus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.85"
+      }
+    ]
+  },
+  {
+    "id": "mm-009015",
+    "type": "works",
+    "sr": "Napisao jednu knjigu O prirodi, čiji je početak: Priroda u svemiru…",
+    "stsl": "Єдинѫ книгѫ О єстествѣ написа · єꙗже начѧло · Єстество въ вьсємирѣ…",
+    "originalText": "γέγραφε βιβλίον ἕν· τοῦτόν φησι Δημήτριος ἐν Ὁμωνύμοις πρῶτον ἐκδοῦναι τῶν Πυθαγορικῶν τὰ Περὶ φύσεως, ὧν ἀρχὴ ἥδε· «ἁ φύσις δ' ἐν τῷ κόσμῳ…»",
+    "author": "Philolaus",
+    "sources": [
+      {
+        "name": "diogenes-laertius",
+        "reference": "VIII.85"
+      }
+    ]
+  },
+  {
+    "id": "mm-009016",
+    "type": "quote",
+    "sr": "Priroda u svemiru složena je iz neograničenih i ograničenih; tako je sav svet i sve što je u njemu.",
+    "stsl": "Єстество въ вьсємирѣ съложєно єстъ иꙁъ бєꙁмѣрьнихъ и мѣрьнихъ · тако и вьсь свѣтъ и вьсѧ ꙗже сѫть вь нємь ·",
+    "originalText": "ἁ φύσις δ' ἐν τῷ κόσμῳ ἁρμόχθη ἐξ ἀπείρων τε καὶ περαινόντων, καὶ ὅλος ὁ κόσμος καὶ τὰ ἐν αὐτῷ πάντα.",
+    "author": "Philolaus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "44 B 1"
+      }
+    ]
+  },
+  {
+    "id": "mm-009017",
+    "type": "quote",
+    "sr": "Sve poznato ima broj; jer nije moguće ništa misliti niti spoznati bez broja.",
+    "stsl": "Вьсѧко ꙁнаємоє число имать · ꙗко нѣсть възможьно ничьсоже помꙑслити ни поꙁнати бєꙁъ числа ·",
+    "originalText": "καὶ πάντα γα μὰν τὰ γιγνωσκόμενα ἀριθμὸν ἔχοντι· οὐ γὰρ οἷόν τε οὐδὲν οὔτε νοηθῆμεν οὔτε γνωσθῆμεν ἄνευ τούτου.",
+    "author": "Philolaus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "44 B 4"
+      }
+    ]
+  },
+  {
+    "id": "mm-009018",
+    "type": "quote",
+    "sr": "Broj ima dve sebi svojstvene vrste: neparnu i parnu. Treća vrsta nastaje iz mešanja obe: parno-neparna.",
+    "stsl": "Число двѣ сєбѣ своиствьнꙑ врьсти имать · нєчьтьнѫ и чьтьнѫ · Трєтиꙗ же врьсть отъ съмѣшєниꙗ обоихъ раждаєтъ сѧ · чьтьно-нєчьтьна ·",
+    "originalText": "ἀριθμοῦ δέ ἐντι δύο μὲν ἴδια εἴδη, περισσὸν καὶ ἄρτιον, τρίτον δὲ ἀπ' ἀμφοτέρων μιχθέντων ἀρτιοπέριττον.",
+    "author": "Philolaus",
+    "sources": [
+      {
+        "name": "hermann-diels",
+        "reference": "44 B 5"
+      }
+    ]
+  }
+]

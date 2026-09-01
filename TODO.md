@@ -1,15 +1,5 @@
 # TODO
 
-## Kompletno obraditi filozofe
-
-Proširiti nekorištenim lokalnim izvorima (vidi INDEX_CENTRAL.md):
-Uneti nove autore u projekat:
-- Filolaj
-- Melis
-- Jamblih
-- Filon Aleksandrijski
-- Sekst Empirik
-
 ## Širiti korpus celih dela
 
 Najprirodniji sledeći paketi:

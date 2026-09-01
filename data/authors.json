@@ -390,5 +390,40 @@
     "died": -55,
     "originalText": "Titus Lucretius Carus",
     "birthplace": "Rome"
+  },
+  "Philolaus": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -470,
+    "died": -385,
+    "originalText": "Φιλόλαος",
+    "birthplace": "Croton"
+  },
+  "Melissus": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -480,
+    "died": -420,
+    "originalText": "Μέλισσος",
+    "birthplace": "Samos"
+  },
+  "Iamblichus": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": 245,
+    "died": 325,
+    "originalText": "Ἰάμβλιχος",
+    "birthplace": "Chalcis"
+  },
+  "Philo": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": -20,
+    "died": 50,
+    "originalText": "Φίλων ὁ Ἀλεξανδρεύς",
+    "birthplace": "Alexandria"
+  },
+  "SextusEmpiricus": {
+    "src": "/images/authors/unknown-author.svg",
+    "born": 160,
+    "died": 210,
+    "originalText": "Σέξτος Ἐμπειρικός",
+    "birthplace": "unknown"
   }
 }
