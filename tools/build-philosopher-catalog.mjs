@@ -55,6 +55,18 @@ const aliasEntries = {
   'Ariston sa Hiosa': 'Aristo iz Hija',
 }
 
+// Ista kratka imena u različitim izvorima ne označavaju nužno istu osobu.
+// Ključ je `${source}:${name}` kako opšti aliasi ne bi spajali homonime.
+const sourcePersonAliases = {
+  'walter-burley:Aristid': 'Aristid Pravedni',
+  'philostratus:Aristid': 'Elije Aristid',
+  'walter-burley:Polemon': 'Polemon iz Atine',
+  'diogenes-laertius:Poleman': 'Polemon iz Atine',
+  'philostratus:Polemon': 'Polemon iz Laodikije',
+  'diogenes-laertius:Eshine': 'Eshin Sokratovac',
+  'philostratus:Eshin': 'Eshin govornik',
+}
+
 const sourceUsageAliases = {
   'greek-corpus': [
     'aristotle',
@@ -111,6 +123,9 @@ const parseBurley = async () => {
   const rows = []
   const pattern = /^\|\s*([IVXLCDM]+)\s*\|\s*([^|]+?)\s*\|/gm
   for (const match of index.matchAll(pattern)) {
+    // Generisani odeljak XXXV trenutno sadrži Antistena, ne Ešina.
+    // Ne indeksirati ga pod pogrešnom osobom dok se segmentacija OCR-a ne popravi.
+    if (match[1] === 'XXXV' && match[2].trim() === 'Eshin') continue
     const file = generatedByRoman.get(match[1])
     if (!file) throw new Error(`Missing generated Burley chapter ${match[1]}`)
     rows.push({
@@ -272,8 +287,9 @@ const loadQuoteStats = async serbianNames => {
   return stats
 }
 
-const canonicalize = (name, translatedNames) => {
-  const alias = aliasEntries[name] ?? name
+const canonicalize = (name, source, translatedNames) => {
+  const sourceAlias = sourcePersonAliases[`${source}:${name}`]
+  const alias = sourceAlias ?? aliasEntries[name] ?? name
   const normalizedAlias = normalize(alias)
   const translated = [...translatedNames.values()].find(value => normalize(value) === normalizedAlias)
   return translated ?? alias
@@ -326,7 +342,7 @@ const buildCatalog = async () => {
 
   const people = new Map()
   for (const row of sourceRows) {
-    const name = canonicalize(row.name, serbianNames)
+    const name = canonicalize(row.name, row.source, serbianNames)
     const key = normalize(name)
     const person = people.get(key) ?? { name, sources: [] }
     const usageSources = sourceUsageAliases[row.source] ?? [row.source]

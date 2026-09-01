@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T17:37:49.183Z",
+  "generatedAt": "2026-09-01T18:52:58.502Z",
   "catalog": [
     {
       "name": "Ablabije",
@@ -653,7 +653,7 @@
       "projectAuthor": null
     },
     {
-      "name": "Aristid",
+      "name": "Aristid Pravedni",
       "sources": [
         {
           "source": "walter-burley",
@@ -661,15 +661,6 @@
           "index": "INDEX_BURLEY.md",
           "reference": "XLI",
           "href": "walter-burley/chapters-generated/041_aristid.md",
-          "kind": "biography",
-          "entries": 0
-        },
-        {
-          "source": "philostratus",
-          "sourceLabel": "Filostrat",
-          "index": "INDEX_FILOSTRAT.md",
-          "reference": "2.9",
-          "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
           "entries": 0
         }
@@ -1199,7 +1190,7 @@
           "reference": "L",
           "href": "walter-burley/chapters-generated/050_diogen-iz-sinope.md",
           "kind": "biography",
-          "entries": 8
+          "entries": 13
         },
         {
           "source": "diogenes-laertius",
@@ -1308,6 +1299,21 @@
           "sourceLabel": "Filostrat",
           "index": "INDEX_FILOSTRAT.md",
           "reference": "2.31",
+          "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Elije Aristid",
+      "sources": [
+        {
+          "source": "philostratus",
+          "sourceLabel": "Filostrat",
+          "index": "INDEX_FILOSTRAT.md",
+          "reference": "2.9",
           "href": "INDEX_FILOSTRAT.md",
           "kind": "biography",
           "entries": 0
@@ -1514,32 +1520,29 @@
       "projectAuthor": null
     },
     {
-      "name": "Eshin",
+      "name": "Eshin govornik",
       "sources": [
-        {
-          "source": "walter-burley",
-          "sourceLabel": "Burley",
-          "index": "INDEX_BURLEY.md",
-          "reference": "XXXV",
-          "href": "walter-burley/chapters-generated/035_eshin.md",
-          "kind": "biography",
-          "entries": 0
-        },
-        {
-          "source": "diogenes-laertius",
-          "sourceLabel": "Diogen Laertije",
-          "index": "INDEX_LEARTIJE.md",
-          "reference": null,
-          "href": "INDEX_LEARTIJE.md",
-          "kind": "biography",
-          "entries": 0
-        },
         {
           "source": "philostratus",
           "sourceLabel": "Filostrat",
           "index": "INDEX_FILOSTRAT.md",
           "reference": "1.18",
           "href": "INDEX_FILOSTRAT.md",
+          "kind": "biography",
+          "entries": 0
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Eshin Sokratovac",
+      "sources": [
+        {
+          "source": "diogenes-laertius",
+          "sourceLabel": "Diogen Laertije",
+          "index": "INDEX_LEARTIJE.md",
+          "reference": null,
+          "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 0
         }
@@ -3941,7 +3944,7 @@
       "projectAuthor": null
     },
     {
-      "name": "Polemon",
+      "name": "Polemon iz Atine",
       "sources": [
         {
           "source": "walter-burley",
@@ -3960,7 +3963,13 @@
           "href": "INDEX_LEARTIJE.md",
           "kind": "biography",
           "entries": 0
-        },
+        }
+      ],
+      "projectAuthor": null
+    },
+    {
+      "name": "Polemon iz Laodikije",
+      "sources": [
         {
           "source": "philostratus",
           "sourceLabel": "Filostrat",
