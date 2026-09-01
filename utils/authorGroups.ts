@@ -133,7 +133,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'romanStoics',
         title: 'Roman Stoics',
-        authors: ['Seneca the Younger', 'Gaius Musonius Rufus', 'Epictetus']
+        authors: ['Seneca the Younger', 'Gaius Musonius Rufus', 'Epictetus', 'Marcus Aurelius']
       },
       {
         titleKey: 'romanEclectics',
@@ -151,13 +151,6 @@ export const authorGroups: AuthorGroup[] = [
     titleKey: 'lateAntiquity',
     title: 'Late Antiquity',
     period: '2-3. vek',
-    authors: ['Plotinus', 'Iamblichus'],
-    subgroups: [
-      {
-        titleKey: 'romanStoics',
-        title: 'Roman Stoics',
-        authors: ['Marcus Aurelius']
-      }
-    ]
+    authors: ['Plotinus', 'Iamblichus']
   }
 ];

@@ -1,4 +1,4 @@
-<!-- anchor:309a -->— Odakle si, Sokrate? Jasno je, valjda — iz lova na Alkibijadovu lepotu. A i ja sam ga nedavno video — izgleda mi kao pravi muškarac već, s bradom. Kakav je prema tebi, momak?
+<!-- anchor:309a -->— Odakle ti, Sokrate? Jasno je, valjda — iz lova na Alkibijadovu lepotu. A i ja sam ga nedavno video — izgleda mi kao pravi muškarac već, s bradom. Kakav je prema tebi, momak?
 
 <!-- anchor:309b -->— Onaj koji kaže da je najlepša mladost ona s prvim dlačicama, što Alkibijad sada ima. Pa kako si sad? Dolaziš li od njega?
 
