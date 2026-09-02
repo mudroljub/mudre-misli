@@ -72,6 +72,26 @@
   display: inline-block;
 }
 
+.tagLine {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tag {
+  font-size: $font-size-sm;
+  color: $color-primary;
+  text-decoration: none;
+  border: 1px solid $color-border;
+  border-radius: $border-radius-sm;
+  padding: 0.1rem 0.5rem;
+
+  &:hover {
+    background: $color-surface-muted;
+  }
+}
+
 .reader {
   width: min(100%, 72ch);
   margin: 0 auto;

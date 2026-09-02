@@ -80,6 +80,16 @@ export default function QuotePageClient({
               ))}
             </p>
 
+            {quote.tags && quote.tags.length > 0 && (
+              <p className={styles.tagLine}>
+                {quote.tags.map((tag) => (
+                  <Link key={tag} href={`/${language}/tags/${encodeURIComponent(tag)}`} className={styles.tag}>
+                    {tag}
+                  </Link>
+                ))}
+              </p>
+            )}
+
             <Link href={`/${language}/authors/${authorSlugs[authorKey] ?? authorKey}`} className={styles.authorLink}>
               {t.gotoAuthor}
             </Link>
@@ -132,6 +142,16 @@ export default function QuotePageClient({
               </span>
             ))}
           </p>
+
+          {quote.tags && quote.tags.length > 0 && (
+            <p className={styles.tagLine}>
+              {quote.tags.map((tag) => (
+                <Link key={tag} href={`/${language}/tags/${encodeURIComponent(tag)}`} className={styles.tag}>
+                  {tag}
+                </Link>
+              ))}
+            </p>
+          )}
 
           <Link href={`/${language}/authors/${authorSlugs[authorKey] ?? authorKey}`} className={styles.authorLink}>
             {t.gotoAuthor}
