@@ -17,5 +17,4 @@
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
    - zname
-   - zevs, nebo
    - demon

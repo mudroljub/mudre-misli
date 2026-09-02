@@ -1,68 +1,80 @@
-<!-- anchor:309a -->— Odakle ti, Sokrate? Jasno je, valjda — iz lova na Alkibijadovu lepotu. A i ja sam ga nedavno video — izgleda mi kao pravi muškarac već, s bradom. Kakav je prema tebi, momak?
+<!-- anchor:309a -->Lica · Sokrat i neimenovani prijatelj; u Sokratovom pripovedanju: Hipokrat, Protagora, Hipija, Prodik, Kalija, Alkibijad i Kritija.
 
-<!-- anchor:309b -->— Onaj koji kaže da je najlepša mladost ona s prvim dlačicama, što Alkibijad sada ima. Pa kako si sad? Dolaziš li od njega?
+Prijatelj · Odakle dolaziš, Sokrate? Ili je jasno da dolaziš iz lova na Alkibijadovu lepotu? Kada sam ga pre neki dan video, učinio mi se još lep, ali ipak već čovek — među nama rečeno, Sokrate — i brada mu već raste.
 
-— Dobro mi se čini, pogotovo danas — mnogo je rekao u moju odbranu. I upravo dolazim od njega. Ali hoću ti nešto čudno reći: uz njega nisam obraćao pažnju i često bih ga zaboravljao.
+Sokrat · Pa šta onda? Zar nisi Homerov poštovalac,
 
-<!-- anchor:309c -->— Kako je to moguće između tebe i njega? Zar si sreo nekog lepšeg u ovom gradu?
+<!-- anchor:309b -->koji kaže da je najdraža mladost onoga kome se brada tek javlja? A Alkibijad je sada upravo u tom dobu.
 
-— I mnogo lepšeg.
+Prijatelj · A kako sada stoje stvari? Dolaziš li od njega? Kako se mladić drži prema tebi?
 
-— Šta kažeš? Domaćeg ili stranca?
+Sokrat · Dobro, učinilo mi se, a naročito danas: mnogo je govorio u moju odbranu i pomagao mi. Upravo od njega i dolazim. Ali hoću da ti kažem nešto neobično: premda je bio prisutan, nisam na njega obraćao pažnju, nego sam ga često sasvim zaboravljao.
 
-— Stranca.
+<!-- anchor:309c -->Prijatelj · Šta se to toliko važno dogodilo između vas dvojice? Nisi valjda u ovom gradu naišao na nekoga lepšeg?
 
-— Odakle?
+Sokrat · I te kako lepšeg.
 
-— Iz Abdere.
+Prijatelj · Šta kažeš? Građanina ili stranca?
 
-— I toliko ti se lep činilo taj stranac, lepši od Klinijinog sina?
+Sokrat · Stranca.
 
-— A kako ne bi, blaženi, najmudriji izgledao lepši?
+Prijatelj · Odakle?
 
-— Pa zar si naišao na nekog mudrog, Sokrate?
+Sokrat · Iz Abdere.
 
-<!-- anchor:309d -->— Na najmudriji od svih sadašnjih, ako ti se čini da je Protagora najmudriji.
+Prijatelj · I taj ti se stranac učinio toliko lepim da je za tebe lepši od Klinijinog sina?
 
-— Što kažeš! Protagora je stigao u grad?
+Sokrat · Kako da se, dragi moj, najmudriji ne učini i lepšim?
 
-— Već treći dan.
+Prijatelj · Dakle, Sokrate, dolaziš nam pošto si sreo nekog mudraca?
 
-— I upravo si ga posetio pa dolaziš?
+<!-- anchor:309d -->Sokrat · I to najmudrijeg među današnjim ljudima — ako i ti smatraš da je Protagora najmudriji.
 
-<!-- anchor:310a -->— Da, mnogo sam i govorio i slušao. Pa zašto nam ne bi ispričao o susretu, ako te ništa ne sprečava — sedi ovde, pošalji dečaka.
+Prijatelj · Šta kažeš! Protagora je u gradu?
 
-— Svakako, i biću zahvalan ako slušate.
+Sokrat · Već treći dan.
 
-— I mi tebi, ako budeš govorio.
+Prijatelj · I sada dolaziš sa susreta s njim?
 
-— Dvostruka zahvalnost. Pa slušajte. Prošle noći, još u dubokoj zori, Hipokrat, sin Apolodorov, brat Fasonov, zakuca mi jako na vrata i kad mu otvorih, uđe požurno i reče glasno:
+<!-- anchor:310a -->Sokrat · Da; mnogo sam i govorio i slušao.
 
-<!-- anchor:310b -->— Sokrate, spavaš li ili si budan?
+Prijatelj · Zašto nam onda ne bi ispričao o tom susretu, ako te ništa ne sprečava? Sedi ovde, a dečak neka ustane.
 
-Prepoznah mu glas i rekoh: To je Hipokrat. Ima li šta novo?
+Sokrat · Vrlo rado; biću vam zahvalan ako me saslušate.
 
-— Samo dobro, reče.
+Prijatelj · A i mi tebi, ako budeš pripovedao.
 
-— Reci mi, rekoh.
+Sokrat · Onda će zahvalnost biti obostrana. Slušajte, dakle.
 
-— Protagora je stigao! reče stojeći kraj mene.
+Prošle noći, još pre svitanja, Hipokrat, Apolodorov sin i Fasonov brat, svom snagom je štapom udarao po mojim vratima. Čim mu je neko otvorio, žurno je ušao i povikao:
 
-— Znam, rekoh, još prekjuče. Je li kasno?
+<!-- anchor:310b -->Hipokrat · Sokrate, jesi li budan ili spavaš?
 
-— Navečer, reče.
+Sokrat · Prepoznavši mu glas, rekoh: „To je Hipokrat. Ne donosiš valjda kakvu novost?”
 
-<!-- anchor:310c -->Tada napipah klupu i sedoh, pa rekoh: Kako kasno si došao. Šta si radio?
+Hipokrat · „Ništa osim dobrih vesti”, odgovori.
 
-— Vratio sam se navečer iz Enoe, reče. Pobegao mi je Satyros, rob moj. Hteo sam da ti kažem da ću ga goniti, ali me je nešto omelo. Kad sam se vratio i večerao i hteo da legnem, brat mi kaza da je stigao Protagora. Htedoh odmah k tebi, ali se činilo prekasno. Čim me san napusti i odmorih se dovoljno, ustah odmah i dođoh ovde.
+Sokrat · „Dobro onda”, rekoh. „Šta je posredi i zašto si došao ovako rano?”
 
-<!-- anchor:310d -->Ja prepoznah po njemu odlučnost i uzbuđenost i rekoh: Šta ti je do toga? Zar ti je Protagora učinio kakvu nepravdu?
+Hipokrat · „Protagora je stigao!”, reče stojeći kraj mene.
 
-On se nasmeja i reče: Da, Sokrate, jedino što je on jedini mudar, a mene ne čini mudrim.
+Sokrat · „Još prekjuče”, rekoh. „Zar si ti tek sada saznao?”
 
-— Ali, tako ti Zevsa, reče, ako mu daš novac i ubediš ga, on će te učiniti mudrim.
+Hipokrat · „Tako mi bogova, tek sinoć”, reče.
 
-<!-- anchor:310e -->— Da Zevs i bogovi samo to bude! reče. Ja bih to potrošio i na novac od kuće i prijatelja. Upravo zbog toga dolazim k tebi — da mi se zauzmeš kod njega. Ja sam mlad i nikad nisam video ni čuo Protagoru. Bio sam dete kad je pre dolazio. Ali svi ga hvale, Sokrate, i kažu da je najmudriji u govoru. Pa zašto ne idemo odmah k njemu, da ga zatečemo kod kuće? Stanuje, čuh, kod Kalije Hiponikova sina. Hajdemo!
+<!-- anchor:310c -->Uto napipa ležaj, sede kraj mojih nogu i reče:
+
+Hipokrat · „Sinoć, i to veoma kasno, kada sam se vratio iz Enoje. Moj rob Satir je, znaš, pobegao. Nameravao sam da ti kažem da ću poći za njim, ali sam zbog nečega drugog zaboravio. Kada sam se vratio, pa smo večerali i spremali se na počinak, brat mi je tada kazao da je Protagora stigao. Pokušao sam još tada da krenem k tebi, ali mi se učinilo da je noć već odviše odmakla. Čim me je san oslobodio umora, ustao sam i odmah došao ovamo.”
+
+<!-- anchor:310d -->Poznavao sam njegovu smelost i uzbuđenost, pa ga upitah:
+
+Sokrat · „A šta je tebi do toga? Nije ti valjda Protagora učinio kakvu nepravdu?”
+
+Hipokrat · On se nasmeja. „Tako mi bogova, Sokrate, jeste: on je jedini mudar, a mene ne čini mudrim.”
+
+Sokrat · „Ali, tako mi Zevsa”, rekoh, „ako mu daš novac i privoliš ga, učiniće i tebe mudrim.”
+
+<!-- anchor:310e -->Hipokrat · „Kamo sreće, Zevse i svi bogovi, da je samo do toga! Ne bih štedeo ni svoj novac ni novac svojih prijatelja. Upravo sam zato i došao k tebi: da ti razgovaraš s njim u moje ime. Ja sam premlad, a Protagoru nikada nisam ni video ni čuo; bio sam još dete kada je prošli put boravio ovde. Ali svi ga, Sokrate, hvale i kažu da je u govoru najmudriji. Zašto odmah ne pođemo k njemu, dok ga još zateknemo kod kuće? Odseo je, kako čujem, kod Kalije, Hiponikovog sina. Hajdemo!”
 
 <!-- anchor:311a -->— Ne idimo još, rekoh ja, rano je. Hajdemo unutra i odmorimo se u trijemu dok ne svane, a onda idemo. Protagora ionako boravi kod kuće i naći ćemo ga. Pa dok čekamo i govorimo, razmisli: šta tražiš od Protagore? Kao što bi otišao Fidiasu ili Polikletu i platio im novac, korist bi bila jasna — postao bi vajar ili slikar. A Protagori ćeš platiti za sebe — i šta? Čime ćeš izaći od njega?
 
@@ -944,51 +956,199 @@ Protagora se pokajao — ali ne htede to javno reći — i reče Sokratu: Buduć
 
 <!-- anchor:357b -->— Rekoh: Pa — sad smo dokazali što sam hteo. Protagora reče: Da, izgleda. Rekoh: Ali ti si na početku tvrdio da se vrlina može naučiti — a sad kažeš da nije znanje.
 
-<!-- anchor:357c -->— Rekoh: Pa — tok razgovora ismejava nas obojicu.
+<!-- anchor:357c -->odgovor na pitanje koje ste nam postavili. Pitali ste nas, ako se sećate, dok smo se slagali da ništa nije jače od znanja i da znanje, gde god se nađe, uvek nadvladava i zadovoljstvo i sve ostalo. Vi ste potom tvrdili da zadovoljstvo često savlada čak i čoveka koji zna. Kada mi na to nismo pristali, upitali ste nas: „Protagoro i Sokrate, ako to nije biti savladan zadovoljstvom,
 
-<!-- anchor:357d -->— Jer ti dokazuješ da se vrlina može naučiti, ali i da nije znanje — što znači da se ne može naučiti. A ja dokazujem da je znanje — što znači da se može naučiti. Zamenili smo pozicije.
+<!-- anchor:357d -->šta je onda i kako vi to nazivate? Recite nam.” Da smo vam tada odmah odgovorili: „Neznanje”, vi biste nam se nasmejali. Ali ako nam se sada budete smejali, smejaćete se i sami sebi. Jer priznali ste da ljudi greše zbog nedostatka znanja kada pogrešno biraju zadovoljstva i bolove, odnosno dobro i zlo; i to ne samo zbog nedostatka znanja uopšte nego upravo zbog nedostatka onog znanja za koje ste se složili da je umeće merenja. A i sami svakako znate
 
-<!-- anchor:357e -->— Rekoh: Pa — da se razgovor nije tako zakotrljao i zapleo — bio bi bolji razgovor. A sada — bolje da nastavimo kad se sretnemo.
+<!-- anchor:357e -->da se pogrešno delo učinjeno bez znanja čini iz neznanja. Prema tome, biti savladan zadovoljstvom nije ništa drugo do najveće neznanje — a upravo njega Protagora, Prodik i Hipija tvrde da leče. Vi, međutim, pošto mislite da je to nešto drugo a ne neznanje, niti sami odlazite ovim sofistima, učiteljima tih stvari, niti im šaljete svoju decu, jer tvrdite da se to ne može naučiti. Čuvajući svoj novac i ne dajući ga njima,
 
-<!-- anchor:358a -->— Rekoh: Dobro — pa — rastajemo se sa sporazumom da razgovaramo i drugom prigodom. Protagora reče: I meni je drago, Sokrate. Rekoh: Jedan zaključak — ko živi dobro živi ugodno?
+<!-- anchor:358a -->loše prolazite i u privatnim i u javnim poslovima.” Tako bismo, dakle, odgovorili ljudima.
 
-<!-- anchor:358b -->— Protagora reče: Da. Rekoh: Pa — vrlina je uslov ugodnog života. Protagora reče: Da. Rekoh: Pa — znanje je uslov ugodnog života. Protagora reče: Jeste.
+Sokrat · A sada pitam i vas, Hipijo i Prodiku, zajedno s Protagorom — jer želim da svi odgovorite — čini li vam se da govorim istinu ili ne?
 
-<!-- anchor:358c -->— Rekoh: Pa — ko je dobar čovek — živi ugodno? Protagora reče: Da. Rekoh: Pa — ko je loš — živi neugodno? Protagora reče: Da.
+Svi su izjavili da je rečeno potpuno istinito.
 
-<!-- anchor:358d -->— Rekoh: Pa — niko ne greši voljno nego iz neznanja. Protagora reče: Slažem se. Rekoh: Pa — niko ne čini loše voljno. Protagora reče: Da.
+Sokrat · Slažete se, dakle, da je prijatno dobro, a bolno zlo. Molim samo Prodika da nas poštedi razlikovanja reči:
 
-<!-- anchor:358e -->— Rekoh: Pa — kazna ne bi trebala biti osveta nego popravljanje. Protagora reče: Mislim da je tako.
+<!-- anchor:358b -->bilo da kažeš „prijatno”, „ugodno”, „radosno”, ili kako god ti, vrli Prodiku, želiš da nazoveš takve stvari, odgovori na smisao moga pitanja.
 
-<!-- anchor:359a -->— Rekoh: Pa — kazna je opravdana samo ako popravlja ili sprečava druge. Protagora reče: Slažem se. Rekoh: Pa — u tom smislu je i poučavanje vrlini opravdano.
+Prodik se nasmeja i pristade, a tako učiniše i ostali.
 
-<!-- anchor:359b -->— Protagora reče: Da. Rekoh: Pa — vrlina se može naučiti jer je znanje. Protagora reče: Da, prihvatam.
+Sokrat · A šta kažete na ovo, prijatelji? Nisu li časna sva dela kojima je cilj da živimo bez bola i prijatno? I nije li časno delo ujedno dobro i korisno?
 
-<!-- anchor:359c -->— Rekoh: Pa — a sva ova pitanja dovela su nas do zaključka koji je ispravan. Protagora reče: I meni se čini, Sokrate.
+Složiše se.
 
-<!-- anchor:359d -->— Rekoh: Pa — hvala ti na razgovoru, Protagora. Protagora reče: I ja tebi — jer sam naučio nešto.
+Sokrat · Ako je, dakle, prijatno dobro, onda niko ko zna ili veruje da može učiniti nešto drugo, bolje od onoga što upravo čini,
 
-<!-- anchor:359e -->— Rekoh: Pa — nastavi razgovor i drugom prigodom. Protagora reče: Hoću.
+<!-- anchor:358c -->neće činiti ovo prvo kada mu je moguće ono bolje. A podleći samome sebi nije ništa drugo do neznanje, dok vladati sobom nije ništa drugo do mudrost.
 
-<!-- anchor:360a -->— I tako završi razgovor. Ja ostadoh i razmišljah. I pomislih — kako je moguće da smo razmenili mesta? Protagora je dokazivao da se vrlina može naučiti — a sad pokazuje da nije znanje. Ja pak tvrdio da se ne može — a sad kažem da je znanje.
+Svi se složiše.
 
-<!-- anchor:360b -->— I tok razgovora, ako mu je glava mudrost, a telo ostalo — dokazuje da je vrlina znanje. Možda bi vrlina bila poučiva ako je samo znanje.
+Sokrat · Zar neznanjem ne nazivate pogrešno mišljenje i obmanu o važnim stvarima?
 
-<!-- anchor:360c -->— A Protagora je rekao nešto na kraju što me je zadovoljilo: Divim se tvojoj marljivosti i razboritosti, Sokrate. I siguran sam da ćeš postati jedan od najmudrijih.
+I s tim se svi složiše.
 
-<!-- anchor:360d -->— Pa rekoh prijatelju koji me čekaše: To je razgovor koji sam vodio s Protagorom. A on upita: I šta zaključiste? Rekoh: Nije lako zaključiti — ali nije ni uzalud.
+Sokrat · Prema tome, niko svojevoljno ne ide za zlom niti za onim što smatra zlom;
 
-<!-- anchor:360e -->— Jer pitanje o vrlini — je li poučiva ili nije — i dalje stoji otvoreno.
+<!-- anchor:358d -->izgleda da čovekova priroda nije takva da hoće ići za onim što smatra zlom umesto za dobrom. A kada je prinuđen da bira između dva zla, niko neće izabrati veće ako može manje.
 
-<!-- anchor:361a -->— Tok razgovora ismejava nas obojicu: Protagoru, koji je tvrdio da se vrlina može naučiti, a sad pokazuje da nije znanje — pa se ne bi mogla naučiti. A mene — koji sam tvrdio da se ne može naučiti, a sad dokazujem da je znanje — pa bi se mogla naučiti.
+Svi su se s tim složili.
 
-<!-- anchor:361b -->— Pa — ni ja ni Protagora ne možemo biti zadovoljni zaključkom. I ostaje pitanje — je li vrlina znanje ili nije?
+Sokrat · Nazivate li nešto strahotnim ili strašnim? I je li to — tebi se, Prodiku, obraćam — ono što ja podrazumevam: očekivanje nekog zla, bilo da ga zovete strahom ili bojazni?
 
-<!-- anchor:361c -->— Protagora reče: I meni se čini, Sokrate, da je razgovor doveo do ovog paradoksa. Pa — ako hoćeš — nastavimo i rešimo pitanje. Rekoh: Hoću — kad god poželiš.
+Protagora i Hipija složiše se
 
-<!-- anchor:361d -->— Protagora reče: I meni je drago, Sokrate. Razgovor je tekao dobro. I bilo bi vredno razmotriti šta je znanje — jer se to pita čitav razgovor.
+<!-- anchor:358e -->da je to i strahotno i strašno, dok je Prodik smatrao da je strahotno, ali ne i strašno.
 
-<!-- anchor:361e -->— Protagora na kraju reče: Pohvale vredna je tvoja revnost i tok razgovora. Od svih s kojima se srećem — tebe najdublje cenim. O ovim pitanjima razgovaraćemo kad god poželiš.
+Sokrat · Nije važno, Prodiku. Pitanje je ovo: ako su naši raniji zaključci istiniti, hoće li iko ići za onim čega se boji kada može ići za onim čega se ne boji? Nije li to, prema onome što smo priznali, nemoguće? Jer ono čega se boji smatra zlom, a videli smo da niko svojevoljno ne ide za onim što smatra zlom niti ga prihvata.
 
-<!-- anchor:362a -->— I s tim se rastadosmo. Takav beše razgovor s Protagorom.
+<!-- anchor:359a -->I s tim se svi složiše.
+
+Sokrat · Kada je to utvrđeno, Prodiku i Hipijo, neka nam Protagora odbrani tačnost svoga prvog odgovora. Ne mislim na sasvim prvi odgovor, kada je kazao da vrlina ima pet delova, da nijedan nije nalik drugome i da svaki ima vlastitu moć. Mislim na ono što je kasnije rekao: da su četiri dela međusobno prilično slična,
+
+<!-- anchor:359b -->ali da se jedan — hrabrost — sasvim razlikuje od ostalih. Kao dokaz mi je rekao: „Videćeš, Sokrate, da su neki ljudi veoma bezbožni, nepravedni, razuzdani i neuki, a ipak izuzetno hrabri; po tome ćeš poznati da se hrabrost veoma razlikuje od ostalih delova vrline.” Taj odgovor me je još tada veoma začudio, a još više sada, pošto sam to pitanje ispitao zajedno s vama. Upitao sam ga, dakle, naziva li hrabrima one koji su smeli. Odgovorio je: „Da, i one koji žustro navaljuju.”
+
+<!-- anchor:359c -->Protagoro, sećaš li se da si tako odgovorio?
+
+Priznao je.
+
+Sokrat · Reci nam onda: na šta hrabri, po tvome mišljenju, žustro navaljuju? Na isto na šta i kukavice?
+
+Protagora · Ne.
+
+Sokrat · Dakle, na nešto drugo?
+
+Protagora · Da.
+
+Sokrat · Zar kukavice ne idu prema onome što uliva smelost, a hrabri prema onome što je strašno?
+
+Protagora · Tako ljudi govore, Sokrate.
+
+Sokrat · Istina je. Ali ja pitam nešto drugo:
+
+<!-- anchor:359d -->na šta, po tvome mišljenju, hrabri žustro navaljuju? Na ono što je strašno, verujući da je strašno, ili na ono što nije strašno?
+
+Protagora · Na prvo je, prema dokazima koje si izneo, nemoguće navaljivati.
+
+Sokrat · I to je tačno. Ako je naš dokaz valjan, niko ne ide prema onome što smatra strašnim, jer smo utvrdili da podleći samome sebi znači neznanje.
+
+On to priznade.
+
+Sokrat · Pa ipak svi, i kukavice i hrabri, idu prema onome u šta se usuđuju; utoliko kukavice i hrabri
+
+<!-- anchor:359e -->idu prema istim stvarima.
+
+Protagora · Ali, Sokrate, ono prema čemu idu kukavice potpuno je suprotno onome prema čemu idu hrabri. Hrabri su, na primer, voljni da idu u rat, a kukavice nisu.
+
+Sokrat · Je li odlazak u rat častan ili sraman?
+
+Protagora · Častan.
+
+Sokrat · Ako je častan, prema ranijem zaključku priznali smo da je i dobar, jer smo se složili da su sva časna dela dobra.
+
+Protagora · Istina je, i ostajem pri tome.
+
+Sokrat · Tako i treba.
+
+<!-- anchor:360a -->A koji ljudi, po tvome mišljenju, nisu voljni da idu u rat, premda je to časno i dobro?
+
+Protagora · Kukavice.
+
+Sokrat · Ako je časno i dobro, nije li i prijatno?
+
+Protagora · To smo svakako priznali.
+
+Sokrat · Odbijaju li onda kukavice s punim znanjem da idu prema onome što je časnije, bolje i prijatnije?
+
+Protagora · Ako i to priznamo, poreći ćemo ono što smo ranije priznali.
+
+Sokrat · A hrabar čovek? Ne ide li on prema onome što je časnije, bolje i prijatnije?
+
+<!-- anchor:360b -->Protagora · Moram to priznati.
+
+Sokrat · Hrabri ljudi se, uopšte uzev, ne boje sramnih strahova kada se boje, niti su smeli na sraman način?
+
+Protagora · Istina je.
+
+Sokrat · Ako nije sramno, onda je časno?
+
+On potvrdi.
+
+Sokrat · A ako je časno, onda je i dobro?
+
+Protagora · Da.
+
+Sokrat · Nasuprot njima, kukavice, drznici i bezumnici boje se sramnih strahova i pokazuju sramnu smelost?
+
+Složi se.
+
+Sokrat · Jesu li sramno i rđavo smeli zbog ičega drugog osim zbog nerazumnosti i neznanja?
+
+<!-- anchor:360c -->Protagora · Nisu.
+
+Sokrat · A ono zbog čega su kukavice kukavice nazivaš li kukavičlukom ili hrabrošću?
+
+Protagora · Kukavičlukom.
+
+Sokrat · Nije li se pokazalo da su kukavice zbog neznanja o onome što je strašno?
+
+Protagora · Jeste.
+
+Sokrat · Dakle, kukavice su zbog tog neznanja?
+
+Složi se.
+
+Sokrat · A priznao si da je ono zbog čega su kukavice — kukavičluk?
+
+Potvrdi.
+
+Sokrat · Onda je neznanje o onome što je strašno i što nije strašno — kukavičluk?
+
+Klimnu glavom.
+
+Sokrat · Ali hrabrost je,
+
+<!-- anchor:360d -->zar ne, suprotna kukavičluku?
+
+Protagora · Da.
+
+Sokrat · Onda je znanje o onome što je strašno i što nije strašno suprotno neznanju o tim stvarima?
+
+Još je mogao da klimne glavom.
+
+Sokrat · A neznanje o njima je kukavičluk?
+
+Na to je veoma nevoljno klimnuo.
+
+Sokrat · Dakle, znanje o onome što jeste i što nije strašno jeste hrabrost, pošto je suprotno neznanju o tim stvarima?
+
+Na to više nije hteo ni da klimne niti da odgovori, nego je ćutao.
+
+Sokrat · Zašto, Protagoro, niti potvrđuješ niti poričeš ono što te pitam?
+
+Protagora · Sam izvedi zaključak.
+
+<!-- anchor:360e -->Sokrat · Pitaću te još samo jedno. Misliš li i dalje, kao u početku, da postoje ljudi koji su krajnje neuki, a ipak veoma hrabri?
+
+Protagora · Vidim, Sokrate, da si rešio da baš ja odgovaram. Učiniću ti, dakle, po volji: na osnovu onoga što smo priznali kažem da mi se to čini nemogućim.
+
+Sokrat · Sve sam ovo pitao samo zato što želim da ispitam kako se pojedini delovi vrline odnose jedan prema drugome i šta je sama vrlina.
+
+<!-- anchor:361a -->Jer znam da bi, kada bi se to razjasnilo, postalo sasvim jasno i ono pitanje oko kojeg smo ti i ja vodili tako dugu raspravu: ti tvrdeći da se vrlina može naučiti, a ja da ne može. Čini mi se kao da nas sadašnji ishod razgovora optužuje i ismeva poput nekog čoveka. Kada bi dobio glas, rekao bi: „Čudni ste vi ljudi, Sokrate i Protagoro! Ti, Sokrate, koji si u početku tvrdio da se vrlina ne može naučiti,
+
+<!-- anchor:361b -->sada se upinješ da dokažeš suprotno sopstvenoj tvrdnji, nastojeći da pokažeš kako je sve znanje — i pravednost, i umerenost, i hrabrost. Upravo bi se tako najlakše pokazalo da se vrlina može naučiti. Jer da je vrlina nešto drugo a ne znanje, kao što je Protagora pokušavao da pokaže, očigledno se ne bi mogla naučiti. Ali ako se pokaže da je u celosti znanje, kao što ti, Sokrate, tvrdiš, bilo bi čudno da se ne može naučiti. Protagora je, nasuprot tome, u početku tvrdio da se ona može naučiti,
+
+<!-- anchor:361c -->a sada izgleda kao da svim silama dokazuje suprotno: da je vrlina gotovo sve drugo samo ne znanje, čime bi se pokazalo da se ona nikako ne može naučiti.” Videći, Protagoro, kako se sve ovo strašno zamrsilo, silno želim da se stvar razjasni. Voleo bih da nastavimo sve dok ne dosegnemo šta je vrlina, a zatim da se ponovo vratimo pitanju može li se ona naučiti. Ne bih želeo da nas tvoj Epimetej i u ovom istraživanju prevari i saplete,
+
+<!-- anchor:361d -->kao što nas je u tvojoj priči zanemario pri raspodeli darova. U tvojoj mi je priči Prometej draži od Epimeteja: on mi koristi, i ja se u čitavom životu služim prometejskim predviđanjem kada se bavim ovim pitanjima. Ako pristaješ, kao što sam rekao na početku, najradije bih ih istraživao zajedno s tobom.
+
+Protagora · Pohvaljujem, Sokrate, tvoju revnost i način na koji vodiš raspravu.
+
+<!-- anchor:361e -->Mislim da nisam rđave naravi, a ponajmanje sam zavidljiv čovek. Mnogima sam već rekao da ti se divim više nego bilo kome koga srećem, naročito među ljudima tvojih godina. Kažem i da se nimalo ne bih začudio ako se proslaviš mudrošću. O tome ćemo razgovarati drugi put, kada god budeš želeo. Sada je, međutim,
+
+<!-- anchor:362a -->vreme da se posvetim nekom drugom poslu.
+
+Sokrat · Neka bude tako, ako ti se čini. I ja sam odavno morao biti tamo kuda sam rekao da idem; ostao sam samo da učinim po volji lepom Kaliji.
+
+Pošto smo to rekli i saslušali, razišli smo se.
 
