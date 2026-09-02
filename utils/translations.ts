@@ -87,6 +87,7 @@ export interface Translations {
     Samos: string;
     Colophon: string;
     Chalcedon: string;
+    'Chalcis ad Belum': string;
     Acragas: string;
     Ephesus: string;
     Miletus: string;
@@ -268,6 +269,7 @@ export const translations: Record<Language, Translations> = {
       Samos: 'Самосъ',
       Colophon: 'Колофонъ',
       Chalcedon: 'Халкєдонъ',
+      'Chalcis ad Belum': 'Халкіда при Вилѣ',
       Acragas: 'Акрагантъ',
       Ephesus: 'Єфєсъ',
       Miletus: 'Мілєтъ',
@@ -447,6 +449,7 @@ export const translations: Record<Language, Translations> = {
       Samos: 'Samos',
       Colophon: 'Kolofon',
       Chalcedon: 'Halkedon',
+      'Chalcis ad Belum': 'Halkida na Belu',
       Acragas: 'Akragant',
       Ephesus: 'Efes',
       Miletus: 'Milet',

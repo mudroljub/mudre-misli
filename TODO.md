@@ -1,7 +1,5 @@
 # TODO
 
-- popraviti sr prevod - Platon — Protagora (u works)
-   - nisu navedena lica u dijalogu ne zna se ko govori
 - Jamblihos nema mapu sa gradom rođenja
 - dodati Porfirija iz Tira
 
