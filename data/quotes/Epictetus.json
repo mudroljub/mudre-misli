@@ -1,10 +1,70 @@
 [
   {
+    "id": "mm-900324",
+    "type": "bio",
+    "year": 50,
+    "sr": "Epiktet je rođen oko 50. godine u Hijerapolju u Frigiji.",
+    "stsl": "Епиктетъ около лѣта 50 въ Иераполи Фрѵгиискѣи роди сѧ ·",
+    "originalText": "Ἐπίκτητος, Ἱεραπόλεως τῆς Φρυγίας, φιλόσοφος.",
+    "author": "Epictetus",
+    "sources": [{ "name": "suda", "reference": "ε 2424 / 2.E.2424" }]
+  },
+  {
+    "id": "mm-900325",
+    "type": "bio",
+    "year": 60,
+    "sr": "Epiktet je bio rob Epafrodita, jednoga od telesnih čuvara cara Nerona.",
+    "stsl": "Епиктетъ рабъ Епафродита · єдинаго отъ тѣлохранитель Нерона цѣсарꙗ · бѣ ·",
+    "originalText": "δοῦλος Ἐπαφροδίτου, τῶν σωματοφυλάκων τοῦ βασιλέως Νέρωνος.",
+    "author": "Epictetus",
+    "sources": [{ "name": "suda", "reference": "ε 2424 / 2.E.2424" }]
+  },
+  {
+    "id": "mm-900326",
+    "type": "bio",
+    "year": 64,
+    "sr": "Prema Sudi, Epiktet je usled oboljenja ostao hrom na jednu nogu.",
+    "stsl": "По Сѹдѣ · Епиктетъ недѫгомь на єдинѫ ногѫ охромѣ ·",
+    "originalText": "πηρωθεὶς δὲ τὸ σκέλος ὑπὸ ῥεύματος.",
+    "author": "Epictetus",
+    "sources": [{ "name": "suda", "reference": "ε 2424 / 2.E.2424" }]
+  },
+  {
+    "id": "mm-900327",
+    "type": "bio",
+    "year": 65,
+    "sr": "Dok je Epiktet još bio rob, Musonije Ruf ga je iskušavao govoreći: Od gospodara će te snaći to i to.",
+    "stsl": "Епиктетѹ ѥште рабѹ сѫштѹ · Мѹсонии Рѹфъ искѹшаѧ и глаголааше · Отъ господина ти се и се прилѹчить сѧ ·",
+    "originalText": "οὕτως καὶ Ῥοῦφος πειράζων μʼ εἰώθει λέγειν· συμβήσεταί σοι τοῦτο καὶ τοῦτο ὑπὸ τοῦ δεσπότου.",
+    "author": "Epictetus",
+    "sources": [{ "name": "epictetus-discourses", "reference": "I.9.29" }]
+  },
+  {
+    "id": "mm-900328",
+    "type": "anecdote",
+    "year": 66,
+    "sr": "Prema predanju koje prenosi Kels, dok mu je gospodar zavrtao nogu, Epiktet se blago osmehnu i spokojno reče: Slomićeš je. Kada je gospodar slomi, Epiktet dodade: Nisam li rekao da ćeš je slomiti?",
+    "stsl": "По Келсовѹ преданию · господинѹ ногѫ єго кривѧштѹ · Епиктетъ тихо ѹсмѣхнѫ сѧ и безъ страха рече · Съломиши ѭ · Єгда же господинъ ѭ съломи · Епиктетъ приложи · Не рѣхъ ли ꙗко съломиши ѭ ·",
+    "originalText": "Οὐκοῦν Ἐπίκτητον; ὃς τοῦ δεσπότου στρεβλοῦντος αὐτοῦ τὸ σκέλος ὑπομειδιῶν ἀνεκπλήκτως ἔλεγε· ‘Κατάξεις’, καὶ κατάξαντος ‘Οὐκ ἔλεγον’, εἶπεν, ‘ὅτι κατάξεις;’",
+    "author": "Epictetus",
+    "sources": [{ "name": "origen-contra-celsum", "reference": "VII.53" }]
+  },
+  {
+    "id": "mm-900329",
+    "type": "bio",
+    "year": 85,
+    "sr": "Epiktet je u Rimu živeo u krajnjem siromaštvu. Dom mu nije imao ni zasun, jer u njemu ne beše ničega osim slamnjače i rogožine na kojima je spavao.",
+    "stsl": "Епиктетъ въ Римѣ въ краинеи ништети живѧаше · Домъ єго ни затвора имѣаше · ничтоже бо въ немь бѣ развѣ постелѧ и рогозинꙑ · на нихъже съпааше ·",
+    "originalText": "καὶ πενίαν ἀκροτάτην ἐπετήδευσεν, ὡς τὸ ἐν Ῥώμῃ οἴκημα αὐτοῦ μηδέποτε κλείθρου δεηθῆναι, ἅτε μηδὲν ἔνδον ἔχον, εἰ μὴ τὴν στιβάδα καὶ τὴν ψίαθον, ἐφ’ ὧν ἐκάθευδε.",
+    "author": "Epictetus",
+    "sources": [{ "name": "simplicius-in-enchiridion", "reference": "uz Enhiridion 1" }]
+  },
+  {
     "id": "mm-900009",
     "type": "bio",
     "year": 93,
-    "sr": "U to vreme i filozof Epiktet zbog te senatske odluke ode iz Rima u Nikopolj.",
-    "stsl": "Въ то врѣмѧ и Епиктетъ любомѫдрьць того ради старѣишиньскаго съвѣта отъ Рима въ Никополь отъиде ·",
+    "sr": "Kada senatskom odlukom filozofi behu prognani iz Rima, Epiktet ode u Nikopolj.",
+    "stsl": "Єгда старѣишиньскꙑмь съвѣтомь любомѫдрьци отъ Рима изгънани бꙑшѧ · Епиктетъ въ Никополь отъиде ·",
     "originalText": "Qua tempestate Epictetus quoque philosophus propter id senatusconsultum Nicopolim Roma decessit.",
     "author": "Epictetus",
     "sources": [
@@ -13,6 +73,26 @@
         "reference": "XV.11.5"
       }
     ]
+  },
+  {
+    "id": "mm-900330",
+    "type": "anecdote",
+    "year": 110,
+    "sr": "Kada Epiktet ukori Demonakta i posavetova ga da se oženi i izrodi decu, jer filozof treba da ostavi prirodi naslednika, Demonakt mu odgovori: Onda mi, Epiktete, daj jednu od svojih kćeri.",
+    "stsl": "Епиктетъ Демонакта ѹкори и женити сѧ и чѧда родити съвѣшта · любомѫдрьцѹ бо природѣ наслѣдьника оставити подобаѥть · Демонактъ же отъвѣшта · Даждь ми ѹбо · Епиктете · єдинѫ отъ дъштерии твоихъ ·",
+    "originalText": "Ἐπεὶ δέ ποτε ὁ Ἐπίκτητος ἐπιτιμῶν ἅμα συνεβούλευεν αὐτῷ ἀγαγέσθαι γυναῖκα καὶ παιδοποιήσασθαι — ἔδειν γὰρ καὶ τοῦτο φιλοσόφῳ, διάδοχόν τινα ἀντ᾽ αὑτοῦ καταλιπεῖν τῇ φύσει — ἐλεγκτικώτατα πρὸς αὐτὸν ἀπεκρίνατο· ‘Οὐκοῦν, ὦ Ἐπίκτητε, δός μοι μίαν τῶν σαυτοῦ θυγατέρων.’",
+    "author": "Epictetus",
+    "sources": [{ "name": "lucian-demonax", "reference": "55" }]
+  },
+  {
+    "id": "mm-900331",
+    "type": "bio",
+    "year": 125,
+    "sr": "Pošto je dugo živeo sam, Epiktet u starosti prihvati dete koje je njegov prijatelj zbog siromaštva nameravao da napusti. Potom primi u kuću ženu da neguje dete, koje sam odgaji.",
+    "stsl": "Мъного лѣтъ єдинъ поживъ · Епиктетъ въ старости чѧдо приѧтъ · єже дрѹгъ єго ништетꙑ ради оставити хотѣаше · Потомь женѫ въ домъ на питаниѥ чѧдети приѧтъ · чѧдо же самъ възрасти ·",
+    "originalText": "ὥσπερ καὶ ὁ θαυμαστὸς οὗτος Ἐπίκτητος, μόνος τὸν πολὺν χρόνον διατελέσας, ὀψέ ποτε γυναῖκα προσελάβετο, παιδίου τροφὸν, ὅπερ ἐκτίθεσθαι μέλλον ὑπό τινος τῶν αὐτοῦ φίλων διὰ πενίαν, αὐτὸς λαβὼν ἀνεθρέψατο.",
+    "author": "Epictetus",
+    "sources": [{ "name": "simplicius-in-enchiridion", "reference": "uz Enhiridion 33.7" }]
   },
   {
     "id": "mm-009030",

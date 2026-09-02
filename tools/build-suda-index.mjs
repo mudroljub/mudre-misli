@@ -26,6 +26,7 @@ const confirmedPeople = [
   ['Diogen iz Sinope', '2.Δ.1143'],
   ['Empedoklo', '2.E.1002'],
   ['Epikur', '2.E.2404'],
+  ['Epiktet', '2.E.2424'],
   ['Gorgija', '1.Γ.388'],
   ['Kratet iz Tebe', '3.Κ.2341'],
   ['Ksenokrat', '3.Ξ.42'],

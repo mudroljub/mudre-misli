@@ -244,6 +244,34 @@
     "stsl": "Епиктєтовъ гномологїи отъ Стоваєвꙑихъ кънигъ 3–4",
     "sr": "Epiktetov gnomologij iz Stobejevih knjiga 3–4"
   },
+  "epictetus-discourses": {
+    "author": "Epictetus / Arrian",
+    "language": "grc",
+    "originalTitle": "Ἐπικτήτου διατριβαί",
+    "stsl": "Епиктєтови разговори",
+    "sr": "Epiktetovi razgovori"
+  },
+  "origen-contra-celsum": {
+    "author": "Origen",
+    "language": "grc",
+    "originalTitle": "Κατὰ Κέλσου",
+    "stsl": "Противѹ Келсѹ",
+    "sr": "Protiv Kelsa"
+  },
+  "simplicius-in-enchiridion": {
+    "author": "Simplicius",
+    "language": "grc",
+    "originalTitle": "Εἰς τὸ Ἐπικτήτου Ἐγχειρίδιον",
+    "stsl": "Тълкованиѥ Епиктєтова Рѫчьника",
+    "sr": "Komentar Epiktetovog Priručnika"
+  },
+  "lucian-demonax": {
+    "author": "Lucian",
+    "language": "grc",
+    "originalTitle": "Δημώνακτος βίος",
+    "stsl": "Демонактовъ животъ",
+    "sr": "Demonaktov život"
+  },
   "cleanthes-fragments": {
     "author": "Cleanthes",
     "language": "grc",
