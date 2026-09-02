@@ -106,7 +106,7 @@ export const authorGroups: AuthorGroup[] = [
       {
         titleKey: 'stoics',
         title: 'Stoics',
-        authors: ['Zeno of Citium', 'Cleanthes', 'Chrysippus', 'Aristo of Chios', 'Sphaerus']
+        authors: ['Zeno of Citium', 'Cleanthes', 'Chrysippus', 'Aristo of Chios', 'Antipater of Tarsus', 'Sphaerus']
       },
       {
         titleKey: 'skeptics',

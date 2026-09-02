@@ -98,6 +98,7 @@ export interface Translations {
     Assos: string;
     Soli: string;
     Chios: string;
+    Tarsus: string;
     Borysthenes: string;
     Elis: string;
     Phlius: string;
@@ -158,6 +159,7 @@ export interface Translations {
     Cleanthes: string;
     Chrysippus: string;
     'Aristo of Chios': string;
+    'Antipater of Tarsus': string;
     Sphaerus: string;
     Anaxarchus: string;
     Pyrrho: string;
@@ -284,6 +286,7 @@ export const translations: Record<Language, Translations> = {
       Assos: 'Асосъ',
       Soli: 'Солі',
       Chios: 'Хіосъ',
+      Tarsus: 'Тарсъ',
       Borysthenes: 'Борѵстєнъ',
       Elis: 'Єліда',
       Phlius: 'Флїѹнтъ',
@@ -344,6 +347,7 @@ export const translations: Record<Language, Translations> = {
       Cleanthes: 'Клєанѳъ',
       Chrysippus: 'Хрісіпъ',
       'Aristo of Chios': 'Арістонъ отъ Хїа',
+      'Antipater of Tarsus': 'Антіпатръ отъ Тарса',
       Sphaerus: 'Сфєръ',
       Anaxarchus: 'Анаѯархъ',
       Pyrrho: 'Пѵронъ',
@@ -468,6 +472,7 @@ export const translations: Record<Language, Translations> = {
       Assos: 'Asos',
       Soli: 'Soli',
       Chios: 'Hios',
+      Tarsus: 'Tars',
       Borysthenes: 'Boristen',
       Elis: 'Elida',
       Phlius: 'Flijunt',
@@ -528,6 +533,7 @@ export const translations: Record<Language, Translations> = {
       Cleanthes: 'Kleant',
       Chrysippus: 'Hrizip',
       'Aristo of Chios': 'Aristo iz Hija',
+      'Antipater of Tarsus': 'Antipatar iz Tarsa',
       Sphaerus: 'Sfer',
       Anaxarchus: 'Anaksarh',
       Pyrrho: 'Piron',

@@ -853,5 +853,106 @@
         "reference": "VII.189"
       }
     ]
+  },
+  {
+    "id": "mm-900270", "type": "reported",
+    "sr": "Čovek se od nerazumnih životinja ne razlikuje izgovorenom rečju — jer i gavrani, papagaji i svrake izgovaraju razgovetne glasove — nego unutrašnjim slovenjem. Ne razlikuje se ni prostom predstavom, već sposobnošću da predstave povezuje i sastavlja; zato, shvatajući sled, odmah shvata i znak.",
+    "stsl": "Чловѣкъ отъ бесловесьнꙑихъ животьнꙑихъ не изговоренꙑмь словомь различаѥть сѧ · ибо и врани и попѹгаи и свракꙑ члѣньнꙑ гласы изглашаѭть · нъ вьнѫтрьнимь словеніѥмь · Ни простоѭ мьчтоѭ различаѥть сѧ · нъ прѣходьноѭ и сълагаѭштеѭ · Тѣмь послѣдованиѥ разумѣваѧ · абиѥ и знамениѥ разумѣваѥть ·",
+    "originalText": "ἄνθρωπος οὐχὶ τῷ προφορικῷ λόγῳ διαφέρει τῶν ἀλόγων ζῴων (καὶ γὰρ κόρακες καὶ ψιττακοὶ καὶ κίτται ἐνάρθρους προφέρονται φωνάς) ἀλλὰ τῷ ἐνδιαθέτῳ, οὐδὲ τῇ ἁπλῇ μόνον φαντασίᾳ, ἀλλὰ τῇ μεταβατικῇ καὶ συνθετικῇ. διόπερ ἀκολουθίας ἔννοιαν ἔχων εὐθὺς καὶ σημείου νόησιν λαμβάνει διὰ τὴν ἀκολουθίαν.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 135"}]
+  },
+  {
+    "id": "mm-900271", "type": "reported",
+    "sr": "Stoici razlikuju tri združene stvari: označeno, označitelj i ono što postoji. Označitelj je glas, na primer ‘Dion’; označeno je ono što taj glas objavljuje i što mi razumemo, dok tuđinac čuje glas ali ga ne razume; ono što postoji jeste spoljašnji predmet, sam Dion. Glas i predmet su telesni, a označeno — iskazivo — bestelesno je i može biti istinito ili lažno.",
+    "stsl": "Стоици три съпрѧжена различаѭть · знаменованоѥ · знаменѹѭштеѥ и сѫштеѥ · Знаменѹѭштеѥ єсть гласъ · ꙗко Дионъ · знаменованоѥ же сама вешь гласомь ꙗвлꙗѥма · ѭже мꙑ разумѣваѥмъ · иноплеменьникъ же гласъ слꙑшитъ · не разумѣваѥть · сѫштеѥ же єсть вьнѣшьнии прѣдъметъ · самъ Дионъ · Гласъ и прѣдъметъ тѣлесьна єста · знаменованоѥ же · рекомоѥ · безтѣлесьно єсть · истиньно или лъжьно бꙑти можеть ·",
+    "originalText": "τρία φάμενοι συζυγεῖν ἀλλήλοις, τό τε σημαινόμενον καὶ τὸ σημαῖνον καὶ τὸ τυγχάνον, ὧν σημαῖνον μὲν εἶναι τὴν φωνήν, οἷον τὴν Δίων, σημαινόμενον δὲ αὐτὸ τὸ πρᾶγμα τὸ ὑπ’ αὐτῆς δηλούμενον καὶ οὗ ἡμεῖς μὲν ἀντιλαμβανόμεθα τῇ ἡμετέρᾳ παρυφισταμένου διανοίᾳ, οἱ δὲ βάρβαροι οὐκ ἐπαΐουσι καίπερ τῆς φωνῆς ἀκούοντες, τυγχάνον δὲ τὸ ἐκτὸς ὑποκείμενον, ὥσπερ αὐτὸς ὁ Δίων. τούτων δὲ δύο μὲν εἶναι σώματα, καθάπερ τὴν φωνὴν καὶ τὸ τυγχάνον, ἓν δὲ ἀσώματον, ὥσπερ τὸ σημαινόμενον πρᾶγμα, καὶ λεκτόν, ὅπερ ἀληθές τε γίνεται ἢ ψεῦδος.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 166"}]
+  },
+  {
+    "id": "mm-900272", "type": "reported",
+    "sr": "Po stoicima postoje dva načela svega: dejstvujuće i trpno. Trpno je bezvrsno suštastvo — tvar; dejstvujuće je slovenje u njoj — Bog, koji je večan i kroz svu tvar obrazuje svaku stvar.",
+    "stsl": "По стоикомъ два начѧла вьсѣхъ сѫть · творѧштеѥ и трьпѧштеѥ · Трьпѧштеѥ єсть безвидьно сѫштьство · вешьство · творѧштеѥ же словеніѥ въ немь · Богъ · иже вѣчьнъ сꙑ · сквоꙁѣ вьсе вешьство кѫждо съꙁидаѥть ·",
+    "originalText": "δοκεῖ δ’ αὐτοῖς ἀρχὰς εἶναι τῶν ὅλων δύο, τὸ ποιοῦν καὶ τὸ πάσχον. τὸ μὲν οὖν πάσχον εἶναι τὴν ἄποιον οὐσίαν, τὴν ὕλην· τὸ δὲ ποιοῦν τὸν ἐν αὐτῇ λόγον, τὸν θεόν. τοῦτον γὰρ ἀΐδιον ὄντα διὰ πάσης αὐτῆς δημιουργεῖν ἕκαστα.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 300"}]
+  },
+  {
+    "id": "mm-900273", "type": "reported",
+    "sr": "Duhovno suštastvo drži, a tvarno biva držano: vazduh i vatra drže, dok zemlja i voda bivaju držani.",
+    "stsl": "Дѹховьноѥ сѫштьство дръжить · вешьствьноѥ же дръжимо єсть · въздѹхъ и огнь дръжита · ꙁемлꙗ же и вода дръжита сѧ ·",
+    "originalText": "τὴν μὲν γὰρ πνευματικὴν οὐσίαν τὸ συνέχον, τὴν δὲ ὑλικὴν τὸ συνεχόμενον· ὅθεν ἀέρα μὲν καὶ πῦρ συνέχειν φασί, γῆν δὲ καὶ ὕδωρ συνέχεσθαι.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 439"}]
+  },
+  {
+    "id": "mm-900274", "type": "reported",
+    "sr": "Celokupan svet sa svim svojim delovima naziva se Bogom: on je jedan, ograničen, živ i večan. Svet je kao grad sastavljen od bogova i ljudi; bogovi upravljaju, ljudi su im potčinjeni, a zajednica među njima postoji zato što učestvuju u slovenju, koje je po prirodi zakon.",
+    "stsl": "Вьсь миръ съ вьсѣми частьми своими Богъ нарицаѥть сѧ · єдинъ єсть · коньчьнъ · живъ и вѣчьнъ · Миръ ꙗко градъ отъ богъ и чловѣкъ съставлѥнъ єсть · бози владꙑчьство имѫть · чловѣци же повинѹѭть сѧ · обьштениѥ же имъ єсть · понеже словенію причѧштаѭть сѧ · єже по природѣ законъ єсть ·",
+    "originalText": "Ὅλον δὲ τὸν κόσμον σὺν τοῖς ἑαυτοῦ μέρεσι προσαγορεύουσι θεόν· τοῦτον δὲ ἕνα μόνον εἶναί φασι καὶ πεπερασμένον καὶ ζῷον καὶ ἀΐδιον καὶ θεόν. ὃν γὰρ τρόπον πόλις λέγεται διχῶς τό τε οἰκητήριον καὶ τὸ ἐκ τῶν ἐνοικούντων σὺν τοῖς πολίταις σύστημα, οὕτω καὶ ὁ κόσμος οἱονεὶ πόλις ἐστὶν ἐκ θεῶν καὶ ἀνθρώπων συνεστῶσα, τῶν μὲν θεῶν τὴν ἡγεμονίαν ἐχόντων, τῶν δ’ ἀνθρώπων ὑποτεταγμένων. κοινωνίαν δ’ ὑπάρχειν πρὸς ἀλλήλους διὰ τὸ λόγου μετέχειν, ὅς ἐστι φύσει νόμος.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 528"}]
+  },
+  {
+    "id": "mm-900275", "type": "reported",
+    "sr": "Kada se zvezde vrate na ista mesta na kojima su bile pri prvom nastanku sveta, sledi sveopšti požar i propast postojećeg, a zatim se svet iznova uspostavlja isti. Ponovo će postojati Sokrat i Platon, svaki čovek sa istim prijateljima i sugrađanima, i sve će se bez najmanje razlike ponavljati kroz beskrajne cikluse.",
+    "stsl": "Єгда ꙁвѣꙁдꙑ на тажде мѣста възвратѧть сѧ · идеже при пръвѣмь съставлѥнии мира бѣшѧ · вьсесъжежениѥ и погꙑбѣль сѫштихъ бꙑваѥть · потомь же тъжде миръ иꙁнова съставлꙗѥть сѧ · Пакꙑ бѫдета Сократъ и Платонъ · и къжьдо чловѣкъ съ тѣмижде дрѹгꙑ и гражданꙑ · и вьса безъ малѣишаго различиꙗ въ бесконьчьнꙑихъ крѫꙁѣхъ пакꙑ бꙑваѭть ·",
+    "originalText": "τοὺς πλάνητας εἰς τὸ αὐτὸ σημεῖον κατά τε μῆκος καὶ πλάτος, ἔνθα τὴν ἀρχὴν ἕκαστος ἦν, ὅτε τὸ πρῶτον ὁ κόσμος συνέστη, ἐν ῥηταῖς χρόνων περιόδοις ἐκπύρωσιν καὶ φθορὰν τῶν ὄντων ἀπεργάζεσθαι· καὶ πάλιν ἐξ ὑπαρχῆς εἰς τὸ αὐτὸ τὸν κόσμον ἀποκαθίστασθαι· τῶν ἀστέρων ὁμοίως πάλιν φερομένων, ἕκαστον ἐν τῇ προτέρᾳ περιόδῳ γινόμενον ἀπαραλλάκτως ἀποτελεῖσθαι. ἔσεσθαι γὰρ πάλιν Σωκράτη καὶ Πλάτωνα καὶ ἕκαστον τῶν ἀνθρώπων σὺν τοῖς αὐτοῖς καὶ φίλοις καὶ πολίταις· καὶ τὰ αὐτὰ πείσεσθαι καὶ τὰ αὐτὰ μεταχειριεῖσθαι, καὶ πᾶσαν πόλιν καὶ κώμην καὶ ἀγρὸν ὁμοίως ἀποκαθίστασθαι· γίνεσθαι δὲ τὴν ἀποκατάστασιν τοῦ παντὸς οὐχ ἅπαξ, ἀλλὰ πολλάκις· μᾶλλον δὲ εἰς ἄπειρον καὶ ἀτελεύτητον τὰ αὐτὰ ἀποκαθίστασθαι.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 625"}]
+  },
+  {
+    "id": "mm-900276", "type": "reported",
+    "sr": "Duša je duh urođen nama koji neprekidno prožima celo telo dokle god je u njemu dah života. Njen deo koji doseže dušnik jeste glas; oči — vid; uši — sluh; nos — miris; jezik — ukus; svu put — dodir. Deo u koji se sve to sliva nalazi se u srcu i jeste vladajući deo duše.",
+    "stsl": "Дѹша єсть дѹхъ намъ прирожденъ · непрѣстаньно вьсе тѣло проходѧи · доньдеже дꙑханиѥ живота въ тѣлеси прѣбꙑваѥть · Часть єѧ къ грътаню доходѧшти гласъ єсть · къ очима видѣниѥ · къ оушима слꙑшаниѥ · къ ноздрьма обонꙗниѥ · къ ѥꙁꙑкѹ вкушениѥ · къ вьсѣи плъти осѧꙁаниѥ · Часть же въ нѭже вьса сиꙗ съходѧть сѧ · въ срьдьци єсть · и владꙑчьнаꙗ часть дѹшѧ єсть ·",
+    "originalText": "Ἡ ψυχὴ πνεῦμά ἐστι σύμφυτον ἡμῖν συνεχὲς παντί τῷ σώματι διῆκον, ἔστ’ ἂν ἡ τῆς ζωῆς εὔπνοια παρῇ ἐν τῷ σώματι. ταύτης οὖν τῶν μερῶν ἑκάστῳ διατεταγμένων μορίῳ, τὸ διῆκον αὐτῆς εἰς τὴν τραχεῖαν ἀρτηρίαν φωνήν εἶναι, τὸ δὲ εἰς ὀφθαλμοὺς ὄψιν, τὸ δὲ εἰς ὦτα ἀκοήν, τὸ δὲ εἰς ῥῖνας ὄσφρησιν, τὸ δ’ εἰς γλῶτταν γεῦσιν, τὸ δ’ εἰς ὅλην τὴν σάρκα ἁφήν, εἰς ὃ δὲ συμβαίνει πάντα ταῦτα, ἐν τῇ καρδίᾳ εἶναι, μέρος ὂν αὐτῆς τὸ ἡγεμονικόν.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 885"}]
+  },
+  {
+    "id": "mm-900277", "type": "reported",
+    "sr": "Usud je duhovna sila koja upravlja poretkom svega: slovenje sveta, ili slovenje onoga čime promisao upravlja; slovenje po kojem se dogodilo ono što se dogodilo, događa se ono što se događa i dogodiće se ono što će se dogoditi. Isto se naziva istinom, uzrokom, prirodom i nužnošću.",
+    "stsl": "Оусѫдъ єсть дѹховьна сила · чиномь вьсѣхъ правѧшти · словеніѥ мира · или словеніѥ тѣхъ имиже промꙑслъ править · словеніѥ по немьже бꙑвъшаꙗ бꙑшѧ · бꙑваѭштаꙗ бꙑваѭть · хотѧштаꙗ же бꙑти бѫдѫть · Тожде истиноѭ · виноѭ · природоѭ и нѫждеѭ нарицаѥть сѧ ·",
+    "originalText": "Χρύσιππος δύναμιν πνευματικὴν τὴν οὐσίαν τῆς εἱμαρμένης, τάξει τοῦ παντὸς διοικητικήν. Εἱμαρμένη ἐστὶν ὁ τοῦ κόσμου λόγος ἢ λόγος τῶν ἐν τῷ κόσμῳ προνοίᾳ διοικουμένων ἢ λόγος καθ’ ὃν τὰ μὲν γεγονότα γέγονε, τὰ δὲ γινόμενα γίνεται, τὰ δὲ γενησόμενα γενήσεται. Μεταλαμβάνει δ’ ἀντὶ τοῦ λόγου τὴν ἀλήθειαν, τὴν αἰτίαν, τὴν φύσιν, τὴν ἀνάγκην.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 913"}]
+  },
+  {
+    "id": "mm-900278", "type": "reported",
+    "sr": "Uzroci su jedni potpuni i glavni, a drugi pomoćni i neposredni. Kada kažemo da sve nastaje po usudu iz prethodnih uzroka, ne mislimo na potpune i glavne, nego na pomoćne i neposredne. Zato, premda oni nisu u našoj moći, ne sledi da ni naš poriv nije u našoj moći.",
+    "stsl": "Винꙑ ѥднꙑ съврьшенꙑ и главьнꙑ сѫть · дрѹгꙑѧ же помоштьнꙑ и ближьнꙑ · Єгда глаголѥмъ вьса по оусѫдѹ отъ прѣдъидѫштихъ винъ бꙑвати · не съврьшенꙑѧ и главьнꙑѧ глаголѥмъ · нъ помоштьнꙑѧ и ближьнꙑѧ · Тѣмь · аще онꙑ не сѫть въ нашеи власти · не послѣдѹѥть ꙗко ни наше стремлѥниѥ въ нашеи власти єсть ·",
+    "originalText": "Causarum enim, inquit, aliae sunt perfectae et principales, aliae adiuvantes et proximae. Quam ob rem, cum dicimus omnia fato fieri causis antecedentibus, non hoc intellegi volumus: causis perfectis et principalibus, sed causis adiuvantibus et proximis. Quae si ipsae non sunt in nostra potestate, non sequitur, ut ne adpetitus quidem sit in nostra potestate.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF II 974"}]
+  },
+  {
+    "id": "mm-900279", "type": "reported",
+    "sr": "Prvi poriv živog bića jeste da sačuva sebe, jer ga priroda od početka prisvaja sebi. Svakom živom biću najpre je svojstven njegov vlastiti sastav i svest o njemu. Zato odbija ono što mu škodi, a prima ono što mu je srodno. Nije istina da je prvi poriv ka zadovoljstvu: zadovoljstvo, ako se uopšte javi, samo je naknadni plod sklada s prirodom.",
+    "stsl": "Пръвоѥ стремлѥниѥ животьнаго єсть себе съхранити · понеже природа отъ начала къ себѣ є присвоꙗѥть · Къжемѹ животьномѹ прѣжде свои съставъ и съвѣсть єго своиствена єста · Тѣмь врѣдѧштаꙗ отъриваѥть · своѥмѹ же сродьнаꙗ приѥмлѥть · Не истиньно єсть ꙗко пръвоѥ стремлѥниѥ къ сласти єсть · сласть бо · аще и бꙑваѥть · послѣдьнии плодъ съгласиꙗ съ природоѭ єсть ·",
+    "originalText": "Τὴν δὲ πρώτην ὁρμήν φασι τὸ ζῷον ἴσχειν ἐπὶ τὸ τηρεῖν ἐαυτό, οἰκειούσης αὐτῷ τῆς φύσεως ἀπ’ ἀρχῆς· καθά φησιν ὁ Χρύσιππος ἐν τῷ πρώτῳ περὶ Τελῶν, πρῶτον οἰκεῖον λέγων εἶναι παντὶ ζῴῳ τὴν αὑτοῦ σύστασιν καὶ τὴν ταύτης συνείδησιν. οὕτω γὰρ τά τε βλάπτοντα διωθεῖται καὶ τὰ οἰκεῖα προσίεται. ὃ δὲ λέγουσί τινες, πρὸς ἡδονὴν γίγνεσθαι τὴν πρώτην ὁρμὴν τοῖς ζῴοις, ψεῦδος ἀποφαίνουσιν. ἐπιγέννημα γὰρ φασίν, εἰ ἄρα ἐστίν, ἡδονὴν εἶναι.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF III 178"}]
+  },
+  {
+    "id": "mm-900280", "type": "quote",
+    "sr": "Zakon je car svih božanskih i ljudskih stvari. On mora biti nadstojnik, vladar i vođa lepoga i ružnoga; merilo pravednog i nepravednog, koje bićima po prirodi stvorenim za zajednicu zapoveda šta valja činiti, a zabranjuje šta ne valja činiti.",
+    "stsl": "Законъ єсть цѣсарь вьсѣхъ божьствьнꙑихъ и чловѣчьскꙑихъ вештии · Подобаѥть ємѹ настоꙗтелю · владꙑцѣ и вождю добрꙑихъ и стꙑдьнꙑихъ бꙑти · и правило правьдьнꙑихъ и неправьдьнꙑихъ · животьнꙑимъ по природѣ обьштьникъмъ повелѣваѧ єже творити подобаѥть · възбранꙗѧ же єже творити не подобаѥть ·",
+    "originalText": "ὁ νόμος πάντων ἐστὶ βασιλεὺς θείων τε καὶ ἀνθρωπίνων πραγμάτων· δεῖ δὲ αὐτὸν προστάτην τε εἶναι τῶν καλῶν καὶ τῶν αἰσχρῶν καὶ ἄρχοντα καὶ ἡγεμόνα, καὶ κατὰ τοῦτο κανόνα τε εἶναι δικαίων καὶ ἀδίκων καὶ τῶν φύσει πολιτικῶν ζῴων προστακτικὸν μὲν ὧν ποιητέον, ἀπαγορευτικὸν δὲ ὧν οὐ ποιητέον.",
+    "author": "Chrysippus", "sources": [{"name":"chrysippus-fragments","reference":"SVF III 314"}]
+  },
+  {
+    "id":"mm-900281","type":"reported","sr":"Živeti prema vrlini isto je što i živeti poznajući ono što se zbiva po prirodi. Naše su prirode delovi prirode svega; zato je svrha živeti sledeći vlastitu i sveopštu prirodu, ne čineći ništa što zabranjuje zajednički zakon — pravo slovo koje sve prožima i koje je isto što i Zevs, upravitelj svega postojećeg.","stsl":"По добродѣтели жити · тожде єсть ꙗкоже съ вѣдѣниѥмь бꙑваѭштихъ по природѣ жити · Нашѧ бо природꙑ части природꙑ вьсѣхъ · Тѣмь коньць · своѥи и обьштеи природѣ послѣдовати · ничтоже творѧште єже обьшть законъ възбранꙗѥть · правоѥ слово · вьса проходѧште · тожде Зевсѹ · правителю сѫштихъ ·","originalText":"πάλιν δ’ ἴσον ἐστὶ τὸ κατ’ ἀρετὴν ζῆν τῷ κατ’ ἐμπειρίαν τῶν φύσει συμβαινόντων ζῆν. μέρη γάρ εἰσιν αἱ ἡμέτεραι φύσεις τῆς τοῦ ὅλου. διόπερ τέλος γίνεται τὸ ἀκολούθως τῇ φύσει ζῆν· ὅπερ ἐστὶ κατά τε τὴν αὑτοῦ καὶ κατὰ τὴν τῶν ὅλων, οὐδὲν ἐνεργοῦντας ὧν ἀπαγορεύειν εἴωθεν ὁ νόμος ὁ κοινός, ὅσπερ ἐστὶν ὁ ὀρθὸς λόγος διὰ πάντων ἐρχόμενος, ὁ αὐτὸς ὢν τῷ Διΐ, καθηγεμόνι τούτῳ τῆς τῶν ὄντων διοικήσεως ὄντι.","author":"Chrysippus","sources":[{"name":"chrysippus-fragments","reference":"SVF III 4"}]
+  },
+  {
+    "id":"mm-900282","type":"quote","sr":"Dobro je izbora dostojno; što je izbora dostojno, milo je; što je milo, pohvalno je; što je pohvalno, krasno je. I opet: dobro raduje; što raduje, časno je; što je časno, krasno je.","stsl":"Добро избраниꙗ достоино · избраниꙗ же достоиноѥ мило · милоѥ похвально · похвальноѥ красно · И пакꙑ · добро радостьно · радостьноѥ чьстьно · чьстьноѥ красно ·","originalText":"Τὸ ἀγαθὸν αἱρετόν· τὸ δ’ αἱρετὸν ἀρεστόν· τὸ δ’ ἀρεστὸν ἐπαινετόν· τὸ δ’ ἐπαινετὸν καλόν. Καὶ πάλιν Τὸ ἀγαθὸν χαρτόν, τὸ δὲ χαρτὸν σεμνόν, τὸ δὲ σεμνὸν καλόν.","author":"Chrysippus","sources":[{"name":"chrysippus-fragments","reference":"SVF III 29"}]
+  },
+  {
+    "id":"mm-900283","type":"reported","sr":"Vrlina je dovoljna za blagočest. Ako je velikodušnost dovoljna da čoveka uzdigne iznad svega, a ona je deo vrline, onda je i vrlina dovoljna za blagočest, jer prezire i ono što se čini mučnim.","stsl":"Добродѣтель довълна къ благочѧсти · Аще великодѹшиѥ довълно чловѣка вꙑше вьсѣхъ възвести · часть же добродѣтели єсть · то и добродѣтель къ благочѧсти довълна · мѫчьнаꙗ мьнимаꙗ прѣзираѭшти ·","originalText":"Εἰ γάρ, φησίν, αὐτάρκης ἐστὶν ἡ μεγαλοψυχία πρὸς τὸ πάντων ὑπεράνω ποιεῖν, ἔστι δὲ μέρος ἀρετῆς, αὐτάρκης ἐστὶ καὶ ἡ ἀρετὴ πρὸς εὐδαιμονίαν, καταφρονοῦσα καὶ τῶν δοκούντων ὀχληρῶν.","author":"Chrysippus","sources":[{"name":"chrysippus-fragments","reference":"SVF III 49"}]
+  },
+  {
+    "id":"mm-900284","type":"reported","sr":"Život, zdravlje, zadovoljstvo, lepota, snaga, bogatstvo, slava i plemenito poreklo nisu ni dobra ni zla, nego ravnodušnosti. Bogatstvo i zdravlje mogu se upotrebiti i dobro i zlo; zato nisu dobra.","stsl":"Житіѥ · здравиѥ · сласть · красота · сила · богатъство · слава и благородиѥ ни добра ни ꙁъла · нъ безразличьна · Богатъствомь и здравиѥмь добрѣ и ꙁълѣ служити сѧ можемъ · тѣмь добра не сѫть ·","originalText":"οὐδέτερα δὲ ὅσα μήτε ὠφελεῖ μήτε βλάπτει· οἷον ζωή, ὑγίεια, ἡδονή, κάλλος, ἰσχύς, πλοῦτος, εὐδοξία, εὐγένεια. ᾧ ἔστιν εὖ καὶ κακῶς χρῆσθαι, τοῦτο οὐκ ἔστιν ἀγαθόν· πλούτῳ δὲ καὶ ὑγιείᾳ ἔστιν εὖ καὶ κακῶς χρῆσθαι· οὐκ ἄρα ἀγαθὸν πλοῦτος καὶ ὑγίεια.","author":"Chrysippus","sources":[{"name":"chrysippus-fragments","reference":"SVF III 117"}]
+  },
+  {
+    "id":"mm-900285","type":"reported","sr":"Kada čovek spozna red i saglasje dela, ceni ih više od svega što je isprva voleo. Razumom uviđa da se u tom saglasju nalazi vrhovno ljudsko dobro, samo po sebi hvale i izbora dostojno.","stsl":"Єгда чловѣкъ рѧдъ и съгласиѥ дѣлъ познаѥть · паче вьсѣхъ єже прѣжде люблꙗаше цѣнить · Разѹмомь видить ꙗко въ томь съгласии вꙑшьнѥѥ чловѣчьско добро єсть · само по себѣ похвалꙑ и избраниꙗ достоино ·","originalText":"viditque rerum agendarum ordinem et, ut ita dicam, concordiam, multo eam pluris aestimavit quam omnia illa, quae prima dilexerat, atque ita cognitione et ratione collegit, ut statueret in eo collocatum summum illud hominis per se laudandum et expetendum bonum.","author":"Chrysippus","sources":[{"name":"chrysippus-fragments","reference":"SVF III 188"}]
+  },
+  {
+    "id":"mm-900286","type":"reported","sr":"Razumno biće izopačuju čas privlačnosti spoljašnjih stvari, čas pouke okoline; priroda mu daje neizopačena polazišta.","stsl":"Словесьно животно овогда прѣльсть вьнѣшьнихъ вештии развраштаѥть · овогда наѹчениѥ окрьстьнихъ · природа же неразвраштьна начѧла даѥть ·","originalText":"διαστρέφεσθαι δὲ τὸ λογικὸν ζῷον ποτὲ μὲν διὰ τὰς τῶν ἔξωθεν πραγμάτων πιθανότητας, ποτὲ δὲ διὰ τὴν κατήχησιν τῶν συνόντων, ἐπεὶ ἡ φύσις ἀφορμὰς δίδωσιν ἀδιαστρόφους.","author":"Chrysippus","sources":[{"name":"chrysippus-fragments","reference":"SVF III 228"}]
+  },
+  {
+    "id":"mm-900287","type":"reported","sr":"Vrline slede jedna drugu: ko ima jednu, ima ih sve, jer su im uvidi zajednički. Razboritost se tiče onoga što treba činiti, hrabrost onoga što treba podneti, pravednost onoga što treba dodeliti, a umerenost onoga u čemu treba istrajati.","stsl":"Добродѣтели дрѹгъ дрѹгѹ послѣдѹѭть · иже єдинѫ имать · вьса имать · видѣниꙗ бо имъ обьшта · Мѫдрость о творимꙑихъ · храбрость о трьпимꙑихъ · правда о раздѣлꙗѥмꙑихъ · цѣломѫдриѥ о нихъже прѣбꙑвати подобаѥть ·","originalText":"τὰς δὲ ἀρετὰς λέγουσιν ἀντακολουθεῖν ἀλλήλαις, καὶ τὸν μίαν ἔχοντα πάσας ἔχειν. εἶναι γὰρ αὐτῶν τὰ θεωρήματα κοινά. ὥστε εἰ τὰ μὲν αἱρετικῶς ποιεῖ, τὰ δὲ ὑπομενετικῶς, τὰ δὲ ἀπονεμητικῶς, τὰ δὲ ἐμμενητικῶς, φρόνιμός τέ ἐστι καὶ ἀνδρεῖος καὶ δίκαιος καὶ σώφρων.","author":"Chrysippus","sources":[{"name":"chrysippus-fragments","reference":"SVF III 295"}]
+  },
+  {
+    "id":"mm-900288","type":"quote","sr":"Strast je kretanje duše protiv prirode, neposlušno slovu i od njega odvraćeno. Strastan čovek nije samo pogrešio u rasuđivanju: on se od slova odvratio i ne pokorava mu se.","stsl":"Страсть єсть движениѥ дѹшѧ противѹ природѣ · словѹ непокорьно и отъ него отъвраштьно · Страстьнъ не тъкъмо въ размꙑшлѥнии погрѣши · нъ отъ слова отъврати сѧ и не повинѹѥть сѧ ємѹ ·","originalText":"τὸ τῆς ψυχῆς πάθος εἶναι κίνησις παρὰ φύσιν. πᾶσαι γὰρ αἱ τοιαῦται κινήσεις τε καὶ καταστάσεις ἀπειθεῖς τε τῷ λόγῳ εἰσὶ καὶ ἀπεστραμμέναι. οὐχ οἷον κακῶς ἐν τῷ διαλογίζεσθαι, ἀλλὰ κατὰ τὴν τοῦ λόγου ἀποστροφήν.","author":"Chrysippus","sources":[{"name":"chrysippus-fragments","reference":"SVF III 476"}]
   }
 ]
