@@ -27,7 +27,7 @@ const workIds = new Set()
 const workKeys = new Set()
 const index = []
 const contentCache = new Map()
-const citationSchemes = new Set(['stephanus', 'book-chapter', 'section', 'fragment'])
+const citationSchemes = new Set(['stephanus', 'book-chapter', 'book-chapter-section', 'section', 'fragment'])
 
 const readContentFile = async (workDir, file, language) => {
   const filename = path.join(workDir, `${file}.${language}.md`)

@@ -1,0 +1,45 @@
+<!-- anchor:II.1 -->Ujutru unapred reci sebi: Srešću se sa nametljivim, nezahvalnim, nasilnim, lukavim, zavidljivim i nedruželjubivim čovekom. Sve ih je to snašlo iz neznanja dobra i zla. Ali ja sam uvideo da je priroda dobra lepa, a zla ružna, i da je priroda samoga grešnika srodna mojoj — ne po istoj krvi ili semenu, nego po udelu u umu i božanskom deliću. Zato mi niko od njih ne može nauditi, jer me niko neće zaodenuti ružnoćom; niti se mogu gneviti na srodnika ili ga mrzeti. Rođeni smo za saradnju, poput nogu, ruku, očnih kapaka i redova gornjih i donjih zuba. Protiviti se jedan drugome protivno je prirodi; a gneviti se i odvraćati upravo znači protiviti se.
+
+<!-- anchor:II.2 -->Šta god da sam, tek sam telo, dašak i vladajuće načelo. Ostavi knjige; ne daj da te više razvlače — nije ti dato. Kao da već umireš, prezri telo: krv i koščice, tkanje i splet nerava, žilica i arterija. Pogledaj i dašak kakav je: vetar, nikada isti, svakoga časa izbačen pa opet uvučen. Treće je vladajuće načelo. Ovako misli: starac si; ne daj mu više da robuje, da ga nedruželjubiv poriv poteže kao lutku na koncima, da negoduje protiv sadašnje sudbe ili zazire od buduće.
+
+<!-- anchor:II.3 -->Dela bogova puna su promisli. Ono što je od slučaja nije bez prirode, niti bez uvezanosti i prepletenosti sa onim čime promisao upravlja. Odatle sve teče; uz to idu nužda i korist celoga sveta, čiji si deo. Svakome delu prirode dobro je ono što donosi priroda celine i što nju održava. Svet održavaju promene kako počela, tako i njihovih spojeva. Neka ti to bude dovoljno i neka ti to budu mnenja. Odbaci žeđ za knjigama, da ne umreš gunđajući, nego istinski blag i od srca blagodaran bogovima.
+
+<!-- anchor:II.4 -->Pamti otkad već ovo odlažeš i koliko puta nisi iskoristio rokove koje su ti bogovi dali. Krajnje je vreme da uvidiš čijega si sveta deo, iz kojega upravitelja sveta ističe tvoje biće i da ti je omeđena mera vremena. Ne poslužiš li se njome da razvedriš svoj um, nestaće ona, nestaćeš i ti, i druge prilike neće biti.
+
+<!-- anchor:II.5 -->Svakoga časa čvrsto se staraj da ono što ti je u rukama izvršiš kao Rimljanin i muškarac, sa pomnim i neprisiljenim dostojanstvom, ljubavlju, slobodom i pravednošću, oslobađajući sebe od svih drugih predstava. Oslobodićeš se ako svako delo izvršavaš kao poslednje u životu: bez svake nesmotrenosti, bez strasnog odvraćanja od slovesnosti koja odlučuje, bez licemerja, samoljublja i negodovanja prema onome što ti je dodeljeno. Vidiš kako je malo toga čime čovek, ovladavši njime, može živeti životom koji dobro teče i bogovima je mio. Ni bogovi neće više tražiti od onoga koji ovo čuva.
+
+<!-- anchor:II.6 -->Vređaj, samo vređaj samu sebe, dušo; vremena da odaš sebi čast više nećeš imati. Svakome je jedan život, a tvoj je već gotovo dovršen: samu sebe ne poštuješ, nego svoju dobru sudbinu polažeš u duše drugih.
+
+<!-- anchor:II.7 -->Rasejava li te ono što spolja nailazi? Daj sebi dokolice da naučiš još nešto dobro i prestani da lutaš. Čuvaj se i drugoga lutanja: jer i delima buncaju oni koji su se umorili od života, a nemaju cilj kojem upravljaju svaki poriv i, uopšte, svaku predstavu.
+
+<!-- anchor:II.8 -->Retko se ko pokazao nesrećnim zato što nije pazio šta se događa u duši drugoga; ali oni koji ne prate kretanja vlastite duše nužno bivaju nesrećni.
+
+<!-- anchor:II.9 -->Uvek treba pamtiti kakva je priroda svega, kakva je moja, kako se ova odnosi prema onoj, kakav je deo kakve celine i da te niko ne sprečava da uvek činiš i govoriš ono što sledi prirodu čiji si deo.
+
+<!-- anchor:II.10 -->Teofrast filozofski kaže, poredeći greške onako kako bi ih neko mogao porediti prema opštem shvatanju, da su teže one učinjene iz žudnje nego one iz gneva. Jer čovek koji se gnevi kao da se odvraća od slovesnosti sa izvesnom tugom i skrivenom stegom; a ko greši iz žudnje, pobeđen uživanjem, pokazuje se nekako neuzdržanijim i slabijim u grešenju. Zato je ispravno i filozofije dostojno rekao da veći prekor zaslužuje greh učinjen sa uživanjem nego sa tugom. Uopšte, prvi više liči na čoveka kome je ranije učinjena nepravda i koji je tugom nagnan na gnev; drugi sam od sebe kreće da čini nepravdu, nošen žudnjom prema delu.
+
+<!-- anchor:II.11 -->Sve čini, govori i pomišljaj kao da već možeš otići iz života. Ako bogovi postoje, otići od ljudi nije ništa strašno, jer te oni ne bi predali zlu. Ako pak ne postoje ili ne mare za ljudske stvari, šta će mi život u svetu praznom od bogova ili promisli?
+
+Ali oni postoje i ljudske stvari su im važne; a da čovek ne zapadne u ono što je istinski zlo, potpuno su položili u njegovu moć. Da je i među ostalim stvarima kakvo zlo, i za njega bi se postarali da svakome bude moguće ne zapasti u nj. Kako bi ono što čoveka ne čini gorim moglo učiniti gorim njegov život?
+
+Priroda svega nije ovo previdela ni iz neznanja, ni znajući ali nemajući moći da to predupredi ili ispravi; niti je toliko pogrešila zbog nemoći ili neveštine da se dobra i zla bez razlike i podjednako događaju dobrim i zlim ljudima.
+
+Smrt i život, slava i neslava, bol i uživanje, bogatstvo i siromaštvo — sve se to podjednako događa dobrim i zlim ljudima, jer samo po sebi nije ni lepo ni ružno. Zato nije ni dobro ni zlo.
+
+<!-- anchor:II.12 -->Kako brzo sve iščezava: u svetu sama tela, u veku uspomene na njih. Kakve su sve čulne stvari, a naročito one koje mame uživanjem, zastrašuju bolom ili su razglašene nadmenošću; kako su neznatne, prezrive, prljave, propadljive i mrtve — na to neka pazi umna sila. Ko su oni čija mnenja i glasovi daju dobar glas? Šta je umiranje? Pogleda li ga čovek samo po sebi i razlaganjem pojma ukloni ono što se u njemu pričinjava, neće ga više smatrati ničim drugim do delom prirode. A ko se boji dela prirode, dete je; smrt pak nije samo delo prirode nego joj i koristi. Kako se čovek dotiče boga, kojim delom sebe i u kakvom stanju mora biti taj čovekov deo?
+
+<!-- anchor:II.13 -->Ništa nije jadnije od čoveka koji sve obilazi ukrug, „istražuje ono pod zemljom” i po znacima ispituje šta je u dušama bližnjih, a ne uviđa da je dovoljno biti uz demona u sebi i njemu istinski služiti. Služiti mu znači čuvati ga čistim od strasti, nesmotrenosti i negodovanja prema onome što dolazi od bogova i ljudi. Ono što je od bogova dostojno je poštovanja zbog vrline; ono što je od ljudi milo je zbog srodstva, a katkad i nekako sažaljenja dostojno zbog neznanja dobra i zla. Ta osakaćenost nije manja od one koja oduzima moć razlikovanja beloga od crnoga.
+
+<!-- anchor:II.14 -->Makar imao živeti tri hiljade godina, pa i deset hiljada puta toliko, ipak pamti da niko ne gubi drugi život osim onoga koji živi, niti živi drugi osim onoga koji gubi. Najduži se, dakle, svodi na isto što i najkraći. Sadašnjost je svima jednaka, pa je jednako i ono što propada; tako se pokazuje da gubimo tek jedan tren. Jer niko ne može izgubiti ni prošlo ni buduće: kako bi mu ko mogao oduzeti ono što nema?
+
+Zato treba pamtiti ovo dvoje: prvo, da je sve od večnosti istovrsno i da se vraća u krugu, te nema razlike hoće li neko isto gledati za sto godina, za dvesta ili kroz beskrajno vreme; drugo, da najdugovečniji i onaj koji će najbrže umreti gube jednako. Jer čovek može biti lišen samo sadašnjosti, ako jedino nju i ima; a ono što nema ne može izgubiti.
+
+<!-- anchor:II.15 -->Sve je prihvatanje. Jasno je ono što se govori kiniku Monimu; jasna je i korist te izreke, ako čovek prihvati njenu valjanost samo dokle je istinita.
+
+<!-- anchor:II.16 -->Čovekova duša vređa samu sebe ponajviše kada, koliko je do nje, postane otpadak i kao izraslina na svetu; jer negodovati zbog nečega što se događa znači odmetnuti se od prirode, u čijem su delu sadržane prirode svih drugih bića. Zatim, kada se odvrati od nekoga čoveka ili krene protiv njega s namerom da mu naudi, kao što čine duše gnevnih. Treći put vređa samu sebe kada je pobede uživanje ili bol. Četvrti, kada se pretvara i čini ili govori nešto izveštačeno i neistinito. Peti, kada svoje delo i poriv ne upravlja nikakvom cilju, nego bilo šta čini nasumice i bez praćenja smisla, premda i najmanje stvari treba činiti s obzirom na svrhu. A svrha slovesnih bića jeste slediti slovesnost i zakon najstarijega grada i zajednice.
+
+<!-- anchor:II.17 -->Vreme ljudskoga života je tren, suštastvo mu teče, opažanje je mutno, sklop celoga tela lako truli, duša je čigra, slučaj teško dokučiv, glas o nama bez suda. Ukratko: sve telesno je reka, sve duševno san i dim; život je ratovanje i boravak tuđinca, a posmrtna slava zaborav.
+
+Šta nas onda može sprovesti? Jedno jedino: filozofija. A ona se sastoji u tome da demona u sebi čuvamo neuvređenog i nepovređenog, jačeg od uživanja i bolova; da ništa ne čini nasumice, lažno ili licemerno; da mu ne bude potrebno da drugi nešto učini ili ne učini; zatim, da ono što se događa i dodeljuje prima kao da dolazi odande odakle je i sam došao; a iznad svega, da smrt čeka blage misli, kao ništa drugo do razlaganje počela od kojih je svako živo biće sastavljeno. Ako samim počelima nije strašno što se svako neprestano menja u drugo, zašto bi se čovek bojao promene i razlaganja svega? To je prema prirodi, a ništa što je prema prirodi nije zlo.
+
+U Karnuntu.

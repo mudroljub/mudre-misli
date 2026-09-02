@@ -5,7 +5,24 @@ import { fileURLToPath } from 'node:url'
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const indexFile = path.join(rootDir, 'data', 'works-index.json')
 const outputFile = path.join(rootDir, 'data', 'work-originals.json')
-const works = JSON.parse(await fs.readFile(indexFile, 'utf8'))
+const draftMode = process.argv.includes('--drafts')
+
+const findDrafts = async directory => {
+  const entries = await fs.readdir(directory, { withFileTypes: true })
+  const nested = await Promise.all(entries.map(async entry => {
+    const target = path.join(directory, entry.name)
+    if (entry.isDirectory()) return findDrafts(target)
+    return entry.isFile() && entry.name === 'work.draft.json' ? [target] : []
+  }))
+  return nested.flat()
+}
+
+const works = draftMode
+  ? await Promise.all((await findDrafts(path.join(rootDir, 'data', 'works'))).sort().map(async filename => ({
+      ...JSON.parse(await fs.readFile(filename, 'utf8')),
+      directory: path.relative(path.join(rootDir, 'data', 'works'), path.dirname(filename)).replaceAll('\\', '/'),
+    })))
+  : JSON.parse(await fs.readFile(indexFile, 'utf8'))
 const xmlCache = new Map()
 
 const attrs = tag => Object.fromEntries(
@@ -68,10 +85,13 @@ const romanToNumber = roman => {
   return total
 }
 
-const canonicalGreekFile = async workId => {
+const greekFile = async (collection, workId) => {
   const [authorId, textId] = workId.split('.')
-  const directory = path.join(rootDir, 'data', 'sources', 'canonical-greekLit', 'data', authorId, textId)
-  const files = (await fs.readdir(directory)).filter(file => /\.perseus-grc\d+\.xml$/u.test(file)).sort()
+  const directory = path.join(rootDir, 'data', 'sources', collection, 'data', authorId, textId)
+  const pattern = collection === 'canonical-greekLit'
+    ? /\.perseus-grc\d+\.xml$/u
+    : /\.1st1K-grc\d+\.xml$/u
+  const files = (await fs.readdir(directory)).filter(file => pattern.test(file)).sort()
   if (!files.length) throw new Error(`No Greek edition for ${workId}`)
   return path.join(directory, files.at(-1))
 }
@@ -107,6 +127,26 @@ const extractDiscourses = (xml, anchor) => {
 const extractEnchiridion = (xml, anchor) => {
   const chapter = findDiv(xml, { subtype: 'chapter', n: anchor })
   return chapter ? teiToText(chapter.xml) : null
+}
+
+const extractBookChapter = (xml, anchor) => {
+  const match = anchor.match(/^([IVX]+)\.(\d+)$/u)
+  if (!match) return null
+  const book = findDiv(xml, { subtype: 'book', n: romanToNumber(match[1]) })
+  if (!book) return null
+  const chapter = findDiv(book.xml, { subtype: 'chapter', n: match[2] })
+  return chapter ? teiToText(chapter.xml) : null
+}
+
+const extractBookChapterSection = (xml, anchor) => {
+  const match = anchor.match(/^([IVX]+)\.(\d+)\.(\d+)$/u)
+  if (!match) return null
+  const book = findDiv(xml, { subtype: 'book', n: romanToNumber(match[1]) })
+  if (!book) return null
+  const chapter = findDiv(book.xml, { subtype: 'chapter', n: match[2] })
+  if (!chapter) return null
+  const section = findDiv(chapter.xml, { subtype: 'section', n: match[3] })
+  return section ? teiToText(section.xml) : null
 }
 
 const extractFragment = (xml, anchor) => {
@@ -149,8 +189,8 @@ const originals = {}
 for (const work of works) {
   let filename
   let xml
-  if (work.source.name === 'canonical-greekLit') {
-    filename = await canonicalGreekFile(work.source.work)
+  if (work.source.name === 'canonical-greekLit' || work.source.name === 'First1KGreek') {
+    filename = await greekFile(work.source.name, work.source.work)
     xml = await readXml(filename)
   } else if (work.source.name === 'diogenes-laertius') {
     filename = path.join(rootDir, 'data', 'sources', 'diogenes-laertius', 'diogenes-laertius.xml')
@@ -174,8 +214,14 @@ for (const work of works) {
     } else if (work.citationScheme === 'stephanus') {
       text = extractStephanus(xml, section.anchor)
       citation = section.anchor
+    } else if (work.citationScheme === 'book-chapter-section') {
+      text = extractBookChapterSection(xml, section.anchor)
+      citation = `${romanToNumber(section.anchor.split('.')[0])}.${section.anchor.split('.').slice(1).join('.')}`
     } else if (work.slug === 'discourses') {
       text = extractDiscourses(xml, section.anchor)
+      citation = `${romanToNumber(section.anchor.split('.')[0])}.${section.anchor.split('.')[1]}`
+    } else if (work.citationScheme === 'book-chapter') {
+      text = extractBookChapter(xml, section.anchor)
       citation = `${romanToNumber(section.anchor.split('.')[0])}.${section.anchor.split('.')[1]}`
     } else if (work.citationScheme === 'fragment') {
       text = extractFragment(xml, section.anchor)
@@ -194,6 +240,10 @@ for (const work of works) {
 }
 
 const output = `${JSON.stringify(originals, null, 2)}\n`
+if (draftMode) {
+  console.log(`Validated ${Object.keys(originals).length} original sections from ${works.length} draft works`)
+  process.exit(0)
+}
 let current = null
 try { current = await fs.readFile(outputFile, 'utf8') } catch (error) {
   if (error?.code !== 'ENOENT') throw error

@@ -1,0 +1,2630 @@
+{
+  "id": "mw-000010",
+  "slug": "enneads",
+  "author": "Plotinus",
+  "kind": "collection",
+  "title": {
+    "sr": "Eneade",
+    "stsl": "Девѧтицꙑ"
+  },
+  "originalTitle": "Ἐννεάδες",
+  "source": {
+    "name": "First1KGreek",
+    "work": "tlg2000.tlg001"
+  },
+  "citationScheme": "book-chapter-section",
+  "sections": [
+    {
+      "anchor": "I.1.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.2",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.3",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.4",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.5",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.6",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.7",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.8",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.9",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.10",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.11",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.12",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.1.13",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.2.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.2.2",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.2.3",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.2.4",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.2.5",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.2.6",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.2.7",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.3.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.3.2",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.3.3",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.3.4",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.3.5",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.3.6",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.2",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.3",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.4",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.5",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.6",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.7",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.8",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.9",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.10",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.11",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.12",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.13",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.14",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.15",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.4.16",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.2",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.3",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.4",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.5",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.6",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.7",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.8",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.9",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.5.10",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.2",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.3",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.4",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.5",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.6",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.7",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.8",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.6.9",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.7.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.7.2",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.7.3",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.2",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.3",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.4",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.5",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.6",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.7",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.8",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.9",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.10",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.11",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.12",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.13",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.14",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.8.15",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "I.9.1",
+      "file": "ennead-i"
+    },
+    {
+      "anchor": "II.1.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.1.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.1.3",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.1.4",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.1.5",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.1.6",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.1.7",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.1.8",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.2.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.2.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.2.3",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.3",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.4",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.5",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.6",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.7",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.8",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.9",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.10",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.11",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.12",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.13",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.14",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.15",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.16",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.17",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.3.18",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.3",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.4",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.5",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.6",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.7",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.8",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.9",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.10",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.11",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.12",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.13",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.14",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.15",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.4.16",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.5.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.5.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.5.3",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.5.4",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.5.5",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.6.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.6.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.6.3",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.7.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.7.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.7.3",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.8.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.8.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.1",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.2",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.3",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.4",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.5",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.6",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.7",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.8",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.9",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.10",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.11",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.12",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.13",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.14",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.15",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.16",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.17",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "II.9.18",
+      "file": "ennead-ii"
+    },
+    {
+      "anchor": "III.1.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.4",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.5",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.6",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.7",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.8",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.9",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.1.10",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.4",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.5",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.6",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.7",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.8",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.9",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.10",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.11",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.12",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.13",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.14",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.15",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.16",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.17",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.2.18",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.3.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.3.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.3.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.3.4",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.3.5",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.3.6",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.3.7",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.4.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.4.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.4.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.4.4",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.4.5",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.4.6",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.4",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.5",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.6",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.7",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.8",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.5.9",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.4",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.5",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.6",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.7",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.8",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.9",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.10",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.11",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.12",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.13",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.14",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.15",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.16",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.17",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.18",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.6.19",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.4",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.5",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.6",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.7",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.8",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.9",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.10",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.11",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.12",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.7.13",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.4",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.5",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.6",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.7",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.8",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.9",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.10",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.8.11",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.9.1",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.9.2",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "III.9.3",
+      "file": "ennead-iii"
+    },
+    {
+      "anchor": "IV.1.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.2.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.2.2",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.2",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.3",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.4",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.5",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.6",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.7",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.8",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.9",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.10",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.11",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.12",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.13",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.14",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.15",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.16",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.17",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.18",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.19",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.20",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.21",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.22",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.23",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.24",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.25",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.26",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.27",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.28",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.29",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.30",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.31",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.3.32",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.2",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.3",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.4",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.5",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.6",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.7",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.8",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.9",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.10",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.11",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.12",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.13",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.14",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.15",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.16",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.17",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.18",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.19",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.20",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.21",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.22",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.23",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.24",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.25",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.26",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.27",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.28",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.29",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.30",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.31",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.32",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.33",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.34",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.35",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.36",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.37",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.38",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.39",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.40",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.41",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.42",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.43",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.44",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.4.45",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.5.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.5.2",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.5.3",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.5.4",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.5.5",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.5.6",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.5.7",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.5.8",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.6.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.6.2",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.6.3",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.2",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.3",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.4",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.5",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.6",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.7",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.8",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.9",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.10",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.11",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.12",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.13",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.14",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.7.15",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.8.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.8.2",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.8.3",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.8.4",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.8.5",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.8.6",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.8.7",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.8.8",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.9.1",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.9.2",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.9.3",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.9.4",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "IV.9.5",
+      "file": "ennead-iv"
+    },
+    {
+      "anchor": "V.1.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.3",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.4",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.5",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.6",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.7",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.8",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.9",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.10",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.11",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.1.12",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.2.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.2.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.3",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.4",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.5",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.6",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.7",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.8",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.9",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.10",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.11",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.12",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.13",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.14",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.15",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.16",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.3.17",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.4.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.4.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.3",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.4",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.5",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.6",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.7",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.8",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.9",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.10",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.11",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.12",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.5.13",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.6.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.6.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.6.3",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.6.4",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.6.5",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.6.6",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.7.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.7.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.7.3",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.3",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.4",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.5",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.6",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.7",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.8",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.9",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.10",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.11",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.12",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.8.13",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.1",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.2",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.3",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.4",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.5",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.6",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.7",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.8",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.9",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.10",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.11",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.12",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.13",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "V.9.14",
+      "file": "ennead-v"
+    },
+    {
+      "anchor": "VI.1.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.11",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.12",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.13",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.14",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.15",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.16",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.17",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.18",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.19",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.20",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.21",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.22",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.23",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.24",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.25",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.26",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.27",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.28",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.29",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.1.30",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.11",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.12",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.13",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.14",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.15",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.16",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.17",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.18",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.19",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.20",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.21",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.2.22",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.11",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.12",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.13",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.14",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.15",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.16",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.17",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.18",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.19",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.20",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.21",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.22",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.23",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.24",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.25",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.26",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.27",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.3.28",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.11",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.12",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.13",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.14",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.15",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.4.16",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.11",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.5.12",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.11",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.12",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.13",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.14",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.15",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.16",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.17",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.6.18",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.11",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.12",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.13",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.14",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.15",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.16",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.17",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.18",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.19",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.20",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.21",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.22",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.23",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.24",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.25",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.26",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.27",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.28",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.29",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.30",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.31",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.32",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.33",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.34",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.35",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.36",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.37",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.38",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.39",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.40",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.41",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.7.42",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.11",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.12",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.13",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.14",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.15",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.16",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.17",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.18",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.19",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.20",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.8.21",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.1",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.2",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.3",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.4",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.5",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.6",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.7",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.8",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.9",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.10",
+      "file": "ennead-vi"
+    },
+    {
+      "anchor": "VI.9.11",
+      "file": "ennead-vi"
+    }
+  ]
+}

@@ -81,8 +81,21 @@ dialogue, treatise, letter, handbook, collection, poem
 Dozvoljeni sistemi citiranja su:
 
 ```text
-stephanus, book-chapter, section, fragment
+stephanus, book-chapter, book-chapter-section, section, fragment
 ```
+
+Shema `book-chapter-section` koristi se za dela sa tri kanonska nivoa, kao
+što su Plotinove Eneade (`I.1.1`). `book-chapter` označava dela čija je
+čitalačka jedinica poglavlje unutar knjige, kao u delu *Samome sebi*
+(`I.1`).
+
+## Priprema velikih dela
+
+Veliko delo može se pripremiti bez prevremenog objavljivanja. Dok prevod još
+nema nijednu dovršenu čitalačku jedinicu, manifest se zove `work.draft.json`.
+Build ga ne učitava, pa fajlovi sa pripremljenim sidrima nisu vidljivi u
+aplikaciji. Posle prevoda i provere svih jedinica manifest se preimenuje u
+`work.json` i pokreću se `build:works` i `build:work-originals`.
 
 ## Build i provera
 

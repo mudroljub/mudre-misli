@@ -23,3 +23,8 @@ data/sources/First1KGreek/data/tlg2000/tlg001/tlg2000.tlg001.1st1K-grc1.xml#5.1.
 
 Raspon se koristi samo kada jedan unos neprekidno prelazi iz jednog odeljka u
 sledeći.
+
+Korpus sadrži svih **6 eneada**, **54 rasprave** i **653 kanonska odeljka**.
+Za prevod se koristi sidro oblika `I.1.1`, a prevodni tekst deli se u šest
+fajlova, po jedan za svaku eneadu. Pripremljeni nacrt manifesta nalazi se u
+`data/works/plotinus/enneads/work.draft.json`.

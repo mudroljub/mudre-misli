@@ -1,0 +1,1962 @@
+{
+  "id": "mw-000011",
+  "slug": "meditations",
+  "author": "Marcus Aurelius",
+  "kind": "collection",
+  "title": {
+    "sr": "Samome sebi",
+    "stsl": "Самомѹ себѣ"
+  },
+  "originalTitle": "Τὰ εἰς ἑαυτόν",
+  "source": {
+    "name": "canonical-greekLit",
+    "work": "tlg0562.tlg001"
+  },
+  "citationScheme": "book-chapter",
+  "sections": [
+    {
+      "anchor": "I.1",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.2",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.3",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.4",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.5",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.6",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.7",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.8",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.9",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.10",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.11",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.12",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.13",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.14",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.15",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.16",
+      "file": "book-i"
+    },
+    {
+      "anchor": "I.17",
+      "file": "book-i"
+    },
+    {
+      "anchor": "II.1",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.2",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.3",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.4",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.5",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.6",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.7",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.8",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.9",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.10",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.11",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.12",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.13",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.14",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.15",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.16",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "II.17",
+      "file": "book-ii"
+    },
+    {
+      "anchor": "III.1",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.2",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.3",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.4",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.5",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.6",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.7",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.8",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.9",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.10",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.11",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.12",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.13",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.14",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.15",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "III.16",
+      "file": "book-iii"
+    },
+    {
+      "anchor": "IV.1",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.2",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.3",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.4",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.5",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.6",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.7",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.8",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.9",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.10",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.11",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.12",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.13",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.14",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.15",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.16",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.17",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.18",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.19",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.20",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.21",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.22",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.23",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.24",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.25",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.26",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.27",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.28",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.29",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.30",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.31",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.32",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.33",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.34",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.35",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.36",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.37",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.38",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.39",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.40",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.41",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.42",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.43",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.44",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.45",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.46",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.47",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.48",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.49",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.50",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "IV.51",
+      "file": "book-iv"
+    },
+    {
+      "anchor": "V.1",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.2",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.3",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.4",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.5",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.6",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.7",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.8",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.9",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.10",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.11",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.12",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.13",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.14",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.15",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.16",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.17",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.18",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.19",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.20",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.21",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.22",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.23",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.24",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.25",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.26",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.27",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.28",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.29",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.30",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.31",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.32",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.33",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.34",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.35",
+      "file": "book-v"
+    },
+    {
+      "anchor": "V.36",
+      "file": "book-v"
+    },
+    {
+      "anchor": "VI.1",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.2",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.3",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.4",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.5",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.6",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.7",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.8",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.9",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.10",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.11",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.12",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.13",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.14",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.15",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.16",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.17",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.18",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.19",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.20",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.21",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.22",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.23",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.24",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.25",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.26",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.27",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.28",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.29",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.30",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.31",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.32",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.33",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.34",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.35",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.36",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.37",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.38",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.39",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.40",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.41",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.42",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.43",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.44",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.45",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.46",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.47",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.48",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.49",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.50",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.51",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.52",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.53",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.54",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.55",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.56",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.57",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.58",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VI.59",
+      "file": "book-vi"
+    },
+    {
+      "anchor": "VII.1",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.2",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.3",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.4",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.5",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.6",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.7",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.8",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.9",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.10",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.11",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.12",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.13",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.14",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.15",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.16",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.17",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.18",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.19",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.20",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.21",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.22",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.23",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.24",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.25",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.26",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.27",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.28",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.29",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.30",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.31",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.32",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.33",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.34",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.35",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.36",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.37",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.38",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.39",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.40",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.41",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.42",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.43",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.44",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.45",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.46",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.47",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.48",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.49",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.50",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.51",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.52",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.53",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.54",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.55",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.56",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.57",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.58",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.59",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.60",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.61",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.62",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.63",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.64",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.65",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.66",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.67",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.68",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.69",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.70",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.71",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.72",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.73",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.74",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VII.75",
+      "file": "book-vii"
+    },
+    {
+      "anchor": "VIII.1",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.2",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.3",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.4",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.5",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.6",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.7",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.8",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.9",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.10",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.11",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.12",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.13",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.14",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.15",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.16",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.17",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.18",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.19",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.20",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.21",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.22",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.23",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.24",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.25",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.26",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.27",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.28",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.29",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.30",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.31",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.32",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.33",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.34",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.35",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.36",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.37",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.38",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.39",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.40",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.41",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.42",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.43",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.44",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.45",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.46",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.47",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.48",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.49",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.50",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.51",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.52",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.53",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.54",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.55",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.56",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.57",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.58",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.59",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.60",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "VIII.61",
+      "file": "book-viii"
+    },
+    {
+      "anchor": "IX.1",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.2",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.3",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.4",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.5",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.6",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.7",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.8",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.9",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.10",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.11",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.12",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.13",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.14",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.15",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.16",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.17",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.18",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.19",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.20",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.21",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.22",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.23",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.24",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.25",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.26",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.27",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.28",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.29",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.30",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.31",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.32",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.33",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.34",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.35",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.36",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.37",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.38",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.39",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.40",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.41",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "IX.42",
+      "file": "book-ix"
+    },
+    {
+      "anchor": "X.1",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.2",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.3",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.4",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.5",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.6",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.7",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.8",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.9",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.10",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.11",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.12",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.13",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.14",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.15",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.16",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.17",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.18",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.19",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.20",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.21",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.22",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.23",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.24",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.25",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.26",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.27",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.28",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.29",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.30",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.31",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.32",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.33",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.34",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.35",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.36",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.37",
+      "file": "book-x"
+    },
+    {
+      "anchor": "X.38",
+      "file": "book-x"
+    },
+    {
+      "anchor": "XI.1",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.2",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.3",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.4",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.5",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.6",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.7",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.8",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.9",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.10",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.11",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.12",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.13",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.14",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.15",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.16",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.17",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.18",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.19",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.20",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.21",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.22",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.23",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.24",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.25",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.26",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.27",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.28",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.29",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.30",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.31",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.32",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.33",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.34",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.35",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.36",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.37",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.38",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XI.39",
+      "file": "book-xi"
+    },
+    {
+      "anchor": "XII.1",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.2",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.3",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.4",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.5",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.6",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.7",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.8",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.9",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.10",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.11",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.12",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.13",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.14",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.15",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.16",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.17",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.19",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.20",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.21",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.22",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.23",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.24",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.25",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.26",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.27",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.28",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.29",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.30",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.31",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.32",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.33",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.34",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.35",
+      "file": "book-xii"
+    },
+    {
+      "anchor": "XII.36",
+      "file": "book-xii"
+    }
+  ]
+}
