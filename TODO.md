@@ -31,7 +31,6 @@
 
 ## Terminologija i UI
 
-- na stranici citata prikazati tagove sa linkovima, ako ih ima
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
    - demon
    - stroj
