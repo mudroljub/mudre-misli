@@ -1,233 +1,428 @@
 [
-  {
-    "id": "mm-000316",
-    "type": "bio",
-    "year": -300,
-    "sr": "Ariston sa Hiosa, zvan Ćelavi, imao je nadimak Sirena.",
-    "stsl": "Аристонъ отъ Хиа · нарицаемꙑи Лꙑсꙑи · проꙁъванъ Сирена ·",
-    "originalText": "Ἀρίστων ὁ Χῖος ὁ Φάλανθος ἐπικαλούμενος Σειρήν.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.160"
-      }
-    ]
-  },
-  {
-    "id": "mm-000317",
-    "type": "reported",
-    "sr": "Govorio je da je svrha živeti ravnodušno prema stvarima između vrline i poroka, ne praveći među njima nikakvu razliku, već se prema svima jednako odnositi.",
-    "stsl": "Съвръхѫ глаголааше бꙑти · равнодѹшьно жити къ вещемъ междѹ добродѣтелиѭ и порокомь · ни коѥгоже различиꙗ въ нихъ оставлꙗти · нъ къ вьсѣмъ єдинако сѧ имѣти ·",
-    "originalText": "Τέλος ἔφησεν εἶναι τὸ ἀδιαφόρως ἔχοντα ζῆν πρὸς τὰ μεταξὺ ἀρετῆς καὶ κακίας μηδ' ἡντινοῦν ἐν αὐτοῖς παραλλαγὴν ἀπολείποντα, ἀλλ' ἐπίσης ἐπὶ πάντων ἔχοντα.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.160"
-      }
-    ]
-  },
-  {
-    "id": "mm-000318",
-    "type": "quote",
-    "sr": "Mudrac je sličan dobrom glumcu koji, bilo da preuzme ulogu Tersita ili Agamemnona, svaku igra kako dolikuje.",
-    "stsl": "Мѫдрьць подобьнъ єсть добромѹ глѹмьцѹ · иже · аще ли прииметь обраꙁъ Терсита или Агамемнона · кождꙑи лѣпо сътворить ·",
-    "originalText": "εἶναι γὰρ ὅμοιον τὸν σοφὸν τῷ ἀγαθῷ ὑποκριτῇ, ὃς ἄν τε Θερσίτου ἄν τε Ἀγαμέμνονος πρόσωπον ἀναλάβῃ, ἑκάτερον ὑποκρίνεται προσηκόντως.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.160"
-      }
-    ]
-  },
-  {
-    "id": "mm-000319",
-    "type": "reported",
-    "sr": "Odbacivao je fiziku i logiku, govoreći da je fizika izvan našeg domašaja, a da se logika nas uopšte ne tiče; jedino se etika tiče nas.",
-    "stsl": "Отъвръгааше ѹчениѥ о єстествѣ и ѹчениѥ о словесѣ · глаголѧ ꙗко пръвоѥ вꙑше насъ єсть · а вътороѥ ничьтоже къ намъ · токмо ѹчениѥ о нравѣ къ намъ єсть ·",
-    "originalText": "Τόν τε φυσικὸν τόπον καὶ τὸν λογικὸν ἀνῄρει, λέγων τὸν μὲν εἶναι ὑπὲρ ἡμᾶς, τὸν δ' οὐδὲν πρὸς ἡμᾶς, μόνον δὲ τὸν ἠθικὸν εἶναι πρὸς ἡμᾶς.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.160"
-      }
-    ]
-  },
-  {
-    "id": "mm-000320",
-    "type": "reported",
-    "sr": "Govorio je da su dijalektička rasuđivanja slična paučinama: premda izgledaju kao delo neke veštine, beskorisna su.",
-    "stsl": "Разговорьнаꙗ словеса · глаголааше · подобьна сѫть паѹчинамъ · ꙗже · аще и хѫдожьство нѣкоѥ ꙗвлꙗѭть · непотрѣбьна сѫть ·",
-    "originalText": "Ἐοικέναι δὲ τοὺς διαλεκτικοὺς λόγους τοῖς ἀραχνίοις, ἃ καίτοι δοκοῦντα τεχνικόν τι ἐμφαίνειν, ἄχρηστά ἐστιν.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.161"
-      }
-    ]
-  },
-  {
-    "id": "mm-000321",
-    "type": "anecdote",
-    "year": -270,
-    "sr": "Protivio se Arkesilaju. Jednom, videvši nakaznog bika koji je imao matericu, reče: Jao meni, Arkesilaju je dat argument protiv očiglednosti.",
-    "stsl": "Противлꙗаше сѧ Аркесилаѭ · Єдиноѭ видѣвъ чѹдовьна бꙑка · иже имать ложесна · рече · Горе мънѣ · данъ бꙑстъ Аркесилаѭ доводъ противѫ ꙗвьности ·",
-    "originalText": "Ἀπετείνετο δὲ πρὸς Ἀρκεσίλαον· ὅτε θεασάμενος ταῦρον τερατώδη μήτραν ἔχοντα, οἴμοι, ἔφη, δέδοται Ἀρκεσιλάῳ ἐπιχείρημα κατὰ τῆς ἐναργείας.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.162"
-      }
-    ]
-  },
-  {
-    "id": "mm-000322",
-    "type": "anecdote",
-    "year": -270,
-    "sr": "Kada je neki akademik rekao da ništa ne poima, Ariston ga upita: Zar ne vidiš ni čoveka koji sedi pored tebe? Pošto ovaj odgovori da ne vidi, Ariston reče: Ko te oslepi, ko ti oduze svetlost očiju?",
-    "stsl": "Єгда нѣкыи академикъ рече ꙗко ничьтоже разѹмѣѥть · Аристонъ въпроси и · Єда ни близъ тебе сѣдѧштаго чловѣка видиши · Онѹ же отъвьргъшѹ · Аристонъ рече · Кто тѧ ослѣпи · къто ти свѣтъ очию отъꙗ ·",
-    "originalText": "Πρὸς δὲ τὸν φάμενον Ἀκαδημαϊκὸν οὐδὲν καταλαμβάνειν, « ἆρ' οὐδὲ τὸν πλησίον σου καθήμενον ὁρᾷς; » εἶπεν· ἀρνησαμένου δέ, τίς <δέ> σ' ἐτύφλωσεν (ἔφη), τίς ἀφείλετο λαμπάδος αὐγάς;",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.163"
-      }
-    ]
-  },
-  {
-    "id": "mm-000324",
-    "type": "anecdote",
-    "year": -250,
-    "sr": "Priča se da je, budući ćelav, izgoreo na suncu i tako umro.",
-    "stsl": "Глаголѥть ꙗко · бꙑвъ лꙑсъ · иꙁгорѣ на слънцѹ и тако ѹмрѣ ·",
-    "originalText": "Τοῦτον λόγος φαλακρὸν ὄντα ἐγκαυθῆναι ὑπὸ ἡλίου καὶ ὧδε τελευτῆσαι.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.164"
-      }
-    ]
-  },
-  {
-    "id": "mm-002074",
-    "type": "reported",
-    "sr": "Ariston nije uvodio ni mnoge vrline, kao Zenon, ni jednu vrlinu zvanu mnogim imenima, kao Megarani, već ih je razlikovao prema njihovim odnosima.",
-    "stsl": "Аристонъ не въводꙗаше ни многꙑ добродѣтели ꙗкоже Ꙁинонъ · ни единѫ многꙑми именꙑ нарицаемѫ ꙗкоже Мегарꙗне · нъ по томѹ · къ чемѹ и како имать сѧ ·",
-    "originalText": "Ἀρετάς τ' οὔτε πολλὰς εἰσῆγεν, ὡς ὁ Ζήνων, οὔτε μίαν πολλοῖς ὀνόμασι καλουμένην, ὡς οἱ Μεγαρικοί, ἀλλὰ κατὰ τὸ πρός τί πως ἔχειν.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.161"
-      }
-    ]
-  },
-  {
-    "id": "mm-002075",
-    "type": "bio",
-    "year": -280,
-    "sr": "Raspravljao je u Kinosargu i stekao glas osnivača škole; Miltijad i Difil nazivani su aristonovcima. Bio je ubedljiv govornik i po ukusu mnoštva.",
-    "stsl": "Въ Кѵносарꙁѣ бесѣдоваше и началникъ ѹчениꙗ проꙁъва сѧ · Милтіадъ и Діфилъ аристоновьци нарицахѫ сѧ · Ѹбѣдительнъ бѣ и народѹ ѹгодьнъ ·",
-    "originalText": "Οὕτω δὲ φιλοσοφῶν καὶ ἐν Κυνοσάργει διαλεγόμενος ἴσχυσεν αἱρετιστὴς ἀκοῦσαι. Μιλτιάδης οὖν καὶ Δίφιλος Ἀριστώνειοι προσηγορεύοντο. Ἦν δέ τις πειστικὸς καὶ ὄχλῳ πεποιημένος.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.161"
-      }
-    ]
-  },
-  {
-    "id": "mm-002076",
-    "type": "mention",
-    "sr": "Timon je o njemu rekao: I neko što poreklo vuče od laskavog Aristona.",
-    "stsl": "Тимонъ о немь рече · И нѣкыи отъ лъстива Аристона родъ влекꙑ ·",
-    "originalText": "ὅθεν ὁ Τίμων φησὶ περὶ αὐτοῦ, Καί τις Ἀρίστωνος γέννης ἄπο αἱμύλον ἕλκων.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.161"
-      }
-    ]
-  },
-  {
-    "id": "mm-002077",
-    "type": "bio",
-    "year": -280,
-    "sr": "Diokle iz Magnezije kaže da je, pošto je Zenon zapao u dugu bolest, prišao Polemonu i prešao na njegovu stranu.",
-    "stsl": "Діоклъ Магнезиискъ глаголеть · єгда Зенонъ въ длъгѫ болѣзнь въпаде · Аристонъ къ Полемонѹ пристѫпи и къ немѹ прѣложи сѧ ·",
-    "originalText": "Παραβαλὼν δὲ Πολέμωνι, φησὶ Διοκλῆς ὁ Μάγνης, μετέθετο, Ζήνωνος ἀρρωστίᾳ μακρᾷ περιπεσόντος.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.162"
-      }
-    ]
-  },
-  {
-    "id": "mm-002078",
-    "type": "reported",
-    "sr": "Najviše se držao stoičkog učenja da mudrac ništa ne prihvata kao puko mnenje. Persej je to učenje osporio tako što je jednog od dvojice braće blizanaca naveo da Aristonu preda neki predmet na čuvanje, a potom drugoga da ga zatraži natrag. Kada se Ariston našao u nedoumici, Persej ga je time opovrgao.",
-    "stsl": "Паче вьсего стоичьскаго ѹчениꙗ дръжаше сѧ · ꙗко мѫдрьць ничьтоже въ мьнѣниѥ приимлеть · Семѹ ѹчениѭ Персеи противѧ сѧ · единаго отъ двою братѹ блиꙁньцѹ сътвори покладъ Аристонѹ дати · потомь же другаго · да въсприиметь и · и тако Аристона недоѹмѣвъша обличи ·",
-    "originalText": "Μάλιστα δὲ προσεῖχε Στωικῷ δόγματι τῷ τὸν σοφὸν ἀδόξαστον εἶναι. Πρὸς ὃ Περσαῖος ἐναντιούμενος διδύμων ἀδελφῶν τὸν ἕτερον ἐποίησεν αὐτῷ παρακαταθήκην δοῦναι, ἔπειτα τὸν ἕτερον ἀπολαβεῖν· καὶ οὕτως ἀπορούμενον διήλεγξεν.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.162"
-      }
-    ]
-  },
-  {
-    "id": "mm-002080",
-    "type": "works",
-    "sr": "Pripisivana su mu sledeća dela: dve knjige Podsticaja; O Zenonovim učenjima; Razgovori; šest knjiga Predavanja; sedam rasprava O mudrosti; Ljubavne rasprave; Beleške o sujeti; dvadeset pet knjiga Beležaka; tri knjige Sećanja; jedanaest knjiga Izreka; Protiv govornika; Protiv Aleksinovih odgovora; tri knjige Protiv dijalektičara; Protiv Kleanta; četiri knjige Pisama. Panetije i Sosikrat kažu da su samo pisma njegova, a ostalo Aristona Peripatetika.",
-    "stsl": "Дѣла сиꙗ емѹ приписахѫ · Поѹчениꙗ двѣ · О Зеноновѣхъ ѹчениихъ · Разговори · Бесѣдъ шесть · О мѫдрости бесѣдъ седмь · Бесѣдꙑ любовьнꙑ · Памѧти о сѹѥтѣ · Памѧтии два десѧти и пѧть · Въспоминании три · Изречении единъ на десѧте · Противѹ риторомъ · Противѹ Алексиновꙑмъ отъвѣтомъ · Противѹ разговорьникомъ три · Противѹ Клеантѹ · Послании четыре · Панетии же и Сосикратъ глаголѥта токмо посланиꙗ єго быти · инаꙗ же Аристона Перипатетика ·",
-    "originalText": "Βιβλία δ' αὐτοῦ φέρεται τάδε· Προτρεπτικῶν βʹ, Περὶ τῶν Ζήνωνος δογμάτων, Διάλογοι, Σχολῶν Ϛʹ, Περὶ σοφίας διατριβῶν ζʹ, Ἐρωτικαὶ διατριβαί, Ὑπομνήματα ὑπὲρ κενοδοξίας, Ὑπομνημάτων κεʹ, Ἀπομνημονευμάτων γʹ, Χρειῶν ιαʹ, Πρὸς τοὺς ῥήτορας, Πρὸς τὰς Ἀλεξίνου ἀντιγραφάς, Πρὸς τοὺς διαλεκτικοὺς γʹ, Πρὸς Κλεάνθην, Ἐπιστολῶν δʹ, Παναίτιος δὲ καὶ Σωσικράτης μόνας αὐτοῦ τὰς ἐπιστολάς φασι, τὰ δ' ἄλλα τοῦ περιπατητικοῦ Ἀρίστωνος.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.163"
-      }
-    ]
-  },
-  {
-    "id": "mm-002081",
-    "type": "mention",
-    "sr": "Diogen Laertije mu se narugao ovim hromim jambom: Zašto si, star i ćelav, Aristone, dao suncu da ti peče teme? Tražeći više toplote no što treba, nehotice si našao zaista hladni Had.",
-    "stsl": "Діогенъ Лаертии посмѣꙗ сѧ емѹ хромꙑмъ стихомь · Чесо ради старъ и лꙑсъ сꙑ · Аристонє · темѧ слънцѹ испещи даде · Теплотꙑ паче потрѣбꙑ искавъ · студьнꙑи въистинѫ Адъ не хотѧ обрѣте ·",
-    "originalText": "Προσεπαίξαμεν δ' αὐτῷ τόνδε τὸν τρόπον τῷ ἰάμβῳ τῷ χωλῷ· Τί δὴ γέρων ὢν καὶ φάλανθος, ὦ 'ρίστων, τὸ βρέγμ' ἔδωκας ἡλίῳ κατοπτῆσαι; τοιγὰρ τὸ θερμὸν πλεῖον ἢ δέοι ζητῶν τὸν ψυχρὸν ὄντως εὗρες οὐ θέλων Ἅιδην.",
-    "author": "Aristo of Chios",
-    "sources": [
-      {
-        "name": "diogenes-laertius",
-        "reference": "VII.164"
-      }
-    ]
-  },
-  {"id":"mm-900289","type":"quote","sr":"Filozofi škode slušaocima koji dobre reči rđavo tumače: iz Aristipove škole mogu izići rasipnici, a iz Zenonove opori ljudi.","stsl":"Философи врѣдѧть слꙑшателемъ · иже добра словеса ꙁълѣ толкѹѭть · Отъ Аристипова ѹчилишта расточьници изити могѫть · отъ Зенонова же жесточьции ·","originalText":"nocere audientibus philosophos iis, qui bene dicta male interpretarentur; posse enim asotos ex Aristippi, acerbos e Zenonis schola exire.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 348"}]},
-  {"id":"mm-900290","type":"quote","sr":"Ko se muči oko opštih nauka, a zanemaruje filozofiju, nalik je Penelopinim proscima: ne dobivši nju, okreću se njenim sluškinjama. Mnoštvo je nalik Laertu: brižno uređuje imanje, a vlastitu dušu pušta da zaraste u divlje strasti.","stsl":"Иже о обьштихъ наѹкахъ трѹждаѥть сѧ · философиѥѭ же небрѣжеть · подобьнъ женихомъ Пенелопинꙑмъ · онꙑѧ не полѹчивъше · къ рабꙑнꙗмъ єѧ обраштаѭть сѧ · Мъножьство Лаертѹ подобьно · имѣниѥ прилѣжьно оустраꙗѥть · своѭ же дѹшѫ дивиими страстьми зарасти оставлꙗѥть ·","originalText":"τοὺς περὶ τὰ ἐγκύκλια μαθήματα πονουμένους, ἀμελοῦντας δὲ φιλοσοφίας, ἔλεγεν ὁμοίους εἶναι τοῖς μνηστῆρσι τῆς Πηνελόπης, οἳ ἀποτυγχάνοντες ἐκείνης περὶ τὰς θεραπαίνας ἐγίνοντο. τοὺς πολλοὺς εἴκαζε τῷ Λαέρτῃ, ὅστις τῶν κατὰ τὸν ἀγρὸν ἐπιμελούμενος πάντων, ὀλιγώρως εἶχεν ἑαυτοῦ· καὶ γὰρ τούτους τῶν κτημάτων πλείστην ἐπιμέλειαν ποιουμένους περιορᾶν τὴν ψυχὴν ἑαυτῶν πλήρη παθῶν ἀγρίων οὖσαν.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 350"}]},
-  {"id":"mm-900291","type":"reported","sr":"Za blažen život dovoljno je slovo koje nas prisvaja vrlini, otuđuje od poroka i obara vrednost svega između njih — stvari kojima mnoštvo, prestrašeno, unesrećuje sebe.","stsl":"Къ блаженомѹ житію довълно слово · къ добродѣтели насъ присваꙗѥ · отъ порока отчѹждаѥ · средьнихъ же вештии цѣнѫ низлагаѥть · имиже мъножьство оустрашено себе озълоблꙗѥть ·","originalText":"ἀρκεῖν δὲ πρὸς τὸ μακαρίως βιῶναι τὸν οἰκειοῦντα μὲν πρὸς ἀρετὴν λόγον, ἀπαλλοτριοῦντα δὲ κακίας, κατατρέχοντα δὲ τῶν μεταξὺ τούτων, περὶ ἃ οἱ πολλοὶ πτοηθέντες κακοδαιμονοῦσιν.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 356"}]},
-  {"id":"mm-900292","type":"reported","sr":"Zdravlje nije povlašćena ravnodušnost. Nazvati ga povlašćenim gotovo je isto što i nazvati ga dobrom. Stvari između vrline i poroka nemaju prirodnu razliku: ista stvar prema okolnostima može biti birana ili odbacivana.","stsl":"Здравиѥ не єсть прѣдъположено безразличьно · прѣдъположено є нарешти · едъва не тожде ꙗко добро · Вещи междѹ добродѣтелиѭ и порокомь природьна различиꙗ не имѫть · тажде вешь по врѣмени избираѥть сѧ или отъвръгаѥть ·","originalText":"μὴ εἶναι δὲ προηγμένον ἀδιάφορον τὴν ὑγείαν. ἴσον γάρ ἐστι τὸ προηγμένον αὐτὴν λέγειν ἀδιάφορον τῷ ἀγαθὸν ἀξιοῦν, καὶ σχεδὸν ὀνόματι μόνον διαφέρον. καθόλου γὰρ τὰ μεταξὺ ἀρετῆς καὶ κακίας ἀδιάφορα μὴ ἔχειν μηδεμίαν παραλλαγήν, ἀλλὰ παρὰ τὰς διαφόρους τῶν καιρῶν περιστάσεις.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 361"}]},
-  {"id":"mm-900293","type":"quote","sr":"Živećeš veličanstveno i krasno: činićeš šta ti se god pokaže, nikada se nećeš mučiti, žudeti ni bojati.","stsl":"Величьно и красно поживеши · єже ти сѧ покажеть сътвориши · николиже мѫчити сѧ · желати ни боꙗти сѧ бѫдеши ·","originalText":"Vives, inquit Aristo, magnifice atque praeclare, quod erit cumque visum, ages, numquam angere, numquam cupies, numquam timebis.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 368"}]},
-  {"id":"mm-900294","type":"quote","sr":"Protiv celog četveroglasja — zadovoljstva, tuge, straha i želje — potrebno je mnogo vežbe i borbe.","stsl":"Противѹ вьсемѹ четверогласію · сласти · печали · страхѹ и желанию · мъного ѹпражнениꙗ и брани потрѣба ·","originalText":"πρὸς ὅλον τὸ τετράχορδον, ἡδονὴν λύπην φόβον ἐπιθυμίαν, πολλῆς δεῖ τῆς ἀσκήσεως καὶ μάχης.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 370"}]},
-  {"id":"mm-900295","type":"quote","sr":"Po prirodi nema otadžbine, kao što nema ni kuće, njive, kovačnice ili lečilišta. Svaka se tako naziva prema onome ko u njoj boravi i njome se služi.","stsl":"По природѣ ни отьчьства нѣсть · ꙗкоже ни домѹ · нивꙑ · ковачьницѧ ни лѣчьницѧ · Къждоѥ тако нарицаѥть сѧ по живѫштемь въ немь и служѧштемь сѧ имь ·","originalText":"φύσει γὰρ οὐκ ἔστι πατρίς, ὥσπερ οὐδ’ οἶκος οὐδ’ ἀγρὸς οὐδὲ χαλκεῖον, οὐδ’ ἰατρεῖον· ἀλλὰ γίγνεται, μᾶλλον δ’ ὀνομάζεται καὶ καλεῖται τούτων ἕκαστον ἀεὶ πρὸς τὸν οἰκοῦντα καὶ χρώμενον.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 371"}]},
-  {"id":"mm-900296","type":"quote","sr":"Od dece se razlikujemo samo time što ona luduju za kamenčićima, a mi za slikama i kipovima: naše ludorije su skuplje.","stsl":"Отъ дѣтии тъкъмо симь различаѥмъ сѧ · онꙑ камꙑчькꙑ ради безѹмьствѹѭть · мꙑ же иконъ и стлъпъ ради · наше безѹмиѥ дражаѥ ·","originalText":"quid ergo inter nos et illos interest, ut Ariston ait, nisi quod nos circa tabulas et statuas insanimus, carius inepti?","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 372"}]},
-  {"id":"mm-900297","type":"quote","sr":"Kamo sreće da i zveri mogu razumeti reči koje pokreću ka vrlini.","stsl":"О да бы и ꙁвѣри словеса разумѣти могли · ꙗже къ добродѣтели движѫть ·","originalText":"ὤφελεν καὶ τὰ θηρία λόγων συνιέναι κινητικῶν πρὸς ἀρετήν.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 382"}]},
-  {"id":"mm-900298","type":"quote","sr":"Ni kupatilo ni slovo koje ne čisti ničemu ne koristi.","stsl":"Ни банꙗ ни слово не очищаѭште ничтоже пользѹѥть ·","originalText":"οὔτε γὰρ βαλανείου, οὔτε λόγου μὴ καθαίροντος ὄφελός ἐστιν.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 385"}]},
-  {"id":"mm-900299","type":"quote","sr":"Radije bih mladića sumorna nego vesela i gomili mila: dobro vino postane ono koje je mlado bilo tvrdo i oporo; ono koje se dopalo još u buretu ne podnosi starost.","stsl":"Радѣи бихъ ѹноши печальна нежели весела и мъножьствѹ мила · Добро бо вино бꙑваѥть · єже младо жестоко и опоро бѣ · єже же въ бочьвѣ оугоди · старости не трьпить ·","originalText":"Ariston aiebat malle se adulescentem tristem quam hilarem et amabilem turbae. vinum enim bonum fieri, quod recens durum et asperum visum est; non pati aetatem, quod in dolio placuit.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 388"}]},
-  {"id":"mm-900300","type":"quote","sr":"Ko duboko zalazi u dijalektiku nalik je onome koji jede raka: radi malo hrane muči se oko mnogih kostiju.","stsl":"Иже въ разговорьство глѫбоко въходитъ · подобьнъ рака ꙗдѫштемѹ · малꙑѧ ради пищѧ о мъногꙑихъ костехъ трѹждаѥть сѧ ·","originalText":"οἱ ἐν διαλεκτικῇ βαθύνοντες ἐοίκασι καρκίνους μασωμένοις, οἳ δι’ ὀλίγον τρόφιμον περὶ πολλὰ ὀστᾶ ἀσχολοῦνται.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 392"}]},
-  {"id":"mm-900301","type":"quote","sr":"Kukurek, uzet u komadu, čisti; samleven presitno, guši. Takvo je i filozofsko sitničarenje.","stsl":"Чемерика цѣла приѧта очищаѥть · прѣмелъко же истлъчена давить · Тако и философьско мелочьнословиѥ ·","originalText":"ὁ ἑλλέβορος ὁλοσχερέστερος μὲν ληφθεὶς καθαίρει, εἰς δὲ πάνυ σμικρὰ τριφθεὶς πνίγει· οὕτω καὶ ἡ κατὰ φιλοσοφίαν λεπτολογία.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 394"}]},
-  {"id":"mm-900302","type":"quote","sr":"Kao što kormilaru nije muka ni na velikom ni na malom brodu, dok je neiskusnome muka na oba, tako se obrazovan ne pomućuje ni u bogatstvu ni u siromaštvu, a neobrazovan u oba.","stsl":"Ꙗкоже кръмьчиѥ не мѫчить сѧ ни въ велицѣмь ни въ малѣмь корабли · неискѹсьнъ же въ обою · тако наѹченъ ни въ богатъствѣ ни въ ништети не съмѫштаѥть сѧ · ненаѹченъ же въ обою ·","originalText":"Κυβερνήτης μὲν οὔτε ἐν μεγάλῳ πλοίῳ οὔτε ἐν μικρῷ ναυτιάσει, οἱ δὲ ἄπειροι ἐν ἀμφοῖν· οὕτως ὁ μὲν πεπαιδευμένος καὶ ἐν πλούτῳ καὶ ἐν πενίᾳ οὐ ταράττεται, ὁ δ’ ἀπαίδευτος ἐν ἀμφοῖν.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 396"}]},
-  {"id":"mm-900303","type":"quote","sr":"San, poput carinika, oduzima polovinu kratkog života datog ljudima.","stsl":"Сънъ ꙗко мꙑтарь половинѫ кратъкаго живота чловѣкомъ данаго отъиметь ·","originalText":"ὁ ὕπνος οἷον τελώνης τὸ ἥμισυ ἀφαιρεῖ τούτου.","author":"Aristo of Chios","sources":[{"name":"aristo-fragments","reference":"SVF I 403"}]}
+    {
+        "id":  "mm-000316",
+        "type":  "bio",
+        "year":  -300,
+        "sr":  "Ariston sa Hiosa, zvan Ćelavi, imao je nadimak Sirena.",
+        "stsl":  "Аристонъ отъ Хиа · нарицаемꙑи Лꙑсꙑи · проꙁъванъ Сирена ·",
+        "originalText":  "Ἀρίστων ὁ Χῖος ὁ Φάλανθος ἐπικαλούμενος Σειρήν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.160"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-000317",
+        "type":  "reported",
+        "sr":  "Govorio je da je svrha živeti ravnodušno prema stvarima između vrline i poroka, ne praveći među njima nikakvu razliku, već se prema svima jednako odnositi.",
+        "stsl":  "Съвръхѫ глаголааше бꙑти · равнодѹшьно жити къ вещемъ междѹ добродѣтелиѭ и порокомь · ни коѥгоже различиꙗ въ нихъ оставлꙗти · нъ къ вьсѣмъ єдинако сѧ имѣти ·",
+        "originalText":  "Τέλος ἔφησεν εἶναι τὸ ἀδιαφόρως ἔχοντα ζῆν πρὸς τὰ μεταξὺ ἀρετῆς καὶ κακίας μηδ\u0027 ἡντινοῦν ἐν αὐτοῖς παραλλαγὴν ἀπολείποντα, ἀλλ\u0027 ἐπίσης ἐπὶ πάντων ἔχοντα.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.160"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-000318",
+        "type":  "quote",
+        "sr":  "Mudrac je sličan dobrom glumcu koji, bilo da preuzme ulogu Tersita ili Agamemnona, svaku igra kako dolikuje.",
+        "stsl":  "Мѫдрьць подобьнъ єсть добромѹ глѹмьцѹ · иже · аще ли прииметь обраꙁъ Терсита или Агамемнона · кождꙑи лѣпо сътворить ·",
+        "originalText":  "εἶναι γὰρ ὅμοιον τὸν σοφὸν τῷ ἀγαθῷ ὑποκριτῇ, ὃς ἄν τε Θερσίτου ἄν τε Ἀγαμέμνονος πρόσωπον ἀναλάβῃ, ἑκάτερον ὑποκρίνεται προσηκόντως.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.160"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-000319",
+        "type":  "reported",
+        "sr":  "Odbacivao je fiziku i logiku, govoreći da je fizika izvan našeg domašaja, a da se logika nas uopšte ne tiče; jedino se etika tiče nas.",
+        "stsl":  "Отъвръгааше ѹчениѥ о єстествѣ и ѹчениѥ о словесѣ · глаголѧ ꙗко пръвоѥ вꙑше насъ єсть · а вътороѥ ничьтоже къ намъ · токмо ѹчениѥ о нравѣ къ намъ єсть ·",
+        "originalText":  "Τόν τε φυσικὸν τόπον καὶ τὸν λογικὸν ἀνῄρει, λέγων τὸν μὲν εἶναι ὑπὲρ ἡμᾶς, τὸν δ\u0027 οὐδὲν πρὸς ἡμᾶς, μόνον δὲ τὸν ἠθικὸν εἶναι πρὸς ἡμᾶς.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.160"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-000320",
+        "type":  "reported",
+        "sr":  "Govorio je da su dijalektička rasuđivanja slična paučinama: premda izgledaju kao delo neke veštine, beskorisna su.",
+        "stsl":  "Разговорьнаꙗ словеса · глаголааше · подобьна сѫть паѹчинамъ · ꙗже · аще и хѫдожьство нѣкоѥ ꙗвлꙗѭть · непотрѣбьна сѫть ·",
+        "originalText":  "Ἐοικέναι δὲ τοὺς διαλεκτικοὺς λόγους τοῖς ἀραχνίοις, ἃ καίτοι δοκοῦντα τεχνικόν τι ἐμφαίνειν, ἄχρηστά ἐστιν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.161"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-000321",
+        "type":  "anecdote",
+        "year":  -270,
+        "sr":  "Protivio se Arkesilaju. Jednom, videvši nakaznog bika koji je imao matericu, reče: Jao meni, Arkesilaju je dat argument protiv očiglednosti.",
+        "stsl":  "Противлꙗаше сѧ Аркесилаѭ · Єдиноѭ видѣвъ чѹдовьна бꙑка · иже имать ложесна · рече · Горе мънѣ · данъ бꙑстъ Аркесилаѭ доводъ противѫ ꙗвьности ·",
+        "originalText":  "Ἀπετείνετο δὲ πρὸς Ἀρκεσίλαον· ὅτε θεασάμενος ταῦρον τερατώδη μήτραν ἔχοντα, οἴμοι, ἔφη, δέδοται Ἀρκεσιλάῳ ἐπιχείρημα κατὰ τῆς ἐναργείας.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.162"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-000322",
+        "type":  "anecdote",
+        "year":  -270,
+        "sr":  "Kada je neki akademik rekao da ništa ne poima, Ariston ga upita: Zar ne vidiš ni čoveka koji sedi pored tebe? Pošto ovaj odgovori da ne vidi, Ariston reče: Ko te oslepi, ko ti oduze svetlost očiju?",
+        "stsl":  "Єгда нѣкыи академикъ рече ꙗко ничьтоже разѹмѣѥть · Аристонъ въпроси и · Єда ни близъ тебе сѣдѧштаго чловѣка видиши · Онѹ же отъвьргъшѹ · Аристонъ рече · Кто тѧ ослѣпи · къто ти свѣтъ очию отъꙗ ·",
+        "originalText":  "Πρὸς δὲ τὸν φάμενον Ἀκαδημαϊκὸν οὐδὲν καταλαμβάνειν, « ἆρ\u0027 οὐδὲ τὸν πλησίον σου καθήμενον ὁρᾷς; » εἶπεν· ἀρνησαμένου δέ, τίς \u003cδέ\u003e σ\u0027 ἐτύφλωσεν (ἔφη), τίς ἀφείλετο λαμπάδος αὐγάς;",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.163"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-000324",
+        "type":  "anecdote",
+        "year":  -250,
+        "sr":  "Priča se da je, budući ćelav, izgoreo na suncu i tako umro.",
+        "stsl":  "Глаголѥть ꙗко · бꙑвъ лꙑсъ · иꙁгорѣ на слънцѹ и тако ѹмрѣ ·",
+        "originalText":  "Τοῦτον λόγος φαλακρὸν ὄντα ἐγκαυθῆναι ὑπὸ ἡλίου καὶ ὧδε τελευτῆσαι.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.164"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-002074",
+        "type":  "reported",
+        "sr":  "Ariston nije uvodio ni mnoge vrline, kao Zenon, ni jednu vrlinu zvanu mnogim imenima, kao Megarani, već ih je razlikovao prema njihovim odnosima.",
+        "stsl":  "Аристонъ не въводꙗаше ни многꙑ добродѣтели ꙗкоже Ꙁинонъ · ни единѫ многꙑми именꙑ нарицаемѫ ꙗкоже Мегарꙗне · нъ по томѹ · къ чемѹ и како имать сѧ ·",
+        "originalText":  "Ἀρετάς τ\u0027 οὔτε πολλὰς εἰσῆγεν, ὡς ὁ Ζήνων, οὔτε μίαν πολλοῖς ὀνόμασι καλουμένην, ὡς οἱ Μεγαρικοί, ἀλλὰ κατὰ τὸ πρός τί πως ἔχειν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.161"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-002075",
+        "type":  "bio",
+        "year":  -280,
+        "sr":  "Raspravljao je u Kinosargu i stekao glas osnivača škole; Miltijad i Difil nazivani su aristonovcima. Bio je ubedljiv govornik i po ukusu mnoštva.",
+        "stsl":  "Въ Кѵносарꙁѣ бесѣдоваше и началникъ ѹчениꙗ проꙁъва сѧ · Милтіадъ и Діфилъ аристоновьци нарицахѫ сѧ · Ѹбѣдительнъ бѣ и народѹ ѹгодьнъ ·",
+        "originalText":  "Οὕτω δὲ φιλοσοφῶν καὶ ἐν Κυνοσάργει διαλεγόμενος ἴσχυσεν αἱρετιστὴς ἀκοῦσαι. Μιλτιάδης οὖν καὶ Δίφιλος Ἀριστώνειοι προσηγορεύοντο. Ἦν δέ τις πειστικὸς καὶ ὄχλῳ πεποιημένος.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.161"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-002076",
+        "type":  "mention",
+        "sr":  "Timon je o njemu rekao: I neko što poreklo vuče od laskavog Aristona.",
+        "stsl":  "Тимонъ о немь рече · И нѣкыи отъ лъстива Аристона родъ влекꙑ ·",
+        "originalText":  "ὅθεν ὁ Τίμων φησὶ περὶ αὐτοῦ, Καί τις Ἀρίστωνος γέννης ἄπο αἱμύλον ἕλκων.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.161"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-002077",
+        "type":  "bio",
+        "year":  -280,
+        "sr":  "Diokle iz Magnezije kaže da je, pošto je Zenon zapao u dugu bolest, prišao Polemonu i prešao na njegovu stranu.",
+        "stsl":  "Діоклъ Магнезиискъ глаголеть · єгда Зенонъ въ длъгѫ болѣзнь въпаде · Аристонъ къ Полемонѹ пристѫпи и къ немѹ прѣложи сѧ ·",
+        "originalText":  "Παραβαλὼν δὲ Πολέμωνι, φησὶ Διοκλῆς ὁ Μάγνης, μετέθετο, Ζήνωνος ἀρρωστίᾳ μακρᾷ περιπεσόντος.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.162"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-002078",
+        "type":  "reported",
+        "sr":  "Najviše se držao stoičkog učenja da mudrac ništa ne prihvata kao puko mnenje. Persej je to učenje osporio tako što je jednog od dvojice braće blizanaca naveo da Aristonu preda neki predmet na čuvanje, a potom drugoga da ga zatraži natrag. Kada se Ariston našao u nedoumici, Persej ga je time opovrgao.",
+        "stsl":  "Паче вьсего стоичьскаго ѹчениꙗ дръжаше сѧ · ꙗко мѫдрьць ничьтоже въ мьнѣниѥ приимлеть · Семѹ ѹчениѭ Персеи противѧ сѧ · единаго отъ двою братѹ блиꙁньцѹ сътвори покладъ Аристонѹ дати · потомь же другаго · да въсприиметь и · и тако Аристона недоѹмѣвъша обличи ·",
+        "originalText":  "Μάλιστα δὲ προσεῖχε Στωικῷ δόγματι τῷ τὸν σοφὸν ἀδόξαστον εἶναι. Πρὸς ὃ Περσαῖος ἐναντιούμενος διδύμων ἀδελφῶν τὸν ἕτερον ἐποίησεν αὐτῷ παρακαταθήκην δοῦναι, ἔπειτα τὸν ἕτερον ἀπολαβεῖν· καὶ οὕτως ἀπορούμενον διήλεγξεν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.162"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-002080",
+        "type":  "works",
+        "sr":  "Pripisivana su mu sledeća dela: dve knjige Podsticaja; O Zenonovim učenjima; Razgovori; šest knjiga Predavanja; sedam rasprava O mudrosti; Ljubavne rasprave; Beleške o sujeti; dvadeset pet knjiga Beležaka; tri knjige Sećanja; jedanaest knjiga Izreka; Protiv govornika; Protiv Aleksinovih odgovora; tri knjige Protiv dijalektičara; Protiv Kleanta; četiri knjige Pisama. Panetije i Sosikrat kažu da su samo pisma njegova, a ostalo Aristona Peripatetika.",
+        "stsl":  "Дѣла сиꙗ емѹ приписахѫ · Поѹчениꙗ двѣ · О Зеноновѣхъ ѹчениихъ · Разговори · Бесѣдъ шесть · О мѫдрости бесѣдъ седмь · Бесѣдꙑ любовьнꙑ · Памѧти о сѹѥтѣ · Памѧтии два десѧти и пѧть · Въспоминании три · Изречении единъ на десѧте · Противѹ риторомъ · Противѹ Алексиновꙑмъ отъвѣтомъ · Противѹ разговорьникомъ три · Противѹ Клеантѹ · Послании четыре · Панетии же и Сосикратъ глаголѥта токмо посланиꙗ єго быти · инаꙗ же Аристона Перипатетика ·",
+        "originalText":  "Βιβλία δ\u0027 αὐτοῦ φέρεται τάδε· Προτρεπτικῶν βʹ, Περὶ τῶν Ζήνωνος δογμάτων, Διάλογοι, Σχολῶν Ϛʹ, Περὶ σοφίας διατριβῶν ζʹ, Ἐρωτικαὶ διατριβαί, Ὑπομνήματα ὑπὲρ κενοδοξίας, Ὑπομνημάτων κεʹ, Ἀπομνημονευμάτων γʹ, Χρειῶν ιαʹ, Πρὸς τοὺς ῥήτορας, Πρὸς τὰς Ἀλεξίνου ἀντιγραφάς, Πρὸς τοὺς διαλεκτικοὺς γʹ, Πρὸς Κλεάνθην, Ἐπιστολῶν δʹ, Παναίτιος δὲ καὶ Σωσικράτης μόνας αὐτοῦ τὰς ἐπιστολάς φασι, τὰ δ\u0027 ἄλλα τοῦ περιπατητικοῦ Ἀρίστωνος.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.163"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-002081",
+        "type":  "mention",
+        "sr":  "Diogen Laertije mu se narugao ovim hromim jambom: Zašto si, star i ćelav, Aristone, dao suncu da ti peče teme? Tražeći više toplote no što treba, nehotice si našao zaista hladni Had.",
+        "stsl":  "Діогенъ Лаертии посмѣꙗ сѧ емѹ хромꙑмъ стихомь · Чесо ради старъ и лꙑсъ сꙑ · Аристонє · темѧ слънцѹ испещи даде · Теплотꙑ паче потрѣбꙑ искавъ · студьнꙑи въистинѫ Адъ не хотѧ обрѣте ·",
+        "originalText":  "Προσεπαίξαμεν δ\u0027 αὐτῷ τόνδε τὸν τρόπον τῷ ἰάμβῳ τῷ χωλῷ· Τί δὴ γέρων ὢν καὶ φάλανθος, ὦ \u0027ρίστων, τὸ βρέγμ\u0027 ἔδωκας ἡλίῳ κατοπτῆσαι; τοιγὰρ τὸ θερμὸν πλεῖον ἢ δέοι ζητῶν τὸν ψυχρὸν ὄντως εὗρες οὐ θέλων Ἅιδην.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "diogenes-laertius",
+                            "reference":  "VII.164"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900289",
+        "type":  "quote",
+        "sr":  "Filozofi škode slušaocima koji dobre reči rđavo tumače: iz Aristipove škole mogu izići rasipnici, a iz Zenonove opori ljudi.",
+        "stsl":  "Любомѫдрьци врѣдѧть слꙑшателемъ · иже добра словеса ꙁълѣ толкѹѭть · Отъ Аристипова ѹчилишта расточьници изити могѫть · отъ Зенонова же жесточьции ·",
+        "originalText":  "nocere audientibus philosophos iis, qui bene dicta male interpretarentur; posse enim asotos ex Aristippi, acerbos e Zenonis schola exire.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 348"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900290",
+        "type":  "quote",
+        "sr":  "Ko se muči oko opštih nauka, a zanemaruje filozofiju, nalik je Penelopinim proscima: ne dobivši nju, okreću se njenim sluškinjama. Mnoštvo je nalik Laertu: brižno uređuje imanje, a vlastitu dušu pušta da zaraste u divlje strasti.",
+        "stsl":  "Иже о обьштихъ наѹкахъ трѹждаѥть сѧ · философиѥѭ же небрѣжеть · подобьнъ женихомъ Пенелопинꙑмъ · онꙑѧ не полѹчивъше · къ рабꙑнꙗмъ єѧ обраштаѭть сѧ · Мъножьство Лаертѹ подобьно · имѣниѥ прилѣжьно оустраꙗѥть · своѭ же дѹшѫ дивиими страстьми зарасти оставлꙗѥть ·",
+        "originalText":  "τοὺς περὶ τὰ ἐγκύκλια μαθήματα πονουμένους, ἀμελοῦντας δὲ φιλοσοφίας, ἔλεγεν ὁμοίους εἶναι τοῖς μνηστῆρσι τῆς Πηνελόπης, οἳ ἀποτυγχάνοντες ἐκείνης περὶ τὰς θεραπαίνας ἐγίνοντο. τοὺς πολλοὺς εἴκαζε τῷ Λαέρτῃ, ὅστις τῶν κατὰ τὸν ἀγρὸν ἐπιμελούμενος πάντων, ὀλιγώρως εἶχεν ἑαυτοῦ· καὶ γὰρ τούτους τῶν κτημάτων πλείστην ἐπιμέλειαν ποιουμένους περιορᾶν τὴν ψυχὴν ἑαυτῶν πλήρη παθῶν ἀγρίων οὖσαν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 350"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900291",
+        "type":  "reported",
+        "sr":  "Za blažen život dovoljno je slovo koje nas srođuje s vrlinom, otuđuje od poroka i obezvređuje ono između njih — stvari zbog kojih se prestrašeno mnoštvo unesrećuje.",
+        "stsl":  "Къ блаженомѹ житію довълно слово · къ добродѣтели насъ присваꙗѥ · отъ порока отчѹждаѥ · средьнꙗꙗ же обезцѣнꙗѥть · ихъже ради оустрашено мъножьство зълострастьствѹѥть ·",
+        "originalText":  "ἀρκεῖν δὲ πρὸς τὸ μακαρίως βιῶναι τὸν οἰκειοῦντα μὲν πρὸς ἀρετὴν λόγον, ἀπαλλοτριοῦντα δὲ κακίας, κατατρέχοντα δὲ τῶν μεταξὺ τούτων, περὶ ἃ οἱ πολλοὶ πτοηθέντες κακοδαιμονοῦσιν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 356"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900292",
+        "type":  "reported",
+        "sr":  "Zdravlje nije povlašćeno među ravnodušnim stvarima. Nazvati ga povlašćenim gotovo je isto što i nazvati ga dobrom. Stvari između vrline i poroka po prirodi se ne razlikuju: ista stvar, prema okolnostima, može biti birana ili odbacivana.",
+        "stsl":  "Здравиѥ въ безразличьнꙑихъ прѣдъположено нѣсть · Прѣдъположено є нарешти · едъва не тожде ꙗко добро · Вещи междѹ добродѣтелиѭ и порокомь по природѣ не различаѭть сѧ · тажде вешь по обьстоꙗнию избираѥть сѧ или отъвръгаѥть ·",
+        "originalText":  "μὴ εἶναι δὲ προηγμένον ἀδιάφορον τὴν ὑγείαν. ἴσον γάρ ἐστι τὸ προηγμένον αὐτὴν λέγειν ἀδιάφορον τῷ ἀγαθὸν ἀξιοῦν, καὶ σχεδὸν ὀνόματι μόνον διαφέρον. καθόλου γὰρ τὰ μεταξὺ ἀρετῆς καὶ κακίας ἀδιάφορα μὴ ἔχειν μηδεμίαν παραλλαγήν, ἀλλὰ παρὰ τὰς διαφόρους τῶν καιρῶν περιστάσεις.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 361"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900293",
+        "type":  "quote",
+        "sr":  "Živećeš veličanstveno i krasno: činićeš što god ti se učini, nikada se nećeš mučiti, žudeti ni bojati.",
+        "stsl":  "Величьно и красно поживеши · єже ти сѧ покажеть сътвориши · николиже мѫчити сѧ · желати ни боꙗти сѧ бѫдеши ·",
+        "originalText":  "Vives, inquit Aristo, magnifice atque praeclare, quod erit cumque visum, ages, numquam angere, numquam cupies, numquam timebis.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 368"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900294",
+        "type":  "quote",
+        "sr":  "Protiv celog četveroglasja — zadovoljstva, tuge, straha i želje — potrebno je mnogo vežbe i borbe.",
+        "stsl":  "Противѹ вьсемѹ четверогласію · сласти · печали · страхѹ и желанию · мъного ѹпражнениꙗ и брани потрѣба ·",
+        "originalText":  "πρὸς ὅλον τὸ τετράχορδον, ἡδονὴν λύπην φόβον ἐπιθυμίαν, πολλῆς δεῖ τῆς ἀσκήσεως καὶ μάχης.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 370"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900295",
+        "type":  "quote",
+        "sr":  "Po prirodi nema otadžbine, kao što nema ni kuće, njive, kovačnice ili lečilišta. Svaka se tako naziva prema onome ko u njoj boravi i njome se služi.",
+        "stsl":  "По природѣ ни отьчьства нѣсть · ꙗкоже ни домѹ · нивꙑ · ковачьницѧ ни лѣчьницѧ · Къждоѥ тако нарицаѥть сѧ по живѫштемь въ немь и служѧштемь сѧ имь ·",
+        "originalText":  "φύσει γὰρ οὐκ ἔστι πατρίς, ὥσπερ οὐδ’ οἶκος οὐδ’ ἀγρὸς οὐδὲ χαλκεῖον, οὐδ’ ἰατρεῖον· ἀλλὰ γίγνεται, μᾶλλον δ’ ὀνομάζεται καὶ καλεῖται τούτων ἕκαστον ἀεὶ πρὸς τὸν οἰκοῦντα καὶ χρώμενον.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 371"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900296",
+        "type":  "quote",
+        "sr":  "Od dece se razlikujemo samo time što ona luduju za kamenčićima, a mi za slikama i kipovima: naše ludorije su skuplje.",
+        "stsl":  "Отъ дѣтии тъкъмо симь различаѥмъ сѧ · онꙑ камꙑчькꙑ ради безѹмьствѹѭть · мꙑ же иконъ и стлъпъ ради · наше безѹмиѥ дражаѥ ·",
+        "originalText":  "quid ergo inter nos et illos interest, ut Ariston ait, nisi quod nos circa tabulas et statuas insanimus, carius inepti?",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 372"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900297",
+        "type":  "quote",
+        "sr":  "Kamo sreće da i zveri mogu razumeti reči koje pokreću ka vrlini.",
+        "stsl":  "О да бы и ꙁвѣри словеса разумѣти могли · ꙗже къ добродѣтели движѫть ·",
+        "originalText":  "ὤφελεν καὶ τὰ θηρία λόγων συνιέναι κινητικῶν πρὸς ἀρετήν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 382"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900298",
+        "type":  "quote",
+        "sr":  "Ni od kupatila ni od slova koje ne čisti nema koristi.",
+        "stsl":  "Ни банꙗ ни слово не очищаѭште ничтоже пользѹѥть ·",
+        "originalText":  "οὔτε γὰρ βαλανείου, οὔτε λόγου μὴ καθαίροντος ὄφελός ἐστιν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 385"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900299",
+        "type":  "quote",
+        "sr":  "Radije bih mladića sumorna nego vesela i gomili mila: dobro vino postane ono koje je mlado bilo tvrdo i oporo; ono koje se dopalo još u buretu ne podnosi starost.",
+        "stsl":  "Радѣи бихъ ѹноши печальна нежели весела и мъножьствѹ мила · Добро бо вино бꙑваѥть · єже младо жестоко и опоро бѣ · єже же въ бочьвѣ оугоди · старости не трьпить ·",
+        "originalText":  "Ariston aiebat malle se adulescentem tristem quam hilarem et amabilem turbae. vinum enim bonum fieri, quod recens durum et asperum visum est; non pati aetatem, quod in dolio placuit.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 388"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900300",
+        "type":  "quote",
+        "sr":  "Ko duboko zalazi u dijalektiku nalik je onome koji jede raka: radi malo hrane muči se oko mnogih kostiju.",
+        "stsl":  "Иже въ разговорьство глѫбоко въходитъ · подобьнъ рака ꙗдѫштемѹ · малꙑѧ ради пищѧ о мъногꙑихъ костехъ трѹждаѥть сѧ ·",
+        "originalText":  "οἱ ἐν διαλεκτικῇ βαθύνοντες ἐοίκασι καρκίνους μασωμένοις, οἳ δι’ ὀλίγον τρόφιμον περὶ πολλὰ ὀστᾶ ἀσχολοῦνται.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 392"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900301",
+        "type":  "quote",
+        "sr":  "Kukurek, uzet u komadu, čisti; samleven presitno, guši. Takvo je i filozofsko sitničarenje.",
+        "stsl":  "Чемерика цѣла приѧта очищаѥть · прѣмелъко же истлъчена давить · Тако и философьско мелочьнословиѥ ·",
+        "originalText":  "ὁ ἑλλέβορος ὁλοσχερέστερος μὲν ληφθεὶς καθαίρει, εἰς δὲ πάνυ σμικρὰ τριφθεὶς πνίγει· οὕτω καὶ ἡ κατὰ φιλοσοφίαν λεπτολογία.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 394"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900302",
+        "type":  "quote",
+        "sr":  "Kao što kormilaru nije muka ni na velikom ni na malom brodu, dok je neiskusnome muka na oba, tako se obrazovan ne uznemirava ni u bogatstvu ni u siromaštvu, a neobrazovan u oba.",
+        "stsl":  "Ꙗкоже кръмьчиѥ не мѫчить сѧ ни въ велицѣмь ни въ малѣмь корабли · неискѹсьнъ же въ обою · тако наѹченъ ни въ богатъствѣ ни въ ништети не съмѫштаѥть сѧ · ненаѹченъ же въ обою ·",
+        "originalText":  "Κυβερνήτης μὲν οὔτε ἐν μεγάλῳ πλοίῳ οὔτε ἐν μικρῷ ναυτιάσει, οἱ δὲ ἄπειροι ἐν ἀμφοῖν· οὕτως ὁ μὲν πεπαιδευμένος καὶ ἐν πλούτῳ καὶ ἐν πενίᾳ οὐ ταράττεται, ὁ δ’ ἀπαίδευτος ἐν ἀμφοῖν.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 396"
+                        }
+                    ]
+    },
+    {
+        "id":  "mm-900303",
+        "type":  "quote",
+        "sr":  "San, poput carinika, oduzima polovinu kratkog života datog ljudima.",
+        "stsl":  "Сънъ ꙗко мꙑтарь половинѫ кратъкаго живота чловѣкомъ данаго отъиметь ·",
+        "originalText":  "ὁ ὕπνος οἷον τελώνης τὸ ἥμισυ ἀφαιρεῖ τούτου.",
+        "author":  "Aristo of Chios",
+        "sources":  [
+                        {
+                            "name":  "aristo-fragments",
+                            "reference":  "SVF I 403"
+                        }
+                    ]
+    }
 ]
