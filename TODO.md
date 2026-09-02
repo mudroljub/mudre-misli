@@ -1,13 +1,11 @@
 # TODO
 
-## Širiti korpus celih dela
+## Širiti sadržaj
 
-- stoički fragmentarni korpusi: Kleant, Hrisip, Ariston sa Hiosa i
-   Antipatar iz Tarsa;
-- Plotin - Eneade
-- Marko Aurelije - Samom sebi
-- preostali Epiktetov gnomologij (`tlg004`–`tlg005`), uz proveru preklapanja
-   sa `Razgovorima` i `Priručnikom`;
+- prevedi stoičke fragmentarne korpuse: Kleant, Hrisip, Ariston sa Hiosa, Antipatar iz Tarsa
+- prevedi Plotin - Eneade
+- prevedi Marko Aurelije - Samom sebi
+- pronađi dodatne izvore za život Epikteta
 
 ## Terminologija i UI
 
