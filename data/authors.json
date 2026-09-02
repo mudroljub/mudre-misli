@@ -130,7 +130,7 @@
     "born": 205,
     "died": 270,
     "originalText": "Πλωτῖνος",
-    "birthplace": "Lycopolis"
+    "birthplace": "Lycopolis (Delta)"
   },
   "Archimedes": {
     "src": "/images/authors/Archimedes_Bust.jpg",
@@ -432,5 +432,12 @@
     "died": 180,
     "originalText": "Μάρκος Αὐρήλιος",
     "birthplace": "Rome"
+  },
+  "Porphyry of Tyre": {
+    "src": "/images/authors/Porphyry_of_Tyre.jpg",
+    "born": 234,
+    "died": 305,
+    "originalText": "Πορφύριος",
+    "birthplace": "Tyre"
   }
 }

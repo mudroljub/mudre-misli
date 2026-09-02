@@ -115,6 +115,9 @@ export interface Translations {
     Volsinii: string;
     Megara: string;
     Ceos: string;
+    Tyre: string;
+    'Lycopolis (Delta)': string;
+    Croton: string;
   };
   philosophers: {
     Anaxagoras: string;
@@ -178,6 +181,7 @@ export interface Translations {
     'Melissus of Samos': string;
     Iamblichus: string;
     'Marcus Aurelius': string;
+    'Porphyry of Tyre': string;
   };
 }
 
@@ -297,6 +301,9 @@ export const translations: Record<Language, Translations> = {
       Volsinii: 'Волсинии',
       Megara: 'Мегара',
       Ceos: 'Кеосъ',
+      Tyre: 'Тѷръ',
+      'Lycopolis (Delta)': 'Лѷкополь',
+      Croton: 'Кротонъ',
     },
     philosophers: {
       Anaxagoras: 'Анаѯагоръ',
@@ -360,6 +367,7 @@ export const translations: Record<Language, Translations> = {
       Philolaus: 'Филолаи',
       'Melissus of Samos': 'Мєлисъ',
       Iamblichus: 'Їамблихъ',
+      'Porphyry of Tyre': 'Порфѷрии Тѷрьскꙑи',
     },
   },
   sr: {
@@ -477,6 +485,9 @@ export const translations: Record<Language, Translations> = {
       Volsinii: 'Volsiniji',
       Megara: 'Megara',
       Ceos: 'Keos',
+      Tyre: 'Tir',
+      'Lycopolis (Delta)': 'Likopolj',
+      Croton: 'Kroton',
     },
     philosophers: {
       Anaxagoras: 'Anaksagora',
@@ -540,6 +551,7 @@ export const translations: Record<Language, Translations> = {
       Philolaus: 'Filolaj',
       'Melissus of Samos': 'Melis',
       Iamblichus: 'Jamblihos',
+      'Porphyry of Tyre': 'Porfirije iz Tira',
     },
   },
 };

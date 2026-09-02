@@ -1,8 +1,5 @@
 # TODO
 
-- Jamblihos nema mapu sa gradom rođenja
-- dodati Porfirija iz Tira
-
 ## Širiti korpus celih dela
 
 - stoički fragmentarni korpusi: Kleant, Hrisip, Ariston sa Hiosa i

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "mm-900207",
+    "type": "bio",
+    "year": 250,
+    "sr": "Porfirije se rodio u Tiru, prestonici drevnih Feničana, od uglednih predaka. Stekao je široko obrazovanje i tako brzo napredovao da postade Longinov učenik, a ubrzo i ukras svome učitelju.",
+    "stsl": "Порфѷрии въ Тѷрѣ роди сѧ · стольнѣмь градѣ древьнихъ Финикꙑнъ · отъ славьнꙑихъ прѣдъкъ · Широко наказаниѥ приѧтъ · и тако бръꙁо прѣспѣ · ꙗко Лонгиновъ ѹченикъ бꙑсть · и въскорѣ ѹчителю своемѹ ѹкрашениѥ ·",
+    "originalText": "Tyre was Porphyry's birthplace, the capital city of the ancient Phoenicians, and his ancestors were distinguished men. He was given a liberal education, and advanced so rapidly and made such progress that he became a pupil of Longinus, and in a short time was an ornament to his teacher.",
+    "author": "Porphyry of Tyre",
+    "sources": [{ "name": "eunapius", "reference": "Porphyry" }]
+  },
+  {
+    "id": "mm-900208",
+    "type": "bio",
+    "year": 255,
+    "sr": "U svom sirijskom zavičaju prvobitno se zvao Malh, što znači car. Longin mu nadenu ime Porfirije, prema boji carske odeće.",
+    "stsl": "Въ сѷриистѣи отьчьствинѣ прьвѣѥ Малхъ именоваше сѧ · єже цѣсарь глаголѥтъ сѧ · Лонгинъ же Порфѷрии єго нарече · по цвѣтѹ цѣсарьскꙑꙗ риꙁꙑ ·",
+    "originalText": "Porphyry's name in the Syrian town was originally Malchus (this word means ‘king’), but Longinus gave him the name of Porphyry, thus making it indicate the colour of imperial attire.",
+    "author": "Porphyry of Tyre",
+    "sources": [{ "name": "eunapius", "reference": "Porphyry" }]
+  },
+  {
+    "id": "mm-900209",
+    "type": "bio",
+    "year": 263,
+    "sr": "Čim dođe u Rim i zbliži se s Plotinom, Porfirije zaboravi sve ostalo i potpuno mu se posveti. Nezasito je upijao njegovo učenje i njegove izvorne, nadahnute besede.",
+    "stsl": "Єгда въ Римъ приде и Плѡтинѹ приближи сѧ · Порфѷрии вьсѧ ина ꙁабꙑ · и вьсь ємѹ прѣда сѧ · Несꙑтьно ѹчениѥ єго и самородьнꙑꙗ богодъхновенꙑꙗ бесѣдꙑ приимаше ·",
+    "originalText": "Directly he arrived there and became intimate with that great man Plotinus, he forgot all else and devoted himself wholly to him. And with an insatiable appetite he devoured his teaching and his original and inspired discourses.",
+    "author": "Porphyry of Tyre",
+    "sources": [{ "name": "eunapius", "reference": "Porphyry" }]
+  },
+  {
+    "id": "mm-900210",
+    "type": "mention",
+    "sr": "Porfirije je jasnost znanja hvalio kao vrhovni lek; pošto je njenu moć iskusio, izložio ju je u spisima i izneo na svetlost dana.",
+    "stsl": "Порфѷрии ꙗсность раꙁѹма акы врьховьно врачеваниѥ хвалꙗаше · понеже силѫ єѥ искѹси · въ писаниихъ ѭ иꙁложи и на свѣтъ иꙁнесе ·",
+    "originalText": "Porphyry praised clear knowledge as a sovereign remedy, and since he had tasted it by experience he recorded this in writing and brought it to the light of day.",
+    "author": "Porphyry of Tyre",
+    "sources": [{ "name": "eunapius", "reference": "Porphyry" }]
+  },
+  {
+    "id": "mm-900211",
+    "type": "bio",
+    "year": 270,
+    "sr": "Zahvaljujući svestranom obrazovanju, Porfirije je sve predmete izlagao jasno i razumljivo.",
+    "stsl": "Многообраꙁьнаго ради наказаниꙗ · Порфѷрии вьсѧ ѹчениꙗ ꙗсно и раꙁѹмьно иꙁлагааше ·",
+    "originalText": "Porphyry, like a chain of Hermes let down to mortals, by reason of his many-sided culture expounded all subjects so as to be clear and easy of comprehension.",
+    "author": "Porphyry of Tyre",
+    "sources": [{ "name": "eunapius", "reference": "Porphyry" }]
+  },
+  {
+    "id": "mm-900212",
+    "type": "bio",
+    "year": 270,
+    "sr": "Porfirije je napisao Uvod u Aristotelove Kategorije.",
+    "stsl": "Порфѷрии Въводъ къ Аристотелевꙑмъ Катигориꙗмъ написа ·",
+    "originalText": "Hic scripsit librum de isagogis ad categorias Aristotilis.",
+    "author": "Porphyry of Tyre",
+    "sources": [{ "name": "walter-burley", "reference": "Cap. CXXIX" }]
+  }
+]
