@@ -1,6 +1,6 @@
 <!-- anchor:309a -->Lica · Sokrat i neimenovani prijatelj; u Sokratovom pripovedanju: Hipokrat, Protagora, Hipija, Prodik, Kalija, Alkibijad i Kritija.
 
-Prijatelj · Odakle dolaziš, Sokrate? Ili je jasno da dolaziš iz lova na Alkibijadovu lepotu? Kada sam ga pre neki dan video, učinio mi se još lep, ali ipak već čovek — među nama rečeno, Sokrate — i brada mu već raste.
+Prijatelj · Odakle ti, Sokrate? Ili je jasno da dolaziš iz lova na Alkibijadovu lepotu? Kada sam ga pre neki dan video, učinio mi se još lep, ali ipak već čovek — među nama rečeno, Sokrate — i brada mu već raste.
 
 Sokrat · Pa šta onda? Zar nisi Homerov poštovalac,
 

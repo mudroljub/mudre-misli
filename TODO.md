@@ -2,7 +2,8 @@
 
 - popraviti sr prevod - Platon — Protagora (u works)
    - nisu navedena lica u dijalogu ne zna se ko govori
-- Jamblihos nema mapu
+- Jamblihos nema mapu sa gradom rođenja
+- dodati Porfirija iz Tira
 
 ## Širiti korpus celih dela
 
@@ -16,5 +17,4 @@
 ## Terminologija i UI
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
-   - zname
    - demon
