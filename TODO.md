@@ -26,6 +26,7 @@
   - [ ] proveriti sva sidra i izvornike, aktivirati `work.json` i izgraditi indeks dela
 - [ ] izvršiti završnu ciljanu proveru oba dela i uskladiti dokumentaciju sa stvarnim stanjem
 
+- popraviti greške, pa završiti Aristotel - Metafizika data\works\aristotle\metaphysics
 - dopuniti život Epikteta - kako je prestao da bude rob, kako je pokrenuo svoju filozofsku školu, itd.
 - popraviti prevode Epikteta, izreke su loše prevedene, ne poštuju terminologiju, nerazumljive
 
