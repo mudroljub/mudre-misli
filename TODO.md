@@ -34,4 +34,4 @@
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
    - demon
-   - stroj
+   - stroj, sklad
