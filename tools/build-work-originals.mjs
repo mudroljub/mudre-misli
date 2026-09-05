@@ -115,6 +115,19 @@ const extractStephanus = (xml, anchor) => {
   return teiToText(xml.slice(start, end))
 }
 
+const extractBekker = (xml, anchor) => {
+  const milestones = [...xml.matchAll(/<milestone\b[^>]*\/>/gu)]
+    .filter(match => {
+      const values = attrs(match[0])
+      return values.unit === 'page' && values.resp === 'Bekker'
+    })
+  const index = milestones.findIndex(match => attrs(match[0]).n === anchor)
+  if (index < 0) return null
+  const start = milestones[index].index + milestones[index][0].length
+  const end = milestones[index + 1]?.index ?? xml.indexOf('</div>', start)
+  return teiToText(xml.slice(start, end))
+}
+
 const extractDiscourses = (xml, anchor) => {
   const match = anchor.match(/^([IVX]+)\.(\d+)$/u)
   if (!match) return null
@@ -211,6 +224,9 @@ for (const work of works) {
         text = extractDiogenesSection(xml, work.source.reference, section.anchor)
         citation = `10.${section.anchor}`
       }
+    } else if (work.slug === 'metaphysics') {
+      text = extractBekker(xml, section.anchor)
+      citation = section.anchor
     } else if (work.citationScheme === 'stephanus') {
       text = extractStephanus(xml, section.anchor)
       citation = section.anchor

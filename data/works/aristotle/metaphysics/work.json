@@ -1,0 +1,530 @@
+{
+    "id":  "mw-000012",
+    "slug":  "metaphysics",
+    "author":  "Aristotle",
+    "kind":  "treatise",
+    "title":  {
+                  "sr":  "Metafizika",
+                  "stsl":  "О сущихъ по єстествѣ"
+              },
+    "originalTitle":  "Τὰ μετὰ τὰ φυσικά",
+    "source":  {
+                   "name":  "canonical-greekLit",
+                   "work":  "tlg0086.tlg025"
+               },
+    "citationScheme":  "section",
+    "sections":  [
+                     {
+                         "anchor":  "980a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "980b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "981a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "981b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "982a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "982b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "983a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "983b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "984a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "984b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "985a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "985b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "986a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "986b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "987a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "987b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "988a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "988b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "989a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "989b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "990a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "990b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "991a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "991b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "992a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "992b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "993a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "993b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "994a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "994b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "995a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "995b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "996a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "996b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "997a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "997b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "998a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "998b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "999a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "999b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1000a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1000b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1001a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1001b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1002a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1002b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1003a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1003b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1004a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1004b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1005a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1005b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1006a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1006b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1007a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1007b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1008a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1008b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1009a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1009b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1010a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1010b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1011a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1011b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1012a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1012b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1013a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1013b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1014a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1014b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1015a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1015b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1016a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1016b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1017a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1017b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1018a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1018b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1019a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1019b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1020a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1020b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1021a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1021b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1022a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1022b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1023a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1023b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1024a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1024b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1025a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1025b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1026a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1026b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1027a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1027b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1028a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1028b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1029a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1029b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1030a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1030b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1031a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1031b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1032a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1032b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1033a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1033b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1034a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1034b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1035a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1035b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1036a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1036b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1037a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1037b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1038a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1038b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1039a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1039b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1040a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1040b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1041a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1041b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1042a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1042b",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1043a",
+                         "file":  "metaphysics"
+                     },
+                     {
+                         "anchor":  "1043b",
+                         "file":  "metaphysics"
+                     }
+                 ]
+}
