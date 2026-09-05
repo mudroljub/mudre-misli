@@ -6,8 +6,8 @@
   - [x] dovršiti tehničku pripremu: nacrt manifesta, 12 prevodnih fajlova i 486 kanonskih sidara
   - [x] proveriti da se svih 486 poglavlja pravilno razrešava iz lokalnog grčkog izvora
   - [x] napraviti početni terminološki inventar prema `RECNIK.md`
-  - [x] prevesti knjige I–III: grčki → STSL → srpski → klesanje → provera prema grčkom
-  - [ ] prevesti knjige IV–VI istim postupkom
+  - [x] prevesti knjige I–IV: grčki → STSL → srpski → klesanje → provera prema grčkom
+  - [ ] prevesti knjige V–VI istim postupkom
   - [ ] prevesti knjige VII–IX istim postupkom
   - [ ] prevesti knjige X–XII istim postupkom
   - [ ] uraditi celovitu redakciju: terminologija, ponavljane formule, STSL gramatika i grafija, srpski ritam
@@ -26,8 +26,6 @@
   - [ ] proveriti sva sidra i izvornike, aktivirati `work.json` i izgraditi indeks dela
 - [ ] izvršiti završnu ciljanu proveru oba dela i uskladiti dokumentaciju sa stvarnim stanjem
 
-- popraviti greške u Aristotel - Metafizika u data\works\aristotle\metaphysics
-- završiti prevod Aristotel - Metafizika
 - dopuniti život Epikteta - kako je prestao da bude rob, kako je pokrenuo svoju filozofsku školu, itd.
 - popraviti prevode Epikteta, izreke su loše prevedene, ne poštuju terminologiju, nerazumljive
 
