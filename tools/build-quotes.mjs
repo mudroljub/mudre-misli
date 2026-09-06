@@ -9,7 +9,7 @@ const rootDir = path.resolve(__dirname, '..')
 const inputDir = path.join(rootDir, 'data/quotes')
 const outputFile = path.join(rootDir, 'data/quotes.json')
 const sourcesFile = path.join(rootDir, 'data/sources.json')
-const greekTermsFile = path.join(rootDir, 'data/greek-terms.json')
+const greekTermsFile = path.join(rootDir, 'data/tags.json')
 
 const normalizeGreek = text =>
   text
